@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314144413id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223600id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Get Organized - Organizers and much more
 
