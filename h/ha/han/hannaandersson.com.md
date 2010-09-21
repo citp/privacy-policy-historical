@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626201820id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921110720id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
 
-# Security & Privacy Bar
+# Security & Privacy
 
 | 
 
-Security & Privacy Bar
+Security & Privacy
 
 At Hanna Andersson (“Hanna”) we are committed to your security and privacy. We want to make any shopping experience you have with us enjoyable, informative, convenient, and secure. To accomplish this we collect customer information that permits us to enhance your shopping experience and to communicate with you about our products, services, and promotions. We want to assure you that your personal information is managed responsibly.
 
@@ -35,6 +35,8 @@ Purchase records or information collected regarding your website activity is use
 Hanna does not sell, rent or trade our customer email addresses with third parties. However, we may provide other personal information to third parties, such as Federal Express, in order to provide services like fulfilling orders, processing payments, tracking website activity, conducting surveys, or administering emails.
 
 Occasionally Hanna provides your name and postal address (not your email address) to other unaffiliated, reputable companies who may send you mailings. If you do not wish for us to share this information with these companies, you can add your name to our “Do Not Rent” list by sending us an email or calling 800-222-0544. If you send an email, please be sure to provide your name and mailing address in the message.
+
+We contract with Dotomi to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our Website, and your interaction with our products and services. They may also use information about your visits to this and other Websites to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected in this process. If you do not want Dotomi to collect this information you may opt-out. Opting-out will not in any way affect your use of our site. In order to opt-out please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Hanna has partnered with Coremetrics, a company that helps us better understand our customers’ use of hannaandersson.com. Coremetrics uses cookies to collect and analyze information, such as how customers navigate our website and which products they browse and purchase, so that we may make improvements to our site. Coremetrics is not allowed to collect credit card, username, or password information. In addition, Coremetrics is contractually prohibited from using Hanna data for any other purposes, or to match it against any other information in its possession, and is required to maintain all information collected in the strictest confidence. As a visitor to www.hannaandersson.com you may “opt out” of this Coremetrics data collection. To learn more about your Coremetrics’ tracking options [click here](http://www.hannaandersson.com/optOut.asp). 
 
