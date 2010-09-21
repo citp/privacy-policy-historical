@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victeach.com.au privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615005337id_/http%3A//www.victeach.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victeach.com.au privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922000432id_/http%3A//www.victeach.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Victoria Teachers Credit Union
 
