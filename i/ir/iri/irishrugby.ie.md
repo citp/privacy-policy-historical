@@ -1,39 +1,36 @@
-> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305011420id_/http%3A//www.irishrugby.ie/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921204932id_/http%3A//www.irishrugby.ie/24_7765.php) for the most accurate reproduction.*
 
-# Irish Rugby - take it on the full
+# Irish Rugby : Privacy Policy
 
-IrishRugby.ie Privacy Policy
+At the Irish Rugby Football Union we are committed to protecting your privacy & security. Please read our Privacy Policy carefully so that you are aware of the steps we take to protect you privacy, what information we collect and how we use it now or may use it in the future. 
 
-1\. The Irish Rugby Football Union (the "I.R.F.U.") is committed to protecting the privacy of users of this website. We are aware that as a user of this website you care about the security and privacy of your information. 
+Any personal information provided to or gathered by irishrugby.ie or irfu.ie is controlled by IRFU, Registered office 10/12 Lansdowne Road Dublin 4-Ireland. The person responsible for Data protection is Mr Maurice Dowling.
 
-2\. As you use this website information is received and stored by us. This information is used to enable us to improve the website and to enable us to respond to your requests. 
+What Information do we collect? How do we use it?  
+When you order over our website we need to know your name, e-mail address, delivery address, credit or debit card number, expiry date (and valid from date and issue number for Switch cards). This allows us to process and fulfil your orders and to notify you of the status of your order. You will find that it is not compulsory to provide us with any additional information we request which is not necessary or reasonable in order to complete your transaction.
 
-This website does not use cookies apart from temporary "session" cookies which enable a users web browser to remember which page on this website it has already visited. Users can use this website with no loss of functionality if cookies are disabled from the web browser. 
+We also ask for your telephone number which enables us to contact you urgently if there is a problem with your order. We will give your name and address to our couriers and we may also give them your telephone number to aid the delivery of your order.
 
-Technical details in connection with visits to this website are logged by our internet service provider for statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged are confined to the following items: 
+When you register on the website or, during the process of purchasing goods from the website and choose to receive further information from us, we may use the information you provide us with for the following purposes:-
 
-· The IP address of the users webserver 
+  * We monitor customer traffic patterns and site usage to help us to develop the design and layout of the website.
+  * Personal details may be for purposes such as notifying you of IRFU news, events, fixture, ticket, merchandising and player information which we think may be of interest to you.
+  * The IRFU will not put any information about you on general release nor will it sell such information to organisations not associated with the IRFU. Personal data will not be transferred outside of the European Economic Area.
 
-· The top level domain name used (for example .ie, .com, .net, .biz) 
 
-· The previous website address from which the user reached us, including any search criteria used. 
 
-· Click screen data which shows the traffic of users around this website (for example pages accessed and documents downloaded). 
+We employ other companies and individuals to perform functions on our behalf such as delivering packages, analysing data, providing marketing assistance, processing credit card payments and designing and operating our website. Such companies and individuals have access to your personal information for the purpose of carrying out this work only. These enterprises will not use your data for any other purpose. Under no circumstances will these enterprises use any additional data about you to which they are party for any other purposes.
 
-· The type of web browser used by the website user. 
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We may use cookies to store information on your computer. This information may help us identify if you are registered with the site and shortcut your access through the site. We will only read cookies from your cookie file placed there through your web browser's interaction with this site. Note that you may change your browser settings to refuse cookies.
 
-The IRFU will make no attempt to identify individual visitors, or to associate any technical details listed above with any individual. It is the policy of the IRFU never to disclose such technical information in respect of individual website visitors to any third party apart from our internet service provider and suppliers of Product as defined in the [terms and conditions of sale](https://web.archive.org/web/20050305011420id_/http%3A//www.irishrugby.ie/info_terms_sale.html) who are bound by confidentiality provisions in this regard (unless obliged to disclose such information by a rule of law). This technical information will only be used by the IRFU for statistical and other administrative purposes. 
+The IRFU recognise that we have legal obligations in terms of the collection and use of personal data made available to us.
 
-3\. In order to use this site effectively, you will be asked for information when you register with us. We will require, amongst other things your name, email address and country of residence to register you on the website. In addition, when you purchase an item on the website, we will also require your credit card number. 
+This website is provided on an "AS IS" basis and the IRFU excludes all warranties or representations of any kind with respect to this website or its contents. In particular, the IRFU does not warrant or represent that the information contained on this website is accurate or up to date.
 
-4\. The information received from you will only be disclosed to such third parties as may be necessary, in order to process any orders for merchandise, or tickets as you may make through this site and in order to arrange delivery of same. By registering with us and by your use of the site and acceptance of the terms and conditions of use you hereby authorise us to convey this information to such third parties, such as (but not limited to) our suppliers. No other information will be divulged to any other third party unless we receive your prior authorisation and/or we are required to do so by law. 
+The contents of this website are designed to comply with Irish law. You may be viewing the website in a market in which we do not commonly sell our goods. The IRFU cannot be held responsible for non-compliance with any local advertising or other laws in relation to this website or its contents.
 
-5\. We will take reasonable precautions to prevent the loss, misuse or alteration of information you give us. Agents or contractors of the I.R.F.U. who have access to information you give us in the course of providing services to us are required to keep that information confidential and are not permitted to use it for any purpose other than to carry out the services which they are performing for us. 
+By using our website you consent to collection and use of any information you provide to us bythe IRFU for the purposes described above. If we decide to change our privacy policy, we will post those changes on this page. We recommend you re-visit this page periodically to check for changes. We endeavour to take all reasonable steps to protect your personal data including the use of encryption technology, but cannot guarantee the security of any data you disclose online. You accept the inherent security implications of sending information over the Internet and will not hold us responsible for any breach of security unless we have been negligent.
 
-6\. We endeavour to ensure the highest level of security as regards your credit card details, during your use of this site by using Secure Sockets Layer ("SSL Software,") which encrypts information which you have inputted. You should note however, that internet transmissions are never completely private or secure. You accept that any information or message you send to the site may be intercepted or read by others. You hereby acknowledge and accept that we have no responsibility and shall accept no liability whatsoever for loss, injury or damage occasioned by the interception by third parties of your transmissions, or the disclosure of information including but not limited to credit card numbers by any party with whom you transact, nor do we offer any guarantees, warranties or indemnities as to the security or otherwise of any information which you give us. The Irishrugby.ie site contains links to other sites not controlled or operated by the I.R.F.U. The I.R.F.U. is not responsible for the privacy policies of websites that it does not control or operate. 
+If you are under the age of 18 you may register on the website to receive newsletters and other information but only with parental or guardian consent.
 
-7\. If you have given us information about yourself and would like copies of that information, or you would like us to correct any factual inaccuracies in that information, or if you would like that information deleted from our records, then please contact us at [info@irishrugby.ie](mailto:info@irishrugby.ie). We will use reasonable efforts to supply, correct or delete information about you on our files. We are entitled to charge you a fee for supplying you with copies of information which we hold. 
-
-8\. If you choose to visit this site and use this site, your visit and use and any dispute arising therefrom in respect of privacy, is subject to this Privacy Statement and our Terms and Conditions of use including the limitations and the exclusions expressed and included therein. 
-
-9\. This Privacy Statement will be the subject of change and the use of information that we gather shall be subject to the privacy notice in effect from time to time. It shall be your responsibility to check our website frequently to see recent changes. 
+You may only make purchases on this website if you are aged 18 or over or, if under 18, have received parental or guardian consent.
