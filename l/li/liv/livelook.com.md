@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelook.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215155354id_/http%3A//www.livelook.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelook.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921134619id_/http%3A//www.livelook.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Industry Leader in Live Support Technology by LiveLOOK | Privacy Policy
 
