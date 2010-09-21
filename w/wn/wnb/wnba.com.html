@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wnba.com privacy policy that was archived on 2010-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100311145733id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wnba.com privacy policy that was archived on 2010-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100921033739id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head><link rel="stylesheet" href="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/css/1.0/chrome/chrome.css">
   
@@ -85,103 +85,24 @@ End If
 <link href="/css/wnba_main.css" rel="stylesheet" type="text/css">
   
 		<!--/frags/wnbaHeaderScript.html SSI include-->
-		 <script type="text/javascript" src="/js/prototype.js"></script>
+		 <script language="javascript" src="/js/lib/swfobject.js"></script>
+<script language="JavaScript" src="/js/utils.js"></script>
+<script>var adSpotRandom = (new Date).valueOf();</script>
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="/js/scriptaculous.js"></script>
 <script type="text/javascript" src="/js/effects.js"></script>
+<script type="text/javascript" src="/js/prototype/nbautil.js"></script>
+<script type="text/javascript" src="/js/prototype/headermenu.js"></script>
 
-<script type="text/javascript">
-<!--
-function ddOpen(ddID){
-	document.getElementById(ddID).style.display = "block";
-}
-function ddClose(ddID){
-	document.getElementById(ddID).style.display = "none";
-}
-//-->
-</script>
-<script type="text/javascript">
-<!--
-var loaded = false;
+<link href="/.element/css/1.0/wnbateam.css" type="text/css" rel="stylesheet">
+<link href="/.element/css/1.0/wire1.css" type="text/css" rel="stylesheet">
+<link href="/.element/css/1.0/content_modules.css" type="text/css" rel="stylesheet">
+<link href="/.element/css/1.0/wnba.css" type="text/css" rel="stylesheet">
 
-if (document.images) {
-    img1off = new Image();img1off.src = "/media/homepage/nav_team.gif";
-    img2off = new Image();img2off.src = "/media/homepage/nav_players.gif";
-    img3off = new Image();img3off.src = "/media/homepage/nav_schedule.gif";
-    img4off = new Image();img4off.src = "/media/homepage/nav_stats.gif";
-    img5off = new Image();img5off.src = "/media/homepage/nav_standings.gif";
-    img6off = new Image();img6off.src = "/media/homepage/nav_transactions.gif";
-	img7off = new Image();img7off.src = "/media/homepage/nav_news.gif";
-	img8off = new Image();img8off.src = "/media/homepage/nav_photos.gif";
-	img9off = new Image();img9off.src = "/media/homepage/nav_video.gif";
-	img10off = new Image();img10off.src = "/media/homepage/nav_cares.gif";
-	img11off = new Image();img11off.src = "/media/homepage/nav_fantasy.gif";
-	img12off = new Image();img12off.src = "/media/homepage/nav_mobile.gif";
-	img13off = new Image();img13off.src = "/media/homepage/nav_history.gif";
-	img14off = new Image();img14off.src = "/media/homepage/nav_store.gif";
-	img15off = new Image();img15off.src = "/media/homepage/nav_tickets.gif";
-        img16off = new Image();img16off.src = "/media/homepage/nav_connect.gif";
-}
-
-
-function imageLoad() {
-    if (document.images) {
-        img1on = new Image();img1on.src = "/media/homepage/nav_roll_team.gif";
-        img2on = new Image();img2on.src = "/media/homepage/nav_roll_players.gif";
-        img3on = new Image();img3on.src = "/media/homepage/nav_roll_schedule.gif";
-        img4on = new Image();img4on.src = "/media/homepage/nav_roll_stats.gif";
-        img5on = new Image();img5on.src = "/media/homepage/nav_roll_standings.gif";
-        img6on = new Image();img6on.src = "/media/homepage/nav_roll_transactions.gif";
-		img7on = new Image();img7on.src = "/media/homepage/nav_roll_news.gif";
-		img8on = new Image();img8on.src = "/media/homepage/nav_roll_photos.gif";
-		img9on = new Image();img9on.src = "/media/homepage/nav_roll_video.gif";
-		img10on = new Image();img10on.src = "/media/homepage/nav_roll_cares.gif";
-		img11on = new Image();img11on.src = "/media/homepage/nav_roll_fantasy.gif";
-		img12on = new Image();img12on.src = "/media/homepage/nav_roll_mobile.gif";
-		img13on = new Image();img13on.src = "/media/homepage/nav_roll_history.gif";
-		img14on = new Image();img14on.src = "/media/homepage/nav_roll_store.gif";
-		img15on = new Image();img15on.src = "/media/homepage/nav_roll_tickets.gif";
-                img16on = new Image();img16on.src = "/media/homepage/nav_roll_connect.gif";
-        return (loaded = true);
-    }
-}
-
-var activeOn = new RegExp("_on");
-
-function rollOut(imgName,which) {
-    if (document.images) {
-		var imgArr = which.getElementsByTagName("img");
-		var img = imgArr[0].src;
-		if(activeOn.test(img)){
-			return true;
-		}	    
-        document[imgName].src = eval(imgName+"off.src");
-    }
-}
-
-function rollIn(imgName,which) {
-    if (document.images && (loaded == true)) {
-		var imgArr = which.getElementsByTagName("img");
-		var img = imgArr[0].src;
-		if(activeOn.test(img)){
-			return true;
-		}
-		document[imgName].src = eval(imgName+"on.src");	
-    }
-}
-
-//-->
-</script>
-<script type="text/javascript">
-<!--
-function onState(imgName,imgOnState) {
-        document[imgName].src = "/media/homepage/nav_" + imgOnState + "_on.gif" ;
-}
-function checkSearch(){if(document.search.sp_q.value == ""){alert("Please enter a search term.");return false;}}
-//-->
-</script>
-
-<script type="text/javascript" src="/js/cookieFunctions.js"></script>
-<link rel="stylesheet" type="text/css" media="print" href="/css/wnba_main_print.css">
 <link rel="alternate" type="application/rss+xml" title="WNBA.com: News and Scores" href="/rss/wnba_rss.xml">
+<script>
+function onState(){}
+</script>
 
 
 	
@@ -190,123 +111,170 @@ function checkSearch(){if(document.search.sp_q.value == ""){alert("Please enter 
 <div class="headerWrapper">
 	  
 		<!--/frags/wnbaHeader.html SSI include-->
+		 
+
+	
+	  
+		<!--/frags/wnbaGlobalNavBar.html SSI include-->
 		 <script src="/js/chrome/chrome.js"> </script>
 		<style>
 
 			div.ChromeNav div.ChromeLinks {
 				margin: 0;
 			}
-            #nbaChromeNav{height:31px;width:938px;}
+            #nbaChromeNav{height:31px;width:938px;margin:auto;}
 		</style>
-<div id="nbaChromeNav"><div class="ChromeNav">  <div class="ChromeLinks">    <a href="https://web.archive.org/web/20100330022016/http://www.nba.com" target="_top" title="NBA.com Home" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_nba.gif" alt="NBA.com Home" class="Logo"></a>    <a href="https://web.archive.org/web/20100330022016/http://www.nba.com/global" target="_top" title="NBA.com Global" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_global.gif" alt="NBA.com Global" name="$chrome_global" class="Logo"></a>    <div class="Divider"></div>    <a href="https://web.archive.org/web/20100330022016/http://www.nba.com/dleague" target="_top" title="NBA D-League" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_dleague.gif" alt="NBA D-League" name="$chrome_dleague" class="Logo"></a>    <div class="Divider"></div>    <a href="https://web.archive.org/web/20100330022016/http://www.wnba.com" target="_top" title="WNBA.com" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_wnba.gif" alt="WNBA.com Home" name="$chrome_wnba" class="Logo"></a>    <div class="Divider"></div>    <a href="https://web.archive.org/web/20100330022016/http://store.nba.com/home/index.jsp?league=nba" target="_top" title="NBA.com Store" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_store.gif" alt="NBA.com Store" name="$chrome_store" class="Logo"></a>    <div class="Divider"></div>    <div class="AllAccessBar">      <div class="Logo"><a href="https://web.archive.org/web/20100330022016/http://www.nba.com/allaccess" target="_top"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_aah_logo.gif" alt="All-Access"></a></div>      <div class="User"><a href="https://web.archive.org/web/20100330022016/https://audience.nba.com/services/msib/flow/login?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100311145733id_%2Fhttp%253A%2F%2Fwww.wnba.com%2Fbasics%2Fprivacy_policy.html" target="_top">Login</a></div>      <div class="Divider"></div>      <div class="Action"><a href="https://web.archive.org/web/20100330022016/http://www.nba.com/allaccess/about.html" target="_top">Learn More</a></div>      <div class="Endcap"></div>    </div>    <div class="Search">      <form method="get" action="https://web.archive.org/web/20100330022016/http://www.nba.com/search" target="_top">        <input type="text" name="text" class="Text">        <input type="image" class="Button" alt="Search" title="Search" src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_search_btn.gif">        <input type="hidden" name="hl" value="en">      </form>    </div>  </div></div></div>
-
-
-
-
-
-<div id="flashTargetHeader">
-
-<b!w_var_parms cmd="DEFINE" name=":flashSrc" value="/wnbaHeaderGreen.swf">
-<b!w_var_parms cmd="DEFINE" name=":flashSrc" value="/wnbaHeader_BHA.swf">
-
-
-
-
-
-
- <script type="text/javascript" language="javascript">
-<!--
-var flashSrc="/wnbaHeader.swf";
-if (flashSrc.indexOf("/")==0){
-	temp_var=flashSrc.substring(1,flashSrc.length);
-} else if (flashSrc.indexOf("http://www.nba.com/")==0) {
-	temp_var=flashSrc.substring(19,flashSrc.length);
-} else {
-	temp_var=flashSrc;
-}
-var flashName=temp_var.split(".")[0];
-var flashObject = new SWFObject("/wnbaHeader.swf", flashName, "938", "87", "8", "#FFFFFF");
-var flashVars="";
-if (flashVars.indexOf("&")){
-	var tempArray=flashVars.split("&");
-	for (i=0;i<tempArray.length;i++){
-	   var tempSplit=tempArray[i].split("=");
-	   flashObject.addVariable(tempSplit[0], tempSplit[1]);
-		
-	}
-} else {
-   var tempSplit=flashVars.split("=");
-   flashObject.addVariable(tempSplit[0], tempSplit[1]);
-}
-  flashObject.addParam("wmode", "transparent");
-  flashObject.addVariable("movieName", flashName);
-  flashObject.addVariable("pageURL", window.location);
-  
-//writes the flash player
-flashObject.write("flashTargetHeader");
-// -->
-</script>
-</b!w_var_parms></b!w_var_parms></div>
-
-	
-	  
-		<!--/frags/wnbaGlobalNavBar.html SSI include-->
-		 
-
+<div id="nbaChromeNav"><div class="ChromeNav">  <div class="ChromeLinks">    <a href="https://web.archive.org/web/20100330022016/http://www.nba.com" target="_top" title="NBA.com Home" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_nba.gif" alt="NBA.com Home" class="Logo"></a>    <a href="https://web.archive.org/web/20100330022016/http://www.nba.com/global" target="_top" title="NBA.com Global" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_global.gif" alt="NBA.com Global" name="$chrome_global" class="Logo"></a>    <div class="Divider"></div>    <a href="https://web.archive.org/web/20100330022016/http://www.nba.com/dleague" target="_top" title="NBA D-League" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_dleague.gif" alt="NBA D-League" name="$chrome_dleague" class="Logo"></a>    <div class="Divider"></div>    <a href="https://web.archive.org/web/20100330022016/http://www.wnba.com" target="_top" title="WNBA.com" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_wnba.gif" alt="WNBA.com Home" name="$chrome_wnba" class="Logo"></a>    <div class="Divider"></div>    <a href="https://web.archive.org/web/20100330022016/http://store.nba.com/home/index.jsp?league=nba" target="_top" title="NBA.com Store" class="Logo"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_store.gif" alt="NBA.com Store" name="$chrome_store" class="Logo"></a>    <div class="Divider"></div>    <div class="AllAccessBar">      <div class="Logo"><a href="https://web.archive.org/web/20100330022016/http://www.nba.com/allaccess" target="_top"><img src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_aah_logo.gif" alt="All-Access"></a></div>      <div class="User"><a href="https://web.archive.org/web/20100330022016/https://audience.nba.com/services/msib/flow/login?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100921033739id_%2Fhttp%253A%2F%2Fwww.wnba.com%2Fbasics%2Fprivacy_policy.html" target="_top">Login</a></div>      <div class="Divider"></div>      <div class="Action"><a href="https://web.archive.org/web/20100330022016/http://www.nba.com/allaccess/about.html" target="_top">Learn More</a></div>      <div class="Endcap"></div>    </div>    <div class="Search">      <form method="get" action="https://web.archive.org/web/20100330022016/http://www.nba.com/search" target="_top">        <input type="text" name="text" class="Text">        <input type="image" class="Button" alt="Search" title="Search" src="https://web.archive.org/web/20100330022016/https://s.cnn.net/nba/nba/.element/img/1.0/chrome/chrome_search_btn.gif">        <input type="hidden" name="hl" value="en">      </form>    </div>  </div></div></div>
 
 	
 	  
 		<!--/frags/wnbaTopNav.html SSI include-->
-		 <noindex>
-<!--<div><a href="http://auctions.wnba.com/"><img src="/media//BHA_eyebrow.gif"></a></div>-->
-<div id="topNav">
+		   
+		<!--/frags/wnbaHeaderMain.html SSI include-->
+		
+<style>
+#header .ticket_spot {
+float:right;
+height:98px;
+width:415px;
+}
 
+</style>
+<div id="header">
+    <div class="content">
+        <a href="/" class="logo"></a>
+        <div class="ticket_spot"><a href="http://www.wnba.com/tickets/"><img title="" src="/media/W10_HP-HDR_TIX-promo.png"></a></div>
+	      
+		<!--/frags/wnbaHeaderMenu.html SSI include-->
+		 <ul class="menu">
+    <li><a href="#" class="nav_team">Team</a>
+        <ul>
+            <li><a href="/dream/">Atlanta</a></li>
+            <li><a href="/sky/">Chicago</a></li>
+            <li><a href="/sun/">Connecticut</a></li>
+            <li><a href="/fever/">Indiana</a></li>
+            <li><a href="/sparks/">Los Angeles</a></li>
+            <li><a href="/lynx/">Minnesota</a></li>
+            <li><a href="/liberty/">New York</a></li>
+            <li><a href="/mercury/">Phoenix</a></li>
+            <li><a href="/silverstars/">San Antonio</a></li>
+            <li><a href="/storm/">Seattle</a></li>
+            <li><a href="/shock/">Tulsa</a></li>
+            <li><a href="/mystics/">Washington</a></li>
+        </ul>
+    </li>
+    <li><a href="/players/" class="nav_players">Players</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/players/">Players</a></li>
+            <li><a href="/coaches/coaches.html">Coaches</a></li>
+            <li><a href="/players/Team_Rosters.html">Team Roster</a></li>
+        </ul>
+    </li>
+    <li><a href="/gameline/" class="nav_schedule">Schedule</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/gameline/">Schedule</a></li>
+            <li><a href="/schedules/?">Full Schedule</a></li>
+            <li><a href="/teams/teamSchedules.html">Team-by-team</a></li>
+            <li><a href="/schedules/national_tv_schedule/">National TV</a></li>
+            <li><a href="/schedules/2009_game_schedule/May.html">2009 Results</a></li>
+            <li><a href="/schedules/2008_game_schedule/May.html">2008 Results</a></li>
+            <li><a href="/rss/index.html">RSS</a></li>
+        </ul>
+    </li>
+    <li><a href="/statistics/" class="nav_stats">Stats</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/statistics/wplayer/Scoring.jsp">Player Stats</a></li>
+            <li><a href="/statistics/default_all_time_leaders/AllTimeLeadersPPGQuery.html">All Time Leaders</a></li>
+            <li><a href="/statistics/sortable_team_statistics/sortable1.html">Sortable Team Stats</a></li>
+            <li><a href="/teams/teamStatistics.html">Team-by-team</a></li>
+            <li><a href="/teams/teamSplits.html">Team-by-team Splits</a></li>
+            <li><a href="/teams/yearly_team_stats.html">Year-by-Year Team Stats</a></li>
+            <li><a href="/statistics/efficiency.html">Efficiency Recap</a></li>
+            <li><a href="/rss/index.html">RSS</a></li>
+        </ul>
+    </li>
+    <li><a href="/standings/team_record_comparison/conferenceNew_Std_Cnf.html" class="nav_standings">Standings</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/standings/team_record_comparison/conferenceNew_Std_Cnf.html">Conference Standings</a></li>
+            <li><a href="/statistics/playoff_picture.html">Playoff Picture</a></li>
+            <li><a href="/standings/team_record_comparison/conferenceNew_Stk_Cnf.html">Team Record Comparison</a></li>
+            <li><a href="/rss/index.html">RSS</a></li>
+        </ul>
+    </li>
+    <li><a href="/transactions/WNBA_2010.html" class="nav_transactions">Transactions</a></li>
+    <li><a href="/news/" class="nav_news">News</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/news/">News and Features</a></li>
+            <li><a href="http://my.wnba.com">Fan Voice</a></li>
+            <li><a href="/cares/">WNBA Cares</a></li>
+            <li><a href="/news/newsletters.html">Newsletters</a></li>
+            <li><a href="/about_us/about_wnba_index.html">About Us</a></li>
+            <li><a href="/analysis/wnba_rules_regulations.html">Rules and Regulations</a></li>
+            <li><a href="/rss/index.html">RSS</a></li>
+        </ul>
+    </li>
+    <li><a href="/photos/" class="nav_gallery">Photos</a>
+        <!-- <ul>
+            <li><a href="/photos/">Photos</a></li>
+        </ul> -->
+    </li>
+    <li><a href="/video/" class="nav_video">Video</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/video/index.html">Video</a></li>
+            <li><a href="/games/live.jsp">WNBA LiveAccess</a></li>
+            <li><a href="/video/live_access_FAQ.html">WNBA LiveAccess FAQ</a></li>
+        </ul>
+    </li>
+    <li><a href="/cares/" class="nav_wnbacares">WNBA Cares</a></li>
+    <li><a href="/fantasy_resource/" class="nav_fantasy">Fantasy</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/fantasy/wnbapickone2010/game.jsp">WNBA Pick One Challenge</a></li>
+            <li><a href="/statistics/wplayer/Scoring.jsp">WNBA Statistics</a></li>
+            <li><a href="/schedules/">WNBA Schedule</a></li>
+            <li><a href="http://my.wnba.com/go/forum/view/87722/154774/general_fantasy_discussions">Fan Voice Fantasy Forums</a></li>
+            <li><a href="http://my.wnba.com/go/forum/view/87722/154766/wnba_pick_one_challenge">Fan Voice Pick One Forum</a></li>
+        </ul>
+    </li>
+    <li><a href="/mobile/" class="nav_mobile">Mobile</a></li>
+    <li><a href="/features/connect.html" class="nav_connect">Connect</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="http://twitter.com/wnba" target="new">Twitter</a></li>
+            <li><a href="http://www.facebook.com/wnba/" target="new">Facebook</a></li>
+            <li><a href="http://www.youtube.com/wnba" target="new">YouTube</a></li>
+            <li><a href="http://my.wnba.com/" target="new">Fan Voice</a></li>
+        </ul>
+    </li>
+    <li><a href="#" class="nav_history">History</a>
+        <ul>
+            <li class="ad"><a href="http://www.nbastore.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_SOS_234x60" target="_blank"><img src="/media/072110_WNBAStore_Generic_ROS_234x60.jpg"></a></li>
+            <li><a href="/history/">History</a></li>
+            <li><a href="/history/playoff_index.html">Playoff History</a></li>
+            <li><a href="/history/all_star.html">All Star History</a></li>
+            <li><a href="/history/draft_index.html">Draft History</a></li>
+        </ul>
+    </li>
+    <li><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_TOPNAV" class="nav_store">Store</a></li>
+    <li><a href="/tickets/" class="nav_tickets">Tickets</a></li>
+</ul>
 
-<!--team-->
-<div class="ddDiv" style="margin-left:3px;_margin-left:0px;">
-
-
-<div class="tnWrapper"><div align="left" class="boxBGTN" id="teamDD" onmouseover="ddOpen('teamDD');" onmouseout="ddClose('teamDD');" style="display:none;">
-		<div id="teamDDCol1">
-			<div><a href="/dream/">Atlanta</a></div>
-			<div><a href="/sky/">Chicago</a></div>
-			<div><a href="/sun/">Connecticut</a></div>
-			<div><a href="/fever/">Indiana</a></div>
-			<div><a href="/sparks/">Los Angeles</a></div>
-                        <div><a href="/lynx/">Minnesota</a></div>
-
-		</div>
-		<div id="teamDDCol2">
-		        <div><a href="/liberty/">New York</a></div>
-			<div><a href="/mercury/">Phoenix</a></div>
-			<div><a href="/silverstars/">San Antonio</a></div>
-			<div><a href="/storm/">Seattle</a></div>
-			<div><a href="/shock/">Tulsa</a></div>
-			<div><a href="/mystics/">Washington</a></div>
-
-		</div>
-	</div></div>
-	<!--end team-->
-	<div class="linkWrapper" onmouseover="ddOpen('teamDD');" onmouseout="ddClose('teamDD');"><a href="#" onmouseover="rollIn('img1',this);return true" onmouseout="rollOut('img1',this);return true;"><img src="/media/homepage/nav_team.gif" name="img1" onload="imageLoad()"></a></div></div>
-	<div><a href="/players/" onmouseover="rollIn('img2',this);return true" onmouseout="rollOut('img2',this);return true;"><img src="/media/homepage/nav_players.gif" name="img2"></a></div>
-	<div><a href="/schedules/" onmouseover="rollIn('img3',this);return true" onmouseout="rollOut('img3',this);return true;"><img src="/media/homepage/nav_schedule.gif" name="img3"></a></div>
-	<div><a href="/statistics" onmouseover="rollIn('img4',this);return true" onmouseout="rollOut('img4',this);return true;"><img src="/media/homepage/nav_stats.gif" name="img4"></a></div>
-	<div><a href="/standings/team_record_comparison/conferenceNew_Std_Cnf.html" onmouseover="rollIn('img5',this);return true" onmouseout="rollOut('img5',this);return true;"><img src="/media/homepage/nav_standings.gif" name="img5"></a></div>
-	<div><a href="/transactions/WNBA_2010.html" onmouseover="rollIn('img6',this);return true" onmouseout="rollOut('img6',this);return true;"><img src="/media/homepage/nav_transactions.gif" name="img6"></a></div>
-	<div><a href="/news/" onmouseover="rollIn('img7',this);return true" onmouseout="rollOut('img7',this);return true;"><img src="/media/homepage/nav_news_on.gif" name="img7"></a></div>
-	<div><a href="/photos/" onmouseover="rollIn('img8',this);return true" onmouseout="rollOut('img8',this);return true;"><img src="/media/homepage/nav_photos.gif" name="img8"></a></div>
-	<div><a href="/video/" onmouseover="rollIn('img9',this);return true" onmouseout="rollOut('img9',this);return true;"><img src="/media/homepage/nav_video.gif" name="img9"></a></div>
-	<div><a href="/cares/" onmouseover="rollIn('img10',this);return true" onmouseout="rollOut('img10',this);return true;"><img src="/media/homepage/nav_cares.gif" name="img10"></a></div>
-	<div><a href="/fantasy_resource/" onmouseover="rollIn('img11',this);return true" onmouseout="rollOut('img11',this);return true;"><img src="/media/homepage/nav_fantasy.gif" name="img11"></a></div>
-	<div><a href="/mobile/" onmouseover="rollIn('img12',this);return true" onmouseout="rollOut('img12',this);return true;"><img src="/media/homepage/nav_mobile.gif" name="img12"></a></div>
-	<div><a href="/features/connect.html" onmouseover="rollIn('img16',this);return true" onmouseout="rollOut('img16',this);return true;"><img src="/media/homepage/nav_connect.gif" name="img16"></a></div>
-	<div><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_TOPNAV" onmouseover="rollIn('img14',this);return true" onmouseout="rollOut('img14',this);return true;"><img src="/media/homepage/nav_store.gif" name="img14"></a></div>
-	<div><a href="/tickets/" onmouseover="rollIn('img15',this);return true" onmouseout="rollOut('img15',this);return true;"><img src="/media/homepage/nav_tickets.gif" name="img15"></a></div>
+	
+	</div>
 </div>
-</noindex>
 
-<!---<div id="bsshaheader">
-<a href="http://auctions.wnba.com/"><img src="/media/bha-auction-09-wnba.gif" border="0"></a></div>--->
+
+
+
+
+
+	
 
 
 	
@@ -329,20 +297,18 @@ flashObject.write("flashTargetHeader");
 	<div class="subHeader">
 		  
 		<!--/frags/wnbaNewsSubNavTools.html SSI include-->
-		 <noindex>
-<div style="float:right;">
-	<img src="/media/homepage/label_tools.gif">
-    <span class="tools" style="margin-left:10px;">
-	    <script language="JavaScript" src="/js/emailStory.js"></script>
-	    <script language="Javascript">
-		    var emailText = "<img src=\"/media/homepage/icon_mail.gif\"> E-mail";
-	    </script>
-    </span>
-	<span class="tools"><a href="/rss"><img src="/media/homepage/icon_rss.gif" border="0"> RSS Feeds</a></span>
-	<span class="tools"><a href="/webAction?actionId=surveyInitialize&amp;target=/news/wnba_Newsletter.jsp&amp;surveyId=746"><img src="/media/homepage/icon_signup.gif">E-News Sign Up</a></span>
-	<span class="tools"><a href="javascript:printPage();"><img src="/media/homepage/print_icon.gif" border="0" style="margin-top:0px;"> Print</a></span>
+		   
+		<!--/frags/wnbaArticleTools.html SSI include-->
+		 <div id="article_tools">
+    <ul>
+        <li><img src="/media/homepage/label_tools.gif"></li>
+        <li><a href="/rss"><img src="/media/homepage/icon_rss.gif" border="0"> RSS Feeds</a></li>
+        <li><a href="/webAction?actionId=surveyInitialize&amp;target=/news/wnba_Newsletter.jsp&amp;surveyId=746"><img src="/media/homepage/icon_signup.gif">E-News Sign Up</a></li>
+        <li><a href="javascript:printPage();"><img src="/media/homepage/print_icon.gif" border="0" style="margin-top:0px;"> Print</a></li>
+    </ul>
 </div>
-</noindex>
+
+	
 
 	
 		  
@@ -581,42 +547,9 @@ width:300px;
 }
 </style>
 
-
- 
-<script language="JavaScript">
-<!--
-var adHeight = 250;
-var adWidth = 300;
-if ((typeof(spnsrTXT) == "undefined") || (spnsrTXT == null))
-	var spnsrTXT= "";
-	
-if ((typeof(tile) == "undefined") || (tile == null))
-	var tile= "";
-if ((site == "") || (typeof(site) == "undefined")){
-	var site = "WNBA";
-}
-//Look for sponsor tag
-
-
-
-//Determine position of ad
-var position = "";
-//Get page location, if already defined, ignore
-if (page == ""){
-	var page = "";
-}
-//-->
-</script>
-<!-- begin ad tag -->
-<script language="JavaScript" type="text/javascript">
-document.write('<scr'
- + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+site+'.dart/'+page+tile+';sz=300x250;ord=' + adSpotRandom + '?" type="text/javascript"><\/scr'
- + 'ipt>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/WNBA.dart/News;sz=300x250;ord=1580437567002?" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
-if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navigator.userAgent.indexOf("WebTV") >= 0) 
-{document.write('<a href="http://ad.doubleclick.net/jump/'+site+'.dart/'+page+tile+';sz=300x250;ord=' + adSpotRandom + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+site+'.dart/'+page+tile+';sz=300x250;ord=' + adSpotRandom + '?" width="300" height="250" border="0" alt=""><\/a>');}
-</script>
-<noscript><a href="http://ad.doubleclick.net/jump/.dart/;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/.dart/;sz=300x250;ord=123456789?" border="0" height="250" width="300" alt=""></a></noscript>
+<!-- begin ad tag-->
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/WNBA.dart/;sz=300x250;ord=[timestamp]?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/WNBA.dart/;sz=300x250;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/WNBA.dart/;sz=300x250;ord=[timestamp]?" width="300" height="250" border="0" alt=""></a></noscript>
 <!-- End ad tag -->
 
 
@@ -646,156 +579,84 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
 	
 	  
 		<!--/frags/wnbaFooterMenu.html SSI include-->
-		 <div class="footerWrapper">
-<div class="footerBarWrapper">
-<div class="hdrLeft"><div class="hdrRight">
-<div class="footerBar">
- 
- 
-
-
-<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
-<!-- Hide script from older browsers
-function validEmail(email) {
-	invalidChars = " /:,;"
-	if (email == "") {
-		return false
-	}
-	for (i=0; i<invalidChars.length; i++) {
-		badChar = invalidChars.charAt(i)
-		if (email.indexOf(badChar,0) > -1) {
-			return false
-		}
-	}
-	atPos = email.indexOf("@",1)
-	if (atPos == -1) {
-		return false
-	}
-	if (email.indexOf("@",atPos+1) > -1) {
-		return false
-	}
-	periodPos = email.indexOf(".",atPos)
-	if (periodPos == -1) {
-		return false
-	}
-	if (periodPos+3 > email.length)	{
-		return false
-	}
-	return true
-}
-function submitIt(subsForm) {
-	if (!validEmail(document.subsForm.email.value))
-		{
-			alert("Invalid email address")
-			document.subsForm.email.focus()
-			document.subsForm.email.select()
-			return false
-		}
-	
-	//set the temp cookie
-	SetCookie("subFormCookie",document.subsForm.email.value,null,"/");
-	
-	return true
-}
-// End hiding script --></script>
-<form action="http://www.wnba.com/news/wnba_Newsletter.jsp" onsubmit="return submitIt(this)" name="subsForm" method="GET" style="margin:0px">
-
-<div class="emailSignUp">Sign up for our free newsletter, contests and exclusive team information</div>
-<input name="email" type="text" id="emailBox">
-<input type="image" src="/media/homepage/hp_subscribe.gif" id="emailSubmit" name="submit"> 
-</form>
+		 <div id="footer">
+  <ul class="links">
+      <li class="first">
+          <h4>More Features</h4>
+          <ul>
+              <li><a href="/awards/">Kia Performance Awards</a></li>
+              <li><a href="/history/playersoftheweek.html">Players of the Week</a></li>
+              <li><a href="/features/powerrankings_archive.html">Power Rankings</a></li>
+              <li><a href="/features/rookie_rankings.html">Rookie Rankings</a></li>              
+              <li><a href="/features/player_rankings.html">Race to the MVP</a></li>
+              <li><a href="/features/working_out_index.html">Working Out With...</a></li>
+              <li><a href="/voices/ontheroad_index.html">On The Road With...</a></li>
+          </ul>
+      </li>
+      <li>
+          <h4>Voices</h4>
+          <ul>
+              <li><a href="/expectgreat/">Expect Great</a></li>
+              <li><a href="http://my.wnba.com/go/browse/blogs">WNBA.com Blog</a></li>
+              <li><a href="http://my.wnba.com/go/browse/blogs">Fan Blog Squad</a></li>
+              <li><a href="http://my.wnba.com/go/browse/blogs">Donna Orender Blog</a></li>
+              <li><a href="http://www.wnba.com/voices/asktheeditor_q.html">Ask The Editor</a></li>
+              <li><a href="http://www.wnba.com/features/asknancy.html">Ask Nancy</a></li>
+              <li><a href="http://www.wnba.com/features/twenty_questions_index.html">:20 Time Out</a></li>
+          </ul>
+      </li>
+      <li>
+          <h4>Events</h4>
+          <ul>
+              <li><a href="http://www.wnba.com/playoffs/2010/">2010 WNBA Playoffs</a></li>
+              <li><a href="http://www.wnba.com/starsatsun/">2010 WNBA vs. USAB</a></li>
+              <li><a href="http://www.wnba.com/draft2010/">2010 WNBA Draft</a></li>
+              <li><a href="http://www.wnba.com/news/nbaallstar2010.html">WNBA at NBA All-Star</a></li>
+              <li><a href="http://www.wnba.com/news/monarchs_dispersal_091214.html">Monarchs Dispersal Draft</a></li>
+              <li><a href="http://www.wnba.com/news/draft_lottery_results_091105.html">2010 Draft Lottery</a></li>
+              <li><a href="http://www.wnba.com/playoffs2009/">2009 WNBA Playoffs</a></li>
+          </ul>
+      </li>
+      <li>
+          <h4>WNBA 101</h4>
+          <ul>
+              <li><a href="http://www.wnba.com/history/">History</a></li>
+              <li><a href="http://www.wnba.com/about_us/about_wnba_index.html">About The WNBA</a></li>
+              <li><a href="http://www.wnba.com/contact_us/contact_wnba.html">Contact Us</a></li>
+              <li><a href="http://www.wnba.com/analysis/wnba_rules_regulations.html">Rules Of The Game</a></li>
+              <li><a href="http://www.wnba.com/community/">WNBA Cares</a></li>
+              <li><a href="http://www.wnba.com//news/wnba_Newsletter.jsp">Newsletters</a></li>
+              <li><a href="http://hoopedia.nba.com/index.php/WNBA">Hoopedia: Basketball Wiki</a></li>
+          </ul>
+      </li>
+      <li>
+          <h4>More WNBA</h4>
+          <ul>
+              <li><a href="http://www.wnba.com/news/sponsors.html">Marketing/Media Partners</a></li>
+              <li><a href="http://www.nba.com/adspecs/information.html">Advertise on WNBA.com</a></li>
+              <li><a href="http://www.wnba.com/toyotaprojectrebound/">Toyota Project Rebound</a></li>
+              <li><a href="http://www.nba.com/careers/">Career Opportunities</a></li>
+              <li><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_MOREWNBA">WNBAStore.com</a></li>
+              <li><a href="http://www.nba.com/nbafit/index.html">NBA Fit/WNBA Fit</a></li>
+              <li><a href="/news/coachesgameplan.html">Coaches' Game Plan</a></li>
+  	    </ul>
+      </li>
+      <li>
+          <h4>Interactive</h4>
+          <ul>
+              <li><a href="http://www.wnba.com/fantasy_resource/">Fantasy Center</a></li>
+              <li><a href="http://www.wnba.com/games/live.jsp">WNBA LiveAccess</a></li>
+              <li><a href="http://www.wnba.com/features/connect.html">Connect with the WNBA</a></li>
+              <li><a href="https://audience.nba.com/services/msib/flow/login">WNBA All-Access</a></li>
+              <li><a href="http://my.wnba.com/">WNBA Fan Voice</a></li>
+              <li><a href="http://www.wnba.com/mobile/index.html">WNBA Mobile</a></li>
+              <li><a href="http://www.nba.com/nba_tv/index.html">NBA TV</a></li>
+          </ul>
+      </li>
+  </ul>
 
 </div>
-</div></div>
-</div>
-<div class="footerMenuWrapper">
 
-
-<!--other features-->
-	<div class="menuBlock" id="menu1" style="margin-left:0px;">
-	<div class="menuBlockHeader">More Features</div>
-		<ul><li><a href="/history/playersoftheweek.html">Players of the Week</a></li>
-		<li><a href="/features/powerrankings_archive.html">Power Rankings</a></li>
-                <li><a href="/features/player_rankings.html">Race to the MVP</a></li>
-		<li><a href="/features/notesandquotes.html">Notes &amp; Quotes</a></li>
-		<li><a href="/rookies/">adidas Rookie Report</a></li>
-		<li><a href="/features/working_out_index.html">Working Out With...</a></li>
-		<li><a href="/voices/ontheroad_index.html">On The Road With...</a></li>
-			</ul></div>
-<!--end other Features-->
-
-<!--other voices-->
-	<div class="menuBlock" id="menu2">
-	<div class="menuBlockHeader">Voices</div>
-		<ul><li><a href="/expectgreat/">Expect Great</a></li>
-                <li><a href="http://my.wnba.com/go/browse/blogs">WNBA.com Blog</a></li>
-		<li><a href="http://my.wnba.com/go/browse/blogs">Fan Blog Squad</a></li>
-            	<li><a href="http://my.wnba.com/go/browse/blogs">Donna Orender Blog</a></li>
-            	<li><a href="http://www.wnba.com/voices/asktheeditor_q.html">Ask The Editor</a></li>
-            	<li><a href="http://www.wnba.com/features/asknancy.html">Ask Nancy</a></li>
-                <li><a href="http://www.wnba.com/features/twenty_questions_index.html">:20 Time Out</a></li>
-	</ul></div>
-<!--end voices-->
-
-<!--events-->
-	<div class="menuBlock" id="menu3">
-	<div class="menuBlockHeader">Events</div>
-		<ul>
-		<li><a href="http://www.wnba.com/news/nbaallstar2010.html">WNBA at NBA All-Star</a></li>
-		<li><a href="http://www.wnba.com/news/monarchs_dispersal_091214.html">Monarchs Dispersal Draft</a></li>
-		<li><a href="http://www.wnba.com/news/draft_lottery_results_091105.html">2010 Draft Lottery</a></li>
-                <li><a href="http://www.wnba.com/playoffs2009/">2009 WNBA Playoffs</a></li>
-                <li><a href="http://www.wnba.com/allstar2009/">2009 WNBA All-Star</a></li>
-                <li><a href="http://www.wnba.com/draft2009/">2009 WNBA Draft</a></li>
-		<li><a href="http://www.wnba.com/news/draftlottery_081209.html">2009 Draft Lottery</a></li>
-                <!-- <li><a href="http://www.wnba.com/news/comets_dispersal_081208.html">Comets Dispersal Draft</a></li> -->
-                <!-- <li><a href="http://www.wnba.com/usab/beijing_2008.html">2008 Summer Olympics</a></li> -->
-	</ul></div>
-<!--end events-->
-
-<!--wnba 101-->
-	<div class="menuBlock" id="menu4">
-	<div class="menuBlockHeader">WNBA 101</div>
-		<ul><li><a href="http://www.wnba.com/history/">History</a></li>
-		<li><a href="http://www.wnba.com/about_us/about_wnba_index.html">About The WNBA</a></li>
-		<li><a href="http://www.wnba.com/contact_us/contact_wnba.html">Contact Us</a></li>
-		<li><a href="http://www.wnba.com/analysis/wnba_rules_regulations.html">Rules Of The Game</a></li>
-		<li><a href="http://www.wnba.com/community/">WNBA Cares</a></li>
-		<li><a href="http://www.wnba.com//news/wnba_Newsletter.jsp">Newsletters</a></li>
-		<li><a href="http://hoopedia.nba.com/index.php/WNBA">Hoopedia: Basketball Wiki</a></li>
-	</ul></div>
-<!--end wnba 101-->
-
-<!--more wnba-->
-	<div class="menuBlock" id="menu5">
-	<div class="menuBlockHeader">More WNBA</div>
-		<ul><li><a href="http://www.wnba.com/news/sponsors.html">Marketing/Media Partners</a></li>
-		<li><a href="http://www.wnba.com/about_us/advertise.html">Advertise on WNBA.com</a></li>
-		<li><a href="http://www.wnba.com/toyotaprojectrebound/">Toyota Project Rebound</a></li>
-		<li><a href="http://www.nba.com/careers/">Career Opportunities</a></li>
-		<li><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_MOREWNBA">WNBAStore.com</a></li>
-		<li><a href="http://www.nba.com/jrnba/">Jr. NBA/Jr. WNBA</a></li>
-		<li><a href="/news/coachesgameplan.html">Coaches' Game Plan</a></li>
-	</ul></div>
-<!--end more wnba-->
-
-<!--interactive-->
-	<div class="menuBlock" id="menu6">
-	<div class="menuBlockHeader">Interactive</div>
-		<ul><li><a href="http://www.wnba.com/fantasy_resource/">Fantasy Center</a></li>
-		<li><a href="http://www.wnba.com/games/live.jsp">WNBA LiveAccess</a></li>
-		<li><a href="http://www.wnba.com/features/connect.html">Connect with the WNBA</a></li>
-		<li><a href="https://audience.nba.com/services/msib/flow/login">WNBA All-Access</a></li>
-		<li><a href="http://my.wnba.com/">WNBA Fan Voice</a></li>
-		<li><a href="http://www.wnba.com/mobile/index.html">WNBA Mobile</a></li>				
-		<li><a href="http://www.nba.com/nba_tv/index.html">NBA TV</a>
-<!-- <li><a href="/broadband/wnba_league_pass.jsp">Broadband Season Pass</a></li> -->
-<!-- <li><a href="http://www.wnba.com/features/rostercards.html">Weekly Roster Cards</a></li> -->
-<!-- <li><a href="javascript:open_window_ex('http://www.wnba.com/broadband/wnbaAudioSched.html',%20'AudioSeasonPass',%20'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=420,height=358')">Audio Season Pass</a></li> -->
-	</li></ul></div>
-<!--end interactive-->
-
-</div></div>
 
 	
 	<div class="copyright">
