@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the grafdom.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111085205id_/http%3A//grafdom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grafdom.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921111028id_/http%3A//www.grafdom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grafdom
+
+*Privacy Policy
 
 Your privacy is very important to us. We do not sell or otherwise provide your personal information to third parties for any reason, except as required by law.
 
