@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searsoutlet.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324172828id_/http%3A//www.searsoutlet.com/11416/s/legal/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsoutlet.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921044505id_/http%3A//www.searsoutlet.com/18020/s/legal/PP.htm) for the most accurate reproduction.*
 
 # Sears Outlet: Top Brands, Great Services and Unbelievable Prices. 20-60% off Regular Retail Prices Everyday!
 
