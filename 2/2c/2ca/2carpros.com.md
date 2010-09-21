@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318063936id_/http%3A//www.2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921033423id_/http%3A//www.2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
 
 # 2CarPros.com Privacy Information
 
-Free Car Repair Advice by Certified ASE Technicians 
+Car Repair Advice by Professional Automotive Experts 
 
 **2CarPros.com Privacy Information**
 
