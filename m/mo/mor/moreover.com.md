@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109134818id_/http%3A//w.moreover.com/public/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921034630id_/http%3A//w.moreover.com/public/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Moreover Technologies-Privacy Policy
 
