@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theresumator.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523032331id_/http%3A//www.theresumator.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theresumator.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921065821id_/http%3A//www.theresumator.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Resumator Applicant Tracking System
 
