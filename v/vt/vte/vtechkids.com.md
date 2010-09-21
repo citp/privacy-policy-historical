@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617162005id_/http%3A//www.vtechkids.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223825id_/http%3A//www.vtechkids.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # VTech Privacy Policy - VTechKids.com
 
@@ -12,7 +12,7 @@
 
 October 26, 2007
 
-VTech Holdings Limited and its affiliates (“VTech”, “us” or “we”) values the privacy of our website visitors. Our online privacy statement (“Privacy Statement”) describes the types of information we gather from those persons visiting the various Internet web sites owned or operated by VTech (individually referred to as the “Site”) and how we use that information. **By accessing this Site, you agree to be bound by the Privacy Statement and our[Terms And Conditions of Use](https://web.archive.org/web/20100617162005id_/http%3A//www.vtechkids.com/termsOfUse.cfm). If you do not agree to the terms of this Privacy Statement, please do not use this Site. Each time you use the Site, the current version of the Privacy Statement will apply. Accordingly, when you use the Site, you should check the date of this Privacy Statement (which appears at the top) and review any changes since the last version.**
+VTech Holdings Limited and its affiliates (“VTech”, “us” or “we”) values the privacy of our website visitors. Our online privacy statement (“Privacy Statement”) describes the types of information we gather from those persons visiting the various Internet web sites owned or operated by VTech (individually referred to as the “Site”) and how we use that information. **By accessing this Site, you agree to be bound by the Privacy Statement and our[Terms And Conditions of Use](https://web.archive.org/web/20100921223825id_/http%3A//www.vtechkids.com/termsOfUse.cfm). If you do not agree to the terms of this Privacy Statement, please do not use this Site. Each time you use the Site, the current version of the Privacy Statement will apply. Accordingly, when you use the Site, you should check the date of this Privacy Statement (which appears at the top) and review any changes since the last version.**
 
 Information collected on this website will be used according to the following guidelines:
 
