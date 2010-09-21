@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118085721id_/http%3A//www.wkbw.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921222107id_/http%3A//www.wkbw.com/home/privacy) for the most accurate reproduction.*
 
-# WKBW News 7: News, Sports, Weather - Buffalo, New York | WKBW Privacy Policy
+# WKBW News 7: News, Sports, Weather | Privacy Policy
 
 At WKBW-TV 7, we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This Privacy Policy applies to those websites that are part of WKBW-TV 7.
 
@@ -81,9 +81,9 @@ If we decide to change this Privacy Policy, we will post those changes here so t
 If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to [mnurse@wkbw.com](mailto:mnurse@wkbw.com) or send a letter to the following address:
 
 > WKBW-TV 7  
-> attn: Michael Nurse, Station Manager  
-> 7 Broadcast Plaza  
-> Buffalo, NY 14202
+>  attn: Michael Nurse, Station Manager  
+>  7 Broadcast Plaza  
+>  Buffalo, NY 14202
 > 
 > We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
