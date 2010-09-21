@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsweaver.co.uk privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630185718id_/http%3A//www.newsweaver.co.uk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweaver.co.uk privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223453id_/http%3A//www.newsweaver.co.uk/privacypolicy.php) for the most accurate reproduction.*
 
 # Newsweaver - Privacy Policy
 
