@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2009-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090731062622id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922000327id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
 
 # UsenetBinaries.com - Privacy Policy
 
   
 **UsenetBinaries.com Privacy Statement**
 
-This privacy statement covers the site www.usenetbinaries.com and all other sites in the UsenetBinaries.com domain name space, such as admin.usenetbinaries.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices. 
+This privacy statement covers the site www.usenetbinaries.com and all other sites in the UsenetBinaries.com domain name space, such as admin.usenetbinaries.com. Because this Web site wants to demonstrate its commitment to our users� privacy, it has agreed to disclose its information practices. 
 
   1. What personally identifiable information UsenetBinaries.com collects. 
   2. What personally identifiable information third parties collect through the Web site.  
@@ -37,7 +37,7 @@ In order to use this Web site, a user must first complete the registration form.
 
 _Upgrade_
 
-We request information from the user on our upgrade form. A user must provide contact information (such as billing address and phone number) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the user will be contacted via email address or billing information as necessary. 
+We request information from the user on our upgrade form. A user must provide contact information (such as billing address and phone number) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer�s orders. If we have trouble processing an order, the user will be contacted via email address or billing information as necessary. 
 
 #### Information Use
 
@@ -45,19 +45,19 @@ UsenetBinaries.com uses information about our users for registration, billing, a
 
 #### Profile
 
-We store information that we collect through cookies, database records, and log files. A profile is stored information that we keep on individual users, which details their **optional** viewing preferences (e.g. ‘Group Favorites’). If a user does not explicitly store viewing preferences, none are collected or stored. Consequently, this optional information is tied to the users personally identifiable information to improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site. We do not share your profile with other third parties. Your profile is stored with your username and password, but not with any personally identifiable data from your billing information. Also, we do not reveal personal viewing preferences in any customer support tools. 
+We store information that we collect through cookies, database records, and log files. A profile is stored information that we keep on individual users, which details their **optional** viewing preferences (e.g. �Group Favorites�). If a user does not explicitly store viewing preferences, none are collected or stored. Consequently, this optional information is tied to the users personally identifiable information to improve the content of the site for the user. This profile is used to tailor a user�s visit to our Web site. We do not share your profile with other third parties. Your profile is stored with your username and password, but not with any personally identifiable data from your billing information. Also, we do not reveal personal viewing preferences in any customer support tools. 
 
 #### Cookies
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+A cookie is a piece of data stored on the user�s computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user�s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
 
-By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. the user will not be able to use registered user features such as viewing full media or performing searches. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the Profile”section. 
+By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. the user will not be able to use registered user features such as viewing full media or performing searches. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the Profile�section. 
 
 Cookies contain information collected at signup time, including IP address, referrer, and username. 
 
 #### Log Files
 
-Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are tied to personally identifiable information which is used only in matters of site abuse and security. We use a log analyzing utility which uses log files to analyze user movement in the aggregate. 
+Like most standard Web site servers we use log files.� This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user�s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are tied to personally identifiable information which is used only in matters of site abuse and security. We use a log analyzing utility which uses log files to analyze user movement in the aggregate. 
 
 #### Communications from the Site
 
@@ -91,7 +91,7 @@ We use credit card processing companies to authenticate and bill users for servi
 
 _Business Transitions_
 
-In the event UsenetBinaries.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
+In the event UsenetBinaries.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users� personal information will, in most instances, be part of the assets transferred. 
 
 _Site Security and Abuse_
 
@@ -107,11 +107,11 @@ This Web site contains links to other sites. Please be aware that we, UsenetBina
 
 ####  Surveys and Contests
 
-From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Anonymous Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes. 
+From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Anonymous Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users� personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users� personally identifiable information for any secondary purposes. 
 
 #### Email to a Friend
 
-If a user elects to use our Email To a Friend service for sending images to a friend, we ask them for the friend’s email address. UsenetBinaries.com will automatically send the friend a one-time email inviting them to visit the site containing the selected media and associated images. UsenetBinaries.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If a user elects to use our Email To a Friend service for sending images to a friend, we ask them for the friend�s email address. UsenetBinaries.com will automatically send the friend a one-time email inviting them to visit the site containing the selected media and associated images. UsenetBinaries.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 #### Upload Form
 
@@ -119,21 +119,21 @@ UsenetBinaries.com allows users to upload files to the Usenet network, which wil
 
 #### Security
 
-This Web site takes every precaution to protect our users’information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
+This Web site takes every precaution to protect our users�information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
 
 When our upgrade form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing. In some cases, an upgrade form may not display the lock as the form is not displayed on a secure page. However, anything typed into that form will be submitted encrypted, and any re-display of the form with the information enclosed (for, example, data correction purposes) will be sent over SSL. 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. When new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility. 
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users�information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. When new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users� information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility. 
 
 If users have any questions about the security at our Web site, users can contact us via http://www.usenetbinaries.com/contact. 
 
 #### Correcting/Updating Personal Information
 
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct or update users’ personally identifiable information. This can usually be done at https://admin.usenetbinaries.com/cgi-bin/admin or by emailing our Customer Support at http://www.usenetbinaries.com/contact 
+If a user�s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct or update users� personally identifiable information. This can usually be done at https://admin.usenetbinaries.com/cgi-bin/admin or by emailing our Customer Support at http://www.usenetbinaries.com/contact 
 
 #### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users’personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users�personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
 
 #### Contact Information
 
