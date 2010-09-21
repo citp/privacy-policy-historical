@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102043143id_/http%3A//www.httpwatch.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921043015id_/http%3A//httpwatch.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # HttpWatch: Privacy Policy
 
@@ -22,4 +22,4 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ### Contact Information
 
-If you have any questions about this privacy statement, please contact [ us](https://web.archive.org/web/20100102043143id_/http%3A//www.httpwatch.com/company). 
+If you have any questions about this privacy statement, please contact [ us](https://web.archive.org/web/20100921043015id_/http%3A//httpwatch.com/company). 
