@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302220554id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921031638id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
 
 # XXLmag.com - Privacy Policy
 
@@ -61,6 +61,3 @@ Questions regarding this statement or the privacy policies or procedures of this
 
 **Effective Date**  
 This Privacy Policy is effective and was last updated on Sep 1, 2007.
-
-  
-
