@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315064512id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921103606id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
 
 # Entergy - Legal
 
