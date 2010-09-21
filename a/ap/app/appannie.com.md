@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appannie.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509185901id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appannie.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921112313id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | App Annie
 
