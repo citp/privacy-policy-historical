@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peets.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619081523id_/http%3A//www.peets.com/cust/privacy.asp%3Fcm_re%3Dfooter-_-privacy-_-text%26cm_sp%3Dprivacy-_-footer-_-text) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peets.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921222110id_/http%3A//www.peets.com/cust/privacy.asp%3Fcm_re%3Dfooter-_-privacy-_-text%26cm_sp%3Dprivacy-_-footer-_-text) for the most accurate reproduction.*
 
 # Peet's Coffee & Tea
 
