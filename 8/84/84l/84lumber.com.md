@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 84lumber.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605211328id_/http%3A//www.optout.84lumber.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 84lumber.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921034741id_/http%3A//www.optout.84lumber.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # 84 Lumber Website Privacy Policy
 
