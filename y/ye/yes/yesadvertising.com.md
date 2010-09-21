@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326090747id_/http%3A//yesadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921213140id_/http%3A//yesadvertising.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Advertising Affiliate Marketing - Cost per Action - Cost per Lead
+# Privacy Policy - Affiliate Marketing Programs - Cost per Action - Cost per Lead
 
 ## Privacy Policy
 
