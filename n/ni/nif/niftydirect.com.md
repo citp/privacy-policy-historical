@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the niftydirect.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107070538id_/http%3A//www.niftydirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niftydirect.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921141207id_/http%3A//www.niftydirect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : NiftyDirect
+# Nifty Trading Tips | Nifty Future | Nifty Options | Call & Put Options | Stock Market Tips and Recommendations | Privacy Policy | NiftyDirect
 
 Privacy Policy  
-NiftyDirect.com Advisory Services (”NiftyDirect.com”) is committed to safeguarding your privacy online. Please read the following privacy policy to understand how your personal information will be treated as you make full use of our many services. This policy may change from time to time and hence please check periodically.
+NiftyDirect.com Advisory Services (“NiftyDirect.com”) is committed to safeguarding your privacy online. Please read the following privacy policy to understand how your personal information will be treated as you make full use of our many services. This policy may change from time to time and hence please check periodically.
 
 1\. Information gathered through our website
 
