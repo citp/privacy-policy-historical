@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413102140id_/http%3A//www.juicywin.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921212747id_/http%3A//juicywin.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Juicy Win
 
@@ -52,7 +52,7 @@ Our website may contain links to enable you to visit other websites of interest 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
 Whenever you are asked to fill in a form on the website, look for a box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes   
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by texting 'No Info' to 61115 
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by texting 'No Info' to 61177. 
 
 **Disclosure of your personal information**
 
