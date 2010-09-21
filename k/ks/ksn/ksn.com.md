@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksn.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615174604id_/http%3A//www.ksn.com/content/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksn.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921135054id_/http%3A//www.ksn.com/content/about/privacy.aspx) for the most accurate reproduction.*
 
 # KSN TV Privacy Policy - KSN TV, Kansas News and Weather
 
