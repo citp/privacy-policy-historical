@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allover30free.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908204749id_/http%3A//www.allover30.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allover30free.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921110214id_/http%3A//www.allover30.com/privacy.php) for the most accurate reproduction.*
 
 # All Over 30
 
@@ -6,13 +6,7 @@
 
 **_[WWW.ALLOVER30.COM](http://www.allover30.com/)_**
 
-**_[WWW.ALLOVER30FREE.COM](http://www.allover30free.com/)_**
-
-**_[WWW.CRAZIES.COM](http://www.crazies.com/)_**
-
-**_[WWW.FULLBUSHGALLERY.COM](http://www.fullbushgallery.com/)_**
-
-**_[WWW.SEXRAMBLINGS.COM](http://www.sexramblings.com/)_**
+**_[TOUR.ALLOVER30.COM](http://tour.allover30.com/)_**
 
 Effective Date:  **April 26th, 2006** ****
 
@@ -22,7 +16,7 @@ Last Updated: **April 26th, 2006** ****
 
 A.        The operative parties referred to in this policy are COMPANY and you, the user of this site.
 
-1.         eTech Marketing, Inc., is the publisher and operator of various websites and is hereinafter referred to as “COMPANY”.  When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to eTech Marketing, Inc. d/b/a [www.allover30.com](http://www.allover30.com/); [www.allover30free.com](http://www.allover30free.com/); [www.crazies.com](http://www.crazies.com/); [www.fullbushgallery.com](http://www.fullbushgallery.com/); and [www.sexramblings.com](http://www.sexramblings.com/).  Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to [www.allover30.com](http://www.allover30.com/); [www.allover30free.com](http://www.allover30free.com/); [www.crazies.com](http://www.crazies.com/); [www.fullbushgallery.com](http://www.fullbushgallery.com/); and [www.sexramblings.com](http://www.sexramblings.com/).
+1.         eTech Marketing, Inc., is the publisher and operator of various websites and is hereinafter referred to as “COMPANY”.  When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to eTech Marketing, Inc. d/b/a [www.allover30.com](http://www.allover30.com/) and [tour.allover30.com](http://tour.allover30.com/).
 
 2.         **You, the User** – As the user of this SITE/these SITES, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc.  Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.
 
