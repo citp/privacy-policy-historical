@@ -1,12 +1,29 @@
-> *The following text is extracted and transformed from the verifone.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323062901id_/http%3A//www.verifone.com/about-us/legal--privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verifone.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921135033id_/http%3A//www.verifone.com/about-us/legal--privacy.aspx) for the most accurate reproduction.*
 
-# VeriFone Official Site | Secure payment solutions for credit & debit cards, EMV, contactless, & NFC.
+# Legal and Privacy Policy - VeriFone
 
-**Privacy Policy**  
+## A Message from Our Chief Executive Officer  
+Doug Bergeron, CEO
 
+More than twenty years ago, VeriFone introduced the first check verification and credit authorization device ever utilized by merchants in a commercial setting. Since then, VeriFone has grown to become a global leader in secure electronic payment solutions. From the beginning, we have been guided by our commitment to ethics in how our employees interact with each other and how we treat our customers, suppliers and partners.
 
-This document was last updated Sept 18, 2008.
+VeriFone maintains a strict [code of business conduct and ethics](http://ir.verifone.com/phoenix.zhtml?c=187628&p=irol-govConduct) – a set of legal and ethical principles that strive to maintain the highest ethical standards wherever VeriFone operates. VeriFone's commitment to its code of ethics starts at the top: directors, executives, employees and consultants are all responsible for being familiar with the code and abiding by it. The code also covers subsidiaries and affiliates of VeriFone. We understand that ethical behavior is an individual responsibility and no code can capture every possible ethical or legal situation, which is why we insist that sound judgment and discretion also be exercised. 
 
+We need and encourage all of our employees, customers, suppliers and partners to work with us in upholding the principles in our code. If you have any concerns about questionable or inappropriate behavior, please do not hesitate to report it so we can work to resolve the issue immediately. VeriFone has established a [compliance line](https://www.compliance-helpline.com/verifone.jsp), a simple and effective way to express concerns regarding any potentially unethical situation involving VeriFone. 
+
+## Compliance Line
+
+VeriFone has established a Compliance Line, a simple, effective way to express concerns regarding any potentially unethical situation involving VeriFone.  
+[View the Complete Compliance Line Details](https://web.archive.org/PDF/legal/VeriFone_Compliance_Line.pdf)
+
+## Standard Terms and Conditions
+
+The following document covers the terms and conditions for purchases and purchase orders submitted to VeriFone.  
+[View our Complete Terms and Conditions](https://web.archive.org/PDF/legal/VeriFone_Standard_Ts_and_Cs.pdf)
+
+## Privacy Policy
+
+This document was last updated Sept 18, 2008.  
 VeriFone, Inc. and its subsidiaries (collectively "VeriFone" or the "company") are sensitive to privacy issues on the Internet. The company believes it is important that you know how it treats the information it receives about you on the Internet.
 
 In general, you can visit VeriFone on the Web without telling the company who you are or revealing any information about yourself. VeriFone's Web servers collect the domain names, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. VeriFone may use this information to measure the content of its Web site and improve its use.
@@ -23,18 +40,12 @@ VeriFone's Web site may contain links to third-party sites. While VeriFone tries
 
 VeriFone will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of this privacy statement.
 
-**Legal Notice**  
+## Legal Notice
 
+Copyright 2009, All rights reserved. VeriFone, the VeriFone logo, NURIT, Omni, PAYware, Secura, SoftPay, Tranz, Verix, VeriShield, Vx, VeriCentre and Xplorer are either trademarks or registered trademarks of VeriFone in the United States and/or other countries. The absence of a product or service name or logo from this list does not constitute a waiver of VeriFone's trademark or other intellectual property rights concerning that name or logo. All other trademarks or brand names are the properties of their respective holders. All features and specifications about VeriFone products and services are subject to change without notice.
 
-Copyright 2008, All rights reserved. VeriFone, the VeriFone logo, NURIT, Omni, PAYware, Secura, SoftPay, Tranz, Verix, VeriShield, Vx, VeriCentre and Xplorer are either trademarks or registered trademarks of VeriFone in the United States and/or other countries. The absence of a product or service name or logo from this list does not constitute a waiver of VeriFone's trademark or other intellectual property rights concerning that name or logo. All other trademarks or brand names are the properties of their respective holders. All features and specifications about VeriFone products and services are subject to change without notice.
-
-Bruce Goldberg  
-Corporate Legal Department  
-Office (408) 232-7840  
-Email: [bruce_goldberg@verifone.com](mailto:bruce_goldberg@verifone.com?subject=VeriFone.com%20Inquiry)  
-Fax: (408) 232-7841 
 VeriFone, Inc.  
 Attn: Legal Department  
 2099 Gateway Place, Suite 600  
-San Jose, CA 95110-1093 
-
+San Jose, CA 95110-1093  
+Fax: (408) 232-7841
