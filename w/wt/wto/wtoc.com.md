@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtoc.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214148id_/http%3A//www.wtoc.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtoc.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223414id_/http%3A//www.wtoc.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WTOC, Savannah, Georgia, news, weather and sports |
 
