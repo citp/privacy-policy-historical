@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211821id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921205408id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TeamNames.net
+# Privacy Policy
 
 Your access and usage of TeamNames.net ("we", "us", or "the website") is subject to the following privacy policy, [Terms & Conditions of Use](https://web.archive.org/terms-and-conditions "Read the website Terms & Conditions") and all other applicable laws.
 
