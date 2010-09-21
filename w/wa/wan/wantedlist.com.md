@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wantedlist.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615055120id_/http%3A//www.wantedlist.com/PrivacyList.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantedlist.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922000126id_/http%3A//www.wantedlist.com/PrivacyList.aspx) for the most accurate reproduction.*
 
 # Adult DVD Rentals @ WantedList.com
 
