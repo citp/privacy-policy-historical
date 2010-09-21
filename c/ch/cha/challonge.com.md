@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the challonge.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629033050id_/http%3A//challonge.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challonge.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921104209id_/http%3A//challonge.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CHALLONGE!
 
