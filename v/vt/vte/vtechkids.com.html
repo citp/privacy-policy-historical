@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vtechkids.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617162005id_/http%3A//www.vtechkids.com/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vtechkids.com privacy policy that was archived on 2010-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100921223825id_/http%3A//www.vtechkids.com/privacyPolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>VTech Privacy Policy - VTechKids.com</title>
@@ -20,17 +20,34 @@
 
 
  <script type="text/javascript" src="/combine.cfm?files=/js/mootools.js,/js/multiAccordianTest.js,/js/swfobject.js"></script>
+ <script src="/js/jquery.1.4.2.min.js"></script>
+ <script type="text/javascript" src="/js/latest-jquery-ui/jquery-ui-1.7.2.custom.min.js"></script>
+ <script type="text/javascript" src="/js/captcha/jquery.captcha.js"></script>
 
-</head>
+
+<link href="/js/captcha/captcha.css" rel="stylesheet" type="text/css">
+
+
+
+
+            
+            <!--[if IE 6]>            
+                <script src="/js/dd_belatedPNG.min.js"></script>
+                <script>
+                  DD_belatedPNG.fix('.ie6_png_fix');
+                </script> 
+            <![endif]-->
+		</head>
 
 <body>
+	
 <div id="wrap">
     <div id="content">
 		
         
            <div id="header">
               <div id="logoWrap" style="float:left;">
-              	<a href="/"><img src="/images/vtech_logo_sm.jpg" alt="VTech" id="logo"></a>
+              	<h1 class="ie6_png_fix"><a href="/">Vtech Kids</a></h1>
               </div>
                 <div id="login">
                     <ul>
@@ -53,8 +70,12 @@
             	<ul id="primaryNav">
                     <li class="home">	<a href="/"> Home</a></li>
 
-					<li class="hotproducts"><a href="/hot_products.cfm">Hot Products</a></li>
-
+					<li class="hotproducts"><a href="/hot_products.cfm">Hot Products</a>
+						<ul class="primarySubNav">
+							<li><a href="/shop.cfm?popular=1">Best Sellers</a></li>
+							<li class="lastnavitem"><a href="/shop.cfm?wstatus=n">New Arrivals</a></li>
+						</ul>
+					</li>
 
                     <li class="shop">	<a href="/shop_landing.cfm"> Shop</a>
                     	<ul class="primarySubNav">
@@ -74,7 +95,7 @@
 							<li><a href="/account_home.cfm" class="toggler">My Account</a></li>
 							<li><a href="/parents_landing.cfm" class="toggler">Progress Tracker</a></li>
 							<li><a href="/milestones.cfm" class="toggler">Milestones</a></li>
-							<li><a href="/articles.cfm" class="toggler">Articles</a></li>
+							<li><a href="/articles.cfm" class="toggler">Articles &amp; Resources</a></li>
 							<li class="lastnavitem"><a href="/planet.cfm" class="toggler">Planet VTech</a></li>
                     		
 						</ul>
@@ -86,7 +107,7 @@
                             <li><a href="/support_faq.cfm" class="toggler">FAQ</a></li>
                             <li><a href="/support_manuals.cfm" class="toggler">Product Manuals</a></li>
                             <li><a href="/support_replacement.cfm" class="toggler">Replacement Parts</a></li>
-                            <li><a href="/support_downloads.cfm" class="toggler">Downloads</a></li>
+                            <li><a href="/download" class="toggler">Downloads</a></li>
                             <li><a href="/product_register.cfm" class="toggler">Warranty Registration</a></li>                        
                             <li class="lastnavitem"><a href="/support_safety.cfm" class="toggler">Product Safety</a></li>
                         </ul>
@@ -94,7 +115,7 @@
                     <li class="about">	<a href="/about.cfm" class="active"> About Vtech</a>
                     	<ul class="primarySubNav">
                             <li><a href="/press.cfm" class="toggler">Recent Press</a></li>
-                            <li><a href="/accolades.cfm" class="toggler">Accolades</a></li>
+                            <li><a href="/accolades.cfm" class="toggler">Awards and Accolades</a></li>
                             <li><a href="/council.cfm" class="toggler">Advisory Council</a></li>
                             <li><a href="/careers.cfm" class="toggler">Careers</a></li>
                             <li><a href="/about_socialMedia.cfm" class="toggler">Social Media</a></li>
@@ -104,19 +125,20 @@
                     
                     <li class="search">
                        <ul id="sitesearch">
-                      	<form name="search" action="/searchresults.cfm" method="get">
+                      	<form name="search" id="searchForm" action="/searchresults.cfm" method="get" onsubmit="return checkBlank();">
                         <input type="hidden" name="cx" value="016842942697591214521:ombpv2xc_u4">
                         <input type="hidden" name="cof" value="FORID:11">
                         <input type="hidden" name="ie" value="UTF-8">
                         <style type="text/css">
 							#searchcrit_cf_button { display: none;}
 						</style>
-    	                    <li><div class="searchBar"><input id="searchcrit" type="text" name="q"></div></li>
+    	                    <li><div class="searchBar"><input id="searchcrit" type="text" name="q" onkeypress="checkInput(this)" onblur="checkInput(this);"></div></li>
 	                        <li><input type="submit" name="submit" value="Search" class="submit"></li>
                         </form>
                       </ul>
                     </li>
                 </ul>
+								<script type="text/javascript" src="/js/checkInput.js"></script>
                 
         <div class="clear" style="height:2px;"></div>
         
@@ -135,7 +157,7 @@
                             <li><a href="/support_faq.cfm" class="toggler">FAQ</a></li>
                             <li><a href="/support_manuals.cfm" class="toggler">Product Manuals</a></li>
                             <li><a href="/support_replacement.cfm" class="toggler">Replacement Parts</a></li>
-                            <li><a href="/support_downloads.cfm" class="toggler">Downloads</a></li>
+                            <li><a href="/download" class="toggler">Downloads</a></li>
                             <li><a href="/product_register.cfm" class="toggler">Warranty Registration</a></li>                        
                             <li><a href="/support_safety.cfm" class="toggler">Product Safety</a></li>
                         </ul>
@@ -195,32 +217,32 @@
     
 	
     
-         <div id="footer_new">
-         	
-            <div class="footer_text">
-                <img src="/images/footer_vtechLogo.gif" width="79" height="19" id="footerLogo">
-                <ul>
-                    <li><a href="/termsOfUse.cfm">Terms of Use</a>  |  </li>
-                    <li><a href="/privacyPolicy.cfm">Privacy Policy</a>  |  </li>
-                    <li><a href="/shipping_returns.cfm">Shipping &amp; Returns</a>  |  </li>
-                    <li><a href="/sitemap.cfm">Site Map</a>  |  </li>
-                    <li><a href="/product_sitemap.cfm">All Products</a>  |  </li>
-                    <li><a href="/feedback.cfm">Feedback</a>  |  </li>
-                    <li><a onclick="pageTracker._trackPageview('/exit/www.vtech.com/')" href="http://www.vtech.com/">VTech Corporate</a>  |  </li>
-                    <li><a onclick="pageTracker._trackPageview('/exit/www.vtechphones.com/')" href="http://www.vtechphones.com/">VTech Phones</a> | </li>
-                    <li><a onclick="pageTracker._trackPageview('/exit/reviews.vtechkids.com/')" href="http://reviews.vtechkids.com" title="Read Product Reviews">Reviews</a></li>
-                </ul>   
-                <div class="clear"></div>
-                <ul>
-                	<li>
-                	  <p style="margin-left:212px;">© 2007-2010 VTech Electronics North America, LLC, All Rights Reserved      </p>
-                	</li>
-                    <li><img src="/images/vtech_twitterlogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.twitter.com/vtechtoys" target="_blank">Twitter</a></li>
-                    <li><img src="/images/vtech_flickrlogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.flickr.com/photos/vtech_toys/collections/" target="_blank">Flickr</a></li>
-                    <li><img src="/images/vtech_youtubelogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.youtube.com/VTechToys" target="_blank">Youtube</a></li>
-                    <li><img src="/images/vtech_facebooklogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.facebook.com/s.php?init=q&amp;q=vtech%20toys&amp;ref=ts#/pages/VTech-Toys/122668598407?ref=search" target="_blank">Facebook</a></li>
-                </ul>       
-			</div>
+        <div id="footer_new">
+          <div class="footer_text">
+            <div id="footer_left_column">
+              <img src="/images/footer_vtech_logo_transparent.png" width="98" height="77" id="footerLogo" class="ie6_png_fix">          
+            </div>
+            <div id="footer_right_column">
+              <ul>
+                <li><a href="/termsOfUse.cfm">Terms of Use</a>  |  </li>
+                <li><a href="/privacyPolicy.cfm">Privacy Policy</a>  |  </li>
+                <li><a href="/shipping_returns.cfm">Shipping &amp; Returns</a>  |  </li>
+                <li><a href="/sitemap.cfm">Site Map</a>  |  </li>
+                <li><a href="/product_sitemap.cfm">All Products</a>  |  </li>
+                <li><a href="/feedback.cfm">Feedback</a>  |  </li>
+                <li><a onclick="pageTracker._trackPageview('/exit/www.vtech.com/')" href="http://www.vtech.com/">VTech Corporate</a>  |  </li>
+                <li><a onclick="pageTracker._trackPageview('/exit/www.vtechphones.com/')" href="http://www.vtechphones.com/">VTech Phones</a> | </li>
+                <li><a onclick="pageTracker._trackPageview('/exit/reviews.vtechkids.com/')" href="http://reviews.vtechkids.com" title="Read Product Reviews">Reviews</a></li>
+              </ul>   
+              <ul>
+                <li>© 2007-2010 VTech Electronics North America, LLC, All Rights Reserved</li>
+                <li><img src="/images/vtech_twitterlogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.twitter.com/vtechtoys" target="_blank">Twitter</a></li>
+                <li><img src="/images/vtech_flickrlogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.flickr.com/photos/vtech_toys/collections/" target="_blank">Flickr</a></li>
+                <li><img src="/images/vtech_youtubelogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.youtube.com/VTechToys" target="_blank">Youtube</a></li>
+                <li><img src="/images/vtech_facebooklogo.jpg" style="margin:0 4px 0 5px;"><a href="http://www.facebook.com/s.php?init=q&amp;q=vtech%20toys&amp;ref=ts#/pages/VTech-Toys/122668598407?ref=search" target="_blank">Facebook</a></li>
+              </ul>               
+            </div>      
+          </div>
         </div>
     
     </div>
