@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxorlando.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614104120id_/http%3A//www.myfoxorlando.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxorlando.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921215943id_/http%3A//www.myfoxorlando.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy_Policy
 
