@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsheat.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425071641id_/http%3A//www.smsheat.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsheat.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921215917id_/http%3A//www.smsheat.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # SMSHeat.Com - Privacy Policy
 
