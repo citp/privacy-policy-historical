@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207215236id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921212032id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Thinking
 
@@ -59,9 +59,8 @@ Please see our Online Agreement for other [terms and conditions](http://www.pion
 
 **Please Select** [Mind and Body](http://www.pioneerthinking.com/mbs.html) / [Lifestyle](http://www.pioneerthinking.com/lifestyle.html) / [Discussion Boards](http://www.pioneerthinking.com/cgi-bin/mb/YaBB.pl)
 
-© Copyright 1999 - 2009 Pioneer Thinking Company. All Right Reserved
+© Copyright 1999 - 2010 Pioneer Thinking Company. All Right Reserved
  
 No part of this website may be reproduced or transmitted in any form or by any means
 without the expressed permission of Pioneer Thinking
  
-Optimized for [MSIE 6](http://www.microsoft.com/windows/ie/) \- 800x600
