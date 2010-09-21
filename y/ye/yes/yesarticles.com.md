@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the yesarticles.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330025756id_/http%3A//www.yesarticles.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesarticles.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921212236id_/http%3A//www.yesarticles.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Submit Articles
+
+[](http://facebook.com/yesarticles "Submit Articles")
+
+[](http://twitter.com/yesarticles "Submit Articles")
 
 Polls 
 
@@ -13,25 +17,8 @@ Have you ever published articles to Article Direct
 
 
 
-* * *
+| 
 
-Aeticle marketing can 
-
-  * Improve Your ranking
-  * Improve Your Site Trafic
-  * Increase Your site Links
-  * None of Those
-
-
-
-Who is Online 
-
-| Active Users: | 94  
----|---  
-Authors: | 0  
-Guests: | 94  
-Visits last 24h: | 6217  
-  
 [](http://www.yesarticles.com/) »  **Privacy Policy**
 
 The company promises not to use any private information on individual users except for the use of the website.  The company nevertheless reserves the right to collect information regarding user habits on the site and to use this information for improving the site’s services, its operation and content.  The company reserves the right to save information and details about the user (such as:  Personal details, address, email and resumes) in the database in order to offer the user potentional jobs, which according to the company, suit his/her qualifications.  The company promises not to transfer this information to potential employers without the user authorizing this ahead of time.
@@ -51,12 +38,6 @@ Despite what is written above, the company is entitled to transfer personal info
 
 | 
 
-Testimonials 
-
-I was very pleased to find useful web site, with good articles, staff and fan... David 
-
-David
-
-I found YesArticles very easy to submit articles and it was a pleasure to do so
-
-Zaqui nehmad
+Subsribe to Receive Updates   
+  
+---|---|---
