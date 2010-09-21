@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624080049id_/http%3A//www.ufs.ac.za/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921234607id_/http%3A//www.ufs.ac.za/legal/privacy.php) for the most accurate reproduction.*
 
 # University of the Free State / Universiteit van die Vrystaat / Yunivesithi Ya Freistata
 
 [](https://web.archive.org/index.php) | [](https://web.archive.org/index.php) |  |   
 ---  
-| [Home](https://web.archive.org/index.php "Home") |  | [Contact Us](https://web.archive.org/contact/contact.php "Contact Us") |  | [Site Map](https://web.archive.org/apps/sitemap.php "Site Map")  
+| [Tuis](https://web.archive.org/index.php "Tuis") |  | [Kontak Ons](https://web.archive.org/contact/contact.php "Kontak Ons") |  | [Web uitleg](https://web.archive.org/apps/sitemap.php "Web uitleg")  
 |  | [](https://web.archive.org/index.php)  
 ---  
-| Privacy Policy   
+| Privaatheidsbeleid   
 ---  
   
 #### **Privacy Statement**
