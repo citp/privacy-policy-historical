@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the appannie.com privacy policy that was archived on 2010-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100509185901id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appannie.com privacy policy that was archived on 2010-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100921112313id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 
@@ -155,22 +155,28 @@ IS_IPAD = false;
 
 
 
-<script type="text/javascript" charset="utf-8">
-  var is_ssl = ("https:" == document.location.protocol);
-  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+<div id="feedback_container"></div><script type="text/javascript" charset="utf-8">
+	$(document).ready(function(){
+	  var is_ssl = ("https:" == document.location.protocol);
+	  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+	  //document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+	  $.ajax({
+	    url: asset_host + "javascripts/feedback-v2.js",
+	    dataType: 'script',
+	    success: function(){
+		  var feedback_widget_options = {};
 
-<script type="text/javascript" charset="utf-8">
-  var feedback_widget_options = {};
+		  feedback_widget_options.display = "overlay";  
+		  feedback_widget_options.company = "appannie";
+		  feedback_widget_options.placement = "right";
+		  feedback_widget_options.color = "#222";
+		  feedback_widget_options.style = "idea";
+		  feedback_widget_options.container = "feedback_container";
 
-  feedback_widget_options.display = "overlay";  
-  feedback_widget_options.company = "appannie";
-  feedback_widget_options.placement = "right";
-  feedback_widget_options.color = "#222";
-  feedback_widget_options.style = "idea";
-  
-  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+		  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+	    }
+	  });
+	});
 </script>
 
 <script type="text/javascript">
