@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalnetprivacy.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523031837id_/http%3A//www.totalnetprivacy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalnetprivacy.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921061216id_/http%3A//www.totalnetprivacy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -17,7 +17,7 @@ With respect to cookies: We use cookies to store visitors preferences and record
 
 If you do not want to receive e-mail from us in the future, please let us know by cancelling your proxy membership if you have subscribed.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
