@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runrungames.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614111342id_/http%3A//www.runrungames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runrungames.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223446id_/http%3A//www.runrungames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy - Play Free Online Games at Runrungames.com
+# Privacy
 
 No information is sold or released to anyone about visitors to _Runrungames.com_ without prior consent or a court order. In other words, no information is released to anyone unless you give permission first. 
 
