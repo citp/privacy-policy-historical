@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the meteorgames.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233809id_/http%3A//www.meteorgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteorgames.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921201653id_/http%3A//meteorgames.com/privacy) for the most accurate reproduction.*
 
 # Meteor Games
 
-  | 
+You are reading the Privacy Policy. [Click here to read the Terms of Use.](https://web.archive.org/web/20100921201653id_/http%3A//meteorgames.com/terms)
+
+| 
 
 Meteor Games Privacy Policy March 18th 2009
 
