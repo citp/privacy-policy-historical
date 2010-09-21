@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305032003id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921224738id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
 
 # Auction Seller's Resource Privacy Policy
 
