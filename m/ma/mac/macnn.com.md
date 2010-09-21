@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626213729id_/http%3A//www.macnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921212611id_/http%3A//www.macnn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MacNN
 
@@ -9,7 +9,7 @@ Internet user privacy is of paramount importance to MacNN.com and its related si
 
 **User Information**
 
-During your visit to the site, MacNN does not collect any personally-identifiable information about you that you do not specifically volunteer. This information may be volunteered when you create an account on the MacNN discussion forums located at [http://www.macnn.com/forums/](https://web.archive.org/web/20100626213729id_/http://www.macnn.com/privacy/%C3%93http://www.macnn.com/forums/%C3%93). However, even then, MacNN does not use that stored information for any purpose other than to allow you to log in and post messages. 
+During your visit to the site, MacNN does not collect any personally-identifiable information about you that you do not specifically volunteer. This information may be volunteered when you create an account on the MacNN discussion forums located at [http://www.macnn.com/forums/](https://web.archive.org/web/20100921212611id_/http://www.macnn.com/privacy/%C3%93http://www.macnn.com/forums/%C3%93). However, even then, MacNN does not use that stored information for any purpose other than to allow you to log in and post messages. 
 
 MacNN does, however, automatically collect certain non-personally-identifiable information about you, such as your browser type and the IP address that your ISP designates to your machine (which, with dial-up accounts, usually changes every time you connect). This is standard practice for web sites, and is not used for any purpose other than to evaluate how we can design the site to best serve your needs. This information is not sold to any third parties, or available to anybody outside of the MacNN staff.
 
