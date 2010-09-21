@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoopler.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522111002id_/http%3A//www.scoopler.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopler.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921210313id_/http%3A//www.scoopler.com/privacypolicy) for the most accurate reproduction.*
 
 # Scoopler.com - Privacy Policy
 
