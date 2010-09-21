@@ -1,82 +1,103 @@
-> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524145706id_/http%3A//ukfamily.co.uk/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921023428id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue) for the most accurate reproduction.*
 
-# Privacy policy
+# Disney Registration
 
-## 1\. Online registation
+**Privacy Policy**   
+dated July 2009
 
-This policy tells you how we collect information from you on-line, how we protect it and how we use it. The Walt Disney Internet Group, a business division of The Walt Disney Company Limited (a company incorporated in England), controls all personal information which you provide when you use any of our sites, whether via your computer or your mobile (the " **Sites** "), unless otherwise specified on the relevant Site, where a different Privacy Policy will be displayed.
+This policy (the “Privacy Policy”) tells you how The Walt Disney Company Limited of 3 Queen Caroline Street, London, England collects information from you, how we protect it and how we use it, and covers all personal information which you provide when you use any of our Disney sites (the “Sites”), unless otherwise specified on the relevant Site where a different privacy policy will be displayed, and also controls information provided by you when dealing with any one of Disney’s promotional partners where you may opt in to receive information from Disney and agree to your information being forwarded by that partner to us but do not directly register on a Disney Site.
 
-## 2\. What type of information we collect about you
+If we collect information about you as part of another Disney service on-line (for example, if you order goods from The Disney Store), then the Disney company that provides that service will also control that information. We tell you who that company is in the terms and conditions for that service.
 
-We will collect personally identifiable information from you in a variety of ways including when you register on the relevant Site, enter competitions, navigate around our Sites and respond to communications from us.
+This Privacy Policy also covers any other personal information which you may provide when dealing with the Disney Group of companies or interacting with any of our Sites (whether or not you are registered), including data when you make a purchase, register for one of our reward schemes, book a holiday or register for or use any other Disney service. We refer to this type of information as transactional data   
 
-This Privacy Policy explains how the above mentioned company and other companies within the Disney Group collect, record and use information about you and the choices you can make about how the information is collected and used. By using the Sites or by clicking the "Register" button or other relevant button during your initial registration with the relevant Site, you signify your consent to this Privacy Policy.
 
-## 3\. What we do with personally identifiable information
+This Privacy Policy explains how companies within the Disney Group collect, record and use information about you and the choices you can make about how the information is collected and used. By using the Sites or by clicking the “Register” button or other relevant button during your initial registration with the relevant Site, you signify your consent that we store and process your personal data in accordance with this Privacy Policy.
 
-This information may be used for marketing and market research purposes, to provide and personalise our service, to inform you if you are a winner of a competition and what prizes you have won, to send you greetings on your birthday and to send you newsletters and information about other exciting events happening in the world of Disney and about Disney related products and services.
+## What type of information we collect about you
 
-When you register on a Site or subscribe to certain services you will be given the option to receive marketing information. Where we have obtained your consent we may use your information to market our own goods and services, services on behalf of selected third parties, and disclose the information to other organisations who we are working with in co-branding activities or other carefully selected third parties who may market directly to you. Your participation in our marketing activities is voluntary and you can change your marketing preferences or opt out from receiving further marketing at any time. Details on how to do this are set out below.
+We will collect personally identifiable information from you in a variety of ways including when you register on a Disney Site or use any other Disney services, enter competitions or prize draws, navigate around our Sites and respond to communications from us.
 
-In order to ensure that any marketing which we provide to you is likely to be of interest to you, we may use information collected about you from (i) a variety of technical methods such as cookies and web beacons (see section on "Use of Cookies" for further information); (ii) household classification data (iii) your responses to communications from us; (iv) your interaction with other parts of Disney Group; (v) certain information you provide when you register on a Site; and (vi) customer surveys.
+To register on a Disney Site we require that you submit personal data, e.g. your name, gender, date of birth, email address and a password for entry to the Site.
 
-This personal information may be used by The Walt Disney Company Limited and other members of the Disney Group worldwide. As used in this Privacy Policy the Disney Group includes The Walt Disney Company Limited and all of its subsidiary and affiliated entities, including companies such as those branded under Buena Vista, ABC and ESPN labels that generally do not offer their products and services under the "Disney" brand name, as well as companies that generally do offer their products and services under the "Disney" brand name. The Walt Disney Company Limited (including its subsidiaries) is a member of the Disney Group, and is referred to in this Privacy Policy as "we", "us", "our" and "ourselves". Wherever your information is processed by the Disney Group, we will ensure that it is protected appropriately.
+## What we do with personally identifiable information
 
-We will only pass on your information to third parties in the following situations:
+This information may be used for marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimise and personalise our services, to inform you if you have won a prize and to send you greetings on your birthday and to send you newsletters and information (where you have agreed to this) about other exciting events happening in the world of Disney and about Disney related products and services. 
 
-  * if this was clearly stated at the time of collection or registration and, where required, if you have given permission for this;
-  * If we employ another organisation to perform tasks on our behalf - such as delivering goods to you. In this case, the organisations may only use your information to fulfil this specific task;
-  * If we sell the business of some of the Disney group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy;
-  * If we have reason to believe that disclosing this information is necessary for legal proceedings. We may also disclose member information when we believe in good faith that applicable law or regulation requires it.
-  * If we use third party processors to administer and process for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of our Sites. We may also share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.
+We may use information about you to create a picture of your interests. This will allow us to understand our customers and visitors better, so we can make our services and marketing more relevant. Information that we use in this way may include: (i) information about your use of this and other Disney Sites; (ii) household classification data, (iii) your responses to communications from us; (iv) your interaction with other parts of Disney Group; (v) information you provide when you register on a Site; (vi) customer surveys; (vii) information provided by other companies, where you gave them permission to share this information and (viii) transactional data. We may use a variety of technical methods such as cookies and web beacons to collate this information (see the section below on “Use of Cookies” for further information).
 
-## 4\. International transfer
+## Use of information for marketing
 
-As the Disney Group operates globally, it may be necessary to transfer your information within Europe or internationally to third party service providers and Disney affiliated entities to administer and process for the purposes notified in this Privacy Policy including but not limited to maintenance and support of our databases and Sites. Such transfer will only take place where the company receiving the information respects European laws on data protection, subscribes to the safe harbour principles that have been recognized as providing adequate data protection by the European Commission, or otherwise provides adequate safeguards to protect data in accordance with European standards such as providing contractual safeguards to protect information, or where you have given us consent to transfer your information.
+In line with any permissions you give us, we may send you direct marketing about our own, or carefully selected third parties’ goods and services and disclose your information to other organisations who may send direct marketing to you. You can change your marketing preferences if you are registered with us. Details on how to do this are set out below under “Our Registration Policy”. 
 
-In particular we may transfer information to the Walt Disney Internet Group ("WDIG") (part of the Disney Group) in Burbank, California in the U.S. for maintenance and support purposes, and information will be stored on its servers. Your submissions to community portions of our Sites, such as your comments on message boards, may also be processed by Walt Disney Internet Group or third party service providers to enable search and other functionalities of the Sites. WDIG adheres to the "Safe Harbour Principles" officially declared by the European Commission as providing an adequate level of protection as compared to the data protection laws of the European Union countries, and WDIG will adhere to the terms of this Privacy Policy. Please be assured that we take all reasonable steps to ensure that your privacy is protected.
+In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you.
 
-## 5\. Disney policies for children
+## Who has access to the information at Disney?
 
-We encourage parents and guardians to spend time on-line with their children and to participate in the interactive activities offered on our Sites. If you are a child (a person who is not of legal age to give consent to the collection and processing of their data) and want to register with us, you must ask your parent or guardian for permission to register, confirm you have permission to register and provide an email address (if you are registering for a service through your computer) or mobile number (if you are registering for a service through your mobile) for the parent or guardian. We will then send a message to your parent that you have registered on the relevant Site and depending on your age and location may also ask your parent to confirm consent to the registration. We may also carry out checks to verify that the contact details you have provided are for your parent or guardian. If you have indicated that you would like to receive additional Disney material (only available to specified age groups as indicated when you register or when you subscribe to certain services), then where required we will also ask your parent for consent. No information should be submitted to or posted to Disney or any Disney affiliate without consent of the relevant parent or guardian.
+We may share your information with other members of the Disney Group worldwide. As used in this Privacy Policy the Disney Group includes The Walt Disney Company Limited and all of its subsidiary and affiliated entities, including companies such as those branded under Buena Vista, ABC and ESPN labels that generally do not offer their products and services under the “Disney” brand name, as well as companies that generally do offer their products and services under the “Disney” brand name, such as Disneyland Paris and The Disney Store Ltd. In this Privacy Policy “we”, “us”, “our” and “ourselves” means any member of this Group. Wherever your information is processed by the Disney Group, we will ensure that it is protected appropriately.
 
-## 6\. Our registration policy - How to remove or amend your information
+## Who else has access to the information?
 
-If you register with us, you will receive a message either confirming your registration or asking you to confirm your registration (depending on your location). You can ask us to modify or remove your personal information from any or all of our mailing lists at any time by clicking on the "Register" link or the other relevant link as displayed on the relevant Site. We will only send electronic messages to you if you have given us express permission to do so. In addition you will also be able to unsubscribe from communications via unsubscribe links in those communications.
+We will only pass on your information to third parties in the following situations
 
-You may be given the opportunity to submit information about other people to enable them to receive information on our products or services. You must obtain permission from such other people prior to submitting their information to us. The types of information that are collected about other people include: recipient's first and last name, phone number, address, e-mail address, and interests.
+• if this was clearly stated at the time of collection or registration and, where required, if you have given permission for this;
 
-## 7\. Use of cookies
+• If we employ another organisation to perform tasks on our behalf – such as delivering goods to you. In this case, the organisations may only use your information to fulfil this specific task;
 
-We collect information through technology to make our Sites more interesting and useful to you. For instance, when you come to one of our Sites via your computer, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our Sites. We may combine this information with personally identifiable information. If you visit Disney via mobile, then we use a unique identifier for your mobile in a similar way.
+• If we sell the business of some of the Disney group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy;
+
+• If we have reason to believe that disclosing this information is necessary for legal proceedings. We may also disclose information when we believe in good faith that applicable law or regulation requires it or to protect the safety or security of users of our Sites; and
+
+• If we use third party processors to administer and process your personal information for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of our Sites or services. We may also share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.
+
+## International transfer
+
+As the Disney Group operates globally, it may be necessary to transfer your information internationally to recipients located outside the European Union either within the Disney Group or to third party service providers. Please be assured that we take all reasonable steps to ensure that your privacy is protected. In this regard, we may transfer data to Disney Interactive Media Group, The Walt Disney Company, both in Burbank, California, and to other Disney Group Entities in the United States. These companies will adhere to this Privacy Policy and to the "Safe Harbour Principles" officially declared by the European Commission as providing an adequate level of protection as compared to the data protection laws of European Union countries.
+
+## Disney Policies for children
+
+We encourage parents and guardians to spend time on-line with their children and to participate in the interactive activities offered on our Sites. If you are a child (a person who is not of legal age to give consent to the collection and processing of their data) and want to register with us, we require permission from a parent or guardian and you must ask your parent or guardian for permission to register, confirm you have permission to register and provide an email address (we may ask for a mobile number if you are registering for a service through your mobile) for your parent or guardian. We will then send a message to your parent that you have registered and depending on your age and location may also ask your parent or guardian to confirm consent to the registration. We may also carry out checks to verify that the contact details you have provided are for your parent or guardian. If you have indicated that you would like to receive additional Disney material (only available to specified age groups as indicated when you register or when you subscribe to certain services), then where required we will also ask your parent for consent. No information should be submitted to or posted to us without consent of your parent or guardian.
+
+## Our registration policy – How to remove or amend your information
+
+You can ask us to modify or remove your personal information from any or all of our mailing lists at any time or cancel your registration by clicking on the “Register” link or any other link we may provide for you.
+
+We will use our reasonable endeavours to remove your name from the related mailing list within 10 working days of your request.
+
+## Use of cookies and web beacons
+
+We collect information through technology to make our Sites and other content or services which we make available to you more interesting and useful to you. For instance, when you come to one of our Sites via your computer or other media device, we may place cookies and web beacons on our Sites which may be used to collect information about the sections you visit, the products you are interested in and the frequency with which you visit various parts of our Sites. You agree that we collect your IP address or other unique identifier. At times, we also use these identifiers to collect information regarding the frequency with which our guests visit various parts of our Sites. We may combine your IP address with other personally identifiable information for marketing and for market research purposes, including internal demographic studies, so we can optimize our products and services and customize the Sites for you.
 
 Our Sites use a variety of technical methods for tracking purposes, including cookies and web beacons.
 
-Cookies are pieces of information that a Site sends to your computer while you are viewing the Site via your computer. We and other companies use cookies for a variety of purposes including tracking usage on our Sites in order to- enhance our guests' experience on our Sites. For instance, when you return to one of our Sites after logging in via your computer, cookies provide information to the Site so that the Site will remember who you are ("visitor session information"). You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of our services will not function properly. We may use cookies to analyse the traffic patterns on our Sites, such as the frequency which our users visit various parts of our Sites.
+Cookies are pieces of information that a Site sends to your computer or other media device while you are viewing or interacting with the Site. We use cookies for a variety of purposes including tracking usage on our Sites in order to- enhance our guests’ experience on our Sites and to learn more about your preferences and interests. For instance, when you return to one of our Sites after logging in via your computer, cookies provide information to the Site so that the Site will remember who you are (“visitor session information”). You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. 
+
+You do this through your browser settings. Each browser is a little different, so look at your browser’s Help to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your interaction with Disney Sites smoother, like the features mentioned above, and some of our services will not function properly. We may use cookies to analyse the traffic patterns on our Sites, such as the frequency which our users visit various parts of our Sites.
 
 Web beacons are small pieces of data that are embedded in images on the pages of Sites. We also use these technical methods to analyse the traffic patterns on our Sites, such as the frequency with which our users visit various parts of our Sites.
 
-We may combine your visitor session information or other information collected through cookies, web beacons and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what products, promotions and services are likely to be of interest to you.
+We may combine your visitor session information or other information collected through cookies, web beacons and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what products, promotions and services you prefer or are likely to be of interest to you.
 
 We also use these technical methods in HTML e-mails that we send our guests for a number of purposes including: to determine whether our guests have opened or forwarded those e-mails and/or clicked on links in those e-mails; to customise the display of the banner advertisements and other messages after a guest has closed an email; and to determine whether a guest has made an enquiry or purchase in response to a particular email.
 
-Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorised by us to collect information on our behalf. The information from use of these technical methods may be collected in a form that is personally identifiable.
+Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorised by us to collect information on our behalf. The information from use of these technical methods may be collected in a form that identifies you personally.
 
 You may get cookies from our advertisers. We do not control these cookies, and once you have clicked on the advertisement and left our Sites our Privacy Policy no longer applies.
 
-## 8\. Links to other sites
+## Links to other sites
 
-You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside the control of the Walt Disney Company Limited.
+You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside of our control.
 
-For example, if you click on a banner advertisement or a Disney search result the click may take you off the relevant Site. The privacy policy of the new site will govern the information obtained from you on such site.
+For example, if you click on a banner advertisement or a Disney search result the click may take you to a third party site. The privacy policy of the new site will govern the information obtained from you on that site.
 
-## 9\. Changes to this policy
+## Changes to this policy
 
-We may change this policy and our terms and conditions from time to time and will post the latest version of the privacy policy on the relevant Site. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent.
+We may change this Privacy Policy from time to time and we will post the latest version on this and all our other Sites. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent.
 
-## 10\. Queries
+## Queries
 
-If you have queries about our use of personal information, you can write to us at The Legal Department, Walt Disney Internet Group, The Walt Disney Company Limited, London W6 9PE, England.
+If you have queries about our use of your personal information or wish to have your personal information removed, you can email [help@disney.co.uk](mailto:help@disney.co.uk) or write to us at Disney Interactive Media Group Technical Operations, The Walt Disney Company Limited, London W6 9PE, England.  
 
 
+© Disney. All rights reserved.  
 
