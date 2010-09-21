@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japansoc.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619182647id_/http%3A//faq.japansoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japansoc.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921202739id_/http%3A//faq.japansoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « JapanSoc FAQ
 
@@ -18,7 +18,7 @@ JapanSoc.com does use cookies to store information about visitors preferences, r
 
 At present, JapanSoc.com does not have any advertising partners therefore advertisers are not using cookies and web beacons on our site.
 
-A cookie does not personally identify you. It is simply a way to know that a particular web browser was used to visit our sites. A web beacon does not personally identify you. It is simply a way to automatically send information about pages and content used to an analysis tool. Cookies and web beacons allow us to understand things such as whether a particular web browser is spending much time on our site, visiting several times per month and other types of analysis. If you never provide us with personally identifiable information, then your visits - despite us using cookies or web beacons - are anonymous. We don’t know the actual person linked with the cookie. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+A cookie does not personally identify you. It is simply a way to know that a particular web browser was used to visit our sites. A web beacon does not personally identify you. It is simply a way to automatically send information about pages and content used to an analysis tool. Cookies and web beacons allow us to understand things such as whether a particular web browser is spending much time on our site, visiting several times per month and other types of analysis. If you never provide us with personally identifiable information, then your visits – despite us using cookies or web beacons – are anonymous. We don’t know the actual person linked with the cookie. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 ## **Further Information**
 
