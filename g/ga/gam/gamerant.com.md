@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamerant.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127062414id_/http%3A//gamerant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerant.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921205322id_/http%3A//gamerant.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Game Rant
+# Privacy Policy - Game Rant
 
 This is the web site of _Game Rant_.
 
