@@ -1,0 +1,51 @@
+> *The following text is extracted and transformed from the prepar3d.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922134826id_/http%3A//www.prepar3d.com/index.php/privacy) for the most accurate reproduction.*
+
+# Privacy Notice — Lockheed Martin Prepar3D™
+
+This Privacy Notice provides important information about your privacy in connection with your use of Lockheed Martin Corporation websites. Please review it carefully. Your continued use of this website constitutes your agreement with this Privacy Notice and any subsequent updates.
+
+**Our Commitment to Privacy**  
+At Lockheed Martin your privacy is important to us. We are committed to complying with all applicable federal, state, local, and International privacy laws and regulations. We strive to provide an environment in which our employees, customers, stockholders, and partners trust us to handle personal information responsibly. We provide this privacy notice as part of our commitment to privacy by describing what personal information we collect, how we use it, how we protect it, and with whom we share it.
+
+**Scope of This Notice**  
+This notice applies to all visitors to our corporate website and affiliated websites sponsored by the Corporation. Some of our websites, such as the [LMPeople](https://www.lmpeople.com/) and [Employee Service Center](https://www3.benefitsweb.com/lmc.html) websites that provide employees and retirees access to personnel and benefits information from the Internet, may provide more detailed privacy or disclaimer notices, in which case they take priority over this notice. To make this notice easy to find, we make it available in the footer of every web page where it applies. Employees and others with access to the Lockheed Martin internal Intranet should note that this privacy notice will apply if linked directly from there; otherwise, our internal privacy policies will apply as defined in Corporate Command Media.
+
+**What Information We Collect and How We Use It**  
+While visiting our website you may be asked to voluntarily provide personal information in order to accomplish the purpose of your visit. For example, if you are exploring career opportunities you may be asked to provide your email address, residence, education, work experience, and other personal information typically found on a résumé. If you are a supplier you may be asked to identify the financial institution you use and provide account numbers. Also, you will be asked to provide your email address to subscribe to our Investor Relations email distribution list. The specific information that you may choose to provide will depend on the nature of the transaction to be completed and is always voluntary.
+
+**How We Protect Your Information**  
+We use reasonable physical, electronic, and managerial procedures to safeguard and secure the information you provide to us against loss, misuse, or unauthorized access. All personal information that we collect is protected using industry standard computer security and industrial security practices.
+
+**Cookies and Other Website Technical Considerations**  
+Our website uses modern web application methods that result in the automatic collection and storage of certain data that some may consider to be personal or personally identifiable information. This includes your Internet Protocol or IP addresses, type of browser that you use, and other technical data about your computing environment. This information is stored in server logs that we maintain and review for the purpose of improving and supporting the secure operation of our website. We use “cookies” on our website to enhance the experience of our visitors, such as retaining user preferences between sessions. A cookie is a small text file that is stored on your computer. Cookies cannot be used to deliver viruses to your computer, they are uniquely assigned to you, and our cookies can only be read by our web servers. You have the ability to accept or decline cookies or, if you prefer, you can modify your web browser settings to decline all cookies or selectively decline cookies as they are offered. Our website may contain links to other websites. You should carefully review the privacy notices and practices of other websites, as we cannot control or be responsible for the privacy practices of sites not affiliated with Lockheed Martin.
+
+**With Whom We Share Your Information**  
+Information collected from you by Lockheed Martin will not be shared with third parties for purposes other than in support of Lockheed Martin’s operations and as necessary to facilitate the purpose for which you provided it. In some cases we may share the information with service providers retained by the Corporation to provide services on its behalf. These providers will use your information only to accomplish the task for which they have been retained. Lockheed Martin is a United States corporation with operations in many other countries. From whatever place you provide information to this website, you should expect that it will be processed and viewed in the United States. Your use of this website constitutes your consent for any cross-border data transfer resulting from such use. Your information may also be shared under the following circumstances (i) if we are required to do so by law enforcement authorities or government agencies, and (ii) in connection with investigations or other efforts to prevent illegal activities or pertaining to public safety.
+
+**Children’s Privacy**  
+Lockheed Martin’s websites are not designed with the intent to attract the collection of information from children under the age of 13. We ask that children under the age of 13 not submit any personal information to us while viewing our website
+
+**Updates to This Privacy Notice and to Your Information**  
+We may update this Privacy Notice periodically without prior notice to reflect changes in our practice. Updates will be dated and posted on our corporate website. If you volunteered personal information to Lockheed Martin and would like to update it, please visit the portion of this site where you submitted the information and follow the directions there to submit any changes.
+
+**How to Contact us  
+**If you have questions relating to this Privacy Notice, or for any questions you might have about our privacy practices, please contact our Privacy Office at [privacy.fc-LM@lmco.com](mailto:privacy.fc-LM@lmco.com).
+
+| 
+
+### Recent Posts
+
+  * [Sensor Sneak Peak](http://www.prepar3d.com/index.php/2010/09/20/sensor-sneak-peak/ "Sensor Sneak Peak")
+       Hi Everyone I have a couple o
+  * [Prepar3D Forum online!](http://www.prepar3d.com/index.php/2010/09/15/prepar3d-forum-online/ "Prepar3D Forum online!")
+    There is now a forum on this site. Pleas
+  * [Update on Pricing and Availability](http://www.prepar3d.com/index.php/2010/09/11/update-on-pricing-and-availability/ "Update on Pricing and Availability")
+    Hi Everyone, There have been lots of 
+  * [Prepar3D Coming Soon!](http://www.prepar3d.com/index.php/2010/09/03/prepar3d-coming-soon/ "Prepar3D Coming Soon!")
+    Hi! I am the Program Manager for Prepar3
+  * [New Site](http://www.prepar3d.com/index.php/2010/08/31/new-site/ "New Site")
+    Welcome to our new site! Over the coming
+
+
+
+[](https://web.archive.org/wp-content/uploads/2010/08/CS00086-60_Prepar3D_Product_Card1.pdf)
