@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translink.bc.ca privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613213613id_/http%3A//www.translink.ca/en/Site-Info/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.bc.ca privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922082524id_/http%3A//www.translink.ca/en/Site-Info/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# TransLink.ca - Privacy Policy
+# Privacy Policy
 
 ## We Respect Your Privacy
 
