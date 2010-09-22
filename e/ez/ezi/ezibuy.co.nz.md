@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627065406id_/http%3A//www.ezibuy.co.nz/Information/5000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922031605id_/http%3A//www.ezibuy.co.nz/Information/5000) for the most accurate reproduction.*
 
 # EziBuy Privacy Policy :: EziBuy New Zealand
 
@@ -33,6 +33,8 @@ In addition, we may provide statistics with personal identifiers removed about o
 Cookies
 
 Our website uses a technology called cookies. A cookie is a small element of data that our website may send to your computer. Any such cookie is typically stored on your computer's hard drive and permits our website to recognise you when you return. Our use of cookies helps us to provide you with a better experience during your use of our website by allowing us to understand what areas of the site are of interest to you. You may configure your web browser to not accept cookies, although you may experience a loss of functionality as a result.
+
+Third party vendors, including Google, show advertisements for our products on various sites on the internet. These third party vendors may use cookies to serve advertisements based on a user's prior visits to our website. If you would like to opt out of Google?s use of cookies for this purpose, please do so on the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
 
 Security
 
