@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sinalite.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923125312id_/http%3A//www.sinalite.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinalite.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922052231id_/http%3A//www.sinalite.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sina Lite
 
-  | 
+  |       Select your product: ****
 
-[](https://web.archive.org/web/20090923125312id_/http%3A//www.sinalite.com/about_us/about_us_trade_only.html)
-
-| 
+**** | 
 
 Privacy Policy
 
@@ -53,5 +51,3 @@ Canada
 **Changes to this Privacy Policy:** This Privacy Policy was last modified on **Feb 16, 2009**. Sinalite may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
 
 | 
-
-[](http://www.sina-lite.com/branding/sinalite/?code=383517584)
