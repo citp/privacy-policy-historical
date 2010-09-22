@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kusi.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620120931id_/http%3A//www.kusi.com/home/related/89436957.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kusi.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922035605id_/http%3A//www.kusi.com/home/related/89436957.html) for the most accurate reproduction.*
 
 # KUSI Privacy Policy | KUSI - News, Weather and Sports - San Diego, CA | Related Content
 
