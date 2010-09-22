@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osx86.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619002537id_/http%3A//osx86.net/misc.php%3Fdo%3Dpage%26template%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osx86.net privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922044106id_/http%3A//osx86.net/misc.php%3Fdo%3Dpage%26template%3Dprivacy) for the most accurate reproduction.*
 
-# InfiniteMac OSx86 Community
+# InfiniteMac OSx86
 
   
   
