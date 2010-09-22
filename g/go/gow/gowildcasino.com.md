@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524013518id_/http%3A//www.gowildcasino.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922062231id_/http%3A//www.gowildcasino.com/privacypolicy.html) for the most accurate reproduction.*
 
 # GoWild Casino | Privacy Policy
 
