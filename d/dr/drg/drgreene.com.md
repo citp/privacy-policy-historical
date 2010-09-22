@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302201705id_/http%3A//www.drgreene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922050728id_/http%3A//www.drgreene.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dr Greene.com
+# Privacy Policy | DrGreene.com
 
 Your privacy concerns are important to DrGreene.com. Our Privacy Policy is designed to protect your Personal Information while providing the services available on our website. You may use the DrGreene.com website without giving us specific Personal Information that identifies you.
 
