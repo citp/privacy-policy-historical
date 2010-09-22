@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2d-x.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523080556id_/http%3A//www.2d-x.com/advertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2d-x.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922230248id_/http%3A//www.2d-x.com/advertising/privacy-policy) for the most accurate reproduction.*
 
 # 2D-X.com Privacy Policy | 2D-X
 
@@ -16,7 +16,7 @@ Where necessary, 2D-X uses cookies to store information about a visitor's prefer
 
 ## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on [how to](http://www.2d-x.com/category/how-to/ "how to") block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) [links](http://www.2d-x.com/affiliates/ "links") may also be useful.
 
 ## Special Note About Google Advertising
 
