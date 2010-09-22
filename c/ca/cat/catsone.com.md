@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407070423id_/http%3A//www.catsone.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923001418id_/http%3A//www.catsone.com/content/privacy-policy) for the most accurate reproduction.*
 
 # CATS Applicant Tracking System - Privacy Policy
 
 ## Privacy Policy
+
+[Download Page as PDF](https://web.archive.org/doc/CATS_Privacy_Policy.pdf)
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -43,5 +45,5 @@ CATS Software, Inc. may periodically update this policy. We will notify you abou
 Any questions about this Privacy Policy should be addressed to [CATS Support](https://web.archive.org/content/contact-us), or by postal mail to:
 
 > CATS Software, Inc.  
->  6950 France Ave S, Suite 218  
->  Edina, MN 55435 USA
+>  5275 Edina Industrial Blvd., Suite 2508  
+>  Edina, MN 55439 USA
