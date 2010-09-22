@@ -1,64 +1,151 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629025028id_/http%3A//www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922104709id_/http%3A//www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # Pier 1 Imports - Privacy Policy
 
-**Effective Date:  October 1, 2007**
+Last Revised July 20, 2010
 
-Pier 1 Imports has created this privacy statement in order to demonstrate our firm commitment to our visitors' and customers' privacy. The following discloses our information gathering and dissemination practices that apply to information collected on this website at www.pier1.com, from catalog requests and in our stores.
+This policy describes the personal information Pier 1 Imports may collect about you, why we collect it, how we use it, and when we share it with third parties. This policy also describes the choices you can make about how we collect and use your personal information. If our personal information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above.
 
-#### Information Collection and Use
+The phrase “personal information” for purposes of this policy means information collected by us and which we may use to contact you, such as your name, mailing address, email address, telephone number, etc., as well as any financial information such as credit and debit card numbers. This policy applies to personal information collected on pier1.com, from customer service inquiries you make to us, and such information collected by us from you in our stores.
 
-When you visit our Site or one of our stores, or request to be placed on our mailing list; whether online, by phone; or in person, or if you participate in a contest, promotion or survey, we may collect information from you, such as your name, email and postal addresses, and phone and credit card numbers.
+  * What type of personal information does Pier 1 Imports collect?
+  * How does Pier 1 Imports use my personal information?
+  * Does Pier 1 Imports share my personal information?
+  * What are “Cookies” and “Web Beacons”?
+  * How does Pier 1 Imports use my Internet Protocol (IP) Address?
+  * What is "phishing"?
+  * What about links to other websites?
+  * Does Pier 1 Imports supplement personal information?
+  * How do I make choices about the use of my personal information?
+  * How do I update my personal information?
+  * How will Pier Imports protect my personal information?
+  * Privacy of Children Online
+  * Updates to this Policy
+  * How to Contact Us
+  * Your California Privacy Rights
 
-We use personal information, such as a purchaser's name, email address, postal address, telephone number and credit card information, to complete merchandise purchases and returns. We may also use personal information to contact a purchaser when necessary, such as when a delivery may be delayed or when a product is out of stock. Sensitive information such as credit card numbers are encrypted and protected as described in the "Security" section below. In some instances, we may engage the services of service providers to assist us with completing merchandise purchases. These third parties may have access to our users' personally identifiable information to provide these services to us or on our behalf, but they are not permitted to use it for other purposes.
 
-In addition, Pier 1 Imports uses personally identifiable information to notify consumers about products or services in which we believe they may be interested. We describe, in the choices section below, how you can request that we no longer send you such marketing communications.
 
-We may also request additional information, such as annual income, buying preferences, or age, also known as demographic and profile data, though this information is optional and never required for you to place an order or make a purchase. If you provide the additional information, we may use this data to improve our Site and enhance your shopping experience. For example, we may use this data to tailor your experience at our Site, showing you content that we think you might be interested in, and displaying content according to your preferences.
+### What type of personal information does Pier 1 Imports collect?
 
-Pier 1 Imports may combine the information that you give us and information about your purchase (other than sensitive credit card information) with other personally identifiable information available from our records and other sources (such as demographic information and past purchase history), and use it to make our future marketing efforts more efficient. This information may also be shared with other companies to bring you offers of interest. If you prefer that we do not share your information in this way, please follow the instructions in the choice section below.
+Information You Provide – You provide personal information to us in a variety of ways when you interact with Pier 1 Imports, both in stores and online. Some examples are when you:
 
-However, even if you request that we not share your information, Pier 1 Imports reserves the right to disclose your personally identifiable information at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site and applicable laws, or to protect against misuse or unauthorized use of our Web site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users. In addition, may sell, transfer, or otherwise disclose user information, including personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, or other fundamental corporate change.
+  * Sign up or request to be placed on our mailing or email lists;
+  * Sign up for our Pier 1 Rewards Card;
+  * Participate in a survey, sweepstakes, contest or promotion;
+  * Make merchandise purchases and returns;
+  * Contact us regarding a question or concern; and
+  * Otherwise submit personal information to us.
 
-#### Cookies and Web Beacons
 
-"Cookies" are pieces of information that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Pier 1 Imports Site. Pier 1 Imports may use cookies to customize your shopping experience and to make sure you don't see the same ad repeatedly. However, you may disallow cookies through your web browser and still browse and shop on our Site. Pier 1 Imports will never use cookies to retrieve information from a computer that is unrelated to the Pier 1 Site or your interaction with the Pier 1 Site.
 
-Web beacons, also sometimes called "pixel tags," are small strings of code placed on a Web page or in an email message for the purpose of transferring data.
+The personal information you provide us may include your name, email and physical addresses, phone numbers, driver’s license number, credit and debit card numbers, checking account numbers and birth date. When shipping merchandise, we may collect information you provide us such as the name, address, and phone number of recipients. We may also collect your Social Security Number and other related financial information when applying for, or requesting services related to the Pier 1 Rewards Card.
 
-We and the online marketing company that we use to help manage our Internet business and communications employ cookies and Web beacons placed on our Site's pages to deliver our ads, to measure the effectiveness of our advertising, including our email promotions, and to learn how visitors use our Site.
+Information We Obtain From Third Parties \- We may receive personal information about you from other sources as well. Examples of these sources are entities that help us correct our records, improve the quality or personalization of our service to you, and help prevent or detect fraud.
 
-The ad-serving technology uses non-personal information about your visits to our Site and the sites upon which we advertise to serve our ads to you. In the course of delivering our advertisements, a unique third-party cookie may be placed or recognized on your browser. The Web beacons used in conjunction with this third-party ad cookie enable our ad server to recognize a browser's cookie when a browser visits this Site and to learn which banner ads bring visitors to this Site. If you do not want your non-personal information to be used to serve ads to you, please [click here](http://www.doubleclick.net/us/corporate/privacy).
+Automatically Collected Information – In addition to the above, we receive and store certain types of technical information when you interact with us through our website, emails, and online advertising. For example, we use “cookies” and “web beacons” to customize your shopping experience and measure the effectiveness of our marketing campaigns. Please refer to the section titled “What are Cookies and Web Beacons” below for more information.
 
-The technology that we use to send our emails also utilizes Web beacons and cookies -- both in the messages and at our Site -- to help us measure the effectiveness of our campaigns. For more information about the technology used to deliver our emails, or how to set your browser to reject cookies, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/email/).
+### How does Pier 1 Imports use my personal information?
 
-#### Internet Protocol (IP) Address
+We use the personal information we collect for various purposes, including, but not limited to:
 
-We may use your IP address to help diagnose problems with our server, and to administer our Site. Your IP address is used to help identify you and your shopping cart for the duration of a session and to gather broad demographic information.
+  * Improving the effectiveness of our website, marketing endeavors and service offerings;
+  * Completing credit applications;
+  * Completing purchase and return transactions;
+  * Providing customer support;
+  * Notifying you of product recalls or providing other information concerning products you have purchased;
+  * Sending you direct mail offerings;
+  * Sending you email communications about our products, services and promotions;
+  * Administering surveys, sweepstakes, contests and similar promotions;
+  * Identifying your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you;
+  * Providing mobile marketing and service messages when requested; and
+  * Improving merchandise selections and the overall customer shopping experience.
 
-#### Other Sites
 
-Our Site may contain links to other sites. Other sites may also reference or link to our Site. Pier 1 Imports is not responsible for the privacy practices or the content of such other sites or how information you provide to those sites is handled. You should consult the individual privacy policies of those sites to determine their privacy practices.
 
-#### Supplemental Information
+To accomplish these purposes, we may combine the personal information that you give us and information about your purchase (other than your financial information) with other personally identifiable information available from our records and other sources (such as demographic information and past purchase history), and use it to make our future marketing efforts more efficient.
 
-We may supplement the information that you provide to us with information that is received from third parties.
+### Does Pier 1 Imports share my personal information?
 
-#### Security
+  * Pier 1 Imports Affiliates: We may share the personal information we collect with our affiliate companies within the Pier 1 Imports organization.
+  * Service providers: We also may disclose the personal information (other than your financial information) we collect to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing e-mails; (c) assist us with direct marketing and data collection; and (d) other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform the specific obligations set forth in their agreements with Pier 1 Imports.
+  * Other companies: We may provide the personal information (other than your financial information) we collect to carefully selected outside companies when we believe their products or services may be of interest to you. If you prefer that we do not share your information in this way, please follow the instructions in the “How do I make choices about the use of my personal information” section below.
+  * Business Transactions: We may sell, assign, transfer or otherwise disclose the personal information we collect in the event of a corporate merger, consolidation, sale of assets, or other fundamental corporate change.
+  * Sale or Rent Information: Except as set forth above in Business Transactions, Pier 1 Imports does not sell or rent your personal information to third parties.
+  * Other: We may disclose the personal information we collect if disclosure is required by applicable law, or if necessary to assist governmental authorities who are investigating misuse or authorized use of our website or your personal information. We also may disclose personal information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights or property of our users; and as otherwise permitted or required by law.
 
-We take seriously the security of sensitive personally identifiable information we collect online from our customers. In addition, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-#### Choice/Opt-Out
 
-As discussed above, we may from time to time use personally identifiable information to provide users with opportunities to learn about products or services in which we believe they may be interested. Users can opt-out of receiving marketing communications from us at any time by following the instructions contained at the end of our communications or by sending an e-mail to [Customer_Service@pier1.com](mailto:Customer_Service@pier1.com).
+### What are “Cookies” and “Web Beacons”?
 
-As we also set out above, we may, from time to time, share personally identifiable information with unrelated third parties to enable them to provide you with additional product or service opportunities. If you prefer that we do not share your information with such third parties for their own marketing purposes, please e-mail us at [Customer_Service@pier1.com](mailto:Customer_Service@pier1.com).
+“Cookies” are small files of information that are stored by your web browser on your computer. Cookies allow your computer to more easily communicate and interact with our website. We may use cookies to customize your shopping experience and to make sure you don't see the same ad repeatedly. However, you may [disallow cookies](http://www.doubleclick.com/us/about_doubleclick/privacy/email/) through your web browser and still browse our website. Pier 1 Imports will never use cookies to retrieve information from a computer that is unrelated to our website or your interaction with it.
 
-#### Children's Privacy
+Web beacons, also sometimes called “pixel tags,” are small strings of code placed on a web page or in an email message for the purpose of transferring data. Web beacons help us analyze our customers' online behavior and measure the effectiveness of our website and our advertising. We work with third-party service providers to help us track, collect, and analyze this information.
 
-The content of this site is not directed at children under the age of 13 and Pier 1 Imports does not knowingly collect personal information from any child under the age of 13 at this Web site.
+Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-#### Questions? Contact Us
+We also work with third-party service providers that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to our website and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please [click here](http://www.doubleclick.net/us/corporate/privacy).
+
+We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our website, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising and for other internal business purposes.
+
+### How does Pier 1 Imports use my Internet Protocol (IP) Address?
+
+We may use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you for the duration of a session and to gather broad demographic information.
+
+### What is "phishing"?
+
+"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
+
+### What about links to other websites?
+
+Our website may contain links to other websites. Other websites may also reference or link to our website. Pier 1 Imports is not responsible for the privacy practices or the content of such other websites or how information you provide to those websites is handled. You should consult the individual privacy policies of those websites to determine their privacy practices.
+
+### Does Pier 1 Imports supplement personal information?
+
+We may supplement the personal information that you provide to us with information that is received from third parties.
+
+### How do I make choices about the use of my personal information?
+
+With your personal information, we may contact you through direct mail, e-mail or phone. If you do not wish to receive these communications, or if you wish that we do not share your personal information with outside companies, please let us know by taking one of the following steps:
+
+  * Follow the directions on an e-mail or direct mail marketing communication you receive from us.
+  * Call (800) 245-4595 with your request and current contact information.
+  * Send an e-mail with your request and current contact information to: [Customer_Service@pier1.com](mailto:Customer_Service@pier1.com).
+  * Send a letter with your request and current contact information to: Pier 1 Imports, Attn: Customer Service, 100 Pier 1 Place, Fort Worth, Texas 76102.
+
+
+
+If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address, as well as the specific changes you would like to make. This will ensure we correctly identify you in our system and accurately process your request.
+
+We will take appropriate steps to modify your preferences with respect to our marketing communications. It may take up to 10 business days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Pier 1 Imports.
+
+Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for customer service issues, product information, service or reminder notices or recalls. We may also need to contact you with questions or information regarding your order, such as order status, shipment, or refunds.
+
+### How do I update my personal information?
+
+Pier 1 Imports wants your personal information to be accurate and complete. You may update your personal information:
+
+  * By Phone: (800) 245-4595
+  * By Email: [Customer_Service@pier1.com](mailto:Customer_Service@pier1.com)
+  * By Postal Mail: Pier 1 Imports, Attn: Customer Service, 100 Pier 1 Place, Fort Worth, TX 76102
+
+
+
+If you send an e-mail or letter request, please be sure to include your current information and the requested changes.
+
+### How will Pier 1 Imports protect my personal information?
+
+To prevent unauthorized access and ensure proper use of your personal information, Pier 1 Imports employs industry standard physical, electronic, and managerial procedures to safeguard and secure the information we collect. Furthermore, all personal information we obtain is retained for no longer than is necessary, depending on the purpose for which it is held.
+
+### Privacy of Children Online
+
+The content of this website is not directed at children under the age of 13 and Pier 1 Imports does not knowingly collect personal information from any child under the age of 13 at this website without prior parental consent. Please contact us at the email or postal address provided in the “How to Contact Us” section of this policy if you believe we may have collected information from your child and we will work to delete it.
+
+### Updates to this Policy
+
+We may, from time to time, update this policy. Notice of material changes to our privacy practices will be posted at www.pier1.com. Your periodic review of our policy will ensure that you are apprised of our current privacy practices.
+
+### How to Contact Us
 
 Please feel free to contact us if you have any questions regarding this Privacy Policy.
 
@@ -68,6 +155,6 @@ Please feel free to contact us if you have any questions regarding this Privacy 
 
 
 
-#### Updates to this Policy
+### Your California Privacy Rights
 
-We may, from time to time, update this policy. Notice of material changes to our privacy practices will be posted at this site. We strongly encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices.
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To make such a request, please write to us at Pier 1 Imports, Attn: Customer Service, 100 Pier 1 Place, Fort Worth, TX 76102.
