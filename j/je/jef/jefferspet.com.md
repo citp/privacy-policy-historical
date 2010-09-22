@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325063331id_/http%3A//www.jefferspet.com/ssc/about_privacy.asp%3FCID%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922212129id_/http%3A//www.jefferspet.com/ssc/about_privacy.asp%3FCID%3D0) for the most accurate reproduction.*
 
 # Privacy Policy - Discount Pet Supplies, Pet Supply, Online Pet Supplies
 
