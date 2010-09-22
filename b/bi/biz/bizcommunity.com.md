@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizcommunity.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828080831id_/http%3A//bizcommunity.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizcommunity.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922204851id_/http%3A//bizcommunity.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Bizcommunity - Privacy Policy
 
