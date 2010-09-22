@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jeremiafroyland.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629230925id_/http%3A//jeremiafroyland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeremiafroyland.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922151045id_/http%3A//jeremiafroyland.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Jeremia Froyland
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at JeremiaFroyland@Gmail.com.
 
