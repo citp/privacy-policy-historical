@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612122755id_/http%3A//www.gotop100.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922060933id_/http%3A//www.gotop100.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
