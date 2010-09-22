@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatarticles.co.uk privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211151517id_/http%3A//www.greatarticles.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatarticles.co.uk privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922022348id_/http%3A//www.greatarticles.co.uk/privacy.php) for the most accurate reproduction.*
 
 # GreatArticles.co.uk | Privacy Statement
 
