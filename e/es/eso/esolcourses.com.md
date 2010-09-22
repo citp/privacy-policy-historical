@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esolcourses.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523032149id_/http%3A//www.esolcourses.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esolcourses.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922222239id_/http%3A//esolcourses.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Esolcourses.com
 
