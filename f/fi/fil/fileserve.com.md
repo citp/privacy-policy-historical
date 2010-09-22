@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileserve.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614070703id_/http%3A//www.fileserve.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileserve.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922032648id_/http%3A//fileserve.com/privacy-policy.php) for the most accurate reproduction.*
 
 # FileServe - Privacy Policy - Free File Hosting, Online Storage & File Upload
 
@@ -12,7 +12,7 @@ When you register on our Site, you hereby agree and acknowledge that your Person
 
 By registering with, or providing Personal Information on, the Site, users allow us and our affiliates to make their Personal Information available to third parties in accordance with the terms of this Privacy Policy, and to otherwise provide marketing offers to such users. While on the Site, submitting an application to become a Member or utilizing the Services, we may collect "Personal Information" from you. For the purposes of this Privacy Policy, Personal Information shall mean individually identifiable information from or about an individual including, but not limited to, the individual's: (a) e-mail address; (b) Facebook® account ID; (c) credit card information or PayPal® information (depending on your preferred means of payment); and/or (d) any other information requested on the applicable registration form. For purposes of this Privacy Policy, items (b) and (c) in the preceding sentence shall be referred to as "Sensitive Information."
 
-**For purposes of this Privacy Policy, "Facebook" shall mean Facebook Inc. Please be advised that FileServe is not in any way affiliated with Facebook, and the Site and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.**
+**For purposes of this Privacy Policy, Facebook shall mean Facebook Inc. Please be advised that FileServe is not in any way affiliated with Facebook, and the Site and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.**
 
 **For purposes of Privacy Policy, "PayPal" shall mean PayPal, Inc. Please be advised that FileServe is not in any way affiliated with PayPal, and the Site and Services are neither endorsed, nor sponsored, by PayPal. PayPal ® is a registered trademark of PayPal, Inc.**
 
@@ -53,8 +53,6 @@ We use demographic information to tailor the Site and/or Services to the interes
 We reserve the right to provide aggregate or group data about our users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or characteristics of our participants as a group, without disclosing personally identifiable information. By becoming a Member, you agree to allow us to provide such aggregate data to third parties. By agreeing to the terms of this Privacy Policy, you hereby consent to the disclosure of any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate.
 
 #### Other Websites
-
-This Site may contain links to third-party owned and/or operated websites. FileServe is not responsible for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase through one of these third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and FileServe has no responsibility or liability relating to them.
 
 #### Our Security Precautions
 
