@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129013852id_/http%3A//www.mypizza.com/index.php%3Ffile%3Dcontent%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923213652id_/http%3A//mypizza.com/index.php%3Ffile%3Dcontent%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
-# MyPizza.com – Order Pizza Online – Search Local Pizza Menus – Pizza Delivery – Pizza Coupons
+# MyPizza.com - Order Pizza Online - Search Local Pizza Menus - Pizza Delivery - Pizza Coupons
+
+**PRIVACY POLICY**
 
 Privacy Statement  
 MyPizza.com values your privacy. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. All of the information we collect from you is to provide you with the best service possible, as well as provide the Restaurant with the information they need to fulfill as well as to validate the order. Please read the following to learn more. 
