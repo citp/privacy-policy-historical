@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218133118id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924011938id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Toones
 
@@ -32,11 +32,3 @@ http://www.google.com/privacypolicy.html
   * We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [ValueClick Media Website](https://admin.valueclickmedia.com/optout/index.html)
 
 
-
-[](http://www.facebook.com/pages/Mobile-Toones/74470141830)
-
-[ ](http://www.twitter.com/mobiletoones)
-
-New Profiles
-
-Latest Online Games
