@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329125950id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923164141id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Mr. Rebates - Privacy Policy
 
@@ -33,10 +33,13 @@ Individuals 13 through 17
 
 Mr. Rebates requests that children under the age of 18 do not submit or post information to the site without a parent or guardian’s consent.
 
+#### Referral Program  
+If a member is referred by another Mr. Rebates' member, the original referrer is able to view the referral's order amount originating from Mr. Rebates.  However, the store where the purchase occurred is masked for privacy purposes so the only information given is the aggregate sale amount for referral rebate purposes. 
+
 #### Links to Other Sites  
 It is important to note that Mr. Rebates contains links to sites other than Mr. Rebates and that those sites may not follow the same privacy policies as Mr. Rebates.
 
 Mr. Rebates reserves the right to change this privacy policy at any time and users will be notified of any changes made.
 
-**USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**  
+**USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.   IF YOU DISAGREE WITH ANY OF THE ABOVE POLICIES, YOUR ONLY RECOURSE IS TO DISCONTINUE USE OF THE MR. REBATES WEBSITE OR CLOSE YOUR ACCOUNT VIA CUSTOMER SERVICE.**  
  
