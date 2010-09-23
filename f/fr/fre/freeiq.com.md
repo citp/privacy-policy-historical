@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeiq.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617221918id_/http%3A//www.freeiq.com/privacy_policy.dhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeiq.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923225340id_/http%3A//freeiq.com/privacy_policy.dhtml) for the most accurate reproduction.*
 
 # Free IQ - The Marketplace for Ideas.
 
@@ -92,7 +92,7 @@ Free IQ is concerned about controlling unsolicited commercial e-mail, or "spam."
 
 ## Enforcement of This Privacy Statement
 
-If you have questions regarding this statement, you should contact us by [using our Web form](https://web.archive.org/web/20100617221918id_/http%3A//www.freeiq.com/feedback.dhtml). 
+If you have questions regarding this statement, you should contact us by [using our Web form](https://web.archive.org/web/20100923225340id_/http%3A//freeiq.com/feedback.dhtml). 
 
 ## Changes to This Privacy Statement
 
@@ -100,6 +100,6 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 ## Contacting Us
 
-Free IQ welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by [using our Web form](https://web.archive.org/web/20100617221918id_/http%3A//www.freeiq.com/feedback.dhtml).
+Free IQ welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by [using our Web form](https://web.archive.org/web/20100923225340id_/http%3A//freeiq.com/feedback.dhtml).
 
 Free IQ Corporation, 6420 Atlantic Blvd, Suite 145, Norcross, GA 30071, U.S.A.
