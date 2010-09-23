@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626084834id_/http%3A//www.aboutone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923044025id_/http%3A//www.aboutone.com/privacy) for the most accurate reproduction.*
 
-# AboutOne - Your life, organized. | AboutPrivacy
+# AboutOne - Helping you manage what matters most. | AboutPrivacy
 
 ## Contents
 
