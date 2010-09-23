@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutwire.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617170020id_/http%3A//shoutwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutwire.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923052055id_/http%3A//shoutwire.com/privacy) for the most accurate reproduction.*
 
 # Shoutwire.com » Internet News for the Masses
 
