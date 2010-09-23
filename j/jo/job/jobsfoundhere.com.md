@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsfoundhere.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428002422id_/http%3A//jobsfoundhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsfoundhere.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923053741id_/http%3A//jobsfoundhere.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
