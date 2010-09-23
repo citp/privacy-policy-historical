@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macsimumnews.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615174728id_/http%3A//www.macsimumnews.com/index.php/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macsimumnews.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923112507id_/http%3A//www.macsimumnews.com/index.php/main/privacy) for the most accurate reproduction.*
 
 # Macsimum News - For your digital life(style)
 
