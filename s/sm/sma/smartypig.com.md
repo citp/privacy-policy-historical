@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322235355id_/http%3A//www.smartypig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923103551id_/http%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
-The _Privacy Policy_ can also be downloaded in [Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive.
+The _Privacy Policy_ can also be downloaded in [ Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive. 
 
-[Download Privacy Policy](https://web.archive.org/PdfDisplay.aspx?Id=7007a1f2-0be5-4261-9d86-f3d6baa54b01) (PDF 81k)
+[Download Privacy Policy](https://web.archive.org/web/20100923103551id_/http%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 100k)
 
-Last Updated: November 30, 2009
+Last Updated: August 26, 2010 
 
 * * *
-
-[](http://www.truste.com/ivalidate.php?url=www.smartypig.com&sealid-101)
 
 #### PRIVACY POLICY
 
 In this disclosure, you'll find details about our privacy policies and procedures, and instructions for changing how information about you may be shared. Please read this carefully, print and/or download a copy for your files.
+
+Your Savings Account with BBVA Compass is governed by the BBVA Compass Consumer Privacy Disclosure. Please see the BBVA Compass Consumer Privacy Disclosure in the BBVA Consumer Deposit Account Agreement for details on the BBVA Compass privacy policies.
 
 SmartyPig, LLC is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.smartypig.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -128,7 +128,7 @@ The e-mail will include the following statement:
 
 #### Choice/Opt-out
 
-SmartyPig users may choose to opt-in to receiving marketing information from selected partners, such as our banking service provider, West Bank. This can be done during the registration process. Registered users may also opt-in to receiving this information at anytime under the EDIT MY PROFILE. Visit the West Bank privacy policy at <http://www.westbankiowa.com/security/privacy> for additional information.
+SmartyPig users may choose to opt-in to receiving marketing information from selected partners, such as our banking service provider, BBVA Compass. This can be done during the registration process. Registered users may also opt-in to receiving this information at anytime under the EDIT MY PROFILE. Visit the BBVA Compass privacy policy at <http://www.bbvacompass.com/compass/policy/disclosure.cfm> for additional information.
 
 You may not opt-out of receiving service related emails from SmartyPig that relate to the general usage of smartypig.com.
 
