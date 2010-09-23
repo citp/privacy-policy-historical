@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemmorpglist.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909001534id_/http%3A//www.mmognet.com/privacy.php%3Fdomini%3DRlJFRU1NT1JQR0xpc3QuQ29t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemmorpglist.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923204918id_/http%3A//www.mmognet.com/privacy.php%3Fdomini%3DRlJFRU1NT1JQR0xpc3QuQ29t) for the most accurate reproduction.*
 
 # Privacy.
 
@@ -7,7 +7,8 @@ FREEMMORPGList.Com created by **Online Ocigrup S.L**
 Dirección: Avenida Sarria, 52-54, 1º-2ª, 08029 Barcelona  
 Telf.: +34 93 494 06 98  
 Fax: +34 93 494 12 01  
-CIF: B64948318
+CIF: B64948318  
+info'@'ocigrup'.'com
 
 Datos Legales: R.M. de Barcelona, Tomo 40813, Folio21, Hoja B375951, Inscripción1
 
