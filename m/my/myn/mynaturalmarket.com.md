@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131015051id_/http%3A//www.mynaturalmarket.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924011717id_/http%3A//www.mynaturalmarket.com/privacy.html) for the most accurate reproduction.*
 
 # Only Natural and Organic, Free of GMO Products
 
