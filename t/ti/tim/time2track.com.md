@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the time2track.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819040018id_/http%3A//www.time2track.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time2track.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923060331id_/http%3A//www.time2track.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy of Time2Track
 
-At JD3 Solutions, LLC, we value the privacy of information provided by visitors to our corporate web sites. With that in mind, we have instituted the following policies concerning the collection and use of data. 
+At Time2Track, LLC, we value the privacy of information provided by visitors to our corporate web sites. With that in mind, we have instituted the following policies concerning the collection and use of data. 
 
 **Collected Information**
 
@@ -10,11 +10,11 @@ Information about users may be collected through registration forms provided on 
 
 **Use of Information**
 
-JD3 Solutions, LLC takes every precaution to protect users' information from unauthorized use. When users submit sensitive information via our web sites, the information is considered confidential both on-line and off-line. We do not allow public access to the portion of the server that contains user information. 
+Time2Track, LLC takes every precaution to protect users' information from unauthorized use. When users submit sensitive information via our web sites, the information is considered confidential both on-line and off-line. We do not allow public access to the portion of the server that contains user information. 
 
 **Email**
 
-Email addresses provided to us will only be used to send relevant and requested correspondence. No email addresses will be provided to third-parties unless specifically requested through correspondence or opt-in opportunities. Upon request, JD3 Solutions, LLC will remove users (and their information) from our database or permit them to "opt-out" of any further requested correspondence, such as e-mail newsletters, that they had previously registered for. 
+Email addresses provided to us will only be used to send relevant and requested correspondence. No email addresses will be provided to third-parties unless specifically requested through correspondence or opt-in opportunities. Upon request, Time2Track, LLC will remove users (and their information) from our database or permit them to "opt-out" of any further requested correspondence, such as e-mail newsletters, that they had previously registered for. 
 
 **IP Data**
 
@@ -26,6 +26,6 @@ If a visitor has enabled cookies in a browser, we will send a cookie file that w
 
 **About Our Policy**
 
-JD3 Solutions, LLC makes every reasonable effort to enforce these policies and protect your information. JD3 Solutions, LLC is not responsible for the content or the privacy polices of websites to which it may provide links or which it may host. 
+Time2Track, LLC makes every reasonable effort to enforce these policies and protect your information. Time2Track, LLC is not responsible for the content or the privacy polices of websites to which it may provide links or which it may host. 
 
-If you have questions about this privacy statement or your dealings with JD3 Solutions, LLC, please do not hesitate to contact us at **support@time2track.com**. 
+If you have questions about this privacy statement or your dealings with Time2Track, LLC, please do not hesitate to contact us at **support@time2track.com**. 
