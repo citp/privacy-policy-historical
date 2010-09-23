@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinelogomaker.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318063301id_/http%3A//www.onlinelogomaker.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinelogomaker.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923233835id_/http%3A//www.onlinelogomaker.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Logo Maker
 
