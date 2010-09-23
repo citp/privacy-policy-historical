@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codesmithtools.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524002019id_/http%3A//www.codesmithtools.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesmithtools.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923230919id_/http%3A//www.codesmithtools.com/privacy.aspx) for the most accurate reproduction.*
 
 # CodeSmith Tools: Privacy Policy
 
