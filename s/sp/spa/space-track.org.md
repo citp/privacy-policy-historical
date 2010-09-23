@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the space-track.org privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107003105id_/http%3A//www.space-track.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space-track.org privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923060404id_/http%3A//www.space-track.org/privacy.html) for the most accurate reproduction.*
 
 # Space-Track - Website Privacy Statement
 
