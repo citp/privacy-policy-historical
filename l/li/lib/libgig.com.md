@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620041538id_/http%3A//www.libgig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923091124id_/http%3A//libgig.com/privacy) for the most accurate reproduction.*
 
 # LibGig Privacy Policy | Library Jobs, careers, placement, recruiting | LibGig
 
