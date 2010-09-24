@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centelia.net privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615222738id_/http%3A//www.centelia.net/support/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D14%26nav%3D0%2C2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centelia.net privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924132648id_/http%3A//www.centelia.net/support/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D14%26nav%3D0%2C2) for the most accurate reproduction.*
 
 # Privacy Policy - Powered By Kayako eSupport
 
