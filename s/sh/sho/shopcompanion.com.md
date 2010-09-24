@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopcompanion.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305101917id_/http%3A//www.shopcompanion.com/about-privacy-a.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcompanion.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924144945id_/http%3A//www.shopcompanion.com/about-privacy-a.xhtml) for the most accurate reproduction.*
 
-# SHOP.COM - Privacy Policy
+# privacy
 
 ShopCompanion is dedicated to protecting the privacy of our valued online customers since inception in 1997. ShopCompanion created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information.
 
