@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash81.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227220821id_/http%3A//www.cash81.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash81.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924111243id_/http%3A//www.cash81.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
