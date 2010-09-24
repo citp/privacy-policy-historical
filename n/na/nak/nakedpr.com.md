@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedpr.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524193058id_/http%3A//nakedpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedpr.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924154121id_/http%3A//nakedpr.com/privacy-policy) for the most accurate reproduction.*
 
 # : Naked PR Blog
 
