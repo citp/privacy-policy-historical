@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountsvu.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629164051id_/http%3A//www.discountsvu.com/compare_price/Terms-and-Conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountsvu.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924055101id_/http%3A//www.discountsvu.com/compare_price/Terms-and-Conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Online Price Comparison | DiscountsVu
 
