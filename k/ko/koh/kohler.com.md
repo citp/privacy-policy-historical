@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kohler.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202061905id_/http%3A//kohler.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohler.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924142635id_/http%3A//kohler.com/corp/privacy.html) for the most accurate reproduction.*
 
 # KOHLER Co. - Privacy Statement
 
