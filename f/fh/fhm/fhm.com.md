@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fhm.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917151455id_/http%3A//www.fhm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhm.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924022153id_/http%3A//www.fhm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The UK’s finest girls, games, fashion, news & video from the team behind FHM magazine | FHM.com
+# Privacy Policy | HOME | FHM.com
 
 We’re aware that privacy and security concerns are a major issue so here’s complete clarity on how we will look after any data you provide to FHM.com.
 
