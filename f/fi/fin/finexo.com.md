@@ -1,47 +1,61 @@
-> *The following text is extracted and transformed from the finexo.com privacy policy that was archived on 2005-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050906025527id_/http%3A//www.finexo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finexo.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924164853id_/http%3A//www.finexo.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Our Privacy Policy — FXUC
+# Privacy Policy
 
-Your privacy on the internet is very important to us. The success of our business depends upon our ability to maintain the trust of our clients. As part of the operation of .com we gather certain types of information about .com users, and we would like to explain the types of information we gather, what we do with it and how you can correct or change the information. Please note that this policy applies only to .com and not to other companies or organisations to which we link.
+## PRIVACY STATEMENT
 
-Information collected by .com
+**The protection of privacy and the safeguarding of our Clients’ personal and financial information is our highest priority.**
 
-### .com collects two types of information from our users:
+**Please view the following Privacy Statement which clearly explains how we, at Safecap Investments Limited (“Safecap”), collect, process, store and protect Client’s information**
 
-  * Personal information, such as names, addresses, email addresses etc., and
-  * Traffic pattern information on .com
+**By opening an account, Client hereby gives Safecap its consent to such collection, processing, storage and use of personal information by Safecap as explained below.**
 
+### The collection of personal information
 
+Safecap collects the necessary information required to open, transact and safeguard your assets and your privacy and to provide you with the services you require. To this end, Safecap gathers information from you and may, in certain circumstances, gather information from relevant banks and/or credit agencies, and/or other sources which helps us profile your requirements and preferences and provide better services to you.
 
-Personal information is collected when our users provide personal information to .com upon registering for membership or when applying on-line for an account. We will limit the collection of personal information to what is necessary to administer our business in an effort to provide you with superior service.
+The information Safecap collects includes information required to communicate with and identify its Clients. Safecap may also collect certain demographic information, including, birth date, education, occupation, etc. Safecap also assesses trading related information.
 
-Traffic pattern information includes information on which pages users access or visit, and how many users log into .com on a daily basis. This kind of information is only used in its aggregated form.
+### Usage of personal information
 
-### Use of cookies
+Safecap uses personal information only as required to provide quality service and security to you. This information helps improve services, customize browsing experience and enables us to inform you of additional products, services or promotions relevant to you and the products and services you require and you consent to us using this data for such purposes.
 
-.com uses cookies to collect information. A cookie is a small data file that most major web sites write to your hard disk for record keeping purposes when you visit them. Cookies allow .com to measure activity on the website and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the website without re-registering. Cookies are also used by .com to measure activity on the website and make improvements and updates based on which areas are popular and which are not.
+If you do not want to receive information of this nature for any reason, please contact us at the following address: [unsubscribe@finexo.com](mailto:unsubscribe@finexo.com)
 
-.com does not use cookies to retrieve information which was not originally sent in a cookie. Apart from personal information voluntarily provided by you, .com does not use information transferred through cookies for any promotional or marketing purposes.
+### Affiliates and Partners
 
-### Use of information collected by .com
+Safecap may share information with affiliates in the event such information is reasonably required by such affiliate in order to provide the products or services to you. Safecap may share information with partners, affiliates and alliances in order to offer additional similar products and services that meet your needs and which are delivered in a manner that is useful and relevant only where you have authorized us to do so.
 
-.com uses both the personal and aggregated information that we collect for multiple purposes.
+### Non-affiliated third parties
 
-The information is used:
+Safecap does not sell, license, lease or otherwise disclose personal information to third parties, except as described in this Privacy Statement.
 
-  * To improve the content of the website
-  * To customise the content and/or the layout of the website for each individual user
-  * To notify users about updates to the website
-  * To send out newsletters or information about other opportunities that we believe will be of interest to you.
+Safecap reserves the right to disclose personal information to third parties where required by law, regulatory, law enforcement or other government authority. Safecap may also disclose information as necessary to credit reporting or collection agencies as reasonably required in order to provide the services to you.
 
+To help us improve our services, Safecap may engage third parties to help carry out certain internal functions such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business. Use of the shared information is strictly limited to the performance of the above and is not permitted for any other purpose. All third parties with which Safecap shares personal information are required to protect such personal information in accordance with all relevant legislation and in a manner similar to the way Safecap protects the same. Safecap will not share personal information with third parties which it considers will not afford its Clients the required level of protection.
 
+Where you have been introduced to us by a business introducer (“Business Introducer”), such Business Introducer may have access to your information. You hereby unambiguously and unequivocally consent to the sharing of information with such Business Introducer.
 
-.com may share traffic pattern information with third parties for both advertising and promotional purposes.
+You acknowledge that in order to provide services to you, it may be necessary for information to be transferred outside of the European Economic Area and you consent to such transfer.
 
-.com may also share personal information with pre-screened third parties for marketing or promotional purposes.
+### Restriction of responsibility
 
-.com may also disclose personal information when we believe in good faith that disclosure is legally required, or in order to protect our rights.
+Safecap is not responsible for the privacy policies or the content of sites Finexo.com links to and has no control of the use or protection of information provided by Client or collected by those sites. Whenever Client elects to link to a co-branded web site or to a linked web site, Client may be asked to provide registration or other information. Please note that such information is recorded by a third party and will be governed by the privacy policy of that third party.
 
-### How to correct your information with .com
+### Use of "COOKIES"
 
-If you need to change your personal information on .com or correct an error, please use the "Edit Your Profile" page to update your records. You find it in the main menu under "Member Menu". If you have any questions or concerns, please contact us using our [latest contact information](http://www.finexo.com/about/contact_info/).
+Safecap uses cookies to secure your trading activities and to enhance the performance of the Finexo.com web site. Cookies used by Safecap do not contain personal information or other sensitive information.
+
+Safecap may share web site usage statistics with reputable advertising companies and with its affiliated marketing companies. The information collected by the advertising company is not personally identifiable.
+
+To administer and improve the Finexo.com web site, Safecap may use third parties to track and analyze usage and statistical volume information. The third party may use cookies to track behavior and may set cookies on Safecap’s behalf. These cookies do not contain any personally identifiable information.
+
+### Privacy Statement Updates
+
+From time to time, Safecap may update this Privacy Statement. In the event Safecap materially changes this Privacy Statement including how we collect, process or use your personal information, the revised Privacy Statement will be posted to the web site. Client agrees to accept posting of a revised Privacy Statement electronically on the web site as actual notice to Client. Any dispute over our Privacy Statement is subject to this notice and our Customer Agreement. Safecap encourages Client to periodically check back and review this policy so that Client always will know what information Safecap collects, how Safecap uses it, and to whom Safecap may disclose it.
+
+### Agreement
+
+I have read, understood and agree to the Privacy Policy Agreement, and I confirm that I have full power and authority to enter into this Agreement.
+
+For any other concern please [Contact Us](https://web.archive.org/about-us/contact-us.html)
