@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303082125id_/http%3A//www.nls.uk/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/about/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - National Library of Scotland
 
@@ -38,13 +38,13 @@ EH1 1EW
 
 #### Freedom of Information
 
-You can also make a request under the Freedom of Information (Scotland) Act (FOISA). Use the above contact details or fill in our online [FOISA enquiry form](https://web.archive.org/web/20100303082125id_/http%3A//www.nls.uk/info/foi/request_form.html). 
+You can also make a request under the Freedom of Information (Scotland) Act (FOISA). Use the above contact details or fill in our online [FOISA enquiry form](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/info/foi/request_form.html). 
 
-  * [More about Freedom of Information](https://web.archive.org/web/20100303082125id_/http%3A//www.nls.uk/info/foi/index.html)
+  * [More about Freedom of Information](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/info/foi/index.html)
 
 
 
-[Home page](https://web.archive.org/web/20100303082125id_/http%3A//www.nls.uk/index.html)
+[Home page](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/index.html)
 
   
 
