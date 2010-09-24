@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmosocialnetwork.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619002301id_/http%3A//www.mmosocialnetwork.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmosocialnetwork.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924221525id_/http%3A//www.mmosocialnetwork.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Making Money Online Social Network
 
