@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedfunny.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230833id_/http%3A//nakedfunny.com/content/en-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedfunny.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924181617id_/http%3A//nakedfunny.com/content/en-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Naked and Funny NakedFunny.Com
 
