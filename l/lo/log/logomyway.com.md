@@ -1,11 +1,22 @@
-> *The following text is extracted and transformed from the logomyway.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610195432id_/http%3A//www.logomyway.com/private.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomyway.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/private.php) for the most accurate reproduction.*
 
-# Logo Designers - Start A Logo Design Contest at LogoMyWay.com ™
+# Privacy Policy - LogoMyWay.com ™
 
 Help and Frequently Asked Questions   
 ---  
    
-|  | Privacy Policy  
+| [_Client Testimonials_](http://www.logomyway.com/Logomyway_Reviews_and_Testimonials.php)  
+---  
+[_How it works_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/howitworks.php)  
+[_The FAQ_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/faq.php)  
+[_Prices and Fees_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/pricesAndFees.php)  
+[_Designer code of conduct_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/designerConduct.php)  
+[_Client code of conduct_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/clientCode.php)  
+[_Copyright Issues_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/copyright.php)  
+[_Private policy_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/private.php)  
+[_Contact us_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/contact.php)  
+[_The Terms_](https://web.archive.org/web/20100924100359id_/http%3A//www.logomyway.com/terms.php)  
+| Privacy Policy  
 ---  
    
   
