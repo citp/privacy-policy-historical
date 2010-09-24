@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carowinds.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504022251id_/http%3A//www.carowinds.com/public/news/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carowinds.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924232323id_/http%3A//www.carowinds.com/public/news/general/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | General Information | News - Carowinds
 
