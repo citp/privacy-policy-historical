@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userreport.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504231438id_/http%3A//userreport.com/AnonymousModule/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userreport.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924040009id_/http%3A//www.userreport.com/AnonymousModule/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # UserReport - Privacy Policy
 
@@ -44,7 +44,7 @@ _Compliance with Laws and Law Enforcement_. UserReport cooperates with governmen
 
 _Business Transfers_. UserReport may sell, transfer or otherwise share some or all of its assets, including your Personally Identifiable Information and Log Data, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You and any respondent will have the opportunity to opt out of any such transfer if the new entity´s planned processing of your information differs materially from that set forth in this Privacy Policy.
 
-_Changing or Deleting Your Information_. You may review, update, correct or delete the information in your Client registration profile by logging into your account. Log Data cannot be deleted. If you want to delete your account, please [contact us](https://web.archive.org/web/20100504231438id_/http%3A//userreport.com/AnonymousModule/Contact.aspx). We may retain an archived copy of your records as required by law or for legitimate business purposes.
+_Changing or Deleting Your Information_. You may review, update, correct or delete the information in your Client registration profile by logging into your account. Log Data cannot be deleted. If you want to delete your account, please [contact us](https://web.archive.org/web/20100924040009id_/http%3A//www.userreport.com/AnonymousModule/Contact.aspx). We may retain an archived copy of your records as required by law or for legitimate business purposes.
 
 ### Security
 
@@ -56,4 +56,4 @@ Data may be transferred to, and maintained on, computers located outside of your
 
 ### Contacting Us
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20100504231438id_/http%3A//userreport.com/AnonymousModule/Contact.aspx).
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20100924040009id_/http%3A//www.userreport.com/AnonymousModule/Contact.aspx).
