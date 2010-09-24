@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oskaya.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411053256id_/http%3A//www.oskaya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oskaya.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924233103id_/http%3A//www.oskaya.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Oskaya.com
-
-Privacy Policy 
+# Privacy Policy
 
 What follows is the Privacy Statement for all Oskaya including all the websites run under the **Oskaya.com**. Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
 
