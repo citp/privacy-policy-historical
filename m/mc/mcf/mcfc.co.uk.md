@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcfc.co.uk privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213092510id_/http%3A//www.mcfc.co.uk/Common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcfc.co.uk privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925141754id_/http%3A//mcfc.co.uk/Common/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Common - Manchester City FC
 
