@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgamespot.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504062805id_/http%3A//allgamespot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgamespot.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925122829id_/http%3A//allgamespot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « All Game Spot
 
