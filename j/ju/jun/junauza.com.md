@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621085904id_/http%3A//www.junauza.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925030713id_/http%3A//www.junauza.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | TECH SOURCE FROM BOHOL
+# Privacy Policy | TechSource
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site [www.junauza.com](http://www.junauza.com/). The following discloses the information gathering and dissemination practices for this Web site.
 
