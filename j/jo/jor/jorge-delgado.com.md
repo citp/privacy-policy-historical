@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jorge-delgado.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330102047id_/http%3A//jorge-delgado.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorge-delgado.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925114032id_/http%3A//jorge-delgado.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
