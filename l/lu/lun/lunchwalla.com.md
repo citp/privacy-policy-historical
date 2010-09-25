@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lunchwalla.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323030954id_/http%3A//www.lunchwalla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lunchwalla.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925110407id_/http%3A//www.lunchwalla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lunchwalla
 
 We will always respect your privacy. Any information that you give us is held with the utmost care and will not be used other than as described in this Privacy Policy.
 
-Lunchwalla. LLC has created this Privacy Policy to demonstrate our commitment to your privacy on LUNCHWALLA.com ( "Lunchwalla"). 
+Lunchwalla has created this Privacy Policy to demonstrate our commitment to your privacy on LUNCHWALLA.com ( "Lunchwalla"). 
 
 We have adopted a set of information management guidelines that serve as the basis for our customer relationships. These guidelines have been developed with the recognition that Internet and mobile technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please read this Privacy Policy to understand how your personal information will be treated as you use Lunchwalla.com. Please see our Terms of Use for more information about our online policies in general.
 
@@ -67,15 +67,6 @@ We may provide links to third party websites as a service to our users. Please b
 #### How You Can Access or Correct Your Information
 
 If you are a registered user you can review or make changes to your personal information at any time by going to the "Settings" section after you are logged in at LUNCHWALLA.com. 
-
-#### Questions
-
-Protecting your privacy is one of our highest priorities. If you have any questions about our Privacy Policy, you may send them via email in our online [Contact Us](https://web.archive.org/contact) section, or write to us at: 
-
-> Lunchwalla, LLC  
->  Attn: Privacy Policy  
->  180 Douglas Road E.  
->  Oldsmar, FL 34677 
 
 #### Consent and Opting-Out
 
