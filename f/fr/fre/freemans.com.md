@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the freemans.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/question.asp%3Fqid%3D346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemans.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925040152id_/http%3A//www.freemans.com/web/main/help/question.asp%3Fqid%3D346) for the most accurate reproduction.*
 
-# What is your privacy policy? - Freemans Help
+# What is your Privacy Policy? - Freemans Help
 
-  * [Help](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/category.asp?cid=70)
+  * [Help](https://web.archive.org/web/20100925040152id_/http%3A//www.freemans.com/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20100925040152id_/http%3A//www.freemans.com/web/main/help/category.asp?cid=70)
 
 
 
@@ -44,9 +44,3 @@ Callers to our Customer Services will be subject to a security check.
 Online customers will require a log-in and password to access their account. 
 
 Our courier service will have selected access to your details for delivery purposes only.
-
-## Other questions in this section:
-
-  * [What is your data protection policy?](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/question.asp?qid=345)
-
-
