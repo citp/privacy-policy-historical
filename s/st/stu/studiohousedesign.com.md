@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiohousedesign.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524033625id_/http%3A//www.studiohousedesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiohousedesign.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925161454id_/http%3A//www.studiohousedesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - House Design ,Architecture, and Interior Design on Studio House Design
 
