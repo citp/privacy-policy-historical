@@ -1,86 +1,80 @@
-> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626135258id_/http%3A//duncanhines.com/newDuncan/pub/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925211600id_/http%3A//www.pinnaclefoodscorp.com/public/misc/privacy.htm) for the most accurate reproduction.*
 
-# Duncan Hines® | So Rich. So Moist. So Very Duncan Hines.
+# Pinnacle Food Group LLC | Privacy
 
-|  |  |  |   
----  
-|   
----  
-Our web site located at www.DuncanHines.com (the "Web-site") is owned and operated by Pinnacle Foods Corporation ("Pinnacle"). The protection of your privacy is of great importance to us. Our Privacy Statement describes our commitment to protecting your privacy. In order to fully understand your rights related to privacy issues, we encourage you to read this Privacy Statement and to consult our Terms and Conditions page. As our services evolve, we may from time to time amend this Privacy Statement. Please revisit this Privacy Statement periodically and, if you have questions regarding either this Privacy Statement or our Terms and Conditions, contact us [ here](http://www.pinnaclefoodscorp.com/contactpinnacle/contactus.aspx).   
-**  
-Section 1. Collecting Personal Information.**  
-We gather information from members and site visitors primarily through the following ways: 
+Pinnacle Foods Group LLC is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Online Privacy describes what information Pinnacle Foods Group LLC collects through this website and how we collect, protect, use, and share that information. By using this website, you consent to the data practices described in this statement. Please review the information in this statement carefully to familiarize yourself with Pinnacle Foods Group LLC’s online privacy practices. Your use of this website is also subject to the Pinnacle Foods Group LLC website **[Terms of Use](http://www.pinnaclefoodscorp.com/public/misc/terms-of-use.htm)**   
+.   
+Please note that when you visit this website, any personal or non-personal data you provide will be transferred to the U.S. where the site is located. By using this website you consent to the collection, processing, transfer and storage of such data to the U.S.
 
-  * voluntary member registration 
-  * member submitted content 
-  * cookie technology 
-  * IP addresses 
+**Note to Parents and Legal Guardians**
 
+While many of our offerings are intended for adults, some sites or features may be of interest to children under 13. Please review our **Children’s Privacy Policy** carefully. We encourage parents and guardians to monitor their children’s activities online and instruct their children to never provide personal information online without your permission. Children under the age of 13 should get their parent’s or legal guardian’s permission before providing their e-mail address or other personal information to Pinnacle Foods Group LLC or anyone else via the Internet. 
 
+**Collection of your Personal Information**
 
-**Voluntary Member Registration**   
-When you register as a member, we collect your basic demographic information, your baking interests and your baking preferences. From this information we create a profile that helps us identify the type of Duncan Hines experience that is most relevant to you. With this information, we can customize our services and your experience to suit your needs and preferences. At the initial member registration screen we ask for a member ID, password, e-mail address, your favorite recipes and your key baking preferences. Occasionally, we may also collect additional personal information if you choose to enter a contest or complete a survey form. Once you are a member, we will use the information we receive from you to determine what Duncan Hines related information is most appropriate for you and what information you may find most relevant. Once you are a member, we will use the information we receive from you to determine which of our members would most likely read your submissions.   
-**  
-Member Submitted Content**  
-Some personal information like member name, hometown, country and other information you choose to submit will become public when you disclose it to us on the Web-site. This may include, but is not limited to: 
+While Pinnacle Foods Group LLC does not require anyone to share any personal information in order to enjoy any of our websites, certain features made available on the company’s websites require Pinnacle Foods Group LLC to collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Pinnacle Foods Group LLC also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-  * when you submit recipes 
-  * when you post questions and answers to the interactive Questions and Answers section 
-  * when you participate in contests and member surveys. 
+There is also information about your computer hardware and software that is automatically collected by Pinnacle Foods Group LLC. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Pinnacle Foods Group LLC for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Pinnacle Foods Group LLC Web site.
 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Pinnacle Foods Group LLC public message boards or other community features, this information may be collected and used by others. Note: Pinnacle Foods Group LLC does not read any of your private online communications. Additional information about these features is provided in the Pinnacle Foods Group LLC website Terms of Use. 
 
+Pinnacle Foods Group LLC encourages you to review the privacy statements of Web sites you choose to link to from Pinnacle Foods Group LLC so that you can understand how those Web sites collect, use and share your information. Pinnacle Foods Group LLC is not responsible for the privacy statements or other content on, or the privacy practices of, Web sites outside of the Pinnacle Foods Group LLC and Pinnacle Foods Group LLC family of Web sites.
 
-**Cookie Technology**  
-We use "cookies" to track and store your preferences in order to personalize our site for you. A cookie is a small data file that is sent to your browser and is stored on your computer's hard drive when you visit the Web-site. A cookie assigns a random, unique number to your computer. Cookies allow us to recognize members when they come to our Web-site after they initially register. The cookies record "clickstream" information (data reporting the URLs or names of the pages on our site that you have visited) and help us estimate our audience size, determine which areas of our Web-site are the most popular and serve targeted advertising. No advertiser's cookie is ever placed on your computer. Cookies also make your experience easier by saving your preferences and passwords. For example, if you choose "Remember Me" during sign in, we will store a scrambled version of your member ID in a permanent cookie file on your hard drive so that we can track your personalized services and preferences from one visit to the next. Our cookies customize the Web-site and allow our members to easily update their information. We do not allow anyone else to access your cookie. A cookie cannot read data off of your hard drive or read cookie files created by other web sites. You can reject cookies by turning them off in your browser. This will, however, prevent you from using our customized services, may limit system performance and may cause certain features of the Web-site to malfunction or not work at all. You may also have to repeatedly enter personal information in order to participate in various services or promotions.   
-**  
-IP Addresses**  
-An IP address is a number that is assigned to your computer automatically when you access the Internet. When you visit a particular page on our Web-site, our servers record your IP address. We may record IP addresses in order to facilitate systems administration or to report aggregate information to our advertisers (e.g., how many visitors logged on to our Web-site). 
+**Children’s Privacy**
 
-**  
-Section 2. Children's Personal Information.**  
-We do not intend to collect personal information from children under 13 years of age. If we learn that we have inadvertently collected individually identifying information from a child under the age of 13, such as full name, home address, e-mail address, telephone number or any other information that would allow someone to identify or contact the child, we will promptly delete that data from our systems. 
+Pinnacle Foods Group LLC is mindful of the need to protect the privacy of children under the age of 13. In developing its privacy practices on sites or areas of sites directed to children under 13, Pinnacle Foods Group LLC follows the guidelines established by the Children’s Advertising Review Unit (CARU) and the requirements under the Children’s Online Privacy Protection Act (COPPA). 
 
-**  
-Section 3. Use of Personal Information.**  
-Pinnacle uses your personal information in the following three ways: 
+Pinnacle Foods Group LLC does not collect and store personal information online from children who are under the age of 13 without the consent of a parent or legal guardian, except as authorized by law and described in this policy. In any site or area of a site directed to children under 13, Pinnacle Foods Group LLC does not require children to disclose more information than reasonably necessary to participate in online activities.
 
-  * To customize our services and your experience 
-  * To serve targeted advertising 
-  * To send you optional e-mail messages 
+Pinnacle Foods Group LLC may collect a child’s first name and e-mail address without parental consent for the sole purpose of responding to a one-time question or request from a child, or in connection with certain sweepstakes or contests, but the company will promptly delete this information after providing a response or at the end of the promotion. When a child under 13 seeks to participate in an activity that will require multiple online contacts, such as signing up for an online newsletter, or for certain internal marketing activities, Pinnacle Foods Group LLC may also ask the child for a parent’s or guardian’s e-mail address to notify them and obtain permission or provide them with an opportunity to opt-out of that activity. Pinnacle Foods Group LLC may collect additional personally identifiable information from a child, such as the child’s address, in connection with special offers, sweepstakes, contests, and games, so it can award prizes. You have the right to review personal information we have about your child. Proper identification will be required.
 
+Pinnacle Foods Group LLC may share data about your child with trusted organizations who work for Pinnacle to maintain our websites or help us administer certain features, such as contests or sweepstakes. These companies must agree to maintain confidentiality of any personal information they see. Pinnacle Foods Group LLC may also share anonymous, aggregate data about your child with trusted partners in connection with features, promotions, features, contests, or sweepstakes.
 
+Pinnacle Foods Group LLC does not offer public forums, such as chat rooms or bulletin boards, in child-directed areas or sites. We will not share personal information obtained from a child with another third party, such as a co-promotional partner, for their marketing purposes without your consent. While Pinnacle Foods Group LLC strives to only partner with companies whose privacy policies are consistent with our policy, Pinnacle Foods Group LLC cautions that it is not responsible for the policies or offerings of any third party. Personal information from a child under 13 may only be shared in **Exceptional Circumstances** described below without your consent.
 
-**Customized Services and Information**  
-We gather information from members in order to provide them with personalized information. Every time you visit our Web-site, we provide you with what we believe will be your preferred topics, the member content that will be most relevant for you, and services that will be of the most interest to you.   
-**  
-Targeted Advertising**  
-In order to bring you offers that may be of interest to you, and to help finance the cost of making our Web-site available to you, we may place advertisements on our Web-site. Gathering information from members allows us to target advertisements and sponsorships. We believe this makes information on our Web-site more relevant to you and is more productive for our advertisers. For example, if you have indicated that you enjoy baking brownies, we can target an advertisement to you about a special deal on brownies. It is important to note that we do not share your personal information with advertisers, but we may share it with ad servers acting on our behalf who place advertisements on our Web-site for us. We, and any third-party ad servers acting on our behalf, act as the middlemen between you and the advertisers who want to reach you. Our third-party ad servers are also bound by the terms of this Privacy Statement. You should also refer to our Terms and Conditions regarding our disclaimer on endorsements of any such advertising.   
-**  
-Optional E-mail Messages**  
-When you register with our site and indicate you would like to receive e-mails related to your favorite baking related topics, occasionally we may send you e-mail messages with information related to our services, or third-party products that you may find interesting. If you elect to receive such e-mails when you register, you may update your profile at any time afterwards to discontinue such mailings. You can update your member profile and/or opt out of receiving e-mails in your Baker’s Club profile. 
+This Statement of Online Privacy does not cover the privacy and data collection practices of any linked site. Pinnacle Foods Group LLC is not responsible for the content, policies, or actions of those websites, and cautions children to always check with a parent or guardian before linking to another party’s site. 
 
-**  
-Section 4. Sharing of Personal Information.**  
-As a general rule, we will not disclose your personal information to third parties, except to the extent necessary to provide you with a requested service or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or when we believe disclosure is necessary to protect or enforce our rights or the rights of another member. We will use, or supply to others, aggregated data (independent of any personal identifiers) for research and commercial purposes, such as describing our services, members to prospective partners, advertisers and other third parties. These data are pooled and stripped of personal identifying information and cannot be traced to you specifically. Specific uses of personal information that vary from this Privacy Statement (if any) may be found in the privacy statement applicable to a specific service provided by our Web-site (e.g., a contest or survey). When you are notified that your personal information will be used in a manner that varies from those described in this Privacy Statement, the use of your personal information will be subject to the notification for that particular service, such as with sweepstakes, contests or promotions. Please look for privacy statements and terms and conditions that apply to the services in which you participate. It is important to note that we do not control the privacy policies of our advertisers and other third-party web sites for which we provide advertisements and links. If you click through an advertisement or link to and submit your information to an advertiser or to another web site, you will be subject to that advertiser's or web site's privacy policies, if any. We do not assume responsibility or liability for such third-parties' policies or actions. 
+**Use of your Personal Information**
 
-**  
-Section 5. Controlling the Use of Your Personal Information.**  
-You can reject cookies by disabling them in your browser or you can configure your browser to alert you when cookies are sent. If you register with our Web-site and provide us with personal information, you will always have the option at any time to cancel your registration or to request that your personal information be removed from our systems by contacting us [ here](http://www.pinnaclefoodscorp.com/contactpinnacle/contactus.aspx). We will send to you an e-mail message confirming your request. You must acknowledge to us by e-mail your receipt of such confirmation. After you respond to our confirmation, we will remove your information from our database. Residual information may remain in our archives and/or records. Such information will not be used for commercial purposes, however, we may notify you of major changes to our service from time to time. We reserve the right to maintain information about registered members who violate our Terms and Conditions or whose access to the Web-site has been denied, in order to detect repeat offenders. 
+Pinnacle Foods Group LLC collects and uses your personal information to operate this Web site and deliver the services you have requested. Pinnacle Foods Group LLC also uses your personally identifiable information to inform you of other products or services available from Pinnacle Foods Group LLC and its affiliates. Pinnacle Foods Group LLC may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-**  
-Section 6. More About Your Privacy**   
-You should be aware that personal information you voluntarily disclose online in a public area might be collected and used by others. We do not control the actions of visitors or members. Your disclosure of personal information in a submission, an interactive question and answer, or any other publicly-accessible place on our Web-site is done so at your own risk. You should understand that your personal information might be collected and used by others to send you advertisements or unsolicited messages or for other purposes. You are solely responsible for maintaining the secrecy of your passwords and should be careful when disclosing your personal information online. While we will take appropriate security measures to protect the privacy of your personal information, no protection is foolproof, and transmissions made over the Internet cannot be made absolutely secure. We do not assume any liability for disclosure of data resulting from errors in transmission or made by unauthorized third parties. If you want more information regarding privacy issues, check out the following helpful links: 
+Pinnacle Foods Group LLC does not sell, rent or lease its customer lists to third parties. Pinnacle Foods Group LLC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Pinnacle Foods Group LLC may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Pinnacle Foods Group LLC, and they are required to maintain the confidentiality of your information. 
 
-  * Electronic Frontier Foundation - a civil liberties organization working to protect your rights online. 
-  * Electronic Privacy Information Center - established to focus public attention on emerging civil liberties relating to the National Information Infrastructure. 
-  * Privacy Issues Page - from the Center for Democracy and Technology (CDT). 
-  * Cookies Central - dedicated to providing full information on Internet Cookies. 
+Pinnacle Foods Group LLC does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
+Pinnacle Foods Group LLC keeps track of the Web sites and pages our customers visit within Pinnacle Foods Group LLC, in order to determine what Pinnacle Foods Group LLC services are the most popular. This data is used to deliver customized content and advertising within Pinnacle Foods Group LLC to customers whose behavior indicates that they are interested in a particular subject area.
 
+**Exceptional Circumstances**
 
-**Section 7. Acceptance of Privacy Statement.**  
-By using the Duncan Hines Web-site and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any part of this Privacy Statement, you should no longer use our Web-site. We reserve the right to modify this Privacy Statement at any time. Your continued use of any portion of our Web-site following notification or posting of such changes will constitute your acceptance of those changes. 
+Pinnacle Foods Group LLC reserves the right to use or disclose your personal information, without notice, if required to do so by any law, regulation, or legal request, or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law, conduct investigations or possible breaches of law, or comply with legal process served on Pinnacle Foods Group LLC or the site; (b) protect and defend the rights or property of Pinnacle Foods Group LLC or another legitimate third party; (c) facilitate the sale of Pinnacle Foods Group LLC or any of its brands and, (d) act under exigent circumstances to protect the personal safety of users of Pinnacle Foods Group LLC, our employees or the public.
 
-**  
-Section 8. Contacting Us.**  
-If you have any questions or concerns regarding this Privacy Statement, or if you would like to request us to delete, correct or show you your personal information as provided above, please contact us [ here](http://www.pinnaclefoodscorp.com/contactpinnacle/contactus.aspx). 
+**Use of Cookies**
+
+The Pinnacle Foods Group LLC Web site use "cookies" to help you personalize your online experience. We may also use cookies to comply with COPPA. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Pinnacle Foods Group, LLC pages, or register with Pinnacle Foods Group LLC site or services, a cookie helps Pinnacle Foods Group LLC to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Pinnacle Foods Group LLC Web site, the information you previously provided can be retrieved, so you can easily use the Pinnacle Foods Group LLC features that you customized. 
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Pinnacle Foods Group LLC services or Web sites you visit. 
+
+**Your California Privacy Rights**
+
+Section 17898.83 of the California Civil Code allows California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, contact us at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com) and include the words “CA Privacy Request” in the subject line, or, you may write to us at:
+
+CA Privacy Request  
+Pinnacle Consumer Affairs  
+PO BOX 91000  
+Allentown, PA 18109
+
+**Security of Your Personal Information**
+
+Pinnacle Foods Group LLC takes reasonable precautions to secure your personal information from unauthorized access, use or disclosure. For example, Pinnacle Foods Group LLC secures the personally identifiable information you provide on computer servers in a controlled, secure environment, designed to protect it from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. Users are warned, however, that the Internet and electronic databases may be subject to interception, and you provide such information at your own risk.
+
+**Changes to this Statement**
+
+Pinnacle Foods Group LLC will occasionally update or modify this Statement of Online Privacy to reflect company and customer feedback and new information, features, and promotions. Pinnacle Foods Group LLC encourages you to periodically review this Statement to be informed of how Pinnacle Foods Group LLC is protecting your information. Any changes to this Statement of Online Privacy will take effect upon posting, but we will not materially change how we handle previously collected personal information without your consent. Your continued use of this website following the posting of changes to this Statement of Online Privacy constitutes your agreement to and acceptance of such changes. 
+
+**Contact Information**
+
+Pinnacle Foods Group LLC welcomes your comments regarding this Statement of Privacy. If you believe that Pinnacle Foods Group LLC has not adhered to this Statement, please contact Pinnacle Foods Group LLC at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+Updated: May 27, 2008 
