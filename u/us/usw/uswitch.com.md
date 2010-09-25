@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615064848id_/http%3A//www.uswitch.com/corporatepages/information/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925022439id_/http%3A//uswitch.com/corporatepages/information/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy on uSwitch.com – switch online with confidence
 
@@ -6,7 +6,7 @@ This privacy policy forms part of uSwitch.com’s terms and conditions. Once you
 
 uSwitch.com is committed to protecting your privacy. We use the information that we collect about you to process your switch and to inform you about other services we provide.
 
-The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is 111 Buckingham Palace Road, London SW1W 0SR ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. This privacy statement sets out uSwitch.com's policy in relation to how it uses any personal information collected from you through your use of this site.
+The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Floor 2, Centro 3, 19 Mandela Street, London NW1 0DU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. This privacy statement sets out uSwitch.com's policy in relation to how it uses any personal information collected from you through your use of this site.
 
 ####  What personal information do we collect? 
 
@@ -42,9 +42,10 @@ If you have any queries relating to your personal data please contact us at:
 
 Data Protection Officer  
 uSwitch  
-111 Buckingham Palace Road  
+Floor 2, Centro 3  
+19 Mandela Street  
 London  
-SW1W 0SR
+NW1 0DU
 
 ####  Your consent 
 
