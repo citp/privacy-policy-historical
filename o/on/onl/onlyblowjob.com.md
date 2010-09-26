@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyblowjob.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021943id_/http%3A//onlyblowjob.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyblowjob.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926061709id_/http%3A//onlyblowjob.com/privacy-policy.php) for the most accurate reproduction.*
 
 # OnlyBlowJob.com ::
 
@@ -64,4 +64,4 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 **_How to Contact Only Blow Job_**
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](https://web.archive.org/web/20100624021943id_/http%3A//onlyblowjob.com/support-tour.php) or via email at support@onlyblowjob.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](https://web.archive.org/web/20100926061709id_/http%3A//onlyblowjob.com/support-tour.php) or via email at support@onlyblowjob.com.
