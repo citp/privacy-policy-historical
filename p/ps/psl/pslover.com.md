@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pslover.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612181516id_/http%3A//www.pslover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pslover.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926132044id_/http%3A//www.pslover.com/privacy-policy) for the most accurate reproduction.*
 
 # Photoshop Tutorials - Beginner to Advanced Photoshop Tutorials
 
