@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdftown.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617190243id_/http%3A//pdftown.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftown.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926222122id_/http%3A//pdftown.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
