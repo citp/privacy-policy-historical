@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcmightymax.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210330id_/http%3A//pcmightymax.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmightymax.net privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926120105id_/http%3A//pcmightymax.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacypolicy
 
