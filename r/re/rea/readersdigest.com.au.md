@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030112305id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz/article21086.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926164327id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz/article21086.html) for the most accurate reproduction.*
 
 # Reader's Digest Privacy Policy ANZ | | Reader's Digest Australia
 
