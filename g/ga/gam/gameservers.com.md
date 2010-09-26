@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131135320id_/http%3A//www.gameservers.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926222426id_/http%3A//www.gameservers.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# GameServers : Privacy Policy
 
-   
 **Privacy Policy for GameServers.com
 
 Effective Date ___9/2/2005___  
@@ -10,7 +9,7 @@ Last Updated: ___5/01/2006___
 
 **
 
-**I. General**
+ **I. General**
 
 **** A. The operative parties referred to in this policy are COMPANY and you, the user of this site.
 
@@ -54,7 +53,7 @@ The primary use for your information is to provide you with services you have re
 
 We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. We also use your information for market research purposes – in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
 
-**VI.** **Special Cases**.
+**VI. Special Cases**.
 
 It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including:
 
@@ -68,28 +67,28 @@ It is our policy not to use or share the personal information about Visitors or 
 
 5\. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
-**VI.** **Transmittals from Us**
+**VI. Transmittals from Us**
 
 We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [remove@gameservers.com](mailto:remove@gameservers.com) or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
 
 If you provide your information to us, use the Site, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law.
 
-**VII.** **Public Forums, Member Directories, and Internal Messaging:**
+**VII. Public Forums, Member Directories, and Internal Messaging:**
 
 A. **Public Forums** – at the time of the instatement of this Policy, we do not offer any public forums, nor do we provide services that allow members to post messages to the public, nor to the membership at large. Nevertheless, we reserve the right to offer this service in the future. Any information posted to a Forum should immediately be considered to be public information.
 
 B. **Member Directories** – Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, can not, and will not act to maintain the privacy of any information that you provide in any such forum or medium.
 
-C. **Internal Messaging** – We provide an internal messaging system for use between members of our Site. Any information that you send via this internal messaging system is not secure, and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.
+C. **Internal Messaging** – We provide an internal messaging system for use between members of our Site. Any information that you send via this internal messaging system is not secure and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.
 
-**VII.** **Our Commitment to Data Security.**
+**XIII. Our Commitment to Data Security.**
 
 We take measures, including data encryption, to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
 
-**VII.** **How to Access or Modify Your Information**.
+**IX. How to Access or Modify Your Information**.
 
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at at [http://www.GameServers.com/contact/](http://www.gameservers.com/contact/).
+We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [http://www.GameServers.com/contact/](http://www.gameservers.com/contact/).
 
-**VIII.** **Where to Direct Questions About Our Privacy Policy**.
+**X.** **Where to Direct Questions About Our Privacy Policy**.
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [http://www.GameServers.com/contact/](http://www.gameservers.com/contact/).
