@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aparchive.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123040105id_/http%3A//www.aparchive.com/uns/splash/%3Furl%3Dlegal/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aparchive.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926173743id_/http%3A//www.aparchive.com/uns/splash/%3Furl%3Dlegal/default.html) for the most accurate reproduction.*
 
 # AP :: Archive
 
@@ -28,6 +28,6 @@
   * [Privacy Policy](https://web.archive.org/uns/splash/?url=legal/default.html)
 
 
-  * v2.1.1.16768r b10577
+  * v2.2.1.27986r b133321
 
 
