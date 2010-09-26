@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205061526id_/http%3A//www.gettingpersonal.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926181943id_/http%3A//www.gettingpersonal.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
-Getting personal is committed to preserving the privacy of all visitors to our website at www.gettingpersonal.co.uk. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
+GettingPersonal.co.uk is committed to preserving the privacy of all visitors to our website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy. 
 
@@ -30,7 +30,7 @@ Finally, if our business enters into a joint venture with or is sold to or merge
 
 Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy. 
 
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent. 
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We occasionally make our mailing list available to other carefully selected organisations whose products and services may be of interest to you. If you would prefer not to be included in such mailings, please write to Getting Personal Ltd, Unit A1 Southmoor Business Park, Greeba Road, Roundthorn Industrial Estate, Manchester, M23 9XS or drop an email to ask@gettingpersonal.co.uk. 
 
 **Cookies**
 
