@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerseykiss.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525195059id_/http%3A//www.jerseykiss.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseykiss.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926033125id_/http%3A//www.jerseykiss.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Cheap NFL jerseys,youth nfl jerseys comes from Jerseykiss.com, Authentic NFL jersey at lowest price with high quality fast delivery within one week.Huge selection kinds of jerseys.
 
