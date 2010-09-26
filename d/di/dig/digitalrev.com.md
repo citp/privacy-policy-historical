@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalrev.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828225904id_/http%3A//www.digitalrev.com/en/privacy-policy-36-article.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalrev.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926172604id_/http%3A//digitalrev.com/en/privacy-policy-36-article.html) for the most accurate reproduction.*
 
 # Privacy Policy - DigitalRev.com
 
@@ -14,7 +14,7 @@ DigitalRev Limited, PO BOX No. 142
 Fo Tan Post Office  
 Hong Kong
 
-You may contact us by e-mail at [privacy@digitalrev.com](mailto:privacy@digitalrev.com) or by phone on (+44) 0870 141 7288
+You may contact us by e-mail at [privacy@digitalrev.com](mailto:privacy@digitalrev.com)
 
 Opt-In/Opt-Out
 
