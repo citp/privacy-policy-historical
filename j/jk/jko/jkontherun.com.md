@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jkontherun.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601082947id_/http%3A//jkontherun.com/privacy-policy/%3Futm_source%3Djkontherun%26utm_medium%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jkontherun.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926040505id_/http%3A//jkontherun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – jkOnTheRun
+# Privacy Policy «
 
 Giga Omni Media, Inc. (“GigaOM”) takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the GigaOM website (the “GigaOM Site”), submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
