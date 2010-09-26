@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopflick.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220443id_/http%3A//www.shopflick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopflick.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926123548id_/http%3A//www.shopflick.com/privacy-policy) for the most accurate reproduction.*
 
 # Shopflick | Privacy Policy
 
