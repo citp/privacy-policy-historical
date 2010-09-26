@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the froggertv.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231125632id_/http%3A//froggertv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the froggertv.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926052131id_/http%3A//www.froggertv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Frogger TV
 
@@ -28,7 +28,7 @@ Personally Identifiable Client Data - Opt-Out Because OPM llc. is a strong propo
 
 **Web Site Tracking**
 
-The Froggertv web site servers use log files. These logs include internet protocol (IP) addresses, browser type, referring pages, platform type, and date/time stamp, to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+The Froggertv web site servers use log files. These logs include internet protocol (IP) addresses, browser type, referring pages, platform type, and date/time stamp, to analyze trends, administer the site, track userâ€™s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 The Froggertv web site uses session cookies to maintain a users session state while using the online reporting feature. Session cookies are removed from the users computer upon exiting the browser and are not used to collect personally identifiable information. If a user chooses to decline these session cookies, the online reporting feature will not be usable.
 
