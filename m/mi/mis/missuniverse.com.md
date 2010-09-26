@@ -1,115 +1,143 @@
-> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004355id_/http%3A//www.missuniverse.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926134314id_/http%3A//www.missuniverse.com/info/privacy) for the most accurate reproduction.*
 
 # Miss Universe : Information
 
-## Privacy Policy
+**Privacy Policy**
 
-This Privacy Policy was last updated on April 7, 2009.
+This Privacy Policy was last updated on March 31, 2010.
 
-  
-Introduction: The web sites which are located at the domain MissUniverse.com (the "Site") are operated by Miss Universe L.P., LLLP ("Miss Universe" or “we” or “our” or “us”).   Your privacy is important to us.  This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information.  It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site.  This Site is operated in and controlled from the United States of America.   If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com) or at the address at the end of this policy.
+Introduction: The web sites which are located at the domains MissUniverse.com, MissUSA.com and MissTeenUSA.com (the "Sites") are operated by Miss Universe L.P., LLLP ("Miss Universe" or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Sites. These Sites are operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Sites, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com) or at the address at the end of this policy.
 
-PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY.  YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
+PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITES CAREFULLY. YOUR USE OF THEE SITES SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
-1.   Types of Information Collected  
-       •  **Personal Data**  
-       •  **Aggregate and Anonymous Data**  
-2.   Use of Cookies and Other Technologies  
-3.   Our Use of Your Information  
-4.   Disclosure of Personal Data to Third Parties  
-      •   **Disclosure to Affiliates  **  
-      •   **Disclosure to Third Parties**   
-      •   **Disclosure to Others**  
-5.   Third Party Advertising and Links to Other Sites  
-6.   Your Choice  
-7.   Access and Correction  
-8.   Children and Privacy  
-9.   Message Boards, Chat Rooms, Blogs and Other User Forums  
-10\. Data Security  
-11\. Exclusions  
-12\. Other Terms and Conditions  
-13\. Site Location  
-14\. Changes to this Privacy Policy  
+This Privacy Policy applies solely to the websites on which it appears, and not to any other website or service, even if this Site links to such other website or service.
+
+1\. Types of Information Collected
+
+• **Personal Data**
+
+• **Aggregate and Anonymous Data**
+
+2\. Use of Cookies and Other Technologies
+
+3\. Our Use of Your Information
+
+4\. Disclosure of Personal Data to Third Parties
+
+• **Disclosure to Affiliates**
+
+• **Disclosure to Third Parties**
+
+• **Disclosure to Others**
+
+5\. Third Party Advertising and Links to Other Sites
+
+6\. Your Choice
+
+7\. Access and Correction
+
+8\. Children and Privacy
+
+9\. Message Boards, Chat Rooms, Blogs and Other User Forums
+
+10\. Data Security
+
+11\. Exclusions
+
+12\. Other Terms and Conditions
+
+13\. Site Location
+
+14\. Changes to this Privacy Policy
+
 15\. Contacting Miss Universe Regarding Your Privacy
 
-  
-**1\. Types of Information Collected:**  
-Personal Data:  Personally Identifiable Information (“Personal Data”) is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information.  This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments.  We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices (”Other Services”).  Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us.  We may also obtain Personal Data from reputable third parties, such as credit agencies.
+**1\. Types of Information Collected:**
 
-Aggregate and Anonymous Data:  Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site (“AA Data”).  We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies.  For example, we collect IP addresses from individuals who visit the Site.  An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web.  Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address.  We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site.  We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version.  During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.  
- 
+Personal Data: Personally Identifiable Information (“Personal Data”) is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. These Sites collect Personal Data when you interact with the Sites for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Sites; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices (“Other Services”). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies.
 
-**2\. Use of Cookies and Similar Technologies:**  
-Like many sites, we use "cookies" or other similar technologies to collect AA Data.  A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site.  Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences.   Most browsers are initially set to accept cookies.  If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
+Aggregate and Anonymous Data: Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Sites (“AA Data”). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Sites. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Sites. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
 
-In addition, we may use a service that collects data remotely by using so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) embedded in the Site’s content.  A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives.   This information is AA data.  
- 
+**2\. Use of Cookies and Similar Technologies:**
 
-**3\. Our Use of Your Data:**  
-**Personal Data:**   We will use your Personal Data for the purposes for which it was provided.  For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services.   We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you.  We also may send information or offers to selected groups of Site users on behalf of other businesses.  When we do this, we do not give those businesses your name or address.  Under certain circumstances we may post your Personal Data on the Site. 
+Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Sites. Cookies allow the Sites to measure traffic activity on the Sites and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Sites without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Sites will not function properly if you do so.
 
-Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you.  If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data.
+In addition, we may use a service that collects data remotely by using so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) embedded in the Site’s content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. This information is AA data.
 
-**AA Data:**   We may also use Personal Data in aggregate form for purposes of research or analysis.  In order to better understand and serve the users of the Site and Other Services, Miss Universe often conducts research on its customer demographics, interests and behavior based on Personal Data we gather.  Although this aggregated data may be based in part on Personal Data, it does not identify you personally.  Miss Universe may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
+**3\. Our Use of Your Data:**
 
-We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes.  For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners.  We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site.  This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.  
- 
+**Personal Data:** We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances we may post your Personal Data on the Sites.
 
-**4\. Disclosure of Personal Data:**  
-Disclosure to Affiliates:    We reserve the right to share Personal Data with our affiliates.  If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com) (see “Your Choices” below).
+Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data.
 
-Disclosure to Third Parties:  Miss Universe, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing orders and/or payments.  When we employ a third party to perform these functions, we will provide Personal Data to these third parties so they may perform their function.  With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes.  We will provide you with an opportunity to elect or decline these services or opportunities  (see “Your Choices” below).  In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored.  In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request.
+**AA Data:** We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Sites and Other Services, Miss Universe often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. Miss Universe may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
 
-Disclosure to Others:  In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to:  (1)  protect the legal rights, privacy or safety of Miss Universe, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2)  protect the safety and security of visitors to our web sites or other properties; (3)  protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7)  comply with the law or legal process.
+We may use AA Data collected from the Sites for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Sites, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Sites to customize the advertising and marketing messages you receive on the Sites. This data (including Clickstream Data about your activities on our Sites) may be shared with these companies for this purpose.
 
-If Miss Universe sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction.  Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.  
- 
+**4\. Disclosure of Personal Data:**
 
-**5\. Third-Party Advertising and Links to Other Sites:**  
-This Site may include third-party advertising.  These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser.  They automatically receive your IP address when this happens.  They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data).  For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://networkadvertising.org/optout_nonppii.asp>.
+Disclosure to Affiliates: We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com) (see “Your Choices” below).
 
-Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site.  For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site.  Links to other sites may use our Site logo or style as a result of a co-branding agreement.  These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not.  Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you.  You should check the applicable privacy policy to determine how that site will handle such data.  
- 
+Disclosure to Third Parties: Miss Universe, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Sites, maintaining databases, administering contests, providing wireless services, mailing information and processing orders and/or payments. When we employ a third party to perform these functions, we will provide Personal Data to these third parties so they may perform their function. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see “Your Choices” below). In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request.
 
-**6\. Your Choices:**  
-You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features.  If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message or contacting us at:  [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com). You may opt-out of receiving offers from us and related products and services offered by third parties by contacting us at:  [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com). If you ask that we stop using your Personal Data, we will honor that request.  However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law.
+Disclosure to Others: In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of Miss Universe, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process.
 
-  
-**7\. Access and Correction:**  
-If you would like to review, correct or change the Personal Data that you have previously provided us, please go to the Edit Profile page of the Site and follow the appropriate instructions or contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com).  We will take reasonable steps to update or correct Personal Data in our possession.
+If Miss Universe sells all or part of these Sites or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.
 
-**8\. Children and Privacy:**  
-We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children.  At various places on the Site or Other Services, we may ask users for their age.  By using the Site or Other Services you agree to respond truthfully and accurately about your age.  Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services.  
- 
+**5\. Third-Party Advertising, Links to Other Sites and Local Pageant Sites:**
 
-**9\. Message Boards, Chat Rooms, Blogs and Other User Forums:**  
-Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information.  Use caution when posting.  Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public.  Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services.  
- 
+These Sites may include third-party advertising. These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Sites directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy>.
 
-**10\. Data Security Disclaimer:**  
-Miss Universe takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information.  Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure.  It may be possible for third parties not under the control of Miss Universe to intercept or access transmissions or private communications unlawfully.  While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us.  Any such transmission is done at your own risk.  If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com).  
- 
+Please note that these Sites contain links to other sites that will not follow the same Privacy Policy as our Sites. For instance, clicking on an advertisement or on links or other elements on the Sites may take you to an entirely different site. Links to other sites may use our Sites’ logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that these Sites would not. Once you've left these Sites, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. We do not endorse any other website simply by linking to such website. You should check the applicable privacy policy to determine how that site will handle such data.
 
-**11\. Exclusions:**  
-This Privacy Policy shall not apply to any unsolicited information you provide to Miss Universe on or through this Site or Other Services.  Please see our Terms of Service for our policies regarding such Unsolicited Information.  All such Unsolicited Information shall be deemed to be non-confidential, and Miss Universe shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
+These Sites may contain links to the websites of pageants participating in the Miss Universe pageant which are located in individual states or countries. These local state and country websites are run by independent parties and are not owned and controlled by us. Therefore, when accessing such local state and/or country websites, you agree that we shall not be responsible for the privacy practices of such local state and/or country pageants. You should review the privacy disclosures on such websites, or contact such pageants directly, prior to providing them with any of your Personal Data.
 
-  
-**12\. Other Terms and Conditions:**  
-Your access to and use of this Site or Other Services is subject to the Terms of Service.
+**6\. Your Choices:**
 
-  
-**13\. Applicable Law:**  
-We control and operate this Site from the United States.  The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.  Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction.  Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
+You can use the Sites and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Sites and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message or contacting us at: [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com). You may opt-out of receiving offers from us and related products and services offered by third parties by contacting us at: [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com). If you ask that we stop using your Personal Data, we will honor that request. However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law.
 
-  
-**14\. Changes to this Privacy Policy:**  
-From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use.  If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either:  (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site.  You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page.  Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site.  By continuing to use the Site following such changes, you will be deemed to have agreed to such changes.  If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site.  
-15\. Contacting Miss Universe Regarding Your Privacy:  
-If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com), or at the address listed below.   
+**7\. Access and Correction:**
 
+If you would like to review, correct or change the Personal Data that you have previously provided us, please go to the Edit Profile page of the Site and follow the appropriate instructions or contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com). We will take reasonable steps to update or correct Personal Data in our possession.
+
+**8\. Children and Privacy:**
+
+We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the SiteS or Other Services, we may ask users for their age. By using the SiteS or Other Services you agree to respond truthfully and accurately about your age. Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the SiteS or Other Services. If we become aware that Personal Data from a child under 13 has been collected without the consent of such child’s parent or guardian, we will use all reasonable efforts to delete such information from our database.
+
+For more information on protecting your privacy, please visit <http://www.ftc.gov/privacy>
+
+**9\. Message Boards, Chat Rooms, Blogs and Other User Forums:**
+
+Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Sites where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Sites or Other Services.
+
+**10\. Data Security Disclaimer:**
+
+Miss Universe takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Miss Universe to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com).
+
+**11\. Exclusions:**
+
+This Privacy Policy shall not apply to any unsolicited information you provide to Miss Universe on or through this Sites or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and Miss Universe shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
+
+**12\. Other Terms and Conditions:**
+
+Your access to and use of these Sites or Other Services is subject to the Terms of Service.
+
+**13\. United States:**
+
+We control and operate this Site from the United States. By using the Sites, you freely and specifically give us your consent to export your Personal Data to the United States and to store and use it in the United States as specified in this Privacy Policy. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
+
+**14\. Changes to this Privacy Policy:**
+
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Sites or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Sites. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Sites. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Sites.
+
+**15\. Contacting Miss Universe Regarding Your Privacy:**
+
+If you have any questions about this Privacy Policy, Personal Data gathered by these Sites or Other Services, or about the operation of thee Sites or Other Services, or if you wish to unsubscribe from the Sites or Other Services, please contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com), or at the address listed below.
 
 MISSUNIVERSE.COM FEEDBACK
 
-1370 Avenue of the Americas  
-16th Floor  
+1370 Avenue of the Americas
+
+16th Floor
+
 New York, NY 10019
