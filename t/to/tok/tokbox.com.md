@@ -1,57 +1,126 @@
-> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226021918id_/http%3A//www.tokbox.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926094436id_/http%3A//www.tokbox.com/privacy) for the most accurate reproduction.*
 
-# TokBox Privacy Policy
+# Privacy | TokBox
 
-### About TokBox
+Date of Last Revision: July 8, 2010
 
-TokBox is a web-initiated video communications service. TokBox members control, and can change at any time, their personal information that is available to others. 
+We built TokBox to make it easy for you to communicate with your colleagues, customers and all the people around you. We understand you may not want everyone in the world to be able to connect and communicate with you on TokBox, so we give you control over who can see your profile and who can contact you. If you are aged 18 and over, our default privacy settings allow anyone to contact you. If you are aged 13 to 18 then only those you are connected to on TokBox may contact you. However, it is easy to change these settings by visiting your Account on TokBox.
 
-TokBox cares deeply about online privacy. If you have any questions concerning this privacy policy, please contact us in writing by visiting our Contact page. 
+Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using TokBox (as defined in our [Terms of Service](https://web.archive.org/terms)).
 
-### Information Collection and Use by TokBox
+By using or accessing TokBox, you are accepting the practices described in this Privacy Policy.
 
-TokBox collects user submitted information such as name, email address, phone number, and age to authenticate users and to send notifications to those users relating to the TokBox service. TokBox also logs non-personally-identifiable information including IP address, time zone, profile information, aggregate user data, and browser type, from users and visitors to the site. Such data are used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. 
+  
 
-User information, including members' pictures and user names, are displayed to people in order to facilitate user interaction. Email addresses are used for the purposes of inviting new friends to join TokBox and to send notifications related to the service. With the exception of notifications and invitations, a user's email address is not shared or displayed to others. To facilitate searching and finding interesting content on the service, TokBox may allow users to search for other members using first and last name, email address, and other standard search strategies. We may also use a user's email address to send updates, a newsletter or news regarding the service. From time to time, TokBox or a partner may sponsor a promotion, sweepstake or contest on TokBox. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
 
-### Invitations and Other Communications to Non-members
+### The Information We Collect
 
-TokBox members can invite other people to join the service by sending invitation emails via our automated invitation system. TokBox stores the email addresses that members provide so that the respondents may be added to the contact's list of the member sending the invitations, and also to send reminders of the invitations. TokBox does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from TokBox may contact TokBox to request the removal of their information from our database. 
+When you visit TokBox you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us, and website usage information collected by us as you interact with our website.
 
-TokBox members may also store email addresses of people they know in their internal TokBox address book and may also choose to send invitations and other communications to those addresses. You may prevent TokBox email invitations and other messages from being sent to any email address you control by contacting us in writing through our Contact page or by replying to any email message we send you with the words "unsubscribe" in the Subject line. 
+When you sign up to TokBox, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your age, your gender and any other personal or preference information that you provide to us. You may also choose to provide us with credentials to your Instant Messenger ("IM") and/or email accounts. We use this information to enable you to easily call the people in those contact lists.
 
-### Use of Cookies
+As you access and use TokBox, we may record information about your usage, usage patterns and personal settings, whether that information is observed by us implicitly or provided to us explicitly. We use this information, both at an individual and aggregate level, to learn about how you and others use TokBox and to improve the TokBox experience, both for you and for others.
 
-TokBox uses cookies to store visitors' preferences and to record session information, for purposes including ensuring compliance with our terms and policies, to improve the user experience with our services, and to customize Web page and widget content based on browser type and user profile information. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. Please note that TokBox may allow third party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the TokBox Privacy Policy. 
+If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email in your name inviting him or her to visit the site, and may send up to three reminders to them. TokBox stores this information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may [contact us](https://web.archive.org/contact) to request that we remove this information from our database.
+
+TokBox members may also store email addresses of people they know in their internal TokBox address book and may also choose to send invitations and other communications to those addresses. You may prevent TokBox email invitations and other messages from being sent to any email address you control by contacting us in writing through our Contact page or by replying to any email message we send you with the words "unsubscribe" in the Subject line.
+
+When you use TokBox, you may set up your personal profile, form relationships, send video and text messages, perform searches and queries, and make video calls. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain the information on our servers so that, for instance, you can return to view prior messages you have sent, call someone back or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+
+As part of making video calls, we may capture a limited number of still images (no audio) of your participation in the call in order to provide other participants on the call with additional personalization features. These still images are only stored locally (ie. not on TokBox servers) and are only available to those who have participated on the video call.
+
+You submit or transmit User Content (as defined in the TokBox [Terms of Service](https://web.archive.org/terms)) on the website at your own risk. Although we allow you to set privacy options that limit access to your User Content, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your information. Therefore, we cannot and do not guarantee that User Content you submit or transmit on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+
+Please be aware that whenever you voluntarily submit or transmit or communicate public information on TokBox that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+
+Any improper collection or misuse of information provided on TokBox is a violation of the TokBox Terms of Service and should be [reported to us](https://web.archive.org/contact).
+
+By using TokBox, you are consenting to have your personal data transferred to and processed in the United States.
+
+  
+
+
+### Children Under Age 13
+
+TokBox does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for TokBox or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us](https://web.archive.org/contact).
+
+  
+
+
+### Children Between the Ages of 13 and 18
+
+We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet. In addition, we set default privacy setting for children in this age group so that they can only be contacted by people they already know.
+
+  
+
+
+### Use of Information Obtained by TokBox
+
+When you register with TokBox, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people specified in your privacy settings to enable you to connect with people on TokBox.
+
+Email addresses are used for the purposes of inviting new friends to join TokBox and to send notifications related to the service. With the exception of notifications and invitations, a user's email address is not shared or displayed to others. To facilitate searching and finding on the service, TokBox may allow users to search for other members using first and last name, email address, and other standard search strategies. We may occasionally use your name and email address to send you notifications regarding new services offered by TokBox that we think you may find valuable.
+
+Generally, you may opt out of such emails, though TokBox reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+
+Profile information is used by TokBox primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. Profile information you submit to TokBox will be available to users of TokBox you allow to access the information through your privacy settings. Your name, profile picture thumbnail and TokBox URL will be available in search results across the TokBox network and those limited pieces of information may be made available to third party search engines, if permitted by your privacy settings. This is primarily so your friends can find you and send a friend request.
+
+IM and email credentials are used to enable you to easily connect with your contacts.
+
+  
+
+
+### Sharing Your Information with Third Parties
+
+We allow you to choose the information you provide to friends and the people around you through TokBox. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you.
+
+Unlike most sites on the Web, TokBox limits access to site information by third party search engine "crawlers" (e.g. Google, Yahoo, MSN, Ask). TokBox takes action to block access by these engines to personal information beyond your name, profile picture, and limited aggregated data about your profile. We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about TokBox, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the TokBox-specified purposes.
+
+We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the TokBox service or using the TokBox name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies. If the ownership of all or substantially all of the TokBox business, or individual business units owned by TokBox, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
+
+When you use TokBox, certain information you submit, transmit or share with third parties (e.g., a friend or someone in your network), such as personal information, video messages or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when sending video messages or other items, this information may become publicly available.
+
+  
+
 
 ### Links
 
-TokBox may contain links to other sites. TokBox is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on TokBox. 
+TokBox may contain links to other websites. We are of course not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by TokBox.
 
-### Public Postings
+  
 
-Please be aware that whenever you voluntarily post or communicate public information on TokBox that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Correcting/Updating or Removing Information 
-
-TokBox users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Account/Settings page. 
 
 ### Third Party Advertising
 
-Advertisements appearing on our site may be delivered to users by TokBox or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by TokBox and does not cover the use of cookies by any advertisers. 
+Advertisements that appear on TokBox are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. TokBox does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on TokBox unless you choose to share it with them.
+
+This privacy policy covers the use of cookies by TokBox and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+  
+
+
+### Changing or Removing Information
+
+Access and control over most personal information on TokBox is readily available through the profile editing tools. TokBox users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their TokBox account may do so on the Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of TokBox.
+
+Where you make use of the communication features of the service to share information with other individuals on TokBox, however, (e.g., sending a video message to another TokBox user) you generally cannot remove such communications.
+
+  
+
 
 ### Security
 
-TokBox member accounts are secured by member-created passwords. TokBox takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on TokBox, please contact us in writing by visiting our Contact page. 
+TokBox member accounts are secured by user-created passwords. TokBox takes appropriate precautions to insure that user information is kept private. We use reasonable measures to protect user information that is stored within our database, and we restrict access to user information and user content to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For any additional information about the security measures we use on TokBox, please contact us in writing by visiting our Contact page.
 
-### Sharing and Disclosure of Information TokBox Collects
+  
 
-Except as otherwise described in this privacy statement, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by TokBox, whether or not a response is required by applicable law; (2) to enforce the TokBox Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. TokBox reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of TokBox or substantially all of its assets to that successor in interest. For more information see the "Changes in Our Privacy Policy" section below. 
 
-### Changes in Our Privacy Policy
+### Terms of Service, Notices and Revisions
 
-From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site(s) to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our site for thirty days. 
+Your use of TokBox, and any disputes arising from it, is subject to this Privacy Policy as well as our [Terms of Service](https://web.archive.org/terms) and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Service at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+
+  
+
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us in writing by visiting our Contact page. 
-
-### Using Our Logos
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us in writing by visiting our [Contact page](https://web.archive.org/contact).
