@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516042839id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928015915id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
 
-# Ritz Camera And Image @ LifePics
+# RitzPix.com @ LifePics
 
 **
 
-### Privacy Statement for Online Imaging Services for RitxPix Users.
+### Privacy Statement for Online Imaging Services for RitzPix Users.
 
 **
 
 **Last Revised September 6, 2006**
 
-**We at RitxPix have a firm commitment to safeguarding the privacy of our customers. This page will inform you about our information gathering and dissemination practices for RitxPix and all of our services, including our online imaging services at RitzPix.com (the "Service").** If you have questions or concerns regarding this statement, you should contact customerserv@ritzpix.com.
+**We at RitzPix have a firm commitment to safeguarding the privacy of our customers. This page will inform you about our information gathering and dissemination practices for RitzPix and all of our services, including our online imaging services at RitzPix.com (the "Service").** If you have questions or concerns regarding this statement, you should contact customerserv@ritzpix.com.
 
-RitxPix is also referred to in this Statement as "we" and "us". 
+RitzPix is also referred to in this Statement as "we" and "us". 
 
 **In General**  
 **Your Photo Albums, Album Sharing, and Address Book**  
-RitxPix is committed to providing you with a safe environment to upload, share and print your photos. Except for albums you choose to share publicly without password protection, your photos are password protected and are not visible to others unless you explicitly share them. See **["Terms and Conditions"](https://web.archive.org/net/content.aspx?id=termsandconditions)**. for further details.
+RitzPix is committed to providing you with a safe environment to upload, share and print your photos. Except for albums you choose to share publicly without password protection, your photos are password protected and are not visible to others unless you explicitly share them. See **["Terms and Conditions"](https://web.archive.org/net/content.aspx?id=termsandconditions)**. for further details.
 
-If you invite visitors to see your photos, by clicking on the "Share" tab, RitxPix will send an email to your list of invitees containing the URL to your album. **Please note that your invitees can then forward the email containing the URL to other parties if they choose to do so when they share albums publicly.**
+If you invite visitors to see your photos, by clicking on the "Share" tab, RitzPix will send an email to your list of invitees containing the URL to your album. **Please note that your invitees can then forward the email containing the URL to other parties if they choose to do so when they share albums publicly.**
 
 **Your Personal Information**   
-RitxPix only uses your personal information to conduct business with you. Your personally identifiable information will not be rented, sold or shared with any third party, except as described in this Privacy Statement or as otherwise agreed by you. RitxPix may disclose information it has collected from any member of the Service and/or content any member has made available on the Service when it believes in good faith that the law or legal process requires it, or when it is necessary to do so to protect the rights or property of RitxPix or others. 
+RitzPix only uses your personal information to conduct business with you. Your personally identifiable information will not be rented, sold or shared with any third party, except as described in this Privacy Statement or as otherwise agreed by you. RitzPix may disclose information it has collected from any member of the Service and/or content any member has made available on the Service when it believes in good faith that the law or legal process requires it, or when it is necessary to do so to protect the rights or property of RitzPix or others. 
 
-**We may change this Privacy Policy without notice from time to time. Please visit this page for updates and changes. Regardless of later changes or updates, RitxPix will not use your information in a new way without first providing you with an opportunity to opt-out.**
+**We may change this Privacy Policy without notice from time to time. Please visit this page for updates and changes. Regardless of later changes or updates, RitzPix will not use your information in a new way without first providing you with an opportunity to opt-out.**
 
 **Also, if you have not already done so, please click here to review the **["Terms and Conditions"](https://web.archive.org/net/content.aspx?id=Termsandconditions)** that govern your use of the Service. Our privacy policy is considered part of the Terms of Service. **
 
@@ -37,42 +37,42 @@ We use aggregate non-personal information (i.e. information that does not includ
 **Information We Automatically Collect**
 
 _Cookies and Invisible Gifs (also known as "Clear Gifs," "Web Bugs" and "Tracker Gifs")_  
-Generally speaking, we use cookies and invisible gifs to track users of the Service (including our newsletter service) and RitxPix's Web site, including photo albums and the shopping areas. For example, when you visit our site, we assign you a unique User ID and store it on your computer in the form of a cookie (unless your browser's cookie support has been disabled). Through the use of cookies, User IDs, and invisible gifs, we are able to optimize the performance and functionality of our site, and to personalize our site for you and present you with content and offers specific to your interests. 
+Generally speaking, we use cookies and invisible gifs to track users of the Service (including our newsletter service) and RitzPix's Web site, including photo albums and the shopping areas. For example, when you visit our site, we assign you a unique User ID and store it on your computer in the form of a cookie (unless your browser's cookie support has been disabled). Through the use of cookies, User IDs, and invisible gifs, we are able to optimize the performance and functionality of our site, and to personalize our site for you and present you with content and offers specific to your interests. 
 
 _Disabling Cookies_  
-If you are uncomfortable with the idea of your information being stored in cookies, we recommend disabling cookie support in your browser, though please understand this will limit the performance and functionality of RitxPix's Web site. Your browser documentation will provide specific procedures for disabling cookie support. If you would like to opt-out from the newsletter mailing list, please see the instructions under the Choice/Opt-Out section below. 
+If you are uncomfortable with the idea of your information being stored in cookies, we recommend disabling cookie support in your browser, though please understand this will limit the performance and functionality of RitzPix's Web site. Your browser documentation will provide specific procedures for disabling cookie support. If you would like to opt-out from the newsletter mailing list, please see the instructions under the Choice/Opt-Out section below. 
 
 **IP Address**  
 We analyze IP addresses in the aggregate for system administration purposes and to gather broad demographic information. We do not link IP addresses to your computer's User ID, with the following exception: when you place an order using our online checkout process we record your computer's IP address with your order to help us identify fraudulent credit card use. We may share this information with the financial institution that issued the credit card with which an order was placed, or with law enforcement authorities if we determine, or are notified, that the use of the credit card was fraudulent. 
 
 **Affiliate Site ID**  
-If you entered RitxPix's Web site by clicking a link or promotion on another Web site (including another co-branded partner Web site), or if you used a site that provides universal registration services to sign up for our site, we will store the ID of that affiliate site in our database along with your computer's User ID. We do this to ensure that the affiliate site receives proper credit for any subsequent order you might place. We may also use this information in conjunction with your activities on our site to help us identify what offers and services may be of interest to you. 
+If you entered RitzPix's Web site by clicking a link or promotion on another Web site (including another co-branded partner Web site), or if you used a site that provides universal registration services to sign up for our site, we will store the ID of that affiliate site in our database along with your computer's User ID. We do this to ensure that the affiliate site receives proper credit for any subsequent order you might place. We may also use this information in conjunction with your activities on our site to help us identify what offers and services may be of interest to you. 
 
 **Third Party Service Providers**  
 We may share your personally identifiable information with those companies that assist us in providing the Service to you. Following are some examples of our use of third party service providers: We may share your credit card information with a financial institution to effect your purchase of our products using your credit card. We may share personally identifiable information (not including credit card information) with third parties that assist us with the administration of our newsletters or contests or that help us understand what our customers want and need from our service, including analysis of the results of particular surveys we may perform. We also engage third parties to assist us by tracking the number of visitors to our Web site, including visitors that have "clicked-through" from specified promotions on third party Web sites and those visitors' activities on the site. We may also choose to offer certain third party products, such as Custom Printed Cards or PrePaid Cards through the Service and may disclose certain portions of your personally identifiable information (not including credit card information) to allow those product producers to fulfill your product order. 
 
 **Your Copyrights**  
-RitxPix Imaging Network respects the intellectual property rights of others. We claim no ownership rights in any image contained in any of your photo albums and will not share your images unless instructed by you or otherwise required by law. Please note that when you share a photo album, you allow the recipients of that album to share and make photographic prints from the images contained in that album. For more information, see our **["Terms and Conditions"](https://web.archive.org/net/content.aspx?id=termsandconditions)**. 
+RitzPix Imaging Network respects the intellectual property rights of others. We claim no ownership rights in any image contained in any of your photo albums and will not share your images unless instructed by you or otherwise required by law. Please note that when you share a photo album, you allow the recipients of that album to share and make photographic prints from the images contained in that album. For more information, see our **["Terms and Conditions"](https://web.archive.org/net/content.aspx?id=termsandconditions)**. 
 
 **Opting-Out, Updates and Security**
 
 **Choice/Opt-Out**  
-The Service provides you with the opportunity to opt-out of receiving newsletters and other promotional communications from RitxPix. To discontinue your receipt of such newsletters and communications, you can do so in the "My Account" section of our Web site. RitxPix will continue to send you non-promotional, service emails concerning your account and the management or notifications of orders, confirmation of orders, or expiration of albums or images within your account.
+The Service provides you with the opportunity to opt-out of receiving newsletters and other promotional communications from RitzPix. To discontinue your receipt of such newsletters and communications, you can do so in the "My Account" section of our Web site. RitzPix will continue to send you non-promotional, service emails concerning your account and the management or notifications of orders, confirmation of orders, or expiration of albums or images within your account.
 
 **Correct/Update**  
 If you want to review or change any information you previously provided to us, please go to the "My Account" section of the site. 
 
-**De-Activating Your RitxPix Online Imaging Account**  
-If you want to de-activate your account with RitxPix, please send an email to customerserv@ritzpix.com with your request. Please note any service will be billed/refunded as agreed when you signed up. Please be sure to include the email address of the account you wish to de-activate. Your account will be de-activated and you will no longer receive communications from us; however, we will keep your account information in our database for record-keeping purposes only. 
+**De-Activating Your RitzPix Online Imaging Account**  
+If you want to de-activate your account with RitzPix, please send an email to customerserv@ritzpix.com with your request. Please note any service will be billed/refunded as agreed when you signed up. Please be sure to include the email address of the account you wish to de-activate. Your account will be de-activated and you will no longer receive communications from us; however, we will keep your account information in our database for record-keeping purposes only. 
 
 **Security**  
-The Service has security measures in place to protect the loss, misuse and alteration of the information under our control. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Except as otherwise stated in this Privacy Statement, access to that data is limited to authorized RitxPix staff members and our hosting company only and is further restricted by password protection mechanisms. By default, all orders placed on our site are done on a secure server that encrypts all financial information through SSL. We will not store your credit card information in our database unless you explicitly instruct us to do so. 
+The Service has security measures in place to protect the loss, misuse and alteration of the information under our control. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Except as otherwise stated in this Privacy Statement, access to that data is limited to authorized RitzPix staff members and our hosting company only and is further restricted by password protection mechanisms. By default, all orders placed on our site are done on a secure server that encrypts all financial information through SSL. We will not store your credit card information in our database unless you explicitly instruct us to do so. 
 
 **Other Sites; Contact Information**  
 
 
 **Links to Other Sites**  
-This site may contain links to other sites. RitxPix is not responsible for the privacy practices or the content of such other Web sites. 
+This site may contain links to other sites. RitzPix is not responsible for the privacy practices or the content of such other Web sites. 
 
 **Contact information on privacy**  
 If you have any questions about this privacy statement, the practices of the Service, or your dealings with us, you can email your questions to customerserv@ritzpix.com.
@@ -92,7 +92,7 @@ Also called a Web browser. Software that enables you to search and or navigate t
 A block of text placed in a file on your computer's hard drive by a Web site you've visited. A cookie is used to identify your computer the next time you access the site. Cookies cannot identify an individual user specifically unless the cookie data is attached to personally identifiable information collected some other way, such as via an online registration form. 
 
 **Domain name**  
-The company, individual, or organization "name" you use to access a Web site, e.g. www.RitxPix.com. 
+The company, individual, or organization "name" you use to access a Web site, e.g. www.RitzPix.com. 
 
 **Email**  
 See electronic mail. 
@@ -168,11 +168,11 @@ _
 
 **If you paid in store and request a refund or redo,** you can return your items directly to the store and the store can assist you with your refund or redo.
 
-ATT: RITXPIX.COM
+ATT: RITZPIX.COM
 
 ### **Copyright Policy**
 
 **Ownership**  
-All copyright in the material contained on this website (the "Site Material") is owned by RitxPix or its affiliates or its licensees, unless stated otherwise. All rights reserved. Reproduction of part or all of the contents in any form is prohibited except with official consent received in writing by RitxPix.
+All copyright in the material contained on this website (the "Site Material") is owned by RitzPix or its affiliates or its licensees, unless stated otherwise. All rights reserved. Reproduction of part or all of the contents in any form is prohibited except with official consent received in writing by RitzPix.
 
 ###
