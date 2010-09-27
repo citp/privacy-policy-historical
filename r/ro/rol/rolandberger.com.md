@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525005009id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927044933id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
 
 # Privacy | Strategy Consultants
-
-Protecting your personal data, and complying with relevant data protection legislation, is something we take very seriously. This statement is intended to give you an overview of how we ensure this protection, what kinds of data we collect and why, and how we deal with it.
-
-## 1\. Who is responsible?
-
-Responsibility for data processing and in connection with this website rests with Roland Berger Strategy Consultants GmbH, HighLight Towers, Mies-van-der-Rohe-Str. 6, 80807 Munich, Germany ("Roland Berger Strategy Consultants"). For more detailed information about Roland Berger Strategy Consultants, please see [Contact](http://www.rolandberger.com/contact.html).
-
-## 2\. Why do we collect, process and use data?
-
-Roland Berger Strategy Consultants uses the Internet to present general information about our company and what we do. There are some areas of our web-sites or individual pages which serve more specific purposes.
-
-  * There is the applicants' area of our different recruiting websites, where potential applicants can apply for jobs, internships and other positions (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
-
-  * Then there's our alumni area, where people who used to work for Roland Berger Strategy Consultants can keep in touch with their ex-colleagues and the company itself.
-  * And there are other pages on specific topics or with specific functions. Details can be found in the contents section of each page.
-
-
-
-We collect, process and use data for the reasons above, unless there are more specific reasons, which we will give when collecting that data (e.g. for [applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)). We do not use data other than for its intended purpose in each case.
 
 ## 3\. What data do we collect?
 
@@ -54,55 +35,3 @@ You can withdraw your consent to your data and e-mail address being recorded and
 ## 3.2.3 Other matters
 
 We will never record any of your personal details otherwise without your ex-press consent.
-
-## 4\. Who do we send data to?
-
-## 4.1 Where does data go once it reaches Roland Berger Strategy Consultants?
-
-Once you send data, or it is collected on our websites, we transmit it within Roland Berger Strategy Consultants to the recipients that need to know it. Applications, for instance, go to our human resources department and the department for which the position is advertised (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
-
-Data can also be accessed in purely technical terms by service providers and contract partners we use to operate our website. They act as our commissioned data processors.
-
-## 4.2 Sending data to third parties
-
-As a fundamental rule, we do not disclose, transfer, sell or otherwise market personal data to third parties, such as other companies or organizations, without your express consent, or as required to meet our contractual obligations between Roland Berger Strategy Consultants and you, the website user, which make it necessary to transfer such data.
-
-## 4.3 Transfer of data to countries outside the EU/EEA
-
-We do not transfer any personal information to anyone in countries outside the EU or EEA, nor do we have any plans to do so, except in the cases below:
-
-  * If you're applying for positions advertised in countries outside the EU/EEA or which are closely connected to our offices in those countries (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
-
-  * If you're registering for events organized outside the EU or EEA (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
-
-  * In any other cases where data evidently has to be sent to recipients in countries outside the EU/EEA.
-
-
-
-We will generally ask you for your consent before transferring data in these cases.
-
-## 5\. How long can we store data before we have to delete it or block it?
-
-The law is quite detailed when it comes to what data we can and must store and for how long. Once these terms expire, we routinely delete this data or block it, following data protection rules.
-
-Where data is not subject to specific terms, we delete it or block it once the reasons we collected it for cease to apply.
-
-If you have agreed to a longer duration for storing, processing and using your data, we will delete or block your data after this duration expires or should your revoke your consent (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
-
-## 6\. What are "cookies", and how do we use them?
-
-Roland Berger Strategy Consultants' websites use "cookies" in different places. These are small text files which are downloaded onto your computer and are saved in your browser. Cookies do not harm your computer, and do not contain viruses. Most cookies we use are "session cookies", and are deleted automatically at the end of your visit.
-
-If you'd like to know how your browser uses cookies, or instruct it not to use them or confirm them in each case, you should activate your browser settings accordingly.
-
-## 7\. Your right to know
-
-We'll be happy to tell you, subject to the relevant legal provisions, what personal details we store on you. If there's anything you'd like to know, please get in touch with Roland Berger Strategy Consultants' data protection officer ([](https://web.archive.org/services/form/com_rb_1569068439)). And please remember, you'll need to prove who you are before we can give you any information.
-
-## 8\. Security
-
-The security of your data is important to us: so all the areas of our website where you can actively input data use encryption systems such as SSL (Secure Socket Layer) to protect your data against being accessed by unauthorized third parties.
-
-If you register to use access-protected areas of Roland Berger Strategy Consultants' websites, you should keep the login details you receive carefully and protected against access by third parties. If you log in on a computer that is used by more than one person, please don't forget to log off properly at the end of each session and close the browser window you were using.
-
-Roland Berger Strategy Consultants takes extensive technical and organizational security precautions to protect your personal data against being manipulated, either accidentally or deliberately, or being lost, destroyed or accessed by unauthorized third parties. We are constantly improving these precautions as technology develops.
