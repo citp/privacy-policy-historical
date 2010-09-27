@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interplas.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616010627id_/http%3A//www.interplas.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interplas.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927033823id_/http%3A//www.interplas.com/info/privacy-policy) for the most accurate reproduction.*
 
 # International Plastics Privacy Policy
 
