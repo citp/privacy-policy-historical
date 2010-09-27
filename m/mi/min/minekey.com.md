@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180205id_/http%3A//minekey.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927130816id_/http%3A//minekey.com/footer/privacy) for the most accurate reproduction.*
 
 # Privacy : Minekey
 
