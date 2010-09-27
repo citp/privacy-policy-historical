@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620125111id_/http%3A//www.blockbuster.com/corporate/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927081300id_/http%3A//www.blockbuster.com/corporate/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
