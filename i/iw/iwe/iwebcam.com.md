@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwebcam.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231121637id_/http%3A//www.iwebcam.com/Home/tabid/54/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebcam.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927095357id_/http%3A//iwebcam.com/Home/tabid/54/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Free Live Webcam Video Chat Room Service - Live Streaming Video and Chat
 
