@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315075205id_/http%3A//www.babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927042351id_/http%3A//www.babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
 
-# Security And Privacy - Help Desk - BabyAge.com
+# Security And Privacy - Help Desk | BabyAge.com
 
 ### Security & Privacy
 
