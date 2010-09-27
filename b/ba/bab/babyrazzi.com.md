@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyrazzi.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527083005id_/http%3A//babyrazzi.com/baby/2006/03/25/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyrazzi.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927223846id_/http%3A//babyrazzi.com/baby/2006/03/25/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy > Babyrazzi – Celebrity Baby Blog & Pregnancy News
 
