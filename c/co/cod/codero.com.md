@@ -1,61 +1,56 @@
-> *The following text is extracted and transformed from the codero.com privacy policy that was archived on 2009-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090824034110id_/http%3A//www.codero.com/legal/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codero.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927143605id_/http%3A//www.codero.com/legal/privacy.pdf) for the most accurate reproduction.*
 
-# Codero Privacy Policy
+# 
 
-                                                                                                                   Codero Privacy Policy
+                                                                                                 Codero Privacy Policy
 General: Codero is committed to protecting your privacy. This document will explain to you our
 policies for collecting, using, and disclosing personally identifiable information that you provide to us.
 By submitting your personally identifiable information to us you agree to the terms of this Privacy
 Policy.
 Why We Collect/How We May Use Personally identifiable Information: We collect personally
-identifiable information in order to, among other things (a) set up and provide services to our
-customers, (b) process customer payments, (c) improve our services, (d) communicate with our
-customers, and (e) compile “Internet Average” statistics regarding customers’ browser type, screen
-resolution, and/or other similar anonymous aggregate data.
+identifiable information in order to, among other things, (a) set up and provide services to our
+customers, (b) process customer payments, (c) improve our services, and (d) communicate with our
+customers.
 Sources of Personally identifiable Information: We receive and collect personally identifiable
 information from a variety of sources as we interact with our customers and with the public. These
 sources include:
-•      E-mails, correspondence, and applications we receive from all sources.
-•      Cookies, URLs, web beacons, and other web identifiers we receive from visitors to our web sites.
-•      Credit card and credit information we receive as part of our billing and collection functions.
-•      Telephone calls, chat sessions, and forum and blog postings we receive from all sources.
-•      Account information provided by our customers.
-•      Information posted on a Codero blog or on the Codero Forum.
+      E-mails, correspondence, and applications we receive from all sources.
+      Cookies, URLs, web beacons, and other web identifiers we receive from visitors to our web sites.
+      Credit card and credit information we receive as part of our billing and collection functions.
+      Telephone calls, chat sessions, and blog postings we receive from all sources.
+      Account information provided by our customers.
+      Information posted on the Codero blog.
 Note that we may receive personally identifiable information at sites both in the United States and in
 other countries (where privacy laws may be less stringent).
 What Information We May Collect: Due to the nature of our business, we collect a wide variety of
 personally identifiable information, including:
-•      Personal data such as individual names, addresses, telephone numbers, credit card numbers, and e-
+      Personal data such as individual names, addresses, telephone numbers, credit card numbers, and e-
        mail addresses.
-•      Business data such as business names, addresses, telephone numbers, credit card numbers, and e-
+      Business data such as business names, addresses, telephone numbers, credit card numbers, and e-
        mail addresses.
-•      Data for aggregation data such as, among other things, visitor browser type and screen resolution.
+      Non-personally identifiable information for aggregation such as, among other things, visitor
+       browser type and screen resolution.
 Information We May Disclose To Third Parties: Codero does not sell or rent any personally identifiable
 information we collect to third parties. However, we may disclose or transmit personally identifiable
-information to third parties in certain situations, including:
-•      In response to a subpoena, court order, or other valid legal process.
-•      To process or collect customer payments (for the sole purpose of processing or collecting those
-       payments).
-•      To enable third-party vendors to provide specific services to our customers (for the sole purpose of
-       providing those services).
-•      To enable a third-party vendor, Omniture, Inc., to provide website tracking, recording, testing,
-       optimization, and/or other services to Codero. Click here to opt-out of allowing your personally
-       identifiable information to be transmitted to Omniture, Inc. for this purpose. You may also click
-       here to review Omniture, Inc.’s privacy policies.
-                                                                          th
-Copyright © 2009 Codero Internet Services. All rights reserved. 7500 W 110 St., Suite 400, Overland Park, KS 66210
+information to third parties for specific purposes and situations, including:
+      In response to a subpoena, court order, or other valid legal process.
+      To process or collect customer payments.
+      To enable third-party vendors to provide specific services to Codero, including, among others,
+       retargeted ad placement services and website tracking, recording, testing, and optimization
+       services.
+      To prevent, investigate, or stop illegal or malicious activities including violations of our acceptable
+       use policy, threats to our facilities, and threats to the physical safety of any person.
+      To our affiliated companies or to any entity that acquires majority control of us or one of our
+       business units through merger, acquisition, consolidation, or otherwise.
+                                                        th
+Copyright © 2010 Codero. All rights reserved. 7500 W 110 St., Suite 400, Overland Park, KS 66210
 
 
-•      To prevent, investigate, or stop illegal or malicious activities including violations of our acceptable
-       use policy, threats to our facilities, and/or threats to the physical safety of any person.
-•      To any entity that acquires majority control of Codero or one of our business units through merger,
-       acquisition, consolidation, or otherwise.
-Note that any information submitted on a Codero blog or on the Codero Forum is immediately viewable
-by the public.
+Note that any information submitted on the Codero blog is immediately viewable by the public.
 External Links: We have no control over the privacy policies of web sites whose links appear on our
 site(s). Please review the privacy policies of those linked sites for an understanding of how they use
 information they collect from you.
-E-mail Opt-Out: You may opt-out of receiving most e-mails from us by following the “unsubscribe”
+E-Mail Opt-Out: You may opt-out of receiving most e-mails from us by following the “unsubscribe”
 instructions provided in the e-mails.
 Minors: The Codero website is not designed to be used by minors under 18 years old. It is not our
 intent to gather personally identifiable information about anyone below the age of 18.
@@ -74,6 +69,6 @@ Fax: (913) 890-7787
 Updates: We may periodically update this Privacy Policy without notice to you. Please refer to this
 Privacy Policy regularly to remain updated about our current privacy policies. Your continued use of
 our services after we post an updated Privacy Policy serves as your acceptance of that updated policy.
-This Privacy Policy was updated on or about January 26, 2009.
-                                                                          th
-Copyright © 2009 Codero Internet Services. All rights reserved. 7500 W 110 St., Suite 400, Overland Park, KS 66210
+This Privacy Policy was updated on or about February 25, 2010.
+                                                        th
+Copyright © 2010 Codero. All rights reserved. 7500 W 110 St., Suite 400, Overland Park, KS 66210
