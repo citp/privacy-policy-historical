@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meehive.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619010208id_/http%3A//www.meehive.com/hive/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meehive.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927103607id_/http%3A//www.meehive.com/hive/privacy.html) for the most accurate reproduction.*
 
 # MeeHive: About
 
