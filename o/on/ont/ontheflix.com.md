@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontheflix.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607080933id_/http%3A//ontheflix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheflix.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927030210id_/http%3A//ontheflix.com/privacy.html) for the most accurate reproduction.*
 
 # OnTheFlix.Com: Privacy Policy
 
