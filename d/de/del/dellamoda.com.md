@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316175433id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927235956id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dellamoda.com Privacy Policy :: Dellamoda.com
 
