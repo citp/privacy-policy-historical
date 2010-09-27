@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibbett.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205201525id_/http%3A//hibbett.com/pdf/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibbett.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927203217id_/http%3A//www.hibbett.com/pdf/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # HIBBETT PRIVACY POLICYOur Commitment to Privacy
 
