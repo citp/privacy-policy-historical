@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uscc.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530213029id_/http%3A//www.uscellular.com/uscellular/common/common.jsp%3Fpath%3D/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscc.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928222309id_/http%3A//www.uscellular.com/uscellular/common/common.jsp%3Fpath%3D/site/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Information Highlights | U.S. Cellular
+# U.S. Cellular
 
 Effective Date: August 11th, 2009
 
