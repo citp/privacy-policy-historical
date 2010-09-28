@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managingbipolardisorder.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626074039id_/http%3A//www.managingbipolardisorder.net/privacy.cgi%3Fconfig%3D6178) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managingbipolardisorder.net privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928080629id_/http%3A//www.managingbipolardisorder.net/privacy.cgi%3Fconfig%3D6178) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@
 
 **Privacy Policy / Your California Privacy Rights**
 
-Web Clients, LLC (“Company,” “we” or “us”) reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
+USA Interactive, Inc. (“Company,” “we” or “us”) reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
 This Privacy Policy will tell you, among other things:
 
@@ -163,7 +163,7 @@ By completing and submitting a Company registration form, you are consenting to 
 
 **Request for More Information**
 
-As it relates to marketing communications or any other questions you might have about our Privacy Policy, _click here to contact us_ or write to us at WebClients, LLC. PO Box 654, Camp Hill, PA 17001. ****
+As it relates to marketing communications or any other questions you might have about our Privacy Policy, _click here to contact us_ or write to us at 2207 Concord Pike PMB 530, Wilmington, DE 19803. ****
 
 **WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?**
 
