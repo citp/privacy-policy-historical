@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604071604id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928225846id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
 
 # Sovereign Bancorp, Inc. Privacy Policy | Sovereign Bank
 
@@ -238,10 +238,6 @@ with a Personal Banking Representative  |
 |  |   
 ---|---|---  
 |  How May We Help You? |   
-|  |  |  |   
-  
-Search Our Site  
-  
 |  |  |  |   
 |  |   
 ---|---|---  
