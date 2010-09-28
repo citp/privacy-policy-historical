@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the play181.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170704id_/http%3A//www.play181.com/index.php%3Fpageid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play181.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928060229id_/http%3A//www.play181.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Arcade Games @ Play181.com
+# Privacy Policy | Play181
 
-**This Privacy Policy applies only to this web site, Play181.com. Please read this Privacy Policy carefully, so you know what we do with the information you give to us.**
+**PLAY181.com is committed to providing an entertaining time to all of our visitors and we take your privacy seriously.
 
-**Anonymous Information:**  
-When you visit the Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. 
+This privacy policy describes how and why we obtain, store and process data which can identify you. We may update this policy from time to time. If you have any questions about our privacy policy, feel free to 
 
-**Use of Your Information:**  
-When you supply any personal information to our website, we have legal obligations towards you in the way we use your personal information. We collect your information so we can get to know about you better and therefore provide more services on the website that will be of interest to you. Your information will never be passed on or sold to any third party websites, and will remain private at all times. 
+[**contact us**](http://www.play181.com/contact/). **
 
-Contact information, such as your name, age, or email address, submitted by you with questions, concerns, complaints, or technical support questions, is used only to respond to those inquiries, and will not be used for any other purpose. 
+* * *
 
-**Sharing your info:**  
-We will not sell your personal information to third-party companies/organisations/individuals for marketing purposes unless you have granted us permission to do so. 
+**Cookies and Web Beacons**  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup ad once in your visit, or to serve games which may be of preference to you.
 
-We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims. 
+Some of our advertisers may use cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google and Valueclick Media) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing gaming ads to people who visit gaming websites).
 
-We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. 
+You can chose to disable or selectively turn off our cookies or third-party cookies in your web browser settings, or by managing preferences in programs in your firewall. However, this can affect how you are able to interact with our site as well as other websites. 
 
-And so, we will ask you for your personal consent to share your information with third party companies/organisations/individuals for any other reason. 
+* * *
 
-**IP Addresses:**  
-An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from Play181.com, our servers log the visitors IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, for security purposes, to report aggregate information to our business partners or to audit the number of visits to different pages on the website. Please note that some services within the website, such as the Comments system for games, may display IP addresses along with the message posters name and message, but only to the Administrators. Your IP address will NEVER be displayed in public on the website.. 
+**ValueClick Media Advertising**  
+We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. 
 
-**Cookies:**  
-Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You may occasionally get cookies from our advertisers, which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our privacy policy. Visitors to our web site should check the privacy policy of the advertiser to see whether and how it uses cookies. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser?s provider/manufacturer if you have any questions regarding disabling cookies. 
+* * *
 
-**Childrens Privacy:**  
-We do not knowingly collect personal information from children under the age of 13 years. If we learn that we have collected personal information from a child under the age of 13, we will delete that data from our server immediately. We encourage parents and guardians to be present when the children are surfing this web site, as it may contain rather explicit material at times, in the case of sexual and violent themed games.   
-Policy Modification:  
-If we ever decide to modify our Privacy Policy, it's up to you to make sure you know we have updated it. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify all users registered on this web site via email. 
+**Google & DoubleClick DART Cookie**  
+Google, as a third party vendor, uses cookies to serve ads on PLAY181.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to PLAY181.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>
 
-This privacy policy was put into effect on October 28th 2006. 
+* * *
+
+**Opt Out of Behavioral Advertising**  
+The NAI (Network Advertising Initiative) is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. As increasingly sophisticated online advertising technologies evolve, consumer concerns about their impact on online privacy mount. If you wish to opt out of behavioral advertising you may use the NAI Opt-out Tool at <http://www.networkadvertising.org/managing/opt_out.asp>
+
+* * *
+
+PLAY181.com has no access to or control over the cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more information on their practices. PLAY181.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+**Last Updated - September 23, 2010**
