@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000markets.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527012010id_/http%3A//www.1000markets.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000markets.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928085130id_/http%3A//www.1000markets.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
