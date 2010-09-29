@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228184157id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929195222id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,23 +7,23 @@
 [Medical Spanish & More](https://web.archive.org/salud_medical_spanish_programs/)  
 [Volunteer & Intern](http://www.amerispan.com/volunteer_intern/)  
 [Teenager Study Abroad](https://web.archive.org/teenager_programs_abroad)  
-[Language & Fun](http://www.amerispan.com/other_specialized_programs/)  
-[Business & Professional](http://www.amerispan.com/comercio/)  
+[Language & Fun](http://www.amerispan.com/fun/)  
+[Business & Professional](http://www.amerispan.com/professional/)  
 [College Study Abroad](http://www.amerispan.com/study_abroad/)  
-[Teachers & Educators](http://www.amerispan.com/maestro/)  
+[Teachers & Educators](http://www.amerispan.com/educators/)  
 [Programs for Groups](http://www.amerispan.com/group_travel)  
-[Study Abroad Blog](http://www.amerispan.net/)  
 [Faculty Zone](http://www.amerispan.com/faculty)  
 [Participant Zone](http://www.amerispan.com/clientsupport)  
 [Parent Zone](https://web.archive.org/parents)  
-[Resources](https://web.archive.org/travel)  
+[Travel Resources](https://web.archive.org/travel)  
+[Study Abroad Blog](http://www.amerispan.net/)  
   
   
 Effective Date:  4/7/2006
 
 [ ](http://www.truste.org/ivalidate.php?url=www.amerispan.com&sealid=101) AmeriSpan is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [ www.amerispan.com](http://www.amerispan.com/) .  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact John Slocum at [ info@amerispan.com](mailto:info@amerispan.com) .  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) .  TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact AmeriSpan at [ info@amerispan.com](mailto:info@amerispan.com) .  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) .  TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 _**We Hate Spam & Fraud**_  
 AmeriSpan does not share, sell, loan or give your email, name or other personal information to any one. We take the protection of your information seriously. We hate Spam and Online Fraud and we have taken a serious of steps to protect you.
@@ -46,7 +46,7 @@ We collect information from you to help us personalize and improve your AmeriSpa
 
 In addition, when you register for a program, we collect demographic information (age, occupation, school, etc) for our own internal use and the internal use of partner schools and host families. This information helps to accurately describe the types of participants in each program we offer and give some general information about you, the participant, to the schools and host families where you will attend. This sharing of information is a quality control measure which helps insure the best matches in various program components (lodging, instructors, etc).  This information collected is limited to use within AmeriSpan and its partner schools world-wide. AmeriSpan does not sell contact information to third parties. 
 
-At this time, we also collect your credit card information, including credit card holder name, credit card number, expiration date, CVV and billing address.  This information is saved on a secure server; please refer to  the **How Secure is My Personal Information?** section below.   All the credit card information collected is limited to use within AmeriSpan and is not used without your writen authorization.  
+At this time, we also collect your credit card information, including credit card holder name, credit card number, expiration date, CVV and billing address.  This information is saved on a secure server; please refer to  the **How Secure is My Personal Information?** section below.   All the credit card information collected is limited to use within AmeriSpan and is not used without your written authorization.  
 
 **_Tell-A-Friend_**  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  AmeriSpan stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  Your friend may contact us at [ info@amerispan.com](mailto:info@amerispan.com) to request that we remove this information from our database.AmeriSpan is the sole owner of the information collected on [ www.amerispan.com](http://www.amerispan.com/) . AmeriSpan collects personally identifiable information from our users at several different points on our Web site.   
@@ -89,7 +89,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 
 **_Access to Personally Identifiable Information_**  
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by emailing our Customer Support at [ info@amerispan.com](mailto:info@amerispan.com) or by contacting us by telephone or postal mail at the contact information listed below: AmeriSpan  
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by emailing our Customer Support at [ info@amerispan.com](mailto:info@amerispan.com) or by contacting us by telephone or postal mail at the contact information listed below: AmeriSpan Study Abroad  
 1334 Walnut Street, 6th Floor      
 Philadelphia, PA 19107  
 Worldwide: (215) 751-1100   
@@ -102,4 +102,22 @@ _**
 This privacy policy was last modified on February 28, 2007. AmeriSpan may revise this policy from time to time. If we make any substantial changes, we will post those amendments on our Web site so that you are always aware of the information we collect, how we use it and how you can access or update your personal information.  
  
 
-| 
+|  |  [](http://www.addthis.com/bookmark.php?v=250&username=amerispan)  
+---  
+[](http://server.iad.liveperson.net/hc/2543855/?cmd=file&file=visitorWantsToChat&offlineURL=http://www.amerispan.com/send_email/default.asp&site=2543855&byhref=1&imageUrl=http://www.amerispan.com/images/d2liveperson)
+
+Toll Free: 800-879-6640  
+  
+[](https://www.amerispan.com/application/register.asp)  
+[](https://web.archive.org/price_quote/)  
+  
+**Sign-up for  
+AmeriSpan Newsletter**
+
+Email:   
+  
+  
+[](http://www.amerispan.com/triple_guarantee.asp)  
+[ ](http://www.amerispan.com/catalog_request/)  
+[](http://www.amerispan.com/travel/article/Language_Travel_Magazine_Star_Awards/225)  
+[](https://www.amerispan.com/application/make_payment.asp)
