@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riyasewana.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327220106id_/http%3A//www.riyasewana.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riyasewana.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929163001id_/http%3A//riyasewana.com/privacy.php) for the most accurate reproduction.*
 
 # RiyaSewana.com Privacy Policy
 
@@ -20,6 +20,7 @@ www.riyasewana.com does use cookies to store information about visitors preferen
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
 Google Adsense   
+Infolinks  
 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.riyasewana.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
