@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212204731id_/http%3A//www.local.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929110051id_/http%3A//www.local.com/privacy.aspx) for the most accurate reproduction.*
 
 # Local.com | Privacy Policy
 
@@ -82,6 +82,10 @@ Any advertiser who wishes to place advertising on our Service will be asked to p
 
 California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail at [clientservices@local.com](mailto:clientservices@local.com) or write us at: Local.com Corporation, One Technology Drive, Building G, Irvine, CA 92618, Attn: Legal Department. 
 
-* **12\. QUESTIONS**
+* **12\. Microsoft Bing Maps and MapPoint Online Privacy Statement**
+
+Microsoft Bing Maps and MapPoint Privacy Statement may be viewed at <http://go.microsoft.com/fwlink/?LinkId=21970>.
+
+* **13\. QUESTIONS**
 
 If you have any questions about this Privacy Policy, please feel free to contact us by e-mail at [privacy@local.com](mailto:privacy@local.com) or by U.S. mail at: Local.com Corporation, One Technology Drive, Building G, Irvine, CA 92618, Attn: Legal Department. 
