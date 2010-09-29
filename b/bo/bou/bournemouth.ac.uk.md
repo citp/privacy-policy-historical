@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528171654id_/http%3A//www.bournemouth.ac.uk/privacy%3Fsrclnk%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930003333id_/http%3A//www.bournemouth.ac.uk/privacy%3Fsrclnk%3Dhome) for the most accurate reproduction.*
 
-# Bournemouth University | About the University | Privacy policy
+# Privacy policy - About the University - Bournemouth University
 
 This privacy policy sets out how Bournemouth University uses and protects any information that you give Bournemouth University when you use this website.
 
