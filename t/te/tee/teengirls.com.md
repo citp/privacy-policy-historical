@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the teengirls.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406001453id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dteengirls) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teengirls.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930001636id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dteengirls) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by Protranstech BV
+This website (the "Site") is operated by Minaloun Management Ltd
 
-Protranstech BV  
-Postbus 218  
-Ijmudien  
-Netherlands  
-1970AE  
+Minaloun Management Ltd  
+Agias Fylaxeos & Zinonos Rossidi  
+2, 1st Floor  
+Limassol  
+Cyprus  
+3082  
 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
