@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the americansongwriter.com privacy policy that was archived on 2009-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624140549id_/http%3A//www.americansongwriter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americansongwriter.com privacy policy that was archived on 2010-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100929023828id_/http%3A//www.americansongwriter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
+<meta name="google-site-verification" content="K0dZCyll5eHRVjFru-wQtsm45CJjQaHOzx67DgxvDZY">	
 	<title>American Songwriter | Privacy Policy</title>
 		
-	<meta name="generator" content="WordPress 2.6.1"> 
+	<meta name="generator" content="WordPress 2.9.2"> 
 			<meta name="description" content="American Songwriter Magazine">
 	<meta name="keywords" content="American Songwriter Magazine">
 		
@@ -18,11 +18,66 @@
 	<link rel="alternate stylesheet" href="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/css/print-preview.css" type="text/css" media="screen" title="Print Preview">
 		<link rel="stylesheet" href="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/style.css" type="text/css" media="screen" title="default">	
 	<link rel="stylesheet" href="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/css/print.css" type="text/css" media="print">
+	<link rel="stylesheet" href="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/carousel_new.css" type="text/css" media="screen" title="default">
+
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/js/jquery.cycle.all.js"></script>
+	<script type="text/javascript">
+	  $(document).ready(function() {
+	    // This is more like it!
+	    $('#slideshow').cycle({
+		fx:     'fade',
+		speed:  '10',
+		timeout: 0,
+		pager:  '#cnav',
+		pagerAnchorBuilder: function(idx, slide) {
+		    // return sel string for existing anchor
+		    return '#cnav li:eq(' + (idx) + ') a';
+		}
+
+	    });
+	    $('.slideshow2').cycle({
+		fx:     'fade',
+		speed:  '10',
+		timeout: 0,
+		pager:  '.cnav2',
+		pagerAnchorBuilder: function(idx, slide) {
+		    // return sel string for existing anchor
+		    return '.cnav2 li:eq(' + (idx) + ') a';
+		}
+
+	    });
+	 
+	    $('#direct').click(function() {
+		$('#nav li:eq(2) a').triggerHandler('click');
+		return false;
+	    });
+
+		// track clicks
+		/*
+		$('#newContestEntries a img').click(function(eventData) {pageTracker._trackEvent('new song submissions','User Profile', $(this).parent('a').attr("href"));});
+		$('#newContestEntries .title a').click(function(eventData) {pageTracker._trackEvent('new song submissions', 'Song Profile', $(this).attr("href"))});
+		$('#newContestEntries .submittedTo a').click(function(eventData) {pageTracker._trackEvent('new song submissions', 'Contest/Need', $(this).attr("href"))});
+		$('.carouselContainer li a').click(function(){pageTracker._trackEvent('carousel click', window.location.pathname, $(this).attr('href'));});
+		$('map area').click(function(){pageTracker._trackEvent('connect with us',$(this).attr('title'),window.location.pathname);});
+		*/
+		$('#newContestEntries a img').click(function(eventData) {_gaq.push(['_trackEvent','new song submissions','User Profile',$(this).parent('a').attr("href")]);});
+		$('#newContestEntries .title a').click(function(eventData) {_gaq.push(['_trackEvent','new song submissions','Song Profile',$(this).attr("href")])});
+		$('#newContestEntries .submittedTo a').click(function(eventData) {_gaq.push(['_trackEvent','new song submissions','Contest/Need',$(this).attr("href")])});
+		$('.carouselContainer li a').click(function(){_gaq.push(['_trackEvent','carousel click', window.location.pathname, $(this).attr("href")])});
+		$('map area').click(function(){_gaq.push(['_trackEvent','connect with us',$(this).attr("title"), window.location.pathname])});
+	  });
+     function openNewWindow(URLtoOpen, windowName, windowFeatures) {
+         newWindow=window.open(URLtoOpen, windowName, windowFeatures);
+     }
+	</script>
+
 	
 	<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/js/dropdowns.js"></script>
 	<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/js/printPreview.js"></script>	
 	<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/js/commenteditor.js"></script>	
 	<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/js/domtab.js"></script>	
+	<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/js/swfobject.js"></script>
 	
 	<link rel="alternate" type="application/rss+xml" title="American Songwriter RSS Feed" href="http://www.americansongwriter.com/feed/">
 	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.americansongwriter.com/feed/atom/">
@@ -31,40 +86,66 @@
 	<link rel="shortcut icon" href="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/images/favicon.png">
 	
 		
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.americansongwriter.com/xmlrpc.php?rsd">
+
+
+	<link rel="alternate" type="application/rss+xml" title="American Songwriter » Privacy Policy Comments Feed" href="http://www.americansongwriter.com/privacy-policy/feed/">
+<link rel="stylesheet" id="sociable-front-css-css" href="http://www.americansongwriter.com/wp-content/plugins/sociable/sociable.css?ver=2.9.2" type="text/css" media="">
+<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/plugins/wpaudio-mp3-player/sm2/soundmanager2-nodebug-jsmin.js?ver=2.9.2"></script>
+<script type="text/javascript" src="http://www.americansongwriter.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.americansongwriter.com/shop/?shopp_lookup=settings.js&amp;ver=2.9.2"></script>
+<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.0.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.americansongwriter.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.americansongwriter.com/wp-includes/wlwmanifest.xml"> 
-<script type="text/javascript" src="http://www.americansongwriter.com/wp-includes/js/prototype.js?ver=1.6"></script>
-<script type="text/javascript" src="http://www.americansongwriter.com/wp-includes/js/scriptaculous/scriptaculous.js?ver=1.8.0"></script>
-<script type="text/javascript" src="http://www.americansongwriter.com/wp-includes/js/scriptaculous/effects.js?ver=1.8.0"></script>
-<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/plugins/lightbox-2/lightbox.js?ver=2.2"></script>
-<script type="text/javascript" src="http://www.americansongwriter.com/wp-includes/js/jquery/jquery.js?ver=1.2.6"></script>
-<meta name="generator" content="WordPress 2.6.1">
+<link rel="index" title="American Songwriter" href="http://www.americansongwriter.com">
+<meta name="generator" content="WordPress 2.9.2">
+<link rel="canonical" href="http://www.americansongwriter.com/privacy-policy/">
+	<link rel="stylesheet" type="text/css" href="http://www.americansongwriter.com/wp-content/plugins/star-rating-for-reviews/star-rating.css"><style type="text/css">
+.wpa_container {display: inline-block; vertical-align: top; text-align: left; color: inherit;}
+.wpa_container a {text-decoration: none; color: #24f;}
+.wpa_container a:hover {text-decoration: none; color: #02f;}
+.wpa_container, .wpa_container div, .wpa_container span, .wpa_container a {margin: 0; border: 0; padding: 0; font-weight: normal; letter-spacing: normal; line-height: normal;}
+.wpa_container img.wpa_play {width: 16px; height: 14px; margin: 0 5px 0 0; border: 0; padding: 0; vertical-align: baseline; background: #888;}
+.wpa_container span.wpa_text {font-family: Arial, Sans-serif; font-size: 18px; font-weight: bold; letter-spacing: -1px;}
+.wpa_container div.wpa_bar, .wpa_container div.wpa_bar div {height: 5px; font-size: 1px; line-height: 1px; overflow: hidden;}
+.wpa_container div.wpa_bar {display: none; position: relative; margin: 0 0 0 21px; background: #eee;}
+.wpa_container div.wpa_bar div {position: absolute; top: 0px; left: 0px;}
+.wpa_container div.wpa_bar div.wpa_bar_load {width: 0; z-index: 10; background: #ccc;}
+.wpa_container div.wpa_bar div.wpa_bar_position {width: 0; z-index: 11; background: #46f;}
+.wpa_container div.wpa_bar div.wpa_bar_click {width: 100%; z-index: 12; background: transparent; cursor: pointer;}
+.wpa_container div.wpa_sub {display: none; position: relative; margin: 0 0 0 22px; color: #aaa;}
+.wpa_container div.wpa_sub, .wpa_container div.wpa_sub span.wpa_time, .wpa_container div.wpa_sub span.wpa_dl {font-family: Arial, Sans-serif; font-size: 11px;}
+.wpa_container div.wpa_sub a.wpa_dl {position: absolute; top: 0; right: 0;}
+.wpa_container div.wpa_sub span.wpa_dl_info {display: none; position: absolute; top: -130%; left: 105%; border: 1px solid #ddf; padding: 5px; background: #f2f2ff;}
+</style><script type="text/javascript">
+/* <![CDATA[ */
+var wpa_url = 'http://www.americansongwriter.com/wp-content/plugins/wpaudio-mp3-player';
+var wpa_urls = [];
+var wpa_pref_link_mp3 = false;
+/* ]]> */
+</script>	<link rel="alternate" type="application/rss+xml" title="American Songwriter New Products RSS Feed" href="http://www.americansongwriter.com/shop/feed/">
+	<link rel="stylesheet" href="http://www.americansongwriter.com/shop/?shopp_lookup=catalog.css&amp;ver=1.0.6" type="text/css">
+		<link rel="stylesheet" href="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/shopp/shopp.css?ver=1.0.6" type="text/css">
+		<link rel="stylesheet" href="http://www.americansongwriter.com/wp-content/plugins/shopp/core/ui/styles/thickbox.css?ver=1.0.6" type="text/css">
+		<!-- Google Analytics Tracking by Google Analyticator 6.0.2: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5740926-1']);
+	_gaq.push(['_trackPageview']);
 
-<!-- Google Analytics Tracking by Google Analyticator: http://cavemonkey50.com/code/google-analyticator/ -->
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-	<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-5740926-1");
-		pageTracker._initData();
-		pageTracker._trackPageview();
-	</script>
-
-	<!-- begin lightbox scripts -->
-	<script type="text/javascript">
-    //<![CDATA[
-    document.write('<link rel="stylesheet" href="http://www.americansongwriter.com/wp-content/plugins/lightbox-2/Themes/Black/lightbox.css" type="text/css" media="screen" />');
-    //]]>
-    </script><link rel="stylesheet" href="http://www.americansongwriter.com/wp-content/plugins/lightbox-2/Themes/Black/lightbox.css" type="text/css" media="screen">
-	<!-- end lightbox scripts -->
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.americansongwriter.com/wp-content/plugins/sociable/sociable.css">
-	<link rel="stylesheet" type="text/css" href="http://www.americansongwriter.com/wp-content/plugins/star-rating-for-reviews/star-rating.css">	<link rel="shortcut icon" href="favicon.png">
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
 	
-	<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/js/jquery.jcarousel.pack.js"></script>
+
 	<script type="text/javascript">
-if (window == window.top) {
+/*if (window == window.top) {
 	jQuery(document).ready(function() {
 		jQuery('#mycarousel').jcarousel({
 			auto: 3.5,
@@ -72,8 +153,8 @@ if (window == window.top) {
 			initCallback: mycarousel_initCallback
 		});
 	});
-}
-	function mycarousel_initCallback(carousel)
+}*/
+	/*function mycarousel_initCallback(carousel)
 	{
 		// Disable autoscrolling if the user clicks the prev or next button.
 		carousel.buttonNext.bind('click', function() {
@@ -90,25 +171,37 @@ if (window == window.top) {
 		}, function() {
 			carousel.startAuto();
 		});
-	};
+	};*/
 	
-
 	</script>
 
 
+<!--[if IE]>
+	<style type="text/css">
+          .lowerTitle {
+	border-right: 90px !important;
+	</style>
+<![endif]--> 
+<meta name="google-site-verification" content="K0dZCyll5eHRVjFru-wQtsm45CJjQaHOzx67DgxvDZY">
+
 </head>
 
-<body class="page-privacy-policy" id="interior" <div="">
+<body class="page-privacy-policy" id="interior">
+<div id="printMessage"></div>
 
 <div id="upperNavContainer">
 <div id="upperNavWrapper">
 <ul id="upperNav">
 <li><a href="http://www.americansongwriter.com/">HOME</a></li> 
 <li><a href="http://www.americansongwriter.com/archives/" title="Archives">Archives</a></li>
+<li><a href="http://www.americansongwriter.com/artist-directory/" title="Artist Directory">Artist Directory</a></li>
 <li><a href="http://www.americansongwriter.com/lyric-contest/all-contests/">Contests</a></li>
-<li><a href="http://www.americansongwriter.com/sign-up-for-our-emails/">JOIN OUR MAILING LIST</a></li>
-<li><a href="http://www.americansongwriterstore.com/" title="The ONLY place to buy the current edition, back issues, T-shirts, cups, and other American Songwriter Approved goodies. ALL orders come with FREE SHIPPING!!" target="_blank">Store</a></li>
-<li><a href="http://store.americansongwriter.com/Merchant2/merchant.mvc" title="Subscribe to American Songwriter Magazine" target="_blank">Subscribe</a></li>
+<li><a href="http://www.americansongwriter.com/sign-up-for-our-emails/">NEWSLETTER SIGN-UP</a></li>
+<span class="redLinks"><li><a href="http://www.americansongwriter.com/shop/" title="Shop our Store">SHOP</a></li>
+<li><a href="http://www.americansongspace.com/renew/" title="Renew">RENEWAL</a></li>
+<li><a href="http://www.americansongspace.com/gift/" title="Give A Gift Subscription">GIFT</a></li>
+<li><a href="http://www.americansongspace.com/subscribe/" title="Subscribe">JOIN</a></li>
+</span>
 </ul>
 </div>
 </div>
@@ -119,7 +212,7 @@ if (window == window.top) {
 
 			<a id="logo" href="http://www.americansongwriter.com" title="Back Home"></a>
 	    
-    
+	    
     <div id="openX_Header">
 <!--HEADER AD ZONE-->    
 <script type="text/javascript"><!--//<![CDATA[
@@ -140,7 +233,7 @@ if (window == window.top) {
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=26&amp;cb=5969836284&amp;loc=https%3A//web.archive.org/web/20090624140549id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=aafde836&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=12&amp;cb=%n&amp;n=aafde836&amp;ct0=%c' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=26&amp;cb=62115309151&amp;loc=https%3A//web.archive.org/web/20100929023828id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=aafde836&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=26&amp;cb=%n&amp;n=aafde836&amp;ct0=%c' border='0' alt='' /></a></noscript>
 <!--END HEADER AD ZONE-->   
     </div>
     
@@ -153,124 +246,97 @@ if (window == window.top) {
 <div id="navbarContainer">
 
 <ul id="nav" class="left clearfloat">
-<li><a href="http://www.americansongwriter.com/">HOME</a></li> 
-	<li class="cat-item cat-item-6"><a href="http://www.americansongwriter.com/category/stories/" title="View all posts filed under STORIES">STORIES</a>
+	<li class="cat-item cat-item-3520"><a href="http://www.americansongwriter.com/category/craft/" title="View all posts filed under CRAFT">CRAFT</a>
 <ul class="children">
-	<li class="cat-item cat-item-7"><a href="http://www.americansongwriter.com/category/stories/long-features/" title="View all posts filed under Long Features">Long Features</a>
+	<li class="cat-item cat-item-3523"><a href="http://www.americansongwriter.com/category/craft/behind-the-song-craft/" title="View all posts filed under Behind the Song">Behind the Song</a>
 </li>
-	<li class="cat-item cat-item-8"><a href="http://www.americansongwriter.com/category/stories/interviews/" title="View all posts filed under Interviews">Interviews</a>
+	<li class="cat-item cat-item-3521"><a href="http://www.americansongwriter.com/category/craft/features-craft/" title="View all posts filed under Features">Features</a>
 </li>
-	<li class="cat-item cat-item-9"><a href="http://www.americansongwriter.com/category/stories/portraits/" title="View all posts filed under Portraits">Portraits</a>
+	<li class="cat-item cat-item-3524"><a href="http://www.americansongwriter.com/category/craft/interactive/" title="View all posts filed under Interactive">Interactive</a>
+</li>
+	<li class="cat-item cat-item-3525"><a href="http://www.americansongwriter.com/category/craft/lyric-of-the-week-craft/" title="View all posts filed under Lyric of the Week">Lyric of the Week</a>
+</li>
+	<li class="cat-item cat-item-3522"><a href="http://www.americansongwriter.com/category/craft/qas/" title="View all posts filed under Q&amp;As">Q&amp;As</a>
 </li>
 </ul>
 </li>
-	<li class="cat-item cat-item-10"><a href="http://www.americansongwriter.com/category/sections/" title="View all posts filed under SECTIONS">SECTIONS</a>
+	<li class="cat-item cat-item-1141"><a href="http://www.americansongwriter.com/category/music/" title="View all posts filed under MUSIC">MUSIC</a>
 <ul class="children">
-	<li class="cat-item cat-item-11"><a href="http://www.americansongwriter.com/category/sections/blogs/" title="View all posts filed under Blogs">Blogs</a>
+	<li class="cat-item cat-item-3528"><a href="http://www.americansongwriter.com/category/music/live-music-2/" title="View all posts filed under Live">Live</a>
 </li>
-	<li class="cat-item cat-item-12"><a href="http://www.americansongwriter.com/category/sections/business/" title="View all posts filed under Business">Business</a>
+	<li class="cat-item cat-item-3526"><a href="http://www.americansongwriter.com/category/music/news/" title="View all posts filed under News">News</a>
 </li>
-	<li class="cat-item cat-item-13"><a href="http://www.americansongwriter.com/category/sections/culture/" title="View all posts filed under Culture">Culture</a>
+	<li class="cat-item cat-item-3527"><a href="http://www.americansongwriter.com/category/music/reviews-music/" title="View all posts filed under Reviews">Reviews</a>
 </li>
-	<li class="cat-item cat-item-14"><a href="http://www.americansongwriter.com/category/sections/education/" title="View all posts filed under Education">Education</a>
+	<li class="cat-item cat-item-3529"><a href="http://www.americansongwriter.com/category/music/shutter-music/" title="View all posts filed under Shutter">Shutter</a>
 </li>
-	<li class="cat-item cat-item-15"><a href="http://www.americansongwriter.com/category/sections/gear/" title="View all posts filed under Gear">Gear</a>
-</li>
-	<li class="cat-item cat-item-16"><a href="http://www.americansongwriter.com/category/sections/music-news/" title="View all posts filed under Music News">Music News</a>
-</li>
-	<li class="cat-item cat-item-17"><a href="http://www.americansongwriter.com/category/sections/opinion/" title="View all posts filed under Opinion">Opinion</a>
-</li>
-	<li class="cat-item cat-item-18"><a href="http://www.americansongwriter.com/category/sections/photos/" title="View all posts filed under Photos">Photos</a>
-</li>
-	<li class="cat-item cat-item-19"><a href="http://www.americansongwriter.com/category/sections/writer-of-the-week/" title="View all posts filed under Writer of the Week">Writer of the Week</a>
-</li>
-	<li class="cat-item cat-item-20"><a href="http://www.americansongwriter.com/category/sections/industry-of-the-week/" title="View all posts filed under Industry of the Week">Industry of the Week</a>
-</li>
-	<li class="cat-item cat-item-1792"><a href="http://www.americansongwriter.com/category/sections/lyric-of-the-week-sections/" title="View all posts filed under Lyric of the Week">Lyric of the Week</a>
+	<li class="cat-item cat-item-3530"><a href="http://www.americansongwriter.com/category/music/writer-of-the-week-music/" title="View all posts filed under Writer of the Week">Writer of the Week</a>
 </li>
 </ul>
 </li>
-	<li class="cat-item cat-item-22"><a href="http://www.americansongwriter.com/category/reviews/" title="View all posts filed under REVIEWS">REVIEWS</a>
+	<li class="cat-item cat-item-925"><a href="http://www.americansongwriter.com/category/music-business/" title="View all posts filed under BIZ">BIZ</a>
 <ul class="children">
-	<li class="cat-item cat-item-23"><a href="http://www.americansongwriter.com/category/reviews/new-releases/" title="View all posts filed under New Releases">New Releases</a>
+	<li class="cat-item cat-item-3533"><a href="http://www.americansongwriter.com/category/music-business/concerts-music-promotion-music-business/" title="View all posts filed under Concerts and Promotion">Concerts and Promotion</a>
 </li>
-	<li class="cat-item cat-item-26"><a href="http://www.americansongwriter.com/category/reviews/gear-reviews-2/" title="View all posts filed under Gear">Gear</a>
+	<li class="cat-item cat-item-3536"><a href="http://www.americansongwriter.com/category/music-business/industry-of-the-week-music-business/" title="View all posts filed under Industry of the Week">Industry of the Week</a>
 </li>
-	<li class="cat-item cat-item-31"><a href="http://www.americansongwriter.com/category/reviews/dvds/" title="View all posts filed under DVDs">DVDs</a>
+	<li class="cat-item cat-item-3531"><a href="http://www.americansongwriter.com/category/music-business/record-labels-music-business/" title="View all posts filed under Labels">Labels</a>
 </li>
-	<li class="cat-item cat-item-87"><a href="http://www.americansongwriter.com/category/reviews/reissues/" title="View all posts filed under Reissues">Reissues</a>
+	<li class="cat-item cat-item-3535"><a href="http://www.americansongwriter.com/category/music-business/music-licensing/" title="View all posts filed under Licensing">Licensing</a>
 </li>
-	<li class="cat-item cat-item-88"><a href="http://www.americansongwriter.com/category/reviews/books/" title="View all posts filed under Books">Books</a>
+	<li class="cat-item cat-item-3534"><a href="http://www.americansongwriter.com/category/music-business/new-media/" title="View all posts filed under New Media">New Media</a>
 </li>
-	<li class="cat-item cat-item-502"><a href="http://www.americansongwriter.com/category/reviews/classic-albums/" title="View all posts filed under Classic Albums">Classic Albums</a>
-</li>
-	<li class="cat-item cat-item-1412"><a href="http://www.americansongwriter.com/category/reviews/concert-reviews/" title="View all posts filed under Concert Reviews">Concert Reviews</a>
+	<li class="cat-item cat-item-3532"><a href="http://www.americansongwriter.com/category/music-business/music-publishing-music-business/" title="View all posts filed under Publishing">Publishing</a>
 </li>
 </ul>
 </li>
-	<li class="cat-item cat-item-32"><a href="http://www.americansongwriter.com/category/genres/" title="View all posts filed under GENRES">GENRES</a>
+	<li class="cat-item cat-item-3573"><a href="http://www.americansongwriter.com/category/tech/" title="View all posts filed under TECH">TECH</a>
 <ul class="children">
-	<li class="cat-item cat-item-34"><a href="http://www.americansongwriter.com/category/genres/indie/" title="View all posts filed under Indie">Indie</a>
+	<li class="cat-item cat-item-3540"><a href="http://www.americansongwriter.com/category/tech/how-to/" title="View all posts filed under How-to">How-to</a>
 </li>
-	<li class="cat-item cat-item-36"><a href="http://www.americansongwriter.com/category/genres/alternative/" title="View all posts filed under Alternative">Alternative</a>
+	<li class="cat-item cat-item-3537"><a href="http://www.americansongwriter.com/category/tech/music-instruments/" title="View all posts filed under Musical Instruments">Musical Instruments</a>
 </li>
-	<li class="cat-item cat-item-37"><a href="http://www.americansongwriter.com/category/genres/bluegrass/" title="View all posts filed under Bluegrass">Bluegrass</a>
-</li>
-	<li class="cat-item cat-item-38"><a href="http://www.americansongwriter.com/category/genres/blues/" title="View all posts filed under Blues">Blues</a>
-</li>
-	<li class="cat-item cat-item-39"><a href="http://www.americansongwriter.com/category/genres/country/" title="View all posts filed under Country">Country</a>
-</li>
-	<li class="cat-item cat-item-40"><a href="http://www.americansongwriter.com/category/genres/christian/" title="View all posts filed under Christian">Christian</a>
-</li>
-	<li class="cat-item cat-item-42"><a href="http://www.americansongwriter.com/category/genres/folk/" title="View all posts filed under Folk">Folk</a>
-</li>
-	<li class="cat-item cat-item-43"><a href="http://www.americansongwriter.com/category/genres/jazz/" title="View all posts filed under Jazz">Jazz</a>
-</li>
-	<li class="cat-item cat-item-44"><a href="http://www.americansongwriter.com/category/genres/jambandgroove/" title="View all posts filed under Jamband/Groove">Jamband/Groove</a>
-</li>
-	<li class="cat-item cat-item-45"><a href="http://www.americansongwriter.com/category/genres/pop/" title="View all posts filed under Pop">Pop</a>
-</li>
-	<li class="cat-item cat-item-46"><a href="http://www.americansongwriter.com/category/genres/punk/" title="View all posts filed under Punk">Punk</a>
-</li>
-	<li class="cat-item cat-item-47"><a href="http://www.americansongwriter.com/category/genres/r-b/" title="View all posts filed under R &amp; B">R &amp; B</a>
-</li>
-	<li class="cat-item cat-item-48"><a href="http://www.americansongwriter.com/category/genres/rock/" title="View all posts filed under Rock">Rock</a>
-</li>
-	<li class="cat-item cat-item-49"><a href="http://www.americansongwriter.com/category/genres/roots/" title="View all posts filed under Roots">Roots</a>
-</li>
-	<li class="cat-item cat-item-50"><a href="http://www.americansongwriter.com/category/genres/singersongwriter/" title="View all posts filed under Singer/Songwriter">Singer/Songwriter</a>
-</li>
-	<li class="cat-item cat-item-51"><a href="http://www.americansongwriter.com/category/genres/soul/" title="View all posts filed under Soul">Soul</a>
-</li>
-	<li class="cat-item cat-item-52"><a href="http://www.americansongwriter.com/category/genres/traditional/" title="View all posts filed under Traditional">Traditional</a>
-</li>
-	<li class="cat-item cat-item-53"><a href="http://www.americansongwriter.com/category/genres/urbanhip-hop/" title="View all posts filed under Urban/Hip-Hop">Urban/Hip-Hop</a>
+	<li class="cat-item cat-item-3539"><a href="http://www.americansongwriter.com/category/tech/music-recording/" title="View all posts filed under Recording">Recording</a>
 </li>
 </ul>
 </li>
 <li class="page_item page-item-2889"><a href="http://www.americansongwriter.com/lyric-contest/" title="LYRIC CONTEST">LYRIC CONTEST</a>
 <ul>
 	<li class="page_item page-item-7168"><a href="http://www.americansongwriter.com/lyric-contest/all-contests/" title="All Contests">All Contests</a></li>
-	<li class="page_item page-item-3003"><a href="http://www.americansongwriter.com/lyric-contest/winners/" title="Current Winners">Current Winners</a></li>
+	<li class="page_item page-item-28584"><a href="http://www.americansongwriter.com/lyric-contest/current-winners/" title="Current Winners">Current Winners</a></li>
 	<li class="page_item page-item-3000"><a href="http://www.americansongwriter.com/lyric-contest/enter/" title="Enter">Enter</a></li>
 	<li class="page_item page-item-3036"><a href="http://www.americansongwriter.com/lyric-contest/lyric-spotlight/" title="Lyric Spotlight">Lyric Spotlight</a></li>
+	<li class="page_item page-item-7131"><a href="http://www.americansongwriter.com/lyric-contest/past-winners/" title="Past Winners">Past Winners</a></li>
 	<li class="page_item page-item-3040"><a href="http://www.americansongwriter.com/lyric-contest/lyric-rules-and-deadlines/" title="Rules and Deadlines">Rules and Deadlines</a></li>
 </ul>
 </li>
 <li class="page_item page-item-1682"><a href="http://www.americansongwriter.com/current-issue/" title="MAGAZINE">MAGAZINE</a></li>
-<!--<li ><a href="http://www.americansongwriter.com/current-issue">MAGAZINE</a></li>-->
-
-
-
-
-
-
+	<li class="cat-item cat-item-3538"><a href="http://www.americansongwriter.com/category/live-sessions/" title="View all posts filed under SESSIONS">SESSIONS</a>
+</li>
+	<li class="cat-item cat-item-3543"><a href="http://www.americansongwriter.com/category/blogz/" title="View all posts filed under BLOGS">BLOGS</a>
+<ul class="children">
+	<li class="cat-item cat-item-3544"><a href="http://www.americansongwriter.com/category/blogz/evan-schlansky/" title="View all posts filed under Evan Schlansky">Evan Schlansky</a>
+</li>
+	<li class="cat-item cat-item-3545"><a href="http://www.americansongwriter.com/category/blogz/paul-zollo-blogz/" title="View all posts filed under Paul Zollo">Paul Zollo</a>
+</li>
+	<li class="cat-item cat-item-3546"><a href="http://www.americansongwriter.com/category/blogz/holly-gleason/" title="View all posts filed under Holly Gleason">Holly Gleason</a>
+</li>
+	<li class="cat-item cat-item-3547"><a href="http://www.americansongwriter.com/category/blogz/mike-king/" title="View all posts filed under Mike King">Mike King</a>
+</li>
+	<li class="cat-item cat-item-3548"><a href="http://www.americansongwriter.com/category/blogz/david-mead/" title="View all posts filed under David Mead">David Mead</a>
+</li>
+	<li class="cat-item cat-item-5229"><a href="http://www.americansongwriter.com/category/blogz/drinks-with-blogz/" title="Drinks With">Drinks With</a>
+</li>
+</ul>
+</li>
+<li class="navJoin">
+	<a title="JOIN American Songwriter Magazine" href="http://www.americansongspace.com/subscribe/">JOIN</a>
+</li>
 </ul>
 
-<form method="get" id="searchform" class="right" action="http://www.americansongwriter.com/">
-<div><input type="text" value="" name="s" id="s">
-<input type="image" src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/images/magnify.gif" id="searchsubmit">
-</div>
+<form id="simplesearch" method="get" action="http://www.americansongwriter.com/">
+	<input type="text" size="20" onblur="if(this.value==''){this.value='Search'};" onfocus="if(this.value=='Search'){this.value=''};" value="Search" class="simplesearchbox" name="s">
+	<div class="simpleSearchSubmit" onclick="document.forms[&quot;simplesearch&quot;].submit();">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 </form>
 
 </div><!--END NAVBAR CONTAINER-->
@@ -325,29 +391,29 @@ if (window == window.top) {
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=32&amp;cb=2665088176&amp;loc=https%3A//web.archive.org/web/20090624140549id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=aafde836&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=12&amp;cb=%n&amp;n=aafde836&amp;ct0=%c' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=32&amp;cb=77148950838&amp;loc=https%3A//web.archive.org/web/20100929023828id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=aafde836&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=12&amp;cb=%n&amp;n=aafde836&amp;ct0=%c' border='0' alt='' /></a></noscript>
 <!--END Article Tools AD ZONE-->  
 				</div>
 				<span id="sponsored"></span>
 				
 				
 <div class="sociable">
-<div class="sociable_tagline">
 
-</div>
 <ul>
-	<li><a rel="nofollow" target="_blank" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" title="del.icio.us"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/delicious.png" title="del.icio.us" alt="del.icio.us" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" title="Digg"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/digg.png" title="Digg" alt="Digg" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" title="Facebook"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/facebook.png" title="Facebook" alt="Facebook" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" title="Google"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/googlebookmark.png" title="Google" alt="Google" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" title="StumbleUpon"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/stumbleupon.png" title="StumbleUpon" alt="StumbleUpon" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://technorati.com/faves?add=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F" title="Technorati"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/technorati.png" title="Technorati" alt="Technorati" class="sociable-hovers"></a></li>
-	<li><a rel="nofollow" target="_blank" href="mailto:?subject=Privacy%20Policy&amp;body=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F" title="E-mail this story to a friend!"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/email_link.png" title="E-mail this story to a friend!" alt="E-mail this story to a friend!" class="sociable-hovers"></a></li>
+	<li class="sociablefirst"><a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;notes=PRIVACY%20POLICY%0D%0A%0D%0AAt%20American%20Songwriter%2C%20LLC%20%28%22American%20Songwriter%22%29%20we%20are%20committed%20to%20respecting%20and%20protecting%20your%20privacy.%20This%20statement%20explains%20how%20American%20Songwriter%20utilizes%20the%20personally%20identifiable%20information%20you%20provide%20online%20thro" title="del.icio.us"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="del.icio.us" alt="del.icio.us" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-199px -1px" class="sociable-hovers"></a></li>
+	<li><a rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;bodytext=PRIVACY%20POLICY%0D%0A%0D%0AAt%20American%20Songwriter%2C%20LLC%20%28%22American%20Songwriter%22%29%20we%20are%20committed%20to%20respecting%20and%20protecting%20your%20privacy.%20This%20statement%20explains%20how%20American%20Songwriter%20utilizes%20the%20personally%20identifiable%20information%20you%20provide%20online%20thro" title="Digg"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="Digg" alt="Digg" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-235px -1px" class="sociable-hovers"></a></li>
+	<li><a rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" title="Facebook"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="Facebook" alt="Facebook" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-343px -1px" class="sociable-hovers"></a></li>
+	<li><a rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;annotation=PRIVACY%20POLICY%0D%0A%0D%0AAt%20American%20Songwriter%2C%20LLC%20%28%22American%20Songwriter%22%29%20we%20are%20committed%20to%20respecting%20and%20protecting%20your%20privacy.%20This%20statement%20explains%20how%20American%20Songwriter%20utilizes%20the%20personally%20identifiable%20information%20you%20provide%20online%20thro" title="Google Bookmarks"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="Google Bookmarks" alt="Google Bookmarks" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-91px -19px" class="sociable-hovers"></a></li>
+	<li><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" title="StumbleUpon"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="StumbleUpon" alt="StumbleUpon" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-217px -55px" class="sociable-hovers"></a></li>
+	<li><a rel="nofollow" target="_blank" href="http://technorati.com/faves?add=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F" title="Technorati"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="Technorati" alt="Technorati" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-271px -55px" class="sociable-hovers"></a></li>
+	<li><a rel="nofollow" target="_blank" href="mailto:?subject=Privacy%20Policy&amp;body=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F" title="email"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="email" alt="email" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-325px -1px" class="sociable-hovers"></a></li>
+	<li><a rel="nofollow" target="_blank" href="http://buzz.yahoo.com/submit/?submitUrl=http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F&amp;submitHeadline=Privacy%20Policy&amp;submitSummary=PRIVACY%20POLICY%0D%0A%0D%0AAt%20American%20Songwriter%2C%20LLC%20%28%22American%20Songwriter%22%29%20we%20are%20committed%20to%20respecting%20and%20protecting%20your%20privacy.%20This%20statement%20explains%20how%20American%20Songwriter%20utilizes%20the%20personally%20identifiable%20information%20you%20provide%20online%20thro&amp;submitCategory=science&amp;submitAssetType=text" title="Yahoo! Buzz"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="Yahoo! Buzz" alt="Yahoo! Buzz" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-127px -73px" class="sociable-hovers"></a></li>
+	<li class="sociablelast"><a rel="nofollow" target="_blank" href="http://twitter.com/home?status=Privacy%20Policy%20-%20http%3A%2F%2Fwww.americansongwriter.com%2Fprivacy-policy%2F" title="Twitter"><img src="http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.gif" title="Twitter" alt="Twitter" style="width: 16px; height: 16px; background: transparent url(http://www.americansongwriter.com/wp-content/plugins/sociable/images/services-sprite.png) no-repeat; background-position:-343px -55px" class="sociable-hovers"></a></li>
 </ul>
 </div>
 				<div class="clearAll"></div>
 				<p style="text-align: center;">PRIVACY POLICY</p>
-<p>At American Songwriter, LLC (”American Songwriter”) we are committed to respecting and protecting your privacy. This statement explains how American Songwriter utilizes the personally identifiable information you provide online throughout the Americansongwriter.com Website (the “Website”) that is shared with us by Remarkable Wit, the host of the Website. The collection and use of your personally identifiable information by Remarkable Wit is governed by Remarkable Wit’s privacy policy that can be found at www.remarkablewit.com. Please visit Remarkable Wit’s privacy policy in order to understand its privacy and data collection practices.</p>
+<p>At American Songwriter, LLC (“American Songwriter”) we are committed to respecting and protecting your privacy. This statement explains how American Songwriter utilizes the personally identifiable information you provide online throughout the Americansongwriter.com Website (the “Website”) that is shared with us by Remarkable Wit, the host of the Website. The collection and use of your personally identifiable information by Remarkable Wit is governed by Remarkable Wit’s privacy policy that can be found at www.remarkablewit.com. Please visit Remarkable Wit’s privacy policy in order to understand its privacy and data collection practices.</p>
 <p>This Privacy Policy is provided to make you aware of American Songwriter’s privacy policy and practices.</p>
 <p>The current version of this Privacy Policy is dated November 12, 2008.</p>
 <p>1. What Information We Use and How We Use It: We use personal identifiable information that is collected through Americansongwriter.com, such as name and email address, so that we have a way to communicate with you regarding American Songwriter’s products and offerings, to process your orders and to present the content on Americansongwriter.com. The information is used to better understand your needs and provide you with better products and service; it is also used to ask you to participate in surveys about products, services, news and events and to provide you with targeted advertising, promotions, special offers and our products and services. American Songwriter does not sell or rent your submitted information to third parties for marketing purposes.</p>
@@ -395,7 +461,7 @@ if (window == window.top) {
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=32&amp;cb=371014373&amp;loc=https%3A//web.archive.org/web/20090624140549id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=aafde836&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=12&amp;cb=%n&amp;n=aafde836&amp;ct0=%c' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=32&amp;cb=35990312477&amp;loc=https%3A//web.archive.org/web/20100929023828id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=aafde836&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=12&amp;cb=%n&amp;n=aafde836&amp;ct0=%c' border='0' alt='' /></a></noscript>
 <!--END Lyric Contest Sponsored AD ZONE-->  	  	
 			</div>
 	  
@@ -453,13 +519,8 @@ if (window == window.top) {
 		
 		</div><!--END CONTENT-->
 
-		<div id="ads">
+<div id="ads">
 <div class="whitebox">
-
-
-
-
-
 
 <script type="text/javascript"><!--//<![CDATA[
    document.MAX_ct0 ='%c';
@@ -479,37 +540,30 @@ if (window == window.top) {
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=28&amp;cb=92310679841&amp;loc=https%3A//web.archive.org/web/20090624140549id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=a28fb57d&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=29&amp;cb=%n&amp;n=a28fb57d&amp;ct0=%c' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=28&amp;cb=49069978068&amp;loc=https%3A//web.archive.org/web/20100929023828id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=a28fb57d&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=28&amp;cb=%n&amp;n=a28fb57d&amp;ct0=%c' border='0' alt='' /></a></noscript>
+
+<br> <br>
 
 
 
-<br>
-<br>
-
-<script type="text/javascript"><!--//<![CDATA[
-   document.MAX_ct0 ='%c';
-
-   var m3_u = (location.protocol=='https:'?'https://openx.americansongspace.com/www/delivery/ajs.php':'http://openx.americansongspace.com/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=27");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=27&amp;cb=56545694273&amp;loc=https%3A//web.archive.org/web/20090624140549id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=a28fb57d&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=29&amp;cb=%n&amp;n=a28fb57d&amp;ct0=%c' border='0' alt='' /></a></noscript>
+	<img src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/images/songspacesongs.jpg" class="dropshadowHeader" alt="">
+	<div id="newMusic">
+		<a href="http://www.adobe.com/go/getflashplayer" target="_blank" border="0">
+			<img src="http://www.americansongspace.com/system/application/assets/images/160x41_Get_Flash_Player.jpg" alt="getflash">
+		</a>
+	</div>
+    <script type="text/javascript">
+	var flashvars = {};
+	var params = {}
+	params.bgcolor='#ffffff';
+	params.quality='high';
+	params.allowScriptAccess='always';
+    swfobject.embedSWF("http://www.americansongspace.com/system/application/assets/flash/asw-newMusic.swf", "newMusic", "300", "265", "8", '', flashvars, params);
+    </script>
 
 
 
-<br>
-<br>
+<br> <br>
 
 <script type="text/javascript"><!--//<![CDATA[
    document.MAX_ct0 ='%c';
@@ -529,34 +583,15 @@ if (window == window.top) {
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=29&amp;cb=49448002665&amp;loc=https%3A//web.archive.org/web/20090624140549id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=a28fb57d&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=29&amp;cb=%n&amp;n=a28fb57d&amp;ct0=%c' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://openx.americansongspace.com/www/delivery/ajs.php?zoneid=29&amp;cb=64270764223&amp;loc=https%3A//web.archive.org/web/20100929023828id_/http%253A//www.americansongwriter.com/privacy-policy"></script><noscript><a href='http://openx.americansongspace.com/www/delivery/ck.php?n=a28fb57d&amp;cb=%n' target='_blank'><img src='http://openx.americansongspace.com/www/delivery/avw.php?zoneid=29&amp;cb=%n&amp;n=a28fb57d&amp;ct0=%c' border='0' alt='' /></a></noscript>
 
 
-<!--
-				
-			<a href="">
-			<img src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/ads/ad01.jpg" alt="" />
-			</a>
-		
-						
-			<a href="">
-			<img src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/ads/ad02.jpg" alt="" />
-			</a>
-		
-						
-			<a href="">
-			<img src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/ads/ad03.jpg" alt="" />
-			</a>
-		
-						
-			<a href="">
-			<img src="http://www.americansongwriter.com/wp-content/themes/American_Songwriter/ads/ad01.jpg" alt="" />
-			</a>
-		
-		-->
 
 </div>
-</div></div><!--END FLOATS-->
+</div>
+
+
+</div><!--END FLOATS-->
 
 </div>
 
@@ -570,30 +605,20 @@ if (window == window.top) {
  <h5>Recent <span>Issues</span></h5>
  <ul>
  
-<!--	<li><a href='http://www.americansongwriter.com/2009/06/' title='June 2009'>June 2009</a></li>
-	<li><a href='http://www.americansongwriter.com/2009/05/' title='May 2009'>May 2009</a></li>
-	<li><a href='http://www.americansongwriter.com/2009/04/' title='April 2009'>April 2009</a></li>
-	<li><a href='http://www.americansongwriter.com/2009/03/' title='March 2009'>March 2009</a></li>
-	<li><a href='http://www.americansongwriter.com/2009/02/' title='February 2009'>February 2009</a></li>
-	<li><a href='http://www.americansongwriter.com/2009/01/' title='January 2009'>January 2009</a></li>
-	<li><a href='http://www.americansongwriter.com/2008/12/' title='December 2008'>December 2008</a></li>
-	<li><a href='http://www.americansongwriter.com/2008/11/' title='November 2008'>November 2008</a></li>
--->
-		<li class="cat-item cat-item-2820"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/may-june-2009/" title="May/June 2009">May/June 2009</a>
+<!---->
+		<li class="cat-item cat-item-6387"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/septemberoctober-2010/" title="View all posts filed under September/October 2010">September/October 2010</a>
 </li>
-	<li class="cat-item cat-item-2240"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/march-april-2009/" title="March/April 2009">March/April 2009</a>
+	<li class="cat-item cat-item-5859"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/julyaugust-2010/" title="This month's American Songwriter magazine.">July/August 2010</a>
 </li>
-	<li class="cat-item cat-item-1562"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/january-february-2009/" title="January/February 2009">January/February 2009</a>
+	<li class="cat-item cat-item-5023"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/marchapril-2010/" title="View all posts filed under March/April 2010">March/April 2010</a>
 </li>
-	<li class="cat-item cat-item-232"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/november-december-2008/" title="November/December 2008">November/December 2008</a>
+	<li class="cat-item cat-item-4664"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/januaryfebruary-2010/" title="View all posts filed under January/February 2010">January/February 2010</a>
 </li>
-	<li class="cat-item cat-item-227 current-cat"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/september-october-2008/" title="September/October 2008">September/October 2008</a>
+	<li class="cat-item cat-item-4303"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/novemberdecember-2009/" title="View all posts filed under November/December 2009">November/December 2009</a>
 </li>
-	<li class="cat-item cat-item-29"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/julyaugust-2008/" title="View all posts filed under July/August 2008">July/August 2008</a>
+	<li class="cat-item cat-item-3838"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/septemberoctober-2009/" title="View all posts filed under September/October 2009">September/October 2009</a>
 </li>
-	<li class="cat-item cat-item-236"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/mayjune-2008-american-songwriter-magazine/" title="View all posts filed under May/June 2008">May/June 2008</a>
-</li>
-	<li class="cat-item cat-item-332"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/marchapril-2008-american-songwriter-magazine/" title="View all posts filed under March/April 2008">March/April 2008</a>
+	<li class="cat-item cat-item-3125"><a href="http://www.americansongwriter.com/category/american-songwriter-magazine/july-august-2009/" title="View all posts filed under July/August 2009">July/August 2009</a>
 </li>
 
 </ul>
@@ -603,29 +628,19 @@ if (window == window.top) {
 	<div class="block">
 	<h5>Recent <span>Articles</span></h5>
 	<ul> 
-	<li><a href="http://www.americansongwriter.com/2009/06/the-beatles-in-160-seconds-watch-the-new-rock-band-trailer/" title="The Beatles in 160 Seconds: Watch the New Rock Band Trailer">The Beatles in 160 Seconds: Watch the New Rock Band Trailer</a></li>
-	<li><a href="http://www.americansongwriter.com/2009/06/jay-bennetts-death-ruled-an-accidental-overdose/" title="Jay Bennett’s Death Ruled an Accidental Overdose">Jay Bennett’s Death Ruled an Accidental Overdose</a></li>
-	<li><a href="http://www.americansongwriter.com/2009/06/indigo-girls-with-matt-nathanson-central-park-summerstage-nyc-june-16-2009/" title="Indigo Girls with Matt Nathanson @ Central Park SummerStage, NYC, June 16 2009">Indigo Girls with Matt Nathanson @ Central Park SummerStage, NYC, June 16 2009</a></li>
-	<li><a href="http://www.americansongwriter.com/2009/06/bruce-springsteens-ticketmaster-woes-continue/" title="Bruce Springsteen’s Ticketmaster Woes Continue">Bruce Springsteen’s Ticketmaster Woes Continue</a></li>
-	<li><a href="http://www.americansongwriter.com/2009/06/fender-acoustic-buddy-miller-signature-guitar/" title="Fender Acoustic > Buddy Miller Signature Guitar">Fender Acoustic &gt; Buddy Miller Signature Guitar</a></li>
-	<li><a href="http://www.americansongwriter.com/2009/06/elvis-costello-secret-profane-sugarcane/" title="ELVIS COSTELLO > Secret, Profane &amp; Sugarcane">ELVIS COSTELLO &gt; Secret, Profane &amp; Sugarcane</a></li>
-	<li><a href="http://www.americansongwriter.com/2009/06/the-sounds-crossing-the-rubicon/" title="THE SOUNDS > Crossing the Rubicon">THE SOUNDS &gt; Crossing the Rubicon</a></li>
-	<li><a href="http://www.americansongwriter.com/2009/06/pete-yorn-back-fourth/" title="Pete Yorn > Back &amp; Fourth">Pete Yorn &gt; Back &amp; Fourth</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/phoenix-share-their-songwriting-secrets-in-new-documentary/" title="Phoenix Share Their Songwriting Secrets In New Documentary">Phoenix Share Their Songwriting Secrets In New Documentary</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/junip-fields/" title="Junip: Fields">Junip: Fields</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/of-montreal-with-janelle-monae-cannery-ballroom-nashville-92610/" title="Of Montreal With Janelle Monae, Cannery Ballroom, Nashville, 9/26/10">Of Montreal With Janelle Monae, Cannery Ballroom, Nashville, 9/26/10</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/deerhunter-halycon-digest/" title="Deerhunter: Halycon Digest">Deerhunter: Halycon Digest</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/46323/" title="KT Tunstall: Tiger Suit">KT Tunstall: Tiger Suit</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/next-big-nashville-conference-day-2-what-you-need-to-know/" title="Next BIG Nashville Conference, Day 2: What You Need To Know">Next BIG Nashville Conference, Day 2: What You Need To Know</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/next-big-nashville-spotlight-aquarium-drunkards-saturday-showcase/" title="Next BIG Nashville Spotlight: Aquarium Drunkard’s Saturday Showcase">Next BIG Nashville Spotlight: Aquarium Drunkard’s Saturday Showcase</a></li>
+	<li><a href="http://www.americansongwriter.com/2010/09/sigur-ros-comment-on-suspicious-sigur-ros-soundalikes/" title="Sigur Rós Comment On Suspicious Sigur Rós Soundalikes">Sigur Rós Comment On Suspicious Sigur Rós Soundalikes</a></li>
  
 	</ul>
 	</div>
 	
-<!--	
-<ul>
-<li><strong>richchocaletyovaltine:</strong> <a href="http://www.americansongwriter.com/2009/06/writer-of-the-week-futurebirds/#comment-2231" title="on Writer of the Week: Futurebirds"> &quot;FUTUREBIRDS SUCK!!!...&quot;</a></li>
-<li><strong>Natasha James:</strong> <a href="http://www.americansongwriter.com/2009/06/enter-the-6-pack-songwriting-contest/#comment-2225" title="on Enter the 6-Pack Songwriting Contest"> &quot;how do I enter the songwriting...&quot;</a></li>
-<li><strong>Selina:</strong> <a href="http://www.americansongwriter.com/2009/02/the-american-songwriter-blog-oscars-make-musicals-less-tolerable-than-ever/#comment-2224" title="on The American Songwriter Blog: Oscars Make Musicals Less Tolerable Than Ever "> &quot;I liked it.  If Beyonce really...&quot;</a></li>
-<li><strong>nicole:</strong> <a href="http://www.americansongwriter.com/2009/03/pierce-pettis-american-songspace-songwriting-contest/#comment-2217" title="on Pierce Pettis American Songspace Songwriting Contest"> &quot;hello my name is nicole and i ...&quot;</a></li>
-<li><strong>Andy:</strong> <a href="http://www.americansongwriter.com/2009/06/40th-anniversary-of-the-songwriters-hall-of-fame-awards/#comment-2216" title="on CSN, Bon Jovi Lead Songwriters Hall of Fame Inductees"> &quot;The 1000 dollar a plate the ch...&quot;</a></li>
-<li><strong>Angela:</strong> <a href="http://www.americansongwriter.com/2009/02/top10breakupsongs/#comment-2214" title="on Top Ten Breakup Songs For Valentine's Day: Can You Do Better?"> &quot;Echo...&quot;</a></li>
-<li><strong>jack:</strong> <a href="http://www.americansongwriter.com/2009/06/john-d-loudermilk-veteran-writer-also-works-for-all-songwriters/#comment-2213" title="on JOHN D. LOUDERMILK: Veteran Takes New Songwriters Under His Wing"> &quot;loudermilk kicks ass. great ar...&quot;</a></li>
-<li><strong>Mandi Jimenez:</strong> <a href="http://www.americansongwriter.com/2009/06/enter-the-6-pack-songwriting-contest/#comment-2210" title="on Enter the 6-Pack Songwriting Contest"> &quot;This will be my first song wri...&quot;</a></li>
-</ul>-->
+<!--	-->
 	
 	
 
@@ -634,7 +649,6 @@ if (window == window.top) {
 		<h5>American <span>Songspace</span></h5>
 		<ul>
 		<li><a href="http://www.americansongspace.com/about" target="_blank">About American SongSpace</a></li>
-<li><a href="http://www.americansongspace.com/industry" target="_blank">Industry of the Week</a></li>
 <li><a href="http://www.americansongspace.com/search#fragment-3" target="_blank">Search Industry</a></li>
 <li><a href="http://www.americansongspace.com/search#fragment-2" target="_blank">Search Songs</a></li>
 <li><a href="http://www.americansongspace.com/needs" target="_blank">Search Writer/Industry Needs</a></li>
@@ -666,17 +680,19 @@ if (window == window.top) {
 <li><a href="http://www.americansongwriter.com/about-us">Company</a></li>
 <li><a href="http://www.americansongwriter.com/lyric-contest/all-contests/">Contests</a></li>
 <li><a href="http://www.americansongwriter.com/frequently-asked-questions">FAQ</a></li>
-<li><a href="http://www.americansongwriter.com/marketplace">Marketplace</a></li>
 <li><a href="http://www.americansongwriter.com/privacy-policy">Privacy Policy</a></li>
 <li><a href="http://www.americansongwriter.com/terms-of-use">Terms of Use</a></li>
 </ul>
 </div>
-</div><div id="footer">
+</div>
+<div id="footer">
 
-  
+  <script type="text/javascript" src="http://www.americansongwriter.com/wp-content/plugins/shopp/core/ui/behaviors/thickbox.js?ver=1.0.6"></script>
+<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/plugins/shopp/core/ui/behaviors/shopp.js?ver=1.0.6"></script>
+<script type="text/javascript" src="http://www.americansongwriter.com/wp-content/plugins/wpaudio-mp3-player/wpaudio.js"></script>
  
 
- <div class="left">© 2009 <span class="url fn org">American Songwriter, LLC | powered by <a style=" color:#94D6F7; text-decoration:none" href="http://remarkablewit.com/" target="_blank">R<span style="font-size:16px">W</span></a></span> 
+ <div class="left">© 2010 <span class="url fn org">American Songwriter, LLC | powered by <a style=" color:#94D6F7; text-decoration:none" href="http://remarkablewit.com/" target="_blank">R<span style="font-size:16px">W</span></a></span> 
 
   
 
@@ -699,6 +715,7 @@ Address Line #1</span>, <span class="locality">City</span>, <span class="region"
 <span class="tel">Ph: <span class="value">(555) 555-5555</span></span>
 
 </div>-->
+<br>American Songwriter® and American Songspace® are trademarks registered in the U.S. Patent and Trademark Office.
 </div> 
 
 
