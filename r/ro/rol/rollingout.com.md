@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511013209id_/http%3A//www.rollingout.com/primary.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929164426id_/http%3A//rollingout.com/primary.html) for the most accurate reproduction.*
 
 # rollingout.com Privacy Policy
 
