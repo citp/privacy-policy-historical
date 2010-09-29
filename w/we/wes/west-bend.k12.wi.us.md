@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the west-bend.k12.wi.us privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329044527id_/http%3A//www.west-bend.k12.wi.us/privacy.phtml%3Fsessionid%3D0a2a36b70e65c75e3a67ba0db16cb490) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the west-bend.k12.wi.us privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929044629id_/http%3A//www.west-bend.k12.wi.us/privacy.phtml%3Fsessionid%3D2df01eaa4d02d42377c8d1c772313411) for the most accurate reproduction.*
 
 # West Bend School District
 
