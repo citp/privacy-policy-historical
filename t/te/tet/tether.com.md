@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304234520id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929230107id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tether
 
