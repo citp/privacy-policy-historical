@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004541id_/http%3A//www.redroof.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929023848id_/http%3A//redroof.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Protection Policy & Terms | Your Rights & Personal Information | About Us | Red Roof Inn
 
