@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522223805id_/http%3A//www.lloydstsb-offshore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929182253id_/http%3A//www.lloydstsb-offshore.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Lloyds TSB International
 
