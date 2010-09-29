@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youronlinechoices.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530220713id_/http%3A//www.youronlinechoices.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youronlinechoices.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929103922id_/http%3A//www.youronlinechoices.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Your Online Choices - a guide to online behavioural advertising and online privacy
 
