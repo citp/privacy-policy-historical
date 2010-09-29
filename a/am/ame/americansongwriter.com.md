@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansongwriter.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624140549id_/http%3A//www.americansongwriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansongwriter.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929023828id_/http%3A//www.americansongwriter.com/privacy-policy) for the most accurate reproduction.*
 
 # American Songwriter | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 PRIVACY POLICY
 
-At American Songwriter, LLC (”American Songwriter”) we are committed to respecting and protecting your privacy. This statement explains how American Songwriter utilizes the personally identifiable information you provide online throughout the Americansongwriter.com Website (the “Website”) that is shared with us by Remarkable Wit, the host of the Website. The collection and use of your personally identifiable information by Remarkable Wit is governed by Remarkable Wit’s privacy policy that can be found at www.remarkablewit.com. Please visit Remarkable Wit’s privacy policy in order to understand its privacy and data collection practices.
+At American Songwriter, LLC (“American Songwriter”) we are committed to respecting and protecting your privacy. This statement explains how American Songwriter utilizes the personally identifiable information you provide online throughout the Americansongwriter.com Website (the “Website”) that is shared with us by Remarkable Wit, the host of the Website. The collection and use of your personally identifiable information by Remarkable Wit is governed by Remarkable Wit’s privacy policy that can be found at www.remarkablewit.com. Please visit Remarkable Wit’s privacy policy in order to understand its privacy and data collection practices.
 
 This Privacy Policy is provided to make you aware of American Songwriter’s privacy policy and practices.
 
