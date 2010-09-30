@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628014441id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930093207id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Buy sell advertise second hand hifi & home theatre equipment
 
