@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couponsforzipcodes.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629090112id_/http%3A//couponsforzipcodes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsforzipcodes.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930091430id_/http%3A//www.couponsforzipcodes.com/privacy.html) for the most accurate reproduction.*
 
-# Free Online Coupons, Coupon Codes, promotional coupon codes - Couponsforzipcodes.com
+# Free Online Coupons Code | Online Discount Promo Coupon Codes | Promotional Coupon Codes | Buy Discount Coupon Codes
 
 ### Privacy Policy
 
-Couponsforzipcodes.com respects your right to privacy and anonymity on the web. We created this privacy policy to inform you of the steps we take to protect your personal information, how we use and protect any personal information you choose to share with us by entering our website. This policy may change from time to time, so please check back periodically. This privacy policy applies to the entire [Couponsforzipcodes.com](http://www.couponsforzipcodes.com/) web site. We assure you that should we ask you to provide us with any personal or identifying information, such information will only be used in a manner specified in this privacy statement. This privacy policy will tell you: 
+Couponsforzipcodes.com respects your right to privacy and anonymity on the web. We created this privacy policy to inform you of the steps we take to protect your personal information, how we use and protect any personal information you choose to share with us by entering our website. This policy may change from time to time, so please check back periodically. This privacy policy applies to the entire [www.couponsforzipcodes.com](http://www.couponsforzipcodes.com/) web site. We assure you that should we ask you to provide us with any personal or identifying information, such information will only be used in a manner specified in this privacy statement. This privacy policy will tell you: 
 
 What information we collect.
 
@@ -73,4 +73,4 @@ We recognize the particular importance of protecting privacy where children are 
 
 We will never request your User name, Password, Credit card information or other Personal information through e-mail. If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. This policy describes the personal information that we collect from our customers, why we collect it, and how we use it. If you have any questions regarding our privacy policy, you can contact the Company via e-mail at [info@couponsforzipcodes.com](mailto:info@couponsforzipcodes.com)
 
- 
+Couponsforzipcodes.com is the one stop Portal destination for free online Discount coupon codes, Promotional coupon codes, discount coupon codes, Grocery coupons, Travel Offers, Free Shipping, Manufacturer / Store rebates, Bargain / Discount Shopping deals to save money for all online shoppers. We do best bargain hunting for you and We constantly receive and update our site with new Discount coupons from thousand of stores every day. We strive to turn your shopping into a real fun. Please View our Privacy Policy. 
