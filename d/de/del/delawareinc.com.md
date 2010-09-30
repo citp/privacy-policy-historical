@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delawareinc.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317074949id_/http%3A//www.delawareinc.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delawareinc.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930145856id_/https%3A//www.delawareinc.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy - Incorporate your Delaware Corporation or LLC TODAY with Harvard Business Services
 
