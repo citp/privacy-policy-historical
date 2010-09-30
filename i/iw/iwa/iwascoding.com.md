@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwascoding.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602083804id_/http%3A//www.iwascoding.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwascoding.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930061834id_/http%3A//www.iwascoding.com/privacypolicy) for the most accurate reproduction.*
 
 # iwascoding - Excellent Mac & iPhone Software Development
 
