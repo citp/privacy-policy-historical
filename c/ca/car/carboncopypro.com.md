@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carboncopypro.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531173414id_/http%3A//eachieve.net/zprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carboncopypro.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930232150id_/http%3A//eachieve.net/zprivacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
