@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likeme.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214543id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeme.net privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930020719id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LikeMe
 
@@ -68,7 +68,7 @@ By using this website, you signify your agreement to the terms of our Privacy Po
 
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact:  
 LikeMe  
-1037 Broadway  
+969 Broadway  
 Denver, CO 80203  
 303-573-9100 phone  
 303-573-5975 fax 
