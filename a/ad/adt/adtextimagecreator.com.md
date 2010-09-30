@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtextimagecreator.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302063509id_/http%3A//khancepts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtextimagecreator.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930072137id_/http%3A//khancepts.com/privacy.html) for the most accurate reproduction.*
 
 # Khancepts LLC
 
