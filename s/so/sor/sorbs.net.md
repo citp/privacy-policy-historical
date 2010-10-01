@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417041256id_/http%3A//www.dnsbl.au.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002004552id_/http%3A//www.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy [ Doc: privacy.shtml Changed: 06:47:01 19-07-2007 by matthew ]
+# Privacy Policy
 
 **Follows is the lawyer approved privacy statement that applies to all websites of:**
 
-  * SORBS Publishing   
-PO Box 5150   
-Bruce   
-ACT 2617   
-AU   
-+61 2 800 46 200 
+  * SORBS
+  
+GFI House   
+Triq, San Andrea   
+San Gwann   
+SGN 1612   
+Malta   
+Telephone: +61 2 800 46 200   
+Fax: +356 2138 2419 
 
-[abuse@sorbs.net](mailto:abuse@sorbs.net)
+[privacy@sorbs.net](mailto:privacy@sorbs.net)
 
 
 
@@ -25,10 +28,10 @@ Collecting you information allows us to provide a higher quality of service for 
 We collect information for the following purpose(s):  
 
 
-  * Completing or supporting an activity 
-  * Website and system administration 
-  * Tailoring the website for its visitors 
-  * Build records of individual visitors 
+  * Completing or supporting an activity
+  * Website and system administration
+  * Tailoring the website for its visitors
+  * Build records of individual visitors
   * Preserving social history as governed by existing law or policy 
 
 
@@ -36,7 +39,7 @@ We collect information for the following purpose(s):
 Who has access to the information we collect?  
 
 
-  * Ourselves 
+  * Ourselves
 
 
 
@@ -44,13 +47,13 @@ Of the information we do collect, we allow our visitors the following access to 
 
 
   * Access is given to contact information and other information, such as: 
-    * Name 
-    * Email address 
-    * IP Address 
-    * Employer/ISP 
-    * Skill Level 
-    * Size of Organisation 
-    * ...etc... 
+    * Name
+    * Email address
+    * IP Address
+    * Employer/ISP
+    * Skill Level
+    * Size of Organisation
+    * ...etc...
 
 
 
