@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416233556id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001175546id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
@@ -74,6 +74,20 @@ We collect contact information, such as name, shipping address and phone number,
 A cookie is data stored on the end-user's hard drive with information that relates directly to the end-user's visit to our web site. Any information placed in the cookie is accessible only to Wine.com, and will not be sold or shared with anyone else under any circumstances. We use a cookie to store a unique session identifier, which allows us to maintain shopping cart and state selections from one page request to the next, and maintain session information from one visit to the next. By setting a cookie on our site, the user would not have to log in more than once, thereby saving time while visiting our site. If a user rejects the cookie, they may still browse our site. However, the user experience will be greatly curtailed and only the California catalog will be available. In addition, the user will be unable to log in or make a purchase. Cookies also enable us to track and target the interests of our users to enhance users' experience and display products that relate directly to individual user preferences. Cookies are tied to personal information but the information collected through cookies is never shared with third parties.
 
 Some of our business partners (e.g., advertisers, tracking utility services) use cookies on our site. We have no access to or control over these cookies.
+
+[back to top]
+
+### Web Beacons
+
+We employ or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+
+[back to top]
+
+### Third-Party Service Providers
+
+We use third-party service providers to provide product recommendations and enhance your shopping experience on our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide personalized recommendations and advertisements about our goods and services on our Web site as well as when you visit other Web sites. 
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>.
 
 [back to top]
 
@@ -157,6 +171,6 @@ Wine.com, Inc.
 114 Sansome Street, 6th Floor  
 San Francisco, CA 94104
 
-The Privacy Notice posted on this site was updated on March 5th, 2008.
+The Privacy Notice posted on this site was updated on November 4, 2009.
 
 [back to top]
