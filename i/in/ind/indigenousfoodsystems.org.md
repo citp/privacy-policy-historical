@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indigenousfoodsystems.org privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514144931id_/http%3A//www.indigenousfoodsystems.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigenousfoodsystems.org privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001200546id_/http%3A//www.indigenousfoodsystems.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Indigenous Food Systems Network
 
@@ -25,8 +25,3 @@ The website uses “cookies” so that you can be recognized as a genuine member
 By requiring those who add content to the website, we are able to safeguard against inappropriate material and actions such as spamming of this site.
 
 No member’s email will ever be displayed on the site. The site administrator will have access to members’ emails in case there is ever a need to communicate directly with a member. For example, a Member’s resource may prompt inquiries from others who found the resource useful and would like to collaborate further. We do not, however, anticipate that there will be much call for this as Members can comment on resources directly on the website.
-
-An initiative of these BC Healthy Living Alliance members:
-
-This project was made possible with the support of the  
-Department of Canadian Heritage through [Canadian Culture Online](http://www.pch.gc.ca/progs/pcce-ccop/index_e.cfm).
