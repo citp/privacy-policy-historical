@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the adirondacksolutions.com privacy policy that was archived on 2010-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100218134437id_/http%3A//www.adirondacksolutions.com/PrivPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adirondacksolutions.com privacy policy that was archived on 2010-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101001141325id_/http%3A//www.adirondacksolutions.com/PrivPolicy.cfm) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
 <title>Adirondack Solutions</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
@@ -57,11 +59,17 @@ function MM_nbGroup(event, grpName) { //v6.0
 }
 //-->
 </script>
-<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['UserLogin']=true;
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['UserPassword']=true;
+</script>
 <script type="text/javascript">
 <!--
-    function  _CF_checkform(_CF_this)
+    _CF_checkform = function(_CF_this)
     {
         //reset on submit
         _CF_error_exists = false;
@@ -119,7 +127,7 @@ function MM_nbGroup(event, grpName) { //v6.0
 		<td align="left" valign="top">
 			<div align="right">
 				
-					<form name="form" action="/LoginCheck.cfm" method="post" onsubmit="return _CF_checkform(this)">
+					<form name="form" id="form" action="/LoginCheck.cfm" method="post" onsubmit="return _CF_checkform(this)">
 						<strong><font color="#006666" size="2" face="Arial, Helvetica, sans-serif">MyASI Account Login </font></strong> 
 						<table>
 							<tbody><tr> 
@@ -261,7 +269,7 @@ function MM_nbGroup(event, grpName) { //v6.0
 
   <tr align="left" valign="top">
     <td width="78%"><img src="/images2/ASILogoSmall.gif" align="left"> <font size="2" face="Arial, Helvetica, sans-serif">© 
-      2009 Adirondack Solutions, Inc. - All Rights Reserved<br>
+      1998 - 2010 Adirondack Solutions, Inc. - All Rights Reserved<br>
       All trademarks, logos, and corporate names are property of their respective 
       companies.<br>
       <a href="/PrivPolicy.cfm">Privacy Policy</a>&nbsp;&nbsp; -&nbsp;&nbsp; <a href="/TOU.cfm">Terms 
