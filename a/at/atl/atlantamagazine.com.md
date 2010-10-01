@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513213401id_/http%3A//www.atlantamagazine.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001031319id_/http%3A//www.atlantamagazine.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Atlanta magazine
+# 
 
 Privacy Policy
 
