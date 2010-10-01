@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401060139id_/http%3A//www.photoreflect.com/pr4main/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001225557id_/http%3A//www.photoreflect.com/home/info/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PhotoReflect
 
