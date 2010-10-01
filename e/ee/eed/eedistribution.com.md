@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411074308id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001053257id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
