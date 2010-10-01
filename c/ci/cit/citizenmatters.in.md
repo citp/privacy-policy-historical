@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505005046id_/http%3A//bangalore.citizenmatters.in/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001181430id_/http%3A//bangalore.citizenmatters.in/main/privacypolicy) for the most accurate reproduction.*
 
 # Citizen Matters: Privacy Policy
 
