@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolutionbeauty.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615091119id_/http%3A//www.revolutionbeauty.com/%3Fpage_id%3D217) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutionbeauty.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001074304id_/http%3A//www.revolutionbeauty.com/%3Fpage_id%3D217) for the most accurate reproduction.*
 
 # Revolution Beauty » Privacy
 
