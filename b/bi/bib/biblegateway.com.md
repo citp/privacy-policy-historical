@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322234852id_/http%3A//www.biblegateway.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002192201id_/http%3A//www.biblegateway.com/legal/privacy.php) for the most accurate reproduction.*
 
 # BibleGateway.com: A searchable online Bible in over 100 versions and 50 languages.: Legal
 
