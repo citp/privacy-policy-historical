@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runrocknroll.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116022016id_/http%3A//competitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runrocknroll.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002120332id_/http%3A//competitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Competitor.com
 
@@ -10,7 +10,7 @@ Our websites automatically recognize the consumer’s IP address, aggregate info
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and used by us to contact consumers for marketing purposes. We may also use your IP address to administer our web sites, and to help diagnose problems with our servers.
 
-Our websites contain links to other web sites. Competitor Group is not responsible for the privacy practices or the content of such websites.
+Our websites contain links to other web sites. Competitor Group is not responsible for the privacy practices or the content of such websites. This site  also uses Tynt (http://tynt.com) link-building service, which is cookie-free and captures no personal data.
 
 If you register for a Competitor Group event, you will be asked to register for a free ID and password and to provide information on event registration forms. Unique identifiers, such as IDs and passwords, are collected to verify your identity and for use as account numbers in our record system. Your contact information may also be used to contact you when necessary for customer service reasons. Financial information that is collected is used only to bill you for products and services that you specifically request. Your contact information may also be used to provide you with important race updates.
 
@@ -36,15 +36,15 @@ If you supply us with your postal address on-line you may receive periodic maili
 
 ### Security
 
-Competitor Group has established and maintains reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information. We use a variety of industry-standard security measures to maintain the safety of your personal information. For example, credit card numbers are encrypted in a secure database, which is located behind a firewall. Personal information collected is stored in a secure operating environment that is not available to the public. All credit card and registration information supplied by users is transmitted via [Secure Socket Layer (SSL)](http://www.theactivenetwork.com/exec/tanweb/Secure.cfm?publicationID=289) technology. 
+Competitor Group has established and maintains reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information. We use a variety of industry-standard security measures to maintain the safety of your personal information. For example, credit card numbers are encrypted in a secure database, which is located behind a firewall. Personal information collected is stored in a secure operating environment that is not available to the public. All credit card and registration information supplied by users is transmitted via [Secure Socket Layer (SSL)](http://www.theactivenetwork.com/exec/tanweb/Secure.cfm?publicationID=289) technology.
 
-"Perfect security," however, does not exist on the Internet. Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, Competitor Group will disclose personal information about an individual user if we believe in good faith that such disclosure is necessary to comply with an applicable law or valid legal process.
+“Perfect security,” however, does not exist on the Internet. Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, Competitor Group will disclose personal information about an individual user if we believe in good faith that such disclosure is necessary to comply with an applicable law or valid legal process.
 
-### Contact Us 
+### Contact Us
 
 Competitor Group, Inc.  
-9401 Waples Street, Suite 150   
-San Diego, CA 92121   
+9401 Waples Street, Suite 150  
+San Diego, CA 92121  
 (800)-311-1255  
 [customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com)
 
