@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171200id_/http%3A//www.explorebranson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002113750id_/http%3A//www.explorebranson.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
+  
   
 
 
