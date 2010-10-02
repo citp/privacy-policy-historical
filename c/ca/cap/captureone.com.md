@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the captureone.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516202448id_/http%3A//www.captureone.com/Phase%2520One/About-Us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captureone.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002053514id_/http%3A//www.captureone.com/Phase%2520One/About-Us/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - Phase One
+# Medium Format Camera Systems and Raw Converter Software
 
 **Privacy Statement**
 
