@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeekler.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607071150id_/http%3A//zeekler.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekler.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003001846id_/http%3A//www.zeekler.com/privacy.asp%3FUserName%3Drtrusty) for the most accurate reproduction.*
 
 # Privacy Policy - Zeekler
 
