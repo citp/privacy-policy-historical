@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the paymentus.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507064213id_/http%3A//www.paymentus.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentus.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002063019id_/http%3A//www.paymentus.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Paymentus | Privacy Policy
+# Paymentus | The Real-Time Bill Payment Company
 
-Paymentus Corporation is a payment processing and financial services organization and adheres to highest standards of integrity and trust.  At Paymentus, our objective is to always maintain online user’s privacy and safeguard your personal information. We employ highly skilled workforce and industry best practices to maintain privacy and security of website and operating environments. 
+[Home](https://web.archive.org/web/20101002063019id_/http%3A//www.paymentus.com/index.html) > Privacy Policy
 
-**Statistical Information Collected**  
-We do not collect any personally identifiable information about your visit unless provided voluntarily to receive more information about our product or services.  
-We may collect electronically generated information about your visit to our site. This may include date and pages visited in our site. The primary purpose of this information is to make the site more effective and improve the over usability.
+### Privacy Policy
 
-**Disclosure of Information to Third Parties**  
-We do not distribute or sell any information collected through our website to any third parties. We are committed to safeguard any information you have provided to us.
+Paymentus | The Real-Time Bill Payment Company 
+
+Paymentus Corporation is a payment processing and financial services organization and adheres to highest standards of integrity and trust. At Paymentus, our objective is to always maintain the privacy of online user and to safeguard their personal information. Our highly skilled workforce and unwavering adherence to industry best practices assure that our website and operating environments are always maintained the highest standards for privacy and security. 
+
+##### Statistical Information Collected
+
+We do not collect any personally identifiable information about a user visit unless provided voluntarily by the user in order to receive more information about our product or services.
+
+We occasionally collect electronically generated information about user visits to our site. This may including date and pages visited. The primary purpose of this information is to make the site more effective and to improve the overall usability. 
+
+##### Disclosure of Information to Third Parties
+
+We do not distribute or sell any information collected through our website to any third parties. We are committed to safeguarding any information you have provided to us.
+
+  
+
