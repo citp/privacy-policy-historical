@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118205552id_/http%3A//www.moniker.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002122017id_/http%3A//www.moniker.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Privacy Notice - moniker.com
+# Domain Names Auction Privacy - Moniker SnapNames
 
-Moniker Online Services, LLC LLC (together with its subsidiaries, "Moniker") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. As a user of this website and its subpages (collectively, the "Site") or the services ("Services") provided by Moniker, this Privacy Policy is intended to describe for you:   
-
+Moniker Online Services, LLC LLC (together with its subsidiaries, "Moniker") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. As a user of this website and its subpages (collectively, the "Site") or the services ("Services") provided by Moniker, this Privacy Policy is intended to describe for you:
 
   * the information we collect about you,
   * how that information may be used, 
@@ -15,7 +14,7 @@ Moniker Online Services, LLC LLC (together with its subsidiaries, "Moniker") is 
 
 We encourage you to read this Privacy Policy carefully when using our Site or Services or transacting business with us. By using our Site or Services, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us through our Site: www.moniker.com. You can also email us at support@Moniker.com, or send mail to Moniker Online Services, LLC, Attn: Privacy, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069
 
-**Information Collection**
+### Information Collection
 
 We collect information to allow us to provide and improve our Services and to present you with the information and features that we believe will interest you. We also use the information we collect from you to measure our success and performance.
 
@@ -25,8 +24,7 @@ __User Provided Information.__ We may collect and store any personal information
 
 __Third Party List Information.__ We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personally identifying information that you provide to us. When obtaining this information from third parties, Moniker seeks assurances from the third parties that it has the right to provide the information to us.
 
-__Cookies, Web Beacons, and Other Information Collection Technology.__ We use various technologies to collect information from your computer and about your activities on our Site. For example, we collect and store non-personally identifying information through cookies, log files, clear gifs ("web beacons"), and third parties to create a profile of our users that details the users' viewing preferences.   
-
+__Cookies, Web Beacons, and Other Information Collection Technology.__ We use various technologies to collect information from your computer and about your activities on our Site. For example, we collect and store non-personally identifying information through cookies, log files, clear gifs ("web beacons"), and third parties to create a profile of our users that details the users' viewing preferences.
 
 _Log Files._ Technical information from your browser is automatically collected when you visit our Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
@@ -40,10 +38,9 @@ __Sponsor or Link Websites.__ Links or sponsor websites may be presented in a ma
 
 __No Information From Children.__ Moniker will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties. The Site targets an audience that is over the age of 18 and some content may not be appropriate for all ages. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. We have designed our privacy policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
 
-**Information Use and Sharing**
+### Information Use and Sharing
 
-PLEASE NOTE THAT WE MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION. We may match any of the technical information we gather to any personally identifying information we have obtained through you or third parties to provide you offers and improve the content of the Site and Services for you. Examples of some of the ways we use or share information that we collect about you includes:  
-
+PLEASE NOTE THAT WE MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION. We may match any of the technical information we gather to any personally identifying information we have obtained through you or third parties to provide you offers and improve the content of the Site and Services for you. Examples of some of the ways we use or share information that we collect about you includes:
 
   * provide you with products or services, whether from us, our parent or sistercompanies, including the display of customizedcontent, advertising, andservices; 
   * provide technical or customer support; 
@@ -54,8 +51,9 @@ PLEASE NOTE THAT WE MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE P
 
 
 
-In order to perform certain services on your behalf, we may need to publish certain information that you provide. For example, you agree that Moniker shall have the right to publish the name of any domain name sold as well as the respective purchase price on the Site or in other places for reference purposes.   
-In addition, in order for us to comply with the current rules and policies for the domain name system, you hereby grant to Moniker the right to disclose to third parties through an interactive, publicly accessible registration database the following mandatory information that you are required to provide when registering or reserving a domain name: 
+In order to perform certain services on your behalf, we may need to publish certain information that you provide. For example, you agree that Moniker shall have the right to publish the name of any domain name sold as well as the respective purchase price on the Site or in other places for reference purposes.
+
+In addition, in order for us to comply with the current rules and policies for the domain name system, you hereby grant to Moniker the right to disclose to third parties through an interactive, publicly accessible registration database the following mandatory information that you are required to provide when registering or reserving a domain name:
 
   1. the domain name(s) registered by you; 
   2. your name and mail address; 
@@ -67,14 +65,15 @@ In addition, in order for us to comply with the current rules and policies for t
 
 
 
-We, as are all accredited domain name registrars, are also required to make this information available in bulk form to third parties who agree not to use it to (a) allow, enable or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam) or (b) enable high volume, automated, electronic processes that apply to our systems to register domain names.   
-You further acknowledge and agree that Moniker may make publicly available, or directly available to third parties, some or all of the information you provide, for purposes of inspection (such as through our WHOIS service) or for targeted marketing and other purposes as required or permitted by applicable laws. One of the ways that Moniker may make some or all of the information you provide available to the public or third parties is by way of bulk WHOIS data access provided to third parties who enter into a bulk WHOIS data access agreement with Moniker. Moniker reserves the right to discontinue providing bulk WHOIS data access to third parties.   
-In addition, you acknowledge and agree that, Moniker may make available and use personal information or other information you provide or that we otherwise maintain, to public or private third parties: (i) for inspection by law enforcement officials (including in the case of potential criminal activity); (ii) to respond to cease and desist letters, UDRP proceedings, legal actions and suits, criminal and civil subpoenas, court orders that reasonably appear to be valid; (iii) to enforce or apply the terms of this Privacy Policy or any other agreement between us; and (iv) to protect the rights, property, or safety of Moniker, our users, or others, whether during or after the term of your use of our Services. 
+We, as are all accredited domain name registrars, are also required to make this information available in bulk form to third parties who agree not to use it to (a) allow, enable or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam) or (b) enable high volume, automated, electronic processes that apply to our systems to register domain names.
+
+You further acknowledge and agree that Moniker may make publicly available, or directly available to third parties, some or all of the information you provide, for purposes of inspection (such as through our WHOIS service) or for targeted marketing and other purposes as required or permitted by applicable laws. One of the ways that Moniker may make some or all of the information you provide available to the public or third parties is by way of bulk WHOIS data access provided to third parties who enter into a bulk WHOIS data access agreement with Moniker. Moniker reserves the right to discontinue providing bulk WHOIS data access to third parties.
+
+In addition, you acknowledge and agree that, Moniker may make available and use personal information or other information you provide or that we otherwise maintain, to public or private third parties: (i) for inspection by law enforcement officials (including in the case of potential criminal activity); (ii) to respond to cease and desist letters, UDRP proceedings, legal actions and suits, criminal and civil subpoenas, court orders that reasonably appear to be valid; (iii) to enforce or apply the terms of this Privacy Policy or any other agreement between us; and (iv) to protect the rights, property, or safety of Moniker, our users, or others, whether during or after the term of your use of our Services.
 
 __Communications From This Website.__ Unless you have opted out of these features, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service.
 
-__Personal Information.__ Unless you have opted out, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:   
-
+__Personal Information.__ Unless you have opted out, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
 
 _Service providers:_ We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with your request for Services on our Site. These service providers may include credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
 
@@ -86,17 +85,19 @@ _Third parties for legal process:_ : In response to a subpoena or similar invest
 
 __Special Notice to California Residents.__ Moniker will not share any personal information about you with other companies to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law. California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at support@Moniker.com. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties.
 
-__Aggregated and Non-Personal Information.__ We may rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver targeted advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. For example, we may tell our advertisers the number of visitors to our Site and the most popular features or Services accessed.   
-Please note that our Privacy Policy does not cover any third party's use or handling of your information once it is shared. Rather, the privacy policies of the various third parties will govern. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States. 
+__Aggregated and Non-Personal Information.__ We may rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver targeted advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. For example, we may tell our advertisers the number of visitors to our Site and the most popular features or Services accessed.
+
+Please note that our Privacy Policy does not cover any third party's use or handling of your information once it is shared. Rather, the privacy policies of the various third parties will govern. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
 __Links.__ This Site contains links to other websites, including through advertisements. We are not responsible for the privacy practices of third party linked websites, even if this Site frames the linked third party website. We encourage you to be aware of when you leave our Site and to review the privacy statements of each and every website that you visit that collects personally identifiable information. This Privacy Policy applies solely to information we collect.
 
 **Choice/Opt-Out**
 
-We give our users the opportunity to "opt-out"of having their information used for purposes not directly related to our Site at the point where we ask for the information. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by any of the following means:   
-Send a written request to: Moniker Online Services, LLC, Attn: Opt-Out, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069.  
-Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly.  
+We give our users the opportunity to "opt-out"of having their information used for purposes not directly related to our Site at the point where we ask for the information. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by any of the following means:
 
+Send a written request to: Moniker Online Services, LLC, Attn: Opt-Out, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069.
+
+Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly.
 
 **Updating Your Information**
 
@@ -104,8 +105,9 @@ If you have questions or want to update your personal information, please contac
 
 **Information Retention & Security**
 
-Moniker stores your information for no less than one year from the time of initial submission, as well as automated personal information we collect about you. However, if we collect your social security number or credit card number we will only store that information for a limited time unless extenuating circumstances or the law require otherwise.  
-Moniker takes appropriate security measures to protect our users' information against unauthorized access, loss, alteration, or destruction. These include internal reviews of our data collection, storage and processing practices and security measures, as well as digital encryption and physical security measures to guard against unauthorized access to systems where we store personal information. We restrict access to personal information to employees, contractors, and agents who have a "need-to-know"that information in order to operate, develop or improve our Services, and who are bound by confidentiality requirements. We want you to feel confident using our Site to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. 
+Moniker stores your information for no less than one year from the time of initial submission, as well as automated personal information we collect about you. However, if we collect your social security number or credit card number we will only store that information for a limited time unless extenuating circumstances or the law require otherwise.
+
+Moniker takes appropriate security measures to protect our users' information against unauthorized access, loss, alteration, or destruction. These include internal reviews of our data collection, storage and processing practices and security measures, as well as digital encryption and physical security measures to guard against unauthorized access to systems where we store personal information. We restrict access to personal information to employees, contractors, and agents who have a "need-to-know"that information in order to operate, develop or improve our Services, and who are bound by confidentiality requirements. We want you to feel confident using our Site to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.
 
 **Visitors Outside the United States**
 
@@ -115,11 +117,14 @@ This Privacy Policy is intended to cover collection of information on our Site f
 
 This Privacy Policy may be updated from time to time to reflect changes in our practices and Services. We reserve the right to modify it at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will also prominently post notice of the changes on our Site and/or we may notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address or you have opted-out of such communication). Your continued use of our Site or Services after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise.
 
-**General Contact:**  
+**General Contact:**
 
+Moniker Online Services, LLC
 
-Moniker Online Services, LLC  
-Attn: Privacy  
-20 SW 27th Ave. Suite 201  
-Pompano Beach, Florida 33069  
-support@Moniker.com 
+Attn: Privacy
+
+20 SW 27th Ave. Suite 201
+
+Pompano Beach, Florida 33069
+
+support@Moniker.com
