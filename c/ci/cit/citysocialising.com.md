@@ -1,56 +1,114 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505125049id_/http%3A//london.citysocialising.com/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003171353id_/http%3A//home.thejournal.ie/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy · TheJournal.ie
 
-Protecting your privacy is a serious matter and doing so is very important to us. Please read this Privacy Policy statement (the "Policy") to learn more about our Privacy Policy. This Policy describes the information we collect from you and what may happen to that information, and only applies to such information. This Policy applies to all sites under the citysocialising.com domain.
+### Introduction
 
-**1\. Information Collection**  
-1.1. We collect the following information about you and your use of our Website, Platform and service (together, our "Platform") in order to create a better, more personalized experience for you:   
-1.1.1. your first name, your surname, your email address, a password selected by you, your postcode; and   
-1.1.2. your ‘likes’, interests, and a personal message which may be viewed by all registered users, or all non-registered users if privacy settings are set to such, and your message board postings.   
-1.1.3. for purposes of this Policy, "Personally Identifiable Information" means information that could be used to identify you personally (such as your email address or IP address), which has not been previously or subsequently disclosed by you on the public areas of our website or in messages you send to other CitySocialising users.   
-1.2. We automatically track certain basic information about our members (such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, click patterns, etc.). We use this information to do internal research on our members' usage patterns, demographics, interests and general behavior to better understand and serve you and our community.   
-1.3. We currently contract with online partners to help manage and optimize our business and communications. We use the services of a site analytics partner to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use web beacons and cookies provided by our site analytics partner on this site. A "cookie" is a piece of data stored on your computer that is tied to information about you. The type of information collected includes the URL you came from and go to, your browser information, and IP address, and helps us learn how to improve our service. No information shared with our site analytics partner is directly linked to your Personally Identifiable Information. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies will have the file name CitySocialising.co.txt. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. Further information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.  
-1.4. For our members' convenience, we also use "cookies" to allow you to enter your password less frequently during a session and to provide for an easier registration process. If you configure your browser or otherwise choose to reject the cookies, you may still use our site. However, to best experience our website and Platform and most easily use our Platform you must have cookies enabled. Our use of cookies is consistent with the rights and restrictions set forth in Section 2.   
-1.5. We may collect information such as postings you make on the public areas of our website, messages you send to us, and correspondence we receive from other members or third parties about your activities or postings on our website. Our use of this information is consistent with the rights and restrictions set forth in Section 2. 
+Your privacy is important to us and this privacy statement sets out how Distilled Media Ltd. collects, uses and protects any information you give us when you use TheJournal.ie. If you give us any information by which you can be identified when using TheJournal.ie then we will use it only in accordance with this privacy statement.
 
-**2\. Use of Information**  
-2.1. We use the information we collect about you (including your Personally Identifiable Information) to create a better, more personalized experience for you based on your individual usage habits, improve our marketing and promotional efforts, analyze site usage, improve our content and product offerings, and customize our site's content, layout and Services. These uses improve our site and allow us to better customize it to meet your needs. We also use the information we collect about you to resolve disputes, troubleshoot problems, and enforce our Terms of Service Agreement.   
-2.2. We may compile the information we collect about you and use it, **in an aggregate form only** , in the negotiation and establishment of service agreements with public and/or private enterprises under which such enterprises will serve as CitySocialising partners or as venues for meetings between our members ("Socials").   
-2.3. We may use for promotional, sales or any use that we consider appropriate your correspondence with us or photographs submitted for publication on our website, be it via email, postings on our website, or feedback via the member polls. Our use of such materials is consistent with the restrictions on disclosure of Personally Identifiable Information set forth in Section 3. 
+We may change this privacy statement from time to time. When we do we will notify you of the changes by adding an “updated” icon next to the Privacy link on the front page of the site for two weeks from the date of the change. By continuing to use the site you agree to these changes.
 
-**3\. Disclosure of Your Information**  
-3.1. Opt-in requirement. WITHOUT YOUR AFFIRMATIVE CONSENT (ON A CASE-BY-CASE BASIS), WE DO NOT SELL, RENT OR OTHERWISE SHARE YOUR PERSONALLY IDENTIFIABLE INFORMATION WITH OTHER THIRD PARTIES, UNLESS OTHERWISE REQUIRED AS DESCRIBED BELOW UNDER "REQUIRED DISCLOSURES". TO THE EXTENT WE SHARE INFORMATION WITH OUR PARTNERS AND ADVERTISERS, WE SHARE ONLY AGGREGATED OR OTHERWISE NON-PERSONALLY IDENTIFIABLE INFORMATION THAT IS NOT LINKED TO YOUR PERSONALLY IDENTIFIABLE INFORMATION. Aggregated information that we may share with our marketing partners includes, but is not limited to, information showing the relative popularity of one Social venue over another, or the popularity of certain topics.   
-3.2. You should understand that information you provide through the registration process or post to the public areas of our website, or through the use of our Platform (including your name (if provided) and location information) may be accessible by and made public through syndication programs and by search engines, metasearch tools, crawlers, metacrawlers and other similar programs.   
-3.3. Required disclosures. Though we make every effort to preserve member privacy, we may need to disclose your Personally Identifiable Information when required by law or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on our website, (b) enforce this Policy or the Terms of Service Agreement, (c) respond to claims that your Personal Information violates the rights of third parties; or (d) protect the rights, property or personal safety of CitySocialising, its members and the public. You authorize us to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. 
+### Children under the age of 13
 
-**4\. Communications from CitySocialising and Members of the CitySocialising Community**  
-4.1. You may manage your subscriptions to all CitySocialising Communications in the Settings tab of the My Account page. 
+TheJournal.ie is not directed at children younger than 13 years of age and is offered only to users who are 13 or older. Children below 13 may not register with TheJournal.ie. We do not knowingly collect information from or about children below the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us at privacy@thejournal.ie.
 
-**5\. Reviewing, Updating, Deleting and Deactivating Personal Information**
+### Persons aged 13 to 17
 
-5.1. After registration for our Platform and for specific interest groups, we provide a way to update your Personally Identifiable Information. Upon your request, we will deactivate your account and remove your Personally Identifiable Information from our active databases. To make this request, email 
+We recommend that young people aged 13 to 17 ask their parents or legal guardians for permission before using TheJournal.ie or sending any information about themselves to anyone over the Internet.
 
-_[support@citysocialising.com](mailto:support@citysocialising.com)_
+### What we collect
 
-. Upon our receipt of your request, we will deactivate your account and remove your Personally Identifiable Information as soon as reasonably possible in accordance with our deactivation policy and applicable law. Nonetheless, we will retain in our files information you may have requested us to remove if, in our discretion, retention of the information is necessary to resolve disputes, troubleshoot problems or to enforce the Terms of Service Agreement. Furthermore, your information is never completely removed from our databases due to technical and legal constraints 
+We collect the following information:
 
-(for example, we will not remove your information from our back up storage). 
+  * Information which you supply on registration or as part of your profile;
+  * Information which you provide in relation to any payment;
+  * Information which you post on TheJournal.ie;
+  * Information which you otherwise provide to us (for example by email or private message); and
+  * Information relating to your use of TheJournal.ie generally. This may include, for example login and logout times and polls you’ve voted on.
 
-**6\. Notification of Changes**  
-6.1. If we decide to change this Policy, we will post those changes on http://www.citysocialising.com/privacy or post a notice of the changes to this Policy on the homepage (<http://www.citysocialising.com/>) and other places we deem appropriate, so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy Policy statement under which the information was collected.   
-6.2. If we make any material changes in our privacy practices, we will post a prominent notice on our website notifying you and our other members of the change. In some cases where we post a notice we will also email you and other members who have opted to receive communications from us, notifying them of the changes in our privacy practices. However, if you have deleted/deactivated your account, then you will not be contacted, nor will your previously collected personal information be used in this new manner.   
-6.3. If the change to this Policy would change how your Personally Identifiable Information is treated, then the change will not apply to you without your affirmative consent. However, if after a period of thirty (30) days you have not consented to the change in the Policy, your account will be automatically suspended until such time as you may choose to consent to the Policy change. Until such consent, your personal information will be treated under the Policy terms in force when you began your membership.   
-6.4. Any other change to this Policy (i.e., if it does not change how we treat your Personally Identifiable Information) will become are effective after we provide you with at least thirty (30) days notice of the changes and provide notice of the changes as described above. You must notify us within this 30 day period if you do not agree to the changes to the Policy and wish to deactivate your account as provided under Section 5. 
 
-**7\. Dispute Resolution**  
-7.1. Any dispute, claim or controversy arising out of or relating to this Policy or previous Privacy Policy statements shall be resolved through negotiation, mediation and arbitration as provided under our Terms of Use Agreement. 
 
-**8\. Contact Information**  
-8.1. If members have any questions or suggestions regarding this Policy, please contact the CitySocialising using postal mail or email, as follows:   
-Postal Address:  
-CitySocialising Ltd.   
-5 Wormwood Street,   
-London, EC2M 1RQ  
-Email: [privacy@citysocialising.com](mailto:privacy@citysocialising.com)  
-This Privacy Policy is governed by the terms of the CitySocialising Terms of Use Agreement.
+Technical details in connection with visits to this website are logged for our statistical purposes. The technical details logged include:
+
+  * The IP address of each visitor and the domain of the internet service provider;
+  * The previous website address from which a visitor reached us, including any search terms used;
+  * “Clickstream” data which shows the traffic of visitors around TheJournal.ie (for example showing which stories have been read and which links have been clicked); and
+  * The type of web browser used by a visitor.
+
+
+
+We also use outside providers for web-site statistics. Please note that to provide statistics these use visitors’ IP addresses but do not have access to users’ usernames or email addresses. The primary provider we use is Google Analytics. You can find further information on the information which it collects at <http://www.google.com/analytics/>.
+
+### Cookies
+
+TheJournal.ie uses cookies to improve your experience and to provide services and advertising. In particular, cookies are used to keep a record of your preferences and to keep you logged in between visits if you so choose. We also use temporary session cookies which enable a visitor’s web browser to remember which pages on this website have already been visited.
+
+### External providers
+
+From time to time we may partner with an external provider to provide other services, for example we may ask an external company to carry out a survey or to run a competition. If any personal information is required you will be advised beforehand.
+
+### What we do with the information we collect
+
+We require this information for the operation of TheJournal.ie, to understand your needs and provide you with a better service. In particular, we may use or disclose your information for the following reasons:
+
+  * We may use this information for our administration, record keeping and in connection with any payment;
+  * We may use this information, with your permission only, to contact you for marketing purposes;
+  * We may transfer this information to any sister site of TheJournal.ie where necessary for the operation of that site;
+  * We may use this information for technical processing and to address technical problems or service complaints;
+  * We may use this information to deal with cases of illegal activity, abuse or harassment;
+  * We may transfer this information to enable an external auditor to verify our traffic figures;
+  * We may disclose this information where required by law to do so;
+  * We may disclose this information to law enforcement, government officials or courts where we believe that disclosure is necessary and proportionate; and
+  * We may disclose this information where we believe that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.
+
+
+
+We will not otherwise disclose, sell or distribute your information to any third party without your permission.
+
+### Anonymous and aggregated data
+
+We may aggregate data in an anonymous manner for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the number of unique visitors in a daily period or the percentage age groups of our members. No personally identifiable information will be disclosed.
+
+### Information you post
+
+Any personal information which you volunteer in your public profile or which you post as a message will be available worldwide to anyone with access to the website.
+
+Please do not post any information you are not happy to leave up indefinitely. We recommend you do not post your name, address, telephone number, email address or anything else that may lead someone to identify you if this is something you are uncomfortable with.
+
+Please note that certain information (such as photographs) which you may choose to provide might reveal your gender, ethnic origin, nationality, religion and/or sexual orientation.
+
+### Anonymous / pseudonymous users
+
+You are free (if you wish) to choose a username which does not reflect your real name. However please be aware that we cannot guarantee that others will not be able to determine your identity.
+
+### Controlling your personal information
+
+You may request details of personal information which we hold about you or rectify any personal information which is incorrect or incomplete under the Data Protection Acts 1988-2003.
+
+If you would like a copy of the information held on you please email us at [privacy@thejournal.ie](mailto:privacy@thejournal.ie). If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [privacy@thejournal.ie](mailto:privacy@thejournal.ie). We will promptly correct any information found to be incorrect.
+
+If someone else has posted your personal information on TheJournal.ie without your permission and you would like it removed please contact us at [privacy@thejournal.ie](mailto:privacy@thejournal.ie).
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### Confidential Sources
+
+Users may wish from time to time to pass information to our writers on a confidential basis. Please note that while we take the privacy of confidential sources seriously, we may not always be able to guarantee absolute confidentiality if, for example, we are compelled by a court order to reveal the identity of a source. If you wish to pass information to us in complete security you may wish to use some of the methods described in the Reporters Without Borders Handbook for Bloggers and Cyber-Dissidents.
+
+### Glossary of technical terms used
+
+Web browser
+
+The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Firefox, Safari and Opera.
+
+IP address
+
+The identifying details for your computer (or your internet company’s computer), expressed in “internet protocol” code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
+
+Cookies
+
+Small pieces of information, stored in simple text files, placed on your computer by a web site.
