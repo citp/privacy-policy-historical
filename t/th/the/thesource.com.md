@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesource.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331195929id_/http%3A//www.thesource.com/static/privacy/%3Fthesource-prod%3Ddu78kcuahn6rguibjq23h18qt1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesource.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003043835id_/http%3A//www.thesource.com/static/privacy/%3Fthesource-prod%3Dl135bu3vvt4tk4tl808lulgjp4) for the most accurate reproduction.*
 
 # The Source - Privacy
 
