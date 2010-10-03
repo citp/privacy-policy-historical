@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609153401id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003190654id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Askia - Software for surveys
 
@@ -29,7 +29,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
-We have thus registered our User Area to Comodo CA Ltd.
+We have thus registered our User Area to [Comodo CA Ltd](http://www.comodo.com/business-security/digital-certificates/wildcard-ssl.php).
 
 **How You Can Access Or Correct Your Information**  
 You can access all your personally identifiable information that we collect online and maintain by accessing your account page (<https://dev.askia.com/my/account>). We use this procedure to better safeguard your information.  
@@ -37,12 +37,12 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20100609153401id_/http%3A//www.askia.com/contact@askia.com).
+Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20101003190654id_/http%3A//www.askia.com/contact@askia.com).
 
 ### Latest news
 
 [Subscribe](https://web.archive.org/news/feed)
 
-#### [Askia User Conference: the programme](https://web.archive.org/news/first-askia-user-conference-programme)
+#### [Askia at ESOMAR Congress 2010](https://web.archive.org/news/askia-at-esomar-2010)
 
-At the moment we have more than **80 registered delegates** representing more than **40 MR companies and 9 countries**. **10 speakers** are already announced and more might be joining very soon. 
+Askia will be exhibiting at the ESOMAR Congress again this year. As you're aware [ESOMAR](http://www.esomar.org/) is a global research organisation which means we have the opportunity to meet our friends from all corners of the globe and introduce new companies to Askia. 
