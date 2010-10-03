@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingfrontier.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414001947id_/http%3A//database.castingfrontier.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingfrontier.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003031949id_/http%3A//database.castingfrontier.com/privacy_policy) for the most accurate reproduction.*
 
 # The Casting Frontier Privacy Notice
 
