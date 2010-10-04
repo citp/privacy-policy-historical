@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpeeps.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611234903id_/http%3A//xpeeps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpeeps.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005014618id_/http%3A//xpeeps.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice - xPeeps.com
 
