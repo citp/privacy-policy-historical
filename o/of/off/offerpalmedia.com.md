@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the offerpalmedia.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217042758id_/http%3A//www.offerpalmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerpalmedia.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005174206id_/http%3A//www.offerpalmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Offerpal Media
 
   |    
 We hate spam more than you do! 
 
-Welcome to the Offerpal Media, Inc. web site ([www.offerpalmedia.com](https://web.archive.org/web/20100217042758id_/http%3A//www.offerpalmedia.com/www.offerpalmedia.com)). Offerpal Media values the privacy of the users, subscribers, members, and others who visit and use the Offerpal Media Platform (collectively or individually, "you" or "Users"). 
+Thank you for your interest in Offerpal Media, Inc. ("Offerpal Media") and our web sites located at www.offerpalmedia.com, www.gamepoints.com, www.offerpal.com, and our other services, including the Offerpal Wallet Facebook application (collectively, the "Offerpal Media Platform"). Offerpal Media values the privacy of the users, subscribers, members, and others who visit and use the Offerpal Media Platform (collectively or individually, "you" or "Users"). 
 
 By using the Offerpal Media Platform, you expressly consent to the information handling practices described in this Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Offerpal Media Platform. 
 
-This Privacy Policy should be read in connection with the Offerpal Media Terms of Use. Your use of the Offerpal Media Platform and any personal information you provide through the Offerpal Media Platform are subject at all time to this Privacy Policy and the Terms of Use. 
+This Privacy Policy should be read in connection with, and is incorporated by reference into, the terms of use that govern the particular Offerpal Media service you are using, which terms are located at [provide links to each set of terms ], as applicable. Your use of the Offerpal Media Platform and any personal information you provide to Offerpal Media through the Offerpal Media Platform are subject at all time to this Privacy Policy and the Terms of Use. 
 
 ## 1\. The Information Offerpal Media Collects
 
-User-provided Information: You may provide to Offerpal Media what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, telephone number and billing information) if you upload or download certain content or products from the Offerpal Media Platform, enter contests or sweepstakes, take advantage of promotions, respond to surveys, register and subscribe for certain services, or otherwise use the features and functionality of the Offerpal Media Platform. You may also provide to Offerpal Media demographic information and information related to your favorite social networking site such as the name, address and description. 
+User-provided Information: You may provide to Offerpal Media what is generally called "personally identifiable" information (such as your name, email address, gender, age, postal mailing address, telephone number and billing information) if you upload or download certain content or products to or from the Offerpal Media Platform, enter contests or sweepstakes, take advantage of promotions, respond to surveys, register and subscribe for certain services, or otherwise use the features and functionality of the Offerpal Media Platform. You may also provide to Offerpal Media demographic information and information related to social networking sites you use, such as the name, address and description. By using the Offerpal Wallet Facebook application, Offerpal will have access to your transaction history on the Offerpal Media Platform and user activity within some Facebook applications. 
 
-"Cookies" Information: When you access the Offerpal Media Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Offerpal Media may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Offerpal Media Platform. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. Some of our business partners (e.g. advertisers) use cookies on our site. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by Offerpal Media only and does not cover the use of cookies by any advertisers. 
+"Cookies" Information: When you access the Offerpal Media Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Offerpal Media may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Offerpal Media Platform. Both session cookies and persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. Some of our business partners (e.g. advertisers) use cookies on our site. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by Offerpal Media only and does not cover the use of cookies by any advertisers. 
 
 "Automatically Collected" Information: When you access the Offerpal Media Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, screen resolutions, color capabilities, plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the Offerpal Media Platform, and the dates and times that you visit the Offerpal Media Platform, paths taken, and time spent on sites and pages. 
 
@@ -31,15 +31,15 @@ We will use your email address, without further consent, for administrative comm
 
 Offerpal Media uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Offerpal Media Platform works and looks, and to create new features and functionality. 
 
-Offerpal Media may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the Offerpal Media application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Offerpal Media Platform; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities 
+Offerpal Media may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the Offerpal Media application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Offerpal Media Platform, and otherwise "personalize" your experience; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities 
 
 ## 4\. When Offerpal Media Discloses Information
 
-Offerpal Media does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Offerpal Media Platform or related sites becomes publicly available and may be collected and used by others without restriction. 
+Offerpal Media does not share your personally identifiable information with unrelated organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Offerpal Media Platform or related sites becomes publicly available and may be collected and used by others without restriction. 
 
-We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; validate credit card numbers; conduct data analysis and create reports; offer certain functionality; and assist Offerpal Media in improving the Offerpal Media Platform and creating new services features. We require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures. 
+We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, development, maintenance, support, and security services; fulfill orders; validate credit card numbers; conduct data analysis and create reports; offer certain functionality; and assist Offerpal Media in improving the Offerpal Media Platform and creating new services features. We generally require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures. We may also disclose some limited User information to third parties in connection with processing your request to redeem Offerpal virtual currency for virtual currency or virtual goods offered by such third party. 
 
-Offerpal Media may share aggregate statistical information gathered from you and other Users with advertisers, business partners, sponsor or other third parties. For example, we may tell an advertiser that X number of visitors visited a certain area on a web site or that Y number of men and Z number 
+Offerpal Media may share aggregate statistical information gathered from you and other Users with advertisers, business partners, sponsor or other third parties. For example, we may tell an advertiser that X number of visitors visited a certain area on a web site 
 
 Offerpal Media may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity. 
 
@@ -47,7 +47,7 @@ Offerpal Media also reserves the right to disclose User information that we beli
 
 ## 5\. Your Choices
 
-You may, of course, decline to share your personally-identifiable information with Offerpal Media, in which case Offerpal Media will not be able to provide to you some of the features and functionality found on the Offerpal Media Platform. You may update, correct, or delete your user information and preferences on the account information page under "My Account - Account Settings". 
+You may, of course, decline to share your personally-identifiable information with Offerpal Media, in which case Offerpal Media will not be able to provide to you some of the features and functionality found on the Offerpal Media Platform. You may update, correct, or delete your user information and preferences on the account applicable information page, such as "My Account - Account Settings", or "My Account � Account Information". 
 
 We recommend you do not divulge your account password to anyone. Offerpal Media will never ask you for your password in an unsolicited telephone call or e-mail. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES. 
 
@@ -84,16 +84,15 @@ For Users visiting the Offerpal Media Platform from the European Economic Area o
 
 ## 9\. In the Event of Merger or Sale
 
-In the event that Offerpal Media is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control. 
+In the event that all or a portion of Offerpal Media is acquired by, spun out, or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, spin out, acquisition, sale, or other change of control. 
 
 ## 10\. Changes and Updates to this Privacy Policy
 
-This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Offerpal Media Platform constitutes your agreement to this Privacy Policy and any future revisions. For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you (e.g. by email or by means of a notice on our homepage) and obtain your consent before implementing revisions with respect to such information. 
+This Privacy Policy may be revised periodically, and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. When we modify this Privacy Policy, we will make reasonable efforts to notify you (e.g. by email or by means of a notice on our homepage or a popup upon your subsequent login). Our amended Privacy Policy will automatically take effect 30 days after we provide notice of the change, except that (i) we will not, without your consent, use your previously collected personally identifiable information in a manner inconsistent Privacy Policy in effect when we received that information, and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of the Offerpal Service. 
 
-## 11\. Effective Date, Date Last Modified
+## 11\. Date Last Modified
 
-Privacy Policy effective as of August 3, 2007.  
-Privacy Policy last modified on August 3, 2007. 
+Privacy Policy last modified on [insert re-publication date]. 
 
 ## 12\. Unsolicited E-mails
 
