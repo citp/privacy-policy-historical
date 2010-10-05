@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doggiesolutions.co.uk privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330081244id_/http%3A//www.doggiesolutions.co.uk/privacy-policy-6382-0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doggiesolutions.co.uk privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005084745id_/http%3A//www.doggiesolutions.co.uk/privacy-policy-6382-0.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,15 +10,15 @@ We will not e-mail you in the future unless you have given us your consent.
 
 We will give you the chance to refuse any marketing email from us or from another trader in the future.
 
-The type of information we will collect about you includes:
+## The type of information we will collect about you includes:
 
-your name  
-address  
-phone number  
-email address  
-credit/debit card details
+Your name  
+Address  
+Phone Number  
+Email Address  
+Credit/Debit Card Details
 
-We will never collect sensitive information about you without your explicit consent.
+**We will never collect sensitive information about you without your explicit consent.**
 
 The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
 
