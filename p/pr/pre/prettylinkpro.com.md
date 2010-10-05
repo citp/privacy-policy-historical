@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330111927id_/http%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005144149id_/http%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BCW Enterprises, LLC, a Utah limited liability company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
+Caseproof, LLC, a Utah limited liability company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
 ### Information Collected
 
@@ -24,8 +24,8 @@ BCW Enterprises, LLC, a Utah limited liability company, owns and operates this w
 #### Account Information
 
   * Your information is maintained on a secure web server in what we believe to be a well protected environment.
-  * BCW Enterprises only shares personal information to billing companies for completing transactions and for no other purpose. No other information is shared with any other third-party company for any purpose, under any circumstance.
-  * BCW Enterprises makes every effort to preserve your privacy, personal information may be disclosed when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, court order or legal process.
+  * Caseproof only shares personal information to billing companies for completing transactions and for no other purpose. No other information is shared with any other third-party company for any purpose, under any circumstance.
+  * Caseproof makes every effort to preserve your privacy, personal information may be disclosed when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, court order or legal process.
 
 
 
@@ -37,7 +37,7 @@ BCW Enterprises, LLC, a Utah limited liability company, owns and operates this w
 
 #### Links
 
-This Web site contains links to other sites. Please be aware that we, BCW Enterprises, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that we, Caseproof, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 #### Security
 
@@ -66,7 +66,7 @@ If visitors have any questions or suggestions regarding our privacy policy, plea
 [Customer Service Form](https://web.archive.org/contact)  
 Phone: (801) 921-6928
 
-BCW Enterprises  
+Caseproof  
 1953 S 1100 E #521311  
 Salt Lake City, UT 84106
 
