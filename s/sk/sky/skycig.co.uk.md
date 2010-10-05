@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skycig.co.uk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525111315id_/http%3A//www.skycig.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skycig.co.uk privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005022030id_/http%3A//www.skycig.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# SKY Cig Privacy Policy
+# Privacy Policy - SKY Cig Electronic Cigarettes, Smokeless Cigarettes
 
 ## SKY Cig Privacy Policy
 
