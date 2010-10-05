@@ -1,45 +1,115 @@
-> *The following text is extracted and transformed from the ildivo.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016202925id_/http%3A//ildivo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ildivo.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005033936id_/http%3A//www.ildivo.com/info/ID_privacy.aspx) for the most accurate reproduction.*
 
-# Untitled Document
+# The Official Community of Il Divo: News, Forum, Mailing List, Shop
 
-### PRIVACY POLICY
+## IlDivo.com Privacy Policy
 
-### LEGAL NOTICE 
+At IlDivo.com, we respect the privacy concerns of the users and other visitors to our website. We understand that we are responsible for Personal Information under our control. By visiting IlDivo.com, you are accepting the Terms of Use and the practices described in this Privacy Policy ("Privacy Policy").
 
-This notice discloses the online data collection and use practices of SONYBMG Music d/b/a SONYBMG Music Entertainment UK ("SONYBMG" or "we") Ltd, Bedford House, 69-79 Fulham High Street, London SW6 3JW. This SONYBMG consumer privacy policy is an agreement between you and SONYBMG. You will signify your acceptance of this consumer privacy policy by purchasing rights to download and/or use our digital music files and/or related content (our "content"). If you do not agree to the terms of this policy, do not download and/or use our content. 
+Please review this Privacy Policy periodically. We may update it from time to time and we will notify you of any modifications in this section or in links from this section. Our privacy policy is in accordance with Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA").
 
-SONYBMG may modify, alter or otherwise update this policy at any time. We will indicate any changes by updating the date at the top of the policy. We encourage you to review this policy from time to time. Your continued use of our content following the posting of changes to this policy will mean you accept those changes. "Information" means all material delivered by SONYBMG Music Entertainment UK through this or any other website owned by the company. (the "Web Site"). "User" means you, the Web Site end-user. "Contract" means this Web Site agreement. 
+If you feel that this site is not following its stated information policy, you may contact us (at the addresses or phone number below). "Personal Information" means any information about an identifiable individual but does not include the name, title or business address or telephone number of an employee of an organization.
 
-### A SPECIAL NOTE TO KIDS 
+### Information We Collect
 
-YOU MUST BE 13 YEARS OF AGE OR OLDER TO REGISTER WITH SONYBMG AND/OR ITS CLEARINGHOUSES. AT THE PRESENT TIME WE MUST ASK YOU NOT TO REGISTER WITH SONYBMG AND/OR ITS CLEARINGHOUSES IF YOU ARE UNDER 13 YEARS OF AGE. 
+For each visitor to this website our web server automatically recognizes non-individual data only, but not Personal Information (where possible). We use this information to notify users on updates and optimize the Site for you and to diagnose problems with IlDivo.com. We collect information volunteered by the consumer, such as survey information, site registrations, and/or orders placed with IlDivo.com.
 
-### A SPECIAL NOTE TO PARENTS 
+### How We Use This Information
 
-While SONYBMG prohibits registration by children under the age of 13, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page ( [http://www.dma.org.uk ](http://www.dma.org.uk/)). 
+We collect the minimum amount of Personal Information necessary to provide our services. The information we collect is used to:
 
-### PRIVACY PRACTICES AND POLICIES & OUR USE OF YOUR PERSONAL INFORMATION 
+  * notify users about recent updates on IlDivo.com 
+  * ship products purchased on IlDivo.com and inform buyers about their orders 
+  * offer promotional opportunities from us and our partners to site members 
+  * improve the function of this website 
 
-Your e-mail address and other personally identifying data will be known to SONYBMG only when you voluntarily submit such information to our websites. We may use this personal information to contact you if we change our services or terms or if we need to give you notice under those terms. 
 
-The information about your acquisition of our content and your musical preferences may be used to send you information that we believe may be of interest to you, such as information about music or products or services offered by SONYBMG, an affiliated company or a SONYBMG artist. However, no one will send that information to you unless you opt-in to receive it at the time you register. 
 
-If you decide at any time in the future that you wish to begin receiving such information (if you previously opted-out) or that you wish to cease receiving such information (if you previously opted-in), you may change your preferences at any time by sending an email to interact(at)bmg(dot).com 
+We do not sell, rent, or lease our site customer information to third parties. In order to provide our services, we occasionally share information to our business partners to help make decisions about the content made available to our customers. We use trusted, third-party companies to assist us in fulfilling orders and processing credit card payments. These companies are only given the necessary amount of Personal Information needed to complete the transaction and payment information is destroyed upon completion of the order. Any transfer of information is subject to the limitations of this privacy statement.
 
-### WITH WHOM WE SHARE YOUR INFORMATION 
+### Consent
 
-As a general rule, we will not disclose any personal information we collect from you without your consent. However, we may disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. We may disclose user information when we believe in good faith that the law requires it. 
+Personal Information will only be collected, used or disclosed with a site customer's consent, except where required or permitted by law. Consent can be express or implied. It will never be a requirement to obtain a service or product except where necessary to be able to supply that product or service. Site customers can withdraw their consent at any time, subject to legal or contractual restrictions. If you would like to withdraw your consent please [contact us](mailto:help@ildivo.com).
 
-If you have opted-in to receive marketing information from us, we may share your information with our affiliated companies and/or with our artists. We will not share your personal information with other third parties for marketing purposes without your consent. 
+### Cookies
 
-We may share with others, at our discretion, certain aggregate statistical data about purchases and the use of our content, which data may include demographic data such as the age range and/or geographic location of groups of users. No personal information (such as names or email addresses) will be identifiable from such statistics. 
+IlDivo.com uses cookies to help personalize your online experience, by, among other things, saving your passwords and preferences for you.  These cookies are restricted for use only on IlDivo.com, and do not transfer any Personal Information to any other party. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of IlDivo.com will not function properly or may be considerably slower.
 
-We may transfer, sell or assign any of the information described above, including personally identifiable information, to third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of SONYBMG. 
+### External Sites
 
-### SECURITY 
+Neither IlDivo.com nor its partners are responsible for the privacy practices or the content of external websites. When we include links to other internet sites, on this site and in our newsletters and other communications, we do so solely as a convenience to our visitors.
 
-SONYBMG strictly protects the security of your personal information and your choices for its intended use. We use current industry standard technology to maintain the confidentiality and accuracy of the information you provide to us. To protect your personal information, we use "secure servers" with industry standard SSL 128 bit key encryption. However, we cannot guarantee that any information you submit to us will be free from unauthorized third party intrusion. 
+### Security
 
-### CHANGE/MODIFY 
+We work to secure your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you at any point you no longer wish to receive communications from SONYBMG, please forward such requests to us at interact(at)sonybmg(dot)com. 
+### Control of Your Information
+
+IlDivo.com offers choices to our customers for the collection, use and sharing of Personal Information. If you do not wish to receive email for mailing lists from us you can unsubscribe to the list by using the link at the bottom of every mailing. 
+
+Upon request we provide site visitors with access to unique identifier information (e.g. customer number), transaction information (e.g. dates on which customers made purchases, amounts and types of purchases), communications that have been directed to our site (e.g. emails, customer inquiries), and contact information (e.g. name, address, phone number). Site visitors can access this information through the various account settings features on the website or by writing to us at the email address or the mailing address below. We keep all Personal Information about our visitors up-to-date and encourage our visitors to update us on any changes to their Personal Information by emailing or writing to us.
+
+### Privacy Principles for IlDivo.com
+
+In addition to anything stated in this Privacy Policy, we abide by the following ten principles:
+
+#### ACCOUNTABILITY 
+
+We are responsible for the Personal Information under our control and have designated one or more individuals who will be accountable for the company's compliance with the procedures and principles set out in this Privacy Policy. 
+
+#### IDENTIFYING PURPOSE 
+
+We will identify the purpose for which Personal Information is collected at or before the time the information is collected. The purposes for which information is collected, used or disclosed by us will be reasonable. 
+
+#### CONSENT 
+
+The knowledge and consent of the individual are required for the collection, use or disclosure of Personal Information. 
+
+#### LIMITING COLLECTION 
+
+We will limit the collection of PERSONAL INFORMATION to what is necessary for the purposes identified. 
+
+#### LIMITING USE, DISCLOSURE AND RETENTION 
+
+Personal Information will only be used or disclosed for purposes we set out. Except with the consent of the individual or as may be required by law. Personal Information will be retained only as long as necessary for the fulfillment of the purposes for which it was collected. 
+
+#### ACCURACY 
+
+Personal Information will be as accurate, complete and current as is necessary for the purposes for which it is to be used. 
+
+#### SAFEGUARDS 
+
+Personal Information will be protected by security safeguards appropriate to the sensitivity of the information and the circumstances. 
+
+#### OPENNESS 
+
+We will make readily available to our users, customers and employees specific information about its policies and practices relating to the collection, use or disclosure of Personal Information. 
+
+#### INDIVIDUAL ACCESS 
+
+Upon request, you will be informed of the existence, use and disclosure of your Personal Information and will be given access to that information except in those circumstances that we are permitted or required by law not to disclose Personal Information to the individual. Such individuals will be able to challenge the accuracy and completeness of the information we have and have it changed as appropriate. 
+
+#### CHALLENGING COMPLIANCE 
+
+An individual will be able to address a challenge concerning compliance with this Privacy Policy. 
+
+### Contact Information
+
+If you have questions we are here to help! There are several ways to contact us:
+
+Email:   
+
+
+[help@IlDivo.com](mailto:help@ildivo.com)
+
+Phone:   
++1 (416) 469-9809   
+Please specify your name, order number, phone number, and your question when leaving a message.
+
+Post:   
+IlDivo.com  
+2238 Dundas Street West  
+P.O. Box 59039  
+Toronto, Ontario  
+M6R 3B5  
+Canada 
