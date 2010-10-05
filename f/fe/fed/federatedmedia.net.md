@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federatedmedia.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210206id_/http%3A//www.federatedmedia.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federatedmedia.net privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006014938id_/http%3A//federatedmedia.net/about/privacy) for the most accurate reproduction.*
 
 # About privacy
 
