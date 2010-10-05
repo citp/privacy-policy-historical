@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperrater.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215025442id_/http%3A//paperrater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperrater.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005083321id_/http%3A//www.paperrater.com/privacy) for the most accurate reproduction.*
 
 # Pre-Grade Your Paper
 
