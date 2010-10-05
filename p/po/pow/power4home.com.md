@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the power4home.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630175930id_/http%3A//www.power4home.com/menuLinks/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power4home.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005085022id_/http%3A//power4home.com/menuLinks/privacy.htm) for the most accurate reproduction.*
 
 # Website Evaluation and eCommerce consultation Privacy Guarantee.
 
@@ -41,7 +41,7 @@ If you have ordered from me or requested any information, I will have personal i
 Occasionally, I may use your email address to let you know about new products, services or special offers on my site that I think would interest you. I might also email previous customers for feedback on their shopping experience. Any message I send you will always include clear, simple instructions for having your name and information permanently deleted from my lists, if you prefer. 
 
 **Security of your Information**  
-I have several security measures in place to protect the loss, misuse and alteration of the information I control. These measures include password protection, encryption and my off-line database, which is not accessible by those on the Internet. I also conduct pre-hire criminal background checks on ALL my employees. For more information on these, and other security measures, please see my detailed [Security Guarantee](https://web.archive.org/web/20100630175930id_/http%3A//www.power4home.com/menuLinks/Security.htm).
+I have several security measures in place to protect the loss, misuse and alteration of the information I control. These measures include password protection, encryption and my off-line database, which is not accessible by those on the Internet. I also conduct pre-hire criminal background checks on ALL my employees. For more information on these, and other security measures, please see my detailed [Security Guarantee](https://web.archive.org/web/20101005085022id_/http%3A//power4home.com/menuLinks/Security.htm).
 
 **My Information Non-Disclosure GUARANTEE**  
 I will never sell, rent, give, share or otherwise disclose to any third party any information that you may provide to me about you, your business, your website or your methods and procedures, without your knowledge or consent without a subpoena or court order.
