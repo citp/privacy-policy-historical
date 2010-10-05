@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segway.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414051824id_/http%3A//www.segway.com/constants/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segway.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005092927id_/http%3A//www.segway.com/constants/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Segway
 
