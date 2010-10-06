@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weareelectricals.com privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626233800id_/http%3A//www.weareelectricals.com/pages/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weareelectricals.com privacy policy that was archived on 2010-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101006191345id_/http%3A//www.weareelectricals.com/pages/8/Privacy-Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -31,43 +31,43 @@
 
 
 	<!-- Include visitor tracking code (if any) -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.weareelectricals.com/index.php?action=tracking_script"></script><!-- Start Tracking Code for analytics_googleanalytics -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-17115853-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<!-- End Tracking Code for analytics_googleanalytics -->
-
-
-
 	
 
-	<style type="text/css"> #Header { background-image: url("http://www.weareelectricals.com/product_images/header_images/Kitchenware_headerImage.jpg"); } </style>
+	<style type="text/css"> #Header { background-image: url("http://www.weareelectricals.com/product_images/header_images/Kitchenware_headerImage.png"); } </style>
 
-	<script type="text/javascript" src="http://www.weareelectricals.com/javascript/jquery.js?1"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.weareelectricals.com/javascript/jquery.js?1"></script>
 	<script type="text/javascript" src="http://www.weareelectricals.com/javascript/menudrop.js?1"></script>
 	<script type="text/javascript" src="http://www.weareelectricals.com/javascript/common.js?1"></script>
 	<script type="text/javascript" src="http://www.weareelectricals.com/javascript/iselector.js?1"></script>
-
+	<script type="text/javascript" src="http://www.weareelectricals.com/javascript/jquery-ui-1.7.3.custom.min.js"></script>
 	<script type="text/javascript">
 	//<![CDATA[
 	config.ShopPath = 'http://www.weareelectricals.com';
 	config.AppPath = '';
 	var ThumbImageWidth = 120;
 	var ThumbImageHeight = 120;
-
 	//]]>
+$(document).ready(function() {
+// check for postcode
+$("div.FormContainer").each(function() {
+    var formC = $(this);
+    $(this).find("input.postcode").each(function() {
+        var ths = $(this);
+        var find = $("<input type='button' value='Find Address' />");
+        $(ths).after(find);
+        $(ths).css({display: "inline",marginRight: "8px"});
+        $(find).bind("click",function() {
+            $.getJSON("remote.php?w=getpostcode&postcode=" + escape($(ths).val()),function(data) {
+                $(formC).find("input.address1").val(data.address1);
+                $(formC).find("input.address2").val(data.address2);
+                $(formC).find("input.towncity").val(data.towncity);
+                $(formC).find(".county").val(data.county);
+                $(formC).find("select.country").val("United Kingdom");
+            });
+        });
+    });
+});
+});
 	</script>
 	
 	<script type="text/javascript" src="http://www.weareelectricals.com/javascript/quicksearch.js"></script>
@@ -76,12 +76,18 @@
 
 <body>
 <div id="Container">
-			<div id="AjaxLoading"><img src="http://www.weareelectricals.com/templates/Kitchenware/images/ajax-loader.gif" alt="">&nbsp; Loading... Please wait...</div>
+	<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+		<div id="AjaxLoading"><img src="http://www.weareelectricals.com/templates/Kitchenware/images/ajax-loader.gif" alt="">&nbsp; Loading... Please wait...</div>
 
 		<div id="Outer">
 &nbsp;<div id="Header">
 				<div id="Logo">
-					<a href="http://www.weareelectricals.com/"><img src="http://www.weareelectricals.com/product_images/logo-web.png" border="0" id="LogoImage" alt="We Are Electricals"></a>
+					<a href="http://www.weareelectricals.com/"><img src="http://www.weareelectricals.com/product_images/web-header-backup.png" border="0" id="LogoImage" alt="We Are Electricals"></a>
 
 				</div>
 				<br class="Clear">
@@ -105,47 +111,125 @@
 
 			</div>
 				
-		
-		<div id="TopMenu">
+<script>
+var hasLoaded = false;
+$(document).ready(function() {
+
+/*    $(".CartLink").bind("mouseenter",function() {
+doCart();
+    }); */
+    $("#ajcartclose,#ajoverlay").bind("click",function() {
+$("div#ajoverlay").fadeOut();
+        $("#ajcart").fadeOut(function() {
+            $("#ajcart div.insider").html("");
+        });
+    });
+});
+
+function doCart() {
+        if ($("#ajcart:visible").length>0) { return; }
+$("div#ajoverlay").css({opacity: 0.8}).fadeIn();
+        if (hasLoaded==false) {
+            lang.CartRemoveConfirm = "Are you sure you wish to remove this item?";
+            $("head").append($("<link>").attr({
+                rel: "stylesheet",
+                type: "text/css",
+                href: "/javascript/jquery/plugins/imodal/imodal.css?1"
+            }));
+            $.getScript('/javascript/cart.js',function() {    
+                Cart.RemoveItem = function() { }
+Cart.UpdateQuantity = function() { }
+            });
+            $.getScript('/javascript/jquery/plugins/imodal/imodal.js');
+            hasLoaded = true;
+        }
+        $("#ajcart .insider").load("/cart.php #CartContent",function() {
+            $(this).prepend("<h2 class='title'>Your Cart</h2>");
+            if ($(".CartLink.nofade").length>0) {
+                $(".CartLink.nofade").removeClass("nofade");
+                $(this).parent().show();
+            } else {
+                $(this).parent().fadeIn();
+            }
+            $("#ajcart div.insider select").bind("change",function(ev) {
+                $.ajax({
+                    url: '/cart.php',
+                    dataType: 'html',
+                    data: $("#cartForm").serialize(),
+                    success: function(data) {
+                        $("#ajcart").hide();
+                        $("#ajcart div.insider").html("");
+                        $(".CartLink").addClass("nofade");
+                        doCart();
+                    }
+                });
+            });
+
+            $("#ajcart div.insider a:not(.CartRemoveLink)").each(function() {
+                if ($(this).attr("href")!="#") {
+                    $(this).attr("href","/" + $(this).attr("href"));
+                }
+            });
+
+            $("#ajcart div.insider a.CartRemoveLink").bind("click",function(ev) {
+                ev.stopImmediatePropagation();
+                if (window.confirm(lang.CartRemoveConfirm)) {
+                    $.get("/" + $(this).attr("href"),function() {
+                        $("#ajcart").hide();
+                        $("#ajcart div.insider").html("");
+                        $(".CartLink").addClass("nofade");
+                        doCart();
+                    });
+                }
+                return false;
+            });
+
+            var rH = $(this).height() + 20;
+            var thisH = $("#ajcart").height();
+            var rPerc = thisH / rH;
+            if (rPerc<1) {
+                var barSize = thisH * rPerc;
+                $("#ajcart").prepend("<div class='ListScroller'><div class='Bar'></div></div>");
+                var ls = $("#ajcart").find(".ListScroller");
+                $("#ajcart").css({overflow: "hidden"});
+                ls.css({marginLeft: ($("#ajcart").width() - 10)+"px",height: thisH + "px"})
+                ls.find(".Bar").css({height: barSize});
+                ls.find(".Bar").draggable({ axis: 'y', containment: ls, scroll: false })
+                .bind("drag",function() {
+                    var scrollAmount = $(this).position().top;
+                    var actualAmount = scrollAmount / rPerc;
+                    $("#ajcart div.insider").css({marginTop: -actualAmount + "px"});
+                });  
+            }   
+
+        });
+}
+</script>		
+		<div id="TopMenu" style="clear: both;">
 			<ul style="display:">
-				<li style="display:none" class="HeaderLiveChat">
-					
+				<li style="" class="HeaderLiveChat">
+					<script type="text/javascript" src="http://tracker.gosquared.com/GSN-166249-H"></script>
 				</li>
 				<li style="display:" class="First"><a href="http://www.weareelectricals.com/account.php">My Account</a></li>
 				<li style="display:"><a href="http://www.weareelectricals.com/orderstatus.php">Order Status</a></li>
 				<li style="display:"><a href="http://www.weareelectricals.com/wishlist.php">Wish Lists</a></li>
-				
+				<li><a href="http://www.weareelectricals.com/giftcertificates.php">Gift Certificates</a></li>
 				<li style="display:" class="CartLink"><a href="http://www.weareelectricals.com/cart.php">View Cart <span></span></a></li>
 				<li style="display:">
 					<div>
 						<a href="http://www.weareelectricals.com/login.php" onclick="">Sign in</a> or <a href="http://www.weareelectricals.com/login.php?action=create_account" onclick="">Create an account</a>
 					</div>
 				</li>
+<li style="float: right; line-height: 32px; font-family: 'Trebuchet MS'; padding-right: 6px;"><form action="/quick" method="post"><label for="quickcode" style="color: #9f0000; font-weight: bold;">Quick Code: </label><input type="text" name="quickcode" id="quickcode" value=""></form></li>
+
 			</ul>
 			<br class="Clear">
 		</div>
-			<div id="Menu">
-		<ul>
-			<li class="First "><a href="http://www.weareelectricals.com/"><span>Home</span></a></li>
-				<li class="HasSubMenu ">
-		<a href="http://www.weareelectricals.com/pages/Customer-Service.html"><span>Customer Service</span></a>
-		<ul>
-	<li><a href="http://www.weareelectricals.com/pages/Orders-%26-Returns-Information.html">Orders &amp; Returns Information</a></li><li><a href="http://www.weareelectricals.com/pages/Price-Promise.html">Price Promise</a></li><li><a href="http://www.weareelectricals.com/pages/Privacy-Policy.html">Privacy Policy</a></li><li><a href="http://www.weareelectricals.com/pages/Terms-%26-Conditions.html">Terms &amp; Conditions</a></li><li><a href="http://www.weareelectricals.com/pages/Money-Back-Guarantee.html">Money Back Guarantee</a></li><li><a href="http://www.weareelectricals.com/pages/Payment-Options.html">Payment Options</a></li><li><a href="http://www.weareelectricals.com/pages/Returns-%26-Cancellations.html">Returns &amp; Cancellations</a></li><li><a href="http://www.weareelectricals.com/pages/Delivery.html">Delivery</a></li>
-</ul>
-	</li>	<li class=" ">
-		<a href="http://www.weareelectricals.com/pages/RSS.html"><span>RSS</span></a>
-		
-	</li>	<li class=" ">
-		<a href="http://www.weareelectricals.com/pages/Contact-Us.html"><span>Contact Us</span></a>
-		
-	</li>
-		</ul>
-	</div>
+
 
 	<div id="Wrapper">
-		
+		<div class="VATmessage"></div>
 		<div class="Left" id="LayoutColumn1">
-			
 			<script>
 $(document).ready(function() {
   $(".CategoryList ul li").bind("mouseenter",function() {
@@ -161,279 +245,438 @@ $(document).ready(function() {
 					<h2>Browse Electricals</h2>
 					<div class="BlockContent">
 						<ul>
-								<li class=""><a href="http://www.weareelectricals.com/categories/Audio/">Audio</a>
+								<li class=""><a href="http://www.weareelectricals.com/categories/2060/Board-Games">Board Games</a>
 <span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Audio-Accessories/">Audio Accessories</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Cd-%7B47%7D-Radio-%7B47%7D-Cassette-Players/">Cd / Radio / Cassette Players</a>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2128/Board-Games-Family-Games">Family Games</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Dictaphones/">Dictaphones</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2093/Board-Games-Other-Board-Games">Other Board Games</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Dj%7B47%7Daudio-Equipment/">Dj/audio Equipment</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Headphones/">Headphones</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Hifi-Systems/">Hifi Systems</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/In%252dcar-Entertainment/">In-car Entertainment</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Mp3-Accessories/">Mp3 Accessories</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Mp3-Player-Cases/">Mp3 Player Cases</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Mp3-Players/">Mp3 Players</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Mp3-Speakers/">Mp3 Speakers</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Audio/Personal-Stereos/">Personal Stereos</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Audio/Radios-And-Clock-Radios/">Radios And Clock Radios</a>
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2061/Board-Games-Poker">Poker</a>
 <span class="righter">&gt;</span>
 	
 	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Camcorders/">Camcorders</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2030/Boys%27-Toys">Boys' Toys</a>
 <span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Camcorders/Camcorder-Accessories/">Camcorder Accessories</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Camcorders/Digital-Camcorders/">Digital Camcorders</a>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2194/Boys%27-Toys-Characters">Characters</a>
 <span class="righter">&gt;</span>
 	
-	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Cameras/">Cameras</a>
-<span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Cameras/Accessories/">Accessories</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2085/Boys%27-Toys-Lego">Lego</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Cameras/Camera-Lenses/">Camera Lenses</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2181/Boys%27-Toys-Playmobil">Playmobil</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Cameras/Digital-Cameras/">Digital Cameras</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2172/Boys%27-Toys-Playsets">Playsets</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Cameras/Digital-Photo-Frames/">Digital Photo Frames</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2031/Boys%27-Toys-Remote%252dcontrolled-Vehicles">Remote-controlled Vehicles</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Cameras/Flashes/">Flashes</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2856/Boys%27-Toys-Role%252dplay-Games">Role-play Games</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Cameras/Memory-Cards/">Memory Cards</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Cameras/Professional-Digital-Photo-Systems/">Professional Digital Photo Systems</a>
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2200/Boys%27-Toys-Vehicles">Vehicles</a>
 <span class="righter">&gt;</span>
 	
 	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/">Computing</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1777/Camcorder">Camcorder</a>
 <span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Components/">Components</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Connectors-And-Cables/">Connectors And Cables</a>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/1872/Camcorder-Camcorder-Accessories">Camcorder Accessories</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Desktop-Computers/">Desktop Computers</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Laptop-Accessories/">Laptop Accessories</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Laptops/">Laptops</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Media-Tablets-And-E%252dbook-Readers/">Media Tablets And E-book Readers</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Meteorology/">Meteorology</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Netbook/">Netbook</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Pc-Monitors/">Pc Monitors</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Pda-Accessories/">Pda Accessories</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Peripherals/">Peripherals</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Printers-And-Fax-Machines/">Printers And Fax Machines</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Scanners/">Scanners</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Security/">Security</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Software/">Software</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Storage/">Storage</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Computing/Wired-Networks/">Wired Networks</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Computing/Wireless-Networks/">Wireless Networks</a>
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/1778/Camcorder-Digital-Camcorder">Digital Camcorder</a>
 <span class="righter">&gt;</span>
 	
 	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/">Consumables</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1792/Cameras">Cameras</a>
 <span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Audio-Tapes/">Audio Tapes</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Blank-Cds/">Blank Cds</a>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/1842/Cameras-Accessories">Accessories</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Blank-Dvds-%7B47%7D-Blu%252dray-%7B47%7D-Hd%252ddvds/">Blank Dvds / Blu-ray / Hd-dvds</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1909/Cameras-Camera-Lenses">Camera Lenses</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Camcorders/">Camcorders</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1793/Cameras-Digital-Camera">Digital Camera</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Cameras/">Cameras</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1806/Cameras-Digital-Photo-Frame">Digital Photo Frame</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Cd%7B47%7Ddvd%2C-Tape-Storage/">Cd/dvd, Tape Storage</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2045/Cameras-Flash">Flash</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Cleaning-Kits/">Cleaning Kits</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1861/Cameras-Memory-Cards">Memory Cards</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Floppy-Disks/">Floppy Disks</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Minidiscs/">Minidiscs</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Printer-Cartridges/">Printer Cartridges</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Consumables/Printer-Paper/">Printer Paper</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Consumables/Vhs-Video-Tapes/">Vhs Video Tapes</a>
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2317/Cameras-Professional-Digital-Photo-System">Professional Digital Photo System</a>
 <span class="righter">&gt;</span>
 	
 	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Gps-%26-Sat-Nav/">Gps &amp; Sat Nav</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1780/Computing">Computing</a>
 <span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Gps-%26-Sat-Nav/Gps-%26-Sat-Nav/">Gps &amp; Sat Nav</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Gps-%26-Sat-Nav/Gps-%26-Sat-Nav-Accessories/">Gps &amp; Sat Nav Accessories</a>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/1797/Computing-Component">Component</a>
 <span class="righter">&gt;</span>
 	
-	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/">Small Home Appliances</a>
-<span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Air-Conditioning%2C-Fans%2C-Humidifiers/">Air Conditioning, Fans, Humidifiers</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2020/Computing-Connectors-And-Cables">Connectors And Cables</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Body-Care/">Body Care</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1959/Computing-Desktop-Computer">Desktop Computer</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Breakfast-%7B47%7D-Coffee-Makers-%7B47%7D-Espresso-Machines/">Breakfast / Coffee Makers / Espresso Machines</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1875/Computing-Gadgets">Gadgets</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Cooking-%7B47%7D-Microwaves-%7B47%7D-Bread-Machines/">Cooking / Microwaves / Bread Machines</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1864/Computing-Laptop">Laptop</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Culinary-Preparation-%7B47%7D-Mixers-%7B47%7D-Blenders/">Culinary Preparation / Mixers / Blenders</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1929/Computing-Laptop-Accessories">Laptop Accessories</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Electric-Razors-And-Clippers/">Electric Razors And Clippers</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1900/Computing-Media-Tablets-And-E%252dbook-Readers">Media Tablets And E-book Readers</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Hair-Care/">Hair Care</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1917/Computing-Netbook">Netbook</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Linen-Care-%7B47%7D-Sewing-Machines/">Linen Care / Sewing Machines</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1804/Computing-Pc-Monitor">Pc Monitor</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Small-Home-Appliances/Vacuums-And-Floor-Cleaners/">Vacuums And Floor Cleaners</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1783/Computing-Peripheral">Peripheral</a>
 <span class="righter">&gt;</span>
 	
-	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Telephony/">Telephony</a>
-<span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Telephony/Cordless-Phones/">Cordless Phones</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1855/Computing-Printer-And-Fax-Machine">Printer And Fax Machine</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Telephony/Mobile-Phone-Accessories/">Mobile Phone Accessories</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1926/Computing-Scanner">Scanner</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Telephony/Mobile-Phones/">Mobile Phones</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1795/Computing-Security">Security</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Telephony/Walkie-Talkies/">Walkie Talkies</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2356/Computing-Software">Software</a>
 <span class="righter">&gt;</span>
 	
-	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/">Tv &amp; Video</a>
-<span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Digital-And-Satellite-Tv/">Digital And Satellite Tv</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1781/Computing-Storage">Storage</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Dvd%7B47%7Dblu%252dray-Players-%26-Recorders/">Dvd/blu-ray Players &amp; Recorders</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1985/Computing-Wired-Network">Wired Network</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Home-Cinema/">Home Cinema</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Projectors/">Projectors</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Supports-And-Stands/">Supports And Stands</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Televisions/">Televisions</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Tv-Accessories/">Tv Accessories</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Tv-%26-Video/Universal-Remote-Controls/">Universal Remote Controls</a>
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/1879/Computing-Wireless-Network">Wireless Network</a>
 <span class="righter">&gt;</span>
 	
 	</li></ul>
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Video-Games/">Video Games</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1852/Consumables">Consumables</a>
 <span class="righter">&gt;</span>
-	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/Video-Games/Ds/">Ds</a>
-<span class="righter">&gt;</span>
-	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Video-Games/Pc/">Pc</a>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2095/Consumables-Audio-Tape">Audio Tape</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Video-Games/Ps2/">Ps2</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1907/Consumables-Battery">Battery</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Video-Games/Ps3/">Ps3</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2322/Consumables-Blank-Cd">Blank Cd</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Video-Games/Psp/">Psp</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2100/Consumables-Blank-Dvd-%7B47%7D-Blu%252dray-%7B47%7D-Hd%252ddvd">Blank Dvd / Blu-ray / Hd-dvd</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/Video-Games/Wii/">Wii</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2047/Consumables-Camcorder">Camcorder</a>
 <span class="righter">&gt;</span>
 	
-	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/Video-Games/Xbox-360/">Xbox 360</a>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2374/Consumables-Camera">Camera</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2213/Consumables-Cd%7B47%7Ddvd%2C-Tape-Storage">Cd/dvd, Tape Storage</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2022/Consumables-Cleaning-Kit">Cleaning Kit</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2822/Consumables-Floppy-Disk">Floppy Disk</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2369/Consumables-Minidisc">Minidisc</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1853/Consumables-Printer-Cartridge">Printer Cartridge</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1996/Consumables-Printer-Paper">Printer Paper</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2163/Consumables-Vhs-Video-Tape">Vhs Video Tape</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2273/Creative-Hobbies">Creative Hobbies</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2276/Creative-Hobbies-Arts-And-Crafts">Arts And Crafts</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2878/Creative-Hobbies-Painting-And-Drawing">Painting And Drawing</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2274/Creative-Hobbies-Stationery">Stationery</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2112/Girls%27-Toys">Girls' Toys</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2113/Girls%27-Toys-Barbie">Barbie</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2192/Girls%27-Toys-Dolls-And-Baby-Dolls">Dolls And Baby Dolls</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2801/Girls%27-Toys-Figures">Figures</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2858/Girls%27-Toys-Role-Play-Toys">Role Play Toys</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1813/Gps-%26-Sat-Nav">Gps &amp; Sat Nav</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/1814/Gps-%26-Sat-Nav-Gps-%26-Sat-Nav">Gps &amp; Sat Nav</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/1824/Gps-%26-Sat-Nav-Gps-%26-Sat-Nav-Accessory">Gps &amp; Sat Nav Accessory</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2057/Multimedia-And-Music">Multimedia And Music</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2058/Multimedia-And-Music-Multimedia">Multimedia</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1998/Outdoor-Games">Outdoor Games</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/1999/Outdoor-Games-Family-Games-And-Sports">Family Games And Sports</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2033/Outdoor-Games-Vehicles">Vehicles</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2876/Probe">Probe</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1940/Small-Home-Appliances">Small Home Appliances</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2351/Small-Home-Appliances-Air-Conditioning%2C-Fans%2C-Humidifiers">Air Conditioning, Fans, Humidifiers</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2090/Small-Home-Appliances-Body-Care">Body Care</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1941/Small-Home-Appliances-Breakfast-%7B47%7D-Coffee-Makers-%7B47%7D-Espresso-Machines">Breakfast / Coffee Makers / Espresso Machines</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2121/Small-Home-Appliances-Cooking-%7B47%7D-Microwaves-%7B47%7D-Bread-Machines">Cooking / Microwaves / Bread Machines</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1964/Small-Home-Appliances-Culinary-Preparation-%7B47%7D-Mixers-%7B47%7D-Blenders">Culinary Preparation / Mixers / Blenders</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2070/Small-Home-Appliances-Electric-Razor-And-Clipper">Electric Razor And Clipper</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2102/Small-Home-Appliances-Hair-Care">Hair Care</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2131/Small-Home-Appliances-Linen-Care-%7B47%7D-Sewing-Machines">Linen Care / Sewing Machines</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2083/Small-Home-Appliances-Vacuums-And-Floor-Cleaners">Vacuums And Floor Cleaners</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1789/Telephony">Telephony</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2009/Telephony-Cordless-Phone">Cordless Phone</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1790/Telephony-Mobile-Phone">Mobile Phone</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1802/Telephony-Mobile-Phone-Accessories">Mobile Phone Accessories</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2014/Telephony-Walkie-Talkie">Walkie Talkie</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1821/Tv-%26-Video">Tv &amp; Video</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/1831/Tv-%26-Video-Digital-And-Satellite-Tv">Digital And Satellite Tv</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1884/Tv-%26-Video-Dvd%7B47%7Dblu%252dray-Player-%26-Recorder">Dvd/blu-ray Player &amp; Recorder</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1882/Tv-%26-Video-Home-Cinema">Home Cinema</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1920/Tv-%26-Video-Projector">Projector</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1924/Tv-%26-Video-Support-And-Stand">Support And Stand</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1822/Tv-%26-Video-Television">Television</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1867/Tv-%26-Video-Tv-Accessories">Tv Accessories</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/1987/Tv-%26-Video-Universal-Remote-Control">Universal Remote Control</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1847/Video-Game">Video Game</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/1902/Video-Game-Ds">Ds</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2038/Video-Game-Pc">Pc</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2325/Video-Game-Ps2">Ps2</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1848/Video-Game-Ps3">Ps3</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1948/Video-Game-Psp">Psp</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2175/Video-Game-Retro-Gaming">Retro Gaming</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/1982/Video-Game-Wii">Wii</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/1888/Video-Game-Xbox-360">Xbox 360</a>
+<span class="righter">&gt;</span>
+	
+	</li></ul>
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2380/Business">Business</a>
+<span class="righter">&gt;</span>
+	<ul>	<li class=""><a href="http://www.weareelectricals.com/categories/2401/Business-Audio-Visual">Audio Visual</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2404/Business-Backup-Drives">Backup Drives</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2427/Business-Cables">Cables</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2441/Business-Cameras">Cameras</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2414/Business-Cases">Cases</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2446/Business-Cleaning-Products">Cleaning Products</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2381/Business-Computing">Computing</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2487/Business-Consumables">Consumables</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2575/Business-Displays">Displays</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2456/Business-Entertainment-Products">Entertainment Products</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2385/Business-Epson">Epson</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2462/Business-Fans">Fans</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2474/Business-Graphics-Cards">Graphics Cards</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2742/Business-Green-Products">Green Products</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2480/Business-Hard-Drives">Hard Drives</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2718/Business-Hp-Solid">Hp Solid</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2502/Business-Keyboards">Keyboards</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2616/Business-Laptop-Spares">Laptop Spares</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2398/Business-Laptops">Laptops</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2448/Business-Memory">Memory</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2564/Business-Mice">Mice</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2444/Business-Miscellaneous">Miscellaneous</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2561/Business-Modems">Modems</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2573/Business-Monitors">Monitors</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2547/Business-Motherboards">Motherboards</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2583/Business-Network-Products">Network Products</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2411/Business-Optical-Storage">Optical Storage</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2654/Business-Power-Supplies">Power Supplies</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2621/Business-Prebuilts">Prebuilts</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2383/Business-Printers">Printers</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2640/Business-Processors">Processors</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2388/Business-Samsung">Samsung</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2744/Business-Servers">Servers</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2753/Business-Software">Software</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2737/Business-Speakers">Speakers</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2619/Business-Systems">Systems</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class=""><a href="http://www.weareelectricals.com/categories/2496/Business-Toner">Toner</a>
+<span class="righter">&gt;</span>
+	
+	</li>	<li class="LastChild"><a href="http://www.weareelectricals.com/categories/2763/Business-Voip">Voip</a>
 <span class="righter">&gt;</span>
 	
 	</li></ul>
@@ -441,12 +684,11 @@ $(document).ready(function() {
 						</ul>
 					</div>
 				</div>
-			
 			<div class="Block BrandList Moveable Panel" id="SideShopByBrand" style="display: ">
 	<h2>Popular Brands</h2>
 	<div class="BlockContent">
 		<ul>
-				<li><a href="http://www.weareelectricals.com/brands/Sony.html">Sony</a></li>	<li><a href="http://www.weareelectricals.com/brands/Philips.html">Philips</a></li>	<li><a href="http://www.weareelectricals.com/brands/Samsung.html">Samsung</a></li>	<li><a href="http://www.weareelectricals.com/brands/Canon.html">Canon</a></li>	<li><a href="http://www.weareelectricals.com/brands/Epson.html">Epson</a></li>	<li><a href="http://www.weareelectricals.com/brands/We-Are-Electricals.html">We Are Electricals</a></li>	<li><a href="http://www.weareelectricals.com/brands/BELKIN.html">BELKIN</a></li>	<li><a href="http://www.weareelectricals.com/brands/Panasonic.html">Panasonic</a></li>	<li><a href="http://www.weareelectricals.com/brands/ASUS.html">ASUS</a></li>	<li><a href="http://www.weareelectricals.com/brands/Hama.html">Hama</a></li>
+				<li><a href="http://www.weareelectricals.com/brands/202/HP.html">HP</a></li>	<li><a href="http://www.weareelectricals.com/brands/408/We-Are-Electricals.html">We Are Electricals</a></li>	<li><a href="http://www.weareelectricals.com/brands/558/PIXMANIA.html">PIXMANIA</a></li>	<li><a href="http://www.weareelectricals.com/brands/275/LG.html">LG</a></li>	<li><a href="http://www.weareelectricals.com/brands/58/BELKIN.html">BELKIN</a></li>	<li><a href="http://www.weareelectricals.com/brands/620/PLAYMOBIL.html">PLAYMOBIL</a></li>	<li><a href="http://www.weareelectricals.com/brands/33/ASUS.html">ASUS</a></li>	<li><a href="http://www.weareelectricals.com/brands/606/LEGO.html">LEGO</a></li>	<li><a href="http://www.weareelectricals.com/brands/116/D%252dLINK.html">D-LINK</a></li>	<li><a href="http://www.weareelectricals.com/brands/181/GIGABYTE.html">GIGABYTE</a></li>
 		</ul>
 		<div class="AllBrandsLink">
 	<a href="http://www.weareelectricals.com/brands/">See all brands</a>
@@ -506,15 +748,11 @@ $(document).ready(function() {
 </script>
 
 			
+			
+			
 		</div>
 		<div class="Content Wide WideWithLeft" id="LayoutColumn2">
 			
-			<div class="Block Breadcrumb Moveable Panel" id="PageBreadcrumb">
-	<ul>
-		<li><a href="http://www.weareelectricals.com/">Home</a></li>
-		<li><a href="http://www.weareelectricals.com/pages/Customer-Service.html">Customer Service</a></li><li>Privacy Policy</li>
-	</ul>
-</div>
 			<div class="Block Moveable Panel" id="PageContent">
 	
 	<h2>Privacy Policy</h2>
@@ -525,20 +763,40 @@ $(document).ready(function() {
 	
 	</div>
 </div>
+
 			
 		</div>
 		<br class="Clear">
 	</div>
 			<br class="Clear">
 		<div id="Footer">
+				<ul id="FooterMenu">
+				<li class="HasSubMenu ">
+		<a href="http://www.weareelectricals.com/pages/5/Customer-Service.html"><span>Customer Service</span></a>
+		<ul>
+	<li><a href="http://www.weareelectricals.com/pages/11/Orders-%26-Returns-Information.html">Orders &amp; Returns Information</a></li><li><a href="http://www.weareelectricals.com/pages/2/Delivery.html">Delivery</a></li><li><a href="http://www.weareelectricals.com/pages/4/Money-Back-Guarantee.html">Money Back Guarantee</a></li><li><a href="http://www.weareelectricals.com/pages/3/Payment-Options.html">Payment Options</a></li>
+</ul>
+	</li>	<li class="HasSubMenu ">
+		<a href="http://www.weareelectricals.com/help"><span>Help Center</span></a>
+		<ul>
+	<li><a href="http://www.weareelectricals.com/help/questions/22/Contact+Information">Media Information</a></li><li><a href="http://www.weareelectricals.com/help/questions/2/Contact+Center+Opening+Times">Opening Times</a></li><li><a href="http://www.weareelectricals.com/help/questions/3/A+question+about+my+order">Question about My Order</a></li><li><a href="http://www.weareelectricals.com/help/questions/17/Quick+tips+for+online+safe+and+secure+shopping">Tips for Safe Shopping</a></li>
+</ul>
+	</li>	<li class="HasSubMenu ">
+		<a href="http://www.weareelectricals.com/pages/13/Further-Information.html"><span>Further Information</span></a>
+		<ul>
+	<li><a href="http://www.weareelectricals.com/pages/10/Contact-Us.html">Contact Us</a></li><li><a href="http://www.weareelectricals.com/pages/1/RSS.html">RSS</a></li><li><a href="http://www.weareelectricals.com/pages/9/Terms-%26-Conditions.html">Terms &amp; Conditions</a></li><li><a href="http://www.weareelectricals.com/pages/8/Privacy-Policy.html">Privacy Policy</a></li>
+</ul>
+	</li>
+		</ul>
+<div style="clear: both;"></div>
 <p>
-<img src="/product_images/uploaded_images/cards.gif" title="We accept most payment types - through PayPal"><br><img src="/product_images/uploaded_images/paypal_logo.gif" title="We accept most payment types - through PayPal"><br>
+<img src="/product_images/uploaded_images/cards.gif" title="We accept most payment types - through PayPal"><br><img src="/paypal.png" title="We accept most payment types - through PayPal"><br>
 				All prices are in All prices are in <span title="US Dollar">USD</span>.
-
-				Copyright 2010 We Are Electricals.
+				Copyright 2010 We Are Electricals.<br>
+VAT Number Pending. Item prices have been set accordingly inline with
+ VAT. 
  | <a href="http://www.weareelectricals.com/sitemap/"><span>Sitemap</span></a> |<br>
-Customer 
-Support: Click <a href="/pages/Contact-Us.html">Here</a>
+Customer Support: Click <a href="/pages/Contact-Us.html">Here</a>
  or Call 08432 89 26 90<br>
  
 <a href="/pages/Terms-&amp;-Conditions.html">Terms
@@ -546,7 +804,11 @@ Support: Click <a href="/pages/Contact-Us.html">Here</a>
  Policy</a> | <a href="/pages/Delivery.html">Delivery
  Information</a> | <a href="/pages/Payment-Options.html">Payment
  Options</a><br>
-Registered Address: Midlands DC, Birmingham, West Midlands, B1 3JA<br>
+We Are Electricals Ltd. Registered in England &amp; Wales. GB 7298465<br>
+Registered at: 2 Redhouse Square, Duncan Close, Moulton Park<br>
+Northampton, Northamptonshire, NN3 6WL, UK<br>
+VAT Registered: GB 993 5150 94<br>
+Powered &amp; Managed by <a href="http://www.turn90.com/" title="Turn90 Retail" target="_blank">Turn90</a>
 
 
 			</p>
@@ -555,24 +817,47 @@ Registered Address: Midlands DC, Birmingham, West Midlands, B1 3JA<br>
 		</div>
 		<br class="Clear">
 		</div>
+<div id="ajcart">
+<a href="#" id="ajcartclose">Close</a><div class="insider"></div></div>
+<div id="ajoverlay"></div>
 
 
 		
 		
 		
 		
-		
-		
+	        <script type="text/javascript" src="http://www.weareelectricals.com/index.php?action=tracking_script"></script><!-- Start Tracking Code for analytics_googleanalytics -->
 
-		
-
-		
-
-<!-- Start of Zopim Live Chat Script -->
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopim.com/?Y6MweJkvCNyyUJYGerBJpJE5deAtD8Q6' charset='utf-8' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://zopim.com/?Y6MweJkvCNyyUJYGerBJpJE5deAtD8Q6" charset="utf-8" type="text/javascript"></script>
-<!-- End of Zopim Live Chat Script -->
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17115853-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17391815-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- End Tracking Code for analytics_googleanalytics -->
+
 
 </div>
 
