@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pdfcast.org privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414062032id_/http%3A//pdfcast.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcast.org privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006143955id_/http%3A//pdfcast.org/page/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
+
+[](http://www.automanualonline.com/ "Auto Manual Online")
 
 [home](http://pdfcast.org/) > [privacy notice](http://pdfcast.org/page/privacy)
 
@@ -31,6 +33,10 @@ Upon request we provide site visitors with access to no information that we have
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-Consumers can have this information corrected by visiting us at [http://pdfcast.org/user/profile](https://web.archive.org/web/20100414062032id_/http%3A/user/profile).
+Consumers can have this information corrected by visiting us at [http://pdfcast.org/user/profile](https://web.archive.org/web/20101006143955id_/http%3A/user/profile).
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+[Data Mining](http://pdfcast.org/group/data-mining), [Nissan Manual](http://pdfcast.org/group/nissan-manual), [JCB Manual](http://pdfcast.org/group/jcb-manual), [Hacking Books](http://pdfcast.org/group/hacking-books), [BMW Repair Manual](http://pdfcast.org/group/bmw-repair-manual), [Instruction Manuals](http://pdfcast.org/group/instruction-manuals), [Volkswagen Repair](http://pdfcast.org/group/volkswagen-repair), [Ford Repair](http://pdfcast.org/group/ford-repair), [Civil Engineering](http://pdfcast.org/group/civil-engineering), [Wiring Diagrams](http://pdfcast.org/group/wiring-diagrams)
+
+[intuition and affect in risk perception and decision making](http://pdfcast.org/pdf/intuition-and-affect-in-risk-perception-and-decision-making), [blower motor resistor replacement](http://pdfcast.org/pdf/blower-motor-resistor-replacement), [biology workbook answer key](http://pdfcast.org/pdf/biology-workbook-answer-key), [internal determinants of foreign market entry strategy](http://pdfcast.org/pdf/internal-determinants-of-foreign-market-entry-strategy), [9781608765003](http://pdfcast.org/paid/9781608765003), [mahatma gandhi and nonviolent resistance](http://pdfcast.org/pdf/mahatma-gandhi-and-nonviolent-resistance), [architectural forms in nature](http://pdfcast.org/search/all/architectural-forms-in-nature), [2007 toyota yaris liftback owners manual](http://pdfcast.org/pdf/2007-toyota-yaris-liftback-owners-manual)
