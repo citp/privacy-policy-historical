@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetechtips.net privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515060229id_/http%3A//www.onlinetechtips.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetechtips.net privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006084618id_/http%3A//www.onlinetechtips.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Tech Tips
 
