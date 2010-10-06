@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotoblow.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113005713id_/http%3A//www.fotoblow.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotoblow.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006234642id_/http%3A//www.fotoblow.com/static/privacy) for the most accurate reproduction.*
 
 # privacy policy - FotoBlow
 
