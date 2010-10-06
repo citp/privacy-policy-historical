@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210026id_/http%3A//www.pcrecruiter.net/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006184619id_/http%3A//www.pcrecruiter.net/privacy/index.htm) for the most accurate reproduction.*
 
 # Main Sequence Technologies, Inc. - Privacy Statement
 
