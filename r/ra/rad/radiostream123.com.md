@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the radiostream123.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305072031id_/http%3A//www.listen2myradio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiostream123.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006025647id_/http%3A//www.listen2myradio.com/privacy.php) for the most accurate reproduction.*
 
 # FREE shoutcast FREE radio Station - Privacy Policy
 
 |   
 ---  
   
-[Home](https://web.archive.org/web/20100305072031id_/http%3A//www.listen2myradio.com/index.php) :: [Sign up](https://web.archive.org/web/20100305072031id_/http%3A//www.listen2myradio.com/reg.php) :: [Login](https://web.archive.org/web/20100305072031id_/http%3A//www.listen2myradio.com/login.php) :: Terms of use :: [Support](https://web.archive.org/web/20100305072031id_/http%3A//www.listen2myradio.com/support.php)  
+[Home](https://web.archive.org/web/20101006025647id_/http%3A//www.listen2myradio.com/index.php) :: [Sign up](https://web.archive.org/web/20101006025647id_/http%3A//www.listen2myradio.com/reg.php) :: [Login](https://web.archive.org/web/20101006025647id_/http%3A//www.listen2myradio.com/login.php) :: Terms of use :: [Support](https://web.archive.org/web/20101006025647id_/http%3A//www.listen2myradio.com/support.php)  
   
   
 Privacy Policy  
