@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readinghorizons.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325164456id_/http%3A//www.readinghorizons.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readinghorizons.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006082634id_/http%3A//www.readinghorizons.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Reading Horizons
+# Reading Horizons Privacy Policys - Reading Horizons
 
-Reading Horizons is committed to protecting your privacy. This policy explains our collection of and use of your personal identifiable information. Always check the privacy policy of each Web site you visit.
+Reading Horizons is committed to protecting your privacy. This policy explains our collection and use of your personal identifiable information. Always check the privacy policy of each Web site you visit.
 
 ## Your Consent
 
@@ -10,7 +10,7 @@ By using this site, you agree with the terms of this privacy policy. Whenever yo
 
 ## Information Tracking
 
-You can expect to visit any of Reading Horizons' Web sites without revealing personal information. We do not collect any personal, identifiable information without your permission. We do use cookies to assist navigation of our site. No personal information is stored or used in any way as a result of this tracking.
+You can expect to visit any of the Reading Horizons Web sites without revealing personal information. We do not collect any personal, identifiable information without your permission. We do use cookies to assist navigation of our site. No personal information is stored or used in any way as a result of this tracking.
 
 ## Security Measures
 
@@ -18,7 +18,7 @@ Reading Horizons is committed through the use of firewalls and other security me
 
 ## Use of Your Personal Identifiable Information
 
-In certain cases you may choose to give us personal information, such as name, address, name of school, position or grade level, e-mail address, and credit card account information. We may use this information for direct marketing purposes, and you may be contacted by us for future offers. Your personal information will be used only for internal purposes by Reading Horizons and its subsidiaries and will not be shared with any third-party organizations. Exceptions to this practice: if we are required to do so by a court or other governing body; if Reading Horizons sells its business or assets or is declared either bankrupt or insolvent.
+In certain cases, you may choose to give us personal information, such as name, address, name of school, position or grade level, e-mail address, and credit card account information. We may use this information for direct marketing purposes, and you may be contacted by us for future offers. Your personal information will be used only for internal purposes by Reading Horizons and its subsidiaries and will not be shared with any third-party organizations. Exceptions to this practice: if we are required to do so by a court or other governing body; if Reading Horizons sells its business or assets or is declared either bankrupt or insolvent.
 
 ## About Children
 
