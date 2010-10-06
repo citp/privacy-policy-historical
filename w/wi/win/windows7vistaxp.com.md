@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windows7vistaxp.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218184723id_/http%3A//www.windows7vistaxp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7vistaxp.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006020727id_/http%3A//www.windows7vistaxp.com/privacy.php) for the most accurate reproduction.*
 
-# Windows7 Vista XP:- Latest Wallpapers ( Windows 7, Vista, XP, 3D, Computer. )
+# Windows7 Vista XP:-Windows 7, Vista, 3d digital, Latest Wallpapers, ( Windows 7, Vista, XP, 3D, Computer. )
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site www.Wallpapers3DVistaXp.com. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -32,5 +32,5 @@ I use outside ad companies to display ads on my site. These ads may contain cook
 If users have any questions or suggestions regarding my privacy policy, please contact me by mail [here](mailto:info@Wallpapers3DVistaXp.com "contact information").  
   
 [Home](http://www.windows7vistaxp.com/) | [Privacy Policy](http://www.windows7vistaxp.com/privacy.php) | [Contact Us](mailto:info@Wallpapers3DVistaXp.com)  
-Copyright 2007 Wallpapers3DVistaXp.com  
+Copyright 2007 Windows7VistaXp.com Wallpapers  
 All files copyrighted by their respective designers.Commercial use prohibited. 
