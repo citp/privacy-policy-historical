@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellyourgf.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628155937id_/http%3A//www.sellyourgf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellyourgf.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006140531id_/http%3A//www.sellyourgf.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
