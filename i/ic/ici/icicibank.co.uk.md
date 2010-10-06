@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207015238id_/http%3A//icicibank.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006174404id_/http%3A//icicibank.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # ICICI Bank UK
 
-|   
----  
-[](https://web.archive.org/web/20090207015238id_/http%3A//icicibank.co.uk/hisave_termdeposit.html)  
-  
+| 
+
 |  Privacy Policy   
 ---  
   
@@ -54,7 +52,7 @@ Your transactions (including details of the goods or services and the supplier t
 
 Details of your visits to our website and the resources that you access.  
   
-   **Top  **  
+Top    
 | 
 
 We and other Group companies will access, use and analyse your information for the following purposes:   
@@ -101,7 +99,7 @@ To develop and improve our services to you.
 | For assessment and analysis purposes including behaviour scoring and market and product analysis;  
 | To prevent crime, to verify your identity and to recover debt; and  
 | To develop and improve our services to you and to notify you about changes to our services.  
-   **    **Top  ****  
+Top    
 | 
 
 We will not disclose any of your information outside the Group except:  
@@ -165,7 +163,7 @@ All information you provide to us is stored in our secure servers. Where we have
 
 Unfortunately, the transfer of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information we will use strict procedures and security features to try to prevent unauthorised access. 
 
-There is a separate section on our site relating to online security [https://www.icicibank.co.uk/security.html](https://web.archive.org/web/20090207015238id_/http%3A//icicibank.co.uk/security.html) which we recommend you read 
+There is a separate section on our site relating to online security [https://www.icicibank.co.uk/security.html](https://web.archive.org/web/20101006174404id_/http%3A//icicibank.co.uk/security.html) which we recommend you read 
 
 If we are asked to give a banker’s reference about you, we will need your written permission before we give it.   
   
