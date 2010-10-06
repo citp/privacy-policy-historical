@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuclearblast.de privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101112812id_/http%3A//www.nuclearblast.de/showStaticpage.php%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuclearblast.de privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006205922id_/http%3A//www.nuclearblast.de/showStaticpage.php%3Fid%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | Nuclear Blast
 
