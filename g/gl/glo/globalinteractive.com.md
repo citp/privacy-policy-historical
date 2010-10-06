@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalinteractive.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125021345id_/http%3A//www.globalinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalinteractive.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006053152id_/http%3A//globalinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # Global Interactive - Your site representation company with a wider reach!
 
