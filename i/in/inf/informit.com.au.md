@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617061120id_/http%3A//www.informit.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007114533id_/http%3A//informit.com.au/privacy.html) for the most accurate reproduction.*
 
 # Informit
 
 ## 1\. Policy Statement
 
-RMIT Training Pty Ltd ("RMIT Training") is committed to protecting the privacy of any information volunteered by visitors to its websites, and staff, students, and others who have rights to log into them. RMIT Training complies with the State of Victoria and Commonwealth of Australia privacy legislation through the RMIT Training Privacy Policy. In accordance with the Privacy Policy, Ian Penney, has been appointed as the Privacy Officer. He may be contacted for further information and advice on telephone 9925 8190 or by email [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au)
+RMIT Training Pty Ltd ("RMIT Training") is committed to protecting the privacy of any information volunteered by visitors to its websites, and staff, students, and others who have rights to log into them. RMIT Training complies with the State of Victoria and Commonwealth of Australia privacy legislation through the RMIT Training Privacy Policy. For further information and advice on telephone 9925 8190 or by email [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au)
 
 This Privacy and Security Statement is applicable to this Site and not necessarily to other RMIT Training sites on the World Wide Web. If you do not agree with this Privacy and Security Statement or the Privacy Policy, please do not use this Site.
 
@@ -26,7 +26,7 @@ Such information is stored securely, retained for no longer than is necessary or
 
 ### 3.2 Accuracy of collected data
 
-RMIT Training will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data. To edit your personal details on the Short Courses or Single Courses database log into: [www.shortcourses.rmit.edu.au](http://www.shortcourses.rmit.edu.au/) or call **1800 067 117**. Otherwise, if you come across any incorrect or outdated information on our websites please contact the Privacy Officer at [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au) or call **9925 8179**.
+RMIT Training will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data. If you come across any incorrect or outdated information on our websites please contact the Privacy Officer at [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au) or call **9925 8190**.
 
 ### 3.3 No junk mail or email!...
 
@@ -94,4 +94,4 @@ RMIT Training websites contain links to external (non RMIT Training) websites. R
 
 ## For more information on RMIT Training Websites
 
-In the first instance, contact the [RMIT Training IT Manager](mailto:ian.penney@rmit.edu.au?subject=RE:Website%20information).
+contact [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au?subject=RE:Website%20information).
