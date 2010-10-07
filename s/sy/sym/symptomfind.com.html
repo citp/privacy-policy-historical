@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the symptomfind.com privacy policy that was archived on 2010-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100607130102id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the symptomfind.com privacy policy that was archived on 2010-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101007091957id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -24,7 +24,7 @@
       <a href="/" title="SymptomFind.com"><img src="http://files.symptomfind.com/images/logo.gif" alt="SymptomFind.com" class="logo"></a>
       <div class="headerR">
               <form action="/dosearch.php" method="get" onsubmit="return ('' != this.q.value.replace(/\s+/, '') &amp;&amp; 'Search for Symptoms' != this.q.value);">
-            <input name="q" type="text" class="inputBox" maxlength="150" onfocus="this.value='';this.className='inputFocus'" value="Search for Symptoms">
+            <input name="q" type="text" class="inputBox" maxlength="150" onfocus="if($(this).val()=='Search for Symptoms'){$(this).val('');};this.className='inputFocus'" value="Search for Symptoms">
             <input name="keywords" id="textbox" class="butSearch" type="submit" value="" onclick="if ('' != this.form.q.value.replace(/\s+/, '') &amp;&amp; 'Search for Symptoms' != this.form.q.value) return true">
         </form>
             </div>
@@ -89,23 +89,26 @@ third parties. We are not responsible for the information collection or privacy 
     </div>
      <!-- end content-->
    </div>
-   <div class="notes">
+      <div class="notes">
      <p><span>Note:</span> The information provided on this site may be provided by third parties. The owners and operators of this site do not guarantee the accuracy, completeness, and compliance of the content on this site. Such content is not and shall not be deemed tax, legal, financial, or other advice, and we encourage you to confirm the accuracy of the content. Use is at your own risk, and use of this site shall be deemed acceptance of the above.</p>
    </div>
+      
    <div class="footer">
       <div class="footerBox">
            <a href="/contact.html">Contact Us</a> <span>|</span>
            <a href="/privacy.html">Privacy Policy</a> <span>|</span> 
-           <a href="/sitemap/">Sitemap</a> <span>|</span> 
-           <a href="/aboutus.html">About Us</a> <span>|</span> 
-		   <a href="/links.html">Links</a> <span>|</span> 
-		   <a href="/linktous.html">Link to Us</a> 
+                 <a href="/sitemap/">Sitemap</a> <span>|</span> 
+                 <a href="/aboutus.html">About Us</a>  
+	   	   
+		   <span>|</span><a href="/links.html">Links</a> <span>|</span> 
+		   <a href="/linktous.html">Link to Us</a>
+	  	   
       </div>
       <address>Copyright © 2010, SymptomFind.com</address>
     </div>  
 </div>
 <!-- end wrap -->
-<script src="/js/outclick.js" type="text/javascript"></script>
+<script src="http://files.symptomfind.com/js/outclick.js" type="text/javascript"></script>
 <!-- google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
