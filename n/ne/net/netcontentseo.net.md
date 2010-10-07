@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcontentseo.net privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607134615id_/http%3A//www.netcontentseo.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcontentseo.net privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007024021id_/http%3A//netcontentseo.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy , Article Submissions -Netcontentseo.net
 
