@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007095907id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
@@ -6,7 +6,9 @@
 
 Security and Privacy
 
- **Security and Privacy**
+ **For Pleasant Holidays Privacy Policy, SEE BELOW**
+
+**For Distinguished Resorts Hawaii World Privacy Policy,[CLICK HERE](http://drhw.tpsww.com/Travel/HTMLGenPagesDisplay.do?screenName=drhw_privacy.html)**
 
 This site is owned and operated by Pleasant Holidays, LLC (hereinafter referred to as "Pleasant Holidays," "we," "us," or "our").
 
@@ -17,8 +19,6 @@ This site is owned and operated by Pleasant Holidays, LLC (hereinafter referred 
 
 **Internet Browsers**  
 While Pleasantholidays.com supports all SSL compliant browsers, we recommend that you use version 5.0 or higher of Netscape Navigator or Microsoft Internet Explorer. These browsers offer 128-bit encryption, which is the strongest, most secure form of encryption available.
-
- **Security and Privacy**
 
  **PRIVACY  
 ** We believe you should understand our information privacy policies prior to providing us with, and that visitors to our Web site should have control over the collection of, any Personal Identifying Information. Making online purchases involves trust, and we place a high priority on security and retaining Personal Identifying Information that you provide us.  However, this policy does not apply to companies that Pleasant Holidays does not own or control, or to people Pleasant Holidays does not employ or manage.
@@ -97,12 +97,13 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
 | [ ** _Contact Us_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/CustomerContactUsDisplay.do)  
  | [ ** _Security and Privacy_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/Security.do)  
   
-Partner Sites: [Pleasant Activities](http://www.pleasantactivities.com/) | [Hawaii World](http://www.hawaiiworld.com/) | [Distinguished Resorts](http://www.hawaiiworld.com/) | [Air by Pleasant](http://www.airbypleasant.com/)  
+Join our online community  
   
-[Hawaii](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Hawaii.html) | [Mexico](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Mexico.html) | [Caribbean](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Caribbean.html) | [Costa Rica](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=CostaRica.html) | [Europe](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Europe.html) | [USA](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=USA.html) | [Tahiti](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Tahiti.html)  
-[Asia](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Asia.html) | [Australia](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Australia.html) | [New Zealand](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=NewZealand.html) | [Fiji/Cook Islands](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=FijiCookIslands.html)  
-[Cruise](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Cruise_Destinations.html) | [Special Interest](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SpecialInterestTravel.html) | [Site Map](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html)  
+  * [](http://www.facebook.com/pages/Pleasant-Holidays/52075058926)
+  * [](http://twitter.com/PleasantHoliday)
+
   
- Copyright © 1999-2009 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
   
-SessionId: 0001rX_3QkYY0ZnX8bzui1xwO5k:1244ng167| 
+ Copyright © 1999-2010 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
+  
+SessionId: ooqluI9qlyYBeSLdZhRfk9c| 
