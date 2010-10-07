@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514004751id_/http%3A//www.desiplaza.us/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007190709id_/http%3A//www.desiplaza.us/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,8 +19,3 @@ Our web logs collect standard web log entries for each page served, including yo
 4\. Release Information : Circumstances in which we may release information, may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
 
 Site admin may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety, its users or the general public.
-
-Written by : 
-
-|  [< Prev](https://web.archive.org/index.php?option=com_content&view=article&id=49:disclaimer&catid=34:admin-content&Itemid=20) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&id=47:community-ethics&catid=34:admin-content&Itemid=22)  
----|---|---
