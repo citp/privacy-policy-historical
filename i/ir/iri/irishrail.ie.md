@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314073537id_/http%3A//www.irishrail.ie/home/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007175446id_/http%3A//www.irishrail.ie/home/privacy_statement.asp) for the most accurate reproduction.*
 
 # Irish Rail - Iarnród Éireann - train tickets, train times, Ireland rail travel information
 
@@ -21,6 +21,9 @@ is information that is associated with your name or personal identity. CIÉ uses
 On some CIÉ websites, you can order products or services, request information, subscribe to marketing or support materials, register yourself, or apply for a job at CIÉ. The types of personal information you provide to us on these pages may include name, postal address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card information, contact preferences, educational and employment background and job interest data. 
 
 To personalize our websites, services or communications and improve our products and services, we may also ask you to provide us with information regarding your personal or professional interests, demographics, and experiences with our products or services. Providing this additional information is optional. 
+
+**Smart Card Data**  
+is data relating to the transactional use of the smartcard. Transaction locations are recorded for correct payment purposes. The holder of the smartcard and the registered user of the smartcard can see data indicating card usage. 
 
   2. **Non-personal information**  
 is data about usage and service operation that is not associated with a specific personal identity. CIÉ collects and analyzes non-personal information to evaluate how visitors use the CIÉ websites. 
