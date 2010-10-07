@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607130102id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007091957id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Symptom Find
 
