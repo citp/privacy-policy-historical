@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rudespace.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614182404id_/http%3A//www.rudespace.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D144%26Itemid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudespace.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007072817id_/http%3A//www.rudespace.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D144%26Itemid%3D125) for the most accurate reproduction.*
 
-# RudeSpace - Privacy Policy
+# RudeSpace.com - Privacy Policy
 
 The RudeSpace Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by RudeSpace anytime you interact with us, such as when you visit our website, when you purchase our products and services, or when you call our sales or support associates.
 
