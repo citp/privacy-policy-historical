@@ -1,64 +1,34 @@
-> *The following text is extracted and transformed from the mypinkcheese.com privacy policy that was archived on 2007-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070925223837id_/http%3A//www.mypinkcheese.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypinkcheese.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007071841id_/http%3A//mypinkcheese.com/page/privacy) for the most accurate reproduction.*
 
-# Pink Articles
+# Create your own magazine cover
 
-## MyPinkCheese.com Privacy Policy Overview
+### Privacy Policy
 
-This Privacy Policy covers the our treatment of personal information that is recorded when you submit an article, or request an article via email or other methods.
+**Privacy Policy for www.mypinkcheese.com**
 
-  
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at adollarprofit@gmail.com. 
 
+At www.mypinkcheese.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.mypinkcheese.com and how it is used. 
 
-## Information Collection
+**Log Files**  
+Like many other Web sites, www.mypinkcheese.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**MyPinkCheese.com** collects minimal personal information when you request or submit an article. However, other non-personally identifying information may be collected when you enter or leave our site(s).
+**Cookies and Web Beacons**   
+www.mypinkcheese.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-  * **Cookies:** A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information. We only use cookies to record session information. Once the user closes their browser, the cookie simply terminates
-  * **Log Files:** For each visitor to our Web page, our Web server automatically recognizes the consumer's IP Address, Browser Information (such as client, and version), Username (If registered), Referring page, pages viewed on our servers and duration of each page view. We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
-  * **Ad Servers:** To try and bring you offers that are of interest to you, we may from time to time have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google
+**DoubleClick DART Cookie**   
+.:: Google, as a third party vendor, uses cookies to serve ads on www.mypinkcheese.com.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.mypinkcheese.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense  
+Clickbank
 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.mypinkcheese.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-## Information Disclosure
+www.mypinkcheese.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-**MyPinkCheese.com** maintains your email address and other pertinent information submitted when registering for an account. Your contact information will never be released or sold to any vendor, partner or outside agency unless we are legally required to do so, such as but not limited to, the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site(s) and applicable laws or to protect against misuse or unauthorized use of our Web site(s).
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.mypinkcheese.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-We reserve the right to deliver notices to authors and publishers regarding changes or updates to the **MyPinkCheese.com** website and service. Any email notices or update announcements from **MyPinkCheese.com** will include detailed unsubscribe information, giving you the option to remove yourself from future mailings at any time.
-
-  
-
-
-## Contact Us
-
-We can be reached via our Contact Us form, from which you can make any query, including but not limited to:
-
-  * Opting out of receiving future e-mails.
-  * Requesting access to all information [including proprietary information] as well as contact information (e.g., name, address, phone number) that we maintain about you.
-  * Correcting information by sending a request using the above mentioned form.
-  * Telling us if you feel that this site is not following its stated policies.
-
-
-
-## Privacy Policy Exceptions
-
-This privacy statement applies solely to information collected by this website. Our policy does not apply to the practices of other companies advertised, linked to or otherwise listed, on the **MyPinkCheese.com** website, nor does it extend to people that **MyPinkCheese.com** does not employ or manage.
-
-This web site contains links to other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every web site they visit that collects personally identifiable information.
-
-  
-
-
-## Privacy Policy Changes
-
-**MyPinkCheese.com** may amend this policy from time to time. If changes are made in the way your personal information is used, we will post a prominent announcement on our Homepage notifying you of the change.
-
-  
-
-
-## Disclaimer
-
-**MyPinkCheese.com** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are only provided for information and redistribution as outlined in our guidelines. Use of this web site is provided "AS IS" with no warranty whatsoever.
-
-**MyPinkCheese.com** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **MyPinkCheese.com** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
-
-**All terms and conditions are subject to change without prior notice.**
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
