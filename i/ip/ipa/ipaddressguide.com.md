@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627055331id_/http%3A//www.ipaddressguide.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007113948id_/http%3A//www.ipaddressguide.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,4 +47,4 @@ _IPAddressGuide.com_ welcomes your comments regarding this privacy statement. If
 
 **|[Ping](https://web.archive.org/ping.aspx) | [ Traceroute](https://web.archive.org/traceroute.aspx) | [IP2Location™](https://web.archive.org/ip2location.aspx) | [NSLookup](https://web.archive.org/dnslookup.aspx) | [ Deobsfucator](https://web.archive.org/deobfuscator.aspx) | [CIDR](https://web.archive.org/cidr.aspx) | [ IP Decimal](https://web.archive.org/ipdecimal.aspx) | [HTML Validator](https://web.archive.org/htmlvalidator.aspx) | [Free Bandwidth Speed Test](http://speedtest.ipaddressguide.com/) | [Whois](https://web.archive.org/whois.php)  
 **|[Home](https://web.archive.org/) | [Email](mailto:support@ipaddressguide.com) |**  
-Copyright © 2005 - 2010 IPAddressGuide.com. All rights reserved. [ Privacy Statement](https://web.archive.org/web/20100627055331id_/http%3A//www.ipaddressguide.com/privacypolicy.aspx). [Terms of Service](https://web.archive.org/web/20100627055331id_/http%3A//www.ipaddressguide.com/termsofservice.aspx).IP2Location™ is a registered trademark of [ http://www.ip2location.com](http://www.ip2location.com/) ******
+Copyright © 2005 - 2010 IPAddressGuide.com. All rights reserved. [ Privacy Statement](https://web.archive.org/web/20101007113948id_/http%3A//www.ipaddressguide.com/privacypolicy.aspx). [Terms of Service](https://web.archive.org/web/20101007113948id_/http%3A//www.ipaddressguide.com/termsofservice.aspx).IP2Location™ is a registered trademark of [ http://www.ip2location.com](http://www.ip2location.com/) ******
