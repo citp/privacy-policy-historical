@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611014728id_/http%3A//www.fbi.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007074621id_/http%3A//www.fbi.gov/privacy.htm) for the most accurate reproduction.*
 
 # Federal Bureau of Investigation - Privay Policy
 
@@ -43,4 +43,6 @@ All information provided by the FBI on this homepage is made available to provid
 
 **Disclaimer of Endorsement**
 
-Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the U.S. Government.
+Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the U.S. Government. 
+
+For more details, please read the [Privacy Policy of the Department of Justice](http://www.usdoj.gov/privacy-file.htm), which also applies to the FBI.
