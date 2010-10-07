@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercrafts.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216084427id_/http%3A//www.consumercrafts.com/Store/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercrafts.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007202548id_/http%3A//www.consumercrafts.com/Store/Privacy.aspx) for the most accurate reproduction.*
 
 # ConsumerCrafts.com
 
