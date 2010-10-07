@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rms.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426035736id_/http%3A//rms.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rms.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007162110id_/http%3A//rms.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -8,7 +8,7 @@ When you visit the RMS website, you may choose to provide us with some specific 
 
 If you are an RMS client, you may have access to software or functions in restricted areas of our website that permit you to input information regarding your clients or insureds. This Privacy Policy does not apply to such information, as the treatment of such information is governed by your (or your employer’s) agreement with RMS permitting you to use the applicable software or functions. In addition to the terms of any agreement, it is your responsibility to ensure that you have the authority to input such information and that you are doing so in accordance with your (or your employer’s) agreement with RMS and any applicable laws and regulations, including privacy and data protection laws and regulations.
 
-Your use of this website is also subject to the [Terms of Use](https://web.archive.org/web/20100426035736id_/http%3A//rms.com/Includes/termsofuse.asp) and other [Legal](https://web.archive.org/web/20100426035736id_/http%3A//rms.com/Includes/legal.asp) terms and conditions. 
+Your use of this website is also subject to the [Terms of Use](https://web.archive.org/web/20101007162110id_/http%3A//rms.com/Includes/termsofuse.asp) and other [Legal](https://web.archive.org/web/20101007162110id_/http%3A//rms.com/Includes/legal.asp) terms and conditions. 
 
 1\. What types of information does RMS receive when you visit our website?
 
@@ -71,4 +71,4 @@ You may send all other inquiries regarding your Personal Information, including 
 
 7\. Will this Privacy Policy change? 
 
-This Privacy Policy was last updated on May 29, 2008. RMS reserves the right to modify, amend, add to, replace or remove this Privacy Policy at any time. You are advised to check the Privacy, [Terms of Use](https://web.archive.org/web/20100426035736id_/http%3A//rms.com/Includes/termsofuse.asp) and [Legal](https://web.archive.org/web/20100426035736id_/http%3A//rms.com/copyrights.asp) links for updates whenever you visit the RMS website. 
+This Privacy Policy was last updated on May 29, 2008. RMS reserves the right to modify, amend, add to, replace or remove this Privacy Policy at any time. You are advised to check the Privacy, [Terms of Use](https://web.archive.org/web/20101007162110id_/http%3A//rms.com/Includes/termsofuse.asp) and [Legal](https://web.archive.org/web/20101007162110id_/http%3A//rms.com/copyrights.asp) links for updates whenever you visit the RMS website. 
