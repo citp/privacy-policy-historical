@@ -1,41 +1,61 @@
-> *The following text is extracted and transformed from the twoquick.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827233006id_/http%3A//twoquick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoquick.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007072817id_/http%3A//www.rudespace.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D144%26Itemid%3D125) for the most accurate reproduction.*
 
-# Twoquick :: Simple Google and Twitter Search
+# RudeSpace.com - Privacy Policy
 
-## Privacy Policy
+The RudeSpace Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by RudeSpace anytime you interact with us, such as when you visit our website, when you purchase our products and services, or when you call our sales or support associates.
 
-Last modified: June 14, 2009 
+Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at RudeSpace, and we go to great lengths to protect it.
 
-Proletarian Design LLC, creator of Twoquick.com, recognizes that privacy is important. Twoquick is gets search results using APIs (Application Programming Interface) provided by Google and Twitter. For more information on their respective privacy policies, click on the following links:   
-[ Google Privacy Policy ](http://www.google.com/intl/en/privacy.html)   
-[ Twitter Privacy Policy ](http://twitter.com/privacy)
+## Why we collect personal information
 
-**About the infomation collected on Twoquick**
+We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest announcements, special offers, and events that you might like to hear about.
 
-_User communications_   
-When you send email or other communications to Proletarian Design LLC, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+## What information we collect and how we may use it
 
-_Location data_   
-Twoquick provides location-based Twitter search when you select the "Nearby" option. This narrows search results from Twitter to your surrounding area. If you use this option, Twoquick may receive information about your actual location (such as your IP address) to approximate your location. 
+There are a number of situations in which your personal information may help us give you better products. For example:
 
-_Links_   
-Google and Twitter search results may present links that redirect to sites outside of Twoquick. This Privacy Policy applies to the Twoquick site only. Proletarian Design LLC does not exercise control over the sites displayed as search results. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+  * We may ask for your personal information when you’re requesting support or service over the phone or purchasing a product.
+  * When you interact with RudeSpace, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences.
+  * We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve RudeSpace services.
 
-Twoquick uses the Google Adsense to serve ads on Twoquick. Learn more about Google's privacy policy for Adsense here:   
-[ http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
 
-Please contact us at the address below for any additional questions about the management or use of personal data. 
+## Publicly displayed information is public
 
-**Changes to this Privacy Policy**
+If you use support forum or community site provided by RudeSpace then you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. RudeSpace is not responsible for the personally identifiable information you choose to submit in these forums.
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page. 
+For example, if you choose to make information, which was previously non-public, available by enabling certain user features, RudeSpace will collect that information from your interaction and the information will become publicly available.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at: 
+## When we disclose your information
 
-Twoquick   
-Proletarian Design LLC   
-1066 47th Ave., Suite 19   
-Oakland, California, 94601   
-USA 
+RudeSpace takes your privacy very seriously. RudeSpace does not sell or rent your contact information to other marketers.
+
+### Within our company - Rude Media
+
+To help us provide superior service, your personal information may be shared with legal entities within our company globally who will take steps to safeguard it in accordance with RudeSpace’s privacy policy.
+
+### With our service providers, vendors, and strategic partners.
+
+There are also times when it may be advantageous for RudeSpace to make certain personal information about you available to companies that RudeSpace has a strategic relationship with or that perform work for RudeSpace to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with RudeSpace’s policies, except if we inform you otherwise at the time of collection.
+
+At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
+
+## How we protect your personal information
+
+RudeSpace takes precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
+
+You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers.
+
+### Cookies and other technologies
+
+As is standard practice on many websites, RudeSpace.com uses "cookies" and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. RudeSpace will not use the information collected to market directly to that person.
+
+In some of our email messages we use a "click-through URL" linked to content on the RudeSpace website. When customers click one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-trhough data to help us determine interest in particular topics and measure the effectiveness of our custoemr communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
+
+### Our commitment to your privacy
+
+To make sure your personal information is secure, we communicate these guidelines to RudeSpace employees and strictly enforce privacy safeguards within our company. In addition, RudeSpace supports industry initiatives to preserve privacy rights on the Internet and in all aspects of electronic commerce.
