@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424050137id_/http%3A//www.safenet-inc.com/About_SafeNet/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007210809id_/http%3A//www.safenet-inc.com/About_SafeNet/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - SafeNet
 
@@ -6,7 +6,7 @@ Privacy Statement
 
 ### Copyright
 
-Unless otherwise noted, all information on SafeNet Web Sites is copyright © 2009 by SafeNet, Inc.
+Unless otherwise noted, all information on SafeNet Web Sites is copyright © 2010 by SafeNet, Inc.
 
 ### SafeNet and the E.U. - U.S. Safe Harbor for Privacy
 
