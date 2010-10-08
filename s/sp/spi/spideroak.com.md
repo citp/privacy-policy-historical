@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103193641id_/https%3A//spideroak.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008193529id_/https%3A//spideroak.com/privacy_policy) for the most accurate reproduction.*
 
 # Automatic Mac Backup - Privacy Policy - SpiderOak.com
 
 ## SpiderOak, Inc. Privacy Policy
 
-Thank you for visiting SpiderOak, Inc.'s (“SpiderOak”) Internet web site (“Site”) located at the URL SpiderOak.com. This privacy policy (“Privacy Policy”) details certain policies implemented throughout SpiderOak governing SpiderOak's use of Personally-Identifiable Data about users of our Site and users of our backup and data storage services (the “Services”).
+Thank you for visiting SpiderOak, Inc.'s (“SpiderOak”) Internet web site (“Site”) located at the URL spideroak.com. This privacy policy (“Privacy Policy”) details certain policies implemented throughout SpiderOak governing SpiderOak's use of Personally-Identifiable Data about users of our Site and users of our backup and data storage services (the “Services”).
 
 **Privacy Policy Updates**
 
-Due to the Internet's rapidly evolving nature, SpiderOak may need to update this Privacy Policy from time to time. If so, SpiderOak will post its updated Privacy Policy on our Site located at SpiderOak.com and notify you of the updated posting. SpiderOak encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of Personally-Identifiable Data to us will be subject to the terms of the then-current Privacy Policy.
+Due to the Internet's rapidly evolving nature, SpiderOak may need to update this Privacy Policy from time to time. If so, SpiderOak will post its updated Privacy Policy on our Site located at spideroak.com and notify you of the updated posting. SpiderOak encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of Personally-Identifiable Data to us will be subject to the terms of the then-current Privacy Policy.
 
 **Information Collection and Use**
 
