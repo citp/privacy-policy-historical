@@ -1,73 +1,73 @@
-> *The following text is extracted and transformed from the healthychoicenaturals.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124061707id_/http%3A//www.healthychoicenaturals.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychoicenaturals.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008132432id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms: Privacy
 
-## HealthyChoiceNaturals Privacy Policy
+What information do we collect?  
 
-**What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
-
-We may use "cookies" that allow our system to recognize your browser and help us personalize your online experience. 
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-  * **To personalize your experience**. Your information helps us to better respond to your individual needs.
-  * **To improve our website**. We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * **To improve customer service**. Your information helps us to more effectively respond to your customer service requests and support needs.
-  * **To process transactions.** Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * **To send periodic emails**. The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
-
-_Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
+  * We collect information from you when you register on the site, place an order, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" that allow our system to recognize your browser and help us personalize your online experience. 
 
 
 
+How do we use your information?
 
-**How do we protect your information?**
+We may use the information we collect from you when you register, purchase products,respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a promotion, survey or other site feature.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database to be only accessed by those authorized with special access rights to our systems and are required to keep the information confidential. 
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+How do we protect visitor information?
 
-**California Online Privacy Protection Act Compliance**
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. Ttherefore, we will not distribute your personal information to outside parties without your consent.
+Do we disclose the information we collect to outside parties?
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Account' page.
+We do not sell, trade,or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include ACI Inc.. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-**Children's Online Privacy Protection Act Compliance**
+Children's Online Privacy Protection Act Compliance
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under age 13, and no part of our website is structured to attract anyone under the age of 13. 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13.
 
-**Your Consent**
+How can you opt-out, remove or modify information you have provided to us?
+
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+Changes to our policy
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on March 25, 2010.
+
+Questions and feedback
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+Website: http://healthychoicenaturals.com
+
+Mailing Address:  
+Healthy Choice Naturals  
+940 Calle Amanecer Suite P  
+San Clemente, CA 92673
+
+Telephone: (800) 541-7318  
+Email: cs@healthychoicenaturals.com
+
+Online Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20101008132432id_/http%3A//shop.healthychoicenaturals.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+Your consent
 
 By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 9/29/09.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.healthychoicenaturals.com  
-232 Avenida Fabricante Suite 111  
-San Clemente, California 92672  
-United States  
-cs@healthychoicenaturals.com  
-949-218-5845
-
-| 
-
-The statements and products shown on this website have not been evaluated by the US Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent any disease. Those seeking treatment for a specific disease should consult a qualified physician. All supplements should be taken as part of a healthy lifestyle. The testimonial statements provided are the unique experience of the customers who have submitted them and do not guarantee or predict any outcome. 
