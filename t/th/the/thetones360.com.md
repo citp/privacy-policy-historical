@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetones360.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805051042id_/http%3A//thetones360.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetones360.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009010528id_/http%3A//www.thetones360.com/policy) for the most accurate reproduction.*
 
 # TheTones360 Privacy Notice
 
