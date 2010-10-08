@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihasafunny.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607042357id_/http%3A//www.ihasafunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihasafunny.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008102127id_/http%3A//www.ihasafunny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « I Has A Funny
 
