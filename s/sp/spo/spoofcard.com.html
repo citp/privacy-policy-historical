@@ -1,82 +1,155 @@
-<!--The following is the downloaded HTML source of the spoofcard.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231070440id_/http%3A//www.spoofcard.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spoofcard.com privacy policy that was archived on 2010-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101009015348id_/http%3A//www.spoofcard.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	
-	<script src="http://tweetboard.com/spoofcard/tb.js" type="text/javascript"></script>		
+
 
 <title>SpoofCard - Privacy Policy</title>
 <meta name="description" content="SpoofCard offers you the ability to change or spoof what someone sees on their caller ID display when they receive a phone call. Key Benefits: Make calls truly private, Ability to record calls, Fun and inexpensive, Easy to use and fast to set up! Instant Access!">
-<meta name="keywords" content="spoofcard, fake your voice, change your voice, voice changer, spoof voice, call recording, caller id spoofing, covertcall, covert, tele, spoof, telespoof, camophone, star38, spooftel, piphone, caller id, spoofcom, spooftech, stayunknown, stay unknown, channelcalls, mobile invisibility, phones, caller, id, i.d., fake caller id, phone, trap lines, private investigators, skip tracing, blind lines">
+<meta name="keywords" content="spoofcard, caller id, prank calls, spoofs, caller id spoofing, fake your voice, change your voice, voice changer, call recording, spoof, telespoof, camophone, star38, spooftel, spoofcom, phones, id caller, call id, call, i.d., fake caller id, caller id number, phone, private investigators, skip tracing, funny calls, funny prank calls">
 <link href="/css/css/normalize.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/css/layout.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/css/flair.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/css/tabs.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/fancybox/jquery.fancybox-1.3.1.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/js/themes/steel/grid.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/js/fancybox/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/flick/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/sexybuttons/sexybuttons.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="/css/style-ie.css" />
 <![endif]-->
 <!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="/css/css/layout-ie.css" />
 <link rel="stylesheet" type="text/css" href="/css/css/layout-ie.css" />
-	<script src="/js/belatedPNG.js"></script>
-		<script>
-			DD_belatedPNG.fix('.png_bg, img');
-		</script>
+<script src="/js/belatedPNG.js" type="text/javascript"></script>
+<script type="text/javascript">
+	DD_belatedPNG.fix('.png_bg, img');
+</script>
 <![endif]-->
 <script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/WRa.js"></script>
 <script type="text/javascript" src="/js/TelTech.js"></script>
+<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
 <script type="text/javascript" src="/js/javascript.js"></script>
 <script type="text/javascript" src="/js/audio-player.js"></script>
 <script type="text/javascript" src="/js/jquery.jqGrid.js"></script>
-<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.2.1.js"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.7.1.custom.min.js"></script>
+<script type="text/javascript" src="/js/jquery.json.js"></script>
 
 
 		<script type="text/javascript">
 			AudioPlayer.setup("/swf/player.swf", {width: 300});
+
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			$(document).ready(function() {
+
+			$(function() {
 				var pageTracker = _gat._getTracker("UA-161491-1");
 				pageTracker._initData();
+				pageTracker._setDomainName('none');
+				pageTracker._setAllowLinker(true);				
 				pageTracker._trackPageview();
+
+				$('#facebook_connect').dialog({
+					autoOpen	: false,
+					buttons		: {
+						'Connect!'	: function() {
+							ClickTaleExec("$('#facebook_connect').dialog('option', 'buttons')['Connect!'].apply($('#facebook_connect'))");
+
+							if(typeof pin == 'undefined' || !pin)
+								return;
+
+							window.location = 'http://apps.facebook.com/spoofcard/connect.php?pin=' + pin + '&refid=spoofcard.com';
+						},
+						'Maybe Later'	: function() {
+							ClickTaleExec("$('#facebook_connect').dialog('option', 'buttons')['Maybe Later'].apply($('#facebook_connect'))");
+
+							$(this).dialog('close');
+						}
+					},
+					close		: function() {
+						if(typeof logged_in != 'undefined' && logged_in)
+							window.location = '/controlpanel';
+					},
+					modal		: true,
+					resizable	: false,
+					width		: 500
+				});
 			});
+
+			var WRInitTime=(new Date()).getTime();
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		
+		
+<!-- 
+	<script type="text/javascript">
+var userflyHost = (("https:" == document.location.protocol) ? "https://secure.userfly.com" : "http://asset.userfly.com");
+document.write(unescape("%3Cscript src='" + userflyHost + "/users/44527/userfly.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+ -->
+
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+  (function(){function _kms(u,d){if(navigator.appName.indexOf("Microsoft")==0 && d)document.write("<scr"+"ipt defer='defer' async='true' src='"+u+"'></scr"+"ipt>");else{var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);}}_kms('https://i.kissmetrics.com/i.js');_kms('http'+('https:'==document.location.protocol ? 's://s3.amazonaws.com/' : '://')+'scripts.kissmetrics.com/4b84fbd1bc4b9c3105ea93ace54f89428b247aca.1.js',1);})();
+</script><script type="text/javascript" async="" src="https://i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/scripts.kissmetrics.com/4b84fbd1bc4b9c3105ea93ace54f89428b247aca.1.js"></script>
+
 	</head>
 	<body id="interior">
 				<div id="nav_main">
-			<a href="/" class="imagelink"><img src="/images/spoofcard-logo.png" alt="spoofcard-logo" width="290" height="80"></a>
+			<a href="/" class="imagelink" title="Prank Calls"><img src="/images/spoofcard-logo.png" alt="spoofcard-logo" width="290" height="80"></a>
 			<ul>
-				<li class="first"><a href="/">Home</a></li>
+				<li class="first"><a href="/" title="Prank Calls">Home</a></li>
 				
-<li><a href="/buy">Buy Minutes</a></li><li><a href="/stories">Customer Stories</a></li>
-				<li><a href="/faq">FAQ</a></li>
-				<li><a href="/customerservice">Support</a></li>
+	<li><a href="/buy" title="Buy Minutes">Buy Minutes Now</a></li>
+	<li><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
+	<li><a href="/press" title="News and Press">Media</a></li>	
+	<li><a href="/stories" title="Blog">Testimonials</a></li>				
+	<li><a href="/customerservice" title="Customer Support">Help</a></li>
+	<li class="last"><a href="/user/login" title="Login with your SpoofCard PIN">Login</a></li>
 
-				
-<li class="last" style="margin-left:8px;"><a href="/user/login">PIN Login</a></li>				
-				
+
+						
 				
 				
 			</ul>
 				
-
-<div class="livechat_button"><span style="padding-right:20px;"><a href="/mobile/apps"><img src="/images/spoofcard_mobile.gif"></a></span>
-<a href="http://livechat.boldchat.com/aid/930308239417203001/bc.chat?cwdid=4130622022293536966&amp;wdid=2885702786042665563&amp;rdid=1234942199837241226" target="_blank" onclick="window.open('http://livechat.boldchat.com/aid/930308239417203001/bc.chat?cwdid=4130622022293536966&amp;wdid=2885702786042665563&amp;rdid=1234942199837241226&amp;url=' + escape(document.location.href), 'Chat906493136094571566', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;"><img src="https://cbi.boldchat.com/aid/930308239417203001/bc.cbi?cbdid=2960627839557284218&amp;wdid=2885702786042665563&amp;rdid=1234942199837241226" border="0" width="76" height="30"></a>
+ 
+<div class="livechat_button">
+<!-- START Activa Live Chat Button/Link Code: Place this code into your HTML wherever you want this button/link to appear -->
+<script type="text/javascript">
+var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));
+document.write('<a href="javascript://chat" style="display: none;" onclick="_alc.startChat(12833); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'"><img id="__ALC_BADGE_ONLINE_IMAGE" src="'+unescape(document.location.protocol+'//www.activalive.com/app/custom/buttons/12833/livechaticon.gif')+'" style="border: 0px none" /></a>');
+if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
+var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '12833'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 8885; __ALC_BUTTON.fallback_department = 0; __ALC_Badges.push(__ALC_BUTTON);
+</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(12833); return false;" id="__ALC_BADGE_ONLINE5562248902"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://www.activalive.com/app/custom/buttons/12833/livechaticon.gif" style="border: 0px none"></a>
+<!-- END Activa Live Chat Button/Link Code -->
+<span style="padding-left:20px;"><a href="/mobile/apps"><img src="/images/spoofcard_mobile.gif"></a></span>
 </div>		
 	</div>	
 
 		<div id="content" style="padding-top : 36px;">
 			<div id="content_banner" class="global_content_banner" style="text-align:right;">
-				<span id="nav_header">Privacy Policy</span>
+				<h1 id="nav_header">Privacy Policy</h1>
 			</div>
 			<noscript><div class="alert bad">Please enable javascript to enjoy all features!</div></noscript>
 			<div id="content_main">
 				<br>
 				<div name="alert" id="alert" class="bad" style="margin-bottom : 10px; display : none;">&nbsp;</div>
+
+<!-- DIALOGS -->
+<div id="facebook_connect" title="Connect With Facebook" style="display : none; font-size : 12px;">
+	<div style="text-align : left;">
+		Connect your existing SpoofCard PIN to share recordings you have already made 
+		and to place calls using the minutes you have available on your PIN.
+	</div>
+	<br>
+	<div style="text-align : center;">
+		<img src="/images/connect.png" alt="Connect With Facebook">
+	</div>
+</div>
+<!-- END DIALOGS -->
 				
 <p>
 	SpoofCard.com knows that you care how information about you is used and 
@@ -223,6 +296,8 @@
 				&nbsp;|&nbsp;	
 				<a href="/about">About Us</a>
 				&nbsp;|&nbsp;
+				<a href="/locator">Retail Locator</a>
+				&nbsp;|&nbsp;					
 				<a href="/privacy">Privacy</a>
 				&nbsp;|&nbsp;
 				<a href="http://www.SpoofCardPartner.com/" target="_blank">Affiliate Program</a>
@@ -241,20 +316,78 @@
 				<div style="text-align:right;padding-top:10px;padding-right:3px;padding-bottom:25px;">
 					Follow us: 
 					<a href="http://twitter.com/spoofcard" target="_blank"><img src="/images/twitter.gif" style="vertical-align:middle;"> Twitter</a>
-					<a href="http://www.facebook.com/pages/SpoofCard/95798441583" target="_blank"><img src="/images/facebook.png" style="vertical-align:middle;"> Facebook</a>
+					<a href="http://www.facebook.com/spoofcard" target="_blank"><img src="/images/facebook.png" style="vertical-align:middle;"> Facebook</a>
 				</div>
 			</span>
 			<br>
 			<br>
 			<div style="text-align:right;">			
+<!--
 				<object width="708" height="85">
 				<param name="movie" value="/images/trapcall-banner.swf">
-				<embed src="/images/trapcall-banner.swf" width="708" height="85" bgcolor="#2A5CA9">
+				<embed src="/images/trapcall-banner.swf" width="708" height="85" bgcolor="#2A5CA9"></embed>
 				</object>		
+-->
 			</div>
 			<script language="javascript" src="https://www.linkconnector.com/member/JS/traffic_link_client.php?mid=9450&amp;cid=2470"></script>
 		</div>
 		</div>
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='"+((document.location.protocol=='https:') ? 'https://clicktale.pantherssl.com/' : 'http://s.clicktale.net/')+"WRb.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/WRb.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(34513,0.03,"www");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+
+
+<!-- START Activa Live Chat Deployment Code: MUST BE PLACED DIRECTLY ABOVE THE CLOSING </BODY> TAG and AFTER/OUTSIDE ALL HTML -->
+<script type="text/javascript">
+var __ALC_Deployment = 7601;
+document.write(unescape("%3Cscript src='"+document.location.protocol+"//www.activalive.com/app/js/lt.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.activalive.com/app/js/lt.js" type="text/javascript"></script>
+<script type="text/javascript">
+_alc.defaultChatWidth = 500;
+_alc.defaultChatHeight = 600;
+</script>
+<!-- END Activa Live Chat Deployment Code -->
+
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://ssl-" : "http://")
++ "include.reinvigorate.net/re_.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl-include.reinvigorate.net/re_.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+reinvigorate.track("w0k74-063jhas3jq");
+} catch(err) {}
+</script>
+
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7518282,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7518282&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->		
+		
     
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
