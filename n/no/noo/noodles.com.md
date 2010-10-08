@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608142427id_/http%3A//noodles.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008043852id_/http%3A//www.noodles.com/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Noodles & Company - Privacy Policy
 
