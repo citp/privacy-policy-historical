@@ -1,173 +1,162 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102024000id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008122327id_/http%3A//houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
-Last Updated on 2008/10/2
+Last Updated on 2010/04/12
 
   
 
 
 ## Truste Certification
 
-[](http://www.truste.org/ivalidate.php?url=www.houseofnames.com&sealid=101) Houseofnames.com, an Internet property of Swyrich Corporation, has created this statement in order to demonstrate our strong commitment to protecting your privacy. This statement discloses how we collect and disseminate information. 
+[](http://www.truste.org/ivalidate.php?url=www.houseofnames.com&sealid=101) Houseofnames.com, an Internet property of Swyrich Corporation, has created this statement in order to demonstrate our strong commitment to protecting your privacy.  This statement discloses how we collect and disseminate information. 
 
-Swyrich Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.houseofnames.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
+Swyrich Corporation is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site www.houseofnames.com.  Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If users have policy questions or concerns, you can contact the Policy Administrator. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you can then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [(http://www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Houseofnames.com web site to resolve users concerns. 
+If you have questions or concerns regarding the privacy policy, please contact the Policy Administrator at 
 
-  
+    privacy@swyrich.com 
 
+or write to 
 
-## Online Ordering Help
+    Privacy Administrator   
+    Houseofnames.net   
+    Swyrich Corporation   
+    830 Development Drive   
+    Kingston, ON, Canada   
+    K7M 5V7  
 
-Phone and E-Mail messages can be left with us 24 hours a day, 365 days a year. 
+If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you can then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [(http://watchdog.truste.com/pvr.php?page=complaint&url)](http://watchdog.truste.com/pvr.php?page=complaint&url).  TRUSTe will serve as a liaison with the Houseofnames.com web site to resolve your concerns. 
 
-### Mon-Fri:
+## Product and Ordering Help
 
-For immediate help with questions you have while ordering online, please call our [Customer Service Representative](https://web.archive.org/service/xq/ASP/sId./qx/contact_us.htm) (9:30AM-4PM, EST). 
+For immediate help with product, purchasing, and shipping questions, please contact [Customer Service](https://www.houseofnames.com/secure/contact_us.asp).  
 
-### Sat-Sun:
+Help from a customer representative is available during regular work hours: Mon-Thur, 9:30AM-4:00PM, and Fri, 9:30AM-2:00PM, EST.  You may leave Phone or E-Mail messages with us 24 hours a day, 365 days a year.  Response to an inquiry made on a weekend, Sat-Sun, may take two business days.  During holidays, please allow for a reply within 3-10 business days.  For replies to requests made via postal mail, please allow up to 30 days.  
 
-For the weekend interval, please allow up to two business days for a reply to inquiries by E-Mail or Phone. 
+## Change Control
 
-### Holidays:
+Should we change our policy, we will notify you of the change in this online privacy statement.  We will keep you aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you herein and on other relevant web site pages. 
 
-During holidays, or holiday periods, please allow a delay (3-10 days, depending on circumstances) for a response to inquiries by E-Mail or Phone. 
+## Enforcement
 
-### Postal Mail:
+If you have questions regarding this privacy policy, first contact our Privacy Administrator.  Please allow at least two business days for a reply.  If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, not later than 30 days after it was made, contact one of the following organizations: 
 
-For a formal response to requests made via postal mail, please allow up to 30 days for a mail response. 
-
-### FAQs:
-
-For FAQs and Tracking My Order/Profile Updates, see our [customer service information](https://web.archive.org/service/xq/ASP/sId./qx/customerservice.htm) page. 
-
-  
-
-
-## American Customers
-
-For U.S. Customers with immediate order form questions, see Online Ordering Help. 
-
-This section does not apply to products downloaded over the Internet.
-
-### Ultimate Consignee ID:
-
-As of Mar. 2007, U.S. Customs defines an imported number as "either your IRS business registration number, or if your business is not registered with the IRS or you do not have a business, your social security number." This number is also referred to as the Ultimate Consignee ID number, and for businesses as a Tax Id or EIN. 
-
-### Consignee ID on Order Forms:
-
-When you make an order requiring importation to the United States, the value of which exceeds $200 USD, our order form requests that you provide an importer number. This ID is in addition to your regular shipping information, and ensures a speedy clearance of your order through U.S. Customs. For orders under $200 USD, the US Address of the consignee is sufficient for importation of goods. 
-
-### Consignee ID Usage:
-
-The consignee number is provided only for shipping purposes, to U.S. Customs in electronic form and printed on a hard copy of the invoice shipped with the product. U.S Customs, and shipping companies, will have access to the ID. 
-
-  
-
-
-## Information Collection
-
-### Visiting the Site:
-
-We do not collect any personal information about you, when you visit the Houseofnames.com web site, unless you use our contact-us, order, or affiliate program forms. 
-
-Our on-site web server system tracks standard web browser data, such as IP address, browser type, referring web site address, domain name, access times, and pages accessed on the site. This collected log data helps diagnose problems with our web servers, monitor certain aspects of web queries, analyze trends, and administer our Web site. Note that IP Addresses may be considered personal information by some, due to the possibility of tracing a visitor via Internet Service Providers. All collected web server log data, including the IP address, are not linked to any personal information that you may provide when contacting us, or ordering from us. 
-
-### Contacting via E-Mail:
-
-To contact us via E-Mail, we require as a minimum your name and E-Mail address so that we may contact you. Additional information may be given so as to describe your request or concern. 
-
-Note: E-Mail is an unsecured form of communication. Please take due care as to what you write into an E-Mail, in particular do not include credit card or other confidential data. 
-
-### Placing an Order:
-
-If you place an order through our secure on-line form, or over the phone, we request the following personal information: 
-
-  * Name
-  * Telephone Number (optional on E-mail orders)
-  * Billing Address
-  * Shipping Address (if different from billing address)
-  * Payment Information
-  * E-Mail Address (optional on phone orders)
-  * Password of your making, to allow you to track orders on-line (optional)
-  * Consignee Identifier (conditional requirement; refer to American Customers section)
-  * Recipient E-Mail Address (when ordering a Gift Card)
-  * Gift Card ID and Password (when using a Gift Card)
-  * and whether to opt-out from future Houseofnames.com E-Mail newsletters
+  * [Truste](http://www.truste.org/consumers/watchdog_complaint.php)
+  * [BBB _Online_](http://www.bbbonline.org/consumer/complaint.asp) (File a Compliant page)
+  * [Privacy Commission of Canada](http://www.privcom.gc.ca/) (Re: PIPEDA & Privacy Act, refer to their Contact Us page)
 
 
 
-### Joining the Affiliate Program:
+Swyrich Corporation enforces this online privacy statement within the corporation. 
 
-If you sign-up to our Affiliate Program, we require your 
+## Personal Information
 
-  * Name
-  * E-Mail Address
-  * Preferred Payment Method
-  * Address
-  * Phone Number
-  * Password (of your own making)
-  * Web Site Address
-  * Description of your web site/Business
+We will not sell, give, share, or trade your personal information with any company that is not part of Swyrich Corporation, except as disclosed in this statement.  Personal information will only be used for the stated purposes.  We do not permit third-party companies to offer our customer's products or services, unless you opt-in to receive such notifications. 
 
+Our web site collects personal information only when you contact-us or order product.   Your personal information is used to deliver in-house services, improve our sites and products, to communicate with you, and to carry out the transactions you have requested.  Personal data usage includes charging for the cost of goods, sending order confirmations, replying to questions, clarifying details of orders and delivering purchased product.  Personal information is retained in a secure database. 
 
+No demographic data is collected, and personal information is not linked to any third party data that we may use.  IP Addresses may be used to customize your web experience based on your geographic location. 
 
-For more information on the Affiliate Program, refer to [affiliate](https://web.archive.org/xq/ASP/sId./qx/affiliate.htm) home page. 
+### Affiliate Program:
 
-### Using the Surname Search Feature:
+Data collected when signing up to our Affiliate Program may include Name, E-Mail Address, Preferred Payment Method, Address, Phone Number, Password of your own making, Web Site Address, and Description of your business.  For more information on the the Affiliate Program, refer to the [Affiliate home page](http://www.houseofnames.com/xq/ASP/sId./qx/affiliate.htm).  
 
-If you use the "Search For Surname" tool, and you find your name is not present on the search results page, you can opt-in to send Houseofnames.com a notification that your name is not present in our list of display names. This notification requires your E-Mail Address, and includes your Surname, so that we may contact you should the requested surname become available at a later date. 
+### Contacting Us:
 
-### Receiving Newsletters:
+Collected data may include Name, Telephone Number, Street Address, E-Mail Address, Business Type, Type of Product you are interested in, and whether to you want to receive Newsletters via E-Mail. 
 
-When you receive newsletters or promotional E-Mail from Swyrich Corporation, we may use a simple web beacon to determine whether the E-Mail has been opened. This beacon is not used to validate personal information. 
+### Cookies:
 
-### Demographics:
+We place one or more cookies on your computer, to aid you when visiting our site.  Cookies may contain you email address, so as to customize the checkout page for you. Cookies cannot be used to run programs or deliver viruses to your computer.  We do not place third party cookies on your computer.  We do link information we store in some cookies to some personally identifiable information you submit while on our site.  If you disable cookies in your web browser, you can still view content on the web site, and order on-line.  Cookies may be retained up to 100 days. 
 
-Houseofnames.com does not collect any demographic information. 
+Note that when you use a third party computer to visit our web site, cookies will be created on that machine.  You may wish to take personal security precautions by deleting data you place on third party computers; you can delete cookies using the browser's preferences tool. 
 
-### Third Party Data Linkage:
+### E-Mail:
 
-Houseofnames.com does not link your personal information to any third party data that we may obtain. 
+To contact us via E-Mail, you must provide your name and E-Mail address so that we may reply.  Additional information can be provided by you to describe your inquiry. 
 
-In the case of IP Addresses, a third party tool may be used to customize your web experience based on an IP's geographic location, but no data is given to the third party. 
-
-  
-
-
-## Third Party Personally Identifiable Information
+We may send you electronic communications such as welcome letters, billing reminders, newsletters, service issue notices, and security announcements.  We currently do not send out customer survey letters, and we do not request customers to update personal information by way of E-Mail.  Please Note: E-Mail is an unsecured form of communication, therefore take due care as to what you write into an E-Mail; in particular, do not include credit card numbers or other confidential data. 
 
 ### Email A Friend:
 
-To use our "Email To A Friend" referral form, we require your E-Mail address and your friend's E-Mail addresses in order to send the message. Additional, optional, data may be provided in the form by you. We will automatically send your friend a one-time E-Mail inviting them to visit our web site. 
-
-These E-Mail addresses, and the E-Mail content, are not collected, stored, tracked, or linked to any other data collected by houseofnames.com. Comments made in the E-Mail message are not censored in anyway, and are deemed confidential to both parties. We are not responsible for any personal identifiable information you choose to send within this E-Mail. 
+To use our email tool, you must provide your friend's E-Mail Address.  The email is sent using your own E-Mail Client software.  The E-Mail address and the E-Mail content are not collected, stored, tracked, used for promotional purposes, or linked to any other data collected by our web site. 
 
 ### Gift Card Program:
 
-When a customer purchases a Gift Card for another person, the form requests the E-Mail Address of the recipient. A one-time Gift Card E-Mail notification is sent to the recipient upon completion of the purchase. Optional data can be included in the notification: recipient and sender names, and a message. 
+Gift Card purchases require the customer's and recipient's E-Mail Address.  These E-Mail addresses, and the E-Mail content, are not collected, stored, tracked, used for promotional purposes, or linked to any other data collected by our site.  Comments written in the E-Mail message are not censored in anyway and are deemed confidential to both parties.  Please keep in mind that E-Mail is unsecured communication.  We are not responsible for any personal identifiable information, or type of comment, you choose to send within this E-Mail. 
 
-Note: E-Mail addresses, names, and comments that may be included in these types of E-Mails are neither collected by us, nor censored in anyway, and are deemed confidential to both parties. We use this information only to send this one time email and not for any other promotional purposes. Keep in mind that E-Mail is unsecured communication. E-Mail data is not linked to the senders' personal information. 
+A one-time Gift Card E-Mail message is sent to the recipient upon completion of the purchase. 
+
+### On-Line Ordering:
+
+Collected data may include Name, Telephone Number, Billing Address, Shipping Address, Payment Information, E-Mail Address, a Password of your making for tracking orders on-line, a Consignee Identifier, a Recipient E-Mail Address, Gift Card ID and Password, and whether to opt-out from future E-Mail newsletters. 
+
+## Log Files
+
+Our web server and firewalls log date.  Log files help us diagnose problems with our web servers, monitor certain aspects of web queries, analyze trends, and administer our sites and networks.  Log data are not linked to personal information you provide us.  Logs are retained for at least 45 days. 
+
+## Surname Search
+
+If you use the "Search For Surname" tool and you find that your name is not present on the search results page, you can send us a notification that your name is not listed.  This notification requires your E-Mail Address, and includes your Surname, so that we may contact you should the surname information become available on the web site at a later date. 
+
+## External Links
+
+Our site may contain links to external web sites.  When you click on one of these links, you are moving to another web site.  We encourage you to read the privacy statements of those sites as their policies may differ from ours. 
+
+## Information Access
+
+Access to personal information stored by our web site is restricted.   Stored personal information may be updated by contacting Customer Service (do not use E-Mail to communicate sensitive personal data, such as a credit card number).  Employees of Swyrich Corporation have limited access to your personal information, and is used to contact you, process and ship orders, and to perform database maintenance. 
+
+## Judicial Requirements
+
+We reserve the right to disclose personal identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site. 
+
+## Newsletters
+
+If you subscribe to our newsletter(s), we will use your Name and E-Mail address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unsubscribe.  To opt-out of a Newsletter, use the opt-out link provided in the Newsletter E-Mail, or send a E-Mail request to [Customer Service](http://www.houseofnames.com/service/xq/asp/sId./qx/contact_us.htm) with the subject "Newsletter Opt-out". 
+
+## Protection for Children
+
+This web site is a general audience site, and is not directed at children.  We do not knowingly collect any personal information from children. 
+
+## Security
+
+We are committed to protecting the security of your personal information from loss, misuse or alteration.  We use security technology and procedures to protect information from unauthorized access, use or disclosure.  We store information on a global secure server, with limited access, that is located in controlled facilities.  When critical personal information is transmitted we protect it through the use of 128 bit SSL encryption.  The SSL certificate for ordering on-line with a credit card expires 2011. 
+
+Web server security is audited daily by way of a third party [security service](http://www.scanalert.com/RatingVerify?ref=www.houseofnames.com).  Our [security policy](https://web.archive.org/security.asp) and procedures are reviewed periodically, and employees are made aware of security policies and procedures. 
+
+## Service-related Announcements
+
+We send you service-related announcements, when it is necessary to do so.  For instance, we send you a confirmation E-Mail when you place an order, or send you an E-Mail notification should our service be temporarily suspended.  While you can opt-out of these service-related E-Mail communications, they are not promotional in nature and it is recommended that you receive them as they provide information about an order or service.  If you do not wish to receive such communications, please contact [Customer Service](https://www.houseofnames.com/secure/contact_us.asp) with the subject "Service Announcements Opt-out". 
+
+## Testimonials
+
+If you submit a testimonial for use on this site, you should be aware that any personal identifiable information you submit there-in can be read, collected, or used by other visitors to the Testimonal pages or forums.  Such information could be used by third parties to send you unsolicited messages.  We are not responsible for the personal identifiable information you choose to submit in this forum.  Submission of a testimonial implies consent for posting the testimonial. 
+
+## Third Party Intermediary Services
+
+Out site uses outside couriers to ship orders.  We use either credit card processing companies or Paypal to facilitate payment processing of your order.  The privacy policy of couriers, credit card companies, or Paypal, governs the use and collection of information.  In the case of Paypal, some of your personal identifiable information you provide to them for payment transaction purposes is shared with us via the Paypal secure web site. 
+
+We do not use third parties to provide services on our site. 
+
+## Trademarks/Copyright
+
+Any trademark referenced on this site is the property of the trademark owner.  Content used our the site, such as images, may be copyrighted by a third party. 
+
+## Web Beacons
+
+When you receive newsletters or promotional E-Mail from us, we may use a simple web beacon to determine whether the E-Mail has been opened.  This beacon is not used to collect or validate personal information. 
+
+| 
+
+### Suggested Reading
 
   
 
 
-## Information Usage
+[](http://www.amazon.com/Vikings-History-Robert-Ferguson/dp/0670020796/houseofnames-20)
 
-Your personal information is used to deliver in-house services, improve our sites and products, or to carry out the transactions you have requested. We also use your personal information to communicate with you. 
-
-### When Ordering:
-
-Personal data provided when ordering on our site are used as follows: 
-
-  * Clarify details of orders
-  * Send order confirmations
-  * Reply to your questions
-  * Deliver purchased product to you
-  * Charge you the cost of goods
-  * View shipping data
-
-
-
-Note, to view your order's shipping progress, a secure limited-entry area of the site is provided. The login service provides you external links to courier web sites. 
+ **[The Vikings: A History](http://www.amazon.com/Vikings-History-Robert-Ferguson/dp/0670020796/houseofnames-20)**  
+ **Our Rating:**  
+"A fascinating history of the Viking age and its complex culture and influence
