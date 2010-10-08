@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2010-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100607001607id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2010-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101009010843id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-	<!-- undef -->
 	<title>Privacy Policy - GlobalGiving</title>  
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
@@ -15,7 +14,7 @@
 
 <!-- ****** STYLESHEETS ***** -->
 <link href="/css/styles.css" rel="stylesheet" type="text/css">   
-<link media="only screen and (max-device-width: 480px)" href="/css/patches/iPhone_patch.css" type="text/css" rel="stylesheet">  
+
 <!-- patches so that they are available if necessary, empty so far --> 
 <!--[if lte IE 8]>
 <link href="/css/patches/ie_patch.css" rel="stylesheet" type="text/css"/>
@@ -27,7 +26,6 @@
 <link href="/css/patches/ie6_patch.css" rel="stylesheet" type="text/css"/> 
 <![endif]--> 
 
-
 <!-- ****** JAVASCRIPT ***** -->
 <script type="text/javascript" src="/javascript/commonScripts.js"></script>
 
@@ -36,17 +34,8 @@
 
  
 
-
-
-
-
-
- 
- 
-
-
-
   
+   <!-- undef -->
 </head> 
 
 <!-- ###############
@@ -73,7 +62,7 @@
         
         
 
-<body onload="pageOnLoad()" id="pageId_general">
+<body id="pageId_general">
 
 	<noscript>
 		<div id="noscript_spacer">
@@ -81,17 +70,6 @@
 		</div>  
 	</noscript> 
 	<div id="headerWrapper" class="headerFooterWrapper">
-	<!--*****************************-->
-<!--START Exit survey drop-in    -->
-<!--*****************************-->
-        
-<!-- hidden div used by jquery to store data -->
-<div id="stuff" style="display:none;">
-</div>
-<!--*****************************-->
-<!--END Exit survey drop-in      -->
-<!--*****************************-->
-                   
 
 	<div id="header" class="siteWrapper">
 		<div id="border-top">
@@ -101,28 +79,13 @@
 			<div id="logo">
 				<a id="logoLink" href="/">GlobalGiving</a>
 			</div> 
-			<div id="tagLine">
-			<img src="/img/logos/globalgiving_tagline_only.png" alt="a million little earth changing ideas"> 
-			</div>
-
+            
 			<div id="topnav">
 			    
-					<!-- Start: Skip link navigation for CSS disabled browsers -->
-<a class="skip" href="#navigation">Skip to the navigation</a><span class="hideme">.</span>
-<a class="skip" href="#contentLink">Skip to the content</a><span class="hideme">.</span>
-<!-- End: Skip link navigation for CSS disabled browsers -->
-
+					<a class="skip" href="#content">Skip to the content</a><span class="hideme">.</span>
 
 <!-- Giving Cart, My Account / Create An Account, Login / Logout -->
 <div id="links">
-	<!-- gguk -->
-	<!-- Remove 2/8/10 in prep for new footer and top nav -->
-	<!--
-	<div id="ukLink">
-		<a href="http://www.globalgiving.co.uk" class="ukText">Do you live in the UK?</a> <a href="http://www.globalgiving.co.uk"><img  alt="GlobalGiving UK" src="/img/flags/gb.gif"/></a>
-	</div>
-    -->
-    
 	<!--loading arrow-->
 	<div id="loadinglogin" style="display: none;">
 		<img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
@@ -137,9 +100,9 @@
 		<div id="login_name"></div>
 		<ul>
 						
-			<li><a href="/dy/cart/view/gg.html?cmd=gcart"><img src="/img/icons/cart.gif" class="icon_topnav" alt="Giving Cart"></a><a href="/dy/cart/view/gg.html?cmd=gcart">giving cart</a></li>
-			<li><a href="/dy/user/view/gg.html?cmd=showprof"><img src="/img/icons/myAccount.gif" class="icon_topnav" alt="My Profile"></a><a href="/dy/user/view/gg.html?cmd=showprof">my profile</a></li>
-			<li><a href="javascript:void(0);" onclick="Logout();"><img src="/img/icons/logout.gif" class="icon_topnav" alt="Logout"></a><a href="javascript:void(0);" onclick="Logout();">logout</a></li>
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart" class="cart">giving cart</a></li>
+			<li><a href="/dy/user/view/gg.html?cmd=showprof" class="profile">my profile</a></li>
+			<li><a href="javascript:void(0);" onclick="Logout();" class="logout">logout</a></li>
 		</ul>
 	</div>  
 	<!--end logged in area-->
@@ -147,14 +110,11 @@
 	<!--login area-->
 	<div id="nologindiv" style="display: inline;">
 		<ul>
-			<li><a href="/dy/cart/view/gg.html?cmd=gcart"><img src="/img/icons/cart.gif" class="icon_topnav" alt="Giving Cart"></a><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink">giving cart</a></li>
-			<li><a href="/dy/v2/login/form.html?show=createAccount"><img src="/img/icons/createAccount.gif" alt="Create an Account" class="icon_topnav"></a><a href="/dy/v2/login/form.html?show=createAccount">create an account</a></li>
-			<li><span id="loginRefBird"><a href="/dy/v2/login/form.html"><img src="/img/icons/login.gif" alt="Login" class="icon_topnav"></a></span><span id="loginRef"><a href="/dy/v2/login/form.html">login</a></span></li>
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink" class="cart">giving cart</a></li>
+			<li><a href="/dy/v2/login/form.html?show=createAccount" class="profile">create an account</a></li>
+			<li><span id="loginRef"><a href="/dy/v2/login/form.html" class="login">login</a></span></li>
 		</ul>
 	</div> 
-	<script type="text/javascript" charset="utf-8">
-		insertCurrentPageURL();
-	</script>
 	<!--end login area-->
 </div>                   
 			    
@@ -170,6 +130,8 @@
 
 <!-- non-profits -->
  
+
+
  
  
 
@@ -184,7 +146,6 @@
 
 
 
- 
  
  
 
@@ -238,8 +199,8 @@
 		<li id="gifts">
 			<a href="/gifts/">Gift Cards</a>
 		</li>
-		<li id="givingTools">
-			<a href="/givingtools/">Giving Tools</a>
+		<li id="getInvolved">
+			<a href="/get-involved/">Get Involved</a>
 		</li>
 		</ul>
 		
@@ -253,7 +214,7 @@
 			<a href="/dy/v2/pe/dashboard/overview.html">Manage Project(s)</a>
 		</li>
 		<li id="tools">
-			<a href="/non-profits/tools-and-training/">Tools &amp; Training</a>
+			<a href="http://tools.blog.globalgiving.org/">Tools &amp; Training</a>
 		</li>
 		</ul>
 		<!--************* CORPORATE PARTNER NAV *************-->
@@ -321,6 +282,10 @@
     
     <!--************* NON-PROFITS > MANAGE PROJECTS > SUBNAV *************-->
         
+
+        
+
+        
     
     <!--************* NON-PROFITS > TOOLS AND TRAINING > SUBNAV *************-->
         
@@ -360,6 +325,7 @@
 		
 	</div> 
 	</div>   
+	
 	 
 	<!-- default template -->
 	<div id="siteWrapperDiv" class="siteWrapper">	<!-- START wrapper DIV --> 
@@ -413,7 +379,9 @@ else{
 	ggPageName = jQuery.trim(nonBreadcrumbLocation);  
 }
 </script>
-	 
+	
+	
+	<a name="content" class="hidden"></a> 
 
 
 
@@ -817,7 +785,6 @@ make changes to your information and update your account at any time.
 					<li><a href="/aboutus/bios.html">Our Team</a></li>
 					<li><a href="/aboutus/jobs.html">Jobs &amp; Internships</a></li>
                     <li><a href="/aboutus/privacypol.html">Privacy Policy</a></li>
-					<!--<li><a href="/aboutus/media/faq.html">FAQs</a></li>-->
 					<li><a href="/help.html">Help &amp; FAQ</a></li>
 					<li><a href="/contactus/">Contact us</a></li>
 				</ul>
@@ -828,7 +795,7 @@ make changes to your information and update your account at any time.
 					<li class="footTitle"><a href="/non-profits/join-globalgiving/">Post A Project</a></li> 
 					<li><a href="/non-profits/join-globalgiving/">Learn How To Join</a></li>
 					<li><a href="/non-profits/join-globalgiving/recommend.html">Recommend a Project</a></li>
-					<li><a href="/non-profits/join-globalgiving/interest.html">Nominate Your Project</a></li>
+					<li><a href="/dy/v2/pe/nomination/start.html">Nominate Your Project</a></li>
 					<li><a href="/aboutus/dd.html">Application Documents &amp; Due Diligence</a></li>
 				</ul>
 			</div>
@@ -838,20 +805,22 @@ make changes to your information and update your account at any time.
 					<li class="footTitle"><a href="/dy/v2/content/browse.html">Ways To Give</a></li>
 					<li><a href="/dy/v2/content/browse.html">Donate to a Project</a></li>
 					<li><a href="/gifts">Gift Cards</a></li>
+					<li><a href="/project-of-the-month-club/">Project of the Month Club</a></li>
 					<li><a href="/faq/recurring.html">Recurring Donations</a></li>
 					<li><a href="/gifts/inhonor.html">Donate In Honor</a></li>
 					<li><a href="/givingtools/registries.html">Registries</a></li>
 					<li><a href="/givingtools/fundraisers.html">Fundraisers</a></li>
-					<li><img src="/img/flags/gb.gif" alt="UK Flag"> <a href="/cb/uk">GlobalGiving UK</a></li>
+					<li><img src="/img/flags/gb.gif" alt="UK Flag" style="width:16px; height:11px"> <a href="http://www.globalgiving.co.uk/">GlobalGiving UK</a></li>
 				</ul>
 			</div>
 			<div class="grid_2">
 				<ul class="footText">
 					<li class="footTitle"><a href="/aboutus/media">Learn &amp; Do More</a></li>
 					<li><a href="/to-go">API</a></li>
-					<li><a href="/domore.html">Get Involved</a></li>
+					<li><a href="/get-involved/">Get Involved</a></li>
 					<li><a href="/guaranteed/">GlobalGiving Guaranteed</a></li>
 					<li><a href="/seeresults.html">Our Impact to Date</a></li>
+					<li><a href="/inthefield/">In the Field</a></li>
 					<li><a href="/news/">Newsletter</a></li>
 					<li><a href="http://blog.globalgiving.org">Blog</a></li>
 					<li><a href="/aboutus/logos.html">Logos</a></li>
@@ -861,19 +830,19 @@ make changes to your information and update your account at any time.
 				<div id="facebookFooterLogo" class="logoDiv">
 				<ul class="footSocialLogos">  
 					<li class="footLogoTitle"><a href="http://www.facebook.com/globalgiving">Become a fan on</a></li>
-					<li><a href="http://www.facebook.com/globalgiving"><img src="/img/navigation/footer/facebook.gif" alt="Facebook"></a></li> 
+					<li><a href="http://www.facebook.com/globalgiving"><img src="/img/navigation/footer/facebook.gif" alt="Facebook" style="width:105px; height:39px"></a></li> 
 				</ul>
 				</div>
 				<div class="logoDiv">
 				<ul class="footSocialLogos">  
 					<li class="footLogoTitle twitter"><a href="http://www.twitter.com/globalgiving">Follow us on</a></li> 
-					<li><a href="http://www.twitter.com/globalgiving"><img src="/img/navigation/footer/twitter.gif" alt="Twitter"></a></li> 
+					<li><a href="http://www.twitter.com/globalgiving"><img src="/img/navigation/footer/twitter.gif" alt="Twitter" style="width:97px; height:25px"></a></li> 
 				</ul>
 				</div>
 				<div class="logoDiv">
 				<ul class="footSocialLogos">  
 					<li class="footLogoTitle"><a href="/rss.html">RSS</a></li>
-					<li><a href="/rss.html"><img src="/img/navigation/footer/rss.gif" alt="RSS"></a></li> 
+					<li><a href="/rss.html"><img src="/img/navigation/footer/rss.gif" alt="RSS" style="width:41px; height:42px"></a></li> 
 				</ul>
 				</div> 
 			</div>
@@ -887,14 +856,14 @@ make changes to your information and update your account at any time.
 			<div class="grid_7 alpha">
 				<div class="grid_3 alpha omega">
 				<span class="footTitle"><a href="/aboutus/media/index.html#3">Featured In</a></span><br>
-				<a href="/aboutus/media/index.html#3"><img src="/img/navigation/footer/logos.gif" alt="Media Logos"></a> 
+				<a href="/aboutus/media/index.html#3"><img src="/img/navigation/footer/logos.gif" alt="Media Logos" style="width:220px; height:69px"></a> 
 				</div>
 				<div id="lineDiv">
 					&nbsp;
 				</div>
 				<div class="grid_4 alpha omega">
 				<span class="footTitle">Trusted &amp; Secured</span><br>
-				<img src="/img/navigation/footer/secure.gif" usemap="#secured" name="secured" id="secured" alt="Secured and Trusted logos, thawte, charity navigator, gloablgiving guaranteed">
+				<img src="/img/navigation/footer/secure.gif" style="width:300px; height:75px" usemap="#secured" name="secured" id="secured" alt="Secured and Trusted logos, thawte, charity navigator, gloablgiving guaranteed">
 				<map name="secured" id="map_secured">
 					<area shape="poly" alt="CharityNavigator" coords="0,15,124,15,124,83,0,83" href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648">
 					<area shape="poly" alt="thwate" coords="141,15,213,15,213,83,141,83" href="http://www.thawte.com/">
@@ -913,11 +882,9 @@ make changes to your information and update your account at any time.
 						</a>
 					</p>
 					<p class="footText">
-                        <a href="/contactus/">						
 						GlobalGiving<br>
 						1023 15th Street, NW, 12th Floor, Washington, DC 20005<br>
 						Phone: (202) 232-5784  &nbsp;&nbsp; Fax: (202) 232-0534<br>
-						</a> 
 						<a href="/contactus/" class="contactus">Contact us</a>
 					</p>
 
@@ -958,65 +925,22 @@ make changes to your information and update your account at any time.
 	
 	
 </script>
-<script src="/javascript/omntrx.js" type="text/javascript"></script><img name="s_i_globalgivingcom" height="1" width="1" border="0" alt="" src="https://omntrx2.globalgiving.com/b/ss/globalgivingcom,globalgivingcom-global/1/H.5-pdv-2/s51544767556270?[AQB]&amp;ndh=1&amp;t=30/0/2020%2021%3A40%3A34%204%200&amp;ns=manyfutures&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20100607001607id_/http%253A//www.globalgiving.org/aboutus/privacypol.html&amp;cc=USD&amp;ch=about&amp;c2=Privacy%20Policy&amp;c4=Privacy%20Policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script src="/javascript/omntrx.js" type="text/javascript"></script><img name="s_i_globalgivingcom" height="1" width="1" border="0" alt="" src="https://omntrx2.globalgiving.com/b/ss/globalgivingcom,globalgivingcom-global/1/H.5-pdv-2/s51678913590172?[AQB]&amp;ndh=1&amp;t=30/0/2020%2021%3A40%3A34%204%200&amp;ns=manyfutures&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20101009010843id_/http%253A//www.globalgiving.org/aboutus/privacypol.html&amp;cc=USD&amp;ch=about&amp;c2=Privacy%20Policy&amp;c4=Privacy%20Policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script type="text/javascript">
 /* Any vars that we set should be added here so they can be cleared
    Before any subsequent micro-link calls (or macrolink from ajax)
    calls made on same page.
 */
-function clearOmnVars()
-{
-  	s.events='';
-  	s.products='';
-  	s.purchaseID='';
-  	s.eVar1='';
-  	s.eVar2='';
-	s.eVar3='';
-	s.eVar4="";
-	s.eVar5="";
-	s.eVar6="";
-	s.eVar7="";
-	s.eVar8="";
-	s.eVar9="";
-	s.eVar10="";
-	s.eVar11="";
-    s.eVar12="";	
-    s.eVar13="";	
-    s.eVar14="";	
-    s.eVar15="";	
-    s.eVar16="";	
-    s.eVar17="";	
-    s.eVar18="";	
-    s.eVar19="";	
-    s.eVar20="";	
-	s.pageName='';
-	s.server='';
-	s.prop1='';
-	s.prop2='';
-	s.prop3='';
-	s.prop4="";
-	s.prop5="";
-	s.channel="";
-}
-</script>
-<script type="text/javascript">
 if (typeof ggPageName=="undefined") {
     ggPageName="";
 }
-	
-s.events="";
-s.products="";
-s.purchaseID="";
-s.eVar1="";
-s.eVar2="";
-s.pageName=ggPageName;
-s.server="";
-s.prop1="";
-s.prop2=ggPageName;
-s.prop3="";
-s.prop4=(getCookie('omniture_session_browse_abtestid_cookie_value')==null?ggPageName:getCookie('omniture_session_browse_abtestid_cookie_value')+"_"+ggPageName);
-s.prop5=""; 
-s.eVar3="";
+
+s.events='';
+s.products='';
+s.purchaseID='';
+s.eVar1='';
+s.eVar2='';
+s.eVar3='';
 s.eVar4="";
 s.eVar5="";
 s.eVar6="";
@@ -1025,16 +949,37 @@ s.eVar8="";
 s.eVar9="";
 s.eVar10="";
 s.eVar11="";
-s.eVar12="";
-s.eVar13="";
-s.eVar14="";
-s.eVar15="";
-s.eVar16="";
-s.eVar17="";
-s.eVar18="";
-s.eVar19="";
-s.eVar20="";
-s.channel="";  
+s.eVar12="";    
+s.eVar13="";    
+s.eVar14="";    
+s.eVar15="";    
+s.eVar16="";    
+s.eVar17="";    
+s.eVar18="";    
+s.eVar19="";    
+s.eVar20="";    
+s.pageName='';
+s.server='';
+s.prop1='';
+s.prop2='';
+s.prop3='';
+s.prop4="";
+s.prop5="";
+s.prop6="";
+s.prop7="";
+s.prop8="";
+s.prop9="";
+s.prop10="";
+s.channel="";
+
+s.pageName=ggPageName;
+s.prop2=ggPageName;
+s.prop4=(getCookie('omniture_session_browse_abtestid_cookie_value')==null?ggPageName:getCookie('omniture_session_browse_abtestid_cookie_value')+"_"+ggPageName);
+
+
+
+
+
 
 
 
@@ -1091,7 +1036,6 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><!--/DO NOT REMOVE/-->
 <!--end SiteCatalyst code version: H.5.-->
-
 </div>
 
   
@@ -1114,15 +1058,6 @@ if (typeof(_gat) != "undefined") {
     <!-- *** END TRACKING CODE ***-->
 </div>
 
-<!-- this needs to be here if the exit survey is to be included -->
-<script type="text/javascript">
-<!--
-$(document).ready(function() { 
-showExitSurveyPopUp(); // shows the modal pop-up if the users wants to fill the exit survey 
-});
--->
-</script>
-
    
 
  
@@ -1131,13 +1066,4 @@ showExitSurveyPopUp(); // shows the modal pop-up if the users wants to fill the 
 
 
 
-<div class="blockUI" style="display:none"></div><div class="blockUI blockOverlay" style="z-index: 1000; cursor: wait; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed;"></div><div class="blockUI blockMsg blockPage" style="z-index: 1001; position: fixed; padding: 0px; margin: 0px; width: 400px; top: 40%; left: 35%; text-align: center; color: rgb(0, 0, 0); border: 3px solid rgb(170, 170, 170); background: rgb(242, 245, 244); cursor: wait;"><div id="exitSurvey" class="bodytext" style="cursor: default;"> 
-    <img src="/img/logos/horz_gglogo_white.gif" alt="GlobalGiving logo">
-    <p>
-        Please help improve GlobalGiving.org <br>
-        by answering <strong>just 3 questions</strong> <br>
-        when you finish your visit.
-    </p>       
-    <input type="button" id="okbutt" value="Yes"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <input type="button" id="cancelbutt" value="No, thanks"> 
-</div></div></body></html>
+</body></html>
