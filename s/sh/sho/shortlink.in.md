@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortlink.in privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005011432id_/http%3A//www.shortlink.in/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortlink.in privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008215103id_/http%3A//shortlink.in/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Shortlink.in
 
