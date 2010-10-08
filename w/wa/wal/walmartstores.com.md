@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424170738id_/http%3A//walmartstores.com/9243.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008032408id_/http%3A//walmartstores.com/9243.aspx) for the most accurate reproduction.*
 
 # Walmartstores.com: Walmart Privacy Policy
 
@@ -262,11 +262,11 @@ Please check our privacy policy periodically for changes. We will also notify yo
 
 [Email Customer Service ](https://web.archive.org/contactus/feedback.aspx)\- for store experience, product questions and general feedback/questions.
 
-**Contacting the Privacy Office**
+ **Contacting the Privacy Office**
 
 [Email Privacy Office](http://walmartstores.com/AboutUs/9662.aspx?p=9073) \- Please feel free to contact the privacy office with any questions or comments about this policy or about how your information is handled. You can also contact us via the addresses below:
 
-**Mail:**  
+ **Mail:**  
 Walmart Corporate  
 Privacy Office, MS #505  
 508 SW 8th Street  
