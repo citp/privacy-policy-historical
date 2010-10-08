@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solyndra.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103151606id_/http%3A//www.solyndra.com/Terms-Privacy/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solyndra.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008153128id_/http%3A//www.solyndra.com/Terms-Privacy/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Solyndra - Privacy Policy
 
@@ -50,4 +50,4 @@ Please notify us of changes to any of your personally identifiable information t
 
 ### Conditions of Use; Contacting Us
 
-Please check the Solyndra Web site frequently to see recent changes, additions and deletions to this Privacy Policy. If you prefer not to receive promotional or other informational communications from Solyndra, or if you have any questions or comments about our privacy practices or comments or suggestions about the Solyndra Web site, please send an email to [legal@solyndra.com](mailto:legal@solyndra.com) or by mail to Solyndra Inc., 47700 Kato Road, Fremont, CA 94538, USA, Attention: Webmaster.
+Please check the Solyndra Web site frequently to see recent changes, additions and deletions to this Privacy Policy. If you prefer not to receive promotional or other informational communications from Solyndra, or if you have any questions or comments about our privacy practices or comments or suggestions about the Solyndra Web site, please send an email to [legal@solyndra.com](mailto:legal@solyndra.com) or by mail to Solyndra, Inc., 47700 Kato Road, Fremont, CA 94538, USA, Attention: Webmaster.
