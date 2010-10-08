@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612183821id_/http%3A//www.yodel.co.uk/media/31/yd0001%2520_odel_a4_web_privacy_policy_download_s6.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008050813id_/http%3A//www.yodel.co.uk/media/143/yd0001_yodel_a4_web_privacy_policy_download.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -33,14 +33,15 @@ Protection Act 1998 and other applicable laws. The details we collect will be us
    Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information
    for their own purposes.
 • To offer you additional products and services with your consent. In certain cases we may use your email
-   address to send you information on our other products and services. In such a case you will be offered
-   the option to opt in/out before completing your purchase.
-• To disclose information about you to any relevant regulator if they require it or to anyone else if
-   there is a legal duty to do so.
+   address [is it only email address that will be used for marketing purposes?] to send you information
+   on our other products and services. In such a case you will be offered the option to opt in/out before
+   completing your purchase.
 
 
 PRIVACY
 POLICY
+• To disclose information about you to any relevant regulator if they require it or to anyone else if
+   there is a legal duty to do so.
 Your Rights
 You have the right to request a copy of any information that we currently hold about you. In order to
 receive such information please send your contact details including address and payment of £10 to
