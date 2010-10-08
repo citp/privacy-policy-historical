@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbian.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630014514id_/http%3A//www.symbian.org/about-us/legal-stuff/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbian.org privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008170123id_/http%3A//www.symbian.org/about-us/legal-stuff/privacy) for the most accurate reproduction.*
 
 # Privacy | Symbian
 
