@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adxpansion.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217111704id_/http%3A//www.adxpansion.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adxpansion.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008153246id_/http%3A//www.adxpansion.com/en/index/privacy) for the most accurate reproduction.*
 
 # AdXpansion - Privacy Policy
+
+## Privacy Policy
 
 ### Information Collected and How It's Used
 
