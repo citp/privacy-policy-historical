@@ -1,22 +1,52 @@
-> *The following text is extracted and transformed from the facebd.com privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023121146id_/http%3A//facebd.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebd.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009003111id_/http%3A//www.facebd.com/help/privacy) for the most accurate reproduction.*
 
-# Untitled Document
+# Welcome to Facebd
 
-FaceBD.com – Privacy Policy
+## Privacy Statement
 
-By using our Web site, you consent to the collection and use of this information by FaceBD.com. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, FaceBD.com may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.  
+**Statement of Privacy and Information Usage Notice**
+
+Last Update - 2010 September 26, 11:29 PM (GMT +6:30)
+
+Our Privacy Policy is Designed to help you Understand how We Collect and Use Information. This Statement of Privacy ("Statement") is subject to change without any Notice or Announcement by our Team. Check this Privacy Statement Time to Time. For More Information or If You have any Problem Related this Statement Please Contact Us.
+
+  1.  **Information Collecting**
+
+We Do Not collect or store Any Information of Guests (Unregistered Users). We only Collecting Information and Storing from of Members (Registered Users). The information We Collect is Used to Improve the Content of Our Web Page, Used to Customize the Content and/or Layout of Our Page for Each Individual Visitor, Used to Notify Consumers about Updates to Our Web Site. We only Collect Following Information (Only If You Provided)
+
+    1. Your Full Name (Frist Name and Last Name. Required)
+    2. Your Birthday (We autometically Calculating your Age. Required)
+    3. Internet Protocol Address (Autometically Recording to Avoid from Spam)
+    4. Your Gender (Male or Female. Required)
+    5. Interested In Infomation (Boys or Girls. Required)
+    6. Looking For Information (Friendship, Dating or Relationship. Required)
+    7. Your Relationship Status (Single, In a Relationship, Engaged, Married, Complicated, Open Relationship or Widowed. Not Required)
+    8. And Some More Contact and Personal Information
+  
+
+  2.  **Browser Cookies Usage**
+
+With Respect to Cookies, We use Cookies to Store Visitors Preferences, Record Session Information, Customize Web Page Content based on Visitor's Browser Type or other Information that the Visitor Sends. Here is Some of Cookie Information We Using.
+
+    1. Session Information (Live Support and FaceBD Chat)
+    2. User Last Update Time (Sessions and Accounts)
+    3. User Configurations (Chat, Session and Accounts)
+    4. Last Logged Email Address (To Easy the Login Program)
+    5. And Some of Other Informations Only
+  
+
+  3.  **Information Security**
+
+With Respect to Security, We have Appropriate Security Measures in Place in Our Physical Facilities to Protect against the Loss, Misuse or Alteration of Information that We have Collected from You at Our Site. However, We dont have Any SSL Certificate yet to Encrypt Transferring Data. But, Transferred Data is Fully Encrypted to the Databases. Here is Your Job to Secure Your Information. If You have Any Problem Related this, Please Contact Us
+
+    1. Don't write down your Information in an Unencrypted File, Memorize It or Writedown it in Encrypted File
+    2. Don't let Anyone watch you Enter your Private Information. Keep your Secrats Alone
+    3. Don't Enter your Information on a Computer you don't Trust. Use your Personal Computer
+    4. Use the Password for a Limited Time and Change It Periodically. Memorize It
+
+Please Contact Us If you have Any Further Questions or You think Your Account in FaceBD is Not Fully Protected (It seems other one Using It). We care Always. You can Reach us via Live Support. If Live Support Team is Offline, Leave a Message. After, We will Contact You Soon. Please Note, This Privacy Statement (Privacy Policy) is subject to Change without Any Notice or Announcement. Thank You for Reading our Privacy Statement.
 
 
-Third Party Advertising
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.  
 
 
-Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.  
-
-
-Modification of Privacy Policy
-
-FaceBD.com reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations
+Copyrights © 2010 FaceBD Social Community. All Rights Reserved
