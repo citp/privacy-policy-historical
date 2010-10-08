@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowassistance.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105142029id_/http%3A//www.yellowassistance.com/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowassistance.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008040538id_/http%3A//www.yellowassistance.com/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # YellowAssistance.com - Privacy Policy
 
@@ -19,7 +19,7 @@ We do track and catalog the search terms that users enter in our Search function
 
 _Registration_
 
-Some of our additional and/or optional services may require registering for an account. For such services, we may ask you for some personally identifiable information in order to create an account and to provide the service. If we require personally identifiable information for such services, it will only be used to identify and ensure you are the account holder. It will not be used for any other purposes other than reasons that are not specifically listed on the site. 
+Some of our additional and/or optional services may require registering for an account. For such services, we may ask you for some personally identifiable information in order to create an account and to provide the service. If we require personally identifiable information for such services, it will primarily be used to identify and ensure you are the account holder. It may also be used to notify you about your account, available options, and other products and services made available by Yellow Assistance, its parent company and its subsidiaries. It will not be shared with 3rd party sites or used for any other purposes other than reasons that are not specifically listed on the site. 
 
 _Cookies_
 
