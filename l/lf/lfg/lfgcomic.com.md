@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfgcomic.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414191154id_/http%3A//www.lfgcomic.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfgcomic.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009125920id_/http%3A//www.lfgcomic.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Looking For Group » Privacy Policy
 
