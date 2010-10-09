@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116050729id_/http%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010004138id_/http%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
 
-# GetApp.com | Privacy Policy
+# Privacy Policy| GetApp.com
 
-Nubera eBusiness S.L. (“we” or “Nubera eBusiness”), the operator of [www.getapp.com](http://www.getapp.com/) and its associated blog at <http://www.getapp.com/blog> (together, the “Sites” and each a “Site”) is committed to protecting the privacy of all the users of the Sites (“you” or “User”). To better protect your privacy, and so that you can understand our privacy practices and decide whether to use our Sites, we provide this Privacy Policy explaining our information practices regarding the use and disclosure of User information collected and processed through our Sites.
+Nubera eBusiness S.L. (“we” or “Nubera eBusiness”), the operator of [www.getapp.com](https://web.archive.org/) and its associated blog at [http://www.getapp.com/blog](https://web.archive.org/blog/ "GetApp.com Blog")/ (together, the “Sites” and each a “Site”) is committed to protecting the privacy of all the users of the Sites (“you” or “User”). To better protect your privacy, and so that you can understand our privacy practices and decide whether to use our Sites, we provide this Privacy Policy explaining our information practices regarding the use and disclosure of User information collected and processed through our Sites.
 
 By using the Sites, and in particular by providing your personal information on registration, filling a contact form, or submitting a review, you explicitly accept this Privacy Policy and provide full consent to the collection, storage and processing of your personal data by Nubera eBusiness, and to the use and disclosure to certain third parties of your personal data, in accordance with the terms set out in this policy.
 
@@ -34,7 +34,7 @@ Nubera eBusiness will also process other technical information relating to your 
 
 **2\. Purposes in data collection and processing**
 
-The data we collect is processed for the purposes indicated in our [Terms of Use](http://www.getapp.com/terms_of_use "GetApp.com Terms of Use"), including without limitation management of the Sites and Users, matching Application providers with Users that are willing to learn about products and services, displaying relevant content on our Site, contacting Users and sending commercial communications, and such other specific purposes indicated or implicit in each part of the Site.
+The data we collect is processed for the purposes indicated in our [Terms of Use](https://web.archive.org/terms_of_use "GetApp.com Terms of Use"), including without limitation management of the Sites and Users, matching Application providers with Users that are willing to learn about products and services, displaying relevant content on our Site, contacting Users and sending commercial communications, and such other specific purposes indicated or implicit in each part of the Site.
 
 #### 3\. User Consent
 
