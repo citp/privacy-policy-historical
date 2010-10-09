@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffer31.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415062450id_/http%3A//stuffer31.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffer31.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009154401id_/http%3A//stuffer31.com/privacy.html) for the most accurate reproduction.*
 
 # Stuffer31 :: stuffer31.com - PRIVACY POLICY
 
@@ -82,4 +82,4 @@
     limited administrative access.
     
 
-#### [BACK](https://web.archive.org/web/20100415062450id_/http%3A//stuffer31.com/index.html)
+#### [BACK](https://web.archive.org/web/20101009154401id_/http%3A//stuffer31.com/index.html)
