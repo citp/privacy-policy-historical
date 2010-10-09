@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628040909id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010000720id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
 
 # Colorín Colorado :: Privacy Policy
 
@@ -68,8 +68,8 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 [](http://www.colorincolorado.org/about/by#aft "Major support for Colorín Colorado is provided by the American Federation of Teachers, AFL-CIO.")
 
-I like how much your website has to offer. Thank you!   
-~ Anonymous
+I recently found your website and it is very informative. You have found a way to teach ELLs in a more objective method and I applaud you for that. God Bless you all for your efforts to make our society aware of the need to teach English to those who come to make their dreams a reality in our country.   
+~ Arthur G.
 
 [](http://www.colorincolorado.org/guides/readingtips)
 
