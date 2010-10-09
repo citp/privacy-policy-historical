@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pics.livejournal.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124733id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pics.livejournal.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009233223id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # LiveJournal Privacy Policy
 
