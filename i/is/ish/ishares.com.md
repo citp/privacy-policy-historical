@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522221717id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009044343id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.*
 
-# iShares ETFs for US investors - Exchange Traded Funds
+# Privacy Statement - iShares
 
 This Privacy Policy applies to information that visitors transmit to iShares through this iShares website (the "Site").
 
@@ -13,7 +13,7 @@ Please direct any questions to [isharesetfs@blackrock.com](mailto:isharesetfs@bl
 This Privacy Policy explains the Site's processing and storage practices in the United States for personal information transmitted through the Site. Visitors subject to the jurisdiction of other countries must not submit information through this Site, and by doing so waive any and all liability iShares or BlackRock Institutional Trust Company, N.A. and its affiliates ("BlackRock") may have to them in connection with such information. By browsing the Site and communicating electronically with us, Site visitors acknowledge that we are processing and storing their personal information in the United States under U.S. privacy standards.
 
 **Personally Identifiable Information**  
-_When you register_ with the Site we collect your name, company address, email address, telephone number, and additional contact information. We also ask whether you are an individual or a financial professional and for related information. We collect a web site username and password.
+ _When you register_ with the Site we collect your name, company address, email address, telephone number, and additional contact information. We also ask whether you are an individual or a financial professional and for related information. We collect a web site username and password.
 
 _When you send email_ through the site, we collect your screen name and email address, as well as any additional information you include in the message.
 
@@ -22,7 +22,7 @@ _When you're navigating_ the Site we record your IP address.
 We consider each of the above pieces of information to be "Personally Identifiable Information" because it is individually identifiable information about you.
 
 **Other Information Associable with You**  
-_When you answer our online surveys_ we collect your responses.
+ _When you answer our online surveys_ we collect your responses.
 
 _When you're navigating the Site_ we log various information to help manage and improve our Site, services, and marketing, in general and for you in particular. For example, we identify items such as domains and browser types to understand how our Site is used and to report these statistics in the aggregate to the vendors that manage the technology of our website. We also record any information you enter, such as search terms and input to the tools such as hypothetical portfolio information.
 
