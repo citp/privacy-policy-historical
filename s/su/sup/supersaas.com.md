@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103012038id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009061727id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – SuperSaaS
+# Privacy Policy
 
 At SuperSaaS we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by SuperSaaS. If you have any questions about this Policy, please feel free to contact us through the [contact form](https://web.archive.org/info/contact). 
 
