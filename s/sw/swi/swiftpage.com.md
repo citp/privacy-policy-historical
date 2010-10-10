@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329172807id_/http%3A//www.swiftpage.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010234024id_/http%3A//www.swiftpage.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Swiftpage
 
