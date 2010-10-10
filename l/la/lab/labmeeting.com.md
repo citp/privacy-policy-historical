@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labmeeting.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106113905id_/http%3A//www.labmeeting.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labmeeting.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010055309id_/http%3A//www.labmeeting.com/welcome/privacy) for the most accurate reproduction.*
 
 # Privacy | Labmeeting
 
@@ -50,8 +50,3 @@ From time to time we may make changes to our privacy policy. If we make changes,
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@labmeeting.com.
 
 [](https://web.archive.org/signup)
-
-**Got a question?**   
-The Labmeeting Network   
-has the answer.   
-[Ask scientists at top universities](https://web.archive.org/welcome/qalearnmore?query=Harvard) like Harvard, Stanford, and MIT for their expert opinion! 
