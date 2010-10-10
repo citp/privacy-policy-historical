@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the printroom.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230114546id_/http%3A//www.printroom.com/info/Privacy_Policy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printroom.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010225401id_/http%3A//printroom.com/info/Privacy_Policy.asp%3Fshopperid%3DQ5HJX1DT7LW18GCSK8TSW5JEAKS7EM41%26) for the most accurate reproduction.*
 
 # Printroom: Privacy Policy
 
-[Home](http://printroom.com/default.asp?shopperid=CG6TN72LTRA68PD0PEVFMG4DD3HFCE71&) > [About Us](http://printroom.com/info/About_Us.asp?shopperid=CG6TN72LTRA68PD0PEVFMG4DD3HFCE71&) > [Guarantee and Terms](http://printroom.com/info/Guarantee_Terms.asp?shopperid=CG6TN72LTRA68PD0PEVFMG4DD3HFCE71&) > Privacy Policy 
+[Home](http://printroom.com/default.asp?) > [About Us](http://printroom.com/info/About_Us.asp?) > [Guarantee and Terms](http://printroom.com/info/Guarantee_Terms.asp?) > Privacy Policy 
 
 Printroom.com has a firm commitment to ensuring the privacy of our customers. This page will provide you with Printroom's (www.printroom.com) information gathering and dissemination practices. 
 
