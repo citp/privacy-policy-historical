@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brokencode.biz privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511065058id_/http%3A//www.brokencode.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokencode.biz privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010085157id_/http%3A//www.brokencode.biz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Brokencode™
+# Privacy Policy
 
 The privacy of our visitors to www.brokencode.biz is important to us.
 
