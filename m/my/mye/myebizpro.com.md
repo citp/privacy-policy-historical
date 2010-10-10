@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myebizpro.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003129id_/http%3A//www.myebizpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myebizpro.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010111442id_/http%3A//myebizpro.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
