@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the hawesandcurtis.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519033359id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawesandcurtis.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010065640id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Hawes & Curtis
 
+### Privacy Policy
+
+  
 Hawes and Curtis are committed to complying with the Data Protection Act 1998 and have published this guide to help our customers understand how and why we collect information from you, to whom this information is disclosed and what your rights as a customer are. 
 
 **What kind of information do we collect and how do we obtain it?**
