@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518224920id_/http%3A//www.suncorp.com.au/corporate/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010193159id_/http%3A//www.suncorp.com.au/corporate/legal/privacy-policy) for the most accurate reproduction.*
 
 # Suncorp - Privacy and Security | Suncorp
 
@@ -349,7 +349,7 @@ Suncorp will only send your personal information overseas or collect personal in
 
 ## What will happen if you do not provide your personal information to us?
 
-If we request personal information about you and you do not provide it, we may not be able to provide you with the financial product or service that you request or manage or pay any claim under and insurance policy.
+If we request personal information about you and you do not provide it, we may not be able to provide you with the financial product or service that you request or manage or pay any claim under any insurance policy.
 
 In addition, if we are required to comply with certain legislation to provide you with the products and services you choose, then collection of certain personal information will be mandatory.
 
@@ -454,7 +454,7 @@ If you are a New Zealand customer, please complain by contacting the Privacy Off
 New Zealand Privacy Officer  
 Private Bag 92120  
 Auckland 1142  
-New Zealand 
+New Zealand
 
 ## What if you are not satisfied with our response to your complaint?
 
@@ -470,7 +470,7 @@ You can contact the Federal Privacy Commissioner:
 Director of Complaints  
 Office of the Federal Privacy Commissioner  
 GPO Box 5218  
-Sydney, NSW 2001 
+Sydney, NSW 2001
 
 
 
@@ -492,7 +492,7 @@ Suncorp reviews its policies, statements and procedures to keep up to date with 
 
 Chief Privacy Officer    IPC FI011  
 GPO BOX 1453  
-Brisbane, QLD 4001 
+Brisbane, QLD 4001
 
 We encourage you to review this Privacy Policy on a regular basis.
 
