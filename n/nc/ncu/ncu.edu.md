@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527104939id_/http%3A//www.ncu.edu/northcentral-global/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010155835id_/http%3A//ncu.edu/northcentral-global/privacy-statement) for the most accurate reproduction.*
 
 # Northcentral University | Online Degree Programs | Privacy Policy-Consumer Information
 
@@ -36,7 +36,7 @@ Northcentral secures your personal information from unauthorized access, use or 
 
 Northcentral makes every effort to comply with federal, state and local laws and regulations. Here is a summary of our policies and procedures relating to a number of issues of concern to Learners, Faculty Mentors and Northcentral staff. 
 
-Northcentral policies are subject to change. For additional information about our policies and procedures, see our current [Course Catalog](http://www.ncu.edu/public_images/Northcentral%20University%202010%20Catalog/NCU_Catalog.htm).
+Northcentral policies are subject to change. For additional information about our policies and procedures, see our current [Course Catalog](http://www.ncu.edu/public_images/July%201%202010%20Catalog/July_1_2010_Catalog.htm).
 
   **[Student Records](http://www.ncu.edu/northcentral-global/consumer-information/family-educational-rights-and-privacy-act)**    
 The Family Educational Rights and Privacy Act (FERPA) protects the privacy of Learner records. 
@@ -58,3 +58,9 @@ Northcentral policy prohibits sexual harassment between and among all members, L
 
 [**Technical Requirements**](http://www.ncu.edu/northcentral-global/consumer-information/technical-requirements)   
 Learners, Mentors and even visitors to Northcentral will get the maximum benefit of their experiences by using adequate and compatible hardware and software. 
+
+[Student Right-to-Know Graduation Rate Disclosure ](http://www.ncu.edu/northcentral-global/consumer-information/graduation-rate)  
+The Student Right to Know (SRTK) Act, passed by Congress in 1990, requires all institutions eligible for Title IV funding to disclose graduation rates of degree- or certificate-seeking Learners to all Learners and prospective Learners.   
+**[  
+Higher Education Opportunity Act (HEOA)](http://www.ncu.edu/northcentral-global/consumer-information/higher-education-opportunity-act)**  
+Created in large part to help lower the prices students pay for textbooks, the Higher Education Opportunity Act (HEOA), went into effect July 1, 2010. 
