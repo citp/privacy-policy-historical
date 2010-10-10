@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613102534id_/http%3A//www.natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D52%26Itemid%3D226) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010233338id_/http%3A//natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D52%26Itemid%3D226) for the most accurate reproduction.*
 
-# Privacy Policy | NATPE - National Association of Television Program Executives | NATPE - National Association of Television Program Executives
+# Privacy Policy | NATPE | Content First | NATPE | Content First
 
 Copyright © 2004-2008 National Association of Television Program Executives (NATPE). All rights reserved. No portion of this site may be reproduced in any manner without the express prior written consent of NATPE.
 
