@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundirect.in privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419155947id_/http%3A//www.sundirect.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundirect.in privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010182736id_/http%3A//sundirect.in/privacy.php) for the most accurate reproduction.*
 
 # SUN DTH
 
