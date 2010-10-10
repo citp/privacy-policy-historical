@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530081413id_/http%3A//www.phnompenhpost.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010134001id_/http%3A//www.phnompenhpost.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | The Phnom Penh Post - Cambodia's Newspaper of Record
 
@@ -68,4 +68,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, send us an email at [admin@thepppost.com](mailto:admin@thepppost.com) . 
+Should you have other questions or concerns about these privacy policies, send us an email at [admin@thepppost.com](mailto:admin@thepppost.com). 
