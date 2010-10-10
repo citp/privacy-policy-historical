@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602045500id_/http%3A//stripgenerator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010093607id_/http%3A//stripgenerator.com/privacy) for the most accurate reproduction.*
 
-# Stripgenerator.com
+# Stripgenerator.com - Privacy
 
 ## Privacy policy
 
