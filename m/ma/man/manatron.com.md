@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manatron.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515070727id_/http%3A//www.manatron.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manatron.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010055622id_/http%3A//www.manatron.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Manatron | Privacy Policy
 
@@ -33,4 +33,4 @@ This Web site contains links to other sites. Please be aware that Manatron.com i
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at [webmaster@manatron.com](mailto:webmaster@manatron.com).
 
-[Top](http://manatron.com/#top)
+[Top](http://www.manatron.com/#top)
