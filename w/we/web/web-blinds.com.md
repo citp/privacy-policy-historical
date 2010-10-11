@@ -1,63 +1,49 @@
-> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611010757id_/http%3A//www.web-blinds.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011071722id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
 
-# web-blinds.com - privacy policy
+# Privacy Policy
 
-We are fully committed to protecting your privacy. This statement describes our policy: 
+At Web-Blinds we take protecting your privacy very seriously. Here’s how we make sure your details are secure.
 
-## What information do we collect and how do we use it?: 
+* * *
 
-The principle activity of web-blinds.com is the supply of window blinds. In order to do this, we need to collect information from you when you place an order, request free samples, or when you save quotes, window measurements or rooms from 'room creator', but we will only retain this information with your permission. We always ask for your email address as this information is essential for processing any orders you place with us and it also helps us tailor our service and provide you with a more personalised shopping experience. All other information, such as your name, address and telephone number is optional for all processes apart from placing an order. If you do decide to register with us you can view the personal information we have collected about you by visiting the 'my web-blinds.com' page of the site. 
+  * What information do we collect and how do we use it?
+  * How do we protect your information electronically?
+  * Who else has access to your information?
+  * What are Cookies?
+  * Where to contact us
 
-Any personal information collected by us is controlled by us at,
 
-web-blinds.com  
-Unit 2 Churchill Park  
-Private Road No 2  
-Colwick Business Park  
-Nottingham  
-NG4 2JR
 
-We may also use the information we collect about you to notify you of any news on our goods and services that we think you may find valuable. At every point on the site where this information is collected, we will give you the option to tell us if you do not want your personal information used in this way. If at any stage you decide you would prefer not to receive such information, please contact us at the above address or email us at [enquiries@web-blinds.com.](mailto:enquiries@web-blinds.com)
+### What information do we collect and how do we use it?
 
-## How do we protect your information?
+We collect information when you place an order, request free samples and save a quote – but **we only keep it with your permission**.
 
-When you place orders or access your account information, we offer the use of a secure server. The secure server software encrypts all information you input before it is sent to us. 
+  * We ask for your email address to process your order and to give you a more personal shopping experience.
+  * You don’t have to give us your name, address, telephone and payment details unless you place an order.
+  * We may use your details to tell you about goods and services we think you’ll be interested in from us and the Hillarys group of companies we’re part of – but **we always give you the option to tell us if you don’t want your information to be used in this way**. 
+  * If you want us to **stop sending you information** , just email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com)
+  * We sometimes link to sites not owned by us that we think might interest you. We’re not responsible for privacy or security on these sites.
 
-Please see our security policy for further information.
 
-Any web-blinds.com employees who have access to your personal data are obliged to respect your confidentiality and take this responsibility very seriously.
 
-## Will we share the information?
+We use a secure server that encrypts the information you give us. We do not store your card details and all numbers are encrypted when we process your order 
 
-We employ other companies and individuals to perform functions on our behalf. These functions include delivering packages, sending emails, analysing data, processing credit card payments and providing marketing assistance. The companies have access to personal information needed to perform their functions, but may not use it for other purposes. 
+All our staff who have access to your personal data take respecting your confidentiality very seriously.
 
-web-blinds.com is part of the Hillarys Group of companies. Other companies within the Group may also wish to provide you with news and information about goods and services that may be of interest to you. At every point on the site where this information is collected, we will give you the option to tell us if you do not want your personal information disclosed in this way. If at any later stage you do not want to continue receiving such information, contact us at the web-blinds.com address (see above) or email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com)
+### Who else has access to your information?
 
-We may share statistical data about visitors to this site and sales patterns with Group Companies or other parties. We will not sell or share any of your personal information unless you agree to us doing so.
+Companies that perform tasks on our behalf such as delivering your packages and processing your credit card payments have access to the information they need to carry out their work – but they can’t use it for any other purposes.
 
-## What are Cookies?
+### What are Cookies?
 
-A cookie is a small piece of information sent by our web server to your web browser. It enables our server to collect information back from your browser and is used to identify you when you visit our website. Cookies allow us to track visitors to web-blinds.com, so we can determine the most popular areas of the site and make it more user-friendly. Our cookies do not contain any personal information but they do enable us to store your details in the 'my web-blinds.com' section of the site between your visits. 
+Cookies are small pieces of information sent from our web server to your web browser that enable us to identify you when you visit our website. They don’t contain any personal information, but they do allow us to store your details in the **my account** section of the site.
 
-You do not have to accept cookies and it is possible to set up your browser to notify you when you receive one. This will give you the opportunity to decide whether or not to accept it. Please refer to the help section on your browser toolbar or the information that came with your browser software.
+If you don’t want to accept Cookies you can set up your browser to notify you when you receive one. To find out how to do this, see the help section in your browser toolbar.
 
-## What about Links?
+### Where to contact us
 
-Our site may contain links to other sites, which we believe may be of interest to you. These sites are not owned or controlled by us and we are not responsible for their content. They will also have their own privacy and security policies, which we suggest you read. 
+Any questions or comments about our privacy policy? Just email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com) or call us on **0845 604 9611** if you live in the UK or **1890 995009** if you live in Ireland.
 
-## Policy changes
+You can also write to us at:
 
-Any changes to our privacy policy will be posted on this page of our site and will be effective immediately. This policy was last updated on 19 June 2009. 
-
-## How do I contact web-blinds.com?
-
-If you are unsure about any aspect of our privacy policy, or if you have a complaint or any other comment to make on our website, please contact us at: 
-
-web-blinds.com  
-Unit 2 Churchill Park  
-Private Road No. 2  
-Colwick Business Park  
-Nottingham  
-NG4 2JR  
-Email:[enquiries@web-blinds.com](mailto:enquiries@web-blinds.com)  
-Tel:0845 604 9611
+web-blinds.com, Unit 2 Churchill Park, Private Road No. 2, Colwick Business Park, Nottingham, NG4 2JR
