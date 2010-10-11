@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101150224id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011134840id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Revell Privacy Policy
 
-Revell Inc., has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.Revell.com. The Revell Inc. website is a dynamic site and changes all the time. Some information given in this section is included for future intended use. By visiting this portion of our site, you can expect to be notified of:
+Revell Inc., has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.Revell.com. The Revell Inc. web site is a dynamic site and changes all the time. Some information given in this section is included for future intended use. By visiting this portion of our site, you can expect to be notified of:
 
   * What personally identifiable information is collected
   * How the information is used
@@ -16,7 +16,7 @@ Revell Inc., has created this privacy statement in order to demonstrate our firm
 This policy may change from time to time so please check back periodically.  
 How We Collect and Use Your Information 
 
-Many of the ways in which you interact with our site allow us to learn more about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. We use your ISP address to help diagnose problems with our server, and to administer our Website. Your ISP address is used to gather broad demographic information. Our site uses cookies to make sure you don't see the same banner ad repeatedly. We use cookies to deliver content specific to your interests, to save your Passport ID so you don't have to re-enter it each time you visit our site, and for other purposes. We also track the number of people who view each page to learn which features are the most popular. But in these, and almost all other instances, we do not obtain personally identifiable information about you. 
+Many of the ways in which you interact with our site allow us to learn more about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. We use your ISP address to help diagnose problems with our server, and to administer our web site. Your ISP address is used to gather broad demographic information. Our site uses cookies to make sure you don't see the same banner ad repeatedly. We use cookies to deliver content specific to your interests, to save your Passport ID so you don't have to re-enter it each time you visit our site, and for other purposes. We also track the number of people who view each page to learn which features are the most popular. But in these, and almost all other instances, we do not obtain personally identifiable information about you. 
 
 In those instances where we do collect personally identifiable information, it is only to improve your experience on our site. Examples of when you voluntarily submit this kind of information include when you answer our polls, enter sweepstakes or contests, fill out the registration page, send us feedback or post in our chat rooms or message boards. 
 
