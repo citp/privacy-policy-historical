@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209163551id_/http%3A//www.myjellybean.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012014707id_/http%3A//www.myjellybean.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Myjellybean.com
 
@@ -62,11 +62,11 @@ In addition to reviewing this Agreement, please read our Terms Of Service, which
 
 **Contacting Us**
 
-For Media Enquiries, please [email us here](mailto:promotions@myjellybean.com?subject=Media%20Enquiry) .
+For Media Enquiries, please [email us here](mailto:promotions@myjellybean.com?subject=Media%20Enquiry).
 
 Please visit our [Contact Us page](http://www.myjellybean.com/corporate/contact-us) for other contact information.
 
-If you have any questions or comments about this privacy statement, or have any other questions for or about Myjellybean.com, you can get in touch with us at [this email](mailto:jellybe@jellybe.com) , or by snail mail at:
+If you have any questions or comments about this privacy statement, or have any other questions for or about Myjellybean.com, you can get in touch with us at [this email](mailto:jellybe@jellybe.com), or by snail mail at:
 
 Myjellybean Inc.   
 PO Box 65171   
