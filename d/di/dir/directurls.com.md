@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107231442id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012003507id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| Active Users: | 1  
----|---  
-Accounts: | 0  
-Guests: | 1  
-Visits last 24h: | 314  
-  
+[](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=sdscripts)
+
+| 
+
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order or fill out a form. 
@@ -65,4 +63,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 sdscripts.support @ gmail.com
 
-| 
+[](http://submissionwizards.com/Directory-Submissions/Directory-Submission-Services.html)
+
+|   
+---|---|---
