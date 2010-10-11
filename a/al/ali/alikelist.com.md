@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the alikelist.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504134415id_/http%3A//www.alikelist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alikelist.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011054204id_/http%3A//www.likelist.com/privacy) for the most accurate reproduction.*
 
-# AlikeList - Privacy Policy
+# LikeList - Privacy Policy
 
-AlikeList is committed to protecting the privacy of our users. This privacy policy explains when and how personal information is collected, used, disclosed and protected with respect to our website located at [www.alikelist.com](http://www.alikelist.com/) (the "AlikeList Site"). By using the AlikeList Site, you consent to the privacy practices described in this Privacy Policy, as modified from time to time by us. Please carefully review this policy so you understand our data privacy practices.
+LikeList is committed to protecting the privacy of our users. This privacy policy explains when and how personal information is collected, used, disclosed and protected with respect to our website located at [www.likelist.com](http://www.likelist.com/) (the "LikeList Site"). By using the LikeList Site, you consent to the privacy practices described in this Privacy Policy, as modified from time to time by us. Please carefully review this policy so you understand our data privacy practices.
 
-This Privacy Policy is incorporated into and is subject to the AlikeList Terms of Use. Your use of the AlikeList Site and any personal information you provide on the AlikeList Site remains subject to our Terms of Use. Any capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the Privacy Policy.
+This Privacy Policy is incorporated into and is subject to the LikeList Terms of Use. Your use of the LikeList Site and any personal information you provide on the LikeList Site remains subject to our Terms of Use. Any capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the Privacy Policy.
 
 ### What is Personal Information? 
 
-Personal information is information that specifically identifies an individual, such as a name, address, telephone number, email address, or other account number, and information about that individual's activities when directly linked to that person, such as information about his or her use of the AlikeList Site. Personal information also includes demographic information, such as date of birth, gender, geographic location and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor the AlikeList Site.
+Personal information is information that specifically identifies an individual, such as a name, address, telephone number, email address, or other account number, and information about that individual's activities when directly linked to that person, such as information about his or her use of the LikeList Site. Personal information also includes demographic information, such as date of birth, gender, geographic location and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor the LikeList Site.
 
 ### Personal Information We Collect and How We Use It
 
@@ -16,7 +16,7 @@ We collect personal information in a number of ways when you visit our website. 
 
 ### Sharing of Your Information
 
-In addition, we may disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, property or personal safety of AlikeList, our users, our employees or the public. Information about our users, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets or acquisition. Please keep in mind that if you directly disclose personal information when posting reviews or other content to the AlikeList Site, this information may be collected and used by others. You agree that we shall bear no responsibility for any such disclosures. We recommend you be cautious in giving out personal information to others in public online forums.
+In addition, we may disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, property or personal safety of LikeList, our users, our employees or the public. Information about our users, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets or acquisition. Please keep in mind that if you directly disclose personal information when posting reviews or other content to the LikeList Site, this information may be collected and used by others. You agree that we shall bear no responsibility for any such disclosures. We recommend you be cautious in giving out personal information to others in public online forums.
 
 ### Email Tools
 
@@ -36,7 +36,7 @@ We give you the opportunity to opt-out of receiving communications from us and t
 
   1. If you want to view, correct or remove your personal information, you can access your information online by clicking the "Account" or "Profile" link.
 
-  2. To contact us directly, email AlikeList at [customerservice@alikelist.com](mailto:customerservice@alikelist.com) or write to us at AlikeList Inc, 440 N. Wolfe Road, MS-159 Sunnyvale, CA 94085
+  2. To contact us directly, email LikeList at [customerservice@likelist.com](mailto:customerservice@likelist.com) or write to us at LikeList Inc, 440 N. Wolfe Road, MS-159 Sunnyvale, CA 94085
 
 
 
@@ -45,7 +45,7 @@ We give you the opportunity to opt-out of receiving communications from us and t
 
 Automatically Collected Information: We automatically receive certain types of information whenever you interact with us. For example, when you visit the Site, we automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies" which are discussed in more detail below. We also collect various types of "clickstream" information which is information about your browsing behavior, such as IP address information, entry and exit points for the Site, search terms, Website addresses you visit, page views, and impressions.
 
-Cookies: Cookies are small text files placed on your hard drive by a website when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the AlikeList Site, the site knows who you are and can personalize your visit. In general, we use cookies to collect information so that we can determine how to improve our site by seeing which areas and features are most popular to personalize the AlikeList Site, to improve the site experience and to complete transactions you have requested. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you will still be able to access those parts of the AlikeList Site available to the general public but you may not be able to use some of the site's features or services, and you may have a less satisfactory experience.
+Cookies: Cookies are small text files placed on your hard drive by a website when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the LikeList Site, the site knows who you are and can personalize your visit. In general, we use cookies to collect information so that we can determine how to improve our site by seeing which areas and features are most popular to personalize the LikeList Site, to improve the site experience and to complete transactions you have requested. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you will still be able to access those parts of the LikeList Site available to the general public but you may not be able to use some of the site's features or services, and you may have a less satisfactory experience.
 
 ### Use of our Website by Children
 
@@ -61,7 +61,7 @@ THE ALIKELIST SERVICE IS UNDER CONTINUOUS DEVELOPMENT AND TESTING BY ALIKELIST. 
 
 ### Your Comments or Concerns
 
-We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at [customerservice@alikelist.com](mailto:customerservice@alikelist.com), or by mail at AlikeList Inc, 440 N. Wolfe Road, MS-159 Sunnyvale, CA 94085
+We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at [customerservice@likelist.com](mailto:customerservice@likelist.com), or by mail at LikeList Inc, 440 N. Wolfe Road, MS-159 Sunnyvale, CA 94085
 
 ### Data Changes
 
