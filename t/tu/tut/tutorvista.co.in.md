@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the tutorvista.co.in privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106005944id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorvista.co.in privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011231448id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
+
+  
+
 
 ## Privacy Statement Effective as of August, 2006
 
@@ -43,7 +48,8 @@ This privacy statement covers the use of cookies by TutorVista.com only and does
 
 Web pages may contain an electronic file called a web beacon, that allows a web site to count users who have visited that page or to access certain cookies. TutorVista uses web beacons in the following ways: 
 
-Within the TutorVista web sites
+Within the TutorVista web sites  
+
 
   * TutorVista uses web beacons within the TutorVista web sites in order to count users and to recognize users by accessing TutorVista cookies. 
   * Being able to access TutorVista cookies allows us to personalize your experience when you visit TutorVista web sites that are located both on and off of the tutorvista.com domain. 
