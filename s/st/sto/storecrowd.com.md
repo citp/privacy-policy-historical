@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the storecrowd.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422012454id_/http%3A//storecrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storecrowd.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011074417id_/http%3A//storecrowd.com/privacy) for the most accurate reproduction.*
 
 # StoreCrowd - How we Protect your Privacy
 
-## Privacy
-
-### At StoreCrowd we value your Privacy!
+## At StoreCrowd we value your Privacy!
 
 This Privacy Policy is fairly simple; it's designed to make sure that your information is safe. Not only that we want to make sure that you have complete control over what happens with any information that you supply to StoreCrowd.
 
@@ -33,15 +31,15 @@ StoreCrowd uses Session Cookies to identify returning & logged in users. We do n
 
 Due to the nature of our site we link to many Third Party websites, these sites may require you to provide user information to them directly. Please ensure that you review the Privacy Policy & Terms on these sites to find out how they use your Personal Information.
 
-### Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 The StoreCrowd Privacy Policy may change from time to time as we add more products & services. As such we will alert existing users to the Privacy Policy change next time they log in, you may have to accept changes to continue using the site.
 
-### Effective Date of this Privacy Policy
+## Effective Date of this Privacy Policy
 
 Created on 24th May 2009
 
-### StoreCrowd Contact Information:
+## StoreCrowd Contact Information:
 
 Crowd9 PTY LTD  
 PO BOX 6565  
