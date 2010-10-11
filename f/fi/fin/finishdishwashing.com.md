@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finishdishwashing.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525061150id_/http%3A//www.finishdishwashing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishdishwashing.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012004840id_/http%3A//www.finishdishwashing.com/privacy.php) for the most accurate reproduction.*
 
 # FINISH® Website Privacy Policy
 
