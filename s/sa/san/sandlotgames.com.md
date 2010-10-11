@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandlotgames.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629043252id_/http%3A//www.sandlotgames.com/w5/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandlotgames.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011174458id_/http%3A//www.sandlotgames.com/w5/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
