@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012003724id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
 
 # What is your privacy policy? - LookAgain Help
 
-  * [Help](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
+  * [Help](https://web.archive.org/web/20101012003724id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20101012003724id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
 
 
 
@@ -12,6 +12,7 @@ We respect your privacy, and promise to use any information we hold about you in
   * Your credit history 
   * The credit histories of any people you are financially linked to 
   * Your purchasing habits with us 
+  * To verify your identity and that you are least 18 years of age (we cannot sell any goods to you if you are below 18 years of age.
 
 
 
@@ -34,7 +35,7 @@ Ingleby Road
 Bradford  
 BD99 2XG 
 
-Any information we collect about customers� browsing and buying habits is used to improve the Look Again website and the products and services offered to our customers. It also assists us with the detection and prevention of fraud. 
+Any information we collect about customers’ browsing and buying habits is used to improve the Look Again website and the products and services offered to our customers. It also assists us with the detection and prevention of fraud. 
 
 We will collect information from you when opening your account and processing your orders. 
 
@@ -47,9 +48,3 @@ Information we hold about you is securely stored electronically. When you open a
 Callers to our Customer Services will be subject to a security check Online customers will require a log-in and password to access their account. 
 
 Our courier service will have selected access to your details for delivery purposes only.
-
-## Other questions in this section:
-
-  * [What is your data protection policy?](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp?qid=671)
-
-
