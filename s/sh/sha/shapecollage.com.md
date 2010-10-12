@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapecollage.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527015506id_/http%3A//www.shapecollage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapecollage.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012145802id_/http%3A//www.shapecollage.com/privacy.html) for the most accurate reproduction.*
 
 # Shape Collage - Privacy Policy
 
