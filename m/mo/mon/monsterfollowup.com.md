@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterfollowup.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612220237id_/http%3A//monsterfollowup.com/index.php%3F%26req%3Ddoc%26id%3D10012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterfollowup.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012170658id_/http%3A//www.monsterfollowup.com/index.php%3F%26req%3Ddoc%26id%3D10012) for the most accurate reproduction.*
 
 # Privacy Policy
 
