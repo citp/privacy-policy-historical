@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hiddenvalley.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630075948id_/http%3A//www.clorox.com/global_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiddenvalley.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012161226id_/http%3A//www.clorox.com/global_privacy.php) for the most accurate reproduction.*
 
 # Clorox Privacy Policy For United States Consumers
 
 Clorox Privacy Policy For United States Consumers  
-Our Privacy Policy for Canadian sites may be found [here](https://web.archive.org/web/20100630075948id_/http%3A//www.clorox.com/cdn_privacy.php).
+Our Privacy Policy for Canadian sites may be found [here](https://web.archive.org/web/20101012161226id_/http%3A//www.clorox.com/cdn_privacy.php).
 
 **Last Revised: October 1, 2007**
 
@@ -99,4 +99,4 @@ Questions?
 Questions regarding this Policy should be directed to the Clorox Security Office/Privacy at privacy@clorox.com, or at the following physical mailing address: The Clorox Company, Mail Stop 2334, 1221 Broadway, Oakland, California 94612-1888.  
 
 
-Please note that this Policy applies to our Sites hosted in the United States. Our Privacy Policy for Canadian sites may be found [here](https://web.archive.org/web/20100630075948id_/http%3A//www.clorox.com/cdn_privacy.php).
+Please note that this Policy applies to our Sites hosted in the United States. Our Privacy Policy for Canadian sites may be found [here](https://web.archive.org/web/20101012161226id_/http%3A//www.clorox.com/cdn_privacy.php).
