@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lefora.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613044042id_/http%3A//www.lefora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lefora.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012152958id_/http%3A//www.lefora.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
