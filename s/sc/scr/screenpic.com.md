@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenpic.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607043748id_/http%3A//screenpic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenpic.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012033407id_/http%3A//screenpic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # SCREENpic.com Adult Image Host » More Information » Privacy Policy
 
