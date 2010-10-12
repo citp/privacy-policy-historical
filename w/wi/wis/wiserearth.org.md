@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191610id_/http%3A//www.wiserearth.org/article/a1ac3659e7976b931c38660fa4921a95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013003258id_/http%3A//www.wiserearth.org/article/Privacy) for the most accurate reproduction.*
 
-# Article: Privacy Policy
+# Article: Privacy
 
 **WiserEarth.org  
 Privacy Policy**
@@ -13,13 +13,13 @@ By using WiserEarth, you permit the collection and use of your personal informat
 
 **I. Information We Collect**
 
-NCI collects certain personal information from you when you register for a WiserEarth account, including a [username](https://web.archive.org/index.php//article/glossary/#U) and your email address, as well as location information such as the country you reside in. You can also choose to add additional personal information in your [user profile](https://web.archive.org/index.php//article/glossary/#U), including one or more profile photos. 
+NCI collects certain personal information from you when you register for a WiserEarth account, including a [username](http://www.wiserearth.org/article/glossary/#U) and your email address, as well as location information such as the country you reside in. You can also choose to add additional personal information in your [user profile](http://www.wiserearth.org/article/glossary/#U), including one or more profile photos. 
 
 We collect information about your use of WiserEarth that you do not explicitly submit. For example, we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. If you create an account on WiserEarth certain information relating to your activity on the Website, such as the date and time at which you register and the text of the comments and contributions you make on WiserEarth, and the time that you make them, is displayed in your profile and can be viewed by other users, whether or not they are logged into an account. Internal messages you send to other users are not public.
 
 **II. Use of Your Information**
 
-In order to create or edit certain content on WiserEarth, you must register with WiserEarth and login to your account. Personal information such as your [username](https://web.archive.org/index.php//article/glossary/#U) and an optional profile photo may be visible to users in conjunction with messages or other postings that you contribute to WiserEarth. Users may also view your profile, and any personally identifiable information you have included in your profile, by clicking on your username when you post on WiserEarth. You are required to provide an email address when you register with WiserEarth. This email address will not be visible to users who view your profile. If you are concerned with the privacy of your personal information, we recommend that you do not register with WiserEarth. 
+In order to create or edit certain content on WiserEarth, you must register with WiserEarth and login to your account. Personal information such as your [username](http://www.wiserearth.org/article/glossary/#U) and an optional profile photo may be visible to users in conjunction with messages or other postings that you contribute to WiserEarth. Users may also view your profile, and any personally identifiable information you have included in your profile, by clicking on your username when you post on WiserEarth. You are required to provide an email address when you register with WiserEarth. This email address will not be visible to users who view your profile. If you are concerned with the privacy of your personal information, we recommend that you do not register with WiserEarth. 
 
 We may send emails to the email address you provide in your profile or send personal messages to your WiserEarth account in order to provide you with notifications related to your use of WiserEarth or updates or news regarding WiserEarth. 
 
