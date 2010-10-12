@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the web4africa.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620020231id_/http%3A//www.web4africa.net/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web4africa.net privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012032539id_/http%3A//www.web4africa.net/about-us/privacy-policy.php) for the most accurate reproduction.*
 
 # Web4Africa Ltd - Privacy policy
+
+Effective **1st January 2007**
+
+**Privacy Notice Table Of Contents:**   
+
+
+  * **Our Commitment To Privacy**
+  * **The Information We Collect**
+  * **How We Use Information**
+  * **Our Commitment To Data Security**
+  * **Our Commitment To Children's Privacy**
+  * **How To Access Or Correct Your Information**
+  * **How To Contact Us**
+
+
 
 **Our Commitment To Privacy**
 
@@ -10,11 +25,13 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the Web4Africa website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-Name   
-Address   
-Email address   
-Phone number   
-(etc.) 
+> Name   
+>  Address   
+>  Email address   
+>  Phone number   
+>  (etc.) 
+
+
 
 
 **The Way We Use Information:**
