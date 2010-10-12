@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnyscoop.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527202410id_/http%3A//www.theskinnyscoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyscoop.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012024146id_/http%3A//www.theskinnyscoop.com/privacy) for the most accurate reproduction.*
 
 # TheSkinnyScoop : Privacy
 
