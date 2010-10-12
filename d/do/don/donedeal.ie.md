@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608083841id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012133435id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 2 Feb 2010 | DoneDeal Help
 
