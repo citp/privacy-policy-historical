@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613035737id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013055203id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Healthy.net Resource for all that is natural in health
 
@@ -26,20 +26,22 @@ HealthWorld Online uses a secure server for any ordering and credit card informa
 
 |   
 ---  
-**"The wish to be well is a part of becoming well."**  
+**"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."**  
   
 | 
 
+[ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1349)
+
 Simply Well
 
-| [Inhabit Your Body and Love It](https://web.archive.org/scr/Column.aspx?Id=472)  
+| [Breathe for Life](https://web.archive.org/scr/Column.aspx?Id=473)  
 ---  
-Twenty-four hours a day your body is talking to you—giving you feedback about what it needs for its survival, its pleasure, its growth, and its balance. Many of those messages go unnoticed or unheeded... [ more](https://web.archive.org/scr/Column.aspx?Id=472)  
+Adult humans normally breathe at the rate of one breath every six to eight seconds and inhale an average of sixteen thousand quarts of air each day. If nothing is done to restrict breathing, it will happen... [ more](https://web.archive.org/scr/Column.aspx?Id=473)  
   
-Fabulous Functional Foods
+There's a Yogi in the Kitchen!
 
-[Avocado-Apple Yogurt with Flaxseed ](https://web.archive.org/scr/Column.aspx?Id=115)  
+[Ginger, The Wonder Spice](https://web.archive.org/scr/Column.aspx?Id=359)  
 ---  
-Danish chef Oscar Umahro Cadogan brings us a recipe for "Avocado-Apple Yogurt With Flaxseed," an excellent dairy-free fruit yogurt using only apples, avocados, extra virgin olive oil and unfiltered cider... [ more](https://web.archive.org/scr/Column.aspx?Id=115)  
+According to Ayurvedic and Chinese herbal lore, ginger strengthens the nervous system, restores sexual energy, strengthens the immune system, helps with bronchial problems, prevents and relieves... [ more](https://web.archive.org/scr/Column.aspx?Id=359)  
   
 [ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1145)
