@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128053251id_/http%3A//www.ala.org/ala/footer/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013212128id_/http%3A//www.ala.org/ala/footer/privacypolicy.cfm) for the most accurate reproduction.*
 
 # ALA | Privacy Policy
 
