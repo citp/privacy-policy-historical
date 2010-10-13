@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tumblebooklibrary.com privacy policy that was archived on 2009-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091106235854id_/http%3A//www.tumblebooks.com/library/asp/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tumblebooklibrary.com privacy policy that was archived on 2010-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101013194231id_/http%3A//www.tumblebooks.com/library/asp/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>TumbleBooks - eBooks for eKids!</title>
@@ -16,9 +16,45 @@
 	font-size: 12px;
     }
 </style>
+<script src="includes/jquery.js" type="text/javascript"></script>
+<script src="includes/thickbox.js" type="text/javascript"></script>
+<link href="includes/Css/thickbox.css" rel="stylesheet" type="text/css">
+<script src="includes/customer.js" type="text/javascript"></script>
+<script type="text/javascript">
+    //For IE 6.0 Png.
 
+        function getEnvBrowser(){
+         var appName=navigator.appName;
+         if (navigator.appName=="Microsoft Internet Explorer"){
+          varMS=navigator.appVersion.indexOf("MSIE")
+          if (varMS>0) {
+           a=navigator.appVersion.substring(varMS+5,varMS+8)
+           appName = "IE " + a ;
+          }
+         }else{
+             var a = parseInt(navigator.appVersion);
+          appName = appName + a;
+         }
+         return appName;
+        }
+        function setPngImage(pngImage)
+        {
+            var s=pngImage.src;
+            pngImage.src="images/spacer.gif";
+            pngImage.style.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+s+"', sizingMethod='crop')";
+        }
+
+        function setpng()
+        {
+            if(getEnvBrowser()=="IE 6.0")
+            {
+                //setPngImage(document.getElementById("logoPng"));  
+            }
+        }
+    </script>
 <script type="text/javascript" src="../../public/cookie.js"></script>
 <script type="text/javascript" src="includes/JScript.js"></script>
+
 <script type="text/javascript">
 <!--
 
@@ -133,13 +169,674 @@ window.onload = selectChange;
 				<table cellpadding="0" cellspacing="0" border="0" width="100%" id="Table5">
 				<tbody><tr>
                 
-                    <td></td>
+					<td align="left" valign="bottom">
+                    <!-- SEARCH BAR TABLE-->
+                        <table border="0" cellpadding="0" cellspacing="0" width="252" style="margin-left:20px;margin-bot					tom:5px;">
+                            <tbody><tr>
+                                <td><img src="../../images/spacer.gif" width="15" height="1" border="0" alt=""></td>
+                                <td><img src="../../images/spacer.gif" width="225" height="1" border="0" alt=""></td>
+                                <td><img src="../../images/spacer.gif" width="12" height="1" border="0" alt=""></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3"><img name="TBLSearch_top" src="../../images/TBLSearch_top.gif" width="252" height="28" border="0" alt="TUMBLESEARCH"></td>
+                            </tr>
+                            <tr>
+                                <td background="../../images/TBLSearch_lside.gif" bgcolor="#CEDCF8">&nbsp;</td>
+                                <td align="left" bgcolor="#CEDCF8">
+                                    <table cellpadding="0" cellspacing="0" style="font-size:8px; padding-left:20px">
+                                    <form name="form1" method="get" action="catalogue_details.asp" class="main" id="Form2"></form>
+                                        <tbody><tr>
+                                            <td width="160" valign="top">&nbsp; </td>
+                                            <td width="38" valign="top">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                            <select name="select" id="Select2" onchange="selectChange()" style="font-size:10px; width: 160px;">
+                                            <option value="All">All</option>
+                                            <option value="Title">Title</option>
+                                            <option value="book_lang_id">Languages</option>
+                                            <option value="Author">Author</option>
+                                            <option value="Publisher">Publisher</option>
+                                            <option value="Illustrator">Illustrator</option>
+                                            <option value="Reading Level Automatic">Reading Level Automatic</option>
+                                            <option value="Reading Level Manual">Reading Level Manual</option>
+                                            <option value="Status">Subjects</option>
+                                            </select></td>
+                                            <td>&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td align="left" valign="top">
+                                                
+                                                <select name="Automatic" id="Select3" style="display: none; width: 160px; font-size:10px;">
+                                                
+                                                    <option value="Grade 1-4">
+                                                    Grade 1-4
+                                                    </option>
+                                                
+                                                    <option value="Grade 2-4">
+                                                    Grade 2-4
+                                                    </option>
+                                                
+                                                    <option value="Grade 2-5">
+                                                    Grade 2-5
+                                                    </option>
+                                                
+                                                    <option value="Grade 4-6">
+                                                    Grade 4-6
+                                                    </option>
+                                                
+                                                    <option value="Grade K-2">
+                                                    Grade K-2
+                                                    </option>
+                                                
+                                                    <option value="Grade K-3">
+                                                    Grade K-3
+                                                    </option>
+                                                
+                                                    <option value="Grade K-4">
+                                                    Grade K-4
+                                                    </option>
+                                                
+                                                    <option value="Grade K-5">
+                                                    Grade K-5
+                                                    </option>
+                                                
+                                                    <option value="Grades 2-5">
+                                                    Grades 2-5
+                                                    </option>
+                                                
+                                                </select>
+                                                <select name="Manual" id="Select4" style="display: none; width: 160px; font-size:10px;">
+                                                
+                                                    <option value="French">
+                                                    French
+                                                    </option>
+                                                
+                                                    <option value="Grade 1">
+                                                    Grade 1
+                                                    </option>
+                                                
+                                                    <option value="Grade 1-2">
+                                                    Grade 1-2
+                                                    </option>
+                                                
+                                                    <option value="Grade 1-4">
+                                                    Grade 1-4
+                                                    </option>
+                                                
+                                                    <option value="Grade 2">
+                                                    Grade 2
+                                                    </option>
+                                                
+                                                    <option value="Grade 2-3">
+                                                    Grade 2-3
+                                                    </option>
+                                                
+                                                    <option value="Grade 2-4">
+                                                    Grade 2-4
+                                                    </option>
+                                                
+                                                    <option value="Grade 2-5">
+                                                    Grade 2-5
+                                                    </option>
+                                                
+                                                    <option value="Grade 3">
+                                                    Grade 3
+                                                    </option>
+                                                
+                                                    <option value="Grade 3-4">
+                                                    Grade 3-4
+                                                    </option>
+                                                
+                                                    <option value="Grade 3-5">
+                                                    Grade 3-5
+                                                    </option>
+                                                
+                                                    <option value="Grade 4">
+                                                    Grade 4
+                                                    </option>
+                                                
+                                                    <option value="Grade 4-5">
+                                                    Grade 4-5
+                                                    </option>
+                                                
+                                                    <option value="Grade 5-6">
+                                                    Grade 5-6
+                                                    </option>
+                                                
+                                                    <option value="Grade K-2">
+                                                    Grade K-2
+                                                    </option>
+                                                
+                                                    <option value="Grade K-3">
+                                                    Grade K-3
+                                                    </option>
+                                                
+                                                    <option value="Grade K-4">
+                                                    Grade K-4
+                                                    </option>
+                                                
+                                                    <option value="Grade K-5">
+                                                    Grade K-5
+                                                    </option>
+                                                
+                                                    <option value="Grades 2-4">
+                                                    Grades 2-4
+                                                    </option>
+                                                
+                                                    <option value="Grades 2-5">
+                                                    Grades 2-5
+                                                    </option>
+                                                
+                                                    <option value="Grades 4">
+                                                    Grades 4
+                                                    </option>
+                                                
+                                                </select>
+                                                <select name="Publish" id="Select5" style="display: none; width: 160px; font-size:10px;">
+                                                
+                                                    <option value="Annick Press">
+                                                    Annick Press
+                                                    </option>
+                                                
+                                                    <option value="August House, Inc.">
+                                                    August House, Inc.
+                                                    </option>
+                                                
+                                                    <option value="Barron's Educational Press">
+                                                    Barron's Educational Press
+                                                    </option>
+                                                
+                                                    <option value="Blackstone Audio">
+                                                    Blackstone Audio
+                                                    </option>
+                                                
+                                                    <option value="Blackstone/TR Classics">
+                                                    Blackstone/TR Classics
+                                                    </option>
+                                                
+                                                    <option value="Bloomsbury">
+                                                    Bloomsbury
+                                                    </option>
+                                                
+                                                    <option value="Bridgewater Books">
+                                                    Bridgewater Books
+                                                    </option>
+                                                
+                                                    <option value="Candlewick Press">
+                                                    Candlewick Press
+                                                    </option>
+                                                
+                                                    <option value="Carolrhoda">
+                                                    Carolrhoda
+                                                    </option>
+                                                
+                                                    <option value="Charlesbridge Books">
+                                                    Charlesbridge Books
+                                                    </option>
+                                                
+                                                    <option value="Chouette/Cinar">
+                                                    Chouette/Cinar
+                                                    </option>
+                                                
+                                                    <option value="Chronicle Books">
+                                                    Chronicle Books
+                                                    </option>
+                                                
+                                                    <option value="Cinco Puntos Press">
+                                                    Cinco Puntos Press
+                                                    </option>
+                                                
+                                                    <option value="Dominique et Compagnie">
+                                                    Dominique et Compagnie
+                                                    </option>
+                                                
+                                                    <option value="Edizioni  El">
+                                                    Edizioni  El
+                                                    </option>
+                                                
+                                                    <option value="Feiwel &amp; Friends">
+                                                    Feiwel &amp; Friends
+                                                    </option>
+                                                
+                                                    <option value="Harcourt Brace">
+                                                    Harcourt Brace
+                                                    </option>
+                                                
+                                                    <option value="Harper Collins">
+                                                    Harper Collins
+                                                    </option>
+                                                
+                                                    <option value="HarperCollins Publishers">
+                                                    HarperCollins Publishers
+                                                    </option>
+                                                
+                                                    <option value="Hoopoe Books">
+                                                    Hoopoe Books
+                                                    </option>
+                                                
+                                                    <option value="Houghton Mifflin Harcourt">
+                                                    Houghton Mifflin Harcourt
+                                                    </option>
+                                                
+                                                    <option value="inaudio">
+                                                    inaudio
+                                                    </option>
+                                                
+                                                    <option value="inaudio/TR Classic">
+                                                    inaudio/TR Classic
+                                                    </option>
+                                                
+                                                    <option value="Kane Press">
+                                                    Kane Press
+                                                    </option>
+                                                
+                                                    <option value="Kar-Ben">
+                                                    Kar-Ben
+                                                    </option>
+                                                
+                                                    <option value="Kids Can Press">
+                                                    Kids Can Press
+                                                    </option>
+                                                
+                                                    <option value="Lerner Books">
+                                                    Lerner Books
+                                                    </option>
+                                                
+                                                    <option value="Listen and Live Audio">
+                                                    Listen and Live Audio
+                                                    </option>
+                                                
+                                                    <option value="Little, Brown">
+                                                    Little, Brown
+                                                    </option>
+                                                
+                                                    <option value="Lobster Press">
+                                                    Lobster Press
+                                                    </option>
+                                                
+                                                    <option value="Millbrook Press">
+                                                    Millbrook Press
+                                                    </option>
+                                                
+                                                    <option value="Naxos Audio Books">
+                                                    Naxos Audio Books
+                                                    </option>
+                                                
+                                                    <option value="Orca Book Publishers">
+                                                    Orca Book Publishers
+                                                    </option>
+                                                
+                                                    <option value="Picture Puffins">
+                                                    Picture Puffins
+                                                    </option>
+                                                
+                                                    <option value="Pippin Properties">
+                                                    Pippin Properties
+                                                    </option>
+                                                
+                                                    <option value="Raven Tree Press">
+                                                    Raven Tree Press
+                                                    </option>
+                                                
+                                                    <option value="Rosetta Books">
+                                                    Rosetta Books
+                                                    </option>
+                                                
+                                                    <option value="Scholastic Books">
+                                                    Scholastic Books
+                                                    </option>
+                                                
+                                                    <option value="Silver Ink Publishing">
+                                                    Silver Ink Publishing
+                                                    </option>
+                                                
+                                                    <option value="Simon &amp; Schuster">
+                                                    Simon &amp; Schuster
+                                                    </option>
+                                                
+                                                    <option value="Somerville House Publishing">
+                                                    Somerville House Publishing
+                                                    </option>
+                                                
+                                                    <option value="Step By Step">
+                                                    Step By Step
+                                                    </option>
+                                                
+                                                    <option value="Sylvan Dell">
+                                                    Sylvan Dell
+                                                    </option>
+                                                
+                                                    <option value="TR Classics">
+                                                    TR Classics
+                                                    </option>
+                                                
+                                                    <option value="Tumble Books Inc.">
+                                                    Tumble Books Inc.
+                                                    </option>
+                                                
+                                                    <option value="Tumbleweed Press">
+                                                    Tumbleweed Press
+                                                    </option>
+                                                
+                                                    <option value="Walker Books">
+                                                    Walker Books
+                                                    </option>
+                                                
+                                                    <option value="Weigl Publishers, Inc.">
+                                                    Weigl Publishers, Inc.
+                                                    </option>
+                                                
+                                                    <option value="Yoyo USA">
+                                                    Yoyo USA
+                                                    </option>
+                                                
+                                                </select>
+                                                <select name="book_lang_id" id="Select6" style="display: none; width: 160px; font-size:10px;">
+                                                
+                                                    <option value="1">
+                                                    English
+                                                    </option>
+                                                
+                                                    <option value="2">
+                                                    French
+                                                    </option>
+                                                
+                                                    <option value="3">
+                                                    Spanish
+                                                    </option>
+                                                
+                                                    <option value="4">
+                                                    Italian
+                                                    </option>
+                                                
+                                                    <option value="5">
+                                                    Russian
+                                                    </option>
+                                                
+                                                    <option value="6">
+                                                    Chinese
+                                                    </option>
+                                                
+                                                </select>
+                                                <select name="subject_id" id="SelectSubject" style="display: none; width: 160px; font-size:10px;">
+                                                
+                                                    <option value="1">
+                                                    Adventure
+                                                    </option>
+                                                
+                                                    <option value="2">
+                                                    Adversity
+                                                    </option>
+                                                
+                                                    <option value="3">
+                                                    Aging
+                                                    </option>
+                                                
+                                                    <option value="4">
+                                                    Allergies
+                                                    </option>
+                                                
+                                                    <option value="5">
+                                                    Alphabet
+                                                    </option>
+                                                
+                                                    <option value="6">
+                                                    Animals
+                                                    </option>
+                                                
+                                                    <option value="7">
+                                                    Art
+                                                    </option>
+                                                
+                                                    <option value="9">
+                                                    Biography
+                                                    </option>
+                                                
+                                                    <option value="10">
+                                                    Birthday
+                                                    </option>
+                                                
+                                                    <option value="77">
+                                                    Books
+                                                    </option>
+                                                
+                                                    <option value="11">
+                                                    Boy Club 
+                                                    </option>
+                                                
+                                                    <option value="12">
+                                                    Bugs/Insects
+                                                    </option>
+                                                
+                                                    <option value="13">
+                                                    Bullying
+                                                    </option>
+                                                
+                                                    <option value="14">
+                                                    Celebrations
+                                                    </option>
+                                                
+                                                    <option value="76">
+                                                    Circus
+                                                    </option>
+                                                
+                                                    <option value="15">
+                                                    Classic
+                                                    </option>
+                                                
+                                                    <option value="16">
+                                                    Colors
+                                                    </option>
+                                                
+                                                    <option value="17">
+                                                    Community
+                                                    </option>
+                                                
+                                                    <option value="18">
+                                                    Cooperation/Helping
+                                                    </option>
+                                                
+                                                    <option value="19">
+                                                    Counting/Numeracy
+                                                    </option>
+                                                
+                                                    <option value="8">
+                                                    Creativity
+                                                    </option>
+                                                
+                                                    <option value="20">
+                                                    Culture/Diversity
+                                                    </option>
+                                                
+                                                    <option value="21">
+                                                    Dance
+                                                    </option>
+                                                
+                                                    <option value="22">
+                                                    Diary/Letters
+                                                    </option>
+                                                
+                                                    <option value="23">
+                                                    Differences
+                                                    </option>
+                                                
+                                                    <option value="24">
+                                                    Dinosaurs
+                                                    </option>
+                                                
+                                                    <option value="25">
+                                                    Fables
+                                                    </option>
+                                                
+                                                    <option value="26">
+                                                    Fairy Tale
+                                                    </option>
+                                                
+                                                    <option value="27">
+                                                    Family
+                                                    </option>
+                                                
+                                                    <option value="28">
+                                                    Fantasy
+                                                    </option>
+                                                
+                                                    <option value="30">
+                                                    Food
+                                                    </option>
+                                                
+                                                    <option value="31">
+                                                    French
+                                                    </option>
+                                                
+                                                    <option value="32">
+                                                    Friendship
+                                                    </option>
+                                                
+                                                    <option value="34">
+                                                    Geography
+                                                    </option>
+                                                
+                                                    <option value="36">
+                                                    Growing Up
+                                                    </option>
+                                                
+                                                    <option value="37">
+                                                    Health/Hygiene
+                                                    </option>
+                                                
+                                                    <option value="73">
+                                                    History
+                                                    </option>
+                                                
+                                                    <option value="38">
+                                                    Holidays
+                                                    </option>
+                                                
+                                                    <option value="39">
+                                                    Humor
+                                                    </option>
+                                                
+                                                    <option value="40">
+                                                    Imagination
+                                                    </option>
+                                                
+                                                    <option value="42">
+                                                    Interactive
+                                                    </option>
+                                                
+                                                    <option value="41">
+                                                    Internet/Computers
+                                                    </option>
+                                                
+                                                    <option value="43">
+                                                    Jobs/Occupations
+                                                    </option>
+                                                
+                                                    <option value="45">
+                                                    Life Lessons
+                                                    </option>
+                                                
+                                                    <option value="47">
+                                                    Monsters
+                                                    </option>
+                                                
+                                                    <option value="78">
+                                                    Munsch
+                                                    </option>
+                                                
+                                                    <option value="49">
+                                                    Nature
+                                                    </option>
+                                                
+                                                    <option value="51">
+                                                    Pets
+                                                    </option>
+                                                
+                                                    <option value="52">
+                                                    Pirates
+                                                    </option>
+                                                
+                                                    <option value="54">
+                                                    Problem Solving
+                                                    </option>
+                                                
+                                                    <option value="55">
+                                                    Relationships
+                                                    </option>
+                                                
+                                                    <option value="57">
+                                                    Rhyme
+                                                    </option>
+                                                
+                                                    <option value="58">
+                                                    Safety
+                                                    </option>
+                                                
+                                                    <option value="59">
+                                                    School
+                                                    </option>
+                                                
+                                                    <option value="60">
+                                                    Sea
+                                                    </option>
+                                                
+                                                    <option value="75">
+                                                    Self-esteem
+                                                    </option>
+                                                
+                                                    <option value="65">
+                                                    Spanish
+                                                    </option>
+                                                
+                                                    <option value="66">
+                                                    Sports
+                                                    </option>
+                                                
+                                                    <option value="68">
+                                                    Technology
+                                                    </option>
+                                                
+                                                    <option value="70">
+                                                    Tolerance
+                                                    </option>
+                                                
+                                                    <option value="72">
+                                                    Witches
+                                                    </option>
+                                                
+                                                </select>
+                                            </td>
+                                            <td align="right" rowspan="2" valign="top" style="height:40px">
+                                                <input type="image" src="../../images/TBLSearch_go.gif" border="0" width="25" height="24" id="Image2" name="Image1">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top">
+                                            <input type="text" name="category" size="25" style="width: 160px; font-size:10px;" id="categoryText"></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center">&nbsp; </td>
+                                            <td align="center">&nbsp;</td>
+                                        </tr>
+                                    
+                                    </tbody></table>
+                                </td>
+                               <td background="../../images/TBLSearch_rside.gif" bgcolor="#CEDCF8">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td colspan="3"><img name="TBLSearch_btm" src="../../images/TBLSearch_btm.gif" width="252" height="12" border="0" alt=""></td>
+                            </tr>
+                        </tbody></table>
+                    <!-- END SEARCH BAR TABLE-->
+                    </td> 
                     
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
                     <td>
 						<table cellpadding="0" cellspacing="0">
 						<tbody><tr>
 						<td><img src="../../images/header_logo2.gif" width="368" height="100" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+						<img src="../../images/spacer.gif" width="134" height="99" border="0">
 						</td>
 						</tr>
 						<tr>
@@ -188,7 +885,7 @@ function changePage(newLoc)
              <td background="../../images/7.jpg"> 
               <div align="center">
                 
-                <a href="home_tumblebooks.asp"><img alt="home" border="0" id="imgHome" onmouseout="changeimg(imgHome,'../../images/banner_silver_01.gif');" onmouseover="changeimg(imgHome,'../../images/banner_silver_on_01.gif');" src="../../images/banner_silver_01.gif"></a><a href="about_tumblebooks.asp"><img alt="About Tumblebooks" border="0" id="imgAbout" onmouseout="changeimg(imgAbout,'../../images/banner_silver_02.gif');" onmouseover="changeimg(imgAbout,'../../images/banner_silver_on_02.gif');" src="../../images/banner_silver_02.gif"></a><a href="faq.asp"><img alt="FAQ" border="0" id="imgFAQ1" onmouseout="changeimg(imgFAQ1,'../../images/banner_silver_03.gif');" onmouseover="changeimg(imgFAQ1,'../../images/banner_silver_on_03.gif');" src="../../images/banner_silver_03.gif"></a><a href="trial_form.asp"><img alt="Free Trial" border="0" id="imgTrial" onmouseout="changeimg(imgTrial,'../../images/banner_silver_04.gif');" onmouseover="changeimg(imgTrial,'../../images/banner_silver_on_04.gif');" src="../../images/banner_silver_04.gif"></a><a href="order_form.asp"><img alt="Order Now" border="0" id="imgOrder" onmouseout="changeimg(imgOrder,'../../images/banner_silver_05.gif');" onmouseover="changeimg(imgOrder,'../../images/banner_silver_on_05.gif');" src="../../images/banner_silver_05.gif"></a><a href="contact.asp"><img alt="Contact Us" border="0" id="imgContact" onmouseout="changeimg(imgContact,'../../images/banner_silver_06.gif');" onmouseover="changeimg(imgContact,'../../images/banner_silver_on_06.gif');" src="../../images/banner_silver_06.gif"></a>
+                <a href="home_tumblebooks.asp"><img alt="home" border="0" id="imgHome1" onmouseout="changeimg(imgHome1,'../../images/banner_silver_l_01.gif');" onmouseover="changeimg(imgHome1,'../../images/banner_silver_l_on_01.gif');" src="../../images/banner_silver_l_01.gif"></a><a href="book_index.asp"><img alt="Index" border="0" id="imgIndex" onmouseout="changeimg(imgIndex,'../../images/banner_silver_l_02.gif');" onmouseover="changeimg(imgIndex,'../../images/banner_silver_l_on_02.gif');" src="../../images/banner_silver_l_02.gif"></a><a href="myfavorites.asp"><img alt="My Favorites" border="0" id="imgFavor" onmouseout="changeimg(imgFavor,'../../images/banner_silver_l_04.gif');" onmouseover="changeimg(imgFavor,'../../images/banner_silver_l_on_04.gif');" src="../../images/banner_silver_l_04.gif"></a><a href="myplaylist.asp"><img alt="My Playlist" border="0" id="imgPlaylist" onmouseout="changeimg(imgPlaylist,'../../images/btn_myPlayList.gif');" onmouseover="changeimg(imgPlaylist,'../../images/btn_myPlayList_over.gif');" src="../../images/btn_myPlayList.gif"></a><a href="help.asp"><img alt="Help" border="0" id="imgHelp" onmouseout="changeimg(imgHelp,'../../images/banner_silver_l_05.gif');" onmouseover="changeimg(imgHelp,'../../images/banner_silver_l_on_05.gif');" src="../../images/banner_silver_l_05.gif"></a><a href="contact.asp"><img alt="Contact Us" border="0" id="imgContact1" onmouseout="changeimg(imgContact1,'../../images/banner_silver_l_06.gif');" onmouseover="changeimg(imgContact1,'../../images/banner_silver_l_on_06.gif');" src="../../images/banner_silver_l_06.gif"></a>
                 
               </div>
             </td>
@@ -359,18 +1056,23 @@ function ajaxCounter( options ) {
 //-->
 </script>
 			<tr>
-                <td bgcolor="#000000" height="50">
-                    &nbsp;</td>
+                <td bgcolor="#000000" height="50">&nbsp;
+                    </td>
                 <td bgcolor="#000000" background="../../images/indexbg2.gif" valign="center" height="50">
 				   <div align="center" valign="center">
-				   <img src="../../images/spacer.gif" width="150" height="50"><a href="Testimonials/Testimonials_home.htm"><img src="../../images/Icon_testimonials3.gif" border="0"></a>
+				   <a href="http://www.tumblebooks.com/library/asp/downloadtp_TBL.htm"><img src="../../images/Icon_TP2_TBL.gif" border="0"></a>
+				   <img src="../../images/spacer.gif" width="20" height="50"><a href="Testimonials/Testimonials_home.htm"><img src="../../images/Icon_testimonials3.gif" alt="" border="0"></a> <img src="../../images/spacer.gif" alt="" width="20" height="50"><a href="http://www.tumblebooks.com/LibraryTour.html"><img src="../../images/Icon_Tour3.gif" border="0"></a>
 				    
+					   <img src="../../images/spacer.gif" width="10" height="50"><a href="TeacherInfo.aspx" target="_blank"><img src="../../images/Icon_Admin3.gif" border="0"></a><img src="../../images/spacer.gif" width="10" height="50"><a href="http://www.tumblebooks.com/library/asp/tumblemailer.asp"><img src="../../images/Icon_Mailer.gif" border="0" alt=""></a>
+              
+			   <img src="../../images/spacer.gif" width="10" height="50"><a href="http://www.facebook.com/pages/TumbleBooks/133784809970326#!/pages/TumbleBooks/133784809970326?v=wall" target="_blank"><img src="../../images/FB_icon36.gif" border="0"></a><img src="../../images/spacer.gif" width="10" height="50"><img src="../../images/spacer.gif" width="10" height="50"><a href="http://twitter.com/tumblebooks" target="_blank"><img src="../../images/twitter_logo36.gif" border="0"></a>
                             <br>
 							<font face="Arial, Helvetica, sans-serif" size="-2"><a href="home_tumblebooks.asp">Home</a>
-                                •<a href="contact.asp">Contact Us</a> • <a href="help.asp">Help</a>•<a href="privacy.asp">Privacy Statement</a>• <a href="termsofuse.asp">Terms of Use</a></font></div>
+                                •<a href="contact.asp">Contact Us</a>
+                                •<a href="about.asp">About TumbleBookLibrary</a> • <a href="help.asp">Help</a>•<a href="privacy.asp">Privacy Statement</a>• <a href="termsofuse.asp">Terms of Use</a></font></div>
                 </td>
-                <td bgcolor="#000000" height="50">
-                    &nbsp;</td>
+                <td bgcolor="#000000" height="50">&nbsp;
+                    </td>
             </tr>
             <tr>
                 <td bgcolor="#000000" height="6">
