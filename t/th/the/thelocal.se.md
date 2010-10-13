@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526162129id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013115022id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Local
 
@@ -16,54 +16,78 @@ The Local will use all reasonable precautions to ensure only responsible third p
 
 Please note that we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.
 
+We use third-party advertising companies to serve ads when you visit The Local. These companies may use information (not including your name or email address) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you.
+
 **COOKIES**
 
 The Local uses cookies to track users' 'sessions' and to determine whether a user is signed in or not so that relevant information may be delivered. These are not used to identify any individuals and no personal information is stored in relation to the cookies.
 
 You can delete all cookies on your computer via your web browser, as well as switching them off altogether. Click 'help' on your browser for relevant instructions.
 
-**Back to[registration](https://web.archive.org/members/register.php).**
+  
+
+
+[](https://web.archive.org/followsweden/)
+
+## [New media spread Swedish film](https://web.archive.org/followsweden/article/New-media-and-film/)
+
+To the average cinemagoer, the film industry is a far-away land, as full of fantasy and intrigue as the storylines of the big screen. But Swedish audiences are getting closer to creating a new world of movies with the might of new media. [Read more »](https://web.archive.org/followsweden/article/New-media-and-film/)
+
+[](https://web.archive.org/followsweden/article/Swedish-film/)
+
+## [Swedish film](https://web.archive.org/followsweden/article/Swedish-film/)
+
+Swedes are lining up in front of movie theaters to watch films from Sweden more than from any other country — partially a Millennium effect. But Swedish film cannot and indeed has no ambition to compete with Hollywood, despite one of our more interesting production facilities being dubbed "Trollywood," located in Trollhättan. [Read more »](https://web.archive.org/followsweden/article/Swedish-film/)
 
 Blog Update: 110% LAGOM
 
-[](http://www.thelocal.se/blogs/lagom/2009/05/26/a-brush-with-maltese-politics/)
+[](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
 
-[26 May 14:26](http://www.thelocal.se/blogs/lagom/2009/05/26/a-brush-with-maltese-politics/)
+[06 October 12:20](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
 
-[A brush with Maltese politics »](http://www.thelocal.se/blogs/lagom/2009/05/26/a-brush-with-maltese-politics/)
+[Tuesday to Tuesday »](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
 
-" Fun gig the other night. It was for an EU funded meeting, just the kind of thing Sweden loves to play host to, for adult education policy makers. A rather dull subject, but fun for me as my only brief was to take a group photo which would commemorate the meeting. Other than that, I..." [READ »](http://www.thelocal.se/blogs/lagom/2009/05/26/a-brush-with-maltese-politics/)
+"I'm not sure if the cinema is still standing because of its historical value or because nobody has yet got round to letting the people of Vingåker in on all the wonders of the 21st Century. " [READ »](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
 
 Highlights
 
-[](https://web.archive.org/19676/20090525/)
+[](https://web.archive.org/29548/20101011/)
 
-[](https://web.archive.org/19482/20090515/)
+[](https://web.archive.org/29488/20101007/)
 
-[](https://web.archive.org/travel/flightplanner.php)
+[](https://web.archive.org/29428/20101006/)
+
+[](https://web.archive.org/28882/20100924/)
+
+[](https://web.archive.org/followsweden/)
+
+Swedish word of the day
+
+besök
+
+noun
+
+The rainy autumn days are perfect for a **visit** to a museum.
 
 Latest news from The Local in Germany
 
-  * 26/05 [Germany lags Europe in social equality survey »](http://www.thelocal.de/national/20090526-19525.html)
-  * 26/05 [Bayern poised to poach Stuttgart striker Gomez »](http://www.thelocal.de/sport/20090526-19523.html)
-  * 26/05 [Health officials say cocaine in Red Bull Cola harmless »](http://www.thelocal.de/national/20090526-19519.html)
-  * 26/05 [Severe storms close schools and flood roads »](http://www.thelocal.de/national/20090526-19505.html)
-  * 26/05 [Germany boots fastest supercomputer in EU »](http://www.thelocal.de/sci-tech/20090526-19517.html)
+  * 13/10 [German media roundup: Stepping onto the world stage »](http://www.thelocal.de/politics/20101013-30459.html)
+  * 13/10 [Xenophobia takes root in German mainstream »](http://www.thelocal.de/national/20101013-30455.html)
+  * 13/10 [Poll shows Merkel's coalition at all-time low »](http://www.thelocal.de/politics/20101013-30451.html)
+  * 13/10 [Speak German on school grounds, FDP urges »](http://www.thelocal.de/national/20101013-30449.html)
+  * 13/10 [WWII weapons found under playground »](http://www.thelocal.de/society/20101013-30447.html)
 
 
 
 Blog
 
-  * [What's the girl from the Cardigans got up her sleeve?](http://www.sweden.se/templates/cs/Article____20827.aspx)  
-The Cardigans' singer Nina Persson is heading in bold new directions with her other band, A Camp. She talks to Neil McCormick.
-  * [Sweden's Crown Princess and her Daniel to tie the knot](http://www.sweden.se/templates/cs/Article____20847.aspx)  
-Putting years of speculation to rest, the engagement of Swedish Crown Princess Victoria to her boyfriend Daniel Westling was announced by King Carl XVI Gustaf at the Royal Palace on Tuesday,...
-  * [Putting Swedes on American ice](http://www.sweden.se/templates/cs/Article____20809.aspx)  
-Updated from 2007 Sweden’s best-known exports for many people include Ikea furniture and the music of Abba. But in American sporting circles there’s no doubt what comes top of the list: Swedish...
-  * [A positive force in a negative world](http://www.sweden.se/templates/cs/Article____20785.aspx)  
-Sweden.se meets celebrity climate professor Christian Azar. Unlike many of the environmentalists of today, Azar is surprisingly upbeat about our planet’s prospects. “We can win the climate battle,”...
+[](https://bookshop.si.se/shop/shop/showItem.asp?artnr=1344-1&itemID=1)
 
+New book about Sweden – get to know the country
 
+_Sweden  – Up North, Down to Earth_ is a book about Sweden today. A country of natural beauty and open space, and a society focused on equality, human rights and sustainability. Meet regular and astonishing Swedes, supercars and indie rock bands, vampires and royalties. 
+
+[**Buy your copy of _Sweden  – Up North, Down to Earth_ from Sweden Bookshop**](https://bookshop.si.se/shop/shop/showItem.asp?artnr=1344-1&itemID=1)
 
 Essentials
 
@@ -72,9 +96,6 @@ Essentials
 
 [**Property - renting or buying in Sweden**](https://web.archive.org/guides/propertyguide/Property+in+Sweden/)  
 [Navigating the minefield of renting or buying an apartment or house in Sweden.](https://web.archive.org/guides/propertyguide/Property+in+Sweden/)
-
-[**Dating**](https://web.archive.org/goTo.php?ID=144)  
-[Looking for your own blonde bombshell? Or is the strong, silent type more your style? Find a Swedish sweetheart here.](https://web.archive.org/goTo.php?ID=144)
 
 [**Weather**](https://web.archive.org/weather/)  
 ["There is no bad weather, just bad clothes," say the Swedes. Here's the forecast for everyone else.](https://web.archive.org/weather/)
@@ -97,20 +118,20 @@ Register now for:
 
 Jobs in Sweden, in English
 
-**72** jobs in Sweden, in English  
-**11** new jobs this week  
-**5** new jobs today 
+**476** jobs available  
+**109** new jobs this week  
+**12** new jobs today 
 
-  * [TECHNICAL SALES ENGINEER LUND](https://web.archive.org/jobs/?id=146446)
-  * [Controller](https://web.archive.org/jobs/?id=143346)
-  * [Financial Manager](https://web.archive.org/jobs/?id=143341)
-  * [Singl.eView System Architect to BIT Billing Solutions](https://web.archive.org/jobs/?id=147066)
-  * [Take the chance to practice your interview skills!](https://web.archive.org/jobs/?id=141141)
-  * [International sales](https://web.archive.org/jobs/?id=144610)
-  * [SPONSORSHIP SALES EXECUTIVE](https://web.archive.org/jobs/?id=104981)
-  * [Is Sales YOUR PASSION?](https://web.archive.org/jobs/?id=104980)
-  * [International Management Trainee Programme](https://web.archive.org/jobs/?id=126999)
-  * [Head of the Department of Research and Innovation at the Norwegian Centre for Integrated Care and Telemedicine (NST) ](https://web.archive.org/jobs/?id=146050)
+  * [Category Manager to Services & Marketing Procurement](https://web.archive.org/jobs/?l=91425251&j=67224544&c=190)
+  * [Process Designer (m/f)](https://web.archive.org/jobs/?l=91423629&j=67223111&c=190)
+  * [Sales position to International event company](https://web.archive.org/jobs/?l=91423521&j=67223011&c=190)
+  * [Experienced Mechanical Designer (HWD2)](https://web.archive.org/jobs/?l=91421204&j=67220888&c=190)
+  * [Marketing Director Nordic](https://web.archive.org/jobs/?l=91269505&j=67098228&c=190)
+  * [Trading Risk Controller](https://web.archive.org/jobs/?l=91264840&j=67094560&c=190)
+  * [Sales Representative & Product Manager in Sweden](https://web.archive.org/jobs/?l=91088532&j=66961931&c=190)
+  * [Treasurer](https://web.archive.org/jobs/?l=90446736&j=66449075&c=190)
+  * [Business Controller](https://web.archive.org/jobs/?l=90446734&j=66449073&c=190)
+  * [Enterprise Technologist - SMB Storage Technology Solutions](https://web.archive.org/jobs/?l=90139716&j=66202554&c=190)
 
 
 
