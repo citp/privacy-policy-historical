@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androphones.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305160351id_/http%3A//www.iphonegold.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androphones.com privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013062322id_/http%3A//www.androphones.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
