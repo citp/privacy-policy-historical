@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biztree.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323085247id_/http%3A//www.biztree.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biztree.com privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013191015id_/http%3A//www.biztree.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Business-in-a-Box™ | Privacy Policy
 
@@ -55,7 +55,15 @@ We provide users with the opportunity to opt-out from receiving updates on our p
 
 ## 8\. Does Biztree's Privacy Policy Apply to Linked Websites?
 
-Our Privacy Policy applies solely to information collected on our website or through the Business-in-a-Box software. This website and the Business-in-a-Box software contain links to other sites. Please be aware that Biztree has no control or influence over the privacy practices of other sites, however when choosing to include link partners we are careful to select businesses that adhere to strong privacy policies. We encourage our users to read the privacy statements of each website that they visit.
+Our Privacy Policy applies solely to information collected on our website or through the Business-in-a-Box software.
+
+The Site contains links to web sites of third parties. Biztree is not responsible for the actions of these third parties, including their privacy practices and any content posted on their web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personal information. Biztree adheres to industry recognized standards to secure any personal information in our possession, and to secure it from unauthorized access and tampering. However, as is true with all online actions, it is possible that third parties may unlawfully intercept transmissions of personal information, or other users of the Site may misuse or abuse your personal information that they may collect from the Site.
+
+Biztree uses third-party advertising companies to serve our ads on the Site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites, but will not collect any information which can personally identify you or can be linked to you. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.
+
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here for the NAI gateway opt-out site](http://www.networkadvertising.org/optout_nonppii.asp).
+
+This site will also allow you to review the third-party advertising companies' privacy policies.
 
 ## 9\. Changes To This Policy
 
