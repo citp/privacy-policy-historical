@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumblebooklibrary.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106235854id_/http%3A//www.tumblebooks.com/library/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumblebooklibrary.com privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013194231id_/http%3A//www.tumblebooks.com/library/asp/privacy.asp) for the most accurate reproduction.*
 
 # TumbleBooks - eBooks for eKids!
 
