@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217042415id_/http%3A//www.mmointerface.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013181311id_/http%3A//www.mmointerface.com/privacy.php) for the most accurate reproduction.*
 
 # MMOUI : Privacy Statement
 
@@ -39,3 +39,5 @@ The MMOUI Website ( **[www.mmoui.com](http://www.mmoui.com/)** ) is maintained b
 7.     **Changes to this Statement.** ZAM Network, LLC reserves the right to change this Online Privacy Statement at any time. Any such changes will be posted in this Privacy Statement. 
 
 8.     **Applicable laws.** ZAM Network, LLC will protect your Personal Information in accordance with the laws of the United States and the state of Delaware. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. to learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).
