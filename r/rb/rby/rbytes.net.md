@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbytes.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210315id_/http%3A//rbytes.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbytes.net privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014023405id_/http%3A//rbytes.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
