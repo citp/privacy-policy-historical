@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india69.in privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520052928id_/http%3A//india69.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india69.in privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014160547id_/http%3A//india69.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India News
 
