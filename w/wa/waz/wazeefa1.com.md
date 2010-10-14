@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the wazeefa1.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/index.php%3Fmodel%3Dcontent%26cid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wazeefa1.com privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/index.php%3Fmodel%3Dcontent%26cid%3D4) for the most accurate reproduction.*
 
-# Jobs in Dubai, UAE, Saudi Arabia, Qatar, Kuwait, Egypt, Oman, Lebanon, Jordan, employment and career related services in Gulf - wazeefa1.com
+# Kuwait Jobs, Jobs in Kuwait, Gulf, Middle East, Dubai, Saudi Arabia
 
 |   
 ---  
-|  | [Home](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/index.php "Wazeefa Gulf Recruitment Agency") |  |  [Advertise with us](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/advertise.php?model=adv "Advertise with Wazeefa Online Career Solution") |  |  [Search Jobs](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/index.php?model=jobs&Advanced=search "Search Online Jobs Listing in Gulf & Middle East") |  | [E-mail marketing solutions](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/index.php?model=content&cid=25 "Search All New Jobs Listing in Finance, HR, Construction, Medical, Health, Business Management") |  | [Browse Companies](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/index.php?model=allcompanies "Browse Top Companies vacancies in Gulf") |  | [Contact Us](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/index.php?model=contactus "Contact us for posting online job vaccancies") |   
+|  | [Home](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/index.php "Wazeefa Gulf Recruitment Agency") |  |  [Advertise with us](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/advertise.php?model=adv "Advertise with Wazeefa Online Career Solution") |  |  [Search Jobs](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/index.php?model=jobs&Advanced=search "Search Online Jobs Listing in Gulf & Middle East") |  | [E-mail marketing solutions](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/index.php?model=content&cid=25 "Search All New Jobs Listing in Finance, HR, Construction, Medical, Health, Business Management") |  | [Browse Companies](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/index.php?model=allcompanies "Browse Top Companies vacancies in Gulf") |  | [Contact Us](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/index.php?model=contactus "Contact us for posting online job vaccancies") |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   |   
-The fastest growing job site in the Gulf and Middle East region!   
 |  |  | 
 
 |   
@@ -15,7 +14,6 @@ The fastest growing job site in the Gulf and Middle East region!
   
 | View Thousands of   
 **fresh** registered CV’s  
-[](https://web.archive.org/web/20100615234918id_/http%3A//wazeefa1.com/index.php?model=regemployee)  
    
   
   |   
@@ -34,4 +32,4 @@ You should be aware of risks when you communicate online via e-mail. Personal in
 If you are responding or applying to a job posted on this Web site, or in any other way communicating personal data, you are confirming your agreement to this privacy policy.  
   
   |   
-[](http://www.linkedin.com/companies/612008?trk=jbhmcmpg "Follow Wazeefa Absolute Career Solution on Linkedin")     [](http://www.twitter.com/Wazeefa1 "Follow Wazeefa Recruitment Agency on Twitter")
+     [](http://validator.w3.org/check?uri=www.wazeefa1.com)    [](http://www.linkedin.com/companies/612008?trk=jbhmcmpg "Follow Wazeefa Absolute Career Solution on Linkedin")    [](http://www.twitter.com/Wazeefa1 "Follow Wazeefa Recruitment Agency on Twitter")    [Share](http://www.facebook.com/sharer.php)    [](http://www.facebook.com/group.php?gid=136451046365228 "Follow Wazeefa Absolute Career Solution on Facebook")    [](http://wazeefa1.blogspot.com/ "Follow Wazeefa Recruitment Agency on Blogspot")    [](http://en.netlog.com/osamaatoui/blog/blogid=3809359 "Follow Wazeefa Recruitment Agency on Netlog")    [](https://web.archive.org/web/20101014122547id_/http%3A//www.wazeefa1.com/rss.php "Follow Wazeefa Recruitment Agency on Rss")
