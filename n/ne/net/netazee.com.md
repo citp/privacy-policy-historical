@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netazee.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609101515id_/http%3A//www.netazee.com/online/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netazee.com privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014150205id_/http%3A//www.netazee.com/online/privacy-policy.html) for the most accurate reproduction.*
 
 # Netazee.com - Privacy Policy
 
