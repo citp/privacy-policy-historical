@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004241id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2010-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101015011128id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
 
 # Artix Entertainment Privacy Policy
+
+**REVISED September 7, 2010**
+
+| 
 
 [](http://www.truste.org/ivalidate.php?url=www.aq.com&sealid=105)
 
@@ -8,9 +12,10 @@
 
 **Artix Entertainment, LLC**
 
-is a licensee of the **TRUSTe Privacy Program** and **Children's Online Privacy Seal Program**. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web Sites: [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), and [www.aq.com](http://www.aq.com/). Because these Web Sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe.
+has been awarded **TRUSTe Privacy Seal** signifying that this privacypolicy and practices have been reviewed by TRUSTe for compliance with TRUSTE's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trustsolutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at   
+. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-If you have questions or concerns regarding this statement, you should first contact Courtney Nawara at . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.com/consumers/watchdog_complaint.php> TRUSTe will then serve as a liason with us to resolve your concerns. 
+This privacy statement covers the Web Sites: [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), and [www.aq.com](http://www.aq.com/). Because these Web Sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
 
 Artix Entertainment LLC complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use and retention of data from the European Union.
 
@@ -86,8 +91,13 @@ We set persistent cookies to store your game account login and/or password, so y
 
 If your browser rejects all cookies, you may still use our site, but your ability to use some areas of our site including purchasing membership, will be limited.
 
-**Third Party Cookies**   
-The use of cookies by our partners, affiliates, and advertisers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use persistant cookies to track users that visit our site through their advertising networks. For more information on cookies, please visit the Federal Trade Commission’s website at <http://www.ftc.gov/ftc/cookies.shtm>.
+**Third Party Tracking Technologies**  
+Third party partners, affiliates, and advertisers employ a software technology called Web beacons, that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. 
+
+The use of cookies and Web beacon by our partners, affiliates, and advertisers is not covered by our privacy statement. We do not have access or control over these tracking technologies. Our partners use persistant cookies and Web beacons to track users that visit our site through their advertising networks. For more information on cookies, please visit the **Federal Trade Commission** 's website at <http://www.ftc.gov/ftc/cookies.shtm>.
+
+**Flash LSOs**  
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.  Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
 **What are IP Addresses?**  
 An IP address (Internet Protocol address) is a unique address that certain electronic devices use in order to identify and communicate with each other on a computer network utilizing the Internet Protocol standard (IP)—in simpler terms, a computer address. Any participating network device—including routers, computers, time-servers, printers, Internet fax machines, and some telephones—can have their own unique address.
@@ -168,4 +178,5 @@ If you need further assistance or have any additional questions or comments abou
 Artix Entertainment, LLC  
 12000 North Dale Mabry Highway  
 Suite 110  
-Tampa, FL 33618 
+Tampa, FL 33618   
+For Payment Questions Only, Please Call (813) 774-8493 
