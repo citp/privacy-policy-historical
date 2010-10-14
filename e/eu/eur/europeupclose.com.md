@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219085753id_/http%3A//www.europeupclose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeupclose.com privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014163850id_/http%3A//www.europeupclose.com/privacy-policy) for the most accurate reproduction.*
 
-# Hotel Search | EuropeUpClose.com
+# Privacy Policy | EuropeUpClose.com
 
 We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
