@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rbsworldpay.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506000353id_/http%3A//www.rbsworldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbsworldpay.com privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014133015id_/http%3A//www.rbsworldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DUK) for the most accurate reproduction.*
 
-# About Us | Online Payments & Secure Global Payment Processing | RBS WorldPay
+# About Us | Secure Online Global Payment Processing | RBS WorldPay
 
 We are committed to protecting your privacy. We recognise our responsibility to keep confidential at all times any information about you which we acquire in connection with your application. RBS WorldPay is a trading name of The Royal Bank of Scotland Group plc. We protect your personal information to an equivalent high standard to that which you would experience through any other channels of the bank, such as bank branches, cash machines or on the telephone. Please note however that our responsibility is necessarily limited to protection by us of information which we obtain.
 
