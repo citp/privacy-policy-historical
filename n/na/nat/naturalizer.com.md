@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615103237id_/http%3A//www.naturalizer.com/Content.aspx%3FcontentID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2010-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101015012415id_/http%3A//www.naturalizer.com/Content.aspx%3FcontentID%3Dprivacy) for the most accurate reproduction.*
 
 # Naturalizer.com Privacy Statement - Use of Collected Information
 
