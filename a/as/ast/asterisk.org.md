@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asterisk.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626180110id_/http%3A//www.asterisk.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asterisk.org privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014055449id_/http%3A//www.asterisk.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Asterisk
 
