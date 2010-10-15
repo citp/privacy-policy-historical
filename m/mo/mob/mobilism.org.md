@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilism.org privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506054712id_/http%3A//forum.mobilism.org/ppcw.php%3Fmode%3Dpolicies%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilism.org privacy policy that was archived on 2010-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101015210513id_/http%3A//www.mobilism.org/ppcw.php%3Fmode%3Dpolicies%26type%3Dprivacy) for the most accurate reproduction.*
 
-# PPCWarez • Privacy policy
+# Mobilism • Privacy policy
 
 **Privacy Policy**  
 Last modified: 11 March 2010
