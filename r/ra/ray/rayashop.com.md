@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the rayashop.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622045153id_/http%3A//www.rayashop.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayashop.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016010523id_/http%3A//rayashop.com/Privacy.aspx) for the most accurate reproduction.*
 
 # RAYA Shop :: Privacy Policy
 
-  |    
+|    
+
+
 **Privacy Policy:**
 
 We will only use your personal information in the way we specified when it was collected. We will not subsequently change the way your personal information is used without your consent. Some of the ways we may use your personal information include: 
@@ -23,3 +25,6 @@ We will only use your personal information in the way we specified when it was c
 
 Raya will use your personal information for recruitment purposes, and if you are offered a job or become employed by Raya, for other employment-related purposes. By submitting your resume/C.V. information to Raya, you agree that we may use it for recruitment purposes (including transferring the data to other countries, transferring your information to other companies authorized to perform specific services for Raya, and/or other processing relevant to recruitment purposes).It will not be shared with others for non-recruitment purposes.   
 Resumes/C.V.s should include information relevant to your employment history and education (degrees obtained, places worked, positions held, relevant awards, and so forth).Raya recommends that you do not disclose sensitive personal characteristics (e.g. gender, height, weight, religion, philosophical or political beliefs, and financial data) in your initial resume/C.V. or letters to Raya.
+
+  
+
