@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616151836id_/http%3A//www.wbng.com/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2010-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101015061935id_/http%3A//www.wbng.com/home/privacy) for the most accurate reproduction.*
 
-# WBNG-TV: News Sports, Weather Binghamton, New York | WBNG Privacy Policy
+# WBNG-TV: News, Sports and Weather Binghamton, New York | Privacy Policy
 
 At WBNG-TV, we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This Privacy Policy applies to those websites that are part of WBNG-TV.
 
@@ -86,4 +86,4 @@ If you have any questions or comments about this policy or our use of personal i
 > 
 > We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
-Copyright © 2008 WBNG-TV. All rights reserved.
+Copyright © 2008 WBNG-TV. All rights reserved. 
