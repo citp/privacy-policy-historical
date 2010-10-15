@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riffs.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025821id_/http%3A//www.riffs.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riffs.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016012309id_/http%3A//www.riffs.com/docs/privacy) for the most accurate reproduction.*
 
 # Riffs: Your Social Recommender - Ratings, Rants, Raves, and Reviews
 
