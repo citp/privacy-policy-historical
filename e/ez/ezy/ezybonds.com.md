@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezybonds.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527044604id_/http%3A//www.ezybonds.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezybonds.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016062513id_/http%3A//www.ezybonds.com/privacy.asp) for the most accurate reproduction.*
 
 # Ezybonds Global Payments
 
