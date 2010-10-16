@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n-sb.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025030id_/http%3A//n-sb.org/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-sb.org privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016145603id_/http%3A//n-sb.org/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Nike SB Privacy Policy
 
