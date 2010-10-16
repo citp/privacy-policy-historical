@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penzu.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413203310id_/http%3A//penzu.com/content/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penzu.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016045833id_/https%3A//penzu.com/content/aboutus/privacy) for the most accurate reproduction.*
 
 # Penzu | Privacy Policy
 
