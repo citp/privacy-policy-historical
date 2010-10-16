@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the totallyfuzzy.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221933id_/http%3A//totallyfuzzy.blogspot.com/2007/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfuzzy.blogspot.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016195503id_/http%3A//totallyfuzzy.blogspot.com/2007/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Totally Fuzzy : Music Blog Aggregator, Music Videos: Privacy Policy
-
-###  [Privacy Policy](http://totallyfuzzy.blogspot.com/2007/01/privacy-policy.html)
 
 **Privacy:**
 
@@ -18,14 +16,8 @@ You're welcome to read the terms of use of the advertising services if you want 
   
 
 
-  
-
   * [Google Adsense (Privacy Policy)](http://www.google.com/privacy_ads.html)
-  
-
   * [Commission Junction (Privacy Policy)](https://www.cj.com/privacy.html)
-  
-
   * [Linkshare (Privacy Policy)](http://www.linkshare.com/legal/privacy/)
 
 
@@ -34,7 +26,7 @@ If you should submit any personal information anywhere on this website, for subm
 
 To protect your privacy you can use bogus information like a nickname and a webmail address.
 
- **Privacy Policy for totallyfuzzy.blogspot.com**
+**Privacy Policy for totallyfuzzy.blogspot.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by posting a comment here. 
 
@@ -58,16 +50,12 @@ See also [http://www.aboutcookies.org](http://www.aboutcookies.org/) or [http://
   
 
 
- **addendum: update May 19th 2009**
+**addendum: update May 19th 2009**
 
- **Google Cookies & Privacy Policy update**
+**Google Cookies & Privacy Policy update**
 
   * Google, as a third party vendor, uses cookies to serve ads on our site.
-  
-
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  
-
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
