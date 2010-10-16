@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616041330id_/http%3A//www.lawteacher.net/policies-and-contact-details/privacy-policy.php%3Fsidenav_id%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016161432id_/http%3A//www.lawteacher.net/policies-and-contact-details/privacy-policy.php%3Fsidenav_id%3Dprivacy) for the most accurate reproduction.*
 
 # Law Teacher | Privacy Policy
 
-Law Teacher is a website belonging to Academic Answers Limited, a UK Registered Company (No. 4964706). We take the privacy of your information very seriously.
+Law Teacher is a website belonging to All Answers Limited, a UK Registered Company (No. 4964706). We take the privacy of your information very seriously.
 
-Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to Academic Answers Limited, unless otherwise indicated.
+Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to All Answers Limited, unless otherwise indicated.
 
 ## Collecting your information
 
@@ -82,9 +82,9 @@ If you refuse a cookie it may prevent the proper operation of the site or even p
 
 ## Links to other websites
 
-Our websites may contain links to other sites outside the group. Academic Answers Limited is not responsible for the privacy and security of these sites unless they belong to Academic Answers. This privacy policy applies only to Academic Answers Limited Websites.
+Our websites may contain links to other sites outside the group. All Answers Limited is not responsible for the privacy and security of these sites unless they belong to All Answers. This privacy policy applies only to All Answers Limited Websites.
 
-If you are unsure whether a website belongs to Academic Answers Limited or not, just email our enquiries email address, or give us a call.
+If you are unsure whether a website belongs to All Answers Limited or not, just email our enquiries email address, or give us a call.
 
 If you have any more questions about the way we handle data, please call or email us. If you have a more in-depth question, please email our enquiries address, marked for the attention of the legal department.
 
@@ -92,7 +92,6 @@ If you have any more questions about the way we handle data, please call or emai
 
   * [Complaints](http://www.lawteacher.net/policies-and-contact-details/complaints.php " Complaints")
   * [Contact Us](http://www.lawteacher.net/policies-and-contact-details/contact-us.php " Contact Us")
-  * [Contact Us.LCK](http://www.lawteacher.net/policies-and-contact-details/contact-us.LCK.php " Contact Us.LCK")
   * [Fair Use Policy](http://www.lawteacher.net/policies-and-contact-details/fair-use-policy.php " Fair Use Policy")
   * [Feedback](http://www.lawteacher.net/policies-and-contact-details/feedback.php " Feedback")
   * [Get Verified](http://www.lawteacher.net/policies-and-contact-details/get-verified.php " Get Verified")
