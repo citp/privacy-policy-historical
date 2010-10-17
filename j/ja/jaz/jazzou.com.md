@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazzou.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616145553id_/http%3A//www.jazzou.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D109%26Itemid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazzou.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017022314id_/http%3A//jazzou.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D109%26Itemid%3D65) for the most accurate reproduction.*
 
 # Privacy Policy
 
