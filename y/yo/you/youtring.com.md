@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtring.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420052859id_/http%3A//www.youtring.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtring.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018005839id_/http%3A//www.youtring.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # YouTring - Privacy Policy
 
@@ -56,7 +56,7 @@ We will take all reasonable steps to safeguard the security and confidentiality 
 
 We may use cookies and other technologies to enhance your online experience and to learn about how you use our websites in order to improve the quality of our websites. 
 
-To view our Cookie Policy, please [click here.](https://web.archive.org/web/20100420052859id_/http%3A//www.youtring.com/cookie-policy.aspx)
+To view our Cookie Policy, please [click here.](https://web.archive.org/web/20101018005839id_/http%3A//www.youtring.com/cookie-policy.aspx)
 
   9\. Changes To Privacy Policy: 
 
