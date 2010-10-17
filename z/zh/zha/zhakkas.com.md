@@ -1,46 +1,62 @@
-> *The following text is extracted and transformed from the zhakkas.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413072311id_/http%3A//www.others.zhakkas.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zhakkas.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017132254id_/http%3A//zhakkas.com/privacy_policy.php) for the most accurate reproduction.*
 
-# ZHAKKAS.com - Itz Fun, Itz Cash... Itz Online!
+# ZHAKKAS.com - Privacy Policy
 
-**Overview**
-
-Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
-
-The privacy practices of this statement apply to our services available under the domain and subdomains of [www.zhakkas.com](http://www.zmasti.com/) ZHAKKAS.com (the "Site") and apply generally to our parent, subsidiaries or joint venture websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site.
-
-This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about ZHAKKAS.com's practices so that you can make informed decisions. Our parent, subsidiaries and joint ventures operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global ZHAKKAS.com Online Entertainment.
-
-The following Privacy Statement discloses the information gathering and dissemination practices for ZHAKKAS.com’s Network of Web sites (which we collectively refer to below as the “Site”).
-
-Our Site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. A cookie is a message that is sent to a browser from a Web server and stored on your computer’s hard drive. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. If a guest makes a purchase, cookies are used to keep the shopping cart active during the shopping process. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don't have to re-enter them each time you visit our Site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
-
-We may use an outside ad company to display ads on our Site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies delivered through banner ads are collected by our ad company, and we do not have access to this information. ZHAKKAS.com may also serve banner ads that contain cookies. We will only share such information with our advertisers and sponsors on an aggregate basis to determine the success of any given banner, logo or advertisement.
-
-We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink or Satyam, chances are that your IP address varies each session—thus making it effectively impossible for us to use your IP address (by itself) to determine who you are.
-
-In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user. We also disclose aggregated user statistics in order to describe our services and reach to prospective partners, advertisers, and other third parties. However, aggregate data is not traceable to you specifically. We may use contractors to help us with our operations. Some or all of these contractors may access our databases of user information. These contractors will enter into an agreement with us that places restrictive provisions on their use and disclosure of all information they obtain through the relationship.
-
-Specific uses of personal information that vary from this Privacy Statement (if any) may be found in the policies applicable to the service or feature you are signing up for. To the extent that you are notified of uses of your personal information that are different from those described in this Privacy Statement during your enrollment in any particular service, special program, contest or promotion, those uses will govern. For example, if you purchase a T-shirt from a specific celebrity fan site, that celebrity may be entitled to receive and use your personal information for limited purposes such as e-mailing you information about their next film or television appearance. Please be on the look-out for additional terms of service and privacy statements applicable to the services for which you sign-up or participate in.
-
-The Site contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. ZHAKKAS.com is not responsible for the privacy practices or the content of such other sites.
-
-The Site makes Classifieds, Yellow Pages, Jokes, Shero Shayari, Articles, Images, Food Recipes, Videos+++ much more!! and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. ZHAKKAS.com encourages our users to be smart about choosing when, and to whom to release information online.
-
-Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you’d expect -- we use and disclose this information in a commercially reasonable business manner.
-
-This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, ZHAKKAS.com assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
-
-If you are a minor under 12, you are prohibited from submitting any personal information to us.  
- 
-
+[](https://web.archive.org/web/20101017132254id_/http%3A//zhakkas.com/) |  |   
+---|---|---  
   
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from ZHAKKAS.com and our partners. We also provide instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings. 
+At **ZHAKKAS.com** , we respect and take steps to protect the privacy of our Users. We strive to make our site a safe environment for all who visit our website use services. We are committed to providing you the best possible online experience as well as the best products and services. This policy addresses our practices with respect to our website, but does not address the practices of any website we link to (including the merchants and content providers we link to). This policy is incorporated into, and subject to the terms of, our Terms and Conditions.
 
-  
-By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
+As a matter of policy, we neither rent nor sell personally identifiable information about our Users to any third party. We may however aggregate all personally identifiable information and may disclose such aggregated information to any or all advertisers, marketing and general or commercial promotional purposes. Even in these cases, disclosure of any information that could personally identify you would not be permitted.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+**INFORMATION SHARING:**
 
-Email: [support@zhakkas.com](mailto:%20support@zhakkas.com)
+  * Your mobile number or any other personal information will not be revealed to anyone outside of ZHAKKAS.com. ZHAKKAS.com employees who get access to this information will be under a confidentiality agreement which will ensure protection of your privacy. 
 
-Call us at: (+91) 9863027167
+  * ZHAKKAS.com only shares personal information with other companies or individuals outside of ZHAKKAS.com in the following limited circumstances: 
+
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
+
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service , including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of ZHAKKAS.com, its users or the public as required or permitted by law. 
+
+  * If ZHAKKAS.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will inform you through e-mail before personal information is transferred and may become subject to a different privacy policy. 
+
+  * We will share with third parties certain pieces of aggregated, non-personal information, (Aggregate non-personal information" is information that is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user.). Such information does not identify you individually.
+
+
+
+
+**INFORMATION SECURITY :**
+
+  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
+
+  * We are strongly committed to protecting the privacy of our subscribers including bank account details and have taken necessary and reasonable measures to protect the confidentiality of subscribers' information and its transmission through the world wide web ZHAKKAS.com shall not be held liable for disclosure of confidential information when in accordance with this Privacy Policy or Terms of Service, if any. 
+
+  * We restrict access to personal information to ZHAKKAS.com employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+
+
+
+\-------------------------------------------------------------------------
+
+ZHAKKAS.com may offer some features where sometimes it is required to provide some of the information about you to a third party, which is offering such services. It must be understood clearly that we will provide information only to the extent that the said third party requires your information, which enables you to use their service, but prior to that we will make efforts to notify you of specific information being provided to such third parties. Before you use the services of any third party, we request you to check up and evaluate if the terms and conditions of said third party services are acceptable to you.
+
+ZHAKKAS.com might use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here
+
+It is vital that ZHAKKAS.com receives from you the permission and valid rights to transmit your information to a third party. In addition, please note that we will comply completely and fully with any or all court orders, information requests or otherwise from government agencies and regulators and any other legal and regulatory processes that require us to disclose personally identifiable information of our Users.
+
+It is also vital that ZHAKKAS.com receives from you the permission and Valid rights to, and that you have no objection to append targeted Ads to your FREE SMS messages. By using our FREE SMS messaging services you are actually confirming that you have gone through our terms and conditions and that you have no objection to in our appending targeted Ads to your SMS messages and to using your personal information.
+
+  **ANTI SPAM POLICY:**
+
+ Any registered User of ZHAKKAS.com can send SMS text messages to his/her friends, family, colleagues, clients, contacts etc using the ZHAKKAS.com Interface. These interface conditions of use strictly forbid spamming to cell phone Users. We have several software filters to block spam messages. However, we cannot guarantee that spamming will not ever occur. Please let us know (email to support@zhakkas.com) the details of the message like content of message, time of delivery, sender name or number etc so that we can immediately check and block the user responsible for the same.
+
+Appending contextual Ads to users SMS is not considered as spam within the meaning of spam. Spam is a totally uninvited message urging the recipient to avail of some services. But here the advertisement is part of a personal message which the recipient receives and is not a totally uninvited message. Also, the user has specifically opted-in to use this FREE service to send SMS to the recipient. Further the communication is between two known persons.
+
+**CHNAGES TO THE POLICY:**
+
+Please note that this Privacy Policy may change from time to time. We will post any Policy changes on this page. Your continued use of ZHAKKAS.com constitutes an affirmative acknowledgement by you of the Policy changes. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+If you have any additional questions or concerns about this Policy, please feel free to contact us through e-mail any time at support@zhakkas.com 
+
+**ZHAKKAS.com - Privacy Policy (LAST AFFECTED DATED� 5-July-2010)**
