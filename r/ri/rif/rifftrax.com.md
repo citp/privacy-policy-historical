@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rifftrax.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326035726id_/http%3A//www.rifftrax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rifftrax.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017025405id_/http%3A//www.rifftrax.com/privacy) for the most accurate reproduction.*
 
 # RiffTrax Privacy Policy | RiffTrax
+
+## RiffTrax Live: House on Haunted Hill! In theatres 10/28!
 
 **Privacy Policy**
 
