@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513033921id_/http%3A//www.exootlab.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017051651id_/http%3A//www.exootlab.com/about/privacy.php) for the most accurate reproduction.*
 
-# Exoot Privacy Policy
+# Exoot Lab
+
+  
+
+
+## Privacy Policy
 
 Exoot Systems Inc. respects your privacy.
 
