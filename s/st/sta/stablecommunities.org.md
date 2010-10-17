@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stablecommunities.org privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610080211id_/http%3A//www.stablecommunities.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stablecommunities.org privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017073318id_/http%3A//www.stablecommunities.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
