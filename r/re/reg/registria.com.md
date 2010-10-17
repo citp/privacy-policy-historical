@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registria.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412084213id_/http%3A//www.registria.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registria.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017193646id_/http%3A//www.registria.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
