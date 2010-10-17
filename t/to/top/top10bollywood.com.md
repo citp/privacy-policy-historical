@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10bollywood.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423193635id_/http%3A//www.top10bollywood.com/2009/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bollywood.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017042033id_/http%3A//www.top10bollywood.com/2009/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
