@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621144332id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017124947id_/http%3A//www.checksure.biz/privacy.asp) for the most accurate reproduction.*
 
-# Terms and Conditions
+# Privacy Policy
+
+We have created this Privacy Policy ("Policy") to demonstrate our commitment to the privacy of your personal information. The following sets out our information-gathering and dissemination practices for this website.
+
+If you have any questions or queries regarding this policy, please contact our Privacy Officer at checkSURE Customer Services. We will do our best to deal with your questions or queries as soon as possible.
+
+**Privacy legislation**
+
+Checksure Limited ("checkSURE") is subject to European and UK privacy legislation in the form of the Data Protection Act 1998, which regulates the use of individuals' personal information. This legislation imposes specific requirements on checkSURE and ensures that your personal information will only be used in accordance with this Policy.
 
 **Data use**
 
@@ -24,8 +32,7 @@ We sometimes use an Internet device called a cookie to store login or other info
 
 For certain services, we will allow you to have an ID or password stored in a cookie. We do not store payment details in cookies. 
 
-[_View Cookie Policy_](https://web.archive.org/web/20070621144332id_/http%3A//www.checksure.biz/cookies.htm)  
-
+[_View Cookie Policy_](https://web.archive.org/web/20101017124947id_/http%3A//www.checksure.biz/cookies.asp)
 
 **Security of personal information**
 
@@ -43,7 +50,7 @@ In some cases we may be required to disclose your personal information to comply
 
 **Changes and Information**
 
-Should you wish to have your information updated or corrected, you may either access and correct your Internet registration record online. Alternatively, you may contact _checkSURE Customer Service._
+Should you wish to have your information updated or corrected, you may either access and correct your Internet registration record online. Alternatively, you may contact _[checkSURE Customer Service](https://web.archive.org/web/20101017124947id_/http%3A//www.checksure.biz/contact_online_credit_check.asp)._
 
 **Updates to Privacy Policy**
 
