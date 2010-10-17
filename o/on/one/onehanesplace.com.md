@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onehanesplace.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617152019id_/http%3A//www.onehanesplace.com/webapp/commerce/command/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehanesplace.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017070554id_/http%3A//www.onehanesplace.com/webapp/commerce/command/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
-# One Hanes Place – Outlet Prices, Great Selection !
+# One Hanes Place – Outlet Prices, Great Selection !!
 
 At Hanesbrands Inc. ("Hanesbrands"), we respect our customers and understand that you may have concerns about privacy, so we have instituted privacy policies intended to ensure that your personal information is handled safely and responsibly.
 
