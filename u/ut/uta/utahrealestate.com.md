@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utahrealestate.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406161944id_/http%3A//www.utahrealestate.com/support/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utahrealestate.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018013740id_/http%3A//www.utahrealestate.com/support/privacy.policy) for the most accurate reproduction.*
 
 # UtahRealEstate.com | WFR Multiple Listing Service
 
-Utahrealestate.com 
+UtahRealEstate.com 
 
 Effective Date: September 15, 2009 
 
