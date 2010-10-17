@@ -1,19 +1,14 @@
-> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503051848id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017071354id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
  Your privacy is of utmost importance to us here at NewBizShop Advertising Blog. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
-This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.  
+This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.[  
+](http://www.mynewcompany.com/idevaffiliate/idevaffiliate.php?id=1612_0_1_11)  
+**Routine Information Collection (Log Files)**
 
-
-[  
-  
-](http://snakeair2.noelmd.hop.clickbank.net/)
-
-**Routine Information Collection**
-
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+Like many other Web sites, www.newbizshop.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Distribution of Information**
 
@@ -36,10 +31,19 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 **DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.newbizshop.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.newbizshop.com and other sites on the Internet.
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.newbizshop.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+
+* Google Adsense  
+* Clickbank
 
 These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
 **Privacy Contact Information**
 
 snakeair (at) gmail.com
+
+**Owner/Admin**  
+[**Contact Us**](http://newbizshop.com/register/contact/) ** < \---click this link if you need to contact me with questions about this blog.**
