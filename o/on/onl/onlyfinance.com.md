@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyfinance.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412122538id_/http%3A//www.onlyfinance.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyfinance.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017051825id_/http%3A//www.onlyfinance.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Only Finance®
 
@@ -6,7 +6,7 @@ _Please read this Privacy Policy carefully_
 
 You must not use our website or our services if you do not accept our Privacy Policy. Please be aware that once you have used our website or services therein, you will be regarded as having given your consent to this privacy policy.
 
-LPS Protect Ltd is committed to ensuring your personal information is protected. This is done in a number of ways:
+Leadbay Ltd is committed to ensuring your personal information is protected. This is done in a number of ways:
 
   * All our data including your personal information is protected by Thawte
   * Servers are securely located and can only be accessed by authorised employees
@@ -34,10 +34,10 @@ We would like to keep you updated by phone, e-mail or text of other products and
 
 You can ask us to stop passing your information to third parties for marketing purposes at any time, which we will do. Such a request may result in us ceasing to offer the Services to you. 
 
-If you decide to enter into a contract with a third party provider through our website, the information you have provided to us will be held according to that provider's privacy policy. We therefore strongly advise you read their privacy policy before you enter into any binding agreement with them. In no event shall LPS Protect Ltd be liable for any use of your personal data by the third party once you have signed a contract with them.
+If you decide to enter into a contract with a third party provider through our website, the information you have provided to us will be held according to that provider's privacy policy. We therefore strongly advise you read their privacy policy before you enter into any binding agreement with them. In no event shall Leadbay Ltd be liable for any use of your personal data by the third party once you have signed a contract with them.
 
 We may at our discretion use cookies on our site. A cookie is a small file that is stored on your computer's hard drive by your web browser. This allows us to monitor the flow of traffic onto our site and respond to our customers needs quickly. All data collected in this way is encrypted and cannot be traced back to any individual customer. Please visit [www.aboutcookies.org](http://www.aboutcookies.org/) if you want to know more about how cookies work and how they use visitor data.
 
 Please be aware that your personal information rights are protected by Data Protection Act 1998. If you require a copy of all the personal information we hold on you we will be happy to oblige although a small fee may be payable to cover admin and postage costs.
 
-Telephone calls that you make to LPS Protect Ltd may be monitored and recorded. We do this so as to help train our advisors and improve the service we provide to you. Monitoring and recording will only ever take place under adequate and prudent supervision.
+Telephone calls that you make to Leadbay Ltd may be monitored and recorded. We do this so as to help train our advisors and improve the service we provide to you. Monitoring and recording will only ever take place under adequate and prudent supervision.
