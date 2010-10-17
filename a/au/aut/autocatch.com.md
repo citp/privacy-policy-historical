@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocatch.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413153710id_/http%3A//autocatch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocatch.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018000729id_/http%3A//www.autocatch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
