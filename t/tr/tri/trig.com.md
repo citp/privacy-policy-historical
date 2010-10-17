@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404022948id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017044139id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
 
-# trig.com - 法律條款
+# trig.com - Legal
 
 Trig.com is owned and run by Adocca Options AB ("Adocca", "we", "us" or "our") and we are very concerned with protecting your personal integrity when you use Trig.com. This Privacy Policy states how we handle your personal information. We are very cautious that the personal information that you give to us is handled in such a way that your personal integrity will not be infringed. With this Privacy Policy we aim to provide you with information regarding the technical handling of your personal information.
 
