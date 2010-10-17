@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechangeblog.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507001431id_/http%3A//www.thechangeblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechangeblog.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017131112id_/http%3A//www.thechangeblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
