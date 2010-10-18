@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412110113id_/http%3A//www.tjformal.com/c5309/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018222631id_/http%3A//www.tjformal.com/c5309/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of TJ Formal Prom and Bridal
 
