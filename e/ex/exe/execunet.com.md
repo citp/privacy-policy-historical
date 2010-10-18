@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218102259id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018032508id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
 
 # ExecuNet - Executive Job Search, Networking & Career Advancement
 
@@ -50,15 +50,15 @@ ExecuNet allows you to change or correct your personal information at any time. 
 
 When you place an order online, your personal details and credit card information are scrambled using SSL encryption technology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details and credit card information, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
 
-Our credit card transactions are processed by Verisign (http://www.verisign.com/). All information sent to Verisign is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about Verisign's privacy statement, please [click here](http://www.verisign.com/truste/index.html).
+Our credit card transactions are processed by PayPal (http://www.paypal.com/). All information sent to PayPal is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about PayPal's privacy statement, please [click here](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
 
 **Cookies**
 
-To enhance your experience at ExecuNet, we use a feature on your Internet browser called a "cookie." Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, tracking visits to understand visitor usage and behavior, and planning for increased loads. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and could negatively impact your experience on our site.
+To enhance your experience at ExecuNet, we use a feature on your Internet browser called a "cookie." Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, tracking visits to understand visitor usage and behavior, and planning for increased loads. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and could negatively impact your experience on our site. We also work with a company which enables a third party cookie to help us measure audience demographics and trends. Quantcast does not collect any personally identifiable information; that is, information that could be used to uniquely identify or locate an individual. For further information please review the [Quantcast privacy policy](http://www.quantcast.com/info/privacy-policy).
 
 **Feedback**
 
-ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20100218102259id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
+ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20101018032508id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
 
 **Privacy Commitment Changes**
 
