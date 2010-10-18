@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618204945id_/http%3A//www.onmilwaukee.com/about/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018065541id_/http%3A//www.onmilwaukee.com/about/privacystatement.html) for the most accurate reproduction.*
 
 # OnMilwaukee.com - Milwaukee's Daily Magazine
 
@@ -19,7 +19,9 @@ To help make our sites more responsive to the needs of our visitors, we invoke a
 **Third Party Advertising**  
 We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
- **Third Party Cookies**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ÒcookieÓ on your browser.
 
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. It is a cookie, for example, that allows us to make one user doesn't vote in a weekly poll over and over again, even if you've been away for awhile. And we use cookies to avoid showing you the same ad, repeatedly, on a single page. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites.
