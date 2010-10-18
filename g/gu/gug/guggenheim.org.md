@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618202428id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018064320id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,8 +13,8 @@ The Guggenheim uses "cookies" to improve your return access and visits to the Si
 
 The Guggenheim does not systematically collect or record names, addresses, phone numbers, gender identity, or other personally identifying data (the "Personal Data") from visitors to the Site, unless such data is voluntarily submitted by visitors for the purposes outlined below. 
 
-**Online Mailing Lists**  
-When you subscribe to our online mailing list(s), the Guggenheim will request information necessary to process your subscription and send you the information you seek: your name, address, telephone number, e-mail address, and areas of interest. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others."
+**Online Mailing Lists and E-news**  
+When you subscribe to our online mailing list(s) and sign up for e-news, the Guggenheim will request information necessary to process your subscription and send you the information you seek: your name, address, telephone number, e-mail address, and areas of interest. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others."
 
 **  
 Online Memberships**  
