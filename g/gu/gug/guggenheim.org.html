@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the guggenheim.org privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618202428id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guggenheim.org privacy policy that was archived on 2010-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101018064320id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 <meta name="verify-v1" content="CHa7vMS5jRJn8vtJv3nK7nj/ocuCBnDYr2GNkSmzKLI=">
@@ -14,9 +14,12 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="/plugins/content/ezslider.css" type="text/css">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript">
+jQuery.noConflict();
+  </script>
   <link rel="stylesheet" type="text/css" href="http://www.guggenheim.org/components/com_jomcomment/style.css">
 <link rel="stylesheet" type="text/css" href="http://www.guggenheim.org/components/com_jomcomment/templates/srgmforum/comment_style.css">
 
@@ -38,28 +41,20 @@ var jc_commentForm;
 	var jax_site_type = '1.5';
 /*]]>*/
 </script><script type="text/javascript" src="http://www.guggenheim.org/plugins/system/pc_includes/ajax_1.2.js"></script>
-  <script src="http://www.guggenheim.org/plugins/content/1pixelout/audio-player.js" type="text/javascript"></script>
-  <!--[if lte IE 6]>
-		<style type="text/css">
-		/* add some stuff to fix IE6 */
-		   
-		</style>
-	<![endif]-->
 
-	
-	
 	<link href="/images/favicon.ico" rel="shortcut icon">
-
-	<link rel="stylesheet" href="/templates/guggenheim/css/style.css" type="text/css" charset="utf-8">
-		
 	
+<!-- these need to fire after jQuery 1.4.2 and before jQuery1.2.6 -->
+
+        
+	
+        <!-- printme CSS addition 6/10 -->
+	    	   <link rel="stylesheet" href="/templates/guggenheim/css/style.css" type="text/css" charset="utf-8">
+           <link rel="stylesheet" href="/templates/guggenheim/css/print.css" type="text/css" charset="utf-8" media="print">
+    	       	
 	
 	<!-- gugg requested adjustments -->
-	
-	
-	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-	<script type="text/javascript">jQuery.noConflict();</script>
-	
+		
 
 	<script>var menu_active_id='1035';</script>
 
@@ -85,7 +80,7 @@ var jc_commentForm;
 	
 	
 	// turn this line on to debug js stuff in a normal browser
-	//Apple.Device=true;
+	// Apple.Device=true;
 	
 	
 	if(!Apple.Device){
@@ -194,7 +189,12 @@ var jc_commentForm;
 
 <div id="header">
 </div>
-	
+<!-- printme addition 6/10 -->
+<div id="print_header" style="display: none;">
+    <center>
+    <img src="/templates/guggenheim/images/nav_06_21_10.jpg">
+    </center>
+</div>
 	 
 <script type="text/javascript">
 
@@ -235,6 +235,29 @@ if(!Apple.Device){
 
 	}
 	
+
+
+
+// active links for AC component
+ jQuery("#ac_left_nav a").each(function() {
+if(this.href == window.location || this.href == document.location.protocol + "//" + 
+window.location.hostname + window.location.pathname)
+	 jQuery(this).addClass("ac_selected");
+})
+
+ jQuery(".ac_sort_lesson_areas_box a").each(function() {
+if(this.href == window.location || this.href == document.location.protocol + "//" + 
+window.location.hostname + window.location.pathname)
+	 jQuery(this).addClass("ac_selected_spec");
+})
+
+ jQuery(".ac_helper_nav_links a").each(function() {
+if(this.href == window.location || this.href == document.location.protocol + "//" + 
+window.location.hostname + window.location.pathname)
+     jQuery(this).addClass("selected");
+})
+
+
 
   jQuery("#event-select").next().click(function(){
 	window.location.href = "/component/phocagallery/category/events/"+jQuery(this).prev().val();
@@ -343,10 +366,8 @@ function popUpWindow(URLStr, left, top, width, height, scrollbarNeed)
 				<h3>By Event</h3>
 				<select name="cal_event">
 					<option value=""> - select - </option>
-												<option value="46">
-								50th Anniversary							</option>
-														<option value="18">
-								Art after Dark: First Fridays							</option>
+												<option value="18">
+								Art after Dark							</option>
 														<option value="23">
 								Courses &amp; Workshops							</option>
 														<option value="22">
@@ -376,7 +397,7 @@ function popUpWindow(URLStr, left, top, width, height, scrollbarNeed)
 														<option value="20">
 								Tours &amp; Gallery Programs							</option>
 														<option value="48">
-								&nbsp;&nbsp;&nbsp;&nbsp;Mind’s Eye							</option>
+								&nbsp;&nbsp;&nbsp;&nbsp;Mind's Eye							</option>
 														<option value="19">
 								Works &amp; Process							</option>
 														<option value="35">
@@ -394,14 +415,18 @@ function popUpWindow(URLStr, left, top, width, height, scrollbarNeed)
 			<h3>Exhibition-Related</h3>
 			<select name="cal_onview">
 			<option value=""> - select - </option>
-										<option value="50">
-								Haunted							</option>
-														<option value="52">
-								Paris and the Avant-Garde							</option>
+										<option value="56">
+								Broken Forms							</option>
+														<option value="54">
+								Chaos and Classicism							</option>
+														<option value="57">
+								Intervals							</option>
 														<option value="12">
 								Permanent Collection							</option>
 														<option value="34">
 								Sackler Center							</option>
+														<option value="55">
+								YouTube Play							</option>
 										</select>
 			
 			<h3>By Time</h3>
@@ -433,7 +458,8 @@ function popUpWindow(URLStr, left, top, width, height, scrollbarNeed)
 		<h1>Privacy Policy</h1>
 		</div>
 		
-<div id="bread-crumbs"><div id="print"><a href="#" class="print">Print</a></div>
+        <div id="bread-crumbs">
+            <div id="print"><a href="http://www.guggenheim.org/privacy-policy/?tmpl=component&amp;print=1" target="_blank">Print</a></div>
 			<ul>
 <li><a href="http://www.guggenheim.org/" class="pathway">Home</a> &gt; </li><li class="current-page">Privacy Policy</li></ul>
 <div id="clear"></div>
@@ -459,6 +485,8 @@ function popUpWindow(URLStr, left, top, width, height, scrollbarNeed)
 
 
 
+<style>
+a {color:#CC3433;}</style>
 <h4>INTRODUCTION</h4>
 <p>The Solomon R. Guggenheim Foundation (the "Guggenheim") is committed to protecting the privacy of its Web site visitors in accordance with applicable laws and regulations. All information gathered from you in connection with your use of this Web site (the "Site") is governed by the Guggenheim's Privacy Policy for Web site visitors set forth hereof (the "Privacy Policy"). <br>
 <br></p>
@@ -468,8 +496,8 @@ function popUpWindow(URLStr, left, top, width, height, scrollbarNeed)
 The Guggenheim uses "cookies" to improve your return access and visits to the Site. You may choose to reject these cookies at any time without preventing your access to the Site. However, please note that the Guggenheim's cookies will not be disclosed to any third party and are not linked to personally identifying information. For maximum enjoyment of the entire Site, we recommend that you accept the Guggenheim's cookies.</p>
 <p>The Guggenheim does not systematically collect or record names, addresses, phone numbers, gender identity, or other personally identifying data (the "Personal Data") from visitors to the Site, unless such data is voluntarily submitted by visitors for the purposes outlined below. <br>
 <br></p>
-<p><strong>Online Mailing Lists</strong><br>
-When you subscribe to our online mailing list(s), the Guggenheim will request information necessary to process your subscription and send you the information you seek: your name, address, telephone number, e-mail address, and areas of interest. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others."</p>
+<p><strong>Online Mailing Lists and E-news</strong><br>
+When you subscribe to our online mailing list(s) and sign up for e-news, the Guggenheim will request information necessary to process your subscription and send you the information you seek: your name, address, telephone number, e-mail address, and areas of interest. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others."</p>
 <p><strong><br>
 Online Memberships</strong><br>
 When you purchase a Guggenheim Museum membership online through the Site, the Guggenheim and its third-party merchants and agents will request information necessary to process your membership and acknowledge your contribution: your name, billing and shipping address, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others."</p>
@@ -534,7 +562,7 @@ Updated: 3/22/10<br>
 			<li><a href="/privacy-policy/" id="privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
 			<li><a href="/terms-conditions/" id="terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; 
 Conditions</a></li>
-			<li><a href="http://ny.guggenheim.org/NETCOMMUNITY/Page.aspx?pid=213&amp;srcid=213" id="mailing-list" title="Mailing List">Mailing List</a></li>
+			<li><a href="http://ny.guggenheim.org/NETCOMMUNITY/Page.aspx?pid=213&amp;srcid=213" id="mailing-list" title="Mailing List">E-News</a></li>
 			<li><a href="http://ny.guggenheim.org/NETCOMMUNITY/Page.aspx?pid=210&amp;srcid=210" id="donate" title="Donate">Donate</a></li>
 			<li><a href="/new-york/about/guggenheim-images" id="guggenheim-images" title="Guggenheim Images">Guggenheim Images</a></li>
 			<li><a href="/new-york/about/Contact-Us" id="contact_us" title="Contact Us">Contact Us</a></li>
@@ -557,6 +585,27 @@ var pageTracker = _gat._getTracker("UA-5676651-2");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <!-- Google Analytics Ends -->
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-65rmabEkFWqq-"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-65rmabEkFWqq-.gif" style="display: none;" 
+border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- reinvigorate real time account -->
+<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+<script type="text/javascript">
+try {
+reinvigorate.track("70244-953s426a0r");
+} catch(err) {}
+</script>
+<!-- end reinvigorate -->
+
 
 
 
