@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330153540id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019010342id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
 
 # None
 
