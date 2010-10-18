@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careeradvocate.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515194654id_/http%3A//careeradvocate.com/page/privacy-policy/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeradvocate.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018195802id_/http%3A//careeradvocate.com/page/privacy-policy/Privacy-Policy.html) for the most accurate reproduction.*
 
 # CareerAdvocate | Get a Better Job | privacy policy
 
