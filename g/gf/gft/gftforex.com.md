@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617061751id_/http%3A//www.gftforex.com/privacypolicy.asp%3Fsection%3Dother) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018051803id_/http%3A//www.gftforex.com/privacypolicy.asp%3Fsection%3Dother) for the most accurate reproduction.*
 
 # Privacy Policy - Global Forex Trading
 
