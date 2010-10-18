@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821213110id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018021707id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StepForth Web Marketing Inc.
 
 StepForth Web Marketing Inc. (“StepForth”) is firmly committed to maintaining and protecting the privacy of your personal and company information. The terms of this policy apply to www.StepForth.com and all other StepForth websites. The following privacy policy tells you how information that identifies you personally is used, so that you can make an informed choice about using this website and its services.
 
-**StepForth does not sell, rent, lease or disclose customer information to third parties unless required by law or unless you provide consent to such a disclosure.  
+ **StepForth does not sell, rent, lease or disclose customer information to third parties unless required by law or unless you provide consent to such a disclosure.  
 **
 
 ### 1\. Information Collection
@@ -45,16 +45,16 @@ Information submitted to StepForth may be transferred across national boundaries
 
 StepForth has designated a Privacy Officer who is accountable for our compliance with this privacy policy and all applicable privacy laws. You may contact us at any time to review, alter or remove any personal information, withdraw your consent, or to ask us questions or challenge our privacy policy.
 
-**Mail:**  
+ **Mail:**  
 Ross Dunn, Privacy Officer  
 StepForth Web Marketing Inc.  
 #208 – 26 Bastion Square  
 Victoria, BC V8W 1H9
 
-**Email:**  
+ **Email:**  
 privacy@stepforth.com
 
-**Phone:**  
+ **Phone:**  
 Toll free in North America: 1-877-385-5526  
 International: 1-250-385-1190  
 Fax: 1-250-385-1198
