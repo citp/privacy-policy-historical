@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmed.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618143050id_/http%3A//www.cancom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmed.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019022118id_/http%3A//www.cancom.com/privacy_policy) for the most accurate reproduction.*
 
 # CANON COMMUNICATIONS, LLC - Privacy Policy
 
