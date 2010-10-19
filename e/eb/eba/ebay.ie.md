@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621073825id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019050322id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html%3Frt%3Dnc) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
