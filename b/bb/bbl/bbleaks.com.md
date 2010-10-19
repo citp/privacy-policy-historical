@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbleaks.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619080355id_/http%3A//www.bbleaks.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbleaks.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019094417id_/http%3A//www.bbleaks.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | BlackBerry Leaks - Blackberry news, software, videos, info, reviews, previews
+# Privacy Policy ~ BlackBerry Leaks - Blackberry news, software, videos, info, reviews, previews
 
 **BBLeaks.com will not share your information with 3rd parties.**  
 BBLeaks.com respects your right to the privacy of the personal information you provide us on our Web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to BBLeaks.com will be known only to two parties: you and BBLeaks.com. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and [e-mail](http://www.bbleaks.com/2009/08/bbleakscom-privacy-policy.html#) addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically. 
@@ -42,7 +42,3 @@ BBLeaks.com contains many links to other sites on the Web. We cannot control and
 If you have any further questions or concerns about Salon's privacy policies and use of personal information, please send them to info[@]bbleaks.com.
 
 Related Info:
-
-  * [Terms and Conditions](http://www.bbleaks.com/p/terms-and-conditions.html)
-
-
