@@ -1,18 +1,22 @@
-<!--The following is the downloaded HTML source of the grantham.edu privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619095046id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grantham.edu privacy policy that was archived on 2010-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101020012245id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
-<title>Privacy Policy | Grantham University</title>
+<title>  Privacy Policy | Grantham University</title>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js" language="javascript"></script>
+<script type="text/javascript" src="/gui/js/"></script>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="YxeDFYxMWc884HmMEXniqWmCgqw9z025Wjvy6WGI81c">
 <meta name="Copyright" content="Copyright (c) Grantham University">
+<link rel="next" title="FERPA Frequently Asked Questions" href="http://www.grantham.edu/faq/ferpa-frequently-asked-questions/">
 
-<!-- Grantham University -->
-<meta name="description" content="Grantham University is committed to protecting your privacy when you visit our Web sites, so we want you to know what information we collect when you visit one">
+<!-- Pods CMS 1.9.3 -->
+
 <link rel="canonical" href="http://www.grantham.edu/privacy-policy/">
-<!-- / -->
+<link rel="shortlink" href="http://www.grantham.edu/J">
 
-<link rel="stylesheet" href="/gui/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="/gui/style.css?1287165499" type="text/css" media="all">
 <!--[if lte IE 7]>
 <link rel="stylesheet" type="text/css" href="/gui/css/ie7.css" media="all" />
 <![endif]-->
@@ -27,13 +31,55 @@
 var param_lead_source = "GU_WEBSITE";
 // ]]>
 </script>
-<!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script-->
-<script type="text/javascript" src="/gui/js/"></script>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+	
 <body class="custom">
 	<img src="/gui/images/ui/dropdown-bg.png" width="0" height="0" style="display:none;" alt="dropdown">
+
+		<map name="Map" id="Map">
+		<area shape="poly" coords="0,0,571,0,571,30,601,30,601,380,0,380" href="/contact-information?guref=GU_WEBSITE-Home-Interst">
+		<area shape="rect" coords="571,0,601,30" href="javascript:closeUniqueMessage();">
+	</map>
+	<div id="uniquemessage" onclick="javascript:closeUniqueMessage();"><div id="uniquemessagecontent"> <img src="/public_media/firsttimer_walkwithyou.png" style="margin:70px auto;" usemap="#Map" border="0"></div></div>
+	<script language="javascript">
+		<!--
+		/*
+		**********************************
+		**** COOKIES FOR FIRST-TIMERS ****
+		**********************************
+		*/
+		var tmpcookie = new Date();
+		var gucookie = (tmpcookie.getTime() + '');
+		var gufirstcookie = "gucookiefirsttimer";
 		
-	<div id="container">
+		document.cookie = "gucookie=" + gucookie + "; path=/";
+		if (document.cookie.indexOf(gucookie,0) < 0) {
+			// Cookies are not enabled or allowed
+			//alert("Cookies are not enabled or allowed");	
+		} else {
+			// Browser accepts cookies
+			//alert("Browser accepts cookies");
+			if (document.cookie.indexOf(gufirstcookie,0) < 0) {
+				// This is a first time visitor
+				//alert("This is a first time visitor");
+				var source = "grantham.edu"
+				var exdate = new Date();
+				var expiredays = 90; // Expires in 90 days
+				exdate.setDate(exdate.getDate() + expiredays);
+				document.cookie = gufirstcookie + "=" + escape(source) + "; path=/; expires="+exdate.toUTCString();
+				document.getElementById("uniquemessage").innerHTML = '<div id="uniquemessagecontent"> <img src="/public_media/firsttimer_walkwithyou.png" style="margin:70px auto;" usemap="#Map" border="0" /></div>';
+			} else {
+				// This visitor has been here before
+				//alert("This visitor has been here before");
+			}
+		} 
+		
+		function closeUniqueMessage(){
+			document.getElementById("uniquemessage").style.visibility = "hidden";
+		}
+		//-->
+	</script>
+		<div id="container">
 		<div id="page">
 			<div id="masthead">
 				<div id="topbar">
@@ -43,7 +89,7 @@ var param_lead_source = "GU_WEBSITE";
 						<a href="/sitemap/">Sitemap</a>
 					</div>
 					<div id="specialbutton">
-						<a href="/graduation2010?guref=home">
+						<a href="/alumni/commencement-ceremony/?guref=home">
 							<img src="/gui/images/ui/clear.gif" width="267" height="32" border="0" alt="Grantham University Commencement Ceremony 2010" title="Grantham University Commencement Ceremony 2010">
 						</a>
 					</div>
@@ -180,23 +226,21 @@ var param_lead_source = "GU_WEBSITE";
 		<img src="/gui/images/arrow_white_up.gif" class="texttop" width="10" height="10" alt="scroll to top">	</strong></a>
 	<div id="content_box">
 		<div id="breadcrumb">
-			<!-- Breadcrumb NavXT 3.5.0 -->
+			<!-- Breadcrumb NavXT 3.6.0 -->
 <a title="Go to Home." href="http://www.grantham.edu">Home</a> <img src="/gui/images/breadcrumb_arrow.gif"> Privacy Policy		</div>
 				<div id="content_title">
 			<h1 class="page">Privacy Policy</h1>
 		</div>
 				<div id="post_page">		
-						
-<div id="right_bar" class="sidebar">
-
+						<div id="right_bar" class="sidebar">
 		<div id="tier_end">
-		<table width="100px" style="font-weight:bold; text-align: center;" cellpadding="0" cellspacing="0">
+		<table width="100" style="font-weight:bold; text-align: center;" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td>
-					<img src="/public_media/pic_gu_proactive_sign.jpg" alt="Proactively Plan for Your Future">
-					
-					<a href="/contact-information/"><img src="/public_media/ui_button_request_info.jpg" alt="Request Info"></a>
-					
+					<img src="/gui/images/ui/proactive_sign.png" width="150" height="90" alt="Proactively Plan for Your Future">
+					<a href="/apply-now/"><img src="/gui/images/ui/button_apply_today_sidbar.jpg" alt="Apply Now" width="124" height="25"></a><br>
+					<img src="/gui/images/blank.gif" width="1" height="10" alt=""><br>
+					<a href="/contact-information/"><img src="/gui/images/ui/button_request_info.jpg" alt="Request Info" width="124" height="25"></a>
 					<div class="bubbleInfo">
 						<table id="dpop" class="popup">
 							<tbody><tr>
@@ -207,51 +251,40 @@ var param_lead_source = "GU_WEBSITE";
 									<br>
 									<br>
 									<br>
-									
 									<div style="margin-bottom:7px; float: left; color:#FFFFFF; width: 105px; margin-right: 16px; font-family:Arial, Helvetica, sans-serif; ">
-									
 																		<strong style="font-size:13px;">Live Calls</strong><br> 
 									M-Th 7am - 8pm/CST<br> 
-									Fri 7am - 6pm/CST
-									
-																		
-									</div>
+									Fri 7am - 6pm/CST								
+																		</div>
 									<div style="color:#FFFFFF; float: left; width: 100px; font-family:Arial, Helvetica, sans-serif;">
-									
-																		
-									<a href="http://livechat.boldchat.com/aid/8476570522697540418/bc.chat?cwdid=8086823599308600409" target="_blank" onclick="window.open('http://livechat.boldchat.com/aid/8476570522697540418/bc.chat?cwdid=8086823599308600409&amp;url=' + escape(document.location.href), 'Chat403345728030103323', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;" style="color:#FFFFFF; font-size:13px; font-weight:bold; text-decoration:underline;">Live Chat</a>
-																		
+										<span style="font-size:13px;" id="boldchat-livelink" class="boldchatbubble"><a href="http://livechat.boldchat.com/aid/8476570522697540418/bc.chat?cwdid=8086823599308600409" target="_blank" onclick="window.open('http://livechat.boldchat.com/aid/8476570522697540418/bc.chat?cwdid=8086823599308600409&amp;url=' + escape(document.location.href), 'Chat403345728030103323', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;" style="text-decoration:underline;">Live Chat</a></span>
+										<div id="boldchat-livesublink">
+											<!--small>Unavailable...</small-->
+										</div>
 									</div>
 								</td>    
 							</tr>
 						</tbody></table>
-						<img class="trigger" src="/public_media/ui_button_live_help.jpg" alt="live help" style="margin: 6px 0 8px 0;">
+						<img class="trigger" src="/gui/images/ui/button_live_help.jpg" width="124" height="25" alt="live help" style="margin: 10px 0 12px 0;">
 					</div>
 				</td>
 			</tr>
 			<tr>
 				<td class="proactive-signoff">
-					or give us call<br>
-					<span class="tollfreenumber">800-955-2527</span>
+					or give us a call<br>
+					<span class="tollfreenumber" style="font-family:Arial Narrow; font-size:16px; letter-spacing:0.02em; line-height:22px;">1-888-Y-GRANTHAM</span><br>
+					<span class="lightgreytext">(1-888-947-2684)</span> <br>
 				</td>
 			</tr>
 		</tbody></table>				
 	</div>
-	
-	<ul class="sidebar_list">
-				<!--li class="widget">
-			<h2>Search This Site</h2>
-					</li-->
-		<li class="widget quicks">
+		<ul class="sidebar_list">
+				<li class="widget quicks">
 			<ul>
-				
-				
-				
-
 								
 										<li id="applynow" class="large" style="display:none;">
 						<map name="Map" id="ApplyNow">
-							<area shape="rect" coords="10,81,136,119" href="800-955-2527" title="Call 800-955-2527">
+							<area shape="rect" coords="10,81,136,119" href="1-800-955-2527" title="Call 1-888-Y-GRANTHAM">
 							<!--area shape="rect" coords="10,152,135,190" target="_blank"  /-->
 						</map>
 						<img src="/gui/images/quicklinks/call.jpg" border="0" alt="Quicklinks" usemap="#ApplyNow">
@@ -312,7 +345,7 @@ var param_lead_source = "GU_WEBSITE";
 <p>Grantham University does not sell or rent any personal data submitted by visitors to our site to any third parties. The University respects the privacy of users visiting our University sites and will abide by all applicable laws concerning the release of personal information. On occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact Grantham University to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed at the following e-mail address: <a href="mailto:unsubcribe@grantham.edu">unsubcribe@grantham.edu</a>.</p>
 <p>Other than directory information, data you provide to us as you use Grantham University’s Web site will be held in strict confidence by the University and will be used for University purposes only. The University may share aggregate information about our users with advertisers, business partners, sponsors and other third parties. However, the individual information you provide us within the Grantham University Web site will be known only to you and the University. We will not share your personal data with anyone else, except as may be required by law.</p>
 <h3>How To Update Your Information</h3>
-<p>Our student services site provide you with the option of changing and modifying information you have previously provided to us. To change or modify your student services account information, please call 1.800.955.2527 toll free.</p>
+<p>Our student services site provide you with the option of changing and modifying information you have previously provided to us. To change or modify your student services account information, please call 1-888-Y-GRANTHAM toll free.</p>
 <h3>Our Security Measures</h3>
 <p>Our University Web sites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. We utilize industry standard SSL encryption when accepting your credit card information during the online ordering process, as well as whenever we ask you to login to any of the University’s online student services, such as our Library or the Student Web site.</p>
 <h3>Definitions</h3>
@@ -342,10 +375,12 @@ var param_lead_source = "GU_WEBSITE";
 				</div>
 				<div class="address">
 					Grantham University • 7200 NW 86th Street, Kansas City, MO 64153 •
-					1-800-955-2527 • Fax 816-595-5757 • 
+					1-888-Y-GRANTHAM • Fax 816-595-5757 • 
 					<a href="http://www.grantham.edu" title="Grantham University website">www.grantham.edu</a> • <a href="mailto:admissions@grantham.edu" title="Email our Admissions Department">admissions@grantham.edu</a> • <a href="/privacy-policy">Privacy Policy</a><br>	
 				</div>
 								
+				
+				
 				<div>
 					<form method="post" class="niceform" action="http://emailmarketer.grantham.edu/form.php?form=5" id="frmSS5" onsubmit="return CheckForm5(this);">
 						<table border="0" cellpadding="6" class="center">
@@ -365,7 +400,9 @@ var param_lead_source = "GU_WEBSITE";
 					</form>
 				</div>				
 			</div>
-			<div id="detc">
+			
+						
+			<div id="detc" style="background:none;">
 				Copyright © 2010 All rights reserved. Grantham University is accredited by the Accrediting commission of the <br>Distance Education and Training Council (DETC) • 1601 18th Street, N.W., Washington, DC 20009 • (202) 234-5100 • www.detc.org<br>
 				<br>
 				<a href="/admissions/">Online University Education</a> &nbsp;  &nbsp; 
@@ -398,12 +435,31 @@ var param_lead_source = "GU_WEBSITE";
 	  pageViewer.pageViewed();
 	} catch(error) {}
 </script>
+<script language="JavaScript" type="text/javascript">
+/****************************************
+ *** Check for Live Bold Chat Session ***
+ ****************************************/
+function checkForLiveBoldChat() {
+	loadXMLDoc("/gui/js/boldchat/index.php",function() {
+		//alert(xmlhttp.readyState);
+		if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+			var statusOfLiveBoldChat = xmlhttp.responseText;
+			if (statusOfLiveBoldChat) {
+				document.getElementById("boldchatlivelink").innerHTML=boldchatlink;
+				document.getElementById("boldchatlivesublink").innerHTML="";
+				//alert(document.getElementById("boldchatlivelink").innerHTML);
+			} else {
+				//alert("else");
+			}
+		}
+	});
+}
+var boldchatlink = "<a href=\"http://livechat.boldchat.com/aid/8476570522697540418/bc.chat?cwdid=8086823599308600409\" target=\"_blank\" onclick=\"window.open('http://livechat.boldchat.com/aid/8476570522697540418/bc.chat?cwdid=8086823599308600409&amp;url=' + escape(document.location.href), 'Chat403345728030103323', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;\" style=\"font-size:13px; text-decoration:underline;\">Live Chat</a>";
+</script>
 <noscript>
 	<a href="http://www.boldsoft.com" title="Live Chat" target="_blank"><img src="http://vms.boldchat.com/aid/8476570522697540418/bc.vmi" border="0" width="1" height="1" alt="Live Chat" /></a>
 </noscript>
-<!-- /Bold Software Visitor Monitor HTML v2.00 -->
-
-<script type="text/javascript">
+<!-- /Bold Software Visitor Monitor HTML v2.00 --><script type="text/javascript">
 	var _gaq = _gaq || [];  
 	_gaq.push(['_setAccount', 'UA-884686-1']);  
 	_gaq.push(['_trackPageview']);  
@@ -412,7 +468,41 @@ var param_lead_source = "GU_WEBSITE";
 	ga.type = 'text/javascript'; 
 	ga.async = true;    
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);  })();
-</script>
-<script type="text/javascript" src="/gui/js/guga.js"></script>
+	
+	document.onclick = function(event) {
+		event = event || window.event;
+		var target = event.target || event.srcElement,
+			targetElement = target.tagName.toLowerCase();
+	 
+		if (targetElement == "a") {
+			var href = target.getAttribute("href"),
+				urlHost = document.domain.replace(/^www\./i,"");
+			var urlPattern = "^(?:https?:)?\/\/(?:(?:www)\.)?" + urlHost + "\/?";
+			eventCheck(href,urlPattern);
+		}
+	 
+		function eventCheck(href,urlPattern){
+			if ((href.match(/^https?\:/i)) && (!href.match(urlPattern))){
+				if (href.match(/^.*\.(pdf|jpg|png|gif|zip|mp3|txt|doc|rar|js|py)$/i)) {
+					_gaq.push(['_trackEvent', 'Download', 'click', href]);
+					//alert("dnl");
+				} else {
+					_gaq.push(['_trackEvent', 'External', 'click', href]);
+					//alert("ext");
+				}
+			} else if (href.match(/^mailto\:/i)) {
+				_gaq.push(['_trackEvent', 'Email', 'click', href.substr(7)]);
+				//alert("eml");
+			} else if (href.match(/^.*\.(pdf|jpg|png|gif|zip|mp3|txt|doc|rar|js|py)$/i)) {
+				_gaq.push(['_trackEvent', 'Download', 'click', href]);
+				//alert("dnl2");
+			}
+		}
+	};
+</script><script type="text/javascript">
+	init();
+</script><script type="text/javascript" src="/gui/js/salesforce.js"></script>
+<script type="text/javascript">__sfga();</script>
+
 
 </body></html>
