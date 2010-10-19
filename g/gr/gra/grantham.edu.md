@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619095046id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020012245id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grantham University
 
@@ -52,7 +52,7 @@ Other than directory information, data you provide to us as you use Grantham Uni
 
 ### How To Update Your Information
 
-Our student services site provide you with the option of changing and modifying information you have previously provided to us. To change or modify your student services account information, please call 1.800.955.2527 toll free.
+Our student services site provide you with the option of changing and modifying information you have previously provided to us. To change or modify your student services account information, please call 1-888-Y-GRANTHAM toll free.
 
 ### Our Security Measures
 
