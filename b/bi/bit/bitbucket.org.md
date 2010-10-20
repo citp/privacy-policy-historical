@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621010957id_/http%3A//www.bitbucket.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021003432id_/http%3A//bitbucket.org/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — bitbucket.org
-
-## Privacy Policy
+# Privacy Policy – Bitbucket
 
 Avantlumiere operates several websites including avantlumiere.com and bitbucket.org. It is Avantlumiere’s policy to respect your privacy regarding any information we may collect while operating our websites. 
 
