@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330065552id_/http%3A//www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/others/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020051143id_/http%3A//www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/others/privacy-policy) for the most accurate reproduction.*
 
 # DAWN.COM | Others | Privacy Policy
 
