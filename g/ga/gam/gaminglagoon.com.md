@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gaminglagoon.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326013954id_/http%3A//www.gaminglagoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaminglagoon.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020205508id_/http%3A//www.gaminglagoon.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Gaminglagoon.com | Member Security | Free Gaming Collectables, Game cards, Game Points, and Much More Gaming for Free
-
-[](https://web.archive.org/user/offers/available/1/10/order/DESC/c)[](https://web.archive.org/wintercontest.html)
 
 [ Gaming Lagoon ](https://web.archive.org/ "Gaming Lagoon") is serious about protecting our customers’ personal information. That’s why protecting any personal information, such as your name, address, e-mail address or phone number that you provide is the utmost importance to us. 
 
