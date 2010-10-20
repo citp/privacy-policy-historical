@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediadis.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619231551id_/http%3A//www.mediadis.com/services/services.asp%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediadis.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020181414id_/http%3A//www.mediadis.com/services/services.asp%3Fid%3D9) for the most accurate reproduction.*
 
 # Mediadis
 
