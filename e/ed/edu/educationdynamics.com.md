@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationdynamics.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621013639id_/http%3A//www.educationdynamics.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationdynamics.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021004137id_/http%3A//www.educationdynamics.com/company/privacy-policy) for the most accurate reproduction.*
 
 # EducationDynamics, LLC Privacy Policy
 
@@ -74,7 +74,7 @@ We cannot ensure that all of your private communications and other personal info
 
 **What are my choices regarding collection, use, and distribution of my information?**
 
-EducationDynamics will contact you (by email, phone, and/or mail) if you complete a contact form on the Site, if you register for a membership, or if you contact us directly by direct mail or email. We will also contact you regarding any problems with your account and for website misuse. We may also contact you regarding our services, such as new features regarding our websites or other education-related updates. We may also contact you about “special offers” from our partners. Also, we may contact you to check on the status of your enrollment or other education-related activities. Simply send us an email if you do not wish to receive optional communications.
+EducationDynamics will contact you (by email, phone, and/or mail) if you complete a contact form on the Site, if you register for a membership, or if you contact us directly by direct mail or email. We will also contact you regarding any problems with your account and for website misuse. We may also contact you regarding our services, such as new features regarding our websites or other education-related updates. We may also contact you about “special offers” from our partners. Also, we may contact you to check on the status of your enrollment or other education-related activities. Simply send us an email to website@educationdynamics.com if you do not wish to receive optional communications.
 
 **How may I use other users’ information?**
 
