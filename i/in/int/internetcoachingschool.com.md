@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetcoachingschool.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616060805id_/http%3A//internetcoachingschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetcoachingschool.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021011751id_/http%3A//internetcoachingschool.com/privacy-policy) for the most accurate reproduction.*
 
 # internetcoachingschool.com: Privacy Policy
 
