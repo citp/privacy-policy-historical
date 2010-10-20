@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultramercial.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226184844id_/http%3A//ultramercial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultramercial.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020180814id_/http%3A//ultramercial.com/privacy.html) for the most accurate reproduction.*
 
 # Ultramercial, the audience engagement engine
 
