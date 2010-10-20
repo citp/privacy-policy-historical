@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dsstester.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619111336id_/http%3A//forums.dsstester.com/vbb/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsstester.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020155408id_/http%3A//forums.dsstester.com/vbb/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DssTester.com | DSS & FTA Forums
 
   
 
 
-Welcome to Dsstester. If this is your first visit, be sure to check out the [**FAQ**](https://web.archive.org/web/20100619111336id_/http%3A//forums.dsstester.com/vbb/faq.php?) as this board is unique from most others. You will need to [**register**](https://web.archive.org/web/20100619111336id_/http%3A//forums.dsstester.com/vbb/register.php?) before you can post or download: click register to proceed. To start viewing messages, select the forum that you want to visit from the selection below. Enjoy! 
+Welcome to Dsstester. If this is your first visit, be sure to check out the [**FAQ**](https://web.archive.org/web/20101020155408id_/http%3A//forums.dsstester.com/vbb/faq.php?) as this board is unique from most others. You will need to [**register**](https://web.archive.org/web/20101020155408id_/http%3A//forums.dsstester.com/vbb/register.php?) before you can post or download: click register to proceed. To start viewing messages, select the forum that you want to visit from the selection below. Enjoy! 
 
   
   
@@ -31,7 +31,7 @@ Welcome to Dsstester. If this is your first visit, be sure to check out the [**F
   
   
   
-All times are GMT -7. The time now is 03:36 AM.
+All times are GMT -7. The time now is 08:06 AM.
 
   
 
