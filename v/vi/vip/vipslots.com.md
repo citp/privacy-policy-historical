@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vipslots.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830003637id_/http%3A//www.vipslots.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipslots.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021013801id_/http%3A//www.vipslots.com/privacy-policy.php) for the most accurate reproduction.*
 
-# VIP Slots - Play Online Casino Games
-
-* * *
+# Privacy Policy - VIP Slots
 
 **Your Privacy and This website  
 **EH New Ventures Inc. (EHNVI) is committed to respecting the privacy of all website visitors. This privacy statement discloses the privacy practices for [www.vipslots.com](http://www.vipslots.com/)'s entire website.
@@ -41,10 +39,8 @@ No. EHNVI does not sell, trade, or otherwise transfer outside the company person
 **How does a visitor opt-out, remove, or modify information they have provided to EHNVI through the website?  
 **EHNVI offers users the opportunity to unsubscribe so as not receive any future communications. This is achieved by one of three options:
 
-  * Clicking on the unsubscribe link within the communication. Enter and submit the email address to be removed from our mailing list distribution.  
-
-  * Replying to a communication with the word UNSUBSCRIBE in the subject line  
-
+  * Clicking on the unsubscribe link within the communication. Enter and submit the email address to be removed from our mailing list distribution. 
+  * Replying to a communication with the word UNSUBSCRIBE in the subject line 
   * Contacting the customer service support team by [email](http://www.englishharbour.com/customer-support-services.php).
 
 
