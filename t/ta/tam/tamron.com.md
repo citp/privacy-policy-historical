@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamron.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324201924id_/http%3A//www.tamron.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamron.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020123800id_/http%3A//www.tamron-usa.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # DSLR and other Digital Camera Lenses FAQs, Tamron USA
 
