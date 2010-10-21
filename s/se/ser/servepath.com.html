@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the servepath.com privacy policy that was archived on 2010-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100421090709id_/http%3A//www.servepath.com/legal/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the servepath.com privacy policy that was archived on 2010-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101021075451id_/http%3A//www.servepath.com/legal/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ServePath: Legal : Privacy Policy</title>
@@ -149,105 +149,6 @@ $(document).ready(function() {
 
 <a href="/websitespark/index.php" title="Microsoft WebsiteSpark Hosting for professional Web Developers and Designers" class="callout-websitespark callout">Microsoft WebsiteSpark Hosting for your professional web design and development business.</a>
 <a href="/bizspark/index.php" title="Microsoft BizSpark Hosting for Startups" class="callout-bizspark callout">Microsoft BizSpark Hosting for your Startup</a>
-<script>
-
-var surveySendingStr = '<div id="surveyThanks"><h2>Sending Submission...</h2><img src="/images/ajax-loader.gif" alt="" /></div>'
-var surveyThanksStr = '<h2>Thank you for taking our survey!<br />Please click "Close" to exit this dialogue.</h2>';
-
-function validateSurvey(surveyForm) {
-	var errors = 0;
-	var mainError = $('#mainSurveyErrorText');
-	var purpose = $('#purpose');
-	var purposeError = $('#purposeError');
-	var taskComplete = $('#taskComplete');
-	var taskCompleteError = $('#taskCompleteError');
-	var taskCompleteErrorStr = '<h3 id="mainSurveyErrorText">Please make sure to you have filled out the required fields apporpriately.</h3>';
-	
-	if (purpose.val().length < 5) {
-		purpose.addClass('error');
-		purposeError.show();
-		errors++;
-	} else {
-		purpose.removeClass('error');
-		purposeError.hide();
-	}
-	if (taskComplete.val().length < 2) {
-		taskComplete.addClass('error');
-		taskCompleteError.show();
-		errors++;
-	} else {
-		taskComplete.removeClass('error');
-		taskCompleteError.hide();
-	}
-	
-	if (errors > 0) {
-		if ($('#survey > h3').length == 0) {
-			$('#survey > h2').after(taskCompleteErrorStr);
-		}
-		return false;
-	} else {
-		$('#survey > h3').remove();
-		return true;
-	}
-}
-
-function surveyThanksPopulate(surveyHeight) {
-	var surveyHeight = $('#surveyThanks').height();
-	$('#surveyThanks').height(surveyHeight).css('filter', 'alpha(opacity=100)');
-	$('#surveyThanks').children('h2').fadeOut(300);
-	setTimeout("$('#surveyThanks').html(surveyThanksStr).fadeIn(800)", 300);
-}
-
-function surveySending() {
-	$('#survey').html(surveySendingStr);
-	setTimeout("surveyThanksPopulate()", 800);
-}
-
-
-$(function() {
-
-	$('#surveyLaunch').click(function(){
-		//var protocol allows us to make ajax call via https if on a secure page
-		var protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
-		var target = (this.href).replace('.php', '.inc.php');
-		target = target.replace('http://', protocol);
-		Boxy.load(target, {
-			modal: true,
-			title: $(this).attr('title'),
-			closeable: true, 
-			closeText: 'CLOSE [ X ]',
-			unloadOnHide: true,
-			//Sending form submission via AJAX POST
-			behaviours: function(r) {
-				$(r).submit(function() {
-					var surveyForm = $(r);
-					if (validateSurvey(surveyForm)) {
-						$.post($(this).attr('action'), $(r).serialize());
-						surveySending();
-						return false;
-					} else {
-						return false;
-					}
-				});
-			},
-			//y: '0px',
-			center: true,
-			fixed: false
-		});
-		return false;
-	});
-
-});
-
-</script>
-
-<link href="/styles/boxy.css" type="text/css" rel="stylesheet" media="screen">
-<div class="sidebox survey">
-    <a href="/survey/3questions.php" title="ServePath's 30 Second Website Survey" id="surveyLaunch">
-        <h4>Please take our 30 second survey.</h4>
-    </a>
-</div>
-<!-- /sidebox survey -->
 </div><!-- /sidebar -->    </div><!-- /left -->
     <div id="right">
         <h1>
@@ -407,6 +308,18 @@ pageTracker._trackPageview();
 <script type="text/javascript">__sfga();</script>
 <!-- /Salesforce GA Tracking -->
 
+<!-- DemandBase tracking -->
+<script type="text/javascript"> 
+	var domainy = location.protocol == "https:" ? "https://leads.demandbase.com" : "http://leads.demandbase.com"; 
+	document.write(unescape("%3Cscript src='" + domainy + "/212662.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://leads.demandbase.com/212662.js" type="text/javascript"></script> 
+<noscript>
+<img alt="Demandbase Connect" width="1" height="1" src="http://leads.demandbase.com/212662ns.gif" />
+</noscript> 
+<noscript>
+<a href="http://www.demandbase.com"><img src="http://www.demandbase.com/images/stream/demandbase.gif" alt="Demandbase" width="1" height="1"></a>
+</noscript>
+<!-- /DemandBase Tracking -->
 
 
 </body></html>
