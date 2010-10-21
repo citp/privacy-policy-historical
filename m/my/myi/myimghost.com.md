@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myimghost.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617192132id_/http%3A//www.myimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myimghost.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021065520id_/http%3A//www.myimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # MYIMGHOST » More Information » Privacy Policy
 
