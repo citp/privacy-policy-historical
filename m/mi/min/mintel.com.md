@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622021629id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021212750id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Mintel International Group Ltd | Mintel
 
@@ -28,6 +28,10 @@ Mintel views all personal information that it collects as a valuable and confide
 ** When you visit this site your IP address is recorded. We use your IP address to help diagnose problems with our server and to create statistical reports about usage. Your IP address is used to help identify you when you buy from our site and to gather broad demographic identification that will not be tied to your identity.
 
 This site also uses "cookies", which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your search results so you can go back to them) and to keep track of the number of users accessing our site and the information they access. Our information sites will NOT function correctly if you disable cookies.
+
+This site uses "Web Beacons” as part of its web analytics service. Mintel International may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. Mintel International does not collect personally identifiable information that you do not voluntarily enter in this website. Mintel International does not track your browsing habits across web sites which do not use Mintel services. 
+
+You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. Third parties are not permitted to use Web Beacons on the Site.
 
 We may share your information with third parties who assist us in providing our service to you, e.g. our supplier Barclaycard Merchant Services may collect credit card information in order to process any payments you make.
 
