@@ -1,7 +1,107 @@
-<!--The following is the downloaded HTML source of the i2.com privacy policy that was archived on 2010-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100116193406id_/http%3A//www.i2.com/view.cfm/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i2.com privacy policy that was archived on 2010-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101021042720id_/http%3A//i2.com/view.cfm/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
+<html lang="en"><head></head><body>Select * from i2dcom_redirectsJDA where lower(oldurl) = 'http://i2.com/privacy-statement'
+			
+         
+
+<!--end redirects-->
+
+
+
+
+
+			
+			
+			  
+			
+			
+			
+ 				
+				
+		
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!-- getRecentPressReleases: returns query object of press releases from the last month --->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+ 
+	
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Statement - i2 The Supply Chain Company</title>
 <link rel="SHORTCUT ICON" href="/favicon.ico">
@@ -77,9 +177,9 @@
     }
 //-->
 </script>
-</head>
 
-<body>
+
+
     <div id="shadow">
     <div id="wrapper">
       <div id="page">
@@ -386,28 +486,6 @@
             <!--end if secid neq 1-->
           
             <li class="" style="white-space: normal; float: left; width: 100%;">
-            <a href="/view.cfm/customer-success-program/" style="color: rgb(255, 255, 255); text-decoration: none; float: none; width: auto;" class="sf-with-ul">i2 Customer Success Program<span class="sf-sub-indicator"> »</span></a>
-            
-            <!--get L2 pages-->
-            
-            
-              <ul style="left: 20.7692em; float: none; width: 23.1538em; display: none; visibility: hidden;">
-                
-                  <li style="white-space: normal; float: left; width: 100%;">
-                  <a href="/view.cfm/customer-success-program-earn/" style="text-decoration: none; float: none; width: auto;">Earn Points</a>
-				  
-                
-                  </li><li style="white-space: normal; float: left; width: 100%;">
-                  <a href="/view.cfm/customers-success-program-registration/" style="text-decoration: none; float: none; width: auto;">i2 Customer Success Program Registration</a>
-				  
-                
-                
-              </li></ul>
-              </li>
-              
-            <!--end if secid neq 1-->
-          
-            <li class="" style="white-space: normal; float: left; width: 100%;">
             <a href="/view.cfm/usergroup/" style="color: rgb(255, 255, 255); text-decoration: none; float: none; width: auto;" class="sf-with-ul">i2 User Group<span class="sf-sub-indicator"> »</span></a>
             
             <!--get L2 pages-->
@@ -470,10 +548,6 @@
                 
                   <li style="white-space: normal; float: left; width: 100%;">
                   <a href="/view.cfm/webcasts/" style="text-decoration: none; float: none; width: auto;">Archived Webcasts</a>
-				  
-                
-                  </li><li style="white-space: normal; float: left; width: 100%;">
-                  <a href="/view.cfm/speaker-request/" style="text-decoration: none; float: none; width: auto;">Speaker Request</a>
 				  
                 
                   </li><li style="white-space: normal; float: left; width: 100%;">
@@ -709,7 +783,15 @@
           		<div id="sectorindex"></div>
        	</div>
         
-	
+		<!--updated information -->
+		
+			<div style="background-color:333333; width:900; padding:5px 0; color:white;">
+            <p align="center"><a href="http://www.jda.com" style="border:none; "><img src="/images/i2-jda-logo.png" alt="JDA" width="193" height="57" border="0"></a></p>
+<p align="center">JDA Software to realease new website. Be the first to see it at <a href="http://beta.jda.com/?i2=t" rel="nofollow" style="color:#FFCC00;">http://beta.jda.com</a>		</p></div>
+		
+        
+        
+		<!--end updated information -->
            <div id="featuredevent"><!--start breadcrumbs-->
 				 <div id="breadcrumbs">
 <a href="/">home</a>
@@ -791,13 +873,14 @@ pageTracker._trackPageview();
 
 
 		</div><!-- END: footer -->
-		</div><!-- END: page-->
+	  </div><!-- END: page-->
     </div><!-- END: wrapper-->
 </div><!-- END: shadow -->
     
     
 	<script language="javascript">
-		function validate() {
+		function validate() {	
+		
 			// name fields
 			if (document.forms.register_form.first_name.value == "" || document.forms.register_form.first_name.value =="First Name") {
 				alert("Please enter your first name.");
@@ -858,8 +941,17 @@ pageTracker._trackPageview();
 				alert("Please select your country.");
 				document.forms.register_form.country.focus();
 				return false;
-			}
-			
+			}			
+			if (document.forms.register_form.additonal_comments.value.length > 250 ) {
+				alert("Please limit comments to 250 characters.");
+				document.forms.register_form.additonal_comments.focus();
+				return false;
+			}				
+			if (document.forms.register_form.cd_sec.value != "4" ) {
+				alert("Please enter the correct security answer.");
+				document.forms.register_form.cd_sec.focus();
+				return false;
+			}	
 			// everything's OK
 			return true;
 		}
@@ -870,23 +962,23 @@ pageTracker._trackPageview();
     <input type="Hidden" name="myoffer" value=""> 
     <input type="Hidden" name="mycampaign" value="">
     <p>
-   	  <input class="form_text" name="first_name" type="text" size="20" title="First Name" tabindex="1">
+   	  <input name="first_name" type="text" class="form_text" tabindex="1" title="First Name" size="20" maxlength="50">
     *</p>
 	<p>
-	  <input class="form_text" name="last_name" type="text" size="20" title="Last Name" tabindex="2">
+	  <input name="last_name" type="text" class="form_text" tabindex="2" title="Last Name" size="20" maxlength="50">
       <input type="hidden" name="callBack" id="callBack" value="/components/register/register_thanks.cfm?msid=15">
     *</p>    
 	<p>
-   	  <input class="form_text" name="email" type="text" size="20" title="Email Address" tabindex="5">
+   	  <input name="email" type="text" class="form_text" tabindex="3" title="Email Address" size="20" maxlength="50">
     *</p>    
     <p>
-   	  <input class="form_text" name="job_title" type="text" size="20" title="Job Title" tabindex="3">
+   	  <input name="job_title" type="text" class="form_text" tabindex="4" title="Job Title" size="20" maxlength="50">
     *</p>
     <p>
-   	  <input class="form_text" name="phone" type="text" size="20" title="Phone Number" tabindex="4">
+   	  <input name="phone" type="text" class="form_text" tabindex="5" title="Phone Number" size="20" maxlength="50">
     *</p>    
     <p>
-      <input class="form_text" name="company_name" type="text" size="20" title="Company Name" tabindex="6">
+      <input name="company_name" type="text" class="form_text" tabindex="6" title="Company Name" size="20" maxlength="50">
     </p>
 <div class="contactForm-Middle">
 <p><strong>Country*:</strong></p>
@@ -1134,28 +1226,31 @@ pageTracker._trackPageview();
 											<option value="ZW">ZIMBABWE</option> 
 	  </select>
 </p>
-		<p><strong>Comments:</strong></p>
+		<p><strong>Comments *250 Character Max:</strong></p>
         <p>
-          <textarea class="form_text" rows="4" cols="30" name="additonal_comments" title="Comments" tabindex="8"></textarea>
-    </p>
-        <p><strong>Keep me Updated:</strong></p>
+          <textarea class="form_text" rows="4" cols="30" name="additonal_comments" id="additonal_comments" title="Comments" tabindex="8"></textarea>
+        </p>
+    <p><strong>Keep me Updated:</strong></p>
         <p id="TB_label">
           <input name="subscriptions" type="checkbox" value="1" tabindex="9">
           i2 Newsletters</p>
-        <p id="TB_label"><input name="subscriptions" type="checkbox" value="2" tabindex="10">i2 Events</p> 
+        <p id="TB_label"><input name="subscriptions" type="checkbox" value="2" tabindex="10">i2 Events        </p> 
         
-        <p id="TB_label"><input name="subscriptions" type="checkbox" value="3" tabindex="11">Supply Chain Leader</p> 
+    <p id="TB_label"><input name="subscriptions" type="checkbox" value="3" tabindex="11">Supply Chain Leader</p> 
         
     	<p id="TB_label"><input name="subscriptions" type="checkbox" value="4" tabindex="12">Blog Postings</p> 
+<p id="TB_label">
+        <label>*Anti-spam: What is the number when you do two plus two?</label>
+        	<input name="cd_sec" type="text" id="cd_sec" value="" size="1" maxlength="1">
+    </p>        
         	<input type="hidden" name="reference" value="non_ms">
             <input type="hidden" name="msid" value="15">
         <p id="TB_label">Notes: accurate information is essential in the approval process; work email address is required for approval</p>
         <p id="TB_label"><input type="image" src="/images/register-trans.png" alt="Submit" width="122" height="47" border="0" tabindex="13"> </p>
-
+</div> 
 <div id="processingMessage" class="hideElement" align="center">Adding Registration...</div>
 <div id="ajaxResult" class="hideElement" align="center"></div> 
-     
-    </div></form> 
+    </form> 
    
 
 
