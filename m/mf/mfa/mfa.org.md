@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622040514id_/http%3A//www.mfa.org/about/index.asp%3Fkey%3D3149) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021185159id_/http%3A//www.mfa.org/about/index.asp%3Fkey%3D3149) for the most accurate reproduction.*
 
 # Museum of Fine Arts, Boston: Privacy Policy
 
-| [](https://web.archive.org/web/20100622040514id_/http%3A//www.mfa.org/about/index.asp)  
+| [](https://web.archive.org/web/20101021185159id_/http%3A//www.mfa.org/about/index.asp)  
 ---  
 [The New MFA](https://web.archive.org/thenewmfa)  
 [Message from the Director](https://web.archive.org/about/index.asp?key=4146)  
@@ -100,6 +100,6 @@ Please note that MFA may revise its privacy policy at any time, without notice, 
   
 8\. MFA’s Contact Information for Privacy Questions  
  _Contact the MFA_  
-Send your questions, comments, or concerns about our privacy policy or any other aspect of our Web site to [webmaster@mfa.org](mailto:webmaster@mfa.org).  
+[E-mail us](http://www.mfa.org/about/index.asp?key=52) your questions, comments, or concerns about our privacy policy or any other aspect of our Web site.  
   
 |  |  | 
