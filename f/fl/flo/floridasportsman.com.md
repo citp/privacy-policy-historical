@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridasportsman.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116075209id_/http%3A//www.intermediaoutdoors.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridasportsman.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021120335id_/http%3A//www.intermediaoutdoors.com/privacy_policy) for the most accurate reproduction.*
 
 # Intermedia Outdoors Privacy Policy
 
