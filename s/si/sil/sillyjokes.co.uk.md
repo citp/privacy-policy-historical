@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the sillyjokes.co.uk privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111033111id_/http%3A//www.sillyjokes.co.uk/essentials/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sillyjokes.co.uk privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021020439id_/http%3A//www.sillyjokes.co.uk/essentials/privacy.html) for the most accurate reproduction.*
 
 # SillyJokes.co.uk's Privacy Policy
 
-| 
+[](https://web.archive.org/web/20101021020439id_/http%3A//www.sillyjokes.co.uk/index.html "SillyJokes.co.uk Home Page") | 
 
 ## Privacy Policy  
   
 ---|---  
   
+
+
 ### Summary
 
   * We will not send you unsolicited messages. 
@@ -32,8 +34,7 @@ SillyJokes.co.uk website occassionally uses Cookies to track visitors.
 
 If you would like to opt-out of any of our mailing lists or you have any other privacy concerns please use our [Privacy Contact](mailto:enquiries@sillyjokes.co.uk).
 
-|  |  [](https://www.mcafeesecure.com/RatingVerify?ref=www.sillyjokes.co.uk)  
----|---|---  
-  
-Copyright © 1999 - 2009 SillyJokes Ltd  
-Last Modified October 2009 
+[Home](https://web.archive.org/web/20101021020439id_/http%3A//www.sillyjokes.co.uk/index.html "SillyJokes.co.uk Home Page")
+
+Copyright © 1999 - 2010 SillyJokes Ltd  
+Last Modified October 2010 
