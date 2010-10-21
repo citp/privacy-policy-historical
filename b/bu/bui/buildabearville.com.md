@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildabearville.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626092022id_/http%3A//www.buildabear.com/aboutus/ourcompany/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabearville.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021194615id_/http%3A//www.buildabear.com/aboutus/ourcompany/privacy.aspx%3Fsc_hpan%3Dfooter%26sc_hpdr%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Build-A-Bear Workshop-United States: Privacy Policy
 
