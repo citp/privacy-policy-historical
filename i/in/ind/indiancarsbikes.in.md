@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancarsbikes.in privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618011725id_/http%3A//www.indiancarsbikes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancarsbikes.in privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022103542id_/http%3A//www.indiancarsbikes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Indian Cars & Motorcycles Blog
 
