@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622001617id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022020747id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
 
 # Crankyape.com Bank repo rvs, motorcycles, snowmobiles, atvs, boats, trucks, trailers, go karts, jet skis, sleds, fourwheelers, trailers, motorhomes, rvs.
 
