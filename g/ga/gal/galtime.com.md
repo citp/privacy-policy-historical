@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galtime.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526150136id_/http%3A//galtime.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galtime.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022100546id_/http%3A//www.galtime.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GalTime
 
