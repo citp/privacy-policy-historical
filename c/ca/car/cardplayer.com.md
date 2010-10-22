@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardplayer.com privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906113858id_/http%3A//www.cardplayer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardplayer.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022063848id_/http%3A//www.cardplayer.com/privacy) for the most accurate reproduction.*
 
 # CardPlayer.com Privacy Policy - CardPlayer.com
 
