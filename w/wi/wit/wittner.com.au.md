@@ -1,21 +1,45 @@
-> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513001352id_/http%3A//wittner.com.au/shop/Content.aspx%3Fpageid%3D233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023162933id_/https%3A//www.wittner.com.au/help/privacy) for the most accurate reproduction.*
 
-# Wittner Shoes - Watch video
+# Help - Privacy | Wittner Shoes
 
-Wittner Shoes is committed to ensuring the confidentiality and privacy of our customers' personal information. We are guided by the Australian National Privacy Principles as contained in the Privacy Act 1998.
+Wittner Shoes is committed to ensuring the confidentiality and privacy of our customers' personal information. Our privacy terms comply with the Australian National Privacy Principles as detailed in the Privacy Act 1988.
 
-We will only use and disclose your personal information for the primary purposes of our business as a retailer when you have given express consent to do so.
+We acknowledge that providing personal information is an act of trust and we take this very seriously. We will only use and disclose your personal information for the primary purposes of our business as a retailer when you have given consent to do so.
 
-We will only collect personal information if it is necessary for us to carry out our functions and activities as a retailer. We will collect such information by lawful and fair means and in an unobtrusive way. You may provide us with personal information about yourself or others each time you contact us by phone, fax, letter, or email. We need to use this information to provide you with our services and/or products. This information will be used and managed as follows:
+**COLLECTION OF PERSONAL INFORMATION**
 
-When you consent to disclosure for marketing purposes, we will only use such information to market to you products and services for the sole purpose of providing the service you have requested.
+We will only collect personal information if it is necessary for us to carry out our functions as a retailer. We will collect such information by lawful and fair means and in an unobtrusive way.
 
-We may utilize the services of contractors from time to time for the purposes of marketing and undertaking services as promoted by Wittner. Your personal information will be provided to these businesses, for the purposes of ensuring that our services are marketed to you or to enable a service to be provided to you. We will not otherwise provide your personal information to a third party without your approval.
+You may provide us with personal information about yourself each time you contact us via phone, email or fax or when processing an online order or subscribing to our VIP club. We may collect information such as; your name, contact details, some personal details and any other information you supply to us.
 
-The personal information you have provided to us with will be kept confidential and secure and will not be accessible for unauthorised use, amendment, or disclosure. Only Wittner staff that have been trained on our privacy policy will have access to such information. You are able to access the personal information we hold about you at any time by contacting our Privacy Officer.
+We obtain this information to provide you with information about our products and services and to also better understand our customers.
 
-We will reasonably attempt to ensure that the personal information we hold about you is accurate, up to date, and complete. To assist us to do this please provide us with the correct information and inform us if your details have changed. This can be done by providing us with details of any changes to your information by fax or e-mail, or via the website. (Refer contact details)
+**SECURITY AND ACCESS OF PERSONAL INFORMATION**
 
-If you are concerned with the way Wittner has handled your personal information, please contact our Privacy Officer with your complaint. If we have not handled your personal information in an appropriate way we will take steps to remedy your concerns promptly.
+The personal information which you provide to us will be kept confidential and secure and will not be accessible for unauthorised use, amendment or disclosure. Our staff are employed on the basis that they must protect the information you disclose. You can access the personal information that we hold about you, at any time, by contacting our Privacy Officer.
 
-Information about us can be obtained by logging on to our website www.wittner.com.au or by contacting our Privacy Officer on 1300 13SHOE (7463) or by facsimile on 03 9428 1933 or by e-mail on [sales@wittner.com.au](mailto:sales@wittner.com.au)
+**ENSURING ACCURACY OF THE PERSONAL INFORMATION WE HOLD**
+
+We will reasonably attempt to ensure that the personal information that we hold about you is accurate and up to date. If your details have changed please inform us with the correct information, so that we may update it. If you need to provide us with any changes to your details, please email sales@wittner.com.au, or you can update them via the website. (Refer Contact Details)
+
+**DEALING WITH WITTNER ONLINE**
+
+Protecting the information that you disclose via the online ordering system is a priority at Wittner. When processing an online order, please feel comfortable that your information is secure. The website uses Secure Sockets Layer (SSL), an electronic security system, designed to protect your contact and payment details. All information that you enter in the Wittner Online store is encrypted with 128 bit encryption to secure your details.
+
+**WITTNER PRIVACY COMPLAINT PROCESS**
+
+If you are concerned with the way that Wittner has handled your personal information, please contact our Privacy Officer with your complaint. We will take steps to promptly remedy any concerns. ****
+
+**CONTACT DETAILS**
+
+Privacy Officer: 1300 137 463  
+Facsimile: 03 9428 1933  
+Email: [sales@wittner.com.au](mailto:sales@wittner.com.au)
+
+**TERMS OF USE**
+
+Wittner is owned by Wittner Australia Pty Ltd ACN 005 014 531
+
+The material detailed on this website is copyright © 2010. Therefore all persons accessing the site agree to and accept the terms and conditions and its privacy.
+
+The terms and conditions of the website may be reviewed and are subject to change. Therefore those accessing the site after such changes accept the revised terms and conditions.
