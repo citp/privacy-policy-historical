@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornady.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020025id_/http%3A//www.hornady.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornady.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024012709id_/http%3A//www.hornady.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hornady Manufacturing, Inc
 
