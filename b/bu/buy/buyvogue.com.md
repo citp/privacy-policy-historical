@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the buyvogue.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004730id_/http%3A//www.buyvogue.com/page.html%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyvogue.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023182017id_/http%3A//www.buyvogue.com/page.html%3Fid%3D5) for the most accurate reproduction.*
 
 # Privacy Policy - Prada Sneakers, Prada Shoes, Gucci Sneakers, Gucci Shoes, Dolce Gabbana, Versace at BuyVogue - Online Fashion Store
 
 [  
-](http://www.buyvogue.com/prada-americas-cup-black-silver-men-sneakers-p-343.html)
+](http://www.buyvogue.com/gucci-gold-brown-women-sneakers-p-304.html)
 
-I have just bought from here and I tell you, these are actua...
+These are official! These go perfect with the Gucci gold bel...
 
   
 
