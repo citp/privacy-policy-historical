@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muse.mu privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322235733id_/http%3A//muse.mu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muse.mu privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023182404id_/http%3A//muse.mu/privacy-policy) for the most accurate reproduction.*
 
 # MUSE
 
