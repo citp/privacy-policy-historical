@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpserve.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529093909id_/http%3A//www.kayako.com/company/agreements/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpserve.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023185120id_/http%3A//www.kayako.com/company/agreements/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Kayako
 
