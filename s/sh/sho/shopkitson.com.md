@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004429id_/http%3A//www.shopkitson.com/index.php%3FpageId%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023232905id_/http%3A//www.shopkitson.com/index.php%3FpageId%3D7) for the most accurate reproduction.*
 
-# Kitson Trends - Shop Kitson | Kitson Boutique
+# Kitson Privacy Policy | Kitson Boutique
 
-Kitson is committed to respecting and protecting your privacy by adhering to five foundational principles: Notice, Choice, Access, Security, and Enforcement. By using our web site, you consent to the collection and use of certain information by Kitson, as set forth in this Privacy Policy. This Privacy Policy covers our treatment of Personal Information (defined below) that we collect when you are on our web site. This policy also covers our treatment of any Personal Information that our business partners, if any, share with us. This Privacy Policy only governs your use of our web site. This Privacy Policy does not apply to the practices of companies that Kitson does not own or control, or to people that Kitson does not employ or manage. 
+Kitson is committed to respecting and protecting your privacy by adhering to five foundational principles: Notice, Choice, Access, Security, and Enforcement. By using our web site, you consent to the collection and use of certain information by Kitson, as set forth in this Privacy Policy. This Privacy Policy covers our treatment of Personal Information (defined below) that we collect when you are on our web site. This policy also covers our treatment of any Personal Information that our business partners, if any, share with us. This Privacy Policy only governs your use of our web site. This Privacy Policy does not apply to the practices of companies that Kitson does not own or control, or to people that Kitson does not employ or manage.
 
 ### Children's Privacy Protection
 
@@ -15,6 +15,8 @@ Kitson provides this page to keep you informed of our Privacy Policy practices a
 ### How We Collect Personal Information
 
 Kitson collects information from its web site that could be used to identify you ("Personal Information") when you contact us for information. Such specific information is only collected via online forms and direct communications. Any other information we collect, including but not limited to browser version and operating system, do not include details that identify you and are only used for statistical analysis.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Disclosure of Personal Information
 
@@ -34,9 +36,8 @@ With respect to Kitson's employees, access to your Personal Information is restr
 
 ### Revisions to this Policy
 
-Kitson reserves the right, at our discretion, to change, modify, add, or remove portions of this Policy at any time. If we change our Privacy Policy, we will post those changes on this page so that you may become aware of what information we collect, how we use it and under what circumstances we disclose it. You should visit this page from time to time to review the then-current policy because it is binding on you. This Privacy Policy was last updated on November 22, 2003.
+Kitson reserves the right, at our discretion, to change, modify, add, or remove portions of this Policy at any time. If we change our Privacy Policy, we will post those changes on this page so that you may become aware of what information we collect, how we use it and under what circumstances we disclose it. You should visit this page from time to time to review the then-current policy because it is binding on you. This Privacy Policy was last updated on October 12, 2010.
 
 ### Contacting Kitson
 
-You can contact [Kitson](http://www.shopkitson.com/index.php?pageId=5) via e-mail to request that we update your Personal Information. If you believe that Kitson has failed to adhere to this Privacy Policy, please contact Kitson at: [info@shopkitson.com](mailto:info@shopkitson.com).  
-
+You can contact [Kitson](http://www.shopkitson.com/index.php?pageId=5) via e-mail to request that we update your Personal Information. If you believe that Kitson has failed to adhere to this Privacy Policy, please contact Kitson at: [info@shopkitson.com](mailto:info@shopkitson.com).
