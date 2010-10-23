@@ -1,88 +1,146 @@
-<!--The following is the downloaded HTML source of the oneeyeland.com privacy policy that was archived on 2010-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610190844id_/http%3A//www.oneeyeland.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oneeyeland.com privacy policy that was archived on 2010-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101023064208id_/http%3A//www.oneeyeland.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="Photography, Gallery, Professional, Amateur, Color, Black &amp; White, Digital, Exclusive, Fashion, Outdoor, Landscapes, Photojournalism, Advertising photography, Upload, ranking, Fine Art photography,Sharad haksar">
-<title>One Eyeland - The one community for creative photographers.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<link rel="stylesheet" type="text/css" href="css/default.css">
-<script type="text/javascript" src="include/js/formvalidate.js"></script>
+<meta name="Description" content="One Eyeland - Creative Photographers' Community Showcasing The World's Best Photographs.">
+
+<meta name="Keywords" content=" famous photographers,creative photographers, commercial photographer, professional photographers gallery, fashion photographers, photography, community, photographer, family, children photography, american, food potograper wild life underwater online, gallary world best digital">
+
+
+<title> Photographers - Famous - Creative - Fashion - Advertising - Photo Gallery | ONE EYELAND</title>
+
+
+<meta name="msvalidate.01" content="96A30902C326FC481E45A60D2F0CCBD0">
+
+<link rel="alternate" href="http://feeds.feedburner.com/oneeyeland/wXoU" type="application/rss+xml" title="Latest additions on oneeyeland.com">
+
+
+<!--login js-->
+<link href="css/white_theme_style.css" rel="stylesheet" type="text/css">
+<link href="loginjs/front.css" rel="stylesheet" type="text/css">
+<script src="loginjs/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+        $(document).ready(function() {
+
+            $(".signin").click(function(e) {
+				e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+				$(".signin").toggleClass("menu-open");
+            });
+
+			$("fieldset#signin_menu").mouseup(function() {
+				return false
+			});
+			$(document).mouseup(function(e) {
+				if($(e.target).parent("a.signin").length==0) {
+					$(".signin").removeClass("menu-open");
+					$("fieldset#signin_menu").hide();
+				}
+			});
+
+        });
+</script>
+<script src="loginjs/jquery.tipsy.js" type="text/javascript"></script>
+
+
+<script src="js/selectuser.js" type="text/javascript"></script>
 <script type="text/javascript" src="js/common.js"></script>
-<script type="text/javascript" src="js/ajax_navagation.js"></script>
-<script type="text/javascript" src="js/selectuser.js"></script>
-<script type="text/javascript" src="js/ajaxpost.js"></script>
+<script type="text/javascript" src="include/js/formvalidate.js"></script>
+<link rel="stylesheet" type="text/css" href="jquery/sample.css?t=1">
+	<script type="text/javascript" src="jquery/jquery.js"></script>
+	<script type="text/javascript" src="jquery/captify.tiny.js"></script>
+	<script type="text/javascript">
+	$(function(){
+		$('img.captify').captify({});
+	});
+	</script>
+	<link rel="shortcut icon" href="images/whitetheme/favicon.ico">
+	<script src="jquery/dropdown-galllerypage.js" type="text/javascript"></script></head>
+<body>
+<div id="dv_wrapper"><!--Start dv_wrapper-->
 
-
-
-<link rel="shortcut icon" href="Images/favicon.ico">
-
-<script type="text/javascript" language="javascript">
-
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-
-</script></head>
-
-<body onload="menuHighlight('mabout');">
-<div id="dv_wrapper"> <!--Start dv_wrapper-->
 <div id="dv_header"><!--Start dv_header-->
-<div class="dv_header_left"></div>
-<div class="dv_header_right"><img src="images/header_right.gif"></div>
+<div id="logo">
+<a href="index.php"><img class="oneeyelandlogo" src="images/spacer.gif" alt="oneeyeland" title="oneeyeland"></a>
+</div>
+	<script>
+	//var url=window.location.href;
 
-<div id="dvLogo"><a href="index.php"><img src="images/oneeyeland_logo.jpg" alt="photography community-creative photographers" border="0"></a></div>
-	  <div id="dvTopNav">
-		 <div class="top">
-		   <form name="memberlogin" id="memberlogin" method="post" enctype="multipart/form-data" action="#" onsubmit="return login_validate();" autocomplete="on">
-			 	 <input type="text" name="musername" id="musername" maxlength="40" size="10" class="tbox greytxt" onfocus="chkTbox(this,'Email ID','tbox focussed');" onblur="chkTbox(this,'Email ID','tbox greytxt');" value="Email ID"> <input type="password" name="mpassword" id="mpassword" class="tbox greytxt" maxlength="10" size="10" value="password" onfocus="chkTbox(this,'password','tbox focussed');" onblur="chkTbox(this,'password','tbox greytxt');"> <input type="image" src="Images/btn_eye.gif" id="btnLogin"> <a href="registration_normal.php" class="topsidemenu">REGISTER</a>  <a href="faq.php" class="topsidemenu">FAQs</a>
-				 <input type="hidden" name="imgid" value="0">
-				 <input type="hidden" name="redirect" value="index.php">
-				 <input type="hidden" name="pgrid" value="0">
-			   </form>		 </div>
-		 	 <div id="space"></div>
-		 <div class="bottom">
-	  	 	<form name="frmsearch" id="frmsearch" method="post" onsubmit="return search_homevalid();">
-			        <div class="mainmenu">
-			        		<a href="index.php" id="mhome" class="taboff">HOME</a>
-			        		<a href="aboutus.php" id="mabout" class="tabon">ABOUT US</a>
-			        				<a href="news.php" id="mnews" class="taboff">NEWS</a>
-			        				<a href="ranking.php" id="mrank" class="taboff">RANKING</a>
-			        				<a href="gallery.php" id="mgallery" class="taboff">GALLERY</a>
-			        				<a href="stock.php" id="mstock" class="taboff">STOCK</a>
-			        				<a href="top_pics.php" id="mtop_pics" class="taboff">TOP PICS</a>
-			        				<a href="photo_reps.php" id="mphoto_reps" class="taboff">PHOTO REPS</a>
-			        				<a href="picture_week.php" id="mweek_pics" class="taboff">PIC&nbsp;OF&nbsp;THE&nbsp;WEEK</a>
-			        				<a href="adv_search.php" id="adv_search" class="taboff">SEARCH</a>
-			        				</div>
-				  </form>	     </div>
-	      </div>
+	</script>
+ <fieldset id="signin_menu">
+    <form name="memberlogin" id="memberlogin" method="post" enctype="multipart/form-data" action="#" onsubmit="return login_validate();" autocomplete="on">
+
+      <input name="musername" id="musername" title="username" tabindex="4" type="text" onfocus="chkTbox(this,'Email ID','tbox focussed');" onblur="chkTbox(this,'Email ID','tbox greytxt');" value="Email ID">
+
+             <input name="mpassword" id="mpassword" title="password" tabindex="5" type="password" onfocus="chkTbox(this,'password','tbox focussed');" onblur="chkTbox(this,'password','tbox greytxt');" value="password">
+
+      <p class="remember">
+         <input type="image" src="images/whitetheme/w-signin.jpg" width="47" height="16" style="cursor:pointer;">
+       </p>
+       <p class="remember">
+<label style="padding-right:5px;"><a href="registration_normal.php" style="color:#323232;font-size:12px;"><span style="color:#323232;font-size:11px;">Register?</span></a></label>  <label style="padding-right:2px;"> <a href="login.php?rs=%3Cp+class%3D%27error%27%3E%3Cb%3EForgot+your+password%3F%3C%2Fb%3E%3Cbr%2F%3E%3Cbr%3E+Please+enter+your+email+id+below+to+retrieve+your+password.%3C%2Fp%3E"><span style="color:#323232;font-size:11px;">Forgot password?</span></a></label>
+        </p>
+<input type="hidden" name="imgid" value="">
+				 <input type="hidden" name="redirect" value="privacy_policy.php">
+				 		 <input type="hidden" name="forgot" value="forgotpassword"> <input type="hidden" name="pgrid" value=""><input type="hidden" name="page" value="">    </form>
+  </fieldset>
+  
+<div id="nav">
+<div class="top_menu">
+ 
+				 <ul class="login_holder">
+				<li><a href="login" class="signin"><img class="login" src="images/spacer.gif" alt="Login"></a></li>
+
+				<li><a href="faq.php"><img class="faqs" src="images/spacer.gif" alt="Faqs"></a></li>
+					<li><a href="partner.php"><img class="partner" src="images/spacer.gif" alt="partner"></a></li>
+				<li><a href="newsletter.php"><img class="newsletter" src="images/spacer.gif" alt="newsletter"></a></li>
+				</ul>
+								 <input type="hidden" name="redirect" value="index.php">
+								 <input type="hidden" name="pgrid" value="0">
+							   </div>
+<form name="frmsearch" id="frmsearch" method="post" onsubmit="return search_homevalid();">
+			      <ul class="main_menu white-theme-menu">
+						<li id="menu1">
+						<a href="index.php" id="mhome"><img class="menu-home" src="images/spacer.gif" alt="Home"></a>
+						</li>
+						<li id="menu2">
+						<a href="aboutus.php" id="mabout"><img class="menu-aboutus" src="images/spacer.gif" alt="About us"></a>
+						</li>
+						<li id="menu3">
+						<a href="news.php" id="mnews"><img class="menu-news" src="images/spacer.gif" alt="News"></a>
+						</li>
+						<li id="menu4">
+						<a href="ranking.php" id="mrank"><img class="menu-ranking" src="images/spacer.gif" alt="Ranking"></a>
+						</li>
+						<li id="menu5">
+						<a href="gallery.php" id="mgallery"><img class="menu-gallery" src="images/spacer.gif" alt="Gallery"></a>
+						</li>
+						<li id="menu6">
+						<a href="stock.php" id="mstock"><img class="menu-stock" src="images/spacer.gif" alt="Stock"></a>
+						</li>
+						<li id="menu7">
+						<a href="top_pics.php" id="mtop_pics"><img class="menu-toppics" src="images/spacer.gif" alt="Top Picture"></a>
+						</li>
+						<li id="menu8">
+						<a href="photo_reps.php" id="mphoto_reps"><img class="menu-photoreps" src="images/spacer.gif" alt="Photo Reps"></a>
+						</li>
+						<li id="menu9">
+						<a href="picture_week.php" id="mweek_pics"><img class="menu-picoftheweek" src="images/spacer.gif" alt="Picture of the week"></a>
+						</li>
+						<li id="menu10" style="background:none !important;">
+						<a href="adv_search.php" id="adv_search">
+						<img class="menu-search" src="images/spacer.gif" alt="Search"></a>
+						</li>
+						</ul>
+
+										  </form></div>
 </div><!--End dv_header-->
-<div id="dv_content"><!--Start dv_content-->
-<div class="c_top"><!--Start c_top-->
-</div><!--End c_top-->
-<div class="c_txt"><!--Start c_txt-->
+
+
+   <div id="dv_main"><!--Start dv_main-->
 
 <div id="dvContentPanel">
 	 <p> <i> Revision date: 24th December, 2008</i> </p>
@@ -135,36 +193,50 @@ We may update this Privacy Policy from time to time as our services change and e
 	India </p></div>
 
 
-</div><!--End c_txt-->
-</div><!--End dv_content-->
-
-<div id="dv_footer_top"><!--Start dv_footer_top-->
-<div class="f_left_img"></div>
-<div class="f_right_img"></div>
-<div class="f_txt">
-  <div id="active_txt">Active Members: <span>14141</span></div>
-   <div id="active_txt">Featured Photographers: <span>681</span></div>
-    <div id="active_txt">Submitted photos: <span>18959</span></div>
-	 <div id="active_txt"> Selected photos: <span>4318</span></div>
-	 <div id="community"><a href="http://feeds.feedburner.com/oneeyeland/wXoU"><img src="images/rss.gif" alt="rss" border="0"></a><a href="http://twitter.com/OneEyeland" target="_blank"><img style="padding-left:5px" src="images/twitter.gif" alt="twitter" border="0"></a><a href="http://www.facebook.com/pages/One-Eyeland/148552356576" target="_blank"><img style="padding-left:5px" src="images/face.gif" alt="facebook" border="0"></a> </div>
-    </div>
-</div><!--End dv_footer_top-->
-
-
-<div id="dv_footer"><!--Start dv_footer-->
-<div class="f_left_img"></div>
-<div class="f_right_img"></div>
-<div class="f_txt">
-<div class="footer_holder">
-    <p class="nav"><a href="index.php" title="photographers community ">Home</a> | <a href="aboutus.php" title="famous photographers">About Us</a> | <a href="contactus.php">Contact</a> | <a href="terms_of_service.php">Terms of Service</a> | <a href="privacy_policy.php">Privacy Policy</a> | <a href="sitemap.php">Sitemap</a> </p>
-	<p class="breadcrumb"> Copyright © 2009 Oneeyeland, Site Design and Development by <a href="http://www.1pointsize.com" target="_blank">1pointsize</a></p>
-  </div>
-
-
-</div>
-</div><!--End dv_footer-->
-
+</div><!--End dv_main-->
 </div><!--End dv_wrapper-->
+
+<div id="dv_footer" align="center">
+<div class="foot_top">
+<table width="875" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="15" align="left" valign="middle">
+   <table class="member" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="middle">Active Members:<strong>19472</strong> </td>
+    <td align="left" valign="middle">Featured Photographers:<strong>810</strong></td>
+    <td align="left" valign="middle">Submitted photos:<strong>24317</strong></td>
+    <td align="left" valign="middle">Selected photos:<strong>5320</strong></td>
+  </tr>
+</tbody></table>
+</td>
+    <td align="right" valign="middle">
+    <ul class="socialnetwork">
+   <li> <a href="http://feeds.feedburner.com/oneeyeland/wXoU" target="_blank"><img class="rss" src="images/spacer.gif" alt="rss" title="rss"></a></li>
+
+    <li><a href="http://www.facebook.com/pages/One-Eyeland/148552356576" target="_blank"><img class="facebook" src="images/spacer.gif" alt="Facebook"></a></li>
+    <li><a href="http://twitter.com/OneEyeland" target="_blank"><img class="twitter" src="images/spacer.gif" alt="Twitter"></a></li>
+    </ul>
+    </td>
+  </tr>
+</tbody></table>
+</div>
+<div class="foot_bottom">
+<table width="875" border="0" align="" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="25" align="left" valign="middle"><a class="foooter-link" href="index.php">Home</a><span>|</span><a class="foooter-link" href="aboutus.php">About Us</a><span>|</span><a class="foooter-link" href="contactus.php">Contact</a><span>|</span><a class="foooter-link" href="terms_of_service.php">Terms of Service</a><span>|</span><a class="foooter-link" href="privacy_policy.php">Privacy Policy</a><span>|</span><a class="foooter-link" href="sitemap.php">Sitemap</a></td>
+    <td align="right" valign="middle">Copyright © 2010 One Eyeland, Site Design / Development by <a href="http://www.1pointsize.com" target="_blank">1pointsize</a>
+    </td>
+  </tr>
+</tbody></table>
+</div>
+</div>
+ <script src="http://cdn.wibiya.com/Toolbars/dir_0537/Toolbar_537916/Loader_537916.js" type="text/javascript"></script>
+
+
+
+
+
 
 
 <div id="hintbox"></div></body></html>
