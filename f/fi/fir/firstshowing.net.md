@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624001245id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024193924id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « FirstShowing.net
 
