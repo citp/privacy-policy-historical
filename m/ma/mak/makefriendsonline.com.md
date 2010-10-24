@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makefriendsonline.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422000844id_/http%3A//www.makefriendsonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makefriendsonline.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024175611id_/http%3A//www.makefriendsonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # Makefriendsonline.com - Privacy
 
