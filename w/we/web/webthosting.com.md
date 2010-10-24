@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webthosting.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408114720id_/http%3A//www.webthosting.com/hosting_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webthosting.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024190719id_/http%3A//www.webthosting.com/hosting_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy, Privacy Assured - WebT Hosting
 
