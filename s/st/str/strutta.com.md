@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520012641id_/http%3A//www.strutta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024033111id_/http%3A//www.strutta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Strutta
+# Privacy Policy – Strutta
 
 Last Updated: September, 2009
 
