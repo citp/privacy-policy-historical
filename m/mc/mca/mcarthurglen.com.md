@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412164713id_/http%3A//www.mcarthurglen.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024163034id_/http%3A//www.mcarthurglen.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # McArthurGlen Privacy Policy and Data Protection
 
