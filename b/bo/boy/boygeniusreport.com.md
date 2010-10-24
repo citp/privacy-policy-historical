@@ -1,60 +1,102 @@
-> *The following text is extracted and transformed from the boygeniusreport.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027023505id_/http%3A//www.boygeniusreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boygeniusreport.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024113128id_/http%3A//www.boygeniusreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Boy Genius Report
 
 ## Privacy Policy
 
-**Boy Genius Report Privacy Policy**
+MMC’s Privacy Policy
 
-Last Updated: August 25, 2009
+Effective: June 7, 2010
 
-At BGR, we strive to ensure your information is kept safe, secure and private. To make things very clear, your information is not up to the highest bidder. No one will be contacting you from information that you have given to us!
+Mail.com Media Corporation (“MMC”) is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.
 
-This Privacy Policy has been incorporated as part of the Terms of Use (“Agreement”) found here . If you have not read the Agreement, please do so now, as it governs your use of and interaction with the web site located at http://www.boygeniusreport.com (the “Site”) owned and operated by Boy Genius Report, Inc.  (“BGR”)
+When you register for an account:
 
-**General**
+We Will:   
+1\. Collect personally identifiable (e.g. name, address) and demographic (e.g. age, gender) information about you. We will use the non-personally identifiable demographic data to serve ads (pertaining to your geographic location, age, or gender) on our Web site when you log in. The information is collected when you register for your e-mail account.
 
-Thank you for your interest in using the online information sharing service operated by BGR. Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Site. This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Site. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Site, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy. This Privacy Policy is effective as of August 10, 2009.
+2\. Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.
 
-**Usage Information We Automatically Collect.**
+3\. Give you access to review and edit your personal and demographic information while it is in our possession.
 
-We automatically collect certain information to help us understand how our users use the Site (which we will refer to in this Privacy Policy collectively as “Usage Data”). For example, each time you visit the Site we may automatically collect your IP address, browser and computer type, access time, the Web page from which you came, and the Web page(s) that you access during your visit.   
-Cookies, Web Beacons, and other user tracking tools
+4\. Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested. If you do not wish to receive these announcements simply go to the bottom of the newsletter and follow the instructions to make sure you do not receive any further notifications.
 
-We may also use cookies, (which are small amounts of data sent from a web server to your browser that are stored on your computer’s hard drive), web beacons (tiny graphics with a unique identifier, similar in function to cookies) or other technologies to keep track of your use of the Site, to tailor the Site to meet your personal needs and interests, and to improve the quality of the Site. In addition, third parties who place advertisements on the Site may also collect information through cookies to ensure that their advertising systems and technologies work properly and to allow them to track responses to their advertisements. Cookies set by these third parties are governed by the privacy policies of those third parties. Generally, The more popular commercial browsers allow you to elect not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie. Please note that if you do set your browser not to accept cookies, certain areas of our Site may not function properly.   
-Information You Choose To Submit.
+5\. Send you monthly newsletters that highlight certain e-mail features and provide you with information about additional products and services we think might be of interest to you. We will provide you with the opportunity to “opt out” of the newsletter, beginning with the initial newsletter.
 
-You can visit the Site without disclosing any further information outside of your Usage Data (which we will refer to in this Privacy Policy collectively as “Personal Information”). If, however, you wish to leave comments on the site, you are required to provide certain Personal Information (e.g., your e-mail address, name, etc.). We may use your Personal Information to fulfill your requests for products and services, to improve our services, and to contact you from time to time about us, our Site, and our products and services.
+6\. Give you the choice of “opting in” to receive third party mailings.
 
-**Our Information Sharing Practices**
+7\. Make it easy for you to unsubscribe from any MMC-owned mailing list by following directions at the bottom of any e-mail that you receive from us (unless it is vital to the operation of your account).
 
-(a) Generally. Except as otherwise described in this section of our Privacy Policy, we will never share your Usage Data or Personal Information (which we will refer to in this Privacy Policy collectively as “User Information”) with any third party without your permission.
+8\. Bundle information to better design our Web site and to share with our advertisers and partners. This aggregate information will not be used to learn anything about any particular individual.
 
-(b) Third Parties and Advertisers. From time to time, we may share your Usage Data to enable third parties to provide various services, improve your user experience, or as otherwise seen fit by BGR. We will not share any such information, however, in a manner that would enable the third party advertiser to personally identify you. This data may be shared on an individual or aggregated basis.
+9\. In developing our business, we may engage in the sale of certain assets and the company itself, or parts of it, may be sold, merged or otherwise transferred. In such transactions and changes in ownership, user information, whether personally identifiable or otherwise, may constitute one of the transferred assets. MMC will notify affected users in accordance with the procedure for changing this Privacy Policy described below.
 
-(c) Aggregated Data. From time to time, we may share aggregated User Information  with third parties. We will not share any aggregated data, however, in manner that would enable the recipient to personally identify you.
+We Won’t:
 
-(d) Other Disclosure Required By Law or To Protect Our Rights. Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any User Information: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding significant abuse of the Site’s infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to a parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy); and (5) if we are acquired by or merged with another entity.
+1\. Send you unsolicited commercial e-mail (spam).
 
-**Opt-in/Opt-Out**
+2\. Do the following, without your explicit permission;
 
-In order to receive communications from us, you are required to “opt-in” or request communications from us.  At any time you may “opt-out” of these communications by cancelling the subscription as detailed in the communications you receive. Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party to whom we were authorized to disclose your User Information prior to processing your request.   
-Security.
+i. Give anyone access to your e-mail or open or read messages in your account, unless such release is necessary to:  
+a. Satisfy any law, regulation, or legal request. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.
 
-We have implemented reasonable measures to help protect your User Information from loss, misuse, or unauthorized access or disclosure. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your User Information, we cannot guarantee its security.
+b. Conduct investigations of consumer complaints and possible breaches of law;
 
-**Links**
+c. Enforce or apply the terms of our user agreement, or
 
-The Site may contain links to other websites. Your use of any other website is governed by the terms and conditions of that website We are not responsible for the privacy practices of any such other website and urge you to review such practices prior to submitting any information to such websites.   
-Children’s Privacy.
+d. Protect the rights, property, or safety of MMC, our users, or the public.
 
-The Site is not intended for and may not be used by children under the age of 13. We do not knowingly collect information from children under the age of 13 and the Site is not intended for use by or targeted toward children under the age of 13.   
-Changes.
+3\. Share any data with outside parties that would identify a specific user (except in those circumstances listed in 2(i) above).
 
-We may update this Privacy Policy from time to time. If under any such update we make any material change to the way in which we treat your User Information, we will inform you of such change by updating the “last modified” date at the top of this document. Please check this Privacy Policy regularly to ensure you agree to its terms. We will notify you via email or by posting a “last modified date” on the Privacy Policy, or post a notice in relevant areas of the Site. Any updated version of this Privacy Policy will be effective as of the date set forth therein.
+4\. Knowingly collect any information from children under the age of 13. To find out more about the Children’s Online Privacy Protection Rule Click here
 
-**Questions**
+5\. Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.
 
-If you have any questions about this Privacy Policy, please feel free to contact us .
+6\. Contact you via e-mail or any other method to ask you for your credit card information. You should only enter this information directly into our Web site.
 
-© Boy Genius Report, Inc., 2009.
+7\. Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first.
+
+Tell-A-Friend: If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. MMC stores this information for the sole purpose of sending this one-time email.
+
+You or your friend may contact us at onlinehelp@staff.mail.com to request that we remove this information from our database.
+
+Cookies: Our Web site uses cookies for the purpose of identifying you when you access your account. This allows us to pre-populate your E-mail address on the login page and to distinguish between your Web session and that of the many other people using our service in and allow us to offer other functionalities (such as screening for age and “recognizing” you to speed up your log-in when you visit our Web site). We may also automatically collect your IP and referring Web site addresses, browser type, domain name and Web site access times (as described below). Our web-based mail service will not function unless your browser is set to accept cookies. You can turn off cookies, but that will affect your online experience.
+
+We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to <http://www.networkadvertising.org/optout_nonppii.asp>
+
+Links: Be aware that when you click on ad banners, you may be redirected to other sites not operated by MMC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
+
+General Information Collected: When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).
+
+The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
+
+Third Party Service Providers: Agents and affiliates of MMC may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by MMC. Features on the Web site that utilize third party service providers include: e-mail notification services and credit card processing. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission.
+
+From time to time we partner with third party service providers to offer additional products and services within the Web site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. These services include: dating and personals, employment services, home loans, apartment rentals and other services, all of which are purely optional for the user.
+
+Personal Information: It is the responsibility of each user to provide MMC with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account. In order to update the personal information, users may do the following:
+
+Login to the account via the Web site  
+On the top navigation bar click on “My Account”  
+Make any changes and then click ““Finish”“ to save the changes
+
+Changes to our Privacy Policy:
+
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry.. We recommend that you check the Privacy Policy when you visit our Web site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web site visitors information on material changes to this Privacy Policy.
+
+Your California Privacy Rights:
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information MMC shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: MMC, 9800 S. La Cienega Blvd, Los Angeles, CA 90301. In your request, please specify that you want a “Your MMC California Privacy Rights Notice”. Please allow at least 30 days for a response.
+
+Questions?
+
+For any questions or comments concerning MMC’s privacy policy, please write to: [PrivacyDirector@mail.com](mailto:PrivacyDirector@mail.com)
+
+Or send a letter to:  
+9800 South La Cienega Blvd.  
+Los Angeles, CA 90301  
+(310) 321-5000
+
+Law Enforcement inquiries can be directed to [LegalCompliance@corp.mail.com](mailto:LegalCompliance@corp.mail.com).
+
+All spam, UCE and general abuse issues should be directed to: [abuse@mail.com](mailto:abuse@mail.com).
