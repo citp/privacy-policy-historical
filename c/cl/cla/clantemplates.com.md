@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clantemplates.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619113906id_/http%3A//privacy.policy.clantemplates.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clantemplates.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024140139id_/http%3A//privacy.policy.clantemplates.com) for the most accurate reproduction.*
 
 # Privacy Policy - ClanTemplates
 
