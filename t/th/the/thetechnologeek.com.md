@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thetechnologeek.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608130845id_/http%3A//thetechnologeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechnologeek.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024134059id_/http%3A//thetechnologeek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - the technologeek
+
+## Privacy Policy
 
 Thank you for visiting our web site. This privacy  
 policy tells you how we use personal information  
