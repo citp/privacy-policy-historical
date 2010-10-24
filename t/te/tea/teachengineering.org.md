@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616082847id_/http%3A//www.teachengineering.org/policy_pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024224707id_/http%3A//www.teachengineering.org/policy_pp.php) for the most accurate reproduction.*
 
-# www.TeachEngineering.org: Free Curriculum for K-12
+# TeachEngineering.org - Free resources for K-12
 
 _TeachEngineering_ Digital Library Privacy Policy
 
