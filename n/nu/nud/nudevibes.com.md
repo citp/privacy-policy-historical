@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nudevibes.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624051334id_/http%3A//www.nudevibes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudevibes.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024140822id_/http%3A//www.nudevibes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Nudevibes
 
