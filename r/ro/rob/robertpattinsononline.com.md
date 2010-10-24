@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robertpattinsononline.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624033305id_/http%3A//www.robertpattinsononline.com/website/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertpattinsononline.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024025701id_/http%3A//www.robertpattinsononline.com/website/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy • ROBERT PATTINSON ONLINE • Celebrating One Year Online • Your Source for Robert Pattinson!
+# Privacy Policy « ROBERT PATTINSON ONLINE • Celebrating Two Years Online • Your Source for Robert Pattinson!
 
 Privacy Policy for RobertPattinsonOnline.com
 
