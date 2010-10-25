@@ -1,51 +1,51 @@
-> *The following text is extracted and transformed from the geoiq.com privacy policy that was archived on 2007-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070826213109id_/http%3A//www.geoiq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoiq.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025195114id_/http%3A//geoiq.com/Privacy) for the most accurate reproduction.*
 
-# FortiusOne Privacy Policy
+# Privacy | FortiusOne Visual Intelligence Solutions
 
-FortiusOne Privacy Policy
+At FortiusOne, we know that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By accessing FortiusOne website properties ("Website") (FortiusOne.com, GeoCommons.com, and any others owned by FortiusOne), or using any of the services provided through the Website you are accepting the practices outlined in this Privacy Policy.
 
-Thank you for visiting FortiusOne, Inc.’s (“FortiusOne”) Internet web sites (collectively, the “Sites”) located at the URL: www.fortiusone.com and www.geoiq.com. This Privacy Policy details certain policies implemented throughout FortiusOne governing FortiusOne’s use of personally identifiable information collected from users of the Sites and FortiusOne’s general operations.
+## What Does This Privacy Policy Cover?
 
-Although we operate internationally, our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Sites as a visitor from outside the United States, by using the Sites you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
+This Privacy Policy covers FortiusOne's treatment of personal information that FortiusOne gathers when you are on the Websites or any website owned and operated by FortiusOne, or when you use the Websites services.
 
-Privacy Policy Updates   
-Due to the Internet's rapidly evolving nature, FortiusOne may need to update this Privacy Policy from time to time. If so, FortiusOne will post its updated Privacy Policy on www.fortiusone.com and/or www.geoiq.com, as applicable, and will use reasonable efforts to include a link to the most current Privacy Policy in any emails that FortiusOne sends to you so you are always aware of what personally identifiable information we may collect and how we may use this information. FortiusOne encourages you to review this Privacy Policy regularly for any changes. Your continued use of the Sites and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
+This Privacy Policy does not apply to content you post or otherwise make available to other users or the public via the website. You acknowledge that any Website display name (if you have one) may be displayed to other users when you post content. Any content that you submit to the Website may be widely redistributed through the Internet and other media channels.
 
-  
-Information Collection and Use   
-You can generally visit the Sites without revealing any personally identifiable information about yourself. However, in certain sections of the Sites and when you provide data to our servers through our GeoIQ services, we may ask you to complete a registration form and invite you to ask us questions, provide us with feedback or request information. Due to the nature of some of these activities, we may collect personally identifiable information such as your name, address, e-mail address, phone number, password, user identification number, and code or screen name that you voluntarily transmit with your communication to us. In addition, we may transparently collect your Internet protocol (IP) address without your active disclosure. We also may collect the foregoing personally identifiable information about you from the log-in process; registration forms; web site usage; cookies, web bugs or clear gifs; product or service usage; chat or message boards; and communications initiated by us or our users via e-mail, phone or postal mail. We may use your personally identifiable information to deliver requested goods, services or information; provide notices regarding the good or services purchased by you; provide notices regarding goods or services you might want to purchase in the future; and to improve the content and general administration of these Sites and our services.
+This policy does not apply to the practices of third parties that FortiusOne does not own or control, or to individuals that FortiusOne does not employ or manage.
 
-  
-Children's Privacy   
-FortiusOne recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No personally identifiable information is collected by FortiusOne from children under the age of 13 and the Sites are not intended for children under the age of 13. FortiusOne does not target its services or the Sites to children under 13. FortiusOne does not knowingly collect personally identifiable information from children under the age of 13. 
+## Website Visitors
 
-  
-Cookies   
-We may use small text files called cookies to improve overall experience of the Sites. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you.   
-Aggregate Information   
-The Sites may track the total number of visitors to the Sites, the number of visitors to each page of the Sites, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Sites, track users’ movement and gather broad demographic information for aggregate use.   
-Disclosure 
+FortiusOne collects non-personally-identifying information including the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. FortiusOne's purpose in collecting non-personally identifying information is to better understand how the Websites visitors use each site. From time to time, FortiusOne may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and third party service agencies that we may engage to assist us. For example, we may provide your personally identifiable information to the hosting company who assists us in operating the Sites or to a third party service provider to provide other services for us in regard to the operation of the Sites. Such vendors and third party service agents shall be bound by the terms and conditions of this Privacy Policy. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to prevent harm to yourself or others. Additionally, we may disclose your personally identifiable information, in our sole discretion, to law enforcement agencies to assist in any investigation. WE DO NOT SELL YOUR DATA TO ANY THIRD PARTY.
+## Gathering of Personally-Identifying Information
 
-Links to Third Party Sites   
-The Sites may provide links to other Web Sites or resources over which FortiusOne does not have control ("External Web Sites"). Such links do not constitute an endorsement by FortiusOne of those External Web Sites. You acknowledge that FortiusOne is providing these links to you only as a convenience, and further agree that FortiusOne is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+Certain visitors to FortiusOne's websites choose to interact with the Websites in ways that require FortiusOne to gather personally-identifying information. The amount and type of information that FortiusOne gathers depends on the nature of the interaction. For example, we may ask customers who want save or upload data to register with a username and email address on the Website. Those who engage in transactions with FortiusOne may be asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, FortiusOne collects such information only insofar as is necessary or appropriate to fulfill the purpose of the customer's interaction with FortiusOne. FortiusOne does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain activities.
 
-  
-Security   
-We may employ procedural and technological measures, consistent with industry practice, to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. FortiusOne may use password protection and place internal restrictions on who in the company may access your data to help prevent unauthorized access to your personally identifiable information.
+In addition, we may combine non-personally-identifiable information with personally-identifiable information in a manner that enables us to attribute Website usage to an individual customer's computer or network. We do so, however, only for our own internal business purposes and will not share such combined data with third parties without your permission.
 
-Correction/Updating Personally Identifiable Information   
-FortiusOne provides you with the ability to review, correct and delete certain of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us, contact us:
+## Aggregated Statistics
 
-By e-mail: privacy@fortiusone.com
+FortiusOne may collect statistics which may be comprised of aggregated personally-identifying information about the behavior of visitors to its websites and customers of its services. FortiusOne may display this statistical information publicly or provide it to others. However, FortiusOne does not disclose personally-identifying information other than as described below.
 
-By mail: 1200 Eton Ct. NW, Suite 300  
-Washington D.C. 20007-3239
+## Protection of Certain Personally-Identifying Information
 
-By phone: 202-333-8557. 
+FortiusOne discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on FortiusOne's behalf or to provide services available at FortiusOne's websites and services, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using FortiusOne's websites, you consent to the transfer of such information to them. FortiusOne will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, FortiusOne discloses potentially personally-identifying and personally-identifying information only when required to do so by law, court order, or when FortiusOne believes in good faith that disclosure is reasonably necessary to protect the property or rights of FortiusOne, third parties or the public at large.
 
-If you have any questions regarding this Privacy Policy please contact us via e-mail at the address set forth above.
+## Communications
 
-This Privacy Policy was last updated: November 9, 2006  
-This Privacy Policy is effective as of: October 1, 2006
+If you are a registered member of a FortiusOne website and have supplied your email address, FortiusOne may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with FortiusOne and our products. We primarily use our corporate blog and website to communicate this type of information, so we expect to keep this type of email to a minimum. If you are a registered member of a FortiusOne website and do not wish to receive such emails, please follow the instructions included in each email sent. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. FortiusOne takes measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+## Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. FortiusOne uses cookies to help FortiusOne identify and track visitors, their usage of the Websites, and their website access preferences. FortiusOne visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using FortiusOne's websites, with the drawback that certain features of FortiusOne's websites may not function properly without the aid of cookies.
+
+## Privacy Policy Changes
+
+FortiusOne may change its Privacy Policy from time to time, and in FortiusOne's sole discretion. FortiusOne encourages visitors to frequently check this page for any changes to its Privacy Policy. If changes are made, notice will be given in the FortiusOne blog. Your continued use of our sites and services after any change in this Privacy Policy will constitute your acceptance of such change.
+
+## Questions
+
+FortiusOne's full contact information, including location, may be found on our Contact page.
+
+## Creative Commons
+
+This Privacy Policy document is derived from the privacy policy published by [http://www.swivel.com](http://www.swivel.com/ "http://www.swivel.com") and is licensed under a Creative Commons Attribution-ShareAlike 2.5 License.
