@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610220005id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025072928id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Online Speed Dating - SpeedDate.com
 
