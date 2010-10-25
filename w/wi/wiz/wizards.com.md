@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619041857id_/http%3A//www.wizards.com/Company/About.aspx%3Fx%3Dwz_company_about_privacy%26menu%3DAwards) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025113401id_/http%3A//www.wizards.com/Company/About.aspx%3Fx%3Dwz_company_about_privacy%26menu%3DAwards) for the most accurate reproduction.*
 
 # Wizards of the Coast Official Home Page - About - Privacy
 
