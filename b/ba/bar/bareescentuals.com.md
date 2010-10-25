@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306200948id_/http%3A//bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/default/CustService-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025192012id_/http%3A//bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/default/CustService-Policies) for the most accurate reproduction.*
 
 # Sites-BareEscentuals-Site
 
@@ -21,7 +21,9 @@ We may request demographic information about you (such as your age and occupatio
 
 How do we protect kid's privacy?
 
-Bare Escentuals Inc. is concerned about the safety of children when they use the internet. Our site is not intended for children under the age of 13 and we do not knowingly collect personal information from children. If you register with us and we discover that you are under 13, we will remove your personally identifiable registration information from our files. What are cookies? 
+Bare Escentuals Inc. is concerned about the safety of children when they use the internet. Our site is not intended for children under the age of 13 and we do not knowingly collect personal information from children. If you register with us and we discover that you are under 13, we will remove your personally identifiable registration information from our files. 
+
+What are cookies? 
 
 A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. We do not store personally identifiable information in your cookie. 
 
@@ -29,7 +31,18 @@ We use cookies to improve your shopping and online experience. When you visit ww
 
 How do we protect your security?
 
-Our website's security is handled by a third party service provider, who uses Secure Socket Layer 
+Our website's security is handled by a third party service provider, who uses Secure Socket Layer (SSL) technology to protect the security of your online order information. With this technology, information sent via the Internet is encrypted in a way that only Bare Escentuals can decode. Your password is also protected, so only you can access your account information. We recommend that you keep your password private and always sign-out of your account and close your browser when you are finished shopping.
+
+Changes to our Privacy Policy
+
+If we decide to make changes to the Bare Escentuals Inc. Privacy Policy, we will post the changes here. You will always know what information we gather and how we use it. If you have questions about our Privacy Policy, you may write to us at:
+
+Bare Escentuals Inc.  
+Attention: Website Customer Service  
+71 Stevenson Street, 22nd Floor  
+San Francisco, CA 94105
+
+The content of this site may not be duplicated, downloaded, modified, posted or used in any other manner other than for your personal entertainment, information, education and communication purposes, without express written permission from Bare Escentuals. All content, design and coding is protected by United States and International laws regarding intellectual property. Bare Escentuals, md formulations and the bareMinerals logo are registered trademarks and may not be used under any circumstances. Consequently, the registration of a domain name using the word bareescentuals, Bare Escentuals, md formulations or any variation thereof, as part of the domain name or URL, will be prosecuted. By using this site, you agree to the terms of our policy.
 
 ## Sales Policy
 
@@ -45,5 +58,10 @@ Bare Escentuals Beauty, Inc. has determined that its goal of establishing Bare E
   * Selling or advertising Bare Escentuals Beauty, Inc. Products for export, either directly or indirectly. 
   * Selling or advertising Bare Escentuals Beauty, Inc. Products online without prior written consent from Bare Escentuals Beauty, Inc., which Bare Escentuals Beauty, Inc. shall give solely at its own discretion. 
   * Advertising Bare Escentuals Beauty, Inc. Products for sale through any means other than personal, in-store purchases, without prior written consent from Bare Escentuals Beauty, Inc., which Bare Escentuals Beauty, Inc. shall give solely at its own discretion. Specifically, it is a violation of Bare Escentuals Beauty, Inc.'s Sales Policy to advertise Bare Escentuals Beauty, Inc. Products online where a telephone number appears, or where any other mechanism for purchasing Bare Escentuals Beauty, Inc. Products is offered, other than personal, in-store transactions. 
+  * Selling or advertising Bare Escentuals Beauty, Inc. Products in catalogues without prior written consent from Bare Escentuals Beauty, Inc., which Bare Escentuals Beauty, Inc. shall give solely in its own discretion. 
+  * Disassembling Bare Escentuals Beauty, Inc. Product kits, and selling or advertising individual Bare Escentuals Beauty, Inc. Products from disassembled kits. 
+  * Selling or advertising Bare Escentuals Beauty, Inc. Products in a manner that is inconsistent with Bare Escentuals Beauty, Inc.'s brands. 
+  * Failing to respond promptly to customer complaints. 
+  * Bare Escentuals Beauty, Inc. believes that unauthorized sales or advertising practices are likely to damage the investment that Bare Escentuals Beauty, Inc. has made in offering high-quality service and developing new products. This list is not exhaustive, and Bare Escentuals Beauty, Inc. reserves its right to exercise its own independent discretion as to the accounts with whom it will deal. 
 
 
