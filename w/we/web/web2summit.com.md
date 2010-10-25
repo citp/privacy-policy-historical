@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2summit.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625233359id_/http%3A//www.web2summit.com/web2010/public/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2summit.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025094501id_/http%3A//www.web2summit.com/web2010/public/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Web 2.0 Summit 2010 - Co-produced by UBM TechWeb & O'Reilly Conferences, November 15 - 17, 2010, San Francisco, CA
 
