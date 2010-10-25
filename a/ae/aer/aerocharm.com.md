@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the aerocharm.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131204309id_/http%3A//aerocharm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerocharm.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025081954id_/http%3A//aerocharm.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
