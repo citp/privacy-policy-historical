@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adotomi.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413074106id_/http%3A//www.adotomi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adotomi.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025070401id_/http%3A//adotomi.com/privacy) for the most accurate reproduction.*
 
 # Adotomi - We got game
 
