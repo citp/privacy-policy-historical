@@ -1,67 +1,64 @@
-> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801072014id_/http%3A//pennhealth.com/health/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026013747id_/http%3A//www.pennmedicine.org/health-system/about/organization/policies/privacy-statement.html) for the most accurate reproduction.*
 
-# University of Pennsylvania Health System - Philadelphia PA
+# Privacy Statement | About Us | University of Pennsylvania Health System | Penn Medicine
 
-The University of Pennsylvania Health System values your privacy and the confidentiality of the information you choose to share with us. We want you to use our web sites without being concerned that others will have access to your confidential information. This statement pertains only to our web sites; UPHS patients should also review our [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20090801072014id_/http%3A//pennhealth.com/health/npp.html).
+## Privacy Statement
 
-In almost all cases, you can use our web sites without sharing any personal information about yourself. The only information we learn about you is the information you voluntarily provide us.
+### Commitment to Your Privacy
 
-If you have any questions about financial transactions performed on our web sites, please view our [refund policy](https://web.archive.org/web/20090801072014id_/http%3A//pennhealth.com/health/refund.html).
+Penn Medicine values your privacy and the confidentiality of the information you choose to share. Penn Medicine wants you to use the Web sites without being concerned that others will have access to your confidential information. This statement pertains only to Penn Medicine Web sites; Penn Medicine patients should also review the [HIPAA Notice of Privacy Practices](https://web.archive.org/health-system/about/organization/policies/notice-of-privacy-practices.html "HIPAA Notice of Privacy Practices").
 
-Please take a few minutes to read our complete policy. This policy may change from time to time. Please review it periodically. 
+In almost all cases, you can use Penn Medicine's Web sites without sharing any personal information about yourself. The only information Penn learns about you is the information you voluntarily provide.
+
+If you have any questions about financial transactions performed on Penn Medicine's Web sites, please view the [refund policy](https://web.archive.org/health-system/about/organization/policies/refund-policy.html "Refund policy"). Please take a few minutes to read the complete policy. This policy may change from time to time. Please review it periodically.
 
 This statement is not intended to, and does not create, any contractual or other legal rights on behalf of any party. If you have any questions about this statement, please email [askuphs@uphs.upenn.edu](mailto:askuphs@uphs.upenn.edu).
 
-**UPHS online privacy principles**
+### Penn Medicine Online Privacy Principles
 
-  1. UPHS keeps confidential any information we collect through UPHS web sites.  
-
-  2. We do not use cookies or other technologies to track identifiable information about users.  
-
-  3. We will not send you email newsletters or other electronic communications about services, programs or web site features unless you ask to receive them.  
-
-  4. We will tell you if the information you provide us is being submitted through a secure or unsecured transfer.  
-
-  5. Sending email directly to an email address found on the UPHS web site is not secure. We do not recommend using unsecure email to communicate sensitive personal health information to anyone.  
-
-  6. We provide links to other web sites that may have privacy statements that are different from ours.  
-
-  7. We do not share any individual data gathered online with people outside of UPHS unless you specifically authorize us to share your information or unless it is required by law.  
-
-  8. This web site is intended for use by people age 13 or older.
+  1. Penn Medicine keeps confidential any information collected through Penn Medicine Web sites.
+  2. Penn Medicine does not use cookies or other technologies to track identifiable information about users.
+  3. Penn Medicine will not send you email newsletters or other electronic communications about services, programs or Web site features unless you ask to receive them.
+  4. Penn Medicine will tell you if the information you provide is being submitted through a secure or unsecured transfer.
+  5. Sending email directly to an email address found on a Penn Medicine Web site is not secure. Penn does not recommend using unsecure email to communicate sensitive personal health information to anyone.
+  6. Penn Medicine provides links to other Web sites that may have privacy statements that are different from Penn Medicine's.
+  7. Penn Medicine does not share any individual data gathered online with people outside of Penn Medicine unless you specifically authorize to share your information or unless it is required by law.
+  8. This Web site is intended for use by people age 13 or older.
 
 
 
-* * *
+**1\. Penn Medicine keeps confidential any information collected through Penn Medicine Web sites.**  
+Penn keeps confidential any personal information that you provide. This information includes your name, postal and email addresses, telephone number and other information you share. The personal information provided is stored in a secure location, and only authorized people are able to access it. Penn uses your data only to provide the information or services you request, answer your questions and determine what information Penn should develop next for the Web site.
 
-**1\. UPHS keeps confidential any information we collect through UPHS web sites.  
-**We keep confidential any personal information that you provide to us. This information includes your name, postal and email addresses, telephone number and other information you share with us. The personal information you provide is stored in a secure location, and only authorized people are able to access it. We use your data only to provide the information or services you request, answer your questions and determine what information we should develop next for the web site.
+**2\. Penn Medicine does not use cookies or other technologies to track identifiable information about users.**  
+Penn Medicine computer systems are not configured to track, collect or distribute personal or identifiable information about the people who visit Penn Web sites. Penn does not automatically gather individual names, email addresses or other individually identifiable information.
 
-**2\. We do not use cookies or other technologies to track identifiable information about users.**  
-Our computer system is not configured to track, collect or distribute personal or identifiable information about the people who visit our web sites. We do not automatically gather individual names, email addresses or other individually identifiable information. 
+Penn Medicine Web sites gather information about visits to the pages that live on Penn's servers. Penn maintains statistics that show the total number of visitors to Penn's Web sites, requests received for pages on the Web sites and what domains or Internet service providers those requests come from (such as aol.com). Penn uses this information internally to improve services. Although these statistics may be provided to others, they do not contain, and cannot be used to obtain, personal information about any individual Web site user.
 
-UPHS web sites gather information about visits to the pages on our servers. We maintain statistics that show the total number of visitors to our web sites, requests we receive for pages on our web sites and what domains or Internet service providers those requests come from (such as aol.com). We use this information internally to improve our services. Although these statististics may be provided to others, they do not contain, and cannot be used to obtain, personal information about any individual web site user. 
+**3\. Penn Medicine will not send you email newsletters or other electronic communications about services, programs or Web site features unless you ask to receive them.**  
+You can choose whether or not to receive email communications from Penn Medicine. We will not send you email unless you've requested it. On every email message we send, we include instructions on how to unsubscribe from our email list. If you'd like to be removed from an email list, send an email message to [askuphs@uphs.upenn.edu](mailto:askuphs@uphs.upenn.edu).
 
-**3\. We will not send you email newsletters or other electronic communications about services, programs or web site features unless you ask to receive them.  
-** You can choose whether or not to receive email communications from UPHS. We will not send you email unless you've requested it. On every email message we send, we include instructions on how to unsubscribe from our email list. If you'd like to be removed from an email list, send an email message to [askuphs@uphs.upenn.edu](mailto:askuphs@uphs.upenn.edu).
+**4\. Penn Medicine will tell you if any information you provide is being submitted through secure or unsecured transfer.**  
+To help you use or learn more about Penn Medicine's services and programs, various contact forms have been posted throughout Penn Medicine's Web sites. To use these forms to contact Penn or ask Penn to contact you, you will need to complete the fields of information requested. The information you provide is transferred electronically to the person or people who can assist you with your request.
 
-**4\. UPHS will tell you if any information you provide us is being submitting through secure or unsecured transfer.  
-**To help you use or learn more about UPHS's services and programs, we have posted various contact forms throughout UPHS web sites. To use these forms to contact us or ask us to contact you, you will need to complete the fields of information requested. The information you provide is transferred electronically to the person or people who can assist you with your request.
+If Penn Medicine offers secure technology, such as encryption, for you to transfer requested information to Penn Medicine, it will say so on the page.
 
-If UPHS offers secure technology, such as encryption, for you to transfer requested information to UPHS, we will say so on the page.
+If Penn Medicine does not offer encryption or a secure transmission for a particular request form, it will say so. Be aware that unsecured information transferred over the Internet is similar to a postcard being sent through the mail. It is recommended that you do not send sensitive personal health information to Penn Medicine or anyone else using unsecured means. Should you choose to supply confidential information in this manner, you do so at your own risk.
 
-If we do not offer encryption or a secure transmission for a particular request form, we will say so. Be aware that unsecured information transferred over the Internet is similar to a postcard being sent through the mail. We recommend that you do not send sensitive personal health information to UPHS or anyone else using unsecured means. Should you choose to supply confidential information in this manner, you do so at your own risk.
+Information received through a contact form is only shared with people who can assist in answering your questions or resolving your concerns.
 
-Information we receive through contact forms is only shared with people who can assist in answering your questions or resolving your concerns.
+**5\. Sending email directly to an email address found on a Penn Medicine Web site is not secure.**  
+Again, unsecured information transferred over the Internet is similar to a postcard being sent through the mail. It is recommended that you do not send sensitive personal health information to Penn Medicine or anyone else using unsecured means. Should you choose to supply confidential information in this manner, you do so at your own risk.
 
-**5\. Sending email directly to an email address found on the UPHS web site is not secure.  
-**Again, unsecured information transferred over the Internet is similar to a postcard being sent through the mail. We recommend that you do not send sensitive personal health information to UPHS or anyone else using unsecured means. Should you choose to supply confidential information in this manner, you do so at your own risk.
+**6\. Penn Medicine provides links to other Web sites that may have privacy statements that are different from Penn Medicine's.**  
+Penn Medicine's Web sites contain links to third party Web sites that are not affiliated with Penn Medicine. Penn Medicine is not responsible for the content or privacy statements of those Web sites. If you are asked to supply personal information to those Web sites, we suggest you read carefully through the privacy statements of those Web sites.
 
-**6\. We provide links to other web sites that may have privacy statements that are different from ours.  
-**Our web sites contain links to third party web sites that are not affiliated with UPHS. UPHS is not responsible for the content or privacy statements of those web sites. If you are asked to supply personal information to those web sites, we suggest you read carefully those web sites' privacy statements. 
+**7\. We do not share any individual data gathered online with people outside of Penn Medicine unless you specifically authorize to share your information or unless it is required by law.**  
+In those instances where Penn Medicine needs to share information with third parties to make your medical care or treatment more efficient, Penn Medicine will specifically ask for your authorization, exception in emergency circumstances or when required to do so by law.
 
-**7.We do not share any individual data gathered online with people outside of UPHS unless you specifically authorize us to share your information or unless it is required by law.  
-**In those instances where we need to share information with third parties to make your medical care or treatment more efficient, we will specifically ask for your authorization, exception in emergency circumstances or when we are required to do so by law. 
+**8\. This Web site is intended for use by people age 13 or older.**  
+If you are younger than 13, you should get permission from your parents or guardians to use this Web site. And, if you are under 13, you should not submit information to this Web site. Instead, ask your parent or guardian to submit information on your behalf.
 
-**8.This web site is intended for use by people age 13 or older.**  
-If you are younger than 13, you should get permission from your parents or guardians to use this web site. And, if you are under 13, you should not submit information to this web site. Instead, ask your parent or guardian to submit information on your behalf. 
+To Top
+
+[Need an appointment? Request one online](https://secure.pennhealth.com/request-appointment/ "Request an appointment using our online request form") 24 hours/day, 7 days/week or call 800-789-PENN (7366) to speak to a referral counselor. 
