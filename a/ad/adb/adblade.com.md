@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210065941id_/http%3A//www.adblade.com/%3Fsection%3Ddoc%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025070551id_/http%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
 
-# Adblade – Privacy Policy
+# Adblade - Privacy Policy
 
 **Overview**   
 Adblade.com and its network of owned and partnered publishers ("Adblade") places importance on the privacy of our clients and their businesses. We adhere to the policies regarding privacy and security outlined below. If you have any questions, comments or concerns, please do not hesitate to contact us at _[privacy@Adblade.com](mailto:privacy@adblade.com)_. Please familiarize yourself with the below sections that are applicable to you. **Ad Serving**
