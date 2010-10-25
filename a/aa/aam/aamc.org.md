@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190900id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025080134id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
 
 # AAMC Privacy Notice
 
@@ -102,7 +102,7 @@ Electronic Residency Application Service (ERAS®)
 
 | 
 
-[AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data](https://web.archive.org/students/eras/policies/erasdatapolicy.pdf) _(PDF)_  
+[AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data](https://web.archive.org/programs/eras/policies/pdf/eras_2011_datapolicy.pdf) _(PDF)_  
   
 Faculty Roster
 
