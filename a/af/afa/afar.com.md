@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afar.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603030610id_/http%3A//www.afar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afar.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025070239id_/http%3A//afar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AFAR Media
 
