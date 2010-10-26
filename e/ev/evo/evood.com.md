@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evood.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625235412id_/http%3A//www.evood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evood.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026143155id_/http%3A//www.evood.com/privacy-policy) for the most accurate reproduction.*
 
-# Evood.com – Technology news broadcasting / Privacy Policy
+# Privacy Policy | Evood.com – Technology news broadcasting
 
 **www.evood.com – Privacy Policy**
 
