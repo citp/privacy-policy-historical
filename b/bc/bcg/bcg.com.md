@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531055211id_/http%3A//www.bcg.com/popups/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026031512id_/http%3A//www.bcg.com/popups/privacy.aspx) for the most accurate reproduction.*
 
 # BCG - Privacy
 
@@ -6,7 +6,7 @@
 
 **Introduction**
 
-The Boston Consulting Group and its affiliates ("BCG") understands that your privacy is important to you. BCG is strongly committed to protecting your privacy and the personal information that you may provide as you access and use the materials on BCG.com (the "Site"), including the subscription pages of the Site. In this written Privacy Policy, BCG describes the scope and breadth of our commitment to privacy. BCG may, in its discretion, amend this Privacy Policy from time to time. Any material changes to our policy will be reflected on this page, so that you remain informed about the information we collect and how we use it. By exploring and using this Site, and by submitting information as you use this Site, you agree to BCG's use of such information as described herein. This Site may contain links to external sites, which sites are not governed by this privacy policy, and BCG does not take responsibility for the privacy practices of any third party sites to which we link. We encourage you to review the privacy policies of any such sites before you submit information there.
+The Boston Consulting Group ("BCG") understands that your privacy is important to you. BCG is strongly committed to protecting your privacy and the personal information that you may provide as you access and use the materials on BCG.com (the "Site"), including the subscription pages of the Site. In this written Privacy Policy, BCG describes the scope and breadth of our commitment to privacy. BCG may, in its discretion, amend this Privacy Policy from time to time. Any material changes to our policy will be reflected on this page, so that you remain informed about the information we collect and how we use it. By exploring and using this Site, and by submitting information as you use this Site, you agree to BCG's use of such information as described herein. This Site may contain links to external sites, which sites are not governed by this privacy policy, and BCG does not take responsibility for the privacy practices of any third party sites to which we link. We encourage you to review the privacy policies of any such sites before you submit information there.
 
  **Information That We Collect, and How We Use It**
 
