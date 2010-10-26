@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbooth.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620061625id_/http%3A//www.clickbooth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbooth.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026184308id_/http%3A//www.clickbooth.com/privacy.html) for the most accurate reproduction.*
 
 # Clickbooth Publisher Affiliate Network and CPA Network
 
