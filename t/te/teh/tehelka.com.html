@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tehelka.com privacy policy that was archived on 2010-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100210102735id_/http%3A//www.tehelka.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tehelka.com privacy policy that was archived on 2010-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101026042118id_/http%3A//www.tehelka.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>Tehelka  :: Free. Fair. Fearless</title>
 
@@ -20,234 +20,132 @@
 <body topmargin="0" leftmargin="0" marginwidth="0" onload="DisplayNews()">
 <table width="1004" border="0" cellpadding="0" cellspacing="0" align="center">  
   <tbody><tr>    
-    <td><!--include file="../conn.asp"-->
-<!-- dt=session("issdat") -->
-
-<style type="text/css">
-<!--
-@import url(tehelka.css);
-@import url(newtehelka.css);
--->
-</style>
-
-<script language="javascript" type="text/javascript">
-/////this is ticker code
-
-NewsDelay=10000		//Time each story is displayed for
-NewsFadeDelay=100	//Time taken to fade from one story to the next
-NewsFont='Georgia'	//Ticket font family
-NewsFontSize='2'	//Ticket font size
-//NewsTextColor=new Array("#000000","#111111","#222222","#333333","#444444","#555555","#666666","#777777","#888888","#999999","#aaaaaa","#bbbbbb","#cccccc","#dddddd","#eeeeee","#ffffff")
-
-NewsTextColor=new Array("#c9e1ff", "#004175")
-
-NewsStory=0		//Working Variable
-LastNewsStory=0		//Working Variable
-NewsColor=0		//Working Variable
-
-NewsArray=new Array('' , '')
-
-//NewsArray=new Array(
-	//'&#8220; Tehelka is one of the best sources of news in India&#8230; &#8221; <b>&#8212; The Guardian</b>' , 'URL',
-	//'&#8220;  Our future is involved with the success of Tehelka. It must win the battle. &#8221; <br><div align=right><b>&#8212; Khushwant Singh</b></div>' , 'URL',
-	//'&#8220;  Which patriotic Indian can fail to be on Tehelka&#8217;s side? &#8221; <b>&#8212; Vir Sanghvi</b>' , 'URL',
-	//'&#8220;  I associate Tehelka with cleanliness. It may start a movement not just in journalism, but in public life &#8230; &#8221; <b>&#8212; Kuldip Nayyar</b>' , 'URL',
-	//'&#8220;  &#8230;edgy, in-depth, hard-hitting&#8230;  perhaps Tehelka is the only weekly that provides stories that need more than a cursory read &#8230; &#8221; <b>&#8212; Shobhaa De </b>' , 'URL',
-	//'&#8220;  Tehelka has suffered for doing its democratic duty. They are martyrs in the cause of Indian democracy. I hope they are rewarded for it &#8230; &#8221; <br><div align=right><b>&#8212; Ram Jethmalani</b></div>' , 'URL',
-	//'&#8220;  &#8230;with Tehelka, we have crossed a barrier in journalism. And what journalism ought to be &#8230; &#8221; <b>&#8212; Arundhati Roy </b>' , 'URL',				
-	//'&#8220; Tehelka has invested heavily in hard hitting investigative reporting and has pushed the boundaries of editorial content further than most&#8230; &#8221; <b>&#8212; BBC</b>' , 'URL',
-	//'&#8220; Tehelka is a delightful Urdu word that refers to the special kind of tumult provoked by a daring act. Tehelka has certainly lived up to its name&#8230; &#8221; <br><div align=right><b>&#8212; Time</b></div>' , 'URL',	
-	//'')
-
-
-    function DisplayNews(){
-    	LastNewsStory=NewsStory
-    	NewsStory++; if( NewsStory>(Math.floor(NewsArray.length/2)) ){NewsStory=1}
-    	FadeNews()
-}
-
-
-    function FadeNews(){
-    	if (NewsColor<(NewsTextColor.length)/2){var NewsLayer=1}
-    	else {var NewsLayer=2}
-    	//Old Story
-
-
-        	if (LastNewsStory>0){
-			// with url
-        	//var NewsText = '<A href="'+ NewsArray[(LastNewsStory-1)*2+1] +'" style=text-decoration:none;><FONT color="'+ NewsTextColor[NewsColor] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(LastNewsStory-1)*2] +'</FONT></A>'
-			// without url
-			var NewsText = '<FONT color="'+ NewsTextColor[NewsColor] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(LastNewsStory-1)*2] +'</FONT>'
-				
-        			if(document.layers){ document.eval('newslayer'+(3-NewsLayer)).document.write(NewsText); document.eval('newslayer'+(3-NewsLayer)).document.close() }//NN4
-        			if(document.all){ eval('newslayer'+(3-NewsLayer)).innerHTML=NewsText }//IE
-        			if(!document.all && document.getElementById){ document.getElementById('newslayer'+(3-NewsLayer)).innerHTML=NewsText }//NN6
-        	}
-        	//New Story
-			// with url
-        	//	var NewsText = '<A href="'+ NewsArray[(NewsStory-1)*2+1] +'"  style=text-decoration:none;><FONT color="'+ NewsTextColor[(NewsTextColor.length)-NewsColor-1] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(NewsStory-1)*2] +'</FONT></A>'
-			
-			// without url
-				var NewsText = '<FONT color="'+ NewsTextColor[(NewsTextColor.length)-NewsColor-1] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(NewsStory-1)*2] +'</FONT>'
-			
-			
-        			if(document.layers){ document.eval('newslayer'+NewsLayer).document.write(NewsText); document.eval('newslayer'+NewsLayer).document.close() }//NN4
-        			if(document.all){ eval('newslayer'+NewsLayer).innerHTML=NewsText }//IE
-        			if(!document.all && document.getElementById){ document.getElementById('newslayer'+NewsLayer).innerHTML=NewsText; }//NN6
-        	NewsColor++
-        	if (NewsColor>=NewsTextColor.length){ NewsColor=0; setTimeout('DisplayNews()',NewsDelay) }
-        	else { setTimeout('FadeNews()',NewsFadeDelay/NewsTextColor.length) }
-    }
-
-
-////dummy code
-
-</script>
-
-
-
-
-<script language="javascript" type="text/javascript">
-
+    <td><script language="javascript" type="text/javascript">
 function topdat()
 {
 var d = new Date()
 var monthname=new Array ("January","February","March","April","May","June","July","August","September","October","November","December")
 var weekday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
-document.write("<span class=toplogodate>"+weekday[d.getDay()]+", "+d.getDate()+" "+monthname[d.getMonth()] +" "+d.getFullYear()+"</span>")	
+//document.write("<span class=toplogodate>"+weekday[d.getDay()]+", "+d.getDate()+" "+monthname[d.getMonth()] +" "+d.getFullYear()+"</span>")	
+
+document.write("<span class=toplogodate>"+d.getDate()+" "+monthname[d.getMonth()] +" "+d.getFullYear()+","+weekday[d.getDay()]+"</span>")	
+
 }
-
-
-
-	  function erase()
-	  	{
-		if( document.frm.q.value == "Search Tehelka" )
-			{
-			document.frm.q.value = "";
-			//document.Frm_India.nam.value== ""
-			document.frm.q.focus();		
-			}
-		}
-		
-		
-
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-//-->
 </script>
 
+<style type="text/css">
+.btn
+{
+background-image:url(h_img/sb.jpg);
+background-repeat:no-repeat;
+background-color:#FFFFFF;
+width:23px;
+height:22px;
+border:0;
+}
+.bak
+{
+background-image:url(h_img/bak.jpg);
+background-repeat:repeat-x;
+background-color:#FFFFFF;
+color:#3399FF;
+}
+.dt
+{
+text-transform:uppercase;
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#666666;
+text-decoration:none;
+}
 
 
 
+</style>
 
-
-
-<div id="newslayer1" style="position:absolute;  top:20; width:0; height:0; visibility:visible;"><font color="#004175" face="Georgia" size="2"></font></div>
-<div id="newslayer2" style="position:absolute; top:20; width:0; height:0; visibility:visible;"><font color="#c9e1ff" face="Georgia" size="2"></font></div>
-
-<table width="1004" border="0" cellspacing="0" cellpadding="0">		
-		<tbody><tr>
-			<td width="5"></td>           
-		    <td width="994" height="5">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">														 
-							   <tbody><tr>
-								<td colspan="2" valign="top">
-								
-								<table width="100%" border="0" cellspacing="0" cellpadding="0">
-								  <tbody><tr>											
-                                     <td><a href="http://www.tehelka.com"><img src="../../images/permanentimages/top_01.gif" border="0"></a></td>
-								    	<td> <a href="http://www.tehelka.com/home/20090328/default.asp" target="_blank"><img src="../../images/permanentimages/top_02.gif" border="0"></a></td>
-								   		<td><a href="http://www.tehelkahindi.com" target="_blank"><img src="../../images/permanentimages/top_03.gif" border="0"></a></td>
-						
-								  </tr>
-								</tbody></table>
-								
-								
-								<!--<br>
-																<table width="100%" border="0" cellspacing="0" cellpadding="0">
-								  <tr>											
-<td ><a href="http://www.tehelka.com"><img src="../../images/permanentimages/common/Tehelka_logo.gif" border="0"></a></td>
-<td  background="../../images/permanentimages/topbar_bg.gif" valign="middle"><a href="http://www.criticalfutures.org/ips/" target="_blank"><img src="../../images/permanentimages/common/summit.gif"  border="0" usemap="#Map2IPS" /></a></td>
-<td ><a href="http://www.tehelkahindi.com" target="_blank"><img src="../../images/permanentimages/common/Tehelkahindi_logo.gif" border="0"></a></td>
-									  </tr>
-								</table> -->
-								
-								</td>
-							  </tr>
-							  
-			  </tbody></table>
-		</td>
-			<td width="5"></td>
-        </tr>
-		<tr>
-			<td width="5"></td>           
-		    <td width="994" height="5"></td>
-			<td width="5"></td>
-        </tr>				
-        <tr>
-			<td width="5"></td>           
-		    <td width="994" bgcolor="#eff1d6" height="2"></td>
-			<td width="5"></td>
-        </tr>
-		<tr>
-			<td width="5"></td>           
-		    <td width="994" bgcolor="#eff1d6">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<!-- <tr><td height="5"></td></tr> -->				
-  <tbody><tr>    
-    <td width="100%" class="topbandnav" height="23">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-			<td valign="middle">&nbsp;</td>
-			<td valign="middle"><a href="/" class="topbandnav">Home</a><span class="topbandnav">&nbsp;|&nbsp;</span></td> 
-      <td height="23" valign="middle"> <a href="../../../channels/news/news_main.asp" class="topbandnav">Current  Affairs</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
-	  <td valign="middle"> <a href="../../channels/op-ed/oped_main.asp" class="topbandnav"> Opinion </a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
-	  <td valign="middle"> <a href="../../../../../channels/Business/Business_main.asp" class="topbandnav">Business</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
-	  <td valign="middle"> <a href="../../channels/crusader/crusade_main.asp" class="topbandnav">Engaged Circle</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
-	  <td valign="middle"> <a href="../../channels/Thehub/thehub_main.asp" class="topbandnav">Culture &amp; Society</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
-	  <td height="23" valign="middle"><a href="http://emagazine.tehelka.com/" target="_blank"><img src="../../images/permanentimages/eMag_nav.gif" border="0"></a></td>
-	  <td valign="middle"><span class="topbandnav">&nbsp;|&nbsp;</span><a href="../../../../../channels/Web_Specials/Web_Specials.asp" class="topbandnav">Web Specials</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
-	  <td valign="middle"> <a href="../../Interactive/" class="topbandnav">Interact</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
-	  <td valign="middle"> <a href="../../../../../archive/archive_main.asp" class="topbandnav">Archives</a></td>
-	  <td valign="middle">&nbsp;</td>
-	  <td valign="middle"><!-- Google CSE Search Box Begins  --><form id="searchbox_005188603089052683102:g-vwdvwywfc" name="frm" action="http://www.google.com/cse" style="margin: 0px; padding: 0px 0px 0px 0px;"><input type="hidden" name="cx" value="005188603089052683102:g-vwdvwywfc"><input type="hidden" name="cof" value="FORID:1"><input name="q" type="text" value="Search Tehelka" class="search" onclick="erase();">&nbsp;<input type="submit" name="sa" value="GO" class="button"></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_005188603089052683102%3Ag-vwdvwywfc"></script><!-- Google CSE Search Box Ends --></td>
-	 
-	  <td valign="middle">&nbsp;</td>
-	  </tr> 
-	  <!-- <tr><td height="5"></td></tr>  -->
-      </tbody></table>
-	  </td>
+<center>
+<table width="950" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="5" class="dt"><script type="text/javascript">topdat();</script><span class="toplogodate">31 January 2020,Friday</span></td>
+    <td colspan="3" valign="baseline" class="dt"><div align="right"> <img src="../../h_img/ra.jpg" width="13" height="22" align="absmiddle"> <a href="../../feeds/tehfeed.xml" target="_blank"><img src="../../images/permanentimages/rss_image.jpg" align="absmiddle" border="0"></a> <img src="../../h_img/ra.jpg" width="13" height="22" align="absmiddle"><a href="http://www.tehelkahindi.com/" target="_blank" class="dt">tehelkahindi.com</a> <img src="../../h_img/ra.jpg" width="13" height="22" align="absmiddle"><a href="http://www.thetehelkafoundation.org/" target="_blank" class="dt">tehelkafoundation.org</a> <img src="../../h_img/ra.jpg" width="13" height="22" align="top"> <a href="http://www.criticalfutures.org/" target="_blank" class="dt">criticalfutures.org</a> </div></td>
   </tr>
-</tbody></table></td>
-			<td width="5"></td>
-        </tr>
-				        
-		<tr> 
-		  <td width="5"></td>	
-          <td><table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
-		  <tbody><tr height="22">
-		  <td width="30%"><script type="text/javascript">topdat();</script><span class="toplogodate">Friday, 31 January 2020</span></td>
-		  <td align="right" class="subtopnavigation" width="70%"> <a href="../../../../../about/advertise.asp" class="subtopnavigation">Advertise With Us</a> |  <a href="../../feeds/tehfeed.xml" target="_blank"><img src="../../images/permanentimages/rss_image.jpg" align="absmiddle" border="0"></a> | <b>TEHELKA INITIATIVES:</b> <a href="http://www.criticalfutures.org/" class="subtopnavigation" target="_blank">Critical Futures</a> | <a href="http://www.thetehelkafoundation.org/" class="subtopnavigation" target="_blank">Tehelka Foundation</a></td>
-		  </tr>
-		  </tbody></table></td>
-		  <td width="5"></td>
-        </tr> 
-		<tr>
-			<td width="5"></td>           
-		    <td width="994" height="5"></td>
-			<td width="5"></td>
-        </tr>
-		
-</tbody></table>
+  <tr>
+    <td colspan="8"><img src="../../h_img/TopBanner_01.jpg" border="0" usemap="#MapTehelka"><img src="../../h_img/TopBanner_02.jpg"><img src="../../h_img/TopBanner_03.jpg" border="0" usemap="#Map"></td>
+  </tr>
+  
+  
+  <tr>
+    <td rowspan="2"><a href="/"><img src="../../h_img/Home_Normal.jpg" name="home" border="0" id="home" onmouseover="home.src=&quot;../../h_img/Home_RollOver.jpg&quot;" onmouseout="home.src=&quot;../../h_img/Home_Normal.jpg&quot;"></a></td>
+    <td rowspan="2"><a href="../../../channels/news/news_main.asp"><img src="../../h_img/Currentaffairs_Normal.jpg" name="current" border="0" id="current" onmouseover="current.src=&quot;../../h_img/Currentaffairs_RollOver.jpg&quot;" onmouseout="current.src=&quot;../../h_img/Currentaffairs_Normal.jpg&quot;"></a></td>
+	
+    <td rowspan="2"><a href="../../channels/op-ed/oped_main.asp"><img src="../../h_img/Opinion_Normal.jpg" name="op" border="0" id="op" onmouseover="op.src=&quot;../../h_img/Opinion_RollOver.jpg&quot;" onmouseout="op.src=&quot;../../h_img/Opinion_Normal.jpg&quot;"></a></td>
+    <td rowspan="2"><a href="../../../../../channels/Business/Business_main.asp"><img src="../../h_img/Business_Normal.jpg" name="bus" border="0" id="bus" onmouseover="bus.src=&quot;../../h_img/Business_RollOver.jpg&quot;" onmouseout="bus.src=&quot;../../h_img/Business_Normal.jpg&quot;"></a></td>
+    <td rowspan="2"><a href="../../channels/crusader/crusade_main.asp"><img src="../../h_img/Engagedcircle_Normal.jpg" name="ec" border="0" id="ec" onmouseover="ec.src=&quot;../../h_img/Engagedcircle_RollOver.jpg&quot;" onmouseout="ec.src=&quot;../../h_img/Engagedcircle_Normal.jpg&quot;"></a></td>
+    <td rowspan="2"><a href="../../channels/Thehub/thehub_main.asp"><img src="../../h_img/Culturesociety_Normal.jpg" name="cs" border="0" id="cs" onmouseover="cs.src=&quot;../../h_img/Culturesociety_RollOver.jpg&quot;" onmouseout="cs.src=&quot;../../h_img/Culturesociety_Normal.jpg&quot;"></a></td>
+    <td rowspan="2"><a href="../../../../../archive/archive_main.asp"><img src="../../h_img/Archive_Normal.jpg" name="arc" border="0" id="arc" onmouseover="arc.src=&quot;../../h_img/Archive_RollOver.jpg&quot;" onmouseout="arc.src=&quot;../../h_img/Archive_Normal.jpg&quot;"></a></td>
+    <td width="343" height="46" valign="middle" class="bak" align="center">
+	
+	
+	<form action="http://www.tehelka.com/TSearch.asp" id="cse-search-box" style="margin: 0px; padding: 0px 0px 0px 0px;">
+  <div>
+    <input type="hidden" name="cx" value="008457777601950459037:ocm6dyyosyo">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="25"> &nbsp;
+    <input type="submit" name="sa" value="Go">
+  </div>
+</form>
 
-<map name="Map2" id="Map2">
-  <area shape="rect" coords="19,21,204,78" href="http://www.tehelka.com" target="_blank">
-<area shape="rect" coords="818,20,964,79" href="http://www.tehelkahindi.com" target="_blank">
+<div align="center">
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+	
+	
+<!--	<form name="frm" action="http://www.tehelka.com/TSearch.asp" id="cse-search-box" style="margin: 0px; padding: 0px 0px 0px 0px;">
+  <div>
+    <input type="hidden" name="cx" value="002981643962166393663:acx3lenebem" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" /> &nbsp;
+    <input type="submit" name="sa" value="Go" />
+  </div>
+</form>
+
+<div align="center">
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+</div>-->
+
+	
+	<!-- Google CSE Search Box Begins  -->
+  <!--    <form id="searchbox_005188603089052683102:g-vwdvwywfc" name="frm" action="http://www.google.com/cse" STYLE="margin: 0px; padding: 0px 0px 0px 0px;">
+
+          <div align="center">
+            <input type="hidden" name="cx" value="005188603089052683102:g-vwdvwywfc" />
+            <input type="hidden" name="cof" value="FORID:1" />
+            <input name="q" type="text" value="Search Tehelka" onClick="erase();" />
+            &nbsp;
+            <input type="submit" name="sa" value="Go" />
+          </div>
+      </form>
+      <div align="center">
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_005188603089052683102%3Ag-vwdvwywfc"></script>-->
+        <!-- Google CSE Search Box Ends -->
+      <!--</div>-->
+	  
+	  </td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+</center>
+<map name="Map" id="Map">
+<area shape="rect" coords="174,46,235,73" href="http://www.youtube.com/tehelkatv" target="_blank">
+<area shape="rect" coords="241,45,270,71" href="http://www.facebook.com/Tehelka" target="_blank">
+<area shape="rect" coords="278,44,303,71" href="http://twitter.com/tehelkadotcom" target="_blank">
+</map>
+<map name="MapTehelka" id="MapTehelka">
+  <area shape="rect" coords="14,6,231,81" href="http://www.tehelka.com/">
 </map></td>   
   </tr>
   
@@ -791,44 +689,49 @@ MM_reloadPage(true);
               <area shape="rect" coords="166,31,258,47" href="/about">
             </map></td>
 				<td width="10" valign="top"></td>
-				<td width="234" valign="top">
-
-<table width="234" border="0" cellspacing="0" cellpadding="0">
-
+				<td width="234" valign="top"><table width="240" border="0"> 
   <tbody><tr>
-    <td height="8"><a href="http://www.tehelka.com/Subscribe/subscription_bot.asp"><img src="../../images/ad/best.jpg" border="0"></a></td>
+    <td align="left"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FTehelka&amp;layout=standard&amp;show_faces=true&amp;width=240&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:240px; height:80px;" allowtransparency="true"></iframe>
+</td>
+  </tr>          
+  <tr>
+    <td align="left"><iframe src="http://www.facebook.com/plugins/activity.php?site=tehelka.com&amp;width=240&amp;height=270&amp;header=true&amp;colorscheme=light&amp;font=segoe+ui&amp;border_color=#CCCCCC&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:240px; height:270px;" allowtransparency="true"></iframe>
+</td>
+  </tr>         
+  <tr>
+    <td align="center"><img src="../../home/20100626/images/GetPaid.jpg" alt="Get Paid to tell the Truth" title="Get Paid to tell the Truth" border="0"></td>
   </tr>
   <tr>
-    <td height="8">&nbsp;</td>
+    <td align="center"><a href="http://theweekendleader.com/" target="_blank"><img src="../../home/20100904/images/WLad.jpg" alt="TheWeekendLeader.com - pioneering positive journalism" title="TheWeekendLeader.com - pioneering positive journalism" border="0"></a></td>
+  </tr>  
+  <tr>
+    <td><a href="../../Subscribe/index.asp"><img src="../../h_img/subscribe.gif" width="240" height="220" alt="Subscribe to Tehelka" title="Subscribe to Tehelka" border="0"></a></td>
+  </tr>  
+    <tr>
+    <td><a href="../../gift/"><img src="../../h_img/Gift.jpg" width="240" height="220" alt="A Perfect Gift On Subscription" title="A Perfect Gift On Subscription" border="0"></a></td>
+  </tr>            
+  <tr>
+    <td><img src="../../h_img/fw-banner.gif" width="240" height="342" vspace="10" alt="FinancialWorld A Tehelka Publication" title="FinancialWorld A Tehelka Publication"></td>
   </tr>
   <tr>
-    <td height="8"><a href="/Interactive/"><img src="../../images/ad/Subscribe.jpg" border="0" usemap="#Map">
-        <map name="Map" id="Map">
-          <area shape="rect" coords="1,1,251,219" href="../../Subscribe/index.asp">
-          <area shape="rect" coords="2,220,248,248" href="mailto:meghna@tehelka.com">
-        </map>
-</a></td>
+    <td><a href="../../channels/Investigation/page.asp"><img src="../../h_img/investigation.jpg" width="240" height="127" alt="Investigations" title="Investigations" border="0"></a></td>
   </tr>
   <tr>
-    <td height="8">&nbsp;</td>
-  </tr>
-  
-   <tr> 
-    <td align="center">
-	<a href="/Interactive/"><img src="../../images/permanentimages/forum_banner.gif" width="250px" border="0"></a>	</td>
-  </tr>
-  <tr> 
-    <td height="8"></td>
+    <td><a href="http://emagazine.tehelka.com/" target="_blank"><img src="../../h_img/emag.gif" width="240" height="107" vspace="10" alt="Tehelka Emag" title="Tehelka Emag" border="0"></a></td>
   </tr>  
 	<tr> 
-    <td align="center">
-    <a href="http://tehelka.ganeshaspeaks.com/"><img src="../../images/ad/astro.jpg" width="250px" border="0"></a>    </td>
-  </tr>  
+    <td align="center"><a href="http://www.pearlsinfrastructure.com/" target="_blank"><img src="../../images/ad/perl_logo.jpg" width="240px" alt="Pearls" title="Pearls" border="0"></a></td>
+  </tr> 
 	<tr> 
-    <td height="8"></td>
-	</tr>   
+    <td align="center"><a href="http://www.powergridindia.com/PGCIL_NEW/home.aspx" target="_blank"><img src="../../images/ad/power.jpg" alt="Powergrid" title="Powergrid" border="0"></a></td>
+  </tr>   
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
 </tbody></table>
-
 </td>
 				<td width="5" valign="top"></td>				
 		  </tr>
@@ -843,23 +746,20 @@ MM_reloadPage(true);
 <!--   -->
  
 
-<table width="1004" border="0" cellspacing="0" cellpadding="0">
+<table width="950" border="0" cellspacing="0" cellpadding="0">
 
 		<tbody><tr>
 			<td width="5"></td>           
-		    <td width="994" height="10"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">		
+		    <td width="950" height="10"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">		
         <tbody><tr bgcolor="#005e9a">
           <td>&nbsp;</td>
           
     <td align="center" class="bottomnavigation"><!-- <a href="http://tehelkablog.wordpress.com/about/" class="nav"><span class="bottomnavigation">About 
       Us</span></a> --><a href="../../../../../about/" class="nav"><span class="bottomnavigation">About 
-      Us</span></a> | <a href="../../../../../about/team.asp" class="nav"><span class="bottomnavigation">Who’s 
-      Who@Tehelka</span></a> |  <a href="../../../../../about/advertise.asp" class="nav"><span class="bottomnavigation">Advertise 
+      Us</span></a> | <a href="../../../../../about/advertise.asp" class="nav"><span class="bottomnavigation">Advertise 
       With Us</span></a> | <a href="../../../../../Subscribe/index.asp" class="nav"><span class="bottomnavigation">Print Subscriptions</span></a> 
       | <a href="../../../../../about/syndication.asp" class="nav"><span class="bottomnavigation">Syndication</span></a> | <a href="../../../../../about/tos.asp" class="nav"><span class="bottomnavigation">Terms of Service</span></a> | <a href="../../../../../about/privacy.asp" class="nav"><span class="bottomnavigation">Privacy Policy</span></a> | <a href="#" onclick="javascript:window.open('../../../../../feedback_story.asp?url=http://www.tehelka.com/about/privacy.asp?filename=','','width=400,height=300,scrollbars=yes,titlebars=no,left=200,top=200')" class="nav"><span class="bottomnavigation">Feedback</span></a> | <a href="../../../../../about/contact.asp" class="nav"><span class="bottomnavigation">Contact 
-      Us</span></a> | <a href="../../../../../channels/People/people_main.asp" class="nav"><span class="bottomnavigation">Bouquets &amp; Brickbats</span></a>
-	  
-	  </td>
+      Us</span></a> | <a href="../../../../../channels/People/people_main.asp" class="nav"><span class="bottomnavigation">Bouquets &amp; Brickbats</span></a>	  </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
