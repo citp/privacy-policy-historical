@@ -1,2074 +1,566 @@
-<!--The following is the downloaded HTML source of the campsaver.com privacy policy that was archived on 2008-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080704170154id_/http%3A//campsaver.com/privacypolicy.asp) for the most accurate reproduction.-->
-
-<html xmlns="http://www.w3.org/1999/xhtml"><head><script language="javaScript">
-
-var  iAllNotPayThroCC = 0;
-var  iIndividualPrice = 1;
-var  iShownBelow = 2;
-var  iUniqueAttributes = 3;
-var  iCallForPrice = 4;
-var  iCartSpaces = 5;
-var  iValidInvNo = 6;
-var  iValidNo = 7;
-var  iValidQuantity = 8;
-var  iGuest = 9
-var  iValidPriceComb = 10;
-var  iSelectOtherInv = 11;
-var  iKitPrice = 12;
-var  iLoginName = 13;
-var  iLoginPassNoSpace = 14;
-var  iLoginEmpty = 15;
-var  iMaxPriceGTMinPrice = 16;
-var  iMoreInfoNotAvail = 17;
-var  iChgSecretInfo = 18;
-var  iRepCallForShipDetail = 19;
-var  iRepCallForPayOption = 20;
-var  iChooseDelMethods = 21;
-var  iChooseCartName = 22;
-var  iEnterSearchText = 23;
-var  iValidCardNumber = 24;
-var  iValidEmail = 25;
-var  iValidInteger = 26;
-var  iValidPrice = 27;
-var  iValidReasonForReturn = 28;
-var  iValidText = 29;
-var  iEnterCartName = 30;
-var  iEnterCustSurvDet = 31;
-var  iEnterSecretAns = 32;
-var  iValidEntry = 33;
-var  iValidFaxNo = 34;
-var  iLoginEmail = 35;
-var  iValidPhoneNo = 36;
-var  iValidStateCode = 37;
-var  iValidZipCode = 38;
-var  iMandatory = 39;
-var  iPass4Char = 40;
-var  iLogin4Char = 41;
-var  iPassCPassSame = 42;
-var  iEnterZipCode = 43;
-var  iAddressType = 44;
-var  iLoginNoSpace = 45;
-var  iPassNoSpace = 46;
-var  iSecretAnsNoSpace = 47;
-var  iSecretAnsStartNoSpace = 48;
-var  iEnterNewPass = 49;
-var  iEnterNewSecretAns = 50;
-var  iEnterNewSecretQue = 51;
-var  iSelectCountry = 52;
-var  iSelectShipAddr = 53;
-var  iSelectChgPass = 54;
-var  iSelectExpMonth = 55;
-var  iSelectExpYear = 56;
-var  iSelectItems = 57;
-var  iSelectRMAType = 58;
-var  iValidExpMonth = 59;
-var  iPrintVerKit = 60;
-var  iQtyEqualSerial = 61;
-var  iQty = 62;
-var  iSearchNoStartSpace = 63;
-var  iOneItemToCont = 64;
-var  iItemToBeReturned = 65;
-var  iSerialNotSelected = 66;
-var  iNotPayThroCC = 67;
-var  iStAddrGT255 = 68;
-var  iStAddrStartSpace = 69;
-var  iKitItem = 70;
-var  iQtyGreaterThanShipQty = 71;
-var  iQtyLessThanOne = 72;
-var  iMatrixCombNotPresent  = 73;
-var  iMoreThanOneSecretAns = 74;
-var  iSelectCity = 75;
-var  iTotalQtyExceed = 76;
-var  iRemoveItemFromCart = 77;
-var  iEmptyCart = 78;
-var  iDelSavedCart = 79;
-var  iItemCode = 80;
-var  iNext = 81;
-var  iPrevious = 82;
-var iEmptyWishCart = 83
-var  iBuyValidQuantity = 84
-var  iRemoveItemFromWishCart = 85
-var  iEnterName = 86;
-var  iSelectEvent = 87;
-var  iEndDateVal = 88;
-var  iEventDateVal = 89;
-var  iFirstName = 90;
-var  iLastName = 91;
-var  iGroomFirst = 92;
-var  iGroomLast = 93;
-var  iBrideFirst = 94;
-var  iBrideLast = 95;
-var  iNonWishListItemsInCartPresent = 96;
-var  iCannotEditEventHoldAddr = 97;
-var  iEventRemove = 98;
-var  iEventCurrent = 99;
-var  iWishSearchDateValidate = 100;
-var  iAllNotPayThroCOD = 101;
-var  iAllNotPayThroCOD_NoPayment = 102;
-var  iSelectAddress = 103;
-var  iValidSecurityCode = 104;
-var  iRemoveCard=105;
-var iDefaultCard=106;
-var iNonEditableAddresses=107;
-var iInValidStartDate=108;
-var iInvalidLoginId = 109;
-var iInvalidCartname = 110;
-var iSpouseFirstName = 111;
-var iSpouseLastName = 112;
-var iAccessCode = 113;
-var iCC_Expiry_Msg1 = 114;
-var iCC_Expiry_Msg2 = 115;
-var iCC_Expiry_Msg3 = 116;
-var iCC_Expiry_Msg4 = 117;
-var iCC_Expiry_Msg5 = 118;
-var iCC_Expiry_Msg6 = 119;
-var iCC_Expiry_Msg7 = 120;
-var iCC_Expiry_Msg8 = 121;
-
-var aMessageStrings = new Array();
-
-aMessageStrings[0]  = "All the items in your Shopping Cart are not payable through Credit Card. Please select a different payment method";
-aMessageStrings[1]  = "and their individual prices";
-aMessageStrings[2]  = "are shown below";
-aMessageStrings[3]  = "Attributes are same. Please select unique attributes";
-aMessageStrings[4]  = "Call for price";
-aMessageStrings[5]  = "Cart name should not start with spaces";
-aMessageStrings[6] = "Enter a valid Invoice Number";
-aMessageStrings[7] = "Enter a valid number";
-aMessageStrings[8] = "Enter valid quantity";
-aMessageStrings[9] = "guest";
-aMessageStrings[10] = "Invalid price combination";
-aMessageStrings[11] = "Items in this invoice are invalid.Click on back to select other invoice";
-aMessageStrings[12] = "KIT PRICE";
-aMessageStrings[13] = "Login Name cannot be";
-aMessageStrings[14] = "Login name or password cannot have spaces";
-aMessageStrings[15] = "Login name should not be empty";
-aMessageStrings[16] = "Maximum Price should be greater than Minimum Price";
-aMessageStrings[17] = "More information is not available for this item";
-aMessageStrings[18] = "or Change Secret Info";
-aMessageStrings[19] = "Our representative will call you for shipping details";
-aMessageStrings[20] = "Our representative will contact you for your preferred payment option";
-aMessageStrings[21] = "Please choose delivery method";
-aMessageStrings[22] = "Please choose the Cart Name";
-aMessageStrings[23] = "Please enter a text to be searched";
-aMessageStrings[24] = "Please enter a valid card number";
-aMessageStrings[25] = "Please enter a valid Email address";
-aMessageStrings[26] = "Please enter a valid integer";
-aMessageStrings[27] = "Please enter a valid price";
-aMessageStrings[28] = "Please enter a valid reason for return";
-aMessageStrings[29] = "Please enter a valid text";
-aMessageStrings[30] = "Please enter Cart Name";
-aMessageStrings[31] = "Please enter Customer Survey details. Mandatory fields cannot be empty";
-aMessageStrings[32] = "Please enter the secret answer";
-aMessageStrings[33] = "Please enter valid entry";
-aMessageStrings[34] = "Please enter valid Fax number";
-aMessageStrings[35] = "Please enter valid Login/Email id";
-aMessageStrings[36] = "Please enter valid Phone number";
-aMessageStrings[37] = "Please enter valid State Code";
-aMessageStrings[38] = "Invalid zip code - please check if the zip code you entered is numeric and five digits long";
-aMessageStrings[39] = "Please enter value. Mandatory fields cannot be empty";
-aMessageStrings[40] = "Please make sure that entered new password has atleast 4 characters";
-aMessageStrings[41] = "Please make sure that login name has atleast 4 characters";
-aMessageStrings[42] = "Please make sure that password and confirm password are same";
-aMessageStrings[43] = "Please enter the zipcode";
-aMessageStrings[44] = "Please select address type";
-aMessageStrings[45] = "Please make sure that the login name does not contain any spaces";
-aMessageStrings[46] = "Please make sure that the password does not contain any spaces";
-aMessageStrings[47] = "Secret answer field should not start with spaces";
-aMessageStrings[48] = "Please make sure that the Secret Answer should not start with space";
-aMessageStrings[49] = "Please make sure that you have entered new password";
-aMessageStrings[50] = "Please make sure that you have entered Secret Answer";
-aMessageStrings[51] = "Please make sure that you have entered Secret Question";
-aMessageStrings[52] = "Please select a Country";
-aMessageStrings[53] = "Please select a shipping address";
-aMessageStrings[54] = "Please select Change password";
-aMessageStrings[55] = "Please select Expiry Month";
-aMessageStrings[56] = "Please select Expiry Year";
-aMessageStrings[57] = "Please select one or more Items";
-aMessageStrings[58] = "Please select RMA types";
-aMessageStrings[59] = "Please select valid Expiry Month";
-aMessageStrings[60] = "Printable Version of Kit";
-aMessageStrings[61] = "Qty to be returned should be equal to the number of serial selected";
-aMessageStrings[62] = "Qty";
-aMessageStrings[63] = "Search field should not start with spaces";
-aMessageStrings[64] = "Select atleast one item to continue";
-aMessageStrings[65] = "Select the items to be returned by clicking the corresponding checkbox";
-aMessageStrings[66] = "Serial numbers are not selected for the quantity specified";
-aMessageStrings[67] = "Some Items selected are Not Payable through Credit card. Click OK to Create the Order without these items. Click Cancel to change Payment Method";
-aMessageStrings[68] = "Street address should not be greater than 255 characters";
-aMessageStrings[69] = "Street address should not start with spaces";
-aMessageStrings[70] = "The Items of the kit";
-aMessageStrings[71] = "The quantity to be returned cannot be greater than the shipped qty";
-aMessageStrings[72] = "The quantity to be returned cannot be less than one";
-aMessageStrings[73] = "The selected matrix combination is not present";
-aMessageStrings[74] = "You have entered more than one secret answer";
-aMessageStrings[75] = "Please select a city";
-aMessageStrings[76] = "Total quantity in the cart cannot exceed";
-aMessageStrings[77] = "Are you sure you want to remove this item from your shopping cart?";
-aMessageStrings[78] = "Are you sure you want to empty your shopping cart?";
-aMessageStrings[79] = "Are you sure you want to delete this saved cart?";
-aMessageStrings[80] = "Item Code";
-aMessageStrings[81] = "Next";
-aMessageStrings[82] = "Previous";
-aMessageStrings[83] = "Are you sure you want to remove all items?";
-aMessageStrings[84] = "Enter valid quantity";
-aMessageStrings[85] = "Are you sure you want to remove this item?";
-aMessageStrings[86] = "Please enter a name";
-aMessageStrings[87] = "Please select an event name";
-aMessageStrings[88] = "End date should be greater than or same as start date";
-aMessageStrings[89] = "Event date should be greater than start date";
-aMessageStrings[90] = "First Name";
-aMessageStrings[91] = "Last Name";
-aMessageStrings[92] = "Groom's First Name";
-aMessageStrings[93] = "Groom's Last Name";
-aMessageStrings[94] = "Bride's First Name";
-aMessageStrings[95] = "Bride's Last Name";
-aMessageStrings[96] = "Your cart contains some of the items, which are not in the event holder's list. These items will also be shipped to the event holder's shipping address. Click OK if you wish to proceed";
-aMessageStrings[97] = "You cannot edit event holder's shipping address";
-aMessageStrings[98] = "Are you sure you want to remove this event?";
-aMessageStrings[99] = "Please select the event to make it current";
-aMessageStrings[100] = "Event to date should be greater than event from date";
-aMessageStrings[101] = "Your cart contains some downloadable item(s) which cannot be paid through COD Payment Method. Please select a different payment method";
-aMessageStrings[102] = "A payment method is required to proceed further as your cart contains some downloadable item(s). Please remove the downloadable item(s) to proceed";
-aMessageStrings[103] = "Please select an address.";
-aMessageStrings[104] = "Please enter a valid security code.";
-aMessageStrings[105] = "Are you sure you want to delete this card?";
-aMessageStrings[106] = "Please select the card to make it default";
-aMessageStrings[107] = "This address cannot be edited since it is used in the final document";
-aMessageStrings[108] = "Start date should be greater than or same as current date";
-aMessageStrings[109] = "Special characters are not allowed for Login";
-aMessageStrings[110] = "Enter a valid cart name";
-aMessageStrings[111] = "Spouse's First Name";
-aMessageStrings[112] = "Spouse's Last Name";
-aMessageStrings[113] =  "Please enter a valid access code";
-aMessageStrings[114] = "The credit card you selected has expired.";
-aMessageStrings[115] = "To continue, you can do one of the following";
-aMessageStrings[116] = "select another valid card from the list.";
-aMessageStrings[117] = "pay using a new card.";
-aMessageStrings[118] = "click on EDIT to update your card details.";
-aMessageStrings[119] = "Invalid expiry date.";
-aMessageStrings[120] = "Please verify and try again.";
-aMessageStrings[121] = "This option is available for credit cards only."
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@	Description			: This function gets the message thats to be displayed in alert,
-//  @						  confirm and other texts in Library files.
-//  @   Pages Affected		: All pages
-//  @	Function Name		: getMessage(iMessageID)									
-//	@	Input Parameters	: iMessageID --> Constant string
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function getMessage(iMessageID){
-	 return eval("aMessageStrings["+iMessageID+"]");
-}
-</script>
-
-<script language="JavaScript">
-	//***	This function will be called in every page to set the title atttibute for images
-	function setTitleForImages()
-	{		
-		var strUserAgent = navigator.userAgent.toUpperCase();		
-		if((strUserAgent.indexOf("NETSCAPE")>=0) || (strUserAgent.indexOf("OPERA")>=0) || (strUserAgent.indexOf("MAC") >= 0) || (strUserAgent.indexOf("GECKO") >= 0))
-		{
-			for(var intImageIndex=0;intImageIndex<document.images.length;intImageIndex++)
-			{		
-				document.images[intImageIndex].title = document.images[intImageIndex].alt;
-			}
-		}
-	}
-
-	
-	//*** This function will be called in footer.asp page,customstatement.asp,shipcalculator.asp for mac sumbit key compatability.
-	function setHrefForLinks()
-	{
-		for(var intLinkIndex=0;intLinkIndex<document.links.length;intLinkIndex++)
-		{		
-			if(document.links[intLinkIndex].onclick != null)
-			{						
-				var strTemp = document.links[intLinkIndex].onclick + "";	
-				strTemp = strTemp.replace("function onclick()","");
-				strTemp = strTemp.replace("{","");	
-				var pos = strTemp.lastIndexOf("}");
-				strTemp = strTemp.substring(0,pos);			
-				strTemp = strTemp.replace("return false;","");
-				strTemp = strTemp.replace("return false","");								
-				if(strTemp.toUpperCase().indexOf("JAVASCRIPT:")==-1) strTemp = "JavaScript:"+strTemp;
-				document.links[intLinkIndex].href = strTemp;					
-			}			
-		}
-	}
-</script>
-
-
-
-
-
-
-	<!-- PLEASE DON't Remove this include file -->
-	
-
-
-
-
-	
-		<title>Campsaver.Com - Contact us</title>
-		
-		<!--Everest Includes -->
-		<!-- ****** JavaScript part begins here ****** -->
-			<script language="JavaScript">
-
-iMaxCount = ""
-bMaxItem = ""
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function checks whether the entered qty is correct or not.
-//  @   Pages Affected  : Index,Items, searchresult,Psearchresult
-//  @		Function Name		: preproc(frm,index,code,type)									
-//	@		Input Parameters: frm = Form Name, index = Index value, code = Item Code, type = Item Type
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function preproc(frm,index,code,type,eqCode,iWishList, iUnits)
-{ var element, retval, qty, iItemqty, iTotalqty;
-
-	element = "document." + frm + ".qty" + index + ".value";
-	qty = eval(element);
-	retval=IsNumeric(qty)
-	
-	if(retval == 1)
-	{
-		alert(getMessage("iValidQuantity"));
-		eval("document." + frm + ".qty" + index + ".value=iUnits");
-		eval("document." + frm + ".qty" + index + ".focus()");
-		return;
-	}
-	
-	
-	if (iWishList == 0){
-		iItemqty = qty*1
-		if ((iMaxCount != "") && (bMaxItem.toLowerCase()=="true")){
-			iTotalqty = parseInt(0)
-			if((iItemqty + iTotalqty)>parseInt(iMaxCount)){
-				alert(getMessage("iTotalQtyExceed") +" "+ iMaxCount);
-				eval("document." + frm + ".qty" + index + ".value=iUnits");
-				//eval("document." + frm + ".qty" + index + ".focus()");
-				return;
-			}
-		}
-	document.frmAdditem.qty.value = qty;
-	document.frmAdditem.ic.value = code;
-	document.frmAdditem.type.value=type;
-	document.frmAdditem.EqCode.value=eqCode;
-	document.frmAdditem.action = "http://www.campsaver.com/includes/add_item.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&Tp="
-	document.frmAdditem.submit();
-	}
-	else{
-	document.frmAdditem.qty.value = qty;
-	document.frmAdditem.ic.value = code;
-	document.frmAdditem.EqCode.value=eqCode;
-	document.frmAdditem.action = "http://www.campsaver.com/includes/AddWishitem.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&Tp="
-	document.frmAdditem.submit();
-	}
-}
-// End of the function preproc(frm,index,code,type)
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function gets the selected matrix attributes from the select box
-//  @                      and checks whether the particular combination is present or not.
-//  @   Pages Affected  : Items
-//  @		Function Name		: getattribute(frm,index,code,type)									
-//	@		Input Parameters: frm = Form Name, index = Index value, code = Item Code, type = Item Type
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function getattribute(frm,index,code,type)
-{ var iIndex,matrix,arrTemp,strselected,len;
-	iItemCount=index
-	matrix = false;
-	arrTemp = eval("arrSelItems" + iItemCount)
-	strselected = eval("document.frmAdd.SelMatrixAtt1" + iItemCount + ".options[document.frmAdd.SelMatrixAtt1" + iItemCount + ".selectedIndex].value"); 
-	strselected = strselected + eval("document.frmAdd.SelMatrixAtt2" + iItemCount + ".options[document.frmAdd.SelMatrixAtt2" + iItemCount + ".selectedIndex].value"); 
-	
-	len = document.frmAdd.elements.length;
-	for(iCount=0;iCount<=parseInt(len)-1;iCount++){
-		if((document.frmAdd.elements[iCount].name.substring(0,13) == "SelMatrixAtt3") && (document.frmAdd.elements[iCount].name.substring(13,14) == iItemCount))
-			strselected = strselected + eval("document.frmAdd.SelMatrixAtt3" + iItemCount + ".options[document.frmAdd.SelMatrixAtt3" + iItemCount + ".selectedIndex].value"); 
-	}		
-	for(iIndex=0;iIndex<=arrTemp.length-1;iIndex++){
-		if(arrTemp[iIndex][1]==strselected){
-			code = arrTemp[iIndex][0];
-			matrix = true;
-			break;
-		}
-	}
-	if(matrix){
-		preproc(frm,index,code,type,"",0)
-		return;
-	}
-	else{
-		alert(getMessage("iMatrixCombNotPresent"));
-		return;
-	}
-}
-// End of the function getattribute(frm,index,code,type)
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function checks whether the attributes are unique 
-//  @   Pages Affected  : Itemmatrix
-//  @		Function Name		: attribCheck()
-//	@		Input Parameters: iAttrib3 = (returns 1 if 3rd attribute is present, else returns 0)
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-		function attribCheck(iAttrib3){
-			var sAttrib1,sAttrib2,sAttrib3;
-			sAttrib1=document.frmMatrix.Attrib1.options[document.frmMatrix.Attrib1.selectedIndex].value;
-			sAttrib2=document.frmMatrix.Attrib2.options[document.frmMatrix.Attrib2.selectedIndex].value;
-			if(sAttrib1==sAttrib2){
-				alert(getMessage("iUniqueAttributes"));
-				return false;
-			}
-			if(iAttrib3=="1"){
-				sAttrib3=document.frmMatrix.Attrib3.options[document.frmMatrix.Attrib3.selectedIndex].value;
-				if((sAttrib3==sAttrib1)||(sAttrib3==sAttrib2)){
-					alert(getMessage("iUniqueAttributes"));
-					return false;
-				}
-			}
-			document.frmMatrix.submit();
-		}
-// End of the function attribCheck(iAttrib3)
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function gets the selected matrix Items 
-//  @   Pages Affected  : Itemmatrix
-//  @		Function Name		: multiselect()
-//	@		Input Parameters: type = Item type(matrix Item),attribcode3=attribcode3
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function multiselect(type,attribcode3)
-{ 
-	var len, iIndex, attributes, qty, code, quantity, retval, attribute_codes,iTotalqty,iItemqty;
-
-	iTotalqty=0;
-	iItemqty=0;
-	qty = "";
-	code = "";
-	attributes = "";
-	attribute_codes = "";
-		
-	len = document.frmAdd.elements.length;
-	for(iIndex=0;iIndex<=parseInt(len)-1;iIndex++){	
-		if(document.frmAdd.elements[iIndex].type == "checkbox"){
-			if(document.frmAdd.elements[iIndex].checked){
-				arr = document.frmAdd.elements[iIndex].value.split("*");
-				quantity = eval("document.frmAdd.qty" + arr[0] + ".value")
-				retval=IsNumeric(quantity)
-				if(retval == 1){
-					alert(getMessage("iValidQuantity"));
-					eval("document.frmAdd.qty" + arr[0] + ".value=1");
-					eval("document.frmAdd.qty" + arr[0] + ".focus()");
-					return;
-				}
-				qty = qty + quantity + "*";
-				code = arr[1];
-				attributes = attributes + arr[2] + "*";
-				iItemqty=iItemqty+parseInt(quantity);
-							
-			}	  
-		}	
-	}
-	if(code == ""){
-		alert(getMessage("iSelectItems"));
-		return;
-	}
-
-	if ((iMaxCount != "") && (bMaxItem.toLowerCase()=="true")){
-		iTotalqty = parseInt(0)
-		if((iItemqty + iTotalqty)>parseInt(iMaxCount)){
-			alert(getMessage("iTotalQtyExceed") + " " + iMaxCount);
-			return;
-		}
-	}
-	attribute_codes = attribute_codes + (document.frmMatrix.Attrib1.selectedIndex + 1) + "*";
-	attribute_codes = attribute_codes + (document.frmMatrix.Attrib2.selectedIndex + 1) + "*";
-	if(attribcode3 != "") 
-		attribute_codes = attribute_codes + (document.frmMatrix.Attrib3.selectedIndex + 1);
-	else
-		attribute_codes = attribute_codes + "";
-		
-	document.frmAdditem.qty.value = qty;
-	document.frmAdditem.ic.value = code;
-  document.frmAdditem.type.value=type;
-  document.frmAdditem.attributes.value = attributes;
-  document.frmAdditem.attribute_codes.value = attribute_codes;
-  document.frmAdditem.submit();
-}
-// End of the function multiselect(type)
-
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: Function IsNumeric checks whether the entered value is a 
-//	@											numeric and greater than Zero
-//  @		Function Name		: IsNumeric(value)									
-//	@		Input Parameters: value to be tested
-//	@		Return Value		: 0 - Success	  1 - Failure			
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function IsNumeric(value)
-{
-	var validate=/(^\d+$)/
-	if ((validate.test(value)) && (value > 0))
-		return 0; 
-	else
-		return 1; 
-}
-// End of the function IsNumeric(value)
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function used to format the contents in the field.
-//	@		                	If value is 100.0 , this funciton will change it to 100.00.
-//	@		Pages Affected  : Shipcalculator.asp
-//  @		Function Name		: setFormat(field)									
-//	@		Input Parameters: field = name of the form and fieldto be formatted
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function setFormat(field){
-		var i, idiff,strval;
-		var m_Field = eval("document." + field);
-  	if(m_Field.value.indexOf(".") < 0)
-			m_Field.value = m_Field.value + ".00";
-		if(m_Field.value.length-m_Field.value.indexOf(".") == 2)
-			m_Field.value = m_Field.value + "0";
-		else if(m_Field.value.length-m_Field.value.indexOf(".") > 3){
-			m_Field.value=m_Field.value.substring(0,m_Field.value.indexOf(".") +3)		
-		}
-		
-	  idiff=10-m_Field.value.length	
-		strval=""
-		for(i=0;i< 10;i++)	{
-			strval=strval+ " "  
-			if (i==idiff-1){
-				strval=strval+m_Field.value;
-				break;
-			}
-		}
-		m_Field.value=strval;
-}
-
-// End of the function setFormat(field)
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function used to format numbers.
-//	@		                	If we pass 100 , this funciton will return 100.00.
-//	@	  Pages Affected  : Shipcalculator.asp
-//  @		Function Name		: formatValue(value)									
-//	@		Input Parameters: value = then number to be formatted
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-function formatValue(value){
-	return Math.round(value*100)/100;
-}
-// End of the function formatValue(value)
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is for submitting the form automatically when user  
-//	@											selects a subcategory from list-box.
-//  @   Pages Affected  : items, itemdesc
-//  @		Function Name		: submitlist()									
-//	@		Input Parameters: null
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
-function submitlist(sBc)
-{
-	var value,sCatText;
-	value=document.frmList.lstSubCategory.options[document.frmList.lstSubCategory.selectedIndex].value;
-	sCatText=document.frmList.lstSubCategory.options[document.frmList.lstSubCategory.selectedIndex].text;
-	if(value != "0")
-	{
-		document.frmList.action = "http://www.campsaver.com/items.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&Cc=" + value + "&CatName=" + sCatText + "&Bc="+sBc+"&BrandName="+"&Tp=&iTpStatus=1";
-		document.frmList.submit();
-	}
-}
-// End of the function submitlist()
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called to choose the Catalog from the list.
-//  @   Pages Affected  : PowerSearch
-//  @		Function Name		: ChangeCatalog()									
-//	@		Input Parameters: null							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function ChangeCatalog()
-{
-  strURL = "http://www.campsaver.com/powersearch.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&Tp=" + document.frmPSearch.shop.options[document.frmPSearch.shop.selectedIndex].value;
-  window.location.href = strURL;
-}
-// End of the function ChangeCatalog()
-	
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function checks	whether the entered qty is correct or not.
-//  @                   : If any related items is checked then it is passed thru hidden 
-//  @                   : field called chkitems with ',' as seperator
-//  @   Pages Affected  : Itemdesc
-//  @		Function Name		: preprocess1()									
-//	@		Input Parameters: Value to be tested									
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
-function preprocess1(iWishList, iUnits){ 
-	var retval, iItemqty, iTotalqty, qty, iIndex, iRelatedQty;
-	if (iUnits==1)
-		qty=document.frmAdd.qty1.value;
-	else
-		qty=document.frmAdd.qty.value;
-	retval=IsNumeric(qty);
-	iRelatedQty = 0;
-	if(retval == 1)	{
-		alert(getMessage("iValidQuantity"));
-		document.frmAdd.qty.value=iUnits;
-		document.frmAdd.qty.focus();
-		return;
-	}
-	
-	if (iWishList == 0){
-		iItemqty = qty*1
-		if ((iMaxCount != "") && (bMaxItem.toLowerCase()=="true")){
-			iTotalqty = parseInt(0)
-			if (document.frmRelated){
-				if(document.frmRelated.chkItems.length > 1){
-					for (iIndex = 0; iIndex < document.frmRelated.chkItems.length; iIndex++){
-						if (document.frmRelated.chkItems[iIndex].checked){
-							iRelatedQty =  iRelatedQty + parseInt(document.frmRelated.chkItems[iIndex].value.split(",")[1]);
-						}
-					}
-				}
-				else{
-					if (document.frmRelated.chkItems.checked){
-						iRelatedQty =  parseInt(document.frmRelated.chkItems.value.split(",")[1]);
-					}
-				}
-			}
-			if((iItemqty + iTotalqty + iRelatedQty)>parseInt(iMaxCount)){
-				alert(getMessage("iTotalQtyExceed") + " " + iMaxCount);
-				document.frmAdd.qty.value=iUnits;
-				document.frmAdd.qty.focus();
-				return;
-			}
-		}
-		for (count=0;count<document.forms.length;count++){
-				if (document.forms[count].name=="frmRelated"){	
-					var sItemList="";
-					for(index=0;index<(document.frmRelated.elements.length);index++) {
-						if(document.frmRelated.elements[index].checked){
-							sItemList+=document.frmRelated.elements[index].value + "," ;
-							iItemqty++;				
-						}
-					}
-					sItemList = sItemList.substring(0,sItemList.length-1)
-					document.frmAdd.chkItems.value = sItemList;
-				}
-		}
-		document.frmAdd.submit();
-	}
-	else{
-		document.frmAdd.action = "http://www.campsaver.com/includes/AddWishitem.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&Tp="
-		document.frmAdd.submit();
-	}
-}
-// End of the function preprocess1()
-
-	
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function checks	whether the entered qty is correct or not.
-//  @                   : If any related items is checked then it is passed thru hidden 
-//  @                   : field called chkitems with ',' as seperator
-//  @   Pages Affected  : Itemdesc
-//  @		Function Name		: preprocess()									
-//	@		Input Parameters: Value to be tested									
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
-function preprocess(iWishList, iUnits){ 
-	var retval, iItemqty, iTotalqty, qty, iIndex, iRelatedQty;
-	qty=document.frmAdd.qty.value;
-	retval=IsNumeric(qty);
-	iRelatedQty = 0;
-	if(retval == 1)	{
-		alert(getMessage("iValidQuantity"));
-		document.frmAdd.qty.value=iUnits;
-		document.frmAdd.qty.focus();
-		return;
-	}
-	
-	if (iWishList == 0){
-		iItemqty = qty*1
-		if ((iMaxCount != "") && (bMaxItem.toLowerCase()=="true")){
-			iTotalqty = parseInt(0)
-			if (document.frmRelated){
-				if(document.frmRelated.chkItems.length > 1){
-					for (iIndex = 0; iIndex < document.frmRelated.chkItems.length; iIndex++){
-						if (document.frmRelated.chkItems[iIndex].checked){
-							iRelatedQty =  iRelatedQty + parseInt(document.frmRelated.chkItems[iIndex].value.split(",")[1]);
-						}
-					}
-				}
-				else{
-					if (document.frmRelated.chkItems.checked){
-						iRelatedQty =  parseInt(document.frmRelated.chkItems.value.split(",")[1]);
-					}
-				}
-			}
-			if((iItemqty + iTotalqty + iRelatedQty)>parseInt(iMaxCount)){
-				alert(getMessage("iTotalQtyExceed") + " " + iMaxCount);
-				document.frmAdd.qty.value=iUnits;
-				document.frmAdd.qty.focus();
-				return;
-			}
-		}
-		for (count=0;count<document.forms.length;count++){
-				if (document.forms[count].name=="frmRelated"){	
-					var sItemList="";
-					for(index=0;index<(document.frmRelated.elements.length);index++) {
-						if(document.frmRelated.elements[index].checked){
-							sItemList+=document.frmRelated.elements[index].value + "," ;
-							iItemqty++;				
-						}
-					}
-					sItemList = sItemList.substring(0,sItemList.length-1)
-					document.frmAdd.chkItems.value = sItemList;
-				}
-		}
-		document.frmAdd.submit();
-	}
-	else{
-		document.frmAdd.action = "http://www.campsaver.com/includes/AddWishitem.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&Tp="
-		document.frmAdd.submit();
-	}
-}
-// End of the function preprocess()
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is used to submit the upgrade items form.
-//  @   Pages Affected  : Itemdesc
-//  @		Function Name		: UpgradeBuy(itemcode)									
-//	@		Input Parameters: itemcode = Item Code									
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function UpgradeBuy(itemcode,iUnits)
-{
-	iTotalqty = parseInt(0)
-	if ((iMaxCount != "") && (bMaxItem.toLowerCase()=="true")){
-		if(iTotalqty >= parseInt(iMaxCount)){
-			alert(getMessage("iTotalQtyExceed") + " " + iMaxCount);
-			return;
-		}
-	}
-	document.frmUpgrade.ic.value = itemcode;
-	document.frmUpgrade.qty.value = iUnits;
-	document.frmUpgrade.submit();
-}
-// End of the function UpgradeBuy(itemcode)
-
-	
-	
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is used to delete a particular item from cart.
-//  @   Pages Affected  : Viewcart
-//  @		Function Name		: DeleteFromCart(itemcode, itemtype, tpcode)									
-//	@		Input Parameters: itemcode = Item Code, itemtype = Item Type, tpcode = TpCode									
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function DeleteFromCart(itemcode, itemtype, tpcode, eqCode)
-{
-	if(confirm(getMessage("iRemoveItemFromCart")))
-	{
-	document.frmDelete.itemcode.value = itemcode;
-	document.frmDelete.itemtype.value = itemtype;
-	document.frmDelete.tpcode.value = tpcode;
-	document.frmDelete.EqCode.value = eqCode;
-	document.frmDelete.submit();
-	}
-}
-// End of the function DeleteFromCart(itemcode, itemtype, tpcode)
-
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is used to empty the cart.
-//  @   Pages Affected  : Viewcart
-//  @		Function Name		: EmptyCart()									
-//	@		Input Parameters: Null									
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function EmptyCart()
-{
-	if(confirm(getMessage("iEmptyCart")))
-	{
-	document.frmDelete.todo.value = "empty";
-	document.frmDelete.submit();
-	}
-}
-// End of the function EmptyCart()
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is used to update the cart contents, as changed 
-//	@											by the user.
-//  @   Pages Affected  : Viewcart
-//  @		Function Name		: UpdateCart(Index)									
-//	@		Input Parameters: Index = Total no. of items									
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
-function UpdateCart(Index)
-{
-	var count,qty,retval,iItemqty;
-	iItemqty=0
-	
-	for(count = 1;count<=Index;count++)
-	{		
-		qty = eval("document.frmCartContents.qty" + count + ".value")
-		var validate=/(^\d+$)/
-		if (validate.test(qty) == false)
-		{
-			alert(getMessage("iValidQuantity"));
-			eval("document.frmCartContents.qty" + count + ".focus()");
-			return;
-		}
-		qty=qty*1
-		iItemqty=iItemqty+qty
-	}
-	if ((iMaxCount != "") && (bMaxItem.toLowerCase()=="true")){
-		if(iItemqty > parseInt(iMaxCount)){
-			alert(getMessage("iTotalQtyExceed") + " " + iMaxCount);
-			return;
-		}
-	}
-	document.frmCartContents.submit();
-}
-// End of the function UpdateCart(Index)
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called whenever user clicks prev or next navigation.
-//  @   Pages Affected  : pSearchresult
-//  @		Function Name		: submitSearch(iPageNo)									
-//	@		Input Parameters: iPageNo	= PageNo								
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function submitSearch(iPageNo){	
-	document.frmPSearch.PageNo.value= iPageNo;
-	document.frmPSearch.submit();
-}
-// End of the function submitSearch(iPageNo)
-
-
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called before submiting page, to validate
-//	@											the min & max price.
-//  @   Pages Affected  : PowerSearch
-//  @		Function Name		: PowerSearchVal()									
-//	@		Input Parameters: null							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function PowerSearchVal(sCustTypeInt, sCustTypeDate){
-	var len,iIndex,bCriteria,fMinval,fMaxval,value ;
-	
-	var validate=/(^\d+$)/
-	
-	//The hidden variables are being reset to blank when user comes back to page using back button.
-	document.frmPSearch.sManDesc.value  = "";
-	document.frmPSearch.sBrandDesc.value = "";
-	document.frmPSearch.sCatDesc.value  =  "";
-	
-	if(sCustTypeInt!=""){
-		sCustTypeInt = sCustTypeInt.substring(0,sCustTypeInt.length-1) 
-		arr = sCustTypeInt.split(",");
-		for(iIndex=0;iIndex<=arr.length-1;iIndex++){
-			objField=eval("document.frmPSearch." + arr[iIndex]) 
-			if(objField.value!=""){
-				if(!(validate.test(objField.value)))  {
-						alert(getMessage("iValidInteger"));
-						objField.focus();
-						objField.select();
-						return false;
-				}
-			}	
-		}	
-	}
-	if(sCustTypeDate!=""){
-		sCustTypeDate = sCustTypeDate.substring(0,sCustTypeDate.length-1) 
-		arr = sCustTypeDate.split(",");
-		for(iIndex=0;iIndex<=arr.length-1;iIndex++){
-			smonth=eval("document.frmPSearch." + arr[iIndex]+ "month.options[document.frmPSearch." + arr[iIndex]+ "month.selectedIndex].value")
-			sday=eval("document.frmPSearch." + arr[iIndex]+ "day.options[document.frmPSearch." + arr[iIndex]+ "day.selectedIndex].value")
-			syear=eval("document.frmPSearch." + arr[iIndex]+ "year.options[document.frmPSearch." + arr[iIndex]+ "year.selectedIndex].value")
-			var sdate=new Date(syear, smonth ,sday)
-			var sDefaultDate=new Date(1995,1,1)
-			if((sdate-sDefaultDate)!=0)
-				eval("document.frmPSearch.Txt" + arr[iIndex] + ".value=smonth+'/'+sday+'/'+syear")
-			else
-				eval("document.frmPSearch.Txt" + arr[iIndex] + ".value=''")
-		}
-	}
-	
-	bCriteria=false;
-	len = document.frmPSearch.elements.length;
-	for(iIndex=0;iIndex<=parseInt(len)-1;iIndex++){	
-		if(document.frmPSearch.elements[iIndex].type == "text"){
-			if(document.frmPSearch.elements[iIndex].value != ""){
-				if(document.frmPSearch.elements[iIndex].value.charAt(0)==" "){
-					alert(getMessage("iSearchNoStartSpace"));
-					document.frmPSearch.elements[iIndex].focus();
-					return false;
-				}
-				bCriteria = true;
-			}
-		}
-		
-		if(document.frmPSearch.elements[iIndex].type == "hidden"){
-			if(document.frmPSearch.elements[iIndex].value != "")
-				bCriteria = true;
-		}
-		if(document.frmPSearch.elements[iIndex].type == "checkbox"){
-			if(document.frmPSearch.elements[iIndex].checked)
-				bCriteria = true;
-		}
-		sFldname=document.frmPSearch.elements[iIndex].name
-		if((sFldname == "selCategory")||(sFldname == "selBrand")||(sFldname == "selManufacturer")){
-			if(document.frmPSearch.elements[iIndex].options[document.frmPSearch.elements[iIndex].selectedIndex].value != "")
-				bCriteria = true;
-		}
-		if(bCriteria) break;
-	}
-	
-	if(! bCriteria)	{
-		alert(getMessage("iEnterSearchText"));
-		document.frmPSearch.txtKey.focus();
-		return false;
-	}
-	
-	fMinval=document.frmPSearch.txtMin.value
-	fMaxval=document.frmPSearch.txtMax.value
-	
-	if(document.frmPSearch.txtMin.value.length > 0)
-	{ 
-		 retval=IsFloat(fMinval);
-		
-		if(! retval)
-		{
-				alert(getMessage("iValidPrice"));
-				document.frmPSearch.txtMin.focus();
-				document.frmPSearch.txtMin.select();
-				return false;
-		}
-		
-			fMinval=parseFloat(fMinval);
-		
-		
-	}
-	if(document.frmPSearch.txtMax.value.length > 0)
-	{   
-	  
-		 retval=IsFloat(fMaxval);
-		if(! retval)
-		{
-			alert(getMessage("iValidPrice"));
-			document.frmPSearch.txtMax.focus();
-			document.frmPSearch.txtMax.select();
-			return false;
-		}
-		
-			fMaxval=parseFloat(fMaxval);
-	
-		
-	}
-	if(fMaxval < fMinval)
-	{
-		alert(getMessage("iMaxPriceGTMinPrice"));
-		document.frmPSearch.txtMax.focus();
-		document.frmPSearch.txtMax.select();
-		return false;
-		
-	}
-	document.frmPSearch.sManDesc.value  = document.frmPSearch.selManufacturer.options[document.frmPSearch.selManufacturer.selectedIndex].text;
-	document.frmPSearch.sBrandDesc.value = document.frmPSearch.selBrand.options[document.frmPSearch.selBrand.selectedIndex].text;
-	document.frmPSearch.sCatDesc.value  =  document.frmPSearch.selCategory.options[document.frmPSearch.selCategory.selectedIndex].text;
-	document.frmPSearch.submit();
-	
-}
-
-// End of the function powersearchval()
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called before submiting page, to validate
-//	@											float value.
-//  @   Pages Affected  : PowerSearch
-//  @		Function Name		: IsFloat()									
-//	@		Input Parameters: price value(Minimum or Maximum)							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
-function IsFloat(value)
-{
-	var pattern1 = /^(\d+)(\.){0,1}(\d*)$/
-	var pattern2 = /^(\d*)(\.){0,1}(\d+)$/
-	return pattern1.test(value) || pattern2.test(value);
-}
-
-// End of the function IsFloat()
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called when Delete or Retrieve link is clicked.
-//	@											It is used to change the action depending on the link clicked.
-//  @   Pages Affected  : Retreivecart
-//  @		Function Name		: RetrieveCart(getcart,todo)									
-//	@		Input Parameters: getcart = cartid,todo = 1(Delete) or 0(Retrieve)							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function RetrieveCart(getcart,todo)
-{
-	if(todo=="1")
-		if(confirm(getMessage("iDelSavedCart")))
-			document.frmRetrieveCart.action = "http://www.campsaver.com/retrievecart.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&action=DEL";
-		else
-			return;
-	else
-		document.frmRetrieveCart.action = "http://www.campsaver.com/retrievecart.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&action=RET";
-	document.frmRetrieveCart.PrevCartID.value =  getcart;
-	document.frmRetrieveCart.submit();
-}
-// End of the function RetrieveCart(getcart,todo)
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called when New cart name and Email id is entered.
-//	@											It validates the Name and the Email id.
-//  @   Pages Affected  : SaveCart
-//  @		Function Name		: SaveCart()									
-//	@		Input Parameters: null							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function SaveCart(){
-	if (document.frmSaveCart.CARTNAME.value == ""){
-    	alert(getMessage("iEnterCartName"));
-		document.frmSaveCart.CARTNAME.focus();
-		return;
-	}
-	if (document.frmSaveCart.CARTNAME.value.charAt(0)==" "){
-		alert(getMessage("iCartSpaces"));
-		document.frmSaveCart.CARTNAME.focus();
-		return;
-	}
-	if(document.frmSaveCart.CARTNAME.value.indexOf('"')!=-1)
-	 {
-		alert(getMessage("iInvalidCartname"));
-		document.frmSaveCart.CARTNAME.focus();
-		return;
-	 }
-	document.frmSaveCart.action = "http://www.campsaver.com/savecart.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&action=SN&saved=1"
-	document.frmSaveCart.submit();
-}
-// End of the function SaveCart()
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@	Description		:	This function is called when New cart name and Email id is entered.
-//	@						It validates the Name and the Email id.
-//  @   Pages Affected  :	SaveEmail()
-//  @	Function Name	:	SaveEmail()									
-//	@	Input Parameters:	null
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function SaveEmail(){
-	
-	// ### Validating email.
-	ret_val = IsEmail(document.frmSaveEmail.EMAIL.value);
-	if (ret_val == 1){
-		document.frmSaveEmail.EMAIL.focus();
-		document.frmSaveEmail.EMAIL.select();
-		return;
-	}
-	
-	document.frmSaveEmail.action = "http://www.campsaver.com/EmailidReq.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}"
-	document.frmSaveEmail.submit();
-}
-// End of the function SaveEmail()
-
-
-
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called when when existing cart name is selected.
-//  @   Pages Affected  : SaveCart
-//  @		Function Name		: RestoreCart()									
-//	@		Input Parameters: null							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function RestoreCart()
-{
-	if (document.frmSaveCart.CARTLIST.options[document.frmSaveCart.CARTLIST.selectedIndex].value == 0 )	{
-		alert(getMessage("iChooseCartName"));
-		document.frmSaveCart.CARTLIST.focus();
-	}	
-	else	{	
-		document.frmSaveCart.action = "http://www.campsaver.com/savecart.asp?CartId={1EEE341EVERESTD-655C-4A8D-BA2C-C79F68BAC02B}&action=SE&saved=1"
-		document.frmSaveCart.submit();
-	}
-}
-// End of the function RestoreCart()
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called to validate the zipcode.
-//  @   Pages Affected  : ShipCalculator
-//  @		Function Name		: ZipCode_validate()									
-//	@		Input Parameters: null							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function ZipCode_validate(bUseDestZone)
-{	
-	var retval;
-	// ### Validating address type
-	if (document.frmShip.RESI.options[document.frmShip.RESI.selectedIndex].value == 0)
-	{
-		alert(getMessage("iAddressType"));
-		document.frmShip.RESI.focus();
-		return false;
-	}
-	if(document.frmShip.zipcode.value != ""){	
-		if(bUseDestZone.toUpperCase() !="TRUE") {
-			retval=IsNumeric(document.frmShip.zipcode.value)
-			if(retval == 1)	{
-				alert(getMessage("iValidZipCode"));
-				document.frmShip.zipcode.focus();
-				document.frmShip.zipcode.select();
-				return false;
-			}
-		}
-	}
-	if((bUseDestZone.toUpperCase()=="FALSE") && (document.frmShip.zipcode.value == ""))	
-		alert(getMessage("iEnterZipCode"));
-			
-	if(bUseDestZone.toUpperCase()=="TRUE"){
-		// ### Validating City
-		if((document.frmShip.City.value != "") && (document.frmShip.City.value.charAt(0)==" ") ){
-				alert(getMessage("iValidText"))
-				document.frmShip.City.focus();
-				document.frmShip.City.select();
-				return false;
-		}
-		// ### Validating State/ Province
-		if((document.frmShip.State.value != "") && (document.frmShip.State.value.charAt(0)==" " )){	
-				alert(getMessage("iValidText"))
-				document.frmShip.State.focus();
-				document.frmShip.State.select();
-				return false;
-		}
-	}	
-	document.frmShip.submit();
-}
-// End of the function ZipCode_validate()
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function is called when a shipping method is selected.
-//  @		Pages Affected  : ShipCalculator
-//  @		Function Name		: ShipCharge_Calculate()									
-//	@		Input Parameters: null							
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function ShipCharge_Calculate(iLocale)
-{	var iTotal, iCartTotal,i, iRadselValue
-	if(iLocale==null)
-		iLocale=1033;
-	
-	for(i=0;i<=document.frmCost.radsel.length-1;i++){
-	
-  	 if(document.frmCost.radsel[i].checked)
-	  { 
-	   iRadselValue=document.frmCost.radsel[i].value.split("*")
-	   
-	  
-	   iRadselValue[0]=getEnglishLocale(iRadselValue[0],iLocale)
-
-	        iRadselValue[0] = formatValue(parseFloat(iRadselValue[0]));
-  			iCartTotal=0
-  			
-			iCartTotal=getEnglishLocale(iCartTotal,iLocale)
-   			iTotal = parseFloat(iRadselValue[0]) + parseFloat(iCartTotal);
-   			
-			document.frmCost.total.value = formatValue(iTotal);
-			setFormat("frmCost.total");
-			document.frmCost.total.value = getCurrentLocale(document.frmCost.total.value,iLocale);
-			document.frmCost.shipprice.value = iRadselValue[0] 
-			setFormat("frmCost.shipprice");
-			document.frmCost.shipprice.value = getCurrentLocale(document.frmCost.shipprice.value,iLocale);
-			
-		
-		break;
-		
-		}
-	}
-}
-// End of the function ShipCharge_Calculate()
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: Function is to validate the alphanumeric characters and  string.  
-//  @  		Pages Affected 		: Shipcalculator
-//  @		Function Name		: isAlphanumeric(str,cSpace)
-//	@		Input Parameters	: formname = name of the form
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function isAlphanumeric(str,cSpace){
-    var sSpacepat = /^(((\w+)[\s,\-*\.]*)+)$/
-     var sPat = /^(((\w+)[*,\-\.]*)+)$/
-     if (cSpace=="1"){
-		if(!(sSpacepat.test(str)))
-		   {
-			 alert(getMessage("iValidText"));
-			 return false;
-	       }	
-		}
-	  else{
-		
-		if(!(sPat.test(str)))  
-			{
-				alert(getMessage("iValidText"));
-				return false;
-	        }
-	        }
-     return true;
-}
-// End of the function isAlphanumeric(str,cSpace)
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: This function changes the no. of days dynamically according to  
-//  @											the month and the year.
-//	@	  Pages Affected  : powersearch.asp
-//  @		Function Name		: DateValidate(which)									
-//	@		Input Parameters: which = field
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-function DateValidate(which)
-{
-	var sel = eval("document.frmPSearch." + which + "day.selectedIndex");
-	var i=eval("document.frmPSearch." + which + "month.options[document.frmPSearch." + which + "month.selectedIndex].value");
-	var j=eval("document.frmPSearch." + which + "year.options[document.frmPSearch." + which + "year.selectedIndex].value");
-	var k;
-	if(i=="1" || i=="3" || i=="5" || i=="7" || i=="8" || i=="10" || i=="12")
-	{
-		eval("document.frmPSearch." + which + "day.length=31");
-		for(k=28;k<=30;k++)
-		{
-			eval("document.frmPSearch." + which + "day.options[" + k + "].value=" + parseInt(k+1));
-			eval("document.frmPSearch." + which + "day.options[" + k + "].text=" + parseInt(k+1));
-		}
-	}
-	if(i=="4" || i=="6" || i=="9" || i=="11")
-	{
-		eval("document.frmPSearch." + which + "day.length=30");
-		for(k=28;k<=29;k++)
-		{
-			eval("document.frmPSearch." + which + "day.options[" + k + "].value=" + parseInt(k+1));
-			eval("document.frmPSearch." + which + "day.options[" + k + "].text=" + parseInt(k+1));
-		}
-	}
-	var mydate = new Date();
-	if(i==2)
-	{
-		mydate.setDate(1);
-		mydate.setYear(j);
-		mydate.setMonth(1);
-		mydate.setDate(31);
-		var k=31-mydate.getDate();
-		eval("document.frmPSearch." + which + "day.length=" + k);
-		if((k==29) || (k==28))
-		{
-			eval("document.frmPSearch." + which + "day.options[" + (k-1) + "].value=" + k);
-			eval("document.frmPSearch." + which + "day.options[" + (k-1) + "].text=" + k);
-		}
-	}
-	
-	if((sel+1) > eval("document.frmPSearch." + which + "day.length"))
-	{
-		eval("document.frmPSearch." + which + "day.selectedIndex=document.frmPSearch." + which + "day.length-1");
-	}
-}
-// End of the function DateValidate(which)
-
-
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-//	@		Description			: Validation for EMail									@
-//  @		Function Name		: IsEmail()												@
-//	@		Input Parameters	: Value to be tested									@
-//	@		Return Value		: 0 - Success											@
-//	@							  1 - Failure											@
-//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-function IsEmail(strEmail)
-{
-var intReturn =1;
-var emailPat=/^(.+)@(.+)$/
-var specialChars="\\(\\)<>'@,;:\\\\\\\"\\.\\[\\]'"
-var validChars="\[^\\s" + specialChars + "\]"
-var quotedUser="(\"[^\"]*\")"
-var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
-var atom=validChars + '+'
-var word="(" + atom + "|" + quotedUser + ")"
-var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
-var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
-var matchArray=strEmail.match(emailPat)
-	if (matchArray==null ) {
-		alert(getMessage("iValidEmail"));
-		return intReturn;
-	}
-var user=matchArray[1]
-var domain=matchArray[2]
-if (user.match(userPat)==null) {
-    alert(getMessage("iValidEmail"));
-    return intReturn;
-}
-	var IPArray=domain.match(ipDomainPat)
-	if (IPArray!=null) {
-		// this is an IP address
-		for (var i=1;i<=4;i++) {
-			if (IPArray[i]>255) {
-				alert(getMessage("iValidEmail"));
-			return intReturn;
-			}
-		}
-		intReturn=0;
-		return intReturn;
-	}
-var domainArray=domain.match(domainPat)
-if (domainArray==null) {
-	alert(getMessage("iValidEmail"));
-    return intReturn;
-}
-	var atomPat=new RegExp(atom,"g")
-	var domArr=domain.match(atomPat)
-	if (domArr[domArr.length-1].length<2 || 
-		domArr[domArr.length-1].length>4) {
-	alert(getMessage("iValidEmail"));
-	return intReturn;
-	}
-var len=domArr.length	
-if (len<2) {
-   var errStr = getMessage("iValidEmail");
-   alert(errStr)
-   return intReturn;
-}
-intReturn=0;
-return intReturn;
-}
-//	End of the function IsEmail(strEmail)
-
-</script>
-
-		<!-- ****** Style sheet included ****** -->
-			<style type="text/css">
-
-
-.siteNavTD
-{
-    BACKGROUND-COLOR: #cc3300
-}
-.siteNav1TD
-{
-    border-bottom-width: thin;
-	border-bottom-style: dotted;
-	border-bottom-color: #929338;
-}
-.siteNav2TD
-{
-    BACKGROUND-COLOR: #efefcf
-}
-.siteNav3TD
-{
-    BACKGROUND-COLOR: #efefce
-}
-.sitenav4TD
-{
-    BACKGROUND-COLOR: #ffffec
-}
-.siteNav5TD
-{
-    BACKGROUND-COLOR: #eeeeee
-}
-.siteNav6TD
-{
-   
-}
-.siteNav7TD
-{
-	background-color:#B1AC7A;
-}
-.siteNav8TD
-{
-    BACKGROUND-COLOr:#EAEAEA;
-}
-.siteNav9TD
-{
-
-}
-.siteNav10TD
-{
-    BACKGROUND-COLOR: #cfc890
-}
-.siteNav11TD
-{
-    BACKGROUND-COLOR: #708090
-}
-.siteNav12TD
-{
-    BACKGROUND-COLOR: #336699
-}
-.siteNav13TD
-{
-    BACKGROUND-COLOR: #c0c0c0;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:9px;
-	color:#FFFFFF;
-}
-*
-
-body
-{
-	background-image: url(_images/design_images/background.jpg);
-	background-position: center;
-	background-repeat: repeat-y;
-	color:#000000;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 8px;
-}
-a:link, a:visited {
-	color:#006699;
-	font-size:11px;
-
-}
-a:hover {
- text-decoration:none;
-}
-.servbg {
-	background-image: url(Images/services_bg.gif);
-	background-repeat: no-repeat;
-	background-position: bottom;
-	padding-bottom: 4px;
-	
-}
-A.serv:link
-{
-	color: #ffffff;
-	font-family: verdana,arial;
-	font-size: 8pt;
-	font-weight: normal;
-	text-decoration: none;
-
-}
-A.serv:visited
-{
-	color:#FFFFFF;
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: normal;
-    TEXT-DECORATION: none
-}
-A.servicewh:link
-{
-    COLOR: #FFFFFF;
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: normal;
-    TEXT-DECORATION: none
-}
-A.servicewh:visited
-{
-    COLOR: #FFFFFF;
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: normal;
-    TEXT-DECORATION: none
-}
-A.serv:active
-{
-    color: #ffffff;
-    font-family: verdana,arial;
-    font-size: 8pt;
-    font-weight: normal;
-    text-decoration: none;
-}
-A.serv:hover
-{	
-	color:#FFFF00;
-    font-family: verdana,arial;
-    font-size: 8pt;
-    font-weight: normal;
-    text-decoration: none;
-}
-.pghead
-{
-  font: bold 12pt Arial,sans-serif;
-  background-position:center;
-  color:#666600;
-}
-.featuredbld 
-{
-	FONT-FAMILY: Arial, Helvetica, sans-serif;
-	FONT-SIZE: 9pt;
-	FONT-WEIGHT: bold;
-	color:#4D4D4D;
-	list-style-image: url(Images/bullet.gif);
-	text-decoration:none;
-}
-.featured a:link, .featured a:visited
-{
-	FONT-FAMILY: Arial, Helvetica, sans-serif;
-	FONT-SIZE: 9pt;
-	FONT-WEIGHT: normal;
-	color:#009999;
-	list-style-image: url(Images/bullet.gif);
-	text-decoration:none;
-}
-.featured a:hover
-{
-	color:#003366;
-}
-.content
-{
-	FONT-FAMILY: Arial, Helvetica, sans-serif;
-	FONT-SIZE: 9pt;
-	FONT-WEIGHT: normal;
-	color:#4D4D4D;
-	list-style-image: url(Images/bullet.gif);
-}
-.floatingcart
-{
-  font: normal 9pt Arial,sans-serif;
-  color:#FFFFFF;
-}
-
-.floatingcartb
-{
-  font: bold 9pt Arial,sans-serif;
-  color:#FFFFFF;
-}
-.contentRd
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: normal;
-    COLOR: #ff0000;
-}
-.subhead
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 10pt;
-    FONT-WEIGHT: bold;
-    font-color: black
-}
-.contsmall
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: normal;
-    font-color: black
-}
-.breadcrumbs
-{
-	font-family:Arial, Helvetica, sans-serif;
-    FONT-SIZE: 8pt;
-    font-color: black
-}
-.contbold
-{
-    FONT-FAMILY: arial, Helvetica, sans-serif;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    font-color: black
-}
-.contboldRd
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    COLOR: #ff0000;
-}
-.contboldWh
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    COLOR: #ffffff;
-}
-.contboldOr
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    COLOR: #cf672f;
-}
-.contboldNav
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    COLOR: white
-}
-.CtSmallBold
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    font-color: black
-}
-.contsmallRd
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: normal;
-    COLOR: #ff0000;
-}
-.contsmallBr
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: normal;
-    font-color: Brown
-}
-.CtSmallBoldBr 
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    font-color: brown;
-}
-.CtSmallBoldRd 
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    font-color: red;
-}
-.ErrorMsgRd
-{
-    FONT-FAMILY: verdana,arial;
-    FONT-SIZE: 8pt;
-    FONT-WEIGHT: bold;
-    COLOR: #ff0000;
-}
-
-featured
-{
-    font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
+<!--The following is the downloaded HTML source of the campsaver.com privacy policy that was archived on 2010-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101026133937id_/http%3A//campsaver.com/privacypolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy Policy</title>
+<meta name="keywords" content=" , ,  ">
+<meta name="description" content=" manufactured by  Free shipping">
+<meta name="robots" content="index,follow">
+
+<link href="css/campsaver_global_04_27_10.css" rel="stylesheet" type="text/css">
+<link href="css/campsaver_itemdesc.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=63987654"></script></head>
+
+<body>
+<div id="canvas">
+
+<div id="global_header">
+<!--[if IE 8]>
+	<link rel="stylesheet" href="/css/ie8.css" type="text/css">
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" href="/css/ie7_04_27_10.css" type="text/css">
+<![endif]-->
+<!--[if IE 6]>
+	<link rel="stylesheet" href="/css/ie6_04_29_10.css" type="text/css">
+    <div style="position:absolute; top:2px; left:39%; margin:0 auto; padding:3px;z-index:1000; color:#bb0000; font-size:11px;"><a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx">Please update</a> from Internet Explorer 6 to fully enjoy CampSaver.com.</div>
+<![endif]-->
+<link media="only screen and (max-device-width: 480px)" href="/css/iPhone.css" type="text/css" rel="stylesheet">
+
+<!-- SITEBRAND HEADER 2.2 START -->
+<!--SCRIPT type="text/javascript">
+    var sbpurl="sitebrand.campsaver.com",sbtimeoutsticky=1,sbtimeout=5,sbaid="511597";
+</SCRIPT-->
+<!--SCRIPT type="text/javascript" src="/sitebrand-2.12.js"></SCRIPT-->
+<!-- SITEBRAND HEADER END -->
+
+<div id="logo">
+    <a href="http://www.campsaver.com/index.asp"><img src="images/logo_new_03_04_10.gif" alt="CampSaver.com" title="CampSaver.com" width="120" height="60" hspace="20" border="0" align="left" vspace="5"></a>
+    	<p class="service">
+        
+        <a href="http://www.campsaver.com/acclogin.asp">Account Login</a>
+        
+        | <a href="http://www.campsaver.com/ordertracking.asp">Order Status</a>
+        | <a href="http://www.campsaver.com/contact.asp" class="customer">Customer Service</a></p>
+        <p class="phone">1-877-883-6276
+        <!-- BEGIN LivePerson Button Code -->
+<!--span id="lpButDivID-1268083926024" style="color:#cc0000;"></span-->
+<!--script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/63987654/?cmd=mTagRepstate&site=63987654&buttonID=12&divID=lpButDivID-1268083926024&bt=3&c=1"></script-->
+<!-- END LivePerson Button code--></p>
+        <div id="global_dod">
+            <style type="text/css">
+<!--
+.style1 {
+	color: #FF0000;
 	font-weight: bold;
-	font-style: normal;
-	background-image: url(images/design_images/tab_shop_brands.jpg);
-	background-repeat: no-repeat;
 }
-A.featured:link, a.featured:visited
-{
-	font-size: 11px;
-	font-weight: bold;
-	display: block;
-	padding: 4px 0px 0px 15px;
-	
-}
-A.featured:active
-{
-    color:#333333;
-	
-}
-A.featured:hover
-{
-    color:#CC6600;
-}
-
-.servicelinks {
-	color: #FFFFFF;
-	background-color: #004466;
-    /*background-image: url(../_images/star_right.gif);*/
-	background-repeat: no-repeat;
-	background-position: right;
-	text-align: right;
-}
-
-.MainDispSE
-{
-    background-color:#FFFFFF;
-    padding-right: 5px;
-    padding-left: 5px;
-    padding-bottom: 5px;
-    padding-top: 0px;
-    vertical-align:top;
-}
-
-.newsletter {
-	background-color: #E9F2CE;
-	border: 5px solid #B9BD9B;
-	color:
-}
-
-.IDesc
-{
-
-    font-family: Arial, Helvetica, sans-serif;
-	font-size:12px;
-}
+-->
 </style>
-		
-		<link href="CSStyle/campsaver.css" rel="stylesheet" type="text/css">
-		<script language="javascript" src="Scripts/SE_AJAX.js"></script>
-	</head>
 
-	<!--<body leftmargin="25">-->
-		<body background="../_Images/design_images/background.jpg">
-		<div id="outer">
-		<!-- Header Table -->
-		
-		<table id="_TblHeader">
-			<tbody><tr>
-				<td>
-					<div id="header_logo">
-						<a href="http://www.CampSaver.com">
-							<img src="_images/design_images/campsaver_logo.gif" alt="CampSaver.com Home" width="117" height="63" border="0" title="CampSaver.com Home">
-						</a>
-					</div>
-					<div id="header_search"></div>
-					
-					<div id="header_nav">
-					<!--<a href="#">
-						<img src="_images/design_images/home_tab.gif" alt="CampSaver.com Home" width="55" height="28" border="0" /></a><a href="#"><img src="_images/design_images/my_account_tab.gif" alt="My Account" width="79" height="28" border="0" /></a><a href="#"><img src="_images/design_images/help_tab.jpg" alt="Help" width="50" height="28" border="0" /></a><a href="#"><img src="_images/design_images/cart.gif" alt="Shopping Cart" width="91" height="28" border="0" /></a>-->
-					<!-- ****** Services Navigation begins here ****** -->
-						  
-<script language="Javascript">
-function logoutMe(){
-	if(confirm("Contents of shopping cart will be lost if you logout now."))
-		window.location.href="http://www.campsaver.com/logout.asp?url=AL"
-	return false;
+        </div>
+        
+        <!--div id="header_promo">
+        	<a href="http://www.campsaver.com"><img src="images/header_promo_clearance.gif" height="84" width="115" border="0" alt="Winter Clearance Sale" title="Winter Clearance Sale" /></a>
+        </div-->
+        <div id="follow_us_promo">
+        	<a href="http://www.facebook.com/pages/CampSavercom/63704168135?ref=ts" title="Follow us on Facebook"><img src="images/facebook-24x24.gif" alt="Follow us on Facebook" title="Follow us on Facebook" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.twitter.com/campsaver" title="Follow Us on Twitter"><img src="images/twitter-24x24.gif" alt="Follow us on Twitter" title="Follow us on Twitter" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="feed.xml"><img src="images/rss-24x24.gif" alt="Follow us on RSS" title="Follow us on RSS" border="0"></a>
+        </div>
+        
+				  
+        
+        <script language="Javascript">
+        function submitMainsearch()
+        { 
+            if (document.frmMainsearch.SearchWord.value.indexOf(" ") == 0)
+            {
+                alert("Search string should not start with spaces.");
+                document.frmMainsearch.SearchWord.focus();
+                return false;
+            }
+            if (document.frmMainsearch.SearchWord.value == "")
+            {
+                alert("Please enter a search string.");
+                document.frmMainsearch.SearchWord.focus();
+                return false;
+            }
+            
+            document.frmMainsearch.submit();
+            return true;
+        }
+        </script>
+        
+        
+        
+        <div id="search_box">
+        
+        <form name="frmMainsearch" id="nxt-search-form" method="get" action="http://shop.campsaver.com/search" onsubmit="JavaScript:submitMainsearch();return false">
+            <input type="hidden" name="from">
+            <input type="hidden" name="FrmSearchWords">
+            <input type="hidden" name="hidSearchStringType" value="">
+            <!--### SEARCH BOX STARTS HERE ###-->
+        
+                                <input name="keywords" id="nxt-search-box" type="text" maxlength="50" autocomplete="off"><a href="javascript:document.frmMainsearch.submit();" class="go_btn" title="Start Your Search"></a>			
+                                
+                                <script language="JavaScript" type="text/javascript">
+									document.frmMainsearch.keywords.focus();
+								</script> 
+                                				
+                                         
+        </form>
+        </div><!--end #search_box-->
+        
+
+ 
+</div>
+
+
+<script src="javascript/jquery.tools.min.js" type="text/javascript"></script>
+<script src="javascript/functions.js" type="text/javascript"></script>
+<script type="text/javascript" src="javascript/slimbox2.js"></script>
+
+<script type="text/javascript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
 }
+//-->
 </script>
 
-<link href="../../CSStyle/campsaver_services.css" rel="stylesheet" type="text/css">
-
-
-
-<table width="368" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-  <td width="160"><a href="outlet.asp"><img src="/Images/outlet.gif" alt="CampSaver.com Outlet" width="160" height="34" border="0" title="CampSaver.com Outlet"></a></td>
-	    <td width="50" valign="bottom" class="servbg">
-	        <div align="center">
-	          
-			        <a href="http://www.campsaver.com/acclogin.asp?url=AL" class="serv">Log in
-                       
-			        </a>
-		            
-            </div></td>
-	    <td width="50" valign="bottom" class="servbg">          <div align="center">        
-			<a href="http://www.campsaver.com/accinfo.asp?url=AI" class="serv">Account</a>					    
-		    </div></td>
-	    <td width="50" valign="bottom" class="servbg"><div align="center"><a href="contact.asp" class="serv">Contact</a></div></td>
-	    <td width="313" valign="bottom">
-	        
-				<a href="http://www.campsaver.com/viewcart.asp?url=VC"><img src="/images/cart.gif" alt="Shopping Cart" border="0" title="Shopping Cart"></a>
-			
-    </td>
-        <td width="313" valign="bottom"><img src="../Images/phone_number.gif" width="180" height="28" title=""></td>
-</tr>
-<tr bgcolor="#666666">
-  <td><img src="/images/cart.gif" alt="spacer" width="100" height="1" border="0" title="spacer"></td>
-  <td><img src="/images/cart.gif" alt="spacer" width="50" height="1" border="0" title="spacer"></td>
-  <td><img src="/images/cart.gif" alt="spacer" width="60" height="1" border="0" title="spacer"></td>
-  <td><img src="/images/cart.gif" alt="spacer" width="60" height="1" border="0" title="spacer"></td>
-  <td><img src="/images/cart.gif" alt="spacer" width="75" height="1" border="0" title="spacer"></td>
-  <td>&nbsp;</td>
-</tr>
-</tbody></table>
-
-					</div>
-						
-					<div id="search">
-						<div align="center">
-							<!--<input name="textfield" type="text" size="20" maxlength="50" />
-						    <img src="_images/design_images/search_go.gif" alt="Search!" width="37" height="35" align="absmiddle" />	-->
-						    
-						    <!-- ****** Search Navigation begins here ****** -->
-						      
-
-<script language="Javascript">
-function submitMainsearch()
-{ 
-	if (document.frmMainsearch.SearchWord.value.indexOf(" ") == 0)
-	{
-		alert("Search string should not start with spaces.");
-		document.frmMainsearch.SearchWord.focus();
-		return false;
-	}
-	if (document.frmMainsearch.SearchWord.value == "")
-	{
-		alert("Please enter a search string.");
-		document.frmMainsearch.SearchWord.focus();
-		return false;
-	}
-	
-	document.frmMainsearch.submit();
-	return true;
-}
-</script>
-
-
-<form name="frmMainsearch" method="get" action="/search/search.asp" onsubmit="JavaScript:submitMainsearch();return false">
-	<input type="hidden" name="from">
-	<input type="hidden" name="FrmSearchWords">
-    <input type="hidden" name="hidSearchStringType" value="1">
-	<!--### SEARCH BOX STARTS HERE ###-->
-	
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			
-			<td align="center" valign="top">
-					<font class="content">
-						<input name="keywords" onfocus="this.value=''" type="text" value="Search Store" size="20" maxlength="50">
-							
-			  </font>
-			  
-			</td>
-		</tr>
 		
+<div id="nav">
+		<ul class="mainnav">
+			<li class="mainnav" id="m1"><a class="mainnav" href="#" style="cursor:default;">Camp &amp; Hike</a>
+				<div class="nav-popup-wrapper">
+					<div style="display: none;" id="popup_camp" class="nav-popup">
+						<ul class="section">
+                        	<h2>Departments</h2>
+							<li><a href="http://shop.campsaver.com/nav/Department-Backpacks_%26_Bags">Backpacks &amp; Bags</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Camping_Essentials">Camping Essentials</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Cookware">Cookware</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Food">Food</a></li>		
+                            <li><a href="http://shop.campsaver.com/nav/Department-Camping_Essentials--Category-Knives_%26_Tools">Knives &amp; Tools</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Lights_%26_Lanterns">Lights &amp; Lanterns</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Sleeping_Bags_%26_Pads--Category-Sleeping_Bags">Sleeping Bags</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Sleeping_Bags_%26_Pads--Category-Pads%2C_Cots_%26_Hammocks">Pads, Cots &amp; Hammocks</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Stoves_%26_Accessories">Stoves &amp; More</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Tents_%26_Shelters">Tents &amp; Shelters</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Camping_Essentials--Category-Trekking_Poles_and_Accessories">Trekking Poles</a></li>			
+                            <li><a href="http://shop.campsaver.com/nav/Department-Water_Filters_%26_Purifiers">Water Treatment &amp; Carry </a></li>																							
+					</ul>
+                    <ul class="otherways">
+                    		<h2>Featured</h2>
+							<li><a href="http://shop.campsaver.com/nav/Other_Values-Outlet" class="contboldRd">Outlet Items</a></li>					
+                            <li><a href="http://shop.campsaver.com/nav/Other_Values-On_Sale" class="onSale">Sale Items</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Other_Values-Free_Item">Free Item Offers</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Other_Values-New_Item">New Items</a></li>
+					</ul>
+                    <hr class="clearFloat">
+				</div>
+                </div>
+			</li><!-- end mainnav -->
+            
+            <li class="mainnav" id="m2"><a class="mainnav" href="#" style="cursor:default;">Climbing</a>
+            <div class="nav-popup-wrapper">
+					<div style="display: none;" id="popup_climbing" class="nav-popup">
+						<ul class="section">
+                        	<h2>Departments</h2>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Accessories">Accessories</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Alpine_%26_Ice_Climbing">Alpine &amp; Ice Climbing</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Big_Wall_and_Protection">Big Wall &amp; Protection</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Bouldering_and_Training">Bouldering &amp; Training</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Carabiners%2C_Belay_Devices_%26_Quickdraws">Carabiners, Belay Devices &amp; Quickdraws</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Climbing_and_Mountaineering_Harnesses">Harnesses</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Climbing_Packs_%26_Bags">Packs &amp; Bags</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Ropes%2C_Runners_and_Slings">Ropes, Runners &amp; Slings</a></li>
+							<li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Climbing_Shoes">Shoes</a></li>																
+					</ul>
+                    <ul class="otherways">
+                    		<h2>Featured</h2>
+							<li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Other_Values-Outlet" class="contboldRd">Outlet Items</a></li>					
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Other_Values-On_Sale" class="onSale">Sale Items</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Other_Values-Free_Item">Free Item Offers</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Other_Values-New_Item">New Items</a></li>
+					</ul>
+                    <hr class="clearFloat">
+				</div>
+                </div>
+			</li><!-- end mainnav -->
+            
+            <li class="mainnav" id="m3"><a class="mainnav" href="#" style="cursor:default;">Snow Sports</a>
+            <div class="nav-popup-wrapper">
+					<div style="display: none;" id="popup_snow" class="nav-popup">
+						<ul class="section">
+                        	<h2>Departments</h2>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Category-Alpine_Touring">Alpine Touring</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Category-Avalanche_Safety">Avalanche Safety</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Category-Ski_Accessories">Ski Accessories</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Category-Snowshoes">Snowshoes</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Category-Telemark_Ski">Telemark</a></li>															
+					</ul>
+                    <ul class="otherways">
+                    		<h2>Featured</h2>
+							<li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Other_Values-Outlet" class="contboldRd">Outlet Items</a></li>					
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Other_Values-On_Sale" class="onSale">Sale Items</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Other_Values-Free_Item">Free Item Offers</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Other_Values-New_Item">New Items</a></li>
+					</ul>
+                    <hr class="clearFloat">
+				</div>
+                </div>
+			</li><!-- end mainnav -->
+			
+			<li class="mainnav" id="m4"><a class="mainnav" href="#" style="cursor:default;">Apparel</a>
+            <div class="nav-popup-wrapper">
+					<div style="display: none;" id="popup_apparel" class="nav-popup">
+						<ul class="section">
+                        	<h2>Departments</h2>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Category-Men%27s_Accessories">Men's Accessories</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Category-Men%27s_Underwear">Men's Underwear</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Category-Men%27s_Pants">Men's Bottoms</a></li>	
+							<li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Category-Men%27s_Jackets">Men's Jackets</a></li>					
+                            <li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Category-Men%27s_Tops">Men's Tops</a></li>							
+                            <li style="border-top:1px solid #ccc;"><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Category-Women%27s_Accessories">Women's Accessories</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Category-Women%27s_Underwear">Women's Underwear</a></li>		
+                            <li><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Category-Women%27s_Bottoms">Women's Bottoms</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Category-Women%27s_Jackets">Women's Jackets</a></li>			
+                            <li><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Category-Women%27s_Tops">Women's Tops</a></li>											
+					</ul>
+                    <ul class="otherways">
+                    		<h2>Featured</h2>
+							<li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Other_Values-Outlet" class="contboldRd">Men's Outlet</a></li>					
+                            <li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Other_Values-On_Sale" class="onSale">Men's Sale Items</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Other_Values-New_Item">Men's New Items</a></li>
+                            <li style="margin-top:22px; border-top:1px solid #ccc;"><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Other_Values-Outlet" style="border-top:1px solid #fff;" class="contboldRd">Women's Outlet</a></li>					
+                            <li><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Other_Values-On_Sale" class="onSale">Women's Sale Items</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Other_Values-New_Item">Women's New Items</a></li>
+					</ul>
+                    <hr class="clearFloat">
+				</div>
+                </div>
+			</li><!-- end mainnav -->
+            <li class="mainnav" id="m5"><a class="mainnav" href="#" style="cursor:default;">Footwear</a>
+            <div class="nav-popup-wrapper">
+					<div style="display: none;" id="popup_footwear" class="nav-popup">
+						<ul class="section">
+                        	<h2>Departments</h2>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Category-Climbing_Shoes">Climbing Shoes</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Category-Footwear_Accessories">Footwear Accessories</a></li>	
+							<li><a href="http://shop.campsaver.com/nav/Department-Footwear--Category-Men%27s_Shoes">Men's Shoes</a></li>						
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Category-Men%27s_Socks">Men's Socks</a></li>	
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Category-Women%27s_Shoes">Women's Shoes</a></li>						
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Category-Women%27s_Socks">Women's Socks</a></li>															
+					</ul>
+                    <ul class="otherways">
+                    		<h2>Featured</h2>
+							<li><a href="http://shop.campsaver.com/nav/Department-Footwear--Other_Values-Outlet" class="contboldRd">Outlet Items</a></li>					
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Other_Values-On_Sale" class="onSale">Sale Items</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Other_Values-Free_Item">Free Item Offers</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Other_Values-New_Item">New Items</a></li>
+					</ul>
+                    <hr class="clearFloat">
+				</div>
+                </div>
+			</li><!-- end mainnav -->
+            <li class="mainnav" id="m6"><a class="mainnav" href="http://shop.campsaver.com/nav/Other_Values-On_Sale">On Sale!</a>
+            <div class="nav-popup-wrapper">
+					<div style="display: none;" id="popup_sale" class="nav-popup">
+                    <ul class="otherways">
+                    		<h2>By Department</h2>
+							<li><a href="http://shop.campsaver.com/nav/Other_Values-On_Sale" class="onSale">All Camp/Hike</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Climbing_%26_Mountaineering--Other_Values-On_Sale" class="onSale">Climbing</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Footwear--Other_Values-On_Sale" class="onSale">Footwear</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Snow_Sports--Other_Values-On_Sale" class="onSale">Snow Sports</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Men%27s_Clothing--Other_Values-On_Sale" class="onSale">Men's Apparel</a></li>
+                            <li><a href="http://shop.campsaver.com/nav/Department-Women%27s_Clothing--Other_Values-On_Sale" class="onSale">Women's Apparel</a></li>
+					</ul>
+                    <hr class="clearFloat">
+				</div>
+                </div>
+			</li><!-- end mainnav -->
+            
+		</ul><!-- end mainnav -->
 
-	</tbody></table>
+<a href="http://shop.campsaver.com/nav/Other_Values-Outlet" style="width:109px; height:40px;" id="outlet" title="Go To The Outlet">Go To The Outlet</a>
+<!-- end  -->
+
+<div style="height:24px; margin-left:10px; margin:9px 8px 0 8px; display:inline; float:left;">
+
+<form name="form" id="form">
+  <select name="brands" id="brands" onchange="MM_jumpMenu('parent',this,0)">
+<option selected="">Shop By Brand</option>
+<option value="http://shop.campsaver.com/nav/Brand-ABC">ABC</option>
+<option value="http://shop.campsaver.com/nav/Brand-ACR">ACR</option>
+<option value="http://shop.campsaver.com/nav/Brand-Adventure Medical">Adventure Medical</option>
+<option value="http://shop.campsaver.com/nav/Brand-After Bite">After Bite</option>
+<option value="http://shop.campsaver.com/nav/Brand-Alite">Alite</option>
+<option value="http://shop.campsaver.com/nav/Brand-Alpina">Alpina</option>
+<option value="http://shop.campsaver.com/nav/Brand-Alpine Aire Foods">Alpine Aire Foods</option>
+<option value="http://shop.campsaver.com/nav/Brand-Aquamira">Aquamira</option>
+<option value="http://shop.campsaver.com/nav/Brand-Aquaseal">Aquaseal</option>
+<option value="http://shop.campsaver.com/nav/Brand-Ardica">Ardica</option>
+<option value="http://shop.campsaver.com/nav/Brand-Atlas">Atlas</option>
+<option value="http://shop.campsaver.com/nav/Brand-Atwater Carey">Atwater Carey</option>
+<option value="http://shop.campsaver.com/nav/Brand-Backcountry Access">Backcountry Access</option>
+<option value="http://shop.campsaver.com/nav/Brand-Backpackers Pantry">Backpacker's Pantry</option>
+<option value="http://shop.campsaver.com/nav/Brand-Beal">Beal</option>
+<option value="http://shop.campsaver.com/nav/Brand-Bear Bag">Bear Bag</option>
+<option value="http://shop.campsaver.com/nav/Brand-BearVault">BearVault</option>
+<option value="http://shop.campsaver.com/nav/Brand-Bens">Bens</option>
+<option value="http://shop.campsaver.com/nav/Brand-Big Agnes">Big Agnes</option>
+<option value="http://shop.campsaver.com/nav/Brand-Black Diamond">Black Diamond</option>
+<option value="http://shop.campsaver.com/nav/Brand-BlueWater Ropes">BlueWater Ropes</option>
+<option value="http://shop.campsaver.com/nav/Brand-Boreal">Boreal</option>
+<option value="http://shop.campsaver.com/nav/Brand-Bota">Bota</option>
+<option value="http://shop.campsaver.com/nav/Brand-Bridgedale">Bridgedale</option>
+<option value="http://shop.campsaver.com/nav/Brand-Brunton">Brunton</option>
+<option value="http://shop.campsaver.com/nav/Brand-Buzz Away">Buzz Away</option>
+<option value="http://shop.campsaver.com/nav/Brand-C.A.M.P.">C.A.M.P.</option>
+<option value="http://shop.campsaver.com/nav/Brand-Cache Lake Camping Food">Cache Lake Camping Food</option>
+<option value="http://shop.campsaver.com/nav/Brand-Cactus Juice">Cactus Juice</option>
+<option value="http://shop.campsaver.com/nav/Brand-CamelBak">CamelBak</option>
+<option value="http://shop.campsaver.com/nav/Brand-Camp Chef">Camp Chef</option>
+<option value="http://shop.campsaver.com/nav/Brand-Camp Soap">Camp Soap</option>
+<option value="http://shop.campsaver.com/nav/Brand-CampnTrail">Camp'nTrail</option>
+<option value="http://shop.campsaver.com/nav/Brand-Campsuds">Campsuds</option>
+<option value="http://shop.campsaver.com/nav/Brand-CLIF">CLIF</option>
+<option value="http://shop.campsaver.com/nav/Brand-Clikstand">Clikstand</option>
+<option value="http://shop.campsaver.com/nav/Brand-Cloudveil">Cloudveil</option>
+<option value="http://shop.campsaver.com/nav/Brand-CMI">CMI</option>
+<option value="http://shop.campsaver.com/nav/Brand-Coghlans">Coghlan's</option>
+<option value="http://shop.campsaver.com/nav/Brand-Coleman">Coleman</option>
+<option value="http://shop.campsaver.com/nav/Brand-Columbia River">Columbia River</option>
+<option value="http://shop.campsaver.com/nav/Brand-Counter Assault">Counter Assault</option>
+<option value="http://shop.campsaver.com/nav/Brand-Cutter">Cutter</option>
+<option value="http://shop.campsaver.com/nav/Brand-Dakine">Dakine</option>
+<option value="http://shop.campsaver.com/nav/Brand-Darn Tough">Darn Tough</option>
+<option value="http://shop.campsaver.com/nav/Brand-Dermatone">Dermatone</option>
+<option value="http://shop.campsaver.com/nav/Brand-Diamond">Diamond</option>
+<option value="http://shop.campsaver.com/nav/Brand-Dr.Scholls">Dr. Scholl's</option>
+<option value="http://shop.campsaver.com/nav/Brand-Dyna-flex">Dyna-flex</option>
+<option value="http://shop.campsaver.com/nav/Brand-Dynafit">Dynafit</option>
+<option value="http://shop.campsaver.com/nav/Brand-Edelrid">Edelrid</option>
+<option value="http://shop.campsaver.com/nav/Brand-Edelweiss">Edelweiss</option>
+<option value="http://shop.campsaver.com/nav/Brand-El Molino">El Molino</option>
+<option value="http://shop.campsaver.com/nav/Brand-Energizer">Energizer</option>
+<option value="http://shop.campsaver.com/nav/Brand-Enertia Trail Foods">Enertia Trail Foods</option>
+<option value="http://shop.campsaver.com/nav/Brand-Ergon">Ergon</option>
+<option value="http://shop.campsaver.com/nav/Brand-Esbit">Esbit</option>
+<option value="http://shop.campsaver.com/nav/Brand-Estwing">Estwing</option>
+<option value="http://shop.campsaver.com/nav/Brand-Etowah">Etowah</option>
+<option value="http://shop.campsaver.com/nav/Brand-Evernew">Evernew</option>
+<option value="http://shop.campsaver.com/nav/Brand-Evolv">Evolv</option>
+<option value="http://shop.campsaver.com/nav/Brand-ExOfficio">ExOfficio</option>
+<option value="http://shop.campsaver.com/nav/Brand-Exped">Exped</option>
+<option value="http://shop.campsaver.com/nav/Brand-Faders">Faders</option>
+<option value="http://shop.campsaver.com/nav/Brand-First Need">First Need</option>
+<option value="http://shop.campsaver.com/nav/Brand-Fischer">Fischer</option>
+<option value="http://shop.campsaver.com/nav/Brand-Five Ten">Five Ten</option>
+<option value="http://shop.campsaver.com/nav/Brand-Fixe">Fixe</option>
+<option value="http://shop.campsaver.com/nav/Brand-Fox River">Fox River</option>
+<option value="http://shop.campsaver.com/nav/Brand-Fozzils">Fozzils</option>
+<option value="http://shop.campsaver.com/nav/Brand-Fritschi">Fritschi</option>
+<option value="http://shop.campsaver.com/nav/Brand-Frontiersman">Frontiersman</option>
+<option value="http://shop.campsaver.com/nav/Brand-G3">G3</option>
+<option value="http://shop.campsaver.com/nav/Brand-Garmont">Garmont</option>
+<option value="http://shop.campsaver.com/nav/Brand-Gear Aid">Gear Aid</option>
+<option value="http://shop.campsaver.com/nav/Brand-Geigerrig">Geigerrig</option>
+<option value="http://shop.campsaver.com/nav/Brand-Gerber">Gerber</option>
+<option value="http://shop.campsaver.com/nav/Brand-Gibbon">Gibbon</option>
+<option value="http://shop.campsaver.com/nav/Brand-Giro">Giro</option>
+<option value="http://shop.campsaver.com/nav/Brand-GoGirl">GoGirl</option>
+<option value="http://shop.campsaver.com/nav/Brand-GoLite">GoLite</option>
+<option value="http://shop.campsaver.com/nav/Brand-Grand Trunk">Grand Trunk</option>
+<option value="http://shop.campsaver.com/nav/Brand-Granite Gear">Granite Gear</option>
+<option value="http://shop.campsaver.com/nav/Brand-Gregory">Gregory</option>
+<option value="http://shop.campsaver.com/nav/Brand-Grip Balls">Grip Balls</option>
+<option value="http://shop.campsaver.com/nav/Brand-GSI">GSI</option>
+<option value="http://shop.campsaver.com/nav/Brand-GU">GU</option>
+<option value="http://shop.campsaver.com/nav/Brand-Guyot Designs">Guyot Designs</option>
+<option value="http://shop.campsaver.com/nav/Brand-Hennessy">Hennessy</option>
+<option value="http://shop.campsaver.com/nav/Brand-HighGear">HighGear</option>
+<option value="http://shop.campsaver.com/nav/Brand-Icebreaker">Icebreaker</option>
+<option value="http://shop.campsaver.com/nav/Brand-Isis">Isis</option>
+<option value="http://shop.campsaver.com/nav/Brand-Jetboil">Jetboil</option>
+<option value="http://shop.campsaver.com/nav/Brand-Katadyn">Katadyn</option>
+<option value="http://shop.campsaver.com/nav/Brand-Kayland">Kayland</option>
+<option value="http://shop.campsaver.com/nav/Brand-Kelty">Kelty</option>
+<option value="http://shop.campsaver.com/nav/Brand-Kenyon">Kenyon</option>
+<option value="http://shop.campsaver.com/nav/Brand-Kershaw">Kershaw</option>
+<option value="http://shop.campsaver.com/nav/Brand-Klean Kanteen">Klean Kanteen</option>
+<option value="http://shop.campsaver.com/nav/Brand-Kong">Kong</option>
+<option value="http://shop.campsaver.com/nav/Brand-Kor">Kor</option>
+<option value="http://shop.campsaver.com/nav/Brand-Leatherman">Leatherman</option>
+<option value="http://shop.campsaver.com/nav/Brand-Leki">Leki</option>
+<option value="http://shop.campsaver.com/nav/Brand-Lekisport">Lekisport</option>
+<option value="http://shop.campsaver.com/nav/Brand-Lewis N Clark">Lewis N Clark</option>
+<option value="http://shop.campsaver.com/nav/Brand-Life-Link">Life-Link</option>
+<option value="http://shop.campsaver.com/nav/Brand-LifeCaps">LifeCaps</option>
+<option value="http://shop.campsaver.com/nav/Brand-Light My Fire">Light My Fire</option>
+<option value="http://shop.campsaver.com/nav/Brand-Littlbug">Littlbug</option>
+<option value="http://shop.campsaver.com/nav/Brand-Lowe Alpine">Lowe Alpine</option>
+<option value="http://shop.campsaver.com/nav/Brand-LuxuryLite">LuxuryLite</option>
+<option value="http://shop.campsaver.com/nav/Brand-Mad Rock">Mad Rock</option>
+<option value="http://shop.campsaver.com/nav/Brand-Magic Heat">Magic Heat</option>
+<option value="http://shop.campsaver.com/nav/Brand-Mammut">Mammut</option>
+<option value="http://shop.campsaver.com/nav/Brand-Marmot">Marmot</option>
+<option value="http://shop.campsaver.com/nav/Brand-McNett">McNett</option>
+<option value="http://shop.campsaver.com/nav/Brand-Metolius">Metolius</option>
+<option value="http://shop.campsaver.com/nav/Brand-Millet">Millet</option>
+<option value="http://shop.campsaver.com/nav/Brand-Monatauk">Monatauk</option>
+<option value="http://shop.campsaver.com/nav/Brand-Mont-Bell">Mont-Bell</option>
+<option value="http://shop.campsaver.com/nav/Brand-Mountain Hardwear">Mountain Hardwear</option>
+<option value="http://shop.campsaver.com/nav/Brand-Mountain House">Mountain House</option>
+<option value="http://shop.campsaver.com/nav/Brand-Mountainsmith">Mountainsmith</option>
+<option value="http://shop.campsaver.com/nav/Brand-MSR">MSR</option>
+<option value="http://shop.campsaver.com/nav/Brand-Nalgene">Nalgene</option>
+<option value="http://shop.campsaver.com/nav/Brand-Natural High">Natural High</option>
+<option value="http://shop.campsaver.com/nav/Brand-Natures Coffee Kettle">Nature's Coffee Kettle</option>
+<option value="http://shop.campsaver.com/nav/Brand-Naxo">Naxo</option>
+<option value="http://shop.campsaver.com/nav/Brand-Nemo">Nemo</option>
+<option value="http://shop.campsaver.com/nav/Brand-Nikwax">Nikwax</option>
+<option value="http://shop.campsaver.com/nav/Brand-Optimus">Optimus</option>
+<option value="http://shop.campsaver.com/nav/Brand-Origo">Origo</option>
+<option value="http://shop.campsaver.com/nav/Brand-Ortovox">Ortovox</option>
+<option value="http://shop.campsaver.com/nav/Brand-Osprey">Osprey</option>
+<option value="http://shop.campsaver.com/nav/Brand-Outdoor Designs">Outdoor Designs</option>
+<option value="http://shop.campsaver.com/nav/Brand-Outdoor Research">Outdoor Research</option>
+<option value="http://shop.campsaver.com/nav/Brand-Packit%20Gourmet">Packit Gourmet</option>
+<option value="http://shop.campsaver.com/nav/Brand-Pacific Outdoor Equipment">Pacific Outdoor Equipment</option>
+<option value="http://shop.campsaver.com/nav/Brand-Patagonia">Patagonia</option>
+<option value="http://shop.campsaver.com/nav/Brand-Pelican">Pelican</option>
+<option value="http://shop.campsaver.com/nav/Brand-Petzl">Petzl</option>
+<option value="http://shop.campsaver.com/nav/Brand-Pieps">Pieps</option>
+<option value="http://shop.campsaver.com/nav/Brand-Platypus">Platypus</option>
+<option value="http://shop.campsaver.com/nav/Brand-Polar Pure">Polar Pure</option>
+<option value="http://shop.campsaver.com/nav/Brand-Potable Aqua">Potable Aqua</option>
+<option value="http://shop.campsaver.com/nav/Brand-Prana">Prana</option>
+<option value="http://shop.campsaver.com/nav/Brand-Primus">Primus</option>
+<option value="http://shop.campsaver.com/nav/Brand-Princeton Tec">Princeton Tec</option>
+<option value="http://shop.campsaver.com/nav/Brand-Probar">Probar</option>
+<option value="http://shop.campsaver.com/nav/Brand-Rab">Rab</option>
+<option value="http://shop.campsaver.com/nav/Brand-Repel">Repel</option>
+<option value="http://shop.campsaver.com/nav/Brand-Richmoor">Richmoor</option>
+<option value="http://shop.campsaver.com/nav/Brand-Riverside">Riverside</option>
+<option value="http://shop.campsaver.com/nav/Brand-Rome">Rome</option>
+<option value="http://shop.campsaver.com/nav/Brand-Rottefella">Rottefella</option>
+<option value="http://shop.campsaver.com/nav/Brand-Scarpa">Scarpa</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sea to Summit">Sea to Summit</option>
+<option value="http://shop.campsaver.com/nav/Brand-Seal Line">Seal Line</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sherpa">Sherpa</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sherpak">Sherpak</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sherpani">Sherpani</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sierra Designs">Sierra Designs</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sigg">Sigg</option>
+<option value="http://shop.campsaver.com/nav/Brand-Silva">Silva</option>
+<option value="http://shop.campsaver.com/nav/Brand-Ski Trab">Ski Trab</option>
+<option value="http://shop.campsaver.com/nav/Brand-Smartwool">Smartwool</option>
+<option value="http://shop.campsaver.com/nav/Brand-Snow Peak">Snow Peak</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sole">Sole</option>
+<option value="http://shop.campsaver.com/nav/Brand-SolHuma">SolHuma</option>
+<option value="http://shop.campsaver.com/nav/Brand-SOS">SOS</option>
+<option value="http://shop.campsaver.com/nav/Brand-Spenco">Spenco</option>
+<option value="http://shop.campsaver.com/nav/Brand-SPOT">SPOT</option>
+<option value="http://shop.campsaver.com/nav/Brand-Spyderco">Spyderco</option>
+<option value="http://shop.campsaver.com/nav/Brand-Spyroflex">Spyroflex</option>
+<option value="http://shop.campsaver.com/nav/Brand-Stanley">Stanley</option>
+<option value="http://shop.campsaver.com/nav/Brand-Steripen">Steripen</option>
+<option value="http://shop.campsaver.com/nav/Brand-Sterno">Sterno</option>
+<option value="http://shop.campsaver.com/nav/Brand-StingEze">StingEze</option>
+<option value="http://shop.campsaver.com/nav/Brand-Stubai">Stubai</option>
+<option value="http://shop.campsaver.com/nav/Brand-Suunto">Suunto</option>
+<option value="http://shop.campsaver.com/nav/Brand-Table in a Bag">Table in a Bag</option>
+<option value="http://shop.campsaver.com/nav/Brand-Teko">Teko</option>
+<option value="http://shop.campsaver.com/nav/Brand-Terra Nova">Terra Nova</option>
+<option value="http://shop.campsaver.com/nav/Brand-Therm-A-Rest">Therm-A-Rest</option>
+<option value="http://shop.campsaver.com/nav/Brand-Toollogic">Toollogic</option>
+<option value="http://shop.campsaver.com/nav/Brand-Tracks">Tracks</option>
+<option value="http://shop.campsaver.com/nav/Brand-Trail Blazer">Trail Blazer</option>
+<option value="http://shop.campsaver.com/nav/Brand-Trail Designs">Trail Designs</option>
+<option value="http://shop.campsaver.com/nav/Brand-Trangia">Trangia</option>
+<option value="http://shop.campsaver.com/nav/Brand-Travel John">Travel John</option>
+<option value="http://shop.campsaver.com/nav/Brand-Treksta">Treksta</option>
+<option value="http://shop.campsaver.com/nav/Brand-Tubbs">Tubbs</option>
+<option value="http://shop.campsaver.com/nav/Brand-Twenty Two Designs">Twenty Two Designs</option>
+<option value="http://shop.campsaver.com/nav/Brand-U Dig It">U Dig It</option>
+<option value="http://shop.campsaver.com/nav/Brand-UCO">UCO</option>
+<option value="http://shop.campsaver.com/nav/Brand-Ultimate Direction">Ultimate Direction</option>
+<option value="http://shop.campsaver.com/nav/Brand-Ultimate Survival">Ultimate Survival</option>
+<option value="http://shop.campsaver.com/nav/Brand-Ultrathon">Ultrathon</option>
+<option value="http://shop.campsaver.com/nav/Brand-Vargo">Vargo</option>
+<option value="http://shop.campsaver.com/nav/Brand-Vasque">Vasque</option>
+<option value="http://shop.campsaver.com/nav/Brand-Vaude">Vaude</option>
+<option value="http://shop.campsaver.com/nav/Brand-Victorinox">Victorinox</option>
+<option value="http://shop.campsaver.com/nav/Brand-Voile">Voile</option>
+<option value="http://shop.campsaver.com/nav/Brand-Walkstool">Walkstool</option>
+<option value="http://shop.campsaver.com/nav/Brand-Wenger">Wenger</option>
+<option value="http://shop.campsaver.com/nav/Brand-Westcomb">Westcomb</option>
+<option value="http://shop.campsaver.com/nav/Brand-White Box">White Box</option>
+<option value="http://shop.campsaver.com/nav/Brand-Windmill">Windmill</option>
+<option value="http://shop.campsaver.com/nav/Brand-Zamberlan">Zamberlan</option>
+<option value="http://shop.campsaver.com/nav/Brand-Zeal Optics">Zeal Optics</option>
+
+</select>
 </form>
+</div><!-- end mainnav -->
+		<a href="http://www.campsaver.com/viewcart.asp" id="cart" title="View Cart">View Cart</a>	
 
-<!--### SEARCH BOX ENDS HERE ###-->
+</div><!-- end nav -->
+<hr class="clearFloat">
 
-						</div>
-					</div>
+</div>
 
-					<div id="banner1">
-						<!-- START CONTROLSCAN CODE -->
-<a href="https://www.controlscan.com/cgi-bin/pcir/seal/verify4.php?dom=3855DE49&amp;id=20" target="verify"><img border="0" src="https://www.controlscan.com/cgi-bin/pcir/seal/sealx2.php?subid=4290&amp;id=20" oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt="Internet Security By ControlScan" title="Internet Security By ControlScan"></a>
-<!-- STOP CONTROLSCAN CODE -->
-				  </div>
-					<div id="banner2">
-						<img src="_images/design_images/ups_banner_2.gif" alt="Free Shipping on orders over $50" width="125" height="41" title="Free Shipping on orders over $50">
-					</div>
-					
-					<div id="floating_cart">
-			          <!-- ****** Cart contents display begins here ****** -->
-						  
-<!--### CART CONTENTS TABLE STARTS HERE ###-->
+<div id="global_super_banner">
+<a href="http://www.campsaver.com/newsletter.asp"><img src="http://campsaver.com/images/promos/top_fall_10.gif" alt="Get 20% OFF your next purchase by signing up for our newsletter." title="Get 20% OFF your next purchase by signing up for our newsletter." width="955" height="40" border="0"></a>
+</div>
 
-
-			<table width="100%" border="0" cellpadding="1" cellspacing="2" class="floating_cart">
-		 
-				<tbody><tr>
-					<td width="35%" valign="middle"><font class="floatingcart">Items:</font></td>
-					<td valign="middle" width="65%"><font class="floatingcartb">0</font></td>
-				</tr>
-				<tr>
-					<td width="35%" valign="bottom"><font class="floatingcart">Total:</font></td>
-					<td valign="bottom" width="65%"><font class="floatingcartb"><a href="viewcart.asp"><img src="../Images/go_cart.gif" alt="View Cart" width="26" height="20" border="0" align="right" longdesc="cart.asp" title="View Cart"></a>$0.00
-					</font></td>
-				</tr>
-			</tbody></table>
-
-<!--### CART CONTENTS TABLE ENDS HERE ###-->
-
-			        </div>
-				</td>
-			</tr>
-		</tbody></table>
-		
-		<!-- Main Display Table -->
-		<table id="_TblmainDisplay" width="100%">
-			<tbody><tr>
-				<td>
-					<div id="content">
-						<table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
-						  <tbody><tr>
-						    <td width="156" valign="top" bgcolor="#DFEF97" class="cat_navigation">
-							  
-					            <!-- ****** Category, Manufacturer & Brand Navigation begins here ****** -->
-						                <link href="/CSStyle/campsaver_category.css" rel="stylesheet" type="text/css">
-
-<table width="156" border="0" cellpadding="0" cellspacing="0" bgcolor="#DFEF97">
-
-  <tbody><tr>
-
-    <td valign="top" bgcolor="#333333" class="cat_navigation"><img src="_Images/design_images/shop.gif" width="156" height="27" title=""></td>
-
-  </tr>
-
-  <tr>
-
-    <td valign="top" bgcolor="#63672A" class="cat_allbrands">
-
-      <span class="cat_allbrands">
-
-          
-
-          <select id="Select" onchange="window.location.href=this.value">
-                                    <option selected="selected">Top Brands!</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=alpine_air">Alpine Aire Foods</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=aquaseal">Aquaseal</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=aquastar">Aquastar</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=atlas">Atlas Snowshoes</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=atwater">Atwater Carey</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=bca">Backcountry Access</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=backpackers_pantry">Backpacker's Pantry</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=bens">Bens</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=bag">Big Agnes</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=bld">Black Diamond</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=brunton">Brunton</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=camelbak">CamelBak</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=camp">C.A.M.P.</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=celestron">Celestron</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=cloudveil">Cloudveil</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=counter">Counter Assault</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=dyn">Dynafit</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=edelrid">Edelrid</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=etw">Etowah</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=exped">Exped</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=first_need">First Need</option>
-										  <option value="http://www.campsaver.com/items.asp?Bc=fiveten">Five Ten</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=fritschi">Fritschi</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=g3">G3</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=garmont">Garmont</option>
-                                        <!--option value="http://www.campsaver.com/items.asp?BN=GoLite&amp;Bc=golite&amp;BrandName=GoLite">GoLite</option-->
-										<option value="http://www.campsaver.com/items.asp?Bc=golite">GoLite</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=granite">Granite Gear</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=gregory">Gregory</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=gsi">GSI</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=highgear">HighGear</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=hennessy">Hennessy</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=jetboil">Jetboil</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=katadyn">Katadyn</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=kelty">Kelty</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=Leki">Leki</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=lfl">Life-Link</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=light_my_fire">Light My Fire</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=lowe%5Falpine">Lowe Alpine</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=marmot">Marmot</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=mcnett">MeNett</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=metolius">Metolius</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=mountain_house">Mountain House</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=montbell">Mont-Bell</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=mtn%5Fhardwear">Mountain Hard.</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=mts">Mountainsmith</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=MSR">MSR</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=natural_high">Natural High</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=nalgene">Nalgene</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=naxo">NAXO</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=nemo">Nemo</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=nikwax">Nikwax</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=optimus">Optimus</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=ort">Ortovox</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=outdoor%5Fresearch">Outdoor Research</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=poe">Pacific Outdoor</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=petzl">Petzl</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=platypus">Platypus</option>
-										   <option value="http://www.campsaver.com/items.asp?Bc=powderhorn">Powderhorn</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=primus">Primus</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=princeton%5Ftec">Princeton Tec</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=rab">Rab</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=repel">Repel</option>
-										 <option value="http://www.campsaver.com/items.asp?Bc=richmoor">Richmoor</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=scarpa">Scarpa</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=sts">Sea To Summit</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=sierra%5Fdesigns">Sierra Designs</option>
-										  <option value="http://www.campsaver.com/items.asp?Bc=silva">Silva</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=snow%5Fpeak">Snow Peak</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=stanley">Stanley</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=steripen">Steripen</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=sterno">Sterno</option>
-										<option value="http://www.campsaver.com/items.asp?Bc=terra_nova">Terra Nova</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=thr">Thermarest</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=trangia">Trangia</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=travel%5Fhammock">Travel Hammock</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=tubbs">Tubbs Snowshoes</option>
-										   <option value="http://www.campsaver.com/items.asp?Bc=uco">UCO</option>
-										   <option value="http://www.campsaver.com/items.asp?Bc=walkstool">Walkstool</option>
-										    <option value="http://www.campsaver.com/items.asp?Bc=westcomb">Westcomb</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=western%5Fmount">Western Mtn.</option>
-                                        <option value="http://www.campsaver.com/items.asp?Bc=zeal">Zeal Optics</option>
-      </select>
-
-      </span> <!--span class="cat_allbrands"><a href="http://www.campsaver.com/AtoZdisplay.asp?Type=03&TpData=" class="cat_allbrands"> All Brands A-Z</a></span--><br>
-
-      
-
-	  </td>
-
-  </tr>
-
-  <tr>
-
-    <td valign="top" bgcolor="#DFEF97" class="cat_navigation"><img src="_Images/design_images/clothing_tab.gif" width="156" height="27" title=""></td>
-
-  </tr>
-
-  <tr>
-
-    <td valign="top" bgcolor="#DFEF97" class="cat_navigation"><a href="http://www.campsaver.com/items.asp?Cc=mens">Men's Clothing</a> <a href="http://www.campsaver.com/items.asp?Cc=women">Women's Clothing</a> <a href="http://www.campsaver.com/itemlist.asp?Cc=kids">Kid's</a></td>
-
-  </tr>
-
-  <tr>
-
-    <td valign="top" bgcolor="#DFEF97" class="cat_navigation"><img src="_Images/design_images/gear_tab.gif" width="156" height="27" title=""></td>
-
-  </tr>
-
-  <tr>
-
-    <td valign="top" bgcolor="#DFEF97" class="cat_navigation"><p><a href="http://www.campsaver.com/items.asp?Cc=backpacks">Backpacks</a> <a href="http://www.campsaver.com/items.asp?Cc=camp_essential">Camp Essentials</a><a href="http://www.campsaver.com/items.asp?Cc=climb">Climbing/Mountaineering</a><a href="http://www.campsaver.com/items.asp?Cc=cookware_p">Cookware </a>
-  
-        <a href="http://www.campsaver.com/items.asp?Cc=first_aid">First Aid/Personal Care</a><a href="http://www.campsaver.com/items.asp?Cc=food_p">Food</a><a href="http://www.campsaver.com/items.asp?Cc=lights">Lights &amp; Lanterns</a> <a href="http://www.campsaver.com/items.asp?Cc=navigate">Navigation &amp; Electronics</a><a href="http://www.campsaver.com/items.asp?Cc=slbag">Sleeping Bags &amp; Pads</a><a href="http://www.campsaver.com/items.asp?Cc=stove">Stoves</a><a href="http://www.campsaver.com/items.asp?Cc=tent">Tents </a>
-  
-        <a href="http://www.campsaver.com/itemlist.asp?Cc=trekking_poles">Trekking Poles</a><a href="http://www.campsaver.com/items.asp?Cc=water_treat">Water Treatment</a><a href="http://www.campsaver.com/items.asp?Cc=snow%5Fsports&amp;Bc=&amp;INM=Snow Sports"></a></p>
-     
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+<div id="global_category">
+<div class="filters">
+<h2>Customer Service</h2>
+<ul class="filter_group">
+  <li><strong>Help</strong></li>
+  <li><a href="http://www.campsaver.com/ordertracking.asp">Order Status</a></li>
+  <li><a href="http://www.campsaver.com/newsletter.asp">Newsletter Signup</a></li>	
+  <li><a href="http://www.campsaver.com/newsletterdeal.asp">Deal of the Day Signup</a></li>
+  <li><a href="http://www.campsaver.com/contact.asp">Contact Us</a></li>	
+</ul>
     
-    <p></p></td>
+<ul class="filter_group">
+	<li><strong>Shipping &amp; Returns</strong></li>
+    <li><a href="http://www.campsaver.com/return_policy.asp">Return an Item/Return Policy</a></li>
+    <li><a href="http://www.campsaver.com/shipping_info.asp">Shipping Info</a></li>
+    <li><a href="http://www.campsaver.com/shipping_info_int.asp">International Shipping</a></li>		
+</ul>
 
-  </tr>
+<ul class="filter_group">
+	<li><strong>Top Links</strong></li>
+    <li><a href="http://www.campsaver.com/AtoZdisplay.asp?Type=03">Brands A-Z</a></li>
+    <li><a href="http://shop.campsaver.com/nav/Other_Values-Outlet">Outlet</a></li>
+    <li><a href="http://shop.campsaver.com/nav/Department-Backpacks_%26_Bags">Backpacks</a></li>	
+    <li><a href="http://www.campsaver.com/items.asp?Cc=tent">Tents</a></li>	
+    <li><a href="http://shop.campsaver.com/nav/Department-Sleeping_Bags_%26_Pads--Category-Sleeping_Bags">Sleeping Bags</a></li>	
+</ul>
 
-</tbody></table>
+</div>
 
+<div class="promos">
+   <!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/63987654/?cmd=file&amp;file=visitorWantsToChat&amp;site=63987654&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat63987654" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/63987654/?cmd=file&amp;file=visitorWantsToChat&amp;site=63987654&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat63987654','width=475,height=400,resizable=yes');return false;" title="Ask us a question" style="color:#cc0000;"><img height="80" alt="Read Your Store Reviews" src="images/category_chat.jpg" width="170" border="0" style="margin-left:10px;"></a>
+</div>
+ <div class="promos">
+   <a href="review_sweepstakes.asp"><img src="images/category_review_promo.jpg" alt="Write a review, enter to win a major award." title="Write a review, enter to win a major award." width="170" border="0" style="margin-left:10px;"></a>
+        </div><!-- end .cat_promos -->
+<div class="promos">
+   <a href="http://www.shopping.com/xMR-CampSaver.com~MRD-307874~S-1" target="_blank"><img height="80" alt="Read Your Store Reviews" src="images/category_shopping_promo.jpg" width="170" border="0" style="margin-left:10px;"></a><a href="http://www.shopping.com/xDN-Sport%20and%20Outdoor"><img height="1" alt="" src="images/spacer.gif" width="1" border="0"></a>
+   </div>
+</div>
 
-						        
-								<!--<span class="cat_allbrands"><a href="#" class="cat_allbrands"> All Brands A-Z </a></span></p><br/>
-								<span class="cat_allbrands"><a href="#" class="cat_allbrands"> All Brands A-Z </a></span><br/>-->
-								
-							  </td>
-					    <td width="631" valign="top" class="MainDispSE"><!--<p>&nbsp;</p>-->
-					        <div id="_MainDisplay">
-					            <!-- Content Starts Here SET -->
-					                
-					                <table cellpadding="5" cellspacing="3" border="0">
-					                    <tbody><tr>
-					                        <td>
-					                              <p><b><font face="Arial, Helvetica, sans-serif" color="#003366" size="3">Camp 
+	<div id="global_main_content">
+		<p><b><font face="Arial, Helvetica, sans-serif" color="#003366" size="3">Camp 
 Saver LLC<br>
 </font></b></p>
-<blockquote>
 	<p><font face="Arial, Helvetica, sans-serif" color="#2896cd"><strong>
 	<font size="2">Privacy Statement</font></strong></font><font face="Arial, Helvetica, sans-serif" color="#333333" size="2"><br>
 	We value and respect the privacy of all our user guests and want you to know 
@@ -2143,130 +635,123 @@ Saver LLC<br>
 	If you have any questions regarding the Camp Saver LLC Privacy Policy, 
 	please contact us.</font></p>
 	<p><font face="Arial, Helvetica, sans-serif" color="#333333" size="2">
-	<a href="mailto:service@campsaver.com">service@campsaver.com</a></font></p>
+	<a href="mailto:cs@campsaver.com">cs@campsaver.com</a></font></p>
 	<p><font face="Arial, Helvetica, sans-serif" color="#333333" size="2">Camp 
 	Saver LLC<br>
-	82 W 100 N <br>
+	31 N 100 Main St <br>
 	Logan, UT 84321 </font></p>
 	<p><font face="Arial, Helvetica, sans-serif" color="#333333" size="2">Thank 
 	you</font></p>
-</blockquote>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
 
-					                        </td>
-					                    </tr>
-					                </tbody></table>
-					                						          
-					                <br>
-					                <br>
-					                <br>
-					                <br>
-					                <br>
-					                <br>
-					                <br>
-				                <!-- Content Ends Here SysElements -->
-					        </div>
-					    </td>
-					    <td width="168" class="MainDispSE">
-					        <!--<div id="topbrand">-->
-					        <div>
-			                  
-					            <!-- ****** web services begins here ****** -->		
-					            
-					            <br>
-						            <!-- ****** featured Navigation begins here ****** -->
-						        
-<link href="../CSStyle/campsaver_top_sellers.css" rel="stylesheet" type="text/css">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	  <td valign="middle" class="list"><b><font color="#FF0000">Deals of the Week! </font></b></td>
-  </tr>
-	<tr>
-      <td valign="middle" class="list"><p><font size="1"><b><font size="1"><b><font color="#FF0000"><a href="http://www.campsaver.com/itemlist.asp?Cc=menjacket&amp;Bc=golite"><img src="mmWINTERFIXCOM/Images/t/golite_phantasm_08.jpg" alt="Leki Super Makalu Trekking Pole" width="54" height="60" border="0" align="right" title="Leki Super Makalu Trekking Pole"></a></font></b></font><font color="#333333">GoLite GoreTex Jackets </font></b></font></p>
-          <p><font size="1"><b><font color="#FF0000">30% Off <a href="http://www.campsaver.com/itemlist.asp?Cc=menjacket&amp;Bc=golite">click here </a></font></b></font></p></td>
-  </tr>
-	<tr>
-      <td valign="middle" class="list"><p><font size="1"><b><font size="1"><b><font color="#FF0000"><a href="http://www.campsaver.com/itemdesc.asp?ic=out0017"><img src="mmWINTERFIXCOM/Images/t/leki-super-makalu-em-as.jpg" alt="Leki Super Makalu Trekking Pole" width="54" height="60" border="0" align="right" title="Leki Super Makalu Trekking Pole"></a></font></b></font><font color="#333333">Leki Super Makalu Trekking Poles</font></b></font></p>
-        <p><font size="1"><b><font color="#FF0000">35% Off <a href="http://www.campsaver.com/itemdesc.asp?ic=out0017">click here </a></font></b></font></p></td>
-  </tr>
-	<tr>
-	  <td valign="middle" class="list"><font size="1"><b><font color="#FF0000"><a href="itemlistFS.asp?FSCat=10&amp;url=IND&amp;iFromFeatured=1"><img src="../Images/support_images/2008_editor_choice.gif" alt="Backpacker Magazine Editors Choice" width="54" height="60" border="0" align="right" title="Backpacker Magazine Editors Choice"></a><font color="#333333">2008 Editor's Choice </font></font></b><font color="#333333"><br>
-        <a href="itemlistFS.asp?FSCat=10&amp;url=IND&amp;iFromFeatured=1">From Backpacker Magzine </a></font></font></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr>
-                              <td valign="middle" background="/_Images/design_images/itemlist_tab_background2.gif" class="title">&nbsp;&nbsp;&nbsp;<font size="2">Features</font> </td>
-                            </tr>
-                            <tr>
-                              <td class="list"><p><font color="#FF0000"><a href="outlet.asp">Outlet</a></font></p>
-                                  <p><a href="itemlistFS.asp?FSCat=1&amp;url=IND&amp;iFromFeatured=1">New 2008 Gear </a></p>
-                                  <p><a href="itemlistFS.asp?FSCat=10&amp;url=IND&amp;iFromFeatured=1">Award Winners</a></p>
-                                  <p><a href="itemlistFS.asp?FSCat=2&amp;url=IND&amp;iFromFeatured=1">Top Ultralights</a></p>
-                                  <p><a href="newsletter.asp">Newsletter Signup </a></p>
-                                  <p>&nbsp;</p></td>
-                            </tr>
-</tbody></table>
-	
-			                  
-			                </div>
-					    </td>
-					  </tr>
-					</tbody></table>
-						 <!-- SE Footer Include -->
-						 
+					                        
+	</div>
+  <hr class="clearFloat">
+
+  <div id="global_footer">
 
 
-<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#999999">
-	<tbody><tr>
-		<td width="25%" align="center" bgcolor="#FFFFFF">
-		
-			<script type="text/javascript" src="avant_sfpc_10008.js"></script>
-			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<div id="cell1"><span class="footert">Shipping &amp; Returns <br>
+    <a href="http://www.campsaver.com/return_policy.asp">Return an Item/ Return Policy </a><br>
+    <a href="http://www.campsaver.com/shipping_info.asp">Shipping Info</a><br>
+    <a href="http://www.campsaver.com/shipping_info_int.asp">International Shipping </a><br><br>
+    <a href="http://www.facebook.com/pages/CampSavercom/63704168135?ref=ts" title="Follow us on Facebook"><img src="images/facebook-24x24-footer.gif" alt="Follow us on Facebook" title="Follow us on Facebook" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.twitter.com/campsaver" title="Follow Us on Twitter"><img src="images/twitter-24x24-footer.gif" alt="Follow us on Twitter" title="Follow us on Twitter" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="feed.xml"><img src="images/rss-24x24-footer.gif" alt="Follow us on RSS" title="Follow us on RSS" border="0"></a></span>
+  <!-- ****** Web Site info is placed here ****** -->
 
-		
+</div>
 
+<div id="cell2">
+<span class="footert">Help<br>
+    <a href="http://www.campsaver.com/ordertracking.asp">Order Status</a><br>
+    <a href="http://www.campsaver.com/contact.asp">Contact Us</a><br>
+    <a href="http://www.campsaver.com/newsletter.asp">Newsletter Signup</a><br>
+    <a href="http://www.campsaver.com/newsletterdeal.asp">Deal of the Day Signup</a><br>
+    <a href="http://www.campsaver.com/affiliate_program.asp">Affiliate Program</a><br>
+    <br></span>
+  
+</div>
+
+<div class="footert" id="cell3">Top Links <br>
+  <a href="http://www.campsaver.com/AtoZdisplay.asp?Type=03">Brands A-Z</a><br>
+  <a href="http://shop.campsaver.com/nav/Other_Values-Outlet">Outlet</a><br>
+  <a href="http://shop.campsaver.com/nav/Department-Backpacks_%26_Bags">Backpacks</a><br>
+  <a href="http://shop.campsaver.com/nav/Department-Tents">Tents</a><br>
+  <a href="http://shop.campsaver.com/nav/Department-Sleeping_Bags_%26_Pads--Category-Sleeping_Bags">Sleeping Bags</a></div>
+    
+<div id="cell4">
+<p align="right" class="footer"><font size="1" face="Arial, Helvetica, sans-serif">© 2010 Camp Saver LLC. All Rights Reserved. | <a href="privacypolicy.asp">Privacy Policy</a> <br>
+  <a href="https://www.bbb.org/online/consumer/cks.aspx?id=1081001134510577" target="_blank"><img src="../Images/support_images/bbbsealh1.gif" alt="CampSaver.com Accredited Business Verification" width="90" height="34" vspace="10" border="0"></a></font><br>
+ The Family: <a href="http://www.Wildfly.com">Wildfly.com</a> &amp; <a href="http://www.winterfix.com">WinterFix.com</a> | <a class="tf_upfront_badge" href="http://www.thefind.com/whats-upfront" style="text-decoration:none;"><b>CampSaver.com</b> is <u>UpFront</u></a>
+ <script src="//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js" type="text/javascript"></script>
+<script type="text/javascript">thefind.upfront.init('tf_upfront_badge', 'd0b37a9b1e3d9d90073204a6a41e44c4')</script>
+
+  </p>
+
+</div>
+
+<!-- SITEBRAND FOOTER 2.2 START -->
 <script type="text/javascript">
-_uacct = "UA-188658-1";
-urchinTracker();
+    var sbwidth=1,sbheight=1;
+    sitebrandInclude();
 </script>
-		  
-			
-            <!-- ****** Web Site info is placed here ****** -->
-				
-	  </td>	
-	    <td width="25%" valign="top" bgcolor="#EAEAEA"><h3>Shop</h3>
-	      <p><a href="AtoZdisplay.asp?Type=03">Brands A-Z</a><br>
-      <a href="AtoZdisplay.asp?Type=01">Categories A-Z </a></p></td>
-	    <td width="25%" valign="top" bgcolor="#EAEAEA"><h3>Customer Service </h3>
-        <p><a href="contact.asp">Contact Us</a><br>
-          <a href="shipping_info.asp">Shipping Info</a><br>
-          <a href="return_policy.asp">Return Policy</a><br>
-          <a href="newsletter.asp">Newsletter</a><br>
-          <br> 
-        </p>
-      </td>
-      <td width="25%" valign="top" bgcolor="#EAEAEA"><h3>Company Info </h3>
-	      <a href="aboutus.asp">About Us</a><br>
-          <a href="affiliate.asp">Affiliate Program</a> <br>
-      <a href="http://www.campedia.com">Campedia Blog </a></td>
-    </tr>
-	<tr bgcolor="#CCCCCC">
-	  <td colspan="4" align="center"><font size="1" face="Arial, Helvetica, sans-serif">© 2007 Camp Saver LLC. All rights reserved. | <a href="privacypolicy.asp">Privacy Policy</a> </font></td>
-  </tr>
-</tbody></table>
-<script language="javascript">
-	setTitleForImages();
-	if((navigator.userAgent.toUpperCase().indexOf("MAC") != -1) && (navigator.userAgent.toUpperCase().indexOf("GECKO") == -1))
-	{	
-		setHrefForLinks();
-	}
+<!-- SITEBRAND FOOTER END -->	
+    
+  
+    <script type="text/javascript" src="avant_sfpc_10008.js"></script>
+    
+
+    
+    <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    includedLanguages: 'ar,zh-CN,zh-TW,nl,fr,de,it,ja,ko,no,pl,ru,es,sv'
+  }, 'google_translate_element');
+}
 </script>
-					</div>
-						</td>
-					</tr>
-		</tbody></table>
-        </div>
+<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-188658-1");
+pageTracker._setDomainName("campsaver.com");
+pageTracker._trackPageview();
+    </script>
+    <!-- GoDataFeed code for product details pages -->
 	
+<!--<script language="javascript" type="text/javascript" src="https://tracking.godatafeed.com/gdf_click.js"></script> -->
+
+<!-- BEGIN LivePerson Monitor. -->
+<!-- END LivePerson Monitor. -->
+
+<!-- START clickable tracking-->
+<script type="text/javascript"> 
+document.write(unescape("%3Cscript src='" + (location.protocol=="https:" ? "https://" : "http://") + "cn.clickable.net/js/cct.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="https://cn.clickable.net/js/cct.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+document.cookie=cct.CookieCheck(document.cookie); 
+cct.cct_log('0820-2P1a3gaeeVdi9e7w973f4a8ba2fa8013eb996ae2'); 
+</script> 
+<!-- END clickable tracking-->
 
 
-</body></html>
+<script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "63987654",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
+
+
+</div>
+
+</div>
+
+<div id="nxt-ac-container"></div> <script type="text/javascript"> var nxt_ac_words=new Array(); </script> 
+<script type="text/javascript" src="/search/cache/ac_wordlist.js"></script>
+
+<script type="text/javascript" src="/search/yui-autocomplete-min.js"></script>
+
+
+
+
+<div id="lbOverlay" style="display: none;"></div><div id="lbCenter" style="display: none;"><div id="lbImage"><div style="position: relative;"><a id="lbPrevLink" href="#"></a><a id="lbNextLink" href="#"></a></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>
