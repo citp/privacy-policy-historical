@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scubadiving.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628021135id_/http%3A//www.scubadiving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubadiving.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026043635id_/http%3A//www.scubadiving.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scuba Diving Magazine
 
