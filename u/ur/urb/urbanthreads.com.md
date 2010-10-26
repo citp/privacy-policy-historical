@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214809id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026072515id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.*
 
 # Embroidery Designs at Urban Threads - Privacy Policy
 
