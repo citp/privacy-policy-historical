@@ -1,32 +1,81 @@
-> *The following text is extracted and transformed from the arthack.org privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531174714id_/http%3A//www.mallwp.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthack.org privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026185347id_/http%3A//www.mallwp.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MallWP LLC
+# Privacy Policy | MALLWP
 
-**MallWP** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+#### THE END USER PRIVACY POLICY
 
- **IP Addresses and Cookies**  
-We use your IP address to help diagnose problems with our servers, and to administer our Web site. Your IP address and cookie file is used to help identify you and your personal profile, track shopping cart items, and track your access via .htaccess requests, where applicable.
+  * We have created this privacy policy to demonstrate our commitment to the privacy of the end user.
+  * Please read the following to learn more about our privacy policy and how we handle the personal information collected from our customers.
 
- **Personal Information**  
-Our site uses a variety of feedback and/or registration forms, order forms, online survey forms, and submission forms which require users to give us contact information (like name and email address). The user’s contact information is used to contact the visitor when necessary. Contact information from these forms may also be used to send information about our company and scheduled events, merchandise specials, contests, or other information relating to **MallWP** and its strategic partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
- **Links**  
-This site contains links to other sites. **MallWP** is not responsible for the privacy practices or the content of such Web sites.
 
- **Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+#### WHAT THIS PRIVACY POLICY COVERS
 
- **Security**  
-This site employs security measures to protect the loss, misuse and alteration of the information under our control.
+  * This privacy policy covers our treatment of personally identifiable information collected by us through a website owned and operated by us.
+  * This privacy policy does not apply to the practices of companies that are not in our direct subjection, or of persons not employed by us, including any third-party content contributors bound by contract and any third-party websites to which our websites may link.
 
- **Subscription Mailing List**  
-If you have subscribed to our mailing list and now wish to remove yourself from it, you may do so via the included unsubscribe link located inside all of our sent email correspondence.
 
- **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service and cancel their subscriptions.
 
- **Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.
+#### COLLECTION AND USE OF PERSONAL INFORMATION
 
- **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us.
+  * You may visit our websites without disclosing any personal information.
+  * However, we need certain personal information if you wish to purchase our products, register an Affiliate Account, receive our newsletter, or use certain services.
+  * If and where required, this information may include your contact information and/or your company contact information.
+  * We will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member’s account, and to contact you regarding new products and services.
+  * By accessing our services and voluntarily providing us with the requested personal information, you consent to the collection and use of information in accordance with this privacy policy.
+
+
+
+#### COLLECTION AND USE OF NON-PERSONAL INFORMATION
+
+  * We automatically receive and record certain types of non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested.
+  * We may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services.
+  * However, we do not connect this non-personal data to any personal information collected from you.
+  * We also allow third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer.
+  * These cookies are not connected to any personal information in any way.
+  * Third party cookie usage is subject to their own privacy policies, and we assume no responsibility or liability for their use.
+
+
+
+#### INFORMATION SHARING AND DISCLOSURE
+
+  * We may disclose your personal information to third parties who work on our behalf to provide products and services requested by you.
+  * We may share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * We may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property that pertain to us;
+    * We find that your actions on our websites violate our Terms of Use document or any of our usage guidelines pertaining to corresponding products or services.
+
+
+
+#### CONSENT
+
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to us.
+  * If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, please notify us.
+
+
+
+#### SECURITY
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure.
+  * However, your information stored with us is protected for your privacy and security.
+  * In the high security areas of our websites, as identified on the site, we use industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, we retain your personal information only as long as necessary to fulfill the purposes identified above or as required by governing law.
+
+
+
+#### CHANGES TO THIS PRIVACY POLICY
+
+  * We may at any time, without notice to you and in its sole discretion, amend this policy from time to time.
+  * Please review this policy periodically.
+  * Your continued use of our websites after any such amendments signifies your acceptance thereof.
+
+
+
+#### QUESTIONS AND SUGGESTIONS
+
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us.
+
+
