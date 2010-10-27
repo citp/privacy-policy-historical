@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modchipstore.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627090420id_/http%3A//www.modchipstore.com/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modchipstore.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027102706id_/http%3A//www.modchipstore.com/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # ModChipStore.com - Help section/ ModChipStore.com
 
