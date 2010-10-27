@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the figureprints.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205054734id_/http%3A//figureprints.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figureprints.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027223131id_/http%3A//www.figureprints.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # FigurePrints - Privacy Policy
 
