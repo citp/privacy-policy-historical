@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627142944id_/http%3A//www.dublinairport.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027185223id_/http%3A//www.dublinairport.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,6 +56,6 @@ If you wish to get more information on Dublin Airport Authority's Privacy policy
 Dublin Airport Authority  
 Dublin Airport  
 Co Dublin Ireland  
-Email: [webmaster-dublin@daa.ie](mailto:webmaster-dublin@daa.ied)
+Email: [webmaster-dublin@daa.ie](mailto:webmaster-dublin@daa.ie)
 
 * * *
