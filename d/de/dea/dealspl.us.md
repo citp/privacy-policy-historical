@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealspl.us privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629143407id_/http%3A//dealspl.us/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealspl.us privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027083547id_/http%3A//dealspl.us/info/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - dealspl.us
 
