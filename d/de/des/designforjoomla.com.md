@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102145150id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027164309id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Joomla Templates, Joomla Extensions for the Joomla CMS - Privacy Policy
 
@@ -22,17 +22,17 @@ We do not sell user list of our users to any third party company for any further
 
 ### Popular D4J Joomla! Templates Club Templates
 
-**Ornate** is a very impressive template from D4J Joomla! Templates Club. ...
+What a nice blog template! Soft and easy colors! This design is supposed to ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/ornate.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/blue_blog.php)  
 ---|---  
   
-**Terrafirma** is an inspired and light-weight template that is a perfect fit ...
+**Expert Vision** \- a simple style - easily editable for your website. ...
 
-| [](http://designforjoomla.com/home/joomla_templates_club/terrafirma.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/expert_vision.php)  
 ---|---  
   
-**Visual Tomfoolery** is a two column, fluid, dark background, light header for ...
+**Voodoo** is an elastic design, smart use of color, excellent markup arrangement ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/visual_tomfoolery.php)  
+| [](http://designforjoomla.com/home/joomla_templates_club/voodoo.php)  
 ---|---
