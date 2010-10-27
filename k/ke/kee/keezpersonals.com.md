@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keezpersonals.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403165110id_/http%3A//keezpersonals.com/go/page/privacy.html%3Fm%3D%26site%3Dffadult%26dcb%3Dkeezpersonals.com%26who%3Dr%2CoHPzWIUa3Z9REA0drqP5NGlnOw4hef2bVELJqo3j5RG1C_YScCMHdqxkeqIfdHx2IhWBBylsofH_RQYzBvCeQqALxq0Ek3_iwBHRxmbyPWxU_uvUusoIoWSZrKjXbmAVzQyPhBo1Hzs84HjuifDzgGW2LNDyUHbGaE3/xGHYou8-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keezpersonals.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027071226id_/http%3A//www.keezpersonals.com/go/page/privacy.html%3Fdcb%3Dkeezpersonals.com) for the most accurate reproduction.*
 
 # keezpersonals - keezpersonals PRIVACY POLICY
 
