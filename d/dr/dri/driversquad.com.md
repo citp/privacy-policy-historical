@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversquad.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623133530id_/http%3A//www.driversquad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversquad.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027123232id_/http%3A//driversquad.com/privacy.php) for the most accurate reproduction.*
 
 # Driver Squad
 
@@ -62,7 +62,7 @@ THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE I
 
 The following paragraphs in Section 2 describe how Driver Squad currently uses Individual Information, but Driver Squad may change or broaden its use at any time. As noted, Driver Squad may update this policy from time to time. Driver Squad may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
-2.2 Email. Driver Squad uses Individual Information to provide promotional offers by email to individuals. Driver Squad may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Driver Squad’s email lists, a person must click here.
+2.2 Email. Driver Squad uses Individual Information to provide promotional offers by email to individuals. Driver Squad may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Driver Squad’s email lists, a person must [click here](https://web.archive.org/web/20101027123232id_/http%3A//driversquad.com/un.php).
 
 2.2(a) Content of Email Messages.
 
@@ -93,6 +93,8 @@ Driver Squad uses Individual Information to make a profile of an individual. A p
 Driver Squad may store Individual Information in a database on Driver Squad computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Driver Squad’s control. Not withstanding such measures, Driver Squad cannot guarantee that its security measures will prevent Driver Squad computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
 3\. Dissemination of Individual Information.
+
+Driver Squad may sell or transfer personally identifiable information to Third party marketers or advertisers.
 
 3.1 Sale or Transfer to Third Parties. Driver Squad MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN Driver Squad’S SOLE DISCRETION.
 
@@ -132,7 +134,7 @@ Anyone using the Website outside of the United States acknowledges that personal
 
 6\. Unsubscribe Procedures.
 
-6.1 If you wish to discontinue receiving email messages from Driver Squad, you have several options: Unsubscribe from one email list. We reserve the right to add Individual Information to multiple lists maintained by Driver Squad. To unsubscribe from a particular list, either (1) follow the instructions in each promotional email message sent by Driver Squad or (2) To globally unsubscribe from all of Driver Squad’s lists, click here.
+6.1 If you wish to discontinue receiving email messages from Driver Squad, you have several options: Unsubscribe from one email list. We reserve the right to add Individual Information to multiple lists maintained by Driver Squad. To unsubscribe from a particular list, either (1) follow the instructions in each promotional email message sent by Driver Squad or (2) To globally unsubscribe from all of Driver Squad’s lists, [click here](https://web.archive.org/web/20101027123232id_/http%3A//driversquad.com/un.php).
 
 Unsubscribe from a particular SMS messaging campaign.  
 To unsubscribe from a particular SMS messaging campaign on a cell phone, send "STOP", "END", or "QUIT" to the SMS message received by the individual. In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.  
