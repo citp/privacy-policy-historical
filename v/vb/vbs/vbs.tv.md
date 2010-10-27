@@ -1,42 +1,33 @@
-> *The following text is extracted and transformed from the vbs.tv privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617013632id_/http%3A//www.vbs.tv/statics/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbs.tv privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027094102id_/http%3A//www.vbs.tv/statics/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | VBS.TV
 
 The Effective Date of this Privacy Policy is June 08, 2009.
 
-This Privacy Policy applies only to information collected on the [http://vbs.tv](http://vbs.tv/) web site, which is owned by VBS IPTV LLC (“VBS,” “we” or “us”), and other interactive features or protocols (including, without limitation, mobile sites and widgets) that link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected via the Site and does not cover any information collected at any other web site or offline by VBS (unless specifically stated at the time of collection). This Privacy Policy explains VBS’s information collection practices at the Site, such as the types of information VBS collects regarding visitors to the Site and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the Site’s [Terms of Use](https://web.archive.org/statics/terms), which governs your use of the Site.
+This Privacy Policy applies only to information collected on the http://vbs.tv web site, which is owned by VBS IPTV LLC (“VBS,” “we” or “us”), and other interactive features or protocols (including, without limitation, mobile sites and widgets) that link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected via the Site and does not cover any information collected at any other web site or offline by VBS (unless specifically stated at the time of collection). This Privacy Policy explains VBS’s information collection practices at the Site, such as the types of information VBS collects regarding visitors to the Site and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the Site’s Terms of Use, which governs your use of the Site.
 
 #### TABLE OF CONTENTS
 
-  * The Information The Site Collects And How We Use It
-    * Information You Provide Us
-    * Information In Your Public Profile
-    * Your Disclosure Of Personal Information
-    * Information You Provide About A Third Party
-    * Information Third Parties Provide About You ****
-    * Information We Collect As You Access And Use The Site
-      * Cookies
-      * Web Beacons
-      * Embedded Scripts
-  * How And When We Disclose Information To Third Parties
-    * When You Agree To Receive Information From Third Parties
-    * Third Parties Providing Services On Our Behalf
-    * Sweepstakes, Contests And Promotions
-    * Administrative And Legal Reasons
-    * Business Transfers
-  * Third-Party Ad Serving & Audience And Traffic Measurement Services
-  * General Audience Web Site
-  * Changing Your Information And Subscriptions And Questions
-  * Third Party Content And Links To Third Party Sites
-  * Consent To Transfer Information To The United States
-  * Security
-  * Changes To The Privacy Policy
-
+  * THE INFORMATION THE SITE COLLECTS AND HOW WE USE IT
+  * Information You Provide Us
+  * Information In Your Public Profile
+  * Your Disclosure Of Personal Information
+  * Information You Provide About A Third Party
+  * Information We Collect As You Access And Use The Site
+  * HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES 
+  * THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES
+  * GENERAL AUDIENCE WEB SITE
+  * CHANGING YOUR INFORMATION AND SUBSCRIPTIONS AND QUESTIONS
+  * THIRD PARTY CONTENT AND LINKS TO THIRD PARTY SITES
+  * CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES
+  * SECURITY
+  * CHANGES TO THE PRIVACY POLICY
+  * 
 
 
 #### THE INFORMATION THE SITE COLLECTS AND HOW WE USE IT
 
-##### Information You Provide Us
+#### INFORMATION YOU PROVIDE US
 
 The Site may ask you to provide personally identifiable information, which is information that could be used to contact you or identify you personally, such as your name or e-mail address (“Personal Information”) and other information about you, such as demographic information (your gender, ZIP code or similar information) or certain information about your preferences and interests. The Site may collect Personal Information and other information about you at various places and forms on the Site, including registration forms, when you submit a question to us, or when you otherwise communicate or interact with us. If we combine demographic or similar information with the Personal Information we collect, we will treat it as Personal Information under this Privacy Policy.
 
@@ -48,7 +39,7 @@ VBS may publish User Content online or offline in any media or format (currently
 
 Please note that information submitted to the Site via a "contact us” or other similar function may not receive a response. We will not use the information provided via these functions to contact you for marketing purposes unrelated to your request unless you agree otherwise.
 
-##### Information In Your Public Profile
+#### INFORMATION IN YOUR PUBLIC PROFILE
 
 If you register as a member of the Site, you may create a public profile that includes your screen name, your personal photo, as well as other information that you choose to post about yourself in the portion of your profile designated as public (“Public Profile”). Your Public Profile also includes the list of videos that you mark as your favorites and the list of shows to which you are subscribed (unless you choose, at the time of registration or by later modifying your account, to not make that information publicly available).
 
@@ -56,49 +47,49 @@ Information in your Public Profile, such as your screen name and personal photo,
 
 You may edit the information in your Public Profile by logging in and going into “My Account.” You may terminate your account by using the “Contact Us” feature and sending us your username, password and e-mail address. Please specify “REMOVE” as the subject and include a note asking us to terminate your account.
 
-##### Your Disclosure Of Personal Information
+#### YOUR DISCLOSURE OF PERSONAL INFORMATION
 
 If you post Personal Information through comment posting areas or in other User Content or in your Public Profile, that Personal Information will be publicly available and you may receive unsolicited messages from third parties. VBS cannot ensure the security of any information you choose to make public in User Content or your Public Profile and cannot ensure that third parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding what information to include in your User Content and Public Profile and when deciding to disclose Personal Information in any public areas of the Site.
 
-##### Information You Provide About A Third Party
+#### INFORMATION YOU PROVIDE ABOUT A THIRD PARTY
 
 If you send someone else a communication from the Site, such as sending a video to a friend, the information you provide (names, e-mail addresses, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person.
 
-##### Information We Collect As You Access And Use The Site
+#### INFORMATION WE COLLECT AS YOU ACCESS AND USE THE SITE
 
 In addition to any Personal Information or other information that you provide to us on the Site, we and our third-party service providers may use a variety of technologies that automatically collect certain Site usage information whenever you visit or interact with the Site. This information may include browser type, operating system, the web page served, the time, and the preceding web page viewed, among other information. We may use this Site usage information for a variety of purposes, including to enhance or otherwise improve the Site. In addition, your IP address or some other unique identifier for the particular device you use to access the Site, as applicable (each, a “Device Identifier”) may be collected. A Device Identifier is a number that is automatically assigned to your computer, your mobile phone, or other device used to access the Internet (each, a “Device”), and our computers identify your Device by its Device Identifier. We may associate your Device Identifier with your Personal Information. We may use cookies, web beacons, embedded scripts and other technologies to collect Site usage information.
 
-_Cookies_. A cookie is a data file placed on a Device when it is used to access the Site. Cookies may be used for many purposes including, without limitation, tracking user preferences and web pages visited while using the Site. You may disable cookies using your Device's preferences, but some features of the Site may not function properly if you disable cookies.
+_Cookies_. A cookie is a data file placed on a Device when it is used to access the Site. Cookies may be used for many purposes including, without limitation, tracking user preferences and web pages visited while using the Site. You may disable cookies using your Device’s preferences, but some features of the Site may not function properly if you disable cookies.
 
-_Web Beacons_. Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in the Site's web pages and e-mail messages. Web beacons may be invisible to you, but any image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails sent were actually opened or to count how many particular videos or links were actually viewed.
+_Web Beacons_. Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in the Site’s web pages and e-mail messages. Web beacons may be invisible to you, but any image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails sent were actually opened or to count how many particular videos or links were actually viewed.
 
 _Embedded Scripts_. An embedded script is programming code that is designed to collect information about your interactions with the Site, such as which links you click on. The code is temporarily downloaded onto your Device from our Web server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.
 
 We may combine automatically collected Site usage information with your Personal Information. In those cases, we will apply this Privacy Policy to the combined information.
 
-#### HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
+#### HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES 
 
 VBS may share non-personally identifiable information, such as aggregated user statistics, with third parties. We do not share your Personal Information with third parties for those third parties’ marketing purposes unless you consent to such sharing at the time you provide your Personal Information. We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
 
-_When You Agree To Receive Information From Third Parties_. You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your Personal Information shared, your Personal Information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your Personal Information shared, your Personal Information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly. 
+_When You Agree To Receive Information From Third Parties_. You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your Personal Information shared, your Personal Information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your Personal Information shared, your Personal Information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
 
-_Third Parties Providing Services On Our Behalf_. We may use third party vendors to perform certain services on behalf of the Site, such as hosting the Site, designing and/or operating the Site's features, analyzing users' interactions with the Site, enabling VBS to send you e-mail, or performing other administrative services. We may provide these vendors with access to user information, including Personal Information, to carry out the services they are performing for you or for VBS. 
+_Third Parties Providing Services On Our Behalf_. We may use third party vendors to perform certain services on behalf of the Site, such as hosting the Site, designing and/or operating the Site’s features, analyzing users’ interactions with the Site, enabling VBS to send you e-mail, or performing other administrative services. We may provide these vendors with access to user information, including Personal Information, to carry out the services they are performing for you or for VBS.
 
-_Sweepstakes, Contests And Promotions_. We may offer sweepstakes, contests, and other promotions (any, a "Promotion") through the Site that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list. 
+_Sweepstakes, Contests And Promotions_. We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) through the Site that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-_Administrative And Legal Reasons_. We may also transfer and disclose user information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; or (iii) to protect and/or defend the Site's Terms of Use or other policies applicable to the Site or to protect the personal safety, rights, property or security of any individual. We may also use Device Identifiers (e.g., IP addresses) to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you. 
+_Administrative And Legal Reasons_. We may also transfer and disclose user information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; or (iii) to protect and/or defend the Site’s Terms of Use or other policies applicable to the Site or to protect the personal safety, rights, property or security of any individual. We may also use Device Identifiers (e.g., IP addresses) to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you.
 
-_Business Transfers_. VBS may share Personal Information with its subsidiaries and affiliates for internal business reasons. VBS also reserves the right to disclose and transfer all information related to the Site, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or component of the Site, such as a database; or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of VBS's assets or other corporate change, including, without limitation, during the course of any due diligence process. 
+_Business Transfers_. VBS may share Personal Information with its subsidiaries and affiliates for internal business reasons. VBS also reserves the right to disclose and transfer all information related to the Site, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or component of the Site, such as a database; or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of VBS’s assets or other corporate change, including, without limitation, during the course of any due diligence process.
 
 #### THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES
 
-The Site uses [DoubleClick](http://www.doubleclick.com/), a third party advertising provider, to serve advertisements on the Site. Advertising providers are third parties that display advertisements based on your visits to the Site and other web sites you have visited, allowing targeted advertisements to be delivered to you for products and services in which you might be interested. The Site also uses a third party traffic measurement service to analyze how visitors use the Site. Third party advertising providers, advertisers (whose ads are displayed via the advertising provider) and the traffic measurement services used on the Site may use cookies, web beacons or embedded scripts (described above) or other similar mechanisms to automatically collect web site usage information. Third party advertising providers and the advertisers may use this web site usage information for, among other purposes, helping deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements are to you. Traffic measurement services used on the Site may use the collected web site usage information for, among other purposes, gathering information about users’ interactions with the Site, such as which links are clicked on. Cookies, web beacons and embedded scripts and other similar mechanisms used to collect web site usage information from advertising providers, advertisers and traffic measurement services are governed by their respective privacy policies and not this Privacy Policy. However, we do not share any Personal Information with these third parties in connection with their performing these services on the Web Site.
+The Site uses DoubleClick, a third party advertising provider, to serve advertisements on the Site. Advertising providers are third parties that display advertisements based on your visits to the Site and other web sites you have visited, allowing targeted advertisements to be delivered to you for products and services in which you might be interested. The Site also uses a third party traffic measurement service to analyze how visitors use the Site. Third party advertising providers, advertisers (whose ads are displayed via the advertising provider) and the traffic measurement services used on the Site may use cookies, web beacons or embedded scripts (described above) or other similar mechanisms to automatically collect web site usage information. Third party advertising providers and the advertisers may use this web site usage information for, among other purposes, helping deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements are to you. Traffic measurement services used on the Site may use the collected web site usage information for, among other purposes, gathering information about users’ interactions with the Site, such as which links are clicked on. Cookies, web beacons and embedded scripts and other similar mechanisms used to collect web site usage information from advertising providers, advertisers and traffic measurement services are governed by their respective privacy policies and not this Privacy Policy. However, we do not share any Personal Information with these third parties in connection with their performing these services on the Web Site.
 
-For more information about DoubleClick, including instructions on how to opt out of DoubleClick’s targeted advertising, please see <http://www.doubleclick.com/privacy/index.aspx> . For additional information about how to opt out of targeted advertising from DoubleClick and other members of the Network Advertising Initiative, please see <http://www.networkadvertising.org/> .
+For more information about DoubleClick, including instructions on how to opt out of DoubleClick’s targeted advertising, please see http://www.doubleclick.com/privacy/index.aspx . For additional information about how to opt out of targeted advertising from DoubleClick and other members of the Network Advertising Initiative, please see http://www.networkadvertising.org/ .
 
 #### GENERAL AUDIENCE WEB SITE
 
-The Site is a general audience web site and we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from an individual younger than the age of thirteen (13). If you are a parent of a child younger than age thirteen (13) and you have a concern about information that may have been provided by your child to us, please contact us at [info@vbs.tv](mailto:info@vbs.tv) .
+The Site is a general audience web site and we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from an individual younger than the age of thirteen (13). If you are a parent of a child younger than age thirteen (13) and you have a concern about information that may have been provided by your child to us, please contact us at info@vbs.tv .
 
 #### CHANGING YOUR INFORMATION AND SUBSCRIPTIONS AND QUESTIONS
 
