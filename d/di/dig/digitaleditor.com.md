@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330183712id_/http%3A//www.digitaleditor.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027151019id_/http%3A//www.digitaleditor.com/Privacy) for the most accurate reproduction.*
 
 # Statement of Privacy
 
@@ -38,7 +38,7 @@ Personal information collected on this site may be stored and processed in the U
 
 ## Control your Personal Information
 
-Digital Editor allows you to modify the information we hold about you by visiting your membership profile page. Please [contact us](http://www.digitaleditor.com/contact.aspx) if you wish to delete your membership account.
+Digital Editor allows you to modify the information we hold about you by visiting your membership profile page. Please [contact us](http://digitaleditor.com/contact.aspx) if you wish to delete your membership account.
 
 You may stop the delivery of future email from Digital Editor by following the specific instructions in the email you receive. The instructions explain how to stop receiving such emails.
 
@@ -54,7 +54,7 @@ Digital Editor uses "cookies" to help you personalize your online experience. A 
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize Digital Editor's pages, or register with Digital Editor sites or services, a cookie helps Digital Editor to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as member ID, email address, and so on. When you return to Digital Editor, the information you previously provided can be retrieved, so you can easily use the Digital Editor features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Digital Editor services or Web sites you visit. Read "[What's a cookie?](http://www.digitaleditor.com/whatsacookie)" for more information.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Digital Editor services or Web sites you visit. Read "[What's a cookie?](http://digitaleditor.com/whatsacookie)" for more information.
 
 ## Use of Third Party Ad Networks
 
@@ -78,12 +78,9 @@ Digital Editor will occasionally update this Statement of Privacy to reflect com
 
 ## Contact Information
 
-Digital Editor welcomes your comments regarding this Statement of Privacy. If you believe that Digital Editor has not adhered to this Statement, please contact Digital Editor by [email](http://www.digitaleditor.com/contact.aspx).
+Digital Editor welcomes your comments regarding this Statement of Privacy. If you believe that Digital Editor has not adhered to this Statement, please contact Digital Editor by [email](http://digitaleditor.com/contact.aspx).
 
   
 
 
-### This site looks much better in a browser that supports current web standards, but it is accessible to any browser. [ Download one now ](http://www.digitaleditor.com/eu.aspx?url=http://www.webstandards.org/upgrade/ "This link is to a third party web site which will open in a new window")
-
-### Some parts of this site will not work effectively on this older browser.  
-Please consider [ updating your browser ](http://www.digitaleditor.com/eu.aspx?url=http://www.webstandards.org/upgrade/ "This link is to a third party web site which will open in a new window")
+### This site looks much better in a browser that supports current web standards, but it is accessible to any browser. [ Download one now ](http://digitaleditor.com/eu.aspx?url=http://www.webstandards.org/upgrade/ "This link is to a third party web site which will open in a new window")
