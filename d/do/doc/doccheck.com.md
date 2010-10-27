@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doccheck.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605235621id_/http%3A//www.doccheck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doccheck.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027111842id_/http%3A//www.doccheck.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DocCheck
 
