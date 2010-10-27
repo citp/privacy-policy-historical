@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323073239id_/http%3A//www.rent-acoder.com/rent_a_coder_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027100329id_/http%3A//www.rent-acoder.com/rent_a_coder_privacy_policy.php) for the most accurate reproduction.*
 
-# Rent A Coder - Hire Freelancers - Outsource Projects - Webdesign - Work From Home - Quality Job - Outsource Job - Online Business - Bid For Projects
+# Rent A Coder - Hire Freelancers
 
   
 
@@ -20,7 +20,7 @@ Links
 This Web site contains links to other sites. Please be aware that [Rent-ACoder.com](http://www.rent-acoder.com/) is not responsible for the privacy practices of other sites. We encourage our users to be aware of when they leave our site, and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the [Rent-ACoder.com](http://www.rent-acoder.com/) Web site. 
 
 Questions   
-If you have questions, or if you feel we are in violation of this privacy policy, please email [contact [at] Rent-ACoder.com](mailto:contact@rent-acoder.com)
+If you have questions, or if you feel we are in violation of this privacy policy, please email [payments [at] Rent-ACoder.com](mailto:payments@rent-acoder.com)
 
 Cookies   
 Our Site uses cookies to save your login and password so you don't have to re-enter it each time you visit our site. If you click the "sign out" link the cookies will be cleared. 
