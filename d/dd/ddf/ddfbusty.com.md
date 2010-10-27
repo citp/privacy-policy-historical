@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326144509id_/http%3A//ddfbusty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddfbusty.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027075454id_/http%3A//ddfbusty.com/privacy) for the most accurate reproduction.*
 
 # 
 
