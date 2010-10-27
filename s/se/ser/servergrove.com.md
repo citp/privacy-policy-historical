@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510004444id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027145937id_/http%3A//servergrove.com/privacy) for the most accurate reproduction.*
 
 # ServerGrove Privacy Policy
 
 ServerGrove Networks, Inc.
 
-Version Date:August 30th 2009
+Version Date:October 6th 2010
 
 **GENERAL**
 
 ServerGrove Networks, Inc. (“ServerGrove”) respects the privacy of its customers using our services described in the Terms of Service Agreement or users just visiting our website located at _[www.ServerGrove.com](http://www.servergrove.com/)_ (the “Website”) (collectively, the “ServerGrove Services”). The following ServerGrove privacy policy (“Privacy Policy”) is designed to inform you, as a user of the ServerGrove Services, about the types of information that ServerGrove may gather about or collect from you in connection with your use of the ServerGrove Services. It also is intended to explain the conditions under which ServerGrove uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the ServerGrove Services, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the ServerGrove Services or visit the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the ServerGrove Services or visited the Website. 
 
 Our Website is hosted in the United States of America and is subject to U.S. state and federal law. Our office is located in the State of Florida. If you are accessing our Website or servers from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website and our servers, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website, the ServerGrove Services and your agreements with us. Any persons accessing our Website or using the ServerGrove Services from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the ServerGrove Services in a manner lawful in their jurisdiction. If your use of the ServerGrove Services is unlawful in your jurisdiction, please do not use the ServerGrove Services.
+
+ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
 
 By using or accessing the Website and/or using the ServerGrove Services, you are accepting the practices described in this Privacy Policy.
 
@@ -131,26 +133,30 @@ Phone: 800 511 1855
   * [](https://web.archive.org/web/20100102053456/https://secure.servergrove.com/clients/submitticket.php)
 
   
-[](http://www.ratepoint.com/profile/10089) [](http://www.treesftf.org/partnerships.htm)
-  * [Get support](https://web.archive.org/community)  
+[](http://www.ratepoint.com/profile/10089) [](http://www.treesftf.org/partnerships/cooling.htm)
+  *   
+[Get support](https://web.archive.org/community)  
 [Knowledge Base](http://secure.servergrove.com/clients/knowledgebase.php)  
 [Open a Ticket](https://web.archive.org/contact)  
 [Billing and Invoices](https://secure.servergrove.com/clients/clientarea.php)
-
-  * [Who we are](https://web.archive.org/about)  
+  *   
+[Who we are](https://web.archive.org/about)  
 [Contact Us](https://web.archive.org/contact)
 
+  
 [Blog](http://blog.servergrove.com/)
 
 [You should really follow us on _Twitter_!](http://www.twitter.com/servergrove)  
 [Badges and logo downloads](https://web.archive.org/media)  
 [Projects we support](https://web.archive.org/community#sponsor)
-  * [Shared Hosting](https://web.archive.org/sharedhosting)  
+  *   
+[Shared Hosting](https://web.archive.org/sharedhosting)  
 [Virtual Hosting](https://web.archive.org/vps)  
 [Symfony Hosting](https://web.archive.org/symfonyhosting)  
 [Zend Framework Hosting](https://web.archive.org/zendframework)  
 [Managed Dedicated Servers](https://web.archive.org/dedicated)
 
+  
 [Buy a domain name](https://web.archive.org/domain)
 
 
