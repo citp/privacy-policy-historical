@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrinternetmarketing.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629070723id_/http%3A//www.plrinternetmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrinternetmarketing.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028081611id_/http%3A//www.plrinternetmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
