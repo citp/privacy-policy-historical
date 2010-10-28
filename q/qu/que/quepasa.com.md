@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quepasa.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618063105id_/http%3A//www.quepasa.com/common/privacypolicy_en_US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quepasa.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028141114id_/http%3A//www.quepasa.com/common/privacypolicy_en_US.html) for the most accurate reproduction.*
 
 # Quepasa Privacy Policy
 
@@ -14,7 +14,7 @@ This Privacy Policy is incorporated into and subject to Quepasa's Terms of Use a
 
 Quepasa's Services are not intended for, nor directed to, persons under 14 years of age. Quepasa does not knowingly collect or maintain personally identifiable information from persons under 14 years of age. If you are under 14 years of age, please do not use the Services. If Quepasa learns that personally identifiable information of a person under 14 years of age has been collected without verified parental consent, then Quepasa will take the appropriate steps to delete this information.
 
-Quepasa endeavors to help parents ensure that their children have a fun and safe online experience. Even though Quepasa is not directed towards children under the age of 14, we will permit parents to request a review of the information collected by Quepasa of their child's information by sending an email to support@quepasacorp.com. Quepasa may take steps to verify the identity of anyone requesting information about a child to ensure that this person is in fact the child's parent or legal guardian.
+Quepasa endeavors to help parents ensure that their children have a fun and safe online experience. Even though Quepasa is not directed towards children under the age of 14, we will permit parents to request a review of the information collected by Quepasa of their child's information by sending an email to [qpsupport@quepasacorp.com](mailto:qpsupport@quepasacorp.com). Quepasa may take steps to verify the identity of anyone requesting information about a child to ensure that this person is in fact the child's parent or legal guardian.
 
 You may at any time decline to submit personally identifiable information in using the Service, in which case certain features and/or the Service may not be available to you. You may update or correct your profile information at any time by visiting the Profile webpage and associated tabs. We take reasonable steps to verify your identity before granting you access to your profile. You are responsible for maintaining the secrecy of your password and accuracy of your account information at all times.
 
@@ -38,7 +38,7 @@ Quepasa's Service may contain links to other websites not controlled by Quepasa.
 
 **Opt-Out Procedures**
 
-To opt-out of receiving commercial electronic mail messages, as defined by 15 U.S.C. Ã‚Â§ 7702, please click here support@quepasacorp.com. If you have recently opted out of receiving commercial electronic mail messages from Quepasa, we will process and honor your request as soon as administratively possible. In certain circumstances, you may continue to receive commercial electronic mail messages for products and services from other companies to whom your information was provided prior to your opt-out request.
+To opt-out of receiving commercial electronic mail messages, as defined by 15 U.S.C. Ã‚Â§ 7702, please click here [qpsupport@quepasacorp.com](mailto:qpsupport@quepasacorp.com). If you have recently opted out of receiving commercial electronic mail messages from Quepasa, we will process and honor your request as soon as administratively possible. In certain circumstances, you may continue to receive commercial electronic mail messages for products and services from other companies to whom your information was provided prior to your opt-out request.
 
 **For Non-U.S. Users**
 
@@ -50,4 +50,4 @@ In the event Quepasa goes through a merger, sale, bankruptcy or other business t
 
 **California Privacy Notice**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to support@quepasacorp.com or write us at: Quepasa Corporation, Attn. Chief Executive Officer, 324 Datura Street, Suite 114 West Palm Beach, FL 33401.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [qpsupport@quepasacorp.com](mailto:qpsupport@quepasacorp.com) or write us at: Quepasa Corporation, Attn. Chief Executive Officer, 324 Datura Street, Suite 114 West Palm Beach, FL 33401.
