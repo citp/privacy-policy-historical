@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boorah.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508140539id_/http%3A//www.boorah.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boorah.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028110837id_/http%3A//business.intuit.com/boorah/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
