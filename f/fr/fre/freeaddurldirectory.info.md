@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeaddurldirectory.info privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503055413id_/http%3A//freeaddurldirectory.info/contact.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeaddurldirectory.info privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028130712id_/http%3A//freeaddurldirectory.info/contact.php) for the most accurate reproduction.*
 
 # Free Web Directory - Contact Us and Privacy
 
