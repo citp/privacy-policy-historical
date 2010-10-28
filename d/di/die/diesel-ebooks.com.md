@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626062728id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028021040id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
 
 # Download ebooks at Diesel eBook Store
 
@@ -20,8 +20,10 @@
 [Free eBook - Download](http://www.diesel-ebooks.com/cgi-bin/category/free_download)  
   
   
-
-
+  
+---  
+Last Viewed   
+  
 [](http://www.constantcontact.com/safesubscribe.jsp)
 
   
@@ -33,10 +35,10 @@ We recommend you download one of our test eBooks to make sure you have the right
 
 [](https://www.diesel-ebooks.com/cgi-bin/category/testdownload)  
   
-_You have great internet customer service, thank you so much! I will definitely use your ebook store again in the future._
+_Thank you for your help regarding this matter and for doing it so soon. I appreciate it and I am very impressed with the level of customer service I have received. I shall buy more products from your ebook download store._
 
- **R. Amslinger  
-Gunzenhausen, Germany **
+ **A. Shome  
+Great Britain**
 
 We Are Serious About Your Privacy & Security
 
