@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the focusorganic.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102015619id_/http%3A//focusorganic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusorganic.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028084536id_/http%3A//focusorganic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Focus Organic.com
-
-## Privacy Policy
 
 **Focus Organic respects your privacy.**  
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Focus Organic.
