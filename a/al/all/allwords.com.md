@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225083358id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028035707id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
 
 # Allwords Privacy Policy
 
 |   
 ---  
 [Home                   ](http://www.allwords.com/)  
-[Word of the Week](http://www.allwords.com/wow.php)  
-[Links for Word Lovers](http://www.allwords.com/word-lovers.php "Word Lovers links")  
 [Crossword Solver](http://www.allwords.com/solver.php)  
+[Glossary HQ](http://www.allwords.com/glossary.php)  
+[Links for Word Lovers](http://www.allwords.com/wlinks.php "Word Lovers links")  
+[Word of the Week](http://www.allwords.com/wow.php)  
 [Help                      ](http://www.allwords.com/allwords-help.php)  
 [Copyrights           ](http://www.allwords.com/copyright.php)  
 [Privacy                 ](http://www.allwords.com/privacy.php)  
 [Webmasters](http://www.allwords.com/allwords-search-box.php)  
 [Link to Us](http://www.allwords.com/link-to-allwords.php "Link to Allwords")  
-[Contact Us           ](https://web.archive.org/web/20100225083358id_/http%3A//www.allwords.com/13gtfagt.php)  
+[Contact Us           ](https://web.archive.org/web/20101028035707id_/http%3A//www.allwords.com/13gtfagt.php)  
 [Bookstore            ](http://www.alittlegreenbook.com/)  
   
   
@@ -37,7 +38,7 @@ So, feel free to sign our guest book, or register for our products, we value you
 
 Please note that many advertiser networks use cookies to help track the effectiveness of advertisements and to better match ads with visitors to our site. These cookies will not contain personal information, unless you have provided that information. If you are concerned, you can set your browser to refuse cookies, or to give you the option to refuse a cookie that is being sent to you. 
 
-If you have any questions or comments, [contact us](https://web.archive.org/web/20100225083358id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
+If you have any questions or comments, [contact us](https://web.archive.org/web/20101028035707id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
 
 |      
-  [](http://www.shareresults.com/t/url.php/cid/12540/sid/9286)
+  
