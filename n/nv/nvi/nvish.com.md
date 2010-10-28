@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226032038id_/http%3A//www.nvish.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029010211id_/http%3A//www.nvish.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # NVISH | IT Outsourcing Company and Software Development Solutions
 
@@ -34,7 +34,7 @@ Email: [info@nvish.com](mailto:info@nvish.com)
 
 With respect to our privacy practices as a financial institution and our compliance with this Privacy Policy, NVISH is regulated by the Panchkula Court. 
 
-[Contact Us](https://web.archive.org/web/20100226032038id_/http%3A//www.nvish.com/company/contact_us.php), to know more about how we can meet your specific requirements.
+[Contact Us](https://web.archive.org/web/20101029010211id_/http%3A//www.nvish.com/company/contact_us.php), to know more about how we can meet your specific requirements.
 
 Back to top
 
