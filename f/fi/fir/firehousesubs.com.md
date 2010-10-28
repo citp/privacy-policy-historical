@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526125247id_/http%3A//www.firehousesubs.com/content.cfm%3Fid%3D247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028050558id_/http%3A//firehousesubs.com/content.cfm%3Fid%3D247) for the most accurate reproduction.*
 
 # Firehouse Subs ® Privacy Policy
 
