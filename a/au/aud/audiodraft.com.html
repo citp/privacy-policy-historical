@@ -1,0 +1,829 @@
+<!--The following is the downloaded HTML source of the audiodraft.com privacy policy that was archived on 2010-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101028142110id_/http%3A//www.audiodraft.com/legal/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta property="og:site_name" content="AudioDraft"><meta property="og:type" content="company"><meta property="fb:app_id" content="121074271245140">
+<meta name="keywords" content="AudioDraft, audio, draft, sketching, sourcing, social audio, collaboration, what do you sound like, crowdsourcing, custom made audio">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="9M8FwA7ykWn8LWzXo8h7zRbsud3k-z6xc1u2oVd0m20">
+<link rel="SHORTCUT ICON" href="http://www.audiodraft.com/favicon.gif">
+<link href="http://www.audiodraft.com/css/general.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/popup.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/privacy.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/sketching.general.css?ver=1285969948" rel="stylesheet" type="text/css"><title>AudioDraft - Privacy Policy</title>
+
+
+  <script type="text/javascript" src="http://www.audiodraft.com/sketching/swfobject/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/prototype.js"></script>
+  <script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/scriptaculous.js"></script>
+<script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/soundmanager2.js"></script>
+<script type="text/javascript">
+
+function changeLanguage(thing) {
+  lang_form = document.createElement("form");
+  lang_form.action = "";
+	lang_form.method = "post";
+	lang_field = document.createElement("input");
+	lang_field.type = "hidden";
+	lang_field.name = "lang";
+	lang_field.value = thing.options[thing.selectedIndex].value;
+	lang_form.appendChild(lang_field);
+	document.body.appendChild(lang_form);
+	lang_form.submit();
+}
+
+function popup(header, text, auto_remove)
+{
+
+  auto_remove = typeof(auto_remove) != 'undefined' ? auto_remove : true;
+
+	var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1><HEADER><\/h1>		<div class=\"line\"><\/div>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			<TEXT>			<\/div>	<\/div>";
+	htmlcode = htmlcode.replace("<HEADER>", header);
+	htmlcode = htmlcode.replace("<TEXT>", text);
+	
+	var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
+
+  // Removes the existing popup - the current popup not used because different sizes might mess up
+  if (document.getElementById('popup') != null)
+    document.body.removeChild(document.getElementById('popup'));
+  
+  var popupbox = document.createElement('div');
+  
+	popupbox.id = "popup";
+	popupbox.innerHTML = htmlcode;
+	
+	var popupwidth = '450';
+	
+	popupbox.style.left = (pagewidth / 2) - (popupwidth / 2) + 'px'; 
+	popupbox.style.width = popupwidth+'px';
+	
+	document.body.appendChild(popupbox);
+	
+	if (auto_remove)
+		setTimeout("document.body.removeChild(document.getElementById('popup'));", 4000);
+  
+}
+
+function feedback()
+{
+  // If is so that only one popupbox is created
+  if (document.getElementById('popup') == null)
+  {
+    var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1>Send Feedback<\/h1>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			You can leave us feedback through this form. If you would like us to answer you please mention that in your post.			<\/div>						<form enctype=\"multipart\/form-data\" id=\"popup_feedback_form\" name=\"popup_feedback_form\" method=\"post\">						<div id=\"popup_feedback_textarea\">					<textarea id=\"popup_feedback_textarea_element\" name=\"popup_feedback_textarea_element\"><\/textarea>				<\/div>				<input type=\"submit\" name=\"popup_feedback_form_submit\" value=\"Send\"\/>			<\/form>	<\/div>";
+    var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
+   
+    var popupbox = document.createElement('div');
+    popupbox.id = "popup";
+    popupbox.innerHTML = htmlcode;
+    
+    var popupwidth = '450';
+    
+    popupbox.style.left = (pagewidth / 2) - (popupwidth / 2) + 'px'; 
+    popupbox.style.width = popupwidth+'px';
+    
+    document.body.appendChild(popupbox);
+  }
+}
+
+function reportMisuse()
+{
+  // If is so that only one popupbox is created
+  if (document.getElementById('popup') == null)
+  {
+    var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1>Report Misuse<\/h1>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			You can report any malicious user activity or audio misuse to the site administrators by using the form below. We take all reports very seriously and will investigate them as soon as possible!			<\/div>						<form enctype=\"multipart\/form-data\" id=\"popup_feedback_form\" name=\"popup_feedback_form\" method=\"post\">						<div id=\"popup_feedback_textarea\">					<textarea id=\"popup_feedback_textarea_element\" name=\"popup_feedback_textarea_element\"><\/textarea>				<\/div>				<input type=\"submit\" name=\"popup_feedback_form_submit\" value=\"Send\"\/>			<\/form>	<\/div>";
+    var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
+   
+    var popupbox = document.createElement('div');
+    popupbox.id = "popup";
+    popupbox.innerHTML = htmlcode;
+    
+    var popupwidth = '450';
+    
+    popupbox.style.left = (pagewidth / 2) - (popupwidth / 2) + 'px'; 
+    popupbox.style.width = popupwidth+'px';
+    
+    document.body.appendChild(popupbox);
+  }
+}
+
+/* Helper function */
+function isNumeric(s)
+{
+  var i;
+  for(i = 0; i < s.length; i++)
+  {
+    var c = s.charAt(i);if (((c < "0") || (c > "9"))) return false;
+  }
+  return true;
+}
+
+
+function getPos (obj, ignoreTopScroll) {
+	var output = new Object();
+	
+	var left=0;
+	var top=0; 
+	
+	while(obj) {
+	
+		top += obj.offsetTop;
+		left += obj.offsetLeft;
+		obj = obj.offsetParent;
+		
+	}
+	
+  if (document.documentElement && (document.documentElement.scrollTop || document.documentElement.scrollLeft))
+  {
+    left -= document.documentElement.scrollLeft;
+    
+    if (ignoreTopScroll != false)
+      top -= document.documentElement.scrollTop;
+  }
+  else if (document.body && (document.body.scrollTop || document.body.scrollLeft))
+  {
+    left -= document.body.scrollLeft;
+    
+    if (ignoreTopScroll != false)
+      top -= document.body.scrollTop;
+  }
+  else if (window.pageXOffset || window.pageYOffset)
+  {
+    left -= window.pageXOffset;
+    
+    if (ignoreTopScroll != false)
+      top -= window.pageYOffset;
+  }
+	
+	output.left = left;
+	output.top = top;
+	return output;
+}
+
+function tooltip(text, target, ingoreTopScroll)
+{
+
+  if (ingoreTopScroll == false)
+    var position = getPos(target, false);
+  else
+    var position = getPos(target, true);
+  
+  var tooltip = document.createElement('div');
+  tooltip.id = "tooltip";
+  var tooltip_wrap = document.createElement('div');
+  tooltip_wrap.id = "tooltip_wrap";
+  var tooltip_text = document.createElement('div');
+  tooltip_text.id = "tooltip_text";
+  var tooltip_btm = document.createElement('div');
+  tooltip_btm.id = "tooltip_btm";
+  tooltip_text.innerHTML = text;
+  tooltip_wrap.appendChild(tooltip_text);
+  tooltip_wrap.appendChild(tooltip_btm);
+  tooltip.appendChild(tooltip_wrap);
+    
+  document.body.appendChild(tooltip);
+  
+  tooltip.style.top = (position.top-tooltip.offsetHeight-20) + "px";
+  tooltip.style.left = (position.left-215) + "px";
+  tooltip.style.zIndex = "3";
+}
+
+function hidetooltip()
+{
+  if (document.getElementById('tooltip') != null)
+    document.body.removeChild(document.getElementById('tooltip'));
+}
+ 
+function ShowPicture(id,Source) { 
+	if (Source=="1"){ 
+		if (document.layers) document.layers[''+id+''].visibility = "show" 
+		else if (document.all) document.all[''+id+''].style.visibility = "visible" 
+		else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "visible" 
+	} 
+else 
+	if (Source=="0"){ 
+		if (document.layers) document.layers[''+id+''].visibility = "hide" 
+		else if (document.all) document.all[''+id+''].style.visibility = "hidden" 
+		else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "hidden" 
+	} 
+} 
+ 
+var playing = false;
+var playingid = 0;
+var filepath = "";
+var playertext = "";
+var mySound;
+var timer;
+var playpos = 0;
+var sourcingside = false;
+var hand = false;
+
+soundManager.url = 'http://www.audiodraft.com/javascripts/packages/';
+
+soundManager.useFlashBlock = false;
+soundManager.debugMode = false;
+//soundManager.useHTML5Audio = true;
+
+function initPlayer()
+{
+	playing = false;
+	playingid = 0;
+	filepath = "";
+	playertext = "";
+	playpos = 0;
+	sourcingside = false;
+}
+
+function playertime(ms) {
+
+  // Determine the minutes and seconds portions of the time.
+  var seconds = ms / 1000;
+  var m = Math.floor(seconds/60);
+  var s = Math.round(seconds - (m * 60));
+
+  // Add leading zeros to one-digit numbers.
+  if (m < 10) {
+    m = "0" + m;
+  }
+  if (s < 10) {
+    s = "0" + s;
+  }
+  return m + ":" + s;
+}
+
+// PARAMS:
+// projectid = either projectid or entryid depending on if sketching or sourcing side
+// sourcing = true if sourcing side (entries), false if sketching side (projects)
+function playAudio(projectid, sourcing, ho) {
+  
+  soundManager.stopAll();
+  if (!playing || playingid != projectid)
+  {
+    if (playingid != projectid)
+    {
+      playpos = 0;
+      if (playingid > 0)
+        document.getElementById('player_'+playingid).className = "btn_play";
+    }
+    
+    playingid = projectid;
+    
+    if (sourcing == true)
+    {
+      sourcingside = true;
+      var url = 'http://www.audiodraft.com/scripts/sourcing/player/getEntryInfo.php';
+      var pars = 'entryid=' + projectid;
+      if (ho == true)
+      {
+        hand = true;
+        pars += '&hand=true';
+      }
+    } else {
+      sourcingside = false;
+      var url = 'http://www.audiodraft.com/scripts/sketching/player/getProjectInfo.php';
+      var pars = 'projectid=' + projectid;
+    }
+	  var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: playAudiofile} );
+  } else {
+    pauseAudio();
+  }
+}
+
+function playAudiofile(originalRequest)
+{
+  path = originalRequest.responseText;
+  
+	mySound = soundManager.createSound({
+		id: playingid,
+		url: path,
+		onfinish: stopAudio
+	});
+	mySound.setPosition(playpos);
+	mySound.play();
+	playing = true;
+	
+	document.getElementById('player_'+playingid).className = "btn_pause";
+	document.getElementById('player_playbtn').className = "btn_bigpause";
+  
+  if (sourcingside == true)
+  {
+    var url = 'http://www.audiodraft.com/scripts/sourcing/player/getEntryName.php';
+    var pars = 'entryid=' + playingid;
+    if (hand == true)
+      pars += "&hand=true";
+  } else {
+    var url = 'http://www.audiodraft.com/scripts/sketching/player/getProjectName.php';
+    var pars = 'projectid=' + playingid;
+  }
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateProjectName} );
+  
+	$('general_player_wrapper').appear();
+	updatePlayer();
+	
+}
+
+function updateProjectName(originalRequest)
+{
+  playertext = originalRequest.responseText;
+  document.getElementById('general_player_info').innerHTML = "Now playing: "+playertext;
+}
+
+function pauseAudio() {
+  if (playing)
+  {
+    playing = false;
+    clearTimeout(timer);
+    playpos = mySound.position;
+    soundManager.stopAll();
+    document.getElementById('player_'+playingid).className = "btn_play";
+  	document.getElementById('player_playbtn').className = "btn_bigplay";
+  } else {
+    playAudio(playingid, sourcingside);
+  }
+}
+
+function stopAudio() {
+	playing = false;
+	clearTimeout(timer);
+	playpos = 0;
+	soundManager.stopAll();
+	document.getElementById('player_'+playingid).className = "btn_play";
+	document.getElementById('player_playbtn').className = "btn_bigplay";
+	document.getElementById('general_player_timeline_played').style.width = "0%";
+	document.getElementById('player_position').innerHTML = "00:00";
+}
+
+function playPrevious() {
+  var links = document.getElementsByTagName("a");
+  var currentlink = document.getElementById("player_"+playingid);
+  
+  var previous = null;
+  for (var i = 0; i < links.length; i++)
+  {
+    if (links[i].getAttribute("id") != null && links[i].getAttribute("id").startsWith("player_"))
+    {
+      if (links[i] == currentlink && previous != null)
+      {
+        eval(previous.getAttribute("onClick"));
+        return true;
+      } else if (links[i] == currentlink && previous == null)
+        return true;
+      
+      previous = links[i];
+    }
+  }
+}
+
+function playNext() {
+  var links = document.getElementsByTagName("a");
+  var currentlink = document.getElementById("player_"+playingid);
+  
+  var next = false;
+  for (var i = 0; i < links.length; i++)
+  {
+    if (next && links[i].getAttribute("id") != null && links[i].getAttribute("id").startsWith("player_"))
+    {
+      eval(links[i].getAttribute("onClick"));
+      return true;
+    }
+    
+    if (links[i] == currentlink)
+      next = true;
+    
+  }
+  return true;
+  
+}
+
+function findPos(obj)
+{
+  var curLeft = 0;
+  if (obj.offsetParent) {
+    do {
+      curLeft += obj.offsetLeft;
+    } while (obj = obj.offsetParent);
+  }
+  return curLeft;
+}
+
+function setPosition(e) {
+  
+  if (!e)
+    var e = window.event;
+ 
+  var pos = e.pageX - findPos(e.target);
+  var width = document.getElementById('general_player_timeline').clientWidth;
+  
+  var songPosition = mySound.duration * (pos/width);
+  
+  mySound.setPosition(songPosition);
+}
+
+// Updates the player graphics
+// Works only when the song is still playing
+function updatePlayer() {
+  if (playing)
+  {
+		var percent = mySound.position / mySound.durationEstimate * 100;
+		
+		document.getElementById('general_player_timeline_played').style.width = percent+"%";
+		
+		var pos = playertime(mySound.position);
+		var dur = playertime(mySound.durationEstimate);
+		
+		document.getElementById('player_position').innerHTML = pos;
+		document.getElementById('player_length').innerHTML = dur;
+		
+		timer = setTimeout(updatePlayer, 500);	
+  }
+}
+
+function hidePlayer() {
+  soundManager.stopAll();
+  document.getElementById('player_'+playingid).className = "btn_play";
+  document.getElementById('player_playbtn').className = "btn_bigplay";
+  playing = false;
+  $('general_player_wrapper').fade();
+  initPlayer();
+}
+
+function f_scrollTop() {
+	return f_filterResults (
+		window.pageYOffset ? window.pageYOffset : 0,
+		document.documentElement ? document.documentElement.scrollTop : 0,
+		document.body ? document.body.scrollTop : 0
+	);
+}
+
+function f_filterResults(n_win, n_docel, n_body) {
+	var n_result = n_win ? n_win : 0;
+	if (n_docel && (!n_result || (n_result > n_docel)))
+		n_result = n_docel;
+	return n_body && (!n_result || (n_result > n_body)) ? n_body : n_result;
+}
+
+// General code for showing popup
+function showPopup(originalRequest)
+{
+  var htmlcode = originalRequest.responseText;
+  var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
+   
+  if (document.getElementById('popup') == null)
+    var popupbox = document.createElement('div');
+  else
+    var popupbox = document.getElementById('popup');
+  popupbox.id = "popup";
+  popupbox.innerHTML = htmlcode;
+    
+  var popupwidth = '450';
+  
+  popupbox.style.left = (pagewidth / 2) - (popupwidth / 2) + 'px'; 
+  popupbox.style.width = popupwidth+'px';
+
+  var scroll = f_scrollTop();
+
+  popupbox.style.top = 80+scroll+'px';
+    
+  document.body.appendChild(popupbox);
+
+}
+
+function fbLogin()
+{
+  var url = 'http://www.audiodraft.com/scripts/general/facebook/facebooklogin.php';
+  var myAjax = new Ajax.Request( url, {onComplete: connectReady} );
+  popup("Connecting..", "This might take a few seconds.", false);
+}
+
+function connectReady(originalRequest)
+{
+  window.location.reload();
+}
+
+function updatePage()
+{
+  window.location.reload();
+}
+
+function gotoPage(url)
+{
+  window.location = url;
+}
+
+function showFollowingPopup(profileid, type) 
+{
+  var url = 'http://www.audiodraft.com/javascripts/html/followingpopup.php';
+	var pars = 'profileid=' + profileid + '&type=' + type;
+  var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: showPopup} );
+}
+
+
+/** LIKING PROJECTS **/
+
+var like_project_id;
+
+function likeProject(userid, projectid)
+{
+  like_project_id = projectid;
+  var url = 'http://www.audiodraft.com/scripts/sketching/project/likeProject.php';
+	var pars = 'userid=' + userid + '&projectid=' + like_project_id;
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markLiked} );
+}
+
+function markLiked () 
+{
+	var classname = document.getElementById('like_'+like_project_id).className;
+	var newclass = (classname == "btn_like") ? "btn_unlike" : "btn_like";
+	
+	document.getElementById('like_'+like_project_id).className = newclass;
+	updateLikerCount();
+}
+
+function updateLikerCount()
+{
+  var url = 'http://www.audiodraft.com/scripts/sketching/project/projectLikerCount.php';
+	var pars = 'projectid=' + like_project_id;
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateLikes} );
+}
+
+function updateLikes (originalRequest) 
+{
+	var count = originalRequest.responseText;
+	document.getElementById('likercount_'+like_project_id).innerHTML = count;
+}
+
+/** LIKING PROJECTS ENDS **/
+
+/** FOLLOW PROJECTS **/
+
+var follow_project_id;
+
+function followProject(userid, projectid)
+{
+  follow_project_id = projectid;
+  var url = 'http://www.audiodraft.com/scripts/sketching/project/followProject.php';
+	var pars = 'userid=' + userid + '&projectid=' + follow_project_id;
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markFollowed} );
+}
+
+function markFollowed (originalRequest) 
+{
+	
+	var classname = document.getElementById('follow_'+follow_project_id).className;
+	var newclass = (classname == "btn_follow") ? "btn_unfollow" : "btn_follow";
+	
+	document.getElementById('follow_'+follow_project_id).className = newclass;
+	
+	/*var picture = originalRequest.responseText;
+	document.getElementById('follow').src = picture;
+	document.getElementById('following').onmouseout = function() { document.getElementById('follow').src=picture; };*/
+	updateFollowerCount();
+}
+
+function updateFollowerCount()
+{
+  var url = 'http://www.audiodraft.com/scripts/sketching/project/projectFollowerCount.php';
+	var pars = 'projectid=' + follow_project_id;
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateCount} );
+}
+
+function updateCount (originalRequest) 
+{
+	var count = originalRequest.responseText;
+	document.getElementById('followercount_'+follow_project_id).innerHTML = count;
+}
+
+/** FOLLOW PROJECTS ENDS **/
+
+/** FOLLOW USER **/
+
+var follow_user_id;
+
+function followArtist(userid, artistid)
+{
+  follow_user_id = artistid;
+  var url = 'http://www.audiodraft.com/scripts/sketching/followArtist.php';
+	var pars = 'userid=' + userid + '&artistid=' + follow_user_id;
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markFollowed} );
+}
+
+function markFollowed (originalRequest) 
+{
+	/*var picture = originalRequest.responseText;
+	document.getElementById('follow').src = picture;
+	document.getElementById('following_star').onmouseout = function() { document.getElementById('follow').src=picture; };*/
+	
+	var classname = document.getElementById('follow_'+follow_user_id).className;
+	var newclass = (classname == "btn_follow") ? "btn_unfollow" : "btn_follow";
+	
+	document.getElementById('follow_'+follow_user_id).className = newclass;
+	
+	updateFollowerCount();
+}
+
+function updateFollowerCount()
+{
+  var url = 'http://www.audiodraft.com/scripts/general/profile/userFollowerCount.php';
+	var pars = 'profileid=' + follow_user_id;
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateCount} );
+}
+
+function updateCount (originalRequest) 
+{
+	var count = originalRequest.responseText;
+	document.getElementById('followercount_'+follow_user_id).innerHTML = count;
+}
+
+/** FOLLOW USER ENDS **/
+
+</script>
+
+</head>
+
+<body onload="init()">
+<div id="header">
+<div id="beta"></div>
+<div class="wrapper">
+  	<a href="http://www.audiodraft.com/"><img id="logo" src="http://www.audiodraft.com/css/images/general/logo2.png" alt="AudioDraft"></a>
+  <div id="feedback"><a href="javascript:void(0);" onclick="feedback();">Feedback</a></div>
+	<div class="menu_container"><div class="menu_info">Not registered yet? <a class="menu_info" href="http://www.audiodraft.com/signin/register.php">Sign up now!</a></div><div id="menu"><a id="signin" href="http://www.audiodraft.com/signin/"></a></div></div><div class="menu_nav1">
+	<ul>
+		<li class="menu_nav1"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/">Contests</a></li><div class="menu_nav1_space"></div><li class="menu_nav1"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sketching/">Community</a></li><div class="menu_nav1_space"></div><li class="menu_nav1"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/howitworks/">How it works</a></li>	</ul>
+	<div class="clear"></div>
+</div>
+</div></div>	<div class="menu_nav2">
+
+		<div class="menu_nav2_general"></div></div>
+<div class="clear"></div>	 <!-- begin -->
+	<div class="wrapper"><div id="content_main">
+<div id="left_frame_600">
+	<div class="content">
+		<h1>Privacy Policy</h1>
+<p>
+AudioDraft User Register
+Personal Data Act (523/99) 10, 24 §
+</p><p>
+AudioDraft ("Controller") respects your privacy and is committed to safeguard the privacy of those persons using AudioDraft.com Service ("User"). This Privacy Policy Provides Users information on how the Controller processes their personal data and how the Controller protects the same. Personal data refers to personally identifiable information, such as a name, address and Email address.
+</p><p>
+We encourage the User to read this document before using the AudioDraft.com Service. 
+</p><div class="separator"></div>
+<a name="1"><h2>1. The purpose of processing the personal data</h2></a>
+<p>
+Personal data may be processed for the purposes of using, maintaining and developing the AudioDraft.com Service. The Controller commits to adhere to the provisions of the Personal Data Act and other such applicable laws and regulations pertaining to processing of personal data, as well as process personal data in compliance with good processing practice. The Controller will pursue to take appropriate measures in order to prevent unauthorized access to personal data, any inappropriate use thereof and any possible inaccuracies. All personnel processing personal data are obliged to keep such information strictly confidential.
+</p><div class="separator"></div>
+<a name="2"><h2>2. Content of the register, regular sources of information, accuracy of personal data</h2></a>
+<p>
+The register will consist of the following information:
+</p><p>
+- Name and address<br>
+- Telephone number<br>
+- Email address<br>
+- [IP-address]<br>
+
+</p><p>
+The above information will be collected from Users when they sign up for the AudioDraft.com Service. 
+</p><p>
+The Controller may, at its own initiative or upon a User’s request complement, correct or delete incomplete, inaccurate or outdated personal data.
+</p><div class="separator"></div>
+<a name="3"><h2>3. Disclosed data</h2></a>
+<p>
+The Controller will not disclose personal data stored in the register to third parties for direct marketing, market research, polls or public registers.
+</p><p>
+In exceptional circumstances personal data may be disclosed to third parties if required under any applicable law or regulations or order by competent authorities, or in order to enforce terms of service and to investigate possible infringing use of the AudioDraft.com Service as well as to guarantee safety of the AudioDraft.com Service.
+</p><p>
+The Controller may use external service providers to provide technical solutions for processing stored data and access the stored data by using a technical interface. The Controller will not transfer data to countries outside the European Union or the European Economic Area.
+</p><div class="separator"></div>
+<a name="4"><h2>4. Data protection and the principle how the personal data is secured</h2></a>
+<p>
+The register will be maintained in external service providers’ servers with appropriate safeguards, such as password protection, granting the access to the stored information only to the Controller. The register is protected by appropriate industry standard, technical and organisatory safety measures. The database will be accessible only to those persons expressly authorized by the Controller.
+</p><div class="separator"></div>
+<a name="5"><h2>5. Cookies</h2></a>
+<p>
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. The Controller uses cookies to help it identify and track visitors, their usage of the AudioDraft.com Service and website, and their website access preferences. Users who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using AudioDraft.com Service and/or websites, with the drawback that certain features of AudioDraft’s websites may not function properly without the aid of cookies.
+</p><p>
+The cookies will not enable the Controller to access and review information stored on a User’s computer. The Controller will neither store nor review any information gathered through cookies.
+</p><div class="separator"></div>
+<a name="6"><h2>6. Information on the processing of personal data</h2></a>
+<p>
+A User is entitled to review any information collected on him/her and stored in the register once per year free of charge. When a User wishes to use the above right to review stored information, the User should send a signed request thereof to the Controller using the contact details below. A User may also review any information collected on him/her and stored in the register independently by using a technical interface, username and a password, and update and modify the stored personal data.
+</p><div class="separator"></div>
+<a name="7"><h2>7. Changes to the Privacy Policy</h2></a>
+<p>
+The Controller may change this Privacy Policy from time to time, and in the Controller‘s sole discretion. All changes hereto will be made available in this website, which is why the Controller encourages Users to frequently check this page for any changes to its Privacy Policy. Changes hereto will not prejudice Users’ rights without their consent. The Controller will inform the Users of material changes by sending an Email or other such applicable way.
+</p><div class="separator"></div>
+<a name="8"><h2>8. Controller and the person in charge</h2></a>
+<p>
+The user may at any time contact the Controller at the address below.
+</p><p>
+</p><div class="info_left">Contact person:</div><div class="info_right">Tommi Koskinen</div>
+<div class="info_left">Address:</div><div class="info_right">Betonimiehenkuja 3 A, 02150 Espoo, Finland</div>
+<div class="info_left">Telephone:</div><div class="info_right">+358 50 375 2231</div>
+<div class="info_left">Email:</div><div class="info_right">contact@audiodraft.com</div>
+<div class="info_left">www:</div><div class="info_right">http://www.audiodraft.com</div>
+<div class="clear"></div>
+
+	</div>
+</div>
+
+<div id="right_frame_300">
+	<div class="content">
+		<h3 class="frame_300">Table of contents</h3>
+		<div class="content_h3">
+			<a class="link" href="#1">1. The purpose of processing the personal data</a><br>
+			<a class="link" href="#2">2. Content of the register, regular sources of information, accuracy of personal data</a><br>
+			<a class="link" href="#3">3. Disclosed data</a><br>
+			<a class="link" href="#4">4. Data protection and the principle how the personal data is secured</a><br>
+			<a class="link" href="#5">5. Cookies</a><br>
+			<a class="link" href="#6">6. Information on the processing of personal data</a><br>
+			<a class="link" href="#7">7. Changes to the Privacy Policy</a><br>
+			<a class="link" href="#8">8. Controller and the person in charge</a><br>
+		</div>
+	</div>
+</div>
+<div class="clear"></div>
+</div><!--wrapper-->
+</div>
+<div id="footer">
+	<div class="wrapper">
+		<div class="footer_column">
+			<div class="footer_column_header"><a href="http://www.audiodraft.com">AudioDraft</a></div>
+			<div class="separator_dark"></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/faq/">FAQ</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/contact/">Contact</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/press/">Press</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/legal/privacy.php">Privacy Policy</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/legal/terms.php">Terms of Use</a></div>
+		</div>
+		<div class="footer_column">
+			<div class="footer_column_header"><a href="http://www.audiodraft.com/sourcing/">Contests</a></div>
+			<div class="separator_dark"></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/createcontest/?new">Create a contest</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/contests/">Browse contests</a></div>
+			<!--<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/">Users</a></div>-->
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/howitworks/">How it works</a></div>
+		</div>
+		<div class="footer_column">
+			<div class="footer_column_header"><a href="http://www.audiodraft.com/sketching/">Community</a></div>
+			<div class="separator_dark"></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/projects/">Projects</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/bulletin/">Bulletin board</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/users/">Users</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/forum/">Forum</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/help/">Help</a></div>
+		</div>
+		<div class="footer_column">
+			<div class="footer_column_header" id="footer_column_header_notlink">Follow us</div>
+			<div class="separator_dark"></div>
+			<!--<div class="footer_column_content"><a href="http://www.audiodraft.com/blog/">Blog</a></div>-->
+			<div class="footer_column_content"><a href="http://www.facebook.com/AudioDraft">Facebook »</a></div>
+			<div class="footer_column_content"><a href="http://twitter.com/audiodraft">Twitter »</a></div>
+		</div>
+	</div>
+</div>
+	
+<div id="general_player_wrapper" style="display:none;">
+  <div id="general_player_bg"></div>
+  <div id="general_player">
+  	<div class="wrapper">
+  		<div id="general_player_content">
+  			<div id="general_player_rew"><a href="javascript:void(0);" onclick="playPrevious();"></a></div>
+  			<div id="general_player_play"><a id="player_playbtn" class="btn_bigplay" href="javascript:void(0);" onclick="pauseAudio();"></a></div>
+  			<div id="general_player_fwd"><a href="javascript:void(0);" onclick="playNext();"></a></div>
+  			<div id="general_player_timeline" onclick="setPosition(event)">
+  				<div id="general_player_timeline_played"></div>
+  			</div>
+  			<div id="general_player_length"><div id="player_position">0:00</div><div id="player_slash"> / </div><div id="player_length">0:00</div></div>
+  			<div id="general_player_close"><a class="btn_close_white" href="javascript:void(0);" onclick="hidePlayer();"></a></div>
+  			<div id="general_player_info">Playing <a class="general_player_link" href="">Artist name</a> - <a class="general_player_link" href="">Mixdown name</a> from <a class="general_player_link" href="">Project name mixdowns</a></div>
+  		</div>
+  		<div id="general_player_content">
+  	</div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-8118032-4");
+    pageTracker._setDomainName(".audiodraft.com");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+
+
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({appId: '1500bb1a62d523cdcd95e97319e17a6d', status: true, cookie: true, xfbml: true});
+  
+  function fb_login() {
+    fbLogin();
+  }
+  
+</script>
+
+
+
+</div></body></html>
