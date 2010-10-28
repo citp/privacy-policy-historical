@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easyiphoneunlocking.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404112336id_/http%3A//easyiphoneunlocking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyiphoneunlocking.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028090425id_/http%3A//easyiphoneunlocking.com/privacy.html) for the most accurate reproduction.*
 
 # Easy iPhone Unlocking
 
-## Privacy Policy: 03/04/2009
+## Privacy Policy: 27/10/2010
 
 This privacy policy sets out how EasyIphoneUnlocking uses and protects any information that you give EasyIphoneUnlocking when you use this website.
 
