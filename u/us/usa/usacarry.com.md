@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129115655id_/http%3A//www.usacarry.com/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028080013id_/http%3A//www.usacarry.com/info_privacy.html) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
 |  Site Help Pages  
 ---  
   
-  * [**About USA Carry**](http://www.usacarry.com/info_about_usacarry.html)
-  * [ **Explaining The Resources**](http://www.usacarry.com/info_explaining_the_resources.html)
-  * [ **Are you a New Member?**](http://www.usacarry.com/info_newmember.html)
+  * [**About USA Carry**](http://www.usacarry.com/forums/view.php?pg=info_about_usacarry)
+  * [ **Explaining The Resources**](http://www.usacarry.com/forums/view.php?pg=info_explaining_the_resources)
+  * [ **Are you a New Member?**](http://www.usacarry.com/forums/view.php?pg=info_newmember)
   * [ **Forum Rules and Etiquette**](http://www.usacarry.com/info_forumrules.html)
   * [ **Site Privacy Policy**](http://www.usacarry.com/info_privacy.html)
   * [ **Terms of Service and Legal Notices**](http://www.usacarry.com/info_tos.html)
@@ -43,9 +43,9 @@ It is completely up to the user of the site to verify any and all information fo
 
 
 
-  * [**About USA Carry**](http://www.usacarry.com/info_about_usacarry.html)
-  * [ **Explaining The Resources**](http://www.usacarry.com/info_explaining_the_resources.html)
-  * [ **Are you a New Member?**](http://www.usacarry.com/info_newmember.html)
+  * [**About USA Carry**](http://www.usacarry.com/forums/view.php?pg=info_about_usacarry)
+  * [ **Explaining The Resources**](http://www.usacarry.com/forums/view.php?pg=info_explaining_the_resources)
+  * [ **Are you a New Member?**](http://www.usacarry.com/forums/view.php?pg=info_newmember)
   * [ **Forum Rules and Etiquette**](http://www.usacarry.com/info_forumrules.html)
   * [ **Site Privacy Policy**](http://www.usacarry.com/info_privacy.html)
   * [ **Terms of Service and Legal Notices**](http://www.usacarry.com/info_tos.html)
@@ -60,8 +60,8 @@ It is completely up to the user of the site to verify any and all information fo
 
 | 
 
-**1179** _times visited._  
+**2036** _times visited._  
   
 ---|---  
   
-All times are GMT -4. The time now is 07:56 AM.
+All times are GMT -4. The time now is 04:00 AM.
