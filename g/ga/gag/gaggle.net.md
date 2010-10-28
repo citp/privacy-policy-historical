@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210424id_/https%3A//gaggle.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028152019id_/https%3A//www.gaggle.net/home/privacy) for the most accurate reproduction.*
 
 # Gaggle - Safe Online Learning Tools
 
@@ -103,3 +103,5 @@ If you have any questions about this privacy statement, the practices of this si
 ### Trademarks
 
 All trademarks, service marks, trade names, logos and graphics ("Marks") indicated on this site are registered trademarks of Gaggle, its affiliates and/or licensors, in the United States and other countries. You may not make any use of Gaggle Marks without the prior written consent of Gaggle.Net, Inc.
+
+The company, product and service names used in this website are for identification purposes only. All trademarks and registered trademarks are the property of their respective owners.
