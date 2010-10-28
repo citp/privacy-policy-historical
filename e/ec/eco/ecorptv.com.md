@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522195031id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028030516id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
 
 # Business Video - Online Marketing for Corporate Videos: Business Video Directory, Online Business Videos
 
