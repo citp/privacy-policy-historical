@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickmeter.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601084225id_/http%3A//www.clickmeter.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmeter.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028042524id_/http%3A//www.clickmeter.com/privacy.aspx) for the most accurate reproduction.*
 
 # ClickMeter - Privacy
 
