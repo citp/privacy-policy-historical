@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cuckshare.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113021835id_/http%3A//www.cuckshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuckshare.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029012157id_/http%3A//www.cuckshare.com/privacy) for the most accurate reproduction.*
 
-# Cuckshare.com - Cuckold and Hot Wives XXX Sex Videos and movie Clips
+# 
 
 The use of this version of the Cuckshare.com website and/or Cuckshare.com software and any other related software, upgrades or updates and all related services and special offers provided by Cuckshare.com are subject to the hereunder provisions of this Privacy Policy.: 
 
