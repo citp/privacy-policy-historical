@@ -1,52 +1,36 @@
-> *The following text is extracted and transformed from the games-guides.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203931id_/http%3A//mgrcentral.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-guides.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028161923id_/http%3A//www.games-guides.com/privac) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Games Guides
 
-* * *
+Privacy Policy
 
-[About Us](https://web.archive.org/web/20060615203931id_/http%3A//mgrcentral.com/company_info.aspx) | [Contact Us](https://web.archive.org/web/20060615203931id_/http%3A//mgrcentral.com/contact.aspx) | [Terms](https://web.archive.org/web/20060615203931id_/http%3A//mgrcentral.com/terms.aspx) | [Member Login](http://members.mgrcentral.com/members/login.aspx) | [Affiliates](http://mgrcentral.com/members/Affiliates/Affiliate-Program.aspx) | [Sponsorship](https://web.archive.org/web/20060615203931id_/http%3A//mgrcentral.com/sponsor.aspx) | [Privacy Policy](https://web.archive.org/web/20060615203931id_/http%3A//mgrcentral.com/privacy.aspx) | [Create Account](https://web.archive.org/members/signup.aspx?userid=)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@games-guides.com.
 
-* * *
+At Games-Guides.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Games-Guides.com and how it is used.
 
-29th January 2006
+Log Files  
+Like many other Web sites, Games-Guides.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-At MgrCentral Pty Ltd we understand the importance of your privacy. This document outlines the types of personal information we receive and collect when you use our services and sites, as well as some of the steps we take to safeguard information.
+Cookies and Web Beacons  
+Games-Guides.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-We hope this will help you make an informed decision about sharing personal information with us.
+DoubleClick DART Cookie
 
-**Personal information and other data collected**
+.:: Google, as a third party vendor, uses cookies to serve ads on Games-Guides.com .  
+.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to Games-Guides.com and other sites on the Internet  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-  * We collect personal information, such as your name, email address or other information when you register for an account or otherwise voluntarily provide such information. 
-  * MgrCentral may use cookies and other technologies to enhance your online experience and to learn about how you use our services in order to improve the quality of our services, including tracking your progress in the lessons. 
-  * Our servers automatically record information when you visit our sites or use some of our services, including the URL, IP address, browser type and language, and the date and time of your request. 
-  * We do not store credit card, bank account or other financial data.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
+Google Adsense
 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Games-Guides.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
+Games-Guides.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Uses**
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Games-Guides.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-  * We may use personal information to provide the services you have requested, including services that display customized content and advertising. 
-  * We may also use personal information for auditing, research and analysis to operate and improve our products and services. 
-  * We will never sell or provide any information you provide us to any third party, unless under requirement of a court order. You do need to be aware that we are an Australian company and via Australia's special relationship with the United States and the European Union (and the owner's respect for the United States of America and the European Union) we will honour any court imposed request by either an Australian Court, a United States Court or a European Union Court to turn over any information held. 
-  * MgrCentral processes personal information on our servers in the United States of America and in Australia and all data is protected behind firewalls and data protection processes are used in all cases to ensure your data remains safe.
-  * If you delete your account at MgrCentral your details are completely erased from our databases.
+#### Incoming search terms for the article:
 
-
-
-**Your choices**
-
-  * We offer you choices when we ask for personal information, whenever reasonably possible. 
-  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
-  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
+  * [cache:ZFnWIsyha-AJ:www games-guides com/article/mad-dog-mike-amp-the-smokin-j-s-mad-dog-mike-amp-the-smokin-j-s html segadirect reasoning](http://www.games-guides.com/privac/ "cache:ZFnWIsyha-AJ:www games-guides com/article/mad-dog-mike-amp-the-smokin-j-s-mad-dog-mike-amp-the-smokin-j-s html segadirect reasoning")
 
 
-
-If anything comes to your attention which could potentially be a violation of this policy, please notify us immediately so that we can investigate it and try to correct it. 
-
-For more information about our privacy practices, please [contact us](http://mgrcentral.com/contact.aspx) any time. Or write to us at: 
-
-Privacy Matters  
-c/o MgrCentral Pty Ltd  
-54 Forillion Avenue  
-Bibra Lake WA 6163  
-Australia 
