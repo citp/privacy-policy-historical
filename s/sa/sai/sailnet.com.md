@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailnet.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025619id_/http%3A//www.sailnet.com/forums/sn_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailnet.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029163004id_/http%3A//www.sailnet.com/forums/sn_privacy.php) for the most accurate reproduction.*
 
 # SailNet Privacy Policy
 
