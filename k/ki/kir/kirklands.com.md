@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404142648id_/http%3A//www.kirklands.com/t-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029182350id_/http%3A//www.kirklands.com/t-security.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[Home](https://web.archive.org/web/20100404142648id_/http%3A//www.kirklands.com/default.aspx) | Privacy Statement
+[Home](https://web.archive.org/web/20101029182350id_/http%3A//www.kirklands.com/default.aspx) | Privacy Statement
 
   
 
