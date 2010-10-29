@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predatornutrition.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516192859id_/http%3A//www.predatornutrition.com/privacy_and_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predatornutrition.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029040222id_/http%3A//www.predatornutrition.com/privacy_and_security.cfm) for the most accurate reproduction.*
 
 # Privacy and Security
 
