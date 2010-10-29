@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dspconcepts.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125013531id_/http%3A//dspconcepts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dspconcepts.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029025839id_/http%3A//www.dspconcepts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DSP Concepts
 
