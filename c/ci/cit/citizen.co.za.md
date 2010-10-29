@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.co.za privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621003729id_/http%3A//www.citizen.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D125%26Itemid%3D105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.co.za privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029183729id_/http%3A//www.citizen.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D125%26Itemid%3D105) for the most accurate reproduction.*
 
 # Privacy Policy
 
