@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206005312id_/http%3A//www.namesecure.com/pages/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030002658id_/http%3A//www.namesecure.com/23/privacyPolicy.page) for the most accurate reproduction.*
 
-# Domain name privacy policy for NameSecure | NameSecure
-
-[**_NameSecure_**](https://web.archive.org/pages/home.jhtml) >> Privacy Policy 
+# Purchase a Domain from NameSecure - Get Online Privacy
 
 Updated November 3, 2003
-
-**NameSecure.com, LLC Privacy Statement (Version 2.2)**
-
-  * Why A Privacy Policy?
-  * Getting to Know our Customers
-  * Third Party Advertising and Cookies
-  * Information Corrections or Changes
-  * How We Put Information to Good Use
-  * With Whom We May Share Information
-  * How Do I Get My Name Removed from Bulk Access
-  * Our Accountability to You
-  * Employee Accountability
-  * The Accountability of NameSecure Agents and Business Partners
-  * Notification of Changes
-
-
 
 ******Why a Privacy Policy**
 
@@ -28,7 +10,7 @@ NameSecure respects your individual privacy. This Privacy Policy ('Policy') embo
 
 This Privacy Statement protects your privacy by:
 
-Ensuring accountability to individuals who believe that NameSecure has not complied with these privacy principles. 
+Ensuring accountability to individuals who believe that NameSecure has not complied with these privacy principles.
 
 __Informing__ you about:
 
@@ -82,7 +64,7 @@ TOP of Page
 
 **Information Corrections or Changes**
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at [https://www.namesecure.com/myaccount](https://namesecure.com/myaccount). You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at support@namesecure.com. 
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at [https://www.namesecure.com/myaccount](https://web.archive.org/23/privacyPolicy/privacyPolicyChanges/accountManager.do;jsessionid=a87b07bc6c58c03d46e7ae4ddf7f:Cawy). You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at support@namesecure.com. 
 
 TOP of Page
 
@@ -96,7 +78,7 @@ Another example of our use of information to enhance the experience of users in 
 
 If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us, or by visiting us at [https://www.namesecure.com/myaccount](https://namesecure.com/myaccount). Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services. 
+Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us, or by visiting us at [https://www.namesecure.com/myaccount](https://web.archive.org/23/privacyPolicy/privacyPolicyUseInfo/accountManager.do;jsessionid=a87b07bc6c58c03d46e7ae4ddf7f:Cawy). Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services. 
 
 TOP of Page
 
@@ -114,7 +96,7 @@ TOP of Page
 
 **How Do I Get My Name Removed from Bulk Access**
 
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons' own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you are an individual, and you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure by contacting us at support@namesecure.com. 
+As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons' own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you are an individual, and you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure by contacting us at [support@namesecure.com](mailto:support@namesecure.com). 
 
 TOP of Page
 
@@ -138,7 +120,7 @@ TOP of Page
 
 Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information. 
 
-If you feel that NameSecure, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at support@namesecure.com, or by postal mail at: 
+If you feel that NameSecure, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [support@namesecure.com](mailto:support@namesecure.com), or by postal mail at: 
 
 NameSecure LLC  
 Attention: General Counsel  
@@ -150,8 +132,6 @@ TOP of Page
 
 **Notification of Changes**
 
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending e-mail to support@namesecure.com. 
+We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending e-mail to [support@namesecure.com](mailto:support@namesecure.com). 
 
 TOP of Page
-
-**If you have any questions regarding this Privacy Policy, please contact support@namesecure.com.**
