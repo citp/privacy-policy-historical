@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106033738id_/http%3A//www.asda.jobs/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030005903id_/http%3A//asda.jobs/privacy/index.html) for the most accurate reproduction.*
 
 # ASDA Careers: Privacy
 
