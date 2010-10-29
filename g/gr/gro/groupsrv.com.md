@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupsrv.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310224911id_/http%3A//www.groupsrv.com/list.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupsrv.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029103438id_/http%3A//www.groupsrv.com/list.html) for the most accurate reproduction.*
 
 # 
 
