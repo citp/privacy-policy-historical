@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417000418id_/http%3A//goodlifefitness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029133217id_/http%3A//goodlifefitness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy- GoodLife Fitness
 
@@ -41,7 +41,7 @@ We will not use or disclose your personal information for any purposes other tha
 
 #### Consent
 
-Your knowledge and consent are required for the collection, use or disclosure of your personal information. When you become a member of GoodLife Fitness, you consent to the use of your personal information for the purposes listed above. You may refuse or withdraw your consent at any time; however, we may not then be able to provide you with our full range of services. We will advise you when you refuse or withdraw your consent of the what impact that will have on what we are able to provide. For information on withdrawing your consent, please contact our Chief Privacy Officer.
+Your knowledge and consent are required for the collection, use or disclosure of your personal information. When you become a member of GoodLife Fitness, you consent to the use of your personal information for the purposes listed above. You may refuse or withdraw your consent at any time; however, we may not then be able to provide you with our full range of services. We will advise you when you refuse or withdraw your consent of the impact that will have on what we are able to provide. For information on withdrawing your consent, please contact our Chief Privacy Officer.
 
 #### Third-party disclosure
 
@@ -74,13 +74,13 @@ Your personal information is secure within GoodLife Fitness. We have comprehensi
 In order to fulfill requests for personal information records or to answer any questions or address any concerns individuals may have about privacy, GoodLife Fitness has designated a Chief Privacy Officer. In addition to answering inquiries, the Chief Privacy Officer is also responsible for ensuring that the Policy requirements and related procedures are being met.  
 All inquiries or complaints regarding privacy should be directed in writing to the Chief Privacy Officer by mail, FAX or email at the addresses below. All inquiries will be responded to within thirty (30) days from the date on which our Chief Privacy Officer has received the inquiry. GoodLife Fitness can refuse access to a file in certain circumstances.
 
-MAIL FAX EMAIL   
+MAIL FAX EMAIL  
 GoodLife Fitness c/o Chief Privacy Officer 201   
 King Street London, ON N6A 1C9   
-FAX: (519) 434-6701   
+FAX: (519) 434-6701  
 [privacyofficer@goodlifefitness.com](mailto:privacyofficer@goodlifefitness.com)
 
-[Print Personal Information Request Form ](https://web.archive.org/web/20100417000418id_/http%3A//goodlifefitness.com/pdf/InformationRequestForm.pdf)
+[Print Personal Information Request Form ](https://web.archive.org/web/20101029133217id_/http%3A//goodlifefitness.com/pdf/InformationRequestForm.pdf)
 
 #### Amendments to Our Privacy Policy
 
