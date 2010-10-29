@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketstumbler.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629173120id_/http%3A//ticketstumbler.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketstumbler.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029035014id_/http%3A//ticketstumbler.com/docs/privacy) for the most accurate reproduction.*
 
 # 
 
