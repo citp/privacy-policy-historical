@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveim.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623021940id_/http%3A//www.iloveim.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveim.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029024014id_/http%3A//www.iloveim.com/privacy.html) for the most accurate reproduction.*
 
 # ILoveIM.com Web Messenger (MSN, Yahoo, AOL, GTalk)
 
