@@ -1,240 +1,541 @@
-<!--The following is the downloaded HTML source of the gojiyo.com privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630230124id_/http%3A//www.gojiyo.com/welcome/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gojiyo.com privacy policy that was archived on 2010-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101029065650id_/http%3A//www.gojiyo.com/welcome/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-<title>Gojiyo - Do something different</title> 
-<script type="text/javascript" src="/assets/js/jquery.js"></script> 
-<script type="text/javascript" src="/assets/js/jquery.anchor.js"></script> 
- 
- 
-<script type="text/javascript"> 
-$(document).ready(function(){
-	//$("#left-nav p:not(:first)").hide();
-	$("#left-nav #left-nav-02 (p:visible)").slideUp("slow");
-	$("#left-nav p").hide();
-	$("#left-nav h3").click(function(){
-		$(this).next("p").slideToggle("slow")
-		.siblings("p:visible").slideUp("slow") ;
-		$(this).toggleClass("active");
-		$(this).siblings("h3").removeClass("active");
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="/assets_v2/images/home/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Find Friends | Send Messages | Create your Profile - Gojiyo.com  </title>
+<meta name="description" content="Gojyo is a Virtual world where in you can, Create your Profile, Find Friends, Exchange Messages, A world where you can earn Reward, Both In-world and Real world.">
+<meta name="keywords" content="Gojiyo, Godrej, Profiles, Friends, Message Friends, Create an Avatar">
+<link rel="stylesheet" type="text/css" href="/assets_v2/css/dashboard.css">
+<link rel="stylesheet" type="text/css" href="/assets_v2/css/home-v2.css">
+<link rel="stylesheet" type="text/css" href="/assets_v2/css/common.css">
+<link type="text/css" href="/assets/css/colorbox/colorbox.css" rel="stylesheet">
+
+<script type="text/javascript" src="/assets_v2/js/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="/assets_v2/js/jquery.js"></script>
+<script type="text/javascript" src="/assets_v2/js/jquery-hint.js"></script>
+<script type="text/javascript" src="/assets/js/ui/ui/jquery.ui.widget.js"></script> 
+<script type="text/javascript" src="/assets/js/ui/ui/jquery.ui.datepicker.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="/assets/js/ui/ui/jquery.ui.tabs.js"></script>
+<script type="text/javascript" language="javascript">
+	jQuery(document).ready(function() {
+	   jQuery('input[title!=""]').hint();
+	   jQuery('#registrations').fadeOut().load('/user/getcount').fadeIn("slow");
+	   var refreshId = setInterval(function() {
+      		jQuery('#registrations').fadeOut().load('/user/getcount').fadeIn("slow");
+	   	}, 10000);
+		setTimeout('$("#error_box").fadeOut()', 10000);
 	});
- 
-});
-</script> 
-<!---  Search Box ---> 
-<script type="text/javascript"> 
-		$(document).ready(function() {
-			$('input[type="text"]').addClass("idleField");
-       		$('input[type="text"]').focus(function() {
-    		    if (this.value == this.defaultValue){ 
-    		    	this.value = '';
-				}
-				if(this.value != this.defaultValue){
-	    			this.select();
-	    		}
-    		});
-    		$('input[type="text"]').blur(function() {
-    		    if ($.trim(this.value) == ''){
-			    	this.value = (this.defaultValue ? this.defaultValue : '');
-				}
-    		});
-		});			
-	</script> 
-<!---  Search Box ---> 
- 
-<link href="/assets/css/master.css" rel="stylesheet" type="text/css"> 
-</head> 
- 
-<body style="background:url(/assets/images/inner-page/body-bg.jpg) no-repeat center top;"> 
-<div id="wrap"> 
-<!--- Top Login panel Starts ---><div id="login-panel"> 
-		<form action="/user/login_process" method="post">
-    	<div class="float-right"><input name="submit" type="submit" value="Login" class="login-btn" tabindex="4"><!-- <a href="in-world.html" title="Login">Login</a> --></div> 
-        <div class="float-right input-div"> 
-        	<div><input type="password" name="password" border="0" value="" title="Password" class="login-input" tabindex="2"></div> 
-            <div><input type="checkbox" name="keep_login" title="Keep me logged in" class="nopadding nomargin float-left" tabindex="3"></div> 
-            <div class="float-left" style="color:#FFFFFF"> Keep me logged in</div> 
-        </div> 
-        <div class="float-right"> 
-        	<div><input type="text" name="username" border="0" value="Username" title="Username" class="login-input idleField" tabindex="1"></div> 
-            <div><a href="/user/reset_pw" class="login-hint">Forgot password?</a></div> 
-        </div> 
-        </form>
-		<div class="clear"></div> 
-    </div> <!--- Top Login panel Ends ---> 
-    <div id="top-panel" class="float-right"> 
-      <h1 class="text-right">Privacy Policy</h1></div> 
-    <div class="clear"></div> 
-    <!--- Left Panel Starts ---> 
-	<div id="left-panel" class="float-left"> 
-    	<!--- Gojiyo Logo Starts ---><h1 class="logo" title="Gojiyo"><a href="/" title="Gojiyo Logo"><img src="/assets/images/Gojiyo-logo.gif" width="196" height="67" alt="Gojiyo" title="Gojiyo" border="0"></a></h1> <!--- Gojiyo Logo Ends ---> 
-    	<!--- Join Now and Facebook Connect starts ---><div id="logo-div"> 
-	        	<a href="/user/signup" title="Join Now"><img src="/assets/images/btn-join-now.png" alt="Join Now" title="Join Now" class="btn-join-now"></a> 
-	      	</div><!--- Join Now and Facebook Connect ends ---> 
-   	  	<!--- Left nav Starts ---><div id="left-nav-cont"><div class="float-left"><div style="background:url(/assets/images/logo-bottom.png) no-repeat; width:223px; height:17px;"></div>
-  <h2 class="left-nav-head" title="In GoJiyo">In GoJiyo...</h2>
-  <!--- Left Nav ends --->
-  <div id="left-nav">
-    <h3 id="left-nav-01" title="Be a different you">Be a different you</h3>
-    <p style="display: none;">It´s easy to be the way you want in GoJiyo. Even if that changes every minute. You get to choose the way you look, and change it. Whenever you want. As often as you want.<br>
-    <a href="/welcome/be_different_you" class="read-more" title="More about avatars">More about avatars</a></p>
-    <h3 id="left-nav-02" title="Be dazzled">Be dazzled</h3>
-    <p style="display: none;">A land of glaciers. A town on the moon. A bustling urban city. And an ancient capital. And that´s just some of the regions in GoJiyo. It´s magical. It´s fantastic. It´s not to be missed.<br>
-      <a href="/welcome/be_dazzled" class="read-more" title="More on regions">More on regions</a></p>
-    <h3 id="left-nav-03" title="Do something unique">Do something unique</h3>
-    <p style="display: none;">Ever tamed a tiger? Well in GoJiyo you can. And that´s just the beginning. Adventures and thrills come in all shapes and sizes here. Just take a peek.<br>
-      <a href="/welcome/do_something_different" class="read-more" title="More on adventures and quests">More on adventures and quests</a></p>
-    <h3 id="left-nav-04" title="Find new Friends">Find new Friends</h3>
-    <p style="display: none;">The best part about GoJiyo is the new people you meet. And friends you make. In fact, GoJiyo even pairs you up with people with the same tastes and preferences as you. Making friends couldn´t be easier.<br>
-      <a href="/welcome/find_friends" class="read-more" title="More about  friends ">More about  friends</a></p>
-    <img style="position:absolute" src="/assets/images/left-nav-bottom.png" alt="" width="214" height="10"> </div>
-  <!--- Left Nav ends --->
-</div>
-
-</div><!--- Left nav Ends ---> 
-        <!--- Left Transparent  ---><!--- Left Transparent Ends ---> 
-    	<div id="left-bot-regions"> 
-   		  <div class="sel-region" style="display:none"><img src="/assets/images/inner-page/urbania.png" alt="Urbania"></div> 
-            Worlds Within Gojiyo
-   	  	</div> 
-		<div class="clear"></div> 
-	</div> 
-    <!--- Left Panel Ends ---> 
-    <!--- Right Panel Starts ---> 
-    <div id="right-panel" class="float-right"> 
-    	<!--- Banner Starts ---> 
-        <div style="position:absolute; margin:0px -10px;"><img src="/assets/images/curve.gif" alt="" width="30" height="39"></div> 
-    	<img src="/assets/images/banner/privacy.jpg" border="0" class="nopadding" alt="Be a different you"> 
-  		<!--- Banner Ends ---> 
-        <!--- Body ---> 
-        <div class="nopadding"> 
-        <div id="privcy-policy"> 
-            <p>&nbsp;</p> 
-            <p class="divider">At GoJiyo, we are committed to protecting your privacy and creating a strong bond with our customers. This privacy policy explains the use of information collected via our website, customer service operations and GoJiyo service. As used in this privacy policy, the term 'personal information' means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home.</p> 
-            <div class="divider"><h4>Do read this information carefully</h4> 
-            <ol> 
-            <li>We collect personal information and usage statistics to maintain a high-quality customer experience and deliver superior customer service.</li> 
-            <li>Some information we request directly from you during registration. Other pieces of data are gathered indirectly from website traffic, your computer hardware and Internet connection, or GoJiyo usage. This information is purely technical information. </li> 
-            <li>
-            <p>GoJiyo does not disclose personal information you provide it to any third parties without your permission. Whenever information will be shared it is explicitly mentioned at the time of collecting the said information.</p> 
-            <p>&nbsp;</p> 
-            <p>GoJiyo  may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to:</p> 
-            <p>(a) conform to the edicts of the law or comply with legal process served on GoJiyo, this web site or any user of GoJiyo;</p> 
-            <p>(b) protect and defend the rights or property of GoJiyo, Godrej or the users of GoJiyo; or</p> 
-            <p>(c) act in urgent circumstances to protect the personal safety of users of this web site, GoJiyo or the public.</p> 
-            <p>&nbsp;</p> 
-            <p>In addition, if GoJiyo should ever file for bankruptcy or merge with another company, we may transfer the information you provide to us on this site to the company with whom we merge after intimating the same to you.</p> 
-</li> 
-            <li>You will have the ability to update the personal data you provided to us during registration by contacting us at <a href="http://gojiyo.com/support" style="text-decoration:none">http://gojiyo.com/support</a>.</li> 
-            <li>We  will update this privacy policy in a timely fashion when any changes occur</li> 
-          </ol></div> 
-          
-            <div class="divider"> 
-            <h4 id="services">The  privacy policy below refers to the online service GoJiyo and the following  website: <a href="index.html"><span class="bold">http://gojiyo.com</span></a>.</h4> 
-            <ul style="margin-left:20px; font-size:12px"> 
-            <li><a href="#services-01" class="anchorLink"><span class="bold">The Information We Collect and How We Collect It</span></a></li> 
-            <li><a href="#services-02" class="anchorLink"><span class="bold">Information Displayed to Other Users</span></a></li> 
-            <li><a href="#services-03" class="anchorLink"><span class="bold">Disclosing Personal Information in Profiles, Forums or within GoJiyo</span></a></li> 
-            <li><a href="#services-04" class="anchorLink"><span class="bold">How We Protect Your Personal Data</span></a></li> 
-            <li><a href="#services-04" class="anchorLink"><span class="bold">Notice to Those Under the Age of 18</span></a></li> 
-            <li><a href="#services-05" class="anchorLink"><span class="bold">Your Consent</span></a></li> 
-          </ul> 
-          	</div> 
-            
-            <div class="divider"> 
-                <h4 class="float-left" id="services-01">The Information We Collect and How We Collect It</h4> 
-                <div class="float-right back-btn"><a href="#services" class="anchorLink bold">Back</a></div> 
-                <p class="clear">&nbsp;</p> 
-                <p>There are different levels of information we  collect, depending upon your relationship to GoJiyo and Godrej.</p> 
-<ul> 
-        <li><span class="bold">Anonymous Website Visitor:</span>&nbsp;If you visit our websites we automatically record information related to your IP address, GoJiyo cookie information, and aggregate information on what content you access or visit. This information is collected in the background while you move around our website.</li> 
-                <li><span class="bold">Mailing List Member:</span>&nbsp;If you choose to provide us personal information in order to subscribe to our mailing list, we collect information to aid delivery and preferences such as e-mail address and message performance statistics.</li> 
-                <li><span class="bold">Registered Website Member:</span>&nbsp;If you choose to register on our website, we will track broad site usage information as well as aggregate usage of website community features such as downloads and forums. This is in addition to the personal data collected during the registration process. </li> 
-                <li><span class="bold">GoJiyo User:</span>&nbsp;If you install or use the GoJiyo software, we collect and aggregate a variety of data to monitor system and simulation performance, and to verify your unique identity. This includes specific and general information about your computer hardware and Internet connection, which are stored together but are not personally identifiable. We track usage of customer-service resources in order to ensure high quality interactions. This is in addition to the personal data and billing information collected during the registration process.</li> 
-              </ul> 
-           		<ul> 
-            <li><span class="bold">Additionally there are a few special situations to note:</span></li> 
-            <ul> 
-                <li><span class="bold">Service Beta User:</span>&nbsp;If you volunteer to serve as a beta user for pre-commercial content, we will track bug reports and potentially individual system performance in an effort to rigorously test pre-deployed technology.</li> 
-                <li><span class="bold">Former Customer:</span>&nbsp;If you cease being a customer of ours, we will keep a copy of your registration file in our database for use in the event you wish to rejoin the GoJiyo service.</li> 
-                <li><span class="bold">Response to Job Postings or Unsolicited Communications:</span>&nbsp;Please note that information we receive in reference to a job posting or via unsolicited communications does not fall under the privacy terms outlined in this policy. However, information from your resume will be used solely for the purposes of evaluating your candidacy for employment.</li> 
-                <li><span class="bold">Individuals Outside of the India:</span>&nbsp;Anyone using the GoJiyo website from outside of India should be aware that personal Information collected on these websites may be stored and processed in India or any other country in which GoJiyo or its affiliates, subsidiaries or agents maintain facilities, and by using these websites, you consent to any such transfer of information outside of your country.</li> 
-              </ul> 
-          </ul> 
-          </div> 
-          <div class="divider"> 
-            <h4 id="services-02" class="float-left">Information Displayed to Other Users</h4> 
-            <div class="float-right back-btn"><a href="#services" class="anchorLink bold">Back</a></div> 
-            <p class="clear">&nbsp;</p> 
-            <p>Information about your account is displayed to other users in your GoJiyo profile, and this same information may be available through automated script calls and application program interfaces. This information includes your account name, account type, the date your account was established, whether or not you are currently online, user rating information, group and partner information, and whether or not you have established a payment account or transaction history with GoJiyo. However, we will not display your actual name, address, or credit card or bank account numbers, except with your express permission or as otherwise permitted by this privacy policy and our terms of service.</p> 
-          </div> 
-          <div class="divider"> 
-            <h4 id="services-03" class="float-left">Disclosing Personal Information in Profiles, Forums or within GoJiyo</h4> 
-            <div class="float-right back-btn"><a href="#services" class="anchorLink bold">Back</a></div> 
-            <p class="clear">&nbsp;</p> 
-            <p>You may choose to disclose personal information in our online forums, via your GoJiyo profile, directly to other users in chat or otherwise while using the GoJiyo service. Please be aware that such information is public information and you should not expect privacy or confidentiality in these settings.</p> 
-		</div> 
-        <div class="divider"> 
-            <h4 id="services-04" class="float-left">How We Protect Your Personal Data</h4> 
-            <div class="float-right back-btn"><a href="#services" class="anchorLink bold">Back</a></div> 
-            <p class="clear">&nbsp;</p> 
-            <p>We comply with applicable laws and industry standards when transferring, receiving and storing consumer data. Access to your personal information is limited to those GoJiyo employees who require the information in order to provide products or services to you or perform their jobs.</p> 
-       </div> 
-       <div class="divider"> 
-            <h4 id="services-04" class="float-left">Notice to Those Under the Age of 18</h4> 
-            <div class="float-right back-btn"><a href="#services" class="anchorLink bold">Back</a></div> 
-          <p class="clear">&nbsp;</p> 
-            <p>Only individuals who are 18 years of age or older  are permitted to register. Registration for our mailing list, website and/or GoJiyo  service requires entry of a valid and eligible Date of Birth.</p> 
-</div>     
-       <div> 
-            <h4 id="services-05" class="float-left">Your Consent</h4> 
-            <div class="float-right back-btn"><a href="#services" class="anchorLink bold">Back</a></div> 
-            <p class="clear">&nbsp;</p> 
-            <p>Periodically we may need to update our privacy policy to reflect changes in the types of information we collect, the means we use to collect information, and/or our usage of collected information. When this occurs we will make reasonable efforts to alert you to these changes. Your use of the GoJiyo website and/or any GoJiyo products or services (including without limitation GoJiyo) noted above signifies your assent to this GoJiyo Privacy Policy.</p> 
-            </div> 
-          <p></p> 
-          </div> 
-        <div class="clear"></div> 
-      </div> 
-        <!--- Body Ends---> 
- 	</div> 
-    <!--- Right Panel Ends ---> 
-<div class="clear"></div> 
- 
-        <div class="clear"></div> 
-<!--- Red Band Starts ---> 
-<div id="red-band" class="clear"> 
-		    <span class="red-band-title">Avatar talk  |</span> The Mio? You can't handle the Mio!!
-		</div> 
-    <!--- Red Band Ends ---> 
-
-    <!--- Godrej Logo Starts ---> 
-    <div> 
-       	<img class="float-right" style="margin-right:40px;" src="/assets/images/inner-page/godrej-logo.png" width="119" height="58" alt="Godrej"> 
-    </div> 
-    <!--- Godrej Logo Ends ---> 
-  	<!--- Footer Starts ---> 
-  	<div class="clear" id="footer-2" style="padding-top:20px;">
-	<div class="float-left">Designed and Powered by <a href="http://www.customercentria.com" target="_blank">Customer Centria</a></div>
-    <div class="float-right"><a href="/welcome/aboutus">About Us</a> | <a href="/welcome/privacy">Privacy Policy</a> | <a href="/welcome/support">Support</a> | <a href="/welcome/support#system">System Requirement</a></div>
-    <div class="clear"></div>
 	
-	</div>    <!--- Footer ends --->
-</div> 
+	function searchform(){
+	  document.forms["searchfield"].submit();
+	}
+	
+	function close_error_box(){
+		$("#error_box").fadeOut();
+	}
+	
+	function reset_form(){
+		$("#name").val("");
+		$("#fb_id").val("");
+		$("#email").val("");
+		$("#password1").val("");
+		$("#confirm_password").val("");
+		$("#accept").attr("checked", false);
+		// Recaptcha.reload ();
+		reset_avatar();
+	}
+
+	function reset_avatar() {
+		if($("#avatar").val() != ""){
+			$("#"+$("#avatar").val()+"_div").css('display', 'none');
+			$("#avatar").val("");
+		}
+	}
+</script>	
+<style type="text/css">
+img, input, a, div, h1, h2,  { behavior: url("/assets_v2/js/iepngfix.htc") }
+</style>
+</head>
+<body>
+<div id="main-wrapper">
+<div id="login-wrap">
+<div class="login-top"></div>
+    <div class="login-mid">
+        <div class="login-cont">
+			<h1 class="float-left"><a href="/" title="Gojiyo Logo" style="cursor:pointer;"><img src="/assets_v2/images/home/GoJiyo-logo.png" alt="GoJiyo Logo" title="GoJiyo Logo" width="197" height="66"></a></h1>            <div class="float-left dot-divider-count">&nbsp;</div>
+            <div class="float-left" id="count-wrap">
+            	<span class="count-no" id="registrations"></span>
+                <span class="count">&nbsp;Avatars &amp; counting...</span>
+       	    </div>
+            <div id="search-cont" class="float-right">
+						<!-- top login front -->
+                <div style="display:none;" id="login_div"> <div style="position:absolute;  margin-top:-1px; margin-left:-140px"><img src="/assets_v2/images/home/login-form-bg.png" width="225" height="175"></div>
+                                        <div id="login-form" style="margin-top:10px">
+                    <form action="/user/login_process" method="post" id="login">
+                        <div class="login-form-padding">
+                            <a style="position: absolute; background-color: #fff; filter:alpha(opacity=0); -moz-opacity:0.0;  opacity: .0; margin-top: -31px; right: 0px; height: 21px; width: 84px;" href="javascript:void(0);" onclick="show_login_form(2);"></a>
+                            <div class="login-form-input">
+                                <div class="float-left login-left-panel">Username</div>
+                                <div class="float-right login-right-panel">
+                                    <input type="text" class="login-textfield" id="username" name="username">
+                                    <div class="login-errmsg">Username Incorrect</div>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                            <div class="login-form-input">
+                                <div class="float-left login-left-panel">Password</div>
+                                <div class="float-right login-right-panel">
+                                    <input type="password" id="password" name="password" class="login-textfield">
+                                    <div class="login-errmsg">Password Incorrect</div>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                            <div class="login-form-input">
+                                <div class="float-right login-right-panel"><a href="/user/reset_pw" class="login-link blue">Forgot Password?</a></div>
+                                <div class="clear"></div>
+                            </div>
+                            <div class="login-form-input">
+                                <div class="float-left login-left-panel">
+                                    <fb:login-button perms="email, user_birthday"><fb:intl>Connect</fb:intl></fb:login-button>
+                                    
+                                </div>
+                                <div class="float-right"><input type="submit" name="submit" value="" class="login-form-btn"></div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                        <div id="fb-root"></div>
+                    </form>
+                </div>
+					</div>
+						<!-- end of top login front -->
+					<div>
+					<input type="button" title="" class="login-btn float-left" onclick="show_login_form(1);">
+					<!--div class=" float-left dot-divider">&nbsp;</div>
+					<form action="/search/query" id="searchfield" method="post" class="float-left">
+						<input type="text" value="" title="Search" class="search-box float-left" />
+						<input type="button" title="" class="go-btn float-left" onClick="searchform();" />
+					</form-->
+					<div class="clear"></div>
+					</div>
+
+					<!--div class="text-right godrej-intitaive"><img src="assets_v2/images/home/godrej-intitaive.png" width="119" height="24" />
+					</div-->
+					<div class="text-right">
+                    	<a target="_blank" href="http://www.godrej.com/godrej/godrej/aboutgodrejgroup.aspx?id=1&amp;menuid=1163" class="godrej-intitaive">
+                        A Godrej initiative</a>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+    </div>
+    <div class="login-bot"></div>
+    </div>
+    <script src="http://connect.facebook.net/en_US/all.js"></script>
+<script language="javascript" type="text/javascript">
+	//facebook connect code starts
+      FB.init({appId: '124897614201805', status: true,
+               cookie: true, xfbml: true});
+      FB.Event.subscribe('auth.login', function(response) {
+        window.location.reload();
+      });
+</script><!--link rel="stylesheet" type="text/css" href="/assets_v2/css/inbox.css"  />
+<link rel="stylesheet" type="text/css" href="/assets_v2/css/events.css"  /-->
+<link rel="stylesheet" type="text/css" href="/assets_v2/css/innerpages.css">
+<style type="text/css">
+.error-msg  {
+	color:#CC0000;
+	font-size:12px;
+}
+</style>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-15133897-1");
-pageTracker._setDomainName(".gojiyo.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+	function show_login_form(type) {
+		 if(type == 1){
+			$("#login_div").css("display", "block");
+		 }
+		 else {
+			$("#login_div").css("display", "none");
+		 }
+	 }
 
-<script src="http://cdn.wibiya.com/Toolbars/dir_0347/Toolbar_347572/Loader_347572.js" type="text/javascript"></script>
+	 function searchform(){
+	  	document.forms["searchfield"].submit();
+	 }
+	 	//Open signup page	
+	function signupopen(type) {
+		$('.overlay').css("display", "block");
+		$('.overlay-cont').css("display", "block");
+		$("#loader").css("display", "block");
 
+		if(type == 0){
+			$("#signup_div").load('/signupform');
+		}
+		$("#loader").css("display", "none");
+		$("#name").focus();
+	 }
 
- 
- </body></html>
+</script>
+<div id="dashboard-cont">
+	<div id="left-cont" class="float-left">
+    	        <input type="button" onclick="signupopen(0); reset_form();" class="join-now-btn" alt="Join Now" style="margin-top: 0px;">
+                <div class="box-spacing">
+ 	<div class="friendsbox-top"></div>
+  	<div class="friendsbox-mid">
+    	<div class="friendsbox-padding">
+        	<div class="left-cont-heading friends-box-heading pink">
+            	Legal
+            </div>
+            <ul class="static-links">
+                <li><a href="/welcome/privacy">Privacy</a></li>
+                <li><a href="/welcome/tos">Terms and condition</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="friendsbox-bot"></div>
+</div>
+    </div>
+<div id="mid-cont" class="float-left">
+	  		<div id="innerpage-wrap">
+            	<div id="innerpage-top"><img src="/assets_v2/images/messages/div-cont-topcurve.png" height="20" width="580" alt=""></div>
+    			<div id="innerpage-mid">
+					<div class="innerpage-padding">
+                        <h3 class="pink">Privacy policy</h3>
+                        <p>&nbsp;</p> 
+                        <p>At GoJiyo, we are committed to protecting your privacy and creating a strong bond with our customers. This privacy policy explains the use of information collected via our website, customer service operations and GoJiyo service. As used in this privacy policy, the term 'personal information' means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home.</p> 
+                        
+                        <p>&nbsp;</p>
+                        <h4 class="left-cont-subheading">Do read this information carefully</h4> 
+                        <ol style="list-style-position:inside"> 
+                            <li>We collect personal information and usage statistics to maintain a high-quality customer experience and deliver superior customer service.</li> 
+                            <li>Some information we request directly from you during registration. Other pieces of data are gathered indirectly from website traffic, your computer hardware and Internet connection, or GoJiyo usage. This information is purely technical information. </li> 
+                            <li>GoJiyo does not disclose personal information you provide it to any third parties without your permission. Whenever information will be shared it is explicitly mentioned at the time of collecting the said information.
+                            <p>&nbsp;</p> 
+                            <p>GoJiyo  may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to:</p> 
+                            <p>(a) conform to the edicts of the law or comply with legal process served on GoJiyo, this web site or any user of GoJiyo;</p> 
+                            <p>(b) protect and defend the rights or property of GoJiyo, Godrej or the users of GoJiyo; or</p> 
+                            <p>(c) act in urgent circumstances to protect the personal safety of users of this web site, GoJiyo or the public.</p> 
+                            <p>&nbsp;</p> 
+                            <p>In addition, if GoJiyo should ever file for bankruptcy or merge with another company, we may transfer the information you provide to us on this site to the company with whom we merge after intimating the same to you.</p> 
+                </li> 
+                            <li>You will have the ability to update the personal data you provided to us during registration by contacting us at <a href="http://gojiyo.com/support" style="text-decoration:none">http://gojiyo.com/support</a>.</li> 
+                            <li>We  will update this privacy policy in a timely fashion when any changes occur</li> 
+                      	</ol> 
+
+						<p>&nbsp;</p>
+                        <h4 class="left-cont-subheading">The  privacy policy below refers to the online service GoJiyo and the following  website: <a href="index.html"><span class="bold">http://gojiyo.com</span></a>.</h4> 
+                        <ul style="margin-left:20px; font-size:12px; display:none"> 
+                            <li><a href="#services-01" class="anchorLink"><span class="bold">The Information We Collect and How We Collect It</span></a></li> 
+                            <li><a href="#services-02" class="anchorLink"><span class="bold">Information Displayed to Other Users</span></a></li> 
+                            <li><a href="#services-03" class="anchorLink"><span class="bold">Disclosing Personal Information in Profiles, Forums or within GoJiyo</span></a></li> 
+                            <li><a href="#services-04" class="anchorLink"><span class="bold">How We Protect Your Personal Data</span></a></li> 
+                            <li><a href="#services-04" class="anchorLink"><span class="bold">Notice to Those Under the Age of 18</span></a></li> 
+                            <li><a href="#services-05" class="anchorLink"><span class="bold">Your Consent</span></a></li> 
+                      	</ul> 
+                        
+                        <p>&nbsp;</p>
+                        <h4 class=" left-cont-subheading">The Information We Collect and How We Collect It</h4> 
+                        <div class="float-right back-btn display-none"><a href="#services" class="anchorLink bold">Back</a></div> 
+                        <p class="clear display-none">&nbsp;</p> 
+                        <p>There are different levels of information we  collect, depending upon your relationship to GoJiyo and Godrej.</p> 
+                        <p><span class="bold">Anonymous Website Visitor:</span>&nbsp;If you visit our websites we automatically record information related to your IP address, GoJiyo cookie information, and aggregate information on what content you access or visit. This information is collected in the background while you move around our website.</p> 
+                            <p><span class="bold">Mailing List Member:</span>&nbsp;If you choose to provide us personal information in order to subscribe to our mailing list, we collect information to aid delivery and preferences such as e-mail address and message performance statistics.</p> 
+                            <p><span class="bold">Registered Website Member:</span>&nbsp;If you choose to register on our website, we will track broad site usage information as well as aggregate usage of website community features such as downloads and forums. This is in addition to the personal data collected during the registration process. </p> 
+                            <p><span class="bold">GoJiyo User:</span>&nbsp;If you install or use the GoJiyo software, we collect and aggregate a variety of data to monitor system and simulation performance, and to verify your unique identity. This includes specific and general information about your computer hardware and Internet connection, which are stored together but are not personally identifiable. We track usage of customer-service resources in order to ensure high quality interactions. This is in addition to the personal data and billing information collected during the registration process.</p> 
+                        <ul> 
+                            <p><span class="bold">Additionally there are a few special situations to note:</span></p> 
+                            <ul> 
+                            <li><span class="bold">Service Beta User:</span>&nbsp;If you volunteer to serve as a beta user for pre-commercial content, we will track bug reports and potentially individual system performance in an effort to rigorously test pre-deployed technology.</li> 
+                            <li><span class="bold">Former Customer:</span>&nbsp;If you cease being a customer of ours, we will keep a copy of your registration file in our database for use in the event you wish to rejoin the GoJiyo service.</li> 
+                            <li><span class="bold">Response to Job Postings or Unsolicited Communications:</span>&nbsp;Please note that information we receive in reference to a job posting or via unsolicited communications does not fall under the privacy terms outlined in this policy. However, information from your resume will be used solely for the purposes of evaluating your candidacy for employment.</li> 
+                            <li><span class="bold">Individuals Outside of the India:</span>&nbsp;Anyone using the GoJiyo website from outside of India should be aware that personal Information collected on these websites may be stored and processed in India or any other country in which GoJiyo or its affiliates, subsidiaries or agents maintain facilities, and by using these websites, you consent to any such transfer of information outside of your country.</li> 
+                        </ul> 
+                        </ul> 
+
+                        <p>&nbsp;</p>
+                        <h4 class=" left-cont-subheading">Information Displayed to Other Users</h4> 
+                        <div class="float-right back-btn display-none"><a href="#services" class="anchorLink bold">Back</a></div> 
+                        <p class="clear display-none">&nbsp;</p> 
+                        <p>Information about your account is displayed to other users in your GoJiyo profile, and this same information may be available through automated script calls and application program interfaces. This information includes your account name, account type, the date your account was established, whether or not you are currently online, user rating information, group and partner information, and whether or not you have established a payment account or transaction history with GoJiyo. However, we will not display your actual name, address, or credit card or bank account numbers, except with your express permission or as otherwise permitted by this privacy policy and our terms of service.</p> 
+
+                        <p>&nbsp;</p>
+                        <h4 class=" left-cont-subheading">Disclosing Personal Information in Profiles, Forums or within GoJiyo</h4> 
+                        <div class="float-right back-btn display-none"><a href="#services" class="anchorLink bold">Back</a></div> 
+                        <p class="clear display-none">&nbsp;</p> 
+                        <p>You may choose to disclose personal information in our online forums, via your GoJiyo profile, directly to other users in chat or otherwise while using the GoJiyo service. Please be aware that such information is public information and you should not expect privacy or confidentiality in these settings.</p> 
+
+                        <p>&nbsp;</p>
+                        <h4 class=" left-cont-subheading">How We Protect Your Personal Data</h4> 
+                        <div class="float-right back-btn display-none"><a href="#services" class="anchorLink bold">Back</a></div> 
+                        <p class="clear display-none">&nbsp;</p> 
+                        <p>We comply with applicable laws and industry standards when transferring, receiving and storing consumer data. Access to your personal information is limited to those GoJiyo employees who require the information in order to provide products or services to you or perform their jobs.</p> 
+
+                        <p>&nbsp;</p>
+                        <h4 class=" left-cont-subheading">Notice to Those Under the Age of 18</h4> 
+                        <div class="float-right back-btn display-none"><a href="#services" class="anchorLink bold">Back</a></div> 
+                      	<p class="clear display-none">&nbsp;</p> 
+                        <p>Only individuals who are 18 years of age or older  are permitted to register. Registration for our mailing list, website and/or GoJiyo  service requires entry of a valid and eligible Date of Birth.</p> 
+
+                        <p>&nbsp;</p>
+                        <h4 class=" left-cont-subheading">Your Consent</h4> 
+                        <div class="float-right back-btn display-none"><a href="#services" class="anchorLink bold">Back</a></div> 
+                        <p class="clear display-none">&nbsp;</p> 
+                        <p>Periodically we may need to update our privacy policy to reflect changes in the types of information we collect, the means we use to collect information, and/or our usage of collected information. When this occurs we will make reasonable efforts to alert you to these changes. Your use of the GoJiyo website and/or any GoJiyo products or services (including without limitation GoJiyo) noted above signifies your assent to this GoJiyo Privacy Policy.</p> 
+					</div>
+  				</div>
+    			<div><img src="/assets_v2/images/messages/div-cont-bottomcurve.png" height="27" width="580" alt=""></div>
+		  </div>
+        </div>
+		<div id="right-cont" class="float-right">
+         	    
+        <!--style>
+*{
+margin:0px;
+padding:0px;
+}
+.box-header{
+background:url(/assets_v2/images/home/header_bg.gif);
+width:189px;
+height:49px;
+}
+.box-background{
+background:url(/assets_v2/images/home/body_bg.gif) repeat-y;
+width:189px;
+
+padding-left:20px;
+}
+.box-footer{
+background:url(/assets_v2/images/home/footer_bg.gif);
+height:19px;
+width:189px;
+}
+</style>
+
+<div id="boxContainer" style="margin-bottom:10px; margin-top:10px;">
+    <div class="box-header"></div>
+    <div class="box-background">
+    	<p style="width:147px; font-size:11px; line-height: 16px;">Ever seen a beautiful Earth-rise?Yes, that gorgeous sunrise now has competition. 
+And it happens right here...on your screenAll you have to do to witness an earth rise is to get yourself to the viewing gallery in Noom on the top of the Central Control Tower. It's really a sight to behold!</p>
+    </div>
+    <div class="box-footer"></div>
+</div-->
+               
+<!--div id="do-uknow">
+	<div class="do-uknow-padding">
+    	<h3 class="do-uknow-heading">Did you know</h3>
+        	<p class="do-uknow-cont">
+            	    		</p>
+    </div>
+</div-->
+ <div class="box-spacing">
+ 	<div class="friendsbox-top"></div>
+  	<div class="friendsbox-mid">
+    	<div class="friendsbox-padding">
+        	<div class="left-cont-heading friends-box-heading">Did you know</div>
+            <div class="bulb-icon"><img src="/assets_v2/images/dashboard/right-cont/bulb-icon.png" width="38" height="43" alt=""></div>
+           Ever seen a beautiful Earth-rise?Yes, that gorgeous sunrise now has competition. 
+And it happens right here...on your screenAll you have to do to witness an earth rise is to get yourself to the viewing gallery in Noom on the top of the Central Control Tower. It's really a sight to behold!        </div>
+    </div>
+    <div class="friendsbox-bot"></div>
+</div>        <!--style>
+*{
+margin:0px;
+padding:0px;
+}
+.box-header{
+background:url(/assets_v2/images/home/header_bg.gif);
+width:189px;
+height:49px;
+}
+.box-background{
+background:url(/assets_v2/images/home/body_bg.gif) repeat-y;
+width:189px;
+
+padding-left:20px;
+}
+.box-footer{
+background:url(/assets_v2/images/home/footer_bg.gif);
+height:19px;
+width:189px;
+}
+.box-header-new{
+background:url(/assets_v2/images/home/header_new.gif);
+width:189px;
+height:30px;
+}
+</style>
+
+<div id="boxContainer" style="float:left">
+    <div class="box-header-new">
+        
+    </div>
+    <div class="box-background">
+        <div class="frndsengine-banner"><a href="/user/suggested_friends"><img src="/assets_v2/images/dashboard/right-cont/frndsengine-banner.jpg" width="140" height="75" alt="" /></a></div>
+         <div style="width:147px; text-align:justify; font-size:11px; line-height: 16px;">
+            <span class="bold">Introducing Gojiyo Friends!</span><br />It’s easy to make friends in GoJiyo. Based on the interests and activities you enjoy, GoJiyo suggests friends who share the same preferences. With a common bond already established, it’s easy to become friends.
+    </div>
+    </div>
+    <div class="box-footer"></div>
+    
+</div-->
+
+<!--div id="friendsengine-box">
+	<div class="do-uknow-padding">
+    	<h3 class="frndsengine-heading">Frengine</h3>
+        <div class="frndsengine-banner"><img src="/assets_v2/images/dashboard/right-cont/frndsengine-banner.jpg" width="140" height="75" alt="" />
+        </div>
+        <p class="do-uknow-cont"><span class="bold">Introducing Gojiyo Friends!</span><br />It’s easy to make friends in GoJiyo. Based on the interests and activities you enjoy, GoJiyo suggests friends who share the same preferences. With a common bond already established, it’s easy to become friends.
+        </p>
+    </div>
+</div-->
+
+ <div class="box-spacing">
+ 	<div class="friendsbox-top"></div>
+  	<div class="friendsbox-mid">
+    	<div class="friendsbox-padding">
+        	<div class="left-cont-heading friends-box-heading">Frengine</div>
+            <div class="frndsengine-banner"><img src="/assets_v2/images/dashboard/right-cont/frndsengine-banner.jpg" width="140" height="75" alt=""></div>
+            <div class="left-cont-subheading">Introducing Gojiyo Friends!</div>It’s easy to make friends in GoJiyo. Based on the interests and activities you enjoy, GoJiyo suggests friends who share the same preferences. With a common bond already established, it’s easy to become friends.
+        </div>
+    </div>
+    <div class="friendsbox-bot"></div>
+</div>    </div>
+    <div class="clear"></div>
+</div>
+<div id="signup_div">
+	<div class="overlay" style="display:none;"></div>
+	<div class="overlay-cont" style="display:none;">
+		<center>
+			<img src="assets_v2/images/home/loading.gif">
+			<p style="align:center;">Loading...</p>
+		</center>
+	</div>	
+</div>
+<script language="javascript" type="text/javascript"> 
+	function reset_avatar() {
+		if($("#avatar").val() != ""){
+			$("#"+$("#avatar").val()+"_div").css('display', 'none');
+			$("#avatar").val("");
+		}
+	}
+
+	function signupopen(type) {
+		$('.overlay').css("display", "block");
+		$('.overlay-cont').css("display", "block");
+		$("#loader").css("display", "block");
+
+		if(type == 0){
+			$("#signup_div").load('/signupform');
+		}
+		$("#loader").css("display", "none");
+		$("#name").focus();
+
+	 }
+</script>
+	<!-- Footer starts-->
+<div id="footer">
+				<div class="footer-padding">
+					<div class="float-left">
+					<h2 class="blue">About Us</h2>
+					<ul class="footer-links">
+						<li><a href="/welcome/aboutus">GoJiyo - The Initiative</a></li>
+						<li><a href="http://www.godrej.com/godrej/godrej/aboutgodrejgroup.aspx?id=1&amp;menuid=1163" target="_blank">Godrej</a></li>
+						<li style="display:none"><a href="#">Media Center</a></li>
+						<li style="display:none"><a href="#">Affiliate Program</a></li>
+						<li style="display:none"><a href="#">Contact Us</a></li>
+					</ul>
+				</div>
+					<div class="float-left footer-link-spacing">
+					<h2 class="blue">GoJiyo</h2>
+					<ul class="footer-links">
+				<li><a href="javascript:void(0);" onclick="signupopen(0); reset_form();">Creation of Avatar</a></li>
+						<li><a href="/welcome/be_dazzled">Exploring different worlds</a></li>
+						<li style="display:none"><a href="#">Games</a></li>
+						<li style="display:none"><a href="#">Quest</a></li>
+						<li style="display:none"><a href="#">Events</a></li>
+					</ul>
+				</div>
+                <div class="float-left footer-link-spacing">
+            <h2 class="blue">How to (tutorials)</h2>
+            <ul class="footer-links float-left">
+                <li><a href="http://support.gojiyo.com/support/index.php?_m=knowledgebase&amp;_a=viewarticle&amp;kbarticleid=39">Installing Unity plug-in</a></li>
+                <li><a href="http://support.gojiyo.com/support/index.php?_m=knowledgebase&amp;_a=viewarticle&amp;kbarticleid=39">System Requirements</a></li>
+                <li style="display:none;"><a href="#">Customizing Avatar</a></li>
+                <li style="display:none;"><a href="#">Controls</a></li>
+                <li style="display:none;"><a href="#">Gestures</a></li>
+                <li style="display:none;"><a href="#">Voice Chat</a></li>
+                <li><a href="http://support.gojiyo.com/support/">Support</a></li>
+                <li><a href="http://support.gojiyo.com/support/">Feedback</a></li>
+            </ul>
+            <ul class="footer-links float-left footer-link-spacing">
+                <li style="display:none;"><a href="#">Snapshot</a></li>
+                <li style="display:none;"><a href="#">Map</a></li>
+                <li style="display:none;"><a href="#">Events / Activities</a></li>
+                <li style="display:none;"><a href="#">Teleportation</a></li>
+            </ul>
+        </div>
+					<!--div class="float-left footer-link-spacing">
+					<h2 class="blue">How to (tutorials)</h2>
+					<ul class="footer-links float-left">
+					<li><a href="http://support.gojiyo.com/support/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=39">Installing Unity plug-in</a></li>
+						<li><a href="http://support.gojiyo.com/support/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=39">System Requirements</a></li>
+                        <li><a href="http://support.gojiyo.com/support/">Support</a></li>
+						<li><a href="http://www.gojiyo.com/welcome/support">Feedback</a></li>
+						<li style="display:none"><a href="#">Customizing Avatar</a></li>
+						<li style="display:none"><a href="#">Controls</a></li>
+						<li style="display:none"><a href="#">Gestures</a></li>
+						<li style="display:none"><a href="#">Voice Chat</a></li>
+					</ul>
+					<ul class="footer-links float-left footer-link-spacing" style="display:none">
+						<li style="display:none"><a href="#">Snapshot</a></li>
+						<li style="display:none"><a href="#">Map</a></li>
+						<li style="display:none"><a href="#">Events / Activities</a></li>
+						<li style="display:none"><a href="#">Teleportation</a></li>
+						<li><a href="http://www.gojiyo.com/welcome/support">Support</a></li>
+						<li><a href="http://www.gojiyo.com/welcome/support">Feeback</a></li>
+					</ul>
+				</div-->
+					<div class="float-left footer-link-spacing">
+					<h2 class="blue">Legal</h2>
+					<ul class="footer-links">
+				  <li><a href="/welcome/privacy">Privacy Policy</a></li>
+						<li><a href="/welcome/tos">Terms and Conditions</a></li>
+
+					</ul>
+				</div>
+                <div class="float-left footer-link-spacing">
+            <h2 class="blue">Plugins</h2>
+            <ul class="footer-links">
+              <li>To seamlessly experience GoJiyo<br>
+              please install latest version of Unity<br>
+              3D And Adobe Flash web plugins.</li>
+              <li><a href="http://webplayer.unity3d.com/download_webplayer-2.x/UnityWebPlayer.exe" target="_blank"><img src="/assets_v2/images/header/unity-logo.gif" width="47" height="27" alt="unity" class="plugin-space"></a></li>
+              <li><a href="http://www.adobe.com/support/flashplayer/downloads.html" target="_blank"><img src="/assets_v2/images/header/adobe-logo.gif" width="111" height="28" alt="Adobe Flash"></a></li>
+          </ul>
+      </div>
+					<div class="godrej-logo float-right"><a href="http://www.godrej.com/" target="_blank"><img src="/assets_v2/images/home/godrej-logo.png" width="99" height="48" alt="Godrej" border="0"></a></div>
+					<div class="clear">
+						<div class="float-left"><a class="cc-link" href="http://www.customercentria.com/" target="_blank">Designed and Powered by Customer Centria</a></div>
+						<div class="godrej-link float-right"><a href="http://www.godrej.com/" target="_blank" class="cc-link">www.godrej.com</a></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+  </div>
+	<!-- Footer ends-->
+</div>
+<!--script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15133897-1']);
+  _gaq.push(['_setDomainName', '.gojiyo.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script-->
+
+</body></html>
