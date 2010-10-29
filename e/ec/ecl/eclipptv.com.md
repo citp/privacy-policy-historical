@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipptv.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618145332id_/http%3A//eclipptv.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipptv.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029040111id_/http%3A//eclipptv.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # EclippTV
 
