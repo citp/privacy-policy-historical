@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianpopcorn.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612131202id_/http%3A//www.asianpopcorn.com/guide/privacy_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianpopcorn.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029060508id_/http%3A//www.asianpopcorn.com/guide/privacy_privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Popcorn Guide
 
