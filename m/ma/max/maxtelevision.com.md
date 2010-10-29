@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529151230id_/http%3A//www.maxtelevision.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029232134id_/http%3A//www.maxtelevision.com/privacy_policy.php) for the most accurate reproduction.*
 
-# MAXTelevision.com
+# Privacy Policy Sony MAX Web - Bollywood Movies | Bollywood Movie Online | Best Bollywood movies Live | Hindi Movie Channel Live
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY BEFORE USING THIS WEB SITE.
 
