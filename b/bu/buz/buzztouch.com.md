@@ -1,47 +1,41 @@
-> *The following text is extracted and transformed from the buzztouch.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220225622id_/http%3A//buzztouch.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztouch.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029143534id_/http%3A//www.buzztouch.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy 
+buzztouch Privacy Policy
 
-BuzzTouch Designs is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this web site. 
+### Introduction
 
-INFORMATION COLLECTED 
+buzztouch takes your right to privacy seriously, and wants you to feel comfortable using this internet based (web-based) application. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the application editor, nor to persons that are not employees or agents of the application editor, or that are not under the application editor's control. 
 
-As a visitor to our site, you can browse our pages without having any personally identifiable information revealed about you. Information we automatically collect via industry standard web log files and other tools includes the URL from which you visited, the page you are visiting, your computer browser information and your IP address. We may also track the effectiveness of various promotions through the use of data collection devices known as "cookies." Cookies contain specific pieces of information on your computer hard drive, and can be set to store information during a visit or for a longer period of time. Our cookies are not tied to personally identifiable information. 
+### 1\. Collection of data
 
-In addition, there are portions of this web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, e-mail address, and other personal information. 
+Registration of a user account is not available to the public. No personal information is required to use the application. You are not required to provide any personal information that may identify you unless you complete the online registration process. If you choose to complete the online registration process, we do ask for your first and last name plus your birthdate (to comply with the law) as well as some basic contact information. It is possible that an uncotrollable circumstance may arise that prevents us from hiding contact information you provided during the registration process an administrator completed (such as, but not limited to, subsequent to a successful act of intrusion by a third party). Similiar to other web based applications, the application editor may also automatically receive general information that is contained in server log files, such as your IP address, and cookie information. Information about how advertising may be served on this applications (if it is the application editor's policy to display advertising) is set forth below. 
 
-This web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children. 
+### 2\. Use of data
 
-USE OF COLLECTED INFORMATION
+Data may be used to customize and improve your user experience while using this application. Efforts will be made to prevent your data being made available to third parties unless it's provided for otherwise in this Privacy Policy; (ii) your consent is obtained, such as when you choose to opt-in or opt-out for the sharing of data; (iii) a service provided on our application requires interaction with a third party with or is provided by a third party, such as an application service provider; (iv) pursuant to legal action or law enforcement; (v) it is found that your use of this applications violates this policy, terms of service, or other usage guidelines, or if it is deemed reasonably necessary by the applications editor to protect the application editor's legal rights and/or property; or (vi) this application is purchased by a third party, in which case that third party will be able to use the data in the same manner as set forth in this Policy. In the event you choose to use links that appear on this application to visit other web sites, you are advised to read the privacy policies that appear on those sites. 
 
-BuzzTouch Designs gathers information for the purposes of a) providing you with custom information about our service offerings that support of your business needs; b) matching you with a compatible participant in our partner program in the event that we are unable to support your business needs ourselves; and c) reviewing your application for employment if you are seeking work. We recognize that your information is sensitive and restrict our collection of it to the critical data needed to deliver these services. 
+### 3\. Cookies
 
-If you use the forms on our Site, you may receive emails from us to facilitate your inquiry. You cannot opt out of emails that are necessary to provide our services. Your use of our forms and acceptance of our Terms and Conditions include agreement that we and our partners may use your personal information to contact you and deliver information to you. We may share the personal information you provide with other individuals and companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide and are prohibited from disclosing the information to anyone else or using it for any other purpose. Except as stated above, we do not share, sell, or lease personal information about you to any third-parties. 
+Like many web sites, this web application sets and uses cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties serving the advertising do not have access to this application's cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this application. 
 
-It is possible that our business may be merged with or sold to another business entity. During such a transaction, business information is typically one of the assets shared in the combined entity. In the event that this occurs, your personal information will be protected by the BuzzTouch Designs privacy policy in effect at the time. As a good corporate citizen, BuzzTouch Designs is interested in protecting the community at large. We will release personal information to legal authorities when we believe it is appropriate to comply with the law. 
+### 4\. Minors
 
-In addition, BuzzTouch Designs may choose to release information about you to relevant parties in relation to investigations of fraud, piracy or other unlawful activity.
+People aged thirteen or younger are not allowed to become registered users of this application. For more information, please contact us. 
 
-LINKS TO OTHER SITES 
+### 5\. Editing or deleting your account information
 
-BuzzTouch Designs' web site may contain links to other sites such as BuzzTouch Designs distributors, musicians, and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
+This application provides you with the ability to edit the information in your user account that was provided during the registration process. You may request deletion of your user account by contacting us. Content or other information that you may have provided, that belongs to you, will be returned to you within 30 days upon request, this request must be made before an account is cancelled. Once an account is canclled, all data related to that account is permanently deleted and cannot be recovered. 
 
-SECURITY OF COLLECTED INFORMATION 
+### 6\. Changes to this privacy policy
 
-We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those BuzzTouch Designs workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action. 
+Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy either by through the posting of a prominent announcement on the application, and/or by a message being sent users of the application. 
 
-ACCESS TO COLLECTED INFORMATION
+### 7\. NO GUARANTEES
 
-You may review and update the information that you provide to us through this web site by contacting us as described below. 
+While this privacy policy states standards for maintenance of data, and while efforts will be made to meet the said standards, buzztouch is not in a position to guarantee compliance with these standards. There may be factors beyond buzztouch's control that may result in disclosure of data. Consequently, buzztouch offers no warranties or representations as regards maintenance or nondisclosure of data. 
 
-CONTACTING US 
+### 8\. Contact information
 
-If you have any questions about this privacy policy, please use the Contact page. We welcome your questions and suggestions about our privacy policy. 
-
-CHANGES TO THIS POLICY 
-
-Please check this privacy policy periodically to inform yourself of any changes. We reserve the right to modify or supplement this privacy policy at any time. 
-
-Last Updated: January 3, 2007
+If you have any questions about this policy or this web base application, please feel free to contact us: buzztouch, 801 Lighthouse Ave #207, Monterey, CA 93940 info "@" buzztouch.com 
