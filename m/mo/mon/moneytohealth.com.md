@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneytohealth.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612203110id_/http%3A//moneytohealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytohealth.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031004802id_/http%3A//moneytohealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Money to Health
+# Privacy Policy
 
 Welcome to Money to Health (the “Site”).
 
