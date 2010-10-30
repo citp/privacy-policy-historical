@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblog365.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084806id_/http%3A//iblog365.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblog365.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030092430id_/http%3A//iblog365.com/privacy) for the most accurate reproduction.*
 
 # iBlog365.com: free wordpress blog hosting » Privacy
 
@@ -12,7 +12,7 @@ We use your IP address to help diagnose problems with our server and to administ
 1\. Cookies  
 The blog system uses cookies to save some info. iBlog365.com also allows other companies that show advertisements on the blogs to access their cookies.
 
-2\. Advertisers  
+2\. Advertisers   
 Our advertiser’s ads may contain cookies. While we use cookies on the blogs, cookies received with banner ads are collected by our advertisers, and we do not have access to this information.
 
 3\. External Links  
