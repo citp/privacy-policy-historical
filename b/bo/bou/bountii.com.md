@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bountii.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323085726id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bountii.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030045227id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bountii
 
@@ -23,4 +23,4 @@ Uses
 
 
 
-If you have additional questions regarding your privacy and Bountii, please [contact us](https://web.archive.org/web/20100323085726id_/http%3A//bountii.com/contact.php). 
+If you have additional questions regarding your privacy and Bountii, please [contact us](https://web.archive.org/web/20101030045227id_/http%3A//bountii.com/contact.php). 
