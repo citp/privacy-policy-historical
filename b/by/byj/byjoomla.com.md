@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the byjoomla.com privacy policy that was archived on 2009-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090915190108id_/http%3A//byjoomla.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byjoomla.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030063033id_/http%3A//byjoomla.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
-# Joomla Templates, Joomla Extensions, Joomla Tutorials for Joomla 1.0 and Joomla 1.5
+# ByJoomla - Privacy Policy
 
-Written by Administrator      
-Monday, 13 February 2006   
-  
-byjoomla.com Privacy Policy are deeply committed to protecting the privacy of Internet users. Following outlines our continued support for the responsible management of consumer information. 
+**Byjoomla.com - Privacy Policy** are deeply committed to protecting the privacy of Internet users. Following outlines our continued support for the responsible management of consumer information. 
 
 ### Consumer Information
 
