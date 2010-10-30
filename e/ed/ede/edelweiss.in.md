@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edelweiss.in privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109122906id_/http%3A//edelweiss.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edelweiss.in privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030175302id_/http%3A//www.edelweiss.in/privacy.aspx) for the most accurate reproduction.*
 
 # Edelweiss
 
