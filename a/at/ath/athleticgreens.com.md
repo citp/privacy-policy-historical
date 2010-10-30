@@ -1,0 +1,42 @@
+> *The following text is extracted and transformed from the athleticgreens.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030024238id_/http%3A//athleticgreens.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy « Athletic Greens
+
+## Privacy Policy
+
+**Athletic Greens and HUMAN PERFORMANCE NETWORK Privacy Policy**
+
+We value your privacy.
+
+**Website Visitors**  
+Like most website operators, Human Performance Network collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Human Performance Network’s purpose in collecting non-personally identifying information is to better understand how Human Performance Network’s visitors use its website, www.AthleticGreens.com. From time to time, Human Performance Network may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Human Performance Network also collects potentially personally identifying information like Internet Protocol (IP) addresses. Human Performance Network does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+
+**Gathering of Personally Identifying Information**  
+Certain visitors to Human Performance Network’s websites choose to interact with Human Performance Network in ways that require Human Performance Network to gather personally-identifying information. The amount and type of information that Human Performance Network gathers depends on the nature of the interaction. For example, we ask visitors who sign up for the HUMAN PERFORMANCE NETWORK forum to provide a username and email address. Those who engage in transactions with Human Performance Network – by purchasing a bottle of ATHLETIC GREENS, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Human Performance Network collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Human Performance Network. Human Performance Network does not disclose personally identifying information other than as described below. And visitors can always refuse to supply personally identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+**Aggregated Statistics**  
+Human Performance Network may collect statistics about the behavior of visitors to its websites. Human Performance Network may display this information publicly or provide it to others. However, Human Performance Network does not disclose personally-identifying information other than as described below.
+
+**Protection of Certain Personally-Identifying Information**  
+Human Performance Network discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Human Performance Network’s behalf or to provide services available at Human Performance Network’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Human Performance Network’s websites, you consent to the transfer of such information to them. Human Performance Network will not rent or sell potentially personally identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Human Performance Network discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Human Performance Network believes in good faith that disclosure is reasonably necessary to protect the property or rights of Human Performance Network, third parties or the public at large. If you are a registered user of a Human Performance Network website and have supplied your email address, Human Performance Network may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Human Performance Network and our products. We primarily use our various product blogs and forum to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Human Performance Network takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. We do not store your credit card information on our servers. Lime Light CRM is the authorized retailer of goods provided by Human Performance Network LLC. Secure payment processing is provided by PayPal.com and PowerPay.biz.
+
+Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
+
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, authorize.net and Lime Light CRM, keep this information encrypted and secure on your behalf.
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe link at the bottom of the email.
+
+**Cookies**  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Human Performance Network uses cookies to help Human Performance Network identify and track visitors, their usage of Human Performance Network website, and their website access preferences, using Google Analytics. Human Performance Network visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Human Performance Network’s websites, with the drawback that certain features of Human Performance Network’s websites may not function properly without the aid of cookies.
+
+**Ads**  
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Human Performance Network and does not cover the use of cookies by any advertisers.
+
+**Privacy Policy Changes**  
+Although most changes are likely to be minor, Human Performance Network may change its Privacy Policy from time t time, and in Human Performance Network’s sole discretion. Human Performance Network encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+This Privacy Policy was last updated on 08/02/2010.
