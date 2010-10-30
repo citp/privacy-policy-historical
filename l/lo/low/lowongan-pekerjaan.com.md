@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowongan-pekerjaan.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419065901id_/http%3A//www.lowongan-pekerjaan.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowongan-pekerjaan.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030092538id_/http%3A//www.lowongan-pekerjaan.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.lowongan-pekerjaan.com
 
