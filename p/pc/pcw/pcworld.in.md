@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcworld.in privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423050300id_/http%3A//www.pcworld.in/node/636) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.in privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031002800id_/http%3A//www.pcworld.in/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PC World India - Reviews, News, How Tos, Features, Videos
+# 
 
 **1.   IDG Media Private Ltd. ONLINE PRIVACY POLICY**
 
