@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the founderinstitute.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623022434id_/http%3A//www.founderinstitute.com/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founderinstitute.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031010152id_/http%3A//www.founderinstitute.com/information/privacy_policy) for the most accurate reproduction.*
 
 # The Founder Institute: Helping Founders to Build Great Companies
 
