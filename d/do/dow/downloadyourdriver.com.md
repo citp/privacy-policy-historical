@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadyourdriver.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429095238id_/http%3A//downloadyourdriver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadyourdriver.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030150056id_/http%3A//downloadyourdriver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Driver Central
 
