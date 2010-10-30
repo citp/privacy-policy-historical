@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.squarespace.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626223052id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.squarespace.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030210629id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Squarespace
 
