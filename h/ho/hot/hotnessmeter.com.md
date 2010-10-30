@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnessmeter.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524041317id_/http%3A//www.hotnessmeter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnessmeter.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030050442id_/http%3A//www.hotnessmeter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hotness Meter.com - Privacy Policy
 
@@ -15,3 +15,5 @@ We do not sell, rent, loan, trade, or lease any personal information collected a
 **Browser information collected on the website:**
 
 Hotness Meter.com analyzes website logs to constantly improve the value of the materials available on website. Our website logs **are not personally identifiable** , and we make no attempt to link them with the individuals that actually browse the site.
+
+[](http://www.globat.com/join/index.bml?AffID=596178&LinkName=hotnessmeter)
