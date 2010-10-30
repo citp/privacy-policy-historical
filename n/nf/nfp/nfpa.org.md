@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616203017id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030223613id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.*
 
 # NFPA :: Privacy Policy
 
