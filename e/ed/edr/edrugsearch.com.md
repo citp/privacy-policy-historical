@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221002340id_/http%3A//www.edrugsearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030180318id_/http%3A//edrugsearch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy -
 
 eDrugSearch.com is firmly committed to respecting the privacy of individuals. Please read the following to learn more about our privacy policy. 
 
-#### _What This Privacy Policy Covers_
+### _What This Privacy Policy Covers_
 
 This policy covers how eDrugSearch.com treats personal information that eDrugSearch.com collects and receives, including information related to your past use of eDrugSearch.com services. Personal information is information about you that is personally identifiable like your name, gender, email address, zip code and that is not otherwise publicly available. 
 
 This policy does not apply to the practices of companies that eDrugSearch.com does not own or control, or to people that eDrugSearch.com does not employ or manage. 
 
-#### _Information Collection and Use_
+### _Information Collection and Use_
 
 ####  General 
 
@@ -26,7 +26,7 @@ eDrugSearch.com uses information for the following general purposes: to customiz
 
 Any child under age 18 that attempts to register with eDrugSearch.com, will be asked to leave eDrugSearch.com and their account will be deleted effective immediately. 
 
-#### _Information Sharing and Disclosure_
+### _Information Sharing and Disclosure_
 
 eDrugSearch.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
@@ -40,7 +40,7 @@ eDrugSearch.com displays targeted advertisements based on personal information. 
 
 > o eDrugSearch.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
 
-#### _Your Ability to Edit and Delete Your Account Information and Preferences_
+### _Your Ability to Edit and Delete Your Account Information and Preferences_
 
 ####  General
 
@@ -64,11 +64,18 @@ Effective Date: January 1, 2006
 
 #### Message Board Rules and Regulations
 
-Before accepting to enter the fast paced world of pharmacy discussion, check to see if you satisfy the following criteria:
+To participate in the eDrugSearch.com community, we ask that you follow these requirements:
 
-Anyone under the age of 18 must leave this site.  
-No commercial solicitation or affiliate links.  
-No discussion of ongoing or planned criminal activity.   
-No offending, off-topic, cross-posted, misinforming, or insignificant postings.  
-Pharmacies, please introduce your self in the New Sources forum.   
+* Anyone under the age of 18 must leave this site.  
+* No commercial solicitation or affiliate links.  
+* No discussion of ongoing or planned criminal activity.  
+* No offending, off-topic, cross-posted, misinforming, or insignificant postings.  
+* Pharmacies, please introduce yourselves in the New Sources forum. 
 
+The eDrugSearch.com community is moderated daily by Cary Byrd, the owner of this site, as well as by other employees of eDrugSearch.com whom he designates. Neither Byrd nor any employee of eDrugSearch.com is a medical professional, and our Web site does not provide medical or healthcare advice, diagnosis or treatment. 
+
+Additionally, all users of the eDrugSearch.com community should by default be considered non-medical professionals. We encourage all consumers to consult with a physician before deciding to take any medication. 
+
+Posts by users of the eDrugSearch.com community are visible to everyone. Users may modify or erase their posts after they are submitted. Community members must post information which is true and correct to their knowledge. 
+
+Both users and moderators of the eDrugSearch.com community are required to behave at all times with mutual respect and honesty. Users who use abusive language or otherwise show disrespect or dishonesty will receive a warning; a second instance will result in being banned from the community.
