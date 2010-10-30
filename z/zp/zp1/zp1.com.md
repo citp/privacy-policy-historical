@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zp1.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520031113id_/http%3A//www.zp1.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zp1.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030170057id_/http%3A//www.zp1.com/privacy.php) for the most accurate reproduction.*
 
 # ZP1.com - Free Ads - Free Classified Ads - Free Personal Ads - American Classifieds - Post Free Ads
 
-**You are currently viewing from[ Sioux Falls, South Dakota](https://web.archive.org/148_Sioux_Falls/)
+**You are currently viewing from[ Phoenix, Arizona](https://web.archive.org/24_Phoenix/)
 
 Privacy Policy
 
@@ -85,4 +85,4 @@ This site does not support any spam. Anyone caught spamming on ZP1.com will hav
 Thank you for visiting ZP1.com. We hope you find value on our site.
 
   
-[](https://web.archive.org/web/20100520031113id_/http%3A//www.zp1.com/index.php?view=main&cityid=148)
+[](https://web.archive.org/web/20101030170057id_/http%3A//www.zp1.com/index.php?view=main&cityid=24)
