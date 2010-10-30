@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brizzly.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317151254id_/http%3A//brizzly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brizzly.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030042824id_/http%3A//brizzly.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Brizzly
 
