@@ -1,58 +1,67 @@
-> *The following text is extracted and transformed from the usadegreesearch.com privacy policy that was archived on 2009-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090707012025id_/http%3A//usadegreesearch.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usadegreesearch.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030235751id_/http%3A//usadegreesearch.com/terms_and_privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Usadegreesearch
+# Terms and Privacy
 
-Welcome to Usadegreesearch.com (the “Site”).
+ 
 
-We understand that privacy online is important to users of our Site, especially when conducting business.  
-This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without  
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Usadegreesearch.com (collectively, “Services”) (”Authorized Customers”).
+ **usadegreesearch.com Web Privacy Statement**   
+ 
 
-“Personally Identifiable Information”  
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
-or demographic information not connected to an identified individual.
+usadegreesearch is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.   
+ 
 
-What Personally Identifiable Information is collected?  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+ **Information We Collect**  
+We collect various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you register for any of our online services or when you request information from one of our partners.   
+**Information Collected Automatically**  
+The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes: 
 
-What organizations are collecting the information?  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+  * Your browser, e.g., Internet Explorer, Netscape Navigator. 
+  * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc. 
+  * You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux. 
+  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave. 
+  * Your IP address. 
 
-How does the Site use Personally Identifiable Information?  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful. 
 
-With whom may the information may be shared?  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf. 
+**Information You Provide to Us**  
+In addition to the information automatically collected by your browser, we also collect information that you provide to us when you request information about a particular school or educational program. 
 
-How is Personally Identifiable Information stored?  
-Personally Identifiable Information collected by Usadegreesearch.com is securely stored and is not accessible to third parties or employees of Usadegreesearch.com except for use as indicated above. 
+Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information about their interest in one of our educational partners (universities, colleges, test prep companies, etc.) We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the educational partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent. 
 
-What choices are available to Visitors regarding collection, use and distribution of the information?  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at info@Usadegreesearch.com
+**How We Use This Information**  
+We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
 
-Are Cookies Used on the Site?  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+**Your Rights Our Obligations**   
+usadegreesearch only provides the personal data submitted by visitors to our site to the third party/parties from which they requested information. 
 
-How does Usadegreesearch.com use login information?  
-Usadegreesearch.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: unsubscribe@usadegreesearch.com. 
 
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?  
-Usadegreesearch.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
-Our privacy policy does not cover their collection or use of this information.  
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only. 
 
-How does the Site keep Personally Identifiable Information secure?  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+**Our Security Measures**  
+Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information?  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at info@Usadegreesearch.com 
+**Why We Use "Cookies"**   
+When you visit some of our sites, we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your contact information for all of our request information sites. We do this so you are not required to re-enter your contact information as you move from one site to another. 
 
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting info@Usadegreesearch.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+**Links From Our Site To Other Sites** Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. usadegreesearch is not responsible for the privacy practices or the content of any Websites which we do not directly control. 
 
-What happens if the Privacy Policy Changes?  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+**Definitions**  
+**Cookies**  
+Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk. 
 
-Links:  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. 
+
+You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. 
+
+**IP (Internet Protocol) Address**  
+This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2. 
+
+**Browser Session**  
+A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session. 
+
+**SSL Encryption (Secure Sockets Layer)**  
+The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. We also use SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+
+**URL (Uniform Resource Locator)**  
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for usadegreesearch is www.usadegreesearch.com. 
