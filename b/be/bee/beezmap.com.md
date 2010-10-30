@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beezmap.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625235219id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezmap.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031012838id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.*
 
 # Beezmap - Privacy Policy
 
