@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scenetube.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613174512id_/http%3A//www.scenetube.net/uncategorized/8062-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenetube.net privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030231317id_/http%3A//www.scenetube.net/uncategorized/8062) for the most accurate reproduction.*
 
-# Privacy Policy | Scenetube.net - Share & Download The Latest Releases!
+# Privacy Policy | Scenetube.net
 
-[Home](http://www.scenetube.net/ "Go to homepage") > [Miscellaneous](http://www.scenetube.net/category/uncategorized "View all posts in Miscellaneous") > Privacy Policy 
+[Home](http://www.scenetube.net/ "Go to homepage") > [Misc](http://www.scenetube.net/category/uncategorized/ "View all posts in Misc") > Privacy Policy 
 
 ## Privacy Policy
 
