@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501064024id_/http%3A//cnsnews.com/static/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030114414id_/http%3A//cnsnews.com/static/privacy_statement) for the most accurate reproduction.*
 
-# CNSNews.com - Privacy Statement
+# Privacy Statement | CNSnews.com
 
-**CNSNews.com Privacy Statement :** This is the Web site of the Media Research Center.
+CNSNews.com Privacy Statement:
+
+This is the Web site of the Media Research Center.
 
 Our postal address is:  
 325 S. Patrick St.  
 Alexandria, Virginia 22314
 
-We can be reached via e-mail at privacy@mediaresearch.org or you can reach us by telephone at (800) MRC-1423. Your investment in the MRC comes with our 100% money-back guarantee: You must be totally delighted with how your donation to the MRC is used, or you can receive a complete refund of your entire donation, no questions asked. In addition, the Media Research Center will provide refunds for donations whose gifts were made in error, provided they contact us within 30 days of making the online gift.
+We can be reached via e-mail at [privacy@mediaresearch.org](mailto:privacy@mediaresearch.org) or you can reach us by telephone at (800) MRC-1423. Your investment in the MRC comes with our 100% money-back guarantee: You must be totally delighted with how your donation to the MRC is used, or you can receive a complete refund of your entire donation, no questions asked. In addition, the Media Research Center will provide refunds for donations whose gifts were made in error, provided they contact us within 30 days of making the online gift.
 
 For each visitor to our Web site, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -40,4 +42,4 @@ Consumers can have this information corrected by writing to us at the above addr
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office or The Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357). 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office or The Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357). 
