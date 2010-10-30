@@ -1,18 +1,31 @@
-> *The following text is extracted and transformed from the bootscootintraffic.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710034602id_/http%3A//www.bootscootintraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootscootintraffic.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030042825id_/http%3A//bootscootintraffic.com/privacy.php) for the most accurate reproduction.*
 
 # BootScootinTraffic.com
 
-**BootScootin'Traffic Privacy Policy**
-
-BootScootin'Traffic will not share, sell, or give away any information regarding their members including but not limited to their name, email address, and other private information. 
-
-BootScootin'Traffic reserves the right to use member email addresses for the purpose of periodically sending out information relevant to any and all aspects of BootScootin'Traffic membership. 
-
-BootScootin'Traffic may require the use of cookies to store login session information. 
-
-BootScootin'Traffic merely serves as a directory of other websites and is therefore not responsible for the privacy practices and/or content of those websites. 
-
-Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com, AlertPay or SafePay) over secure SSL encrypted Internet connections and is not stored on BootScootin'Traffic servers.
-
+|   |  |   
+---  
   
+  
+****  
+  
+  
+  | 
 
+## BootScootinTraffic Privacy Policy
+
+|  | 
+
+BootScootinTraffic will not share, sell, or give away any information regarding their members including but not limited to their name and/or email address.
+
+BootScootinTraffic reserves the right to use member email addresses for the purpose of periodically sending out information which we consider relevant to any and all aspects of BootScootinTraffic membership.
+
+BootScootinTraffic may require the use of cookies to store login session or certain other information.
+
+BootScootinTraffic serves as a directory of advertiser and member websites and is therefore not responsible for the conduct, content, or privacy practices of those websites. 
+
+Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. AlertPay, or PayPal) over internet connections and is not stored on BootScootinTraffic servers. 
+
+|   
+---|---|---  
+  
+ 
