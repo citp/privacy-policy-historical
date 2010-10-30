@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615173446id_/http%3A//homestoreandmore.ie/page/privacy_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030225752id_/http%3A//homestoreandmore.ie/page/privacy_security_policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Home Store + More
 
