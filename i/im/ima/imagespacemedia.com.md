@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagespacemedia.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404012751id_/http%3A//www.imagespacemedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagespacemedia.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030115416id_/http%3A//www.imagespacemedia.com/privacy.php) for the most accurate reproduction.*
 
 # Image Space Media - Privacy Policy
 
