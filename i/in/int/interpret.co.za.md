@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpret.co.za privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202074130id_/http%3A//interpret.co.za/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpret.co.za privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031215524id_/http%3A//interpret.co.za/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
