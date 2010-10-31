@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527190634id_/http%3A//harlandclarke.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031095819id_/http%3A//harlandclarke.com/main/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | Harland Clarke
 
@@ -24,9 +24,14 @@ We are registered with the following organizations:
 
 Cybertrust® – Our network has been certified by Cybertrust (formerly TruSecure) since 2002. For information on Cybertrust certification visit their website at [www.cybertrust.com](http://www.cybertrust.com/).
 
-[](http://harlandclarke.com/privacy) [](http://harlandclarke.com/privacy) [](http://harlandclarke.com/privacy)
+[](http://harlandclarke.com/privacy)     [](http://harlandclarke.com/privacy)     [](http://harlandclarke.com/privacy)
 
-  [](http://harlandclarke.com/privacy)        [](http://harlandclarke.com/privacy)       [](http://harlandclarke.com/privacy)
+[](http://harlandclarke.com/privacy)      [](http://harlandclarke.com/privacy)      [](http://harlandclarke.com/privacy)
+
+[](http://harlandclarke.com/privacy)
+
+  
+
 
 ### Web browsing "cookies"
 
