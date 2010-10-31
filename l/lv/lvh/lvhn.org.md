@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616090618id_/http%3A//www.lvhn.org/Help%257C143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031195712id_/http%3A//lvhn.org/Help%257C143) for the most accurate reproduction.*
 
-# Hospital Privacy, Confidentiality Policy - Patient | Lehigh Valley Health Network
+# Hospital Privacy, Confidentiality Policy - Patient | Lehigh Valley Health Network | Help
 
 ## At Lehigh Valley Health Network, it is our policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential
 
@@ -38,3 +38,6 @@ This Web site tracks information about the visits to our pages. We compile stati
 
   
 This page last updated 3/3/09 11:19 AM
+
+  
+
