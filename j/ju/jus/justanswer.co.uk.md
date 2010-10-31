@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justanswer.co.uk privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527082012id_/http%3A//www.justanswer.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.co.uk privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031094645id_/http%3A//ww2.justanswer.co.uk/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
@@ -75,11 +75,11 @@ Our main servers are locked and hosted by a leading provider of Internet access 
 Despite these security procedures and practices, as is the case with all computer networks connected to the Internet, JustAnswer® cannot guarantee the security of your PII or any other information provided over the Internet and will not be responsible for breaches of security.
 
 **Principle 7: Updates to This Policy**  
-By visiting JustAnswer .com, you are accepting this policy as it may be amended from time to time. Please check the date of this Policy each time you visit to ensure that you are aware of the most current version. If you do not agree to the terms of this Policy, please do not use this site.
+By visiting JustAnswer.com, you are accepting this policy as it may be amended from time to time. Please check the date of this Policy each time you visit to ensure that you are aware of the most current version. If you do not agree to the terms of this Policy, please do not use this site.
 
 JustAnswer® reserves the right to update this policy at any time without prior notice. Material updates will take effect 30 days after initial posting on this site.
 
 **Contact Us**  
-If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking [HERE](http://www.justanswer.com/help/contact.aspx) or at P.O. Box 29045, San Francisco, CA 94129.
+If you have questions or suggestions regarding this Privacy Policy, you may email us by clicking [HERE](mailto:support@justanswer.com) or mail us at P.O. Box 29045, San Francisco, CA 94129.
 
 NOTICE: [Click here](http://www.onguardonline.gov/default.aspx) for important information about safe surfing from the Federal Trade Commission.
