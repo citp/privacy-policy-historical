@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbaitgenerator.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402092954id_/http%3A//linkbaitgenerator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbaitgenerator.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031222607id_/http%3A//linkbaitgenerator.com/privacy.html) for the most accurate reproduction.*
 
 # Linkbait Generator
 
