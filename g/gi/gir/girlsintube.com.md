@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsintube.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605132351id_/http%3A//girlsintube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsintube.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101000109id_/http%3A//girlsintube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · GirlsInTube . com - Full Free Porn Videos - Sex Tube Porno Redtube Pornhub XXX
 
