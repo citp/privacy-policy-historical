@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629131618id_/http%3A//www.tweezerman.com/pages/index.cfm%3Fpg%3D84%26ca%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031082820id_/http%3A//www.tweezerman.com/pages/index.cfm%3Fpg%3D84%26ca%3D4) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Tweezerman - Award Winning Beauty Tools
 
