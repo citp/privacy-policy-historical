@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutus.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604194551id_/http%3A//aboutus.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutus.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031145138id_/http%3A//aboutus.com/about/privacy) for the most accurate reproduction.*
 
 # AboutUs.com
 
