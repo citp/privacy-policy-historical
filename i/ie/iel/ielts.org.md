@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202648id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031191411id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# IELTS | Privacy Policy
 
 ## Privacy Statement
 
@@ -36,7 +36,7 @@ Sensitive information includes details of an individual's racial or ethnic origi
 
 ## Web site traffic tracking
 
-IELTS partners uses an independent company, (<http://www.nielsen-netratings.com/> ) to measure and analyse its internet usage to ensure the site meets its objectives with advertisers and users. Individual privacy is protected but IELTS partners gains insights on how make the site more useful for advertisers as well as our users.
+IELTS partners uses Google Analytics to measure and analyse its internet usage to ensure the site meets its objectives with advertisers and users. Individual privacy is protected but IELTS partners gains insights on how make the site more useful for advertisers as well as our users.
 
   * The number of page views (or page impressions) that occur on an IELTS site;
   * The number of unique visitors;
@@ -45,19 +45,9 @@ IELTS partners uses an independent company, (<http://www.nielsen-netratings.com/
 
 
 
-## Disabling Cookies in Netscape and Internet Explorer (IE)
+## Disabling Cookies in Internet Explorer (IE)
 
-If you use Netscape browser, go to the Edit -> Preferences -> Advanced menu. Change your cookie configuration.
-
-Disabling Microsoft's Internet Explorer depends on which version you use. To check for your version, click Help -> About Internet Explorer
-
-In the latest version IE 6.0, go to the Tools -> Internet Options -> Privacy menu. You then select how the browser accepts cookies, based on the source of the cookie, and whether the source has a "privacy policy". There are also features for the advanced user for greater control over cookies.
-
-In IE 5.0, go Tools -> Internet Options -> Security. Choose the security level for four different browsing conditions: Internet Sites, Local Sites, "Trusted" Sites, and Restricted Sites. If you select "Internet," and click on Custom Level, a dialog box enables you to either accept all, warn before accepting, or reject all cookies.
-
-With IE 4.0, go View -> Internet Options ->Advanced menu. Again, as with IE5, you can accept all, warn before accepting, or reject all.
-
-*The use of Javascript and/or Java Applet depends on which browser you use. Typically Internet Explorer users with Version 4 or above will use the Javascript method. Netscape users, or users whose browser does not support Javascript 1.1, will use a Java Applet method.
+Go to the Tools -> Internet Options -> Privacy menu. You then select how the browser accepts cookies, based on the source of the cookie, and whether the source has a "privacy policy". There are also features for the advanced user for greater control over cookies.
 
 ## Use and Disclosure of Personal Information
 
@@ -131,7 +121,7 @@ IELTS is a contractor to the Commonwealth and State governments, and contracts o
 
 Complaints about possible breaches of privacy should be marked as "Confidential", and addressed to:
 
-IELTS Webmaster  
+**IELTS Webmaster**  
 [**Contact IELTS**](https://web.archive.org/contact_us.aspx).
 
 Requests for access to personal information should be addressed to the Company Secretary (as set out above).
