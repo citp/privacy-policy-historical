@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageshentai.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507232716id_/http%3A//imageshentai.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageshentai.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031181615id_/http%3A//imageshentai.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ImagesHentai - Tu Hosting de Imagenes Hentai
 
