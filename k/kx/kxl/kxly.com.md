@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501154401id_/http%3A//www.kxly.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101010502id_/http%3A//www.kxly.com/news/1014422/detail.html) for the most accurate reproduction.*
 
-# News Homepage
+# KXLY.com: News Homepage
 
 **Internet Broadcasting Systems Private Policy:**  
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.KXLY.com](http://www.kxly.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
