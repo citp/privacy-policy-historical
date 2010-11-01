@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the tranny.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501010527id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dtranny) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tranny.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101075843id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dtranny) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by HOH Limited
+This website (the "Site") is operated by Minaloun Management Ltd
 
-HOH Limited  
-Themistokli Dervi, 12, 1st Floor  
-Palais D'lvorie  
-Nicosia  
+Minaloun Management Ltd  
+Agias Fylaxeos & Zinonos Rossidi  
+2, 1st Floor  
+Limassol  
 Cyprus  
-1066  
+3082  
 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
