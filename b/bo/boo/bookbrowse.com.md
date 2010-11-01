@@ -1,51 +1,8 @@
-> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503081002id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101112128id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # BookBrowse.com's privacy statement
 
-|  |  | 
-
-[ ](https://web.archive.org/adsystem/redir.cfm?adid=340)
-
-[ ](https://web.archive.org/adsystem/redir.cfm?adid=338)
-
-|   
----  
-|  [**New Author  
-Interviews**](http://www.bookbrowse.com/author_interviews)  
----  
-| **Glen David Gold**  
-Glen David Gold talks with writer and cultural critic Adam McGovern about Sunnyside _’s own secrets—and shows that knowing some of the mysteries doesn’t take away the magic.  
-
-
-[more](http://www.bookbrowse.comauthor_interviews/full/index.cfm?author_number=1698)
-
-_ |   
-| **Mary Sharratt**  
-Mary Sharratt explains the history behind her novel _Daughters of the Witching Hill_ set in early 17th century England.  
-
-
-[more](http://www.bookbrowse.comauthor_interviews/full/index.cfm?author_number=1863)
-
-|   
-| **Tracy Kidder**  
-In two separate interviews, one video, one text, Tracy Kidder talks about writing _Strength in What Remains_ and _Mountains Beyond Mountains_.  
-
-
-[more](http://www.bookbrowse.comauthor_interviews/full/index.cfm?author_number=940)
-
-|   
-| **Karl Marlantes**  
-Two video interviews with Karl Marlantes, one in which he talks about why it took him 30 years to complete _Matterhorn_ , and the other on the topic of understanding other people's lives through fiction.  
-
-
-[more](http://www.bookbrowse.comauthor_interviews/full/index.cfm?author_number=1855)
-
-|   
-  
-[more interviews](http://www.bookbrowse.com/author_interviews)  
-  
-[ ](https://web.archive.org/adsystem/redir.cfm?adid=67) |  |    Privacy Statement  
----  
+   Privacy Statement  
   
 BookBrowse.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website. 
 
@@ -94,58 +51,4 @@ From time to time we use third-party advertising companies to serve ads on our W
 **Contacting BookBrowse.com**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](http://www.bookbrowse.com/contactus "contact us").   
   
-Last updated November 2008  
-  
-|  |   
----  
-[ ](https://web.archive.org/adsystem/redir.cfm?adid=328)  
-|   
----  
-| **Editor's Choice** |   
-  
-  *  May 02 
-  *  Apr 30 
-  *  Apr 28 
-
-
-
-| [**Claiming Ground**](http://www.bookbrowse.com/mag/nm_reviews/?detail=137028kd)   
-_Laura Bell_  
----  
-[ ](http://www.bookbrowse.com/mag/nm_reviews/?detail=137028kd) |  By turns cattle rancher, forest ranger, outfitter, masseuse, wife and mother, Bell vividly recounts her struggle to find solid earth in which to put down roots.  
-  
-[ ](https://web.archive.org/adsystem/redir.cfm?adid=208)  
-  
-**Book Club Recommendations**  
-  
-| **   Latest _BookBrowse News_**  
----  
-**John Hart's 'Last Child' wins Edgar Best Novel** _(Apr 30 2010)_  
-Last night, The Mystery Writers of America announced the winners of the annual Edgar Awards, at their 64th Gala Banquet in New York City. 
-
-The... [**_Full Story_**](http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=907 "News Story")  
-  
-**Author Alan Sillitoe dies aged 82** _(Apr 25 2010)_  
-Author Alan Sillitoe has died aged 82 at Charing Cross Hospital in London, England. 
-
-His novels included _Saturday Night and Sunday Morning_... [**_Full Story_**](http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=906 "News Story")  
-  
-| **BookBrowse Poll**  
----  
-**Q: Sometimes authors include an end note with more about the writing/backstory to their book. Do you read these?**  
-|   
----  
-| Yes, almost always  
-| Yes, if I find the book interesting  
-| Sometimes  
-| Rarely  
-  
-[[View Poll Results](http://www.bookbrowse.com/bb_poll/index.cfm?fuseaction=show_results&question_id=62)]   
-[[Previous Poll Results](http://www.bookbrowse.com/bb_poll/index.cfm?fuseaction=show_results&question_id=0)]  
-  
----  
-  
-© BookBrowse LLC 1997-2010. All rights reserved. Information at [BookBrowse.com](http://www.bookbrowse.com/ "return to home") is published with the permission of the copyright holder or their agent. It is forbidden to copy anything for publication elsewhere without written permission from the copyright holder.  
-[privacy statement](http://www.bookbrowse.com/information/index.cfm?fuseaction=privacy "privacy statement")  |  terms of service  |  [contact us](http://www.bookbrowse.com/contactus "contact us") [](http://www.onepercentfortheplanet.org/en/)  
-  
-| 
+Last updated November 2008
