@@ -1,113 +1,130 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503054449id_/http%3A//www.virginmobile.com.au/en_au/vma/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101193419id_/http%3A//www.virginmobile.com.au/en_au/vma/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Virgin Mobile
 
-* ### What is this policy about?
+This policy is a public document that sets out our approach in relation to the treatment of Personal Information. It outlines our collection, use, disclosure, security measures and individual's right to access and correct Personal Information.
 
-This policy explains the key measures we have taken to implement the requirements of the Telecommunications Act 1997 and the Privacy Act 1998, which implements the National Privacy Principles. It aims to answer the questions you might have about how we collect, use and disclose your personal information. If you have any further questions about Virgin Mobile’s privacy practices, please contact the Virgin Mobile team on 1300 555 100 and ask for the Privacy Officer or email us at privacy@virginmobile.com.au. Media enquiries should be made to The Press Office on (02) 9028 1600.
+The Telecommunications Act 1997, the Privacy Act 1988 (including the new National Privacy Principles) (the Privacy Act) and the ACIF Code on the Protection of Personal Information of Customers of Telecommunications Providers as statutory references and do not alter any of our obligations under these existing laws and codes.
 
-* ### What information have you collected about me?
+### Collection
 
-We hold information that you have provided to us about yourself, and information about your use of our services such as billing and calling information. The information that we collect will depend on how you use the facilities offered by Virgin Mobile. Information that you might have provided to us includes:
+  1. We will only collect Personal Information where it is necessary for us to perform one or more of our functions or activities. In this context, "collect" means to obtain by any means, information where the individual is identifiable or identified.
+  2. We collect Personal Information mainly to supply customers with the products and services ordered from us and our Related Bodies Corporate ( **Group Companies** ), and also for: 
+    1. billing and account management;
+    2. business planning and product development; and
+    3. to provide individuals with information about promotions, as well as the products and services of our Group Companies and our partners (including other Virgin Group companies).
+  3. We will notify our customers and the general public of the below before collecting any Personal Information: 
+    1. the main reason that we are collecting Personal Information ( **Primary Purpose** );
+    2. other related Uses or Disclosures that we may make of the Personal Information ( **Secondary Purposes** );
+    3. our identity and how individuals can contact us, if this is not obvious;
+    4. that individuals can access the Personal Information we hold about them;
+    5. that individuals (including the general public) should contact us if they wish to access or correct Personal Information collected by us or have any concerns in relation to Personal Information;
+    6. the organisations or types of organisations to whom we usually disclose the Personal Information;
+    7. any law that requires the Personal Information to be collected;
+    8. the consequences (if any) for the individual if all or part of the Personal Information is not provided to us.
+  4. Where it is not practicable to notify individuals before the collection of Personal Information, we will ensure that individuals as soon as possible after the collection.
+  5. When collecting Personal Information over the telephone, we will provide the individual with Virgin Mobile's contact details, and then provide the balance of the Collection Information in a confirming letter.
+  6. We will not collect Sensitive Information without prior consent and only where it is necessary for our activities or function.
+  7. We will not collect Personal Information secretly or in an underhanded way.
+  8. We will take steps to ensure that individuals on purchased lists are or have been notified of the information as outlined at 3. Use
+  9. We will obtain an individual's consent for Use of non-sensitive Personal Information for Secondary Purposes at the time of collection, unless such Use would be within the relevant individual's Reasonable Expectations.
+  10. We Use Personal Information primarily for the purposes listed in 2 above.
+  11. Where we rely on the Direct Marketing exception to Direct Market to individuals, we will ensure that: 
+    1. the individual is clearly notified of their right to Opt Out from further Direct Marketing;
+    2. there is only one Use of the information before the Opt Out right is given and this Use applies across all our Related Bodies Corporate (if the information is shared between those Related Bodies Corporate);
+    3. the individual is given an Opt Out in all further instances of Direct Marketing if they have not previously chosen to Opt Out; and
+    4. the individual's decision to Opt Out of all Direct Marketing will be respected by us.
+  12. We won't use Sensitive Information for Direct Marketing.
+  13. We may use Personal Information to avoid an imminent threat to a person's life or to public safety, and for reasons related to law enforcement or internal investigations into unlawful activities.
+  14. We won't use Personal Information without taking reasonable steps to ensure that the information is accurate, complete and up to date.
+  15. We won't attempt to match unidentified or anonymous data collected through surveys or such online devices as "cookies", with information identifying an individual, without the consent of the relevant individual. 
 
-  * information provided in applying for goods or services such as a pre-paid or post-paid mobile phone service – for example, your contact details, driver’s licence number, photo identification, general demographic information and financial information;
-  * information generated by your use of our services – for example, your calling patterns and details of any contact you have with Virgin Mobile such as through our customer support staff; and
-  * information provided as part of your use of the Virgin Mobile web site such as entering give-aways or competitions – for example, your email address.
+### Disclosure
 
+  16. We may Disclose Personal Information to related or unrelated third parties if consent has been obtained from the individual, including consent for Disclosures made under the credit reporting requirements of the Privacy Act.
+  17. We may Disclose Personal Information between Related Bodies Corporate, in which case that Related Body Corporate is bound by the original Primary Purpose for which the information was collected.
+  18. We may Disclose Personal Information to unrelated third parties to enable outsourcing of functions (such as billing), for a related Secondary Purpose, in which case the individuals will be notified of our usual Disclosures via the Collection Information, as outlined in 3, or where such Disclosure is within the individual's Reasonable Expectations.
+  19. We will take reasonable steps to ensure that our contracts with third parties include requirements for them to comply with the Use and Disclosure requirements of the Privacy Act.
+  20. We may Disclose Personal Information to law enforcement agencies, government agencies, courts or external advisers where permitted or required by law.
+  21. We may Disclose Personal Information to avoid an imminent threat to a person's life or to public safety.
+  22. If a Disclosure is not for a Primary or Secondary Purpose, or upfront consent has not been obtained, we will only Disclose Personal Information as per the exceptions set out at 16 to 21 above.
+  23. We do not generally sell or share customer lists on a commercial basis with third parties but if we did, we would ensure we had the appropriate consent of the individual involved. If the consent provided is conditional, we will take steps to ensure (by contract) that the use of its customer list by third parties does not exceed the scope of the consent. 
 
-* ### What do you do with this information?
+### Information quality
 
-We collect information about you to provide you with a particular product or service. We may also use personal information for related purposes such as:
+  24. We will regularly review our collection and storage practices to ascertain how improvements to accuracy can be achieved.
+  25. We will destroy or de-identify Personal Information after as short a time as possible and after a maximum of seven years, unless the law requires otherwise. 
 
-  * maintaining our relationship with you, including responding to your questions;
-  * helping us to identify and inform you about other products or services that are likely to be useful for you;
-  * approving an application for a pre-paid or post-paid account;
-  * internal accounting and administration, including sharing information with our related bodies corporate for reporting purposes;
-  * providing your contact details to Telstra as required by law, so that your number can be used by emergency services and for other approved purposes;
-  * protecting you and Virgin Mobile from error and fraud;
-  * preventing a serious credit infringement;
-  * improving the web site; and
-  * developing a better understanding of our customers’ needs.
+### Information security
 
+  26. We require employees and contractors to perform their duties in a manner that is consistent with our legal responsibilities in relation to privacy.
+  27. We will take all reasonable steps to ensure that records containing Personal Information are stored in facilities that are only accessible by our staff who have a genuine "need to know" as well as "right to know".
+  28. We will regularly review our information security practices to ascertain how ongoing responsibilities can be achieved and maintained 
 
+### Access and correction
 
-If you do not provide us with your personal information, we cannot provide you with these services.
+  29. We will allow our records containing Personal Information to be accessed by the individual concerned in accordance with the Privacy Act.
+  30. We will correct our records containing Personal Information as soon as practically possible, at the request of the individual concerned in accordance with the Privacy Act.
+  31. Individuals wishing to lodge a request to access and/or correct their Personal Information should contact us as per the details at the end of this document.
+  32. We will not charge a fee for processing an access request unless the request is particularly resource intensive. 
 
-* ### Are there any other times when you use my information for any other purpose or give this information to someone else?
+### Openness
 
-Virgin Mobile recognises the trust you place in us when you give us your personal information. Other than disclosure to service providers (explained below) or as required by law (for example, disclosure to various Government departments or to courts), our policy is that we do not generally give your personal information to other organisations unless you have given us your consent to do so.
+  33. Individuals wishing to make an inquiry or complaint regarding privacy, should contact our Customer Service department as per the details at the end of this document.
+  34. Privacy complaints will be managed in accordance with our Complaint Handling Policy, which complies with the Australian Communications Industry Forum's Complaint Handling Industry Code.
+  35. Our websites contain a prominently displayed privacy statement and a copy of this Privacy Policy. 
 
-We may share your personal information with affinity partners, service providers and other third parties to help us run aspects of our business efficiently. Occasionally Virgin Mobile might also use your personal information for other purposes or share your information with another organisation because:
+### Anonymous transactions
 
-  * we believe it is necessary to provide you with a service which you have requested;
-  * we believe it necessary to implement our terms of service;
-  * we believe it is necessary to protect the rights, property or personal safety of another Virgin Mobile user, any member of the public or Virgin Mobile;
-  * we believe it is necessary to do so to prevent or help detect fraud or serious credit infringements - for example, we may share information with other phone companies, credit reporting agencies, law enforcement agencies and fraud prevention units;
-  * we believe it is necessary to protect the interests of Virgin Mobile – for example, disclosure to a court in the event of legal action to which Virgin Mobile is a party; or
-  * the assets and operations of the business are being transferred to another party as a going concern.
+  36. We will not make it mandatory for visitors to our web sites to provide Personal Information unless it is required to answer an inquiry or provide a service. We may however request visitors to provide Personal Information voluntarily (for example, as part of a competition or survey).
+  37. We will allow our customers to transact anonymously wherever reasonable and practicable. 
 
+### Transferring personal information overseas
 
+  38. We will take reasonable steps to limit the amount of Personal Information it sends to unrelated organisations overseas.
+  39. If Personal Information must be sent overseas for sound business reasons, we will require the overseas organisation receiving the information to provide a binding undertaking that it will handle that information in accordance with the National Privacy Principles, preferably as part of the services contract. 
 
-When we share information with other organisations and service providers as set out above, we do so in accordance with this Privacy Policy. To the extent that these organisations and service providers gain access to your personal information, they are covered by strict privacy rules that prevent them from keeping this information or using this information for any other purpose.
+### Future changes
 
-* ### Do I have to receive marketing information from Virgin Mobile?
-
-Virgin Mobile strives to offer the best deals in the communications business, so we like to keep you up to date with our special offers and new services, unless you’ve specifically asked us not to. Please note that once you’ve sign up to a Virgin Mobile service, you can choose not to receive marketing information from us by calling the Virgin Mobile team on 1300 555 100 at any time. Also if you’ve said "No thanks" to receiving information, you can always call the same number to change to a "Yes".
-
-* ### Why do you give my details to Telstra?
-
-When you are allocated a telephone number, Virgin Mobile is required by law to give certain details about you and your number to the Integrated Public Number Database (“IPND”) managed by Telstra. The information provided to the IPND includes the following:
-
-  * your telephone number/s;
-  * your name and the name of the end-user (if different from the name of the purchaser);
-  * your address;
-  * the purposes for which the telephone number will be used – for example, business, charitable or residential purposes; and
-  * whether your number/s is “listed”, “unlisted” or a “suppressed address record”.
+  40. Virgin Mobile aims to be the best in the telecommunications industry. That means our business will continue to evolve as we introduce new products and services and add new features to our web site. Because of this, from time to time, our policies will be reviewed and may be revised. Virgin Mobile reserves the right to change this Privacy Policy at any time and notify you by posting an updated version of the Policy on its web site. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. We encourage you to review this Privacy Policy periodically because it may change from time to time.
 
 
 
-The IPND is a resource for the telecommunications industry, law enforcement agencies, directory publishers, national security agencies and emergency services organisations. There are strict laws governing the use and disclosure of your information in connection with the IPND.
+## Glossary
 
-Generally a mobile number will be “unlisted”. That means your number will not be used in a public number directory but may be used or disclosed for the purposes of assisting law enforcement agencies, national security agencies and emergency services organisations. If you would like your number to be “listed” or if you would like to alter your IPND data, just contact the Virgin Mobile team on 1300 555 100.
+Collection Information means the information outlined in 3 notified to individuals prior to, or as soon as practical after, the collection of their Personal Information.
 
-* ### Do you use cookies and all that stuff on your web site?
+**Direct Marketing** means the marketing of our goods or services (or those of a Related Body Corporate or those of an independent third party organisation) by communications including written, verbal or electronic means.
 
-Our web site is designed to give you useful information about Virgin Mobile products and to allow you as much as possible to tell us how to manage your services online. We use cookies to ensure you can make online transactions securely. Cookies are pieces of information that a web site transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. Virgin Mobile also uses cookies to measure our customers’ interest in different parts of our web site. Cookies are useful to estimate the number of visitors to our web site and determine overall traffic patterns. If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean you will not be able to take full advantage of Virgin Mobile’s online services.
+**Disclosure** generally means the release of information outside of Virgin Mobile including under a contract to carry out an "outsourced function".
 
-* ### How can I access the information you keep about me?
+**Health Information** means:
 
-If at any time you want to know what personal information we hold about you, you are welcome to request a copy of your customer record by calling the Virgin Mobile team on 1300 555 100. We aim to respond to most requests within 14 days, or if the request is more detailed, within 30 days. VMA may recover from you its reasonable cost of supplying you with this information.
+  1. information or an opinion about: 
+    1. the health or a disability (at any time) of an individual; or
+    2. an individual's expressed wishes about the future provision of health services to him or her; or
+    3. a health service provided or to be provided to an individual that is also personal information; or
+  2. other personal information collected to provide or in providing a health service; or
+  3. other personal information about an individual collected in connection with the donation; or intended donation by the individual of his or her body parts or body substances.
 
-* ### How do I change or delete the information that you have about me?
 
-If at any time you wish to change personal information that is inaccurate or out of date, please contact us and we will take reasonable steps to amend our records. If you want us to delete the information we hold about you, please let us know and we will do our best to delete it unless we need to keep if for any of the purposes identified in Items 3 or 4 of this Privacy Policy or for legal reasons. For example, Virgin Mobile is required to keep information about the purchasers and end users of pre-paid mobile services for as long as the service is activated.
 
-* ### Is the information Virgin Mobile has about me secure?
+**Personal Information** means information or an opinion (including information or an opinion forming part of a database), whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained from the information or opinion.
 
-Virgin Mobile endeavours to take all reasonable steps to keep your personal information secure. We store this information on secure servers that are protected in access-controlled facilities. Only authorised users can access your personal information, and access is only for approved purposes. We train our staff and require our data operators to respect the privacy and confidentiality of your information.
+**Primary Purpose** is the dominant or fundamental reason for information being collected in a particular transaction.
 
-Unfortunately, we can’t give you an absolute guarantee that your information is always secure. For example, no data sent over the internet is 100% secure. While we do out best, we can’t be held responsible for events arising from unauthorised access to your personal information.
+**Reasonable Expectation** means a reasonable individual's expectation that their personal information might be Used or Disclosed for the particular purpose.
 
-* ### What can I do to keep information about me secure?
+**Related Body Corporate** means a body corporate that is: a holding company of another body corporate; a subsidiary of another body corporate; or a subsidiary of a holding company of another body corporate.
 
-You play an important role in keeping your personal information secure. It is your responsibility to keep any password, PIN or other ID check information confidential. Do not share this information with anyone. Please notify us immediately if there is any unauthorised use of your account by anyone or there is any other breach of security.
+**Sensitive Information** means information or an opinion about an individual's: racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, and criminal record. It also includes Health Information about an individual.
 
-* ### What happens to my information if I enter it on a different web site linked to the Virgin Mobile site?
+Use means the handling of Personal Information within Virgin Mobile.
 
-Virgin Mobile provides links to some other web sites outside of the Virgin Mobile service. These linked sites are not under our control, so we are not responsible for the conduct of companies linked to our web site. Before you enter information on to those sites, you should look at their privacy policy and terms and conditions of use.
+### Contacting Us About Privacy
 
-* ### Do you have information on people other than customers?
+For more information regarding our Privacy Policy please contact us.
 
-Most of the personal information that Virgin Mobile has concerns our customers. But we also keep information about people who provide information via the web site, apply for a service (even if the application is declined) or express an interest in our services, such as by making an inquiry or asking us to contact them when their current mobile phone contract expires. This policy applies to those people as well. We also hold personal information on contractors and employees, which are covered by separate policies.
-
-* ### What if ownership of the Virgin Mobile business changes?
-
-In the unlikely event that ownership of part or all of the Virgin Mobile business changes, your personal information will be transferred to the new owner of the business.
-
-* ### What to do if you have a problem, question or complaint?
-
-If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please call the Virgin Mobile team on 1300 555 100 or contact us at privacy@virginmobile.com.au. If Virgin Mobile becomes aware of any ongoing concerns or problems with customer information, we will take these issues seriously and work to address these concerns.
-
-* ### Future changes
-
-Virgin Mobile aims to be the best in the telecommunications industry. That means our business will continue to evolve as we introduce new products and services and add new features to our web site. Because of this, from time to time, our policies will be reviewed and may be revised. Virgin Mobile reserves the right to change this Privacy Policy at any time and notify you by posting an updated version of the Policy on its web site. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. We encourage you to review this Privacy Policy periodically because it may change from time to time.
+**Telephone:** 1300 555 100 any day, 7am to 11pm  
+**Online:** virginmobile.com.au  
+**Mail:** Locked Bag 17, ROYAL EXCHANGE NSW 1225
