@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302033325id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101215553id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
 
-# International Journal of Computer Applications - Privacy Policy
+# IJCA - Privacy Policy
 
 International Journal of Computer Applications (“IJCA”) is intent on protecting your privacy. The following explains how we treat personal information that we collect and receive, including information related to your past use of IJCA products and services. 
 
