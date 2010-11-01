@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601073034id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101203210id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | BMO Financial Group
 
