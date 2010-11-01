@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleshowroom.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301114423id_/http%3A//www.articleshowroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshowroom.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101030503id_/http%3A//www.articleshowroom.com/privacy.php) for the most accurate reproduction.*
 
 # Submit Your Articles | Get Free Content | Add an Article to Article Showroom
 
