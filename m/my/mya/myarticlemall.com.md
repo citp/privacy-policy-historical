@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myarticlemall.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524181916id_/http%3A//www.myarticlemall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myarticlemall.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101044628id_/http%3A//www.myarticlemall.com/privacy.php) for the most accurate reproduction.*
 
 # MyArticleMall.com | Privacy Statement
 
