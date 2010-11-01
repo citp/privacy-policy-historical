@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618093153id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101192301id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
 
-# Instructional DVD Programs by Legacy Learning Systems | Bringing Personal Dreams Within Reach - Privacy Policy
+# Legacy Learning Systems Privacy Policy | Guitar, Piano, Drums, Painting, Photography, Ballroom Dance DVD Instruction
 
 This privacy policy lays out how Legacy Learning Systems, Inc. [LearnAndMaster.com] uses and protects any information that you give Legacy Learning Systems, Inc. when you use this Web site.
 
@@ -8,7 +8,7 @@ Legacy Learning Systems, Inc. is committed to ensuring that your privacy is prot
 
 Legacy Learning Systems, Inc. may change this policy from time to time by updating this page. You should check this page periodically to ensure that you are in agreement with any changes. This policy is effective from April 20, 2009.
 
- **What we collect**
+**What we collect**
 
 We may collect the following information:
 
@@ -20,7 +20,7 @@ We may collect the following information:
 
 ·         Other information relevant to customer surveys and/or offers.
 
- **What we do with the information we gather**
+**What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and more specifically for the following reasons:
 
@@ -32,7 +32,7 @@ We require this information to understand your needs and provide you with a bett
 
 ·         From time to time, we may also use your information to contact you for market research purposes. If you purchase from us, on occasion there also might be products and service that we do not manufacture, but that might be of interest to you,  that we will occasionally arrange to offer you. We may contact you by email, phone, fax or mail. We may use the information to customize our Web site according to your interests.  Your privacy is fully protected and if for any reason you do not wish to hear from us or receive any of these offers, please let us know.
 
- **Security**
+**Security**
 
 We are committed to ensuring that your information is secure. We follow all data security laws. We protect you personal financial information by using physical, technical, and procedural safeguards.  We limit access to your personal financial information to those who need it to do their jobs.  Our business partners are legally bound to only use your personal financial information for permissible purposes. 
 
@@ -46,11 +46,11 @@ Overall, cookies help us provide you with a better Web site, by enabling us to m
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the Web site.
 
- **Links to other websites**
+**Links to other websites**
 
 Our Web site may contain links to other Web sites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over any other Web sites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites, which are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
- **Controlling your personal information**
+**Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
