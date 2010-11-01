@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628154428id_/http%3A//www.travelation.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102003630id_/http%3A//www.travelation.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Travelation.com Privacy Policy
 
 | 
-
-  *   *   * 
-
 
 This document defines the policies and practices that Travelation ("TL") uses to protect your personal information. Our goal is to protect personal information you provide us whenever you contact us or use this web site ("Site"). By visiting or using the Site, you are agreeing to these policies and practices. 
 
