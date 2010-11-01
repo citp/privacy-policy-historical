@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430190045id_/http%3A//www.parkers.co.uk/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101212836id_/http%3A//www.parkers.co.uk/Legal) for the most accurate reproduction.*
 
 # Legal/Privacy/Cookies - Parker's
 
