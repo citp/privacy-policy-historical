@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627030740id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101194931id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
 
 # Interactive Investor - About us
 
