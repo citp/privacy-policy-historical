@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the microlifeline.net privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616100614id_/http%3A//www.microlifeline.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microlifeline.net privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102004150id_/http%3A//www.microlifeline.net/Common/Forms/privacypolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Microlifeline-[Privacy Policy]
 
-**                                                                      MicroLifeLine Privacy Policy **
+****
 
 MicroLifeLine values the privacy of information pertaining to its associates & members. We do not use or disclose information about your individual visits to our site or information that you may give us, such as your name, address, email address or telephone number,mobile no to any outside sources.
 
@@ -35,8 +35,8 @@ MicroLifeLine may, in its sole discretion, use techniques that allow a web site 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
 
 Changes in Privacy Policy  
-MicroLifeLine may amend this policy from time to time, at our discretion. If we make any substantial changes in the way we use your personal information we will notify you by posting the changes here on these Privacy Policy pages or one may check from the website. If you have more questions or comments, please send your feedback to us at [enquiry@MicroLifeLine.net](mailto:enquiry@MicroLifeLine.net)
+MicroLifeLine may amend this policy from time to time, at our discretion. If we make any substantial changes in the way we use your personal information we will notify you by posting the changes here on these Privacy Policy pages or one may check from the website. If you have more questions or comments, please send your feedback to us at [enquiry@microlifeline.net](mailto:enquiry@microlifeline.net)
 
 MicroLifeLine Corporate. Privacy Policy 
 
-Copyright © 2002 MicroLifeLine, All rights reserved.
+Copyright © 2010 MicroLifeLine, All rights reserved.
