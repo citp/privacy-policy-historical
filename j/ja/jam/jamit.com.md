@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamit.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305072712id_/http%3A//www.jamit.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamit.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101031654id_/http%3A//www.jamit.com/privacy.htm) for the most accurate reproduction.*
 
 # Jamit Job Board Software | Privacy Policy
 
