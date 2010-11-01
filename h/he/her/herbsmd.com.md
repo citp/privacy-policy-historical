@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626134846id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101115249id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
 
 # HerbsMD.com -The Privacy Policy Statement
 
