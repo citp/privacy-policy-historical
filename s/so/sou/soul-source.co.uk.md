@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2008-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080217130200id_/http%3A//www.soul-source.co.uk/node/12585) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101204441id_/http%3A//www.soul-source.co.uk/index.php/articles.html%3Frecord%3D504) for the most accurate reproduction.*
 
-# Privacy Policy - Soul Source | Soul Source Rare and Northern Soul
+# Privacy Policy - Soul Source
 
 Telasource understands and respects the rights of individuals’ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.  
- **  
+**  
 Use of Information, Data Protection and Internet Privacy**
 
 Telasource is concerned for the privacy of visitors to its web sites; protection of privacy is extremely important to us. Whenever you provide such personal information, we will treat that information in accordance with this policy. Telasource will act in accordance with current legislation and aim to meet current Internet best practice. This statement will be continuously assessed against new technologies and business practices.However, please remember that the security of information transmitted over the Internet cannot be assured.
@@ -23,11 +23,11 @@ We also allow users to update their personal information at any time.
 **Non-Personally Identifiable Information**
 
 Telasource also collects non-personally identifiable information in aggregate form to track data such as the total number of visits to our web sites, the number of visitors to each page of our web sites, and the domain names of our visitors' internet service providers. We use this information, which remains in aggregate form, to understand how our visitors use our web sites so that we may improve them. NO PERSONALLY IDENTIFIABLE INFORMATION IS DISCLOSED IN THIS PROCESS.  
- **  
+**  
 Use of IP Addresses**
 
 An Internet Protocol (IP) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your organisation's local area network (LAN) or wide area network (WAN). Web servers automatically identify your computer by the IP address assigned to it during your session online. Telasource may collect IP addresses for the purposes of systems administration and to audit the use of our site. The forums and comments section may display IP addresses along with the message poster's name and message.We do not ordinarily link a user's IP address to personally identifiable information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we may use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with the site's terms of use, or to protect our service, site or other users.  
- **  
+**  
 Links to Other Web Sites**
 
 Telasource websites provide links to other telasourceand third party websites as a service to our users. The privacy policy described here does not apply to those sites. Please ensure you check the legal and privacy policy sections of any site you link to.
@@ -38,7 +38,7 @@ Telasource may place a "cookie" in your computer's browser. Cookies are small te
 
 Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to disable cookies or to inform you when they are set. However you may not be able to take full advantage of the features of our website if you disable them.
 
-You can find out more about the way cookies work and how to disable them on [](http://www.allaboutcookies.org/ "www.allaboutcookies.org")[www.allaboutcookies.org](http://www.allaboutcookies.org/)
+You can find out more about the way cookies work and how to disable them on www.allaboutcookies.org
 
 **Security**
 
@@ -55,6 +55,3 @@ By submitting personal data you agree to be bound by our privacy policy and agre
 **Changes**
 
 Any changes to this privacy policy will be communicated promptly on this page.
-
-  
-
