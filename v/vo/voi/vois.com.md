@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vois.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629160541id_/http%3A//www.vois.com/default/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vois.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101141512id_/http%3A//www.vois.com/default/privacyPolicy) for the most accurate reproduction.*
 
 # Project Outsourcing Websites, Freelancers, Freelance Programming, Hire Freelance Programmer, Outsourcing Web Designing
 
