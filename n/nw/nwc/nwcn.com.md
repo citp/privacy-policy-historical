@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501170100id_/http%3A//www.nwcn.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101190752id_/http%3A//www.nwcn.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # NorthWest Cable News | Privacy Policy
 
