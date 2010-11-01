@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608050905id_/http%3A//www.kcpl.com/reports/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101153048id_/http%3A//kcpl.com/reports/privacy.html) for the most accurate reproduction.*
 
 # KCP&L, Kansas City electric company
 
@@ -22,7 +22,7 @@ We use this information to analyze trends, to administer the site, to track user
 We sometimes link this automatically-collected data to personally identifiable information in order to troubleshoot problems and to provide customer support assistance to users of our Web site. 
 
 **Cookies**  
-A [cookie](https://web.archive.org/web/20100608050905id_/http%3A//www.kcpl.com/reports/cookie.html) is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+A [cookie](https://web.archive.org/web/20101101153048id_/http%3A//kcpl.com/reports/cookie.html) is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
 We set a persistent cookie to give you the option to store your user ID, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
