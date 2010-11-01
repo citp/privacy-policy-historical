@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimonsandler.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620190051id_/http%3A//www.shimonsandler.com%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimonsandler.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102000123id_/http%3A//www.shimonsandler.com%3Fpage_id%3D234) for the most accurate reproduction.*
 
 # Privacy Policy - Shimon Sandler - SEO Consultant
 
