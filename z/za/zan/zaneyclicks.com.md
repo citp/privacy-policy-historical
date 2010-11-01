@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaneyclicks.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503050040id_/http%3A//zaneyclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaneyclicks.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101223743id_/http%3A//zaneyclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Zaney Clicks Traffic Exchange
 
