@@ -1,53 +1,70 @@
-> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603092827id_/http%3A//www.music123.com/CustomerService/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101192748id_/http%3A//www.music123.com/staticPages/yourPrivacyRights.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Music 123 - Your Privacy Rights
 
-Your privacy is important to us. Music123 is committed to respecting your privacy and the appropriate management of personally identifiable information you share with us. 
+At music123 ("music123"), we are committed to protecting the privacy of our customers and users of our web site located at www.music123.com (the "Site"). This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
 
-Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
+## What Information Do We Collect and Why?
 
-Personal Information about Customers gathered by Music123 
+Transaction Information: We may ask you to provide us with personal information on a voluntary basis in certain areas of the Site, and you will be required to provide personal information when you make purchases on the Site. The kinds of personal information that we may request may include your name, address, email address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. All such information will be used in accordance with the terms of this Privacy Policy.
 
-  * Purchases – When ordering, you will create a personal account. Through this account, you provide certain types of information such as physical address, telephone number, email address, credit card number and expiration date. Without this information, an order cannot be shipped and/or billed. An email may be sent to you, or a phone call made if there is any trouble processing your order. Personal demographic data, such as age, gender, and income are optional. They are not required to browse the site, create an account, or to order from us. ****
-  * E- Mail Newsletter – We collect your email address (which could be more than one depending on your desire). Special announcements and offers exclusive to email recipients are emailed. The newsletter allows you to edit account information, change the type of announcements and offers received, and change the format of the message (from text only to text and graphics). Each message also allows you to immediately unsubscribe from future email messages. At the time of email newsletter registration you may be asked whether you would like to receive special offers from approved partners. This option may always be edited at the newsletter sign-up page . 
-  * Catalog Registration - We collect your name and address in order to mail you a catalog. The receiving options may always be edited at the catalog sign-up page . For print catalog registrants, we may share your name and mailing address with a few carefully selected marketing partners. To opt out of sharing this information, please call our customer service dept or email via contact us. ****
-  * Surveys & Contests - Fro m time-to-time this site requests information from you via surveys or contests. Participation in these surveys or contests is completely voluntary. Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-  * Wish Lists – When compiling a Wish List, or gift registry, we may collect name, address, telephone number, your email, and the recipient email address. This feature is optional and can be accessed through your personal account. 
-  * Reviews – We offer customers the ability to rate and write reviews on merchandise. If you choose to participate we will collect a brief comment, your name you wish to display and basic information regarding your musical background. 
-  * Log Files - For each visitor to our site, the web server automatically recognizes and collects, where possible, the domain name/IP address, pages visited, length of visit, and other general usage data. This information is not linked to personally identifiable information. It is collected and stored with the same information from all visitors in a log file. This log file is then used to determine general site usage patterns and to analyze trends so that a more useful, streamlined experience may be provided. ****
-  * Cookies - A cookie is a piece of data, or alphanumeric identifier, stored on your computer’s hard drive. Cookies allow us to optimize your experience on the site. For instance, by setting a cookie, you would not have to log in a password more than once, thereby saving time. Usage of a cookie is in no way linked to any personally identifiable information while on this site. Once you close your browser, the cookie simply terminates. If you reject the cookie, you may still use this site. However, your usage in some areas of the site may be limited. ****
+IP Addresses and "Cookie" Information: As is the case with many sites, the Site logs your IP address and uses standard technology called "cookies", which are small data files that are downloaded onto your computer when you visit the Site. Cookies automatically identify your browser to the music123 server whenever you interact with the Site. We use cookies and the information they provide to improve our services and the quality of your experience with the Site. If you prefer not to allow us to collect "cookie" information, you can disable the cookies by turning them off in your browser, although some areas of the Site may not function properly if you do. We do not link IP addresses to any personally identifiable information. This means that your session will be tracked, but you will not be personally identified. However, certain kinds of cookies allow us to store certain information of yours so you can save time in filling out forms on the Site. We only send this type of cookie to your browser when you have provided your consent for us to save your profile information.
+
+Web Beacons and Clear GIFs: The Site may also use pieces of code called "web beacons" or "clear gifs" to obtain certain types of information when your Web browser accesses the Site or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other email you may have received from the Site. These web beacons or clear gifs may also be used to deliver cookies that conform to our cookie policy.
+
+Third-Party Providers and Cookie Opt-Out: We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information provided by the customer (including information necessary to complete transactions), IP addresses, cookie information (and other information that tracks browsing and purchasing history). By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by clicking here.
+
+## How Else Does music123 Use Information That It Collects from the Site?
+
+As well as using information about you for the specific purposes set out above, we may also use information about visitors to the Site to monitor consumer interest in our range of products and services, to troubleshoot problems that may arise on our Site, to protect against fraud or other criminal activity on our Site, to customize your user experience on the Site, to notify you of product or service offerings that we may think may be of interest to you, to inform you about special promotions, and to assist us in tailoring our product lines, our services and the content of the Site to our online visitors' needs by collecting information about their preferences through tracking patterns of page-viewing on the Site. To assist in this, we might create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences. We may also share data we collect about you and other visitors to the Site in an anonymous or aggregated form with our business partners and others.
+
+If you communicate with us, we may retain this correspondence to improve our products, services, and the Site, and for other disclosed purposes. We may use information you provide to us in order to send you updates, such as notifications of changes to the terms of our services or important information about our services and products.
+
+For print catalog customers, music123 may occasionally share a portion of its mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our catalogs, please contact us at 888-566-6123. You may also contact us online.
+
+Music123 may disclose information about individual users to third parties who provide services to music123 and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties provide a variety of services to music123, including, without limitation, fulfilling product orders, managing or hosting the Site, helping create new content and promotions for the Site, and sending or coordinating the sending of marketing communications to users who have consented to receive such materials. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by one of our business partners, we may also send the information you have supplied to the business partners that offer such products or services.
+
+Music123 will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to a subpoena, court order, or other legal process. Further, music123 may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of our agreement.
+
+Music123 may share personally-identifiable information about you with its enterprise-wide corporate affiliates. If music123 is acquired by or merged with another company, music123 may transfer personally-identifiable information about you to that company.
+
+## Your Rights
+
+Access and Correction: You have a right to know about the personal information that music123 holds about you. You also have a right to correct, amend or delete such information if it is incorrect. If you wish to exercise these rights, please contact us by post or email at the address shown in the "Contact" section below.
+
+Opt Out: From time to time, we may notify you of special promotions, changes to our Site, new product lines or new service offerings, or products that we think may be of special interest to you. If you decide you no longer want to be notified of this information, click here to un-subscribe 
+
+Mailing List: Music123 may occasionally share a portion of its mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our catalogs, please contact us at 888-566-6123. You may also contact us online.
+
+Please note that requested changes may take up to eight (8) weeks to take effect, particularly if we are removing your name from our postal mailings.
+
+## Security
+
+The Site incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected, and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+
+You hereby acknowledge that music123 is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+
+## External Links
+
+The Site provides links to various Web sites maintained by third parties. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that maintains such site. Even if an affiliation exists between our Web site and a third party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to the Site, you should consult that site's privacy policy before providing any personal information.
+
+## Terms and Modifications to Privacy Statement
+
+By using the Site, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Music123 may modify this privacy statement at any time. If a material change is made to this Privacy Policy and/or the way we use our users personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy.
+
+## Children
+
+The Site is not directed to children, and music123 does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
+
+## Contact Details
+
+If you have any questions about this Privacy Policy, the privacy practices of the Site, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact:
+
+  * Music123
+  * P.O. Box 720
+  * Riverton, UT 84065-9998
+  * [Contact Us](https://web.archive.org/staticPages/contactUs.jsp)
 
 
 
-How We Use Your Information 
-
-The information gathered is stored and viewed collectively. The data allows us to better understand your interests, help us personalize and provide more appropriate product offerings all in an effort to continually improve your shopping experience. 
-
-**Sharing of Information**
-
-We may at times share aggregated demographic information with carefully selected partners and advertisers. This data is not linked to any personal information that can identify any individual person. This site may at times make chat rooms, forums, message boards, and/or news groups available. Please remember that any information that is disclosed in these areas becomes public information. Caution should be exercised when deciding to disclose personal information. We will not sell, share, nor rent this information to any third party marketer without your express knowledge and consent as outlined in this statement. As we continue to develop our business, we may sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. At that time, information may be shared with the parent, subsidiary or merger partner involved in the transaction. We also reserve the right to sell our interest in membership information as a separate asset of the corporation in the event of a major restructuring or similar corporate event. ****
-
-  * **Agents –** We may at times employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, shipment of goods, and credit card processing to bill you for those goods and services. These companies do not retain, share, store nor use personally identifiable information for any secondary purposes. 
-
-
-
-Correcting & Updating Your Information   
-If there is a change to be made to your personally identifiable information - such as a zip code, email address, or area code changes - such editing may be done by accessing My Account and clicking on Edit. 
-
-Opting-Out   
-You are given the opportunity to opt-out of having information used for purposes not directly related to this site at the point where the information is asked. If you no longer wish to receive our newsletter, catalog or promotional materials from our partners, you may opt-out of receiving these communications by following the specific directions included in every email message or by updating Your Preferences under My Account . You can also unsubscribe from our email newsletters on the newsletter sign-up page and unsubscribe from our catalog on the catalog sign-up page. 
-
-Security   
-We take every precaution to protect your privacy. When you submit sensitive information via the website, the information is protected both online and offline. When sensitive information such as a credit card number is required, that information is transmitted with the most advanced encryption software in the industry - SSL. All personal information is protected offline as well in our restricted offices. Only employees who need the information to perform a specific job (for example, a billing specialist or a customer service representative) are granted access to personally identifiable information. The computers on which information is stored are kept in a secure and closely monitored environment.  
-
-
-Children   
-We do not sell products for purchase by children. We sell children's products for purchase by adults as a small percentage of our business. If you are under 13, you may use this site only with express permission of a parent or guardian. Children under 13 may not register on our site without the express written consent of a parent or guardian. 
-
-When Leaving This Site   
-This web site contains links to other, non-affiliated sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you when you leave this site to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
-
-Privacy Notice and Revisions   
-We believe our Policy provides you with the safest shopping experience possible. Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Privacy Policy at any time without prior notice. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
-
-If you have any questions about the security of our website, or your privacy, please contact us. 
+Last updated May 30, 2007.
