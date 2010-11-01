@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bside.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502005240id_/http%3A//www.bside.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bside.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101111607id_/http%3A//www.bside.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — B-Side - The audience is never wrong
 
