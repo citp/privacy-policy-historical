@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heresy-online.net privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625230638id_/http%3A//www.heresy-online.net/forums/showpost.php%3Fp%3D622337%26postcount%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heresy-online.net privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101085030id_/http%3A//www.heresy-online.net/forums/showpost.php%3Fp%3D622337%26postcount%3D2) for the most accurate reproduction.*
 
 # Heresy-Online - Warhammer 40k and Fantasy Forums - View Single Post - Copyright Information
 
