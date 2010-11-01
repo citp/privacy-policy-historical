@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503045201id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101182107id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - - How-Do
 
