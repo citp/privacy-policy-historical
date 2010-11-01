@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602204940id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101220407id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
 
 # MCC | Privacy Policy
 
