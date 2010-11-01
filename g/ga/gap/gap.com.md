@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503081119id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101212801id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
