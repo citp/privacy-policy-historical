@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the aspkin.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524133128id_/http%3A//www.aspkin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspkin.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101073325id_/http%3A//www.aspkin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Aspkin's World
-
-## [Privacy Policy](http://www.aspkin.com/privacy-policy/)
-
-By aspkin On May 3, 2009 [No Comments](http://www.aspkin.com/privacy-policy/#respond "Comment on Privacy Policy")
+# Privacy Policy | ASPKIN'S WORLD
 
 [](http://www.aspkin.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=2)  
   
@@ -32,6 +28,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to support [at] auctionstealth [dot] com for further clarification.
-
-  
-
