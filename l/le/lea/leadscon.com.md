@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329021825id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102211915id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.*
 
 # LeadsCon » Privacy Policy
 
