@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashquickstart.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503045912id_/http%3A//www.cashquickstart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashquickstart.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102152835id_/http%3A//www.cashquickstart.com/privacy.php) for the most accurate reproduction.*
 
 # Cash Quick Start
 
@@ -26,6 +26,6 @@
 
 10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-11\. Effective Date. This Privacy Policy is effective as of May 02, 2010.
+11\. Effective Date. This Privacy Policy is effective as of November 02, 2010.
 
 12\. Contact E-Mail. You may contact us concerning this Privacy Policy at the following e-mail address: jefbode@gmail.com
