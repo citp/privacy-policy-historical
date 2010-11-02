@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505083438id_/http%3A//www.peakperformancegolfswing.com/ppgs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103002927id_/http%3A//www.peakperformancegolfswing.com/ppgs-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Performance Golf Swing
 
@@ -39,7 +39,7 @@ Peak Performance Golf Swing
 Maven Marketing LLC  
 611 Bay Street  
 Beaufort, South Carolina 29902-5554  
-Phone: 1-800-603-2706  
+Phone: 1-800-428-1897  
 Email: [support@peakperformancegolfswing.com](mailto:support@peakperformancegolfswing.com)
 
 **Changes to this Policy**
