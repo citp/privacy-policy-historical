@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumblr.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522002706id_/http%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumblr.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102184338id_/http%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tumblr
 
