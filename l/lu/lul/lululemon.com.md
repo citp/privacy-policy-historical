@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610210213id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102113629id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
 
 # lululemon athletic, yoga-inspired athletic apparel: our privacy policy
 
@@ -67,7 +67,7 @@ lululemon welcomes questions and comments about this Privacy Policy. Questions o
 ###### lululemon athletica inc.
 
 Attention: David Negus  
-2285 Clark Drive  
+400 - 1818 Cornwall Avenue   
 Vancouver, BC  
-V5N 3G9  
+V6J 1C7  
 Canada 
