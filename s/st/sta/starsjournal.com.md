@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the starsjournal.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504074845id_/http%3A//www.starsjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsjournal.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102185920id_/http%3A//www.starsjournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stars Journal
 
-Browse » 
-
-[Home](http://www.starsjournal.com/ "Browse to: Home") / Privacy Policy 
+Browse »[Home](http://www.starsjournal.com/ "Browse to: Home") / Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at using the [contact form](http://www.starsjournal.com/contact-us).
 
