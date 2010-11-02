@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825160950id_/http%3A//www.cashbaq.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102210204id_/http%3A//www.cashbaq.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 **Overview**
 
@@ -16,18 +16,11 @@ If you use a blog or bulletin board on this Web site, you should be aware that a
 
 Things we hate as much as you do: We hate SPAM. We hate junk mail. We hate telemarketers calling us at dinner… OK, so we hate telemarketers calling us any time. We’re not going to subject you to any of that ourselves or by selling your information to someone who will. We won’t sell your information to anyone and are committed to keeping your private information private.
 
-| **Cashbaq is a proud member of TRUSTe** Cashbaq is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Cashbaq Web site. Because Cashbaq wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Cashbaq at 9854 National Blvd. #107, Los Angeles, CA 90034. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-| [](http://www.truste.org/ivalidate.php?url=www.cashbaq.com&sealid=101)  
----|---  
-  
-**What type of information do we collect?** 77Blue may collect any or all of the following two types of information: (a) Personally Identifiable Information and (b) Non-Personally Identifiable Information.
+  **What type of information do we collect?** 77Blue may collect any or all of the following two types of information: (a) Personally Identifiable Information and (b) Non-Personally Identifiable Information.
 
 Personally Identifiable Information refers to information that lets us know the specifics of who you are. Personally Identifiable Information is requested when you register with us, fill out surveys, participate in a contest or special offer, correspond with us, or otherwise volunteer information. Personally Identifiable Information might include your name, mailing address, telephone number, e-mail address and other identification and contact information.
 
-Non-Personally Identifiable Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon how you navigate through our Site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
+ Non-Personally Identifiable Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon how you navigate through our Site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
 
 **Do we use cookies?** A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on Cashbaq and link the information we store in cookies to personally identifiable information you submit while on our site.
 
