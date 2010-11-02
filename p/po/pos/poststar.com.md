@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poststar.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152555id_/http%3A//www.poststar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poststar.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102230354id_/http%3A//poststar.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
