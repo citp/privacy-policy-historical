@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105084939id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102041911id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Organized Home
 
@@ -21,7 +21,7 @@ For each visitor to our Web pages, our Web server automatically recognizes the n
 
 We collect aggregate information on what pages users access or visit and information volunteered by the user, such as specific requests by users to be added to a newsletter mailing list. 
 
-The information we collect is used for internal review and is then discarded. It is used to improve the content of our Web page, used to notify users about updates to our Web sites or for the receipt of our newsletters (but only if specifically requested to do so by the user) and not shared with other organizations for commercial purposes.
+The information we collect is used for internal review and is then discarded. It is used to improve the content of our Web page, used to notify users about updates to our Web sites or for the receipt of newsletters (but only if specifically requested to do so by the user) and not shared with other organizations for commercial purposes.
 
 **Cookies**
 
@@ -31,11 +31,9 @@ An example of the customization allowed by the use of such cookies is to retain 
 
 **Third Party Advertising**
 
-When you visit this web site, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Neither Threadneedle Press nor this Web site collects the information or control the content of the advertisements that you will see. 
-
-You may be able to opt out of such advertising. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, click [here](http://www.google.com/privacy_ads.html).
 
 Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
@@ -45,11 +43,7 @@ In addition, Google, as a third party vendor, uses cookies to serve ads on the S
 
 If you have any questions about this Privacy Statement or other questions about privacy on the Threadneedle Press sites, please contact:
 
-Threadneedle Press  
-Privacy Policy  
-1262 Llandwood Ave STE: 1209  
-Richland WA 99352
-
-  
-  
-
+> Threadneedle Press  
+>  Privacy Policy  
+>  1262 Llandwood Ave STE: 1209  
+>  Richland WA 99352
