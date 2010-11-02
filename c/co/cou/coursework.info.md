@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618140750id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102142030id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -49,6 +49,13 @@ In the majority of cases, Coursework.info will allow you to view any information
 ##### Third Party Advertisements
 
 Any advertisement appearing on this website (banner and/or skyscraper) is delivered to you, on our behalf, by our web advertising partner. Information about your visit, such as the number of times you have viewed an advert (but no personally identifiable information), is used to serve the adverts.
+
+  * Third party vendors, including Google, show Coursework.Info ads on sites on the internet.
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to Coursework.Info
+  * Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](http://www.google.co.uk/privacy_ads.html)
+  * You can opt out of the other third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp) and [www.struq.com/consumer-opt-out/](http://www.struq.com/consumer-opt-out/)
+
+
 
 ##### Contacting Coursework.info
 
