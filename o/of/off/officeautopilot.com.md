@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233454id_/http%3A//www.officeautopilot.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102035129id_/http%3A//www.officeautopilot.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OfficeAutopilot
 
-"And the customization your programmers have done for us has really solved some time-consuming problems. Thanks so much!" [read more](http://www.officeautopilot.com/testimonials/jomishega/)
+"Thanks for all your help! I've got the "autopilot" bug now, and am constantly looking for ways to systemize everything. With any luck I'm going to automate my way out of a job soon..." [read more](http://www.officeautopilot.com/testimonials/zacadler/)
 
-_\- Jomi Shega  
-  Director of Marketing  
-  [lapbandsurgery.com](http://www.lapbandsurgery.com/) _
+_\- Zac Adler  
+  President  
+  [yourHA.com](http://www.yourha.com/) _
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
