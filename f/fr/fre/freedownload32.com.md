@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedownload32.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504002420id_/http%3A//www.freedownload32.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownload32.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102154916id_/http%3A//www.freedownload32.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Free Download 32 dot com
 
