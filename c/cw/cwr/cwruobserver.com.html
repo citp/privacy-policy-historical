@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cwruobserver.com privacy policy that was archived on 2009-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090508105922id_/http%3A//www.cwruobserver.com/user/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cwruobserver.com privacy policy that was archived on 2010-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101102194721id_/http%3A//www.cwruobserver.com/user/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -36,45 +36,162 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 <link rel="alternate" type="application/rss+xml" title="RSS feed for The Observer" href="http://www.cwruobserver.com/articles.rss">
 
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/mtvi_reporting.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/poolreturn.js"></script>
+<script type="text/javascript"> 
 //<![CDATA[
-	function getPageName(){
-		var defaultPageName = "index.cfm"
-		return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
- 	}
-	function getHierarchy(argPageName){
-		return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
-	}
-	var qString = com.mtvi.util.queryStringToHash(location.search);
-	var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
-	var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
-	if(refsource != null && refsource.length > 0) {
-		SetCookie('refsourcekey', refsource);
-	}
-	// Reporting Account Config
-	com.mtvi.reporting.Account={
-		name:"viay2m",
-		filters: "javascript:,y2m.com"
-	};
-	var dispatcher=com.mtvi.reporting.Dispatcher;
-	dispatcher.setAttribute('pageName',getPageName());
-	dispatcher.setAttribute('hier1',getHierarchy(getPageName())); 
-	dispatcher.setAttribute('prop1','displayPrivacyPolicy');
-	dispatcher.setAttribute('prop2',sectioncategory);
-	dispatcher.setAttribute('prop3','event=displayPrivacyPolicy');
-	dispatcher.setAttribute('prop4',refsource);
-	dispatcher.setAttribute('prop5',window.document.location.pathname.toString() + window.document.location.search.toString());
-	dispatcher.setAttribute('prop6',origserver);
-	dispatcher.setAttribute('prop7','The Observer');
-	dispatcher.setAttribute('prop8','www.cwruobserver.com');
-	dispatcher.setAttribute('prop9',story_id);
-	dispatcher.setAttribute('prop10','1370');
-	dispatcher.setAttribute('prop11','user');
-	dispatcher.setAttribute('prop12',GetCookie('refsourcekey'));
-	dispatcher.setAttribute('prop13',reffeature);
-	dispatcher.sendCall();
-	//]]>
+ function getPageName(){
+  var defaultPageName = "index.cfm"
+  return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
+  }
+ function getHierarchy(argPageName){
+  return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
+ }
+ var qString = com.mtvi.util.queryStringToHash(location.search);
+ var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
+ var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
+ if(refsource != null && refsource.length > 0) {
+  SetCookie('refsourcekey', refsource);
+ }
+ 
+var filterDomain = 'www.cwruobserver.com';
+var filterUrl = filterDomain.substring(filterDomain.indexOf("www.")+4, filterDomain.length);
+var filterVar = "javascript:,"+filterUrl+",media."+filterDomain;
+ 
+//Reporting Account Config 
+   
+ com.mtvi.reporting.Account={ 
+ name:"viay2m",
+ filters:filterVar, 
+ trackExternalLinks:true, 
+ trackInlineStats:true 
+ }; 
+ 
+var chValue = "home";
+var cpCode = "CP4";
+var paperId = '1370';
+var pipe = getPoolIdForPaper (paperId);
+var storyName = "";
+var secRef = "home";
+var orgPath = location.toString();
+var pageValueOrg = getHierarchy(getPageName());
+var pageValue = "paper"+paperId+"/"+secRef;
+var h1 = "paper"+paperId+"/"+secRef;
+ 
+if(paperId=="1218"){
+document.write("<br><br>pageValueOrg: "+pageValueOrg);
+document.write("<br><br>filters: "+filterVar);
+document.write("<br><br>pipe: "+pipe);
+}
+ 
+if(sectioncategory=="Campus News")
+{
+sectioncategory = "news";
+}
+else
+{
+var sectionValue = sectioncategory.toLowerCase();
+}
+ 
+if(pageValueOrg.indexOf("user/register/") >-1)
+{
+story_id = "";
+sectionValue = "";
+secRef = "registration/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "registration";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg.indexOf("user/login/") >-1)
+{
+story_id = "";
+sectionValue = "";
+secRef = "login/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "login";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg.indexOf("media/storage") >-1)
+{
+sectionValue = "";
+storyName = '';
+pageValue = "paper"+paperId+"/"+chValue+"/article";
+chValue = "news";
+h1 = "paper"+paperId+"/"+chValue+"/article";
+}
+else if(pageValueOrg.indexOf("media/") >-1)
+{
+story_id = "";
+storyName = "";
+pageValue = "paper"+paperId+"/"+sectionValue+"/main";
+chValue = sectionValue;
+h1 = "paper"+paperId+"/"+sectionValue+"/main";
+}
+else if(orgPath.indexOf("blog.") >-1 || orgPath.indexOf("blogs.") >-1)
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+secRef = "blog";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="home/archives/")
+{
+story_id = "";
+sectionValue = "";
+secRef = "archives/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "archives";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="home/index.cfm")
+{
+story_id = "";
+sectionValue = "";
+secRef = "objectdisplaymode";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "maintenance";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="index.cfm" || pageValueOrg=="home/")
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+else
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+secRef = "news";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+ 
+var dispatcher=new com.mtvi.reporting.Dispatcher();
+ dispatcher.setAttribute('pageName',pageValue);
+ dispatcher.setAttribute('channel',chValue);
+ dispatcher.setAttribute('hier1',h1); 
+ dispatcher.setAttribute('prop1','frontPage');
+ dispatcher.setAttribute('prop2',sectionValue);
+ dispatcher.setAttribute('prop7','The Observer');
+ dispatcher.setAttribute('prop8','www.cwruobserver.com');
+ dispatcher.setAttribute('prop9',story_id);
+ dispatcher.setAttribute('prop10',paperId);
+ dispatcher.setAttribute('prop11',secRef);
+ dispatcher.setAttribute('prop14',cpCode);
+ dispatcher.setAttribute('server',pipe);
+ dispatcher.setAttribute('prop18',storyName);
+ dispatcher.sendCall();
+ //]]>
 </script>
+
 
 
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
@@ -107,16 +224,16 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 <meta name="author" content="The Staff of The Observer">
 <meta name="description" content="The Observer, a college media publication.">
 <meta name="keywords" content="The Observer, newspaper, college media, student media">
-<meta name="copyright" content="Copyright 2009 The Observer.">
+<meta name="copyright" content="Copyright 2010 The Observer.">
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var currentissuedate='04/24/09';
+var currentissuedate='10/29/10';
 var currentissuedayname='Friday';
-var currentissuemonthname='April';
-var currentissueday='24';
-var currentissuemonth='4';
-var currentissueyear='2009';
+var currentissuemonthname='October';
+var currentissueday='29';
+var currentissuemonth='10';
+var currentissueyear='2010';
 var basehref='http://www.cwruobserver.com/';
 var paper_id='1370';
 var paperzip='44106';
@@ -143,21 +260,15 @@ var slideshowpath='http://www.cwruobserver.com/home/index.cfm?event=displaySlide
 var aSectionNames = new Array();
 var aSectionLinks = new Array();
 aSectionNames[0] = 'News';
-aSectionLinks[0] = '/news/2009/04/24/News/';
-aSectionNames[1] = 'The Buzz';
-aSectionLinks[1] = '/news/2009/04/24/TheBuzz/';
-aSectionNames[2] = 'USG Briefs';
-aSectionLinks[2] = '/news/2009/04/24/UsgBriefs/';
-aSectionNames[3] = 'Worst Case Scenario';
-aSectionLinks[3] = '/news/2009/04/24/WorstCaseScenario/';
-aSectionNames[4] = 'Sports';
-aSectionLinks[4] = '/news/2009/04/24/Sports/';
-aSectionNames[5] = 'Fun Page';
-aSectionLinks[5] = '/news/2009/04/24/FunPage/';
-aSectionNames[6] = 'Opinion';
-aSectionLinks[6] = '/news/2009/04/24/Opinion/';
-aSectionNames[7] = 'Focus';
-aSectionLinks[7] = '/news/2009/04/24/Focus/';
+aSectionLinks[0] = '/news/2010/10/29/News/';
+aSectionNames[1] = 'Sports';
+aSectionLinks[1] = '/news/2010/10/29/Sports/';
+aSectionNames[2] = 'Fun Page';
+aSectionLinks[2] = '/news/2010/10/29/FunPage/';
+aSectionNames[3] = 'Opinion';
+aSectionLinks[3] = '/news/2010/10/29/Opinion/';
+aSectionNames[4] = 'Focus';
+aSectionLinks[4] = '/news/2010/10/29/Focus/';
 /* ]]> */
 </script>
 
@@ -285,12 +396,14 @@ if (bAdmanagerClientAlive) {
 					</div>
 					<div id="net_channels">
 						<ul>
+							
                         
-							<li><a href="http://springbreak.mtvu.com/" target="_blank"><img src="/media/assets/images/ncbar_mtvu.gif" border="0" alt="mtvU Logo" align="top"> Spring Break</a></li>
+							<!--<li><a href="http://springbreak.mtvu.com/" target="_blank"><img src="/media/assets/images/ncbar_mtvu.gif" border="0" alt="mtvU Logo" align="top" /> Spring Break</a></li>-->
 							<!--<li><a href="http://govoteabsentee.com/" target="_blank"><img src="/media/assets/images/ncbar_absentee.gif" border="0" alt="Absentee Logo" align="top" /> Vote Absentee</a></li>-->
 
 						
-							<li><a href="http://media.www.cwruobserver.com/channel/collegeheadlines/" target="_parent">Top College News</a></li>
+							<li><a href="http://www.CareerRookie.com/?siteid=mtvu005" target="_blank">Jobs and internships for students</a></li>
+							<li><a href="http://media.www.cwruobserver.com/channel/collegeheadlines/" target="_blank">Top College News</a></li>
 							
 						</ul>
 					</div>
@@ -348,49 +461,12 @@ if (bAdmanagerClientAlive) {
 		<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 			<a href="/">Home</a>
 		</li>
-						
-		
+					
 			
 			
 			<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 				
-				<a href="/news/2009/04/24/News/" class="cp_drop">News</a>
-			
-				
-			
-			
-			
-				<ul>
-				
-					
-				
-					
-						<li><a href="/news/2009/04/24/UsgBriefs/" class="sect_lev_1">USG Briefs</a></li>
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-				
-					
-						</ul></li>
-					
-				
-				
-			
-			
-			<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
-				
-				<a href="/news/2009/04/24/Sports/" class="">Sports</a>
+				<a href="/news/2010/10/29/News/" class="">News</a>
 			
 			</li>	
 			
@@ -406,14 +482,6 @@ if (bAdmanagerClientAlive) {
 				
 					
 				
-					
-				
-					
-				
-					
-				
-					
-				
 				
 					
 				
@@ -422,7 +490,7 @@ if (bAdmanagerClientAlive) {
 			
 			<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 				
-				<a href="/news/2009/04/24/FunPage/" class="">Fun Page</a>
+				<a href="/news/2010/10/29/Sports/" class="">Sports</a>
 			
 			</li>	
 			
@@ -438,14 +506,6 @@ if (bAdmanagerClientAlive) {
 				
 					
 				
-					
-				
-					
-				
-					
-				
-					
-				
 				
 					
 				
@@ -454,7 +514,7 @@ if (bAdmanagerClientAlive) {
 			
 			<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 				
-				<a href="/news/2009/04/24/Opinion/" class="">Opinion</a>
+				<a href="/news/2010/10/29/Opinion/" class="">Opinion</a>
 			
 			</li>	
 			
@@ -470,14 +530,6 @@ if (bAdmanagerClientAlive) {
 				
 					
 				
-					
-				
-					
-				
-					
-				
-					
-				
 				
 					
 				
@@ -486,13 +538,13 @@ if (bAdmanagerClientAlive) {
 			
 			<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 				
-				<a href="/news/2009/04/24/Focus/" class="cp_drop">Focus</a>
+				<a href="/news/2010/10/29/Focus/" class="">Focus</a>
+			
+			</li>	
+			
+			
 			
 				
-			
-			
-			
-				<ul>
 				
 					
 				
@@ -502,21 +554,7 @@ if (bAdmanagerClientAlive) {
 				
 					
 				
-					
 				
-					
-				
-					
-						<li><a href="/news/2009/04/24/TheBuzz/" class="sect_lev_1">The Buzz</a></li>
-					
-				
-					
-						<li><a href="/news/2009/04/24/WorstCaseScenario/" class="sect_lev_1">Worst Case Scenario</a></li>
-					
-				
-				
-					
-						</ul></li>
 					
 				
 				
@@ -525,35 +563,44 @@ if (bAdmanagerClientAlive) {
 				<a href="/login/" class="cp_drop">About Us</a>
 				<ul>
                                         
-                                        <li><a href="http://observer.case.edu/Archives" title="Read old articles.">Old Articles Archive</a></li>
 					<li><a href="/generalinfo" title="Info">Info</a></li>
 					<li><a href="/stafflist" title="Staff">Staff</a></li>
 
 				</ul>
 			</li>
+
 			<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
+				<a href="/login/" class="cp_drop">Archives</a>
+                                <ul>
+                                        <!--<li><a href="http://observer.case.edu/Archives" title="Read articles before the September of 2008.">Before Sept. 2008</a></li>-->
+					<li><a href="/archives" title="Read articles starting from September of 2008">Sept. 2008 - Present</a></li>
+                        </ul>
+			</li>
+				
+                        <li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 				<a href="/login/" class="cp_drop">Options</a>
 				<ul>
 					<li><a href="/login/" title="login">Login</a></li>
 					<li><a href="/register/" title="Register">Register</a></li>
-					<li><a href="/home/lettertoeditor" title="Letter to the Editor">Letter to the Editor</a></li>
-					<li><a href="/adrates" title="Place an Ad">Advertise</a></li>
-					<li class="rss"><a href="/syndication" title="Syndication">Syndication</a></li>
-					<li class="rss"><a href="/podcasts" title="Listen to a podcast">Podcasts</a></li>
-					<li><a href="/classifieds" title="Classifieds">Classifieds</a></li>
-					<li><a href="/archives" title="Browse the Archives">Archives</a></li>
+					<li><a href="/home/lettertoeditor" title="Letter to the Editor">Write to the Editor</a></li>
+                                        <li><a href="/syndication/" title="Syndication" class="cp_drop">Syndication</a></li>
 					<li><a href="/search" title="Search">Search</a></li>
 				</ul>
+                        </li>
+                        <li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
+				<a href="/login/" class="cp_drop">Advertising</a>
+				<ul>
+					<li><a href="http://bit.ly/cwruObserver" title="Ad Kit">Ad Kit</a></li>
+					<li><a href="/campusclassifieds/" title="Finances">Classified Ads</a></li>
+				</ul>
 			</li>
-		        <li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
-				<a href="http://blog.cwruobserver.com/" class="cp_drop">Blog</a>
-			
-			</li>
-
-
 	</ul>
 </div>
-			<div id="issue_date"><script language="JAVASCRIPT">document.write(currentissuedayname + ', ' + currentissuemonthname + ' ' + currentissueday + ', ' + currentissueyear);</script>Friday, April 24, 2009</div>
+
+<!----To add later when they become necessary-->
+<!----<li class="rss"><a href="/podcasts" title="Listen to a podcast">Podcasts</a></li>-->
+<!----<li><a href="http://blog.cwruobserver.com/" class="cp_drop">Observer Blog</a></li>-->
+			<div id="issue_date"><script language="JAVASCRIPT">document.write(currentissuedayname + ', ' + currentissuemonthname + ' ' + currentissueday + ', ' + currentissueyear);</script>Friday, October 29, 2010</div>
 			
 		</div>
 			
@@ -589,7 +636,7 @@ if (bAdmanagerClientAlive) {
 		<li>How you can access, update or delete any Personal Information collected about you by us; and</li>		
 		<li>The mechanisms we have implemented to protect your Personal Information. </li>
 	</ul>
-	<p>This Site is offered and made available only to users 16 years of age or older who reside in the United States of America, its territories and possessions (“U.S.”). <b>If you are not yet 16 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</b>  This Privacy Policy is a part of the terms and conditions which are set forth in our <u><a href="/user/terms">Terms of Use Agreement</a></u>. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.  Both the Privacy Policy and Terms of Use Agreement are legally binding on all users.  </p>
+	<p>This Site is offered and made available only to users 16 years of age or older who reside in the United States of America, its territories and possessions (“U.S.”) and certain features on this Site (including, but not limited to, user registration and newsletter signups) may be subject to heightened age and/or other eligibility requirements. <b>If you are not yet 16 years old or the required greater age for certain features, or do not reside in the U.S., and/or do not meet any other eligibility requirements, please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</b>  This Privacy Policy is a part of the terms and conditions which are set forth in our <u><a href="/user/terms">Terms of Use Agreement</a></u>. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.  Both the Privacy Policy and Terms of Use Agreement are legally binding on all users.  </p>
 	<p>We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you.  Such revisions shall be effective to you immediately upon posting.  Notice of material changes to either document will be posted on the Site’s homepage.  However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates.  We may also e-mail you, at our discretion, about these changes.</p>
 	<p>We are committed to protecting users' privacy.  Keeping the Personal Information you share with us on the Site secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us.  We maintain reasonable physical, electronic and procedural safeguards to protect your Personal Information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information.  </p>
 	<h3>YOUR CALIFORNIA PRIVACY RIGHTS</h3>
@@ -677,626 +724,257 @@ if (bAdmanagerClientAlive) {
 	<p>We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries. </p>
 	<p><b>10. Questions:</b> If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u>. </p>
 	<p><b>11. Sole Statement:</b> This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.</p>
-	<p>This Privacy Policy was last modified on April 27, 2009 and is effective immediately.</p>
-	<p>Copyright ©2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p><div id="cp_issue_summary">
-	<h4>In This Issue</h4>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/News/" title="Read more articles in News">News</a></h3>
-				<ul>
-					
-						
-							<li><a href="news/2009/04/24/News/Alum-Shares.Experience.As.Legal.Clerk.For.Supreme.Court.Justice-3725201.shtml" title="Read Alum shares experience as legal clerk for Supreme Court Justice">Alum shares experience as legal clerk for Supreme Court Justice</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/News/Forgotten.Legends.The.Blockade.Of.Euclid.Avenue-3725137.shtml" title="Read Forgotten legends: the blockade of Euclid Avenue">Forgotten legends: the blockade of Euclid Avenue</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/News/Hudson.Relays-3725193.shtml" title="Read Hudson Relays">Hudson Relays</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/News/Planning.Ahead.With.Life.Insurance-3725180.shtml" title="Read Planning ahead with life insurance">Planning ahead with life insurance</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/News/Second.Annual.Relay.For.Life.Raises.Over.88000-3725104.shtml" title="Read Second annual Relay For Life raises over $88,000">Second annual Relay For Life raises over $88,000</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/News/Showing.Off.Research.Showcase.Provides.Opportunity.To.Present.Latest.Research-3725143.shtml" title="Read Showing off: Research ShowCASE provides opportunity to present latest research">Showing off: Research ShowCASE provides opportunity to present latest research</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/News/Source.Of.Success.Fifth.Annual.Source.Symposium.Celebrates.Students.Research-3725121.shtml" title="Read Source of success: fifth annual SOURCE Symposium celebrates students' research">Source of success: fifth annual SOURCE Symposium celebrates students' research</a></li>
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/TheBuzz/" title="Read more articles in The Buzz">The Buzz</a></h3>
-				<ul>
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-							<li><a href="news/2009/04/24/TheBuzz/The-Buzz-3725297.shtml" title="Read The Buzz">The Buzz</a></li>
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/UsgBriefs/" title="Read more articles in USG Briefs">USG Briefs</a></h3>
-				<ul>
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-							<li><a href="news/2009/04/24/UsgBriefs/Usg-Brief-3725149.shtml" title="Read USG Brief">USG Brief</a></li>
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/WorstCaseScenario/" title="Read more articles in Worst Case Scenario">Worst Case Scenario</a></h3>
-				<ul>
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-							<li><a href="news/2009/04/24/WorstCaseScenario/Worst.Case.Scenario.200910.Preview-3725469.shtml" title="Read Worst Case Scenario: 2009-10 preview">Worst Case Scenario: 2009-10 preview</a></li>
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/Sports/" title="Read more articles in Sports">Sports</a></h3>
-				<ul>
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-							<li><a href="news/2009/04/24/Sports/Baseball.Spartans.Lose.To.Wooster.At.Progressive.Field-3725393.shtml" title="Read Baseball: Spartans lose to Wooster at Progressive Field">Baseball: Spartans lose to Wooster at Progressive Field</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Sports/SevenToFive.Job-3725404.shtml" title="Read Seven-to-five job">Seven-to-five job</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Sports/Softball.Spartan.Bats.Silent.Against.Bluffton-3725378.shtml" title="Read Softball: Spartan bats silent against Bluffton">Softball: Spartan bats silent against Bluffton</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Sports/Spartan.Spotlight.Allen.Ye-3725357.shtml" title="Read Spartan Spotlight: Allen Ye">Spartan Spotlight: Allen Ye</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Sports/Top-10.Spartan.Sports.Stories.Of.2008.2009-3725419.shtml" title="Read Top 10 Spartan sports stories of  2008 - 2009">Top 10 Spartan sports stories of  2008 - 2009</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Sports/What-To.Watch.For.This.Summer-3725372.shtml" title="Read What to watch for this summer">What to watch for this summer</a></li>
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/FunPage/" title="Read more articles in Fun Page">Fun Page</a></h3>
-				<ul>
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-							<li><a href="news/2009/04/24/FunPage/Crossword.Answers-3723046.shtml" title="Read Crossword Answers">Crossword Answers</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/FunPage/Jumble.Answers-3723077.shtml" title="Read Jumble Answers">Jumble Answers</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/FunPage/Sudoku.Solutions-3722223.shtml" title="Read Sudoku Solutions">Sudoku Solutions</a></li>
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/Opinion/" title="Read more articles in Opinion">Opinion</a></h3>
-				<ul>
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-							<li><a href="news/2009/04/24/Opinion/Case-Culture.Summer.Break.Shouldnt.Break.Your.Back-3725312.shtml" title="Read Case Culture: Summer break shouldn't break your back">Case Culture: Summer break shouldn't break your back</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Opinion/Editorial.Semester.Grades-3725310.shtml" title="Read Editorial: Semester grades">Editorial: Semester grades</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Opinion/Global.Scorning.Earth.Day.Dont.Assume.Its.Only.About.flower.Power-3725323.shtml" title="Read Global Scorning: Earth Day: Don't assume it's only about " flower="" power""="">Global Scorning: Earth Day: Don't assume it's only about "flower power"</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Opinion/Red-White.And.Skewed.So.Many.Crises.So.Little.Time-3725317.shtml" title="Read Red, White, and Skewed: So many crises, so little time">Red, White, and Skewed: So many crises, so little time</a></li>
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-		<div class="group">
-			<div class="gutter">
-				<h3><a href="/news/2009/04/24/Focus/" title="Read more articles in Focus">Focus</a></h3>
-				<ul>
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-							<li><a href="news/2009/04/24/Focus/Alternative.Press.Editor.Offers.Disappointing.Analysis.Of.Scene.Culture-3725291.shtml" title="Read Alternative Press editor offers disappointing analysis of scene culture">Alternative Press editor offers disappointing analysis of scene culture</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Focus/Case-Alumnus.Girl.Talk.Returns.For.EndOfYear.Blowout-3725461.shtml" title="Read Case alumnus Girl Talk returns for end-of-year blowout">Case alumnus Girl Talk returns for end-of-year blowout</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Focus/Cleveland.Museum.Of.Art.Hosts.Unique.Exhibition.Of.Powerful.African.Artwork-3725453.shtml" title="Read Cleveland Museum of Art hosts unique exhibition of powerful African artwork">Cleveland Museum of Art hosts unique exhibition of powerful African artwork</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Focus/Juggling.Clubs.End.Of.Year.Spectacular.Wows.Audience.With.Skill-3725457.shtml" title="Read Juggling Club's end of year spectacular wows audience with skill">Juggling Club's end of year spectacular wows audience with skill</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Focus/Sex-And.Dating.Remembering.Those.Who.Matter-3725218.shtml" title="Read Sex and Dating: Remembering  those who matter">Sex and Dating: Remembering  those who matter</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Focus/Spartans.Of.Style.What.Not.To.Wear-3725279.shtml" title="Read Spartans of Style: What not to wear">Spartans of Style: What not to wear</a></li>
-						
-					
-						
-							<li><a href="news/2009/04/24/Focus/StandUp.Comedy.Show.Tonight-3725459.shtml" title="Read Stand-up comedy show tonight">Stand-up comedy show tonight</a></li>
-						
-					
-				</ul>
-			</div>
-		</div>
-	
-	<div style="clear: both"> </div>
+	<p>This Privacy Policy was last modified on September 9, 2009 and is effective immediately.</p>
+	<p>Copyright ©2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p><div id="issuesummary">
+	<h2>Issue Summary</h2>
+	<table width="100%" border="0" cellpadding="4" cellspacing="0">
+		<tbody><tr>
+			<td width="50%" valign="top">
+					
+						<h3><a class="issuesummarysection" href="http://www.cwruobserver.com/home/news/2010/10/29/News/">News</a></h3>
+						<ul>
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/News/Crime.Reignites.Emphasis.On.Campus.Safety-3951763.shtml">Crime reignites emphasis on campus safety</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/News/Election.Day.Survival.Kit-3951802.shtml">Election day survival kit</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/News/Inamori.International.Center.For.Ethics.And.Excellence.Hosts.International.Peace-3951831.shtml">Inamori International center for ethics and excellence hosts international peace and war summit</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/News/Investing.Now.For.Retirement.Pays.Off.Later-3951766.shtml">Investing now for retirement pays off later</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/News/Snyder.Praises.University.Accomplishments-3951764.shtml">Snyder praises university accomplishments</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+						</ul>
+					<!-- This will visually split the results into two groups.. a left and right. -->
+					
+					
+						<h3><a class="issuesummarysection" href="http://www.cwruobserver.com/home/news/2010/10/29/Sports/">Sports</a></h3>
+						<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Sports/2010-Uaa.Cross.Country.Championship.Preview-3951828.shtml">2010 UAA cross country championship preview</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Sports/Cwru-Xc.Looks.To.Dominate.In.Uaa.Championship-3951824.shtml">CWRU XC looks to dominate in UAA championship</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Sports/Hockey.Picks.Up.First.Win.Against.Calu-3951829.shtml">Hockey picks up first win against CalU</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Sports/No.23.Spartans.Take.Home.Baird.Bros.Trophy-3951825.shtml">No. 23 Spartans take home Baird Bros. Trophy</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Sports/Seniors.Thump.Westminster.60.In.Final.Home.Game-3951830.shtml">Seniors thump Westminster 6-0 in final home game</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Sports/Spartans.Trump.TopRanked.Washu.Return.Home.For.Win.On.Senior.Day-3951827.shtml">Spartans trump top-ranked WashU, return home for win on senior day.</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+						</ul>
+					<!-- This will visually split the results into two groups.. a left and right. -->
+					
+					
+						<h3><a class="issuesummarysection" href="http://www.cwruobserver.com/home/news/2010/10/29/Opinion/">Opinion</a></h3>
+						<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Opinion/Democracy.The.Only.Class.Where.Participation.Is.100.Percent.Of.Your.Grade-3951822.shtml">Democracy: the only class where  participation is 100 percent of your grade</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Opinion/Editorial.Three.Times.not.A.Charm-3951820.shtml">Editorial: Three times (not) a charm</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Opinion/Whats.Scarier.Than.Pelosi.A.Boehner.Not.Much.Actually-3951823.shtml">What's Scarier than Pelosi &amp; a Boehner?  Not Much, Actually.</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+						</ul>
+					<!-- This will visually split the results into two groups.. a left and right. -->
+					
+					
+						<h3><a class="issuesummarysection" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/">Focus</a></h3>
+						<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/Case-Western.Zombieland-3951809.shtml">Case Western: Zombieland</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/Dim-And.Den.Sum.Clevelands.Meal.On.Wheels.Phenomenon-3951808.shtml">Dim and Den Sum: Cleveland's meal on wheels phenomenon</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/Footlighters.Aim.For.Thoroughly.Modern.Performance.Of.Millie-3951806.shtml">Footlighters aim for Thoroughly Modern performance of Millie</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/Knaan.Enthralls.Concertgoers.Courtesy.Of.Upb-3951805.shtml">K'naan enthralls concertgoers courtesy of UPB</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/Playhouse.Squares.Legally.Blonde.Offers.Surprisingly.Enjoyable.Escapist.Fare-3951811.shtml">Playhouse Square's Legally Blonde offers surprisingly enjoyable escapist fare</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/Shaking.Things.Up-3951812.shtml">Shaking things up</a></li>
+									
+								
+									
+										<li><a class="issuesummaryheadline" href="http://www.cwruobserver.com/home/news/2010/10/29/Focus/Small.Yet.Dedicated.Group.Of.Materials.Science.Majors.Represent.Cwru.At.Conventi-3951813.shtml">Small, yet dedicated group of materials science majors represent CWRU at convention in Houston</a></li>
+									
+								
+						</ul>
+					<!-- This will visually split the results into two groups.. a left and right. -->
+					
+					
+			</td>
+		</tr>
+	</tbody></table>
 </div><div id="object2971">
 	<div align="center" class="cpfooter">
-		<a href="http://www.mtvu.com/about/advertising/" target="_blank">National College Advertising and Marketing</a> | <a href="/user/privacypolicy/">Privacy Policy</a> (8/15/07) | <a href="/user/terms">Terms of Use</a> (4/28/08)<br>
+		<a href="http://www.mtvu.com/about/advertising/" target="_blank">National College Advertising and Marketing</a> | <a href="/user/privacypolicy/">Privacy Policy</a> (9/9/09) | <a href="/user/terms">Terms of Use</a> (9/9/09)<br>
 		<a href="/user/submission" target="_blank">Content Submission Agreement</a> (8/23/07) | <a href="/user/copyright" target="_blank">Copyright Compliance Policy</a> (4/27/09) | <a href="/user/rssterms" target="_blank">RSS Terms of Use</a> 
 	</div>
 </div>
@@ -1316,7 +994,7 @@ if (bAdmanagerClientAlive) {
 		
 </div><script language="Javascript" type="text/javascript">
 	document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/betapopularstories.js?'+currentissuedate+'><\/scr'+'ipt>');
-</script><script src="http://media.collegepublisher.com/media/paper1370/template/betapopularstories.js?04/24/09"></script><div id="banner_client_1" class="cp_banner_client">
+</script><script src="http://media.collegepublisher.com/media/paper1370/template/betapopularstories.js?10/29/10"></script><div id="banner_client_1" class="cp_banner_client">
 	<script language="JAVASCRIPT">
 	if (clientBannersAvailable == 1) {
 		showClientBanner(1);
@@ -1328,32 +1006,37 @@ if (bAdmanagerClientAlive) {
 </div><div id="poll">
 	<h4>Poll</h4>
 	<form name="voteform" action="/poll/index.cfm?event=castVote" method="post">
-		<div class="pollquestionstyle">What are your primary summer plans?</div>
+		<div class="pollquestionstyle">How many midterms did you have this week?</div>
 		<div id="poll_answers">
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_157581" value="157581">
-					<label for="poll_answer_157581">Working</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_175004" value="175004">
+					<label for="poll_answer_175004">5+</label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_157582" value="157582">
-					<label for="poll_answer_157582">An extended vacation</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_175005" value="175005">
+					<label for="poll_answer_175005">4</label>
 				</div>
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_157583" value="157583">
-					<label for="poll_answer_157583">Summer class</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_175006" value="175006">
+					<label for="poll_answer_175006">3</label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_157584" value="157584">
-					<label for="poll_answer_157584">Other program/internship</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_175007" value="175007">
+					<label for="poll_answer_175007">2</label>
 				</div>
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_157585" value="157585">
-					<label for="poll_answer_157585">Other</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_175008" value="175008">
+					<label for="poll_answer_175008">1</label>
+				</div>
+			
+				<div class="poll_even">
+					<input type="radio" name="poll_answer_id" id="poll_answer_175009" value="175009">
+					<label for="poll_answer_175009">None!</label>
 				</div>
 			
 		</div>
