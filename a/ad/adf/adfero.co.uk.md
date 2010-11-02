@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfero.co.uk privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502025959id_/http%3A//www.adfero.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfero.co.uk privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102191256id_/http%3A//www.adfero.co.uk/privacy) for the most accurate reproduction.*
 
 # Adfero - Privacy Statement
 
