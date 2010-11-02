@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504101226id_/http%3A//www.polycom.com/website/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102221140id_/http%3A//www.polycom.com/website/privacy_policy.html) for the most accurate reproduction.*
 
 # Your Privacy - Polycom
 
