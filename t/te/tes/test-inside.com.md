@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the test-inside.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503213818id_/http%3A//www.test-inside.com/testinside/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the test-inside.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102061146id_/http%3A//www.test-inside.com/testinside/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice - TestInside
 
@@ -54,4 +54,4 @@ We reserve the right to change the terms, conditions, notices and privacy under 
 
 #### Contact Testinside
 
-If you would like to contact us for any reason regarding our privacy practices, please write us at the following email address: Exam4Test(at)hotmail.com
+If you would like to contact us for any reason regarding our privacy practices, please write us at the following email address: sales(at)test-inside.com
