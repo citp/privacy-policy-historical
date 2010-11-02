@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymetrobank.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323040924id_/http%3A//www.mymetrobank.com/page.cfm%3Fid%3D5241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymetrobank.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102135508id_/https%3A//mymetrobank.com/page.cfm%3Fid%3D5241) for the most accurate reproduction.*
 
 # Metro Bank Serving Central PA
 
@@ -33,10 +33,10 @@ Remember that cellular, mobile and cordless phones are not secure. Neither is el
 
 Metro Bank takes crime prevention very seriously. For your convenience, the links below go to practical, expert advice.
 
-  * [Avoid Identity Theft & Online Fraud](https://web.archive.org/web/20100323040924id_/http%3A//www.mymetrobank.com/page.cfm?id=5220) (Source: Metro Bank)
-  * [How to Guard Against Identity Theft](http://www.ftc.gov/bcp/edu/microsites/idtheft) (Source: Federal Trade Commission)
-  * [Advice for Safe Online Shopping](http://www.fdic.gov/consumers/consumer/news/cnsum01/cvrstry.html) (Source: Federal Deposit Insurance Corporation)
-  * [ATM Safety Tips](https://web.archive.org/web/20100323040924id_/http%3A//www.mymetrobank.com/page.cfm?id=5281) (Source: Metro Bank)
+  * [Avoid Identity Theft & Online Fraud](https://web.archive.org/web/20101102135508id_/https%3A//mymetrobank.com/page.cfm?id=5220) (Source: Metro Bank)
+  * [How to Guard Against Identity Theft](https://web.archive.org/web/20101102135508id_/https%3A//mymetrobank.com/exit.cfm?link=http://www.ftc.gov/bcp/edu/microsites/idtheft);(Source: Federal Trade Commission)
+  * [Advice for Safe Online Shopping](https://web.archive.org/web/20101102135508id_/https%3A//mymetrobank.com/exit.cfm?link=http://www.fdic.gov/consumers/consumer/news/cnsum01/cvrs%74ry.html);(Source: Federal Deposit Insurance Corporation)
+  * [ATM Safety Tips](https://web.archive.org/web/20101102135508id_/https%3A//mymetrobank.com/page.cfm?id=5281) (Source: Metro Bank)
 
 
 
@@ -79,7 +79,7 @@ Metro Bank may make a decision to sell a particular line of business (for exampl
 
 All of our Internet forms and pages with customer or other sensitive information are protected by data-encryption technology. Encryption is a procedure for turning plain text or other information into an unrecognizable pattern of data requiring a unique key to open or "decode" the formula. The unbroken key or closed lock on your screen indicates that the connection is secure.
 
-Although we provide data encryption and other types of protection to maintain the security of our customers' information, there are certain security, corruption, transmission error and access-availability risks associated with using open networks such as the Internet. Should you decide at any time that you prefer not to use our online services, please [visit any store](https://web.archive.org/web/20100323040924id_/http%3A//www.mymetrobank.com/page.cfm?id=5225) or call us at 1-888-937-0004. 
+Although we provide data encryption and other types of protection to maintain the security of our customers' information, there are certain security, corruption, transmission error and access-availability risks associated with using open networks such as the Internet. Should you decide at any time that you prefer not to use our online services, please [visit any store](https://web.archive.org/web/20101102135508id_/https%3A//mymetrobank.com/page.cfm?id=5225) or call us at 1-888-937-0004. 
 
 ### How We Handle E-Mail
 
