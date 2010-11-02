@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internet-optimizer.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629070536id_/http%3A//www.internet-optimizer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-optimizer.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102200033id_/http%3A//www.internet-optimizer.com/privacy-policy) for the most accurate reproduction.*
 
-# Internet Technology I Computers Technology I Internet Software | Internet-Optimizer.com
+# Internet-Optimizer.com » Privacy Policy
 
 Privacy Policy for Internet-Optimizer.com
 
