@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmotorworks.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429004920id_/http%3A//www.dmotorworks.com/site/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmotorworks.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102010840id_/http%3A//www.dmotorworks.com/site/company/privacy.shtml) for the most accurate reproduction.*
 
 # DMi : Privacy
 
