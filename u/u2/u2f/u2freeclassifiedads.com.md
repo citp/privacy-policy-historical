@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616191446id_/http%3A//www.u2freeclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102021402id_/http%3A//www.u2freeclassifiedads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
