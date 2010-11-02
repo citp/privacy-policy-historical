@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narutocommunity.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210028id_/http%3A//narutocommunity.net/index.php%3Ffind%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutocommunity.net privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102234910id_/http%3A//narutocommunity.net/index.php%3Ffind%3Dprivacy_policy) for the most accurate reproduction.*
 
 # privacy_policy|Naruto Community - Download Naruto Anime & Naruto Manga
 
