@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikolani.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127085320id_/http%3A//kikolani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikolani.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103002031id_/http%3A//kikolani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kikolani
 
@@ -9,6 +9,10 @@ At [kikolani.com](http://kikolani.com/), I recognize that privacy of your person
  **Log Files**
 
 As with most other websites, this site collects and uses the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+ **Email Addresses**
+
+[Kikolani.com](http://kikolani.com/) will never sell or distribute your email addresses to other parties. Email addresses entered in this site via the contact form or comments form will only be used by the site owner to directly contact the email address owner via email or on social networks.
 
  **Cookies and Web Beacons**
 
@@ -24,4 +28,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20100127085320id_/http%3A//kikolani.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D) and modified by [kikolani.com](http://kikolani.com/).
+AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/) and modified by [kikolani.com](http://kikolani.com/).
