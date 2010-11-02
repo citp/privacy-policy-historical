@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613010826id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102131448id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -35,7 +35,7 @@ To " **Purchase** " means to book, reserve or purchase
 
 " **Session Data** " means usage information, such as the type of Internet browser and operating system an individual use, the domain name of the site from which the individual came, the date, time and duration of the visit, number of visits, average time spent on the individual's site, pages viewed, domain name of the individual, and number of cookies accumulated
 
-" **Website** " means the [http://www.ebookers.co.uk](http://www.ebookers.co.uk/) site and its respective sub sites together with the respective content, Products and Services available from that site and sub sites
+" **Website** " means the [http://www.ebookers.co.uk](http://www.ebookers.com/) site and its respective sub sites together with the respective content, Products and Services available from that site and sub sites
 
 " **Subscriber** " means an individual who elects to receive offers or promotions from ebookers without becoming a Member or a Guest.
 
@@ -117,10 +117,12 @@ We use Personal Information in order to provide and enhance the Products or Serv
   * As permitted by, and to comply with, any legal or regulatory requirements or provisions; or
   * For any other purpose to which you consent.
   * To send you surveys asking questions about your customer experience. Sometimes we use third parties to administer such surveys.
+  * To validate that we have provided you with the appropriate insurance, as applicable
 
 
 
-**Competitions – Prizedraws**
+
+**C ompetitions – Prizedraws**
 
 If you participate in a competition, promotion or prizedraws we will use your Personal Information to notify you if you win. We may send you additional communications only if you have specifically requested to receive our newsletters, emails, personalised offers or other promotional materials when filling out the contest or promotion form. We will share the information with the entities with which we may have teamed to propose the joint promotion. If a third party administers the contest, your participation may be subject to additional terms and conditions and that third party's privacy policy. We are not responsible for such third parties. You should carefully review these third parties' terms and conditions.
 
@@ -151,7 +153,7 @@ From time to time, we may disclose your Personal Information as follows:
 
 
   1. Clicking the ‘CONTINUE’ button on the discount voucher offer made by Webloyalty on the purchase confirmation page after you make a booking on the ebookers’ website; and
-  2. Providing and confirming your email address and last four digits of your credit/debit card on the subsequently-displayed ‘Shopper Discounts and Rewards’ webpage, and completing your consent to the transfer by clicking the submission button.
+  2. Providing and confirming your name, billing details, email address and credit / debit card details on the subsequently-displayed ‘Shopper Discounts and Rewards’ webpage, and completing your consent to the transfer by clicking the submission button.
 
 
 
