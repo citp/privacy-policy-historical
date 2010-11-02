@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620091340id_/http%3A//www.savings.com/corporate/articles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102045603id_/http%3A//www.savings.com/corporate/articles/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -108,9 +108,9 @@ If you have any questions, concerns or suggestions about our Privacy Policy, you
 
 > Savings.com, Inc.  
 >  Attn: Customer Care  
->  2932 Nebraska Avenue  
->  Santa Monica, CA 90404  
-> 
+>  2225 S Carmelina Avenue  
+>  Los Angeles, CA 90064  
+>  USA 
 
 **Retention of Information  
 **
