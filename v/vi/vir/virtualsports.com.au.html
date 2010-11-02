@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the virtualsports.com.au privacy policy that was archived on 2010-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100501042526id_/http%3A//virtualsports.com.au%3Fp%3Dhelp%26m%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtualsports.com.au privacy policy that was archived on 2010-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101102011921id_/http%3A//www.virtualsports.com.au%3Fp%3Dhelp%26m%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
     <title>VirtualSPORTS 2010 | Play Dream Team Fantasy Sports FREE | The Leaders in Australasian Fantasy Sports </title>
     <meta name="description" content="VirtualSPORTS - Play Dream Team Fantasy Sports FREE! The Leaders in Australasian Fantasy Sports. The ultimate team management games - Fantasy AFL Football, Fantasy NRL Rugby League, Fantasy Super 14 Rugby Union, Fantasy Cricket, Fantasy Tennis, Fantasy Premier League, Fantasy A-League Fantasy F1, Fantasy V8s and more">
     <meta name="keywords" content="dream team, fantasy sports, team management, fantasy league, fantasy footy, fantasy, Fantasy Aussie Rules, fantasy football, fantasy afl, footy, Football, games, sports games, fantasy games, AFL, Australian Rules, Australian Rules Football, Australian football, Australian Football League, NRL, rugby, fantasy rugby, fantasy rugby world cup, fantasy rugby league, fantasy rugby union, National Rugby League, Rugby League, Rugby Union, Rugby World Cup, union, ACB, cricket, fantasy cricket, fantasy soccer, fantasy f1, f1, soccer, fantasy formula 1, formula1, fantasy v8, v8 supercars, NBL, fantasy basketball, fantasy golf, fantasy tennis, golf, basketball, tennis, clubs, teams, sport, fantasy sports leagues, salary cap games, fantasy football leagues, goal, try, conversion, behind, points, runs, free kick, virtual sports, virtualsports, vapormedia">
-    <!-- Event source file -->
-    <link rel="stylesheet" type="text/css" href="/global_2010/process_scripts.php?type=css&amp;files=common-common-main;common-common-index;vapormedia-vaporForms;vapormedia-vsports-main;vapormedia-www-specificElements;vapormedia-www-main;vapormedia-www-vsports-main;&amp;v=28042010055952">   
-    <script type="text/javascript" src="/global_2010/process_scripts.php?files=jquery-1.3.2.min;jquery-ui-1.7.1.min;jquery.scrollTo-min;jquery.viewport.mini;swfobject;vaporForms;iepngfix_tilebg;divhider;jquery.hoverDelay;dialog;graph;jquery.marquee;jquery.anchor;mouseoverPopup;?v=20100208161234"> </script>
+
+	<!--//Contains vapormedia styles and javascript -->
+    <link rel="stylesheet" type="text/css" href="/global_2010/process_scripts.php?type=css&amp;files=common-common-main;common-common-index;common-common-index-gamestatus;vapormedia-vaporForms;vapormedia-vsports-main;vapormedia-www-specificElements;vapormedia-www-main;vapormedia-www-vsports-main;&amp;v=01112010022517">   
+    <script type="text/javascript" src="/global_2010/process_scripts.php?files=jquery-1.4.2.min;jquery-ui-1.8.1.min;jquery.scrollTo-min;jquery.viewport.mini;swfobject;vaporForms;iepngfix_tilebg;divhider;jquery.hoverDelay;dialog;graph;jquery.marquee;jquery.anchor;mouseoverPopup;rounded.corners;&amp;v=20100208161237"> </script>
     <script type="text/javascript">
 <!--
 function str_repeat(i,m){for(var o=[];m>0;o[--m]=i);return(o.join(''));}
@@ -30,9 +31,12 @@ $(document).ready(function() {
 		var m_minutes = m_seconds * 60;
 		var m_hours = m_minutes * 60;
 		var element = this;
+		var servertime = $(this).attr('servertime');
+
+		var now = new Date(servertime);
+		var diff = date.getTime() - now.getTime();
 		window.setInterval(function() {
-			var now = new Date();
-			var diff = date.getTime() - now.getTime();
+			diff = diff - 1000;
 			if(diff > 0) {
 				var hours = parseInt(diff/m_hours);
 				var minutes = parseInt((diff - (hours * m_hours))/m_minutes);
@@ -137,7 +141,8 @@ function startTimeLeft()
           $(this).fadeTo("fast",.9);
         });
          $(".otherGames").find("li").fadeTo("fast",.9);
-</script>   
+</script> 
+ 
     <div class="wrapper">
         <div class="headerWrapper">
             <div class="hdr">
@@ -152,7 +157,7 @@ function startTimeLeft()
 </div>
 <div class="sportMenu">
     <ul id="sportsMenuNav">
-        <li class="first"><a class="" href="http://footy.virtualsports.com.au/?p=index">afl</a></li><li class=""><a class="" href="http://league.virtualsports.com.au/?p=index">nrl</a></li><li class=""><a class="" href="http://super14.virtualsports.com.au/?p=index">super14</a></li><li class=""><a class="" href="http://ipl.virtualsports.com.au/?p=index">cricket</a></li><li class=""><a class="" href="http://tennis.virtualsports.com.au/?p=index">tennis</a></li><li class=""><a class="" href="http://epl.virtualsports.com.au/?p=index">epl</a></li><li class=""><a class="" href="http://aleague.virtualsports.com.au/?p=index">aleague</a></li><li class=""><a class="" href="http://nbl.virtualsports.com.au/?p=index">nbl</a></li><li class=""><a class="" href="http://f1.virtualsports.com.au/?p=index">formula1</a></li><li class=""><a class="" href="http://v8.virtualsports.com.au/?p=index">v8</a></li><li class="last"><a class="" href="http://motogp.virtualsports.com.au/?p=index">motogp</a></li>    </ul>
+        <li class="first"><a class="" href="http://footy.virtualsports.com.au/?p=index">afl</a></li><li class=""><a class="" href="http://league.virtualsports.com.au/?p=index">nrl</a></li><li class=""><a class="" href="http://super14.virtualsports.com.au/?p=index">super14</a></li><li class=""><a class="" href="http://ipl.virtualsports.com.au/?p=index">cricket</a></li><li class=""><a class="" href="http://tennis.virtualsports.com.au/?p=index">tennis</a></li><li class=""><a class="" href="http://epl.virtualsports.com.au/?p=index">epl</a></li><li class=""><a class="" href="http://aleague.virtualsports.com.au/?p=index">aleague</a></li><li class=""><a class="" href="http://basketball.virtualsports.com.au/?p=index">nbl</a></li><li class=""><a class="" href="http://f1.virtualsports.com.au/?p=index">formula1</a></li><li class=""><a class="" href="http://v8.virtualsports.com.au/?p=index">v8</a></li><li class=""><a class="" href="http://motogp.virtualsports.com.au/?p=index">motogp</a></li><li class="last"><a class="" href="http://racing.virtualsports.com.au/?p=index">racing</a></li>    </ul>
 </div>
             <style>
 .hide2ndDivs .buttonHolder, .hide3rdDivs .buttonHolder,#isPrizes {display:none;}
@@ -167,8 +172,8 @@ function startTimeLeft()
                   <li class="last" style="position:relative; top:9px;"><span style="font-style:italic;">&nbsp;&nbsp;celebrating <strong>10 years</strong>... The Leaders in Australasian Fantasy Sports...</span></li>           
               </ul>    
               <ul class="gm_offSite">
-                  <li class="last"><a href="http://www.virtualtips.com.au/?p=index">Footy tipping<span>+eliminator&nbsp;&nbsp; +ott</span></a></li>
-              </ul>
+                                    <li class="last"><a href="http://www.virtualtips.com.au/?p=index">Footy tipping<span>+eliminator&nbsp;&nbsp; +ott</span></a></li>
+                                </ul>
     </div>
             <div class="gameStatus">
     <div class="gameStatusArea">
@@ -176,7 +181,7 @@ function startTimeLeft()
         
             <li class="first" style="width:90px;">footydreamteam</li>
             <li class="gameStatusFix1" style="width:82px; text-align:center">round: <span>10</span></li>
-            <li class="gameStatusFix2" style="text-align:center; width:160px;">game status: <span>closed</span></li>
+            <li class="gameStatusFix2" style="text-align:center; width:160px;">game status: <span>closed</span><br></li>
             <li class="last">next lockout: <div id="timeleft"><span class="gamestatus_coun">season completed</span></div>
             <br>
             <span class="nextlckout"></span></li>
@@ -185,7 +190,7 @@ function startTimeLeft()
     <div class="miscHelpMenu">
             <ul class="miscHelpMenuItems">
             <li class="first"><a href="/?p=register">register</a></li>
-            <li id="isPrizes"><a href="/?p=prizes" title="Prizes">prizes</a></li>
+			<li id="isPrizes"><a href="/?p=prizes" title="Prizes">prizes</a></li>
             <li class="last"><a href="/?p=help" class="dialogLink">help &amp; game rules</a></li>
         </ul>
         </div>
@@ -256,7 +261,8 @@ Users of the VirtualSPORTS Dream Team™ opt-in and registration services may ch
 
 <div class="clearBoth"></div>
 </div>
-<div class="footerAd">
+      	
+            <div class="footerAd">
     <div class="mthPageCommandWrapper2">
         	<iframe src="http://tpnads.com/iframe/jscode.php?zoneid=1265&amp;size=728x90&amp;source=au-" width="728" height="90" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
         </div>
@@ -291,11 +297,11 @@ Users of the VirtualSPORTS Dream Team™ opt-in and registration services may ch
                 <li><a href="http://tennis.virtualsports.com.au">Tennis Dream Team 2010 &gt;</a></li>
                 <li><a href="http://epl.virtualsports.com.au">EPL Dream Team 2010 &gt;</a></li>
                 <li><a href="http://aleague.virtualsports.com.au">A-League Dream Team 2010 &gt;</a></li>
-                <li><a href="http://nbl.virtualsports.com.au">NBL Dream Team 2010 &gt;</a></li>
+                <li><a href="http://basketball.virtualsports.com.au">NBL Dream Team 2010 &gt;</a></li>
                 <li><a href="http://f1.virtualsports.com.au">Formula 1 Dream Team 2010 &gt;</a></li>
                 <li><a href="http://v8.virtualsports.com.au">V8 Supercar Dream Team 2010 &gt;</a></li>
                 <li><a href="http://motogp.virtualsports.com.au">MotoGP Dream Team 2010 &gt;</a></li>
-      
+                <li><a href="http://racing.virtualsports.com.au">Racing Dream Team 2010 &gt;</a></li>      
             </ul>
         </div>
         <div>
@@ -308,7 +314,7 @@ Users of the VirtualSPORTS Dream Team™ opt-in and registration services may ch
                 <!--<li><a href="http://cricket.virtualtips.com.au">IPL cricket tips 2010 ></a></li>-->
                 <li><a href="http://epl.virtualtips.com.au">EPL footy tips 2010 &gt;</a></li>
                 <li><a href="http://aleague.virtualtips.com.au">A-League footy tips 2010 &gt;</a></li>
-                <!--<li><a href="http://nbl.virtualtips.com.au">NBL basketball tips 2010 ></a></li>-->
+                <li><a href="http://basketball.virtualtips.com.au">NBL basketball tips 2010 &gt;</a></li>
             </ul>
         </div>
         <div>
@@ -341,9 +347,9 @@ Users of the VirtualSPORTS Dream Team™ opt-in and registration services may ch
         </div>
     </div>
     <div class="footer">
-        Subject to <a href="/?p=help&amp;m=rules" class="dialogLink" title="Terms of Use">Terms of Use.</a> Individual persons featured above are not sponsored or endorsed by vapormedia.<br>
-        <span>Dream Team, vapormedia, the vapormedia logo, VirtualSPORTS, the VirtualSPORTS logo, VirtualTIPS, the VirtualTIPS logo, VirtualSHARES, the VirtualSHARES logo and One Team Tip are trademarks of vapormedia pty. limited.<br>  Eliminator ® is a registered trademarkof vapormedia pty. limited. Copyright © 2001-2010 vapormedia pty. limited. ACN 140 989 368. All rights reserved.</span>
-        <a id="VMLogo" href="http://vapormedia.com" target="_blank"></a>        
+    	        Subject to <a href="/?p=help&amp;m=rules" class="dialogLink" title="Terms of Use">Terms of Use.</a> Individual persons featured above are not sponsored or endorsed by vapormedia.<br>
+        <span>Dream Team, vapormedia, the vapormedia logo, VirtualSPORTS, the VirtualSPORTS logo, VirtualTIPS, the VirtualTIPS logo, VirtualSHARES, the VirtualSHARES logo and One Team Tip are trademarks of vapormedia pty. limited.<br>  Eliminator ® is a registered trademark of vapormedia pty. limited. Copyright © 2001-2010 vapormedia pty. limited. ACN 140 989 368. All rights reserved.</span>
+                <a id="VMLogo" href="http://vapormedia.com" target="_blank"></a>        
     </div>
 </div>
 <script type="text/javascript">
@@ -364,7 +370,7 @@ $(document).ready(_loadUserVoice);
         </div>
 	</div>
 	<div id="update_box" style="display: none;"></div>
-	<!-- BEGIN: M1ACV Release 2.1.1 -->
+	<div style="display:none;"><!-- BEGIN: M1ACV Release 2.1.1 -->
 <!-- (c)2002-2008, MediaOne Network Inc. All Rights Reserved. -->
 <div id="M1DIV" name="M1DIV"></div>
 <img id="M1IMG" name="M1IMG" width="0" height="0" border="0" src="http://acvs.mediaonenetwork.net/client/pixel.gif">
@@ -385,6 +391,7 @@ var pageTracker = _gat._getTracker("UA-92560-34");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+</div>
 
 
 <!-- Javascript to apply a mouse over effect on the ranking like buttons -->
