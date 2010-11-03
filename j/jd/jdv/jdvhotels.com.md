@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102024428id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103012741id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
 
 # Joie de Vivre Hotels Privacy Policy Statement
 
@@ -86,11 +86,11 @@ JDV reserves the right to change this Privacy Policy at any time; notice of chan
 
 ### JDV Contact Information: 
 
-Lisa Demoney  
-Director of Online Marketing  
+Ann Nadeau  
+Corporate Director of Marketing  
 Joie de Vivre Hospitality  
-415.364.5589  
-[ldemoney@jdvhospitality.com](mailto:ldemoney@jdvhospitality.com)
+415.773.1073  
+[anadeau@jdvhospitality.com](mailto:anadeau@jdvhospitality.com)
 
 ## Joie de Vivre Site Security Statement
 
