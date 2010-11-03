@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stephanmiller.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504171845id_/http%3A//www.stephanmiller.com/about/privacy-and-disclosure-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stephanmiller.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104003713id_/http%3A//www.stephanmiller.com/about/privacy-and-disclosure-policies) for the most accurate reproduction.*
 
 # Privacy and Disclosure Policies | Stephan Miller | Kansas City SEO & Internet Marketing
 
