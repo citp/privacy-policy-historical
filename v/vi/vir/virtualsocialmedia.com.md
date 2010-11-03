@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualsocialmedia.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504171014id_/http%3A//www.virtualsocialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualsocialmedia.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103092110id_/http%3A//www.virtualsocialmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virtual Social Media
 
@@ -6,8 +6,7 @@ This is the web site of Virtual Social Media.
 
 Our postal address is
 
-**Flat 3, D:30, Aannanagar East  
-Chennai :600102, India**
+**P.O.Box 1225,Chennai-600102,India.**
 
 We can be reached via e-mail at info@virtualsocialmedia.com  
 or you can reach us by telephone at + **91 9543867585**
