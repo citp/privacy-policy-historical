@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504154734id_/http%3A//www.betterworldbooks.com/custom.aspx%3Ff%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103233635id_/http%3A//www.betterworldbooks.com/custom.aspx%3Ff%3Dprivacy) for the most accurate reproduction.*
 
-# BetterWorldBooks.com: Privacy
+# Privacy
 
   
 Better World Books is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
