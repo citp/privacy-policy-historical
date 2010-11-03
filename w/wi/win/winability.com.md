@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628154310id_/http%3A//www.winability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103014218id_/http%3A//www.winability.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of WinAbility Software Corporation
 
