@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504123805id_/http%3A//blog.gumgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104002708id_/http%3A//blog.gumgum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy «
 
@@ -47,4 +47,4 @@ Your information may be transferred to, and maintained on, computers located out
 The GumGum Site, including, but not limited to, the section where Reports are displayed, contains links to other websites. If you choose to click on another third party link, you will be directed to that third party’s website. The fact that we link to a website is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personally Identifiable Information from you. Other websites and services follow different rules regarding the use or disclosure of the Personally Identifiable Information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
 **Contacting Us**  
-Questions? Suggestions? Concerns? Email us at contact (at) gumgum (dot) com.
+Questions? Suggestions? Concerns? Email us at contact (at) gumgum (dot) com. 
