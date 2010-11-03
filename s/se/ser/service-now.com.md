@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505174944id_/http%3A//www.service-now.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103182234id_/http%3A//www.service-now.com/privacy-policy) for the most accurate reproduction.*
 
 # Service-now.com Privacy Policy
 
