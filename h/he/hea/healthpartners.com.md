@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113193756id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103020214id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
 
-# HealthPartners - Broker
+# HealthPartners.com - Our Privacy Policy
 
-If you are a member of a HealthPartners health plan, please consult the [Health Plan Privacy Notice](https://web.archive.org/files/22750.pdf) for a description of our privacy practices and the rights of our health plan members. If you are a self-insured member (that is, if your employer is self-insured), please check with your employer for more information about your employer's health plans privacy practices. 
+If you are a member of a HealthPartners health plan, please consult the [Health Plan Notice of Privacy Practices](https://web.archive.org/files/22750.pdf) for a description of our privacy practices and the rights of our health plan members. If you are a self-insured member (that is, if your employer is self-insured), please check with your employer for more information about your employer's health plans privacy practices. 
 
-If you are a patient at a HealthPartners clinic or Regions Hospital, please consult the [Medical and Dental Clinics and Hospital Privacy Notice](https://web.archive.org/files/22751.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients. 
+If you are a patient at a HealthPartners clinic or Regions Hospital, please consult the [Care Delivery Notice of Privacy Practices for Clinics, Hospitals and Other Care Providers Affiliated With HealthPartners](https://web.archive.org/files/22751.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients. 
 
 **WEB SITE PRIVACY POLICY**
 
@@ -51,3 +51,5 @@ HealthPartners
 Bloomington, MN 55425 
 
 GP:2279548v1 
+
+ 
