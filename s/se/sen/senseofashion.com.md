@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the senseofashion.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102054815id_/http%3A//www.senseofashion.com/articles.php%3Farticle%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senseofashion.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103185219id_/http%3A//www.senseofashion.com/articles.php%3Farticle%3D11) for the most accurate reproduction.*
 
-# Sense of Fashion - Shop & Share Indie Fashion! Unique items, vintage, one of a kind, street fashion and 2nd hand
+# Sense of Fashion - The Marketplace for Fashion - Shop, share & sell designer items, vintage, boutiques, street fashion
 
 **Privacy Settings**
 
