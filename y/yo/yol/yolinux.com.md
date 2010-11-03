@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yolinux.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421084518id_/http%3A//www.yolinux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolinux.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103104722id_/http%3A//www.yolinux.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -8,7 +8,7 @@ Our postal address is
 **1601 N. Sepulveda Blvd Unit 192  
 Manhattan Beach CA, 90266-5133**
 
-We can be reached via our [e-mail contact form](https://web.archive.org/web/20100421084518id_/http%3A//www.yolinux.com/YoLinuxEmailForm.html)
+We can be reached via our [e-mail contact form](https://web.archive.org/web/20101103104722id_/http%3A//www.yolinux.com/YoLinuxEmailForm.html)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -22,7 +22,7 @@ If you supply us with your postal address on-line you will only receive the info
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect non-personally identifiable information such as your domain type, your IP address, clickstream information, browser type, time and date, subject of advertisements clicked or scrolled over. For further information, consult the privacy policies of: `http://BurstMedia.com, http://Google.com, http://RubiconProject.com, http://TribalFusion.com and ValueClick.com` These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect non-personally identifiable information such as your domain type, your IP address, clickstream information, browser type, time and date, subject of advertisements clicked or scrolled over. For further information, consult the privacy policies of: `http://BurstMedia.com, http://Google.com, http://RubiconProject.com, http://TribalFusion.com, http://CpxInteractive.com and https://www.ValueClick.com/` These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
 
