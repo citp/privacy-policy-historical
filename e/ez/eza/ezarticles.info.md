@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezarticles.info privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504061610id_/http%3A//www.ezarticles.info/%3Fpage_id%3D68698) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezarticles.info privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103200015id_/http%3A//www.ezarticles.info/%3Fpage_id%3D68698) for the most accurate reproduction.*
 
-# Privacy Policy | EZArticles.info
+# EZArticles.info » Privacy Policy
 
 Privacy Policy
 
