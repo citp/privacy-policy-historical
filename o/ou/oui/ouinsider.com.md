@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouinsider.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629021249id_/http%3A//www.ouinsider.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouinsider.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103013744id_/http%3A//www.ouinsider.com/privacypolicy) for the most accurate reproduction.*
 
 # OUInsider.com - The Source for Sooner Sports
 
