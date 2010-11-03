@@ -1,17 +1,113 @@
-> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219172338id_/http%3A//www.webhostplus.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103014406id_/http%3A//www.web-hosting.com/privacy-policy.shtml) for the most accurate reproduction.*
 
-# Web Host Plus - Privacy Policy
+# Privacy Policy | Cheap web hosting services, website cheap hosts, cheapest web hosting providers.
 
-|  |   |   
-Web Host Plus is committed to serving its customers  
-One of the ways in which Web Host Plus assures its customers with quality service is through safeguarding the privacy of each individual that visits our website or becomes one of our customers. This policy sets for the manner in which Web Host Plus gathers, processes, stores and organizes the information provided by our users as they visit our website. Being in an evolving technological environment, we must all understand that with technology there is change and as such Web Host Plus will use its best efforts to afford its customers and users the newest developments in privacy protection. Like all of our standards, this policy too may change from time to time so we ask that you review these policies each time you visit our website.
+## Privacy policy
 
-No matter what type of information that is provided through the Web Host Plus website, Web Host Plus will protect the confidentiality of its customer's information, account information and personal information to the fullest extent possible. However, please note that information, irrespective of type, once disclosed to a public arena (such as chat rooms or third party sites) can not be guaranteed by the protection of Web Host Plus.
+This site is owned and operated by web-hosting.com, a wholly owned subsidiary of Namecheap, Inc. ("web-hosting.com").
 
-Personally Identifiable Information  
-This type of information which normally consists of names, addresses, email addresses, credit card numbers, orders or request for services, will only be used in order to complete your request and provide you with the services. Unless otherwise instructed by you, Web Host Plus may often use this information for promotional purposes, advising you of new services and products, and improving upon the services we provide to our customers. All of your credit card and purchasing information is highly secured through commercially acceptable web based security and encryption protocols. However, please note that certain personal and voluntary information which you provide on other websites, such as feedback or opinions, may be deemed non-confidential and un-protected by Web Host Plus from disclosure.General Information  
-This refers to the generic information gathered and stored by Web Host Plus automatically while users are browsing through our website. This information is not personal in nature. It simply provides us with the user's Internet provider, web site reference, and date and frequency of usage. Such information is useful for us in generating statistical information, in measuring website activity, and a means in which we can improve upon our services.Children's Policy  
-Children under the age of 18 are prohibited from using our services without the consent of a parent or guardian. However, it must be noted that Web Host Plus has no way of knowing if a visitor or customer is actually under the age of 18. Therefore, it's entirely possible that we may collect, use and disclose information about users under the age of 18. We encourage parents to monitor their child's use of the Internet and advise those users under the age of 18 to obtain parental or guardian consent before disclosing any information.Exceptions  
-Web Host Plus will not disclose any personal information of its customer unless there is reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone which may be causing harm or interfering with the rights or property of Web Host Plus, Web Host Plus's customers, or others, or where Web Host Plus has good faith belief that the law requires such disclosure. In addition, Web Host Plus will not disclose or monitor any content (personal or private electronic communications transmitted to Web Host Plus) unless it is (i) necessary to provide service to the customer; (ii) to protect the interest of Web Host Plus; (iii) required to cooperate with orders, warrants, subpoenas, or other legal process that Web Host Plus determines in its sole discretion to be valid and enforceable and (iv) necessary to provide to law enforcement agency when the contents are inadvertently obtained by Web Host Plus and appear to pertain to the commission of a crime.By using this site, you agree not to write or post any fraudulent or illegal messages as part of any e-mail, forum, chat, or other Web Host Plus-related electronic communications medium. You also acknowledge that you are solely responsible for the information and electronic communications content that you create. Web Host Plus disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Web Host Plus will, however, receive, delete or block access to communications that may be harmful to Web Host Plus, its customer or third parties. The grounds upon which Web Host Plus may take such action may include, without limitation, actual or potential violations of Web Host Plus's Acceptable Use Policy.
+Your privacy on the Internet is of the utmost importance to Us. At web-hosting.com, We want to make Your experience online satisfying and safe. Because We gather certain types of information about Our users, We feel You should fully understand the terms and conditions surrounding the capture and use of that information. This Privacy Policy, Terms and Conditions and Acceptable Use Policy, set out Our policies applicable to Your account and disclose what information We gather and how We use it.
 
-In the event of a sale or transfer of the assets or interest of Web Host Plus, Web Host Plus reserves the right to sell or transfer your information (personal or generic) to a third party, without your consent, that provides the same or similar services as Web Host Plus, agrees to be Web Host Plus's successor in interest with regard to the protection of the information collected and maintained by Web Host Plus, and agrees to be bound by this privacy policy.
+web-hosting.com gathers and keeps track of:
+
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions made by You in order to receive Our electronic newsletters, to participate in Our message boards or forums, to email a friend, and from participation in polls and surveys.
+  * Information web-hosting.com gathers through aggregated tracking information derived mainly by tallying page views throughout Our sites. This information allows Us to better tailor Our content to readers' needs and to help Our advertisers and sponsors better understand the demographics of Our audience. Because web-hosting.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping Our service free to users. Under no circumstances does web-hosting.com divulge any information about an individual user to a third party.
+
+
+
+web-hosting.com gathers information about its users as follows:
+
+### OPTIONAL VOLUNTARY INFORMATION SUBMISSION
+
+web-hosting.com offers the following free services, which require some type of voluntary submission of personal information by users:
+
+#### 1\. Electronic newsletters (Dispatches)
+
+web-hosting.com offers a free electronic newsletter to users. web-hosting.com gathers the email addresses of users who voluntarily subscribe to this service. At any time, users are free to remove themselves from this mailing list by following the link provided in every newsletter pointing the user to the subscription management page.
+
+#### 2\. Message Boards/Forums
+
+Users of the web-hosting.com's Message Boards and Forums can login to these areas with their web-hosting.com usernames free of charge in order to post messages. Authorization is not required in order to visit or otherwise use web-hosting.com's other services and/or products.
+
+#### 3\. "E-mail this to a friend" Service
+
+web-hosting.com users can choose to electronically forward a link, page, or documents to someone else by clicking on "e-mail this to a friend". In order to do so, the user must provide his email address, as well as the email address of the intended recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know the identity of the sender. The information collected is not used for any other purpose.
+
+#### 4\. Polling
+
+web-hosting.com occasionally offers interactive polls to users in order to enable the users to share their experience with other users as well as to improve web-hosting.com's services. The collected information, including user opinions, testimony and other submitted information is aggregated. This information is not identifiable to any particular user. However, web-hosting.com may employ action "tags" (also known as single pixel gifs or web beacons) to tag users after they have voted, in order to prevent the same user from voting multiple times on the same issue. This "tag" is not correlated with the subject user's individual information.
+
+#### 5\. Surveys
+
+web-hosting.com may occasionally conduct user surveys to better target Our content to Our audience. We sometimes share the aggregated demographic information in these surveys with Our sponsors, advertisers and partners. However, in doing so, We will never share specific user information with any third party.
+
+### CHILDREN
+
+Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), We will never knowingly request personally identifiable information from anyone under the age of 13 without first requesting parental consent.
+
+### USAGE TRACKING
+
+web-hosting.com tracks user traffic patterns throughout its various sites. However, We do not correlate this information with specific data about individual users. web-hosting.com does break down overall usage statistics according to a user's domain name, browser type, and Multipurpose Internet Mail Extension ("MIME") type by gathering such information from the browser string (information contained in every user's browser).
+
+web-hosting.com sometimes tracks and catalogs the search terms entered by users in Our Search function. However, this tracking is never associated with individual users. We use tracking information to determine which areas of Our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps Us continue to improve Our services for Our users.
+
+### COOKIES
+
+We may place a text file called a "cookie" in the browser files of Your computer. The cookie itself does not contain personal information, although it will enable Us to relate Your use of this site to information that You have specifically and knowingly provided. The only personal information a cookie can contain is information supplied by the user. A cookie cannot read data from the user's hard disk or read cookie files created by other sites. web-hosting.com uses cookies to track user traffic patterns (as described above).
+
+Our advertising system delivers a one-time cookie to improve tracking of advertisement impressions and click rates.
+
+You can refuse cookies by turning the cookie function off in Your browser. If Your browser is set to provide a warning before the cookie is accepted, You will receive the warning message with each cookie. You do not need to have cookies turned on to use web-hosting.com's site. However, You will need to enable/accept cookies if You wish to actively participate in Our message boards, forums, polling and surveys.
+
+### USE OF INFORMATION
+
+web-hosting.com uses information voluntarily submitted by Our users to enhance the user experience in Our network of sites, whether by providing interactive or personalized elements on the sites or by improving future content in response to the interests of Our users.
+
+As stated above, We use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regularly set schedule corresponding with the frequency of the particular publication, and occasionally send out special editions when We think subscribers might be particularly interested in something We are doing. web-hosting.com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
+
+We use tracking information to determine which areas of Our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps Us continue to build a better service for You. We track search terms entered in Search function as one of many measures of what interests Our users. But We don't track which terms a particular user enters.
+
+web-hosting.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This enables Our advertisers to advertise more effectively, and allows Our users to receive advertisements that are tailored to their needs. Because We don't track the usage patterns of individual users, an advertiser or sponsor will never know which particular user clicked their advertisement.
+
+### SHARING OF THE INFORMATION
+
+web-hosting.com uses the above-described information to tailor Our content to suit Your needs and help Our advertisers better understand its audience's demographics. This is essential to keeping Our select services free. We will not share information about individual users with any third party, except in order to comply with applicable law or valid legal process or to protect the personal safety of Our users or the public.
+
+### SECURITY
+
+web-hosting.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the information provided by Our customers.
+
+Our sites contain links to other sites. web-hosting.com is not responsible for the privacy practices or the content of such other websites.
+
+### OPT-OUT POLICY
+
+We give users options wherever necessary and practical. Such choices include:
+
+  * The option to not register to receive Our electronic newsletters; and 
+  * The option to not participate in certain interactive areas, which completely obviates Our need to gather any personally identifiable information from Our users.
+
+
+
+### YOUR CONSENT
+
+By using this site, You consent to the collection and use of this information by web-hosting.com. If We decide to change Our Privacy Policy, We will post those changes on this page so that You are always aware of what information We collect, how We use it, and under what circumstances We disclose it.
+
+### NECESSARY DISCLOSURE
+
+We will not share Your personal information except with a third party to assist Us in the processing or securing of Your personal information or when We are required by law unless We have given You notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or We must comply with a legal process served on Our web site. We may also need to give out Your information if one of Our partners requires it, but these situations are rare.
+
+### PERSONAL INFORMATION FOLLOWING TERMINATION OF ACCOUNT
+
+When Your web-hosting.com account is cancelled (either voluntarily or involuntarily) all of Your personally identifiable information is placed in "deactivated" status within Our corresponding databases. However, You should know that deactivation of Your account does not mean Your personally identifiable information has been deleted from Our database entirely. We will retain and use Your personally identifiable information if necessary in order to resolve disputes or enforce Our agreements.
+
+### CONTACT US
+
+If You have questions or concerns regarding this statement, You can contact web-hosting.com at [support@web-hosting.com](mailto:support@web-hosting.com). You can also write to Us at the following address:
+
+Expert Creations Inc, dba web-hosting.com  
+4435 S Eastern Ave  
+Las Vegas,  
+NV 89119  
+US
+
+[support@web-hosting.com](mailto:support@web-hosting.com)
