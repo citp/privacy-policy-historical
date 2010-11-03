@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safetyissues.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428015257id_/http%3A//www.safetyissues.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetyissues.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103215334id_/http%3A//www.safetyissues.com/site/privacy.html) for the most accurate reproduction.*
 
-# Safety Issues, Safety Articles, Safety products, Safety tips, SafetyIssues Community and Forums
+# SafetyIssues Personal and Public Safety News Articles
 
 **We are committed to protecting the privacy and security of our visitors  
 ** This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our site. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
