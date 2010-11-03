@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the swaylocks.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504065424id_/http%3A//www.swaylocks.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaylocks.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103182424id_/http%3A//www.swaylocks.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Swaylock's Privacy Policy and Promise
 
-## Privacy Policy and Promise
+## Swaylock's Network Privacy Policy and Promise
+
+The "Swaylock's Network" refers to the group of sites owned and administered by Swaylock's LLC, including Swaylocks.com and Quivermag.com.
 
 ## Our Promise
 
- 
+Swaylock's Network respects your privacy and promises to earn and keep your trust. At Swaylock's Network, we understand the importance of privacy, and we want you to be as comfortable as possible visiting our web site and using its services. All information about you is kept confidential and will not be used in ways that you have not consented, and we will not sell or disclose any information that identifies you to a third party without your explicit approval, except to the extent necessary to comply with applicable law, legal process or in legal proceedings where such information is relevant. 
 
-Swaylock’s respects your privacy and promises to earn and keep your trust. At Swaylock’s, we understand the importance of privacy, and we want you to be as comfortable as possible visiting our web site and using its services. All information about you is kept confidential and will not be used in ways that you have not consented, and we will not sell or disclose any information that identifies you to a third party without your explicit approval, except to the extent necessary to comply with applicable law, legal process or in legal proceedings where such information is relevant. 
-
-Questions regarding this policy and our practice should be directed to, by e-mail to feedback@swaylocks.com or by postal mail to Swaylock’s, 2128 Glencoe Ave, Venice, CA, 90291. 
+Questions regarding this policy and our practice should be directed to, by e-mail to feedback@swaylocks.com.
 
 **Privacy Policy**
 
@@ -18,9 +18,9 @@ This Privacy Policy is incorporated into and subject to the Terms and Conditions
 
 **Under 13**
 
-Policy Swaylock’s does not allow children under the age of thirteen (13) to register because Swaylock’s must comply with the Children's Online Privacy Protection Rule, which prohibits the online collection of personal information from people under 13. 
+Policy Swaylock's Network does not allow children under the age of thirteen (13) to register because Swaylock's Network must comply with the Children's Online Privacy Protection Rule, which prohibits the online collection of personal information from people under 13. 
 
-Please note that any information that you reveal in a public forum (such as a bulletin board or chat room/event) will be seen by third parties not related to Swaylock’s and is therefore not subject to this privacy policy. Also, if you link to a third party site from Swaylock’s, any information you reveal on that site is not subject to this Privacy Policy. You should consult the privacy policies of each site you visit.
+Please note that any information that you reveal in a public forum (such as a bulletin board or chat room/event) will be seen by third parties not related to Swaylock's Network and is therefore not subject to this privacy policy. Also, if you link to a third party site from Swaylock's Network, any information you reveal on that site is not subject to this Privacy Policy. You should consult the privacy policies of each site you visit.
 
 **Personal Information We Collect**
 
@@ -37,9 +37,9 @@ We also collect information about your use of our site, directly and through the
 
 **Use and Disclosure of Personal Information**
 
-Personal Information will not be released to third parties without your explicit permission. Swaylock’s may provide your information to third parties in aggregate with others' information, which does not allow you to be identified or contacted ("Aggregate Information"). For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. We might also inform a automobile company (that may or may not be an advertiser on our site) that "30 percent of our users live east of the Mississippi" or that "25 percent of our users have asked questions about fiberglass." Depending on the circumstances, we may or may not charge for this information. 
+Personal Information will not be released to third parties without your explicit permission. Swaylock's Network may provide your information to third parties in aggregate with others' information, which does not allow you to be identified or contacted ("Aggregate Information"). For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. We might also inform a automobile company (that may or may not be an advertiser on our site) that "30 percent of our users live east of the Mississippi" or that "25 percent of our users have asked questions about fiberglass." Depending on the circumstances, we may or may not charge for this information. 
 
-**How Swaylock’s Handles Privacy Internally**
+**How Swaylock's Network Handles Privacy Internally**
 
 We use industry-standard efforts to safeguard the confidentiality of your personal information, such as firewalls and Secure Socket Layers where appropriate. Nevertheless, absolute security does not yet exist on the Internet. 
 
@@ -51,10 +51,10 @@ Cookies: you can always disable cookies on your computer. We don't recommend you
 
 Any other questions? E-mail us at feedback@swaylocks.com. 
 
-**Updating Your Personal Information and Contacting Swaylock’s**
+**Updating Your Personal Information and Contacting Swaylock's Network**
 
-You can always contact us in order to delete your Personal Information from our systems by e-mailing us at info@Swaylock’s.com. You can always update the Personal Information that you have provided to us and change your Privacy choices by clicking the "update my information" on the web site. 
+You can always contact us in order to delete your Personal Information from our systems by e-mailing us at info@swaylocks.com. You can always update the Personal Information that you have provided to us and change your Privacy choices by clicking the "update my information" on the web site. 
 
 **Your Consent**
 
-Swaylock’s may change this Privacy Policy at any time by posting revisions to our web site. Your use of the site constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Policy. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site. 
+Swaylock's Network may change this Privacy Policy at any time by posting revisions to our web site. Your use of the site constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Policy. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site. 
