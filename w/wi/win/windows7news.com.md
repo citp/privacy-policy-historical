@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the windows7news.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412165302id_/http%3A//windows7news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7news.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103234832id_/http%3A//www.windows7news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windows 7 News
 
-### Tip: [Click here to run a free scan for common PC errors](http://windows7news.com/freescan/)
+May 19, 2008 
 
 Windows 7 News may from time to time collect names and/or details of website visitors. This may include the mailing list, blog comments sections and in various sections of the Windows 7 News site.These details will not be passed onto any other third party or other organisation unless we are required to by government or other law enforcement authority.
 
@@ -20,7 +20,7 @@ Windows 7 News is suitable for all ages, but not knowingly collect personal info
 
 This policy will be updated from time to time. If we make significant changes to this policy after that time a notice will be posted on the main pages of the website.
 
-  
+### Tip: [Click here to run a free scan for common PC errors](http://windows7news.com/freescan/)
 
-
-**About the Author** : Everton is based in London and has worked in the internet and mobile space for over ten years now, and before that worked in corporate strategy and consulting. He has a degree in Economics from Cambridge University, and currently runs the Portal and online operations for one of the largest ISPs in the UK.He also writes for **[Windows 8 News](http://www.windows8news.com/)** , **[Connected Internet](http://www.connectedinternet.co.uk/)** and **[One Tip A Day](http://www.onetipaday.com/)**.
+**GD Star Rating**  
+ _loading..._
