@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowfreedownloads.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028002931id_/http%3A//www.nowfreedownloads.com/privacy.asp%3Fq%3DDownload) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowfreedownloads.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103163438id_/http%3A//nowfreedownloads.com/privacy.asp%3FPID%3D72a74df4-a56f-4259-8289-6bc276d918c8%26ts%3D11/3/2010%25209%3A25%3A34%2520AM%26cr%3D1) for the most accurate reproduction.*
 
 # Download the Latest Software, Games, DVD Movies, Music, TV Shows and ebooks! - NowFreeDownloads.com
 
@@ -28,4 +28,4 @@ You can access all your personally identifiable information that we collect onli
 
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20091028002931id_/http%3A//www.nowfreedownloads.com/support.asp?q=Download).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20101103163438id_/http%3A//nowfreedownloads.com/privacy.asp%3FPID%3D72a74df4-a56f-4259-8289-6bc276d918c8%26ts%3D11/3/support.asp?PID=72a74df4-a56f-4259-8289-6bc276d918c8&ts=11/3/2010%2012:39:05%20PM&cr=1).
