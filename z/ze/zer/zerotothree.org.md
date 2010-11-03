@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zerotothree.org privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504053817id_/http%3A//www.zerotothree.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerotothree.org privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104003626id_/http%3A//www.zerotothree.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Zero To Three: Privacy Policy
+# ZERO TO THREE: Privacy Policy
 
 ZERO TO THREE has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our website. The following discloses our information gathering and dissemination practices for the website located at the URL [www.zerotothree.org](http://www.zerotothree.org/)
 
