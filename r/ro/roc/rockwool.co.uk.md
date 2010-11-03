@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwool.co.uk privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527213740id_/http%3A//www.rockwool.co.uk/terms%2Band%2Bconditions%2Bof%2Buse/privacy%2Bstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwool.co.uk privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103063800id_/http%3A//www.rockwool.co.uk/terms%2Band%2Bconditions%2Bof%2Buse/privacy%2Bstatement) for the most accurate reproduction.*
 
 # Privacy statement
 
