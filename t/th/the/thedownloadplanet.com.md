@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedownloadplanet.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506144132id_/http%3A//www.thedownloadplanet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedownloadplanet.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104113428id_/http%3A//thedownloadplanet.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy- Software Free Download - TheDownloadPlanet.Com - The Planet of Your Software
 
