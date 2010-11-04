@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the heritageonline.com.au privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027023709id_/http%3A//secure.heritageonline.com.au/Privacy-Commitment.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritageonline.com.au privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104205801id_/http%3A//secure.heritageonline.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Heritage Building Society - Privacy Policy
 
-Your path: [Home](https://web.archive.org/) > Privacy Policy
-
 ## People First is the way we do business
 
-At Heritage, we do things a little differently to the banks. For starters, we’re owned by members, not shareholders, so our focus is always on putting ‘ _People first_ ’ by providing member benefits - in the form of better rates and better service - rather than maximising profits. In everything we do, we put ‘ _People first_ ’. We actively encourage people to come in to our branches. We keep them open for longer hours. We don’t turn our backs on less-populated and rural areas. And unlike the banks, we’re opening new branches all the time, instead of closing them.
+At Heritage, we do things a little differently to the banks. For starters, we’re owned by members, not shareholders, so our focus is always on putting ‘ _People first_ ’ by providing member benefits - in the form of better rates and better service - rather than maximising profits. In everything we do, we put ‘ _People first_ ’. We actively encourage people to come in to our branches and we keep them open for longer hours. 
 
 ## Heritage Building Society Privacy Policy - Our Privacy Commitment
 
@@ -98,7 +96,7 @@ Depending on any legal obligations to retain your personal information for a cer
 
 We appreciate that you may have concerns in relation to the confidentiality and security of your personal information on the internet. Therefore, we have implemented systems to ensure that your personal information is secure and confidential when you access our website or Heritage on-line internet banking.
 
-When we collect your personal information over the internet, it proceeds via our secure server utilising encryption technology. This helps to protect against unauthorised access to your personal information over the Internet. Your stored personal information is also protected from unauthorised access through the use of multiple firewalls, secure passwords and sign-in processes. Further information about the security systems we employ to protect your personal information is available at [www.heritageonline.com.au](http://www.heritageonline.com.au/ "Heritage Building Society - Corporate Website").
+When we collect your personal information over the internet, it proceeds via our secure server utilising encryption technology. This helps to protect against unauthorised access to your personal information over the Internet. Your stored personal information is also protected from unauthorised access through the use of multiple firewalls, secure passwords and sign-in processes. Further information about the security systems we employ to protect your personal information is available at [here](https://web.archive.org/Online-Services/Find-Out/Online-Banking/Security.aspx).
 
 While our website and Heritage on-line internet banking rely on the highest levels of technology to ensure maximum security, no data transmission over the internet can be guaranteed to be totally secure.
 
@@ -108,16 +106,29 @@ To assist us in protecting your personal information, we expect you to keep conf
 
 We maintain the quality of your personal information by taking reasonable steps to ensure that the information collected, used and disclosed is accurate, complete and up-to-date.
 
-You may access your personal information at any time by visiting any of our branches, by telephoning our Contact Centre on 13 14 22 or on-line at [www.heritageonline.com.au](http://www.heritageonline.com.au/ "Heritage Building Society - Corporate Website"). In the event that you make a request to access personal information that has been archived, we may charge you a fee. The fee will be discussed with you prior to us actioning your request. We are unable to give you access to your personal information if we are prevented by law or if access would reveal personal information of another person.
+You may access your personal information at any time by visiting any of our branches, by telephoning our Contact Centre on 13 14 22 or through Heritage on-line internet banking. In the event that you make a request to access personal information that has been archived, we may charge you a fee. The fee will be discussed with you prior to us actioning your request. We are unable to give you access to your personal information if we are prevented by law or if access would reveal personal information of another person.
 
-You may also update your personal information at any time by visiting any of our branches, by telephoning our Contact Centre on 13 14 22 or on-line at [www.heritageonline.com.au](http://www.heritageonline.com.au/ "Heritage Building Society - Corporate Website"). We encourage you to advise us immediately if you change your contact details (such as your phone number or address).
+You may also update your personal information at any time by visiting any of our branches, by telephoning our Contact Centre on 13 14 22 or through Heritage on-line internet banking. We encourage you to advise us immediately if you change your contact details (such as your phone number or address).
 
 ## Do we ever change our Privacy Policy and Privacy Commitment?
 
-From time to time, we may need to review our Privacy Policy. We reserve the right to change our Privacy Policy at any time and to notify you by posting an updated version on our website at [www.heritageonline.com.au](http://www.heritageonline.com.au/ "Heritage Building Society - Corporate Website").
+From time to time, we may need to review our Privacy Policy. We reserve the right to change our Privacy Policy at any time and to notify you by posting an updated version here on our website.
 
 ## Do you have any concerns or questions about our Privacy Policy or Privacy Commitment?
 
 If you have any concerns or questions about our Privacy Policy, or the way in which we manage your personal information, you may contact us by:
+
+**Mail:**   
+The Privacy Officer  
+Heritage Building Society  
+Reply Paid 190   
+Toowoomba QLD 4350 _(no stamp required if posted in Australia)_
+
+**Telephone:**   
+13 14 22
+
+**E-Mail:**   
+[feedback@hbs.net.au](mailto:feedback@hbs.net.au?subject=Heritage%20Building%20Society%20Privacy%20Policy) or [info@hbs.net.au](mailto:info@hbs.net.au?subject=Heritage%20Building%20Society%20Privacy%20Policy)   
+
 
 You may also obtain further information about privacy (including general privacy information, answers to frequently asked questions and links to the 10 National Privacy Principles) on the Office of the Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/ "Office of the Privacy Commissioner's website"). Alternatively, you may write to The Office of the Privacy Commissioner, GPO Box 5218, Sydney, New South Wales, 2001.
