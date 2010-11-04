@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bdstall.com privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629211708id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bdstall.com privacy policy that was archived on 2010-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101104204340id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,13 +10,13 @@
             <meta name="description" content="Find your desired item online and compare for lowest price. Open stall and post unlimited items for absolutely FREE. Bdstall is the largest online stall in Bangladesh">
             
             
-            <meta name="keywords" contents="computer,price,stall,brand,mobile,laptop,notebook,compare,monitor,printer,disk,bd,bangladesh,scanner,min">
+            <meta name="keywords" content="computer,price,stall,brand,mobile,laptop,notebook,compare,monitor,printer,disk,bd,bangladesh,scanner,min">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 SITE_URL = 'http://www.bdstall.com/';
 </script> 
 
-<link href="http://www.bdstall.com/system/common_templates/css/common.css?version=3" rel="stylesheet" type="text/css">
+<link href="http://www.bdstall.com/system/common_templates/css/common.css?version=9" rel="stylesheet" type="text/css">
 
 <!-- for featured product -->
 <script type="text/javascript" src="http://www.bdstall.com/system/common_templates/jquery-1.3.2.min.js"></script>
@@ -48,6 +48,7 @@ SITE_URL = 'http://www.bdstall.com/';
                                 <li><a href="http://www.bdstall.com/" class="selMenu">Home</a></li>
                                 <li><a href="http://www.bdstall.com/searchItemListing/">Item Listing</a></li>
                                 <li><a href="http://www.bdstall.com/searchStallListing/">Stall Listing</a></li>
+                                <li><a href="http://www.bdstall.com/forum/">Forum</a></li>
                                 <li><a href="http://www.bdstall.com/contactUs/">Contact Us</a></li>							
                             </ul>
 							<div class="signIns">
@@ -61,256 +62,17 @@ SITE_URL = 'http://www.bdstall.com/';
 				</div>					
 			</div>
 		</div>
-
 <div class="mainBody">
-<script language="javascript">
-
-function checkLoadStatus()
-{
-        if(http.readyState!=4 && http.readyState!=0 )
-	{
-			alert("Please wait...");
-			return ;
-	}
-
-        document.searchProduct.submit();
-}
-
-img="<img src='";
-	img=img +"http://www.bdstall.com/";
-	img=img +"system/images/ajax-loader.gif";
-	img=img +"'";
-	img=img +"/>";
-
-http = getHTTPObject();
-
-function selectItemType()
-{
-        http = getHTTPObject();
-
-        if (http.readyState != 4)
- 	{
-        document.getElementById("showSearchType").innerHTML=img;
-  	}
-
-	var CategoryID=document.searchProduct.CategoryID.value;
-
-	url  = 'http://www.bdstall.com/home/getItemType/' + CategoryID + '/';
-	
-	http.open( "GET" ,url, true);
-	http.onreadystatechange = showItemType;
-	http.send(null);
-}
-
-function showItemType()
-{
-	if (http.readyState == 4) 
- 	{
-		if(http.responseText=="")
-	  	{
-	    	return;
-	  	}
-	
-		document.getElementById("showSearchType").innerHTML=http.responseText;
-		
-  	}
-}
-
-function pollSubmit()
-{
-	var answerSelect=0;
-	
-	var pollID=document.poll.PollID.value;
-
-	for (i=0;i<document.poll.answer.length;i++)
-	{
-		if (document.poll.answer[i].checked==true)
-		{
-			answerSelect=1;
-			var answerID=document.poll.answer[i].value;
-			break //exist for loop, as target acquired.
-		}
-	}
-	
-	if(answerSelect==0)
-	{
-		alert("select any answer");
-		return;
-	}
-	else if(answerSelect==1)
-	{
-		url  = 'http://www.bdstall.com/home/pollAnswerSubmit/' + pollID + '/' + answerID + '/';
-		
-		http.open( "POST" ,url, true);
-		http.onreadystatechange = showPollAnswer;
-		http.send(null);
-	}
-}
-
-function showPollAnswer()
-{
-	if (http.readyState == 4) 
- 	{
-		if(http.responseText=="")
-	  	{
-	    	return;
-	  	}
-		else if(http.responseText=="error")
-		{
-			alert("sorry your answer failed to submit");
-			return ;
-		}
-		else
-		{
-			document.getElementById("pollAnswer").innerHTML="";
-
-			document.getElementById("pollAnswer").innerHTML=http.responseText;
-		}
-	
-		
-  	}
-}
-
-//this to be removed
-
-function checkFifa()
-{
-	if(document.fifa2010.ID.value == -1)
-            {
-			alert("Please select a country");
-			return false;
-            }
-	else if(document.fifa2010.youremail.value=="")
-            {
-			alert("Please enter your email.");
-			document.fifa2010.youremail.focus();
-			return false;
-            }
-        document.fifa2010.submit();
-}
-
-
-function checkEmail(email)
-{
-	if(!echeck(email))
-	{
-		alert("Please provide correct email format");
-		document.fifa2010.youremail.value="";
-		document.fifa2010.youremail.focus();
-                return false;
-	}
-}
-
-
-</script>
-
-<div class="leftNav">
-    <div class="leftNavBox">
-
-       
-
-        <form name="searchProduct" action="http://www.bdstall.com/advancedSearch/" method="post" enctype="multipart/form-data">
-        <h3>Product Search</h3>
-        <div class="productSearch">
-            <div class="searchBoxRow">
-                <label>Item</label>
-	            <div align="right">
-                	<input type="text" name="ListingTitle" value="" style="width:115px;">            
-            	</div>
+<div class="leftAddCon">
+                <div class="addObject">
+                <a href="http://www.apple.com/iphone/iphone-3gs/" target="_blank">
+                    <img src="http://www.bdstall.com/system/common_templates/images/add_iphone.jpg" border="0px;">
+                </a>
             </div>
-            <div class="searchBoxRow">
-                <label>Category</label>
-					<select name="CategoryID" onchange="selectItemType()"><option value="-1">select</option><option value="16">Camcorder</option><option value="7">Computer Accessories</option><option value="1">Desktop Computer</option><option value="15">Digital Camera</option><option value="17">Everything Else</option><option value="14">Health and Beauty</option><option value="2">Laptop</option><option value="18">Mobile Accessories</option><option value="10">Mobile Device</option><option value="4">Monitor</option><option value="8">Networking</option><option value="3">Notebook</option><option value="5">Printer</option><option value="19">Projector</option><option value="6">Scanner</option><option value="9">Software</option><option value="13">Web Hosting &amp; Domain</option></select>            
-            </div>
-            <div class="searchBoxRow" style="z-index:1">
-                <label>Item Type</label>
-                <div id="showSearchType">
-                                    <select name="ItemTypeID">
-                        <option value="-1">select</option>
-                    </select>
-				                </div>	
-            </div>
-            <div class="searchBoxRow">
-                <label>Brand</label>
-					<select name="BrandID"><option value="-1">select</option><option value="1">Acer</option><option value="2">AMD</option><option value="3">Apple</option><option value="4">Asus</option><option value="5">Benq</option><option value="6">Benq-Siemens</option><option value="7">Blackberry</option><option value="34">Canon</option><option value="8">Compaq</option><option value="32">Creative</option><option value="9">Dell</option><option value="10">Emachines</option><option value="40">Epson</option><option value="11">Fujitsu</option><option value="12">Gateway</option><option value="13">Gigabyte</option><option value="14">Hitachi</option><option value="15">HP</option><option value="16">HTC</option><option value="17">IBM</option><option value="18">Intel</option><option value="19">Lenovo</option><option value="20">LG</option><option value="35">LiteOn</option><option value="39">Mercury</option><option value="37">Micronet</option><option value="21">Motorola</option><option value="22">MSI</option><option value="23">NEC</option><option value="24">Nokia</option><option value="31">Others</option><option value="25">Philips</option><option value="26">Samsung</option><option value="27">Sanyo</option><option value="38">Sony</option><option value="28">Sony Ericsson</option><option value="29">Toshiba</option><option value="36">Transcend</option><option value="30">twinMos</option><option value="33">Verbatim</option></select>            </div>
-            <div class="searchBoxRow">
-                <label>Price</label>
-            	<div align="right">
-                <input type="text" name="minPrice" value="" size="4" style="width:48px;">
-            	To <input type="text" name="maxPrice" value="" size="4" style="width:48px;">
-            	</div>
-            </div>
-            <div class="searchBoxRow">
-                <label>Stall</label>
-					<select name="StallID"><option value="-1">select</option><option value="53">A. H. Computer</option><option value="58">Access Asia Ltd</option><option value="44">Bright Distribution &amp; Out</option><option value="61">Business Automation Limit</option><option value="31">Computer Archives</option><option value="39">Computer City Technologie</option><option value="35">Computer Planet</option><option value="54">Computer Point</option><option value="8">Computer Source</option><option value="13">Computer Source Ltd.</option><option value="41">Computer VIllage</option><option value="18">Computer Village</option><option value="25">Creative Solution</option><option value="14">Daffodil  Computers</option><option value="19">Dolphin Computers Ltd.</option><option value="4">Electra Telecom BD Ltd.</option><option value="28">Evermarch Bangladesh</option><option value="27">Executive Technologies Lt</option><option value="3">Express System Ltd.</option><option value="26">First IT Collection</option><option value="11">Flora Limited</option><option value="15">Foresight</option><option value="1">Global Brand Pvt. Ltd.</option><option value="30">Global Touch</option><option value="23">Grand Central Computer</option><option value="45">Health Care Product as an</option><option value="57">Home based money earning </option><option value="16">Index IT Limited</option><option value="22">Infosys</option><option value="55">Integra International Ltd</option><option value="51">International Office Mach</option><option value="24">Intimacy Computer &amp; Solut</option><option value="17">Ipsita Computers Ltd.</option><option value="50">IT solutions</option><option value="12">J.A.N  ASSOCIATES  LTD.</option><option value="59">JTL TECHNOLOGIES</option><option value="29">Kinar Dot Com</option><option value="7">Kotha Dot Com</option><option value="10">LG Mobile Concept Shop</option><option value="6">Maa Enterprise</option><option value="46">Metro Coverage</option><option value="49">Mobile Zone</option><option value="36">Monarch Vision</option><option value="21">My Mobile</option><option value="43">Net Cyber Technology</option><option value="5">Niko Telecom</option><option value="9">Officextracts</option><option value="2">Quartel Infotech Limited</option><option value="32">Ryans IT Limited</option><option value="52">S.R. International Techno</option><option value="37">Sahara Computer.</option><option value="20">Smart Technologies</option><option value="38">SourceEdge Limited</option><option value="56">Star Tech &amp; Engineering L</option><option value="62">Starauntu telecom</option><option value="60">Symphony Sales Center</option><option value="40">System Palace Ltd.</option><option value="42">Tech View Limited</option><option value="33">Techno Care Computers Ltd</option><option value="34">Techno Palace</option><option value="48">United Computer Center</option></select>            </div>
-            <div class="searchBoxRow">
-                <div class="btnCon">
-                    <input type="submit" class="submit" value="Search" onclick="checkLoadStatus()">
-                </div>
-            </div>	
-        </div>
-       </form> 		
+    <div class="addObject">
+        <img src="http://www.bdstall.com/system/common_templates/images/featAdd.gif">
     </div>
-    <div class="leftNavBox">
-        <h3>Browse By Category</h3>
-        <div class="browseByCat">
-            <ul>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/16/">Camcorder</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/7/">Computer Accessories</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/1/">Desktop Computer</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/15/">Digital Camera</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/17/">Everything Else</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/14/">Health and Beauty</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/2/">Laptop</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/18/">Mobile Accessories</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/10/">Mobile Device</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/4/">Monitor</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/8/">Networking</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/3/">Notebook</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/5/">Printer</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/19/">Projector</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/6/">Scanner</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/9/">Software</a></li>
-                		                <li><a href="http://www.bdstall.com/searchItemListingByCategory/index/13/">Web Hosting &amp; Domain</a></li>
-                            </ul>
-        </div>
-    </div>
-<!--
-    <div class="leftNavBox">
-        <a href="http://twitter.com/bdstall"><img src="http://www.bdstall.com/system/images/t.png?>" border="0" TARGET="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="http://www.bdstall.com/system/images/f.png?>">&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="http://www.bdstall.com/system/images/rss.png?>">
-    </div>
-
--->
-    <!-- disabled poll module
-    <div class="leftNavBox">
-    <form name="poll" action=""  method="post">
-        <h3>Poll</h3>
-        <div class="poll">
-                        
-            <div id="pollAnswer" >
-			                        <br class="clear" /> 
-                        <div class="searchBoxRow stdGapTop">
-                            <div class="btnCon">
-                                <input type="button" class="submit" value="Submit" onclick="pollSubmit()"/>
-                            </div>
-                        </div>
-			
-			
-           </div>
-
-        </div>
-    </form>    
-    </div>
-    -->
 </div>
-<!-- start of application view -->
-
-	<script language="javascript">
-
-</script>
-
 <form name="clientForm" action="" method="post">
  
 <input type="hidden" name="UserTypeID" value="">
@@ -379,11 +141,9 @@ corrections. <br></p>
     <br class="clear">	
 
 </form>
-
-<!--  end of application view -->
-
+<br class="clear">
 </div>
-		<div class="footer">
+<div class="footer">
 			<div class="footer_up">
                 <ul>
                     <li><a href="http://www.bdstall.com/">Home</a></li>
