@@ -1,33 +1,53 @@
-> *The following text is extracted and transformed from the luluguinness.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718050555id_/http%3A//www.luluguinness.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luluguinness.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105004017id_/http%3A//www.luluguinness.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# privacy
+# Privacy Policy
 
-  
-We are committed to protecting your privacy. We will not share, rent or sell your personal information without your consent.   
-We collect information when an order is placed on our site. We hold personal information such as name, address and phone number to allow us to fulfill your order and manage your account  
-We use the information you provide during the checkout process to process your orders and email your order confirmation. We do not hold credit card details. These are passede directly onto our payment partners system and are not recorded on our system. Unless you ask us not to, we may also use your e-mail address to tell you about changes in our services or offers we think you will find valuable. You always have the option to "opt-out" of our email program at anytime. If at any time you no longer wish to receive information, emails or notices from Lulu Guinness, simply email us at [technical@luluguinness.com](mailto:technical@luluguinness.com)
+ 
 
-We do not store any of your personal information on our Site, unless you choose to participate in the "Your Account" section of our Site. By setting up "Your Account," you can create your own secure, personalized account to store shipping and billing addresses that you may wish to use on a recurring basis. This convenience will avoid your having to provide us with the same information on subsequent purchases. You will always have the right to access, modify or delete information in "Your Account." 
+**PRIVACY POLICY**
 
-We do store specific shipping information off of our Site, on our Order Database to be used solely for processing your order. We do not share, sell, trade or rent your personal information to third parties. We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+Lulu Guinness Holdings Ltd ("LULU GUINNESS", "we", "our", "us") and its subsidiary companies respect the privacy rights of its online visitors ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We have adopted a corporate wide Privacy Policy that guides how we collect, store and use the information that you provide us with. As part of our commitment to your privacy rights and security, our website has been certified by Cybertrust. 
 
-From time to time our Site requests information from users via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. This information will be used to notify winners and for purposes of monitoring or improving the use and satisfaction of our Site. 
+If you are under 16, we require that you inform a parent or guardian about Lulu Guinness Ltd’s Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering with LULU GUINNESS LTD or placing an order with Lulu Guinness Ltd. 
 
-Any links to third party websites on our Site are provided solely as a convenience to you. If you use these links, you will leave our Site. We have not reviewed all of these third party sites and do not control and are not responsible for any of these sites, their content or their privacy policy. We accept no responsibility for web sites or other information, practices or products of other parties linked to the Website. Your dealings with persons found via the Website are between you and such persons and we will not be liable for any loss or damage arising out of such dealings. If you decide to access any of the third party sites linked to our Site, you do so at your own risk. 
+The following information is provided by Lulu Guinness Ltd to enable our online visitors to be fully informed of our Privacy Policies. By visiting [www.luluguinness.com](http://www.luluguinness.com/), you are accepting and consenting to the practices described in this Privacy Policy and the Terms and Conditions. 
 
-**Cookies**  
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to provide you with extra features on our Site. The cookies do not contain any information that would identify you personally. Lulu Guinness uses cookies only for determining the traffic on our Site and enhancing your visit. 
+This Privacy Policy does not apply to websites maintained by other companies or organisations to which we link. Lulu Guinness Ltd is not responsible for any personal information you submit to third parties via our website. Please ensure that you read the Privacy Policy of such other companies or organisations before submitting your details. 
 
-SECURITY 
+**WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND HOW?**  
+Lulu Guinness Ltd collects personal information in several ways when you place an order or register for a service offered by Lulu Guinness Ltd. If an order is placed with us, we need to hold personal information including your name, email address, phone numbers, home address, shipping and credit card billing address(es) so that we can process and fulfil your order. Saved card details will never be shared with third parties and will only be used to process your order, using our payment partner's systems. Additionally we may also obtain information as a result of authentication or identity checks. Sometimes we may ask for your telephone number. This number may be given to our courier for delivery services. These details allow us to process your order and to let you know the status of your order. 
 
-**Our Commitment**  
-Lulu Guinness is committed to using our best efforts to ensure the security of your transactions on www.luluguinness.com (the "Site") and protecting the privacy of the information you chose to share with us. By choosing to visit our Site, you are accepting the practices, terms and conditions described in this Security and Privacy policy. Please feel free to contact us with any questions or concerns you may have regarding these policies. 
+**WHAT ABOUT COOKIES?**  
+Our site uses cookies to keep track of how often you visit our site, the contents of your shopping cart, previous purchases and to deliver content specific to your interests. (A cookie is a piece of information that is stored on your computer's hard drive by your web browser which tracks your movements within websites.) Most browsers are automatically set to accept cookies but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our website, including the ability to purchase items. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
-References to "we", "us" or "our" throughout the Site are to Lulu Guinness. The use of the Site and the purchase of any goods from the Website is governed by these terms and conditions. We reserve the right to modify these terms and conditions from time to time without notice to you. 
+**HOW THIS INFORMATION MAY BE USED, INCLUDING ANYONE IT MIGHT BE SHARED WITH?  
+**Lulu Guinness Ltd may use your personal information for the processing of orders, payments and to provide you with a personalised shopping experience. We will also use your details to fulfil and deliver your orders and manage your account. Personal Information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. Your personal information may also be shared with other trading divisions within the Lulu Guinness Ltd group. Where there is a legal obligation to do so, we may disclose your information to any relevant regulatory body. 
 
-There is no charge imposed by us for accessing the Website but you must pay the cost of the communications link you use to visit the Website. Access to the Website may be suspended, restricted or terminated at any time. 
+We may also use your personal information to send you marketing updates but only ever in accordance with your preferences (as detailed in the next section). We never sell your details to third party marketing companies. 
 
-**Secure Ordering**  
-We make every effort to protect your online order information by using Secure Sockets Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than Lulu Guinness. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." It is important for you to protect against unauthorized access to your credit card information, to your password and to your computer. 
+We do collate statistical information about site traffic, sales and other commercial information which we may pass on to trusted third parties but these statistics do not include any information which can identify you personally. We see this as a value-added service helping you to find useful products or services. 
 
-Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you'll be unable to connect to the server so you won't have to worry about mistakenly placing an order through an unsecured connection. If you can't access the secure server for whatever reason, please email us at [technical@luluguinness.com](mailto:technical@luluguinness.com) and we will do our best to help.
+Finally, we may use your personal information for our internal marketing and demographic studies, together with non-personal data to monitor customer patterns so we can consistently improve our site design to better meet our visitors' needs. 
+
+From time to time Lulu Guinness Ltd may employ third party business partners to collect personal information on Lulu Guinness Ltd 's behalf. In such cases, these third parties will be subject to confidentiality agreements and instructed by Lulu Guinness Ltd to comply fully with the Lulu Guinness Ltd Privacy Policy. 
+
+**MARKETING OPT-IN AND OPT-OUT PROVISION**  
+When you register, we will provide a link to the Privacy Policy and consent button for the collection of your personal data. 
+
+In addition, you will be given the option to opt-out of subscribing to: 
+
+(i) Our regular update service which will send you email alerts for new products, features, enhancements, special offers, upgrade opportunities, contests and events of interest. Such alerts may include marketing information about Lulu Guinness Ltd, our subsidiaries or selected business partners; and/or 
+
+At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link, simply follow the indications in the e-mail. 
+
+**HOW YOU CAN ACCESS AND IF NECESSARY, CHANGE THE PERSONAL INFORMATION LULU GUINNESS LTD MAINTAINS**  
+If for any reason you are concerned that the personal information held by Lulu Guinness Ltd is not correct, please visit the website and, after logging into the site using the "My Account" menu on the home page, your personal information will be made available for review and change. Only you or, upon your request, the Customer Care department, may access your personal data from the website using your password and User ID. Information may be changed online within My Details, Shipping Details, and My Preferences. If you change your billing or shipping address while your order is still being processed, the order will be re-processed through customer finance check. If you prefer, you may contact us by email at [shop@luluguinness.com](mailto:shop@luluguinness.com) and we will amend your personal details. 
+
+**SAFEGUARDING YOUR PERSONALLY IDENTIFIABLE INFORMATION**  
+We will use our best endeavours to maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided us with. When you place an order or access your account information, we use a Secure Socket Layer (SSL) encryption which encrypts your information before it is sent to us to protect it from unauthorised use. In addition, we will take reasonable steps to ensure that third party business partners' to whom we transfer any data will provide sufficient protection of that personal information. 
+
+**WHERE AND HOW TO ASK QUESTIONS OR FILE COMPLAINTS**  
+If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered, if you require more information please go to the Contact Us section of the web site and send an e mail to the relevant Lulu Guinness Ltd department. If you wish to talk to a member of the Lulu Guinness Ltd  online Customer Service Team please call +44 (0) 843 2080177                
+or write to: c/o Data Protection Officer, LULU GUINNESS LTD Ltd, 326 Kensal Road, London, W10 5BZ. 
+
+ 
