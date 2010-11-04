@@ -1,80 +1,84 @@
-> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421062556id_/http%3A//ww2.libertytravel.com/SecurityPolicy.jsp%3Futm_source%3D%26utm_medium%3D%26utm_campaign%3D%26leadsourceid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104202417id_/http%3A//ww2.libertytravel.com/SecurityPolicy.jsp%3Fleadsourceid%3D) for the most accurate reproduction.*
 
-# Privacy Policy | Your Security and Privacy | Liberty Travel
+# Privacy & Security Policy | Your Security and Privacy | Liberty Travel
 
-Liberty Travel, Inc. ("Liberty") wants you to know how we address privacy issues on the libertytravel.com web site (the "site"). Liberty provides the "Privacy Policy" to explain how your personal information will be treated by Liberty. Liberty reserves the right to amend this Privacy Policy at any time. Your continued use of this Site following such modifications will be conclusively deemed acceptance by You of any changes to this Privacy Policy. Liberty will provide reasonable notice that this Privacy Policy has been changed on our web site; Please watch for such notices as individual email notice may not be provided.
+This Privacy and Security Policy ("Policy") explains how your personal information will be treated by Liberty Travel ("we" "our" or "us"). We are firmly committed to protecting the privacy and confidentiality of personal information and we maintain robust physical, electronic and procedural safeguards to protect personal information in our care. We reserve the right to amend this Policy at any time. Your continued use of our services or those on www.libertytravel.com ("Website") following such modification will be conclusively deemed acceptance by you of any changes to this Policy. The term "Third Party" used in this Policy means any entity other than us.
 
-The term "Third Party" used in this Privacy Policy means any entity other than Liberty.
+**Collection of personal information from site users of our Website**  
+Where practical we will collect personal information directly from you. Generally this will be collected by us when you deal with us either in person, by telephone, letter, facsimile, email or when you visit our Website. Without limitation, we may collect your personal information as follows:
 
-I. COLLECTION OF PERSONAL INFORMATION FROM SITE USERS
+A) We collect and/or track (1) the home server domain names, e-mail addresses, IP addresses, type of computer, and type of web browser of visitors to the Website, (2) the e-mail addresses of visitors that communicate with us or the Website via e-mail, (3) information knowingly provided by the visitor in online forms (including travel preferences, such as seat selection, meal requests, frequent flyer/hotel/car rental program information, and ticketing options), registration forms, surveys, and contest entries (including name, address, e-mail and other personal profile data), (4) aggregate and user-specific information regarding page views and other online activities, and (5) other information gathered through our weblogs or other interactive forums. You can choose not to provide information to us, but in general some information about you is required in order for you to utilize the Website and/or to purchase products or services; complete a traveler profile; participate in a survey, contest, or sweepstakes; or initiate other transactions on the Website. When you make travel or other arrangements for someone else through the Website, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences.
 
-  * Liberty may collect and/or track (1) the home server domain names, e-mail addresses, type of computer, and type of Web browser of visitors to the Site, (2) the e-mail addresses of visitors that communicate with Liberty or the Site via e-mail, (3) information knowingly provided by the visitor in online forms, registration forms, surveys, and contest entries (including name, address, e-mail and other personal profile data), and (4) aggregate and user-specific information regarding page views.
-  * When a visitor performs a search within the Site, Liberty may record information identifying the visitor or linking the visitor to the search performed. Liberty may also record limited information associated with every search request made by the visitor and use that information to, among other things, solve technical problems with the service and to calculate overall usage statistics.
-  * Liberty may place Internet "cookies" on visitors’ hard drives. Internet cookies save data about individual visitors, such as the visitor’s name, password, user-name, screen preferences, the pages of a site viewed by the visitor, and the advertisements viewed or clicked by the visitor. When the visitor revisits the Site, Liberty may recognize the visitor by the Internet cookie and customize the visitor’s experience accordingly. Visitors may decline Internet cookies, if any, by using the appropriate feature of their Web client software, if available; however, this may impair certain features of the Site.
+B) We place "cookies" on visitors’ hard drives. Cookies save data about individual visitors, such as the visitor’s name, password, username, screen preferences, the pages of a site viewed by the visitor, and the advertisements viewed or clicked by the visitor. When the visitor revisits the Website, we may recognize the visitor by the cookie and customize the visitor’s experience accordingly. Visitors may decline cookies, if any, by using the appropriate feature of their web client software, if available; however, this may impair certain features of the Website.
+
+C) When a visitor performs a search within the Website, we may record information identifying the visitor or linking the visitor to the search performed. We may also record limited information associated with every search request made by the visitor and use that information to, among other things, solve technical problems with the service and to calculate overall usage statistics. 
+
+We are required by law to obtain your consent to the collection of sensitive information. We will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Policy, unless you tell us otherwise.
+
+**Use of personal information collected**  
+We will only collect personal information that is relevant for the purposes for which it is to be used. We will take reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current. We may use personally identifiable information in a number of ways, such as: 
+
+A) To communicate with you about your account, or to communicate information about the Website.
+
+B) To build higher quality, more useful services such as by analyzing usage trends, and by measuring demographics and interests regarding specific areas of the Website. 
+
+C) To provide you with prompt and effective customer service. 
+
+D) To support the operation of the Website (such as account maintenance and record keeping), troubleshoot problems, resolve disputes, and to enforce our terms and conditions. 
+
+E) To inform you about our services.
+
+F) Ancillary purpose such as any one or more of the following purposes:
+
+  * Identification of fraud or error; 
+  * Regulatory reporting and compliance; 
+  * Developing, improving and marketing our products and services; 
+  * Servicing our relationship with you by, among other things, providing updates on promotions and services we think may interest you; 
+  * Involving you in market research gauging customer satisfaction and seeking feedback regarding our relationship with you; 
+  * To facilitate your participation in loyalty programs; 
+  * To analyze trends in sales and travel destinations; 
+  * For marketing activities; and 
+  * Internal accounting and administration. 
 
 
 
-II. USE OF PERSONAL DATA COLLECTED
+**Disclosure of personal information to third parties**  
+We may disclose personally identifiable information about you to third parties as follows:
 
-Liberty may use personally identifiable information in a number of ways, such as:
+A) With your consent. 
 
-  * To communicate with you about your account, or to communicate information about the Site.
-  * To build higher-quality, more useful services, such as by analyzing usage trends, and by measuring demographics and interests regarding specific areas of the Site.
-  * To provide you with prompt and effective customer service.
-  * To support the operation of the Site (such as account maintenance and record-keeping), troubleshoot problems, resolve disputes, and to enforce our Terms and Conditions.
-  * To inform you about services related to Liberty. You will have the option of opting out of further communications of this type by sending an email to:[unsubscribe@libertytravel.com](mailto:unsubscribe@libertytravel.com?subject=Unsubscribe) (Please refer to Section VII below.)
+B) To facilitate a transaction or communication with a Third Party that you have initiated. 
 
+C) To our agents and advisors (such as our accountants or attorneys). We only disclose the personal information necessary for them to provide their services to you or to us, and only under strict confidentiality restrictions. 
 
+D) As we believe necessary to: (1) comply with law (including court and government orders, and civil subpoenas); (2) enforce or apply our terms and conditions and rules and regulations and other agreements; or (3) protect the rights, property, or safety of our users, or others. 
 
-III. DISCLOSURE OF PERSONAL DATA COLLECTED
+E) If you partake (or we reasonably suspect that you are partaking) in any illegal or potentially illegal activity. We may disclose personal information even without a subpoena, warrant, or other court order, to the extent we feel is necessary to inform and cooperate with law enforcement agencies or other appropriate authorities. 
 
-Liberty may disclose personally identifiable information about you to Third Parties as follows:
+F) In aggregated form, i.e., information about multiple users collectively without identifying any individual user, such as the total number of visitors to the Website in a given week. 
 
-  * With your consent.
-  * To facilitate a transaction or communication with a Third Party that you have initiated.
-  * To Liberty’s agents and advisors (such as our accountants or attorneys). We only disclose the personal information necessary for them to provide their services to you or to us, and only under strict confidentiality restrictions.
-  * As Liberty believes necessary to: (a) comply with law (including court and government orders, and civil subpoenas); (b) enforce or apply Liberty's Terms and Conditions and Rules and Regulations and other agreements; or (c) protect the rights, property, or safety of Liberty, our users, or others.
-  * If you partake (or we reasonably suspect that you are partaking) in any illegal or potentially illegal activity. We may disclose personal information even without a subpoena, warrant, or other court order, to the extent we feel is necessary to inform and cooperate with law enforcement agencies or other appropriate authorities.
-  * In aggregated form, i.e., information about multiple users collectively without identifying any individual user, such as the total number of visitors to the Site in a given week.
-  * Due to circumstances beyond Liberty's control. Despite the precautions we take to protect your personal information, the unfortunate fact is that there is simply no such thing as a perfect security system. Also, we have no control over the security of the Internet in general. As a result, we cannot guarantee that unauthorized persons will never gain access to your transmissions or information, or that personal information will never be disclosed in ways not covered by this Privacy Policy.
-  * In connection with a transfer, reorganization or otherwise, to a successor-in-interest to Liberty’s organization or its other material assets.
+G) Due to circumstances beyond our control. We shall take reasonable steps to protect the Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the personal information from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Despite the precautions we take to protect your personal information, the unfortunate fact is that there is simply no such thing as a perfect security system. Also, we have no control over the security of the internet in general. As a result, we cannot guarantee that unauthorized persons will never gain access to your transmissions or information, or that personal information will never be disclosed in ways not covered by this Policy. 
 
+H) In connection with a transfer, reorganization or otherwise, to a successor-in-interest to our organization or its other material assets. When a third party acts as our agent, we will ensure that the third party is willing to enter into a written agreement requiring the third party to provide at least the same level of privacy protection as is required by the relevant principles. 
 
+**Trans-Border data flows**  
+In providing our services to you it may be necessary for us to forward personal information to relevant overseas third party service providers. Please let us know if you have any objections to such transfers.
 
-IV. COLLECTION OF PERSONAL DATA FROM CHILDREN
+**Security of information**  
+We or our third party providers have implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. We uses advanced technology to ensure security on all data transmitted via the Website. Secure Sockets Layer (SSL) technology is used to transmit all data between browsers and our web server where applicable. In order to use the Website, users must be running an SSL-capable browser such as MS Internet Explorer 4.0 (or later version) or Netscape Navigator 4.0 (or a later version).
 
-To the extent that Liberty is able to determine the age of users by their submissions to, or communications with, the Site, Liberty will not knowingly (a) collect or post information from individuals under eighteen years of age ("Children" or "Child") without their parent’s or guardian’s consent, or (b) provide any personally identifying information collected from Children, regardless of its source, to any Third Party for any purpose whatsoever.
+**Opt-out**  
+Visitors may opt-out of having their personal information collected or used by us for secondary purposes, or used by us to send promotional correspondence to the visitor, by us via email at: [LibertyTravelNewsletter@libertytravel.com](mailto:LibertyTravelNewsletter@libertytravel.com). 
 
-V. SECURITY MEASURES
+To the extent you choose to continue using the Website, however, we may use your personal information as may be reasonably necessary in connection with such use. For sensitive information, we will give you affirmative or explicit (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than those for which it was originally collected or subsequently authorized. 
 
-Liberty uses advanced technology to ensure security on all data transmitted via the Site. Secure Sockets Layer (SSL) technology is used to transmit all data between browsers and our web server where applicable. In order to use the Site, users must be running an SSL-capable browser such as MS Internet Explorer 4.0 (or later version) or Netscape Navigator 4.0 (or a later version).
+**Third Party sites**  
+The Website may contain links to other websites that we believe may offer useful information to visitors. Unless we explicitly state otherwise, we have no control over these Third Party sites and their privacy practices, and this Policy applies only to information you supply (or that we collect) in connection with use of the Website. You should review Third Party privacy policies in connection with visiting the sites.
 
-VI. THIRD PARTY WEBSITES
+**Access to and ability to correct personal information**  
+Upon request via postal mail or e-mail, we will, within a reasonable time period, provide to visitors a summary of any personally identifiable information retained by us regarding the visitor, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Visitors may modify, correct, change or update personally identifiable information that we have collected through the Website or may cause their personal record to be removed from our database, except where the burden or expense of providing these services would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated, by contacting us via postal mail or e-mail indicated below. 
 
-The Site may contain links to other Internet web sites. Unless we explicitly state otherwise, we have no control over these third party sites and their privacy practices, and this Privacy Policy applies only to information you supply (or that we collect) in connection with use of the Site. You should review third party privacy policies in connection with visiting the Sites.
+**Feedback and complaints**  
+We welcome your inquiries or comments about our Policy. Should you have any comments or complaints please contact us at [FeedbackLiberty@libertytravel.com](mailto:feedbackliberty@libertytravel.com?subject=Questions%20About%20Privacy%20Policy). We will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with this Policy. 
 
-VII. OPT-OUT RIGHT
-
-Visitors may opt-out of having their personal information collected by Liberty, used by Liberty for secondary purposes, or used by Liberty to send promotional correspondence to the visitor, by contacting Liberty via email at: [ unsubscribe@libertytravel.com](mailto:unsubscribe@libertytravel.com?subject=Unsubscribe) or via postal mail at the address below. To the extent you choose to continue using the Site, however, we may use your personal information as may be reasonably necessary in connection with such use.
-
-VIII. LIBERTY 'S RIGHT TO CONTACT VISITOR
-
-Liberty reserves the right to contact visitors to the Site regarding their records and reservations, as well as changes to the Terms and Conditions, Privacy Policy, or any other policies or agreements relevant to Site visitors.
-
-IX. ACCESS TO AND ABILITY TO CORRECT PERSONAL DATA
-
-Upon request via postal mail, e-mail, or telephone (during our regular business hours), Liberty will provide to visitors a summary of any personally identifiable information retained by Liberty regarding the visitor. Visitors may modify, correct, change or update personally identifiable information that Liberty has collected through the Site or may cause their personal record to be removed from Liberty's database by contacting Liberty via postal mail, e-mail, or the telephone number indicated below.
-
-X. CONTACT INFORMATION
-
-If you have any questions regarding this privacy policy or you would like to review, change, and/or remove your personal information, you may contact us at: 
-
-E-mail:   
-[ feedbackliberty@libertytravel.com](mailto:feedbackliberty@libertytravel.com?subject=Questions%20About%20Privacy%20Policy)
-
-Mailing address: 
-
-Liberty Travel  
-69 Spring Street  
-Ramsey, NJ 07446  
-Attn: eCommerce Dept.
+Policy Amended 12 March 2010
