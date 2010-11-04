@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the renjusblog.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508122552id_/http%3A//www.renjusblog.com/1999/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renjusblog.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104121853id_/http%3A//www.renjusblog.com/1999/12/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Friday, December 31, 1999 | [ 0 comments »](http://www.renjusblog.com/1999/12/privacy-policy.html#comments)
+
+Sponsored Links
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at renju[at]renjusblog.com.   
 At www.renjusblog.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.renjusblog.com and how it is used.   
@@ -23,6 +25,10 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **
 
-If you like this post then subscribe to the latest updates on this post through[Email by CLICKING HERE](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=487710&loc=en_US) or click the follow button on the right side.
+If you like this post then please [Tweet this](http://tools.bloggerplugins.org/twitter.php?url=http://www.renjusblog.com/1999/12/privacy-policy.html&title=Privacy%20Policy) or Subscribe to the latest updates on this post through [Email by CLICKING HERE](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=487710).
 
 **
+
+Search below for more related articles
+
+Loading
