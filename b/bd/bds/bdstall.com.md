@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bdstall.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629211708id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdstall.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104204340id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.*
 
 # check price for laptop, mobile, camera, accessories in Bangladesh: bdstall
 
 ### Privacy Notice Contents:
 
-[Our Commitment To Privacy](https://web.archive.org/web/privacyPolicy/#Privacy)   
-[The Information We Collect](https://web.archive.org/web/privacyPolicy/#info)   
-[Our Commitment To Data Security](https://web.archive.org/web/privacyPolicy/#Data)   
-[How To Access Or Correct Your Information](https://web.archive.org/web/privacyPolicy/#Correct)   
-[How To Contact Us](https://web.archive.org/web/privacyPolicy/#Contact)
+[Our Commitment To Privacy](https://web.archive.org/web/20101104204340id_/privacyPolicy/#Privacy)   
+[The Information We Collect](https://web.archive.org/web/20101104204340id_/privacyPolicy/#info)   
+[Our Commitment To Data Security](https://web.archive.org/web/20101104204340id_/privacyPolicy/#Data)   
+[How To Access Or Correct Your Information](https://web.archive.org/web/20101104204340id_/privacyPolicy/#Correct)   
+[How To Contact Us](https://web.archive.org/web/20101104204340id_/privacyPolicy/#Contact)
 
 ### 
 
@@ -61,7 +61,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 ###   
 How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by [login here....](https://web.archive.org/web/userLogin/index/) We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by [login here....](https://web.archive.org/web/20101104204340id_/userLogin/index/) We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -71,4 +71,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 ###   
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us.](https://web.archive.org/web/contactUs/)
+Should you have other questions or concerns about these privacy policies, please [contact us.](https://web.archive.org/web/20101104204340id_/contactUs/)
