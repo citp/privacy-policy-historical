@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c4slive.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601092954id_/http%3A//www.c4slive.com/do/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c4slive.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104082859id_/http%3A//www.c4slive.com/do/privacy.php) for the most accurate reproduction.*
 
 # C4SMembers.com fetish - fetish clips - female domination videos - forced orgasm video clips
 
