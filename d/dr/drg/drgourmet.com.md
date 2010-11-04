@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505005902id_/http%3A//www.drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104200650id_/http%3A//drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
 
 # Dr. Gourmet : Privacy Policy
 
@@ -10,4 +10,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 In short, we will never share your information with anyone without your advance written permission.
 
-Last updated: 02/02/06
+Last updated: 06/28/10
