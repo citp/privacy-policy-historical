@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shodanhq.com privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630193724id_/http%3A//www.shodanhq.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shodanhq.com privacy policy that was archived on 2010-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101104061508id_/http%3A//www.shodanhq.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>SHODAN - Computer Search Engine</title>
@@ -11,6 +11,9 @@
 		
 		<link href="http://yui.yahooapis.com/2.3.1/build/reset/reset-min.css" media="screen" rel="stylesheet" type="text/css">
 		<link href="/stylesheets/styles.css" media="screen" rel="stylesheet" type="text/css">
+		
+		
+
 	
 		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
 		<script type="text/javascript" src="/javascripts/mootools-core.js"></script>
@@ -52,7 +55,7 @@ fixed
 			</div>
 		</div>
 		<div id="middle">
-			<div style="margin: 0px; position: static; overflow: hidden; height: 0px;"><div id="options" style="margin: -325px 0px 0px;">
+			<div style="margin: 0px; position: relative; overflow: hidden; height: 0px;"><div id="options" style="margin: -325px 0px 0px;">
 				<div>
 					<h3>Filter by Country</h3>
 					<div id="map_wrapper">
@@ -66,16 +69,16 @@ fixed
 							<label for="http">HTTP (80)</label>
 						</li>
 						<li>
-							<input type="checkbox" name="telnet" class="service">
-							<label for="telnet">Telnet (23)</label>
-						</li>
-						<li>
 							<input type="checkbox" name="ftp" class="service">
 							<label for="ftp">FTP (21)</label>
 						</li>
 						<li>
 							<input type="checkbox" name="ssh" class="service">
 							<label for="ssh">SSH (22)</label>
+						</li>
+						<li>
+							<input type="checkbox" name="snmp" class="service">
+							<label for="snmp">SNMP (161)</label>
 						</li>
 					</ul>
 					<div style="clear: both;"></div>
@@ -176,1117 +179,981 @@ fixed
 
 		
 	</div>
-	<br><br><br>
 	<div id="footer">
+		<br><br><br>
 		<a href="/privacy">Privacy Policy</a> | 
 		<a href="/terms">Terms of Service</a>
 		© SHODAN
+		<br><br>
 	</div>
-	<br><br>
 	<script type="text/javascript">
 	google.load('visualization', '1', {packages: ['geomap']});
 	
 	function drawVisualization() {
 	  var data = new google.visualization.DataTable();
-	  data.addRows(273);
+	  data.addRows(239);
 	  
 	  data.addColumn('string', 'Country');
 	  data.addColumn('number', 'Scanned Hosts');
 	  data.addColumn('string', 'Description');
 	  
 	  
-	  	data.setValue(0, 0, "AF");
-		data.setValue(0, 1, 1196);
-		data.setValue(0, 2, "Afghanistan");
-		
-	  	data.setValue(1, 0, "AX");
-		data.setValue(1, 1, 0);
-		data.setValue(1, 2, "Åland Islands");
-		
-	  	data.setValue(2, 0, "AL");
-		data.setValue(2, 1, 1039);
-		data.setValue(2, 2, "Albania");
-		
-	  	data.setValue(3, 0, "DZ");
-		data.setValue(3, 1, 1181);
-		data.setValue(3, 2, "Algeria");
-		
-	  	data.setValue(4, 0, "AS");
-		data.setValue(4, 1, 221);
-		data.setValue(4, 2, "American Samoa");
-		
-	  	data.setValue(5, 0, "AD");
-		data.setValue(5, 1, 346);
-		data.setValue(5, 2, "Andorra");
-		
-	  	data.setValue(6, 0, "AO");
-		data.setValue(6, 1, 398);
-		data.setValue(6, 2, "Angola");
-		
-	  	data.setValue(7, 0, "AI");
-		data.setValue(7, 1, 173);
-		data.setValue(7, 2, "Anguilla");
-		
-	  	data.setValue(8, 0, "AQ");
-		data.setValue(8, 1, 5);
-		data.setValue(8, 2, "Antarctica");
-		
-	  	data.setValue(9, 0, "AG");
-		data.setValue(9, 1, 298);
-		data.setValue(9, 2, "Antigua and Barbuda");
-		
-	  	data.setValue(10, 0, "AR");
-		data.setValue(10, 1, 43493);
-		data.setValue(10, 2, "Argentina");
-		
-	  	data.setValue(11, 0, "AM");
-		data.setValue(11, 1, 662);
-		data.setValue(11, 2, "Armenia");
-		
-	  	data.setValue(12, 0, "AW");
-		data.setValue(12, 1, 42);
-		data.setValue(12, 2, "Aruba");
-		
-	  	data.setValue(13, 0, "AU");
-		data.setValue(13, 1, 193692);
-		data.setValue(13, 2, "Australia");
-		
-	  	data.setValue(14, 0, "AT");
-		data.setValue(14, 1, 39390);
-		data.setValue(14, 2, "Austria");
-		
-	  	data.setValue(15, 0, "AZ");
-		data.setValue(15, 1, 1153);
-		data.setValue(15, 2, "Azerbaijan");
-		
-	  	data.setValue(16, 0, "BS");
-		data.setValue(16, 1, 870);
-		data.setValue(16, 2, "Bahamas");
-		
-	  	data.setValue(17, 0, "BH");
-		data.setValue(17, 1, 1359);
-		data.setValue(17, 2, "Bahrain");
-		
-	  	data.setValue(18, 0, "BD");
-		data.setValue(18, 1, 2402);
-		data.setValue(18, 2, "Bangladesh");
-		
-	  	data.setValue(19, 0, "BB");
-		data.setValue(19, 1, 637);
-		data.setValue(19, 2, "Barbados");
-		
-	  	data.setValue(20, 0, "BY");
-		data.setValue(20, 1, 3441);
-		data.setValue(20, 2, "Belarus");
-		
-	  	data.setValue(21, 0, "BE");
-		data.setValue(21, 1, 32024);
-		data.setValue(21, 2, "Belgium");
-		
-	  	data.setValue(22, 0, "BZ");
-		data.setValue(22, 1, 417);
-		data.setValue(22, 2, "Belize");
-		
-	  	data.setValue(23, 0, "BJ");
-		data.setValue(23, 1, 104);
-		data.setValue(23, 2, "Benin");
-		
-	  	data.setValue(24, 0, "BM");
-		data.setValue(24, 1, 594);
-		data.setValue(24, 2, "Bermuda");
-		
-	  	data.setValue(25, 0, "BT");
-		data.setValue(25, 1, 158);
-		data.setValue(25, 2, "Bhutan");
-		
-	  	data.setValue(26, 0, "BO");
-		data.setValue(26, 1, 7752);
-		data.setValue(26, 2, "Bolivia, Plurinational State of");
-		
-	  	data.setValue(27, 0, "BA");
-		data.setValue(27, 1, 2226);
-		data.setValue(27, 2, "Bosnia and Herzegovina");
-		
-	  	data.setValue(28, 0, "BW");
-		data.setValue(28, 1, 83);
-		data.setValue(28, 2, "Botswana");
-		
-	  	data.setValue(29, 0, "BV");
-		data.setValue(29, 1, 0);
-		data.setValue(29, 2, "Bouvet Island");
-		
-	  	data.setValue(30, 0, "BR");
-		data.setValue(30, 1, 156916);
-		data.setValue(30, 2, "Brazil");
-		
-	  	data.setValue(31, 0, "IO");
-		data.setValue(31, 1, 0);
-		data.setValue(31, 2, "British Indian Ocean Territory");
-		
-	  	data.setValue(32, 0, "BN");
-		data.setValue(32, 1, 232);
-		data.setValue(32, 2, "Brunei Darussalam");
-		
-	  	data.setValue(33, 0, "BG");
-		data.setValue(33, 1, 30810);
-		data.setValue(33, 2, "Bulgaria");
-		
-	  	data.setValue(34, 0, "BF");
-		data.setValue(34, 1, 212);
-		data.setValue(34, 2, "Burkina Faso");
-		
-	  	data.setValue(35, 0, "BI");
-		data.setValue(35, 1, 18);
-		data.setValue(35, 2, "Burundi");
-		
-	  	data.setValue(36, 0, "KH");
-		data.setValue(36, 1, 804);
-		data.setValue(36, 2, "Cambodia");
-		
-	  	data.setValue(37, 0, "CM");
-		data.setValue(37, 1, 211);
-		data.setValue(37, 2, "Cameroon");
-		
-	  	data.setValue(38, 0, "CA");
-		data.setValue(38, 1, 477978);
-		data.setValue(38, 2, "Canada");
-		
-	  	data.setValue(39, 0, "CV");
-		data.setValue(39, 1, 276);
-		data.setValue(39, 2, "Cape Verde");
-		
-	  	data.setValue(40, 0, "KY");
-		data.setValue(40, 1, 516);
-		data.setValue(40, 2, "Cayman Islands");
-		
-	  	data.setValue(41, 0, "CF");
-		data.setValue(41, 1, 10);
-		data.setValue(41, 2, "Central African Republic");
-		
-	  	data.setValue(42, 0, "TD");
-		data.setValue(42, 1, 52);
-		data.setValue(42, 2, "Chad");
-		
-	  	data.setValue(43, 0, "CL");
-		data.setValue(43, 1, 14416);
-		data.setValue(43, 2, "Chile");
-		
-	  	data.setValue(44, 0, "CN");
-		data.setValue(44, 1, 530413);
-		data.setValue(44, 2, "China");
-		
-	  	data.setValue(45, 0, "CX");
-		data.setValue(45, 1, 0);
-		data.setValue(45, 2, "Christmas Island");
-		
-	  	data.setValue(46, 0, "CC");
-		data.setValue(46, 1, 0);
-		data.setValue(46, 2, "Cocos (Keeling) Islands");
-		
-	  	data.setValue(47, 0, "CO");
-		data.setValue(47, 1, 66937);
-		data.setValue(47, 2, "Colombia");
-		
-	  	data.setValue(48, 0, "KM");
-		data.setValue(48, 1, 7);
-		data.setValue(48, 2, "Comoros");
-		
-	  	data.setValue(49, 0, "CG");
-		data.setValue(49, 1, 63);
-		data.setValue(49, 2, "Congo");
-		
-	  	data.setValue(50, 0, "CD");
-		data.setValue(50, 1, 38);
-		data.setValue(50, 2, "Congo, The Democratic Republic of the");
-		
-	  	data.setValue(51, 0, "CK");
-		data.setValue(51, 1, 70);
-		data.setValue(51, 2, "Cook Islands");
-		
-	  	data.setValue(52, 0, "CR");
-		data.setValue(52, 1, 2916);
-		data.setValue(52, 2, "Costa Rica");
-		
-	  	data.setValue(53, 0, "CI");
-		data.setValue(53, 1, 347);
-		data.setValue(53, 2, "Côte d'Ivoire");
-		
-	  	data.setValue(54, 0, "HR");
-		data.setValue(54, 1, 6117);
-		data.setValue(54, 2, "Croatia");
-		
-	  	data.setValue(55, 0, "CU");
-		data.setValue(55, 1, 721);
-		data.setValue(55, 2, "Cuba");
-		
-	  	data.setValue(56, 0, "CY");
-		data.setValue(56, 1, 4105);
-		data.setValue(56, 2, "Cyprus");
-		
-	  	data.setValue(57, 0, "CZ");
-		data.setValue(57, 1, 57052);
-		data.setValue(57, 2, "Czech Republic");
-		
-	  	data.setValue(58, 0, "DK");
-		data.setValue(58, 1, 46566);
-		data.setValue(58, 2, "Denmark");
-		
-	  	data.setValue(59, 0, "DJ");
-		data.setValue(59, 1, 136);
-		data.setValue(59, 2, "Djibouti");
-		
-	  	data.setValue(60, 0, "DM");
-		data.setValue(60, 1, 274);
-		data.setValue(60, 2, "Dominica");
-		
-	  	data.setValue(61, 0, "DO");
-		data.setValue(61, 1, 9799);
-		data.setValue(61, 2, "Dominican Republic");
-		
-	  	data.setValue(62, 0, "EC");
-		data.setValue(62, 1, 4507);
-		data.setValue(62, 2, "Ecuador");
-		
-	  	data.setValue(63, 0, "EG");
-		data.setValue(63, 1, 20264);
-		data.setValue(63, 2, "Egypt");
-		
-	  	data.setValue(64, 0, "SV");
-		data.setValue(64, 1, 25512);
-		data.setValue(64, 2, "El Salvador");
-		
-	  	data.setValue(65, 0, "GQ");
-		data.setValue(65, 1, 98);
-		data.setValue(65, 2, "Equatorial Guinea");
-		
-	  	data.setValue(66, 0, "ER");
-		data.setValue(66, 1, 27);
-		data.setValue(66, 2, "Eritrea");
-		
-	  	data.setValue(67, 0, "EE");
-		data.setValue(67, 1, 7253);
-		data.setValue(67, 2, "Estonia");
-		
-	  	data.setValue(68, 0, "ET");
-		data.setValue(68, 1, 290);
-		data.setValue(68, 2, "Ethiopia");
-		
-	  	data.setValue(69, 0, "FK");
-		data.setValue(69, 1, 135);
-		data.setValue(69, 2, "Falkland Islands (Malvinas)");
-		
-	  	data.setValue(70, 0, "FO");
-		data.setValue(70, 1, 478);
-		data.setValue(70, 2, "Faroe Islands");
-		
-	  	data.setValue(71, 0, "FJ");
-		data.setValue(71, 1, 453);
-		data.setValue(71, 2, "Fiji");
-		
-	  	data.setValue(72, 0, "FI");
-		data.setValue(72, 1, 30899);
-		data.setValue(72, 2, "Finland");
-		
-	  	data.setValue(73, 0, "FR");
-		data.setValue(73, 1, 217667);
-		data.setValue(73, 2, "France");
-		
-	  	data.setValue(74, 0, "GF");
-		data.setValue(74, 1, 10);
-		data.setValue(74, 2, "French Guiana");
-		
-	  	data.setValue(75, 0, "PF");
-		data.setValue(75, 1, 222);
-		data.setValue(75, 2, "French Polynesia");
-		
-	  	data.setValue(76, 0, "TF");
-		data.setValue(76, 1, 0);
-		data.setValue(76, 2, "French Southern Territories");
-		
-	  	data.setValue(77, 0, "GA");
-		data.setValue(77, 1, 106);
-		data.setValue(77, 2, "Gabon");
-		
-	  	data.setValue(78, 0, "GM");
-		data.setValue(78, 1, 95);
-		data.setValue(78, 2, "Gambia");
-		
-	  	data.setValue(79, 0, "GE");
-		data.setValue(79, 1, 2087);
-		data.setValue(79, 2, "Georgia");
-		
-	  	data.setValue(80, 0, "DE");
-		data.setValue(80, 1, 766014);
-		data.setValue(80, 2, "Germany");
-		
-	  	data.setValue(81, 0, "GH");
-		data.setValue(81, 1, 823);
-		data.setValue(81, 2, "Ghana");
-		
-	  	data.setValue(82, 0, "GI");
-		data.setValue(82, 1, 934);
-		data.setValue(82, 2, "Gibraltar");
-		
-	  	data.setValue(83, 0, "GR");
-		data.setValue(83, 1, 19020);
-		data.setValue(83, 2, "Greece");
-		
-	  	data.setValue(84, 0, "GL");
-		data.setValue(84, 1, 187);
-		data.setValue(84, 2, "Greenland");
-		
-	  	data.setValue(85, 0, "GD");
-		data.setValue(85, 1, 297);
-		data.setValue(85, 2, "Grenada");
-		
-	  	data.setValue(86, 0, "GP");
-		data.setValue(86, 1, 16);
-		data.setValue(86, 2, "Guadeloupe");
-		
-	  	data.setValue(87, 0, "GU");
-		data.setValue(87, 1, 285);
-		data.setValue(87, 2, "Guam");
-		
-	  	data.setValue(88, 0, "GT");
-		data.setValue(88, 1, 1754);
-		data.setValue(88, 2, "Guatemala");
-		
-	  	data.setValue(89, 0, "GG");
-		data.setValue(89, 1, 124);
-		data.setValue(89, 2, "Guernsey");
-		
-	  	data.setValue(90, 0, "GN");
-		data.setValue(90, 1, 27);
-		data.setValue(90, 2, "Guinea");
-		
-	  	data.setValue(91, 0, "GW");
-		data.setValue(91, 1, 8);
-		data.setValue(91, 2, "Guinea-Bissau");
-		
-	  	data.setValue(92, 0, "GY");
-		data.setValue(92, 1, 443);
-		data.setValue(92, 2, "Guyana");
-		
-	  	data.setValue(93, 0, "HT");
-		data.setValue(93, 1, 235);
-		data.setValue(93, 2, "Haiti");
-		
-	  	data.setValue(94, 0, "HM");
-		data.setValue(94, 1, 0);
-		data.setValue(94, 2, "Heard Island and McDonald Islands");
-		
-	  	data.setValue(95, 0, "VA");
-		data.setValue(95, 1, 31);
-		data.setValue(95, 2, "Holy See (Vatican City State)");
-		
-	  	data.setValue(96, 0, "HN");
-		data.setValue(96, 1, 449);
-		data.setValue(96, 2, "Honduras");
-		
-	  	data.setValue(97, 0, "HK");
-		data.setValue(97, 1, 55300);
-		data.setValue(97, 2, "Hong Kong");
-		
-	  	data.setValue(98, 0, "HU");
-		data.setValue(98, 1, 34851);
-		data.setValue(98, 2, "Hungary");
-		
-	  	data.setValue(99, 0, "IS");
-		data.setValue(99, 1, 4599);
-		data.setValue(99, 2, "Iceland");
-		
-	  	data.setValue(100, 0, "IN");
-		data.setValue(100, 1, 110009);
-		data.setValue(100, 2, "India");
-		
-	  	data.setValue(101, 0, "ID");
-		data.setValue(101, 1, 38273);
-		data.setValue(101, 2, "Indonesia");
-		
-	  	data.setValue(102, 0, "IR");
-		data.setValue(102, 1, 14455);
-		data.setValue(102, 2, "Iran, Islamic Republic of");
-		
-	  	data.setValue(103, 0, "IQ");
-		data.setValue(103, 1, 1410);
-		data.setValue(103, 2, "Iraq");
-		
-	  	data.setValue(104, 0, "IE");
-		data.setValue(104, 1, 55988);
-		data.setValue(104, 2, "Ireland");
-		
-	  	data.setValue(105, 0, "IM");
-		data.setValue(105, 1, 145);
-		data.setValue(105, 2, "Isle of Man");
-		
-	  	data.setValue(106, 0, "IL");
-		data.setValue(106, 1, 46431);
-		data.setValue(106, 2, "Israel");
-		
-	  	data.setValue(107, 0, "IT");
-		data.setValue(107, 1, 163679);
-		data.setValue(107, 2, "Italy");
-		
-	  	data.setValue(108, 0, "JM");
-		data.setValue(108, 1, 658);
-		data.setValue(108, 2, "Jamaica");
-		
-	  	data.setValue(109, 0, "JP");
-		data.setValue(109, 1, 687009);
-		data.setValue(109, 2, "Japan");
-		
-	  	data.setValue(110, 0, "JE");
-		data.setValue(110, 1, 163);
-		data.setValue(110, 2, "Jersey");
-		
-	  	data.setValue(111, 0, "JO");
-		data.setValue(111, 1, 3655);
-		data.setValue(111, 2, "Jordan");
-		
-	  	data.setValue(112, 0, "KZ");
-		data.setValue(112, 1, 6175);
-		data.setValue(112, 2, "Kazakhstan");
-		
-	  	data.setValue(113, 0, "KE");
-		data.setValue(113, 1, 1930);
-		data.setValue(113, 2, "Kenya");
-		
-	  	data.setValue(114, 0, "KI");
-		data.setValue(114, 1, 28);
-		data.setValue(114, 2, "Kiribati");
-		
-	  	data.setValue(115, 0, "KP");
-		data.setValue(115, 1, 1);
-		data.setValue(115, 2, "Korea, Democratic People's Republic of");
-		
-	  	data.setValue(116, 0, "KR");
-		data.setValue(116, 1, 153007);
-		data.setValue(116, 2, "Korea, Republic of");
-		
-	  	data.setValue(117, 0, "KW");
-		data.setValue(117, 1, 6282);
-		data.setValue(117, 2, "Kuwait");
-		
-	  	data.setValue(118, 0, "KG");
-		data.setValue(118, 1, 989);
-		data.setValue(118, 2, "Kyrgyzstan");
-		
-	  	data.setValue(119, 0, "LA");
-		data.setValue(119, 1, 427);
-		data.setValue(119, 2, "Lao People's Democratic Republic");
-		
-	  	data.setValue(120, 0, "LV");
-		data.setValue(120, 1, 10460);
-		data.setValue(120, 2, "Latvia");
-		
-	  	data.setValue(121, 0, "LB");
-		data.setValue(121, 1, 4126);
-		data.setValue(121, 2, "Lebanon");
-		
-	  	data.setValue(122, 0, "LS");
-		data.setValue(122, 1, 113);
-		data.setValue(122, 2, "Lesotho");
-		
-	  	data.setValue(123, 0, "LR");
-		data.setValue(123, 1, 251);
-		data.setValue(123, 2, "Liberia");
-		
-	  	data.setValue(124, 0, "LY");
-		data.setValue(124, 1, 207);
-		data.setValue(124, 2, "Libyan Arab Jamahiriya");
-		
-	  	data.setValue(125, 0, "LI");
-		data.setValue(125, 1, 636);
-		data.setValue(125, 2, "Liechtenstein");
-		
-	  	data.setValue(126, 0, "LT");
-		data.setValue(126, 1, 10950);
-		data.setValue(126, 2, "Lithuania");
-		
-	  	data.setValue(127, 0, "LU");
-		data.setValue(127, 1, 7908);
-		data.setValue(127, 2, "Luxembourg");
-		
-	  	data.setValue(128, 0, "MO");
-		data.setValue(128, 1, 878);
-		data.setValue(128, 2, "Macao");
-		
-	  	data.setValue(129, 0, "MK");
-		data.setValue(129, 1, 2960);
-		data.setValue(129, 2, "Macedonia, The Former Yugoslav Republic of");
-		
-	  	data.setValue(130, 0, "MG");
-		data.setValue(130, 1, 188);
-		data.setValue(130, 2, "Madagascar");
-		
-	  	data.setValue(131, 0, "MW");
-		data.setValue(131, 1, 116);
-		data.setValue(131, 2, "Malawi");
-		
-	  	data.setValue(132, 0, "MY");
-		data.setValue(132, 1, 34795);
-		data.setValue(132, 2, "Malaysia");
-		
-	  	data.setValue(133, 0, "MV");
-		data.setValue(133, 1, 357);
-		data.setValue(133, 2, "Maldives");
-		
-	  	data.setValue(134, 0, "ML");
-		data.setValue(134, 1, 224);
-		data.setValue(134, 2, "Mali");
-		
-	  	data.setValue(135, 0, "MT");
-		data.setValue(135, 1, 2826);
-		data.setValue(135, 2, "Malta");
-		
-	  	data.setValue(136, 0, "MH");
-		data.setValue(136, 1, 22);
-		data.setValue(136, 2, "Marshall Islands");
-		
-	  	data.setValue(137, 0, "MQ");
-		data.setValue(137, 1, 96);
-		data.setValue(137, 2, "Martinique");
-		
-	  	data.setValue(138, 0, "MR");
-		data.setValue(138, 1, 249);
-		data.setValue(138, 2, "Mauritania");
-		
-	  	data.setValue(139, 0, "MU");
-		data.setValue(139, 1, 664);
-		data.setValue(139, 2, "Mauritius");
-		
-	  	data.setValue(140, 0, "YT");
-		data.setValue(140, 1, 6);
-		data.setValue(140, 2, "Mayotte");
-		
-	  	data.setValue(141, 0, "MX");
-		data.setValue(141, 1, 27858);
-		data.setValue(141, 2, "Mexico");
-		
-	  	data.setValue(142, 0, "FM");
-		data.setValue(142, 1, 33);
-		data.setValue(142, 2, "Micronesia, Federated States of");
-		
-	  	data.setValue(143, 0, "MD");
-		data.setValue(143, 1, 2088);
-		data.setValue(143, 2, "Moldova, Republic of");
-		
-	  	data.setValue(144, 0, "MC");
-		data.setValue(144, 1, 632);
-		data.setValue(144, 2, "Monaco");
-		
-	  	data.setValue(145, 0, "MN");
-		data.setValue(145, 1, 859);
-		data.setValue(145, 2, "Mongolia");
-		
-	  	data.setValue(146, 0, "ME");
-		data.setValue(146, 1, 0);
-		data.setValue(146, 2, "Montenegro");
-		
-	  	data.setValue(147, 0, "MS");
-		data.setValue(147, 1, 90);
-		data.setValue(147, 2, "Montserrat");
-		
-	  	data.setValue(148, 0, "MA");
-		data.setValue(148, 1, 3926);
-		data.setValue(148, 2, "Morocco");
-		
-	  	data.setValue(149, 0, "MZ");
-		data.setValue(149, 1, 505);
-		data.setValue(149, 2, "Mozambique");
-		
-	  	data.setValue(150, 0, "MM");
-		data.setValue(150, 1, 98);
-		data.setValue(150, 2, "Myanmar");
-		
-	  	data.setValue(151, 0, "NA");
-		data.setValue(151, 1, 144);
-		data.setValue(151, 2, "Namibia");
-		
-	  	data.setValue(152, 0, "NR");
-		data.setValue(152, 1, 8);
-		data.setValue(152, 2, "Nauru");
-		
-	  	data.setValue(153, 0, "NP");
-		data.setValue(153, 1, 1272);
-		data.setValue(153, 2, "Nepal");
-		
-	  	data.setValue(154, 0, "NL");
-		data.setValue(154, 1, 180816);
-		data.setValue(154, 2, "Netherlands");
-		
-	  	data.setValue(155, 0, "AN");
-		data.setValue(155, 1, 711);
-		data.setValue(155, 2, "Netherlands Antilles");
-		
-	  	data.setValue(156, 0, "NC");
-		data.setValue(156, 1, 1056);
-		data.setValue(156, 2, "New Caledonia");
-		
-	  	data.setValue(157, 0, "NZ");
-		data.setValue(157, 1, 24438);
-		data.setValue(157, 2, "New Zealand");
-		
-	  	data.setValue(158, 0, "NI");
-		data.setValue(158, 1, 887);
-		data.setValue(158, 2, "Nicaragua");
-		
-	  	data.setValue(159, 0, "NE");
-		data.setValue(159, 1, 149);
-		data.setValue(159, 2, "Niger");
-		
-	  	data.setValue(160, 0, "NG");
-		data.setValue(160, 1, 2002);
-		data.setValue(160, 2, "Nigeria");
-		
-	  	data.setValue(161, 0, "NU");
-		data.setValue(161, 1, 2);
-		data.setValue(161, 2, "Niue");
-		
-	  	data.setValue(162, 0, "NF");
-		data.setValue(162, 1, 7);
-		data.setValue(162, 2, "Norfolk Island");
-		
-	  	data.setValue(163, 0, "MP");
-		data.setValue(163, 1, 72);
-		data.setValue(163, 2, "Northern Mariana Islands");
-		
-	  	data.setValue(164, 0, "NO");
-		data.setValue(164, 1, 51943);
-		data.setValue(164, 2, "Norway");
-		
-	  	data.setValue(165, 0, "OM");
-		data.setValue(165, 1, 1102);
-		data.setValue(165, 2, "Oman");
-		
-	  	data.setValue(166, 0, "PK");
-		data.setValue(166, 1, 4400);
-		data.setValue(166, 2, "Pakistan");
-		
-	  	data.setValue(167, 0, "PW");
-		data.setValue(167, 1, 29);
-		data.setValue(167, 2, "Palau");
-		
-	  	data.setValue(168, 0, "PS");
-		data.setValue(168, 1, 574);
-		data.setValue(168, 2, "Palestinian Territory, Occupied");
-		
-	  	data.setValue(169, 0, "PA");
-		data.setValue(169, 1, 6788);
-		data.setValue(169, 2, "Panama");
-		
-	  	data.setValue(170, 0, "PG");
-		data.setValue(170, 1, 293);
-		data.setValue(170, 2, "Papua New Guinea");
-		
-	  	data.setValue(171, 0, "PY");
-		data.setValue(171, 1, 1360);
-		data.setValue(171, 2, "Paraguay");
-		
-	  	data.setValue(172, 0, "PE");
-		data.setValue(172, 1, 89571);
-		data.setValue(172, 2, "Peru");
-		
-	  	data.setValue(173, 0, "PH");
-		data.setValue(173, 1, 11558);
-		data.setValue(173, 2, "Philippines");
-		
-	  	data.setValue(174, 0, "PN");
-		data.setValue(174, 1, 0);
-		data.setValue(174, 2, "Pitcairn");
-		
-	  	data.setValue(175, 0, "PL");
-		data.setValue(175, 1, 168933);
-		data.setValue(175, 2, "Poland");
-		
-	  	data.setValue(176, 0, "PT");
-		data.setValue(176, 1, 24576);
-		data.setValue(176, 2, "Portugal");
-		
-	  	data.setValue(177, 0, "PR");
-		data.setValue(177, 1, 3618);
-		data.setValue(177, 2, "Puerto Rico");
-		
-	  	data.setValue(178, 0, "QA");
-		data.setValue(178, 1, 626);
-		data.setValue(178, 2, "Qatar");
-		
-	  	data.setValue(179, 0, "RE");
-		data.setValue(179, 1, 39);
-		data.setValue(179, 2, "Réunion");
-		
-	  	data.setValue(180, 0, "RO");
-		data.setValue(180, 1, 32433);
-		data.setValue(180, 2, "Romania");
-		
-	  	data.setValue(181, 0, "RU");
-		data.setValue(181, 1, 137333);
-		data.setValue(181, 2, "Russian Federation");
-		
-	  	data.setValue(182, 0, "RW");
-		data.setValue(182, 1, 150);
-		data.setValue(182, 2, "Rwanda");
-		
-	  	data.setValue(183, 0, "BL");
-		data.setValue(183, 1, 0);
-		data.setValue(183, 2, "Saint Barthélemy");
-		
-	  	data.setValue(184, 0, "SH");
-		data.setValue(184, 1, 0);
-		data.setValue(184, 2, "Saint Helena");
-		
-	  	data.setValue(185, 0, "KN");
-		data.setValue(185, 1, 245);
-		data.setValue(185, 2, "Saint Kitts and Nevis");
-		
-	  	data.setValue(186, 0, "LC");
-		data.setValue(186, 1, 147);
-		data.setValue(186, 2, "Saint Lucia");
-		
-	  	data.setValue(187, 0, "MF");
-		data.setValue(187, 1, 0);
-		data.setValue(187, 2, "Saint Martin");
-		
-	  	data.setValue(188, 0, "PM");
-		data.setValue(188, 1, 3);
-		data.setValue(188, 2, "Saint Pierre and Miquelon");
-		
-	  	data.setValue(189, 0, "VC");
-		data.setValue(189, 1, 283);
-		data.setValue(189, 2, "Saint Vincent and the Grenadines");
-		
-	  	data.setValue(190, 0, "WS");
-		data.setValue(190, 1, 430);
-		data.setValue(190, 2, "Samoa");
-		
-	  	data.setValue(191, 0, "SM");
-		data.setValue(191, 1, 563);
-		data.setValue(191, 2, "San Marino");
-		
-	  	data.setValue(192, 0, "ST");
-		data.setValue(192, 1, 9);
-		data.setValue(192, 2, "Sao Tome and Principe");
-		
-	  	data.setValue(193, 0, "SA");
-		data.setValue(193, 1, 10860);
-		data.setValue(193, 2, "Saudi Arabia");
-		
-	  	data.setValue(194, 0, "SN");
-		data.setValue(194, 1, 363);
-		data.setValue(194, 2, "Senegal");
-		
-	  	data.setValue(195, 0, "RS");
-		data.setValue(195, 1, 0);
-		data.setValue(195, 2, "Serbia");
-		
-	  	data.setValue(196, 0, "SC");
-		data.setValue(196, 1, 249);
-		data.setValue(196, 2, "Seychelles");
-		
-	  	data.setValue(197, 0, "SL");
-		data.setValue(197, 1, 108);
-		data.setValue(197, 2, "Sierra Leone");
-		
-	  	data.setValue(198, 0, "SG");
-		data.setValue(198, 1, 44723);
-		data.setValue(198, 2, "Singapore");
-		
-	  	data.setValue(199, 0, "SK");
-		data.setValue(199, 1, 20214);
-		data.setValue(199, 2, "Slovakia");
-		
-	  	data.setValue(200, 0, "SI");
-		data.setValue(200, 1, 7784);
-		data.setValue(200, 2, "Slovenia");
-		
-	  	data.setValue(201, 0, "SB");
-		data.setValue(201, 1, 51);
-		data.setValue(201, 2, "Solomon Islands");
-		
-	  	data.setValue(202, 0, "SO");
-		data.setValue(202, 1, 47);
-		data.setValue(202, 2, "Somalia");
-		
-	  	data.setValue(203, 0, "ZA");
-		data.setValue(203, 1, 21035);
-		data.setValue(203, 2, "South Africa");
-		
-	  	data.setValue(204, 0, "GS");
-		data.setValue(204, 1, 0);
-		data.setValue(204, 2, "South Georgia and the South Sandwich Islands");
-		
-	  	data.setValue(205, 0, "ES");
-		data.setValue(205, 1, 205341);
-		data.setValue(205, 2, "Spain");
-		
-	  	data.setValue(206, 0, "LK");
-		data.setValue(206, 1, 2998);
-		data.setValue(206, 2, "Sri Lanka");
-		
-	  	data.setValue(207, 0, "SD");
-		data.setValue(207, 1, 318);
-		data.setValue(207, 2, "Sudan");
-		
-	  	data.setValue(208, 0, "SR");
-		data.setValue(208, 1, 821);
-		data.setValue(208, 2, "Suriname");
-		
-	  	data.setValue(209, 0, "SJ");
-		data.setValue(209, 1, 0);
-		data.setValue(209, 2, "Svalbard and Jan Mayen");
-		
-	  	data.setValue(210, 0, "SZ");
-		data.setValue(210, 1, 148);
-		data.setValue(210, 2, "Swaziland");
-		
-	  	data.setValue(211, 0, "SE");
-		data.setValue(211, 1, 85426);
-		data.setValue(211, 2, "Sweden");
-		
-	  	data.setValue(212, 0, "CH");
-		data.setValue(212, 1, 75932);
-		data.setValue(212, 2, "Switzerland");
-		
-	  	data.setValue(213, 0, "SY");
-		data.setValue(213, 1, 1481);
-		data.setValue(213, 2, "Syrian Arab Republic");
-		
-	  	data.setValue(214, 0, "TW");
-		data.setValue(214, 1, 174710);
-		data.setValue(214, 2, "Taiwan, Province of China");
-		
-	  	data.setValue(215, 0, "TJ");
-		data.setValue(215, 1, 185);
-		data.setValue(215, 2, "Tajikistan");
-		
-	  	data.setValue(216, 0, "TZ");
-		data.setValue(216, 1, 687);
-		data.setValue(216, 2, "Tanzania, United Republic of");
-		
-	  	data.setValue(217, 0, "TH");
-		data.setValue(217, 1, 65371);
-		data.setValue(217, 2, "Thailand");
-		
-	  	data.setValue(218, 0, "TL");
-		data.setValue(218, 1, 0);
-		data.setValue(218, 2, "Timor-Leste");
-		
-	  	data.setValue(219, 0, "TG");
-		data.setValue(219, 1, 148);
-		data.setValue(219, 2, "Togo");
-		
-	  	data.setValue(220, 0, "TK");
-		data.setValue(220, 1, 0);
-		data.setValue(220, 2, "Tokelau");
-		
-	  	data.setValue(221, 0, "TO");
-		data.setValue(221, 1, 32);
-		data.setValue(221, 2, "Tonga");
-		
-	  	data.setValue(222, 0, "TT");
-		data.setValue(222, 1, 656);
-		data.setValue(222, 2, "Trinidad and Tobago");
-		
-	  	data.setValue(223, 0, "TN");
-		data.setValue(223, 1, 15735);
-		data.setValue(223, 2, "Tunisia");
-		
-	  	data.setValue(224, 0, "TR");
-		data.setValue(224, 1, 115851);
-		data.setValue(224, 2, "Turkey");
-		
-	  	data.setValue(225, 0, "TM");
-		data.setValue(225, 1, 27);
-		data.setValue(225, 2, "Turkmenistan");
-		
-	  	data.setValue(226, 0, "TC");
-		data.setValue(226, 1, 32);
-		data.setValue(226, 2, "Turks and Caicos Islands");
-		
-	  	data.setValue(227, 0, "TV");
-		data.setValue(227, 1, 16);
-		data.setValue(227, 2, "Tuvalu");
-		
-	  	data.setValue(228, 0, "UG");
-		data.setValue(228, 1, 180);
-		data.setValue(228, 2, "Uganda");
-		
-	  	data.setValue(229, 0, "UA");
-		data.setValue(229, 1, 34854);
-		data.setValue(229, 2, "Ukraine");
-		
-	  	data.setValue(230, 0, "AE");
-		data.setValue(230, 1, 5417);
-		data.setValue(230, 2, "United Arab Emirates");
-		
-	  	data.setValue(231, 0, "GB");
-		data.setValue(231, 1, 55893);
-		data.setValue(231, 2, "United Kingdom");
-		
-	  	data.setValue(232, 0, "US");
-		data.setValue(232, 1, 6287673);
-		data.setValue(232, 2, "United States");
-		
-	  	data.setValue(233, 0, "UM");
-		data.setValue(233, 1, 2);
-		data.setValue(233, 2, "United States Minor Outlying Islands");
-		
-	  	data.setValue(234, 0, "UY");
-		data.setValue(234, 1, 5003);
-		data.setValue(234, 2, "Uruguay");
-		
-	  	data.setValue(235, 0, "UZ");
-		data.setValue(235, 1, 558);
-		data.setValue(235, 2, "Uzbekistan");
-		
-	  	data.setValue(236, 0, "VU");
-		data.setValue(236, 1, 220);
-		data.setValue(236, 2, "Vanuatu");
-		
-	  	data.setValue(237, 0, "VE");
-		data.setValue(237, 1, 13794);
-		data.setValue(237, 2, "Venezuela, Bolivarian Republic of");
-		
-	  	data.setValue(238, 0, "VN");
-		data.setValue(238, 1, 38801);
-		data.setValue(238, 2, "Viet Nam");
-		
-	  	data.setValue(239, 0, "VG");
-		data.setValue(239, 1, 2480);
-		data.setValue(239, 2, "Virgin Islands, British");
-		
-	  	data.setValue(240, 0, "VI");
-		data.setValue(240, 1, 935);
-		data.setValue(240, 2, "Virgin Islands, U.S.");
-		
-	  	data.setValue(241, 0, "WF");
-		data.setValue(241, 1, 12);
-		data.setValue(241, 2, "Wallis and Futuna");
-		
-	  	data.setValue(242, 0, "EH");
-		data.setValue(242, 1, 0);
-		data.setValue(242, 2, "Western Sahara");
-		
-	  	data.setValue(243, 0, "YE");
-		data.setValue(243, 1, 337);
-		data.setValue(243, 2, "Yemen");
-		
-	  	data.setValue(244, 0, "ZM");
-		data.setValue(244, 1, 634);
-		data.setValue(244, 2, "Zambia");
-		
-	  	data.setValue(245, 0, "ZW");
-		data.setValue(245, 1, 647);
-		data.setValue(245, 2, "Zimbabwe");
-		
-	  	data.setValue(246, 0, "EU");
-		data.setValue(246, 1, 140621);
-		data.setValue(246, 2, "European Union");
-		
-	  	data.setValue(247, 0, "AC");
-		data.setValue(247, 1, 0);
-		data.setValue(247, 2, "Ascension Island");
-		
-	  	data.setValue(248, 0, "CP");
-		data.setValue(248, 1, 0);
-		data.setValue(248, 2, "Clippterton Island");
-		
-	  	data.setValue(249, 0, "DG");
-		data.setValue(249, 1, 0);
-		data.setValue(249, 2, "Diego Garcia");
-		
-	  	data.setValue(250, 0, "EA");
-		data.setValue(250, 1, 0);
-		data.setValue(250, 2, "Ceuta, Melilla");
-		
-	  	data.setValue(251, 0, "FX");
-		data.setValue(251, 1, 0);
-		data.setValue(251, 2, "France, Metropolitan");
-		
-	  	data.setValue(252, 0, "IC");
-		data.setValue(252, 1, 0);
-		data.setValue(252, 2, "Canary Islands");
-		
-	  	data.setValue(253, 0, "SU");
-		data.setValue(253, 1, 0);
-		data.setValue(253, 2, "USSR");
-		
-	  	data.setValue(254, 0, "TA");
-		data.setValue(254, 1, 0);
-		data.setValue(254, 2, "Tristan da Cunha");
-		
-	  	data.setValue(255, 0, "UK");
-		data.setValue(255, 1, 325271);
-		data.setValue(255, 2, "United Kingdom");
-		
-	  	data.setValue(256, 0, "AP");
-		data.setValue(256, 1, 2430);
-		data.setValue(256, 2, "African Regional Industrial Property Organization");
-		
-	  	data.setValue(257, 0, "BX");
-		data.setValue(257, 1, 0);
-		data.setValue(257, 2, "Benelux Trademarks and Design Offices");
-		
-	  	data.setValue(258, 0, "EF");
-		data.setValue(258, 1, 0);
-		data.setValue(258, 2, "Union of Countries under the European Community Patent Convention");
-		
-	  	data.setValue(259, 0, "EM");
-		data.setValue(259, 1, 0);
-		data.setValue(259, 2, "European Trademark Office");
-		
-	  	data.setValue(260, 0, "EP");
-		data.setValue(260, 1, 0);
-		data.setValue(260, 2, "European Patent Organization");
-		
-	  	data.setValue(261, 0, "EV");
-		data.setValue(261, 1, 0);
-		data.setValue(261, 2, "Eurasian Patent Organization");
-		
-	  	data.setValue(262, 0, "GC");
-		data.setValue(262, 1, 0);
-		data.setValue(262, 2, "Patent Office of the Cooperation Council for the Arab States of the Gulf (GCC)");
-		
-	  	data.setValue(263, 0, "IB");
-		data.setValue(263, 1, 0);
-		data.setValue(263, 2, "International Bureay of WIPO");
-		
-	  	data.setValue(264, 0, "OA");
-		data.setValue(264, 1, 0);
-		data.setValue(264, 2, "African Intellectual Property Organization");
-		
-	  	data.setValue(265, 0, "WO");
-		data.setValue(265, 1, 0);
-		data.setValue(265, 2, "World Intellectual Property Organization");
-		
-	  	data.setValue(266, 0, "BU");
-		data.setValue(266, 1, 0);
-		data.setValue(266, 2, "Burma");
-		
-	  	data.setValue(267, 0, "CS");
-		data.setValue(267, 1, 6548);
-		data.setValue(267, 2, "Serbia and Montenegro");
-		
-	  	data.setValue(268, 0, "NT");
-		data.setValue(268, 1, 0);
-		data.setValue(268, 2, "Neutral Zone");
-		
-	  	data.setValue(269, 0, "SF");
-		data.setValue(269, 1, 0);
-		data.setValue(269, 2, "Finland");
-		
-	  	data.setValue(270, 0, "TP");
-		data.setValue(270, 1, 0);
-		data.setValue(270, 2, "East Timor");
-		
-	  	data.setValue(271, 0, "YU");
-		data.setValue(271, 1, 7317);
-		data.setValue(271, 2, "Yugoslavia");
-		
-	  	data.setValue(272, 0, "ZR");
-		data.setValue(272, 1, 0);
-		data.setValue(272, 2, "Zaire");
-		
+		  	data.setValue(0, 0, "LY");
+			data.setValue(0, 1, 975);
+			data.setValue(0, 2, "Libyan Arab Jamahiriya");
+			
+		  	data.setValue(1, 0, "VG");
+			data.setValue(1, 1, 1914);
+			data.setValue(1, 2, "Virgin Islands, British");
+			
+		  	data.setValue(2, 0, "GF");
+			data.setValue(2, 1, 291);
+			data.setValue(2, 2, "French Guiana");
+			
+		  	data.setValue(3, 0, "KH");
+			data.setValue(3, 1, 6340);
+			data.setValue(3, 2, "Cambodia");
+			
+		  	data.setValue(4, 0, "A1");
+			data.setValue(4, 1, 1517);
+			data.setValue(4, 2, "Anonymous Proxy");
+			
+		  	data.setValue(5, 0, "A2");
+			data.setValue(5, 1, 3869);
+			data.setValue(5, 2, "Satellite Provider");
+			
+		  	data.setValue(6, 0, "RW");
+			data.setValue(6, 1, 588);
+			data.setValue(6, 2, "Rwanda");
+			
+		  	data.setValue(7, 0, "WF");
+			data.setValue(7, 1, 165);
+			data.setValue(7, 2, "Wallis and Futuna");
+			
+		  	data.setValue(8, 0, "FJ");
+			data.setValue(8, 1, 1099);
+			data.setValue(8, 2, "Fiji");
+			
+		  	data.setValue(9, 0, "MW");
+			data.setValue(9, 1, 518);
+			data.setValue(9, 2, "Malawi");
+			
+		  	data.setValue(10, 0, "MC");
+			data.setValue(10, 1, 838);
+			data.setValue(10, 2, "Monaco");
+			
+		  	data.setValue(11, 0, "MG");
+			data.setValue(11, 1, 2156);
+			data.setValue(11, 2, "Madagascar");
+			
+		  	data.setValue(12, 0, "UG");
+			data.setValue(12, 1, 1202);
+			data.setValue(12, 2, "Uganda");
+			
+		  	data.setValue(13, 0, "BH");
+			data.setValue(13, 1, 2148);
+			data.setValue(13, 2, "Bahrain");
+			
+		  	data.setValue(14, 0, "AG");
+			data.setValue(14, 1, 1097);
+			data.setValue(14, 2, "Antigua and Barbuda");
+			
+		  	data.setValue(15, 0, "JE");
+			data.setValue(15, 1, 599);
+			data.setValue(15, 2, "Jersey");
+			
+		  	data.setValue(16, 0, "TZ");
+			data.setValue(16, 1, 2194);
+			data.setValue(16, 2, "Tanzania, United Republic of");
+			
+		  	data.setValue(17, 0, "SR");
+			data.setValue(17, 1, 8956);
+			data.setValue(17, 2, "Suriname");
+			
+		  	data.setValue(18, 0, "ME");
+			data.setValue(18, 1, 2322);
+			data.setValue(18, 2, "Montenegro");
+			
+		  	data.setValue(19, 0, "SD");
+			data.setValue(19, 1, 1445);
+			data.setValue(19, 2, "Sudan");
+			
+		  	data.setValue(20, 0, "TO");
+			data.setValue(20, 1, 94);
+			data.setValue(20, 2, "Tonga");
+			
+		  	data.setValue(21, 0, "KI");
+			data.setValue(21, 1, 39);
+			data.setValue(21, 2, "Kiribati");
+			
+		  	data.setValue(22, 0, "VU");
+			data.setValue(22, 1, 214);
+			data.setValue(22, 2, "Vanuatu");
+			
+		  	data.setValue(23, 0, "BV");
+			data.setValue(23, 1, 54);
+			data.setValue(23, 2, "Bouvet Island");
+			
+		  	data.setValue(24, 0, "GG");
+			data.setValue(24, 1, 567);
+			data.setValue(24, 2, "Guernsey");
+			
+		  	data.setValue(25, 0, "NU");
+			data.setValue(25, 1, 2);
+			data.setValue(25, 2, "Niue");
+			
+		  	data.setValue(26, 0, "US");
+			data.setValue(26, 1, 17771047);
+			data.setValue(26, 2, "United States");
+			
+		  	data.setValue(27, 0, "DE");
+			data.setValue(27, 1, 1060827);
+			data.setValue(27, 2, "Germany");
+			
+		  	data.setValue(28, 0, "CY");
+			data.setValue(28, 1, 15440);
+			data.setValue(28, 2, "Cyprus");
+			
+		  	data.setValue(29, 0, "PL");
+			data.setValue(29, 1, 536537);
+			data.setValue(29, 2, "Poland");
+			
+		  	data.setValue(30, 0, "GB");
+			data.setValue(30, 1, 819070);
+			data.setValue(30, 2, "United Kingdom");
+			
+		  	data.setValue(31, 0, "NL");
+			data.setValue(31, 1, 428287);
+			data.setValue(31, 2, "Netherlands");
+			
+		  	data.setValue(32, 0, "AU");
+			data.setValue(32, 1, 389183);
+			data.setValue(32, 2, "Australia");
+			
+		  	data.setValue(33, 0, "KW");
+			data.setValue(33, 1, 14771);
+			data.setValue(33, 2, "Kuwait");
+			
+		  	data.setValue(34, 0, "SG");
+			data.setValue(34, 1, 163491);
+			data.setValue(34, 2, "Singapore");
+			
+		  	data.setValue(35, 0, "JP");
+			data.setValue(35, 1, 1184255);
+			data.setValue(35, 2, "Japan");
+			
+		  	data.setValue(36, 0, "IT");
+			data.setValue(36, 1, 616141);
+			data.setValue(36, 2, "Italy");
+			
+		  	data.setValue(37, 0, "CO");
+			data.setValue(37, 1, 463852);
+			data.setValue(37, 2, "Colombia");
+			
+		  	data.setValue(38, 0, "IN");
+			data.setValue(38, 1, 378336);
+			data.setValue(38, 2, "India");
+			
+		  	data.setValue(39, 0, "DK");
+			data.setValue(39, 1, 153557);
+			data.setValue(39, 2, "Denmark");
+			
+		  	data.setValue(40, 0, "ES");
+			data.setValue(40, 1, 828991);
+			data.setValue(40, 2, "Spain");
+			
+		  	data.setValue(41, 0, "PE");
+			data.setValue(41, 1, 356802);
+			data.setValue(41, 2, "Peru");
+			
+		  	data.setValue(42, 0, "AR");
+			data.setValue(42, 1, 217917);
+			data.setValue(42, 2, "Argentina");
+			
+		  	data.setValue(43, 0, "TR");
+			data.setValue(43, 1, 575755);
+			data.setValue(43, 2, "Turkey");
+			
+		  	data.setValue(44, 0, "CN");
+			data.setValue(44, 1, 1507336);
+			data.setValue(44, 2, "China");
+			
+		  	data.setValue(45, 0, "NO");
+			data.setValue(45, 1, 173552);
+			data.setValue(45, 2, "Norway");
+			
+		  	data.setValue(46, 0, "SI");
+			data.setValue(46, 1, 24063);
+			data.setValue(46, 2, "Slovenia");
+			
+		  	data.setValue(47, 0, "MD");
+			data.setValue(47, 1, 24536);
+			data.setValue(47, 2, "Moldova, Republic of");
+			
+		  	data.setValue(48, 0, "FI");
+			data.setValue(48, 1, 81194);
+			data.setValue(48, 2, "Finland");
+			
+		  	data.setValue(49, 0, "VN");
+			data.setValue(49, 1, 266626);
+			data.setValue(49, 2, "Vietnam");
+			
+		  	data.setValue(50, 0, "BR");
+			data.setValue(50, 1, 762318);
+			data.setValue(50, 2, "Brazil");
+			
+		  	data.setValue(51, 0, "RU");
+			data.setValue(51, 1, 655908);
+			data.setValue(51, 2, "Russian Federation");
+			
+		  	data.setValue(52, 0, "CR");
+			data.setValue(52, 1, 88441);
+			data.setValue(52, 2, "Costa Rica");
+			
+		  	data.setValue(53, 0, "KR");
+			data.setValue(53, 1, 599369);
+			data.setValue(53, 2, "Korea, Republic of");
+			
+		  	data.setValue(54, 0, "HR");
+			data.setValue(54, 1, 27628);
+			data.setValue(54, 2, "Croatia");
+			
+		  	data.setValue(55, 0, "QA");
+			data.setValue(55, 1, 9671);
+			data.setValue(55, 2, "Qatar");
+			
+		  	data.setValue(56, 0, "FR");
+			data.setValue(56, 1, 473133);
+			data.setValue(56, 2, "France");
+			
+		  	data.setValue(57, 0, "MV");
+			data.setValue(57, 1, 1598);
+			data.setValue(57, 2, "Maldives");
+			
+		  	data.setValue(58, 0, "EG");
+			data.setValue(58, 1, 145244);
+			data.setValue(58, 2, "Egypt");
+			
+		  	data.setValue(59, 0, "IL");
+			data.setValue(59, 1, 164879);
+			data.setValue(59, 2, "Israel");
+			
+		  	data.setValue(60, 0, "LI");
+			data.setValue(60, 1, 1565);
+			data.setValue(60, 2, "Liechtenstein");
+			
+		  	data.setValue(61, 0, "TW");
+			data.setValue(61, 1, 498024);
+			data.setValue(61, 2, "Taiwan");
+			
+		  	data.setValue(62, 0, "BE");
+			data.setValue(62, 1, 85965);
+			data.setValue(62, 2, "Belgium");
+			
+		  	data.setValue(63, 0, "SY");
+			data.setValue(63, 1, 84561);
+			data.setValue(63, 2, "Syrian Arab Republic");
+			
+		  	data.setValue(64, 0, "AP");
+			data.setValue(64, 1, 25340);
+			data.setValue(64, 2, "Asia/Pacific Region");
+			
+		  	data.setValue(65, 0, "CZ");
+			data.setValue(65, 1, 205037);
+			data.setValue(65, 2, "Czech Republic");
+			
+		  	data.setValue(66, 0, "UA");
+			data.setValue(66, 1, 172790);
+			data.setValue(66, 2, "Ukraine");
+			
+		  	data.setValue(67, 0, "AT");
+			data.setValue(67, 1, 94969);
+			data.setValue(67, 2, "Austria");
+			
+		  	data.setValue(68, 0, "PS");
+			data.setValue(68, 1, 9902);
+			data.setValue(68, 2, "Palestinian Territory");
+			
+		  	data.setValue(69, 0, "HK");
+			data.setValue(69, 1, 108472);
+			data.setValue(69, 2, "Hong Kong");
+			
+		  	data.setValue(70, 0, "CA");
+			data.setValue(70, 1, 754872);
+			data.setValue(70, 2, "Canada");
+			
+		  	data.setValue(71, 0, "TH");
+			data.setValue(71, 1, 493334);
+			data.setValue(71, 2, "Thailand");
+			
+		  	data.setValue(72, 0, "SE");
+			data.setValue(72, 1, 225601);
+			data.setValue(72, 2, "Sweden");
+			
+		  	data.setValue(73, 0, "SK");
+			data.setValue(73, 1, 102530);
+			data.setValue(73, 2, "Slovakia");
+			
+		  	data.setValue(74, 0, "ZA");
+			data.setValue(74, 1, 72764);
+			data.setValue(74, 2, "South Africa");
+			
+		  	data.setValue(75, 0, "CH");
+			data.setValue(75, 1, 140850);
+			data.setValue(75, 2, "Switzerland");
+			
+		  	data.setValue(76, 0, "RS");
+			data.setValue(76, 1, 61413);
+			data.setValue(76, 2, "Serbia");
+			
+		  	data.setValue(77, 0, "ID");
+			data.setValue(77, 1, 166874);
+			data.setValue(77, 2, "Indonesia");
+			
+		  	data.setValue(78, 0, "TT");
+			data.setValue(78, 1, 31343);
+			data.setValue(78, 2, "Trinidad and Tobago");
+			
+		  	data.setValue(79, 0, "IE");
+			data.setValue(79, 1, 50460);
+			data.setValue(79, 2, "Ireland");
+			
+		  	data.setValue(80, 0, "RO");
+			data.setValue(80, 1, 675191);
+			data.setValue(80, 2, "Romania");
+			
+		  	data.setValue(81, 0, "DO");
+			data.setValue(81, 1, 86378);
+			data.setValue(81, 2, "Dominican Republic");
+			
+		  	data.setValue(82, 0, "PT");
+			data.setValue(82, 1, 60477);
+			data.setValue(82, 2, "Portugal");
+			
+		  	data.setValue(83, 0, "SV");
+			data.setValue(83, 1, 54059);
+			data.setValue(83, 2, "El Salvador");
+			
+		  	data.setValue(84, 0, "MY");
+			data.setValue(84, 1, 123181);
+			data.setValue(84, 2, "Malaysia");
+			
+		  	data.setValue(85, 0, "BO");
+			data.setValue(85, 1, 24704);
+			data.setValue(85, 2, "Bolivia");
+			
+		  	data.setValue(86, 0, "KG");
+			data.setValue(86, 1, 5204);
+			data.setValue(86, 2, "Kyrgyzstan");
+			
+		  	data.setValue(87, 0, "PK");
+			data.setValue(87, 1, 36755);
+			data.setValue(87, 2, "Pakistan");
+			
+		  	data.setValue(88, 0, "EU");
+			data.setValue(88, 1, 124247);
+			data.setValue(88, 2, "Europe");
+			
+		  	data.setValue(89, 0, "BG");
+			data.setValue(89, 1, 155479);
+			data.setValue(89, 2, "Bulgaria");
+			
+		  	data.setValue(90, 0, "GU");
+			data.setValue(90, 1, 1967);
+			data.setValue(90, 2, "Guam");
+			
+		  	data.setValue(91, 0, "EC");
+			data.setValue(91, 1, 49381);
+			data.setValue(91, 2, "Ecuador");
+			
+		  	data.setValue(92, 0, "AM");
+			data.setValue(92, 1, 7238);
+			data.setValue(92, 2, "Armenia");
+			
+		  	data.setValue(93, 0, "CL");
+			data.setValue(93, 1, 65950);
+			data.setValue(93, 2, "Chile");
+			
+		  	data.setValue(94, 0, "MX");
+			data.setValue(94, 1, 108171);
+			data.setValue(94, 2, "Mexico");
+			
+		  	data.setValue(95, 0, "PH");
+			data.setValue(95, 1, 101496);
+			data.setValue(95, 2, "Philippines");
+			
+		  	data.setValue(96, 0, "HU");
+			data.setValue(96, 1, 83023);
+			data.setValue(96, 2, "Hungary");
+			
+		  	data.setValue(97, 0, "DJ");
+			data.setValue(97, 1, 212);
+			data.setValue(97, 2, "Djibouti");
+			
+		  	data.setValue(98, 0, "SN");
+			data.setValue(98, 1, 1499);
+			data.setValue(98, 2, "Senegal");
+			
+		  	data.setValue(99, 0, "SC");
+			data.setValue(99, 1, 507);
+			data.setValue(99, 2, "Seychelles");
+			
+		  	data.setValue(100, 0, "TN");
+			data.setValue(100, 1, 25644);
+			data.setValue(100, 2, "Tunisia");
+			
+		  	data.setValue(101, 0, "LB");
+			data.setValue(101, 1, 53241);
+			data.setValue(101, 2, "Lebanon");
+			
+		  	data.setValue(102, 0, "VE");
+			data.setValue(102, 1, 42250);
+			data.setValue(102, 2, "Venezuela");
+			
+		  	data.setValue(103, 0, "NZ");
+			data.setValue(103, 1, 52107);
+			data.setValue(103, 2, "New Zealand");
+			
+		  	data.setValue(104, 0, "KZ");
+			data.setValue(104, 1, 49274);
+			data.setValue(104, 2, "Kazakstan");
+			
+		  	data.setValue(105, 0, "LV");
+			data.setValue(105, 1, 53271);
+			data.setValue(105, 2, "Latvia");
+			
+		  	data.setValue(106, 0, "MA");
+			data.setValue(106, 1, 22842);
+			data.setValue(106, 2, "Morocco");
+			
+		  	data.setValue(107, 0, "AE");
+			data.setValue(107, 1, 13904);
+			data.setValue(107, 2, "United Arab Emirates");
+			
+		  	data.setValue(108, 0, "JM");
+			data.setValue(108, 1, 9410);
+			data.setValue(108, 2, "Jamaica");
+			
+		  	data.setValue(109, 0, "MK");
+			data.setValue(109, 1, 29181);
+			data.setValue(109, 2, "Macedonia");
+			
+		  	data.setValue(110, 0, "GE");
+			data.setValue(110, 1, 58992);
+			data.setValue(110, 2, "Georgia");
+			
+		  	data.setValue(111, 0, "PA");
+			data.setValue(111, 1, 30678);
+			data.setValue(111, 2, "Panama");
+			
+		  	data.setValue(112, 0, "GR");
+			data.setValue(112, 1, 42157);
+			data.setValue(112, 2, "Greece");
+			
+		  	data.setValue(113, 0, "MO");
+			data.setValue(113, 1, 3808);
+			data.setValue(113, 2, "Macau");
+			
+		  	data.setValue(114, 0, "CI");
+			data.setValue(114, 1, 2818);
+			data.setValue(114, 2, "Cote D'Ivoire");
+			
+		  	data.setValue(115, 0, "SM");
+			data.setValue(115, 1, 762);
+			data.setValue(115, 2, "San Marino");
+			
+		  	data.setValue(116, 0, "GI");
+			data.setValue(116, 1, 1479);
+			data.setValue(116, 2, "Gibraltar");
+			
+		  	data.setValue(117, 0, "JO");
+			data.setValue(117, 1, 8347);
+			data.setValue(117, 2, "Jordan");
+			
+		  	data.setValue(118, 0, "MU");
+			data.setValue(118, 1, 6585);
+			data.setValue(118, 2, "Mauritius");
+			
+		  	data.setValue(119, 0, "BD");
+			data.setValue(119, 1, 7590);
+			data.setValue(119, 2, "Bangladesh");
+			
+		  	data.setValue(120, 0, "IR");
+			data.setValue(120, 1, 48257);
+			data.setValue(120, 2, "Iran, Islamic Republic of");
+			
+		  	data.setValue(121, 0, "NI");
+			data.setValue(121, 1, 5624);
+			data.setValue(121, 2, "Nicaragua");
+			
+		  	data.setValue(122, 0, "GT");
+			data.setValue(122, 1, 11177);
+			data.setValue(122, 2, "Guatemala");
+			
+		  	data.setValue(123, 0, "NC");
+			data.setValue(123, 1, 4658);
+			data.setValue(123, 2, "New Caledonia");
+			
+		  	data.setValue(124, 0, "AN");
+			data.setValue(124, 1, 4478);
+			data.setValue(124, 2, "Netherlands Antilles");
+			
+		  	data.setValue(125, 0, "NG");
+			data.setValue(125, 1, 6872);
+			data.setValue(125, 2, "Nigeria");
+			
+		  	data.setValue(126, 0, "NP");
+			data.setValue(126, 1, 2782);
+			data.setValue(126, 2, "Nepal");
+			
+		  	data.setValue(127, 0, "BW");
+			data.setValue(127, 1, 947);
+			data.setValue(127, 2, "Botswana");
+			
+		  	data.setValue(128, 0, "RE");
+			data.setValue(128, 1, 1152);
+			data.setValue(128, 2, "Reunion");
+			
+		  	data.setValue(129, 0, "PR");
+			data.setValue(129, 1, 30383);
+			data.setValue(129, 2, "Puerto Rico");
+			
+		  	data.setValue(130, 0, "ZM");
+			data.setValue(130, 1, 1378);
+			data.setValue(130, 2, "Zambia");
+			
+		  	data.setValue(131, 0, "SA");
+			data.setValue(131, 1, 87082);
+			data.setValue(131, 2, "Saudi Arabia");
+			
+		  	data.setValue(132, 0, "BS");
+			data.setValue(132, 1, 3037);
+			data.setValue(132, 2, "Bahamas");
+			
+		  	data.setValue(133, 0, "LT");
+			data.setValue(133, 1, 51025);
+			data.setValue(133, 2, "Lithuania");
+			
+		  	data.setValue(134, 0, "HN");
+			data.setValue(134, 1, 3586);
+			data.setValue(134, 2, "Honduras");
+			
+		  	data.setValue(135, 0, "GD");
+			data.setValue(135, 1, 1411);
+			data.setValue(135, 2, "Grenada");
+			
+		  	data.setValue(136, 0, "OM");
+			data.setValue(136, 1, 3012);
+			data.setValue(136, 2, "Oman");
+			
+		  	data.setValue(137, 0, "EE");
+			data.setValue(137, 1, 22303);
+			data.setValue(137, 2, "Estonia");
+			
+		  	data.setValue(138, 0, "LK");
+			data.setValue(138, 1, 11453);
+			data.setValue(138, 2, "Sri Lanka");
+			
+		  	data.setValue(139, 0, "IS");
+			data.setValue(139, 1, 9450);
+			data.setValue(139, 2, "Iceland");
+			
+		  	data.setValue(140, 0, "LU");
+			data.setValue(140, 1, 9442);
+			data.setValue(140, 2, "Luxembourg");
+			
+		  	data.setValue(141, 0, "MT");
+			data.setValue(141, 1, 9860);
+			data.setValue(141, 2, "Malta");
+			
+		  	data.setValue(142, 0, "KE");
+			data.setValue(142, 1, 6538);
+			data.setValue(142, 2, "Kenya");
+			
+		  	data.setValue(143, 0, "IQ");
+			data.setValue(143, 1, 8037);
+			data.setValue(143, 2, "Iraq");
+			
+		  	data.setValue(144, 0, "AL");
+			data.setValue(144, 1, 3763);
+			data.setValue(144, 2, "Albania");
+			
+		  	data.setValue(145, 0, "BY");
+			data.setValue(145, 1, 14432);
+			data.setValue(145, 2, "Belarus");
+			
+		  	data.setValue(146, 0, "BA");
+			data.setValue(146, 1, 23518);
+			data.setValue(146, 2, "Bosnia and Herzegovina");
+			
+		  	data.setValue(147, 0, "BB");
+			data.setValue(147, 1, 1880);
+			data.setValue(147, 2, "Barbados");
+			
+		  	data.setValue(148, 0, "HT");
+			data.setValue(148, 1, 769);
+			data.setValue(148, 2, "Haiti");
+			
+		  	data.setValue(149, 0, "KY");
+			data.setValue(149, 1, 1017);
+			data.setValue(149, 2, "Cayman Islands");
+			
+		  	data.setValue(150, 0, "BM");
+			data.setValue(150, 1, 1959);
+			data.setValue(150, 2, "Bermuda");
+			
+		  	data.setValue(151, 0, "DZ");
+			data.setValue(151, 1, 5823);
+			data.setValue(151, 2, "Algeria");
+			
+		  	data.setValue(152, 0, "PY");
+			data.setValue(152, 1, 12573);
+			data.setValue(152, 2, "Paraguay");
+			
+		  	data.setValue(153, 0, "UZ");
+			data.setValue(153, 1, 1975);
+			data.setValue(153, 2, "Uzbekistan");
+			
+		  	data.setValue(154, 0, "PW");
+			data.setValue(154, 1, 43);
+			data.setValue(154, 2, "Palau");
+			
+		  	data.setValue(155, 0, "GL");
+			data.setValue(155, 1, 358);
+			data.setValue(155, 2, "Greenland");
+			
+		  	data.setValue(156, 0, "GH");
+			data.setValue(156, 1, 9158);
+			data.setValue(156, 2, "Ghana");
+			
+		  	data.setValue(157, 0, "LC");
+			data.setValue(157, 1, 580);
+			data.setValue(157, 2, "Saint Lucia");
+			
+		  	data.setValue(158, 0, "NR");
+			data.setValue(158, 1, 13);
+			data.setValue(158, 2, "Nauru");
+			
+		  	data.setValue(159, 0, "SL");
+			data.setValue(159, 1, 94);
+			data.setValue(159, 2, "Sierra Leone");
+			
+		  	data.setValue(160, 0, "PF");
+			data.setValue(160, 1, 517);
+			data.setValue(160, 2, "French Polynesia");
+			
+		  	data.setValue(161, 0, "KN");
+			data.setValue(161, 1, 690);
+			data.setValue(161, 2, "Saint Kitts and Nevis");
+			
+		  	data.setValue(162, 0, "MN");
+			data.setValue(162, 1, 2101);
+			data.setValue(162, 2, "Mongolia");
+			
+		  	data.setValue(163, 0, "NA");
+			data.setValue(163, 1, 2483);
+			data.setValue(163, 2, "Namibia");
+			
+		  	data.setValue(164, 0, "AZ");
+			data.setValue(164, 1, 5791);
+			data.setValue(164, 2, "Azerbaijan");
+			
+		  	data.setValue(165, 0, "AO");
+			data.setValue(165, 1, 1849);
+			data.setValue(165, 2, "Angola");
+			
+		  	data.setValue(166, 0, "UY");
+			data.setValue(166, 1, 8526);
+			data.setValue(166, 2, "Uruguay");
+			
+		  	data.setValue(167, 0, "PG");
+			data.setValue(167, 1, 1102);
+			data.setValue(167, 2, "Papua New Guinea");
+			
+		  	data.setValue(168, 0, "MZ");
+			data.setValue(168, 1, 1814);
+			data.setValue(168, 2, "Mozambique");
+			
+		  	data.setValue(169, 0, "DM");
+			data.setValue(169, 1, 543);
+			data.setValue(169, 2, "Dominica");
+			
+		  	data.setValue(170, 0, "AI");
+			data.setValue(170, 1, 268);
+			data.setValue(170, 2, "Anguilla");
+			
+		  	data.setValue(171, 0, "TJ");
+			data.setValue(171, 1, 635);
+			data.setValue(171, 2, "Tajikistan");
+			
+		  	data.setValue(172, 0, "BJ");
+			data.setValue(172, 1, 307);
+			data.setValue(172, 2, "Benin");
+			
+		  	data.setValue(173, 0, "VA");
+			data.setValue(173, 1, 53);
+			data.setValue(173, 2, "Holy See (Vatican City State)");
+			
+		  	data.setValue(174, 0, "LA");
+			data.setValue(174, 1, 2566);
+			data.setValue(174, 2, "Lao People's Democratic Republic");
+			
+		  	data.setValue(175, 0, "BZ");
+			data.setValue(175, 1, 4504);
+			data.setValue(175, 2, "Belize");
+			
+		  	data.setValue(176, 0, "AW");
+			data.setValue(176, 1, 1673);
+			data.setValue(176, 2, "Aruba");
+			
+		  	data.setValue(177, 0, "AX");
+			data.setValue(177, 1, 435);
+			data.setValue(177, 2, "Aland Islands");
+			
+		  	data.setValue(178, 0, "MM");
+			data.setValue(178, 1, 171);
+			data.setValue(178, 2, "Myanmar");
+			
+		  	data.setValue(179, 0, "VI");
+			data.setValue(179, 1, 1013);
+			data.setValue(179, 2, "Virgin Islands, U.S.");
+			
+		  	data.setValue(180, 0, "ML");
+			data.setValue(180, 1, 1098);
+			data.setValue(180, 2, "Mali");
+			
+		  	data.setValue(181, 0, "BT");
+			data.setValue(181, 1, 321);
+			data.setValue(181, 2, "Bhutan");
+			
+		  	data.setValue(182, 0, "BF");
+			data.setValue(182, 1, 709);
+			data.setValue(182, 2, "Burkina Faso");
+			
+		  	data.setValue(183, 0, "CU");
+			data.setValue(183, 1, 1460);
+			data.setValue(183, 2, "Cuba");
+			
+		  	data.setValue(184, 0, "ZW");
+			data.setValue(184, 1, 1981);
+			data.setValue(184, 2, "Zimbabwe");
+			
+		  	data.setValue(185, 0, "FO");
+			data.setValue(185, 1, 964);
+			data.setValue(185, 2, "Faroe Islands");
+			
+		  	data.setValue(186, 0, "AF");
+			data.setValue(186, 1, 891);
+			data.setValue(186, 2, "Afghanistan");
+			
+		  	data.setValue(187, 0, "GY");
+			data.setValue(187, 1, 243);
+			data.setValue(187, 2, "Guyana");
+			
+		  	data.setValue(188, 0, "MQ");
+			data.setValue(188, 1, 950);
+			data.setValue(188, 2, "Martinique");
+			
+		  	data.setValue(189, 0, "CV");
+			data.setValue(189, 1, 504);
+			data.setValue(189, 2, "Cape Verde");
+			
+		  	data.setValue(190, 0, "AS");
+			data.setValue(190, 1, 338);
+			data.setValue(190, 2, "American Samoa");
+			
+		  	data.setValue(191, 0, "ET");
+			data.setValue(191, 1, 163);
+			data.setValue(191, 2, "Ethiopia");
+			
+		  	data.setValue(192, 0, "CM");
+			data.setValue(192, 1, 1681);
+			data.setValue(192, 2, "Cameroon");
+			
+		  	data.setValue(193, 0, "SZ");
+			data.setValue(193, 1, 669);
+			data.setValue(193, 2, "Swaziland");
+			
+		  	data.setValue(194, 0, "BN");
+			data.setValue(194, 1, 925);
+			data.setValue(194, 2, "Brunei Darussalam");
+			
+		  	data.setValue(195, 0, "GA");
+			data.setValue(195, 1, 305);
+			data.setValue(195, 2, "Gabon");
+			
+		  	data.setValue(196, 0, "WS");
+			data.setValue(196, 1, 189);
+			data.setValue(196, 2, "Samoa");
+			
+		  	data.setValue(197, 0, "AQ");
+			data.setValue(197, 1, 78);
+			data.setValue(197, 2, "Antarctica");
+			
+		  	data.setValue(198, 0, "NE");
+			data.setValue(198, 1, 194);
+			data.setValue(198, 2, "Niger");
+			
+		  	data.setValue(199, 0, "TG");
+			data.setValue(199, 1, 188);
+			data.setValue(199, 2, "Togo");
+			
+		  	data.setValue(200, 0, "GM");
+			data.setValue(200, 1, 153);
+			data.setValue(200, 2, "Gambia");
+			
+		  	data.setValue(201, 0, "IO");
+			data.setValue(201, 1, 89);
+			data.setValue(201, 2, "British Indian Ocean Territory");
+			
+		  	data.setValue(202, 0, "AD");
+			data.setValue(202, 1, 685);
+			data.setValue(202, 2, "Andorra");
+			
+		  	data.setValue(203, 0, "TK");
+			data.setValue(203, 1, 54);
+			data.setValue(203, 2, "Tokelau");
+			
+		  	data.setValue(204, 0, "MS");
+			data.setValue(204, 1, 74);
+			data.setValue(204, 2, "Montserrat");
+			
+		  	data.setValue(205, 0, "MP");
+			data.setValue(205, 1, 255);
+			data.setValue(205, 2, "Northern Mariana Islands");
+			
+		  	data.setValue(206, 0, "ER");
+			data.setValue(206, 1, 44);
+			data.setValue(206, 2, "Eritrea");
+			
+		  	data.setValue(207, 0, "TL");
+			data.setValue(207, 1, 134);
+			data.setValue(207, 2, "Timor-Leste");
+			
+		  	data.setValue(208, 0, "LR");
+			data.setValue(208, 1, 262);
+			data.setValue(208, 2, "Liberia");
+			
+		  	data.setValue(209, 0, "TV");
+			data.setValue(209, 1, 16);
+			data.setValue(209, 2, "Tuvalu");
+			
+		  	data.setValue(210, 0, "CD");
+			data.setValue(210, 1, 282);
+			data.setValue(210, 2, "Congo, The Democratic Republic of the");
+			
+		  	data.setValue(211, 0, "GQ");
+			data.setValue(211, 1, 726);
+			data.setValue(211, 2, "Equatorial Guinea");
+			
+		  	data.setValue(212, 0, "SB");
+			data.setValue(212, 1, 84);
+			data.setValue(212, 2, "Solomon Islands");
+			
+		  	data.setValue(213, 0, "LS");
+			data.setValue(213, 1, 305);
+			data.setValue(213, 2, "Lesotho");
+			
+		  	data.setValue(214, 0, "TM");
+			data.setValue(214, 1, 38);
+			data.setValue(214, 2, "Turkmenistan");
+			
+		  	data.setValue(215, 0, "GN");
+			data.setValue(215, 1, 101);
+			data.setValue(215, 2, "Guinea");
+			
+		  	data.setValue(216, 0, "SO");
+			data.setValue(216, 1, 87);
+			data.setValue(216, 2, "Somalia");
+			
+		  	data.setValue(217, 0, "GP");
+			data.setValue(217, 1, 957);
+			data.setValue(217, 2, "Guadeloupe");
+			
+		  	data.setValue(218, 0, "ST");
+			data.setValue(218, 1, 20);
+			data.setValue(218, 2, "Sao Tome and Principe");
+			
+		  	data.setValue(219, 0, "BI");
+			data.setValue(219, 1, 51);
+			data.setValue(219, 2, "Burundi");
+			
+		  	data.setValue(220, 0, "IM");
+			data.setValue(220, 1, 732);
+			data.setValue(220, 2, "Isle of Man");
+			
+		  	data.setValue(221, 0, "GW");
+			data.setValue(221, 1, 266);
+			data.setValue(221, 2, "Guinea-Bissau");
+			
+		  	data.setValue(222, 0, "CK");
+			data.setValue(222, 1, 230);
+			data.setValue(222, 2, "Cook Islands");
+			
+		  	data.setValue(223, 0, "CG");
+			data.setValue(223, 1, 74);
+			data.setValue(223, 2, "Congo");
+			
+		  	data.setValue(224, 0, "VC");
+			data.setValue(224, 1, 1381);
+			data.setValue(224, 2, "Saint Vincent and the Grenadines");
+			
+		  	data.setValue(225, 0, "YE");
+			data.setValue(225, 1, 1661);
+			data.setValue(225, 2, "Yemen");
+			
+		  	data.setValue(226, 0, "MR");
+			data.setValue(226, 1, 527);
+			data.setValue(226, 2, "Mauritania");
+			
+		  	data.setValue(227, 0, "FM");
+			data.setValue(227, 1, 185);
+			data.setValue(227, 2, "Micronesia, Federated States of");
+			
+		  	data.setValue(228, 0, "FK");
+			data.setValue(228, 1, 226);
+			data.setValue(228, 2, "Falkland Islands (Malvinas)");
+			
+		  	data.setValue(229, 0, "PM");
+			data.setValue(229, 1, 59);
+			data.setValue(229, 2, "Saint Pierre and Miquelon");
+			
+		  	data.setValue(230, 0, "MH");
+			data.setValue(230, 1, 63);
+			data.setValue(230, 2, "Marshall Islands");
+			
+		  	data.setValue(231, 0, "YT");
+			data.setValue(231, 1, 32);
+			data.setValue(231, 2, "Mayotte");
+			
+		  	data.setValue(232, 0, "KM");
+			data.setValue(232, 1, 12);
+			data.setValue(232, 2, "Comoros");
+			
+		  	data.setValue(233, 0, "TC");
+			data.setValue(233, 1, 162);
+			data.setValue(233, 2, "Turks and Caicos Islands");
+			
+		  	data.setValue(234, 0, "TD");
+			data.setValue(234, 1, 17);
+			data.setValue(234, 2, "Chad");
+			
+		  	data.setValue(235, 0, "UM");
+			data.setValue(235, 1, 14);
+			data.setValue(235, 2, "United States Minor Outlying Islands");
+			
+		  	data.setValue(236, 0, "NF");
+			data.setValue(236, 1, 2);
+			data.setValue(236, 2, "Norfolk Island");
+			
+		  	data.setValue(237, 0, "CF");
+			data.setValue(237, 1, 23);
+			data.setValue(237, 2, "Central African Republic");
+			
+		  	data.setValue(238, 0, "KP");
+			data.setValue(238, 1, 1);
+			data.setValue(238, 2, "Korea, Democratic People's Republic of");
+			
 	  
 	  var options = {};
 	  options['colors'] = [0xffdbdb, 0xff0000, 0xff0000, 0xff0000, 0x810101];
