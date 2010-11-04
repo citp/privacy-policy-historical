@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504121520id_/http%3A//www.evernote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104213151id_/http%3A//www.evernote.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Evernote Corporation
 
-**Effective Date: May 5, 2009**
+**Effective Date: September 16, 2010**
 
 Evernote Corporation values the privacy of those who use our web site, products and services and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with Evernote, such as when you visit our web site, use or purchase our products and services, or communicate with Evernote employees. Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information.
 
@@ -77,6 +77,8 @@ Evernote is not currently directed to children and we currently require users to
 ## International Users
 
 Evernote abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the [U.S. Department of Commerce Safe Harbor Program.](http://www.export.gov/safeharbor/)
+
+Our servers are located in the United States. If you are located in one of the 15 European Union Member Nation States (Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Portugal, Spain, Sweden, and the United Kingdom), Canada or any other nation with privacy legislation you should be aware that personal information submitted to Evernote will be transferred to a data center in the United States. If you post information to the Evernote sites you are confirming your consent to such information, including personal data and content, being hosted and accessed in the United States.
 
 ## Changes and Updates
 
