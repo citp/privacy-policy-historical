@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505013107id_/http%3A//www.biomedcentral.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104203615id_/http%3A//www.biomedcentral.com/info/about/privacy) for the most accurate reproduction.*
 
-# BioMed Central | about us | Privacy policy
+# BioMed Central | About us | Privacy policy
 
   
    BioMed Central's policy for protecting your personal information
@@ -11,7 +11,7 @@ What personal information does BioMed Central ask users to supply, and why?
 
 Registration on BioMed Central is optional and voluntary. Browsing and viewing articles on BioMed Central does not require any personal information to be submitted from users. Nor do these functions require the user's browser to be set to accept cookies.
 
-Some other aspects of BioMed Central's service and other services published on BioMed Central, such as [Faculty of 1000](http://facultyof1000.com/), do require the use of cookies, and the supply of information such as name, e-mail etc. This is necessary for security reasons and also for BioMed Central to be able to assure standards of scientific integrity. Users may submit further personal information (e.g. details of research areas of interest) in order to take advantage of present and future personalization facilities on BioMed Central.
+Some other aspects of BioMed Central's service and other services published on BioMed Central do require the use of cookies, and the supply of information such as name, email etc. This is necessary for security reasons and also for BioMed Central to be able to assure standards of scientific integrity. Users may submit further personal information (e.g. details of research areas of interest) in order to take advantage of present and future personalization facilities on BioMed Central.
 
 In accordance with European Union guidelines, registrants may decline to provide the information requested. They should be advised, however, that BioMed Central may be unable to deliver its services unless at least the information necessary for security and identification purposes is provided.
 
@@ -19,13 +19,13 @@ What further information does BioMed Central track, and why?
 
 In order to offer the best possible service to users, BioMed Central tracks the patterns of usage of pages on the site. This enables us to identify the most popular articles and services. Where users have provided details of their research areas of interest, this information can be correlated, helping BioMed Central to provide a useful service for scientists, offering them the most relevant information based on their areas of interest. 
 
-What is BioMed Central's policy on sharing e-mail addresses with third parties?
+What is BioMed Central's policy on sharing email addresses with third parties?
 
-User information will only be shared with third parties with the explicit consent of the user. If the user has explicitly opted to receive special offer and product information e-mails from BioMed Central partners, then BioMed Central may from time to time e-mail the user on behalf of these partner companies. However, these companies will not be given the user's details without that user's explicit consent. 
+User information will only be shared with third parties with the explicit consent of the user. If the user has explicitly opted to receive special offer and product information emails from BioMed Central partners, then BioMed Central may from time to time email the user on behalf of these partner companies. However, these companies will not be given the user's details without that user's explicit consent. 
 
-What is BioMed Central's policy on e-mailing its registered members?
+What is BioMed Central's policy on emailing its registered members?
 
-BioMed Central may contact members from time to time to draw the member's attention to information that may be of interest. Members may opt out from receiving such e-mail when registering as a member, or at any time thereafter by responding to such an e-mail or contacting [customer services](mailto:info@biomedcentral.com).
+BioMed Central may contact members from time to time to draw the member's attention to information that may be of interest. Members may opt out from receiving such email when registering as a member, or at any time thereafter by responding to such an email or contacting [customer services](mailto:info@biomedcentral.com).
 
 What is BioMed Central's policy on using demographic information about users for online advertising purposes?
 
@@ -37,7 +37,7 @@ Articles on BioMed Central will be published electronically immediately upon acc
 
 How does this privacy policy relate to authors of research articles published through BioMed Central
 
-Publishing a scientific manuscript is inherently a public (as opposed to anonymous) process. The name and e-mail address of all authors of a BioMed Central manuscript will be available to users of BioMed Central. These details are made available in this way purely to facilitate scientific communication. Collecting these e-mail addresses for commercial use is not permitted, nor will BioMed Central itself send unsolicited e-mail to authors, unless it directly concerns the paper they have published on BioMed Central.
+Publishing a scientific manuscript is inherently a public (as opposed to anonymous) process. The name and email address of all authors of a BioMed Central manuscript will be available to users of BioMed Central. These details are made available in this way purely to facilitate scientific communication. Collecting these email addresses for commercial use is not permitted, nor will BioMed Central itself send unsolicited email to authors, unless it directly concerns the paper they have published on BioMed Central.
 
 Use of cookies 
 
