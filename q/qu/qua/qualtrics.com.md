@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507012945id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104233214id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Qualtrics Privacy Policy - Secure Data | Qualtrics
 
