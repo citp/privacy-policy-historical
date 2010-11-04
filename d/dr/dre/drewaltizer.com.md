@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drewaltizer.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625220418id_/http%3A//drewaltizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drewaltizer.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104035435id_/http%3A//www.drewaltizer.com/privacy.php) for the most accurate reproduction.*
 
 # Drew Altizer Photography - San Francisco Society Photographs
 
