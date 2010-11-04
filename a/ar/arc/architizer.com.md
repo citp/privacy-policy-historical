@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505182333id_/http%3A//architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104193050id_/http%3A//www.architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Architizer - Empowering Architecture: architects, buildings, interior design, materials, jobs, competitions, design schools
 
@@ -38,6 +38,7 @@ For purposes such as improving personalization of our service, we may receive in
   * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Architizer cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your name or e-mail address is.
   * The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Architizer’s most attractive features.
   * Some of our business partners may use cookies on our Site (for example, advertisers). However, we have no access to or control over these cookies.
+  * We may use advertising networks to help present advertisements on our sites. These advertising networks use cookies to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks to determine the characteristics and preferences of their audience. We may share certain aggregate and non-personally-identifiable information about our users in order to help them deliver more relevant advertisements through their ad networks.
 
 
 
