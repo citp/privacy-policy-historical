@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitchfilm.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211131id_/http%3A//twitchfilm.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchfilm.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104204209id_/http%3A//twitchfilm.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Twitch Film: Privacy Policy
 
