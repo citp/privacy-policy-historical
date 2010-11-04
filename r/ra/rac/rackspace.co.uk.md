@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackspace.co.uk privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601163850id_/http%3A//www.rackspace.co.uk/uploads/involve/user_all/UK_Privacy_Policy100118.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspace.co.uk privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105000827id_/http%3A//www.rsimg.co.uk/uploads/involve/user_all/UK_Privacy_Policy100118.pdf) for the most accurate reproduction.*
 
 # UK Privacy Policy
 
