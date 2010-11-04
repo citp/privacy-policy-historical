@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504230639id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104062522id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Cute Overload
 
@@ -33,4 +33,4 @@ The Cute Overload Site may contain links to other websites. These other sites ma
 
 **Security**  
 Cute Overload uses industry standard measures to protect your information so that it is not made available to unauthorized parties.  
-If you have any questions or concerns about this Privacy Policy, please contact us through the Site or at the following address: Cute Overload, Inc, attn: Privacy Policy, P.O. Box 77092, San Francisco, CA, 94107
+If you have any questions or concerns about this Privacy Policy, please contact us through the Site or at the following address: Cute Overload, Inc, attn: Privacy Policy, P.O. Box 77092, San Francisco, CA, 94107 
