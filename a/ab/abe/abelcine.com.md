@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abelcine.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501154715id_/http%3A//www.abelcine.com/store/Privacy-and-Security-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abelcine.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104105441id_/http%3A//www.abelcine.com/store/Privacy-and-Security-Statement) for the most accurate reproduction.*
 
 # Privacy and Security Statement :: Abel Cine Tech
 
