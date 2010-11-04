@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baymontinns.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504143602id_/http%3A//www.baymontinns.com/Baymont/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baymontinns.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104040216id_/http%3A//www.baymontinns.com/Baymont/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Baymont Inn & Suites: Privacy policy
 
