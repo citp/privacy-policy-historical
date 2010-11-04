@@ -1,81 +1,68 @@
-> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203202226id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104212309id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # Privacy and Security: USA.gov
 
-[Home](https://web.archive.org/index.shtml "Home") > Privacy and Security
-
-Official information and services from the U.S. government
-
-[](https://web.archive.org/gobiernousa/Privacidad_Seguridad.shtml?toggleTo=en_Privacy_&_Security)
-
-Thanks for visiting the USA.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it's only used to fulfill your request for information.
-
-We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
+USA.gov doesn't collect personal information when you visit our web site unless you choose to provide that information.
 
   
 
 
-### Information Collected and Stored Automatically
+## Information Collected and Stored Automatically
 
-When you browse, read pages, or download information on USA.gov, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
+When you visit USA.gov, we may store some or all of the following: the Internet address from which you access USA.gov, date and time, the Internet address of the web site from which you linked to USA.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used. 
 
-  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you're surfing the web) from which you access our website;
-  * The type of browser (such as Firefox, Netscape, or Internet Explorer) and operating system (Windows, Unix) used to access our site;
-  * The date and time you access our site;
-  * The pages you visit; and,
-  * If you linked to the USA.gov website from another website, the address of that website.
-
-
-
-This information is only used to help us make the site more useful for you. With this data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.
+This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. USA.gov periodically deletes its Web logs. On occasion, USA.gov may provide this information to third party entities it contracts with for the purposes of research analysis. 
 
   
 
 
-### Cookies
+## Cookies
 
-When you visit some websites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at USA.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our website.
+When you visit some websites, their web servers generate pieces of information known as cookies. Cookies are commonly used to recognize your computer in the future.
 
-Per-session cookies serve technical purposes, like providing seamless navigation through USA.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. USA.gov's cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.
+USA.gov uses per-session cookies to serve technical purposes, like providing seamless navigation through USA.gov. Our customer satisfaction survey uses session cookies to ensure you are only invited to take a survey once during your visit. These cookies do not permanently record data and they are not stored on your computer's hard drive. USA.gov's session cookies are only available during an active browser session. When you close your browser, the session cookie disappears.
 
-  
-
-
-### If You Send Us Personal Information
-
-We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information—like filling out a Contact Us form, with an e-mail address and zip code, and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you've requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
-
-While you must provide an e-mail address and zip code for a localized response to any incoming questions or comments to USA.gov, we recommend that you NOT include any other personal information, especially Social Security numbers. The Social Security Administration offers additional [guidance](https://web.archive.org/external/external.jsp?url=http://www.ssa.gov/pubs/10002.html#giving "guidance") on sharing your Social Security number.
+Our customer satisfaction survey uses a persistent cookie that is stored on your computer’s hard drive. This cookie ensures that we won’t invite you to take a customer satisfaction survey within 90 days of completing a survey on USA.gov. You can [opt-out of persistent cookies](http://www.usa.gov/optout_instructions.shtml "opt-out of persistent cookies") by adjusting the settings on your web browser. By opting-out of the persistent cookie set by USA.gov’s customer satisfaction survey, your experience browsing USA.gov will be unaffected except that you may be invited to complete our satisfaction survey more often than we normally serve it to our visitors. 
 
   
 
 
-### Site Security
+## If You Send Us Personal Information
 
-  * For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-  * Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
-  * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information—like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
-
+While you must provide an e-mail address and ZIP code for a localized response to any incoming questions or comments to USA.gov, we recommend that you NOT include any other personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#giving "Social Security numbers"). 
 
   
 
 
-### USA.gov Linking Policy
+## Site Security
 
-USA.gov links to many websites created and maintained by other public and/or private organizations. USA.gov provides these links as a service to our users. When users link to an outside website, they are leaving the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). Be sure to review the USA.gov [Linking Policy](https://web.archive.org/About/Linking_Policy.shtml "Linking Policy").
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
+
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+
+  
+  
+
+
+## External Links
+
+USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our [Linking Policy](https://web.archive.org/About/Linking_Policy.shtml "Linking Policy"). If you click a link to an outside website, such as Facebook or YouTube, you will leave the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
 
   
 
 
-### Prohibitions
+## Prohibitions
 
-USA.gov will not link to any website that exhibits hate, bias, or discrimination. Furthermore, USA.gov reserves the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with USA.gov's mission or policies.
+USA.gov will not link to any website that exhibits hate, bias, or discrimination. USA.gov reserves the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with USA.gov's mission or policies.
 
   
 
 
-### Disclaimer of Endorsement
+## Disclaimer of Endorsement
 
 The information posted on the USA.gov website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. USA.gov provides these links and pointers solely for our users' information and convenience. When users select a link to an outside website, they are leaving the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
 
