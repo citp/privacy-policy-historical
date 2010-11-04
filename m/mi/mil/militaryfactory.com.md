@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407164541id_/http%3A//www.militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104195007id_/http%3A//militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # The Military Factory Privacy Policy
 
-**Privacy Policy**  
 **Secrets, secrets are no fun; secrets, secrets hurt someone.**
 
 _UPDATED: 12/3/2009_
