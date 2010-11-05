@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502225632id_/http%3A//www.tomatocart.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105120155id_/http%3A//www.tomatocart.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Privacy Policy - TomatoCart
 
 At TomatoCart we recognize the importance of your privacy and are committed to protecting it. This Privacy Policy explains our online information practices and the choices you can make about the way your information is processed.
 
