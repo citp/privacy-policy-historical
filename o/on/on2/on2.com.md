@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on2.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150547id_/http%3A//www.on2.com/index.php%3F493) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on2.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105133510id_/http%3A//on2.com/493.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,5 +22,4 @@ To secure site integrity, On2 Technologies employs measures including but not li
 
 In the event that On2 Technologies becomes aware that site security is compromised or user nonpublic information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, On2 Technologies shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities.
 
-If On2 becomes aware that a user's personal information provided to On2 Technologies has been disclosed in a manner not permitted by this Privacy Policy, On2 Technologies shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that On2 Technologies knows this information.[](http://www.on2.com/file.php?176)  
-
+If On2 becomes aware that a user's personal information provided to On2 Technologies has been disclosed in a manner not permitted by this Privacy Policy, On2 Technologies shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that On2 Technologies knows this information.
