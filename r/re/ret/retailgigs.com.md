@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507014404id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105052827id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Merchandising, Purchasing & Retail Jobs & Resumes, Find Career Resources - RetailGigs.com
 
@@ -39,6 +39,8 @@ We also offer an Associate program, where associate members direct customers to 
 In some cases our software and web site are utilized by our partners in a business alliance via their web community. In these cases, the information collected on our site is available to both companies. 
 
 You should be aware that any personal information (such as email address or resumes), which you voluntarily display or distribute on our network and on the Internet can be collected and used by others, no different than posting this information in a newspaper. This may result in your receiving unsolicited messages from third parties for which Beyond.com is not responsible and has no ability to affect. 
+
+This site uses the ClickTale web analytics service, which is not owned, operated or controlled by Beyond.com. We use the information collected by ClickTale service to improve your user experience. ClickTale may record mouse clicks, mouse movements and scrolling activity, as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter into this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information, see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). You may disable this Service at <http://www.clicktale.net/disable.html>.
 
 Back to top
 
@@ -126,7 +128,7 @@ Back to top
 
 * * *
 
-Rev. November 2009
+Rev. October 2010
 
 * * *
 
