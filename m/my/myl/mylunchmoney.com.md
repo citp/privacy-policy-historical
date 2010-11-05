@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mylunchmoney.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629132215id_/https%3A//www.mylunchmoney.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylunchmoney.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105201301id_/https%3A//mylunchmoney.com/privacy.aspx) for the most accurate reproduction.*
 
-# myLunchMoney.com - Privacy Statement
+# MyLunchMoney
 
-In this policy, "we," "our" or "us" means SL-Tech and "you" or "your" means any person or entity using the myLunchMoney.com™ website or the related call center (collectively the "Facilities"). Please read the following closely to learn more about our privacy policy.
+In this policy, "we," "our" or "us" means SL-Tech and "you" or "your" means any person or entity using the MyLunchMoney™ website or the related call center (collectively the "Facilities"). Please read the following closely to learn more about our privacy policy. 
 
 I. INFORMATION WE COLLECT.
 
@@ -21,8 +21,8 @@ II. INFORMATION WE MAY DISCLOSE.
 
 We may disclose nonpublic personal information to others ("third parties") as follows. 
 
-  1. We may disclose all of the nonpublic personal information we collect to companies that perform services on our behalf, and your child's school. 
-  2. We may disclose all of the nonpublic personal information we collect as permitted by law, such as to servicing and processing companies, or in response to a subpoena.
+  * We may disclose all of the nonpublic personal information we collect to companies that perform services on our behalf, and your child's school. 
+  * We may disclose all of the nonpublic personal information we collect as permitted by law, such as to servicing and processing companies, or in response to a subpoena.
 
 
 
@@ -34,7 +34,7 @@ IV. OTHER IMPORTANT INFORMATION.
 
 This policy applies to your use and our operation of the Facilities.
 
-We reserve the right to amend this policy from time to time and to apply any changes to information previously collected as permitted by law. We will inform you of any changes as required by law and will post any changes to this policy at our web site. If you are concerned about how your information is used, you should check back at our website periodically. 
+We reserve the right to amend this policy from time to time and to apply any changes to information previously collected as permitted by law. We will inform you of any changes as required by law and will post any changes to this policy on our web site. If you are concerned about how your information is used, you should check back on our website periodically. 
 
 If you cease to be our customer, such as when you no longer use the Facilities, our information practices in this policy, as amended from time to time, will continue to apply.
 
