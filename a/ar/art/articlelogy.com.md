@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the articlelogy.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220033536id_/http%3A//www.articlelogy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlelogy.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105174534id_/http%3A//www.articlelogy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Articles for Webmasters
-
-| 
-
-You are Here: 
-
-[Home](https://web.archive.org/) » Privacy Policy
-
-Privacy Policy
+# Privacy Policy
 
 1\. ArticleLogy.com respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of ArticleLogy.com and are only used for troubleshooting purposes.
 
@@ -42,12 +34,8 @@ Privacy Policy
 **Contacting Us**  
 15\. This is the website of ArticleLogy.com. We can be reached either via e-mail at admin (at) articlelogy.com or via our [contact](http://www.articlelogy.com/contact/) page. Please replace (at) with @. If you feel that this site is not following its stated information policy, you may contact us at the above email address.
 
-All terms and conditions are subject to change without prior notice.
+ **March 24 2008 Update: Google Ads.**  
+16\. Google, as a third-party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy.](http://www.google.co.uk/privacy_ads.html) All terms and conditions are subject to change without prior notice.
 
 Please note: Author's views and opinions and advices are not necessarily shared nor endorsed by articlelogy.com  
  
-
-Copyright 2008 Articlelogy.com a [Free Article Directory](http://www.articlelogy.com/)
-
-  
-
