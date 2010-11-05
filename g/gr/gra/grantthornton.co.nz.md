@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202132234id_/http%3A//www.grantthornton.co.nz/Privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105152714id_/http%3A//www.grantthornton.co.nz/Privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -54,4 +54,4 @@ Unfortunately, no data transmission over the Internet or any other network can b
 
 ### Inaccuracies and corrections
 
-We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting: [info@gtwn.co.nz](mailto:info@gtwn.co.nz)
+We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting: [info.wellington@nz.gt.com](mailto:info.wellington@nz.gt.com)
