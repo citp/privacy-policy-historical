@@ -1,67 +1,121 @@
-> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105012806id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy
 
-|  | 
+[ ](http://www.truste.org/ivalidate.php?url=www.fafsa.com&sealid=101)
 
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/year.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/fbp.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/toughestqs.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/status.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/corrections.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/pininfo.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/fafsa.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/finaid1.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/loans.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/grants.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/goodnews.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/deadlines.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/services.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/announcements.htm)  
-[](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/references.htm)
+##  Privacy Policy
 
-|  | 
+###  Student Financial Aid Services, Inc. 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Effective Date: April 28, 2008
 
-We use the information you provide about yourself when subscribing to our service only to complete the FAFSA financial aid application.  We do not share this information with outside parties except the U.S. Department of Education's (DOE) Central Processing System (CPS) who then transmits the FAFSA results via DOE software (EDExpress) to school financial aid administrators you request the information be sent.
+If you wish to opt out of any continued communication (direct mail, telephone, fax or e-mail communications), please [click here](https://web.archive.org/optout).
 
-We use email addresses to answer the email we receive and to notify you that your FAFSA has been submitted and to provide helpful reminder notices about the renewal FAFSA process. Such addresses are not used for any other purpose and are not shared with or sold to outside parties.
+###  1\. Our Commitment To Privacy
 
-We may use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that _X_ number of individuals visited a certain area on our website, or that _Y_ number of men and _Z_ number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+Student Financial Aid Services, Inc. ("SFAS") respects the privacy of our clients. As an individual who is a user of our website,[ www.FAFSA.com/Optout ](http://www.fafsa.com/Optout)("Site") or otherwise as a user of the Services provided by SFAS, you should know what information we collect from you, as well as how that information is used, disclosed, and protected. For the purposes of this Agreement, "Services" means the services provided by SFAS, or third parties designated by SFAS, through use of the Site or by phone, in connection with the provision of student aid advisory or preparation services, including the preparation, completion and submission of the federal government’s Student Financial Aid Forms (commonly referred to as the "FAFSA"). This policy statement (the "Privacy Policy") explains our privacy practices and policies.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+We encourage you to read this Privacy Policy carefully when using the Site and/or our Services. By using the Site, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+###  2\. The Information We Collect and How We Collect It
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Read more about our [security measures](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/ssl.htm).
+We collect various types of information from our clients and users of the Site. We may collect personal information that can identify you, such as your name, e-mail address, address, phone number, Social Security number and driver’s license number. We also collect other personal information that you provide, such as date of birth, date you became a resident of your state, number of family members, number of family members in college, veteran status, equity, income and other financial information as well as other information that does not identify you. Some of this information is collected when you register for and opt to use one of our Services, while other information is collected automatically. With your authorization, we may also collect credit report information about you from credit reporting bureaus. 
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  We are in the business to assist students and parents obtain financial aid for college.  Our youngest student customers are age 16.
+  1. _Information You Provide_. We may collect and store any personal information you enter on the Site or provide to us in some other manner, including information provided to us when you request to use any of our Services directly via the Site or through e-mail, chat, or phone options. On the Site, you may register for our Services for the purposes of creating an account within our database, as required to complete your FAFSA, that may include such personal information as your name, e-mail address, Social Security number, driver’s license number, income and other financial information.
+  2. _Information About Others_. We may also collect and store personal information that you provide to us about other people, including their name, address, phone number, Social Security number, financial information, or other personal information. 
+  3. _Information Collected Automatically_. We automatically collect certain types of information from your browser when you visit the Site. For example, when you visit [www.FAFSA.com](http://www.fafsa.com/), our systems automatically collect your IP address and the type of browser you use, as well as the page or address that you may have clicked through to the Site. When you visit the Site, we may also assign your computer one or more cookies to facilitate access to the Site, to personalize your online experience, to record and analyze information about your visit to the Site, and to otherwise administer and improve the Site for your use. SFAS also contracts with third-party service providers who use cookie technology to track and analyze usage and compile statistical information, and to monitor responses to e-mail and advertising campaigns on behalf of SFAS. 
 
-You will receive a copy of the information submitted on your financial aid applications (called an Application Print Report).  You will also receive a Student Aid Report (SAR) from the Federal Student Aid Programs which is the primary document to use to make changes or [corrections](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/corrections.htm) to your FAFSA record.  
+A cookie is a small piece of information that is sent to your browser and stored in your computer's hard drive. The purpose of a cookie is to remember certain user inputs on the Site. Through the use of a cookie, we collect information about your online activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you take while on the Site. 
 
-You may correct factual errors in your maintained personally identifiable information by contacting our experts at 1.800.750.3446, option 1 or via email at [ support@fafsa.com](mailto:support@sfas.com). You may also make changes to your FAFSA record on a 4-page Student Aid Report (SAR) as noted above.  The student will also receive an Acknowledgment form from the College Scholarship Service (CSS) if you requested that we complete the CSS PROFILE application for you. For more information about making changes to your SAR, visit our web site at [ http://www.fafsa.com/sar.htm](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/sar.htm) or contact the Federal processing center (CPS) at 1.800.433.3243. You may also request a 4-page SAR on which corrections may be made by calling 1.800.433.3243.
+SFAS uses both "session" and "persistent" cookies on this Site. Session cookies are temporary bits of information that are erased once you exit your web browser or turn off your computer. Persistent cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. They store information on your computer for a number of reasons, such as retrieving certain information you have previously provided (e.g., username and password), helping to determine what areas of the Site you find most valuable, and customizing the Site based on your preferences. Persistent cookies placed on your computer by this Site do not store any personal information. 
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  This is done by verifying the student's social security number and date of birth.
+Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on the Site. 
 
-Should you have other questions or concerns about these privacy policies, please feel free to [contact us](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/contact.htm).  
-  
----  
-  
-**  
-References  
-**
+  4. _Information Collected by Third Parties_. We may allow third parties to display advertisements on our site. SFAS and these companies may use tracking technologies, such as cookies, to collect information about users who view or interact with these advertisements and connect to the Site. We do not provide any personal information to these third-parties unless you have provided consent. This information allows SFAS and these companies to deliver targeted advertisements and gauge their effectiveness. Some of these third party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of advertisements targeting from member companies. 
 
-[ Read what customers say about FAFSA.com ](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/customerquotes.htm)
 
-[Read what college financial aid professionals and other national leaders say ](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/faaquotes.htm)
 
-[ Read what high school counselors say ](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/hscounselors.htm)
+###  3\. The Way We Use Information
 
-**  
-** [ Evaluating Scholarship Search & Other   
-Financial Aid Services](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/financialaidservices.htm) **  
-**
+We use the information you provide about yourself when subscribing to our Services to complete the FAFSA, to carry out any additional transactions you have requested and to provide you with our Services and support. We use the information collected to send communications to you, such as your account and transaction status. We may also use the information to provide you with information about other services available from SFAS and promotional offers we think will be of interest to you, and to request that you respond to a survey. We use e-mail addresses to (a) answer the e-mail we receive from you; (b) notify you that your FAFSA has been submitted; (c) provide helpful reminder notices about the FAFSA renewal process; and (d) send you additional information about our Services and other communications, as described below. We may also use your home or business address or telephone numbers provided by you to make similar notifications. We also use information we collect to customize, analyze, adjust and improve the Site and Services (including any communications with you) to meet our users' needs and expectations. We use the information to enforce our Terms of Use and/or separate contracts (if applicable) with you. We use the information to prevent fraud and other prohibited or illegal activities. We may use the information for other legally permissible purposes.
 
-[ Inform yourself about scholarship search and other financial aid services to help you evaluate these companies ](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/financialaidservices.htm)[ ](https://web.archive.org/web/20071011023810id_/http%3A//www.fafsa.com/financialaidservices.htm)
+###  4\. With Whom we Share your Information
+
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on the Site or while using our Services.
+
+  1. _Personal Information_. We do not rent or sell your personal information to third parties for their marketing purposes. We share your information for the purposes of providing Services to you or as indicated below. You have an opportunity to opt out of having your personal information shared, as stated further in this Privacy Policy. We may share all types of personal information as necessary: 
+    1. in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
+    2. when we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others, and to preserve the security of our systems; to comply with applicable law or cooperate with law enforcement; to enforce the terms and conditions or other agreements or policies for the Site; or to collect payments you owe to us.
+    3. in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the event of bankruptcy. 
+    4. with third parties or corporate affiliates (i.e. the Department of Education, credit card processor, billing, shipping, marketing services, web analytics and web hosting), which are required by contract to comply with this Privacy Policy, so that such third parties may assist us in (a) providing Services to you; (b) carrying out any transactions that you may request; or (c) making our business more responsive to your needs.
+
+We share personal information contained in your FASFA with the U.S. Department of Education's ("ED") Central Processing System ("CPS") ,which then transmits the FAFSA results via ED software ("EDExpress") to the school student aid administrators to whom you request the information be sent. We may respond to questions from any of those parties about your application. We may also share information as necessary with our lawyers, accountants, auditors, and regulators. 
+
+  2. _Aggregated and Non-Personal Information_. We may share aggregated information (i.e., information about you and other clients collectively, but not specifically identifiable to you) and other non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on the Site and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We may also share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to the Site and the most popular features or Services accessed. This information does not contain any personal information and may be used to target advertising and to develop content for the Site and Services that we hope you and other users will find of interest.
+
+
+
+Except as described above, we will not disclose your personal information to other third parties unless you have provided consent.
+
+###  5\. Third-Party Websites
+
+There are a number of places on the Site where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on the Site, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you review the privacy statements of all third-party websites you visit by clicking on the "privacy" link, which is typically located at the bottom of the webpage you are visiting.  
+
+
+###  6\. Your Rights, Our Obligations
+
+Our company respects the privacy of your personal information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes (except to the extent that we need to communicate with you about closing or settling your account with us). You can also choose not to provide us with certain information, but that may result in your being unable to use certain features of the Site, because such information may be required in order for you to obtain Services from SFAS.
+
+You may instruct SFAS to stop sending you certain promotional materials (e.g., e-mail messages, catalogues, postcards and letters) by following the unsubscribe instructions provided in those materials. However, we may continue to contact you to provide service to your account.
+
+If you wish to opt out of any continued communication (direct mail, telephone, fax or e-mail communications), please [click here](https://web.archive.org/optout). We will process an opt-out request as soon as reasonably practicable. If you choose to opt out of further communications, we will keep your e-mail address, phone number, name and physical address on file for the purpose of honoring your opt-out request. 
+
+If you wish to speak to a representative about your privacy choices, please call **1.866.550.5120**. 
+
+You may also write to us at:
+
+Student Financial Aid Services
+
+Attention: Privacy Administrator
+
+PO Box 278990
+
+Sacramento, California 95827
+
+###  7\. Data Security
+
+We maintain a variety of physical, electronic, and procedural safeguards designed to protect your personal information from unauthorized access and disclosure. For example, we use accepted tools and techniques to protect against unauthorized access to our systems. In addition, we work to protect the security of your personal information when utilizing a Service via the Site by using well-known Internet encryption technologies, such as Secure Sockets Layer (SSL). If you contact us by phone regarding your FAFSA, we will endeavor to validate your identity prior to sharing any personal information about you or information about your FAFSA. You should be aware that SFAS has no control over the security of other sites on the Internet that you might visit or interact with, or from which you may buy Services, even when there is a link to said site from ours.
+
+SFAS is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.FAFSA.com](http://www.fafsa.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact SFAS by calling us at **1.866.514.5948** or via email at [ clientservice@FAFSA.com](mailto:clientservice@FAFSA.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at: <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+We want you to feel confident using the Site. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. In the event of a breach of the confidentiality or security of your personal information, we will notify you as necessary so that you can take appropriate protective steps. We may notify you under such circumstances using the e-mail address(es) we have on record for you, or if you did not provide an e-mail address, by regular mail. Users should also take care with how they handle and disclose their personal information. Please refer to the Federal Trade Commission’s website at [ www.ftc.gov/bcp/menus/consumer/data.shtm ](http://www.ftc.gov/bcp/menus/consumer/data.shtm)for information about how to protect yourself against identity theft. If you elect to have any personal information, including your FAFSA application, sent to you by us via United States Postal Service or a private package delivery service, instead of through a password-protected account on the Site, you do so at your own risk. 
+
+###  8\. Our Services Are Not For Use By Children
+
+The Site is a general audience site, and we do not knowingly market to, solicit information about, or accept service from children under the age of 13. If a child under 13 submits personal information to us through any part of our Site or Services, and we become aware that the person submitting the information is a child, we will attempt to delete this information as soon as possible. We require that only persons 18 years of age and older use our Site or our Services. If you are a person under the age of 18, please have your parent or guardian assist you in accessing our Site or using our Services. 
+
+###  9\. How You Can Access Or Correct Your Information 
+
+You will receive a copy of the information submitted on your student aid applications (called a Summary Report). You will also receive from the ED a Student Aid Report ("SAR"), which is the primary document to use to make changes or corrections to your FAFSA record. You may correct factual errors in your personally identifiable information maintained by us by contacting us at **1.866.550.5120** , or via e-mail at [ clientservice@FAFSA.com ](https://web.archive.org/contact). For more information about making changes to your SAR, visit our Site or contact the federal processing center at 1.800.433.3243. You may also request a SAR on which corrections may be made by calling 1.800.433.3243. 
+
+We will take reasonable steps to verify your identity before granting access or making corrections. This may be done by verifying your Social Security number and/or date of birth, or by other means. 
+
+###  10\. How Long We Keep Your Information 
+
+One feature of our service is that after submitting the requisite information the first time, we keep this information in our files, which speeds up the FAFSA application process in subsequent years. SFAS will maintain a client’s records, including confidential Information, for a period of five years following completion of the initial application, or as otherwise required by law. If you have questions about the length of time your file is kept, please contact us at **1.866.550.5120** or by sending an e-mail to [ clientservice@FAFSA.com ](https://web.archive.org/contact). 
+
+###  11\. Other Information About Our Privacy Practices
+
+  1. _California Residents_. If you are a resident of California, in addition to the rights set forth in this Privacy Policy, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. As stated above, we do not share such information with such parties unless you have requested us to do so or have otherwise consented, and you retain the right to opt out of sharing your personal information for third-party marketing purposes. 
+  2. _Visiting Our Website from Outside the United States_. Our Site is hosted in the United States. Our Site and our Services are therefore governed by United States law. If you are visiting the Site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using our Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it, as described in this Privacy Policy. 
+  3. _No Rights of Third Parties_. This Privacy Policy does not create rights enforceable by third parties.
+  4. _Changes to this Privacy Policy_. We will occasionally update this Privacy Policy to reflect changes in our practices and Services. When we post changes to this Privacy Policy, we will revise the Effective Date. If we make any material changes to our Privacy Policy, we will notify you by sending an e-mail to the e-mail address(es) provided to us in your account profile, by sending a notice via regular mail if you did not provide us with an e-mail address, and/or by prominently posting notice of the changes on the Site. We recommend that you check the Site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. 
+
+
+
+**Student Financial Aid Services, Inc.  
+PO Box 278990,   
+Sacramento, California 95827 **
