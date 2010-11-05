@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rownine.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506235107id_/http%3A//www.rownine.com/aboutus.aspx%3Fpage%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rownine.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105113506id_/http%3A//www.rownine.com/aboutus.aspx%3Fpage%3D5) for the most accurate reproduction.*
 
-# RowNine.com - Finest Brands | Member Prices | Only Luxury
+# RowNine - The finer things ... for less
 
 **1\. Disclaimer & Privacy Policy.**  
 The information we collect through our Site helps us provide you with information specific to your needs and interests. This privacy policy (the “Privacy Policy”) covers the RowNine website (the “Site”). Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean RowNine and “you” and “your” and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy. 
