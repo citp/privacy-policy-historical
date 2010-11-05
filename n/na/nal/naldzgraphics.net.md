@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naldzgraphics.net privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627131843id_/http%3A//naldzgraphics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naldzgraphics.net privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106001225id_/http%3A//naldzgraphics.net/privacy-policy) for the most accurate reproduction.*
 
 # | Naldz Graphics
 
