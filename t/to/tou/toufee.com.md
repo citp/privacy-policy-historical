@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toufee.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615164443id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toufee.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105012922id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.*
 
 # Toufee flash maker - privacy policy
 
