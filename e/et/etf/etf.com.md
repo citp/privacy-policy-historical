@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etf.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213094003id_/http%3A//etf.com/etf-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etf.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105145710id_/http%3A//www.etf.com/etf-privacy-policy) for the most accurate reproduction.*
 
-# ETF.com - information about ETFs, exchange-traded funds
+# ETF Privacy Policy | Exchange Traded Funds - ETF Information Portal
 
 ### July 19, 2008, Revision 1.0
 
@@ -9,7 +9,7 @@ PLEASE READ THIS CAREFULLY BEFORE YOU USE THIS WEB SITE.
 
 ### 1\. Overview
 
-This Privacy Policy (”Policy”) is intended to clarify treatment of any personal information collected from you while visiting ETF.com (”the Site”). Please read the following carefully so that you may understand our practices regarding your personal information and how these practices may affect you as you use the Site and its services. ETF Media, Inc. takes protecting and respecting user privacy seriously.
+This Privacy Policy (“Policy”) is intended to clarify treatment of any personal information collected from you while visiting ETF.com (“the Site”). Please read the following carefully so that you may understand our practices regarding your personal information and how these practices may affect you as you use the Site and its services. ETF Media, Inc. takes protecting and respecting user privacy seriously.
 
 ### 2\. Policy Changes
 
@@ -17,7 +17,7 @@ This policy discloses our current privacy practices; however, we reserve the rig
 
 ### 3\. Information Collection
 
-ETF Media, Inc. (ETF.com, “we,” our, or “us”) collects information about our users (”you” or “your”) so that we may continually improve our services and advertising.
+ETF Media, Inc. (ETF.com, “we,” our, or “us”) collects information about our users (“you” or “your”) so that we may continually improve our services and [advertising](http://www.etf.com/blog/funds/advertising/ "advertising").
 
 ### Personal
 
@@ -25,7 +25,7 @@ While on the Site, we may ask for your name, e-mail address, and other personal 
 
 When you submit content to our Site, we may collect your e-mail address; however, your email address will never be displayed without your permission.
 
-When an order is placed for a product or service on our Site, we collect information typically used for credit card transactions, such as your name, mailing, billing addresses, and shipping address, if different, telephone number, and credit card number, CVV/CVC number, and expiration date. This information allows us to process and fulfill your order and notify you of your order status. All of this information is encrypted using Secure Socket Layers (SSL) technology.
+When an order is placed for a product or service on our Site, we collect information typically used for credit card transactions, such as your name, mailing, billing addresses, and shipping address, if different, telephone number, and credit card number, CVV/CVC number, and expiration date. This information allows us to process and fulfill your order and notify you of your order status. All of this information is encrypted using Secure Socket Layers (SSL) [technology](http://www.etf.com/blog/funds/technology/ "technology").
 
 We conduct research on our users’ demographics, interests, and behavior based upon the information you provide to us when you register or participate in contests or other promotions on our Site, or based upon the information kept on our server log files. This research is compiled and analyzed on an aggregated basis. We may also notify you of products, services, or areas of our Site that we think may be of interest you based on the information we’ve received. If you would prefer us not to contact you for these purposes, simply opt-out of future mailings by clicking on the “unsubscribe” link found in our e-mail messages or send an e-mail to us with “unsubscribe” in the subject line and include the e-mail address to be unsubscribed in the body of the message, and you will no longer be contacted for this reason.
 
@@ -35,7 +35,7 @@ We do our best to protect your personal information; however, we cannot ensure o
 
 ### IP Addresses
 
-When you use the Site, we receive and may store Internet Protocol (IP) addresses each time you view one of our Web pages. We may also store your IP address when you register with ETF.com, post a message, or buy anything from the Site.) IP addresses are collected for Site security, advertiser statistics, and to help us understand how the Site is being used so that we can improve users’ experience. We may use IP addresses for other purposes, such as: maintaining Site and system security, diagnosing service or technology problems, displaying appropriate content or advertising, studying and improving Site use, and reporting aggregate usage information to advertisers.
+When you use the Site, we receive and may store [Internet](http://www.etf.com/blog/funds/internet/ "Internet") Protocol (IP) addresses each time you view one of our Web pages. We may also store your IP address when you register with ETF.com, post a message, or buy anything from the Site.) IP addresses are collected for Site security, advertiser statistics, and to help us understand how the Site is being used so that we can improve users’ experience. We may use IP addresses for other purposes, such as: maintaining Site and system security, diagnosing service or [technology](http://www.etf.com/blog/funds/technology/ "technology") problems, displaying appropriate content or [advertising](http://www.etf.com/blog/funds/advertising/ "advertising"), studying and improving Site use, and Â reporting aggregate usage information to advertisers.
 
 ### Cookies
 
@@ -61,12 +61,12 @@ We may disclose individually identifiable information as follows:
 
   1. If we have your consent to disclose such information.
   2. To an advertiser so they may fulfill an order or service placed or signed up for by a user. Please make note that once the advertiser receives the information, it will handle the information under its own privacy policies and you are responsible for understanding and agreeing to those policies before submitting your information. If you do not want a particular advertiser to have your personal information, then you should not sign up for that advertiser’s offer.
-  3. Under nondisclosure agreements, to selected partners for the purpose of marketing only ETF Media, Inc. cobranded offerings, such as an ETF newsletter published by another company. Such partners will be able to use the personal information they receive from ETF Media, Inc. only for marketing the cobranded offerings, not for marketing anything else. If you sign up for another product from one of our partners, the information you provide to that company will be subject to that partner’s own privacy policies.
+  3. Under nondisclosure agreements, to selected partners for the purpose of [marketing](http://www.etf.com/blog/funds/marketing/ "marketing") only ETF Media, Inc. cobranded offerings, such as an ETF newsletter published by another company. Such partners will be able to use the personal information they receive from ETF Media, Inc. only for [marketing](http://www.etf.com/blog/funds/marketing/ "marketing") the cobranded offerings, not for marketing anything else. If you sign up for another product from one of our partners, the information you provide to that company will be subject to that partner’s own privacy policies.
   4. If you provide us with a street address, we may provide that information to advertisers so that they can send you mail about their own products and services
   5. If you buy something from us, we will disclose your personal information to the extent necessary to fulfill your order and charge your credit card (if applicable). We may use a fulfillment company to fill and ship your order (excluding products you download directly from our Site) and a credit card processing company to verify your card number and process the transaction. We may also give your information to a delivery or postal service so that they can deliver you order.
   6. If you use our recommendation service to e-mail our information to another person, ETF we will automatically send this person a one-time e-mail, with the recommended information attached. The e-mail address you give us will appear on the “From” line of the e-mail, thereby disclosing this information to whoever opens and reads the e-mail. Similarly, if you send e-mail from our Site, by using “Reply to Author” or “E-mail this Post,” your address may appear as the return address of that e-mail.
   7. We may disclose your personal information as required by applicable law, or in response to legal process, to protect the rights or property of ETF Media, Inc., or to protect the safety of ETF Media, Inc., our users, or others.
-  8. We may sometimes conduct mailings to other people’s lists. To make it easier for us to comply with the Federal CAN-SPAM Act of 2003, we may share our e-mail list of people who have requested not to receive promotional communications from us with the list providers (or contractors) solely so that we can avoid sending e-mails to people who have asked not to receive them (or, conversely, so that our advertisers can avoid sending e-mails to people who have requested not to hear from them). We provide these lists only to list providers or contractors that we consider to be reputable, and only under strict nondisclosure/nonuse agreements.
+  8. We may sometimes conduct mailings to other people’s lists. To make it easier for us to comply with the Federal CAN-SPAM Act of 2003, we may share our e-mail list of people who have requested not to receive promotional [communications](http://www.etf.com/blog/funds/communications/ "communications") from us with the list providers (or contractors) solely so that we can avoid sending e-mails to people who have asked not to receive them (or, conversely, so that our advertisers can avoid sending e-mails to people who have requested not to hear from them). We provide these lists only to list providers or contractors that we consider to be reputable, and only under strict nondisclosure/nonuse agreements.
   9. We may disclose personal information in some other limited circumstances, but we will describe them to you when we collect the information, such as in the rules of a contest or a new service. For example, if we are going to give your personal information to a contest’s sponsor, we will disclose it to you when you sign up for the contest, so that you can decide whether or not to enter the contest.
   10. We may employ contractors or other third parties to help with our operations. We may give them access to databases of user information so that they can perform their services for us, including performing system maintenance, displaying personalized content (such as portfolios), performing list analysis or management, or sending mailings for us from our advertisers. These parties are all subject to confidentiality agreements that restrict their use and disclosure of information they obtain through their relationship with ETF Media, Inc.
   11. Ads appearing on this Web site may be delivered by a third-party Web advertising partner. Information about your visits to ETF.com, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you.
