@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realauthor.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626004839id_/http%3A//www.realauthor.net/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realauthor.net privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105072851id_/http%3A//realauthor.net/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Realauthor.net
 
@@ -34,4 +34,4 @@ Revision of this Privacy Policy
 14\. This Privacy Policy may be modified from time to time without any prior notice to the visitors. Continued access of Realauthor.net by you will constitute your acceptance of any changes or revisions to the Privacy Policy. It is the goal of Realauthor.net to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
 Contacting Us  
-15\. This is the website of Realauthor.net. We can be reached via e-mail at sreeprakash_ms(at)yahoo.com. Please replace (at) with @.  If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+15\. This is the website of Realauthor.net. We can be reached via e-mail at webmaster(at)realauthor.net. Please replace (at) with @.  If you feel that this site is not following its stated information policy, you may contact us at the above email address.
