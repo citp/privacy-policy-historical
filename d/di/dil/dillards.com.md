@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612163252id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105111512id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy%3Fsplashlink%3Dprivacy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
@@ -62,9 +62,9 @@ For information on GE Money Bank's key credit terms of the Dillard's Personal Cr
 
 ### Shipping Policy
 
-Orders requesting regular shipping are shipped within 2 business days. Our [transit map](https://web.archive.org/html/transit_map.html) gives the average number of business days required for delivery after shipment. Residential shipments are sent via FedEx Home Delivery. Their business days are Tuesday thru Saturday (excluding holidays). Commercial shipments are sent via FedEx Ground. Their business days are Monday thru Friday. 
+Orders requesting regular shipping are shipped within 2 business days. Our [transit map](https://web.archive.org/html/transit_map.html) gives the average number of business days required for delivery after shipment. Residential shipments are sent via FedEx Home Delivery. Their business days are Tuesday through Saturday (excluding holidays). Commercial shipments are sent via FedEx Ground. Their business days are Monday through Friday. 
 
-Orders requesting express shipping are shipped the following business day. You can expect delivery in 2 business days after shipping. Express shipments are sent via FedEx Express. Their business days are Monday thru Friday. 
+Orders requesting express shipping are shipped the following business day. You can expect delivery in 2 business days after shipping. Express shipments are sent via FedEx Express. Their business days are Monday through Friday. 
 
 At this time Dillard's only ships merchandise to the U.S.. Additional charges will be applied to merchandise shipped to Alaska and Hawaii. 
 
@@ -95,20 +95,28 @@ Dillard’s does not ship fragrances, aerosols, and alcohol based products via E
 
 ### Return Policy
 
-We trust you will be satisfied with your Dillard's purchase. However, should you decide the merchandise is not satisfactory, Dillard's return policy is stated below.
+We trust you will be satisfied with your Dillard's purchase. However, should you decide the merchandise is not satisfactory, Dillard's return policy is stated below:
 
-The merchandise may be mailed back to us, or returned to any Dillard's location. Please leave all merchandise tags attached. Also, please note that if you choose to mail the merchandise back, you will be responsible for the postage. We recommend that you insure the package and ship via a traceable method. No refunds are given on shipping and handling charges. Personalized items cannot be returned.
+The merchandise may be mailed back to us, or returned to any Dillard's location. Please leave all merchandise tags attached. Also, please note that if you choose to mail the merchandise back, you will be responsible for the shipping fees. We recommend that you insure the package and ship via a traceable method. Dillard's offers a Fed Ex return label you can print from your computer and attach to the return package. No refunds are given on shipping and handling charges. Personalized items cannot be returned.
 
 Address package to:  
 Dillard's  
 444 Brick Church Park Drive  
 Nashville, TN 37207-3216 
 
-Dillard's will issue a refund in the form and amount of the original tender paid (including sales tax) or Dillard's will issue a Merchandise Credit, at the customer's choice, when each of the following conditions has been met:
+Dillard's will issue a refund in the form and amount of the original tender paid (including sales tax) or Dillard's will issue a Dillard’s Gift Card, at the customer's choice, when each of the following conditions has been met:
 
   1. The merchandise must be returned within thirty (30) calendar days of purchase; and
   2. The merchandise must be in its original, unused condition unless there is a manufacturer's defect; and
-  3. The merchandise must be accompanied by either the original Dillard's Receipt or the original Dillard's Proof of Purchase Label. (Proof of Purchase information is included on the packing slip for all Dillard's Direct orders.)
+  3. The merchandise must be accompanied by either the original Dillard's Receipt or the original Dillard's Proof of Purchase Label. (Proof of Purchase information is included on the packing slip for all Dillard's Direct orders.) 
+
+
+
+If the merchandise being returned was purchased using a credit card and we credit your account, the credit will show on the statement you receive **after** the issuing bank applies the credit.
+
+If you exchange merchandise, your account will be credited for the return and a sale rung for the new merchandise.
+
+If the merchandise being returned was purchased using a Dillard’s Gift Card, that card will be credited if there is a balance on it. If the balance on the card is $0.00 a new Gift Card will be issued for the return amount and mailed to you.
 
   
 
@@ -243,3 +251,5 @@ We are committed to maintaining the security of the information we receive from 
 
   
 This page last updated on January 17, 2007
+
+Prices and sale offers may vary by store location, including dillards.com, and are subject to change. © 2020 Dillard's, Inc.
