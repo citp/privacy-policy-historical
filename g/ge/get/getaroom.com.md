@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527212848id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105124606id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hotels - Cheap Hotel Rates - Rooms & Reservations
 
