@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419043156id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105024312id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
 # IBSystems, Inc., Privacy Policy
 
