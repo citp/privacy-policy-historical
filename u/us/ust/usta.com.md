@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010302id_/http%3A//www.usta.com/USTA/Home/Site%2520Services/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106112436id_/http%3A//www.usta.com/About-USTA/Organization/Information/Privacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy Policy - United States Tennis Association
+# Privacy Policy | USTA
 
 **Welcome** **  
 **  
