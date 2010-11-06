@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittley.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509004116id_/http%3A//twittley.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittley.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106223632id_/http%3A//twittley.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Twittley
 
@@ -46,4 +46,4 @@ Harness the power of social networks and viral marketing with the Twittley butto
 
 ## Sponsors
 
-[](http://twittgeek.com/ "TwittGeek")
+[](http://retweet.it/ "reTweets")
