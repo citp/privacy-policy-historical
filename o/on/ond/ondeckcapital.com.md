@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219233717id_/http%3A//www.ondeckcapital.com/our-customers/customer-bill-of-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106120723id_/http%3A//www.ondeckcapital.com/our-customers/customer-bill-of-rights) for the most accurate reproduction.*
 
-# Customer Bill of Rights - Small Business Loans and Working Capital - On Deck Capital
+# Business Financing Loans from On Deck Capital
 
 ### On Deck Capital is dedicated to helping the small business owner by advancing loans to businesses that do not qualify for a traditional bank loan. We do this with a proprietary system that looks at the performance of the business through cash flow and payment behavior in addition to personal and business credit history.
 
