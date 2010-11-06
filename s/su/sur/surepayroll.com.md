@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303083427id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106082527id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.*
 
 # SurePayroll Privacy Policy | SurePayroll
 
