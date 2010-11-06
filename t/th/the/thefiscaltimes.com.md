@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefiscaltimes.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509042616id_/http%3A//www.thefiscaltimes.com/Special-Features/documents/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefiscaltimes.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106222259id_/http%3A//www.thefiscaltimes.com/Special-Features/documents/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Fiscal Times Privacy Policy - TheFiscalTimes.com
 
