@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koleimports.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528065957id_/http%3A//www.koleimports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koleimports.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106122031id_/http%3A//www.koleimports.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kole Imports - Wholesale Dollar Store Merchandise
 
