@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the namcogames.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916215049id_/http%3A//www.namcogames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namcogames.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106222238id_/http%3A//www.namcogames.com/privacy-policy) for the most accurate reproduction.*
 
-# Namco Games
+# Privacy Policy - Namco Games
+
+**PRIVACY POLICY**
 
 Namco Networks America, Inc. ("Company") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.namcogames.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -14,7 +16,7 @@ The information we gather from customers enables us to personalize and improve o
 
 **Personal Information You Provide to Us:**
 
-We receive and may store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, mobile phone number, mailing address, credit card and/or other payment information, IP address, browser information, username, password and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Company's products and services, including specials and new features.
+We receive and may store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, mobile phone number, mailing address, credit card and/or other payment information, IP address, browser information, username, password and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Company's products and services, including specials and new features, and registering for other Company websites.
 
 **Personal Information Collected Automatically:**
 
@@ -92,12 +94,14 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 Questions or Concerns
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@namcogames.com](https://web.archive.org/web/20080916215049id_/http%3A//www.namcogames.com/privacy@namcogames.com). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@namcogames.com](https://web.archive.org/web/20101106222238id_/http://www.namcogames.com/privacy-policy/privacy@namcogames.com). We will make every effort to resolve your concerns.
 
 Effective Date: September 01, 2008
 
-Namco Networks  
-1740 Technology Dr.  
-Suite 320  
-San Jose, CA 95125  
+Namco Networks   
+1740 Technology Dr.   
+Suite 320   
+San Jose, CA 95125   
 [privacy@namcogames.com](mailto:privacy@namcogames.com)
+
+Top
