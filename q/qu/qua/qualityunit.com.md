@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508090548id_/http%3A//www.qualityunit.com/about-us/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106143248id_/http%3A//www.qualityunit.com/about-us/privacy-policy-quality-unit) for the most accurate reproduction.*
 
 # Privacy Policy - About Us
 
@@ -40,6 +40,7 @@ This data will be used solely by Quality Unit, and its agents. The following exp
 We collect the following information:
 
   * HTTP cookies
+  * Flash Cookies
 
 
 
@@ -91,6 +92,8 @@ The following explanation is provided for why this data is collected:
  **Cookies**
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+
+Flash Cookies (local shared objects) are a technology offered by Macromedia Flash Player. You can set your operating system permissions so, that browser will not be able to write any information on your disk to protect your privacy. Next option how to avoid Flash Cookies is to uninstall Macromedia Flash Player from your computer. 
 
 Our site makes use of cookies. Cookies are used for the following purposes:
 
