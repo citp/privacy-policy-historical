@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508143950id_/http%3A//www.finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106222747id_/http%3A//www.finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Find It Classifieds | Privacy Policy
 
