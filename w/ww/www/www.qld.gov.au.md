@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230205613id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106024348id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy : Queensland Government
 
