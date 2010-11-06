@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstationlifestyle.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211801id_/http%3A//playstationlifestyle.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstationlifestyle.net privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106224936id_/http%3A//playstationlifestyle.net/privacy-policy) for the most accurate reproduction.*
 
 # PlayStation LifeStyle » Privacy Policy
 
