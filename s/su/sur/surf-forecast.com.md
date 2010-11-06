@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508215251id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106223252id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - surf-forecast.com
 
-**[](http://www.youtube.com/watch?v=9Ba15nSdmjs)NOW AVAILABLE: FREE CUSTOM ALERTS** for predicted wind and open-water swell conditions for all 5000+ worldwide locations. View any surf forecast page and **click on the alerts link (next to the page heading)** to set up an email alert. Customize alerts for surfing or windsurfing/kiteboarding. You can choose as many alert locations as you want, plus you can adjust the triggers and manage alerts sending options. [_watch video_](http://www.youtube.com/watch?v=9Ba15nSdmjs)
+**HIGH SURF ALERT ISSUED FRIDAY 11:30am GMT:** Exceptionally powerful swell is heading for the Atlantic Coastline of Europe and North Africa from Monday, and in many places combining with offshore winds. Expect long period 5m to 7m swells leading to epic conditions at places like Mundaka that can handle it. It will be a NW swell, so breaks open to this direction will mostly be too big until it subsides after 2 or 3 days. Meanwhile, it should wrap into all kinds of spots that rarely work. Go explore. 
 
 Surf-Forecast.com is committed to protect the privacy of its users while providing means for convenient exchange of information. 
 
