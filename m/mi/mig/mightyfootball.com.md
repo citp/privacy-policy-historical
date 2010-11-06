@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mightyfootball.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508140636id_/http%3A//www.mightyfootball.com/%3Fpage_id%3D1344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyfootball.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106222219id_/http%3A//www.mightyfootball.com/%3Fpage_id%3D1344) for the most accurate reproduction.*
 
-# Privacy Statement | MightyFootball
+# Privacy | MightyFootball
 
 MightyFootball.com recognizes the importance of protecting the privacy of all information provided by users of MightyFootball.com. We created the following policy guidelines with a fundamental respect for our users’ right to privacy.
 
