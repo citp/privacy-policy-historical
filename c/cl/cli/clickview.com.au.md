@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619204146id_/http%3A//www.clickview.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106120906id_/http%3A//www.clickview.com.au/privacy.php) for the most accurate reproduction.*
 
 # ClickView - the digital video solution for schools
 
