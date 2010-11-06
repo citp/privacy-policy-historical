@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruhanirabin.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523213842id_/http%3A//www.ruhanirabin.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruhanirabin.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106170446id_/http%3A//www.ruhanirabin.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for RuhaniRabin.com
 
