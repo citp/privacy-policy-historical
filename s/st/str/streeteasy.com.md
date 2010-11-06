@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627120156id_/http%3A//streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106114337id_/http%3A//streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
