@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primothemes.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507004801id_/http%3A//www.primothemes.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primothemes.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106143022id_/http%3A//www.primothemes.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy « PriMoThemes.com
 
