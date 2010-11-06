@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsjustwannahavefunds.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609191249id_/http%3A//www.girlsjustwannahavefunds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsjustwannahavefunds.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106174201id_/http%3A//www.girlsjustwannahavefunds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Girls Just Wanna Have Funds: Personal Finance Blog For Women Taking Charge Of Their Finances
 
