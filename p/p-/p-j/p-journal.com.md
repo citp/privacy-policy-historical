@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the p-journal.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525053723id_/http%3A//www.p-journal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the p-journal.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106052342id_/http%3A//www.p-journal.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
