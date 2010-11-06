@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardscentral.com.au privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205432id_/http%3A//www.rewardscentral.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardscentral.com.au privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106073617id_/http%3A//www.rewardscentral.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - RewardsCentral
 
@@ -16,10 +16,6 @@ RewardsCentral uses the information you provide in your Account Settings and Rew
 Demographic and profile data is only shared with RewardsCentral clients and advertisers on an aggregate or collective basis. For example, we might tell our clients that 3680 of our members live in a particular town or suburb, or that 43% of our members have indicated an interest in sport.
 
 Your personally identifiable information such as your name, address or email address will never be sold to any third party. Your personally identifiable information may be shared with a third party if it is required by law. Your personally identifiable information may also be shared with a third party (for example a supplier or partner of ours) if it is necessary for us to process a transaction that you request, or if you opt-in to a service or feature where we outsource some aspects of the provision of that service or feature. For example, if you opt in to the Postal Rewards feature, we may share your postal address with a mail processing company that sends mail to you on our behalf. We have strict legal agreements in place that prevent any third party from using that information more than once, or for any purpose beyond what is allowed for in the agreement.
-
-##### What is the Community Profile and what happens to the information I provide there?
-
-The Community Profile is a separate section, unrelated to the Rewards Profile. Filling in your Community Profile is completely optional. Any information you enter and any photo you upload to the Community Profile is published on the web site and available for viewing by the public. Therefore if you wish to use the Community Profile feature, you should only enter information of a general nature that you are comfortable sharing publicly.
 
 ##### What happens to the answers I give in an online survey?
 
@@ -55,10 +51,10 @@ We respect your time and attention. We will never send to you more than fourteen
 
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-To unsubscribe now, [click here](https://web.archive.org/web/20100610205432id_/http%3A//www.rewardscentral.com.au/Account/Settings.aspx).
+To unsubscribe now, [click here](https://web.archive.org/web/20101106073617id_/http%3A//www.rewardscentral.com.au/Account/Settings.aspx).
 
-**If you have received unwanted email sent from RewardsCentral,** or purporting to be sent from RewardsCentral, please [contact RewardsCentral](https://web.archive.org/web/20100610205432id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx).
+**If you have received unwanted email sent from RewardsCentral,** or purporting to be sent from RewardsCentral, please [contact RewardsCentral](https://web.archive.org/web/20101106073617id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx).
 
-**If you have any questions** about the privacy and permission practices of the RewardsCentral Web site or your dealings with RewardsCentral Australia Pty Ltd, please [contact RewardsCentral](https://web.archive.org/web/20100610205432id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy and permission practices of the RewardsCentral Web site or your dealings with RewardsCentral Australia Pty Ltd, please [contact RewardsCentral](https://web.archive.org/web/20101106073617id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the RewardsCentral [Terms of Service](https://web.archive.org/web/20100610205432id_/http%3A//www.rewardscentral.com.au/Terms.aspx).
+This statement should be read in conjunction with the RewardsCentral [Terms of Service](https://web.archive.org/web/20101106073617id_/http%3A//www.rewardscentral.com.au/Terms.aspx).
