@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628031144id_/http%3A//www.surfersvillage.com//popup/popup4.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106014716id_/http%3A//www.surfersvillage.com//popup/popup4.htm) for the most accurate reproduction.*
 
 # Privacy
 
