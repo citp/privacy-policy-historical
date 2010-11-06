@@ -1,11 +1,45 @@
-> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910032105id_/http%3A//www.diy-dating.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106052546id_/http%3A//www.diy-dating.com/privacy.php) for the most accurate reproduction.*
 
 # DIY-Dating
 
-This Privacy Statement covers DIY-Dating's treatment of your personal information. This Statement does not apply to the practices of companies that DIY-Dating does not own or control, or to people we do not employ. 
+|   
+---  
+   
+|  |  Home   
+---  
+Create an Account   
+Login   
+Take the Tour   
+My Partners   
+Help   
+| [Main Help](https://web.archive.org/master_help.php?menu=helpsub "main account help")  
+---  
+[Contact Us](https://web.archive.org/web/20101106052546id_/http%3A//www.diy-dating.com/feedback.php?menu=helpsub "contact us")  
+[FAQs](https://web.archive.org/faqs.php?menu=helpsub&ori=master "FAQs")  
+[Marketing](https://web.archive.org/marketing.php?menu=helpsub "Marketing help")  
+[Tutorials](https://web.archive.org/tutorials.php?menu=helpsub "Tutorials")  
+Our Forums   
+Contact Us   
+About Us   
+Jobs   
+  
+**_Forum Latest_**  
+  
+[](https://web.archive.org/web/20101106052546id_/http%3A//www.diy-dating.com/clickchat.php)
+
+| 
+
+[Join for free](https://web.archive.org/web/20101106052546id_/http%3A//www.diy-dating.com/createaccount.php "create an account") | [Login](https://web.archive.org/web/20101106052546id_/http%3A//www.diy-dating.com/master_login.php)  
+  
+---  
+  
+Privacy Statement
+
+| This Privacy Statement covers DIY-Dating's treatment of your personal information. This Statement does not apply to the practices of companies that DIY-Dating does not own or control, or to people we do not employ. 
 
 DIY-Dating does not sell or rent your personally identifiable information (email address, IP address, or birth date). We do not collect your first and last name, street address or telephone number.   
   
+---  
 **Information Collection**  
 In order to use this website, you must be an adult at least 18 years of age (or older if the lawful age in your state, nation, or locality, is higher than 18); When you register with DIY-Dating, you are required to provide contact information (email address), unique identifiers (username and password), and demographic information (birth date, gender, ethnicity, etc.). You also tell us something about your personal preferences and interests.   
 **Information Use**  
@@ -25,4 +59,11 @@ Be aware that any personally identifiable information you choose to disclose on 
 **Legal Disclaimer**  
 DIY-Dating will disclose your personal information, without notice, if required to do so by law, if necessary to protect the personal safety of users or the public, to protect and defend the rights or property of DIY-Dating, or if we find that your actions on our website violate the DIY-Dating Terms and Conditions. We are not responsible for death, personal injury, pain and suffering, loss of work or any other loss suffered by your use of this site.   
 **General**  
-By using this site, you agree to this Statement and the Terms and Conditions. We may change this Statement by posting a new version on our site and a notice of the change. We encourage you to periodically review this Statement in order to be informed of how DIY-Dating is protecting your information. You agree to sign a non-electronic version of this document upon our request. 
+By using this site, you agree to this Statement and the Terms and Conditions. We may change this Statement by posting a new version on our site and a notice of the change. We encourage you to periodically review this Statement in order to be informed of how DIY-Dating is protecting your information. You agree to sign a non-electronic version of this document upon our request.   
+  
+  
+  
+* * *
+
+| [Definitions](https://web.archive.org/definitions.php) | [Contact Us](https://web.archive.org/feedback.php) | [Anti-Spam Policy](https://web.archive.org/antispampolicy.php) | [Privacy Statement](https://web.archive.org/privacy.php) | [Terms and Conditions](https://web.archive.org/terms.php) | [Profile Terms and Conditions](https://web.archive.org/profiles_terms.php)  
+---|---|---|---|---|---
