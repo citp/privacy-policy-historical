@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lilwaynehq.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507003016id_/http%3A//www.lilwaynehq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilwaynehq.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106142801id_/http%3A//www.lilwaynehq.com/privacy-policy) for the most accurate reproduction.*
 
-# LilWayneHQ.com's Privacy Policy
+# LilWayneHQ.com Privacy Policy
 
 **What information do we collect?**
 
