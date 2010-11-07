@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siterapture.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623022406id_/http%3A//www.siterapture.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siterapture.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107032703id_/http%3A//www.siterapture.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - SiteRapture
 
