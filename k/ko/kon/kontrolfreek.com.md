@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kontrolfreek.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508111808id_/http%3A//www.kontrolfreek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontrolfreek.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107201135id_/http%3A//www.kontrolfreek.com/privacy.asp) for the most accurate reproduction.*
 
-# KontrolFreek Privacy Policy: XBox 360 & PS3 Precision Game Controller Accessories | KontrolFreek
+# KontrolFreek Privacy Policy: Xbox 360 & PS3 Performance Game Controller Accessories by KontrolFreek
 
-KontrolFreek Privacy Policy: XBox 360 & PS3 Precision Game Controller Accessories | KontrolFreek
+KontrolFreek Privacy Policy: Xbox 360 & PS3 Performance Game Controller Accessories by KontrolFreek
 
 KontrolFreek has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: KontrolFreek.com. 
 
