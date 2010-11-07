@@ -1,31 +1,35 @@
-> *The following text is extracted and transformed from the endclothing.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220192444id_/http%3A//www.endclothing.com/shop.php/privacy-policy/i_8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endclothing.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107081642id_/http%3A//www.endclothing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - End Clothing - Adidas Originals, Lyle and Scott, Nike, Fila, Sergio Tacchini, Fred Perry, Stussy, MHI by Maharishi, APC, Trainerspotter, Fjallraven, Wood Wood, Barbour, Nom De Guerre and Folk
+# Privacy Policy
 
-#### Our Commitment To Privacy
+### Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-#### The Information We Collect
+### The Information We Collect
 
 This notice applies to all information collected or submitted on this website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-> Name  
->  Address  
->  Email address  
->  Phone number
+  * Name
+  * Address
+  * Email address
+  * Phone number
+
+
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
-> Name  
->  Address  
->  Phone Number
+  * Name
+  * Address
+  * Phone Number
 
-#### The Information We DONT Collect
+
+
+### The Information We DONT Collect
 
 Credit/Debit Card Information - we use a third party payment processor to handle this information securely. None of your Credit/Debit card information is stored anywhere on this site.
 
-#### The Way We Use Information
+### The Way We Use Information
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
@@ -39,15 +43,15 @@ We may use non-identifying and aggregate information to better design our websit
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-#### Our Commitment To Data Security
+### Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-#### Our Commitment To Children's Privacy
+### Our Commitment To Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-#### How You Can Access Or Correct Your Information
+### How You Can Access Or Correct Your Information
 
 You can access all your personally identifiable information that we collect online and maintain by logging into your account with the username and password you created when you registered with us.
 
@@ -55,6 +59,6 @@ You can also correct factual errors in your personally identifiable information 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-#### How To Contact Us
+### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact us.
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/contacts).
