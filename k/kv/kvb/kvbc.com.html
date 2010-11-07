@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the kvbc.com privacy policy that was archived on 2010-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507221800id_/http%3A//www.mynews3.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kvbc.com privacy policy that was archived on 2010-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101107114943id_/http%3A//www.mynews3.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Privacy Policy - My News 3</title>
+<title>Privacy Policy - My News 3 - KSNV, Las Vegas, NV</title>
+<meta name="revisit-after" content="15 days">
 <link rel="shortcut icon" href="http://cache.edashcms.com/site/mynews3.com/favicon.ico" type="image/x-icon">
 <link href="http://cache.edashcms.com/style.css" rel="stylesheet" type="text/css">
 <link href="http://cache.edashcms.com/print.css" rel="stylesheet" type="text/css" media="print">
@@ -57,7 +58,9 @@ GA_googleAddSlot("ca-pub-3903846744081648", "FoodRecipe_468x60");
 GA_googleAddSlot("ca-pub-3903846744081648", "Health_160x600");
 GA_googleAddSlot("ca-pub-3903846744081648", "Health_250x250");
 GA_googleAddSlot("ca-pub-3903846744081648", "Health_468x60");
+GA_googleAddSlot("ca-pub-3903846744081648", "HomePage160x600");
 GA_googleAddSlot("ca-pub-3903846744081648", "HomePage_468x60");
+GA_googleAddSlot("ca-pub-3903846744081648", "News468x60");
 GA_googleAddSlot("ca-pub-3903846744081648", "NewsLiveStream_160x600");
 GA_googleAddSlot("ca-pub-3903846744081648", "NewsLiveStream_250x250");
 GA_googleAddSlot("ca-pub-3903846744081648", "NewsLiveStream_468x60");
@@ -188,10 +191,38 @@ GA_googleAddSlot("ca-pub-3903846744081648", "WeatherVenue4_468x60");
 GA_googleFetchAds();
 </script> 
 <!-- END AD HEADER CODE -->
+
 </head>
 
 
-<body class="purpleblue">
+<body id="mainbody" class="">
+
+<!-- CLIENT-SIDE COLOR -->
+<script type="text/javascript">
+if (!document.all) {
+	document.getElementById("mainbody").setAttribute("class", getCookie("pagecolor"));
+} else {
+	document.getElementById("mainbody").className = getCookie("pagecolor");
+}
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+</script>
+<!-- END CLIENT-SIDE COLOR -->
+
+
 	<div id="sitecontainer">
     	<div id="header">
         	<div id="header-tools">
@@ -219,20 +250,24 @@ GA_googleFetchAds();
                     <div class="module-content">
                     	<div id="header-logo">
                             <a href="/index.php"><img src="http://cache.edashcms.com/site/mynews3.com/images/logo.png" alt="My News 3" class="png" border="0"></a>
-                            <p class="date">Friday May 7 3:18pm</p>
+                            <p class="date">Sunday November 7 3:49am</p>
                         </div>
+                       	<div id="top-banner">
+                          <script type="text/javascript">
+GA_googleFillSlot("News468x60");
+</script>                        </div>
 
 <!-- WEATHER -->
                        	<div id="header-weather">
-                        	<div id="conditions-current">
-                                <div class="temp-today">
-                                    <span class="conditions-desc">PARTLY CLOUDY</span>
-                                    <span class="temp-high">HIGH 80°</span> <span class="temp-low">LOW 60°</span>
-                                </div>
-                                <div class="temp-current">74°</div>
-                                <div class="clear"></div>
-                            </div>
-							                            <img src="http://cache.edashcms.com/img/64/64/1/0/images/weather/12.png" height="64" width="64" alt="Partly Cloudy" title="Partly Cloudy" class="png" id="icon-currentweather">
+						  <div id="conditions-current">
+    <div class="temp-today">
+        <span class="conditions-desc">CLEAR</span>
+        <span class="temp-high">HIGH 74°</span> <span class="temp-low">LOW 58°</span>
+    </div>
+    <div class="temp-current">58°</div>
+    <div class="clear"></div>
+</div>
+<img src="http://static4.edashcms.com/img/64/64/1/0/images/weather/21.png" height="64" width="64" alt="Clear" title="Clear" class="png" id="icon-currentweather">
                         </div>
 <!-- END WEATHER -->
 
@@ -265,7 +300,7 @@ GA_googleFetchAds();
                   <form action="/privacy.php" method="post">
                 	<p>Choose your page color:</p>
                     <div id="selectcolor">
-                      <input type="radio" name="pagecolor" id="pagecolor_purpleblue" value="purpleblue" checked="checked">
+                      <input type="radio" name="pagecolor" id="pagecolor_purpleblue" value="purpleblue">
                       <label for="pagecolor_purpleblue" class="purpleblue">purpleblue</label>
                       <input type="radio" name="pagecolor" id="pagecolor_red" value="red">
                       <label for="pagecolor_red" class="red">red</label>
@@ -294,31 +329,38 @@ GA_googleFetchAds();
                         <table border="0" cellspacing="0" cellpadding="0" width="100%">
                           <tbody><tr>
                             <td align="left" width="33%" valign="top">
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[12388]" checked="checked"> Face to Face with Jon Ralston</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[5394]" checked="checked"> Nevada News</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[5042]" checked="checked"> Entertainment</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[7480]" checked="checked"> Inside Nevada with Jim Rogers</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[5442]" checked="checked"> What's on News 3?</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3560]"> Green Living</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3563]"> Home Improvement</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3569]"> Tech Talk</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_12388" name="usemodules[12388]" checked="checked"> Face to Face with Jon Ralston</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_5394" name="usemodules[5394]" checked="checked"> Nevada News</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_28603" name="usemodules[28603]" checked="checked"> News 3 Coroner's Inquest Survey</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_31375" name="usemodules[31375]" checked="checked"> Olbermann Suspended</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_31339" name="usemodules[31339]" checked="checked"> School Buses Involved in Crash</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_5042" name="usemodules[5042]" checked="checked"> Entertainment</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_7480" name="usemodules[7480]" checked="checked"> Inside Nevada with Jim Rogers</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_5442" name="usemodules[5442]" checked="checked"> What's on News 3?</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3560" name="usemodules[3560]"> Green Living</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3563" name="usemodules[3563]"> Home Improvement</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3569" name="usemodules[3569]"> Tech Talk</label></div>
                             </td>
                             <td align="left" width="33%" valign="top">
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[5391]" checked="checked"> Face Time: Submit News and Video</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[5398]" checked="checked"> National News</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[11971]" checked="checked"> Politics in Nevada</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[5400]" checked="checked"> Top Stories on MyNews3.com</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3561]"> Health and Wellness</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3564]"> Lawn and Garden</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3607]"> Travel</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_17524" name="usemodules[17524]" checked="checked"> Anchor Mom - "Bullying"</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_5391" name="usemodules[5391]" checked="checked"> Face Time: Submit News and Video</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_19239" name="usemodules[19239]" checked="checked"> Intermountain West Editorial</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_5398" name="usemodules[5398]" checked="checked"> National News</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_11971" name="usemodules[11971]" checked="checked"> Politics in Nevada</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_5400" name="usemodules[5400]" checked="checked"> Top Stories on MyNews3.com</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3561" name="usemodules[3561]"> Health and Wellness</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3564" name="usemodules[3564]"> Lawn and Garden</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3607" name="usemodules[3607]"> Travel</label></div>
                             </td>
                             <td align="left" width="33%" valign="top">
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[5253]" checked="checked"> Links</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[6036]" checked="checked"> Top Video</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[16311]" checked="checked"> Wheel of Fortune in Las Vegas</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[7491]" checked="checked"> NBC Video</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3567]"> Real Estate</label></div>
-                      <div class="usemodule"><label><input type="checkbox" name="usemodules[3568]"> Senior Living</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_28068" name="usemodules[28068]" checked="checked"> Healthline Today with Dr. Jim</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_5253" name="usemodules[5253]" checked="checked"> Links</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_30661" name="usemodules[30661]" checked="checked"> Local Savings</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_29571" name="usemodules[29571]" checked="checked"> Sign up for News 3 Breaking News Alerts</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_23080" name="usemodules[23080]" checked="checked"> Solutions: Nevada's $3 billion budget hole</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_6036" name="usemodules[6036]" checked="checked"> Top Video</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3567" name="usemodules[3567]"> Real Estate</label></div>
+                      <div class="usemodule"><label><input type="checkbox" id="usemodules_3568" name="usemodules[3568]"> Senior Living</label></div>
                             </td>
                           </tr>
                         </tbody></table>
@@ -345,9 +387,8 @@ GA_googleFetchAds();
                             <div id="textsize">
                                 TEXT SIZE
                                 <div class="sliderbar">
-                                    <div class="slidercontrol">
-                                        <img src="http://cache.edashcms.com/images/icon_textsize.png" height="13" width="13" alt="" border="0" class="png">
-                                    </div>
+                                    <div class="ui-slider-handle slidercontrol">
+                                        <img src="http://cache.edashcms.com/images/icon_textsize.png" height="13" width="13" alt="" border="0" class="png">                                    </div>
                                 </div>
                             </div>
                             <form action="/search.php" id="cse-search-box">
@@ -360,14 +401,12 @@ GA_googleFetchAds();
                                 <input type="text" id="searchbar" name="q" style="width:200px;">
                                 <input type="submit" class="submit" name="sa" value="SEARCH">
                             </form>
-                            <a href="help.php">HELP</a>
-                        </td>
+                            <a href="help.php">HELP</a>                        </td>
                         <td class="nav-br"></td>
                     </tr>
-
                 </tbody></table>
             </div>
-        </div>
+</div>
 
 
 
@@ -376,7 +415,7 @@ GA_googleFetchAds();
         	<div id="content" class="column">
 
 
-            	<div id="story" class="column " style="font-size: 12px;">
+            	<div id="story" class="column ">
                 	<p class="storynav-top">
                         <a title="Send this page to a friend" href="javascript:;" onclick="return addthis_open(this, 'email', '[URL]', '[TITLE]');"><img src="http://cache.edashcms.com/images/icon_email.gif" alt="Email Page"></a>
                         <a title="Print this page" href="javascript:window.print();"><img src="http://cache.edashcms.com/images/icon_print.gif" alt="Print Page"></a>
@@ -487,6 +526,22 @@ What the Administrators do:<br>Monitor Posts<br><br>A Moderator will review all 
                   <div id="advertisements-col3">
                     	<div class="banner">
                     		<script type="text/javascript">
+GA_googleFillSlot("NewsLiveStream_250x250");
+</script>                    	</div>
+                    	<div class="banner">
+                    		<script type="text/javascript">
+GA_googleFillSlot("Column3_ROS");
+</script>                    	</div>
+                    	<div class="banner">
+                    		<script type="text/javascript">
+GA_googleFillSlot("Column3_ROS");
+</script>                    	</div>
+                    	<div class="banner">
+                    		<script type="text/javascript">
+GA_googleFillSlot("Column3_ROS");
+</script>                    	</div>
+                    	<div class="banner">
+                    		<script type="text/javascript">
 GA_googleFillSlot("Column3_ROS");
 </script>                    	</div>
                     	<div class="banner">
@@ -546,31 +601,40 @@ GA_googleFillSlot("Column3_ROS");
                                   	<table cellpadding="0" cellspacing="0" border="0">
                                         <tbody><tr valign="top">
                                             <td align="center">
-                                                <a href="/story.php?id=7814" target="_top"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/RVB8H.jpg" alt="Nevada's Information Network" title="Nevada's Information Network"></a><br>
+                                                <a href="/story.php?id=7814" target="_top"><img src="http://static3.edashcms.com/img/120/150/1/0/./images/general/RVB8H.jpg" alt="Nevada's Information Network" title="Nevada's Information Network"></a><br>
                                                 <a href="/story.php?id=7814" target="_top">Nevada's Information Network</a>                                            </td>
                                             <td align="center">
-                                                <a href="/link.php?id=7571" target="_top"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/BwFpg.jpg" alt="News 3 on your cell phone" title="News 3 on your cell phone"></a><br>
+                                                <a href="/category.php?id=5417" target="_top"><img src="http://static3.edashcms.com/img/120/150/1/0/./images/general/9uexX.jpg" alt="Intermountain West Editorial" title="Intermountain West Editorial"></a><br>
+                                                <a href="/category.php?id=5417" target="_top">Intermountain West Editorial</a>                                            </td>
+                                            <td align="center">
+                                                <a href="/link.php?id=7571" target="_top"><img src="http://static4.edashcms.com/img/120/150/1/0/./images/general/BwFpg.jpg" alt="News 3 on your cell phone" title="News 3 on your cell phone"></a><br>
                                                 <a href="/link.php?id=7571" target="_top">News 3 on your cell phone</a>                                            </td>
                                             <td align="center">
-                                                <a href="http://www.twitter.com/kvbc" target="_blank" onclick="return openLink('http://www.twitter.com/kvbc', 800, 600);"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/cFw2w.jpg" alt="News 3 on Twitter" title="News 3 on Twitter"></a><br>
-                                                <a href="http://www.twitter.com/kvbc" target="_blank" onclick="return openLink('http://www.twitter.com/kvbc', 800, 600);">News 3 on Twitter</a>                                            </td>
+                                                <a href="http://www.facebook.com/#!/pages/Las-Vegas-NV/MyNews3/101158809938537?__a=3&amp;ajaxpipe=1" target="_blank" onclick="return openLink('http://www.facebook.com/#!/pages/Las-Vegas-NV/MyNews3/101158809938537?__a=3&amp;ajaxpipe=1', 800, 600);"><img src="http://static4.edashcms.com/img/120/150/1/0/./images/general/QgO1x.jpg" alt="News 3 on Facebook" title="News 3 on Facebook"></a><br>
+                                                <a href="http://www.facebook.com/#!/pages/Las-Vegas-NV/MyNews3/101158809938537?__a=3&amp;ajaxpipe=1" target="_blank" onclick="return openLink('http://www.facebook.com/#!/pages/Las-Vegas-NV/MyNews3/101158809938537?__a=3&amp;ajaxpipe=1', 800, 600);">News 3 on Facebook</a>                                            </td>
                                             <td align="center">
-                                                <a href="/category.php?id=5440" target="_top"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/ijUtO.jpg" alt="Blogs" title="Blogs"></a><br>
+                                                <a href="http://www.facebook.com/group.php?gid=53788416495&amp;ref=ss" target="_blank" onclick="return openLink('http://www.facebook.com/group.php?gid=53788416495&amp;ref=ss', 800, 600);"><img src="http://static4.edashcms.com/img/120/150/1/0/./images/general/8O8as.jpg" alt="Wake Up with the Wagners on Facebook" title="Wake Up with the Wagners on Facebook"></a><br>
+                                                <a href="http://www.facebook.com/group.php?gid=53788416495&amp;ref=ss" target="_blank" onclick="return openLink('http://www.facebook.com/group.php?gid=53788416495&amp;ref=ss', 800, 600);">Wake Up with the Wagners on Facebook</a>                                            </td>
+                                            <td align="center">
+                                                <a href="http://twitter.com/KSNVTV" target="_blank" onclick="return openLink('http://twitter.com/KSNVTV', 800, 600);"><img src="http://static3.edashcms.com/img/120/150/1/0/./images/general/ySTTb.jpg" alt="News 3 on Twitter" title="News 3 on Twitter"></a><br>
+                                                <a href="http://twitter.com/KSNVTV" target="_blank" onclick="return openLink('http://twitter.com/KSNVTV', 800, 600);">News 3 on Twitter</a>                                            </td>
+                                            <td align="center">
+                                                <a href="/category.php?id=5440" target="_top"><img src="http://static4.edashcms.com/img/120/150/1/0/./images/general/ijUtO.jpg" alt="Blogs" title="Blogs"></a><br>
                                                 <a href="/category.php?id=5440" target="_top">Blogs</a>                                            </td>
                                             <td align="center">
-                                                <a href="http://www.mynews3.com/category.php?id=5399" target="_blank" onclick="return openLink('http://www.mynews3.com/category.php?id=5399', 800, 600);"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/s37Uj.jpg" alt="Newscasts on Demand" title="Newscasts on Demand"></a><br>
+                                                <a href="http://www.mynews3.com/category.php?id=5399" target="_blank" onclick="return openLink('http://www.mynews3.com/category.php?id=5399', 800, 600);"><img src="http://static3.edashcms.com/img/120/150/1/0/./images/general/s37Uj.jpg" alt="Newscasts on Demand" title="Newscasts on Demand"></a><br>
                                                 <a href="http://www.mynews3.com/category.php?id=5399" target="_blank" onclick="return openLink('http://www.mynews3.com/category.php?id=5399', 800, 600);">Newscasts on Demand</a>                                            </td>
                                             <td align="center">
-                                                <a href="/category.php?id=98" target="_top"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/iQMHy.jpg" alt="My Nevada Jobs" title="My Nevada Jobs"></a><br>
+                                                <a href="/category.php?id=98" target="_top"><img src="http://static3.edashcms.com/img/120/150/1/0/./images/general/iQMHy.jpg" alt="My Nevada Jobs" title="My Nevada Jobs"></a><br>
                                                 <a href="/category.php?id=98" target="_top">My Nevada Jobs</a>                                            </td>
                                             <td align="center">
-                                                <a href="/category.php?id=6064" target="_top"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/XLfdq.jpg" alt="Watch NBC Shows Online" title="Watch NBC Shows Online"></a><br>
+                                                <a href="/category.php?id=6064" target="_top"><img src="http://static3.edashcms.com/img/120/150/1/0/./images/general/XLfdq.jpg" alt="Watch NBC Shows Online" title="Watch NBC Shows Online"></a><br>
                                                 <a href="/category.php?id=6064" target="_top">Watch NBC Shows Online</a>                                            </td>
                                             <td align="center">
-                                                <a href="http://www.aconv.org" target="_blank" onclick="return openLink('http://www.aconv.org', 800, 600);"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/yjbii.jpg" alt="Autism Coalition of Nevada" title="Autism Coalition of Nevada"></a><br>
+                                                <a href="http://www.aconv.org" target="_blank" onclick="return openLink('http://www.aconv.org', 800, 600);"><img src="http://static4.edashcms.com/img/120/150/1/0/./images/general/yjbii.jpg" alt="Autism Coalition of Nevada" title="Autism Coalition of Nevada"></a><br>
                                                 <a href="http://www.aconv.org" target="_blank" onclick="return openLink('http://www.aconv.org', 800, 600);">Autism Coalition of Nevada</a>                                            </td>
                                             <td align="center">
-                                                <a href="http://autismspeaks.org" target="_blank" onclick="return openLink('http://autismspeaks.org', 800, 600);"><img src="http://cache.edashcms.com/img/120/150/1/0/./images/general/UX1og.jpg" alt="Autism Speaks" title="Autism Speaks"></a><br>
+                                                <a href="http://autismspeaks.org" target="_blank" onclick="return openLink('http://autismspeaks.org', 800, 600);"><img src="http://static3.edashcms.com/img/120/150/1/0/./images/general/UX1og.jpg" alt="Autism Speaks" title="Autism Speaks"></a><br>
                                                 <a href="http://autismspeaks.org" target="_blank" onclick="return openLink('http://autismspeaks.org', 800, 600);">Autism Speaks</a>                                            </td>
                                         </tr>
                                     </tbody></table>
@@ -592,10 +656,6 @@ GA_googleFillSlot("Column3_ROS");
 			<div id="advertisements" class="column">
             	<div class="banner">
                   <script type="text/javascript">
-GA_googleFillSlot("Column4_bottomROS");
-</script>                </div>
-            	<div class="banner">
-                  <script type="text/javascript">
 GA_googleFillSlot("Column4_topROS");
 </script>                </div>
             	<div class="banner">
@@ -608,7 +668,63 @@ GA_googleFillSlot("Column4_bottomROS");
 </script>                </div>
             	<div class="banner">
                   <script type="text/javascript">
+GA_googleFillSlot("Column4_bottomROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
 GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_bottomROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_bottomROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_bottomROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_topROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_bottomROS");
+</script>                </div>
+            	<div class="banner">
+                  <script type="text/javascript">
+GA_googleFillSlot("Column4_bottomROS");
 </script>                </div>
             	<div class="banner">
                   <script type="text/javascript">
@@ -624,7 +740,7 @@ GA_googleFillSlot("Column4_bottomROS");
 </script>                </div>
             	<div class="banner">
                   <script type="text/javascript">
-  GA_googleFillSlot("Column4_topROS");
+GA_googleFillSlot("Column4_topROS");
 </script>                </div>
             	<div class="banner">
                   <script type="text/javascript">
@@ -666,17 +782,18 @@ GA_googleFillSlot("Column4_bottomROS");
                     <li><a href="/help.php">HELP</a></li>
                 </ul>
             </div>
-            <p>All content © Copyright 2010 Sunbelt Digital Media. All Rights Reserved. For more information on this site, please read our <a href="privacy.php">Privacy Policy</a> and <a href="terms.php">Terms of Service</a></p>
+            <p>All content © Copyright 2010 Intermountain West Communications Company. All Rights Reserved. For more information on this site, please read our <a href="privacy.php">Privacy Policy</a> and <a href="terms.php">Terms of Service</a></p>
             <p>Brand Development by <a href="http://www.greenstarlabs.com/" target="_blank">Greenstar Media Labs</a> | Powered by <a href="http://www.mobilepill.com/" target="_blank">MobilePill</a> Content Management System</p>
 </div>
      </div>
 
 
 <!-- JQUERY & CUSTOM SCRIPTS -->
-<script type="text/javascript" src="http://cache.edashcms.com/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="http://cache.edashcms.com/jquery.ui.js"></script>
+<script type="text/javascript" src="http://cache.edashcms.com/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://cache.edashcms.com/jquery-ui-1.8.5.custom.min.js"></script>
 <script type="text/javascript" src="http://cache.edashcms.com/scripts.js"></script>
 <!-- END JQUERY & CUSTOM SCRIPTS -->
+
 
 <!-- AddThis CODE -->
 <script type="text/javascript">var addthis_pub="aycmedia";</script>
@@ -696,7 +813,7 @@ pageTracker._trackPageview();
 <!-- END GOOGLE ANALYTICS -->
 
 <!-- 
-General   : 176.01 ms
+General   : 148.01 ms
 --> 
 
 
