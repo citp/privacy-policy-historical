@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606190836id_/http%3A//www2.istation.com/utils/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107103355id_/http%3A//www2.istation.com/utils/privacy.asp) for the most accurate reproduction.*
 
 # istation | Privacy
 
@@ -6,7 +6,7 @@
 
 ## Privacy
 
-This privacy statement (this "Privacy Statement") is incorporated in, and subject to, the Terms of Use and Service (the "Terms") for Imagination Station, Inc. (“istation”). Please refer to the [Terms](https://web.archive.org/web/20100606190836id_/http%3A//www2.istation.com/utils/terms.asp) for definitions of words with initial capitals letters that are not otherwise defined in this Privacy Statement.
+This privacy statement (this "Privacy Statement") is incorporated in, and subject to, the Terms of Use and Service (the "Terms") for Imagination Station, Inc. (“istation”). Please refer to the [Terms](https://web.archive.org/web/20101107103355id_/http%3A//www2.istation.com/utils/terms.asp) for definitions of words with initial capitals letters that are not otherwise defined in this Privacy Statement.
 
 istation is committed to protecting Your privacy and that of students while providing You with the most useful and enjoyable experience possible. We strongly believe in protecting the privacy of any personally identifiable information provided to us. We also believe it is important to inform You about how we will use personal data and to give You choices about how those data will be used. Therefore, we encourage You to read this Privacy Statement carefully.
 
