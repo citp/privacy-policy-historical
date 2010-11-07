@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olaladirectory.com.au privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613020255id_/http%3A//www.olaladirectory.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olaladirectory.com.au privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107063227id_/http%3A//www.olaladirectory.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Olala Business Directory - Privacy Policy
 
