@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112044221id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107141824id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Globat's Privacy Policy
 
-|  | 
+| 
 
 Your privacy is very important to Globat ("Globat"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
@@ -93,6 +93,5 @@ Please note: Globat reserves the right to send e-mail communications relating di
   20. **Revisions to This Policy.** Globat reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised: January 2020   
   
----|---|---
+---|---
