@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629120934id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107205815id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Second Life
 
