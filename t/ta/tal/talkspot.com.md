@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614211312id_/http%3A//www.talkspot.com/aspx/blob2/blobpage.aspx/msgid/709820) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107075120id_/http%3A//www.talkspot.com/aspx/m/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy: (HOME) Privacy Notice...
+# Talkspot offers a privacy policy.
 
 Privacy Notice   
 Updated May 17th 2010 
@@ -30,7 +30,11 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-All mailings from this website include an "unsubscribe" link. If you would like to stop receiving emails from this website, click on the unsubscribe link. In a limited number of cases, such as with "lost password" requests, emails are sent without respect to whether or not you have unsubscribed from our email list. These emails are sent only in response to a request from an end-user.
+All mailings from this website include an "unsubscribe" link. If you would like to stop receiving emails from this website, click on the unsubscribe link. In a limited number of cases, such as with "lost password" requests, emails are sent without respect to whether or not you have unsubscribed from our email list. These emails are sent only in response to a request from an end-user.  
+**  
+Mailing  List Removal**
+
+All mailings from this website include an "unsubscribe" link. If you would like to stop receiving emails from this website, click on the unsubscribe link. In a limited number of cases, such as with "lost password" requests, emails are sent without respect to whether or not you have unsubscribed from our email list. These emails are sent only in response to a request from an end-user. If for some reason you cannot find the unsubscribe link, you may email us, at: customerSupport AT talkspot.com, including a copy of what you were mailed, and we will remove you from the list immediately.
 
 **How To Contact Us  
 **  
