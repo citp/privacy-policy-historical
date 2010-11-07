@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509020015id_/http%3A//www.uhhospitals.org/tabid/840/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107064709id_/http%3A//www.uhhospitals.org/tabid/840/Default.aspx) for the most accurate reproduction.*
 
-# University Hospitals > Menu System > FooterLinks > Privacy
+# Privacy Policy - University Hospitals
 
 **University Hospitals** is committed to protecting the privacy of visitors to our website. Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, and in answering questions.
 
