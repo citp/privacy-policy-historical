@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612172440id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107043516id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Floormall.com Privacy Policy
 
