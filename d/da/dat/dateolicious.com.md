@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505222202id_/http%3A//www.dateolicious.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107012508id_/http%3A//dateolicious.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Dateolicious | Privacy
+# Privacy | Dateolicious
 
 ##  Dateolicious.com Privacy Policy Agreement 
 
