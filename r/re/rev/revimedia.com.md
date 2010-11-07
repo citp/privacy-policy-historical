@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revimedia.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612181743id_/http%3A//revimedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revimedia.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107211351id_/http%3A//www.revimedia.com/privacy) for the most accurate reproduction.*
 
 # ReviMedia
 
