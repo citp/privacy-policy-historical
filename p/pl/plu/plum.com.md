@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618144735id_/http%3A//www.plum.com/privacy/p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107025752id_/http%3A//www.plum.com/privacy/p) for the most accurate reproduction.*
 
 # Plum Groups
 
