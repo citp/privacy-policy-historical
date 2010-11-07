@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311000313id_/http%3A//www.visitnsw.com/Privacy_p863.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107061132id_/http%3A//www.visitnsw.com/Privacy_p863.aspx) for the most accurate reproduction.*
 
 # Privacy, Visit NSW
 
@@ -10,7 +10,7 @@ When you use this site, your privacy is protected by the Privacy and Personal In
 
 ### Tourism New South Wales' obligations 
 
-This site receives more than 130,000 visitors per month. Tourism New South Wales collects personal information through this Internet site directly from consumers in order to provide tourism or travel information service to the consumer and to make reservations and bookings for the various tourism products in New South Wales. The provision of your personal information on this web site is voluntary. However, it you choose not to provide your information we may not be able to forward the material that you are requesting or to provide you with one of the numerous booking services available through this web site. At the bottom of this page, this privacy statement details the specific purposes for each one of the Organisation's Internet collections on this web site. 
+This site receives more than 400,000 visits per month. Tourism New South Wales collects personal information through this Internet site directly from consumers in order to provide tourism or travel information service to the consumer and to make reservations and bookings for the various tourism products in New South Wales. The provision of your personal information on this web site is voluntary. However, it you choose not to provide your information we may not be able to forward the material that you are requesting or to provide you with one of the numerous booking services available through this web site. At the bottom of this page, this privacy statement details the specific purposes for each one of the Organisation's Internet collections on this web site. 
 
 Tourism New South Wales will only disclose personal information about you in accordance with the Information Protection Principles. Where we use a third party contractor to provide this web site with booking services or information mailing services, we ensure that our service agreements include privacy protection clauses. For more information concerning our privacy policy or information handling practices, please refer to the appropriate sections below. 
 
