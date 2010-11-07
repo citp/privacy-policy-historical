@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the veracode.com privacy policy that was archived on 2010-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100509080319id_/http%3A//www.veracode.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veracode.com privacy policy that was archived on 2010-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101108002048id_/http%3A//www.veracode.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
@@ -16,8 +16,8 @@
 
 <link href="http://www.veracode.com/templates/jh_veracode/css/template_css.css" rel="stylesheet" type="text/css">
 <link href="http://www.veracode.com/templates/jh_veracode/css/veracodecss.css" rel="stylesheet" type="text/css">
-<link href="http://www.veracode.com/templates/jh_veracode/css/indexstyle.css" rel="stylesheet" type="text/css">
-<link href="http://www.veracode.com/templates/jh_veracode/css/lightbox.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.veracode.com/templates/jh_veracode/css/indexstyle2.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="images/css/thickbox.css" type="text/css" media="screen">
 
 <!--[if lte IE 6]> 
 <style type="text/css"> 
@@ -30,31 +30,12 @@
 <script src="images/js/ac_runactivecontent.js" type="text/javascript"></script>
 <script type="text/javascript" language="javascript" src="images/js/jquery.js"></script>
 <script type="text/javascript" language="javascript" src="images/js/hoverintent.js"></script>
+<script type="text/javascript" language="javascript" src="images/js/thickbox.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-	$("div.tabs a").hoverIntent({
-		sensitivity: 3, 
-		interval: 50, 
-		over: switchTabs, 
-		timeout: 50, 
-		out: function() {return false;}
-	});
 	
 	$('form.search input.text').focus(function() { $(this).select(); });
 	
-	function switchTabs() {
-		var currTab = this;
-		var currClass = $(this).attr('class');
-		var currIndex = $('div.tabs a').index(this);
-		var currContent = $('div.tabcontent:eq(' + currIndex + ')');
-		if (!$(currContent).is(':visible')) {
-			$('div.tabs a').removeClass('left-active').removeClass('center-active').removeClass('right-active');
-			$(currTab).addClass(currClass + '-active');
-			$('div.tabcontent:visible').fadeOut(50, function() {
-				$(currContent).fadeIn(200, function(){ if(jQuery.browser.msie) $(this).get(0).style.removeAttribute('filter'); });
-			});	
-		}	
-	}
    $('#searchword').click(
       function() {
          if (this.value == this.defaultValue) {
@@ -71,6 +52,7 @@ $(document).ready(function() {
   );
 });
 </script>
+
 </head>
 <body id="subPage2Col" class="">
 <a name="top" id="top"></a>
@@ -89,18 +71,81 @@ $(document).ready(function() {
         <input type="hidden" value="95" name="Itemid">
         <div id="input_container"><input name="searchword" id="searchword" type="text" class="searchbox" value="Search"></div>
         <input type="submit" value="&nbsp;" id="searchgo" class="submit">
+
       </form>
+
+
+
     </div>
 
     <a href="index.php"><img src="/images/veracode.logo2.gif" alt="Veracode" name="logo" id="logo"></a>
     <ul id="menu_new">
-      <li><a href="/solutions" id="solutions_new">Solutions</a></li>
-      <li><a href="/directory" id="directory">Directory</a></li>
-      <li><a href="/zerodaylabs" id="zdl">ZeroDay Labs</a></li>
-      <li><a href="/resources" id="resources_new">Resources</a></li>
-      <li><a href="/customers" id="customers_new">Customers</a></li>
-      <li><a href="/newsevents" id="news_new">News</a></li>
-      <li><a href="/about" id="about_new">About</a></li>
+      <li><a href="/solutions" id="solutions_new">Solutions</a>
+	  	<ul class="submenu">
+	  		<li><a href="/solutions/executive-perspective.html">Executive</a></li>
+	  		<li><a href="/solutions/central-security-team-perspective.html">Central Security Team</a></li>
+	  		<li><a href="/solutions/developers.html">Developers</a></li>
+			<li><a href="/solutions/vendor-management-2.html">Vendor Management</a></li>
+			<li><a href="/solutions/m-a-professional.html">M&amp;A Professional</a></li>
+			<li><a href="/solutions/software-vendor.html">Software Vendor</a></li>
+			<li><a href="/solutions/government-perspective.html">Government</a></li>
+			<li><a href="/solutions/application-security-testing.html">Services Overview</a></li>
+		</ul>
+	  </li>
+      <li><a href="/directory" id="directory">Directory</a>
+	  	<ul class="submenu">
+	  		<li><a href="/directory/software-ratings.html">VERAFIED Software Directory</a></li>
+			<li><a href="/directory/verified-logo-program.html">VERAFIED Security Mark</a></li>
+			<li><a href="/directory/what-it-means.html">VERAFIED Methodology</a></li>
+			<li><a href="/directory/get-your-product-verafied.html">Get Your Software VERAFIED</a></li>
+		</ul>
+	  </li>
+      <li><a href="/zerodaylabs" id="zdl">ZeroDay Labs</a>
+	  	<ul class="submenu">
+	  		<li><a href="/research/index.html">Research</a></li>
+			<li><a href="/community/index.html">Community</a></li>
+			<li><a href="/zeroday-labs/zero-in-a-bit.html">Veracode Blog: Zero in a Bit</a></li>
+		</ul>
+	  </li>
+      <li><a href="/resources" id="resources_new">Resources</a>
+	  	<ul class="submenu">
+	  		<li><a href="/reports/index.html">Reports</a></li>
+			<li><a href="/webcasts/index.html">Webcasts</a></li>
+			<li><a href="/demos/index.html">Demos</a></li>
+			<li><a href="/case-studies/index.html">Case Studies</a></li>
+			<li><a href="/whitepapers/index.html">Whitepapers</a></li>
+			<li><a href="/datasheets/index.html">Datasheets</a></li>
+			<li><a href="/podcasts/index.html">Podcasts</a></li>
+			<li><a href="/analyst-reports/index.html">Analyst Reports</a></li>
+		</ul>
+	  </li>
+      <li><a href="/partners" id="customers_new">Partners</a>
+	  	<ul class="submenu">
+			<li><a href="/about/partners/partner-program.html">Partners</a></li>
+		</ul>
+	  </li>
+      <li><a href="/newsevents" id="news_new">News</a>
+	  	<ul class="submenu">
+	  		<li><a href="/overview/overview.html">Overview</a></li>
+			<li><a href="/news/index.html">News</a></li>
+			<li><a href="/press-releases/2.html">Press Releases</a></li>
+			<li><a href="/events/2.html">Events</a></li>
+			<li><a href="/awards-recognition/awards-recognition.html">Awards</a></li>
+		</ul>
+	  </li>
+      <li><a href="/about" id="about_new">About</a>
+	  	<ul class="submenu">
+	  		<li><a href="/about/about.html">Overview</a></li>
+	  		<li><a href="/customers">Customers</a></li>
+			<li><a href="/about/management.html">Management Team</a></li>
+			<li><a href="/about/veracode-board-of-directors.html">Board of Directors</a></li>
+			<li><a href="/board-of-advisors/index.html">Board of Advisors</a></li>
+			<li><a href="/careers/index.html">Careers</a></li>
+			<li><a href="/about/certification.html">Certification</a></li>
+			<li><a href="/about/location.html">Location</a></li>
+			<li><a href="/about/contact-us.html">Contact Us</a></li>
+		</ul>
+	  </li>
     </ul>
   </div>
     <div id="content" style="padding-top: 30px; background: #FFFFFF;">
@@ -128,11 +173,11 @@ Veracode respects your right to privacy and your right to limit information exch
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy68582 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
- addy68582 = addy68582 + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
- var addy_text68582 = 'w&#101;bm&#97;st&#101;r' + '&#64;' + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy68582 + '\'>' );
- document.write( addy_text68582 );
+ var addy71678 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
+ addy71678 = addy71678 + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
+ var addy_text71678 = 'w&#101;bm&#97;st&#101;r' + '&#64;' + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy71678 + '\'>' );
+ document.write( addy_text71678 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:webmaster@veracode.com">webmaster@veracode.com</a><script language="JavaScript" type="text/javascript">
  <!--
@@ -161,8 +206,10 @@ Veracode respects your right to privacy and your right to limit information exch
 
             <div class="cleaner">&nbsp;</div>
 
+
     </div>
     <div class="cleaner">&nbsp;</div>
+
   <div id="footer">
     <div id="innerfooter">
       <div id="copy">
@@ -184,7 +231,7 @@ Veracode respects your right to privacy and your right to limit information exch
       <div class="cleaner">&nbsp;</div>
         <div id="bottext">
         	</div>
-       </div>
+      </div>
     </div>
   </div>
   </div>
@@ -245,5 +292,8 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 
+<map name="Map" id="Map">
+  <area shape="rect" coords="672,165,703,199" href="/directory/get-your-product-verafied.html" alt="Go">
+</map>
 
 </body></html>
