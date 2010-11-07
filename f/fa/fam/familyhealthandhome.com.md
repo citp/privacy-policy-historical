@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyhealthandhome.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508142726id_/http%3A//familyhealthandhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhealthandhome.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107055517id_/http%3A//familyhealthandhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Family Health and Home
 
