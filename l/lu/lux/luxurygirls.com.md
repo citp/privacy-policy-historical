@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxurygirls.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509013934id_/http%3A//www.luxurygirls.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurygirls.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107185515id_/http%3A//www.luxurygirls.com/privacy.html%3F) for the most accurate reproduction.*
 
-# LuxuryGirls - Privacy Policy
+# LuxuryGirls - Privacy
 
 [Home](http://www.luxurygirls.com/) / Privacy Policy
 
