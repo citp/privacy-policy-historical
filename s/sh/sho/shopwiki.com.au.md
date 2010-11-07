@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopwiki.com.au privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115045555id_/http%3A//www.shopwiki.com.au/wiki/Help%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.com.au privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107221623id_/http%3A//www.shopwiki.com.au/wiki/Help%3APrivacy) for the most accurate reproduction.*
 
-# Help:Privacy
+# Privacy
 
 #### Effective Date: January 24, 2007
 
-This privacy policy describes the types of information ShopWiki Corp. collects from users of the Web site ShopWiki.com and how that information is used. Please read this policy carefully before providing any personal information to this Web site. ShopWiki reserves the right to modify this privacy policy at any time by posting the changes on this Web site. We encourage you to check our privacy policy frequently. If we make material changes that will affect personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.  Your continued use of this Web site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at [privacy@shopwiki.com](mailto:privacy@shopwiki.com "Click here to create an email message").
+This privacy policy describes the types of information ShopWiki Corp. collects from users of the Web site ShopWiki.com and how that information is used. Please read this policy carefully before providing any personal information to this Web site. ShopWiki reserves the right to modify this privacy policy at any time by posting the changes on this Web site. We encourage you to check our privacy policy frequently. If we make material changes that will affect personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.  Your continued use of this Web site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at [privacy@shopwiki.com](mailto:privacy@shopwiki.com).
 
 ### What data do we collect?
 
@@ -50,10 +50,10 @@ ShopWiki does not control the privacy policies of any Web site linked from our W
 
 #### Disclosure of Information in Public Areas
 
-If you voluntarily disclose personal information in a wiki contribution that is posted on our Web site, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. ShopWiki does not control the actions of users of our Web site. If you disclose personal information in a public area, you do so at your own risk.  In addition, we reserve the right to terminate the account of any ShopWiki member who uses our Web site in a manner inconsistent with the [Terms and Conditions](https://web.archive.org/wiki/Help:Terms+and+Conditions "Click here to see a Wiki article on this subject")
+If you voluntarily disclose personal information in a wiki contribution that is posted on our Web site, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. ShopWiki does not control the actions of users of our Web site. If you disclose personal information in a public area, you do so at your own risk.  In addition, we reserve the right to terminate the account of any ShopWiki member who uses our Web site in a manner inconsistent with the [Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
 
 #### Collection of Information From Minors
 
 Our Web site is directed to and intended for use by adults only. We require that a user be eighteen years of age or older to become a ShopWiki member (and in doing so, to submit personal information). We do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records.
 
-[Terms and Conditions](https://web.archive.org/wiki/Help:Terms+and+Conditions "Click here to see a Wiki article on this subject")
+[Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
