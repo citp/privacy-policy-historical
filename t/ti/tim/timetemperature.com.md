@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621063757id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108022045id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-**WWW. TimeTemperature.com Privacy Policy** Thank you for visiting the www.timetemperature.com website and reviewing our privacy statement. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
+**TimeTemperature.com Privacy Policy** Thank you for visiting the www.timetemperature.com website and reviewing our privacy statement. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
 Here is how we handle information about your visit to our website:
 
@@ -24,14 +24,17 @@ We use this information to help us make our site more useful to visitors - to le
 
  **Ad Servers** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. We have no control over the information collected by such ad servers or how that information is used
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Tribal Fusion, as a third party vendor, uses cookies to serve ads on our site. Users may opt out of the use of the Tribal Fusion cookie by visiting the Network Advertising Initiatives [ cookie opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)  Tribal Fusion is a member of the Network Advertising Initiative (the "NAI") and is committed to maintaining compliance with the NAI's Self-Regulatory Principles.
+Tribal Fusion, as a third party vendor, uses cookies to serve ads on our site. Users may opt out of the use of the Tribal Fusion cookie by visiting the Network Advertising Initiatives [cookie opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)  Tribal Fusion is a member of the Network Advertising Initiative (the "NAI") and is committed to maintaining compliance with the NAI's Self-Regulatory Principles.
 
+  
  **Website Security**    1.For site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.   
    2.Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes.   
    3.Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
-**Comments or Questions** If you have any comments or suggestions about the information presented here please [contact](http://www.timetemperature.com/contact.html) us.
+**Comments or Questions** If you have any comments or suggestions about the information presented here please 
+
+[contact](http://www.timetemperature.com/contact.html) us.
 
 [Return to Home Page](http://www.timetemperature.com/)
