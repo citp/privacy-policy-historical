@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509173740id_/http%3A//www.templatekingdom.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108111610id_/http%3A//www.templatekingdom.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Template Kingdom
 
