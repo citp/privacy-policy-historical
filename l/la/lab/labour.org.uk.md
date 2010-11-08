@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628045033id_/http%3A//www2.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108201224id_/http%3A//www2.labour.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | The Labour Party
 
