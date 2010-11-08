@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510002758id_/http%3A//www.che.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108142238id_/http%3A//www.che.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Chemical Engineering :: Privacy Policy
 
@@ -13,7 +13,7 @@
 Search by Region 
 
 [White Papers](https://web.archive.org/whitepapers/ "White Papers") [Webcasts](https://web.archive.org/webcasts/ "Webcasts") [Conferences](https://web.archive.org/conferences/ "Conferences") [Current Issue](https://web.archive.org/issues/ "Current Issue") [Jobs](https://web.archive.org/chemploy "Jobs") [ADVERTISE](https://web.archive.org/advertise.html "Advertise with CE") [SUBSCRIBE](https://web.archive.org/subscribe/ "Subscribe to CE") Resources  
-[Events & Announcements](https://web.archive.org/events_and_announcements/) [Surveys](https://web.archive.org/surveys/) [Facts At Your Fingertips](https://web.archive.org/facts/) [Advanced Search](https://web.archive.org/search/) [Buyers' Guide](https://web.archive.org/buyersguide/) [Plant Cost Index](https://web.archive.org/pci/) [Store](http://store.che.com/) [Editorial Submissions](https://web.archive.org/editorial_submissions.html) Member Services  
+[Events & Announcements](https://web.archive.org/events_and_announcements/) [Surveys](https://web.archive.org/surveys/) [Facts At Your Fingertips](https://web.archive.org/facts/) [Advanced Search](https://web.archive.org/search/) [**Buyers' Guide**](https://web.archive.org/buyersguide/) [Plant Cost Index](https://web.archive.org/pci/) [Store](http://store.che.com/) [Editorial Submissions](https://web.archive.org/editorial_submissions.html) Member Services  
 [FREE trial](https://web.archive.org/freetrial.html) [Subscribe](https://web.archive.org/subscribe/) [FAQ](https://web.archive.org/faq.html) Related Websites  
 [Daratech PLANT](http://www.daratechplant.com/) [Chemical Week](http://www.chemweek.com/) [Harriman Chemsult LTD](http://www.harriman.co.uk/) [SRI Consulting](http://www.sriconsulting.com/) [About us](https://web.archive.org/aboutus.html) [Contact us](https://web.archive.org/contactus.html) | 
 
