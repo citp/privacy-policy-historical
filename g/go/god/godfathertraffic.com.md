@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401184728id_/http%3A//godfathertraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109004231id_/http%3A//godfathertraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# Unlimited Free Traffic from GodfatherTraffic.com
+# Come take your seat.. Your table is ready!
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR godfathertraffic.com**
 
