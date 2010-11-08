@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525105840id_/http%3A//web.aqa.org.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108023008id_/http%3A//web.aqa.org.uk/privacy.php) for the most accurate reproduction.*
 
 # AQA Website Privacy Statement
 
@@ -19,7 +19,7 @@ AQA reserve the right to change this privacy and security policy at any time wit
       * processing candidate entries to AQA examinations
       * notification of key dates and reminders
       * delivering results for AQA examinations.
-    * **2.1.2** The ancillary support and provision of services purpose includes, but is not limited to, using the personal data of examiners, moderators, teachers, exams officers and other exam centre staff for: 
+    * **2.1.2** The ancillary support and provision of services purpose includes, but is not limited to, using the personal data of learners (including, where applicable, their parents or guardians), examiners, moderators, teachers, exams officers and other exam centre staff for: 
       * communications
       * financial administration
       * notification of a phase of the examination cycle
@@ -63,7 +63,7 @@ AQA reserve the right to change this privacy and security policy at any time wit
     * **5.2** If you have had any dealings with AQA (for example as a teacher, candidate, parent of a candidate, examiner, employee or as a supplier of goods and services) it is possible that AQA holds information about you as a 'data subject'. 
     * **5.3** You are entitled to ask AQA to disclose the information that it holds about you and, on payment of a standard fee of £10, AQA is obliged to obtain that information and share it with you within 40 days. AQA will formally accept a disclosure request upon receipt of (a) the formal request (b) the fee and (c) where the request is made on behalf of a data subject (for example a parent or guardian initiating a request on behalf of a child), confirmation from the data subject that the adult in question is acting on their behalf. If you submit your request by email to an existing contact you will still need to send the fee before the process can proceed.
     * **5.4** You are entitled to ask AQA to correct any inaccuracies in any of the data it holds about you. 
-    * **5.5** You would normally direct your request for such disclosure to the Department within AQA with whom you have had dealings. However, if you are uncertain about the identity of your contact or the relevant Department, please address your enquiry to AQA's Data Protection Compliance Officer Mr P G Dawson, Director of Information & Communications Technology, AQA, Devas Street, Manchester, M15 6EX. 
+    * **5.5** You would normally direct your request for such disclosure to the Department within AQA with whom you have had dealings. However, if you are uncertain about the identity of your contact or the relevant Department, please address your enquiry to AQA's Data Protection Compliance Officer Dr A J Bird, Chief Operating Officer, AQA, Devas Street, Manchester, M15 6EX. 
   * **6\. Payment**
     * **6.1** Any information collected on the AQA website is encrypted using SSL technology and AQA use a payment service provider that is Level 1 PCI DSS compliant.
     * **6.2** Your credit/debit card details will be stored in an encrypted and secure environment that is certified as Level 1 PCI DSS compliant.
@@ -78,4 +78,4 @@ AQA reserve the right to change this privacy and security policy at any time wit
 
 
 
-Version 3.0
+Version 4.0
