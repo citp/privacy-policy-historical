@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flex.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615143556id_/http%3A//www.adobe.com/go/gftray_foot_privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flex.org privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108172016id_/http%3A//www.adobe.com/go/gftray_foot_privacy_security) for the most accurate reproduction.*
 
 # Adobe - Online Privacy Policy
 
