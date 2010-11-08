@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305021954id_/http%3A//www.essentialwholesale.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109004138id_/http%3A//www.essentialwholesale.com/s.nl/c.947034/sc.15/category.35942/.f) for the most accurate reproduction.*
 
-# Natural Bulk Cosmetic Bases * Soapmaking * Soap making Supplies * Essential Oils * Bulk Bases * Wholesale Soap Supplies * Private Labeling * Contract Packaging * Soap Making Supplies
+# Privacy
 
-**Privacy Policy**
-
+|   
+  
+| Privacy   
+---  
+   
 What information do we collect?
 
   * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
@@ -29,7 +32,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Do we use "cookies"?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service providers systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -63,7 +66,9 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20100305021954id_/http%3A//www.essentialwholesale.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our 
+
+[Terms and Conditions](https://web.archive.org/s.nl/c.947034/sc.15/category.35934/.f) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
