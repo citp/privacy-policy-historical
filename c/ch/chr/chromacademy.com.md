@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526004310id_/http%3A//www.chromacademy.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109003917id_/http%3A//www.chromacademy.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # CHROMacademy.com e-learning for the analytical chemistry community
 
