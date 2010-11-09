@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fxstat.com privacy policy that was archived on 2010-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609113756id_/http%3A//fxstat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxstat.com privacy policy that was archived on 2010-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101109124138id_/http%3A//www.fxstat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy - FXSTAT</title><link rel="shortcut icon" href="/favicon.ico">
@@ -7,36 +7,55 @@
 <script type="text/javascript" src="/js/libraries/jquery1.3.2.js"></script>
 <script type="text/javascript" src="/js/jquery.betterTooltip.js"></script>
 <script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/date.format.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+<!-- <script type="text/javascript">
+  var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+  document.write(unescape("%3Cscript src='" + rpxJsHost +
+"rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  RPXNOW.overlay = true;
+  RPXNOW.language_preference = 'en';
+</script> -->
+
 <script type="text/javascript">//<![CDATA[
+var watch = new Date(2010,11-1,09,12,41,38);
+function watchTick()
+{
+    $("#watch").text(watch.format("ddd, mmm dd yyyy, HH:MM:ss"));
+    watch.setTime(watch.getTime()+1*1000);
+    setTimeout("watchTick();",1000);
+}
+
 $(function(){
     var url = window.location.href;
-    
-    $(".headmenu .item").each(function(){
+
+    $(".menu a").each(function(){
 	if ($(this).attr('href') != '/') {
         if (url.search($(this).attr('href'))>=0) {
             $(this).addClass('active');
         }}
     });
-	
-	 $(".headmenu .homeitem").each(function(){
+
+	 $(".menu .homeitem").each(function(){
         if (url.search($(this).attr('href')+'$')>=0) {
             $(this).addClass('active');
         }
     });
-	
+
     $(".withtip").betterTooltip();
-    
+
     var defaultSearch = 'Search...';
     if ($('#searchString').val() == '') {
         $('#searchString').val(defaultSearch);
-    } 
+    }
     $('#searchString')
         .blur(function(){
             if ($(this).val() == '') {
                $(this).val(defaultSearch);
-            } 
+            }
         })
         .focus(function(){
              if ($(this).val() == defaultSearch) {
@@ -48,76 +67,68 @@ $(function(){
     });
 
     var defaultLogin = 'Email Address';
-    if ($('#form_username', $("#loginform")).val() == '') {
-    	$('#form_username', $("#loginform")).val(defaultLogin);
-    } 
-    $('#form_username', $("#loginform"))
-        .blur(function(){
-            if ($(this).val() == '') {
-               $(this).val(defaultLogin);
-            } 
-        })
-        .focus(function(){
-             if ($(this).val() == defaultLogin) {
-                $(this).val('');
-             }
-        });
-    var defaultPassword = 'Password';
-    if ($('#fake_form_password', $("#loginform")).val() == '') {
-        $('#fake_form_password', $("#loginform")).val(defaultPassword);
-    } 
-    if ($('#form_password', $("#loginform")).val() != '') {
-        $('#fake_form_password', $("#loginform")).hide();
-        $('#form_password', $("#loginform")).show();
-    } 
-    $('#fake_form_password', $("#loginform"))   
-    .focus(function(){
-        $(this).hide();
-    	$('#form_password', $("#loginform")).show();
-    });
-    $('#form_password', $("#loginform"))
-    .blur(function(){
-        if ($(this).val() == '') {
-            $(this).hide();
-            $('#fake_form_password', $("#loginform")).blur().show();
-        } 
-    });
+
     $('#loginform').submit(function(){
     	if ($('#form_password', $("#loginform")).val() == '') {
  		   $('#form_password', $("#loginform")).val($('#fake_form_password', $("#loginform")).val());
     	}
     });
+
+	hidelogin=function() {
+	 $('.loginform').hide();
+	};
+
+	//var dropdowntimer = setTimeout('hidelogin();', 20);
+
+	$('.closelogin').click(function() {
+	    $('.loginform').hide();
+		return false;
+	});
+
+	$('.signinlink').click(function() {
+	    $('.loginform').show();
+		//clearTimeout(dropdowntimer);
+		return false;
+	});
+
+	watchTick();
+
 });
 //]]></script>
 </head>
 
 <body>
 
-<div class="site">
+<div id="tooltip" class="tip">
+  <div class="tipTop"></div>
+  <div class="tipMid"></div>
+  <div class="tipBtm"></div>
+ </div>
+
+
+
+<div class="header-wrap">
 <div class="header">
 
-<div class="loginform">
-<div class="form_errors hidden"></div><form id="loginform" method="post" action="/">
+<div class="loginform hidden">
+<div class="form_errors hidden"></div><a href="#" class="closelogin">&nbsp;</a>
+<form id="loginform" method="post" action="/">
+<div class="label">Email Address:</div>
 
-<input type="text" name="form_username" id="form_username" value="" class="text"><div class="form_username_errors hidden" id="form_username_errors"></div>
-<input type="password" name="form_password" id="form_password" value="" class="hidden text"><input type="text" class="text" name="fake_form_password" id="fake_form_password" value="">
-<div class="form_password_errors hidden" id="form_password_errors"></div><input type="submit" class="button loginbutton" value="Login">
-    <a class="button registerbutton" href="/">Register</a>
-<div class="clear"></div>
+<input type="text" name="form_username" id="form_username" value="" class="text"><div class="form_username_errors hidden" id="form_username_errors"></div><div class="label">Password:</div>
+
+<input type="password" name="form_password" id="form_password" value="" class="text"><div class="form_password_errors hidden" id="form_password_errors"></div><div class="clear"></div>
 <div class="remember">
 <input type="hidden" name="form_rememberme" value=""><input type="checkbox" name="form_rememberme" id="form_rememberme" value="1"><label for="form_rememberme">Remember me</label></div>
-<a href="/user/reset" class="forgotpass">Forgot your password?</a>
+<input type="submit" class="button loginbutton" value="Login">
+<div class="clear"></div>
+<div class="forgotpass"><a href="/user/reset" class="">Forgot your password?</a></div>
+<!-- <div class="forgotpass"><a class="rpxnow" onclick="return false;" href="https://tradesshare.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.fxstat.com%2Frpx"> Sign In using OpenID</a></div> -->
 </form>
 </div>
 
-<div class="links">
-<div class="links_item"><span class="icon icon-clock">&nbsp;</span>
-Wed, Jun 09 2010, 11:37:56 GMT</div>
-</div>
-</div>
+<a href="/" class="logo" title="FXSTAT"><img src="/themes/default/images/logo.png" alt="FXSTAT"></a>
 
-<div class="headmenu">
-<a href="/" class="logo">&nbsp;</a>
 
 <div class="search">
 <form id="searchForm" method="get" action="/search">
@@ -126,13 +137,42 @@ Wed, Jun 09 2010, 11:37:56 GMT</div>
 </form>
 </div>
 
- <a href="/" class="item homeitem">Home</a>
-<a href="#" onclick="return(false);" class="item withtip" title="Available to registered members only">My Portfolio</a>
-<a href="/perfomances" class="item">Performances</a>
-<a href="/answers" class="item">Answers</a>
-<!-- <a href="#" class="item">Community</a> -->
-<!-- <a href="/brokers" class="item">Brokers</a> -->
+<div class="clock">
+    <span class="icon icon-clock">&nbsp;</span>
+    <span id="watch">Tue, Nov 09 2010, 12:41:39</span> GMT
 </div>
+<div class="clear"></div>
+
+<div class="menu">
+<a href="/" class="item homeitem"><span>Home</span></a>
+<a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span>My Portfolio</span></a>
+
+
+<a href="/perfomances" class="item"><span>Performances</span></a>
+
+<!--
+<a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span>Connections</span></a>
+-->
+
+<a href="/forum" class="item"><span>Forums</span></a>
+<!-- <a href="/news" class="item"><span>News</span></a> -->
+<!-- <a href="#" class="item"><span>Community</span></a> -->
+<!-- <a href="/brokers" class="item"><span>Brokers</span></a> -->
+<div class="clear"></div>
+</div>
+
+
+<div class="links">
+<a class="signinlink" href="#">Sign In</a>
+ <a class="registerlink" href="/">Register</a>
+
+<div class="clear"></div>
+</div>
+
+<div class="clear"></div>
+</div>
+</div>
+
 
 <div class="topbanner">
 
@@ -157,7 +197,7 @@ Wed, Jun 09 2010, 11:37:56 GMT</div>
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://test.fxstat.com/www/delivery/ajs.php?zoneid=5&amp;target=_blank&amp;cb=50575996741&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20100609113756id_/http%253A//fxstat.com/privacy"></script>
+//]]>--></script><script type="text/javascript" src="https://test.fxstat.com/www/delivery/ajs.php?zoneid=5&amp;target=_blank&amp;cb=11596772212&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101109124138id_/http%253A//www.fxstat.com/privacy"></script>
 <noscript>
 <a href='http://test.fxstat.com/www/delivery/ck.php?n=a5a00600&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.fxstat.com/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5a00600&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a>
 </noscript>
@@ -243,22 +283,20 @@ FXSTAT  will disclose your personal information, without notice, only if require
 
 <div class="clear"></div>
 <a href="/terms">Terms of Use</a> |
-<!-- <a href="/faq">FAQ </a> |-->
+<a href="/faq">FAQ </a> |
 <a href="/privacy">Privacy </a> |
-<a href="http://fxstat.zendesk.com/anonymous_requests/new">Contact Us</a> |
+<a href="http://help.fxstat.com/index.php?/askQuestionForm">Contact Us</a> |
 <a href="/about">About</a> |
 <!-- <a href="/sitemap">Sitemap</a> | -->
- <a href="http://fxstat.zendesk.com/home">Help</a> |
- <a href="http://blog.fxstat.com">FXSTAT Blog</a> |
+ <a href="http://help.fxstat.com/index.php?/">Help</a> |
+ <a href="http://blog.fxstat.com">Blog</a> |
  <a href="http://twitter.com/fxstat" class="twitter">&nbsp;</a> |
-<a href="http://www.facebook.com/pages/FXSTATcom/109353142438542?v=info" class="facebook">&nbsp;</a> |
-<a href="http://fxstat.zendesk.com/anonymous_requests/new"><span class="icon icon-bug">&nbsp;</span>Report a Bug</a>
+<a href="http://www.facebook.com/pages/FXSTATcom/109353142438542?v=info" class="facebook">&nbsp;</a> <!-- |
+<a href="http://fxstat.zendesk.com/anonymous_requests/new"><span class="icon icon-bug">&nbsp;</span>Report a Bug</a> -->
 </div>
-© 2010 FX STAT Ltd. All Rights Reserved. 
-<div class="clear"></div>
+© 2010 FX STAT Ltd. All Rights Reserved.<div class="clear"></div>
 <div class="warning">
 RISK WARNING: Trading foreign exchange, contract for difference, share, commodities on margin carries a high level of risk, and may not be suitable for all. Before deciding to trade foreign exchange you should carefully consider your monetary objectives, level of experience, and risk appetite. Any data and information is provided here, solely for informational purposes, and is not intended for trading purposes or advice. You should be aware of all the risks associated with online margin trading, and seek advice from an independent advisor if you have any doubts. Past returns are not indicative of future results.
-</div>
 </div>
 </div>
 
@@ -266,6 +304,11 @@ RISK WARNING: Trading foreign exchange, contract for difference, share, commodit
 <div id="popup" class="hidden"></div>
 <div id="loading" class="loading hidden"><img src="/themes/default/images/loading.gif" width="16" height="16" alt="Loading..."></div>
 <div id="alert_message" class="hidden"></div>
+
+<!-- BEGIN ProvideSupport.com Visitor Monitoring Code -->
+<div id="ciIlaY" style="z-index:100;position:absolute"></div><div id="sdIlaY" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/fxstat/safe-monitor.js?ps_h=IlaY&amp;ps_t=1580479502000"></script></div><script type="text/javascript">var seIlaY=document.createElement("script");seIlaY.type="text/javascript";var seIlaYs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/fxstat/safe-monitor.js?ps_h=IlaY&ps_t="+new Date().getTime();setTimeout("seIlaY.src=seIlaYs;document.getElementById('sdIlaY').appendChild(seIlaY)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=fxstat"><img src="http://image.providesupport.com/image/fxstat.gif" border="0"></a></div></noscript>
+<!-- END ProvideSupport.com Visitor Monitoring Code -->
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -275,6 +318,8 @@ try {
 var pageTracker = _gat._getTracker("UA-15622174-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+
 
 
 </body></html>
