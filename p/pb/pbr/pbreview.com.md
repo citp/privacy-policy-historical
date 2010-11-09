@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511004643id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109025959id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | pbreview.com
 
