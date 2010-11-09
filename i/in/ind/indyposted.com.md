@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indyposted.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509041551id_/http%3A//indyposted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indyposted.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109201135id_/http%3A//www.indyposted.com/privacy-policy) for the most accurate reproduction.*
 
-# IndyPosted » Privacy Policy
+# Privacy Policy – Indyposted
 
 Privacy Policy for **http://indyposted.com**
 
@@ -19,3 +19,7 @@ We also use third party advertisements on **Indyposted.com** to support our site
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+**More Stories From Around The Web:**
+
+**Stories From Around The Web:**
