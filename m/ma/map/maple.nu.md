@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the maple.nu privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216051743id_/http%3A//www.maple.nu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maple.nu privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109044655id_/http%3A//www.maple.nu/cgi-bin/search6/usa/privacy) for the most accurate reproduction.*
 
-# Maple
+# Maple / Privacy Policy
 
-[Maple home](http://www.maple.nu/) » [privacy policy](https://web.archive.org/privacy.php)
-
-## Privacy Policy
+[Maple home](https://web.archive.org/web/20101109044655id_/http://www.maple.nu/cgi-bin/search6/usa/privacy/!http://www.maple.nu/pdirectory6/usa!) » privacy policy
 
 Maple.nu is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. Generally speaking, you can use Maple.nu without providing personally indentifiable information. When we do need your personal information to provide additional and/or optional services at your request, this policy describes how we collect and use your personal information. Maple.nu firmly respects your right to personal privacy, and we will collect and use information through our Web site only in the ways disclosed in this statement. 
 
