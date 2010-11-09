@@ -1,44 +1,61 @@
-> *The following text is extracted and transformed from the people.co.uk privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808085340id_/http%3A//www.people.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the people.co.uk privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109030624id_/http%3A//www.people.co.uk/priv_statement) for the most accurate reproduction.*
 
-# People.co.uk - Privacy Policy
+# Privacy Statement - People.co.uk
 
-We are committed to: 
+## In relation to all web site services offered by MGN Limited on this web site
 
-  * protecting the personal information you give us 
-  * telling you how we use the information we gather about you 
-  * getting your consent to our disclosure of your personal information. 
+We are committed to:
 
-Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. MGN Limited is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group. **WHY WE COLLECT INFORMATION ABOUT YOU**
-
-  * We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.
-  * Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free.
-  * In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you. 
-  * We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.
-
-**WHAT INFORMATION DO WE COLLECT FROM YOU?**
-
-  * We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
-  * We collect information about your use of our sites' web site services through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a website which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name or email address, unless the cookie is attached to personal information collected another way, such as by means of your online registration form.
-  * Where it is lawful and necessary, we may monitor emails you send and receive.
-
-**YOUR CONSENT**
-
-  * We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information.
-  * If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email.
-
-**HOW WE ENSURE PRIVACY IS MAINTAINED**
-
-  * We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
-  * Please be aware that if you disclose information on chat areas, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
-  * Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information. We also require compliance with such legislation by third parties with whom we have arrangements to offer goods or services through the "ic" website.
-  * Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us.
-
-**DISCLOSING YOUR INFORMATION TO THIRD PARTIES**
-
-  * The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions. 
-  * We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
-  * We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
-  * We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
-  * Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein. For more information about each such third party, please refer to the third partys privacy policy which can be found by clicking on this link.
+  * protecting the personal information you give us
+  * telling you how we use the information we gather about you
+  * getting your consent to our disclosure of your personal information.
 
 
+
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. MGN Limited is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group.
+
+## Why we collect information about you
+
+We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.
+
+Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free.
+
+In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you.
+
+We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.
+
+## What information do we collect from you?
+
+We may collect information from you when you fill in an online registration form for any of our web site services, (e.g. chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
+
+We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our [Cookie Policy](http://www.people.co.uk/priv_statement "Cookie Policy") which forms part of this Privacy Policy.
+
+Where it is lawful, we may monitor emails you send and receive.
+
+## Your consent
+
+We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information.
+
+If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email.
+
+## How we ensure privacy is maintained
+
+We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
+
+Please be aware that if you disclose information on chat areas, your Profile page, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
+
+Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information.
+
+Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us.
+
+## Disclosing your information to third parties
+
+The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.
+
+We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
+
+We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
+
+We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
+
+Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein.
