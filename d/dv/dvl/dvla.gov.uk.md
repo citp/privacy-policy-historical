@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508115530id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109022149id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
-Last Updated: 27/04/2010
+Last Updated: 27/07/2010
 
 This statement covers the services provided by the DVLA web site: [www.dft.gov.uk/dvla/](http://www.dft.gov.uk/dvla/). 
 
