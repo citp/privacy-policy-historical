@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516155018id_/http%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109233535id_/http%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
 
-# SEO Training Privacy Policy | SEO Training SW
+# SEO Training Privacy Policy
 
 **– IMPORTANT — PLEASE READ**
 
