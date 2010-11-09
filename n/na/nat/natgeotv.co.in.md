@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natgeotv.co.in privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507001142id_/http%3A//www.natgeotv.co.in/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeotv.co.in privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109131652id_/http%3A//www.natgeotv.co.in/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
