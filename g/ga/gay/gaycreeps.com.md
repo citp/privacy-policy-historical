@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaycreeps.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518124554id_/http%3A//gaycreeps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycreeps.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109125438id_/http%3A//www.boyprofits.com/privacy/gaycreeps) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,7 +20,7 @@ There may be occasions when you will be presented with special offers either fro
 
 The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [**webmaster@gaycreeps.com**](mailto:webmaster@gaycreeps.com)
+If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [**help@gaycreeps.com**](mailto:help@gaycreeps.com)
 
 **Security**
 
