@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the novadevelopment.com privacy policy that was archived on 2010-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611072602id_/http%3A//www.novadevelopment.com/company/legal-privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novadevelopment.com privacy policy that was archived on 2010-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101109023836id_/http%3A//www.novadevelopment.com/company/legal-privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,13 +10,138 @@
 <meta name="y_key" content="127028d8f0de00f6">
 <meta name="msvalidate.01" content="4A66D49C76E2FD34F2CF3FE5AC1A6122">
 <meta>
-<link href="/template/nova/allCss_sprite.css" rel="stylesheet" type="text/css">
+<link href="http://cdn3.novadevelopment.com/template/nova/css_cdn/allCss_sprite.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 8.]>
-<link href="/template/nova/ie_fixes.css" rel="stylesheet" type="text/css"></link>
+<link href="http://cdn5.novadevelopment.com/template/nova/css_cdn/ie_fixes.css" rel="stylesheet" type="text/css"></link>
 <![endif]-->
 
-<script src="/template/nova/js/allJS.js"></script>
-<script src="/template/nova/js/lazyLoad.js"></script>
+<script src="http://cdn1.novadevelopment.com/template/nova/js/allJS.js"></script>
+<script src="http://cdn5.novadevelopment.com/template/nova/js/lazyLoad.js"></script>
+<script type="text/javascript" language="javascript">
+	var crossSiteSearchRequest = "/rpc.php";
+	var searchText = "Search for";
+	var searchUrl = '/search.html';
+	var storeId = 47</script>
+<style>
+.menu_nav_btn{
+	height:20px;
+	width:43px;
+	color:#fff;
+	display:block;
+	border:0px;
+	float:left;
+	text-align:center;
+	line-height:20px;
+	background:url(http://cdn.novadevelopment.com/template/nova/media/images/menu_nav_btn.gif) no-repeat left -20px;
+}
+.menu_nav_btn:hover{
+	height:20px;
+	width:43px;
+	color:#fff;
+	display:block;
+	border:0px;
+	float:left;
+	text-align:center;
+	line-height:20px;
+	text-decoration:none;
+	background:url(http://cdn2.novadevelopment.com/template/nova/media/images/menu_nav_btn.png) no-repeat left top;
+}
+
+.transBtn{
+	background:url(http://cdn2.novadevelopment.com/template/nova/media/images/menu_nav_btn.png) no-repeat left bottom !important;
+	color:#bebebe !important;
+	cursor:default !important;
+}
+
+.transBtn:hover{
+	background:url(http://cdn2.novadevelopment.com/template/nova/media/images/menu_nav_btn.png) no-repeat left bottom !important;
+	color:#bebebe !important;
+	cursor:default !important;
+}
+.menu_paging{
+	float:left;
+	margin-bottom:-10px;
+	margin-left:10px;
+	margin-top:10px;
+}
+.menu_paging_count{
+padding-left:30px;
+color:#fff;
+height:20px;
+line-height:20px;
+}
+a {
+outline: none;
+}
+
+a:focus {
+outline: none;
+}
+</style>
+<script>
+ $(document).ready(function() {
+
+        $(".next").click(function () {
+			//alert('working');
+			var menuPossitem = $(this).parents('.menu_paging').attr('id');
+			//alert('menuPossitem ='+menuPossitem);
+			menuPossitem = menuPossitem.replace('menu_paging_','');
+			//alert('menuPossitem ='+menuPossitem);
+			var itemsMax = $(this).parents('.menu_paging').attr('rel');
+			//alert('itemsMax ='+itemsMax);
+			var count = $('#next_'+menuPossitem).attr('rel');
+			//alert('count ='+count);
+			if (count < itemsMax)
+			{
+					$('#next_'+menuPossitem).removeClass('transBtn');
+					$('#prev_'+menuPossitem).removeClass('transBtn');
+				//alert(count);
+			  $(".menu_list_"+menuPossitem+"_"+count).fadeOut(120, function () {
+				$(this).next().fadeIn(80);
+				count++;
+				if (count >= itemsMax)
+				{
+					$('#next_'+menuPossitem).addClass('transBtn');
+					//$('#prev_'+menuPossitem).removeClass('transBtn');
+				}
+				$('#menu_paging_count_'+menuPossitem).text(count+'/'+itemsMax);
+				//alert(count);
+				$('#next_'+menuPossitem).attr('rel',count);
+				$('#prev_'+menuPossitem).attr('rel',count);
+			  });
+		}
+          return false;
+        }); 
+        $(".prev").click(function () {
+			//alert('working');
+			var menuPossitem = $(this).parents('.menu_paging').attr('id');
+			//alert('menuPossitem ='+menuPossitem);
+			menuPossitem = menuPossitem.replace('menu_paging_','');
+			//alert('menuPossitem ='+menuPossitem);
+			var itemsMax = $(this).parents('.menu_paging').attr('rel');
+			var itemsMin = 1;
+			var count = $('#prev_'+menuPossitem).attr('rel');
+			if (count > itemsMin)
+			{
+				$('#prev_'+menuPossitem).removeClass('transBtn');
+				$('#next_'+menuPossitem).removeClass('transBtn');
+			  $(".menu_list_"+menuPossitem+"_"+count).fadeOut(120, function () {
+				$(this).prev().fadeIn(80);
+				count--;
+				if (count <= itemsMin)
+				{
+					$('#prev_'+menuPossitem).addClass('transBtn');
+				}
+				$('#menu_paging_count_'+menuPossitem).text(count+'/'+itemsMax);
+				//alert(count);
+				$('#next_'+menuPossitem).attr('rel',count);
+				$('#prev_'+menuPossitem).attr('rel',count);
+			  });
+		  }
+          return false;
+        }); 
+	  }); 
+</script>
 </head>
 
 <body>
@@ -86,10 +211,10 @@ pageTracker._trackPageview();
 							<li><a href="/company/legal-privacy/terms.html">Terms &amp; Conditions of Use</a></li>
 							<li><a href="/company/legal-privacy/Use-image.html">Use of Product Images</a></li>
 						</ul>
-			<div class="prod_navigator_ie_fix" style="height: 135px;">
+			<div class="prod_navigator_ie_fix">
 			</div>
 		</div>
-		<div class="product_navigator_bottom" style="z-index: 5;">
+		<div class="product_navigator_bottom">
 		</div>
 	</div>
 			<div class="right_column_small_wrap">
@@ -98,7 +223,7 @@ pageTracker._trackPageview();
 			</div>
 			<div class="right_column_small_mid">
 			-->
-<img src="/images/MBG_ver2_tcm23-125999.png" border="0" title="Nova Guarantees" alt="Nova Guarantees" style="width:274px; height:153px; ">			<!--
+<img src="http://cdn1.novadevelopment.com/images/MBG_ver2_tcm23-125999.png" border="0" title="Nova Guarantees" alt="Nova Guarantees" style="width:274px; height:153px; ">			<!--
 			</div>
 			<div class="right_column_small_bottom">
 			</div>
@@ -146,7 +271,7 @@ pageTracker._trackPageview();
 							&nbsp;|&nbsp;								<a href="/software/parallels-desktop-128985?meta=software&amp;cat=home-office-software&amp;sub=software-utilities" class="footer_link">Parallels Desktop</a>
 							&nbsp;|&nbsp;								<a href="/software/photo-explosion-129011?meta=software&amp;cat=print-creativity-software&amp;sub=digital-photography-editing-software" class="footer_link">Photo Explosion</a>
 							&nbsp;|&nbsp;								<a href="/software/greeting-card-factory-deluxe-129405?meta=software&amp;cat=print-creativity-software&amp;sub=desktop-publishing-software" class="footer_link">Greeting Card Factory</a>
-							&nbsp;|&nbsp;								<a href="/software/hgtv-home-design-remodeling-128984?meta=software&amp;cat=home-design-software" class="footer_link">HGTV Software</a>
+							&nbsp;|&nbsp;								<a href="/software/hgtv-home-design-remodeling-128984?meta=software&amp;cat=home-and-living-software" class="footer_link">HGTV Software</a>
 														<br>
 							Top Categories:&nbsp;
 															<a href="/software/print-creativity-software/greeting-card-software/" class="footer_link">Greeting Card Software</a>
@@ -194,13 +319,13 @@ pageTracker._trackPageview();
 			<div id="header_innerWrapper">
 				<div id="header_logo">
 					<a href="/">
-						<img src="/template/nova/media/images/header_logo.png" alt="Consumer Software" width="356" height="54" border="0">
+						<img src="http://cdn5.novadevelopment.com/template/nova/media/images/header_logo.png" alt="Consumer Software" width="356" height="54" border="0">
 					</a>
 				</div>
 								<div id="header_searchBox">
 					<form method="get" action="/search.html" class="fixpng search_form">
 						<input type="text" class="fixpng search_input" name="search">
-						<input type="image" class="fixpng search_btn" name="searchButton" src="/template/nova/media/images/search_btn.png" width="67px" height="34px">
+						<input type="image" class="fixpng search_btn" name="searchButton" src="http://cdn4.novadevelopment.com/template/nova/media/images/search_btn.png" width="67px" height="34px">
 					</form>
 					
 										<div class="head_divide"></div>
@@ -351,5 +476,66 @@ pageTracker._trackPageview();
 			<!-- header_innerWrapper end -->
 		</div>
 	</div>
+	<iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3092" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+<script type="text/javascript" language="javascript">
+	var ltrValue = '';
+	
+	$(document).ready(function() {
+	   
+	   var listeners = new Array("a","form");
+	   
+	   for(x in listeners)
+	   {
+	   
+		   $(listeners[x]).each(function()
+		   {
+		   
+				if(ltrValue.length > 0)
+				{
+				
+					if(x == 1)
+					{
+						var thisLink = $(this).attr("action");
+					}else
+					{
+						var thisLink = $(this).attr("href");
+					}
+					
+					var novaPattern = new RegExp("(^\/){1,1}|^http://([A-Za-z0-9\.]+)novadevelopment.com|\/nova2\/");
+					
+					if(novaPattern.test(thisLink))
+					{
+					
+						//alert(thisLink);
+						if(thisLink.search("[?/&]{1,1}ltr=")<0)
+						{
+							if(thisLink.indexOf("?") >= 0)
+							{
+								thisLink = thisLink + "&ltr=" + ltrValue;
+							}else
+							{
+								thisLink = thisLink + "?ltr=" + ltrValue;
+							}
+						
+							if(x == 1)
+							{
+								$(this).attr("action",thisLink);
+							}else
+							{
+								$(this).attr("href",thisLink);
+							}
+						
+						}
+					
+					}
+				
+				}
+				
+		   });
+	   
+	   }
+	   
+	});
+</script>	
 
 </body></html>
