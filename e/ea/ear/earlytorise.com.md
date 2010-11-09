@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603045032id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109030545id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Free email newsletter
+# Privacy Policy | EarlyToRise.com
 
 **Early To Rise Privacy Statement**
 
