@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anglo-list.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507081847id_/http%3A//anglo-list.com/index.php%3Fview%3Darticle%26catid%3D18%253Aprofessional-services%26id%3D79%253Adisclaimer-privacy-terms-of-use%26option%3Dcom_content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anglo-list.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109014826id_/http%3A//anglo-list.com/index.php%3Fview%3Darticle%26catid%3D18%253Aprofessional-services%26id%3D79%253Adisclaimer-privacy-terms-of-use%26option%3Dcom_content) for the most accurate reproduction.*
 
 # Disclaimer - Privacy - Terms of Use
 
