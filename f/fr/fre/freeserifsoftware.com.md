@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513040457id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109141020id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
 
 # FreeSerifSoftware.com - Privacy Statement
 
