@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925033400id_/http%3A//www.current-movie-reviews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109014210id_/http%3A//www.current-movie-reviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CMR
 
-This domain and all website content are owned by CMR Publishing LLC.
+This domain and all website content are owned by CMR.
 
-This privacy policy sets out how CMR Publishing LLC uses and protects any information that you give CMR Publishing LLC when you use this website.
+This web site uses images taken from various sources and wishes to fully comply with all copyright laws. If you find an image that you think is being misused on this site please use the contact form and tell us about it. We will promptly give full credit for the image or video or remove it as per the owner of the images wishes. We take digital and intellectual property ownership seriously here at CMR.
 
-CMR Publishing LLC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy sets out how CMR uses and protects any information that you give CMR when you use this website.
 
-CMR Publishing LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 1 2006.
+CMR is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+CMR may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 1 2006.
 
 ### Security
 
@@ -24,6 +26,17 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+Google Advertising Policy  
+About our ad’s, Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx)
+
 ### Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
@@ -38,3 +51,6 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+Advertisement:  
+
