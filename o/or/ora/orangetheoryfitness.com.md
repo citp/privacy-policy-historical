@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangetheoryfitness.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507185230id_/http%3A//orangetheoryfitness.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangetheoryfitness.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110002426id_/http%3A//orangetheoryfitness.com/privacy/index.html) for the most accurate reproduction.*
 
 # Orangetheory Fitness - Privacy Policy
 
@@ -54,5 +54,5 @@ Some of these tracking pixels may be placed by third party service providers to 
 Orangetheory Fitness has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 5\. Contacting Us  
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](https://web.archive.org/web/20100507185230id_/http%3A//orangetheoryfitness.com/contact_us/index.html).  
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](https://web.archive.org/web/20101110002426id_/http%3A//orangetheoryfitness.com/contact_us/index.html).  
 
