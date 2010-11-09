@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510020632id_/http%3A//www.caterersearch.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109023833id_/http%3A//www.caterersearch.com/staticPages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | Caterersearch
 
