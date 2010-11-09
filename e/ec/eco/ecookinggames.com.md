@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecookinggames.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095725id_/http%3A//www.ecookinggames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecookinggames.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109024037id_/http%3A//www.ecookinggames.com/privacy.html) for the most accurate reproduction.*
 
-# Games - E Cooking Games
+# Cooking Games
 
 ## Google Ad Policy
 
@@ -9,7 +9,7 @@ Google's use of the DART cookie enables it to serve ads to your users based on t
 Users may opt out of the use of the DART cookie by visiting the [Google advertising privacy policies](http://www.google.com/privacy_ads.html).  
 
 
-Websites linking to this http://www.ecookinggames.com have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
+Websites linking to this http://www.girlgames1.com have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
 
 ## Information that is gathered from visitors
 
