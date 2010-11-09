@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221214829id_/http%3A//www.cedarville.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109022058id_/http%3A//www.cedarville.edu/About/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# Cedarville University Privacy Policy
+# PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES - About Cedarville University - Home - Cedarville University
 
 Cedarville University is committed to honoring the privacy of visitors to its Website. The following discloses our information gathering and dissemination practices for the Cedarville University Web sites (*.cedarville.edu):
 
 ## Forms
 
-All personal information filled in and sent to Cedarville University via the Web site's online forms, such as the Application for Admission, Event Registration, Information Request, etc., will be held strictly confidential. This information may be shared between departments within Cedarville University, as needed or required, but will not be sold or distributed to third parties. 
+All personal information filled in and sent to Cedarville University via the Web site's online forms, such as the Application for Admission, Event Registration, Information Request, etc., will be held strictly confidential. This information may be shared between departments within Cedarville University, as needed or required, but will not be sold or distributed to third parties.
 
 ## Security
 
-Cedarville University strictly protects the security of your personal information and honors its intended use. We carefully protect from loss, misuse, unauthorized access or disclosure, alteration, or destruction the information under our control. Certain submissions via online forms use 128-bit SSL security to encrypt transmission of personal information through the Internet. 
+Cedarville University strictly protects the security of your personal information and honors its intended use. We carefully protect from loss, misuse, unauthorized access or disclosure, alteration, or destruction the information under our control. Certain submissions via online forms use SSL security to encrypt transmission of personal information through the Internet. 
 
 ## Information gathering
 
