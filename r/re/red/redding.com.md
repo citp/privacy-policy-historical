@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530120525id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109191510id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information & News from Redding Record Searchlight (Redding, CA)
 
@@ -79,6 +79,10 @@ To learn more about Yahoo!’s ad practices, including how to opt out of using a
 
 Yahoo! is a member of the Network Advertising Initiative. See [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**J. SOLE STATEMENT**
+**J. AP NEWS REGISTRY**
+
+We use services provided by AP News Registry for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights. AP News Registry collects non-personally identifiable content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information, including how to opt-out of certain AP News Registry collection activities. Your continued readership of the site means you accept the privacy policy of the AP News Registry.
+
+**K. SOLE STATEMENT**
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website
