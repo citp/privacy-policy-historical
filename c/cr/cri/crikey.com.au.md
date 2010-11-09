@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509003714id_/http%3A//www.crikey.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109030050id_/http%3A//www.crikey.com.au/about/privacy) for the most accurate reproduction.*
 
-# Privacy – Crikey
+# Privacy | Crikey
 
 Crikey Daily Mail and the website, www.crikey.com.au are published by Private Media Pty Ltd (ABN 11 102 933 362), which employs staff and manages subscriber databases and accounting services for Blimey Holdings Pty Ltd, its vehicle for ownership of the Crikey business. In this privacy policy Private Media Pty Ltd is referred to as “Crikey”.
 
