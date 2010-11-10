@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightersonlymagazine.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182745id_/http%3A//fightersonlymagazine.co.uk/misc/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightersonlymagazine.co.uk privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110092830id_/http%3A//www.fightersonlymagazine.co.uk/misc/pp.php) for the most accurate reproduction.*
 
 # Fighters Only Magazine - The World's Greatest MMA Magazine - General Information - Privacy Policy
 
