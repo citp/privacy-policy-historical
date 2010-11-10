@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponconnector.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813192546id_/http%3A//www.couponconnector.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponconnector.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110071205id_/http%3A//www.couponconnector.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Coupon Connector
 
