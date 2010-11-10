@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619075435id_/http%3A//www.cell.com/cellpress/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110072858id_/http%3A//www.cell.com/cellpress/PrivacyPolicy) for the most accurate reproduction.*
 
 # CellPress Online - cellpress PrivacyPolicy
 
@@ -63,9 +63,9 @@ We will not otherwise disclose any personal information without your consent exc
 
 ### Access and Changes to Your Registration Information and Preferences
 
-Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting our Customer Service Department at the address or telephone number detailed below and/or clicking on the [Your Details](http://www.ajhg.org/personalize/profile) link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
+Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting our Customer Service Department at the address or telephone number detailed below and/or clicking on the [Profile](http://www.cell.com/profile) link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
 
-If you wish to receive alerts, newsletters, new product announcements, market surveys, special offers or promotions, please tick the appropriate check box when you [register](http://www.ajhg.org/personalize/register) for personalized services or access or amend your preferences by logging in and clicking on the [Your Details](http://www.ajhg.org/personalize/profile) link at any time. If you wish to cease receiving any of this information, amend your preferences either by contacting our Customer Service Department at the address or telephone number detailed below, logging in and clicking on the [Your Details](http://www.ajhg.org/personalize/profile) link, or using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
+If you wish to receive alerts, newsletters, new product announcements, market surveys, special offers or promotions, please tick the appropriate check box when you [register](http://www.cell.com/register) for personalized services or access or amend your preferences by logging in and clicking on the [Profile](http://www.cell.com/profile) link at any time. If you wish to cease receiving any of this information, amend your preferences either by contacting our Customer Service Department at the address or telephone number detailed below, logging in and clicking on the [Profile](http://www.cell.com/profile) link, or using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
 
 ### Retention of Personal Information
 
@@ -98,13 +98,13 @@ If you have any questions or comments regarding this privacy policy, please cont
 
 Cell Press  
 Customer Service Department  
-11830 Westline I ndustrial Drive
+11830 Westline Industrial Drive
 
 St Louis, MO 63146 USA  
-Email: [subs@cell.com](mailto:subs@cell.com); [feedback@cell.com](mailto:feedback@cell.com)  
-Tele: (866) 314-2355 (Toll Free US & Canada), (314) 579-2880 (outside US & Canada),  
+Email: [subs@cell.com](mailto:subs@cell.com)  
+Tel: (866) 314-2355 (Toll Free US & Canada), (314) 579-2880 (outside US & Canada),  
 Fax: (314) 523 5170
 
 If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem. 
 
-Last revised: September 3, 2008
+Last revised: June 23, 2010
