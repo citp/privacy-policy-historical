@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430021407id_/http%3A//www.aspca.org/about-us/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110115039id_/http%3A//www.aspca.org/about-us/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
 # ASPCA | Privacy Policy
 
