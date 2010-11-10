@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the cell.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619075435id_/http%3A//www.cell.com/cellpress/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cell.com privacy policy that was archived on 2010-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101110072858id_/http%3A//www.cell.com/cellpress/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
    <title>CellPress Online - cellpress PrivacyPolicy</title>
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <meta content="MSHTML 6.00.2900.3132" name="GENERATOR">
+    
         <link rel="stylesheet" type="text/css" href="/css/cell/cpsj_core.css">
 		<script type="text/javascript" src="/js/cell/jquery-1.3.2.min.js"></script>
 		<script type="text/javascript" src="/js/cell/loginValidator.js"></script>
@@ -12,7 +13,9 @@
 		<script type="text/javascript" src="/js/cell/utils.js"></script>
 		<script type="text/javascript" src="/js/cell/searchValidator.js"></script>
 		<script type="text/javascript" src="/js/cell/registrationValidator.js"></script>
-    
+   
+   
+   
 <!--[if IE]>
 <style type="text/css">
 #sizer {
@@ -30,59 +33,65 @@
 <div id="header">
 	<h1>
 	<a href="/cellpress">
-		<img src="/images/cell_press_header.gif" alt="CellPress">
+		<img alt="CellPress" src="/images/cell_press_header.gif" style="margin-top: 15px; margin-left: 15px;">
 	</a>
 	</h1>
-	<div id="console">	
-<div id="top_links_holder">	
-				<ul>
-				<li>							<form class="defaultLoginForm" id="defaultLoginForm" method="post" name="loginForm" action="/login">
-									<input id="login_link" name="_eventId_userLogin" value="Login" type="image" src="/images/cell/console_login.gif">
-							</form>
-				</li>
-				<li><a id="register" href="/register"><img src="/images/cell/console_register.gif" alt="Register"></a></li>
-				<li><a id="subscribe" href="/subscribe"><img src="/images/cell/console_subscribe.gif" alt="Subscribe"></a></li>
-				<li><a id="alerts" href="/myemailalerts"><img src="/images/cell/console_alerts.gif" alt="Alerts"></a></li>
-			</ul>
-</div>				
-				<form id="searchBox" name="searchBox" action="/searchresults" method="get">
-				<label>Search by:</label>
-					<label for="fulltext"><input type="radio" class="radio" id="fulltext" name="searchBy" value="fulltext" checked="checked">Full Text</label>
-					<label for="authors"><input type="radio" class="radio" id="authors" name="searchBy" value="authors">Authors</label>
-					<input type="text" name="searchText">
-				<input type="submit" class="button" name="submit_search" value="Search">
-				<p>or go to <a href="/advancedsearch">Advanced Search</a></p>
-				<input type="hidden" class="button" name="cellpress_search" value="Search">
-				<input type="hidden" class="button" name="journal1" value="all">
-				</form>
-	</div>
-<div id="floating_login_form">
-	<a id="close_login" href="#" onclick="this.parentNode.style.right='9999pt';document.getElementById('loginError').innerHTML='';">X</a>
-		<div class="error" id="loginError"></div>
-				<form name="LoginForm" action="/cellpress/PrivacyPolicy" method="post">
-				<input type="hidden" class="hidden" name="doLogin" value="true">
-				<label for="userName">User Name</label>
-				<input id="userName" name="userName" value="" type="text">
-				<label for="password">Password</label>
-				<input id="password" name="password" maxlength="20" type="password"><br>
-				<a id="forgotlink" href="/forgotpwd">Forgotten User Name or Password?</a>
-				<input id="login_submit" name="_eventId_loginAttempt" class="button" value="Login" type="submit" onclick="return validateLogin();">
-				<div id="remember_options"><label for="auto_login" id="rememberme_label">Remember me on this computer</label>
-						<input class="checkbox" type="checkbox" name="auto_login" id="auto_login" value="yes"><br>
-				</div>
-			</form>
-			<br style="clear:both">
-</div>
-
-</div>
-
-<div>
+	
+    <!-- Floating Login Form - appears on login click when JS on -->
+    <div style="display: none;" id="floating_login_form">
+          <a href="javascript:void(0)" id="close_login">X</a>
+          <div id="loginError" class="error"></div>
+		  	<form name="LoginForm" action="/cellpress/PrivacyPolicy" method="post">
+		      <input type="hidden" value="true" name="doLogin" class="hidden">
+		      <label for="userName">User Name</label>
+		      <input type="text" value="" name="userName" id="userName">
+		      <label for="password">Password</label>
+		      <input type="password" maxlength="20" name="password" id="password"><br>
+		      <a href="/forgotpwd" id="forgotlink">Forgotten User Name or Password?</a>
+		      <input type="submit" onclick="return validateLogin();" value="Login" class="button" name="_eventId_loginAttempt" id="login_submit">
+		      <div id="remember_options"><label id="rememberme_label" for="auto_login">Remember me on this computer</label>
+		        <input type="checkbox" value="yes" id="auto_login" name="auto_login" class="checkbox"><br>
+		      </div>
+	      </form>
+    </div>
+    
+    <!-- Leaderboard-->
+    <div id="headerad">
+	    <script type="text/javascript" language="Javascript1.1"> 
+			//<![CDATA[
+			ord=Math.random()*10000000000000000;
+			document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Cell.com/Cell.com/cellpress;abr=!webtv;sz=728x90;pos=1;tile=1;ord='+ord+'?"><\/script>'); 
+			//]]>
+			document.write('<p/>');
+	    </script><script type="text/javascript" src="https://ad.doubleclick.net/adj/Cell.com/Cell.com/cellpress;abr=!webtv;sz=728x90;pos=1;tile=1;ord=6941869418435225?"></script><p>
+	   <noscript> 
+			<a target="_blank" href="https://ad.doubleclick.net/jump/Cell.com/Cell.com/cellpress;sz=728x90;pos=1;tile=1;ord=95551?"><img border="0" src="https://ad.doubleclick.net/ad/Cell.com/Cell.com/cellpress;sz=728x90;pos=1;tile=1;ord=95551?"/></a> 
+	   </noscript>
+    </p></div>
+</div><div id="globaltoolbar">  
+    <div id="globaltoolbarlinks_wrapper">
+       <div id="globaltoolbarlinks">
+		 				<a id="login_link" href="/login" title="Login">Login</a>
+				<a id="register" href="/register" title="Register">Register</a>
+					<a id="subscribe" href="/subscribe" title="Subscribe">Subscribe</a>
+				<a id="alerts" href="/myemailalerts" title="Alerts">Alerts</a>
+	  </div>
+   </div>
+   
+	<form id="searchBox" name="searchBox" action="/searchresults" method="get">
+			<input type="text" name="searchText"> &nbsp;
+			<input type="submit" value="Search" name="submit_search" class="button"> &nbsp;
+			<input type="radio" value="fulltext" name="searchBy" id="fulltext" class="radio" checked="checked"><label for="fulltext">Full Text</label> &nbsp;
+			<input type="radio" value="authors" name="searchBy" id="authors" class="radio"><label for="authors">Authors</label> &nbsp; &nbsp; &nbsp;
+		<a style="color: white; text-decoration: none;" href="/advancedsearch" title="Advanced Search">Advanced Search</a>
+	</form>
+</div><div>
 	<div id="global_nav">
 		<ul id="nav">					
 			<li><a id="conferences" title="Conferences" href="/conferences">Conferences</a></li>
 			<li><a id="jobs" title="Jobs" href="http://careers.cell.com">Jobs</a></li>
 			<li class="expander"><a id="journalInfo" title="Journal Information" href="#">Journal Information</a></li>
-			<li class="expander"><a id="changeJournal" title="Change Journal" href="#">Change Journal</a></li>
+			<li class="expander"><a id="changeJournal" title="Select Journal" href="#">Select Journal</a></li>
 			<li><a id="CellPress" title="Cell Press" href="/cellpress">Cell Press</a></li>
 		</ul>
 	</div>
@@ -155,15 +164,7 @@
 </div>
 
 
-<div id="main_banner">
-<script src="https://ad.doubleclick.net/adj/Cell2009/cellpress;abr=!webtv;sz=728x90;pos=1;tile=1;ord=95551?" type="text/javascript" language="Javascript1.1"> 
-</script> 
-<script type="text/javascript"> 
-<!-- if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("webtv") >= 0)) { document.write('<a href="https://ad.doubleclick.net/adj/Cell2009/cellpress;sz=728x90;ord=95551?" target="_blank">'); document.write('<img src="https://ad.doubleclick.net/adj/Cell2009/cellpress;sz=728x90;pos=1;tile=1;ord=95551?" border="0" /></a>'); } //--> 
-</script> 
-<noscript> 
-<a target="_blank" href="https://ad.doubleclick.net/jump/Cell2009/cellpress;sz=728x90;pos=1;tile=1;ord=95551?"><img border="0" src="https://ad.doubleclick.net/ad/Cell2009/cellpress;sz=728x90;pos=1;tile=1;ord=95551?"/></a> 
-</noscript></div>	<div id="main_content">
+	<div id="main_content">
 		<div id="something"><h2>Privacy Policy</h2>
 <p>The Cell Press web sites ("Site") are owned and operated by Elsevier Inc., 600 Technology Square, Cambridge, MA, 02139, USA. We respect your privacy and do not rent, sell or disclose your personal information to any non-affiliated third party without your consent.<br>
     <br>
@@ -212,9 +213,9 @@ Access to your personal information is restricted to our employees, agents, repr
   <br>
 • if Elsevier, this Site or a related asset or line of business is acquired by, transferred to or merged with another company.</p>
 <h3>Access and Changes to Your Registration Information and Preferences</h3>
-Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting our Customer Service Department at the address or telephone number detailed below and/or clicking on the <a href="http://www.ajhg.org/personalize/profile">Your Details</a> link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
+Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting our Customer Service Department at the address or telephone number detailed below and/or clicking on the <a href="http://www.cell.com/profile">Profile</a> link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
     
-  <p>If you wish to receive alerts, newsletters, new product announcements, market surveys, special offers or promotions, please tick the appropriate check box when you <a href="http://www.ajhg.org/personalize/register">register</a> for personalized services or access or amend your preferences by logging in and clicking on the <a href="http://www.ajhg.org/personalize/profile">Your Details</a> link at any time. If you wish to cease receiving any of this information, amend your preferences either by contacting our Customer Service Department at the address or telephone number detailed below, logging in and clicking on the <a href="http://www.ajhg.org/personalize/profile">Your Details</a> link, or using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.</p>
+  <p>If you wish to receive alerts, newsletters, new product announcements, market surveys, special offers or promotions, please tick the appropriate check box when you <a href="http://www.cell.com/register">register</a> for personalized services or access or amend your preferences by logging in and clicking on the <a href="http://www.cell.com/profile">Profile</a> link at any time. If you wish to cease receiving any of this information, amend your preferences either by contacting our Customer Service Department at the address or telephone number detailed below, logging in and clicking on the <a href="http://www.cell.com/profile">Profile</a> link, or using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.</p>
 <h3>Retention of Personal Information</h3>
 We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on our servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of such information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of such information submitted to us nor for your or third parties' use or misuse of such information.<br>
     <br>
@@ -239,23 +240,27 @@ The foregoing is the current privacy policy of the Site. We reserve the right to
   <br>
   Cell Press<br>
   Customer Service Department<br>
-  11830 Westline I ndustrial Drive<p></p>
+  11830 Westline Industrial Drive<p></p>
 <p class="style1" style="margin-top:0;">St Louis, MO 63146 USA<br>
-  Email: <a href="mailto:subs@cell.com">subs@cell.com</a>; <a href="mailto:feedback@cell.com">feedback@cell.com</a><br>
-  Tele: (866) 314-2355 (Toll Free US &amp; Canada), (314) 579-2880 (outside US &amp; Canada),<br>
+  Email: <a href="mailto:subs@cell.com">subs@cell.com</a><br>
+  Tel: (866) 314-2355 (Toll Free US &amp; Canada), (314) 579-2880 (outside US &amp; Canada),<br>
   Fax: (314) 523 5170</p>
 <p class="style1">If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem. <br>
     <br>
-  Last revised: September 3, 2008</p>
+  Last revised: June 23, 2010</p>
 <p class="style1">&nbsp;</p></div>
 </div>
   <div id="footer_ad">
-  <script src="https://ad.doubleclick.net/adj/Cell2009/cellpress;abr=!webtv;sz=728x90;pos=2;tile=2;ord=95551?" type="text/javascript" language="Javascript1.1"> 
-</script> 
+  <script type="text/javascript" language="Javascript1.1">
+	//<![CDATA[
+	ord=Math.random()*10000000000000000;
+	document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Cell.com/Cell.com/cellpress;pos=bottom;sz=728x90;ord='+ord+'?"><\/script>'); 
+	//]]>
+</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/Cell.com/Cell.com/cellpress;pos=bottom;sz=728x90;ord=2026916726498115.8?"></script>
 <script type="text/javascript"> 
 </script> 
 <noscript> 
-<a target="_blank" href="https://ad.doubleclick.net/jump/Cell2009/cellpress;sz=728x90;pos=2;tile=2;ord=95551?"><img border="0" src="https://ad.doubleclick.net/ad/Cell2009/cellpress;sz=728x90;pos=2;tile=2;ord=95551?"/></a> 
+	<a target="_blank" href="https://ad.doubleclick.net/jump/Cell.com/Cell.com/cellpress;pos=bottom;sz=728x90;ord=95551?"><img border="0" src="https://ad.doubleclick.net/ad/Cell.com/Cell.com/cellpress;pos=bottom;sz=728x90;ord=95551?"/></a> 
 </noscript>
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
