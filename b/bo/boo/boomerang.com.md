@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310222150id_/http%3A//boomerang.com/About-Us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110025436id_/http%3A//boomerang.com/About-Us/privacy-policy) for the most accurate reproduction.*
 
 # Our Promise To Protect Your Privacy - Boomerang
+
+Privacy Policy 
 
 Boomerang provides email marketing and fax communication services for business. Privacy is a fundamental consideration in our interaction with clients and visitors to our web site. This section explains our information gathering and retention practices.
 
@@ -32,7 +34,7 @@ Boomerang uses IP address data for site administration purposes, troubleshooting
 
 Client and Web Site Visitor Provided Information
 
-Boomerang may collect personally identifiable information such as name, title, business name and address, e-mail address, and telephone number, for the purpose of providing promotional services to clients and web site visitors. Such personally identifiable information is only collected if voluntarily provided by the client or web site visitor. Clients and web site visitors may change or review personally identifiable information provided to Boomerang by contacting Boomerang at [sitevisitorinfo@boomerang.com](mailto:sitevisitorinfo@boomerang.com).
+Boomerang may collect personally identifiable information such as name, title, business name and address, e-mail address, and telephone number, for the purpose of providing promotional services to clients and web site visitors. Such personally identifiable information is only collected if voluntarily provided by the client or web site visitor. Clients and web site visitors may change or review personally identifiable information provided to Boomerang by contacting Boomerang at [ sitevisitorinfo@boomerang.com](mailto:sitevisitorinfo@boomerang.com).
 
 Trademarks
 
@@ -58,4 +60,7 @@ Boomerang reserves the right to change its Privacy Policy at any time. Any chang
 
 _Last updated and effective as of January 29,2008._
 
-Please send any questions about our privacy policy to [privacy@boomerang.com](mailto:privacy@boomerang.com).
+Please send any questions about our privacy policy to [ privacy@boomerang.com](mailto:privacy@boomerang.com).
+
+|   
+---|---
