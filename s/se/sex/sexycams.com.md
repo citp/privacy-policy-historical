@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexycams.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512185655id_/http%3A//www.sexycams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexycams.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110135514id_/http%3A//www.sexycams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# SexyCams - Privacy Policy
+# SexyCams - Privacy
 
 [Home](http://www.sexycams.com/) / Privacy Policy
 
