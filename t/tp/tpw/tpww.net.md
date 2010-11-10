@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616031617id_/http%3A//www.tpww.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110135148id_/http%3A//www.tpww.net/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TPWW.net
+# Privacy Policy – TPWW.net
 
 TPWW does not require any personal information in order to access our website. In order to use certain features on our site, such as our forums or to be able to post comments, you will need to enter your e-mail address. TPWW will NEVER share this information or any other personal information entered with any third parties.
 
