@@ -1,190 +1,279 @@
-<!--The following is the downloaded HTML source of the susu.org privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623105653id_/http%3A//about.susu.org/article.php%3Ftitle%3DPrivacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the susu.org privacy policy that was archived on 2010-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101110023708id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
+
+
+<title>SUSU - About - Privacy Policy</title>
+
+<base href="http://www.susu.org/">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/czx6utv.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<link rel="stylesheet" href="coreui/reset.css">
+<link rel="stylesheet" href="coreui/text.css">
+<link rel="stylesheet" href="coreui/960.css">
+<link rel="stylesheet" href="coreui/template.css">
+<link rel="stylesheet" href="coreui/buttons.css">
+<link rel="stylesheet" href="coreui/mobile.css">
+
+
+<script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/konami.js"></script>
+<script type="text/javascript">
+	<!--
+	function launchSurge() {
+	window.open( "http://www.surgeradio.co.uk/player/", "Surge Radio", 
+	"status = 1, height = 220, width = 340, resizable = 0, scrollbars = 0" )
+	}
+	//-->
 </script>
 <script type="text/javascript">
-_uacct = "UA-1440522-3";
-urchinTracker();
+	function loginPopup() {
+		$('#loginpopup').show();
+		$('#user').focus();
+	}
+	
+	function logout() {
+		$('#loginpopup').load('http://www.susu.org/logout/');
+		location.reload(true);
+	}
+
+	$(document).ready(function() {
+		
+		$("#loginpopup").click(function(e) {
+			if ( $(event.target).closest('#loginform').get(0) == null ) { $("#loginpopup").hide(); }
+		});
+		
+		$('#closelogin').click(function() {
+			$('#loginpopup').hide();
+		});
+		
+						
+		$(document).konami(function(){
+			window.location = 'http://www.thekickback.com/rickroll/rickroll.php';	
+		});
+	});
+</script>
+</head>
+
+<body>
+
+<div id="loginpopup">
+    <form id="loginform" class="loginform">
+        <a href="javascript:;" id="closelogin">X</a>
+        <h2>Students &amp; Staff</h2>
+        <h3>(use your University login)</h3>
+        <p>Username:</p>
+        <input type="text" id="user">
+        <p>Password:</p>
+        <input type="password" id="pass">
+        <p><a href="javascript:;" id="login" class="button blue">Log In</a> <small><a href="https://subscribe.iss.soton.ac.uk/forgotsubscribed.html">Forgotten your password?</a></small></p>
+        <!--<h3>New to SUSU?</h3>
+        <p><a href="http://www.susu.org/register/" >Create an Account</a></p>-->
+    </form>
+</div>
+
+<script type="text/javascript">
+	
+	function ReadCookie(cookieName) {
+		var theCookie=""+document.cookie;
+		var ind=theCookie.indexOf(cookieName);
+		if (ind==-1 || cookieName=="") return ""; 
+		var ind1=theCookie.indexOf(';',ind);
+		if (ind1==-1) ind1=theCookie.length; 
+		return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+	}
+	
+	$(document).ready(function() {
+		$("#login").click(function() {
+			var user = $("input#user").val();
+			var pass = $("input#pass").val();
+						
+			var dataString = 'user='+ user + '&pass=' + pass;
+										
+			$.ajax({
+				type: "POST",
+				url: "log-in/",
+				data: dataString,
+				success: function(data) {
+					if (data == 'Login failed') 
+						$('#loginform')	.animate({ left: -25 },25)
+										.animate({ left: 0 },25)
+										.animate({ left: 25 },25)
+										.animate({ left: 0 },25)
+										.animate({ left: -25 },25)
+										.animate({ left: 0 },25);
+					else if (data == 'new user') window.location = "http://www.susu.org/user/welcome.html";
+					else{
+						/*$('#loginbox').html(data);
+						$('#loginpopup').fadeOut();*/
+						location.reload(true);
+					}
+				}
+			});
+		});
+		$("#pass").keypress(function(e){
+			if(e.keyCode == 13){
+				var user = $("input#user").val();
+				var pass = $("input#pass").val();
+							
+				var dataString = 'user='+ user + '&pass=' + pass;
+								
+				$.ajax({
+					type: "POST",
+					url: "log-in/",
+					data: dataString,
+					success: function(data) {
+						if (data == 'Login failed') 
+							$('#loginform')	.animate({ left: -25 },25)
+											.animate({ left: 0 },25)
+											.animate({ left: 25 },25)
+											.animate({ left: 0 },25)
+											.animate({ left: -25 },25)
+											.animate({ left: 0 },25);
+						else if (data == 'new user') window.location = "http://www.susu.org/user/welcome.html";
+						else{
+							/*$('#loginbox').html(data);
+							$('#loginpopup').fadeOut();*/
+							location.reload(true);
+						}
+					}
+				});
+			}
+		});
+	});
 </script>
 
-<title>Privacy Policy :: About Southampton University Students' Union</title><meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-<meta http-equiv="expires" content="0">
-<style type="text/css" media="all">@import "http://shrek.susu.org/ibar/styles/ibarstyle.css";</style>
+<!-- SUSU HEADER START -->
+<div id="susuheader">
+    <div class="container_12">
+        <div class="grid_2">
+        	<div class="susulogo">
+        		<a href="http://www.susu.org/"><img src="images/logos/susu.png" alt="SUSU"></a>
+            </div>
+        </div>
+        <div class="grid_4">
+        	<h1><span class="header">Southampton University</span><br>Students' Union</h1>
+            <ul>
+                <li class="first"><a href="about/">about susu</a></li>
+                <li><a href="http://www.susu.org/contact.html">contact us</a></li>
+                <li><a href="http://bookings.susu.org/">room bookings</a></li>
+                <li><a href="http://www.susu.org/work-with-us/">job vacancies</a></li>
+                <li><a href="http://boxoffice.susu.org/">box office</a></li>
+            </ul>
+        </div>
+        <div class="grid_3">
+        	<div id="surge">
+                <a href="http://www.surgeradio.co.uk/listen/" onclick="launchSurge(); return false;"><img src="images/logos/surgebox.png" alt="Listen Now"></a>
+            </div>
+        </div>
+		<div class="grid_3">
+        	<div class="topbox" id="login">
+            	<p>Students &amp; Staff: <a href="login/" onclick="loginPopup(); return false;" class="button yellow">Login</a></p>                
+            </div>
+            
+            <form id="searchbox" method="get" action="search/">
+                <input type="text" id="search" class="round" value="" placeholder="SUSU Search..." name="q" size="15">
+            </form>
+        </div>
+	</div>
+</div>    
+<!-- SUSU HEADER END -->
 
-<script type="text/javascript" src="http://shrek.susu.org/ibar/jscripts/ibar.js"></script><link href="css/about.css" type="text/css" rel="stylesheet"> 
-</head><body onload="predatorinit();" style=" margin: 0 0 0 0; padding-top: 0; padding-right: 0; padding-left: 0; padding-bottom: 0;">
-	<ul id="ibar" onmouseover="opacityRequest(this, 1000 ,50,100, event)" onmouseout="opacityRequest(this, 1000 ,100,50, event)">
-		<li class="ibardown mainmenu" id="ibarmainmenu" onclick="addOver(this, event)" onmouseover="addMainOver(this, event)" onmouseout="removeMenuOver(this, event)">
-		<img src="http://shrek.susu.org/ibar/images/open.gif" alt="main menu" title="Touch me here, oooh...">
-		<ul>
-			<li id="ibarmainmenu" class="ibarsubmenu ibartitle" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><p>Explore Our World</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow"><ul><li onmouseover="addOver(this, event)" onmouseout="removeOver(this, event)"><span>21</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://www.susu.org" title="The Southampton University Students' Union home">SUSU home</a></li>
-<li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>15</span><p>Activities</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>77</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://sport.susu.org" title="The home of the AU">Athletic Union</a></li>
-<li><span>120</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://events.susu.org/" title="Events Home - listings , times and locations">Events</a></li>
-<li><span>86</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://pau.susu.org" title="Performing Arts Union - Over 20 ways to shine">Performing Arts</a></li>
-<li><span>83</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://rag.susu.org" title="Raising and Giving">RAG</a></li>
-<li><span>79</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://clubs.susu.org" title="Over 100 things to do at uni">Societies</a></li>
-<li><span>82</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://action.susu.org" title="Student Community Action - volunteering projects">Student Volunteering</a></li>
-</ul></li><li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>26</span><p>Education</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>100</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://education.susu.org/article.php?sid=10" title="Information for course reps">Course Representation</a></li>
-<li><span>102</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://education.susu.org/" title="The Education Homepage">Education</a></li>
-<li><span>107</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://education.susu.org/article.php?sid=3" title="Mature Students information">Mature Students</a></li>
-<li><span>514</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://pgnews.susu.org/" title="Post Graduate Newsletter">Post Grad News</a></li>
-<li><span>110</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://postgrad.susu.org/" title="PostGrad information and officer contact info">PostGrads</a></li>
-<li><span>134</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://revise.susu.org/" title="Help and advice on revising and organisation">Revision Mini Site</a></li>
-</ul></li><li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>44</span><p>Entertainment</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>213</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=Events%2C+Bars+%26+The+Cube" title="Events, Bars, and the Cube">Bars</a></li>
-<li><span>120</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://events.susu.org/" title="Events Home - listings , times and locations">Events</a></li>
-<li><span>85</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://games.susu.org" title="You know you have time!">Games</a></li>
-<li><span>240</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://shrek.susu.org/magic/" title="The SUSU Media Player">Magic Mirror</a></li>
-<li><span>196</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="https://boxoffice.susu.org/" title="Buy tickets for all the events at SUSU">The Box Office</a></li>
-<li><span>93</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://uf.susu.org/" title="The Film Society">Union Films</a></li>
-<li><span>210</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://calendar.susu.org/" title="The SUSU Calendar, if it on then its here">What's On</a></li>
-</ul></li><li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>25</span><p>Interact</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>80</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://forum.susu.org" title="Get chatting in our forum">Forum</a></li>
-<li><span>81</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://gallery.susu.org" title="Check out the latest photos">Gallery</a></li>
-<li><span>85</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://games.susu.org" title="You know you have time!">Games</a></li>
-<li><span>240</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://shrek.susu.org/magic/" title="The SUSU Media Player">Magic Mirror</a></li>
-<li><span>515</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=Using+feeds" title="RSS Feeds on SUSU.ORG">RSS Feeds</a></li>
-<li><span>89</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://www.google.com/u/susu" title="Search SUSU.org">Search</a></li>
-<li><span>87</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/siteindex.php" title="A directory of all pages on SUSU.org">Site Map</a></li>
-</ul></li><li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>24</span><p>Media</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>240</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://shrek.susu.org/magic/" title="The SUSU Media Player">Magic Mirror</a></li>
-<li><span>215</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=Media+Resources" title="Publications information">Publications</a></li>
-<li><span>214</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://www.surgeradio.co.uk/" title="Student radio station of Southampton University">Surge Radio</a></li>
-<li><span>96</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://www.wessexscene.co.uk/" title="The Students' paper">Wessex Scene</a></li>
-</ul></li><li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>16</span><p>Services</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>212</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=Minibus" title="Minibus driver and user information">Minibus</a></li>
-<li><span>206</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://nline.susu.org/" title="The confidential listening and information service">Nightline</a></li>
-<li><span>173</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://discounts.susu.org/" title="Where to get the best student discounts">Student Discounts</a></li>
-<li><span>91</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=The+SUSU+Cafe" title="Bigger portions at lower prices! yum">SUSU Cafe</a></li>
-<li><span>88</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=The+SUSU+Shop" title="The Students' Union Shop">SUSU Shop</a></li>
-<li><span>92</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://travel.susu.org/" title="Travel the world with SUSU">Travel Centre</a></li>
-</ul></li><li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>45</span><p>Union</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>98</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org" title="find out about SUSU">About SUSU</a></li>
-<li><span>218</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=Contacting+us" title="How to get in touch with the union">Contact</a></li>
-<li><span>113</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://enviro.susu.org/" title="Environment &amp; Ethics homepage">Environment &amp; Ethics</a></li>
-<li><span>241</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://international.susu.org" title="Home of the International students at SUSU">International Home</a></li>
-<li><span>216</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://sabs.susu.org/" title="The Sabbatical Team">Officers</a></li>
-<li><span>135</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://bookings.susu.org/" title="Room bookings system">Room Bookings</a></li>
-<li><span>217</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=How+SUSU+is+Run" title="The structure of the running of the union">Structure</a></li>
-<li><span>174</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://elections.susu.org/" title="Elections information and voting">Student Elections</a></li>
-<li><span>156</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://sport.susu.org/article.php?sid=70" title="Sport at the WSA">Winchester School of Art</a></li>
-<li><span>220</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/faq.html" title="The SUSU FAQ">Your Questions</a></li>
-</ul></li><li class="ibarsubmenu" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)"><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><span>21</span><p>Welfare</p><img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="ra"><ul><li><span>201</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://welfare.susu.org/article.php?sid=5" title="Housing advice">Accomodation</a></li>
-<li><span>202</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://welfare.susu.org/article.php?sid=7" title="SUSU's equal opportunities policy">Equal Opportunities</a></li>
-<li><span>203</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://welfare.susu.org/article.php?sid=3" title="Health home">Health</a></li>
-<li><span>241</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://international.susu.org" title="Home of the International students at SUSU">International Home</a></li>
-<li><span>206</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://nline.susu.org/" title="The confidential listening and information service">Nightline</a></li>
-<li><span>244</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://safe.susu.org/" title="Student Safety Tips">Safer Students</a></li>
-<li><span>20</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://suaic.susu.org" title="Students' Union Advice and Information Centre">SUAIC</a></li>
-<li><span>95</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://welfare.susu.org/" title="Looking after you">Welfare</a></li>
-</ul></li></ul></li>
-			<li><span>21</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/21.gif" onmousedown="hold(this, event)"><a href="http://www.susu.org" title="The Southampton University Students' Union home">SUSU home</a></li><li><span>81</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/81.gif" onmousedown="hold(this, event)"><a href="http://gallery.susu.org" title="Check out the latest photos">Gallery</a></li><li><span>96</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/96.gif" onmousedown="hold(this, event)"><a href="http://www.wessexscene.co.uk/" title="The Students' paper">Wessex Scene</a></li><li><span>135</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/135.gif" onmousedown="hold(this, event)"><a href="http://bookings.susu.org/" title="Room bookings system">Room Bookings</a></li><li><span>196</span><img alt="click and drag to move the menu item" class="ibarmoveimage" src="http://shrek.susu.org/ibar/images/196.gif" onmousedown="hold(this, event)"><a href="https://boxoffice.susu.org/" title="Buy tickets for all the events at SUSU">The Box Office</a></li>
-			<li id="predator" class="ibarsubmenu ibartitle" onmouseover="addOver(this, event)" onmouseout="removeMenuOver(this, event)" title="use me search me any way you want me">
-	<input type="text" id="predatorIn" onmouseout="removeMenuOver(this.parentNode, event)" onkeyup="askPredator(this.value, event)" size="16">
-	 <img src="http://shrek.susu.org/ibar/images/smallrightarrow.gif" alt="right arrow" class="nopad">
-	<ul id="predatorOut">
-		<li>Sorry no results.</li>
-	</ul>
-</li>
-		</ul>
-		</li>
-		<li onmouseover="addOver(this, event)" onmouseout="removeOver(this, event)"><span>21</span><img class="ibarmoveimage" alt="click and drag to move the menu item" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://www.susu.org" title="The Southampton University Students' Union home">SUSU home</a></li><li onmouseover="addOver(this, event)" onmouseout="removeOver(this, event)"><span>221</span><img class="ibarmoveimage" alt="click and drag to move the menu item" src="http://shrek.susu.org/ibar/images/moveimage.gif" onmousedown="hold(this, event)"><a href="http://about.susu.org/article.php?title=Using+the+new+i-bar" title="Info on how to use the new i-bar">Using the i-bar</a></li>
-		 <li id="ibarsitesearch">
- 			<form action="http://search.susu.org/search" method="get">
-                                <input name="q" type="text" size="14" maxlength="2048" id="ibarAllSiteSearch">
-                		<input type="hidden" name="site" value="default_collection">
-                                <input type="hidden" name="client" value="default_frontend">
-                                <input type="hidden" name="proxystylesheet" value="default_frontend">
-                                <input type="hidden" name="output" value="xml_no_dtd">
-                                <input type="image" alt="Submit" name="submit" src="http://shrek.susu.org/james/ibar/images/search.gif">
-                        </form>
-		</li>
-	</ul>
-	<div id="temp"></div>
-<noscript>
-	<ul id='nsibar'><li><a href='http://www.susu.org'>SUSU home</a></li><li><a href='http://clubs.susu.org'>Societies</a></li><li><a href='http://games.susu.org'>Games</a></li><li><a href='http://about.susu.org/siteindex.php'>Site Map</a></li><li><a href='http://uf.susu.org/'>Union Films</a></li><li><a href='http://events.susu.org/'>Events</a></li><li><a href='http://action.susu.org/'>Student Volunteering</a></li><li><a href='http://about.susu.org/article.php?title=Media+Resources'>Publications</a></li><li><a href='http://info.susu.org'>Advice and Information</a></li><li><a href='http://shrek.susu.org/magic/'>Magic Mirror</a></li><li><a href='http://pgnews.susu.org/'>Post Grad News</a></li></ul>
-</noscript>
-<div align="center"><table border="0" cellspacing="0" cellpadding="0" width="756"><tbody><tr><td align="left" colspan="2">
-<table border="0" width="756" cellpadding="3" cellspacing="0">
-    <tbody><tr>
-    	<td><img align="left" src="images/spacer.gif" border="0" width="85" alt="just a little spacer"></td>
-        <td align="center"><a href="http://about.susu.org/"><img src="images/aboutsusu.gif" border="0" alt="back to about susu"></a></td>
-        <td><a href="http://www.susu.org"><img align="right" src="images/susu-weblogo.gif" border="0" alt="back to susu.org"></a></td>
-    </tr>
+<div class="container_12">
+	
+    <!-- SUSU MENU START -->
+    <div class="grid_12" id="header_menu">
+    	<ul id="susumenu">
+    <li class="one"><a href="http://www.susu.org/"><p class="big">Home</p><p>back to SUSU</p></a></li>
+    <li class="two"><a href="http://www.susu.org/calendar/"><p class="big">What's On?</p><p>events day &amp; night</p></a></li>
+    <li class="three"><a href="http://www.susu.org/societies/"><p class="big">Activities</p><p>socs &amp; media</p></a></li>
+    <li class="four"><a href="http://www.susu.org/life/"><p class="big">Life</p><p>help &amp; advice</p></a></li>
+    <li class="five"><a href="http://www.susu.org/sport/"><p class="big">Sport</p><p>athletic union</p></a></li>
+    <li class="six"><a href="http://www.susu.org/education/"><p class="big">Education</p><p>&amp; representation</p></a></li>
+    <li class="seven"><a href="http://www.susu.org/winchester/"><p class="big">Winchester</p><p>school of art</p></a></li>
+    <li class="eight"><a href="http://www.susu.org/international/"><p class="big">International</p><p>newsletters</p></a></li>
+    <li class="custom"><a href="http://www.susu.org/jcr-elections/"><p class="big">JCR Elections</p><p>view the candidates</p></a></li>
+</ul>
+    </div>
+    <!-- SUSU MENU END -->    <!-- MAIN CONTENT START -->
+    <div class="grid_8">
 
-    <tr>
-       	<td colspan="3"><img src="images/tiny_blue.gif" width="100%" height="2"></td>
-    </tr>
+<h2>Privacy Policy</h2>
 
-    <tr>
-       	<td colspan="2"><a href="http://www.susu.org/cgi-bin/parser.pl">text</a> | <a href="http://about.susu.org/">about susu</a> | <a href="http://www.susu.org">susu home</a> | <a href="http://about.susu.org/article.php?title=Contacting+us">contact us</a></td><td align="right">
+<p>Southampton University Students’ Union ("SUSU") is committed to safeguarding your privacy online. This Privacy Statement applies to the SUSU.ORG network of websites. Please read the following policy to understand how your personal information will be treated as you make full use of our software and website. We regularly make improvements to our software and website and in order to keep up with these changes, SUSU reserves the right to change this privacy policy from time to time, so please check back periodically. Users may review updates to this Privacy Statement at any time via links on our site. </p>
+<h3>Gathering and Use of Personally Identifiable Information. </h3>
+<p>During the SUSU.ORG registration process we gather your name and email address. This personal information is held by us with care and security and is used by us in order to contact you with students’ union news and information about website updates. You may opt-out of receiving future mailings at any time; see the Choice/Opt-Out section below. We do not share your personal data with any outside parties without your express authorization, except in the special circumstances described below.</p>
+<h3>Gathering and Use of Non-Personal Information. </h3>
+<p>The SUSU.ORG website also gathers non-personal information including your computer's IP address which may be used in diagnosing server problems and for administration of our website, as well as to provide an audit trail in the case of attempted illegal use of the site and to guard against spamming. Your IP address may also be used to help identify you and your shopping cart and to gather broad demographic information. SUSU does not track or monitor your individual surfing activities.</p>
+<h3>Sharing of Aggregate Information. </h3>
+<p>While we will not share personally identifiable data or information with third parties, some of your non-personal information may be shared on an aggregate or statistical basis, for example, statistics that indicate the number of users who registered in February, but such information will not be sufficient to permit the recipient to identify you. </p>
+<h3>Information Collected by Our Web Servers. </h3>
+<p>The SUSU.ORG website runs on  web servers which compiles log files of visitors who visit our site so that we can monitor traffic to our site. Information collected is the standard kind of information collected by most web servers, including your IP address, incoming domain, time and date, pages viewed, length of time visiting the site and type of browser you are using.</p>
+<h3>Use of Cookies. </h3>
+<p>The SUSU.ORG network of web sites uses cookies to store your log-in information (username, email, and encrypted password) on your local machine.  This allows you to stay logged in at all of the SUSU.ORG network websites. When you log out the cookie is deleted.</p>
+<p>You should be aware, however, that advertisers that we sometimes display ads on our site, and websites which are linked to by the SUSU.ORG website, including our e-commerce storefront, may cause cookies to be placed on your computer for various reasons. These cookies are used by the advertisers running the advertisements or by the websites we have linked to. SUSU does not have access to the information obtained from these cookies. </p>
+<h3>Information Gathered by E-Commerce. </h3>
+<p>If you choose to purchase any products from our website, additional information will be gathered from you in order to complete the credit card transaction. </p>
+<h3>Exceptions. </h3>
+<p>SUSU may disclose personally identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) SUSU’s rights or property, other SUSU.ORG users, or anyone else that could be harmed or affected by such activities. SUSU may disclose account information when we believe in good faith that the law requires it. </p>
+<h3>Links to Other Sites.  </h3>
+<p>Our website and mailings contain links to various websites. Please be aware that these links and websites are not controlled by SUSU and that SUSU has no responsibility for the content, operation or privacy practices of the websites linked to by us. The websites linked to by SUSU.ORG are not covered by this privacy statement. </p>
+<h3>Security Measures to Protect Your Information. </h3>
+<p>Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, SUSU cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make every reasonable effort to ensure its security on our systems. </p>
+<h3>When might SUSU contact me? </h3>
+<p>SUSU reserves the right to contact users of the SUSU.ORG website and software regarding account status and changes to the users agreement, privacy policy, or any other relevant policies or agreements. </p>
+<h3>What about children's privacy? </h3>
+<p>SUSU does not attempt to collect personal information from children, and it is not our policy to allow children to use our services. </p>
+<p>We encourage parents and other legal guardians to spend time online with their children to become familiar with the types of content available through SUSU.ORG and over the Internet in general, and to regularly oversee their children's use of online facilities. Children should always ask their parents' permission before sending any personal information to us, or anywhere on the Internet. If a child under 13 has in fact registered or begun using SUSU.ORG contrary to our policy, or for other privacy matters, a parent or guardian should contact us by sending email to susuweb@soton.ac.uk.</p>
+<h3>Choice/Opt-Out. </h3>
+<p>When you complete the SUSU.ORG registration form, your email address will be added to our registered user database and you may infrequently be sent mailings, for instance, a welcome message to let you know that your registration was completed successfully, or for major announcements about the company or products. If you do not want to receive these messages, you can opt out at any time as described below. The SUSU.ORG registration process also lets you choose to receive the SUSU newsletter by checking the appropriate checkboxes on the registration form. If you do not check these checkboxes, your email address will not be added to these mailing lists and you will not receive these mailings. </p>
+<p>Each of these mailing lists are maintained separately, and in order to stop receiving mailings from us you will need to unsubscribe from each of these lists individually. The easiest way to unsubscribe from these mailings is to follow the instructions in the most recent mailing and e-mail a specially coded email address back to the list server. This will automatically unsubscribe you from the mailing list. You can also send us a message at susuweb@soton.ac.uk for further assistance and we'll make every reasonable effort to remove you from the list. To change your name or email address in our mailing list database, just unsubscribe and then resubscribe by going through the SUSU.ORG registration again.</p>
 
-<a href="http://clubs.susu.org/user.php">Login</a> |
-	<a href="http://clubs.susu.org/user.php?op=new_user">Create an account</a>
-   </td></tr>
-</tbody></table>
 
-</td></tr><tr><td valign="top" width="600">
-	<table border="0" cellspacing="1">
-   	<tbody><tr valign="top">
-   	<td width="180">
-		<table border="0" cellspacing="1" cellpadding="3" width="180">
-			<tbody><tr><td class="menu_title"><strong>About susu.org</strong></td></tr>
-	<tr><td class="menu"><a href="article.php?title=History+of+SUSU.ORG">History of SUSU.ORG</a></td></tr><tr><td class="menu"><a href="article.php?title=SUSU+site+index">SUSU site index</a></td></tr><tr><td class="menu"><a href="article.php?title=SUSU.ORG+Mission+Statement">SUSU.ORG Mission Statement</a></td></tr><tr><td class="menu"><a href="article.php?title=Using+feeds">Using feeds</a></td></tr><tr><td class="menu"><a href="article.php?title=Using+the+new+i-bar">Using the new i-bar</a></td></tr><tr><td class="menu"><a href="article.php?title=Web+Site+Information">Web Site Information</a></td></tr><tr><td class="nav"><table border="0" cellpadding="0" cellspacing="3"><tbody><tr><td class="nav"><a href="article.php?title=Acceptable+Use+Policy">Acceptable Use Policy</a></td></tr><tr><td class="nav"><a href="article.php?title=Disclaimer">Disclaimer</a></td></tr><tr><td class="nav"><a href="article.php?title=Forum+House+Rules">Forum House Rules</a></td></tr><tr><td class="nav"><a href="article.php?title=Hosting+Terms+and+Conditions">Hosting Terms and Conditions</a></td></tr><tr><td class="nav"><a href="article.php?title=Privacy+Policy">Privacy Policy</a></td></tr><tr><td class="nav"><a href="article.php?title=Terms+and+Conditions+of+Use">Terms and Conditions of Use</a></td></tr><tr><td class="nav"><a href="article.php?title=The+Servers">The Servers</a></td></tr><tr><td class="nav"><a href="article.php?title=Make+this+site+your+homepage">Make this site your homepage</a></td></tr></tbody></table></td></tr></tbody></table></td>
-	<td>
-	<table border="0" cellspacing="1" cellpadding="0" width="420">
-	<tbody><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr class="menu_title" height="19"><td>&nbsp;</td></tr><tr><td><img src="images/web-site-information.jpg" alt="Privacy Policy" title="Privacy Policy"></td></tr></tbody></table><br><h3>Privacy Policy</h3>Southampton University Students’ Union ("SUSU") is committed to safeguarding your privacy online. This Privacy Statement applies to the SUSU.ORG network of websites. Please read the following policy to understand how your personal information will be treated as you make full use of our software and website. We regularly make improvements to our software and website and in order to keep up with these changes, SUSU reserves the right to change this privacy policy from time to time, so please check back periodically. Users may review updates to this Privacy Statement at any time via links on our site. <br>
-<br><strong>Gathering and Use of Personally Identifiable Information</strong>. During the SUSU.ORG registration process we gather your name and email address. This personal information is held by us with care and security and is used by us in order to contact you with students’ union news and information about website updates. You may opt-out of receiving future mailings at any time; see the Choice/Opt-Out section below. We do not share your personal data with any outside parties without your express authorization, except in the special circumstances described below.<br>
-<br><strong>Gathering and Use of Non-Personal Information</strong>. The SUSU.ORG website also gathers non-personal information including your computer's IP address which may be used in diagnosing server problems and for administration of our website, as well as to provide an audit trail in the case of attempted illegal use of the site and to guard against spamming. Your IP address may also be used to help identify you and your shopping cart and to gather broad demographic information. SUSU does not track or monitor your individual surfing activities.<br>
-<br><strong>Sharing of Aggregate Information.</strong> While we will not share personally identifiable data or information with third parties, some of your non-personal information may be shared on an aggregate or statistical basis, for example, statistics that indicate the number of users who registered in February, but such information will not be sufficient to permit the recipient to identify you. <br>
-<br><strong>Information Collected by Our Web Server.</strong> The SUSU.ORG website runs on a web server which compiles log files of visitors who visit our site so that we can monitor traffic to our site. Information collected is the standard kind of information collected by most web servers, including your IP address, incoming domain, time and date, pages viewed, length of time visiting the site and type of browser you are using.<br>
-<br><strong>Use of Cookies. </strong><br>
-<br>The SUSU.ORG network of web sites uses cookies to store your log-in information (username, email, and encrypted password) on your local machine.&nbsp; This allows you to stay logged in at all of the SUSU.ORG network websites. When you log out the cookie is deleted.<br>
-<br>You should be aware, however, that advertisers that we sometimes display ads on our site, and websites which are linked to by the SUSU.ORG website, including our e-commerce storefront, may cause cookies to be placed on your computer for various reasons. These cookies are used by the advertisers running the advertisements or by the websites we have linked to. SUSU does not have access to the information obtained from these cookies. <br>
-<br><strong>Information Gathered by E-Commerce.</strong> If you choose to purchase any products from our website, additional information will be gathered from you in order to complete the credit card transaction. <br>
-<br><strong>Exceptions.</strong> SUSU may disclose personally identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) SUSU’s rights or property, other SUSU.ORG users, or anyone else that could be harmed or affected by such activities. SUSU may disclose account information when we believe in good faith that the law requires it. <br>
-<br><strong>Links to Other Sites.</strong>&nbsp; Our website and mailings contain links to various websites. Please be aware that these links and websites are not controlled by SUSU and that SUSU has no responsibility for the content, operation or privacy practices of the websites linked to by us. The websites linked to by SUSU.ORG are not covered by this privacy statement. <br>
-<br><strong>Security Measures to Protect Your Information.</strong> Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, SUSU cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make every reasonable effort to ensure its security on our systems. <br>
-<br><strong>When might SUSU contact me? </strong>SUSU reserves the right to contact users of the SUSU.ORG website and software regarding account status and changes to the users agreement, privacy policy, or any other relevant policies or agreements. <br>
-<br><strong>What about children's privacy?</strong> SUSU does not attempt to collect personal information from children, and it is not our policy to allow children to use our services. <br>
-<br>We encourage parents and other legal guardians to spend time online with their children to become familiar with the types of content available through SUSU.ORG and over the Internet in general, and to regularly oversee their children's use of online facilities. Children should always ask their parents' permission before sending any personal information to us, or anywhere on the Internet. If a child under 13 has in fact registered or begun using SUSU.ORG contrary to our policy, or for other privacy matters, a parent or guardian should contact us by sending email to <a href="mailto:susuweb@soton.ac.uk">susuweb@soton.ac.uk</a>.<br>
-<br><strong>Choice/Opt-Out. </strong>When you complete the SUSU.ORG registration form, your email address will be added to our registered user database and you may infrequently be sent mailings, for instance, a welcome message to let you know that your registration was completed successfully, or for major announcements about the company or products. If you do not want to receive these messages, you can opt out at any time as described below. The SUSU.ORG registration process also lets you choose to receive the SUSU newsletter by checking the appropriate checkboxes on the registration form. If you do not check these checkboxes, your email address will not be added to these mailing lists and you will not receive these mailings. <br>
-<br>Each of these mailing lists are maintained separately, and in order to stop receiving mailings from us you will need to unsubscribe from each of these lists individually. The easiest way to unsubscribe from these mailings is to follow the instructions in the most recent mailing and e-mail a specially coded email address back to the list server. This will automatically unsubscribe you from the mailing list. You can also send us a message at&nbsp;<a href="mailto:susuweb@soton.ac.uk">susuweb@soton.ac.uk</a> for further assistance and we'll make every reasonable effort to remove you from the list. To change your name or email address in our mailing list database, just unsubscribe and then resubscribe by going through the SUSU.ORG registration again.<br>
-<br><strong>How to Contact Us. </strong>If you have any questions about this privacy statement, our practices or your dealings with SUSU, you can contact:<br>
-<a href="mailto:susuweb@soton.ac.uk">susuweb@soton.ac.uk</a><br></td></tr></tbody></table><br><br><br></td><td align="right" valign="top" width="120"><img href="modules/menu/spacer.gif" height="1"><br>
+</div>    <!-- MAIN CONTENT END -->
+    
+    <div class="clear"></div>
+    
+    <div class="grid_12" id="footer">
+        <div class="grid_5">
+            <h1><span class="header">Southampton University</span><br>Students' Union</h1>
+        </div>
+        <div class="grid_7">
+        	<p class="smalltext">Designed by The Southampton University Students' Union Web Team © 2001 - 2010. <br>All logos and trademarks are property of their respective organisations.</p>
+            <ul>
+            	<li class="first"><a href="contact.html">contact us</a></li>
+                <li><a href="about/terms-and-conditions.html">terms &amp; conditions</a></li> 
+                <li><a href="about/privacy-policy.html">privacy policy</a></li>             
+            </ul>
+        </div>
+    </div>
+</div>
 
-<link rel="stylesheet" href="http://www.susu.org/includes/triple/triple.css"> <table width="120" height="100%" cellpadding="1" cellspacing="0" border="0"><tbody><tr class="bgdark"><td class="boxheader">&nbsp;SUSU Suggests...</td></tr><tr class="bglight"></tr><tr><td align="center" class="bglight"><br><table width="140" cellpadding="0" cellspacing="2" border="0" class="bglight">
-<tbody><tr>
-<td align="center">
-<a href="http://shrek.susu.org/ads/click.php?item=41"><img src="http://shrek.susu.org/ads/files/66d62c02ae.jpg" class="allround" alt="Sport Logo"></a>
-</td></tr><tr>
-<td align="center">
-<a href="http://shrek.susu.org/ads/click.php?item=41" target="_self">Cruise SUSU.ORG</a><br>Let us show you around SUSU.ORG!
-</td>
-</tr>
-</tbody></table>
-</td></tr><tr><td align="center" class="bglight"><br><table width="140" cellpadding="0" cellspacing="2" border="0" class="bglight">
-<tbody><tr>
-<td align="center">
-<a href="http://shrek.susu.org/ads/click.php?item=40"><img src="http://shrek.susu.org/ads/files/46f7f240e1.gif" class="allround" alt="Sport Logo"></a>
-</td></tr><tr>
-<td align="center">
-<a href="http://shrek.susu.org/ads/click.php?item=40" target="_self">Union Films</a><br>Check out what's showing!
-</td>
-</tr>
-</tbody></table>
-</td></tr><tr><td align="center" class="bglight"><br><table width="140" cellpadding="0" cellspacing="2" border="0" class="bglight">
-<tbody><tr>
-<td align="center">
-<a href="http://shrek.susu.org/ads/click.php?item=44"><img src="http://shrek.susu.org/ads/files/fa4b83862f.gif" class="allround" alt="Sport Logo"></a>
-</td></tr><tr>
-<td align="center">
-<a href="http://shrek.susu.org/ads/click.php?item=44" target="_self">Sport</a><br>Find out what's happening in Sport Southampton
-</td>
-</tr>
-</tbody></table>
-</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!-- Standard Footer -->
-<p align="center">
-	<a href="http://about.susu.org/article.php?title=Make+this+site+your+homepage">Make this page your homepage</a><br>
-	This Website was designed by The Southampton University Students' Union <a href="http://about.susu.org/article.php?title=Web+Site+Information">Web Team</a> © 2001 - 2007<br>
-	<a href="http://about.susu.org/article.php?title=Privacy+Policy">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://about.susu.org/article.php?title=Terms+and+Conditions+of+Use">Terms and Conditions</a><br>
-	This website is © <a href="http://www.susu.org"><b>Southampton University Students' Union</b></a></p>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_GB/all.js"></script>
+<script type="text/javascript" src="js/facebook.js"></script>
+<script type="text/javascript">
 
-</div></body></html>
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-1440522-1']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+ })();
+
+</script>
+
+
+
+</body></html>
