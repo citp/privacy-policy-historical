@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620110946id_/http%3A//arabelove.com/arab-dating-Privacy-EN.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110014742id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN.aspx) for the most accurate reproduction.*
 
-# Free Arab Dating -arab-dating-privacy:: arabelove.com
+# Arab Friends Dating and Zawaj -arab-dating-privacy:: arabelove.com
 
-THIS AGREEMENT WAS LAST UPDATED ON NOVEMBER 30, 2005. 
+THIS AGREEMENT WAS LAST UPDATED ON June 20, 2010. 
 
 arabelove.com is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website, including the arabelove.com communities. 
 
@@ -55,11 +55,13 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
-©arabelove.com, 2009.
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/).
+
+©arabelove.com, 2010.
 
   
 
