@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508220847id_/http%3A//www.bdtips.com/Article_Body.php%3FSub_Category_ID%3D16%26Article_ID%3D1395) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111004324id_/http%3A//www.bdtips.com/Article_Body.php%3FSub_Category_ID%3D16%26Article_ID%3D1395) for the most accurate reproduction.*
 
 # Privacy Policy of BdTips.com
 
-|  (Source: **Self/Unknown** )  | **(3.25 by 12 Votes)**Rate It |  (Submitted by: **Webmaster** )   
----|---|---  
-  
-**PRIVACY NOTICE**   
-This privacy notice discloses the privacy practices for [www.bdtips.com](http://www.bdtips.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following.: 
-
-1\. 
-
-What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
-2\. What choices are available to you regarding the use of your data.   
-3\. The security procedures in place to protect the misuse of your information.   
+The security procedures in place to protect the misuse of your information.   
 4\. How you can correct any inaccuracies in the information.   
 **Information Collection, Use, and Sharing** We are the sole owners of the information collected on this site. We only have access to collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
 
@@ -45,4 +35,4 @@ Wherever we collect sensitive information (such as your phone number, address), 
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, paying you or publishing your article in our website with your name) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via email: **webmaster@bdtips.com**. 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email: **webmaster@bdtips.com**.
