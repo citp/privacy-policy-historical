@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the veridiancu.org privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226072942id_/http%3A//www.veridiancu.org/about_us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veridiancu.org privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110151423id_/https%3A//www.veridiancu.org/about_us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  | 
+**We, our,** and **us,** when used in this notice, mean Veridian Credit Union. 
 
-Notice of Your Financial Privacy Rights
-
-**We, our,** and **us,** when used in this notice, mean Veridian Credit Union.
-
-This is our privacy notice for our members. When we use the words "you" and "your" we mean the following types of members: 
+This is our privacy notice for our members. When we use the words "you" and "your" we mean the following types of members:
 
   * Our consumer members who have a continuing relationship by purchasing or holding financial products or services such as a: 
     * Share account
@@ -24,7 +20,7 @@ We will tell you the sources of the information we collect about you. We will te
 
 We first define some terms.
 
-Nonpublic personal information means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter, we will use the term "information" to mean nonpublic personal information as defined in this section.
+Nonpublic personal information means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter, we will use the term "information" to mean nonpublic personal information as defined in this section. 
 
 An affiliate is a company we own or control.
 
@@ -59,7 +55,7 @@ We may disclose all of the information we collect, as described above, to compan
 
 State Limitations:
 
-AL, AK, ID, and VT - We will not share this information about members who reside in Alabama, Alaska, Idaho, or Vermont.
+AL, AK, ID, and VT - We will not share this information about members who reside in Alabama, Alaska, Idaho, or Vermont. 
 
 MA, MS, and NJ - We will not share any information derived from share relationships with us about member who reside in Massachusetts, Mississippi, or New Jersey.
 
