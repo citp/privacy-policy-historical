@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musopen.org privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223102328id_/http%3A//musopen.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musopen.org privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111235610id_/http%3A//www.musopen.org/privacy.php) for the most accurate reproduction.*
 
 # Musopen - Privacy Policy
 
@@ -7,7 +7,7 @@
 
 Effective Date: August 10, 2008
 
-Welcome to the Musopen (“Musopen”) web site – [http://www.musopen.com](http://www.musopen.com/) – and any other services owned or operated by Musopen (the “Musopen Site”).  At Musopen, we strive to make your online experience with us secure and satisfying. This Privacy Policy describes and governs what information we gather from you, how we use that information, and what we do to protect it.  By using the Musopen Site (whether or not you are a registered member), you expressly consent to the information handling practices described in this Policy.  If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Musopen Site.  
+Welcome to the Musopen (“Musopen”) web site – [http://www.musopen.org](http://www.musopen.org/) – and any other services owned or operated by Musopen (the “Musopen Site”).  At Musopen, we strive to make your online experience with us secure and satisfying. This Privacy Policy describes and governs what information we gather from you, how we use that information, and what we do to protect it.  By using the Musopen Site (whether or not you are a registered member), you expressly consent to the information handling practices described in this Policy.  If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Musopen Site.  
 
 
       This Privacy Policy is expressly incorporated into our **[Terms of Use](https://web.archive.org/tos.php)**.  Your use of the Musopen Site and any personal information you provide through the Musopen Site are subject to this Privacy Policy and the **[Terms of Use](https://web.archive.org/tos.php),** at all times.    
