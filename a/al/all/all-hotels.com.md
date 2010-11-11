@@ -1,34 +1,101 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419131446id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111114556id_/http%3A//www.allhotels.com/privacy.php) for the most accurate reproduction.*
 
-# help and info - faq menu page
+# AllHotels: Privacy Policy
 
-**Security policy**   
-All-Hotels regards the privacy and security of our customer's information as an important component of the service that we offer. When you make a reservation we offer the use of a secure server. The Secure Sockets Layer (SSL) technology encrypts all information you input before it is sent to our server and when it is sent from our server to the hotel. See our [security policy FAQ](https://web.archive.org/faq/faqsecurity.htm) for more information. 
+As an AllHotels user, you are in control of all of your travel planning. We know you want to remain in control of your personal information as well. We realize that earning and retaining your trust is of paramount importance and it's a responsibility we take very seriously, every day.
 
-**What information this site gathers/tracks about you**   
-When you make a reservation you will be asked to provide information such as name, contract details and credit card information. You also have the option to join all-hotels.com where you can choose to store your contact information and hotel, currency and destination preferences. At any time, you may update your preferences and contact information. 
+That's why we've provided this Privacy Policy, which sets forth our policies regarding the collection, use and protection of the personal information of those using the AllHotels website. Personal information means information that can be linked to a specific individual, such as name, address, telephone number, email address and credit card number.
 
-**What this site does with the information it gathers/tracks**   
-For some hotels your credit card details are taken as a guarantee of reservation and All-Hotels will charge a $4.95 non-refundable service fee to your credit card at the time of booking. For other hotels you pay us via your credit card at time of booking and there is no service charge. Look for information under the heading _Payment Method_ to determine when payment is made. If it says "Guarentee Only" payment is made at the hotel on departure.  
-As for optional membership, the information that you provide makes booking on all-hotels.com easier for you: contact information allows your booking form to be completed automatically; hotel preferences allow you to match hotels with your specific requirements; currency preferences will display hotel rates in the currency of your choice; destination preferences will default the location used for your availability searches. 
+We encourage you to review our Privacy Policy, and become familiar with it, but you should know that we do not sell or rent our customers' personal information to third parties.
 
-**Email a friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. We will automatically send the friend a one-time email inviting them to visit the site. We do not store this information. The emails are for the sole purpose of sending this one-time email. 
+Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure that you have the current version.
 
-**With whom this site shares the information it gathers/tracks**   
-All-Hotels forwards your reservation information including (in some cases) payment details to the hotel via a secure conneciton. We also share aggregate statistics about our customer's traffic patterns and reservations with our suppliers and partners, but these statistics do not include any personally identifying information. 
+This Privacy Policy explains the following:
 
-**Cookies**   
-We use cookies to remember what you've done since arriving on our site. In technical jargon, cookies allow us to create a "session" for you that helps us remember information such as what hotel, room and rate you've selected so we can book that for you if and when you press the book button. Cookies are small pieces of information stored on your computer's hard disk and echoed back to us when you access our site. They're standard industry practice and many web sites, including ours, will not work well without them. Most browsers are initially set to accept cookies but if you prefer, you can set yours to refuse cookies.  
-The ads appearing on this web site are delivered to users by Real Media Ltd, our Web advertising partner. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about Real Media Ltd, cookies, and how to "opt-out", please click here [Real Media Privacy](http://www.247realmedia.com/privacy.html)   
+  * What personal information we collect from you and how we use it
+  * With whom (if anyone) your personal information is shared
+  * How you can opt out of receiving our promotional emails
+  * What safeguards we have in place to protect your personal information
+  * Other information you should know about your privacy
 
 
-**Third party disclosure**   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site, or as required by law.  
-When the ownership of All-Hotels changes hands (as it has done three times so far in our history) customer information generally is one of the transferred business assets. 
 
-**Changes to our Privacy Policy**   
-This policy may be revised over time as new features are added to the web site. Please check this site for information about revisions to our privacy policy. 
+## What personal information does AllHotels gather from me and how is this information used?
 
-**How to Contact Us**   
-All-Hotels is committed to protecting your privacy. We do not and will not sell or rent your personal information to anyone. If you have any questions about this privacy statement, or would like more information about our company, please [contact us](https://web.archive.org/xbook/servlet/ContactUsServlet). 
+When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our email newsletters or other services as described below. We do not knowingly permit the site to be used by any person under the age of 18 and we do not knowingly collect any personal information from children (meaning those younger than 13 years of age). A valid credit card is required to make a booking on our site.
+
+### Making a Purchase
+
+In order to book a hotel through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card's identification number, your billing address, one or more of your telephone numbers, your email address, the name or names of the person(s) traveling (if not you) and any special requests that you make. We may also ask you for other personal information, such as your frequent traveler numbers. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status. If you are making a reservation for one or more travelers other than yourself, you will need to make sure that each of these other travelers agrees, in advance, that you may disclose their personal information to us. For your convenience, we make certain information about your reservation available to you or other persons authorized by you to receive such information. For example, if you forgot your hotel reservation number, you or another person authorized by you may retrieve that information from us after providing information sufficient in our eyes to confirm your identity or that such other person is authorized by you to receive that information.
+
+### Express Consent to Receive Pre-Recorded & Text Messages
+
+When you make a booking on our site, we request you to provide us with one or more contact telephone numbers. We will use your telephone number in the event that we need to inform you of changes or other matters that may affect your booking or trip, such as changes due to inclement weather and cancellations. We may use an automatic telephone dialing system, artificial or prerecorded voice messages or text messages to provide you with such updates. When you provide us with a cellular, wireless or mobile telephone number as the contact number for a trip, you agree that you are providing us with your express consent to receive prerecorded voice messages or text messages related to your booking from AllHotels or any of our vendors or suppliers. If you do not wish to receive these trip updates on your cellular or mobile phone, please provide us with another telephone number.
+
+### Newsletters
+
+AllHotels's newsletters are optional benefits you may choose to subscribe to that keep you up to date with the latest special travel deals and featured destinations.
+
+### Online Surveys
+
+AllHotels values opinions and comments from members, so we frequently conduct online surveys. Participation in these surveys is entirely optional. Typically, the information is aggregated and used to make improvements to AllHotels and to develop appealing content, features and promotions for members. Survey participants are anonymous unless otherwise stated in the survey.
+
+### Promotions & Sweepstakes
+
+AllHotels frequently sponsors promotions and sweepstakes to give members the opportunity to win great travel and travel-related prizes. Information collected by us for such activities can include contact information and survey questions. We use contact information to notify contest winners and survey information to develop promotions and product improvements to the allhotels.com website.
+
+### Third Parties Offering Promotions, Products or Services
+
+AllHotels may share your personal information with third parties when you engage in certain activities on our site that are sponsored by third parties, such as electing to receive information or communications from a third party (such as a hotel company or a tourism board for a particular destination), or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. AllHotels may also share your personal information when you respond to promotional materials from AllHotels and authorize a third party to use your personal information for purposes such as, for example, sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. We refer to all of these activities and requests as "Sponsored Activities." When you participate in Sponsored Activities, you will either be required or requested to agree that AllHotels may send your personal information (such as, in some cases, your mailing address or email address) to the sponsor, and the sponsor may use your personal information in accordance with the sponsor's privacy practices. In each case described in this section, AllHotels will only share your personal information after receiving your consent. You should know that when AllHotels shares your personal information with a third party under any circumstance described in this section, your personal information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by AllHotels's Privacy Policy with respect to its use and further sharing of your personal information.
+
+### Automatic Logging of Session Data
+
+We automatically log generic information about your computer and your computer's connection to the internet, which we call "session data". Session data consists of things such as device information, IP address, operating system and browser software information, and the activities conducted by the user while on our site. An IP address is a number that lets computers attached to the internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyze such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. It is possible to determine from an IP address a visitor's Internet Service Provider (ISP) and the approximate geographic location of his or her point of connectivity. We may also use some session data, such as the pages you visited on our site, to send you email messages focused on destinations that you may be interested in, unless you had previously opted out of receiving such messages. We also use session data to help prevent fraud or unauthorized use of our site.
+
+### Cookies
+
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. There are many myths circulating about cookies, but you should know that cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses or harvest your personal information. The use of cookies is very common on the internet and AllHotels's use of cookies is similar to that of such sites as Expedia and Orbitz, as well as Yahoo!, CNN.com and other reputable online companies.
+
+First and foremost, you can rest assured that no personal information about you is gathered or stored in the cookies placed by the allhotels.com website and, as a result, none can be passed on to any third parties.
+
+Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. AllHotels uses cookies to personalize your experience on our site and with respect to advertisements. As to the former, these types of cookies allow you to log in without having to type your log-in name each time (only your password is needed), let us know your preferred language and departure city and so forth. We may also use such cookies to display an advertisement to you while you are on our website or to send you a promotional email (assuming you have not opted out of receiving such emails) focusing on destinations in which we think you might be interested. None of this information is passed to any third party and is used solely by us to provide you with a better user experience on our website. No personal information about you is gathered through the use of these types of cookies.
+
+A cookie may also be placed by our advertising server. Such cookies are used only for purposes of tracking the effectiveness of advertising served by us on our site and no personal information about you is gathered from you by the use of these cookies, nor is this information shared with any third parties. Similarly, a cookie may be placed by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does not include your personal information.
+
+The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. Any such information is anonymous. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No personal information about you is collected during this process. The information is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, [click here](http://www.networkadvertising.org/).
+
+Most web browsers automatically accept cookies. However, by changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. AllHotels supports your right to block any unwanted internet activity, especially that of unscrupulous websites. However, blocking AllHotels cookies may disable certain features on our site and may make it impossible to purchase or use certain services available on the site. Please note that it is possible to block cookie activity from certain websites while permitting cookies from sites you trust, like AllHotels. [Click here for more information](http://privacy.getnetwise.org/browsing/tools/ie6/cookiesedit).
+
+### Other
+
+From time to time we may add or enhance services available on the site. To the extent these services are provided and used by you, we will use the information you provide to facilitate the service requested. For example, if you email us with a question, we will use your email address, name, nature of the question, etc., to respond to your question. We may also store such information to assist us in making the site the better and easier to use.
+
+## With whom (if anyone) will my personal information be shared?
+
+When you reserve or purchase travel services through AllHotels, we provide to the hotel or other involved third party only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements. We may also share personal information among our corporate affiliates at Sabre Holdings Corporation. For example, we book most of our travel services through the Sabre Global Distribution System, a leading processor of travel bookings worldwide which is operated by an affiliated company, and in doing so must provide certain of your personal information to them (as we would with any other GDS we now use or may use in the future). The Sabre privacy policy is available at <http://sabre-holdings.com/privacy/coreData.html>. We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of our customers and visitors, and by measuring demographics and interests regarding specific areas of our site. We may provide anonymous statistical information based on this data to suppliers, advertisers, affiliates and other current and potential business partners. We may also use such aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their websites. Occasionally, AllHotels will hire a third party to act on our behalf for projects such as market-research surveys and contest-entry processing, or will contract with a third party to provide co-branded products, such as a AllHotels credit card. In such cases, AllHotels will provide information to these third parties specifically for use in connection with these projects. The information we provide to such third parties is protected by a confidentiality agreement and is to be used solely for completing the specific project. See "What other information should I know about my privacy?" below.
+
+## How can I opt-out of receiving your promotional emails?
+
+### Our Opt-Out Policy
+
+At any time, you can unsubscribe from our newsletters or similar services by clicking on the "unsubscribe" link in our email or following the instructions in each newsletter email. As a promotion/sweepstakes entrant, you will occasionally receive email updates from us on special offers, new AllHotels services and other noteworthy items. We hope you will find these updates interesting and informative. If you would rather not receive them, please click on the "unsubscribe" link in our email, or follow the instructions in each email message.
+
+## What safeguards are in place to protect the loss, misuse or alteration of your information?
+
+All personal information you provide to AllHotels is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us.
+
+## What other information should I know about my privacy?
+
+AllHotels contains links to other websites. Please note that when you click on one of these links, you are entering another website for which AllHotels has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. You are solely responsible for maintaining the secrecy of your passwords and your AllHotels membership account information. Please be very careful, responsible and alert with this information, especially whenever you're online.
+
+In addition to the circumstances described above, AllHotels may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of AllHotels or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. In addition, if AllHotels or substantially all of its assets are acquired, our customer information will most likely also be transferred in connection with such acquisition.
+
+## What we do NOT do: a warning about "phishing"
+
+We do not and will not, at any time, request your credit card information, login name or password in an unsecure or unsolicited email or telephone communication.
+
+Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Government website "OnGuard Online" at <http://onguardonline.gov/phishing.html>.
+
+This Privacy Policy is effective as of March 31, 2010. We may change or supplement this Privacy Policy from time to time. Any material changes in the way AllHotels uses personal information will be described in future versions of this Privacy Policy. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy, as well as to existing information held by us. If we decide to change this Privacy Policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose personal information for purposes other than those for which consent has been obtained, unless otherwise required or permitted by law. If any proposed change is unacceptable to you, you may request that we remove your personal information (and/or that of other individuals for whom you made travel reservations) from our records by [clicking here](mailto:contactus@allhotels.com). Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices via email by [clicking here](mailto:contactus@allhotels.com). Please reference the privacy policy in your subject line. AllHotels will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us in care of AllHotels, 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Team. 
+
+Thank you for using AllHotels!
