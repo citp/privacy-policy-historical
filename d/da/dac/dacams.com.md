@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dacams.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512121258id_/http%3A//www.dacams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dacams.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111153029id_/http%3A//www.dacams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Privacy Policy - DaCams
+# Privacy - DaCams
 
 [Home](http://www.dacams.com/) / Privacy Policy
 
