@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630105219id_/http%3A//www.homesales.com.au/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111125913id_/http%3A//www.homesales.com.au/about/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - About - Homesales.com.au
+# Privacy Policy - About - homesales.com.au
 
 homesales.com.au, a division of carsales.com Ltd ACN 074 444 018 (homesales) is committed to the protection of your personal information in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth).
 
