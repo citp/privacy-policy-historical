@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnybone.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511002909id_/http%3A//www.funnybone.com/content/about-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnybone.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111170842id_/http%3A//www.funnybone.com/content/about-us) for the most accurate reproduction.*
 
 # Content :: FunnyBone.com - Your One Stop Shop for Everything Funny Online, Videos, Pictures, Jokes, Comedians, and More!
 
