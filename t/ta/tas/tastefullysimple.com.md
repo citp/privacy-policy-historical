@@ -1,34 +1,59 @@
-> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003114000id_/http%3A//tastefullysimple.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111070307id_/http%3A//www.tastefullysimple.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Tastefully Simple | Privacy Statement
+# Tastefully Simple - Privacy Policy
 
-Your privacy is important to us. Tastefully Simple respects the privacy of every individual who visits our Web site. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and on every page where personally identifiable information is requested. 
+| 
 
-**The Information We Collect**  
-The information we receive depends on what you do when you visit our site. Tastefully Simple will not collect or retain any information about you personally (that is, your name, address, telephone number or e-mail address) unless you choose to provide it to us. On some pages, you can choose to make requests or submit additional information at your discretion. When you visit our site to read or download information, we collect and store only the following: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account), the date and time you access our site, and the Internet address of the web site from which you linked directly to our site. We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful to visitors. 
+**Privacy Policy**
 
-**The Way We Use Information**  
-We use the information you provide about yourself only for the purpose described on the page requesting the information. We do not share this information with outside parties except to the extent necessary to complete the process or to the extent required by law. We use return e-mail addresses to answer the e-mail we receive. If you send us e-mail to ask a question we will only use your information to answer your request. Your e-mail address or other contact information will not be provided to any third party without your prior consent. We may use non-identifying and aggregate information to better design our Web site and to share with our business partners. For example, we may tell a partner that X number of individuals visited a certain area on our Web Site, or that Y number of men and Z number of women filled out a registration form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+This Privacy Policy applies to the main Site as well as related consultant Sites accessed at [www.tastefullysimple.com](http://www.tastefullysimple.com/home.aspx).
 
-**Our Commitment to Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+We are committed to protecting your privacy and using any personal information you provide responsibly. We believe it is important for you to understand what information we collect from you, how it is used and who will have access to that information. 
 
-**Our Commitment To Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Web site from those we actually know are under 13, and no part of our Web site is structured specifically to attract anyone under 13. 
+Information Collected   
+The information we receive depends on what you do when you visit our Sites. We do not collect or retain any personal information unless you choose to provide it to us. When you visit our Site, Tastefully Simple, Inc. collects and stores non-personally identifiable information such as: 
 
-**How You Can Access Or Correct Your Information**  
-Some online processes allow you to access your personally identifiable information collected online and maintain it by using the account maintenance feature of the specific process. Other online processes collect your information to complete the specific process, without establishing any permanent record. If you are a Tastefully Simple Consultant you may contact your Consultant Service Representative to help access and correct your information. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access to make corrections.
+  * the name of the domain from which you access the Internet, 
+  * the date and time you access our Site, 
+  * and the Internet address of the website from which you linked to our Site. 
 
-**How to Contact Us**  
-If you have submitted information about yourself through the Tastefully Simple Web site or an e-mail message and you would like us to delete that information from our records, please contact us. We will make every effort to delete your personal information from our files. 
+Tastefully Simple may also use your information if you opt to receive information about Tastefully Simple, hosting a party, becoming a consultant, or purchasing or inquiring about Tastefully Simple products from an independent Tastefully Simple consultant. We use this information to track the number of visitors to the different pages of our Site as well as make our Site more convenient to users. 
 
-Should you have other questions or concerns about these privacy policies, please contact us:
+If you contact us, submit ideas to us or request to be contacted by a Consultant, we collect the information that you provide, which may include name, email address, postal address and telephone number. When you make a purchase from an authorized Tastefully Simple Consultant Site, your credit card information is collected and stored only for the duration of the sale, unless you ask to have the information stored indefinitely. In addition, when you make a purchase from an authorized Tastefully Simple Consultant Site, your billing and shipping information may be used to provide you with additional product information and offers unless you request not to receive such information. 
 
-By phone 320.763.0695
+  
+Information Disclosure  
+We may disclose your personal information for the following purposes: 
 
-By e-mail [tasteful@tastefullysimple.com](mailto:tasteful@tastefullysimple.com)
+  1. To our Tastefully Simple Consultants to provide services to you; 
+  2. To organizations that perform services for us or on our behalf, including, without limitation, to provide customer service; process credit cards; conduct research, marketing or data processing; or to provide marketing and promotional services on our behalf, to the extent that information is necessary to provide services to us; 
+  3. To protect the Site and our rights; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain; 
+  4. In the event of or in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business; 
+  5. If required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records; and 
+  6. If we believe in good faith that a law, regulation, rule or guideline requires it. 
 
-By mail:  
-**Tastefully Simple Inc.**  
-1920 Turning Leaf Lane  
-Alexandria, MN 56308
+
+
+Data Security  
+To prevent unauthorized use, maintain data accuracy and ensure the appropriate use of information, Tastefully Simple has put in place appropriate physical, electronic and administrative procedures to safeguard and secure information collected online. Tastefully Simple is working to meet or exceed the requirements for the 12 Payment Card Industry (PCI) and Data Security Standards to ensure that any data you provide is secure. 
+
+Changes to Privacy Policy   
+We may change or supplement this Privacy Policy from time to time and we will post revised versions of this Policy on the Site. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Site, as well as to existing information held by us. 
+
+**California Privacy Rights**   
+California residents have the right to request the following information from businesses with whom they have an established business relationship: 
+
+  * a list of the categories of personal information that a business has disclosed to third parties during the immediately preceding calendar year for the third parties’ direct marketing purposes if any, and 
+  * the names and addresses of all such third parties if any. 
+
+
+
+If you are a Tastefully Simple client and a California resident, please contact us at the postal address below to request this information. Please note that we are only required to respond to each client once per calendar year. 
+
+**Contact Information**   
+All questions and concerns about your privacy can be sent to [Privacy@tastefullysimple.com](mailto:privacy@tastefullysimple.com) or 1920 Turning Leaf Lane, Attn: Privacy Policy Rights, Alexandria, MN 56308. 
+
+Effective Date: **November 2007**
+
+
+| 
