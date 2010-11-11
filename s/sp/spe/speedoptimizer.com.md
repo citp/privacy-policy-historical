@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedoptimizer.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528003656id_/http%3A//www.speedbit.com/Legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedoptimizer.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111060310id_/http%3A//www.speedbit.com/Legal/privacy.asp) for the most accurate reproduction.*
 
 # SpeedBit Privacy Policy
 
