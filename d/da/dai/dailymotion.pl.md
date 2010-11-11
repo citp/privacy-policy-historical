@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308014831id_/http%3A//www.dailymotion.pl/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111073404id_/http%3A//www.dailymotion.com/us/legal/privacy) for the most accurate reproduction.*
 
-# Dailymotion Brasil - Compartilhar seus vídeos
+# Dailymotion - Online Videos, Music, and Movies. Watch a Video Today!
 
-This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/legal/terms).
+This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [General Terms of Use](https://web.archive.org/us/legal/terms).
 
 We collect and subsequently process the Data that you voluntarily provide on the [registration form](https://web.archive.org/register) on the Website including your user ID, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
 
