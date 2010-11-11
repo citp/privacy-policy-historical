@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the mastersportal.eu privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526115552id_/http%3A//www.mastersportal.eu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastersportal.eu privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111151039id_/http%3A//www.studyportals.eu/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - MastersPortal.eu
+# StudyPortals: The European Study Choice Platform
 
-## [Why Europe?](http://www.mastersportal.eu/students/why-europe/)
-
-Why would you study your Master's abroad? Why in Europe, and, why not? Globalisation is ongoing, the world is your backyard. A new world of study options becomes available!
-
-[Read the article](http://www.mastersportal.eu/students/why-europe/)
-
-StudyPortals, publisher of MastersPortal.eu values the privacy of our members and users. This privacy policy sets out how StudyPortals uses and protects any information that you give when you use this website. 
+StudyPortals values the privacy of our members and users. This privacy policy sets out how StudyPortals uses and protects any information that you give when you use this website. 
 
 StudyPortals is committed to ensuring that your privacy is protected. Any information you provide by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
 
@@ -71,4 +65,4 @@ As we continue to develop our business, we might sell or buy subsidiaries or bus
 
 ## Changes to this Policy
 
-MastersPortal.eu may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12 December 2009. 
+StudyPortals may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1 September 2010. 
