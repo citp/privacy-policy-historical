@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangatraders.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630192727id_/http%3A//www.mangatraders.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangatraders.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112001948id_/http%3A//www.mangatraders.com/privacy_policy) for the most accurate reproduction.*
 
 # Manga Traders - Free Manga Downloads
 
@@ -25,6 +25,8 @@ At manga traders we make reasonable efforts to protect personal information such
 **Third Parties**
 
 Third Party websites may collect information from users of manga traders, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Google, Nedstat, and Webalizer.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org.](http://networkadvertising.org/)
 
 **Website Policy Changes**
 
