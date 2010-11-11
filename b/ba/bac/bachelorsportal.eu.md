@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526181742id_/http%3A//www.bachelorsportal.eu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111151039id_/http%3A//www.studyportals.eu/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - BachelorsPortal.eu
+# StudyPortals: The European Study Choice Platform
 
-## [Tips for Studying Abroad](http://www.bachelorsportal.eu/students/best_practice?_popup=f2122be109c28af875a9ffb26722e513)
+StudyPortals values the privacy of our members and users. This privacy policy sets out how StudyPortals uses and protects any information that you give when you use this website. 
 
-There are a lot of things you have to arrange when studying abroad. Fortunately, many of us have gone before you! Please find our general advice as well as specific tips per country in our [Best Practice Guide](http://www.bachelorsportal.eu/home). 
-
-StudyPortals, publisher of BachelorsPortal.eu values the privacy of our members and users. This privacy policy sets out how StudyPortals uses and protects any information that you give when you use this website. 
-
-StudyPOrtals is committed to ensuring that your privacy is protected. Any information you provide by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
+StudyPortals is committed to ensuring that your privacy is protected. Any information you provide by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
 
 ## Navigation Tracking
 
@@ -69,4 +65,4 @@ As we continue to develop our business, we might sell or buy subsidiaries or bus
 
 ## Changes to this Policy
 
-MastersPortal.eu may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12 December 2009. 
+StudyPortals may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1 September 2010. 
