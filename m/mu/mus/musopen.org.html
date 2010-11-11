@@ -1,40 +1,70 @@
-<!--The following is the downloaded HTML source of the musopen.org privacy policy that was archived on 2010-02-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100223102328id_/http%3A//musopen.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musopen.org privacy policy that was archived on 2010-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101111235610id_/http%3A//www.musopen.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Musopen - Privacy Policy</title>
 <meta name="description" content="">
-<meta name="keywords" content="">
-<script type="text/javascript" src="js/jquery.js"></script>
-<link href="http://cdn.cloudfiles.mosso.com/c30602/jquery.jgrowl.css" rel="stylesheet" type="text/css">
-<link href="http://cdn.cloudfiles.mosso.com/c30602/style.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://cdn.cloudfiles.mosso.com/c30602/thickbox.css" type="text/css" media="screen">
+<meta name="keywords" content=", musopen, public domain music, classical music, free classical music">
+<link href="http://c0030422.cdn.cloudfiles.rackspacecloud.com/musopen1.css" rel="stylesheet" type="text/css">
+<!--<link href="form.css" rel="stylesheet" type="text/css"/>-->
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="STYLESHEET" type="text/css" href="js/dhtmlxCombo/dhtmlxcombo.css">
+<script type="text/javascript" src="http://c0030422.cdn.cloudfiles.rackspacecloud.com/musopen.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("form.register").change(function() {
+		$.post("check.php", $("form.register").serialize(), function( data ) {
+			if( data.email == "inuse" )
+				$("p#email_error1").slideDown();
+			else
+				$("p#email_error1").hide();
+			if( data.password == "missmatch" )
+				$("p#password_error").slideDown();
+			else
+				$("p#password_error").hide();
+			if( data.email == "notvalid" )
+				$("p#email_error").slideDown();
+			else
+				$("p#email_error").hide();
+		}, "json");
+	});
+});
+</script> 
 
+</head>
 
-</head> 
-  
 	<body>
-
 
 <div id="container">
 <!--Header Start-->
-
- <div id="header">
+    <div id="header">
 	<div id="marginup"></div>
 	<h1 id="logo"><img src="/php/randimg.php" alt="Musopen.com" width="716" height="142" border="0"></h1>
-	<ul id="mainmenu">
-		<li><a class="first" href="http://www.musopen.com">Home</a></li>
-		<li><a class="between" href="http://www.musopen.com/music_overview.php">Music</a></li>
-		<li><a class="between" href="http://musopen.com/bid/">Bid</a></li>
-		<li><a class="between" href="http://www.musopen.com/donate.php">Donate</a></li>
-		<li><a class="between" href="http://www.musopen.com/about.php">About</a></li>
-		<li><a class="between thickbox" href="http://www.musopen.com/contact.php?keepThis=true&amp;TB_iframe=true&amp;height=320&amp;width=370">Contact</a><span class="last"></span></li>
+   	<ul id="mainmenu">
+		<li><a class="first" href="http://www.musopen.org">Home</a></li>
+		<li><a class="between" href="http://www.musopen.org/music_overview.php">Music</a></li>
+		<li><a class="between" href="http://www.musopen.org/sheetmusic.php">Sheet Music</a></li>
+		<li><a class="between" href="http://www.musopen.org/donate.php">Donate</a></li>
+		<li><a class="between" href="http://www.musopen.org/about.php">About</a></li>
+		<li><a class="between thickbox" href="http://www.musopen.org/contact.php?keepThis=true&amp;TB_iframe=true&amp;height=290&amp;width=558">Contact</a><span class="last"></span></li>
 	</ul>
+	<table width="97%" border="0" cellpadding="0" cellspacing="0" style="padding-left:30px;">
+	<tbody><tr>
+	<td>&nbsp;</td>
+	</tr>
+	<tr>
+	<td align="right"><form method="get" action="search.php">
+                	&nbsp;&nbsp;&nbsp;
+                    <input name="q" type="text" size="20"> <input type="submit" value="Search">
+
+                </form></td>
+	</tr>
+	</tbody></table>
+
+
 </div>
+
 <!--Header End-->
  <div id="content"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
 <style type="text/css">
@@ -147,7 +177,7 @@ span.MsoPageNumber {mso-style-unhide:no;
 <h2 align="left">Musopen’s   Privacy Policy<br id="s0yp2">
 <span style="mso-bookmark:OLE_LINK15"></span><span style="mso-bookmark:OLE_LINK16"></span></h2>
 <p align="left">Effective Date: August 10, 2008<br><br></p>
-<p>Welcome   to the Musopen (“Musopen”) web site – <a href="http://www.musopen.com" target="_blank">http://www.musopen.com</a> –   and any other services owned or operated by Musopen (the “Musopen   Site”).&nbsp; At Musopen, we strive to make your online experience   with us secure and satisfying. This Privacy   Policy describes and governs what information we gather from you, how   we use that information, and what we do to protect it.&nbsp; By using   the Musopen Site (whether or not you are a registered member), you expressly   consent to the information handling practices described in this Policy.&nbsp;   If you do not want information about you to be used in the manner set   forth in this Privacy Policy, please do not use the Musopen Site.<br></p>
+<p>Welcome   to the Musopen (“Musopen”) web site – <a href="http://www.musopen.org" target="_blank">http://www.musopen.org</a> –   and any other services owned or operated by Musopen (the “Musopen   Site”).&nbsp; At Musopen, we strive to make your online experience   with us secure and satisfying. This Privacy   Policy describes and governs what information we gather from you, how   we use that information, and what we do to protect it.&nbsp; By using   the Musopen Site (whether or not you are a registered member), you expressly   consent to the information handling practices described in this Policy.&nbsp;   If you do not want information about you to be used in the manner set   forth in this Privacy Policy, please do not use the Musopen Site.<br></p>
           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This   Privacy Policy is expressly incorporated into our <strong><a href="/tos.php">Terms of 
 Use</a></strong>.&nbsp;   Your use of the Musopen Site and any personal information you provide   through the Musopen Site are 
 subject to this Privacy Policy and the <strong> <a href="/tos.php">Terms of Use</a>,</strong> at all times. &nbsp;<br>
@@ -239,22 +269,26 @@ Use</a></strong><strong>;</strong> protect Musopen   from fraudulent, abusive, o
      </div>
 
    <div id="footer"><br><div align="center" style="padding-top: 0px">
-		<a class="linkcolor" href="http://www.musopen.com/login.php?return=privacy.php">Sign In</a> | <a class="linkcolor" href="http://www.musopen.com/register.php">Register</a> |
-		<a class="linkcolor" href="/translate.php">Translate</a> |
-		<a class="linkcolor" href="/blog">Blog</a> |
-		<a class="linkcolor" href="/forum">Forum</a>
+		<a class="linkcolor" href="http://www.musopen.org/login.php?return=privacy.php">Sign In</a> | <a class="linkcolor" href="http://www.musopen.org/signup">Register</a> 
+         |
+		<a class="linkcolor" href="/translate.php">Translate</a>  |
+		<a class="linkcolor" href="/blog">Blog</a> 
    </div></div>
-   <div class="bottom"> Musopen Â® | <a href="/privacy.php">Privacy Policy</a> | <a href="/tos.php">Terms of Use</a> | <a href="/dmca.php">DMCA</a> <a href="http://www.opendefinition.org/"><img style="text-decoration:none; border:none; margin-bottom:-4px; padding-left:3px;" src="/images/okfn.png" alt="OKF"></a></div>
+   <div class="bottom"> Musopen® | <a href="/privacy.php">Privacy Policy</a> | <a href="/tos.php">Terms of Use</a> | <a href="/dmca.php">DMCA</a>
+
+
+  | <a href="https://www.twitter.com/musopen"> Follow Us on Twitter </a><a href="https://www.twitter.com/musopen"> <img style="text-decoration:none; border:none; margin-bottom:-4px; padding-left:3px;" src="http://www.musopen.org/imgs/twitter.png" alt="Twitter"> </a> 
+
+
+<br> <br>
+<a href="http://okfn.org/"> <img src="http://www.musopen.org/imgs/okfn.png"> </a>
+
+
+</div>
 
 
 
-
-<script type="text/javascript" src="http://cdn.cloudfiles.mosso.com/c30412/thickbox.js"></script>
-<script type="text/javascript" src="http://cdn.cloudfiles.mosso.com/c30412/jgrowl_minimized.js"></script>
-<script type="text/javascript" src="http://cdn.cloudfiles.mosso.com/c30412/growler.js"></script>
-
-
-<!--Start Analytics-->
+<!--Start Google Analytics-->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -264,12 +298,9 @@ var pageTracker = _gat._getTracker("UA-574070-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<!--End Analytics-->
 
-<!--CrazyEgg--> 
-<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0003/8278.js"> </script>
-<!--End Analytics-->
+<!--CrazyEgg 
+<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0003/8278.js"> </script>   -->
 
 
-
-<!-- Ejected in 0.3041 seconds. --></body></html>
+<!-- Ejected in 0.0974 seconds. --></body></html>
