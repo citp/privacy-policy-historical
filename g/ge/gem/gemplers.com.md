@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526170154id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112044933id_/http%3A//www.gemplers.com/info/privacy.htm) for the most accurate reproduction.*
 
 # GEMPLER'S - Privacy and Security | Gempler's
 
