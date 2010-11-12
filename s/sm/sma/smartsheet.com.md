@@ -1,66 +1,116 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531042035id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112152057id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartsheet
 
-**Smartsheet.com Privacy Policy**
+## Smartsheet.com Privacy Policy
 
-Last Updated: March 24, 2010
+Updated policy: Effective on June 24, 2010
 
-Smartsheet.com has created this privacy policy (“Policy”) as customer privacy and transparency is fundamental to maintaining the highest levels of trust and security.  Smartsheet.com reserves the right to change this Policy, and if it does, the revised Policy will be posted on this Site.  You can at any time modify your opt out elections. (see opt-out policy below)
+This privacy statement describes how Smartsheet collects and uses the personal information you provide on our Web site: www.smartsheet.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-As is the case with most Web sites, the Smartsheet.com Web site (the “Site”) gathers information in two ways:
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.smartsheet.com/seal_m "Validate TRUSTe privacy certification")
+
+Smartsheet.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.smartsheet.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact Eric Browne at support@smartsheet.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint
+
+TRUSTe will then serve as a liaison with us to resolve your concerns. Smartsheet.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
+
+## Collection and Use of Personal Information
+
+We collect the following personal information from you
+
+  * Contact Information such as name, email address, mailing address, phone number 
+  * Billing Information such as credit card number, and billing address 
+  * Unique Identifiers such as user name, account number, password 
 
 
 
-  1. when you voluntarily submit information to us through various pages of this Site; and
-  2. through the operation of the Site technology.
-
-
-
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
 When we collect information by means of you voluntarily submitting it to us, we will notify you as to why we are asking for it and how it will be used. Set out in this Policy are some of the circumstances when we might collect personal data and what it may be used for.
 
 We require customers who register to use the services offered on our Site (collectively, the “Service”) to give us an email address, and upon subscribing, financial information such as billing name and credit card number.
 
-Smartsheet.com uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, by following the opt out instructions located in the e-mails we may send you, by changing your privacy settings in the Service, or by [contacting us](https://web.archive.org/contact) at any time.
+We use this information to
 
-Smartsheet.com reserves the right to send its existing customers certain communications relating to the Service as part of our commercial relationship with you, such as service announcements and administrative messages without offering the opportunity to opt out of receiving them.
+  * Fulfill your order 
+  * Send you an order confirmation 
+  * Assess the needs of your business to determine suitable products 
+  * Send you requested product or service information 
+  * Send product updates or warranty information 
+  * Respond to customer service requests 
+  * Administer your account 
+  * Respond to your questions and concerns 
 
-Smartsheet.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses, hardware profiles, and browser software versions. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
-**Cookies:**  
-When you interact with the Site we strive to make that experience easy and meaningful. When you come to our Site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to identify the customers and visitors of the Site to the Smartsheet.com Web servers.
 
-Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to Smartsheet.com, either by responding to a promotional offer, opening an account, or registering for a trial, you remain anonymous to Smartsheet.com. Cookies generally operate in two forms: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you've closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
+## Choice/Opt-Out
 
-Smartsheet.com uses session cookies to allow the system to uniquely identify you while you are logged in. This information allows Smartsheet.com to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you've logged in and are required in order to use the Smartsheet.com application. Smartsheet.com uses persistent cookies that only Smartsheet.com can read and use, to identify the fact that you are a Smartsheet.com customer or prior visitor to the Site (whatever the case may be). We are careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies.
+Customers can opt out of being contacted by us, or receiving such information from us, by following the opt out instructions located in the e-mails we may send you, by changing your privacy settings in the Service, or by [contacting us](http://www.smartsheet.com/contact) at any time.
 
-Users who disable their Web browsers' ability to accept cookies will be able to browse our Site but will not be able to successfully use our Service.
+Smartsheet.com reserves the right to send its existing customers certain communications relating to the Service as part of our commercial relationship with you, such as service announcements and administrative messages without offering the opportunity to opt out of receiving them. If you do not wish to receive them, you have the option to deactivate your account by logging in to your Smartsheet account, clicking on the My Account link, selecting Account & Billing Info and clicking on the Cancel Account link.
 
-**Sharing of the Information:**  
-Except as we explicitly state at the time we request information, or as provided for in the Smartsheet.com [Master Subscription Agreement](https://www.smartsheet.com/files/MasterSubscriptionAgreementV2.pdf) or as provided herein, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Smartsheet.com for marketing or promotional purposes.
+## Testimonials
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to support@smartsheet.com.
+
+## Information Sharing
+
+Except as we explicitly state at the time we request information, or as provided for in the Smartsheet.com or as provided herein, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Smartsheet.com for marketing or promotional purposes. We do not sell your personal information to third parties.
 
 Smartsheet.com uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the Site but they are not permitted to collect any information nor does Smartsheet.com share user information with these parties.
 
-Customers of the Service will be using the Site to host data and information (“Data”). Smartsheet.com will not review, share, distribute, print, or reference any such Data except as provided in the Smartsheet.com Master Subscription Agreement or as provided herein, or as may be required by law. Individual records may at times be viewed or accessed for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+Customers of the Service will be using the Site to host data and information (“Data”). Smartsheet.com will not review, share, distribute, print, or reference any such Data except as provided in the Smartsheet.com Master Subscription Agreement or as provided herein, or as may be required by law such as to comply with a subpoena, or similar legal process. Individual records may at times be viewed or accessed for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
-**Third-Party Sites:**  
-The Site contains links to other Web sites. Smartsheet.com is not responsible for the privacy practices or the content of these other Web sites. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+## Third Party E-Commerce Solutions Provider
 
-**Security:**  
-Our Site has appropriate security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. Our Site is accessible only through browsers capable of Secure Socket Layer (SSL) technology. This technology protects data passed between the Site and the browser using both server authentication and encryption to ensure that Data is safe, secure, and available only to you. Smartsheet.com also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Smartsheet.com allows customers to log on through a limited number of trusted third parties, or through their unique user name and password. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
 
-**Opt-Out Policy:**  
-Smartsheet.com offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us or about sharing your information with third parties, [send us a request](http://www.smartsheet.com/contact) specifying your new choice. 
+## Cookies and Other Tracking Technologies
 
-**Correcting & Updating Your Information:**  
-If customers need to update or change registration information they may do so by editing their account settings. To update your account settings, log on to Smartsheet.com and click on My Account. To discontinue the Service, customers can cancel their account at any time under My Account or [contact us](http://www.smartsheet.com/contact). Smartsheet.com will respond to your correction or update request within at most 30 days from the date of your request.
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-**Safe Harbor:**  
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+## Links to Other Web Sites
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Smartsheet. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+## Widgets
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+
+## Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@smartsheet.com.
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Opt-Out Policy
+
+Smartsheet.com offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice.
+
+## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+## Updating/Accessing/Amending/Correcting Personally Identifiable Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at support@smartsheet.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 5 days.
+
+## Safe Harbor
+
+## [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.smartsheet.com/seal_m "TRUSTe European Safe Harbor certification")
+
 The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit http://www.export.gov/safeharbor/
 
-**Acceptance:**  
-This Policy is incorporated into and subject to the terms and conditions of the Smartsheet.com Master Services Agreement. Use of the Service is subject to your compliance with those terms and conditions, which constitute a legal agreement between you and Smartsheet.com. Each time you use the Service you signify that you have read, understood and agree to be bound by the Master Subscription Agreement, which incorporates this Policy. USE OF THIS SITE SIGNIFIES THE ACCEPTANCE OF THE MASTER SUBSCRIPTION AGREEMENT AND THIS POLICY. If you do not agree with the terms of either of such documents, please do not provide Smartsheet.com with any information and do not use this Site. Your continued use of the Service or this Site in light of modifications to the Policy will signify your acceptance of the modifications.
+## Notification of Privacy Statement Changes
 
-**Additional Information:**  
-Questions regarding this Policy or the practices of this Site should be directed to Smartsheet.com's Security Administrator by [online submittal ](https://web.archive.org/contact)or by regular mail addressed to Smartsheet.com, inc., Attn: Security Administrator, 325 118th Ave SE, Suite 305 Bellevue, WA 98005.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## Contact Information
+
+Questions regarding this Policy or the practices of this Site should be directed to Smartsheet.com's Security Administrator by [online submittal](http://www.smartsheet.com/contact) or by regular mail addressed to Smartsheet.com, inc., Attn: Security Administrator, 325 118th Ave SE, Suite 305 Bellevue, WA 98005.
