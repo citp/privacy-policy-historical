@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the katc.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412204544id_/http%3A//www.katc.com/global/story.asp%3Fs%3D6279295) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katc.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112183702id_/http%3A//www.katc.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# KATC Communications, Inc. Privacy Statement
+# KATC.com | Acadiana-Lafayette, LouisianaPrivacy Policy
 
-|   
----  
-  
+**KATC Communications, Inc. Privacy Statement**  
+
+
 **WEBSITE PRIVACY STATEMENT**
 
-Welcome to the website for KATC Communications, Inc., www.katc.com (the "Site").  This Site is owned by Evening Post Publishing Company ("Evening Post" or "us"), and powered by Gannaway Webholdings LLC d/b/a WorldNow ("WorldNow").  We at Evening Post recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information.  In order to address those concerns we have developed this Website Privacy Statement. 
+Welcome to the website for KATC Communications, Inc., www.katc.com (the "Site").  This Site is owned by Evening Post Publishing Company ("Evening Post" or "us"), and powered by Gannaway Webholdings LLC d/b/a WorldNow ("WorldNow").  We at Evening Post recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information.  In order to address those concerns we have developed this Website Privacy Statement.
 
 **A.         TYPES OF INFORMATION COLLECTED**
 
@@ -41,7 +41,7 @@ We have put in place physical, electronic, and managerial procedures that we bel
 
 **E.             CHILDREN**
 
-Evening Post does not knowingly collect personal information from children under the age of 13 through this Site unless such collection is done in accordance with the law.  If you are a child under the age of 13 that intends to submit information to Evening Post through this Site, you must obtain your parent's consent _prior_ to making such a submission.  In the event that Evening Post obtains actual knowledge that you are a child under the age of 13, Evening Post may require that you (and/or your parent) prove to us your prior parental consent.  Even if you are 13 or over, we recommend that all children under the age of 18 obtain parental consent prior to the submission or purchase of anything through this Site. 
+Evening Post does not knowingly collect personal information from children under the age of 13 through this Site unless such collection is done in accordance with the law.  If you are a child under the age of 13 that intends to submit information to Evening Post through this Site, you must obtain your parent's consent _prior_ to making such a submission.  In the event that Evening Post obtains actual knowledge that you are a child under the age of 13, Evening Post may require that you (and/or your parent) prove to us your prior parental consent.  Even if you are 13 or over, we recommend that all children under the age of 18 obtain parental consent prior to the submission or purchase of anything through this Site.
 
 **F.                   ****ACCESS TO YOUR PERSONAL INFORMATION AND "OPT OUT" PROCEDURES**
 
@@ -53,11 +53,11 @@ You may change your online account information with Evening Post by accessing yo
 
 **H.             CHANGES TO THIS PRIVACY STATEMENT**
 
-This Privacy Statement may be changed from time to time, so we encourage you to check back with every visit to the Site. If you do not agree to one or more of the changes, you may choose to "opt out," using the procedures set forth above.  Once the change has been made, all information collected by the Site before or after the change will be subject to the new terms of the Privacy Statement.  The current version of this Privacy Statement is effective March 19, 2007. __
+This Privacy Statement may be changed from time to time, so we encourage you to check back with every visit to the Site. If you do not agree to one or more of the changes, you may choose to "opt out," using the procedures set forth above.  Once the change has been made, all information collected by the Site before or after the change will be subject to the new terms of the Privacy Statement.  The current version of this Privacy Statement is effective March 19, 2007.
 
 **I.           TO CONTACT US**
 
-1.            For general privacy inquiries, please contact us at [privacy@eveningpostdigital.com](mailto:privacy@eveningpostdigital.com). 
+1.            For general privacy inquiries, please contact us at [privacy@eveningpostdigital.com](mailto:privacy@eveningpostdigital.com).
 
 2.            Parents of children under 13 seeking to access or change personally identifiable information that has been collected about their children through this Site, or to submit parental consent forms, please contact us at:
 
@@ -74,8 +74,6 @@ Ph: (843) 577-7111
 
 Email:  [privacy@eveningpostidigital.com](mailto:privacy@eveningpostidigital.com) 
 
-Evening Post may have several operators collecting or maintaining personal information.  The operator that is responsible for responding to privacy inquiries is _Ward Lassoe_.  His address is listed above.  Third parties accessible through this Site may have their own such operators.
+Evening Post may have several operators collecting or maintaining personal information.  The operator that is responsible for responding to privacy inquiries is Ward Lassoe.  His address is listed above.  Third parties accessible through this Site may have their own such operators.
 
 Copyright © 2007, Evening Post Publishing Company.  All rights reserved.
-
-[](http://www.addthis.com/bookmark.php)
