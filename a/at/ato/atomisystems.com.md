@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomisystems.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419051813id_/http%3A//www.atomisystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomisystems.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112194011id_/http%3A//www.atomisystems.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
