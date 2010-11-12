@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604040932id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112113845id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Safe, Secure Shopping at Movies Unlimited
 
@@ -22,7 +22,7 @@ Movies Unlimited has been processing customers' video orders for over 20 years t
 
 ### Your privacy is most important to us…
 
-We ask for your email address only so that we can confirm your order and to let you know about video information that we are sure will be of interest to you. We do not sell or rent your email address to outside parties. In addition, we do not provide statistics about our customers or their sales histories, shopping patterns, or other website related information to any other company. If ever a decision is made to provide such data, we pledge that these statistics will never include any information that can identify you personally in any way. 
+We ask for your email address only so that we can confirm your order and to let you know about video information that we are sure will be of interest to you. We do not sell or rent your email address to outside parties. We do not consent to the use of your email addresses and other information by third parties except as needed to complete your transaction. In addition, we do not provide statistics about our customers or their sales histories, shopping patterns, or other website related information to any other company. If ever a decision is made to provide such data, we pledge that these statistics will never include any information that can identify you personally in any way. 
 
 ### Our Mailing List…
 
