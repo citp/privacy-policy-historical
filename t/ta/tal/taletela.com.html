@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the taletela.com privacy policy that was archived on 2010-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513012201id_/http%3A//www.taletela.com/info/62/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taletela.com privacy policy that was archived on 2010-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101112011046id_/http%3A//www.taletela.com/info/62/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head> 
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <title>Privacy Policy  - TaleTela</title>
+<meta name="google-site-verification" content="a08ddYqXl5fdZwzYlro8MUGYbhPV0fd5KFfmynS2dV0">
 <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen">
 <link rel="shortcut icon" href="/images/favicon.png">
 <link rel="alternate" type="application/atom+xml" title="TaleTela ATOM Feed" href="/feed.atom">
@@ -11,8 +13,6 @@
 <script type="text/javascript" src="/js/jquery-ui.js"></script>
 <script src="/js/slide.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/validate.js"></script>
-<script type="text/javascript" src="http://cdn.inskinmedia.com/ikit/default/js/3rdparty/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://cdn.inskinmedia.com/ikit/default/js/inskin_load.js"></script>
 <!--<script type="text/javascript" src='/js/validate.js'></script>-->
 <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/css/slide.css" type="text/css" media="screen">
@@ -23,11 +23,13 @@
 <![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/ie7.css" /><![endif]-->
 
+<link rel="stylesheet" href="/css/chartbeat_api.css" type="text/css" media="screen">
+
 <script type="text/javascript">
 var newsitems;
 var curritem=0;
 var iPause=0;
-
+ 
 $(document).ready(function(){
     var tickerSelector = "ul#twitterupdates li";
     newsitems = $(tickerSelector).hide().hover(
@@ -41,12 +43,15 @@ $(document).ready(function(){
         }
     ).filter(":eq(0)").show().add(tickerSelector).size();
     setInterval(ticknews,4000); //time in milliseconds
+
+
+
 });
-
-
+ 
+ 
 function ticknews() {
   if (iPause==0){
-    $("#twitterupdates li:eq("+curritem+")").fadeOut("fast",function(){$(this).hide();});
+    $("#twitterupdates li:eq("+curritem+")").fadeOut("slow",function(){$(this).hide();});
     curritem = ++curritem%newsitems;
     $("#twitterupdates li:eq("+curritem+")").fadeIn("slow");
     }
@@ -60,9 +65,52 @@ GS_googleEnableAllServices();
 GA_googleAddSlot("ca-pub-0226347304662429", "TaleTela_Leaderboard");
 GA_googleAddSlot("ca-pub-0226347304662429", "TaleTela_MPU");
 GA_googleAddSlot("ca-pub-0226347304662429", "TaleTela_Skyscraper");
+GA_googleAddSlot("ca-pub-0226347304662429", "TaleTela_Popunder");
+GA_googleAddSlot("ca-pub-0226347304662429", "PageSkinTT");
+GA_googleAddSlot("ca-pub-0226347304662429", "TT_Hotbox");
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
+</script>
+<script type="text/javascript" charset="utf-8" src="/js/jquery-1.3.2.js"></script>
+<script>
+
+
+jQuery.noConflict();
+
+$(document).ready(function(){
+
+var currentURL = "taletela.com";
+var linkToJSON = "http://www." + currentURL + "/json.php?url=" + currentURL;
+var tweetmeme_url = "";
+
+		$.getJSON(linkToJSON, function(data) {
+
+			if (data[0].path == '/') {
+				var link = "http://www." + currentURL + data[1].path;
+				var text = data[1].i;
+			} else {
+				var link = "http://www." + currentURL + data[0].path;
+				var text = data[0].i;
+			}
+
+			 
+			$(".entry-title a").attr("href", link);
+			$(".entry-title a").html(text);
+
+			var lnk1 = '<a href="http://twitter.com/share" class="twitter-share-button" data-url="' + link + '" data-text="' + text +'" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"><\/script>';
+		
+			$(".wdt_button1").html(lnk1);
+
+			var lnk2 = '<a name="fb_share" type="button_count" share_url="' + link + '" href="http://www.facebook.com/sharer.php" class="fbs">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"><\/script>';
+	
+			$(".wdt_button2").html(lnk2);
+
+
+
+		});
+
+ });
 </script>
 </head>
 <body>
@@ -81,8 +129,7 @@ GA_googleFetchAds();
             <!-- Start of Content/Player Container -->
             <div id="InSkinContentContainer_myPageSkin" style="width: 1023px;">
                 <!-- Start of Content/Player Code -->
-                <div id="InSkinPageContainer_myPageSkin" class="InSkinPageContainer" style="background-color: black;
-                    text-align: left;">
+                <div id="InSkinPageContainer_myPageSkin" class="InSkinPageContainer" style="text-align: left;">
 
 <!-- Panel -->
 <div id="toppanel">
@@ -104,7 +151,7 @@ GA_googleFetchAds();
 	            	<label><input name="rememberme" id="rememberme" type="checkbox" checked="checked" value="forever"> &nbsp;Remember me</label>
         			<div class="clear"></div>
 					<input type="button" name="submit" value="Login" class="bt_login" onclick="validate_login(); return false;">
-					<a class="lost-pwd" href="#">Lost your password?</a>
+					<a class="lost-pwd" href="forgot_password.php">Lost your password?</a>
 				
 			</div>
 			<div class="left right">			
@@ -127,7 +174,7 @@ GA_googleFetchAds();
     <!-- The tab on top -->	
 	<div class="tab">
 		<ul class="login">		
-		 		 <li><fb:login-button v="2" size="medium" onlogin="window.location.reload(true);">Connect with Facebook</fb:login-button></li> 
+		 		 <li style="padding-top:6px"><fb:login-button v="2" size="small" onlogin="window.location.reload(true);">Connect with Facebook</fb:login-button></li> 
 		 <li id="toggle">
 			<div id="login">
 			<a class="open" href="#">Log In</a>  <a class="open" href="#">Join</a>
@@ -160,13 +207,29 @@ GA_googleFillSlot("TaleTela_Leaderboard");
 	<li><a href="/celeb-directory">Celeb Directory</a></li>
 	<li><a href="/videos">Videos</a></li>
 	<li><a href="/the-issue">The Issue</a></li>
-	<li style="border:none;padding:0 0 0 10px;">
-	<ul id="searchbar" style="float:right">
-		<li style="border:none; padding:0;"><form action="/search.php" method="post"><input type="text" id="search" name="search" value=""><input id="search_button" type="submit" value="Search"></form></li>
-	</ul></li>
-</ul>
+	<li style="border:none;padding:0 0 0 50px;">
+	<form action="/search.php" method="post" id="searchbar" style="float:right;padding-top:3px;">
+		<input type="text" id="search" name="search" value=""><input id="search_button" type="submit" value="Search">
+	</form>
+</li></ul>
 </div>
 
+
+<div class="post now_trending clearfix">
+	<!-- <p class="minor">Trending:</a></p> -->
+	<p class="entry-title"><a href="#">Popular right now: <img src="/images/ajax-loader2.gif" border="0" alt=""></a></p>
+
+	<div class="post_share social-media">
+		<div class="wdt_button1"> 
+			&nbsp;
+		</div>
+
+		<div class="wdt_button2">
+			&nbsp;
+		</div>
+	
+	</div>
+</div>
 
 
 <div id="contentwrapper">
@@ -175,9 +238,9 @@ GA_googleFillSlot("TaleTela_Leaderboard");
 <h1>Privacy Policy</h1>
 <h2></h2>
 
-<p>
-By <strong></strong> on <strong>Wednesday 9th July 2008</strong>
-<style>
+<p>By <strong></strong> on <strong>Wednesday 9th July 2008</strong></p>
+
+<style> 
 .share_stats > li.share {
 width:auto;
 }
@@ -188,32 +251,25 @@ width:87px;
 }
 .share_stats li.facebook {
 margin-right:12px;
-width:97px;
+width:110px;
 }
 .share_stats li.twitter {
 position:relative;
 top:1px;
 width:80px;
 }
-</style>
-				</p><ul class="share_stats"> 
+</style> 
+				<ul class="share_stats"> 
 					<li class="share facebook"> 
 						<a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a> 
 						<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script> 
 					</li> 
-					<li class="share stumbleupon"> 
-						<script src="http://www.stumbleupon.com/hostedbadge.php?s=1"></script> 
-					</li> 
 					<li class="share twitter"> 
-						<script type="text/javascript">tweetmeme_style = 'compact';</script> 
-						<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script> 
+						<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 					</li> 
 					
 				</ul> 
-<p></p>
-
 <div id="content">
-
 <p><strong>This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.gigwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.</strong><br>
 <br>
 "You" shall mean you, the user of the Site. "We/Us" means Gigwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.<br>
@@ -255,14 +311,23 @@ You may notify Us of any updates, amendments and corrections to previously colle
 <br>
 We reserve the right, at any time, to modify, alter, or update this Privacy Policy.<br>
 <br>
-Any site that you may connect to from here is not covered by this Privacy Policy.</p><iframe src="http://www.facebook.com/plugins/like.php?href=www.taletela.com//info/62/privacy&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:23px"></iframe>
+Any site that you may connect to from here is not covered by this Privacy Policy.</p>
+<div class="clearblock" style="padding-top:10px;"></div>
 
-<div class="clearblock"><span class="floatleft"><a href="/info/61/terms--conditions">PREV</a></span> <span class="floatright"><a href="/info/63/rss-news-feeds">NEXT</a></span></div>
+<iframe src="http://www.facebook.com/plugins/like.php?href=www.popdash.com//info/62/privacy&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:23px"></iframe>
+
 <div class="clearblock" style="padding-top:10px;"></div>
 
 </div>
 
-<span>Tags: <ul id="tags"><li><a href="/tag/"></a></li> </ul></span>
+
+<div class="clearblock small-padding-top"></div>
+<h4 class="breaker"><span>More Info</span></h4>
+<ul class="listing clearblock" id="latestphotos">
+<li class=""><a class="" href="/info/3038/test"><img class=" " height="147" width="117" src="http://static.taletela.com">test</a><p class="size_xs"></p></li><li class=""><a class="" href="/info/64/advertising-information"><img class=" " height="147" width="117" src="http://static.taletela.com">Advertising Information</a><p class="size_xs"></p></li><li class=""><a class="" href="/info/63/rss-news-feeds"><img class=" " height="147" width="117" src="http://static.taletela.com">RSS News Feeds</a><p class="size_xs"></p></li><li class=""><a class="" href="/info/62/privacy-policy"><img class=" " height="147" width="117" src="http://static.taletela.com">Privacy Policy</a><p class="size_xs"></p></li><li class=""><a class="" href="/info/61/terms--conditions"><img class=" " height="147" width="117" src="http://static.taletela.com">Terms &amp; Conditions</a><p class="size_xs"></p></li></ul>
+
+
+
 
 <script type="text/javascript">
 $(function() {
@@ -356,7 +421,7 @@ $("#commentalert").effect( "pulsate",{times:3}, 500 );
 }); });
 </script>
 
-<h2>Comments (0)</h2>
+<h2 class="clearblock">Comments (0)</h2>
 <ul id="comments">
 </ul>
 
@@ -380,32 +445,33 @@ Please notify me of follow up comments
 <h2 id="commentsresponse" style="display:none">Thanks for your comment.</h2>
 </form>
 
-</div>
-</div>
-</div>
 
+
+</div>
+</div>
+</div>
 
 <div id="rightcolumn">
 <div class="inner">
 
-<div id="mpu">
-<!-- ca-pub-0226347304662429/TaleTela_MPU -->
-<script type="text/javascript">
-GA_googleFillSlot("TaleTela_MPU");
-</script>
-</div>
 <div id="reelkandidiv"></div>
 <script type="text/javascript" src="http://cache.theatre247.com/js/swfobject_1_5.js"></script>
 <script type="text/javascript">      
 var so = new SWFObject("http://cache.theatre247.com/swf/t247_2_0.swf", "player1", "300", "300", "9", "#ffffff");      
 so.addParam("allowScriptAccess","always");
 so.addParam("allowFullScreen","true");
-so.addVariable("partner","popdash"); 
+so.addVariable("partner","taletela"); 
 so.addVariable("mode","5"); 
 so.addVariable("country","tv");
 so.addVariable("guid","rkshowbizfilm");   
 so.write("reelkandidiv");
 </script>
+<div id="mpu">
+<!-- ca-pub-0226347304662429/TaleTela_MPU -->
+<script type="text/javascript">
+GA_googleFillSlot("TaleTela_MPU");
+</script>
+</div>
 <div id="keepintouch">
 <h2>Follow Our Tales!</h2>
 <ul>
@@ -416,64 +482,71 @@ so.write("reelkandidiv");
 	<li><a href="/feed.atom"><img src="http://static.taletela.com/media/Image/icon_rss.png"><p class="size_xxs">RSS Feeds</p></a></li>
 </ul>
 </div><!-- end keepintouch -->
-<h2>Most Viewed</h2>
+<div id="fb">
+<iframe src="http://www.facebook.com/plugins/likebox.php?id=314877046465&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:255px;" allowtransparency="true"></iframe>
+</div>
+<script type="text/javascript">
+  GA_googleFillSlot("TT_Hotbox");
+</script>
+
+<h2>Popular</h2>
 <ul>
 <li class="piclist clearblock">
-		<a href="/news/1294/is-alicia-keys-pregnant?">
-		<img class="floatleft" src="http://static.taletela.com/media/110510_akeys4.jpg">
-		Is Alicia Keys Pregnant?
+		<a href="/news/3638/pictures-lil-wayne-drake-and-nicki-minaj-at-weezys-party-in-miami">
+		<img class="floatleft" src="http://static.taletela.com/media/091110_lilwayne1.jpg">
+		PICTURES: Lil Wayne, Drake And Nicki Minaj At Weezy's Party In Miami
 		</a>
-		<p>Singer's tour pics look like she's got a bun in the oven...</p>
-		<p class="size_xs grey italic">16336 views</p>
+		<p>Check out our photos...</p>
+		<p class="size_xs grey italic">29654 views</p>
 		</li><li class="piclist clearblock">
-		<a href="/pictures/1288/top-ten-celebrity-booties">
-		<img class="floatleft" src="http://static.taletela.com/media/28_04_2010_serenawilliams1.jpg">
-		Top Ten Celebrity Booties
+		<a href="/news/3648/tyrese-gibson-overcomes-illness-to-shoot-scenes-for-transformers-3">
+		<img class="floatleft" src="http://static.taletela.com/media/091110_tgibson7.jpg">
+		Tyrese Gibson Overcomes Illness To Shoot Scenes For Transformers 3
 		</a>
-		<p>Check out our list for best cakes...</p>
-		<p class="size_xs grey italic">14989 views</p>
+		<p>Star tweets that he's sick...</p>
+		<p class="size_xs grey italic">9175 views</p>
 		</li><li class="piclist clearblock">
-		<a href="/pictures/1287/leona-lewis-best-red-carpet-looks">
-		<img class="floatleft" src="http://static.taletela.com/media/040510_Leona-Lewis1.jpg">
-		Leona Lewis Best Red Carpet Looks
+		<a href="/news/3656/jay-z-talks-about-beyonce-pregnancy-rumours">
+		<img class="floatleft" src="http://static.taletela.com/media/101110_jayz1.jpg">
+		Jay-Z Talks About Beyonce Pregnancy Rumours
 		</a>
-		<p>'Bleeding Love' singer shows how hot she can go...</p>
-		<p class="size_xs grey italic">11118 views</p>
+		<p>Jigga says people need to change the subject...</p>
+		<p class="size_xs grey italic">8637 views</p>
 		</li><li class="plainlist clearblock">
-		<a class="size_s" href="/news/1289/nicole-scherzinger-denies-derek-hough-romance">Nicole Scherzinger Denies Derek Hough Romance
+		<a class="size_s" href="/news/3657/jay-sean-rushes-back-to-uk-for-family">Jay Sean Rushes Back To UK For Family
 		</a>
-		<p class="size_xs">PCD singer is ‘in love’ with boyf Lewis Hamilton</p></li><li class="plainlist clearblock">
-		<a class="size_s" href="/news/1297/rihanna-to-open-burlesque-nightclubs">Rihanna To Open Burlesque Nightclubs
+		<p class="size_s">Singer leaves U.S. to fly home...</p></li><li class="plainlist clearblock">
+		<a class="size_s" href="/news/3650/pictures-rihannas-got-sexy-back">PICTURES: Rihanna's Got Sexy Back
 		</a>
-		<p class="size_xs">‘Russian Roulette’ singer to become face of Jay-Z’s chain…</p></li><li class="plainlist clearblock">
-		<a class="size_s" href="/news/1280/does-justin-timberlake-lie-about-his-height?">Does Justin Timberlake Lie About His Height?
+		<p class="size_s">Star shows off her best assets...</p></li><li class="plainlist clearblock">
+		<a class="size_s" href="/news/3649/what-do-you-think-of-kim-kardashians-latest-accessory">What Do You Think Of Kim Kardashian's Latest Accessory?
 		</a>
-		<p class="size_xs">Piers Morgan says singer isn't as tall as he says...</p></li><li class="plainlist clearblock">
-		<a class="size_s" href="/pictures/1302/celebrities-before-they-were-famous">Celebrities Before They Were Famous
+		<p class="size_s">Tell us what you think...</p></li><li class="plainlist clearblock">
+		<a class="size_s" href="/news/3667/eminem-and-rihanna-to-record-third-song">Eminem And Rihanna To Record Third Song?
 		</a>
-		<p class="size_xs">Pics they hoped you'd never see...</p></li><li class="plainlist clearblock">
-		<a class="size_s" href="/news/1281/who’s-rob-kardashian-been-kissing?">Who’s Rob Kardashian Been Kissing?
+		<p class="size_s">Stars are in talks....again...</p></li><li class="plainlist clearblock">
+		<a class="size_s" href="/news/3636/has-michael-jacksons-son-got-same-skin-condition-as-his-father">Has Michael Jackson's Son Got Same Skin Condition As His Father?
 		</a>
-		<p class="size_xs">Reality star spotted kissing Angela Simmons…</p></li></ul>
+		<p class="size_s">Has Prince Michael got vitiligo?</p></li></ul>
 
-<h2>Related</h2>
-<ul id="related">
-</ul>
-
-<div id="fb">
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/connect.php/en_GB"></script><script type="text/javascript">FB.init("90634a3bcfd7d5313c07d96e9d607bde");</script><fb:fan profile_id="314877046465" stream="0" connections="10" logobar="1" width="300"></fb:fan>
-</div>
+<h2>Featured</h2>
+<ul id="features-ros"><li><a href="/pictures/3690/pictures-ne-yo-r-kelly-taraji-p-henson-at-2010-soul-train-awards"><img src="http://static.taletela.com/media/111110_soultrain10.jpg"><p>Pictures: Ne-Yo, R. Kelly, Taraji P. Henson At 2010 Soul Train Awards</p></a></li><li><a href="/pictures/3676/celebrity-hairstyles-blonde-vs-brunette"><img src="http://static.taletela.com/media/101110_rihanna5.jpg"><p>Celebrity Hairstyles: Blonde Vs. Brunette</p></a></li><li><a href="/news/3663/kim-kardashian-shops-for-thongs-and-fur-coats"><img src="http://static.taletela.com/media/101110_kimkardashian5.jpg"><p>Kim Kardashian Shops For Thongs And Fur Coats</p></a></li></ul><div id="sky">
+<!-- ca-pub-0226347304662429/TaleTela_Skyscraper -->
+<script type="text/javascript">
+GA_googleFillSlot("TaleTela_Skyscraper");
+</script></div>
 
 </div>
 </div>
 <div class="clearblock" style="padding-top:10px;"></div>
+<img src="/counter/update.php?id=62" height="1" width="1">
 <div id="footer">
 <div style="float:left;"> 
 <ul> 
 <li><a href="/news">Entertainment News</a></li> 
 
 <li><a href="/news/celebrity">Celebrity News</a></li> 
-<li><a href="/news/movie">Movie News</a></li> 
+<li><a href="http://www.muveez.com">Movie News</a></li> 
 <li><a href="/news/music">Music News</a></li> 
 <li><a href="/news/tv">TV News</a></li> 
 </ul> 
@@ -481,7 +554,7 @@ so.write("reelkandidiv");
 <div style="float:left;padding-left:30px;"> 
 <ul> 
 <li><a href="/pictures">Pictures</a></li> 
-<li><a href="/pictures/5/1/the-phat-picture">The Phat Picture</a></li> 
+<li><a href="http://popdash.com/news">Pop Gossip</a></li> 
 </ul> 
 
 </div> 
@@ -571,9 +644,59 @@ pageTracker._trackPageview();
             <!-- End of InSkin Javascript Initialization -->
             <!-- End of InSkin Ad Code -->
     </div></center>
-
-
-
+<script type="text/javascript">
+GA_googleFillSlot("TaleTela_Popunder");
+</script>
+<script type="text/javascript">
+GA_googleFillSlot("PageSkinTT");
+</script>
 <script src="http://static.ak.connect.facebook.com/connect.php/en_US" type="text/javascript"></script><script type="text/javascript">FB.init("5c518a97d1bc8d33f1368f15f4a50eb5");</script>
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
 
-</body></html>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7845422,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7845422&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+<script type="text/javascript">
+try {
+var re_name_tag = "";
+reinvigorate.track("e2c8o-8d0zyz5i60");
+} catch(err) {}
+</script>
+<!-- End reinvigorate Tag -->
+<script type="text/javascript">
+var _sf_async_config={uid:10948,domain:"taletela.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
