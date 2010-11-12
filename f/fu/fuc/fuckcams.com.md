@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fuckcams.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625143339id_/http%3A//www.fuckcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckcams.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112090157id_/http%3A//www.fuckcams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# FuckCams - Privacy Policy
+# FuckCams - Privacy
 
 [Home](http://www.fuckcams.com/) / Privacy Policy
 
