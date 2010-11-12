@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlcop.edu privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601205128id_/http%3A//www.stlcop.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlcop.edu privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112014247id_/http%3A//stlcop.edu/privacypolicy) for the most accurate reproduction.*
 
 # St. Louis College of Pharmacy » Privacy Policy
 
