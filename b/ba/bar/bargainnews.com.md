@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainnews.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608140712id_/http%3A//www.bargainnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainnews.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112101755id_/http%3A//www.bargainnews.com/privacy.cfm) for the most accurate reproduction.*
 
 # Bargain News - Privacy Policy
 
@@ -28,4 +28,4 @@ Your Bargain News Account Information is password-protected for your privacy and
 
 **Changes to this Privacy Policy**
 
-Bargain News may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. For questions or comments on this policy [email us](https://web.archive.org/web/20100608140712id_/http%3A//www.bargainnews.com/contact_us.cfm?type=webmaster&emailsubject=BNO%20-%20Privacy%20Policy%20Comments) or write Webmaster, Bargain News, L.L.C. 30 Nutmeg Drive Trumbull, CT 06611
+Bargain News may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. For questions or comments on this policy [email us](https://web.archive.org/web/20101112101755id_/http%3A//www.bargainnews.com/contact_us.cfm?type=webmaster&emailsubject=BNO%20-%20Privacy%20Policy%20Comments) or write Webmaster, Bargain News, L.L.C. 30 Nutmeg Drive Trumbull, CT 06611
