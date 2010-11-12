@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbworld.org privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504012607id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DMBWorld.org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbworld.org privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112153557id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DMBWorld.org) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
