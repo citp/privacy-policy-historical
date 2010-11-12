@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503121657id_/http%3A//www.apeainthepod.com/Shop_CustomerService/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112171953id_/http%3A//www.apeainthepod.com/Shop_CustomerService/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # customer service < retail sites privacy policy | A Pea in the Pod
 
