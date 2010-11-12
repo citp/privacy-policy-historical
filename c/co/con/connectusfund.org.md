@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the connectusfund.org privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822033257id_/http%3A//www.connectusfund.org/%3Fq%3Dnode/81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectusfund.org privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112181313id_/http%3A//www.connectusfund.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Connect U.S. Fund
-
-[Email this Page](https://web.archive.org/forward/81)           [Printer Friendly](https://web.archive.org/print/81)
 
 The following discloses our policies concerning the gathering, sharing of information and usage of this Web site.In brief, our policies are:
 
