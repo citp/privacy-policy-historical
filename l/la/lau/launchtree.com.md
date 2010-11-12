@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the launchtree.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805054321id_/http%3A//course.launchtree.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchtree.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112190414id_/http%3A//course.launchtree.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Launch Tree | Earn an extra 456% with just a few tweaks to your next offer
 
-Thank you for visiting Lurn, Inc.'s ("Lurn, Inc.") personal data management and e-commerce Internet web site ("Site") located at the URL http://launchtree.com. This Privacy Policy details certain policies implemented throughout Lurn, Inc. governing Lurn, Inc.'s use of personally identifiable information provided to Lurn, Inc. via this Site.
+Thank you for visiting JujuQ's ("JujuQ") personal data management and e-commerce Internet web site ("Site") located at the URL http://launchtree.com. This Privacy Policy details certain policies implemented throughout JujuQ governing JujuQ's use of personally identifiable information provided to JujuQ via this Site.
 
 Privacy Policy Updates
 
-Due to the Internet's rapidly evolving nature, Lurn, Inc. may need to update this Privacy Policy from time to time. If so, Lurn, Inc. will post its updated Privacy Policy on our Site located at http://launchtree.com so you are always aware of what personally identifiable information we may collect and how we may use this information. Lurn, Inc. encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
+Due to the Internet's rapidly evolving nature, JujuQ may need to update this Privacy Policy from time to time. If so, JujuQ will post its updated Privacy Policy on our Site located at http://launchtree.com so you are always aware of what personally identifiable information we may collect and how we may use this information. JujuQ encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
 
 Information Collection and Use
 
@@ -20,13 +20,13 @@ We may use your personally identifiable information to send you advertisements a
 
 Children's Privacy
 
-Lurn, Inc. recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No personally identifiable information is collected by Lurn, Inc. and Lurn, Inc.'s services and Site are not intended for children under the age of 13. Lurn, Inc. does not target its services or this Site to children under 13. Lurn, Inc. does not knowingly collect personally identifiable information from children under the age of 13.
+JujuQ recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No personally identifiable information is collected by JujuQ and JujuQ's services and Site are not intended for children under the age of 13. JujuQ does not target its services or this Site to children under 13. JujuQ does not knowingly collect personally identifiable information from children under the age of 13.
 
 Cookies
 
 We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Cookies must be enabled for you to use certain areas of the Site.
 
-Advertisements that appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. Lurn, Inc. does not have access to or control of the cookies that may be placed by the third party advertisers.
+Advertisements that appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. JujuQ does not have access to or control of the cookies that may be placed by the third party advertisers.
 
 Aggregate Information
 
@@ -36,19 +36,19 @@ Disclosure
 
 We may provide your personally identifiable information that we collect and the data generated by cookies to the vendors and service agencies that we may engage to assist us. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process your payment).
 
-We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except that we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Lurn, Inc. participates or to a purchaser of all or substantially all of Lurn, Inc.'s assets to which this Site relates.
+We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except that we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which JujuQ participates or to a purchaser of all or substantially all of JujuQ's assets to which this Site relates.
 
 Links to Third Party Sites
 
-The Site may provide links to other Web sites or resources over which Lurn, Inc. does not have control ("External Web Sites"). Such links do not constitute an endorsement by Lurn, Inc. of those External Web Sites. You acknowledge that Lurn, Inc. is providing these links to you only as a convenience, and further agree that Lurn, Inc. is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+The Site may provide links to other Web sites or resources over which JujuQ does not have control ("External Web Sites"). Such links do not constitute an endorsement by JujuQ of those External Web Sites. You acknowledge that JujuQ is providing these links to you only as a convenience, and further agree that JujuQ is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
 
 Security
 
-We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Lurn, Inc. may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
+We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. JujuQ may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
 
 Correction/Updating Personally Identifiable Information
 
-Lurn, Inc. provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us,
+JujuQ provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us,
 
 * You may access your account and review, correct and delete your personally identifiable information  
 * Or you may contact us by email at: support@launchtree.com.
