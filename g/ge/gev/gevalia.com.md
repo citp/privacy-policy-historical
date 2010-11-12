@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530134419id_/http%3A//www.gevalia.com/privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112071058id_/http%3A//www.gevalia.com/privacy-notice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
