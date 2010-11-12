@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612211636id_/http%3A//www.iie.org/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112024636id_/http%3A//www.iie.org/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Institute of International Education
 
