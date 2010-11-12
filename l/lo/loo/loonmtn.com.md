@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430112611id_/http%3A//www.boyneresorts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112164105id_/http%3A//www.boyneresorts.com/privacy.html) for the most accurate reproduction.*
 
 # Boyne Resorts
 
