@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e2bn.org privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511202521id_/http%3A//www.e2bn.org/aboutus/75/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2bn.org privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112132338id_/http%3A//www.e2bn.org/aboutus/75/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - E2BN
 
