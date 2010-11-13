@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpacuk.org privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515105635id_/http%3A//www.mpacuk.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpacuk.org privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113060439id_/http%3A//www.mpacuk.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MPACUK – Empowerment through political participation
 
