@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622031513id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113030256id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -114,7 +114,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### (12) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@puatraining.com or by post to 29 York House, 12 Berners Street, London, W1T 3LG.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@puatraining.com or by post to Flat C, Coventry House, 5-6 Coventry St, London W16 6BW
 
 ### (13) Data controller
 
