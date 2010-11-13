@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softsailor.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609161446id_/http%3A//www.softsailor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsailor.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113041623id_/http%3A//www.softsailor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SoftSailor
 
