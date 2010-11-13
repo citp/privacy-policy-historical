@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629173659id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113065813id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | The Register-Guard
 
@@ -81,18 +81,18 @@ Advertisement
 
 * * *
 
-### [Introducing "go" Entertainment](http://go.registerguard.com/entertainment/)
+### [Visit Go Entertainment](http://go.registerguard.com/entertainment/)
 
 [](http://go.registerguard.com/entertainment/)
 
-Welcome to the Register-Guard's new online event calendar. With concerts, art exhibits, dance, comedy, lectures and more, if it takes place in and around Lane County, you'll know about it here. [We welcome your feedback](http://go.registerguard.com/entertainment/feedback/)!
+Find fun fast with _go Entertainment_. Search our comprehensive listings of concerts, clubs, art events, theater and more. It's time to go out.
+
+On your smartphone at _[go.registerguard.mobi](http://go.registerguard.mobi/)_
 
 * * *
 
 [](http://blogs.registerguard.com/cms/index.php/static/advertising/coupons/)
 
 * * *
-
-### Have Fun, Win Tickets
 
 Advertisement
