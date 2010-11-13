@@ -1,0 +1,57 @@
+> *The following text is extracted and transformed from the rdprizedraw.co.uk privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113122135id_/http%3A//www.readersdigest.co.uk/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1356%3Aordering%26catid%3D269) for the most accurate reproduction.*
+
+# Privacy Policy
+
+****  
+In over 80 years of providing quality products, Reader's Digest has adhered to the highest standards in assuring our customers' privacy. All information - including customer accounts, transactions, and all correspondence, is handled with the utmost care.
+
+**Your email information**  
+Once you enter your email address in a Reader's Digest web site, including submitting a form, entering a competition, etc., you may receive email correspondence from Reader's Digest. You will always be able to choose not to receive emails from us, either at the time of completing a form, or by following the unsubscribe instructions in each email that we send out.
+
+**Data Security**  
+All data provided through this website is owned by Vivat Direct Ltd (T/a Reader's Digest). Reader's Digest (and other joint ventures that we may enter into from time to time) may offer you other credit facilities, subject to status, and/or financial services products. By giving information to Reader's Digest you agree that it will be shared with any other company wholly owned by Vivat Direct Ltd. However, we will ask your permission to share the data with any third parties.
+
+We will use the information you give us to:
+
+  * Process your order
+
+
+  * Fulfil your orders and administer your account.
+
+
+  * To pass information about you to agents, service providers and employees to carry out services you requested or purchased. In the course of providing such services, we may transfer your personal information outside of the European Economic Area. We will employ appropriate security measures to protect your personal information where this is the case.
+
+
+  * To disclose information about you to any relevant regulator if they require it or to anyone else if there is a legal duty to do so.
+
+
+  * To run any prize draw or competition you may enter.
+
+
+  * Complete debtor tracing or debt recovery processes if required.
+
+  
+The information held about you, but not information held at credit reference agencies, may also be used to analyse your shopping preferences as part of our marketing programmes. This information may also be incorporated into our staff training programmes. It may also be used to send you promotional material for our products and services. We may also telephone or email you to discuss account details or for market or service research.
+
+ **Fraud Protection**  
+If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information.  
+We and other organisations may access and use this information to prevent fraud and money laundering, for example, when:  
+-Checking details on applications for credit and credit related or other facilities;  
+-Checking details on proposals and claims for all types of insurance;  
+We and other organisations may also access and use from other countries the information recorded by fraud prevention agencies.
+
+ **Do you use cookies, and why?**  
+In order that we can monitor and improve the site, we may gather certain information about you when you use it, including details of your domain name and IP (Internet Provider) address, operating system and browser.  
+A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand how you browse, search and navigate our website and which products, pages and advertisements you have viewed. We use cookies to make our web site more user friendly to give you a better experience when you return to our web site by, for example, allowing us to save your password so that you do not have to re-enter it every time you visit and to target our marketing promotions to you.  
+Cookies are used to enable you to make purchases and store items in your basket whilst on the site. Please note, if your browser is set to reject cookies then unfortunately you will not be able to shop from our website. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie. This will give you the opportunity to decide whether to accept it or not. We may also use cookies to provide you with customised information from our web site.
+
+For further information about cookies and how they are used, please visit [www.aboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies \(external site\)") .
+
+ **Code of practice**  
+Reader's Digest observes the Code of Practice of the[ Direct Marketing Association](http://www.dma.org.uk/content/home.asp "Direct Marketing Association home page"), and further details are available from Dept DMA at the address below. Please enclose a 9" x 6" SAE.  
+Vivat Direct Limited (t/a Reader's Digest), Leicester LE55 8AA
+
+If you have any further questions about our Data Protection Policy or how we manage the information you give us, contact us [here](http://www.readersdigest.co.uk/contact.html "Contact Reader's Digest")
+
+( 1 Vote )     
+
