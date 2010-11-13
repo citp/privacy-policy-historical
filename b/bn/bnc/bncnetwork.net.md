@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bncnetwork.net privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529144703id_/http%3A//www.bncnetwork.net/pgs/AboutUs/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bncnetwork.net privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113132807id_/http%3A//www.bncnetwork.net/PGS/Portal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# bncnetwork.net | Privacy Policy
+# bncnetwork.net
 
 You must periodically review this Privacy Policy as it may change from time to time.
 
@@ -28,7 +28,7 @@ Industry Networks is committed to protecting the security of your personal infor
 **Use of Cookies**  
 Industry Networks uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize Industry Networks's pages, or register with Industry Networks sites or services, a cookie helps Industry Networks to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, preferred email address, and so on. When you return to Industry Networks, the information you previously provided can be retrieved, so you can easily use the Industry Networks features that you customized.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize Industry Networks' pages, or register with Industry Networks' sites or services, a cookie helps Industry Networks to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, preferred email address, and so on. When you return to Industry Networks, the information you previously provided can be retrieved, so you can easily use the Industry Networks features that you customized.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Industry Networks services or Web sites you visit. 
 
@@ -42,13 +42,7 @@ In addition, Industry Networks allows other companies, called third-party ad ser
 
 Industry Networks maintains relationships with a number of the third-party ad networks. Those ad networks that use persistent cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of either the individual ad network or the Network Advertising Initiative.
 
+Google, as a third party vendor, uses the DoubleClick DART cookie to serve advertisements on this site. Google's use of the DoubleClick DART cookie enables it and its partners to serve advertisements to users based on information (not including name, address, email address, or telephone number) about their visits to this site and/or other sites on the Internet, in order to provide the most useful and relevant advertisements to users. For more information about this practice or to opt out of the use of the DoubleClick DART cookie, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 **Changes to this Statement**  
 Industry Networks will occasionally update this Privacy Statement to reflect company and customer feedback. If there are material changes to this Statement or in how Industry Networks will use your personal information, Industry Networks will prominently post such changes prior to implementing the change. Industry Networks encourages you to periodically review this Statement to be informed of how Industry Networks is protecting your information.
-
-**Contact Information**  
-Industry Networks welcomes your comments regarding this Privacy Statement. If you believe that Industry Networks has not adhered to this Statement, please contact Industry Networks by telephone, e-mail, or postal mail.  
-Industry Networks,  
-P.O. Box 9212,  
-Sharjah, UAE  
-(T) 00971-6-5573138  
-(F) 00971-6-5573139
