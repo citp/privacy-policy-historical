@@ -1,117 +1,170 @@
-<!--The following is the downloaded HTML source of the couturecandy.com privacy policy that was archived on 2010-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623001606id_/https%3A//www.couturecandy.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couturecandy.com privacy policy that was archived on 2010-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101113072821id_/https%3A//www.couturecandy.com/privacy-policy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>CoutureCandy Security and Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="security, privacy, couturecandy, policy, safe, secure, private">
-<meta name="description" content="Details of the CoutureCandy privacy and security policy.">
-<link href="//www.couturecandy.com/css/headfoot.css" rel="stylesheet" type="text/css">
-<link href="//www.couturecandy.com/css/candy4.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="//www.couturecandy.com/scripts/jscript3.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>CoutureCandy Security and Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="keywords" content="security, privacy, couturecandy, policy, safe, secure, private">
+	<meta name="description" content="Details of the CoutureCandy privacy and security policy.">
+	<link rel="stylesheet" type="text/css" media="screen" href="//www.couturecandy.com/cssnew/default_style.css">
+<link rel="stylesheet" type="text/css" media="screen" href="//www.couturecandy.com/cssnew/style.css">
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="screen" href="//www.couturecandy.com/cssnew/ie7.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="screen" href="//www.couturecandy.com/cssnew/ie8.css" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" media="screen" href="//www.couturecandy.com/js/jscroll.css">
+
+<script src="//www.couturecandy.com/js/scroll.js"></script>
+<script src="//www.couturecandy.com/js/jquery.js"></script>
+<script src="//www.couturecandy.com/js/jscroll.min.js"></script>
+<script src="//www.couturecandy.com/js/mousewheel.js"></script>
+<script src="//www.couturecandy.com/js/wheel.js"></script>
+<script src="//www.couturecandy.com/js/jquery.tools.min.js"></script>
+<script>
+var ran_once = false;
+$(document).ready(function(){
+	if (navigator.appVersion.indexOf("Win")!=-1) {
+		$(".menu").css({"font-weight":"600"});
+		$(".footer_stripe").css({"font-weight":"600"});
+		$(".tabs").css({"font-size":".8em"});
+	}
+	$("#products li:nth-child(5n+5)").css({"margin-right":"0px"});
+	$("#hltlink").click(function(){
+		$("#choosesize").toggle();
+		return false;
+	});
+	$("#sizepopclose").click(function(){
+		$("#choosesize").slideUp();
+		return false;
+	});
+	
+	var the_subcats = $(".sub_cats");
+	var curr_cat = $(".sub_cats").find(".cat_name").text();
+	$(".category li").each(function(){
+		if ($(this).attr("title") === curr_cat) {
+			$(this).append(the_subcats);
+		}
+	});
+	$("ul.tabs li").live("click", function(){
+		scrollage();
+	});
+});
+$(function() {
+	// setup ul.tabs to work as tabs for each div directly under div.panes
+	$("ul.slider_navigation").tabs("div.slider > div", {
+		effect: 'fade',
+		rotate: true
+	}).slideshow({autoplay: true, interval: 4000,clickable: false});
+	$("ul.tabs").tabs("div.slider_container > div" );
+	scrollage();
+});
+function scrollage() {
+	$('.scroll').jScrollPane({showArrows: true});
+	if (ran_once == true) {
+		$(".jspVerticalBar").css({"margin-left":"-3px","right":"5px"});
+	}
+	ran_once = true;
+}
+</script>
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-81904-1";
 urchinTracker();
 </script>
 
-<link href="css/help.css" rel="stylesheet" type="text/css">
-<style>
-<!--
-#positiona h1 {
-background: url(images/privacy.jpg) no-repeat;
-}
--->
-</style>
+
+<!-- otherwise just do this -->
+
+	<link href="css/help.css" rel="stylesheet" type="text/css">
+	<style>
+	<!--
+		#righthelp {
+			width: 725px;
+		}
+		#righthelp, #helpnav {
+			margin-bottom: 2em;
+		}
+	-->
+	</style>
 </head>
+
 <body id="privacybody">
-<div id="positiona" style="width:1030px;">
+	<div class="wrap">
+	<div class="header">
+	    	<a href="//www.couturecandy.com"><img src="//www.couturecandy.com/imagesnew/logo.jpg" width="304" height="71" class="logo"></a>
+            <div class="navigation">
+        	Toll Free: 866-399-2263 | <a href="//www.couturecandy.com/submit-newsletter.html">Newsletter Signup</a> | <a href="//www.couturecandy.com/wishlist.do">Wishlist <!--( items)--></a> |  <a href="//www.couturecandy.com/account.do">My Account</a>	<form method="post" id="form1" action="search.do"><input type="text" name="query" placeholder="search..." class="search_box"></form>
+        </div><!-- navigation -->
+        <div class="clear"></div><!-- clear -->
+    </div><!-- header -->
+</div><!-- wrap -->
 
+<div class="menu_stripe">
+	<div class="wrap">
+    	<ul class="menu left">
+        	<li class="active"><a> WOMEN</a></li>
+            <li><a href="//www.couturecandy.com/index.do?Men=t">  MEN</a></li>
+            <li><a>KIDS<sub style="font-size: 0.7em; margin-left:3px;">coming soon</sub></a></li>
+        </ul><!-- menu left -->
+        <ul class="menu right">
+        		        	<li><a href="//www.couturecandy.com/designer-directory.html">DESIGNERS</a></li>
+	            <li><a href="//www.couturecandy.com/addictions.htm">NEW ARRIVALS</a></li>
+	            <li><a href="//www.couturecandy.com/designers/1/catalog.html?sortby=CREATE_TIME_DESC">CLOTHING</a></li>
+	            <li><a href="//www.couturecandy.com/accessories/1/catalog.html?pn=1&amp;sortby=CREATE_TIME_DESC">ACCESSORIES</a></li>
+	            <li><a href="//www.couturecandy.com/sales.html">SALE</a></li>
+	            <li><a href="//www.couturecandy.com/celebs/index.html">BLOG</a></li>
+	                </ul><!-- menu right -->
+    </div><!-- wrap -->
+</div><!-- menu_stripe -->
 
-
-<div id="header">
-<div id="topper">
-<form method="post" id="form1" action="search.do">
-Search<input type="text" id="search" name="query" value=""><input id="Submit3" type="submit" value="GO">
-</form>
-
-Toll Free: 866-399-2263
-
-<span id="hoptions">
-
-<a href="//www.couturecandy.com/submit-newsletter.html"><img src="//www.couturecandy.com/images/headnews.gif" width="83" height="12" alt="Newsletter Signup"></a><a href="//www.couturecandy.com/wishlist-search.html"><img src="//www.couturecandy.com/images/headwishlist.gif" width="47" height="12" alt="Wish List"></a><a href="//www.couturecandy.com/customer-login.do"><img src="//www.couturecandy.com/images/headaccount.gif" width="57" height="12" alt="my account"></a></span>
-
-
-
-<div id="shipstuff">
+<div class="clear" style="height:10px"></div>
 
 <!--
-<a href="//www.couturecandy.com/expertise.html"><img src="//www.couturecandy.com/images/headhelp.gif" width="190" height="47" alt="Help" /></a>
-
-<a href="//www.couturecandy.com/returns.htm"><img src="//www.couturecandy.com/images/nohassle.gif" width="175" height="13" alt="No Hassle Returns" /></a>
-<a href="//www.couturecandy.com/shipping.htm"><img src="//www.couturecandy.com/images/freepriority.gif" width="175" height="13" alt="Free Priority Shipping" /></a>
+<a href=""><img src="//www.couturecandy.com/images/headnews.gif" width="83" height="12" alt="Newsletter Signup" /></a><a href="//www.couturecandy.com/wishlist-search.html"><img src="//www.couturecandy.com/images/headwishlist.gif" width="47" height="12" alt="Wish List" /></a><a href="//www.couturecandy.com/customer-login.do"><img src="//www.couturecandy.com/images/headaccount.gif" width="57" height="12" alt="my account" /></a></span>
 -->
-</div>
-</div>
-
-<!--<div style="position:absolute;float:left;width:30px;height:10px;margin-left:370px;"><img src="//www.couturecandy.com/images/coupon-code.jpg"></div>-->
-<a href="/"><img src="//www.couturecandy.com/images/logo1.jpg" alt="Couture Candy Fashion Portal" width="270" height="44"></a>
 
 
-<ul>
-<br>
-	<li id="fifth"><a href="//www.couturecandy.com/designer-directory.html">Designers</a></li>
-	<li id="fourth"><a href="//www.couturecandy.com/addictions.htm">New Arrivals</a></li>
-	<li id="second"><a href="//www.couturecandy.com/clothing.html">Clothing</a></li>
-	<li id="third"><a href="//www.couturecandy.com/handbags/1/handbags.html?sortby=CREATE_TIME_DESC">Handbags</a></li>
-	<li id="first"><a href="//www.couturecandy.com/jewelry/1/jewelry.html?sortby=CREATE_TIME_DESC">Jewelry</a></li>
-	<li id="last"><a href="//www.couturecandy.com/beachwear/1/swimwear.html?pn=1&amp;sortby=CREATE_TIME_DESC">Swimwear</a></li>
-	<li id="sixth"><a href="//www.couturecandy.com/celebs/index.html">Celebrity.Style.Blog</a></li> 
-	<li id="ent"><a href="//www.couturecandy.com/sales.html">Sale</a></li>
+	<div class="wrap">
+	
+		<div class="main_col">
+			<!-- content -->
 
-
-</ul>
-<br>
-<br>
-</div>
-<div id="contain" style="width:900px">
-
-<!-- content -->
-<h2 class="bordertop">Privacy Policy</h2>
-<br>
-<br>
-<br>
-<div id="helpnav">
+			<h2 class="bordertop">Privacy Policy</h2>
+			
+			<div id="helpnav">
 <h4>Company &amp; Policies</h4>
 <h5>Customer Service</h5>
 <ul>
 <li><a href="shopping.htm" id="shopping">Shopping Online</a></li>
-<li><a href="discounts.htm" id="faq">Discounts and Promotions</a></li>
+<li><a href="discounts.htm" id="discounts">Discounts and Promotions</a></li>
 <li><a href="shipping.htm" id="shipping">Shipping Information</a></li>
 <li><a href="returns.htm" id="returns">Returns and Exchanges</a></li>
 <li><a href="gifts.htm" id="pricing">Gifts and Gift Certificates</a></li>
-<li><a href="contact-us.htm" id="pricing">Contact Us</a></li>
+<li><a href="contact-us.htm" id="contact">Contact Us</a></li>
 <li><a href="wish-list-instructions.htm" id="wishlistnav">Wish List Instructions</a></li>
-<li><a href="newsletters.htm" id="wishlistnav">Newsletters</a></li>
+<li><a href="newsletters.htm" id="newsletters">Newsletters</a></li>
 </ul>
 <h5>Company Information</h5>
 <ul>
-<li><a href="about-us.htm" id="privacy">About Us</a></li>
+<li><a href="about-us.htm" id="aboutus">About Us</a></li>
 <li><a href="privacy-policy.htm" id="privacy">Privacy Policy</a></li>
 <li><a href="disclaimer.htm" id="disclaimer">Terms of Use</a></li>
-<li><a href="copyright-information.htm" id="disclaimer">Copyright Information</a></li>
+<li><a href="copyright-information.htm" id="copyright">Copyright Information</a></li>
 </ul>
 <h5>Relations</h5>
 <ul>
-<li><a href="https://www.couturecandy.com/vendorLogin.do" id="about">Designers</a></li>
-<li><a href="affiliates.htm" id="careers">Affiliates</a></li>
-<li><a href="advertising.htm" id="advertisingf">Advertise with Us</a></li>
+<li><a href="https://www.couturecandy.com/vendorLogin.do" id="designers">Designers</a></li>
+<li><a href="affiliates.htm" id="affiliates">Affiliates</a></li>
+<li><a href="advertising.htm" id="advertising">Advertise with Us</a></li>
 </ul>
 </div>
-<div id="righthelp">
 
-
-<h3>Information We Collect</h3>
+			<div id="righthelp">
+				
+				<h3>Information We Collect</h3>
 <p>When you shop with CoutureCandy you must submit the minimal required information necessary to complete your transaction. This information may include your name, address, telephone number, and email address.</p>
 <p>When you use the website in any capacity, such as registering as a customer, participating in one of our promotions or sweepstakes, or purchasing products, we may ask for additional information, including your age, interests, hobbies, product preferences, and favorite designers.  Giving us this information is optional and serves the purpose of us being able to provide the most desirable services and products to our customers.</p>
 <p>To improve our website, we collect non-personal information about how users navigate through the site. We may share this information with our affiliates or other outside companies.</p>
@@ -172,59 +225,29 @@ Toll Free: 866-399-2263
 
 <h3>Any Questions?</h3>
 <p>We'll be happy to provide additional information or answer any questions. <a href="contact-us.htm">Click here</a> for information on how to contact CoutureCandy.</p>
+			</div>
 
-</div>
+			<div class="clear"></div>
 
-<div id="footer"><div class="bordertop">
-<a href="//www.couturecandy.com/certificate.html"><img src="//www.couturecandy.com/images/footgift.gif"></a>
-<ul>
-<li><a href="//www.couturecandy.com/certificate.html"><b>Gift Certificates</b></a></li>
-<li><a href="//www.couturecandy.com/certificate.html">The perfect gift <br> for any occasion!</a></li>
-</ul>
+		</div><!-- .main_col -->
+	</div><!-- .wrap -->
+	
+<div class="footer_stripe">
+	<div class="wrap">
+    	<ul>
+        	<li><a href="//www.couturecandy.com/certificate.do">GIFT CERTIFICATES</a></li>
+            <li><a href="//www.couturecandy.com/expertise.jsp">CUSTOMER SERVICE</a></li>
+            <li><a href="//www.couturecandy.com/returns.jsp">RETURNS &amp; EXCHANGES</a></li>
+            <li><a href="//www.couturecandy.com/contact-us.jsp">CONTACT US</a></li>
+            <li><a href="//www.couturecandy.com/about-us.jsp">ABOUT US</a></li>
+        </ul>
+    </div><!-- wrap -->
+</div><!-- footer_stripe -->
 
-<ul>
-<li><b><a href="//www.couturecandy.com/expertise.htm">Help Desk</a></b></li>
-<li><a href="//www.couturecandy.com/expertise.htm">Customer Service</a></li>
-<li><a href="//www.couturecandy.com/returns.htm">Returns &amp; Exchanges</a></li>
-<li><a href="//www.couturecandy.com/contact-us.htm">Contact Us</a></li>
-<li><a href="//www.couturecandy.com/submit-newsletter.html">Newsletter Sign-Up</a></li>
-</ul>
-
-
-<ul>
-<li><b>Company Info</b></li>
-<li><a href="//www.couturecandy.com/about-us.htm">About Us</a></li>
-<li><a href="//www.couturecandy.com/privacy-policy.jsp">Privacy Policy</a></li>
-<li><a href="//www.couturecandy.com/disclaimer.htm">Terms of Use</a></li>
-<li><a href="//www.couturecandy.com/copyright-information.htm">Copyright Info</a></li>
-</ul>
-
-
-<ul>
-<li><b>Relations</b></li>
-<li><a href="https://www.couturecandy.com/vendorLogin.do">Designers</a></li>
-<li><a href="//www.couturecandy.com/affiliates.htm">Affiliates</a></li>
-<li><a href="//www.couturecandy.com/sitemap.html">Sitemap</a></li>
-<li><a href="//www.couturecandy.com/advertising.htm"><font color="#000"><b>Advertise with Us</b></font></a></li>
-</ul>
-</div>
-<p>Copyright © 2010 CoutureCandy.com. All rights reserved. <a href="//www.couturecandy.com/privacy-policy.htm">Privacy Policy</a> <a href="//www.couturecandy.com/copyright-information.jsp">Copyright Information</a></p>
-</div>
-
-
-<!-- Casale tracking -->
-<script language="javascript">
-if (getcookie('aff') && getcookie('aff') == 'cas') {
-document.write('<img src="https://r.casalemedia.com/j.gif?u=131195&s=1" width="1" height="1" alt="">');
-}
-</script>
-<!-- Casale tracking -->
-</div></div><!-- required divs -->
-<script language="javascript">
-var lpPosY = 100;
-var lpPosX = 500;
-</script>
-<script language="javascript" src="http://server.iad.liveperson.net/hc/76466490/x.js?cmd=file&amp;file=chatScript3&amp;site=76466490&amp;&amp;imageUrl=http://www.couturecandy.com/images/liveperson">
-</script>
+<div class="wrap">
+	<div class="footer">
+    	All Rights Reserved © Couturecandy 2010 | <a href="//www.couturecandy.com/privacy-policy.jsp">Privacy Policy</a> | <a href="//www.couturecandy.com/disclaimer.htm">Conditions of Use</a>
+    </div><!-- footer -->
+</div><!-- wrap -->
 
 </body></html>
