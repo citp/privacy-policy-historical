@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514111453id_/http%3A//www.clarizen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113180023id_/http%3A//www.clarizen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Clarizen
+# Clarizen | Privacy Policy_Project Management Software
 
 Your privacy is of great importance to us. This Privacy Policy is to inform you what kind of information we may gather while you visit our website and how we may use such information.  
 We do not collect any personally identifiable information about individuals, except when such information is voluntarily submitted by the visitor through forms and some other information is collected automatically.
