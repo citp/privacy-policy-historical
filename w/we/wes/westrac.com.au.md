@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230094355id_/http%3A//www.westrac.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westrac.com.au privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113181711id_/http%3A//www.westrac.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - WesTrac Australia
+# Privacy - WesTrac Home
 
 **Privacy Statement** **  
 **WesTrac Pty Ltd. is committed to providing customers with the best value products and services, both in the field and online. We also recognize and respect your online privacy and are committed to providing adequate data protection and full compliance with applicable data privacy laws.
