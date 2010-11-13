@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the w3catalog.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408215629id_/http%3A//www.w3catalog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3catalog.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114002922id_/http%3A//www.w3catalog.com/privacy.html) for the most accurate reproduction.*
 
-# Computers & Internet Web Directory - W3 Catalog - Privacy Policy
+# W3 Catalog Web Directory - Privacy Policy
 
 W3 Catalog respects your right to the privacy of your personal information you provide us on our web site. To that end, any personal information you provide to W3 Catalog will be known only to two parties: you and W3 Catalog. The following policy is intended to explain how your personal information will be treated as you make use of our site and its features. This policy may change from time to time, so please check back periodically.
 
