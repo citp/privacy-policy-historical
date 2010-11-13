@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrewsullivan.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608053757id_/http%3A//www.theatlantic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewsullivan.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113060307id_/http%3A//www.theatlantic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Atlantic
 
