@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404025512id_/http%3A//www.atlantisthepalm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113153823id_/http%3A//www.atlantisthepalm.com/privacy.aspx) for the most accurate reproduction.*
 
-# Atlantis The Palm - Privacy
+# Privacy
 
    
 When using our Site, you may be asked to voluntarily provide certain personal information. You can use our Site without creating an account, but you may need to create an account if you want to take advantage of certain time saving features. Also, upon your registering at check-in we may request that you provide us certain information in our guest cards or similar registration materials. When you place a reservation or register at check-in, we may request your name, email address, mailing address, phone number, credit card number and expiration date. We may also ask for personal information when you contact our reservations department or other customer service departments. This will allow us to assist you better and to protect your confidentiality by verifying your identity.
