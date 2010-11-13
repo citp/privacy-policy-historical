@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618112614id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113070856id_/http%3A//nearlygood.com/privacy.html) for the most accurate reproduction.*
 
-# Nearly Good - funny videos, shocking clips, play games, funny pictures, jokes and more
+# Nearly Good - funny videos, sexy babes, play games, funny pictures, jokes and more
 
 **Introduction**
 
@@ -41,10 +41,6 @@ Our mailing list is strictly opt-in only and you can always unsubscribe by going
 **Advertisers**
 
 We make use of a number of external ad providers to serve adverts which will be of interest to our visitors. These ad providers may collect information such as your IP address, country and browser. For more information you should look up their privacy policies. 
-
-Here are the advertisers we are currently using: 
-
-\- [Ad Brite](http://www.adbrite.com/)
 
 **Contacting Nearly Good**
 
