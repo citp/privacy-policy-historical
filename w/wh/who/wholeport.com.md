@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholeport.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628134800id_/http%3A//www.wholeport.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholeport.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113030713id_/http%3A//www.wholeport.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security - WholePort.com
 
@@ -14,7 +14,7 @@ This Privacy Notice explains how we collect, use, and (under certain conditions)
 
 This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-WholePort.com website to which this Site links or that links to this Site.
 
- **INFORMATION COLLECTION AND USE**
+**INFORMATION COLLECTION AND USE**
 
 1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
@@ -44,7 +44,7 @@ l         Alert you to new information, products, and services that we o
 
 (f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
 
- **2\. Information Use and Disclosure.**
+**2\. Information Use and Disclosure.**
 
 (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
 
@@ -62,20 +62,20 @@ l         Alert you to new information, products, and services that we o
 
 (v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
- **DATA SECURITY**
+**DATA SECURITY**
 
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
- **OPT OUT/CORRECTIONS**
+**OPT OUT/CORRECTIONS**
 
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to WholePort.com’s Customer Support department at service@wholeport.com Please do not email your credit card number or other sensitive information.
 
- **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
+**OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
 As you might expect from WholePort.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
- **UPDATES TO THIS POLICY**
+**UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please [_contact us_](http://www.wholeport.com/service).
+If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please [contact us](http://www.wholeport.com/service).
