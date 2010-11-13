@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dulwich-seoul.kr privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213192624id_/http%3A//www.dulwich-seoul.kr/HomePage/tabid/524/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulwich-seoul.kr privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113221348id_/http%3A//www.dulwich-seoul.kr/DulwichCollegeSeoul/tabid/524/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Dulwich College Seoul - Home Page
+# Dulwich College Seoul - British International School in Seoul
 
 Dulwich College Seoul is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Dulwich College Seoul Web site and governs data collection and usage. By using the Dulwich College Seoul website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Dulwich College Seoul will occasionally update this Statement of Privacy to refl
 
 Contact Information
 
-Dulwich College Seoul welcomes your comments regarding this Statement of Privacy. If you believe that Dulwich College Seoul has not adhered to this Statement, please contact Dulwich College Seoul at [robin.lin@dulwich-shanghai.cn](mailto:robin.lin@dulwich-shanghai.cn). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Dulwich College Seoul welcomes your comments regarding this Statement of Privacy. If you believe that Dulwich College Seoul has not adhered to this Statement, please contact Dulwich College Seoul at [admissions@dulwich-seoul.kr](mailto:admissions@dulwich-seoul.kr). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
