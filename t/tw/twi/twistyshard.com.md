@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistyshard.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516015948id_/http%3A//tour.twistyshard.com/n1/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistyshard.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113150732id_/http%3A//tour.twistyshard.com/n1/privacy.html) for the most accurate reproduction.*
 
 # Carsed Marketing LLC. Privacy Policy
 
