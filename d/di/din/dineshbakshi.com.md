@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513063545id_/http%3A//www.dineshbakshi.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113211448id_/http%3A//www.dineshbakshi.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,8 +49,3 @@ This is a list of the main cookies that dineshbakshi.com sets, and what each is 
 www.dineshbakshi.com cookie
 
 Allows you to auto-login when you have registered to use the Forum.
-
-  
-
-
-Custom Search 
