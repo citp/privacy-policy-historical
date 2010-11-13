@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnpaulaguiar.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511165014id_/http%3A//www.johnpaulaguiar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnpaulaguiar.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113060258id_/http%3A//www.johnpaulaguiar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Dummy Blog
 
@@ -8,13 +8,13 @@ If you require any more information or have any questions about our privacy poli
 
 At www.JohnPaulAguiar.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.JohnPaulAguiar.com and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.JohnPaulAguiar.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 www.JohnPaulAguiar.com does not use cookies.
 
-**DoubleClick DART Cookie  
+ **DoubleClick DART Cookie  
 **.:: Google, as a third party vendor, uses cookies to serve ads on www.JohnPaulAguiar.com.
 
 .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.JohnPaulAguiar.com and other sites on the Internet.
@@ -23,7 +23,7 @@ www.JohnPaulAguiar.com does not use cookies.
 
 Google Adsense
 
-Commission Junction
+[Commission](http://www.johnpaulaguiar.com/blueprint) Junction
 
 Widget Bucks
 
