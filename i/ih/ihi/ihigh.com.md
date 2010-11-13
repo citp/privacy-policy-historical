@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505135800id_/http%3A//www.ihigh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113144631id_/http%3A//www.ihigh.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | iHigh.com | The High School Internet Network
 
@@ -6,11 +6,11 @@
 
 ## GAMES
 
+## MEDIA
+
 ## SPORTS
 
 ## OTHER
-
-## MEDIA
 
 ## FEATURED SITES
 
@@ -22,13 +22,13 @@ At iHigh.com, Inc., we are committed to safeguarding your privacy online. iHigh.
 
 iHigh.com, Inc. works with (and may provide links to) third party sites that offer features described on iHigh.com, Inc. Such third parties may permit children under the age of 13 to register on their sites in accordance with their respective privacy policies. However, iHigh.com, Inc. does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old.
 
-Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal information. By using an iHigh.com, Inc. Web Site, you consent to the collection and use of personal information as outlined in this Policy. If you do not agree to this Policy, please do not use our site. If we make any material changes to the Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should check back periodically. Your continued use of iHigh.com following the posting of changes to the Policy will signal your acceptance of such changes. If you have any questions or comments regarding this Policy, please contact [Tim Campbell](https://web.archive.org/web/20100505135800id_/http%3A//www.ihigh.com/contact.html) at (859) 514-3843.
+Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal information. By using an iHigh.com, Inc. Web Site, you consent to the collection and use of personal information as outlined in this Policy. If you do not agree to this Policy, please do not use our site. If we make any material changes to the Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should check back periodically. Your continued use of iHigh.com following the posting of changes to the Policy will signal your acceptance of such changes. If you have any questions or comments regarding this Policy, please contact [Tim Campbell](https://web.archive.org/web/20101113144631id_/http%3A//www.ihigh.com/contact.html) at (859) 514-3843.
 
 **1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the site**  
 As stated above, iHigh.com, Inc. does not solicit any personally identifiable information from children under the age of 13. iHigh.com, Inc. does not collect personally identifiable information through the site unless you provide that information. Information that may be required for certain parts of the Web Site may vary but will typically include your first and last name; address including city, state, zip code and country; complete date of birth; and e-mail address; and, in the case of making purchases, a credit card number and expiration date. You may also be requested to provide a username and password for certain features. iHigh.com, Inc. will maintain all of the personal information submitted by you in secured servers behind corporate firewalls.
 
 **2\. The organization collecting the information**  
-iHigh.com, Inc. is located at 325 West Main Street, Lexington, KY 40507. Please contact [Tim Campbell](https://web.archive.org/web/20100505135800id_/http%3A//www.ihigh.com/contact.html) at (859) 514-3843.
+iHigh.com, Inc. is located at 325 West Main Street, Lexington, KY 40507. Please contact [Tim Campbell](https://web.archive.org/web/20101113144631id_/http%3A//www.ihigh.com/contact.html) at (859) 514-3843.
 
 **3\. How the information is used**  
 iHigh.com, Inc. may use information provided at registration or information obtained through third parties as your intention to sign up for one of our contests or offers. The use of information provided at registration or obtained through third parties may also be provided to iHigh.com corporate sponsors if we have so notified you on our site. iHigh.com, Inc. uses "cookie" technology. Cookies are pieces of information transferred to your hard drive for record-keeping purposes. Such technology is an industry standard and is used by most major Web sites. iHigh.com, Inc. will never use cookies to retrieve information from your computer that was not originally sent in a cookie. In order to effectively use the site and some of its features, your browser must accept cookies.
@@ -50,12 +50,18 @@ iHigh.com has security measures in place to protect against the loss, misuse and
 
 It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. In addition, we may disclose information to law enforcement or other government officials if we determine such disclosure to be appropriate, or if we are compelled to disclose it by court order or operation of law.
 
-**NOTE TO PARENTS**  
+**NOTE TO PARENTS**
+
 It is iHigh.com, Inc.'s policy not to solicit any personally identifiable information from children. All iHigh.com, Inc. online registrants will be required to enter their full name, age, zip code and e-mail address. If iHigh.com, Inc. determines that a person is under the age of 13, based on the information provided during the registration process, that person will not be permitted to register online for our contests or offers in accordance with the Children's Online Privacy Protection Act of 1998. Any personally identifiable information that the child may have attempted to enter during the registration process will not be collected or maintained by iHigh.com. Children who indicate that they are under 13 years old will not be able to make credit card purchases or participate in interactive features on iHigh.com, Inc. that involve the collection and retention of personal information (e.g., entering a sweepstakes).
 
 iHigh.com, Inc. works with (and may provide links to) third party sites that offer features described on iHigh.com, Inc.. Such third parties may permit children under the age of 13 to register for these features on their sites in accordance with their respective privacy policies. For more information, please review the privacy policies of each respective third party site. iHigh.com does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old.  
 LAST UPDATED: April 18, 2008
 
+ **NOTE ON ADVERTISERS**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+
+  
 Copyright 2008 iHigh.com, Inc. All rights reserved. 
 
   
