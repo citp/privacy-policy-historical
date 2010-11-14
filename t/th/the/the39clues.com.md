@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510150702id_/http%3A//www.the39clues.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the39clues.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114064404id_/http%3A//www.the39clues.com/info/privacy) for the most accurate reproduction.*
 
 # The 39 Clues - Privacy Policy
 
