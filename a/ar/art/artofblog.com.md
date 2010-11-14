@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofblog.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516021800id_/http%3A//www.artofblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofblog.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114145621id_/http%3A//www.artofblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
