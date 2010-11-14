@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search4passion.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608101725id_/http%3A//www.search4passion.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search4passion.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114033312id_/http%3A//search4passion.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # 
 
