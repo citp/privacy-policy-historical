@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorysphere.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628025115id_/http%3A//www.directorysphere.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorysphere.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114082525id_/http%3A//www.directorysphere.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
