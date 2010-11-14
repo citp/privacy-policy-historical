@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webwire.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630153054id_/http%3A//www.webwire.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwire.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114021424id_/http%3A//www.webwire.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement – WebWire
 
 September 15, 2007
 
-Warmtone Corp. d/b/a WebWire respects its users’ privacy. We have created this Privacy Policy to help you understand how we collect, use, disclose, and safeguard your business, organizational and or personal information provided to us.
+Warmtone Corp., Technical Services Provider for WebWire, respects its users’ privacy. We have created this Privacy Policy to help you understand how we collect, use, disclose, and safeguard your business, organizational and or personal information provided to us.
 
 This Privacy Policy applies to information that we obtain in connection with your use of the WebWire website as it concerns your registration as a user of the WebWire service and submission(s) of news releases and press releases to the WebWire service and recipients, including the use of our online fee collection processes.
 
@@ -26,7 +26,7 @@ All business, organizational and or personal data we collect during the registra
 
 ### Our Disclosure of Your Information
 
-In no way does Warmtone Corp. d/b/a WebWire sell or offer your data to outside entities for the purpose of solicitation or communications in any way. Your data is our data, and it is kept internal for our efforts only. We may disclose business, organizational and or personal information to respond to legal requirements, enforce our policies, or protect anyone’s rights, property, or safety.
+In no way does Warmtone Corp., Technical Services Provider for WebWire, sell or offer your data to outside entities for the purpose of solicitation or communications in any way. Your data is our data, and it is kept internal for our efforts only. We may disclose business, organizational and or personal information to respond to legal requirements, enforce our policies, or protect anyone’s rights, property, or safety.
 
 ### Cookies 
 
@@ -56,7 +56,7 @@ This site is not directed to children. We do not knowingly collect personally id
 
 ### Business Transfers
 
-Warmtone Corp. d/b/a WebWire may sell, transfer or otherwise share some or all of its assets in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. We will use our reasonable efforts to require our successor to continue to protect your information as set forth in this Privacy Policy. 
+Warmtone Corp., Technical Services Provider for WebWire, may sell, transfer or otherwise share some or all of its assets in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. We will use our reasonable efforts to require our successor to continue to protect your information as set forth in this Privacy Policy. 
 
 ### Privacy Errors
 
