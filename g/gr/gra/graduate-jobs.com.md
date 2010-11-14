@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605152643id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114021611id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
 
 # graduate-jobs.com - graduate jobs UK and graduate recruitment
 
@@ -6,17 +6,18 @@
 
 _This is extracted from our_ [full terms and conditions](https://web.archive.org/gco/tc.jsp)
 
-This policy sets out the approach taken by graduate-jobs.com UK Ltd ("the Company" "We", "Us", "Our") to the personal information of users of graduate-jobs.com ("the Site"). By accessing and posting information on the Site, you agree to the terms set out in this policy. Privacy and confidentiality are at the heart of our service. The Company will only record your personal data as set out in this policy. We will not give, rent, sell or trade any of your identifiable personal information.
+This policy sets out the approach taken by graduate-jobs.com UK Ltd ("the Company" "We", "Us", "Our") to the personal information of users of graduate-jobs.com ("the Site"). By accessing and posting information on the site, you agree to the terms set out in this policy. Privacy and confidentiality are at the heart of our service. The Company will only record your personal data as set out in this policy. We will not give, rent, sell or trade any of your identifiable personal information.
 
 ### How to contact us
 
 graduate-jobs.com UK Ltd  
 United House  
-North Road  
-London  
+LONDON  
 N7 9DP
 
-telephone: +44 (0)20 7609 5400
+registered number: 03928623
+
+telephone: 020 7609 5400 
 
 email: [info@graduate-jobs.com](mailto:info@graduate-jobs.com)
 
@@ -50,4 +51,4 @@ The Company uses encryption and authentication tools to protect your sensitive p
 
 For the purposes of the Data Protection Act 1998, by accessing and posting personal information on the Site, you consent to the processing of personal data provided by you to the Company, by the Company, Clients and Agents. You are aware that your personal data may be viewed and downloaded by persons who present themselves as Clients or Agents (and who may be based outside the UK and the EEA), and you also consent to the transfer of your personal data outside the EEA for this purpose.
 
-[Login or Sign up for graduate jobs](https://web.archive.org/gjs/js009.jsp)
+[ Login or Sign up for graduate jobs ](https://web.archive.org/gjs/js009.jsp)
