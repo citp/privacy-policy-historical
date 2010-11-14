@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorius.net privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610095025id_/http%3A//www.tutorius.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorius.net privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115005017id_/http%3A//www.tutorius.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Tutorial and Design Idea on tutorius.net
 
