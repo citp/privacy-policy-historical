@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404022256id_/http%3A//www.vayama.com/jsp/aboutUs/privacy.jsp%3Fs%3D3856077) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114022809id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
 
 # vayama | privacy
 
-### vayama privacy policy
-
 We have created this Privacy Policy to demonstrate our firm commitment to your privacy and security. Vayama ("vayama") pledges to protect you with our Privacy Policy which defines our policies on the collection, use and protection of personal information of vayama users. We encourage you to read this Privacy Policy carefully. This Privacy Policy is effective October 2, 2007 and vayama may update this Privacy Policy from time to time. If we decide to make any material changes to this Policy we will notify you by placing a prominent notice on our website. By using our website or by submitting any personal information to us, you agree that vayama may collect, use and disclose your personal information in accordance with this Privacy Policy and as permitted or required by law
 
-AirTrade International, Inc. is a licensee of the **TRUSTe** Privacy Program. **TRUSTe** is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vayama.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**.
+AirTrade International, Inc. is a licensee of the **TRUSTe** Privacy Program. **TRUSTe** is an independent, non-profit organization whose mission is to build users? trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vayama.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**.
 
 If you have questions or concerns regarding this statement, you should first contact Ellen Joosten at [ellenj@vayama.com.](mailto:ellenj@vayama.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
 
@@ -19,7 +17,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 When you are browsing our website, you are not required to provide any personal information unless and until you choose to create an account with vayama, make a purchase or sign up for one of our other services.
 
-We use a variety of technologies including session data, cookies, log files, and web beacons to better understand how our website is navigated, how many visitors click on certain pages, how long and how frequently visitors visit our website, the types of searches that occur, the browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our website. Information specifically about you, called “Personally identifiable information” or “PII” is not captured and retained when capturing data about our website.
+We use a variety of technologies including session data, cookies, log files, and web beacons to better understand how our website is navigated, how many visitors click on certain pages, how long and how frequently visitors visit our website, the types of searches that occur, the browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our website. Information specifically about you, called "Personally identifiable information" or "PII" is not captured and retained when capturing data about our website.
 
 ### Third-Party Tracking Services
 
@@ -29,9 +27,9 @@ One of our goals in collecting this information is to help customize your user e
 
 ### Web Beacons
 
-We and our third-party tracking service partners employ a software technology called Web beacons that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+We and our third-party tracking service partners employ a software technology called Web beacons that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-We may also use Web beacon in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.” 
+We may also use Web beacon in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out." 
 
 ### (b) when you are opening a vayama account
 
@@ -43,9 +41,9 @@ Some of our business partners (e.g., tracking utilities) use cookies on our site
 
 You are in charge of your vayama account, which means that you can terminate your account or change your account information at all times by following the next steps.
 
-  * • Go to the My Profile area in the My Account (link) area.
-  * • Select the area where you want to make a change or deletion.
-  * • Click on "Edit" or "Delete" to the right of the information you wish to change or delete
+  * Go to the My Profile area in the My Account (link) area.
+  * Select the area where you want to make a change or deletion.
+  * Click on "Edit" or "Delete" to the right of the information you wish to change or delete
 
 
 
@@ -79,10 +77,12 @@ You can always choose not to provide your personal information to us; however so
 
 We may disclose the personal information that we collected from you in any of the following situations:
 
-  * • if this is necessary for providing services to you;
-  * • if we have received your permission beforehand;
-  * • in accordance with this Privacy Policy; or
-  * • in very special circumstances, such as when we believe that such disclosure is required by law.
+  * if this is necessary for providing services to you;
+  * if we have received your permission beforehand;
+  * in accordance with this Privacy Policy; or
+  * in very special circumstances, such as when we believe that such disclosure is required by law.
+
+
 
 To successfully fulfill and complete your booking we must provide certain personal information of yours to third parties such as airlines, hotels, car-rental agencies, or other involved third parties.
 
@@ -104,11 +104,10 @@ When you click through to a third party website, our Privacy Policy no longer ap
 
 Vayama does not sell travel or other services for purchase by children and does not knowingly collect information from people under the age of 18. If we become aware of the fact that a minor is attempting to submit personal information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
 
-If you have questions about our Privacy Policies, please contact us at: 1.888.829.2621 or 1.650.265.1856
+If you have questions about our Privacy Policies, please contact us at: 
 
-    * Vayama
-    * 1975 West El Camino Real
-    * Suite 204
-    * Mountain View, CA 94040
-
-
+**Airtrade International Inc.  
+1975 West El Camino Real  
+Suite 204  
+Mountain View, CA 94040  
+1.650.265.1856 **
