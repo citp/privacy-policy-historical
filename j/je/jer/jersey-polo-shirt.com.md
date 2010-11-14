@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jersey-polo-shirt.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426031818id_/http%3A//www.jersey-polo-shirt.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jersey-polo-shirt.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114113436id_/http%3A//www.jersey-polo-shirt.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Jersey Polo Shirt Store
 
