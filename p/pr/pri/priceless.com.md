@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceless.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410233134id_/http%3A//www.priceless.com/us/personal/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceless.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114095952id_/http%3A//www.priceless.com/us/personal/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice | priceless.com
 
