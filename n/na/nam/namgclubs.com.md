@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namgclubs.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522133846id_/http%3A//www.namginc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namgclubs.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114131632id_/http%3A//www.namginc.com/privacy_policy.html) for the most accurate reproduction.*
 
 # North American Affinity Clubs, Inc
 
@@ -22,7 +22,7 @@ This Privacy Policy applies to our information-gathering and dissemination pract
 
 ·         National Home Gardening Club ([gardeningclub.com](javascript:openWindow2\('http://www.gardeningclub.com'\);)) 
 
-·         Golf Partners Club ( _[golfpartnersclub.com](file:///C:/Documents%20and%20Settings/ejacobso/Local%20Settings/Temporary%20Internet%20Files/msouder/Local%20Settings/Temporary%20Internet%20Files/OLK1D/golfpartnersclub.com)_ ) 
+·         Golf Partners Club ( _[golfpartnersclub.com](javascript:openWindow2\('http://www.golfpartnersclub.com'\);)_ ) 
 
 ·         Cooking Club of America ([cookingclub.com](javascript:openWindow2\('http://www.cookingclub.com'\);)) 
 
@@ -32,9 +32,9 @@ This Privacy Policy applies to our information-gathering and dissemination pract
 
 ·         The History Channel Club ([thehistorychannelclub.com](javascript:openWindow2\('http://visitors.thehistorychannelclub.com'\);)) 
 
-·         Motorcycle Riders Club of America([motorcycleridersclubofamerica.com](http://motorcycleridersclubofamerica.com/)) 
+·         Motorcycle Riders Club of America([motorcycleridersclubofamerica.com](javascript:openWindow2\('http://motorcycleridersclubofamerica.com/'\);)) 
 
-·         MLB Insiders Club ([mlbinsidersclub.com](http://mlbinsidersclub.com/)) 
+·         MLB Insiders Club ([mlbinsidersclub.com](javascript:openWindow2\('http://mlbinsidersclub.com/'\);)) 
 
 ·         North American Membership Group ([NAMGinc.com](javascript:openWindow2\('http://www.namginc.com'\);)) 
 
