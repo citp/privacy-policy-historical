@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drift.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515062534id_/http%3A//www.subienet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drift.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114092757id_/http%3A//www.subienet.com/privacy.php) for the most accurate reproduction.*
 
 # Subie Networks - Subaru Forums, Subaru Videos, and Subaru Resources
 
