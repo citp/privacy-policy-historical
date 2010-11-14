@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneneighborhood.org privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010142731id_/http%3A//oneneighborhood.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneneighborhood.org privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114081412id_/http%3A//www.oneneighborhood.org/privacy) for the most accurate reproduction.*
 
 # One Neighborhood | OneNeighborhood | Philadelphia homelessness | Philly Homeless
 
