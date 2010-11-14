@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourchinalove.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402220259id_/http%3A//yourchinalove.com/go/page/privacy.html%3Fm%3D%26site%3Dffz%26dcb%3Dyourchinalove%26od%3Dyourchinalove%26who%3Dr%2CGNSpEz59ZxZe_Ig6LgObNWyvRzw1VQC31B7j/VW5YfYaATRoaOV1ovgonGxSn85jwgQ9h6f0Z6sgiFZgPF0iuVK6It0L//XxBsRyCS0qgkcg5QBTpKfmKPRSUCFq2V3G9bJhwdL4eVC9w7Mbp8U51XfxJVBu/9nPcIzk2MkJnP4-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourchinalove.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114060359id_/http%3A//yourchinalove.com/go/page/privacy.html%3Fdcb%3Dyourchinalove%26od%3Dyourchinalove) for the most accurate reproduction.*
 
 # Your China Love PRIVACY POLICY
 
