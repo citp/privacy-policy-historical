@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the poweredbyvirtuemart.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426051522id_/http%3A//www.poweredbyvirtuemart.com/Powered-by-VirtueMart/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweredbyvirtuemart.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114061416id_/http%3A//www.poweredbyvirtuemart.com/Powered-by-VirtueMart/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Powered by VirtueMart VirtueMart Themes
-
-### Follow us on Twitter!
-
-We have some BIG changes for our next themes! We have a cursor zoom option on the flypages and some cool AJAX action on the category pages! 
-
-Finally finished the new NetShops VirtueMart theme today! 
-
-Magento Commerce virtuemart theme, with tabbed content, was just released! 
-
-### What people are saying...
-
-_"Working with Ten Day Design has been a charm. Their low price template designs for the VirtueMart shopping system are unbelievable. The professional yet seamless Joomla! integration makes these themes and layouts the best on the web for any online VirtueMart shop. But it doesn't stop there. Professional, fast, awesome support and 10 out of 10 work - I will use Ten Day Design for all my VirtueMart theme needs!"_
-
- **Wade Hammes, owner of FITnoke.com**
-
-  
-
-
-| 
+# Privacy Policy | Powered by VirtueMart VirtueMart Themes and Templates
 
 #### POWERED BY VIRTUEMART Statement of Privacy.
 
@@ -43,6 +24,4 @@ POWERED BY VIRTUEMART is committed to protecting the security of your personal i
 
 #### Changes to this Statement
 
-POWERED BY VIRTUEMART will occasionally update this Statement of Privacy to reflect company and customer feedback. If there are material changes to this Statement or in how POWERED BY VIRTUEMART will use your personal information, POWERED BY VIRTUEMART will prominently post such changes prior to implementing the change. POWERED BY VIRTUEMART encourages you to periodically review this Statement to be informed of how POWERED BY VIRTUEMART is protecting your information.  
-  
----|---
+POWERED BY VIRTUEMART will occasionally update this Statement of Privacy to reflect company and customer feedback. If there are material changes to this Statement or in how POWERED BY VIRTUEMART will use your personal information, POWERED BY VIRTUEMART will prominently post such changes prior to implementing the change. POWERED BY VIRTUEMART encourages you to periodically review this Statement to be informed of how POWERED BY VIRTUEMART is protecting your information.
