@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstation.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530030319id_/http%3A//uk.playstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstation.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114181006id_/http%3A//uk.playstation.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy
 
