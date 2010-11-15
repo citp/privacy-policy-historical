@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jennyreviews.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710040823id_/http%3A//www.jennyreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennyreviews.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115134413id_/http%3A//www.jennyreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JennyReviews.com
 
