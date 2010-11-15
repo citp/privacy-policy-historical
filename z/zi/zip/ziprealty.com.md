@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126070239id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115055826id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - ZipRealty Real Estate
 
 **ZipRealty's Privacy Policy**
 
-Last updated: 12/15/09 
+Last updated: 07/13/10 
 
 ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you understand how we collect and use information on the ZipRealty website (the "Site"). 
 
@@ -28,7 +28,7 @@ Depending on your use of the Site and the services you request from ZipRealty, w
   * To improve the content and navigability of the Site. 
   * To solicit your feedback about our services. 
   * To alert you to new Site features, promotions, services, and to deliver other information from which you may opt out. 
-  * To enforce the [Terms of Use](http://www.ziprealty.com/footer_pages/terms_of_use.jsp). 
+  * To enforce the [Terms of Use](https://web.archive.org/footer_pages/terms_of_use.jsp). 
 
 
 
@@ -44,13 +44,13 @@ ZipRealty may transmit your personally identifiable information to third parties
 
 You may choose to work with companies that are not affiliated with or related to ZipRealty, including without limitation lending institutions, title companies, insurers, appraisers, home warranty companies and other service providers, in connection with your real estate transaction. These companies may each have their own privacy policies governing how they handle your personally identifiable information. ZipRealty accepts no responsibility or liability for third party privacy policies or the actions of any third party with respect to your personally identifiable information. 
 
-We may also share your information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the [Terms of Use](http://www.ziprealty.com/footer_pages/terms_of_use.jsp), or when we believe that doing so may protect your safety or the safety of others. 
+We may also share your information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the [Terms of Use](https://web.archive.org/footer_pages/terms_of_use.jsp), or when we believe that doing so may protect your safety or the safety of others. 
 
 Information that is de-identified (stripped of any information that could be used to identify you) may be used by ZipRealty for any reason and shared freely with affiliates, the press, partners and other third parties. This information is usually aggregated (combined with information from many other users), and may include information such as Site traffic patterns, trends, demographics, search patterns and other information. 
 
 **Third Party Advertising**
 
-Third-party advertisers may serve you ads when you visit the Site. Some of these companies may use information about your visits to ZipRealty and other websites in order to provide advertisements about goods and services that may be of interest to you. 
+Third-party advertisers may serve you ads when you visit the Site. Some of these companies may use information about your visits to ZipRealty and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this type of advertising, you can visit www.networkadvertising.org. 
 
 **How We Use Cookies**
 
