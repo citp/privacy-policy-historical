@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the demosphere.com privacy policy that was archived on 2010-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516071136id_/http%3A//www.demosphere.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the demosphere.com privacy policy that was archived on 2010-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101115075447id_/http%3A//www.demosphere.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
-	  <base href="http://www.demosphere.co.uk/">
+	  <base href="http://www.demosphere.com/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="information, website, personal, privacy, policy, client, websites, demosphere, cookies, identifiable, personally, collect, programs, child, provide">
@@ -12,10 +12,8 @@
   <title>Privacy Policy - Demosphere International, Inc.</title>
   <link rel="stylesheet" href="/plugins/system/jceutilities/css/jceutilities-220.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/jceutilities/themes/standard/css/style.css" type="text/css">
-  <link rel="stylesheet" href="/components/com_jcomments/tpl/default/style.css?v=10" type="text/css">
-  <link rel="stylesheet" href="http://www.demosphere.co.uk/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
-  <link rel="stylesheet" href="modules/mod_tweets/tmpl/tweets.css" type="text/css">
-  <script type="text/javascript" src="/plugins/system/cdscriptegrator/libraries/jquery/js/jsloader.php?files[]=jquery-latest.packed.js&amp;files[]=jquery-noconflict.js"></script>
+  <link rel="stylesheet" href="http://www.demosphere.com/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/plugins/system/cdscriptegrator/libraries/jquery/js/jsloader.php?files[]=jquery-latest.packed.js&amp;files[]=jquery-noconflict.js"></script>
   <script type="text/javascript" src="/plugins/system/cdscriptegrator/libraries/jquery/js/ui/jsloader.php?file=ui.core"></script>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/plugins/system/jceutilities/js/mediaobject.js"></script>
@@ -26,8 +24,82 @@
   <script type="text/javascript">
 	MediaObject.init({'flash':"10,0,22,87",'windowmedia':"5,1,52,701",'quicktime':"6,0,2,0",'realmedia':"7,0,0,0",'shockwave':"8,5,1,0"});window.addEvent('domready', function(){var jcepopup=new JCEUtilities({'popup':{'legacy':0,'resize':1,'icons':1,'overlay':1,'overlayopacity':0.8,'overlaycolor':"#000000",'fadespeed':500,'scalespeed':500,'hideobjects':1,'scrollpopup':1,'theme':"standard",'themecustom':"",'themepath':"plugins/system/jceutilities/themes"},'tootlip':{'classname':"tooltip",'opacity':1,'speed':150,'position':"br",'offsets':"{'x': 16, 'y': 16}"},'imgpath':"plugins/system/jceutilities/img",'pngfix':0,'wmode':0});});
   </script>
-  <script type="text/javascript">var YOOeffects = { url: 'http://www.demosphere.co.uk/plugins/system/yoo_effects/lightbox/' };</script>
-<script type="text/javascript" src="http://www.demosphere.co.uk/plugins/system/yoo_effects/lightbox/shadowbox_packed.js"></script>
+  <script type="text/javascript">var YOOeffects = { url: 'http://www.demosphere.com/plugins/system/yoo_effects/lightbox/' };</script>
+<script type="text/javascript" src="http://www.demosphere.com/plugins/system/yoo_effects/lightbox/shadowbox_packed.js"></script>
+  <!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+
+<script type="text/javascript">
+	//<![CDATA[
+	function twitterCallbackId57(twitters) {
+
+	  var statusHTML = [];
+	  for (var i=0; i<twitters.length; i++){
+	    var username = twitters[i].user.screen_name;
+	    var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+	      return '<a href="'+url+'">'+url+'</a>';
+	    }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+	      return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
+	    });
+	    
+	    if(i%2==1) var liClass = 'Even'; else var liClass = 'Odd';
+	    
+	    var liOutput = '\
+		    <li class="lt'+liClass+'">\
+			    <span class="ltUserStatus">'+status+'</span>\
+			    <br />\
+			    <a class="ltStatusTimestamp" href="http://twitter.com/'+username+'/statuses/'+twitters[i].id+'">\
+			    	'+relative_time(twitters[i].created_at)+'\
+			    </a>\
+		    </li>\
+	    ';
+	    
+	    statusHTML.push(liOutput);
+	  }
+	  
+	  setTimeout(function(){document.getElementById('ltUpdateId57').innerHTML = statusHTML.join('');},2000);
+	}
+	
+	function relative_time(time_value) {
+	  var values = time_value.split(" ");
+	  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+	  var parsed_date = Date.parse(time_value);
+	  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+	  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+	  delta = delta + (relative_to.getTimezoneOffset() * 60);
+	
+	  if (delta < 60) {
+	    return 'less than a minute ago';
+	  } else if(delta < 120) {
+	    return 'about a minute ago';
+	  } else if(delta < (60*60)) {
+	    return (parseInt(delta / 60)).toString() + ' minutes ago';
+	  } else if(delta < (120*60)) {
+	    return 'about an hour ago';
+	  } else if(delta < (24*60*60)) {
+	    return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
+	  } else if(delta < (48*60*60)) {
+	    return '1 day ago';
+	  } else {
+	    return (parseInt(delta / 86400)).toString() + ' days ago';
+	  }
+	}
+	//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+	window.addEvent('domready', function() {
+	  var twitterJson = 'http://twitter.com/statuses/user_timeline/demosphere.json?callback=twitterCallbackId57&count=3';
+		var twitterScript = document.createElement('script');
+		twitterScript.setAttribute('charset','utf-8');
+		twitterScript.setAttribute('type','text/javascript');
+		twitterScript.setAttribute('src',twitterJson);
+		var b = document.getElementsByTagName('body')[0];
+		b.appendChild(twitterScript);
+	});
+	//]]>
+</script>
+
+<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
 
   	  <link href="/index.php?option=com_lyftenbloggie&amp;task=feed&amp;type=rss&amp;Itemid=18" rel="alternate" type="application/rss+xml" title="RSS 1.0">
   <link href="/index.php?option=com_lyftenbloggie&amp;task=feed&amp;type=rss2&amp;Itemid=18" rel="alternate" type="application/rss+xml" title="RSS 2.0">
@@ -72,7 +144,7 @@
 </form>
 						</div>	
 						<div class="social">
-							follow us: 							<a href="http://twitter.com/demosphere" target="_blank"><img src="templates/images/twitterIcon.jpg" alt="twitter"></a> <a href="http://www.facebook.com/demosphere" target="_blank"><img src="templates/images/facebookIcon.jpg" alt="facebook"></a> <a href="index.php?option=com_lyftenbloggie&amp;task=feed&amp;type=rss2&amp;Itemid=18" rel="alternate" type="application/rss+xml" title="RSS 2.0"><img src="templates/images/rssIcon.jpg" alt="blog"></a>
+							follow us: 							<a href="http://twitter.com/demosphere" target="_blank"><img src="/templates/images/twitterIcon.jpg" alt="twitter"></a> <a href="http://www.facebook.com/demosphere" target="_blank"><img src="/templates/images/facebookIcon.jpg" alt="facebook"></a> <a href="/demosphere-blog/feed.html?type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0"><img src="/templates/images/rssIcon.jpg" alt="blog"></a>
 						</div>
 						<div class="clear"></div>
 					</div> <!-- headerTop ends -->
@@ -84,7 +156,7 @@
 					</div> <!-- headerMiddle ends -->
 					<div class="headerBottom">	
 						<div id="nav">
-						<ul class="menu"><li class="parent item3"><a href="/solutions/solutions-overview.html"><span>Solutions</span></a><ul><li class="item120"><a href="/solutions/solutions-overview.html"><span>Solutions Overview</span></a></li><li class="item9"><a href="/solutions/webwriter.html"><span>WebWriter®</span></a></li><li class="parent item175"><a href="/solutions/online-registration.html"><span>Online Registration</span></a><ul><li class="item145"><a href="/solutions/upward-preferred-online-registration-vendor.html"><span>Upward Preferred Online Registration Vendor</span></a></li></ul></li><li class="item174"><a href="/solutions/league-scheduling.html"><span>League Scheduling</span></a></li><li class="item173"><a href="/solutions/tournament-management.html"><span>Tournament Management</span></a></li><li class="item13"><a href="/solutions/player-profiles.html"><span>Player Profiles</span></a></li><li class="item14"><a href="/solutions/demosphere-webmail.html"><span>Demosphere Webmail</span></a></li><li class="item15"><a href="/solutions/email-marketing.html"><span>Email Marketing</span></a></li><li class="item16"><a href="/solutions/governing-body-services.html"><span>Governing Body Services</span></a></li><li class="parent item17"><a href="/solutions/recommendations.html"><span>Recommendations</span></a><ul><li class="item168"><a href="/solutions/rainedout.html"><span>RainedOut</span></a></li><li class="item165"><a href="/contact/glance.html"><span>Glance</span></a></li><li class="item167"><a href="/solutions/teamsnap-referral-program.html"><span>TeamSnap</span></a></li><li class="item169"><a href="/support/demosphere-system-status.html"><span>Demosphere System Status</span></a></li></ul></li></ul></li><li class="parent item4"><a href="/news/news.html"><span>News</span></a><ul><li class="item18"><a href="/news/demosphere-blog.html"><span>Demosphere Blog</span></a></li><li class="parent item19"><a href="/newsletter/extratime-newsletter.html"><span>ExtraTime Newsletter</span></a><ul><li class="item65"><a href="/newsletter/extratime-vol-1-issue-1.html"><span>ExtraTime - vol. 1 issue 1</span></a></li><li class="item66"><a href="/newsletter/extratime-vol-1-issue-2.html"><span>ExtraTime - vol. 1 issue 2</span></a></li><li class="item67"><a href="/newsletter/extratime-vol-2-issue-1.html"><span>ExtraTime - vol. 2 issue 1</span></a></li><li class="item68"><a href="/newsletter/extratime-vol-2-issue-2.html"><span>ExtraTime - vol. 2 issue 2</span></a></li><li class="item69"><a href="/newsletter/extratime-vol-2-issue-3.html"><span>ExtraTime - vol. 2 issue 3</span></a></li><li class="item70"><a href="/newsletter/extratime-vol-2-issue-4.html"><span>ExtraTime - vol. 2 issue 4</span></a></li><li class="item71"><a href="/newsletter/extratime-vol-2-issue-5.html"><span>ExtraTime - vol. 2 issue 5</span></a></li><li class="item72"><a href="/newsletter/extratime-vol-2-issue-6.html"><span>ExtraTime - vol. 2 issue 6</span></a></li><li class="item73"><a href="/newsletter/extratime-vol-2-issue-7.html"><span>ExtraTime - vol. 2 issue 7</span></a></li><li class="item74"><a href="/newsletter/extratime-vol-2-issue-8.html"><span>ExtraTime - vol. 2 issue 8</span></a></li><li class="item75"><a href="/newsletter/extratime-vol-2-issue-9.html"><span>ExtraTime - vol. 2 issue 9</span></a></li><li class="item76"><a href="/newsletter/extratime-vol-2-issue-10.html"><span>ExtraTime - vol. 2 issue 10</span></a></li><li class="item77"><a href="/newsletter/extratime-vol-2-issue-11.html"><span>ExtraTime - vol. 2 issue 11</span></a></li><li class="item78"><a href="/newsletter/extratime-vol-2-issue-12.html"><span>ExtraTime - vol. 2 issue 12</span></a></li><li class="item79"><a href="/newsletter/extratime-vol-2-issue-13.html"><span>ExtraTime - vol. 2 issue 13</span></a></li><li class="item80"><a href="/newsletter/extratime-vol-2-issue-14.html"><span>ExtraTime - vol. 2 issue 14</span></a></li><li class="item81"><a href="/newsletter/extratime-vol-2-issue-15.html"><span>ExtraTime - vol. 2 issue 15</span></a></li><li class="item82"><a href="/newsletter/extratime-vol-2-issue-16.html"><span>ExtraTime - vol. 2 issue 16</span></a></li><li class="item83"><a href="/newsletter/extratime-vol-3-issue-1.html"><span>ExtraTime - vol. 3 issue 1</span></a></li><li class="item84"><a href="/newsletter/extratime-vol-3-issue-2.html"><span>ExtraTime - vol. 3 issue 2</span></a></li><li class="item85"><a href="/newsletter/extratime-vol-3-issue-3.html"><span>ExtraTime - vol. 3 issue 3</span></a></li><li class="item86"><a href="/newsletter/extratime-vol-3-issue-4.html"><span>ExtraTime - vol. 3 issue 4</span></a></li><li class="item87"><a href="/newsletter/extratime-vol-3-issue-5.html"><span>ExtraTime - vol. 3 issue 5</span></a></li><li class="item88"><a href="/newsletter/extratime-vol-3-issue-6.html"><span>ExtraTime - vol. 3 issue 6</span></a></li><li class="item89"><a href="/newsletter/extratime-vol-3-issue-7.html"><span>ExtraTime - vol. 3 issue 7</span></a></li><li class="item90"><a href="/newsletter/extratime-vol-3-issue-8.html"><span>ExtraTime - vol. 3 issue 8</span></a></li><li class="item91"><a href="/newsletter/extratime-vol-3-issue-9.html"><span>ExtraTime - vol. 3 issue 9</span></a></li><li class="item92"><a href="/newsletter/extratime-vol-3-issue-10.html"><span>ExtraTime - vol. 3 issue 10</span></a></li><li class="item93"><a href="/newsletter/extratime-vol-3-issue-11.html"><span>ExtraTime - vol. 3 issue 11</span></a></li><li class="item94"><a href="/newsletter/extratime-vol-3-issue-12.html"><span>ExtraTime - vol. 3 issue 12</span></a></li><li class="item95"><a href="/newsletter/extratime-vol-3-issue-13.html"><span>ExtraTime - vol. 3 issue 13</span></a></li><li class="item96"><a href="/newsletter/extratime-vol-3-issue-14.html"><span>ExtraTime - vol. 3 issue 14</span></a></li><li class="item97"><a href="/newsletter/extratime-vol-4-issue-1.html"><span>ExtraTime - vol. 4 issue 1</span></a></li><li class="item98"><a href="/newsletter/extratime-vol-4-issue-2.html"><span>ExtraTime - vol. 4 issue 2</span></a></li><li class="item99"><a href="/newsletter/extratime-vol-4-issue-3.html"><span>ExtraTime - vol. 4 issue 3</span></a></li><li class="item100"><a href="/newsletter/extratime-vol-4-issue-4.html"><span>ExtraTime - vol. 4 issue 4</span></a></li><li class="item101"><a href="/newsletter/extratime-vol-4-issue-5.html"><span>ExtraTime - vol. 4 issue 5</span></a></li><li class="item102"><a href="/newsletter/extratime-vol-4-issue-6.html"><span>ExtraTime - vol. 4 issue 6</span></a></li><li class="item103"><a href="/newsletter/extratime-vol-4-issue-7.html"><span>ExtraTime - vol. 4 issue 7</span></a></li><li class="item104"><a href="/newsletter/extratime-vol-4-issue-8.html"><span>ExtraTime - vol. 4 issue 8</span></a></li><li class="item105"><a href="/newsletter/extratime-vol-4-issue-9.html"><span>ExtraTime - vol. 4 issue 9</span></a></li><li class="item106"><a href="/newsletter/extratime-vol-4-issue-10.html"><span>ExtraTime - vol. 4 issue 10</span></a></li><li class="item107"><a href="/newsletter/extratime-vol-4-issue-11.html"><span>ExtraTime - vol. 4 issue 11</span></a></li><li class="item108"><a href="/newsletter/extratime-vol-4-issue-12.html"><span>ExtraTime - vol. 4 issue 12</span></a></li><li class="item109"><a href="/newsletter/extratime-vol-5-issue-1.html"><span>ExtraTime - vol. 5 issue 1</span></a></li></ul></li><li class="item20"><a href="/news/tournament-network.html"><span>Tournament Network</span></a></li><li class="item21"><a href="/news/maximize-demosphere.html"><span>Maximize Demosphere</span></a></li><li class="item147"><a href="/news/press-releases.html"><span>Press Releases</span></a></li><li class="item22"><a href="http://twitter.com/demosphere" target="_blank"><span>Twitter</span></a></li><li class="item23"><a href="http://www.facebook.com/demosphere/" target="_blank"><span>Facebook</span></a></li></ul></li><li class="parent item5"><a href="/clients/client-list.html"><span>Clients</span></a><ul><li class="item25"><a href="/clients/client-list.html"><span>Client List</span></a></li><li class="item24"><a href="/clients/testimonials.html"><span>Testimonials</span></a></li><li class="item26"><a href="/clients/success-stories.html"><span>Success Stories</span></a></li></ul></li><li class="parent item6"><a href="/about/about-demosphere.html"><span>About</span></a><ul><li class="item119"><a href="/about/about-demosphere.html"><span>About Demosphere</span></a></li><li class="item29"><a href="/our-team/our-team.html"><span>Our Team</span></a></li><li class="item30"><a href="/our-team/careers.html"><span>Careers</span></a></li></ul></li><li class="parent item7"><a href="/support/customer-support.html"><span>Support</span></a><ul><li class="item143"><a href="/support/customer-support.html"><span>General Support</span></a></li><li class="item28"><a href="/support/demosphere-software-users-group.html"><span>Software Users Group</span></a></li><li class="item63"><a href="javascript:popchat()"><span>Live Chat</span></a></li><li class="item170"><a href="/support/demosphere-system-status.html"><span>System Status</span></a></li></ul></li><li class="parent item8"><a href="/contact/contact-us.html"><span>Contact</span></a><ul><li class="item146"><a href="/contact/contact-us.html"><span>Contact Us</span></a></li><li class="item31"><a href="/contact/request-information.html"><span>Request Information</span></a></li></ul></li></ul>
+						<ul class="menu"><li class="parent item3"><a href="/solutions/solutions-overview.html"><span>Solutions</span></a><ul><li class="item120"><a href="/solutions/solutions-overview.html"><span>Solutions Overview</span></a></li><li class="item9"><a href="/solutions/webwriter.html"><span>WebWriter®</span></a></li><li class="parent item175"><a href="/solutions/online-registration.html"><span>Online Registration</span></a><ul><li class="item145"><a href="/solutions/upward-preferred-online-registration-vendor.html"><span>Upward Preferred Online Registration Vendor</span></a></li></ul></li><li class="item174"><a href="/solutions/league-scheduling.html"><span>League Scheduling</span></a></li><li class="item173"><a href="/solutions/tournament-management.html"><span>Tournament Management</span></a></li><li class="item13"><a href="/solutions/player-profiles.html"><span>Player Profiles</span></a></li><li class="item14"><a href="/solutions/demosphere-webmail.html"><span>Demosphere Webmail</span></a></li><li class="item15"><a href="/solutions/email-marketing.html"><span>Email Marketing</span></a></li><li class="item16"><a href="/solutions/governing-body-services.html"><span>Governing Body Services</span></a></li><li class="parent item17"><a href="/solutions/recommendations.html"><span>Recommendations</span></a><ul><li class="item168"><a href="/solutions/rainedout.html"><span>RainedOut</span></a></li><li class="item165"><a href="/contact/glance.html"><span>Glance</span></a></li><li class="item167"><a href="/solutions/teamsnap-referral-program.html"><span>TeamSnap</span></a></li><li class="item169"><a href="/support/demosphere-system-status.html"><span>Demosphere System Status</span></a></li></ul></li></ul></li><li class="parent item4"><a href="/news/news.html"><span>News</span></a><ul><li class="item18"><a href="/demosphere-blog.html"><span>Demosphere Blog</span></a></li><li class="parent item19"><a href="/newsletter/extratime-newsletter.html"><span>ExtraTime Newsletter</span></a><ul><li class="item65"><a href="/newsletter/extratime-vol-1-issue-1.html"><span>ExtraTime - vol. 1 issue 1</span></a></li><li class="item66"><a href="/newsletter/extratime-vol-1-issue-2.html"><span>ExtraTime - vol. 1 issue 2</span></a></li><li class="item67"><a href="/newsletter/extratime-vol-2-issue-1.html"><span>ExtraTime - vol. 2 issue 1</span></a></li><li class="item68"><a href="/newsletter/extratime-vol-2-issue-2.html"><span>ExtraTime - vol. 2 issue 2</span></a></li><li class="item69"><a href="/newsletter/extratime-vol-2-issue-3.html"><span>ExtraTime - vol. 2 issue 3</span></a></li><li class="item70"><a href="/newsletter/extratime-vol-2-issue-4.html"><span>ExtraTime - vol. 2 issue 4</span></a></li><li class="item71"><a href="/newsletter/extratime-vol-2-issue-5.html"><span>ExtraTime - vol. 2 issue 5</span></a></li><li class="item72"><a href="/newsletter/extratime-vol-2-issue-6.html"><span>ExtraTime - vol. 2 issue 6</span></a></li><li class="item73"><a href="/newsletter/extratime-vol-2-issue-7.html"><span>ExtraTime - vol. 2 issue 7</span></a></li><li class="item74"><a href="/newsletter/extratime-vol-2-issue-8.html"><span>ExtraTime - vol. 2 issue 8</span></a></li><li class="item75"><a href="/newsletter/extratime-vol-2-issue-9.html"><span>ExtraTime - vol. 2 issue 9</span></a></li><li class="item76"><a href="/newsletter/extratime-vol-2-issue-10.html"><span>ExtraTime - vol. 2 issue 10</span></a></li><li class="item77"><a href="/newsletter/extratime-vol-2-issue-11.html"><span>ExtraTime - vol. 2 issue 11</span></a></li><li class="item78"><a href="/newsletter/extratime-vol-2-issue-12.html"><span>ExtraTime - vol. 2 issue 12</span></a></li><li class="item79"><a href="/newsletter/extratime-vol-2-issue-13.html"><span>ExtraTime - vol. 2 issue 13</span></a></li><li class="item80"><a href="/newsletter/extratime-vol-2-issue-14.html"><span>ExtraTime - vol. 2 issue 14</span></a></li><li class="item81"><a href="/newsletter/extratime-vol-2-issue-15.html"><span>ExtraTime - vol. 2 issue 15</span></a></li><li class="item82"><a href="/newsletter/extratime-vol-2-issue-16.html"><span>ExtraTime - vol. 2 issue 16</span></a></li><li class="item83"><a href="/newsletter/extratime-vol-3-issue-1.html"><span>ExtraTime - vol. 3 issue 1</span></a></li><li class="item84"><a href="/newsletter/extratime-vol-3-issue-2.html"><span>ExtraTime - vol. 3 issue 2</span></a></li><li class="item85"><a href="/newsletter/extratime-vol-3-issue-3.html"><span>ExtraTime - vol. 3 issue 3</span></a></li><li class="item86"><a href="/newsletter/extratime-vol-3-issue-4.html"><span>ExtraTime - vol. 3 issue 4</span></a></li><li class="item87"><a href="/newsletter/extratime-vol-3-issue-5.html"><span>ExtraTime - vol. 3 issue 5</span></a></li><li class="item88"><a href="/newsletter/extratime-vol-3-issue-6.html"><span>ExtraTime - vol. 3 issue 6</span></a></li><li class="item89"><a href="/newsletter/extratime-vol-3-issue-7.html"><span>ExtraTime - vol. 3 issue 7</span></a></li><li class="item90"><a href="/newsletter/extratime-vol-3-issue-8.html"><span>ExtraTime - vol. 3 issue 8</span></a></li><li class="item91"><a href="/newsletter/extratime-vol-3-issue-9.html"><span>ExtraTime - vol. 3 issue 9</span></a></li><li class="item92"><a href="/newsletter/extratime-vol-3-issue-10.html"><span>ExtraTime - vol. 3 issue 10</span></a></li><li class="item93"><a href="/newsletter/extratime-vol-3-issue-11.html"><span>ExtraTime - vol. 3 issue 11</span></a></li><li class="item94"><a href="/newsletter/extratime-vol-3-issue-12.html"><span>ExtraTime - vol. 3 issue 12</span></a></li><li class="item95"><a href="/newsletter/extratime-vol-3-issue-13.html"><span>ExtraTime - vol. 3 issue 13</span></a></li><li class="item96"><a href="/newsletter/extratime-vol-3-issue-14.html"><span>ExtraTime - vol. 3 issue 14</span></a></li><li class="item97"><a href="/newsletter/extratime-vol-4-issue-1.html"><span>ExtraTime - vol. 4 issue 1</span></a></li><li class="item98"><a href="/newsletter/extratime-vol-4-issue-2.html"><span>ExtraTime - vol. 4 issue 2</span></a></li><li class="item99"><a href="/newsletter/extratime-vol-4-issue-3.html"><span>ExtraTime - vol. 4 issue 3</span></a></li><li class="item100"><a href="/newsletter/extratime-vol-4-issue-4.html"><span>ExtraTime - vol. 4 issue 4</span></a></li><li class="item101"><a href="/newsletter/extratime-vol-4-issue-5.html"><span>ExtraTime - vol. 4 issue 5</span></a></li><li class="item102"><a href="/newsletter/extratime-vol-4-issue-6.html"><span>ExtraTime - vol. 4 issue 6</span></a></li><li class="item103"><a href="/newsletter/extratime-vol-4-issue-7.html"><span>ExtraTime - vol. 4 issue 7</span></a></li><li class="item104"><a href="/newsletter/extratime-vol-4-issue-8.html"><span>ExtraTime - vol. 4 issue 8</span></a></li><li class="item105"><a href="/newsletter/extratime-vol-4-issue-9.html"><span>ExtraTime - vol. 4 issue 9</span></a></li><li class="item106"><a href="/newsletter/extratime-vol-4-issue-10.html"><span>ExtraTime - vol. 4 issue 10</span></a></li><li class="item107"><a href="/newsletter/extratime-vol-4-issue-11.html"><span>ExtraTime - vol. 4 issue 11</span></a></li><li class="item108"><a href="/newsletter/extratime-vol-4-issue-12.html"><span>ExtraTime - vol. 4 issue 12</span></a></li><li class="item109"><a href="/newsletter/extratime-vol-5-issue-1.html"><span>ExtraTime - vol. 5 issue 1</span></a></li></ul></li><li class="item20"><a href="/news/tournament-network.html"><span>Tournament Network</span></a></li><li class="item21"><a href="/news/maximize-demosphere.html"><span>Maximize Demosphere</span></a></li><li class="item147"><a href="/news/press-releases.html"><span>Press Releases</span></a></li><li class="item22"><a href="http://twitter.com/demosphere" target="_blank"><span>Twitter</span></a></li><li class="item23"><a href="http://www.facebook.com/demosphere/" target="_blank"><span>Facebook</span></a></li></ul></li><li class="parent item5"><a href="/clients/client-list.html"><span>Clients</span></a><ul><li class="item25"><a href="/clients/client-list.html"><span>Client List</span></a></li><li class="item24"><a href="/clients/testimonials.html"><span>Testimonials</span></a></li><li class="item26"><a href="/clients/success-stories.html"><span>Success Stories</span></a></li></ul></li><li class="parent item6"><a href="/about/about-demosphere.html"><span>About</span></a><ul><li class="item119"><a href="/about/about-demosphere.html"><span>About Demosphere</span></a></li><li class="item29"><a href="/our-team/our-team.html"><span>Our Team</span></a></li><li class="item30"><a href="/our-team/careers.html"><span>Careers</span></a></li></ul></li><li class="parent item7"><a href="/support/customer-support.html"><span>Support</span></a><ul><li class="item143"><a href="/support/customer-support.html"><span>General Support</span></a></li><li class="item28"><a href="/support/demosphere-software-users-group.html"><span>Software Users Group</span></a></li><li class="item63"><a href="javascript:popchat()"><span>Live Chat</span></a></li><li class="item170"><a href="/support/demosphere-system-status.html"><span>System Status</span></a></li></ul></li><li class="parent item8"><a href="/contact/contact-us.html"><span>Contact</span></a><ul><li class="item146"><a href="/contact/contact-us.html"><span>Contact Us</span></a></li><li class="item31"><a href="/contact/request-information.html"><span>Request Information</span></a></li></ul></li></ul>
 						</div><!-- nav ends -->
 					</div> <!-- headerBottom ends -->
 				</div>
@@ -97,7 +169,7 @@
 						<div class="contentMiddle">
 														<div class="breadcrumbs">
 								<span class="breadcrumbs pathway">
-<a href="http://www.demosphere.co.uk/" class="pathway">Home</a> <img src="/images/M_images/arrow.png" alt=""> <a href="/" class="pathway">Home</a> <img src="/images/M_images/arrow.png" alt=""> Privacy Policy</span>
+<a href="http://www.demosphere.com/" class="pathway">Home</a> <img src="/images/M_images/arrow.png" alt=""> <a href="/" class="pathway">Home</a> <img src="/images/M_images/arrow.png" alt=""> Privacy Policy</span>
 
 							</div>
 							<div class="interiorMenu">
@@ -155,17 +227,17 @@
 <h3>A Parent's right to choose.</h3>
 <p>Parents and guardians have the right to consent to the collection and use of their child's personal information without consenting to the disclosure of that information to third parties.</p>
 <h3>Opt out.</h3>
-<p>You can let us know that you do not wish to receive information about events, products and services and special offers, or to have us share the personally identifiable information collected with third parties (other than to the extent necessary to fulfill your request to register and participate in Client programs), by contacting us at <a href="mailto:&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'mailto:';&#10; var suffix = '';&#10; var attribs = '';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy2096 = 'optout' + '@';&#10; addy2096 = addy2096 + 'demosphere' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + addy2096 + suffix + '\'' + attribs + '&gt;' );&#10; document.write( addy2096 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;&#10; &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;"><span style="color: #000000;">
+<p>You can let us know that you do not wish to receive information about events, products and services and special offers, or to have us share the personally identifiable information collected with third parties (other than to the extent necessary to fulfill your request to register and participate in Client programs), by contacting us at <a href="mailto:&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'mailto:';&#10; var suffix = '';&#10; var attribs = '';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy40033 = 'optout' + '@';&#10; addy40033 = addy40033 + 'demosphere' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + addy40033 + suffix + '\'' + attribs + '&gt;' );&#10; document.write( addy40033 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;&#10; &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;"><span style="color: #000000;">
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = 'm&#97;&#105;lt&#111;:';
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy74380 = '&#111;pt&#111;&#117;t' + '&#64;';
- addy74380 = addy74380 + 'd&#101;m&#111;sph&#101;r&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy74380 + suffix + '\'' + attribs + '>' );
- document.write( addy74380 );
+ var addy22011 = '&#111;pt&#111;&#117;t' + '&#64;';
+ addy22011 = addy22011 + 'd&#101;m&#111;sph&#101;r&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy22011 + suffix + '\'' + attribs + '>' );
+ document.write( addy22011 );
  document.write( '<\/a>' );
  //-->
  </script></span></a><a href="mailto:optout@demosphere.com">optout@demosphere.com</a> <script language="JavaScript" type="text/javascript">
@@ -192,10 +264,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy63220 = '&#111;pt&#111;&#117;t' + '&#64;';
- addy63220 = addy63220 + 'd&#101;m&#111;sph&#101;r&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy63220 + suffix + '\'' + attribs + '>' );
- document.write( addy63220 );
+ var addy86555 = '&#111;pt&#111;&#117;t' + '&#64;';
+ addy86555 = addy86555 + 'd&#101;m&#111;sph&#101;r&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy86555 + suffix + '\'' + attribs + '>' );
+ document.write( addy86555 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:optout@demosphere.com">optout@demosphere.com</a> <script language="JavaScript" type="text/javascript">
@@ -219,10 +291,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy99492 = '&#105;nf&#111;' + '&#64;';
- addy99492 = addy99492 + 'd&#101;m&#111;sph&#101;r&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy99492 + suffix + '\'' + attribs + '>' );
- document.write( addy99492 );
+ var addy4676 = '&#105;nf&#111;' + '&#64;';
+ addy4676 = addy4676 + 'd&#101;m&#111;sph&#101;r&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy4676 + suffix + '\'' + attribs + '>' );
+ document.write( addy4676 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:info@demosphere.com">info@demosphere.com</a> <script language="JavaScript" type="text/javascript">
@@ -246,7 +318,7 @@
 					</div>
 					<div class="contentBottom"></div>
 					<div class="partnersInterior">
-						<a href="http://www.demosphere.com/solutions/email-marketing.html"><img src="templates/images/ccLogo.png" alt="Constant Contact Logo"></a> <a href="http://www.cafepress.com"><img src="templates/images/cpLogo.png" alt="cafe press logo"></a> <a href="http://www.demosphere.com/solutions/rainedout.html"><img src="templates/images/roLogo.png" alt="rained out logo"></a> <a href="/solutions/teamsnap-referral-program.html"><img src="templates/images/tsLogo.png" alt="TeamSnap logo"></a>
+						<a href="http://www.demosphere.com/solutions/email-marketing.html"><img src="/templates/images/ccLogo.png" alt="Constant Contact Logo"></a> <a href="http://www.cafepress.com"><img src="/templates/images/cpLogo.png" alt="cafe press logo"></a> <a href="http://www.demosphere.com/solutions/rainedout.html"><img src="/templates/images/roLogo.png" alt="rained out logo"></a> <a href="/solutions/teamsnap-referral-program.html"><img src="/templates/images/tsLogo.png" alt="TeamSnap logo"></a>
 					</div>
 				</div><!-- interiorBodyLeft ends -->
 				<div class="interiorBodyRight">
@@ -295,7 +367,7 @@
 					<div class="clear"></div>
 					<div class="callTour">
 						<div class="callUs">
-							<a href="index.php?option=com_content&amp;view=article&amp;id=103:request-information&amp;catid=7&amp;Itemid=31" class="callUsButton" title="Contact Us"><span>Contact Us</span></a>
+							<a href="/contact/request-information.html" class="callUsButton" title="Contact Us"><span>Contact Us</span></a>
 							<p>	Contact us now for more information! </p>
 						</div>
 						<div class="takeTour">
@@ -310,63 +382,18 @@
 </a>
 						
 
-	
-		
-	<div class="tweet even">
-		
-			
-				
-					
-						
-	
-			
-				
-				
-		<div class="tweet-message">
-			Club Tips - Best Practices from Demosphere - <a href="http://p0.vresp.com/XeQ364" target="_blank">http://p0.vresp.com/XeQ364</a>		</div>
-		<div class="tweet-date">
-			ABOUT 7 HOURS AGO		</div>
-	  <div class="clear"></div>
-	</div>
-  <div class="clear"></div>
-	
-		
-	<div class="tweet odd">
-		
-			
-				
-					
-						
-	
-			
-				
-				
-		<div class="tweet-message">
-			Club Tips - Best Practices from Demosphere - <a href="http://p0.vresp.com/XeQ364" target="_blank">http://p0.vresp.com/XeQ364</a>		</div>
-		<div class="tweet-date">
-			Friday, 14 May 2010 09:19		</div>
-	  <div class="clear"></div>
-	</div>
-  <div class="clear"></div>
-	
-		
-	<div class="tweet even">
-		
-			
-				
-					
-						
-	
-			
-				
-				
-		<div class="tweet-message">
-			Voting ends TOMORROW for Demosphere's Support Through Sport Contest - over 1,500 have voted so far! <a href="http://bit.ly/b9W6nU" target="_blank">http://bit.ly/b9W6nU</a>		</div>
-		<div class="tweet-date">
-			Thursday, 13 May 2010 06:48		</div>
-	  <div class="clear"></div>
-	</div>
-  <div class="clear"></div>
+<!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+
+<div class="ltBlock">
+	<ul id="ltUpdateId57" class="ltBlockList">
+		<li class="ltBlockListLoader"><span><img style="position: relative; top: 4px; margin-right:5px;" src="/templates/images/ajax-loader.gif" border="0">Loading...</span>
+		<div class="clear"></div>
+		</li>
+	</ul>
+</div>
+
+<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
+
 
 					</div><!-- twitter ends -->
 				</div><!-- interiorBodyRight ends -->
@@ -378,7 +405,7 @@
 				<div id="footerBody">
 					<div class="footerLeft">
 						<h2>Site Navigation</h2>
-						<ul class="menu"><li class="parent active item1"><a href="http://www.demosphere.co.uk/"><span>Home</span></a><ul><li class="parent item32"><a href="index.php?Itemid=119"><span>About</span></a><ul><li class="item33"><a href="/our-team/our-team.html"><span>Our Team</span></a></li><li class="item34"><a href="/our-team/careers.html"><span>Careers</span></a></li></ul></li><li class="parent item35"><a href="/contact/contact-us.html"><span>Contact</span></a><ul><li class="item36"><a href="/contact/request-information.html"><span>Request Info</span></a></li></ul></li><li class="item37"><a href="/search.html"><span>Search</span></a></li><li id="current" class="active item38"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li></ul></li><li class="parent item39"><a href="index.php?Itemid=120"><span>Solutions</span></a><ul><li class="item40"><a href="/solutions/webwriter.html"><span>WebWriter®</span></a></li><li class="item41"><a href="/solutions/online-registration.html"><span>Online Registration</span></a></li><li class="item42"><a href="/solutions/league-scheduling.html"><span>League Scheduling</span></a></li><li class="item43"><a href="/solutions/tournament-management.html"><span>Tournament Management</span></a></li><li class="item44"><a href="/solutions/player-profiles.html"><span>Player Profiles</span></a></li><li class="item45"><a href="/solutions/demosphere-webmail.html"><span>Demosphere Webmail</span></a></li><li class="item46"><a href="/solutions/email-marketing.html"><span>Email Marketing</span></a></li><li class="item47"><a href="/solutions/governing-body-services.html"><span>Governing Body Services</span></a></li><li class="item48"><a href="/solutions/recommendations.html"><span>Recommendations</span></a></li></ul></li><li class="parent item49"><a href="/news/news.html"><span>News</span></a><ul><li class="item50"><a href="/news/demosphere-blog.html"><span>Demosphere Blog</span></a></li><li class="item51"><a href="/newsletter/extratime-newsletter.html"><span>ExtraTime Newsletter</span></a></li><li class="item52"><a href="/news/tournament-network.html"><span>Tournament Network</span></a></li><li class="item53"><a href="/news/maximize-demosphere.html"><span>Maximize Demosphere</span></a></li><li class="item148"><a href="/news/press-releases.html"><span>Press Releases</span></a></li><li class="item54"><a href="http://twitter.com/demosphere" target="_blank"><span>Twitter</span></a></li><li class="item55"><a href="http://www.facebook.com/demosphere/" target="_blank"><span>Facebook</span></a></li></ul></li><li class="parent item56"><a href="index.php?Itemid=25"><span>Clients</span></a><ul><li class="item58"><a href="/clients/client-list.html"><span>Client List</span></a></li><li class="item57"><a href="/clients/testimonials.html"><span>Testimonials</span></a></li><li class="item59"><a href="/clients/success-stories.html"><span>Success Stories</span></a></li><li class="parent item61"><a href="index.php?Itemid=143"><span>Support</span></a><ul><li class="item144"><a href="/support/customer-support.html"><span>General Support</span></a></li><li class="item62"><a href="/support/demosphere-software-users-group.html"><span>Software Users Group</span></a></li><li class="item64"><a href="javascript:popchat()"><span>Live Chat</span></a></li><li class="item171"><a href="/support/demosphere-system-status.html"><span>System Status</span></a></li></ul></li></ul></li></ul>
+						<ul class="menu"><li class="parent active item1"><a href="http://www.demosphere.com/"><span>Home</span></a><ul><li class="parent item32"><a href="/about/about-demosphere.html"><span>About</span></a><ul><li class="item33"><a href="/our-team/our-team.html"><span>Our Team</span></a></li><li class="item34"><a href="/our-team/careers.html"><span>Careers</span></a></li></ul></li><li class="parent item35"><a href="/contact/contact-us.html"><span>Contact</span></a><ul><li class="item36"><a href="/contact/request-information.html"><span>Request Info</span></a></li></ul></li><li class="item37"><a href="/search.html"><span>Search</span></a></li><li id="current" class="active item38"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li></ul></li><li class="parent item39"><a href="/solutions/solutions-overview.html"><span>Solutions</span></a><ul><li class="item40"><a href="/solutions/webwriter.html"><span>WebWriter®</span></a></li><li class="item41"><a href="/solutions/online-registration.html"><span>Online Registration</span></a></li><li class="item42"><a href="/solutions/league-scheduling.html"><span>League Scheduling</span></a></li><li class="item43"><a href="/solutions/tournament-management.html"><span>Tournament Management</span></a></li><li class="item44"><a href="/solutions/player-profiles.html"><span>Player Profiles</span></a></li><li class="item45"><a href="/solutions/demosphere-webmail.html"><span>Demosphere Webmail</span></a></li><li class="item46"><a href="/solutions/email-marketing.html"><span>Email Marketing</span></a></li><li class="item47"><a href="/solutions/governing-body-services.html"><span>Governing Body Services</span></a></li><li class="item48"><a href="/solutions/recommendations.html"><span>Recommendations</span></a></li></ul></li><li class="parent item49"><a href="/news/news.html"><span>News</span></a><ul><li class="item50"><a href="/demosphere-blog.html"><span>Demosphere Blog</span></a></li><li class="item51"><a href="/newsletter/extratime-newsletter.html"><span>ExtraTime Newsletter</span></a></li><li class="item52"><a href="/news/tournament-network.html"><span>Tournament Network</span></a></li><li class="item53"><a href="/news/maximize-demosphere.html"><span>Maximize Demosphere</span></a></li><li class="item148"><a href="/news/press-releases.html"><span>Press Releases</span></a></li><li class="item54"><a href="http://twitter.com/demosphere" target="_blank"><span>Twitter</span></a></li><li class="item55"><a href="http://www.facebook.com/demosphere/" target="_blank"><span>Facebook</span></a></li></ul></li><li class="parent item56"><a href="/clients/client-list.html"><span>Clients</span></a><ul><li class="item58"><a href="/clients/client-list.html"><span>Client List</span></a></li><li class="item57"><a href="/clients/testimonials.html"><span>Testimonials</span></a></li><li class="item59"><a href="/clients/success-stories.html"><span>Success Stories</span></a></li><li class="parent item61"><a href="/support/customer-support.html"><span>Support</span></a><ul><li class="item144"><a href="/support/customer-support.html"><span>General Support</span></a></li><li class="item62"><a href="/support/demosphere-software-users-group.html"><span>Software Users Group</span></a></li><li class="item64"><a href="javascript:popchat()"><span>Live Chat</span></a></li><li class="item171"><a href="/support/demosphere-system-status.html"><span>System Status</span></a></li></ul></li></ul></li></ul>
 					</div>
 					<div class="footerRight">
 						<div class="newsletter">
@@ -395,7 +422,7 @@
 								</div>
 							</div>
 							<div class="credits">
-								<img src="templates/images/footerLogo.png" alt="footerLogo">
+								<img src="/templates/images/footerLogo.png" alt="footerLogo">
 <p>© Demosphere International, Inc. All rights reserved.</p>
 							</div>
 						</div><!-- newsletter ends -->
@@ -416,13 +443,11 @@
   <script>
 	function popchat() {
  window.open('http://livechat.boldchat.com/aid/5850818417176764668/bc.chat?cwdid=6334228627080096120&wdid=2296254362967654546&vr=&vn=&vi=&ve=&vp=&iq=&curl=&url=' + escape(document.location.href), 'Chat1803713730664106262', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480'); }
- </script>	<!-- Insert Google Analytics Code Here -->
-
-<!-- Client Visitor Monitor HTML v1.30 (Website=Demosphere International Inc,ChatWindow=Demosphere International Inc,ChatInvitation=Demosphere Invite Ruleset) -->
+ </script>	<!-- Client Visitor Monitor HTML v1.30 (Website=Demosphere International Inc,ChatWindow=Demosphere International Inc,ChatInvitation=Demosphere Invite Ruleset) -->
 <script language="JavaScript" type="text/javascript"><!--
 document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/5850818417176764668/bc.vms/vms.js?wdid=2296254362967654546&amp;url=' + escape(document.location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;cidid=3943448451881289046&amp;cwdid=6334228627080096120&amp;cp=http&amp;cw=600&amp;ch=500"></scr' + 'ipt>');
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/5850818417176764668/bc.vms/vms.js?wdid=2296254362967654546&amp;url=https%3A//web.archive.org/web/20100516071136id_/http%253A//www.demosphere.com/privacy-policy.html&amp;referrer=&amp;cidid=3943448451881289046&amp;cwdid=6334228627080096120&amp;cp=http&amp;cw=600&amp;ch=500"></script>
+</script><script language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/5850818417176764668/bc.vms/vms.js?wdid=2296254362967654546&amp;url=https%3A//web.archive.org/web/20101115075447id_/http%253A//www.demosphere.com/privacy-policy.html&amp;referrer=&amp;cidid=3943448451881289046&amp;cwdid=6334228627080096120&amp;cp=http&amp;cw=600&amp;ch=500"></script>
 
 <noscript>
 <a href="http://www.boldchat.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="http://vms.boldchat.com/aid/5850818417176764668/bc.vmi?wdid=2296254362967654546" border="0" width="1" height="1"></a>
@@ -433,13 +458,42 @@ document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="h
 <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
 <script type="text/javascript">__sfga();</script>
 
+<div>
+<!-- Start of HubSpot Logging Code  -->
+<script type="text/javascript" language="javascript">
+var hs_portalid=47373; 
+var hs_salog_version = "2.00";
+var hs_ppa = "demosphere.app4.hubspot.com";
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://demosphere.app4.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->
+</div>
+
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-418459-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2580040-18");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2580040-18']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </body></html>
