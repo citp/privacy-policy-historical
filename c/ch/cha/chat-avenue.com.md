@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411051618id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115183843id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
 
 # #1 Chat Avenue - Privacy Statement
 
-_**Important Note to Children under 13:**_ Children under 13 are not allowed to use any of our chat rooms or allowed to participate in any way, shape, or form on this website. 
+_**Important Note to Children under 13:**_ Children under 13 are NOT allowed to use any of our chat rooms or allowed to participate in any way, shape, or form on this website. 
 
-#1 Chat Avenue is a general audience community chat site that allows users to interact with other users via chat rooms and [message forums](https://web.archive.org/web/20100411051618id_/http%3A//www.chat-avenue.com/forums.html). It has twelve different chat "categories" to choose from and a message forum with various topics. All users **MUST** be 13 or over to participate. 
+#1 Chat Avenue is a general audience community chat site that allows users to interact with other users via chat rooms and [message forums](https://web.archive.org/web/20101115183843id_/http%3A//www.chat-avenue.com/forums.html). It has sixteen different chat "categories" to choose from and a message forum with various topics. All users **MUST** be 13 or over to participate. 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. This information is used for tracking purposes only and are not and cannot be used to obtain personal information about you or anyone else. 
 
@@ -19,6 +19,8 @@ This IP address will never be shared or revealed unless under the following circ
 1) If a government agency, or an attorney, subpoenas your private information, or makes a formal and official request for discovery pursuant to any legal action, or pending legal action against YOU. 
 
 2) If our attorney requests this information relevant to a pending or current legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter at hand. 
+
+Please note that IP addresses are only stored for a short period of time and may or may not be available at time of request. 
 
 Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
 
