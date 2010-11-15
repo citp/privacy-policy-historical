@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the up-video.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114054902id_/http%3A//www.up-video.com/page.php%3Fpage%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up-video.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115042848id_/http%3A//www.up-video.com/page.php%3Fpage%3D5) for the most accurate reproduction.*
 
-# Up-video.com - Online Video - Arabic Movies, TV, Music & Sports
+# Up-video.com - Embed Video - Live Stream - Latest Movies, TV, Music ,Sports
 
 > Privacy Policy for up-video.com
 > 
