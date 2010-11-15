@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lineage2.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612145830id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lineage2.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115133140id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NCsoft
 
@@ -9,8 +9,6 @@ This Privacy Policy discloses the privacy practices for:
   * [www.ncsoft.com](http://www.ncsoft.com/)
   * [www.aiononline.com](http://www.aiononline.com/)
   * [www.cityofheroes.com](http://www.cityofheroes.com/)
-  * [www.dungeonrunners.com](http://www.dungeonrunners.com/)
-  * [www.exteel.com](http://www.exteel.com/)
   * [www.guildwars.com](http://www.guildwars.com/)
   * <http://www.guildwars.com/products/eyeofthenorth/>
   * <http://www.guildwars.com/products/nightfall/>
