@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentacenter.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222182718id_/http%3A//www6.rentacenter.com/site/page/pg4295.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacenter.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115165959id_/http%3A//www6.rentacenter.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Rent-A-Center: Privacy Policy
+# Privacy Policy
 
 **1\. What information does the Company collect about you on this Web site and what does it do with the information?**
 
@@ -42,4 +42,4 @@ The Company's Web site is intended for a general audience. The Company does not 
 
  **8\. How do I contact the Company?**
 
-[Click here for information on how to contact our Customer Service Department ](https://web.archive.org/web/20071222182718id_/http%3A//www6.rentacenter.com/site/page/pg4287.html)with questions or comments.
+[Click here for information on how to contact our Customer Service Department ](https://web.archive.org/contact-us.html)with questions or comments.
