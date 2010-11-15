@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522005210id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115121603id_/http%3A//www.etsy.com/policy/privacy) for the most accurate reproduction.*
 
 # Etsy :: Privacy Policy
 
@@ -21,7 +21,7 @@ Etsy, Inc. complies with the EU Safe Harbor framework set forth by the Departmen
 General Information:
 
   * Etsy will not sell or disclose your name or email address to third parties without your explicit consent, except as specified in this privacy policy.
-  * Your username, Etsy ID or alias is displayed throughout Etsy (and so available to the public) and is connected to all of your Etsy activity. Other people can see your purchases, items for sale, store, feedback, ratings and associated comments. 
+  * Your username, Etsy ID or alias is displayed throughout Etsy (and so available to the public) and is connected to all of your Etsy activity. Other people can see your purchases, items for sale, store, feedback, ratings and associated comments. You have the option to publicly display your full name. 
   * Etsy collects personal information when you register to use Etsy services or to post content on Etsy. At registration you are asked for your email address and certain other optional information. 
   * If you would like to obtain a Seller account, Etsy will ask for your billing address, phone number, and credit card information. 
   * Etsy automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. This data is only used in the aggregate. 
