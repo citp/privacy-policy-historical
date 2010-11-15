@@ -1,118 +1,71 @@
-> *The following text is extracted and transformed from the northstarattahoe.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522215240id_/http%3A//www.boothcreek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstarattahoe.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115200918id_/http%3A//www.vailresorts.com/CORP/info/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Booth Creek Privacy
+# Vail Resorts Management Company | Privacy Policy
 
-**Booth Creek Ski Holdings, Inc. ("Booth Creek", "we" or "our") values your privacy and is committed to the highest standards in personal protection.**
+The Vail Corporation and its subsidiary companies ("VRMC") are committed to protecting the personal privacy of visitors and guests using its Internet sites.
 
-This statement discloses the privacy practices of Booth Creek Ski Holdings, Inc. and its subsidiary companies with respect to information that we collect via the Internet. If, after reading this policy, you have further questions about how we handle your personally identifiable information, please contact us.
+VRMC's privacy policy aims to accomplish three basic goals: • VRMC will not release personally identifiable information without consent. • VRMC will allow the user to control certain aspects of the information voluntarily submitted. • VRMC encourages its site users to communicate privacy concerns and VRMC will respond to such concerns. Coverage
 
-## Coverage
+This privacy policy applies to VRMC owned and operated sites. 
 
-This policy applies to various web sites operated by Booth Creek and its subsidiary companies, including [www.boothcreek.com](http://www.boothcreek.com/), [www.northstarattahoe.com](http://www.northstarattahoe.com/), [www.sierraattahoe.com](http://www.sierraattahoe.com/), [www.doublewhammypass.com](http://www.doublewhammypass.com/), [www.waterville.com](http://www.waterville.com/),and [www.cranmore.com](http://www.cranmore.com/), and [www.threedompass.com](http://www.threedompass.com/) (the "Sites"). [**For Snow Park Technology privacy policy, click here.**](http://www.snowparktech.com/privacy.asp)
+Definitions of Types of Information Personally identifiable information is information or other data that may specifically identify an individual user. In order for you to access certain services and to purchase services that we offer via the Sites, we require you to provide us with such Personal Information. Personal Information may include: (i) Contact Data (such as your name, mailing and e-mail addresses); (ii) Financial Data (such as your account or credit card number); and (iii) Demographic Data (such as your zip code, age and income). If you communicate with us by e-mail or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information.  
 
-Please read the following policy to understand what personal information we may collect from you and how your personal information may be used as you make full use of our options and Sites. By using the Sites, you agree to this policy. If you do not agree to this policy, please do not use the Sites. This policy may be updated and revised occasionally without prior notice to you. Please check back periodically. Your continued use of the Sites following the posting of changes to this policy will signify your acceptance of those changes.
 
-Please note that we follow special additional procedures when collecting information from children under 13, which are set forth in the Children's Privacy section, below.
+Traffic Data shall not be considered personally identifiable information or Personal Information. Traffic Data is information on a user's patterns of access and usage of the sites. We automatically track and collect the following information when you visit our Site, including your: (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser. Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use "cookies" as a method to gain dependable and consistant Traffic Data. "Cookies" are anonymous and do not personally identify you.
 
-## Aggregate (General, Non-Personal) Information
+Collection and Use of Personally Identifiable Information  
+Registration  
+A user may access and utilize the vast majority of VRMC site functionality without transmitting any Personal Information. In order to access certain other functionality, VRMC may request the user provide personally identifiable information. At no time is the user under any obligation to provide Personal Information. If the user does not wish to access such functionality, the user should not transmit the personally identifiable information.
 
-From time to time, we may collect general, non-personal, statistical information about the use of our Sites and related media products (including e-mail newsletters, cellular phone alerts and mini desktop application, together with the Sites, "Media Products"). Such information may include how many visitors visit a specific page on the Sites, how long they stay on that page, and which hyperlinks, if any, they "click" on. We collect this information in order to determine which areas of the Media Products are most popular and to enhance the Media Products for visitors. We may also group this information into aggregate visitor data in order to describe the use of the Media Products to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Sites or users of the Media Products.
+During the registration process VRMC shall require the user to complete certain data fields. Some fields may be optional. VRMC shall request contact information and shall utilize such information in the following manner:  
+• to send communications regarding the Vail Resorts.  
+• to share user information with specific strategic partners, if and only if authorized to do so by the user.  
+If you indicate to us that you do not want to receive certain types of communications at the time of registration, we will respect your wishes, and comply with your preferences. If you already are a registered user and would like to review or change the choices you have made, you may email us at comments@vailresorts.com for assistance.
 
-## Collection of Personally Identifiable Information
+Contests, Etc.  
+From time to time, we may run contests on our site in which we ask participants for contact information, such as their e-mail address(es). If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. We may also use the collected contact information to send you information about Vail Resorts, our services, as well as offers tailored to your interests by our corporate partners, if you have opted to receive these communications. You may choose to opt-out of receiving such mailings at the time of registration for the contest, or afterwards, by emailing us at comments@vailresorts.com.
 
-Booth Creek will not collect or retain any personal information about you unless you provide it to us voluntarily. We may collect personal information from the Sites in several ways if you so choose to provide it. For example, we require you to provide personal information in order to register for membership on a Site, purchase ski passes and other products online, book reservations at our ski resorts online, participate in contests, sweepstakes, events or promotions offered on the Sites, subscribe to our online e-newsletter or other online services, register for cellular phone alerts to receive notifications of special promotions, offers and events, send questions or comments to us via e-mail or fill out online or e-mail surveys. The requested information may include personal information such as your name, e-mail address, telephone number, home address, credit card information, billing and shipping address and information about your interests in and use of various products, programs and services.
+Sharing Personally Identifiable Information with Third Parties  
+In order to optimize and improve the online experience for our guests, we may share your Personal Information with carefully selected companies with whom we have relationships. However, we will not share your personally identifiable information unless you have given us your consent to do so, as in our registration forms. If you have previously opted-in, but now wish to remove yourself from these mailing lists, you may send email directly to us by emailing comments@vailresorts.com. We will modify your preference accordingly. Our partners who receive information from us have the right to use the data we provide them (sometimes, in connection with other information they may have gathered about you).
 
-For some features of the Sites, you can submit information about other people. For example, if you purchase a gift card or other merchandise online for another person and want it sent directly to the recipient, you may be able to submit the recipient's name, address and certain other contact information. We will use any such information that you provide to us about another person only for the purpose for which you submitted the information, such as delivering the gift card or other item to that person.
+PLEASE NOTE:  
+In certain special cases, we may disclose your personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, or otherwise injuring or interfering with VRMC's rights, property or operations, other VRMC site users, or anyone else who could be harmed by such activities. We may also disclose your personally identifiable information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by VRMC. We shall have no obligation to inform you of our compliance with the law, including without limitation a response to a law enforcement request or a valid subpoena.
 
-## Use of Personally Identifiable Information
+Traffic Data When you use our site, we collect Traffic Data, even if you have not registered with VRMC. We use this information to personalize your experience at all the sites that VRMC operates and generally to improve our services. We share this Traffic Data with selected corporate partners.
 
-If you do provide us with personal information, we may retain and use that information for several purposes. We may store and process the information to better understand your needs and how we can improve our products and services. We may also retain information about your previous online bookings or purchases of services or products in order to customize our Media Products for your future experience.
+Cookies - How They Are Used:  
+A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not damage your system or impair its functioning in any way. We use cookies to help us provide customizable services and to allow you to sign-in to our site. Cookies may also be used by VRMC corporate partners on co-branded Web pages, as explained below in "third party relationships," so please be aware of this as you visit these Web pages.
 
-In addition, we may use your personal information to send you information or updates about special offers, promotions, services and other items that might be of interest to you. However, we will not send any such communications to your e-mail address unless you have consented on the Sites (or otherwise) to receiving such communications by e-mail. You may indicate your consent to receiving such e-mail communications by opting in or choosing not to opt out, depending on the particular Site and web page on which you are given the opportunity to provide your consent. You may at any time choose to opt-out of receiving information through our Media Products.
+You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features will not work as intended.
 
-We may also use your personal information in order to process and fulfill any transactions that you request, such as entering a sweepstakes or other contests, or booking online reservations and delivering gift cards, ski passes or other products purchased via the Sites (including any customary follow-up or confirmation communications regarding such transactions).
+Children/Family Filter  
+VRMC is concerned about protecting the safety of the children who use our site. The VRMC sites - sites directed to a broad, general audience - comply with the terms of the Children's Online Privacy Protection Act. As such, we will not knowingly collect personally identifiable information on users under the age of 13,without the consent of a parent to do so. Parents have the ability to control what, if any, Personal Information about their child may be disclosed to third parties, by regulating the actions and behavior of their children using the internet.
 
-## Sharing Information with Third Party Service Providers
+Use of IP Addresses  
+An Internet protocol (IP) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your company's local area network (LAN) or wide area network (WAN). Web servers - the powerful computers that provide web pages for viewing - automatically identify your computer by the IP address assigned to it during your session online.  
+VRMC may collect IP addresses for purposes of system administration, to report user Traffic Data to our corporate partners (as explained above), and to audit the use of our site. We do not ordinarily link a user's IP address to the Personal Information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we can and will use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's Terms and Conditions of Use or terms of service, or to protect our service, site, or other users.
 
-At times we may share your information with third party service providers to optimize your experience with our products and services. We sometimes use other businesses to perform certain services for us, such as fulfilling orders, making deliveries, making reservations, sending postal mail, sending e-mail, sending cellular alerts, analyzing web site use, providing marketing assistance and data analysis and processing credit card payments. We may provide personal information, including credit card information, to those businesses when that information is necessary for them to complete a requested transaction or otherwise perform their duties.
+PLEASE NOTE: Under certain circumstances, IP addresses and/or domain names may be linked to personally identifiable information, when said information is stored in databases managed by Internet registrars or registries such as Network Solutions.
 
-## Sharing Information with Third Party Sponsors and Your Opt Out Rights
+Third-Party Relationships  
+In order to optimize your experience on our sites, VRMC maintains relationships with many corporate partners and service providers throughout the world. If you have any questions about whether certain information, content or services pertain to us, or are provided by one of our partners, please contact us at comments@vailresorts.com.  
+Whenever you provide registration information on certain Web pages or for certain services provided in conjunction with third party partners, we want to be clear that some data you provide is shared with partners. For instance, certain information is shared with WorldRes.com, our provider of online reservation service. You should make every effort to read the privacy policies provided by or in association with such third parties, and make an informed decision on your own whether or not to continue utilizing the services based upon the privacy policies posted on these Web pages, at your own discretion.   
+However, we will make every effort to ensure that you have the ability to opt-out of the sharing of such data with partners. You may email us directly at comments@vailresorts.com and we will forward your request to the appropriate company, and help you follow up to ensure that your concerns are adequately handled. In addition to finding these Web pages, you will find direct links on VRMC to the sites offered by third parties. Some of these sites are authorized to use the Vail Resorts brands and/or logos.   
+VRMC carefully evaluates all parties that are authorized to use its brands and/or logos, and believes that all such sites have adopted acceptable privacy policies. Again, you should read these third party privacy policies, and make an informed decision on your own as to whether or not to continue based upon these sites' privacy practices, at your own discretion. No third-party sites are covered by this Privacy Policy.
 
-Except as set forth above, please note that we will not share your e-mail address with any third party without your prior consent. We have formed and may in the future form relationships with other businesses, such as promotional or sweepstakes sponsors, in order to enhance the information and services on the Media Products, help promote Media Products or for other purposes.
+VERY IMPORTANT: If you feel that a site using the VRMC brands and/or logos has not posted an acceptable privacy policy, or is not following the privacy policy it has posted, please send us an email at comments@vailresorts.com. If appropriate, we may forward complaints to the appropriate third parties and help you follow up to ensure that your concerns are adequately handled. Of course, if any of these third party companies does not have a privacy policy that is acceptable to you, you should refrain from providing information until your concerns have been satisfactorily addressed.
 
-From time to time, we may share your personal information other than your e-mail address with those sponsors, and you may receive periodic communications from such businesses, such as promotional offers available from Booth Creek or such businesses. Furthermore, many of the promotions on our Media Products give visitors the opportunity to request additional information from the sponsors of those promotions. If you request more information, you give Booth Creek permission to provide your personal information (including e-mail address) to the sponsor so they can fulfill your request. Except as otherwise stated in this policy, your personal information will not be provided to any third party without your prior consent.
+Security  
+VRMC operates secure data networks protected by industry standard firewall and password protection. VRMC has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make every reasonable effort to prevent such unfortunate occurrences. You must promptly notify us if your credit card, pass product with ResortCharge, user name or password is lost, stolen or used without permission. In such an event, we will cancel that credit card number, pass product, user name or password and update our records accordingly.
 
-To ensure you have the ability to **opt-out** of sharing personally identifiable information with our third party sponsors, please contact us.
+Contacting Us If you have questions about this privacy policy or the practices of this site, please contact:  
+Office of the General Counsel  
+390 Interlocken Crescent  
+Suite 1000  
+Broomfield, CO 80021  
+You can send email to comments@vailresorts.com.  
+VRMC reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will use commercially reasonable efforts to notify you of any significant changes to this privacy policy. However, it is your responsibility to check this site for any such updates as you will be bound by them should you choose to visit our sites.
 
-## Your Opt Out Choices
-
-**Option #1:**  
-The fastest, most direct, secure and automated means of opting out of receiving information via our Media Products is through the online registration interface, found on our Sites.
-
-**Option #2**  
-Should you wish to opt-out of distribution of personally identifiable information to third party sponsors, your only means is to complete our privacy form.
-
-**Option #3**  
-You can contact us by e-mail through any of our Sites or by phone at any of our resorts to request any changes to how we collect, or distribute any of your information or to unsubscribe to any newsletters, e-mail or other communications you might be receiving from us, and we will use every reasonable effort to accommodate your request. Phone, address and e-mail address information can be found at each of our Sites.
-
-**Option #4  
-**You may mail a written request to:  
-Booth Creek E-Business Director  
-11025 Pioneer Trail, #100   
-Truckee, CA 96161
-
-## Transfer of Personally Identifiable Information
-
-As Booth Creek or any of its resorts continue to evolve, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Booth Creek, one of its subsidiaries or substantially all of were acquired, customer information would be one of the transferred assets. In addition, Booth Creek reserves the right to disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Booth Creek's rights or property, other users, or anyone else that could be harmed by such activities. This includes our right to exchange information with other organizations in order to protect against fraud and to reduce credit risk. Booth Creek also reserves the right to disclose user information when we believe in good faith that the law requires it.
-
-## Links to other web sites; "Public" Areas
-
-Please be aware that when you are using the Sites, you could be directed to other sites that are beyond our control. There may be links to other sites that take you outside our Sites. These other sites may send their own cookies to visitors, collect data or solicit personal information. The privacy policies of these other sites may be significantly different from this privacy policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there.
-
-Please keep in mind that whenever you give out personal information on a "public" venue online (for example via bulletin board, chat rooms or chat groups), that information can be collected and used by people you do not know. If you chose to voluntarily disclose information on a bulletin board, chat room or other public venue on these other sites, this privacy policy will not cover such disclosure of information. We urge you to use caution when disclosing any personal information on these venues.
-
-## Cookies
-
-Booth Creek uses cookies to store and sometimes track information about you for various purposes including optimizing your Site experience. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All areas on the Sites where you are prompted to log-in or that are customizable require that you accept cookies. We use cookies to ensure you obtain the information you request. The cookie(s) we pass to you are anonymous. They do not reveal your personal identity, nor can they capture private data. Rather, these cookies establish a user session and allow our server to correctly provide the users with the appropriate frames and content.
-
-We track the usage of our Sites and other Media Products in order to modify our Sites and Media Products according to our customers' needs. We pay attention to what information is requested and attempt to make it easier to find in the future. With respect to our Sites, you always have the option of disabling cookies using your browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, please be aware that some features of the Sites may not function properly or may be slower if you refuse cookies. You may occasionally get cookies from third parties with links on the Sites. Booth Creek does not control these cookies. The use of cookies sent by third-party servers is standard in the Internet industry.
-
-## IP Addresses
-
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers, the big computers that "serve up" Web pages, automatically identify your computer by its IP address. Booth Creek collects IP addresses for purposes of system administration, to report aggregate information to our advertisers, and to track the use of the Sites. When visitors request pages from the Sites, our servers log the visitors' IP addresses. It is not our practice to link IP addresses to anything personally identifiable, which means that a visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor only when we feel it is necessary to enforce compliance with the Sites' policies or to protect our service or customers, the Sites, or others.
-
-## This policy applies only to information collected on the Internet
-
-This privacy policy applies only to information collected on our Sites. It does not apply to information which we may collect by means other than over the Internet and it does not apply to businesses which may use our Sites.
-
-## The Organizations that Collect Information
-
-Booth Creek, one of its resorts (the website addresses of which are listed above) or a third party partner may be collecting information during your experience with our Sites.
-
-## Security Procedures
-
-Security procedures are in place to protect the loss, misuse or alteration of information under the company's control.Protecting the security of your personal information is very important to us. Therefore, we have taken precautions to ensure that this information is safe and secure. We maintain your profile information on a secure server. To use some features on the Media Products, we may require that you create a password. We recommend that you do not disclose your password to any other person. In addition, when you transmit personal information from your PC to our servers, your information is protected by both a "firewall" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network) and industry standard SSL (secure socket layer) encryption. Once we receive your transmission, we will take reasonable precautions to ensure its security on our systems. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Booth Creek strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
-
-## Children's Privacy
-
-The Sites are general audience web sites that comply with the Children's Online Privacy Protection Act ("COPPA"). Children under 13 are only permitted to submit information to Booth Creek in certain limited circumstances. Any personal information that may be provided to the Sites from children under 13 years old will be collected and maintained in accordance with COPPA. While we encourage parents to supervise their children's online activities, we recognize that parents may not always be able to do so. Therefore, in addition to the foregoing provisions of this privacy policy, Booth Creek has adopted the following special policies to help ensure that parents will be able to know what information their children under 13 are providing to the Sites.
-
-### Collection and Use of Information; Parental Notice/Consent
-
-In accordance with COPPA, Booth Creek does not require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation.
-
-We may collect a child's e-mail address in connection with a contest, sweepstakes or a question e-mailed to us by the child for the sole purpose of communicating with the child on a one-time-only basis (for example, to contact the winner of a contest or respond to a question). We will not use this information to recontact the child and we will delete it from our records once the game or contest is over. We will obtain written parental consent before sending any prizes to contest winners or posting any information about any winners on the Sites.
-
-We may collect a child's e-mail address and first name in order to respond directly to a specific request from the child more than once. For example, a child may want to receive a newsletter or other online communications about new features on the Sites or participate in a contest that involves more than a one-time contact. When a child submits such a request, we will obtain an e-mail address for the child's parent(s) along with the child's information. Before we make any additional response to the child's request, after our initial response, we will send an e-mail to the child's parent(s) that notifies the parent(s) that we have collected personal information from the child for the purpose of responding to the child's particular request and describes the personal information collected from the child, gives the parent(s) the opportunity to deny us permission to send any further responses to the child and to request that we delete the information we have collected from our records, and provides the parent(s) with a link to access this privacy policy.
-
-We may collect a child's name and e-mail address to the extent reasonably necessary to protect the security of the Sites, to protect against liability, or as required or permitted by law without obtaining a parent's consent. Information collected for these reasons will not be used for any other purpose. Prior to any other collection or use of personal information from a child under 13, Booth Creek shall obtain a parent's consent to such collection and use in accordance with COPPA. The parental consent is given for the specific purpose stated in the consent form and is not a blanket consent for collecting the child's information in the future or using the child's information for purposes other than those set forth in the consent form. We may seek a parent's consent to collect information such as a child's name, mailing address, e-mail address, hobbies, etc.
-
-### Sharing of Information
-
-The personal information collected from children under the age of 13 is not shared or forwarded by Booth Creek to business partners, advertisers or other third parties.
-
-### Parental Access
-
-Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like to review or delete your child's personal information, please contact us via the privacy form below. When a parent requests deletion of his or her child's information, we will use reasonable efforts to delete as much of the child's information from our database as possible and refrain from collecting any other personally identifiable information from such child. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
-
-## Questions, Comments, and Requests to Opt-Out:
+|   
+  
+---|---
