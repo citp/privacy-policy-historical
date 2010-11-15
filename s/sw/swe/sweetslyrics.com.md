@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetslyrics.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526232554id_/http%3A//www.sweetslyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetslyrics.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115125454id_/http%3A//www.sweetslyrics.com/privacy.php) for the most accurate reproduction.*
 
-# Poll page
+# Privacy
 
 [Home](http://www.sweetslyrics.com/) >> [Privacy](http://www.sweetslyrics.com/privacy.php)
 
