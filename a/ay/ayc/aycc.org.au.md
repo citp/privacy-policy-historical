@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the aycc.org.au privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515052227id_/http%3A//www.aycc.org.au/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aycc.org.au privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115072456id_/http%3A//www.aycc.org.au/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Australian Youth Climate Coalition » Contact Us » Privacy Policy
 
 [Home](http://www.aycc.org.au/) » Privacy Policy
-
-## Privacy Policy
 
 Privacy matters, and AYCC is totally committed to ensuring that your participation in our important work protects that privacy.
 
