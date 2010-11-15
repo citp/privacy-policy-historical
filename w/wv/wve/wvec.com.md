@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvec.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515231556id_/http%3A//www.wvec.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvec.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115210014id_/http%3A//www.wvec.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # HAMPTON ROADS NEWS | WVEC.com | News for Hampton Roads, Virginia | Privacy Policy
 
