@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopperapproved.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413151216id_/http%3A//www.shopperapproved.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperapproved.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115183545id_/http%3A//www.shopperapproved.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Shopper Approved
 
