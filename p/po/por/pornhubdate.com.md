@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornhubdate.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507002048id_/http%3A//www.pornhubdate.com/%3Faction%3Dterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhubdate.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116003902id_/http%3A//www.pornhubdate.com%3Faction%3Dterms) for the most accurate reproduction.*
 
 # Adult Dating for Everyone - Sex, Personals, Women, Men, Couples - Pornhubdate.com
 
