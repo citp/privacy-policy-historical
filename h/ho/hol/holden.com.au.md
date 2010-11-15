@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511105528id_/http%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115201149id_/http%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Holden. Go better.
 
