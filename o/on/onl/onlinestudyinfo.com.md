@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinestudyinfo.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117060723id_/http%3A//www.onlinestudyinfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinestudyinfo.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115161123id_/http%3A//www.onlinestudyinfo.com/privacy-policy.html) for the most accurate reproduction.*
 
-# About Us
+# Privacy Policy
 
 |    |  |   
 ---  
