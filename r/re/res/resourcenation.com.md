@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608060803id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115230004id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResourceNation
 
