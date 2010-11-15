@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529175731id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115025659id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
