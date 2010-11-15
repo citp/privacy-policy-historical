@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fuzzyyellowballs.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531035607id_/http%3A//www.fuzzyyellowballs.com/fyb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzzyyellowballs.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115035420id_/http%3A//www.fuzzyyellowballs.com/fyb-privacy-policy) for the most accurate reproduction.*
 
-# FuzzyYellowBalls.com Privacy Policy — FuzzyYellowBalls.com
+# FuzzyYellowBalls.com Privacy Policy
 
 Fuzzy Yellow Balls is extremely proud of our Privacy Policy. Please read the entire policy below, as it is a reflection of our strong commitment to protecting you and your information while you surf our site. As young adults (and web-2.0 guys) who have grown up in the internet generation, we understand how important and valuable privacy is on the internet. _We firmly believe that when you place your information in the hands of a website, that site is obligated to protect and do no more with that information than they expressly state in the privacy policy._ Keep in mind that while we do reserve the right to change our privacy policy in the future, the overall spirit enshrined below will remain the same.
 
