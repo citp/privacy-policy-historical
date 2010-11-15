@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123freevectors.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612045746id_/http%3A//123freevectors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123freevectors.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115190744id_/http%3A//123freevectors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | 123Freevectors | Download Free vector Graphics | Free vector art
+# Party - Security - Cooking - Privacy policy | 123Freevectors | Download Free vector Graphics | Free vector art
 
 Privacy Policy for [123freevectors](http://123freevectors.com/)
 
