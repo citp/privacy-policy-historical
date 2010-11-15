@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtilla.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516174237id_/http%3A//www.turtilla.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtilla.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115193940id_/http%3A//www.turtilla.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,9 +34,3 @@ Occasionally, at our discretion, we may include or offer third party products or
  **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-**Update 13th March 2009**
-
-Google, as a third party vendor, uses cookies to serve ads on turtilla.com.  
-Googles use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.   
-As a user, you may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
