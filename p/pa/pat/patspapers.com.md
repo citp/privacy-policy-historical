@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patspapers.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515230009id_/http%3A//www.patspapers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patspapers.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115210740id_/http%3A//www.patspapers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pat's Papers
 
