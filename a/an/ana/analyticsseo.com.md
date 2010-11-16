@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analyticsseo.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517060032id_/http%3A//www.analyticsseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyticsseo.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116160251id_/http%3A//www.analyticsseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Analytics SEO
 
