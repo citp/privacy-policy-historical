@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the afr.com privacy policy that was archived on 2010-01-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100114032521id_/http%3A//www.afr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afr.com privacy policy that was archived on 2010-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101116122245id_/http%3A//www.afr.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- Methode uuid: "c7ab8e90-d01c-11de-8a0a-35baa9448cf9" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- Methode uuid: "84e07c76-d01a-11de-a78c-236cbb535550" --><head>
 <title>Privacy</title>
 <meta name="eomportal-instanceid" content="12">
-<meta name="eomportal-id" content="6247">
+<meta name="eomportal-id" content="339063">
 <meta name="eomportal-loid" content="1.0.95507100">
-<meta name="eomportal-uuid" content="c7ab8e90-d01c-11de-8a0a-35baa9448cf9">
-<meta name="eomportal-lastUpdate" content="Thu Jan 14 14:25:21 EST 2010">
+<meta name="eomportal-uuid" content="84e07c76-d01a-11de-a78c-236cbb535550">
+<meta name="eomportal-lastUpdate" content="Tue Nov 16 23:12:37 EST 2010">
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX, FOLLOW">
@@ -17,6 +17,7 @@
 <meta name="Content-Language" content="en-UK">
 <meta name="resource-type" content="document">
 <meta name="copyright" content="Copyright 2009 NYP Holdings. All rights reserved.">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <link rel="shortcut icon" href="/r/SysConfig/WebPortal/afr/_files/images/favicon.ico">
 <link rel="icon" href="/r/SysConfig/WebPortal/afr/_files/images/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" media="screen" href="/r/SysConfig/WebPortal/afr/_files/css/main.css">
@@ -33,7 +34,6 @@
 <script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/mootools/overlay.js"></script>
 <script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/mootools/multibox.js"></script>
 <script type="text/javascript" src="/commons/js/portal.js"></script>
-<script type="text/javascript" src="/commons/js/highlight.js"></script>
 <script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/jquery/jquery-1.3.2.js"></script>
 <script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/jquery/autocomplete.js"></script>
 <script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/globalSearch.js"></script>
@@ -41,7 +41,9 @@
  	<script type="text/javascript" src="/r/SysConfig/WebPortal/afr/_files/js/lib/supersleight-min.js"></script>
 <![endif]-->
 </head>
-<body id="static"><script type="text/javascript">window.SERVERDATETIME='2010/01/14 03:25:21'</script>
+<body id="static"><script type="text/javascript">window.SERVERDATETIME='2010/11/16 12:22:45'</script>
+<!--  p:script src="/commons/js/highlight.js" type="context" / -->
+
 <div id="site-container">
 	<!-- ============================================================================================= HEADER-->
 	
@@ -55,19 +57,19 @@
 	
 	<div id="header">
 	<a href="/home"><img alt="afr.com" src="/rw/SysConfig/WebPortal/afr/_files/images/afr_logo.jpg"></a><div id="search" style="position:relative;">
-	<a href="/all_search?openSearch=true" class="advance_search_link">advanced search</a>
+	<a href="/all_search?openSearch=true&amp;clearAll=true" class="advance_search_link">advanced search</a>
 	<div class="basic_search">
 		<form id="mdsearch" name="mdsearch">
 			<input type="hidden" name="id" value="general">
-			<input onkeypress="return handleEnterKey(event);" id="search_input" name="search_input" class="search_input ac_input" value="Search news, quotes, announcements and people" onclick="if(this.value == 'Search news, quotes, announcements and people')this.value ='';" autocomplete="off">
+			<input onkeypress="return handleEnterKeyUrl(event, '/Search');" id="search_input" name="search_input" class="search_input ac_input" value="Search news, quotes, announcements and people" onblur="if(this.value == '')this.value ='Search news, quotes, announcements and people';" onclick="if(this.value == 'Search news, quotes, announcements and people')this.value ='';" autocomplete="off">
 			<input type="hidden" id="asx_code" name="asx_code">
 			<input type="hidden" id="url_action" name="url_action">
 			<input type="hidden" id="current_search_selection" name="current_search_selection">
-			
-			<input type="button" name="button" class="submit_button" value="SEARCH" onclick="submitForm(this.parentNode);">
+			<input type="button" name="button" class="submit_button" value="SEARCH" onclick="submitForm(this.parentNode, '/Search');">
 		</form>
 	</div>
-</div><div id="signIn_container">
+</div>
+<div id="signIn_container">
 		<ul>
 			<li><a href="https://subscribe.afr.com/afr/default.aspx?referrer=1" id="subscribe_text">Subscribe </a></li>
 			<li><a id="sign_in" href="/login">Sign In</a></li></ul>
@@ -77,7 +79,7 @@
 		<ul>
 			<li><a href="/mobile_info">Mobile</a></li>
 			<li><a href="http://tv.afr.com/">TV</a></li>
-			<li><a href="/login?p=digital">Todays Paper</a></li>
+			<li><a href="/login?p=digital">Today's Paper</a></li>
 			</ul>
 	</div>
 	<div id="my_nav">
@@ -111,14 +113,21 @@
 				</ul>
 	</div>
 </div><div id="page_nav">
+
 	<ul>
-		<li id="breadcrumb_1"><a href="#none">Quick Links</a></li>
-				<li><a href="/markets/dealbook">Dealbook</a></li>
-						<li><a href="/markets/market_wrap">MarketWrap5pm</a></li>
-						<li><a href="/markets/street_talk">Street Talk</a></li>
-						<li><a href="/special_reports">Summer property</a></li>
-						<li><a href="/special_reports/axa">The battle for Axa</a></li>
-						</ul>
+		<!-- when it is homepage show QuickLinks -->
+				<!-- when nothing is displayed, read the quicklinks-->
+						<li id="breadcrumb_1"><a href="#none">Quick Links</a></li>
+						<li><a href="/diysuper">DIYSuper</a></li>
+								<li><a href="/special_reports/axa">Battle for AXA</a></li>
+								<li><a href="/technology">Technology</a></li>
+								<li><a href="/national/work_space">Work Space</a></li>
+								<li><a href="/business/enterprise">Enterprise</a></li>
+								<li><a href="/dealbook">Dealbook</a></li>
+								<li><a href="/resources">Resources Daily</a></li>
+								<li><a href="/Blogs/Opinion_Street Talk">Street Talk</a></li>
+								<li><a href="/markets/market_wrap">MarketWrap 5PM</a></li>
+								</ul>
 </div><!-- ============================================================================================= PAGE-->
 	<div id="page">
 	<div id="content">
@@ -210,139 +219,202 @@
 <p>GPO Box 506</p>
 <p>Sydney NSW 2001 </p></div>
 		<div class="width_318 column_right">
-			<div class="advertising mrec">
+			<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: staticPage - zoneName: AFRMR1ROS - desc : Medium_Rectangle</b><br/> -->
+
+	<div class="advertising mrec">
 				<span>advertising</span>
-				<!-- <b style="color: #FF0000;">right - zone: staticPage - zoneName: AFRMR1ROS</b><br/> -->
-				<script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adx.js"></script>
-				<script language="JavaScript" type="text/javascript">
-				<!--
-					if (!document.phpAds_used) document.phpAds_used = ',';
-					phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-					document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-					document.write ("http://ads.afraccess.com/adserver/adjs.php?n=" + phpAds_random);
-					document.write ("&amp;what=zone:411&amp;source=AFRMR1ROS&amp;target=_blank&amp;block=0&amp;blockcampaign=0");
-					document.write ("&amp;exclude=" + document.phpAds_used);
-					if (document.referrer)
-						document.write ("&amp;referer=" + escape(document.referrer));
-						document.write ("'><" + "/script>");
-				//-->
-				</script><script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adjs.php?n=390685615&amp;what=zone:411&amp;source=AFRMR1ROS&amp;target=_blank&amp;block=0&amp;blockcampaign=0&amp;exclude=,"></script>
+				<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+				<script type="text/javascript"><!--//<![CDATA[
+				   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+				
+				   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   if (!document.MAX_used) document.MAX_used = ',';
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("?zoneid=78&amp;source=AFRMR1ROS&amp;target=_blank&amp;withText=0&amp;block=0&amp;blockcampaign=0");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location));
+				   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+				       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+				   }
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'><\/scr"+"ipt>");
+					//]]>-->
+				</script><script type="text/javascript" src="https://ads.afraccess.com/openx/www/delivery/ajs.php?zoneid=78&amp;source=AFRMR1ROS&amp;target=_blank&amp;withText=0&amp;block=0&amp;blockcampaign=0&amp;cb=54134594060&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101116122245id_/http%3A//afr.com/privacy/"></script>
 				<noscript>
-					<a href="http://ads.afraccess.com/adserver/adclick.php" target="_blank">
-					<img src="http://ads.afraccess.com/adserver/adview.php?what=zone:411&amp;source=AFRMR1ROS" border="0" alt="" />
+					<a href='http://ads.afraccess.com/openx/www/delivery/ck.php?n=a5c62690&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+						<img src='http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=78&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5c62690&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' />
 					</a>
 				</noscript>
+
 			</div>
-		<div class="advertising">
+		<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: staticPage - zoneName: AFRSPOROS - desc : Sponsored_Links</b><br/> -->
+
+	<div class="advertising">
 			<span>sponsored links</span>
 				<!-- <b style="color: #FF0000;">right - zone: staticPage - zoneName: AFRSPOROS</b><br/> -->
-				<div class="sponsored_link">
-						<script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adx.js"></script>
-						<script language="JavaScript" type="text/javascript">
-							<!--
-								if (!document.phpAds_used) document.phpAds_used = ',';
-								phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-								
-								document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-								document.write ("http://ads.afraccess.com/adserver/adjs.php?n=" + phpAds_random);
-								document.write ("&amp;what=zone:414&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=0");
-								document.write ("&amp;exclude=" + document.phpAds_used);
-								if (document.referrer)
-									document.write ("&amp;referer=" + escape(document.referrer));
-									document.write ("'><" + "/script>");
-							//-->
-						</script><script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adjs.php?n=045072313&amp;what=zone:414&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=0&amp;exclude=,"></script>
+				<div class="sponsored_link">						
+						<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+						<script type="text/javascript"><!--//<![CDATA[
+						   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+						
+						   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=99&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1");
+				   		   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+						       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+						   }
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+						//]]>--> 
+						</script><script type="text/javascript" src="https://ads.afraccess.com/openx/www/delivery/ajs.php?zoneid=99&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1&amp;cb=98864049744&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101116122245id_/http%3A//afr.com/privacy/"></script>
 						<noscript>
-							<a href="http://ads.afraccess.com/adserver/adclick.php" target="_blank">
-								<img src="http://ads.afraccess.com/adserver/adview.php?what=zone:414&amp;source=AFRSPOROS" border="0" alt="" />
+							<a href='http://ads.afraccess.com/openx/www/delivery/ck.php?n=a16e7961&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+								<img src='http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=99&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a16e7961&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' />
 							</a>
 						</noscript>
 					</div>
-				<div class="sponsored_link">
-						<script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adx.js"></script>
-						<script language="JavaScript" type="text/javascript">
-							<!--
-								if (!document.phpAds_used) document.phpAds_used = ',';
-								phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-								
-								document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-								document.write ("http://ads.afraccess.com/adserver/adjs.php?n=" + phpAds_random);
-								document.write ("&amp;what=zone:414&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=0");
-								document.write ("&amp;exclude=" + document.phpAds_used);
-								if (document.referrer)
-									document.write ("&amp;referer=" + escape(document.referrer));
-									document.write ("'><" + "/script>");
-							//-->
-						</script><script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adjs.php?n=415935962&amp;what=zone:414&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=0&amp;exclude=,"></script>
+				<div class="sponsored_link">						
+						<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+						<script type="text/javascript"><!--//<![CDATA[
+						   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+						
+						   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=99&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1");
+				   		   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+						       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+						   }
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+						//]]>--> 
+						</script><script type="text/javascript" src="https://ads.afraccess.com/openx/www/delivery/ajs.php?zoneid=99&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1&amp;cb=39192236530&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101116122245id_/http%3A//afr.com/privacy/"></script>
 						<noscript>
-							<a href="http://ads.afraccess.com/adserver/adclick.php" target="_blank">
-								<img src="http://ads.afraccess.com/adserver/adview.php?what=zone:414&amp;source=AFRSPOROS" border="0" alt="" />
+							<a href='http://ads.afraccess.com/openx/www/delivery/ck.php?n=a16e7961&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+								<img src='http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=99&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a16e7961&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' />
 							</a>
 						</noscript>
 					</div>
-				<div class="sponsored_link">
-						<script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adx.js"></script>
-						<script language="JavaScript" type="text/javascript">
-							<!--
-								if (!document.phpAds_used) document.phpAds_used = ',';
-								phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-								
-								document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-								document.write ("http://ads.afraccess.com/adserver/adjs.php?n=" + phpAds_random);
-								document.write ("&amp;what=zone:414&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=0");
-								document.write ("&amp;exclude=" + document.phpAds_used);
-								if (document.referrer)
-									document.write ("&amp;referer=" + escape(document.referrer));
-									document.write ("'><" + "/script>");
-							//-->
-						</script><script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adjs.php?n=856939846&amp;what=zone:414&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=0&amp;exclude=,"></script>
+				<div class="sponsored_link">						
+						<!--/* OpenX Javascript Tag v2.8.3 */-->
+
+						<script type="text/javascript"><!--//<![CDATA[
+						   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+						
+						   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=99&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1");
+				   		   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+						       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+						   }
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+						//]]>--> 
+						</script><script type="text/javascript" src="https://ads.afraccess.com/openx/www/delivery/ajs.php?zoneid=99&amp;source=AFRSPOROS&amp;target=_blank&amp;withText=1&amp;block=1&amp;blockcampaign=1&amp;cb=4666598085&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101116122245id_/http%3A//afr.com/privacy/"></script>
 						<noscript>
-							<a href="http://ads.afraccess.com/adserver/adclick.php" target="_blank">
-								<img src="http://ads.afraccess.com/adserver/adview.php?what=zone:414&amp;source=AFRSPOROS" border="0" alt="" />
+							<a href='http://ads.afraccess.com/openx/www/delivery/ck.php?n=a16e7961&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+								<img src='http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=99&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a16e7961&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' />
 							</a>
 						</noscript>
 					</div>
 				</div>
-		</div>
+		<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: staticPage - zoneName: AFRLEAROS - desc : Leaderboard</b><br/> -->
+
+	</div>
 	</div>
 	<div id="search" style="position:relative;">
-	<a href="/all_search?openSearch=true" class="advance_search_link">advanced search</a>
+	<a href="/all_search?openSearch=true&amp;clearAll=true" class="advance_search_link">advanced search</a>
 	<div class="basic_search">
 		<form id="mdsearch" name="mdsearch">
 			<input type="hidden" name="id" value="general">
-			<input onkeypress="return handleEnterKey(event);" id="search_input" name="search_input" class="search_input" value="Search news, quotes, announcements and people" onclick="if(this.value == 'Search news, quotes, announcements and people')this.value ='';">
+			<input onkeypress="return handleEnterKeyUrl(event, '/Search');" id="search_input" name="search_input" class="search_input" value="Search news, quotes, announcements and people" onblur="if(this.value == '')this.value ='Search news, quotes, announcements and people';" onclick="if(this.value == 'Search news, quotes, announcements and people')this.value ='';">
 			<input type="hidden" id="asx_code" name="asx_code">
 			<input type="hidden" id="url_action" name="url_action">
 			<input type="hidden" id="current_search_selection" name="current_search_selection">
-			
-			<input type="button" name="button" class="submit_button" value="SEARCH" onclick="submitForm(this.parentNode);">
+			<input type="button" name="button" class="submit_button" value="SEARCH" onclick="submitForm(this.parentNode, '/Search');">
 		</form>
 	</div>
-</div></div><!-- ============================================================================================= FOOTER-->
+</div>
+</div><!-- ============================================================================================= FOOTER-->
 	<div id="footer">
-		<div class="advertising leaderboard_footer">
-				<span>advertising</span>			
-				<!-- <b style="color: #FF0000;">leaderbord - zone: footer - zoneName: AFRLEAROS</b><br/> -->
-				<script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adx.js"></script>
-				<script language="JavaScript" type="text/javascript">
-				<!--
-					if (!document.phpAds_used) document.phpAds_used = ',';
-					phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-					document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-					document.write ("http://ads.afraccess.com/adserver/adjs.php?n=" + phpAds_random);
-					document.write ("&amp;what=zone:412&amp;source=AFRLEAROS&amp;target=_blank&amp;block=0&amp;blockcampaign=0");
-					document.write ("&amp;exclude=" + document.phpAds_used);
-					if (document.referrer)
-						document.write ("&amp;referer=" + escape(document.referrer));
-						document.write ("'><" + "/script>");
-				//-->
-				</script><script language="JavaScript" type="text/javascript" src="http://ads.afraccess.com/adserver/adjs.php?n=747937730&amp;what=zone:412&amp;source=AFRLEAROS&amp;target=_blank&amp;block=0&amp;blockcampaign=0&amp;exclude=,"></script>
-				<noscript>
-					<a href="http://ads.afraccess.com/adserver/adclick.php" target="_blank">
-					<img src="http://ads.afraccess.com/adserver/adview.php?what=zone:412&amp;source=AFRLEAROS" border="0" alt="" />
+		<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: footer - zoneName: AFRMR1ROS - desc : Medium_Rectangle</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: footer - zoneName: AFRSPOROS - desc : Sponsored_Links</b><br/> -->
+
+	<!-- <b style="color: green;">[ anchor: ]</b><br/>-->
+	
+	<!-- <b style="color: #FF0000;">right - zone: footer - zoneName: AFRLEAROS - desc : Leaderboard</b><br/> -->
+
+	<div class="advertising leaderboard_footer">
+				<!--/* OpenX Javascript Tag v2.8.3 */-->
+	
+				<script type="text/javascript"><!--//<![CDATA[
+				   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+				
+				   var m3_u = (location.protocol=='https:'?'https://ads.afraccess.com/openx/www/delivery/ajs.php':'http://ads.afraccess.com/openx/www/delivery/ajs.php');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   if (!document.MAX_used) document.MAX_used = ',';
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("?zoneid=3&amp;source=AFRLEAROS&amp;target=_blank&amp;withText=0&amp;block=0&amp;blockcampaign=0");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location));
+				   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+				       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+				   }
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'><\/scr"+"ipt>");
+				//]]>--></script><script type="text/javascript" src="https://ads.afraccess.com/openx/www/delivery/ajs.php?zoneid=3&amp;source=AFRLEAROS&amp;target=_blank&amp;withText=0&amp;block=0&amp;blockcampaign=0&amp;cb=7306856404&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101116122245id_/http%3A//afr.com/privacy/"></script><noscript>
+					<a href='http://ads.afraccess.com/openx/www/delivery/ck.php?n=a12a47b7&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+						<img src='http://ads.afraccess.com/openx/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a12a47b7&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' />
 					</a>
 				</noscript>
 			</div>
+			
 		<div id="sitemap">
 	
 	<span class="image"><img alt="afr.com" src="/rw/SysConfig/WebPortal/afr/_files/images/afr_logo.jpg"></span>
@@ -362,7 +434,7 @@
 			<li><a href="/markets/dealbook">Dealbook</a></li>
 			<li>&nbsp;</li>
 			<li><a href="/columns?col=Chanticleer">Chanticleer</a></li>
-			<li><a href="/markets/street_talk">Street Talk</a></li>
+			<li><a href="/Blogs/Opinion_Street Talk">Street Talk</a></li>
 			<li><a href="/columns?col=The%20Prince">The Prince</a></li>
 			<li><a href="/columns?col=Rear%20Window">Rear Window</a></li>
 			<li>&nbsp;</li>
@@ -388,13 +460,13 @@
 			<li><a href="http://tools.afr.com/portfolios/portfolio-add.aspx">Create a new Portfolio</a></li>
 			<li><a href="http://tools.afr.com/portfolios/watchlist-add.aspx">Create a new Watchlist</a></li>
 			<li>&nbsp;</li>
-			<li><a href="https://subscribe.afr.com/home/myaccount/login.aspx">My Account</a></li>
+			<li><a href="https://myaccount.afr.com/login.aspx">My Account</a></li>
 			<li>&nbsp;</li>
 		</ul>
 		<span>Subscriptions</span>
 		<ul>
-			<li><a href="https://subscribe.afr.com/afr/website_pay.aspx">Free 14 day trial to afr.com</a></li>
-			<li><a href="https://subscribe.afr.com/afr/default.aspx">Subscribe Now</a></li>
+			<li><a href="https://subscribe.afr.com/afr/website_pay.aspx?referrer=3">Free 14 day trial to afr.com</a></li>
+			<li><a href="https://subscribe.afr.com/afr/default.aspx?referrer=3">Subscribe Now</a></li>
 		</ul>
 	</div>
 	<div class="footer_column3">
@@ -440,9 +512,9 @@
 			<li><a href="http://www.cfoweb.com.au/" target="_blank" class="external_link">AFR CFO</a></li>
 			<li><a href="http://www.assetmag.com.au/" target="_blank" class="external_link">AFR Asset</a></li>
 			<li><a href="/events" class="external_link">Financial Review Conferences</a></li>
-			<li><a href="http://www.finess.com.au/" target="_blank" class="external_link">Profession Education</a></li>
+			<li><a href="http://www.finess.com.au/" target="_blank" class="external_link">Professional Education</a></li>
 			<li><a href="http://www.fairfaxbr.com.au/" target="_blank" class="external_link">Fairfax Business Research</a></li>
-			<li><a href="http://www.connect4.com.au/" target="_blank" class="external_link">Connect4</a></li>
+			<!-- <li><a href="http://www.connect4.com.au/" target="_blank" class="external_link">Connect4</a></li>-->
 			<li>&nbsp;</li>
 		</ul>
 		
@@ -467,7 +539,7 @@
 	</div>
 </div>
 <ul class="copyright">
-	<li>©&nbsp; <a href="/copyright">Copyright</a> 2009 Fairfax Media Publications Pty Ltd <span>|</span></li>
+	<li>©&nbsp; <a href="/copyright">Copyright</a> 2010 Fairfax Media Publications Pty Ltd <span>|</span></li>
 	<li><a href="/privacy">Privacy</a><span>|</span></li>
 	<li><a href="/conditions_of_use">Conditions of Use</a><span>|</span></li>
 	<li><a href="/about_us">About Us</a><span>|</span></li>
@@ -488,5 +560,21 @@
  <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=afr-com&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
  </div>
 </noscript>
-<!-- END Nielsen Online SiteCensus V6.0 --></div>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
+<!-- Activity Name for this tag is:Home page -->
+<!-- Web site URL where tag should be placed: https://www.TBA -->
+<!-- This tag must be placed within the opening <body> tag, as close to the beginning of it as possible-->
+<!-- Creation Date:1/14/2010 -->
+<div id="floodlight_tracking">
+<script language="JavaScript">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+document.write('<IFRAME SRC="https://fls.doubleclick.net/activityi;src=2227036;type=afrre422;cat=homep494;ord=1;num='+ a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
+</script><iframe src="https://fls.doubleclick.net/activityi;src=2227036;type=afrre422;cat=homep494;ord=1;num=9173589784337.188?" width="1" height="1" frameborder="0"></iframe>
+<noscript>
+<IFRAME SRC="https://fls.doubleclick.net/activityi;src=2227036;type=afrre422;cat=homep494;ord=1;num=1?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>
+</noscript>
+<!-- End of DoubleClick Spotlight Tag: Please do not remove-->
+</div></div>
 </div><div class="ac_results" style="display: none; position: absolute;"></div></body></html>
