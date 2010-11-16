@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517225946id_/http%3A//www.betaclassifieds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116155353id_/http%3A//www.betaclassifieds.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
