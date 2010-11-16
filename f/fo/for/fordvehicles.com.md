@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106134347id_/http%3A//www.fordvehicles.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116234146id_/http%3A//www.fordvehicles.com/help/privacy) for the most accurate reproduction.*
 
 # Ford Privacy Policy | The Official Site of Ford Vehicles | FordVehicles.com
 
