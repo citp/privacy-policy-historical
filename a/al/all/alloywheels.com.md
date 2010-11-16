@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609114102id_/http%3A//www.alloywheels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116171932id_/http%3A//www.alloywheels.com/privacy.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Alloy Wheels, Rochford Tyres - Specialist supplier of alloy wheels and tyres packages, Fast Delivery, Buy Online.
-
-**Other sites let you buy any wheels to fit your car, they take your money then move you to other products.**
 
 **Privacy Policy**
 
@@ -71,4 +69,4 @@ The purpose of this statement is to set out how we use personal information that
 
 12\. Please be aware that our site may link to other web sites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked web sites.
 
-For further information about shopping please read our [Terms and Conditions](https://web.archive.org/web/20100609114102id_/http%3A//www.alloywheels.com/terms.asp). 
+For further information about shopping please read our [Terms and Conditions](https://web.archive.org/web/20101116171932id_/http%3A//www.alloywheels.com/terms.asp). 
