@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the articlepool.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102012354id_/http%3A//www.articlepool.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepool.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116164117id_/http%3A//articlepool.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Article Pool - Privacy Policy
 
-[](https://web.archive.org/articlewriting "Article writing service by native English writers!")
+[](https://web.archive.org/directorysubmission "Manual link submission service by our experts!")
 
 [](https://web.archive.org/articledistribution "Manual article distribution service!")
-
-[](http://www.piyy.com/ "Submit your site to piyy.com!")
 
 [Home](https://web.archive.org/index.html) Privacy Policy
 
