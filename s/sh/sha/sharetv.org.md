@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621003901id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116123259id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - shareTV.org
+# Privacy Policy - ShareTV
 
 We respect your privacy and are committed to safeguarding it while online at our site **ShareTV.org**. The following discloses the information gathering and dissemination practices for this Web site. 
 
@@ -28,4 +28,4 @@ If users have any questions or suggestions regarding our privacy policy, please 
   
 
 
-Page created in 0.0405 seconds
+Page created in 0.0411 seconds
