@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the apppicker.com privacy policy that was archived on 2010-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100504032430id_/http%3A//www.apppicker.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apppicker.com privacy policy that was archived on 2010-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101116114755id_/http%3A//apppicker.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <title>AppPicker</title>
 <meta name="description" content="">
+<meta name="ROBOT NAME" content="nosnippet">
+<meta name="google-site-verification" content="r2g5C4n6XwcJVCxfoFyUJjCrrgsbny6wx48TNe-9ATg">
+<meta name="msvalidate.01" content="A6293097ACC12AAC0EF1AA04237BB3B7">
+<meta name="y_key" content="d9c25aeadef9fd9b">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="css/style_for_ie6.css"/>
@@ -23,7 +27,10 @@
       $('a[rel*=facebox]').facebox({
         loading_image : 'loading.gif',
         close_image   : 'closelabel.gif'
-      }) 
+      })
+	  $('.apps_top_tab #app_category').change(function() {
+		$('#app_sub_category').load('get_subcategory.php?cat_id='+$(this).val());
+	  })
     })
 
 function addToList(apps_id, addAct, obj){
@@ -92,7 +99,7 @@ user_id = '';
 						if(msg != "Added Successfully."){
 							alert(msg);
 						}else{
-							$("#innb_con_right_"+item_id).html("Currently on Price Reduction or Free Alert List<br /><a href=\"javascript:void(0);\" onclick=\"noticeFnR("+apps_id+");\">Remove From Price Alert List</a>");
+							$("#innb_con_right_"+item_id).html("Currently on Price Reduction or Free Alert List<br /><a href=\"javascript:void(0);\" onclick=\"noticeFnR("+apps_id+","+item_id+");\">Remove From Price Alert List</a>");
 						}
 					}
 			});
@@ -110,11 +117,11 @@ user_id = '';
 		if(user_id){
 			$.ajax({
 				url:'user_act.php?act=removenotice&apps_id=' + apps_id,
-					success:function(msg){
-						if(msg != "Removed Successfully."){
+					success:function(msg) {
+						if(msg == 'done') {
+							$("#innb_con_right_"+item_id).html("<a href=\"javascript:void(0);\" onclick=\"noticeFn("+apps_id+","+item_id+");\">Email Me When Price<br />Reduced or is Free</a>");
+						} else {
 							alert(msg);
-						}else{
-							$("#innb_con_right_"+item_id).html("<a href=\"javascript:void(0);\" onclick=\"noticeFn("+apps_id+");\">Email Me When Price<br />Reduced or is Free</a> ");
 						}
 					}
 			});
@@ -324,8 +331,13 @@ AppPicker will use commercially reasonable efforts to promptly respond and resol
     </div><!--container end-->        
   <!--footer begin-->
   <div id="footer">
-    <div style="text-align:center; clear:both; padding-bottom:5px;">iPod, iPhone, iTunes and the Apple logo are trademarks of Apple Inc.  AppPicker is not affiliated with Apple Inc.</div>
-    <div class="in_footer"> <b>© Dutz Technologies 2010. All rights reserved.</b> <i> <a href="about_us.php">About Us</a> | <a href="whatsnews.php">What's New</a> | <a href="contact_us.php">Contact Us</a> | <a href="privacy.php">Privacy Policy</a> | <a href="team_of_use.php">Terms of Use</a></i> <s><a href="http://www.baytechwebdesign.com" target="_blank">Web Development</a> by <a href="http://www.baytechwebdesign.com" target="_blank">Baytech</a> <a href="http://www.baytechwebdesign.com" target="_blank">Web Design</a> </s> </div>
+    <div class="trademark">iPod Touch, iPhone, iPad, iTunes and the Apple logo are trademarks of Apple Inc.<br>Promotional content provided courtesy of iTunes.<br>© Dutz Technologies 2010. All rights reserved.</div>
+    <div class="in_footer">
+		<span id="siteseal">
+			<script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=nwiRYAVlYl5ZmRPxNbppFepCVLygFin32KaNSOIceroP6mSwJ24ufwyJ"></script>
+		</span>
+		<i> <a href="about_us.php">About Us</a> | <a href="whatsnews.php">What's New</a> | <a href="contact_us.php">Contact Us</a> | <a href="privacy.php">Privacy Policy</a> | <a href="terms_of_use.php">Terms of Use</a></i> <s><a href="http://www.recognos.com/" target="_blank"><img src="images/poweredby.gif"></a></s>
+	</div>
   </div>
   <!--footer end-->
 </div>
