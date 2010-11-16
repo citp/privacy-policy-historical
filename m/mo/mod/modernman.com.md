@@ -1,102 +1,104 @@
-> *The following text is extracted and transformed from the modernman.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210121548id_/http%3A//modernman.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernman.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117004524id_/http%3A//www.modernman.com/privacy-policy) for the most accurate reproduction.*
 
-# Modern Man: Privacy Policy
+# Privacy Policy | ModernMan.com
 
-**PRIVACY STATEMENT  
-MODERNMAN.COM  
-and  
-MODERN MAN BOOKS**
+**ModernMan’s   Privacy Policy**
 
-Because Modern Man Books and its website at modernman.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and has agreed to notify you of:
+**Effective as of June 1, 2010**
 
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site  
-2\. The organization collecting the information   
-3\. How the information is used   
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use and distribution of the information   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under the control of Modern Man Books.  
-7\. How you can correct any inaccuracies in the information.
+At ModernMan.com, a website operated by Modern Man Media, LLC, (“MMM”) we are committed to respecting people’s privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. By using ModernMan.com, you consent to the collection and use of your information by MMM as described in this Policy, and you signify your agreement to the ModernMan’s  Privacy Policy.
 
-If you feel that this company is not abiding by its posted privacy policy, contact Modern Man Books by mail at 116 W. Jefferson St., Mankato KS 66956 or by email to [info@modernman.com](mailto:info@modernman.com).
+### Information submitted by you for inclusion on your ModernMan’s  profile.
 
-**Information Collection and Use**
+Information, pictures and media files you upload to your account (“Submissions”) will be posted on the site, subject to our Users Terms and Conditions and accessible by all visitors to the site (unless you expressly restrict such access through your account settings), and MMM has no control over, and shall incur no responsibility for, how such visitors will use such Submissions. MMM reserves the right (but not the obligation) to remove or edit Submissions, but does not regularly review Submissions.
 
-Modern Man Books is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Modern Man Books collects information from our users at several different points on our website.
+We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our Terms of Use. You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
 
-**Registration**
+Please remember that if you post any of your personal information in public areas of the website, such as in online forums or chat rooms, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of the website.  
+****
 
-In order to use some resources of this website or to enter contests or to participate in some site programs and contests, a user must first complete a registration form. During registration a user is required to give his contact information (generally, his email address). This information is used to notify winners or to contact the user about the services, contests, resources, or programs on our site for which they have expressed interest. In some cases, we may ask for demographic information (such as income level or gender), but it's always optional for users to provide demographic information, but it's encouraged so we can provide a more personalized experience on our site.
+**What information does _MMM_ collect?**
 
-**Order**
+When you visit ModernMan.com, we collect some basic information that does not identify individual users. This includes which pages are visited and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible.
 
-We request information from the user on our order form. A customer must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date, billing address). This information is used for billing purposes and to fill a customer’s order. If we have trouble processing an order, this contact information is used to get in touch with the customer.
+When you register for the website, we collect personal information such as name, age, and email in order to set up your account.
 
-**Cookies**
+In addition to the information we collect upon your initial registration with ModernMan.com, we may ask you for personal information at other times, including, but not limited to, when you enter promotions or contests, and when you respond to a survey.
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site -- or, for that matter, while off our site. Once the user closes his browser, the cookie simply terminates. Generally, cookies exist for the convenience of users. For instance, by setting a cookie on our site, a user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, he may still use our site -- but he will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or Drawings. Cookies can also enable us to target the interests of our users to enhance the experience of our site.
+Upon cancelling your ModernMan’s  account, you have the right to request deletion of your account information, subject to our need to keep appropriate archives for our business operations.
 
-We have no access to or control over the cookies used by our business partners (for example, advertisers).
+For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third party sources and our web logs and add it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include e-mail addresses you enter into a form or pages viewed by a user at a particular IP address.
 
-**Log Files**
+We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.
 
-We may use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We have no interest whatsoever in obtaining any personally identifiable information about a user unless it is supplied by the user voluntarily -- for example, in a registration process.
+**What do we do with the information we collect?**
 
-**Sharing**
+**1.** It is used to set up and maintain your ModernMan.com account.  If you provide us with your mobile phone information, we may use such information to communicate with you regarding ModernMan.com by SMS, MMS, text message or other electronic means to a mobile device.
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+**2.** Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email.
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+**3.** Your personal information will never be sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you email about items that we feel you should know about. This includes special promotional items that MMM endorses, membership changes, terms and conditions changes, Holiday cards, and the latest happenings on ModernMan.com.Â  When we send you emails that include a link to the website, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual.
 
-We may partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+**Email Opt-out**
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+Users who no longer wish to receive our email updates or other notifications may opt-out of receiving these communications by following the instructions contained in the applicable email or by logging-in and changing their account settings.
 
-**Links**
+**With whom do we share your information and for what purpose?**
 
-This web site contains links to other sites. Please be aware that we [Modern Man Books] are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects any personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+MMM does not sell, rent, or trade any personally identifying information with others. However, when one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s). If we intend to share such information, you will be notified prior to the collection of that information. If you do not want your information to be shared, you will be able to choose not to allow the transfer by not using or signing up for that particular service, promotion or contest.
 
-**Newsletter**
+We may also share aggregate user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
+We may contract with third parties to conduct research and marketing on our behalf.  Such third parties will be fully bound by an obligation of confidentiality to MMM and may not use any personally-identifiable information provided by us other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
 
-**Surveys & Contests**
+We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. To fulfill your requests for products and services (e.g., provide you with content via your mobile phone), we may share the personally identifiable information you provide with your mobile phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities’ use of information. To learn more about your provider’s privacy practices, you should consult its privacy policy.
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose any information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, or age level). Contact information will be used to notify winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+**What information do parties other than MMM collect?**
+
+Some entities that have links on our site may collect personally identifying information about you when you access or utilize those links.  MMM does not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy.
+
+It is important to note that those entities may not follow the same privacy policies as MMM. For instance, if you click on an advertisement on ModernMan.com, you may be taken away from ModernMan.com to an entirely different site.  These links can also be from advertisers, content providers and/or partners who may use ModernMan.com’s logo and/or style as a result of a co-branding agreement yet they may still not follow the same privacy policies as MMM.
+
+Applications you use or download from our site may contain third party digital rights management systems (“DRMS”) which may allow for communication between your software and the third party and utilize security features (e.g., preventing distribution of or access to the applications in the event of unauthorized use). These DRMS are subject to their own license agreements and you agree that we shall not be responsible for any loss or damage of any sort relating to the use of the DRMS or your dealings with such third parties. The applications may also contain DRMS produced by us which allow for communication between the applications you use or download and our systems and which collect information describing your computer system in order to prevent illegal or unauthorized use of the applications. ****
+
+**What are “cookies” and “web beacons” and how do we use them?**
+
+Our site may use “cookies” and “web beacons” to speed navigation, keep track of items, and provide you with custom-tailored services.  A “web beacon” is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use “cookies” to remember information you gave us so you don’t have to re-enter it each time you visit the site. By showing us how and when visitors use the site, “cookies” and “web beacons” help us see which site areas and content are popular and which are not. We also collect IP addresses for system administration and to report aggregate information to any sponsors.  Some advertisers or websites that have links on our site may also use their own “cookies.”
+
+Most browsers are initially set to accept “cookies.” If you’d prefer, you can set yours to refuse “cookies.” You will not be able to use our service if you turn off the “cookies” option.
 
 **Security**
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
+Our member accounts are secured by member-created passwords.  In addition, we use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, as when you are just ‘surfing’.
+However, please note that we cannot guarantee the security of member account information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of our member information at any time.
 
-While we use SSL encryption to protect sensitive information online in the course of doing transactions from our storefront, we also do everything in our power to protect user-information off-line.
+**COPPA compliance**
 
-If you have any questions about privacy and security at our website, send an email to [info@modernman.com](mailto:info@modernman.com).
+Our site is not directed to children under the age of 13. We assume products purchased through credit card means are purchased by adults.Â  We have designed this privacy policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”). We will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties.
 
-**Supplementation of Information**
+If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database.
 
-In order for this website to properly fulfill its obligation to our customers, it may be necessary for us to supplement the information we receive with information from third-party sources.
+We believe that parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
 
-**Special Offers**
+**Business transitions**
 
-In some cases, we may send all new registrants a welcoming email to verify password and username. Established members may occasionally receive information on products, services, special deals, and/or a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+In the event MMM goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-**Site and Service Updates**
+**California User Consumer Rights**
 
-We may also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We may communicate with the user to provide requested services and in regards to issues relating to their account via email.
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). For more information about protecting your privacy, you may wish to visit: http: //www.ftc.gov.
 
-**Correction/Updating Personal Information:**
+**Users Located Outside of the United States**
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support at [customersupport@modernman.com](mailto:customersupport@modernman.com).
+We make an effort to protect the personal information of all users of ModernMan.com.Â  If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to ModernMan.com. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION.** Users of ModernMan.com located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States.
 
-**Choice/Opt-out**
+**Cooperation with law enforcement; fraud protection**
 
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.
+MMM fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to disclose information about members who we believe are in violation of applicable laws or regulations, or as required to respond to a subpoena, court orders or other legal process requiring such disclosure. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful and to exchange information with other companies and organizations for fraud protection.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending a message to emailing our Customer Support at [customersupport@modernman.com](mailto:customersupport@modernman.com) with the word "unsubscribe" in the subject line of the email.
+**Changes to our Privacy Policy**
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the ModernMan.com website.Â  Users are bound by any changes to the Privacy Policy when they use ModernMan.com after such changes have been first posted.Â  Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of ModernMan.com, and you are responsible for reviewing such legal notices for changes.
 
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Any questions regarding our Privacy Policy should be directed to [Modern Man Support](mailto:feedback@modernman.com).
