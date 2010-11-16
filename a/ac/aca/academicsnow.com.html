@@ -1,11 +1,20 @@
-<!--The following is the downloaded HTML source of the academicsnow.com privacy policy that was archived on 2010-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100420080551id_/http%3A//www.academicsnow.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the academicsnow.com privacy policy that was archived on 2010-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101116104510id_/http%3A//academicsnow.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Academicsnow.com</title>
-
+<title>Academicsnow</title>
 <link href="style.css" rel="stylesheet" type="text/css">
+	<script src="facefiles/jquery-1.2.2.pack.js" type="text/javascript"></script>
+<link href="facefiles/facebox.css" media="screen" rel="stylesheet" type="text/css">
+<script src="facefiles/facebox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+      $('a[rel*=facebox]').facebox() 
+    })
+</script>
+
 
 
 <script type="text/javascript" src="images/jquery.js"></script>
@@ -14,464 +23,618 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<script language="javascript">
-  function validate()
-{
-		if(document.form1.schools.selectedIndex=='')
-		{
-		alert("Please Select Search for schools:");
-		document.form1.schools.focus()
-		return false;
-		}
-	return true;
+<script language="javascript"> 
+function doFormatCheck(string) {
+  if (string.search(/^(\d{3}-\d{3}-\d{4})*$/)==-1 || string == "" ) 
+    return false;
+  else
+    return true;
 }
-</script>
-
-<script language="javascript">
-  function validate1()
+function ValidateData() 
 {
-		if(document.form2.zip.value=='')
+
+
+if (document.applyForm.Area.selectedIndex == "") 
 		{
-		alert("Please Enter Your Zip.");
-		document.form2.zip.focus()
-		return false;
-		}
-if(isNaN(document.form2.zip.value))
-		{
-		alert("Zip Code must be Numeric.");
-		document.form2.zip.focus()
-		return false;
-		}
-if (document.form2.zip.value.length < 5) {
-		alert ("Zip code must be at least 5 digits in length.");
-		document.form2.zip.focus();
+		alert ("Please select Study Area:");
+		document.applyForm.Area.focus();
 		return false;
 	}
+
+
+
+if (document.applyForm.fname.value == "") 
+		{
+		alert ("Please enter your First Name");
+		document.applyForm.fname.focus();
+		return false;
+	}
+	if(document.applyForm.fname.value.length<2)
+		{
+		alert("First Name must be at least 2 character");
+		document.applyForm.fname.focus()
+		return false;
+		}
+	if (document.applyForm.lname.value == "") {
+		alert ("Please enter your Last Name");
+		document.applyForm.lname.focus();
+		return false;
+	}
+	if(document.applyForm.lname.value.length<2)
+		{
+		alert("Last Name must be at least 2 character");
+		document.applyForm.lname.focus()
+		return false;
+		}
+	if (document.applyForm.address.value == "") {
+		alert ("Please enter your Address");
+		document.applyForm.address.focus();
+		return false;
+	}
+if(document.applyForm.address.value.length<2)
+		{
+		alert("Address must be at least 2 character");
+		document.applyForm.address.focus()
+		return false;
+		}
 		
-	return true;
-}
-</script>
-
-<script language="javascript">
-  function validate2()
-{
-		if(document.form3.degree.selectedIndex=='')
+if (document.applyForm.address.value.search(/\d+/gi) == -1)
+	  {
+		alert('Your address must contain characters and numbers.');
+		document.applyForm.address.focus()
+		return false;
+	  }
+if (document.applyForm.address.value.search(/[A-Z]+/gi) == -1)
+	  {
+		alert('Your address must contain characters and numbers.');
+		document.applyForm.address.focus()
+		return false;
+	  }
+if (document.applyForm.city.value == "") {
+		alert ("Please enter your  City");
+		document.applyForm.city.focus();
+		return false;
+	}
+if(document.applyForm.city.value.length<2)
 		{
-		alert("Please Select Search for degree:");
-		document.form3.degree.focus()
+		alert("City must be at least 2 character");
+		document.applyForm.city.focus()
+		return false;
+		}
+
+	if(document.applyForm.city.value.search(/[0-9\$\%\^\&\*\!\@\#\(\)\{\}\[\]\\\|\/\?\<\>\,\:\;\+\=\"]+/gi)!= -1)
+		{
+		alert("Your city can only contain letters");
+		document.applyForm.city.focus()
+		return false;
+		} 
+	if(document.applyForm.state.selectedIndex=='')
+		{
+		alert("Please select your state");
+		document.applyForm.state.focus();
+		return false;
+		}
+	if(document.applyForm.zip.value=='')
+		{
+		alert("Please enter Zip code.");
+		document.applyForm.zip.focus()
+		return false;
+		}
+	if(isNaN(document.applyForm.zip.value))
+		{
+		alert("Zip Code Must Be Numeric");
+		document.applyForm.zip.focus()
+		return false;
+		}
+	if(document.applyForm.zip.value.length<5)
+		{
+		alert("Please enter 5 character zip code");
+		document.applyForm.zip.focus()
+		return false;
+		}
+
+
+
+
+if(document.applyForm.email.value.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) == -1)
+		{
+		alert("Enter your valid E-mail Address");
+		document.applyForm.email.focus()
+		return false;
+		} 
+
+if (doFormatCheck(document.applyForm.phone1.value) == false)
+		 {
+		  alert("The Daytime Phone no must be Numeric & format would be xxx-xxx-xxxx ");
+		  document.applyForm.phone1.value="";
+		  document.applyForm.phone1.focus();
+		  return false;
+		 }
+
+if (doFormatCheck(document.applyForm.phone2.value) == false)
+		 {
+		  alert("The Evening Phone no must be Numeric & format would be xxx-xxx-xxxx ");
+		  document.applyForm.phone2.value="";
+		  document.applyForm.phone2.focus();
+		  return false;
+		 }
+
+	if(document.applyForm.Call.selectedIndex=='')
+		{
+		alert("Please select Best Time To Call.");
+		document.applyForm.Call.focus();
+		return false;
+		}
+
+
+	if(document.applyForm.Age.selectedIndex=='')
+		{
+		alert("Please select your Age:");
+		document.applyForm.Age.focus();
+		return false;
+		}
+
+
+
+	if(document.applyForm.Military.selectedIndex=='')
+		{
+		alert("Please select Are you associated with the United States Military?");
+		document.applyForm.Military.focus();
 		return false;
 		}
 	return true;
-}
-</script>
+  }
+  </script>
 
-<script language="javascript">
-  function validate3()
-{
-		if(document.form4.programs.selectedIndex=='')
-		{
-		alert("Please Select Search for programs:");
-		document.form4.programs.focus()
-		return false;
-		}
-	return true;
-}
-</script>
-<style type="text/css">
-<!--
-.style1 {color: #B4E821}
--->
-</style>
+
+
+
+
+
+
+
+
+
+
 </head>
 
 <body>
-<!--=====================mainbody=====================-->
-<div id="maincontant">
-<!--==================headerpanel=====================-->
-
-<div>
-<div id="logopanel"><a href="default.asp"><img src="images/logo.jpg" alt="Academicsnow.com" title="Academicsnow.com" border="0" class="logo"></a></div>
-<!--========================navpanel========================-->
-<div id="navpanel">
-<ul class="nav">
-<li><a href="what-we-do.asp" title="What We Do">What We Do</a></li>
-<li>|</li>          
-<li><a href="online-degrees.asp" title="Online Degrees">Online Degrees</a></li>          
-<li>|</li>          
-<li><a href="on-campus-learning.asp" title="On Campus Learning">On Campus Learning</a></li>          
-<li>|</li>          
-<li><a href="featuredschools.asp" title="Featured Schools">Featured Schools</a></li>          
-<li>|</li>          
-<li><a href="contactus.asp" title="Contact Us">Contact Us</a></li>
+<!-- main container -->
+<div id="main_container">
+<!-- logo & nav -->
+<div id="top_bg">
+<!-- logo -->
+<div id="logo_bg">
+<div id="logo">
+<a href="default.asp"><img src="images/logo.gif" width="239" height="76" border="0" alt="ACADEMICSNOW" title="ACADEMICSNOW"></a></div>
+</div>
+<!-- logo -->
+<!-- navigation -->
+<div id="nav">
+<ul>
+<li><a href="default.asp" title="Home">Home</a></li>
+<li><a href="online_schools.asp" title="Online Schools">Online Schools</a></li>
+<li><a href="campus_school.asp" title="Campus Schools">Campus Schools</a></li>
+<li><a href="contact_us.asp" title="Contact Us">Contact Us</a></li>
+<li><a href="privacy_policy.asp" title="privacy Policy">Privacy Policy</a></li>
 </ul>
 </div>
-<!--========================navpanel========================-->
-<!--=============================banerpanel=======================-->
-<div id="banerpanel">
-<div id="flashpanel">
-  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="543" height="234">
-    <param name="movie" value="images/header.swf">
-    <param name="quality" value="high">
-    <embed src="images/header.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="543" height="234">
-  </object>
+<!-- navigation -->
+<br class="spacer">
 </div>
-<div id="formpanel">
-<div><img src="images/form-boder.jpg" alt=""></div>
-<div id="form-bg">
-<div id="midel-form-panel">
-<div><img src="images/boder-top.jpg" alt=""></div>
-<div id="boder-bg">
+<!-- logo & nav -->
 
-<table width="335" border="0" cellspacing="0" cellpadding="0">
+<!-- main-body -->
+<div id="main_body">
+<!-- left-panel -->
+<div id="left_panel">
+<!-- degree-level -->
+<div id="degree_level">
+<img src="images/degree_level_text.gif">
+
+<div id="degree_link">
+  <ul>
+<li><a href="associate_degree.asp">Associate</a></li>
+<li><a href="bachelor_degree.asp">Bachelor</a></li>
+<li><a href="certificate.asp">Certificate</a></li>
+<li><a href="master_degree.asp">Master</a></li>
+<li><a href="phd_degrees.asp">PhD Degrees</a></li>
+</ul>
+<img src="images/deree_link_bottom_bg.gif">
+</div>
+</div>
+<!-- degree-level -->
+
+<!-- catagories -->
+<div id="degree_level">
+<img src="images/catagories_text.gif">
+
+<div id="catagories">
+<img src="images/catagories_top_bg.gif">
+<ul class="program">
+<li><a href="art_and_design_degree.asp">Art &amp; Design</a></li>
+<li><a href="business.asp">Business</a></li>
+<li><a href="cosmetology.asp">Cosmetology</a></li>
+<li><a href="culinary.asp">Culinary Arts</a></li>
+<li><a href="engineering-schools.asp">Engineering</a></li>
+<li><a href="health_care_degrees.asp">Health Care</a></li>
+<li><a href="law.asp">Law &amp; Justice</a></li>
+<li><a href="liberal_arts_humanities.asp">Liberal Arts &amp; Humanities</a></li>
+<li><a href="math_science_degrees.asp">Math &amp; Science</a></li>
+<li><a href="medical.asp">Medical Training</a></li>
+<li><a href="nursing-schools.asp">Nursing</a></li>
+<li><a href="social_science_degrees.asp">Social Science</a></li>
+<li><a href="education.asp">Education</a></li>
+<li><a href="technolgy_deegrees.asp">Technology</a></li>
+<!--<li><a href="theology_&_religion_degrees.asp">Theology & Religion</a></li>-->
+<li><a href="vocational-schoolsasp.asp">Vocational</a></li>
+</ul>
+<img src="images/catagories_bottom_bg.gif">
+</div>
+</div>
+<!-- catagories -->
+
+<!-- banner -->
+<div id="degree_level">
+<div id="banner">
+<a href="http://www.academicsnow.com/fcc/index1.htm"><img src="images/fcc.gif" width="210" height="75" class="banner1"></a>
+<a href="http://www.academicsnow.com/liberty/"><img src="images/liberty.gif" width="210" height="75"></a>
+</div>
+<img src="images/banner_bottom_bg.gif">
+</div>
+<!-- banner -->
+
+<!-- catagories -->
+<div id="degree_level">
+<img src="images/popular_program_text.gif">
+
+<div id="catagories">
+<img src="images/catagories_top_bg.gif">
+<ul class="program">
+<li><a href="accounting_schools.asp">Accounting Schools</a></li>
+<!--<li><a href="#">Allied Health Schools</a></li>-->
+<li><a href="auto_mechanic_schools.asp">Auto Mechanic Schools</a></li>
+<li><a href="criminaljustice.asp">Criminal Justice Schools</a></li>
+<li><a href="forensicscience.asp">Forensic Science Degrees</a></li>
+<li><a href="management-degree.asp">Management Degree</a></li>
+<li><a href="marketing_degrees.asp">Marketing Degrees</a></li>
+<li><a href="massage_therapy_schools.asp">Massage Therapy Schools</a></li>
+<li><a href="nursing-schools.asp">Nursing</a></li>
+<li><a href="physical_therapy_schools.asp">Physical Therapy Schools</a></li>
+<li><a href="psychology-schools.asp">Psychology Schools</a></li>
+<!--<li><a href="#">Six Sigma Certification Tra...</a></li>
+<li><a href="social_work_degrees.asp">Social Work Degrees</a></li>
+<li><a href="#">Surgical Technician Schools</a></li>
+<li><a href="ultrasound-technician-schools.asp">Ultrasound Technician Sch...</a></li>
+<li><a href="veterinary_technician_schools.asp">Veterinary Technician Sch...</a></li>-->
+<li><a href="webdesign.asp">Web Design Schools</a></li>
+</ul>
+<img src="images/catagories_bottom_bg.gif">
+</div>
+</div>
+<!-- catagories -->
+
+<!-- banner -->
+<div id="degree_level">
+<div id="banner"><a href="http://academicsnow.com/apply/apollo/ "><img src="images/apollo.gif" width="210" height="75" class="banner1"></a>
+
+
+
+<a href="http://academicsnow.com/apply/iadt/"><img src="images/iadt.gif" width="210" height="75" class="banner1"></a>
+
+
+
+
+</div>
+</div>
+<!-- banner -->
+</div>
+<!-- left-panel -->
+
+<!-- middle-panel -->
+<div id="online_schoolbg">
+<div id="online_school">
+<!-- online schools -->
+<div id="schools">
+
+
+<h2 class="school_head">Privacy Policy</h2>
+<!-- school text -->
+
+
+<p><strong>About us</strong><br>
+
+Academicsnow.com, has created this privacy policy (hereinafter the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use Academicsnow.com (the "Website"); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website.
+</p><br>
+
+<p><strong>Information We Collect:</strong><br>
+
+The information that we collect is generally limited to personal information about you that you submit on the Website. The personally identifiable information that may be collected includes: your name; address; email address; telephone number; fax number; information about your interests in and use of various products, programs, and services; and education level and interests. Although we are not collecting credit card information at this time, we reserve the right to do so in the future. To the extent that customer credit card-specific information is collected by Academicsnow.com and any of its affiliates and/or subsidiaries, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the customer's prior informed consent. Notwithstanding the foregoing, Academicsnow.com and its affiliates and subsidiaries reserve the right to share with third parties the fact that they have credit card information on file for specific customers but they will not share this credit card information with third parties without the customer's prior informed consent.
+</p><br>
+
+<p>Like most standard website servers, we use log files. Log files track anonymous user information including, but not limited to, Internet Protocol ("IP") addresses, browser type, Internet Service Provider ("ISP"), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is tracked in order to analyze trends, administer the Website, track users movements in the aggregate and gather broad demographic information for aggregate use. The information tracked via log files is not linked to personally identifiable information.
+</p><br>
+
+<p><strong>Cookies:</strong><br>
+
+The Website uses a "cookie" to assign a unique identifier to your computer. The cookies we use are persistent files that your web browser places on your computers hard drive. Cookies may be used to help save information on past activities and other preferences, so that you are not required to reenter information each time that you visit the Website, and to deliver content specific to your interests. No personally identifiable information is gathered by the cookie.
+</p><br>
+
+<p><strong>How We Use Your Information:</strong><br>
+
+Any personal information that you supply to us remains your personal property. However, by submitting that information to Academicsnow.com, you grant us the right to use your personal information for any legal purpose including, without limitation: a) providing promotional offers to you via email advertising and/or online banner advertising; b) transferring the personal information that you provided to a third party, when necessary, to receive a product, service, or information that you may have requested from such third party while using the Website; c) tracking compliance with our Terms and Conditions; and d) for validation, suppression, content improvement and feedback purposes.
+</p><br>
+
+<p>By submitting your information to the Website, you grant Academicsnow.com the right to use that information for marketing purposes, and agree to receive email marketing from the Website. We may maintain separate email lists for different purposes. In order to end your email subscription to a particular list, you must follow the instructions contained in any email correspondence that you receive from Academicsnow.com. Unsubscribing from one list will not automatically unsubscribe you from all email lists. We only send email marketing to individuals that have agreed, whether by visiting this Website or through third party websites, to receive email marketing from Academicsnow.com. We do not send unsolicited bulk email. As a result, certain statutes, requiring particular formatting for unsolicited bulk email may not be applicable to the bulk email that is sent by Academicsnow.com.
+</p><br>
+
+<p>Though we make every effort to preserve user privacy, we may be required to disclose personal information in some instances, such as: 1) when required by law wherein we have a good faith belief that such action is necessary to comply with a judicial proceeding, court order, and/or subpoena; 2) in the event that Academicsnow.com is sold or acquired; or 3) in the event that we believe that the Website is being, or has been, used in violation of our terms and conditions or to commit unlawful acts. Moreover, you hereby consent to the disclosure of any record or communication to any third party when Academicsnow.com, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your email address with other third parties for suppression purposes in compliance with the provisions of the CAN-SPAM Act of 2003, as amended from time-to-time.
+</p><br>
+
+<p>By submitting your e-mail address at the Website you agree to receive e-mail marketing from Academicsnow.com and our third-party advertisers. We may sell our user information and/or join together with other businesses to bring selected opportunities to our users. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 C.F.R. 310, et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commissions Do-Not-Call List, Academicsnow.com retains the right to contact you via telemarketing in accordance with the ATSR.
+</p><br>
+
+<p><strong>Minors:</strong><br>
+
+Visitors under 18 years of age are not permitted to use and/or submit their personal information at the Website. Academicsnow.com does not knowingly solicit or collect information from individuals under the age of 18. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+</p><br>
+
+<p><strong>Security:</strong><br>
+
+All collected information is stored in a technically and physically secure environment. Furthermore, access to this information is strictly limited, and the information is not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all Academicsnow.com user information. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we use appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data.
+</p><br>
+
+<p>In addition, Academicsnow.com has security measures in place to protect the loss, misuse and alteration of personal information under our control.
+</p><br>
+
+<p>Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure.
+</p><br>
+
+<p><strong>Changes to the Privacy Policy &amp; Notification of Changes:</strong>
+Academicsnow.com reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website that we are changing our Privacy Policy. If the manner in which we use personally identifiable information changes, we will notify users by posting the changes on this Website. Any and all changes to our Privacy Policy are effective immediately upon posting. The users continued use of the Website and/or continued receipt of Academicsnow.com e-mails constitutes an affirmative acknowledgement and acceptance by the user to the terms of the modified Privacy Policy.
+</p><br>
+
+<p><strong>Contacting the Website:</strong><br>
+
+If you have any questions about this Privacy Policy or the practices Academicsnow.com please feel free to contact us in writing to info@academicsnow.com. 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<!-- online schools -->
+</div>
+<img src="images/online_school_bottom_bg.gif">
+</div>
+<!-- middle-panel -->
+
+<br class="spacer">
+</div>
+<!-- main-body -->
+
+<!-- academics-now -->
+<div id="academics_now">
+<img src="images/academics-top-bg.gif">
+<div id="academics">
+<img src="images/academics-text.gif">
+<img src="images/academic-bottom-bg.gif">
+<div id="academics_text">
+<!--<div id="academics_text_left">
+<p>Get Degrees® is one of the most comprehensive online and campus education destinations on the web today. New and continuing students can easily find and compare programs from popular accredited institutions. Check out College Reviews to get the scoop on thousands of schools or post your own experience. Visit Career Center for insightful career ideas and interviews with top faculty in education. Use Get Degrees to advance your career today.</p>
+</div>
+-->
+<div id="academics_text_link">
+<ul>
+<li><a href="default.asp" title="Home">Home</a></li>
+<li><a href="online_schools.asp" title="Online Schools">Online Schools</a></li>
+<li><a href="campus_school.asp" title="Campus Schools">Campus Schools</a></li>
+<li><a href="contact_us.asp" title="Contact Us">Contact Us</a></li>
+<li><a href="privacy_policy.asp" title="privacy Policy">Privacy Policy</a></li>
+</ul>
+</div>
+<br class="spacer">
+</div>
+<img src="images/acdamics-bottom1-bg.gif">
+</div>
+
+<div><img src="images/contact_bg.gif" alt="" border="0" usemap="#Map">
+<map name="Map" id="Map">
+  <area shape="rect" coords="72,102,203,114" href="contact_us.asp"><area shape="rect" coords="43,128,204,141" href="contact_us.asp">
+</map></div>
+<br class="spacer">
+</div>
+<!-- academics-now -->
+</div>
+<!-- main container -->
+<!-- footer -->
+<div id="footer_bg">
+  <div id="footer">AcademicsNow © 2010</div>
+</div>
+<!-- footer -->
+
+
+
+
+
+
+
+<div id="mydiv" style="display:none;">
+
+
+
+
+<style type="text/css">
+
+
+
+ul{
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+
+a{
+	text-decoration:none;
+	border:none;
+}
+
+img{
+	padding:0;
+	margin:0;
+	border:none;
+}
+
+.avalaible_pad{
+	padding:100px 0;
+}
+
+h2.avalaible_program_text{
+	background:url(images/available_program_text.gif) no-repeat 0 0;
+	text-indent:-2000px;
+	display:block;
+	height:32px;
+}
+
+.avalaible_bg{
+	background-color:#FFFFFF;
+	color:inherit;
+	padding:29px 0 40px 46px;
+}
+
+p.onlineschools_text{
+	padding:0 0 0 0px;
+	font:bold 20px/22px Arial, Helvetica, sans-serif;
+	color:#666666;
+	}
+ul.nav001{
+	padding:0 0 0 0px;
+	}
+ul.nav001 li{
+	padding:0 25px 0 0px;
+	font:bold 12px/35px Arial, Helvetica, sans-serif;
+	color:#818181;
+	float:left;
+	}
+ul.nav001 li a{
+	color:#818181;
+	}
+ul.nav001 li a:hover, ul.nav001 li a.active{
+	color:#5269CE;
+	}
+.boder01{
+	background:url(images/nav_bg01.gif) left bottom repeat-x;
+	}
+	
+ul.list{
+	padding:20px 0 0 0px;
+	}
+ul.list li{
+	padding:0 0 0 0px;
+	font:normal 12px/15px Arial, Helvetica, sans-serif;
+	color:#666666;
+	}	
+ul.list li a{
+	font:normal 12px/15px Arial, Helvetica, sans-serif;
+	color:#666666;
+	}	
+</style>	 
+
+
+
+
+
+
+
+ 
+
+
+<table width="660" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="left" valign="top"><img src="images/close.gif" width="660" height="32" border="0" usemap="#Map"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" class="avalaible_bg"><table width="594" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="134" align="left" valign="top"><img src="images/img2.gif" width="82" height="50"></td>
+            <td align="left" valign="top">
+			<p class="onlineschools_text">Online Schools   
+			
+			
+
+			
+				</p>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td colspan="3">
-	<h3 class="search">Search for a School by:</h3>	</td>
-    </tr>
-	<form id="form1" name="form1" onsubmit="return validate();" action="ans.asp" method="post"></form>
-  <tr>
-    <td width="106" align="left" valign="top"><p class="text">Type<span>:</span></p></td>
-    <td width="184" align="left" valign="top"><select name="schools" class="input"> 
-        <option value="" selected="">Select One</option> <option value="Campus">Campus</option> <option value="Online">Online</option> 
-        <option value="Both">Both</option> <option value="Canadian">Canadian</option></select></td>
-    <td width="45" align="left" valign="top"><input type="image" name="imageField" title="Go" src="images/go.jpg"></td>
+    <td align="left" valign="top" class="boder01">
+		<ul class="nav001">
+			<li><a href="#" class="active">Associate</a></li>          
+			<li><a href="#">Bachelor</a></li>          
+			<li><a href="#">Certificate</a></li>          
+			<li><a href="#">Master </a></li>         
+			<li><a href="#">PhD Degree</a></li>
+		</ul>
+	</td>
   </tr>
-    <form id="form3" name="form3" method="post" action="ans.asp" onsubmit="return validate2();"></form>
   <tr>
-    <td width="106" align="left" valign="top"><p class="text">Degree<span class="dot">:</span> </p></td>
-    <td width="184" align="left" valign="top"><select name="degree" class="input"> <option selected="">Search for degree:</option> <option value="Associates">Associates</option> <option value="Bachelors">Bachelors</option> <option value="Masters">Masters</option> <option value="Certificate">Certificate</option> <option value="PhD">PhD</option></select>    </td>
-    <td width="45" align="left" valign="top"><input type="image" name="imageField" title="Go" src="images/go.jpg"></td>
-  </tr>
-  
-   <form id="form4" name="form4" method="post" action="ans.asp" onsubmit="return validate3();"></form>
-  
-  <tr>
-    <td width="106" align="left" valign="top"><p class="text">Programs<span class="dot1">:</span></p></td>
-    <td width="184" align="left" valign="top"><select name="programs" class="input" style="width:170px;">
-      <option value="" selected="">Select 
-        One</option>
-      <option value="Accounting">Accounting</option>
-      <option value="Architecture">Architecture</option>
-      <option value="Automotive">Automotive</option>
-      <option value="Broadcasting">Broadcasting</option>
-      <option value="BusinessAdministration">Business Administration</option>
-      <option value="Cosmetology">Cosmetology</option>
-      <option value="Culinary">Culinary</option>
-      <option value="DentalAssistant">Dental 
-        Assistant</option>
-      <option value="EducationalAdministrator">Educational 
-        Administrator</option>
-      <option value="ElementaryEducation">Elementary 
-        Education</option>
-      <option value="Fashion">Fashion</option>
-      <option value="Film">Film</option>
-      <option value="Finance">Finance</option>
-      <option value="FineArts">Fine Arts</option>
-      <option value="GraphicDesign">Graphic 
-        Design</option>
-      <option value="HealthCareManagement">Health Care 
-        Management</option>
-      <option value="HumanResources">Human 
-        Resources</option>
-      <option value="InternationalBusiness">International 
-        Business</option>
-      <option value="Marketing">Marketing</option>
-      <option value="Nursing">Nursing</option>
-      <option value="Psychology">Psychology</option>
-      <option value="PhysicalTherapy">Physical Therapy</option>
-      <option value="ProjectManagement">Project Management</option>
-      <option value="Teaching">Teaching</option>
-      <option value="VideoGaming">Video 
-        Gaming</option>
-      <option value="WebDesign">Web Design</option>
-    </select></td>
-    <td width="45" align="left" valign="top"><input type="image" name="imageField" title="Go" src="images/go.jpg"></td>
-  </tr>
-  
-  
-   <form id="form2" name="form2" method="post" action="ans.asp?degree=zipsearch" onsubmit="return validate1();"></form>
-  <tr>
-    <td width="106" align="left" valign="top"><p class="text">Locally<span class="dot2">:</span></p></td>
-    <td width="184" align="left" valign="top"><input style="MARGIN-LEFT: 1px; WIDTH: 150px" maxlength="5" value="Zip Code" name="zip" class="input">    </td>
-    <td width="45" align="left" valign="top"><input type="image" name="imageField" title="Go" src="images/go.jpg"></td>
+    <td align="left" valign="top">
+	<ul class="list">
+					<li>AA in Accounting</li>
+					<li>AA in Communications</li>
+					<li>AA in Criminal Justice</li>
+					<li>AA in General Studies</li>
+					<li>AA in Health Care Administration</li>
+					<li>AA in Health Care Administration-Medical Records</li>
+					<li>AA in Health Care Administration-Pharmacy Practice</li>
+					<li>AA in Hospitality, Travel, and Tourism</li>
+					<li>AA in Human Services Management</li>
+					<li>AA in Information Technology</li>
+					<li>AA in Information Technology/Database Development</li>
+					<li>AA in Information Technology/Information Technology Support</li>
+					<li>AA in Information Technology/Networking</li>
+					<li>AA in Information Technology/Programming</li>
+					<li>AA in Information Technology/Web Design</li>
+					<li>AA in Paraprofessional Education</li>
+					<li>AA in Psychology</li>
+					<li>AA in Sports Management</li>
+					<li>Associate of Arts in Accounting (Minnesota)</li>
+					<li>Associate of Arts in Business (Minnesota)</li>
+					<li>Associate of Arts in Criminal Justice (Minnesota)</li>
+					<li>Associate of Arts in Elementary Education</li>
+					<li>Associate of Arts in Financial Services</li>
+					<li>Associate of Arts in Foundations of Business</li>
+					<li>Associate of Arts in General Studies (Minnesota)</li>
+					<li>Associate of Arts in Information Technology (Minnesota)</li>
+				
+
+		</ul>	
+
+	</td>
   </tr>
 </tbody></table>
 
-</div>
-<div><img src="images/boder-botton.jpg" alt=""></div>
-</div>
-</div>
-<div><img src="images/form-boder-bottom.jpg" alt=""></div>
-</div>
-</div>
-</div>
+			</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+</tbody></table>
 
 
-<!--=============================banerpanelend=======================-->
-<!--====================================bodypanel============================-->
-<div id="bodypanel">
-<div><img src="images/body-panel-carb.jpg" alt="" style="padding:10px 0 0 0"></div>
-<div id="bodypanel-carb5">
 
-<div id="bodymidel">
-<div id="online">
-<div id="online1">
-<div><img src="images/online-boder-top.jpg" alt="" style="margin-top:12px;"></div>
-<div id="online-bg1">
-<img src="images/business-meeting.jpg" alt="" width="176" height="85">
-<p class="online-text"><a href="business.asp">Business</a></p>
-</div>
-<div><img src="images/online-boder-bottom.jpg" alt=""></div>
-</div>
-</div>
-<div id="financial">
-<div id="online1">
-<div><img src="images/online-boder-top.jpg" alt="" style="margin-top:12px;"></div>
-<div id="online-bg1"><img src="images/canada.jpg" alt="" width="176" height="85">
-<p class="online-text"><a href="canada.asp">Canada</a></p>
-</div>
-<div><img src="images/online-boder-bottom.jpg" alt=""></div>
-</div>
-
-</div>
-<div id="courses">
-<div id="online1">
-<div><img src="images/online-boder-top.jpg" alt="" style="margin-top:12px;"></div>
-<div id="online-bg">
-<p class="online-text2"><a href="majors.asp" title="Courses">Majors</a></p>
-<p class="onlinesasociate1"><a href="majors.asp">Click here to see a list of majors and find<br>
-  out which is right for you!</a></p>
-</div>
-<div><img src="images/online-boder-bottom.jpg" alt=""></div>
-</div>
-</div>
-</div>
-<!--=============================bottonpanel===========================-->
-<div id="body-bottom">
-<div id="body-bottom-left">
-<p class="there"><strong>Privacy Policy</strong></p>
-  <p class="youcan"><strong>About us</strong><br>Academicsnow.com, has created this privacy policy (hereinafter the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use Academicsnow.com (the "Website"); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website.</p>
-  <p class="youcan"><strong>Information We Collect:</strong><br>The information that we collect is generally limited to personal information about you that you submit on the Website. The personally identifiable information that may be collected includes: your name; address; email address; telephone number; fax number; information about your interests in and use of various products, programs, and services; and education level and interests. Although we are not collecting credit card information at this time, we reserve the right to do so in the future. To the extent that customer credit card-specific information is collected by Academicsnow.com and any of its affiliates and/or subsidiaries, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the customer's prior informed consent. Notwithstanding the foregoing, Academicsnow.com and its affiliates and subsidiaries reserve the right to share with third parties the fact that they have credit card information on file for specific customers but they will not share this credit card information with third parties without the customer's prior informed consent.
-  </p>
-  <p class="youcan">Like most standard website servers, we use log files. Log files track anonymous user information including, but not limited to, Internet Protocol ("IP") addresses, browser type, Internet Service Provider ("ISP"), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is tracked in order to analyze trends, administer the Website, track users movements in the aggregate and gather broad demographic information for aggregate use. The information tracked via log files is not linked to personally identifiable information.</p>
-  <p class="youcan"><strong>Cookies:</strong><br>The Website uses a "cookie" to assign a unique identifier to your computer. The cookies we use are persistent files that your web browser places on your computers hard drive. Cookies may be used to help save information on past activities and other preferences, so that you are not required to reenter information each time that you visit the Website, and to deliver content specific to your interests. No personally identifiable information is gathered by the cookie.
-  </p>
-  <p class="youcan"><strong>How We Use Your Information:</strong><br>
-  Any personal information that you supply to us remains your personal property. However, by submitting that information to Academicsnow.com, you grant us the right to use your personal information for any legal purpose including, without limitation: a) providing promotional offers to you via email advertising and/or online banner advertising; b) transferring the personal information that you provided to a third party, when necessary, to receive a product, service, or information that you may have requested from such third party while using the Website; c) tracking compliance with our Terms and Conditions; and d) for validation, suppression, content improvement and feedback purposes.
-  </p>
-  <p class="youcan">
-  By submitting your information to the Website, you grant Academicsnow.com the right to use that information for marketing purposes, and agree to receive email marketing from the Website. We may maintain separate email lists for different purposes. In order to end your email subscription to a particular list, you must follow the instructions contained in any email correspondence that you receive from Academicsnow.com. Unsubscribing from one list will not automatically unsubscribe you from all email lists. We only send email marketing to individuals that have agreed, whether by visiting this Website or through third party websites, to receive email marketing from Academicsnow.com. We do not send unsolicited bulk email. As a result, certain statutes, requiring particular formatting for unsolicited bulk email may not be applicable to the bulk email that is sent by Academicsnow.com.
-  </p>
-  <p class="youcan">
-  Though we make every effort to preserve user privacy, we may be required to disclose personal information in some instances, such as: 1) when required by law wherein we have a good faith belief that such action is necessary to comply with a judicial proceeding, court order, and/or subpoena; 2) in the event that Academicsnow.com is sold or acquired; or 3) in the event that we believe that the Website is being, or has been, used in violation of our terms and conditions or to commit unlawful acts. Moreover, you hereby consent to the disclosure of any record or communication to any third party when Academicsnow.com, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your email address with other third parties for suppression purposes in compliance with the provisions of the CAN-SPAM Act of 2003, as amended from time-to-time.
-  </p>
-  <p class="youcan">
-  By submitting your e-mail address at the Website you agree to receive e-mail marketing from Academicsnow.com and our third-party advertisers. We may sell our user information and/or join together with other businesses to bring selected opportunities to our users. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 C.F.R. 310, et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commissions Do-Not-Call List, Academicsnow.com retains the right to contact you via telemarketing in accordance with the ATSR.
-  </p>
-  <p class="youcan"><strong>Minors:</strong><br>
-Visitors under 18 years of age are not permitted to use and/or submit their personal information at the Website. Academicsnow.com does not knowingly solicit or collect information from individuals under the age of 18. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.</p>
-<p class="youcan"><strong>Security: </strong><br>
-All collected information is stored in a technically and physically secure environment. Furthermore, access to this information is strictly limited, and the information is not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all Academicsnow.com user information. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we use appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data.
-</p>
-<p class="youcan">In addition, Academicsnow.com has security measures in place to protect the loss, misuse and alteration of personal information under our control.</p>
-  <p class="youcan">Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure.</p>
-  <p class="youcan">
-  <strong>Changes to the Privacy Policy &amp; Notification of Changes:</strong><br>
-  Academicsnow.com reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website that we are changing our Privacy Policy. If the manner in which we use personally identifiable information changes, we will notify users by posting the changes on this Website. Any and all changes to our Privacy Policy are effective immediately upon posting. The users continued use of the Website and/or continued receipt of Academicsnow.com e-mails constitutes an affirmative acknowledgement and acceptance by the user to the terms of the modified Privacy Policy. 
-  </p>
-  <p class="youcan">
-  <strong>Contacting the Website:</strong> <br>
-  If you have any questions about this Privacy Policy or the practices Academicsnow.com please feel free to contact us in writing to info@academicsnow.com.
-  </p>
-  <br style="clear:both;">
-  </div>
-
-
-
-
-
-
-
-
-
-<div id="body-bottom-right">
-<h2 class="asthe">&nbsp;</h2>
-<div><img src="images/right-baner-boder.jpg" alt=""></div>
-<div id="right-bg-baner">
-<div id="midelfeatured">
-<div><img src="images/fi-top.jpg" alt=""></div>
-<div id="midelfeatured-bg">
-<p class="fea">Featured School</p>
-</div>
-<div><img src="images/fi-bottom.jpg" alt=""></div>
-
-<div>
-	<ul class="innerfade offerSlideShow" style="position: relative; height: 80px; margin-top:10px">
-		<li style="z-index: 3; position: absolute; display: block; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/iadt/" target="_offer"> <img src="images/ladt.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>
-		<li style="z-index: 2; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/wiu/" target="_offer"> <img src="images/wiulogo.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>	
-		<li style="z-index: 1; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../degreestreet/" target="_offer"> <img src="images/degreestreet.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>	
-		<!--<li style="z-index: 3; position: absolute; display: block; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../degreestreet/" target="_offer"> <img src="images/degreestreet.jpg" alt="" border="0" width="160" height="60" /></a>
-		</li-->	
-	</ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div>
-	<ul class="innerfade offerSlideShow" style="position: relative; height: 80px; margin-top:10px">
-		<li style="z-index: 3; position: absolute; display: block; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/icb/" target="_offer"> <img src="images/International-College-of-Br.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>			  
-		<li style="z-index: 2; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/ati/" target="_offer"> <img src="images/ati.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>
-		<li style="z-index: 1; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/kaplan/" target="_offer"> <img src="images/kaplan.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>
-		
-		
-		
-	</ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-<div>
-	<ul class="innerfade offerSlideShow" style="position: relative; height: 80px; margin-top:10px">
-		<li style="z-index: 3; position: absolute; display: block; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/salem/" target="_offer"> <img src="images/salem.gif" alt="" width="160" height="60" border="0"></a>
-		</li>
-		
-		<li style="z-index: 2; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/sl_grad/" target="_offer"> <img src="images/stleo.jpg" alt="" width="160" height="60" border="0"></a>
-		</li>
-		<li style="z-index: 1; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/apollo/" target="_offer"> <img src="images/apollo.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>
-	</ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div>
-	<ul class="innerfade offerSlideShow" style="position: relative; height: 80px; margin-top:10px">
-		<li style="z-index: 3; position: absolute; display: block; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/ibmc" target="_offer"><img src="images/Institute-business-technolo.jpg" alt="" width="160" height="60" border="0"></a>
-		</li>
-		<li style="z-index: 2; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/stvti/" target="_offer"><img src="images/stvti.jpg" alt="" width="160" height="60" border="0"></a>
-		</li>
-	<li style="z-index: 1; position: absolute; display: none; opacity: 0.9999; left: 40px; top: 0px; width: 160px; height: 100px;">
-			<a href="../apply/daytona/" target="_offer"> <img src="images/daytona1.jpg" alt="" border="0" width="160" height="60"></a>
-		</li>	
-	</ul>
-</div>				
-
-
-
-
-
-
-
-
-
-
-</div>
-
-</div>
-<div class="bypss"><!--<img src="images/right-baner-boder-bottom.jpg" alt="" />--></div>
-
-
-</div>
-
-
-
-
-
-
-</div><br class="specer">
-<!--=============================bottonpanel===========================-->
-
-<div id="bodypanel12">
-<ul class="footernav">
-<li><a href="what-we-do.asp" title="What We Do">What We Do</a></li>
-<li>|</li>          
-<li><a href="online-degrees.asp" title="Online Degrees">Online Degrees</a></li>          
-<li>|</li>          
-<li><a href="on-campus-learning.asp" title="On Campus Learning">On Campus Learning</a></li>          
-<li>|</li>          
-<li><a href="featuredschools.asp" title="Featured Schools">Featured Schools</a></li>          
-<li>|</li>          
-<li><a href="contactus.asp" title="Contact Us">Contact Us</a></li>
-<li>|</li>          
-<li><a href="privacypolicy.asp" title="Privacy Policy">Privacy Policy</a></li>
-</ul>
-
-</div>
-
-</div>
-
-
-
-<div><img src="images/body-panel-botton-carb.jpg" alt="" style="margin:0 0 20px 0"></div>
-</div><br class="specer">
-
-
-
-<!--====================================bodypanel end============================-->
-<!--==================headerpanelend=====================-->
-</div>
-<!--=====================mainbody end=====================-->
-
-
-</body></html>
+<map name="Map" id="Map">
+<area shape="poly" coords="595,5,650,4,648,26,595,27,594,5" href="online_schools.asp" id="lightwindow_title_bar_close_link">
+</map>
+</div>  <div id="facebox" style="display:none;">     <div class="popup">       <table>         <tbody>           <tr>             <td class="tl"></td><td class="b"></td><td class="tr"></td>           </tr>           <tr>             <td class="b"></td>             <td class="body">               <div class="content">               </div>               <div class="footer">                 <a href="#" class="close">                                   </a>               </div>             </td>             <td class="b"></td>           </tr>           <tr>             <td class="bl"></td><td class="b"></td><td class="br"></td>           </tr>         </tbody>       </table>     </div>   </div></body></html>
