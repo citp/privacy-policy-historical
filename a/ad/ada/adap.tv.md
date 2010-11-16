@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624023734id_/http%3A//www.adap.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116114422id_/http%3A//www.adap.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Adap.tv
 
