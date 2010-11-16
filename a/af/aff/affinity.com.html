@@ -1,253 +1,166 @@
-<!--The following is the downloaded HTML source of the affinity.com privacy policy that was archived on 2009-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090907124338id_/http%3A//www.affinity.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the affinity.com privacy policy that was archived on 2010-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101116104000id_/http%3A//www.affinity.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<base href="http://www.affinity.com/"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy | Affinity Advertiser &amp; Publisher Solutions</title>
+<link href="/css/affinity.css" type="text/css" rel="stylesheet">
+<link href="/css/style.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.pop.js"></script>
+<script type="text/javascript" src="/js/jquery.dropdownPlain.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/common.js"> </script>
+<script type="text/javascript">
+ $(document).ready(function(){
+	$(".signin").click(function(e) {          
+		e.preventDefault();
+			  $("fieldset#signin_menu").toggle();
+		$(".signin").toggleClass("menu-open");
+		  });
 
-<title>Advertisers and Publishers Solutions by Affinity</title>
-
-<link href="images/logo.ico" rel="SHORTCUT ICON">
-<link href="text.css" rel="stylesheet" type="text/css">
-
-<script language="JavaScript">
-<!--
- // mmLoadMenus()
-//-->
+		$("fieldset#signin_menu").mouseup(function() {
+			return false
+		});
+		$(document).mouseup(function(e) {
+			if($(e.target).parent("a.signin").length==0) {
+				$(".signin").removeClass("menu-open");
+				$("fieldset#signin_menu").hide();
+			}
+		});	
+ });
 </script>
-<script language="JavaScript" src="js/common.js"></script>
-<script language="JavaScript" src="mm_menu.js"></script>
-<script language="javascript" src="common.js"></script>
-
 
 </head>
 
 <body>
-<script language="JavaScript1.2">mmLoadMenus();</script>
-<!--baap-->
-<div class="baap">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td height="343" class="head1_left_bg"><img src="images/spacer.gif" width="1" height="114"></td>
-      <td style="width:950px;"><div class="head1" style="background-color:#003762; height:114px; float:left;">
-        <div class="logo_container" style="width: 440px;">
-          <div class="logo"><img src="images/logo.gif" alt="Affinity"></div>
-        </div>
-        <div class="logo_container" style="background-image:url(images/nav_bg.gif); background-position:bottom; background-repeat:repeat-x; width:475px; float:right;">
-          <div style="height:55px;width:475px;">  <div style="padding-top:15px; float:right;">
-  	<script language="javascirpt" type="text/javascript">
-  	function loginchk()
-  	{
-  		if(document.login_frm.username.value == "" || document.login_frm.username.value == "Login")
-  		{
-  			alert("Please Enter Username.");
-  			document.login_frm.username.focus();
-  			return false;
-  		}
-  		if(document.login_frm['password'].value == "")
-  		{
-  			alert("Please Enter Password.");
-  			document.login_frm['password'].focus();
-  			return false;
-  		}
-		return true;
-  	}
 
-  	function loginopt(cellobj)
-  	{   
-  		
-  		document.login_frm.validate.value = "Login";
-  		if(parseInt(cellobj.value) == 1)
-  		{  //advertiser
-			document.login_frm.action =  "http://ads.affinity.com/login.html";
-			document.getElementById('forgot_pass').href = "http://ads.affinity.com/forgotpassword.html"
-  		}
-  		else if(parseInt(cellobj.value) == 2)
-  		{ //
-			document.login_frm.action =  "http://xs.publishers.hostway.com/login.html";
-  			document.login_frm.validate.value = "login";
-  			document.getElementById('forgot_pass').href = "http://xs.publishers.hostway.com/forgotpassword.html"
-  		}
-  		else if(parseInt(cellobj.value) == 3)
-  		{
-			document.login_frm.action =  "http://domains.pub.affinity.com/login.html";
-			document.getElementById('forgot_pass').href = "http://domains.pub.affinity.com/forgotpassword.html"
-  		}
-  		else if (parseInt(cellobj.value) == 4)
-  		{
-			document.login_frm.action =  "http://wurm.publishers.hostway.com/login.html";
-			document.getElementById('forgot_pass').href = "http://wurm.publishers.hostway.com/forgotpassword.html"
-			  		}else
-  		{
-  			alert("Invalid Choice.");
-  		}
-  		
-		//alert( document.login_frm.action );
-  	}
+<!--[if IE 6]>
+<style>
+	#menu ul {left:33px;}
+	#menu #pub ul {left:178px;}
+	#menu #abt ul {left:324px;}
+</style>
+<![endif]-->
 
-  	
-  	</script>
-  	
-  	
-  	
-              <form id="login_frm" name="login_frm" method="post" action="http://ads.affinity.com/login.html" onsubmit="javascript: return loginchk();">
-              <input type="hidden" name="validate" value="Login">
-	<div style="float:left; width:93px;">
-		<select size="1" class="searchbox01" onchange="javascript:loginopt(this);" style="width:90px;">
-		<option value="1" style="font-size:11px; color:#003865;" selected="selected">Advertiser</option>
-		<optgroup label="Publisher">
-			<option value="2" style="font-size:11px; color:#003865;">Search</option>
-			<option value="3" style="font-size:11px; color:#003865;">Domains</option>
-			<option value="4" style="font-size:11px; color:#003865;">URL Errors</option>
-		</optgroup>
-		</select>
-	</div>
-	<div style="float:left; width:85px;">
-		<input type="text" id="username" name="username" onblur="if(this.value=='')this.value='Login';" onfocus="if(this.value=='Login')this.value='';" value="Login" class="searchbox" autocomplete="off">
-	</div>
-	<div style="float:left; width:85px;">
-		<input type="password" id="password" name="password" onblur="if(this.value=='')this.value='*****';" onfocus="if(this.value=='*****')this.value='';" value="*****" class="searchbox" autocomplete="off">
-	</div>
-	<div style="float:left;width:12px; height:5px; padding:12px 0px 0px 5px;  ">	
-		<input name="imageField" type="image" id="ok" onmouseover="javascript:changetabcolor('ok','over');" onmouseout="javascript:changetabcolor('ok','out');" src="images/button_ok.gif" alt="Ok" "="">
-	</div>
-	
-	<div class="foot_text" style="float:left;width:110px; height:5px; padding:9px 0px 0px 0px; font-size:8pt;">	
-		<a id="forgot_pass" href="http://ads.affinity.com/forgotpassword.html">Forgot Password?</a>
-	</div>
-	</form>
-            </div>
-<!--  <div style="padding-top:15px; float:right;">
-              <form id="form1" name="form1" method="post" action="">
-	<div style="float:left; width:85px;"><select size="1" class="searchbox01">
-	   <option style="font-size:11px; color:#003865;" selected="selected" >Advertiser</option>
-	  <option style="font-size:11px; color: #CCCCCC ;">---------------------</option>
-	  <option>Publisher</option>
-	   <option style="font-size:11px; color:#003865;">- Search</option>
-		  <option style="font-size:11px; color:#003865;">- Domains</option>
-		    <option style="font-size:11px; color:#003865;">- URL Errors</option>
-	</select></div>
-	<div style="float:left; width:85px;">
-	<input type="text" onblur="if(this.value=='')this.value='Login';" onfocus="if(this.value=='Login')this.value='';" value="Login" class="searchbox" autocomplete="off"/>
-	</div>
-	<div style="float:left; width:85px;">
-	<input type="text" onblur="if(this.value=='')this.value='*****';" onfocus="if(this.value=='*****')this.value='';" value="*****" class="searchbox"  autocomplete="off"/>
-	</div>
-	<div style="float:left;width:25px; height:5px; padding:12px 0px 0px 5px;  ">	
-	    <input name="imageField" type="image" id="ok" onmouseover="javascript:changetabcolor('ok','over');" onmouseout="javascript:changetabcolor('ok','out');" src="../images/button_ok.gif" alt="Ok" /">
-	  </div>
-	  	    </form>
-            </div> -->
-          </div>
-          
-          <div style="clear:both;height:55px;">
-            <div class="buttons" style="padding-left:15px;"> <a onmouseout="javascript:changetabcolor('home','out');" onmouseover="javascript:changetabcolor('home','over');" href="index.php"> <img src="images/home.gif" alt="Home" name="home" border="0" id="home"></a></div>
-            <div class="buttons"> <a onmouseout="javascript:changetabcolor('adv','out');" onmouseover="javascript:changetabcolor('adv','over');" href="advertisers.php"> <img id="adv" src="images/adv.gif" alt="Advertisers" border="0"></a></div>
-            <div class="buttons"> <a onmouseout="javascript:changetabcolor('pub','out');" onmouseover="javascript:changetabcolor('pub','over');" href="search.php"> <img id="pub" src="images/pub.gif" alt="Publishers" border="0"></a></div>
-            <div class="buttons"> <a onmouseout="javascript:changetabcolor('abt','out');" onmouseover="javascript:changetabcolor('abt','over');" href="about_us.php"> <img id="abt" src="images/about.gif" alt="About Us" border="0"></a></div>
-            <div class="buttons"> <a onmouseout="javascript:changetabcolor('cnt','out');" onmouseover="javascript:changetabcolor('cnt','over');" href="contact_us.php"> <img id="cnt" src="images/contact.gif" alt="Contact Us" border="0"></a></div>
-          </div>
-          </div>
-      </div></td>
-      <td height="343" class="head1_right_bg"><img src="images/spacer.gif" width="1" height="114"></td>
-    </tr>
-    <tr>
-      <td style="height:14px;" class="head2_left_bg"></td>
-      <td style="width:950px;"><div class="cont1"><img src="images/inner_header_patch.jpg" width="950" height="14"></div></td>
-      <td style="height:14px;" class="head2_right_bg"></td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td style="width:950px;">
-	  <div class="cont1" style="margin-bottom:10px; float:left;">
-	  
-       <div class="titlenavimg" style="background-image:none;">
-          <div style="width:780px; float:left;">
-            <div><img src="images/privacy_title.gif" alt="Privacy Policy" width="231" height="46"></div>
-          
-          </div>
-         
-          <div class="gray_title" style="height:5px; padding-top:8px;"></div>
-          <div style="padding-top:10px; width:926px; clear:both; float:left; text-align:justify; padding-bottom:15px;">
-                              
-		       <p>&nbsp;</p>
-		       <p align="justify"><span class="bold16">PRIVACY STATEMENT<br>
-		       </span>	          <br>
-		         Affinity, respects your privacy and is committed to protecting your personal information. This Privacy Statement (the "Statement") covers the website www.affinity.com (the "Site"). We collect no personally identifiable information about you when you visit the Site unless you choose to provide that information to us or as specifically outlined in this Statement. This Statement is incorporated into and subject to Affinity's Terms of Use ("TOU") found at <a href="http://affinity.com/termsofuse.php">http://affinity.com/termsofuse.php</a><br>
+
+<div id="mainWrapper">
+	<div id="mstheader">
+  	<div class="header">
+    	<h2 class="logo"><a href="/" title="Affinity">Affinity</a></h2>
+      <ul id="menu" class="dropdown">
+      	<li id="adv"><a href="/advertisers/" class="advertiserslink main-navSpr" title="Advertisers" id="dlinks">Advertisers</a>
+			<ul class="sub_menu">
+				<li><a href="/advertisers/" title="Overview">Overview</a></li><li><a href="/advertisers/agency.php" title="Agency / Network">Agency / Network</a></li>				
+			</ul>
+		</li>
+        <li id="pub"><a href="/publishers/" class="publisherslink main-navSpr" title="Publishers" id="pdlinks">Publishers</a>
+			<ul class="sub_menu pdd">
+				<li><a href="/publishers/" title="Overview">Overview</a></li><li><a href="/publishers/intext/" title="In-Text">In-Text</a></li><li><a href="/publishers/adcloud/" title="Ad Cloud">Ad Cloud</a></li><li><a href="/publishers/xml/" title="Search">Search</a></li>
+			</ul>
+		</li>
+        <li id="abt"><a href="/about.php" class="aboutuslink main-navSpr" title="About Us" id="abtlinks">About Us</a>
+			<ul class="sub_menu abdd">
+				<li><a href="/about.php" title="Overview">Overview</a></li><li><a href="/careers.php" title="Careers">Careers</a></li>
+			</ul>
+		</li>
+      </ul>
+      <div class="login">
+     		<ul class="dropdown">
+		    	<li><a href="#" class="signup spr" title="Sign Up" id="dd"></a>
+		    		<ul class="sub_menu" onmouseover="javascript:signupMouseOver();" onmouseout="javascript:signupMouseOut();">
+		    			 <li><a href="/signup.php" title="Advertiser" id="advertiser">Advertiser</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="/publishers/signup.php" title="Publisher">Publisher</a></li>
+					</ul>
+		    	</li>
+			  </ul> 
+      	
+      	<a href="#" class="signin" title="Login"></a>
+      	<fieldset id="signin_menu">
+			    <form onsubmit="javascript: return loginchk();" action="http://ads.affinity.com/login.html" method="post" name="login_frm" id="login_frm">
+			    	<div>
+            <input type="hidden" value="Login" name="validate">
+            <p>
+				     	<select onchange="javascript:loginopt(this);" class="searchbox01" size="1">
+								<option selected="selected" style="font-size: 11px; color: rgb(0, 56, 101);" value="1">Advertiser</option>
+								<optgroup label="Publisher">
+								<option style="font-size: 11px; color: rgb(0, 56, 101);" value="3">In-Text/Ad Cloud</option>
+								<option style="font-size: 11px; color: rgb(0, 56, 101);" value="2">Search</option>								
+								<!--option style="font-size: 11px; color: rgb(0, 56, 101);" value="4">URL Errors</option-->
+								</optgroup>
+							</select>
+						</p>
+			     	<p><input type="text" class="searchbox" value="Username" onfocus="if(this.value=='Username')this.value='';" onblur="if(this.value=='')this.value='Username';" name="username" id="username"></p>
+			      <p><input type="password" class="searchbox" value="*****" onfocus="if(this.value=='*****')this.value='';" onblur="if(this.value=='')this.value='*****';" name="password" id="password"></p>
+			      
+			      <p class="forgotpassword">
+			        <label><a href="http://ads.affinity.com/forgotpassword.html" id="forgot_pass" target="_blank" title="Forgot Password?">Forgot Password?</a></label>
+			        <input type="image" alt="Go" title="Go" src="/images/go.gif" id="ok" class="" name="imageField">
+			      </p>	
+			    </div>		     
+			    </form>
+			  </fieldset>
+      </div>
+    </div>   
+  </div>
+  <div class="clear"></div>  <div id="bodyContainer">
+  	<div class="container">
+	  	<div class="advertiser">
+	  		<h1>Privacy Policy</h1>	  		
+		</div>
+	  	<div id="bodytext"><p>
+		<strong>PRIVACY STATEMENT</strong><br>
+		       <br>
+		         Affinity, respects your privacy and is committed to protecting your personal information. This Privacy Statement (the "Statement") covers the website www.affinity.com (the "Site"). We collect no personally identifiable information about you when you visit the Site unless you choose to provide that information to us or as specifically outlined in this Statement. This Statement is incorporated into and subject to Affinity's Terms of Use ("TOU") found at <a href="/terms.php">http://affinity.com/terms.php</a><br> 
 		           <br>
 		           USE OF THIS WEB SITE CONSTITUTES  ACCEPTANCE OF THE FOLLOWING TERMS AND CONDITIONS:		           <br>
-	             <br>
-	             The  Policy is not exhaustive and Affinity reserves the right to add,  delete, or modify any provision of the Policy at any time without  notice to yourself, effective upon the posting of the modified Policy  to www.affinity.com. Please check the Site periodically for changes  to the Policy. By using Affinity’s services and/or using this Site  after changes have been made to the Policy, you agree to the changes.  Except when expressly agreed to the contrary in writing by an  authorized representative of Affinity, this Policy supersedes any  other agreement with Affinity, whether written, oral, by conduct, or  otherwise. </p>
-		       <p>&nbsp;</p>
-		       <p class="bold16"><strong>Information We Collect</strong></p>
-	          <p><br>
-	            Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any personally identifiable information about you to any third party without first receiving your permission, as explained in this Privacy Statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, personally identifiable information from such children.	           <br>
-		       </p>
-		       <p>
-			   If you are applying for an account with Affinity, we may require that you provide us with certain personal information (such as name, email address, billing information, etc.) relevant to our provision of the various services offered on the Site. We do not collect any personal information other than that which is specifically and knowingly provided to us by you. When we request information, we shall explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We shall also give you an opportunity to opt out of future communications from us.
-			   <br>
-		         <br>
-	          </p>
-		       <p class="bold16"><strong> 
-               Cookies </strong></p>
-		       <p><br>
-	           Affinity may, at times, use cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.</p>
-		       <p>&nbsp;</p>
-		       <p class="bold16"><strong>Links to Other Websites</strong></p>
-		       <p><br>
-	           The Site contains links to other websites. Those websites may send their own cookies to users, collect data, or solicit personal information. Affinity is in no way responsible or liable for the privacy practices or content of such third party websites. This Statement applies only to our own services and our Site, and does not apply to any other third party services or websites. We encourage you to carefully read the privacy statement of any website you visit. </p>
-		       <p>&nbsp;</p>
-		       <p class="bold16"><strong>Sharing Information </strong></p>
-		       <p><br>
-	           Affinity may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Affinity may partner with other parties in connection with the various services offered on the Site. In such instances, we may share limited personal information that is necessary for the third-party to provide its services. These companies are prohibited from using this information for any other purpose. Affinity may also provide personal information when disclosure may be required by law (e.g., subpoenas, search warrants and court orders). We may also determine that such action is reasonably necessary to protect a party's rights, property, or well-being. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities.  </p>
-		       <p>&nbsp;</p>
-	          <p class="bold16"><strong>Business Transfers</strong></p>
-		       <p><br>
-	           In the event of a transfer of ownership of Affinity, such as acquisition by or merger with another company, your personal information will, in most instances, be part of the assets transferred. </p>
-		       <p>&nbsp;</p>
-		       <p class="bold16"><strong>Consent and Changes to this Privacy Statement<br>
-</strong></p>
-		       
-		       <p>By using the Site or our services, you consent to the collection and use of your information as we have outlined in this Statement. Affinity may update this Statement from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Statement without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Statement so that you always will know what information we collect, how we use it, and to whom we disclose it.</p>
-		       <p><strong><br>
-		       </strong></p>
-		       <p class="bold16">Who Can I Ask If I Have Additional Questions?</p>
-		       <p><br>
-	           Feel free to contact us at any time with any questions you may have regarding our privacy statement. </p>
-		       <br>
-	     
-	          <p>&nbsp;</p>
-		       <p><em>Effective  __________, 2008.</em></p>
-		     
-          </div>
-			
-	    </div>
-      </div></td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-          <div class="foot1">
-            <div class="foot_text">
-              <div style="width:40%; float:left;">© 2000-2008 Affinity, All rights reserved</div>
-              <div style="float:right; width:30%; text-align:right;"><a href="termsofuse.php">Terms of use</a> &nbsp;&nbsp; <a href="privacypolicy.php">Privacy&nbsp;Policy</a> </div>
-            </div>
-          </div></td>
-    </tr>
-  </tbody></table>
-</div>
-<!--baap ends-->
 
+
+	             <br>
+	             The  Policy is not exhaustive and Affinity reserves the right to add,  delete, or modify any provision of the Policy at any time without  notice to yourself, effective upon the posting of the modified Policy  to www.affinity.com. Please check the Site periodically for changes  to the Policy. By using Affinity's services and/or using this Site  after changes have been made to the Policy, you agree to the changes.  Except when expressly agreed to the contrary in writing by an  authorized representative of Affinity, this Policy supersedes any  other agreement with Affinity, whether written, oral, by conduct, or  otherwise. </p>
+		       <p><strong>Information We Collect</strong><br>
+		         Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any personally identifiable information about you to any third party without first receiving your permission, as explained in this Privacy Statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, personally identifiable information from such children.	           <br>
+                 <br>
+                 If you are applying for an account with Affinity, we may require that you provide us with certain personal information (such as name, email address, billing information, etc.) relevant to our provision of the various services offered on the Site. We do not collect any personal information other than that which is specifically and knowingly provided to us by you. When we request information, we shall explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We shall also give you an opportunity to opt out of future communications from us.
+			     <br>
+			     <br>
+			     <strong> 
+          Cookies </strong><br>
+          Affinity may, at times, use cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.</p>
+		       <p><strong>Links to Other Websites</strong><br>
+	           The Site contains links to other websites. Those websites may send their own cookies to users, collect data, or solicit personal information. Affinity is in no way responsible or liable for the privacy practices or content of such third party websites. This Statement applies only to our own services and our Site, and does not apply to any other third party services or websites. We encourage you to carefully read the privacy statement of any website you visit. </p>
+		       <p><strong>Sharing Information </strong><br>
+	           Affinity may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Affinity may partner with other parties in connection with the various services offered on the Site. In such instances, we may share limited personal information that is necessary for the third-party to provide its services. These companies are prohibited from using this information for any other purpose. Affinity may also provide personal information when disclosure may be required by law (e.g., subpoenas, search warrants and court orders). We may also determine that such action is reasonably necessary to protect a party's rights, property, or well-being. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities.  </p>
+		       <p><strong>Business Transfers</strong><br>
+	           In the event of a transfer of ownership of Affinity, such as acquisition by or merger with another company, your personal information will, in most instances, be part of the assets transferred. </p>
+	          <p><strong>Consent and Changes to this Privacy Statement<br>
+
+               </strong>By using the Site or our services, you consent to the collection and use of your information as we have outlined in this Statement. Affinity may update this Statement from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Statement without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Statement so that you always will know what information we collect, how we use it, and to whom we disclose it.</p>
+		       <p>Who Can I Ask If I Have Additional Questions?</p>
+		       <p>	           Feel free to contact us at any time with any questions you may have regarding our privacy statement. </p>
+		       <p><em>Effective September, 2009</em></p>
+      </div>
+  	</div>
+  </div>
+ <div class="clear"></div>
+  <div id="mstfooter">
+	<div class="footer">
+			<div class="footerNav"><a href="/advertisers/" title="Advertisers">Advertisers</a> | <a href="/publishers/" title="Publishers">Publishers</a> | <a href="/about.php" title="About Us">About Us</a> | <a href="/contact.php" title="Contact Us">Contact Us</a>  | <a href="/news/" title="News">News</a>  |  <a href="/careers.php" title="Careers">Careers</a> | <a href="/sitemap.php" title="Publishers">Sitemap</a> | <a href="/privacy.php" title="Privacy Policy">Privacy Policy</a> | <a href="/terms.php" title="Terms &amp; Conditions">Terms &amp; Conditions</a><br>
+
+		Affinity, All rights reserved 2010 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9fafc2;">Powered by Hostway </span><a href="http://www.hostway.com/" target="_blank">Web Hosting</a></div>
+		<div class="footerLogo"><img src="/images/footerLogo.gif" alt="A HOSTWAY Company"></div>
+		<div class="clear">
+		
+	</div>
+</div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-440670-1");
 pageTracker._trackPageview();
-</script> 
+} catch(err) {}</script> 
 
-
-
-
-
-</body></html>
+</div></div></body></html>
