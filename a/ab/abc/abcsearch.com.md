@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsearch.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004001id_/http%3A//www.abcsearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsearch.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116100920id_/http%3A//www.abcsearch.com/privacy.php) for the most accurate reproduction.*
 
 # ABCSearch - Building e-Business
 
