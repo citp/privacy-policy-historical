@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627204725id_/http%3A//www.amf.com/corporate/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116173926id_/http%3A//www.amf.com/corporate/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AMF Bowling
 
