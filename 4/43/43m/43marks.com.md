@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 43marks.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821205057id_/http%3A//43marks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 43marks.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116100327id_/http%3A//43marks.com/about/privacy) for the most accurate reproduction.*
 
 # 43marks.com — The Ultimate Homepage
 
