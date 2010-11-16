@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the hiredesk.net privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506063707id_/http%3A//www.talenttech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiredesk.net privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116181033id_/http%3A//www.talenttech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Talent Technology Corporation - Privacy Policy
 
-|  |   
----  
-   
-  
+|  | 
+
 |  | 
 
 Last Updated May 22, 2009  
