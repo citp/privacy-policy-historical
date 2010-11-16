@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24x7servermanagement.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602185803id_/http%3A//www.24x7servermanagement.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24x7servermanagement.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116101350id_/http%3A//24x7servermanagement.com/privacy.php) for the most accurate reproduction.*
 
 # 24x7 | Privacy Policy
 
@@ -16,7 +16,7 @@ Please read our Terms of service for claiming refunds. Therefore, we advise cust
 
 _Look what our happy customers have to say about Us. Our outstanding customer services is the reason they love us and we feel proud to show these real and valued testimonials_. 
 
-[**Read More**](https://web.archive.org/web/20100602185803id_/http%3A//www.24x7servermanagement.com/testimonials.php)
+[**Read More**](https://web.archive.org/web/20101116101350id_/http%3A//24x7servermanagement.com/testimonials.php)
 
   * High end server configurations
   * Complex server configurations
@@ -27,4 +27,4 @@ _Look what our happy customers have to say about Us. Our outstanding customer se
 
 
 
-[**Read More**](https://web.archive.org/web/20100602185803id_/http%3A//www.24x7servermanagement.com/services.php)
+[**Read More**](https://web.archive.org/web/20101116101350id_/http%3A//24x7servermanagement.com/services.php)
