@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309034449id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116202147id_/http%3A//ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
 
-# Ariba.com Privacy Statement
+# Spend Management, Supplier Management, and Working Capital Management Software | Ariba, Inc.
 
-**Ariba Web Site Privacy Statement**
+## Ariba Web Site Privacy Statement
 
 Effective January 14, 2010
 
@@ -12,7 +12,7 @@ This Web Site Privacy Statement ("Privacy Statement") tells our visitors ("You")
 By accessing our Site, You are consenting to the information collection and use practices described in this Privacy Statement, as modified from time to time by us. If we decide to change our Privacy Statement, we will post a new statement on our Site and change the date at the top of the statement. Therefore, we encourage you to check the date of our Privacy Statement whenever you visit this Site for any updates or changes. 
 
 **About Ariba**  
-Ariba, Inc. is the leading provider of spend management solutions to help companies realize rapid and sustainable bottom line results. Successful companies around the world in every industry use Ariba Spend Management™ software and services. Ariba can be contacted in the U.S. at 1.650.390.1000 or at www.ariba.com. 
+Ariba combines industry-leading SaaS technology, the world's largest web-based trading partner community, and expert capabilities - all in a cloud-based environment - to deliver services to organizations that need to control costs, minimize risk, improve profits, and enhance cash flow and operations. [Learn more](https://web.archive.org/about/).
 
 **What personal information do we collect on the Site and why?**  
 We collect several types of information on our Site including "Personal Information," which generally is information that can be used to identify you individually, such as your name and email address. The information we collect depends on what services you use on our Site(s). The following is a more detailed explanation of these types of information, as well as when and how we use it.
@@ -51,7 +51,7 @@ You may opt-out of receiving Ariba newsletters or other email communications fro
 Ariba uses commercially reasonable efforts to store and maintain personal information You submit on the Site to protect it from loss, misuse, alteration or destruction by unauthorized parties. We may store information that we collect through our Site indefinitely except as otherwise required by law.
 
 **What this Privacy Statement Does NOT Address**  
-This Privacy Statement does not address the data management practices and polices of Ariba applicable to the operation and use of the Ariba Supplier Network, Ariba's hosting services and Ariba's On-Demand services such as Ariba Procure-To-Pay. The policy addressing these services can be found at <http://www.ariba.com/legal/ariba_data_policy.cfm>
+This Privacy Statement does not address the data management practices and polices of Ariba applicable to the operation and use of the Ariba Network, Ariba's hosting services and Ariba's On-Demand services such as Ariba Procure-To-Pay. The policy addressing these services can be found at <http://www.ariba.com/legal/ariba_data_policy.cfm>
 
 **Comments and Questions**  
 If You have questions or comments about this Privacy Statement, please send an email to [privacy@ariba.com](mailto:privacy@ariba.com) or in writing to: Ariba Privacy and Security Manager, Ariba Legal Department, Ariba, Inc., 807 11th Avenue, Sunnyvale, CA 94089.
