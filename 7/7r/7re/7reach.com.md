@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7reach.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511201917id_/http%3A//www.7reach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7reach.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116100702id_/http%3A//7reach.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 7reach.com - Privacy Policy
 
