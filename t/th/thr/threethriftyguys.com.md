@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the threethriftyguys.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407105734id_/http%3A//www.threethriftyguys.com/%3Fpage_id%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threethriftyguys.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116091413id_/http%3A//www.threethriftyguys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Three Thrifty Guys | Helping you keep a few more bucks in your pocket
+# Privacy Policy | Three Thrifty Guys
 
 **Your Privacy**  
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our site, and how we safeguard your information. We never sell your personal information to third parties. 
