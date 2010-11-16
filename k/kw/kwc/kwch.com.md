@@ -1,65 +1,216 @@
-> *The following text is extracted and transformed from the kwch.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524112903id_/http%3A//www.kwch.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwch.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116141708id_/http%3A//030b577.netsolhost.com/kwch/docs/Kwch.com_Privacy_Policy_Schurz_Communications_NonACT_903210.pdf) for the most accurate reproduction.*
 
-# This Web Site’s Privacy Policy - KWCH - Kansas News and Weather -
+# Sunflower Broadcasting
 
-This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
+                                                 PRIVACY POLICY
+                                Sunflower Broadcasting PRIVACY POLICY
+Sunflower Broadcasting strives to offer visitors to its website (www.KWCH.com) the many advantages of
+Internet technology and to provide an interactive and personalized experience. In order to do so, we may obtain
+certain personal information from you. The purpose of this privacy policy (“Privacy Policy”) is to inform you
+about the types of information we gather about you when you visit www.KWCH.com, how we may use that
+information, and the choices you have regarding our use of that information. This Privacy Policy supplements
+and is incorporated as a part of Sunflower Broadcasting’s Terms of Use. Throughout this Privacy Policy,
+“we” or “our” refers to Sunflower Broadcasting, and “you” or “your” refers to the person or entity who
+accesses or uses this www.KWCH.com or its content (the “User”). This Privacy Policy applies solely to
+information collected at www.KWCH.com.
+                       COLLECTION AND USE OF INFORMATION FROM USERS
+We collect information on our Users in various ways, including by your voluntary submissions, through
+surveys, contests, sweepstakes and other promotions and through “cookie” (as explained below) and other
+tracking technology. The information we collect is used in a variety of ways including, but not limited to:
+fulfilling and providing services requested by you; improving www.KWCH.com and our services; notifying
+you about updates to www.KWCH.com and our services; and/or informing about products, services and
+promotions in which you may have interest. With your authorization or as otherwise permitted under this
+Privacy Policy, we may also share the information you provide with third parties.
+                                      Personally Identifiable Information
+Personally Identifiable Information refers to information that tells us specifically who you are, such as your
+name, phone number, e-mail, postal address or credit card information, and possibly information relating to
+certain support or customer service issues (“Personally Identifiable Information”). You generally do not need
+to provide us with Personally Identifiable Information to use this www.KWCH.com or to obtain information
+from most of the features on www.KWCH.com.
+In some cases, however, you may be asked to provide Personally Identifiable Information in order to access
+certain pages of this www.KWCH.com, to use or subscribe to certain online services on this www.KWCH.com
+or other products or to allow us to provide you with certain personalized or enhanced services that you have
+requested. How we collect and store information depends on the page you are visiting, the activities in which
+you elect to participate and the services provided. As noted, you can visit many pages on our
+www.KWCH.com without providing any Personally Identifiable Information. Other pages may prompt you to
+provide Personally Identifiable Information.
+If you do not want to provide us with any Personally Identifiable Information, you can always decide not
+             to use such services or access such pages on www.KWCH.com. The choice is yours.
+Please remember that if you post any Personally Identifiable Information in public areas of www.KWCH.com,
+such as on bulletin boards or chat rooms, such information may be collected and used by other Users over
+whom Sunflower Broadcasting has no control. Sunflower Broadcasting is not responsible for the use made by
+third parties of any information you post or otherwise make available in public areas of www.KWCH.com.
+                                             Aggregate Information
+From time to time, we may collect general, non-personal, statistical information about the use of
+www.KWCH.com, such as how many visitors visit a specific page on www.KWCH.com, how long they stay
+on that page, and which hyperlinks, if any, they click on. This information represents a generic overview of our
+Users’ collective viewing habits and allows us and other third parties to modify information, promotions, Page
+2
 
-Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
 
-Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
+offers and/or discounts on products and services based on user traffic and behavior. We collect this information
+through the use of technologies such as “cookies”, which are discussed in greater detail in this Privacy Policy.
+We collect this information in order to determine which areas of www.KWCH.com are most popular and to
+enhance www.KWCH.com for visitors. We may also group this information into aggregate visitor data in
+order to describe the use of www.KWCH.com to our existing or potential business partners or other third
+parties, or in response to a government request. From time to time, we may use this information to optimize
+third-party offers of products and/or services. We also may share aggregated demographic and preference data
+with third parties to enable the provision of targeted information, promotions, offers and/or discounts on
+products and services. However, please be assured that this aggregate data will in no way personally identify
+you or any other visitors of www.KWCH.com.
+                                   Cookies and Other Tracking Technologies
+Like most websites, this www.KWCH.com also may collect information automatically and through the use of
+electronic tools that may be transparent to Users. For example, Sunflower Broadcasting may automatically
+collect non-personally identifiable information and data through the use of “cookies”. Cookies are small text
+files a website uses to recognize repeat Users, facilitate the User’s ongoing access to the website and facilitate
+the use of the website. Cookies also allow a website to track usage behavior and compile site usage
+information that will allow for the improvement of content and target advertising. Most browsers allow you to
+control cookies, including whether or not to accept them and how to remove them. You may set your browsers
+to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please
+be aware that some features of our www.KWCH.com may not function or may be slower if you refuse cookies.
+You may occasionally get cookies from our advertisers or other third parties with links on www.KWCH.com
+as described below. We do not control these cookies. The use of advertising cookies sent by third party ad
+servers is standard in the Internet industry.
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP)
+addresses; browser software and operating system types; clickstream patterns; and dates and times that our
+www.KWCH.com is accessed. An IP address is a number that is automatically assigned to your computer
+whenever you are surfing the web. Web servers, the computers that “serve up” webpages, automatically
+identify your computer by its IP address. We may link the information we record using tracking technologies
+to Personally Identifiable Information we collect at www.KWCH.com for our own and our marketing partners’
+marketing and advertising purposes. In addition, we reserve the right to use IP addresses and other tracking
+technologies to identify a visitor when we feel it is necessary to enforce compliance with our Terms of Use, to
+protect our www.KWCH.com, our customers or others, or when we believe in good faith that the law requires
+it.
+www.KWCH.com may also use technology called “tracer tags”. These may also be referred to as “Clear GIFs”
+or “Web Beacons”. This technology allows us to understand which pages you visit on www.KWCH.com.
+These tracer tags are used to help us optimize and tailor our www.KWCH.com for you and other Users of our
+www.KWCH.com.
+We also use third-party advertising companies to serve ads when you visit our www.KWCH.com. These
+companies may use information (not including your name, address, email address or telephone number) about
+your visits to this and other websites in order to provide advertisements about goods and services of interest to
+you. If you would like more information about this practice and to know your choices about not having this
+information used by these companies, click here:
+http://www.networkadvertising.org/consumer/opt_out.asp
+                          DISCLOSURES AND TRANSFERS OF INFORMATION
+We do not disclose Personally Identifiable Information to third parties, except when one or more of the
+following conditions is true:Page 3
 
-**The information we gather**
 
-We gather two types of information about this Web site's users:
+1. You have authorized us to provide such information, including, but not limited to, “opting-in” to a particular
+service, program or promotion;
+2. The disclosure is permitted by relevant law;
+3. The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;
+4. The Personally Identifiable Information to be disclosed is publicly available;
+5. The party to whom the disclosure is made controls, is controlled by, or is under common control with
+Sunflower Broadcasting;
+6. The disclosure is reasonably necessary for the establishment or maintenance of legal claims; or
+7. The disclosure is to persons or entities for whom we are providing services, provided the disclosure is
+consistent with the purpose for which the personal information was obtained.
+                                              As a Service to Others
+We may provide your Personally Identifiable Information to third parties for their marketing and/or advertising
+purposes, but only if you have authorized us to do so by “opting-in” to a particular marketing or advertising
+service, program or promotion. Users of our www.KWCH.com are given the opportunity to affirmatively
+consent (opt in) to the disclosure of Personally Identifiable Information to a third party or to the use of such
+information for a purpose other than the purpose for which it was originally collected or subsequently
+authorized by the User. We do this to ensure that our Users can make an informed choice as to whether or not
+they want to share their information with such outside parties. We will provide individuals with a reasonable
+mechanism to exercise their choices.
+If you have at some point authorized us to share such information about you with others and later properly
+notify us that you no longer want us to share your information (as discussed below), we will cease sharing your
+information. However, except as otherwise stated in this Privacy Policy, we do not control the third parties
+with whom we share such information and you will need to further notify such third parties if you would like
+them to cease use of your information.
+Notwithstanding the foregoing, we reserve the right to send you certain non-promotional communications to
+fulfill pending or ongoing services requested by you, relating to www.KWCH.com (such as service
+announcements), e-mail related to purchases you have made or information you have submitted, or similar
+administrative or transactional messages.
+                                              Our Service Providers
+We may sometimes use other businesses to perform certain services for us, such as hosting or maintaining our
+www.KWCH.com, storing your information, processing orders or subscriptions, or providing marketing
+assistance and data analysis. We may provide Personally Identifiable Information to service providers when
+that information is necessary for them to complete a requested transaction or otherwise perform their duties.
+Sunflower Broadcasting will take reasonable steps to ensure that these service providers are notified of their
+obligations to reasonably protect Personally Identifiable Information on Sunflower Broadcasting’s behalf.
+                                                Business Transfers
+As we continue to develop our business, we may buy other businesses or their assets or sell some or all of our
+business assets. Personally Identifiable Information and other customer information is generally one of the
+Page 4
 
-(1) **Non-personally identifiable information:** When visitors come to the Web site, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web site. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
 
-The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web site, identify the most popular areas of the Web site, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
+business assets involved in such transactions. Thus, in the event that Sunflower Broadcasting or all of its assets
+are acquired, such information may be one of the transferred assets.
+                                 Protection of Sunflower Broadcasting and Others
+Sunflower Broadcasting fully cooperates with law enforcement agencies in identifying those who use our
+services for illegal activities, and may in its sole discretion disclose Personally Identifiable Information or
+other information to satisfy any law, regulation, subpoena, or government request or in connection with
+litigation. Sunflower Broadcasting reserves the right to release Personally Identifiable Information or other
+information about Users who we believe are engaged in illegal activities or are otherwise in violation of our
+Terms of Use, even without a subpoena, warrant or court order, if we believe in our sole discretion that such
+disclosure is necessary or appropriate to comply with any laws, to operate www.KWCH.com, or to protect the
+rights or property of Sunflower Broadcasting, its affiliates, or any of their officers, directors, or employees,
+agents, third party content providers, suppliers, sponsors, or licensors. Sunflower Broadcasting also reserves
+the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be
+unlawful.
+                                      DATA SECURITY AND INTEGRITY
+We take reasonable precautions to protect the privacy, accuracy and reliability of any information you provide
+and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction.
+The Personally Identifiable Information you provide and we collect is stored within databases that we control
+directly or through our service providers. As we deem appropriate, we use security measures consistent with
+industry standards, such as firewalls and encryption technology, to protect your information. However, since
+no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee
+that information you supply will not be intercepted while being transmitted to us over the Internet. As a result,
+you transmit any information to or from www.KWCH.com at your own risk.
+If you create an account on this www.KWCH.com, you may be asked to choose a password for your account,
+in which case your online account information shall be protected by your password. We recommend that you
+do not disclose your password to any other person. You are responsible for maintaining the confidentiality of
+your password and www.KWCH.com account and are fully responsible for all activities that occur under your
+password or www.KWCH.com account. You can access and update information in your account profile at any
+time by logging in to the website with your login name and password. Once you have logged in, you can
+update certain of your information such as your name, e-mail, password, and/or change your address.
+     ACCESSING AND DELETING PERSONALLY IDENITIFIABLE INFORMATION; OPT-OUT
+If you have submitted Personally Identifiable Information through www.KWCH.com and you would like
+access to such information, please send an e-mail to News@kwch.com. We will use reasonable efforts to
+supply you with this information and to correct any factual inaccuracies that you identify. Please also contact
+us at 831-1212 if you do not want us to disclose your Personally Identifiable Information to third parties or you
+want us to delete your Personally Identifiable Information from our databases. Keep in mind, however, that
+there may be residual information within our databases, access logs and other records, which may or may not
+contain such information. The residual information will not be used for commercial purposes; however, we
+reserve the right, from time to time, to re-contact former Users of this www.KWCH.com.
+                      AFFILIATED SITES, LINKED SITES AND ADVERTISEMENTS
+Sunflower Broadcasting expects its partners, advertisers and third-party affiliates to respect the privacy of our
+Users. However, third parties, including our partners, advertisers, affiliates and other content providers
+accessible through our www.KWCH.com, may have their own privacy and data collection policies and
+practices. For example, during your visit to our www.KWCH.com you may link to, or view as part of an
+Sunflower Broadcasting page, certain content that is actually created or hosted by a third party. Also, you may
+Page 5
 
-For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Web site, and your usage of our services offered via the Web site. Cookies also tell us which advertising you have seen on the Web site.  At certain times, we may use  outside advertising companies to display advertisements on the Web site that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
 
-Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web site. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
-
-(2) **Personally identifiable information:** In certain areas of the Web site, such as online surveys and contests, the Web site may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Web site, has access to this information. In addition, when registering to set up an account to use certain services of the Web site such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide a valid e-mail address.
-
-We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
-
-We do not control the acts of this Web site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this Web site or WorldNow. In the event that you encounter any user on this Web site who is improperly collecting or using information about you or other users, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-**How we use (and do not use) the information we gather**
-
-Please take some time to familiarize yourself with the different ways we use the information that we gather. Keep in mind that, while we encourage all third parties involved---including affiliates and advertisers---to adhere to our policies regarding the privacy of this Web site's visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com); we will be happy to forward your message to the third party.
-
-(1) **How we use (and do not use) non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Web site's members and visitors, and by measuring demographics and interests regarding specific areas of the Web site. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
-
-The Web site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
-
-(2) **How we use (and do not use) personally identifiable information:** We provide notice to potential registrants of this Web site whose personally identifiable information will be collected during the registration process. Such notice is provided simultaneously with your registration with this website; moreover, this Privacy Policy itself serves as notice that such information is collected under those circumstances. You may not "opt in" to the registration process if you wish to have access to Services, and you may choose to "opt in" to receiving promotional materials from us and/or our affiliates, advertisers, or other business partners. If you "opt in" to receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-We limit our own e-mail contact and solicitations to those customers who have "opted in" to receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
-
-In addition, we sometimes use demographic data to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of this Web site, we use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
-
-Finally, we may use individual members' data to "pre-populate" forms, which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place---for example, if/when a member clicks a "submit form" button or other button.
-
-We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
-
-If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
-
-**Security**
-
-All information gathered on the Web site is stored within a WorldNow controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-**Changing/deleting personal information**
-
-If you would like to have your personally identifiable information changed or removed from our database, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
-
-**Third-Party Ad Serving**
-
-We use third-party advertising companies to serve ads when you visit this Web site.  These companies may use information (not including your name, address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), or click here <http://www.networkadvertising.org/optout_nonppii.asp>.
-
-**Questions?**
-
-Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-_Effective date: July 1, 2004_
+be introduced to, or be able to access, information, websites or advertisement features offered by other parties
+through www.KWCH.com. Sunflower Broadcasting is not responsible for the actions or policies of such third
+parties. You should check the applicable privacy policies of those third parties when providing information on
+a feature or page operated by a third party.
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose
+Personally Identifiable Information on our www.KWCH.com, such as completing an online form
+request or e-mail link, that information can be viewed publicly and can be collected and used by third
+parties without our knowledge and may result in unsolicited messages from other individuals or third
+parties. Such activities are beyond the control of Sunflower Broadcasting and this Privacy Policy.
+                                                   CHILDREN
+We understand and share your concerns regarding your children’s access to Internet and the Internet’s access
+to your children. Consistent with the Children’s Online Privacy Protection Act of 1998 (COPPA), we do not
+knowingly request or accept Personally Identifiable Information submitted to www.KWCH.com by any visitor
+under 13 years of age. If we become aware that an individual under age 13 has provided information to
+Sunflower Broadcasting through www.KWCH.com, we will not use or disclose that individual’s information
+for any purpose unless required to do so by law.
+                                        RIGHT TO CHANGE POLICY
+Sunflower Broadcasting reserves the right, at its sole discretion, to alter this Privacy Policy at any time without
+prior notice to any User, including to comply with privacy laws, regulations and/or our own or industry
+standards or otherwise. We encourage you to review this Privacy Policy each time you visit our
+www.KWCH.com. Your use of our www.KWCH.com at any time, including after any change to this Privacy
+Policy, indicates your acceptance of this Privacy Policy and the Terms of Use, and any change made to this
+Privacy Policy or such Terms of Use.
+                                              APPLICABLE LAW
+This Privacy Policy shall be governed by the laws of the State of Kansas, United States of America, without
+regard to conflicts of law principles. Any action relating to this Privacy Policy must be filed and maintained in
+a state or federal court located in Sedgwick County, State of Kansas, United States of America, and each User
+consents to exclusive jurisdiction and venue in such courts for such purpose.
+SBDS02 401502v2
