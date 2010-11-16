@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the billingsgazette.com privacy policy that was archived on 2010-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100517051206id_/http%3A//www.billingsgazette.com/app/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the billingsgazette.com privacy policy that was archived on 2010-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101116080904id_/http%3A//billingsgazette.com/app/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 
@@ -14,11 +14,15 @@
 
 
 
+<meta property="og:image" content="http://www.billingsgazette.com/content/tncms/live/global/resources/images/logos/bg-sun.png">
+
 
 <link rel="stylesheet" type="text/css" media="screen" href="http://billingsgazette.com/content/tncms/live/global/resources/styles/skin-red-bg.css">
 <link rel="stylesheet" type="text/css" media="print" href="http://billingsgazette.com/content/tncms/live/editorial/lee-editorial/resources/styles/print.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://billingsgazette.com/content/tncms/live/global/resources/styles/site.css">
-<!--<link type="text/css" rel="stylesheet" href="/app/skins/gazette125/skin.css" media="screen" />-->
+
+
+
 
 
 
@@ -48,6 +52,13 @@ yld_mgr.slots.leaderboardtop_slot = {};
 yld_mgr.slots.leaderboardtop_slot.ad_size_list = ["728x90"]; //LeaderTop
 yld_mgr.slots.leaderboardtop_slot.ad_delivery_mode = "ipatf";
 
+yld_mgr.slots.background = {};
+yld_mgr.slots.background.ad_size_list = ["1360x2000"]; //Background
+
+yld_mgr.slots.pencil_slot = {};
+yld_mgr.slots.pencil_slot.ad_size_list = ["950x35"]; //pencil
+yld_mgr.slots.pencil_slot.ad_delivery_mode = "ipatf";
+
 yld_mgr.slots.weather_slot = {};
 yld_mgr.slots.weather_slot.ad_size_list = ["88x31"]; //Weather
 yld_mgr.slots.weather_slot.ad_delivery_mode = "ipatf";
@@ -63,6 +74,10 @@ yld_mgr.slots.halfpage.ad_delivery_mode = "ipbtf";
 yld_mgr.slots.peel_slot = {};
 yld_mgr.slots.peel_slot.ad_size_list = ["800x600"]; //Peel
 yld_mgr.slots.peel_slot.ad_delivery_mode = "ipatf";
+
+yld_mgr.slots.threeone_slot = {};
+yld_mgr.slots.threeone_slot.ad_size_list = ["300x100"];
+yld_mgr.slots.threeone_slot.ad_delivery_mode = "ipbtf";
 
 yld_mgr.slots.tile_one = {};
 yld_mgr.slots.tile_one.ad_size_list = ["120x90"]; //Tile1
@@ -107,8 +122,16 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 		<div class="header-top">
 					
 			<div id="blox-logo" class="grid_9 alpha">
+				
 				<h1><a href="/" title="">Lee Templates</a></h1>
-				<p id="blox-user-nav"><a href="#" class="openLoginBox">Login</a> | <a href="/register/" rel="external">Register</a> | <a href="https://billingsgazette-dot-com.bloxcms.com/app/forms/subscription_services/">Subscribe</a></p>
+				
+				<dl id="blox-user-nav" class="hide">
+				<dt id="port-uAvatar"><img src="http://billingsgazette.com/content/tncms/live/global/resources/images/no-user.gif" height="30px"></dt>
+				<dd id="port-uUsername" class="user-title">Join The Community</dd>
+				<dd id="port-uControls"><a href="#" class="openLoginBox">Login</a> | <a href="/register/" rel="external">Register</a> | <a href="/subscribe/">Subscribe</a></dd> 
+                         	<dd class="clear"></dd>
+				</dl>
+				
 			</div>
 			
 			<div id="blox-search-form-container" class="grid_3">
@@ -148,7 +171,7 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 					<li><a href="/app/calendar/">Calendar</a></li>
 					<li><a href="/app/a/m/mediakit/" target="_blank">Advertise</a></li>
 					<li><a href="/app/contact/">Contact</a></li>
-					<li><a href="/app/newstips/">Submit News Tip</a></li>
+					<li><a href="/app/contact/?contact=news">Submit a Tip</a></li>
 					<li><a href="/search/?byDate=1">Browse by Date</a></li>
 					<li><a href="/search/advanced/">Advanced Search</a></li>
 				</ul>
@@ -164,8 +187,9 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 					<li><a href="/app/weather/">Weather</a></li>
 					<li><a href="/video/">Video</a></li>
 					<li><a href="/gallery/">Photo Galleries</a></li>
-					<li><a href="/crimewatch/">Crimewatch</a></li>
+					<li><a href="/crime-watch/">Crime Watch</a></li>
 					<li><a href="/news/weird-news/">Weird News</a></li>
+					<li><a href="/news/history-events/">Today in History</a></li>
 				</ul>
 			</li>
 			<li><a href="/news/opinion/"><span>Opinion</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
@@ -174,7 +198,7 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 					<li><a href="/news/opinion/guest/">Guest Opinion</a></li>
 					<li><a href="/news/opinion/editorial/columnists/">Columnists</a></li>
 					<li><a href="/news/opinion/mailbag/">Letters to the Editor</a></li>
-					<li><a href="/app/letters/">Submit a Letter</a></li>
+					<li><a href="/app/contact/?contact=letter">Submit a Letter</a></li>
 					<li><a href="/app/blogs/">Blogs</a></li>
 					<li><a href="/news/opinion/blogs/city-lights/">City Lights</a></li>
 				</ul>
@@ -183,10 +207,10 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 				<ul>
 					<li><a href="/sports/high-school/">GazPrepSports</a></li>
 					<li><a href="/sports/college/">College</a></li>
-					<li><a href="/sports/football/professional/arena/">Outlaws</a></li>
 					<li><a href="/sports/baseball/professional/minor/pioneer-league/mustangs/">Mustangs</a></li>
 					<li><a href="/sports/baseball/high-school-and-prep/">Legion</a></li>
 					<li><a href="/sports/hockey/">Bulls</a></li>
+					<li><a href="/sports/football/professional/arena/">Outlaws</a></li>
 					<li><a href="/sports/rodeo/">Rodeo</a></li>
 					<li><a href="/youthsports/">Youth</a></li>
 					<li><a href="/sports/more/">More Local</a></li>
@@ -198,16 +222,17 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 			
 			
 
-			<li><a href="/app/enjoy/"><span>Enjoy</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
+			<li><a href="/entertainment/"><span>Enjoy</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
 				<ul>
 					<li><a href="/entertainment/">Entertainment News</a></li>
 					<li><a href="/entertainment/enjoy/501blog/">5:01 Blog</a></li>
-					<li><a href="/app/enjoy/onscreen/">TV &amp; Movies</a></li>
+					<li><a href="/entertainment/tv/">TV</a></li>
+					<li><a href="/entertainment/movies/">Movies</a></li>
 					<li><a href="/entertainment/music/">Music</a></li>
 					<li><a href="/entertainment/arts-and-theatre/">Arts</a></li>
 					<li><a href="/entertainment/books-and-literature">Books</a></li>
 					<li><a href="/app/calendar/">Events</a></li>
-					<li><a href="/app/enjoy/games/">Games</a></li>
+					<li><a href="/entertainment/games/">Games</a></li>
 				</ul>
 			</li>
 
@@ -235,7 +260,7 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 					<li><a href="/lifestyles/announcements/anniversaries">Anniversaries</a></li>
 					<li><a href="/lifestyles/announcements/births/">Births</a></li>
 					<li><a href="/lifestyles/announcements/marriagelicenses/">Marriage Licenses</a></li>
-					<li><a href="/lifestyles/announcements/achievers">Achievers</a></li>
+					<li><a href="/business/success-stories">Achievers</a></li>
 					<li><a href="/news/notices/firecalls/">Fire Calls</a></li>
 					<li><a href="/news/notices/lottery/">Lottery</a></li>
 				</ul>
@@ -260,7 +285,7 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 					<li><a href="/app/a/homes/">Homes for sale</a></li>
 					<li><a href="/app/a/o/openhouses/">Open Houses Map</a></li>
 					<li><a href="http://www2.billingsgazette.com/admarket/rentals/">For Rent</a></li>
-					<li><a href="http://homes.billingsgazette.com/RealEstate/agents/agentdirectory.asp">Find an Agent</a></li>
+					<li><a href="http://lee-production.gabriels.net/billingsgazette/agents/Billings-MT-USA">Find an Agent</a></li>
 					<li><a href="http://www.billingswelcomehome.com">Welcome Home</a></li>
 					<li><a href="http://www.montanalandmagazine.com/">Montana Land Magazine</a></li>
 				</ul>
@@ -291,6 +316,9 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 	<!-- end header -->
 
 	<div id="blox-container" class="container_12">
+
+		<div id="blox-pencil-ad"><script type="text/javascript">yld_mgr.place_ad_here("pencil_slot");</script></div>
+
 		<div id="tncms-region-breaking-news-ticker" class="tncms-region"><div id="tncms-block-6833" class="tncms-block">
 </div></div>
 
@@ -365,17 +393,40 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 	</div>
 	
 	<div id="blox-right-col" class="grid_4 omega">
-			<dl id="blox-weather">
+			<div id="follow-us-icons">
+	<ul>
+	<li>Follow us:</li>
+	<li class="facebook"><a title="Like us on Facebook to get news alerts on your Facebook page" href="/facebook">Facebook</a></li>
+	<li class="twitter"><a title="Follow us on Twitter for news and sports updates throughout the day" href="/twitter">Twitter</a></li>
+	<li class="rss"><a title="Use RSS feeds to get news delivered to your feed reader" href="/rss">RSS</a></li>
+	<li class="email"><a title="Sign up to get daily news updates delivered to your inbox" href="/email-updates">Email</a></li>
+	<li class="mobile"><a title="Get The Billings Gazette on your mobile device" href="/mobile-edition">Mobile</a></li>
+	</ul>
+	<div class="clear"></div>
+</div>
+
+<dl id="blox-weather">
 	<dt><a href="/app/weather/"><span id="wTemp">&nbsp;</span> <span id="wTempUnit"></span></a></dt>
 	<dd>
 		<div><script type="text/javascript">yld_mgr.place_ad_here("weather_slot");</script></div>
 	</dd>
 </dl>
 <div id="weather-nav">
-	<a href="/app/weather/forecast/">10 Day Forecast</a> | <a href="/app/weather/webcams/">Webcams</a> | <a href="/app/weather/riverlevels/">River Levels</a>
+	<a href="/app/weather/forecast/">10 Day Forecast</a> | <a href="/app/weather/webcams/">Webcams</a> | <a href="/getsnow/">Ski Report</a>
 </div>
 
+
+
 <div id="tncms-region-side-rail-top" class="tncms-region"><div id="tncms-block-6871" class="tncms-block"></div></div>
+
+<div id="blox-tile-ad" class="pad-bottom pad-top">
+	<script type="text/javascript">yld_mgr.place_ad_here("tile_one");</script>
+
+<script type="text/javascript">yld_mgr.place_ad_here("tile_two");</script>
+
+<script type="text/javascript">yld_mgr.place_ad_here("threeone_slot");</script>
+	<div class="clear"></div>
+</div>
 
 <div id="blox-big-ad" class="pad-bottom pad-top"><script type="text/javascript">yld_mgr.place_ad_here("bigad_slot");</script></div>
 
@@ -393,15 +444,15 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 		
 			<ul class="bull-list">
 				
-					<li><a href="/news/state-and-regional/montana/article_9ce730dc-5cb3-11df-8f10-001cc4c03286.html">Bridger shooting victim identified</a></li>
+					<li><a href="/news/local/article_e1565bd0-eea8-11df-b79d-001cc4c03286.html">1 dead, 1 injured when semi, pickup collide near Acton</a></li>
 				
-					<li><a href="/news/local/article_45e04c46-5c28-11df-88c2-001cc4c002e0.html">Firebombs target 2 medical-marijuana businesses</a></li>
+					<li><a href="/news/local/crime-and-courts/article_2ba3d012-75a5-538f-8a1b-593136c2289b.html">Billings police investigate fatal South Side shooting</a></li>
 				
-					<li><a href="/news/local/crime-and-courts/article_7e8aed82-5cfd-11df-a18e-001cc4c002e0.html">Man drives pickup into woman's bedroom</a></li>
+					<li><a href="/news/local/crime-and-courts/article_799c2522-7685-565c-9fd5-e01e6f2cb2bf.html">BPD identifies South Side shooting victims</a></li>
 				
-					<li><a href="/news/state-and-regional/montana/article_5b3d96fe-5d52-11df-a795-001cc4c002e0.html">Officials identify 2 killed in Bridger murder-suicide</a></li>
+					<li><a href="/news/local/article_d225da2b-668b-57c9-a10b-484235ee5f43.html">Montana suffering its share of foreclosure pressures</a></li>
 				
-					<li><a href="/news/state-and-regional/wyoming/article_e17ba9e0-5e10-11df-99e0-001cc4c002e0.html">Train derails south of Thermopolis</a></li>
+					<li><a href="/news/local/article_b7ddaf0e-c38b-5d5e-8133-f71efeae2a85.html">Billings Marine recovering after being shot</a></li>
 				
 			</ul>
 		
@@ -443,16 +494,36 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 	</div>
 </div></div></div>
 
-<div id="blox-tile-ad" class="pad-bottom">
-	<script type="text/javascript">yld_mgr.place_ad_here("tile_one");</script>
-
-<script type="text/javascript">yld_mgr.place_ad_here("tile_two");</script>
-	<div class="clear"></div>
-</div>
-
-<div id="tncms-region-side-rail-bottom" class="tncms-region"><div id="tncms-block-6858" class="tncms-block"></div></div>
 
 <div id="blox-halfpage-ad" class="pad-bottom pad-top"><script type="text/javascript">yld_mgr.place_ad_here("halfpage");</script></div>
+
+<div id="tncms-region-side-rail-bottom" class="tncms-region"><div id="tncms-block-6822" class="tncms-block"><h2 class="pad-botttom"><a href="/admarket/" title="Marketplace">Marketplace</a></h2>
+
+<div id="top-ads-tabs" class="init-blox-tabs">
+	<ul class="blox-tabs">
+		<li class="first"><a href="#top-jobs">Jobs</a></li>
+		<li><a href="#top-cars">Cars</a></li>
+		<li><a href="#top-outdoors">Outdoor Motors</a></li>
+		<li><a href="#top-homes">Homes</a></li>
+	</ul>
+	
+	<div id="top-jobs" class="tab-block">
+		<script type="text/javascript" src="/app/scripts/ajaxModules/top-jobs.php"></script><div style="height: 200px; overflow: auto; margin-bottom: 4px;"><ul class="bull-list pad-bottom"><li><a href="/app/a/t/topjobs/index.php?id=2069" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>MT State Hospital Administrator</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2087" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Transition Coordinator</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2114" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Family Support Specialist</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2117" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Entry-level and Experienced Accountant</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2121" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Civil Rights &amp; EEO Specialist</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2122" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Community Social Worker</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2123" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Community Social Worker</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2126" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Legislative Research Analyst</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2134" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Bartender and Server</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2135" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Craftsman 1st Class (Mechanic)</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2136" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Journeyman Transmission</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2137" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Medical Positions</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2139" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Right-of-Way Agent</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2140" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Maintenance Supervisor</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2141" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>OTR Drivers</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2142" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Experienced Engine Mechanic</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2143" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>CNA</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2144" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Full-time Individual Support Coordinator</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2145" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Electrician</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2151" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>EIT or CAD Technician</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2152" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Personal Banker</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2147" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Caregiver Support Coordinator</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2148" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>LPNs</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2149" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Operations Manager</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2150" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Account Executive</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2153" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Legislative Research Analyst</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2154" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Revenue Data Analyst</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2155" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Real Estate Processing Manager</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2156" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Health Education Specialist</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2157" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Metal/ Nonmetal Mine Safety and Health Inspector</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2158" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>Available Positions-Refrigeration</span></a></li><li><a href="/app/a/t/topjobs/index.php?id=2159" target="tj_pop" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');"><span>On-Air Talent and Salespeople</span></a></li></ul></div><a class="more moz-border" href="/app/a/t/topjobs/index.php" onclick="tj_pop=window.open('','tj_pop','toolbar=no, menubar=no, location=no, scrollbars=yes,resizable=yes, width=500, height=560');" target="tj_pop">View All</a>
+	</div>
+	
+	<div id="top-cars" class="tab-block ui-tabs-hide">
+	<script type="text/javascript" src="/app/scripts/ajaxModules/top-cars.php"></script><div style="height: 200px; overflow: auto; margin-bottom: 4px;"><dl class="blox-top-ad"><dt class="ad-thumb"><a href="https://web.archive.org/web/20091119200325/http://billings.montanawheelsforyou.com/details.php?eqvehicleid=40345773" target="_blank" title="See details on this car"><img src="https://web.archive.org/web/20091119200325/http://hertzogden.com/images/cars/164299-max.jpg" alt="2009 Toyota Highlander " width="100px"></a></dt><dd class="ad-price"><a href="https://web.archive.org/web/20091119200325/http://billings.montanawheelsforyou.com/details.php?eqvehicleid=40345773" target="_blank" title="See details on this car">$27,975</a></dd><dd>2009 Toyota</dd><dd>Highlander</dd><dd class="clear"></dd><dt class="ad-thumb"><a href="https://web.archive.org/web/20091119200325/http://billings.montanawheelsforyou.com/details.php?eqvehicleid=40345769" target="_blank" title="See details on this car"><img src="https://web.archive.org/web/20091119200325/http://hertzogden.com/images/cars/165123-max.jpg" alt="2009 Toyota Corolla " width="100px"></a></dt><dd class="ad-price"><a href="https://web.archive.org/web/20091119200325/http://billings.montanawheelsforyou.com/details.php?eqvehicleid=40345769" target="_blank" title="See details on this car">$15,988</a></dd><dd>2009 Toyota</dd><dd>Corolla</dd><dd class="clear"></dd><dt class="ad-thumb"><a href="https://web.archive.org/web/20091119200325/http://billings.montanawheelsforyou.com/details.php?eqvehicleid=39629454" target="_blank" title="See details on this car"><img src="https://web.archive.org/web/20091119200325/http://webiol.homenetinc.com/stock_images/2/5050.jpg" alt="2005 Pontiac Sunfire " width="100px"></a></dt><dd class="ad-price"><a href="https://web.archive.org/web/20091119200325/http://billings.montanawheelsforyou.com/details.php?eqvehicleid=39629454" target="_blank" title="See details on this car">$6,734</a></dd><dd>2005 Pontiac</dd><dd>Sunfire</dd><dd class="clear"></dd></dl></div><a class="more moz-border" href="https://web.archive.org/web/20091119200325/http://billings.montanawheelsforyou.com" title="See more cars at Wheels For You" target="_blank">More Cars</a>
+	</div>
+	
+	<div id="top-outdoors" class="tab-block ui-tabs-hide">
+		<script type="text/javascript" src="/app/scripts/ajaxModules/top-outdoors.php"></script><div style="height: 200px; overflow: auto; margin-bottom: 4px;"><dl class="blox-top-ad"><dd class="ad-price"><a href="https://web.archive.org/web/20091119200344/http://billings.outdoormotors.com/details.php?eqvehicleid=40420052" title="See more details" target="_blank">$2002</a></dd><dd>used Crestliner</dd><dd>40420052</dd><dd class="clear"></dd><dd class="ad-price"><a href="https://web.archive.org/web/20091119200344/http://billings.outdoormotors.com/details.php?eqvehicleid=40419999" title="See more details" target="_blank">$16,500</a></dd><dd>2006 Jeep</dd><dd>Wrangler</dd><dd class="clear"></dd><dd class="ad-price"><a href="https://web.archive.org/web/20091119200344/http://billings.outdoormotors.com/details.php?eqvehicleid=40420053" title="See more details" target="_blank">$2008</a></dd><dd>used Lund</dd><dd>40420053</dd><dd class="clear"></dd></dl></div><a class="more moz-border" href="https://web.archive.org/web/20091119200344/http://billings.outdoormotors.com" target="_blank" title="Outdoor Motors">More Vehicles</a>
+	</div>
+	
+	<div id="top-homes" class="tab-block ui-tabs-hide">
+		<script type="text/javascript" src="/app/scripts/ajaxModules/top-homes.php"></script><div style="height: 200px; overflow: auto; margin-bottom: 4px;"><div id="th_adlist"><div id="thblock0"><a href="/app/a/t/topproperties/index.php?id=282" target="th_pop" onclick="th_pop=window.open('','th_pop','toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,width=500,height=560');"><img src="/app/a/t/topproperties/photos/tp_4afc4e9cb98d7_thumb.jpg" border="0"></a><br><div style="text-align:center; font-weight: bold;"><a href="/app/a/t/topproperties/index.php?id=282" class="homelink" target="th_pop" onclick="th_pop=window.open('','th_pop','toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,width=500,height=560');">Call to View</a><br><i>362 Stewart Court South</i></div>This 5 bedrooms, 3 baths home has been completely updated! There is a new roof, fresh interior &amp; exterior paint, new carpet &amp; laminate flooring, new kitchen appliances &amp; a custom island with a butcher block top, new tile tub/shower enclosures &amp; floors plus much more. There are 2 wood fireplaces, a family room in the daylight basement, a double attached garage, and a large deck overlooks the in-ground pool. $249,000.<br></div><div id="thblock1" style="display: none"><a href="/app/a/t/topproperties/index.php?id=283" target="th_pop" onclick="th_pop=window.open('','th_pop','toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,width=500,height=560');"><img src="/app/a/t/topproperties/photos/tp_4afc4f6fdf67b_thumb.jpg" border="0"></a><br><div style="text-align:center; font-weight: bold;"><a href="/app/a/t/topproperties/index.php?id=283" class="homelink" target="th_pop" onclick="th_pop=window.open('','th_pop','toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,width=500,height=560');">Call to View</a><br><i>605 2nd Avenue SW, Park City</i></div>Move in ready! This brand new split-entry home features 2 bedrooms and one full bath in 1,957 sq. ft. There is a vaulted ceiling in the living room, a full unfinished daylight basement, a deck, and a double attached garage. $169,900.<br></div></div></div><div style="text-align: center"><a class="more moz-border" href="javascript:tohoho(-1,2)">PREV</a><a class="more moz-border" href="/app/a/t/topproperties/index.php" target="th_pop" onclick="th_pop=window.open('','th_pop','toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,width=500,height=560');">SHOW ALL</a><a class="more moz-border" href="javascript:tohoho(1,2)">NEXT</a></div>
+	</div>
+</div></div></div>
+
 
 
 <div class="global-sidebar-items">
@@ -565,7 +636,7 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 		<div class="clear"></div>
 		
 	</div>
-
+	
 	<div id="blox-leaderboard-bottom">
 		<div class="container_12 blox-leaderboard">
 			<script type="text/javascript">yld_mgr.place_ad_here("leaderboardbtm_slot");</script>
@@ -594,10 +665,84 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 					<li><a href="/app/a/homes">Homes</a></li>
 				</ul>
 			</div>
-					
+            
+	<!-- local nav list -->
+	<div id="local-footer-menu_menu" class="blox-expand-menu hide moz-border">
+		<ul>
+					<li><a href="http://local.billingsgazette.com/billings+mt/apartments.zq.html">Billings Apartments</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/apartments.zq.html">Lockwood Apartments</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/apartments.zq.html">Laurel Apartments</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/attorneys.zq.html">Billings Attorneys</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/attorneys.zq.html">Lockwood Attorneys</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/attorneys.zq.html">Laurel Attorneys</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/auto+dealers.zq.html">Billings Auto Dealers</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/auto+dealers.zq.html">Lockwood Auto Dealers</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/auto+dealers.zq.html">Laurel Auto Dealers</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/auto+parts.zq.html">Billings Auto Parts</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/auto+parts.zq.html">Lockwood Auto Parts</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/auto+parts.zq.html">Laurel Auto Parts</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/auto+repair.zq.html">Billings Auto Repair</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/auto+repair.zq.html">Lockwood Auto Repair</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/auto+repair.zq.html">Laurel Auto Repair</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/beauty+salons.zq.html">Billings Beauty Salons</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/beauty+salons.zq.html">Lockwood Beauty Salons</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/beauty+salons.zq.html">Laurel Beauty Salons</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/car+rental.zq.html">Billings Car Rental</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/car+rental.zq.html">Lockwood Car Rental</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/car+rental.zq.html">Laurel Car Rental</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/dentists.zq.html">Billings Dentists</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/dentists.zq.html">Lockwood Dentists</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/dentists.zq.html">Laurel Dentists</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/doctors.zq.html">Billings Doctors</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/doctors.zq.html">Lockwood Doctors</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/doctors.zq.html">Laurel Doctors</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/flowers.zq.html">Billings Flowers</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/flowers.zq.html">Lockwood Flowers</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/flowers.zq.html">Laurel Flowers</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/hotels.zq.html">Billings Hotels</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/hotels.zq.html">Lockwood Hotels</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/hotels.zq.html">Laurel Hotels</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/insurance.zq.html">Billings Insurance</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/insurance.zq.html">Lockwood Insurance</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/insurance.zq.html">Laurel Insurance</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/loans.zq.html">Billings Loans</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/loans.zq.html">Lockwood Loans</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/loans.zq.html">Laurel Loans</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/mortgages.zq.html">Billings Mortgages</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/mortgages.zq.html">Lockwood Mortgages</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/mortgages.zq.html">Laurel Mortgages</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/movers.zq.html">Billings Movers</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/movers.zq.html">Lockwood Movers</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/movers.zq.html">Laurel Movers</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/pizza.zq.html">Billings Pizza</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/pizza.zq.html">Lockwood Pizza</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/pizza.zq.html">Laurel Pizza</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/realtors.zq.html">Billings Realtors</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/realtors.zq.html">Lockwood Realtors</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/realtors.zq.html">Laurel Realtors</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/restaurants.zq.html">Billings Restaurants</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/restaurants.zq.html">Lockwood Restaurants</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/restaurants.zq.html">Laurel Restaurants</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/storage.zq.html">Billings Storage</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/storage.zq.html">Lockwood Storage</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/storage.zq.html">Laurel Storage</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/tax+preparation.zq.html">Billings Tax Preparation</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/tax+preparation.zq.html">Lockwood Tax Preparation</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/tax+preparation.zq.html">Laurel Tax Preparation</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt/travel.zq.html">Billings Travel</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt/travel.zq.html">Lockwood Travel</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt/travel.zq.html">Laurel Travel</a></li>
+					<li><a href="http://local.billingsgazette.com/billings+mt.z.html">More Billings ...</a></li>
+					<li><a href="http://local.billingsgazette.com/lockwood+mt.z.html">More Lockwood ...</a></li>
+					<li><a href="http://local.billingsgazette.com/laurel+mt.z.html">More Laurel ...</a></li>
+			<li><a href="http://local.billingsgazette.com/allads.q.html">Featured</a></li>
+		</ul>
+	</div>
+        		
 			<div class="grid_3">
 				<h3>Services</h3>
 				<ul class="bull-list">
+					<li class="blox-flyout-link no-style"><a id="local-footer-menu" class="blox-flyout-open" href="#">Find Billings Businesses</a></li>
 					<li><a href="https://billingsgazette-dot-com.bloxcms.com/app/forms/subscription_services/" rel="external">Subscriber services</a></li>
 					<li><a href="/app/digital-delivery">Digital Delivery</a></li>
 
@@ -612,6 +757,7 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 				<h3>Other Websites</h3>
 				<ul class="bull-list">
 <li><a href="http://sellitmt.com" title="Sell It MT" rel="external">Sell It MT</a></li>
+<li><a href="http://www.hopontodaysdeal.com" title="Today's Deal" rel="external">Today's Deal</a></li>
 <li><a href="http://billingsthriftynickel.com" title="Thrifty Nickel" rel="external">Thrifty Nickel</a></li>
 <li><a href="http://magiccitymagazine.com" title="Magic City magazine" rel="external">Magic City magazine</a></li>
 <li><a href="http://billingsbusiness.com" title="Billings Business" rel="external">Billings Business</a></li>
@@ -646,6 +792,7 @@ yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 	<p id="blox-copyright" class="container_12">© Copyright 2010, <a href="/">The Billings Gazette</a>, Billings, MT | <a href="/app/terms/">Terms of Service</a> and <a href="/app/privacy/">Privacy Policy</a></p>
 </div>
 <div id="blox-peel-ad"><script type="text/javascript">yld_mgr.place_ad_here("peel_slot");</script></div>
+<div id="blox-background-ad" style="display:none"><script type="text/javascript">yld_mgr.place_ad_here("background");</script></div>
 <!-- end footer -->
 
 <div id="blox-omniture" class="hide">
