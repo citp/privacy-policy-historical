@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the academicsnow.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420080551id_/http%3A//www.academicsnow.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsnow.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116104510id_/http%3A//academicsnow.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Academicsnow.com
+# Academicsnow
 
-**Privacy Policy**
+## Privacy Policy
 
 **About us**  
-Academicsnow.com, has created this privacy policy (hereinafter the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use Academicsnow.com (the "Website"); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website.
+Academicsnow.com, has created this privacy policy (hereinafter the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use Academicsnow.com (the "Website"); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website. 
 
 **Information We Collect:**  
 The information that we collect is generally limited to personal information about you that you submit on the Website. The personally identifiable information that may be collected includes: your name; address; email address; telephone number; fax number; information about your interests in and use of various products, programs, and services; and education level and interests. Although we are not collecting credit card information at this time, we reserve the right to do so in the future. To the extent that customer credit card-specific information is collected by Academicsnow.com and any of its affiliates and/or subsidiaries, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the customer's prior informed consent. Notwithstanding the foregoing, Academicsnow.com and its affiliates and subsidiaries reserve the right to share with third parties the fact that they have credit card information on file for specific customers but they will not share this credit card information with third parties without the customer's prior informed consent. 
 
-Like most standard website servers, we use log files. Log files track anonymous user information including, but not limited to, Internet Protocol ("IP") addresses, browser type, Internet Service Provider ("ISP"), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is tracked in order to analyze trends, administer the Website, track users movements in the aggregate and gather broad demographic information for aggregate use. The information tracked via log files is not linked to personally identifiable information.
+Like most standard website servers, we use log files. Log files track anonymous user information including, but not limited to, Internet Protocol ("IP") addresses, browser type, Internet Service Provider ("ISP"), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is tracked in order to analyze trends, administer the Website, track users movements in the aggregate and gather broad demographic information for aggregate use. The information tracked via log files is not linked to personally identifiable information. 
 
 **Cookies:**  
 The Website uses a "cookie" to assign a unique identifier to your computer. The cookies we use are persistent files that your web browser places on your computers hard drive. Cookies may be used to help save information on past activities and other preferences, so that you are not required to reenter information each time that you visit the Website, and to deliver content specific to your interests. No personally identifiable information is gathered by the cookie. 
@@ -25,20 +25,16 @@ Though we make every effort to preserve user privacy, we may be required to disc
 By submitting your e-mail address at the Website you agree to receive e-mail marketing from Academicsnow.com and our third-party advertisers. We may sell our user information and/or join together with other businesses to bring selected opportunities to our users. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 C.F.R. 310, et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commissions Do-Not-Call List, Academicsnow.com retains the right to contact you via telemarketing in accordance with the ATSR. 
 
 **Minors:**  
-Visitors under 18 years of age are not permitted to use and/or submit their personal information at the Website. Academicsnow.com does not knowingly solicit or collect information from individuals under the age of 18. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+Visitors under 18 years of age are not permitted to use and/or submit their personal information at the Website. Academicsnow.com does not knowingly solicit or collect information from individuals under the age of 18. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
 
 **Security:**  
 All collected information is stored in a technically and physically secure environment. Furthermore, access to this information is strictly limited, and the information is not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all Academicsnow.com user information. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we use appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. 
 
-In addition, Academicsnow.com has security measures in place to protect the loss, misuse and alteration of personal information under our control.
+In addition, Academicsnow.com has security measures in place to protect the loss, misuse and alteration of personal information under our control. 
 
-Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure.
+Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. 
 
-**Changes to the Privacy Policy & Notification of Changes:**  
-Academicsnow.com reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website that we are changing our Privacy Policy. If the manner in which we use personally identifiable information changes, we will notify users by posting the changes on this Website. Any and all changes to our Privacy Policy are effective immediately upon posting. The users continued use of the Website and/or continued receipt of Academicsnow.com e-mails constitutes an affirmative acknowledgement and acceptance by the user to the terms of the modified Privacy Policy. 
+**Changes to the Privacy Policy & Notification of Changes:** Academicsnow.com reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website that we are changing our Privacy Policy. If the manner in which we use personally identifiable information changes, we will notify users by posting the changes on this Website. Any and all changes to our Privacy Policy are effective immediately upon posting. The users continued use of the Website and/or continued receipt of Academicsnow.com e-mails constitutes an affirmative acknowledgement and acceptance by the user to the terms of the modified Privacy Policy. 
 
-**Contacting the Website:**   
+**Contacting the Website:**  
 If you have any questions about this Privacy Policy or the practices Academicsnow.com please feel free to contact us in writing to info@academicsnow.com. 
-
-  
-
