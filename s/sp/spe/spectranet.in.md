@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectranet.in privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516183326id_/http%3A//www.spectranet.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectranet.in privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116132721id_/http%3A//www.spectranet.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
