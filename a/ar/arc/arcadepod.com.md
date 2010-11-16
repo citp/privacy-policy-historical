@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405091942id_/http%3A//www.arcadepod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116132955id_/http%3A//arcadepod.com/privacy.php) for the most accurate reproduction.*
 
 # ArcadePod.Com: Free Online Games
 
