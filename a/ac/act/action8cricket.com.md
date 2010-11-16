@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ We will never share/give out personal information of users without prior permiss
 
 You may disable the use of cookies on your browser by disabling the cookies option on the internet option menu of your Internet Explorer/Mozilla/Netscape/Opera or Safari browser .However, the disabling of cookies may lead to limited functionality on our cricket portal. You can cancel your subscription to your news updates and you have total rights on applying for various competitions that many be here on our site from time to time.
 
-For more information on our TOS please visit [F.A.Q.](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/faq.htm)
+For more information on our TOS please visit [F.A.Q.](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/faq.htm)
 
 In case of any doubts or further queries please contact us at [action8cricket@gmail.com](mailto:action8cricket@gmail.com)
 
@@ -39,14 +39,14 @@ In case of any doubts or further queries please contact us at [action8cricket@gm
 ---  
 | Recent Cricket Matches  
 ---  
-| [Friday, Jan 29 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-29_jan_2010.htm)  
+| [Thursday, Nov 25 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-25_nov_2010.htm)  
 ---  
-[Tuesday, Jan 26 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-26_jan_2010.htm)  
-[Sunday, Jan 24 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-24_jan_2010.htm)  
-[Friday, Jan 22 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-22_jan_2010.htm)  
-[Sunday, Jan 17 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-17_jan_2010.htm)  
-[Thursday, Jan 14 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-14_jan_2010.htm)  
-[Wednesday, Jan 13 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-13_jan_2010.htm)  
-[Monday, Jan 11 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-11_jan_2010.htm)  
-[Sunday, Jan 10 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-10_jan_2010.htm)  
-[Friday, Jan 08 2010](https://web.archive.org/web/20100119082949id_/http%3A//www.action8cricket.com/cricketshowdate-08_jan_2010.htm)
+[Tuesday, Nov 23 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-23_nov_2010.htm)  
+[Saturday, Nov 20 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-20_nov_2010.htm)  
+[Monday, Nov 15 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-15_nov_2010.htm)  
+[Friday, Nov 12 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-12_nov_2010.htm)  
+[Monday, Nov 08 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-08_nov_2010.htm)  
+[Sunday, Nov 07 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-07_nov_2010.htm)  
+[Friday, Nov 05 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-05_nov_2010.htm)  
+[Thursday, Nov 04 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-04_nov_2010.htm)  
+[Wednesday, Nov 03 2010](https://web.archive.org/web/20101116104756id_/http%3A//www.action8cricket.com/cricketshowdate-03_nov_2010.htm)
