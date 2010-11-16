@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onhercam.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524052310id_/http%3A//www.onhercam.com/privacy%3Fnats%3DMC4wLjkuMTAuMC4wLjAuMC4w) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onhercam.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116052850id_/http%3A//www.onhercam.com/privacy/%3Fnats%3DMC4wLjkuMTAuMC4wLjAuMC4w) for the most accurate reproduction.*
 
-# OnHerCam.com - Privacy Policy
+# OnHerCam Privacy Policy - Internet Privacy and Safe Surfing
 
 OnHerCam.com is committed to maintaining a privacy policy that benefits each individual customer's preferences.
 
