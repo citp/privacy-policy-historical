@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524041141id_/http%3A//corp.daylife.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117155045id_/http%3A//corp.daylife.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Daylife
+# Daylife: Outpublish, don't outspend - Privacy Policy
 
 _Last Revised October 1, 2006_
 
-Daylife (“Daylife”, “we”, “our” or “us”) knows you care about the privacy of your personal information, and we treat it very seriously. This Privacy Policy (“Policy”) describes what information we collect and how it is used.
+Daylife ("Daylife", "we", "our" or "us") knows you care about the privacy of your personal information, and we treat it very seriously. This Privacy Policy ("Policy") describes what information we collect and how it is used.
 
   * **What does this policy cover?**
   * **What is personal information?**
@@ -20,7 +20,7 @@ Daylife (“Daylife”, “we”, “our” or “us”) knows you care about th
 * * *
 
 **What does this policy cover?**  
-This Policy applies only to information gathered during your use of Daylife.com (“Site”), which contains many links to other Web sites. The Policy does not cover information collected by sites linked to from Daylife.com. 
+This Policy applies only to information gathered during your use of Daylife.com ("Site"), which contains many links to other Web sites. The Policy does not cover information collected by sites linked to from Daylife.com. 
 
 Such external sites will have their own policies regarding the collection and use of personal information. We encourage you to learn about these other sites’ privacy and security policies before providing them with your personal information. 
 
@@ -37,7 +37,7 @@ There are two kinds: information you provide explicitly, and information we coll
 
 
 
-Daylife.com only uses cookies to show you relevant content and advertisements, and to keep you logged in for the duration of your visit. Some of our advertisers occasionally use cookies as well. We do not have control over cookies placed by advertisers. If you don't want to use cookies, the “Help” button (or equivalent) on your Web browser should direct you in disabling them. However, if you set your browser to refuse cookies, some portions of Daylife.com (and many of the sites we link to) may not function properly. 
+Daylife.com only uses cookies to show you relevant content and advertisements, and to keep you logged in for the duration of your visit. Some of our advertisers occasionally use cookies as well. We do not have control over cookies placed by advertisers. If you don't want to use cookies, the "Help" button (or equivalent) on your Web browser should direct you in disabling them. However, if you set your browser to refuse cookies, some portions of Daylife.com (and many of the sites we link to) may not function properly. 
 
 **How is my personal information used?**  
 We will only use your personal information to:
