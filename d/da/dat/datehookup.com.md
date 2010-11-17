@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109101154id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117020332id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DateHookup.com Privacy Policy
 
@@ -11,6 +11,10 @@ When you join DateHookup.com, you will have to submit certain personal informati
 **Do you share my info with other companies?**
 
 We don't give, sell, or share any information you submit to us to third parties. 
+
+**Why do you need my email address?**
+
+We require your email address so we can alert you of new messages, winks, friend requests, new singles in your area, etc. We do not abuse this feature, as our goal is to never annoy our users. There is an unsubscribe link on every email we send so you can stop receiving emails anytime with the click of a button. 
 
 **Regarding advertisements on this site**
 
