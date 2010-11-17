@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the townhall.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623205601id_/http%3A//www.townhall.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townhall.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117051423id_/http%3A//www.townhall.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Townhall.com::Privacy Policy
 
@@ -38,7 +38,13 @@ Strict security measures are in place to protect the loss, misuse and alteration
 **Use of cookies and protecting your privacy.**   
 We do make use of cookies to personalize and customize your interaction with Townhall.com and to provide you with the best possible online experience. A cookie is a tiny text file that is placed on your hard drive when you voluntarily register with Townhall.com. These text files do not contain any personal information and can not be used by Townhall.com or anyone else to obtain any information that you do not voluntarily provide. Occasionally, our advertisers will also place cookies on your browser when you click on their ads from our site. This enables them to track the effectiveness of their ads. In most cases, cookies will only be placed when the ad is served to the page you're viewing. 
 
-We also use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:(<http://networkadvertising.org/consumer/opt_out.asp>). 
+We also use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:(<http://networkadvertising.org/consumer/opt_out.asp>).
+
+Opting Out of Ad Serving Cookies 
+
+Townhall.com is dedicated to providing privacy on the Internet.  In addition to developing our privacy policy, we have provided you the opportunity to opt out of future ad serving cookies.  In order to identify you as someone who has elected to opt out of receiving future cookies from ad serving companies, we will place an opt out cookie on your machine. 
+
+If you would like to opt out of ad serving cookies or read additional information about these cookies, please [click here](http://pix.campaigngrid.org/optout.aspx) and here <http://networkadvertising.org/consumer/opt_out.asp>. 
 
 **Townhall.com links to other sites:**  
 Our site may contain links to other Web sites and servers. Townhall.com is not responsible for the content or privacy practices of linked Web sites; nor should a link from Townhall.com be construed as an endorsement of that site’s content, services or practices.
