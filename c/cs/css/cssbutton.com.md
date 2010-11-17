@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssbutton.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513073823id_/http%3A//cssbutton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssbutton.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117132757id_/http%3A//cssbutton.com/privacy) for the most accurate reproduction.*
 
 # CSS button | Using CSS to style your web buttons and widgets
 
