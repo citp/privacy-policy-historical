@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517161506id_/http%3A//www.appmakr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117132141id_/http%3A//www.appmakr.com/privacy_policy) for the most accurate reproduction.*
 
-# :: AppMakr
+# AppMakr :: Publish your own iPhone apps for free!
 
 ## Our Privacy Policy
 
@@ -38,4 +38,4 @@ PointAbout may periodically update this policy. We will notify you about signifi
 
 **Questions:**
 
-Any questions about this Privacy Policy should be addressed to [support@AppMakr.com](mailto:support@AppMakr.com)
+Any questions about this Privacy Policy should be addressed to [legal@AppMakr.com](mailto:legal@AppMakr.com)
