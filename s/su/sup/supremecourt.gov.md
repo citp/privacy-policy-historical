@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supremecourt.gov privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616233831id_/http%3A//www.supremecourt.gov/policies/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremecourt.gov privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118134920id_/http%3A//www.supremecourt.gov/policies/privacy_notice.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
