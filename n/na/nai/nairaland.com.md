@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairaland.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115085321id_/http%3A//www.nairaland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairaland.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118085131id_/http%3A//www.nairaland.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Nairaland, Nairalist, Mobile Nigeria Forums
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to seun at nairaland.com for further clarification. 
+Concerns or questions about this privacy policy can be directed to seun at nairaland.com for further clarification. 1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts. 2) The sexuality section of the forum has been hidden from the view of the public in order to further discourage members from posting adult or sexuality explicit topics. 3) Members have been informed that they need to keep their words clean if the forum is to survive. 4) Moderators have been empowered to quickly eliminate any sexually explicit posts that manage to escape the installed word filter. 5) A privacy policy has been drafted for all my sites. See: http://www.nairaland.com/privacy.html I'm ready to do whatever may be additionally required to make my site fully complaint with your policies.
