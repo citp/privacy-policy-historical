@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114210707id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118102302id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Photovoltaics International
 
@@ -35,7 +35,15 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 **Third-party sites**
 
-This website may contain links to other websites. Such links are provided solely as a convenience for you. Semiconductor Media Ltd. is not responsible for the security practices of such websites.
+This website may contain links to other websites. Such links are provided solely as a convenience for you. Semiconductor Media Ltd. is not responsible for the security practices of such websites. ****
+
+**Cancellation/Refund Policy**
+
+Customers have the right to cancel within seven days of placing the order. Customers cancelling will have their payment refunded within 28 days.
+
+**Credit Card Information**
+
+We do not store or intend to store credit card or financial details (credit or debit card numbers).
 
 If you would like any more information or you have any comments on our privacy policy then please write to us at:
 
@@ -47,4 +55,4 @@ London
 EC1Y 2BP  
 United Kingdom
 
-We may amend this policy from time to time, in which case the amended version will be published on our website. 
+We may amend this policy from time to time, in which case the amended version will be published on our website.
