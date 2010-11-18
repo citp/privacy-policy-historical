@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tshirts.in privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516140635id_/http%3A//www.tshirts.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tshirts.in privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118112220id_/http%3A//www.tshirts.in/privacy.htm) for the most accurate reproduction.*
 
 # Tshirts.in | Customize & Print your own Tshirts, Funny Slogan T-Shirts, Ladies Tops, Kids T-Shirts, Photo Mugs, T-Shirts for Corporates, Small Businesses & Colleges
 
