@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trannydates.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328101305id_/http%3A//trannydates.com/go/page/privacy.html%3Fm%3D%26site%3Dffadult%26dcb%3Dtrannydates.com%26who%3Dr%2CE6vR4N6iwYkv7YiSzDpQeH8cDDkhCEe9nNJ9PD3f9mSqflNNwRKdWwJOVhb1g3n4Cdd4CfgMxd4cr6kBDPAC2BaIHflGbR08o0OGm19a9Ow7vTLy6I/Q5xueicDJvYcT7iyfB62SsAETY6ClcXc_fn6DuCMqr0hnC2tIsHDbJek-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannydates.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118224910id_/http%3A//trannydates.com/go/page/privacy.html%3Fdcb%3Dtrannydates.com) for the most accurate reproduction.*
 
-# Trannydates - Trannydates PRIVACY POLICY
+# Tranny Dates - Tranny Dates PRIVACY POLICY
 
 ### FRIENDFINDER NETWORKS INC. PRIVACY POLICY
 
