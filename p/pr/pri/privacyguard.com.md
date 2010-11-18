@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515155111id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118033933id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.*
 
 # PrivacyGuard
 
 Privacy Policy
 
  **[Online Privacy Policy](https://web.archive.org/Content.aspx?content=CustomerService%2fprivacy)**
-
-**[First Advantage Membership Services, Inc. Privacy Policy](https://web.archive.org/Content.aspx?content=CustomerService%2fFAMSprivacy)**
 
 [**Privacy Policy FAQ's**](https://web.archive.org/Content.aspx?content=CustomerService%2fFinInfoFaqs)
 
