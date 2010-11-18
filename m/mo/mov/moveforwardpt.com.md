@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moveforwardpt.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220035811id_/http%3A//www.moveforwardpt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveforwardpt.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118034944id_/http%3A//www.moveforwardpt.com/privacy-policy) for the most accurate reproduction.*
 
-# Move Forward PT | How to Avoid Surgery
+# Privacy Policy « moveforwardpt
 
-## APTA - Privacy Policy for Our Web Site
+## APTA – Privacy Policy for Our Web Site
 
-We care about your privacy and have created this Privacy Policy to demonstrate our firm commitment to your privacy and to assist you in using [www.apta.org](http://www.apta.org/), [www.moveforwardpt.com](http://www.moveforwardpt.com/) and any other Web sites we may launch in the future (collectively the "Web Site").
+We care about your privacy and have created this Privacy Policy to demonstrate our firm commitment to your privacy and to assist you in using [www.apta.org](http://www.apta.org/), [www.moveforwardpt.com](http://www.moveforwardpt.com/) and any other Web sites we may launch in the future (collectively the “Web Site”).
 
 This Privacy Policy is subject to change and applies only to information on the Web Site, and not to outside sites linked to by the Web Site. You may contact us at the following address with any questions, concerns or comments you may have:
 
@@ -20,7 +20,7 @@ Email: [webmaster@apta.org](mailto:webmaster@apta.org)
 
 APTA does not collect via the Web Site names, e-mail addresses, or any other personal information unless it is voluntarily provided by site visitors. Visitors will be informed when the Web Site requires personal information (name, address, e-mail address, telephone number, credit card number and/or other identifying information). APTA will not distribute this information to third-parties without your prior consent.
 
-Data submitted by a user will be used for the express purpose described at the point of collection in APTA's database and for statistical purposes to analyze user behavior. APTA will protect the information provided. APTA does not disclose, give, sell, or transfer personal information with third parties without the site visitor's express permission. If demographic information is given to third parties, only aggregate information will be provided.
+Data submitted by a user will be used for the express purpose described at the point of collection in APTA’s database and for statistical purposes to analyze user behavior. APTA will protect the information provided. APTA does not disclose, give, sell, or transfer personal information with third parties without the site visitor’s express permission. If demographic information is given to third parties, only aggregate information will be provided.
 
 APTA may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to comply with any legal requirements or with a legal process, or to protect and defend the rights or property of APTA or the personal safety of APTA employees or members of the public.
 
@@ -30,7 +30,7 @@ APTA will make every attempt to protect any personal information submitted to us
 
 ## Cookies
 
-Cookies are small files that allow us to track our users' interaction with the Web Site. Cookies do not identify the user personally, just the computer used to access the Web Site. The Web Site uses session cookies. These files are generated whenever a user accesses the Web Site and they are terminated once the user leaves the Web Site. The Web Site does not use persistent cookies, which have to be deleted manually. If for some reason you don't want your information collected via cookies, you should have the option to disable the cookie function through your Internet browser. However, some areas of the Web Site may require cookies to be enabled.
+Cookies are small files that allow us to track our users’ interaction with the Web Site. Cookies do not identify the user personally, just the computer used to access the Web Site. The Web Site uses session cookies. These files are generated whenever a user accesses the Web Site and they are terminated once the user leaves the Web Site. The Web Site does not use persistent cookies, which have to be deleted manually. If for some reason you don’t want your information collected via cookies, you should have the option to disable the cookie function through your Internet browser. However, some areas of the Web Site may require cookies to be enabled.
 
 ## External Links
 
