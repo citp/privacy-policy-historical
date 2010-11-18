@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thisorthat.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518201909id_/http%3A//thisorthat.com/pt/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisorthat.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118204817id_/http%3A//thisorthat.com/pt/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - This or That
 
-**1** What is This or That? 
+## Privacy Policy
+
+ **1** What is This or That? 
 
 This or That is a user-driven comparison website that allows people to debate and vote on topics of public interest, such as products, objects, concepts, people, and more. Users can create a profile, create comparisons and share them with friends, and vote and comment on existing comparisons.
 
@@ -30,3 +32,17 @@ Your privacy settings can be changed under your [account settings](https://web.a
  **6** Have Questions and Need to Contact Us? 
 
 If you have questions about our Privacy Policy, please email [info@thisorthat.com](mailto:info@thisorthat.com). Note that we may update our Privacy Policy as we continue to add more functionality and enhance the user experience. 
+
+### Facebook Connect Users
+
+This Or That User?
+
+Do you have an existing This or That account?
+
+New Users
+
+To register a new account you must choose a username:
+
+Username:Email (optional):
+
+×
