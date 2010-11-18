@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagsagent.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004646id_/http%3A//www.bagsagent.com/page.html%3Fid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsagent.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118055749id_/http%3A//www.bagsagent.com/page.html%3Fid%3D11) for the most accurate reproduction.*
 
 # Privacy Policy : Designer Handbags,Replica Handbags, Coach Handbags,Chanel Handbags,Louis Vuitton Handbags, Fast Shipping,BagsAgent.com
 
