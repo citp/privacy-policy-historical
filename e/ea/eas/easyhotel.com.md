@@ -1,80 +1,126 @@
-> *The following text is extracted and transformed from the easyhotel.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418060307id_/http%3A//www.easyhotel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhotel.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118071829id_/http%3A//www.easyhotel.com/privacy.html) for the most accurate reproduction.*
 
 # easyHotel - Privacy
 
-**Links**  
-This web-site may contain links to other web-sites. easyHotel is not responsible for the privacy practices or the content of such web-sites.
+**"HOW   WE USE YOUR INFORMATION"**
 
- **Data Amendments**  
-For the purposes of the Data Protection Act (1998), the controller of all information collected on the easyHotel.com website is:
+**GENERAL**
 
-easyHotel Ltd. - Data Controller  
-London House  
-271-273 King Street  
+easyHotel Limited has provided the following information in order to demonstrate our firm commitment to privacy. The following details outline our information gathering and disclosure practices for the website www.easyHotel.com.  For your information, we operate this website and deal with the administration regarding your booking and payments.  Your booking  (and therefore your contract) will actually be with the individual operator of the hotel (“the Operator”), which is an independent trading company separate from us, as explained in their Terms & Conditions Terms and Conditions  
+For the purposes of the Data Protection Act 1998, the controller of all information collected on this website is:
+
+The Data Controller  
+easyHotel Limited    
+80-86 Old Street  
 London  
-W6 9LZ
+EC1V  9NN
 
-If you wish to view, amend or delete any of the information that we hold on you, this can be done by writing to us at the address provided above. We will not charge you to amend or delete any personal information, however we may charge for viewing information held on you as specified in the Data Protection Act (1998).
+In some circumstances, the Operator will collect information from you, when you complete registration slips on arrival at the relevant easyHotel, for example. In those circumstances the Operator will be the controller of the information for the purposes of the Data Protection Act 1998. The Operator may be required to collect such information from you by law or otherwise. Please refer to the privacy policy of each Operator  for more information on this.
 
- **Non-Disclosure to Third Parties**  
-The information that we collect is important to easyHotel Ltd. and we do not and will never pass, rent, trade or sell your information to any third party without your exress and prior authorisation. Where information is collected on our behalf by third parties (such as for the purposes of guest satisfaction survey), we ensure that they comply with our privacy policy as outlined in this document and may not use this information for their own purposes.
+**INFORMATION EASYHOTEL LIMITED MAY COLLECT FROM YOU AND HOW WE USE IT**
 
- **Marketing**  
-easyHotel Ltd. will only ever contact you with marketing information about products, services and promotional offers where you have expressly requested to receive it. If at any time you don't wish to receive such information, then you may ask us to amend your (see section on Data Amendments).
+**IP address**
 
-The following discloses our information gathering and dissemination practices for this web site:
+We may collect information about your computer, including where available your IP address, operating system and browser type.  
+We use the information on your operating system and browser type to optimise our website.  
+We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you.  
+Our system uses cookies to keep track of the visits you make to our website and to allow certain features of our site to function. A cookie is a small file that can be stored by your browser on the hard drive of your computer. We use cookies to compile anonymous statistics relating to the use of services or browsing patterns. When used in this manner you are not individually identified and any data that we collect in this way is only used in aggregate.
 
- **Information collection and use**
+Although you can usually change your browser's settings so that it will not accept cookies, this may restrict your ability to use some of our websites features.
 
-This site is operated by octopustravel.com Limited whose registered office is at Gullivers House, 27 Goswell Road, London, EC1M 7GT, United Kingdom ("We" or "octopustravel"). octopustravel is the data controller in respect of the personal information obtained from you in the course of your use of the site and/or making a booking. In respect of all rail bookings, as stated in the Booking Terms, OctopusTravel acts as an introductory agent on behalf of our partner International Rail Limited. This means that your personal information will be held in accordance with International Rail Limited's [privacy policy](http://www.octopustravel-rail.com/tickets/info-privacy.asp?AFF=OTP "Privacy Policy"). We may also use your contact information for marketing purposes in accordance with the provisions contained below.
+**Registration**
 
-To keep you up-to-date with special offers and services
+You may fill in the registration form on our website. You do not have to do so to browse the website but you will be asked to register when you proceed to make a booking.  
+Our website's registration form requests you to give us security information and unique identifiers (e.g. e-mail address). This information is used as follows:
 
-Send you information by letter, e-mail or to contact you by telephone in relation to your rail booking.
+  * Your contact information is used to contact you when necessary and if the contact is unrelated to your booking we will ask for your permission first 
+  * We also use your contact information from the registration form to send you information about our company. 
+  * You may opt-out of receiving future mailings; see the choice/opt-out section below. 
+  * Unique identifiers (such as e-mail addresses) are collected from you to verify your identity, and for use as account numbers in our record system. 
 
-We will require some personal information such as your  
-a) name  
-b) e-mail address  
-c) postal address  
-d) telephone number  
-e) credit/debit card number and expiry date
 
-We request this information from you on our order form. You must provide contact information - name/email address/postal address/telephone number - and financial information - credit/debit card number/expiry date. We use this contact information in order to reserve the required services, to send you details of that confirmation and if necessary to inform you of updates or changes to your travel plans. If we have trouble processing a request this contact information is used to get in touch with you. We would use your telephone number only if we needed to contact you urgently or if you had made a mistake entering your details. The financial information is used for billing purposes and to complete your orders.
 
-We may also use your contact details to inform you of our products including special offers that we think may be of interest to you. If you do not want us to use your contact information to send details of our products to you please let us know in an email to [info@octopustravel.com](mailto:info@octopustravel.com "info@octopustravel.com").We do not pass details of your personal information to third parties except as described in Sharing Information below.
+**Booking Information**
 
-We store your information for as long as we need to do so in order to fulfil our legal obligations or in order to keep you informed of our products. We use your information to create generic information, which we then use for market and commercial analysis. This generic information does not identify you personally.
+Our website uses an order form to enable you to obtain information and make bookings. We collect your contact information (like your name and telephone number), unique identifiers (like your email address), financial information (like your credit/debit card numbers), and other information. This information is used as follows:
 
- **Sharing Information**  
-Information is shared with a) any member of our group (as described below), b) our bank and c) involved third parties.  
-a) We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
+  * Your contact information is used to get in touch with you when necessary and if the contact is unrelated to your booking we will ask for your permission first. Contact information from the order form is also used to send orders and information about our company to you. You may opt-out of receiving future mailings; see the choice/opt-out section below. 
+  * Financial information and your contact information that is collected is used to process your booking and bill you for products and services. 
+  * Unique identifiers (such as email addresses) are collected from you to verify your identity and for use as account numbers in our record system.
 
-b) When paying by credit or by debit card we pass your card details to our bank for authorisation of the transaction and for payment.  
-c) We may disclose your information to booking agents and hotels who will use your information in the ways described above in this privacy statement. We will provide only the information necessary to ensure the successful fulfilment of your travel arrangements. You should be aware that the hotel may not be subject to data protection laws.
 
-In addition, we may disclose your personal information to third parties (i) in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets or (ii) if octopustravel or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets or (iii) if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or to protect the rights, property, or safety of octopustravel, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-Apart from sharing your information as mentioned above, we do not disclose your details to any other person without your consent unless there is an emergency situation that requires it or we are legally required to do so.
+**Other information**
 
- **Log Files**  
-We use IP addresses to help diagnose problems with our server and to analyse trends/administer the site/track user's movement for our internal site traffic statistics.
+  * If you sign up to receive information about special offers or to receive our newsletter we will  collect your email address, and your interest in future bookings and use it to email such information or the newsletter to you - you can unsubscribe from this service at any time.
+  * We may also ask you to complete guest satisfaction surveys after your stay, although you do not have to respond to them.
+  * If you contact us for any other reason, we may keep a record of that correspondence.
+  * If you have a query about your booking or a particular hotel, we may log such a query so that we can resolve the query and contact you accordingly.
 
- **Where We Store Your Personal Data**  
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
- **Cookies**  
-We use cookies to monitor which parts of the site are most interesting to you - a cookie is a piece of data stored on your hard drive and usage is in no way linked to any personally identifiable information whilst on our site. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt before accepting a cookie but by refusing to accept a cookie you may not be able to access many of the travel services offered by octopustravel.
 
- **Links**  
-This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites - this privacy statement applies solely to information collected by this site. Please check the privacy policies of these sites before you submit any personal data to these websites. We do not accept any responsibility of liability for these policies.
+**Further use of your information**
 
- **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) to ensure the privacy of the information provided to us and at no time are your debit/credit card details transmitted unencrypted over the Internet. To further protect the information you share with us we have an exhaustive security system that includes world class firewall technologies; logical network segmentation to allow restricted access to stored profile information and logical and physical security restrictions to our databases and systems. Whilst SSL encryption is used to protect sensitive information online we also do everything in our power to protect user-information off-line. All your information is restricted in our offices and only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices with regular quarterly updates or whenever new policies are added.
+  * If you are an existing customer, we will only contact you with information about special offers and products and services similar to those which were the subject of a previous booking; see the choice/opt-out section below. 
+  * If you are an existing customer, and where we permit selected third parties to use your data, we (or they) will contact you only if you have given us permission to do so and we will ask for your permission beforehand; see the choice/opt-out section below. 
 
- **Changes to our Privacy Statement**  
-Any material changes in the way we use personal information will be described in future versions of this privacy statement. By booking with us you agree that our privacy statement, current at the time of your most recent booking, shall apply to all your information, whether given to us at the time of that booking or at the time of earlier bookings.
 
-If at any time we decide to use personally identifiable information in a manner different from that stated in the privacy statement applicable to your information, we will notify you by way of an email and request your approval.
 
- **Contacting us**  
-In using the [octopustravel ](http://typo3/http://www.octopustravel.com/ "www.octopustravel.com")site, you consent to the collection and use of this information in the ways described above. If you have any questions or comments about this privacy statement, the practices of this site or your dealings with the site please email us at the following [info@octopustravel.com](mailto:info@octopustravel.com "info@octopustravel.com")
+**  
+Correct/Update**
+
+Our website gives you the following options for changing and modifying information previously provided.
+
+  * Choose "My Account" from navigation tabs at top of page and follow the instructions set out. 
+
+
+
+**Links**
+
+This website may contain links to other websites operated by third parties. easyHotel Limited is not responsible for the privacy practices or the content of such websites.  Please refer to their individual privacy policies.
+
+**Choice/Opt Outs, Data Amendments and Your Rights**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can also exercise your right to prevent such processing at any time by contacting us at info@easyhotel.com.
+
+If you wish to view, amend or delete any of the information that we hold on you, this can be done by writing to us at info@easyhotel.com We will not charge you to amend or delete any personal information, however we may charge for viewing information held on you as specified in the Data Protection Act 1998 and as explained in further detail below.
+
+**Non-Disclosure to Third Parties**
+
+The information that we collect is important to easyHotel Limited and other than as set out below we do not and will never pass, rent, trade or sell your information to any third party without your express and prior authorisation. Where information is collected on our behalf by third parties (such as for the purposes of guest satisfaction surveys), we ensure that they comply with our privacy policy as outlined in this document and may not use this information for their own purposes.
+
+**Disclosure of your information**
+
+We will disclose your information included in your booking form to the relevant Operator so that they can process the booking.  
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.  
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If easyHotel Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+
+
+
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order for an Operator to enforce or apply their Terms & Conditions of sale (see Terms and Conditions) and other agreements; or to protect the rights, property, or safety of easyHotel Limited, the relevant Operator, our or their customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+  
+**Where we store your personal data**
+
+  * The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers or for an Operator. Such staff may be engaged in, among other things, the fulfillment of your booking, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  * All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+  * Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+
+
+**Access to Information**
+
+The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+  
+**  
+Changes to our Privacy Policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+**Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to us at info@easyHotel.com.
