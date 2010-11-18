@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207235016id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118043213id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php) for the most accurate reproduction.*
 
 # AbsolutVision Royalty Free Stock Photo Gallery
 
-### [Privacy policy](https://web.archive.org/web/20100207235016id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php)
+### [Privacy policy](https://web.archive.org/web/20101118043213id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php)
 
 * * *
 
