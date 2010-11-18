@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519044942id_/http%3A//www.vertical-leap.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118032454id_/http%3A//www.vertical-leap.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Vertical Leap - The Search Marketing Specialists
 
