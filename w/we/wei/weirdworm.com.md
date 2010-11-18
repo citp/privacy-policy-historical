@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weirdworm.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216181458id_/http%3A//www.weirdworm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdworm.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118011219id_/http%3A//www.weirdworm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Weird Worm
 
