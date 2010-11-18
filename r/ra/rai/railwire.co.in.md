@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railwire.co.in privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504055340id_/http%3A//www.railwire.co.in/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D25%26Itemid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwire.co.in privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118235701id_/http%3A//www.railwire.co.in/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D25%26Itemid%3D53) for the most accurate reproduction.*
 
 # Railwire - Privacy Policy
 
