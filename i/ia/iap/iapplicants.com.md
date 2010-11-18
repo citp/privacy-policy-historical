@@ -1,56 +1,57 @@
-> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
 
 # iApplicants™ Applicant Tracking System – Privacy Policy
 
 |  |   
 More Applicants:  
 ---  
-[Company Website Visitors](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/companywebsitevisitors.htm)  
-[Feed to FREE Job Boards](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/jobmatch.htm)  
-[Search Engine Optimization](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/searchengineoptimization.htm)  
-[Pay-Per-Click Job Marketing](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/payperclickjobmarketing.htm)  
-[Email Job Blasting & RSS](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/emailjobmarketingandrss.htm)  
+[Company Website Visitors](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/companywebsitevisitors.htm)  
+[Feed to FREE Job Boards](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/jobmatch.htm)  
+[Search Engine Optimization](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/searchengineoptimization.htm)  
+[Pay-Per-Click Job Marketing](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/payperclickjobmarketing.htm)  
+[Email Job Blasting & RSS](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/emailjobmarketingandrss.htm)  
   
 Careers Website:  
-[Careers Website Design](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/careerswebsite.htm)  
-[Automated Job Alerts](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/emailjobmarketingandrss.htm)  
-[Manage Job Listings](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/jobmanagement.htm)  
-[Employment Applications](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/customapp.htm)  
-[Career Site Traffic Analytics](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/careersitetrafficanalytics.htm)  
-[Why Buy a .JOBS Domain](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/dotjobsdomains.htm)  
-[.JOBS Domains Solution](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/dotjobsdomainsolution.htm)  
+[Careers Website Design](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/careerswebsite.htm)  
+[Automated Job Alerts](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/emailjobmarketingandrss.htm)  
+[Manage Job Listings](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/jobmanagement.htm)  
+[Employment Applications](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/customapp.htm)  
+[Career Site Traffic Analytics](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/careersitetrafficanalytics.htm)  
+[Why Buy a .JOBS Domain](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/dotjobsdomains.htm)  
+[.JOBS Domains Solution](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/dotjobsdomainsolution.htm)  
   
 Application Process:  
-[Custom Application](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/customapp.htm)  
-[Job Specific Questions](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/jobquestions.htm)  
-[Manage Applicant Flow](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/application.htm)  
+[Custom Application](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/customapp.htm)  
+[Job Specific Questions](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/jobquestions.htm)  
+[Manage Applicant Flow](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/application.htm)  
   
 Applicant Screening:  
-[Qualification Screening](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/minimumqualificationscreening.htm)  
-[Initial Interview Questions](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/interviewquestionsguide.htm)  
-[Behavioral Interview Questions](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/behavioralinterviewquestions.htm)  
-[Manage Applicant Flow](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/application.htm)  
-[Employment Screening](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/preemploymentbackgroundchecks.htm)  
+[Qualification Screening](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/minimumqualificationscreening.htm)  
+[Initial Interview Questions](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/interviewquestionsguide.htm)  
+[Behavioral Interview Questions](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/behavioralinterviewquestions.htm)  
+[Manage Applicant Flow](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/application.htm)  
+[Employment Screening](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/preemploymentbackgroundchecks.htm)  
   
 Reporting & Tracking:  
-[Track Recruiting Sources](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/recruitingsources.htm)  
-[EEO Compliance Reports](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/eeoccompliance.htm)  
-[Affirmative Action Log](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/affirmativeactionplantracking.htm)  
-[Career Site Visitor Tracking](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/careersitetrafficanalytics.htm)  
+[Applicant Source Tracking](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/recruitingsources.htm)  
+[EEO Compliance Reports](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/eeoccompliance.htm)  
+[Affirmative Action Log](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/affirmativeactionplantracking.htm)  
+[Career Site Visitor Tracking](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/careersitetrafficanalytics.htm)  
   
 Partners & Integrations:  
-[Hiring Assessments](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/assessments.htm)  
-[Background Checks](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/preemploymentbackgroundchecks.htm)  
-[HRIS](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/HRISHumanResourcesSystem.htm)  
-[Payroll Software](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/payrollsoftwareservices.htm)  
-[Employer Tax Credits](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/employertaxcreditprocessing.htm)  
+[Hiring Assessments](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/assessments.htm)  
+[Background Checks](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/preemploymentbackgroundchecks.htm)  
+[HRIS](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/HRISHumanResourcesSystem.htm)  
+[Payroll Software](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/payrollsoftwareservices.htm)  
+[Employer Tax Credits](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/employertaxcreditprocessing.htm)  
   
 Corporate Information:  
-[About iApplicants™](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/about.htm)  
-[Contact iApplicants™](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/contact.htm)  
-[Request Information](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/contactus.php)  
-[iApplicants™ Resellers](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/resellers.htm)  
-[Referral Partners](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/partners.htm)  
+[About iApplicants™](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/about.htm)  
+[Contact iApplicants™](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/contact.htm)  
+[Request Information](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/contactus.php)  
+[Partner Programs](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/partners.htm)  
+[Reseller Program](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/resellers.htm)  
+[Affiliate Program](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/applicanttrackingsystemreferralaffiliateprogram.htm)  
 [Applicant Tracking Blog](http://www.iapplicant.com/)  
 [Home](http://www.iapplicants.com/)  
 iApplicants™ is committed to privacy of personal information gathered during the application process and stored by the iApplicants™ Applicant Tracking System. It is our policy to respect applicant’s privacy and the privacy of corporate records concerning personal information. If you have any questions regarding our privacy policy, please direct your questions to privacy@iapplicants.com. 
@@ -109,4 +110,4 @@ _**David - Managing Partner**_
 "We would be hard pressed to find anything but positives regarding iApplicants™! We look forward to continued use of the system, and cannot imagine returning to paper-based applications."   
 _**Kevin - General Manager**_  
   
-[](https://web.archive.org/web/20100325170034id_/http%3A//www.iapplicants.com/applicanttrackingbenefits.php)
+[](https://web.archive.org/web/20101118043029id_/http%3A//www.iapplicants.com/applicanttrackingbenefits.php)
