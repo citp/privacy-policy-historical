@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsoftstore.co.in privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629020533id_/http%3A//www.microsoftstore.co.in/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftstore.co.in privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118104654id_/http%3A//www.microsoftstore.co.in/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Microsoft Store Quasar Privacy Statement
 
