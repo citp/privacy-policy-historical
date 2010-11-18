@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520042636id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118063514id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Economist.com
 
@@ -122,7 +122,7 @@ The "Economist Group" comprises The Economist Newspaper Limited and its subsidia
   * Other Economist branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
   * European Voice
   * EuroFinance Conferences
-  * CQ-Roll Call Group (including Briefing Room, Capitol Advantage, Congressional Quarterly, congressNow, Congress.org, GalleryWatch, Knowlegis and Roll Call)
+  * CQ-Roll Call Group (including Capitol Advantage, Congressional Quarterly and Roll Call)
 
   
 A "customer" (or "you") is anyone ordering, registering for or making use of any product, service or website of any Economist Group business.
