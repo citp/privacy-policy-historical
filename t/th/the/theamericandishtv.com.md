@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericandishtv.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607114443id_/http%3A//www.theamericandishtv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericandishtv.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118113022id_/http%3A//www.theamericandishtv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The American Satellite DISH Television Company
 
@@ -6,7 +6,7 @@ Order by Phone: 1-888-209-8226
 email us at : support@theamericandishtv.com   
 Promo code: FB1010
 
-[](https://web.archive.org/web/20100607114443id_/http%3A//www.theamericandishtv.com/order1.php)
+[](https://web.archive.org/web/20101118113022id_/http%3A//www.theamericandishtv.com/order1.php)
 
 ## Privacy Policy
 
