@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609051459id_/http%3A//www.unit5.org/departments/technology/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118091447id_/http%3A//www.unit5.org/departments/technology/privacy.shtml) for the most accurate reproduction.*
 
 # Online and Hosted Unit 5 Sites Privacy Policy
 
-######  [Español](http://translate.google.com/translate?u=https://web.archive.org/web/20100609051459id_/http%3A//www.unit5.org/departments/technology/privacy.shtml&hl=en&ie=UTF-8&sl=en&tl=es "*** Haga clic aquí para ver esta página traducida al español. Debido a un formato diferente el sitio puede tener una apariencia ligeramente diferente y alguna funcionalidad se puede perder. ****  Click to view this page translated into Spanish. Due to different formatting the site may have a slightly different appearance and some functionality may be lost. ***") 
+######  [Español](http://translate.google.com/translate?u=https://web.archive.org/web/20101118091447id_/http%3A//www.unit5.org/departments/technology/privacy.shtml&hl=en&ie=UTF-8&sl=en&tl=es "*** Haga clic aquí para ver esta página traducida al español. Debido a un formato diferente el sitio puede tener una apariencia ligeramente diferente y alguna funcionalidad se puede perder. ****  Click to view this page translated into Spanish. Due to different formatting the site may have a slightly different appearance and some functionality may be lost. ***") 
 
 ##### **Online and Hosted Unit 5 Sites** Privacy Policy
 
@@ -20,17 +20,14 @@ Unit 5 Online and the various websites hosted by McLean County Unit District No.
 
 > **Our general mailing address is:**
 > 
-> McLean County Unit 5 Schools 
-> 
-> 1809 West Hovey Ave.
-> 
-> Normal, IL 61761
+> McLean County Unit 5 Schools   
+>  1809 West Hovey Ave.  
+>  Normal, IL 61761
 > 
 > **Our phone and fax numbers are:**
 > 
-> Phone: 309-452-4476
-> 
-> Fax: 309-452-7418
+> Phone: 309-452-4476  
+>  Fax: 309-452-7418
 > 
 > **Our email address to contact us about privacy issues is:**
 > 
