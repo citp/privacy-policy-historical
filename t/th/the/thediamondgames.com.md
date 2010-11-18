@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thediamondgames.com privacy policy that was archived on 2008-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080829000933id_/http%3A//www.thediamondgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediamondgames.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118133936id_/http%3A//www.thediamondgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Diamond Games
 
 Please take a moment to read our privacy policy prior to using this Website.
 
-This privacy statement (”Privacy Policy”) covers all the websites owned, affiliated or operated by The Diamond Games, LLC. (”Diamond Games”, “we”, “us”, “our”). Diamond Games knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Diamond Games websites, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
+This privacy statement (“Privacy Policy”) covers all the websites owned, affiliated or operated by The Diamond Games, LLC. (“Diamond Games”, “we”, “us”, “our”). Diamond Games knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Diamond Games websites, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
 
 We want to share with you how we treat personal information about you that we receive in connection with this Website.
 
@@ -20,7 +20,7 @@ In general, you can visit our Website without telling us who you are or revealin
 
 Diamond Games collects personal information that you may submit to us for such purposes as becoming a member of Diamond Games and registering for the use of certain restricted portions of this Website. We use this information to help authenticate users of Diamond Games, send you and other members newsletters and notifications regarding our services, respond to your requests for information or other materials, conduct internal analyses such as surveys, and help you to identify and communicate with other members. Our use of email addresses is discussed in greater detail below in the section entitled “What About Email Addresses.” Note, only your “user name” which you pick is displayed on this Web site. Your full name is never revealed by Diamond Games to other members (unless you expressively pick it as your user name).
 
-Diamond Games has a general policy of not disclosing your personal information to third parties unless you have consented to such sharing. However, we may share the personal information you provide to us with trusted companies we have hired to provide services for us, such as sending out newsletters, developing new Web site features, or collecting or processing information on our behalf. These companies - our vendors - are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.
+Diamond Games has a general policy of not disclosing your personal information to third parties unless you have consented to such sharing. However, we may share the personal information you provide to us with trusted companies we have hired to provide services for us, such as sending out newsletters, developing new Web site features, or collecting or processing information on our behalf. These companies – our vendors – are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.
 
 In addition, through certain technologies, Diamond Games also collects non-personally-identifiable information from users and visitors to this site. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and targeted advertisements to members. For more information on how we collect this type of information, please see the section below entitled “What about Cookies.”
 
@@ -95,4 +95,6 @@ Washington DC 20007
 **  
 The Effective date of this Privacy Policy: June 30, 2008**
 
-Comments are closed.
+### Game Offers from Our Partners
+
+[](http://www.thediamondgames.com/y/funpass/?ecruos=tdg&creative=bannerbottomfpass) [](http://www.thediamondgames.com/y/funtickets/?ecruos=tdg&creative=%20bannerbottomftickets)
