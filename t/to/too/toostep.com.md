@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toostep.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111055840id_/http%3A//toostep.com/help/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toostep.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118085022id_/http%3A//toostep.com/help/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
