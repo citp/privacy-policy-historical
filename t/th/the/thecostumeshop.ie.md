@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the thecostumeshop.ie privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220043220id_/http%3A//www.thecostumeshop.ie/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecostumeshop.ie privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118195117id_/http%3A//www.thecostumeshop.ie/index.php%3Fdispatch%3Dpages.view%26page_id%3D7) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Costume Shop is committed to protecting your privacy.
+The Costume Shop is committed to protecting customer privacy.
 
-  
-This privacy statement discloses what information we gather about you when you visit the TheCostumeShop.ie Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.
+This privacy statement discloses the information we gather about the customer when visiting the TheCostumeShop.ie. It also describes how we use the information obtained. Our policy is to keep the personal information we receive from our site completely confidential. It is used solely for internal purposes. We will not share your personal information with any other parties.
 
-**Collection of your Personal Information:**
+**Collection of Personal Information:  
+**The personal information we collect may include an individual's name, title, e-mail and phone number. We may collect information on visits to our site, such as the  type of browser being used; the date and time the site it accessed; the pages accessed  while on the site and the internet address of the web site from which an individual is linked directly to our site. This information is used to help improve the site.
 
-The personal information we collect may include your name, title, e-mail, phone. We may collect certain information about your visit, such as type of browser you use; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our Site. This information is used to help improve the Site.
+**Use of   Personal Information:  
+**The personal information collected on this site will be used to provide the services customers have requested. We may use personal information to provide important information about products or services. This may include new products and discount offers.
 
-**Use of your Personal Information:**
-
-The personal information collected on this Site will be used to provide the services you have requested.  
-We may use your personal information to provide you with important information about the product or service that you are using, including new products and discount offers.
-
-**Questions:**
-
-If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](http://www.thecostumeshop.ie/index.php?target=forms&name=contact_us) form. 
-
-We may occasionally modify this privacy statement. All such changes will be reflected on this web page.
+**Questions:  
+**If you have any questions,queries or concerns about this Privacy Statement and the way we process your personal data, please use the [Contact Us](http://www.thecostumeshop.ie/contact-us.html) form. We may occasionally modify this privacy statement. All such changes will be reflected on this web page.
