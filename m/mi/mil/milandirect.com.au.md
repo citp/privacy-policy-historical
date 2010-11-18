@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103113625id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118013426id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Milan Direct - Wholesale Designer Furniture
+# Milan Direct Privacy Policy
 
 www.milandirect.com.au, referred to below as Milan Direct, is an online retailer of consumer goods.
 
