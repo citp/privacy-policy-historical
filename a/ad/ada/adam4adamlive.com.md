@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adamlive.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003928id_/http%3A//adam4adamlive.com/privacy.php%3Fservice%3Dguys%26mp_code%3Da2mh1%26source_code%3Ddefault%26PHPSESSID%3D9el8d78fl8veea0k5g46plt7g6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adamlive.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073753id_/http%3A//adam4adamlive.com/privacy.php) for the most accurate reproduction.*
 
 # Adam4AdamLive.com
 
@@ -51,7 +51,7 @@ Information about our customers is an important part of our business, and we are
 
 VS Media, Inc. gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-  * [Your Account](https://web.archive.org/my-account/?service=guys&mp_code=a2mh1&source_code=default&PHPSESSID=9el8d78fl8veea0k5g46plt7g6)
+  * [Your Account](https://web.archive.org/my-account/?)
 
 
 
