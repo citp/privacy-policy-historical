@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alotporn.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410063905id_/http%3A//alotporn.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alotporn.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119091057id_/http%3A//alotporn.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Alot Porn - Free Porn, Sex Tube, Porno Tube, XXX Videos, Amateur Porn
+# The Best Amateur Porn, Sex Tube, Porno Tube, XXX Videos - AlotPorn
 
 This document details important information regarding the use and disclosure of User Data collected on aLOTporn.com 
 
