@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606081825id_/http%3A//www.cheatcodes.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119230511id_/http%3A//www.cheatcodes.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # CheatCodes: Privacy Statement
 
-CheatCodes.com is committed to honoring the privacy of our members and visitors. This privacy policy, part of our overall [Terms of Service](https://web.archive.org/web/20100606081825id_/http%3A//www.cheatcodes.com/about/legal/terms.html), covers personally identifiable information shared through the CheatCodes.com Service.
+CheatCodes.com is committed to honoring the privacy of our members and visitors. This privacy policy, part of our overall [Terms of Service](https://web.archive.org/web/20101119230511id_/http%3A//www.cheatcodes.com/about/legal/terms.html), covers personally identifiable information shared through the CheatCodes.com Service.
 
 ### What information does CheatCodes.com receive and how do we use it?
 
 If you register as a CheatCodes.com Member or for various CheatCodes.com services, we ask you for your name, contact information, preferences, and certain demographic information. This information lets us provide personalized services and communicate separately with you. We also use aggregated information about the use of our services to evaluate our users' preferences, improve our programming, and facilitate third-party reporting of Internet usage.
 
 Like most websites, we use small bits of data called "cookies" stored on users' computers to simulate a continuous connection. Cookies let us "remember" information about your preferences and allow you to move within our Service without reintroducing yourself. Most browsers let you easily see and control cookies. Some of our advertisers use cookies on our site. We have no access to or control over these cookies.
+
+We occasionally send email to our registered members. Members can control their notification settings at any time after signing in.
 
 We also use third-party advertising companies to serve ads when you visit our website. These companies may collect general information about your visits to our website, such as the number of times you have viewed an ad (but not your name, address, or other personal information). These companies may also use that information to server ads about good and services that may be of interest to you on this website, other websites, and other forms of media. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
@@ -30,6 +32,6 @@ We do not share personally identifiable data with other companies unless you spe
 
 ### What about children's information?
 
-Children under 13 may not use any CheatCodes.com services that require disclosing personally identifiable information. Please see our information on the [Children's Online Privacy Protection Act](https://web.archive.org/web/20100606081825id_/http%3A//www.cheatcodes.com/about/legal/coppa.html).
+Children under 13 may not use any CheatCodes.com services that require disclosing personally identifiable information. Please see our information on the [Children's Online Privacy Protection Act](https://web.archive.org/web/20101119230511id_/http%3A//www.cheatcodes.com/about/legal/coppa.html).
 
 _Last Modified: February 23, 2009_
