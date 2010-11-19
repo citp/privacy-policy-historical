@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andesnetwork.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102100428id_/http%3A//www.andesnetwork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andesnetwork.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119085439id_/http%3A//andesnetwork.com/privacy.htm) for the most accurate reproduction.*
 
 # Andesnetwork.com
 
@@ -27,4 +27,4 @@ Andes Network Web sites may contain links to other Web sites. Andes Network is n
 We recommend that you periodically review this Privacy Policy, because it may be updated from time to time. In case of change, all changes will be posted on this current page. 
 
 **Contacting Andes Network**  
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site please [contact us](https://web.archive.org/web/20100102100428id_/http%3A//www.andesnetwork.com/contactus.htm). 
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site please [contact us](https://web.archive.org/web/20101119085439id_/http%3A//andesnetwork.com/contactus.htm). 
