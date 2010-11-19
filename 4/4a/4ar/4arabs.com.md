@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231155256id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119072656id_/http%3A//4arabs.com/privacy.html) for the most accurate reproduction.*
 
 # 4Arabs Network: Privacy Policy
 
