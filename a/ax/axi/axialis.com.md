@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axialis.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612130042id_/http%3A//www.axialis.com/axialis/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axialis.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119183150id_/http%3A//www.axialis.com/axialis/privacy-policy.html) for the most accurate reproduction.*
 
 # Axialis Software - Privacy Policy
 
