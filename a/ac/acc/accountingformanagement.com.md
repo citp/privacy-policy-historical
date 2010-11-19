@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingformanagement.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522180447id_/http%3A//www.accountingformanagement.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingformanagement.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073646id_/http%3A//accountingformanagement.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Accountingformanagement.com
 
@@ -41,4 +41,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20100522180447id_/http%3A//www.accountingformanagement.com/contact_us.htm)
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20101119073646id_/http%3A//accountingformanagement.com/contact_us.htm)
