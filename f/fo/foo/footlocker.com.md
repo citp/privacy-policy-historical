@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630034750id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119074112id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Foot Locker
 
@@ -7,7 +7,7 @@
 
 **Online Privacy Statement**
 
-Foot Locker believes in keeping your confidential information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:
+Foot Locker believes in keeping your information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:
 
 Information Collection | Option to Opt-out  
 ---|---  
@@ -30,7 +30,7 @@ We encourage you to register when shopping at our Website, however it is not req
 We use the personal information we collect from you for the following purposes:
 
   1. To provide you with a quick and simple checkout experience;
-  2. to process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; 
+  2. To process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; 
   3. To contact you about upcoming Foot Locker sales, promotions, and product information; 
   4. To allow you to participate in contests and other promotions;
   5. To help us learn more about our site visitors and customers and to improve their shopping experience and our business;
@@ -94,7 +94,7 @@ If you are a California resident, you may request certain information regarding 
 **Contacting the Website**  
 Should you have any further questions regarding this Privacy Statement, the practices of this Website, or your dealings with this Website, please:
 
-  1. Contact our customer service department at : customer_service@footlocker.com; or 
+  1. Contact our Customer Service Department at : customer_service@footlocker.com; or 
   2. Write to us at:
 
 
