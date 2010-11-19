@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the astroempires.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325205418id_/http%3A//www.astroempires.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroempires.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119134044id_/http%3A//astroempires.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Astro Empires
-
-Privacy Policy
 
 We collect personal information when you register our service or otherwise voluntarily provide such information.
 
