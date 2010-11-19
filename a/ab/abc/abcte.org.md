@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612233339id_/http%3A//abcte.org/about-abcte/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119074013id_/http%3A//abcte.org/about-abcte/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ABCTE
 
