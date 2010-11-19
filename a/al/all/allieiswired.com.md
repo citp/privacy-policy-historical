@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628050236id_/http%3A//allieiswired.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119093927id_/http%3A//allieiswired.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Allie Is Wired
+# Privacy Policy | Allie is Wired
 
 [AllieisWired.com](http://allieiswired.com/) respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully.
 
