@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102165918id_/http%3A//apartmenthunterz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119101030id_/http%3A//apartmenthunterz.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Apartment Hunters, California
 
