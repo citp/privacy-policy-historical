@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the gossone.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505083623id_/http%3A//www.gossone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossone.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119053642id_/http%3A//www.gossone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goss One
 
+December 23rd, 2009 Comments Off
+
 ### Goss One respects your privacy:
+
+GossOne claims no credit for any images featured on this site unless otherwise noted. All visual content is copyright to its respectful owners.By providing links to other sites, Goss does not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to Mykiru. It is in no way responsible for or has control of the content of any external web site links.
+
+Information on this site may contain errors or inaccuracies; the site’s proprietors do not make warranty as to the correctness or reliability of the site’s content.
+
+If you own rights to any of the images, and do not wish them to appear on this site, please contact us at goss(at)gossone(dot)com and they will be promptly removed.
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Goss One.
 
@@ -57,4 +65,10 @@ This blog does not contain any content which might present a conflict of inter
 To get your own policy, go to http://www.disclosurepolicy.org  
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information please [contact us](http://gossone.com/contact-us/).
+**Free subscription:** Subscribe [**RSS feed**](http://feeds.feedburner.com/GossOne) or get daily tips in your email 
+
+_* Click confirmation link sent in email * Got no email, check spam folder_
+
+815 views, 1 so far today | 
+
+[](http://www.gossone.com/showbiz-news/kim-kardashian-shows-off-her-body-in-tight-dress-photo)
