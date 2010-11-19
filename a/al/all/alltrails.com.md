@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612011422id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119081635id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AllTrails.com
 
@@ -6,7 +6,7 @@
 
 This privacy policy applies to your use of the AllTrails websites located at [alltrails.com](), [alltrails.ca](http://alltrails.com/canada), [alltrails.co.uk](http://alltrails.com/united-kingdom), and [alltrails.de](http://alltrails.com/germany) (collectively, the " **AllTrails Sites** "), but not does apply to any third party sites that may be linked to them, or any relationships you may have with the business listed on the AllTrails Sites.
 
-The terms " **we** ", " **us** ", and " **AllTrails** " refer to AllTrails.com, LLC. The terms " **you** " and " **your** " refer to you, as a user of any of the AllTrails Sites. The term " **personal information** " means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information. 
+The terms " **we** ", " **us** ", and " **AllTrails** " refer to AllTrails, Inc. The terms " **you** " and " **your** " refer to you, as a user of any of the AllTrails Sites. The term " **personal information** " means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information. 
 
 BY USING THE ALLTRAILS SITES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE ALLTRAILS SITES.
 
@@ -76,9 +76,9 @@ We may modify this Privacy Policy at any time, and we will post any new versions
 
 If you believe that AllTrails has not adhered to this Privacy Policy you may write to us at the following address: 
 
-AllTrails.com   
-93 S Jackson St #10207   
-Seattle, Washington 98104   
+AllTrails, Inc.   
+260 King Street #709   
+San Francisco, CA 94107   
 United States of America 
 
 In your letter, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.
