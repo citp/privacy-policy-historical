@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tgf-services.com privacy policy that was archived on 2010-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100521171253id_/http%3A//tgf-services.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tgf-services.com privacy policy that was archived on 2010-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119085732id_/http%3A//tgf-services.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,7 +10,7 @@
 <!--[if IE 6]><link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]-->
 <link href="/css/style.css" rel="stylesheet" type="text/css"><link href="/css/win.css" rel="stylesheet" type="text/css"><link href="/css/banner-trial.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="/js/script.js"></script><script type="text/javascript" src="/js/hint.js"></script><script type="text/javascript" src="/js/jquery.tools.min.js"></script><script type="text/javascript" src="/js/banner-trial.js"></script>
+<script type="text/javascript" src="/js/script.js"></script><script type="text/javascript" src="/js/hint.js"></script><script type="text/javascript" src="/js/jquery.tools.min.js"></script><script type="text/javascript" src="/js/banner-trial.js"></script><script type="text/javascript" src="/js/scripts.js"></script><script type="text/javascript" src="/js/ajax.js"></script>
 <link rel="icon" href="/images/favicon.ico" type="/image/x-icon">
 <link rel="shortcut icon" href="/images/favicon.ico" type="/image/x-icon">
 </head>
@@ -238,7 +238,7 @@ When we receive formal written complaints at this address, we will cooperate wit
       <table border="0" class="reg-table" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td align="right"><span class="label">E-mail</span></td>
-          <td><input type="text" class="inp"></td>
+          <td><input type="text" class="inp" id="regemail"></td>
         </tr>
         <tr>
           <td align="right"><span class="label">Password</span></td>
@@ -260,7 +260,7 @@ When we receive formal written complaints at this address, we will cooperate wit
       <p align="center"><small>
         <input type="checkbox">
         I Agree with <a href="/Terms" target="_blank">Terms</a></small> &nbsp;
-        <input type="image" onclick="showMessage(1); return false;" src="images/btn-submit.png" width="105" height="46">
+        <input type="image" onclick="javascript:showMessage(1); clickLog(3,'regemail');return false;" src="/images/btn-submit.png" width="105" height="46">
       </p>
     </form>
   </div>
@@ -295,43 +295,64 @@ When we receive formal written complaints at this address, we will cooperate wit
       <tbody><tr>
         <td valign="middle" align="center"><p><b>Thank you.</b></p>
           <p>If the email you used is associated with any TGFService accounts you will get a recovery instructions shortly.</p>
-          <a href="index.html"><b class="red">OK</b></a></td>
+          <a href="/"><b class="red">OK</b></a></td>
       </tr>
     </tbody></table>
   </div>
 </div>
 
 <!-- / MESSAGE WINDOW -->
-<script type="text/javascript">
 
-$(function() {
+<!-- PP FORM -->
+<form id="checkout" name="checkout" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" id="hosted_button_id" name="hosted_button_id" value="">
+<input type="hidden" id="email" name="custom" value="">
+<input type="hidden" id="keyword" name="invoice" value="">
+<input type="image" src="https://www.paypal.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online." width="1" height="1">
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+<!-- / PP FORM -->
 
 
-	$("a[rel]").overlay({
-		closeOnClick: false,   
-            expose: {
-				color: '#182203',
-				opacity: 0.5
-			}
-	});
-	
-	$("div#login-window ul#win-tabs").tabs(
-	
-		"div.tabs-cont > div.tab",
-		{
-			effect: 'fade',
-			fadeOutSpeed: 0,
-			fadeInSpeed: 400
-		}
-	
-	);
-	
-});
-	
-	
-	
-	
-</script>
+<!-- Premium Checkout -->
+
+<div class="win reglog-win" id="reglog-win">
+<a href="javascript:void(0)" class="close"><!----></a>
+        <div class="win-cont" align="center">        
+        <!-- TABS -->
+        <ul class="win-tabs">
+                <li><a href="javascript:void(0);" class="current"><div class="left"><div class="right">Premium Checkout</div></div></a></li>
+        </ul>
+        <!-- / TABS -->
+<form name="premium_win" onsubmit="javascript:PreparePayment();return false;">        
+<table border="0" class="reg-table" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+		    <td align="right"><span class="label">Your email</span></td>
+		    <td><input id="user_email" type="text" class="inp"></td>
+		  </tr>
+		   <!--<tr>
+		    <td align="right"><span class="label">Confirm E-mail</span></td>
+		    <td><input type="text" class="inp" /></td>
+		  </tr>-->
+        <tr>
+          <td align="right"><span class="label">Protect code</span></td>
+
+          <td><span class="code"><img src="/reg_code_process.php" height="40" width="90"></span>
+            <input class="inp inp-small" type="text" id="regcode">
+            <input type="hidden" id="setpackagenum" value="">
+          </td>
+        </tr>
+</tbody></table>
+<div class="dev10"><!----></div>
+<br>
+Once you click to SUBMIT you will be directed to PAYPAL to complete your payment.
+<br><br><br>
+<div id="submitbtn"><p align="center"><a href="#" onclick="javascript:PreparePayment();return false;"><img src="/images/btn-submit.png" width="105" height="46"></a></p></div>
+</form>
+</div></div>
+<!-- / Premium Checkout -->
+
 <h3 align="center"></h3>
 <script language="javascript"></script>
 <!-- BANNER -->
@@ -339,14 +360,37 @@ $(function() {
 <div id="banner-trial" class="banner-trial"><div align="center">
 
         <div class="banner-top"><div class="banner-bottom"><div class="banner">
-        <!--<a href="javascript:closeWindow(1, 0.65);" onclick="javascript:window.open('http://lavamus.net/?_ref_id=127446196050863');" class="close-link">-->
-        <a href="javascript:closeWindow(1, 0.65);" onclick="javascript:closeBanner('127446196050863');" class="close-link"><!----></a>
-        <a href="javascript:closeWindow(1, 0.65);" onclick="javascript:window.open('http://lavamus.net/Registration/?_ref_id=127446196050863')" class="reg-link"><!----></a>
+        <!--<a href="javascript:closeWindow(1, 0.65);" onclick="javascript:window.open('http://lavamus.net/?_ref_id=129015673097750');" class="close-link">
+        <a href="javascript:closeWindow(1, 0.65);" onclick="javascript:closeBanner('129015673097750');" class="close-link"></a>
+        <a href="javascript:closeWindow(1, 0.65);" onclick="javascript:window.open('http://lavamus.net/Registration/?_ref_id=129015673097750')" class="reg-link"></a>-->
+        <a href="javascript:closeWindow(1, 0.65);" onclick="javascript:closeBanner();" class="close-link"></a>
+        <a href="javascript:closeWindow(1, 0.65);" onclick="javascript:window.open('http://lastboard.com/registration')" class="reg-link"></a>
         </div>
         </div></div>
         
 </div></div>
 <!-- / BANNER -->
+
+<script type="text/javascript">
+
+$("a[rel]").overlay({
+       closeOnClick: false,   
+           expose: {
+               color: '#182203',
+               opacity: 0.5
+           }
+   });
+$("div#login-window ul#win-tabs").tabs(
+   
+       "div.tabs-cont > div.tab",
+       {
+           effect: 'fade',
+           fadeOutSpeed: 0,
+           fadeInSpeed: 400
+       }
+   
+   );
+</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
