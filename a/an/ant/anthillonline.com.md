@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the anthillonline.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231003757id_/http%3A//anthillonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthillonline.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119104336id_/http%3A//anthillonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Anthill Magazine
+# Privacy Policy | Anthill Magazine
 
-Privacy Policy 
+## Table of Contents
 
-**Privacy Policy - Anthill Online & Anthill Magazine  
-Engagement Policy - Anthill Online (Forums & Blogs)  
-Terms & Conditions - Submitting Editorial, Entering Competitions & Awards**
+Privacy Policy – Anthill Online & Anthill Magazine
 
-## Privacy Policy - Anthill Online & Anthill Magazine
+Engagement Policy – Anthill Online (Forums & Blogs)
 
-Ant Hill Enterprises Pty Ltd (Anthill) is firmly committed to the confidentiality of user data. The following discloses the information gathering and dissemination practices for Anthill.
+Terms & Conditions – Submitting Editorial, Entering Competitions & Awards
+
+## Privacy Policy – Anthill Online & Anthill Magazine
+
+**Ant Hill Enterprises Pty Ltd (Anthill)** is firmly committed to the confidentiality of user data. The following discloses the information gathering and dissemination practices for Anthill.
 
 Anthill is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. Anthill is exempt from complying with the Privacy Act in relation to its journalism activities.
 
@@ -46,15 +48,16 @@ Anthill does not share any of your personally identifiable information with any 
 
 **Future Enhancements:** From time to time we will add new features to our e-mail services and web sites. Because of this, our Privacy Policy will be reviewed and revised. Anthill reserves the right to change its Privacy Policy at any time and notify you by posting an updated version of the policy on its web site.
 
-**Further Information:** For more information about privacy issues in Australia and protecting your privacy, visit http://www.privacy.gov.au.
+**Further Information:** For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-## Engagement Policy - Anthill Online (Forums & Blogs)
+## Engagement Policy – Anthill Online (Forums & Blogs)
 
 Anthill Online was developed as a place where business owners and professionals can learn, network, seek inspiration and share ideas. As such, we don’t have too many rules. Our intention is to let you, the user, set your own parameters with respect to user-behaviour. However, rules are required to provide structure and help users self-govern.
 
 Below are some simple rules, disclaimers and warnings. Fortunately, most are easy to remember as they require little more than the application of common sense. However, others are provided to protect users and provide a reminder of some important legal considerations and obligations, namely those pertaining to the solicitation of capital, investment in private companies and the protection of intellectual property.
 
-If you violate any of our internal rules by accident, you’ll be given a warning. If you are a repeat offender, you will be banned from our Forums & Blogs. If you ignore or overlook any of the legal considerations and obligations referred to below, you will not only be jeopardising your own commercial livelihood but you may also face legal prosecution.  
+If you violate any of our internal rules by accident, you’ll be given a warning. If you are a repeat offender, you will be banned from our Forums & Blogs. If you ignore or overlook any of the legal considerations and obligations referred to below, you will not only be jeopardising your own commercial livelihood but you may also face legal prosecution.
+
 Here are our list of rules. Read them carefully and follow them wisely.
 
   1. Use common sense.
@@ -86,7 +89,7 @@ If you intend to use Anthill products and services, such as Anthill Magazine or 
 
 In short, be mindful of your legal obligations when posting comments or connecting with others on the Anthill website. Be courteous and treat others with respect. Use common sense and, most importantly, have fun!
 
-## Terms & Conditions - Submitting Editorial, Entering Competitions and Awards
+## Terms & Conditions – Submitting Editorial, Entering Competitions and Awards
 
 The following Terms & Conditions relate to the submission of editorial for the purposes of possible future publication (including letters to the editor) and the submission of applications and entries for the purposes of participation in Anthill awards programs and competitions. The term ‘entry’ is used to refer to both editorial submissions and award applications or competitions.
 
