@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcanvas.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104072336id_/http%3A//www.searchcanvas.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcanvas.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119085230id_/http%3A//www.searchcanvas.com/about/privacy) for the most accurate reproduction.*
 
 # SearchCanvas | Privacy Policy
 
