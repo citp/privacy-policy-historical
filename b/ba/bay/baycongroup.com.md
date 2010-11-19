@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baycongroup.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629161713id_/http%3A//www.baycongroup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baycongroup.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119093442id_/http%3A//baycongroup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,5 +12,7 @@ When you visit our Web site and access information you remain anonymous. The onl
 **What statistical information do you collect?**  
 We collect the following statistical information: IP address, accesses, and referring URL.
 
-**Do you use cookies** **and/or Web beacons**  
+**Do you use cookies** **and/or Web beacons?**  
 We do not use cookies or Web beacons. We do work with third parties that serve ads to our site. Some of these agencies may use cookies and/or Web beacons to collect information, in the course of serving ads.  You can set your browser to prevent the installation of cookies.
+
+These companies may also use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here<http://www.networkadvertising.org/managing/opt_out.asp>](http://www.networkadvertising.org/managing/opt_out.asp). 
