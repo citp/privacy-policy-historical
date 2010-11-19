@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com.au privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104075843id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.au privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119112837id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
