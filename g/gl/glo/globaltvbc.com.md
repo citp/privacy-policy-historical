@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the globaltvbc.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627235040id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltvbc.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119104240id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.*
 
 # Canwest - Privacy Statement
 
   
 
 
-[Version français](https://web.archive.org/web/20100627235040id_/http%3A//www.canwestglobal.com/privacy_fr.asp)
+[Version français](https://web.archive.org/web/20101119104240id_/http%3A//www.canwestglobal.com/privacy_fr.asp)
 
 **OUR COMMITMENT TO PRIVACY**  
 Canwest Global Communications Corp. and its subsidiaries (each, a "Canwest Company") are committed to controlling the collection, use and disclosure of the personal information provided by its customers. This Privacy Statement is a simplified version of the Canwest Privacy Policy adopted by each of the Canwest Companies to ensure the accuracy, confidentiality and integrity of your personal information. The Canwest Privacy Policy is modeled after the Canadian Standards Association Model Code for the Protection of Personal Information and is compliant with federal and provincial privacy laws including the federal Personal Information Protection and Electronic Documents Act. A summary of the ten principles of fair information practices adopted in the Canwest Privacy Policy is included at the end of this Privacy Statement. A complete copy of the Canwest Privacy Policy is available on request by contacting your local Privacy Compliance Officer or on the Canwest website at [www.canwestglobal.com](http://www.canwestglobal.com/).   
@@ -96,31 +96,13 @@ If you are not satisfied with the response from your local Privacy Compliance Of
 **THE CANWEST COMPANIES**   
 To contact the privacy officers click the appropriate link below: 
 
-  * [Victoria Times Colonist](mailto:VicTPrivacyOfficer@TC.canwest.com)
-  * [Pacific Newspaper Group](mailto:PNGPrivacyOfficer@png.canwest.com)
-  * [Lower Mainland Publishing](mailto:LMPPrivacyOfficer@Van.net)
-  * [Nanaimo Daily News](mailto:NanaimoPrivacyOfficer@nanaimodailynews.com)
   * [Global BC (CHAN)](mailto:VancouverCHANPrivacyOfficer@globaltv.ca)
-  * [Calgary Herald](mailto:Pofficer@theherald.canwest.com)
-  * [Edmonton Journal](mailto:EdmJournalPrivacyOfficer@thejournal.canwest.com)
   * [Global Alberta](mailto:CITVPrivacyOfficer@globaltv.ca)
-  * [The StarPhoenix, Saskatoon](mailto:StarPhoenixPrivacyOfficer@SP.Canwest.com)
-  * [Regina Leader Post](mailto:LeaderPostPrivacyOfficer@Canwest.com)
   * [Global Saskatoon (CFSK)](mailto:CFSKPrivacyOfficer@globaltv.ca)
   * [Global Regina (CFRE)](mailto:CFREPrivacyOfficer@globaltv.ca)
-  * [Corporate](mailto:CorporatePrivacyOfficer@canwest.com)
   * [Global Winnipeg (CKND)](mailto:CKNDPrivacyOfficer@globaltv.ca)
-  * [Canwest Business Services](mailto:CWBSPrivacyOfficer@canwest.com)
-  * [Reach Canada](mailto:ReachCanadaPrivacyOfficer@reachcanada.com)
-  * [National Post](mailto:NationalPostPrivacyOfficer@nationalpost.com)
   * [Global Toronto (CIII)](mailto:CIIIPrivacyOfficer@globaltv.ca)
   * [Sales and Marketing](mailto:CMSTorontoPrivacyOfficer@canwestsales.ca)
-  * [Canwest Digital Media](mailto:CanwestInteractivePrivacyOfficer@canwest.com)
-  * [Canwest Publishing](mailto:CanwestPublicationsPrivacyOfficer@canwest.com)
-  * [CITG](mailto:CITGPrivacyOfficer@canwest.com)
-  * [Windsor Star](mailto:WindsorStarPrivacyOfficer@TheStar.canwest.com)
-  * [Ottawa Citizen](mailto:OttawaCitizenPrivacyOfficer@thecitizen.canwest.com)
-  * [Montreal Gazette](mailto:MontrealGazettePrivacyOfficer@thegazette.canwest.com)
   * [Global Quebec (CKMI)](mailto:CKMIQuebecPrivacyOfficer@globaltv.ca)
   * [Global Martimes (CIHF)](mailto:CIHFPrivacyOfficer@globaltv.ca)
 
