@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616063848id_/http%3A//www.bangkokair.com/privacy-security/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119085849id_/http%3A//www.bangkokair.com/privacy-security/index.php) for the most accurate reproduction.*
 
 # Bangkok Airways - Fly different, to feel extraordinary
 
@@ -59,4 +59,4 @@ PG assumes no responsibility for your any inconvenience, resulting from any unex
 
 When you book flights a secure server is used. Secure Server Layer (SSL) encrypts the information you send through this web site. PG makes no warranty in respect of the strength or effectiveness of that encryption and PG is not responsible for events arising from unauthorized access of the information you provide.
 
-[Home](https://web.archive.org/web/20100616063848id_/http%3A//www.bangkokair.com/index.php) > Privacy & Security
+[หน้าหลัก](https://web.archive.org/web/20101119085849id_/http%3A//www.bangkokair.com/index.php) > ข้อมูลส่วนบุคคลและความปลอดภัย
