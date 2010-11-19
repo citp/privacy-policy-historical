@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avonshop.co.uk privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409005033id_/http%3A//avonshop.co.uk/shop/security.htm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avonshop.co.uk privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119224417id_/http%3A//avonshop.co.uk/shop/security.htm%3F) for the most accurate reproduction.*
 
 # Avon UK Security Statement
 
