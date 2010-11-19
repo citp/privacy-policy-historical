@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxmoviesearch.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613125730id_/http%3A//www.xxxmoviesearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxmoviesearch.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119084019id_/http%3A//www.xxxmoviesearch.com/privacy) for the most accurate reproduction.*
 
 # XXXMovieSearch - Privacy Policy
 
