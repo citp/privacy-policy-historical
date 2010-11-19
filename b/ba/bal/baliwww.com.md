@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503080647id_/http%3A//baliwww.com/hotel/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119202516id_/http%3A//baliwww.com/hotel/policy.html) for the most accurate reproduction.*
 
 # Bali Hotel, Bali Villa Accommodation Travel Portal in Indonesia
 
