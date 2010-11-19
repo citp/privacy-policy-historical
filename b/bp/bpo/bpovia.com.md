@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bpovia.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610090023id_/http%3A//www.bpovia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpovia.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119235736id_/http%3A//www.bpovia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BPOVIA Virtual Assistant and Knowledge Process Outsourcing Service
 
-BPOVIA Ltd. takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. In order to operate BPOVIA's services and to reduce the risk of fraud, BPOVIA Ltd., ("BPOVIA" or "we") must ask you to provide us information about yourself and your credit card and/or bank account when applying for one of BPOVIAâ€™s services. BPOVIA uses your information to process applications, complete transactions, respond to your requests, deliver the services in which you enroll or for which you apply, and notify you of special offers that we think may interest you. We also use your information to provide you with a more effective customer experience while interacting with our agents or our website. 
+BPOVIA Ltd. takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. In order to operate BPOVIA's services and to reduce the risk of fraud, BPOVIA Ltd., ("BPOVIA" or "we") must ask you to provide us information about yourself and your credit card and/or bank account when applying for one of BPOVIA™'s services. BPOVIA uses your information to process applications, complete transactions, respond to your requests, deliver the services in which you enroll or for which you apply, and notify you of special offers that we think may interest you. We also use your information to provide you with a more effective customer experience while interacting with our agents or our website. 
 
   
 We WILL NOT sell or rent your personally identifiable information or a list of our customers to third parties. This Privacy Policy applies to all services that are provided by BPOVIA Ltd. 
@@ -39,4 +39,4 @@ We communicate with users on a regular basis via e-mail, telephone and instant m
 BPOVIA Ltd. is not responsible for the privacy practices or the content of any other websites to which the Site links or to which link to the Site. By clicking on a link, logo or other item, please note that you may no longer be on the BPOVIA Site. To check what Internet location you are on, note the URL at the top and/or bottom of your browser. We encourage you to read the posted privacy statement of that website whenever interacting with any website. 
 
 **Questions and Suggestions**  
-If you have questions or suggestions, please contact us at: contact@bpovia.com
+If you have questions or suggestions, please contact us at: [contact@bpovia.com](mailto:contact@bpovia.com)
