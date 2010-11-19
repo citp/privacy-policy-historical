@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525024959id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119072435id_/http%3A//1800gotjunk.com/us_en/footer/privacy-legal.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Legal 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc
 
@@ -31,7 +31,7 @@ Any dispute arising from these terms shall be resolved exclusively in the Provin
 
 Below is our privacy policy governing our use of information gathered about you ("Information"). 
 
-Although we are committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection of data through channels other than this Site. If you have any questions about this privacy statement or the content and practices of our web site, please feel free to contact us by [clicking here.](http://www.1800gotjunk.com/ca_en/about/forms/contact_us.aspx)
+Although we are committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection of data through channels other than this Site. If you have any questions about this privacy statement or the content and practices of our web site, please feel free to contact us by [clicking here.](https://web.archive.org/ca_en/about/forms/contact_us.aspx)
 
 **INFORMATION WE COLLECT**
 
@@ -51,7 +51,7 @@ When you provide Information via our web site, we may use the Information to occ
 
 **HOW TO REVIEW AND UPDATE YOUR INFORMATION**
 
-You may e-mail us with changes to your information and contact preferences by contacting us by [clicking here. ](http://www.1800gotjunk.com/ca_en/about/forms/contact_us.aspx)
+You may e-mail us with changes to your information and contact preferences by contacting us by [clicking here. ](https://web.archive.org/ca_en/about/forms/contact_us.aspx)
 
 **
 
