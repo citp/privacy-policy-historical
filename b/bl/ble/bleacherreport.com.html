@@ -1,248 +1,331 @@
-<!--The following is the downloaded HTML source of the bleacherreport.com privacy policy that was archived on 2010-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100307051808id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bleacherreport.com privacy policy that was archived on 2010-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119152806id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en"><head>
+<!DOCTYPE html><html id="bleacherreport-com" class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+	<meta charset="utf-8">
 	<title>Privacy Policy</title>
-			
 
-	<script src="http://assets1.bleacherreport.com/javascripts/packaged/top_20100304182611.js?1267727181" type="text/javascript"></script>
-	<link href="http://assets0.bleacherreport.com/stylesheets/packaged/common_20100304182611.css" media="screen" rel="Stylesheet" type="text/css">
-	<link href="http://assets0.bleacherreport.com/stylesheets/packaged/print_20100304182611.css" media="print" rel="Stylesheet" type="text/css">
-	<!--[if IE 6]><link href="http://assets1.bleacherreport.com/stylesheets/packaged/ie6_20100304182611.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
-	<!--[if IE 7]><link href="http://assets2.bleacherreport.com/stylesheets/packaged/ie7_20100304182611.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
+		
+	<link href="http://static.bleacherreport.net/stylesheets/packaged/redesign_common_20101119000113.css" media="screen" rel="Stylesheet" type="text/css">
+	<script src="http://static.bleacherreport.net/javascripts/packaged/redesign_top_20101119000113.js?1290124898" type="text/javascript"></script>
 
-	<script type="text/javascript" charset="utf-8">
-  	BR.env = "production";
-  </script>
-
+	<script>
+		BR.env    = "production";
+		BR.mobile = false;
+	</script>
 	
-<link href="http://assets0.bleacherreport.com/stylesheets/packaged/pages_20100304182611.css" media="screen" rel="Stylesheet" type="text/css">
+	<link href="http://static.bleacherreport.net/stylesheets/packaged/redesign_pages_20101119000113.css" media="screen" rel="Stylesheet" type="text/css">
 
-
-  <link rel="shortcut icon" href="http://assets0.bleacherreport.com/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="http://assets0.bleacherreport.com/favicon.ico" type="image/x-icon">
+	<link href="http://static.bleacherreport.net/favicon.ico" rel="shortcut icon">
+	<link href="http://static.bleacherreport.net/apple-touch-icon.png" rel="apple-touch-icon">
 	<link href="http://bleacherreport.com/articles/feed" rel="alternate" title="Bleacher Report RSS feed" type="application/rss+xml">
-	
-	<script type="text/javascript" charset="utf-8">
-
-	//document.observe("br:article:create", function(event) { alert("Article with id " + (event.memo.id) + " was just created")});
-
-	BR.Article = new jActiveRecord ({
-		url: "/articles",
-		
-		has_many: { 
-			tags: function() { return BR.Tag },
-			comments: function() { return BR.ArticleComment }
-		},
-		
-		belongs_to: {
-			author: function() { return BR.User },
-			primary_image: function() { return BR.Image }
-		},
-		
-		functions: {
-			isSlideshow: function() {
-				if (this.render_strategy == "slideshow") {
-					return true;
-				}
-				else {
-					return false;
-				}
-			}
-		},
-		
-		observer_name_space: "br:article"
-		
-	});
-	
-	BR.Tag = new jActiveRecord({
-		url: "/tags",
-		
-		has_many: {
-			community_leaders: function() { return BR.User }
-		},
-		
-		observer_name_space: "br:tag"
-	});
-	
-	BR.User = new jActiveRecord({
-		url: "/users",
-		
-		functions: {
-			init: function () {
-				this.full_name = this.first_name + " " + this.last_name;
-				this.url = "/users/" + this.permalink;
-				this.profile_image = {};
-				
-				var filename = this.cached_public_filename.split(".");
-				filename[filename.size() - 2] = filename[filename.size() - 2] + "_medium";
-				this.profile_image.medium = filename.join(".");
-			},
-			full_name_function: function() { // just a demonstration!
-				return this.first_name + " " + this.last_name;
-			}
-		},
-		
-		observer_name_space: "br:user"
-		
-	});
-	
-	BR.Image = new jActiveRecord({
-		functions: {
-			init: function() {
-				this.cropped_url = this.gallery_url.replace("_gallery.", "_cropped.");
-				this.article_url = this.gallery_url.replace("_gallery.", "_article.");
-				this.feature_url = this.gallery_url.replace("_gallery.", "_feature.");
-			}
-		},
-		
-		has_many_through: { // not implemented yet (or possibly ever!), just demo syntax!
-			tags: function() { return { 
-				has_many: BR.Tag, 
-				through: BR.Tagging 
-				} 
-			}
-		},
-		
-		validations: { // not implemented yet, just demo syntax!
-			has_title: {
-				check: function() {
-					return (this.title.length() > 10);
-				},
-				message: "The article title must be at least 10 characters long."
-			}
-		},
-		
-		observer_name_space: "br:image"
-	});
-	
-	BR.ArticleComment = new jActiveRecord({
-		has_many: {
-			children: function() { return BR.ArticleComment }
-		},
-		
-		belongs_to: {
-			user: function() { return BR.User }
-		},
-		
-		observer_name_space: "br:article_comment"
-		
-	});
-	
-	BR.ArticlePick = new jActiveRecord({
-		url: "/articles/:id/picks",
-		url_replacement: "article_id",
-		
-		belongs_to: {
-			user: function() { return BR.User },
-			article: function() { return BR.Article }
-		},
-		
-		observer_name_space: "br:article_pick"
-		
-	});
-	
-	BR.UserTagging = new jActiveRecord({
-		url: "/users/:id/taggings",
-		url_replacement: "user_id",
-		
-		belongs_to: {
-			user: function() { return BR.User },
-			tag: function() { return BR.Tag }
-		},
-		
-		observer_name_space: "br:user_tagging"
-		
-	})
-	
-</script>
-	
-
-	
-		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
-</head>
+	                                      
+			
+		<meta property="fb:app_id" content="135174055162">
+		<meta name="verify-v1" content="+Ntj422Jc4V03qgBqLYbF3LMvrursV0X2btn2Zoqn9w=">
+		<meta name="aol-te-auth" content="1c424580-0f86-4d9b-88b2-bc8c0d029d4c">
+	</head>
 
 <body>
-	<script type="text/javascript">
-		jQuery("body").addClass("javascript-enabled");
-	</script>
 
+	<!--[if lt IE 9]><script>if($("html").width() < 1086) { $("body").addClass("narrow"); }</script><![endif]-->
+	
+	<!--[if IE 9]><div class="ie ie9 ie78 ie89"><![endif]-->
 	<!--[if IE 8]><div class="ie ie8 ie78"><![endif]-->
 	<!--[if IE 7]><div class="ie ie7 ie67 ie78"><![endif]-->
 	<!--[if IE 6]><div class="ie ie6 ie67"><![endif]-->
 
-	
+<script>var _gaq = _gaq || [];</script>
 
-				<div id="hat">	
-		<div id="hat-container">		
-			
+		<script>
+  	BR.analyticsLoggedIn = false;
+  	BR.analyticsPageType = "other";
+		BR.partnerDomain     = "";
+  	BR.teamTrackerPath   = "";
+
+		 BR.teamTrackerPath = "/pages/privacy"; 	  	
+  	BR.teamTrackerPath += "?pagetype=" + BR.analyticsPageType + "&logged_in=" + BR.analyticsLoggedIn;
+  	
+  	if(BR.partnerDomain) { BR.teamTrackerPath += "&external_domain=" + BR.partnerDomain; }
+		try { if(BR.article.author_id) { BR.teamTrackerPath += "&author=" + BR.article.author_id; } } catch(exception) {}
+
+		_gaq.push(
+		  ['_setAccount', 'UA-432905-1'], ['custom._setAccount', 'UA-432905-22'],
+		  ['_addIgnoredOrganic', 'bleacherreport.com'], ['custom._addIgnoredOrganic', 'bleacherreport.com'],
+		  ['_addIgnoredOrganic', 'www.bleacherreport.com'], ['custom._addIgnoredOrganic', 'www.bleacherreport.com'],
+		  ['_addIgnoredOrganic', 'bleacherreport'], ['custom._addIgnoredOrganic', 'bleacherreport'],
+		  ['_addIgnoredOrganic', 'Bleacher Report'], ['custom._addIgnoredOrganic', 'Bleacher Report'],
+		  ['_addIgnoredOrganic', 'the bleacher report'], ['custom._addIgnoredOrganic', 'the bleacher report'],
+		  ['_setCustomVar', 1, "logged_in", "false", 2], ['custom._setCustomVar', 1, "logged_in", "false", 2],
+		  ['_setCustomVar', 2, "page_type", "other", 3], ['custom._setCustomVar', 2, "page_type", "other", 3],
+			 ['_setCustomVar', 3, "team_tracker_path", "/", 3], ['custom._setCustomVar', 3, "team_tracker_path", "/", 3], 						
+					  ['_trackPageview'], ['custom._trackPageview', BR.teamTrackerPath]
+		);	
+
+		
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	  })();
+	</script>
 
 
-<div id="hat-tab-left" class="png-fix"></div>
+		<div id="hat" class="png-fix">
+		<div id="hat-container">
+			<div id="hat-tab-left" class="png-fix"></div>
 <div id="hat-tab" class="png-fix">
-	<div id="hat-tab-container">
-					<span class="hat-tab-text">Bleacher Report publishes the best sports newsletters on the internet.</span>
-			<a href="#" id="newsletter-promotion-pick" class="newsletter-kiosk png-fix">Pick your team</a>
-				
-	</div>
+	<div id="hat-tab-container"></div>
 </div>
 <div id="hat-tab-right" class="png-fix"></div>
 
 <ul id="user-tasks">
-	<li id="login2"><a id="log_in_link" class="png-fix">login</a></li>
-	<li id="signup"><a id="sign_up_link" class="png-fix">sign up</a></li>
-	<li class="hat-divider"></li>
-	<li id="facebook-connect"><img class="facebook_connect hat disable_lazy" src="/images/facebook_connect.png" alt="Connect with Facebook"></li>
+			<li id="login2"><a href="/login" id="log_in_link">login</a></li>
+		<li id="signup"><a href="/signup" id="sign_up_link">sign up</a></li>
+	
+	<li class="hat-divider png-fix"></li>
+	<li id="facebook-connect"><img alt="Connect with Facebook" class="facebook_connect hat disable_lazy" height="21" src="http://static.bleacherreport.net/images/redesign/facebook/fb_connect_89x21.gif?1290106537" width="89"></li>
 </ul>
 
 <div class="clear"></div>
 
 		</div>
 	</div>
-		
 
-		
-<div id="header">
-	<a id="logo" href="/">Bleacher Report - The Open Source Sports Network</a>
 
-	<form id="search-box" action="/search" method="get">
-		<fieldset id="query-tag-chooser">
-			<input type="text" id="query-tag-chooser-query" class="search-box-query" autocomplete="off" name="q" onkeypress="return BR.fixIeEnter(event)">
-			<div id="query-tag-search-results">
-				<ul id="query-tag-search-results-list"></ul>
-			</div>
-		</fieldset>
-		<div class="search-box-indicator" id="query-tag-search-box-indicator">
-			<img alt="Search_indicator" src="http://assets2.bleacherreport.com/images/search_indicator.gif?1267726989">
+<div id="container" class="full-width">
+	
+<div id="header" class="no-sub-nav">
+	<a href="/" id="header-logo" class="png-fix">Bleacher Report</a>
+
+			<div id="search">
+			<form action="/search">
+				<fieldset id="query-tag-chooser">
+					<input id="query-tag-chooser-query" class="search-box-query medium-text text png-fix" autocomplete="off" name="q" placeholder="Search for people, teams and more...">
+					<input type="submit" id="search-button" class="button medium-gray" value="Search" style="background-color:#444;">
+					<div id="query-tag-search-results">
+						<ul id="query-tag-search-results-list"></ul>
+					</div>
+				</fieldset>	
+				<div id="query-tag-search-box-indicator">
+					<img alt="" src="http://static.bleacherreport.net/images/redesign/common/loading/small.gif?1290106537">
+				</div>
+			</form>
 		</div>
-	</form>
-	<span id="banner_ad"></span>
-
+			
 	<div class="clear"></div>
-
+	
 	<div id="nav-container">
-		<ul id="nav2">
-			<li id="nav2-item-home" class="home"><a href="/" title="Home">Home</a></li>
-			<li class="nfl"><a href="/nfl">NFL</a></li>
-			<li class="college-football"><a href="/college-football">College FB</a></li>
-			<li class="mlb"><a href="/mlb">MLB</a></li>
-			<li class="nba"><a href="/nba">NBA</a></li>
-			<li class="nhl"><a href="/nhl">NHL</a></li>
-			<li class="college-basketball"><a href="/college-basketball">College BB</a></li>
-			<li class="tennis"><a href="/tennis">Tennis</a></li>
-			<li class="golf"><a href="/golf">Golf</a></li>
-			<li class="world-football"><a href="/world-football">Soccer</a></li>
-			<li class="auto-racing"><a href="/auto-racing">Motorsports</a></li>
-			<li class="mma"><a href="/mma">MMA</a></li>
-			<li class="pro-wrestling"><a href="/pro-wrestling">Wrestling</a></li>
-			<li id="nav2-item-the-rest" class="the-rest"><a href="#">The Rest</a></li>
+	
+		<ul id="nav">
+			<li id="nav-item-home" class="home"><span class="left"></span><a href="/" title="Home" rel="home">Home</a><span class="right"></span></li>
+			<li class="nfl"><span class="left"></span><a href="/nfl">NFL</a><span class="right"></span></li>
+			<li class="college-football"><span class="left"></span><a href="/college-football">CFB</a><span class="right"></span></li>
+			<li class="mlb"><span class="left"></span><a href="/mlb">MLB</a><span class="right"></span></li>
+			<li class="nba"><span class="left"></span><a href="/nba">NBA</a><span class="right"></span></li>
+			<li class="nhl"><span class="left"></span><a href="/nhl">NHL</a><span class="right"></span></li>
+			<li class="college-basketball"><span class="left"></span><a href="/college-basketball">CBB</a><span class="right"></span></li>
+
+							<li class="tennis"><span class="left"></span><a href="/tennis">Tennis</a><span class="right"></span></li>
+				<li class="golf"><span class="left"></span><a href="/golf">Golf</a><span class="right"></span></li>
+				<li class="world-football"><span class="left"></span><a href="/world-football">Soccer</a><span class="right"></span></li>
+				<li class="auto-racing"><span class="left"></span><a href="/auto-racing">Motorsports</a><span class="right"></span></li>
+				<li class="mma"><span class="left"></span><a href="/mma">MMA</a><span class="right"></span></li>
+				<li class="pro-wrestling"><span class="left"></span><a href="/pro-wrestling">Wrestling</a><span class="right"></span></li>
+				<li class="br-swagger"><span class="left"></span><a href="/br-swagger">B/R Swagger</a><span class="right"></span></li>
+				<li id="the-rest" class="the-rest"><span class="left"></span><a href="#">The Rest</a><span class="right"></span></li>
+			
 		</ul>
-	</div>
+	
+</div>
+
+	
+
 
 	
 </div>
 
-<div id="nav-dropdown-template" class="nav-dropdown">
+
+	
+
+
+	
+		  
+
+
+		
+			
+	<div id="main" class="png-fix">
+		
+       
+<div id="content">
+	<p><u><strong>Privacy Policy</strong></u><br><br></p><div><p>Last Updated:&nbsp; August 13, 2010<br><br>Bleacher Report knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Bleacher Report website, you are accepting the practices outlined in this Privacy Policy.<br><br><br><strong>What Does This Privacy Policy Cover?</strong><br><br>This Privacy Policy covers Bleacher Report's treatment of personal information that Bleacher Report gathers when you are on the&nbsp; Bleacher Report website (the “Site”) and when you use Bleacher Report services (collectively the “Service”).<br><br>This policy does not apply to the practices of third parties that Bleacher Report does not own or control, or to individuals that Bleacher Report does not employ or manage.<br><br><br><strong>What Personal Information About Users Does Bleacher Report Collect?</strong><br><br>Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We collect the following types of information from our users:<br><br>1. Information You Provide to Us:<br><br>We receive and may store any information you enter on our website or provide to us in any other way (including by connecting to Bleacher Report through a third-party service). You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information we collect includes:<br><br>* Registration: In order for you to use certain Bleacher Report services, such as submitting new articles to the Site, you must complete a registration form including your full name and email address, or connect with us through a third-party service, which will provide us with information about you from your account with that service as that service may permit.&nbsp;</p> <p class="normal_(web)" dir="ltr">* Member Profile: You have the option (but are not required) to enter your full name and the URL of your blog into your member profile for public display on the Site.</p> <p class="normal_(web)" dir="ltr">* User Content:&nbsp; You may post your own stories on the Service as well as edit and comment on the stories of others (collectively your "User Content").&nbsp;&nbsp;&nbsp;</p> <p class="normal_(web)" dir="ltr">2. Automatic Information:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>* We receive and store certain types of non-personally identifiable information whenever you interact with us. Bleacher Report automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Bleacher Report cookie information, and the page you requested. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>* Bleacher Report may display a counter on any page indicating the total number of times that page has been viewed. This includes member profile pages.</p> <p class="normal_(web)" dir="ltr">* Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Bleacher Report cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.<br><br>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. You may choose to disable or&nbsp; reject cookies when using the Service, but you may not be able to access some of Bleacher Report's most attractive features.<br><br>Some of our business partners may use cookies on our website (for example, advertisers). Bleacher Report has no access to or control over these cookies.</p> <p class="normal_(web)" dir="ltr">* If you choose to provide posts from your blog via Bleacher Report, we may ask you to paste a confirmation code into the external template of your blog that communicates with us to authenticate the blog as an authorized feed and places a badge on your blog identifying you as a Bleacher Report Affiliate.<br><br><br><strong>How Does Bleacher Report Use My Information?</strong><br><br>We use your information to operate, maintain, and provide to you the features and functionality of the Service.</p> <p class="normal_(web)" dir="ltr">* Social sharing of User Content: Bleacher Report allows other users to browse stories that you have written, edited, or commented on. This information is made available via your member profile, on the Bleacher Report Play-by-Play, or within the article or history page of the story in which you performed the action on. Bleacher Report may choose to post this data on other site features in the future.<br><br>* Profile information: Bleacher Report allows other users to browse your full name, and blog URL within your member profile should you provide this optional information.&nbsp;</p> <p class="normal_(web)" dir="ltr">* Syndication: Bleacher Report allows for the RSS syndication of all of its public content within the website.<br><br>* API: Bleacher Report may allow third parties access to all Bleacher Report data that is already publicly available through Bleacher Report.com through an application program interface that allows other programs to interact with the Site. Bleacher Report will keep passwords and blog settings private.<br><br>* Traffic data: Bleacher Report uses traffic data, including information gathered from cookies, to help diagnose problems with our servers, analyze trends, research the market for our services, and administer the website.<br><br><br><strong>Will Bleacher Report Share Any of the Information it Receives?</strong><br><br>We will not rent nor sell your personal information to anyone. We share your personal information only as described below.<br><br>* Providing the Bleacher Report Service:&nbsp; Bleacher Report personnel may have access to user information while carrying out their duties in the normal course of Bleacher Report business.&nbsp; Bleacher Report may share your personally identifiable information with third parties solely for the purpose of providing services to you.&nbsp; If we do this, such third parties’ use of your information will be bound by this Privacy Policy.&nbsp; We may store personal information in locations outside the direct control of Bleacher Report (for instance, on servers or databases co-located with hosting providers).<br><br>* Third-Party Services: &nbsp;If you connect with Bleacher Report through a third-party service, that service may collect certain information about your connection to Bleacher Report as specified by the third-party service’s policies.</p> <p class="normal_(web)" dir="ltr">* Business Transfers:&nbsp; As we develop our business, we may buy or sell assets or business offerings. In these types of transactions, user information is typically one of the business assets that is transferred. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.&nbsp; In any such transfer of information, your user information would remain subject to the promises made in our Privacy Policy.<br><br>* Protection of Bleacher Report and Others:&nbsp; We may release personal information when we believe in good faith that release is necessary to comply with the law; to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of Bleacher Report, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.<br><br>* With Your Consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.<br><br><br><strong>Is Information About Me Secure?</strong><br><br>* Your Bleacher Report account information is protected by a password for your privacy and security. You are responsible for maintaining the secrecy of your password and account information.<br>&nbsp;&nbsp;&nbsp; <br>* Only Bleacher Report employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.<br>&nbsp;&nbsp;&nbsp;&nbsp; <br>* Bleacher Report uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Bleacher Report and you do so at your own risk. Once we receive your transmission of information, Bleacher Report makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.&nbsp; This information includes your User Content. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other users have copied or stored your User Content.<br><br><br><strong>What Information Can I Access?</strong><br><br>You can access your personal information on our website and correct, amend, or delete information that is inaccurate by visiting your user profile setting page.</p> <p class="normal_(web)" dir="ltr"><br><strong>What Choices Do I Have?</strong><br><br>* You can always opt not to disclose information, but then you may be unable to use certain features on our website.&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp; <br>* You can choose to disable or reject cookies from the Service, but you may not then be able to access many features of Bleacher Report. &nbsp;&nbsp;&nbsp;</p> <p class="normal_(web)" dir="ltr">* You can add or update certain information on pages of the Site. When you update information, however, we often maintain a copy of the unrevised information in our records.<br><br>* You may request deletion of your Bleacher Report account by emailing us at <a href="mailto:support%40bleacherreport.com">support@bleacherreport.com</a>.<br><br><br><strong>Can Children Use Bleacher Report's Services?</strong><br><br>You must be at least 13 years or older to register to use the Bleacher Report website. Children between the age of 13 and 18 must have parental consent to register.&nbsp; Bleacher Report does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Bleacher Report. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13,&nbsp; please contact us at privacy@bleacherreport.com.</p> <p class="normal_(web)" dir="ltr">&nbsp;<br><strong>Third Party Links and Advertisers</strong><br><br>The Site contains links to web sites or services of third parties. Bleacher Report is not responsible for the actions of these third parties, including their privacy practices and any content posted on their web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personal information..<br>Bleacher Report uses third-party advertising companies to serve our ads on the Site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites, but will not collect any information which can personally identify you or can be linked to you. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.<br>If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to view cookies installed on your browser by various online ad networks and opt out of some or all of them. Click here for the NAI gateway opt-out site. <a href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a><br>This site will also allow you to review the third-party advertising companies' privacy policies.</p> <p class="normal_(web)" dir="ltr">&nbsp;<br><strong>Changes to this Privacy Policy</strong><br><br>Bleacher Report may amend this Privacy Policy from time to time, at our sole discretion. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Bleacher Report website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p> <p class="normal_(web)" dir="ltr">&nbsp;<br><strong>Questions?</strong>&nbsp;</p> <p class="normal_(web)" dir="ltr">Please e-mail <a href="mailto:privacy%40bleacherreport.com">privacy@bleacherreport.com.</a></p></div>
+</div>
+
+	</div>
+
+	<div id="main-bottom" class="png-fix"></div>
+</div>
+	
+<div id="footer-top" class="png-fix"></div>
+
+<div id="footer">
+	<div id="footer-inner">
+					<div id="what-is" class="footer-module-upper">
+				<div class="footer-header">
+					<h4 class="png-fix">What is Bleacher Report?</h4>
+				</div>
+				<p>Bleacher Report is a sports network driven entirely by passionate fans. Our writers publish over 500 new articles every day, many of which are syndicated to CBSSports.com, Hearst Newspapers, the Los Angeles Times, NHL.com, and other leading media outlets.</p>
+			</div>
+		
+			<div id="twitter" class="footer-module-upper">
+				<div class="footer-header">
+					<h4 class="png-fix">B/R on Twitter</h4>
+				</div>
+				<p class="twitter-timestamp">about 18 hours ago</p><p><a href="http://twitter.com/bleacherreport">@BleacherReport</a>: Is Manny Pacquiao ducking African-American fights? Bernard Hopkins seems to think so: <a href="http://es.pn/dkKy8E">http://es.pn/dkKy8E</a></p>
+			</div>
+		
+			<div id="newsletters" class="footer-module-upper">
+				<div class="footer-header">
+					<h4 class="png-fix">Newsletters</h4>
+				</div>
+				<p>Get the latest news &amp; opinions about your team from around the web.</p>
+				<p><a href="#" class="newsletter-kiosk">Select Your Team »</a></p>
+			</div>
+
+			<div style="clear:both; height:50px;"></div>
+			
+			<div class="footer-module" style="margin:0;">
+				<div class="footer-header">
+					<h4>About B/R</h4>
+				</div>
+				<ul>
+					<li><a href="/about">Company Overview</a></li>
+					<li><a href="/team">Our Team</a></li>
+					<li><a href="/press-room">In The Press</a></li>
+					<li><a href="/advertise">Advertising</a></li>
+					<li><a href="/partners">Partners</a></li>
+					<li><a href="/pages/privacy" rel="nofollow">Privacy</a> and <a href="/pages/terms" rel="nofollow">Terms of Use</a></li>
+					<li>Updated on 08/23</li>
+					<li><a href="/contact">Contact Us</a>
+				</li></ul>
+		  </div>
+				
+		  <div class="footer-module">
+			  <div class="footer-header">
+				  <h4>Writing for B/R</h4>
+			  </div>
+				<ul>
+			  	<li><a href="/pages/forum">Community Forum &amp; Support</a></li>
+					<li><a href="http://forum.bleacherreport.com/2010/01/12/bleacher-report-can-be-a-perplexing-place-for-newc-2/" rel="nofollow" target="_blank">FAQ</a></li>
+			    <li><a href="/wi" rel="nofollow">College Student Writing Internship</a></li>
+			    <li><a href="/pages/rewards" rel="nofollow">Writer Rewards &amp; Reputation</a></li>
+			    <li><a href="/new_writer" rel="nofollow">Why Write for B/R</a></li>		
+					<li><a href="/pages/comguidelines">Community Guidelines</a></li>
+			  	<li><a href="/pages/featuredcolumnists">Featured Columnist Program</a></li>
+			 	</ul>
+		  </div>
+			
+		  <div class="footer-module">
+			  <div class="footer-header">
+				  <h4>Explore B/R</h4>
+			  </div>
+				<ul>
+					<li><a href="#" class="newsletter-kiosk">Bleacher Report Newsletters</a></li>
+					<li><a href="/local">Bleacher Report Local Editions</a></li>
+					<li><a href="http://cdn.bleacherreport.com/sitemap/index.html">Site Map</a></li>
+					<li><a href="http://cdn.bleacherreport.com/sitemap/user/registry.html">Writer Directory</a></li>
+					<li><a href="/archives" rel="nofollow">Article Archives</a></li>
+					<li><a href="/archives/newswires" rel="nofollow">Newswires Archives</a></li>
+				</ul>
+		  </div>
+			
+		  <div class="footer-module">	
+			  <div class="footer-header">
+				  <h4>Popular Topics</h4>
+			  </div>
+				<ul>
+					<li><a href="/college-football">College Football</a></li>
+					<li><a href="/nfl">NFL</a></li>
+					<li><a href="/brett-favre">Brett Favre</a></li>
+					<li><a href="/minnesota-vikings">Vikings</a></li>
+					<li><a href="/miami-heat">Miami Heat</a></li>
+					<li><a href="/tiger-woods">Tiger Woods</a></li>
+				</ul>
+			</div>
+		
+		<p id="copyright" class="footer-small">Copyright © 2010 Bleacher Report, Inc. All Rights Reserved.<br>Certain photos copyright © 2010 by Getty Images. Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.</p>
+		<a href="http://www.cbssports.com" class="png-fix" id="cbs-sports" target="_blank">CBS Sports Official Partner</a>
+		<p class="footer-small">Official Partner</p>
+	</div>
+
+	  		    <script src="http://edge.quantserve.com/quant.js"></script>
+    <script>
+      _qoptions = { qacct: "p-3a-0o8sJKz6Ek" };
+      quantserve();
+    </script>
+    <script>
+      _qoptions = { labels: "MTVN Digital Tribes", qacct: "p-94wNw88f65Rhk" };
+      quantserve();
+    </script>
+    <noscript>
+      <img src="http://pixel.quantserve.com/pixel/p-3a-0o8sJKz6Ek.gif" height="1" width="1" alt="">
+      <img src="http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=MTVN%20Digital%20Tribes" height="1" width="1" alt="">
+    </noscript>
+
+				<script>
+			document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); 
+		</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+		<script>
+		  COMSCORE.beacon({ 
+		    c1: 2, 
+		    c2: 6246855, 
+		    c3: '', 
+		    c4: 'http://bleacherreport.com/pages/privacy', 
+		    c5: '',
+		    c6: '',
+		    c15: '' 
+		  }); 
+		</script> 
+					<noscript> 
+				<img src="http://b.scorecardresearch.com/b?c1=2&amp;c2=6246855&amp;c3=&amp;c4=bleacherreport.com/pages/privacy&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" width="0" height="0" alt=""> 
+			</noscript> 
+		                 
+		
+								<div id="BF_WIDGET_1"><script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=bleacherreport&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580352551904"></script></div>
+			<script>
+				(function( ){
+					BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
+					BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=bleacherreport&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+					setTimeout(function() {document.getElementById('BF_WIDGET_1').appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+				})();
+			</script>
+	
+				    
+
+    	  
+	<!--[if IE]>
+		<script src="http://static.bleacherreport.net/javascripts/packaged/redesign_ie_20101119000113.js?1290124888" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!--[if IE 6]>
+		<script src="http://static.bleacherreport.net/javascripts/packaged/redesign_ie6_20101119000113.js?1290124888" type="text/javascript"></script>
+	  <script>DD_belatedPNG.fix(".button,.module .header,.png-fix");</script>
+	<![endif]-->
+
+	
+</div>
+
+
+	<!--[if IE]></div><![endif]-->
+	
+	
+
+	<script>
+BR.sign_up_template = "\t<div class=\"sign_up_container\">\n\t\t<div class=\"sign_up_side\">\n\t\t\t<h4>Sign up through Facebook</h4>\n\t\t\t<ul>\n\t\t\t\t<li>Follow your Facebook friends on Bleacher Report</li>\n\t\t\t\t<li>Share your articles, comments, and more with friends</li>\n\t\t\t</ul>\n\t\t\t<img alt=\"Connect with Facebook\" class=\"facebook_connect png-fix\" height=\"23\" src=\"http://static.bleacherreport.net/images/redesign/facebook/connect.png?1290106537\" width=\"193\" />\n\t\t</div>\n\n\t\t<div class=\"sign_up_body\">\n\t\t\t<div id=\"join_bleacher_report\">\n\t\t\t\t<h4>Join Bleacher Report</h4>\n\t\t\t\t<p id=\"hat_sign_up_required\" class=\"alert\">You must register in order for that functionality to work!</p>\n\t\t\t\t<ul>\n\t\t\t\t\t<form action=\"/account/create_from_hat\" id=\"hat_signup_form\" method=\"post\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"br-hat-sign-up-first_name\">First Name <em>(required)</em></label>\n\t\t\t\t\t\t\t<input class=\"text medium-text\" name=\"first_name\" id=\"br-hat-sign-up-first_name\">\n\t\t\t\t\t\t\t<div class=\"signup_errors\" id=\"first_name_errors\"></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"br-hat-sign-up-last_name\">Last Name <em>(required)</em></label>\n\t\t\t\t\t\t\t<input class=\"text medium-text\" name=\"last_name\" id=\"br-hat-sign-up-last_name\">\n\t\t\t\t\t\t\t<div class=\"signup_errors\" id=\"last_name_errors\"></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"br-hat-sign-up-email\">Email <em>(required)</em></label>\n\t\t\t\t\t\t\t<input type=\"email\" class=\"text medium-text\" name=\"email\" id=\"br-hat-sign-up-email\">\n\t\t\t\t\t\t\t<div class=\"signup_errors\" id=\"email_errors\"></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"br-hat-sign-up-password\">Password <em>(required)</em></label>\n\t\t\t\t\t\t\t<input type=\"password\" class=\"text medium-text\" name=\"password\" id=\"br-hat-sign-up-password\">\n\t\t\t\t\t\t\t<div class=\"signup_errors\" id=\"password_errors\"></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"br-hat-sign-up-password_confirmation\">Confirm Password <em>(required)</em></label>\n\t\t\t\t\t\t\t<input type=\"password\" class=\"text medium-text\" name=\"password_confirmation\" id=\"br-hat-sign-up-password_confirmation\">\n\t\t\t\t\t\t\t<div class=\"signup_errors\" id=\"password_confirmation_errors\"></div>\n\t\t\t\t\t\t\t<input name=\"comment\" id=\"br-hat-sign-up-comment\">\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label>Are you interested in covering your favorite teams and sports?</label>\n\t\t\t\t\t\t\t<input type=\"radio\" name=\"interested_in_writing\" value=\"yes\"><label>Yes</label>\n\t\t\t\t\t\t\t<input type=\"radio\" name=\"interested_in_writing\" value=\"no\" checked=\"checked\"><label>No</label>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<span id=\"hat_signup_submit\" class=\"medium-orange button\">Sign Up</span>\n\t\t\t\t\t\t\t<input type=\"submit\" value=\"\" style=\"display:none\" />\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"sign-up-tos\">By clicking on 'Sign Up' above, you confirm that you have accepted the <a href=\"/pages/terms\" target=\"_blank\">Terms of Service</a>.</li>\n\t\t\t\t\t\t<input type=\"hidden\" id=\"hat_comment_body\" name=\"comment_body\">\n\t\t\t\t\t\t<input type=\"hidden\" id=\"hat_comment_article_id\" name=\"comment_article_id\">\n\t\t\t\t\t\t<input type=\"hidden\" id=\"hat_comment_parent_id\" name=\"comment_parent_id\">\n\t\t\t\t\t\t<input type=\"hidden\" name=\"current_href\">\n\t\t\t\t\t</form>\n\t\t\t\t</ul>\n\t\t\t</div><!-- end of sign up main, join edition -->\n\t\t\n\t\t\t<div id=\"log_in_to_bleacher_report\">\n\t\t\t\t<h4>Log in to Bleacher Report</h4>\n\t\t\t\t<div id=\"login_message\"></div>\n\t\t\t\t<ul>\n\t\t\t\t\t<form id=\"login_form\" action=\"/login\" method=\"post\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"hat_log_in_email\">Email</label>\n\t\t\t\t\t\t\t<input type=\"email\" class=\"text medium-text\" name=\"user[email]\" id=\"hat_log_in_email\">\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"hat_log_in_password\">Password</label>\n\t\t\t\t\t\t\t<input type=\"password\" class=\"text medium-text\" name=\"user[password]\" id=\"hat_log_in_password\">\n\t\t\t\t\t\t\t<a href=\"#\" class=\"forgot-password-link\">Forgot password?</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li><input id=\"login_button\" type=\"submit\" value=\"Log In\" class=\"medium-orange button\"></li>\n\t\t\t\t\t</form>\n\t\t\t\t</ul>\n\t\t\t\n\t\t\t\t<ul id=\"change-password\">\n\t\t\t\t\t<h4>Change your password</h4>\n\t\t\t\t\t<form action=\"/accounts/forgot_password\" method=\"post\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<label for=\"email\">Email Address</label>\n\t\t\t\t\t\t\t<input id=\"email\" name=\"email\" type=\"email\" class=\"text medium-text\">\n\t\t\t\t\t\t\t<a href=\"#\" class=\"forgot-password-link\">I know my password.</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li><input type=\"submit\" value=\"Change password\" class=\"medium-orange button\"></li>\n\t\t\t\t\t</form>\n\t\t\t\t</ul>\n\t\t\t</div><!-- end of sign up main, log in edition -->\n\t\t</div>\n\t</div>\n";
+BR.facebook_template = "\t<form action=\"/accounts/create_from_facebook\" class=\"new_facebook_user\" id=\"new_facebook_user\" method=\"post\">\t<input id=\"facebook_user_proxied_email\" name=\"facebook_user[proxied_email]\" type=\"hidden\" />\n\t<input id=\"facebook_user_profile_pic\" name=\"facebook_user[profile_pic]\" type=\"hidden\" />\n\t<input id=\"facebook_user_facebook_id\" name=\"facebook_user[facebook_id]\" type=\"hidden\" />\n\t<input id=\"facebook_user_profile_url\" name=\"facebook_user[profile_url]\" type=\"hidden\" />\n\t<ul>\n\t\t\t\t\t<li class=\"fb-question\">\n\t\t\t\t<div class=\"input\">\n\t\t\t\t\t\t\t\t\t\t\t<div id=\"facebook_placebo_submit\">\n\t\t\t\t\t\t\t<img alt=\"Submit\" src=\"http://static.bleacherreport.net/images/shared/submit.png?1290106537\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"fb-first-name\" id=\"fb-email\">\n\t\t\t\t\t\t<p><strong>Email Address</strong></p>\n\t\t\t\t\t\t<input class=\"signup_text_input\" id=\"facebook_user_email\" name=\"facebook_user[email]\" size=\"30\" type=\"text\" />\n\t\t\t\t\t\t<img alt=\"Small\" id=\"facebook_email_indicator\" src=\"http://static.bleacherreport.net/images/shared/spinners/small.gif?1290106537\" style=\"display:none\" />\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"input\" id=\"facebook_password_container\" style=\"display:none\">\n\t\t\t\t\t<div class=\"fb-first-name notice\">\n\t\t\t\t\t\t<p>This email address matches an existing user profile. Please enter your password to connect your accounts.</p>\n\t\t\t\t\t\t<p><strong>Password</strong></p>\n\t\t\t\t\t\t<input class=\"signup_text_input\" id=\"facebook_user_password\" name=\"facebook_user[password]\" size=\"30\" type=\"password\" />\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</li>\n\t\t\t\t<div id=\"facebook_questions\" style=\"display:none\">\n\t\t\t<li class=\"fb-question\" id=\"facebook_full_name_container\">\n\t\t\t\t<p class=\"question\">\n\t\t\t\t\t<label for=\"facebook_user_use_full_name\">Use your full name <strong class=\"full_name\"></strong>&nbsp;on Bleacher Report?</label>\n\t\t\t\t\t<br />\n\t\t\t\t</p>\n\t\t\t\t<p class=\"options\">\n\t\t\t\t\t<input name=\"facebook_user[use_full_name]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_use_full_name\" name=\"facebook_user[use_full_name]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_use_full_name\">Yes</label>\n\t\t\t\t</p>\n\t\t\t\t<div class=\"input full-name-edit\" style=\"display:none\">\n\t\t\t\t\t<p>Edit your name for Bleacher Report:</p>\n\t\t\t\t\t<div class=\"fb-first-name\">\n\t\t\t\t\t\t<label for=\"facebook_user_first_name\">First Name <em>(required)</em></label>\n\t\t\t\t\t\t<input class=\"signup_text_input\" id=\"facebook_user_first_name\" name=\"facebook_user[first_name]\" size=\"30\" type=\"text\" />\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\n\t\t\t\t\t<div class=\"fb-last-name\">\n\t\t\t\t\t\t<label for=\"facebook_user_last_name\">Last Name <em>(required)</em></label>\n\t\t\t\t\t\t<input class=\"signup_text_input\" id=\"facebook_user_last_name\" name=\"facebook_user[last_name]\" size=\"30\" type=\"text\" />\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</li>\n\t\t\t<li class=\"fb-question\">\n\t\t\t\t<p class=\"question\">\n\t\t\t\t\t<img alt=\"Default-user-icon-medium\" class=\"profile_pic\" src=\"http://static.bleacherreport.net/images/default-user-icon-medium.png?1290106537\" />\n\t\t\t\t\t<label for=\"facebook_user_use_profile_pic\">Do you want to use your Facebook profile picture on Bleacher Report?</label>\n\t\t\t\t</p>\n\t\t\t\t<p class=\"options\">\n\t\t\t\t\t<input name=\"facebook_user[use_profile_pic]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_use_profile_pic\" name=\"facebook_user[use_profile_pic]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_use_profile_pic\">Yes</label>\n\t\t\t\t\t\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li class=\"fb-question\" id=\"facebook_interested_in_writing_container\">\n\t\t\t\t<p class=\"question\"><label for=\"facebook_user_interested_in_writing\">Are you interested in covering your favorite teams and sports?</label></p>\n\t\t\t\t<p class=\"options\">\n\t\t\t\t\t<input name=\"facebook_user[interested_in_writing]\" type=\"hidden\" value=\"0\" /><input id=\"facebook_user_interested_in_writing\" name=\"facebook_user[interested_in_writing]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_interested_in_writing\">Yes</label>\n\t\t\t\t\t\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li class=\"fb-question\">\n\t\t\t\t<p class=\"question\"><label for=\"facebook_user_share_activity\">Do you want to share your Bleacher Report activity in your Facebook activity feed?</label></p>\n\t\t\t\t<p class=\"options\">\n\t\t\t\t\t<input name=\"facebook_user[share_activity]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_share_activity\" name=\"facebook_user[share_activity]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_share_activity\">Yes</label>\n\t\t\t\t\t\n\t\t\t\t\t<br />\n\t\t\t\t\t<a href=\"#\" id=\"share_facebook_activity_advanced_link\">Advanced Sharing Options</a>\n\t\t\t\t</p>\n\t\t\t\t<p id=\"share_facebook_activity_advanced\" style=\"display:none\">\n\t\t\t\t\t<input name=\"facebook_user[share_activity_article_writing]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_share_activity_article_writing\" name=\"facebook_user[share_activity_article_writing]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_share_activity_article_writing\">When I write a new article</label>\n\t\t\t\t\t<br /><input name=\"facebook_user[share_activity_comment]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_share_activity_comment\" name=\"facebook_user[share_activity_comment]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_share_activity_comment\">When I post a comment</label>\n\t\t\t\t\t<br /><input name=\"facebook_user[share_activity_like]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_share_activity_like\" name=\"facebook_user[share_activity_like]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_share_activity_like\">When I like an article</label>\n\t\t\t\t\t<br /><input name=\"facebook_user[share_activity_poll_vote]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_share_activity_poll_vote\" name=\"facebook_user[share_activity_poll_vote]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_share_activity_poll_vote\">When I vote on a poll</label>\n\t\t\t\t\t<br /><input name=\"facebook_user[share_activity_fan]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_share_activity_fan\" name=\"facebook_user[share_activity_fan]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_share_activity_fan\">When I become a fan of another member</label>\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li class=\"fb-question\">\n\t\t\t\t<p class=\"question\"><label for=\"facebook_user_fan_friends\">Become fans of your Facebook friends connected to Bleacher Report?</label></p>\n\t\t\t\t<p class=\"options\">\t\t\t\n\t\t\t\t\t<input name=\"facebook_user[fan_friends]\" type=\"hidden\" value=\"0\" /><input checked=\"checked\" id=\"facebook_user_fan_friends\" name=\"facebook_user[fan_friends]\" type=\"checkbox\" value=\"1\" />\n\t\t\t\t\t<label for=\"facebook_user_fan_friends\">Yes</label>\n\t\t\t\t\t\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a id=\"facebook_connect_submit\"><img alt=\"Submit\" src=\"http://static.bleacherreport.net/images/shared/submit.png?1290106537\" /></a>\n\t\t\t</li>\n\t\t</div>\n\t</ul>\n</form>\n";
+</script>
+	<div id="nav-dropdown-template" class="nav-dropdown">
 	<div class="nav-columns"></div>
 </div>
 
@@ -270,458 +353,37 @@
 	<div class="nav-columns"></div>
 </div>
 
-  
-  <div id="contain">
-		<div id="sitewrapper" class="pages show">
-			<div class="flash-messages">
-	
-</div>                    
-			
-<div id="main" class="page">
-	<h1 id="section-header">Privacy Policy</h1>
-	<div id="page-body">
-	<p><u><strong>Privacy Policy</strong></u><br><br>Last Updated:&nbsp; August 1, 2007<br><br>Bleacher Report knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Bleacher Report website, you are accepting the practices outlined in this Privacy Policy.<br><br><strong><br>What Does This Privacy Policy Cover?</strong><br><br>This Privacy Policy covers Bleacher Report's treatment of personal information that Bleacher Report gathers when you are on the&nbsp; Bleacher Report website (the “Site”) and when you use Bleacher Report services (collectively the “Service”).<br><br>This policy does not apply to the practices of third parties that Bleacher Report does not own or control, or to individuals that Bleacher Report does not employ or manage.<br><br><strong><br>What Personal Information About Users Does Bleacher Report Collect?</strong><br><br>Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We collect the following types of information from our users:<br><br>1. Information You Provide to Us:<br><br>We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information we collect includes:<br><br>* Registration: In order for you to use certain Bleacher Report services, such as submitting new articles to the Site, you must complete a registration form including your full name and email address.&nbsp; </p><p>* Member Profile: You have the option (but are not required) to enter your full name and the URL of your blog into your member profile for public display on the Site.</p><p>* User Content:&nbsp; You may post your own stories on the Service as well edit and comment on the stories of others (collectively your "User Content").&nbsp;&nbsp;&nbsp; </p><p>2. Automatic Information:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>* We receive and store certain types of non-personally identifiable information whenever you interact with us. Bleacher Report automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Bleacher Report cookie information, and the page you requested. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>* Bleacher Report may display a counter on any page indicating the total number of times that page has been viewed. This includes member profile pages.</p><p>* Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Bleacher Report cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.<br><br>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies , how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. You may choose to disable or&nbsp; reject cookies when using the Service, but you may not be able to access some of Bleacher Report's most attractive features.<br><br>Some of our business partners may use cookies on our website (for example, advertisers). Bleacher Report has no access to or control over these cookies.</p><p>* If you choose to provide posts from your blog via Bleacher Report, we may ask you to paste confirmation code into the external template of your blog that communicates with us to authenticate the blog as an authorized feed and places a badge on your blog identifying you as a Bleacher Report Affiliate.<br><br><br><strong>How Does Bleacher Report Use My Information?</strong><br><br>* Social sharing of User Content: Bleacher Report allows other users to browse stories that you have written, edited, or commented on. This information is made available via your member profile, on the Bleacher Report Play-by-Play, or within the article or history page of the story in which you performed the action on. Bleacher Report may choose to post this data on other site features in the future.<br><br>* Profile information: Bleacher Report allows other users to browse your full name, and blog URL within your member profile should you provide this optional information.&nbsp;</p><p> * Syndication: Bleacher Report allows for the RSS syndication of all of its public content within the website.<br><br>* API: Bleacher Report may allow third parties access to all Bleacher Report data that is already publicly available through Bleacher Report.com through an application program interface that allows other programs to interact with the Site. Bleacher Report will keep passwords and blog settings private.<br><br>* Traffic data: Bleacher Report uses this traffic data, including information gathered from cookies, to help diagnose problems with our servers, analyze trends, research the market for our services, and administer the website.<br><br><br><strong>Will Bleacher Report Share Any of the Information it Receives?</strong><br><br>We will not rent nor sell your personal information to anyone. We share your personal information only as described below.<br><br>* Providing the Bleacher Report Service:&nbsp; Bleacher Report personnel may have access to user information while carrying out their duties in the normal course of Bleacher Report business.&nbsp; Bleacher Report may share your personally identifiable information with third parties solely for the purpose of providing services to you.&nbsp; If we do this, such third parties’ use of your information will be bound by this Privacy Policy.&nbsp; We may store personal information in locations outside the direct control of Bleacher Report (for instance, on servers or databases co-located with hosting providers).<br><br>* Business Transfers:&nbsp; As we develop our business, we may buy or sell assets or business offerings. In these types of transactions, user information is typically one of the business assets that is transferred. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.&nbsp; In any such transfer of information, your user information would remain subject to the promises made in our Privacy Policy.<br><br>* Protection of Bleacher Report and Others:&nbsp; We may release personal information when we believe in good faith that release is necessary to comply with the law; to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of Bleacher Report, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.<br><br>* With Your Consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.<br><br><br><strong>Is Information About Me Secure?</strong><br><br>* Your Bleacher Report account information is protected by a password for your privacy and security. You are responsible for maintaining the secrecy of your password and account information.<br>&nbsp;&nbsp;&nbsp; <br>* Only Bleacher Report employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.<br>&nbsp;&nbsp;&nbsp;&nbsp; <br>* Bleacher Report uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Bleacher Report and you do so at your own risk. Once we receive your transmission of information, Bleacher Report makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.&nbsp; This information includes your User Content. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other users have copied or stored your User Content.<br><br><strong><br>What Information Can I Access?<br></strong><br>You can access your personal information on our website and correct, amend, or delete information that is inaccurate by visiting your user profile setting page.</p><p><br><strong>What Choices Do I Have?</strong><br><br>* You can always opt not to disclose information, but then you may be unable to use certain features on our website.&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp; <br>* You can choose to disable or reject cookies from the Service, but you may not then be able to access many features of Bleacher Report. &nbsp;&nbsp;&nbsp; </p><p>* You can add or update certain information on pages of the Site. When you update information, however, we often maintain a copy of the unrevised information in our records.<br><br>* You may request deletion of your Bleacher Report account by emailing us at <a href="mailto:support@bleacherreport.com">support@bleacherreport.com</a>.<br><br><br><strong>Can Children Use Bleacher Report's Services?</strong><br><br>You must be at least 13 years or older to register to use the Bleacher Report website. Children between the age of 13 and 18 must have parental consent to register.&nbsp; Bleacher Report does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Bleacher Report. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13,&nbsp; please contact us at privacy@bleacherreport.com.</p><p>&nbsp;<br><strong>Changes to this Privacy Policy<br></strong><br>Bleacher Report may amend this Privacy Policy from time to time, at our sole discretion. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Bleacher Report website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p><p>&nbsp;<br><strong>Questions?</strong>&nbsp; </p><p>Please e-mail <a href="mailto:privacy@bleacherreport.com">privacy@bleacherreport.com.</a></p><p>&nbsp;</p><p><a href="http://beta.bleacherreport.com/pages/terms">Back to the Terms of Use</a>&nbsp;</p>
+	<div id="tooltip">
+	<div class="body png-fix"></div>
+	<div class="right png-fix"></div>
+</div>
 
 	
-	</div>
-</div>
-
-<div id="sidebar">
-	<!--div class="module" id="sub-nav">
-		<ul>
-			<li><a  href="/pages/about">About Bleacher Report</a></li>
-			<li><a  href="/pages/contact">Contact Us</a></li>
-			<li><a  href="/pages/terms">Terms and Conditions</a></li>
-			<li><a href="http://blog.bleacherreport.com">Our Blog</a></li>
-		</ul>
-	</div-->
-</div>
-		</div>
-  </div>
-	<hr class="clearfix">
-
-						<div id="footer">
-  
-  <ul id="footer-buttons">
-    <li id="blog-button"><a href="http://blog.bleacherreport.com">B/R Blog</a></li>
-    <li id="facebook-button"><a href="http://facebook.com/bleacherreport">Become a fan of B/R on Facebook</a></li>
-    <li id="twitter-button"><a href="http://twitter.com/bleacherreport">Follow @BleacherReport on Twitter</a></li>
-    <li id="newsletter-button"><a href="#" class="newsletter-kiosk">Subscribe to a newsletter</a></li>
-  </ul>
-  
-	<ul>
-		<li><h4>About B/R</h4></li>
-		<li class="special"><a href="http://getsatisfaction.com/bleacherreport/topics/new" target="_blank">Contact Us</a></li>
-		<li><a href="/about">Company</a></li>
-		<li><a href="/faq" rel="nofollow">FAQ</a></li>
-		<li><a href="http://blog.bleacherreport.com/careers">Careers</a></li>
-		<li><a href="/advertise" rel="nofollow">Advertising</a></li>
-		<li><a href="/partners" rel="nofollow">Partners</a></li>
-		<li><a href="http://blog.bleacherreport.com">Official Blog</a></li>
-		<li><a href="http://bleacherreport.com/pages/comguidelines">Community Guidelines</a></li>
-		<li><a href="/pages/privacy" rel="nofollow">Privacy</a> and <a href="/pages/terms" rel="nofollow">Terms of Use</a></li>
-	</ul>
-	<ul>
-    <li><h4>Writing for B/R</h4></li>
-    <li><a href="/pages/rewards" rel="nofollow">Writer Rewards &amp; Reputation</a></li>
-    <li><a href="/new_writer" rel="nofollow">Assignment Desk</a></li>		
-  	<li><a href="/pages/featuredcolumnists">Featured Columnist Program</a></li>
-  	<li><a href="/pages/forum">Community Forum</a></li>
- 	</ul>
-	<ul>
-		<li><h4>Explore B/R</h4></li>
-		<li><a href="/sitemap/metro">Bleacher Report Local Editions</a></li>
-		<li><a href="http://cdn.bleacherreport.com/sitemap/index.html">Site Map</a></li>
-		<li><a href="http://cdn.bleacherreport.com/sitemap/user/registry.html">Writer Directory</a></li>
-		<li><a href="/archives" rel="nofollow">Article Archives</a></li>
-		<li><a href="/archives/newswires" rel="nofollow">Newswires Archives</a></li>
-		<li><a href="/activities" rel="nofollow">Activities</a></li>
-		<li><a href="http://www.zazzle.com/bleacherreport" rel="nofollow">Store</a></li>
-	</ul>
-	<ul>
-		<li><h4>Popular Topics</h4></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/2010-winter-olympics">Winter Olympics</a></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/2010-nfl-combine">NFL Combine</a></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/ufc-110">UFC 110</a></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/nba">NBA</a></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/los-angeles-lakers">Lakers</a></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/college-basketball">College Basketball</a></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/manny-pacquiao">Manny Pacquiao</a></li>
-		<li><a rel="nofollow" href="http://bleacherreport.com/tiger-woods">Tiger Woods</a></li>
-	</ul>
-	<ul>
-	  		<li class="footer-logo">Bleacher Report. The Open Source Sports Network</li>
-				<li class="copyright">Copyright © 2010 Bleacher Report, Inc. All Rights Reserved.</li>
-	</ul>
-</div>
-
-<hr class="clearfix">
-
-<div id="partners">
-	<span><a target="_new" href="http://www.cbssports.com"><img src="http://cdn.bleacherreport.com/images/cbs_sports_logo2.gif" width="218" height="42" alt="CBS Sports Official Partner"></a></span>
-</div>
-
-	<div id="getty-copy">Certain photos copyright © 2010 by Getty Images.<br>Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.</div>
 
 			
-	<div id="sign_up_container">
-			<div id="facebook_connect_details">
-			<textarea style="display:none">				&lt;form action="/accounts/create_from_facebook" class="new_facebook_user" id="new_facebook_user" method="post"&gt;	&lt;input id="facebook_user_proxied_email" name="facebook_user[proxied_email]" type="hidden" /&gt;
-	&lt;input id="facebook_user_profile_pic" name="facebook_user[profile_pic]" type="hidden" /&gt;
-	&lt;input id="facebook_user_facebook_id" name="facebook_user[facebook_id]" type="hidden" /&gt;
-	&lt;input id="facebook_user_profile_url" name="facebook_user[profile_url]" type="hidden" /&gt;
-	&lt;ul&gt;
-					&lt;li class="fb-question"&gt;
-				&lt;div class="input"&gt;
-											&lt;div id="facebook_placebo_submit"&gt;
-							&lt;img src="/images/shared/submit.png" /&gt;
-						&lt;/div&gt;
-										&lt;div class="fb-first-name" id="fb-email"&gt;
-						&lt;p&gt;&lt;strong&gt;Email Address&lt;/strong&gt;&lt;/p&gt;
-						&lt;input class="signup_text_input" id="facebook_user_email" name="facebook_user[email]" size="30" type="text" /&gt;
-						&lt;img alt="Small" id="facebook_email_indicator" src="http://assets0.bleacherreport.com/images/shared/spinners/small.gif?1267726990" style="display:none" /&gt;
-						
-					&lt;/div&gt;
-				&lt;/div&gt;
-				&lt;div class="input" id="facebook_password_container" style="display:none"&gt;
-					&lt;div class="fb-first-name notice"&gt;
-						&lt;p&gt;This email address matches an existing user profile. Please enter your password to connect your accounts.&lt;/p&gt;
-						&lt;p&gt;&lt;strong&gt;Password&lt;/strong&gt;&lt;/p&gt;
-						&lt;input class="signup_text_input" id="facebook_user_password" name="facebook_user[password]" size="30" type="password" /&gt;
-						
-					&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/li&gt;
-				&lt;div id="facebook_questions" style="display:none"&gt;
-			&lt;li class="fb-question" id="facebook_full_name_container"&gt;
-				&lt;p class="question"&gt;
-					&lt;label for="facebook_user_use_full_name"&gt;Use your full name &lt;strong class="full_name"&gt;&lt;/strong&gt;&nbsp;on Bleacher Report?&lt;/label&gt;
-					&lt;br /&gt;
-				&lt;/p&gt;
-				&lt;p class="options"&gt;
-					&lt;input name="facebook_user[use_full_name]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_use_full_name" name="facebook_user[use_full_name]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_use_full_name"&gt;Yes&lt;/label&gt;
-				&lt;/p&gt;
-				&lt;div class="input full-name-edit" style="display:none"&gt;
-					&lt;p&gt;Edit your name for Bleacher Report:&lt;/p&gt;
-					&lt;div class="fb-first-name"&gt;
-						&lt;label for="facebook_user_first_name"&gt;First Name &lt;em&gt;(required)&lt;/em&gt;&lt;/label&gt;
-						&lt;input class="signup_text_input" id="facebook_user_first_name" name="facebook_user[first_name]" size="30" type="text" /&gt;
-						
-					&lt;/div&gt;
-	
-					&lt;div class="fb-last-name"&gt;
-						&lt;label for="facebook_user_last_name"&gt;Last Name &lt;em&gt;(required)&lt;/em&gt;&lt;/label&gt;
-						&lt;input class="signup_text_input" id="facebook_user_last_name" name="facebook_user[last_name]" size="30" type="text" /&gt;
-						
-					&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/li&gt;
-			&lt;li class="fb-question"&gt;
-				&lt;p class="question"&gt;
-					&lt;img src="/images/default-user-icon-medium.png" class="profile_pic" /&gt;
-					&lt;label for="facebook_user_use_profile_pic"&gt;Do you want to use your Facebook profile picture on Bleacher Report?&lt;/label&gt;
-				&lt;/p&gt;
-				&lt;p class="options"&gt;
-					&lt;input name="facebook_user[use_profile_pic]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_use_profile_pic" name="facebook_user[use_profile_pic]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_use_profile_pic"&gt;Yes&lt;/label&gt;
-					
-				&lt;/p&gt;
-			&lt;/li&gt;
-			&lt;li class="fb-question" id="facebook_interested_in_writing_container"&gt;
-				&lt;p class="question"&gt;&lt;label for="facebook_user_interested_in_writing"&gt;Are you interested in covering your favorite teams and sports?&lt;/label&gt;&lt;/p&gt;
-				&lt;p class="options"&gt;
-					&lt;input name="facebook_user[interested_in_writing]" type="hidden" value="0" /&gt;&lt;input id="facebook_user_interested_in_writing" name="facebook_user[interested_in_writing]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_interested_in_writing"&gt;Yes&lt;/label&gt;
-					
-				&lt;/p&gt;
-			&lt;/li&gt;
-			&lt;li class="fb-question"&gt;
-				&lt;p class="question"&gt;&lt;label for="facebook_user_share_activity"&gt;Do you want to share your Bleacher Report activity in your Facebook activity feed?&lt;/label&gt;&lt;/p&gt;
-				&lt;p class="options"&gt;
-					&lt;input name="facebook_user[share_activity]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_share_activity" name="facebook_user[share_activity]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_share_activity"&gt;Yes&lt;/label&gt;
-					
-					&lt;br /&gt;
-					&lt;a href="#" id="share_facebook_activity_advanced_link"&gt;Advanced Sharing Options&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;p id="share_facebook_activity_advanced" style="display:none"&gt;
-					&lt;input name="facebook_user[share_activity_article_writing]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_share_activity_article_writing" name="facebook_user[share_activity_article_writing]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_share_activity_article_writing"&gt;When I write a new article&lt;/label&gt;
-					&lt;br /&gt;&lt;input name="facebook_user[share_activity_comment]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_share_activity_comment" name="facebook_user[share_activity_comment]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_share_activity_comment"&gt;When I post a comment&lt;/label&gt;
-					&lt;br /&gt;&lt;input name="facebook_user[share_activity_like]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_share_activity_like" name="facebook_user[share_activity_like]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_share_activity_like"&gt;When I like an article&lt;/label&gt;
-					&lt;br /&gt;&lt;input name="facebook_user[share_activity_poll_vote]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_share_activity_poll_vote" name="facebook_user[share_activity_poll_vote]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_share_activity_poll_vote"&gt;When I vote on a poll&lt;/label&gt;
-					&lt;br /&gt;&lt;input name="facebook_user[share_activity_fan]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_share_activity_fan" name="facebook_user[share_activity_fan]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_share_activity_fan"&gt;When I become a fan of another member&lt;/label&gt;
-				&lt;/p&gt;
-			&lt;/li&gt;
-			&lt;li class="fb-question"&gt;
-				&lt;p class="question"&gt;&lt;label for="facebook_user_fan_friends"&gt;Become fans of your Facebook friends connected to Bleacher Report?&lt;/label&gt;&lt;/p&gt;
-				&lt;p class="options"&gt;			
-					&lt;input name="facebook_user[fan_friends]" type="hidden" value="0" /&gt;&lt;input checked="checked" id="facebook_user_fan_friends" name="facebook_user[fan_friends]" type="checkbox" value="1" /&gt;
-					&lt;label for="facebook_user_fan_friends"&gt;Yes&lt;/label&gt;
-					
-				&lt;/p&gt;
-			&lt;/li&gt;
-			&lt;li&gt;
-				&lt;a id="facebook_connect_submit"&gt;&lt;img src="/images/shared/submit.png" /&gt;&lt;/a&gt;
-			&lt;/li&gt;
-		&lt;/div&gt;
-	&lt;/ul&gt;
-&lt;/form&gt;
-			</textarea>
-		</div>
-		<div id="general_registration_errors" class="alert"></div>
-	<div id="sign_up_close_window"><img src="/images/icon_delete.gif" alt=""></div>
-	<div id="sign_up">
-		<div class="sign_up_header">
-			<h3 class="toggle">Sign up for Bleacher Report</h3>
-			<h3 class="toggle" style="display:none">Log in to Bleacher Report</h3>
-			<a href="#">Already have an account? Log in now »</a>
-			<a href="#" style="display:none">Don't have an account? Register now »</a>
-			<span>As a member you can get the latest on your favorite teams, post comments, write your own articles, and much more.</span>
-		</div>
-		
-		<div class="sign_up_body">
-			<div class="sign_up_main" id="join_bleacher_report">
-				<h4>Join Bleacher Report</h4>
-				<p id="hat_sign_up_required" class="alert">You must register in order for that functionality to work!</p>
-				<ul>
-					<form action="/account/create_from_hat" id="hat_signup_form" method="post">
-						<li>
-							<label for="firstname">First Name <em>(required)</em></label>
-							<input type="text" class="signup_text_input" name="first_name" id="br-hat-sign-up-first_name">
-							<div class="signup_errors" id="first_name_errors"></div>
-						</li>
-						<li>
-							<label for="lastname">Last Name <em>(required)</em></label>
-							<input type="text" class="signup_text_input" name="last_name" id="br-hat-sign-up-last_name">
-							<div class="signup_errors" id="last_name_errors"></div>
-						</li>
-						<li>
-							<label for="email">Email <em>(required)</em></label>
-							<input type="text" class="signup_text_input" name="email" id="br-hat-sign-up-email">
-							<div class="signup_errors" id="email_errors"></div>
-						</li>
-						<li>
-							<label for="password">Password <em>(required)</em></label>
-							<input type="password" class="signup_text_input" name="password">
-							<div class="signup_errors" id="password_errors"></div>
-						</li>
-						<li>
-							<label for="password_confirmation">Confirm Password <em>(required)</em></label>
-							<input type="password" class="signup_text_input" name="password_confirmation">
-							<div class="signup_errors" id="password_confirmation_errors"></div>
-							<input type="text" name="comment" id="br-hat-sign-up-comment">
-						</li>
-						<li>
-							<label for="interested_in_writing">Are you interested in covering your favorite teams and sports?</label>
-							<input type="radio" name="interested_in_writing" value="yes"><label for="interested_in_writing">Yes</label>
-							<input type="radio" name="interested_in_writing" value="no" checked="checked"><label for="interested_in_writing">No</label>
-						</li>
-						<li><a id="hat_signup_submit">Sign Up</a></li>
-						<li class="sign-up-tos">By clicking on 'Sign Up' above, you confirm that you have accepted the <a href="/pages/terms" target="_blank">Terms of Service</a>.</li>
-						<input type="hidden" id="hat_comment_body" name="comment_body">
-						<input type="hidden" id="hat_comment_article_id" name="comment_article_id">
-						<input type="hidden" id="hat_comment_parent_id" name="comment_parent_id">
-						<input type="hidden" name="current_href">
-					</form>
-				</ul>
-			</div><!-- end of sign up main, join edition -->
+
+
+
+<textarea id="hat-newsletter-promotion">			&lt;span class="hat-tab-text"&gt;Bleacher Report publishes the best sports newsletters on the internet.&lt;/span&gt;
+		&lt;span id="newsletter-promotion-pick" class="small-orange button newsletter-kiosk"&gt;Learn More&lt;/span&gt;
 			
-			<div class="sign_up_main" id="log_in_to_bleacher_report" style="display:none">
-				<h4>Log in to Bleacher Report</h4>
-				<ul>
-					<form action="/login" method="post">
-						<li>
-							<label for="hat_log_in_email">Email</label>
-							<input type="text" class="signup_text_input" name="user[email]" id="hat_log_in_email">
-						</li>
-						<li>
-							<label for="hat_log_in_password">Password</label>
-							<input type="password" class="signup_text_input" name="user[password]" id="hat_log_in_password">
-							<a href="javascript: nil" onclick="$('forgot-password').style.display = &quot;block&quot;">Help! I forgot my password!</a>
-						</li>
-						<li><input type="submit" value="Log in"></li>
-					</form>
-				</ul>
+</textarea>
 
-				<div id="forgot-password" style="display:none;">
-					<form action="/accounts/forgot_password" method="post">
-					<div class="warning">
-						<p>Just enter your email below and we'll send you your password.</p>
-					</div>
-					<fieldset class="email">
-						<label>Email Address</label>
-						<input id="email" name="email" type="text">
-					</fieldset>
-					<fieldset class="action">
-						<input type="submit" class="account" value="Email Me My Password »"><br>
-						<a href="javascript: nil" onclick="$('forgot-password').style.display = &quot;none&quot;">Just kidding! I know my password.</a>
-					</fieldset>
-					</form>
-					<br><br>
-				</div>
-			</div><!-- end of sign up main, log in edition -->
-		</div>
-		
-		<div class="sign_up_side">
-			<h4 class="toggle">Sign up through Facebook</h4>
-			<h4 class="toggle" style="display:none">Log in through Facebook</h4>
-			<ul class="brui-redirect">
-				<li>
-					<span class="brui-redirect-arrow"></span>
-					<span class="brui-redirect-content">Follow your Facebook friends on Bleacher Report</span>
-				</li>
-				<li>
-					<span class="brui-redirect-arrow"></span>
-					<span class="brui-redirect-content">Share your articles, comments, and more with friends</span>
-				</li>
-			</ul>
-			<img class="facebook_connect" src="/images/facebook_connect.gif" alt="Connect with Facebook">
-		</div>
-	</div>
 	
-	<div id="hat_add_tags"> 
-		<div class="sign_up_header"><h3>Great, <span id="finished_sign_up_user_first_name"></span>, you're signed up!</h3></div>
-		<div class="sign_up_body">
-			<p id="add_tags_message"></p>
-			<div id="hat-tag-chooser">
-							<input id="hat-tag-chooser-query" class="signup_text_input" type="text" value="Enter a sport, league, or team"><img src="/images/shared/spinners/small.gif" id="tag-chooser-search-spinner">
-				<div id="hat-tag-search-results">
-					<ul id="hat-tag-search-results-list"></ul>
-				</div>
-			</div>
-			<p class="help">i.e. San Francisco Giants, SEC Football, NFL, Golf</p>
-			<div id="hat-selected-tags">
-				<h5><strong>Selected Tags:</strong></h5>
-				<ul id="hat-selected-tags-list"></ul>
-			</div>
-			<div id="hat-tag-hidden-form-fields"></div>		
-			<hr class="clearfix">
-			<ul class="newsletter_and_done_controls">
-				<li>
-					<input id="hat_add_to_newsletters" type="checkbox" checked="checked">
-					<label for="hat_add_to_newsletters">
-						Yes, I'd like to receive an email newsletter for the topics I selected.
-					</label>
-				</li>
-				<li id="hat_finished_link"><a id="hat_finished_button"><img src="/images/shared/save.png"></a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-
-	<!-- Footer javascript -->
-	<script src="http://assets0.bleacherreport.com/javascripts/packaged/common_20100304182611.js?1267727177" type="text/javascript"></script>
+	<script src="http://static.bleacherreport.net/javascripts/packaged/redesign_common_20101119000113.js?1290124881" type="text/javascript"></script>
 	
-		  <script type="text/javascript">
-		if (document.location.protocol == "https:") { 
-			document.write(unescape("%3Cscript src='https://ssl.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		} else {
-			document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		}
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-  	var pageTracker = _gat._getTracker("UA-432905-1");    
-  	pageTracker._initData();
-  	pageTracker._addIgnoredOrganic("bleacherreport.com");
-  	pageTracker._addIgnoredOrganic("www.bleacherreport.com");
-  	pageTracker._addIgnoredOrganic("bleacherreport");
-  	pageTracker._addIgnoredOrganic("Bleacher Report");
-  	pageTracker._addIgnoredOrganic("the bleacher report");
-  	pageTracker._trackPageview();
 
-  	BR.analyticsLoggedIn = false;
-  	BR.analyticsPageType = "other";
-		BR.partnerDomain     = "";
-  	BR.teamTrackerPath   = "";
-
-			  	BR.teamTrackerPath = "/pages/privacy";
-			  	
-  	BR.teamTrackerPath += "?pagetype=" + BR.analyticsPageType + "&logged_in=" + BR.analyticsLoggedIn;
-  	
-  	if(BR.partnerDomain) {
-	  	BR.teamTrackerPath += "&external_domain=" + BR.partnerDomain;
-  	}
-
-				try {
-			if(BR.article.author_id) {
-				BR.teamTrackerPath += "&author=" + BR.article.author_id;
-			}
-		}
-		catch(exception){}
-
-    var analyticsTracker = _gat._getTracker("UA-432905-22");
-  	analyticsTracker._initData();
-  	analyticsTracker._trackPageview(BR.teamTrackerPath);
-  </script>
-
-  		    <script type="text/javascript">
-      _qoptions={qacct:"p-3a-0o8sJKz6Ek"};
-    </script>
-    <script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
-    <noscript>
-      <img src="http://pixel.quantserve.com/pixel/p-3a-0o8sJKz6Ek.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
-    </noscript>
-
-				<script type="text/javascript">
-			if (document.location.protocol == "https:"){
-				document.write(unescape("%3Cscript src='https://sb.scorecardresearch.com/beacon.js' %3E%3C/script%3E")); 
-			} else {
-				document.write(unescape("%3Cscript src='http://b.scorecardresearch.com/beacon.js' %3E%3C/script%3E")); 
-			}
-		</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-		<script type="text/javascript">
-		  COMSCORE.beacon({ 
-		    c1: 2, 
-		    c2: 6246855, 
-		    c3: '', 
-		    c4: 'http://bleacherreport.com/pages/privacy', 
-		    c5: '',
-		    c6: '',
-		    c15: '' 
-		  }); 
-		</script> 
-					<noscript> 
-				<img src="http://b.scorecardresearch.com/b?c1=2&c2=6246855&c3=&c4=bleacherreport.com/pages/privacy&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" /> 
-			</noscript> 
-		    
-    <script src="http://loadus.exelator.com/load/?p=103&amp;c=23705&amp;g=001&amp;sport=&amp;team=" type="text/javascript"></script>
-
-		<script type="text/javascript">
-		_bizo_data_partner_id = 236
-	</script>
-	<script src="http://js.bizographics.com/convert_data.js" type="text/javascript"></script>
-
-		
-                                             
-
-
-<script type="text/javascript">
-	new BR.SearchSuggest("query", { value: "Search for people, teams, and more..." });
+	<script>
+	BR.environment = "production";
 </script>
 
-<!--[if IE 6]>
-	<script src="http://assets0.bleacherreport.com/javascripts/packaged/ie6_20100304182611.js?1267727181" type="text/javascript"></script>
-  <script type="text/javascript">
-    DD_belatedPNG.fix(".png-fix");
-  </script>
-<![endif]-->
 
-  		    <script type="text/javascript">
-    	var globalAdReloader = new BR.AdReloader({refreshRate: 180, countAsPageview: false});
-    	
-    	    </script>
-  
-<script type="text/javascript">A_B.setup({"visits":{},"tests":[{"name":"Related Content","variants":[{"name":"RC old","visits":909889},{"name":"RC new","visits":910172}]},{"name":"RC - GP","variants":[{"name":"RC GP","visits":549771}]},{"name":"RC - NaO","variants":[{"name":"RC NaO","visits":439040}]},{"name":"RC - BS","variants":[{"name":"RC BS","visits":531713}]},{"name":"RC - AoD","variants":[{"name":"RC AoD","visits":566039}]},{"name":"RC - Continue","variants":[{"name":"RC Cont","visits":561362}]},{"name":"RC - Slideshow","variants":[{"name":"RC S new","visits":157978},{"name":"RC S old","visits":157450}]},{"name":"RC - Article","variants":[{"name":"RC A new","visits":313371},{"name":"RC A old","visits":314786}]},{"name":"RC - NaO 2","variants":[{"name":"RC NaO 2","visits":1865084}]},{"name":"RC - GP 2","variants":[{"name":"RC GP 2","visits":1859170}]},{"name":"RC - AoD 2","variants":[{"name":"RC AoD 2","visits":1853030}]},{"name":"RC - Continue 2","variants":[{"name":"RC Cont 2","visits":1847220}]},{"name":"RC - Slideshow 2","variants":[{"name":"RC S 2","visits":1841142}]},{"name":"GPRC - GP 2","variants":[{"name":"GPRC GP 2","visits":1076977}]},{"name":"GPRC - Continue 2","variants":[{"name":"GPRC Cont 2","visits":1075011}]},{"name":"GPRC - BS 2","variants":[{"name":"GPRC BS 2","visits":1072647}]},{"name":"GPRC - AoD 2","variants":[{"name":"GPRC AoD 2","visits":1070606}]},{"name":"GPRC - Slideshow 2","variants":[{"name":"GPRC S 2","visits":1068702}]},{"name":"RC - Article 2","variants":[{"name":"RC A 2 old","visits":5853083},{"name":"RC A 2 new","visits":5853405}]}],"session_id":"JrgExGHYkEIadnceP1d8","token":"f3e8c13ab1b7509442ad25c5d3ee057bc6e045c80fa2ee3c6bbdb4d7f722e31f","url":"http://ab.bleacherreport.com","conversions":{},"selections":{"RC - Article 2":"RC A 2 new"}});</script>
-	
+	<div id="kiosk-container"></div>
 
-	<!--[if IE]></div><![endif]-->
-	<!-- generated at: Sun Mar 07 05:18:08 +0000 2010 -->
+<script>a_b_setup({"data":{},"url":"http://ab-api.bleacherreport.com","env":"production","send":{},"categories":[{"name":"Slideshows","tests":[{"name":"Button Color","id":1,"variants":[{"name":"Orange","id":1},{"name":"Blue","id":2}]},{"name":"Last Slide","id":2,"variants":[{"name":"Prompt","id":3},{"name":"Redirect","id":4}]},{"name":"Interstitial Ad","id":4,"variants":[{"name":"Present","id":7},{"name":"Not Present","id":8}]}],"id":1},{"name":"Related Content","tests":[{"name":"Slideshow Style","id":3,"variants":[{"name":"Old","id":5},{"name":"New","id":6}]}],"id":2}]});</script>
+
+<!-- generated at: 11/19/2010 at 03:28 PM -->
+
 
 
 
