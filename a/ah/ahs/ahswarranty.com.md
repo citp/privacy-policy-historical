@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahswarranty.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013240id_/http%3A//www.ahswarranty.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahswarranty.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073329id_/http%3A//ahs.com/about/privacy.html) for the most accurate reproduction.*
 
 # American Home Shield - Privacy Policy
 
