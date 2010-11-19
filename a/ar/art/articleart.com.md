@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleart.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030125423id_/http%3A//articleart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleart.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119135039id_/http%3A//articleart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Article Directory
+# Privacy Policy : Free Article Directory
 
 ArticleArt.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
