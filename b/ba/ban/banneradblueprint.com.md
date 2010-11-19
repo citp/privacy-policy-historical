@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banneradblueprint.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218151257id_/http%3A//banneradblueprint.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banneradblueprint.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119093011id_/http%3A//banneradblueprint.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -94,12 +94,4 @@ Where to Direct Questions About Our Privacy Policy:  If you have any questions 
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
-Last updated: 
-
-July 27, 2009
-
-for Laxmi Kubera Ltd  
- 
-
-Copyright � 2003- 2009 InternetMarketingLawProducts.com for Laxmi Kubera Ltd  
- 
+Last updated: March 20th 2010 
