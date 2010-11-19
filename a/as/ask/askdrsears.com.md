@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askdrsears.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327224808id_/http%3A//askdrsears.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askdrsears.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119125313id_/http%3A//www.askdrsears.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # DR. SEARS STORE PRIVACY POLICY
 
