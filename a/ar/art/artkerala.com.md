@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artkerala.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113214833id_/http%3A//www.artkerala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artkerala.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119182006id_/http%3A//www.artkerala.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -6,7 +6,7 @@ This is the web site of Incom Infotech.
 
 Our postal address is BHS Road, Tripunithura, Cochin, Kerala 682301
 
-We can be reached via e-mail at mail [at] artkerala [dot] com or you can reach us by telephone at 091 484 4016262
+We can be reached via e-mail at [mail@artkerala.com](mailto:mail@artkerala.com) or you can reach us by telephone at 091 484 4016262
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
