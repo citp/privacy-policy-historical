@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613074209id_/http%3A//www.amazonwatch.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082306id_/http%3A//amazonwatch.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Amazon Watch
 
@@ -23,8 +23,8 @@ Operations Manager
 
 **Amazon Watch**
 
-**Main office (new address):**  
-221 Pine St., 4th Floor, San Francisco, CA 94104   
+**Main office:**  
+221 Pine St., Suite 400, San Francisco, CA 94104   
 Tel: 415-487-9600     Fax: 415-487-9601
 
 **Southern California office:**  
