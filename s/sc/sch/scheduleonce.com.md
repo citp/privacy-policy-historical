@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504013640id_/http%3A//www.scheduleonce.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119113929id_/http%3A//www.scheduleonce.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -72,4 +72,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 **CONTACTING US**
 
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20100504013640id_/http%3A//www.scheduleonce.com/contactus) via our contact form. 
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20101119113929id_/http%3A//www.scheduleonce.com/contactus) via our contact form. 
