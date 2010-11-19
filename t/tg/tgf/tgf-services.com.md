@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgf-services.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521171253id_/http%3A//tgf-services.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgf-services.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119085732id_/http%3A//tgf-services.com/Privacy) for the most accurate reproduction.*
 
 # Tgf-services.com - The leading online storage and file delivery service
 
