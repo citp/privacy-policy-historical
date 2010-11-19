@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahrn.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101102932id_/http%3A//www.ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrn.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119081742id_/http%3A//ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Automated Housing Referral Network (AHRN.com) v6.0
+# Automated Housing Referral Network (AHRN.com) v7.0
 
 Welcome to the Department of Defense's ("DoD") Automated Housing Referral Network (AHRN). Your use of the Website signifies your agreement with our privacy policies. 
 
