@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531012954id_/http%3A//westfield.com.au/aucentres/site/yourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119141229id_/http%3A//westfield.com.au/aucentres/site/yourprivacy) for the most accurate reproduction.*
 
 # Westfield - Your Privacy
 
@@ -30,12 +30,12 @@ We update the information we hold about you, for example, your Resume, when you 
 
 ## Who collects the information
 
-The information collected about you which is held or used in connection with this site may be collected by: 
+The information collected about you which is held or used in connection with this site may be collected by:
 
         \- Westfield Limited or other members of the Westfield Holdings Limited Group of Companies;   
         \- the owners of the shopping centres featured on the Westfield.com site.
 
-We refer to each of these people in this policy as "us", "we" or "Westfield". 
+We refer to each of these people in this policy as "us", "we" or "Westfield".
 
 ## How your information is stored
 
@@ -57,12 +57,12 @@ We understand how important it is to keep your personal information private, so 
      \- we use it for the purposes we collected it; or  
      \- disclosure is required or authorised by law.
 
-We may also disclose information about you to: 
+We may also disclose information about you to:
 
       \- related companies for marketing purposes  
       \- government agencies as part of our statutory obligations
 
-We may also contact you via e-mail on behalf of our partners who may wish to share special offers with you. However we will not reveal your personal information to such partners. 
+We may also contact you via e-mail on behalf of our partners who may wish to share special offers with you. However we will not reveal your personal information to such partners.
 
 ## Other information we collect
 
@@ -73,7 +73,7 @@ We may also collect the following information during your visit:
          \- the URL of any webpage from which you accessed our site (the referrer)  
          \- the web browser that you are using and the pages you accessed.
 
-We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our site. 
+We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our site.
 
 ## Junk mail or unsolicited email
 
@@ -86,7 +86,7 @@ You will only receive emails from westfield.com if:
 
 ## What is a cookie and what are they used for?
 
-A cookie is a text file placed into the memory of your computer by our computers. A copy of this text file is sent by your computer whenever it communicates with westfield.com. Westfield uses cookies to identify you between multiple visits. 
+A cookie is a text file placed into the memory of your computer by our computers. A copy of this text file is sent by your computer whenever it communicates with westfield.com. Westfield uses cookies to identify you between multiple visits.
 
 **Tips on sending us information**
 
@@ -103,12 +103,12 @@ Please contact us by email or by phone, using our Contact Us function if you bel
       \- we have breached our privacy obligations or your privacy rights in any way   
       \- you would like to discuss any issues about our privacy policy.
 
-We will try to satisfy any privacy questions that you have and correct any errors on our part. If you still have concerns please contact our Privacy Officer by email on [privacy@westfield.com.au](mailto:privacy@westfield.com.au), or phoning (+61 2)9358 7000.
+We will try to satisfy any privacy questions that you have and correct any errors on our part. If you still have concerns please contact our Privacy Officer by email on [privacy@au.westfield.com](https://web.archive.org/aucentres/sitemailto:privacy@au.westfield.com), or phoning (+61 2)9358 7000.
 
 ## Changes to our Privacy Statement
 
 This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. We will notify you of any changes by publishing the latest policy from time to time on our site.
 
-  * [ General Privacy Policy ](https://web.archive.org/site/yourprivacy/GeneralPrivacyPolicy.html)
+  * [ General Privacy Policy ](https://web.archive.org/aucentres/site/site/yourprivacy/GeneralPrivacyPolicy.html)
 
 
