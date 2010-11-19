@@ -1,0 +1,404 @@
+<!--The following is the downloaded HTML source of the beyond.ca privacy policy that was archived on 2010-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119104240id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- HEAD OPENER HERE --><!-- ABOVE LINE IS CRITICAL CODE AND PAGE HEADERS IMPORT SAME FOR ALL PAGES --><!-- DEFINE ANY PAGE ATTRIBUTES IN FOLLOWING BLOCK --><!-- DEFING ALL PAGE ATTRIBUTES IN ABOVE BLOCK --><!-- STANDARD HEADER  BELOW, SAME FOR ALL PAGES --><!-- END HEAD OPENER --><head>
+
+<script lang="JavaScript">
+  var DOMType;
+
+  function Initialize()
+  {
+    if (document.all)
+    {
+      DOMType = 'MS';
+      oLastPanel = document.all['NewspaperDivision'];
+      oLastDivision = document.all['Blank'];
+      oLastButton = document.all['DisplayAdsButton'];
+    }
+    else if (document.getElementById)
+    {
+      DOMType = 'W3C';
+      oLastPanel = document.getElementById('NewspaperDivision');
+      oLastDivision = document.getElementById('Blank');
+      oLastButton = document.getElementById('DisplayAdsButton');
+    }
+    else if (document.layers)
+    {
+      DOMType = 'NS4';
+      oLastPanel = document.layers['NewspaperDivision'];
+      oLastDivision = document.layers['Blank'];
+      oLastButton = document.layers['DisplayAdsButton'];
+    }
+    else
+    {
+      DOMType = 'None';
+    }
+  }
+
+  function ToggleMenuItem(strMenuName, iMenuLevel)
+  {
+    var oMenuItem, oCloseMenuItem, oMenuBottomBar, oCloseMenuBottomBar;
+    var strCloseMenuName, strParentMenuName;
+    var bKeepGoing;
+    var i, iLength;
+	var strMenuBottomBar, strCloseMenuBottomBar;
+	
+	strMenuBottomBar = strMenuName + '_Bottom'
+
+    if (DOMType == "MS")
+    {
+      oMenuItem = document.all[strMenuName];
+      oMenuBottomBar = document.all[strMenuBottomBar];
+    }
+    else if (DOMType == "W3C")
+    {
+      oMenuItem = document.getElementById(strMenuName);
+      oMenuBottomBar = document.getElementById(strMenuBottomBar);
+    }
+    else if (DOMType == "NS4")
+    {
+      oMenuItem = document.layers[strMenuName];
+      oMenuBottomBar = document.layers[strMenuBottomBar];
+    }
+
+    if (oMenuItem.style.display == "inline")
+    {
+      oMenuItem.style.display = "none";
+      if (oMenuBottomBar)
+	  {
+		  oMenuBottomBar.style.display = "inline";
+	  }
+    }
+    else
+    {
+
+      iLength = strMenuName.length - 1;
+      bFound = false;
+      i = iLength
+      while (i > 0 && !bFound)
+      {
+        i = i - 1
+        if (strMenuName.charAt(i) == '_')
+        {
+          strParentMenuName = strMenuName.substr(0, i + 1)
+          bFound = true;;
+        }
+      }
+
+      i = 0
+      bKeepGoing = true;
+      while (bKeepGoing)
+      {
+        strCloseMenuName = strParentMenuName + i
+		strCloseMenuBottomBar = strCloseMenuName + '_Bottom';
+        if (DOMType == "MS")
+        {
+          oCloseMenuItem = document.all[strCloseMenuName];
+          oCloseMenuBottomBar = document.all[strCloseMenuBottomBar];
+        }
+        else if (DOMType == "W3C")
+        {
+          oCloseMenuItem = document.getElementById(strCloseMenuName);
+		  oCloseMenuBottomBar = document.getElementById(strCloseMenuBottomBar);
+
+        }
+        else if (DOMType == "NS4")
+        {
+          oCloseMenuItem = document.layers[strCloseMenuName];
+          oCloseMenuBottomBar = document.layers[strCloseMenuBottomBar];
+        }
+
+        if (oCloseMenuItem != null)
+        {
+          oCloseMenuItem.style.display = "none";
+          if (oCloseMenuBottomBar)
+         {
+            oCloseMenuBottomBar.style.display = "inline";
+          }
+          i += 1;
+        }
+        else
+        {
+          bKeepGoing = false;
+        }
+      }
+      oMenuItem.style.display = "inline";
+      if (oMenuBottomBar)
+     {
+        oMenuBottomBar.style.display = "none";
+      }
+    }
+  }
+
+  Initialize();
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <title>Canwest - Privacy Statement</title>
+  <meta name="keywords" content="index,follow,advertising,canwest,media,sales,search,mediaworks,planning,buying,corporate,broadcast,research,online,digital,marketing,print">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link href="/css/all.css" rel="stylesheet" type="text/css" media="all">
+<link href="/css/menu.css" rel="stylesheet" type="text/css" title="stylesheet">
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/style/ie6.css" media="screen"/><![endif]-->
+<script src="/js/global-navbar.js" type="text/javascript"></script>
+<!-- HEAD OPENER HERE -->
+
+<!-- STANDARD HEADER ABOVE, SAME FOR ALL PAGES -->
+<!-- ANY ADDITIONAL INSTRUCTIONS YOU WANT IN THE HEAD TAG PUT BETWEEN THIS AND THE NEXT COMMENT TAG -->
+
+
+<!-- ANY ADDITIONAL ISNRUCTIONS CONTENT YOU WANT IN THE HEAD TAG PUT PETWEEN THIS AND THE PREVIOUS COMMENT TAG --> 
+<!--
+	6 Different headers are available for choice header on standard pages.  Key is as follows:
+		enlightenHeader.asp 		- blue: advertisiing section
+		enlightenHeader1.asp		- Blue: careers section
+		informHeader0.asp		- green: theCompany section
+		informHeader1.asp		- green: inVestors Section
+		informHeader2.asp		- green: newsRoom Section
+		entertainHeader0.asp		- orange: theBusiness Section		
+-->
+
+<!-- CHOICE HEADER OPTIONS ARE DETAILED ABOVE  -->
+<!-- END HEAD OPENER -->
+<!-- ARRRR, LEFT NAV & HEADER IS BELOW ME -->
+
+
+
+</head>
+
+
+<body>
+
+  <div id="main">
+    <div id="header" class="corporatesmall">
+      <a class="logo" href="/default.asp">Canwest</a>
+      <div class="form">
+        <form name="yider_form" action="/search/search.asp" method="post">
+          <div>
+            <input name="yider" type="text" class="input" size="30" value="">
+            <input type="image" class="btn" src="/images/go_button.png" onmouseover="this.src='/images/go_button_over.png'" onmouseout="this.src='/images/go_button.png'">
+          </div>
+        </form>
+      </div>
+      <div id="main_nav">	  
+        <ul class="top-nav">
+<noindex>
+  <div class="nospider">
+          <li><a href="/about/default.asp"><span class="first">ABOUT US</span><span class="right">&nbsp;</span></a></li>
+
+          <li><a href="/brands/default.asp"><span>OUR BRANDS</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/investors/default.asp"><span>INVESTORS</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/media/default.asp"><span>MEDIA</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/careers/default.asp"><span>CAREERS</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/advertising/index.asp"><span>ADVERTISING</span><span class="last">&nbsp;</span></a>
+  </li></div>
+</noindex>
+
+
+
+          
+        </ul>
+      </div>
+
+      <div id="top_subnav">
+
+      </div>
+
+      <div id="flyout_space" style="width:585px">
+        <div id="menu1Container"> 
+          <div id="menu1Content" class="menu">
+            <ul>
+              <li><a href="/brands/broadcast.asp">BROADCAST</a></li>
+              <li><a href="/brands/publishing.asp">PUBLISHING</a></li>
+              <li><a href="/brands/advertising.asp">INTERNATIONAL</a></li>
+            </ul>
+          </div>
+        </div>
+      </div> 				
+      <div class="image" style="clear:left;"></div>
+      <div class="background"></div>
+    </div>
+		
+
+		
+		<div id="content">
+			<div id="left-column">
+<br>
+			</div>
+			
+			<div id="rigth-column">			  
+				<div class="text">
+<br>
+
+
+<!-- LEFT NAV & HEADER IS ABOVE ME -->		
+<!-- CONTENT STARTS HERE -->
+
+<!-- CHOICE HEADER OPTION IS LOADED ABOVE  -->
+
+<!-- 
+	All content exists inside a table cell.  Before the content is an open table  cell 
+	with valign="top" and no other attributes.  You may put whatever you please in the content including 
+	open a table immediately as this may give you greater control. 
+	
+	Depending on the wether you have left navigation or not you will have 942 pixels width wise without 
+	navigation and 752 pixels if navigation is required. 
+-->
+<!-- content starts here -->   
+
+					<h1>Customer Privacy Statement</h1>
+
+<p>
+<a href="privacy_fr.asp">Version français</a>
+</p>
+					
+
+				
+<p>
+<strong>OUR COMMITMENT TO PRIVACY</strong><br>
+Canwest Global Communications Corp. and its subsidiaries (each, a "Canwest  Company") are committed to controlling the collection, use and disclosure  of the personal information provided by its customers. This Privacy Statement  is a simplified version of the Canwest Privacy Policy adopted by each of the  Canwest Companies to ensure the accuracy, confidentiality and integrity of your  personal information. The Canwest Privacy Policy is modeled after the Canadian  Standards Association Model Code for the Protection of Personal Information and  is compliant with federal and provincial privacy laws including the federal  Personal Information Protection and Electronic Documents Act. A summary of the  ten principles of fair information practices adopted in the Canwest Privacy  Policy is included at the end of this Privacy Statement. A complete copy of the  Canwest Privacy Policy is available on request by contacting your local Privacy  Compliance Officer or on the Canwest website at <a href="http://www.canwestglobal.com">www.canwestglobal.com</a>. <br>
+</p>
+
+<p>
+<strong>A SINGLE POLICY</strong><br>
+Any time you do business with a Canwest Company, or with anyone acting as an  agent on our behalf, you are protected by the rights and safeguards contained  in the Canwest Privacy Policy. <a href="http://www.canwest.com/pdf/PrivacyPolicyFINAL.pdf">Click here</a> to download the full Canwest  Privacy Policy in pdf format. <br>
+</p>
+<p>
+<strong>WHAT IS PERSONAL  INFORMATION?</strong><br>
+"Personal information" is personally identifiable information such as  your name, residential address and e-mail address and includes information  about your product and service subscriptions and usage, credit information and  billing records, service and recorded complaints. <br><br>
+Personal information is  collected by the Canwest Companies only when you specifically and knowingly  choose to provide it us such as when you subscribe to a Canwest publication,  enter a Canwest promotion or choose to receive information, products or  services from a Canwest Company. <br><br>
+We may also receive  personal information from our business partners and other third parties  provided that such third parties confirm to us that they have obtained your  consent to the disclosure of your personal information. <br><br>
+Publicly available  information, such as a public directory listing of your name, address,  telephone number and electronic address, is not considered personal  information.
+</p>
+<p>
+<strong>COLLECTION AND USE OF  PERSONAL INFORMATION</strong><br>
+The Canwest Companies collect and use your personal information primarily for  the purpose of providing you with the products and services you have requested  from us, including the daily delivery of news and related content through Canwest  television, print and online properties. <br><br>
+Your personal information  is used to communicate with you about your account and to provide you with  information related to other Canwest publications and services. If you  indicated that you were interested in receiving offers or information from  selected Canwest sponsors or advertisers, your personal information would also  be used to contact you or to send you e-mail materials and other mailings about  products and services that might be of interest to you. You always have the  option, however, to tell us not to share your personal information with other  Canwest Companies or to exclude you from offers for other products or services. <br><br>
+If you enter a contest or  other promotion offered by a Canwest Company or on a Canwest website, your  personal information will be used to administer the promotion, including the  use of your name and selected other information for the purposes of contacting,  announcing and promoting the winners of the promotion. <br><br>
+The Canwest Companies may  also contact you from time to time to conduct market research and surveys in an  effort to continually improve our product and service offerings. Unless you  specifically authorize us to release your personal information, or release is  required or permitted by law, the Canwest Companies will not sell, lease or  trade your personal information to other third parties. <br><br>
+Anonymous or  "non-personal" information gathered by the Canwest Companies through  our websites may be used for technical, research and analytical purposes.  Information collected through surveys, existing files and public archives may  be used by the Canwest Companies to analyze their markets and to develop or  enhance service offerings. <br><br>
+Canwest Companies will  only ask for information about you that we need and will only ask for it when  we need it. When we ask you for the information, we will explain to you why we  need it and what we are going to do with it. <br><br>
+We will seek your prior  consent to the collection, use and disclosure of the information as required by  applicable privacy legislation. Subject to legal and contractual requirements,  you can refuse to consent to our collection, use or disclosure of information  about you. You may also withdraw your consent to any further collection, use or  disclosure of information about you at any time by giving us reasonable notice.  If our intended disclosures or uses of information change, we will notify you  accordingly. <br><br>
+Your personal information  will not be used for any other purpose without your consent.
+</p>
+<p>
+<strong>DISCLOSURE</strong><br>
+To enable us to more efficiently provide the products and services you have  requested from us, the Canwest Companies may share your personal information  with other Canwest Companies and with selected third parties who are acting on  our behalf as our agents, suppliers or service providers. Such third party  service providers are provided only with such information as is necessary in  the circumstances (i.e. your residential address may be disclosed to our  distributors and carriers for the purpose of delivering your daily newspaper  subscription). Information provided to third parties may be used only for the  purpose stipulated and is subject to strict terms of confidentiality. <br>
+</p>
+<p>
+<strong>USE OF COOKIES</strong><br>
+The Canwest Companies  use a browser feature called a "cookie" to collect information  anonymously and track user patterns on Canwest websites. A cookie is a small  text file that is placed on your hard disk by a website. "Cookies"  contain a unique identification number that identifies your browser, but not  you, to our computers each time you visit one of our websites. Cookies tell us  which pages of our websites are visited and by how many people. Cookies may be  placed, and anonymous user traffic data collected, by a Canwest Company or a  third party who provides services to a Canwest Company. <br><br>
+The use of cookies is an  industry standard and many major browsers are initially set up to accept them.  You can reset your browser to either refuse to accept all cookies or to notify  you when you have received a cookie. However, if you refuse to accept cookies,  you may not be able to use some of the features available on our websites.
+</p>
+<p>
+<strong>ACCURACY</strong><br>
+Canwest Companies will try to ensure that information about you is accurate,  complete and up-to-date. However, please inform the Canwest Company to whom you  provided your information of any change of name, address or other information.  In the event you have questions about the accuracy of factual information we  have collected about you, you will have access to that information in order to  verify and update it. If we have disclosed inaccurate information about you to  a third party, we will be pleased to contact the third party in order to  correct the information. <br>
+</p>
+<p>
+<strong>SECURITY</strong><br>
+The Canwest Companies are committed to protecting your privacy. Security  measures, such as locked cabinets, restricted access and the use of passwords  and firewalls have been adopted to protect your personal information against  loss or theft, as well as unauthorized access, disclosure, copying, use or  modification. Our employees have been trained to respect your privacy at all  times and those employees with access to your personal information shall use  your personal information strictly in accordance with the Canwest Privacy  Policy and the laws applicable to each specific business. <br>
+</p>
+<p>
+<strong>ACCESS</strong><br>
+If you have any questions about the collection, use or disclosure of your  personal information by a Canwest Company, or if you simply want to know  whether we have any of your personal information on file, you may contact your  local Privacy Compliance Officer. Except in limited circumstances, as  specifically provided by applicable privacy legislation, the Canwest Companies  can tell you whether they hold personal information about you. They can tell  you the source of the information, allow you access to your personal  information and find an account of the use that has been made or is being made  of the information and the third parties to which it has been disclosed. <br><br>
+The Canwest Companies  will only refuse access to information about you in those circumstances  permitted or required by applicable privacy legislation. If a Canwest Company  refuses access to you, it will provide you with the reasons for its refusal  upon request. Exceptions may include information that contains references to  other individuals, information that cannot be disclosed for legal, security or  commercial proprietary reasons, and information that is subject to  solicitor-client or litigation privilege. The Canwest Companies will respond to  your requests for access in accordance with applicable privacy legislation.
+</p>
+<p>
+<strong>QUESTIONS OR CONCERNS</strong><br>
+If you have any questions or concerns about the personal information about you  held by a Canwest Company or about the compliance by a Canwest Company with the  Canwest Privacy Policy, please contact your local Privacy Compliance Officer.  Contact information for your local Privacy Compliance Officer may be found on  our website or by contacting any one of the Canwest Companies. <br><br>
+Each Canwest Company has  procedures in place to receive and respond to complaints or inquiries about its  handling of personal information. They will describe the complaint procedures  to anyone who makes inquiries or lodges complaints. <br><br>
+If you are not satisfied  with the response from your local Privacy Compliance Officer after making a  complaint, you may have recourse to additional remedies under applicable  privacy legislation. For further information, please contact the federal  Privacy Commissioner or your provincial Privacy Commissioner, as applicable.  Contact information is available on our website or by contacting any one of the  Canwest Companies.
+</p>
+<p>
+<strong>TEN PRINCIPLES OF FAIR  INFORMATION PRACTICES</strong><br>
+</p>
+<p>
+</p><p><strong>PRINCIPLE 1 -- ACCOUNTABILITY</strong> Each Canwest Company is responsible for  the personal information under its control and shall designate one or more  individuals who shall be accountable for the company's compliance with the  procedures and principles set out in the Canwest Privacy Policy.</p>
+<p><strong>PRINCIPLE 2 --  IDENTIFYING PURPOSE </strong>Each Canwest Company will identify the purpose for which personal  information is collected at or before the time the information is collected.  The purposes for which information is collected, used or disclosed by a Canwest  Company must be those that a reasonable person would consider are appropriate  in the circumstances.</p>
+<p><strong>PRINCIPLE 3 -- CONSENT </strong>The knowledge and consent  of the individual are required for the collection, use or disclosure of  personal information, except where consent is not required by privacy  legislation as, for example, where the collection, use or disclosure of  personal information is solely for journalistic, artistic or literary purposes.</p>
+<p><strong>PRINCIPLE 4 -- LIMITING  COLLECTION </strong>The Canwest Companies shall limit the collection of personal  information to that which is necessary for the purposes identified by the company.  Personal information shall be collected by fair and lawful means.</p>
+<p><strong>PRINCIPLE 5 -- LIMITING  USE, DISCLOSURE AND RETENTION</strong> Personal information shall not be used or  disclosed for purposes other than those for which it was collected, except with  the consent of the individual or as required by law. Personal information shall  be retained only as long as necessary for the fulfillment of the purposes for  which it was collected.</p>
+<p><strong>PRINCIPLE 6 -- ACCURACY </strong>Personal information  shall be as accurate, complete and up-to-date as is necessary for the purposes  for which it is to be used.</p>
+<p><strong>PRINCIPLE 7-- SAFEGUARDS</strong> Personal information  shall be protected by security safeguards appropriate to the sensitivity of the  information.</p>
+<p><strong>PRINCIPLE 8 -- OPENNESS</strong> The Canwest Companies  shall make readily available to its customers and employees specific  information about its policies and practices relating to the management of  personal information.</p>
+<p><strong>PRINCIPLE 9 -- INDIVIDUAL  ACCESS </strong>Upon  request, an individual shall be informed of the existence, use and disclosure  of his or her personal information and shall be given access to that  information except where a Canwest Company is permitted or required by law not  to disclose personal information to the individual customer or employee. An individual  customer or employee shall be able to challenge the accuracy and completeness  of the information disclosed to him or her and have it amended as appropriate.</p>
+<p><strong>PRINCIPLE 10 --  CHALLENGING COMPLIANCE</strong> An individual customer or employee shall be able to address a  challenge concerning compliance with the principles in the Canwest Privacy  Policy to his or her designated Privacy Compliance Officer.</p>
+
+<p>
+<strong>THE CANWEST COMPANIES</strong> <br>
+To contact the privacy  officers click the appropriate link below:
+</p>
+<ul>
+  <li><a href="mailto:VancouverCHANPrivacyOfficer@globaltv.ca">Global BC (CHAN)</a> </li>
+  <li><a href="mailto:CITVPrivacyOfficer@globaltv.ca">Global Alberta</a> </li>
+  <li><a href="mailto:CFSKPrivacyOfficer@globaltv.ca">Global Saskatoon (CFSK)</a> </li>
+  <li><a href="mailto:CFREPrivacyOfficer@globaltv.ca">Global Regina (CFRE)</a> </li>
+  <li><a href="mailto:CKNDPrivacyOfficer@globaltv.ca">Global Winnipeg (CKND)</a> </li>
+  <li><a href="mailto:CIIIPrivacyOfficer@globaltv.ca">Global Toronto (CIII)</a> </li>
+  <li><a href="mailto:CMSTorontoPrivacyOfficer@canwestsales.ca">Sales and Marketing</a> </li>
+  <li><a href="mailto:CKMIQuebecPrivacyOfficer@globaltv.ca">Global Quebec (CKMI)</a> </li>
+  <li><a href="mailto:CIHFPrivacyOfficer@globaltv.ca">Global Martimes (CIHF)</a></li>
+</ul>
+				</div>
+			</div>
+		</div>
+				<div id="footer">
+			<ul class="footer-nav">
+				<li class="first">&nbsp;</li>
+				<li><a href="/default.asp">Home</a></li>
+				<li><a href="/terms.asp">Terms</a></li>
+				<li><a href="/contact_us.asp">Contact Us</a></li>
+				<li><a href="/privacy.asp">Privacy Statement</a></li>
+				<li><a href="/copyright.asp">Copyright</a></li>
+			</ul>
+			<span>All rights reserved 2009 Canwest Global Communications Corp</span>
+
+		</div>
+<!--
+    Site Catalyst files are split into channels as follows:
+        Filename                              Channel Name              Directories to include in the channel
+        standardFooter0.asp       - Print                                 -/advertising/print
+        standardFooter1.asp       - TV and Radio                -/advertising/Broadcast
+                                                                                                   -/advertising/index.asp
+        standardFooter2.asp       - Online                             -/advertising/interactive
+        standardFooter3.asp       - Marketing Ventures    -/advertising/marketingVentures
+        standardFooter4.asp       - Research                         -/advertising/research
+        standardFooter5.asp       - Corporate                      -/theCompany
+                                                                                                    -/theBusiness
+                                                                                                    -/newsroom
+                                                                                                    -/investors
+                                                                                                    -/careers
+                                                                                                    -/search
+                                                                                                    -/
+        starndardFooter6.asp      - Promotions                    -/Promotions
+-->
+
+<!-- SiteCatalyst code version: G.7.
+Copyright 1997-2004 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+var s_pageName="/privacy.asp"
+var s_server="canwestglobal.com"
+var s_channel="General"
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+//--></script><script language="JavaScript" src="/includes/siteCatalyst/s_code_remote.js"></script>
+
+<!-- End SiteCatalyst code version: G.7. -->
+
+
+	</div>
+
+
+
+
+</body></html>
