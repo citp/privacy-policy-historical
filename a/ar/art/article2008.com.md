@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the article2008.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116002117id_/http%3A//article2008.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article2008.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119123146id_/http%3A//article2008.com/privacy.php) for the most accurate reproduction.*
 
 # Article2008.com | Privacy Statement
 
 Article2008.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
+
+At the discretion of article2008.com and its owner your articles may be reposted or reused as long as the original author is given credit for writing the article. Your article will never be sold but may be reused and republished.
 
 **How we gather information from users**
 
