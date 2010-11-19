@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520040926id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119230214id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Mind Over Muscle**](http://www.aussiepages.com.au/Mind-Over-Muscle.html)  
-Health & Wellbeing Clinic - remedial massage, physiotherapy, naturopathy, yoga and clinical pilates. AAMT member & APA registered. hicaps available for health insurance claims. Bookings are es  
+[**Cheap furniture removals perth $65 Hr**](http://www.aussiepages.com.au/Cheap-furniture-removals-perth--65-Hr.html)  
+Cheap rates insured $65 Hr 1 man and a truck Perths Ideal Low Cost Solution One Man And truck Save $$$$$$ Small removalist Perth, Furniture transport, Pick up drop off White goods, Household goods and anything else you need to move including single items. 3.5 tonne Furniture truck with 500kg tail li  
   
   
 ---  
   
-[**Travel Socks**](http://www.aussiepages.com.au/Travel-Socks.html)  
+[**Best Western Hotels Australia**](http://www.aussiepages.com.au/Best-Western-Hotels-Australia.html)  
+Best Western Australasia offers an extensive range of more than 200, 3 to 4.5 star motels, hotels, apartments and resorts across Australia and New Zealand  
   
   
-  
-[**XSCAPE**](http://www.aussiepages.com.au/XSCAPE.html)  
-XSCAPE are qualified landscapers who have over 15 years experience in the landscaping industry.  They can design and build a stylish, sustainable garden to suit your personality, taste and budget.  
-  
-  
-[**Shadow Systems**](http://www.aussiepages.com.au/Shadow-Systems.html)  
-Our website design services range from small business to large database driven, e-commerce websites. If you would like a FREE Quotation for website design please contact blacker@ shadowsystems.com.au  
+[**Young Guns Fishing Adventures - Fishing Lessons for Kids to Adults**](http://www.aussiepages.com.au/Young-Guns-Fishing-Adventures---Fishing-Lessons-for-Kids-to-Adults.html)  
+Professional accredited fishing instructors & guides providing fishing lessons for kids through to adults, fishing bucks parties, fishing vacation care events, kids fishing birthday parties, private fishing lessons for individuals or groups, fishing lesson gift vouchers & corporate fishing d  
   
   
-[**GSRoasting**](http://www.aussiepages.com.au/GSRoasting.html)  
-At GSRoasting Roasting we don't just develop a green coffee beans; we maintain its integrity. It is our commitment and obsession with creating the perfect cup of coffee for you and your clientèl  
+[**The Best online Hobby Store in Australia**](http://www.aussiepages.com.au/The-Best-online-Hobby-Store-in-Australia.html)  
+All-Wheel-Nitro Hobby Store is your one stop hobby shop for all of your RC Radio Controlled vehicles, planes and boats hobby needs, train sets, stem engines & Electric. At AllWheelNitro, we work hard to supply you the best quality products at the best possible price.  
   
   
-[**ChemDry Primo Carpet Cleaning**](http://www.aussiepages.com.au/ChemDry-Primo-Carpet-Cleaning.html)  
-Carpet & Rug Cleaning, Specialized stain removal. Pet urine removal treatment.  
+[**DTE Group**](http://www.aussiepages.com.au/DTE-Group.html)  
+DTE group provides a wide range of high quality storage tanks, fuel tanks, container tanks, steel tanks and chemical tanks Australia wide. We also offer tank and fuel installation, maintenance and man  
   
   
-[**Embroidery Design**](http://www.aussiepages.com.au/Embroidery-Design.html)  
-OZ Digitizing,specializes in creative solutions that has a successful track record in delivering artwork services to the ad specialty industry,artwork on all kind of fabrics,embroidery digitizing,embr  
+[**Australasian Defendo CQC / Jujitsu**](http://www.aussiepages.com.au/Australasian-Defendo-CQC--Jujitsu.html)  
+Defendo Classes are a fun and exciting way to get fit and learn self defense and discipline. Classes are available for beginners through to advanced. View our web site for more details. Private  
   
   
-[**Birthed Creative Studio**](http://www.aussiepages.com.au/Birthed-Creative-Studio.html)  
-Custom Graphic Design, Logo Design, Web Design, Print Design, Merchandise, Printing, Laughs, Coffee. Check us out... We're all talented, one of us is single.  
+[**Wood Fired Pizza Ovens**](http://www.aussiepages.com.au/Wood-Fired-Pizza-Ovens.html)  
+A provider of Italian made wood fired pizza ovens and professional cooking equipment and accessories for pizza cooking.  
   
   
-[**outdoor fitness**](http://www.aussiepages.com.au/outdoor-fitness.html)  
-Outdoor Energy incorporates outdoor fitness  
+[**UltraBOQ Estimating Software**](http://www.aussiepages.com.au/UltraBOQ-Estimating-Software.html)  
+Estimating Software that works entirely through your web browser! Create Bill of Quantities and Purchase Orders, manage your Pricebooks and Suppliers from anywhere quickly, easily and safely.  
   
   
-[**Ultra Cheap Auto Discount Car Parts For You!!**](http://www.aussiepages.com.au/Ultra-Cheap-Auto-Discount-Car-Parts-For-You--.html)  
-Auto 4wd Parts. Top Gun Lead Kits. Dayco Timing Belt Kits. 4WD Disc Brake Pads. Valve Regrind Gasket Sets. VRS Gaskets. KYB Shock Absorbers. CV Shafts & CV Joints. Cylinder Heads.  
+[**Resonate Creative; Marketing & Graphic Design**](http://www.aussiepages.com.au/Resonate-Creative-3B-Marketing-Graphic-Design.html)  
+At Resonate Creative we ensure great designs with the Marketing to back it up. A consistency of message and look that neither a copywriter nor artist could achieve on their own. We understand the cri  
+  
+  
+[**Step into Life Narre Warren**](http://www.aussiepages.com.au/Step-into-Life-Narre-Warren.html)  
+Step into Life Narre Warren specialises in group outdoor personal training, catering for people of all ages and fitness levels, in a fun, social and non-threatening environment.  
   
   
    
