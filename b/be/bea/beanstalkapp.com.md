@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527065021id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119234027id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Beanstalk — Secure, Private Subversion and Git Hosting | Privacy Policy
 
