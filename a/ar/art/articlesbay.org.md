@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesbay.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613101300id_/http%3A//articlesbay.org/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbay.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119121122id_/http%3A//articlesbay.org/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ArticlesBay.org
 
@@ -34,4 +34,4 @@ ArticlesBay.org's privacy policy changes time to time and changes are posted on 
 
 ARTICLESBAY.ORG IS A FREE ARTICLES HOSTING WEBSITE, WE DO NOT PROVIDE OR SUPPORT ANY LEGAL CONSIQUENCES AND ANY PARTY IN ANY MANNER. IF YOU ARE NOT AGREE WITH OUR PRIVACY POLICY THEN WE REQUEST YOU NOT TO CREATE ACCOUNT OR POST ARTICLES OR POST COMMENTS ON ARTICLESBAY.ORG
 
-If you still have question about ArticlesBay.org's privacy policy then please [contact us](https://web.archive.org/web/20100613101300id_/http%3A//articlesbay.org/contact.html). 
+If you still have question about ArticlesBay.org's privacy policy then please [contact us](https://web.archive.org/web/20101119121122id_/http%3A//articlesbay.org/contact.html). 
