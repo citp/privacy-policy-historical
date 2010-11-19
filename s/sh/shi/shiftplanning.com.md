@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524143223id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119140820id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShiftPlanning.com
-
-| 
 
 ShiftPlanning™ takes your privacy seriously. We have developed the following Privacy Policy for your protection.
 
@@ -25,7 +23,7 @@ Most browsers are initially set up to accept cookies. If you prefer, you can res
 
 **IP Addresses**
 
-We collect and analyize traffic on our Website by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the Website; however, we do not link your IP address to any personally identifying information.
+We collect and analyize traffic on our Website by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the Website.
 
 **Personalizing Your Experience on the Website**
 
@@ -108,4 +106,4 @@ Anytime you visit a chat room or post a message to an online bulletin board, you
 
 If you have questions or concerns regarding this Policy, you should email ShiftPlanning Customer Service at .
 
-**Last Revised: January 27th, 2010** | 
+**Last Revised: July 23rd, 2010**
