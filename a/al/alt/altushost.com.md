@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altushost.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302163721id_/http%3A//altushost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altushost.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119081150id_/http%3A//altushost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Web Hosting, Reseller Hosting, Virtual Private Servers, Dedicated Servers | OffShore, Privacy Assured | High Quality Network | - ALTUSHOST INC.
 
