@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107025523id_/http%3A//www.applian.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119225904id_/http%3A//www.applian.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,8 +73,12 @@ Applian Technologies Inc.
 San Anselmo, CA  94960   
 Attn:  Customer Service
 
-  * **[General Inquiries](https://web.archive.org/web/20100107025523id_/http%3A//www.applian.com/support.php#GeneralContact)**
-  * **[Technical Support](https://web.archive.org/web/20100107025523id_/http%3A//www.applian.com/support.php#TechSupport) **
+  * **[General Inquiries](https://web.archive.org/web/20101119225904id_/http%3A//www.applian.com/support.php#GeneralContact)**
+  * **[Technical Support](https://web.archive.org/web/20101119225904id_/http%3A//www.applian.com/support.php#TechSupport) **
   * FAX: 415-480-1748 (USA)
 
 
+
+Note: Applian Technologies recording products are not intended for use in circumventing copy protection mechanisms or for making illegal copies of copyrighted content. Please respect the rights of the content owners when recording. 
+
+**© Copyright 2010 Applian Technologies Inc. - All Rights Reserved**
