@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsspy.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328082528id_/http%3A//adsspy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsspy.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119091147id_/http%3A//adsspy.com/privacy.php) for the most accurate reproduction.*
 
 # AdsSpy.com, Google Adsense ID, pub, Google Analytics ID search,
 
