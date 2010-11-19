@@ -1,36 +1,84 @@
-> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429005705id_/http%3A//www.8tracks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119085255id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy policy | 8tracks
 
-## ******8tracks.com Privacy Policy**
+**Last Revised: May 13, 2010**  
 
-At 8tracks.com, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use 8tracks.com's services, as well as some of the steps we take to safeguard it. 
 
-The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You can find more details about the data we collect on particular services by clicking the links on the side of this page.
+This website – [http://8tracks.com](http://8tracks.com/) – (the “Website”) is owned and operated by 8tracks, Inc. (“ **8tracks** ” or “ **We** ”). We understand you value your privacy. At 8tracks, we want to make your experience online satisfying and safe. This statement governs information you provide to us or we learn from your use of this Website and tells you how we may collect, use and, in some instances, share this information.   
 
-Data collection 
 
-8tracks.com does not require any personally identifying information. 
+_The Information 8tracks Collects_   
 
-8tracks.com collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
 
-Cookies 
+  * **_Information You Provide_** : You may provide to 8tracks what is generally called "personally identifiable" information (such as your name, age, zip code, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the 8tracks Platform or otherwise use the features and functionality of the 8tracks Platform.
+  * _"_ ** _Automatically Collected_** _" Information:_ When you access the 8tracks Platform (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, your listening preferences, the content and pages that you access on the 8tracks Platform, and the dates and times that you visit the 8tracks Platform.
+  * _"_ ** _Cookies_** _" Information_ : When you access the 8tracks Platform, we may send one or more cookies — small text files containing a string of alphanumeric characters — to your computer. 8tracks may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the 8tracks Platform in order to improve your experience, as explained in B below. Persistent cookies can be removed. Please review your web browser "Help" file to learn the best way to modify your cookie settings.
+  * _Your User ID_ : Your User ID is displayed throughout the 8tracks Platform and is therefore available to the public. Other people can see your feedback, ratings and associated comments, etc. Therefore, if you associate your actual name with your User ID, the people to whom you have revealed your name will be able to personally identify your activities on the 8tracks Platform.
 
-Upon your first visit to 8tracks.com, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. 8tracks.com does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some 8tracks.com features or services may not function properly without cookies.   
-Information sharing 
 
-We do not rent or sell your personally identifying information to other companies or individuals. 
 
-We may share aggregated search information with others. Examples of this include the number of users who searched for "jelly beans" or how many users clicked on a particular advertisement. 
+**_The Way 8tracks Uses Information_**. **** 8tracks uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the 8tracks Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act and other applicable laws.   
 
-Links 
 
-The sites displayed as search results or linked to by 8tracks.com's services are developed by people over whom 8tracks.com exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information. 
+  * We may use your email address, without further consent, for administrative communications such as notifying you of major 8tracks Platform updates, for customer service purposes, and to send privacy or security related notices.
+  * 8tracks uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the 8tracks Platform works and looks, and to create new features and functionality.
+  * 8tracks may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the 8tracks application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the 8tracks Platform; (c) provide customized third-party advertisements, content and information; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities.
 
-8tracks.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of 8tracks.com's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
 
-Changes to this Policy
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive for you to view.
+**_When 8tracks Discloses Information_**. **** 8tracks does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the 8tracks Platform — such as when you publish contact information to complete your profile information — becomes publicly available and may be collected and used by others without restriction.   
 
-If you have any additional questions, please feel free to contact us any time at info @ 8tracks.com
+
+  * 8tracks may disclose Automatically Collected and other aggregate non-personally-identifiable information (such as IP addresses, anonymous User usage data, listening preferences, referring or exit pages and URLs, platform types, number of clicks) with interested third parties to assist those parties in understanding the usage and demographic patterns for certain content, services, advertisements, promotions, or other functionality on the 8tracks Platform.
+  * We may disclose some limited User information to affiliated companies or other businesses or persons to: provide website hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist 8tracks in improving the 8tracks Platform and creating new services features. We contractually require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
+  * 8tracks may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. copyright or trademark law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.
+  * 8tracks also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; protect 8tracks from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the 8tracks Platform; or to protect the rights, property, or personal safety of 8tracks, our Users, or others.
+
+
+
+**_Your Choices and Access to your Personal Information_**. **** You may, of course, decline to share your personally-identifiable information with 8tracks, in which case 8tracks will not be able to provide to you some of the features and functionality found on the 8tracks Platform. You may view, update, correct, or delete your user information and preferences by contacting us at privacy@8[tracks.com](http://tracks.com/).   
+
+
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.   
+
+
+**_Advertisers_**. **** 8tracks allows third-party ad servers or ad networks to serve advertisements within the 8tracks Platform. These third-party ad servers or ad networks may use technology to send, directly to your browser, the advertisements that appear within the 8tracks Platform and they automatically receive your IP Address and other automatically collected information when this happens. Such third-party ad servers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
+
+8tracks does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks 8tracks to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.   
+
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks for further information. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 8tracks reserves the right the add or remove third-party ad networks or ad servers in its discretion and 8tracks may not at all times list such updated ad network or ad server partners in this Privacy Policy.   
+
+
+**_Our Commitment to Data Security_**. **** 8tracks uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to 8tracks, and you do so at your own risk. Once we receive your transmission of information, 8tracks makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If 8tracks learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. 8tracks may post a notice on the 8tracks Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@8tracks.com](mailto:privacy@8tracks.com).   
+
+
+**_Our Commitment to Children's Privacy_**. IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE 8TRACKS PLATFORM AT ANY TIME OR IN ANY MANNER. **** Protecting the privacy of young children is especially important. For that reason, 8tracks does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If 8tracks learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the 8tracks Platform, then 8tracks will take the appropriate steps to delete this information.   
+
+
+If you are the parent or legal guardian of a child under 13 who has become a 8tracks Platform member, then please contact 8tracks at [privacy@8tracks.com](mailto:privacy@8tracks.com) to have that child's account terminated and information deleted.   
+
+
+**_International Visitors_**. **** For Users visiting the 8tracks Platform from the European Union or other non-U.S. territories, please note that any data you enter into the 8tracks Platform will be transferred outside the European Union or such other non-U.S. territory for use by 8tracks and its affiliates for any of the purposes described herein. In addition, because 8tracks operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the 8tracks Platform, you hereby expressly consent to:   
+
+
+  * the use of your personal data for the uses identified above in accordance with this policy; and 
+  * the transfer of your personal data to the United States as indicated above. 
+
+
+
+**_In the Event of Merger, Sale or Other Change in Conrol_**. **** In the event that 8tracks is acquired by or merged with a third-party entity or ever files for bankruptcy, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control. Information 8tracks receives from you may be considered an asset subject to bankruptcy could jurisdiction and disposition pursuant to procedures thereunder.   
+
+
+**_Third Parties_**. **** Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from you or that you disclose to us. If you disclose your information to others besides 8tracks, whether they are users of the 8tracks Platform or on other sites or services, different rules may apply to their use or disclosure of the information you disclose to them. 8tracks does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.   
+
+
+**_Changes and Updates to this Privacy Policy_**. **** This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the 8tracks Platform constitutes your agreement to this Privacy Policy and any future revisions.   
+
+
+For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.   
+
+
+**_8tracks Contact Information_. ** Please contact 8tracks with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at 192 Orchard Street, 7B, New York, NY 10002, or by email at [privacy@8tracks.com](mailto:privacy@8tracks.com). We will respond to your inquiry within 30 days of its receipt.   
+
