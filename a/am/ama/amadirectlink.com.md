@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amadirectlink.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609205028id_/http%3A//www.amadirectlink.com/whatis/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amadirectlink.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082304id_/http%3A//amadirectlink.com/whatis/privacy.asp) for the most accurate reproduction.*
 
 # AMA Privacy Policy
 
