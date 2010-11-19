@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414012103id_/http%3A//alliancehealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119074955id_/http%3A//alliancehealth.com/privacy) for the most accurate reproduction.*
 
 # Alliance Health - Empowering Consumers through Social Health Networks
 
@@ -71,7 +71,7 @@ Any improper collection or misuse of information provided on the site is a viola
 
 If you choose to use our invitation service to tell a friend about our site, we will ask you for information relevant to the invitation process, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. The site stores this one-time invitation information in order to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your invited friend may [contact us](https://web.archive.org/contact) to request that we remove this information from our database.
 
-From time to time, we share aggregated data regarding the users of our services (for example, information such as the percentage of our users that are diabetics, or that users who choose one type of service request a related service a certain percentage of the time). Some of this data may include the data obtained as described in the "cookies" section, but no personally identifiable individual information is included in these types of shared statistics.
+From time to time, we share aggregated data regarding the users of our services (for example, information such as the percentage of our users percentage of our users that have a specific condition, or that users who choose one type of service request a related service a certain percentage of the time). Some of this data may include the data obtained as described in the "cookies" section, but no personally identifiable individual information is included in these types of shared statistics.
 
 We may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating the site's terms of use.
 
@@ -112,6 +112,10 @@ Only authorized Alliance Health employees servicing the website are permitted to
 ## Disclosure on Alliance Health Offers
 
 All Alliance Health offers are subject to participation by the partner (provider), product availability, and any applicable state or federal laws that govern such offers. Any offers shown are reasonable facsimiles, and participating partners (providers) reserve the right to withdraw offer, substitute another product, or modify offer at their sole discretion.
+
+## Content and Advertising
+
+Our content is not influenced by advertisements or any other commercial influence.
 
 ## Changes to this Privacy Policy
 
