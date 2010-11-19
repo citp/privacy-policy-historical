@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330080648id_/http%3A//www.allgame.com/pages/a_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119081128id_/http%3A//allgame.com/pages/a_privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - allgame
 
