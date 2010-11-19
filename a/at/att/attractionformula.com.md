@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the attractionformula.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013633id_/http%3A//www.attractionformula.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attractionformula.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119135711id_/http%3A//attractionformula.com/privacy-policy.php) for the most accurate reproduction.*
 
-# How To Pick Up Women | Paul Janka's Attraction Formula | Privacy Policy
+# Attraction Formula | Dating Advice For Men By Paul Janka
 
-### **Privacy Policy**
+### Privacy Policy
 
 **Introduction**
 
@@ -50,7 +50,4 @@ Reservation of Rights**
 
 15\. Velocity Publishing, Inc. reserves the right to monitor user and network traffic for site security purposes and prevent any unauthorized attempts to tamper with our site or cause damage to our property. 
 
-16\. Velocity Publishing, Inc. reserves the right to make changes to this privacy policy or update it. Where a major change is made, customers will be informed by e-mail notification or through a notice on our website. Customers and site visitors bear the responsibility to ensure that they understand these changes. 
-
-  
-
+16\. Velocity Publishing, Inc. reserves the right to make changes to this privacy policy or update it. Where a major change is made, customers will be informed by e-mail notification or through a notice on our website. Customers and site visitors bear the responsibility to ensure that they understand these changes.
