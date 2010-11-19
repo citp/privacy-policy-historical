@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the 4down.info privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525185232id_/http%3A//4down.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4down.info privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073812id_/http%3A//4down.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » .:Www.4Down.Info:.
-
-[](http://phonejunction.net/page10.php)
-
-| 
 
 **Your Privacy**  
 Www.4Down.Info is committed to protecting your privacy. Www.4Down.Info does not sell, trade or rent your personal information to other companies. Www.4Down.Info will not collect any personal information about you except when you specifically and knowingly provide such information.  
@@ -19,6 +15,3 @@ In the course of serving advertisements to this site, our third-party advertiser
 
   **Modification of Privacy Policy**  
 Www.4Down.Info reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
-
-|   
----|---|---
