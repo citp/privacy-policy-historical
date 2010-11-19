@@ -1,62 +1,6 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119163437id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedom of Information for the U of A Division of Agriculture
-
-[About Us](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/about_us.htm)  
-  
-
-
-[Find Us](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/findus.htm)  
-  
-
-
-[Glossary of Agricultural  
-     Production, Programs,  
-     and Policy](http://agglossary.uaex.edu/)  
-  
-
-
-[Logos & Standards  
-     of Usage](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/Logos/default.htm)  
-  
-
-
-[News & Publications](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/news_publications/default.htm)  
-
-
-[Organizational Chart](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/organizational_chart.htm)  
-
-
-[Policy & Management   
-     Guidelines](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/policy_management/default.htm)  
-  
-
-
-[UA System](http://www.uasys.edu/)  
-  
-
-
-[USDA](http://www.usda.gov/wps/portal/usdahome)  
-  
-
-
-[ Dale Bumpers College  
-of Agricultural, Food &   
-Life Sciences](http://www.uark.edu/depts/dbcafls/)  
-  
-
-
-[Division Home](http://division.uaex.edu/)  
-
-
-  
-[Agricultural Experiment  
-      Station Home](http://aaes.uark.edu/)  
-  
-[Cooperative Extension  
-      Service Home](http://www.uaex.edu/)
-
-| 
 
 #### Mission Statements
 
@@ -109,7 +53,7 @@ The University of Arkansas Division of Agriculture maintains records in two (2) 
 
 All records are subject to the access and confidentiality provisions of the Arkansas Freedom of Information Act, Ark Code Ann., §§ 25-19-101 through 25-19-107, or to other applicable sections of the Arkansas Code. Requests for records under the Freedom of Information Act should be directed to: 
 
-| **Division of Agriculture  
+**Division of Agriculture  
 Dr. Milo J. Shult  
 **Vice-President for Agriculture  
 Administrative Offices  
@@ -152,11 +96,11 @@ E-mail: [mcochran@uark.edu](mailto:mcochran@uark.edu)
 | 
 
 **  
-Dr. Lalit Verma**  
-Interim Associate Vice-President  
+Dr. Michael E. Vayda**  
+Associate Vice-President  
 for Agriculture - Academic Programs   
 AFLS E-108  
 University of Arkansas  
 Fayetteville, AR 72701  
 479-575-2034   
-E-mail: [lverma@uark.edu](mailto:lverma@uark.edu)
+E-mail: [mvayda@uark.edu](mailto:lverma@uark.edu)
