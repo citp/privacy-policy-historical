@@ -1,376 +1,1660 @@
-<!--The following is the downloaded HTML source of the igate.com privacy policy that was archived on 2010-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100501145354id_/http%3A//www.igate.com/privacy_policy.html%3Fexpandable%3D9) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igate.com privacy policy that was archived on 2010-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119025815id_/http%3A//www.igate.com/footer/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>iGATE – Privacy Policy</title>
-<meta name="description" content="This Privacy Policy outlines how we treat your personal information, and forms part of the Terms and Conditions of this Site. This Privacy Policy applies only to this Site, and not to the collection and use of personal information by any third party via any website to which there are links on this Site.">
-<meta name="keywords" content="igate privacy policy, privacy policy, igate">
-<meta http-equiv="Last-Modified" content="Oct 16, 2008">
-<meta name="ROBOTS" content="index,follow">
-<meta name="ROBOTS" content="ALL">
-<meta name="googlebot" content="index,follow,archive">
-<meta name="msnbot" content="index,follow,archive">
-<meta name="Slurp" content="index,follow,archive">
-<meta name="language" content="English">
-<meta name="doc-type" content="Web Page">
-<meta name="document-type" content="Public">
-<meta name="distribution" content="Global">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="ROBOTS" content="NOODP, NOYDIR">
-<link href="css/igate.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="css/inner_dropdown.css">
-<script language="javascript" src="js/inner_dropdown.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/jquery-1.2.2.pack.js"></script>
-<script type="text/javascript" src="js/ddaccordion.js">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/footer.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>iGate</title>
+<!-- InstanceEndEditable -->
+<link href="../css/mainstyle.css" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" media="all" href="../css/style.css">
+
+ 
+
+
+<link rel="stylesheet" type="text/css" href="../css/middle_menu/chromestyle.css">
+
+<script type="text/javascript" src="../js/middle_menu/chrome.js"></script>
+<link href="../css/top_menu/helper.css" media="screen" rel="stylesheet" type="text/css">
+<link href="../css/top_menu/dropdown.css" media="screen" rel="stylesheet" type="text/css">
+<link href="../css/top_menu/default.ultimate.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript" src="../js/form/jquery-1.2.6.min.js"></script>
+<link href="../css/form/texthidden.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../js/form/texthidden.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/form/styleform.css">
+
+<link rel="stylesheet" type="text/css" href="../css/side_menu/sdmenu.css">
+	<script type="text/javascript" src="../js/sdmenu.js">
+		/***********************************************
+		* Slashdot Menu script- By DimX
+		* Submitted to Dynamic Drive DHTML code library: http://www.dynamicdrive.com
+		* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+		***********************************************/
+	</script>
+	
+	<script type="text/javascript">                                         
+<!--  
+// When DOM is ready
+$(document).ready(function(){
+
+// ------- Submit First Form -------
+
+$("#contact").submit(function(){
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "contact.php",
+   data: str,
+   success: function(msg){
+    
+$("#note").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
+$("#fields").hide();
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+// ------- Submit Second Form -------
+
+$("#feedback").submit(function() {
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "feedback.php",
+   data: str,
+   success: function(msg){
+    
+$("#note-two").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
+$("#fields-two").hide();
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+});
+-->
+ </script>  
+ <script type="text/javascript">
+function writeText (form) 
+{
+	var section="Banking - ";
+	var sPath = window.location.pathname;
+	var sPage = sPath.substring(sPath.lastIndexOf('\\') + 1);
+	var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+ 	//form.subject.value = section + sPath;
+	form.subject.value= section + location.href;
+}
 </script>
-<script type="text/javascript">
-ddaccordion.init({
-	headerclass: "expandable", //Shared CSS class name of headers group that are expandable
-	contentclass: "categoryitems", //Shared CSS class name of contents group
-	revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click" or "mouseover
-	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
-	defaultexpanded: [0], //index of content(s) open by default [index1, index2, etc]. [] denotes no content
-	onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
-	animatedefault: false, //Should contents open by default be animated into view?
-	persiststate: true, //persist state of opened contents within browser session?
-	toggleclass: ["", "openheader"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
-	togglehtml: ["prefix", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
-	animatespeed: "normal", //speed of animation: "fast", "normal", or "slow"
-	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
-		//do nothing
-	},
-	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
-		//do nothing
-	}
-})
-</script>
+
+<!-- Beginning of compulsory code below -->
+
+
+
+<!--[if lte IE 7]>
+<script type="text/javascript" src="js/jquery/jquery.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.dropdown.js"></script>
+<![endif]-->
+
+<!-- / END -->
+
+
+<style type="text/css">
+<!--
+.style3 {color: #FFFFFF}
+-->
+</style>
+
+
 <style type="text/css">
 <!--
 body {
-	background-color: #F8F9FC;
+	background-color: #ECE9D8;
 }
-#home_icon {	position:absolute;
-	width:20px;
-	height:20px;
-	z-index:1;
-	left: 721px;
-	top: 15px;
-}
+.style7 {color: #FF0000}
 -->
 </style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 </head>
+
 <body>
-<div id="inner_container">
-  <div id="iGATE_logo">
-  <a href="index.php"><img src="images/inner_logo.jpg" alt="Home" width="114" height="36" border="0"></a>  </div>
-  <div id="home_icon"><a href="index.php"><img src="images/home_icn.jpg" alt="Home" width="20" height="20" border="0"></a></div>
-  <div id="inner_search_container">
-	<form action="search.php" method="get">
-		<div class="search" id="search">Search</div>		
-		<div id="serach_textbox">
-		  <input name="query" id="query" type="text" class="search" size="16">
-		  <input type="hidden" name="search" value="1">
-		</div>
-		<div id="serach_button">	
-		<input type="image" src="images/serach_button.gif" alt="Search" width="8" height="10" border="0">		
-		</div>
-	</form>
-</div>
-  <div id="left_menu_container">
-    <div class="arrowlistmenu">
-      <div class="menuheader expandable">About Us</div>
-      <ul class="categoryitems">
-        <li><a href="about_us/iGATE_philosophy.html">iGATE Philosophy</a></li>
-        <li><a href="about_us/Alliances/alliances.html">Alliances</a></li>
-        <li><a href="about_us/Management_Team/Governing_Council/governing_council.html">Management Team</a></li>
-        <li><a href="about_us/why_igate.html">Why iGATE?</a></li>
-      </ul>
-      <div class="menuheader expandable">Newsroom</div>
-      <ul class="categoryitems">
-        <li><a href="newsroom/press_releases.php" class="question">Press Releases</a></li>
-        <li><a href="newsroom/journalist_resources.html">Journalist Resources</a></li>
-        <li><a href="newsroom/iGATE_in_the_News/igate_in_the_news.php" class="yellow_level1_link">iGATE in the News</a></li>
-        <li><a href="newsroom/media_contact.html" class="question">Media Contact</a></li>
-      </ul>
-      <div class="menuheader expandable">Investors</div>
-      <ul class="categoryitems">
-        <li><a href="http://ir.igate.com/index.cfm?expandable=2">Investor Relations</a></li>
-        <li><a href="http://ir.igate.com/safeHarbor.cfm?expandable=2">Safe Harbor</a></li>
-        <li><a href="http://ir.igate.com/releases.cfm?expandable=2">Press Releases</a></li>
-        <li><a href="http://ir.igate.com/events.cfm?expandable=2">Events &amp; Presentations</a></li>
-        <li><a href="http://ir.igate.com/management.cfm?expandable=2">Management Team</a></li>
-        <li><a href="http://ir.igate.com/governance.cfm?expandable=2">Corporate Governance</a></li>
-        <li><a href="http://ir.igate.com/sec.cfm?expandable=2">SEC Filings</a></li>
-        <li><a href="http://ir.igate.com/financials.cfm?expandable=2">Financial Information</a></li>
-        <li><a href="http://ir.igate.com/stockquote.cfm?expandable=2">Stock Information</a></li>
-        <li><a href="http://ir.igate.com/faq.cfm?expandable=2">Investor FAQs</a></li>
-        <li><a href="http://ir.igate.com/contactus.cfm?expandable=2">Investor Contact</a></li>
-      </ul>
-      <div class="menuheader expandable">Contact Us</div>
-      <ul class="categoryitems">
-        <li><a href="contact_us/service_request.php" class="question">Service Request </a></li>
-        <li><a href="contact_us/website_feedback.php" class="question">Website Feedback</a></li>
-        <li><a href="contact_us/contact_us.html" class="question">Contact Details</a></li>
-      </ul>
-      <div class="menuheader expandable">iNSIGHTS</div>
-      <ul class="categoryitems">
-        <li><a href="insights/Case_Studies/case_studies.html">Case Studies</a></li>
-        <li><a href="insights/white_papers.html" class="question">White Papers</a></li>
-      </ul>
-      <div class="menuheader expandable">iCITIZEN</div>
-      <ul class="categoryitems">
-        <li><a href="iCITIZEN/green_space.html" class="question">Green Space</a></li>
-        <li><a href="iCITIZEN/iCARE/icare.html" class="question">iCARE </a></li>
-      </ul>
-      <div class="menuheader expandable">iCAREER</div>
-      <ul class="categoryitems">
-        <li><a href="iCAREER/Working_at_iGATE/working_at_igate.html">Working @ iGATE</a></li>
-        <li><a href="iCAREER/igate_culture.html" class="question">iGATE Culture</a></li>
-        <li><a href="iCAREER/igate_alumni.html" class="question">iGATE Alumni</a></li>
-        <li><a href="iCAREER/employee_speak.html" class="question">Employee Speak</a></li>
-        <li><a href="iCAREER/opportunites_at_igate.php" class="question">Opportunities @ iGATE</a></li>
-        <li><a href="iCAREER/awards_and_accolades.html" class="question">Awards &amp; Accolades</a></li>
-        <li><a href="iCAREER/igate_in_campus.html">iGATE in Campus</a></li>
-        <li><a href="iCAREER/career_contact.php" class="question">Career Contact</a></li>
-      </ul>
-      <div class="menuhdr"><a href="analyst.html?expandable=8" class="analyst_menu">Analyst Relations</a></div>
-      <div class="menuhdr"><a href="iblog/index.php" target="_blank" class="analyst_menu">iBLOG</a></div>
-    </div>
-  </div>
-  <div id="inner_main_menu">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center" valign="top"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
       <tbody><tr>
-        <td width="13%" align="left" valign="top" scope="col"><a href="itops.html?expandable=9" class="inner_main_menu">iTOPS</a></td>
-        <td width="87%" align="left" valign="top" scope="col"><dl class="dropdown">
-            <dt id="two-ddheader" onmouseover="ddMenu('two',1)" onmouseout="ddMenu('two',-1)">IT Services</dt>
-          <dd id="two-ddcontent" onmouseover="cancelHide('two')" onmouseout="ddMenu('two',-1)">
-              <ul>
-                <li><a href="IT_services/Enterprise_Solutions/enterprise_solutions.html?expandable=9" class="underline">Enterprise Solutions</a></li>
-                <li><a href="IT_services/Business_Intelligence_Data_Warehousing/business_intelligence_data_warehousing.html?expandable=9" class="underline">Business Intelligence &amp; Data Warehousing</a></li>
-                <li><a href="IT_services/Independent_Verification_Validation/independent_verification_validation.html?expandable=9" class="underline">Independent Verification &amp; Validation</a></li>
-                <li><a href="IT_services/Application_Development_Maintenance/application_development_maintenance.html?expandable=9" class="underline">Application Development &amp; Maintenance</a></li>
-                <li><a href="IT_services/Infrastructure_Management/infrastructure_management.html?expandable=9" class="underline">Infrastructure Management</a></li>
-                <li><a href="IT_services/Why_iGATE/why_igate.html">Why iGATE?</a></li>
-              </ul>
-          </dd>
-        </dl>
-            <dl class="dropdown1">
-              <dt id="three-ddheader" onmouseover="ddMenu('three',1)" onmouseout="ddMenu('three',-1)">Process Outsourcing</dt>
-              <dd id="three-ddcontent" onmouseover="cancelHide('three')" onmouseout="ddMenu('three',-1)">
-                <ul>
-                  <li><a href="Process_outsourcing/Transaction_Based_Services/transaction_based_services.html?expandable=9" class="underline">Transaction Based Services</a></li>
-                  <li><a href="Process_outsourcing/voice_based_services.html?expandable=9" class="underline">Voice Based Services</a></li>
-                  <li><a href="Process_outsourcing/Why_iGATE/why_igate.html?expandable=9">Why iGATE?</a></li>
-                </ul>
-              </dd>
-            </dl>
-          <dl class="dropdown2">
-              <dt id="four-ddheader" onmouseover="ddMenu('four',1)" onmouseout="ddMenu('four',-1)">Consulting</dt>
-            <dd id="four-ddcontent" onmouseover="cancelHide('four')" onmouseout="ddMenu('four',-1)">
-                <ul>
-                  <li><a href="consulting/ITMA_Consulting/ITMA_Consulting.html?expandable=9" class="underline">ITMA Consulting</a></li>
-<li><a href="consulting/Business_Process_Consulting/Business_Process_Consulting.html?expandable=9" class="underline">Business Process Consulting</a></li>
-<li><a href="consulting/Shared_Services_Consulting/Shared_Services_Consulting.html?expandable=9" class="underline">Shared Services Consulting</a></li>
-<li><a href="consulting/Retirement_Solutions.html?expandable=9" class="underline">Retirement Solutions</a></li>
-                </ul>
-            </dd>
-          </dl>
-          <dl class="dropdown3">
-              <dt id="five-ddheader" onmouseover="ddMenu('five',1)" onmouseout="ddMenu('five',-1)">Industries</dt>
-            <dd id="five-ddcontent" onmouseover="cancelHide('five')" onmouseout="ddMenu('five',-1)">
-                <ul>
-                  <li><a href="industries/Financial_Services/financial_services.html?expandable=9" class="underline">Financial Services</a></li>
-                  <li><a href="industries/Insurance/insurance.html?expandable=9" class="underline">Insurance</a></li>
-                  <li><a href="industries/Banking/banking.html?expandable=9" class="underline">Banking</a></li>
-                  <li><a href="industries/manufacturing.html?expandable=9" class="underline">Manufacturing</a></li>
-                  <li><a href="industries/retail.html?expandable=9" class="underline">Retail</a></li>
-                  <li><a href="industries/media_entertainment.html?expandable=9" class="underline">Media &amp; Entertainment</a></li>
-                  <li><a href="industries/Healthcare/healthcare.html?expandable=9" class="underline">Healthcare</a></li><li><a href="industries/hi-tech_telecom.html?expandable=9">Hi-Tech &amp; Telecom</a></li>
-                </ul>
-            </dd>
-          </dl></td>
-      </tr>
-    </tbody></table>
-  </div>
-  <div id="inner_flash"><img src="images/About_Us/flash-image.jpg" alt="" width="688" height="184"></div>
-  <div id="level3_link_container">
-    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-repeat:no-repeat;">
-      <tbody><tr>
-        <td scope="col"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          
-          <tbody><tr>
-            <td width="4%" align="left" valign="top">&nbsp;</td>
-            <td width="83%" align="left" valign="top" class="inner_content">This website, www.igate.com ( the "site"), and all personal information collected from users of this site, are owned solely by iGATE Corporation . In this Privacy Policy references to "we", "us", "our", are references to iGATE Corporation.</td>
-            <td width="13%" align="left" valign="top" class="left_content">&nbsp;</td>
-          </tr>
-          <tr>
-            <td colspan="3" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td width="4%" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="10" height="5"></td>
-                  <td width="95%" align="left" valign="top" scope="col" style="border-bottom:dotted 1px #ffaa65 "><img src="images/spacer.gif" alt="" width="10" height="25"></td>
-                  <td width="1%" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="10" height="5"></td>
-                </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table>
-  </div>
-  <div id="level2_link">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="4%" align="left" valign="top" scope="col">&nbsp;</td>
-        <td width="18%" align="left" valign="top" scope="col"><span class="red_head">Privacy Policy</span></td>
-        <td width="17%" align="left" valign="middle" scope="col"><em><img src="images/red_button.jpg" alt="" width="6" height="8" border="0"></em></td>
-        <td width="61%" align="left" valign="middle" scope="col">&nbsp;</td>
-      </tr>
-    </tbody></table>
-  </div>
-  <div id="inner_content_container1">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="100%" colspan="3" align="left" valign="top" scope="col"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <td width="1000" align="left" valign="top"><table width="1000" height="0" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
             <tbody><tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td colspan="2" align="left" valign="top" class="yellow_level3_link" scope="col">&nbsp;</td>
+              <td width="215" height="20"></td>
+              <td width="785" align="left" valign="top" height="20"></td>
+            </tr>
+			<tr>
+              <td width="215" valign="top"><div align="center"><a href="../index.html"><img src="../images/logo.jpg" alt="" width="170" height="64" border="0"></a></div></td>
+              <td width="785" align="left" valign="top"><ul id="nav" class="dropdown dropdown-horizontal">
+	<li><span class="dir"> <a href="#">About Us</a></span>
+		<ul>
+		<li><a href="../about/aboutus.html">Overview</a></li>
+			<li><span class="dir"><a href="#">Management Team</a></span>
+				<ul>
+					<li><a href="../about/management_team/board_of_directors/board_of_directors.html">Board of Directors</a></li>
+					<li><a href="../about/management_team/governing_council/governing_council.html">Governing Council</a></li>
+					<li><a href="../about/management_team/leadership_team/leadership_team.html">Leadership Team</a></li>
+				</ul>
+			</li>
+			<li><a href="../about/iGATE_philosophy.html">iGATE Philosophy</a></li>
+			<li><span class="dir"><a href="#">Alliances</a></span>
+				<ul>
+					<li><a href="../about/alliance_program.html">iGATE Alliances Program</a></li>
+					<li><a href="../about/alliance_charter.html">Our Alliances Charter</a></li>
+					<li><a href="../about/alliance_parter.html">Our Partner Eco System</a></li>
+				</ul>
+			</li>
+			
+			<li><span class="dir"><a href="#">Technology</a></span>
+				<ul>
+					<li><a href="../about/service_methodologies.html">Service Methodologies</a></li>
+					<li><a href="../about/global_delivery_model.html">Global&nbsp;Delivery Model</a></li>
+					<li><a href="../about/execution_capability.html">Execution Capability</a></li>
+					<li><a href="../about/technology_consulting.html">Technology Consulting</a></li>
+					<li><a href="../about/projectd_delivery_enablement.html">Project&nbsp;Delivery Enablement</a></li>
+					<li><a href="../about/decision_accelerator.html">Decision Accelerator</a></li>
+					<li><a href="../about/centers_of_excellence.html">Centers&nbsp;of Excellence</a></li>
+				</ul>
+			</li>
+			<li><span class="dir"><a href="#">Process</a></span>
+				<ul>
+					<li><a href="../about/ph_matrix.html">pH Matrix</a></li>
+				</ul>
+			</li>
+			
+		
+		</ul>
+	</li>
+	<li><span class="dir"> <a href="#">Newsroom</a></span>
+		<ul>
+			<li><a href="../newsroom/press_releases.php">Press Releases</a></li>
+			<li><span class="dir"><a href="#">Media Resources</a></span>
+				<ul>
+					<li><a href="../newsroom/resources.html">Resources</a></li>
+					<li><a href="../newsroom/media_contact.html">Media Contact</a></li>
+				</ul>
+			</li>
+			<li><a href="../newsroom/igate_in_the_news.php">iGATE in the News</a></li>
+			
+		</ul>
+	</li>
+	<li><span class="dir"> <a href="#">Investors</a></span>
+		<ul>
+			<li><a href="http://ir.igate.com/investors/index.cfm">Investor Relations</a></li>
+			<li><a href="http://ir.igate.com/investors/safeHarbor.cfm">Safe Harbor</a></li>
+			<li><a href="http://ir.igate.com/investors/releases.cfm">Press Releases</a></li>
+			<li><a href="http://ir.igate.com/investors/events.cfm">Events and Presentations</a></li>
+			<li><a href="http://ir.igate.com/investors/management.cfm">Management Team</a></li>
+			<li><a href="http://ir.igate.com/investors/governance.cfm">Corporate Governance</a></li>
+			<li><a href="http://ir.igate.com/investors/sec.cfm">SEC Filings</a></li>
+			<li><a href="http://ir.igate.com/investors/financials.cfm">Financial Information</a></li>
+			<li><a href="http://ir.igate.com/investors/stockquote.cfm">Stock Information</a></li>
+			<li><a href="http://ir.igate.com/investors/faq.cfm">Investor FAQs</a></li>
+			<li><a href="http://ir.igate.com/investors/contactus.cfm">Investor Contact</a></li>
+		</ul>
+	</li>
+	
+	<li><span class="dir"> <a href="#">iCITIZEN</a></span>
+		<ul>
+			<li><a href="../icitizen/green_space.html">Green Space </a></li>
+			<li><a href="../icitizen/iCARE.html">iCARE</a></li>
+		</ul>
+	</li>
+	<li><span class="dir"> <a href="#">Careers</a></span>
+		<ul>
+			<li><span class="dir"><a href="#">Working@iGATE</a></span>
+				<ul>
+					<li><a href="../careers/fun_factor.html">Fun Factor</a></li>
+					<li><a href="../careers/health_factor.html">Health Factor</a></li>
+					<li><a href="../careers/iCODL.html">iCODL</a></li>
+					<li><a href="../careers/iMAP.html">iMAP</a></li>
+					<li><a href="../careers/FAQs.html">FAQs</a></li>
+					<li><a href="../careers/employee_benefits.html">Employee Benefits</a></li>
+				</ul>
+			</li>
+			<li><a href="../careers/igate_culture.html">iGATE Culture</a></li>
+			<li><a href="http://www.igatealumni.com" target="_blank">iGATE Alumni</a></li>
+			<li><a href="../careers/employee_speak.html">Employee Speak</a></li>
+			<li><a href="../careers/opportunities_at_iGate.php">Opportunities</a></li>
+			<li><a href="../careers/bangalore.html">Walk-ins</a></li>
+			<li><span class="dir"><a href="#">Awards and Accolades</a></span>
+				<ul>
+					<li><a href="../careers/CEO_awards.html">CEO Awards</a></li>
+					<li><a href="../careers/R&amp;R_awards.html">R&amp;R Awards</a></li>
+				</ul>
+			</li>
+			<li><a href="../careers/igate_campus.html">iGATE in Campus</a></li>
+			<li><a href="../careers/career_contact.php">Career Contact</a></li>
+		</ul>
+	</li>
+	<li><span class="dir"> <a href="#">iNSIGHTS</a></span>
+		<ul>
+			<li><a href="../insights/whitepapers/white_papers.html">White Papers</a></li>
+			<li><a href="../insights/case_studies.html">Case Studies</a></li>
+		</ul>
+	</li>
+	
+	<li><span class="dir"> <a href="#">Blogs</a></span>
+		<ul>
+			<li><a href="http://www.igate.com/iblog" target="_blank">iBLOG</a></li>
+			<li><a href="http://www.igate.com/ceoblog" target="_blank">CEO Blog</a></li>
+		</ul>
+	</li>
+	<li><span class="dir"> <a href="#">Contact&nbsp;Us</a></span>
+		<ul>
+			<li><a href="../contactus/service_request.php">Service Request</a></li>
+			<li><a href="../contactus/website_feedback.php">Website Feedback</a></li>
+			<li><a href="../contactus/contact_details.html">Contact Details</a></li>
+			<li><a href="../contactus/global_offices.html">Global Offices</a></li>
+		</ul>
+	</li>
+</ul></td>
             </tr>
             <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td colspan="2" align="left" valign="top" class="yellow_level3_link" scope="col">&nbsp;</td>
+              <td height="4"></td>
+              <td height="4"></td>
             </tr>
             <tr>
-              <td width="4%" align="left" valign="top" scope="col">&nbsp;</td>
-              <td colspan="2" align="left" valign="top" class="inner_content" scope="col"><strong>We take the privacy of all our users seriously. </strong></td>
-            </tr>
-            <tr>
-              <td colspan="3" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="5" height="10"></td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td width="83%" align="left" valign="top" class="inner_content" scope="col"><div align="justify">This Privacy Policy outlines how we treat your personal information, and forms   part of the Terms and Conditions of this Site. This Privacy Policy applies only   to this Site, and not to the collection and use of personal information by any   third party via any website to which there are links on this Site. </div></td>
-              <td width="13%" align="left" valign="top" class="inner_content" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td colspan="3" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="5" height="10"></td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="inner_content" scope="col"><strong>Consent </strong></td>
-              <td align="left" valign="top" class="yellow_level3_link" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td colspan="3" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="5" height="10"></td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="inner_content" scope="col"><div align="justify">Your use of this Site signifies your consent to us collecting and using personal   information about you in accordance with this Privacy Policy. </div></td>
-              <td align="left" valign="top" class="inner_content" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td colspan="3" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="5" height="10"></td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td colspan="2" align="left" valign="top" class="yellow_level3_link" scope="col"><strong class="inner_content">What information do we collect?</strong> </td>
-            </tr>
-            <tr>
-              <td colspan="3" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="5" height="10"></td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="inner_content" scope="col"><div align="justify">You may access this Site's home page and browse the Site without disclosing any   personal data. In order to provide you with a range of services, however, we may   collect personal information from this Site, from written information sent to us   and from other communications. We may for example, keep a record of your name,   mailing address, email address, telephone number and preferences.</div></td>
-              <td align="left" valign="top" class="inner_content" scope="col">&nbsp;</td>
-            </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td colspan="3" align="left" valign="top" class="inner_content" scope="col"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-            <tr>
-              <td width="4%" align="left" valign="top" scope="col">&nbsp;</td>
-              <td width="96%" align="left" valign="top" class="head" scope="col">&nbsp;</td>
-            </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td align="left" valign="top" scope="col"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="4%" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="10" height="5"></td>
-              <td width="95%" align="left" valign="top" scope="col" style="border-bottom:dotted 1px #ffaa65 "><img src="images/spacer.gif" alt="" width="10" height="5"></td>
-              <td width="1%" align="left" valign="top" scope="col"><img src="images/spacer.gif" alt="" width="10" height="5"></td>
-            </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td align="left" valign="top"><img src="images/spacer.gif" alt="" width="5" height="10"></td>
-      </tr>
-      
-      <tr>
-        <td align="left" valign="top"><img src="images/spacer.gif" alt="" width="5" height="10"></td>
-      </tr>
-      <tr>
-        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="4%" align="left" valign="top" scope="col">&nbsp;</td>
-              <td align="left" valign="top" class="inner_content" scope="col">&nbsp;</td>
-            </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table>
-  </div>
-  <script src="js/footer.js"></script><div id="inner_bottom">    <div class="copyright" id="copyright"> © 2010 iGATE Corporation. All Rights Reserved.</div>    <div id="bottom_link_rss"><span class="copyright"> <a href="http://www.igate.com/rss.html" class="copyright">RSS</a>     <a href="http://www.igate.com/rss.html"><img src="http://www.igate.com/images/rss.jpg" alt="" style="vertical-align: middle;" border="0" height="13" width="14"></a> </span> <span class="divider">|</span>	<span class="copyright"> <a href="http://www.igate.com/sitemap.html?expandable=9" class="copyright">Sitemap</a></span> <span class="divider">|</span> <span class="copyright"><a href="http://www.igate.com/privacy_policy.html?expandable=9" class="copyright">Privacy Policy</a> </span> <span class="divider">|</span> <span class="copyright"> <a href="http://www.igate.com/terms_of_use.html?expandable=9" class="copyright">Terms of Use</a></span> </div>  </div>
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-5128180-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+              <td width="215" height="40" align="center" valign="bottom"><table width="70%" border="0" align="left" cellpadding="0" cellspacing="0">
+                <form action="../search.php" method="get"></form>
+                  <tbody><tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td><input type="hidden" name="search" value="1"></td>
+                    <td width="81%" align="left" valign="middle"><input name="query" id="query" class="txbhint long hinted" type="text" style="height:14px; width:120px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666;" title="Search iGATE" value=""></td>
+                    <td width="19%" align="center" valign="top"><input name="image" type="image" src="../images/search.jpg" alt="Search"></td>
+                  </tr>
+                
+              </tbody></table></td>
+              <td align="left" valign="top" width="795"><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
 </script>
 
+<table width="703" border="0" align="right" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td width="703" height="40" colspan="0" align="left" valign="top"><div class="chromestyle" id="chromemenu" align="center">
+                      <ul>
+                        <li><a href="/banking/banking.html" rel="dropmenu1"><img src="/images/banking.jpg" alt="" name="a" width="65" height="40" border="0" id="a" onmouseover="MM_swapImage('a','','/images/banking_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/insurance/insurance.html" rel="dropmenu2"><img src="/images/insurance.jpg" alt="" name="b" width="70" height="40" border="0" id="b" onmouseover="MM_swapImage('b','','/images/insurance_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/financial_services/financial_services.html" rel="dropmenu3"><img src="/images/financial.jpg" alt="" name="c" width="77" height="40" border="0" id="c" onmouseover="MM_swapImage('c','','/images/financial_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/mortgage/mortgage.html" rel="dropmenu4"><img src="/images/mortage.jpg" alt="" name="d" width="71" height="40" border="0" id="d" onmouseover="MM_swapImage('d','','/images/mortage_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/retail/retail.html" rel="dropmenu5"><img src="/images/retail.jpg" alt="" name="e" width="56" height="40" border="0" id="e" onmouseover="MM_swapImage('e','','/images/retail_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/manufacturing_logistics/manufacturing_logistics.html" rel="dropmenu6"><img src="/images/manufacturing.jpg" alt="" name="f" width="96" height="40" border="0" id="f" onmouseover="MM_swapImage('f','','/images/manufacturing_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/healthcare/healthcare.html" rel="dropmenu7"><img src="/images/healthcare.jpg" alt="" name="g" width="75" height="40" border="0" id="g" onmouseover="MM_swapImage('g','','/images/healthcare_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/media_entertainment/media_entertainment.html" rel="dropmenu8"><img src="/images/media.jpg" alt="" name="h" width="93" height="40" border="0" id="h" onmouseover="MM_swapImage('h','','/images/media_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        <li><a href="/hi-tech_telecom/hitech_telecom.html" rel="dropmenu9"><img src="/images/hi_tec.jpg" alt="" name="i" width="86" height="40" border="0" id="i" onmouseover="MM_swapImage('i','','/images/hi_tec_a.jpg',1)" onmouseout="MM_swapImgRestore()"></a></li>
+                        
+                      </ul>
+                  </div>
+                      <!--1st drop down menu -->
+                     <div id="dropmenu1" class="dropmenudiv1">
+                        <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('a','','/images/banking_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/banking/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+										<td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/banking/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/banking/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/banking/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/banking/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/banking/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/banking/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                 <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/banking/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/banking/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/banking/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/banking/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="100%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="125" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/banking/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/banking/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="127" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/banking/iTOPS_Banking.html">iTOPS for Banking</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/banking/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/banking/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/banking/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/banking/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                    </div>
+					  
+                    <!--2nd drop down menu -->
+                      <div id="dropmenu2" class="dropmenudiv2">
+                        <table width="527" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('b','','/images/insurance_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="246" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/insurance/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+										<td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/insurance/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/insurance/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/insurance/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/insurance/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/insurance/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/insurance/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                 <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/insurance/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/insurance/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/insurance/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/insurance/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="3" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="104%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="125" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/insurance/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="156" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/p&amp;c_insurance.html">P&amp;C Insurance</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/life_and_health_insurance.html">Life &amp; Health Insurance</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/re_insurance.html">Re-Insurance</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/insurance/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td width="10"></td>
+                            <td width="10" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="115" align="center" valign="top">&nbsp;</td>
+                            <td width="8">&nbsp;</td>
+                            <td width="136" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!--3rd drop down menu -->
+                      <div id="dropmenu3" class="dropmenudiv3">
+                        <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('c','','/images/financial_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/financial_services/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+										<td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/financial_services/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/financial_services/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/financial_services/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/financial_services/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/financial_services/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/financial_services/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                 <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/financial_services/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/financial_services/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/financial_services/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/financial_services/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="100%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="125" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/financial_services/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/financial_services/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="127" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/financial_services/wealth_management_solutions.html">Wealth Management<br>
+                                      &nbsp;&nbsp;&nbsp;Solutions</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/financial_services/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/financial_services/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/financial_services/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/financial_services/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!--4th drop down menu -->
+                      <div id="dropmenu4" class="dropmenudiv4">
+                        <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('d','','/images/mortage_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/mortgage/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+										<td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/mortgage/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/mortgage/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/mortgage/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/mortgage/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/mortgage/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/mortgage/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                 <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/mortgage/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/mortgage/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/mortgage/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/mortgage/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="27%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="151" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" colspan="2" align="left" valign="top"><a href="/mortgage/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" colspan="2" align="left" valign="top"><a href="/mortgage/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                 
+                                  <tr height="15">
+                                    <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                    <td width="219" align="left" valign="top"><a href="/mortgage/loan_origination.html">Loan Origination</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                    <td height="20" align="left" valign="top"><a href="/mortgage/loan_servicing.html">Loan Servicing</a></td>
+                                  </tr>
+								  
+								   <tr height="15">
+                                    <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                    <td height="20" align="left" valign="top"><a href="/mortgage/loan_administration.html">Loan Administration</a></td>
+                                  </tr>
+								  
+								  
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="116" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/mortgage/iTOPS_mortgage.html">iTOPS for Mortgage</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/mortgage/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/mortgage/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/mortgage/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/mortgage/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!--5th drop down menu -->
+                      <div id="dropmenu5" class="dropmenudiv5">
+                        <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('e','','/images/retail_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/retail/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+										<td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/retail/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/retail/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/retail/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/retail/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/retail/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/retail/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                 <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/retail/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/retail/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/retail/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/retail/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="100%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="125" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/retail/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/retail/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="127" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                 
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/retail/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/retail/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/retail/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/retail/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!--6th drop down menu -->
+                      <div id="dropmenu6" class="dropmenudiv6">
+                        <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('f','','/images/manufacturing_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/manufacturing_logistics/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+                                      <td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/manufacturing_logistics/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/manufacturing_logistics/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/manufacturing_logistics/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/manufacturing_logistics/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/manufacturing_logistics/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/manufacturing_logistics/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/manufacturing_logistics/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/manufacturing_logistics/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/manufacturing_logistics/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/manufacturing_logistics/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="100%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="117" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="115" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/manufacturing_logistics/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/manufacturing_logistics/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="136" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="81" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/manufacturing_logistics/iTOPS_warranty_management.html"> Warranty Management</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/manufacturing_logistics/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/manufacturing_logistics/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/manufacturing_logistics/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/manufacturing_logistics/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!-- 7rh Menu--->
+                      <div id="dropmenu7" class="dropmenudiv7">
+                        <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('g','','/images/healthcare_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/healthcare/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+                                      <td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/healthcare/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/healthcare/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/healthcare/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/healthcare/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/healthcare/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/healthcare/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/healthcare/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/healthcare/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/healthcare/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/healthcare/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="84%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="118" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/healthcare/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/healthcare/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="128" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/healthcare/iTOPS_healthcare.html">iTOPS for Healthcare</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/healthcare/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/healthcare/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/healthcare/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/healthcare/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!-- 8th Menu  -->
+                      <div id="dropmenu8" class="dropmenudiv8">
+                        <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('h','','/images/media_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/media_entertainment/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+                                      <td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/media_entertainment/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/media_entertainment/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/media_entertainment/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/media_entertainment/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/media_entertainment/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" height="20" align="left" valign="top"><a href="/media_entertainment/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td align="left" valign="top"><a href="/media_entertainment/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/media_entertainment/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/media_entertainment/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/media_entertainment/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="100%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="122" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/media_entertainment/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/media_entertainment/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="127" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                 
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/media_entertainment/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/media_entertainment/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/media_entertainment/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/media_entertainment/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!-- 9th Menu  -->
+                      <div id="dropmenu9" class="dropmenudiv9">
+                       <table width="510" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('i','','/images/hi_tec_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="218" align="center" valign="top"><table width="243" align="center" cellpadding="0" cellspacing="0">
+                              <tbody><tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="27" colspan="2" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Technology</td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/hi-tech_telecom/enterprise_solutions.html">Enterprise Solutions</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><table width="167" border="0">
+                                    <tbody><tr>
+                                      <td width="1" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•</td>
+                                      <td width="21"><a href="/hi-tech_telecom/sap.html">SAP&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="59"><a href="/hi-tech_telecom/peoplesoft.html">PeopleSoft&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="34"><a href="/hi-tech_telecom/oracle.html">Oracle&nbsp;</a></td>
+                                      <td width="1" valign="top">|</td>
+                                      <td width="8"><a href="/hi-tech_telecom/siebel.html">Siebel&nbsp;</a></td>
+                                    </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/hi-tech_telecom/about_BI_solutions_at_iGATE.html">BI &amp; Data Warehousing</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td width="219" align="left" valign="top"><a href="/hi-tech_telecom/about_BI_solutions_at_iGATE.html">About BI Solutions at iGATE</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td width="25" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
+                                <td height="20" align="left" valign="top"><a href="/hi-tech_telecom/BI_offerings.html">BI Offerings</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/hi-tech_telecom/independent_verification_&amp;_validation.html">Independent Verification &amp; Validation</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="15" colspan="2" align="left" valign="top"><a href="/hi-tech_telecom/application_development_&amp;_maintenance.html">Applications Development &amp; Maintenance</a></td>
+                              </tr>
+                              <tr height="15">
+                                <td height="20" colspan="2" align="left" valign="top"><a href="/hi-tech_telecom/infrastructure_management.html">Infrastructure Management</a></td>
+                              </tr>
+                            </tbody></table></td>
+                            <td width="10" class="line1">&nbsp;</td>
+                            <td colspan="3" align="center" valign="top"><table width="100%" height="210" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td width="48%" align="left" valign="top"><table width="121" align="center" cellpadding="0" cellspacing="0">
+                                  <colgroup><col width="244">
+                                  </colgroup><tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Process</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="20" align="left" valign="top"><a href="/hi-tech_telecom/voice_based.html">Voice Based</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/hi-tech_telecom/transaction_based.html">Transaction Based</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                <td width="1%" class="line1">&nbsp;</td>
+                                <td width="51%" align="left" valign="top"><table width="127" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;iTOPS</td>
+                                  </tr>
+                                 
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/hi-tech_telecom/F&amp;A_iTOPS.html">F&amp;A iTOPS</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" colspan="3" class="line2"></td>
+                                </tr>
+                              <tr>
+                                <td colspan="3" align="left" valign="top"><table width="201" align="left" cellpadding="0" cellspacing="0">
+                                  <tbody><tr height="15">
+                                    <td width="150" height="15" align="left" valign="top" class="menuhead">&nbsp;</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="29" align="left" valign="top" class="textchromo">&nbsp;&nbsp;&nbsp;Consulting</td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/hi-tech_telecom/ITMA_consulting.html">ITMA Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/hi-tech_telecom/business_process_consulting.html">Business Process Consulting</a></td>
+                                  </tr>
+                                  <tr height="15">
+                                    <td height="15" align="left" valign="top"><a href="/hi-tech_telecom/shared_services_consulting.html">Shared Services</a></td>
+                                  </tr>
+                                </tbody></table></td>
+                                </tr>
+                            </tbody></table></td>
+                            <td></td>
+                            <td width="135" align="center" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                            <td class="line1">&nbsp;</td>
+                            <td width="145" align="center" valign="top">&nbsp;</td>
+                            <td width="10">&nbsp;</td>
+                            <td width="172" align="center" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                    <!-- 10th Menu  -->
+                      <div id="dropmenu10" class="dropmenudiv10">
+                        <table width="184" border="0" cellspacing="0" cellpadding="0" onmouseover="MM_swapImage('j','','/images/consulting_a.jpg',1)" onmouseout="MM_swapImgRestore()">
+                          <tbody><tr>
+                            <td width="300" align="center" valign="top"><table width="196" align="left" cellpadding="0" cellspacing="0">
+                                <tbody><tr height="15">
+                                  <td width="199" height="15" align="left" valign="top">&nbsp;</td>
+                                </tr>
+                                <tr height="15">
+                                  <td height="20" align="left" valign="top"><a href="/consulting/ITMA_consulting.html">ITMA Consulting</a></td>
+                                </tr>
+                                <tr height="15">
+                                  <td height="20" align="left" valign="top"><a href="/consulting/business_process_consulting.html">Business Process Consulting</a></td>
+                                </tr>
+                                <tr height="15">
+                                  <td height="20" align="left" valign="top"><a href="/consulting/shared_services_consulting.html">Shared Services </a></td>
+                                </tr>
+                                
+                            </tbody></table></td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top">&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                      </div>
+                  <script type="text/javascript">
 
+cssdropdown.startchrome("chromemenu")
+
+                </script></td>
+                </tr>
+</tbody></table>
+</td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><table width="1000" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td width="221" rowspan="3" valign="top" align="center"><!-- InstanceBeginEditable name="EditRegion5" -->
+               
+                <!-- InstanceEndEditable --></td>
+              <td width="9" rowspan="4" valign="top" class="line1">&nbsp;</td>
+              <td height="200"><div id="banner"><img src="../images/template_image/iTOPS.jpg" alt="" width="688" height="184"></div></td>
+            </tr>
+            <tr>
+              <td valign="top"><div id="content_here" class="text"> <table width="719" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="719" align="left" valign="top"><!-- InstanceBeginEditable name="header" -->
+                      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="header">
+                        <tbody><tr>
+                          <td align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+					   <tbody><tr>
+                          <td align="left" valign="top"><span class="text">You are here:</span> <span class="headings"> <span class="headings1"><a href="../index.html">Home</a></span> »  Privacy Policy</span></td>
+                        </tr>
+                      </tbody></table>                          &nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td align="left" valign="top">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td align="left" valign="top">Privacy Policy </td>
+                        </tr>
+                      </tbody></table>
+                    <!-- InstanceEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top"><table width="719" border="0" cellpadding="0" cellspacing="0" class="text">
+                      <tbody><tr>
+                        <td width="719" align="left" valign="top"><!-- InstanceBeginEditable name="text" -->
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                              <td align="left" valign="top" class="text"><p>This website, www.igate.com ( the "site"), and all personal information   collected from users of this site, are owned solely by iGATE Corporation   . In this Privacy Policy references to "we", "us", "our", are   references to iGATE Corporation.</p>
+                                <hr align="left" width="100%" size="-2" color="#CCCCCC" noshade="noshade">
+                                <p><strong>We take the privacy of all our users seriously. </strong></p>
+                                <p>This Privacy Policy outlines how we treat your personal information, and   forms   part of the Terms and Conditions of this Site. This Privacy   Policy applies only   to this Site, and not to the collection and use of   personal information by any   third party via any website to which   there are links on this Site. </p>
+                                <p><strong>Consent </strong></p>
+                                <p>Your use of this Site signifies your consent to us collecting and using   personal   information about you in accordance with this Privacy Policy.</p>
+                                <p><strong>What information do we collect?</strong></p>
+                                <p>You may access this Site's home page and browse the Site without   disclosing any   personal data. In order to provide you with a range of   services, however, we may   collect personal information from this Site,   from written information sent to us   and from other communications. We   may for example, keep a record of your name,   mailing address, email   address, telephone number and preferences.</p></td>
+                            </tr>
+                          </tbody></table>
+                        <!-- InstanceEndEditable --></td>
+                      </tr>
+                    
+                      <tr>
+                        <td align="left" valign="top">&nbsp;</td>
+                      </tr>
+                    </tbody></table></td>
+                  </tr>
+                </tbody></table>
+              </div></td>
+            </tr>
+            <tr>
+              <td valign="top">&nbsp;</td>
+            </tr>
+           
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><div class="footter">
+          <style type="text/css">
+<!--
+.style1 {color: #FF0000}
+-->
+</style>
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td valign="top" width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr>
+        <td colspan="2" class="textfooter">&nbsp;&nbsp;&nbsp;Industry Focus</td>
+        <td width="5%" rowspan="6" class="greyline11"></td>
+        <td width="42%" class="textfooter">Key Contacts</td>
+      </tr>
+      <tr>
+        <td width="24%" class="footer_links"><a href="/banking/banking.html"><span class="textfooter">&nbsp;&nbsp;&nbsp;</span>Banking</a></td>
+        <td width="29%" class="footer_links"><a href="/manufacturing_logistics/manufacturing_logistics.html">Manufacturing &amp; Logistics</a></td>
+        <td class="text">US Toll Free: 877 92 iGATE</td>
+      </tr>
+      <tr>
+        <td class="footer_links"><a href="/insurance/insurance.html"><span class="textfooter">&nbsp;&nbsp;&nbsp;</span>Insurance</a></td>
+        <td class="footer_links"><a href="/healthcare/healthcare.html">Healthcare</a></td>
+        <td class="text">India HQ: +91 80 4104 0000</td>
+      </tr>
+      <tr>
+        <td class="footer_links"><a href="/financial_services/financial_services.html"><span class="textfooter">&nbsp;&nbsp;&nbsp;</span>Financial Services</a></td>
+        <td class="footer_links"><a href="/media_entertainment/media_entertainment.html">Media &amp; Entertainment</a></td>
+        <td class="footer_links"><a href="/contactus/service_request.php">Service Request</a></td>
+      </tr>
+      <tr>
+        <td class="footer_links"><a href="/mortgage/mortgage.html"><span class="textfooter">&nbsp;&nbsp;&nbsp;</span>Mortgage</a></td>
+        <td class="footer_links"><a href="/hi-tech_telecom/hitech_telecom.html">Hi-Tech &amp; telecom</a></td>
+        <td class="footer_links"><a href="/contactus/website_feedback.php">Website Feedback</a></td>
+      </tr>
+      <tr>
+        <td class="footer_links"><a href="/retail/retail.html"><span class="textfooter">&nbsp;&nbsp;&nbsp;</span>Retail</a></td>
+        <td class="footer_links">&nbsp;</td>
+        <td class="footer_links"><a href="/careers/career_contact.php">Careers Contact</a></td>
+      </tr>
+      <tr>
+        <td colspan="4">&nbsp;</td>
+        </tr>
+    </tbody></table>
+</td>
+    <td align="left" valign="top" width="44%"><table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#F2F2F2">
+        <tbody><tr>
+          <td colspan="2" align="right" valign="top" bgcolor="#F2F2F2">&nbsp;
+            <form id="feedback" action="javascript:alert('success!');">
+
+                  <table width="100%" height="42" border="0" align="right" cellpadding="0" cellspacing="0">
+				  
+                          
+                         
+                           <tbody><tr><td colspan="3"><div id="note-two"></div></td>   
+                       </tr>
+
+                        
+                            <tr><td height="28" colspan="3" align="left" valign="bottom" class="text">Subscribe to the iGATE Newsletter</td>
+                              </tr>
+                          <tr>
+                            <td width="16" align="left" valign="top"><span class="style9 style1">*</span></td>
+                            <td w="" width="272" height="14" align="center" valign="middle"><input name="email" type="text" class="txbhint long hinted" id="email" style="width:260px;" title="Email Address" value=""></td>
+                            <td width="142" valign="top"><input id="submit-two" name="Submit" type="image" src="/images/submit.jpg" alt="Submit Form" align="middle">
+                            <div id="loading-two"></div></td>
+                      </tr>
+                    </tbody></table>
+              </form></td>
+        </tr>
+        
+        <tr>
+          <td width="35%" height="25" align="right"><!-- AddThis Button BEGIN -->
+                        <div class="addthis_toolbox addthis_default_style"> <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4bc6fea62d8ca39f" class="addthis_button_compact">Share</a> <span class="addthis_separator">|</span> <a class="addthis_button_facebook"></a> <a class="addthis_button_myspace"></a> <a class="addthis_button_google"></a> <a class="addthis_button_twitter"></a></div>
+                      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bc6fea62d8ca39f"></script>
+          <!-- AddThis Button END --></td>
+          <td width="65%" valign="bottom" align="left">&nbsp;&nbsp;&nbsp;</td>
+        </tr>
+       
+      </tbody></table>
+
+    
+      </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56%"><span class="footer_links"><a href="/footer/rss.html">&nbsp;&nbsp;&nbsp;RSS</a>&nbsp; | &nbsp;<a href="/footer/sitemap.html">Sitemap</a>&nbsp; | &nbsp;<a href="/footer/privacy.html">Privacy Policy</a>&nbsp; | &nbsp;<a href="/footer/terms.html">Terms of Use</a></span></td>
+    <td align="right" valign="top" width="44%">2010 iGATE Corporation. All Rights 
+Reserved.&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
+        </div></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+var pageTracker = _gat._getTracker("UA-5128180-1"); 
+pageTracker._initData(); 
+pageTracker._trackPageview(); 
+</script> 
+
+<!-- InstanceEnd -->
 </body></html>
