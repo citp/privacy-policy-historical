@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213312id_/http%3A//addresstwo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119072826id_/http%3A//addresstwo.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective Date: 12-13-2009**
+**Effective Date: 09-15-2009**
 
 **Privacy Policy**  
 Carter and Company, LLC (dba AddressTwo) is the host company of the AddressTwo System. 
@@ -12,7 +12,11 @@ AddressTwo System (“AddressTwo”) is committed to protecting the privacy of o
 **Information We Collect**  
 
   
-Carter and Company does not collect payment information directly. All payment data is securely processed using PayPal. 
+Carter and Company offers two methods for customer payment: 
+
+  
+•           PayPal: when customers opt for PayPal payment, all payment information is collected and stored securely by PayPal.com. Carter and Company does not store or collect any payment information.  
+•           Credit Card (Visa, MasterCard, American Express): when customers pay using their Visa, MasterCard, or American Express, Carter and Company collects the payment information--including, but not limited to credit card number, expiration date, and billing address--and transmits that information to a 3rd party payment gateway for processing. The web pages where the information is collected, as well as all transmissions to the 3rd party gateway, are encrypted with an SSL certificate. Carter and Company does not store complete payment information on its own servers, but may store reference information such as the last four digits of a credit card number and/or the expiration date. 
 
 Carter and Company asks members to provide 
 
