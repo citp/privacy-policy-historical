@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adesignaward.com privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224084549id_/http%3A//www.adesignaward.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adesignaward.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119134549id_/http%3A//adesignaward.com/privacypolicy.html) for the most accurate reproduction.*
 
 # A' Design Award and Competition - Privacy Policy
 
