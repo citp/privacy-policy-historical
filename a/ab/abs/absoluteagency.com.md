@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525024028id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073615id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
 
-# Запознавање онлајн - Сервис за Запознавање
+# Интернет запознанства - услуги запознанства
 
 ### CONFIDENTIAL DATA NON-DISTRIBUTION AGREEMENT
 
