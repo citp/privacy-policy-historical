@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleknowledgebase.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507024105id_/http%3A//www.articleknowledgebase.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleknowledgebase.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119111740id_/http%3A//articleknowledgebase.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Article Knowledgebase - Internet Marketing Article Advertising
 
