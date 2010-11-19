@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiancorrespondent.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020334id_/http%3A//us.asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancorrespondent.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119152806id_/http%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asian Correspondent
 
