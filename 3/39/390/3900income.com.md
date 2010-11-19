@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3900income.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125143140id_/http%3A//www.3900income.com/index-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3900income.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119072441id_/http%3A//www.3900income.com/index-2.html) for the most accurate reproduction.*
 
-# work from home with 3900income.com - how to make money online
+# work from home with 3900income.com - how to make money
 
 Your privacy is important for us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find we made a Privacy link available on my homepage and at every point where personally identifiable information may be requested. 
 
