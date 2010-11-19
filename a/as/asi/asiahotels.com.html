@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asiahotels.com privacy policy that was archived on 2010-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102014842id_/http%3A//www.asiahotels.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asiahotels.com privacy policy that was archived on 2010-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119142238id_/http%3A//asiahotels.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 			<title>Privacy Policy</title>
@@ -14,6 +14,61 @@
 			<meta name="robots" content="index all, follow all">
 			<meta name="revisit-after" content="7 days">
 		
+		
+	  
+	  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$("#dpChkIn").datepicker({ dateFormat: 'yy-mm-dd', minDate: '0', maxDate: '365', defaultDate: '+18' });
+				$("#dpChkOut").datepicker({ dateFormat: 'yy-mm-dd', minDate: '+1', maxDate: '365', defaultDate: '+20' });
+				nsbCountryChange();
+			});
+		</script>
+		<script type="text/javascript">
+		function createXMLHttpRequest()
+		{
+			try { return new XMLHttpRequest(); } catch(e) {}
+			try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {}
+			alert("XMLHttpRequest not supported");
+			return null;
+		}
+		function nsbCountryChange()
+		{
+			var serverResponse
+			var xhReq = createXMLHttpRequest();
+			xhReq.open("GET", "/Includes/NewSearchCity.asp?country=" + document.nsb.country.value, false);
+			xhReq.onreadystatechange = function() {
+				if (xhReq.readyState != 4)  { return; }
+				serverResponse = xhReq.responseText;
+				};
+			xhReq.send(null);
+			document.getElementById('nsbdiv').innerHTML = "<select name='city'>" + xhReq.responseText + "</select>"
+		}
+		
+		function submitnsbform()
+		{
+			var one_day=1000*60*60*24
+			var daysInRange = ($("#dpChkOut").datepicker( "getDate" ) - $("#dpChkIn").datepicker( "getDate" )) / one_day
+
+			var x = document.getElementById('nsb');
+	        
+		    if (daysInRange > 25) {
+			alert('Your period of stay should be no longer than 25 nights. If you wish to book for more than 25 nights, please send us an e-mail with your request.');
+			return false;
+			}
+			if (daysInRange < 1) {
+			alert('Please ensure that the Check Out date is after the Check In date.');
+			return false;
+			}
+			
+			window.location.href = x.action + "id=68089&ru=/searchresults.asp?checkin=" + x.checkin.value + "%26checkout=" + x.checkout.value + "%26city=" + x.city.value + "%26country=" + x.country.value
+		}
+		
+		</script>
+		
+		
         <style type="text/css" media="screen">
         /*<![CDATA[*/
         <!--
@@ -24,8 +79,9 @@
         -->
         /*]]>*/
         </style>
-
+		<link rel="stylesheet" type="text/css" href="/css/search.css" media="screen">
 		<link rel="stylesheet" type="text/css" href="/includes/ah-css2.css" media="screen">
+		<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
 		
 		<link rel="canonical" href="http://www.asiahotels.com/"> 	
 		
@@ -63,23 +119,65 @@
 					</tbody></table>
 				</td>
 			</tr>
+				
 			<tr>
-				<td width="100%" height="75" bgcolor="#ffcc00" style="vertical-align: bottom;">
-					<div id="mainNav">	
-					<ul id="topLevelNav">
-					    <li class="topLevelNavItem"><a href="/" class="current">Asia Hotels</a></li>
-					    <li class="topLevelNavItem"><a href="/oceania/">Oceania Hotels</a></li>
-					    <li class="topLevelNavItem"><a href="/africa/">Africa Hotels</a></li>
-					    <li class="topLevelNavItem"><a href="http://www.euro-hotels.com">Europe Hotels</a></li>
-					    <li class="topLevelNavItem"><a href="/middle-east/">Middle East Hotels</a></li>
-					    <li class="topLevelNavItem"><a href="/south-america/">South America Hotels</a></li>
-					</ul>
-					</div>
+				<td width="100%" bgcolor="#ffcc00" style="vertical-align: bottom;">  <!-- height="75"  -->
+					<table cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td>
+							
+								<div id="ash-sb">
+									<form name="nsb" id="nsb" action="http://b2b.hotelclub.net/enter.asp?">
+										<div>
+											<h3>Find Hotels</h3>
+											<div id="ash-sb-main">
+												<fieldset class="sel">
+													<select name="country" onchange="nsbCountryChange()"><option value="Andorra">Andorra</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Bahrain">Bahrain</option><option value="Belgium">Belgium</option><option value="Bolivia">Bolivia</option><option value="Bosnia">Bosnia</option><option value="Brazil">Brazil</option><option value="Brunei">Brunei</option><option value="Bulgaria">Bulgaria</option><option value="Cambodia">Cambodia</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Colombia">Colombia</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Croatia">Croatia</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Ecuador">Ecuador</option><option value="Estonia">Estonia</option><option value="Egypt">Egypt</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Guam">Guam</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Irish Republic">Irish Republic</option><option value="Italy">Italy</option><option value="Israel">Israel</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Kuwait">Kuwait</option><option value="Laos">Laos</option><option value="Lebanon">Lebanon</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macau">Macau</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Malta">Malta</option><option value="Monaco">Monaco</option><option value="Morocco">Morocco</option><option value="Myanmar">Myanmar</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Panama">Panama</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Qatar">Qatar</option><option value="Romania">Romania</option><option value="Russia">Russia</option><option value="Saint Lucia">Saint Lucia</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Singapore">Singapore</option><option value="Seychelles">Seychelles</option><option value="Slovenia">Slovenia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Taiwan">Taiwan</option><option value="Thailand">Thailand</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="Uruguay">Uruguay</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option selected="selected" value="Vietnam">Vietnam</option></select>
+												</fieldset>
+												<fieldset class="sel-2">
+												<div id="nsbdiv">
+													<select></select>
+												</div>
+												</fieldset>
+												<fieldset class="txt">
+													<label class="chkin">Check In</label>
+													<input type="text" id="dpChkIn" name="checkin" value="2010-12-08" readonly=""><span class="cal"></span>
+												</fieldset>
+												<fieldset class="txt">
+													<label class="chkout">Check Out</label>
+													<input type="text" id="dpChkOut" name="checkout" value="2010-12-10" readonly=""><span class="cal"></span>
+												</fieldset>
+												<fieldset class="sub">
+													<input type="button" value="Search" onclick="submitnsbform()">
+												</fieldset>
+												<div class="clr"></div>
+											</div>
+										</div>
+									</form>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div id="mainNav">	
+								<ul id="topLevelNav">
+									<li class="topLevelNavItem"><a href="/" class="current">Asia Hotels</a></li>
+									<li class="topLevelNavItem"><a href="/oceania/">Oceania Hotels</a></li>
+									<li class="topLevelNavItem"><a href="/africa/">Africa Hotels</a></li>
+									<li class="topLevelNavItem"><a href="http://www.euro-hotels.com">Europe Hotels</a></li>
+									<li class="topLevelNavItem"><a href="/middle-east/">Middle East Hotels</a></li>
+									<li class="topLevelNavItem"><a href="/south-america/">South America Hotels</a></li>
+								</ul>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
 				</td>
 			</tr>
       
 			<tr><td bgcolor="#FFFFFF" height="16"><img src="/images/blank.gif" height="16" width="1" border="0" alt=""></td></tr>
 		</tbody></table>
+		
 		
 
 
@@ -169,7 +267,7 @@ This policy may be revised from time to time, as new features are added to the s
 			<td>
         <center>
 		<script src="/js_scripts/dw_viewport.js" type="text/javascript"></script>
-<div style="background: transparent top left repeat-x url('/images/new/footer-bg.gif'); border-top: 1px solid #ddd; border-bottom: 1px solid #eee; border-left: 0px; border-right: 0px; font: normal 11px Verdana; margin-top: 10px; margin-bottom: 10px; padding-top: 10px; width:95%; text-align:center"><a target="_blank" href="/emailfriend.asp?ru=http%3A%2F%2Fasiahotels%2Ecom%2Fprivacy%2Easp%3F">Email a friend</a> <b style="font-size: 12px">·</b> <a href="/custservice.asp" target="_parent">Help</a> <b style="font-size: 12px">·</b> <a href="/hotellist-chains.asp" target="_parent">Hotel Chains</a><br><br>
+<div style="background: transparent top left repeat-x url('/images/new/footer-bg.gif'); border-top: 1px solid #ddd; border-bottom: 1px solid #eee; border-left: 0px; border-right: 0px; font: normal 11px Verdana; margin-top: 10px; margin-bottom: 10px; padding-top: 10px; width:95%; text-align:center"><a target="_blank" href="/emailfriend.asp?ru=http%3A%2F%2Fasiahotels%2Ecom%2Fprivacy%2Easp%3F">Email a friend</a> <b style="font-size: 12px">·</b> <a href="/custservice.asp" target="_parent">Help</a> <b style="font-size: 12px">·</b> <a href="/hotellist-chains.asp" target="_parent">Hotel Chains</a> <b style="font-size: 12px">·</b> <a href="http://careers.orbitz.com" target="_blank">Careers</a> <br><br>
 		<p class="sml">Copyright 1997 - 2010 AsiaHotels, All rights reserved.&nbsp;
 			View our <a href="/privacypolicy/termsofuse-policy.asp" target="_parent">Terms of Use</a> and <a href="/privacy.asp" target="_parent">Privacy Policy</a><br><br>
 			</p><div class="sml">
@@ -186,7 +284,13 @@ This policy may be revised from time to time, as new features are added to the s
 				var pageTracker = _gat._getTracker("UA-447182-1"); 
                 pageTracker._trackPageview(); 
             </script>
-</center></td>
+
+			<script type="text/javascript" language="javascript">
+				var vid = '-1082547491';
+				var fileName = 'UpdateVisitorIdentification';
+				document.write('<img src="/Common/' + fileName + '.asp?vid=' + vid + '" height="1" width="1" border="0" alt="" />');		
+			</script><img src="/Common/UpdateVisitorIdentification.asp?vid=-1082547491" height="1" width="1" border="0" alt="">
+		</center></td>
 		</tr>
 		</tbody></table>
 
