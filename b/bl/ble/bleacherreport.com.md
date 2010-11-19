@@ -1,34 +1,30 @@
-> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307051808id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119152806id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_**Privacy Policy**_
-
-Last Updated:  August 1, 2007
+Last Updated:  August 13, 2010
 
 Bleacher Report knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Bleacher Report website, you are accepting the practices outlined in this Privacy Policy.
 
- **  
-What Does This Privacy Policy Cover?**
+ **What Does This Privacy Policy Cover?**
 
 This Privacy Policy covers Bleacher Report's treatment of personal information that Bleacher Report gathers when you are on the  Bleacher Report website (the “Site”) and when you use Bleacher Report services (collectively the “Service”).
 
 This policy does not apply to the practices of third parties that Bleacher Report does not own or control, or to individuals that Bleacher Report does not employ or manage.
 
- **  
-What Personal Information About Users Does Bleacher Report Collect?**
+ **What Personal Information About Users Does Bleacher Report Collect?**
 
 Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We collect the following types of information from our users:
 
 1\. Information You Provide to Us:
 
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information we collect includes:
+We receive and may store any information you enter on our website or provide to us in any other way (including by connecting to Bleacher Report through a third-party service). You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information we collect includes:
 
-* Registration: In order for you to use certain Bleacher Report services, such as submitting new articles to the Site, you must complete a registration form including your full name and email address. 
+* Registration: In order for you to use certain Bleacher Report services, such as submitting new articles to the Site, you must complete a registration form including your full name and email address, or connect with us through a third-party service, which will provide us with information about you from your account with that service as that service may permit. 
 
 * Member Profile: You have the option (but are not required) to enter your full name and the URL of your blog into your member profile for public display on the Site.
 
-* User Content:  You may post your own stories on the Service as well edit and comment on the stories of others (collectively your "User Content").   
+* User Content:  You may post your own stories on the Service as well as edit and comment on the stories of others (collectively your "User Content").   
 
 2\. Automatic Information:
 
@@ -38,13 +34,15 @@ We receive and store any information you enter on our website or provide to us i
 
 * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Bleacher Report cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies , how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. You may choose to disable or  reject cookies when using the Service, but you may not be able to access some of Bleacher Report's most attractive features.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. You may choose to disable or  reject cookies when using the Service, but you may not be able to access some of Bleacher Report's most attractive features.
 
 Some of our business partners may use cookies on our website (for example, advertisers). Bleacher Report has no access to or control over these cookies.
 
-* If you choose to provide posts from your blog via Bleacher Report, we may ask you to paste confirmation code into the external template of your blog that communicates with us to authenticate the blog as an authorized feed and places a badge on your blog identifying you as a Bleacher Report Affiliate.
+* If you choose to provide posts from your blog via Bleacher Report, we may ask you to paste a confirmation code into the external template of your blog that communicates with us to authenticate the blog as an authorized feed and places a badge on your blog identifying you as a Bleacher Report Affiliate.
 
  **How Does Bleacher Report Use My Information?**
+
+We use your information to operate, maintain, and provide to you the features and functionality of the Service.
 
 * Social sharing of User Content: Bleacher Report allows other users to browse stories that you have written, edited, or commented on. This information is made available via your member profile, on the Bleacher Report Play-by-Play, or within the article or history page of the story in which you performed the action on. Bleacher Report may choose to post this data on other site features in the future.
 
@@ -54,13 +52,15 @@ Some of our business partners may use cookies on our website (for example, adver
 
 * API: Bleacher Report may allow third parties access to all Bleacher Report data that is already publicly available through Bleacher Report.com through an application program interface that allows other programs to interact with the Site. Bleacher Report will keep passwords and blog settings private.
 
-* Traffic data: Bleacher Report uses this traffic data, including information gathered from cookies, to help diagnose problems with our servers, analyze trends, research the market for our services, and administer the website.
+* Traffic data: Bleacher Report uses traffic data, including information gathered from cookies, to help diagnose problems with our servers, analyze trends, research the market for our services, and administer the website.
 
  **Will Bleacher Report Share Any of the Information it Receives?**
 
 We will not rent nor sell your personal information to anyone. We share your personal information only as described below.
 
 * Providing the Bleacher Report Service:  Bleacher Report personnel may have access to user information while carrying out their duties in the normal course of Bleacher Report business.  Bleacher Report may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Bleacher Report (for instance, on servers or databases co-located with hosting providers).
+
+* Third-Party Services:  If you connect with Bleacher Report through a third-party service, that service may collect certain information about your connection to Bleacher Report as specified by the third-party service’s policies.
 
 * Business Transfers:  As we develop our business, we may buy or sell assets or business offerings. In these types of transactions, user information is typically one of the business assets that is transferred. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.  In any such transfer of information, your user information would remain subject to the promises made in our Privacy Policy.
 
@@ -76,12 +76,11 @@ We will not rent nor sell your personal information to anyone. We share your per
 
      * Bleacher Report uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Bleacher Report and you do so at your own risk. Once we receive your transmission of information, Bleacher Report makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  This information includes your User Content. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
- **  
-What Information Can I Access?  
-**  
+ **What Information Can I Access?**
+
 You can access your personal information on our website and correct, amend, or delete information that is inaccurate by visiting your user profile setting page.
 
- **What Choices Do I Have?**
+**What Choices Do I Have?**
 
 * You can always opt not to disclose information, but then you may be unable to use certain features on our website. 
 
@@ -89,23 +88,28 @@ You can access your personal information on our website and correct, amend, or d
 
 * You can add or update certain information on pages of the Site. When you update information, however, we often maintain a copy of the unrevised information in our records.
 
-* You may request deletion of your Bleacher Report account by emailing us at [support@bleacherreport.com](mailto:support@bleacherreport.com).
+* You may request deletion of your Bleacher Report account by emailing us at [support@bleacherreport.com](mailto:support%40bleacherreport.com).
 
  **Can Children Use Bleacher Report's Services?**
 
 You must be at least 13 years or older to register to use the Bleacher Report website. Children between the age of 13 and 18 must have parental consent to register.  Bleacher Report does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Bleacher Report. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13,  please contact us at privacy@bleacherreport.com.
 
-   
- **Changes to this Privacy Policy  
-**  
+ 
+
+ **Third Party Links and Advertisers**
+
+The Site contains links to web sites or services of third parties. Bleacher Report is not responsible for the actions of these third parties, including their privacy practices and any content posted on their web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personal information..  
+Bleacher Report uses third-party advertising companies to serve our ads on the Site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites, but will not collect any information which can personally identify you or can be linked to you. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.  
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to view cookies installed on your browser by various online ad networks and opt out of some or all of them. Click here for the NAI gateway opt-out site. <http://networkadvertising.org/managing/opt_out.asp>  
+This site will also allow you to review the third-party advertising companies' privacy policies.
+
+ 
+
+ **Changes to this Privacy Policy**
+
 Bleacher Report may amend this Privacy Policy from time to time, at our sole discretion. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Bleacher Report website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
    
  **Questions?**  
 
-Please e-mail [privacy@bleacherreport.com.](mailto:privacy@bleacherreport.com)
-
-[Back to the Terms of Use](http://beta.bleacherreport.com/pages/terms) 
-
-Certain photos copyright © 2010 by Getty Images.  
-Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.
+Please e-mail [privacy@bleacherreport.com.](mailto:privacy%40bleacherreport.com)
