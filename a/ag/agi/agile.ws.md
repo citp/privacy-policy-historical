@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the agile.ws privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626115158id_/http%3A//agile.ws/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agile.ws privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073121id_/http%3A//agile.ws/home/privacy) for the most accurate reproduction.*
 
-# 
+# Agile Web Solutions Privacy Policy
 
 Agile Web Solutions knows how important your information is and knows you care about how it is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This document describes our privacy policy. By visiting Agile Web Solutions websites, including agilewebsolutions.com, 1Password.com, my.1Password.com, allbrowserbookmarks.com, and other related sites, you are accepting the practices described in this Privacy Notice.
-
-* * *
 
 ### Our Commitment To Privacy
 
@@ -14,7 +12,7 @@ Note that we are not responsible for the content or the privacy policies for web
 
 ### Information We Collect
 
-We collect information submitted by you for the purposes of purchasing Agile Web Solutions products, registering to use our support forums, signup for additional services such as my1Password, or to receive our newsletter or direct e-mail from us.
+We collect information submitted by you for the purposes of purchasing Agile Web Solutions products, registering to use our support forums, signup for additional services, or to receive our newsletter or direct e-mail from us.
 
 In most cases, we only only require your name and e-mail address. In the case of a purchase, we collect your address as well and we do not store any of your credit card or bank account information, but pass it directly to the payment service for the purpose of completing the transaction. We keep records of your purchase for the purpose of receipt and licensing information. Our web servers collect information that identify your IP address, browser information, operating system, and other non-personal information.
 
