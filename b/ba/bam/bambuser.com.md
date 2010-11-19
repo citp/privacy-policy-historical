@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302194340id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119153416id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
 
 # Bambuser | Privacy Policy
 
