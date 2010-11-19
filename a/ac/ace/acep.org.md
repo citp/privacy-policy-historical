@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904063738id_/http%3A//www.acep.org/aboutus.aspx%3Fid%3D30296) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082443id_/http%3A//www.acep.org/aboutus.aspx%3Fid%3D30296) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Notice
 
@@ -20,9 +20,9 @@
 > 
 > **ACEP Member Services and Products**. Generally, ACEP uses data collected to improve its own web content; to respond to visitors' interests, needs and preferences; and to develop new products and services.
 > 
-> **Disclosures to Third Parties**. ACEP also makes member contact information securely available through the ACEP Members Directory to other members through its Web site: Members may remove themselves from the Members Directory or specify what contact information is included by logging into their ACEP online profile and editing their “Mail & Member Directory Preference Information,” or by contacting ACEP Member Services at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).
+> **Disclosures to Third Parties**. ACEP also makes member contact information securely available through the ACEP Members Directory to other members through its Web site: Members may remove themselves from the Members Directory or specify what contact information is included by logging into their ACEP online profile and editing their "Mail & Member Directory Preference Information," or by contacting ACEP Member Services at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).
 > 
-> On occasion, ACEP may also provide limited data to third parties that offer products and services. These limited data include names, job titles, companies and preferred mailing addresses, but do not include business phone numbers, business fax numbers or e-mail addresses. Users may request ACEP refrain from disclosing contact data to third parties by logging into their ACEP profile online and changing their “Mail & Member Directory Preference Information,” or by contacting ACEP Member Services at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).
+> On occasion, ACEP may also provide limited data to third parties that offer products and services. These limited data include names, job titles, companies and preferred mailing addresses, but do not include business phone numbers, business fax numbers or e-mail addresses. Users may request ACEP refrain from disclosing contact data to third parties by logging into their ACEP profile online and changing their "Mail & Member Directory Preference Information," or by contacting ACEP Member Services at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).
 > 
 > **Credit Card Account Information**. ACEP does not disclose credit card account information provided by its members and customers. When members and customers choose to pay using their credit cards, ACEP submits the information needed to obtain payment to the appropriate clearinghouse.  Credit card information submitted online is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us.
 > 
@@ -33,10 +33,9 @@
 > ** This Web site contains links to other web sites. ACEP has no control over and is not responsible for the privacy policies or content of such sites.
 > 
 > **What Means Of Redress Are Available?  
-> ** If any User suspects ACEP has handled its personal information in a manner that does not comply with this privacy statement, please contact ACEP at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).  
-> 
+> ** If any User suspects ACEP has handled its personal information in a manner that does not comply with this privacy statement, please contact ACEP at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).
 
-### ACEP Copyright Notice
+### ACEP Terms of Use and Copyright Notice
 
 > All images, text, programs, and other materials posted on this site are subject to copyrights owned by the American College of Emergency Physicians ("ACEP") and other individuals or entities and are protected by United States copyright laws. Any reproduction, retransmission, distribution or republication of all or part of any images, text, programs, and other materials found on this site is expressly prohibited, unless ACEP or the copyright owner of the material has expressly granted its prior written consent to so reproduce, transmit, or republish the material. All other rights reserved.
 > 
