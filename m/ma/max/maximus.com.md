@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximus.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520090908id_/http%3A//www.maximus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximus.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119061024id_/http%3A//www.maximus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Effective August 17, 2009
 
 ## Our Commitment to Privacy
 
-MAXIMUS, Inc. (together with its affiliates, "MAXIMUS") respects your privacy and we have developed the following policy to demonstrate our commitment to you. This privacy policy applies to personally identifiable information we collect about you on the MAXIMUS Web site located at [www.maximus.com](http://www.maximus.com/) (the “Site”) and describes the types of information collected, how that information is used, and the choices users have about collection and use of this information. This privacy policy does not govern privacy practices associated with offline activities, Web sites other than the Site, or products and services not available or enabled via the Site, except as expressly set forth in this Privacy Policy.
+MAXIMUS, Inc. (together with its affiliates, "MAXIMUS") respects your privacy and we have developed the following policy to demonstrate our commitment to you. This privacy policy applies to personally identifiable information we collect about you on the MAXIMUS website located at [www.maximus.com](http://www.maximus.com/) (the “Site”) and describes the types of information collected, how that information is used, and the choices users have about collection and use of this information. This privacy policy does not govern privacy practices associated with offline activities, Web sites other than the Site, or products and services not available or enabled via the Site, except as expressly set forth in this Privacy Policy.
 
 ## Information We Collect
 
@@ -44,7 +44,7 @@ We may use and share with others aggregated or anonymous (not personally identif
 
 ## Cookies
 
-Like most Web sites, we employ "cookies", "Web beacons", and similar devices to help users more efficiently use the Site and to track your activities. A cookie is small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card and enables MAXIMUS to record your activities and preferences. It cannot be executed as code or deliver viruses. Cookies from MAXIMUS can only be read by MAXIMUS Web sites. A Web beacon is a small transparent gif image that is embedded in an HTML page or e-mail used to track when the page or e-mail has been viewed. MAXIMUS uses cookies and similar devices to track your use of the Site, types of Products and Services viewed and information downloaded, count visitors we receive daily, and our Web servers automatically log the IP/Internet address of your computer. MAXIMUS does not generally use this information to identify you personally. If you do not want your browser to accept cookies, you can modify the cookie option in your browser’s settings. However, some Site features or services may not function properly or be accessible without cookies.
+Like most websites, we employ "cookies", "Web beacons", and similar devices to help users more efficiently use the Site and to track your activities. A cookie is small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card and enables MAXIMUS to record your activities and preferences. It cannot be executed as code or deliver viruses. Cookies from MAXIMUS can only be read by MAXIMUS websites. A Web beacon is a small transparent gif image that is embedded in an HTML page or e-mail used to track when the page or e-mail has been viewed. MAXIMUS uses cookies and similar devices to track your use of the Site, types of Products and Services viewed and information downloaded, count visitors we receive daily, and our Web servers automatically log the IP/Internet address of your computer. MAXIMUS does not generally use this information to identify you personally. If you do not want your browser to accept cookies, you can modify the cookie option in your browser’s settings. However, some Site features or services may not function properly or be accessible without cookies.
 
 ## Choice
 
