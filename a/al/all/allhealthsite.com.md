@@ -1,21 +1,29 @@
-> *The following text is extracted and transformed from the allhealthsite.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111070320id_/http%3A//www.allhealthsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthsite.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119032904id_/http%3A//www.allhealthsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllHealthSite.com - Health Articles and Health News
 
-**Posted:** January 11th 2009 By **[Admin](http://www.allhealthsite.com/author/Doctor/ "Posts by Admin")   **    under: **[Vitamins](http://www.allhealthsite.com/category/vitamins "View all posts in Vitamins")**     Tags: ****
+## Privacy Policy
 
-**www.AllHealthSite.com** ensures that it offers the latest technological nuances to its visitors and also strives to offer the best-in-class personalized experience. There would be some sections on the site that would require you to enter your personal details such as name, email address, contact number and your residential address. However, we would like to inform our users that all this above mentioned information collected shall be subject to this privacy policy.
+AllHealthSite.com provides you with the best technical services to its visitors and makes all efforts for best experiences. The users will feel safe and secure in an enjoyable environment. The site is open to all for surfing but some classified sections are restricted for regular members only who are required to abide by certain rules. The visit to these particular areas would require your identification and some personal details for our record. The usual details asked for are your full name, email address, contact numbers and your residential address. The above information collected will form part of our Privacy Policy.
 
-**Information Collection**
+## Information regarding Use of our Site
 
-All the users of this site are hereby notified that we would never sell, distribute or barter any of your personal information to any unauthorized company on the internet. The way we collect information would solely depend on the page you want to visit and the activities you want to participate in. For an instance, you would be asked to register yourself in case if you wish to publish your opinion on a subject. An email address is mandatory if you want to subscribe to our health newsletters. You would also be asked your personal information if you desire to buy anything from this website.
+  * You are required to inform us whether you will use this site for personal use or for business purposes.
+  * Information related to transactions carried out on the Website.
+  * Information necessary for subscribing to the Website services (credit card details when needed)
 
-All the interactive areas of the site such as the forums, chat rooms, message boards do not allow complete anonymity and hence you would also be required to set up your personalized account there.
 
-www.AllHealthSite.com also monitors the information posted by all the users in order to avoid inappropriate activities on the site. There are some tools that collect some of your data automatically such as the IP address. This allows the site owners to view the physical location of the computer from where the content was posted. This information shall not be provided to any third party except the government organisations with an official permission to do so.
 
-The aggregate information which is the information that does not necessarily identify you could be used in a lot of ways such as to identify the usage patterns of the visitors in general. This is solely used to enhance the services provided by us for the reason that it gives us a fair idea of what content or design was appreciated by the users and which one wasn’t. This aggregate information may perhaps be shared with all those concerned in advertising with us or interested in some sort of business with us.
+## Information Secrecy
 
-**Policy Change**
+All regular users of the AllHealthSite.com are assured that we will never pass on your personal information and details to anyone else, distribute, barter or sell to anyone. The information requested will be according to the intended use of our Website. Your interest in our health newsletter will make your email address a must. Some more details may be needed when you buy anything on our Website. 
 
-www.AllHealthSite.com reserves all the rights to change the above mentioned policy at any time. The users are requested to visit this page at regular intervals for changes. Your use of this site following the changes would mean that you accept this policy. Information posted on this site at any given time shall be used in accordance to the rules and laws applied at that time when the information was collected.
+AllHealthSite.com is well introduced in the internet market and can provide ample leads to message boards, chat rooms and various interactive forums besides other website links. In such spheres complete obscurity is not possible. So you will be required to set a personalized account there to facilitate activities. The internet world is expanding Net wise with better and more sophisticated software becoming available. The whole mankind is coming closer to each other, literally being squeezed into ONE NET. So the world around you would like to know more about you as you would like to know more about them when you all surf together.
+
+AllHealthSite.com as a matter of right monitors all the information and data that are posted as a precaution to discourage unpopular activities and to keep the site tidy. There are some specific users who can withdraw your IP address and information automatically to track your computer connection’s physical location for verification with regard to the material posted or matter downloaded. Such official requests from Government Agencies are only admitted and no third parties will be entertained without your own consent.
+
+Internet activities are developing very fast and users often wish to know the source from where the good work and beneficial products/postings are originating and also for academic reasons. Your limited introduction is at times helpful for the users and your products. This also enhances the Website versatility. This approach is considered an indirect appreciation and encouragement for good postings. The users listing their products are often interested to trace the areas that are attracting clientage. Keeping all the aspects in view, we believe limited introductions to be always helpful. When we are projecting something, the reactions we follow and should be welcome.
+
+## Privacy Policy Change
+
+AllHealthSite.com can change and amend the Privacy Policy as it deems necessary without informing the users/members. However, the changes made will be posted in our Website immediately.
