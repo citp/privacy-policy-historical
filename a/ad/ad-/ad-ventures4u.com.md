@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad-ventures4u.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031341id_/http%3A//www.ad-ventures4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-ventures4u.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082247id_/http%3A//ad-ventures4u.com/privacy.php) for the most accurate reproduction.*
 
 # Ad-ventures4u.com | Best Online Advertising
 
