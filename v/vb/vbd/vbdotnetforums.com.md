@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509195438id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119033404id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
 
 # NC Software Privacy Statement
 
@@ -42,7 +42,7 @@ Your information may be stored and processed in the United States or any other c
 
 When you register, or otherwise give us personal information, NC Software, Inc. will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-Registering also allows you to tell us how or whether you wantNC Software, Inc. to communicate with you. After registering, go to the [ Mailing Lists section](https://web.archive.org/web/20100509195438id_/http%3A//www.nc-software.com/mailinglists.aspx) and establish your preferences. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you by removing check marks from the contact option boxes. If you buy software through [secure.nc-software.com](http://www.nc-software.com/), and do not want to receive such information, do not check the box on the Checkout page (or on other pages where personal information is collected).
+Registering also allows you to tell us how or whether you wantNC Software, Inc. to communicate with you. After registering, go to the [ Mailing Lists section](https://web.archive.org/web/20101119033404id_/http%3A//www.nc-software.com/mailinglists.aspx) and establish your preferences. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you by removing check marks from the contact option boxes. If you buy software through [secure.nc-software.com](http://www.nc-software.com/), and do not want to receive such information, do not check the box on the Checkout page (or on other pages where personal information is collected).
 
 NC Software, Inc.may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
 
@@ -91,5 +91,4 @@ _This document was last updated July 1, 2009._
   
 © 2010 NC Software, Inc. All rights reserved.  
 Logbook Pro® is a registered trademark of NC Software, Inc.  
-All other trademarks or registered trademarks are property of their respective owners  
- 
+All other trademarks or registered trademarks are property of their respective owners
