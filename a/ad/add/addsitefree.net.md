@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addsitefree.net privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413051153id_/http%3A//www.addsitefree.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addsitefree.net privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073840id_/http%3A//addsitefree.net/privacy.php) for the most accurate reproduction.*
 
 # Add Site Free .NET - Free oneway links - Free Links Directory - Privacy Policy
 
