@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyvite.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528115244id_/http%3A//anyvite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyvite.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119093455id_/http%3A//anyvite.com/privacypolicy) for the most accurate reproduction.*
 
 # Anyvite | Privacy Policy
 
