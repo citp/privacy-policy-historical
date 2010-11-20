@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapbooksetc.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105800id_/http%3A//www.scrapbooksetc.com/sbe/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbooksetc.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120015959id_/http%3A//www.scrapbooksetc.com/sbe/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dno) for the most accurate reproduction.*
 
 # 
 
