@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120080821id_/http%3A//www.intertrader.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120232444id_/http%3A//www.intertrader.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Intertrader.com - Privacy Policy
 
