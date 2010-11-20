@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimrohn.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622235800id_/http%3A//www.jimrohn.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimrohn.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111710id_/http%3A//www.jimrohn.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Security Statement : Inspirational Quotes - Personal Development - Motivational Quotes & More - Jim Rohn International
 
