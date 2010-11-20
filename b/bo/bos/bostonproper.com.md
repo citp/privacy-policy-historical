@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604170815id_/http%3A//www.bostonproper.com/custserv/custserv.jsp%3FareaName%3DPrivacy%26leftNavArea%3DCust%2BServ%2BLeft%2BNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182637id_/http%3A//www.bostonproper.com/custserv/custserv.jsp%3FareaName%3DPrivacy%26leftNavArea%3DCust%2BServ%2BLeft%2BNav) for the most accurate reproduction.*
 
 # Boston Proper | Privacy and Security
 
