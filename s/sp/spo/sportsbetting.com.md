@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbetting.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612165217id_/http%3A//www.sportsbetting.com/privacy.html%3FWT.svl%3Dprv_r3c2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbetting.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094512id_/http%3A//www.sportsbetting.com/privacy.html%3FWT.svl%3Dprv_r3c3a) for the most accurate reproduction.*
 
 # Privacy—Online Sports Betting, Online Sportsbook, Racebook Betting, Casino & Poker
 
@@ -68,7 +68,7 @@ We also may send you site and service announcement updates. You are not able to 
 
 * #### Correction/Updating Personal Information
 
-If your personally identifiable information (such as your e-mail address) changes, or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove your personal data provided to us. This can usually be done by [contacting our customer service department via Live Chat](http://server.iad.liveperson.net/hc/13561672/?cmd=file&file=visitorWantsToChat&site=13561672&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a), or calling them toll-free - North America: 1 (888) 672-2863, UK: (0) 800-008-7612. Changes to your e-mail address and physical address should also be sent to us using [this form](https://web.archive.org/help/forms/comments.html), if you wish to continue to receive our newsletter and our free CD ROM software.
+If your personally identifiable information (such as your e-mail address) changes, or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove your personal data provided to us. This can usually be done by [contacting our customer service department via Live Chat](http://server.iad.liveperson.net/hc/13561672/?cmd=file&file=visitorWantsToChat&site=13561672&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a), or calling them toll-free - North America: 1-866-395-1043 , UK: (0) 800-008-7612. Changes to your e-mail address and physical address should also be sent to us using [this form](https://web.archive.org/help/forms/comments.html), if you wish to continue to receive our newsletter and our free CD ROM software.
 
 * #### Not Accessible by Minors
 
