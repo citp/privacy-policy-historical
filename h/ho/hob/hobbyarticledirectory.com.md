@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbyarticledirectory.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516141529id_/http%3A//www.hobbyarticledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbyarticledirectory.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094726id_/http%3A//www.hobbyarticledirectory.com/privacy.php) for the most accurate reproduction.*
 
 # Hobby Article Directory
 
