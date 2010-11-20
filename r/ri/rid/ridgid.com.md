@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridgid.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205185125id_/http%3A//www.ridgid.com/Tools/Privacy-Policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridgid.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094418id_/http%3A//ridgid.com/Tools/Privacy-Policy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - RIDGID Professional Tools
 
