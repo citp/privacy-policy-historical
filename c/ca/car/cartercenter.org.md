@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615040315id_/http%3A//www.cartercenter.org/about/faqs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120123205id_/http%3A//cartercenter.org/about/faqs/privacy.html) for the most accurate reproduction.*
 
 # The Carter Center: Frequently Asked Questions
 
-Website Privacy Statement for The Carter Center, Inc. 
+Website Privacy Statement for The Carter Center, Inc.
 
   
 The Carter Center collects the following information regarding visitors: IP addresses; Internet service provider; pages visited; country of origin; length of visit; files downloaded. This information enables The Carter Center to improve website site design and function and is not distributed externally.
