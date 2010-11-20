@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selinks.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110133653id_/http%3A//www.selinks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selinks.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120061235id_/http%3A//www.selinks.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Selinks.com
+# Sell Links, Buy Text Link Ads. Selinks - Link Building Service
 
 **PRIVACY POLICY**
 
