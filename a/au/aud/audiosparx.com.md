@@ -1,39 +1,44 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102071719id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193208id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-order sound wav,  
-audio wav files,  
-wav file sounds,  
-audiowarez,  
-sound effects mask,  
-fx,  
+sound library,  
+samples,  
+game sound effects,  
+mp3 downloads,  
 kb sounds,  
-mp3 audio,  
-mp3s download,  
-system wav files,  
+find wav files,  
+sound clips wav files,  
+noises samples,  
+with wav files,  
 office wav files,  
-wav sound bytes,  
-efeitos sadios,  
-productos audio profesional,  
-surround sound effects,  
-sound lighting,  
-音響効果,  
-wav file sounds,  
-audio wav files,  
-order sound wav 
+themes wav files,  
+mp3s,  
+sound track wav,  
+infografia multimedia 3d,  
+wav soundbites,  
+sonido para eventos,  
+sound dogs,  
+sound effect,  
+wav sound files,  
+sound effects download 
 
 |  |   
 ---  
 | 
 
+|   
+---  
+  
+  
+  
 **Privacy Policy of AudioSparx  **
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
 
-** 1.  What Personal Information Do We Collect?**
+** 1.  What Personal Information Do We Collect and Save?**
 
-  * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.    
+  * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We collect and save the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.    
  
   * **Cookies.** Like many websites, we use "cookies".  Your browser will automatically store one cookie that allows us to recognize you and to provide you with a customized shopping experience.  And most importantly, the cookie is what maintains your "logged in" state once you register and login to the site.  If you delete our cookie from your browser, you will no longer be logged into our web site.
 
@@ -50,11 +55,13 @@ We know that you care how your information is used, and we appreciate your trust
  
   * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.   
  
-  * **Special Offers**.  We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers.  Please see the “opt-in/opt-out” selection at the end of this policy.    
+  * **Special Offers**.  We may send you special offers from time to time, unless you choose to opt-out of receiving such offers.  Please see the opt-in/opt-out selection at the end of this policy.    
  
   * **Business Transfers**. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.  
  
-  * **Law Enforcement.    **If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * **Law Enforcement.    **If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.   
+ 
+  * **Internal Reference.**   The information we collect and save is used for internal reference purposes, to administer our business operations in a proper manner.
 
 
 
@@ -63,7 +70,7 @@ We know that you care how your information is used, and we appreciate your trust
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We use encryption to protect your information contained in our customer list. 
   * We use a firewall to protect against unlawful intrusion. 
-  * We limit access to your information on a “need to know” basis. 
+  * We limit access to your information on a need to know basis. 
   * We transmit the your credit card number to the appropriate credit card company during order processing. 
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
   * No system can guarantee absolute security, just as the finest lock can not guarantee physical security.  However, we take every reasonable precaution to assure that your data is secure. 
@@ -91,28 +98,34 @@ We know that you care how your information is used, and we appreciate your trust
 
 > We reserve the right to modify this policy in the future.
 
-*************************************
-
-|   
-Copyright © 1996 - 2010 AudioSparx               [Privacy Policy](https://web.archive.org/sa/privacy/privacy_policy.cfm)    [Terms & Conditions](https://web.archive.org/sa/license.cfm)      Hostname: AXC2  
+*************************************  
   
-wav files work,  
-open wav files,  
-mp3 wav files,  
-sondage,  
-desarrollo de aplicaciones multimedia,  
+  
+  
+  
+
+
+[](http://www.audiosparx.com/)  
+  
+Copyright © 1996 - 2010 AudioSparx    [Privacy Policy](https://web.archive.org/sa/privacy/privacy_policy.cfm)    [Terms & Conditions](https://web.archive.org/sa/license.cfm)    Hostname: AXC2    Language: English  
+  
+audiosparx,  
+audio sounds,  
+sounds noises,  
+new noise,  
+kb sounds,  
+sound clips wav files,  
+with wav files,  
+noises clips,  
+music effects,  
+weird sounds wav,  
+xp wav sounds,  
+wav audio sounds,  
 download mp3s,  
-commercial sounds,  
-audio,  
-aiff,  
+xp wav files,  
 the movie sounds,  
-sound bytes wav files,  
-used mp3,  
-24-bit sound effects,  
-system wav files,  
-fx,  
-sfx mask,  
-mp3 audio,  
-mp3 wav files,  
-open wav files,  
-wav files work 
+office wav sounds,  
+mp3s download,  
+tv sound effects,  
+sound effects com,  
+sounds 
