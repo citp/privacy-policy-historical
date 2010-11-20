@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogcarnival.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003236id_/http%3A//blogcarnival.com/bc/p_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcarnival.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120093435id_/http%3A//blogcarnival.com/bc/p_privacy.html) for the most accurate reproduction.*
 
 # Blog Carnival - Privacy Policy
 
-This is the privacy policy for Blog Carnival LLC, which are a part of our [Terms of Service](https://web.archive.org/web/20100102003236id_/http%3A//blogcarnival.com/bc/p_tos.html). Our homepage on the Web is located at [ http://blogcarnival.com](http://blogcarnival.com/). The full text of our privacy policy is available on the Web at [ http://blogcarnival.com/bc/p_policy.html](http://blogcarnival.com/bc/p_policy.html). 
+This is the privacy policy for Blog Carnival LLC, which are a part of our [Terms of Service](https://web.archive.org/web/20101120093435id_/http%3A//blogcarnival.com/bc/p_tos.html). Our homepage on the Web is located at [ http://blogcarnival.com](http://blogcarnival.com/). The full text of our privacy policy is available on the Web at [ http://blogcarnival.com/bc/p_policy.html](http://blogcarnival.com/bc/p_policy.html). 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
     
