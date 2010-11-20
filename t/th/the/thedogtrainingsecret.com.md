@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518052531id_/http%3A//www.thedogtrainingsecret.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120183832id_/http%3A//www.thedogtrainingsecret.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,5 @@ All affiliate information, including address, phone number, e-mail address, and 
 If you have questions or concerns regarding this statement, please contact our Customer Support.
 
  
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=thedogtrainingsecret.com)
