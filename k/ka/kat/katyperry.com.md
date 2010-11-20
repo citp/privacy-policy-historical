@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katyperry.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417072026id_/http%3A//www.capitolrecords.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katyperry.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120170208id_/http%3A//www.capitolrecords.com/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Capitol Records - Privacy Policy
 
