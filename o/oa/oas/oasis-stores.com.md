@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330022743id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184954id_/http%3A//www.oasis-stores.com/pws/Content.ice%3Fpage%3DSecurityPrivacy%26pgForward%3Dinformation) for the most accurate reproduction.*
 
 # OASIS Privacy and Security - Oasis Womens Fashion Clothing Shop UK - www.Oasis-Stores.com
 
@@ -8,23 +8,27 @@ We are part of Aurora Fashions and we take your privacy very seriously. We work 
 
 If you are under 18, we require that you inform a guardian or parent regarding Oasis privacy policy before ordering online.
 
-## Product Information 
+##   
+Product Information 
 
 We have made every effort to display the colours and descriptions of our products that appear on the website as accurately as possible. However, as the actual colours you see will depend on your monitor, we cannot guarantee that your monitor’s display of any colours will accurately reflect the colour of product on delivery. 
 
 Prices are inclusive of VAT. Goods are subject to availability.
 
-## No Junk Mail 
+##    
+No Junk Mail 
 
 We know that everyone is busy, and nobody likes their email inbox cluttered up with junk mail.
 
 We will only send you marketing messages if you choose to receive them from us or third parties we work with and think you may be interested in hearing from. If you choose to receive our mailings or our partner’s mailings, we will only send you details about items and promotions which we think will be of interest to you. If you decide that you no longer want to receive emails from [www.oasis-stores.com](http://www.oasis-stores.com/), you can unsubscribe at any time by clicking [here](https://web.archive.org/pws/ENews.ice?page=eNewsPage) and selecting ‘Unsubscribe’. We will never sell your details to an unconnected third party for marketing purposes.
 
-## Website Security
+##   
+Website Security
 
 When you shop at our website we use a 128-bit SSL encrypted secure internet connection to protect your payment details. Your computer should automatically allow the opening of the secure connection when you place your order. This means that all the details you supply and any responses are encrypted before they are sent over the internet.
 
-## What information do we collect and how will we use it?
+##   
+What information do we collect and how will we use it?
 
 When you place an order with us we collect certain information which is required to allow us to process your transaction and deliver your order. This includes your personal details, order details, details of your address(es) and payment details. We will also ask if you are an Oasis cardholder or not.
 
@@ -40,13 +44,15 @@ For quality control and training purposes, we may monitor or record your communi
 
 We will keep your information for as long as is reasonably necessary for these purposes.
 
-## What you can expect from us?
+##   
+What you can expect from us?
 
 We will at all times comply with the standards, procedures and requirements of UK data protection laws to ensure that the personal information you give us is kept appropriately secure and processed fairly and lawfully.
 
 We may have to pass your information to countries or jurisdictions which do not provide the same level of data protection as the UK, if necessary for the above purposes. If we do make such a transfer, however, we will (where necessary) always put a contract in place to ensure that your information is properly protected.
 
-## Other people who might use your information
+##   
+Other people who might use your information
 
 In order to process your order and deliver your purchases to you we may have to pass your information to some of our service providers. This includes the companies who handle our order dispatch service and our delivery company. Your contact telephone number will be passed on to our courier company who may contact you by phone or text message in order to update you on the delivery date or time of your order.
 
@@ -56,13 +62,15 @@ In assessing your request for goods or services, we may use your information for
 
 We will not pass your information to any third parties outside of Aurora Fashions Ltd, except where required to do so as a part of the sale, disposal or transfer of our business, in whole or in part.
 
-## Updating your personal details
+##   
+Updating your personal details
 
 We want to make sure that the information we hold about you is correct and up to date at all times. You can at any time amend or update your information by clicking [here](http://www.oasis-stores.com/pws/secure/ManageAccount.ice?pgForward=myoasis) to log in and update your details.
 
 You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee).
 
-## Cookies
+##   
+Cookies
 
 In order to improve your experience when shopping on the website we use cookies.
 
@@ -74,6 +82,7 @@ If you want to delete any cookies that are already on your computer, please refe
 
 Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). However, please note that if you disable the use of cookies on your computer, you will not be able to shop on our website.
 
-## And lastly
+##   
+And lastly
 
 ### This Privacy Statement may change and therefore you should review it regularly. We will of course notify you of any changes where we are required to do so. If you have any questions relating to this statement, please email [help@oasis-stores.com.](mailto:help@oasis-stores.com)
