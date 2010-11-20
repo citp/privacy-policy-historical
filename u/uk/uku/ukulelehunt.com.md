@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukulelehunt.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509171027id_/http%3A//ukulelehunt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukulelehunt.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192103id_/http%3A//ukulelehunt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ukulele Hunt
 
@@ -35,6 +35,8 @@ This Site uses Cookies to obtain information about the preferences of consumers 
 Like most standard Web site servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information.
 
 We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user’s needs and interests. This Site does not use Cookies or log files to collect end users’ names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user’s interests, but will not share this information with third parties.
+
+This Site does not store and credit card numbers given by phone.
 
 This Site has relationships with other companies that we allow to place ads and links on our Web pages. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
