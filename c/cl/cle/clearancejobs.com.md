@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619082724id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192145id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Security Clearance Jobs - ClearanceJobs.com
 
 |  |  |   
-  
-|  |   |   
 ---|---|---  
-|  | Privacy Policy  
----  
   
 Last updated: 08/25/08
 
-We at Dice, JobsintheMoney, ClearanceJobs and Targeted Job Fairs (collectively, "Dice") are committed to good privacy practices regarding your personal information. Your loyalty as a job seeker, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your experience with Dice an enjoyable and satisfying one.
+**ClearanceJobs.com Privacy Policy**
+
+We at Dice, JobsintheMoney, ClearanceJobs, AllHealthCareJobs, and Targeted Job Fairs (collectively, "Dice") are committed to good privacy practices regarding your personal information. Your loyalty as a job seeker, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your experience with Dice an enjoyable and satisfying one.
 
 Although Dice respects the privacy of all those who visit our Web sites and use our online services, we do collect information from our visitors, including job seekers and customers. This Privacy Policy governs your interaction with the Dice web site and your registration for and use of Dice's online services (collectively, the "Services"). Except as set forth within this Privacy Policy and our [Terms of Use](http://seeker.dice.com/common/seeker/docs/terms_and_conditions.jsp) and other published guidelines, we do not release personally identifiable information about our members and visitors without their permission.
 
@@ -86,8 +84,4 @@ If you would like to have your personally identifiable information removed from 
 
 ## Questions?
 
-Questions regarding this Privacy Policy should be directed to [privacy@dice.com](mailto:privacy@dice.com).   
-  
-|   |   
-  
-
+Questions regarding this Privacy Policy should be directed to [privacy@dice.com](mailto:privacy@dice.com). 
