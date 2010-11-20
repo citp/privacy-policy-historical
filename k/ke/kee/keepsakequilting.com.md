@@ -1,32 +1,64 @@
-> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525105407id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192121id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security
 
   | 
 
-Keepsake Quilting is committed to safeguarding and respecting your privacy. We maintain our own secure servers and mail operations on our own premises, and handle all your information with the utmost care. If you have any questions or concerns about how we handle your information, please ask us (see contact information listed below). 
+**PRIVACY POLICY**
 
-**Information we collect**
+The effective date of this Policy is July 1, 2010. 
 
-Just as we record your information (name, address, phone, credit card, etc.) when you place an order with us by mail or over the telephone, we receive and store that same information when you enter it on our Web site. We need that information to process your order, streamline future orders and communicate with you if necessary. In addition to this information, additional data is stored automatically when you shop online with us, such as the Web browser and operating system you use, and the specific IP address used to connect to our Web site.   
-Please note: Credit card numbers and customer information DOES NOT reside on our Web Server, but is transmitted securely using 128 bit encryption to/from our OFFLINE fulfillment system. 
+**SUMMARY**
 
-**How we handle e-mail**
+This privacy policy applies to personally identifiable information about you that may be collected by Keepsake Quilting and its affiliates and parent company (collectively, "we", "us" or "our") through http://www.KeepsakeQuilting.com (the "Website").    
+We respect your privacy, and we want you to understand what information we collect online, how we protect it and how we use it— and to provide clear instructions if you choose to request changes in how we communicate with you. By using the Website, you agree that you have reviewed and understood this Privacy Policy to your full satisfaction, that you accept and are subject to this Privacy Policy, and that we are permitted to use personally identifiable information about you as described in this Privacy Policy.
 
-When you provide us your e-mail address (either by entering it on our site or communicating with us via e-mail), we may send you e-mails necessary to process your order, respond to a request, provide customer service, or promote products or services. However, we only want to send promotional materials to those who wish to receive them. Any promotional e-mail sent to you will contain the opportunity to unsubscribe to the service. Your e-mail address will never be shared with any other company. If you prefer, you may contact us directly (see our contact information below). 
+GENERAL CONTACT INFORMATION  
+Our postal address is:  
+Keepsake Quilting, Inc  
+PO Box 1618  
+Center Harbor, NH 03226
 
-**How we handle postal addresses**
+**INFORMATION WE COLLECT**  
+_Automatic data collection_   
+  Certain identifying information is automatically collected when you visit the Website.  We may collect identifying information that allows us to track the number of visitors we receive and the way they navigate through the Website.  For example, our web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors’ IP addresses in their domain-name form, allowing us to understand for instance how many visitors access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form. We may use IP addresses and anonymous demographic information in the aggregate to share with advertisers and market researchers, and to improve the design of the Website to better serve our customers.  While it may be possible to correlate this information to particular individuals, we do not generally do so.  We may share this aggregated information with other third parties.  We reserve the right to drill down into anonymous demographic information in order to investigate unlawful conduct and/or breaches of this Privacy Policy.  
+  We also collect both user-specific and aggregate information on date and time you accessed the Website, the page or pages you visited and images you accessed, the web site you arrived to the Website from and the web site that you depart. We may use this information in the aggregate to share with advertisers and market researchers, to improve the content and design of the Website to better serve our customers, and to customize the content and layout of our pages for you.  
+  We use cookies to store visitors’ preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Website content based on visitors’ browser type or other information that the visitor sends. We use both session cookies and persistent cookies. Cookies generated by the Website may be stored in your computer.  You can configure your web-browser to disable cookies, but doing so may impair your use of the Website.
 
-If you supply us with your postal address, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by contacting us directly (see our contact information below). We occasionally share our customer postal mailing list with other fine companies whose products we think you might enjoy. If you'd prefer not to have your name shared, let us know by e-mailing, calling or writing to us at the address listed below. We will then immediately place you on our do-not-share list. 
+_Information supplied by you_   
+  If at any time you enter your email address on any page of the Website, we may collect and retain that information. Pages through which we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. If you provide us with your email address, you may receive periodic promotional emails from us with information regarding special offers or new products or services. We do not rent email addresses to third parties. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the Website.  
+  If you supply us with your postal address online, you may receive periodic mailings from us and selected third parties with information on new products and services.   
+  If you supply us with their telephone numbers, you may receive telephone contact from us with information regarding new products and services or upcoming events. We do not rent telephone contact information to third parties.   
+  We may keep other information supplied by you through the Website, such as survey information and/or site registrations, both in aggregate and personally identifiable ways.   
+  Be aware that the Company is not responsible for any personal information you post online in our message boards, product reviews or image galleries.
 
-**How we handle phone numbers**
+**HOW WE MAY SHARE YOUR INFORMATION**   
+  We may share information we collect from you through the Website with third parties that assist us in providing our services or products or otherwise responding to your requests or orders.    
+Further, we may share such information with third parties, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents, for market and industry research purposes, for advertising and marketing purposes, and potentially other reasons.
 
-If you supply us with your telephone number online, you may receive telephone contact from us with information regarding orders you have placed online. If you chose to communicate with us in this way, please provide us with your correct phone number. (Your phone number will never be shared with any outside organization). 
+**CHILDREN**  
+  The Website is not intended for children under the age of 13, and the Company does not intentionally collect personally-identifiable information from children under 13.  If you have reason to believe that we have collected personally-identifiable information from someone under 13 years of age, please let us know.
 
-**Contacting us**
+**California Privacy Rights**   
+  Pursuant to California Civil Code Section 1798.83, if you are a California resident, you may be able to request certain information about our sharing of your personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to Keepsake Quilting, Inc, Attention: Privacy, PO Box 1618, Center Harbor, NH 03226 or by email to customerservice@keepsakequilting.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the products or services (website, magazine, club, etc.) you have used.
 
-We invite you to contact us at anytime for any reason, and we will get back to you as soon as we possibly can:   
-E-mail us at [customerservice@keepsakequilting.com](mailto:customerservice@keepsakequilting.com)   
-Telephone us at: 1-800-525-8086 (domestic)   
-1-603-253-8148 (international)   
-Write to us at: PO Box 1618, Center Harbor, NH 03226 
+**OPT OUT PROCEDURES**  
+  If you do not wish to receive unsolicited email communications from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at customerservice@keepsakequilting.com. To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the Company products or services (web site, magazine, club, event, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all Company emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.  
+  Note that, although you can opt not to receive unsolicited emails, the Company retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).  
+  If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: Keepsake Quilting, Inc, Attention: List Manager, PO Box 1618, Center Harbor, NH 03226 or by email to customerservice@keepsakequilting.com To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the Company products or services (web site, magazine, club, event, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all Company contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request. 
+
+**THIRD PARTY LINKS**  
+  Our site contains links to other websites whose information practices may be different than ours. You should consult the other sites' privacy policies, as we have no control over information that you may submit or that the third parties collect on those sites.
+
+**INFORMATION ACCESS**   
+  Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.   
+  You can access this information by sending your request to: Keepsake Quilting, Inc. PO Box 1618, Center Harbor, NH 03226 or by email to customerservice@keepsakequilting.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the Company products or services (website, magazine, club, event, etc.) you have used.  
+Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: Keepsake Quilting, Inc, Attention: Privacy, PO Box 1618, Center Harbor, NH 03226 or by email to customerservice@keepsakequilting.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the Company products or services (website, magazine, club, event, etc.) you have used.
+
+**SECURITY**  
+  It is our intent to protect against the loss, misuse or alteration of information that we have collected from you or received from a partner. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities. It is our practice to use encryption whenever we receive or transmit sensitive data.  
+When you make a purchase, request a catalog or create an account on our Web site, your transactional information is transmitted in a safe, encrypted format. 
+
+**CHANGES TO THIS POLICY**   
+  From time to time, we may use your information for new, unanticipated uses not previously disclosed in this Privacy Policy. If our information practices change at some time in the future, we will post the policy changes here.  
+  If you believe that this site is not following its stated information policy, you may contact us at the above address and state or local chapters of the Better Business Bureau.
