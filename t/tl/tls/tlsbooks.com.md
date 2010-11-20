@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403070021id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120014748id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy practices for our free worksheet site
 
