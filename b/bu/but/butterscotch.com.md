@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butterscotch.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011751id_/http%3A//www.butterscotch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterscotch.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120082706id_/http%3A//butterscotch.com/privacy.html) for the most accurate reproduction.*
 
 # butterscotch.com privacy statement
 
@@ -84,4 +84,4 @@ Tucows.com gives users options wherever necessary and practical, such choices in
 
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of each newsletter. How To Contact Us 
 
-If you ever need to contact us via email, [click here](https://web.archive.org/web/20100102011751id_/http%3A//www.butterscotch.com/feedback@butterscotch.com). 
+If you ever need to contact us via email, [click here](https://web.archive.org/web/20101120082706id_/http%3A//butterscotch.com/feedback@butterscotch.com). 
