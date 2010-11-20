@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619085704id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190437id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # MHVillage.com - Privacy Policy
 
-  
-MHVillage.com takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+MHVillage.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 ### What This Privacy Policy Covers
 
@@ -55,5 +54,5 @@ MHVillage.com
 Customer Service  
 2600 Five Mile Road NE  
 Grand Rapids, MI 49525   
-(616) 363-8454  
+(800) 397-2158  
 CustomerService@MHVillage.com
