@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-suite.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522101732id_/http%3A//www.pdf-suite.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-suite.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094101id_/http%3A//www.pdf-suite.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # PDF Suite - PDF Reader & Writer: View, Create, Modify, Print PDF files
 
@@ -43,4 +43,4 @@ We use a third party web analytics service to improve our web site performance a
 
 Contact Information
 
-[ www.interactivebrands.com ](http://www.interactivebrands.com/) welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us.](https://web.archive.org/web/20100522101732id_/http%3A//www.pdf-suite.com/Support.aspx?lang=en)
+[ www.interactivebrands.com ](http://www.interactivebrands.com/) welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us.](https://web.archive.org/web/20101120094101id_/http%3A//www.pdf-suite.com/support.aspx?lang=en)
