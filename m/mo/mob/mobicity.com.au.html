@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mobicity.com.au privacy policy that was archived on 2010-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612041257id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobicity.com.au privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120182435id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title> Privacy  | MobiCity</title>
@@ -10,13 +10,26 @@
 
 <link rel="canonical" href="http://www.mobicity.com.au/about/privacy.html"><link rel="icon" href="http://www.mobicity.com.au/skin/frontend/default/mobicityau/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.mobicity.com.au/skin/frontend/default/mobicityau/favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.2.3/jquery.min.js"></script>
-
-<link href="http://prod.500friends.com/stylesheets/thickbox_sb_v2.css" rel="stylesheet" type="text/css">
-<script src="http://prod.500friends.com/javascripts/social_buy_v4_mobicity.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 
 <script type="text/javascript">
 jQuery(document).ready(function() {
+
+	jQuery(".product-options select").mousedown(function(){
+        if(jQuery.browser.msie) {
+            jQuery(this).css("width","auto");
+        }
+    });
+    jQuery(".product-options select").change(function(){
+        if ($.browser.msie) {
+            jQuery(this).css("width","99%");
+        }
+    });
+    jQuery(".product-options select").blur(function(){
+        if (jQuery.browser.msie) {
+            jQuery(this).css("width","99%");
+        }
+    });
 
     // On document ready hide all images first
     jQuery("#imageShowcase img").hide();
@@ -90,7 +103,7 @@ jQuery(document).ready(function() {
         
 <div class="header-top-container">
     <div class="header-top">
-	<div class="header-top-inner">
+        <div class="header-top-inner">
         <h1 id="logo"><a href="http://www.mobicity.com.au/"><img style="position: relative; top: 0px; left: 5px" src="http://www.mobicity.com.au/skin/frontend/default/mobicityau/images/logo.gif"></a></h1>
         <p class="no-display"><a href="#main"><strong>Skip to Main Content »</strong></a></p>
                 <div class="quick-access">
@@ -106,7 +119,7 @@ jQuery(document).ready(function() {
                     </ul>
    </div>
             </div>
-			<div class="box base-mini mini-cart">
+                        <div class="box base-mini mini-cart">
     <div class="head">
         	
         <h4>My Cart</h4>
@@ -117,7 +130,16 @@ jQuery(document).ready(function() {
 	
             <div class="content"><p>You have no items in your cart.</p></div>
     </div>
-<!-- [ends] .cart-sidebar // -->            			<div class="box currency-switcher">
+<!-- [ends] .cart-sidebar // -->            <!--
+<div class="language-switcher">
+    <label for="select-language">Your Language: </label>
+    <select id="select-language" onchange="window.location.href=this.value">
+                    <option value="http://www.mobicity.com.au/about/privacy.html?___store=default&amp;___from_store=default" selected="selected">MobiCity.com.au</option>
+                    <option value="http://www.wholesale.mobicity.com.au/about/privacy.html?SID=m7ns914nujpgup32npqlpe4fq2&amp;___store=mobicityau_wholesale&amp;___from_store=default" >Wholesale.mobicity.com.au</option>
+        </select>
+</div>
+-->
+                        <div class="box currency-switcher">
     <div class="head">
         <h4>Select Your Currency:</h4>
     </div>
@@ -144,17 +166,17 @@ function changeCurrency(sObject){
 }
 //]]>
 </script>
-			<!-- EXCEED-Sergei -->
-			<!-- BoldChat Live Chat Button HTML v1.20 (Type=Web,ChatButton=My Custom Chat Button,ChatWindow=Mobicity Custom Chat Window,Website=www.mobicity.com.au,Department=Sales) -->
+                        <!-- EXCEED-Sergei -->
+                        <!-- BoldChat Live Chat Button HTML v1.20 (Type=Web,ChatButton=My Custom Chat Button,ChatWindow=Mobicity Custom Chat Window,Website=www.mobicity.com.au,Department=Sales) -->
 
 <div class="box chat">
 <a href="https://livechat.boldchat.com/aid/5242136487965112689/bc.chat?cwdid=2155525514102573137&amp;wdid=3097025465784490210&amp;rdid=175511444850564616" target="_blank" onclick="window.open('https://livechat.boldchat.com/aid/5242136487965112689/bc.chat?cwdid=2155525514102573137&amp;wdid=3097025465784490210&amp;rdid=175511444850564616&amp;url=' + escape(document.location.href), 'Chat9062204172654294986', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
 <img alt="MobiChat with an Expert" src="https://cbi.boldchat.com/aid/5242136487965112689/bc.cbi?cbdid=355015194307297762&amp;wdid=3097025465784490210&amp;rdid=175511444850564616" border="0"></a>
 </div>
 
-<!-- /BoldChat Live Chat Button HTML v1.20 -->			<!-- [END]EXCEED-Sergei -->
+<!-- /BoldChat Live Chat Button HTML v1.20 -->                        <!-- [END]EXCEED-Sergei -->
         </div>
-	</div>
+        </div>
     </div>
 </div>
 <div class="header-nav-container">
@@ -162,14 +184,8 @@ function changeCurrency(sObject){
         <h4 class="no-display">Category Navigation:</h4>
         <ul id="nav">
                     <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-phone-categories parent">
-<a href="http://www.mobicity.com.au/phone-categories.html"><span>Finder</span></a>
+<a href="http://www.mobicity.com.au/phone-categories.html"><span>Browse</span></a>
 <ul class="level0">
-<li class="level1 nav-phone-categories-mobile-news">
-<a href="http://www.mobicity.com.au/phone-categories/mobile-news.html"><span>Latest Mobile News</span></a>
-</li>
-<li class="level1 nav-phone-categories-top-phones">
-<a href="http://www.mobicity.com.au/phone-categories/top-phones.html"><span>MobiCity Recommends</span></a>
-</li>
 <li class="level1 nav-phone-categories-coming-soon">
 <a href="http://www.mobicity.com.au/phone-categories/coming-soon.html"><span>Coming Soon</span></a>
 </li>
@@ -188,17 +204,27 @@ function changeCurrency(sObject){
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-phone-categories-smartphones parent">
 <a href="http://www.mobicity.com.au/phone-categories/smartphones.html"><span>Smartphones</span></a>
 <ul class="level1">
-<li class="level2 nav-phone-categories-smartphones-windows-mobile">
-<a href="http://www.mobicity.com.au/phone-categories/smartphones/windows-mobile.html"><span>Windows Mobile</span></a>
+<li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level2 nav-phone-categories-smartphones-windows parent">
+<a href="http://www.mobicity.com.au/phone-categories/smartphones/windows.html"><span>Windows</span></a>
+<ul class="level2">
+<li class="level3 nav-phone-categories-smartphones-windows-windows-phone">
+<a href="http://www.mobicity.com.au/phone-categories/smartphones/windows/windows-phone.html"><span>Windows Phone 7</span></a>
 </li>
+<li class="level3 nav-phone-categories-smartphones-windows-windows-mobile last">
+<a href="http://www.mobicity.com.au/phone-categories/smartphones/windows/windows-mobile.html"><span>Windows Mobile</span></a>
+</li>
+</ul></li>
 <li class="level2 nav-phone-categories-smartphones-android">
 <a href="http://www.mobicity.com.au/phone-categories/smartphones/android.html"><span>Android</span></a>
 </li>
 <li class="level2 nav-phone-categories-smartphones-symbian">
 <a href="http://www.mobicity.com.au/phone-categories/smartphones/symbian.html"><span>Symbian</span></a>
 </li>
-<li class="level2 nav-phone-categories-smartphones-maemo-meego last">
+<li class="level2 nav-phone-categories-smartphones-maemo-meego">
 <a href="http://www.mobicity.com.au/phone-categories/smartphones/maemo-meego.html"><span>Maemo/Meego</span></a>
+</li>
+<li class="level2 nav-phone-categories-smartphones-superphones last">
+<a href="http://www.mobicity.com.au/phone-categories/smartphones/superphones.html"><span>Superphones</span></a>
 </li>
 </ul></li>
 <li class="level1 nav-phone-categories-nextg">
@@ -210,11 +236,8 @@ function changeCurrency(sObject){
 <li class="level1 nav-phone-categories-touchscreens">
 <a href="http://www.mobicity.com.au/phone-categories/touchscreens.html"><span>Touchscreen Phones</span></a>
 </li>
-<li class="level1 nav-phone-categories-camera-phones">
-<a href="http://www.mobicity.com.au/phone-categories/camera-phones.html"><span>Camera Phones</span></a>
-</li>
-<li class="level1 nav-phone-categories-music-phones">
-<a href="http://www.mobicity.com.au/phone-categories/music-phones.html"><span>Music Phones</span></a>
+<li class="level1 nav-phone-categories-camera-music-phones">
+<a href="http://www.mobicity.com.au/phone-categories/camera-music-phones.html"><span>Camera Phones</span></a>
 </li>
 <li class="level1 nav-phone-categories-fashion-phones">
 <a href="http://www.mobicity.com.au/phone-categories/fashion-phones.html"><span>Fashion Phones</span></a>
@@ -225,8 +248,11 @@ function changeCurrency(sObject){
 <li class="level1 nav-phone-categories-basic-phones">
 <a href="http://www.mobicity.com.au/phone-categories/basic-phones.html"><span>Basic Phones</span></a>
 </li>
-<li class="level1 nav-phone-categories-cheap-mobile-phones last">
+<li class="level1 nav-phone-categories-cheap-mobile-phones">
 <a href="http://www.mobicity.com.au/phone-categories/cheap-mobile-phones.html"><span>Cheap Phones</span></a>
+</li>
+<li class="level1 nav-phone-categories-tablets last">
+<a href="http://www.mobicity.com.au/phone-categories/tablets.html"><span>Tablets</span></a>
 </li>
 </ul></li>
                     <li class="level0 nav-nokia">
@@ -239,7 +265,7 @@ function changeCurrency(sObject){
 <a href="http://www.mobicity.com.au/lg.html"><span>LG</span></a>
 </li>
                     <li class="level0 nav-sony-ericsson">
-<a href="http://www.mobicity.com.au/sony-ericsson.html"><span>Sony Ericsson</span></a>
+<a href="http://www.mobicity.com.au/sony-ericsson.html"><span>SonyEricsson</span></a>
 </li>
                     <li class="level0 nav-htc">
 <a href="http://www.mobicity.com.au/htc.html"><span>HTC</span></a>
@@ -250,9 +276,22 @@ function changeCurrency(sObject){
                     <li class="level0 nav-motorola">
 <a href="http://www.mobicity.com.au/motorola.html"><span>Motorola</span></a>
 </li>
-                    <li class="level0 nav-iphone">
+                    <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-iphone parent">
 <a href="http://www.mobicity.com.au/iphone.html"><span>iPhone</span></a>
+<ul class="level0">
+<li class="level1 nav-iphone-iphone-4">
+<a href="http://www.mobicity.com.au/iphone/iphone-4.html"><span>iPhone 4</span></a>
 </li>
+<li class="level1 nav-iphone-iphone-3gs">
+<a href="http://www.mobicity.com.au/iphone/iphone-3gs.html"><span>iPhone 3GS</span></a>
+</li>
+<li class="level1 nav-iphone-iphone-3g">
+<a href="http://www.mobicity.com.au/iphone/iphone-3g.html"><span>iPhone 3G</span></a>
+</li>
+<li class="level1 nav-iphone-ipad last">
+<a href="http://www.mobicity.com.au/iphone/ipad.html"><span>iPad</span></a>
+</li>
+</ul></li>
                     <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-more parent">
 <a href="http://www.mobicity.com.au/more.html"><span>More</span></a>
 <ul class="level0">
@@ -271,16 +310,19 @@ function changeCurrency(sObject){
 <li class="level1 nav-more-modu-phone">
 <a href="http://www.mobicity.com.au/more/modu-phone.html"><span>modu Phone</span></a>
 </li>
-<li class="level1 nav-more-kindle-and-notebooks-from-amazon">
-<a href="http://www.mobicity.com.au/more/kindle-and-notebooks-from-amazon.html"><span>Kindle/Netbooks</span></a>
-</li>
-<li class="level1 nav-more-garmin-asus last">
+<li class="level1 nav-more-garmin-asus">
 <a href="http://www.mobicity.com.au/more/garmin-asus.html"><span>Garmin-Asus</span></a>
+</li>
+<li class="level1 nav-more-millennius last">
+<a href="http://www.mobicity.com.au/more/millennius.html"><span>Millennius</span></a>
 </li>
 </ul></li>
                     <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-accessories parent">
 <a href="http://www.mobicity.com.au/accessories.html"><span>Accessories</span></a>
 <ul class="level0">
+<li class="level1 nav-accessories-premium-accessories">
+<a href="http://www.mobicity.com.au/accessories/premium-accessories.html"><span>Premium Accessories</span></a>
+</li>
 <li class="level1 nav-accessories-value-packs">
 <a href="http://www.mobicity.com.au/accessories/value-packs.html"><span>Value Packs</span></a>
 </li>
@@ -327,8 +369,8 @@ function changeCurrency(sObject){
     </div>
 
 <div class="header_bottom_details">
-	<ul class="top_ul">
-		<li class="header_search"><form id="search_mini_form" action="http://www.mobicity.com.au/catalogsearch/result/" method="get">
+        <ul class="top_ul">
+                <li class="header_search"><form id="search_mini_form" action="http://www.mobicity.com.au/catalogsearch/result/" method="get">
     <fieldset>
         <legend>Search Site</legend>
         <div class="mini-search">
@@ -345,18 +387,17 @@ function changeCurrency(sObject){
     </fieldset>
 </form>
 </li>
-		<li class="customer"><a href="http://www.mobicity.com.au/customer-service/">Customer Service</a></li>
-		<li class="customer"><a href="http://www.mobicity.com.au/extras/buyers-guide.html/">Buying Guide</a></li>
-		<li class="call">Call Us 1300 14 66 24</li>
-	</ul>
-	<ul class="bottom_ul">
-		<li class="fire"><a href="http://www.mobicity.com.au/phone-categories/out-now.html/">Latest Phones<br><span>Brand New in Box</span></a></li>
-		<li class="lock"><a href="/about/our-stock.html">All Phones Unlocked<br><span>For Use on Any Network*</span></a></li>
-		<li class="twl"><a href="/extras/warranty.html">12 Month Australian Warranty<br><span>Extensive Repair Network</span></a></li>
-		<li class="tick"><a href="/extras/returns.html">48 Hour Guarantee<br><span>Quality &amp; Satisfaction Assured</span></a></li>
-	</ul>
+                <li class="customer"><a href="http://www.mobicity.com.au/customer-service/">Company Information</a></li>
+                <li class="customer"><a href="http://www.mobicity.com.au/about/faq.html/">FAQs</a></li>
+                <li class="call"><a href="http://www.mobicity.com.au/contacts/">Contact Us -</a> 1300 14 6624</li>
+        </ul>
+        <ul class="bottom_ul">
+                <li class="fire"><a href="http://www.mobicity.com.au/phone-categories/out-now.html/">Latest Phones<br><span>Original and Brand New</span></a></li>
+                <li class="lock"><a href="/about/our-stock.html">All Phones Unlocked<br><span>For Use on Any Network*</span></a></li>
+                <li class="twl"><a href="/extras/warranty.html">Local Repair Network<br><span>Australian Warranty Services</span></a></li>
+                <li class="tick"><a href="/extras/returns.html">Satisfaction Guarantee<br><span>Quality &amp; Service Assured</span></a></li>
+        </ul>
 </div>
-
 
     </div>
 <!-- end header -->
@@ -408,6 +449,10 @@ function changeCurrency(sObject){
 <div style="background: #E7F1F4; padding: 5px; border: 1px solid #A0B3C3;">
 
 	<div style="padding: 2px; border-bottom: 1px dotted #24364A;">
+		<a href="/about/faq.html">Frequently Asked Questions</a>
+	</div>
+
+	<div style="padding: 2px; border-bottom: 1px dotted #24364A;">
 		<a href="/extras/delivery.html">Delivery</a>
 	</div>
 	
@@ -424,7 +469,7 @@ function changeCurrency(sObject){
 	</div>
 	
 	<div style="padding: 2px; border-bottom: 1px dotted #24364A;">
-	<a href="/extras/mobicare.html">MobiCare</a>
+	<a href="/contacts/">MobiCare</a>
 	</div>
 	
 	<div style="padding: 2px; border-bottom: 1px dotted #24364A;">
@@ -533,10 +578,10 @@ We will deal with all requests for access to personal information as quickly as 
 <br>
 Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. <br>
 <br>
-If you would like to access details of the personal information held by Simply Mobiles Pty Ltd about you, please email the Privacy Officer at admin@etailsolutions.com.au or contact us in writing at the following address: <br>
+If you would like to access details of the personal information held by Simply Mobiles Pty Ltd about you, please email the Privacy Officer at admin@mobicity.com.au or contact us in writing at the following address: <br>
 <br>
 Attn: Privacy Officer<br>
-eTail Solutions Pty Ltd<br>
+MobiCity<br>
 Shop 1, 196 Wynnum Rd,<br>
 Norman Park, <br>
 Qld 4170</p>            <!-- end content -->
@@ -559,22 +604,26 @@ Qld 4170</p>            <!-- end content -->
                                                                                 </h3>
                                                                 </div>
                                                                 <div class="news_letter_right">
-                                                                                <form method="get" action="http://exceedmail.createsend.com/t/y/s/dkkjky/">
-                                                                                                <input type="text" value="your name" class="name" name="cm-name">
-                                                                                                <input type="text" value="email address" class="email" id="dkkjky-dkkjky" name="cm-dkkjky-dkkjky">
+                                                                                <form action="http://mobicity.us1.list-manage.com/subscribe/post?u=3ddf57749a3bc03a31977ff3b&amp;id=1409f6caa1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                                                                                                <input type="text" value="Name" name="FNAME" class="required name" id="mce-FNAME">
+                                                                                                <input type="text" value="Email address" name="EMAIL" class="required email" id="mce-EMAIL">
                                                                                                 <input id="submit" type="submit" name="" value="">
                                                                                 </form>
                                                                 </div>
                                                                 <div class="clear">
 </div>
 <div class="footer_details">
+<div align="left">
+<strong>*Subject to end user telecommunications provider and legislative authority requirements.</strong>
+</div>
+<div style="float:left;padding-top:30px;">
 				<ul>
 					<li class="link_head">Our Products</li>
 					<li><a href="http://www.mobicity.com.au/nokia.html">Nokia</a></li>
 					<li><a href="http://www.mobicity.com.au/samsung.html">Samsung</a></li>
 					<li><a href="http://www.mobicity.com.au/lg.html">LG</a></li>
 					<li><a href="http://www.mobicity.com.au/blackberry.html">Blackberry</a></li>
-					<li><a href="http://www.mobicity.com.au/apple.html">iPhone</a></li>
+					<li><a href="http://www.mobicity.com.au/iphone.html">iPhone</a></li>
 					<li><a href="http://www.mobicity.com.au/sony-ericsson.html">Sony Ericsson</a></li>
 					<li><a href="http://www.mobicity.com.au/htc.html">HTC</a></li>
 					<li><a href="http://www.mobicity.com.au/motorola.html">Motorola</a></li>
@@ -589,26 +638,30 @@ Qld 4170</p>            <!-- end content -->
 					<li><a href="http://www.mobicity.com.au/contacts/">Contact Us</a></li>
 					<li><a href="http://www.mobicity.com.au/about/privacy.html">Privacy Policy</a></li>
 		                        <li><a href="https://www.addthis.com/bookmark.php" style="text-decoration:none;" class="addthis_button">Bookmark or Share</a></li>
-                                        <li><a href="https://www.facebook.com/mobicity" "="">Follow on Facebook</a></li>
-                                       <li><a href="http://feedity.com/rss.aspx/mobicity-com-au/UVNUUlFR">RSS</a></li>
+                                        <li><a href="https://www.facebook.com/mobicityfans" "="">Follow on Facebook</a></li>
+                                       <li><a href="https://www.shopperapproved.com/certificates/mobicity.co/">Customer Reviews</a></li>
                                                  				</ul>
 				<ul class="nopadding">
 					<li class="link_head">Buying Guides</li>
 					<li><a href="http://www.mobicity.com.au/phone-categories/basic-phones.html">Basic Phones</a></li>
 					<li><a href="http://www.mobicity.com.au/phone-categories/camera-phones.html">Camera Phones</a></li>
 					<li><a href="http://www.mobicity.com.au/phone-categories/music-phones.html">Music Phones</a></li>
-					<li><a href="http://www.mobicity.com.au/phone-categories/fashion-phones.html">Fashion Phones</a></li>
 					<li><a href="http://www.mobicity.com.au/phone-categories/business-pda.html">Business Phones</a></li>
 					<li><a href="http://www.mobicity.com.au/phone-categories/touchscreens.html">Touchscreen Phones</a></li>
-					<li><a href="http://www.mobicity.com.au/phone-categories/nextg.html">Next G Compatible Phones</a></li>
-<li><a href="http://www.mobicity.com.au/phone-categories/dual-sim-phones.html" title="Dual SIM Phones">Dual SIM Phones</a></li>
+					<li><a href="http://www.mobicity.com.au/phone-categories/nextg.html">NextG and XT Compatible</a></li>
+                                        <li><a href="http://www.mobicity.com.au/phone-categories/dual-sim-phones.html" title="Dual SIM Phones">Dual SIM Phones</a></li>
+					<li><a href="http://www.mobicity.com.au/phone-categories/smartphones/android.html">Android Phones</a></li>
+					<li><a href="http://www.mobicity.com.au/windows-phone-7">Windows Phone 7</a></li>
 				</ul>
 <div class="clear"></div>
 <div style="float:left;padding-top:30px;">
+<p align="left">
 
-© 2008 MobiCity, Australian Sales/Support ABN 79 141 833 534 
-	
+© 2010 MobiCity, Australian Sales/Support 1300 14 6624
+</p>
 </div>
+</div>
+
 
 <!-- Bold Software Visitor Monitor HTML v2.00 (Website=www.mobicity.com.au,ChatWindow=Mobicity Custom Chat Window,ChatInvitation=Mobicity Invite Ruleset) -->
 <script language="JavaScript" type="text/javascript">
@@ -647,24 +700,47 @@ try {
 						<input type="text" class="search" name="q">
 						<input id="search" type="submit" src="images/search_btn.gif" value="" name="">
 					</form>
-<a name="trustlink" href="https://secure.trust-guard.com/certificates/www.mobicity.com.au" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href,'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;">
-<img name="trust seal" alt="Security Seal" style="border: 0;" src="https://secure.trust-guard.com/seals/1778/scanned/large/gray"></a><script type="text/javascript" src="https://secure.trust-guard.com/seals/seal-scripts/1778.js"></script>
-					<img border="0" align="right" alt="" src="/skin/frontend/default/mobicityau/images/we_accept_img.jpg">
+<p>
+</p><table width="340" border="0" align="right">
+<tbody><tr>
+  <td width="55%">
+<a name="trustlink" href="http://secure.trust-guard.com/certificates/www.mobicity.com.au" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;">
+<img name="trustseal" alt="Security Verified" style="border: 0;" src="https://secure.trust-guard.com/seals/1778/scanned/header/white"></a><script type="text/javascript" src="https://secure.trust-guard.com/seals/seal-scripts/1778.js"></script>
+</td>
+<td width="45%">
+<a href="https://www.shopperapproved.com/certificates/www.mobicity.co/" onclick="return sa_open(this);" target="_blank">
+<img src="https://www.shopperapproved.com/seals/382-r.gif" onmouseover="sa_over(this);" onmouseout="sa_out(this);" style="border: 0" alt=""></a>
+<script src="https://www.shopperapproved.com/seals/scripts/382.js" type="text/javascript"></script>
+</td>
+</tr>
+</tbody></table>   
+<p></p>
+
+
+					<!--<img border="0" align="right" alt="" src="/skin/frontend/default/mobicityau/images/we_accept_img.jpg"/>-->
 					<div class="clear"></div>
-					<ul>
+<table border="0" cellpadding="0" cellspacing="0" align="right">
+<tbody><tr>
+<td width="28%">
+<ul>
 						<li class="paddbtm"><strong>Contact Us</strong></li>
-						<li>1300 14 66 24</li>
-						<li><a href="http://www.mobicity.com.au/contacts/">Email Sales</a></li>
+						<li>1300146624</li>
+						<li><a href="https://www.mobicity.com.au/contacts/">Email Sales</a></li>
 					</ul>
+</td><td width="44%">
 					<ul>
-						<li class="paddbtm"><strong>Open Hours (AEST)</strong></li>
-						<li>9am - 5pm Mon - Thur</li>
-						<li>9am - 4pm Fri</li>
+						<li class="paddbtm"><strong>Open Hours (AEDT)</strong></li>
+						<li>0930 -1700 Mon - Thur</li>
+						<li>0930 - 1600 Fri</li>
 					</ul>
+</td>
+<td width="28%" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications." align="right" valign="bottom"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.MobiCity.com.au&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
+</td>
+</tr>
+</tbody></table>
 					<div class="clear"></div>
 
 			</div>
-
 </div>
 <!--
 <p class="legality">
