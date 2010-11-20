@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the petizens.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529191924id_/http%3A//www.petizens.com/Aboutus.php%3Fbtmid%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petizens.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120111738id_/http%3A//www.petizens.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="pragma" content="no-cache">
@@ -17,16 +17,15 @@
 <!--[if IE 6]>
 <script type="text/javascript" language="javascript" src="/js/bgsleight.js"></script>
 <![endif]-->
-<script language="javascript" src="/Ajax/prototype.js"></script>
-<script type="text/javascript" src="/lib/fbconnect.js?v=1"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/effects.js?v=1"></script>
-<script type="text/javascript" src="/js/window.js?v=1"></script>
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+<script type="text/javascript" language="javascript" src="/Ajax/prototype.js"></script>
+<script type="text/javascript" language="javascript" src="/js/common.js"></script>
+<script type="text/javascript" language="javascript" src="/js/effects.js?v=1"></script>
+<script type="text/javascript" language="javascript" src="/js/window.js?v=1"></script>
 </head>
 <body><script type="text/javascript">
 	var linkc="";
 	header_userinfo= "";
+	linkc ='<a href="/viewcompetition.php">Competition</a><br/>';
 </script>
 
 <!--[if lte IE 6]>
@@ -35,7 +34,7 @@
 <![endif]-->
 <script type="text/javascript">
 function ajaxlogin(){
-	var action  ="ajaxlogin";
+	var action  = "ajaxlogin";
 		
 	var url     = "http://www.petizens.com/doAjax.php";
 	
@@ -43,8 +42,8 @@ function ajaxlogin(){
 	var password   = document.getElementById("password").value;
 	var postStr    = "action=ajaxlogin&username="+username+"&password="+password;
 	var ajax = InitAjax();
-        var protocol=document.location.protocol;
-        var host=document.location.host;
+        var protocol = document.location.protocol;
+        var host     = document.location.host;
 	ajax.open("POST", url, true);
 	ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
 	ajax.send(postStr);
@@ -67,8 +66,7 @@ function viewPetHtml(pa){
 	}else{
 		var nowcolor = cssr[6].style.backgroundColor;	
 	}
-	
-	var str= '<a href="/petpages">Search</a><div style="line-height:20px; width:84px;text-align:left;padding:4px;font-weight:normal;background-color:'+nowcolor+';margin:0 0 0 -5px;*margin:17px 0 0 -76px; z-index:2147483647;position:inherit;font-size:11px;border-right:3px solid gray;border-bottom:3px solid gray;" id="view_pet" ><a href="/petpages">Pet search</a><br/><a href="/petphotos">Photo search</a><br/><a href="/petvideos">Video search</a ><br/><a href="/view-birthdays.php">Birthday Pets</a ><br/><a href="/petowners">User search</a ><br/>'+linkc+'</div>';
+	var str= '<a href="/petpages">Search</a><div style="text-align:left; height:16px;line-height:16px; border:none;font-weight:normal;background-color:'+nowcolor+';margin: 0 -35px 0; z-index:2147483647;position:inherit;font-size:11px;" id="view_pet" ><a href="/petpages">Pet search</a><a href="/petphotos">Photo search</a><a href="/petvideos">Video search</a><a href="/view-birthdays.php">Birthday Pets</a ><a href="/petowners">User search</a ><a href="/group/search.php">Group search</a >'+linkc+'</div>';
 	var viewpetli = document.getElementById('viewpetli');
 		viewpetli.innerHTML = str;
 	
@@ -90,7 +88,7 @@ function homeHtml(pa){
 		var nowcolor = cssr[6].style.backgroundColor;	
 	}
 	
-	var str= '<a href="/">Home</a><div style="line-height:20px; width:94px;text-align:left;padding:4px;font-weight:normal;background-color:'+nowcolor+';margin:0 0 0 -5px;*margin:17px 0 0 -64px; z-index:2147483647;position:inherit;font-size:11px;border-right:3px solid gray;border-bottom:3px solid gray;" id="m_index"><a href="/buy_membership.php">Buy Membership</a><br/><a href="/buyPetopian.php">Buy Petopian$</a><br/></div>';
+	var str= '<a href="/">Home</a><div style="text-align:left;font-weight:normal;margin: 0 -50px 0 -30px; background-color:'+nowcolor+'; z-index:2147483647;position:inherit;font-size:11px;color:#fff;" id="m_index"><a href="/buy_membership.php">Buy Membership</a><a href="/buyPetopian.php">Buy Petopian$</a></div>';
 	
 	
 	var li_index = document.getElementById('li_index');
@@ -111,7 +109,7 @@ function myaccountHtml(pa){
 	}else{
 		var nowcolor = cssr[6].style.backgroundColor;	
 	}
-	var str= '<a href="/scratchpost_mine.php">My Account</a><div style="line-height:20px; width:84px;text-align:left;padding:4px;font-weight:normal;background-color:'+nowcolor+';margin:0 0 0 -5px;*margin:17px 0 0 -83px; z-index:2147483647;position:inherit;font-size:11px;border-right:3px solid gray;border-bottom:3px solid gray;" id="m_account" ><a href="/scratchpost_mine.php">MyScratchpost</a><br/><a href="/myaccount.php">Mailbox</a><br/><a href="/users/'+header_userinfo+'">MyProfile</a><br/><a href="/scratchpost_friend.php">FriendsPosts</a><br/></div>';
+	var str= '<a href="/scratchpost_mine.php">My Account</a><div style="line-height:20px;text-align:left; height:16px;line-height:16px; border:none;font-weight:normal; background-color:'+nowcolor+';margin: 0 -25px; z-index:2147483647;position:inherit;font-size:11px;border-right:3px solid gray;border-bottom:3px solid gray;" id="m_account" ><a href="/scratchpost_mine.php">MyScratchpost</a><a href="/myaccount.php">Mailbox</a><a href="/users/'+header_userinfo+'">MyProfile</a><a href="/scratchpost_friend.php">FriendsPosts</a></div>';
 
 	
 	var li_account = document.getElementById('li_account');
@@ -127,72 +125,86 @@ function myaccountHtml(pa){
 </script>
 
 <div id="header">
-  <div class="top_bg"></div>
-  <div class="header_left">
-  	<div class="log_image"><a href="http://www.petizens.com/" title="Petizens.com"><img src="http://www.petizens.com/Template/skinDefault/images/petizens-logo.png" width="250" height="65" border="0"></a></div>
-
-<!--<div style="position:absolute;margin:-100px 0 0 270px;"><a  href="/competition.php" title="Petizens Easter Fun Contest"><img src="http://www.petizens.com/Template/skinDefault/images/competition/easterbanner.jpg" width="468" height="90" border="0"></a>
-<div style="position:absolute;margin:-40px 0 0 410px;*margin:50px 0 0 -65px;z-index:2147483647;"><a href="/competition.php" title="Petizens Easter Fun Contest"><img src="http://www.petizens.com/Template/skinDefault/images/competition/bunny.gif" width="75"/></a></div>
-</div>
--->
-  	<div id="net_navigator" class="net_navigator">
-      <ul id="net_navigator_ul">
-        <li class="nl"></li>
-        <li class="nm" id="li_index"><a href="http://www.petizens.com/">Home</a></li>
-        <li class="nr"></li>
-        <li class="nl"></li>
-        <li class="nm" id="li_account"><a href="http://www.petizens.com/scratchpost_mine.php">My Account</a></li>
-        <li class="nr"></li>
-        <li class="nl"></li>
-        <li class="nm" id="viewpetli"><a href="http://www.petizens.com/petpages">Search</a></li>
-        <li class="nr"></li>
-		<li class="nl"></li>
-        <li class="nm"><a href="http://www.petizens.com/forum">Forum</a></li>
-        <li class="nr"></li>
-		<li class="nl"></li>
-        <li class="nm"><a href="http://www.petizens.com/knowledge">Knowledge</a></li>
-        <li class="nr"></li>
-        <li class="nl"></li>
-        <li class="nm"><a href="http://www.petizens.com/caption">Fun &amp; Games</a></li>
-        <li class="nr"></li>
-		<!--<li class="nl"></li>
-        <li class="nm" ><a href="http://www.petizens.com/Aboutus.php">Help</a></li>
-        <li class="nr"></li>-->
-              </ul>
-	</div>
-  </div>
-
-  <div class="header_right">
-    	<div class="header_right_botton round" style="background:white; border:1px solid #000; padding:3px;">
- 
-      <span style="color:black;padding-bottom:10px;"><a href="/users/"></a></span>
-	<div>
-
-     </div>
-
-      
-<!--         -->
-<!-- for FBConnect -->
-    <!-- for FBConnect -->
- 
-	    	         <span class="f_left" style="text-align:left;line-height:2.2em;">
-                                          <input type="button" value="" style="border:0px;width:80px;height:20px; background:url(http://www.petizens.com/Template/skinDefault/images/icon/FB_connect.jpg) no-repeat;cursor:pointer;" onclick="loadfb_cont();">
-                     |<a href="http://www.petizens.com/login.php">Login</a>|<a href="http://www.petizens.com/register.php">Register</a></span>
-         <span class="f_left" style="text-align:left;line-height:2.2em;">
-        <input class="login_txtbox" name="username" type="text" id="username" value="Username or e-mail" size="10" maxlength="50" onfocus="javascript:if(this.value=='Username or e-mail') this.value=''">
+	<div class="h_left"></div>
+    <div class="h_center">
+    	<div class="f_left log-img"><a href="http://www.petizens.com/" title="Petizens.com"><img src="http://www.petizens.com/Template/skinDefault/images/skin1/petizens-logo.png" width="250" height="65"></a></div>
         
-		<input class="login_txtbox" name="password" type="password" id="password" onfocus="javascript:if(this.value=='******') this.value=''" value="******" size="10" maxlength="30" onkeydown="javascript:if((window.event||event).keyCode ==13) ajaxlogin()"> 
-		<input name="" type="button" style="border:0px; background:url(http://www.petizens.com/Template/skinDefault/images/login_btn.gif) no-repeat; width:54px; height:24px;cursor:pointer;" onclick="ajaxlogin();"></span>
-		 </div>
-  </div>
-  	
-	<div class="selecedColor nav_height">
-    <!-- AddThis Button BEGIN -->
-<a class="addthis_button f_right" href="http://addthis.com/bookmark.php?v=250&amp;username=petizens"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=petizens"></script>
-<!-- AddThis Button END -->
-		</div>
+      <div class="f_left" style="margin:15px 0 0 15px"><a href="/competition.php"><img src="/Template/skinDefault/images/competition/thanksgivingbanner.jpg"></a></div>
+        
+        <div class="f_right petsstatus">
+            <div class="header_right_botton" style=" position:relative">
+              <span><a href="/users/"></a></span>
+
+                     
+        
+              
+        <!-- -->
+        <!-- for FBConnect -->
+                    <!-- for FBConnect -->
+         
+                                
+                
+                     <span class="f_left" style="width:190px;">
+                                                          <img style="cursor:pointer" src="http://petizens.com/Template/skinDefault/images/icon/FB_connect.jpg" onclick="window.location.href='https://www.facebook.com/login.php?api_key=58692386195&amp;cancel_url=http%3A%2F%2Fwww.petizens.com%2Fprivacy&amp;display=page&amp;fbconnect=1&amp;next=http%3A%2F%2Fwww.petizens.com%2Fprivacy&amp;return_session=1&amp;session_version=3&amp;v=1.0&amp;canvas=0&amp;req_perms=publish_stream%2C+email%2C+user_birthday%2C+user_about_me%2C+read_friendlists';">
+                             |<a href="http://www.petizens.com/login.php">Login</a>|<a href="http://www.petizens.com/register.php">Register</a></span>
+                             
+                             
+                             
+                 <div class="loginbox">
+                 <input class="login_txt" name="username" type="text" id="username" value="Username or e-mail" maxlength="50" onfocus="javascript:if(this.value=='Username or e-mail') this.value=''">
+                 <br>
+                 <input class="login_txt" name="password" type="password" id="password" onfocus="javascript:if(this.value=='******') this.value=''" value="******" maxlength="30" onkeydown="javascript:if((window.event||event).keyCode ==13) ajaxlogin()"> 
+                <input name="" type="button" style="border:0px; background:url(http://www.petizens.com/Template/skinDefault/images/login_btn.gif) no-repeat; width:54px; height:24px;cursor:pointer;" onclick="ajaxlogin();"></div>
+                         </div>
+        </div>
+    </div>
+    <div class="h_right"></div>
+ 	<div class="nav">
+    	<div class="n_left"></div>
+        <div id="net_navigator" class="net_navigator navs">
+            <ul id="net_navigator_ul">
+            <li class="l"></li>
+            <li class="m" id="li_index"><a href="http://www.petizens.com/">Home</a></li>
+            <li class="r"></li>
+            <li class="l"></li>
+            <li class="m" id="li_account"><a href="http://www.petizens.com/scratchpost_mine.php">My Account</a></li>
+            <li class="r"></li>
+            <li class="l"></li>
+            <li class="m" id="viewpetli"><a href="http://www.petizens.com/petpages">Search</a></li>
+            <li class="r"></li>
+            <li class="l"></li>
+            <li class="m" id="li_group"><a href="http://www.petizens.com/group">Groups</a>
+            	<div class="beta"><img src="http://www.petizens.com/Template/skinDefault/images/icon/beta.png"></div>
+            </li>
+            <li class="r"></li>
+            <li class="l"></li>
+            <li class="m"><a href="http://www.petizens.com/forum">Forum</a></li>
+            <li class="r"></li>
+            <li class="l"></li>
+            <li class="m"><a href="http://www.petizens.com/knowledge">Knowledge</a></li>
+            <li class="r"></li>
+            <li class="l"></li>
+            <li class="m"><a href="http://www.petizens.com/caption">Fun &amp; Games</a></li>
+            <li class="r"></li>
+            <!--<li class="nl"></li>
+            <li class="nm" ><a href="http://www.petizens.com/Aboutus.php">Help</a></li>
+            <li class="nr"></li>-->
+            
+            <li class="l"></li>				
+            <li class="m"><a href="http://www.petizens.com/competition.php">Contest</a></li>
+            <li class="r"></li>
+            
+          </ul>
+        </div>
+        <div class="n_right"></div>
+    </div>
+    <div class="sub_nav selecedColor">
+    			    	    
+    </div>
 </div>
-<div class="h_space"></div>
+
+
+
 
 <script type="text/javascript">
 var userPets=0; 
@@ -200,109 +212,43 @@ var userPets=0;
 
 
 <script type="text/javascript" language="javascript">
-
-   var parslist = getParams();   
    var protocol=document.location.protocol;
    var host=document.location.host;
   
    var pathname=document.location.pathname.split('/');
-  
-   if(pathname[1]=='/petphotos' || pathname[1]=='/petowners' || pathname[1]=='viewcompetition.php' ){
-   		pathname[1]='/petpages';
-   }else if(pathname[1]=='forum'){
-   		pathname[1]='forum/';
-   }else if(pathname[1]=='/users/{$header_userinfo}' || pathname[1]=='myaccount.php' || pathname[1]=='scratchpost_friend.php'){
-   		
+   //alert(pathname[1]);
+   if(pathname[1]=='petphotos' || pathname[1]=='petowners' || pathname[1]=='viewcompetition.php' || pathname[1] == 'view-birthdays.php' || pathname[1] == 'petvideos'){
+   		pathname[1]='petpages';
+   }else if(pathname[1]=='users' || pathname[1]=='myaccount.php' || pathname[1]=='scratchpost_friend.php'){
    		pathname[1]='scratchpost_mine.php';
-   }else if(pathname[1]=='knowledge'){
-   		pathname[1]='knowledge/';
-   }else if(pathname[1]=='caption'){
-   		pathname[1]='caption/';
    }else if(pathname[1]=='index.php' || pathname[1] == "" ){
    		pathname[1]='';
    }
     var petuserlist = ","+getCookie("PetUserPetsList")+",";
 	//alert(pathname);
-	//alert(pathname[1]);
-   switch(pathname[1]){
-   case 'profile.php':
-		if (petuserlist.indexOf(','+parslist.pid+',')!=-1){
-   			pathname[1]='myaccount.php';
+	if(parseInt(pathname[1]) == pathname[1]){
+		if(petuserlist.indexOf(','+pathname[1]+',')!=-1){
+			pathname[1]= 'scratchpost_mine.php';
+		}else{
+			pathname[1]= 'petpages';
 		}
-		else{
-			pathname[1]='/petpages';
-		}
-		break;
-   case 'viewmedia.php': 
-   		if (petuserlist.indexOf(','+parslist.petid+',')!=-1){
-   			pathname[1]='myaccount.php';
-		}
-		else{
-			pathname[1]='/petpages';
-		}
-        break;
-   case 'viewfriend.php':
-		if (petuserlist.indexOf(','+parslist.petid+',')!=-1){
-   			pathname[1]='myaccount.php';
-		}
-		else{
-			pathname[1]='/petpages';
-		}
-		break;
-   case 'myblog.php':
-		if (petuserlist.indexOf(','+parslist.blog+',')!=-1){
-   			pathname[1]='myaccount.php';
-		}
-		else{
-			pathname[1]='/petpages';
-		}
-		break;
-   case 'statistics.php':
-   		if (petuserlist.indexOf(','+parslist.petid+',')!=-1){
-   			pathname[1]='myaccount.php';
-		}
-		else{
-			pathname[1]='/petpages';
-		}
-		break;
-   case 'myguestbook.php':
-		if (petuserlist.indexOf(','+parslist.guestbook+',')!=-1){
-   			pathname[1]='myaccount.php';
-		}
-		else{
-			pathname[1]='/petpages';
-		}
-		break;
 	}
-	
-  // alert(parslist.guestbook);
-   var pageName =protocol+"//"+host+"/"+pathname[1];
-  //var pageName = document.location.href;//.split("/")[document.location.href.split("/").length-1];
-  var liNodes = document.getElementById("net_navigator_ul").getElementsByTagName("li");
-  var liNodesLen = liNodes.length;
-   //alert(liNow.childNodes[0].href==pageName);
+
+   	var pageName =protocol+"//"+host+"/"+pathname[1];
+  	var liNodes = document.getElementById("net_navigator_ul").getElementsByTagName("li");
+ 	var liNodesLen = liNodes.length;
     for(var j=0;j<liNodesLen;j++){
   	 var liNow = liNodes[j];
-	 if(typeof liNow.childNodes[0]!='undefined' && liNow.childNodes[0].href==pageName){	
-	 	liNow.className = 'nm selecedColor';
-		liNodes[j-1].className = 'nl selecedColor';
-		liNodes[j+1].className = 'nr selecedColor';
+	 if(typeof liNow.childNodes[0]!='undefined' && liNow.childNodes[0].href==pageName){
+	 	liNow.className = 'slt';
+		liNodes[j-1].className = 'l_slt';
+		liNodes[j+1].className = 'r_slt';
 		break;
 	 }
   }
-
 </script>
 
-
-<div id="fbconnectmsg" style="display:none;">
-    <strong>Your Petizens.com account is now linked to your FaceBook account.</strong>
-</div>
-
-<script type="text/javascript">
- // FB.init("e959fa3041de320b101a4c4586b4fb20", "xd_receiver.htm");
-</script>
-
-<div class="feedback"><a href="/help"><img src="http://www.petizens.com/Template/skinDefault/images/icon/help.png"></a></div><!-- center  -->
+<div class="feedback"><a href="/help" target="_blank"><img src="http://www.petizens.com/Template/skinDefault/images/icon/help.png"></a></div><!-- center  -->
 <div id="center">
 <div class="c_left">
 <h1>Petizens Privacy Policy</h1>
@@ -311,8 +257,8 @@ var userPets=0;
 <p><strong style=""><span style="font-size: 10pt; font-family: Arial; color: red;">Petizens does not knowingly allow children under the age of thirteen (13) to register for Petizens.com. If you are under 13, please do not attempt to register for Petizens.com or send any information about yourself to us.<o:p></o:p></span></strong></p>
 <p><strong><span style="font-size: 10pt; font-family: Arial;">1. Our Privacy Principles</span></strong><span style="font-family: Arial;"><o:p></o:p></span></p>
 <p><span style="font-size: 10pt; font-family: Arial;">We created Petizens.com to allow you to share information about pets with your family, friends and people around you. While doing so, protecting your privacy is extremely important to us. Our privacy policy follows the following important principles:<o:p></o:p></span></p>
-<p style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Wingdings;"><span style="">§<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><strong style=""><span style="font-size: 10pt; font-family: Arial;">You control exactly what information is shared on the internet and what information is kept private.<o:p></o:p></span></strong></p>
-<p style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Wingdings;"><span style="">§<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><strong style=""><span style="font-size: 10pt; font-family: Arial;">We (Petizens) will never knowingly share your human name or email with anyone in anyway.<o:p></o:p></span></strong></p>
+<p style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Wingdings;"><span style="">§<span style="font: 7pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><strong style=""><span style="font-size: 10pt; font-family: Arial;">You control exactly what information is shared on the internet and what information is kept private.<o:p></o:p></span></strong></p>
+<p style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Wingdings;"><span style="">§<span style="font: 7pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><strong style=""><span style="font-size: 10pt; font-family: Arial;">We (Petizens) will never knowingly share your human name or email with anyone in anyway.<o:p></o:p></span></strong></p>
 <p><strong style=""><span style="font-size: 10pt; font-family: Arial;">2. The Information We Collect <o:p></o:p></span></strong></p>
 <p><span style="font-size: 10pt; font-family: Arial;">When you register for an account to become a member of Petizens.com, we will ask you some basic personal information. Some of the information we ask for is required in order to register an account, while other information is optional. The required information includes your name, gender, email, and your hometown, state and country. If you are a <st1:country-region w:st="on"><st1:place w:st="on">US</st1:place></st1:country-region> or Canadian citizen, we will also ask for your ZIP code. The optional information includes information such as your year of birth, which languages you prefer using, and other information. <o:p></o:p></span></p>
 <p><span style="font-size: 10pt; font-family: Arial;">When you register your pet we will ask you for additional information, including the name of your pet, the type of animal, breed and color of your pet, and when your pet was born.<o:p></o:p></span></p>
@@ -346,6 +292,7 @@ var userPets=0;
 <div class="previewborder"><div align="center" style="width:190px; border:0px ;"><a id="previewUrl" href="javascript:void(0)" target="_self"><img oncontextmenu="return(false)" id="PreviewImage" onmouseout="hidePreview(event)" src="" border="0"></a></div><div align="left" id="tpcontent"></div><span></span></div></div>
 </div>
 
+<div></div>
 <table width="250" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td height="1"></td>
@@ -363,24 +310,16 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
 <script src="http://www.petizens.com/js/common.js"></script>
 <script src="http://www.petizens.com/Ajax/CallBackObject.js"></script>
 <script src="http://www.petizens.com/js/simplereg.js"></script>
-<table width="250" border="0" align="center" cellpadding="1" cellspacing="0" class="tbl round" onclick="spl_country();">
-<form name="petForm" method="post" action=""></form>
-  <tbody><tr>
-    <td colspan="3" align="center"><img src="http://www.petizens.com/Template/skinDefault/images/landing/joinfree.png" vspace="2"></td>
-  </tr>
-    <tr>
-    <td width="8"></td>
-    <td colspan="2" align="left"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td colspan="2" style="color:#333">First create a pet owner account
-</td>
-    </tr>
-    <tr>
+
+<div class="round8 shadow" style="width:250px;background:#edeade;">
+<span style="margin:-20px 0 0 -72px;position:absolute;"><img src="http://www.petizens.com/Template/skinDefault/images/sticker/other/petizens/6.png" width="120"></span>
+<div style="padding:10px 0px 5px 30px;"><img src="http://www.petizens.com/Template/skinDefault/images/landing/joinfree.png" vspace="15"></div>
+<form name="petForm" method="post" action="">
+<table width="250" border="0" align="center" cellpadding="1" cellspacing="0" onclick="spl_country();">
+    <tbody><tr>
     <td></td>
-    <td width="65">User name</td>
-    <td><input name="spl_memberid" type="text" id="spl_memberid" value="" style="width:140px;"><span id="spl_loginid_info"></span></td>
+    <td width="65">Username</td>
+    <td><input name="spl_memberid" type="text" id="spl_memberid" value="" class="whiteform round"><span id="spl_loginid_info"></span></td>
   </tr>
     <tr><td></td>
     <td>Sex</td>
@@ -396,7 +335,7 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
     <tr>
     <td>&nbsp;</td>
     <td colspan="2">&nbsp;
-  <select name="spl_countrylist" id="spl_countrylist" onchange="spl_changeState(this.value);" class="countrylist">
+  <select name="spl_countrylist" id="spl_countrylist" onchange="spl_changeState(this.value);" class="whiteform_c round">
   <option value="" selected="">select Country/Area</option>
 </select>
 </td>
@@ -405,7 +344,7 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
     <td>&nbsp;</td>
     <td>State</td>
     <td>
-  <select name="spl_statelist" id="spl_statelist" onchange="spl_changeCity(this.value,document.getElementById('spl_countrylist').value);" class="spldropdownlist">
+  <select name="spl_statelist" id="spl_statelist" onchange="spl_changeCity(this.value,document.getElementById('spl_countrylist').value);" class="whiteform round">
   <option value="" selected="">select State/Region/Area</option>
 </select>
 </td>
@@ -414,7 +353,7 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
     <td>&nbsp;</td>
     <td>City</td>
     <td>
-  <select name="spl_citylist" id="spl_citylist" class="spldropdownlist">
+  <select name="spl_citylist" id="spl_citylist" class="whiteform round">
   <option value="" selected="">select City</option>
 </select>
 </td>
@@ -422,29 +361,29 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
   <tr>
     <td>&nbsp;</td>
     <td>Email</td>
-    <td><input name="spl_mymail" type="text" id="spl_mymail" value="" size="16" maxlength="50" style="width:140px;">
+    <td><input name="spl_mymail" type="text" id="spl_mymail" value="" size="16" maxlength="50" class="whiteform round">
     <span id="spl_emailMsg"></span></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td>Password</td>
-    <td><input name="spl_pass" type="password" id="spl_pass" size="16" value="" style="width:140px;"><span id="spl_passMsg"></span></td>
+    <td><input name="spl_pass" type="password" id="spl_pass" size="16" value="" class="whiteform round"><span id="spl_passMsg"></span></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td>Re- Pass </td>
-    <td><input name="spl_pass2" type="password" id="spl_pass2" value="" size="16" style="width:140px;"><span id="spl_passMsg2"></span>    </td>
+    <td><input name="spl_pass2" type="password" id="spl_pass2" value="" size="16" class="whiteform round"><span id="spl_passMsg2"></span>    </td>
   </tr>
   
   <tr>
     <td>&nbsp;</td>
-    <td colspan="2" align="left"><input name="isAgree" type="checkbox" id="isAgree" value="1">
-      I am above 13 years old and agree to the <a href="http://www.petizens.com/termsofuse" target="_self"> Terms of Service</a>.</td>
+    <td colspan="2" align="left"><br><input name="isAgree" type="checkbox" id="isAgree" value="1">
+      I am above 13 years old and agree to the <a href="http://www.petizens.com/termsofuse" target="_self"> Terms of Service</a>.<br><br></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td colspan="2" align="center" style="text-align:center">
-	<input type="submit" style="margin-top:15px; background:url(/Template/skinDefault/images/landing/createaccount.png) no-repeat; width:221px; height:24px; border:0;" value=" ">
+	<input type="submit" class="btn_green" style="width:221px;" value="Sign Up">
 	<input name="step" type="hidden" id="step" value="1"></td>
   </tr>
   <tr>
@@ -473,31 +412,31 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
 			var obj = document.getElementById(dropList[i]);
 			//alert(obj);
 			if(obj !=null)
-				obj.className = "spldropdownlist";
+				obj.className = "whiteform round";
 		}
 		//document.getElementById('countrylist').className="countrylist";
 	</script>
 </td>
   </tr>
-   
 </tbody></table>
-</td>
+  </form> 
+</div></td>
   </tr>
   <tr>
     <td height="10"></td>
   </tr>    <tr>
     <td>
-	<div class="inner_right_box">
-<div class="right_title" style="padding-left:10px;height:35px;line-height:30px;">Follow Petizens on:</div>
-
-<div style="text-align:center">
-<a href="http://petizens.blogspot.com" target="blank"><img src="/Template/skinDefault/images/icon/blogspot.png" alt="Blogspot" title="Blogspot" width="40" height="40" border="0"></a>
-<a href="http://www.facebook.com/pages/Petizens/56320472237?ref=ts" target="blank"><img src="/Template/skinDefault/images/icon/facebook.png" alt="FaceBook" title="FaceBook" width="40" height="40" border="0"></a>
-<a href="http://www.myspace.com/petizens" target="blank"><img src="/Template/skinDefault/images/icon/myspace.png" alt="MySpace" title="MySpace" width="40" height="40" border="0"></a>
-<a href="http://www.twitter.com/petizens" target="blank"><img src="/Template/skinDefault/images/icon/twitter.png" alt="Twitter" title="Twitter" width="40" height="40" border="0"></a>
-<a href="http://www.youtube.com/petizens" target="blank"><img src="/Template/skinDefault/images/icon/youtube.png" alt="YouTube" title="YouTube" width="40" height="40" border="0"></a>
-</div>
-<div class="clr"></div>
+	<div class="topvideo" style="">
+<object width="238" height="178">
+<param name="movie" value="http://www.youtube.com/v/HqVtY2MGF3U"><param name="wmode" value="transparent">
+<embed src="http://www.youtube.com/v/HqVtY2MGF3U" type="application/x-shockwave-flash" wmode="transparent" width="238" height="178">
+</object>
+<span style="padding-left:5px;">
+<h3><a href="/941/Dog/Daisy Mae Sheltie" style="margin-left:8px;">Daisy Mae Sheltie</a> <a href="" class="level_style" style="font-size:11px;height:20px;float:right;margin-right:7px;margin-top:-14px;">
+6</a> 
+ </h3>
+<p style="color:white;margin-left:8px;font-family:tempus;overflow:hidden;height:17px;">Daisy mae</p>
+</span>
 </div>
 	</td>
   </tr>
@@ -507,25 +446,39 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
     <tr>
     <td>
 	
-<div class="nm round" style="width:242px;padding:4px;text-align:center;">
-	<div class="right_title">Pet of the moment</div>
-	<div class="gold">
-		&nbsp;<a href="/15336/Dog/Rita" style="color:black;">Rita</a>
-    </div>
-  	<div style="padding-top:6px;">
-    	<a href="/15336/Dog/Rita"><img src="/userfiles/photo/w650/2010/02/18/201002182250345772382.JPG" width="200" border="0"></a></div>
-<div><img src="/Template/skinDefault/images/flags/Croatia.png" width="24" border="0" align="middle">&nbsp;Croatia, , </div>        
-<!--  
-  <div style="padding-left:10px;">Level:   
-  <span style="width:27px; height:27px; display:block; margin:auto 0; text-align:center; line-height:27px; background:url(/Template/skinDefault/images/icon/level.png) no-repeat; font-size:10px; "> <a href="/statistics.php?petid=15336" style="color:#000000;"> 9</a></span> 
-  
- Points: 1546.14  </div>
--->     
-	<div class="" style="padding:5px;text-align:left;"> My mom found me on the street when I was just a little girl. Nobody wanted to adopt me so I stayed with her and her family. They love me and I love them. ... </div>
-    <div class="clr"></div>
+
+<div style="font-size:20px;font-family:tempus;">Caption</div>
+<div style="font-size:18px;font-family:tempus;">of the Moment</div>
+<div style="margin:-53px 0 0 145px;position:absolute;"><img src="/Template/skinDefault/images/icon/mask.png"></div>
+
+<div class="nm round" style="width:227px;text-align:center;padding:8px;">
+<a href="/caption/429/"><img src="http://www.petizens.com/userfiles/captions/1268247614.jpg" class="pic" style="width:227px;border:1px solid #915d0b;"></a><br>
+<div class="" style="margin:8px;text-align:left;">
+<table width="100%">
+<tbody><tr><td>Photo of:</td><td> <a href="/15591/Dog/Tokkelosh" style="font-size:16px;">Tokkelosh</a></td></tr>
+<tr><td>Captioned by:</td><td> <a href="/users/Tjoppie" style="font-size:16px;">Tjoppie</a></td></tr>
+</tbody></table>
+</div></div>
+<div class="clr"></div>
+
+
+	</td>
+  </tr>
+  <tr>
+    <td height="10">&nbsp;</td>
+  </tr>
+    <tr>
+    <td>
+	<div class="round8" style="background:#f9e5b6;padding:10px;width:230px;">
+<div class="round" style="background:#fdf5e2;font-size:16px;padding:10px;text-align:center;">
+
+<h1 style="font-size:22px;"><a href="/buyPetopian.php">Buy Petopian$<img src="../Template/skinDefault/images/icon/p$.png"></a></h1>
+
+<p>Why not give out a cool SPA gift?</p>
+<img src="/Template/skinDefault/images/gifts/Dog/dD4L.gif"><p></p>
+<div style="margin-left:10px;margin-right:10px;"><a href="/buyPetopian.php" class="btn_orange">Buy Petopian$</a></div>
 </div>
-
-
+</div>
 
 
 
@@ -536,27 +489,18 @@ var validatedInfo		= "<span class='remark'>Ok</span>";
   </tr>
     <tr>
     <td>
-	<div class="inner_right_box">
-<div class="right_title" style="padding-left:10px;height:35px;line-height:30px;">A word from our sponsors</div>
-
-<span style="padding:5px;">
-<a href="http://www.anrdoezrs.net/click-3927842-10691213" target="_top">
-<img src="http://www.tqlkg.com/image-3927842-10691213" width="240" height="400" alt="Save 80% on Advantage &amp; other Pet Meds" border="0"></a>
-</span>
-<!--<script type="text/javascript">
-google_ad_client = "pub-6526843641952688";
-/* 250x250, right side */
-google_ad_slot = "7869452709";
-google_ad_width = 250;
-google_ad_height = 250;
+	
+<span style="padding-left:45px;">
+<!-- begin ZEDO for channel: petizens.com , publisher: petizens.com , Ad
+Dimension: Wide Skyscraper - 160 x 600 -->
+<script language="JavaScript">
+var zflag_nid="809"; var zflag_cid="1743"; var zflag_sid="706"; var
+zflag_width="160"; var zflag_height="600"; var zflag_sz="7";
 </script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>-->
-
-
-</div>
-
+<script language="JavaScript" src="http://d3.zedo.com/jsc/d3/fo.js"></script>
+<!-- end ZEDO for channel: petizens.com , publisher: petizens.com , Ad
+Dimension: Wide Skyscraper - 160 x 600 -->
+</span>
 	</td>
   </tr>
   <tr>
@@ -564,14 +508,70 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
   </tr>
     <tr>
     <td>
-	<div class="inner_right_box">
-	<div class="nm inner_right">Become a member</div>
-	<div class="right_help"><a href="/Aboutus.php#toplists">HELP</a></div>
-	<div class="clr"></div>
-	<div style="text-align:center;font-size:14px;padding:10px;">Become a member today and add fun speech bubbles to your page! </div>
-	<div style="text-align:center;padding-bottom:5px;"><a href="/buy_membership.php"><img src="/Template/skinDefault/images/landing/speechbubbles.png" border="0"></a></div>
-	<div style="margin-left:30px;margin-right:15px;"><a href="/buy_membership.php" class="btn_blue">Buy a membership</a></div>
+	
+<h1 class="bgreyh2">Latest Themed pages</h1>
+
+<div class="bgrey2themed">
+
+<div class="bgrey2themedli">
+<div class="f_left"><a href="/38152/Cat/Skylark"><img src="http://www.petizens.com/userfiles/photo/w100/2010/07/18/201007181456169.JPG" border="0" width="40" height="40"></a></div>
+<div class="f_left" style="padding-left:5px; width:130px;">
+<div class="large_text" style="margin-top:0px;"><a href="/38152/Cat/Skylark">Skylark</a></div>
+<div class="" style="margin-top:0px;">something</div>
 </div>
+<div class="clr"></div>
+</div>
+
+<div class="bgrey2themedli">
+<div class="f_left"><a href="/36528/Cat/Treat"><img src="http://www.petizens.com/userfiles/photo/w100/2010/06/26/201006260131577353863.jpg" border="0" width="40" height="40"></a></div>
+<div class="f_left" style="padding-left:5px; width:130px;">
+<div class="large_text" style="margin-top:0px;"><a href="/36528/Cat/Treat">Treat</a></div>
+<div class="" style="margin-top:0px;">I'm Leafing now</div>
+</div>
+<div class="clr"></div>
+</div>
+
+<div class="bgrey2themedli">
+<div class="f_left"><a href="/38420/Cat/Edgar"><img src="http://www.petizens.com/userfiles/photo/w100/2010/11/19/819262901411988.jpg" border="0" width="40" height="40"></a></div>
+<div class="f_left" style="padding-left:5px; width:130px;">
+<div class="large_text" style="margin-top:0px;"><a href="/38420/Cat/Edgar">Edgar</a></div>
+<div class="" style="margin-top:0px;">Ain't No Stuffin' Here...</div>
+</div>
+<div class="clr"></div>
+</div>
+
+<div class="bgrey2themedli">
+<div class="f_left"><a href="/2806/Bird/LUCKY"><img src="http://www.petizens.com/userfiles/photo/w100/2009/09/21/200909210146514389294.jpg" border="0" width="40" height="40"></a></div>
+<div class="f_left" style="padding-left:5px; width:130px;">
+<div class="large_text" style="margin-top:0px;"><a href="/2806/Bird/LUCKY">LUCKY</a></div>
+<div class="" style="margin-top:0px;">Be Thankful...</div>
+</div>
+<div class="clr"></div>
+</div>
+
+<div class="bgrey2themedli">
+<div class="f_left"><a href="/28078/Cat/max"><img src="http://www.petizens.com/userfiles/photo/w100/2010/04/15/201004150303515172638.JPG" border="0" width="40" height="40"></a></div>
+<div class="f_left" style="padding-left:5px; width:130px;">
+<div class="large_text" style="margin-top:0px;"><a href="/28078/Cat/max">max</a></div>
+<div class="" style="margin-top:0px;">gabby</div>
+</div>
+<div class="clr"></div>
+</div>
+
+<div class="bgrey2themedli">
+<div class="f_left"><a href="/2955/Dog/Bambi aka Littles"><img src="http://www.petizens.com/userfiles/photo/w100/2009/11/08/200911081251479994472.jpg" border="0" width="40" height="40"></a></div>
+<div class="f_left" style="padding-left:5px; width:130px;">
+<div class="large_text" style="margin-top:0px;"><a href="/2955/Dog/Bambi aka Littles">Bambi aka Littles</a></div>
+<div class="" style="margin-top:0px;">Not done.</div>
+</div>
+<div class="clr"></div>
+</div>
+<span class="f_right"><a href="/themes.php">more &gt;</a></span>
+</div>
+
+
+
+
 	</td>
   </tr>
   <tr>
@@ -596,31 +596,60 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </div>
 <!-- bottom  -->
 
-<div id="bottom">
+<div id="bottom" style="font-size:13px;">
+<div style="background:url(/Template/skinDefault/images/bg/footer.png) center bottom no-repeat; height:250px;line-height:25px;margin-top:-30px;text-align:left;">
 
-<!--<div class="share_page"><div><span>Share this page on:</span><panel style='padding-right:10px' ><a target='_blank' href=http://myweb.yahoo.com/myresults/bookmarklet?t=&u=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy&ei=UTF> YahooMyWeb </a></panel><panel style='padding-right:10px' ><a target='_blank' href=http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy&title=> Google </a></panel><panel style='padding-right:10px' ><a target='_blank' href=https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy&title=&top=1> Live Bookmarks </a></panel><panel style='padding-right:10px' ><a target='_blank' href=http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy> Facebook </a></panel><panel style='padding-right:10px' ><a target='_blank' href=> Flickr </a></panel> <a href="changeprefer.php">Others</a></div></div>-->
-<div class="nm round_bottom">
-            <a href="/aboutus">About</a> |
-            <a href="/advertise">Advertise</a> |
-            <a href="/links">Links</a> |
-            <a href="/contact">Contact us</a> |
-            <a href="/guidelines">Guidelines</a> |
-            <a href="/privacy">Privacy policy</a> |
-            <a href="/termsofuse">Terms of Service</a> |
-            <a href="/help">Help</a> |
-    <br>
-Copyright 2010 Petizens. All Rights Reserved
-<!-- AddThis Button BEGIN -->
-<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=petizens"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=petizens"></script>
-<!-- AddThis Button END -->
+<span class="f_left handfont" style="margin-left:23px;padding:90px 20px;">
+<h1>About us</h1>
+<a href="/contact">Contact Us</a><br>
+<a href="/aboutus">About Petizens</a><br>
+<!--<a href="/moderators.php">Our Moderators</a>-->
+</span>
+<span class="f_left handfont" style="padding:95px 10px;-moz-transform:rotate(10deg);-webkit-transform:rotate(10deg);">
+<h1>Terms</h1>
+<a href="/guidelines">Guidelines</a><br>
+<a href="/privacy">Privacy policy</a><br>
+<a href="/termsofuse">Terms of Service</a>
+</span>
+<span class="f_left handfont" style="padding:90px 0 0 15px;-moz-transform:rotate(-17deg);-webkit-transform:rotate(-17deg);">
+<h1>Advertise</h1>
+<a href="/advertise">Advertise here</a><br>
+<a href="/links">Links</a>
+</span>
+<span class="f_left handfont" style="padding:80px 0 0 50px;-moz-transform:rotate(4deg);-webkit-transform:rotate(4deg);">
+<h1>Help</h1>
+<a href="/help">Help</a><br>
+<a href="/html.php">HTML help</a><br>
+<a href="/levels.php">Levels</a>
+</span>
+<span class="f_left handfont" style="padding:50px 130px; color:white;">
+Copyright 2010 Petizens<br>
+All Rights Reserved<br>
+
+<!-- begin ZEDO for channel: petizens.com , publisher: petizens.com , Ad
+Dimension: Button #1 - 120 x 90 -->
+<script language="JavaScript">
+var zflag_nid="809"; var zflag_cid="1743"; var zflag_sid="706"; var
+zflag_width="120"; var zflag_height="90"; var zflag_sz="3";
+</script>
+<script language="JavaScript" src="http://d3.zedo.com/jsc/d3/fo.js"></script>
+<!-- end ZEDO for channel: petizens.com , publisher: petizens.com , Ad
+Dimension: Button #1 - 120 x 90 -->
+
+
+<!-- AddThis Button BEGIN
+<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=petizens"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=petizens"></script>
+AddThis Button END-->
+</span>
+
+
+</div>
 </div>
 
-
-
-</div>
 
 
 <script type="text/javascript">viewPetHtml(pathname); </script>
+
 <script type="text/javascript">
 var feedtype = '';
 if(feedtype == 'addpet')
@@ -678,7 +707,7 @@ urchinTracker();
 }catch(e){}
 
 </script>
-<!-- Start Quantcast tag -->
+<!-- Start Quantcast tag-->
 <script type="text/javascript">
 
 _qoptions={
@@ -690,7 +719,7 @@ qacct:"p-75i1m8bDlFupU"
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-75i1m8bDlFupU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!-- End Quantcast tag -->
+
 
 
 </body></html>
