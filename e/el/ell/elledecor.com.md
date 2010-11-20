@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elledecor.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619012230id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elledecor.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112506id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
 
 # HFMUS
 
