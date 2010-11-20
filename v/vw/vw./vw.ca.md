@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vw.ca privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624080953id_/http%3A//www.vw.ca/ca/en_ca/metacontent/Privacy_Policy.metanav.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vw.ca privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112257id_/http%3A//www.vw.ca/ca/en_ca/metacontent/Privacy_Policy.metanav.html) for the most accurate reproduction.*
 
 # Privacy Policy > metacontent > Welcome to Volkswagen Canada / New & Used Cars, Vans and SUVs / Volkswagen Canada
 
@@ -71,4 +71,4 @@ By using this or any other of our websites, you agree to accept the terms of thi
 We are committed to providing you with understandable and easily available information about our policy and practices related to management of your personal information. This policy and any related information is available at all times on our website, www.vw.ca under Privacy Policy, or on request. To contact us, see below. 
 
 **How to Contact Us**  
-If you wish to change your consent to our use of your information, change your privacy preferences, or update your information, or if you have any questions or concerns about our Privacy Policy, [please click here](https://web.archive.org/ca/en_ca/Inside/Contact_us.htx).
+If you wish to change your consent to our use of your information, change your privacy preferences, or update your information, or if you have any questions or concerns about our Privacy Policy, [please click here](http://www.vw.ca/ca/en_ca/Inside/Contact_us.htx).
