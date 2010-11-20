@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zevs.net privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527205132id_/http%3A//www.zevs.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zevs.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112614id_/http%3A//www.zevs.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zevs - Unusual, Interesting facts and Cute pictures
 
@@ -22,7 +22,7 @@ Our Commitment To Privacy
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 The Information We Collect:  
-This notice applies to all information collected or submitted on the zevs.net website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address, Email address, Phone number, Credit/Debit Card Information (etc.). On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Phone, Number (etc.)
+This notice applies to all information collected or submitted on the zevs.net website. On some [pages](http://www.zevs.net/pages/ "pages"), you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address, Email address, Phone number, Credit/Debit Card Information (etc.). On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Phone, Number (etc.)
 
 The Way We Use Information:  
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  
