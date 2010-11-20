@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508023108id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120015241id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
 
 # Privacy Policy
 
