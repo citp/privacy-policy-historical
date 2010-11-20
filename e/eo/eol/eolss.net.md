@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eolss.net privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520142709id_/http%3A//www.eolss.net/Eolss-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eolss.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120024059id_/http%3A//www.eolss.net/Eolss-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Encyclopedia of Life Support Systems - Privacy Policy
 
