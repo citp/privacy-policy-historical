@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119090708id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121002815id_/http%3A//cabelas.ca/privacy_policy) for the most accurate reproduction.*
 
 # Cabelas Canada - Privacy Policy
 
-  |  | 
+  | 
+
+[Bargain Cave](https://web.archive.org/bargain_cave/ "Bargain Cave")
+
+Save on Overstocks, Special Buys and Discounted Items
+
+[](https://web.archive.org/bargain_cave/ "Bargain Cave")
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=67.192.190.207 "McAfee Secure Site")
+
+| 
 
 Home / About Us / Privacy Policy
 
@@ -14,16 +24,16 @@ PRIVACY POLICY
   
 **Cabela’s Retail Canada Inc. Privacy Statement**
 
-Last updated June 1, 2009
+Last updated: March 30, 2010
 
 This Privacy Statement sets out the manner in which Cabela’s Retail Canada Inc. (“Cabela’s Canada”) collects, uses, discloses and otherwise manages the personally identifiable information of its customers, including the privacy practices of our retail store, catalogue services, and website located at **www.cabelas.ca**.
 
-If you have questions or concerns regarding this Privacy Statement, you should first contact us via Customer Service e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca) or by calling **1-800-265-6245**.  If you prefer to write us, our postal address is below.
+If you have questions or concerns regarding this Privacy Statement, you should first contact us via Customer Service e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca) or by calling **1.800.265.6245**.  If you prefer to write us, our postal address is below.
 
 **Cabela's Retail Canada Inc.  
 Privacy Officer  
-1300 Ellice Avenue,   
-Winnipeg, Manitoba Canada R3G 3N1**
+766 Pandora Avenue East,   
+Winnipeg, Manitoba Canada R2C 4S2**
 
 **Cabela's Canada Privacy Statement will inform you about:**
 
@@ -43,9 +53,9 @@ In general, you can visit the Cabela’s Canada website without telling us who y
 
 If you use a credit or debit card to purchase a product online, in-store, or through our catalogue, your payment card related information and your signature will be collected for the purposes of processing your payment. If you pay for a purchase by money order, cheque or C.O.D, the name, address, e-mail address and telephone number of the purchaser will be collected in order to identify you and contact you regarding your payment, if necessary.
 
-If you request to receive our catalogues, e-mails, newsletters, or other marketing materials we may collect your name, address, telephone number and e-mail address. If you wish to stop receiving any of these materials, you may contact us at **1-800-265-6245** , sending us an e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or writing us at the postal address provided above.
+If you request to receive our catalogues, e-mails, newsletters, or other marketing materials we may collect your name, address, telephone number and e-mail address. If you wish to stop receiving any of these materials, you may contact us at  **1.800.265.6245** , send us an e-mail at [ **privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write us at the postal address provided above.  e-Mail recipients can also opt-out of receiving future emails by using the opt-out link in each e-mail.
 
-If you request, we may make your postal mailing address information available to subsidiaries and affiliated companies that are part of the Cabela's family of companies, or to other direct mail companies who we believe may have products and services of interest to our customers, for the marketing purposes of those companies. If you wish to stop receiving any of these materials, you may contact us at **1-800-265-6245** , sending us an e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or writing us at the postal address provided above.
+If you request, we may make your postal mailing address information available to subsidiaries and affiliated companies that are part of the Cabela's family of companies, or to other direct mail companies who we believe may have products and services of interest to our customers, for the marketing purposes of those companies. If you wish to stop receiving any of these materials, you may contact us at **1.800.265.6245** , send us an e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write us at the postal address provided above.
 
 If you contact our customer service representatives by telephone or e-mail we may collect your name, address, telephone number and e-mail address. We may store a record of your request/inquiry along with your name, address and other personal contact information you provide to assist you in the future and to improve our products and services.
 
@@ -55,11 +65,17 @@ When purchasing on our website or through our catalogues we may request your tel
 
 We may post customer testimonials on our website which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
 
-When you order a gift certificate or gift card we collect information regarding the amount of the gift certificate/card and information you may provide about the recipient such as the name, address and telephone number of the party receiving the gift certificate/card as well as any message you provide on a gift certificate/card. This information is only used for the purpose of processing and fulfilling your gift certificate/card order.
+When you order a gift card we collect information regarding the amount of the gift card and information you may provide about the recipient such as the name, address and telephone number of the party receiving the gift card as well as any message you provide on a gift card. This information is only used for the purpose of processing and fulfilling your gift card order.
 
-In connection with a job application or related inquiry, we collect certain personal information you provide about yourself, such as that contained in a resume or similar employment-related materials. We use this information to process and respond to your application or inquiry.
+When you enter a contest or participate in a promotion, we may collect your name, address, phone number, email address, and other information that you provide. We use this information to administer your participation in the contest or promotion. At the time you enter the contest or promotion, we may obtain your consent to send you future promotional communications from Cabela’s Canada or its marketing partners. If a contest or promotion is jointly sponsored by us and one or more sponsors, your personal information may be shared with such sponsors, as specified at the time of collection of your personal information. We do not control the use, disclosure or security of your personal information by other sponsors, and recommend you review their respective privacy notices or statements.
+
+We may collect optional information such as your postal code or phone number and responses to questions about your purchasing preferences. We may use this information to help us carry the right assortment of products for your needs and to tailor the promotional material you receive.
+
+The "Forward To A Friend" (or other similar implementation) function commonly associated with e-mail messages will allow us to send an email to another recipient on your behalf. This requires that you submit your name and email address, as well as the name and email address of the recipient. The recipient will receive a single introductory email but must then opt-in to confirm their willingness to receive future emails.  We do not use the names or email addresses submitted in these circumstances for any other purpose without the consent of you or the email recipient.
 
 In addition, our Web servers track various technical details about your visit, such as your computer's IP address, page requests, browser type, operating system, referring page, and average time spent on the website, however that information does not typically contain any personally identifiable information about you. We use this information to monitor and improve our website.
+
+In connection with a job application or related inquiry, we collect certain personal information you provide about yourself, such as that contained in a resume or similar employment-related materials. We use this information to process and respond to your application or inquiry.
 
 _**With whom does Cabela’s Canada share your information?**_
 
@@ -71,7 +87,7 @@ We may transfer any information we have about you as an asset in connection with
 
 _**How to access, update, or correct my personally identifiable information?**_
 
-If you are a registered user of our website, you can manage many aspects of your registration information online. For security reasons, however, some parts of your personal information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. The online registration area will also permit you to exercise control over the use of your e-mail address, allowing you to opt-out of future e-mail messages from this Cabela’s Canada. If you prefer to manage your personal information via other means, or if you would like to access, update, or correct any of your personal information we have in our possession, you may contact us at **1-800-265-6245** , sending us an e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or writing us at the postal address provided above.
+If you are a registered user of our website, you can manage many aspects of your registration information online. For security reasons, however, some parts of your personal information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. The online registration area will also permit you to exercise control over the use of your e-mail address, allowing you to opt-out of future e-mail messages from Cabela’s Canada. If you prefer to manage your personal information via other means, or if you would like to access, update, or correct any of your personal information we have in our possession, you may contact us at **1.800.265.6245** , send us an e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write us at the postal address provided above.
 
 _**What information will be disclosed if required by law?**_
 
@@ -85,11 +101,11 @@ Cabela's Canada also uses a session cookie, which is a piece of identification b
 
 _**What choices are available to you regarding the collection, use and disclosure of the information?**_
 
-If you do not want to receive e-mail from us in the future, please let us know by calling **1-800-265-6245** , sending an e-mail to [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or by writing to us at the above postal address and telling us that you do not want to receive e-mail from our company. If you receive an e-mail from Cabela’s Canada and do not wish to receive future e-mails you may also utilize the opt-out link provided within the e-mail to remove your name from the e-mail list.
+If you do not want to receive mail from us in the future, please let us know by calling **1.800.265.6245** , send an e-mail to [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write to us at the above postal address and telling us that you do not want to receive mail from our company.
 
-With your consent you may also receive e-mails from us containing information about new products and services or upcoming events. You may modify your e-mail preferences by calling **1-800-265-6245** or, if you are a registered member at www.Cabelas.ca, you may change them in the "Your Account" section by clicking here.
+With your consent you may also receive e-mails from us containing information about new products and services or upcoming events. You may modify your e-mail preferences by calling **1.800.265.6245** or, if you have established a Profile at www.Cabelas.ca, you may change your email preferences in the "Your Account" section by clicking there.  If you receive e-mail from Cabela’s Canada and do not wish to receive future e-mails you may also utilize the opt-out link provided within our e-mails to remove your name from our e-mail list.
 
-On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies, or to other direct mail companies who we believe may have products and services of interest to our customers, for the marketing purposes of those companies. We will only share your personal information with those companies for such purposes if we have received your prior consent. If we obtained your consent and you no longer wish to receive postal mailings from Cabela's Canada, its affiliated companies, or third-party organizations, please let us know by calling, sending an e-mail, or writing to us at the above postal address. Please provide us with your exact name, postal address and the list you wish to be removed from, so that we can be sure your information is removed from future mailing lists.
+On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies, or to other direct mail companies who we believe may have products and services of interest to our customers, for the marketing purposes of those companies. We will only share your personal information with those companies for such purposes if we have received your prior consent. If we obtained your consent and you no longer wish to receive postal mailings from Cabela's Canada, its affiliated companies, or third-party organizations, please let us know by calling, sending an e-mail to info@cabelas.ca, or writing to us at the above postal address. Please provide us with your exact name, postal address and the list you wish to be removed from, so that we can be sure your information is removed from future mailings.
 
 **Security**
 
@@ -103,15 +119,15 @@ Due to various legal and record keeping requirements, we may be required to main
 
 Any credit card information you enter on our site is encrypted by industry-standard protocol, SSL (Secure Sockets Layer).  The Cabela's Canada website uses SSL to communicate with secure browsers like Netscape, Mozilla, Firefox and Internet Explorer.
 
-If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance, please call **1-800-265-6245**. Our fax number for orders is **(204) 786-8964**. Or, send your order to:
+If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax or mail your order to us. For telephone ordering or assistance, please call **1.800.265.6245**. Our fax number for orders is **1.** **204.786.8964**. Or, send your order to:
 
 **Cabela's Retail Canada Inc.  
 Attn: Order Desk   
-1300 Ellice Avenue  
+766 Pandora Avenue East  
 Winnipeg, Manitoba  
-Canada R3G 3N1**
+Canada R2C 4S2**
 
-If you have any further question regarding your online security, please contact us at **1-800-265-6245** or e-mail [**Customer Service**](mailto:info@cabelas.ca).
+If you have any further question regarding your online security, please contact us at **1.800.265.6245** or e-mail [**Customer Service**](mailto:info@cabelas.ca).
 
 **Third Party Links**
 
@@ -127,7 +143,19 @@ We reserve the right to modify this Privacy Statement at any time, so please rev
 
 | 
 
-  
+[](https://web.archive.org/signupforemail/)
+
+[ ](https://web.archive.org/36245/101109/101109.html)
+
+Since 1961, it has been our ongoing mission to provide outdoor enthusiasts with the finest quality gear and the highest level of customer service in the industry.   
+
+
+[](https://web.archive.org/customer_service/)
+
+Not sure what to buy? Many outdoor enthusiasts prefer to select their own equipment.
+
+Cabela's Canada Gift Cards are available in various card styles and denominations.  Order yours today!
+
 [](https://web.archive.org/gift_certificates/)
 
 |  
