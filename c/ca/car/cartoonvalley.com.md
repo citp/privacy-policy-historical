@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonvalley.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327154440id_/http%3A//cartoonvalley.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonvalley.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182323id_/http%3A//cartoonvalley.com/legal/privacy.html) for the most accurate reproduction.*
 
 # CARTOON VALLEY - Privacy Policy
 
