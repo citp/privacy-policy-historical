@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beteagle.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220927id_/http%3A//www.beteagle.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beteagle.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120020626id_/http%3A//beteagle.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# BetEagle.com - sportsbook - horsebook - casino
-
-Privacy Policy
+# BetEagle | beteagle.com
 
 BetEagle.com is committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about the BetEagle.com privacy policy.
 
