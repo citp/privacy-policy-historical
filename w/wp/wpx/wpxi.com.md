@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109021100id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111841id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - WPXI-TV News Story - WPXI Pittsburgh
 
