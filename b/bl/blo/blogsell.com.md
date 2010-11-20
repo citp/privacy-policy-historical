@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsell.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616210741id_/http%3A//www.blogsell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsell.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120061852id_/http%3A//www.blogsell.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BlogSell
 
