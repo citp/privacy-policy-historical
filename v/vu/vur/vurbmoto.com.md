@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vurbmoto.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609040713id_/http%3A//www.vurbmoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vurbmoto.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120093714id_/http%3A//www.vurbmoto.com/privacy) for the most accurate reproduction.*
 
-# Vurb Moto
-
-## Privacy Policy
+# Vurb Moto - Privacy Policy
 
 This privacy policy sets out how Vurb Media Group uses and protects any information that you give Vurb Media Group when you use this website.
 
