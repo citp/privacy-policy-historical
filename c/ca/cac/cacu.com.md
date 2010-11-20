@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cacu.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191537id_/http%3A//www.cacu.com/ancillary/privacy-and-security.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacu.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120235502id_/http%3A//cacu.com/ancillary/privacy-and-security.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
