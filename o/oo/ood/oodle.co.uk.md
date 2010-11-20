@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624045741id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121005507id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, and web sites which we operate on behalf of our partners (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control. 
 
-Information about Safe Harbor can be found [here](http://www.oodle.co.uk/info/privacy/safeharbor/). 
+Information about Safe Harbor can be found [here](https://web.archive.org/info/privacy/safeharbor/). 
 
 ### Protecting Your Privacy
 
@@ -27,7 +27,7 @@ Registration is required to place a listing through our service or to use other 
 
 Registered users may choose to receive a copy of our newsletter or receive other mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings as part of the registration process. 
 
-You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](http://www.oodle.co.uk/account/profile/) in the My Account section. 
+You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](https://web.archive.org/account/profile/) in the My Account section. 
 
 ### Cookies
 
@@ -76,7 +76,7 @@ Oodle may disclose information about its users if required to do so by law or in
 
   * Respond to a legal process (e.g., subpoenas, court orders).
   * Respond to claims that a listing or content violates the rights of third parties.
-  * Enforce our [Terms of Use](http://www.oodle.co.uk/info/terms/).
+  * Enforce our [Terms of Use](https://web.archive.org/info/terms/).
   * Protect the rights, property or personal safety of Oodle, its users or the general public.
 
 
