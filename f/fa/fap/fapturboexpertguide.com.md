@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fapturboexpertguide.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118102019id_/http%3A//www.fapturboexpertguide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapturboexpertguide.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195139id_/http%3A//www.fapturboexpertguide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FAP Turbo Expert Guide
 
