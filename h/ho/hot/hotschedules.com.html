@@ -1,28 +1,82 @@
-<!--The following is the downloaded HTML source of the hotschedules.com privacy policy that was archived on 2009-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090323063044id_/http%3A//www.hotschedules.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotschedules.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120195054id_/http%3A//www.hotschedules.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>HotSchedules: Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="online restaurant employee scheduling, employee scheduling, scheduling software, employee scheduling software, restaurant scheduling, restaurant scheduling software, restaurant schedules, restaurant employee scheduling, online scheduling, online scheduling software"> 
-<meta name="description" content="HotSchedules - simply create, post and manage employee work schedules online.">
+<meta name="description" content="HotSchedules easy-to-use, Web-based restaurant labor management solutions and workforce management software offers flexible, effective and improved communication for employees and managers.">
 <meta name="robots" content="index, follow">
 
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="cache-control" content="no-store">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="pragma" content="no-cache">
+<meta name="google-site-verification" content="Rh52pxT6lFEqOVMlSt7QpOVHb325OHdlGkWZ0QMUSbU">
+<meta name="google-site-verification" content="tFXDLbLmvHi-S9r0WjwJWwA0ZpSrbUYvgbvPIbG28OI">
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/main.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="/stylesheets/menu.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/stylesheets/lightbox.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/javascripts/shadowbox/shadowbox.css">
+
+<link rel="alternate" type="application/rss+xml" title="HotSchedules Blog" href="http://www.hotschedules.com/blog/main/en_US/feed/entries/rss">
 <link rel="shortcut icon" href="/favicon.ico">
 
-<script type="text/javascript" src="/javascripts/jquery.js"></script>
-<script type="text/javascript" src="/javascripts/main.js"></script>
+
+
+
+<script src="/javascripts/jquery.js" type="text/javascript"></script>
+<script src="/javascripts/gadoci_js/banner.js" type="text/javascript"></script>
+
+
+
+
+	<script type="text/javascript" src="/javascripts/jquery.cycle.all.2.73.js"></script>
+	
+	<script src="/javascripts/gadoci_js/menu.js" type="text/javascript"></script>
+	<script src="/javascripts/gadoci_js/fade.js" type="text/javascript"></script>
+	
+	
+	<script src="/javascripts/gadoci_js/jquery.localscroll.js" type="text/javascript"></script>
+	<script src="/javascripts/gadoci_js/jquery.scrollTo.js" type="text/javascript"></script>
+	<script src="/javascripts/gadoci_js/jquery.serialScroll.js" type="text/javascript"></script>
+	
+	<script type="text/javascript" src="/javascripts/main.js"></script>
+<script type="text/javascript" src="/javascripts/menu.js"></script>
+
+	
+	<script type="text/javascript" src="http://www.linkedin.com/js/public-profile/widget-os.js"></script>
+	
+	<script type="text/javascript" src="/javascripts/shadowbox/shadowbox.js"></script>
+<script type="text/javascript">
+Shadowbox.init();
+</script>
+
+	
+<script type="text/javascript">
+// initialize menu
+	jQuery(function(){
+		jQuery('ul#navigation-links').superfish();
+	});
+</script>
+
+
 </head>
 <body>
 <div id="wrapper">
   
+
+
+
+<script>
+
+$(function() { $('#username').keydown(function() { $('#announcement').html('<div id="announcement-text"><a href="http://blog.hotschedules.com/blog/2010/10/22/refer-a-friend-program.html">Refer-A-Friend Program Announced!</a></div>'); $(this).unbind('keydown'); }); });
+
+</script>
+
+
 <script>
     function initForm()
     {
@@ -44,9 +98,8 @@
         }
         else
         {
-            document.forms.loginForm.action = "";
             var currentDate = new Date();
-            document.forms.loginForm.action = "/hs/login.hs?timestamp=" + currentDate.getTime();
+	    document.forms.loginForm.action = "https://www.hotschedules.com/hs/login.hs?timestamp=" + currentDate.getTime();
             formSubmitted = true;
             document.forms.loginForm.submit();
         }
@@ -81,55 +134,132 @@
         emailWindow = window.open('/hs/emailDetails.jsp','emailWindow','width=825,height=350');
     }
 </script>
-<div id="header">
-    
-    <h1 style="cursor: pointer;">HotSchedules<span></span></h1>
-    
-    <div id="login">
-        
-        <p id="login-desc">
-            <a id="login-nav" href="/hs/login.jsp">Client Login</a>
-        </p>
 
-        <form name="loginForm" method="post" action="">
-            <p id="form-username">
-                <label>Username<br>
-                <input type="text" id="username" name="username" value="" autocomplete="off"></label>
-            </p>
-            <p id="form-password">
-                <label>Password<br>
-                <input type="password" name="password" value="" autocomplete="off"></label>
-                <input class="submit" type="image" name="buttonSubmit" onclick="submitLoginForm();return false;" value="go" src="/images/layout/buttons/submit.gif" alt="Go">
-            </p>
-        </form>
-        
-        <p id="login-forgot">
-            <br><a href="#" onclick="emailDetails()">Forgot username or password?</a>
-        </p>
-        
-    </div><!--/login-->
-        
-    <div id="navigation">
-        
-        <ul id="navigation-links">
-			
-				<!-- products page for everyone else -->
-				<li><a id="nav-home" title="Home" href="/">Home</a></li>
-				<li><a id="nav-company" title="Company Information" href="/company/">Company</a></li>
-        		<li><a id="nav-howitworks" title="How Workforce Communication Works" href="/how-workforce-employee-labor-shift-staff-management-communication-works/">How it Works</a></li>
-        		<li><a id="nav-products" title="Labor Management Service Solutions" href="/online-web-based-employee-scheduling-staff-labor-shift-workforce-management-software-communication/">Products</a></li>
-            	<li><a id="nav-clients" title="Clients" href="/workforce-management-clients/">Clients</a></li>
-			
-			
-			
-			
-            <li><a id="nav-news" title="Workforce Communication Management News" href="/news/">News &amp; Events</a></li>
-            <li><a id="nav-contact" title="Contact Information" href="/contact/">Contact</a></li>
-        </ul><!--/navigation-links-->
-                
-    </div><!--/navigation-->
+
+<div id="header">
+  <h1 style="cursor: pointer;">HotSchedules<span></span></h1>
+  <div id="announcement">
+  	
+  </div>
+  <div id="login">
+    <p id="login-desc"> <a id="login-nav" href="/hs/login.jsp">Client Login</a> </p>
+    <form name="loginForm" method="post" action="">
+      <p id="form-username">
+        <label>Username<br>
+        <input type="text" id="username" name="username" value="" autocomplete="off">
+        </label>
+      </p>
+      <p id="form-password">
+        <label>Password<br>
+        <input type="password" name="password" value="" autocomplete="off">
+        </label>
+        <input class="submit" type="image" name="buttonSubmit" onclick="submitLoginForm();return false;" value="go" src="/images/layout/buttons/submit.gif" alt="Go">
+      </p>
+    </form>
+    <p id="login-forgot"> <br>
+      <a href="#" onclick="emailDetails()">Forgot username or password?</a> </p>
+  </div>
+  <!--/login-->
+</div>
+ <div id="nav_area">
+			<div id="nav_bar_fix">
+				<ul id="jsddm">
+				
+   <li><a href="/"> <div id="nav_area_fix">Home</div><!-- close #nav_area_fix --></a></li>
+   
+   
+   
+    <li><a href="/how-it-works"><div id="nav_area_fix">How It Works <img src="/images/layout/navigation/drop_down_arrow.gif" alt="" width="11" height="6"></div></a>
+    	<ul>
+            <li><a href="/how-it-works">Overview</a></li>
+            <li><a href="/how-it-works/features-benefits">Features &amp; Benefits</a></li>
+            <li><a href="/how-it-works/service-support">Service &amp; Support</a></li>
+            <li><a href="/how-it-works/faqs">FAQs</a></li>
+
+        </ul>
+	</li>
+    <li><a href="/products"><div id="nav_area_fix">Products <img src="/images/layout/navigation/drop_down_arrow.gif" alt="" width="11" height="6"></div></a>
+   		<ul>
+            <li><a href="/products">Overview</a></li>
+            <li><a href="/products/team"><b>Team Edition</b><br><p>Up to 100 Employees</p></a></li>
+            <li><a href="/products/workforce"><b>Workforce Edition</b></a></li>
+            <li><a href="/products/enterprise"><b>Enterprise Edition</b></a></li>
+            <li><a href="/products/digital-logbook"><b>Digital Logbook</b></a></li>
+            <li><a href="/mobile">Mobile Apps</a></li>
+        </ul>
+    </li>
+    <li><a href="/clients"><div id="nav_area_fix">Clients <img src="/images/layout/navigation/drop_down_arrow.gif" alt="" width="11" height="6"></div></a>
+		   <ul>
+            <li><a href="/clients">Our Clients</a></li>
+            <li><a href="/clients/case-studies">Case Studies</a></li>
+            <li><a href="/clients/testimonials">Testimonials</a></li>
+        </ul>
+    </li>
     
-</div><!--/header-->
+     <li><a href="/company"><div id="nav_area_fix">Company <img src="/images/layout/navigation/drop_down_arrow.gif" alt="" width="11" height="6"></div></a>
+        <ul>
+            <li><a href="/company">Company Background</a></li>
+            <li><a href="/company/executive-team/">Executive Team</a></li>
+            <li><a href="/company/history">Company History</a></li>
+            <li><a href="/company/partners">Partners</a></li>
+            <li><a href="/company/careers">Careers</a></li>
+        </ul>
+    </li>
+    
+    
+    <li><a href="/news"><div id="nav_area_fix">News &amp; Events</div> </a></li>
+    
+    <li><a href="/contact/map"><div id="nav_area_fix">Contact <img src="/images/layout/navigation/drop_down_arrow.gif" alt="" width="11" height="6"></div></a>
+        <ul>
+            
+            <li><a href="/support/">Support<br><p>(512) 219-1492</p></a></li>
+            <li><a href="/live-demo.shtml">Schedule Live Demo</a></li> 
+            <li><a href="/contact/sales">Sales<br></a></li>
+            <li><a href="/contact/map">Corporate</a></li>   
+        </ul>
+        </li><li><a href="http://blog.hotschedules.com"><div id="nav_area_fix">Blog</div> </a></li>
+    
+</ul>    
+  				<div class="clear"></div> 
+  			</div><!-- close #nav_area_fix --> 
+		</div><!-- close #nav_area -->
+  <!--/navigation-->
+<!--/header-->
+
+
+<script type="text/javascript" charset="utf-8">
+  var is_ssl = ("https:" == document.location.protocol);
+  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+
+
+
+<!-- #feedback script was here -->
+<script type="text/javascript" charset="utf-8">
+  var feedback_widget_options = {};
+
+  feedback_widget_options.display = "overlay";  
+  feedback_widget_options.company = "hotschedules";
+  feedback_widget_options.placement = "right";
+  feedback_widget_options.color = "#222";
+  feedback_widget_options.style = "idea";
+  
+  
+  
+  
+  feedback_widget_options.limit = "3";
+  
+  GSFN.feedback_widget.prototype.local_base_url = "http://forums.hotschedules.com";
+  GSFN.feedback_widget.prototype.local_ssl_base_url = "http://forums.hotschedules.com";
+  
+
+  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script>
+
+
+
+
   <div id="middle">
     <div id="side-bar"> <br>
       <!--<a href="#"><img src="/images/layout/buttons/truste.png" width="64" height="91" alt="Truste" /></a>-->
@@ -248,20 +378,107 @@
   <!--/middle-->
 	
 
-<div id="footer">
-	<p>©2008 HotSchedules. All rights reserved. <a rel="nofollow" title="Privacy Statement" href="/privacy.shtml">Privacy</a> &amp; <a rel="nofollow" title="Legal" href="/legal.shtml">Legal</a></p>
+	<div id="footer">
+			<div id="footer_column">
+				<div id="footer_column_top">
+					<div id="footer_title">Site Navigation</div><!-- close #footer_title -->
+					<a id="footerlink" href="/how-it-works">How it Works</a><br>
+					<a id="footerlink" href="/products">Products</a><br>
+					<a id="footerlink" href="/Clients">Clients</a><br>
+					<a id="footerlink" href="/company">Company</a><br>
+					<a id="footerlink" href="/news">News &amp; Events</a><br>
+					<a id="footerlink" href="http://blog.hotschedules.com">Blog</a><br>
+					<a id="footerlink" href="/accounting">Accounting</a>
+
+				</div>
+				<div id="footer_column_bottom">
+					<div id="footer_title">Products</div><!-- close #footer_title -->
+					<a id="footerlink" href="/products/team">Team Edition</a><br>
+					<a id="footerlink" href="/products/workforce">Workforce Edition</a><br>
+					<a id="footerlink" href="/products/enterprise">Enterprise Edition</a><br>
+					<a id="footerlink" href="/products/digital-logbook">Digital Logbook</a><br>		
+				</div>
+			</div>
+			<div id="footer_column">
+				<div id="footer_column_top">
+					<div id="footer_title">Resources</div><!-- close #footer_title -->
+					<a id="footerlink" href="/how-it-works/faqs">FAQs</a><br>
+					<a id="footerlink" href="/how-it-works/features-benefits">Features &amp; Benefits</a><br>
+					<a id="footerlink" href="/clients/case-studies">Case Studies</a><br>
+					<a id="footerlink" href="/benefits/communication">Communication</a><br>
+					<a id="footerlink" href="/benefits/save-time">Save Time</a><br>
+					<a id="footerlink" href="/benefits/reduce-turnover">Reduce Turnover</a><br>
+					<a id="footerlink" href="/benefits/control-labor-costs">Control Labor Costs</a><br>
+					
+
+				</div>
+				<div id="footer_column_bottom">
+					<div id="footer_title">Company Information</div><!-- close #footer_title -->
+					<a id="footerlink" href="/company">Company Background</a><br>
+            		<a id="footerlink" href="/company/executive-team/">Executive Team</a><br>
+            		<a id="footerlink" href="/company/history">Company History</a><br>
+            		<a id="footerlink" href="/company/partners">Partners</a><br>
+            		<a id="footerlink" href="/company/careers">Careers</a><br>
+				</div>
+			</div>
+			<div id="footer_column">
+				<div id="footer_column_top">
+					<div id="footer_title">Product Sheets</div><!-- close #footer_title -->
+					<a id="footerlink" href="/downloads/HotSchedules_Team.pdf">Team Edition</a><br>
+					<a id="footerlink" href="/downloads/HotSchedules_Workforce.pdf">Workforce Edition</a><br>
+					<a id="footerlink" href="/downloads/HotSchedules_Enterprise.pdf">Enterprise Edition</a><br>
+
+				</div>
+				<div id="footer_column_bottom">
+					<div id="footer_title">Demos</div><!-- close #footer_title -->
+					<a id="footerlink" href="http://demo.hotschedules.com/demo" target="_blank">Team</a><br>
+					<a id="footerlink" href="http://www.hotschedules.com/demo/index2.shtml" target="_blank">Digital Logbook</a><br><br>
+					<div id="footer_title">Most Recent Blog Post</div><!-- close #footer_title -->
+					<div id="footer-blog-post">
+					<h3 class="blog-title-text"><a class="blog-title-text-footer" href="http://blog.hotschedules.com/blog/2010/11/1/hotschedules-participates-in-the-2010-brinker-charity-golf-c.html">HotSchedules participates in the 2010 Brinker Charity Golf Classic</a></h3>
+
+					</div><!-- close footer blog post -->
+				</div>
+			</div>
+			<div id="footer_column">
+				<div id="footer_column_top">
+					<div id="footer_title">Screenshots</div><!-- close #footer_title -->
+					<a id="footerlink" href="/products/team">Team Edition</a><br>
+					<a id="footerlink" href="/products/workforce">Workforce Edition</a><br>
+				</div>
+				<div id="footer_column_bottom">
+					<div id="footer_title">Take Action &amp; Connect</div><!-- close #footer_title -->
+					<a id="footerlink" href="/contact">Contact HotSchedules</a><br>
+					<a id="footerlink" href="/live-demo.shtml">Schedule Live Demo</a><br>
+					<a id="footerlink" href="http://blog.hotschedules.com">Visit our Blog</a><br>
+					<a id="footerlink" href="http://www.twitter.com/hotschedules">Follow us on Twitter</a><br>
+					<a id="footerlink" href="http://www.facebook.com/pages/HotSchedules/95541931524">HotSchedules on Facebook</a><br>
+			
+				</div>
+				
+			</div>
+<div id="ie6-fix">
+<div id="copywright">
+
+Copyright, 2010 HotSchedules. All rights reserved. <a id="footerlink" href="/privacy.shtml">Privacy</a> &amp; <a id="footerlink" href="/legal.shtml">Legal</a>
 </div>
+</div><!-- close #ie6-fix -->
+		</div>
+		
+		
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-7440635-1");
+//var pageTracker = _gat._getTracker("UA-7440635-1");
+var pageTracker = _gat._getTracker("UA-2086935-1");
 pageTracker._trackPageview();
 </script>
 <!--/footer-->
+
 </div>
 <!--/wrapper-->
 
 
-</body></html>
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><a onclick="Shadowbox.close()">Cancel</a></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div><div style="clear:both"></div></div></div></div></div></body></html>
