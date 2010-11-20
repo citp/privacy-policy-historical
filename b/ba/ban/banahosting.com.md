@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the banahosting.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106065508id_/http%3A//www.banahosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banahosting.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120230041id_/http%3A//www.banahosting.com/privacy-policy.shtml) for the most accurate reproduction.*
 
-# Web Hosting Plans - Website Hosting, Web Hosting, Ecommerce Web Hosting, Affordable Web Hosting, JSP Web Hosting by BanaHosting.com
+# Web Hosting Domain Website Hosting
 
 Introduction
 
