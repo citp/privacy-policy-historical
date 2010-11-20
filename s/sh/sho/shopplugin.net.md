@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611220042id_/http%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190629id_/http%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Shopp — plugin ecommerce for wordpress
 
@@ -47,7 +47,7 @@ Our order form asks customers to enter sensitive information (such as credit car
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our customers’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
 
-If visitors have any questions about the security on shopplugin.net, feel free to contact [Customer Service](https://shopplugin.net/contact).
+If visitors have any questions about the security on shopplugin.net, feel free to contact [Customer Service](http://shopplugin.net/contact).
 
 #### Correcting, Updating, deleting & Deactivating Personal Information
 
@@ -63,9 +63,9 @@ If, however, we are going to use visitors’ personally identifiable information
 
 If visitors have any questions or suggestions regarding our privacy policy, please contact us at:
 
-[Customer Service Form](https://shopplugin.net/contact)  
-Phone: (937) 508-9094
+[Customer Service Form](http://shopplugin.net/contact)  
+Phone: (888) 977-4662
 
 Ingenesis Limited  
-P.O. Box 38156  
-Urbana, Ohio 43078-8156
+P.O. Box 2846  
+Springfield, Ohio 45503
