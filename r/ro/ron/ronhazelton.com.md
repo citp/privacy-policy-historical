@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418204517id_/http%3A//www.ronhazelton.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120194900id_/http%3A//www.ronhazelton.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DIY Home Improvement Guides - How to Repair and Remodel your Bathroom, Kitchen and more
 
@@ -30,4 +30,4 @@ We will never at any time sell demographic information we may capture on our sit
 
 This web site contains links to other sites. Please be advised that we are not responsible for, nor do we make any express or implied warranties to the content, privacy, or security practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information
 
- _If you feel that we are not abiding by this privacy policy, contact us immediately via telephone at 203-336-6810 or via email at info@ronhazelton.com._
+_If you feel that we are not abiding by this privacy policy, contact us immediately via telephone at 203-336-6810 or via email at info@ronhazelton.com._
