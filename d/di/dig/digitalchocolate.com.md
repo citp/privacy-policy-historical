@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the digitalchocolate.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523022532id_/http%3A//www.digitalchocolate.com/index.php%3Fpage_id%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchocolate.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120194832id_/http%3A//www.digitalchocolate.com/index.php%3Fpage_id%3D159) for the most accurate reproduction.*
 
 # Privacy & Security | Digital Chocolate
-
-## Privacy & Security
 
 ### Your Privacy Matters to Us
 
