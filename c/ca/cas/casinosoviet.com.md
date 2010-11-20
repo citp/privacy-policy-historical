@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinosoviet.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227053700id_/http%3A//www.casinosoviet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinosoviet.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120123001id_/http%3A//casinosoviet.com/privacy.html) for the most accurate reproduction.*
 
 # Casino Soviet
 
