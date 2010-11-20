@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the thesportsbank.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621091432id_/http%3A//www.thesportsbank.net/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportsbank.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120214104id_/http%3A//www.thesportsbank.net/legal-privacy-policy) for the most accurate reproduction.*
 
-# The Sports Bank.Net » Legal Privacy Policy
-
-xx 
+# Legal Privacy Policy | The Sports Bank.Net
 
 Privacy Policy
 
 The Sports Bank.net knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers The Sports Bank.net ’s treatment of personal information that The Sports Bank.net gathers when you are on The Sports Bank.net website and when you use The Sports Bank.net services. This policy does not apply to the practices of third parties that The Sports Bank.net does not own or control, or to individuals that The Sports Bank.net does not employ or manage.  
+This Privacy Policy covers The Sports Bank.net ‘s treatment of personal information that The Sports Bank.net gathers when you are on The Sports Bank.net website and when you use The Sports Bank.net services. This policy does not apply to the practices of third parties that The Sports Bank.net does not own or control, or to individuals that The Sports Bank.net does not employ or manage.  
 Information Collected by The Sports Bank.net
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our The Sports Bank.net users:
@@ -33,9 +31,9 @@ Cookies are alphanumeric identifiers that we transfer to your computer’s hard 
 
 The Sports Bank.net cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of The Sports Bank.net ’s coolest features.
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of The Sports Bank.net ‘s coolest features.
 
-The Sports Bank.net ’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.  
+The Sports Bank.net ‘s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.  
 Sharing Your Information
 
 Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
