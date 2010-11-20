@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331231019id_/http%3A//www.towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112102id_/http%3A//www.towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -10,11 +10,12 @@ When magazine subscriptions are purchased, we will supply the customer's contact
 
 We use your IP address to help diagnose problems with our server, administer our Web site and to provide security. Our site uses "cookies" to keep track of your shopping cart contents. 
 
-  * Whenever sensitive personal or financial information is transmitted, it is sent via a [secured connection](https://web.archive.org/web/20100331231019id_/http%3A//www.towerhobbies.com/help/security.html) directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, secure transmission of personal information over the Internet. 
+  * Whenever sensitive personal or financial information is transmitted, it is sent via a [secured connection](https://web.archive.org/web/20101120112102id_/http%3A//www.towerhobbies.com/help/security.html) directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, secure transmission of personal information over the Internet. 
   * E-mail addresses are collected only for the purpose of contacting you in the future. We WILL NOT sell or rent your e-mail address to other companies or individuals. 
   * We do not collect the personal information for children under the age of 13. We are prohibited from conditioning a child's participation in an activity on the child disclosing more personal information than is reasonably necessary. In cases where we have inadvertently collected personal information of a child, the parent can always review this information, choose to have this information deleted from our records and refuse to permit further collection or use of this information. 
   * We do occasionally share portions of our customer postal mailing list with trusted and approved high-quality companies. We choose these companies on a very high standard and will only allow postal mailings for offers which we feel you may be interested in. _We never sell or rent e-mail addresses, phone numbers or financial information._
   * In some cases products are drop-shipped directly from the manufacturer. We share only the information the manufacturer needs to fulfill the order and contact the customer. 
+  * We may be forced to share customer purchase data to government organizations when compelled by law to do so. 
 
 This site gives users the following options to not receive future communications. 
   1. If you wish to change your e-mail subscription enter your e-mail address [here](http://www3.towerhobbies.com/cgi-bin/wte0190p). 
@@ -31,4 +32,4 @@ Material changes to Tower Hobbies' privacy policies will be posted in this Priva
 
 This Privacy statement became effective on 7/7/04. 
 
-Updated 10/30/09. 
+Updated 05/14/10. 
