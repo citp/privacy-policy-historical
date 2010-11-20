@@ -1,124 +1,134 @@
-> *The following text is extracted and transformed from the filmsite.org privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606100809id_/http%3A//www.filmsite.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmsite.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193303id_/http%3A//www.filmsite.org/privacy.html) for the most accurate reproduction.*
 
 # Filmsite - Privacy Policy
 
-**AMCTV.com and Filmsite.org PRIVACY POLICY** Click below for specific information about:
+**AMCTV.com PRIVACY POLICY**
 
-    [Membership Eligibility and Participation](https://web.archive.org/privacy.html#member)
-    [Types of Information Collected and Purpose](https://web.archive.org/privacy.html#collection)
-    [Disclosure to Third Parties](https://web.archive.org/privacy.html#thirdparty)
-    [Cookies and Tracking Devices](https://web.archive.org/privacy.html#cookies)
-    [How to Add, Delete or Change Information](https://web.archive.org/privacy.html#adddelete)
-    [Our Security Procedures](https://web.archive.org/privacy.html#security)
-    [Children's Privacy Policy](https://web.archive.org/privacy.html#children)
-    [Terms of Usage Agreement](https://web.archive.org/web/20090606100809id_/http%3A//www.filmsite.org/termsofuse.html)
+_NOTE:_
 
-We created this general audience website to be entertaining and informational for our visitors. Safeguarding your privacy is very important to us. We take seriously the collection of any personal information such as your name, home and e-mail addresses, telephone number, birth date and gender ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include both registered members of the AMCTV.com website and any other person that accesses our website at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below. This Privacy Policy applies solely to our AMCTV.com and Filmsite.org website.
+In our previous Privacy Policy, we agreed that we would notify you, and provide you the opportunity to opt out, if we decided in the future to share personal information collected on our Web site with our affiliates, including our parent company, CSC Holdings, Inc. and other entities that may control us, be controlled by us, or are under common control with us. We would now like to share information you may have provided through this Website, such as your name, address, telephone number, and/or email address, with our affiliated companies in order to better serve you. Our affiliates may use that information to contact you about their products and services and those of their advertisers, to market products that may be of interest to you, to improve their services and offerings, and for other reasons consistent with their privacy policies and ours. To see a representative list of affiliates, please [_click here_](http://www.cablevision.com/about/index.jsp).
 
-**I. Who We Are And How To Reach Us**
+If you have submitted personal information through our Website prior to November 30, 2009 and would like to opt out of this information sharing, you may do so by sending an email to [amc_registration AT rainbow-media DOT com](mailto:amc_registration@rainbow-media.com) from the email address that we have on file for you. Please note that Company may still use your information in other ways permitted by our Privacy Policy, and that any information collected subsequent to this notice is subject to our new Privacy Policy. Our new Privacy Policy is set forth below. 
+
+Click below for specific information about:
+
+    [AMERICAN MOVIE CLASSICS COMPANY LLC](https://web.archive.org/privacy.html#AMC)
+    [INFORMATION COLLECTION](https://web.archive.org/privacy.html#informationcollection)
+    [INFORMATION USE](https://web.archive.org/privacy.html#informationuse)
+    [INFORMATION DISCLOSURE](https://web.archive.org/privacy.html#informationdisclosure)
+    [INTERNATIONAL VISITORS](https://web.archive.org/privacy.html#international)
+    [YOUR CHOICES REGARDING MARKETING AND OPTING OUT](https://web.archive.org/privacy.html#marketingoptingout)
+    [UPDATING YOUR INFORMATION](https://web.archive.org/privacy.html#updatinginformation)
+    [LINKS](https://web.archive.org/privacy.html#links)
+    [HOW TO ADD, CHANGE, OR DELETE PERSONAL INFORMATION](https://web.archive.org/privacy.html#adddelete)
+    [COOKIES](https://web.archive.org/privacy.html#cookies)
+    [CHILDREN'S PRIVACY POLICY](https://web.archive.org/privacy.html#childrens)
+    [CALIFORNIA PRIVACY RIGHTS](https://web.archive.org/privacy.html#california)
+    [CONTACTING US ABOUT THIS POLICY](https://web.archive.org/privacy.html#contact)
+    [SECURITY](https://web.archive.org/privacy.html#security)
+    [GOVERNING LAW](https://web.archive.org/privacy.html#governing)
+
+**AMERICAN MOVIE CLASSICS COMPANY LLC**
     
 
-This website is operated by American Movie Classics Company ("AMCC") LLC, which owns the American Movie Classics program service and the AMCTV.com and Filmsite.org website. AMCC is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on this website or if you have any questions about our privacy policies. Please contact us at:
+Thank you for visiting this website (the "Website"). Your patronage means a lot to us. At American Movie Classics Company LLC ("Company"), we understand that privacy is an important issue for visitors to our websites and we are committed to providing you clear information about how we treat information provided to us. This Privacy Policy ("Policy") describes the information we collect, what we do with it and the safeguards we have in place to protect it. 
 
-**American Movie Classics Company LLC**  
-11 Penn Plaza, 15th Floor   
-New York, NY 10001   
-**Attention: AMCC Privacy Coordinator**  
-[Privacy@amctv.com](mailto:Privacy@amctv.com)
-**II. Membership and Participation Eligibility**
+Your use of any part of the Website indicates your acceptance of this Policy and of the collection, use and disclosure of your personal information in accordance with this Policy. Please note that this Policy applies only to personal information collected on the Website. It does not apply to any other information collected or obtained by any other means by Company, its parents, affiliates, or subsidiaries.
+
+As we update and expand our services, we reserve the right to modify this Privacy Policy at any time. Any changes will be posted here so that you are always aware of what information is collected, how it is used and when, if ever, it is disclosed. Please check this page periodically for changes. Your continued use of this site after changes to the Privacy Policy indicates your acceptance of the terms of any revisions to this Policy.
+
+**INFORMATION COLLECTION**
     
 
-You must be thirteen (13) years of age or older to be a member of our website and receive membership benefits, such as our website's newsletter. To participate in contests, sweepstakes and/or special events, you must meet the designated minimum age requirements (for example, eighteen years of age or older) for the specific event. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20090606100809id_/http%3A//www.filmsite.org/termsofuse.html) for additional information on membership and/or participation on our website.
+When you register for an account or visit certain portions of the Website, you may be prompted to provide, on a voluntary basis, certain information about yourself such as: (i) name; (ii) email address; (iii) date of birth; (iv) mailing address; (v) telephone numbers; and (vi) interests and hobbies. You are not required to provide any information to use our Website, although certain areas may require registration.
 
-**III. Collection of Personal Information**
+Certain third parties may join with us to offer website activities, features or promotions, such as contests or special events. By submitting personal information in conjunction with these joint activities, you are providing that information to both parties simultaneously. The co-sponsor or partner may maintain a separate privacy policy governing the collection, use, and disclosure of your personal information, and this Policy does not cover their collection, use, and/or disclosure. For example, during your visit to our Website, you may link to or view as part of a frame on a page of this Website, certain content that is actually created or hosted by a third party. Also, through this Website you may be introduced to, or be able to access, information, websites, advertisements, features, contests or sweepstakes offered by other parties. Company is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature page or page operated by a third party.
+
+The Website may link to certain third parties who offer services on our behalf. Information collected on those sites is subject to the third party’s own privacy policy. However, in some circumstances, those third parties may provide us with the information you provide to the third party. If so, we will treat that information in accordance with this Policy.
+
+We may also use cookies and other technologies to learn about how you interact with our site to provide you with better service, to improve your customer experience, and for internal research and reporting purposes. We also may collect anonymous data on Website activity, such as how many people visit the site, what pages they visit, where they come from, how long they stay, what items they purchase, etc. Such data is collected on an aggregate, anonymous basis, through the use of Internet server logs and cookies. We may also take non-anonymous data and de-identify it so that it becomes anonymous either by itself or when aggregated. We may use any anonymous or aggregated data for any purpose, including for research and marketing purposes, and may also share such data with any third parties, such as advertisers.
+
+**INFORMATION USE**
     
 
-We provide various informative, educational, and entertaining features as part of this website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policy or our [Terms of Usage Agreement](https://web.archive.org/web/20090606100809id_/http%3A//www.filmsite.org/termsofuse.html). We may retain personal information for an indefinite amount of time to preserve our website membership database and to comply with various federal and state laws.
+By providing information on the Website, you agree that personal information that you provide may be used by Company, its parents, affiliates, and subsidiaries to communicate with you for the purposes of: offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, and similar purposes. For a current list of Company’s affiliates, [please click here](http://www.cablevision.com/about/index.jsp).
 
-**IV. Registration for Participation in Website Activities and Services**
+From time to time, we may provide access to information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to companies providing services to us, including billing, sales and marketing, market research, fulfillment, data storage, analysis and processing, and legal services. We may also provide access to third parties who assist us in providing targeted advertising. Third parties who have such access may not use the information for any other purpose, including their own marketing.
+
+**INFORMATION DISCLOSURE**
     
 
-##### Use and Collection of Information by Contract Service and Operational Providers
+We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent. We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy. You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect our rights, property or personal safety as well as those of our users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
 
-For the convenience of our visitors, we will provide the opportunity to purchase AMC-related goods, merchandise and services through this website. Companies not affiliated, owned or operated by AMCC, its parents, or subsidiaries will handle some of these transactions. We call these companies that conduct our e-commerce operations and/or order fulfillment "Operational Providers." If you choose to use these optional services, our Operational Providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these Operational Providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the provider. The Operational Provider may also share your personal information with us.
+Finally, we also reserve the right to disclose and transfer all of the information collected at our sites, including personally identifiable information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
 
-In most instances, we request that our Operational Providers adhere to the provisions in this Privacy Policy and that such providers only share visitors' personal information with AMCC, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested order. However, you must read an Operational Provider's privacy policy to determine the extent of use and disclosure of your personal information collected online. AMCC, its parents, partners, members affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of Operational Providers, nor are they responsible or liable for the products or services offered and/or provided by Operational Providers.
-
-**V. Use of Cookies and Tracking Devices**
+**INTERNATIONAL VISITORS**
     
 
-This website uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a website. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain website. Cookies do not allow the website to access personal information that you have not already provided. Cookies enable us to track the number of contest and promotion entries, how often visitors are visiting our website and specific website pages, estimate the audience size for sponsors and advertisers, and to track user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this website. However, you may find that some areas on the website will be slower, may not function at all, or you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled.
+This Website is controlled, operated and administered entirely within the United States. If you visit one of our sites from a location outside the United States, please be advised that any information you provide may be processed in and transferred to the United States, where privacy protections may not be as comprehensive as those in the European Union or other locations. By using this Website, you consent to this transfer and to the use of the personal identifiable data as described herein.
 
-This website may use clear Graphic Interchange Formats "("GIFs" (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code that is programmed to collect certain information about a visit to a particular website or website page. We may use GIFs to gather non-personal, aggregate information on visits to our website and track usage of website links. Although we do not intend to use GIFs to collect personal information, some personal information you provide over our website may be linked to non-personal information collected through GIFs. We do not disclose this combined information to third parties. (However, please note that personal information not combined with GIF or other tracking data may be disclosed in accordance with this policy.) Other websites may also use clear GIFs.
-
-AMCC, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitors must review other website operators' privacy policies to determine the type and extent of tracking device use.
-
-**VI. Use and Collection of Information by Advertisers and Sponsors**
+**YOUR CHOICES REGARDING MARKETING AND OPTING OUT**
     
 
-Our website will post banner ads and other forms of advertisements, and/or links to the websites of advertisers or sponsors which are companies that are not owned or operated by AMCC, its parents or subsidiaries. These advertisers and sponsors may independently solicit and collect personal information, or send their own cookies to our visitors. Please be advised that when you visit an advertiser's or sponsor's website you will be subject to the privacy policy and terms of usage agreement of that website operator. AMCC, its parents, partners, members, affiliates or subsidiaries, will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors.
+If you have provided personally identifiable information on one of our Websites and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at [amc_registration AT rainbow-media DOT com](mailto:amc_registration@rainbow-media.com); or (iii) writing us at American Movie Classics Company LLC, 11 Penn Plaza, New York, NY 10001. Attention: Clayton Neuman.
 
-**VII. Our Policy on Disclosing Your Information to Parties**
+**UPDATING YOUR INFORMATION**
     
 
-Other than AMCC, we only share or disclose your personal information with third parties when you consent to the disclosure, when disclosure is required or authorized by law, when it is necessary to operate the website or our website services, to provide or enhance our website features, complete requested transactions, protect the safety of our visitors, employees or property, when disclosure is consistent with AMCC practices for services that are similarly provided offline, or as otherwise provided in this Privacy Policy. For example, AMCC currently combines personal information from online magazine subscriptions with the information from offline magazine subscriptions. We may share or rent this information with other entities for various purposes. Visitors placing online magazine subscriptions who do not want their personal information shared with other entities may be able to either grant their approval on how their personal information will be used before it is collected ("opt-in"), or choose to deny use of their information for additional purposes ("opt-out").
+To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email [AMCCUSTOMERSERVICE@amctv.com](mailto:AMCCUSTOMERSERVICE@amctv.com). If a member name and password were required to access the feature, you will need to provide such information to update your registration information.
 
-AMCC is majority-owned by Cablevision Systems Corporation ("Cablevision") and we may in the future share personal information with Cablevision, its affiliates or other entities for other purposes. If we decide in the future to enter into such sharing arrangements, we will disclose in this Privacy Policy the type of personal information that will be shared, the reason we are sharing the information, and how to contact us if you do not want us to share your personal information ("opt-out"). We currently conduct joint activities with members of the Cablevision family; however, we will not share individual visitor's personal information with these entities unless we provide notice in this Privacy Policy. In the event of a sale or transfer of AMCC and/or its assets, including database information, personal information may be transferred to other third parties. The recipient of this information may have privacy policies that differ from those in this policy.
+**LINKS**
+    
 
-When visitors send an e-mail to us, we will protect the e-mail address and other personal contact information. However, we may disclose the content of your e-mail to other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20090606100809id_/http%3A//www.filmsite.org/termsofuse.html). We may share your personal information with our Operational Providers or those persons, companies or agents who provide support for the internal operations of the website, such as contest fulfillment services, maintenance and technical services, and e-commerce and auction contractors. If you are purchasing goods, merchandise or services on this website and use a credit card to complete the transaction, our Operational Providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order.
+You should note that the Website has business relationships with (and may provide hyperlinks to) unaffiliated third parties (e.g. sites that offer discounts for certain products, sell tickets, sell branded merchandise, etc.) ("Partners") and may provide links to the websites of such Partners so that they can offer you products and services. If you visit a third party site by clicking on such hyperlink found on our webpage, any information you provide is subject to that third party site's privacy policy; and we encourage you to review that website's privacy policy before providing any personally identifiable information. The entities controlling these third party websites are responsible for ensuring compliance with all applicable laws, regulations and rules. 
 
-We may provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the website or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
-
-##### Third Party Advertising
-
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/us/corporate/privacy).
-
-##### Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-
-**VIII. How To Add, Change, or Delete Personal Information**
+**HOW TO ADD, CHANGE, OR DELETE PERSONAL INFORMATION**
     
 
 You will have access to your membership profile collected and maintained by our website. You may add, change or delete personal information that we have collected about you over the AMCTV.com and Filmsite.org website by contacting us via e-mail at [Privacy@amctv.com](mailto:Privacy@amctv.com). Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address.
 
-**IX. Our Security Procedures**
+**COOKIES**
     
 
-We require our employees to protect the privacy of all personal information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. Credit card information is transmitted via encrypted technology. If we decide to share visitor personal information with other members of the Cablevision family, the receiving entity will also maintain the security and integrity of personal information collected over our website.
+Data is gathered through the use of Internet server logs and cookies. A web server log is a file where website activity is stored. A cookie is a small piece of information that a website sends to a visitor's computer, which is stored on his or her hard drive. Company uses cookies to track repeat visits to our website. These cookies do not store personally identifiable information, although information in cookies may be combined with other identifiable information that we maintain. You can disable cookies within your browser, although some portions of the Website may not function properly if you do so.
 
-For the convenience of our visitors, we may offer a list of helpful website links provided by other entities and/or persons. AMCC does not endorse or recommend, nor is it liable for, the products or services of any websites not owned or operated by AMCC. We are also not responsible or liable for the collection, use and/or disclosure practices of third parties. When you visit other websites you will be subject to the privacy policies and terms of usage agreements, if any, of that website operator.
-
-**X. Notification of Changes in the Privacy Policy**
-    
-
-We will review our security measures and/or our website privacy practices on a periodic basis, and we may modify our policies as AMCC deems appropriate. We may also change or update our website Privacy Policy if we add new services or features and will post these changes in a revised policy available on our website. We encourage you to review our Privacy Policy on a regular basis.
+Company and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information. For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or [click here](http://www.networkadvertising.org/) to link to Network Advertising Initiatives.
 
 **CHILDREN'S PRIVACY POLICY**
     
 
-AMCC respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen. We also offer parents and guardians additional guidelines to help keep your child's personal information safe and your family's Internet participation enjoyable.
+Company does not target this Website to children under the age of thirteen and we do not knowingly collect or solicit Personally Identifiable Information from or about children under the age of thirteen except as permitted by law. If we discover we have received any information from a child under the age of thirteen in violation of this Policy, we will delete that information immediately. If you believe Company has any information from or about anyone under the age of thirteen, please contact us at the address listed below.
 
-We have developed this website to appeal to visitors over the age of thirteen. Although visitors of all ages may navigate through our website, we do not knowingly collect personal information from persons under the age of thirteen. If upon notification by a parent or guardian, or discovery by other means, that we have improperly collected personal information from a child under thirteen or that such child has improperly registered n this website by using false information, we will immediately cancel the child's membership and/or participation, and delete the child's personal information, user name and password from our records.
+**CALIFORNIA PRIVACY RIGHTS**
+    
 
-If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen years of age, except in the following circumstances allowed by law:
+Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable information to third parties for their direct marketing purposes. To make such a request, please send an email to the contact information below.
 
-  * To provide notice and get consent from a parent or guardian;
-  * To respond to a one-time request from a child, after which we will immediately delete the child's information;
-  * To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and we will notify the parent or guardian before we contact the child again;
-  * To protect the safety of a child who is participating on this website; and
-  * To protect the security or integrity of the website, to take precautions against liability, to respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law.
+**CONTACTING US ABOUT THIS POLICY**
+    
 
+Please do not hesitate to contact us with any questions, concerns, requests or comments by:
 
-
-Please do not hesitate to contact us if you have any questions about this Privacy Policy.
+Writing to us at:
 
 **American Movie Classics Company LLC**  
-100 Penn Plaza, 15th Floor   
+11 Penn Plaza  
 New York, NY 10001  
 **Attention: AMCC Privacy Coordinator**  
-[Privacy@amctv.com](mailto:Privacy@amctv.com)
+[amc_registration AT rainbow-media DOT com](mailto:amc_registration@rainbow-media.com)
+  
+**SECURITY**
+    
 
-**Thank you for visiting!**
+We use reasonable commercial efforts to protect the security of personal information that we collect online and store. However, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure.
 
-AMCC Privacy Policy. Revised.07.18.2005.
+Please be careful and responsible whenever you are on line. Should you choose to voluntarily disclose personally identifiable information on our Website, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Company and this Policy.
+
+**GOVERNING LAW**
+    
+
+This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.
+
+Copyright © 2009 American Movie Classics Company LLC
+
+Version: December 2009
