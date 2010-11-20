@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627125248id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120191926id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy
+# Privacy Police | Pitchero
 
 For the purposes of the Data Protection Act 1998, the data controller is Pitch Hero Ltd ("Pitch Hero") of Hawthorne House, Dark Lane, Birstall, Leeds, United Kingdom
 
