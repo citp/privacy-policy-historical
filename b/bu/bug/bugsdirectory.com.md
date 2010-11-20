@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugsdirectory.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114125117id_/http%3A//www.bugsdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsdirectory.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120065910id_/http%3A//www.bugsdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacy
 
