@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the americajob.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922083032id_/http%3A//www.federaljobsearch.com/privacy.asp%3Fcid%3D0%26tid%3D29542787) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americajob.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185236id_/http%3A//www.americajob.com/privacy.asp%3Fcid%3D0%26tid%3D-1) for the most accurate reproduction.*
 
 # Federal Job Search Privacy Policy and Terms
 
-This privacy policy applies to the websites of FederalJobSearch.com and GovernmentJobSearch.com.  Effective date: May 1, 2006.
+This privacy policy applies to the websites of americajob.com and GovernmentJobSearch.com.  Effective date: May 1, 2006.
 
-Federal Job Search is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.federaljobsearch.com](http://www.federaljobsearch.com/) and [http://www.governmentjobsearch.com](http://www.governmentjobsearch.com/) .  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Federal Job Search is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.americajob.com](http://www.americajob.com/) and [http://www.governmentjobsearch.com](http://www.governmentjobsearch.com/) .  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Julie Chipman at custservice@federaljobsearch.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php.  TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Julie Chipman at custservice@americajob.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php.  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## Registration
 
@@ -58,7 +58,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 The information within this website is copyrighted,no person may resell or repackage this information in any way shape or form. 
 
-If you have any questions about security on our Web site, you can send email us at custservice@federaljobsearch.com.
+If you have any questions about security on our Web site, you can send email us at custservice@americajob.com.
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such web sites.
 
@@ -66,7 +66,7 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
-If you no longer wish to receive our job search emails, you may opt-out of receiving them by following the instructions included in each job search alert email or by emailing us at jobs@federaljobsearch.com. We offer an opportunity to opt-out of certain communications on our customer search menu, or you may contact us at jobs@federaljobsearch.com or by mail to Federal Job Search at 609 East Market Street, Suite 103, Charlottesville, VA 22902.
+If you no longer wish to receive our job search emails, you may opt-out of receiving them by following the instructions included in each job search alert email or by emailing us at jobs@americajob.com. We offer an opportunity to opt-out of certain communications on our customer search menu, or you may contact us at jobs@americajob.com or by mail to Federal Job Search at 609 East Market Street, Suite 103, Charlottesville, VA 22902.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -76,13 +76,13 @@ You may opt-out of receiving communications from us at any time. You may remove 
 
 1.            Select "Contact Us" from anywhere in the web site, or choose "Send us your feedback" from your customer menu. Then choose comment type "Please cancel my account." This will terminate your service. 
 
-2.             You can send us an email message requesting cancellation of your service to [jobs@federaljobsearch.com](mailto:jobs@federaljobsearch.com?subject=remove\(cid=79132\)). Please remember to include your customer id, which is included in every email, and your email address.
+2.             You can send us an email message requesting cancellation of your service to [jobs@americajob.com](mailto:jobs@americajob.com?subject=remove\(cid=79132\)). Please remember to include your customer id, which is included in every email, and your email address.
 
 3.         Log into your account and choose “Terminate Account” from your customer menu.
 
 You have the following options for changing information previously provided:
 
-1.               Visit [http://www.federaljobsearch.com](http://www.federaljobsearch.com/default.asp?cid=79132&tid=77316), log onto your account by entering your email address and password and then modify your profile . 
+1.               Visit [http://www.americajob.com](http://www.americajob.com/default.asp?cid=79132&tid=77316), log onto your account by entering your email address and password and then modify your profile . 
 
 2.               When you receive an email job report, use the link provided to allow you to modify or deactivate your profile.
 
@@ -90,4 +90,4 @@ You have the following options for changing information previously provided:
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-If you have any questions about this privacy statement, our practices or your dealings with us, you can contact: [jobs@federaljobsearch.com](mailto:jobs@federaljobsearch.com).
+If you have any questions about this privacy statement, our practices or your dealings with us, you can contact: [jobs@americajob.com](mailto:jobs@americajob.com).
