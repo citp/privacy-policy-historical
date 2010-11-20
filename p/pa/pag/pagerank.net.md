@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621034133id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190447id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
 
 # PageRank » Privacy Policy
 
