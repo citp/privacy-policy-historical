@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609072800id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182730id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
 
 # DealsOfAmerica.com - Deals, Coupons, Freebies, Special Offers, Promotions!
 
