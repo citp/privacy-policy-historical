@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-video-tube.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805073146id_/http%3A//www.home-video-tube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-video-tube.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195003id_/http%3A//www.home-video-tube.com/privacy) for the most accurate reproduction.*
 
 # Home Made Amateur Porn & Sex Videos - Couples, Voyeurs & Real Amateurs
 
