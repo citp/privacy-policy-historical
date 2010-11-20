@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212227id_/http%3A//crsdata.net/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185022id_/http%3A//www.crsdata.net/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Courthouse Retrieval System - Service
 
