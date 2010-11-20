@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vccircle.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213103id_/http%3A//www.vccircle.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vccircle.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120015932id_/http%3A//www.vccircle.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VCCircle
 
