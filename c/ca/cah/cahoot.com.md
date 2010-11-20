@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313170352id_/http%3A//www.cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120084219id_/http%3A//www.cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
 
 # security and privacy
 
 We are committed to protecting the privacy of all personal information which we obtain from you when you visit the cahoot website and when you use your cahoot account. Our aim is to safeguard the security and privacy of your personal information whilst providing you with a personalised service that keeps you up-to-date with products and services which meet your preferences and needs. By using the cahoot website, you agree to the collection and use of such information in accordance with the following Privacy Policy and Data Protection Statement.
 
-For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20100313170352id_/http%3A//www.cahoot.com/security/online_security.html).
+For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20101120084219id_/http%3A//www.cahoot.com/security/online_security.html).
 
 ## security
 
@@ -95,4 +95,6 @@ Where you and another person wish to open a joint account, each one of you needs
 
 From time to time, we may need to transfer your personal information outside the European Economic Area where this is necessary to operate your account or provide information to a cahoot business partner. Where we do so we will take reasonable steps to ensure that your personal data receives similar protections as those within the European Economic Area.
 
-Our [ data protection statement ](https://web.archive.org/web/20100313170352id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf) relates to the information you give in the online application form and to any other information which you provide to cahoot or which it holds on you whether or not you become a customer.
+Our [ data protection statement ](https://web.archive.org/web/20101120084219id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf) relates to the information you give in the online application form and to any other information which you provide to cahoot or which it holds on you whether or not you become a customer.
+
+back
