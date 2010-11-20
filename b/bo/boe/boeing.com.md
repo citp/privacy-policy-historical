@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boeing.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525221350id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boeing.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120072029id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Boeing: General Privacy Policy
 
