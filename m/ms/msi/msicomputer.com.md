@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214184337id_/http%3A//www.msicomputer.com/index.php%3Ffunc%3Dhtml%26name%3Dabout_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094742id_/http%3A//us.msi.com/index.php%3Ffunc%3Dhtml%26name%3Dabout_privacy) for the most accurate reproduction.*
 
 # MSI USA – Computer, Laptop, Notebook, Desktop, Mainboard, Graphics and more
 
-**You are here  : **[Home](https://web.archive.org/web/20091214184337id_/http%3A//www.msicomputer.com/index.php)  > About MSI 
+**You are here  : **[Home](https://web.archive.org/web/20101120094742id_/http%3A//us.msi.com/index.php)  > About MSI 
 
 ## About MSI
 
