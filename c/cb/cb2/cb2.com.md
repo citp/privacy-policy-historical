@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304150524id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120212455id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CB2 - Privacy Policy
 
@@ -26,11 +26,15 @@ Updating your contact information is quick and easy. Just [contact us](https://w
 
 ## information sharing
 
-Information sharing can provide a valuable type of consumer networking. By helping to make new connections and introduce new resources to our customers, you may discover new opportunities and products compatible with your interests and needs. With that end in mind, when you purchase an item, your customer information is shared with other select companies whose products and services you may find useful. 
+Information sharing can provide a valuable type of consumer networking. By helping to make new connections and introduce new resources to our customers, you may discover new opportunities and products compatible with your interests and needs. With that end in mind, when you purchase an item, your customer information is shared with other select companies whose products and services you may find useful.
+
+Information sharing also helps us to guard against potential fraud and other wrongdoing. We review transactions internally on a regular basis to identify potential concerns, and we partner with select outside companies to further enhance our ability to ensure that fraudulent orders and/or potentially damaging worms, viruses and other types of malware do not interfere with our ability to provide the best possible products, value and services to you and to our other valued customers.
 
 ## information sharing is up to you
 
-We appreciate and respect that not all customers may wish to benefit from the opportunity to share information with other select companies. If you do not want CB2 to share your customer information, please immediately contact us and we will remove your name from lists we share with other companies. After the six to eight week time period it takes to process your request, your information will no longer be shared. When contacting us, please clearly state your request, including your name, mailing address, email address, and phone number. 
+We appreciate and respect that not all customers may wish to benefit from the opportunity to share information with other select companies. If you do not want Crate and Barrel to share your customer information, please immediately contact us and we will remove your name from lists we share with other companies. After the six- to eight-week time period it takes to process your request, your information will no longer be shared. When contacting us, please clearly state your request, along with your name, mailing address, email address and phone number. Please note that this request will not prevent us from reviewing each transaction for potential wrongdoing, but it will be effective in all other instances.
+
+It is important to understand that with some companies or online partners, for example WeddingChannel.com, your information must be shared in order to receive their services. By agreeing to share information, our customers may have the opportunity to participate in a wider array of services and offerings.
 
 ## remove your name from our lists at any time
 
