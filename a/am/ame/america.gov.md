@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the america.gov privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620081846id_/http%3A//www.america.gov/pages/footer/local/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the america.gov privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094633id_/http%3A//www.america.gov/pages/footer/local/privacy.html) for the most accurate reproduction.*
 
 # Privacy - America.gov
 
