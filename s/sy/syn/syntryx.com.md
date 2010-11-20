@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the syntryx.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501080558id_/http%3A//www.syntryx.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syntryx.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185010id_/http%3A//www.syntryx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Syntryx
+# Privacy Policy | Syntryx, Inc.
 
-| 
+_**Our commitment to user privacy: We monitor Websites – Not Consumers**_
 
-## We have the highest respect for personal privacy.
-
-_**Our commitment to user privacy: We monitor Websites - Not Consumers**_
-
-This seven-point Privacy Policy is applicable to Syntryx Executive Solutions (Syntryx) and any other website that Syntryx owns and operates:
+This seven-point Privacy Policy is applicable to Syntryx, Inc. (Syntryx) and any other website that Syntryx owns and operates:
 
 ### 1\. Children Under 18
 
-Syntryx does not intend to collect any personal information from anyone under 18 years of age. If you are under 18, you should not enter information on any Syntryx website and should ask a parent to do so for you. If you are under 18, Syntryx must have express written permission from a parent before you may use any Syntryx site. The authorizing parent must begin by emailing us, certifying the parent's age and authority, and giving us express permission to acquire and retain any such personal information from you as we may normally obtain from Members of our sites.
+Syntryx does not intend to collect any personal information from anyone under 18 years of age. If you are under 18, you should not enter information on any Syntryx website and should ask a parent to do so for you. If you are under 18, Syntryx must have express written permission from a parent before you may use any Syntryx site. The authorizing parent must begin by emailing us, certifying the parent’s age and authority, and giving us express permission to acquire and retain any such personal information from you as we may normally obtain from Members of our sites.
 
 ### 2\. Information Collection
 
@@ -28,7 +24,7 @@ Syntryx will not sell or trade your personally identifiable information to third
 
 You should be aware that Syntryx may sometimes permit third parties to offer services through our sites. Syntryx is not responsible for any actions or policies of such third parties, and you should check the applicable privacy policy of any third party when providing personally identifiable information.
 
-Syntryx collects IP Addresses for system administration, record keeping, and advertising reporting. Your IP address is automatically assigned to your computer when you use the internet. Syntryx servers log incoming IP addresses. Think of an IP address like your zip code; it tells us in general terms where you're from, what youve done, and what youre doing.
+Syntryx collects IP Addresses for system administration, record keeping, and advertising reporting. Your IP address is automatically assigned to your computer when you use the internet. Syntryx servers log incoming IP addresses. Think of an IP address like your zip code; it tells us in general terms where you’re from, what youve done, and what youre doing.
 
 You should be very cautious when you voluntarily disclose personal information (for example, name or email address) on bulletin boards, in chat areas, or the upload areas of any Syntryx site. That information, along with any other information you may disclose in your posting, can be collected, correlated, and used by third parties, and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Syntryx.
 
@@ -46,21 +42,10 @@ The foregoing policies are effective as of 6 October, 2005. Syntryx reserves the
 
 Be aware of reserved Syntryx Rights governing use of all Syntryx sites. Syntryx reserves rights including but not limited to the following:
 
-  * Right to deny access to Syntryx.com and other Syntryx websites;  
-
-  * Right to add or deduct Credits from Member accounts;  
-
-  * Right to create, modify or terminate Member accounts;  
-
-  * Right to contact Members about account status and any other matter;  
-
-  * Right to disclose Member information _only_ when Syntryx believes in good faith that the law requires it.
+  * Right to deny access to Syntryx.com and other Syntryx websites;
+  * Right to add or deduct Credits from Member accounts;
+  * Right to create, modify or terminate Member accounts;
+  * Right to contact Members about account status and any other matter;
+  * Right to disclose Member information  _only_ when Syntryx believes in good faith that the law requires it.
 
 
-
-| 
-
-[](http://www.slide.com/pivot?cy=lt&at=un&id=3098476543635151075&map=1) [](http://www.slide.com/pivot?cy=lt&at=un&id=3098476543635151075&map=2) [](http://www.slide.com/pivot?cy=lt&at=un&id=3098476543635151075&map=F)
-
-|   
----|---
