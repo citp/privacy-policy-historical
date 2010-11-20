@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zumodrive.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130091659id_/http%3A//www.zumodrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumodrive.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192832id_/http%3A//www.zumodrive.com/privacy) for the most accurate reproduction.*
 
 # ZumoDrive - Privacy Policy
 
-(Last Updated: Dec 22, 2008)
+(Last Updated: Sept 1, 2010)
 
-We provide the following privacy policy (the “Policy”) to inform our users how personal information is collected, used, disclosed and protected with respect to your use of [www.zumodrive.com](http://www.zumodrive.com/) website and the services and products available through the website (collectively, the “Services”). By using the Services, you consent to the practices described in the Policy. 
+We provide the following privacy policy (the “Policy”) to inform our users how personal information is collected, used, disclosed and protected with respect to your use of <http://www.zumodrive.com/> website and the services and products available through the website (collectively, the “Services”). By using the Services, you consent to the practices described in the Policy. 
 
 We reserve the right to modify the Policy at any time. When we change the Policy, we will post the new policy on the website and update the “Last Updated” date set forth above. 
 
