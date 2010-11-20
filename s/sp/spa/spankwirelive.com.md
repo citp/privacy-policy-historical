@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spankwirelive.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226231129id_/http%3A//www.spankwirelive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankwirelive.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120105251id_/http%3A//www.spankwirelive.com/privacy.html%3F) for the most accurate reproduction.*
 
-# SpankWireLive - Privacy Policy
+# SpankWireLive - Privacy
 
 [Home](http://www.spankwirelive.com/) / Privacy Policy
 
@@ -54,4 +54,4 @@ c/o Ariel Secretaries Limited
 P.O. Box 57528  
 3316 Limassol - Cyprus
 
-SpankWireLive.com LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! SpankWireLive.com is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
+SpankWireLive LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! SpankWireLive is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
