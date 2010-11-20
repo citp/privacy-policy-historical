@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527184447id_/http%3A//www.worlddatingpartners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120010815id_/http%3A//www.worlddatingpartners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Partners and Members - Worlddatingpartners.com
 
@@ -86,7 +86,8 @@ If our privacy policy changes in a way that will materially affect our partners,
 **9\. Contacting us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
 
-World Dating Partners Limited (Head Office)  
+World Dating Partners  
+Datech Limited  
 The Exchange  
 Express Park  
 Bristol Road  
