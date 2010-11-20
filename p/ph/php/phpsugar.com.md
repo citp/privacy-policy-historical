@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the phpsugar.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111054319id_/http%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpsugar.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195009id_/http%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.*
 
-# phpSugar - Privacy Policy
+# Privacy Policy - phpSugar
 
-PHPSugar is committed to protecting your privacy. Our Privacy Policy details how we use your personal identifying information. 
+Loading ...
 
-Name and e-mail information collected from our orders is used for order notification and for product delivery **only**. We don't collect information regarding your credit card because we don't process any of the payments. For this we use 3rd party payment processors such as: FastSpring.com, Regnow.com, Emetrix.com, PayPal.com and/or Moneybookers.com.
+PHPSugar is committed to protecting your privacy. Our Privacy Policy details how we use your personal identifying information.
 
-The information we have about our newsletter subscribers or customers is **NEVER shared** or sold. This information is stored locally, in a secure place and there's no way for unauthorized persons to access it. 
+Your name, e-mail and any other information collected from our orders is used for order notifications and for product delivery **only**. We don't collect information about your credit card because we don't process any of the payments on our server. Payments are processed by 3rd party payment processors such as: FastSpring.com, Regnow.com, Emetrix.com, PayPal.com and/or Moneybookers.com.
 
-Please note that we might use cookies on phpsugar.com to make your experience more pleasant. Cookies are used to store certain login details in order to speed up future logins. You can choose to turn off cookies by adjusting your browser's settings accordingly. 
+The information we have about our newsletter subscribers or customers is **NEVER shared** or sold. This information is stored locally, in a secure place and it is impossible for unauthorized persons to access it.
 
-For any questions please [contact us via email](https://web.archive.org/web/20100111054319id_/http%3A//www.phpsugar.com/customer_care.html).
+Please note that we might use cookies on our website to make your experience more pleasant. Cookies are used to store certain login details in order to speed up future logins. You can choose to turn off cookies by adjusting your browser's settings accordingly.
 
-_Thank you!_
+If you have any questions, we'll happily [answer them](https://web.archive.org/web/20101120195009id_/http%3A//www.phpsugar.com/customer_care.html).
 
-**Andrew Rae**  
-Project Manager
+Top
