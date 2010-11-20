@@ -1,41 +1,53 @@
-> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220140id_/http%3A//cms.hhs.gov/siteinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094304id_/http%3A//www.cms.gov/AboutWebsite/02_Privacy%2520Policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Web Policies & Important Links
 
-The privacy of our customers is important to the Centers for Medicare & Medicaid Services (CMS). We understand that visitors to cms.hhs.gov and medicare.gov need to be in control of their personal information. 
+A cookie is a small piece of information that is sent to your browser when you access a site. There are two kinds of cookies, session cookies and persistent cookies. A session cookie is a line of text that is stored temporarily in your computer's memory. Because a session cookie is never saved, it is erased from the memory of your computer as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved by your browser to a file on your hard drive.
 
-Therefore, the following is  CMS's Internet Privacy Policy: 
+CMS uses session cookies only. We do not use persistent cookies.
 
-You do not have to give us personal information to visit our sites. If you choose not to provide personal information, you can still visit cms.hhs.gov and medicare.gov pages. 
+Certain applications on the www.cms.hhs.gov and www.medicare.gov Web sites require session cookies to function correctly. If you have session cookies disabled, you may not be able to use these applications or features of the sites.
 
-### Cookies
+Where they are used, CMS's session cookies remember your selection criteria. For example, if you use the "Screen Reader Friendly" version of www.medicare.gov with cookies disabled, you will need to choose this option for every page. If you have cookies enabled, this preference will be remembered for the duration of your visit. Similarly on www.cms.hhs.gov, the Local Medical Review Policy (LMRP) application will keep a listing of your previous searches during that visit if you have cookies enabled.
 
-  * What is a cookie?  
-A cookie is a small piece of information that is sent to your browser -- along with a Web page -- when you access a Web site. There are two kinds of cookies. A session cookie is a line of text that is stored temporarily in your computer's memory. Because a session cookie is never written to a drive, it is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved by your browser to a file on your hard drive. CMS uses session cookies only. We do not use any persistent cookies. 
-  * CMS's Use of Cookies  
-You do not need to have cookies enabled to visit cms.hhs.gov and medicare.gov. 
+You do not need to have session cookies enabled to view static web content on www.cms.hhs.gov or www.medicare.gov.
 
-Cookies are used to remember your "screen reader" viewing preference on medicare.gov. If you do not have cookies enabled, you will have to choose "Screen Reader Version" on every page you visit. If you do have cookies enabled, your preference will be saved for the entire visit to the site. This preference will not be saved between site visits, however. 
-
-We have set our software so that your browser will only return cookie information to the domain where the cookie originated (in this case, cms.hhs.gov or medicare.gov). No other site can request it. Note: Regardless of the particular uses for cookies on 
-
-CMS web sites, we will not share any cookie information with any third parties. 
-
+CMS has set our software so that your browser will only return cookie information to the domain where the cookie originated (in this case, cms.hhs.gov or medicare.gov). No other site can request this information. Note: Regardless of the particular uses for cookies on CMS Web sites, we will not share any cookie information with any third parties.  
 
 
 ### Data Collection
 
-  * We may collect personally identifiable information (name, e-mail address, physical address, and other unique identifiers) only if specifically and knowingly provided by you. 
-  * Personally identifying information collected will be used only in connection with cms.hhs.gov and medicare.gov, or for such purposes as are described at the point of collection. 
-  * Information collected is for statistical purposes only. CMS performs analyses of user behavior in order to measure customer interest in the various areas of our sites. CMS also uses listservs to send out information and change notices to subscribed users of our sites. 
-  * CMS will protect the personal information that you share with us. CMS does not disclose, give, sell, or transfer any personal information to third parties. If we share demographic information with third parties, we will give them aggregate information only. 
+CMS may collect personally identifiable information (name, e-mail address, physical address, and other unique identifiers) only if specifically and knowingly provided by you.
 
+Personally identifying information collected will be used only in connection with cms.hhs.gov and medicare.gov, or for such purposes as are described at the point of collection.
 
+CMS will protect the personal information that you share with us. CMS does not disclose, give, sell, or transfer any personal information to third parties. If we share demographic information with third parties, we will give them aggregate information only.
+
+Information collected is for statistical purposes. CMS performs analyses of user behavior in order to measure customer interest in the various areas of our sites.
+
+CMS also uses listservs to send out information and change notices to subscribed users of our sites.
 
 ### E-Mail
 
-  * While CMS will make every attempt to protect the personal information that you share with us, electronic mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. 
+While CMS will make every attempt to protect the personal information that you share with us, electronic mail is not secure against interception. If your communication is sensitive, you may want to send it by postal mail instead.
 
+CMS will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information.
 
+|  **Downloads**  
+---  
+  
+There are no Downloads  
+  
+ **Related Links Inside CMS**  
+  
+There are no Related Links Inside CMS  
+  
+ **Related Links Outside CMS**| [](https://web.archive.org/goodbye.asp)  
+  
+There are no Related Links Outside CMS  
+  
+  
+**Page Last Modified: 12/14/2005 12:00:00 AM**  
+[Help with File Formats and Plug-Ins](https://web.archive.org/help/default.asp)
 
-We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information. 
+[Submit Feedback](http://questions.cms.hhs.gov/app/ask/p/749,1022)
