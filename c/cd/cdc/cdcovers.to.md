@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdcovers.to privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209034842id_/http%3A//cdcovers.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdcovers.to privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190106id_/http%3A//cdcovers.to/privacy-policy) for the most accurate reproduction.*
 
 # CDcovers.to - free cd and dvd cover search
 
