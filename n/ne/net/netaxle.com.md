@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620071924id_/http%3A//netaxle.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094114id_/http%3A//netaxle.com/privacy.aspx) for the most accurate reproduction.*
 
 # netaxle.com - Privacy
 
