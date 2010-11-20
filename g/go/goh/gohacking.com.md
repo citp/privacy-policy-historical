@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111070439id_/http%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121005225id_/http%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go Hacking
 
@@ -9,10 +9,10 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:
 
- To personalize your experience  
+To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
- To improve our website  
+To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 **Do we use cookies?**  
