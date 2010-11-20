@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzbeeadvertising.com privacy policy that was archived on 2010-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100122080834id_/http%3A//buzzbeeadvertising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzbeeadvertising.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120132556id_/http%3A//buzzbeeadvertising.com/privacy.php) for the most accurate reproduction.*
 
 # Buzz bee Privacy Policy
 
