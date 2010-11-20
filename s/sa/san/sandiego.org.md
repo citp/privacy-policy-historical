@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620143256id_/http%3A//www.sandiego.org/nav/Visitors/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120194902id_/http%3A//www.sandiego.org/nav/Visitors/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
