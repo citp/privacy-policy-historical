@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezwholesaler.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603184848id_/http%3A//www.ezwholesaler.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezwholesaler.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195339id_/http%3A//www.ezwholesaler.com/Terms_privacy.asp) for the most accurate reproduction.*
 
-# EZwholesaler.com & EZdropshipper.com Wholesalers | Dropshippers Where America's Retailers and E-tailers Shop!
+# Terms: Privacy
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20100603184848id_/http%3A//www.ezwholesaler.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20101120195339id_/http%3A//www.ezwholesaler.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
