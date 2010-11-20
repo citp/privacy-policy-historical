@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubspaces.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011731id_/http%3A//www.clubspaces.com/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubspaces.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120131836id_/http%3A//clubspaces.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
