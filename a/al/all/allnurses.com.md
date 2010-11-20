@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603174359id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120202344id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
 # allnurses: A Nursing Community for Nurses
-
-  
-
 
 ## Privacy Policy
 
