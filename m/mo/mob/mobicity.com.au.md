@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612041257id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182435id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy | MobiCity
 
@@ -70,10 +70,10 @@ We will deal with all requests for access to personal information as quickly as 
 
 Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. 
 
-If you would like to access details of the personal information held by Simply Mobiles Pty Ltd about you, please email the Privacy Officer at admin@etailsolutions.com.au or contact us in writing at the following address: 
+If you would like to access details of the personal information held by Simply Mobiles Pty Ltd about you, please email the Privacy Officer at admin@mobicity.com.au or contact us in writing at the following address: 
 
 Attn: Privacy Officer  
-eTail Solutions Pty Ltd  
+MobiCity  
 Shop 1, 196 Wynnum Rd,  
 Norman Park,   
 Qld 4170
