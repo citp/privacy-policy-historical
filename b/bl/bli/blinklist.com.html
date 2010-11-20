@@ -1,28 +1,60 @@
-<!--The following is the downloaded HTML source of the blinklist.com privacy policy that was archived on 2010-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102010827id_/http%3A//blinklist.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blinklist.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120062130id_/http%3A//blinklist.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>BlinkList.com - Discover, Blink &amp; Share</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>BlinkList.com - Discover, Blink &amp; Share</title>
+  <meta name="description" content="List of the best  sites on the web"> 
+  <meta name="keywords" content="">
+
 <style type="text/css" media="screen">
 <!--
-@import url("/css/design.css");
+@import url("/css/design.css?20100426.2");
 -->
 </style>
-<script src="/js/jquery-1.2.3.min.js" type="text/javascript"></script>
+<!--[if lte IE 6]><style type="text/css" media="all">
+    @import url("/css/ie6.css");
+  </style>
+  <script type="text/javascript" src="js/unitpngfix.js"></script><![endif]-->
+  <!--[if gt IE 6]><style type="text/css" media="all">
+    @import url("/css/ie7.css");
+  </style><![endif]-->
+  
+<script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="/js/sizzle.js" type="text/javascript"></script>
 <script src="/js/common.js" type="text/javascript"></script>
 <script src="/js/ajaxfileupload.js" type="text/javascript"></script>
 <script src="/js/blinklist.js" type="text/javascript"></script>
 <script src="/js/jquery.typewatch.js" type="text/javascript"></script>
-<script src="/js/gears_init.js"></script>
+<script src="/js/gears_init.js" type="text/javascript"></script>
 <script src="http://api.recaptcha.net/js/recaptcha_ajax.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+			$('.openblank').attr('target','_blank');
+		});
+</script>
 </head>
 
 <body>
 	
 <div id="installer">
- <div class="_wrap">
-   <div class="_close" onclick="$('#installer').slideUp('fast');$('#dashboard').animate({marginTop: 0}, 'fast');"><span>Close</span></div>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("._close").click(function(){
+		$('#installer').slideUp('fast');
+		$('#dashboard').animate(
+				{
+					marginTop: 0
+				}, 'fast'
+		);
+	});
+});	
+</script>
+
+ <div class="wrap">
+   <div class="_close"><span>Close</span></div>
    <div class="_section" id="i_instructions">
      <h1>Why Install the Firefox Extension?</h1>
      <ol>
@@ -43,21 +75,21 @@
 </div>
 
 <div id="dashboard">
-<div class="_wrap">
+<div class="wrap">
 <!-- logged out -->
-	<div class="col1">
-      <a id="blinklist-logo" href="/"><img alt="BlinkList" src="/css/images/blinklist.png"></a>
-  	</div>
+	<div class="instructions col1"><a href="/"><img src="/images/logo.jpg" alt="BlinkList"></a></div>
 	<div class="_menu">
   	  <ul>
-        <li class="_last"><a href="/user/signup">Sign up</a></li>
-	  </ul>
+  	  	        <li class="last"><a href="/user/login">Sign In</a></li>
+        	  </ul>
 	</div>
 </div>
 </div>
 
-<div id="blinklist">
-  <div class="_wrap">
+<div id="fma">
+  <div class="wrap">
+	<div id="blinklist">
+	  <div class="wrap">
     <div class="_backend">
       <h1>Privacy Policy</h1>
       <div class="_page _static">
@@ -73,50 +105,37 @@
         <p>If you have any questions about this Privacy Policy, the practices of this website or your dealings with this BlinkList, you can send an e-mail, in English, to <a href="mailto:feedback@blinklist.com">feedback@blinklist.com</a>.</p>
       </div>
     </div>
-
+</div></div>
 
  <div id="metaFooter">
-      <ul>
-        <li><a href="/">BlinkList</a></li>
-        <li><a href="/static/about-blinklist">About</a></li>
-        <li><a href="http://twitter.com/blinklist/" target="_blank">Updates</a></li>
-        <li><a href="/static/terms-of-service">Terms of Service</a></li>
-        <li><a href="/static/privacy-policy">Privacy Policy</a></li>
-        <li class="_last"><a href="http://getsatisfaction.com/blinklist" target="_blank">Support</a></li>
+      <ul class="footer">
+        <li><a href="/">BlinkList</a> | </li>
+        <li><a href="/static/about-blinklist">About</a> | </li>
+        <li><a href="http://twitter.com/blinklist/" class="openblank" target="_blank">Updates</a> | </li>
+        <li><a href="/static/terms-of-service">Terms of Service</a> | </li>
+        <li><a href="/static/privacy-policy">Privacy Policy</a> | </li>
+        <li class="_last"><a class="feedback openblank" href="http://getsatisfaction.com/blinklist" target="_blank">Support</a></li>
       </ul>
-      <p>© 2010 STARTUPS.COM NETWORK INC. Other properties of ours: 
-      	<a href="http://www.killerstartups.com/Site-Reviews/">KillerStartups</a> | 
-      	<a href="http://twingr.com/">Twingr</a> | 
-      	<a href="http://dataopedia.com/">Dataopedia</a> | 
-      	<a href="http://stimator.com/">Stimator</a> 
-      </p>
+      
+      <ul class="footer">
+      	<li>© 2010 STARTUPS.COM NETWORK INC. Other properties of ours:</li> 
+      	<li><a href="http://www.killerstartups.com/">KillerStartups</a> | </li>
+      	<li><a href="http://twingr.com/">Twingr</a> | </li>
+      	<li><a href="http://dataopedia.com/">Dataopedia</a> | </li>
+      	<li><a href="http://stimator.com/">Stimator</a> </li>
+	  </ul>	
       <p>Use BlinkList in your language: <a href="http://www.blinklist.com">English</a>, <a href="http://fi.blinklist.com">Suomi</a>, <a href="http://de.blinklist.com">Deutsch</a>, <a href="http://fr.blinklist.com">Francais</a>, <a href="http://es.blinklist.com">Espanol</a>, <a href="http://sv.blinklist.com">Svenska</a>, <a href="http://it.blinklist.com">Italiano</a> or <a href="http://pt.blinklist.com">Portugues</a>.</p>
     </div>
-  </div>
-</div>
+  </div><!--  should close _wrap -->
+</div><!-- should close #blinklist -->
+
+<!-- should close #fma -->
 <!--<script src="/js/jqueryPlugins.js" type="text/javascript"></script>-->
 <!--<script src="/js/gears_init.js"></script>-->
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="/js/javaScript.js" type="text/javascript"></script>
-<script src="/js/blinklist.js" type="text/javascript"></script>
+<script src="/js/blinklist.js?20100426" type="text/javascript"></script>
 
-<style type="text/css">@import url('http://s3.amazonaws.com/getsatisfaction.com/feedback/feedback.css');</style>
-<script src="http://s3.amazonaws.com/getsatisfaction.com/feedback/feedback.js" type="text/javascript"></script>
-<script type="text/javascript" charset="utf-8">
-  var tab_options = {}
-  tab_options.placement = "right";  // left, right, bottom, hidden
-  tab_options.color = "#222"; // hex (#FF0000) or color (red)
-  GSFN.feedback('http://getsatisfaction.com/blinklist/feedback/topics/new?display=overlay&style=question', tab_options);
-</script>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-923844-12");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
 
 
