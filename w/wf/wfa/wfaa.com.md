@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212065845id_/http%3A//www.wfaa.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112157id_/http%3A//www.wfaa.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Dallas - Fort Worth News | wfaa.com | Privacy Policy
 
