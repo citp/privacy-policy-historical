@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514220802id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185604id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for this site
 
-> PRIVACY POLICY
+> **PRIVACY POLICY**
 > 
-> This privacy policy was last updated on 9/04/2007. 
+> This privacy policy was last updated on 10/14/2010. 
 > 
-> Brainy Betty, Inc.,  and its  other web holdings [Intellipodcast ](http://www.intellipodcast.com/)and  [LOAlibrary ](http://www.powerpointpodcast.com/)(collectively referred to as ""we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using our respective web sites. This Privacy Policy describes how we treat personal information received about you when you visit the Brainy Betty, Inc. Web Sites. 
+> Brainy Betty, Inc.,  and its  other web holdings (collectively referred to as ""we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using our respective web sites. This Privacy Policy describes how we treat personal information received about you when you visit the Brainy Betty, Inc. Web Sites. 
 > 
-> Information Collected 
+> **Information Collected**
 > 
 > Web Site Usage Information: We automatically collect IP addresses and web site usage information from you when you visit our Web Sites. This information helps us in evaluating how our visitors use and navigate the Web Sites **on an aggregate basis** , including the number and frequency of visitors to each page of the Web Sites, and the length of their visits. 
+> 
+>   * Google, as a third party vendor, uses cookies to serve ads on our site. 
+>   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
+>   * Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+> 
+
 > 
 > Special Features: When you use purchase any on our Web Sites, we may collect personally identifiable information from you that may include your name, address, e-mail address, credit-card number and facts about your interests and similar information. This information will NEVER be shared or sold. This is our commitment to you.
 > 
@@ -40,7 +46,7 @@
 > 
 > We may make third party content or services from other web sites available to you from links located on the Brainy Betty, Inc. Web Sites. These other web sites are not subject to this Privacy Policy. We recommend that you review the terms of use and privacy policy at each such web site to determine how that site protects your privacy. We are not responsible for the content of those web sites or the actions of third party web site operators. 
 > 
-> Security 
+> **Security**
 > 
 > The personally identifiable information we collect about you is stored in limited access servers. We will maintain reasonable safeguards to protect the security of these servers and your personally identifiable information. 
 > 
@@ -58,4 +64,6 @@
 > 
 > Thank you for your trust in our company. We will work diligently to ensure that we maintain that trust.
 > 
-> Nan Shastry, CEO - Brainy Betty, Inc.
+> Nan Shastry, CEO - [Brainy Betty, Inc.](https://web.archive.org/web/20101120185604id_/http%3A//www.brainybetty.com/default.htm)  
+  
+ 
