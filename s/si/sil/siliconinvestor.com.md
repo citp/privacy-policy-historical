@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317230928id_/http%3A//siliconinvestor.advfn.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190153id_/http%3A//siliconinvestor.advfn.com/privacy.aspx) for the most accurate reproduction.*
 
 # Silicon Investor (SI) -- NYSE, NASDAQ, AMEX Intelligent Stock Market Opinion, Information, Analysis!
 
-Privacy Policy | [Terms of Use](https://web.archive.org/web/20100317230928id_/http%3A//siliconinvestor.advfn.com/terms.aspx)   
+Privacy Policy | [Terms of Use](https://web.archive.org/web/20101120190153id_/http%3A//siliconinvestor.advfn.com/terms.aspx)   
   
   
 Silicon Investor is strongly committed to protecting the privacy of its user community.   
