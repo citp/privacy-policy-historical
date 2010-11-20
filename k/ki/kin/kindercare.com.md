@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306001459id_/http%3A//www.kindercare.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192134id_/http%3A//www.kindercare.com/Privacy.aspx) for the most accurate reproduction.*
 
 # KinderCare : Privacy Policy
 
