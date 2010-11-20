@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419133957id_/http%3A//www.dairyqueen.com/us-en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190151id_/http%3A//www.dairyqueen.com/us-en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Dairy Queen
 
@@ -36,7 +36,7 @@ We may share aggregated demographic information (data that cannot identify any i
 
 This web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
-Individual franchised restaurants and stores that link to this page are independently owned and operated businesses. We do not own or operate these restaurants. IDQ is a separate entity with its own website that is located at [www.idq.com](https://web.archive.org/us-en/privacy-statement/www.idq.com "www.idq.com"). This Privacy Statement does not apply to sites owned by independent franchised restaurants and stores.
+Individual franchised restaurants and stores that link to this page are independently owned and operated businesses. We do not own or operate these restaurants. IDQ is a separate entity with its own website that is located at [www.idq.com](http://www.idq.com/ "www.idq.com"). This Privacy Statement does not apply to sites owned by independent franchised restaurants and stores.
 
 ## Security:
 
