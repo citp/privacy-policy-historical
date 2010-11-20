@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528182843id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120042632id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
 
 # Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company
 
