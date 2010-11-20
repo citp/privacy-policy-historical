@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maxx.co.nz privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604230620id_/http%3A//maxx.co.nz/privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxx.co.nz privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120101427id_/http%3A//www.maxx.co.nz/privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="/style/print.css?v=5" type="text/css" media="print">
 	
 	<script language="javascript" type="text/javascript" src="/scripts/jquery/jquery-1.4.2.packed.js"></script>
+	<script language="javascript" type="text/javascript" src="/scripts/jquery/jquery.cookie-1.0.js"></script>
 	<script language="javascript" type="text/javascript" src="/scripts/jquery/maxx.jquery.js"></script>
 	
 	<script>
@@ -31,7 +32,14 @@ $jq(document).ready(function(){
 			
 			$jq('#cms_component table:not([class])').stripe();
 			
-			$jq('.leftMenu .navigationLeft:not(.disabled)').hover(function () {
+			var current = $jq('.current');
+			if( current.length ) {
+				$jq('#currSelectedArrow').css({
+					'top':current.position().top + 'px'
+				}).show();
+			}
+			
+			$jq('.leftMenu .navigationLeft:not(.current)').hover(function () {
 				$jq(this).addClass('hilight');
 			}, function () {
 				$jq(this).removeClass('hilight');
@@ -50,86 +58,69 @@ $jq(document).ready(function(){
 </head>
 <body>
 
-<div id="site-container">
+
+
+	<div id="site-container" style="position:relative;">
+
 	<div id="header">
-		<a id="logo" class="headerLeft" href="http://www.maxx.co.nz"></a>
+		<a href="/" class="headerLeft" id="logo"></a>
 		
 		<div class="headerRight">
+		
 			<!-- Contact Us -->
 			<div id="contactus-link">
-				<!--<a href="http://www.maxx.co.nz">Search options</a>-->
-				<a href="http://www.maxx.co.nz">Low Graphics</a>
-				<a href="http://www.maxx.co.nz/contact-us/feedback-form.html">Feedback</a> 
+				<a href="/info/accessible-travel.aspx"><img src="/styles/images/icons/disabled-icon_30x30.png"></a>
+				<a href="/">Low Graphics</a>
+				<a href="/contact-us/feedback-form.html">Feedback</a> 
 			</div>
-			<div class="clear"></div>
 			
 			<!-- Search -->
-			<form id="search-form" method="get" action="/search.cfm">
-				<input class="inputText" type="text" name="searchstring">
-				<input class="inputImage" type="image" src="/images/site_search_go.gif" value="Search">
+			<form action="/search.cfm" method="get" id="search-form">
+				<input type="text" name="searchstring" class="inputText">
+				<input type="image" value="Search" src="/images/site_search_go.gif" class="inputImage">
 			</form>
-			<div class="clear"></div>
 		
 			<div id="navigationMenu">
-				
-	<ul>
-					
-			<li>
-				<a href="/journey-planner.html">
-					
-				</a>
-				<a href="/journey-planner.html">	
-					<span>Journey Planner</span>
-				</a>
-				
-					<div class="spacer">
-						<img src="/images/spacer.gif">
-					</div>
-				
-			</li>
-					
-			<li>
-				<a href="/timetables.html">
-					
-				</a>
-				<a href="/timetables.html">	
-					<span>Timetables</span>
-				</a>
-				
-					<div class="spacer">
-						<img src="/images/spacer.gif">
-					</div>
-				
-			</li>
-					
-			<li>
-				<a href="/travel-updates-home.html">
-					
-				</a>
-				<a href="/travel-updates-home.html">	
-					<span>Travel Updates</span>
-				</a>
-				
-					<div class="spacer">
-						<img src="/images/spacer.gif">
-					</div>
-				
-			</li>
-					
-			<li>
-				<a href="/information.html">
-					
-				</a>
-				<a href="/information.html">	
-					<span>Information</span>
-				</a>
-				
-			</li>
-		
-	</ul>
- 
+				<ul>
+					<li>
+						<a href="/journey-planner.html">	
+							<span>Journey Planner</span>
+						</a>
+						<div class="spacer">
+							<img src="/images/spacer.gif">
+						</div>
+					</li>
+					<li>
+						<a href="/timetables.html">	
+							<span>Timetables</span>
+						</a>
+						<div class="spacer">
+							<img src="/images/spacer.gif">
+						</div>
+					</li>
+					<li>
+						<a href="/travel-updates-home.html">	
+							<span>Travel Updates</span>
+						</a>
+						<div class="spacer">
+							<img src="/images/spacer.gif">
+						</div>
+					</li>
+					<li>
+						<a href="/new-events.html">	
+							<span>Events</span>
+						</a>
+						<div class="spacer">
+							<img src="/images/spacer.gif">
+						</div>
+					</li>
+					<li>
+						<a href="/info.html">	
+							<span>Info</span>
+						</a>
+					</li>
+				</ul>
 			</div>
-			<div class="clear"></div>
 		</div>
 		<div class="divider"></div>
 	</div>
@@ -143,260 +134,182 @@ $jq(document).ready(function(){
 					<a href="/">Home</a>
 					
 						&nbsp;<img src="/images/arrow_go.gif" border="0">
-						&nbsp;<a href="/information.html">Information</a>
+						&nbsp;<a href="/info.html">Info</a>
 					
 				</div>
-			
+			 
+	
+
+<!-- head --> 
 
 <div class="information " id="noRightNav">
 	<div id="leftMargin">
+		<div class="infoPanelTop"></div>
 		<div class="leftMenu">
+			<div id="currSelectedArrow"></div>
 			
-				<div class="info_arrow_left">
-					<div class="info_arrow_middle">
-						<div class="content">
-							<span>
-								Privacy Statement 
-							</span>				
-						</div>
-					</div>
-				</div>
 		
-				<div class="navigationLeft topLeft  
-					
-						clickable
-					">
-					<div class="topRight">
-						<div class="bottomRight">
-							<div class="bottomLeft content">
-								<a href="/home/_pricing_passes.html">
-									<span>Pricing &amp; Passes</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>	
-		
-				<div class="navigationLeft topLeft  
-					
-						clickable
-					
-							lightGreyBox clickable
-						">
-					<div class="topRight">
-						<div class="bottomRight">
-							<div class="bottomLeft content">
-								<a href="/how-to-travel.html">
-									<span>How to Travel</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>	
-		
-				<div class="navigationLeft topLeft  
-					
-						clickable
-					">
-					<div class="topRight">
-						<div class="bottomRight">
-							<div class="bottomLeft content">
-								<a href="/travel-updates.html">
-									<span>Travel Updates</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>	
-		
-				<div class="navigationLeft topLeft  
-					
-						clickable
-					
-							lightGreyBox clickable
-						">
-					<div class="topRight">
-						<div class="bottomRight">
-							<div class="bottomLeft content">
-								<a href="/cycling-walking.html">
-									<span>Cycling / Walking</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>	
-		
-				<div class="navigationLeft topLeft  
-					
-						clickable
-					">
-					<div class="topRight">
-						<div class="bottomRight">
-							<div class="bottomLeft content">
-								<a href="/network-developments.html">
-									<span>Network Developments</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>	
-		
-				<div class="navigationLeft topLeft  
-					
-						clickable
-					
-							lightGreyBox clickable
-						">
-					<div class="topRight">
-						<div class="bottomRight">
-							<div class="bottomLeft content">
-								<a href="/promotions.html">
-									<span>Promotions</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>	
-		
-				<div class="navigationLeft topLeft  
-					
-						clickable
-					">
-					<div class="topRight">
-						<div class="bottomRight">
-							<div class="bottomLeft content">
-								<a href="/information/events.html">
-									<span>Events</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>	
-		
-		</div>
-		<div class="informationPannel lightBlueBox">
-			<!-- absolute overflow holder -->
-			<div style="position: relative; overflow: show; width: 0px; height: 0px;">
-				<div class="info_arrow_right">
-				</div>
+		<div class="navigationLeft topLeft lightGreyBox">
+			<div class="bottomLeft content">
+				<a href="/info/-pricing-passes.html">
+					<span>Pricing &amp; Passes</span>
+				</a>
 			</div>
-			<div class="topRight">
-				<div>
-					<div class="bottomRight">
+		</div>
+	
+		
+		<div class="navigationLeft topLeft ">
+			<div class="bottomLeft content">
+				<a href="/how-to-travel.html">
+					<span>How to Travel</span>
+				</a>
+			</div>
+		</div>
+	
+		
+		<div class="navigationLeft topLeft lightGreyBox">
+			<div class="bottomLeft content">
+				<a href="/info/travel-updates.html">
+					<span>Travel Updates</span>
+				</a>
+			</div>
+		</div>
+	
+		
+		<div class="navigationLeft topLeft ">
+			<div class="bottomLeft content">
+				<a href="/cycling-walking.html">
+					<span>Cycling / Walking</span>
+				</a>
+			</div>
+		</div>
+	
+		
+		<div class="navigationLeft topLeft lightGreyBox">
+			<div class="bottomLeft content">
+				<a href="/network-developments.html">
+					<span>Network Developments</span>
+				</a>
+			</div>
+		</div>
+	
+		
+		<div class="navigationLeft topLeft ">
+			<div class="bottomLeft content">
+				<a href="/promotions.html">
+					<span>Promotions</span>
+				</a>
+			</div>
+		</div>
+	
+		
+		<div class="navigationLeft topLeft lightGreyBox">
+			<div class="bottomLeft content">
+				<a href="/information/new-events.html">
+					<span>Events</span>
+				</a>
+			</div>
+		</div>
+	
+		
+		<div class="navigationLeft topLeft ">
+			<div class="bottomLeft content">
+				<a href="/info/accessible-travel.html">
+					<span>Accessible Travel</span>
+				</a>
+			</div>
+		</div>
+	
+		</div>
+		<div class="informationPannel">
+			<div class="content">
 					
-						<div class="topLeftLightBlue whiteBox">
-							<div class="topRightLightBlue">
-								<div class="bottomLeftLightBlue">
-									<div class="bottomRightLightBlue content">
-											
-												<h1>Privacy Statement</h1>
-											
+						<h1>Privacy Statement</h1>
+					
 	<div id="cms_component">
 		
 			<a name="72bc80e3-c291-5e4f-b846-f63e4635fcaa"></a>
-		<p>Auckland Regional Transport Authority (<b>ARTA</b>) has created this Privacy Statement in relation to the MAXX website www.maxx.co.nz (the <b>MAXX Website</b>) and the related services offered in conjunction with the MAXX Website (<b>Related Services</b>) in order to demonstrate its firm commitment to privacy.</p>
-<p>This Privacy Statement should be read in conjunction with the <a href="/terms-and-conditions-of-use.html" target="">General Terms and Conditions of Website Use</a>.&nbsp;By viewing and using the MAXX Website and/or Related Services, you will be deemed to agree to this Privacy Statement.&nbsp;If you do not agree to this Privacy Statement you should stop accessing and using the MAXX Website and Related Services and you should not disclose information to ARTA.</p>
+		<p>Auckland Transport has created this Privacy Statement in relation to the MAXX website www.maxx.co.nz (the <b>MAXX Website</b>) and the related services offered in conjunction with the MAXX Website (<b>Related Services</b>) in order to demonstrate its firm commitment to privacy.</p>
+<p>This Privacy Statement should be read in conjunction with the <a href="/terms-and-conditions-of-use.html" target="">General Terms and Conditions of Website Use</a>.&nbsp;By viewing and using the MAXX Website and/or Related Services, you will be deemed to agree to this Privacy Statement.&nbsp;If you do not agree to this Privacy Statement you should stop accessing and using the MAXX Website and Related Services and you should not disclose information to Auckland Transport</p>
 <h2>Information collected</h2>
-<p>ARTA collects and holds various information about users of the MAXX Website.&nbsp;This information includes:</p>
-<p>1. When you look at the MAXX Website, ARTA's Internet Service Provider makes a record of your visit and logs the following information for statistical purposes:</p>
+<p>Auckland Transport collects and holds various information about users of the MAXX Website.&nbsp;This information includes:</p>
+<p>1. When you look at the MAXX Website, Auckland Transport's Internet Service Provider makes a record of your visit and logs the following information for statistical purposes:</p>
 <ul>
-<li>your server address
-</li><li>your top level domain name (for example .com, .gov, .au, .uk etc)
-</li><li>the date and time of your visit to the site
-</li><li>the pages you accessed and documents downloaded
-</li><li>the previous site you have visited
+<li>your server address 
+</li><li>your top level domain name (for example .com, .gov, .au, .uk etc) 
+</li><li>the date and time of your visit to the site 
+</li><li>the pages you accessed and documents downloaded 
+</li><li>the previous site you have visited 
 </li><li>the type of browser you are using</li></ul>
 <p>This information about your use is only analysed on a bulk basis for broad demographic content. Individual use is not analysed.</p>
-<p>2.&nbsp;Personal information, provided by you through voluntary registration or completion of forms.&nbsp;If you use the MAXX Website to complete an online application form, ARTA will only collect the information contained in that application form if you submit the form to ARTA. If you log out of the MAXX Website or cancel the application prior to submitting the form, the information you had entered will be automatically deleted.</p>
-<p>3.&nbsp;Personal information, provided to ARTA by you through any other method (including without limitation correspondence and discussions).</p>
-<p>4.&nbsp;Cookies, which are pieces of information that a website transfers to an individual's hard drive for record keeping purposes. The cookie assigns you an ID which allows ARTA to recognise you when you return to the MAXX Website.&nbsp;ARTA uses "cookies" to deliver content specific to your interests so users do not have to register each time they use the MAXX Website.</p>
-<p>The personal information collected will be held by ARTA, Private Bag 92-236,<st1:place w:st="on"><st1:city w:st="on"> Auckland </st1:city></st1:place>.&nbsp;Phone 09 379 4422.</p>
+<p>2.&nbsp;Personal information, provided by you through voluntary registration or completion of forms.&nbsp;If you use the MAXX Website to complete an online application form, Auckland Transport&nbsp;will only collect the information contained in that application form if you submit the form to Auckland Transport. If you log out of the MAXX Website or cancel the application prior to submitting the form, the information you had entered will be automatically deleted.</p>
+<p>3.&nbsp;Personal information, provided to Auckland Transport&nbsp;by you through any other method (including without limitation correspondence and discussions).</p>
+<p>4.&nbsp;Cookies, which are pieces of information that a website transfers to an individual's hard drive for record keeping purposes. The cookie assigns you an ID which allows Auckland Transport to recognise you when you return to the MAXX Website.&nbsp;Auckland Transport&nbsp;uses "cookies" to deliver content specific to your interests so users do not have to register each time they use the MAXX Website.</p>
+<p><st1:place w:st="on"><st1:city w:st="on"></st1:city></st1:place>Any personal information of the type listed at point 1 and 4 above that is collected will be held by Auckland Transport, 6 Henderson Valley Road, Henderson, Auckland 0612, phone 09 379 4422.</p>
+<p>Any personal information collected of the type listed at point 2 and 3 above will either be held by Auckland Transport, 6 Henderson Valley Road, Henderson, Auckland 0612, phone 09 379 4422, or for the MAXX Train Updates text message service, by Platypus Mobility Pty Ltd, Suite 3, Lingate House, 409-411 New South Head Road, Double Bay NSW 2028, Australia, phone 0061 2 9362 1646.<br></p>
 <h2>Access to and correction of information held</h2>
-<p>Under the Privacy Act 1993 you have rights of access to and correction of the personal information ARTA holds about you.&nbsp;If you have any concerns about the accuracy or extent of that information or wish to access or correct such information please contact ARTA by <a href="mailto:MAXXenquiry@maxx.co.nz" target="">emailing us.</a></p>
+<p>Under the Privacy Act 1993 you have rights of access to and correction of the personal information Auckland Transport holds about you.&nbsp;If you have any concerns about the accuracy or extent of that information or wish to access or correct such information please contact ARTA by <a href="mailto:MAXXenquiry@maxx.co.nz" target="">emailing us.</a></p>
 <h2>Use and disclosure of information collected</h2>
-<p>ARTA will only record your email address if you provide it as part of a registration or completion of a form or if you send ARTA an email message. Your email address will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent.</p>
-<p>ARTA will not use or disclose information collected about you, including information collected using cookies, other than for a purpose made known to you, a purpose you would reasonably expect, a purpose required, authorised or permitted by or under any law, or a purpose otherwise authorised by you.</p>
+<p>Auckland Transport will only record your email address and mobile telephone number if you provide it as part of a registration or completion of a form or if you send Auckland Transport&nbsp;an email message. Your email address and mobile telephone number will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent.</p>
+<p>Auckland Transport&nbsp;will not use or disclose information collected about you, including information collected using cookies, other than for a purpose made known to you, a purpose you would reasonably expect, a purpose required, authorised or permitted by or under any law, or a purpose otherwise authorised by you.</p>
 <p>The personal information you provide will be used for the following purposes:</p>
 <ul>
-<li>Verification of your identity for use of the Related Services and to enable ARTA to provide such services to you; 
-</li><li>To assist in providing a better website and services and keep it relevant and of interest to users;
-</li><li>To provide you with further information about ARTA or other websites or goods or services which ARTA consider may be of interest to you;
-</li><li>To carry out market research and conduct surveys;
-</li><li>Analysis in aggregate form (identifiable characteristics removed so that you will remain anonymous);
-</li><li>To contact you to invite&nbsp;you to participate in a focus group and/or to correspond with you about comments you have made in relation to a transport service, this MAXX Website and/or Related Services.</li></ul>
-<p>ARTA may give the personal information ARTA collects about you to relevant business partners for the purposes identified above.</p>
+<li>To enable Auckland Transport to provide you with a service which you have requested</li>
+<li>To enable an agent or contractor of Auckland Transport to provide you with a service which you have requested</li>
+<li>Verification of your identity for use of the Related Services and to enable Auckland Transport, or an agent or contractor of Auckland Transport, to provide such services to you</li>
+<li>To assist in providing a better website and services and keep it relevant and of interest to users</li>
+<li>To provide you with further information about Auckland Transport or other websites or goods or services which Auckland Transport consider may be of interest to you</li>
+<li>To carry out market research and conduct surveys</li>
+<li>Analysis in aggregate form (identifiable characteristics removed so that you will remain anonymous)</li>
+<li>To contact you to invite you to participate in a focus group and/or to correspond with you about comments you have made in relation to a transport service, this MAXX Website and/or Related Services.</li></ul>
+<p><br>Auckland Transport may give the personal information Auckland Transport collects about you to its relevant agents, contractors and business partners for the purposes identified above.<br></p>
 <h2>Consequences of non-provision of information</h2>
 <p>Failure to provide necessary personal information requested at the time of registration for or use of the MAXX Website and/or Relates Services may result in certain services not being offered and/or provided to you.</p> 
 	</div>
-										<div class="clear"></div>
-										<img class="clickable print" src="/images/print.gif" width="20" height="31">
-									</div>
-								</div>
-							</div>
-						</div>
-						
-					</div>
+					<div class="clear"></div>
+					<img class="clickable print" src="/images/print.gif" width="20" height="31">
 				</div>
-			</div>
 		</div>
-		<div class="clear"></div>
+		<div class="infoPanelBottom"></div>
+		<div style="clear: both;"></div>
 	</div>
 
 	
 
 </div>
+<!-- foot -->
 				<div style="clear:both;"></div>
 			</div>
 			<div style="clear:both;"></div>
 		</div>
 
-		
-		
-	<div class="footer">
-		<ul>
-		
+		<div class="footer">
+			<ul>
 				<li>
-					<a href="/contactus.html">
-						Contact us
-					</a>
+					<a href="/contactus.html">Contact us</a>
 				</li>
-			
 				<li>
-					<a href="/site_map.html">
-						Site Map
-					</a>
+					<a href="/site_map.html">Site Map</a>
 				</li>
-			
 				<li>
-					<a href="/about-maxx.html">
-						About MAXX
-					</a>
+					<a href="/about-maxx.html">About MAXX</a>
 				</li>
-			
 				<li>
-					<a href="/terms-and-conditions-of-use.html">
-						Terms and Conditions of Use
-					</a>
+					<a href="/terms-and-conditions-of-use.html">Terms and Conditions of Use</a>
 				</li>
-			
 				<li>
-					<a href="/privacy-statement.html">
-						Privacy Statement
-					</a>
+					<a href="/privacy-statement.html">Privacy Statement</a>
 				</li>
-			
-		</ul>	
-	</div>
- 
-			
+			</ul>	
+		</div>
+				
 		<div class="clear"></div>
 	</div><!-- / site-container-->
 	
-    
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-5616207-1");
 		pageTracker._setDomainName("maxx.co.nz");
