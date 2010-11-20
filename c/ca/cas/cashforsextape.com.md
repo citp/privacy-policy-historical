@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashforsextape.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104121855id_/http%3A//www.cashforsextape.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashforsextape.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120230007id_/http%3A//cashforsextape.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
