@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionaireprotegeclub.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109095040id_/http%3A//www.millionaireprotegeclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionaireprotegeclub.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112205id_/http%3A//www.millionaireprotegeclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | millionaireprotegeclub.com
 
@@ -44,7 +44,7 @@ In addition, on occasion, we may collect personal consumer information from you 
 
 Further, the information you enter when making a purchase will be shared with payment processors, financial gateways and your credit card company to authorize credit card payments. Such information may also be shared with necessary third parties solely for the purpose of carrying out the transactions.
 
-Also, personal information that you submit in connection with The Ali Magazine may be shared with the company that fulfills the magazine subscriptions.
+Also, personal information that you submit in connection with _Ali Magazine_ may be shared with the company that fulfills the magazine subscriptions.
 
 Please note that if you give out personal information online—for example, on one of our public forums such as a message board — that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums and have no control over how such third parties may use your information. You disclose such information at your own risk.
 
@@ -76,4 +76,4 @@ If you have any questions concerning this Privacy Policy, please send us an emai
 
 This Privacy Policy shall be governed by the laws of the State of California, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in California within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
 
-Copyright 2009 Ali International LLC. All rights reserved.
+Copyright 2010 Ali International LLC. All rights reserved.
