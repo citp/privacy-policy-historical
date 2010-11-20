@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackerbarrel.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630003420id_/http%3A//www.crackerbarrel.com/tempa.cfm%3Fdoc_id%3D1157) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackerbarrel.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120133804id_/http%3A//www.crackerbarrel.com/tempa.cfm%3Fdoc_id%3D1157) for the most accurate reproduction.*
 
 # Cracker Barrel
 
@@ -11,7 +11,7 @@ Cracker Barrel is the sole owner of the information collected on this site. We w
 
 **Collecting Information About You** In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. However, every time you come to the Cracker Barrel website, our servers collect basic technical information. For example, we collect your domain name, the address of the last URL you visited prior to clicking through to Cracker Barrel and your browser and platform type. We do not collect any personally identifiable information from you in this manner. We use the aggregate information to better serve you by continually improving the content of our website.
 
-There may be times when we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, etc. That information is needed when you chose to make a purchase, subscribe to our newsletter, participate in surveys, or enter contests, sweepstakes or promotions. We also maintain a record of your online product purchases, however we do not keep your credit card information on file. Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our website.
+There may be times when we ask you to provide certain information about yourself, such as your name, address, telephone number, email address, employment history, credit card information and any other information you choose to provide.  That information is needed when you chose to make a purchase, subscribe to our newsletter, participate in surveys, or enter contests, sweepstakes or promotions. We also maintain a record of your online product purchases, however we do not keep your credit card information on file. Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our website.
 
   
 **Using Information About You**
@@ -25,7 +25,7 @@ We may contract with companies or persons to provide certain services including 
 
 We want to communicate with you only if you want to hear from us. If your personally identifiable information changes (such as zip code, phone, email or postal address), or if you no longer desire our services, feel free to correct, update or delete/deactivate your personally identifiable information. This can be done by emailing us at
 
-[fastmail@crackerbarrel.com](mailto:fastmail@crackerbarrel.com) or calling 800-333-9566. Please be sure to include your email address and full name.
+[fastmail](mailto:fastmail@crackerbarrel.com)[](mailto:fastmail@crackerbarrel.com)[@crackerbarrel.com](mailto:fastmail@crackerbarrel.com) or calling 800-333-9566. Please be sure to include your email address and full name.
 
 Please note that sometimes these requests may take up to 6-8 weeks to be effective. In addition, when you purchase from us online, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications.
 
