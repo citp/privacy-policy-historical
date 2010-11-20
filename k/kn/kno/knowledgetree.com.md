@@ -1,89 +1,89 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504152357id_/http%3A//www.knowledgetree.com/node/62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094635id_/http%3A//www.knowledgetree.com/privacy) for the most accurate reproduction.*
 
-# Website Privacy Policy | Document Management Software: SaaS, On-premise | KnowledgeTree
+# KnowledgeTree Privacy Policy | Online Document Management Software | Hosted Document Management
 
-This website is governed by the following privacy policy. 
+**Last updated: 08/16/2010**
 
-###  Introduction 
+KnowledgeTree, Inc. (“KT”) is committed to protecting the privacy and security of personal information that we collect. This Privacy Policy discloses our information gathering and dissemination practices for our publicly available website at [www.knowledgetree.com](http://www.knowledgetree.com/ "www.knowledgetree.com") for our commercial KnowledgeTree on-demand document management service, which is accessed through the internet (the “Service”). The Service is available only to users authorized by organizations and individuals that have entered into an online or written signed agreement with KT for the Service (“Service Agreement”). Nothing in this Privacy Policy should be interpreted to modify, delete or add terms to the Service Agreement.
 
-KnowledgeTree Inc. respects your privacy and is committed to protecting it. This Privacy Policy is intended to inform you of our Privacy Policy and of the choices you can make about the way your information is collected online and how that information is utilized by us. Certain pages on our website have been structured so that you can access the KnowledgeTree Inc. website without identifying yourself or revealing any personal information. However, should you wish to make full use of the KnowledgeTree Inc. website you will be required to register and provide us with personal information and accordingly we have made this notice readily available on our home page and at the bottom of every page that collects personal information. 
+KT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and KT’s privacy practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the contact information set forth here. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-KnowledgeTree Inc. has developed its privacy practices in line with the Canadian Standards Association's Model Code for the Protection of Personal Information as well as the U.S.-E.U. Safe Harbor principles. A complete copy of the Model Code is available at http://www.csa.ca/standards/privacy/. More information about the U.S. Department of Commerce Safe Harbor Program can be found at http://www.export.gov/safeharbor/. 
+KT complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>
 
-###  Applicability 
+**Information Collected**  
+Visitors to the Public Site are not required to reveal any personally identifiable information to KT. Visitors to the Public Site who wish to receive information regarding KT products or services may provide us with certain contact information including telephone number, fax number, email address, and mailing address.
 
-This Privacy Policy applies to the KnowledgeTree Inc. websites only. This statement is not applicable to other related websites not specifically included. 
+Through use of the Service, you may provide certain personal information for use and handling by KT solely for provision and maintenance of the Service.
 
-The KnowledgeTree Inc. websites may contain links to or from other sites ("linked sites"), including sites maintained by KnowledgeTree Inc. but which are not governed by this Privacy Policy. Accordingly, KnowledgeTree Inc. is in no way responsible for the content or the privacy and security policies employed by linked sites. 
+When you visit the Public Site, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Public Site may not function properly if the ability to accept cookies is disabled.
 
-Furthermore this policy is to be read together with the KnowledgeTree Inc. [Data Collection, Use and Retention Policy](https://web.archive.org/about/legal/web_policy) available at http://www.knowledgetree.com/about/legal/web_policy. 
+In addition, when you use the Public Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-###  Types of information collected 
+**Use of Information and Choice**  
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may use your personal information to provide you with information about KT’s services, business partners, promotions, and events. Marketing emails from KT will contain instructions on how to opt out of receiving further marketing emails from KT. You will also have the right to opt out of any disclosure of your personal information to a third party or use of your personal information for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you.
 
-When you register on the KnowledgeTree Inc. website we need to collect certain information about you in order to provide you with the services you have requested. This information may include, but is not limited to: 
+We may use cookies and log information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Public Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions and contests.
 
-  * Name 
-  * Email Address 
-  * Business or Home Address 
-  * Employer/ Affiliated Organisation 
-  * Contact Telephone Numbers 
-  * Reason for Accessing Site 
-  * Intended Usage of Information Requested 
+You acknowledge and agree that KT may use personally identifiable information input by you as necessary to provide the Service. This information may include e-mail address, business or home address, social media user names, employer/affiliated organization, telephone numbers, reasons for accessing site, and intended usage of requested information. We may also use your email address or phone (if provided by you) to contact you regarding Service changes; system maintenance and outage issues; account issues; or to otherwise troubleshoot problems.
 
+KT provides document management services as part of the Service. KT does not access or review any contents of any documents uploaded as a part of the Services, , unless you give specific permission to such access and/or use in connection with KT’s handling of a support issue. In no event does KT collect or use any personal information that you may include in any such documents. Also, you acknowledge and agree that you or your employer may enable various other users to access documents containing your personally identifiable information. KT is not responsible for how such parties may use your personally identifiable information.
 
+**Onward transfer of Information**  
+Except as set forth in this Privacy Policy, KT will not disclose any personally identifiable information provided by a visitor to the Public Site to a third party unless the visitor has consented to such disclosure. In particular KT does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
 
-Once you choose to register with KnowledgeTree Inc. and provide us with personal information, it will be used for the purposes of providing you with the requested service. We respect your privacy and undertake not to sell, rent or lease your personal information to others. 
+We may provide personally identifiable information to our subsidiaries, affiliated companies, and contractors for the purpose of providing and maintaining the Service and for responding to your requests. We require that these parties agree to use such information solely for this purpose, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
-Certain non-personal information may be collected while you are using the website. This will comprise of data about usage and service operation that is not associated with a specific personal identity. KnowledgeTree Inc. may collect and use this non-personal information to evaluate how the KnowledgeTree Inc. websites are being used. 
+We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state, federal and international laws or respond to a court order, subpoena, or search warrant.
 
-Most non-personal data is collected via cookies or other analysis technologies. The KnowledgeTree Inc. website pages use anonymous cookies and other technologies for data analysis and potential personalization of the website and services offered. 
+KT also reserves the right to disclose personally identifiable information and/or other information about users that KT believes, in good faith, is appropriate or necessary to enforce its agreements, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Service, and to protect the rights, property, or personal safety of KT, our users or others.
 
-These technologies may vary, but in many cases may involve a small file stored locally on the computer used to access the KnowledgeTree Inc. websites, and may be used to store and collect information relating to your viewing and use of the websites. Information collected through cookies is used to create a profile of our users. A profile is stored information we keep on individual users that details their preferences, their use and request history and behavioral activity, and can minimise the need for you to re-enter information. 
+KT will not disclose any personally identifiable information to a third party unless (i) the individual has consented to such disclosure and (ii) KT has ascertained that the third party either subscribes to the Safe Harbor principles or has entered into an agreement with KT that is consistent with the Safe Harbor principles.
 
-Most cookies expire after a defined period of time, or you can delete your cookie file at any time. Most web browser software is initially set up to accept cookies. You can reset your web browser software to refuse cookies or to indicate when a cookie is being sent. However, some parts of our Site will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences, and/or may have difficulty completing transactions. 
+Aggregate information of KT client data, not containing any personally identifiable information, may be provided to KT clients or prospects or disclosed in KT materials.
 
-KnowledgeTree Inc. may collect your computer's IP (Internet Protocol) address and domain name address, the identity of your Internet service or access provider, the type of web browsing software you use, your computers operating system, the URL of the web page from which you came to visit our Site and the language you selected for your web browsing software (collectively referred to herein as clickstream data). We use these technologies to identify our users, to help diagnose problems with our server, and to administer the KnowledgeTree Inc. websites and the services offered thereon. 
+**Access**  
+An individual wishing to review or update personally identifiable information stored in KT’s systems should contact KT by sending an e-mail to KT as described below. We will respond to your request for access within 30 days.
 
-KnowledgeTree Inc. needs and uses your personal information to provide you with the services you request and to help us better understand your needs and interests in the future. Specifically, KnowledgeTree Inc. uses your information to help you complete and process the transactions you have requested. Sensitive personal information if collected will only be used if you choose to allow us to do this in terms of your personal preferences options and will be shared only with your express permission. 
+**Security and Data Integrity**  
+KT takes reasonable technical, administrative and physical steps to protect against unauthorized access to and disclosure of personally identifiable information. KT uses computer security mechanisms including firewalls, monitoring software, and passwords to protect client data stored on KT computer systems. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). KT provides information and training to all employees who have access to data maintained on behalf of KT clients and prospective clients, and KT employees are responsible for the internal security of such information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at the contact information set forth here.
 
-Personal data given to KnowledgeTree Inc. may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. 
+KT will not process personally identifiable information in any way that is incompatible or inconsistent with the purpose for which such information was collected. KT takes all reasonable measures to ensure that such information is reliable for its intended use, and is accurate, complete and current.
 
-###  How KnowledgeTree Inc. will share your information and with whom? 
+Blogs, Widgets and Links to Other Sites  
+If you make comment our blog or on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-KnowledgeTree Inc. will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. 
+**Widgets**  
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through Widgets. Cookies may also be set by Widgets to enable them to function properly. Information collected by Widgets is governed by the privacy policy of the company(ies) that created them.
 
-KnowledgeTree Inc. and KnowledgeTree partners, who may provide you with the services requested through the KnowledgeTree Inc. websites, are required to keep confidential the information received on behalf of KnowledgeTree Inc. and may not use it for any purpose other than to carry out the services they are performing for KnowledgeTree Inc.. KnowledgeTree Inc. will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of KT If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-The KnowledgeTree Inc. or the KnowledgeTree websites could merge with or be acquired by another business entity or organization. In that event KnowledgeTree Inc. will make every reasonable effort to notify you in the event we share with the merging or acquiring entity some or all of your personal information. However, you are requested to continually check this Privacy Policy for any updates or changes. 
+**Enforcement**  
+KT will periodically review its privacy and security practices to verify that KT is meeting its obligations under this Privacy Policy. Please contact KT at the e-mail below if you have any concerns or complaints regarding KT’s compliance with this Privacy Policy. KT will investigate and attempt to resolve your concern or complaint. If this does not satisfactorily resolve your inquiry then you may contact TRUSTe at <http://www.truste.com/consumers/watchdog_complaint.php> and TRUSTe will then serve as a liaison with this website to resolve your concerns.
 
-###  Privacy preferences 
+**Children**  
+The Service and Site are not intended for use by children under the age of 18 without parental supervision.
 
-KnowledgeTree Inc. will not use your personal information for a different purpose than the one stated when you provided your data. Examples of unrelated uses include sending communications about updated information, new services and marketing messages. You can, however, choose to receive these types of non-subscription communications by ticking the box when you register. 
+**Sensitive Demographic Information**  
+KT does not intentionally collect any sensitive information through the KT website or the Service unless legally required to do so. Sensitive information includes but is not limited to race or ethnic origin, political opinions, religious or other beliefs, and physical or mental health. KT suggests that you refrain from providing such information, but you agree that by doing so you will be deemed as providing your explicit consent for KT to use the information for the specified purposes for which it was supplied.
 
-###  Data Access, accuracy, amendments, retention and opting out 
+**Additional Terms**  
+KT intends to protect your privacy to the fullest extent possible as described in this Statement while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy.
 
-KnowledgeTree Inc. will try to keep your personal information accurate. We will provide you with access to your information, including making reasonable efforts to provide you with online access and the opportunity to change your information, if possible. To protect your privacy and security, when doing so we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. 
+You agree that we may transfer your information to the purchaser of the portion of our business to which the information relates, or to an affiliated company.
 
-Upon request, KnowledgeTree Inc. will: 
+You acknowledge and agree that KT may transfer personally identifiable information across state and country borders for the purposes of data consolidation, storage, and simplified information management.
 
-  * Correct personal information that you state is incorrect; or 
-  * Permit you to opt out of further contact (excepting notification of major changes to the service), either on the original site of registration or at any time subsequently, while still allowing basic access to the site; 
-  * Remove you and your personal information provided electronically from our database, thereby cancelling your registration. 
+Upon request, KT will correct any of your personally identifiable information held by us that you state is incorrect.
 
+You acknowledge and agree that KT cannot verify or guarantee that all of its privacy and security practices will be foolproof.
 
+**Updates to Privacy Policy**  
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-To request a correction or cancellation, send an e-mail to the address provided to you at registration for this purpose. 
+**Contacting KT**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with KT software or services, you can contact KT at:
 
-###  Security 
-
-KnowledgeTree Inc. undertakes to take all reasonable measures to protect the information you provide us. These measures include, but are not limited to preventing unauthorized access or disclosure, maintaining data accuracy, and ensuring the appropriate use of the information. KnowledgeTree Inc. has in place appropriate physical and managerial procedures to safeguard the information we collect. 
-
-###  Changes to this statement 
-
-Please note that these guidelines are subject to change at any time. Any such changes will be posted on this page. You are encouraged to review this Privacy Policy at the inception of each session. 
-
-###  Acceptance of policy 
-
-By using the KnowledgeTree Inc. websites, or otherwise providing your personal information to KnowledgeTree Inc., you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use the websites or provide any personal information to KnowledgeTree Inc.. 
-
-Effective date of policy: 1 April 2008 
+[privacy@knowledgetree.com](mailto:privacy@knowledgetree.com)  
+1130 Situs Ct., Suite 234  
+Raleigh, NC USA 27606  
+1 877.900.0350 (US).  
