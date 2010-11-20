@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619082952id_/http%3A//www.babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190527id_/http%3A//www.babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
 
 # Baby Phat: Privacy Policy: Contact Us with Question, Comments and Concerns.
 
