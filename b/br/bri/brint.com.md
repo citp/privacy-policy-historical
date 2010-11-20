@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528092922id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195345id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for BRINT Institute, LLC
 
-  
-|  |  |  [](http://www.brint.org/)  
-**The Knowledge Creating Company** tm
+[](http://www.brint.org/)  
+Global RISK Management Network™
 
 Privacy Statement for BRINT Institute, LLC   
 [About BRINT Institute](http://www.brint.org/)
 
-BRINT Institute, LLC (herafter referred as BRINT Institute) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web portals of BRINT Institute (herafter referred as BRINT web portals).
+BRINT Institute, LLC (herafter referred as BRINT Institute) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web portals of BRINT Institute (herafter referred as BRINT web portals). 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We provide you the the option of using browser-based cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
@@ -25,8 +24,16 @@ Commercial uses of the services offered on BRINT web portals are strictly prohib
 
 BRINT Institute has been actively contributing to the definition and implementation of the privacy standards for Internet Commerce through top executive involvement at the highest level in global standard definitions such as [The Standard for Internet Commerce](http://www.brint.com/whoswho.pdf) being developed collaboratively by leading global thinkers and practitioners including Internet merchants, IT vendors, consumer and community advocates, analysts, journalists and academics. BRINT Institute has been serving some of the most prominent blue-chip companies that have emphasized the practice of privacy disclosures and has been enforcing the highest standards specified by these blue-chip clients. Besides serving most of the high-profile clients on a direct basis and in collaboration with the top-notch advertising agencies, BRINT Institute also works with several third parties and major high-profile organizations. 
 
-**Public Forums** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**Public Forums** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
- **Security** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. For instance, users of our public discussion forums have the choice of hiding their individual e-mail addresses so that their addresses aren't easily available to programs that collect web based e-mail addresses for mass mailings. Similarly, the registration information for the global community members is not shared with anyone else unless explicitly chosen by the specific member. 
+**Security** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. For instance, users of our public discussion forums have the choice of hiding their individual e-mail addresses so that their addresses aren't easily available to programs that collect web based e-mail addresses for mass mailings. Similarly, the registration information for the global community members is not shared with anyone else unless explicitly chosen by the specific member. 
 
-**Choice/Opt-Out** All user registration related issues are handled through the [BRINT Network Global Community](https://www.brint.net/forums/). Registered members can also change various preferences and options from within their user control panel in the Network. Registered members may also contact BRINT Institute through the [online contact form](https://www.brint.net/contact.html). Based upon invitation from Google, BRINT Network of Web sites has partnered with Google to serve ads from Google's advertising network. Google has asked all Web sites in their advertising network to share the following information with respective users in the site's Privacy Policy: "Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy." "We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx)." 
+**Choice/Opt-Out** All opt-in user registration related issues are handled through the [BRINT Network Global Community](https://www.brint.net/forums/) for users who want to participate in the global network community and for entry in the ['Giveaway for Success'](http://www.brint.com/win.html) program . Registered members can also change various preferences and options from within their user control panel in the Network. Registered members may also contact BRINT Institute through the [online contact form](https://www.brint.net/contact.html). 
+
+Consistent with Google's advertising policies for its network of which BRINT is an invited member: 
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. 
+  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). 
+
+
