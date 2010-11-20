@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413124212id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120155859id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
 
 # b2s.com - Manufacturers, suppliers and products from Greater China
 
@@ -42,7 +42,7 @@ If you have questions or suggestions complete a feedback from or send an email t
 
 **Contact us**
 
-**Address:** | Unit 101, 1/F., Stelux House, 698 Prince Edward Road East, San Po Kong, Kowloon, Hong Kong.  
+**Address:** | 5/F, Pan Asia Centre, No. 137 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong.  
 ---|---  
 **Telephone:** | +852 2191 7808  
 **Fax :** | +852 2191 7816  
