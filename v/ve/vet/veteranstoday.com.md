@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522052959id_/http%3A//www.veteranstoday.com/resources/quotes/terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120044912id_/http%3A//www.veteranstoday.com/resources/quotes/terms-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms and Privacy Policy : Veterans Today
 
@@ -82,6 +82,3 @@ The links in the VeteransToday.com Web site allow you to leave our Site. Please 
 If we decide to change our Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about our Privacy Policy, please feel free to email us at gm@veteranstoday.com
 
 Effective Jan. 1, 2010
-
-**Quick Links:[Mesothelioma](http://www.mesothelioma.net/) \- **[ ](http://www.theveteransbusinessdirectory.com/)[ Mesothelioma Treatment](http://www.asbestosnews.com/)  
-**Important Information for Veterans:** Asbestos products were often used on military ships and within military housing, and Veterans may have been exposed. Previous exposure to asbestos is the only known cause of [mesothelioma](http://www.mesothelioma.com/), a fatal cancer that has no cure and affects countless Veterans and loved ones. For more information regarding military asbestos exposure visit [Mesothelioma.com](http://www.mesothelioma.com/)
