@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classle.net privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609093639id_/http%3A//www.classle.net/node/28288) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classle.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184315id_/http%3A//www.classle.net/node/28288) for the most accurate reproduction.*
 
 # Privacy Policy | Classle
 
@@ -61,7 +61,7 @@ We do not knowingly collect personal information from children below the age of 
 
 When Classle becomes aware of an alleged violation of its Acceptable Use Policy, Classle will initiate an investigation. During the investigation Classle may restrict Customer 's access in order to prevent further possible unauthorised activity. Depending on the severity of the violation, Classle may, at its sole discretion, restrict, suspend, or terminate Customer's account and pursue other civil remedies. If such violation is a criminal offence, Classle will notify the appropriate law enforcement department of such violation.
 
-### Your Consent
+### Your Consent 
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy.
 
