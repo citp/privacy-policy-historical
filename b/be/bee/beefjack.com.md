@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beefjack.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110213834id_/http%3A//beefjack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beefjack.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120022737id_/http%3A//beefjack.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : BeefJack
+# Privacy Policy
 
 **PRIVACY POLICY for www.beefjack.com**
 
@@ -85,9 +85,3 @@ The Data Protection Act 1998 gives you the right to access the information that 
 **Contacting Us**
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at admin@beefjack.com.
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-
