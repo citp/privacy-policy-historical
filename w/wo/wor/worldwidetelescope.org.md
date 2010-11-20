@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidetelescope.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616193640id_/http%3A//www.worldwidetelescope.org/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidetelescope.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112101id_/http%3A//www.worldwidetelescope.org/help/privacy.aspx) for the most accurate reproduction.*
 
 # WorldWide Telescope
 
