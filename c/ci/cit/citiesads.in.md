@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116022800id_/http%3A//www.citiesads.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120213311id_/http%3A//www.citiesads.in/privacy.php) for the most accurate reproduction.*
 
-# Classified ads India,Free classifieds India,Free ads,Fresher Job India ,Flats, House for sale, Rent, buy
+# Free classified Ads India | Online Classifieds India | Online Classified Advertising | Post Free Local Classified ad Listings in India - Citiesads.ini
 
 **CitiesAds Privacy statement**
 
