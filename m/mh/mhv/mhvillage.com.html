@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mhvillage.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619085704id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mhvillage.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120190437id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>MHVillage.com - Privacy Policy</title>
@@ -10,14 +10,16 @@
 
         
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-        <script src="/js/min.js" type="text/javascript"></script>  </head>
+        <script src="/js/min.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/js/jquery.bgiframe.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.autocomplete.js"></script>  </head>
 
   <body>
     <div id="body">
-      
-<div id="MHVillageLogo"><a href="/"><img src="/images/MHVillagecommunity.gif" alt="Mobile Homes For Sale, For Rent, Mobile Home Insurance, Loans, and Financing"></a></div>
+      <div class="tagLine rFloat Alert">America's #1 Marketplace to Buy, Sell, or Rent Manufactured Homes</div>
 
-<ul id="TopMenu">
+<ul id="TopMenu" class="TopMenu">
   <li class="first">
     <img class="divider" src="/images/TopMenuDivider.gif" alt="">
     <h3 class="first label">Home Buyers</h3>
@@ -30,6 +32,7 @@
       <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Mobile Home Book Value Reports</a></h4></li>
       <li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Get Mobile Home Financing</a></h4></li>
       <li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Get Mobile Home Insurance</a></h4></li>
+      <li><h4><a href="/Resources/Resources.php">Home Buyer Resources</a></h4></li>
 </ul>
   </li>
   <li>
@@ -42,33 +45,76 @@
       <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Mobile Home Book Value Reports</a></h4></li>
       <li><h4><a href="/mobilehome.php?key=27">Mobile Home Parts</a></h4></li>
       <li><h4><a href="/ListHome/StartListing.php">Advertise Your Home for Sale or Rent</a></h4></li>
+      <li><h4><a href="/Resources/Resources.php">Home Seller Resources</a></h4></li>
     </ul>
   </li>
-  <li class="last">
-    <h3 class="last label">Professionals</h3>
+  <li>
+    <img class="divider" src="/images/TopMenuDivider.gif" alt="">
+    <h3 class="label">Professionals</h3>
     <ul>
       <li><h4><a href="/ListHome/StartListing.php">Sell Your Mobile Homes</a></h4></li>
       <li><h4><a href="/ListHome/TourAccounts.php?LearnMore=Learn%20More">Retail Business Websites</a></h4></li>
       <li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Promote Your Communities</a></h4></li>
+      <li><h4><a href="/Communities/CommunityReport.php">Community Lists</a></h4></li>
       <li><h4><a href="/FinanceLeads/signup.php">Real Time Finance Leads</a></h4></li>
       <li><h4><a href="/MyAccount/AdFAQ.php?LearnMore=Learn%20More">Pay-Per-Click Ads</a></h4></li>
       <li><h4><a href="/MyAccount/Advertise.php">All Advertising Options</a></h4></li>
-      <li><h4><a href="/Appraisal/AHome.php">MHVillage Home Value Reports</a></h4></li>
+      <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">MHVillage Home Value Reports</a></h4></li>
     </ul>
   </li>
+  <li class="last">
+        <div class="chatInvite"><h3 class="last label"><a href="/chat.php?Contact=Email">Contact Us</a></h3></div>
+      </li>
 </ul>
-<div id="BannerBar">
-  <div class="Box1">
-    <img src="/images/Dealerwithkids.jpg" width="166" height="107" alt="Florida, California, and Texas park residents">
-  </div>
 
-    <div class="Box2"><!-- Do not add white space or you will break ie6 -->  
-    <img width="189" height="126" src="/images/Retired.jpg" alt="Dealers and for sale by owner - fsbo"><img width="192" height="126" src="/images/HomeShoppers.jpg" alt="Adult community 55+ dwellers and children"><img width="223" height="126" src="/images/ParkVillage.jpg" alt="Sell mobile home communities and parks">
+<div class="MHVillageLogo"><a href="/"><img src="/images/MHVillageLogo.gif" alt="Mobile Homes For Sale, For Rent, Mobile Home Insurance, Loans, and Financing"></a></div>
 
-  </div>
-  </div>
+<div class="BannerBar">
+    <p><a id="LogInLink" href="/MyAccount/Login.php" class="FancyLink">Already a member?&nbsp;&nbsp;Log in here.</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/MyAccount/Login.php" class="FancyLink">Not a member?&nbsp;&nbsp;Register now.</a></p>
+  
+  <div id="LogInForm" class="LogInForm">
+    <h3 class="centered">Log in to Your MHVillage.com Account</h3>
+    <form action="/MyAccount/Login.php" method="post">
+      <table class="stdTable moreSpace Middle">
+        <tbody><tr>
+          <th class="textright RequiredField">Email Address</th>
+          <td class="textleft"><input type="text" size="30" name="Username"></td>
+        </tr>
+        <tr>
+          <th class="textright RequiredField">Password</th>
+          <td class="textleft"><input type="password" size="27" name="SignInPW"></td>
+        </tr>
+        <tr>
+          <th>&nbsp;</th>
+          <td class="textleft"><input type="checkbox" name="RememberMe" value="Yes" checked="checked"> Keep me logged in.</td>
+        </tr>
+      </tbody></table>
+      <p class="centered"><input type="submit" name="LogIn" value="Log In"></p><br>
+      <p class="centered moreSpace">Don't have an account? <a href="/MyAccount/Login.php" class="FancyLink">Sign up now!</a></p>
+      <p class="centered">Forgot your password? <a href="/MyAccount/ForgotPW.php" class="FancyLink">Get help here.</a></p>
+      <p><span class="closeLink">close [X]</span>&nbsp;&nbsp;</p>
+    </form>
+ </div>
+
+</div>
             <div id="LeftSide">
-      	<div id="SideMenu">
+                <div class="LeftSideSearch">
+          <h3 class="LeftSearchHeader centered">Quick Search</h3>
+          <form id="LeftSearchForm" action="/Listings/Search.php" method="post">
+            <div class="centered">
+              <input id="LeftSearchLocation" name="Location" type="text" size="21" class="defaultText" value="Enter zip or city, state">
+            </div>
+            <div class="centered" style="margin-top: 5px;">
+            <select name="SearchTypeMenu">
+              <option value="Homes">Homes</option>
+              <option value="Communities">Parks</option>
+              <option value="Dealers">Dealers</option>
+              <option value="Sites">Sites</option>
+            </select>&nbsp;&nbsp;<input type="submit" name="Search" value="Search">
+            </div>
+           </form>
+        </div>
+              	<div id="SideMenu">
 	  <div>
 	    <h3>Mobile Homes</h3>
 	    <ul>
@@ -86,6 +132,7 @@
 	      <li><h4><a href="/Communities/Search.php">Find a Community</a></h4></li>
 	      <li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Edit Your Community</a></h4></li>
 	      <li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Promote Your Community</a></h4></li>
+        <li><h4><a href="/Communities/CommunityReport.php">Get a List of Communities</a></h4></li>
 	    </ul>
 	  </div>
 	  <div>
@@ -109,8 +156,9 @@
 	      <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Book Values</a></h4></li>
 	      <li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Financing</a></h4></li>
 	      <li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Insurance</a></h4></li>
-	      <li><h4><a href="/MyAccount/Advertise.php">Advertising</a></h4></li>
+	      <li><h4><a href="/MyAccount/Advertise.php">Pro Advertising</a></h4></li>
 	      <li><h4><a href="/mobilehome.php?key=27">Mobile Home Parts</a></h4></li>
+              <li><h4><a href="/Resources/Resources.php">MHVillage Resources</a></h4></li>
 	    </ul>
 	  </div>
 	  <div>
@@ -154,115 +202,105 @@
   /*  ]]> */
   
   </script>
-  <!--
-  <div id="MyVideoPlayer">
-  </div>
   
-  <div id="WatchVideo" >
-    <a href="http://www.youtube.com/v/YEIyThvyyLw&amp;hl=en"><img src="/images/Video.png" alt="" style="float: left; margin: 5px 0 14px 8px;" /></a>
-    <div class="linkHolder"><a href="http://www.youtube.com/v/YEIyThvyyLw&amp;hl=en" style="padding-top: 4px;">See Our<br/>Videos Online</a></div>
-  </div>
--->
         </div>
       <div id="Content">
         <div id="UpperContent">
-          <h1><span class="mh">MH</span><span class="village">Village.com</span> - Privacy Policy</h1>
-          <div class="Border"></div>
+          <h1 class="pageTitle centered Alert">MHVillage.com - Privacy Policy</h1>
         </div>
 
         <div id="RightSide">
 
 </div><!-- end of RightBlock (moved to footer) -->
         <div id="LowerContent">
-       
-        <span class="mh"><br>MH</span><span class="village">Village.com</span> takes your privacy seriously. Please read the following to learn 
-	more about our privacy policy. <br> <br> 
+          <p class="moreSpace">MHVillage.com takes your privacy seriously. Please read the following to learn 
+	more about our privacy policy.</p>
 
 	<h3>What This Privacy Policy Covers</h3> 
-	This policy covers how <span class="mh">MH</span><span class="village">Village.com</span> treats personal information that 
-	<span class="mh">MH</span><span class="village">Village.com</span> collects and receives, including information related to your past use of 
-	<span class="mh">MH</span><span class="village">Village.com</span> products and services. Personal information is information about you that 
+	This policy covers how MHVillage.com treats personal information that 
+	MHVillage.com collects and receives, including information related to your past use of 
+	MHVillage.com products and services. Personal information is information about you that 
 	is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. <br><br>
  
-	This policy does not apply to the practices of companies that <span class="mh">MH</span><span class="village">Village.com</span> does not own 
-	or control, or to people that <span class="mh">MH</span><span class="village">Village.com</span> does not employ or manage. <br><br>
+	This policy does not apply to the practices of companies that MHVillage.com does not own 
+	or control, or to people that MHVillage.com does not employ or manage. <br><br>
         
 	 
 	<h3>Information Collection and Use</h3>
-        <span class="mh">MH</span><span class="village">Village.com</span> collects personal information when you register with 
-	<span class="mh">MH</span><span class="village">Village.com</span>, when you use <span class="mh">MH</span><span class="village">Village.com</span> 
-	products or services, and when you visit <span class="mh">MH</span><span class="village">Village.com</span> pages or the pages of certain 
-	<span class="mh">MH</span><span class="village">Village.com</span> partners. <span class="mh">MH</span><span class="village">Village.com</span>
+        MHVillage.com collects personal information when you register with 
+	MHVillage.com, when you use MHVillage.com 
+	products or services, and when you visit MHVillage.com pages or the pages of certain 
+	MHVillage.com partners. MHVillage.com
         may combine information about you that we have with information we obtain from business partners or other companies. <br><br>
  
 	When you register we ask for information such as your name, address, email address, zip code and other information. Once you register with 
-	<span class="mh">MH</span><span class="village">Village.com</span> and sign in to our services, you are not anonymous to us. <br><br>
+	MHVillage.com and sign in to our services, you are not anonymous to us. <br><br>
  
-	<span class="mh">MH</span><span class="village">Village.com</span> collects information about your transactions with us and with some of our business
-        partners, including information about your use of services that we offer. <span class="mh">MH</span><span class="village">Village.com</span> 
+	MHVillage.com collects information about your transactions with us and with some of our business
+        partners, including information about your use of services that we offer. MHVillage.com 
 	automatically receives and records information on our server logs from your browser, including your IP address, 
-	<span class="mh">MH</span><span class="village">Village.com</span> cookie information, and the page you request. 
-	<span class="mh">MH</span><span class="village">Village.com</span> uses information for the following general purposes: to customize the advertising and
+	MHVillage.com cookie information, and the page you request. 
+	MHVillage.com uses information for the following general purposes: to customize the advertising and
         content you see, to fulfill your requests for products and services, to improve our services, to contact you, to conduct research, and to provide 
 	anonymous reporting for internal and external clients. <br><br> 
 
 	<h3>Information Sharing and Disclosure</h3> 
-	<span class="mh">MH</span><span class="village">Village.com</span> does not rent, sell, or share personal information about you with other people or
+	MHVillage.com does not rent, sell, or share personal information about you with other people or
         nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: <br><br>
  
-	We provide the information to trusted partners who work on behalf of or with <span class="mh">MH</span><span class="village">Village.com</span>. 
-	These companies may use your personal information to help <span class="mh">MH</span><span class="village">Village.com</span> communicate with you about 
-	offers from <span class="mh">MH</span><span class="village">Village.com</span> and our marketing partners. <br><br>
+	We provide the information to trusted partners who work on behalf of or with MHVillage.com. 
+	These companies may use your personal information to help MHVillage.com communicate with you about 
+	offers from MHVillage.com and our marketing partners. <br><br>
  
 	We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We believe it is 
 	necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving
-        potential threats to the physical safety of any person, violations of <span class="mh">MH</span><span class="village">Village.com</span>'s 
+        potential threats to the physical safety of any person, violations of MHVillage.com's 
 	terms of use, or as otherwise required by law. <br><br>
  
-	We transfer information about you if <span class="mh">MH</span><span class="village">Village.com</span> is acquired by or merged with another company.<br><br>
+	We transfer information about you if MHVillage.com is acquired by or merged with another company.<br><br>
 
-	<span class="mh">MH</span><span class="village">Village.com</span> may display targeted advertisements based on personal information. 
-	<span class="mh">MH</span><span class="village">Village.com</span> does not provide any personal information to the advertiser when you interact with 
+	MHVillage.com may display targeted advertisements based on personal information. 
+	MHVillage.com does not provide any personal information to the advertiser when you interact with 
 	or view a targeted ad. However, by interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that
-        you meet the targeting criteria used to display the ad. <span class="mh">MH</span><span class="village">Village.com</span> advertisers include financial 
+        you meet the targeting criteria used to display the ad. MHVillage.com advertisers include financial 
 	service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and
         software companies). <br> <br> 
 
 	<h3>Cookies</h3> 
-	<span class="mh">MH</span><span class="village">Village.com</span> may set and access <span class="mh">MH</span><span class="village">Village.com</span> 
-	cookies on your computer. <span class="mh">MH</span><span class="village">Village.com</span> lets other companies that show advertisements on some of our 
+	MHVillage.com may set and access MHVillage.com 
+	cookies on your computer. MHVillage.com lets other companies that show advertisements on some of our 
 	pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. 
-	Advertisers or other companies do not have access to <span class="mh">MH</span><span class="village">Village.com</span>'s cookies. <br><br>
+	Advertisers or other companies do not have access to MHVillage.com's cookies. <br><br>
 
-        <span class="mh">MH</span><span class="village">Village.com</span> uses web beacons to access <span class="mh">MH</span><span class="village">Village.com</span> 
-	cookies inside and outside our network of web sites and in connection with <span class="mh">MH</span><span class="village">Village.com</span> 
+        MHVillage.com uses web beacons to access MHVillage.com 
+	cookies inside and outside our network of web sites and in connection with MHVillage.com 
 	products and services. <br><br> 
 
 	<h3>Your Ability to Edit and Delete Your Account Information</h3> 
-	You can edit or delete your <span class="mh">MH</span><span class="village">Village.com</span> Account Information at any time. We reserve the right to 
-	send you certain communications relating to the <span class="mh">MH</span><span class="village">Village.com</span> service, such as service announcements, 
-	administrative messages and the <span class="mh">MH</span><span class="village">Village.com</span> Newsletter, that are considered part of your 
-	<span class="mh">MH</span><span class="village">Village.com</span> account, without offering you the opportunity to opt-out of receiving them. <br><br> 
+	You can edit or delete your MHVillage.com Account Information at any time. We reserve the right to 
+	send you certain communications relating to the MHVillage.com service, such as service announcements, 
+	administrative messages and the MHVillage.com Newsletter, that are considered part of your 
+	MHVillage.com account, without offering you the opportunity to opt-out of receiving them. <br><br> 
 
 	<h3>Confidentiality and Security</h3> 
 	We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide 
 	products or services to you or in order to do their jobs. <br><br> 
 
 	<h3>Changes to this Privacy Policy</h3> 
-	<span class="mh">MH</span><span class="village">Village.com</span> may update this policy without notice from time to time, so you should 
+	MHVillage.com may update this policy without notice from time to time, so you should 
 	check this page frequently.  <br> <br> 
 	If you have questions or suggestions, please contact us at: <br><br>
  
-	<span class="mh">MH</span><span class="village">Village.com</span><br> 
+	MHVillage.com<br> 
 	Customer Service<br> 
 	2600 Five Mile Road NE<br> 
 	Grand Rapids, MI 49525 <br> 
-	(616) 363-8454<br>
-        CustomerService@<span class="mh">MH</span><span class="village">Village.com</span><br><br><br>
+	(800) 397-2158<br>
+        CustomerService@MHVillage.com<br><br><br>
         </div>
       </div>
 
-    <div id="BottomBlock">
+    <div class="BottomBlock clearboth centered">
   
   <a href="/MyAccount/Advertise.php">Advertise</a> | 
   <a href="/TermsOfUse.php">Terms of Use</a> |
@@ -288,23 +326,6 @@
 
 </div>
 
-<div id="LoginStatus">
-    <p><a href="/MyAccount/Login.php" onclick="$('#LoginStatus').hide(); $('#LoginContainer').show(); $('#EmailAddress').focus(); return(false);">Already a Member?</a><br><a href="/MyAccount/Login.php" onclick="$('#LoginStatus').hide(); $('#LoginContainer').show(); $('#EmailAddress').focus(); return false">Log in here.</a></p><br>
-  <p><a href="/MyAccount/Login.php">Not a Member?</a><br><a href="/MyAccount/Login.php">Register now</a></p>
-  </div>
-
-<div id="LoginContainer">
-  <form id="LoginForm" method="post" action="/MyAccount/Login.php">
-    <table>
-      <tbody><tr><td>Email&nbsp;Address</td><td><input id="EmailAddress" type="text" name="Username" size="10" tabindex="1"></td><td rowspan="3"><input class="Go18" type="image" src="/images/InputImage18.gif" name="LogIn" value="Log In" tabindex="3"></td></tr>
-      <tr><td>Password</td><td><input id="Password" type="password" name="SignInPW" size="10" tabindex="2"></td></tr>
-      <tr><td class="RememberMe" colspan="2"><label><input type="checkbox" name="RememberMe" value="Yes" checked="checked">&nbsp;Keep&nbsp;me&nbsp;logged&nbsp;in.</label></td></tr>
-    </tbody></table>
-  </form>
-  <p style="margin-top: 2px;"><a href="/MyAccount/Login.php">Not registered?  Sign up today!</a></p>
-  <p><a id="ForgotPWLink" href="/MyAccount/ForgotPW.php">Forgot your password?</a></p>
-</div>
-
 <div id="LeftFooterAds" class="Hide">
                 
             <div class="AdContainer">
@@ -323,34 +344,27 @@
         </div>
 
           
-  	<div id="Testimonies">
+  	<div class="Testimonies">
   	  <h3>What Others are Saying</h3>
-  	    	  <blockquote><div>This is a great system. Totally worked for us. It took a long time, but MHVillage kept buyers coming our way. &nbsp;&nbsp;</div></blockquote>
-  	  <p>Donald C.<br>Sevierville, TN</p>
+  	    	  <blockquote><div>I don't know how we would have sold our home without your help.  And your listing prices are so reasonable!  Thank you.&nbsp;&nbsp;</div></blockquote>
+  	  <p>Deborah J.<br>Melbourne, FL</p>
   	  
-  	  <div id="ViewMore"><a class="TLink FancyLink" href="/ListHome/Testimonials.php">View More</a></div>
+  	  <div class="ViewMore textright"><a class="TLink FancyLink" href="/ListHome/Testimonials.php">View More</a></div>
 
   	</div>
 
-  	<div id="BBB">
-        	  <div id="Marquee">
-  	    <h2>Since Jun 12, 2010<br>928 Mobile Homes Sold Valued at $27,099,020</h2>
-  	    <h2>Buy or Sell Used Homes by Owner or Dealer</h2>
-        <h2>Since Jun 12, 2010<br>413 offers were made on mobile homes on MHVillage!</h2>
-  	    <h2>Blue Book Prices for Park Sales and Private Land</h2> 
-  	  </div>
-      
-  	  <a href="http://www.bbbonline.org/cks.asp?id=104081612174840078" target="_blank"><img src="/images/bbbonlinelogo.gif" alt=""></a>
-  	</div>
-
-
-  	<div id="FaceBook">
+  	<div class="centered moreSpace">
   <!-- Facebook Badge START --><a href="http://www.facebook.com/pages/MHVillagecom/82986666492" title="MHVillage.com" target="_blank"><img src="/images/find_us_on_facebook_badge.gif" style="border: 0px;" alt="Find us on Facebook!"></a><!-- Facebook Badge END -->
   	</div>
+
+  <div class="centered moreSpace">
+    <a href="http://www.bbbonline.org/cks.asp?id=104081612174840078" target="_blank"><img src="/images/bbbonlinelogo.gif" alt=""></a>
+  </div>
+
 </div>
 
 <div id="RightFooterAds" class="Hide">
-      
+        
     
   
   <div class="googleAd">
@@ -374,9 +388,9 @@
     <div class="MHVillageAd">
       <h4>By MHVillage</h4>
       <div class="textBlock">
-        <a href="/mobilehome.php?key=21" target="_blank">Mobile Home Values</a><br>
-        Used home prices in 2 hours
-      </div>
+        <a href="/mobilehome.php?key=21" target="_blank">Mobile Home Values And Prices</a><br>
+	        Get mobile home values and free value estimates
+	      </div>
       <div class="textBlock">
         <a href="/mobilehome.php?key=22" target="_blank">Mobile Home Insurance Quote</a><br>
         Get quotes from multiple companies
@@ -387,6 +401,7 @@
       </div>
       <h4><a class="yourAdLink" href="/MyAccount/Advertise.php">Advertise Here</a></h4>
     </div>
+  
   </div>
 <script type="text/javascript" charset="utf-8">
 
