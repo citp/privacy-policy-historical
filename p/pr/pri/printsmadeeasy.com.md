@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printsmadeeasy.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328083259id_/http%3A//www.printsmadeeasy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printsmadeeasy.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190521id_/http%3A//www.printsmadeeasy.com/privacy.php) for the most accurate reproduction.*
 
 # PrintsMadeEasy: Privacy & Security
 
@@ -15,7 +15,7 @@ PrintsMadeEasy logs IP addresses (your unique Internet address) for administrati
 PrintsMadeEasy uses session cookies to keep track of information during your visit. Permanent cookies are not stored on your computer so we can't remember you after you leave the site. 
 
 **User Information**   
-During registration we require that you supply personal information like your name and e-mail address. With your permission, we may send you an e-mail newsletter that contains special deals on business cards or postcards. You can unsubscribe to this option by editing the preferences in [My Account](https://web.archive.org/web/20100328083259id_/http%3A//www.printsmadeeasy.com/myaccount.php). 
+During registration we require that you supply personal information like your name and e-mail address. With your permission, we may send you an e-mail newsletter that contains special deals on business cards or postcards. You can unsubscribe to this option by editing the preferences in [My Account](https://web.archive.org/web/20101120190521id_/http%3A//www.printsmadeeasy.com/myaccount.php). 
 
 **Sharing Information**   
 PrintsMadeEasy has a strict policy against sharing or selling your personal information, except when the law requires it. 
