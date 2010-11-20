@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheresbest.co.uk privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303170336id_/http%3A//www.wheresbest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheresbest.co.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111748id_/http%3A//www.wheresbest.co.uk/privacy.php) for the most accurate reproduction.*
 
 # UK directory of pubs, restaurants, hotels, youth hostels and other places of interest. - Wheresbest.co.uk
 
@@ -12,7 +12,9 @@ We may use the email address provided by you to send updates, a newsletter or ne
 
 If you do not wish to receive this information, please e-mail us.
 
-Wheresbest.co.uk uses cookies to store visitors' preferences and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from Wheresbest.co.uk in order to use a small number of functions of the site. Please note that Wheresbest allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Wheresbest Privacy Policy.
+Wheresbest.co.uk uses cookies to store visitors' preferences and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from Wheresbest.co.uk in order to use a small number of functions of the site.
+
+When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, [click this link](http://www.google.com/privacy_ads.html).
 
 Wheresbest.co.uk contains links to sites. Wheresbest.co.uk is not responsible for the privacy policies and/or practices on other sites. When linking to another site, a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on Wheresbest.co.uk.
 
