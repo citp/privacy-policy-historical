@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the daemonsearch.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330222624id_/http%3A//www.daemon-search.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daemonsearch.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120210632id_/http%3A//www.daemon-search.com/eng/privacy) for the most accurate reproduction.*
 
-# PRIVACY :: DAEMON-Search.com
+# DAEMON-Search.com :: PRIVACY
+
+Privacy Policy
 
 At DAEMON-Search.com, we respect the privacy of our users and the importance of the information they entrust to us. We provide this Privacy Policy so that our users (“ **you** ”) will know what information is being collected about you and your activities on DAEMON-Search.com, how that information is being used, and with whom it is being shared. This Privacy Policy describes the online privacy practices applicable to the web pages within the Internet domain DAEMON-Search.com (the “ **Site** ”) and the various services (“ **Services** ”) we provide on or through the Site. 
 
@@ -35,3 +37,5 @@ We have security measures in place that are designed to safeguard and help pre
 
 
 
+
+Effective date: November 20, 2010
