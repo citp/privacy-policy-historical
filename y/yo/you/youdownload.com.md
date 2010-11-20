@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youdownload.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110062716id_/http%3A//files.youdownload.com/x/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdownload.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112252id_/http%3A//files.youdownload.com/x/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
