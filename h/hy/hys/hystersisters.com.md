@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513072847id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120124705id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy - HysterSisters.com
 
@@ -105,10 +105,9 @@ Denton, Texas 76205
 
 _The effective date of this Privacy Policy is July 1, 2009. This Website is intended for viewing within the United States._
 
-Page Created at 06-08-2003 - 06:00 AM, Last Modified 07-10-2009 - 06:50 AM 
+Page Created at 06-08-2003 - 07:00 AM, Last Modified 07-10-2009 - 07:50 AM 
 
-[](https://www.hystersisters.com/xcart/product.php?productid=16218)   
-[](http://www.communitypharmacy.com/) |  [](http://www.eonsboommedia.com/) |  [](http://www.bpharmacysolutions.com/)  
+[](http://www.sils.com/hysterectomy/pages.aspx?page=SILS) |  [ ](http://aimis.org/find_aimis_center/interactive_map.php)[](http://www.eonsboommedia.com/) |  [](http://www.sils.com/hysterectomy/pages.aspx?page=SILS)  
 ---|---|---  
   
   
