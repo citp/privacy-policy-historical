@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629184233id_/http%3A//www.checkm8.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120220329id_/http%3A//checkm8.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
