@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606044527id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120013730id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Papa John's - Better Ingredients, Better Pizza - Papa John's : Privacy Statement
-
-change store
-
-## West Hampstead
-
-177 West End Lane  
-West Hampstead  
-Greater London  
-NW6 2LH  
-Telephone: 020 7624 0197
-
-**Standard Opening times:**  
-
-
-This store is currently **Closed**
-
-We aim to deliver in **30 Minutes**
-
- **All collection orders are ready within 15 minutes** ****
 
 ## Papa John's : Privacy Statement
 
