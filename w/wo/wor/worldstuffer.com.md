@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstuffer.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516135901id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstuffer.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184641id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.*
 
 # Worldstuffer | Privacy Policy Page Free Local Classifieds and Social Networking Site
 
