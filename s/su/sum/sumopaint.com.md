@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206115538id_/http%3A//www.sumopaint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094218id_/http%3A//www.sumopaint.com/privacy) for the most accurate reproduction.*
 
-# Sumo Paint :: Online Image Editor :: Privacy
+# Sumo Paint | Online Image Editor
 
-| [](https://web.archive.org/web/20091206115538id_/http%3A//privacy "umbrella")| 
+| [](https://web.archive.org/web/20101120094218id_/http%3A//privacy "umbrella")| 
 
 ### Privacy policy is a summary of how we retain, process, disclose and purge your information.  
   
