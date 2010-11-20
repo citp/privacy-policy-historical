@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipshack.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528160305id_/http%3A//www.clipshack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipshack.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120220459id_/http%3A//clipshack.com/privacy.html) for the most accurate reproduction.*
 
 # _
 
@@ -6,7 +6,7 @@ _Effective June 8, 2006_
 
 **_ClipShack Privacy Policy_**
 
-Reality Digital, Inc. (“ ** _Reality Digital_** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information received from users of its website [www.clipshack.com](http://www.clipshack.com/) (this “ ** _Site_** ”).  This Privacy Policy applies only to this Site and is incorporated into the Clipshack.com [Terms of Use Agreement](https://web.archive.org/web/20100528160305id_/http%3A//www.clipshack.com/terms.html). 
+Reality Digital, Inc. (“ ** _Reality Digital_** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information received from users of its website [www.clipshack.com](http://www.clipshack.com/) (this “ ** _Site_** ”).  This Privacy Policy applies only to this Site and is incorporated into the Clipshack.com [Terms of Use Agreement](https://web.archive.org/web/20101120220459id_/http%3A//clipshack.com/terms.html). 
 
 This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site.  Please consult the Site regularly for any changes. 
 
@@ -72,10 +72,10 @@ _ Our Site may contain links to other websites. We may also use third-party adve
 **Our Policy Toward Children**
 
 _  
-_ This Site is not directed to persons under 18.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at help via [http://www.clipshack.com/contact.aspx](https://web.archive.org/web/20100528160305id_/http%3A//www.clipshack.com/contact.aspx). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+_ This Site is not directed to persons under 18.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at help via [http://www.clipshack.com/contact.aspx](https://web.archive.org/web/20101120220459id_/http%3A//clipshack.com/contact.aspx). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at [http://www.clipshack.com/contact.aspx](https://web.archive.org/web/20100528160305id_/http%3A//www.clipshack.com/contact.aspx) or at: **Reality Digital, 600 Townsend Street, Suite 170e, San Francisco, CA   94103.**
+If you have any questions about this Privacy Policy, please contact us at [http://www.clipshack.com/contact.aspx](https://web.archive.org/web/20101120220459id_/http%3A//clipshack.com/contact.aspx) or at: **Reality Digital, 600 Townsend Street, Suite 170e, San Francisco, CA   94103.**
 
 © 2006 Reality Digital, Inc. 
