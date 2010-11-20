@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porn8.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131065906id_/http%3A//www.porn8.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn8.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120194832id_/http%3A//www.porn8.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,6 @@ Third Parties' Practices
 |  **Porn 8 Video Selection**  
 [_All Videos_](http://www.porn8.com/) [_Gay Videos_](http://www.porn8.com/gay/) [_Tranny Videos_](http://www.porn8.com/tranny/)   
 [_Fetish Videos_](http://www.porn8.com/fetish/) [_Celebrity Videos_](http://www.porn8.com/celebrities/)   
-[](http://www.myfreepaysite.com/?aid=porn8)   
+  
   
 
