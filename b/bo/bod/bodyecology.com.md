@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyecology.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102135839id_/http%3A//bodyecology.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyecology.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120063629id_/http%3A//bodyecology.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Body Ecology Privacy Policy
 
