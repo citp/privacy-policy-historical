@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allthewebsites.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612153004id_/http%3A//www.allthewebsites.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthewebsites.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190422id_/http%3A//www.allthewebsites.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : AllTheWebSites
-
-[Home](http://www.allthewebsites.org/) > Privacy Policy 
 
 Your privacy is **important** to us. The following discloses our information gathering and dissemination practices for this site, **WWW.ALLTHEWEBSITES.ORG**
 
