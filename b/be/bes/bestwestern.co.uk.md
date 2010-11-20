@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwestern.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003030id_/http%3A//www.bestwestern.co.uk/About-Us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwestern.co.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120041547id_/http%3A//www.bestwestern.co.uk/About-Us/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - About Best Western UK - Best Western UK
 
