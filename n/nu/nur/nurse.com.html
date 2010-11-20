@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617011122id_/http%3A//www.nurse.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120131353id_/http%3A//www.nurse.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -52,39 +52,6 @@ function OAS_NORMAL(pos) {
 		<link rel="stylesheet" type="text/css" href="http://www.nurse.com/styles/main.css?v=2.001">
 	
 
-	
-<!--jquery menu -->
-
-		
-		<script type="text/javascript" src="http://www.nurse.com/scripts/Navigation/jquery.js"></script>
-		<script type="text/javascript" src="http://www.nurse.com/scripts/Navigation/bgiframe.js"></script>
-		<script type="text/javascript" src="http://www.nurse.com/scripts/Navigation/superfish.js"></script>
-		<script type="text/javascript" src="http://www.nurse.com/scripts/jExpand.js"></script>
-		<script type="text/javascript">
-		
-		$(document).ready(function(){
-			$("ul.nav")
-			.superfish({
-				animation : { opacity:"show",height:"show"}
-			})
-			.find(">li:has(ul)")
-				.mouseover(function(){
-					$("ul", this).bgIframe({opacity:false});
-				})
-				.find("a")
-					.focus(function(){
-						$("ul", $(".nav>li:has(ul)")).bgIframe({opacity:false});
-					});
-		});
-		</script>
-
-	<!--end jquery menu -->
-	
-	<script type="text/javascript" src="http://www.nurse.com/scripts/tabtoggler.js"></script>
-	<script type="text/javascript" src="http://www.nurse.com/scripts/jobSearch.js"></script>
-	
-	<script src="http://www.nurse.com/galleries/nurseawards/newWindow.js" type="text/javascript"></script>
-	
 	<link rel="icon" href="http://www.nurse.com/favicon.ico" type="image/vnd.microsoft.icon">
 	<link rel="shortcut icon" href="http://www.nurse.com/favicon.ico">
 
@@ -93,10 +60,44 @@ function OAS_NORMAL(pos) {
 	
 		<body class="oneCol">
 	
+
+	<!--jquery menu -->
+
+	<script type="text/javascript" src="http://www.nurse.com/scripts/jquery.js"></script>
+	<script type="text/javascript" src="http://www.nurse.com/scripts/Navigation/bgiframe.js"></script>
+	<script type="text/javascript" src="http://www.nurse.com/scripts/Navigation/superfish.js"></script>
+	<script type="text/javascript" src="http://www.nurse.com/scripts/jExpand.js"></script>
+
+	<!--end jquery menu -->
+	
+	<script type="text/javascript" src="http://www.nurse.com/scripts/jquery.simplemodal-1.3.5.js"></script>
+	<script type="text/javascript" src="http://www.nurse.com/scripts/tabtoggler.js"></script>
+	<script type="text/javascript" src="http://www.nurse.com/scripts/jobSearch.js"></script>
+	<script type="text/javascript" src="http://www.nurse.com/galleries/nurseawards/newWindow.js"></script>
+
+	<script type="text/javascript">
+	
+	$(document).ready(function(){
+		$("ul.nav")
+		.superfish({
+			animation : { opacity:"show",height:"show"}
+		})
+		.find(">li:has(ul)")
+			.mouseover(function(){
+				$("ul", this).bgIframe({opacity:false});
+			})
+			.find("a")
+				.focus(function(){
+					$("ul", $(".nav>li:has(ul)")).bgIframe({opacity:false});
+				});
+	});
+	</script>
+
+
 <div id="wrapper">
 
 	<div id="rssIcon"><a href="http://www.nurse.com/newsfeed.xml">
-	<img src="http://www.nurse.com/images/RSS_global.gif" alt="Subscribe to RSS"></a>
+	<img src="http://www.nurse.com/images/RSS_global.gif" width="16px" height="16px" alt="Subscribe to RSS"></a>
 	</div>
 	<div id="rss"><a href="http://www.nurse.com/newsfeed.xml">Subscribe to RSS</a></div>
 	
@@ -104,12 +105,10 @@ function OAS_NORMAL(pos) {
 		<a href="https://www.nurse.com/Subscriptions.html">Subscribe to Nurseweek | Nursing Spectrum</a><br>
 	</div>
 	
-	
-	
 
 <script language="javascript">
+var loggedIn = 0;
 function Welcome(){
-	var loggedIn = 0;
 	var uName = "";
 
 	if (document.cookie.length > 0 && document.cookie.indexOf("username=") > 0){
@@ -124,17 +123,16 @@ function Welcome(){
 			loggedIn = 1;
 	}
 
-	if(loggedIn){document.write('<li><strong>Hello ' + uName + '</strong></li><li><a href="https://www.nurse.com/signup/">My Account</a></li><li><a href="http://www.nurse.com/logout.html">Log Out</a></li>');}
-	else {document.write('<li><a href="https://www.nurse.com/signup/">Login / Sign Up</a></li>');}
+	if(loggedIn){document.write('<li><strong>Hello ' + uName + '</strong></li><li><a href="https://www.nurse.com/account/">My Account</a></li><li><a href="http://www.nurse.com/logout.html">Log Out</a></li>');}
+	else {document.write('<li><a href="https://www.nurse.com/signup/">Login </a></li><li><a href="https://www.nurse.com/signup/#signup">Sign Up</a></li>');}
 }
-
 </script>
 
 	<div id="uNav">
 		<ul>
 			<script language="javascript">
 			Welcome();
-			</script><li><a href="https://www.nurse.com/signup/">Login / Sign Up</a></li>
+			</script><li><a href="https://www.nurse.com/signup/">Login </a></li><li><a href="https://www.nurse.com/signup/#signup">Sign Up</a></li>
 			<li><a href="http://www.helpatnursingspectrum.com/" target="_blank">Advertise</a></li>
 			
 			<li class="last"><a href="http://www.nurse.com/contact/">Help/FAQ</a></li>
@@ -154,21 +152,23 @@ function Welcome(){
 		
 
 		<!--Search Box Variable -->
-        
+		
 			<div id="searchboxHeader" style="margin:50px 0 0 15px;">
-				
 				<form action="http://search.nurse.com/sp" method="get" name="stdForm">
 				<table border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td colspan="2">Search Nurse.com</td>
 				</tr>
 				<tr>
-					<td><input type="hidden" value="" name="skin">
-						<input type="text" value="" name="keywords" id="form-search">
+					<td>
+						<input type="hidden" value="" name="skin">
+						<div class="inputWrapper">
+							<input type="text" value="" name="keywords">
+						</div>
 					</td>
 					<td valign="top">
-					<input type="image" value="Go" id="search-form-submit" name="submit" src="http://www.nurse.com/images/btn_headerSearch.gif">
-				</td>
+						<input type="image" value="Go" id="search-form-submit" name="submit" src="http://www.nurse.com/images/btn_headerSearch.gif">
+					</td>
 				</tr>
 				</tbody></table>
 				<input type="hidden" name="mode" value="search">
@@ -304,6 +304,7 @@ function Welcome(){
 				<a href="http://www.nurse.com/specialty/">Specialty</a>
 				
 				<ul id="dropDownSpecialty">
+					<li><a href="http://www.nurse.com/advancedpractice/">Advanced Practice</a></li>
 					<li><a href="http://www.nurse.com/criticalcare/">Critical Care</a></li>
 					<li><a href="http://www.nurse.com/ed/">Emergency Department</a></li>
 					<li><a href="http://www.nurse.com/management/">Management/Leadership</a></li>
@@ -317,7 +318,7 @@ function Welcome(){
 			</li>
 			
 			<li class="centered" id="nav-resources"><a href="http://www.nurse.com/resources/">Resources</a></li>
-			<li class="centered" id="nav-home"><a href="http://topics.nurse.com/well+nurse">WellNurse</a></li>
+			<li class="centered" id="nav-home"><a href="http://topics.nurse.com/aspirehigher">Aspire Higher</a></li>
 			
 		</ul>
 		
@@ -331,7 +332,7 @@ function Welcome(){
 	<div id="job-search">
 		<div id="job-img" align="center" style="color:#FFFFFF; padding-top:8px;">
 		
-		<h3>Search Over 13,710 RN Jobs</h3> 
+		<h3>Search Over 12,464 RN Jobs</h3> 
 				
 		</div>
 		<div id="job-form">
@@ -639,6 +640,269 @@ function Welcome(){
 <div class="clear"></div>
 
 
+<script type="text/javascript">
+
+if (window.XMLHttpRequest) {
+
+function signInOpen(allowClose) {
+	if (allowClose == null){ allowClose = 1; }
+	$("#uniheader-modal-login-box").modal({onOpen: function (dialog) {
+		$("div.ads-300").hide();
+		$("div.ads-150").hide();
+		dialog.overlay.fadeIn('slow', function () {
+			dialog.data.hide();
+			dialog.container.fadeIn('fast', function () {
+				dialog.data.fadeIn('fast');
+				document.getElementById('signinuserfield').focus();
+			});
+		pageTracker._trackEvent('SignIn', 'Modal Window', 'Impressions');
+		});
+	},
+	onClose: function (dialog) {
+		dialog.data.fadeOut('fast', function () {
+			dialog.container.slideUp('fast', function () {
+				dialog.overlay.fadeOut('fast', function () {
+					$.modal.close(); // must call this!
+				});
+			});
+		});
+		$("div.ads-300").show();
+		$("div.ads-150").show();
+	}});
+	return false;
+}
+
+function signUpOpen() {
+	$("#uniheader-modal-login-box").modal({onOpen: function (dialog) {
+		$("div.ads-300").hide();
+		$("div.ads-150").hide();
+		dialog.overlay.fadeIn('slow', function () {
+			dialog.data.hide();
+			dialog.container.fadeIn('fast', function () {
+				dialog.data.fadeIn('fast');
+				$("#uniheader-modal-login-box-signup-link").hide();
+				$("#middle-login").hide();
+				$("#middle-register").height(450);
+				$("#middle-register").show();
+				$("#uniheader-modal-login-box #top").css({ "background-image":"url('http://www.nurse.com/images/ui/bg/reg_topslice-register.png')" });
+				$("#simplemodal-container").animate({ top:"60px" }, 500 );
+				document.getElementById('signupfirstnamefield').focus();
+			});
+			pageTracker._trackEvent('SignUp', 'Step 1', 'Impressions');
+		});
+	},
+	onClose: function (dialog) {
+		dialog.data.fadeOut('fast', function () {
+			dialog.container.slideUp('fast', function () {
+				dialog.overlay.fadeOut('fast', function () {
+					$.modal.close(); // must call this!
+				});
+			});
+		});
+		$("div.ads-300").show();
+		$("div.ads-150").show();
+	}});
+	return false;
+}
+
+$(document).ready(function() {
+
+try
+	{
+
+	$("a[href='https://www.nurse.com/signup/']").click(function(event){	
+		if(!loggedIn) { 
+			event.preventDefault();
+			signInOpen();
+		}
+		else { 
+			event.preventDefault();
+			window.location = 'https://www.nurse.com/account/';
+		}
+	});
+
+	$("a[href='https://www.nurse.com/signup/#signup']").click(function(event){	
+		if(!loggedIn) { 
+			event.preventDefault();
+			signUpOpen();
+		}
+		else { 
+			event.preventDefault();
+			window.location = 'https://www.nurse.com/account/';
+		}
+	});
+	
+	$("#uniheader-modal-login-box a[href='#']").click(function(){
+		$(this).parent().fadeOut('fast');
+		$("#uniheader-modal-login-box #top").css({ "background-image":"url('http://www.nurse.com/images/ui/bg/reg_topslice-register.png')" });
+		$("#middle-login").hide();
+		$("#middle-register").height(450);
+		$("#middle-register").show();
+		$("#simplemodal-container").animate({ top:"60px" }, 500 );
+		document.getElementById('signupfirstnamefield').focus();
+		pageTracker._trackEvent('SignUp', 'Step 1', 'Impressions');
+	});
+	}
+
+catch(err)
+	{
+	window.location = "https://www.nurse.com/signup/"
+	}
+
+});
+
+}
+
+</script>
+
+<style type="text/css">
+#simplemodal-overlay {background-color:#000;}
+#simplemodal-container {width: 591px; height: 395px; padding: 12px;}
+#uniheader-modal-login-box { color:#333333; font:11px/16px Verdana,Arial,sans-serif; }
+#uniheader-modal-login-box #top { background: transparent url('http://www.nurse.com/images/ui/bg/reg_topslice.png') no-repeat top left; height:94px; }
+#uniheader-modal-login-box #middle-login { background: transparent url('http://www.nurse.com/images/ui/bg/reg_midslice.png') repeat-y top left; height: 245px; padding-left: 168px;  }
+#uniheader-modal-login-box #middle-register { background: transparent url('http://www.nurse.com/images/ui/bg/reg_midslice.png') repeat-y top left; height: 245px; padding-left: 168px;  }
+#uniheader-modal-login-box #bottom { background: transparent url('http://www.nurse.com/images/ui/bg/reg_bottomslice.png') no-repeat top left; height: 46px;  }
+#simplemodal-container a.modalCloseImg {
+	background:url(http://www.nurse.com/images/x.png) no-repeat; /* adjust url as required */
+	width:25px;
+	height:29px;
+	display:inline;
+	z-index:3200;
+	position:absolute;
+	top:-15px;
+	right:-18px;
+	cursor:pointer;
+}
+
+#uniheader-modal-login-box label {
+	font: bold 18px arial;
+	color: #1A569F;
+	display: block;
+}
+#uniheader-modal-login-box input {
+	border: 3px solid #1A569F;	
+	font: normal 18px arial;
+	padding: 5px;
+}
+input.button {
+	border: none !important;
+	vertical-align: top;
+	padding: 0 !important;
+	margin: 0;
+}
+</style>
+
+
+<div id="uniheader-modal-login-box" style="display:none;">
+	<div id="top"><span id="uniheader-modal-login-box-signup-link" style="font-size:14px;color:#174B8B; position:relative; left: 330px; top: 25px;">Don't have an account? <a href="#" style="font-weight:bold;">Sign up</a>!</span></div>
+	<div id="middle-login" class="login">
+
+		<form id="login-form" action="https://www.nurse.com/signup/" method="post">
+		<label for="username">Username</label>
+		<input name="username" id="signinuserfield" type="text" size="25" style="">
+		<br>
+		<br>
+
+		
+		<label for="password">Password</label>
+		<input name="password" type="password" size="25" style="">
+		<br>
+		<span><a href="http://www.nurse.com/finduser.html">Forgot your password?</a></span>
+		<br><br>
+
+		
+		<input name="login_submit" value="1" type="hidden">
+
+		<input type="hidden" name="ReferPage" id="signinreferval" value="https://web.archive.org/web/20101120131353id_/http://www.nurse.com/Privacy/">
+		<input type="hidden" name="goTo" id="signingotoval" value="">
+
+		<label for="StayConnected">
+		<input name="StayConnected" type="checkBox">
+		<span class="style3" style="margin-right: 10px;">Keep me logged in?</span>
+		</label>
+
+		<br>
+
+		<input type="image" class="button" src="http://www.nurse.com/images/ui/btn/btn_g_continue.png" alt="Continue">
+		</form>
+<div class="clear"></div>
+	</div>
+	<div id="middle-register" style="display:none;">
+
+		<form id="register-form" action="https://www.nurse.com/signup/" method="post">
+
+		<table border="0">
+		<tbody><tr><td width="25%">
+		<label for="FirstName">First name</label>
+		<input name="FirstName" id="signupfirstnamefield" type="text" size="10" style="">
+		</td><td width="75%">
+		<label for="LastName">Last name</label>
+		<input name="LastName" type="text" size="10" style="">
+		</td></tr>
+
+		<tr><td colspan="2">
+		<label for="UserName">Username</label>
+		<input name="UserName" type="text" size="25" style="">
+		</td></tr>
+
+		<tr><td width="25%">
+		<label for="Pass1">Password</label>
+		<input name="Pass1" type="password" size="10" style="">
+		</td><td width="75%">
+		<label for="Pass2">Re-enter</label>
+		<input name="Pass2" type="password" size="10" style="">
+		</td></tr>
+
+		<tr><td colspan="2">
+		<label for="Email">Email</label>
+		<input name="Email" type="text" size="25" style="">
+		</td></tr>
+
+		<tr><td colspan="2">
+		<label for="email">Security Code</label>
+		</td></tr>
+		<tr><td colspan="2">
+		<span class="required">Enter the 4-digit number displayed in the box</span>
+		</td></tr>
+		<tr><td>		
+		<input name="SecKey5469" id="captchakey" value="" type="text" maxlength="4" size="10">
+		</td><td>
+		<img src="https://www.nurse.com/includes/captcha.cfm?passedKey=5469" id="captchaval">
+		</td></tr>
+		<tr><td colspan="2">
+		<input name="agreeterms" id="agreetoterms" type="hidden" value="1">
+		<br><br>
+		<input type="hidden" name="AccountInfoSubmit" value="1">
+		<input type="hidden" name="goTo" id="signupgotoval" value="https://web.archive.org/web/20101120131353id_/http://www.nurse.com/Privacy/">
+		<input type="image" class="button" src="http://www.nurse.com/images/ui/btn/btn_g_register-now.png" alt="Register Now"><br><br>
+		</td></tr>		
+
+		</tbody></table>
+		</form>
+		
+		<script type="text/javascript">
+		<!--
+		if(document.domain.indexOf('.dev.nurse.com') != -1 || document.domain == 'svnstage.nurse.com') {
+			document.getElementById('login-form').action = '/signup/';
+			document.getElementById('register-form').action = '/signup/';
+		}
+		else if(document.domain == 'cestage.nurse.com') { 
+			document.getElementById('login-form').action = 'http://svnstage.nurse.com/signup/';
+			document.getElementById('register-form').action = 'http://svnstage.nurse.com/signup/';
+		}			
+		var rand_no = Math.floor((9999-999)*Math.random()) + 1000;
+		document.getElementById('captchakey').name="SecKey" + rand_no;
+		document.getElementById('captchaval').src=document.location.protocol + "//www.nurse.com/includes/captcha.cfm?passedKey=" + rand_no;
+		document.getElementById('signinreferval').value=document.URL;
+		document.getElementById('signupgotoval').value=document.URL;
+		//-->
+		</script>
+	</div>
+	<div id="bottom"></div>
+</div>
+
+
 	<!--UNIFIED HEADER-->
 	<div id="wrapper">
 
@@ -647,35 +911,38 @@ function Welcome(){
   li { list-style:disc; margin-left:25px;}
 </style>
 <h1>Privacy Policy</h1>
-<p>Last Updated: March 4, 2009</p>
+<p>Last Updated: September 22, 2010</p>
+<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Policy.</p>
 <p>This Privacy Policy discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
 <p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our <a href="http://www.Nurse.com/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
 <h3>Your California Privacy Rights</h3>
 <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:</p>
 <p>Kim Jaske<br>
   Online Privacy Coordinator<br>
+  <a href="http://www.Nurse.com">
+  www.Nurse.com</a><br>
   Gannett Law Department<br>
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
 <h3>How We Collect and Use Information</h3>
-<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.  </p>
+<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies.  To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
-<p>We also may provide your information to our affiliates or to third parties, including our third party service providers, contractors and advertisers, for purposes related to Site administration and operation. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
-<p>We also reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services that may be of interest to you. In some cases we will use and/or share only non-personally identifiable information, but in other cases we may use and share personally identifiable information. If you do not wish your personally identifiable information to be used for these purposes, you must send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of personally identifiable information that may be used for these purposes or that may be given or sold to third parties.</p>
+<p>We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
+<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Policy.</p>
+<p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."</p>
 <p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
 <p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
-<p>We are an affiliate of the CareerBuilder online careers service. Through our cooperative relationship with CareerBuilder, we are able to provide you with access to the CareerBuilder products and services through a co-branded CareerBuilder site. When you provide information through the co-branded CareerBuilder site, we may use the information consistent with this Privacy Policy, and CareerBuilder may use the information consistent with its own privacy policy (available at www.careerbuilder.com).</p>
-<p>Likewise, we are an affiliate of the Topix online news service, which enables us to provide you with access to Topix products and services through a co-branded Topix site. When you provide information through the co-branded Topix site, we may use the information consistent with this Privacy Policy, and Topix may use the information consistent with its own privacy policy (available at www.topix.com).</p>
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.Nurse.com/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
 <h3>Data Collected in Connection with Ad Serving and Targeting</h3>
-<p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertsements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
-<p>We also may use third-party service providers to target and serve some of the advertisements you see on the pages of our Site, and these providers likewise may use their own cookies, web beacons and similar technologies to collect non-personally identifable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers? advertising networks, that are tailored to match the perceived interests of consumers.  This information also may be used to help measure and research an advertisement?s effectiveness, or for other purposes.</p>
+<p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
+<p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
-<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party?s privacy policy and is not covered by our privacy policy.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider?s information collection practices, please <a href="http://www.Nurse.com/adnetwork">click here</a>.</p>
+<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.Nurse.com/adnetwork">click here</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -687,13 +954,15 @@ function Welcome(){
   <li>Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online activities on providing personally identifiable information.</li>
 </ul>
 <h3>How To Make Changes to Your Information</h3>
-<p>If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site.  If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account.  If you have any questions about modifying your account or preference information, please visit the ?Customer Service? pages of our Site.</p>
+<p>If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site.  If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account.  If you have any questions about modifying your account or preference information, please visit the “Customer Service” pages of our Site.</p>
 <h3>Storage of Information</h3>
-<p>All information gathered on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site?s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
+<p>All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
 <h3>Questions Regarding Privacy</h3>
 <p>If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:</p>
 <p id="OnlinePrivacyCoordinator">Kim Jaske<br>
   Online Privacy Coordinator<br>
+  <a href="http://www.Nurse.com">
+  www.Nurse.com</a><br>
   Gannett Law Department<br>
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p> 
@@ -839,7 +1108,7 @@ s_account="gpaper153,gntbcstglobal";
 <!-- SiteCatalyst code version: H.20.3.
 Copyright 1997-2009 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="https://www.nurse.com/scripts/siteCatalystH-20-3.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://www.todayinpt.com/scripts/siteCatalystH-20-3.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -906,6 +1175,7 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+
 var pageTracker = _gat._getTracker("UA-2151224-1");
 pageTracker._trackPageview();
 
