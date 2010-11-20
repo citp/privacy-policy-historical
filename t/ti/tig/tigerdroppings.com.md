@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdroppings.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174223id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdroppings.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193137id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.*
 
 # General Info - TigerDroppings.com
 
@@ -11,7 +11,7 @@ TigerDroppings.com does work with third-party ad agencies that serve ads to this
 If you have any questions or concerns regarding our privacy policy, please contact us at [tigerdroppings@gmail.com](mailto:tigerdroppings@gmail.com).
 
 You can also find out more information about our third-party ad partners by clicking on the following links:  
-[BURST! Media's Privacy Policy](http://www.burstmedia.com/release/privacy.asp)
+[BURST! Media's Privacy Policy](http://www.burstmedia.com/privacy.asp)
 
 Best Regards,  
 TigerDroppings.com Management
