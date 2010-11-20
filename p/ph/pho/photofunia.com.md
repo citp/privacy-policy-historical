@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photofunia.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104113200id_/http%3A//www.photofunia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photofunia.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120225108id_/http%3A//www.photofunia.com/privacy) for the most accurate reproduction.*
 
-# PhotoFunia
+# Privacy policy - PhotoFunia
 
 We will never pass on your personal details (selling, renting or otherwise) to anyone else without your explicit consent. The following legal document will dictate how we will handle this information.
 
