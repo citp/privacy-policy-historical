@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101062105id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120201940id_/http%3A//chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Chatting Rooms, Free Online Dating Service, Free Chatting - Privacy Policy : www.chatbazaar.com
+# Free Dating, Free Chatting - Privacy Policy : www.chatbazaar.com
 
 ### Disclaimer and Terms of Use
 
@@ -69,5 +69,3 @@ From time to time we may make changes to our privacy policy If we make changes, 
 ### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy @ Chatbazaar.com
-
- 
