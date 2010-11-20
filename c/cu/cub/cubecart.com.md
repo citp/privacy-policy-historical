@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330144345id_/http%3A//www.cubecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184849id_/http%3A//www.cubecart.com/privacy-policy) for the most accurate reproduction.*
 
 # CubeCart - Privacy Policy
 
