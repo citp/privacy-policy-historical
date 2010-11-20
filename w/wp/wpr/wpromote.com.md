@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209030345id_/http%3A//www.wpromote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120034854id_/http%3A//www.wpromote.com/about/privacy) for the most accurate reproduction.*
 
 # About Wpromote - PPC Management & Adwords campaigns, SEO services - Wpromote.com
 
@@ -34,7 +34,7 @@ The Website makes a reasonable effort to protect your information by using Secur
 
 **Additional Information**
 
-This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to WPROMOTE’ Administrator by emailing such questions to [contact@wpromote.com](mailto:contact@wpromote.com) or by certified mail addressed to WPROMOTE, Inc., 909 N. Sepulveda Blvd., Suite 860, El Segundo, California, 90245, Attn: Privacy Policy Administrator.
+This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to WPROMOTE’ Administrator by emailing such questions to [contact@wpromote.com](mailto:contact@wpromote.com) or by certified mail addressed to WPROMOTE, Inc., 999 N. Sepulveda Blvd., Suite 400, El Segundo, California, 90245, Attn: Privacy Policy Administrator.
 
 **Updates to our Privacy Policy**
 
