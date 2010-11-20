@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the nationalreview.com privacy policy that was archived on 2010-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625143051id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalreview.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120112231id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<meta property="fb:app_id" content="129250807108374">
+
 
 
 <title>Privacy Policy - National Review Online</title>
@@ -10,10 +12,10 @@
 
 
 
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://.nationalreview.com/.xml">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://.nationalreview.com/.xml">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nationalreview.com/articles/feed">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nationalreview.com/articles/feed">
 
-
+<meta property="fb:app_id" content="129250807108374">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
@@ -33,7 +35,7 @@
 
 
 <!--[if lt IE 7]>
-<script defer type="text/javascript" src="http://www2.nationalreview.com/js/pngfix.js"></script>
+<script defer type="text/javascript" src="http://c0.nrostatic.com/js/pngfix.js"></script>
 <![endif]-->
 
 <link rel="stylesheet" href="http://beta.nationalreview.com/css/styles.css" type="text/css">
@@ -45,7 +47,7 @@
 
 
 
-<link rel="apple-touch-icon" href="http://www2.nationalreview.com/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="http://c0.nrostatic.com/images/apple-touch-icon.png">
 
 <!--#########   START ADD THIS CODE START#########-->
 <!-- START ADDTHIS code -->
@@ -63,28 +65,43 @@ var addthis_hover_delay = 1000;
 <!--#########   END ADD THIS CODE END#########-->
 
 
-<script src="http://www2.nationalreview.com/tabbedpanels/tabbedpanels.js" type="text/javascript"></script> 
+<script src="http://c0.nrostatic.com/tabbedpanels/tabbedpanels.js" type="text/javascript"></script> 
 
  <!-- TABBED SCRIPT FOR SCROLLING STARTS  -->
-<script language="JavaScript" type="text/javascript" src="http://www2.nationalreview.com/js/SpryEffects98.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://www2.nationalreview.com/js/SpryTabbedPanels98.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://www2.nationalreview.com/js/SpryTabbedPanelsExtensions98.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://c0.nrostatic.com/js/SpryEffects98.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://c0.nrostatic.com/js/SpryTabbedPanels98.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://c0.nrostatic.com/js/SpryTabbedPanelsExtensions98.js"></script>
  <!-- TABBED SCRIPT FOR SCROLLING ENDS  -->
 
-<!-- INLINE FORM LABEL SCRIPT STARTS -->
-  <script type="text/javascript" src="http://www2.nationalreview.com/js/jquery-1.3.2.min.js"></script>  
-<script type="text/javascript" src="http://www2.nationalreview.com/js/jquery.fieldtag.js"></script>
-<script type="text/javascript">
-  /* <![CDATA[ */
-  $(function(){
-    //snip
-    //Text tag demo
-    $("#ea").fieldtag();
 
+
+
+<!-- JQUERY FORM LABEL SCRIPT STARTS -->
+<script type="text/javascript" src="http://www2.nationalreview.com/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript"> 
+$(document).ready(function() {
+  $('input[title]').each(function() {
+    if($(this).val() === '') {
+      $(this).val($(this).attr('title'));  
+    }
+    
+    $(this).focus(function() {
+      if($(this).val() == $(this).attr('title')) {
+        $(this).val('').addClass('focused');  
+      }
+    });
+    $(this).blur(function() {
+      if($(this).val() === '') {
+        $(this).val($(this).attr('title')).removeClass('focused');  
+      }
+    });
   });
-  /* ]]> */
-  </script>
-<!-- INLINE FORM LABEL SCRIPT ENDS -->
+});
+</script>
+
+<!-- JQUERY FORM LABEL SCRIPT ENDS -->
+
+
 
 <!------ OAS SETUP begin ------>
 <script language="JavaScript">
@@ -114,7 +131,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
   OAS_version = 10;
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-</script><script language="JavaScript1.1" src="http://oasc03012.247realmedia.com/RealMedia/ads/adstream_mjx.ads/www.nationalreview.com/1862616229@Top,Middle,x01,x02,x60?"></script>
+</script><script language="JavaScript1.1" src="http://oasc03012.247realmedia.com/RealMedia/ads/adstream_mjx.ads/www.nationalreview.com/1004489226@Top,Middle,x01,x02,x60?"></script>
 
 <script language="JavaScript">
 <!--
@@ -129,65 +146,8 @@ if (OAS_version >= 11)
 </script>
 <!------ OAS SETUP end ------>
 
-
-
-
-
-
-<script type="text/javascript">
-/***********************************************
-* Random Video Script- ©
-* Author: Raymond Angana
-* rangana in AHFB2000.com
-* modified last May 2, 2008
-* This notice MUST stay intact for legal use
-***********************************************/
-var v1,v2,v3,v4,v5,v6,rangVideo;
-/********************************Edit this part for the videos*********************************/
-/* Ken Burns */
-
-v1='<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_8b9bf30b-5221-448f-9ffd-2e8c65108561"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F8b9bf30b-5221-448f-9ffd-2e8c65108561&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F8b9bf30b-5221-448f-9ffd-2e8c65108561&Operation=GetDisplayTemplate" id="Player_8b9bf30b-5221-448f-9ffd-2e8c65108561" quality="high" bgcolor="#ffffff" name="Player_8b9bf30b-5221-448f-9ffd-2e8c65108561" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F8b9bf30b-5221-448f-9ffd-2e8c65108561&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
-
-/* Conserv Books */
-
-v2='<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_88c408e7-f44e-42cd-9f2f-db01f0190942"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F88c408e7-f44e-42cd-9f2f-db01f0190942&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F88c408e7-f44e-42cd-9f2f-db01f0190942&Operation=GetDisplayTemplate" id="Player_88c408e7-f44e-42cd-9f2f-db01f0190942" quality="high" bgcolor="#ffffff" name="Player_88c408e7-f44e-42cd-9f2f-db01f0190942" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F88c408e7-f44e-42cd-9f2f-db01f0190942&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
-
-/* Historical Mini Series */
-
-v3='<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_2a09c8ca-db9e-494d-85d0-9c37622a3eeb"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F2a09c8ca-db9e-494d-85d0-9c37622a3eeb&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F2a09c8ca-db9e-494d-85d0-9c37622a3eeb&Operation=GetDisplayTemplate" id="Player_2a09c8ca-db9e-494d-85d0-9c37622a3eeb" quality="high" bgcolor="#ffffff" name="Player_2a09c8ca-db9e-494d-85d0-9c37622a3eeb" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F2a09c8ca-db9e-494d-85d0-9c37622a3eeb&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
-
-/* Criterion Colection */
-
-v4='<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_f1ac46f4-d108-4ff4-abc5-5bf32779ed5c"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2Ff1ac46f4-d108-4ff4-abc5-5bf32779ed5c&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2Ff1ac46f4-d108-4ff4-abc5-5bf32779ed5c&Operation=GetDisplayTemplate" id="Player_f1ac46f4-d108-4ff4-abc5-5bf32779ed5c" quality="high" bgcolor="#ffffff" name="Player_f1ac46f4-d108-4ff4-abc5-5bf32779ed5c" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2Ff1ac46f4-d108-4ff4-abc5-5bf32779ed5c&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
-
-/* Napoleonic Wars */
-
-v5='<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_21580de8-9609-4d0a-a8dd-66cd2fb77820"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F21580de8-9609-4d0a-a8dd-66cd2fb77820&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F21580de8-9609-4d0a-a8dd-66cd2fb77820&Operation=GetDisplayTemplate" id="Player_21580de8-9609-4d0a-a8dd-66cd2fb77820" quality="high" bgcolor="#ffffff" name="Player_21580de8-9609-4d0a-a8dd-66cd2fb77820" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2F21580de8-9609-4d0a-a8dd-66cd2fb77820&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
-
-/* WWII West Front */
-
-v6='<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_e3702f32-cdaa-41c2-ae41-4ee39920f1e0"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2Fe3702f32-cdaa-41c2-ae41-4ee39920f1e0&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2Fe3702f32-cdaa-41c2-ae41-4ee39920f1e0&Operation=GetDisplayTemplate" id="Player_e3702f32-cdaa-41c2-ae41-4ee39920f1e0" quality="high" bgcolor="#ffffff" name="Player_e3702f32-cdaa-41c2-ae41-4ee39920f1e0" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fnationalreviewon%2F8003%2Fe3702f32-cdaa-41c2-ae41-4ee39920f1e0&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
-
-/********************************************************************************************/
-rangVideo=[v1,v2,v3,v4,v5,v6]; // This depends on the number of videos you have.
-window.onload=function()  {
-    rangProc=Math.floor(Math.random()*rangVideo.length);
-    var display = document.getElementById('display');
-    if (display) {
-        display.innerHTML = rangVideo[rangProc];
-    }
-}
-</script>
-
-
-
-
-
-
-
-
 </head>
-<body onload="MM_preloadImages('http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4_f2.png','http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4_f4.png','http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4_f3.png');">
+<body>
 <!--######################################################-->
 <!-- THIS IS header.p--->
 <!--######################################################-->
@@ -228,65 +188,44 @@ window.onload=function()  {
     <td colspan="4">
     
     
- <!-- BANNER STARTS -->
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-image:url(http://www2.nationalreview.com/images/spacer_black_20percent.png);
-    background-repeat:repeat;">
-
-  <tbody><tr>
-   <td width="316"><img src="http://www2.nationalreview.com/images/spacer.gif" width="316" height="1" border="0" alt=""></td>
-   <td width="17"><img src="http://www2.nationalreview.com/images/spacer.gif" width="17" height="1" border="0" alt=""></td>
-   <td width="153"><img src="http://www2.nationalreview.com/images/spacer.gif" width="144" height="1" border="0" alt=""></td>
-   <td width="493"><img src="http://www2.nationalreview.com/images/spacer.gif" width="493" height="1" border="0" alt=""></td>
-   <td width="1"><img src="http://www2.nationalreview.com/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-  </tr>
- 
-  <tr>
-   <td colspan="2"><img name="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c1" src="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c1.png" width="333" height="7" border="0" id="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c1" alt=""></td>
-   <td rowspan="3"><img name="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c3" src="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c3.png" width="144" height="55" border="0" id="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c3" alt=""></td>
-   <td rowspan="2"><a href="http://www.nationalreview.com/subscribe/nr.p" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4','http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4_f2.png','http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4_f4.png',1);" onclick="MM_nbGroup('down','navbar1','http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4','http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4_f3.png',1);"><img name="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4" src="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4.png" width="493" height="31" border="0" id="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r1_c4" alt=""></a></td>
-   <td><img src="http://www2.nationalreview.com/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-  </tr>
-  <tr>
-   <td rowspan="2" style="background-image:url(http://www2.nationalreview.com/images/spacer_black_30percent.png);
-    background-repeat:repeat;">
-    
-    
-              <!-- BEGIN: Constant Contact Form -->
+  <!-- TOP SUBSCRIPTION BANNER STARTS -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-image:url(http://global.nationalreview.com/images/spacer_black_10percent.png);
+    background-repeat:repeat;"><tbody><tr><td><a href="http://www.nationalreview.com/subscribe/nr.p"><img src="http://global.nationalreview.com/images/sub_nav_070610_A.png" width="606" height="35" border="0"></a></td>
+    <td rowspan="2">
+  
+  
+               <!-- BEGIN: Constant Contact Form -->
               
     
         
               
-<div align="left">
-<div style="width:300px; margin-left:15px;">
+<div style="position: absolute; left: 50%; margin-left:170px; top: 15px;" align="left">
+<div style="width:400px; margin-left:15px;">
 <form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_self" method="post" style="margin-bottom:4;">
 <p style="margin-top: 5px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px;" align="left" class="issuetools_alt-1"><a href="http://www.nationalreview.com/newsletters/" class="issuetools_alt-1" style="text-decoration:none;"><strong>►&nbsp;SIGN UP FOR <span style="color:#FFCC66;"><em>FREE</em></span> NRO NEWSLETTERS</strong></a></p>
-  <input type="text" name="ea" id="ea" title="&nbsp;&nbsp;Your E-Mail" size="40" value="" style="font-family:Arial,Helvetica,Verdana,Geneva,sans-serif; font-size:10px; border:1px solid #999999; color:#666666; ">&nbsp;
+  <input type="text" name="ea" id="emailAddress" title="&nbsp;&nbsp;Your E-Mail Address" value="" style="width: 185px; font-family:Arial,Helvetica,Verdana,Geneva,sans-serif; font-size:10px; border:1px solid #999999; color:#666666; ">&nbsp;
 <input type="submit" name="go" value="Go" class="submit" style="font-family:Arial,Helvetica,Verdana,Geneva,sans-serif; font-size:10px; cursor;">
 <input type="hidden" name="m" value="1102619970892">
 <input type="hidden" name="p" value="oi">
 </form>
 </div>
 </div>
-<!-- END: Constant Contact Form -->
+<!-- END: Constant Contact Form -->  </td>
+  </tr>
+    <tr>
+      <td>
+     <!-- ISSUE LINKS START -->
+        <p style="margin-top: 10px; margin-left: 20px; margin-right: 25px; margin-bottom: 10px; line-height: 10px;" align="left" class="issuetools"> <a href="http://nrd.nationalreview.com/" class="issuetools">AUGUST 30, 2010, ISSUE</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://global.nationalreview.com/cover/cover_083010.html" target="coverlarge" onclick="window.open('http://global.nationalreview.com/cover/cover_083010.html','coverlarge','height=635,width=469,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no');return false;" class="issuetools">VIEW COVER</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://store.nationalreview.com/?i=MjdhYzJkZTg5OGU2YmRlYTc2NDcyOWEwY2IyZjFlN2E=" class="issuetools">BUY LATEST ISSUE</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.nationalreview.com/subscribe/nr.p" class="issuetools">SUBSCRIBE</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="https://www.nationalreview.com/subscribe/gift.p" class="issuetools">GIVE A GIFT</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="https://www.kable.com/pub/ntrv/renew.asp?theStyle=COABETA" class="issuetools">RENEW</a> </p>
+        <!-- ISSUE LINKS END --> 
     
     </td>
-   <td rowspan="2"><img name="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r2_c2" src="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r2_c2.png" width="17" height="48" border="0" id="http://www2.nationalreview.com/images/ad_header_sub_050510_B_r2_c2" alt=""></td>
-   <td><img src="http://www2.nationalreview.com/images/spacer.gif" width="1" height="24" border="0" alt=""></td>
-  </tr>
-  <tr>
-   <td>
-   
-    <!-- ISSUE LINKS START -->
-        <p style="margin-top: 0px; margin-left: 0px; margin-right: 25px; margin-bottom: 0px; line-height: 10px;" align="right" class="issuetools"> <a href="http://nrd.nationalreview.com/" class="issuetools">JULY 5, 2010, ISSUE</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www2.nationalreview.com/cover/cover_070510.html" target="coverlarge" onclick="window.open('http://www2.nationalreview.com/cover/cover_070510.html','coverlarge','height=635,width=469,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no');return false;" class="issuetools">VIEW COVER</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://store.nationalreview.com/?i=MjdhYzJkZTg5OGU2YmRlYTc2NDcyOWEwY2IyZjFlN2E=" class="issuetools">BUY LATEST ISSUE</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.nationalreview.com/subscribe/nr.p" class="issuetools">SUBSCRIBE</a> </p>
-        <!-- ISSUE LINKS END --> 
-   
-   </td>
-   <td><img src="http://www2.nationalreview.com/images/spacer.gif" width="1" height="24" border="0" alt=""></td>
-  </tr>
-</tbody></table>
+    </tr>
+  </tbody></table>
 
-    <!-- BANNER ENDS -->   
  
+    <!-- TOP SUBSCRIPTION BANNER ENDS -->   
+    
+     
     
     </td>
     </tr>
@@ -295,11 +234,11 @@ window.onload=function()  {
 
 
 <tr><td bgcolor="#5072ED"><!-- Logo / In-house Sub -->
-<a href="http://www.nationalreview.com/"><img src="http://www2.nationalreview.com/images/logo_square.jpg" border="0" style="padding: 0px; border: 0px; margin: 0px;"></a><br>
+<a href="http://www.nationalreview.com/"><img src="http://c0.nrostatic.com/images/logo_weekend.jpg" border="0" style="padding: 0px; border: 0px; margin: 0px;"></a><br>
 </td>
 
 <td bgcolor="#5072ED">
-<img src="http://www2.nationalreview.com/ads/images/ad_header_top.gif"><br>
+<img src="http://c0.nrostatic.com/ads/images/ad_header_top.gif"><br>
 </td><td bgcolor="#5072ED">
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#5072ED" style="padding-top: 4px; padding-bottom: 4px;"><tbody><tr><td align="right">
@@ -469,12 +408,32 @@ By using this web site, you signify your assent to this  policy statement regard
 
 
 <!-- delivered by :
-nr-www-02
 -->
 <!--##################-->
 <!--PAGE FOOTER END-->
 <!--##################-->
 
+<!-- Start Quantcast tag -->
+
+<script type="text/javascript">
+
+_qoptions={
+
+qacct:"p-cdKqrewDOys1A"
+
+};
+
+</script>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+
+<noscript>
+
+<img src="http://pixel.quantserve.com/pixel/p-cdKqrewDOys1A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+
+</noscript>
+
+<!-- End Quantcast tag -->
 
 
 
