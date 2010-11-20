@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centerstatebank.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404025542id_/http%3A//centerstatebank.com/node/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerstatebank.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120155713id_/http%3A//centerstatebank.com/node/45) for the most accurate reproduction.*
 
 # Privacy Policy | CenterState Bank
 
-**[Account Disclosures](https://web.archive.org/sites/centerstatebank.com/files/documents/AccountDisclosures.pdf)**
+**[Account Disclosures](https://web.archive.org/node/84 "CenterState Banks Account Disclosures")**
 
 **Privacy Mission Statement**
 
