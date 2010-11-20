@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zona-musical.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609044338id_/http%3A//www.zona-musical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zona-musical.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120010855id_/http%3A//zona-musical.com/privacy.html) for the most accurate reproduction.*
 
 # Zona-Musical Privacy Policy
 
