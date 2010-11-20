@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twostrokemotocross.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522051027id_/http%3A//twostrokemotocross.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twostrokemotocross.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121002850id_/http%3A//twostrokemotocross.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Two Stroke Motocross
 
