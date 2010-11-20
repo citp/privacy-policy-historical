@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realdealcommunity.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517040242id_/http%3A//www.realdealcommunity.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdealcommunity.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190617id_/http%3A//www.realdealcommunity.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy - Real Deal REInvestor Network
 
-[ ](http://www.realdealcommunity.com/ "Real Deal REInvestor Network header")
+[ ](http://www.realdealcommunity.com/ "Real Deal REInvestor Network Home")
 
 ### Privacy Policy
 
@@ -60,7 +60,7 @@ We may also disclose your personal data where we are required to do so by applic
 
 #### Technology Licensor disclosures
 
-We may also disclose your personal data to the business (SocialGO Limited) that provides us with technology infrastructure and hosting services for the Service (the " **Technology Licensor** "). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy (available at [socialgo.com/legal/privacy](http://www.socialgo.com/legal/privacy "SocialGO Privacy Policy")). 
+We may also disclose your personal data to the business that provides us with technology infrastructure and hosting services for the Service (the " **Technology Licensor** "). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy. 
 
 #### International transfers
 
