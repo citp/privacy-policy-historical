@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609033234id_/http%3A//www.cms.gov/AboutWebsite/02_Privacy%2520Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094304id_/http%3A//www.cms.gov/AboutWebsite/02_Privacy%2520Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Web Policies & Important Links
 
