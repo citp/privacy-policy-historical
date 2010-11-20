@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askmrcreditcard.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110045017id_/http%3A//www.askmrcreditcard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmrcreditcard.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120231947id_/http%3A//www.askmrcreditcard.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of AskMrCreditCard.com
 
