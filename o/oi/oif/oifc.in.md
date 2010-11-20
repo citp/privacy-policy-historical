@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the oifc.in privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429174252id_/http%3A//www.oifc.in/Article/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oifc.in privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120172301id_/http%3A//www.oifc.in/Article/Privacy-Policy) for the most accurate reproduction.*
 
 # OIFC : Privacy Policy
 
-|   
----  
----  
 |  |   
 ---|---  
-|  |  |   
----|---|---  
-|  | Privacy Policy  
+|  |  | Privacy Policy  
 ---  
 | OIFC is committed to maintaining the trust and confidence of visitors to our web site. We will not sell, rent or trade your personal information under any circumstances.  
 ---  
@@ -32,5 +27,4 @@
   * We may need to pass on user feedback to our knowledge partners. When doing so we may need to pass on user email IDs. Our knowledge partners will also be bound by the OIFC privacy policy. 
 
   
-If you have any questions or comments about this policy, our services, or your experience with our site you can contact us by email at [privacy@oifc.in](mailto:privacy@oifc.in) (suggestive)  
----
+If you have any questions or comments about this policy, our services, or your experience with our site you can contact us by email at [info@oifc.in](mailto:info@oifc.in)
