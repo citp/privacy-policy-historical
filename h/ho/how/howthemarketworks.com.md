@@ -1,57 +1,45 @@
-> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108020520id_/http%3A//www.howthemarketworks.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094037id_/http%3A//www.howthemarketworks.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # HowTheMarketWorks.com - Privacy Policy
 
-Effective September 25, 2008
+_Last revised March 11, 2010_
 
-**Our Commitment To Privacy**
+This How The Market Works site is owned and operated by Stock-Trak. Stock-Trak recognizes and respects the privacy expectations of participants in its contests. This Privacy Statement explains how we collect, use and protect your personally identifying information ("Personal Information") and under what circumstances it may be disclosed. This Privacy Statement is incorporated into our [Agreement](http://www.howthemarketworks.com/company/terms.php) . All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time, consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our site, unless you object ("opt-out") as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes. 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+This Privacy Statement is incorporated into our Agreement. All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our Site, unless you object ("opt-out") as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes. 
 
-**The Information We Collect:**
+#### The Information We Collect and How We Collect It
 
-This notice applies to all information collected or submitted on the HowTheMarketWorks.com website. On some pages, you can register to gain access to special features. The types of personal information collected at these pages are: 
+Stock-Trak collects Personal Information from registered participants. As a condition of registration, participants provide their name, address, email address and date of birth. Stock-Trak may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below. 
 
-Virtual Trading registration:  
-  First Name  
-  Email address (not shown publicly)  
-  * See the Co-Registration note below 
+Stock-Trak is the sole owner of the information collected through our site. We sell, share or rent this information to others only in ways that are disclosed in this privacy statement or with your express consent. 
 
-Message Boards profile:  
-  Email address (not shown publicly)  
-  Instant messenger numbers (optional)  
-  Occupation (optional)  
-  Location** (optional)  
-  About Me (optional)  
-  Trading Experience & Style (optional)
+#### Purpose of the Information
 
-On some pages, you can submit information about other people. For example, you may want to refer this site to a friend, in which case you will need to submit the recipient's email address.
+Stock-Trak collects Personal Information from our participants to facilitate our contests' plays, including determining participants' eligibility. Personal Information allows us to keep track of our individual participants' performance, advise winners of their prizes and how those prizes may be collected and publicize results. The information further allows us to contact participants to announce contest updates, new contests or any other information about Stock-Trak that may be of interest to a contestant. 
 
-* Co-Registration: After registering for Virtual Trading you may be presented with several "co-registration special offers", which may require additional personal information, collected by the advertiser and advertising network. We do not collect or store that information.   
-** Location: Your state and country are automatically determined from your computer's IP address and shown on your Message Boards profile. To turn this off, simply edit your profile and delete that entry. 
+#### To Whom We Disclose the Information
 
-**The Way We Use Information:**
+Stock-Trak will only sell or disclose your Personal Information to third parties in select circumstances as detailed in the following paragraph of this Privacy Statement. 
 
-We use the information you provide about yourself when registering only to provide you access to special features or for us to contact you. For instance, when you log in to your Virtual Trading account, your Name will appear on the Account Summary page. We do not share this information with outside parties. 
+First, as noted in the Agreement, we may publicize the names, likenesses and other information concerning winners of the contests as we deem appropriate. 
 
-We use your Email Address to 1) give you a unique login name for Virtual Trading or the Message Boards, 2) to answer the email we receive from you, 3) to contact you if there is a problem with your account, or 4) to send educational newsletters. Such addresses are not used for any other purpose and are not shared with outside parties.
+Second, we may disclose your Personal Information to contractors or service providers who may provide services or perform functions on our behalf, such as an information technology service provider. Those contractors and service providers are permitted to use your Personal Information only for the purpose for which it has been provided and may not disclose it to any other third party except at our express direction and consistently with this Privacy Statement. 
 
-The Virtual Trading registration includes an option to receive free monthly educational newsletters via email. This is the default option but you may opt-out of these emails at any time by clicking on the link in any such emails. Again, such addresses are not shared with outside parties.
+Third, we may also disclose your Personal Information to our advertisers but only in an aggregated form that identifies participants' demographics. When we present the information in an aggregated form, those advertisers will be not be able to identify or contact you. However, if you click on an advertisement that appears on our site, you will be taken to a third-party website, whose privacy practices will govern any information so disclosed. 
 
-We use the information you provide about someone else only to send them the email you requested with the "Send to a Friend" feature. We do not share this information with outside parties. 
+Finally, we may share your Personal Information, as permitted by law, to both our affiliates and other non-affiliated third parties that offer products or services that we or they believe may be of interest to you. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+#### Other Information Collected Through The Site
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Stock-Trak also collects other information through its site for personalization purposes and make it more interesting to you. Our site uses cookies, which are pieces of information that a website sends to your computer while you are viewing our site. While a cookie assigns a random, unique number to your computer, it does not contain information that would personally identify you even though we can associate the cookie with any personally identifying information that you provide us while visiting our site. This cookie is exclusive to Stock-Trak and we do not provide access to the cookie to any third party. While most browsers allow you to refuse cookies, this act will limit system performance and may even cause certain site features to malfunction or not to work. For more information, please consult your browser's "help" button. 
 
-**Our Commitment To Data Security**
+Our site also uses "web beacons. " Web beacons are small pieces of data that are embedded in images on website pages. Web beacons allow us to analyze our site's traffic patterns, such as the frequency with which our users visit various parts of the site. The beacons' use may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. Web beacons may also be in HTML emails we send our participants and used to determine whether the participants have opened those emails or clicked on their links. Web beacons' information may be collected in a form that is personally identifiable. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+#### Opting Out of Changes To This Privacy Statement
 
-**How You Can Access Or Correct Your Information**
+From time to time, we may amend this Privacy Statement. Should any amendments create additional ways in which we may collect or disclose your Personal Information, you may opt out of those amendments by e-mailing us within 30 days of the posting of the revised Privacy Statement on the site. We will always identify the date this Privacy Statement was last revised at the top of the statement. It is your responsibility to monitor the statement periodically to determine whether there have been changes. Opting out of an amendment to this Privacy Statement may subject you to termination of your registration and participation in any ongoing or future contests at our sole election and upon notice to you. 
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+#### Corrections
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-**How To Contact Us**
+To correct Personal Information you have submitted or if you have any questions about this Privacy Statement, contact: [Customer Service](mailto:support@howthemarketworks.com).
