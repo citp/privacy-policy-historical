@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filetransit.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619002035id_/http%3A//www.filetransit.com/index.php%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filetransit.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111748id_/http%3A//www.filetransit.com/index.php%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
 
 # FileTransit - Privacy Policy
 
