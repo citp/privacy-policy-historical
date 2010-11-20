@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529144425id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120014512id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
 
 # TripMama Privacy Policy
 
