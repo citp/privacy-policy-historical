@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629130919id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112938id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
@@ -12,7 +12,7 @@ By visiting Crutchfield.com you agree to accept the practices described in this 
 
 ## Changes to this Privacy Notice, Conditions of Use and Notices:
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on July 21, 2009. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20100629130919id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on July 21, 2009. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20101120112938id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
 
 ## Personal Information Collected By Crutchfield:
 
