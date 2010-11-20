@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlineslangdictionary.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625143129id_/http%3A//onlineslangdictionary.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineslangdictionary.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193137id_/http%3A//onlineslangdictionary.com/pages/privacy) for the most accurate reproduction.*
 
-# The Online Slang Dictionary | Privacy Policy
+# Privacy Policy | The Online Slang Dictionary
 
 We will never share any personally identifiable information (such as your e-mail address or location) with anyone, unless required to do so by law. See below for more information.
 
