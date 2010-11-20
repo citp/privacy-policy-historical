@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridelust.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528224004id_/http%3A//sea-waves.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridelust.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120015737id_/http%3A//sea-waves.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
