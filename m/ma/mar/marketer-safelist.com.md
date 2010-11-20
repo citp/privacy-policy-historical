@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketer-safelist.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427235838id_/http%3A//marketer-safelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketer-safelist.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120101324id_/http%3A//marketer-safelist.com/privacy.php) for the most accurate reproduction.*
 
-# Marketer Safelist | FREE ONLINE ADVERTISING | GET MORE OFTEN BIG BANG TRAFFIC TO YOUR ONLINE BUSINESS!
+# Privacy And Policy
 
 **Privacy Policy**
 
