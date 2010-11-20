@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109113012id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094805id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # miaplaza - Privacy Policy
 
