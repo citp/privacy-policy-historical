@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballerwives.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602100506id_/http%3A//www.ballerwives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerwives.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120093024id_/http%3A//ballerwives.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BallerWives.com
 
