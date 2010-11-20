@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604063426id_/http%3A//bongous.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120132443id_/http%3A//www.bongous.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mail Forwarding of American Products for International Delivery
 
