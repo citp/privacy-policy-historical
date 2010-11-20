@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepunch.com.au privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607223103id_/http%3A//www.thepunch.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepunch.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120043740id_/http%3A//www.thepunch.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | The Punch
 
