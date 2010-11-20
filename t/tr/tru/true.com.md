@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426161950id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120105237id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
 
 # True | Privacy & Use Policy
 
@@ -73,7 +73,7 @@ An SSL certificate is issued to ensure authentic and accurate identification of 
 TRUE reviews its security policies regarding TRUE.com on a regular basis, and changes are made as necessary.  Only a select group of authorized individuals within TRUE have access to your Personal Information. 
 
 **Availability Policy**  
-TRUE recognizes how important it is for you to have access to your Personal Information at any time.  We have implemented a policy specific to Personal Information availability.  Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services.  In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected.  Should you believe that we are not following our availability policy, please contact Customer Care by [ email](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy) or toll free at 1.866.583.TRUE (8783) or 1.972.374.9191. 
+TRUE recognizes how important it is for you to have access to your Personal Information at any time.  We have implemented a policy specific to Personal Information availability.  Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services.  In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected.  Should you believe that we are not following our availability policy, please contact Customer Care by [ email](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy) or toll free at 1.866.583.TRUE (8783) or 1.214.775.0866. 
 
 **Managing Your Information**  
 TRUE also understands that your circumstances and preferences change.  That is why we have simplified the process of amending, updating or deleting your Personal Information. 
@@ -90,16 +90,16 @@ Your TRUE.com account information is password protected so that only you have ac
 We strongly recommend that you do not divulge your password to anyone.  TRUE will never ask you for your password in an unsolicited phone call or email.  Also, remember to log out of your TRUE.com account and close your browser window when you have finished your session.  This will help to ensure that others cannot access your Personal Information and correspondence if you share a computer with someone else or are using a computer in a public place. 
 
 **Opt-Out**  
-If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20100426161950id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
+If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20101120105237id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
 
 **Contacting TRUE**  
 You may reach us at: 
 
 TRUE.com  
-300 Decker, Suite 200  
-Irving, TX 75062  
+909 Lake Carolyn Pkwy.  Suite 600  
+Irving, TX 75039  
 Email: [ customercare@TRUE.com](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy)  
-1.866.583.TRUE (8783) or 1.972.374.9191
+1.866.583.TRUE (8783) or 1.214.775.0866
 
   
-Last updated on August, 2009. 
+Last updated on July 1, 2010. 
