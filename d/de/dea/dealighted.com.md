@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829005446id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112427id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
 
-# People Powered Deals Search - Dealighted Discount Shopping
+# Deals and Coupons Search - Dealighted People Powered Shopping
 
 All Enthusiast, Inc.'s dealighted.com respects the privacy and security of its users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users. 
 
