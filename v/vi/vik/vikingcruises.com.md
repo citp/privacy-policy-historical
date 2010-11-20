@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikingcruises.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529052109id_/http%3A//www.vikingrivercruises.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingcruises.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184640id_/http%3A//www.vikingrivercruises.com/privacy.aspx) for the most accurate reproduction.*
 
 # Viking River Cruises - Privacy Policy
 
