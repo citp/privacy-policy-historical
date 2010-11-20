@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404081637id_/http%3A//www.krystal.co.uk/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120043124id_/http%3A//www.krystal.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.krystal.co.uk
 
