@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608010059id_/http%3A//www.tumbleweedhouses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112740id_/http%3A//www.tumbleweedhouses.com/privacy-policy) for the most accurate reproduction.*
 
-# Tumbleweed Privacy Policy
+# Privacy Policy
 
 **Why did you receive a mailing from us?**
 
