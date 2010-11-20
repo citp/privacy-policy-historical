@@ -1,33 +1,9 @@
-> *The following text is extracted and transformed from the blogtopsites.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614200901id_/http%3A//www.blogflux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtopsites.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120072937id_/http%3A//www.blogtopsites.com/privacy.php) for the most accurate reproduction.*
 
-# Blog Flux Privacy Policy - Blog Flux
+# Privacy Policy - Blog Top Sites
 
-## Privacy Statement for Blog Flux and its associated services
+When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include your name, your age, your country and your interests. You may also choose to add personal information that will be visible to other Users on your profile page. This may include a profile picture, you name, gender, or other details.
 
-**Blog Flux** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Blog Flux](http://www.blogflux.com/)
+BlogTopSites gathers certain information about you and your blog[s] in order to provide services such as listing your blog[s] in the directory and returning your blog[s] and posts in search returns on BlogTopSites.com. We may also use your information to send you updates and information [via email or via your profile at BlogTopSites.com] about BlogTopSites.com that will or may affect your membership to the site. We will never rent or sell your information to any other party, under any circumstances. BlogTopSites.com requires the use of cookies to interact with the site. If you prefer not to accept our use of cookies we regret that not all site features will function for you. We also do use third-party advertising companies to serve ads when you visit our website. These companies may use information [NOT including your name or email address] about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on BlogTopSites.com.
 
-#### Information Automatically Logged
-
-We use your IP address to help diagnose problems with our server and to administer our Web site. For the majority of the site, the IP is simply stored for security purposes, such as a DOS attack. Your IP is not used for any other purposes. Using our [MapStats service](http://mapstats.blogflux.com/), your IP is used to obtain a location point. This IP is not shared with anyone else nor is it used for any other purpose. 
-
-#### Advertisers
-
-We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. Cookies are used on Blog Flux only for login purposes. 
-
-#### Personal Information
-
-This Web site does not request any personal information other than your email. Your email is only used for contacting you about Blog Flux updates. Registered users on the site may also contact you through the website. If you so desire, you can cease any of these contacts through your [control panel](http://www.blogflux.com/usercp.php). Your email will also not be distributed to anyone for any purpose. If you are a subscriber to our Subscription Service, you have the option of not allowing the blog owner to see your email. 
-
-Blog Flux maintains a strict "no-spam" policy. Your e-mail address will not be sold to a third party. At no time is personal information collected without explicit consent. 
-
-#### External Links
-
-This site contains links to other sites. **Blog Flux** is not responsible for the privacy practices or the content of such Web sites. 
-
-#### Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following page: [contact us](http://www.blogflux.com/contact.php).
+[For more information please contact our staff.](https://web.archive.org/contact.php)
