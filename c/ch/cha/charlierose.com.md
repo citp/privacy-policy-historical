@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlierose.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526071359id_/http%3A//www.charlierose.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlierose.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184848id_/http%3A//www.charlierose.com/about/privacy) for the most accurate reproduction.*
 
 # Charlie Rose - Privacy Policy
 
