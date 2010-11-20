@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525105347id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192153id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -150,23 +150,21 @@ Top
 
 If you need further assistance or would like to make a comment, please e-mail privacy@eu.sony.com or contact us at the following address: 
 
-Sony Europe (Belgium) N.V.
+Sony Europe Limited,  
+The Heights,  
+Brooklands,  
+Weybridge,  
+Surrey, KT13 0XW  
+UK
 
-acting through its Belgian branch office at
+Registered company number: 2422874  
+VAT number: GB 636 1100 80
 
-Customer Privacy
-
-Da Vincilaan 7-D1
-
-B-1935 Zaventem
-
-Belgium
-
-Last Updated: 2010
+Last Updated: October 2010
 
 Top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2010 Sony Europe (Belgium) N.V. All Rights Reserved.  
-Letzter Update: 2010  
+© 2010 Sony Europe Limited All Rights Reserved.  
+Letzter Update: October 2010  
 
