@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewatchery.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522181756id_/http%3A//www.thewatchery.com/about.asp%3Ftopic%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewatchery.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120140901id_/http%3A//www.thewatchery.com/About.asp%3Ftopic%3D11) for the most accurate reproduction.*
 
 # Luxury Watches - About The Watchery - Privacy Policy
 
@@ -8,27 +8,15 @@ TheWatchery.com Help Center
 
 ## Customer Testimonials
 
-I just wanted The Watchery and other potential customers to know what a wonderful experience I had with their company. I am a first time purchaser from The Watchery and placed my order online on Sunday. Unlike other companies, they have a great verification system where they will telephone you with an automated pin number which you simply type to confirm. I have ordered from other online watch companies and they take forever to verify your order (this is usually when your order is for a large amount.) I searched online for The Watchery coupons and found one for 10% of all Gucci watches. Then, my order was shipped on Monday morning next day UPS air for no extra charge!!! (Not everyone may qualify for this, but my order was for a pricey Gucci!) Anyway, nice gesture. I received it on Tuesday morning by 9:30 am. The watch was surely authentic (not my first Gucci), very well-packaged, and wrapped in a The Watchery tote bag. Very cute. To top it all off, I live in Texas and they set the time for my time zone (they ship from a different time zone.) These are small, but very much appreciated, gestures that will make me order time and time again (when I have the money!) Folks, you can't go wrong with this company. I am very impressed and I think you will be too!
+I am so excited to have purchased a watch from this website, it has saved me so much money! i purchased the almost same identical watch two years ago at a jewelry store and I am disappointed i had to pay full price not knowing i could have came on this site. But I have a new boyfriend now and I am just so happy I can buy him this particular watch I have been wanting to get at a such a great price for his birthday and our anniversary in one! I cannot wait to see his reaction when he see's the watch! thank you!
 
-Sincerely,
-
-Laura Rupp
-
-_Laura Rupp, Texas, 05/11/2010_
+_Pamela Garrity, Williamsburg, VA, 07/08/2010_
 
 * * *
 
-Sam
+Triple Excellent! Friendly, Helpful and Effective from Pre-Sale to Aftersale! I have suggested Watchery to all my friends.
 
-Just wanted to thank you for your recommendation and assitance for another graduation watch for my daughter. I asked her what she wanted. She asked what was possible. I said anything but me paying off her loans OR a watch. She said "but daddy I really need a nice watch"
-
-She came down last week and we talked again about graduation -- she said she really could use a watch. I said no way, ain't gonna happen -- besides her WAtch was fine. I said let me see it. She gave hers to me, I turned my back, put it in my pocket and handed the new one back. Once she realized it wasn't hers, she was floored.
-
-Thanks for making her day!
-
-Jeff
-
-_Jeff, San Juan Capistrano, CA, 05/07/2010_
+_Manika Saowapruk, 07/05/2010_
 
   [Read More Testimonials](https://web.archive.org/testimonials.asp) [Add Your Testimonials](https://web.archive.org/testimonials.asp?add=1)
 
