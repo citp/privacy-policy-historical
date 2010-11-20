@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caffmoscommunity.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513030731id_/http%3A//www.caffmoscommunity.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caffmoscommunity.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120083136id_/http%3A//www.caffmoscommunity.com/privacy.asp) for the most accurate reproduction.*
 
 # The Caffmos Community Privacy page.
 
