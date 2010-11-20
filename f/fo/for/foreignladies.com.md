@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreignladies.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123055610id_/http%3A//www.foreignladies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignladies.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111932id_/http%3A//www.foreignladies.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
