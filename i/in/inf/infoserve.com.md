@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520020139id_/http%3A//search.infoserve.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193119id_/http%3A//www.infoservegroup.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Infoserve - Privacy Policy
+# Privacy Policy | Infoserve Group PLC
+
+### Privacy Policy
 
 Infoserve Ltd has created this privacy statement in order to demonstrate our firm belief and commitment to privacy.
 
 The following statement details what information we obtain from you, how we use it and how we fulfil our obligations to protect your privacy. Please take the time to consider it carefully, as by using the Infoserve Ltd services you will be agreeing that you are happy for Infoserve Ltd to gather and use your information in the ways stated.
 
-### Ordering an Infoserve Ltd Website Package
+#### Telephone calls with Infoserve Ltd
+
+Please note that calls with Infoserve may be monitored or recorded.
+
+#### Ordering an Infoserve Ltd Website Package
 
 When you order an Infoserve Ltd Website Package there is certain information we need to obtain to enable us to process and fulfil your order, or contact you in case of a query. Details we may collect include:
 
   * forename and surname;
   * company name and address
-  * position;
+  * position
   * telephone number;
   * e-mail address.
 
@@ -21,7 +27,7 @@ When you order an Infoserve Ltd Website Package there is certain information we 
 However, other relevant information may be collected if we deem it necessary.  
 Infoserve Ltd will never offer a third party access to this information for any purpose, and will only store information necessary to operate effectively in our main secure database.
 
-### Personal Information
+#### Personal Information
 
 In terms of the personal information you submit when placing your order with Infoserve Ltd, this is held with the utmost commitment to your privacy.
 
@@ -33,13 +39,13 @@ If you use a web based payment page to pay for your Website, the credit/debit ca
 
 We believe that your privacy is important and have security in place to protect it. However if this security is breeched we cannot guarantee the security of your information.
 
-### Public Information
+#### Public Information
 
 Information submitted for display on your website is information for the public domain and therefore cannot be classed as private. If we request any information which could be classed as private, Infoserve Ltd will make you aware of this at the time of submission.
 
 By submitting your information to Infoserve Ltd, you give Infoserve Ltd unconditional permission to use this information regardless of any moral rights, copyright, service mark, trademark or patent laws. Further you allow Infoserve Ltd to publish, modify, edit, translate, distribute and otherwise reproduce the information in whatever format we choose.
 
-### Your consent
+#### Your consent
 
 By using any of Infoserve Ltd services, you agree that you are happy for your information to be gathered and used in the ways described in this policy.  
 However, if you change your mind about the way you have agreed your data can be used, just contact us via the website to stop specific or all uses of your data.
