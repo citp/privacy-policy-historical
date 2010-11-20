@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111055507id_/http%3A//www.simdynasty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112443id_/http%3A//www.simdynasty.com/privacy.jsp) for the most accurate reproduction.*
 
 # Sim Dynasty - Privacy Policy
 
@@ -166,7 +166,7 @@ No Refunds.
 Due to the nature of our business, we cannot give refunds for teams purchased in our pay leagues. If you are removed from a league for violating our site policies, you will not be given a refund. The reason for this policy is that if we didn't have it and you want out of a league for some reason, all you have to do is find a policy to violate and you'd get a refund for being a jerk. 
 
 Inactivity.  
-Being an absentee owner effects the enjoyment of the other 15 owenrs in your league. For this reason, you may be removed without refund if you are inactive for more than 2 weeks in your league.
+Being an absentee owner effects the enjoyment of the other 15 owners in your league. For this reason, you may be removed without refund if you are inactive for more than 2 weeks in your league.
 
 Message Board and Chat Privileges.  
 We have rules about conduct, particularly in our message boards and chat room. If you violate these rules, you may have your message board or chat privileges turned off yet remain in a league. These parts of the site are not considered central to the user experience and users will not be entitled to a refund if they have chat or message board privileges turned off.
