@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-recipes.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617150717id_/http%3A//blogs.tech-recipes.com/qdideas/tech-recipes-privacy-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-recipes.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111707id_/http%3A//blogs.tech-recipes.com/qdideas/tech-recipes-privacy-information) for the most accurate reproduction.*
 
 # Privacy Information -- Everyday Ideas, QD Ideas
 
