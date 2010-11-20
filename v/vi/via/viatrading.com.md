@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619234121id_/http%3A//www.viatrading.com/category.jhtm%3Fcid%3D333) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111853id_/http%3A//www.viatrading.com/category.jhtm%3Fcid%3D333) for the most accurate reproduction.*
 
-# Via Trading Liquidators and Wholesale Distributors of Closeouts Overstocks and Customer Returns by the Case Pallet or Truckload
+# 
 
 **Privacy Policy Statement**  
 This is the web site of Via Trading Corporation.
