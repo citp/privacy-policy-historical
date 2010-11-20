@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630104133id_/http%3A//www.wetv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094325id_/http%3A//www.wetv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WEtv.com
 
@@ -84,4 +84,4 @@ Please be careful and responsible whenever you are on line.  Should you choose 
 
 This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.   
 
-Copyright © 2009 WE: Women's Entertainment LLC   
+Copyright © 2010 WE: Women's Entertainment LLC   
