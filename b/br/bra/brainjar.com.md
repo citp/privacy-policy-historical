@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainjar.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525030655id_/http%3A//www.brainjar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainjar.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120201844id_/http%3A//www.brainjar.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainJar.com: Experiments in Web Programming
 
