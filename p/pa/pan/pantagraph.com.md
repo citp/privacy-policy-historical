@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214304id_/http%3A//pantagraph.com/app/customerservice/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111938id_/http%3A//www.pantagraph.com/app/customerservice/policies/privacy.php) for the most accurate reproduction.*
 
 # Pantagraph.com | Privacy Policy
 
