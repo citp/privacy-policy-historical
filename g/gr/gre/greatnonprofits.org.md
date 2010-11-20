@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612223346id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184640id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy | GreatNonprofits: Find non-profits and charities to review, donate, or volunteer.
+# GreatNonprofits: Find non-profits and charities to review, donate, or volunteer.
 
 ### Our Commitment To Privacy
 
@@ -16,7 +16,7 @@ Some information collected is not explicitly submitted by the user; we log your 
 
 ### How We Use Information
 
-Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the “Account” tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
+Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the "Account" tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer GreatNonprofits, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
 
@@ -28,19 +28,21 @@ Please be aware that, to the extent required to provide our services, we share y
 
 We may use our email lists for sending out our newsletter and other GreatNonprofits outbound communications, such as product enhancements, tool upgrades, or membership news.
 
-Additionally, for volunteers with a personal account who have accessed GreatNonprofits through www.greatnonprofits.org or a Partner’s Web site: If you indicate to us that you are interested in creating a personalized account, the information we gather from you will be used to permit you to: access the account, customize outbound email services, review your referral history and/or post a resume that can be sent as an attachment to inquiries you make using the GreatNonprofits service.
+Additionally, for volunteers with a personal account who have accessed GreatNonprofits through www.greatnonprofits.org or a Partner's Web site:
+
+If you indicate to us that you are interested in creating a personalized account, the information we gather from you will be used to permit you to: access the account, customize outbound email services, review your referral history and/or post a resume that can be sent as an attachment to inquiries you make using the GreatNonprofits service.
 
 ### For Nonprofit Organizations
 
-If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information (excluding your EIN number) will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information, including your EIN number, with selected Partners in order to verify your organization’s identity and tax status.
+If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information (excluding your EIN number) will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information, including your EIN number, with selected Partners in order to verify your organization's identity and tax status.
 
-### Children’s Privacy
+### Children's Privacy
 
-We welcome users of all ages, including children under the age of thirteen. Due to our status as a non-profit organization, we are not required to comply with the Children’s Online Privacy Protection Act (COPPA). However, we strongly encourage our users aged thirteen and under to use our services only with parental consent.
+We welcome users of all ages, including children under the age of thirteen. Due to our status as a non-profit organization, we are not required to comply with the Children's Online Privacy Protection Act (COPPA). However, we strongly encourage our users aged thirteen and under to use our services only with parental consent.
 
 ### Cookies
 
-Cookies are tiny data files that Web sites commonly write to your hard drive when you visit them so that they can remember you when you visit. A cookie file contains information that can identify you anonymously and maintain your account’s privacy. Our site uses cookies to maintain a user’s identity between sessions so that the site can be personalized based on user preferences or a user’s history. You can set your Web browser to prompt you before you accept a cookie, accept cookies automatically or reject all cookies. However, if you choose not to accept cookies from this Web site, then you may not be able to access and use all or part of this Web site or benefit from the information and services which it offers.
+Cookies are tiny data files that Web sites commonly write to your hard drive when you visit them so that they can remember you when you visit. A cookie file contains information that can identify you anonymously and maintain your account's privacy. Our site uses cookies to maintain a user's identity between sessions so that the site can be personalized based on user preferences or a user's history. You can set your Web browser to prompt you before you accept a cookie, accept cookies automatically or reject all cookies. However, if you choose not to accept cookies from this Web site, then you may not be able to access and use all or part of this Web site or benefit from the information and services which it offers.
 
 ### Third-party Access and Use
 
@@ -56,13 +58,13 @@ This site contains links to other sites. GreatNonprofits is not responsible for 
 
 ### How You Can Review Or Correct Your Information
 
-If you are a nonprofit member or user with an account (either through www.GreatNonprofits.org or a Partner’s Web site) you can modify your personal information at any time by accessing the “Account” section of the site
+If you are a nonprofit member or user with an account (either through www.GreatNonprofits.org or a Partner's Web site) you can modify your personal information at any time by accessing the "Account" section of the site
 
 You do not need to contact us to access your record or to make any changes. If you have problems changing your Information, please contact Community Services at support@greatnonprofits.org.
 
 ### For Nonprofit Organizations
 
-If you are a nonprofit administrator, you may modify your organizational information at any time by accessing the “Account” section of the site. You do not need to contact us to access your record or to make any changes. If you have problems changing your organization’s Information, please contact Community Services at support@greatnonprofits.org
+If you are a nonprofit administrator, you may modify your organizational information at any time by accessing the "Account" section of the site. You do not need to contact us to access your record or to make any changes. If you have problems changing your organization's Information, please contact Community Services at support@greatnonprofits.org
 
 If you are a nonprofit member or volunteer with an account and would like to have your Information deleted from the site, you may do so by contacting Community Services at support@greatnonprofits.org
 
