@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlenexus.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318044353id_/http%3A//articlenexus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlenexus.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192217id_/http%3A//articlenexus.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Submit Articles | Web Content
 
