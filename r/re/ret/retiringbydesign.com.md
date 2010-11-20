@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retiringbydesign.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630104436id_/http%3A//www.retiringbydesign.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retiringbydesign.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184155id_/http%3A//www.retiringbydesign.com/privacy.php) for the most accurate reproduction.*
 
 # Retiring By Design - Privacy Policy
 
