@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522013954id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120025919id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Softcomplex.com - Privacy Policy
 
@@ -113,7 +113,7 @@ Any information collected by online applications we offer is not disclosed to th
 
 ## Illegal Software Usage Tracking
 
-Free products and legally purchased commercial products do not disclose customer’s privacy in any way. There is no ’spy ware’ functions embedded into the code. Commercial products being illegally used may display warning messages and send reports to our server. We’ll investigate all cases of pirated software usage.
+Free products and legally purchased commercial products do not disclose customer’s privacy in any way. There is no ‘spy ware’ functions embedded into the code. Commercial products being illegally used may display warning messages and send reports to our server. We’ll investigate all cases of pirated software usage.
 
 ## Employee Access to Customer Information
 
@@ -138,35 +138,4 @@ We may disclose personal information if we are required to do so by law or we in
 
 ## What Are Cookies?
 
-Cookies are a standard feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
-
-## External Links
-
-Our site may contain links to other web sites. We’re not responsible for the content or privacy practices of those sites.
-
-## Accessing and Changing Your Information
-
-In most cases you can review and update your personal information using the same application you submitted it with. Contact us in case you experience difficulties finding or updating your records at Softcomplex.  
-
-
-## Contacting US
-
-Don’t hesitate to [contact us](http://www.softcomplex.com/support.html "contact Softcomplex in the way that is most convenient for you") should you have any questions, concerns, suggestions or complaints related to the ways we protect your privacy. Your feedback is very important for us. Variety of ways is available for communication.
-
-## Related Links
-
-Internal Links:
-
-  * [**Softcomplex Homepage**](https://web.archive.org/ "visit our homepage and learn more about our company") – visit our homepage and learn more about Softcomplex
-  * [**Web Site User Agreement**](https://web.archive.org/site_agreement.html "Softcomplex.com web site user agreement") – information related to use of softcomplex.com and responsibilities
-  * [**Support Forum**](https://web.archive.org/forum/ "find answers to your technical questions, share your code and discuss your challenges with other customers") – find answers to your technical questions, share your code and discuss your challenges with other customers
-  * [**Contact US**](https://web.archive.org/support.html "contact Softcomplex in the way that is most convenient for you") – contact Softcomplex in the way that is most convenient for you
-
-
-
-External Links:
-
-  * [**Web Log**](http://httpd.apache.org/docs/mod/mod_log_config.html "learn about information that web server collects") – learn about information that web server collects
-  * [**SSL**](http://wp.netscape.com/security/techbriefs/ssl.html "learn about secure socket layer") – learn about secure socket layer
-
-
+Cookies are a standard feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user
