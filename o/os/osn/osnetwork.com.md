@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osnetwork.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509214752id_/http%3A//www.osnetwork.com/Privacy_en_gb.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osnetwork.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190113id_/http%3A//www.osnetwork.com/privacy_en_gb.aspx) for the most accurate reproduction.*
 
-# OSNETWORK -
+# OSN - Orbit Showtime Network -
 
 **PRIVACY NOTICE**
 
@@ -34,4 +34,4 @@ This Privacy Notice only applies to our collection and our use of your personal 
 
 **
 
-In the event that you subscribe to our email alerts, Panther Media Group may send you programme highlights, new products & services, and special offers from Orbit Showtime and/or third party companies if we have gained appropriate permission from you. In the event you no longer wish to receive email alerts from Panther Media Group please send an email to [Feedback@showtimearabia.com](mailto:Feedback@showtimearabia.com). 
+In the event that you subscribe to our email alerts, Panther Media Group may send you programme highlights, new products & services, and special offers from OSN and/or third party companies if we have gained appropriate permission from you. In the event you no longer wish to receive email alerts from Panther Media Group please send an email to [Feedback@osnetwork.com](mailto:Feedback@osnetwork.com). 
