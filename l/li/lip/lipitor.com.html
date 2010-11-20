@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lipitor.com privacy policy that was archived on 2010-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528182843id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lipitor.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120042632id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,12 +10,14 @@
 
 <!-- start meta keywords -->
 <meta name="keywords" content="Pharmaceutical company, pharmaceuticals, healthcare, corporate governance, corporate citizenship, Pfizer philanthropy, pharmaceutical careers, Pfizer investor relations, medicines, medications">
+<meta name="robots" content="noarchive">
 <!-- end meta keywords -->
 
 
 <link rel="stylesheet" type="text/css" href="/include/css/style.css">
-<link rel="stylesheet" type="text/css" href="/include/css/ui.css">
+<link rel="stylesheet" type="text/css" href="/include/css/ui.all.css">
 <link rel="stylesheet" type="text/css" href="/include/css/jquery.autocomplete.css">
+<link rel="stylesheet" type="text/css" href="/include/css/rss_styles.css">
 <!-- START Pfizer Survey -->
 <link rel="stylesheet" href="/include/css/thickbox.css" type="text/css" media="screen">
 <!-- START Pfizer Survey -->
@@ -23,15 +25,17 @@
 <link rel="alternate stylesheet" type="text/css" media="screen" title="small-text" href="/include/css/pf_style_sm.css">
 <link rel="alternate stylesheet" type="text/css" media="screen" title="medium-text" href="/include/css/pf_style_med.css">
 <link rel="alternate stylesheet" type="text/css" media="screen" title="large-text" href="/include/css/pf_style_lg.css">
+
 <!--[if IE 6]>
 <link rel="stylesheet" type="text/css" media="all" href="/include/css/ie6.css">
 <![endif]-->
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" media="all" href="/include/css/ie7.css">
 <![endif]-->
+
+<link rel="stylesheet" type="text/css" href="/include/css/wcg.css">
 <script type="text/javascript" src="/include/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/include/js/ui_002.js"></script>
-<script type="text/javascript" src="/include/js/ui.js"></script>
+<script type="text/javascript" src="/include/js/jquery-ui-1.7.3.custom.min.js"></script>
 <script type="text/javascript" src="/include/js/jquery.autocomplete.js"></script>
 <script type="text/javascript" src="/include/js/localdata.js"></script>
 <script type="text/javascript" src="/include/js/product_finder.js"></script>
@@ -47,14 +51,37 @@
 <!-- END Pfizer Survey -->
 <script type="text/javascript">
 	$(function() {
-		//$('#hometabs > ul').tabs({ fx: { opacity: 'toggle' } }).tabs('rotate', 0);
-		$('#maintabs > ul').tabs().tabs('rotate', 0);
+        $('#maintabs').tabs()
 	});
 </script>
 <!--  for new dropdown nav IE 6 only  --> 
 <!--[if IE 6]>
 <script type="text/javascript" src="/include/js/v3_dropdown.js"></script>
 <![endif]-->
+
+<!-- addition to substitue print.css -->
+<script type="text/javascript">	
+	var printStyle = document.URL.indexOf('?print');
+	if (printStyle != -1) {
+	document.write ('<link rel="stylesheet" type="text/css" href="/include/css/print.css">');	
+	
+	$(document).ready(function(){
+		$('#intcontentcenter_fullwidth0 div').removeAttr("style");
+	});
+	
+	//$('#intcontentcenter_fullwidth0 div').removeAttr("style");
+	$(document).ready(function(){
+		window.print();
+		});
+	};
+  
+</script>
+<!-- end addition -->
+
+<!-- addition of sharethis code -->
+<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js?publisher=f5782661-29c9-43d9-81d8-7bdce05b3a3b&amp;type=website&amp;button=false&amp;embeds=true"></script>
+<!-- end addition -->
+
 
 
 <script language="javascript">
@@ -161,7 +188,7 @@
 var axel = Math.random()+"";
 var a = axel * 10000000000000;
 document.write('<IFRAME SRC="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord='+ a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0 style="display:none"></IFRAME>');
-</script><iframe src="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord=2730040921780.528?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord=4226395290308.16?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <IFRAME SRC="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord=1?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0 style="display:none"></IFRAME>
 </noscript>
@@ -193,19 +220,7 @@ var currYear = 2010
 
 <div id="searchnav">
 
-<div id="head-health"> 
-<a href="javascript:void(0);" id="health-link">Health Care Professionals</a>
-
-<div class="healhcare-header" style="display:none">
-<ul>
-	<li><a href="https://www.pfizerpro.com/sites/ppro/pages/content/home.aspx">Access PfizerPro.com</a></li>
-	<li><a href="http://wyethhcp.com/">Access WyethHCP.com</a></li>
-</ul>
-<img src="/img/pfizer_pro_logo_dropdown.gif" alt="Pfizer for Professionals" width="141" height="29" id="pfizer-pro-logo">
-<img src="/img/wyth_logo_dropdown.gif" alt="Wyeth" width="61" height="22" id="wyeth-hcp-logo"></div>
-<!--  Close  class = healhcare-dropdown  --> 
-</div><!--  Close  id = head-health  -->
-
+<a href="http://www.pfizerpro.com" id="head-health">Health Care Professionals</a>
 <a href="/careers/" id="head-careers">Careers</a>
 <a href="/contact/" id="head-contact">Contact Us</a>
 
@@ -245,25 +260,21 @@ function GoogleSearch()
 <ul class="about-drop">
 <li><a href="/about/leadership_and_structure/leadership_structure.jsp">Leadership &amp; Structure</a></li>
 <li><a href="/about/corporate_governance/corporate_governance.jsp">Corporate Governance</a></li>
-<li><a href="/about/public_policy/public_policy.jsp">Public Policy</a></li>
+<li><a href="/about/corporate_compliance/corporate_compliance.jsp">Corporate Compliance</a></li>
 <li><a href="/about/history/history.jsp">History</a></li>
 <li><a href="/about/accolades/accolades.jsp">Accolades</a></li>
 <li><a href="/about/diversity/diversity.jsp">Diversity</a></li>
 </ul>
 </li>
 
-
 <li><a href="/research/" title="Research &amp; Development" id="menu-research">Research &amp; Development at Pfizer</a>
 	<ul class="research-drop">
-	<li><a href="/research/pipeline/pipeline.jsp">Pipeline</a></li>
-	<li><a href="/research/research_clinical_trials/conducting_research_clinical_trials.jsp">Research &amp; Clinical Trials</a></li>
-	<li><a href="/research/phases/phases_development.jsp">Phases of Development</a></li>
+	<li><a href="/research/product_pipeline/product_pipeline.jsp">Product Pipeline</a></li>
+	<li><a href="/research/rd_works/how_rd_works.jsp">How R&amp;D Works</a></li>    
+	<li><a href="/research/research_clinical_trials/conducting_research_clinical_trials.jsp">Conducting Research &amp; Clinical Trials</a></li>
 	<li><a href="/research/pmc/post_marketing_commitments.jsp">Post Marketing Commitments</a></li>
-	<li><a href="/research/rd_locations/centers_innovation.jsp">R&amp;D Locations</a></li>
-	<li><a href="/research/licensing/index.jsp">Partnering with Pfizer</a></li>
-	<li><a href="/research/investigator/investigator_initiative.jsp">Investigator-Initiated Research</a></li>
-    <li><a href="/research/compound_transfer/compound_transfer_program.jsp">Compound Transfer Program</a></li>
-	</ul>
+	<li><a href="/research/partnering/partnering_with_pfizer.jsp">Partnering with Pfizer</a></li>
+	</ul>        
 </li>
 
 <li><a href="/health/" title="Health &amp; Wellness" id="menu-health">Health &amp; Wellness</a>
@@ -279,9 +290,8 @@ function GoogleSearch()
 	<ul class="responsibility-drop">
 	<li><a href="/responsibility/global_health/global_health.jsp">Global Health Programs</a></li>
 	<li><a href="/responsibility/community_programs/community_programs.jsp">Community Programs</a></li>
-	<li><a href="/responsibility/grants_payments/grants_and_payments.jsp">Grants &amp; Payments</a></li>
+	<li><a href="/responsibility/grants_contributions/grants_and_contributions.jsp">Grants &amp; Contributions</a></li>
 	<li><a href="/responsibility/working_with_hcp/working_with_hcp.jsp">Working with Health Care Professionals</a></li>
-	<li><a href="/responsibility/sales_marketing/ethical_sales_and_marketing.jsp">Sales &amp; Marketing Compliance</a></li>
 	<li><a href="/responsibility/protecting_environment/protecting_the_environment.jsp">Protecting the Environment</a></li>
 	<li><a href="/responsibility/workplace_responsibility/workplace_responsibility.jsp">Workplace Responsibility</a></li>
 	
@@ -311,10 +321,12 @@ function GoogleSearch()
 <li><a href="/news/" title="Pfizer’s News &amp; Media Center" id="menu-news">News &amp; Media</a>
 	<ul class="news-drop">
 	<li><a href="/news/press_releases/pfizer_press_releases.jsp">Press Releases</a></li>
+	<li><a href="/news/featured_stories/featured_stories.jsp">Featured Stories</a></li>
 	<li><a href="/news/video_gallery.jsp">Video Gallery</a></li>
     <li><a href="/news/info_for_journalists/information_journalists.jsp">Frequently Requested Info</a></li>
 	<li><a href="/news/press_kits/press_kits.jsp">Press Kits</a></li>
-    <li><a href="http://pfizer.mediaseed.tv/">Download Multimedia</a></li>	
+    <li><a href="http://pfizer.mediaseed.tv/">Download Multimedia</a></li>
+	<li><a href="/news/social_media/social_media.jsp">Social Media</a></li>	
 	<li><a href="/news/contact/contact_pfizer.jsp">Contact Pfizer Media Relations</a></li>
 	</ul>
 </li>
@@ -335,15 +347,49 @@ function GoogleSearch()
 <a href="/home/index.jsp">Home</a> &gt; Privacy
 </div>
 <div id="text_search_container">
-<!-- product finder container begins -->
+<!-- printshare container begins -->
 <div class="prod_finder_container">
-<div id="textsizetool"><span class="textsize">Text Size</span><span class="textsizesm"><a href="javascript:chooseStyle('small-text', 30)" class="textsizesm">A</a></span><span class="textsizemed"><a href="javascript:chooseStyle('medium-text', 30)" class="textsizemed">A</a></span><span class="textsizelg"><a href="javascript:chooseStyle('large-text', 30)" class="textsizelg">A</a></span>
+<div id="textsizetool0"><span class="textsize">Text Size</span><span class="textsizesm"><a href="javascript:chooseStyle('small-text', 30)" class="textsizesm">A</a></span><span class="textsizemed"><a href="javascript:chooseStyle('medium-text', 30)" class="textsizemed">A</a></span><span class="textsizelg"><a href="javascript:chooseStyle('large-text', 30)" class="textsizelg">A</a></span>
 </div>
-<div id="product_finder">
-<a href="#" id="contentlink" rel="prod_finder"><span id="prod_finder_btn" class="off" onclick="togglePFinder('prod_finder_btn');">Product Finder</span></a>
-</div>
+
+<!--- WCG --->
+    <div class="printButton"> <a onclick="window.open('?print','Print','scrollbars=yes,width=680,height=700')" id="pri" href="javascript:;">Print</a>
+	  <!--<script language="javascript" type="text/javascript">
+        //Create your sharelet with desired properties and set button element to false
+        var object = SHARETHIS.addEntry({
+        title:'share',
+        summary: 'Sharing is good for the soul.'},
+        {button:false, offsetLeft: -135, offsetTop: -4});
+        //Output your customized button
+    document.write('<span id="share"><a href="javascript:void(0);"><img src="/img/my_share_icon.gif" border="none" />Share</a></span>');
+        //Tie customized button to ShareThis button functionality.
+        var element = document.getElementById("share");
+        object.attachButton(element);
+    </script>-->
+    </div>
+    <div class="shareButton">
+         <script language="javascript" type="text/javascript">
+			//Create your sharelet with desired properties and set button element to false
+			var object = SHARETHIS.addEntry({
+			//url:'http://www.pfizer.com',
+			//title:'share',
+			//summary: 'Sharing is good for the soul.'
+			},
+			{button:false, offsetLeft: -250, offsetTop: -4});
+			//Output your customized button
+document.write('<span id="share"><a href="javascript:void(0);">Share</a></span>');
+			//Tie customized button to ShareThis button functionality.
+			var element = document.getElementById("share");
+			object.attachButton(element);
+		</script>
+    <!---<a href="javascript:void(0);">Share</a> --->
+    </div>
+    <div class="clearfloat"></div>
 </div>
 <!-- product finder container ends -->
+
+
+<!-- printshare container ends -->
 </div>
 <!-- new contents begin -->
 <div id="intcontentcenter_fullwidth">
@@ -420,23 +466,7 @@ function GoogleSearch()
 </div>
 <!-- new contents end -->
 <br clear="all"><!-- NS6 and IE5 fix to stretch container -->
-<!-- product finder tool begins -->
-<form name="PFsearchform" action="/general/jump_product.jsp">
-<div id="prod_finder" style="top: 0px; left: 0px;">
-<div class="prod_finder_content">
-<img src="/img/prod_find_hdr.gif" alt="Pfizer Product Quick Search" width="150" height="11" border="0" style="margin-bottom:7px;"><br>
-<input id="suggestprod" name="Input" type="text" value="Enter a product keyword(s)" onfocus="if(this.value=='Enter a product keyword(s)')this.value=''; changeBorder();" onblur="if(this.value=='')this.value='Enter a product keyword(s)'; changeBorderBack();" class="searchfield ac_input" autocomplete="off"><input id="prod_find_go" type="image" src="/img/btn_go_find.gif" alt="Go" width="54" height="28" border="0" onclick="document.PFsearchform.submit();">
-<ul class="arrowlist">
-<li><a href="/products/rx/prescription.jsp?search=products">Browse all products</a></li>
-<li><a href="/products/rx/prescription.jsp?search=conditions">Browse by diseases/conditions</a></li>
-</ul>
-</div>
-</div>
-</form>
-<script type="text/javascript">
-dropdowncontent.init("contentlink", "left-bottom", 300, "click")
-</script>
-<!-- product finder tool ends -->
+
 </div><!--END *FULLWIDTH* INTCONTENTCONTAINER-->
 
 
@@ -454,24 +484,14 @@ dropdowncontent.init("contentlink", "left-bottom", 300, "click")
 <li class="col-one"><a href="/careers/">Careers</a></li>
 <li class="col-two"><a href="/b2b/index.jsp">Business to Business</a></li>
 <li class="col-three"><a href="/general/terms.jsp">Terms of Use</a></li>
-<li class="oneten"><a href="/general/global_sites.jsp">Global Network</a></li>
-<li class="oneeightfour">
-<div id="footer-healthcare"><a href="javascript:void(0);" id="hcp-link">Health Care Professionals</a>
-<div class="healhcare-footer" style="display:none">
-<ul class="link-list">
-	<li><a href="https://www.pfizerpro.com/sites/ppro/pages/content/home.aspx">Access PfizerPro.com</a></li>
-	<li><a href="http://wyethhcp.com/">Access WyethHCP.com</a></li>
-</ul>
-<img src="/img/pfizer_pro_logo_dropdown.gif" alt="Pfizer for Professionals" width="141" height="29" id="pfizer-pro-logo">
-<img src="/img/wyth_logo_dropdown.gif" alt="Wyeth" width="61" height="22" id="wyeth-hcp-logo"></div>
-<!--  Close  class = healhcare-dropdown  --> 
-</div><!--  Close  id = footer-healthcare  --> </li>
+<li class="col-one"><a href="/general/global_sites.jsp">Global Network</a></li>
+<li class="col-two"><a href="http://www.pfizerpro.com">Health Care Professionals</a></li>
 <li class="col-three"><a href="/general/privacy.jsp">Privacy Policy</a></li>
 </ul>
 
 
 
-<p class="copyright">Copyright © 2002–2009 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States. The product information provided in this site is intended only for residents of the United States. The products discussed herein may have different product labeling in different countries. Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
+<p class="copyright">Copyright © 2002–2010 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States. The product information provided in this site is intended only for residents of the United States. The products discussed herein may have different product labeling in different countries. Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
 
 <img src="/img/trust_e.gif" alt="TRUSTe Certified Privacy" width="146" height="41" id="truste-logo"></div>
 
