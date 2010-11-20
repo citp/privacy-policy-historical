@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the bighugelabs.com privacy policy that was archived on 2010-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102014635id_/http%3A//bighugelabs.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bighugelabs.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120060559id_/http%3A//bighugelabs.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>BigHugeLabs.com Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="description" content="This privacy policy pertains to the use of BigHugeLabs.">
 	<link rel="alternate" type="application/rss+xml" title="Big Huge Blog RSS Feed" href="http://bighugelabs.com/blog/feed/">
-	<link rel="stylesheet" type="text/css" href="/css/_main_v30.css" media="screen, print">
+	<link rel="stylesheet" type="text/css" href="/css/_main_v31.css" media="screen, print">
 	<link rel="shortcut icon" href="/img/ui/favicon.ico">
-	<link rel="apple-touch-icon" href="/img/ui/ipod/bighugelabs.png">	<script type="text/javascript" src="/js/_combined_v30.js"></script>
-	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script><style type="text/css">#maincontent { width: 970px; margin-right: 0; float: none; }</style></head>
+	<link rel="apple-touch-icon" href="/img/ui/ipod/bighugelabs.png">	<script type="text/javascript" src="/js/_combined_v31.js"></script>
+	<script src="http://connect.facebook.net/en_US/all.js"></script><style type="text/css">#maincontent { width: 970px; margin-right: 0; float: none; }</style></head>
 <body>
 	<div id="topnav">
 	<div></div>
 	<span class="floatleft">
 		<a href="http://bighugelabs.com/" class="bold">← Home</a>		·
-		<a href="http://bighugelabs.com/upgrade.php">Turn off Ads</a>
-		·
+
+		
 		<a href="http://bighugelabs.com/products.php">Product Info</a>
 		·
 		<a href="http://bighugelabs.com/blog/">Blog</a>
@@ -41,7 +41,7 @@
 	<div class="clear"></div>
 </div>
 <iframe id="colorPickerShim" src="" frameborder="0" scrolling="no" style="visibility: hidden"></iframe><div id="colorPickerDialog" style="visibility: hidden;"><a href="#" onclick="pickColor(); return false;" onmouseout="closeColorDialog();"><img src="img/hsvwheel.png" alt="Color wheel"></a></div><div id="wraptop">&nbsp;</div><div id="wrap">		<div id="header">
-			<div id="logo"><a href="http://bighugelabs.com/"><img src="/img/ui/bhl_newyears.png" alt="BigHugeLabs.com: Home of fd's Flickr Toys"></a></div><div class="pagedescription floatright">Your privacy is extremely important to us.<br>We will not violate your trust.</div>			<div class="clear"></div>
+			<div id="logo"><a href="http://bighugelabs.com/"><img src="/img/ui/bhl.png" alt="BigHugeLabs.com: Home of fd's Flickr Toys"></a></div><div class="pagedescription floatright">Your privacy is extremely important to us.<br>We will not violate your trust.</div>			<div class="clear"></div>
 					</div>
 				<div id="maincontent">
 <h1>PRIVACY POLICY</h1>
@@ -123,6 +123,8 @@
 	<div class="clear"></div>
 
 	<div align="center" style="margin: 20px 0 0 0"></div>
+
+	
 </div> <!-- wrap --><div id="wrapbottom">&nbsp;</div>
 <div class="aligncenter" style="margin: 6px 0 10px 0" align="center"></div>
 
@@ -175,32 +177,31 @@ pageTracker._trackPageview();
 </script>
 
 
+<div id="fb-root"></div>
+
 <script type="text/javascript">
 window.addEvent('domready',
 	function() {
-		var fadeMsg = function(e) {
+		var fadeMsg = function(e, delay) {
 			if (e != undefined) {
+				if (delay == undefined) delay = 4000;
 				e.show();
 				e.fx = new Fx.Tween(e, { duration: 500 } );
 				e.fx.set('opacity', 0.9);
-				(function(){e.fx.start('opacity', 0)}).delay(4000);
+				(function(){e.fx.start('opacity', 0)}).delay(delay);
 			}
 		}
 		fadeMsg($('message1'));
 		fadeMsg($('errormessage1'));
 
+		fadeMsg($('message_support'), 10000);
+
 		var _tooltips = new Tips($$('.tooltip'), { className: 'tooltip', text: '' } ).hide();
 
-				FB.init('48a6f1b3ba75267e88aed61cafac8b7b', "xd_receiver.htm",
-			{
-				"ifUserConnected": fb_onConnected,
-				"ifUserNotConnected": fb_onNotConnected
-			}
-		);
+				FB.init({appId: '48a6f1b3ba75267e88aed61cafac8b7b', status: true, cookie: true, xfbml: true});
 			}
 );
 </script>
-
 
 
 <div class="tooltip" style="position: absolute; top: 0px; left: 0px; display: none;"><div class="tip-top"></div><div class="tip"></div><div class="tip-bottom"></div></div></body></html>
