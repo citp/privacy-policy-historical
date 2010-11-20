@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinklist.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010827id_/http%3A//blinklist.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinklist.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120062130id_/http%3A//blinklist.com/static/privacy-policy) for the most accurate reproduction.*
 
 # BlinkList.com - Discover, Blink & Share
 
