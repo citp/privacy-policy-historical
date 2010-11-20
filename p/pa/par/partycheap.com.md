@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partycheap.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918133402id_/http%3A//www.partycheap.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycheap.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192156id_/http%3A//www.partycheap.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Party Decorations - Party Supplies - Free Shipping on Party Decorations - www.PartyCheap.com
+# Terms: Privacy
 
 **Privacy Policy**
 
@@ -59,7 +59,7 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090918133402id_/http%3A//www.partycheap.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20101120192156id_/http%3A//www.partycheap.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
