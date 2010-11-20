@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tebrowser.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216043203id_/http%3A//www.tebrowser.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tebrowser.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192055id_/http%3A//www.tebrowser.com/policy.html) for the most accurate reproduction.*
 
-# None
+# TE Browser
 
-TEBrowser.com ("TE Browser" and "TEBrowser" and "Webily, Ltd" and "Webily" and "us" and "we" and "our") has a mission is to establish trusting relationships based on respect for your ("you" and "user" and "Customer" and "Accountholder") personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.TEBrowser.com, all pages with that are an extension of the site, and every site and page that contains a Copyright notice designating the intellectual property rights of; "Webily, Ltd". Because TEBrowser demonstrates its commitment to our users’ privacy, we disclose TEBrowser's information practices herein and review our privacy practices for compliance from time to time.
+TEBrowser.com ("TE Browser" and "TEBrowser" and "Webily, Ltd" and "Webily" and "us" and "we" and "our") has as its mission, the establishing of trusting relationships based on respect for your ("you" and "user" and "Customer" and "Accountholder") personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.TEBrowser.com, all pages with that are an extension of the site, and every site and page that contains a Copyright notice designating the intellectual property rights of; "Webily, Ltd". Because TEBrowser demonstrates its commitment to our users’ privacy, we disclose TEBrowser's information practices herein and review our privacy practices for compliance from time to time.
 
 If you have any questions or concerns regarding our Privacy Policy statement, please contact TEBrowser via the "Contact Us" link provided on every TEBrowser.com page.
 
@@ -168,6 +168,3 @@ Users who have opted-in to receive information from our Independent Members may 
 **23.a** If you have questions or suggestions regarding our Privacy Policy, please feel free to contact us through our Contact Us link.
 
 Last modified February 11, 2010. 
-
-Copyright © 2009-2010 TEBrowser.com / Webily, Ltd. All Rights Reserved.  
-All other trademarks and tradenames belong to their respective owners. 
