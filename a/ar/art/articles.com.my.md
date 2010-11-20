@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articles.com.my privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508230336id_/http%3A//articles.com.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles.com.my privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120191944id_/http%3A//articles.com.my/privacy.php) for the most accurate reproduction.*
 
 # Free Web Site Content | Articles Submission Directory
 
