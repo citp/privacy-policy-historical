@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wclc.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104114755id_/http%3A//www.wclc.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wclc.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112528id_/http%3A//www.wclc.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
