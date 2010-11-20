@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613184732id_/http%3A//www.nochex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112527id_/http%3A//www.nochex.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
