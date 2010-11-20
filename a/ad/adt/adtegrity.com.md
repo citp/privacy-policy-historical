@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610151605id_/http%3A//www.adtegrity.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184156id_/http%3A//www.adtegrity.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Adtegrity.com » Privacy Policy
 
