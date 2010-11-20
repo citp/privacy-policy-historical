@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verican.us privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630154417id_/http%3A//www.verican.us/fms/resource/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verican.us privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094358id_/http%3A//www.verican.us/fms/resource/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,8 +81,8 @@ From time-to-time our site requests information via surveys or contests. Partici
 If you feel that we are not abiding by this privacy policy, or have any questions or feedback regarding our privacy statement, please contact us as follows: 
 
 Verican, Inc.  
-One Hallidie Plaza, Suite 202  
-San Francisco, CA 94102  
+850 South Boulder Highway #221  
+Henderson, NV 89015  
 415-296-7300  
 [info@verican.com](mailto:info@verican.com)
 
