@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212172536id_/http%3A//www.broadridge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120084534id_/http%3A//broadridge.com/privacy.asp) for the most accurate reproduction.*
 
 # Broadridge
+
+For personal information that Broadridge Financial Solutions, Inc. and its affiliates Broadridge Investor Communications Solutions, Inc., Broadridge Securities Processing Solutions, Inc. and Broadridge Output Solutions, Inc. process for their clients from individuals in the European Economic Area, including Switzerland, Broadridge has committed to handling such personal information in accordance with the Safe Harbor Principles. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/>.
 
 Broadridge collects Social Security numbers in the ordinary course of its business. Broadridge has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers from unlawful use and unauthorized disclosure. All Broadridge workers are required to follow these established procedures.   
 In particular:
@@ -10,7 +12,7 @@ In particular:
 
 
 
-If you have any questions, please contact us at: [info@broadridge.com](mailto:info@broadridge.com).
+If you have any questions, please contact us at: [privacy@broadridge.com](mailto:privacy@broadridge.com).
 
 Broadridge believes that privacy is important to the success and use of the Internet. This statement describes the practices that Broadridge will follow with respect to the personal information it collects from users of www.broadridge.com and the other Broadridge websites or hosted websites that link to this Privacy Statement. 
 
@@ -46,11 +48,11 @@ We do not, however, use tracking or cookie technology on pages of our websites t
 
 **Do we collect your information for marketing communications?**
 
-Broadridge is a business to business service provider and does not market its services to individual consumers. However, Broadridge may use your personal information collected via Broadridge websites to contact you to respond to your inquiries or to contact your business about information relating to Broadridge’s or its affiliate’s products and services from time to time. Please email us at [info@broadridge.com](mailto:info@broadridge.com), if you do not want your information used for further marketing contact. Broadridge does not send Broadridge marketing communications to individuals who provide us with personal information via a hosted website for a Business Owner.
+Broadridge is a business to business service provider and does not market its services to individual consumers. However, Broadridge may use your personal information collected via Broadridge websites to contact you to respond to your inquiries or to contact your business about information relating to Broadridge’s or its affiliate’s products and services from time to time. Please email us at [privacy@broadridge.com](mailto:privacy@broadridge.com), if you do not want your information used for further marketing contact. Broadridge does not send Broadridge marketing communications to individuals who provide us with personal information via a hosted website for a Business Owner.
 
 **How can you correct, access, and update your information?**
 
-You may view and edit the personal information you have provided us by contacting us using the link provided on the website. Our customer support department can also reasonably assist you with other requests related to information about you that may be maintained by us. Please send requests to [info@broadridge.com](mailto:info@broadridge.com).
+You may view and edit the personal information you have provided us by contacting us using the link provided on the website. Our customer support department can also reasonably assist you with other requests related to information about you that may be maintained by us. Please send requests to [privacy@broadridge.com](mailto:privacy@broadridge.com).
 
 **How do we protect your information?**
 
@@ -68,6 +70,32 @@ From time to time, we may want to use personal information in ways that are not 
 
 Broadridge sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. 
 
-If you have questions or concerns regarding this statement, you should contact us at [info@broadridge.com](mailto:info@broadridge.com).
+**StockTrans Information Security Program**
 
-_This Privacy Statement was last updated January 18, 2008._
+StockTrans maintains an information security program to address the risk that customer information acquired in the course of its business is disclosed inadvertently without authorization, misused, altered, destroyed, or otherwise compromised. As part of this information security program, StockTrans has designed and implemented safeguards to prevent such disclosure, misuse, alteration, destruction, or compromise and has implemented appropriate measures to oversee StockTrans' service providers' compliance with the program. StockTrans also has adopted protocols for the proper disposal of any consumer report information acquired in the course of its business. 
+
+StockTrans has implemented numerous physical, electronic, and procedural safeguards to prevent the unauthorized sharing of personal shareholder information, including the limiting of information to necessary employees and the encryption of sensitive website transmissions using Secure Sockets Layer (SSL) protection. StockTrans maintains the following nonpublic information with respect to individual shareholders: 
+
+  * Shareholder name and address(es)
+  * Shareholder taxpayer identification number
+  * Information related to the shareholder's share ownership, history, and/or dividends
+  * In some cases, shareholder telephone numbers and/or e-mail addresses 
+  * In some cases, shareholder bank or brokerage account information
+  * In some case, information from tax-related documents that is required to process tax reports and statements, stock transfers, and other securities transactions
+
+
+
+StockTrans maintains its records of securities and shareholders as an agent for the issuer of the security, and, accordingly, will provide the above-referenced information to the issuer or its designees. StockTrans does not provide the aforementioned information about current or former shareholders to any third party except as permitted by law. StockTrans will provide nonpublic, personal information: 
+
+  * When necessary to effect, administer, or enforce a transaction requested by the shareholder 
+  * When the shareholder requests or authorizes that the information be shared 
+  * When the disclosure is necessary to prevent fraud 
+  * When the disclosure is necessary for StockTrans to perform its duties 
+  * When providing information necessary for third parties to perform services on behalf of StockTrans
+  * When the disclosure is required by law.
+
+
+
+If you have questions or concerns regarding this statement, you should contact us at [privacy@broadridge.com](mailto:privacy@broadridge.com).
+
+_This Privacy Statement was last updated August 19, 2010._
