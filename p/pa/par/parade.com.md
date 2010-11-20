@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parade.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020818id_/http%3A//www.parade.com/export/system/modules/com.parade/elements/legal/privacy_Policy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parade.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120194935id_/http%3A//www.parade.com/export/system/modules/com.parade/elements/legal/privacy_Policy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D610) for the most accurate reproduction.*
 
 # 
 
