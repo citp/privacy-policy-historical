@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113071018id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121003850id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp) for the most accurate reproduction.*
 
-# Online Privacy & Security Policy | Walgreens
+# Online Privacy and Security Policy | Walgreens
 
 For over 100 years, Walgreens has established itself as one of the most trusted health care providers in America. Our company has always been committed to providing our valued customers with the best services available. Now, as we offer our convenient online shopping, photo and pharmacy services, we want you to be assured that your personal information is properly safeguarded. In the following sections, you will learn how Walgreens secures your private information.
 
