@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526021140id_/http%3A//www.glassons.com/index.php/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184653id_/http%3A//www.glassons.com/index.php/page/privacy) for the most accurate reproduction.*
 
 # Privacy. Buy Online at Glassons.com
 
