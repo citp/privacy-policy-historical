@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405222003id_/http%3A//connectify.me/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120233146id_/http%3A//connectify.me/docs/privacy.html) for the most accurate reproduction.*
 
 # Connectify - Turn your Windows 7 laptop into a Wi-Fi Hotspot - Privacy Policy
 
