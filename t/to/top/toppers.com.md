@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppers.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223163840id_/http%3A//www.toppers.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppers.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120203445id_/http%3A//www.toppers.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Toppers
 
