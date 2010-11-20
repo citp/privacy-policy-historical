@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515042359id_/http%3A//www.robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185212id_/http%3A//www.robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Robb Report
 
@@ -92,6 +92,10 @@ These guidelines were adopted with the realization that the Internet is still ev
 
 This website is not intended for children under 13. We do not knowingly collect personally identifiable information from any children under 13.
 
-### I. Additional Information for California Residents
+### I. Print Subscribers
+
+Occasionally we make our subscriber list available to carefully screened companies that offer products and services that we believe would interest our readers. If you do not want to receive these offers, please advise us at P.O. Box 422554, Palm Coast, FL 32142-2555. Please include your exact name and address. 
+
+### J. Additional Information for California Residents
 
 California Civil Code Section 1798.83 permits California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacypolicy@curtco.com](mailto:privacypolicy@curtco.com?subject=Robb%20Report).
