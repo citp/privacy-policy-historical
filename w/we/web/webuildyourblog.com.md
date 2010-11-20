@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webuildyourblog.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628230042id_/http%3A//www.webuildyourblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuildyourblog.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182423id_/http%3A//www.webuildyourblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogging Guide - How to make a blog and a blog income
 
-### Privacy Policy
+## Privacy Policy
 
-**Our Commitment To Privacy**
+ **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
