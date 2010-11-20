@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipworks.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211043841id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipworks.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120101108id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
 
 # Powerful UPS and USPS Shipping Software for Miva Merchant
 
