@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607133628id_/http%3A//www.cbox.ws/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120132654id_/http%3A//www.cbox.ws/privacy.php) for the most accurate reproduction.*
 
 # Cbox · Privacy Policy · Chat and Tag for the Social Web
 
