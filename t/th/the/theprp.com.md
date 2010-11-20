@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprp.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522043356id_/http%3A//www.theprp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprp.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120040958id_/http%3A//www.theprp.com/privacy) for the most accurate reproduction.*
 
 # ThePRP.com’s Privacy Policy : Theprp.com
 
