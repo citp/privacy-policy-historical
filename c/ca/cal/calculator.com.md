@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the calculator.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322193242id_/http%3A//www.calculator.com/pantaserv/get%3F_lt%3Dbody%26dbname%3Dcalcsite%26header%3Dhead%26page%3Dprivacy%26footer%3Dfoot%26num%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculator.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120131449id_/http%3A//www.calculator.com/pantaserv/get%3F_lt%3Dbody%26dbname%3Dcalcsite%26header%3Dhead%26page%3Dprivacy%26footer%3Dfoot%26num%3D1) for the most accurate reproduction.*
 
 # Privacy Statement calculator.com - Online mortgage math loan finance scientific health & sports calculators
 
-|  [](https://web.archive.org/web/20100322193242id_/http%3A//www.calculator.com/pantaserv/javascript) [](https://web.archive.org/web/20100322193242id_/http%3A//#dir) [](https://web.archive.org/web/20100322193242id_/http%3A//www.calculator.com/pantaserv/javascript)
+|  [](https://web.archive.org/web/20101120131449id_/http%3A//www.calculator.com/pantaserv/javascript) [](https://web.archive.org/web/20101120131449id_/http%3A//#dir) [](https://web.archive.org/web/20101120131449id_/http%3A//www.calculator.com/pantaserv/javascript)
 
 [ ](http://www.icra.org/labelv02.html)
 
