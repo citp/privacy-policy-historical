@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashkeywords.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607081446id_/http%3A//www.cashkeywords.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkeywords.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190708id_/http%3A//cashkeywords.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Cash Keywords Privacy Policy
 
