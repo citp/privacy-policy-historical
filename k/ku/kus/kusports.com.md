@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kusports.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619000903id_/http%3A//www2.kusports.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kusports.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120101516id_/http%3A//www2.kusports.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KUsports.com
 
