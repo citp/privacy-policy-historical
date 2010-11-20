@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duvalschools.org privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318040345id_/http%3A//www.duvalschools.org/Globals/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duvalschools.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120022641id_/http%3A//www.duvalschools.org/Globals/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Duval County Public Schools :: Privacy Policy
 
@@ -60,7 +60,7 @@ We take reasonable precautions to keep your personal information secure. All per
 Duval County Public Schools reserves the right to change or remove this privacy policy at our discretion. We will post any new policy here and we encourage you to visit the area frequently to stay informed.
 
 **Who to Contact**  
-Please contact us at 904 390 2126 or email at [contact us](https://web.archive.org/web/20100318040345id_/http%3A//www.duvalschools.org/Contact/Contact.aspx "Go To: Contact") if you have any questions about this policy or to report any violations of the privacy policy. We will respond in a timely manner. 
+Please contact us at 904 390 2126 or email at [contact us](https://web.archive.org/web/20101120022641id_/http%3A//www.duvalschools.org/Contact/Contact.aspx "Go To: Contact") if you have any questions about this policy or to report any violations of the privacy policy. We will respond in a timely manner. 
 
   
 
