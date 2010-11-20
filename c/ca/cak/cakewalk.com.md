@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526041109id_/http%3A//www.cakewalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120151812id_/http%3A//www.cakewalk.com/privacy) for the most accurate reproduction.*
 
 # Cakewalk Privacy Policy
 
-[Deutsch](https://web.archive.org/web/20100526041109id_/http://www.cakewalk.com/privacy/de.asp)  
-[Español](https://web.archive.org/web/20100526041109id_/http://www.cakewalk.com/privacy/es.asp)   
-[Français](https://web.archive.org/web/20100526041109id_/http://www.cakewalk.com/privacy/fr.asp)
+[Deutsch](https://web.archive.org/web/20101120151812id_/http://cakewalk.com/privacy/de.asp)  
+[Español](https://web.archive.org/web/20101120151812id_/http://cakewalk.com/privacy/es.asp)   
+[Français](https://web.archive.org/web/20101120151812id_/http://cakewalk.com/privacy/fr.asp)  
+[Italiano](https://web.archive.org/web/20101120151812id_/http://cakewalk.com/privacy/it.asp)
 
 Cakewalk is committed to protecting the privacy of all information provided by our users. Please read the privacy policy below. 
 
@@ -16,6 +17,8 @@ e-mail. Users that do not want to receive information from us by e-mail may opt 
 **Security of your Personal Information**
 
 Cakewalk is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+In addition, we and our vendors may use cookies and other technology such as web beacons or tagging to measure page visits to our site, most frequently viewed pages, the effectiveness of our ads, and to determine the display of content and advertising based on your interests all for the goal of improving your experience with us. These are anonymous and unidentifiable: They do not include any personal information including your name, address, phone number, email address, or anything that personally identifies you.
 
 **Contact Us**
 
