@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302082916id_/http%3A//www.cbsradio.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120152819id_/http%3A//www.cbsradio.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # CBS RADIO - Home
 
