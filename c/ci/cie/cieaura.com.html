@@ -1,20 +1,456 @@
-<!--The following is the downloaded HTML source of the cieaura.com privacy policy that was archived on 2010-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100511190345id_/http%3A//www.cieaura.com/privacyPolicy.html%3Fheight%3D400%26width%3D540) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cieaura.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120235537id_/http%3A//cieaura.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<html><head></head><body><h2>CieAura Privacy Policy</h2>
-<p>CieAura is committed to protecting our Customer or Retailers’s privacy and the privacy of all Retailers prospects. </p>
-<p>All of CieAura’ Customer and Retailers information is completely confidential and fully protected against unauthorized access. CieAura
-will NEVER sell, rent, lease, trade or give away CieAura Customer or Retailers’s or their lead’s or prospect’s contact information 
-(name, email address, mailing address, phone number, etc.) </p>
-<p>CieAura, LLC. uses the information that you provide and that is collected solely for the purposes of delivering service, verifying your account, 
-for corresponding with you, for resolving problems that you encounter, and for improving the Service.</p>
-<p>Any financial data collected is used solely for billing the Customer or Retailers for products and services. All orders are processed using SSL 
-technology via secure server. All customer contact information including credit card number and name and address is guarded with the utmost security and d
-iscretion.</p>
-<p>Social Security Numbers, Federal Tax ID Numbers and other Government ID Numbers are collected for the sole purpose of generating Customer or Retailers 
-commission checks and meeting federal tax requirements of United States or other governments. CieAura, LLC. uses secure technology, privacy protection controls, 
-and restrictions on employee access in order to safeguard your personal information. And has put in place extensive security measures to protect the loss, misuse, 
-alteration and/or theft of the information under our control. </p>
-<p>Please direct any questions you have regarding CieAura to: <a href="mailto:retailersupport@cieAura.com">retailersupport@cieAura.com</a>
-</p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
+<meta http-equiv="Content-Script-Type" content="text/javascript"> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="index, follow">
+<title>CieAura Privacy Policy | cieaura.com/privacy-policy.html</title>
+<meta name="description" content="CieAura corporate offices in California, Nevada and Georgia.">
+<meta name="keywords" content=" CieAura, Holographic Chip, Natural Pain Management, Better Sleep, Increased Energy and Performance, Rest Quiet, Pure Relief, Pure Energy, Ken Rasner, Direct Sales, Marketing, Opportunity, Corporate">
+<meta name="author" content="TG Studios">
+<!-- ////////////////////////////////// -->
+<!-- //      Start Stylesheets       // -->
+<!-- ////////////////////////////////// -->
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="css/inner.css" rel="stylesheet" type="text/css">
+<!-- ////////////////////////////////// -->
+<!-- //      Javascript Files        // -->
+<!-- ////////////////////////////////// -->
+<script type="text/javascript" src="js/global.js"></script>
+<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript" src="js/jcarousellite_1.0.1c4.js"></script>
+<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="js/easySlider1.5.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/swfobject2.js"></script>
+<script type="text/javascript">
+var flashvars = {};
+flashvars.xml = "config.xml";
+flashvars.font = "font.swf";
+var attributes = {};
+attributes.wmode = "transparent";
+attributes.id = "slidercuser";
+swfobject.embedSWF("cu3er.swf", "cu3er_container", "940", "300", "9", "expressInstall.swf", flashvars, attributes);
+</script><style type="text/css" media="screen">#cu3er_container {visibility:hidden}#cu3er_container {visibility:visible}</style>
+
+<script type="text/javascript">
+// initialise plugins
+jQuery(function(){
+jQuery('ul.sf-menu').superfish();
+});
+</script>
+
+<script type="text/javascript">
+	var $ = jQuery.noConflict();
+	$(document).ready(function() {	
+		
+		/* for sideright slideshow */
+	 	$('#boxslideshow').cycle({
+		timeout: 6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx:      'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...            
+		pause:   0,	  // true to enable "pause on hover"
+		pauseOnPagerHover: 0 // true to pause when hovering over pager link
+		});
+		
+		$(".tab_content").hide(); //Hide all content
+		$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+		$(".tab_content:first").show(); //Show first tab content
+		//On Click Event
+		$("ul.tabs li").click(function() {
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(900); //Fade in the active content
+
+		});
+
+	});	
+</script>
+
+<!-- FLAG -->
+<script type="text/javascript">
+$(document).ready(function() {
+$(".dropdown img.flag").addClass("flagvisibility");
+
+$(".dropdown dt a").click(function() {
+$(".dropdown dd ul").toggle();
+});
+                        
+$(".dropdown dd ul li a").click(function() {
+var text = $(this).html();
+$(".dropdown dt a span").html(text);
+$(".dropdown dd ul").hide();
+});
+                        
+function getSelectedValue(id) {
+return $("#" + id).find("dt a span.value").html();
+}
+
+$(document).bind('click', function(e) {
+var $clicked = $(e.target);
+if (! $clicked.parents().hasClass("dropdown"))
+$(".dropdown dd ul").hide();
+});
+$(".dropdown img.flag").toggleClass("flagvisibility");
+});
+</script>
+<script type="text/javascript" src="js/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+<script src="js/Tahoma_400-Tahoma_700.font.js" type="text/javascript"></script>
+<script type="text/javascript">
+Cufon.replace('h1') ('h2') ('h3') ('h4') ('h5') ('h6') 
+</script>
+
+<!--[if IE 6]>
+<script src="js/DD_belatedPNG.js"></script>
+<script>
+  DD_belatedPNG.fix('img');
+</script>
+<![endif]--> 
+</head>
+<body>
+	
+<div id="container">
+<div id="centercolumn">
+		
+<!-- BEGIN HEADER -->
+<div id="header">
+<div id="topnew">
+<div id="logo"><a href="index.html"><img src="http://servera.cieaura.com/images/cieaura_lgo_blw.gif" alt=""></a></div><!-- end of #logo -->
+<div id="topcontact"><div class="clear"></div>
+<a href="virtual-office.html">Virtual Office Login</a> | <a href="http://cieaura.helpserve.com/index.php" target="_blank">Customer Support</a><br><br>
+	<br><div class="clear2"></div>
+	<img src="http://cieaura.com/images/flags/um.png" border="0" alt="Select Language"> <a class="hdrlnk" href="#" title="Select Language" onclick="toggleMarkets('marketTogglerDiv'); return false;">Select Language</a>
+	
+</div><!-- end of #topcontact -->
+</div><!-- end of #top -->
+
+<div id="topnavigation" style="z-index:1;position: relative;">
+<div id="navigation">
+<ul id="nav" class="sf-menu sf-js-enabled">
+<li class="noborder active"><a href="index.html">HOME</a></li>
+
+<li class=""><a href="products-splash.html">PRODUCTS</a>
+<ul style="display: none; visibility: hidden;">
+<li><a href="cx2plus-splash.html">CX2 PLUS</a></li>
+<li><a href="cieaura-tea-splash.html">PREMIUM HERBAL TEAS</a></li>
+<li><a href="cx2-splash.html">CX2</a></li>
+<li><a href="sinus-allergy-relief.html">SINUS ALLERGY RELIEF</a></li>
+<li><a href="emf-splash.html">EMF</a></li>
+<li><a href="pure-energy-plus.html">PURE ENERGY PLUS</a></li>
+<li><a href="pure-relief.html">PURE RELIEF</a></li>
+<li><a href="rest-quiet.html">REST QUIET</a></li>
+<li><a href="placement.html">PLACEMENT</a></li>
+<li><a href="faq_main.html">FAQ</a></li>
+</ul>
+</li>
+
+<li class=""><a href="corporate-offices.html">COMPANY</a>
+<ul style="display: none; visibility: hidden;">
+<li><a href="corporate-offices.html">CORPORATE OFFICES</a></li>
+<li><a href="management-team.html">MANAGEMENT TEAM</a></li>
+<li><a href="malaya-house.html">MALAYA HOUSE</a></li>
+</ul>
+</li>
+
+<li class=""><a href="advisory-board.html">ADVISORS</a>
+<ul style="display: none; visibility: hidden;">
+<li><a href="advisory-board.html">ADVISORY BOARD</a></li>
+<li><a href="medical-board.html">MEDICAL BOARD</a></li>
+<li><a href="presidential-advisory-council.html">PRESIDENTIAL ADVISORY COUNCIL</a></li></ul>
+</li>
+
+<li class=""><a href="opportunity-splash.html">OPPORTUNITY</a>
+<ul style="display: none; visibility: hidden;">
+<li><a href="why-cieaura.html">WHY CIEAURA</a></li>
+<li><a href="get-started.html">GET STARTED</a></li>
+<li><a href="compensation-plan.html">COMPENSATION PLAN</a></li>
+<li><a href="events.html">EVENTS</a></li>
+<li><a href="eventgallery.html">EVENT GALLERY</a></li>
+<li><a href="success-stories.html">SUCCESS STORIES</a></li>
+</ul>
+</li>   
+
+<li class=""><a href="testimonials.html">TESTIMONIALS</a>
+<ul style="display: none; visibility: hidden;">
+<li><a href="video.html">VIDEO</a></li>
+</ul>
+</li>
+<li class=""><a href="science-splash.html">SCIENCE</a>
+<ul style="display: none; visibility: hidden;">
+<li><a href="science_main.html">RESEARCH &amp; SCIENCE</a></li>
+</ul>
+</li>
+
+</ul></div><!-- end of #navigation -->
+</div><!-- end of #topnavigation -->
+</div><!-- end of #header -->
+<!-- END HEADER -->
+			
+<!-- BEGIN CONTENT -->
+<!-- start market selection-->
+<div class="marketselect_container" style="display:none" id="marketTogglerDiv">
+	<div class="flagselect">
+		<div id="marketselect_close" onclick="javascript:toggleMarkets('marketTogglerDiv');">
+		<span>Select Language</span>
+	</div>
+	<ul>
+		<li class="flagCol1"><a href="index.html" class="us">United States</a></li>
+		<li class="flagCol1"><a href="index_sp.html" class="es">Spain (Español)</a></li>
+		<li class="flagCol2 column2top"><a href="index_tk.html" class="tr">Turkey (Türk)</a></li>
+		<li class="flagCol2"><a href="index_ru.html" class="ru">Russia (Русский)</a></li>
+		<li class="flagCol3 column3top"><a href="index_cs.html" class="cs">Chinese (简体中文)</a></li>		
+		<li class="flagCol3"><a href="index.html" class="ro">Romania (Coming Soon)</a></li>
+				
+	</ul>
+		<div class="clear"></div>
+	</div>
+		<div class="clear"></div></div>
+<div id="content">
+<div id="contentleft">
+<div id="maintext">
+<h1><cufon class="cufon cufon-canvas" alt="CieAura, " style="width: 81px; height: 20px;"><canvas width="125" height="25" style="width: 125px; height: 25px; top: -5px; left: -12px;"></canvas><cufontext>CieAura, </cufontext></cufon><cufon class="cufon cufon-canvas" alt="LLC " style="width: 39px; height: 20px;"><canvas width="83" height="25" style="width: 83px; height: 25px; top: -5px; left: -12px;"></canvas><cufontext>LLC </cufontext></cufon><cufon class="cufon cufon-canvas" alt="WEBSITE " style="width: 90px; height: 20px;"><canvas width="134" height="25" style="width: 134px; height: 25px; top: -5px; left: -12px;"></canvas><cufontext>WEBSITE </cufontext></cufon><cufon class="cufon cufon-canvas" alt="PRIVACY " style="width: 85px; height: 20px;"><canvas width="129" height="25" style="width: 129px; height: 25px; top: -5px; left: -12px;"></canvas><cufontext>PRIVACY </cufontext></cufon><cufon class="cufon cufon-canvas" alt="POLICY" style="width: 67px; height: 20px;"><canvas width="106" height="25" style="width: 106px; height: 25px; top: -5px; left: -12px;"></canvas><cufontext>POLICY</cufontext></cufon></h1>
+<p><b>A.&nbsp;&nbsp;&nbsp; PRIVACY POLICY</b></p>
+<p>Thank you for visiting the Website. We are committed to maintaining the 
+privacy and security of your personally identifiable information as you visit 
+the Website. This Privacy Policy explains our commitment to protect 
+the personally identifiable information we collect, use, or disclose through the 
+Website (this “<b>Privacy Policy</b>”). Please carefully read this Privacy 
+Policy.</p>
+<p><b>By visiting our website you are accepting and consenting to the practices 
+described in this Privacy Notice.</b></p>
+<p><b>Overview<br>
+</b>Any communication or material you provide to us, whether received online, 
+electronically, otherwise collected by or submitted to us, including any data, 
+questions, comments, suggestions or the like is, and will be treated as, 
+non-confidential and non-proprietary. Anything you transmit or post becomes our 
+property and may be used for any purpose, including, but not limited to, 
+reproduction, disclosure, transmission, publication, market, research, 
+development of prospect lists, project planning, broadcast, posting and 
+marketing, among other things.</p>
+<p><b>Information We Collect<br>
+</b>Throughout the Website, you may voluntarily submit information that 
+personally identifies you (the “<b>Personally Identifiable Information</b>”). 
+For example, we may ask you to voluntarily submit Personally Identifiable 
+Information, if you request information regarding our products and services, or 
+request access to certain parts of the Website. Personally Identifiable 
+Information includes, but is not limited to, your (a) name, (b) physical 
+address, (c) phone number, (d) fax number, (e) e-mail address, (f) engine type 
+and value, (g) viewing preferences, and/or (h) product interests and comments. 
+We may maintain a record of this information.</p>
+<p>At some sections of the Website, only persons who provide us with the 
+requested information will be able to obtain information or otherwise 
+participate in the Website’s activities, services, and offerings.</p>
+<p>To help us tailor the Website to the needs and interests of our visitors, we 
+may collect various types of information from you that do not identify you 
+personally such as the products you purchase, the services you use, the 
+frequency of such purchase and uses, the type of browser you are using (e.g., 
+Firefox, Internet Explorer), the type of operating system you are using (e.g., 
+Windows XP or Mac OS X), the domain name of your Internet service provider 
+(e.g., Comcast, Earthlink), the length of time you spend on the Website, which 
+pages you visited within the Website, which site you visited before coming to 
+ours, and which site you accessed when you left the Website (collectively, “<b>Non-Personally 
+Identifiable Information</b>”). “Collected Information” means Personally 
+Identifiable Information and Non-Personally Identifiable Information 
+collectively.</p>
+<p><b>How We Use the Information We Collect<br>
+</b>We may use the Personally Identifiable Information (a) to protect and defend 
+our rights or properties, (b) to protect your personal safety and the personal 
+safety of our users and the public in general (whether in emergency situations 
+or otherwise), (c) to provide to third parties to maintain and/or operate the 
+Website, (d) to give to our business partners that provide services selected by 
+you, (e) to fulfill your requests and product or Service orders, (f) to provide 
+you with information on products, specials, newsletters, and other services we 
+provide, (g) for marketing research, (h) to enforce the terms and conditions of 
+this Privacy Policy or the Terms of Use, (i) if you are a consultant with the 
+Company, to enforce the terms of your Retailer Agreement and the Policies and 
+Procedures and in connection with our business relationship as set forth in such 
+documents, and (j) as otherwise permitted by law.</p>
+<p>We aggregate the Non-Personally Identifiable Information with information 
+collected from other visitors of the Website to track overall visitor traffic 
+patterns. This aggregated information allows us to develop statistics that are 
+helpful to understanding how our visitors use the Website. We use this 
+aggregated information to monitor, maintain, and improve the functionality and 
+content of the Website, making it more responsive to the needs of our visitors. 
+We may also use the Non-Personally Identifiable Information for the enhancement, 
+operation, management or maintenance of the Website, in connection with 
+developing and operating new websites and for historical, statistical, 
+scientific, or other purposes. We reserve the right to use, sell, and assign for 
+any and all purposes all Non-Personally Identifiable Information; and you 
+authorize us to use, sell, and assign, for any and all purposes, all 
+Non-Personally Identifiable Information.</p>
+<p>We may provide the Collected Information to our partners, affiliates, 
+subsidiaries, agents and contractors, to a subsequent operator of the Website, 
+or to a successor-in-interest or a purchaser of our business. We may employ 
+other companies and people to perform tasks on our behalf and need to share your 
+information with them to provide products or services to you. Your use of the 
+Website constitutes your consent to the collection and uses of the Collected 
+Information as described in this Privacy Policy.</p>
+<p>We may disclose Collected Information in response to legal process, for 
+example, in response to a court order or a subpoena. We also may disclose such 
+information in response to a law enforcement agency’s request or where we 
+believe it is necessary to investigate, prevent, or take action regarding 
+suspected illegal activities, suspected fraud, situations involving potential 
+threats to the physical safety of any person, violations of our Terms of Use, or 
+as otherwise required by law.</p>
+<p><b>Security<br>
+</b>We place a priority on protecting your Personally Identifiable Information 
+and take commercially reasonable measures to secure and protect such 
+information. However, we cannot guarantee that any electronic commerce is 
+totally secure. For example, we have no control over the information collected 
+by your Internet service provider or your employer (if the Website is made 
+available to you through your employer or if you send us Personally Identifiable 
+Information through your employer-provided email account), or information that 
+you disclose in a public forum. Any such third party that collects your 
+Personally Identifiable Information may use the information in accordance with 
+its terms and conditions of use (and related privacy policies), which may be 
+different from this Privacy Policy. We are not responsible for any information 
+collected by such third parties and/or how such information is used or 
+maintained. Neither any third party nor we have the authority to make any 
+representations or commitments on behalf of the other.</p>
+<p><b>Cookies<br>
+</b>We reserve the right to place a text file called a “cookie” (or a piece of 
+information transferred to your hard disk for record keeping purposes) or other 
+tracking device in the browser files of your computer. The cookie itself does 
+not contain information that would personally identify you, although it could 
+enable us to relate your use of the Website to information that you have 
+specifically and knowingly provided to the Website. This may enable us to tailor 
+the Website operation to your needs, likes and dislikes. Most browsers 
+automatically accept cookies, but you can adjust yours to notify you of a cookie 
+placement request, refuse certain cookies or decline cookies completely. We may 
+use third parties to serve our advertisements on other websites. In serving our 
+advertisements, these companies may use cookies and other tracking devices to 
+collect certain information about your visits to other websites (such as browser 
+type), IP address, which page was visited, and time of day). This information 
+may be used to evaluate our online advertising campaigns or to tailor promotions 
+and other marketing messages to you. You may elect to refuse cookies. Please 
+refer to your browser Help instructions to learn more about cookies and how to 
+manage their use.</p>
+<p><b>Collection of Information by Third Party Sites<br>
+</b>The Website may contain links to other Internet sites. These other sites may 
+have different privacy policies and this Privacy Policy does not apply to such 
+other sites. We are not responsible for the data policies or procedures or the 
+content of these linked websites.</p>
+<p><b>Unsubscribing and Opting-Out<br>
+</b>If you have opted-in to receive status updates regarding our products or 
+Services, you may opt-out, at any time, from receiving any such status update by 
+selecting the appropriate option on the informational page for such product or 
+service located on the Website.</p>
+<p><b>Access<br>
+</b>We will maintain procedures consistent with applicable law for you to gain 
+access to your Personally Identifiable Information and, when appropriate, 
+correct, change, or delete any such Personally Identifiable Information.</p>
+<p><b>Children’s Policy<br>
+</b>The Website is not intended for use by children. Children under the age of 
+18 are not authorized to use the Website and should not submit any personal 
+information to us. We do not knowingly market to or solicit information from 
+children.</p>
+<p><b>Business Transactions</b><br>
+We reserve the right to transfer any and all information that we collect from 
+visitors, or that we otherwise collect concerning or in connection with the 
+Website, including Collected Information, to a third party in the event of a 
+sale or other transfer of assets or of any portion of our business. In the event 
+we enter a business transition, such as a merger, acquisition by another 
+company, or sale of all or a portion of our assets, your Collected Information 
+may be among the assets transferred.</p>
+<p><b>Changes to the Policy</b><br>
+We may amend this Privacy Policy at any time without specific notice to you. The 
+most recent form of this Privacy Policy will be posted at all times on the 
+Website, and you should review this Privacy Policy each time upon visiting or 
+using the Website. You agree that each time you enter or use the Website, you 
+accept and comply with, and agree to be bound by, this Privacy Policy, as 
+modified.</p>
+<p>If you do not agree to any provision of this Privacy Policy, or to any 
+modification to this policy, please do not use the Website.</p>
+<p><b>Questions, Comments, or Complaints Regarding this Privacy Policy</b><br>
+If you are aware of any violations of this Privacy Policy or if you have any 
+questions or comments regarding this Privacy Policy, please contact us at 7251 
+West Lake Mead Boulevard, Suite 300 Las Vegas, NV 89128.</p>
+<p>By using the Website you acknowledge acceptance of this Privacy Policy in 
+effect at the time of use. This Privacy Policy was last revised on September 21, 
+2010.<br>
+<br>
+Copyright © 2010 CieAura, LLC. All rights reserved.</p>
+
+<p align="center"><strong>&nbsp;<br>
+
+</strong></p>
+
+
+</div><!-- end of #maintext -->
+</div><!-- end of #contentleft -->
+<div id="contentright">
+					<div id="sideright">
+<div class="getconnectBox">
+<div class="getconnectBoxHeader"></div>
+<div class="getconnectBoxContents">
+<ul>
+<li><a href="http://cieaura411.com" target="_blank"><img src="images/411.png" alt=""></a></li>
+<li><a href="http://www.cieauraforum.com" target="_blank"><img src="images/forum.png" alt=""></a></li>
+<li><a href="http://www.youtube.com/cieaura" target="_blank"><img src="images/youtube.png" alt=""></a></li>
+<li><a href="http://www.facebook.com/cieaura.llc" target="_blank"><img src="images/facebook.png" alt=""></a></li>
+<li><a href="http://twitter.com/cieaura" target="_blank"><img src="images/twitter.png" alt=""></a></li>
+</ul>
+</div>
+<img src="images/get-connected-footer.jpg" width="270" height="20" alt="&quot;&quot;">
+</div><!-- end of getconnect -->    
+
+                    
+
+<!-- end of box -->
+<form method="post" name="contactme" action="">
+<input type="hidden" name="sendformto" id="sendformto" value="index.html">
+
+   <div class="newsletter">
+   <div align="center" style="padding-top:60px">
+	<p>Name:<input name="name" id="name" type="text" size="20" maxlength="100"><br>
+	Email:<input name="email" id="email" type="text" size="20" maxlength="100"></p>
+  </div>
+  <div align="right" style="margin-right:20px">
+   	<input type="image" border="0" img="" src="http://servera.cieaura.com/images/sign-up.png">
+   </div>
+   </div><!-- end of newsletter --></form>
+
+       					</div><!-- end of #sideright -->
+				</div><!-- end of #contentright -->
+				<div class="clr"></div><!-- clear float -->
+			</div><!-- end of #content -->
+			<!-- END CONTENT -->
+			
+			<!-- BEGIN FOOTER -->
+			<div id="footer">
+				<div id="footleft">
+					<div id="footertext">
+					Copyright 2010, <i>Cie</i>Aura, LLC.  All rights reserved. &nbsp;<a href="privacy-policy.html">Privacy Policy</a>.&nbsp;
+					<a href="terms.html">Terms of Use</a>.&nbsp; <a href="http://www.tgstudios.com" target="_blank">Web Design by TG Studios</a>
+					</div>
+				</div><!-- end of #footleft -->
+				<div id="footright"> <a href="sitemap.html"><img src="http://servera.cieaura.com/images/sitemap.png" alt="" class="imgright"></a>
+				</div><!-- end of #footright -->
+			</div><!-- end of #footer -->
+			<!-- END FOOTER -->
+			
+		</div><!-- end of #centercolumn -->
+	</div><!-- end of #container -->
+	
+	
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-10759170-7");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._initData();
+pageTracker._trackPageview("/privacy-policy.html?sp=&page=privacy-policy.html&startp=index_non.html&startu=");
+</script>
+
+
 </body></html>
