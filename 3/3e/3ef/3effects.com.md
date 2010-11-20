@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3effects.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528113501id_/http%3A//www.3effects.com/cms.php%3Fcmsid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3effects.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192910id_/http%3A//3effects.com/cms.php%3Fcmsid%3D12) for the most accurate reproduction.*
 
-# Online Photo Effects | Photo Frames | Make your Photo Funny
+# فوتو فونيا | Funny Photos | Cool Photo Effects | Photo Frames
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@3effects.com](https://web.archive.org/%22mailto:admin@3effects.com/%22). 
 
@@ -25,7 +25,7 @@ Like many other Web sites, [www.3effects.com](https://web.archive.org/%22http://
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 Google Adsense
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.m5zn.com](https://web.archive.org/%22http://www.m5zn.com/%22) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.m5zn.com](https://web.archive.org/%22http://www.m5zn.com/%22) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) [replica watches](https://web.archive.org/%22http://www.dearwatches.com/%22)may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
   
 [www.3effects.com](https://web.archive.org/%22http://www.m5zn.com/%22) has no access to or control over these cookies that are used by third-party advertisers. 
