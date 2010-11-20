@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the wpbloggerthemes.blogspot.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231083509id_/http%3A//wpbloggerthemes.blogspot.com/2008/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpbloggerthemes.blogspot.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195054id_/http%3A//www.wp2b.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Themes | Blogger Templates | WP Blogger Themes
+# Privacy Policy | Blogger Themes
 
-  
 Privacy Policy for wpbloggerthemes.blogspot.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tmwwtw@yahoo.com.
