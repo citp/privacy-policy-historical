@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326000418id_/http%3A//www.homeserve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185206id_/http%3A//www.homeserve.com/privacy) for the most accurate reproduction.*
 
 # HomeServe - Privacy Policy
 
