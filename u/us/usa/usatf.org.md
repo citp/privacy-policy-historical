@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522212856id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120015755id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
 
 # USATF - Privacy Statement
 
@@ -16,7 +16,7 @@ Sections
 
 
 
-If you feel that we are not abiding by our posted privacy statement, you should first contact Katie Landry, Internet Publishing Coordinator, at Katie.Landry[@usatf.org](mailto:Keith.Lively@usatf.org) or at (317) 713-4672. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Lamont Jones, General Counsel, at [Lamont.Jones@usatf.org](mailto:Lamont.Jones@usatf.org) or at (317) 713-4683.
+If you feel that we are not abiding by our posted privacy statement, you should first contact Katie Landry, Internet Publishing Coordinator, at Katie.Landry or at (317) 713-4672. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Lamont Jones, General Counsel, at Lamont.Jones or at (317) 713-4683.
 
 1\. The Organization Collecting the Information
 
@@ -110,7 +110,7 @@ When our registration forms ask users to enter sensitive information (such as cr
 
 While we use SSL encryption to protect sensitive information online, we also make every reasonable effort to protect users' information off-line. Access to users' information, not only the sensitive information mentioned above, is restricted in our organization. Only those employees who need the information to perform their job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices and are reminded about the importance we place on privacy.
 
-USATF makes every reasonable effort to safeguard sensitive information by regularly reviewing our security standards and practices to protect against unauthorized access. If you have any questions about the security at our website, you can send an e-mail to [Keith.Lively@usatf.org](mailto:Keith.Lively@usatf.org).
+USATF makes every reasonable effort to safeguard sensitive information by regularly reviewing our security standards and practices to protect against unauthorized access. If you have any questions about the security at our website, you can send an e-mail to Katie Landry.
 
 5\. What choices are available to you regarding collection, use, and distribution of the information and how you can correct any inaccuracies in the information.
 
@@ -126,9 +126,9 @@ Correction/Updating Personal Information
 
 If a user's personally identifiable information changes (such as your address, phone, e-mail address, etc.), we will endeavor to provide a way to correct or update that personal data provided to us. This can usually be done at the member profile page (accessed through the members-only area) or by contacting your local Association or the National Office.
 
-For elite athletes, biographies are updated throughout the year, and any inaccuracies may be corrected by notifying Jill Geer, Director of Communications, at [Jill.Geer@usatf.org](mailto:Jill.Geer@usatf.org). Such changes will be reflected in the next release of the athlete biographies.
+For elite athletes, biographies are updated throughout the year, and any inaccuracies may be corrected by notifying Jill Geer, Director of Communications, at Jill.Geer. Such changes will be reflected in the next release of the athlete biographies.
 
-For the website and printed directories, contact information may be corrected/added/removed by contacting Sherry Quack, Association and Member Services Coordinator, at [Sherry.Quack@usatf.org](mailto:Sherry.Quack@usatf.org) or at (317) 713-4685.
+For the website and printed directories, contact information may be corrected/added/removed by contacting Sherry Quack, Association and Member Services Coordinator, at Sherry.Quack or at (317) 713-4685.
 
 Notification of Changes
 
