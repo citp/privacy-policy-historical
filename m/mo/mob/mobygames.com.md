@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213072019id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112735id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
