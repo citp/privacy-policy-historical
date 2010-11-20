@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020821id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193159id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Caller - Breaking News, Opinion, Research, and Entertainment
 
@@ -60,7 +60,8 @@ We use your personally identifiable information for various reasons, including:
 
   * to deliver content that you have requested from the website;
   * to send e-mails that you have requested to receive from THE DC;
-  * to provide you with information about services, products, and features that may be of interest to you; and
+  * to provide you with information about services, products, and features that may be of interest to you.
+  * ****we may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this; and
   * in response to inquiries that you initiate with us about any aspect of the website.
 
 
