@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarlabs.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306183634id_/http%3A//www.calendarlabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlabs.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120131851id_/http%3A//www.calendarlabs.com/privacy.php) for the most accurate reproduction.*
 
 # CalendarLabs Privacy Policy
 
