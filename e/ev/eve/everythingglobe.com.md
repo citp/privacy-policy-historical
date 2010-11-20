@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingglobe.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208191929id_/http%3A//www.everythingglobe.com/c/ppolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingglobe.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192957id_/http%3A//www.everythingglobe.com/c/ppolicy) for the most accurate reproduction.*
 
 # Local classifieds - free online classifieds - sell your classifieds
 
