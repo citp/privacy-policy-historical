@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531090914id_/http%3A//www.clarisonic.com/us/utility/legal-notices.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120210622id_/http%3A//clarisonic.com/utility/legal-notices.php) for the most accurate reproduction.*
 
 # Clarisonic | Legal information and privacy policy
 
@@ -19,10 +19,6 @@ By choosing to enter and submit the requested information when prompted, you are
 #### How we use your information
 
 Any information collected will be used only by Pacific Bioscience Laboratories to improve our products, services and website or to communicate with you in the form of newsletters and notices if you give us permission to do so. Pacific Bioscience Laboratories uses information and/or e-mail addresses for internal purposes only and does not sell, lease or rent information to third parties.
-
-#### Product purchasing
-
-Information we ask you to provide when purchasing or ordering will be only the information necessary to process your purchase or order. When fulfilling an order we will ask for your name, e-mail address, address (for shipping purposes), telephone number and credit card number, type and expiration date (if paying by credit card). We will use this information only for matters related to your order or product registration unless you request otherwise. Your credit card information will be maintained only for a period reasonably necessary to ensure payment has been received.
 
 #### Pacific Bioscience Laboratories and Clarisonic® list memberships
 
