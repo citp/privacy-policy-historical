@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the onestepahead.com privacy policy that was archived on 2010-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622003221id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onestepahead.com privacy policy that was archived on 2010-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120101435id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
 <title>Privacy &amp; Security</title>
+
 
 
 
@@ -12,12 +13,63 @@
 
 
 
+
+
 <script src="/js/utility_javascript.jsp" type="text/javascript"></script>
 <script src="http://content.onestepahead.com/js/jquery_mini.jsp" type="text/javascript"></script>
+<script src="http://content.onestepahead.com/js/jquery_jcarousel_min.jsp" type="text/javascript"></script>
+<script src="http://content.onestepahead.com/js/jquery_countdown_min.jsp" type="text/javascript"></script>
 <link href="http://content.onestepahead.com/css/defaults.css" rel="stylesheet" type="text/css">
 <link href="http://content.onestepahead.com/css/common_styles.css" rel="stylesheet" type="text/css">
 <link href="/css/dynamic_styles.jsp?siteId=117" rel="stylesheet" type="text/css">
-<!-- our IE6 fixes -->
+<link href="http://content.onestepahead.com/css/tango_skin.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript">
+    jQuery(document).ready(function(){
+
+    //	$("ul.subnav").parent().append("&lt;span&gt;&lt;/span&gt;"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
+
+        $("ul.topnav li").hover(function() { //When trigger is clicked...
+
+            //Following events are applied to the subnav itself (moving subnav up and down)
+            $(this).find("ul.subnav").show(); //Drop down the subnav on click
+
+            $(this).hover(function() {
+            }, function(){
+                $(this).find("ul.subnav").hide();//slideUp('fast'); //When the mouse hovers out of the subnav, move it back up
+            });
+
+            //Following events are applied to the trigger (Hover events for the trigger)
+            }).hover(function() {
+                $(this).addClass("subhover"); //On hover over, add class "subhover"
+            }, function(){	//On Hover Out
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"
+        });
+        $("div#contentTopRated ul").addClass("simpleCarousel_1");
+        $("div#contentHighlyRec ul").addClass("simpleCarousel_2");
+        $("div#contentAwardWinning ul").addClass("simpleCarousel_3");
+        $("div#contentTopSellers ul").addClass("simpleCarousel_4");
+        jQuery('.simpleCarousel_1').jcarousel({
+            visible: 3
+        });
+        jQuery('.simpleCarousel_2').jcarousel({
+            visible: 3
+        });
+        jQuery('.simpleCarousel_3').jcarousel({
+            visible: 3
+        });
+        jQuery('.simpleCarousel_4').jcarousel({
+            visible: 3
+        });
+        $("#contentTopRated").hide();
+        $("#contentHighlyRec").hide();
+        $("#contentAwardWinning").hide();
+        $("#contentTopSellers").hide();
+        $(".firstTab").show();
+    });
+    </script>
+    
+    <!-- our IE6 fixes -->
 <!--[if IE]>
 <link rel="stylesheet" href=/css/ie_overrides.css type="text/css" />
 <![endif]-->
@@ -36,6 +88,9 @@
 <script type="text/javascript">
 	var globalIsOSA = true;
 </script>
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'08c572cf-e718-4c7f-9dea-274b87a272c4'});</script>
+
 </head>
 <body id="body_Privacy_Security">
 <div id="avsPopup" style="position:absolute;width:612px; height:360px; border:#000000 1px solid; background-color:#FFFFFF; text-align:left; display:none;">
@@ -62,50 +117,57 @@
 <div id="head_left">
     <div id="head_right">
         <div id="personalization">
-       
-
-           
-            
-                Welcome.
-            
-
-            
-                
-                
-                    &nbsp;<a href="https://www.onestepahead.com/user/login.jsp">Please sign in or register.</a>
-                
-            
-
+            <a href="http://www.onestepahead.com/checkout/basket.jsp" id="basket_image_link"><img src="http://images.onestepahead.com/assets/images/osa/header/shopping-basket.gif" alt="Shopping Basket"></a>
         </div>
+        
+            <div id="head_basket_image">
+            
+            
+                <a href="http://www.onestepahead.com/checkout/basket.jsp"><font size="2px">Basket</font>&nbsp;&nbsp;No Items</a>
+            
+            
+            
+            </div>
+        
+
+
+
+        <div id="head_tabs"></div>
 
         
-        <div id="head_tabs"><a href="http://www.onestepahead.com/home.jsp?siteId=117"><img src="http://images.onestepahead.com/assets/images/osa/header/tabon.gif" alt="BABY AGE 0-3"></a><a href="http://www.onestepahead.com/home.jsp?siteId=118"><img src="http://images.onestepahead.com/assets/images/osa/header/taboff.gif" alt="Leaps and Bounds (Age 3+)"></a><img src="http://images.onestepahead.com/assets/images/osa/header/taboff_right.gif" alt=""></div>
+        <div id="head_tabs_new"><a href="http://www.onestepahead.com/home.jsp?siteId=117"><img src="http://images.onestepahead.com/assets/images/osa/header/tabon_new.gif" alt="BABY AGE 0-3"></a><a href="http://www.onestepahead.com/home.jsp?siteId=118"><img src="http://images.onestepahead.com/assets/images/osa/header/taboff_new.gif" alt="Leaps and Bounds (Age 3+)"></a><a href="http://www.onestepahead.com/content.jsp?pageName=Resource-Center"><img src="http://images.onestepahead.com/assets/images/osa/header/resource-tab.gif" alt=""></a></div>
         
         
+
         <div id="head_content">
-            <div id="head_logo"><div><a href="http://www.onestepahead.com/home.jsp?siteId=117"><img src="http://images.onestepahead.com/assets/images/osa/header/header_logo.gif" alt="One Step Ahead"></a></div><div style="margin-top: -3px; margin-left: 5px; color:#e9f9fe; font-size: 10px;">We test thousands of products, then offer you only the best!</div>
+            <div id="head_logo"><div><a href="http://www.onestepahead.com/home.jsp?siteId=117"><img src="http://images.onestepahead.com/assets/images/osa/header/header_logo_new.gif" alt="One Step Ahead"></a></div><div style="margin-left: 5px; color:#e9f9fe; font-size: 10px;">We test thousands of products, then offer you only the best!</div>
 </div><!-- /head_logo -->
             <div id="head_links">
-                <div id="head_links_envelope"><a onclick="javascript:showhideEmail('head_links'); return false;" href="https://www.onestepahead.com/#"><img src="http://images.onestepahead.com/assets/images/cms/misc/emailsignup/signup/osa_envelope_header.gif" alt="Email Signup"></a></div>
-                <div><a onclick="javascript:showhideEmail('head_links'); return false;" href="https://www.onestepahead.com/#">Email Signup</a> &nbsp;|&nbsp; <a href="https://www.onestepahead.com/user/main.jsp">Your Account</a> &nbsp;|&nbsp; <a href="https://www.onestepahead.com/user/order_status.jsp">Order Status</a> &nbsp;|&nbsp; <a href="http://www.onestepahead.com/custserv/custserv.jsp">Customer Service</a> &nbsp;|&nbsp;
                 
-
-                    
-                    
-                        <span id="basket_link"><a href="http://www.onestepahead.com/checkout/basket.jsp">Basket:&nbsp;No Items</a></span>
-                    
-
-                    
-                    
-
-                
+                <div style="float:right;width:122px;height:18px;margin-left:10px;">
+                    <div id="stealOfTheDay"><a onclick="javascript:pageTracker._trackEvent('OneDayDeal','Click','Header_Click');showHideStealOfTheDay('stealOfTheDay'); return false;" href="http://www.onestepahead.com/#"><img src="http://images.onestepahead.com/assets/images/osa/header/steal-of-the-day.gif" alt="Steal of the Day"></a></div>
                 </div>
+                
+                <div id="head_links_inner" style="float:right;margin-top:2px;">1-800-274-8440 &nbsp;|&nbsp; <a onclick="javascript:showhideEmail('head_links_inner'); return false;" href="https://www.onestepahead.com/#">Email Signup</a> &nbsp;|&nbsp; <a href="https://www.onestepahead.com/user/main.jsp">Your Account</a> &nbsp;|&nbsp; <a href="https://www.onestepahead.com/user/order_status.jsp">Order Status</a> &nbsp;|&nbsp; <a href="http://www.onestepahead.com/custserv/custserv.jsp">Customer Service</a></div>
             </div><!-- /head_links -->
+            <div id="head_personalization">
+                
+                 
+                     Welcome.
+                 
+
+                 
+                     
+                     
+                         &nbsp;<a href="https://www.onestepahead.com/user/login.jsp">Please sign in or register.</a>
+                     
+                 
+            </div>
             <div id="head_search">
 				<form action="http://www.onestepahead.com/" method="get" name="endecaSearchForm" onsubmit="return search(document.endecaSearchForm.endecaKeyword)"><input type="hidden" name="form_state" value="endecaSearchForm"><input type="hidden" name="form_state" value="endecaSearchForm">
 					<table>
-					<tbody><tr><td class="col1"><img src="http://images.onestepahead.com/assets/images/osa/header/header_search.gif" alt="SEARCH"></td>
-					<td class="col2"><input class="alignWithImage" onblur="repopulateDefaultText(this, defaultSearchValue)" onfocus="clearDefaultText(this, defaultSearchValue)" name="endecaKeyword" type="text" value="Keyword or Item #" size="40" maxlength="50"></td>
+					<tbody><tr><td class="col1"></td>
+					<td class="col2"><input class="alignWithImage" onblur="repopulateDefaultText(this, defaultSearchValue)" onfocus="clearDefaultText(this, defaultSearchValue)" name="endecaKeyword" type="text" value="Search Keyword or Item #" size="40" maxlength="50"></td>
 					<td class="col3"><a href="javascript:search(document.endecaSearchForm.endecaKeyword)"><img src="http://images.onestepahead.com/assets/images/osa/header/header_go.gif" alt="GO"></a></td>
 					</tr></tbody></table>
     			</form>
@@ -127,275 +189,132 @@
 
 
 
+<div id="top_nav">
+<table id="top_nav_outer">
+<tbody>
+<tr>
+<td>
+	<table id="top_nav_inner">
+	<tbody>
+	<tr>
+	
+		 
+		 
+		 
+             
+              <td><a href="http://www.onestepahead.com/osa/babyclothing.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_apparel.gif" alt="Baby Clothing"></a></td>
 
-<div style="width:768px;position:absolute;z-index:99999">
-    <ul class="topnav">
-        <li><div><img src="http://images.onestepahead.com/assets/images/topnav/tnav_shim.gif"></div></li>
-    
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
+		 
+		 
+		 
+             
+              <td><a href="http://www.onestepahead.com/osa/bathandhealth.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_bath_health.gif" alt="Bath &amp; Health"></a></td>
 
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/babyclothing.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_apparel.gif" alt="Baby Clothing"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/babyclothing.html">Baby Clothing Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117271&amp;N=117271">Sun Smarties Apparel</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117434&amp;N=117434">Sun Smarties Gear</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117295&amp;N=117295">Preemie</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=86181&amp;N=86181">Sleepwear</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=86179&amp;N=86179">Footwear</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=86183&amp;N=86183">Accessories</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117279&amp;N=117279">Cozy Cub Collection</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=86180&amp;N=86180">Winter Apparel</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=97179&amp;N=97179">Costumes</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/feeding.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_feeding.gif" alt="Feeding"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/bathandhealth.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_bath_health.gif" alt="Bath &amp; Health"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/bathandhealth.html">Bath and Health Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85180&amp;categoryId=85201&amp;N=85201">Bath</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85180&amp;categoryId=85200&amp;N=85200">Baby Health</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85180&amp;categoryId=117491&amp;N=117491">Oral Care</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85180&amp;categoryId=117216&amp;N=117216">Diapering Essentials</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85180&amp;categoryId=86184&amp;N=86184">Potty Training</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/nursery.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_nursery.gif" alt="Nursery"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/feeding.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_feeding.gif" alt="Feeding"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/feeding.html">Feeding Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85181&amp;categoryId=85208&amp;N=85208">Breast Feeding</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85181&amp;categoryId=85207&amp;N=85207">Bottle Feeding</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85181&amp;categoryId=85206&amp;N=85206">Solid Feeding</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85181&amp;categoryId=85205&amp;N=85205">High Chairs &amp; Booster Seats</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85181&amp;categoryId=85203&amp;N=85203">Bibs &amp; Mats</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/safety.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_safety.gif" alt="Safety"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/nursery.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_nursery.gif" alt="Nursery"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/nursery.html">Nursery Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85182&amp;categoryId=85214&amp;N=85214">Bedding</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85182&amp;categoryId=85213&amp;N=85213">Furniture</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85182&amp;categoryId=85212&amp;N=85212">Nursery Décor &amp; Comforts</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85182&amp;categoryId=85209&amp;N=85209">Diapering Essentials</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85182&amp;categoryId=85211&amp;N=85211">Monitors</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85182&amp;categoryId=117223&amp;N=117223">Just For Mom</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/travelandgear.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_travel_gear.gif" alt="Travel &amp; Gear"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/safety.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_safety.gif" alt="Safety"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/safety.html">Safety Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85183&amp;categoryId=85217&amp;N=85217">Gates</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85183&amp;categoryId=85216&amp;N=85216">Childproofing The Home</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85183&amp;categoryId=117242&amp;N=117242">Family Safety</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85183&amp;categoryId=85215&amp;N=85215">Outdoor Safety</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/toys.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_toys.gif" alt="Toys"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/travelandgear.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_travel_gear.gif" alt="Travel &amp; Gear"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/travelandgear.html">Travel and Gear Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85184&amp;categoryId=85223&amp;N=85223">Bouncers, Swings, Playyards</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85184&amp;categoryId=85222&amp;N=85222">Diaper Bags</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85184&amp;categoryId=85221&amp;N=85221">Carriers &amp; Backpacks</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85184&amp;categoryId=85220&amp;N=85220">Car Seats</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85184&amp;categoryId=85219&amp;N=85219">Strollers</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85184&amp;categoryId=85218&amp;N=85218">Travel Solutions</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/holiday.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_holiday.gif" alt="Holiday"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/toys.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_toys.gif" alt="Toys"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/toys.html">Toy Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85231&amp;N=85231">Educational Toys</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117221&amp;N=117221">Outdoor Toys</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85227&amp;N=85227">Ride-On Toys</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85230&amp;N=85230">Books &amp; Media</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85226&amp;N=85226">Crib, Stroller &amp; Car Seat Toys</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85224&amp;N=85224">Bouncers, Swings, Playyards</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117471&amp;N=117471">Energy Busters</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/seasonal.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_seasonal.gif" alt="Seasonal"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
+		 
              
-                  <li><a href="http://www.onestepahead.com/osa/seasonal.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_seasonal_icon.gif" alt="Seasonal"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/seasonal.html">Seasonal Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=100182&amp;N=100182">Warm Weather</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=100181&amp;N=100181">Cold Weather</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
+              <td><a href="http://www.onestepahead.com/osa/sale.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_sale.gif" alt="SALE"></a></td>
 
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
+		 
+	
+		 
+			  <td><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></td>
 		 
 		 
-             
-                  <li><a href="http://www.onestepahead.com/osa/sale.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_sale.gif" alt="SALE"></a>
-             
-             <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/sale.html">Sale Favorites</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85187&amp;categoryId=85240&amp;N=85240">Sale</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85187&amp;categoryId=117210&amp;N=117210">Clearance</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85187&amp;categoryId=106179&amp;N=106179">Weekly Specials</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85187&amp;categoryId=117389&amp;N=117389">Summer Sale</a></li>
-                  
-              </ul>
-             
-             </li>
-         
-    
-
-        
-                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
-        
-		 
-                 <li><a href="javascript:redirectPage('/registry/registry_home.jsp', true)"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_gift_registry.gif" alt="Gift Registry"></a>
-                
-             </li>
-         
-		 
-    
-
-        
+			  <td><a href="javascript:redirectPage('/registry/registry_home.jsp', true)"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_gift_registry.gif" alt="Gift Registry"></a></td>
 		 
 		 
-    
-    </ul>
+	
+		 
+		 
+		 
+	
+	</tr>
+	</tbody>
+	</table>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 
 
@@ -416,7 +335,7 @@
 <div id="emailSignUpHeader">
 	<div id="emailSignUpHeaderInner">
          <p>Sign-up for news, offers and exclusive promotions</p>
-         <a id="emClose" href="javascript:showhideEmail('head_links');">Close</a>
+         <a id="emClose" href="javascript:showhideEmail('head_links_inner');">Close</a>
 		 <br><!-- use to clear floats -->
          <form name="headerEmailForm" method="post" onsubmit="return emailSignUpSubmitHeader()" action="">
              <input type="text" name="emailAddress" onblur="repopulateEmailHeader()" onfocus="clearEmailHeader()" value="Enter Your E-mail Address" class="alignWithImage"><a href="javascript:emailSignUpSubmitHeader();"><img id="footGo" src="http://images.onestepahead.com/assets/images/osa/header/email_go.gif" alt="GO"></a><br>
@@ -425,6 +344,68 @@
 
     </div>
 </div>
+
+<div id="stealOfTheDayPopup"><style>
+a#close {
+display:block;
+height:24px;
+left:314px;
+position:absolute;
+top:23px;
+width:24px;
+}
+#dealImage {
+float: left; margin-top: 10px; width:88px; height:88px;
+}
+#dealInfo {
+float: left; margin-top: 20px; margin-left: 16px; width: 200px;  font-family: arial; font-size: 13px;
+}
+#dealPrice {
+font-size: 18px; font-weight: bold; color: rgb(155, 20, 33); margin:0; padding:0;
+}
+#dealWas{
+text-decoration: line-through; margin:0; padding:0;
+}
+#dealItem{
+margin-top:4px; width: 180px; font-weight:bold; padding:0;
+}
+.dealCopy  {font-family:Verdana; font-size:12px; font-weight:500; margin-top:8px; padding:0;
+}
+#dealButton{
+float: right;
+}
+</style>
+
+<div style="margin: 25px 16px 10px; width: 333px; height: 132px; text-align: left;">
+    <div style="margin-left: 10px; margin-top: 10px;">
+        <div id="dealImage"><img src="http://content.onestepahead.com/assets/images/product/thumbnail/13659.gif" alt="Deluxe Peek 'n Play Ball Pit"></div>
+        <div id="dealInfo">
+            <span id="dealPrice"> Now: $29.95</span><br>
+            <span id="dealWas">Was: $59.95</span> (50% OFF!)<br>
+            <div id="dealItem">Deluxe Peek 'n Play Ball Pit</div>
+        </div>
+    </div><br>
+    <div style="margin-left: 10px; margin-top: 5px; margin-right: 17px;">
+        <div style="float: left;">
+    		<p class="dealCopy">Find a new deal every day!</p>
+    </div>
+    <div id="dealButton"><a href="/catalog/product.jsp?productId=534236" onclick="javascript:pageTracker._trackEvent('OneDayDeal','Click','Shop Now');"><img alt="shop now" src="http://content.onestepahead.com/assets/images/osa/header/deal-shopnow.gif"></a></div>
+</div>
+</div>
+    <style>
+    a#close {
+    display:block;
+    height:24px;
+    left:314px;
+    position:absolute;
+    top:23px;
+    width:24px;
+    }
+    </style>
+    <a onclick="javascript:showHideStealOfTheDay('stealOfTheDay')" href="#" id="close"></a>
+    
+</div>
+
 
 
     <div id="body_height_shim">
@@ -474,6 +455,9 @@ width:120px;
 <li><a id="Site_Map" href="/custserv/sitemap.jsp">Site Map</a></li>
 <li>
 <a id="Recall" href="/custserv/custserv.jsp?pageName=Recall">Recall</a>
+</li>
+<li>
+<a id="Product_Registration" href="/custserv/cpsc_registration.jsp">Product Registration</a>
 </li>
 </ul>
 
@@ -609,34 +593,40 @@ p.inBetween_Space {
                 <div id="foot_ul_center" class="foot_ul_cntr">
                     <ul>
                         <li class="graphicHeader"><img src="http://images.onestepahead.com/assets/images/cms/osa/foot/foot_gift_center.gif" alt="Gift Center"></li>
-                        <li class="doubleArrow"><a href="/osa/giftcenter.html">Ideas</a></li>
-<li class="doubleArrow"><a href="/catalog/gift_certificate_landing.jsp">Gift Cards</a></li>
-<li class="doubleArrow"><a href="/registry/registry_home.jsp"><strong>Registry</strong></a></li>
+                        <li class="doubleArrow"><a href="http://www.onestepahead.com/osa/giftcenter.html">Ideas</a></li>
+                        <li class="doubleArrow"><a href="http://www.onestepahead.com/catalog/gift_certificate_landing.jsp">Gift Cards</a></li>
+                        <li class="doubleArrow"><a href="http://www.onestepahead.com/registry/registry_home.jsp"><strong>Registry</strong></a></li>
                     </ul>
                 </div><!-- /foot_ul_center -->
                 <div id="foot_ul_center2" class="foot_ul_cntr">
                     <ul>
                         <li class="graphicHeader"><img src="http://images.onestepahead.com/assets/images/cms/osa/foot/foot_shop_smarter.gif" alt="Shop Smarter"></li>
-                        <li class="doubleArrow"><a href="/custserv/shop_smarter.jsp">Buying guides &amp; parenting tips</a></li>
+                        <li class="doubleArrow"><a href="http://www.onestepahead.com/content.jsp?pageName=Resource-Center">Resource Center</a></li>
+                        <li class="doubleArrow"><a href="http://www.onestepahead.com/custserv/shop_smarter.jsp">Buying guides &amp; parenting tips</a></li>
+                        <li class="doubleArrow"><a href="http://www.onestepahead.com/catalog/great_deals.jsp?categoryId=117552">Great Deals</a></li>
                     </ul>
                 </div><!-- /foot_ul_center -->
                 <div id="foot_ul_right" class="foot_ul_cntr">
                     <img src="http://images.onestepahead.com/assets/images/cms/osa/foot/shop_by_catalog_image.gif" alt="Shop by Catalog" id="shop_by_catalog_img">
                     <ul>
                         <li class="graphicHeader"><img src="http://images.onestepahead.com/assets/images/cms/osa/foot/foot_shop_by_catalog.gif" alt="Shop by Catalog"></li>
+                        <li class="doubleArrow" style="width:122px;"><a href="http://www.onestepahead.com/catalog/ecatalog_view.jsp">Shop our Virtual Catalog</a></li>
+                        <li class="doubleArrow" style="width:122px;"><a href="http://www.onestepahead.com/catalog/request_catalog.jsp?pageName=Request_a_Catalog">Request a Catalog</a></li>
+                        <li class="doubleArrow" style="width:122px;"><a href="http://www.onestepahead.com/catalog/catalog_items_order.jsp"><strong>Catalog Quickshop</strong></a></li>
                         <!-- 122 -->
-<li class="doubleArrow" style="width:122px;"><a href="javascript:redirectPage('/catalog/ecatalog_view.jsp');">Shop our Virtual Catalog</a></li>
-<li class="doubleArrow" style="width:122px;"><a href="javascript:redirectPage('/catalog/request_catalog.jsp?pageName=Request_a_Catalog');">Request a Catalog</a></li>
-<li class="doubleArrow" style="width:122px;"><a href="javascript:redirectPage('/catalog/catalog_items_order.jsp');"><strong>Catalog Quickshop</strong></a></li>
+
 
 <script type="text/javascript">
 if(window.location.href.indexOf(".com/home.jsp") !=-1){
         var contentFootTag = document.getElementById("cntr_foot");
-        contentFootTag.style.marginTop = "170px";
+        contentFootTag.style.marginTop = "0px";
 }
 </script>
 
 <style>
+div#content_bottom{
+margin-top: 0px;
+}
 div#content_side{
 position: relative; 
 float: right; 
@@ -647,7 +637,23 @@ margin-left: 535px;
 div#content_bottom{
 margin-top: -13px;
 }
+
+ul.topnav li div{
+    width:15px;
+}
 </style>
+
+
+<script type="text/javascript">
+<!--
+var br_size=2;
+var br_frequency = 30;
+var br_percentage = 10;
+var br_pos_y = -780;
+var br_pos_x = 210;
+//-->
+</script>
+<script type="text/javascript" src="https://eval.bizrate.com/js/survey_25530_1.js"></script>
                     </ul>
                 </div><!-- /foot_ul_right -->
                 <br>
@@ -660,8 +666,8 @@ margin-top: -13px;
         
 
         
-            <div id="subfoot_links">
-        <a href="/custserv/custserv.jsp?pageName=Shipping_Handling">Shipping &amp; Handling</a> &nbsp;|&nbsp; <a href="/custserv/custserv.jsp?pageName=Returns_Exchanges">Returns &amp; Exchanges</a> &nbsp;|&nbsp; <a href="/custserv/custserv.jsp?pageName=Privacy_Security">Privacy &amp; Security</a> &nbsp;|&nbsp; <a href="/custserv/custserv.jsp?pageName=FAQs">FAQs</a> &nbsp;|&nbsp; <a href="/custserv/about_us.jsp">About Us</a> &nbsp;|&nbsp; <a href="/custserv/contact_us.jsp?pageName=Contact_Us">Contact Us</a> &nbsp;|&nbsp; <a href="/custserv/sitemap.jsp">Site Map</a> &nbsp;|&nbsp;<a href="/custserv/custserv.jsp?pageName=Recall">Recall</a>
+            <div id="subfoot_links" style="width: 688px;">
+        <a href="/custserv/custserv.jsp?pageName=Shipping_Handling">Shipping &amp; Handling</a> &nbsp;|&nbsp; <a href="/custserv/custserv.jsp?pageName=Returns_Exchanges">Returns &amp; Exchanges</a> &nbsp;|&nbsp; <a href="/custserv/custserv.jsp?pageName=Privacy_Security">Privacy &amp; Security</a> &nbsp;|&nbsp; <a href="/custserv/custserv.jsp?pageName=FAQs">FAQs</a> &nbsp;|&nbsp; <a href="/custserv/about_us.jsp">About Us</a> &nbsp;|&nbsp; <a href="/custserv/contact_us.jsp?pageName=Contact_Us">Contact Us</a> &nbsp;|&nbsp; <a href="/custserv/sitemap.jsp">Site Map</a> &nbsp;|&nbsp;<a href="/custserv/custserv.jsp?pageName=Recall">Recall</a> &nbsp;|&nbsp;<a href="/custserv/cpsc_registration.jsp">Product Registration</a>
 </div>
             <p>Find thoughtfully selected products at One Step Ahead to help you and your baby...every step of the way!<br>
             Shop Online or Call <span class="nowrap">1-800-274-8440</span> One Step Ahead Baby<br>
@@ -724,30 +730,6 @@ function trim(s) {
 
 	</div><!-- /cntr_foot -->
 </div><!-- /cntr_outer -->
-<script type="text/javascript">
-$(document).ready(function(){
-
-//	$("ul.subnav").parent().append("&lt;span&gt;&lt;/span&gt;"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
-
-	$("ul.topnav li").hover(function() { //When trigger is clicked...
-
-		//Following events are applied to the subnav itself (moving subnav up and down)
-		$(this).find("ul.subnav").show(); //Drop down the subnav on click
-
-		$(this).hover(function() {
-		}, function(){
-			$(this).find("ul.subnav").hide();//slideUp('fast'); //When the mouse hovers out of the subnav, move it back up
-		});
-
-		//Following events are applied to the trigger (Hover events for the trigger)
-		}).hover(function() {
-			$(this).addClass("subhover"); //On hover over, add class "subhover"
-		}, function(){	//On Hover Out
-			$(this).removeClass("subhover"); //On hover out, remove class "subhover"
-	});
-
-});
-</script>
 
 <script type="text/javascript">
     <!--
@@ -764,23 +746,22 @@ $(document).ready(function(){
     //-->
 </script>
 
-    
-        <!-- Google Analytics Tracking-->
-        <script type="text/javascript">
-        <!--
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        //-->
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-        <script type="text/javascript">
-        <!--
-        try {
-        var pageTracker = _gat._getTracker("UA-334855-1");
-        pageTracker._trackPageview();
-        } catch(err) {}
-        //-->
-        </script>
-    
+
+    <!-- Google Analytics Tracking-->
+    <script type="text/javascript">
+    <!--
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    //-->
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    <!--
+    try {
+    var pageTracker = _gat._getTracker("UA-334855-1");
+    pageTracker._trackPageview();
+    } catch(err) {}
+    //-->
+    </script>
 
 
 
