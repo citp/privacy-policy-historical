@@ -1,8 +1,40 @@
-> *The following text is extracted and transformed from the bestjobs.ph privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708085317id_/http%3A//www.bestjobs.ph/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobs.ph privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120014619id_/http%3A//bestjobs.ph/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs Philippines
 
-**PRIVACY POLICY**  
+|  |   |  **Job-seekers**  
+---|---  
+   |    [**Job search**](https://web.archive.org/bt-jobs.htm)  
+  [**Employer search**](https://web.archive.org/bt-employers.htm)  
+  
+  [**Add your resume**](https://web.archive.org/cv-create.htm)  
+  [**Update resume**](https://web.archive.org/cv-login.htm)  
+  [**Remove resume**](https://web.archive.org/cv-remove.htm)  
+  
+  [**Set-up job alert**](https://web.archive.org/bz-new.htm)  
+  [**Modify job alert**](https://web.archive.org/bz-login.htm)  
+  [**Remove job alert**](https://web.archive.org/bz-remove.htm)  
+  
+  
+  |  **Employers**  
+   |    [**New account**](https://web.archive.org/em-register.htm)  
+  [**Employer log-in**](https://web.archive.org/employers/em-login.htm)  
+  [**Control panel**](https://web.archive.org/employers/)  
+  [**Post a job**](https://web.archive.org/employers/of-new.htm)  
+  [**Resume search**](https://web.archive.org/em-cvs.htm)  
+  [**Employer F.A.Q.**](https://web.archive.org/em-faq.htm)  
+  
+  
+  |  **Resources**  
+   |    [**F.A.Q.**](https://web.archive.org/faq.htm)  
+  [**International**](https://web.archive.org/international.htm)  
+  [**Privacy policy**](https://web.archive.org/privacy.htm)  
+  [**Contact us**](https://web.archive.org/contact.htm)  
+  
+  
+| 
+
+| **PRIVACY POLICY**  
 ---  
   
   * **Overview**
@@ -55,9 +87,12 @@ If we ever change this privacy policy, we will post the changes on this page and
 
   *  **Contact**
 
-The **Best Jobs Philippines** website is property of DGnet Ltd., private limited company incorporated in Scotland(UK), number 189977, and with registerd office in 28 Elm Row, Edinburgh EH7 4RR (United Kingdom). If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact us here (click here)](https://web.archive.org/contact.htm). We welcome your comments concerning this privacy policy. If you believe that we have not adhered to this policy, please let us know and we will make reasonable efforts to promptly determine and solve the problem.
+The **Best Jobs Philippines** website is property of DGNET LTD., private limited company incorporated in Scotland(UK), number 189977, and with registerd office in 12 South Bridge, Edinburgh EH1 1DD (United Kingdom). If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact us here (click here)](https://web.archive.org/contact.htm). We welcome your comments concerning this privacy policy. If you believe that we have not adhered to this policy, please let us know and we will make reasonable efforts to promptly determine and solve the problem.
 
 Thank you for using **Best Jobs Philippines**.
 
 
-
+  
+  
+|  |  |   
+---
