@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatroll.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003728id_/http%3A//chatroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatroll.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120155511id_/http%3A//chatroll.com/privacy) for the most accurate reproduction.*
 
-# Chatroll | Privacy Policy
+# Chatroll - Interactive Social Media Marketing
 
 ### This Privacy Policy was updated and is effective on: Dec 18th, 2007.
 
