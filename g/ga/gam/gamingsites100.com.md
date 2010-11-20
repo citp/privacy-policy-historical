@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingsites100.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114164134id_/http%3A//www.gamingsites100.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingsites100.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112120id_/http%3A//www.gamingsites100.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Gaming Sites Top 100 - Toplist | WoW Private Servers | WoW Gold
 
