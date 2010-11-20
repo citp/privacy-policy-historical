@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrmisupercashsystem.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516144747id_/http%3A//www.mrmisupercashsystem.com/index.php%3Fpage_id%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrmisupercashsystem.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190556id_/http%3A//www.mrmisupercashsystem.com/index.php%3Fpage_id%3D25) for the most accurate reproduction.*
 
 # MRMI Super Cash System » Privacy
 
