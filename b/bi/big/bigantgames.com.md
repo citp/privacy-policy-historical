@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigantgames.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612123234id_/http%3A//www.bigantgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigantgames.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120083239id_/http%3A//www.bigantgames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Big Ant Games
 
