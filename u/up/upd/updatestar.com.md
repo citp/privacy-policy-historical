@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updatestar.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208213503id_/http%3A//client.updatestar.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatestar.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112604id_/http%3A//client.updatestar.com/en/privacy) for the most accurate reproduction.*
 
 # UpdateStar - Simplify your software life
 
@@ -48,4 +48,4 @@ UpdateStar reserves the right to update this document from time to time to take 
 
 Your comments regarding this privacy policy are always welcome at UpdateStar. If you are of the opinion that UpdateStar is not adhering to the guidelines set out in this policy, please let us know. We will take your problem into consideration and, where necessary, find a solution.
 
-[Contact us](https://web.archive.org/en/contact/)
+[Contact us](http://client.updatestar.com/en/contact/)
