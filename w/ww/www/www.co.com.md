@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.co.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224195358id_/http%3A//www.co.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.co.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120215024id_/http%3A//co.com/privacy.php) for the most accurate reproduction.*
 
-# www.co.com web links
+# co.com web links
 
 Co.com has a very simple privacy policy — we respect your privacy. Any information collected through our website or contact form is kept strictly confidential. 
 
