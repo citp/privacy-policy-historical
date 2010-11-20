@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylintrucks.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622155921id_/http%3A//www.stylintrucks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylintrucks.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182653id_/http%3A//www.stylintrucks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Stylin' Trucks Privacy Policy
 
