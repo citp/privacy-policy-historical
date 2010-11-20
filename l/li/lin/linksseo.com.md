@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksseo.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522214104id_/http%3A//www.linksseo.com/page.php%3Fname%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksseo.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120155951id_/http%3A//www.linksseo.com/page.php%3Fname%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy :: SEO Links Directory
 
