@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasharesuite.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419070626id_/http%3A//www.mediasharesuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasharesuite.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120101520id_/http%3A//www.mediasharesuite.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Media Share Suite | Online Video, Audio & Photo Sharing Script
 
