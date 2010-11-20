@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watcherswebclubhouse.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308162009id_/http%3A//www.watcherswebclubhouse.com/dating/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watcherswebclubhouse.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120101028id_/http%3A//www.watcherswebclubhouse.com/dating/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
