@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiashines.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106083552id_/http%3A//www.indiashines.com/index.php%3Fop%3Dcontent%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiashines.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195333id_/http%3A//www.indiashines.com/index.php%3Fop%3Dcontent%26type%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy @ Indiashines
 
