@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubi.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516005212id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubi.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192414id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
