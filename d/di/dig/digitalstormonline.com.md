@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511164842id_/http%3A//www.digitalstormonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192226id_/http%3A//www.digitalstormonline.com/privacy.asp) for the most accurate reproduction.*
 
-# Digital Stom Privacy Policy
+# Privacy Policy - Digital Storm
 
 We believe your right to privacy and data security is our high priority.
 
-Digital Storm is a proud member of the Better Business Bureau serving San Jose, California. This statement discloses the privacy guidelines for the entire Digital Storm website.
+This statement discloses the privacy guidelines for the entire Digital Storm website.
 
 For more information about our privacy or information usage guidelines, please contact Digital Storm at sales@digitalstormonline.com. and put "Privacy" in the subject line.
 
@@ -26,4 +26,4 @@ Information regarding you (such as name, address and phone number) or your order
 
 Digital Storm wants to help you keep your personal information secure.
 
-You can request the individual information that Digital Storm has collected about you via the Internet at sales@digitalstormonline.com or dial 1-866-81-STORM ext. 12.
+You can request the individual information that Digital Storm has collected about you via the Internet at sales@digitalstormonline.com or dial 1-866-81-STORM.
