@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disgraced18.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531134707id_/http%3A//disgraced18.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disgraced18.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192844id_/http%3A//www.fuckyoucash.com/privacy/disgraced18) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,7 +20,7 @@ There may be occasions when you will be presented with special offers either fro
 
 The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [**help@ssccustomersupport.com**](mailto:help@ssccustomersupport.com)
+If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [**help@disgraced18.com**](mailto:help@disgraced18.com)
 
 **Security**
 
