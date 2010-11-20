@@ -1,29 +1,111 @@
-> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513211100id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184200id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
 # InboxPays :: Privacy Policy
 
-**Revised 1st Nov 2005**
+What information do we collect?
 
-Information is our business and we understand how important it is to you to know how we deal with your personal information. We hope this statement will answer your questions about our privacy and security precautions.
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
-You browse the InboxPays.com web site anonymously. We do track which pages of our site you visit and note the address of your Internet Service Provider (as all web sites do automatically), but we do not gather any information about you as an individual without your knowledge. The general information we gather automatically enables us to continually improve our site, based on up-to-date usage patterns, and it aids in troubleshooting problems with particular sites and/or browsers. InboxPays.com does not cache your personal information (cookies) for later use.
+Any data we request that is not required will be specified as voluntary or optional.  
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Any information that you provide as you respond to our questions is protected through an implemented firewall. InboxPays.com uses up-to-date technology to help ensure that your information cannot be accessed by anyone outside our physical facility or by non-authorized employees. So you can be confident that your personal information is safely and securely stored.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-During your sign up you may be transferred to the site of one of our Multi-Offer Partners. This site contains a list of additional multiple offers you might be interested in. You can check 'Yes' for any of the offers listed on this site that is of interest to you. We may pre-populate your personally identifiable information on this offer site to make it easier for you to sign up for these offers. All information provided to our Multi-Offer Partners is subject to their own individual privacy policies. The Advertisers listed on the Multi-Offer Partner list do not have access to your personally identifiable information until you agree to accept their offers and submit that information to them. Each of the Advertisers on the Multi-Offer Partner list also has their own privacy policy.
+What do we use your information for? 
 
-If you disagree with the above-published policies you may exit the InboxPays.com web site to discontinue this session. If you have any questions about these policies you may contact us at support@inboxpays.com. By continuing through the InboxPays.com Site, or by participating in any InboxPays.com offers, you implicitly consent to the published policies of InboxPays.com.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**How We Use Cookies on Our Website**
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+  * To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-InboxPays.com uses cookies on our registration and offer forms during the time you are actively completing the forms. These cookies are used for technical purposes to allow for accurate transmission of information to the InboxPays.com database.
 
-InboxPays.com also uses cookies on the member area of the site to store user name automatically and password (optionally) so that the user does not have to repeatedly retype the information. For users' convenience, this cookie is stored for subsequent sessions. Member area cookies are also used to identify valid members in order to protect access to their specific member information (such as rewards account information) and to personalize their experience on the site. The web server also creates cookies to uniquely identify each user session when a member visits the site. This latter cookie is automatically deleted at the end of a session.
 
-No personal identifying information is stored on any cookie nor do we retain any cookied information on our databases.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Cookies are used to identify valid members in order to protect access to their specific member information and to personalize their member experience. Therefore, users who choose not to allow cookies cannot register nor can they access the member area of the InboxPays.com website with its associated member benefits.
+  * To administer a contest, promotion, survey or other site feature
 
-**California User Consumer Rights.**
 
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
+
+How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request.
+
+These security measures include: password protected directories and databases to safeguard your information or SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+California Online Privacy Protection Act Compliance 
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into inboxpays.com and clicking the Member Profile link. <http://www.inboxpays.com/uc?a=myprofile>
+
+Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+CAN-SPAM Compliance
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.inboxpays.com/uc?a=st&pt=terms.](http://www.inboxpays.com/uc?a=st&pt=terms)
+
+Your Consent
+
+By using our site, you consent to our privacy policy.
+
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on **July 21 2010**
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[www.inboxpays.com](https://web.archive.org/)  
+848 N. Rainbow Blvd.  
+Las Vegas, NV 89107  
+United States  
+Use Ticketing System
+
+Privacy Policy Customer Pledge 
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
+
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the Trust Guard Dispute Resolution form.
+
+Respectfully,
+
+Inbox Pays  
+Inboxpays.com
