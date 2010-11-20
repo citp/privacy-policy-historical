@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615081251id_/http%3A//allwebcodesign.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120214752id_/http%3A//allwebcodesign.com/privacy.htm) for the most accurate reproduction.*
 
 # Allwebco Web Template Privacy Policy
 
@@ -16,8 +16,8 @@ All online transactions through our website are handled with industry-standard S
 |    
 
 
-  * [Included features](https://web.archive.org/web/20100615081251id_/http%3A//allwebcodesign.com/features-home.htm)
-  * [Step by step instructions](http://allwebcodesign.com/templates/tempT20Forest/help.html)
+  * [Included features](https://web.archive.org/web/20101120214752id_/http%3A//allwebcodesign.com/features-home.htm)
+  * [Step by step instructions](http://allwebcodesign.com/templates/tempT20-DLX/help.html)
   * Use any HTML or text editor
   * Works with many [free editors](http://www.allwebco-templates.com/support/S_HTML_software.htm)
   * Javascripts and features built-in
