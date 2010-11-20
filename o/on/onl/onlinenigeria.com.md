@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406005235id_/http%3A//onlinenigeria.com/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120211345id_/http%3A//www.onlinenigeria.com/disclaimer.asp) for the most accurate reproduction.*
 
 # Nigeria - Privacy Policy
 
