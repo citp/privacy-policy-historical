@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617150149id_/http%3A//www.sexetc.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185413id_/http%3A//www.sexetc.org/page/privacy) for the most accurate reproduction.*
 
 # Sex, Etc. -- Privacy Statement
 
