@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavygames.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106170750id_/http%3A//www.heavygames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavygames.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120230608id_/http%3A//www.heavygames.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Information Security Policy - Heavy Games .com
 
@@ -103,8 +103,8 @@ For customer service matters (including questions relating to this Policy), you 
 
 
 
-HeavyGames is a trademark or registered trademark of Hillclimb Media, Inc in the United States and other countries. 
+HeavyGames is a trademark or registered trademark of Demand Media, Inc in the United States and other countries. 
 
-**NOTICE RE COPYRIGHT OWNERSHIP: (c) 2009 Hillclimb Media, Inc. USA. All rights reserved.**  
+**NOTICE RE COPYRIGHT OWNERSHIP: (c) 2010 Demand Media, Inc. USA. All rights reserved.**  
   
 ---
