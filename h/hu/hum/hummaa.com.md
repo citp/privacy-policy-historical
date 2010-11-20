@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hummaa.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415220401id_/http%3A//www.hummaa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hummaa.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190639id_/http%3A//www.hummaa.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Hummaa
 
@@ -7,7 +7,7 @@
 
 ## Privacy policy
 
-**Hummaa Infotainment Pvt Ltd, (EFFECTIVE AS OF JANUARY 1, 2007)**
+**hummaa.com, (EFFECTIVE AS OF JANUARY 1, 2007)**
 
 **PLEASE READ CAREFULLY.**  
 We recognize the importance of protecting your privacy and our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Site. This Privacy Policy will be continuously assessed against new technologies, business practices and our customers' needs. As we update and diversify our services, this Privacy Policy may evolve. Please check this page for updates periodically. We will try to post any changes to this Privacy Policy before they become effective. If we make any material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our Site's home page that you must view to access the Service.
