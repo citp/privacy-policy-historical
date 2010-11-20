@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nufcblog.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522184307id_/http%3A//www.nufcblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nufcblog.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120140932id_/http%3A//www.nufcblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,9 +27,9 @@ Cookies
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. NUFCBLOG cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of NUFCBLOG ’s coolest features. 
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of NUFCBLOG ‘s coolest features. 
 
-NUFCBLOG ’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
+NUFCBLOG ‘s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
 
 Sharing Your Information 
 
@@ -60,5 +60,3 @@ If you decide to visit NUFCBLOG website, your visit and any possible dispute ove
 Effective Date of this Privacy Policy 
 
 This Privacy Policy is effective as of 23rd September, 2008 and last updated 23rd September, 2008.
-
-[](http://twitter.com/home/?status=Privacy+Policy+http://pq7wz.th8.us "Post to Twitter")
