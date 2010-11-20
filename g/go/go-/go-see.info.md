@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-see.info privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529025636id_/http%3A//www.go-see.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-see.info privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184855id_/http%3A//www.go-see.info/privacy.php) for the most accurate reproduction.*
 
 # go-see.info - Article Directory
 
