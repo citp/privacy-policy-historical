@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613182900id_/http%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121142121id_/http%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
 
 # fabric nightclub, london ~ podcast
 
-fabric, trading as fabric591 are are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this privacy policy.
+fabric life ltd Who's registered Office is Momentum House, Lower Road, Waterloo, London, England, SE1 8SJ, Registered company number 07258997, trading as fabric are are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this privacy policy.
 
 We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.
 
@@ -16,10 +16,8 @@ We do not disclose any personal information obtained about you from this website
 
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [info@fabriclondon.com](mailto:info@fabriclondon.com). You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [info@fabriclondon.com](mailto:info@fabriclondon.com) or call 0207 336 8898. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
 
 The short version? Essentially, any information about yourself you give us will only be used by us to make this website a better experience for you. We never pass it on to a third party.
 
 We know it is a little boring, but like all websites these days we need to make sure this legal mumbo jumbo is available for you to read.
-
-Perhaps you could use it as a sleeping aid in the event of chronic insomnia?
