@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ctidirectory.com privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604013330id_/http%3A//www.ctidirectory.com/pages/right_privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ctidirectory.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121235033id_/http%3A//www.ctidirectory.com/pages/right_privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
 <title>Canadian Trade Index Privacy Statement</title>
@@ -19,17 +19,21 @@ h2{
 	font-size:17px;
 	color:#870606;
 }
-</style><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=9623430"></script></head>
+</style></head>
 
 <body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
 <link href="/css/cti_nonad2.css" rel="stylesheet" type="text/css">
+<link href="/pageStyleIE.css" rel="stylesheet" type="text/css">
+<link href="/css/ctilayout.css" rel="stylesheet" type="text/css">
 <script>
+/*
 if (navigator.appName == "Microsoft Internet Explorer"){
 	document.writeln("<link href='/pageStyleIE.css' rel='stylesheet' type='text/css'>");
 }
 else{
 	document.writeln("<link href='/pageStyleNS.css' rel='stylesheet' type='text/css'>");
-}
+}*/
 function sCheck() {
 var form=document.frmSearchData;
 var flag=true;
@@ -67,56 +71,94 @@ var flag=true;
 		return true;
 	}
 }
-</script><link href="/pageStyleNS.css" rel="stylesheet" type="text/css">
 
+var cur_tab = 1;
+function setTypeSerach_H(ind){
+	if(cur_tab == ind) return;
+	document.getElementById("sp_search_1_h").className = (ind == 1)?"sp_search_active_h":"sp_search_normal_h";
+	document.getElementById("sp_search_2_h").className = (ind == 2)?"sp_search_active_h":"sp_search_normal_h";
+	document.getElementById("dv_search_tab_h").className = (ind == 1)?"dv_search_tab1_h":"dv_search_tab2_h";
+	document.getElementById("inp_cr").value = (ind == 1)?"PRODUCT":"COMPANY";
+	cur_tab = ind;
+}
+function onFocusSearch_H(el){
+	el.className='mSearchNoBg_H';
+}
+function onBlureSearch_H(el){
+	if(el.value==null || el.value==''){el.className='mSearchBg_H';}
+	else {el.className='mSearchNoBg_H';}
+}
+
+</script>
 <script type="text/javascript">
 window.google_analytics_uacct = "UA-289104-3";
 </script>
 <div style="background:url(../../images/header_bcg.jpg)">
-<table border="0" height="118" cellspacing="0" cellpadding="0" style="background:url(../../images/header.jpg)">
+
+<table border="0" width="956" height="118" cellspacing="0" cellpadding="0" style="background:url(../../images/header.jpg) no-repeat">
 	<tbody><tr>
-		<td height="118" width="157" rowspan="2">
-        	<a href="/index.cfm"><div style="width:155px; height:116px;cursor:pointer; cursor:hand">&nbsp;</div></a></td>
-		<td height="93" width="453">
-        	<a href="/index.cfm"><div style="width:451px; height:91px;cursor:pointer; cursor:hand">&nbsp;</div></a></td>
-        <td height="118" width="272" rowspan="2" style="background:url(../../images/header_bcg.jpg);padding:5 0 0 0 " valign="top">
-        	<a href="/pages/contact_us/contact_us.cfm" style="font-size:12px;color:#FFFFFF;">Contact Canadian Trade Index</a>
-        	<form name="frmSearchData" method="post" action="/search/search.cfm" style=" margin:10px 0 0 0 ;padding:0px;">
-            <table border="0" width="271" height="47" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <td height="19" width="271" class="fontSearch">
-                        <input type="text" size="25" name="KEYWORD">&nbsp;&nbsp;&nbsp;
-                        <input type="button" value="Search" style="font-family:arial; font-weigth:bold;font-size:12" onclick="sCheck()">
+		<td height="118" width="157" rowspan="3">
+			<a href="/index.cfm"><div style="width:155px; height:116px;cursor:pointer; cursor:hand">&nbsp;</div></a></td>
+		<td height="93" width="453" rowspan="2">
+			<a href="/index.cfm"><div style="width:451px; height:91px;cursor:pointer; cursor:hand">&nbsp;</div></a></td>
+		<td height="22" width="346" align="right" style="padding-right:30px;">
+			<a href="/pages/contact_us/contact_us.cfm" class="header_url">Contact Canadian Trade Index</a> 
+				<span style="color:#ffffff">|</span>
+				<a href="../search/updateCmpNew/update.cfm" class="header_url">Login</a>
+				</td>
+	</tr>
+	<tr>
+		<td height="71" width="346" valign="top">
+			
+        	<form name="frmSearchData" method="post" action="../../search/search.cfm" style="margin:0px; padding:0px;" id="frm_s1">
+            <table border="0" width="321" cellspacing="0" cellpadding="0">
+								<tbody><tr><td height="6"></td></tr>
+                <tr>
+                    <td height="18" colspan="2" class="fontSearch" style="font-size:12px; font-weight:normal;">
+												<input type="hidden" name="CRITERIA" value="PRODUCT" id="inp_cr">
+													<span id="sp_search_1_h" class="sp_search_active_h" onclick="setTypeSerach_H(1)">
+														Product/Service</span>&nbsp;&nbsp;or &nbsp;
+													<span id="sp_search_2_h" class="sp_search_normal_h" onclick="setTypeSerach_H(2)">
+														Company</span>
                     </td>
                 </tr>
                 <tr>
-                    <td height="18" width="271" class="fontSearch">
-                        <input type="radio" checked="" value="PRODUCT" name="CRITERIA" id="ir1"><label for="ir1">&nbsp;Products</label>&nbsp;
-                        <input type="radio" value="COMPANY" name="CRITERIA" id="ir2"><label for="ir2">&nbsp;Companies</label>&nbsp;&nbsp;
-                        <a href="/search/searchindex.cfm" class="fontSearch">Advanced Search</a>
+                    <td width="221" class="fontSearch">
+										
+											<div id="dv_search_tab_h" class="dv_search_tab1_h">
+													<input type="text" class="mSearchBg_H" onfocus="onFocusSearch_H(this)" name="KEYWORD" onblur="onBlureSearch_H(this)" maxlength="40">
+													<div style="width:45px; height:20px; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#510000; padding-top:2px; padding-left:3px; font-weight:normal; cursor:pointer; cursor:hand; float:left" onclick="sCheck()" onmouseover="this.style.color='#a40000'" onmouseout="this.style.color='#510000'">Search</div>
+												</div> 
                     </td>
+										<td width="110" valign="top" style="padding-top:10px;">
+												<a href="../../search/searchindex.cfm" class="header_url" style="font-size:13px;">Advanced Search</a>
+										</td>
                 </tr>
+								
             </tbody></table>
-            </form>
-        </td>
-
+            </form>		
+											
+		</td>
 	</tr>
 	<tr>
-		<td height="25" width="453">
-		<table border="0" width="453" height="15" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td height="15" width="51" align="center" style="border-right:1 solid #ffffff">
-					<a href="/index.cfm" class="fontH">Home</a></td>
-				<td height="15" width="119" align="center" style="border-right:1 solid #ffffff">
-					<a href="/pages/advert_us/advertise_with_us.cfm" class="fontH">Advertise With Us</a></td>
-				<td height="15" width="108" align="center" style="border-right:1 solid #ffffff">
-					<a href="/pages/data_products/data_products.cfm" class="fontH">Data Products</a></td>
-				<td height="15" width="80" align="center" style="border-right:1 solid #ffffff">
-					<a href="/pages/about_us.cfm" class="fontH">About Us</a></td>
-				<td height="15" width="92" align="right">
-					<a href="/pages/careers/careers.cfm" class="fontH">Careers @ CTI</a></td>
-			</tr>
-		</tbody></table>
+		<td height="25" width="799" colspan="2">
+			<table border="0" width="533" height="15" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td height="15" width="51" align="center" style="border-right:1 solid #ffffff">
+						<a href="/index.cfm" class="fontH">Home</a></td>
+					<td height="15" width="119" align="center" style="border-right:1 solid #ffffff">
+						<a href="../../GetListed/adv_with_us.cfm" class="fontH">Advertise With Us</a></td>
+						
+					<td height="15" width="100" align="center" style="border-right:1 solid #ffffff">
+						<a href="../../GetListed/get-listed.cfm" class="fontH">Get Listed</a></td> 
+					<td height="15" width="108" align="center" style="border-right:1 solid #ffffff">
+						<a href="/pages/data_products/data_products.cfm" class="fontH">Data Products</a></td>
+					<td height="15" width="80" align="center" style="border-right:1 solid #ffffff">
+						<a href="/pages/about_us.cfm" class="fontH">About Us</a></td>
+					<td height="15" width="72" align="center">
+						<a href="/pages/why_us.cfm" class="fontH">Why Us</a></td>
+				</tr>
+			</tbody></table>		
 		</td>
 	</tr>
 </tbody></table>
@@ -265,102 +307,86 @@ window.google_analytics_uacct = "UA-289104-3";
     </tr>    
 	<tr>
 		<td><table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#DFE5EB">
-  <tbody><tr>
-    <td colspan="8" bgcolor="#FFFFFF">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="8" bgcolor="White"><img src="/Images/spacer.gif" width="100" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="/pages/advert_us/advertise_with_us.cfm" class="abl1">Advertise With Us</a></td>
-    <td align="center"><a href="/pages/data_products/data_products.cfm" class="abl1">Data Products</a></td>
-    <td align="center"><a href="/pages/about_us.cfm#faq" class="abl1">Free listing</a></td>
-    <td align="center"><a href="/search/searchindex.cfm" class="abl1">Advanced Search</a></td>
-    <td align="center"><a href="/search/info_resources.cfm" class="abl1">Selected Cities</a></td>
-    <td align="center"><a href="/pages/about_us.cfm#faq" class="abl1">FAQ's</a></td>
-    <td align="center"><a href="/pages/about_us.cfm" class="abl1">About Us</a></td>
-    <td align="center"><a href="/pages/contact_us/contact_us.cfm" class="abl1">Contact Us/Careers</a></td>
-    
-  </tr>
-  
-  
+	<tbody><tr><td colspan="9" bgcolor="#FFFFFF">&nbsp;</td></tr>
+	<tr>
+	<td align="center"><a href="../GetListed/adv_with_us.cfm" class="abl1">Advertise With Us</a></td>
+	<td align="center"><a href="/pages/data_products/data_products.cfm" class="abl1">Data Products</a></td>
+	<td align="center"><a href="/GetListed/get-listed.cfm" class="abl1">Free listing</a></td>
+	<td align="center"><a href="/search/searchindex.cfm" class="abl1">Advanced Search</a></td>
+	<td align="center"><a href="/search/info_resources.cfm" class="abl1">Selected Cities</a></td>
+	<td align="center"><a href="/pages/FAQs.cfm" class="abl1">FAQ's</a></td>
+	<td align="center"><a href="/pages/about_us.cfm" class="abl1">About Us</a></td>
+	<td align="center"><a href="/pages/careers/careers.cfm" class="abl1">Careers@CTI</a></td>
+	<td align="center"><a href="http://ctidirectory.tradepub.com" class="abl1">Free Industrial Publications</a></td>
+	</tr>
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#DFE5EB">
-  <tbody><tr>
-    <td bgcolor="White" height="5px"></td>
-  </tr>
-  <tr>
-    <td style="font: bold 11px Arial, Helvetica; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Browse by Company:&nbsp;&nbsp;&nbsp;
-        <a class="abl1" href="/companybrowse/companygroups.cfm?page=1">0-9</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=2">A</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=3">B</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=4">C</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=5">D-E</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=6">F-G</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=7">H-J</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=8">K-L</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=9">M</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=10">N-O</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=11">P</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=12">Q-R</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=13">S</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=14">T-U</a>&nbsp;
-      <a class="abl1" href="/companybrowse/companygroups.cfm?page=15">V-Z</a>&nbsp;
-      </td>
-  </tr>
-  <tr>
-    <td bgcolor="White" height="5px"></td>
-  </tr>  
+	<tbody><tr><td bgcolor="White" height="5px"></td></tr>
+	<tr>
+	<td style="font: bold 11px Arial, Helvetica; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Browse by Company:&nbsp;&nbsp;&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=1">0-9</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=2">A</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=3">B</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=4">C</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=5">D-E</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=6">F-G</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=7">H-J</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=8">K-L</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=9">M</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=10">N-O</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=11">P</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=12">Q-R</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=13">S</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=14">T-U</a>&nbsp;
+	<a class="abl1" href="/companybrowse/companygroups.cfm?page=15">V-Z</a>&nbsp;
+	</td>
+	</tr>
+	<tr>
+	<td bgcolor="White" height="5px"></td>
+	</tr>
 </tbody></table>
-
 	
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#DFE5EB">
-    <tbody><tr>
-      <td colspan="8" bgcolor="White"><img src="/Images/spacer.gif" height="5" border="0" alt=""></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="http://www.owen-media.com" class="abl1"><strong>Related Owen <br>Media Publications</strong></a></td>
-      <td align="center"><a href="http://www.safetyworld.com" class="abl1">Industrial Safety Awareness</a></td>
-      <td align="center"><a href="http://www.macraesbluebook.co.uk" class="abl1">Uk Industrial Directory</a></td>
-      <td align="center"><a href="http://www.solunet-infomex.com" class="abl1">Maquiladora Directory</a></td>
-      <td align="center"><a href="http://www.macraesbluebook.com" class="abl1">Industrial Yellow Pages</a></td>
-      <td align="center"><a href="http://www.profilecanada.com" class="abl1">Canadian Marketing Database</a></td>
-      <td align="center"><a href="http://www.nexport.com" class="abl1">US Marketing Database</a></td>
-	  <td align="center"><a href="http://www.maceuro.com" class="abl1">European Industrial Directory </a></td>
-    </tr>
-  </tbody></table>	
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#DFE5EB">
-  <tbody><tr>
-    <td colspan="2" bgcolor="White" height="6px"></td>
-  </tr>
-  
-    <tr>
-      <td width="50%" align="left">&nbsp;&nbsp;&nbsp;<b>Recommended Sites</b></td>
-      <td width="48%" align="right"><a href="http://www.infobel.com" class="abl1">International Phone Directory</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    </tr>
-  
-  <tr>
-    <td colspan="2" bgcolor="White" height="6px"></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="background:#ffffff;" width="100%" nowrap="nowrap">
-    		<a href="http://www.owen-media.com/"><img border="0" src="../../images/logo-thumb.JPG" width="108" height="35"></a>
-            	&nbsp;&nbsp;© Owen Media Partners Inc. All rights reserved. 
-                	<a class="abl1" href="/pages/right_privacy.cfm">Privacy Statement</a> | 
-                    <a class="abl1" href="/pages/right_terms.cfm">Terms of Use</a> | 
-                    <a class="abl1" href="/pages/right_copy.cfm">Copyright Notices</a>
-                </td>
-  </tr>
+		
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#DFE5EB">
+			<tbody><tr>
+			<td colspan="8" bgcolor="White"><img src="/Images/spacer.gif" height="5" border="0" alt=""></td>
+			</tr>
+			<tr>
+			<td align="center"><a href="http://www.owen-media.com" class="abl1"><strong>Related Owen <br>Media Publications</strong></a></td>
+			<td align="center"><a href="http://www.safetyworld.com" class="abl1">Industrial Safety Awareness</a></td>
+			<td align="center"><a href="http://www.macraesbluebook.co.uk" class="abl1">Uk Industrial Directory</a></td>
+			<td align="center"><a href="http://www.solunet-infomex.com" class="abl1">Maquiladora Directory</a></td>
+			<td align="center"><a href="http://www.macraesbluebook.com" class="abl1">Industrial Yellow Pages</a></td>
+			<td align="center"><a href="http://www.profilecanada.com" class="abl1">Canadian Marketing Database</a></td>
+			<td align="center"><a href="http://www.nexport.com" class="abl1">US Marketing Database</a></td>
+			<td align="center"><a href="http://www.maceuro.com" class="abl1">European Industrial Directory </a></td>
+			</tr>
+		</tbody></table>	
+	
+<table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#DFE5EB">
+	<tbody><tr><td colspan="2" bgcolor="White" height="6px"></td></tr>
+	
+		<tr>
+		<td width="50%" align="left" style="font: bold 11px Arial, Helvetica; color: black;">&nbsp;&nbsp;&nbsp;<b>Recommended Sites</b></td>
+		<td align="right"><a href="http://www.infobel.com" class="abl1">International Phone Directory</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		</tr>
+	
+	<tr><td colspan="2" bgcolor="White" height="6px"></td></tr>
+	<tr>
+	<td colspan="2" style="font-size:11px; background:#FFF;" nowrap="nowrap">
+	<a href="http://www.owen-media.com/"><img border="0" src="../../images/logo-thumb.JPG" width="108" height="35"></a>&nbsp;&nbsp;© Owen Media Partners Inc. All rights reserved.
+	<a class="abl1" href="/pages/right_privacy.cfm">Privacy Statement</a> |
+	<a class="abl1" href="/pages/right_terms.cfm">Terms of Use</a> |
+	<a class="abl1" href="/pages/right_copy.cfm">Copyright Notices</a>
+	</td>
+	</tr>
 </tbody></table>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-289104-3";
-urchinTracker();
+	_uacct = "UA-289104-3";
+	urchinTracker();
 </script>
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "9623430",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 </td>
 	</tr>
 
