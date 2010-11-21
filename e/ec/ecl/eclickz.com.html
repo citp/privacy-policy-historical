@@ -1,212 +1,194 @@
-<!--The following is the downloaded HTML source of the eclickz.com privacy policy that was archived on 2010-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201131318id_/http%3A//www.eclickz.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eclickz.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121030803id_/http%3A//corporate.eclickz.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>eClickZ Privacy Policy</title>
-<meta name="description" value="eClickZ is the leading pay-for-performance marketplace. We are an online marketing solutions provider for advertisers and publishers.">
-<meta name="keywords" value="online advertising, online advertising marketing, advertising online, online advertising revenue, search engine marketing, pay-per-click search engine, affiliate marketing, publisher marketing, online direct marketing, search engine optimization marketing, performance marketing, lead generation, affiliate network">
-<meta name="verify-v1" content="l32FRRihywXKwC1EWo/irPIXKrA8EMkcDtQGzSlaGDQ=">
-<link rel="stylesheet" href="http://www.eclickz.com/css/main.css" type="text/css">
-<link rel="shortcut icon" href="http://www.eclickz.com/img/favicon.ico">
-<script language="javascript" src="http://www.eclickz.com/js/menu.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.eclickz.com/js/imgswitch.js" type="text/javascript"></script>
-<link href="http://www.eclickz.com/css/menu.css" rel="stylesheet" type="text/css">
-<script language="javascript" type="text/javascript" src="http://www.eclickz.com/livehelp/include/javascript.php"></script>
-<script language="javascript" type="text/javascript" src="http://www.eclickz.com/js/script1.js"></script>
-<script type="text/javascript" language="javascript" src="http://www.eclickz.com/js/swfobject.js"></script>
-<script type="text/javascript">
-var flashvars = {};
-var params = {};
-var attributes = {};
-swfobject.embedSWF("http://www.eclickz.com/swf/logo.swf", "logo", "135", "80", "9.0.0", false, flashvars, params, attributes);
-</script>
-<script type="text/javascript" language="javascript" src="http://www.eclickz.com/js/jquery.js"></script>
-<script type="text/javascript" language="javascript">
-$(document).ready(function() {
-$("img#nav1").mouseover(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav1_on.gif");
-}).mouseout(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav1_off.gif");
-});
-$("img#nav2").mouseover(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav2_on.gif");
-}).mouseout(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav2_off.gif");
-});
-$("img#nav3").mouseover(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav3_on.gif");
-}).mouseout(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav3_off.gif");
-});
-$("img#nav4").mouseover(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav4_on.gif");
-}).mouseout(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav4_off.gif");
-});
-$("img#nav5").mouseover(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav5_on.gif");
-}).mouseout(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav5_off.gif");
-});
-$("img#nav6").mouseover(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav6_on.gif");
-}).mouseout(function() {
-$(this).attr("src", "http://www.eclickz.com/img/nav6_off.gif");
-});
-});
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>eClickZ | Privacy Policy</title>
+<link href="http://www.eclickz.com/css/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="http://www.eclickz.com/css/dropdown.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.eclickz.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.eclickz.com/js/easySlider1.5.js"></script>
+<script type="text/javascript" src="http://www.eclickz.com/js/jquery.dropdownPlain.js"></script>
+<script type="text/javascript" src="http://www.eclickz.com/js/common.js"></script>
+<script type="text/javascript"> 
+	$(document).ready(function(){	
+		$("#slider").easySlider({
+			auto: false,
+			continuous: true 
+		});
+	// for login slider 
+      $(".signin").click(function(e) {          
+		e.preventDefault();
+			  $("fieldset#signin_menu").toggle();
+		$(".signin").toggleClass("menu-open");
+		  });
+		$("fieldset#signin_menu").mouseup(function() {
+			return false
+		});
+		$(document).mouseup(function(e) {
+			if($(e.target).parent("a.signin").length==0) {
+				$(".signin").removeClass("menu-open");
+				$("fieldset#signin_menu").hide();
+			}
+		});	
+		//onBlur & onFocus
+		$('.subscribe').addClass("idleField");
+		$('.subscribe').focus(function() {
+			$(this).removeClass("idleField").addClass("focusField");
+			if (this.value == this.defaultValue){ 
+				this.value = '';
+			}
+			if(this.value != this.defaultValue){
+				this.select();
+			}
+		});
+		$('.subscribe').blur(function() {
+			$(this).removeClass("focusField").addClass("idleField");
+			if ($.trim(this.value) == ''){
+				this.value = (this.defaultValue ? this.defaultValue : '');
+			}
+		});
+  });
 </script>
 </head>
-<body onload="if (document.efrm) { document.efrm.Terms.focus(); }">
-<div id="window">
-<div id="constrain">
-<div id="header">
-<div id="logoContainer" class="left">
-<div id="logo">
-<a href="http://www.eclickz.com">
-<img src="http://www.eclickz.com/images/logo.gif" alt="eClickZ" border="0">
-</a>
-</div>
-</div>
-<div id="searchTable" class="left">
-<div id="searchTableTop">
-<ul id="searchNav">
-<li class="searchNav1" id="active"><a>Web</a></li>
-<li class="searchNav2" id=""><a href="http://search.eclickz.com/?affiliate=HOUSE&amp;Terms=Images">Images</a></li>
-<li class="searchNav3" id=""><a href="http://videos.eclickz.com">Video</a></li>
-<li class="searchNav4" id=""><a href="http://maps.eclickz.com">Maps</a></li>
-<li class="searchNav5" id=""><a href="http://search.eclickz.com/shopping/item.php?item=Desktop+PC&amp;country=0">Shopping</a></li>
-</ul>
-</div>
-<div class="clear"></div>
-<div id="searchTableBottom">
-<form action="http://search.eclickz.com" method="get" name="efrm">
-<input type="hidden" name="affiliate" value="house">
-<input type="text" name="Terms" size="30" maxlength="800" style="width:260px">
-<input type="submit" value="Search">
-</form>
-</div>
-</div>
-<div id="liveHelp" class="left">
-<iframe src="http://www.eclickz.com/weather/loopScroller/loopScroller.php" width="180" height="67" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-</div>
-<div class="clear"></div>
-<div id="navContainer">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><a href="http://www.eclickz.com"><img src="http://www.eclickz.com/img/nav1_off.gif" alt="Home" border="0" id="nav1"></a></td>
-<td><a href="http://adcenter.eclickz.com"><img src="http://www.eclickz.com/img/nav4_off.gif" alt="Account Login" border="0" id="nav4"></a></td>
-<td><a href="http://advertiser.eclickz.com" onmouseout="MM_swapImgRestore(); delayhidemenu()" onmouseover="MM_swapImage('advertiser','','http://www.eclickz.com/img/nav2_on.gif',1); dropdownmenu(this, event, menu0, '130px');"><img src="http://www.eclickz.com/img/nav2_off.gif" alt="Advertisers" name="advertiser" id="advertiser" border="0" height="30" width="100"></a></td>
-<td><a href="http://publisher.eclickz.com" onmouseout="MM_swapImgRestore(); delayhidemenu()" onmouseover="MM_swapImage('publishers','','http://www.eclickz.com/img/nav3_on.gif',1); dropdownmenu(this, event, menu1, '130px');"><img src="http://www.eclickz.com/img/nav3_off.gif" alt="Publishers" name="publishers" id="publishers" border="0" height="30" width="100"></a></td>
-<td><a href="http://www.eclickz.com/about/" onmouseout="MM_swapImgRestore(); delayhidemenu()" onmouseover="MM_swapImage('about','','http://www.eclickz.com/img/nav5_on.gif',1); dropdownmenu(this, event, menu2, '130px');"><img src="http://www.eclickz.com/img/nav5_off.gif" alt="About Us" name="about" id="about" border="0" height="30" width="100"></a></td>
-<td><a href="http://www.eclickz.com/faq/"><img src="http://www.eclickz.com/img/nav6_off.gif" alt="Frequently Asked Questions" border="0" id="nav6"></a></td>
-<td class="nav7" align="center" width="212px"><b><font style="font-size:12px;color:#FFFFFF;">Monday, February 01 2010</font></b></td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<div class="clear"></div>
-<div id="mainCopy">
-<p><font class="head_text"><strong>Privacy Policy</strong></font></p>
-<p style="margin-top: 0;"><strong>Why We Collect Personal Information</strong><br>
-eClickZ.com collects personal information to personalize your experience with
-our site. The more we know about you, the more we can present you with
-information and features that will interest you. The facts you provide, along
-with data stored in your personal "cookie," (see below) may also be
-used to make your online experience faster and more convenient.</p>
-<p>We also use user information to
-measure our success and performance. For example, aggregate information gives us
-an idea of the number of visitors we attract and how they navigate they site.
-The information we collect enables us to contact users with offers and
-advertisements that may appeal to them. At times, we may also use the
-information we collect to notify members of site updates and to promote special
-events at eClickZ.com.</p>
+<body>
+<div id="container">
+	<!-- / header \ -->
+	<div id="header">
+		<!-- / header left \ -->
+		<div id="headerLeft">
+			<div class="headerLeft_top">
+				<div class="logo"><a href="http://www.eclickz.com"><img src="http://www.eclickz.com/images/logo.jpg" alt=""></a></div>
+				<div class="menu">
+				<ul>
+					<li><a href="http://www.eclickz.com">Home</a></li>
+					<li><a href="http://advertiser.eclickz.com">Advertisers</a></li>
+					<li><a href="http://publisher.eclickz.com">Publishers</a></li>
+					<li><a href="http://platform.eclickz.com">Platform</a></li>
+					<li class="active"><a href="http://corporate.eclickz.com/about">About Us</a></li> 
+				</ul>
+				</div>
+			</div>
+	  </div>
+		<!-- \ header left / -->
+		<!-- / header right \ -->
+		<div class="sign_up">
+			<div class="login">
+     		<ul class="dropdown">
+		    	<li><a href="#" class="signup" title="Sign Up" id="dd"></a>
+		    		<ul class="sub_menu" onmouseover="javascript:signupMouseOver();" onmouseout="javascript:signupMouseOut();">
+		    			 <li><a href="http://advertiser.eclickz.com/signup" title="Advertiser">Advertiser</a> | <a href="http://publisher.eclickz.com/signup">Publisher</a></li>
+					</ul>
+		    	</li>
+			  </ul> 
+      	<a href="#" class="signin" title="Login"></a>
+		<fieldset id="signin_menu">
+		<form onsubmit="javascript: return logincheck();" name="login_frm" id="login_frm" method="post" action="http://adcenter.eclickz.com">
+				<div class="formBox">
+				<select onchange="javascript:loginopt(this);">
+				<option selected="selected" value="1">Advertiser</option>
+				<option value="2">Publisher</option>
+				</select>
+				<p><input onfocus="if(this.value=='Username')this.value='';" onblur="if(this.value=='')this.value='Username';" name="login_userid" type="text" value="Username" id="username"></p>
+				<p><input onfocus="if(this.value=='*******')this.value='';" onblur="if(this.value=='')this.value='*******';" name="login_password" type="password" value="*******" id="password"></p>
+				<p><input name="submit" type="image" src="http://www.eclickz.com/images/go.gif" class="gobtn"><a id="forgot_pass" href="http://adcenter.eclickz.com/forgot">Forgot your password?</a></p>
+				</div>
+		</form>
+		</fieldset>
+      </div>
+		</div>
+		<!-- \ header right / -->
+		<div class="banner">Privacy <span>Policy</span></div>
+	</div>
+	<!-- \ header / -->
+	<!-- / middle \ -->
+	<div id="innermiddle">
+		<div class="breadcrumb"><a href="http://www.eclickz.com"><img src="http://www.eclickz.com/images/home.jpg" alt="" align="left" class="martop"></a> <img src="http://www.eclickz.com/images/arrow.jpg" alt="" align="left"> <a href="http://corporate.eclickz.com">Corporate</a> <img src="http://www.eclickz.com/images/arrow.jpg" alt="" align="left"> Privacy Policy </div>
+		<div class="leftwrap">
+			<div class="linkBox">				
+				<h2><span>Corporate</span>Overview</h2>
+				<!-- / left link \ -->
+				<div class="graybox">
+					<div class="bottom">
+						<div class="center">
+							<ul class="liststyle">
+								<li><a href="http://corporate.eclickz.com">Overview</a></li>
+								<li><a href="http://corporate.eclickz.com/about">About Us</a></li>
+								<li><a href="http://corporate.eclickz.com/contact">Contact Us</a></li>
+								<li class="selected"><a href="http://corporate.eclickz.com/privacy"><strong>Privacy Policy</strong></a></li>
+								<li><a href="http://corporate.eclickz.com/terms">Terms of Use</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- \ left link / -->
+				<!-- / left link \ -->
+				<div class="graybox">
+					<div class="bottom">
+						<div class="center">
+							<ul class="addresslist">
+								<li><span><img src="http://www.eclickz.com/images/icon10.gif" alt=""></span>Toll free: (877) ECLICKZ<br>
+									Direct: (877) 325-4259</li>
+								<li style="padding-bottom:0;"><span><img src="http://www.eclickz.com/images/icon11.gif" alt=""></span><a href="mailto:info@eclickz.com">info@eclickz.com</a> or<br>
+								<a href="mailto:sales@eclickz.com">sales@eclickz.com</a></li>
+								</ul>
+						</div>
+					</div>
+				</div>
+				<!-- \ left link / -->
+			</div>
+		</div>
+		<div class="rightwrap">
+			<div class="content">
+<p><strong>Why We Collect Personal Information</strong><br>
+eClickZ.com collects personal information to personalize your experience with our site. The more we know about you, the more we can present you with information and features that will interest you. The facts you provide, along with data stored in your personal "cookie," (see below) may also be used to make your online experience faster and more convenient.</p>
+<p>We also use user information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate they site. The information we collect enables us to contact users with offers and advertisements that may appeal to them. At times, we may also use the information we collect to notify members of site updates and to promote special events at eClickZ.com.</p>
 <p><strong>How We Gather Data on eClickZ.com Users</strong><br>
-We gather information in a number of ways, depending on the section of our site
-you are using. If you are an advertiser and join our services, we may ask you
-for contact information. This information is used for account management
-purposes so we can better suit your needs. Your personal information will never
-be gathered without your knowledge or understanding.</p>
-<p>When you visit our site, we collect may track this information through the use 
-of a "cookie" or other technological means. This information is mainly 
-used to keep track of the number
-of visitors that come to the site so we can better assist our advertisers.</p>
+We gather information in a number of ways, depending on the section of our site you are using. If you are an advertiser and join our services, we may ask you for contact information. This information is used for account management purposes so we can better suit your needs. Your personal information will never be gathered without your knowledge or understanding.</p>
+<p>When you visit our site, we collect may track this information through the use of a "cookie" or other technological means. This information is mainly used to keep track of the number of visitors that come to the site so we can better assist our advertisers.</p>
 <p>Wherever we ask you for personal information, we try to include a link to this Privacy Policy for your review.</p>
 <p><strong>Other Companies' Access to Your Personal Information</strong><br>
-eClickZ.com does not sell, rent or trade user information to other companies.
-Our site may link to advertisers and sites that collect personally identifiable
-information about you when you access them from eClickZ.com. This type of
-collection or use of personal information is beyond eClickZ.com's control and is
-not covered by this Privacy Policy.</p>
-<p>We may occasionally need to share your
-information with business partners who co-sponsor contests or other services. In
-these cases, we will provide only the data that is needed to make the service or
-contest successful. If we plan to share this type of information, we will notify
-you before we collect it. If you do not want eClickz.com to share your
-information, simply choose not to allow the transfer by not using or signing up
-for the contest or service in question.</p>
-<p>When you sign up to receive
-promotional items from us, we may need to share some personal information with
-the third parties helping us to complete your transaction or send you the items
-you have requested. When we share your information with such third parties, we
-will disclose only the information needed to complete your transaction. You will
-be informed at the time of registering that the information gathered may be sent
-to third parties.</p>
+eClickZ.com does not sell, rent or trade user information to other companies. Our site may link to advertisers and sites that collect personally identifiable information about you when you access them from eClickZ.com. This type of collection or use of personal information is beyond eClickZ.com's control and is not covered by this Privacy Policy.</p>
+<p>We may occasionally need to share your information with business partners who co-sponsor contests or other services. In these cases, we will provide only the data that is needed to make the service or contest successful. If we plan to share this type of information, we will notify you before we collect it. If you do not want eClickz.com to share your information, simply choose not to allow the transfer by not using or signing up for the contest or service in question.</p>
+<p>When you sign up to receive promotional items from us, we may need to share some personal information with the third parties helping us to complete your transaction or send you the items you have requested. When we share your information with such third parties, we will disclose only the information needed to complete your transaction. You will be informed at the time of registering that the information gathered may be sent to third parties.</p>
 <p><strong>"Cookies" and Their Use at eClickZ.com</strong><br>
-"Cookies" are small data files that are sent from the site to your
-browser and are stored on your hard drive, keeping track of your general
-activity on the site. When you make subsequent visits to the site, your cookie
-gives us a summary of your preferences and past experiences on the site. This
-allows us to tailor eClickz.com to your needs.</p>
-<p>Your cookie may be altered at
-different times throughout your visits to eClickZ.com, and it is updated
-frequently as you use various eClickZ.com features. Every time you enter
-eClickZ.com, our server may deliver certain customized information to you based
-on the data stored in your cookie.</p>
-<p>Some advertisers or Web sites that
-have links on our site may use their own cookies. Again, these cases are beyond
-our control and are not included in eClickZ.com's Privacy Policy.</p>
+"Cookies" are small data files that are sent from the site to your browser and are stored on your hard drive, keeping track of your general activity on the site. When you make subsequent visits to the site, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor eClickz.com to your needs.</p>
+<p>Your cookie may be altered at different times throughout your visits to eClickZ.com, and it is updated frequently as you use various eClickZ.com features. Every time you enter eClickZ.com, our server may deliver certain customized information to you based on the data stored in your cookie.</p>
+<p>Some advertisers or Web sites that have links on our site may use their own cookies. Again, these cases are beyond our control and are not included in eClickZ.com's Privacy Policy.</p>
 <p><strong>Security</strong><br>
-eClickZ.com stores all data behind carefully selected security devices, such as
-firewalls or offline computer equipment. All internal communication with the
-system and communication of private member data, such as credit card
-information, is transmitted using encrypted protocols. Policies related to staff
-access to private member data are in place. All data is held in the strictest
-confidence, protected by the strictest security standards.</p>
+eClickZ.com stores all data behind carefully selected security devices, such as firewalls or offline computer equipment. All internal communication with the system and communication of private member data, such as credit card information, is transmitted using encrypted protocols. Policies related to staff access to private member data are in place. All data is held in the strictest confidence, protected by the strictest security standards.</p>
 <p><strong>Correct/Update</strong><br>
-This site gives users the following options for changing and modifying
-information previously provided.</p>
+This site gives users the following options for changing and modifying information previously provided.</p>
 <p><strong>Your Agreement to This Privacy Policy</strong><br>
-By using eClickZ.com, you indicate that you agree to the collection and use of
-your personal information by eClickZ.com as outlined in this Privacy Policy.</p>
+By using eClickZ.com, you indicate that you agree to the collection and use of your personal information by eClickZ.com as outlined in this Privacy Policy.</p>
 <p><strong>Changes to This Privacy Policy</strong><br>
-Our Privacy Policy may change from time to time. Be sure to visit this page
-occasionally to find any updates we have made. We are committed to post Privacy
-Policy changes on this page so consumers can be sure of how eClickz.com is
-gathering and using information about them.</p>
-</div>
-<div class="clear"></div>
-<div id="footerContainer">
-<p class="left"><a href="http://www.eclickz.com">Home</a> |
-<a href="http://advertiser.eclickz.com">Advertiser</a> |
-<a href="http://publisher.eclickz.com">Publisher</a> |
-<a href="http://adcenter.eclickz.com">Client Login</a> |
-<a href="http://www.eclickz.com/contact">Contact Us</a> |
-<a href="http://www.eclickz.com/privacy.php">Privacy Policy</a> |
-<a href="http://www.eclickz.com/terms.php">Terms of Use</a> |
-<a href="http://blog.eclickz.com">Blog</a></p>
-<p class="right">© 2010 eClickZ.com LLC. All rights reserved.</p>
+Our Privacy Policy may change from time to time. Be sure to visit this page occasionally to find any updates we have made. We are committed to post Privacy Policy changes on this page so consumers can be sure of how eClickz.com is gathering and using information about them.</p>
+		  </div>
+		</div>
+	</div>
+	<!-- \ middle / -->
+	<!-- / footer \ -->
+  <div id="footer">
+	<p><a href="http://www.eclickz.com">Home</a> - <a href="http://advertiser.eclickz.com">Advertisers</a> - <a href="http://publisher.eclickz.com">Publishers</a> - <a href="http://adcenter.eclickz.com">Client Login</a> - <a href="http://corporate.eclickz.com/contact">Contact Us</a> - <a href="http://corporate.eclickz.com/privacy">Privacy Policy</a> - <a href="http://corporate.eclickz.com/terms">Terms of Use</a> - <a href="http://blog.eclickz.com">Blog</a></p>
+	©2010 <span>eClickZ.com LLC</span>. All right reserved<br>
+	<strong>Make eClickZ Your Homepage | Follow us on</strong>
+	<a href="http://www.twitter.com/eClickZcom"><img src="http://www.eclickz.com/images/twitter.gif" alt="" border="0" align="top"></a>
+  <a href="http://www.facebook.com/eclickz"><img src="http://www.eclickz.com/images/facebook.gif" alt="" border="0" align="top"></a>	</div>
+	<!-- \ footer / -->	
 </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1044805-4");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<div class="clear"></div>
-</div>
-</div>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4250302-2']);
+  _gaq.push(['_setDomainName', '.eclickz.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 </body></html>
