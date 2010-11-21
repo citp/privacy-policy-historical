@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618052337id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121235649id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - DriversEd.com
 
@@ -15,25 +15,9 @@ Your privacy is important to us. We’ll never share your information with anyon
   
 [](http://www.truste.org/ivalidate.php?url=www.driversed.com&sealid=101)
 
-Date Revised: July 10, 2008
+Date Revised: June 24, 2010
 
-Interactive Solutions, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the sites DriversEd.com, WebTrafficSchool.com, and 24x7DrivingSchool.com. Because Interactive Solutions wants to demonstrate its commitment to our users' privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
-
-1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through our websites.
-
-2\. The organizations collecting the information. 
-
-3\. How the information is used.
-
-4\. With whom the information may be shared.
-
-5\. What choices are available to you regarding collection, use, and distribution of the information.
-
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under the control of Interactive Solutions. 
-
-7\. How users can correct any inaccuracies in the information. 
-
-If you have questions or concerns regarding this statement, you should first contact Interactive Solutions by emailing the site you are working with at either [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as liaison with Interactive Solutions and our websites to resolve your concerns.   
+[Interactive Solutions, Inc.](http://www.driversed.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@DriversEd.com](mailto:info@driversed.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).  
   
 |   
 ---  
