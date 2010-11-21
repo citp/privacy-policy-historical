@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bonus.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608175524id_/http%3A//www.bonus.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonus.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121230819id_/http%3A//www.bonus.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy @ Bonus.com: The Best Bargains Online
 
-Last Updated: 1 OCT 2008
+Last Updated: 1 JUL 2010
 
 This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website including any sub domains thereof ("Web Site"). The Website is made available by Bonus.com hereafter referred to as ("Company").
 
@@ -10,7 +10,7 @@ By visiting this Web Site and requesting information, products or services offer
 
 This Web Site is intended for users who are located in the United States of America. The Privacy Policy shall be interpreted under the laws of the United States.
 
-##  Purpose of the Privacy Policy.
+## Purpose of the Privacy Policy.
 
 The purpose of this Policy is to describe the information collection, use, and dissemination practices of Company, its parent, subsidiaries and registered d/b/a companies (Collectively Referred herein after as "Company") and all related websites owned or registered to Company and applies to Company's collection, use, storage and disclosure of information by Company on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various Third Party websites, and (c) to Company's other information collection, including the acquisition of customer information from third parties. Company is not responsible for the information collection or privacy practices of third party websites or applications.
 
@@ -87,35 +87,44 @@ You may remove your information from Company's database. If you remove your info
 
   * **2.11. Storage of Individual Information.** Company stores the Individual Information in a database on its' computers. Our computers have security measures (such as a firewall and password protection) in place to protect against the loss, misuse, and alteration of the information under Company's control. Notwithstanding such measures, Company cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
-###  3\. Other Use of Personal Information.
+
+
+
+### 3\. Other Use of Personal Information.
 
 ###  Company may use your personal information in the following ways:
 
-    * **3.1. Third Party Offers.** Company may make customer lists available to companies or other entities not affiliated with the Company that have goods, services and offers that might be of interest to you. Company may, from time to time, provide your Personal Information to these entities so that they may send you these offers.
+  * **3.1. Third Party Offers.** Company may make customer lists available to companies or other entities not affiliated with the Company that have goods, services and offers that might be of interest to you. Company may, from time to time, provide your Personal Information to these entities so that they may send you these offers.
 
-    * **3.2. Marketing.** Company will use your personal information for any marketing and survey purpose on behalf of Company and its affiliates and subsidiaries to send information to you about additional goods or services that may be of interest to you. In addition, Company will disclose your personal information to third party agents and independent contractors to help us conduct our marketing and survey efforts and to share with other companies in connection with marketing efforts including but not limited to direct marketing. You may have no relationship with these other companies.
+  * **3.2. Marketing.** Company will use your personal information for any marketing and survey purpose on behalf of Company and its affiliates and subsidiaries to send information to you about additional goods or services that may be of interest to you. In addition, Company will disclose your personal information to third party agents and independent contractors to help us conduct our marketing and survey efforts and to share with other companies in connection with marketing efforts including but not limited to direct marketing. You may have no relationship with these other companies.
 
-    * **3.3. Co-sponsored Offerings.** Company may provide an offering which is co-sponsored by another company. In those situations, the information we obtain from you in connection with such offering may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. We are not responsible for how our co-sponsors may use your information.
+  * **3.3. Co-sponsored Offerings.** Company may provide an offering which is co-sponsored by another company. In those situations, the information we obtain from you in connection with such offering may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. We are not responsible for how our co-sponsors may use your information.
 
-    * **3.5. Service Providers.** We may use third parties to help operate our Web Site and deliver products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web Site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us. When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider's server and made available to us.
+  * **3.5. Service Providers.** We may use third parties to help operate our Web Site and deliver products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web Site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us. When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider's server and made available to us.
 
-    * **3.6. Aggregate Statistics.** We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+  * **3.6. Aggregate Statistics.** We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
 
-    * **3.7. Complying with Legal Process.** Company will use or disclose your personal information in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise our legal rights or defend against legal claims or in the event you violate or breach an agreement with Company. Company will use and disclose your personal information if we believe you will harm the property or rights of Company , its owners, or those of Company 's other customers. Finally, we will use or disclose your personal information if we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Company's acceptable use policy, or as otherwise required by law when responding to subpoenas, court orders and other legal processes.
+  * **3.7. Complying with Legal Process.** Company will use or disclose your personal information in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise our legal rights or defend against legal claims or in the event you violate or breach an agreement with Company. Company will use and disclose your personal information if we believe you will harm the property or rights of Company , its owners, or those of Company 's other customers. Finally, we will use or disclose your personal information if we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Company's acceptable use policy, or as otherwise required by law when responding to subpoenas, court orders and other legal processes.
 
-    * **3.8. Order Fulfillment.** Company will transfer your personal information to third parties when necessary to provide a product or service that you order from such third party while using Company's websites or when responding to offers provided by Company.
+  * **3.8. Order Fulfillment.** Company will transfer your personal information to third parties when necessary to provide a product or service that you order from such third party while using Company's websites or when responding to offers provided by Company.
 
-    * **3.9. Data Summary.** Company may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
+  * **3.9. Data Summary.** Company may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
-    * **3.10. Third Parties.** Company may provide your personal information to third parties with whom they have a business relationship for the purposes of securing the services and products you have requested or provide you with additional marketing materials from which you may choose additional products or services.
+  * **3.10. Third Parties.** Company may provide your personal information to third parties with whom they have a business relationship for the purposes of securing the services and products you have requested or provide you with additional marketing materials from which you may choose additional products or services.
+
+
+
 
 ###  4\. Privacy Practices of Third Parties.
 
-    * **4.1. Advertiser cookies and web beacons.** Advertising agencies, advertising networks, and other companies who place advertisements on the websites and on the internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Company does not control the use of such technology and Company has no responsibility for the use of such technology to gather information about you.
+  * **4.1. Advertiser cookies and web beacons.** Advertising agencies, advertising networks, and other companies who place advertisements on the websites and on the internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Company does not control the use of such technology and Company has no responsibility for the use of such technology to gather information about you.
 
-    * **4.2. Links.** The websites and email messages sometimes contain hypertext links to the websites of third parties. Company is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by third parties. Such links are provided for your convenience and reference only. Company does not operate or control in any respect any information, software, products or services available on such third party websites. The inclusion of a link to a website does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
+  * **4.2. Links.** The websites and email messages sometimes contain hypertext links to the websites of third parties. Company is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by third parties. Such links are provided for your convenience and reference only. Company does not operate or control in any respect any information, software, products or services available on such third party websites. The inclusion of a link to a website does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
 
-    * **4.3. Affiliations/Merger/Sale.** Company further reserves the right to disclose, transfer or sell your personal information to companies who are affiliated with Company in Company's sole discretion. If Company changes ownership through an acquisition, merger, sale or other change of business status, it reserves the right to transfer or assign the right to use your Personal Information collected from the Website.
+  * **4.3. Affiliations/Merger/Sale.** Company further reserves the right to disclose, transfer or sell your personal information to companies who are affiliated with Company in Company's sole discretion. If Company changes ownership through an acquisition, merger, sale or other change of business status, it reserves the right to transfer or assign the right to use your Personal Information collected from the Website.
+
+
+
 
 ###  5\. Foreign use of the Website.
 
@@ -125,9 +134,6 @@ To the extent that you are accessing the Website while domiciled outside of the 
 
 In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov/)
 
-If you have questions about this policy, please contact us at Bonus.com, 751 Laurel Street #325, San Carlos, CA 94070, U.S.A.
+If you have questions about this policy, please contact us at Bonus.com, 2086 Broadway St #102., Redwood City, CA 94063, U.S.A.
 
-© 2008 Bonus.com
-
-
-
+© 2010 Bonus.com
