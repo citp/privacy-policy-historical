@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embassy.gov.au privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117085614id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embassy.gov.au privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121202226id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Department of Foreign Affairs and Trade
 
