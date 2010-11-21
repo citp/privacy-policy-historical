@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the diamondrewards.net privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327135601id_/http%3A//www.diamondrewards.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondrewards.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121165040id_/http%3A//www.diamondrewards.net/privacy) for the most accurate reproduction.*
 
-# - The rewards program that pays in Diamonds and Cash
-
-## Diamond Rewards’s Privacy Policy
+# Diamond Rewards - The Rewards Program That Pays In Diamonds And Cash!
 
 This Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, disclosed, used, stored and otherwise handled by Diamond Rewards and its related companies ("Diamond Rewards "). The Policy relates to personal information collected by any means and by any technology.
 
@@ -10,7 +8,7 @@ Diamond Rewards treats the handling of your personal information very seriously.
 
 Diamond Rewards abides by the National Privacy Principles, which provide a scheme in relation to the collection, disclosure, use and storage of personal information. Diamond Rewards’s objective is to handle information responsibly and provide you with some control over the way information about you is handled.
 
-###  The Privacy Act provides for exemptions:
+## The Privacy Act provides for exemptions:
 
   1. in relation to employee records (being records relating to a current or former employment relationship between Diamond Rewards and the individual); and
   2. from coverage in relation to the journalism activities of Diamond Rewards.
@@ -100,15 +98,15 @@ In some circumstances, Diamond Rewards may not be in a position to provide acces
 
 If Diamond Rewards denies access to your personal information, it will provide you with reasons in writing.
 
-## 6\. Changes To This Policy
+## 7\. Changes To This Policy
 
 Diamond Rewards may change this Policy from time to time for any reason and will update the Policy accordingly.
 
-## 7\. Complaints
+## 8\. Complaints
 
 If you believe that your privacy has been infringed you are entitled to complain. All complaints should initially be in writing and directed to the Privacy Officer. Diamond Rewards will respond to your complaint as soon as possible, within 14 working days, to let you know who is responsible for managing your query. Diamond Rewards will try to resolve the complaint within 30 working days. When this is not possible Diamond Rewards will contact you to provide an estimate of how long it will take to handle the complaint.
 
-## 8\. Privacy Officer's Contact Details
+## 9\. Privacy Officer's Contact Details
 
 Please address all written correspondence to:
 
@@ -116,6 +114,6 @@ Privacy Officer, c/- Legal Department
 Diamond Rewards Limited  
 3908 Two Exchange Square,   
 8 Connaught Place, Central,   
-Hong Kong   
-Email: support@diamondrewards.net  
+Hong Kong 
 
+Email: support@diamondrewards.net
