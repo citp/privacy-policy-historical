@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fontriver.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327121528id_/http%3A//www.fontriver.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontriver.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121201145id_/http%3A//fontriver.com/help/privacy.php) for the most accurate reproduction.*
 
-# FontRiver.com Privacy Policy
-
-### Privacy Policy
+# FontRiver.com Help Center
 
 FontRiver.com takes your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
