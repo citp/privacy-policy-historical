@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206053449id_/http%3A//www.diabetescare.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121202111id_/http%3A//diabetescare.net/privacy.asp) for the most accurate reproduction.*
 
-# DiabetesCare.Net - Privacy Policy
+# Privacy Policy - DiabetesCare.Net
 
 Privacy Policy
 
@@ -16,7 +16,7 @@ As part of standard Internet practice we collect the following information when 
   * Browser/operating system used to access our site;
   * A timestamp of when you visited our site;
   * Web addresses of websites from which you linked to our site;
-  * Pages you visit within DiabetesCare.net and FoodSciences.com; and
+  * Pages you visit within DiabetesCare.net; and
   * Links made to other websites through this site.
 
 
@@ -27,7 +27,7 @@ Any personally identifiable information that you voluntarily provide will be col
 
 Cookies
 
-The Self-Care Tools section of DiabetesCare.net uses cookies to store user-specific information on what pages users access or visit, and customize Web page content on visitors` browser type or other information that the visitor sends. 
+The MyCare Tools section of DiabetesCare.net uses cookies to store user-specific information on what pages users access or visit, and customize Web page content on visitors` browser type or other information that the visitor sends. 
 
 Public Disclosure
 
@@ -57,7 +57,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Information Disclaimer
 
-While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error. Therefore, DiabetesCare.net, Food Sciences Corporation, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information. Any person who relies upon such information obtained from this system does so at his or her own risk. 
+While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error. Therefore, DiabetesCare.net, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information. Any person who relies upon such information obtained from this system does so at his or her own risk. 
 
 **Any rights not expressly granted herein are reserved.**
 
