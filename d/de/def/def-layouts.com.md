@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the def-layouts.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413100351id_/http%3A//www.def-layouts.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the def-layouts.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121111646id_/http%3A//def-layouts.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Default Layouts, Skinny Defaults, Scenic Defaults, Color Defaults, Black Table, Photography, Page Graphics, Surveys, Icons, Myspace Codes, Comment Boxes
+
+  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
