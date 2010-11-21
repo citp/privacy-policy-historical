@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gdirectory.info privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523024725id_/http%3A//www.gdirectory.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdirectory.info privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121170352id_/http%3A//www.gdirectory.info/privacy.html) for the most accurate reproduction.*
 
 # Learn Gdirectory Privacy Policy
 
