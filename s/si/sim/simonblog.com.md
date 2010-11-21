@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simonblog.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627120853id_/http%3A//www.simonblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonblog.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121150601id_/http%3A//www.simonblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The iPhone and iPad Blog by Simon
 
