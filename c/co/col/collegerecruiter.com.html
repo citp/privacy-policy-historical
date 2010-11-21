@@ -1,539 +1,456 @@
-<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2009-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090505180045id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121011350id_/http%3A//collegerecruiter.com/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
-<!--declaration-->
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="/includes/screen.css" media="screen">
-<script src="/include/themes/classic/main.js"></script>
-<title> Entry Level Jobs and Internships </title>
-<meta http-equiv="description" content="Entry level jobs and internships.">
-<meta http-equiv="keywords" content="entry level jobs, internships, internship">
-<script type="text/javascript" src="http://www.collegerecruiter.com/include/ajaxfileupload/jquery.js"></script>
-<script type="text/javascript" src="http://www.collegerecruiter.com/include/ajaxfileupload/ajaxfileupload.js"></script>
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Privacy Policy - CollegeRecruiter.com</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon">
+    <meta name="description" content="Visitors to this and other websites owned or powered by
+CollegeRecruiter.com, LLC can engage in a variety of activities
+such as post a resume, apply to a job,…">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+djConfig = { baseScriptUri: 'http://collegerecruiter.com/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/5708338?default=5708338&width=64&height=64","url":"http:\/\/collegerecruiter.ning.com","domains":["adguide.com","collegerecruiter.com","entryleveljobs.net"],"online":true,"privateSource":true,"id":"collegerecruiter","description":"Leading job board for college students searching for internships &amp; recent grads hunting for entry-level jobs and other career opportunities.","name":"CollegeRecruiter.com","owner":"StevenRothberg","createdDate":"2010-05-06T20:42:03.315Z","runOwnAds":false,"tags":["jobs","internships","entry-level","college","students","recent","graduates","employment"]},"CurrentProfile":null,"maxFileUploadSize":7};
+    (function(){
+        if (!window.ning) { return; }
 
-<style>
-#int_page{
-	position:fixed; 
-	top:0px;
-	left:20px;
-	height:445px;
-	width:670px;
-	border:5px double #000000;
-	background-color:#EAEAEA ;
-	padding:25px;
-	display:none;
-	text-align:justify;
-	z-index:auto;
-	
+        var age, gender, rand, obfuscated, combined;
+
+	    obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+	    if (obfuscated) {
+	          var offset = 100000;
+	          obfuscated = parseInt(obfuscated[1]);
+	          rand = obfuscated / offset;
+	          combined = (obfuscated % offset) ^ rand;
+	          age = combined % 1000;
+	          gender = (combined / 1000) & 3;
+	          gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+	          ning.viewer = {"age":age,"gender":gender};
+	    }
+	 })();
+
+if (window.location.hash.indexOf('#!/') == 0) {
+    window.location.replace(window.location.hash.substr(2));
 }
-
-#close_int_page{
-	text-align:center;
-	text-decoration:underline;
-	cursor:pointer;
-}
-.divpadding{
-padding:3px;
-}
-</style>
-<!--[if lt IE 7]>
-
-<style>
-#int_page{
-	position:absolute;
-}
-</style>
-<![endif]-->
-
-
-
-
-<script type="text/javascript">
-
-var request2 = null;
-    try {
-        request2 = new XMLHttpRequest();
-    } catch (trymicrosoft) {
-        try {
-            request2 = new ActiveXObject("Msxml2.XMLHTTP");
-        } catch (othermicrosoft) {
-            try {
-                request2 = new ActiveXObject("Microsoft.XMLHTTP");
-            } catch (failed) {
-                request2 = null;
-            }
+window.xg = {};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) { xg._loader.p++; },
+    onLoad: function(set) {
+        xg._loader.p--;
+        if (xg._loader.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
         }
     }
-
-	
-	function ajaxFileUpload()
-	{	
-		$("#loading")
-		.ajaxStart(function(){
-			$(this).show();
-		})
-		.ajaxComplete(function(){
-			$(this).hide();
-		});
-
-		$.ajaxFileUpload
-		(
-			{
-				url:'http://www.collegerecruiter.com/include/ajaxfileupload/doajaxfileupload.php',
-				secureuri:false,
-				fileElementId:'fileToUpload',
-				dataType: 'json',
-				success: function (data, status)
-				{
-					if(typeof(data.error) != 'undefined')
-					{
-						if(data.error != '')
-						{
- 							//alert(data.error);
-							var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
-				
-							var params = 'name='+document.getElementById('appr_name').value;
-							
-							params+= '&email_address='+ document.getElementById('appr_from').value;
-							params += '&comments='+document.getElementById('coverletter').value;
-							params += '&filename='+document.getElementById('fileToUpload').value;
-							params += '&post_id='+document.getElementById('int_post_id').value;
-							params += '&notification='+document.getElementById('checkId').value;
-							
-							
-							request2.open("POST", url, true);
-							//Send the proper header information along with the request
-							request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-							request2.setRequestHeader("Content-length", params.length);
-							request2.setRequestHeader("Connection", "close");
-							request2.onreadystatechange =updatersvp;
-							request2.send(params);
-						}else{
-							//alert(data.msg);
-							var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
-				
-							var params = 'name='+document.getElementById('appr_name').value;
-							
-							params+= '&email_address='+ document.getElementById('appr_from').value;
-							params += '&comments='+document.getElementById('coverletter').value;
-							params += '&filename='+document.getElementById('fileToUpload').value;
-							params += '&post_id='+document.getElementById('int_post_id').value;
-							params += '&notification='+document.getElementById('checkId').value;
-							
-							
-							request2.open("POST", url, true);
-							//Send the proper header information along with the request
-							request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-							request2.setRequestHeader("Content-length", params.length);
-							request2.setRequestHeader("Connection", "close");
-							request2.onreadystatechange =updatersvp;
-							request2.send(params);
-						}
-					}
-				},
-				error: function (data, status, e)
-				{
-					//alert(e);
-				}
-			}
-		)
-	
-	
-		return false;
-
-	}
-
-function registrationByMail_iphone()
-{
-
-	
-	var error='';
-	if(document.getElementById('appr_name').value=='')
-	error="Please fill name.\n";
-	
-	if(document.getElementById('appr_from').value==''){
-	error+="Please fill email address.\n";
-	}
-	if(document.getElementById('appr_from').value!=''){
-		check = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+[.][a-zA-Z]+[a-zA-Z.]*$/.test(document.getElementById('appr_from').value);
-		if (!check) 
-		{
-			error+="Please provide a valid email address.\n";
-			
-			
-		}
-		
-	}
-
-
-	if(document.getElementById('fileToUpload').value!=''){
-		var sFileName=document.getElementById('fileToUpload').value;
-		var i = sFileName.lastIndexOf(".") ;
-		if (i == -1 || sFileName.substring(i,sFileName.length).toLowerCase() != ".doc" && sFileName.substring(i,sFileName.length).toLowerCase() != ".pdf" && sFileName.substring(i,sFileName.length).toLowerCase() != ".rtf")
-		{
-		error+="You can upload only .pdf, .rtf and .doc file.";
-	
-		}
-	}
-
-	if(error!=''){
-		alert(error);
-		showad();
-		return false;
-	}else{
-
-	
-	ajaxFileUpload();
-	
-	
-	}
-showad();
-return true;
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
 }
-
-
-
-
-function registrationByMail()
-{
-	
-	var error='';
-	if(document.getElementById('appr_name').value=='')
-	error="Please fill name.\n";
-	
-	if(document.getElementById('appr_from').value==''){
-	error+="Email address is required.\n";
-	}
-	if(document.getElementById('appr_from').value!=''){
-		check = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+[.][a-zA-Z]+[a-zA-Z.]*$/.test(document.getElementById('appr_from').value);
-		if (!check) 
-		{
-			error+="Please provide a valid email address.\n";
-		}
-	}
-
-
-	if(document.getElementById('fileToUpload').value!=''){
-		var sFileName=document.getElementById('fileToUpload').value;
-		var i = sFileName.lastIndexOf(".") ;
-		if (i == -1 || sFileName.substring(i,sFileName.length).toLowerCase() != ".doc" && sFileName.substring(i,sFileName.length).toLowerCase() != ".pdf" && sFileName.substring(i,sFileName.length).toLowerCase() != ".rtf")
-		{
-		error+="You can upload only .pdf, .rtf and .doc file.";
-		}
-	}
-	if(error!=''){
-		alert(error);
-		return false;
-	}else{
-	
-	ajaxFileUpload();
-	
-	}return true;
-}
-function updatersvp()
-{
-
-    if (request2.readyState == 4) {
-     var response = request2.responseText;
-
-	//alert(response);
- 	//document.getElementById('int_page').innerHTML = response;
-
-
-}
-
-}
-function setValue()
-	{
-		if(document.getElementById('checkId').value =="none")
-			document.getElementById('checkId').value="1";
-		else
-			document.getElementById('checkId').value="none";
-		return true;
-
-	}
-
-function showad() {
-	window.open('http://grz67.com/track/rd/65331552/10046/submit','_blank','scrollbars=yes,height=800,width=800,resizable=yes,toolbar=no,location=no,status=no');
-}
-
-	</script>
-
+xg._loader.onDone = function() {
+        if(window.bzplcm)window.bzplcm.start('ni');
+    xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; } } };    </script>
 <script type="text/javascript">
-        function change_parent_url(url)
-        {
-	    document.location=url;
-        }		
-        function change_current_url(url)
-        {
-	    document.location=url;
-        }		
-</script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_ning_ga._setAccount', 'UA-2270114-6']); 
+    _gaq.push(['_ning_ga._setNamespace', 'ning']);
+        _gaq.push(['_ning_ga._setCustomVar', 1,"member_type", "anonymous", 3]);
+    _gaq.push(['_ning_ga._setCustomVar', 2,"subdomain",  "collegerecruiter.ning.com" ,3]); 
+    _gaq.push(['_ning_ga._setCustomVar', 3,"category",    "career_occupations" ,3]);
+    _gaq.push(['_ning_ga._setCustomVar', 4,"product_type","pro" ,3]);
+    _gaq.push(['_ning_ga._setCustomVar', 5,"member_segment","5000-49999" ,3]);
+    _gaq.push(['_ning_ga._trackPageview']);
 
-</head>
-<body onload="display();  banner();" id="sandbox" class="full">
-<div id="head">	
-<p id="tlinks"><a href="/myjobs/">My CollegeRecruiter.com</a> | <a href="/employers/">Employers &amp; Advertisers</a></p>
-	<div id="hwrap"><a href="/" id="logo"></a>
-		<p class="hlink"><a href="/jobs/">entry level jobs</a><a href="http://www.collegerecruiter.com/internship/">internships</a><a href="/careers/">advice &amp; resources</a></p>
-<script type="text/JavaScript" src="/scw/scw_js.php?lang=EN"></script>
-<form action="/index.php" method="get">
-<input type="hidden" name="action" value="search">
-<div id="search_form" class="search">
-	<div class="search_input" id="input2">
-	<input class="search_input_style" name="title" type="text" value="" maxlength="75">
-	<p><span style="color:#0099FF;"><b>What: </b></span>job title or keywords </p>
-	</div>
-	<div class="search_input" id="input15">
-	<input class="search_input_style" name="loc" type="text" value="" maxlength="75">
-	<p><span style="color:#0099FF;"><b>Where: </b></span> city, state</p></div><div class="search_input" id="input5"><input class="search_input_style" name="5" type="text" value=""><p>Description</p></div>
-	<input class="form_submit_button" type="submit" value="Go"> 
-	  	</div>
-</form>	
-<div id="adspace"><script language="javascript" type="text/javascript"><!--
-document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
-//--></script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID=19644535820.30290933178983015"></script><noscript><a href="http://a.tribalfusion.com/i.click?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" target="_blank"><img src="http://a.tribalfusion.com/i.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" width="468" height="60" border="0" alt="Click Here" /></a></noscript>
-	</div>
-</div>
-<h1>Privacy Policy: Disclosure Regarding Collection and Use of Information</h1>
-</div>
-
-<div class="colmask threecol">
-    <div class="colmid">
-		<div class="colleft">
-	<div id="col1">
-
-<p>Visitors to this and other websites owned or powered by Adguide Publications, Inc. can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.</p>
-
-<p>You may provide us with personally identifiable information that can directly identify you or indicate where you may be contacted during these activities. The information may include your name, address, age, date of birth, gender, class, email address, telephone number, credit card information, hobbies, interests, and more. Sometimes visitors provide similar information about others. We also collect generic information that does not identify you personally such as the type of browser and in which city you're located.</p>
-
-<p>Except as otherwise provided, we reserve the right to use and disclose any information that you provide via this website (regardless of whether such information is provided by you actively, passively, directly, or indirectly) for any purpose that we, in our sole discretion, deem necessary or proper.  That said, it is our practice to limit the collection of information to what is necessary to administer our business and to deliver superior products and services to you, and to use and disclose the information collected in ways that are compatible with the purposes for which it is gathered. For example, if you apply to a job or request information about continuing your education, we may send the information you provide to the third party organization (the employer or school) which is of interest to you. Or we may, for example, share your information in order to send to you information about a product, service, or opportunity available either through Adguide Publications, Inc. or a third party organization.  You may opt out of receiving such information from us under the procedures set forth below.</p>
-
-<p>This website also contains links to websites operated by third parties. We have no control over information that is submitted to or collected by them.</p>
-
-<p>When we share information with third party organizations, we request to the extent we deem practical that they protect your information in a manner that is consistent with our privacy policy. We cannot, however, guarantee that they will do so.</p>
-
-<p>We also use non-personally identifiable information to improve our site and your Internet experience. Many of our web pages use text files called "cookies." These are placed on your hard disk by our web server to store your preferences. Some of the cookies are placed by our site and others by third parties which advertise on our website. Our cookies do not reveal to us your personally identifiable information. However, if you choose to provide personally identifiable information to us, then that information may be linked to the data stored in the cookie. Many websites, including ours, use cookies to save their visitors time and to improve the experience of those visitors on the sites they visit. You may choose to have your browser reject some or all cookies. This policy does not cover how the third parties use their cookies.</p>
-
-<p>Like most commercial websites, our site collects information about our visitors including how they came to our site, what browsers they use, what pages they visit, how long they spend on the site, from which pages they left our site, and to which sites they went to when they left our site. We use this information to improve our site and may share it with third party organizations.</p>
-
-<p>In order to better understand the people using our sites, we may supplement the information you provide to us with information from third party organizations. For example, you may accidentally provide to us an invalid zip code. We may correct that information with zip code information that we obtain from a third party.</p>
-
-<p>Some of the advertising appearing on our sites is served by Google, Inc. Some of their advertising is <a href="https://www.google.com/adsense/support/bin/answer.py?answer=100557">interest-based</a>.</p>
-
-<p>Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent. </p>
-
-<p>We have put in place physical, electronic, and other procedures to help keep your information safe and prevent unauthorized access. No security system is 100 percent safe from security breaches.  We cannot guaranty the security of the information collected on this website or information that you otherwise provide to us.  By using this website, you agree that you, and not us, bear the risk of any use or misuse of information about you due to a security breach.   Please note that credit card information submitted via this website is processed by a third party provider.  Further, when your information is provided to third party organizations their procedures will determine the safety of your data.  We cannot guarantee that they will keep your data as safe as you would want them to.</p>
-
-<p>Our web servers and other operations are located in the United States of America. Visitors from other countries authorize the export of personal information to the USA, the storage of that information in the United States, and the use of that information in the United States and other countries. This policy and our legal obligations are subject to the laws of the State of Minnesota and the United States, regardless of your location. The venue for any claims or complaints shall be in the United States in the State of Minnesota.</p>
-
-<p>We do not knowingly accept personal information from anyone under 13 years old in violation of applicable laws. This site is designed to be used by those who are at least 13 years of age and should not be used by those who are under 13 years old. We do not sell products or services for purchase by children and all products and services we sell are for purchase by adults only, or with adult permission.</p>
-
-<p>We consider the information you provide to be an asset of our company. As such, Adguide Publications, Inc. may include your information in the sale of any of its assets to any third party in the event of a merger, acquisition, or other transaction.</p>
-
-<p>You have the right to opt-out of receiving future communications from us.  If you do not wish to receive future communications from us, please follow the unsubscribe or removal instructions in the communications.</p>
-
-<p>UNDER NO CIRCUMSTANCES SHALL WE BE LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, THAT RESULT FROM THE USE OF THE INFORMATION COLLECTED AS A RESULT OF YOUR ACCESSING THIS WEBSITE OR OTHERWISE PROVIDED TO US EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. </p>
-
-<p>As is the case with all organizations, our business needs and policies evolve and change over time. We therefore reserve the discretion and right to change, modify, add, or remove portions from this policy at any time and such changes will retroactively apply to your information. Your use of this site means you accept this policy and any changes we may make to it.</p>
-
-</div>
-<!--<div id="col2">
-Left Column Will Go Here.
-</div>-->
-
-
-<div id="col3">
-<p>
-</p><br>
-
-<a href="http://sn.im/bnppv"><img src="/images/advertisements/180x150_recruit.gif"></a><br><br>
-
-	<b>Career Videos</b><br>
-	<iframe src="http://www.careertv.com/CollegeRecruiter/CR_Search.aspx?RefID=110&amp;keywords=internship" style="border: none; width: 200px; height: 200px;" scrolling="no" frameborder="0"></iframe><br>
-	
-<h3>Featured Employers</h3>
-	<!--<center>-->
-	<div style="min-height: 204px; border-bottom: 2px solid #eaeaea; padding-bottom: 6px; width: 120px;">
-		<div id="FE1" class="FE"><a href="http://snipurl.com/radio_shack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/rs.gif"></a></div>
-		<div id="FE2" class="FE"><a href="http://snipurl.com/internalrevenue"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/irs.gif"></a></div>
-		<div id="FE3" class="FE"><a href="http://snipurl.com/newengland"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/necc.gif"></a></div>
-		<div id="FE4" class="FE"><a href="http://snipurl.com/transamass"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/tra.gif"></a></div>
-		<div id="FE5" class="FE"><a href="http://snipurl.com/valpack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/valpak.gif"></a></div>
-		<div id="FE6" class="FE"><a href="http://snipurl.com/ups"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/ups.gif"></a></div>
-		<div id="FE7" class="FE"><a href="http://sn.im/bnpyo"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/crec.gif"></a></div>
-		<div id="FE8" class="FE"><a href="http://snipurl.com/9u5bn"><img id="FEimg" src="http://www.collegerecruiter.com/images/feat_employers/weyer.jpg"></a></div>
-		<div id="FE9" class="FE"><a href="http://sn.im/usarmy"><img id="FEimg" src="http://www.collegerecruiter.com/images/feat_employers/army-featured-emp.jpg"></a></div>	
-	</div>
-	
-
-<script type="text/javascript" language="javascript">
-
-$(document).ready(function(){
-	$("#load_poll").hide();
-	$("#load_poll").load("http://www.collegerecruiter.com/admanager/ads/poll/vertical.php?p=3");
-	$("#load_poll").show();
-
-});
-</script>
-<div id="load_poll" style="width:170px;display:none;">
-</div>	
-<!--	
-<iframe src="http://www.collegerecruiter.com/admanager/ads/poll/vertical.php?p=6" width="200" height="250" frameborder="0" scrolling="no" style="margin: 0; padding: 0;"></iframe>-->
-
-
-
-	<!--</center>-->
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-4473299699511092";
-/* 200x200 : CollegeRecruiter */
-google_ad_slot = "6777195737";
-google_ad_width = 200;
-google_ad_height = 200;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
 </script>
 
 
-<script type="text/javascript"><!--
-google_ad_client = "pub-4473299699511092";
-/* 200x200 : CollegeRecruiter */
-google_ad_slot = "6777195737";
-google_ad_width = 200;
-google_ad_height = 200;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-	
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common.min.css?xn_version=4138800444);
+@import url(http://static.ning.com/socialnetworkmain/widgets/page/css/component.min.css?xn_version=534288959);
 
-	<div style="margin: 1em 0pt 2em; text-align: center;">
-<a id="rss_job_feed_link" href="/pages/rss-subscribe.php"><img src="/upload_files/images/rss_logo.png" border="0"></a>
-	</div>
-    
-    <center>
-<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.collegerecruiter.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
-<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
-</tr>
-</tbody></table>
-	</center>
-	
-	
-<!-- ad rotater-->
-<script type="text/javascript">
-var timer=null;
-var counter=0;
-function banner(){
-	timer=setTimeout("banner()",4000);
-	counter++;
-	var i;
-	var id2;
-	switch(counter){
-		case 1:
-			document.getElementById("FE1").style.display='block';
-			document.getElementById("FE2").style.display='block';
-			document.getElementById("FE3").style.display='block';
-			for(i=7;i<10;i++){
-				id2="FE"+i;
-				document.getElementById(id2).style.display='none';
-			}
-		break;
-		case 2:
-			document.getElementById("FE4").style.display='block';
-			document.getElementById("FE5").style.display='block';
-			document.getElementById("FE6").style.display='block';
-			for(i=1;i<4;i++){
-				id2="FE"+i;
-				document.getElementById(id2).style.display='none';
-			} 
-		break;
-		case 3:
-			document.getElementById("FE7").style.display='block';
-			document.getElementById("FE8").style.display='block';
-			document.getElementById("FE9").style.display='block';
-			for(i=4;i<7;i++){
-				id2="FE"+i;
-				document.getElementById(id2).style.display='none';
-			}
-			counter=0;
-		break;
-	}
-$("#load_poll").show();
+</style>
+
+<style type="text/css" media="screen,projection">
+#xg_navigation ul div.xg_subtab ul li a {
+    color:#CCCCCC;
+    background:#000000;
 }
-</script>
-		
-</div>
-<!-- end container tags -->
-		</div>
-	</div>
-</div>
-	<div id="foot">
-		<div id="foot-form">
-<form action="/index.php" method="get">
-<input type="hidden" name="action" value="search">
-<div id="search_form" class="search">
-<div class="search_input" id="input2"><input class="search_input_style" name="title" type="text" value="" maxlength="75"><p><span style="color:#0099FF;"><b>What: </b></span>job title, keywords</p></div><div class="search_input" id="input15"><input class="search_input_style" name="loc" type="text" value="" maxlength="75"><p><span style="color:#0099FF;"><b>Where: </b></span> city, state</p></div>
-<input class="form_submit_button" type="submit" value="Find">
-		</div>
-</form>
-	</div>
-<ul>
-<li><a href="/pages/aboutus.php">About</a> | </li> 
-<li><a href="/myjobs/">Job Alerts</a> | </li> 
-<li><a href="/careers/ ">Advice &amp; Resources</a> | </li> 
-<li><a href="/salary/">Salary Calculator</a> | </li>
-<li><a href="http://l.lewpp.com/cgi/r?;n=203;c=498674;s=6844;x=7936;f=200903091459200;u=j;z=TIMESTAMP;ml=2;hdr=471124">School Finder</a> | </li> 
-<li>
-<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank">Bookmark</a> <script type="text/javascript">var addthis_pub = 'slickricky';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>| </li> 
-<li><a href="/pages/rss-subscribe.php">RSS</a> | </li> 
-<li><a href="/pages/privacy.php">Privacy</a> | </li>
-<li><a href="/pages/terms-of-use.php">Terms</a> | </li> 
-<li><a href="/pages/affiliateinfo.php">Affiliate</a>| </li> 
-<li><a href="/pages/urllist.php">Site Map</a> | </li> 
-<li><a href="/contact/">Contact</a>  </li> 
-</ul>
-<ul>
-	<li><a href="/employers/">Employers &amp; Advertisers</a> : </li>
-	<li><a href="/pages/ratecard-job-postings.php">Job Postings</a> | </li>
-	<li><a href="/pages/ratecard-targeted-email-sms-direct-mail.php">Targeted Emails</a> | </li>
-	<li><a href="/pages/ratecard-targeted-email-sms-direct-mail.php">Cell Phone Text Messaging</a> | </li>
-	<li><a href="/pages/ratecard-pay-per-lead-pay-per-click.php">Pay Per Lead/Click</a> | </li>
-	<li><a href="/pages/ratecard-banners-text-links-employer-spotlights.php">Banner Ads</a></li>
-	<!--<li><a href="/pages/ratecard-packages.php">Specials & Packages</a></li>-->
-</ul>
+#xg_navigation ul div.xg_subtab ul li a:hover {
+    color:#FFFFFF;
+    background:#666666;
+}
+</style>
 
+<style type="text/css" media="screen,projection">
+@import url(http://static.ning.com/collegerecruiter/instances/css/theme_1290040834.css?xn_version=201011172356);
+
+</style>
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?v=201011172356" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?v=201011172356" />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://collegerecruiter.com/profiles/blog/rsd">
+<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://static.ning.com/collegerecruiter/instances/shared/js/set_common.min.js?r=1289424068"></script><script type="text/javascript" src="http://static.ning.com/collegerecruiter/instances/shared/js/set_page_c0.min.js?r=1285795776"></script><script type="text/javascript" src="http://static.ning.com/collegerecruiter/instances/shared/js/set_sidebar_u.min.js?r=1279648054"></script></head>
+<body class="">
+
+<div id="xn_bar">
+    <div id="xn_bar_menu">
+        <div id="xn_bar_menu_branding">
+                                </div>
+
+        <div id="xn_bar_menu_more">
+            <form id="xn_bar_menu_search" method="GET" action="http://collegerecruiter.com/main/search/search">
+                <fieldset>
+                    <input type="text" name="q" id="xn_bar_menu_search_query" value="Search CollegeRecruiter.com" _hint="Search CollegeRecruiter.com" accesskey="4" class="text xj_search_hint">
+                    <a id="xn_bar_menu_search_submit" href="#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+                </fieldset>
+            </form>
+        </div>
+
+        <ul id="xn_bar_menu_tabs">
+                            <li><a href="http://collegerecruiter.com/main/authorization/signUp?target=http%3A%2F%2Fcollegerecruiter.com%2Fpage%2Fprivacy-policy">Sign Up</a></li>
+                <li><a href="http://collegerecruiter.com/main/authorization/signIn?target=http%3A%2F%2Fcollegerecruiter.com%2Fpage%2Fprivacy-policy">Sign In</a></li>
+                        </ul>
+    </div>
+</div>
+
+<div id="xg" class=" xg_widget_page xg_widget_page_page xg_widget_page_page_show">
+    <div id="xg_head">
+                    <div id="xg_masthead">
+                <p id="xg_sitename"><a id="application_name_header_link" href="/"><img src="http://api.ning.com:80/files/4stburNAjHC5G9Ji3SqdmDPpGEPczc5IyaU4fLUAQpwE-lNJ*gLaXor4YT3Ev4wjvIsYe8aLdZ*kgOLGE70BE5yxRwv0zeKg/logo_CollegeRecruiter.com_white_h75.png?width=455&amp;height=75&amp;xn_auth=no&amp;type=png" alt="CollegeRecruiter.com"></a></p>
+                <p id="xg_sitedesc">Entry Level Jobs and Internships for College Students and Recent Graduates</p>            </div>
+            <div id="xg_navigation">
+                <ul>
+                    <li dojotype="SubTabHover" id="xg_tab_main" class="xg_subtab"><a href="/"><span>Home</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="/profiles/settings/editProfileInfo" style="float:none;"><span>Account Settings</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/profiles" style="float:none;"><span>My Page</span></a></li></ul></div></li><li dojotype="SubTabHover" id="xg_tab_profile" class="xg_subtab"><a href="/profiles"><span>Job Seekers / Candidates</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/advanced-job-search" style="float:none;"><span>Advanced Job Search</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/groups" style="float:none;"><span>Employer Spotlights</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/scholarship-finder" style="float:none;"><span>Scholarship Finder</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/school-finder" style="float:none;"><span>School Finder</span></a></li></ul></div></li><li dojotype="SubTabHover" id="xg_tab_xn4" class="xg_subtab"><a href="#"><span>Advice &amp; Resources</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/advanced-job-and-blog-search" style="float:none;"><span>Advanced Blog Search</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/best-places-to-work" style="float:none;"><span>Best Places to Work</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="http://blog.collegerecruiter.com/" style="float:none;"><span>Blog</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/profiles/blog/list" style="float:none;"><span>Blogs by Members</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="http://www.livecareer.com/click/track.asp?ref=7402" target="_blank" style="float:none;"><span>Career Test - Free!!</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/forum" style="float:none;"><span>Forum</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="http://collegerecruiter.resumeedge.com/" target="_blank" style="float:none;"><span>Resume Writing Service</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/salary-calculator" style="float:none;"><span>Salary Calculator</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/video/video" style="float:none;"><span>Videos &amp; Webinars</span></a></li></ul></div></li><li dojotype="SubTabHover" id="xg_tab_xn6" class="xg_subtab"><a href="/page/advertising-options-for-1"><span>Employers</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/advertising-options-for-1" style="float:none;"><span>Advertising Options</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/featured-employer-tile-and-1" style="float:none;"><span>Banners</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/job-posting-ads-rate-card" style="float:none;"><span>Job Postings</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/packages-and-specials" style="float:none;"><span>Packages and Specials</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/mobile-marketing-cell-phone" style="float:none;"><span>SMS / Text Messaging</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/targeted-email-campaigns" style="float:none;"><span>Targeted Emails</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/client-testimonials-and-case" style="float:none;"><span>Testimonials</span></a></li></ul></div></li><li dojotype="SubTabHover" id="xg_tab_xn11" class="xg_subtab"><a href="/page/advertising-options-for"><span>Consumer Marketers</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/advertising-options-for" style="float:none;"><span>Advertising Options</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/client-testimonials-and-case" style="float:none;"><span>Testimonials</span></a></li></ul></div></li><li dojotype="SubTabHover" id="xg_tab_xn14" class="xg_subtab this"><a href="/page/about-us"><span>About Us</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/about-us" style="float:none;"><span>About Us</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/contact-us" style="float:none;"><span>Contact Us</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="http://blog.collegerecruiter.com/blog/category/press-releases/" style="float:none;"><span>Press Room</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/privacy-policy" style="float:none;"><span>Privacy Policy</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="/page/terms-of-service" style="float:none;"><span>Terms of Service</span></a></li></ul></div></li>                </ul>
+            </div>
+            </div>
+                <div id="xg_body">
+                                                    <div class="xg_column xg_span-16">
+                                <div class="xg_headline">
+    <div class="tb">
+        <h1>Privacy Policy</h1>
+    </div>
+</div>
+<div class="xg_module">
+    <div class="xg_module_body wpage">
+        <div class="description"><p>Visitors to this and other websites owned or powered by
+CollegeRecruiter.com, LLC can engage in a variety of activities
+such as post a resume, apply to a job, request information about
+continuing your education, request scholarship information,
+participate in surveys, enter contests, order products and/or
+services, and more. Job boards such as we operate cannot be well
+used by their visitors unless those visitors choose to provide
+information about themselves to us and the third party
+organizations that use our site to help them offer employment,
+educational, and other opportunities to our visitors.</p>
+<p>You may provide us with personally identifiable information that
+can directly identify you or indicate where you may be contacted
+during these activities. The information may include your name,
+address, age, date of birth, gender, class, email address,
+telephone number, credit card information, hobbies, interests, and
+more. Sometimes visitors provide similar information about others.
+We also collect generic information that does not identify you
+personally such as the type of browser and in which city you're
+located.</p>
+<p>Except as otherwise provided, we reserve the right to use and
+disclose any information that you provide via this website
+(regardless of whether such information is provided by you
+actively, passively, directly, or indirectly) for any purpose that
+we, in our sole discretion, deem necessary or proper. That said, it
+is our practice to limit the collection of information to what is
+necessary to administer our business and to deliver superior
+products and services to you, and to use and disclose the
+information collected in ways that are compatible with the purposes
+for which it is gathered. For example, if you apply to a job or
+request information about continuing your education, we may send
+the information you provide to the third party organization (the
+employer or school) which is of interest to you. Or we may, for
+example, share your information in order to send to you information
+about a product, service, or opportunity available either through
+Adguide Publications, Inc. or a third party organization. You may
+opt out of receiving such information from us under the procedures
+set forth below.</p>
+<p>This website also contains links to websites operated by third
+parties. We have no control over information that is submitted to
+or collected by them.</p>
+<p>When we share information with third party organizations, we
+request to the extent we deem practical that they protect your
+information in a manner that is consistent with our privacy policy.
+We cannot, however, guarantee that they will do so.</p>
+<p>We also use non-personally identifiable information to improve
+our site and your Internet experience. Many of our web pages use
+text files called "cookies." These are placed on your hard disk by
+our web server to store your preferences. Some of the cookies are
+placed by our site and others by third parties which advertise on
+our website. Our cookies do not reveal to us your personally
+identifiable information. However, if you choose to provide
+personally identifiable information to us, then that information
+may be linked to the data stored in the cookie. Many websites,
+including ours, use cookies to save their visitors time and to
+improve the experience of those visitors on the sites they visit.
+You may choose to have your browser reject some or all cookies.
+This policy does not cover how the third parties use their
+cookies.</p>
+<p>Like most commercial websites, our site collects information
+about our visitors including how they came to our site, what
+browsers they use, what pages they visit, how long they spend on
+the site, from which pages they left our site, and to which sites
+they went to when they left our site. We use this information to
+improve our site and may share it with third party
+organizations.</p>
+<p>In order to better understand the people using our sites, we may
+supplement the information you provide to us with information from
+third party organizations. For example, you may accidentally
+provide to us an invalid zip code. We may correct that information
+with zip code information that we obtain from a third party.</p>
+<p>Some of the advertising appearing on our sites is served by
+Google, Inc. and its affiliates. Some of their advertising is
+<a href="https://www.google.com/adsense/support/bin/answer.py?answer=100557">
+interest-based</a>.</p>
+<p>Any information that you post to content pages such as the
+blogs, our resume bank, or other pages on our site may become
+available to third parties. We may use that information for a
+variety of purposes including promoting the products we offer. Any
+information posted online should always be considered as being
+publicly posted so that information may be re-posted elsewhere
+without your knowledge or consent.</p>
+<p>We have put in place physical, electronic, and other procedures
+to help keep your information safe and prevent unauthorized access.
+No security system is 100 percent safe from security breaches. We
+cannot guaranty the security of the information collected on this
+website or information that you otherwise provide to us. By using
+this website, you agree that you, and not us, bear the risk of any
+use or misuse of information about you due to a security breach.
+Please note that credit card information submitted via this website
+is processed by a third party provider. Further, when your
+information is provided to third party organizations their
+procedures will determine the safety of your data. We cannot
+guarantee that they will keep your data as safe as you would want
+them to.</p>
+<p>Our web servers and other operations are located in the United
+States of America. Visitors from other countries authorize the
+export of personal information to the USA, the storage of that
+information in the United States, and the use of that information
+in the United States and other countries. This policy and our legal
+obligations are subject to the laws of the State of Minnesota and
+the United States, regardless of your location. The venue for any
+claims or complaints shall be in the United States in the State of
+Minnesota.</p>
+<p>We do not knowingly accept personal information from anyone
+under 13 years old in violation of applicable laws. This site is
+designed to be used by those who are at least 13 years of age and
+should not be used by those who are under 13 years old. We do not
+sell products or services for purchase by children and all products
+and services we sell are for purchase by adults only, or with adult
+permission.</p>
+<p>We consider the information you provide to be an asset of our
+company. As such, we may include your information in the sale of
+any of its assets to any third party in the event of a merger,
+acquisition, or other transaction.</p>
+<p>You have the right to opt-out of receiving future communications
+from us. If you do not wish to receive future communications from
+us, please follow the unsubscribe or removal instructions in the
+communications.</p>
+<p>UNDER NO CIRCUMSTANCES SHALL WE BE LIABLE FOR ANY DAMAGES,
+INCLUDING, BUT NOT LIMITED TO, INDIRECT, SPECIAL, INCIDENTAL,
+CONSEQUENTIAL OR EXEMPLARY DAMAGES, THAT RESULT FROM THE USE OF THE
+INFORMATION COLLECTED AS A RESULT OF YOUR ACCESSING THIS WEBSITE OR
+OTHERWISE PROVIDED TO US EVEN IF WE HAVE BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.</p>
+<p>As is the case with all organizations, our business needs and
+policies evolve and change over time. We therefore reserve the
+discretion and right to change, modify, add, or remove portions
+from this policy at any time and such changes will retroactively
+apply to your information. Your use of this site means you accept
+this policy and any changes we may make to it.</p></div>
+                    </div>    
+</div>
+                            </div>
+                            <div class="xg_column xg_span-4 xg_last">
+                       <div class="xg_module" id="xg_module_account">
+        <div class="xg_module_body xg_signup xg_lightborder">
+            <p>Welcome to<br>CollegeRecruiter.com</p>
+            <p class="last-child">
+                <big><strong><a href="http://collegerecruiter.com/main/authorization/signUp?target=http%3A%2F%2Fcollegerecruiter.com%2Fpage%2Fprivacy-policy">Sign Up</a></strong></big><br>
+                or <a href="http://collegerecruiter.com/main/authorization/signIn?target=http%3A%2F%2Fcollegerecruiter.com%2Fpage%2Fprivacy-policy" style="white-space:nowrap">Sign In</a>            </p>
+                            <div class="xg_external_signup xg_lightborder xj_signup">
+                    <p class="dy-small">You can also sign up with:</p>
+                    <ul class="providers">
+            <li data-provider-name="Facebook"><a onclick="window.open('https://collegerecruiter.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcollegerecruiter.com%252Fpage%252Fprivacy-policy%26source%3DsignUp%26close%3D1', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://collegerecruiter.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcollegerecruiter.com%252Fpage%252Fprivacy-policy%26source%3DsignUp%26close%3D0">
+                            <span class="mini-service mini-service-facebook" title="Facebook">Facebook</span>
+                    </a></li>
+            <li data-provider-name="Google"><a onclick="window.open('https://collegerecruiter.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid&amp;token_url=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcollegerecruiter.com%252Fpage%252Fprivacy-policy%26source%3DsignUp%26close%3D1', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://collegerecruiter.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid&amp;token_url=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcollegerecruiter.com%252Fpage%252Fprivacy-policy%26source%3DsignUp%26close%3D0">
+            <span class="mini-service mini-service-google" title="Google">Google</span>
+        </a></li>
+            <li data-provider-name="Yahoo!"><a onclick="window.open('https://collegerecruiter.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcollegerecruiter.com%252Fpage%252Fprivacy-policy%26source%3DsignUp%26close%3D1', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://collegerecruiter.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttp%253A%252F%252Fcollegerecruiter.com%252Fpage%252Fprivacy-policy%26source%3DsignUp%26close%3D0">
+            <span class="mini-service mini-service-yahoo" title="Yahoo!">Yahoo!</span>
+        </a></li>
+    </ul>
+                </div>
+                    </div>
+    </div>
+<div class="xg_module html_module module_text xg_reset">
+                <div class="xg_module_body nopad">
+            <div id="socialLinks">
+<ul>
+<li id="facebook"><a href="http://www.facebook.com/entryleveljobs" target="_blank" title="Facebook.com/entryleveljobs">Facebook.com/entryleveljobs</a></li>
+<li id="twitter"><a href="http://www.twitter.com/entryleveljob" target="_blank" title="Twitter.com/entryleveljobs">Twitter.com/entryleveljobs</a></li>
+<li id="linkedin"><a href="http://www.linkedin.com/companies/collegerecruiter.com" target="_blank" title="LinkedIn.com/companies/collegerecruiter.com">LinkedIn.com/companies/collegerecruiter.com</a></li>
+<li id="youtube"><a href="http://www.youtube.com/collegerecruiter" target="_blank" title="YouTube.com/collegerecruiter">YouTube.com/collegerecruiter</a></li>
+<li id="feeds"><a href="http://feeds.feedburner.com/collegerecruiter/iCGL" target="_blank" title="CollegeRecruiter.com/Feeds">CollegeRecruiter.com/Feeds</a></li>
+</ul>
+</div>
+        </div>
+            </div>
+
+<!-- Template Start:  -->
+<div class="xg_module html_module module_text xg_reset">
+                <div class="xg_module_body nopad">
+            <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-4473299699511092");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-4473299699511092", "468x60");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script><!-- ca-pub-4473299699511092/468x60 -->
 <br>
-© Copyright 1996-2009 <a href="http://www.collegerecruiter.com/">CollegeRecruiter.com</a>  All rights reserved.
+<div id="IMU_468x60"><script type="text/javascript">
+GA_googleFillSlot("468x60");
+</script></div>
+<br>
+<div id="IMU_blob"><script language="javascript" src="http://syn.livecareer.com/adpanel/show.ashx?apcd=CRCPP04" type="text/javascript">
+</script></div>
+<br>
+<div id="IMU_180x300"><script language="javascript" src="http://syn.livecareer.com/adpanel/show.ashx?apcd=CRCPP06" type="text/javascript">
+</script></div>
+        </div>
+            </div>
+
+<!-- Template Start:  -->
+                </div>
+                                </div>
+            <div id="xg_foot">
+        <p class="left">
+            © 2010 &nbsp; Created by <a href="/xn/detail/u_StevenRothberg">CollegeRecruiter.com, LLC</a>.                    </p>
+                    <p class="right xg_lightfont">
+                                <a href="http://collegerecruiter.com/main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                                                    <a href="http://collegerecruiter.com/main/authorization/signUp?target=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Findex%2Freport" dojotype="PromptToJoinLink" _joinprompttext="Please sign up or sign in to complete this step." _signinurl="http://collegerecruiter.com/main/authorization/signIn?target=http%3A%2F%2Fcollegerecruiter.com%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                                <a href="http://collegerecruiter.com/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fcollegerecruiter.com%2Fpage%2Fprivacy-policy">Terms of Service</a>
+            </p>
+            </div>
+
 </div>
 
+<div id="xj_baz17246"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
 
-<b><a href="http://www.RazorIT.com/" title="Web Site Management, Website Maintenance, Web Design" class="slickricky"> Affordable Web Design, Website Management, Site Maintenance</a></b>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use CollegeRecruiter.com.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="/xn_resources/widgets/index/gfx/jstrk_off.gif" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?v=201011172356"></script>        <script>
+            var sources = ["http:\/\/b.scorecardresearch.com\/beacon.js","http:\/\/static.ning.com\/collegerecruiter\/instances\/shared\/js\/set_common.min.js?r=1289424068","http:\/\/static.ning.com\/collegerecruiter\/instances\/shared\/js\/set_page_c0.min.js?r=1285795776","http:\/\/static.ning.com\/collegerecruiter\/instances\/shared\/js\/set_sidebar_u.min.js?r=1279648054"];
+            var numSources = sources.length;
+            var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            for (var i = 0; i < numSources; i++) {
+                var source = sources[i];
+                xg._loader.loading(source);
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                var cb = (function(source) { return function() { xg._loader.onLoad(source); }; })(source);
+                script.onerror = script.onload = cb;
+                script.onreadystatechange = function() {
+                    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+                        cb();
+                    }
+                }
+                script.src = source;
+                node.appendChild(script);
+            }
+        </script>
+    <script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2010-11-21T00:32:21+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201011172356_12'; // DEP-5883-1:ec93a24 17
+djConfig.parseWidgets = false;
 </script>
 <script type="text/javascript">
-_uacct = "UA-88771-1";
-urchinTracker();
+    xg.token = '';
+    xg.cdnHost = 'static.ning.com';
+    xg.version = '201011172356';
+    xg.useMultiCdn = true;
+        xg.staticRoot = 'socialnetworkmain';
+    xg.xnTrackHost = "track.ning.com";
+            xg.cdnDefaultPolicyHost = 'static';
+        xg.cdnPolicy = [];
+        xg.global = xg.global||{}; xg.global.currentMozzle = 'page';
+    xg.global.userCanInvite = false;
+    xg.global.requestBase = '';
+    xg.global.locale = 'en_US';
+    xg.num_thousand_sep = ",";
+        (function() {
+        dojo.addOnLoad(function() {
+            if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+                    });
+                            xg._loader.onLoad('xnloader');
+            })();
 </script>
-
 <script type="text/javascript">
-$("#local_time").click(function() {
-	server_time = $("#local_time").attr('title');
-	s_d = new Date();
-	s_l = new Date();
-	s_d.setTime(Date.parse(server_time));
-	off_set = s_l.getTimezoneOffset()-240;
-	s_d.setMinutes(s_d.getMinutes() - off_set);
-	alert("Your Local Start Time:\n"+s_d.toLocaleString());
-});
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-88771-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
-
-
+<!-- Template Start:  -->
 </body></html>
