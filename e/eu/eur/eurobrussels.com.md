@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102202450id_/http%3A//www.eurobrussels.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121212345id_/http%3A//eurobrussels.com/privacy_policy.php) for the most accurate reproduction.*
 
 # EuroBrussels.com - Privacy policy
 
