@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugno.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627065234id_/http%3A//ugno.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugno.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121231352id_/http%3A//ugno.com/privacy.html) for the most accurate reproduction.*
 
 # Cararu
 
