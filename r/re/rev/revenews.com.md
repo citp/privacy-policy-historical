@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412075425id_/http%3A//www.revenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121165052id_/http%3A//www.revenews.com/privacy) for the most accurate reproduction.*
 
 # ReveNews Privacy Policy | ReveNews
 
@@ -36,4 +36,4 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 ### Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: feedback@revenews.comRead ReveNews [Terms Of Use](https://web.archive.org/terms).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: feedback@revenews.comRead ReveNews [Terms Of Use](http://www.revenews.com/terms).
