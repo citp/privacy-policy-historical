@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513074327id_/http%3A//www.einstruction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121192418id_/http%3A//einstruction.com/privacy_policy.html) for the most accurate reproduction.*
 
 # eInstruction - Privacy Policy
 
