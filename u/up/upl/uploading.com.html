@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2010-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100322235442id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121155017id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Uploading.com - the simplest and secure way to host your files!</title>
@@ -8,7 +8,7 @@
 	<meta name="description" content="Upload files">
 	<link rel="shortcut icon" href="http://uploading.com/favicon.ico">
 
-	<link rel="stylesheet" type="text/css" href="http://uploading.com/static/css/main.css?v=3">	<script type="text/javascript" src="http://uploading.com/static/js/jquery.js"></script>	<script type="text/javascript" src="http://uploading.com/static/js/main.js"></script>	<script type="text/javascript" src="http://uploading.com/static/js/JsHttpRequest.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://uploading.com/static/css/main.css?v=17">	<script type="text/javascript" src="http://uploading.com/static/js/jquery.js"></script>	<script type="text/javascript" src="http://uploading.com/static/js/main.js"></script>	<script type="text/javascript" src="http://uploading.com/static/js/JsHttpRequest.js"></script>
 	<script language="javascript" src="http://www.google-analytics.com/ga.js"></script>
 </head>
 
@@ -17,21 +17,23 @@
 <script language="javascript">
 	var CONF = {host: 'http://uploading.com/', domain: 'uploading.com'};
 
-	if(navigator.userAgent.indexOf('linux') != -1)
+	if(navigator.userAgent.toLowerCase().indexOf('linux') != -1)
 	{
 		if($.browser.mozilla)
 			$("body").append('<link rel="stylesheet" type="text/css" href="'+ CONF.host + 'static/css/linux_firefox.css">');
 		else if($.browser.opera)
 			$("body").append('<link rel="stylesheet" type="text/css" href="'+ CONF.host + 'static/css/linux_opera.css">');
 	}
+	var text_yes	= 'Yes';
+	var text_no		= 'No';
 
 </script>
 
 <div id="header">
-	<a href="http://uploading.com/"><img src="http://uploading.com/static/images/logo.png" class="logo" alt="Uploading.com"></a> 
+	<a href="http://uploading.com/"><img src="http://uploading.com/static/images/logo2.png" class="logo" alt="Uploading.com"></a> 
 
 	<div id="login_box">
-	<form action="http://uploading.com/general/login_form/" class="login" method="post" entity="ajax" id="login_form">
+	<form action="http://uploading.com/general/login_form/" class="login" method="post" entity="ajax" id="login_form" onsubmit="javascript: return check_login_captcha_showed(); ">
 		<table class="tform">
 			<tbody><tr>
 				<td class="tright"><label>E-mail:</label></td>
@@ -70,18 +72,22 @@
 </div>
 
 <div id="login_captcha_form" style="display: none;">
-<!--
-	<div style="padding-left: 40px;">
-		<label style="position: absolute; left: 0pt; width: 360px; text-align: center;">Please enter the code displayed on the image:</label><br/>
-		<img style="margin-left: -7px; margin-top: 5px; width: px; height: px; title="Loading..." alt="Loading..." id="login_captcha" src="" /><br/>
-		<input type="text" id="login_captcha_code" style="width: 80px;"/>
-	</div>
--->
+	<!--
+		<div style="text-align: center;">
+			<label id="enter_captcha">Please enter the code displayed on the image</label><br/>
+			<div style="height: px; margin: 10px;">
+			<center>
+				<img style="display: none; width: px; height: px;" id="login_captcha" src="" onload="$('#login_captcha_loading').hide(); $('#login_captcha').show()"/>
+				<div class="captcha_loading" id="login_captcha_loading">Loading...</div>
+			</center>
+			</div>
+			<input type="text" class="text" id="login_captcha_code" style="width: px; margin-bottom: 10px;"/>
+		</div>
+	-->
 </div>
 
 <script language="javascript">
 
-	var login_window_id;
 	function login_form_callback(resp)
 	{
 		if(resp && resp.captcha)
@@ -93,20 +99,36 @@
 	function show_login_captcha(type, callback)
 	{
 		var d = new Date();
-		var content = get_system_window_content($('#login_captcha_form').html());
-		login_window_id = show_dhtml_window(content, [{title: 'Submit', handler: callback}]);
+		var content = get_system_window_content($('#login_captcha_form').html(), true);
+		open_windows.login_captcha_window_id = show_dhtml_window(content, [{title: 'Submit', handler: callback}]);
 		$('#login_captcha').attr('src', 'http://uploading.com/general/captcha/'+type+'/?ts=' + d.getTime());
 	}
 
 	function submit_login()
 	{
-		do_request('general', 'login_form', {email: $('!login_email').value, password: $('!login_password').value, remember: $('!remember_checkbox').checked, captcha: $('!login_captcha_code').value}, login_form_callback);
-		$('#' + login_window_id).html('').hide();
+		do_request('general', 'login_form', {
+			email: $('!login_email').value,
+			password: $('!login_password').value,
+			remember: $('!remember_checkbox').checked,
+			captcha: $('!login_captcha_code').value
+		}, login_form_callback);
+
+		close_login_captcha_window();
+	}
+
+	function close_login_captcha_window()
+	{
+		close_system_window(open_windows.login_captcha_window_id);
+	}
+
+	function check_login_captcha_showed()
+	{
+		return open_windows.login_captcha_window_id ? false : true;
 	}
 
 </script><div class="menu"><div>
 <ul>
-	<li class=" first"><a href="http://uploading.com/files/upload/">Upload File</a></li><li class=""><a href="http://uploading.com/premium/">Premium Membership</a></li><li class=""><a href="http://uploading.com/registration/">Sign Up</a></li><li class=""><a href="http://uploading.com/partners/">For Partners</a></li><li class=""><a href="http://uploading.com/faq/">FAQ</a></li><li class=""><a href="http://uploading.com/top100/">Top 100</a></li><li class=""><a href="http://uploading.com/contactus/">Support</a></li></ul>
+	<li class=" first"><a href="http://uploading.com/files/upload/">Upload File</a></li><li class=""><a href="http://uploading.com/premium/">Premium Membership</a></li><li class=""><a href="http://uploading.com/registration/">Sign Up</a></li><li class=""><a href="http://uploading.com/partners/">For Partners</a></li><li class=""><a href="http://uploading.com/faq/">FAQ</a></li><li class=""><a href="http://uploading.com/top_files/">Top Files</a></li><li class=""><a href="http://uploading.com/contactus/">Support</a></li></ul>
 </div></div>
 
 <div id="lang" class="lang"><img src="http://uploading.com/static/images/blank.gif" class="lngen" alt=""></div>
@@ -129,7 +151,7 @@ $(function()
 	var languages = [];
 	var lng_numbers = [];
 
-	languages[1] = "en";lng_numbers[1] = 1;languages[2] = "de";lng_numbers[2] = 2;languages[3] = "fr";lng_numbers[3] = 3;languages[18] = "pt";lng_numbers[4] = 18;languages[19] = "br";lng_numbers[5] = 19;languages[4] = "es";lng_numbers[6] = 4;languages[5] = "no";lng_numbers[7] = 5;languages[6] = "nl";lng_numbers[8] = 6;languages[7] = "gr";lng_numbers[9] = 7;languages[8] = "fi";lng_numbers[10] = 8;languages[9] = "it";lng_numbers[11] = 9;languages[10] = "cz";lng_numbers[12] = 10;languages[16] = "sk";lng_numbers[13] = 16;languages[11] = "pl";lng_numbers[14] = 11;languages[12] = "ru";lng_numbers[15] = 12;languages[13] = "tr";lng_numbers[16] = 13;languages[14] = "jp";lng_numbers[17] = 14;languages[15] = "cn";lng_numbers[18] = 15;
+	languages[1] = "en";lng_numbers[1] = 1;languages[2] = "de";lng_numbers[2] = 2;languages[3] = "fr";lng_numbers[3] = 3;languages[18] = "pt";lng_numbers[4] = 18;languages[19] = "br";lng_numbers[5] = 19;languages[4] = "es";lng_numbers[6] = 4;languages[5] = "no";lng_numbers[7] = 5;languages[6] = "nl";lng_numbers[8] = 6;languages[7] = "gr";lng_numbers[9] = 7;languages[8] = "fi";lng_numbers[10] = 8;languages[9] = "it";lng_numbers[11] = 9;languages[10] = "cz";lng_numbers[12] = 10;languages[11] = "pl";lng_numbers[13] = 11;languages[12] = "ru";lng_numbers[14] = 12;languages[20] = "hr";lng_numbers[15] = 20;languages[16] = "sk";lng_numbers[16] = 16;languages[13] = "tr";lng_numbers[17] = 13;languages[14] = "jp";lng_numbers[18] = 14;languages[15] = "cn";lng_numbers[19] = 15;
 	var lang = $('#lang');
 	var lang_im = lang.find('img');
 	
@@ -218,6 +240,7 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 		<li><a href="http://uploading.com/terms/">Terms &amp; Conditions</a></li>
 		<li><a href="http://uploading.com/privacy/">Privacy Policy</a></li>
 		<li><a href="http://uploading.com/dmca/">DMCA</a></li>
+		<li><a href="http://resellers.uploading.com/">Resellers</a></li>
 		<li><a href="http://uploading.com/filechecker/">File Checker</a></li>
 	</ul>
 </div>
@@ -231,6 +254,10 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 		pageTracker._trackPageview();
 	}
 	catch(err){}
+
+	if(1290354861 - cookie.get('time') > 100)
+		set_notification('alert', 'Cookies seem to be disabled in your browser!<br />They must be enabled to continue using Uploading.com. Please enable cookies in your browser and reload the page.');
+
 </script>
 
 <script language="javascript">
@@ -247,5 +274,6 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 	}
 
 </script>
+
 
 </body></html>
