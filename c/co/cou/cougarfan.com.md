@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarfan.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507231517id_/http%3A//www.cougarfan.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarfan.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121134534id_/http%3A//www.cougarfan.com/about/privacy.html) for the most accurate reproduction.*
 
 # CougarFan.com : Privacy Policy
 
@@ -24,9 +24,9 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 If you have any additional questions about CougarFan.com's dedication to consumer privacy, please contact us at [privacy@cougarfan.com](mailto:privacy@cougarfan.com).
 
-_CougarFan.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.flycast.com/about_us/about-privacy.html>._
+**Third Parties**
 
-_We also have ads served onto our site by Advertising.com.   To visit their privacy statement, [please click here](http://www.advertising.com/privacy/index.html)._
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-  © Copyright 1999, CougarFan.com, all rights reserved    
+  © Copyright 1999-2010, CougarFan.com, all rights reserved    
   Maintainer: [webmaster@CougarFan.com](mailto:webmaster@CougarFan.com)
