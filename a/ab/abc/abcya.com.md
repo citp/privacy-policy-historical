@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102060328id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035646id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
 
-# ABCya! The Elementary Computer Web site - Primary Grade Technology Lessons - PRIVACY POLICY
+# ABCya! Privacy Policy
 
 Privacy Policy
 
