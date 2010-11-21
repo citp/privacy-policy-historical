@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419073340id_/http%3A//classmarker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121011741id_/http%3A//www.classmarker.com/privacy.php) for the most accurate reproduction.*
 
 # Online testing Privacy. Online testing ClassMarker
 
@@ -21,15 +21,15 @@ We collect this information as a means of personalization and contact if require
 
 We may monitor this website (including using 'cookies') in order to identify user trends, which will assist us in improving the site. If that occurs, the information will only be used in aggregate form and your individual details will not be identified or disclosed to any person.
 
-**Teachers** will have access to, and only to, their own information and some information on the learners they have registered under them. Information teachers have from their learners is user name, full name, email address and test results. Learners do not have access to anyones user name but their own.
+**Instructors** will have access to, and only to, their own information and some information on the learners they have registered under them. Information Instructors have from their learners is user name, full name, email address and test results. Learners do not have access to anyones user name or email except their own.
 
-**Learners** will have access only to their own information and their teachers name. They will also see any notes left by a teacher which is intended to be seen by the whole class.
+**Learners** will have access only to their own information and their Instructs name. They will also see any notes left by an Instructor which is intended to be seen by the whole class.
 
-**Results from online testing** will only be available for the test taker (individual learner) only and their teachers. Learners cannot see each others online test results.
+**Results from online testing** will only be available for the test taker (individual learner) only and their Instructors. Learners cannot see each others online test results.
 
-Passwords can not be viewed by teachers or learners at all. Passwords can only be reset via the forgot password page linked to from the home page or via the 'Edit my details' page.
+Passwords can not be viewed by Instructors or learners at all. Passwords can only be reset via the forgot password page linked to from the home page or via the 'Edit my details' page.
 
-Teachers and Learners alike can easily edit their own information at any time after they have logged in.
+Instructors and learners alike can easily edit their own information at any time after they have logged in.
 
 **External tests saved information**
 
@@ -47,7 +47,7 @@ Tests are only available to those who the account administrator gives access to.
 
 **Cookies**
 
-Advertising is shown on ClassMarker pages for teacher accounts that are not upgraded and for student accounts that are not currently registered under an upgraded teacher account. External testing will also show advertising when test results are not being saved for the current test that is being taken at that time.
+Advertising is shown on ClassMarker pages for Instructor accounts that are not upgraded, and for student accounts that are not currently registered under an upgraded Instructor account. External testing will also show advertising when test results are not being saved for the current test that is being taken at that time.
 
   * Google, as a third-party vendor, uses cookies to serve ads on ClassMarker.
   * Google's use of the DART cookie enables it to serve ads to ClassMarker users based on their visit to ClassMarker and other sites on the Internet.
