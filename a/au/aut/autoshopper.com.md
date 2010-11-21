@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoshopper.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612150833id_/http%3A//www.autoshopper.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoshopper.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121134003id_/http%3A//www.autoshopper.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # AutoShopper.com - Privacy Policy
 
@@ -32,9 +32,15 @@ AutoShopper.com contains links to other sites. Please be aware that Showcase Pub
 
 ## Third Party Advertising
 
-Advertisements that appear on AutoShopper.com are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. AutoShopper.com does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on AutoShopper.com unless you choose to share it with them.
+Advertisements that appear on AutoShopper.com are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. AutoShopper.com does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on AutoShopper.com unless you choose to share it with them.
 
-This privacy policy covers the use of cookies by AutoShopper.com and does not cover the use of cookies or other tracking technologies by any of its advertisers. If you would like more information about third party advertisements on this site and to know your choices about not having information used by third party advertisers, [click here](http://www.google.com/privacy_ads.html).
+This privacy policy covers the use of cookies by AutoShopper.com and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+Google AdSense (Google.com)  
+If you would like more information about third party advertisements used on this site served from Google.com and to know your choices about not having information used by their advertisers, [click here](http://www.google.com/privacy_ads.html).
+
+Burst Media  
+If you would like more information about third party advertisements used on this site served from Burst Media and to know your choices about not having information used by their advertisers, visit [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ## Sharing
 
