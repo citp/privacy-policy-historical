@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the posterous.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028105455id_/http%3A//posterous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posterous.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121081400id_/https%3A//posterous.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Posterous - The place to post everything. Just email us. Dead simple blog by email.
+# Privacy Policy - Posterous - The place to post everything. Just email us. Post and share from anywhere..
+
+Hey, thanks for coming. Would you mind signing in? 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
@@ -8,11 +10,11 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 Any information gathered by Posterous is used to customize the Posterous experience, and is not shared or sold to any third parties, except as expressly provided for in this Privacy Policy and our Terms of Use.
 
-Posterous reserves the right to view privates sites and private posts for the purposes of fixing issues, and to look for copyrighted or other inappriate material. This will only be done as necessary and these posts will never be shared by anyone else. 
+Posterous reserves the right to view private sites and private posts for the purposes of fixing issues, and to look for copyrighted or other inappriate material. This will only be done as necessary and these posts will never be shared by anyone else. 
 
 #### Our Commitment To Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We believe in protecting your information just as as we would want our information protected.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We believe in protecting your information just as we would want our information protected.
 
 In the event that personal information is compromised as a result of a breach of security, Posterous will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
