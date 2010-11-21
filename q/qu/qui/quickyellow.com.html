@@ -1,80 +1,136 @@
-<!--The following is the downloaded HTML source of the quickyellow.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529023804id_/http%3A//www.quickyellow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quickyellow.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121034809id_/http%3A//www.quickyellow.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/styles/screen.layout.v3.css" type="text/css" rel="stylesheet">
+<link type="text/css" href="/styles/jquery-ui-1.8rc3.custom.css" rel="Stylesheet">
+<script type="text/javascript" src="/scripts/v3/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/scripts/v3/js/jquery-ui-1.8rc3.custom.min.js"></script>
+<script type="text/javascript" src="/scripts/v3/js/jquery.validate.js"></script>
 
-<title>Privacy Policy | QuickYellow.com</title>
-<link href="/styles/common/common.css" type="text/css" rel="stylesheet">
-<link type="text/css" href="/styles/common/jquery-ui-1.8rc3.custom.css" rel="Stylesheet">	
-<script type="text/javascript" src="/scripts/common/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="/scripts/common/jquery-ui-1.8rc3.custom.min.js"></script>
-<script type="text/javascript" src="/scripts/common/jquery.blockUI.js"></script>
-<script type="text/javascript" src="/scripts/common/jquery.validate.js"></script>
-<script type="text/javascript" src="/scripts/common/jquery.corner.js"></script>
+
+
+<title>Privacy Policy | We Know Business | QuickYellow.com</title>
+</head>
+<body>
+<div id="container"><div id="container-innerpad">
+
+<div id="banner">
+  	<a href="/" id="logo" title="Online Yellow Pages"></a>
+    <div id="menu"> 
+    	<a href="/">Online Yellow Pages</a><a href="/">Find a Business</a><a href="/business/">Add a Business</a>	
+    </div>
+</div>
+
+
+<div id="searcharea">
+	<div id="searcharea-menu">
+    	<div id="title">Find a Business</div>
+        <div id="menu">
+        	
+				<a href="/business/">Sign Up</a><a href="/business.manage">My Account</a>
+			
+        </div>
+    </div>
+    <div id="searcharea-searchbox">
+    	<form id="searchform" action="/search/" method="post">
+            <table border="0" cellspacing="0" cellpadding="1">
+              <tbody><tr>
+                <td width="160"><input name="fWhat" id="fWhat" type="text" value="Category or Business Name" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></td>
+                <td width="20" align="right"><strong>IN&nbsp;&nbsp;</strong></td>
+                <td width="150"><input name="fWhere" id="fWhere" type="text" value="Location (ie: Chicago, IL)" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></td>
+                <td rowspan="2" width="180"><a href="#" class="searchbutton" onclick="javascript:submitForm();"></a><input type="submit" style="display:none;"></td>
+                <td rowspan="2" align="center">
+                	<a href="#" id="location-set" style="display:block;font-size: 11px;margin: 0 0 0 20px;font-weight: bold;text-align:center;">Update Your<br>Default Location</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span style="font-size: 10px;">(keyword, category, business name)</span></td>
+                <td>&nbsp;</td>
+                <td><span style="font-size: 10px;">(city, state OR zip)</span></td>
+              </tr>
+            </tbody></table>
+          <input type="hidden" name="action" value="formsubmit">
+        </form>
+    </div>
+</div>
+
+<div id="location-whereareyou">
+    <strong id="title">Where Are You?</strong>
+    <div id="form">
+        <table cellpadding="5"><tbody><tr>
+            <td><form method="post" action="/search/" id="updatelocationform" style="margin: 0;padding:0;">
+                <input name="fWhereUpdate" id="fWhereUpdate" type="text" value="City, State" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">&nbsp;&nbsp;<input name="Go" type="submit" value="Update Location"><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></form></td>
+            <td><strong>We can provide top listings and events in your area!</strong></td>
+        </tr></tbody></table>
+    </div>
+    <a href="#" id="location-close"></a>
+</div>
 
 <script type="text/javascript">
 	$(function() {	
 		$("#searchform").submit(function() {
-		if ($("#fWhat").val() == "" || $("#fWhat").val() == "ex: Plumbers" || $("#fWhere").val() == "" || $("#fWhere").val() == "ex: Chicago, IL") {
+		if ($("#fWhat").val() == "" || $("#fWhat").val() == "Category or Business Name" || $("#fWhere").val() == "" || $("#fWhere").val() == "Location (ie: Chicago, IL)") {
 			alert('You must enter both search parameters in order to proceed.');
   			return false;}
 		else {
 			return true;}			
 		});
-		$("#fWhat").focus(function() {if ($(this).val() == "ex: Plumbers"){$(this).val('');}});
-		$("#fWhere").focus(function() {if ($(this).val() == "ex: Chicago, IL"){$(this).val('');}});
-		$("#fWhat").autocomplete({source: "/scripts/category.cfm",minLength: 2});
-		$("#fWhere").autocomplete({source: "/scripts/citystate.cfm",minLength: 3});		
+		$("#updatelocationform").submit(function() {
+		if ($("#fWhereUpdate").val() == "" || $("#fWhereUpdate").val() == "City, State") {
+			alert('Please enter your current location (ie: city, state).');
+  			return false;}
+		else {
+			return true;}			
+		});
+		$("#fWhat").focus(function() {if ($(this).val() == "Category or Business Name"){$(this).val('');}});
+		$("#fWhere").focus(function() {if ($(this).val() == "Location (ie: Chicago, IL)"){$(this).val('');}});
+		$("#fWhereUpdate").focus(function() {if ($(this).val() == "City, State"){$(this).val('');}});
+		$("#fWhat").autocomplete({source: "/scripts/v3/category.cfm",minLength: 2});
+		$("#fWhere").autocomplete({source: "/scripts/v3/citystate.cfm",minLength: 3});		
+		$("#fWhereUpdate").autocomplete({source: "/scripts/v3/citystate.cfm",minLength: 3});
+		$('#location-set').click(function() {$('#location-whereareyou').show('slow', function() {});});
+		$('#location-close').click(function() {$('#location-whereareyou').hide('slow', function() {});});
 	});
+
 	function submitForm(){
-		if ($("#fWhat").val() == "" || $("#fWhat").val() == "ex: Plumbers" || $("#fWhere").val() == "" || $("#fWhere").val() == "ex: Chicago, IL") {
+		if ($("#fWhat").val() == "" || $("#fWhat").val() == "Category or Business Name" || $("#fWhere").val() == "" || $("#fWhere").val() == "Location (ie: Chicago, IL)") {
 			alert('You must enter both search parameters in order to proceed.');}
 		else {$("#searchform").submit();}
 	}
-</script>
+</script> <div id="hp-ads-728x90"><div id="ad">
+	<script type="text/javascript"><!--
+    google_ad_client = "ca-pub-8825891582215045";
+    /* QY | Sitewide | 728x90 */
+    google_ad_slot = "2647639051";
+    google_ad_width = 728;
+    google_ad_height = 90;
+    //-->
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+</div></div>
 
-
-</head>
-
-<body id="sp">
-
-
-<div id="banner">
-<div id="logo"><a href="/" title="Online Yellow Pages"></a></div>
-<div id="search"></div>
-<form id="searchform" action="/search/" method="post">
-    <table width="100%" border="0" cellspacing="0" cellpadding="3">
-      <tbody><tr>
-        <td width="40" align="right"><strong>FIND&nbsp;&nbsp;</strong></td>
-        <td width="160"><input name="fWhat" id="fWhat" type="text" value="ex: Plumbers" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></td>
-        <td width="20" align="right"><strong>IN&nbsp;&nbsp;</strong></td>
-        <td width="150"><input name="fWhere" id="fWhere" type="text" value="ex: Chicago, IL" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></td>            
-        <td rowspan="2"><a href="#" class="searchbutton" onclick="javascript:submitForm();"></a><input type="submit" style="display:none;"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>          
-        <td><span class="smallfont">(keyword, category, business name)</span></td>
-        <td>&nbsp;</td>
-        <td><span class="smallfont">(city, state OR zip)</span></td>
-      </tr>
-    </tbody></table><input type="hidden" name="action" value="formsubmit">
-</form>
+<div id="sp-businesspromo">
+    <div id="text">
+        <h1>Want to grow your business <strong>online</strong>?</h1>
+        <p>Take advantage of your free business profile and start telling customers about yourself. It's free, easy and a great way to promote your business.</p>
+    </div>
+    <a href="/business/" id="addyourbusiness"></a>            
 </div>
 
-<div id="body">
-
-    <div id="crumbtrail"><a href="/">Home</a> &gt; <strong>Privacy Policy</strong></div>
-    
-    <div id="contentarea">
-        <div id="top"></div><div id="lower"></div>
-        <div id="content">
-        <div id="title">
-          <h1>Privacy Policy</h1>
-        </div>
-        <div id="container">
-            <div id="left">
-				<p>IDC Networks, Inc, the developers of  QuickYellow.com and QuickYellow tools, understand and respect your concerns for  privacy. The purpose of this Privacy  Policy is to tell you what kind of information we may gather about you when you  visit our site, how we may use that information, whether we disclose it to  anyone, and the choices you have regarding our use of, and your ability to  correct this information. Our goal is to provide you with a satisfying  experience while allowing you to control your privacy and to give you a means  to voice any questions or concerns you may have. By using our websites you are  acknowledging and accepting this Privacy Policy.</p>
+            
+<div id="crumbtrail">
+    <a href="/">Home</a><strong>Privacy Policy</strong>
+</div>
+            
+<div id="sp-title">
+    <h1>Privacy Policy</h1>
+</div>
+            
+<div id="sp-left">
+	<p>IDC Networks, Inc, the developers of  QuickYellow.com and QuickYellow tools, understand and respect your concerns for  privacy. The purpose of this Privacy  Policy is to tell you what kind of information we may gather about you when you  visit our site, how we may use that information, whether we disclose it to  anyone, and the choices you have regarding our use of, and your ability to  correct this information. Our goal is to provide you with a satisfying  experience while allowing you to control your privacy and to give you a means  to voice any questions or concerns you may have. By using our websites you are  acknowledging and accepting this Privacy Policy.</p>
         <h3>Collection of information</h3>
         <p>Information is collected primarily to  make it easier and more rewarding for you to use our services. </p>
         <p>IDC Networks, Inc [IDC] mostly collects  anonymous information through QuickYellow and other websites it operates. For  instance, we may collect information to tell us that five thousand people visit  this Privacy Policy today, but we do not know their names, where they live or  their date of birth - they are 'anonymous' to us. If you you are asked to  provide your name, email address and other information and you provide your  personal information, you are not anonymous to IDC.</p>
@@ -91,33 +147,33 @@
         <p>IDC properties may contain links to  third-party websites. IDC is not responsible for the privacy practices or the  content of such websites.</p>
         <h3>Complaints about privacy</h3>
         <p>If you have any complaints relating to  online privacy issues on QuickYellow or any of our websites, please notify us  at <a href="mailto:privacy@idcnetworks.com">privacy@idcnetworks.com</a>.</p>
-            </div>
-            <div id="right">
-                <script type="text/javascript"><!--
-	google_ad_client = "pub-8825891582215045";
-	/* New QuickYellow 300x250 */
-	google_ad_slot = "6348311015";
-	google_ad_width = 300;
-	google_ad_height = 250;
-	//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-            </div>
-            <div id="clear"></div>
-        </div>
-        <br clear="all">
-        </div>
-    </div>
-
 </div>
+            
+<div id="sp-right">
+    <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-8825891582215045";
+    /* QY | Sitewide | Image Only | 300x250 */
+    google_ad_slot = "6540866119";
+    google_ad_width = 300;
+    google_ad_height = 250;
+    //-->
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+</div>
+            
+<div id="clear"></div>
+        
 
 <div id="footer">
-<a href="/business/manage/">My Account</a><a href="/business/">Add a Business - It's FREE</a><a href="/business.manage">Manage Account</a><a href="/advertise/">Advertise</a><a class="noborder" href="/contact-us/">Contact Us</a><br>
-<a href="/">Online Yellow Pages</a><a href="/about-us/">About Us</a><a href="/widget-central/">Widgets</a><a href="/privacy-policy/">Privacy</a><a href="/terms-of-use/">Terms</a><a class="noborder" href="/site-map/">Site Map</a><br>QuickYellow. © 2002 - 2010. IDC Networks, Inc.
+    <div id="footerlinks"><div id="footerlinks-inner">
+        <a href="/business/manage/">My Account</a><a href="/business/">Add a Business - It's FREE</a><a href="/business.manage">Manage Account</a><a href="/advertise/">Advertise</a>
+        <a class="noborder" href="/contact-us/">Contact Us</a><a href="/">Online Yellow Pages</a><a href="/about-us/">About Us</a><a href="/widget-central/">Widgets</a>
+        <a href="/privacy-policy/">Privacy</a><a href="/terms-of-use/">Terms</a><a class="noborder" href="/site-map/">Site Map</a><a class="noborder" href="http://www.b2bmarketplace.com">B2B Marketplace</a>
+    </div></div>
+    <div id="footertext">QuickYellow. © 2002 - 2010. IDC Networks, Inc. 0 </div>
 </div>
-<div id="footer-lower"><div id="i">
-</div>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -128,7 +184,7 @@ var pageTracker = _gat._getTracker("UA-12421910-1");
 pageTracker._setDomainName(".quickyellow.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+</div></div>
 
 
-
-</div></body></html>
+</body></html>
