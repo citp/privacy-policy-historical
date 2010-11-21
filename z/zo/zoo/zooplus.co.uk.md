@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608222910id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121144022id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, Dog Food, Cat Food and Pet Accessories at Zooplus
 
@@ -55,8 +55,8 @@ As only you or persons authorised by you have access to your email account, your
 
 This website uses Criteo technology to collect and store information about your browsing activity for marketing purposes. For this, only anonymous non-personal data is collected and stored. This data is stored on your computer as a "cookie" text file. Using an algorithm, Criteo analyses your browsing activity in order to provide you with targeted product offerings in the form of personalized advertising banners on other (publisher) websites. There is absolutely no way data can be used to identify who you are. 
 
-Collected data is used solely to improve our offering. Your data is neither passed on to third parties, nor used for other purposes. You may deactivate this completely anonymous analysis of your browsing activity at Criteo under the following link: [Criteo Opt-out](http://www.criteo.com/index.php?view=article&id=114)
+Collected data is used solely to improve our offering. Your data is neither passed on to third parties, nor used for other purposes. You may deactivate this completely anonymous analysis of your browsing activity at Criteo under the following link: [Criteo Opt-out](http://www.criteo.com/privacy-policy/opt-out)
 
-You can find additional information on Criteo technology in the [Criteo Privacy Policy ](http://www.criteo.com/en/solutions/privacy-policy)
+You can find additional information on Criteo technology in the [Criteo Privacy Policy ](http://www.criteo.com/en/privacy-policy)
 
 During your shopping session at zooplus.co.uk, we transfer a permanent cookie onto your hard drive. This allows our systems to save the shopping cart while you are shopping with us. Please be advised that permanent cookies are mandatory for shopping with zooplus. We ensure you that no other information will be stored in our systems. 
