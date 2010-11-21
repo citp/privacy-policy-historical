@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606092001id_/http%3A//www.bikini.com/privacy_policytest2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121063154id_/http%3A//www.bikini.com/privacy_policytest2.html) for the most accurate reproduction.*
 
 # Bikini.com: Privacy Policy
 
