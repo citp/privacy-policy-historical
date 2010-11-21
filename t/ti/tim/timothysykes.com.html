@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timothysykes.com privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522212949id_/http%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timothysykes.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121101904id_/http%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,6 +14,7 @@
 	<link rel="stylesheet" id="sociable-front-css-css" href="http://www.timothysykes.com/wp-content/plugins/sociable/sociable.css?ver=2.8.6" type="text/css" media="">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.timothysykes.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.50" type="text/css" media="all">
 <script type="text/javascript" src="http://www.timothysykes.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.timothysykes.com/wp-content/plugins/sharebar/js/sharebar.js?ver=2.8.6"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.timothysykes.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.timothysykes.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="Timothy Sykes" href="http://www.timothysykes.com">
@@ -31,7 +32,10 @@
 
 <link rel="stylesheet" href="http://disqus.com/stylesheets/timsykes/disqus.css?v=2.0" type="text/css" media="screen">
 	<meta name="now-reading-version" content="4.4.3">
-	<!-- Running WishList Member v2.20.435-2 -->
+	<link rel="stylesheet" href="http://www.timothysykes.com/wp-content/plugins/sharebar/css/sharebar.css" type="text/css" media="screen">
+<script type="text/javascript">jQuery(document).ready(function($) { $('.sharebar').sharebar({horizontal:'true',swidth:'65',minwidth:1000,position:'left',leftOffset:20,rightOffset:10}); });</script>
+<!-- Sharebar Plugin by Monjurul Dolon (http://mdolon.com/) - more info at: http://devgrow.com/sharebar-wordpress-plugin -->
+<!-- Running WishList Member v2.20.435-2 -->
 <style type="text/css">
 /* The Main Widget Enclosure */
 .WishListMember_Widget{ }
@@ -72,6 +76,7 @@
 	
     <script type="text/javascript" src="http://www.timothysykes.com/wp-content/themes/Pennystocking/js/jquery.pngFix.pack.js"></script>
     <script type="text/javascript" src="http://www.timothysykes.com/wp-content/themes/Pennystocking/js/jquery.fancybox-1.0.0.js"></script>
+    <script type="text/javascript" src="http://www.timothysykes.com/wp-content/themes/Pennystocking/js/jquery.cookie.js"></script>
 
     <script type="text/javascript" src="http://www.timothysykes.com/wp-content/themes/Pennystocking/js/swfobject.js"></script>
     <link rel="stylesheet" type="text/css" href="http://www.timothysykes.com/wp-content/themes/Pennystocking/js/fancybox/fancy.css">
@@ -83,11 +88,82 @@
                 frameWidth:640,
                 frameHeight:360
             });
+			
+			var footbox = jQuery.cookie('footbox');
+			
+			if (footbox == "closed"){
+				jQuery("#footBox").css("display","none");
+			}
+			
+			jQuery(".closefootBox").click(function(){
+    			jQuery.cookie("footbox", "closed", { expires: 7 });
+				jQuery("#footBox").fadeOut("normal");
+			});
 		});
-    </script>	
+
+    </script>
+		<script language="JavaScript">
+<!--
+
+  if (document.images)
+   {
+    pic1on= new Image(219,31);
+    pic1on.src="/wp-content/themes/Pennystocking/images/social_twitter_hover.png";  
+    pic1off= new Image(219,31);
+    pic1off.src="/wp-content/themes/Pennystocking/images/social_twitter.png";
+	 
+	pic2on= new Image(219,31);
+    pic2on.src="/wp-content/themes/Pennystocking/images/social_facebook_hover.png";  
+    pic2off= new Image(219,31);
+    pic2off.src="/wp-content/themes/Pennystocking/images/social_facebook.png";
+	 
+	pic3on= new Image(219,31);
+    pic3on.src="/wp-content/themes/Pennystocking/images/social_youtube_hover.png";  
+    pic3off= new Image(219,31);
+    pic3off.src="/wp-content/themes/Pennystocking/images/social_youtube.png";
+	
+	pic4on= new Image(219,38);
+    pic4on.src="/wp-content/themes/Pennystocking/images/social_linkedin_hover.png";  
+    pic4off= new Image(219,38);
+    pic4off.src="/wp-content/themes/Pennystocking/images/social_linkedin.png";
+	
+	pic5on= new Image(230,55);
+    pic5on.src="/wp-content/themes/Pennystocking/images/investimonials_reviews_hover.png";  
+    pic5off= new Image(230,55);
+    pic5off.src="/wp-content/themes/Pennystocking/images/investimonials_reviews.png";
+	 
+	pic6on= new Image(230,58);
+    pic6on.src="/wp-content/themes/Pennystocking/images/investimonials_profitly_hover.png";  
+    pic6off= new Image(230,58);
+    pic6off.src="/wp-content/themes/Pennystocking/images/investimonials_profitly.png";
+   }
+
+function lightup(imgName)
+ {
+   if (document.images)
+    {
+      imgOn=eval(imgName + "on.src");
+      document[imgName].src= imgOn;
+    }
+ }
+
+function turnoff(imgName)
+ {
+   if (document.images)
+    {
+      imgOff=eval(imgName + "off.src");
+      document[imgName].src= imgOff;
+    }
+ }
+//-->
+
+</script>
 </head>
 
 <body>
+	<!--<div id="minibar">
+		<p>Pssst...every penny stock trader is talking about this &nbsp;&nbsp;&nbsp;<a href="http://www.timothysykes.com/conference/"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/details.png" alt="Get The Details" width="118" height="30" style="vertical-align:middle;" /></a></p>
+	</div>-->
 	<div id="tim-page">
 		<div class="repeat-bg">
 			<div id="wrapper">
@@ -95,7 +171,7 @@
 					<div class="menu">
 						<strong>BROWSE:</strong>
 						<ul>
-							<li><a href="http://timalerts.com" rel="nofollow">TIMALERTS.COM</a></li>
+							<li><a href="http://profit.ly" rel="nofollow">PROFIT.LY</a></li>
 							<li><a href="http://investimonials.com" rel="nofollow">INVESTIMONIALS.COM</a></li>
 						</ul>
 					</div>
@@ -144,10 +220,12 @@
 							
 						</div>
 						<div class="video">
-							<a href="http://answers.timothysykes.com/"><img src="/wp-content/themes/Pennystocking/images/dvd_special.png" alt=""></a>
+							<img src="/wp-content/themes/Pennystocking/images/investimonials_tim.png" alt="Investimonials Tim">
+							<a href="http://www.investimonials.com/newsletters/reviews-timalerts-monthly.aspx" target="_blank" onmouseover="lightup('pic5')" onmouseout="turnoff('pic5')" rel="nofollow"><img src="/wp-content/themes/Pennystocking/images/investimonials_reviews.png" name="pic5" width="230" height="55" border="0"></a>
+							<a href="http://profit.ly/user/timothysykes/" target="_blank" onmouseover="lightup('pic6')" onmouseout="turnoff('pic6')" rel="nofollow"><img src="/wp-content/themes/Pennystocking/images/investimonials_profitly.png" name="pic6" width="230" height="58" border="0"></a>
 						</div>
 						<div class="video">
-							<a href="http://www.youtube.com/watch?v=Um9Uy7nTFY0" rel="fancyvideo"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/timothy_video.jpg" width="230" height="135"></a>
+							<a href="http://www.youtube.com/watch?v=8g8dB0m_WOU" rel="fancyvideo"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/timothy_video.jpg" width="230" height="135"></a>
 						<div id="youtube_text" style="text-align:center">
 							<a href="http://www.timothysykes.com/store">See DVDs</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.timothysykes.com/plans">See Newsletters</a>
 						</div>
@@ -178,19 +256,23 @@
 					</div>
 					
 					<div class="fourboxes">
-						<div><a href="http://www.covestor.com/rankings/portfolio?perf=risk&amp;q=tgr&amp;tf=si"><img src="/wp-content/themes/Pennystocking/images/covestor_1.png" alt=""></a></div>
+						<div><a href="http://rankings.covestor.com/top-personal-track-records?period=ann"><img src="/wp-content/themes/Pennystocking/images/covestor_1.png" alt=""></a></div>
 						<div><a href="/tim/"><img src="/wp-content/themes/Pennystocking/images/verified.png" alt=""></a></div>
 						<div><a href="http://www.youtube.com/user/timothysykesdotcom#p/u/2/xvWditYzzxI" target="_blank"><img src="/wp-content/themes/Pennystocking/images/reviews.png" alt=""></a></div>
-						<div><a href="http://twitter.com/timothysykes" target="_blank"><img src="/wp-content/themes/Pennystocking/images/social_twitter.png" alt="Twitter"></a><a href="http://www.facebook.com/timsykesfans?ref=ts" target="_blank"><img src="/wp-content/themes/Pennystocking/images/social_facebook.png" alt="Facebook"></a><a href="http://www.youtube.com/user/timothysykesdotcom" target="_blank"><img src="/wp-content/themes/Pennystocking/images/social_youtube.png" alt="YouTube"></a></div>
+						<div><img src="/wp-content/themes/Pennystocking/images/follow_tim.png" alt="Follow Tim">	
+						<a href="http://twitter.com/timothysykes" target="_blank" onmouseover="lightup('pic1')" onmouseout="turnoff('pic1')"><img src="/wp-content/themes/Pennystocking/images/social_twitter.png" name="pic1" width="219" height="31" border="0"></a> 
+						<a href="http://www.facebook.com/timsykesfans?ref=ts" target="_blank" onmouseover="lightup('pic2')" onmouseout="turnoff('pic2')"><img src="/wp-content/themes/Pennystocking/images/social_facebook.png" alt="Facebook" name="pic2" width="219" height="31" border="0"></a> 
+						<a href="http://www.youtube.com/user/timothysykesdotcom" target="_blank" onmouseover="lightup('pic3')" onmouseout="turnoff('pic3')"><img src="/wp-content/themes/Pennystocking/images/social_youtube.png" alt="Youtube" name="pic3" width="219" height="31" border="0"></a> 
+						<a href="http://www.linkedin.com/in/timothysykes" target="_blank" onmouseover="lightup('pic4')" onmouseout="turnoff('pic4')"><img src="/wp-content/themes/Pennystocking/images/social_linkedin.png" alt="Linkedin" name="pic4" width="219" height="38" border="0"></a> </div>
 					</div>	
 										<div class="nav-bar">	
 						
 	<ul class="top-lvl">
-		<li class="first active"><a class="depth_0" href="http://www.timothysykes.com"><span>HOME</span></a>
+		<li class="first active"><a class="depth_0" href="http://www.timothysykes.com"><span>Home</span></a>
 <ul class="sub-lvl">
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/blog-posts/"><span>Blog</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/tag/basics/"><span>Basics</span></a></li>
-		<li class=""><a class="depth_1" href="http://answers.timothysykes.com"><span>FAQs</span></a></li>
+		<li class="page_item page-item-11495"><a class="depth_1" href="http://www.timothysykes.com/basics/"><span>Basics</span></a></li>
+		<li class=""><a class="depth_1" href="http://answers.timothysykes.com/"><span>FAQs</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/affiliates/"><span>Affiliates</span></a></li>
 </ul>
 
@@ -199,7 +281,7 @@
 		<li class=""><a class="depth_0" href="http://www.timothysykes.com/about"><span>ABOUT</span></a>
 <ul class="sub-lvl">
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/contact"><span>Contact Me</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/press"><span>Press</span></a></li>
+		<li class="page_item page-item-281"><a class="depth_1" href="http://www.timothysykes.com/press/"><span>Press</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/seminars/"><span>Seminars</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/speaking"><span>Speaking</span></a></li>
 </ul>
@@ -210,32 +292,30 @@
 <ul class="sub-lvl">
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/2009/10/introducing-4-new-educational-dvd-packages-with-special-limited-time-bonuses/"><span>4 New DVDs</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/dvd"><span>PennyStocking</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/2009/06/what-is-exactly-is-pennystocking-part-deux/"><span>PennyStocking Part Deux</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/timfundamentals/"><span>TIMfundamentals</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/2009/11/what-is-timfundamentals-part-deux-hint-3-guest-speakers-up-250000/"><span>TIMfundamentals Part Deux</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/2009/03/do-you-want-to-learn-how-to-short-sell/"><span>ShortStocking</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/2009/01/finally-a-very-detailed-timraw-instructional-trading-dvd-review/"><span>TIMraw</span></a></li>
+		<li class="page_item page-item-11543"><a class="depth_1" href="http://www.timothysykes.com/pennystocking-part-deux/"><span>Pennystocking Part Deux</span></a></li>
+		<li class="page_item page-item-11554"><a class="depth_1" href="http://www.timothysykes.com/timfundamentals-2/"><span>TIMfundamentals</span></a></li>
+		<li class="page_item page-item-11552"><a class="depth_1" href="http://www.timothysykes.com/timfundamentals-part-deux/"><span>TIMfundamentals Part Deux</span></a></li>
+		<li class="page_item page-item-11550"><a class="depth_1" href="http://www.timothysykes.com/shortstocking/"><span>ShortStocking</span></a></li>
+		<li class="page_item page-item-11557"><a class="depth_1" href="http://www.timothysykes.com/timraw/"><span>TIMRaw</span></a></li>
 </ul>
 
 
 </li>
 		<li class=""><a class="depth_0" href="http://www.timothysykes.com/all-premium-content"><span>SUBSCRIBER ACCESS</span></a>
 <ul class="sub-lvl">
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/welcome-to-the-penny-stock-party/ "><span>Intro</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/subscriber-faqs/ "><span>FAQs</span></a></li>
+		<li class=""><a class="depth_1" href="http://www.timothysykes.com/welcome-to-the-penny-stock-party/"><span>Intro</span></a></li>
+		<li class=""><a class="depth_1" href="http://www.timothysykes.com/subscriber-faqs/"><span>FAQs</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/canceling-your-subscription-2/"><span>Cancel</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/text-message-alerts/ "><span>SMS/IM Alerts</span></a></li>
+		<li class=""><a class="depth_1" href="http://www.timothysykes.com/text-message-alerts/"><span>SMS/IM Alerts</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/tag/video-lessons/"><span>Video Lessons</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/tag/video-watchlists/"><span>Video Watchlists</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/tag/text-watchlists/"><span>Text Watchlists</span></a></li>
-		<li class=""><a class="depth_1" href="http://www.timothysykes.com/tag/trades/"><span>Trades</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/chatroom"><span>Chatroom</span></a></li>
-		<li class=""><a class="depth_1" href="http://bit.ly/9MvlOP"><span>Subscriber Results</span></a></li>
 </ul>
 
 
 </li>
-		<li class=""><a class="depth_0" href="http://www.timothysykes.com/plans"><span>TRADING EDUCATION</span></a>
+		<li class="page_item page-item-7735"><a class="depth_0" href="http://www.timothysykes.com/trading-education/"><span>TRADING EDUCATION</span></a>
 <ul class="sub-lvl">
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/book"><span>Tim's Book</span></a></li>
 		<li class=""><a class="depth_1" href="http://www.timothysykes.com/store"><span>DVDs</span></a></li>
@@ -259,7 +339,9 @@
 		<div class="post" id="post-284">
 		<h2>Privacy Policy</h2>
 			<div class="entry">
-				<p>BullShip Press, LLC collects Personal Information from registered participants. As a condition of registration, participants provide their name and email address. BullShip Press, LLC may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below.</p>
+				<ul id="sharebar">
+<li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="timothysykes">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><a name="fb_share" type="box_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></li></ul><ul id="sharebarx">
+<li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="timothysykes">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></li></ul><p>BullShip Press, LLC collects Personal Information from registered participants. As a condition of registration, participants provide their name and email address. BullShip Press, LLC may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below.</p>
 <p>BullShip Press, LLC is the sole owner of the information collected through our site. We may share your Personal Information, as permitted by law, to both our affiliates and other non-affiliated third parties that offer products or services that we or they believe may be of interest to you.</p>
 <h4>Below is our privacy policy:</h4>
 <p>It is BullShip Press, LLC’s policy to respect your privacy regarding any information we may collect while operating our website.</p>
@@ -301,8 +383,10 @@
 		</div>
 							
 			
+<!-- PayPal Links -->
+
 <div class="prod-box2">
-			<ul>
+		<ul>
 			<li>
 				<div style="height: 70px;"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/ps_pro.png" alt=""></div>
 				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$1497/mo</span><br><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=W8REL2D9WNM9G">Annuals Save 44%!</a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br><a href="http://www.investimonials.com/newsletters/reviews-pennystocking-pro.aspx">Reviews</a></p>
@@ -310,7 +394,6 @@
 
 
 			<li>
-		
 				<div style="height: 70px;"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/ps_gold.png" alt=""></div>
 				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$497/mo</span><br><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=T6MVKF9J9WSXU">Annuals Save 33%!</a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br><a href="http://www.investimonials.com/newsletters/reviews-pennystocking-gold.aspx">Reviews</a></p>
 				<a class="button orange" onclick="this.blur();" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=VY6CNJPVZWGTS"><span><span>Buy Now</span></span></a></li>
@@ -323,13 +406,44 @@
 
 			<li style="border-right: none;">
 				<div style="height: 70px;"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/grid_timalerts.png" alt=""></div>
-				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$49.95/mo</span><br><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=55S688GVHFY3A">Annuals Save 25%!</a><a></a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br><a href="&#10;http://www.investimonials.com/newsletters/reviews-timalerts-monthly.aspx">Reviews</a></p>
+				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$49.95/mo</span><br><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=55S688GVHFY3A">Annuals Save 25%!</a><a></a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br><a href="http://www.investimonials.com/newsletters/reviews-timalerts-monthly.aspx">Reviews</a></p>
 				<a class="button orange" onclick="this.blur();" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=DGRR5TSGFG278"><span><span>Buy Now</span></span></a></li>
 
 		</ul>
 
-	</div>	
-	
+	</div>
+
+
+<!-- 1ShoppingCart Links -->
+<!--
+<div class="prod-box2">
+		<ul>
+			<li>
+				<div style="height: 70px;"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/ps_pro.png" alt=""  /></div>
+				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$1497/mo</span><br /><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=d6008efde220451da878f926f60df90d&bn=1">Annuals Save 44%!</a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br /><a href="http://www.investimonials.com/newsletters/reviews-pennystocking-pro.aspx">Reviews</a></p>
+				<a class="button orange" onclick="this.blur();" href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=fb66141ebf4d44308737ddd1b0265c25&bn=1"><span><span>Buy Now</span></span></a></li>
+
+
+			<li>
+				<div style="height: 70px;"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/ps_gold.png" alt="" /></div>
+				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$497/mo</span><br /><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=b532aef38d924317b5ec019c35e14e85&bn=1">Annuals Save 33%!</a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br /><a href="http://www.investimonials.com/newsletters/reviews-pennystocking-gold.aspx">Reviews</a></p>
+				<a class="button orange" onclick="this.blur();" href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=726e328372ea45e1935de05e39a8a4c2&bn=1"><span><span>Buy Now</span></span></a></li>
+
+
+			<li>
+				<div style="height: 70px;"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/ps_silver.png" alt="" /></div>
+				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$99.95/mo</span><br /><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=c62f89c698254deabcee878c27730ac4&bn=1">Annuals Save 33%!</a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br /><a href="http://www.investimonials.com/newsletters/reviews-pennystocking-silver.aspx">Reviews</a></p>
+				<a class="button orange" onclick="this.blur();" href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=9ee0b59277584a55a692579c4e08c924&bn=1"><span><span>Buy Now</span></span></a></li>
+
+			<li style="border-right: none;">
+				<div style="height: 70px;"><img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/grid_timalerts.png" alt=""  /></div>
+				<p><span style="font-size: 18px; font-weight: bold; margin-top: 15px;">$49.95/mo</span><br /><span style="font-size: 12px; color: #ff7e00; font-weight: bold;display: block; margin-top: 5px;"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=b935670a4107485a96a57f2d586cdf49&bn=1">Annuals Save 25%!<a></span></p><p><a href="http://www.timothysykes.com/plans/">Learn More</a><br /><a href="http://www.investimonials.com/newsletters/reviews-timalerts-monthly.aspx">Reviews</a></p>
+				<a class="button orange" onclick="this.blur();" href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=EBE578CF-9883-4F36-AA76-735CFCFB9318&pid=73d9081f7c1e4c41adca5f36cf037270&bn=1"><span><span>Buy Now</span></span></a></li>
+
+		</ul>
+
+	</div>
+-->	
 </div>
 	<div id="sidebar">
 		
@@ -345,41 +459,55 @@
 			</ul>
 			<div class="tabs-content">
 				<div id="tab-viewed" style="display: block;">
-					<h2 class="widgettitle">Popular Posts</h2><!--SELECT wp_posts.ID, wp_posts.post_title , wp_popularpostsdata.pageviews AS 'pageviews' , wp_posts.post_date_gmt AS 'date_gmt' FROM wp_posts LEFT JOIN wp_popularpostsdata ON wp_posts.ID = wp_popularpostsdata.postid WHERE post_status = 'publish' AND post_password = '' AND post_date_gmt >= '2010-05-22' - INTERVAL 30 DAY AND pageviews > 0 AND wp_posts.post_type = 'post' GROUP BY postid ORDER BY pageviews DESC LIMIT 7-->
+					<h2 class="widgettitle">Popular Posts</h2>
 <ul><!-- Wordpress Popular Posts Plugin v1.5.0 -->
-<li><h3><a href="http://www.timothysykes.com/2010/04/why-positron-corporation-posc-is-a-pos-its-1000-spike-teaches-the-differences-between-press-releases-sec-filings/" title="Why Positron Corporation (POSC) Is A POS: Its 1,000% Spike Teaches The Differences Between Press Releases &amp; SEC Filings">Why Positron Corporation (POSC) Is A POS: Its 1,000% Spike Teaches The Differences Between Press Releases &amp; SEC Filings</a></h3> <span class="wpp-date">April 22, 2010</span></li>
-<li><h3><a href="http://www.timothysykes.com/2010/05/spongetech-executives-charged-for-securities-fraud-99-of-sales-are-false-they-are-sueing-me-but-i-called-it-in-june-2009/" title="SpongeTech Executives Charged For Securities Fraud, 99% Of Sales Are False? They Are Suing Me But I Called It In June 2009">SpongeTech Executives Charged For Securities Fraud, 99% Of Sales Are False? They Are Suing Me But I Called It In June 2009</a></h3> <span class="wpp-date">May 5, 2010</span></li>
-<li><h3><a href="http://www.timothysykes.com/2010/05/the-biggest-penny-stock-pump-dump-ever-possibly-250-million-sec-alleges-spongetech-scheme-sold-25-billion-shares-suckering-sports-fans-everywhere-what-do-you-think/" title="The Biggest Penny Stock Pump &amp; Dump Ever? Possibly $250+ Million, SEC Alleges SpongeTech Scheme Sold 2.5 Billion Shares, Suckering Sports Fans Everywhere, What Do You Think?">The Biggest Penny Stock Pump &amp; Dump Ever? Possibly $250+ Million, SEC Alleges SpongeTech Scheme Sold 2.5 Billion Shares, Suckering Sports Fans Everywhere, What Do You Think?</a></h3> <span class="wpp-date">May 5, 2010</span></li>
-<li><h3><a href="http://www.timothysykes.com/2010/04/positron-chairman-patrick-g.-rooney-his-brother-father-backgrounds-wow-a-very-checkered-past/" title="Positron Chairman Patrick G. Rooney, His Brother &amp; Father Backgrounds: Wow, A Very Checkered Past">Positron Chairman Patrick G. Rooney, His Brother &amp; Father Backgrounds: Wow, A Very Checkered Past</a></h3> <span class="wpp-date">April 23, 2010</span></li>
-<li><h3><a href="http://www.timothysykes.com/2010/05/the-25-million-apple-ipad-questionable-penny-stock-press-release-game/" title="The $30 Million Apple iPad Questionable Penny Stock Press Release Game">The $30 Million Apple iPad Questionable Penny Stock Press Release Game</a></h3> <span class="wpp-date">May 13, 2010</span></li>
-<li><h3><a href="http://www.timothysykes.com/2010/04/courtney-smith-promotes-a-ups-box-based-company-is-to-blame-for-this-stock-collapse/" title="Courtney Smith Promotes A UPS Box-Based Company &amp; Is To Blame For This Stock Collapse">Courtney Smith Promotes A UPS Box-Based Company &amp; Is To Blame For This Stock Collapse</a></h3> <span class="wpp-date">April 23, 2010</span></li>
-<li><h3><a href="http://www.timothysykes.com/2010/04/the-multi-day-penny-stock-earnings-breakout-pattern-for-longs/" title="The Multi-Day Penny Stock Earnings Breakout Pattern For Longs">The Multi-Day Penny Stock Earnings Breakout Pattern For Longs</a></h3> <span class="wpp-date">April 26, 2010</span></li>
+<li><h3><a href="http://www.timothysykes.com/2010/11/how-joe-bucci-of-ox-financial-turned-184413-into-30-million-in-4-months-working-from-this-shabby-house-cell-phone-amazing-story-picture/" title="How Joe Bucci Of Ox Financial Turned $184k Into $75+ Million In 4 Months Working From This Shabby House &amp; Cell Phone [AMAZING STORY &amp; PICTURE]">How Joe Bucci Of Ox Financial Turned $184k Into $75+ Million In 4 Months Working From This Shabby House &amp; Cell Phone [AMAZING STORY &amp; PICTURE]</a></h3> <span class="wpp-date">November 1, 2010</span></li>
+<li><h3><a href="http://www.timothysykes.com/2010/11/the-hottest-penny-stock-pump-now-coastal-pacific-mining-corp-cpmcf-joe-bucci-use-13-year-old-data-to-claim-1-billion-value/" title="Coastal Pacific Mining Corp (CPMCF) &amp; Joe Bucci Fail To File Key SEC Filing Then Use 13-Year-Old Data To Claim $1 Billion Value">Coastal Pacific Mining Corp (CPMCF) &amp; Joe Bucci Fail To File Key SEC Filing Then Use 13-Year-Old Data To Claim $1 Billion Value</a></h3> <span class="wpp-date">November 2, 2010</span></li>
+<li><h3><a href="http://www.timothysykes.com/2010/10/how-to-make-10x-your-investment-in-4-days/" title="How To Make 10x Your Investment In 4 Days">How To Make 10x Your Investment In 4 Days</a></h3> <span class="wpp-date">October 27, 2010</span></li>
+<li><h3><a href="http://www.timothysykes.com/2010/10/25-lessons-learned-from-losing-25000-in-one-week/" title="25 Lessons Learned From Losing $25,000 In One Week">25 Lessons Learned From Losing $25,000 In One Week</a></h3> <span class="wpp-date">October 31, 2010</span></li>
+<li><h3><a href="http://www.timothysykes.com/2010/10/penny-stock-video-lesson-62-how-to-trade-post-panic-mid-day-spikes-free-5-minute-video/" title="Penny Stock Video Lesson #62: How To Trade Post-Panic Mid-Day Spikes [Free 5 Minute Video]">Penny Stock Video Lesson #62: How To Trade Post-Panic Mid-Day Spikes [Free 5 Minute Video]</a></h3> <span class="wpp-date">October 27, 2010</span></li>
+<li><h3><a href="http://www.timothysykes.com/2010/11/best-guest-post-ever-from-a-trader-who-makes-1-millionyear/" title="Best Guest Post Ever From A Trader Who Makes $1 Million/Year (So Good I Included A Free 10-Minute Video)">Best Guest Post Ever From A Trader Who Makes $1 Million/Year (So Good I Included A Free 10-Minute Video)</a></h3> <span class="wpp-date">November 4, 2010</span></li>
+<li><h3><a href="http://www.timothysykes.com/news/14993-15-hot-penny-stocks-to-buy-short-sell/" title="15 Hot Penny Stocks To Buy &amp; Short Sell">15 Hot Penny Stocks To Buy &amp; Short Sell</a></h3> <span class="wpp-date">November 1, 2010</span></li>
 
 </ul><!-- End Wordpress Popular Posts Plugin v1.5.0 -->
 				</div>
 				<div id="tab-commented" style="display: none;">
-					<li><a href="http://www.timothysykes.com/store/" title="TIM Store: Invest In Your Stock Trading Education">TIM Store: Invest In Your Stock Trading Education</a> (660)</li><li><a href="http://www.timothysykes.com/2008/03/why-spitzer%e2%80%99s-call-girl-has-inspired-me-to-giveaway-1-free-copy-of-my-300-instructional-dvd/" title="Why Spitzer’s Call Girl Has Inspired Me To Giveaway 1 FREE Copy Of My $300 Instructional DVD">Why Spitzer’s Call Girl Has Inspired Me To Giveaway 1 FREE Copy Of My $300 Instructional DVD</a> (428)</li><li><a href="http://www.timothysykes.com/tim/" title="TIM – Transparent Investment Management">TIM – Transparent Investment Management</a> (350)</li><li><a href="http://www.timothysykes.com/2010/04/where-my-subscribers-can-post-all-their-gainslosses-honestly/" title="Where My Subscribers Can Post ALL Their Gains/Losses Honestly">Where My Subscribers Can Post ALL Their Gains/Losses Honestly</a> (330)</li><li><a href="http://www.timothysykes.com/2008/05/hey-randall-lane-you-sick-twisted-son-of-a-bitch-remember-me/" title="Hey, Randall Lane, You Sick Twisted Son Of A Bitch, Remember Me?">Hey, Randall Lane, You Sick Twisted Son Of A Bitch, Remember Me?</a> (273)</li>				</div>
+					<li><a href="http://www.timothysykes.com/store/" title="TIM Store: Invest In Your Stock Trading Education">TIM Store: Invest In Your Stock Trading Education</a> (676)</li><li><a href="http://www.timothysykes.com/2008/03/why-spitzer%e2%80%99s-call-girl-has-inspired-me-to-giveaway-1-free-copy-of-my-300-instructional-dvd/" title="Why Spitzer’s Call Girl Has Inspired Me To Giveaway 1 FREE Copy Of My $300 Instructional DVD">Why Spitzer’s Call Girl Has Inspired Me To Giveaway 1 FREE Copy Of My $300 Instructional DVD</a> (428)</li><li><a href="http://www.timothysykes.com/tim/" title="TIM – Transparent Investment Management">TIM – Transparent Investment Management</a> (350)</li><li><a href="http://www.timothysykes.com/2010/04/where-my-subscribers-can-post-all-their-gainslosses-honestly/" title="Where My Subscribers Can Post ALL Their Gains/Losses Honestly">Where My Subscribers Can Post ALL Their Gains/Losses Honestly</a> (333)</li><li><a href="http://www.timothysykes.com/2008/05/hey-randall-lane-you-sick-twisted-son-of-a-bitch-remember-me/" title="Hey, Randall Lane, You Sick Twisted Son Of A Bitch, Remember Me?">Hey, Randall Lane, You Sick Twisted Son Of A Bitch, Remember Me?</a> (273)</li>				</div>
 				<div id="tab-emailed" style="display: none;">
 					<div class="aktt_tweets">
 	<ul>
-		<li><a href="http://bit.ly/ceXPzU" rel="nofollow">http://bit.ly/ceXPzU</a> every pump's gonna crash alright... <a href="http://twitter.com/timothysykes/statuses/14515992961" class="aktt_tweet_time">33 mins ago</a></li>
-		<li>Latest ridiculous Google search used to find my site <a href="http://tim.ly/d3g8WF" rel="nofollow">http://tim.ly/d3g8WF</a> <a href="http://twitter.com/timothysykes/statuses/14512319751" class="aktt_tweet_time">1 hr ago</a></li>
-		<li>Investimonials Weekly: Trading Apples, Ashraf Laidi, Eric Dany &amp; eSignal <a href="http://bit.ly/9gJTRf" rel="nofollow">http://bit.ly/9gJTRf</a> <a href="http://twitter.com/timothysykes/statuses/14511163720" class="aktt_tweet_time">2 hrs ago</a></li>
-		<li>Can you believe I'm so generous organizing all of these so well? <a href="http://tim.ly/cXDPvi" rel="nofollow">http://tim.ly/cXDPvi</a> I can't <a href="http://twitter.com/timothysykes/statuses/14501598165" class="aktt_tweet_time">5 hrs ago</a></li>
-		<li>TraderInterviews.com Interviews Moi <a href="http://bit.ly/9SFuk7" rel="nofollow">http://bit.ly/9SFuk7</a> <a href="http://twitter.com/timothysykes/statuses/14493420688" class="aktt_tweet_time">7 hrs ago</a></li>
+		<li>Right now @<a href="http://twitter.com/investorslive" class="aktt_username">investorslive</a> is explaining this great trade in detail <a href="http://profit.ly/1Mm2dd" rel="nofollow">http://profit.ly/1Mm2dd</a> good stuff...and verified :) <a href="http://twitter.com/timothysykes/statuses/3915940760657920" class="aktt_tweet_time">6 days ago</a></li>
+		<li>Great blog from a TRUE venture capitalist <a href="http://bit.ly/c9xvB5" rel="nofollow">http://bit.ly/c9xvB5</a> <a href="http://twitter.com/timothysykes/statuses/3912438839775234" class="aktt_tweet_time">6 days ago</a></li>
+		<li>10 Detailed Reviews On John Welsh’s DVD, ChartGame.com, Zignals, Surfing The Pips, Options Alpha &amp; More! <a href="http://bit.ly/91ZHMt" rel="nofollow">http://bit.ly/91ZHMt</a> <a href="http://twitter.com/timothysykes/statuses/3900435450568704" class="aktt_tweet_time">6 days ago</a></li>
+		<li>Ahhhhh tomorrow's the day! <a href="http://bit.ly/dxbTj6" rel="nofollow">http://bit.ly/dxbTj6</a> <a href="http://twitter.com/timothysykes/statuses/3877367315439616" class="aktt_tweet_time">6 days ago</a></li>
+		<li>Funny old school movie about Wall Street <a href="http://bit.ly/deAZEO" rel="nofollow">http://bit.ly/deAZEO</a> <a href="http://twitter.com/timothysykes/statuses/3873384953806848" class="aktt_tweet_time">6 days ago</a></li>
 		<li class="aktt_more_updates"><a href="http://twitter.com/timothysykes">More updates...</a></li>
 </ul></div>				</div>
 			</div>
 		</div>
 			<div class="ad">
 			<!-- begin ad tag (tile=2) -->
-			<script language="JavaScript" type="text/javascript">;
-			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.timothysykes/homepage;kw=;kval=homepage;tile=2;sz=300x250;ord=?" type="text/javascript"><\/script>');
-			</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.timothysykes/homepage;kw=;kval=homepage;tile=2;sz=300x250;ord=?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.timothysykes/homepage;kw=;kval=homepage;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.timothysykes/						homepage;kw=;kval=homepage;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+			<script src="http://ads.investingchannel.com/adtags/timothysykes/ros/300x250.js" type="text/javascript" charset="utf-8"></script>
 			<!-- End ad tag -->
 			<br><br>
 			<embed src="http://services.brightcove.com/services/viewer/federated_f8/271557392" bgcolor="#FFFFFF" flashvars="videoId=3937789001&amp;playerId=271557392&amp;viewerSecureGatewayURL=https://console.brightcove.com/services/amfgateway&amp;servicesURL=http://services.brightcove.com/services&amp;cdnURL=http://admin.brightcove.com&amp;domain=embed&amp;autoStart=false&amp;" base="http://admin.brightcove.com" name="flashObj" width="300" height="212" seamlesstabbing="false" type="application/x-shockwave-flash" swliveconnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
 		</div>
+		
+<img style="visibility:hidden;width:0px;height:0px;" border="0" width="0" height="0" src="http://counters.gigya.com/wildfire/IMP/CXNID=2000002.11NXC/bT*xJmx*PTEyNzQyMTMyOTU4MDYmcHQ9MTI3NDIxMzI5NzUyMSZwPTg*NjgxJmQ9Jmc9MSZvZj*w.gif">
+<div style="font-size:15;font-weight:bold;font-family:arial; width:295px; border:2px outset #DCDCDC; padding: 0px">
+	<div>
+		<div style="float:left; padding-left:3px;margin-top:3px;">
+			<a href="http://www.benzinga.com/life/movers-shakers/10/05/293196/benzinga-s-exclusive-interview-with-timothy-sykes-the-penny-stock-k" style="text-decoration:none; color:146bb0; " title="The Penny Stock King - Interview With Timothy Sykes">The Penny Stock King - <br>Interview With Timothy Sykes</a>
+		</div>
+	</div>
+	<div style="margin-bottom:-5px;">
+		<embed type="application/x-shockwave-flash" src="http://www.podomatic.com/swf/jwplayer44.swf" width="295" height="20" allowscriptaccess="always" allowfullscreen="true" flashvars="height=20&amp;width=295&amp;file=UDS4/50/43/54/benzinga/media/published/2990466_stnd.mp3&amp;streamer=rtmp://streams.podomatic.com/vod">
+	</div>
+	<div style="margin-top:3px;height:32px;">
+		<a target="blank" href="http://www.benzinga.com/life/movers-shakers/10/05/293196/benzinga-s-exclusive-interview-with-timothy-sykes-the-penny-stock-k"><img src="http://a.imageshack.us/img28/519/pcastembed.png" border="0"></a>
+	</div>
+</div>
+		
 		<div class="iframe">
 		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,47,0" width="180" height="60" id="wimpy" align="center">
 	<param name="allowScriptAccess" value="always">
@@ -403,700 +531,26 @@
 			</div>
 	<div id="timtrades">
 <div class="timtotal">
-				<p><a href="http://bit.ly/timtos">TOS</a>: $134,966 <span style="color: #73b44e;">987% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 29 months</span></p>
-<p><a href="https://www.sogotrade.com/Setup/Default.aspx?rf=539221">Sogotrade</a>: $225,404 <span style="color: #73b44e;">95% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 6 months</span></p>
-<p><a href="http://www.timothysykes.com/2009/11/details-on-my-new-aggressive-auto-trading-covestor-account/">Wussy IB</a>: $184,371 <span style="color: #73b44e;">23% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 11 months</span></p>
-<p><a href="http://www.timothysykes.com/2009/11/details-on-my-new-aggressive-auto-trading-covestor-account/">Brave IB</a>: $62,802 <span style="color: #73b44e;">26% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 6 months</span></p><p>
+				<p><a href="http://bit.ly/timtos">TOS</a>: $169,851 <span style="color: #73b44e;">1268% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 35 months</span></p>
+<p><a href="http://www.broadstreettrading.com/sykes.html">Broad Street</a>: $164,877 <span style="color: #73b44e;">$15k Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 4 weeks</span></p>
+<p><a href="http://profit.ly/user/timothysykes">All Accounts</a>: $692,200 <span style="color: #73b44e;">54% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 2010</span></p>
+<p>
 			</p></div>
 
 			<div class="timtrade_wrapper">
-			<table id="timtable" style="clear: both;">
-				<thead>
-					<tr>
-						<th class="Date" style="font-weight: bold;">Date</th>
-						<th class="trades" style="font-weight: bold;">Stock</th>
-						<th class="buy" style="font-weight: bold;">Buy</th>
-						<th class="sell" style="font-weight: bold;">Sell</th>
-						<th class="profit" style="font-weight: bold;">Net</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr><th>May 20</th>
-						<td class="trades"><a href="http://profit.ly/1Mm0ES">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.99</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.06</a></td>
-						<td class="profit">$1066</td>
-					</tr><tr>
-<th>May 19</th>
-						<td class="trades"><a href="http://profit.ly/1Mm0DL">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$3.24</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.09</a></td>
-						<td class="loss">$3431</td>
-					</tr><tr>
-<th>May 18</th>
-						<td class="trades"><a href="http://profit.ly/1Mm0CL">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.91</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.99</a></td>
-						<td class="profit">$1327</td>
-					</tr><tr>
-<th>May 18</th>
-						<td class="trades"><a href="http://profit.ly/1Mm0Bz">IFLG</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$10.16</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$10.22</a></td>
-						<td class="profit">$72</td>
-					</tr><tr>
-<th>May 17</th>
-						<td class="trades"><a href="http://profit.ly/1Mm0BM">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.80</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.04</a></td>
-						<td class="profit">$3621</td>
-					</tr><tr>
-<th>May 17</th>
-						<td class="trades"><a href="http://profit.ly/1Mm0B8">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.90</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.13</a></td>
-						<td class="profit">$4760</td>
-					</tr><tr>
-<th>May 17</th>
-						<td class="trades"><a href="http://profit.ly/1Mm0AM">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$3.17</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.48</a></td>
-						<td class="profit">$1045</td>
-					</tr><tr>
-<th>May 14</th>
-						<td class="trades"><a href="http://profit.ly/1Mm08m">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$4.10</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$4.15</a></td>
-						<td class="profit">$707</td>
-					</tr><tr>
-<th>May 14</th>
-						<td class="trades"><a href="http://profit.ly/1Mm089">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$4.16</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$4.42</a></td>
-						<td class="profit">$3621</td>
-					</tr><tr>
-<th>May 13</th>
-						<td class="trades"><a href="http://profit.ly/1Mm06r">HAUP</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.99</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.20</a></td>
-						<td class="profit">$1603</td>
-					</tr><tr>
-<th>May 13</th>
-						<td class="trades"><a href="http://profit.ly/1Mm06H">IFLG</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$8.21</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$8.52</a></td>
-						<td class="profit">$909</td>
-					</tr><tr>
-<th>May 13</th>
-						<td class="trades"><a href="http://profit.ly/1Mm069">IFLG</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$6.72</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$7.20</a></td>
-						<td class="profit">$2375</td>
-					</tr><tr>
-<th>May 13</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">DIVX</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$7.20</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$7.45</a></td>
-						<td class="profit">$1047</td>
-					</tr><tr>
-<th>May 11</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">LEI</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$1.90</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.10</a></td>
-						<td class="profit">$1170</td>
-					</tr><tr>
-<th>May 11</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">MCGI</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.17</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$1.77</a></td>
-						<td class="loss">$1985</td>
-					</tr><tr>
-<th>May 6</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">LEI</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.33</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.65</a></td>
-						<td class="profit">$1500</td>
-					</tr><tr>
-<th>May 4</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">ANTS</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$1.70</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$1.57</a></td>
-						<td class="loss">$1296</td>
-					</tr><tr>
-<th>May 4</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">CHGY</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.31</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.55</a></td>
-						<td class="profit">$2360</td>
-					</tr><tr>
-<th>May 3</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">APPY</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$3.86</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.95</a></td>
-						<td class="profit">$690</td>
-					</tr><tr>
-<th>Apr 29</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">APPY</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$4.20</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$4.30</a></td>
-						<td class="profit">$1327</td>
-					</tr><tr>
-<th>Apr 27</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">ROHI</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.95</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.20</a></td>
-						<td class="profit">$1778</td>
-					</tr><tr>
-<th>Apr 26</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">POSC</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$0.15</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$0.24</a></td>
-						<td class="profit">$3359</td>
-					</tr><tr>
-<th>Apr 26</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">DEAR</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$3.45</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$4.35</a></td>
-						<td class="profit">$6340</td>
-					</tr><tr>
-<th>Apr 20</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">ENCO</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$4.07</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$4.85</a></td>
-						<td class="profit">$7801</td>
-					</tr><tr>
-<th>Apr 19</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">PRAN</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.66</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.97</a></td>
-						<td class="profit">$1545</td>
-					</tr><tr>
-<th>Apr 15</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">PURE</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.68</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.70</a></td>
-						<td class="profit">$374</td>
-					</tr><tr>
-<th>Apr 14</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">RPC</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$1.40</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$1.80</a></td>
-						<td class="profit">$6002</td>
-					</tr><tr>
-<th>Apr 13</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">RPC</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$1.72</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$1.91</a></td>
-						<td class="profit">$5605</td>
-					</tr><tr>
-<th>Apr 12</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">RPC</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.03</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.27</a></td>
-						<td class="profit">$8206</td>
-					</tr><tr>
-<th>Apr 12</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">ENCO</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$3.32</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.45</a></td>
-						<td class="profit">$1280</td>
-					</tr><tr>
-<th>Apr 9</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">ALME</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$2.26</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.45</a></td>
-						<td class="profit">$1953</td>
-					</tr><tr>
-<th>Apr 7</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">PURE</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$3.02</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.17</a></td>
-						<td class="profit">$1155</td>
-					</tr><tr>
-<th>Apr 6</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">ZANE</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$3.20</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$3.25</a></td>
-						<td class="profit">$218</td>
-					</tr><tr>
-<th>Apr 5</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">ABIO</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$4.86</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$5.20</a></td>
-						<td class="profit">$2384</td>
-					</tr><tr>
-						<th>Mar 31</th>
-						<td class="trades"><a href="http://www.timothysykes.com/plans">AWSL</a>
-						</td><td class="buy"><a href="http://www.timothysykes.com/plans">$1.90</a></td>
-						<td class="sell"><a href="http://www.timothysykes.com/plans">$2.23</a></td>
-						<td class="profit">$650</td>
-					</tr>
-<tr>
-						<th>Mar 31</th>
-						<td class="trades"><a href="http://timalerts.com">ENCO</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.82</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.95</a></td>
-						<td class="profit">$404</td>
-					</tr>
-<tr>
-						<th>Mar 30</th>
-						<td class="trades"><a href="http://timalerts.com">ENCO</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.55</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.00</a></td>
-						<td class="profit">$4549</td>
-					</tr>
-<tr>
-						<th>Mar 30</th>
-						<td class="trades"><a href="http://timalerts.com">ABIO</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$5.84</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$6.17</a></td>
-						<td class="profit">$1320</td>
-					</tr>
-<tr>
-						<th>Mar 30</th>
-						<td class="trades"><a href="http://timalerts.com">ABIO</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$5.80</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$5.94</a></td>
-						<td class="profit">$526</td>
-					</tr>
-<tr>
-						<th>Mar 29</th>
-						<td class="trades"><a href="http://timalerts.com">ABIO</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$7.25</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$8.00</a></td>
-						<td class="profit">$3000</td>
-					</tr>
-<tr>
-						<th>Mar 26</th>
-						<td class="trades"><a href="http://timalerts.com">SSY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.47</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.77</a></td>
-						<td class="profit">$1427</td>
-					</tr>
-<tr>
-						<th>Mar 25</th>
-						<td class="trades"><a href="http://timalerts.com">MSEH</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.72</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.77</a></td>
-						<td class="loss">$486</td>
-					</tr>
-<tr>
-						<th>Mar 24</th>
-						<td class="trades"><a href="http://timalerts.com">MSEH</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.83</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.38</a></td>
-						<td class="profit">$5495</td>
-					</tr>
-<tr>
-						<th>Mar 23</th>
-						<td class="trades"><a href="http://timalerts.com">ISSI</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$8.84</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$8.69</a></td>
-						<td class="loss">$989</td>
-					</tr>
-<tr>
-						<th>Mar 18</th>
-						<td class="trades"><a href="http://timalerts.com">HMNA</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.21</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.81</a></td>
-						<td class="profit">$2982</td>
-					</tr>
-<tr>
-						<th>Mar 18</th>
-						<td class="trades"><a href="http://timalerts.com">HMNA</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.52</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.02</a></td>
-						<td class="profit">$1500</td>
-					</tr>
-<tr>
-						<th>Mar 16</th>
-						<td class="trades"><a href="http://timalerts.com">SINO</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$4.05</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.56</a></td>
-						<td class="profit">$789</td>
-					</tr>
-<tr>
-						<th>Mar 16</th>
-						<td class="trades"><a href="http://timalerts.com">IPCI</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.26</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.29</a></td>
-						<td class="profit">$260</td>
-					</tr>
-<tr>
-						<th>Mar 15</th>
-						<td class="trades"><a href="http://timalerts.com">IPCI</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.39</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.72</a></td>
-						<td class="profit">$3257</td>
-					</tr>
-<tr>
-						<th>Mar 15</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.49</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.38</a></td>
-						<td class="loss">$1167</td>
-					</tr>
-<tr>
-						<th>Mar 12</th>
-						<td class="trades"><a href="http://timalerts.com">ZANE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.10</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.18</a></td>
-						<td class="profit">$224</td>
-					</tr>
-<tr>
-						<th>Mar 11</th>
-						<td class="trades"><a href="http://timalerts.com">ZANE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.78</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.86</a></td>
-						<td class="profit">$1560</td>
-					</tr>
-<tr>
-						<th>Mar 10</th>
-						<td class="trades"><a href="http://timalerts.com">ZANE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.84</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.00</a></td>
-						<td class="profit">$5082</td>
-					</tr>
-<tr>
-						<th>Mar 9</th>
-						<td class="trades"><a href="http://timalerts.com">ZANE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.03</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.11</a></td>
-						<td class="profit">$1896</td>
-					</tr>
-<tr>
-						<th>Mar 8</th>
-						<td class="trades"><a href="http://timalerts.com">ZANE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.10</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.30</a></td>
-						<td class="profit">$1000</td>
-					</tr>
-<tr>
-						<th>Mar 8</th>
-						<td class="trades"><a href="http://timalerts.com">VRML</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$32.04</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$33.78</a></td>
-						<td class="profit">$1725</td>
-					</tr>
-<tr>
-						<th>Mar 8</th>
-						<td class="trades"><a href="http://timalerts.com">ZANE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.35</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.05</a></td>
-						<td class="loss">$1200</td>
-					</tr>
-<tr>
-						<th>Mar 5</th>
-						<td class="trades"><a href="http://timalerts.com">ZANE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.15</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.75</a></td>
-						<td class="profit">$3000</td>
-					</tr>
-<tr>
-						<th>Mar 4</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$6.54</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$6.60</a></td>
-						<td class="profit">$97</td>
-					</tr>
-<tr>
-						<th>Mar 3</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.24</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.63</a></td>
-						<td class="profit">$2361</td>
-					</tr>
-<tr>
-						<th>Mar 3</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$6.73</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$7.12</a></td>
-						<td class="profit">$914</td>
-					</tr>
-<tr>
-						<th>Mar 1</th>
-						<td class="trades"><a href="http://timalerts.com">MCGC</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$5.15</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$5.29</a></td>
-						<td class="profit">$684</td>
-					</tr>
-<tr>
-						<th>Feb 25</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$8.05</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$8.30</a></td>
-						<td class="profit">$720</td>
-					</tr>
-<tr>
-						<th>Feb 25</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$6.83</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$7.50</a></td>
-						<td class="profit">$1353</td>
-					</tr>
-<tr>
-						<th>Feb 24</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$7.27</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$7.81</a></td>
-						<td class="profit">$4320</td>
-					</tr>
-<tr>
-						<th>Feb 24</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$7.99</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$8.72</a></td>
-						<td class="profit">$4380</td>
-					</tr>
-<tr>
-						<th>Feb 23</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$8.20</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$9.08</a></td>
-						<td class="profit">$6179</td>
-					</tr>
-<tr>
-						<th>Feb 23</th>
-						<td class="trades"><a href="http://timalerts.com">IFLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$8.75</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$9.99</a></td>
-						<td class="profit">$3534</td>
-					</tr>
-<tr>
-						<th>Feb 22</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$4.34</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.60</a></td>
-						<td class="profit">$765</td>
-					</tr>
-<tr>
-						<th>Feb 22</th>
-						<td class="trades"><a href="http://timalerts.com">CCTC</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$0.19</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$0.24</a></td>
-						<td class="profit">$182</td>
-					</tr>
-<tr>
-						<th>Feb 9</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$5.24</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$5.07</a></td>
-						<td class="loss">$358</td>
-					</tr>
-<tr>
-						<th>Feb 8</th>
-						<td class="trades"><a href="http://timalerts.com">NXTH</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$1.94</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.19</a></td>
-						<td class="profit">$12500</td>
-</tr><tr>
-						<th>Feb 5</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$4.64</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.71</a></td>
-						<td class="profit">$102</td>
-					</tr>
-<tr>
-						<th>Feb 3</th>
-						<td class="trades"><a href="http://timalerts.com">APKT</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$13.96</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$13.58</a></td>
-						<td class="loss">$1332</td>
-					</tr>
-<tr>
-						<th>Feb 1</th>
-						<td class="trades"><a href="http://timalerts.com">CNLG</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$4.19</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.30</a></td>
-						<td class="profit">$772</td>
-					</tr>
-<tr>
-						<th>Jan 28</th>
-						<td class="trades"><a href="http://timalerts.com">JYHW</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$1.10</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$1.28</a></td>
-						<td class="profit">$1826</td>
-					</tr>
-<tr>
-						<th>Jan 28</th>
-						<td class="trades"><a href="http://timalerts.com">PEIX</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.20</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.02</a></td>
-						<td class="loss">$2712</td>
-					</tr>
-<tr>
-						<th>Jan 25</th>
-						<td class="trades"><a href="http://timalerts.com">JYHW</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$1.16</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$1.43</a></td>
-						<td class="profit">$126</td>
-					</tr>
-<tr>
-						<th>Jan 25</th>
-						<td class="trades"><a href="http://timalerts.com">IDN</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.07</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.16</a></td>
-						<td class="profit">$1092</td>
-					</tr>
-<tr>
-						<th>Jan 25</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$4.55</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.27</a></td>
-						<td class="loss">$438</td>
-					</tr>
-<tr>
-						<th>Jan 22</th>
-						<td class="trades"><a href="http://timalerts.com">IDN</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.28</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.50</a></td>
-						<td class="profit">$1080</td>
-					</tr>
-<tr>
-						<th>Jan 22</th>
-						<td class="trades"><a href="http://timalerts.com">ICXT</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$7.33</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$7.53</a></td>
-						<td class="profit">$1760</td>
-					</tr>
-<tr>
-						<th>Jan 21</th>
-						<td class="trades"><a href="http://timalerts.com">CDII</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.16</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.14</a></td>
-						<td class="loss">$575</td>
-					</tr>
-<tr>
-						<th>Jan 19</th>
-						<td class="trades"><a href="http://timalerts.com">MDCE</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$0.34</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$0.43</a></td>
-						<td class="profit">$850</td>
-					</tr>
-<tr>
-						<th>Jan 14</th>
-						<td class="trades"><a href="http://timalerts.com">IDN</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.65</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.68</a></td>
-						<td class="profit">$150</td>
-					</tr>
-<tr>
-						<th>Jan 14</th>
-						<td class="trades"><a href="http://timalerts.com">PEIX</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$1.96</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.05</a></td>
-						<td class="profit">$1285</td>
-					</tr>
-<tr>
-						<th>Jan 13</th>
-						<td class="trades"><a href="http://timalerts.com">PEIX</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.19</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.27</a></td>
-						<td class="profit">$1454</td>
-					</tr>
-<tr>
-						<th>Jan 12</th>
-						<td class="trades"><a href="http://timalerts.com">PEIX</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.31</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.35</a></td>
-						<td class="profit">$256</td>
-					</tr>
-<tr>
-						<th>Jan 11</th>
-						<td class="trades"><a href="http://timalerts.com">LUNA</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.36</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.78</a></td>
-						<td class="profit">$5675</td>
-					</tr>
-<tr>
-						<th>Jan 8</th>
-						<td class="trades"><a href="http://timalerts.com">JYHW</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$1.50</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$1.41</a></td>
-						<td class="loss">$468</td>
-					</tr>
-<tr>
-						<th>Jan 8</th>
-						<td class="trades"><a href="http://timalerts.com">CDII</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.24</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$2.12</a></td>
-						<td class="loss">$2773</td>
-					</tr>
-<tr>
-						<th>Jan 7</th>
-						<td class="trades"><a href="http://timalerts.com">AHD</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$7.15</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$7.01</a></td>
-						<td class="loss">$718</td>
-					</tr>
-<tr>
-						<th>Jan 6</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$4.31</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.66</a></td>
-						<td class="profit">$1413</td>
-					</tr>
-<tr>
-						<th>Jan 5</th>
-						<td class="trades"><a href="http://timalerts.com">AENY</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$4.19</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$4.71</a></td>
-						<td class="profit">$2082</td>
-					</tr>
-<tr>
-						<th>Jan 5</th>
-						<td class="trades"><a href="http://timalerts.com">IDN</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.48</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.56</a></td>
-						<td class="profit">$649</td>
-					</tr>
-<tr>
-						<th>Jan 4</th>
-						<td class="trades"><a href="http://timalerts.com">IDN</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$3.57</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.90</a></td>
-						<td class="profit">$1416</td>
-					</tr>
-<tr>
-						<th>Jan 4</th>
-						<td class="trades"><a href="http://timalerts.com">AWSL</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$2.99</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$3.35</a></td>
-						<td class="profit">$340</td>
-					</tr>
-<tr>
-						<th>Jan 4</th>
-						<td class="trades"><a href="http://timalerts.com">EONC</a>
-						</td><td class="buy"><a href="http://timalerts.com/">$5.90</a></td>
-						<td class="sell"><a href="http://timalerts.com/">$6.09</a></td>
-						<td class="profit">$863</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<div class="timtotal">
-				<p><a href="http://bit.ly/timtos">TOS</a>: $134,966 <span style="color: #73b44e;">987% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 29 months</span></p>
-<p><a href="https://www.sogotrade.com/Setup/Default.aspx?rf=539221">Sogotrade</a>: $225,404 <span style="color: #73b44e;">95% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 6 months</span></p>
-<p><a href="http://www.timothysykes.com/2009/11/details-on-my-new-aggressive-auto-trading-covestor-account/">Wussy IB</a>: $184,371 <span style="color: #73b44e;">23% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 11 months</span></p>
-<p><a href="http://www.timothysykes.com/2009/11/details-on-my-new-aggressive-auto-trading-covestor-account/">Brave IB</a>: $62,802 <span style="color: #73b44e;">26% Gain</span><br><span style="font-size: 11px; color: #8d8d8d;">in 6 months</span></p><p>
-			</p></div>	
+			<script src="http://profit.ly/static/widget/1/widget.js"></script>
+			<script>
+			var widget = new PROFITLY.Widget({
+			  username: 'timothysykes',
+			  trades: 20,
+			  width: 290,
+			  type: ['tradegraph', 'tradetable'],
+			  height: 250
+			});
+			</script>
 		</div>
 		</div>
 	</div>
-			<div class="latest-testimonials">
-			<div class="heading">
-				<img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/pic-latest-testimonials.gif" alt="">
-				<h2>LATEST TESTIMONIALS</h2>
-			</div>
-			<div class="sidetestimonials">
-								<p>The private coaching student up nearly $100,000 in 2009</p> <p><a href="http://timothysykes.com/blog/2009/08/17/check-out-this-private-coaching-student-up-100000-trading-part-time-so-far-in-2009/">Read More</a></p>
-			</div>
-
-			<div class="sidetestimonials">
-								<p>Why Choose Tim (A Survey From 700+ Customers)</p> <p><a href="http://timothysykes.com/blog/2009/08/19/why-me-answers-from-a-760-person-survey/">Read More</a></p>
-			</div>
-		</div>
-			
 			<div class="story">
 			<div class="heading">
 				<img src="http://www.timothysykes.com/wp-content/themes/Pennystocking/images/pic-story.gif" alt="">
@@ -1206,15 +660,14 @@
 									</div>
 									<div class="subscriptions">
 										<h4>Subscriptions</h4>
-																				<ul id="prodlist">
+										<ul id="prodlist">
 											<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=11336339">PennyStocking PRO </a></li>
 											<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=11336235">PennyStocking Gold </a></li>
 											<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=11336154">PennyStocking Silver </a></li>
 											<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=11336085">TIMalerts </a></li>
 										</ul> 
 									</div>
-									
-                                              								</div>
+								</div>
 								<div class="press">
 									<h4>RECENT PRESS</h4>
 									<ul>
@@ -1289,16 +742,6 @@ var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1388&domain=timothysyke
 var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
 document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
 </script><script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js?uid=1388&amp;domain=timothysykes.com" type="text/javascript"></script>
-<!-- UFA --SINGLE AD-- Footer code START -->
-<!-- PLACE THIS CODE DIRECTLY -ABOVE- THE CLOSING </body> TAG AT THE END OF YOUR WEB PAGE -->
-<!--<script type="text/javascript">
-document.write('\<script type="text/javascript" src="http://timothysykes.com:80/pop/code.lib/js/jquery.js"\>\</script\>');
-document.write('\<script type="text/javascript" src="http://timothysykes.com:80/pop/code.lib/js/jquery.catfish.js"\>\</script\>');
-document.write('\<script type="text/javascript" src="http://timothysykes.com:80/pop/code.lib/js/js.p_h_p/ads.js.php?reload='
- + Math.floor(Math.random()*1000000) + 
- '&single=101"\>\</script\>');
-</script>-->
-<!-- UFA --SINGLE AD-- Footer code END -->
 
 <script type="text/javascript">
 var zenbox_params = {};
@@ -1313,7 +756,18 @@ zenbox_params.url = "timothysykes.zendesk.com";
 <script type="text/javascript" src="//assets0.zendesk.com/external/zenbox/overlay.js"></script>
 
 
-    
+<div id="footBox">
+	<div>
+        <span class="timText">Follow Timothy Sykes</span>
+        <a href="http://www.facebook.com/timsykesfans" target="_blank" class="timFB">Facebook</a>
+        <a href="http://twitter.com/timothysykes" target="_blank" class="timTwitter">Twitter</a>
+        <!-- Get link for footer box -->
+		        <a href="http://www.timothysykes.com/plans" class="timTrade">Real-Time Trade Alerts</a>
+        <a class="closefootBox">X</a>
+    </div>
+</div>
 
 
-</body></html>
+<!-- Dynamic page generated in 0.630 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2010-11-21 05:11:21 -->
+<!-- super cache --></body></html>
