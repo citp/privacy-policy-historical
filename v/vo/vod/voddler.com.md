@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voddler.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325170750id_/http%3A//www.voddler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voddler.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121073334id_/http%3A//www.voddler.com/privacy-policy) for the most accurate reproduction.*
 
 # Voddler - The Magical World of Movies
 
@@ -52,4 +52,4 @@ Furthermore Voddler Sweden AB may use your personal data for direct marketing pu
 
  ** _This Privacy Policy was last updated 5th October, 2009_**
 
- ** _Voddler Sweden AB, Packhusgränd 7, 11130 Stockholm, Sweden_**
+ ** _Voddler Sweden AB, Hangövägen 18, 115 41 Stockholm, Sweden_**
