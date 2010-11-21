@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeonesondemand.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620002541id_/http%3A//www.freeonesondemand.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D14343) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonesondemand.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121192811id_/http%3A//www.freeonesondemand.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D14343) for the most accurate reproduction.*
 
-# FreeOnes VOD Store
+# Privacy | FreeOnes VOD Store
 
 **AEBN Privacy Policy**
 
