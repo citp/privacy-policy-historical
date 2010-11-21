@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodbuzz.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612041638id_/http%3A//www.foodbuzz.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbuzz.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030359id_/http%3A//www.foodbuzz.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Foodbuzz
 
