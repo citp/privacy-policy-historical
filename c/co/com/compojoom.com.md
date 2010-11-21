@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508074430id_/http%3A//compojoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121084416id_/http%3A//compojoom.com/siteinfo/siteinfo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-by  Daniel Dimitrov  on  November 08, 2008 
+November 08, 2008 
 
-Last Updated on September 04, 2009 
+Last Updated on August 05, 2010 
 
 Our postal address is:
 
 > **Daniel Dimitrov  
->  Englerstr. 14, 76131 Karlsruhe  
+>  Sophienstr. 46, 76133 Karlsruhe  
 > Germany**  
 >  **TAX NUMBER:** DE 35062/08713   
 > 
@@ -17,10 +17,10 @@ Our postal address is:
 Our legal address is:
 
 > **Daniel Dimitrov  
->  Englerstr. 14, 76131 Karlsruhe  
+>  Sophienstr. 46, 76133 Karlsruhe  
 >  Germany**
 
-We can be reached via e-mail [here](http://compojoom.com/index.php/contact-us.html "e-mail form").[](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy46468%20=%20'privacy'%20+%20'@';%20addy46468%20=%20addy46468%20+%20'opensourcematters'%20+%20'.'%20+%20'org';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy46468%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy46468%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)
+We can be reached via e-mail [here](http://compojoom.com/contact-us/1-daniel-dimtirov-dp1 "e-mail form").[](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy9310%20=%20'privacy'%20+%20'@';%20addy9310%20=%20addy9310%20+%20'opensourcematters'%20+%20'.'%20+%20'org';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy9310%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy9310%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)
 
 We are committed to maintaining your privacy as you use these sites. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
 
@@ -58,3 +58,6 @@ From time to time, we may use user information for new, unanticipated uses not p
 ## Questions or comments
 
 If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please [contact us](http://compojoom.com/index.php/contact-us.html) .
+
+**  
+Sophienstr. 46**
