@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the doodle.com privacy policy that was archived on 2010-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100213100620id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doodle.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121173128id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 		
@@ -14,11 +14,12 @@
 		
 			<title>Doodle: Privacy Policy</title>
 		
-			<base href="http://www.doodle.com/index.html">
+			<base href="http://doodle.com/index.html">
 		
-			<link rel="stylesheet" type="text/css" href="css/doodleStickyMicky.css?v=1525">
+			<link rel="stylesheet" type="text/css" href="css/doodle.css?v=20101027">
 			
-			<link rel="shortcut icon" type="image/x-icon" href="graphics/doodle.ico"></head><body onload="adjustMinHeight(); if (typeof initMyDoodleFields === 'function') {initMyDoodleFields();} ols();">
+			<link rel="shortcut icon" type="image/x-icon" href="graphics/doodle.ico"></head><body onload="ols();">
+				<script type="text/javascript" src="js/doodle.min.js?v=20101027"></script>
 	
 			<div id="sticky">
 			
@@ -32,7 +33,7 @@
 				
 				<div id="c">
 				
-					<div id="content" onclick="if (typeof contentClickHandler === 'function') {contentClickHandler(this);}">
+					<div id="content" onclick="if (typeof contentClickHandler === 'function') {contentClickHandler(this);}" style="min-height:0px;">
 						<div id="contentHead">
 							<div id="logo"><a href="/"><img class="logo" src="graphics/doodleR.png" width="157" height="35" alt="Doodle"></a></div>
 						</div>
@@ -57,27 +58,29 @@
 		anonymously if you wish: You can use Doodle without registration and
 		without entering any e-mail address.</p>
 
-		<h2>Data being accessible through plugins</h2>
-		<p>Doodle provides optional plugins which extend the service by
-		integrating it into third-party calendars. A plugin is a software that
-		you download and install on your computer, and which has access to
-		your calendar. Doodle will access your calendar only for the intended
-		purpose. No additional calendar information or other information will
-		be read from or written to your calendar without your consent.</p>
+
 
 
 		<h2>Log data</h2>
 		<p>Doodle records certain requests and transactions in log files.
 		This log data is used for troubleshooting, statistics, quality
 		assurance, and to monitor system security and can be analyzed to that
-		end.</p>
+		end. Doodle can publish anonymous statistics under the condition that
+		no personally identifiable information can be derived from such statistics.</p>
 		<p>Doodle also uses Google Analytics to compile usage statistics.
 		Analytics is a service provided by Google, Inc. Google’s privacy
-		policy can be accessed here: <a href="http://www.google.com/privacy.html" target="_blank">http://www.google.com/privacy.html</a></p>
-		<p>For all requests originating in Switzerland, Doodle also
-		employs Net-Metrix to certify its traffic statistics. Detailed
-		information (in German) on how this certification works and what
-		information is collected can be found here: <a href="http://www.net-metrix.ch/index.php?nodeId=157" target="_blank">http://www.net-metrix.ch/index.php?nodeId=157</a></p>
+		policy can be accessed here: <a href="http://www.google.com/privacy.html" target="_blank">http://www.google.com/privacy.html</a>.
+		Doodle <a href="http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp">anonymizes IP addresses</a> 
+		before they are sent to Google Analytics.	
+		</p>
+		
+		
+		<p>Doodle also employs Net-Metrix and AGOF to certify its traffic statistics in Switzerland 
+		and Germany. Detailed information (in German) on how this certification works and what
+		information is collected can be found here: 
+		<a href="http://www.net-metrix.ch/index.php?nodeId=157" target="_blank">Net-Metrix</a>, 
+		<a href="http://www.agof.de/methode.585.html" target="_blank">AGOF</a>.
+		</p>
 
 
 		<h2>Cookies</h2>
@@ -129,7 +132,7 @@
 		access to your account.</p>
 
 
-		<h2>Participants' e-mail addresses</h2>
+		<h2>Inviting from Doodle</h2>
 
 		<p>As an option, you can contact and invite people to participate
 		in a poll from Doodle. In this case, Doodle needs to know the e-mail
@@ -141,22 +144,63 @@
 		any time using the corresponding function in your user account
 		(MyDoodle).</p>
 
-		<p>Alternatively, or complementary, you can use your existing
-		Google address book to gain access to the e-mail addresses of the
-		people to be contacted. In this case, you authorize Doodle to access
-		the Google address book. Your Google address book will still be stored
-		at Google exclusively; Doodle only stores the e-mail addresses you
-		selected for as long as the corresponding Doodle poll exists. Please
-		note also: The process of accessing your Google address book is set up
-		to make sure that Doodle at no time has access to your Google
-		password.</p>
-
 		<p>General remark: Like all other personal information, Doodle
 		will not share participants' e-mail addresses with third parties.
 		Doodle will not send any e-mail communication participants' e-mail
 		addresses without your consent.</p>
 
+		<h2>Contacts integration</h2>
 
+		<p>
+		As an alternative (or complement) to the Doodle contacts, you can use your existing
+		Google contacts to gain access to the e-mail addresses of the
+		people to be contacted. In this case, you authorize Doodle to access
+		your Google contacts. Your Google contacts will still be stored
+		at Google, while Doodle makes a copy of the e-mail addresses to have efficient access. 
+		Please note also: The process of accessing your Google contacts is set up (thanks to OAuth)
+		to make sure that Doodle at no time has access to your Google
+		password. You can delete the e-mail addresses stored at Doodle at any time 
+		(<a href="https://doodle.com/mydoodle/deleteContacts.html">Link</a>).</p>
+
+
+		<h2>Calendar integration</h2>
+		
+		<p>
+		You can connect Doodle with your calendar to make the scheduling process even easier and 
+		more efficient. There are to types of calendars: online and offline.
+		</p>
+		
+		<p>
+		Online calendars like Google calendar are constantly accessible via their respective interfaces. 
+		Doodle can store certain calendar data temporarily to improve performance (caching).
+		</p>
+
+		<p>
+		Offline calendars like Microsoft Outlook are connected using a plugin (see below). 
+		Doodle will store a copy of (all or parts of) the calendar data to ensure access to 
+		the calendar data even if the Outlook calendar is currently offline.
+		</p>
+
+		<p>
+		In either case, calendar data on Doodle can be deleted at any time.
+		</p>
+		
+		
+		
+		<h2>Plugins</h2>
+
+		<p>Doodle provides optional plugins which extend the service by
+		integrating it into your local environment (calendar, contacts). 
+		A plugin is a software that
+		you download and install on your computer, and which has access to
+		your calendar and contacts.</p>
+
+		<p>Doodle will use the via plugins accessible information  only for the intended
+		purpose. Doodle will only access the information that is necessary to provide 
+		the intended service.
+		</p>
+
+		
 
 		<h2>Communication between you and Doodle</h2>
 		<p>If you send Doodle a message, this message can be stored to
@@ -189,7 +233,7 @@
 		time. The most current version of this policy is available at <a href="about/policy.html">http://doodle.com/about/policy.html</a>.</p>
 
 		<br>
-		<p>Oct 26 2009</p>						
+		<p>July 22 2010</p>						
 		</div>
 																
 					</div>
@@ -218,7 +262,7 @@
 				<div id="footR">
 <form id="changeLocale" name="changeLocale" method="post" action="/about/policy.html" dir="ltr" enctype="application/x-www-form-urlencoded">
 <input type="hidden" name="changeLocale" value="changeLocale">
-<input id="changeLocale:en" type="submit" name="changeLocale:en" value="English" disabled="disabled" class="baslDisabled"><input id="changeLocale:en_GB" type="submit" name="changeLocale:en_GB" value="English (UK)" class="basl"><input id="changeLocale:de" type="submit" name="changeLocale:de" value="Deutsch" class="basl"><input id="changeLocale:fr" type="submit" name="changeLocale:fr" value="Français" class="basl"><input id="changeLocale:it" type="submit" name="changeLocale:it" value="Italiano" class="basl"><input id="changeLocale:rm" type="submit" name="changeLocale:rm" value="Rumantsch" class="basl"><input id="changeLocale:ar" type="submit" name="changeLocale:ar" value="العربية" class="basl"><input id="changeLocale:bg" type="submit" name="changeLocale:bg" value="български" class="basl"><input id="changeLocale:ca" type="submit" name="changeLocale:ca" value="Català" class="basl"><input id="changeLocale:cs" type="submit" name="changeLocale:cs" value="Čeština" class="basl"><input id="changeLocale:da" type="submit" name="changeLocale:da" value="Dansk" class="basl"><input id="changeLocale:el" type="submit" name="changeLocale:el" value="ελληνικά" class="basl"><input id="changeLocale:eo" type="submit" name="changeLocale:eo" value="Esperanto" class="basl"><input id="changeLocale:es" type="submit" name="changeLocale:es" value="Español" class="basl"><input id="changeLocale:eu" type="submit" name="changeLocale:eu" value="Euskara" class="basl"><input id="changeLocale:fi" type="submit" name="changeLocale:fi" value="Suomi" class="basl"><input id="changeLocale:hu" type="submit" name="changeLocale:hu" value="Magyar" class="basl"><input id="changeLocale:in" type="submit" name="changeLocale:in" value="Bahasa Indonesia" class="basl"><input id="changeLocale:iw" type="submit" name="changeLocale:iw" value="עִבְרִית" class="basl"><input id="changeLocale:lt" type="submit" name="changeLocale:lt" value="Lietuvių" class="basl"><input id="changeLocale:nl" type="submit" name="changeLocale:nl" value="Nederlands" class="basl"><input id="changeLocale:pl" type="submit" name="changeLocale:pl" value="Polski" class="basl"><input id="changeLocale:pt" type="submit" name="changeLocale:pt" value="Português" class="basl"><input id="changeLocale:ru" type="submit" name="changeLocale:ru" value="Русский" class="basl"><input id="changeLocale:sl" type="submit" name="changeLocale:sl" value="Slovenščina" class="basl"><input id="changeLocale:sv" type="submit" name="changeLocale:sv" value="Svenska" class="basl"><input id="changeLocale:tr" type="submit" name="changeLocale:tr" value="Türkçe" class="basl"><input id="changeLocale:uk" type="submit" name="changeLocale:uk" value="Українська" class="basl"><input id="changeLocale:zh" type="submit" name="changeLocale:zh" value="中文简体" class="basl"><input id="changeLocale:zh_TW" type="submit" name="changeLocale:zh_TW" value="中文繁體" class="basl"><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-1684119463276940895:-5010032313794980252" autocomplete="off">
+<input id="changeLocale:en" type="submit" name="changeLocale:en" value="English" disabled="disabled" class="baslDisabled"><input id="changeLocale:en_GB" type="submit" name="changeLocale:en_GB" value="English (UK)" class="basl"><input id="changeLocale:de" type="submit" name="changeLocale:de" value="Deutsch" class="basl"><input id="changeLocale:fr" type="submit" name="changeLocale:fr" value="Français" class="basl"><input id="changeLocale:it" type="submit" name="changeLocale:it" value="Italiano" class="basl"><input id="changeLocale:rm" type="submit" name="changeLocale:rm" value="Rumantsch" class="basl"><input id="changeLocale:ar" type="submit" name="changeLocale:ar" value="العربية" class="basl"><input id="changeLocale:bg" type="submit" name="changeLocale:bg" value="български" class="basl"><input id="changeLocale:br" type="submit" name="changeLocale:br" value="Brezhoneg" class="basl"><input id="changeLocale:ca" type="submit" name="changeLocale:ca" value="Català" class="basl"><input id="changeLocale:cs" type="submit" name="changeLocale:cs" value="Čeština" class="basl"><input id="changeLocale:da" type="submit" name="changeLocale:da" value="Dansk" class="basl"><input id="changeLocale:el" type="submit" name="changeLocale:el" value="ελληνικά" class="basl"><input id="changeLocale:eo" type="submit" name="changeLocale:eo" value="Esperanto" class="basl"><input id="changeLocale:es" type="submit" name="changeLocale:es" value="Español" class="basl"><input id="changeLocale:eu" type="submit" name="changeLocale:eu" value="Euskara" class="basl"><input id="changeLocale:fi" type="submit" name="changeLocale:fi" value="Suomi" class="basl"><input id="changeLocale:hu" type="submit" name="changeLocale:hu" value="Magyar" class="basl"><input id="changeLocale:in" type="submit" name="changeLocale:in" value="Bahasa Indonesia" class="basl"><input id="changeLocale:iw" type="submit" name="changeLocale:iw" value="עִבְרִית" class="basl"><input id="changeLocale:lt" type="submit" name="changeLocale:lt" value="Lietuvių" class="basl"><input id="changeLocale:nl" type="submit" name="changeLocale:nl" value="Nederlands" class="basl"><input id="changeLocale:pl" type="submit" name="changeLocale:pl" value="Polski" class="basl"><input id="changeLocale:pt" type="submit" name="changeLocale:pt" value="Português" class="basl"><input id="changeLocale:ru" type="submit" name="changeLocale:ru" value="Русский" class="basl"><input id="changeLocale:sl" type="submit" name="changeLocale:sl" value="Slovenščina" class="basl"><input id="changeLocale:sv" type="submit" name="changeLocale:sv" value="Svenska" class="basl"><input id="changeLocale:tr" type="submit" name="changeLocale:tr" value="Türkçe" class="basl"><input id="changeLocale:uk" type="submit" name="changeLocale:uk" value="Українська" class="basl"><input id="changeLocale:zh" type="submit" name="changeLocale:zh" value="中文简体" class="basl"><input id="changeLocale:zh_TW" type="submit" name="changeLocale:zh_TW" value="中文繁體" class="basl"><input id="changeLocale:nop" type="submit" name="changeLocale:nop" value="Current" style="display: none;" class="reload"><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-2808037162718683890:-7093850735955805883" autocomplete="off">
 </form>
 				</div>
 			
@@ -243,6 +287,12 @@
 	</script>
 	
 </div>
+			
+			<script type="text/javascript">
+			//<![CDATA[
+				adjustMinHeight();		
+			//]]>
+			</script>
 				<script type="text/javascript">
 				//<![CDATA[
 					function ols() {}
@@ -257,7 +307,9 @@
 	<script type="text/javascript">
 	//<![CDATA[
 		try {
-			var pageTracker = _gat._getTracker("UA-2304077-1");
+			_gat._anonymizeIp();
+			var pageTracker = _gat._createTracker("UA-2304077-1");
+			pageTracker._setDomainName(".doodle.com");
 			pageTracker._trackPageview();
 		} catch(err) {}
 	//]]>
@@ -265,19 +317,17 @@
 			
 			<script type="text/javascript">
 			//<![CDATA[
-				function adjustMinHeight() {
-					var windowHeight = window.innerHeight || document.documentElement.clientHeight;
-					if (document.body.clientHeight < windowHeight) {
-						var content = document.getElementById('content');
-						content.style.minHeight = content.offsetHeight- 84 + windowHeight - document.body.clientHeight + 2 + 'px';
-					}
-				}
-			//]]>
-			</script>
-	
-			<script type="text/javascript">
-			//<![CDATA[
 				var wallpaper = false;
+				var resizeWallpaperHandler = function() {
+					if ( $( window ).width() - 160 > 750 ) {
+						$( "#banner" ).show();
+						$( "#skyscraper" ).show();
+					} else {
+						$( "#banner" ).hide();
+						$( "#skyscraper" ).hide();
+					}
+				};
+				$( window ).resize( resizeWallpaperHandler );			
 			//]]>
 			</script>
 	
@@ -287,17 +337,11 @@
 			<div id="skyscraper">
 			</div>
 	
-			<div id="derBanner">
-			</div>
-			
-			<div id="derSkyscraper">
-			</div>
-	
 	
 <!--
 Worker:         worker1
-Instance:       instances/i2
-Total time:     7 ms
+Instance:       doodle
+Total time:     10 ms
 Slow:           0
-DB Bytes:       4426
+DB Bytes:       8940
 --></body></html>
