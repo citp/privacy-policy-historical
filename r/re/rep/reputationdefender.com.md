@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603065815id_/http%3A//www.reputationdefender.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121100929id_/http%3A//www.reputationdefender.com/privacypolicy) for the most accurate reproduction.*
 
-# ReputationDefender : Privacy Policy
+# Privacy Policy : ReputationDefender
 
 [ ](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.reputationdefender.com&sealid=102)
 
