@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the playgame.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621212951id_/http%3A//www.playgame.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgame.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121100831id_/http%3A//www.playgame.net/en/privacy) for the most accurate reproduction.*
 
-# Playgame.net
+# Play Game , Privacy
 
-[](http://www.playgame.net/)
-
-[Play](http://www.playgame.net/) Games Most Fun Games
+## Privacy
 
   * This contract Playgame.net and connected to all users who use the service covers. 
   * **Use of Personal Information**  
