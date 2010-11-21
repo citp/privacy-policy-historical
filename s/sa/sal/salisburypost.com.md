@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231072609id_/http%3A//www.salisburypost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121230601id_/http%3A//www.salisburypost.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Salisbury, North Carolina - The Salisbury Post
 
@@ -67,15 +67,22 @@ Phone: (704) 797-4280
 Fax: (704) 639-0003  
 Email: [jjudd@salisburypost.com](mailto:jjudd@salisburypost.com)
 
-The Company may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is [Brad Thomas](mailto:bthomas@salisburypost.com), whose address is PO BOX 4639 Salisbury, NC 28145. Third parties accessible through this Site may have their own such operators.
+The Company may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is [Jeremy Judd](mailto:jjudd@salisburypost.com), 131 W. Innes St. Salisbury, NC 28144. Third parties accessible through this Site may have their own such operators.
 
 Copyright © 2007, **Post Publishing Company, Inc..** All rights reserved.
 
-******************** Marketplace Miner ********************
+[](http://www.salisburypost.com/postables/)
+
+  * Photos
+  * Videos
+  * Forums
+  * Blogs
+
+
 
 ******************** Poll ********************
 
-What was the biggest local news story in 2009?
+The Rowan County Board of Commissioners voted 3-2 to proceed with property revaluation despite a lack of recent sales data. Do you agree or disagree with the board's decision?
 
   
 
