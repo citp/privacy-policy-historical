@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articulatepen.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617074152id_/http%3A//articulatepen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articulatepen.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121225559id_/http%3A//articulatepen.com/privacy-policy) for the most accurate reproduction.*
 
 # Articulatepen.com Privacy Policy | Articulate Pen
 
