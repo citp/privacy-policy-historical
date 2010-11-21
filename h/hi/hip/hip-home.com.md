@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hip-home.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523025639id_/http%3A//www.hip-home.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip-home.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121130130id_/http%3A//www.hip-home.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HIP Home Improvement Projects
 
