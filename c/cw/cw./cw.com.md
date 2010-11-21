@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601024132id_/http%3A//www.cw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121170638id_/http%3A//www.cw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Cable&Wireless Worldwide
 
@@ -15,6 +15,8 @@ To help us provide you with great customer service we need to be able to identif
 ## How we collect your personal information
 
 We will collect information from you when you use our enquiry and registration forms, or when we make direct personal contact (for example, by email or over the phone) in order to conduct business with you.
+
+When you contact our Customer Service Centres we will also carry out call recording for training and quality purposes and we may, on occasion, gather some limited personal information as a result.
 
 ## How we use your information
 
