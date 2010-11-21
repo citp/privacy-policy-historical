@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524043641id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121120318id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home Remedy | Administration
 
@@ -12,9 +12,9 @@ Homeremedycentral.com uses statistical tracking software to provide metrics of s
 
 ## Contact Information:
 
-You may contact us via email from the "Contact Us" section of this website, email [info@homeremedycentral.com](mailto:info@homeremedycentral.com), calling 425-881-8411 or at the address below. 
+You may contact us via email from the "Contact Us" section of this website, email [info@homeremedycentral.com](mailto:info@homeremedycentral.com), calling 425-881-8411 or at the address below.
 
-Corina Wilson 
+Corina Wilson
 
 PO Box 12001,  
 Mill Creek, WA 98082  
@@ -44,7 +44,7 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 ## Third-Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
   * Google, as a third party vendor, uses cookies to serve ads on this site.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
