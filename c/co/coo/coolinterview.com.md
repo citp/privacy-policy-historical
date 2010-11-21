@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolinterview.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172014id_/http%3A//www.coolinterview.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolinterview.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121043354id_/http%3A//coolinterview.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
