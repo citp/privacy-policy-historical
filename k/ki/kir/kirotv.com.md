@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914052047id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035036id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - KIRO-TV News Story - KIRO Seattle
 
@@ -9,7 +9,7 @@ Website Manager
 KIRO-TV  
 2807 Third Avenue  
 Seattle, WA 98121  
-[tweiler@kirotv.com](mailto:tmokhtari@kirotv.com)
+[tmokhtari@kirotv.com](mailto:tmokhtari@kirotv.com)
 
  **CHILDREN'S PRIVACY**
 
