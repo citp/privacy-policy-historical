@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friday-ad.co.uk privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726090105id_/http%3A//www.friday-ad.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friday-ad.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121141714id_/http%3A//www.friday-ad.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
 
-# Friday-Ad in Guildford - Privacycookiepolicy
+# Friday-Ad - PrivacyCookiePolicy
 
 Friday-Ad is committed to protecting your right to privacy as a consumer of our online services.   
 It is our policy to respect the privacy of private communication and the information you provide to us will be held on Friday-Ad computers that are based in the UK. 
