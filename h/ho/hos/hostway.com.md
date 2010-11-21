@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330025421id_/http%3A//www.hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035424id_/http%3A//www.hostway.com/dedicated/legal/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement | Hostway Web Solutions
+# Hostway's Privacy Statement
 
 [](http://www.truste.org/ivalidate.php?url=www.hostway.com&sealid=101)
 
+## Privacy Policy 
+
 ## Last updated December 21, 2007
 
-Hostway Corporation (“Hostway”) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site [www.hostway.com](https://web.archive.org/). We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [www.hostway.com/legal/terms_of_use.html](https://web.archive.org/legal/terms_of_use.html).
+Hostway Corporation (“Hostway”) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site [www.hostway.com](https://web.archive.org/). We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [www.hostway.com/legal/terms_of_use.html](https://web.archive.org/dedicated/legal/terms-of-use.html).
 
 Hostway is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -20,7 +22,7 @@ For visitors, we've structured our Web sites so that, in general, you can visit 
 
 For prospective and existing customers and partners, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Hostway.
 
-### What type of information does Hostway collect? 
+What type of information does Hostway collect? 
 
 When you visit our Web site, our Web server collects basic user information about you that includes your ISP's domain, the time you accessed our Web site, and the pages from within our Web site that you visit and is not personally identifiable information except as needed to prevent fraud or abuse of the system.
 
@@ -28,7 +30,7 @@ When you sign up for Hostway's services, you provide us with both contact and pa
 
 While you are a Hostway customer, we manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
 
-### Surveys or Contests
+Surveys or Contests
 
 From time-to-time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
@@ -36,7 +38,7 @@ We use this information to notify contest winners and award prizes, to monitor s
 
 We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose including their own marketing. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-### How do we use this information? 
+How do we use this information? 
 
 We use the contact information you provide us to establish our service for you. We use payment information for payment processing purposes only. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service. By pressing the “submit” button, each visitor constitutes consent to use the information for purposes stated in this Policy.
 
@@ -56,7 +58,7 @@ Please note that Hostway may use this information collected to direct service no
 
 Customers may opt out of receiving newsletters and/or promotional emails from Hostway by sending a request to [newsletter-unsubscribe@hostway.com](mailto:newsletter-unsubscribe@hostway.com?subject=Unsubscribe%20Me) , by using the unsubscribe instructions included in each promotional communication, or by changing your email preferences on the site within your Account information. In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from Hostway which is essential for maintaining or updating customers account or system information.
 
-### Third Party Advertising and Cookies
+Third Party Advertising and Cookies
 
 The basic user information collected is used to help us analyze Web traffic, improve the content of our Web site and improve your experience on our Web site.
 
@@ -70,11 +72,11 @@ We may at times also use cookies, which are small pieces of information that a W
 
 Our Web site may allow for a chat function. Chat functions allow you to participate in “live” online conversations with us on our Web site. Although the transcripts from the chats may be stored internally on in-house servers for our records only, we collect no personally identifiable information about you when you participate unless you choose to provide that information to us.
 
-### How Can I access my personal information?
+How Can I access my personal information?
 
 You can access your personal information, such as your address and contact information, at anytime to correct, change or delete any of the data shared with us when you became a customer of Hostway. As a customer of Hostway you can access your personal information by clicking on the “Customer Login” link at the top of any Web page. Your account information is secure and is accessible by using a password that you select. If you need assistance or have questions about correcting information you can contact us via email at [support@hostway.com](mailto:support@hostway.com?subject=Customer%20Support%20Inquiry). Hostway will respond to access requests within 30 days.
 
-### Security
+Security
 
 Hostway has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information.
 
@@ -82,21 +84,21 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can send email us at [privacy@hostway.com](mailto:privacy@hostway.com?subject=Privacy%20Inquiry).
 
-###  Links 
+Links 
 
 Our Web site provides links to other Web sites, sites that may be maintained by companies that are not affiliates of ours. We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution. In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you. This Policy applies solely to information collected by this Web site.
 
-### Children’s Privacy 
+Children’s Privacy 
 
 Hostway does not sell products or services for purchase by children. Customers must be at least 18 years of age. Any individual under the age of 18 (“Minor”) must have a parent or guardian accept the TOU in order for the Minor to become a Customer. If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian.
 
-### Changes to our Policy
+Changes to our Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our home page.
 
-### Contact Us
+Contact Us
 
 If you have questions or concerns regarding this Policy, you should contact us by email at [privacy@hostway.com](mailto:privacy@hostway.com?subject=Privacy%20Inquiry).
 
