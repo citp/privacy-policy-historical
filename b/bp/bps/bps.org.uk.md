@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826144126id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121170736id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
 | 
-
-## Website Privacy Policy & Guide to Data Protection
-
-### Privacy Policy
 
 #### Personal Data
 
@@ -70,13 +66,13 @@ The Data Protection Act 1988 places a number of responsibilities upon people and
 
 #### Data must be (the Eight Principles):
 
-  * fairly and lawfully processed;
-  * only obtained for one or more specified lawful purposes, and processed only for those purposes;
-  * only held if it is relevant and not excessive for any particular purpose;
-  * must be accurate and kept up to date;
-  * not kept for longer than is necessary;
-  * processed in accordance with rights of data subjects for personnel data;
-  * secure and protected to prevent unlawful or unauthorised processing, accidental loss, destruction or damage;
+  * fairly and lawfully processed; 
+  * only obtained for one or more specified lawful purposes, and processed only for those purposes; 
+  * only held if it is relevant and not excessive for any particular purpose; 
+  * must be accurate and kept up to date; 
+  * not kept for longer than is necessary; 
+  * processed in accordance with rights of data subjects for personnel data; 
+  * secure and protected to prevent unlawful or unauthorised processing, accidental loss, destruction or damage; 
   * not transferred to countries outside EEA (European Economic Area) without adequate protection.
 
 
@@ -93,12 +89,12 @@ Generally we receive information about you when you make an enquiry to the Socie
 
 We use your information for a number of purposes that are outlined below.
 
-  * to administer and maintain your Membership record;
-  * to respond to any query that you may raise about your Membership record;
-  * as input to a Regulatory Affairs case;
-  * to administer and maintain employees' records;
-  * to keep you informed (by post or email) about other products or services the Society or approved 3rd parties can offer;
-  * use information about you for the purposes of research and statistical analysis;
+  * to administer and maintain your Membership record; 
+  * to respond to any query that you may raise about your Membership record; 
+  * as input to a Regulatory Affairs case; 
+  * to administer and maintain employees' records; 
+  * to keep you informed (by post or email) about other products or services the Society or approved 3rd parties can offer; 
+  * use information about you for the purposes of research and statistical analysis; 
   * disclose information about you to regulatory authorities in response to formal requests.   
 
 
@@ -143,5 +139,5 @@ The Registrar: [www.dpr.gov.uk ](http://www.dpr.gov.uk/ "External Site \(new win
 
 **October 2001**  
   
-© Copyright 2000-2009 The British Psychological Society   
+© Copyright 2000-2010 The British Psychological Society   
 The British Psychological Society is a charity registered in England and Wales, Registration Number : 229642 and a charity registered in Scotland, Registration Number : SC039452 - VAT Registration Number : 240 3937 76
