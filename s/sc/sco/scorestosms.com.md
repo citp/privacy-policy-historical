@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorestosms.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612090342id_/http%3A//www.scorestosms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorestosms.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121142010id_/http%3A//www.scorestosms.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
