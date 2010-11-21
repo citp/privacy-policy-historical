@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530221808id_/http%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121191924id_/http%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
 
 # District Lines | Privacy Policy
-
-[](http://party.thebamboozle.com/profile/TheBamboozleRoadshow)
 
 ## Privacy Policy
 
@@ -23,5 +21,3 @@ We will protect personal information by reasonable security safeguards against l
 **We will make readily available to customers information about our policies and practices relating to the management of personal information.**
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-[](http://party.thebamboozle.com/profile/TheBamboozleRoadshow)
