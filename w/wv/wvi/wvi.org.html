@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the wvi.org privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619143021id_/http%3A//www.wvi.org/wvi/wviweb.nsf/maindocs/91C85A5E15D60F1F882573720069AC33%3Fopendocument) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wvi.org privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121034843id_/http%3A//www.wvi.org/wvi/wviweb.nsf/maindocs/91C85A5E15D60F1F882573720069AC33%3Fopendocument) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
-<base href="http://wvi.org/wvi/wviweb.nsf/">
+<base href="http://www.wvi.org/wvi/wviweb.nsf/">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Privacy Statement for the World Vision International Website">
@@ -16,7 +16,7 @@
 document._domino_target = "_self";
 function _doClick(v, o, t) {
   var returnValue = false;
-  var url="/wvi/wviweb.nsf/maindocs/91c85a5e15d60f1f882573720069ac33?OpenDocument&Click=" + v;
+  var url="/wvi/wviweb.nsf/0/91c85a5e15d60f1f882573720069ac33?OpenDocument&Click=" + v;
   if (o.href != null) {
     o.href = url;
     returnValue = true;
@@ -32,10 +32,19 @@ function _doClick(v, o, t) {
 
 <script language="JavaScript" type="text/javascript">
 <!-- 
-function noenter()
+function noenter(e)
 {
+var evt = window.event || e; //cross browser event obj
+
+//alert(evt.type);
   //return !(window.event && window.event.keyCode == 13);
-	if(window.event.keyCode == 13){
+  	var keyPressed;
+  	if(window.event){ //ie
+  		keyPressed = window.event.keyCode;
+  	}else{
+  		keyPressed = e.which;
+  	}
+	if(keyPressed == 13){
 		if (!(document.forms[0].SearchTX.value == "")){
 			checksearch();
 			return false;
@@ -48,20 +57,22 @@ function checksearch()
 {
 	var msg;
 	var msgflag;
-
+//alert('1');
 	msgflag = "false";
 	msg="Please enter your search value.\r";
-    
+ 
  	if(document.forms[0].SearchTX.value == "")
 	{
 		 msg;
 		msgflag="true";
  	}
+// 	   alert('2');
 	 if(msgflag == "true")
 	{
 		alert(msg);
  	    document.forms[0].SearchTX.focus
 	}
+//	   alert('3');
 	 if(msgflag == "false")
 	{
   	   	var f= document.forms[0];
@@ -101,7 +112,7 @@ function checksearch()
 <tbody><tr valign="top"><td width="151"><input type="HIDDEN" name="urlPath" value="wvi/wviweb.nsf">
 <input type="HIDDEN" name="pageLanguage" value="English">
 <table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"><td width="144"><b>Search</b><input type="text" name="SearchTX" class="searchbx" onkeypress="return noenter()" value="">&nbsp;<a onclick="checksearch()
+<tbody><tr valign="top"><td width="144"><b>Search</b><input type="text" name="SearchTX" class="searchbx" onkeypress="return noenter(event)" value="">&nbsp;<a onclick="checksearch()
 return false;" href=""><img src="/wvi/wviweb.nsf/search.gif?OpenImageResource" width="21" height="20" style="position: relative; top: 4px;" border="0"></a></td><td width="12"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td></tr>
 </tbody></table>
 <br>
@@ -155,7 +166,7 @@ return false;" href=""><img src="/wvi/wviweb.nsf/search.gif?OpenImageResource" w
 <br>
 <a href="/wvi/wviweb.nsf/maindocs/1D2B36806EAD6CD08825738A0074CFD8?opendocument"><img src="/wvi/wviweb.nsf/9FF988A0368E2D1288257489007E8E7B/$file/worthy-trust-3.gif" width="139" height="42" alt="Worthy of your trust" border="0"></a>
 <br>
-<a href="/wvi/wviweb.nsf/maindocs/9C02CB2761115317882573D0007D1A1B?opendocument"><img src="/wvi/wviweb.nsf/9FF988A0368E2D1288257489007E8E7B/$file/Sponsor-button-2009f.jpg" width="139" height="170" alt="Child sponsorship" border="0"></a>
+<a href="/wvi/wviweb.nsf/maindocs/ECFEEA78B85088FD8825739F00767794?opendocument"><img src="gifts-2007.jpg" width="139" height="170" alt="Gift catalogue" border="0"></a>
 <br><br>
 </td><td width="419"><div align="center">
 <table cellpadding="3" width="546" border="0" cellspacing="0">
