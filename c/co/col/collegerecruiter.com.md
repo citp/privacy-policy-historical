@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505180045id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121011350id_/http%3A//collegerecruiter.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CollegeRecruiter.com
 
-Visitors to this and other websites owned or powered by Adguide Publications, Inc. can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.
+Visitors to this and other websites owned or powered by CollegeRecruiter.com, LLC can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.
 
 You may provide us with personally identifiable information that can directly identify you or indicate where you may be contacted during these activities. The information may include your name, address, age, date of birth, gender, class, email address, telephone number, credit card information, hobbies, interests, and more. Sometimes visitors provide similar information about others. We also collect generic information that does not identify you personally such as the type of browser and in which city you're located.
 
@@ -18,9 +18,9 @@ Like most commercial websites, our site collects information about our visitors 
 
 In order to better understand the people using our sites, we may supplement the information you provide to us with information from third party organizations. For example, you may accidentally provide to us an invalid zip code. We may correct that information with zip code information that we obtain from a third party.
 
-Some of the advertising appearing on our sites is served by Google, Inc. Some of their advertising is [interest-based](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
+Some of the advertising appearing on our sites is served by Google, Inc. and its affiliates. Some of their advertising is [ interest-based](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
 
-Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent. 
+Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent.
 
 We have put in place physical, electronic, and other procedures to help keep your information safe and prevent unauthorized access. No security system is 100 percent safe from security breaches. We cannot guaranty the security of the information collected on this website or information that you otherwise provide to us. By using this website, you agree that you, and not us, bear the risk of any use or misuse of information about you due to a security breach. Please note that credit card information submitted via this website is processed by a third party provider. Further, when your information is provided to third party organizations their procedures will determine the safety of your data. We cannot guarantee that they will keep your data as safe as you would want them to.
 
@@ -28,10 +28,10 @@ Our web servers and other operations are located in the United States of America
 
 We do not knowingly accept personal information from anyone under 13 years old in violation of applicable laws. This site is designed to be used by those who are at least 13 years of age and should not be used by those who are under 13 years old. We do not sell products or services for purchase by children and all products and services we sell are for purchase by adults only, or with adult permission.
 
-We consider the information you provide to be an asset of our company. As such, Adguide Publications, Inc. may include your information in the sale of any of its assets to any third party in the event of a merger, acquisition, or other transaction.
+We consider the information you provide to be an asset of our company. As such, we may include your information in the sale of any of its assets to any third party in the event of a merger, acquisition, or other transaction.
 
 You have the right to opt-out of receiving future communications from us. If you do not wish to receive future communications from us, please follow the unsubscribe or removal instructions in the communications.
 
-UNDER NO CIRCUMSTANCES SHALL WE BE LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, THAT RESULT FROM THE USE OF THE INFORMATION COLLECTED AS A RESULT OF YOUR ACCESSING THIS WEBSITE OR OTHERWISE PROVIDED TO US EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+UNDER NO CIRCUMSTANCES SHALL WE BE LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, THAT RESULT FROM THE USE OF THE INFORMATION COLLECTED AS A RESULT OF YOUR ACCESSING THIS WEBSITE OR OTHERWISE PROVIDED TO US EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 As is the case with all organizations, our business needs and policies evolve and change over time. We therefore reserve the discretion and right to change, modify, add, or remove portions from this policy at any time and such changes will retroactively apply to your information. Your use of this site means you accept this policy and any changes we may make to it.
