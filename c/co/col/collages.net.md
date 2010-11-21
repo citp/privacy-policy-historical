@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629223423id_/http%3A//www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121115356id_/http%3A//www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Collages.net - Total Workflow and Printing Solution
 
