@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618035201id_/http%3A//www.thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121142432id_/http%3A//www.thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
