@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Crash.Net
 
-[**Le Mans**](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/sportscars) »  [D-Brief](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/le+mans/blogs/61/1/d-brief.html) : [Le Mans in Mind](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/le+mans/blog/160468/1/61/le_mans_in_mind.html)
+[**WRC**](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/wrc) »  [Flying Finn](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/world+rally/blogs/60852/1/flying_finn.html) : [Vice-champion](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/world+rally/blog/165132/1/60852/vice-champion.html) [[6]](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/world+rally/comments/165132/1/a/vice-champion.html)
 
-In his latest column, David Brabham continues to prepare for the 2010 Le Mans 24 Hours 
+In Jari-Matti Latvala's latest exclusive column on Crash.net, the BP Ford Abu Dhabi WRT man reflects on Rally GB, where he finished third and secured second in the drivers' championship. 
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website.
 
