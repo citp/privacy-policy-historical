@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231090154id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121140026id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
-
-You currently have **0 items** in your cart.
-
-  * 31/12/2009 Happy New Year!
-
-Dear visitors, our office will be closed from December 31 to January 2 for celebrating the New Year. You can purchase and download our products, but we can not answer your questions for this short period. Happy new year.
-
-  * 22/12/2009 ARI Slider v. 1.1.0 is ready
-
-We have good news. ARI Slider module v. 1.1.0 is ready. It supports auto rotation of slider items and provides ability for defining menu items title. It also includes fix for IE 8.
-
-
-  
-
-
-[](http://www.twitter.com/ARISoft)
 
 ARI Soft Privacy Policy is deeply committed to protecting the privacy of our customers.
 
