@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630011343id_/http%3A//www.moneycorp.com/Footer-Pages/Terms-of-use1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121171847id_/http%3A//www.moneycorp.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,13 +12,13 @@ Information such as your name and address, payment information and other persona
 
 ## How we collect your personal information
 
-We will ask you for it when you purchase our services 
+We will ask you for it when you purchase our services 
 
 ## In relation to our websites:
 
   * We will not collect personal information about you through the browser when you browse our websites.
   * Our web sites will, however, log your IP address so that it is then recognized next time you visit our website.
-  * We also use cookies to personalize your next visits to our websites and to measure volumes and patterns of website usage.   
+  * We also use cookies to personalize your next visits to our websites and to measure volumes and patterns of website usage.   
 
 
 
@@ -27,7 +27,8 @@ We will ask you for it when you purchase our services 
 
   * We will use your information to facilitate your order or enquiry and complete the delivery of our services.
   * We may use your information to enforce our rights if necessary.
-  * Information will only be passed to a third party to facilitate your order or enquiry or for legal reasons. Your information will not be passed outside the European Economic Area.
+  * Information will only be passed to a third party to facilitate your order or enquiry or for legal reasons. 
+  * Your information may be transferred outside the European Economic Area (EEA).
   * Information relating to website usage will be used by us but may also be passed in aggregated statistical format to the third party service provider who facilitates visitor access to our site.
   * We may wish to use the information that we gather on you to provide you with information on our goods and services, which may include you receiving promotional mailings and e-mails. If you do not wish your information to be used in this way please let us know either by indicating in the tick boxes when providing us with your details or by contacting us using the contact details set out below.
   * Your information may be used, where possible in anonymous or aggregated format, to assist in servicing and maintaining our databases.
