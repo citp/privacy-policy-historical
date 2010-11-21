@@ -1,18 +1,124 @@
-<!--The following is the downloaded HTML source of the onlygirlsgames.com privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522210957id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlygirlsgames.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121102816id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="description" content="Only Girls Games ">
-	<meta name="keywords" content="dress up games, only girls games, girls quizzes, girl quiz, fashion games, cooking games, girls games">
+	<meta name="description" content="Only Girls Games Games for Girls, Girls Games, Only Girls Games, Horse Games, Girls Quiz">
+	<meta name="keywords" content="only girls games, girls games only, games for girls only, dress up games, girls quizzes, girl quiz, fashion games, cooking games, girls games, horse games">
         <title>Privacy Policy</title>
         <link href="http://www.onlygirlsgames.com/stumpyScript/siteSpecific/tti.css" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" type="text/css" href="http://www.onlygirlsgames.com/templates/ogg/style.css" <="">
-	<link rel="stylesheet" type="text/css" href="http://www.onlygirlsgames.com/templates/ogg/rating_style.css" <="">
+	<link rel="stylesheet" type="text/css" href="http://www.onlygirlsgames.com/templates/onlygirlsgames/style.css" <="">
+	<link rel="stylesheet" type="text/css" href="http://www.onlygirlsgames.com/templates/onlygirlsgames/rating_style.css" <="">
 	<script type="text/javascript" src="http://www.onlygirlsgames.com/js/rating_update.js"></script>
-	<script src="http://www.onlygirlsgames.com/templates/ogg/arcade.js" type="text/javascript"></script>
+	<script src="http://www.onlygirlsgames.com/templates/onlygirlsgames/arcade.js" type="text/javascript"></script>
+
+	<script type="text/javascript">
+		var http_request = false;
+
+		function show_hint ( p_hint_text, p_span )
+		{
+			document.getElementById(p_span).innerHTML = p_hint_text ;
+		}
+
+		function makePOSTRequest(url, parameters, SpanName)
+		{
+			http_request = false;
+			if (window.XMLHttpRequest) { // Mozilla, Safari,...
+			http_request = new XMLHttpRequest();
+			if (http_request.overrideMimeType) {
+			http_request.overrideMimeType('text/xml');
+			}
+			} else if (window.ActiveXObject) { // IE
+			try {
+			http_request = new ActiveXObject("Msxml2.XMLHTTP");
+			} catch (e) {
+			try {
+			http_request = new ActiveXObject("Microsoft.XMLHTTP");
+			} catch (e) {}
+			}
+			}
+			if (!http_request) {
+			alert('Cannot create XMLHTTP instance');
+			return false;
+			}
+
+			http_request.onreadystatechange = function() {
+			if (http_request.readyState == 4) {
+			if (http_request.status == 200) {
+			result = http_request.responseText;
+			document.getElementById(SpanName).innerHTML = result;
+			} else {
+			alert('There was a problem with the request.');
+			}
+			}
+			};
+			http_request.open('POST', url, true);
+			http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			http_request.setRequestHeader("Content-length", parameters.length);
+			http_request.setRequestHeader("Connection", "close");
+			http_request.send(parameters);
+		}
+
+		function Contact(obj,SpanName,DivName)
+		{
+			var curDateTime = new Date(); //For IE
+			var SpanName = SpanName;
+
+			if(DivName == 'tf'){
+			var posturl = "http://www.onlygirlsgames.com/index.php?action=tellafriendajax";
+			var poststr = "&sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+							"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+							"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+							"&about=" + encodeURI( document.getElementById("about").value ) +
+							"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+							  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+
+			var fullurl = posturl+poststr;
+			makePOSTRequest(posturl, poststr, SpanName);
+
+			}
+
+			if(DivName == 'tfv'){
+			var posturl = "http://www.onlygirlsgames.com/index.php?action=tellafriendajax";
+			var poststr = "&sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+							"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+							"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+							"&about=" + encodeURI( document.getElementById("about").value ) +
+							"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+							"&verifycode=" + encodeURI( document.getElementById("tverifycode").value ) +
+							  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+
+			var fullurl = posturl+poststr;
+			makePOSTRequest(posturl, poststr, SpanName);
+			}
+
+			if(DivName == 'cf'){
+			var posturl = "http://www.onlygirlsgames.com/index.php?action=addcommentajax";
+			var poststr = "&newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+								"&id=" + encodeURI( document.getElementById("id").value );
+
+			var fullurl = posturl+poststr;
+			makePOSTRequest(posturl, poststr, SpanName);
+			}
+			if(DivName == 'cfv'){
+			var posturl = "http://www.onlygirlsgames.com/index.php?action=addcommentajax";
+			var poststr = "&newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+								"&id=" + encodeURI( document.getElementById("id").value ) +
+								"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+
+			var fullurl = posturl+poststr;
+			makePOSTRequest(posturl, poststr, SpanName);}
+
+			document.getElementById(DivName).style.display = 'none';
+		}
+
+	</script>
+
 </head>
 <body>
+
+
+
 	<table cellpadding="0" cellspacing="0" id="outerTable" align="center">
 		<tbody><tr>
 			<td id="outerTableTd">
@@ -52,19 +158,19 @@
 								</div>
 							</div>
 <div class="headerTabOuterDiv" onmouseover="headerTabOver(this,'games');" onmouseout="headerTabOut(this);"><div class="headerTabInnerDiv">
-									<a href="http://www.onlygirlsgames.com/index.php?action=tradetraffic" target="_top" alt="1:1 Trade">
-										<div class="headerTabText">1:1 Trade</div>
+									<a href="http://www.onlygirlsgames.com/leaderboard.html" target="_top" alt="Leaderboard">
+										<div class="headerTabText">LEADERBOARD</div>
 									</a>
 								</div>
-							</div>&nbsp;&nbsp;&nbsp;<a href="http://www.onlygirlsgames.com/rss.php" target="_blank"><img border="0" src="http://www.onlygirlsgames.com/images/rss.png" width="24" height="24" alt="Latest Girls Games">
-</a>
+							</div>
+
 						</div>
 						<div id="headerTextDiv">
 							<div id="headerTextDivDefault">
 								<div class="headerCatOuterDiv">
 									
 										<div class="headerCatInnerDiv">
-											Welcome To Only Girls Games. Girls Dress Up Games, Cooking Games, Style And Fashion Games! 
+											Welcome To Only Girls Games. Girls Dress Up Games, Makeover Games, Cooking Games, Style and Fashion Games!
 										</div>
 									
 								</div>
@@ -85,7 +191,7 @@
 					<div id="headerDivBottom">
 						<div id="headerStats">
 							
-   Total Games: 1575 | Played Today: 18811 | Overall Played: 7759819 | Total Members: 26012  
+   Total Games: 2360 | Played Today: 5126 | Overall Played: 10088394 | Total Members: 40167 | 276 Gamers Online  
 						</div>
 						<div id="headerGoogleSearch">
 							<form name="searchbox" method="post" action="http://www.onlygirlsgames.com/">
@@ -102,6 +208,7 @@
 				<div id="outerLeftDiv">
 					<div id="outerLeftInnerDiv">
 						
+
 
 
 
@@ -123,17 +230,55 @@
 			<div class="leftLoginItem">Password:</div>
 			<div class="leftLoginItem"><input name="loginpassword" type="password" id="loginpassword"></div>
 			<div class="leftLoginItem"><input type="checkbox" name="saveme" value="1" checked=""> Remember Me</div><br>
-			<div class="leftLoginItem"><input name="Submit" type="image" src="http://www.onlygirlsgames.com/templates/ogg/images/newloginbutton.gif" value="Login"></div><br>
+			<div class="leftLoginItem"><input name="Submit" type="image" src="http://www.onlygirlsgames.com/templates/onlygirlsgames/images/newloginbutton.gif" value="Login"></div><br>
 			<div class="leftLoginItem"><a href="http://www.onlygirlsgames.com/index.php?action=register" target="_top">Create an Account</a></div>
 			<div class="leftLoginItem"><a href='javascript:popRecoverPassword("http://www.onlygirlsgames.com/index.php?action=passwordrecovery");'>Lost Password?</a></div>
 		
 </form>
+
+
 </div>
 
 	<div class="leftBoxFooter"></div>
 </div>
 		</div>
+
 <div class="spacer"></div>
+
+
+<div class="leftBoxContent">
+
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.onlygirlsgames.com&amp;layout=standard&amp;show_faces=false&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=40" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:40px;" allowtransparency="true"></iframe>
+
+
+</div>
+<div class="spacer"></div>
+
+
+
+
+
+<div class="leftBoxOuterDiv">
+	<div class="leftBoxHeader">
+		<div class="leftBoxHeaderInner">
+			Other Girls Games
+		</div>
+	</div>
+
+
+	<div class="leftBoxContent">
+		<div id="leftBoxFriendsOuter">
+<table><tbody><tr><td width="7"></td><td>
+<div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button4890&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver4890&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver4890&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button4890&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=4890&amp;id=&amp;linkt=1" target="blank"><img id="button4890" src="http://www.onlygirlsgames.com/buttons/nicole.jpg" height="75" width="75" border="0" alt=""><img id="buttonOver4890" src="http://www.onlygirlsgames.com/buttons/nicoled.jpg" height="75" width="75" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button4894&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver4894&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver4894&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button4894&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=4894&amp;id=&amp;linkt=1" target="blank"><img id="button4894" src="http://www.onlygirlsgames.com/buttons/taylor.jpg" height="75" width="75" border="0" alt=""><img id="buttonOver4894" src="http://www.onlygirlsgames.com/buttons/taylord.jpg" height="75" width="75" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button4895&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver4895&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver4895&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button4895&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=4895&amp;id=&amp;linkt=1" target="blank"><img id="button4895" src="http://www.onlygirlsgames.com/buttons/winx.jpg" height="75" width="75" border="0" alt=""><img id="buttonOver4895" src="http://www.onlygirlsgames.com/buttons/winxd.jpg" height="75" width="75" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button4887&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver4887&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver4887&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button4887&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=4887&amp;id=&amp;linkt=1" target="blank"><img id="button4887" src="http://www.onlygirlsgames.com/buttons/harley.jpg" height="75" width="75" border="0" alt=""><img id="buttonOver4887" src="http://www.onlygirlsgames.com/buttons/harleyd.jpg" height="75" width="75" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button4889&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver4889&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver4889&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button4889&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=4889&amp;id=&amp;linkt=1" target="blank"><img id="button4889" src="http://www.onlygirlsgames.com/buttons/match.jpg" height="75" width="75" border="0" alt=""><img id="buttonOver4889" src="http://www.onlygirlsgames.com/buttons/matchd.jpg" height="75" width="75" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button4892&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver4892&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver4892&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button4892&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=4892&amp;id=&amp;linkt=1" target="blank"><img id="button4892" src="http://www.onlygirlsgames.com/buttons/poodle.jpg" height="75" width="75" border="0" alt=""><img id="buttonOver4892" src="http://www.onlygirlsgames.com/buttons/poodled.jpg" height="75" width="75" style="display:none;" border="0" alt=""></a>&nbsp;</div></td></tr></tbody></table>
+		<div style="clear:both;"></div>	
+
+				
+	</div></div>
+	<div class="leftBoxFooter"></div>
+</div>
+		
+<div class="spacer"></div>
+
 
 			   
 <div class="leftBoxOuterDiv">
@@ -143,39 +288,281 @@
 
 
 	<div class="leftBoxContent">
-		<div id="leftBoxFriendsOuter" style="text-align: center; height: 530px;">
-<span class="pinkbutton"><a href="http://www.onlygirlsgames.com/index.php?action=browsenew"><span class="pinkbuttontext">New Girls Games</span></a></span>
-       <span class="pinkbutton"><a href="http://www.onlygirlsgames.com/index.php?action=browsetop"><span class="pinkbuttontext">Top Rated Games</span></a></span>
-<span class="pinkbutton"><a href="http://www.onlygirlsgames.com/index.php?action=browsepop"><span class="pinkbuttontext">Popular Girls Games</span></a></span>
+		<div id="leftBoxFriendsOuter" style="text-align: center; height: 540px;">
 
-<span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/15/animals.html"><span class="pinkbuttontext">Animals (73)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/29/arcade.html"><span class="pinkbuttontext">Arcade (36)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/1/barbie-and-dolls.html"><span class="pinkbuttontext">Barbie and Dolls (60)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/23/bratz.html"><span class="pinkbuttontext">Bratz (29)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/16/cartoontv.html"><span class="pinkbuttontext">Cartoon-TV (55)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/3/celebrities.html"><span class="pinkbuttontext">Celebrities (106)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/24/coloring.html"><span class="pinkbuttontext">Coloring (55)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/11/cooking-and-waitress.html"><span class="pinkbuttontext">Cooking and Waitress (101)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/2/dress-up.html"><span class="pinkbuttontext">Dress Up (527)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/55/exclusive.html"><span class="pinkbuttontext">Exclusive (4)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/49/fashion-and-style.html"><span class="pinkbuttontext">Fashion and Style (47)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/5/girls-makeover.html"><span class="pinkbuttontext">Girls Makeover (71)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/48/hair-and-nails.html"><span class="pinkbuttontext">Hair and Nails (25)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/50/holiday.html"><span class="pinkbuttontext">Holiday (81)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/12/other.html"><span class="pinkbuttontext">Other (88)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/22/puzzle.html"><span class="pinkbuttontext">Puzzle (71)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/4/room-decor.html"><span class="pinkbuttontext">Room Decor (113)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/56/stardoll.html"><span class="pinkbuttontext">Stardoll (8)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/47/wedding.html"><span class="pinkbuttontext">Wedding (24)</span></a></span></div></div>
+<span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/15/animal-games.html"><span class="pinkbuttontext">Animal Games (90)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/29/arcade-games.html"><span class="pinkbuttontext">Arcade Games (52)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/1/barbie-and-dolls.html"><span class="pinkbuttontext">Barbie and Dolls (63)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/23/bratz-games.html"><span class="pinkbuttontext">Bratz Games (32)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/16/cartoontv-games.html"><span class="pinkbuttontext">Cartoon-TV Games (57)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/3/celebrity-dress-up.html"><span class="pinkbuttontext">Celebrity Dress Up (128)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/24/colouring-games.html"><span class="pinkbuttontext">Colouring Games (69)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/11/cooking-and-waitress.html"><span class="pinkbuttontext">Cooking and Waitress (157)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/2/dress-up-games.html"><span class="pinkbuttontext">Dress Up Games (962)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/49/fashion-and-style.html"><span class="pinkbuttontext">Fashion and Style (70)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/5/girls-makeover.html"><span class="pinkbuttontext">Girls Makeover (93)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/48/hair-and-nails.html"><span class="pinkbuttontext">Hair and Nails (42)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/50/holiday-games.html"><span class="pinkbuttontext">Holiday Games (86)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/57/horse-games.html"><span class="pinkbuttontext">Horse Games (16)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/58/kissing-games.html"><span class="pinkbuttontext">Kissing Games (30)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/12/other-games.html"><span class="pinkbuttontext">Other Games (127)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/22/puzzle-games.html"><span class="pinkbuttontext">Puzzle Games (112)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/4/room-decor.html"><span class="pinkbuttontext">Room Decor (134)</span></a></span><span class="pinkbutton"><a href="http://www.onlygirlsgames.com/categories/47/wedding-dress-up.html"><span class="pinkbuttontext">Wedding Dress Up (39)</span></a></span></div></div>
+	<div class="leftBoxFooter"></div>
+</div>
+
+<div class="spacer"></div>
+<div class="leftBoxOuterDiv">
+	<div class="leftBoxHeader">
+		<div class="leftBoxHeaderInner">
+			Sponsors
+		</div>
+	</div>
+
+
+	<div class="leftBoxContent">
+		<div id="leftBoxFriendsOuter">
+
+<div align="center">
+<iframe width="160" height="600" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://www.onlygirlsgames.com/newadvert/value160.htm"></iframe>
+
+
+				
+	</div></div>
+	<div class="leftBoxFooter"></div>
+</div>
+
+<div class="spacer"></div>
+<div class="leftBoxOuterDiv">
+	<div class="leftBoxHeader">
+		<div class="leftBoxHeaderInner">
+			New Games
+		</div>
+	</div>
+
+
+	<div class="leftBoxContent">
+		<div id="leftBoxFriendsOuter">
+
+			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5400/design-sockings.html"><img src="http://www.onlygirlsgames.com/games/images/5400.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					1. <a href="http://www.onlygirlsgames.com/play-games/5400/design-sockings.html">Design Sockings</a><br>
+                					<b>5.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5399/spooky-night.html"><img src="http://www.onlygirlsgames.com/games/images/5399.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					2. <a href="http://www.onlygirlsgames.com/play-games/5399/spooky-night.html">Spooky Night</a><br>
+                					<b>5.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5398/james-bond-girl-dress-up.html"><img src="http://www.onlygirlsgames.com/games/images/5398.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					3. <a href="http://www.onlygirlsgames.com/play-games/5398/james-bond-girl-dress-up.html">James Bond G...</a><br>
+                					<b>4.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5397/boy-scout.html"><img src="http://www.onlygirlsgames.com/games/images/5397.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					4. <a href="http://www.onlygirlsgames.com/play-games/5397/boy-scout.html">Boy Scout	</a><br>
+                					<b>1.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5396/baking-sweet-apple-pie.html"><img src="http://www.onlygirlsgames.com/games/images/5396.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					5. <a href="http://www.onlygirlsgames.com/play-games/5396/baking-sweet-apple-pie.html">Baking Sweet...</a><br>
+                					<b>3.29 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>
+
+			
+
+				
+	</div></div>
+	<div class="leftBoxFooter"></div>
+</div>
+		
+<div class="spacer"></div>
+
+<div class="leftBoxOuterDiv">
+	<div class="leftBoxHeader">
+		<div class="leftBoxHeaderInner">
+			Top Rated
+		</div>
+	</div>
+
+
+	<div class="leftBoxContent">
+		<div id="leftBoxFriendsOuter">
+
+			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5288/blow-bubbles-girl-dress-up.html"><img src="http://www.onlygirlsgames.com/games/images/5288.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					1. <a href="http://www.onlygirlsgames.com/play-games/5288/blow-bubbles-girl-dress-up.html">Blow Bubbles...</a><br>
+                					<b>5.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5285/bride-and-groom-kissing.html"><img src="http://www.onlygirlsgames.com/games/images/5285.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					2. <a href="http://www.onlygirlsgames.com/play-games/5285/bride-and-groom-kissing.html">Bride and Gr...</a><br>
+                					<b>5.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5291/music-lover-dress-up.html"><img src="http://www.onlygirlsgames.com/games/images/5291.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					3. <a href="http://www.onlygirlsgames.com/play-games/5291/music-lover-dress-up.html">Music Lover ...</a><br>
+                					<b>5.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5310/nina-dobrev-dress-up.html"><img src="http://www.onlygirlsgames.com/games/images/5310.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					4. <a href="http://www.onlygirlsgames.com/play-games/5310/nina-dobrev-dress-up.html">Nina Dobrev ...</a><br>
+                					<b>5.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/5372/harvest-fairy-dress-up.html"><img src="http://www.onlygirlsgames.com/games/images/5372.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					5. <a href="http://www.onlygirlsgames.com/play-games/5372/harvest-fairy-dress-up.html">Harvest Fair...</a><br>
+                					<b>5.00 rating</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>
+
+			
+
+				
+	</div></div>
+	<div class="leftBoxFooter"></div>
+</div>
+		
+<div class="spacer"></div>
+<div class="leftBoxOuterDiv">
+	<div class="leftBoxHeader">
+		<div class="leftBoxHeaderInner">
+			Most Played
+		</div>
+	</div>
+
+
+	<div class="leftBoxContent">
+		<div id="leftBoxFriendsOuter">
+
+			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/3157/nicoles-mommy-challenge.html"><img src="http://www.onlygirlsgames.com/games/images/3157.JPG" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					1. <a href="http://www.onlygirlsgames.com/play-games/3157/nicoles-mommy-challenge.html">Nicoles Momm...</a><br>
+                					<b>243173 Plays</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/3590/beauty-resort.html"><img src="http://www.onlygirlsgames.com/games/images/3589.JPG" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					2. <a href="http://www.onlygirlsgames.com/play-games/3590/beauty-resort.html">Beauty Resort</a><br>
+                					<b>219661 Plays</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/305/totally-spies-dress-up.html"><img src="http://www.onlygirlsgames.com/games/images/626_spy.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					3. <a href="http://www.onlygirlsgames.com/play-games/305/totally-spies-dress-up.html">Totally Spie...</a><br>
+                					<b>201239 Plays</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/3139/rhianna-makeover.html"><img src="http://www.onlygirlsgames.com/games/images/3139.JPG" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					4. <a href="http://www.onlygirlsgames.com/play-games/3139/rhianna-makeover.html">Rhianna Make...</a><br>
+                					<b>182835 Plays</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:55px; float:left;">
+                					<a href="http://www.onlygirlsgames.com/play-games/3154/pizza-pashion.html"><img src="http://www.onlygirlsgames.com/games/images/3154.jpg" width="45" height="45" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:105px; float:left;">
+                					5. <a href="http://www.onlygirlsgames.com/play-games/3154/pizza-pashion.html">Pizza Pashion</a><br>
+                					<b>177640 Plays</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>
+				
+	</div></div>
 	<div class="leftBoxFooter"></div>
 </div>
 
 
+
+
+
 					</div>
-				
+				</div>
 				<div id="outerRightDiv">
 					<div id="outerRightInnerDiv">
 						
 <div align="center">
-<iframe width="728" height="90" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://www.onlygirlsgames.com/newadvert/star728.htm"></iframe>
+<iframe src="http://www.onlygirlsgames.com/newadvert/value728.htm" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
 </div>
-
-
-
-
-
-
-                                 
+ <div class="spacer"></div>     
+	
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td valign="top">
+					<div style="width:300px;height:250px;float:center">
+						<script type="text/javascript"><!--
+google_ad_client = "pub-9523712826694133";
+/* 300x250, created 24/08/10 */
+google_ad_slot = "8852107768";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+					</div>
+				</td>
+				<td style="padding-left:5px;" rowspan="2">
+					<div class="gameBoxOuter">
+					<div class="gameBoxHeaderMiddle gameBoxMaroonMiddle"><div class="gameBoxHeaderInner">Girls Games Being Played Now..... </div></div>
+					<div class="gameBoxContentOuterMiddle">
+						<div class="gameBoxContentInner">
+							
+<div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">My Little Pony Friendship</div><a href="http://www.onlygirlsgames.com/play-games/3365/my-little-pony-friendship.html" title="My Little Pony Friendship" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3365.JPG" alt="My Little Pony Friendship" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Bratz Little Pony</div><a href="http://www.onlygirlsgames.com/play-games/1816/bratz-little-pony.html" title="Bratz Little Pony" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/imdres207/Bratz-Little-Pony.jpg" alt="Bratz Little Pony" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Beyonce and Lopez</div><a href="http://www.onlygirlsgames.com/play-games/1848/beyonce-and-lopez.html" title="Beyonce and Lopez" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/imdres207/Beyonce-and-Lopez.jpg" alt="Beyonce and Lopez" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Kissing Championship</div><a href="http://www.onlygirlsgames.com/play-games/4230/kissing-championship.html" title="Kissing Championship" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/4230.jpg" alt="Kissing Championship" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">My Favourite Teacher</div><a href="http://www.onlygirlsgames.com/play-games/3375/my-favourite-teacher.html" title="My Favourite Teacher" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3375.JPG" alt="My Favourite Teacher" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Burger Restaurant 2</div><a href="http://www.onlygirlsgames.com/play-games/3132/burger-restaurant-2.html" title="Burger Restaurant 2" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3132.JPG" alt="Burger Restaurant 2" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Bratz Diamondz</div><a href="http://www.onlygirlsgames.com/play-games/3560/bratz-diamondz.html" title="Bratz Diamondz" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3560.JPG" alt="Bratz Diamondz" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Busy Burger</div><a href="http://www.onlygirlsgames.com/play-games/3253/busy-burger.html" title="Busy Burger" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3253.JPG" alt="Busy Burger" border="0"></a></div></div>
+						</div>
+					</div>
+					<div class="gameBoxFooterMiddle"></div>
+				</div>
+					</td>
+			</tr>
+			
+		</tbody></table>
 		
-		<div class="spacer"></div>
- 
+ <div class="spacer"></div> 
 						<!-- CONTENT PAGE -->
 
 			<div class="fullcell">
 <div class="fullcelltop"><span class="adjustLeftText"><font face="Arial" size="2">Privacy Policy</font></span></div>
-<div class="fullcellmiddle" style="width:752px;height:1200px;float:center">
+<div class="fullcellmiddle" style="width:752px;height:1090px;float:center">
 
 <div style="width: 709px; float: center; height: 1090px">
   &nbsp;
@@ -279,106 +666,216 @@
 
 		
 		
+	<div class="spacer"></div>
 		
-
-			
+	
 		
-<div class="spacer"></div>
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td valign="top">
+					<div style="width:300px;height:250px;float:center">
+						<iframe width="300" height="250" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://www.onlygirlsgames.com/newadvert/value300.htm"></iframe>
 
-<div class="fullcell">		
-<div class="fullcelltop2"><span class="adjustLeftText">Only Girls Games - Girls Dress Up Games, Cooking Games, Fashion and Style</span></div>
-<div class="fullcellmiddle" style="text-align: center; height: 250px;">
-<center>
-
-
-<div class="spacer"></div><table cellpadding="0" cellspacing="0" width="740">
-			<tbody><tr><td width="10"></td>
-		
-
-
-<td width="730"><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button3343&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver3343&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver3343&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button3343&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=3343&amp;id=&amp;linkt=1" target="blank"><img id="button3343" src="http://www.onlygirlsgames.com/images/branjol.jpg" height="100" width="100" border="0" alt=""><img id="buttonOver3343" src="http://www.onlygirlsgames.com/images/branjoldark.jpg" height="100" width="100" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button3350&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver3350&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver3350&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button3350&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=3350&amp;id=&amp;linkt=1" target="blank"><img id="button3350" src="http://www.onlygirlsgames.com/images/nicole.jpg" height="100" width="100" border="0" alt=""><img id="buttonOver3350" src="http://www.onlygirlsgames.com/images/nicoledark.jpg" height="100" width="100" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button3344&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver3344&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver3344&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button3344&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=3344&amp;id=&amp;linkt=1" target="blank"><img id="button3344" src="http://www.onlygirlsgames.com/images/bratz.jpg" height="100" width="100" border="0" alt=""><img id="buttonOver3344" src="http://www.onlygirlsgames.com/images/bratzdark.jpg" height="100" width="100" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button3341&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver3341&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver3341&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button3341&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=3341&amp;id=&amp;linkt=1" target="blank"><img id="button3341" src="http://www.onlygirlsgames.com/images/airhostess.jpg" height="100" width="100" border="0" alt=""><img id="buttonOver3341" src="http://www.onlygirlsgames.com/images/airhostessdark.jpg" height="100" width="100" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button3355&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver3355&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver3355&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button3355&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=3355&amp;id=&amp;linkt=1" target="blank"><img id="button3355" src="http://www.onlygirlsgames.com/images/winx.jpg" height="100" width="100" border="0" alt=""><img id="buttonOver3355" src="http://www.onlygirlsgames.com/images/winxdark.jpg" height="100" width="100" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button3342&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver3342&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver3342&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button3342&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=3342&amp;id=&amp;linkt=1" target="blank"><img id="button3342" src="http://www.onlygirlsgames.com/images/babysitter.jpg&#9;" height="100" width="100" border="0" alt=""><img id="buttonOver3342" src="http://www.onlygirlsgames.com/images/babysitterdark.jpg&#9;" height="100" width="100" style="display:none;" border="0" alt=""></a>&nbsp;</div><div class="buttonLinkDiv" onmouseover="document.getElementById(&quot;button3349&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;buttonOver3349&quot;).style.display = &quot;inline&quot;;" onmouseout="document.getElementById(&quot;buttonOver3349&quot;).style.display = &quot;none&quot;;document.getElementById(&quot;button3349&quot;).style.display = &quot;inline&quot;;"><a href="http://www.onlygirlsgames.com/linkout.php?referralid=&amp;buttonid=3349&amp;id=&amp;linkt=1" target="blank"><img id="button3349" src="http://www.onlygirlsgames.com/images/mysweet16.jpg" height="100" width="100" border="0" alt=""><img id="buttonOver3349" src="http://www.onlygirlsgames.com/images/mysweet16dark.jpg" height="100" width="100" style="display:none;" border="0" alt=""></a>&nbsp;</div></td>
-
-
-
-
-
+					</div>
+				</td>
+				<td style="padding-left:5px;" rowspan="2">
+					<div class="gameBoxOuter">
+					<div class="gameBoxHeaderMiddle gameBoxMaroonMiddle"><div class="gameBoxHeaderInner">Popular Girls Games</div></div>
+					<div class="gameBoxContentOuterMiddle">
+						<div class="gameBoxContentInner">
+							
+<div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Barbie Makeover</div><a href="http://www.onlygirlsgames.com/play-games/1790/barbie-makeover.html" title="Barbie Makeover" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/imdres207/Barbie-Makeover.jpg" alt="Barbie Makeover" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Hollywood Hall Of Fame 4</div><a href="http://www.onlygirlsgames.com/play-games/3465/hollywood-hall-of-fame-4.html" title="Hollywood Hall Of Fame 4" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3465.JPG" alt="Hollywood Hall Of Fame 4" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Bratz Little Pony</div><a href="http://www.onlygirlsgames.com/play-games/1816/bratz-little-pony.html" title="Bratz Little Pony" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/imdres207/Bratz-Little-Pony.jpg" alt="Bratz Little Pony" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Kissing Championship</div><a href="http://www.onlygirlsgames.com/play-games/4230/kissing-championship.html" title="Kissing Championship" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/4230.jpg" alt="Kissing Championship" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Angelina and Brad Kissing</div><a href="http://www.onlygirlsgames.com/play-games/4228/angelina-and-brad-kissing.html" title="Angelina and Brad Kissing" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/4228.jpg" alt="Angelina and Brad Kissing" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Spongebob Whatpants</div><a href="http://www.onlygirlsgames.com/play-games/3190/spongebob-whatpants.html" title="Spongebob Whatpants" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3189.JPG" alt="Spongebob Whatpants" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Baking with Santa</div><a href="http://www.onlygirlsgames.com/play-games/3634/baking-with-santa.html" title="Baking with Santa" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3634.JPG" alt="Baking with Santa" border="0"></a></div></div><div class="gameThumbOuter"><div class="gameThumbInner" onmouseover="gameThumbOver(this);" onmouseout="gameThumbOut(this);"><div class="gameThumbTitleDiv" style="">Katy Perry Makeover</div><a href="http://www.onlygirlsgames.com/play-games/3339/katy-perry-makeover.html" title="Katy Perry Makeover" target="_top"><img class="gameThumbImg" src="http://www.onlygirlsgames.com/games/images/3339.JPG" alt="Katy Perry Makeover" border="0"></a></div></div>
+						</div>
+					</div>
+					<div class="gameBoxFooterMiddle"></div>
+				</div>
+					</td>
 			</tr>
 			
-			
-		</tbody></table>
-
-<table border="0" width="700" height="32">
-        <tbody><tr>
-                <td width="700" align="center" height="16"><font size="2" face="Arial Narrow"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.playpink.com" target="_blank">Play Pink</a>
-                  <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.cutearcade.com/" target="_blank">Cute Arcade</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.greatgirlsgames.com/" target="_blank">Great Girls Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.trendydressup.com/" target="_blank">Trendy Dress Up</a> 
-                  &nbsp;</font><font size="2" face="Arial Narrow"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8"></font><font size="2" face="Arial Narrow">
-                  <a href="http://www.rainbowdressup.com" target="_blank">Dress Up Games</a>
-                  </font><font size="2" face="Arial Narrow"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  </font><font size="2" face="Arial Narrow"><a href="http://www.girlgamesplaza.com" target="_blank">Girls
-                  Games Plaza</a> </font><font size="2" face="Arial Narrow"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.girlsgames1.com/" target="_blank">Girls Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.free-girls-games.com" target="_blank">Free Girls Games</a></font></td>
-        </tr>
-</tbody></table>
-<table border="0" width="700" height="32">
-        <tbody><tr>
-                <td width="700" align="center" height="16"><font size="2" face="Arial Narrow"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.dressandcook.com" target="_blank">Dress And Cook</a>
-                  <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.onlyhorsegames.com/" target="_blank">Only Horse Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.girlsgameplay.com" target="_blank">Girls Game Play</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.girlsgameclub.com" target="_blank">Girls Game Club</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.allforgirls.net" target="_blank">Free Girls Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.enjoydressup.com" target="_blank">Dress Up Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.horse-games.org" target="_blank">Horse Games</a></font></td>
-        </tr>
-</tbody></table>
-
-<table border="0" width="700" height="32">
-        <tbody><tr>
-                <td width="700" align="center" height="16"><font size="2" face="Arial Narrow"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.dailydressupgames.com" target="_blank">Dress Up Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.dressuparcade.com" target="_blank">Dress Up Arcade</a>
-                  <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.sweetdressupgames.com/" target="_blank">Dress Up Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.clickdressupgames.com/" target="_blank">Dress Up Games</a> <img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
-                  <a href="http://www.igirlsgames.com" target="_blank">Girls Games</a></font></td>
-        </tr>
-</tbody></table>
-
-</center>
+		</tbody></table>			
 <div class="spacer"></div>
-<div align="center"><font size="2" face="Arial"><a href="http://www.onlygirlsgames.com">Home</a>
-<img src="http://www.onlygirlsgames.com/images/dot.gif" border="0" width="8" height="8">
-<a href="http://www.onlygirlsgames.com/index.php?action=register">Register</a> <img src="http://www.onlygirlsgames.com/images/dot.gif" border="0" width="8" height="8">
-<a href="http://www.onlygirlsgames.com/index.php?action=browse">All Games</a> <img src="http://www.onlygirlsgames.com/images/dot.gif" border="0" width="8" height="8">
-<a href="http://www.onlygirlsgames.com/index.php?action=tradetraffic">1:1
-Trade</a> <img src="http://www.onlygirlsgames.com/images/dot.gif" border="0" width="8" height="8">
-<a href="http://www.onlygirlsgames.com/index.php?action=showhits">Link
-Stats</a> <img src="http://www.onlygirlsgames.com/images/dot.gif" border="0" width="8" height="8">
-<a href="http://www.onlygirlsgames.com/index.php?action=contact">Contact</a>&nbsp;<img src="http://www.onlygirlsgames.com/images/dot.gif" border="0" width="8" height="8">
-<a href="http://www.onlygirlsgames.com/index.php?action=privacy">Privacy</a>&nbsp;<img src="http://www.onlygirlsgames.com/images/dot.gif" border="0" width="8" height="8">
-<a title="Submit A Game" href="http://www.onlygirlsgames.com/index.php?action=addnewgame">Submit A Game</a></font></div>
+	
+		
+<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td style="width:379px;" valign="top">
+					<div class="gameBoxOuter">
+						<div class="gameBoxHeaderSmall gameBoxPurpleSmall"><div class="gameBoxHeaderInner">Members Online - 1 member and 276 guests</div></div>
+						<div class="gameBoxContentOuterSmall">
+							<div class="gameBoxContentInner">
+								<div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><a href="http://www.onlygirlsgames.com/profiles/40229/dannylol.html" target="_top"><img src="http://www.onlygirlsgames.com/avatar/media/40229.jpg" class="membersOnlineImg" border="0"></a></div><div class="membersOnlineDesc"><a href="http://www.onlygirlsgames.com/profiles/40229/dannylol.html" target="_top">dannylol</a><div class="membersOnlineInfo">Points: <b>28</b> (Level 5)</div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><img src="http://www.onlygirlsgames.com/avatar/media/6.jpg" class="membersOnlineImg" border="0"></div><div class="membersOnlineDesc">No one<div class="membersOnlineInfo"></div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><img src="http://www.onlygirlsgames.com/avatar/media/12.jpg" class="membersOnlineImg" border="0"></div><div class="membersOnlineDesc">No one<div class="membersOnlineInfo"></div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><img src="http://www.onlygirlsgames.com/avatar/media/22.jpg" class="membersOnlineImg" border="0"></div><div class="membersOnlineDesc">No one<div class="membersOnlineInfo"></div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><img src="http://www.onlygirlsgames.com/avatar/media/17.jpg" class="membersOnlineImg" border="0"></div><div class="membersOnlineDesc">No one<div class="membersOnlineInfo"></div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><img src="http://www.onlygirlsgames.com/avatar/media/27.jpg" class="membersOnlineImg" border="0"></div><div class="membersOnlineDesc">No one<div class="membersOnlineInfo"></div></div></div></div>
+								<div id="membersOnlineLink">
+									<a href="http://www.onlygirlsgames.com/index.php?action=memberlist" target="_top">&gt;&gt; All Members</a>  </div><div id="membersOnlineCount">
+									&nbsp;
+								</div>
+							</div>
+						</div>
+						<div class="gameBoxFooterSmall"></div>
+					</div>
+				</td>
+				<td valign="top">
+					<div class="gameBoxOuter">
+						<div class="gameBoxHeaderSmall gameBoxMaroonSmall"><div class="gameBoxHeaderInner">Top Players</div></div>
+						<div class="gameBoxContentOuterSmall">
+							<div class="gameBoxContentInner">
+								<div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><a href="http://www.onlygirlsgames.com/profiles/29269/misscutie.html" target="_top"><img src="http://www.onlygirlsgames.com/avatar/media/29269.jpg" class="membersOnlineImg" border="0"></a></div><div class="membersOnlineDesc"><a href="http://www.onlygirlsgames.com/profiles/29269/misscutie.html" target="_top">misscutie</a><div class="membersOnlineInfo">Points: <b>5168</b> (Level 34)</div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><a href="http://www.onlygirlsgames.com/profiles/35962/lilnickiminaj.html" target="_top"><img src="http://www.onlygirlsgames.com/avatar/media/35962.jpg" class="membersOnlineImg" border="0"></a></div><div class="membersOnlineDesc"><a href="http://www.onlygirlsgames.com/profiles/35962/lilnickiminaj.html" target="_top">lilnickiminaj</a><div class="membersOnlineInfo">Points: <b>4011</b> (Level 31)</div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><a href="http://www.onlygirlsgames.com/profiles/30493/oswald.html" target="_top"><img src="http://www.onlygirlsgames.com/avatar/media/30493.jpg" class="membersOnlineImg" border="0"></a></div><div class="membersOnlineDesc"><a href="http://www.onlygirlsgames.com/profiles/30493/oswald.html" target="_top">oswald</a><div class="membersOnlineInfo">Points: <b>3499</b> (Level 30)</div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><a href="http://www.onlygirlsgames.com/profiles/19198/pinkglamor10.html" target="_top"><img src="http://www.onlygirlsgames.com/avatar/media/19198.jpg" class="membersOnlineImg" border="0"></a></div><div class="membersOnlineDesc"><a href="http://www.onlygirlsgames.com/profiles/19198/pinkglamor10.html" target="_top">pinkglamor10</a><div class="membersOnlineInfo">Points: <b>2748</b> (Level 27)</div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><a href="http://www.onlygirlsgames.com/profiles/17799/nikhitasn.html" target="_top"><img src="http://www.onlygirlsgames.com/avatar/media/17799.jpg" class="membersOnlineImg" border="0"></a></div><div class="membersOnlineDesc"><a href="http://www.onlygirlsgames.com/profiles/17799/nikhitasn.html" target="_top">nikhitasn</a><div class="membersOnlineInfo">Points: <b>2576</b> (Level 27)</div></div></div></div><div class="membersOnlineOuterDiv"><div class="membersOnlineInnerDiv"><div class="membersOnlineImgDiv"><a href="http://www.onlygirlsgames.com/profiles/18883/boyslike.html" target="_top"><img src="http://www.onlygirlsgames.com/avatar/media/18883.jpg" class="membersOnlineImg" border="0"></a></div><div class="membersOnlineDesc"><a href="http://www.onlygirlsgames.com/profiles/18883/boyslike.html" target="_top">boyslike</a><div class="membersOnlineInfo">Points: <b>2554</b> (Level 27)</div></div></div></div>								<div id="membersOnlineLink">
+									<a href="http://www.onlygirlsgames.com/leaderboard.html" target="_top">&gt;&gt; Top 100 Players</a>
+								</div>
+								<div id="membersOnlineCount">
+									&nbsp;
+								</div>
+							</div>
+						</div>
+						<div class="gameBoxFooterSmall"></div>
+					</div>
+				</td>
+			</tr>
+		</tbody></table><div class="spacer"></div>
 
-</div>
-<div class="fullcellbottom"></div>
-</div>
+		
+
+
+	
+
+
 
 
 					</div>
 				</div>
-				<div class="spacer"></div>
+				<div class="spacer"></div><table border="0" width="950">
+  <tbody><tr>
+    <td width="200" height="26" align="center" bgcolor="#8300AE"><font color="#ffffff"><b>NAVIGATION</b></font></td>
+    <td width="200" align="center" bgcolor="#8300AE"><font color="#ffffff"><b>COOL GIRLS GAMES</b></font></td>
+    <td width="264" align="center" bgcolor="#8300AE"><font color="#ffffff"><b>OUR GOOD FRIENDS</b></font></td>
+    <td width="250" align="center" bgcolor="#8300AE"><font color="#ffffff"><b>ONLY GIRLS GAMES NEWS</b></font></td>
+  </tr>
+  <tr>
+    <td align="left" width="200" bgcolor="#FBECFF" valign="top">
+      <table border="0" width="200">
+        <tbody><tr>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com">Home</a></td>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com/index.php?action=register">Register</a></td>
+        </tr>
+<tr>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com/index.php?action=contact">Contact</a></td>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com/index.php?action=tradetraffic">Trade Traffic</a></td>
+        </tr>
+        <tr>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com/index.php?action=showhits">Traffic Stats</a></td>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com/index.php?action=privacy">Privacy</a></td>
+        </tr>
+        <tr>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com/index.php?action=addnewgame">Submit A Game</a></td>
+          <td><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.onlygirlsgames.com/sitemap.xml">Sitemap</a></td>
+        </tr>
+        <tr>
+          <td align="center"><a href="http://www.facebook.com/pages/Only-Girls-Games/109864259077268" target="_blank"><img border="0" src="http://www.onlygirlsgames.com/images/fb.png" width="50" height="64" alt="Visit Us On Facebook"></a></td>
+          <td align="left"><a href="http://www.onlygirlsgames.com/rss.php" target="_blank"><img border="0" src="http://www.onlygirlsgames.com/images/rss.png" width="50" height="64" alt="Latest Girls Games"></a></td>
+        </tr>
+  </tbody></table>
+    </td>
+    <td align="left" width="220" bgcolor="#FBECFF" valign="top">
+      <table border="0" width="220">
+        <tbody><tr>
+          <td width="196" align="left"><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://www.onlygirlsgames.com/newadvert/onlygirlsfunk.htm"></iframe>
+</td>
+          <td width="170" align="left"><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://www.onlygirlsgames.com/newadvert/onlygirlsgbn.htm"></iframe></td>
+        </tr>
+        <tr>
+          <td width="196" align="left">
+           </td>
+          <td width="170" align="left"></td>
+        </tr>
+      
+        <tr>
+          <td width="196" align="left"></td>
+          <td width="170" align="left"></td>
+        </tr>
+       
+
+       
+      </tbody></table>
+    </td>
+    <td align="left" width="264" bgcolor="#FBECFF" valign="top">
+      <table border="0" width="263">
+        <tbody><tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.playpink.com" target="_blank">Play Pink</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.cutearcade.com" target="_blank">Cute Arcade</a></td>
+        </tr>
+        <tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.greatgirlsgames.com" target="_blank">Great Girls
+            Games</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.trendydressup.com" target="_blank">Trendy Dress Up</a></td>
+        </tr>
+        <tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.rainbowdressup.com" target="_blank">Dress Up Games</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.girlsgames1.com/" target="_blank">Girls Games</a></td>
+        </tr>
+        <tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.girlgamesplaza.com/" target="_blank">Girls Games Plaza</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.igirlsgames.com/" target="_blank">Girls Games</a></td>
+        </tr>
+        <tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.enjoydressup.com" target="_blank">Dress Up Games</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.popgals.com" target="_blank">Games For Girls</a></td>
+        </tr>
+        <tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.lanagames.com" target="_blank">Games For Girls</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.dailydressupgames.com/" target="_blank">Dress Up Games</a></td>
+        </tr>
+        
+<tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.girlsgames.biz" target="_blank">Dress Up Arcade</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.sweetdressupgames.com/" target="_blank">Dress Up Games</a></td>
+        </tr>
+<tr>
+          <td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.dressupgames8.com" target="_blank">Dress Up Games</a></td>
+          <td width="121"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.dressuparcade.com/" target="_blank">Girl Games</a></td>
+        </tr>
+<tr>
+          
+          
+<td width="128"><img border="0" src="http://www.onlygirlsgames.com/images/dot.gif" width="8" height="8">
+            <a href="http://www.girlsgameplay.com" target="_blank">Girls Game Play</a></td>
+        </tr>
+
+      </tbody></table>
+    </td>
+    <td align="center" width="250" bgcolor="#FBECFF" valign="top">Welcome to Only Girls Games where we have a good selection of girls games for you to play. There are dress up games and makeover games where you can try different styles and fashions. There are
+      also cooking games where you can make different foods. We also have Pet and Horse games. Have fun and enjoy your stay :)</td>  </tr>
+</tbody></table>
 								<div id="footerDiv">
 					<div id="footerInnerDiv">
-						Copyright © 2009 Only Girls Games - All Rights Reserved
+						Copyright © 2006-2010 Only Girls Games - All Rights Reserved
 					</div>
 				</div>			</td>
 		</tr>
 	</tbody></table>
+
 
 <p>&nbsp;</p>
 <script type="text/javascript">
@@ -390,6 +887,7 @@ try {
 var pageTracker = _gat._getTracker("UA-4763244-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
 
 
 </body></html>
