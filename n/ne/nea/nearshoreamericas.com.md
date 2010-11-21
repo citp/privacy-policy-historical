@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nearshoreamericas.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522211435id_/http%3A//www.nearshoreamericas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearshoreamericas.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121120712id_/http%3A//www.nearshoreamericas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nearshore Americas | Independent Reporting on Outsourcing in Latin America and the Caribbean
+# Privacy Policy | Nearshore Americas | Latin America Outsourcing Analysis and Expert Commentary
 
 September 15th, 2009 
 
