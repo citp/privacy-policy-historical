@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtconsolidationbacklink.info privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501230124id_/http%3A//www.debtconsolidationbacklink.info/contact.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationbacklink.info privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121113936id_/http%3A//debtconsolidationbacklink.info/contact.php) for the most accurate reproduction.*
 
 # Free Web Directory - 100% Free Links - Contact Us and Privacy
 
