@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the heart.co.uk privacy policy that was archived on 2010-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608194508id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heart.co.uk privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121220935id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>heart.co.uk - Heart</title>
 <meta http-equiv="imagetoolbar" content="no">
@@ -11,24 +11,25 @@
 ">
 <meta name="robots" content="noodp,noydir"> 
 <!--[if !IE]><!-->
-<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/heart-minified__88860221.css" media="screen" type="text/css">
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/heart-minified__125c838e.css" media="screen" type="text/css">
 <!--<![endif]-->
 <!--[if IE 6]>
-<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie6-minified__1c065b07.css" media="screen" type="text/css">
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie6-minified__8cd2878a.css" media="screen" type="text/css">
 <![endif]-->
 <!--[if IE 7]>
-<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie7-minified__7d85073e.css" media="screen" type="text/css">
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie7-minified__75f1ca3a.css" media="screen" type="text/css">
 <![endif]-->
 <!--[if gt IE 7]>
-<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie8-minified__3e85f1bf.css" media="screen" type="text/css">
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie8-minified__f703a316.css" media="screen" type="text/css">
 <![endif]-->
-<script type="text/javascript" src="http://heartfm.gcstatic.com/d/heart.co.uk/js/heart-minified__8ba908c7.js"></script>
+<script type="text/javascript" src="http://heartfm.gcstatic.com/d/heart.co.uk/js/heart-minified__380e35c0.js"></script>
 <link rel="shortcut icon" href="http://heartfm.gcstatic.com/d/heart.co.uk/img/favicon.ico">
 <script type="text/javascript">
 var mm_audio = window.mm_audio || {};
 mm_audio.wmpScriptPath = 'http://heartfm.gcstatic.com/gusto/c/js/playerStateChange.js';
 var gusto = window.gusto || {};
-gusto.station = {name: "",slug: "",id: "",mediamanager_id: "",region: "",frequency: ""}
+gusto.station = {name: "", slug: "", id: "", mediamanager_id: "", region: "", frequency: "", siblings: {}, children: {}};
+gusto.original_station = {name: "", slug: "", id: "", just_listen_slug: ""}; /* The other station attribute can change over time. This shouldn't. */
 </script>
 </head>
 <body class="js">
@@ -48,7 +49,7 @@ gusto.station = {name: "",slug: "",id: "",mediamanager_id: "",region: "",frequen
 <script type="text/javascript">
 var gusto = window.gusto || {};
 gusto.openPlayer = function(slug){
-window.open('http://player.musicradio.com/heart'+slug+'/live', 'playerWin', 'dialog=yes,location=no,scrollbars=yes,menubar=no,width=380,height=660,status=no,resizable=yes');
+window.open('http://player.musicradio.com/heart/'+slug+'/live', 'playerWin', 'dialog=yes,location=no,scrollbars=yes,menubar=no,width=380,height=660,status=no,resizable=yes');
 }
 $("#listen_live_btn").bind('click.listenlive', function(e){
 if (gusto.station && gusto.station.slug){
@@ -80,25 +81,15 @@ Set your location
 </div>
 <div id="primary_navigation">
 <ul>
-<li class="first current">
-<em>
-Home</em></li>
-<li>
-<a href="/shows/">Shows</a></li>
-<li>
-<a href="/music/">Music</a></li>
-<li>
-<a href="/showbiz/">Showbiz</a></li>
-<li>
-<a href="/win/">Win</a></li>
-<li>
-<a href="/lifestyle/">Lifestyle</a></li>
-<li>
-<a href="/local/">Local</a></li>
-<li>
-<a href="/games/">Games</a></li>
-<li>
-<a href="/have-a-heart/">Have a Heart</a></li>
+<li class="first current"><em>Home</em></li>
+<li><a href="/shows/">Shows</a></li>
+<li><a href="/music/">Music</a></li>
+<li><a href="/showbiz/">Showbiz</a></li>
+<li><a href="/win/">Win</a></li>
+<li><a href="/lifestyle/">Lifestyle</a></li>
+<li><a href="/local/">Local</a></li>
+<li><a href="/games/">Games</a></li>
+<li><a href="/have-a-heart/">Have a Heart</a></li>
 </ul>
 <form action="/search/" method="get" class="search">
 <div>
@@ -116,20 +107,24 @@ GO
 <div id="sky1" class="commercial skyscraper">
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251626"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256586|0|168|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256586|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257611"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256586|0|168|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256586|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 </div>
 </div>
 <div id="centre_column">
-<div class="commercial sponsorship">
+<div class="commercial sponsorship" id="sponsorship_advert">
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251628"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2332317|0|454|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2332317|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257615"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2332317|0|454|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2332317|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 </div>
 <h1>Global Radio Privacy Policy</h1>
 <div class="article">
@@ -207,87 +202,108 @@ We reserve the right to change our privacy policy and all changes will be posted
 <br> 
 © Global Radio UK Limited 2008</p>
 <div class="addthis_toolbox addthis_default_style">
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b59b2205e2b6062" class="addthis_button_compact">Share</a>
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=globalradio" class="addthis_button_compact">Share</a>
 <span class="addthis_separator">|</span>
 <a class="addthis_button_facebook"></a>
 <a class="addthis_button_twitter"></a>
-<a class="addthis_button_myspace"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_live"></a>
 <a class="addthis_button_favorites"></a>
+<a class="addthis_button_facebook_like"></a>
 </div>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b59b2205e2b6062"></script>
+<!--[if !IE]><!-->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=globalradio"></script>
+<!--<![endif]-->
+<!--[if gt IE 6]>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=globalradio"></script>
+<![endif]-->
 </div>
 </div>
 </div><div id="right_column">
 <div class="mod editorial_list">
 <h2><span>Quick links</span></h2>
 <ul>
-<li class="pod odd first">
-<a href="/shows/schedule/" class="">Schedule</a>
+<li class="pod odd  first">
+<a href="/shows/schedule/">Schedule</a>
 </li>
-<li class="pod">
-<a href="/shows/breakfast/" class="">Heart Breakfast</a>
+<li class="pod ">
+<a href="/shows/breakfast/">Heart Breakfast</a>
 </li>
-<li class="pod odd">
-<a href="/shows/drivetime/" class="">Heart Drivetime</a>
+<li class="pod odd ">
+<a href="http://dating.heart.co.uk/s/">Heart Dating</a>
 </li>
-<li class="pod">
-<a href="/shows/last-10-songs/" class="">Last 10 songs</a>
+<li class="pod ">
+<a href="/shows/last-10-songs/">Last 10 songs</a>
 </li>
-<li class="pod odd">
-<a href="/local/" class="">Local events</a>
+<li class="pod odd ">
+<a href="/local/">Local events</a>
 </li>
-<li class="pod last">
-<a href="/local/news/" class="">Local news</a>
+<li class="pod  last">
+<a href="/local/news/">Local news</a>
 </li>
 </ul>
 </div><div id="mpu1" class="commercial mpu">
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251629"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256589|0|170|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256589|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257619"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256589|0|170|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256589|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 </div><div class="mod no_header commercial ad_promo">
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251631"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318779|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318779|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257624"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318779|0|91|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318779|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251632"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318780|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318780|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257627"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318780|0|91|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318780|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251634"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318781|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318781|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257631"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318781|0|91|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318781|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251636"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318782|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318782|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257635"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318782|0|91|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318782|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336771|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336771|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251637"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2336771|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2336771|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336771|0|91|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336771|0|91|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257639"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2336771|0|91|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2336771|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336770|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336770|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251652"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2336770|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2336770|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336770|0|91|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336770|0|91|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257653"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2336770|0|91|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2336770|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 </div>
 <div class="mod editorial_promo  no_header">
 <ul>
-<li class="pod odd">
+<li class="pod odd ">
 <h3>
 <a href="http://irab.fimc.net/weather1.asp?adid=2158347" class="external-blank">
 <img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/04/rainbow-1264406518-editorial-promo-0.jpg" alt="Weather Forecast" height="62" width="116">
@@ -296,7 +312,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 </h3>
 <p>Find out more about today's weather in your area plus the five day forecast.</p>
 </li>
-<li class="pod last">
+<li class="pod  last">
 <h3>
 <a href="/local/traffic-and-travel/">
 <img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/motorway-junction-1218821255-editorial-promo-1.jpg" alt="M25/M1 junction" height="62" width="116">
@@ -306,87 +322,128 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 <p>Want to avoid queues? Use our links to make your journey as smooth as possible.</p>
 </li>
 </ul>
-</div><div class="mod editorial_promo ">
+</div><div class="mod dating_module">
+<h2><a href="http://dating.heart.co.uk/">Heart Dating</a></h2>
+<ul>
+<li class="pod odd first">
+<h3>
+<a href="http://dating.heart.co.uk/s/view/748402/">
+<img src="http://common.gcstatic.com/a/dating/img/profiles/photos/1/u3/t/1gy~uk.jpg" alt="pippiep" class="profile">
+<span>pippiep</span></a>
+</h3>
+<p>Looking to meet men between the ages 27 and 32.</p>
+<p class="profile_link">
+<a href="http://dating.heart.co.uk/s/view/748402/">See <span>pippiep's </span>full profile</a>
+</p>
+</li>
+</ul>
+<p class="more"><a href="http://dating.heart.co.uk/s/join/">Create a free profile</a></p>
+</div>
+<div class="mod editorial_promo ">
 <h2><a href="/music/">Music</a></h2>
 <ul>
-<li class="pod odd">
+<li class="pod odd ">
 <h3>
-<a href="/music/see-pixie-lott/">
-<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/23/pixie-lott12-1275848603-editorial-promo-0.jpg" alt="Pixie Lott" height="62" width="116">
-<span>See Pixie Lott</span>
+<a href="/music/gigs/">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2008/36/the-saturdays-1221123781-editorial-promo-1.jpg" alt="Saturdays on the red carpet" height="62" width="116">
+<span>Gigs</span>
 </a>
 </h3>
-<p>Find out how you can see Pixie on tour just before Christmas.</p>
+<p>Check out the artists on tour and how to buy tickets including Kylie, The Saturdays and 'Here Come the Girls'.</p>
 </li>
-<li class="pod">
+<li class="pod article">
 <h3>
-<a href="/music/robbie-and-gary-duet/">
-<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/101663813-editorial-promo-0.jpg" alt="Robbie Williams and Gary Barlow" height="62" width="116">
-<span>Robbie and Gary duet</span>
+<a href="/music/x-factor-finalists-help-heroes-song/">
+<em class="scheme has_audio">Page with audio: </em>
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/46/x-factor---heroes-1289988859-editorial-promo-0.jpg" alt="X Factor - Heroes" height="62" width="116">
+<span>X Factor finalists 'Help For Heroes' song</span>
 </a>
 </h3>
-<p>Huge news for Take That fans as Robbie Williams and Gary Barlow are set to duet on a brand new single.</p>
+<p>This year’s sixteen X Factor finalists will release a charity single on November 21st, in aid of the ‘Help For Heroes’ charity.  Find out all the info now!</p>
 </li>
-<li class="pod odd last">
+<li class="pod odd article last">
 <h3>
-<a href="/music/lee-ryans-new-video-i-am/">
-<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/16/lee-ryan-secret-love-1271752179-editorial-promo-0.jpg" alt="Lee Ryan Secret Love" height="62" width="116">
-<span>Lee Ryan's new video</span>
+<a href="/music/new-music/michael-buble-hollywood/">
+<em class="scheme has_audio">Page with audio: </em>
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/38/michael-buble-1285320849-editorial-promo-0.jpg" alt="Michael Buble" height="62" width="116">
+<span>Michael Bublé - Hollywood</span>
 </a>
 </h3>
-<p>Watch the video for Lee's new single 'I Am Who I Am' - which fans have made his new single.</p>
+<p>See the video for Michael's lastest song 'Hollywood' video and go behind the scenes with the making of it.</p>
 </li>
 </ul>
 <p class="more"><a href="/music/">See all Music</a></p>
-</div><div class="mod editorial_promo  no_header">
+</div><div class="mod editorial_promo ">
+<h2><a href="/music/">Music</a></h2>
 <ul>
-<li class="pod odd last">
+<li class="pod odd article">
 <h3>
-<a href="/showbiz/celebrity-birthdays/">
-<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/06/heart-birthday-cake-1265993108-editorial-promo-0.gif" alt="Heart Birthday Cake" height="62" width="116">
-<span>Celebrity birthdays</span>
+<a href="/music/gigs/wanted-2011-tour/">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/37/the-wanted-1284562373-editorial-promo-0.jpg" alt="The Wanted" height="62" width="116">
+<span>The Wanted: 2011 Tour</span>
 </a>
 </h3>
-<p>Is it your birthday? Which celebrity do you share your birthday with?</p>
+<p>Tickets for The Wanted's first UK tour are now on sale.</p>
+</li>
+<li class="pod article">
+<h3>
+<a href="/music/new-music/wanted-heart-vacancy/">
+<em class="scheme has_video">Page with video: </em>
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/37/the-wanted-1284562373-editorial-promo-0.jpg" alt="The Wanted" height="62" width="116">
+<span>The Wanted album</span>
+</a>
+</h3>
+<p>Buy The Wanted's debut album now and check out the video for their latest single Heart Vacancy.</p>
+</li>
+<li class="pod odd gallery last">
+<h3>
+<a href="/music/royal-wedding-band/">
+<em class="scheme gallery">Gallery: </em>
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/31/meeting-the-queen-december-2009-1281020182-editorial-promo-0.jpg" alt="Lady gaga and the Queen" height="75" width="100">
+<span>Royal wedding band </span>
+</a>
+</h3>
+<p>Who will play at William and Kate's wedding? We've put together a few suggestions of bands with royal connections </p>
 </li>
 </ul>
+<p class="more"><a href="/music/">See all Music</a></p>
 </div><div class="mod editorial_list">
 <h2><a href="/shows/news/uk-world/">UK &amp; World</a></h2>
 <ul>
-<li class="pod odd first">
-<a href="/shows/news/uk-world/mum-dipped-babys-dummy-in-methadone-1/" class="">Mum Dipped Baby's Dummy In Methadone </a>
+<li class="pod odd article first">
+<a href="/shows/news/uk-world/ireland-asks-for-help-on-bailout-loan-1/" class="has_video">Ireland Asks For Help On Bailout Loan</a>
 </li>
-<li class="pod">
-<a href="/shows/news/uk-world/millions-face-starvation-after-niger-drought-1/" class="has_video">Millions Face Starvation After Niger Drought</a>
+<li class="pod article">
+<a href="/shows/news/uk-world/teen-dies-in-street-attack-four-charged-1/">Teen Dies In Street Attack: Four Charged</a>
 </li>
-<li class="pod odd">
-<a href="/shows/news/uk-world/mps-urged-to-save-brit-woman-on-death-row-1/" class="has_video">MPs Urged To Save Brit Woman On Death Row</a>
+<li class="pod odd article">
+<a href="/shows/news/uk-world/boy-dies-after-rescue-from-house-fire-1/">Boy Dies After Rescue From House Fire</a>
 </li>
-<li class="pod">
-<a href="/shows/news/uk-world/trust-fined-pound50k-over-disabled-patient-de-1/" class="has_video">Trust Fined £50k Over Disabled Patient Death</a>
+<li class="pod article">
+<a href="/shows/news/uk-world/popes-about-turn-on-condoms-applauded-1/" class="has_video">Pope's 'About-Turn' On Condoms Applauded</a>
 </li>
-<li class="pod odd">
-<a href="/shows/news/uk-world/spain-funeral-for-brit-kids-killed-by-mum/" class="">Spain Funeral For Brit Kids 'Killed By Mum'</a>
+<li class="pod odd article">
+<a href="/shows/news/uk-world/labour-may-back-cut-in-terror-detention-1/">Labour May Back Cut In Terror Detention</a>
 </li>
 <li class="more last"><a href="/shows/news/uk-world/">See all UK &amp; World</a></li>
 </ul>
 </div><div class="mod editorial_list">
 <h2><a href="/showbiz/news/">Showbiz news</a></h2>
 <ul>
-<li class="pod odd first">
-<a href="/showbiz/news/big-brother-hopefuls-vie-for-house-place-1/" class="">Big Brother Hopefuls Vie For House Place</a>
+<li class="pod odd article first">
+<a href="/showbiz/news/ghost-the-musical-to-hit-the-west-end-1/" class="has_video">Ghost The Musical To Hit The West End</a>
 </li>
-<li class="pod">
-<a href="/showbiz/news/rapper-turns-judge-for-sky1-talent-show/" class="">Rapper Turns Judge For Sky1 Talent Show</a>
+<li class="pod article">
+<a href="/showbiz/news/paris-cleans-up-her-act-on-community-service/">Paris Cleans Up Her Act On Community Service</a>
 </li>
-<li class="pod odd">
-<a href="/showbiz/news/rocker-bon-jovi-scales-new-heights-at-o2-1/" class="has_video">Rocker Bon Jovi Scales New Heights At O2</a>
+<li class="pod odd article">
+<a href="/showbiz/news/snipes-must-serve-tax-evasion-jail-term-1/">Snipes Must Serve Tax Evasion Jail Term</a>
 </li>
-<li class="pod">
-<a href="/showbiz/news/harrelson-scores-winner-in-soccer-thriller-1/" class="">Harrelson Scores Winner In Soccer Thriller</a>
+<li class="pod article">
+<a href="/showbiz/news/cale-greer-and-armitage-collect-royal-gongs-1/">Cale, Greer And Armitage Collect Royal Gongs</a>
 </li>
-<li class="pod odd">
-<a href="/showbiz/news/cruises-thundering-hip-hop-duet-with-j-lo-1/" class="has_video">Cruise's Thundering Hip Hop Duet With J-Lo</a>
+<li class="pod odd article">
+<a href="/showbiz/news/mothers-loss-spurred-izzard-to-superstardom/" class="has_video">Mother's Loss Spurred Izzard To Superstardom</a>
 </li>
 <li class="more last"><a href="/showbiz/news/">See all Showbiz news</a></li>
 </ul>
@@ -437,7 +494,7 @@ Find your local heart
 </div>
 <div class="toe">
 <h2>
-<a href="/on-air">On air</a>
+<a href="/shows/">On air</a>
 </h2>
 <ul>
 <li>
@@ -457,6 +514,9 @@ Find your local heart
 </li>
 <li>
 <a href="/shows/">All Heart Shows</a>
+</li>
+<li>
+<a href="http://ask.ofcom.org.uk/help/radio/pirates" class="external">Report Interference from Illegal Broadcasters</a>
 </li>
 </ul>
 </div>
@@ -542,18 +602,24 @@ $('img#dj_img').show();
 <div id="leader1" class="commercial leaderboard">
 <script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251663"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256587|0|225|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256587|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>	   
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257661"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256587|0|225|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256587|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
 </div>
 </div>
-<div class="commercial overlay"><script type="text/javascript">
+<div class="commercial overlay">
+<script type="text/javascript">
 <!--
-if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251665"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256588|0|16|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256588|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript></div>
+if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
+if ((window.ad_keys == undefined) && (typeof generate_ad_keys == 'function')) {window.ad_keys = generate_ad_keys();}
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key='+window.ad_keys+'+article+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key=undefined+article+key3+key4;grp=604;misc=1580400257662"></script>
+<noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256588|0|16|ADTECH;loc=300;key=key1+article+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256588|0||ADTECH;loc=300;key=key1+article+key3+key4" width="1" height="1" alt=""></a></p></noscript>
+</div>
 <!-- SiteCatalyst code version: H.20.2.
 Copyright 1997-2009 Omniture, Inc. More info available at
 http://www.omniture.com -->
@@ -636,5 +702,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 src="http://c.musicradio.com/b/ss/GlobalRDev/1/H.20.2--NS/0?[AQB]&cdp=3&[AQE]"
 height="1" width="1" border="0" alt=""></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.2. -->
+
 
 </body></html>
