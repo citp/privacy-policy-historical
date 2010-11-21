@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mega.pk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525101609id_/http%3A//www.mega.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.pk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035311id_/http%3A//www.mega.pk/privacy.php) for the most accurate reproduction.*
 
-# Laptops in Rawalpindi,Islamabad, Pakistan :Mega.PK
+# Laptops in Rawalpindi, Islamabad, Pakistan :Mega.PK
 
 ##  Privacy Policy for MEGA.PK
 
