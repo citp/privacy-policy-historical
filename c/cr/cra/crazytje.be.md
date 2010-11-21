@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazytje.be privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605052503id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazytje.be privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121052936id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Crazy's Manga
 
 ## What information do we collect?
 
