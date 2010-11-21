@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theledger.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022316id_/http%3A//www.theledger.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theledger.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121164937id_/http%3A//www.theledger.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | TheLedger.com | The Lakeland Ledger
+# privacypolicy | TheLedger.com | The Lakeland Ledger
 
-This Privacy Policy discloses the privacy practices for The Lakeland Ledger newspaper and TheLedger.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Lakeland Ledger” include TheLedger.com and The Lakeland Ledger newspaper. The Lakeland Ledger is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
+This Privacy Policy discloses the privacy practices for The Lakeland Ledger newspaper and TheLedger.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Lakeland Ledger" include TheLedger.com and The Lakeland Ledger newspaper. The Lakeland Ledger is part of The New York Times Regional Media Group ("NYTRMG") – a division of The New York Times Company.
 
 Third party sites that TheLedger.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
 
@@ -43,7 +43,7 @@ The Lakeland Ledger may collect personal information from readers in connection 
 
 ### Mobile Messaging Service
 
-We may elect to offer certain text messaging services (the “SMS Service”). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
+We may elect to offer certain text messaging services (the "SMS Service"). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
 
 The Lakeland Ledger collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The Lakeland Ledger. When you send a text message to The Lakeland Ledger or via The Lakeland Ledger, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The Lakeland Ledger uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service. 
 
@@ -51,7 +51,7 @@ The Lakeland Ledger collects the mobile phone number you use to send us a text m
 
 ### Cookies and Other Technologies
 
-As is standard practice on many Web sites, The Lakeland Ledger uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "TheLedger.com" cannot access most areas of our sites.
+As is standard practice on many Web sites, The Lakeland Ledger uses "cookies" and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "TheLedger.com" cannot access most areas of our sites.
 
 We reserve the right to place a The Lakeland Ledger Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
@@ -95,7 +95,7 @@ We offer message boards for readers in a number of areas throughout our Web site
 
 ### E-Mail Newsletters
 
-If you choose to receive them, The Lakeland Ledger will periodically send you e-mail newsletters or promotional e-mail about services offered by The Lakeland Ledger and its advertisers. For details about The Lakeland Ledger e-mail, please see the next section, “What Is Our E-mail Policy?”.
+If you choose to receive them, The Lakeland Ledger will periodically send you e-mail newsletters or promotional e-mail about services offered by The Lakeland Ledger and its advertisers. For details about The Lakeland Ledger e-mail, please see the next section, "What Is Our E-mail Policy?".
 
 ## What is our e-mail policy?
 
@@ -137,7 +137,7 @@ If you are a print subscriber to The Lakeland Ledger and you subscribed either b
 
 We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for The Lakeland Ledger, and they may not share or resell this data.
 
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
+We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the "Compliance with legal process" section of this policy.)
 
 ## How do I change or update my personal information?
 
