@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307022627id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121044817id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security - China Highlights
+
+[Home](https://web.archive.org/) Privacy and Security
 
 
 
@@ -40,5 +42,3 @@ All other personal information ****
 **Credit card information**
 
 \- To pay for your travel services
-
-[](https://web.archive.org/forms/tailormadetours.htm)
