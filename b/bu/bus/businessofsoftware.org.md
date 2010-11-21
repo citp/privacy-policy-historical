@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612172402id_/http%3A//www.businessofsoftware.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121065157id_/http%3A//businessofsoftware.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Business of Software 2010: A Joel On Software Conference
 
