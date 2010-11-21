@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531073410id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121231708id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
 
 # Catch My Party - Privacy Policy
 
