@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622022212id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121192742id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Free Traffic Tips
 
@@ -27,5 +27,3 @@ Please contact those vendors and others directly if you have any questions about
 For any other information send any blank email to at staff @ freetraffictip.com for instructions.
 
 Popularity: unranked
-
-[convert this post to pdf.](http://www.freetraffictip.com/wp-content/plugins/post2pdf/generate.php?post=j)
