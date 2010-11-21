@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327131428id_/http%3A//connextra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030641id_/http%3A//connextra.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Connextra | Privacy Policy
 
@@ -120,4 +120,4 @@ Cookies are used for the following purposes:
 
 top^
 
-Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20100327131428id_/http%3A//connextra.com/services/builds.htm)
+Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20101121030641id_/http%3A//connextra.com/services/builds.htm)
