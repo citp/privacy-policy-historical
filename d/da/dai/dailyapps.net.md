@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyapps.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211506id_/http%3A//dailyapps.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyapps.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121115752id_/http%3A//dailyapps.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyApps
 
@@ -19,4 +19,4 @@ We also use third party advertisements on dailyApps.net to support our site.  S
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. 
 
-[](http://www.addthis.com/bookmark.php?v=20)
+[](http://www.addthis.com/bookmark.php?v=250&username=coolkarthik88)
