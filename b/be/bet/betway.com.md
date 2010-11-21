@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203183633id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121094635id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Betway Online Casino and Betting :: Privacy Policy
 
 This site is operated by Sailboats Limited and Gnuf Limited (our “Site”). We have created this privacy policy (“Privacy Policy”) to outline our firm commitment to your privacy. Our policy is based on the Data Protection Act of Malta and the principles held within such law. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
 
-By using [www.betway.com](http://betway.com/) you acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
+By using [www.betwaygroup.com](https://web.archive.org/web/20101121094635id_/http%3A//betway.com/help/you) acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
 
 ## How your Personal Data is stored and used
 
@@ -19,7 +19,7 @@ Disclosure of your Personal Data will only take place in accordance with applica
 Due to the nature of the internet and its use to collect and transfer Personal Data, it may necessitate the transmission of your Personal Data outside of the EEA. By using this site you acknowledge and agree to our use of your Personal Data in this manner.
 
 We do not collect your Personal Data when you use our Site without your knowledge or rent, sell or trade your Personal Data to any third party.  
-You may ‘opt out’ of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an email you receive from us, or at any time by sending an [email](mailto:support@betway.com) or by writing to us at 9 Empire Stadium Street, Gzira GZR 1300, Malta.
+You may ‘opt out’ of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an email you receive from us, or at any time by sending an [email](mailto:support@betwaygroup.com) or by writing to us at 9 Empire Stadium Street, Gzira GZR 1300, Malta.
 
 ## Security of Processing
 
