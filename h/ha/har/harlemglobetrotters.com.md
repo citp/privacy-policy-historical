@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619075314id_/http%3A//www.harlemglobetrotters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034612id_/http%3A//www.harlemglobetrotters.com/privacypolicy) for the most accurate reproduction.*
 
 # The Official Site of the Harlem Globetrotters: Privacy Policy
 
@@ -7,7 +7,7 @@ Our postal address is
 400 E. Van Buren 300  
 Phoenix, AZ 85260
 
-We can be reached via e-mail at [info@harlemglobetrotters.com](mailto:info@harlemglobetrotters.com)  
+We can be reached via e-mail at [](http://www.harlemglobetrotters.com/contact/generalcontact/)[info@harlemglobetrotters.com](http://www.harlemglobetrotters.com/privacycontact/)  
 or you can reach us by telephone at 602-258-0000
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).  
