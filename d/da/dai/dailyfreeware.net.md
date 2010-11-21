@@ -1,29 +1,42 @@
-> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104804id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121040648id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Freeware Download
 
-Nov  
-03  
-2007
+dailyfreeware.net, we recognize that privacy of your personal information is important.  
+Here is information on what types of personal information we receive  
+and collect when you use and visit dailyfreeware.net, and how we safeguard your information.  
+We never sell your personal information to third parties.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin[at]dailyfreeware[dot]com.
-
-At www.dailyfreeware.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.dailyfreeware.net and how it is used.
-
-Log Files  
-Like most standard Web site servers, www.dailyfreeware.net use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track userâ€™s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Site Tracking  
+We have a simple web statistics program running that tracks how many times each page is visited.  
+When you visit a page, information is logged that contains your domain name  
+(aol.com, for example), date, time, and pages visited.  
+There is no personally identifiable information.
 
 Cookies and Web Beacons  
-www.dailyfreeware.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitorsâ€™ browser type or other information that the visitor sends.
+We do use cookies to store information, such as your personal preferences when you visit our site.  
+This could include only showing you a popup once in your visit,  
+or the ability to login to some of our features, such as forums.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, .
+Advertisers  
+We use third-party advertising companies to serve ads when you visit our website.  
+These companies may use information (not including your name, address, email address, or telephone number)  
+about your visits to this and other websites in order to provide advertisements  
+about goods and services of interest to you.
 
-These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on www.dailyfreeware.net. They automatically receive your IP address when this happens. They may also use other technologies ( such as cookies, JavaScript, or Web Beacons ) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+* Google  
+Google, as a third party vendor, uses cookies to serve ads on pdftown.com.  
+Google’s use of the DART cookie enables it to serve ads to you based on your visit to pdftown.com.  
+and other sites on the Internet.  
+If you would like more information about this practice and to know your choices  
+about not having this information used by these companies, please visit :
 
-www.dailyfreeware.net has no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+http://www.google.com/privacy_ads.html
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. www.dailyfreeware.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+* echotopic
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+http://www.echotopic.com/privacy.html
 
-Welcome back!
+Links  
+This site contains links to other web sites.  
+We are not responsible for the privacy practices or the content of any other site.
