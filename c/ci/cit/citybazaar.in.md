@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citybazaar.in privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526135020id_/http%3A//citybazaar.in/pp.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybazaar.in privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121020747id_/http%3A//citybazaar.in/pp.aspx) for the most accurate reproduction.*
 
 # CityBazaar.in Complete Bazaar Guide for your City. Yellowpages and Classifieds.
 
