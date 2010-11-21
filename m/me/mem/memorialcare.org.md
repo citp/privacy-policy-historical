@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202247id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102819id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # MemorialCare Privacy Statement | MemorialCare Health System - in California
 
-[](http://www.memorialcare.org/stories/kellisa_mch_cf.cfm)
+[](http://www.memorialcare.org/stories/wasley_ocmmc_imaging.cfm)
 
 |  MemorialCare Privacy Statement | MemorialCare Health System - in California
 
@@ -135,7 +135,14 @@ There are three types of relationships that differ from our standard business pa
 ** We allow other companies to make services and/or content available to you, sometimes on a sponsored or co-branded basis. To access the services on a sponsored or co-branded site, you may have to complete an online registration form in addition to the registration you completed for us. Whenever you provide registration information on sponsored or co-branded sites, data can be collected. You should read the individual privacy policies of sponsored or co-branded sites. Reading the policies will help you make an informed decision on whether or not you want to use the site.
 
 **External Links  
-** We feature external links to other web sites that we believe you might find useful; however, we do not endorse these sites. We are not responsible for the privacy practices of these external sites. We will make every effort to notify you when you are leaving our site and we encourage you to read the privacy policy of each site you visit that may collect information or ask you to disclose personal information and/or health-related personal information.
+** MemorialCare Health System may provide links to other Web sites of possible interest to you. When dealing with such links, please keep in mind the following: 
+
+  * MemorialCare does not endorse the views presented on these Web sites, and is not responsible for the material available on such Web sites.
+  * MemorialCare has no control over another website’s terms of use/privacy policy. You should familiarize yourself with the policies and procedures of other Web sites before visiting them.
+  * From time to time, MemorialCare may create and/or update a page on other Web sites. Any information provided by MemorialCare on these pages is informational and not intended as specific advice. MemorialCare shall not be responsible or liable for any harm resulting from reliance on information contained in these pages. MemorialCare respects patient privacy and will not disclose any personally identifiable information on these pages.
+  * Users who decide to post on a MemorialCare page on an external Web site should make sure their submissions comply with the specific Web site’s terms of use. In addition, creating posts that divulge private medical information, or are harassing, discriminatory, vulgar, abusive, explicit, or otherwise objectionable is strictly prohibited. MemorialCare does not pre-screen submissions to its pages, but retains the right to delete posts deemed by MemorialCare to violate this policy.
+
+
 
 **Advertising Servers  
 ** We may have relationships with third-party advertising servers to display advertisements on our site. If you click on an advertisement while on our site you will be taken to another site where your risk and privacy change. These third party ad servers may use cookies to collect non-personal information on your preferences and interests via the advertisement you decide to view. We do not give them access to non-personal information that we might collect on our site unless they agree not to use that information in combination with information they already possess to identify our users. We do not intentionally share with third party ad servers any personal or health-related personal information that you share with us.
@@ -175,7 +182,7 @@ Users should be aware that it is not always technically possible to remove or de
 
 To report any abuse or violations of this Email List Privacy Policy, please send an email to abuse@memorialcare.com and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace the origin of the message. Also include any notes or other information that you feel are pertinent.
 
-Last Update: April 28, 2007  
-Copyright © 2007 Memorial Health Services.
+Last Update: August 11, 2010  
+Copyright © 2010 Memorial Health Services.
 
 MemorialCare Health System is a not-for-profit integrated delivery system which includes Long Beach Memorial Medical Center, Miller Children’s Hospital Long Beach, Orange Coast Memorial Medical Center and Saddleback Memorial Medical Center in Laguna Hills and San Clemente. Our community-based hospitals are located in Southern California in both Los Angeles County and Orange County. Copyright © 1999 - 2010, Memorial Health Services. All rights reserved. 
