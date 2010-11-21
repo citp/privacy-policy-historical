@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wantlive.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522184623id_/http%3A//www.wantlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantlive.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121033010id_/http%3A//www.wantlive.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Wantlive - Privacy Policy
+# Wantlive - Privacy
 
 [Home](http://www.wantlive.com/) / Privacy Policy
 
