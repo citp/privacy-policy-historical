@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the betterrecipes.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004825id_/http%3A//www.betterrecipes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterrecipes.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121140914id_/http%3A//recipes.betterrecipes.com/betterrecipes/file.jsp%3Fitem%3Dlegal/privacy) for the most accurate reproduction.*
 
-# None
+# 
 
   * Online Privacy Policy
   * [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html)
   * [Visitor Agreement](http://www.betterrecipes.com/visitoragreement)
   * Your California Privacy Rights
-  * Meredith Corporation “Shine the Light” Customer Notice
+  * Meredith Corporation ?Shine the Light? Customer Notice
 
 
 
@@ -109,11 +109,11 @@ Return to top
 
 **(As provided by California Civil Code Section 1798.83)**
 
-Under California Civil Code Section 1798.83 – also known as the “Shine the Light” law – California residents have a right to request certain information from each business they patronize regarding that business’s disclosures of personal information to third parties for the third parties’ direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.
+Under California Civil Code Section 1798.83 ? also known as the ?Shine the Light? law ? California residents have a right to request certain information from each business they patronize regarding that business?s disclosures of personal information to third parties for the third parties? direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.
 
-The “Shine The Light” law creates an exception for businesses that adopt and disclose to the public (in their privacy policies) a policy of not sharing personal information for direct marketing purposes without offering their customers choices to prevent such disclosures. These businesses are not obligated to provide the lists described above and may respond to requests from California customers by notifying them of their rights to prevent disclosures of personal information for direct marketing purposes and providing a cost-free means of exercising those rights. 
+The ?Shine The Light? law creates an exception for businesses that adopt and disclose to the public (in their privacy policies) a policy of not sharing personal information for direct marketing purposes without offering their customers choices to prevent such disclosures. These businesses are not obligated to provide the lists described above and may respond to requests from California customers by notifying them of their rights to prevent disclosures of personal information for direct marketing purposes and providing a cost-free means of exercising those rights. 
 
-Meredith Corporation qualifies for this latter exception. As further explained in our Online Privacy Policy and [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties’ direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our “Shine The Light” Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
+Meredith Corporation qualifies for this latter exception. As further explained in our Online Privacy Policy and [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties? direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our ?Shine The Light? Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
 
 Return to top 
 
@@ -123,7 +123,7 @@ The following options are available to any customers who wish to prevent the dis
 
 #### Disclosures of Name and Postal Address Information. 
 
-If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online [“opt-out” form](https://secure.meredith.com/privacy/policy.html) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
+If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online [?opt-out? form](https://secure.meredith.com/privacy/policy.html) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
 
 #### Disclosures of Website Registration Information.
 
