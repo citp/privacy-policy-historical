@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittergadget.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113135557id_/http%3A//www.twittergadget.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittergadget.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121055817id_/http%3A//www.twittergadget.com/privacy.php) for the most accurate reproduction.*
 
 # TwitterGadget iGoogle Twitter Client: Privacy Policy
 
