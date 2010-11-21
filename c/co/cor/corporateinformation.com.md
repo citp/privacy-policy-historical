@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151816id_/http%3A//www.corporateinformation.com/About-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035406id_/http%3A//corporateinformation.com/About-Privacy.aspx) for the most accurate reproduction.*
 
 # CorporateInformation.com - Privacy Policy
 
@@ -26,6 +26,10 @@ Links
 
 CorporateInformation.com contains thousands of links to other web sites.  Since we have no control over such sites, we are not responsible for information you may provide to them, knowingly or otherwise.  Be sure to check the privacy policy of any site asking you for personal information.
 
+Compliant with Network Advertising Initiative (NAI)
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 Changes
 
-From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy, please [ Contact Us](https://web.archive.org/web/20100628151816id_/http%3A//www.corporateinformation.com/Contact-Feedback.aspx) with your request.
+From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy, please [ Contact Us](https://web.archive.org/web/20101121035406id_/http%3A//corporateinformation.com/Contact-Feedback.aspx) with your request.
