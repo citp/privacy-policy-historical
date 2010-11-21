@@ -1,60 +1,63 @@
-> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227083959id_/http%3A//www.cgcareers.org/cgc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121214410id_/http%3A//www.cgcareers.org/about/privacy) for the most accurate reproduction.*
 
-# Commongood Careers » Privacy Policy
+# Privacy Policy › About Us › Commongood Careers
 
-### Privacy Policy
+## Privacy Policy
 
-#### Our Commitment To Privacy
+### Introduction
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available from the footer of our website. 
+This privacy policy (“Policy”) describes the practices of Commongood Careers, Inc. (“Commongood Careers”) with respect to the gathering and use of personal information submitted to Commongood Careers through the Commongood Careers website (the “Website”).
 
-#### The Information We Collect
+### Information we collect 
 
-This notice applies to all information collected or submitted on the Commongood Careers website. On some pages, you can complete a profile, make requests, and register to receive email updates and newsletters. The types of personal information collected at these pages include: 
+Commongood Careers collects certain personal information which is submitted by you when you apply through the Website for a job that is managed by Commongood Careers,  when you submit an application to the General Talent Pool, when you send an email to Commongood Careers, and when you sign up to receive updates and newsletters from Commongood Careers. This personal information may include, but may not be limited to: 
 
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Resume
+  * Name 
+  * Employer name 
+  * Home or office mailing address 
+  * E-mail address 
+  * Telephone, cellular and fax numbers 
 
 
 
-#### The Way We Use Information
+In addition, when you visit the Website, we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Website. This information is gathered through the use of cookies. A cookie is a small data text file that a website server writes to your hard-drive when you visit the website. A cookie assigns a unique identification to your computer and may be used for security purposes, to facilitate transactions, to personalize the website, or to gather information about the visit. 
 
-We use the information you provide about yourself when you submit your cover letter and resume for a specific position or for consideration in our general candidate pool. We do not share this information with outside parties except to the extent necessary to share this information with for our partner nonprofits for the purposes of recruiting individuals for open positions. 
+### Disclosure of your nonpublic personal information
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+  
+Commongood Careers does not disclose personal information to any third parties, except as disclosed in this Policy. Specifically, we may share the personal information that we collect with the following entities: 
 
-You can register with our website if you would like to receive email updates and newsletters. Information you submit on our website for this purpose will only be used for this purpose. 
+  * To the employer that is hiring for a specified position, when you apply for that position via the Job Board
+  * To government agencies and law enforcement officials, when we are required to do so to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or when Commongood Careers in its sole discretion, believes it is required or appropriate in order to comply with the law 
 
-We use non-identifying and aggregate information to better design our website. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-#### Our Commitment To Data Security
+We also reserve the right to disclose personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Commongood Careers’ Terms and Conditions or other agreements, or as otherwise required or permitted by law. If Commongood Careers merges with another organization, your personal information will be acquired by that organization. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+### Use of nonpublic personal information within Commongood Careers
 
-#### Our Commitment To Children’s Privacy
+Commongood Careers uses personal information collected from Users in order to administer the Services requested by you, to make the website more useful, to respond to your queries, and to inform you of new products and services offered on the Website. We also may use your IP address to help diagnose problems with our servers and administer the Website. 
 
-Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. 
+Your Internet Protocol address and information regarding the web pages on the Website that you visit, or that linked to the Website, may also be used to gather broad demographic information, interests, and behavior so that we may better understand our users. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve the Website’s design and functionality. Commongood Careers may share aggregated demographic, product usage, or traffic pattern information for marketing purposes with other organizations, but these statistics will include no personal information. Except as noted above, your personal information will not be shared with other organizations for marketing purposes without your consent. 
 
-#### How You Can Access Or Correct Your Information
+### Security
 
-In order to change any of your personally identifiable information that we collect online, please send us a request by email to [help@cgcareers.org](mailto:help@cgcareers.org). We use this procedure to better safeguard your information. 
+Although the Website has security measures in place to protect against unauthorized access to and the loss, misuse and alteration of information under our control, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your personal information or other information may not be disclosed or otherwise accessed in an unauthorized manner. Certain information, including personal information, may be transmitted by you and to you by unsecured electronic mail. Although it may be illegal to intercept or disclose these messages, these transmissions are not secured. 
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+### How to update your information
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+You may update your information and contact preferences by sending an e-mail to [help@cgcareers.org](mailto:help@cgcareers.org) with changes to your information and contact preferences. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making changes to your information or preferences. 
 
-#### How To Contact Us
+### Opt-out policy 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@cgcareers.org](mailto:info@cgcareers.org). 
+You may at any time request not to be contacted by Commongood Careers. “Opt out” requests should be sent to the address indicated on the materials sent by Commongood Careers or by replying to the email in which such material was sent. 
 
-#### Changes to this Statement
+### Linked Internet websites 
 
-We may change this Privacy Statement from time-to-time. If we do make a change, we will post the revised Privacy Statement on this Site. We encourage you to review this Privacy Statement periodically. Questions, comments or complaints about our privacy policies should be submitted to us by one of the methods listed above. 
+The Website provides hypertext links to and framed content from other websites that may be governed by privacy policies that are different from those provided herein. If you leave the Website, or if you are presented with a framed web page that is branded with the marks of a third party, this Policy will not apply. You should read the privacy policies of websites reached through the use of links or reached through the interactions with framed content on the Website. Commongood Careers is not responsible for the collection, use, or disclosure of information collected through those websites, and Commongood Careers expressly disclaims any and all liability related to such collection, use, or disclosure. 
 
-This privacy policy was last updated in June 2008.   
+### Changes to this Policy 
 
+Changes to this Policy may be made from time to time. If a change is made, the updated policy will be posted on the Website. We encourage you to review this Policy periodically. Questions and comments about this policy may be submitted via email to [help@cgcareers.org](mailto:help@cgcareers.org).
+
+This Policy was last updated in January 2010. 
