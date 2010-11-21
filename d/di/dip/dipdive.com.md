@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dipdive.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629210715id_/http%3A//dipdive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dipdive.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121225523id_/http%3A//dipdive.com/privacy) for the most accurate reproduction.*
 
-# [Dipdive] Privacy policy
+# Dipdive | Privacy policy
 
 We will have the right to collect, share and use your information in accordance with our Privacy Policy, which is incorporated by reference in these Terms. In addition, the artist or band may have access to and use of information you provide in connection with your membership to the Channel. Use includes, but is not limited to, sending email newsletters, updates or content related to the artist or band. These messages may be required as part of membership to the Channel, at the discretion of the artist or band. 
 
