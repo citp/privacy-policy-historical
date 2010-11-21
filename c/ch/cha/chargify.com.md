@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chargify.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924172639id_/http%3A//chargify.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargify.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122003224id_/http%3A//chargify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chargify
 
-**Information Collection**. Chargify, LLC is the sole owner of the information collected on [http://chargify.com](https://web.archive.org/web/20090924172639id_/http%3A//chargify.com/index.html). Chargify collects information from our users at several different points on our Web site.
+**Information Collection**. Chargify, LLC is the sole owner of the information collected on [http://chargify.com](https://web.archive.org/web/20101122003224id_/http://chargify.com/privacy-policy/index.html). Chargify collects information from our users at several different points on our Web site.
 
 **Order** We request information from the user on our order form. A user must provide contact information (such as name and email). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
@@ -12,7 +12,7 @@
 
 **Cookies** A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies on this site.
 
-**Log Files** Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called "analog 4.13" that uses log files to analyze user movement.
+**Log Files** Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called “analog 4.13” that uses log files to analyze user movement.
 
 ### Communications from the Site
 
@@ -56,8 +56,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 **Contact Information** If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-1-800-401-2414
-
+1-800-401-2414  
 197 1st Avenue, Suite 200  
 Needham, MA 02494  
-[http://chargify.com](https://web.archive.org/web/20090924172639id_/http%3A//chargify.com/index.html)
+[http://chargify.com](http://chargify.com/)
