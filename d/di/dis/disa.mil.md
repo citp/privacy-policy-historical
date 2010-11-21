@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313165633id_/http%3A//www.disa.mil/about/legal/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121130741id_/http%3A//disa.mil/about/legal/security_privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
