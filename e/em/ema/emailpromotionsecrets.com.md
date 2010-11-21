@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailpromotionsecrets.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324132744id_/http%3A//emailpromotionsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailpromotionsecrets.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121225342id_/http%3A//emailpromotionsecrets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
