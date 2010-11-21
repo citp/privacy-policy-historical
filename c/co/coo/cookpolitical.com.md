@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookpolitical.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219234501id_/http%3A//www.cookpolitical.com/node/1918) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookpolitical.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121054733id_/http%3A//www.cookpolitical.com/node/1918) for the most accurate reproduction.*
 
 # Privacy Policy | The Cook Political Report
 
