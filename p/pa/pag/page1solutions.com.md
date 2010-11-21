@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the page1solutions.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522215442id_/http%3A//www.page1solutions.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page1solutions.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121122736id_/http%3A//www.page1solutions.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Page 1 Solutions, LLC - Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.page1solutions.com&sealid=101)
-
-his privacy notice discloses the privacy practices for (www.Page1Solutions.com). It applies solely to information collected by this website and will notify you of the following:
+his privacy notice discloses the privacy practices for [Page 1 Solutions](http://www.page1solutions.com/). It applies solely to information collected by this website and will notify you of the following:
 
   1. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared
   2. What choices are available to you regarding the use of your data
@@ -66,16 +64,13 @@ A session ID cookie expires when you close your browser. A persistent cookie rem
 **Changes in this Privacy Policy**  
 We reserve the right to modify this privacy policy at any time including what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this policy, we will notify you by means of a notice on this page.
 
-**Testiminials**  
+**Testimonials**  
 We post customer testimonials on our website which may contain personally identifiable information such as the customer's name. Before posting any testimonial, we do obtain the customer's consent to post their name along with their testimonial.
 
-**Page 1 Solutions is a TRUSTe Licensed Site**  
-Page 1 Solutions is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website www.Page1Solutions.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Bill Fukui at [info@page1solutions.com](mailto:info@page1solutions.com). If you do not receive acknowledgement of your inquiry or if your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should contact Bill Fukui at [BillF@page1solutions.com](mailto:info@page1solutions.com).
 
 ### Page 1 Solutions
 
-17301 W. Colfax Ave, Suite #275,   
+17301 W. Colfax Ave, Suite #275  
 Golden, CO 80401  
 **Effective Date:** 08/01/2008
