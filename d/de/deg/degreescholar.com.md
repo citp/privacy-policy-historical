@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreescholar.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529153322id_/http%3A//www.degreescholar.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreescholar.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121113003id_/http%3A//degreescholar.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Degree Scholar
 
