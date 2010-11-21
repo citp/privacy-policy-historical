@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102171403id_/http%3A//www.divinvest.com/home/en/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121190513id_/http%3A//www.divinvest.com/home/en/privacy.jsp) for the most accurate reproduction.*
 
 # Diversified Investment Advisors
 
@@ -38,4 +38,4 @@ In the event that you choose to submit nonpublic personal information on our Web
 
 Diversified reserves the right to modify or supplement the Internet Privacy Policy at anytime. If we make changes, we will provide you with a revised policy that describes our new practices. We encourage you to review this Policy periodically for changes. Your use of this web site after we have posted any changes to this Policy constitutes your acceptance of the changes.
 
-### Last Update: June 2009
+### Date: 02/18/10
