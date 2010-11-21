@@ -1,48 +1,30 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429012033id_/http%3A//www.effcu.org/default.aspx%3Fid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121214727id_/http%3A//effcu.org/help/privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy :: Eastern Financial Florida Credit Union a Division of Space Coast Credit Union
+# Space Coast Credit Union Privacy Notice
 
-**Privacy Statement**  
-Eastern Financial Florida Credit Union, a division of Space Coast Credit Union (hereafter referred to as "EFFCU", "we", "us", or "our") respects the privacy and confidentiality of our members’ personal information. The terms “you” or “your” refers to our members or visitors to our web site. When you trust us with your personal information, you can be certain it will be used only in an appropriate manner. Information communicated electronically is safe, and is kept as secure as information obtained in person or by mail.
+### Space Coast Credit Union Privacy Notice
 
-The purpose of this policy statement is to explain what type of information EFFCU collects, how it is used, and with whom or under what circumstances it will be shared.
+At Space Coast Credit Union, your privacy is a top priority. This notice describes how we protect the privacy of your personal information. Throughout this notice, the word “information” refers to personal information about you that may not be publicly available.
 
- **What Information We Collect**
+We collect information about you from the following sources:
 
-EFFCU may collect personal and confidential information about you from:(1)information we receive from you on applications or other loan and account forms;(2)information about your transaction with us or others: and,(3)information we receive from third parties such as credit bureaus.
-
- **How Is It Used**
-
-EFFCU collects, retains, and use your information only for specific business purposes to provide you with quality products and services, to enhance the security of your account, process your records, improve our products and services, and comply with laws and regulations.
-
- **With Whom Is It Shared**
-
-EFFCU is permitted by law to disclose nonpublic personal information about you under certain circumstances such as to third parties to assist us in servicing your loan or account, to government entities in respect to subpoenas, and to credit reporting agencies. We do not disclose any nonpublic personal information about our members and former members to our affiliate and nonaffiliated third parties, except as permitted by law.
-
- **Confidentiality and Security**
-
-EFFCU restricts access to your personal and account information to those employees who need to know that information to provide products and services to you. EFFCU maintains physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
-
- **Internet**
-
-Visitors to EFFCU will remain anonymous. We do not collect personal identifying information about visitors to our site, except as described below.
-
-Our servers collect standard non-identifying information about our visitors to the site, such as date and time visited, IP address, city, state, and country. This information is used to compile standard statistics on site usage.
-
- **e-mail Communications**
-
-The Credit Union may use your e-mail address to send you important information relating to your account, to communicate with you to handle your request, and to inform you about other Credit Union products and services. Information you have provided to us will not be sold or transferred to other parties.  
+  * Applications and other forms you submit to us;
+  * Your transactions with us, our affiliates, or others;
+  * Representations made by you to us;
+  * Representations made by other people regarding an employment, credit or other relationship with you; and Consumer reporting agencies.
 
 
-Disclosure of information practices with regard  
-to children as required by the  
-Children's Online Privacy Protection Act
 
-Personal information such as the name, address, e-mail address, telephone number, social security number, persistent identifier, or combination of various identifying elements, of children under the age of thirteen is not collected by EFFCU. If a child elects to send an e-mail or other electronic request to EFFCU, EFFCU may respond to that e-mail or request. However, the e-mail address of the child will be deleted and no personal information will be collected, stored or disclosed.
+We may disclose all of the information that we collect, as described above.
 
- **Questions or comments about this site should be directed to:**  
-Eastern Financial Florida Credit Union  
-Marketing Services  
-P.O. Box 829514  
-South Florida, FL 33082-9514  
+We do not disclose any non-public personal information about our members to anyone, except as permitted by law.
 
+We may disclose information about you to the following types of third parties:
+
+Financial service providers, such as those that provide quality assurance, mortgage, securities, and insurance services. 
+
+We may disclose all of the information that we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect our members' privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of the information we provide. We do not permit these companies to sell or distribute to other third parties the information we provide to them.
+
+We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and state laws and regulations to guard your information.
+
+We recognize the need to provide additional privacy protections for children who visit our site. [Learn more about our privacy policy for children who are under the age of 13 by clicking here.](https://web.archive.org/web/20101121214727id_/http%3A//effcu.org/help/kids-privacypolicy.asp)
