@@ -1,16 +1,27 @@
-<!--The following is the downloaded HTML source of the crazytje.be privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605052503id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crazytje.be privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121052936id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-    <title>Privacy</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-    <link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">    <link rel="stylesheet" type="text/css" href="/css/style.css">    <link rel="stylesheet" type="text/css" href="/css/style.css">            <script type="text/javascript" src="/js/prototype.js"></script>    <script type="text/javascript" src="/js/javascript.js"></script>    
+    <title>Crazy's Manga</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link rel="stylesheet" type="text/css" href="/css/style_v5.0.10.css">
+<link rel="stylesheet" type="text/css" href="/css/style2.css">
+
+<script type="text/javascript" src="/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="/js/shoutbox.js"></script>
+    
     <link rel="alternate" type="application/rss+xml" title="Crazy's Manga RSS feed" href="http://crazytje.be/Latest/rss">
     <meta name="Author" content="Nico Van Laerebeke">
     <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
     <meta name="DC.identifier" content="http://crazymanga.be">
     <meta name="Keywords" content="manga, downloads, read, online, anime, mangas, animes, mnaga, magna, updates, update, releases, release, new, scanlators, scanlator, raw, raws">
     <meta name="Description" content="Crazy's Manga is your free source for direct downloads or reading your favorite manga on-line. Updated daily with the newest scanlations and raws.">
+    <script type="text/javascript">
+        //<![CDATA[
+            var baseUrl = 'http://crazytje.be/';
+        //]]>
+    </script>
     <script type="text/javascript">
         //<![CDATA[
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -104,16 +115,30 @@
     </div>
     <div class="centered" style="margin-bottom:5px;">
         Target This Month: <br> 
-	138
-/$350
+	50
+/350$ 
     </div>
     <div class="shoutbox">
-        <div id="shouts">        </div>        <div id="shout_form">
-            <form id="shoutboxform" onsubmit="event.returnValue = false; return false;" method="post" action="/Shoutbox/add">
+        <div id="shouts"></div>
+        <div id="shout_form">
+            <form id="shoutboxform" method="post" action="/Shoutbox/add">
                 <fieldset style="display: none;"><input name="_method" value="POST" type="hidden"></fieldset>
                 <script type="text/javascript">
                     //<![CDATA[
-                    Event.observe('shoutboxform', 'submit', function(event) { new Ajax.Updater('shouts','/Shoutbox/add', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {clear()}, parameters:Form.serialize('shoutboxform'), requestHeaders:['X-Update', 'shouts']}) }, false);
+                    $('#shoutboxform').submit(
+                        function() {
+                            $.ajax({
+                                type:"POST", 
+                                url: "/Shoutbox/add",
+                                data: $('#shoutboxform').serialize(),
+                                success: function(pResponse) {
+                                    $('#shouts').html(pResponse);
+                                    clear();
+                                }
+                            });
+                            return false;
+                        }
+                    );
                     //]]>
                 </script>
                                     <div style="margin-top:20px; font-size:1.1em; margin-bottom:15px;">
@@ -121,13 +146,23 @@
                     </div>
                 			</form>	</div>
 	</div>
-</div>
-<script type="text/javascript">
-new Ajax.Updater('shouts','/shoutbox/output', {asynchronous:true, evalScripts:true, requestHeaders:['X-Update', 'shouts']})</script>
-        </div>
+</div>        </div>
         <div id="center">
             <div>
     <h1 class="title">Crazy's Manga Privacy Policy</h1>
+    <div style="width:100%; text-align:center; padding:0px;">
+<!-- BEGIN RICH-MEDIA Burst Network CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad20027a.cgi/v=2.3S/sz=468x60A|728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad20027a.cgi/v=2.3S/sz=468x60A|728x90A/21098/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad20027a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad20027a.cgi/ns/v=2.3S/sz=468x60A|728x90A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Network CODE -->
+
+</div>
     <div class="default" style="margin-top:15px;">
         <div style="font-family:verdana">
             <h2 class="subtitle">What information do we collect?</h2> 
