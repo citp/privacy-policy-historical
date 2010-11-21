@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628145957id_/http%3A//www.gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121150552id_/http%3A//www.gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
