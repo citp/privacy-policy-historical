@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comantra.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619125236id_/http%3A//www.comantra.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comantra.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121020552id_/http%3A//comantra.net/privacy_policy.php) for the most accurate reproduction.*
 
 # www.co-mantra.net
 
