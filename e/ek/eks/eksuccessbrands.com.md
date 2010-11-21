@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eksuccessbrands.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505105910id_/http%3A//eksuccessbrands.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eksuccessbrands.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121204856id_/http%3A//eksuccessbrands.com/privacy.htm) for the most accurate reproduction.*
 
 # EKSuccess Brands™ | Privacy Policy
 
@@ -7,8 +7,17 @@ _At EKSuccess Brands, we are committed to protecting your privacy. We use the in
 **What do you do with my information?**  
 Simply put, we use your information to serve you better. EKSuccess Brands is committed to quality customer experience. For consumer who register with EKSuccess Brands, we may record which pages you visited and any other information volunteered during the registration process. **All of this information is kept confidential.** We never share, sell or exchange personal information about our customers with third parties. We collect this data to analyze how people use our site and to learn how we can improve their experience. We may also use the information we collect to notify you about important functionality changes to the Web site, new EKSuccess Brands services and special offers we think you'll find valuable. Personal information you provide to EKSuccess Brands is stored safely behind firewalls using state-of-the-art technology. For customers only browsing EKSuccess Brands, our site automatically recognizes your Internet service provider, but cannot identify you as an individual.
 
-**What are cookies and how are they used?**  
-To optimize your shopping experience we use a common Web browser feature called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. Some of them expire after a set period of time. Others expire as soon as you close your browser. Cookies help us keep track of items you order.
+**What are cookies and web beacons, and how are they used on the EK Success Brands site?**
+
+**1\. EK Success Brand’s use of web cookies  **
+
+To optimize your shopping experience we use a common Web browser feature called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. Some of them expire after a set period of time. Others expire as soon as you close your browser. Cookies help us keep track of items you order. 
+
+**2.  FetchBack’s use of web cookies and web beacons**
+
+We partner with FetchBack Inc. to serve third party ads and collect certain non-personally identifying information when you visit our website. The third party ads served by FetchBack will be reasonably identifiable as coming from a third party. FetchBack may use cookies (as defined above) or web beacons (which are small objects embedded in a web page) to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website to help show you third party advertisements likely to be more interesting to you. To learn more about this “behavioral advertising” practice, you can visit www.networkadvertising.org. 
+
+We do not have access to or control over web beacons or web cookies that FetchBack may use, and the information practices of FetchBack are not covered by this Privacy Policy but are covered by FetchBack’s privacy policy located at: http://www.FetchBack.com/privacy.html. FetchBack provides you with a mechanism to opt-out of its technology. Please review FetchBack’s privacy policy for more information about how to do so. 
 
 **Please take me off your mailing list.**  
 If, for any reason, you would like to be taken off our email list, email us at [cs@eksuccessbrands.com](mailto:cs@eksuccessbrands.com) and your email will be removed within 48 hours.
