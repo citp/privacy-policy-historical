@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickyellow.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529023804id_/http%3A//www.quickyellow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickyellow.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034809id_/http%3A//www.quickyellow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | QuickYellow.com
+# Privacy Policy | We Know Business | QuickYellow.com
 
 IDC Networks, Inc, the developers of QuickYellow.com and QuickYellow tools, understand and respect your concerns for privacy. The purpose of this Privacy Policy is to tell you what kind of information we may gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our goal is to provide you with a satisfying experience while allowing you to control your privacy and to give you a means to voice any questions or concerns you may have. By using our websites you are acknowledging and accepting this Privacy Policy.
 
@@ -35,6 +35,3 @@ IDC properties may contain links to third-party websites. IDC is not responsible
 ### Complaints about privacy
 
 If you have any complaints relating to online privacy issues on QuickYellow or any of our websites, please notify us at [privacy@idcnetworks.com](mailto:privacy@idcnetworks.com).
-
-  
-
