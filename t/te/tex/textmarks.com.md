@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524044340id_/http%3A//www.textmarks.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121232028id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
 
-# Send text messages - Broadcast bulk SMS API -{{ Privacy Policy }}- TextMarks - Shared short code
+# Privacy Policy | TextMarks | SMS and Text Alerts Made Easy | SMS API
 
 TextMarks is committed to protecting your privacy. This Privacy Policy governs TextMarks's treatment of information about users of its service (the "Service"). By registering for and using the Service, you agree to the terms of this Policy. This Privacy Policy does not apply to any goods or services controlled by third parties, even if those third parties are partners of TextMarks.   
-This Privacy Policy is available online at http://www.textmarks.com/info/privacy/. TextMarks reserves the right, in its sole discretion, to modify or change this Privacy Policy at any time with or without prior notice to you. You should visit the URL above to review the current Privacy Policy on a regular basis. The date of the last update will be posted at the top of this Privacy Policy for your convenience. Your continued use of the Service following the posting of any changes to the Privacy Policy constitutes your full acceptance of those changes.  
+This Privacy Policy is available online at http://www.textmarks.com/front/privacy/. TextMarks reserves the right, in its sole discretion, to modify or change this Privacy Policy at any time with or without prior notice to you. You should visit the URL above to review the current Privacy Policy on a regular basis. The date of the last update will be posted at the top of this Privacy Policy for your convenience. Your continued use of the Service following the posting of any changes to the Privacy Policy constitutes your full acceptance of those changes.  
 
 
 ### Information Collection and Use  
