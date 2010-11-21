@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstar.ca privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119035735id_/http%3A//www.morningstar.ca/globalhome/personalize/PrivacyPolicy.asp%3Flanguage%3DENG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.ca privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030022id_/http%3A//www.morningstar.ca/globalhome/personalize/PrivacyPolicy.asp%3Flanguage%3DENG) for the most accurate reproduction.*
 
 # Morningstar Canada - Privacy Policy
 
@@ -24,7 +24,7 @@ When you disable the use of cookies, some Morningstar product features may not w
 
 5\. Limiting Use, Disclosure, and Retention: Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with your consent or as required by the law. 
 
-During the registration process, you are given the opportunity to opt out of receiving communications from either Morningstar or other companies that Morningstar carefully selects. You can change this preference at any time by [editing your Personal Profile](https://web.archive.org/web/20091119035735id_/http%3A//www.morningstar.ca/globalhome/personalize/membership.asp) in the Membership section of the site or by calling our Client Relations department at 416-489-7074 or 1-800-531-4725. 
+During the registration process, you are given the opportunity to opt out of receiving communications from either Morningstar or other companies that Morningstar carefully selects. You can change this preference at any time by [editing your Personal Profile](https://web.archive.org/web/20101121030022id_/http%3A//www.morningstar.ca/globalhome/personalize/membership.asp) in the Membership section of the site or by calling our Client Relations department at 416-489-7074 or 1-800-531-4725. 
 
 6\. Accuracy: We will strive to keep personal information as accurate, complete, and up-to-date as is necessary for its intended use. 
 
@@ -34,7 +34,7 @@ Please note that Morningstar.ca as well as MorningstarAdvisor.ca (basic only) ar
 
 8\. Openness: If you require further information than that available through this Privacy Policy, please contact our Operations Manager at 416-484-7810 or 1-800-531-4725 x7810. 
 
-9\. Individual Access: Upon request, you shall be informed of the existence, use and disclosure of your personal information and shall be given access to that information. You shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. For our website products you can also change or edit any information you've provided in your registration and Personal Profile by visiting the [Personal Profile section](https://web.archive.org/web/20091119035735id_/http%3A//www.morningstar.ca/globalhome/personalize/membership.asp) of the Membership area. Since this information is password protected, you may be required to enter your email address and password to make any changes. For our desktop products please contact our Client Relations department at 416-489-7074 or 1-800-531-4725. 
+9\. Individual Access: Upon request, you shall be informed of the existence, use and disclosure of your personal information and shall be given access to that information. You shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. For our website products you can also change or edit any information you've provided in your registration and Personal Profile by visiting the [Personal Profile section](https://web.archive.org/web/20101121030022id_/http%3A//www.morningstar.ca/globalhome/personalize/membership.asp) of the Membership area. Since this information is password protected, you may be required to enter your email address and password to make any changes. For our desktop products please contact our Client Relations department at 416-489-7074 or 1-800-531-4725. 
 
 Every time we send you an e-mail communication, information on how to stop receiving e-mail from Morningstar is included. Please follow these instructions to stop specific emails from coming to you. 
 
