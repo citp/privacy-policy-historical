@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebategiant.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104004639id_/http%3A//www.rebategiant.com/local/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebategiant.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121192714id_/http%3A//www.rebategiant.com/local/privacy.aspx) for the most accurate reproduction.*
 
 # RebateGiant.com: Cash Back Rebates, Coupons and Discount Offers
 
@@ -46,6 +46,8 @@ We use your information solely for providing Services, and therefore, as a natur
 If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice if such a transaction results in your information being subject to a different privacy policy.
 
 We use cookies for such functions as verifying that you are one of our users and enabling the fulfillment of Services. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by us to gather broad demographic information, such as your general geographic location and internet service provider. IP addresses are further used to help determine the number of our users. This demographic information may also be used by us to analyze aggregate usage behavior.
+
+We may share aggregated non-personally identifiable information with third parties. Aggregate non-personally identifiable information is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. These companies collect information when users visit our Services. They may use this information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on the other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: http://www.networkadvertising.org/managing/opt_out.asp.
 
 We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to our databases and servers, which may contain personally identifying information about users. We will not provide your account information to any third party except as described in this Privacy Policy or with your consent. These parties are obliged to use the information according to our instructions and they are bound to this Privacy Policy and must apply appropriate confidentiality and security measures.
 
