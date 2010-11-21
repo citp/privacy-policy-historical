@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecowebhosting.co.uk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525222919id_/http%3A//www.ecowebhosting.co.uk/tandc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecowebhosting.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121210709id_/http%3A//ecowebhosting.co.uk/tandc/privacy) for the most accurate reproduction.*
 
 # Eco Web Hosting - Privacy Policy
 
@@ -17,13 +17,13 @@
 
 ## Web Hosting Control Panel
 
-\- Feature Rich  
-\- User Friendly  
+\- Feature-Rich  
+\- User-Friendly  
 \- [Try Demo](http://extendcp.com/demo.cgi?account=495058;)
 
 ## Money Back Guarantee
 
-\- 45 Day Refund  
+\- 45-Day Refund  
   Period  
 \- No Hassle  
 \- Full Refund  
@@ -31,17 +31,17 @@
 
 ## Massive Script Library
 
-\- 52+ FREE scripts  
-\- Instant script install  
+\- 52+ FREE Scripts  
+\- Instant Script Install  
 \- Easy Upgrades  
 \- Very Popular  
 
 
 ## Online Knowledgebase
 
-\- Full setup tutorials  
+\- Full Setup Tutorials  
 \- Comprehensive FAQs  
-\- Constant updates  
+\- Constant Updates  
 
 
   
