@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezpzhosting.co.uk privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316092829id_/http%3A//www.ezpzhosting.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezpzhosting.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121153240id_/http%3A//www.ezpzhosting.co.uk/privacy.html) for the most accurate reproduction.*
 
 # EZPZ Hosting - Privacy Policy
 
