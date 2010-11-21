@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkmobile.co.uk privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529044850id_/http%3A//www.talkmobile.co.uk/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkmobile.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121170643id_/http%3A//www.talkmobile.co.uk/help/privacy_policy.html) for the most accurate reproduction.*
 
 # Talkmobile : Privacy Policy
 
