@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627045055id_/http%3A//webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121074359id_/http%3A//webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
