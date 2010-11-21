@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508123939id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121192740id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
 
-# Roubini Global Economics - RGE Privacy Policy
+# Roubini Global Economics
 
 **Roubini Global Economics, LLC Privacy Notice**
 
@@ -12,7 +12,7 @@
 
 
 
-**Roubini Global Economics, LLC ("RGE")** provides this notice explaining our online information practices and the way your personal information is collected and used. If you do not agree with the practices explained in this policy, do not use the service, and if necessary, ask that your registration or subscription be cancelled. This policy applies only to information RGE collects from you in connection with your use of the Service. By using the Service, and by checking the box indicating agreement with the Terms of Use during registration, you agree to accept the practices and terms set forth in this Privacy Policy. Capitalized terms not defined in this policy shall have the meaning set forth in the [RGE Terms and Conditions](http://beta.roubini.com/terms-and-conditions.php).
+**Roubini Global Economics, LLC ("RGE")** provides this notice explaining our online information practices and the way your personal information is collected and used. If you do not agree with the practices explained in this policy, do not use the service, and if necessary, ask that your registration or subscription be cancelled. This policy applies only to information RGE collects from you in connection with your use of the Service. By using the Service, and by checking the box indicating agreement with the Terms of Use during registration, you agree to accept the practices and terms set forth in this Privacy Policy. Capitalized terms not defined in this policy shall have the meaning set forth in the [RGE Terms and Conditions](http://www.roubini.com/terms-and-conditions.php).
 
 **1\. Children**
 
