@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616023256id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102005id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Naruto Shippuden Episodes 165 Online Subbed and Dubbed Streaming
+# Privacy Policy | Watch Naruto Shippuden Episodes 187 Online Subbed and Dubbed Streaming
 
 Narutospot is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.  
 
@@ -18,7 +18,7 @@ All personal data you enter on Narutospot is stored on our secure server protect
 
 **How we use “cookies”**
 
-“Cookies” are small pieces of information that some Web sites store on your computer’s hard drive when you visit them. Like many other Web sites, Advanced Anime uses cookies to identify members so they don’t have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.  
+“Cookies” are small pieces of information that some Web sites store on your computer’s hard drive when you visit them. Like many other Web sites, Narutospot uses cookies to identify members so they don’t have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.  
 
 
 **What we provide to third parties**
