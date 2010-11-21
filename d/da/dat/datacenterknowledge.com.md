@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628005411id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121135959id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Data Center Knowledge
 
-* ## [Privacy Policy](http://www.datacenterknowledge.com/privacy-policy/ "Privacy Policy")
+  * ## [Privacy Policy](http://www.datacenterknowledge.com/privacy-policy/ "Privacy Policy")
 
 _November 12th, 2008 : Rich Miller_
 
@@ -38,11 +38,9 @@ By subscribing to Data Center Knowledge you implicitly give us permission to sha
 
 The necessary disclosure of any of the above information to third parties will be governed by the following principles:
 
-  * 1\. Where Data Center Knowledge is required to do so by law and any order of the court.
-  * 2\. Where Data Center Knowledge intends to co-operate with the investigation of any alleged unlawful activities without being required to by virtue of any court order or other legal requirement.
-  * 3\. Where it is necessary to protect the rights of Data Center Knowledge, its employees or members.
-
-
+    * 1\. Where Data Center Knowledge is required to do so by law and any order of the court.
+    * 2\. Where Data Center Knowledge intends to co-operate with the investigation of any alleged unlawful activities without being required to by virtue of any court order or other legal requirement.
+    * 3\. Where it is necessary to protect the rights of Data Center Knowledge, its employees or members.
 
 **Newsletters**
 
@@ -71,3 +69,6 @@ Data Center Knowledge reserves the right to transfer any information accumulated
 **Privacy Policy Changes**
 
 This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page. If there is a significant change, we will indicate it on our sites and provide a link to the new policy.
+
+
+
