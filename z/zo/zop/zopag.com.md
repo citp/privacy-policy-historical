@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zopag.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004155931id_/http%3A//www.zopag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopag.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121033230id_/http%3A//www.zopag.com/privacy.php) for the most accurate reproduction.*
 
-# zopag.com Privacy Policy
+# Privacy - Updated breaking news India - Zopag
 
 Zopag.com is a subsidiary of Growvision Networks Pvt. Ltd. Zopag is located at www.zopag.com. It deals with news, live breaking news, photos, live discussion forums etc. 
 
