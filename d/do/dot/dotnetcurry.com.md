@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetcurry.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211225300id_/http%3A//www.dotnetcurry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetcurry.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121161715id_/http%3A//dotnetcurry.com/%28S%28nywoijfdemfbbzq1bdimzlex%29%29/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # .NET Curry - Privacy Policy
 
