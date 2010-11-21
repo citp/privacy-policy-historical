@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transfermarkt.co.uk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525104005id_/http%3A//www.transfermarkt.co.uk/en/information/datenschutz/intern.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfermarkt.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121105845id_/http%3A//www.transfermarkt.co.uk/en/information/datenschutz/intern.html) for the most accurate reproduction.*
 
 # Intern - Data protection - transfermarkt.co.uk
 
