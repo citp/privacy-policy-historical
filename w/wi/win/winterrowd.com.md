@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608025739id_/http%3A//www.winterrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121055850id_/http%3A//www.winterrowd.com/privacy) for the most accurate reproduction.*
 
-# Winterrowd World - Games
+# Winterrowd World - Privacy
 
   * Winterrowd Solutions is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Winterrowd Solutions Web site and governs data collection and usage. By using the Winterrowd Solutions website, you consent to the data practices described in this statement.
 
