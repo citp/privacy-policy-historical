@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downrightnow.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610103651id_/http%3A//downrightnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downrightnow.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121214958id_/http%3A//downrightnow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - downrightnow
 
@@ -50,6 +50,16 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 downrightnow uses cookies to store information about visitors' preferences, record user-specific information about which pages a user accesses or visits, and to customize web page content based on a visitor's browser type or other information provided by a visitor's web browser. 
 
+#### Third-Party Advertising Services
+
+Google AdSense and other advertising partners may use cookies and web beacons on our site. Third-party ad servers or ad networks use technology to display the advertisements and links that appear on downrightnow. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. 
+
+downrightnow has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. downrightnow's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+#### Google/DoubleClick DART Cookie
+
+Google, as a third party vendor, may use cookies to serve ads on downrightnow. Google's use of the DART cookie enables it to serve ads to users based on visits to downrightnow and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+
 If you require more information or have questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact) for further assistance. 
 
-Last updated Tue, July 21, 2009 12:00 AM EDT
+Last updated Mon, June 28, 2010 12:00 AM EDT
