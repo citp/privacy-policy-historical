@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403073230id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121215818id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy — Established Men
 
@@ -42,7 +42,7 @@ Under some circumstances we may require certain additional information, includin
 
 ### Trusted Third-Parties
 
-Unless you opt out, we may share PII about our users sometimes in connection with Non-PII with service providers that may be associated with us to perform functions on our behalf. In addition, unless you opt out, from time to time we may share and/or sell PII about our users (such as your mailing or email addresses) with selected third parties, so they can offer goods and services that we believe may be of interest or benefit to our users. If you prefer not to receive messages from these third parties you may notify us by opting out at any time by going to the "Manage Profile" or "Message Center" sections of your Ad Profile as described more fully below.
+Unless you opt out, we may share PII about our users sometimes in connection with Non-PII with service providers that may be associated with us to perform functions on our behalf. In addition, unless you opt out, from time to time we may share and/or sell PII about our users (such as your mailing or email addresses) with selected third parties, so they can offer goods and services that we believe may be of interest or benefit to our users. If you prefer not to receive messages from these third parties you may notify us by opting out at any time by going to the "Account Settings" section of your Ad Profile as described more fully below.
 
 ### Legal Request
 
@@ -62,9 +62,9 @@ We keep the information you have given us for at least as long as your Ad Profil
 
 ### Accessing and updating your email notification preferences, personal information and public information
 
-You have the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide information visible to the public users of the Website at anytime by going to the 'Manage Profile' or 'Message Center' sections on your Ad Profile.
+You have the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide information visible to the public users of the Website at anytime by going to the 'Account Settings' section on your Ad Profile.
 
-Please be aware that it may take several hours for any custom changes you make to take effect on the public areas of the system. Please also note that changing or deleting your information through the 'Manage Profile' or 'Message Center' section of the system, or opting-out of email notifications from us, will only change or delete the data in our database for the purpose of future activities and communications. These changes and deletions will not change or delete information or emails that are queued to be sent or have already been sent.
+Please be aware that it may take several hours for any custom changes you make to take effect on the public areas of the system. Please also note that changing or deleting your information through the 'Account Settings' section of the system, or opting-out of email notifications from us, will only change or delete the data in our database for the purpose of future activities and communications. These changes and deletions will not change or delete information or emails that are queued to be sent or have already been sent.
 
 ### Unsolicited Contact (SPAM)
 
