@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125152814id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121140738id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,21 +85,21 @@ If you would like to correct and/or update your information, please [contact us]
 
 [Prev: **"Contact Stylus Studio"**](https://web.archive.org/xml_contact.html "Contact Stylus Studio") [Next: **"Stylus Studio EULA"**](https://web.archive.org/eula.html "Stylus Studio End User Product License Agreement")
 
-### [Airlines, Aerospace and Defense](http://www.stylusstudio.com/customers/Air_Defense.html)
+### [Biotechnology & Pharmaceuticals](http://www.stylusstudio.com/customers/BioPharm.html)
 
-Want to know what airlines, aerospace and defense companies are soaring high with Stylus Studio 2006? Well now you can! Come check out these leading companies and soar with Stylus Studio 2006 yourself.
+Leading biotechnology & pharmaceuticals companies take Stylus Studio when they are feeling under the weather. Come see for yourself how Stylus Studio can be a pick me up for your biotechnology or pharmaceutical company.
 
-### [XQuery Integration](http://www.stylusstudio.com/xquery_integration.html)
+### [XQuery and Web Services](http://www.stylusstudio.com/videos/ws-xquery1/ws-xquery1.html)
 
-Learn how new XQuery technologies can simplify legacy data integration by leveraging industry standards, proven open-source XML processing components, and Stylus Studio's integrated XQuery & XML tools.
+XQuery provides a flexible means for data abstraction, while Web services provide process abstraction. In this online video demonstration, learn how integrated XQuery & Web service tools simplify development of XQuery-based Web service applications.
 
-### [XQuery Documentation Generator](http://www.stylusstudio.com/xquery/xqdoc.html)
+### [Using DataDirect XML Converters](http://www.stylusstudio.com/videos/deployment1/deployment1.html)
 
-Stylus Studio provides integrated support for xqDoc so you can generate XQuery documentation directly from the XQuery editor.
+Learn how to use DataDirect XML Converters and the Stylus Studio Java Code Generator to deploy the XQuery applications you build in Stylus Studio to a live server environment.
 
-### [XML Code Folding](http://www.stylusstudio.com/xml_code_folding.html)
+### [MySQL XML Tools](http://www.stylusstudio.com/mysql.html)
 
-Stylus Studio's XML Editor features XML code folding, a powerful and intuitive way to maximize limited screen real-estate and help make sense of large XML files.
+The MySQL tools in Stylus Studio simplify XML related development tasks for working with MySQL and XML. 
 
 #### [Stylus Most Wanted](https://web.archive.org/advertise.html)
 
