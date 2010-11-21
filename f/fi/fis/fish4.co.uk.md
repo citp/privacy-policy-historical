@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418061348id_/http%3A//www.fish4.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121185409id_/http%3A//www.fish4.co.uk/info/privacy) for the most accurate reproduction.*
 
 # fish4
 
@@ -16,7 +16,7 @@ fish4 trading limited, together with its fish4 Affiliates (defined at Clause 9 b
 
 **2.4** We also monitor traffic patterns and usage of our Web Site to help us improve our Web Site design and layout. We may pass this information to our partners or other third parties but it will not contain any personally identifying information. 
 
-**2.5** fish4 may want to contact you to notify you of news about fish4, changes to the Web Site, special events or new services or products that we think may interest you or fish4 may use your details and information to communicate to you offers for services or goods from other companies within the fish4 group or other companies which we think may be of interest to you. However, fish4 will not contact you for these purposes unless you authorise us to do so by either ticking the relevant boxes (i.e. during registration on the Web Site) to authorise fish4 to make such contact or you provide such authorisation in writing to fish4 or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by fish4 (or the third parties described above) to receive such information, please send an email to [privacy@fish4.co.uk](mailto:privacy@fish4.co.uk) with an explanation that you no longer wish to receive such information or in the event that you have received a communication containing such information, please click on the "deactivate" link set out in that communication. In those circumstances, fish4 will not contact you again in relation to the information described above in this paragraph 2.5. However, fish4 and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered. 
+**2.5** fish4 may want to contact you to notify you of offers and service updates, hints and tips, newsletters, special events and helpful information we think may interest you. Fish4 may use your details and information to communicate to you offers for services or goods from other companies within the fish4 group or other companies which we think may be of interest to you. If you would rather not be contacted by fish4 (or the third parties described above) to receive such information, please click on the "deactivate" link set out in that communication. In those circumstances, fish4 will not contact you again in relation to the information described above in this paragraph. 2.5 However, fish4 and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered. 
 
 **2.6** If you want to update any of your information held by fish4, you can either make certain changes on-line (by clicking on "change details" while you are logged in) or you can send an email detailing the required amendments to [privacy@fish4.co.uk](mailto:privacy@fish4.co.uk). 
 
@@ -71,6 +71,12 @@ We reserve the right to add to or change the terms of this Privacy Policy in our
 * **General**
 
 In this privacy policy, "fish4 Affiliates" shall mean any subsidiary or holding company of fish4, or any subsidiary of fish4 Ltd, the holding company of fish4, all as defined by Section 736 of the Companies Act 1985, as amended by the Companies Act 1989, and shall include: fish4jobs limited (Company Number 03961754); fish4cars limited (Company Number 03955815); and fish4homes limited (Company Number: 03943230). "fish4 Affiliate" shall mean one of the fish4 Affiliates, as applicable. 
+
+* **Contains Ordnance Survey data © Crown copyright and database right 2010.**
+  
+
+* **Contains Royal Mail data © Royal Mail copyright and database right 2010.**
+  
 
 * **Feedback**
 
