@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yappi.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620194038id_/http%3A//www.yappi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yappi.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121232128id_/http%3A//www.yappi.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@ Your browser has the ability to use so-called "cookies" which, unless you disabl
 
 Our message boards ask posters for an email address, demographic, and profile data. The customer's contact information is used to contact the visitor only when necessary. Users may opt-out of receiving future mailings. No information is sold to outside parties.
 
-Banner ads displayed through advertising brokers on our pages may elect to use cookies to prevent the same ad being displayed too many times to the same user, or to identify Yappi.com as the site responsible for a "click-through" for an advertiser. However, cookies can not reveal any personal information about you. None of this information is available to Yappi.com, and therefore is not sold to outside parties.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 This site contains links to other sites. Yappi.com is not responsible for the privacy practices or the content of other web sites that are not under our control.
 
