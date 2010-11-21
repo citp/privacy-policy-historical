@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cathlawson.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523045119id_/http%3A//cathlawson.com/about-me-updated/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathlawson.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121062632id_/http%3A//cathlawson.com/about-me-updated/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Catherine Lawson
+# Privacy Policy | Catherine Lawson
 
 This privacy policy sets out how Cath Lawson uses and protects any information that you give Cath Lawson when you use this website.
 
