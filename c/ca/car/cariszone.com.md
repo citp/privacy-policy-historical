@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cariszone.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105185231id_/http%3A//www.cariszone.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cariszone.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121190132id_/http%3A//www.cariszone.com/policy.html) for the most accurate reproduction.*
 
-# Caribbean Shopping Zone, Online Shopping for your every need, Books, Movies, Music, Video Games, Electroincs, Groceries, Home & Garden, Health & Beauty and much more.
+# cariszone.com | Privacy Policy
 
 Cariszone.com Privacy Policy
 
