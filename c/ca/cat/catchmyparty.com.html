@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the catchmyparty.com privacy policy that was archived on 2010-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531073410id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchmyparty.com privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121231708id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" style="display: block;"><head>
 
   <title>Catch My Party  - Privacy Policy</title>
   <meta name="keywords" content="share photos, share pictures,  Weddings, Sweet 16, Birthdays, Quinceañeras, Baby Showers, Wedding Showers, Bat Mitzvahs, Bridal Showers, Bachlorette Parties">
@@ -9,14 +9,16 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="SHORTCUT ICON" href="/favicon.ico">
   <link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+  <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/parties/rss.rxml" /> -->
   
     
-      <link href="/stylesheets/master.css?1273873634" media="screen" rel="stylesheet" type="text/css">
+	  <link href="/stylesheets/style-20101118.css?1290158531" media="screen" rel="stylesheet" type="text/css">
+      <link href="/stylesheets/master-20101117.css?1290065020" media="screen" rel="stylesheet" type="text/css">
       
     
 
 
-<script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
+</head>
 <body>
 
 <div id="container">
@@ -27,7 +29,9 @@
     <ul id="login">
       <li class="user"><a href="/login">Login</a></li>
       <li class="signup"><a href="/signup">Join</a></li>
-      <li class="facebook-signin"><fb:login-button length="short" onlogin="window.location = &quot;/login_facebook&quot;;" size="medium"></fb:login-button></li>
+      <li class="facebook-signin">
+ 		<fb:login-button onlogin="window.location=&quot;/oauth/start&quot;" size="medium" perms="email"></fb:login-button>
+      </li>
     </ul>
     
 
@@ -40,14 +44,20 @@
         <li id="blog-tab"><a href="http://blog.catchmyparty.com/">Our Blog</a></li>
       </ul>
 
-<form action="/parties/search" id="top-search" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="0PZBwE72C6rmKYVlI8kMTmQ6nbUMwbBZaP0wnPC8MYc="></div>
+<form action="/parties/browse" id="top-search" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="08uz1ACWTtBss3y1L4R5lt4iRsVytGheiU4z6stdKSI="></div>
+		<input type="hidden" name="party_type" value="all">
+		<input type="hidden" name="theme_type" value="all">
         <input type="text" name="keywords" value="Search" maxlength="" class="search-input" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';">
-        <input type="image" src="/images/search-go.gif">
+        <input type="image" src="/images/search-go.png">
 </form>
 
     </div>
   </div>
-     
+
+
+
+
+
     <div id="content">
 <div class="left">
 		<div class="content-main">
@@ -71,7 +81,7 @@
 </p>
 <p class="statictext">
   If you have any questions about our privacy policy, please email us at
-  <script type="text/javascript" language="javascript">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
 // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
@@ -299,11 +309,11 @@ google_ui_features  = 'rc:6';
 </div>
 
 </div>
-    
+
     <div id="footer">
-      
+
       <ul>
-        <li><a href="/about">About Us</a></li>
+        <li><a href="/about">About</a></li>
         <li><a href="/faq">FAQ</a></li>
         <li><a href="/contact">Contact</a></li>
         <li><a href="/privacy">Privacy</a></li>
@@ -318,76 +328,45 @@ google_ui_features  = 'rc:6';
     </div><!-- /footer -->
 </div>
 
-
-
 <script src="/javascripts/application.js?1241394167" type="text/javascript"></script>
 <script src="/javascripts/jquery-1.4.2.min.js?1273567646" type="text/javascript"></script>
 
 
+	<div id="fb-root"></div>
+	
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+	<script>
+		FB.init({appId: '74290544256' , status: true, cookie: true, xfbml: true});
+	</script>
 
-    <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-    <script type="text/javascript">
-//<![CDATA[
-             $(document).ready( function() {
-                FB_RequireFeatures(["XFBML"], function() {
-                  FB.init('afbf78c151062a99995b7f95f18a0e0c','/xd_receiver.html', {});
-                  
-                });
-              });
 
-//]]>
+
+
+
+
+
+<!-- Correct fb_xd_fragment Bug Start --> 
+<script> 
+document.getElementsByTagName('html')[0].style.display='block';
+</script> 
+<!-- Correct fb_xd_fragment Bug End -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10453109-1']);
+  _gaq.push(['_setDomainName', '.catchmyparty.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-var uservoiceOptions = {
-  key: 'catchmyparty',
-  host: 'catchmyparty.uservoice.com', 
-  forum: '53742',
-  showTab: true,  
-  alignment: 'right',
-  background_color:'#79288C', 
-  text_color: 'white',
-  hover_color: '#F25BB4',
-  lang: 'en'
-};
-
-function _loadUserVoice() {
-  var s = document.createElement('script');
-  s.setAttribute('type', 'text/javascript');
-  s.setAttribute('src', ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js");
-  document.getElementsByTagName('head')[0].appendChild(s);
-}
-_loadSuper = window.onload;
-window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
-</script>
-
-
-
-
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-  try {
-    var pageTracker = _gat._getTracker("UA-10453109-1");
-    pageTracker._trackPageview();
-  } catch(err) {}
-</script>
 
 
 
