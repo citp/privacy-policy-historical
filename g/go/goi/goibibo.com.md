@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628183006id_/http%3A//goibibo.ibibo.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121172026id_/http%3A//goibibo.ibibo.com/common/privacy) for the most accurate reproduction.*
 
 # 
 
