@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianviral.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522214800id_/http%3A//www.indianviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianviral.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102834id_/http%3A//www.indianviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
