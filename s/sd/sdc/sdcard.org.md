@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdcard.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522101342id_/http%3A//www.sdcard.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdcard.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035119id_/http%3A//www.sdcard.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - SD Association
 
