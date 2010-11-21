@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveoutthere.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217075113id_/http%3A//www.liveoutthere.com/store/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoutthere.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034614id_/http%3A//www.liveoutthere.com/store/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Live Out There
 
 ## Privacy
 
@@ -21,5 +21,3 @@ LiveOutThere.com requires that you transmit your name, address, e-mail address a
 ### Reservations
 
 LiveOutThere.com reserves the right to modify this policy at any time. LiveOutThere.com also reserves the right to transmit personal information about you to the extent LiveOutThere.com must do so under the law or so as to protect the copyright of the site or those of its users, partners, advertisers or suppliers.
-
- 
