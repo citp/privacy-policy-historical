@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linerider.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609052923id_/http%3A//www.linerider.com/terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linerider.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034623id_/http%3A//www.linerider.com/terms.aspx) for the most accurate reproduction.*
 
 # Line Rider
 
