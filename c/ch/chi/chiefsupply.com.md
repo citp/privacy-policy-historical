@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213523id_/http%3A//www.chiefsupply.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121161856id_/http%3A//www.chiefsupply.com/privacy.asp) for the most accurate reproduction.*
 
 # CHIEF'S Privacy & Security Policy
 
-  * [Home](https://web.archive.org/web/20100522213523id_/http%3A//www.chiefsupply.com/home.asp) »
-  * [Company Info](https://web.archive.org/web/20100522213523id_/http%3A//www.chiefsupply.com/chiefinfo.asp) »
+  * [Home](https://web.archive.org/web/20101121161856id_/http%3A//www.chiefsupply.com/home.asp) »
+  * [Company Info](https://web.archive.org/web/20101121161856id_/http%3A//www.chiefsupply.com/chiefinfo.asp) »
   * CHIEF'S Privacy & Security Policy
 
 
@@ -20,7 +20,7 @@
 
 
 
-#### If at any time you have a complaint or concern about CHIEF, please [contact us](https://web.archive.org/web/20100522213523id_/http%3A//www.chiefsupply.com/contactus.asp).
+#### If at any time you have a complaint or concern about CHIEF, please [contact us](https://web.archive.org/web/20101121161856id_/http%3A//www.chiefsupply.com/contactus.asp).
 
 ### Contact Information
 
@@ -35,7 +35,7 @@ Our postal addresses are:
 >  Suite 100 / Mailbox 26  
 >  Eugene, OR 97401 
 
-We can be reached via email at [this address](https://web.archive.org/web/20100522213523id_/http%3A//www.chiefsupply.com/contactus.asp) or you can reach us by telephone at (888) 588-8569 from 8 a.m. - 7 p.m. E.T., Mon. - Fri.. 
+We can be reached via email at [this address](https://web.archive.org/web/20101121161856id_/http%3A//www.chiefsupply.com/contactus.asp) or you can reach us by telephone at (888) 588-8569 from 8 a.m. - 7 p.m. E.T., Mon. - Fri.. 
 
 ## Full Details & Required Legal Speak
 
@@ -45,7 +45,7 @@ We can be reached via email at [this address](https://web.archive.org/web/201005
 
 
 
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For more information, see [How We Protect You & Prevent Credit Card Fraud](https://web.archive.org/web/20100522213523id_/http%3A//www.chiefsupply.com/fraud-prevention.asp).
+We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For more information, see [How We Protect You & Prevent Credit Card Fraud](https://web.archive.org/web/20101121161856id_/http%3A//www.chiefsupply.com/fraud-prevention.asp).
 
 ### What We Track & What We Don't Track
 
