@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyloop.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418021026id_/http%3A//us.cyloop.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyloop.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121055138id_/http%3A//www.cyloop.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -270,7 +270,7 @@ Attention: President
 Hoodiny Entertainment Group, LLC   
 555 Washington Ave., Suite 340   
 Miami Beach, FL 33139   
-[privacy@hoodiny.com](mailto:us.cyloop.com@hoodiny.com?subject=privacy_policy)
+[privacy@hoodiny.com](mailto:www.cyloop.com@hoodiny.com?subject=privacy_policy)
 
   
 
