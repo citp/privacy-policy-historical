@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522181457id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.steves-digicams.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030947id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.steves-digicams.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
