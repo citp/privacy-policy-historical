@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichevolumes.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516205423id_/http%3A//www.nichevolumes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichevolumes.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121101406id_/http%3A//www.nichevolumes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Niche Volumes
 
