@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crushspot.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003749id_/http%3A//crushspot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushspot.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121125713id_/http%3A//crushspot.com/privacy.php) for the most accurate reproduction.*
 
 # CrushSpot :: Privacy Policy
 
