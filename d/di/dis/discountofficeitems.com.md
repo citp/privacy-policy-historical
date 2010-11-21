@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411041015id_/http%3A//www.discountofficeitems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121163559id_/http%3A//www.discountofficeitems.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Discount Office Items
+# Privacy Policy
 
 ## We track IP Addresses.
 
@@ -8,11 +8,11 @@ Your IP address is used to help diagnose problems with our server, and to admini
 
 ## This site may contain links to other sites.
 
-Discount Office Items is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below your information is never shared with other companies.
+DiscountOfficeItems.com is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below your information is never shared with other companies.
 
 ## This site requires Unique Identifiers.
 
-This site uses an order form for customers to request information, products, and services, it also collects visitor's contact information (like their email address), in some circumstances their unique identifiers (like their pets name, or mothers maiden name), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future informational mailings; see the choice/opt-out section below, users may NOT opt out of receiving order notifications, or other contacts which are deemed essential by Discount Office Items.
+This site uses an order form for customers to request information, products, and services, it also collects visitor's contact information (like their email address), in some circumstances their unique identifiers (like their pets name, or mothers maiden name), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future informational mailings; see the choice/opt-out section below, users may NOT opt out of receiving order notifications, or other contacts which are deemed essential by DiscountOfficeItems.com.
 
 ## This site collects Financial Information.
 
@@ -20,7 +20,7 @@ Financial information that is collected is used to bill the customer for product
 
 ## This site may contain Surveys.
 
-Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. This site may also run contests in which case we may ask visitors for contact information (like their email address). Generally this information is used to verify eligibility, however we may also use contact data from our contests to send users information about Discount Office Items. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services.
+Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. This site may also run contests in which case we may ask visitors for contact information (like their email address). Generally this information is used to verify eligibility, however we may also use contact data from our contests to send users information about DiscountOfficeItems.com. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services.
 
 ## About our System Security.
 
@@ -50,4 +50,4 @@ If at any point you do not feel comfortable ordering on the web or simply need m
 
 We will not sell, trade, or in any way allow any other company to receive your email address. Your email address is simply a way for us to provide a better shopping experience to the customers we do business with. When you provide a valid email address to us at the time of the sale or when signing up for our optional mailing list it allows us to keep you updated on your order status, problems with your order, or contacting you for more information as it relates to your order. When you checkout you may also signup for our optional mailing list. We occasionally will send promotional newsletters to customers that opt in to receive our specials. You may opt out at any time you wish simply by logging into your account and changing your preferences.
 
-Please be sure to add sales@discountofficeitems.com to your email address book so you may continue receiving emails from Discount Office Items.
+Please be sure to add sales@discountofficeitems.com to your email address book so you may continue receiving emails from DiscountOfficeItems.com.
