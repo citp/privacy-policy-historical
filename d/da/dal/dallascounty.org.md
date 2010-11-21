@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202539id_/http%3A//dallascounty.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121151056id_/http%3A//www.dallascounty.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Dallas County
 
