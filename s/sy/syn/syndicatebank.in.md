@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syndicatebank.in privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427214414id_/http%3A//www.syndicatebank.in/scripts/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndicatebank.in privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121225355id_/http%3A//www.syndicatebank.in/scripts/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Welcome to Syndicate Bank
 
