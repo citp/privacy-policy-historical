@@ -1,658 +1,1244 @@
-<!--The following is the downloaded HTML source of the directspace.net privacy policy that was archived on 2010-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611213021id_/http%3A//www.directspace.net/privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directspace.net privacy policy that was archived on 2010-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121093723id_/http%3A//directspace.net/privacy_statement.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 	<link href="style.css" type="text/css" rel="stylesheet">
+
 	<title>DirectSpace Networks | Dedicated Servers, Colocation and VPS Services</title>
+
 	
+
 	<meta name="description" content="Web Hosting and Dedicated Servers with 100 Mbps Link and Unmetered Bandwidth. Shared Web hosting, colocation, web host"> 
+
 	<meta name="keywords" content="windows web hosting,web hosting,dedicated servers,cheap dedicated servers,dedicated server,100 Mbps Link,Unmetered Bandwidth,shared web hosting,colocation,dell servers,fast,reliable,24 hour support">
+
 	
+
 	<link rel="shortcut icon" href="http://directspace.net/images/favicon.ico">
+
 	<link rel="icon" href="http://directspace.net/images/animated_favicon1.gif" type="image/gif">
+
 	
+
 	<script language="javascript" type="text/javascript">
+
 		<!--
+
 		/****************************************************
+
 		Author: Eric King
+
 		Url: http://redrival.com/eak/index.shtml
+
 		This script is free to use as long as this info is left in
+
 		Featured on Dynamic Drive script library (http://www.dynamicdrive.com)
+
 		****************************************************/
+
 		function openNewWindow(URLtoOpen, windowName, windowFeatures) {         
+
 			newWindow=window.open(URLtoOpen, windowName, windowFeatures);     
+
 		}
+
+
 
 		var win=null;
+
 		function NewWindow(mypage,myname,w,h,scroll,pos){
+
 			if(pos=="random")
+
 			{
+
 				LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;
+
 				TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;
+
 			}
+
 			if(pos=="center")
+
 			{
+
 				LeftPosition=(screen.width)?(screen.width-w)/2:100;
+
 				TopPosition=(screen.height)?(screen.height-h)/2:100;
+
 			}
+
 			else if((pos!="center" && pos!="random") || pos==null)
+
 			{
+
 				LeftPosition=0;
+
 				TopPosition=20;
+
 			}
+
 			settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=yes,menubar=no,toolbar=no,resizable=no';
+
 			win=window.open(mypage,myname,settings);}
+
 		// -->
+
 	</script>
+
+
 
 	<script type="text/javascript">
+
 		/***********************************************
+
 		* Ultimate Fade-In Slideshow (v1.5): © Dynamic Drive (http://www.dynamicdrive.com)
+
 		* This notice MUST stay intact for legal use
+
 		* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+
 		***********************************************/
+
 		
+
 		var fadeimages=new Array()
+
 		//SET IMAGE PATHS. Extend or contract array as needed
+
 		fadeimages[0]=["images/customer1.jpg", "", ""] //plain image syntax
+
 		fadeimages[1]=["images/customer2.gif", "", ""] //image with link syntax
+
 		
+
 		var fadebgcolor="white"
+
 		
+
 		////NO need to edit beyond here/////////////
+
 		
+
 		var fadearray=new Array() //array to cache fadeshow instances
+
 		var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+
 		
+
 		var dom=(document.getElementById) //modern dom browsers
+
 		var iebrowser=document.all
+
 		
+
 		function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+
 		this.pausecheck=pause
+
 		this.mouseovercheck=0
+
 		this.delay=delay
+
 		this.degree=10 //initial opacity degree (10%)
+
 		this.curimageindex=0
+
 		this.nextimageindex=1
+
 		fadearray[fadearray.length]=this
+
 		this.slideshowid=fadearray.length-1
+
 		this.canvasbase="canvas"+this.slideshowid
+
 		this.curcanvas=this.canvasbase+"_0"
+
 		if (typeof displayorder!="undefined")
+
 		theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+
 		this.theimages=theimages
+
 		this.imageborder=parseInt(borderwidth)
+
 		this.postimages=new Array() //preload images
+
 		for (p=0;p<theimages.length;p++){
+
 		this.postimages[p]=new Image()
+
 		this.postimages[p].src=theimages[p][0]
+
 		}
+
 		
+
 		var fadewidth=fadewidth+this.imageborder*2
+
 		var fadeheight=fadeheight+this.imageborder*2
+
 		
+
 		if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+
 		document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);-moz-opacity:10;-khtml-opacity:10;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);-moz-opacity:10;background-color:'+fadebgcolor+'"></div></div>')
+
 		else
+
 		document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+
 		
+
 		if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+
 		this.startit()
+
 		else{
+
 		this.curimageindex++
+
 		setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+
 		}
+
 		}
+
 		
+
 		function fadepic(obj){
+
 		if (obj.degree<100){
+
 		obj.degree+=10
+
 		if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+
 		if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+
 		obj.tempobj.filters[0].opacity=obj.degree
+
 		else //else if IE5.5-
+
 		obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+
 		}
+
 		else if (obj.tempobj.style.MozOpacity)
+
 		obj.tempobj.style.MozOpacity=obj.degree/101
+
 		else if (obj.tempobj.style.KhtmlOpacity)
+
 		obj.tempobj.style.KhtmlOpacity=obj.degree/100
+
 		}
+
 		else{
+
 		clearInterval(fadeclear[obj.slideshowid])
+
 		obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+
 		obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+
 		obj.populateslide(obj.tempobj, obj.nextimageindex)
+
 		obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+
 		setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+
 		}
+
 		}
+
 		
+
 		fadeshow.prototype.populateslide=function(picobj, picindex){
+
 		var slideHTML=""
+
 		if (this.theimages[picindex][1]!="") //if associated link exists for image
+
 		slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+
 		slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+
 		if (this.theimages[picindex][1]!="") //if associated link exists for image
+
 		slideHTML+='</a>'
+
 		picobj.innerHTML=slideHTML
+
 		}
+
 		
+
 		
+
 		fadeshow.prototype.rotateimage=function(){
+
 		if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+
 		var cacheobj=this
+
 		if (this.mouseovercheck==1)
+
 		setTimeout(function(){cacheobj.rotateimage()}, 100)
+
 		else if (iebrowser&&dom||dom){
+
 		this.resetit()
+
 		var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+
 		crossobj.style.zIndex++
+
 		fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+
 		this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+
 		}
+
 		else{
+
 		var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+
 		ns4imgobj.src=this.postimages[this.curimageindex].src
+
 		}
+
 		this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+
 		}
+
 		
+
 		fadeshow.prototype.resetit=function(){
+
 		this.degree=10
+
 		var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+
 		if (crossobj.filters&&crossobj.filters[0]){
+
 		if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+
 		crossobj.filters(0).opacity=this.degree
+
 		else //else if IE5.5-
+
 		crossobj.style.filter="alpha(opacity="+this.degree+")"
+
 		}
+
 		else if (crossobj.style.MozOpacity)
+
 		crossobj.style.MozOpacity=this.degree/101
+
 		else if (crossobj.style.KhtmlOpacity)
+
 		crossobj.style.KhtmlOpacity=obj.degree/100
+
 		}
+
 		
+
 		
+
 		fadeshow.prototype.startit=function(){
+
 		var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+
 		this.populateslide(crossobj, this.curimageindex)
+
 		if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+
 		var cacheobj=this
+
 		var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+
 		crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+
 		crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+
 		}
+
 		this.rotateimage()
+
 		}
+
 		
+
 	</script>
 
+
+
 	<script>
+
 <!--
+
 <!-- hide script from old browsers
+
 		// a function to open a window where the window type and destination page are
+
 		// passed by the caller
+
 		// type is either 'big' or 'small'
+
 		// dest contains the URL to open
+
 		// mysample will contain the window object after the open call
+
 		// this object could be used in other script to manipulate the window object
+
 		// this sample will open one window or the other - but not both
+
 		//
+
 		var mysample
+
 		function fnOpen(type,dest){
+
 		// first check to see if the window was closed from the information window
+
 		if (mysample != null) {
+
 		if (mysample.closed == true ) {mysample = null;}
+
 		}
+
 		// and set it to null if it was closed so it can be re-opened
+
 		if (type=="big") 
+
 		{
+
 		if (mysample == null) {
+
 		mysample=window.open(dest);
+
 		}
+
 		//
+
 		// open a window with no attributes specified = whatever the users default browser window setting currently are
+
 		}
+
 		
+
 		if (type=="small") 
+
 		{
+
 		// make sure the window is not already opened - keeps multiple windows from opening 
+
 		if (mysample == null) {
+
 		mysample=window.open(dest,null,
+
 		"height=500,width=590 status=yes,toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=no");
+
 		}
+
 		//
+
 		// Other properties (features) include: top, left, directories, channelmode, fullscreen
+
 		// Syntax:
+
 		// oNewWindow = window.open( [sURL] [, sName] [, sFeatures] [, bReplace] )
+
 		} 
+
 		}
+
 		// mysample is a window object - 
+
 		function fnClose(){
+
 		// make sure the window is opened before trying to close it
+
 		if (mysample != null) {
+
 		mysample.close();
+
 		// this lets the user reopen the window if they wish; mysample still contains data after closing it
+
 		mysample = null;
+
 		}
+
 		}
+
 		// -->
+
 		
+
 		function MM_jumpMenu(targ,selObj,restore){ //v3.0
+
 		eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
 		if (restore) selObj.selectedIndex=0;
+
 		}
+
 //-->
+
 </script>
+
 	
+
 	<style type="text/css">
+
 		<!--
+
 		body {
+
 		background-color: #5F82A0;
+
 		margin-top: 0px;
+
 		}
+
 		-->
+
 		</style>
+
 		
+
 		
+
 		<style type="text/css">
+
 		
+
 		/*Example CSS for the two demo scrollers*/
+
 		
+
 		#pscroller1{
+
 		width: 200px;
+
 		height: 100px;
+
 		border: 1px solid black;
+
 		padding: 5px;
+
 		background-color: lightyellow;
+
 		}
+
 		
+
 		#pscroller2{
+
 		width: 350px;
+
 		height: 20px;
+
 		border: 1px solid black;
+
 		padding: 3px;
+
 		}
+
 		
+
 		#pscroller2 a{
+
 		text-decoration: none;
+
 		}
+
 		
+
 		.someclass{ //class to apply to your scroller(s) if desired
+
 		}
+
 		</style>
+
 		<style type="text/css">
+
 		<!--
+
 		body {
+
 	background-color: #666666;
+
 	margin-top: 0px;
+
 	background-image: url(images/bg_fade_black.jpg);
+
 		}
+
 		.style45 {
+
 		font-size: 12px;
+
 		color: #0099FF;
+
 		}
+
 		a:link {
+
 	color: #FFFFFF;
+
 	text-decoration: none;
+
 		}
+
 		a:visited {
+
 	color: #FFFFFF;
+
 	text-decoration: none;
+
 		}
+
 		a:hover {
+
 	text-decoration: underline;
+
 	color: #CCCCCC;
+
 		}
+
 		a:active {
+
 		text-decoration: none;
+
 		}
+
 		.style46 {
+
 		color: #666666;
+
 		font-family: Arial, Helvetica, sans-serif;
+
 		}
+
 		.style47 {
+
 		font-size: 12px;
+
 		color: #666666;
+
 		font-family: Arial, Helvetica, sans-serif;
+
 		}
+
 		.style59 {
+
 	color: #ffffff;
+
 	font-weight: bold;
+
 	font-size: 12px;
+
 	font-family: Arial, Helvetica, sans-serif;
+
 		}
+
 		.style60 {color: #FFFFFF}
+
 		.style66 {
+
 		color: #F38B19;
+
 		font-family: Arial, Helvetica, sans-serif;
+
 		font-size: 12px;
+
 		}
+
 		.style70 {color: #CCCCCC}
+
 		
+
 		.style71 {
+
 	color: #FFFFFF;
+
 	font-family: Arial, Helvetica, sans-serif;
+
 	font-size: 12px;
+
 	font-weight: bold;
+
 }
+
 .style77 {font-family: Arial, Helvetica, sans-serif; color: #FFFFFF;}
+
 .style78 {font-size: 14px}
+
 .style79 {font-size: 14}
+
 .style80 {font-size: 16px}
+
 .style81 {
+
 	font-size: 17px;
+
 	font-weight: bold;
+
 }
+
 .style82 {font-size: 11px}
+
 .style83 {
+
 	font-family: Verdana, Arial, Helvetica, sans-serif;
+
 	font-weight: bold;
+
 }
+
 .style84 {
+
 	font-size: 12px;
+
 	color: #000000;
+
 	font-family: tahoma;
+
 }
+
 .style85 {color: #000000}
+
 .style88 {font-size: 12px}
+
 .style89 {font-family: tahoma}
+
 .style91 {font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+
 .style92 {font-family: Verdana, Arial, Helvetica, sans-serif}
+
 .style93 {font-size: 11px; color: #7f7f7f;}
+
 .style94 {font-size: 12px; font-family: tahoma; }
+
 .style96 {font-family: tahoma; color: #FFFFFF; }
+
 .style97 {font-size: 11px; padding-top: 4px; padding-right: 3px; padding-bottom: 2px; padding-left: 3px; border-top: 0px dotted #999999; border-right: 0px dotted #999999; border-bottom: 0px dotted #999999; border-left: 0px dotted #999999; color: 333333;}
+
 .style73 {font-family: tahoma;
+
 	font-size: 10px;
+
 }
+
 .style74 {font-family: tahoma; font-size: 10px; font-weight: bold; }
+
 .style98 {font-size: 10px; font-family: tahoma; color: #000000; font-weight: bold; }
+
 		-->
+
 	    </style>
+
 	
+
 	<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+
 <script language="javascript" src="java.js"></script>
+
 <link href="dd.css" rel="stylesheet" type="text/css">
+
 </head>
 
+
+
 <body>
+
 	<div align="center">
+
 		<table width="1000" border="0" cellpadding="0" cellspacing="0">
+
 			<!--DWLayoutTable-->
+
     <tbody><tr>
-			  <td width="316" rowspan="3" align="center" valign="middle"><img src="images/logo_dsn_new.png" width="290" height="52" border="0" usemap="#Map3"></td>
-			  <td width="89" height="17"></td>
-				<td width="230" rowspan="2" valign="top">
+
+			  <td width="316" rowspan="2" align="center" valign="middle"><img src="images/logo_dsn_new.png" width="290" height="52" border="0" usemap="#Map3"></td>
+
+			  <td width="89" height="26"></td>
+
+				<td width="230" valign="top">
+
 					<table background="images/phone_box.gif" width="100%" border="0" cellpadding="0" cellspacing="0">
+
 						<!--DWLayoutTable-->
+
 						<tbody><tr>
+
 							<td width="231" height="24" align="center" valign="middle">
+
 								<span class="style59">Toll Free 1.888.DSN.HOST </span>							</td>
 					  </tr>
+
 						<tr>
+
 							<td height="2"></td>
 						</tr>
 			  </tbody></table>				</td>
-				<td width="188"></td>
-                <td width="177"></td>
-		  </tr>
+
+				<td width="365"></td>
+          </tr>
+
+
+
+			
+
+			
+
+			
 			<tr>
-			  <td height="9"></td>
-			  <td></td>
-			  <td rowspan="2"><a href="http://directspace.helpserve.com/visitor/index.php?_m=livesupport&amp;_a=emailchat&amp;departmentid=0" target="_blank"><img src="images/chat.png" width="177" height="87" border="0"></a></td>
-		  </tr>
-			
-			
-			
-			<tr>
+
 			  <td height="78"></td>
+
 				<td></td>
+
 				<td></td>
 			</tr>
+
 			
+
 			
+
 			<tr>
-			  <td height="25" colspan="5" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#228DC3">
+
+			  <td height="342" colspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#228DC3">
+
         <!--DWLayoutTable-->
+
         <tbody><tr>
+
           
+
           <td height="25" align="center" valign="middle" style="position: relative; width: 100%; float: left;">
+
                 <div id="nav">
+
                     <ul class="style81 style77" id="navul">
+
                         <li>
+
                             <a href="http://directspace.net/" class="style71 mainnav" onmouseover="javascript:dropit('home');" onmouseout="javascript:countdown();">Home</a>
+
                             <div class="dropdown" id="home" onmouseover="javascript:cancel();" onmouseout="javascript:countdown()">
+
                                 <a href="http://directspace.net/">Main</a>
-                                <a href="eportal/announcements.php">News</a>
-                            </div>
+
+                                <a href="eportal/announcements.php">News</a>                            </div>
                         </li>
+
                         <li class="mainnav2">|</li>
+
                         <li>
+
                             <a href="#" class="style71 mainnav" onmouseover="javascript:dropit('ser');" onmouseout="javascript:countdown();">Our Services</a>
+
                             <div class="dropdown" id="ser" onmouseover="javascript:cancel();" onmouseout="javascript:countdown()">
+
                                 <a href="vps_dedicated.htm">Virtual Servers</a>
+
                                 <a href="dedicated_servers.htm">Dedicated Servers</a>
-                                <a href="colocation.htm">Colocation</a>
-                            </div>
+
+                                <a href="colocation.htm">Colocation</a>                            </div>
                         </li>
+
                         <li class="mainnav2">|</li>
+
                         <li>
+
                             <a href="network.htm" class="style71 mainnav" onmouseover="javascript:dropit('net');" onmouseout="javascript:countdown();">Network</a>
+
                             <div class="dropdown" id="net" onmouseover="javascript:cancel();" onmouseout="javascript:countdown()">
+
                                 <a href="dsnone_network.htm">Take a Look</a>
+
                                 <a href="http://www.flickr.com/photos/48773528@N07/sets/72157623594733083/show/" target="_blank">Datacenter Tour</a>
-                                <a href="http://bandwidth.directspace.net:8000/10MBtest.zip">Download Test File</a>
-                            </div>
+
+                                <a href="http://directspace.net/looking_glass.htm">Download Test File</a>                            </div>
                         </li>
+
                         <li class="mainnav2">|</li>
+
                         <li>
-                            <a href="resellers.htm" class="style71 mainnav">Resellers</a>
-                        </li>
+
+                            <a href="resellers.htm" class="style71 mainnav">Resellers</a>                        </li>
+
                         <li class="mainnav2">|</li>
+
                         <li>
+
                             <a href="technical_support.htm" class="style71 mainnav" onmouseover="javascript:dropit('supp');" onmouseout="javascript:countdown();">Support</a>
+
                             <div class="dropdown" id="supp" onmouseover="javascript:cancel();" onmouseout="javascript:countdown()">
+
                                 <a href="eportal/">Support Panel</a>
+
                                 <a href="eportal/submitticket.php">Submit a Ticket</a>
-                                <a href="eportal/knowledgebase.php">Knowledgebase</a>
-                            </div>
+
+                                <a href="eportal/knowledgebase.php">Knowledgebase</a>                            </div>
                         </li>
+
                         <li class="mainnav2">|</li>
+
                         <li>
+
                             <a href="about_us.htm" class="style71 mainnav" onmouseover="javascript:dropit('com');" onmouseout="javascript:countdown();">Company</a>
+
                             <div class="dropdown" id="com" onmouseover="javascript:cancel();" onmouseout="javascript:countdown()">
+
                                 <a href="about_us.htm">About Us</a>
+
                                 <a href="javascript:void(window.open('http://directspace.net/livechat/livezilla.php','','width=590,height=550,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">Live Chat</a>
-                                <a href="contact_us.htm">Contact Us</a>
-                            </div>
+
+                                <a href="contact_us.htm">Contact Us</a>                            </div>
                         </li>
+
                         <li class="mainnav2">|</li>
+
                         <li>
-                            <a href="http://directspace.net/eportal/" class="style71 mainnav">ePortal Login</a>
-                        </li>
+
+                            <a href="http://directspace.net/eportal/" class="style71 mainnav">ePortal Login</a>                        </li>
                     </ul>
-                </div>
-            </td>
+                </div>            </td>
         </tr>
+
       </tbody></table>			  </td>
 		    </tr>
+
 			<tr>
-			  <td height="3" colspan="5" valign="top">
+
+			  <td height="3" colspan="4" valign="top">
+
 				  <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#385173">
+
 					  <!--DWLayoutTable-->
+
 					  <!--DWLayoutTable-->
+
 					  <tbody><tr>
+
 						  <td width="1000" height="3"></td>
 					  </tr>
 			                  </tbody></table></td>
 		  </tr>
+
 			<tr>
-			  <td height="677" colspan="5" valign="top">
+
+			  <td height="759" colspan="4" valign="top">
+
 					<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+
 						<!--DWLayoutTable-->
+
 						<tbody><tr>
+
 						  <td width="743" height="575" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+
 						    <!--DWLayoutTable-->
+
 						    <tbody><tr>
+
 						      <td width="16" height="15"></td>
+
                               <td width="711"></td>
+
                               <td width="16"></td>
 						    </tr>
+
 						    <tr>
+
 						      <td height="560"></td>
+
 						      <td align="left" valign="top"><p align="left" class="style98">Privacy Policy Last Modified - 06/01/2009</p>
+
 						        <p class="style73"><strong>Website Visitors- </strong></p>
+
 						        <p class="style74">What information do we collect? </p>
+
 						        <p class="style73">When you visit our Web site, our Web server collects basic user information about you that includes your ISP's domain, the time you accessed our Web site, and the pages from within our Web site that you visit and is not personally identifiable information except as needed to prevent fraud or abuse of the system. <br>
+
                                     <br>
+
 						          We may at times also use cookies, which are small pieces of information that a Web site can store in a designated file on your computer. Cookies allow a Web application to respond to you as an individual. By gathering and remembering information about your preferences, the Web application can tailor its operation to your needs, likes, and dislikes. Most web browsers allow you to control this use of cookies. Please take a look at your particular browser for instructions on this function. If you elect to disable cookies, please keep in mind that you will not be able to take full advantage of a personalized experience on our Web site. It is possible that some portions of the site will not function properly or may perform more slowly if you choose to reject cookies. <br>
+
   <br>
+
 						          Our Web site allows for a chat function. Chat functions allow you to participate in “live” online conversations with us on our Web site. Although the transcripts from the chats may be stored internally on in-house servers for our records only, we collect no personally identifiable information about you when you participate unless you choose to provide that information to us. </p>
+
 						        <p class="style74">How do we use this information? </p>
+
 						        <p class="style73">The basic user information collected is used to help us analyze Web traffic, improve the content of our Web site and improve your experience on our Web site. <br>
+
                                     <br>
+
 						          Our Web site provides links to other Web sites, sites that may be maintained by companies that are not affiliates of ours. We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution. In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you. This privacy statement applies solely to information collected by this site. </p>
+
 						        <p class="style74">Directspace Networks Customers- </p>
+
 						        <p class="style74">What information do we collect? </p>
+
 						        <p class="style73">When you sign up for DirectSpace Networks' services, you provide us with both contact and payment information. Contact information typically includes your name, address, and phone number. Payment information typically includes your credit card number. <br>
+
                                     <br>
+
 						          While you are a DirectSpace Networks customer, we manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. </p>
+
 						        <p class="style74">How do we use this information? </p>
+
 						        <p class="style73">We use the contact information you provide us to establish our service for you. We use payment information for payment processing purposes only. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service. <br>
+
                                     <br>
+
 					          If you choose to use our referral service to tell a friend about our site, we will ask you to log into one of our secure sites with your customer identification. In order to complete the referral email form inviting your friend to visit the site, you will be required to enter your email address as well as the email address for your friend. We do not store this information, except as necessary to send the email through normal email protocols. </p>
+
 					          <p>&nbsp;</p></td>
+
 						      <td></td>
 					        </tr>
-						    
-						    
+
 						    
 
 						    
+
 						    
+
+
+
+						    
+
+						    
+
 	                      </tbody></table></td>
+
 						  <td width="257" valign="top">
+
 								<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+
 									<!--DWLayoutTable-->
+
 									<tbody><tr>
+
 									  <td width="4" rowspan="8" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+
 									    <!--DWLayoutTable-->
+
 									    <tbody><tr>
+
 									      <td width="4" height="663">&nbsp;</td>
 								        </tr>
+
 								      </tbody></table></td>
+
 									  <td width="253" height="19" align="center" valign="middle" background="images/login_background.png" bgcolor="#CCCCCC" class="style66">
+
 									        <span class="style60"> 
+
 												<a href="dsnone_network.htm"><font color="#FFFFFF">Our Network</font><span class="style70"> |</span> </a>
+
 										  <a href="looking_glass.htm"><font color="#FFFFFF">Looking Glass</font></a></span></td>
 								  </tr>
+
 									<tr>
+
 									  <td height="168" align="center" valign="middle"><script type="text/javascript">
+
 AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','235','height','135','src','ticker','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','ticker' ); //end AC code
+
 </script><embed width="235" height="135" src="ticker.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="235" height="135">
+
                                         <param name="movie" value="ticker.swf">
+
                                         <param name="quality" value="high">
+
                                         <embed src="ticker.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="235" height="135"></embed>
+
 								      </object></noscript></td>
 	                              </tr>
+
 									
+
 									
+
 									<tr>
+
 									  <td height="120" align="center" valign="middle"><a href="technical_support.htm"><img src="images/support.jpg" width="240" height="120" border="0"></a></td>
 								  </tr>
+
 									<tr>
+
 									  <td height="15"></td>
 						          </tr>
+
 									
+
 									
+
 									<tr>
+
 									  <td height="120" align="center" valign="top"><a href="colocation.htm"><img src="images/colocation_deals.jpg" width="240" height="120" border="0"></a></td>
 							      </tr>
+
 									<tr>
+
 									  <td height="13"></td>
 						          </tr>
+
 									
+
 									<tr>
+
 									  <td height="120" align="center" valign="top"><a href="vps_dedicated.htm"><img src="images/vservers.jpg" width="240" height="120" border="0"></a></td>
 								  </tr>
+
 									<tr>
+
 									  <td height="88"></td>
 								  </tr>
                           </tbody></table></td>
 					  </tr>
+
 						
+
 						
+
 						
+
 						
+
 						
+
 						
+
 						<tr>
+
 						  <td height="96" colspan="2" valign="top">
+
 							  <table back="" width="100%" border="0" cellpadding="0" cellspacing="0" background="images/tpl_footer_bg.png">
+
 								  <!--DWLayoutTable-->
+
 								  <tbody><tr>
+
 									  <td width="1000" height="13"></td>
 								  </tr>
+
 								  <tr>
+
 								    <td height="53" valign="top">
+
 								      <p align="center" class="style45 style46">Users of this site agree to be bound by the DirectSpace Service Agreement, Service Level Agreement, and Acceptable Use Policies.											</p>								      <p align="center" class="style47">Copyright © DirectSpace Networks, LLC. 2001 - 2009. All Rights Reserved. | 
+
 									      <a href="sla.htm">SLA</a> | 
+
 									      <a href="aup.htm">AUP </a> | 
+
 								    <a href="privacy_statement.htm">Privacy Statement </a>											</p></td>
 								  </tr>
+
 								  <tr>
+
 								    <td height="27">&nbsp;</td>
 							    </tr>
 						                      </tbody></table></td>
 					  </tr>
               </tbody></table></td>
 		  </tr>
+
 			<tr>
+
 			  <td height="20">&nbsp;</td>
+
 			  <td></td>
+
 			  <td></td>
+
 			  <td></td>
-              <td></td>
-		  </tr>
+          </tr>
 	  </tbody></table>
+
 </div>
+
 	
+
 	<script type="text/javascript">
+
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 	
+
 	<script type="text/javascript">
+
 		var pageTracker = _gat._getTracker("UA-3297506-2");
+
 		pageTracker._initData();
+
 		pageTracker._trackPageview();
+
 	</script>
+
 	
+
 	<script id="pap_x2s6df8d" src="http://www.directspace.net/user/affiliate/scripts/track.js" type="text/javascript">
+
 	</script>
+
 		
+
 	<script type="text/javascript">
+
 		<!--
+
 		papTrack();
+
 		//-->
+
 	</script>
+
 	<!-- Begin SupportSuite Javascript Code -->
+
 <script language="javascript" src="http://directspace.helpserve.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;nolink=1&amp;departmentid=0"></script>
+
 <!-- End SupportSuite Javascript Code -->
 
+
+
 <map name="Map"><area shape="rect" coords="352,243,487,277" href="dedicated_servers.htm"><area shape="rect" coords="510,242,647,277" href="dedicated_servers.htm"></map>
+
 <map name="Map2">
+
   <area shape="rect" coords="8,4,82,18" href="http://directspace.net/pentiumd_servers.htm">
+
 </map>
+
 <map name="Map3">
+
   <area shape="rect" coords="-18,0,296,105" href="http://directspace.net/">
+
 </map>
+
 <map name="Map4">
+
   <area shape="rect" coords="20,16,244,275" href="dedicated_servers.htm">
+
   <area shape="rect" coords="500,16,732,280" href="dedicated_servers.htm">
+
 </map>
+
+
 
 </body></html>
