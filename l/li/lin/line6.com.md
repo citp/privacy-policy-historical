@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516052029id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121033234id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Line 6 - Privacy Policy
 
@@ -77,10 +77,13 @@ Line 6 undertakes practical and reasonable steps to protect Personal Information
 **ENFORCEMENT**  
 If you have any questions or complaints regarding how your Personal Information is treated under this Policy or generally about the implementation of the principles in this policy, we encourage you to contact [privacypolicy@line6.com](mailto:privacypolicy@line6.com)
 
+**DISPUTE RESOLUTION**  
+Line 6 participates in the eTrust safe harbor dispute resolution process. If you feel that Line 6 is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principals, you should first contact Line 6 at privacypolicy@line6.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact eTrust at <http://www.etrust.org/complaint/index.html>. eTrust will act as a liaison to Line 6 to resolve your concerns.
+
 **CHANGES TO PRIVACY POLICY**  
 If we decide to change this Privacy Policy, we will post those changes here so that you will always know what Personal Information we gather, how we might use it and whether we will disclose it to anyone. Unless you opt out of receiving email notifications from us, as you may do in the manner described herein, we may also notify you by email of changes to this Privacy Policy.
 
 [](http://www.etrust.org/cert/875564.html)
 
-COPYRIGHT © 2009 LINE 6, INC. ALL RIGHTS RESERVED.  
-LAST DATE OF MODIFICATION: September 18, 2009. 
+COPYRIGHT © 2010 LINE 6, INC. ALL RIGHTS RESERVED.  
+LAST DATE OF MODIFICATION: September 1, 2010. 
