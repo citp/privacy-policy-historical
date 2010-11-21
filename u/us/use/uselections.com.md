@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522052435id_/http%3A//www.uselections.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121010257id_/http%3A//uselections.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy : USElections.com
 
