@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnaffiliates.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628210828id_/http%3A//www.earnaffiliates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnaffiliates.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121051447id_/http%3A//earnaffiliates.com/privacy.php) for the most accurate reproduction.*
 
 # earnaffiliates
 
