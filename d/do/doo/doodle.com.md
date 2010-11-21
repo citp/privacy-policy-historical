@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213100620id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121173128id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
 
 # Doodle: Privacy Policy
 
@@ -12,17 +12,13 @@ When you use Doodle, you send pieces of data to Doodle; this can be a name, an e
 
 Doodle is designed to allow you to use the service almost anonymously if you wish: You can use Doodle without registration and without entering any e-mail address.
 
-## Data being accessible through plugins
-
-Doodle provides optional plugins which extend the service by integrating it into third-party calendars. A plugin is a software that you download and install on your computer, and which has access to your calendar. Doodle will access your calendar only for the intended purpose. No additional calendar information or other information will be read from or written to your calendar without your consent.
-
 ## Log data
 
-Doodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, quality assurance, and to monitor system security and can be analyzed to that end.
+Doodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, quality assurance, and to monitor system security and can be analyzed to that end. Doodle can publish anonymous statistics under the condition that no personally identifiable information can be derived from such statistics.
 
-Doodle also uses Google Analytics to compile usage statistics. Analytics is a service provided by Google, Inc. Google’s privacy policy can be accessed here: <http://www.google.com/privacy.html>
+Doodle also uses Google Analytics to compile usage statistics. Analytics is a service provided by Google, Inc. Google’s privacy policy can be accessed here: <http://www.google.com/privacy.html>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
 
-For all requests originating in Switzerland, Doodle also employs Net-Metrix to certify its traffic statistics. Detailed information (in German) on how this certification works and what information is collected can be found here: <http://www.net-metrix.ch/index.php?nodeId=157>
+Doodle also employs Net-Metrix and AGOF to certify its traffic statistics in Switzerland and Germany. Detailed information (in German) on how this certification works and what information is collected can be found here: [Net-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html). 
 
 ## Cookies
 
@@ -46,13 +42,31 @@ To access a poll, you use the unique link which Doodle provides and which contai
 
 Doodle accounts are protected by passwords. You should choose a secure password and ensure its confidentiality to prevent unauthorized access to your account.
 
-## Participants' e-mail addresses
+## Inviting from Doodle
 
 As an option, you can contact and invite people to participate in a poll from Doodle. In this case, Doodle needs to know the e-mail addresses of the people to be contacted. You can enter these e-mail addresses in the corresponding form. Doodle stores these e-mail addresses in you user account (MyDoodle) for your convenience; Doodle will be able to offer you the same contacts again next time you use the service. You can have Doodle delete all stored e-mail addresses any time using the corresponding function in your user account (MyDoodle).
 
-Alternatively, or complementary, you can use your existing Google address book to gain access to the e-mail addresses of the people to be contacted. In this case, you authorize Doodle to access the Google address book. Your Google address book will still be stored at Google exclusively; Doodle only stores the e-mail addresses you selected for as long as the corresponding Doodle poll exists. Please note also: The process of accessing your Google address book is set up to make sure that Doodle at no time has access to your Google password.
-
 General remark: Like all other personal information, Doodle will not share participants' e-mail addresses with third parties. Doodle will not send any e-mail communication participants' e-mail addresses without your consent.
+
+## Contacts integration
+
+As an alternative (or complement) to the Doodle contacts, you can use your existing Google contacts to gain access to the e-mail addresses of the people to be contacted. In this case, you authorize Doodle to access your Google contacts. Your Google contacts will still be stored at Google, while Doodle makes a copy of the e-mail addresses to have efficient access. Please note also: The process of accessing your Google contacts is set up (thanks to OAuth) to make sure that Doodle at no time has access to your Google password. You can delete the e-mail addresses stored at Doodle at any time ([Link](https://doodle.com/mydoodle/deleteContacts.html)).
+
+## Calendar integration
+
+You can connect Doodle with your calendar to make the scheduling process even easier and more efficient. There are to types of calendars: online and offline. 
+
+Online calendars like Google calendar are constantly accessible via their respective interfaces. Doodle can store certain calendar data temporarily to improve performance (caching). 
+
+Offline calendars like Microsoft Outlook are connected using a plugin (see below). Doodle will store a copy of (all or parts of) the calendar data to ensure access to the calendar data even if the Outlook calendar is currently offline. 
+
+In either case, calendar data on Doodle can be deleted at any time. 
+
+## Plugins
+
+Doodle provides optional plugins which extend the service by integrating it into your local environment (calendar, contacts). A plugin is a software that you download and install on your computer, and which has access to your calendar and contacts.
+
+Doodle will use the via plugins accessible information only for the intended purpose. Doodle will only access the information that is necessary to provide the intended service. 
 
 ## Communication between you and Doodle
 
@@ -70,6 +84,6 @@ Doodle may share personal information with other companies or individuals only i
 
 ## Changes
 
-Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [http://doodle.com/about/policy.html](http://www.doodle.com/about/policy.html).
+Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at <http://doodle.com/about/policy.html>.
 
-Oct 26 2009
+July 22 2010
