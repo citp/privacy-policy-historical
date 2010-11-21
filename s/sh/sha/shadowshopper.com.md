@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612085720id_/http%3A//www.shadowshopper.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034544id_/http%3A//www.shadowshopper.com/new/privacy_policy.cfm) for the most accurate reproduction.*
 
-# ShadowShopper - Privacy Policy - The World's Largest Source of Mystery Shopping Jobs
+# The World's Largest Source of Mystery Shopping Jobs - ShadowShopper.com
 
-  
-**ShadowShopper Privacy Policy**
-
-ShadowShopper takes your privacy seriously. The following information covers how ShadowShopper treats personal information that ShadowShopper collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+The following information covers how ShadowShopper treats personal information that ShadowShopper collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
 _General_  
 ShadowShopper collects personal information when you register with ShadowShopper and when you visit ShadowShopper pages. When you register we ask for information such as your name, email address, birth year, gender and zip code. Once you register with ShadowShopper and sign in to our services, you are not anonymous to us.
@@ -30,7 +27,7 @@ ShadowShopper does not rent, sell, or share personal information about you excep
 
 _Your Ability to Edit and Delete Your Account Information and Preferences_  
 You can edit your ShadowShopper account information including your email preferences, and have the ability to delete your ShadowShopper account at any time. You can do this by visiting our Account Information page.  
-    We reserve the right to send you certain communications relating to the ShadowShopper service, such as service announcements, administrative messages and the ShadowShopper Newsletter, that are considered part of your ShadowShopper account, without offering you the opportunity to opt-out of receiving them.
+    We reserve the right to send you certain communications relating to the ShadowShopper service, such as service announcements, administrative messages and the ShadowShopper Newsletter, that are considered part of your ShadowShopper account, without offering you the opportunity to opt-out of receiving them. 
 
 _Confidentiality and Security_  
 We limit access to personal information about you to job schedulers who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
