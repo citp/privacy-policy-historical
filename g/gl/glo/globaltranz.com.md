@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltranz.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929165542id_/http%3A//globaltranz.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltranz.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122165816id_/http%3A//www.globaltranz.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
