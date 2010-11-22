@@ -1,78 +1,100 @@
-> *The following text is extracted and transformed from the datingforparents.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218212331id_/http%3A//www.datingforparents.com/index.cfm%3Faction%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingforparents.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122093850id_/http%3A//www.datingforparents.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# Online Chat - Privacy - DatingForParents
+# Find local singles on DatingForParents
 
-## At DatingforParents we value your privacy and take great care to protect the personal information you give us. Read our privacy policy to find out how we use and store your details. 
+### Privacy Policy
 
-  1. COMPLIANCE
-  2. PRIVACY
-  3. WEBSITE DATA COLLECTION
-  4. YOUR PERSONAL DATA
-  5. ADVERTISING
-  6. DISCLOSURE OF YOUR PERSONAL DATA
-  7. DATA ACCESS & CORRECTIONS
-  8. TRANS-BORDER DATA TRANSFERS
-  9. GOVERNING LAW AND DISPUTES
+(' **We** ') Easy Date Holdings Ltd are committed to protecting and respecting your privacy.
 
+This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
+We are the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** ').
 
-IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW
+**What information do we collect about you?**
 
-### Compliance
+We may collect and process the following information about you: 
 
-We, Allegran Limited, comply with the United Kingdom Data Protection Act 1998. To access current Data Protection legislation materials, click [here](http://www.dpr.gov.uk/). 
-
-### Privacy
-
-We take care to protect the privacy of our customers. This policy explains how we process information about website visitors and those registered with DatingforParents.
-
-### Website Data Collection
-
-Personal information is collated and stored primarily during the registration process, but is also monitored when there is activity on your account and when you use the website. As with many other websites, we may use software known as 'cookies' to store information relating to your preferences to enable us to improve our service to you.
-
-### Your Personal Data
-
-We collect information about you, our users, so that you are able to use our services effectively. We will only collect and retain personal data to the extent that it is permitted by law and strictly necessary for our purposes. Personal data submitted by you to this website will be used by us for the following purposes only: 
-
-  * To assist us in setting up and managing your account; 
-  * To personalise aspects of our overall service to you by building an accurate customer profile of you; 
-  * To communicate with you about (a) profiles of other users who we believe will be of interest to you; (b) new users who have registered with the website; and (c) users who wish to communicate with you; and 
-  * In order to make available to you promotional information about products and services from Allegran Limited and its [associated companies](http://www.dmgt.co.uk/), and from selected third parties which may be of interest to you.
-  * If you have registered with this website and wish to change your preferences then please Login and access "My Profile" to make the relevant change
+  * Information that you provide by filling in forms on our site **DatingForParents** (the ' **Site** ') (including your personal details, contact details and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
+  * If you contact us, we may keep a record of that correspondence.
+  * Details of transactions you carry out through the Site, including any information we require to provide any products or services that you order from us through the Site.
+  * Website usage information is also collected using cookies (see below under 'Cookies').
 
 
 
-### Advertising
+**How will we use the information about you?**
 
-We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses non-personal information about your visits to this website and the sites upon which we advertise (not including your name, address, or other personal information) to serve ads to you. In the course of delivering advertisements, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad-serving partner, to help manage our online advertising. These web beacons enable our ad server to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our website. The information collected and used by this technology is not personally identifiable. To learn more about this technology and how to “opt-out” from having non-personal information used to serve you ads, please go to <http://www.atlassolutions.com/privacy.aspx>
+We use the information we hold about you in the following ways: 
 
-### Disclosure of Your Personal Data
+  * To administer your user account with us (including notifying you of any compatible matches, tips, announcements, updates, special offers or services, should you consent to this).
+  * To help us improve the structure, layout and usability of the Site.
+  * To allow you to participate in any interactive features of the Site.
+  * To help personalise your repeat visits to the Site.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing** ' for more information).
+  * To answer any questions you may raise or respond to any comments you may send to us.
+  * To notify you about changes to our service or the functionality of the Site.
+  * To carry out market analysis and research.
+  * To ensure that you are complying with the [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and to comply with our statutory and regulatory obligations.
 
-Personal data which we collect about you when you visit this site will be disclosed only to the following types of persons - 
-
-  * any company or other entity to whom we may sell all or part of our business;
-  * any competent legal, regulatory or law enforcement authority. In the latter case, you will not be informed of any disclosure nor of any reasons for such disclosure and you hereby waive any and all rights that you may have, whether at law or otherwise, of any nature and in any jurisdiction, in connection with such disclosure;
-  * our professional advisers or other appropriate third parties, if your use of our service or this website is in breach of these terms and conditions; and
 
 
+**Disclosure of your information**
 
-### Data Access & Corrections
+As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
 
-Upon receipt of your written request which should be addressed to The Data Protection Officer at Allegran LTD, PO Box 62637, London, EC1P 1JB, we will disclose to you your personal data held by us, we shall correct or delete inaccurate details. Changes to certain parts of your account information can also be made by accessing "Login" and checking "Update your details". We regularly delete data which is no longer required
+  * Other companies in the same corporate group as us.
+  * A buyer or prospective buyer of our business.
+  * Our professional advisers, such as our lawyers, where it is necessary for them to advise us.
+  * Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation.
 
-### Trans-border Data Transfers
 
-No transfers of your personal data are currently made outside of the European Economic Area. However, we reserve the right to relocate our web servers to a secure location outside the EEA in the future. If we do this, we will enter into agreements requiring the guardians of your personal data to adhere to standards of data protection substantially similar to those prevailing in the European Economic Area. However, the Internet is made up of a large variety of international connections and if you are visiting this website the various communications may well result in the temporary transfer of information outside the European Economic Area other than pursuant to contractual arrangements made by us. By visiting the website and communicating electronically with us you consent to these transfers. 
 
-### Governing Law and Disputes
+We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties.
 
-This policy and consent forms part of our website terms of use and as such it shall be governed by and construed in accordance with the laws of England and Wales. You irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data, and that the laws of England and Wales shall govern such dispute or claim. However, we retain the right to bring legal proceedings in any jurisdiction where we believe that infringement of our intellectual property rights or breach of those terms is taking place or originating. You are responsible for compliance with any applicable laws and regulations of the jurisdiction from which you are accessing this website. We operate this website from England and make no representation or warranty that the information contained herein is appropriate or available for use in other locations outside England and Wales. 
+We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
-If you have any questions or comments about our privacy policy, please send [feedback](http://www.datingforparents.com/index.cfm?&action=feedback). 
+**Marketing**
 
-Postal Address  
-Allegran LTD  
-PO Box 62637  
-LONDON  
-EC1P 1JB   
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@datingforparents.com](mailto:unsubscribe@datingforparents.com)
 
+**Cookies**
+
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Site and to deliver a better and more personalised service. They enable us: 
+
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise the Site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to the Site.
+
+
+
+For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+
+You can set your browser not to accept cookies and the above website tells you how to do that. However, in a few cases some of the features on our Site may not function as a result. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
+
+**Where we store your personal data**
+
+The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (' **EEA** '). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access.
+
+**Other Websites**
+
+The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+**Access to information and correction**
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [info@datingforparents.com](mailto:info@datingforparents.com). Please note that we may make a small charge for this service.
+
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [info@datingforparents.com](mailto:info@datingforparents.com).
+
+**Changes to our privacy policy**
+
+We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties.
+
+**Questions**
+
+If you have any questions about this privacy policy then please contact us at [info@datingforparents.com](mailto:info@datingforparents.com).
+
+close 
