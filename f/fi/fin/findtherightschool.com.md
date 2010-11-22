@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findtherightschool.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612162807id_/http%3A//www.findtherightschool.com/pt2/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightschool.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081618id_/http%3A//findtherightschool.com/pt2/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Find the Right School - Earn a Highly Respected Degree From Premier Schools
 
@@ -85,7 +85,7 @@ For more information, or if you have questions or concerns regarding QuinStreet'
     
     Privacy   
     	QuinStreet, Inc.   
-    	1051 E. Hillsdale Blvd   
+    	950 Tower Lane, 6th Floor   
     	Foster City, CA 94404   
     	(650) 578-7700
 
