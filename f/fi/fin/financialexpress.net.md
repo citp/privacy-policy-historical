@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210503id_/http%3A//financialexpress.net/uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122214205id_/http%3A//financialexpress.net/uk/privacy.htm) for the most accurate reproduction.*
 
 # Financial Express
 
