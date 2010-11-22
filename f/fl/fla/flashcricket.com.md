@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flashcricket.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526000205id_/http%3A//www.flashcricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcricket.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122111117id_/http%3A//www.flashcricket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
 
 ## IPC Media Privacy Policy
 
-This Privacy Policy explains the practices employed by IPC Media in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by IPC Media. [Click here for more information](https://web.archive.org/web/20100526084242id_/http://www.ipcmedia.com/ipc_domain_names.pdf) on which websites are covered by this Privacy Policy.
+This Privacy Policy explains the practices employed by IPC Media in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by IPC Media.
 
 IPC Media will collect various types of information about you through your use of our websites to process your requests and orders, to provide a more personalised web-surfing and shopping experience and to help us improve the services we offer. In doing this we may also collect anonymous information about you through the use of cookies. IPC Media will be the Data Controller of any personal data we collect about you.
 
@@ -15,6 +15,10 @@ Through IPC Media websites you can, amongst other things, order products and ser
 In order to process your requests and orders and other activities, it may be necessary to collect personally identifiable information about you. The type of personally identifiable information that may be collected includes, but is not limited to: your name, address, e-mail address, telephone number, credit/debit card information. You may also be asked to provide additional (non-mandatory) pieces of information for our research purposes or choose to provide information by making a posting on a forum.
 
 In addition, we will collect anonymous information about you and your website usage through the use of cookies. Such information will not be personally identifiable to you. For further information please go to the section on cookies below.
+
+Some IPC Media websites offer services that require you to set up an account prior to receiving such services. To create a secure account you may use your email address and a password or, if the IPC Media website offers a Facebook single-sign-on service, you will be able to register for and log in to your IPC Media website account using your Facebook account. 
+
+If you choose to use the Facebook single-sign–on service we will gain access, upon your explicit consent, to your basic Facebook profile information, such as your name, profile picture and list of friends and any other information notified to you by Facebook prior to you completing the single-sign-on authorisation process. 
 
 ### How will we use the information about you?
 
@@ -31,6 +35,8 @@ From time to time we will ask you whether you wish to receive marketing material
   * Post or telemarketing - by writing to The Head of Database Marketing at IPC Media, Blue Fin Building, 110 Southwark Street, London SE1 0SU. 
 
 
+
+Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material relevant to the website on which you have registered your details. You will be specifically notified if this is the case and you may unsubscribe to receiving such marketing material at anytime by clicking on the e-mail unsubscribe link.
 
 ### What will we disclose to third parties?
 
