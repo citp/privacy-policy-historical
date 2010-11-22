@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the drugwatch.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122195043id_/http%3A//www.drugwatch.com/privacy-policy.php) for the most accurate reproduction.*
+
+# Drugwatch.com Privacy Policy | Drugwatch.com
+
+DrugWatch.com protects the privacy of visitors to the site. Personal information about site visitors is not collected, other than what a visitor may elect to share via email. Information provided by the visitor to DrugWatch.com will not be distributed and is kept private and confidential. The site adheres to United States requirements regarding medical and health information privacy, though DrugWatch.com does not claim to comply or warrant compliance with standards set by other countries, organizations or treaties.
+
+A DrugWatch.com visitor who submits contact information, emails or calls the site, or submits personal information in any way may trust that the information will be held in confidence. The phone number provided on the site connects visitors with representatives from DrugWatch.com, not a third-party call center, sponsor or law firm. DrugWatch.com employs security measures to ensure theft, loss or misuse of information provided on the site will not occur. In the event of a system compromise, DrugWatch.com will implement all reasonable measures to ensure the integrity of the site’s database is protected. 
+
+Visitors of DrugWatch.com are recognized by our web server, and though the site utilizes cookies, only the visitor’s domain name is recognized. Email addresses or other information about a site visitor is not collected. The server collects information about which pages on the site are accessed and the duration of a visitor’s time on the page. DrugWatch.com is able to see how a visitor accessed the site, whether it is through a search engine or a specific advertising banner. Information obtained is utilized solely to improve and enhance the quality of DrugWatch.com and under no circumstances will information about site visitors be sold or provided to a third party, unless consent is authorized by the visitor.
+
+Please contact DrugWatch.com with any questions about the site or the privacy policy at 800-452-0949.
