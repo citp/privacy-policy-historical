@@ -1,48 +1,87 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328070802id_/http%3A//www.thompson-morgan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122165655id_/http%3A//www.thompson-morgan.com/security-privacy-policy) for the most accurate reproduction.*
 
-# Security & Privacy Policy
+# Thompson & Morgan - Security & Privacy Policy
 
-### Security Policy
+Thompson & Morgan take online security very seriously and are committed to protecting the personal information of our customers. Our Security and Privacy policy gives more information on how we collect and use this information to provide an enhanced online experience. This policy also explains your options relating to the collection, use and disclosure of your personal details. You can visit this Site without disclosing any personal information, however, by visiting our Site, you accept the practices outlined in this policy. If you do not agree to us acquiring or using your personal information in accordance with this policy then you should not submit information to us through this Site. This policy does not necessarily apply to our offline collection of your personal information. Please see below for more details. We are not responsible for the content or privacy practices on any Site to which this Site links or that links to this Site.
 
-Thompson & Morgan take online security very seriously and are committed to protecting the private details of our customers. Our on-line transaction systems use Secure Sockets Layer (SSL) technology to encrypt all of your personal and payment details during every transaction you make.
+* **Information Collection.**
 
-To ensure that our security technology is maintained up to date, we have continued to meet industry standards. This has been verified and indicated by our Authenticated Website and SSL Server Certificates.
+On this site we will collect information from you in several different ways. By collecting personal information from you we are able to provide an efficient, meaningful, and customised experience. For example:
 
-If you wish to check that you are in a secure section of our website, this is indicated by a closed padlock or an unbroken key at the bottom right hand corner of your Internet browser. Please note: To use our secure encryption technology, you must have a Web browser that supports SSL technology. For example versions of Internet Explorer 3.0 or higher and Netscape 3.02 or above.  
+>   1. You will only need to enter your personal information once.
+>   2. We will be able to create content for the site which is more relevant to you.
+>   3. Information, products, and services will be easier to find.
+>   4. We will be able to communicate new information, products, and services to you.
+> 
 
 
-### Privacy Statement of Thompson & Morgan (Group) Ltd
+* **Registration and Ordering.**
 
-Thompson & Morgan truly believes in keeping your confidential information just that - confidential! We will only use your personal information for the purposes of enhancing your Thompson & Morgan experience. Registering with us allows you to take advantage of all our unique services as a Thompson & Morgan member, including: receiving sneak previews of special sales and promotions and receiving customized regional gardening information. 
+You have the option to complete an online registration form when using certain parts of this Site or when ordering products, You will be prompted to provide to us certain personal information during registration, including but not limited to, your name, shipping and billing addresses, phone number and email address. This personal information is used for billing purposes, to fulfil your orders, to communicate with you about your order and our Site, and for internal marketing purposes. If we encounter a problem when processing your order, we will use the personal information to contact you.
 
-### Order Information
+* **Email Addresses.**
 
-Thompson & Morgan uses an order form for customers when they request information, products, and services. When you place an order, we collect contact information (like your billing and email address) and financial information (like your account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers, and to get in touch with the customer when necessary. Financial information that is collected is used to bill the user for products and services. Customers also have the option of ordering products over the telephone or fax, and may elect to pay by check. 
+Whilst using this Site, there will be several opportunities to enter your email address including (but not limited to):
 
-### Use of Information
+>   1. To request us to notify you when we receive new supplies of an out of stock item.
+>   2. To sign up for our email newsletter.
+>   3. To leave a review of one of our products.
+>   4. To enter competitions.
+> 
 
-Thompson & Morgan will not collect any personally identifying information except when specifically and knowingly provided by visitors to our site. Such information includes name, address, email address, and phone number. 
 
-The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. If you prefer we do not share your name and address with marketing partners, please e-mail us at Customer Care. 
+Your participation in a competition is completely voluntary, so you have a choice whether to participate and provide information to us. We use this information to notify competition winners and to award prizes. We may post on our Site the names and cities of competition winners.
 
-Please note that if you have provided us with your email address we will not share this with any third party. 
+* **Product Reviews.**
 
-### Surveys
+If you have ordered a product in the past, you may choose to submit a product review. In order to post a review we will request your email address and geographic location, only your geographic location will be visible to other users, we will keep your email address kept private. Please be aware that any personally identifiable information submitted as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
 
-Thompson & Morgan may occasionally conduct online surveys asking visitors for demographic information (like your gender, age, or income level). We use this data to tailor your experience at Thompson & Morgan displaying content to you according to your preferences. 
+* **Cookies and Other Technology.**
 
-### Contests
+Like many sites, this Site uses cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognise you and your access privileges, and track your Site usage.
 
-Thompson & Morgan may occasionally run contests on our site in which we ask visitors for contact information (such as email address or telephone number). Participation in our contests is not mandatory. However, if you choose to participate, we may use this contact data from our contests to send users, when necessary, information about the contest and our company. If you have participated in a past contest but no longer prefer to receive information or be contacted by Thompson & Morgan, please contact Customer Care or +44 (0)1473 688 821. Please note, some calls may be recorded for training purposes. 
+>   1. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive.
+>   2. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
+>   3. Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
+>   4. We may use third-party advertising companies to help us tailor Site content to users or to present advertisements on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
+>   5. Log Files. As with most web sites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+> 
 
-### Choice / Opt-out
 
-Thompson & Morgan provides users the opportunity to opt-out of receiving communications from us at any time. Thompson & Morgan gives users the following options for removing their information from our database to not receive future communications or to no longer receive our services. 
+* **Information Use and Disclosure.**
 
-  1. You can email [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com)
-  2. You can call Customer Care on +44 (0)1473 688 821 
-  3. You can click on the "Unsubscribe" link included at the bottom of each of our emails and follow the instructions 
-  4. You can send mail to the following postal address: 
-  
-Customer Care Poplar Lane Ipswich Suffolk IP8 3BU United Kingdom 
+>   1. Internal Use. To enable us to process your order and provide you with customer service we will use your personal information. We may also use this information to improve our Site's content and layout and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
+>   2. Communications with You. Your personal information will also be used to communicate with you about our Site and your orders and deliveries. We will send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to notify you when we receive fresh stock of an out of stock item, to sign up for our email newsletter, entry to competitions or leave a review of one of our products. If you provide us with your email address, we use it to deliver the information to you. We always allow you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
+> 
 
+
+* **External Use.**
+
+We want to provide you with excellent service and to offer you a great selection - we primarily sell merchandise, not information. We occasionally rent personal information to carefully selected businesses. We may also distribute information in the following ways:
+
+>   1. As do most catalogue and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, it is purely to help them to perform their service. We partner with third parties to deliver products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, delivery address, email, and phone number.
+>   2. Similarly, to help you buy products and provide customer service, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state of-the-art data encryption to protect your information.
+>   3. We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Business or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
+>   4. We rent personally identifiable information to other companies as part of our regular course of business, providing details of name and address only. It is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+> 
+
+
+* **Data Security.**
+
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. We rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+
+* **Opt Out and Corrections.**
+
+Upon your request, we will within a reasonable timescale:
+
+>   1. Correct or update your personal information
+>   2. Stop sending emails to your email address; and/or
+>   3. Disable your account to prevent any future purchases through that account.
+> 
+
+
+You can make these requests at the customer information section of this site [**(myaccount)**](https://web.archive.org/myaccount) or by contacting our [**Customer Care department**](https://web.archive.org/contact-us). Please do not email your credit-card number or other sensitive information.
+
+* **Updates to this Policy.**
+
+Any changes or updates to this Security and Privacy Policy will be posted on this Site, so that you will always be aware of what information we collect, use and disclose. We suggest that you review this Policy now and again so that you are aware of any changes or updates.
