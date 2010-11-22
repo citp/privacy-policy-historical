@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109032730id_/http%3A//www.asmag.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094101id_/http%3A//www.asmag.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# asmag.com - Security B2B marketplace & Security Suppliers database.
+# asmag.com - Security B2B marketplace & Security knowledge library.
 
 |   
 ---  
