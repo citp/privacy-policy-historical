@@ -1,55 +1,57 @@
-> *The following text is extracted and transformed from the lutron.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413173852id_/http%3A//www.lutron.com/lutron/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lutron.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122085150id_/http%3A//www.lutron.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Lutron Electronics, Inc.
+# Privacy Policy
 
-Lutron Electronics Co., Inc. respects the privacy of our website visitors. Please review the following document that explains what information we collect and how we intend to use that information.
+Lutron Electronics Co., Inc. and its subsidiaries (collectively “Lutron”) respects the privacy of our website visitors. This Privacy Policy applies to all websites of Lutron. Please review the following document that explains what information we collect and how we intend to use that information.  
+  
+---  
+  
+****Information Collected****
 
-What Information Does Lutron Collect?
+Lutron’s primary goal in collecting information is to provide you with a superior customized online experience. 
 
-When you visit www.lutron.com you may provide us with two types of information: (1) web site use information collected on an aggregate basis as you and other people browse our web site, and (2) personal information you knowingly and voluntarily choose to disclose to Lutron that we collect on an individual basis. Please be advised that any information that you provide to Lutron shall become the sole and exclusive property of Lutron upon submission.
+When you visit Lutron websites you may provide us with two types of information: (1) web site and email use information collected as you and other people browse our web sites or respond to Lutron initiated email (example: type of web browser and operating system used to access the Lutron website), and (2) information you knowingly and voluntarily choose to disclose to Lutron that we collect on an individual basis (example: completing an online form requesting product literature).   
+  
+**Web Site and Email Use Information**
 
-How Does Lutron Collect Web Site Use Information?
+Lutron utilizes technology to accumulate information about traffic on our web sites and the effectiveness of email communication with you. Lutron may collect information during 1) your visit to a Lutron website, 2) when you open an email from Lutron, and 3) when you click a link within an email from Lutron. Lutron utilizes automatic data collection tools which include web beacons, cookies, embedded web links, and similar information-gathering tools. The data collected may include your internet protocol address, the pages you view at Lutron websites, the links you click, and other actions you take in connection with Lutron websites. Lutron may also use some of these automatic data collection tools in connection with certain emails sent from Lutron and therefore may collect information using these tools when you open an email or click on a link contained in an email from Lutron.
 
-Similar to other web sites, www.lutron.com utilizes a standard technology called cookies (see below) and web server logs to accumulate information about traffic on our web site (such as the time spent at our web site, the pages viewed, the date and time of visits, the number of visitors, etc.). This information is only collected on an aggregate basis and is NOT associated with you as an individual -- Lutron does not capture your individual e-mail address or other personally identifying information about you with these technologies.
+We use this information to: gather information in order to design and improve our web pages, monitor website and email usage, and compile business and technical statistics. We may share this information on an aggregate basis with third parties in furtherance of our business needs however Lutron does not sell or rent such information to third parties for the purpose of soliciting you for non-Lutron products and services.   
+  
+**Information You Disclose to Lutron**
 
-We use this information to gather information about our customers, to design and improve our web pages, to monitor website usage and capacity, and to compile important business and technical statistics. We may share this information on an aggregate basis with third parties in furtherance of our business needs.
+We strongly advise you NOT to submit to us sensitive information, such as your Social Security Number or credit card information, unless it is absolutely necessary for the purpose of your communication. Even though we strive to protect your personal information and privacy, we cannot guarantee the security of information you disclose online and you do so at your own risk. 
 
-What Are Cookies?
+Please be advised that any information that you provide to Lutron shall become the sole and exclusive property of Lutron upon submission. Lutron may disclose information that you have provided us if we have a good faith belief that such disclosure is necessary to (a) comply with the law or legal process served on Lutron; or (b) protect and defend the rights and property of Lutron.   
+  
+**Email from Lutron**
 
-Cookies are small pieces of data that are stored by a user's web browser on the visitor's hard drive. Cookies are part of the flow of information between computers and web browsers, and can be used for, among other things, customizing user interaction with web sites and enhancing web site performance and utility.
+You may receive email communication from Lutron in two ways: 1) email received from an individual at Lutron based on existing business relationships and 2) electronically initiated email originating from your interaction with a Lutron website. For electronically initiated email, should you wish to no longer receive such communications an “UNSUBSCRIBE” link will be included in the email by which you may elect to be removed from further email communications. In such an event Lutron will remove your email address from further electronically initiated communication and you should not receive further email communications unless you subsequently interact with a Lutron website and again provide your email address.   
+  
+**Cookies**
 
-You may elect to refuse to accept cookies by changing your browser preferences and/or utilizing commercially available software programs. Please understand that if you do not accept cookies from this site, it may affect the performance of this site, including your ability to access certain features. 
+Cookies are small pieces of data that are stored by a user's web browser on the hard drive of the computer accessing a website. Cookies are part of the flow of information between computers and web browsers, and can be used for, among other things, customizing user interaction with web sites and enhancing web site performance and utility.
 
-How does Lutron Utilize Personal Information That Is Colelcted on this Site?
+You may elect to refuse to accept cookies by changing your browser preferences and/or utilizing commercially available software programs. Please understand that if you do not accept cookies from Lutron’s websites, it may affect the performance, including your ability to access certain features.   
+  
+**Web Beacons**
 
-Certain areas of our website allow you to voluntarily provide us with personal information, such as your name, address, and e-mail address, in connection with, for example, a request for literature, documents or other types of information from Lutron, requests for customer or technical service, or in downloading software from the website. 
+Lutron may utilize web beacons, clear GIF’s or similar technology to assist in delivering effective website content to you. Web beacons may be used alone or in conjunction with cookies to compile information about your website usage and your interaction with email received from Lutron. We may use such technologies to gauge the effectiveness of certain communications and marketing campaigns.   
+  
+**Other Web Sites**
 
-Lutron will use this information to fulfill requests made through our web site, as well as to analyze and respond to questions and inquiries about Lutron and our products. Lutron may also use this information to contact you, electronically or otherwise, about services and products that we believe may interest you or to otherwise enhance our marketing and promotional efforts. 
+This Privacy Policy applies only to Lutron controlled web sites. We do not monitor the content, information, or web practices of any web sites linked to or from our web site, and make no representations about the current security of these sites. We encourage users to review the privacy statements of other websites they visit.
 
-In responding to your communications, we may share your information with our affiliates or other third-parties (such as dealers, distributors, independent sales representatives, or other entities working on Lutron's behalf). 
+Please note that the existence of any external link to another website does not suggest that we are endorsing the linked company, its products and/or its services.   
+  
+**A Note About Children**
 
-We strongly advise you NOT to submit to us sensitive information, such as your Social Security Number or credit card information, unless it is absolutely necessary for the purpose of your communication. Even though we strive to protect your personal information and privacy, we can not guarantee the security of information you disclose online and you do so at your own risk.
+This site is not intended for use by minors under the age of 13 years, and we do not intend to collect any personal information or data from children under the age of 13. We do not believe that minors should submit personal information without the consent of a parent or guardian, and encourage parents and guardians to supervise their children's online activities.   
+  
+**Changes to this Privacy Policy**
 
-Lutron may disclose information that you have provided us if we have a good faith belief that such disclosure is necessary to (a) comply with the law or legal process served on Lutron; or (b) protect and defend the rights and property of Lutron.
+If changes are made to Lutron’s Privacy Policy, we will post the updated version with an updated revision date.   
+  
+**Conditions of Use**
 
-Will I Get A Banner Ad or Other Targeted Advertisement Sent To Me?
-
-You will never receive a banner ad or targeted advertisement as a result of a visit to www.lutron.com.
-
-What About Other Web Sites Linked to Our Web Site?
-
-This Policy applies only to Lutron Electronics Co. Inc. and this site. We do not monitor the content, information, or web practices of any web sites linked to or from our web site, and make no representations about the current security of these sites. We encourage users to review the privacy statements of every website that collects personally identifiable information.
-
-Please note that the existence of any external link to another website does not suggest that we are endorsing the linked company, its products and/or its services. 
-
-A Note About Children
-
-This site is not intended for use by minors under the age of 13 years, and we do not intend to collect any personal information or data from children under the age of 13. We do not believe that minors should submit personal information without the consent of a parent or guardian, and encourage parents and guardians to supervise their children's online activities.
-
-Conditions of Use
-
-Your use of this site is subject to this Privacy Statement. By using this site, you agree to be bound by this Policy.
-
-Who Do I Contact If I Have Any Further Questions Regarding Privacy and/or Security?
-
-[Click here](https://web.archive.org/web/20100413173852id_/http%3A//www.lutron.com/lutron/Contact.asp) to contact Lutron
+Your use of this site is subject to this Privacy Policy. By using this site, you agree to be bound by this Privacy Policy. 
