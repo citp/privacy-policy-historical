@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gofree.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504223904id_/http%3A//www.gofree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofree.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104746id_/http%3A//www.gofree.com/privacy.htm) for the most accurate reproduction.*
 
-# goFREE.com ~ Privacy Policy
+# GoFree.com ~ Privacy Policy
 
 GOFREE PRIVACY POLICY  
 LAST UPDATED: SEPTEMBER 21, 2009  
