@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaingateway.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308130423id_/http%3A//www.domaingateway.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaingateway.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122010659id_/http%3A//www.domaingateway.com/privacypolicy.php) for the most accurate reproduction.*
 
 # -:: Privacy Policy | Domain Gateway | Match - Connect - Display ::-
 
