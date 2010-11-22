@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epicbattleaxe.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504234500id_/http%3A//epicbattleaxe.com/epicbattleaxecom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicbattleaxe.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122111440id_/http%3A//epicbattleaxe.com/epicbattleaxecom-privacy-policy) for the most accurate reproduction.*
 
-# EpicBattleAxe » EpicBattleAxe.com Privacy Policy | Gaming News That Cuts Through The Crap!
+# EpicBattleAxe » EpicBattleAxe.com Privacy Policy | Cry Havoc and Let Your Voice Be Heard!
 
 **The short version**
 
@@ -10,7 +10,7 @@ That’s it. We don’t sell your email to anyone, we don’t share our member l
 
 For any and all questions, we can be reached via e-mail at [staff@epicbattleaxe.com](mailto:staff@epicbattleaxe.com)
 
- **The long version**
+**The long version**
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
