@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612193402id_/http%3A//openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081816id_/http%3A//openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Architecture Network
 
-Architecture for Humanity (“AFH”) and the Open Architecture Network (the “Network”) have created this statement to demonstrate our firm commitment to the privacy of our users. It discloses information gathering and dissemination practices for [www.openarchitecturenetwork.org](http://www.openarchitecturenetwork.org/ "www.openarchitecturenetwork.org"), the Open Architecture Network’s official Internet site. In this Privacy Policy statement, “we,” “us,” “its” and “ours” refers to the Network and/or AFH as the context requires, and “you” and “your” refers to you. 
+Architecture for Humanity (“AFH”) and the Open Architecture Network (the “Network”) have created this statement to demonstrate our firm commitment to the privacy of our users. It discloses information gathering and dissemination practices for [http://openarchitecturenetwork.org](http://openarchitecturenetwork.org/ "http://openarchitecturenetwork.org"), the Open Architecture Network’s official Internet site. In this Privacy Policy statement, “we,” “us,” “its” and “ours” refers to the Network and/or AFH as the context requires, and “you” and “your” refers to you. 
 
 **Use of IP Addresses**
 
@@ -24,6 +24,6 @@ We may use “cookies” to track your interaction with the Network. A “cookie
 
 **Delete/Deactivate**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Contact us](http://www.openarchitecturenetwork.org/contact) if you would like to deactivate your account.
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Contact us](https://web.archive.org/contact) if you would like to deactivate your account.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](http://www.openarchitecturenetwork.org/contact).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/contact).
