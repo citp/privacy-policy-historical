@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627004047id_/http%3A//wapreview.com/blog/%3Fpage_id%3D511) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122120034id_/http%3A//wapreview.com/blog/%3Fpage_id%3D511) for the most accurate reproduction.*
 
 # Privacy Policy for WapReview.com | Wap Review
 
@@ -25,4 +25,4 @@ Google AdSense is used on Wapreview.com.  Adsense serves ads based on the conte
 **How do I opt out of interest-based advertising?**  
 If you prefer not to receive interest-based advertising, you can click the “Opt out” [button at the top of this page](http://www.google.com/privacy_ads.html), or click on the “Opt out” button on the [Google Ads Preferences Manager Page](http://www.google.com/ads/preferences/). Google also offers a number of options to [permanently save your opt-out settings](http://www.google.com/ads/preferences/plugin) in your browser. After you opt out, Google will not collect interest category information and you will not receive interest-based ads. 
 
-[](https://www.inmobi.com/app/registration.html)
+[](http://inmobi.com/smart-dev/worlddevfund/)
