@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003517id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122150753id_/http%3A//davesite.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy - davesite.com
 
@@ -7,6 +7,8 @@ Our Goal at davesite.com and subsidiaries (including neonlollipops.com) is to pr
 ## Information Collection and Use
 
 We do not sell, share, or rent personal information about our users obtained from their use of our site or their correspondence with our staff. This includes information provided on feedback forms and any other way of contact we choose to give the user. 
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [http://www.valueclickmedia.com/member_privacy.shtml ](http://www.valueclickmedia.com/member_privacy.shtml)
 
 ## Cookies
 
@@ -17,15 +19,11 @@ Davesite.com uses cookies in an attempt to limit the amount of some types of adv
 
 
 
+We also use cookies to enhance your experience within the web site. The cookies used do not contain personal identifying information.
+
 **Managing Cookies**
 
-Learning about and managing cookies vary based on your web browser. To learn how to manage cookies with your web browser, type **managing cookies** and your browser name in the box below. For example, if you're using Internet Explorer, type **managing cookies Internet Explorer**. If you are using Firefox, type **managing cookies Firefox**. 
-
-We use third-party advertising companies to serve ads when you visit our website. These companies MAY use information (not including your name, address, email address, or telephone number) about your visits to this and all other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, view: 
-
-  * [ValueClick Privacy Statement](http://valueclick.com/privacy.html)
-
-In addition, please note that: 
+Learning about and managing cookies vary based on your web browser. To learn how to manage cookies with your web browser, type **managing cookies** and your browser name in the box below. For example, if you're using Internet Explorer, type **managing cookies Internet Explorer**. If you are using Firefox, type **managing cookies Firefox**.  In addition, please note that: 
 
   * Google uses [Doubleclick's DART cookie](http://www.doubleclick.com/privacy/faq.aspx) to serve ads to you based on your visit to this site and other sites on the Internet. 
   * You may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
@@ -55,7 +53,7 @@ On some pages in our site there is a box that allows our servers to e-mail users
 
 ## Changes in Policy
 
-Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001 / October 5, 2002 / May 20, 2008 / April 7, 2009. 
+Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001 / October 5, 2002 / May 20, 2008 / April 7, 2009, April 23, 2010. Sept 1, 2010.
 
 ## Contact
 
