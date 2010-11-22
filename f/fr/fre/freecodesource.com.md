@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecodesource.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324043709id_/http%3A//www.freecodesource.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecodesource.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122130934id_/http%3A//www.freecodesource.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,12 @@ FreeCodeSource.com logs non-personally-identifiable information including IP add
 
 FreeCodeSource.com contains links to sites. FreeCodeSource.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on FreeCodeSource.com.
 
-**Third Party Advertising**
+**Google Advertisements**
 
-Ads appearing on this Web site may be delivered to users by FreeCodeSource.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by FreeCodeSource.com and does not cover the use of cookies by any advertisers.
+Google, as a third party vendor, uses cookies to serve ads on FreeCodeSource.com.   
+Google's use of the DART cookie enables it to serve ads to you based on your visit to FreeCodeSource.com and other sites on the Internet.   
+You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
+
+**Other Third Party Advertising**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
