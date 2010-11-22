@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airlockalpha.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614113933id_/http%3A//www.airlockalpha.com/site/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlockalpha.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104915id_/http%3A//www.airlockalpha.com/site/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Airlock Alpha
+# Privacy Policy | AirlockAlpha.com
 
 We take privacy very seriously on the BlipNetwork sites, and want to make sure that you feel comfortable and safe while visiting any sites owned by Quantum Global Media Inc.
 
@@ -18,4 +18,4 @@ You may opt out of the use of the DART cookie by visiting [the Google ad and con
 
 BlipNetwork sites do not contain any pornographic elements, however, its text content is not censored, and thus does include adult language. The sites are not intended for those under 13, and no one under the age of 13 is allowed to submit personal information with any BlipNetwork or Quantum Global Media Inc. site. Quantum Global Media Inc. will never knowingly collect personal information from those under 13.
 
-Further questions about Quantum Global Media Inc.'s privacy policy can be directed to Michael Hinman at [mhinman@airlockalpha.com](https://web.archive.org/web/20100614113933id_/http%3A//www.airlockalpha.com/site/mhinman@airlockalpha.com).
+Further questions about Quantum Global Media Inc.'s privacy policy can be directed to Michael Hinman at [mhinman@airlockalpha.com](https://web.archive.org/web/20101122104915id_/http%3A//www.airlockalpha.com/site/mhinman@airlockalpha.com).
