@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fearzone.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409075738id_/http%3A//fearzone.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearzone.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122130753id_/http%3A//fearzone.com/static/privacy-policy) for the most accurate reproduction.*
 
 # FearZone.com
 
