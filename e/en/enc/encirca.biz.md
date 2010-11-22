@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704073510id_/http%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122032845id_/http%3A//encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
 
@@ -68,7 +68,7 @@ To revise or edit your personally identifiable information, simply use your new 
 
 Most requests for access to personal data are processed within seconds of being made through the EnCirca software Web interface. Some requests may take up to a few days to process, and the results may be delivered by e-mail. 
 
-Any other questions should be addressed to customer-support(at)EnCirca.us. 
+Any other questions should be addressed to customer-support(at)EnCirca.com. 
 
 Information about a member may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation. 
 
@@ -197,7 +197,7 @@ After a reasonable period of time (consistent with business requirements such as
 
 **Accountability**
 
-EnCirca always has a person designated as its privacy ombudsman, who is accountable for ensuring that EnCirca protects its members' privacy. Questions, concerns, issues or complaints may be sent to privacy(at)EnCirca.us 
+EnCirca always has a person designated as its privacy ombudsman, who is accountable for ensuring that EnCirca protects its members' privacy. Questions, concerns, issues or complaints may be sent to privacy(at)EnCirca.com 
 
 If you have any questions regarding our privacy policy, please contact us at: 
 
