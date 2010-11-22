@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124023527id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094458id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Homework Help from BrainMass
 
@@ -10,29 +10,21 @@ This Privacy Policy forms part of, and should be read in conjunction with, our L
 
 BM believes that privacy is crucial for the ongoing success of Internet commerce. Our status as an Online Solution Service provider requires us to have a stringent policy regarding all of the information that we collect.
 
-Your use of this site or BM’s services constitutes acceptance of these terms and conditions. If you do not agree with these policies, please cease using this site immediately.
+Your use of this site or BM's services constitutes acceptance of these terms and conditions. If you do not agree with these policies, please cease using this site immediately.
 
 BM takes reasonable precautions to ensure your privacy on the terms contained in this policy. BM uses reasonable efforts to, but cannot totally prevent, unintended disclosures by such means as hackers and other unauthorized individuals, and inadvertent or illicit employee actions.
 
 **What the Privacy Policy Covers**
 
-Privacy Information covers BM’s treatment of nonpublic personal information that we collect in connection with providing you with BrainMass.com services (such as BrainMass.com Online Teaching 
-
-Assistant or User Accounts and access thereto, BrainMass.com Post-a-Problem, BrainMass.com Submit-an-Essay, BrainMass.com Solution Library and BrainMass.com Advertising Services).
+Privacy Information covers BM's treatment of nonpublic personal information that we collect in connection with providing you with BrainMass.com services (such as BrainMass.com Online Teaching Assistant or User Accounts and access thereto, BrainMass.com Post-a-Problem, BrainMass.com Submit-an-Essay, BrainMass.com Solution Library and BrainMass.com Advertising Services).
 
 If you are a former user of a BM service, we will continue to treat the nonpublic personal information we collected from you in connection with our services as described here.
 
-We use information collected from the Online Teaching Assistant to send the Online Teaching Assistant information about BrainMass.com, to contact the Online Teaching Assistant for various reasons, and for internal accounting and other procedures. Information is used to check the Online Teaching Assistant’s eligibility and to obtain and verify qualifications in regard to the application, and to support the ongoing provision of service. It is also used for login validation purposes.
+We use information collected from the Online Teaching Assistant to send the Online Teaching Assistant information about BrainMass.com, to contact the Online Teaching Assistant for various reasons, and for internal accounting and other procedures. Information is used to check the Online Teaching Assistant's eligibility and to obtain and verify qualifications in regard to the application, and to support the ongoing provision of service. It is also used for login validation purposes.
 
 We use information collected from the user, to send the user information regarding the service requested and to support the on-going provision of service.
 
 **Information Automatically Collected**
-
-Our Web site keeps track of usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. Automatically collected information is also used for the same purposes as Online Teaching Assistant and student-supplied information.
-
-**Information Sharing and Disclosure**
-
-BM will not sell or rent your nonpublic personal information to anyone.
 
 BM may disclose nonpublic personal information about you to non-affiliated third parties as permitted by law, such as when:
 
@@ -42,7 +34,18 @@ BM may disclose nonpublic personal information about you to non-affiliated third
 
 
 
-Except for the above parties, and for use by BM’s consultants and professional advisers on BM’s behalf for the uses disclosed herein, BM does not share personal information with any other third parties. BM may, however, provide to third parties aggregate or statistical information that does not disclose personally identifiable information.
+Except for the above parties, and for use by BM's consultants and professional advisers on BM's behalf for the uses disclosed herein, BM does not share personal information with any other third parties but over time we may send you third party email offers. If at any time you would like to opt out of receiving such promotions please email [opt-out@brainmass.com](mailto:opt-out@brainmass.com). BM may also provide to third parties aggregate or statistical information that does not disclose personally identifiable information.
+
+BM may display targeted advertisements of interest or benefit to you based on nonpublic personal information. If you respond to these advertisements and then give the advertiser personal information about yourself, you may reveal to the advertiser or ad server that you possess the characteristics used to select the audience for the advertisement.
+
+  * BM does not share any personally identifiable information about you with any third parties when you click on these ads.
+  * BM advertisers may include financial service providers (such as mortgage bankers, securities broker-dealers, and insurance agents) and non-financial companies (such as retailers, airlines, and publishers).
+
+
+
+If you do not wish to disclose information about yourself to advertisers, you may choose to communicate with the advertiser directly in a manner that does not disclose that you viewed the BM advertisement.
+
+Except for the above parties, and for use by BM's consultants and professional advisers on BM's behalf for the uses disclosed herein, BM does not share personal information with any other third parties. BM may, however, provide to third parties aggregate or statistical information that does not disclose personally identifiable information.
 
 BM may display targeted advertisements of interest or benefit to you based on nonpublic personal information. If you respond to these advertisements and then give the advertiser personal information about yourself, you may reveal to the advertiser or ad server that you possess the characteristics used to select the audience for the advertisement.
 
@@ -61,7 +64,7 @@ Contact Us / Email Inquiries:
 
 No information sent to BrainMass.com via email or the website inquiry form is used for any other reason than to respond to and maintain a record of the inquiry. This information is not sent to third parties or retained for mailing list purposes.
 
-**Opt out / Correct / Update**
+**Corrections / Update**
 
 This site gives Online Teaching Assistants and student-users the following options for removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database:
 
@@ -84,5 +87,5 @@ Newmarket, ON, Canada
 L3Y 3T2  
 Email: [contact@brainmass.com](mailto:contact@brainmass.com)
 
-© BrainMass Inc. 2009  
-Last updated March 10, 2009
+© BrainMass Inc. 2010  
+Last updated September 1, 2010
