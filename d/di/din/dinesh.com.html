@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the dinesh.com privacy policy that was archived on 2010-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524035155id_/http%3A//www.dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dinesh.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122033658id_/http%3A//dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" style="display: block;"><head>
 <meta name="verify-v1" content="x1y+4q3l+7GFpMcE2lpFBTkZe1023Rgf7FNUOocchhM=">
-  <base href="http://www.dinesh.com/about_me/about_this_site/privacy_policy.html">
+  <base href="http://dinesh.com/about_me/about_this_site/privacy_policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="">
@@ -13,8 +13,48 @@
   <title>Privacy Policy</title>
   <link href="/templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/media/sef_advance/css/extlink.css" type="text/css">
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="http://connect.facebook.net/en_GB/all.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript">
+/* <![CDATA[ */
+	
+window.addEvent('domready',function(){
+    FB.init({appId: "138176169558050", status: false, cookie: true,
+             xfbml: false});
+	FB.XFBML.parse();
+});
+/* ]]> */
+/* <![CDATA[ */	
+window.addEvent('domready',function(){
+	FB.Event.subscribe('comments.add', function(response) {
+		FB.getLoginStatus(function(fbresponse) {
+  			if (fbresponse.session) {
+				uid = fbresponse.session.uid;
+				var sendComment = new Ajax('index.php?option=com_myapi&task=updateComments&uid='+uid+'&xid=articlecomment751&url=aHR0cDovL3d3dy5kaW5lc2guY29tL2Fib3V0X21lL2Fib3V0X3RoaXNfc2l0ZS9wcml2YWN5X3BvbGljeS5odG1s',{method: 'get'}).request();	
+			}
+		});
+	});
+	
+	
+	$$('.fbCommentLink').each(function(el,index){
+		
+			FB.api({method: 'comments.get',xid:  el.getAttribute('xid')},function(response){
+					if(el.isSet != true){
+				if(response.length > 0){
+				el.innerHTML = el.innerHTML+' ('+response.length+' comments)';
+				el.isSet = true;	
+				}
+					}
+			});	
+			
+	});
+	
+	
+	
+});
+	/* ]]> */
+  </script>
   <link rel="canonical" href="http://www.dinesh.com/about_me/about_this_site/privacy_policy.html">
   <!-- VOTItaly Plugin v1.1 starts here -->
 <link href="http://www.dinesh.com/plugins/content/ji_votitaly/css/votitaly.css" rel="stylesheet" type="text/css">
@@ -49,25 +89,28 @@
 <!-- VOTItaly Plugin v1.1 ends here -->
 
 
-<link rel="stylesheet" href="http://www.dinesh.com/templates/system/css/system.css" type="text/css">
-<link rel="stylesheet" href="http://www.dinesh.com/templates/system/css/general.css" type="text/css">
-<link rel="stylesheet" href="http://www.dinesh.com/templates/ja_purity/css/template.css" type="text/css">
+<link rel="stylesheet" href="http://dinesh.com/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="http://dinesh.com/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="http://dinesh.com/templates/ja_purity/css/template.css" type="text/css">
 
-<script language="javascript" type="text/javascript" src="http://www.dinesh.com/templates/ja_purity/js/ja.script.js"></script>
+<script language="javascript" type="text/javascript" src="http://dinesh.com/templates/ja_purity/js/ja.script.js"></script>
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'3021f455-f09b-46a4-9dd3-203ab1f6f901'});</script>
+
 
 <script language="javascript" type="text/javascript">
 var rightCollapseDefault='show';
 var excludeModules='38';
 </script>
-<script language="javascript" type="text/javascript" src="http://www.dinesh.com/templates/ja_purity/js/ja.rightcol.js"></script>
+<script language="javascript" type="text/javascript" src="http://dinesh.com/templates/ja_purity/js/ja.rightcol.js"></script>
 
-<link rel="stylesheet" href="http://www.dinesh.com/templates/ja_purity/css/menu.css" type="text/css">
+<link rel="stylesheet" href="http://dinesh.com/templates/ja_purity/css/menu.css" type="text/css">
 
 
-<link rel="stylesheet" href="http://www.dinesh.com/templates/ja_purity/styles/background/purewhite/style.css" type="text/css">
-<link rel="stylesheet" href="http://www.dinesh.com/templates/ja_purity/styles/elements/black/style.css" type="text/css">
+<link rel="stylesheet" href="http://dinesh.com/templates/ja_purity/styles/background/purewhite/style.css" type="text/css">
+<link rel="stylesheet" href="http://dinesh.com/templates/ja_purity/styles/elements/black/style.css" type="text/css">
 
-<!--[if gte IE 7.0]>
+<!--[if IE 7.0]>
 <style type="text/css">
 .clearfix {display: inline-block;}
 </style>
@@ -92,7 +135,7 @@ var excludeModules='38';
 
 <!-- BEGIN: HEADER -->
 <div id="ja-headerwrap">
-	<div id="ja-header" class="clearfix" style="background: url(http://www.dinesh.com/templates/ja_purity/images/header/header3.jpg) no-repeat top right;">
+	<div id="ja-header" class="clearfix" style="background: url(http://dinesh.com/templates/ja_purity/images/header/header3.jpg) no-repeat top right;">
 
 	<div class="ja-headermask">&nbsp;</div>
 
@@ -102,9 +145,9 @@ var excludeModules='38';
 		<p class="site-slogan">...celebrating 10 years</p>
 	
 			<ul class="ja-usertools-font">
-	      <li><img style="cursor: pointer;" title="Increase font size" src="http://www.dinesh.com/templates/ja_purity/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ja_font','inc'); return false;"></li>
-		  <li><img style="cursor: pointer;" title="Default font size" src="http://www.dinesh.com/templates/ja_purity/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ja_font',3); return false;"></li>
-		  <li><img style="cursor: pointer;" title="Decrease font size" src="http://www.dinesh.com/templates/ja_purity/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ja_font','dec'); return false;"></li>
+	      <li><img style="cursor: pointer;" title="Increase font size" src="http://dinesh.com/templates/ja_purity/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ja_font','inc'); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Default font size" src="http://dinesh.com/templates/ja_purity/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ja_font',3); return false;"></li>
+		  <li><img style="cursor: pointer;" title="Decrease font size" src="http://dinesh.com/templates/ja_purity/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ja_font','dec'); return false;"></li>
 		</ul>
 		<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>
 		
@@ -124,28 +167,41 @@ var excludeModules='38';
 		<div id="ja-mainbody" class="clearfix">
 
 		<!-- BEGIN: CONTENT -->
+		<div id="ja-contentwrap">
 
-                        <div id="ja-contentwrap">
-              
-            
-                        <!-- Added by Dinesh --> 
-                        		  
-                        <div id="ja-content">
+		
+		                        <!-- Added by Dinesh -->
+		                        
+		<div id="ja-content">
 
 			
 
 						<div id="ja-pathway">
-
 				<span class="breadcrumbs pathway">
-<a href="http://www.dinesh.com/" class="pathway">Home</a> <img src="/templates/ja_purity/images/arrow.png" alt=""> Privacy Policy</span>
+<a href="http://dinesh.com/" class="pathway">Home</a> <img src="/templates/ja_purity/images/arrow.png" alt=""> Privacy Policy</span>
 
 			</div>
 			
-
 			
+
+<!-- Table and ShareThis Added by Dinesh for Share This Begin 08.25.2010 -->
+<table>
+<tbody><tr>
+<td>
 <h2 class="contentheading"></h2><h1><a href="/about_me/about_this_site/privacy_policy.html" class="contentpagetitle">
 		Privacy Policy	</a>
 	</h1>
+</td>
+<td align="right">
+
+<br>
+<span class="st_twitter_hcount" displaytext="Tweet"></span><span class="st_facebook_hcount" displaytext="Share"></span><span class="st_email_hcount" displaytext="Email"></span><span class="st_sharethis_hcount" displaytext="Share"></span>
+
+<!-- Added by Dinesh for Share This End -->
+
+</td>
+</tr>
+</tbody></table>
 
 
 <div class="article-tools">
@@ -159,9 +215,7 @@ var excludeModules='38';
 				</div>
 
 		<div class="buttonheading">
-								<span>
-			<a href="/mailto.html?link=aHR0cDovL3d3dy5kaW5lc2guY29tL2Fib3V0X21lL2Fib3V0X3RoaXNfc2l0ZS9wcml2YWN5X3BvbGljeS5odG1s" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/ja_purity/images/emailButton.png" alt="E-mail"></a>			</span>
-			
+					
 						<span>
 			<a href="/about_me/about_this_site/privacy_policy/print.html" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/ja_purity/images/printButton.png" alt="Print"></a>			</span>
 			
@@ -177,7 +231,7 @@ var excludeModules='38';
 
 	<div class="votitaly-inline-rating-stars">
 	  <ul class="votitaly-star-rating">
-	    <li class="current-rating" style="width:0%;">&nbsp;</li>
+	    <li class="current-rating" style="width:100%;">&nbsp;</li>
 	    <li><a title="1 star out of 5" class="votitaly-toggler one-star">1</a></li>
 	    <li><a title="2 stars out of 5" class="votitaly-toggler two-stars">2</a></li>
 	    <li><a title="3 stars out of 5" class="votitaly-toggler three-stars">3</a></li>
@@ -187,7 +241,7 @@ var excludeModules='38';
 	</div>
 	
 	<div class="votitaly-box">
-(0 votes, average 0 out of 5)
+(1 vote, average 5.00 out of 5)
 	</div>
 </div>
 <!-- Votitaly Plugin v1.2 ends here -->
@@ -196,13 +250,14 @@ var excludeModules='38';
 <p><strong>Registered Users</strong><br>Dinesh.com allows users to register on this site. We do not share this information with any 3rd parties. This information is only used by the site to communicate with you in case we have any information to share. 
 </p><p><br><b>Log Files</b><br>Like many other Web sites, http://www.dinesh.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. <br><br><b>Cookies and Web Beacons</b> <br>http://www.dinesh.com does not use cookies. <br><br><b>DoubleClick DART Cookie</b> <br>.:: Google, as a third party vendor, uses cookies to serve ads on http://www.dinesh.com.<br>.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.dinesh.com and other sites on the Internet. <br>.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html <br><br>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....<br>Google Adsense<br><br><br>These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.dinesh.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. <br><br>http://www.dinesh.com has no access to or control over these cookies that are used by third-party advertisers. <br><br>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.dinesh.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. <br><br>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. <br></p>
 
-<!-- START of joscomment --><!-- END of joscomment --></div>
+</div>
 
 
 <span class="article_separator">&nbsp;</span>
 
 
 			<!-- Dinesh - Banner content removed from here -->
+
 
 		</div>
 		</div>
@@ -223,7 +278,7 @@ google_ad_height = 90;
 </script>		</p></div>
 			<div class="moduletable_menu">
 					<h3>Main Menu</h3>
-					<ul class="menu"><li class="item10000"><a href="http://www.dinesh.com/"><span>Home</span></a></li><li class="parent item10009"><a href="/bombay_scottish_school/bombay_scottish_school.html"><span>Bombay Scottish School</span></a></li><li class="parent item10028"><a href="/free_online_games.html"><span>Free Online Games</span></a></li><li class="parent item10018"><a href="/google_tips.html"><span>Google Tips</span></a></li><li class="parent item10022"><a href="/history_of_logos.html"><span>History of Logos</span></a></li><li class="parent item10033"><a href="/india_information.html"><span>India Information</span></a></li><li class="parent item10004"><a href="/about_me/about_me.html"><span>About Me</span></a></li><li class="item10043"><a href="/about_me/about_this_site/privacy_policy.html"><span>Privacy Policy</span></a></li></ul>		</div>
+					<ul class="menu"><li class="item10000"><a href="http://www.dinesh.com/"><span>Home</span></a></li><li class="parent item10009"><a href="/bombay_scottish_school/bombay_scottish_school.html"><span>Bombay Scottish School</span></a></li><li class="parent item10028"><a href="/free_online_games.html"><span>Free Online Games</span></a></li><li class="parent item10018"><a href="/google_tips.html"><span>Google Tips</span></a></li><li class="parent item10022"><a href="/history_of_logos.html"><span>History of Logos</span></a></li><li class="parent item10033"><a href="/india_information.html"><span>India Information</span></a></li><li class="parent item10004"><a href="/about_me/about_me.html"><span>About Me</span></a></li><li id="current" class="active item10043"><a href="/about_me/about_this_site/privacy_policy.html"><span>Privacy Policy</span></a></li></ul>		</div>
 			<div class="moduletable">
 					<div align="center"><br><script type="text/javascript"><!--
 google_ad_client = "pub-3824694534935045";
@@ -241,24 +296,24 @@ google_ad_height = 600;
 					<h3>Latest Articles</h3>
 					<ul class="latestnews">
 	<li class="latestnews">
-		<a href="/blog/dinesh_blog/wear_your_seat_belts_please.html" class="latestnews">
-			Wear your seat belts please</a>
+		<a href="/history_of_logos/india_logos/bharti_airtel_logo_-_design_and_history.html" class="latestnews">
+			Bharti Airtel Logo - Design and History</a>
 	</li>
 	<li class="latestnews">
-		<a href="/history_of_logos/cricket_logos/indian_premier_league_-_ipl_logos.html" class="latestnews">
-			Indian Premier League - IPL Logos</a>
+		<a href="/history_of_logos/cable_and_tv_logos/time_warner_cable_logo_-_design_and_history.html" class="latestnews">
+			Time Warner Cable Logo - Design and History</a>
 	</li>
 	<li class="latestnews">
-		<a href="/india_jokes-humor/bollywood_jokes/keshto_and_his_wife.html" class="latestnews">
-			Keshto and his wife</a>
+		<a href="/india_jokes-humor/mullah_nasruddin_jokes/the_doctor%27s_cure.html" class="latestnews">
+			The Doctor's Cure</a>
 	</li>
 	<li class="latestnews">
-		<a href="/india_jokes-humor/bollywood_jokes/bollywood_celebrities_email_addresses.html" class="latestnews">
-			Bollywood Celebrities email addresses</a>
+		<a href="/india_jokes-humor/mullah_nasruddin_jokes/the_pot.html" class="latestnews">
+			The Pot</a>
 	</li>
 	<li class="latestnews">
-		<a href="/india_jokes-humor/desi_sms_jokes/nigahon_se_dekh_liya_hota.html" class="latestnews">
-			Nigahon se dekh liya hota</a>
+		<a href="/india_jokes-humor/mullah_nasruddin_jokes/sack_of_vegetables.html" class="latestnews">
+			Sack of Vegetables</a>
 	</li>
 </ul>		</div>
 			<div class="moduletable">
@@ -283,7 +338,16 @@ google_ad_height = 600;
 
 				<!-- BEGIN: RIGHT COLUMN -->
 		<div id="ja-col2">
-					<div class="jamod module" id="Mod39">
+					<div class="jamod module" id="Mod74">
+			<div>
+				<div>
+					<div>
+												<div class="jamod-content"><p><span class="st_twitter_large" displaytext="Tweet"></span><span class="st_facebook_large" displaytext="Facebook"></span><span class="st_ybuzz_large" displaytext="Yahoo! Buzz"></span><span class="st_gbuzz_large" displaytext="Google Buzz"></span><span class="st_email_large" displaytext="Email"></span><span class="st_sharethis_large" displaytext="ShareThis"></span></p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="jamod module" id="Mod39">
 			<div>
 				<div>
 					<div>
@@ -303,24 +367,25 @@ google_ad_height = 600;
 				</div>
 			</div>
 		</div>
-			<div class="jamod module" id="Mod69">
+			<div class="jamod module" id="Mod73">
 			<div>
 				<div>
 					<div>
-																		<h3 class="show"><span>Win this Recipe Book</span></h3>
-												<div class="jamod-content"><p><img src="http://www.dinesh.com/images/stories/articles/s_modern_indian_cooking.jpg" mce_src="/images/stories/articles/s_modern_indian_cooking.jpg" alt=""></p><p><a target="_blank" mce_href="http://www.indianfoodsguide.com/food-articles/indian-food-articles/modern-indian-cooking-recipe-book-giveaway.html" href="http://www.indianfoodsguide.com/food-articles/indian-food-articles/modern-indian-cooking-recipe-book-giveaway.html">Learn how you can win an autographed copy of this book.</a><br mce_bogus="1"></p></div>
-					</div>
-				</div>
-			</div>
-		</div>
-			<div class="jamod module" id="Mod66">
-			<div>
-				<div>
-					<div>
-																		<h3 class="show"><span>Become a Fan of Indian Food</span></h3>
-												<div class="jamod-content"><p><script src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" mce_src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script><script type="text/javascript">FB.init("acae7f5f5588385330f058c2a46e2fc6");</script><fb:fan profile_id="114758257647" stream="" connections="10" width="300"></fb:fan></p><div style="font-size: 8px; padding-left: 10px;"><a href="http://www.facebook.com/pages/Indian-Foods-Guide/114758257647" mce_href="http://www.facebook.com/pages/Indian-Foods-Guide/114758257647">Indian Foods Guide</a> on Facebook</div><div style="font-size: 8px; padding-left: 10px;">&nbsp;</div><div style="font-size: 8px; padding-left: 10px;">&nbsp;</div><div style="font-size: 8px; padding-left: 10px;">&nbsp;</div>
-
-If you like Indian Food, then you can signup as a Facebook Fan on our partner site.</div>
+																		<h3 class="show"><span>Facebook Recommendations Box</span></h3>
+												<div class="jamod-content"><style type="text/css">
+.myApiCredits{
+	display:none;
+}
+	
+</style>
+<div class="">
+<fb:recommendations border_color="" colorscheme="light" header="1" width="180" height="" font="arial"></fb:recommendations>
+</div>
+<div class="myApiCredits"> 
+<a href="/index.php?option=com_content&amp;view=article&amp;id=751&amp;Itemid=10043" title="login powered by" rel="follow">Login powered by  </a> <a href="http://www.myapi.co.uk" title="myApi is a Joomla component that brings Facebook Connect login to your webiste." rel="follow" target="_blank">myApi, the Facebook Connect bridge for Joomla</a>
+<br><a href="/index.php?option=com_content&amp;view=article&amp;id=751&amp;Itemid=10043" rel="follow" target="_blank"><img src="/images/blank.png" border="0" alt="" title=""></a><br>
+<a href="http://www.thomaswelton.co.uk/" title="Web Design Newport - Web Design and Development by Thomas Welton in Newport, Cwmbran, Leeds and London" name="Web Design Newport - Web Design and Development by Thomas Welton in Newport, Cwmbran, Leeds and London">Web design and development of myApi</a>
+</div></div>
 					</div>
 				</div>
 			</div>
@@ -330,7 +395,7 @@ If you like Indian Food, then you can signup as a Facebook Fan on our partner si
 				<div>
 					<div>
 																		<h3 class="show"><span>Most Popular Pages</span></h3>
-												<div class="jamod-content"><a href="/india/careers.shtml">India Careers </a><br><a href="/History_of_Logos">History of Logos</a> <br><a href="/India_Jokes-Humor">India Jokes</a> <br><a href="/india/realestate.shtml">India Real Estate</a> <br><a href="/blogsection/Google_Tips/">Google Tips</a></div>
+												<div class="jamod-content"><p><a href="/india/careers.shtml" mce_href="/india/careers.shtml">India Careers </a><br><a href="/history_of_logos.html" mce_href="/History_of_Logos">History of Logos</a> <br><a href="/India_Jokes-Humor" mce_href="/India_Jokes-Humor">India Jokes</a> <br><a href="/india/realestate.shtml" mce_href="/india/realestate.shtml">India Real Estate</a> <br><a href="/google_tips.html" mce_href="/blogsection/Google_Tips/">Google Tips</a><br mce_bogus="1"></p></div>
 					</div>
 				</div>
 			</div>
@@ -349,7 +414,6 @@ If you like Indian Food, then you can signup as a Facebook Fan on our partner si
 		<!-- END: RIGHT COLUMN -->
 		
 	</div>
-
 	</div>
 </div>
 </div>
@@ -370,11 +434,11 @@ If you like Indian Food, then you can signup as a Facebook Fan on our partner si
 
 	<div class="ja-cert">
 		
-		<a href="http://jigsaw.w3.org/css-validator/validator?uri=%2Fabout_me%2Fabout_this_site%2Fprivacy_policy.html" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
-		<img src="http://www.dinesh.com/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS">
+    <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
+		<img src="http://dinesh.com/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS">
 		</a>
 		<a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
-		<img src="http://www.dinesh.com/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional">
+		<img src="http://dinesh.com/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional">
 		</a>
 	</div>
 
@@ -387,7 +451,7 @@ If you like Indian Food, then you can signup as a Facebook Fan on our partner si
 
 
 
-
+<div id="fb-root"></div><!-- Correct fb_xd_fragment Bug Start --> <script> document.getElementsByTagName("html")[0].style.display="block";</script> <!-- Correct fb_xd_fragment Bug End -->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -398,5 +462,20 @@ try {
 var pageTracker = _gat._getTracker("UA-424429-2");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+<!-- Anu Analytics --> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19113894-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 </body></html>
