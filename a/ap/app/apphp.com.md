@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apphp.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602233423id_/http%3A//www.apphp.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apphp.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105838id_/http%3A//www.apphp.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Advanced Power of PHP - Professional PHP Web Scripts :: Privacy policy
 
