@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622013106id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122185012id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Moneymagpie
 
@@ -10,6 +10,7 @@ Money](https://web.archive.org/make-money/)
     * [Fun Money Makers](https://web.archive.org/tag/fun-money-makers/)
     * [Quick Money Makers](https://web.archive.org/tag/quick-money-makers/)
     * [Small Business](https://web.archive.org/tag/small-business/)
+      * [Small Business Blog](https://web.archive.org/small-business-blog/)
     * [Use Your Body](https://web.archive.org/tag/use-your-body/)
     * [Use Your Computer](https://web.archive.org/tag/use-your-computer/)
     * [Use Your Hobbies](https://web.archive.org/tag/use-your-hobbies/)
@@ -21,6 +22,7 @@ Investing](https://web.archive.org/saving-investing/)
     * [Banking](https://web.archive.org/tag/banking/)
     * [Collecting](https://web.archive.org/tag/collecting/)
     * [Investing](https://web.archive.org/tag/investing/)
+      * [Investing & Finances](https://web.archive.org/investing-finances/)
     * [Investing for Children](https://web.archive.org/tag/investing-for-children/)
     * [Saving](https://web.archive.org/tag/saving/)
     * [Financial Planning](https://web.archive.org/tag/financial-planning/)
@@ -35,18 +37,20 @@ Investing](https://web.archive.org/saving-investing/)
       * [Travel Insurance](http://track.omguk.com/?PID=4980&AID=4107&CID=1000449&MID=4922&WID=11307)
       * [Home Insurance](http://track.omguk.com/?PID=4979&AID=4107&CID=1000448&MID=4922&WID=11307)
       * [Health Insurance](http://www.activequote.com/health-insurance/?ref=moneymagpie)
-      * [Life Insurance](https://www.money-minder.com/life-insurance.jsp?source=moneymagpie)
+      * [Life Insurance](http://www.moneymagpie.com/life-insurance/)
       * [Pet Insurance](http://www.awin1.com/cread.php?platform=dl&awinmid=1854&awinaffid=72610&clickref=&p=https%3A%2F%2Fwww.beatthatquote.com%2Fcapture%2Fpet_insurance%2Fpet_information%3Faffid%3D!!!id!!!)
       * [Motorbike Insurance](http://www.awin1.com/cread.php?platform=dl&awinmid=1854&awinaffid=72610&clickref=&p=https%3A%2F%2Fwww.beatthatquote.com%2Fcapture%2Fmotor_bike_insurance%2Fvehicle_detail%3Faffid%3D!!!id!!!)
       * [Mobile Phone Insurance](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=98991&merchantID=2382&programmeID=6421&mediaID=0&tracking=&url=http://www.insurance2go.co.uk/mobile/)
-      * [Income Protection](http://www.awin1.com/cread.php?platform=dl&awinmid=1854&awinaffid=72610&clickref=&p=http%3A%2F%2Fwww.beatthatquote.com%2Finsurance%2Fincome_protection_insurance.html%3Faffid%3D!!!id!!!)
+      * [Income Protection](http://www.moneymagpie.com/income-protection/)
+      * [Mortgage Protection](http://www.moneymagpie.com/mortgage-protection/)
+      * [Critical Illness](http://www.moneymagpie.com/critical-illness/)
     * [Current Accounts](https://web.archive.org/current-accounts-comparisons/)
     * Savings 
       * [Saving](https://web.archive.org/savings-account-comparisons/)
       * [ISAs](https://web.archive.org/isas-comparisons/)
     * [Loans](https://web.archive.org/loans-comparisons/)
     * [Utilities](https://web.archive.org/cheapest-utilities-bills/)
-      * [Switch Energy Supplier](http://redirectingat.com/?id=462X739&url=http%3A%2F%2Fwww.energyhelpline.com%2Fmoneymagpie)
+      * [Switch Energy Supplier](http://www.moneymagpie.com/switch-energy-supplier/)
       * [Cheaper Landline](http://redirectingat.com/?id=462X739&url=http%3A%2F%2Fhomephone.consumerchoices.co.uk%2F%3FPartner%3Dmoneymagpie)
     * [Cash for Mobile](https://web.archive.org/recycle-your-mobile-for-cash/)
     * [Find an IFA](https://web.archive.org/find-an-independent-financial-advisor/)
@@ -55,17 +59,18 @@ Investing](https://web.archive.org/saving-investing/)
       * [Cheap Mobile Broadband](http://mobile.broadbandgenie.co.uk/partner/moneymagpie)
     * [Cheap Flights](https://web.archive.org/skyscanner/)
     * [Cheap Travel](https://web.archive.org/travel-comparisons/)
-  * [Bargains  
+  * [Latest Bargains   
  ](https://web.archive.org/bargains/)
     * [Smart Spending](https://web.archive.org/tag/smart-spending/)
+      * [The Thrift Blog](https://web.archive.org/the-stylish-thrift-blog/)
     * [Health and Beauty](https://web.archive.org/tag/health-and-beauty/)
     * [Free Stuff](https://web.archive.org/tag/free-stuff/)
     * [Gadgets](https://web.archive.org/tag/gadgets/)
     * [Gifts](https://web.archive.org/tag/gifts/)
     * [Travel Bargains](https://web.archive.org/tag/travel-bargains/)
     * [For the Home](https://web.archive.org/tag/home/)
-  * [Credit Cards  
-& Loans](https://web.archive.org/credit-cards/)
+  * [Credit Cards   
+& Loans ](https://web.archive.org/credit-cards/)
     * [Credit Cards](https://web.archive.org/tag/credit-cards/)
     * [Credit Record](https://web.archive.org/tag/credit-rating/)
     * [Loans](https://web.archive.org/tag/loans/)
@@ -79,53 +84,30 @@ Mortgages](https://web.archive.org/home-mortgages/)
   * [Lifestyle  
  ](https://web.archive.org/lifestyle/)
     * [Children & Finance](https://web.archive.org/tag/children-and-finance/)
+      * [The Teen Blog](https://web.archive.org/the-teen-blog/)
     * [Ethical](https://web.archive.org/tag/ethical/)
     * Families 
       * [Couples](https://web.archive.org/tag/couples/)
       * [Families](https://web.archive.org/tag/families/)
+      * [Family Blog](https://web.archive.org/the-family-blog/)
     * [Food](https://web.archive.org/tag/food/)
+      * [Food Blog](https://web.archive.org/food-blog/)
     * [Green](https://web.archive.org/tag/green/)
     * [Silver Surfers](https://web.archive.org/tag/silver-surfers/)
     * [Travel](https://web.archive.org/tag/travel/)
     * [Fun Days Out](https://web.archive.org/tag/fun-days-out/)
     * [Free Living](https://web.archive.org/tag/free-living/)
     * [Students](https://web.archive.org/tag/students/)
+      * [Student Blog](https://web.archive.org/the-student-blog/)
     * [Insurance](https://web.archive.org/tag/insurance/)
-  * [Debt  
-Issues](https://web.archive.org/borrowing-debt/)
+    * [Rip-Off Britain](https://web.archive.org/rip-off-britain/)
+  * [Debt Issues   
+  ](https://web.archive.org/borrowing-debt/)
     * [Bankruptcy & Repossession](https://web.archive.org/tag/bankruptcy-&-debt/)
     * [Get out of Debt](https://web.archive.org/tag/get-out-of-debt/)
     * [Credit Record](https://web.archive.org/tag/credit-record/)
-  * [Blogs  
-Page](https://web.archive.org/blogs/)
-    * [Jasmine Birtles](https://web.archive.org/jasmines-blog/)
-    * [Food](https://web.archive.org/food-blog/)
-    * [Investing & Finances](https://web.archive.org/investing-finances/)
-    * [Immy & Me](https://web.archive.org/mother-bump/)
-    * [Nectar Savvy Shopper Blog](https://web.archive.org/nectar-savvy-shopper/)
-    * [Small Business Blog](https://web.archive.org/small-business-blog/)
-    * [Family](https://web.archive.org/the-family-blog/)
-    * [Rip-Off Britain](https://web.archive.org/rip-off-britain/)
-    * [Ebay and Beyond](https://web.archive.org/the-ebay-blog/)
-    * [Student Blog](https://web.archive.org/the-student-blog/)
-    * [The Thrift Blog](https://web.archive.org/the-stylish-thrift-blog/)
-    * [The Teen Blog](https://web.archive.org/the-teen-blog/)
-  * [Cashback  
- ](http://www.moneymagpiecashback.com/)
-    * [Moneymagpie Cashback](http://www.moneymagpiecashback.com/)
-    * [Quidco](http://www.quidco.com/ref?cid=21&rid1=&rid2)
-    * [Top Cashback](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=98991&merchantID=1756&programmeID=4757&mediaID=0&tracking=&url)
-    * [Wepromiseto](http://www.wepromiseto.co.uk/r/5281)
-    * [Give Or Take](http://www.giveortake.com/track.php?aid=a1019)
-    * [Rpoints](http://www.rpoints.com/?ruid=225936)
-    * [My Shopping Rewards](http://www.myshoppingrewards.com/?r=698996957)
-    * [Rewardcircle](http://www.rewardcircle.com/?uid=Moneymagpie)
-    * [MRS Cashback](http://www.mrscashback.com/refer/?MM636920)
-    * [eDeals UK](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=98890&merchantID=1423&programmeID=4169mediaID=0&tracking=&URL)
-    * [Trolleycash](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=98890&merchantID=1878&programmeID=5057mediaID=0&tracking=&URL)
-    * [Cashback Junction](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=98890&merchantID=2119&programmeID=5636mediaID=0&tracking=&URL)
-    * [Moneyback Madness](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=98991&merchantID=2717&programmeID=7085&mediaID=0&tracking=&url)
-    * [Cashback Shopper](http://www.cashbackshopper.co.uk/secure/refer.php?referrer=10333)
+  * [Forum  
+ ](http://forum.moneymagpie.com/)
 
 
 
@@ -137,6 +119,6 @@ Page](https://web.archive.org/blogs/)
   6. We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us.
   7. We may use ‘cookies’ while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly.
   8. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws.  Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies.
-  9. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us using the [email form](http://www.moneymagpie.com/showContactUs) or by writing to:  **MoneyMagpie Limited, 18 High West Street, Dorchester, Dorset, DT1 1UW**.
+  9. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us using the [email form](http://www.moneymagpie.com/contact-us/) or by writing to:  **MoneyMagpie Limited, 18 High West Street, Dorchester, Dorset, DT1 1UW**.
 
 
