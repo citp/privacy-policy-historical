@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225073504id_/http%3A//www.mytoshiba.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105822id_/http%3A//www.mytoshiba.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy :: About Toshiba :: Toshiba
 
@@ -16,7 +16,7 @@ These terms and conditions relate to the use of this web site and are governed b
 
 ### Spam Policy
 
-Toshiba (Australia) Pty Limited (“Toshiba”) is committed to complying with its obligations under the Spam Act 2003 (Cth), at all times. Toshiba assures you that:
+Toshiba (Australia) Pty Limited ("Toshiba") is committed to complying with its obligations under the Spam Act 2003 (Cth), at all times. Toshiba assures you that:
 
   * Toshiba has crafted an internal policy to educate its staff on the legislation and implement clear guidelines and rules in relation to the dissemination of commercial electronic messages;
   * Toshiba will not send you any unsolicited commercial electronic messages without your consent;
@@ -28,8 +28,8 @@ Toshiba (Australia) Pty Limited (“Toshiba”) is committed to complying with i
 To assist Toshiba to combat Spam we kindly request your assistance with the following:
 
   * If you receive an offensive message, which appears to originate from a Toshiba email address, please assume that it has been sent in error and notify us immediately on the above noted contact details; 
-  * Please ensure that you unsubscribe from any of Toshiba’s mailing lists if you decide you no longer wish to receive commercial messages from Toshiba; and 
-  * If you do subscribe to Toshiba’s mailing lists, please ensure that we have your current details at all times, by updating us on any change in or cancellation of your email address. 
+  * Please ensure that you unsubscribe from any of Toshiba's mailing lists if you decide you no longer wish to receive commercial messages from Toshiba; and 
+  * If you do subscribe to Toshiba's mailing lists, please ensure that we have your current details at all times, by updating us on any change in or cancellation of your email address. 
 
 
 
