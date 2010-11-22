@@ -1,91 +1,52 @@
-> *The following text is extracted and transformed from the familybuilder.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107163802id_/http%3A//familybuilder.com/siteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familybuilder.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122063916id_/http%3A//familybuilder.com/siteprivacypolicy) for the most accurate reproduction.*
 
-# Global Site Privacy Policy Familybuilder
+# Familybuilder Including Family Tree on Facebook, Newsletters, and Genealogy
 
-Effective: 07/01/07
+Updated: 09/27/10
 
-Familybuilder.com ("Familybuilder," "we" or "us") has implemented this Privacy Policy to provide our registered users ("Members") and unregistered users and visitors (collectively "Users" or "you") information regarding the collection and use of your information on the Family Tree series of applications and the Familybuilder.com destination site ("Applications"), so that you can make an informed decision about your use of the Applications.
+Familybuilder.com ("Familybuilder," "we" or "us") has implemented this Privacy Policy to provide our registered users ("Members") and unregistered users and visitors (collectively "Users" or "you") information regarding the collection and use of your information on the Family Tree Application ("Application"), so that you can make an informed decision about your use of the Application.
 
- _ **Information Collected**_ _ **Personal Information:**_
+_Information Collected_
 
-Familybuilder asks you for certain information in the course of building your family tree and using other Applications functionality including relatives' names, emails, places of birth, dates of birth, and other such information. Do not supply to us or disclose in the Applications any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age, as we do not intend to collect information from anyone under 13 or invite them to participate in the Applications.
+**Personal Information:**  
+Familybuilder asks you for certain information in the course of building your family tree and using other Application functionality including relatives' names, emails, places of birth, dates of birth, and other such information. Do not supply to us or disclose in the Application any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age, as we do not intend to collect information from anyone under 13 or invite them to participate in the Application. 
 
-You may also provide Personally Identifiable Information to include in your profile or your family member's profiles to tell others about yourself or those in your family tree, or when taking advantage of promotions, responding to surveys, or subscribing to newsletters or other lists.
+You may also provide Personally Identifiable Information to include in your profile or your family member's profiles to tell others about yourself or those in your family tree, or when taking advantage of promotions, responding to surveys, or subscribing to newsletters or other lists. 
 
-**_Anonymous Information:_**
+**Anonymous Information:**  
+Familybuilder uses cookies to collect information for record keeping purposes and make it easier to navigate the Application. Cookies are small text files that are stored on users' hard drives. We will not use cookies to collect personal information without getting your permission. Familybuilder uses both "session ID cookies" and "persistent cookies." Session ID cookies are used to store information while a user is logged into the site and expire when the user closes their browser. Persistent cookies are used to make tasks like logging into the site easier for returning users by remembering a user's login information. Persistent cookies stay on a user's hard drive from one session to the next. You may choose not to receive cookies from Familybuilder by following instructions in your web browser's "help" file, but this may make certain features of the Application inaccessible to you. Familybuilder also collects Users' IP addresses and basic log file information (such as address, browser type and language, number of clicks, domain names of web sites visited, pages viewed, the amount of time spent on particular pages, and the date and time) to help locate potential problems with our servers, and to aggregate general user statistics including demographic and geographical information. We use this information to analyze general usage patterns, and to provide advertisements and other services appropriate to the user's location. Familybuilder may aggregate user information in a non-personally identifiable manner to share with advertisers and to enhance the Application with new features. Third-party ad servers or ad networks may serve advertisements on the Application. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear in the Application. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Familybuilder does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Familybuilder to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks. The Familybuilder.com Privacy Policy does not apply to, and we cannot control the activities of, such advertisers.
 
-Familybuilder uses cookies to collect information for record keeping purposes and make it easier to navigate the Applications. Cookies are small text files that are stored on users' hard drives. We will not use cookies to collect personal information without getting your permission. Familybuilder uses both "session ID cookies" and "persistent cookies." Session ID cookies are used to store information while a user is logged into the site and expire when the user closes their browser. Persistent cookies are used to make tasks like logging into the site easier for returning users by remembering a user's login information. Persistent cookies stay on a user's hard drive from one session to the next. You may choose not to receive cookies from Familybuilder by following instructions in your web browser's "help" file, but this may make certain features of the Applications inaccessible to you.
+_Use of Information_
 
-Familybuilder also collects Users' IP addresses and basic log file information (such as address, browser type and language, number of clicks, domain names of web sites visited, pages viewed, the amount of time spent on particular pages, and the date and time) to help locate potential problems with our servers, and to aggregate general user statistics including demographic and geographical information. We use this information to analyze general usage patterns, and to provide advertisements and other services appropriate to the user's location. Familybuilder may aggregate user information in a non-personally identifiable manner to share with advertisers and to enhance the Applications with new features.
+**Personal Information:**  
+If you submit Information to us through the Application, then we use this information to operate, maintain, and provide the features and functionality of the Application. You can set the privacy settings on your account to control access to the information in your family tree by other Users or Members. Note that those Members could forward this information to other Users or non-users. Familybuilder may use your relatives' email addresses to invite them to join your tree. By providing Familybuilder your email address you consent to our using the email address to send you Service-related notices, including among other things notices required by law, in lieu of postal mail. You may not opt out of Service-related e-mails. We may also use your email address to send you other messages, including changes to Familybuilder features and special offers. If you do not want to receive such email messages, you may opt out by changing your account settings or by sending mail to the following postal address: Customer Service, iFamily Inc. 1515 Broadway 11th Floor New York, NY 10036. Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers.
 
-Third-party ad servers or ad networks may serve advertisements on the Applications. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear in the Applications. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+**Anonymous Information:**  
+We use non-Personally Identifiable Information, such as anonymous Application use data and IP addresses, to improve the quality and design of the Application and to create new features and services by storing, tracking, and analyzing your preferences and trends. We may use such information to: (a) remember information so that you will not have to re-enter it during your current or subsequent visits to the Application; (b) provide customized content and information; (c) monitor the effectiveness of our marketing campaigns and aggregate metrics such as total number of visitors and traffic; (d) diagnose or fix technology problems; (e) access your information after you sign in; (f) market our Application to advertisers and other third parties; (g) aggregate general User and Member statistics including demographic and geographic information; and (h) other purposes for which your personal identity is not revealed. Posted Information. Any information or Content that you voluntarily disclose for posting to public areas of the Application (for instance, in the forum or in sections of the Application Home tab) becomes available to the public.
 
-Familybuilder does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Familybuilder to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+**Sharing of Information**  
+Familybuilder will not share your email address with advertisers or unaffiliated third parties without first obtaining your express permission. We may provide information, including personal information, to our subsidiaries, affiliated companies, or subcontractors, so such parties can, among other things (a) perform services and/or process such information on our behalf, (b) use the information to offer greater functionality and enhanced services through the Application, and provide you with additional product and service opportunities, and (c) communicate these opportunities to you. When we do this, the recipients of your information are bound by the terms of this Privacy Policy. We share non-Personally Identifiable Information (such as anonymous Application use data) with third-parties to assist them in understanding our Application, including Users' use of our Application and the services we provide and the success of advertisements and promotions. We may release your information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state or federal laws or respond to a court order, subpoena, law enforcement or regulatory request, or search warrant. We reserve the right to collect and share any information: in order to investigate, prevent, or take action regarding suspected or actual illegal activities; as appropriate or necessary to enforce our Terms of Use or investigate potential or actual violations of the Terms of Use or Privacy Policy; take precautions against liability; to protect the security or integrity of our Application; to exercise or protect the rights, property, or the rights and personal safety of Familybuilder.com affiliates, Users or others; or for other legitimate purposes. We may assign or transfer the information we collect to a third party in the event that Familybuilder is acquired by or merged with a third party entity or due to bankruptcy, insolvency, reorganization, receivership, or similar situation.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. The Familybuilder.com Privacy Policy does not apply to, and we cannot control the activities of, such advertisers.
+**Children's Privacy**  
+Protecting the privacy of young children is especially important and is mandated by U.S. law. For these reasons, Familybuilder.com does not knowingly collect Personally Identifiable Information in the Application from persons under 13 years of age, and no part of our Application is directed to persons under 13. If you are under 13 years of age, then you must not use or access the Application at any time or in any manner or provide any information to the Application.
 
-**_Use of Information_**
+**International Users**  
+The Application is hosted in the United States and is intended for and directed to Users in the United States. The Application and services are void where prohibited. If you are accessing the Application from outside the United States, your use of the Application is governed by U.S. law, you are transferring your personal information to the United States, and you consent to that transfer.
 
-Personal Information: If you submit Information to us through the Applications, then we use this information to operate, maintain, and provide the features and functionality of the Applications. You can set the privacy settings on your account to control access to the information in your family tree by other Users or Members. Note that those Members could forward this information to other Users or non-users.
+**Your Choices**  
+You may, of course, decline to submit Personally Identifiable Information to the Application, in which case Familybuilder.com may not be able to provide certain services to you. You may update or correct your personal Application Information, including Personally Identifiable Information, by using the Application to edit, delete or change the information. You may also adjust your account settings to determine who has access to your family tree and other Personally Identifiable Information through the Application. You may request that Familybuilder.com remove other information from the current Application by contacting us at support@Familybuilder.com with the understanding that Familybuilder.com may maintain an archive of the information that you submit not on the Application.
 
-Familybuilder may use your relatives' email addresses to invite them to join your tree. By providing Familybuilder your email address you consent to our using the email address to send you Service-related notices, including among other things notices required by law, in lieu of postal mail. You may not opt out of Service-related e-mails. We may also use your email address to send you other messages, including changes to Familybuilder features and special offers. If you do not want to receive such email messages, you may opt out by changing your account settings or by sending mail to the following postal address:
-
-**_Customer Service_**  
-Familybuilder, Inc.  
-41 East 60th Street, 6th Fl.  
-New York, NY 10022  
-Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers.
-
- _ **Anonymous Information:**_
-
-We use non-Personally Identifiable Information, such as anonymous Applications use data and IP addresses, to improve the quality and design of the Applications and to create new features and services by storing, tracking, and analyzing your preferences and trends. We may use such information to: (a) remember information so that you will not have to re-enter it during your current or subsequent visits to the Applications; (b) provide customized content and information; (c) monitor the effectiveness of our marketing campaigns and aggregate metrics such as total number of visitors and traffic; (d) diagnose or fix technology problems; (e) access your information after you sign in; (f) market our Applications to advertisers and other third parties; (g) aggregate general User and Member statistics including demographic and geographic information; and (h) other purposes for which your personal identity is not revealed.
-
-Posted Information. Any information or Content that you voluntarily disclose for posting to public areas of the Applications (for instance, in the forum or in sections of the Applications Home tab) becomes available to the public.
-
- _ **Sharing of Information**_
-
-Familybuilder will not share your email address with advertisers or unaffiliated third parties without first obtaining your express permission.
-
-We may provide information, including personal information, to our subsidiaries, affiliated companies, or subcontractors, so such parties can, among other things (a) perform services and/or process such information on our behalf, (b) use the information to offer greater functionality and enhanced services through the Applications, and provide you with additional product and service opportunities, and (c) communicate these opportunities to you. When we do this, the recipients of your information are bound by the terms of this Privacy Policy.
-
-We share non-Personally Identifiable Information (such as anonymous Applications use data) with third-parties to assist them in understanding our Applications, including Users' use of our Applications and the services we provide and the success of advertisements and promotions.
-
-We may release your information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state or federal laws or respond to a court order, subpoena, law enforcement or regulatory request, or search warrant. We reserve the right to collect and share any information: in order to investigate, prevent, or take action regarding suspected or actual illegal activities; as appropriate or necessary to enforce our Terms of Use or investigate potential or actual violations of the Terms of Use or Privacy Policy; take precautions against liability; to protect the security or integrity of our Applications; to exercise or protect the rights, property, or the rights and personal safety of Familybuilder.com affiliates, Users or others; or for other legitimate purposes.
-
-We may assign or transfer the information we collect to a third party in the event that Familybuilder is acquired by or merged with a third party entity or due to bankruptcy, insolvency, reorganization, receivership, or similar situation.
-
- _ **Children's Privacy**_
-
-Protecting the privacy of young children is especially important and is mandated by U.S. law. For these reasons, Familybuilder.com does not knowingly collect Personally Identifiable Information in the Applications from persons under 13 years of age, and no part of our Applications is directed to persons under 13. If you are under 13 years of age, then you must not use or access the Applications at any time or in any manner or provide any information to the Applications.
-
- _ **International Users**_
-
-The Applications is hosted in the United States and is intended for and directed to Users in the United States. The Applications and services are void where prohibited. If you are accessing the Applications from outside the United States, your use of the Applications is governed by U.S. law, you are transferring your personal information to the United States, and you consent to that transfer.
-
- _ **Your Choices**_
-
-You may, of course, decline to submit Personally Identifiable Information to the Applications, in which case Familybuilder.com may not be able to provide certain services to you.
-
-You may update or correct your personal Applications Information, including Personally Identifiable Information, by using the Applications to edit, delete or change the information. You may also adjust your account settings to determine who has access to your family tree and other Personally Identifiable Information through the Applications. You may request that Familybuilder.com remove other information from the current Applications by contacting us at admin@Familybuilder.com with the understanding that Familybuilder.com may maintain an archive of the information that you submit not on the Applications.
-
-**_Data Security_**
-
+**Data Security**  
 We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. You acknowledge that you provide your personal information at your own risk.
 
- _ **Compromise of Personal Information**_
-
+**Compromise of Personal Information**  
 In the event that personal information is compromised as a result of a breach of security, Familybuilder will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
- _ **Notification Procedures  
-**_
+**Notification Procedures**  
+It is Familybuilder's policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to Users via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Application page, as determined by Familybuilder in its solediscretion. Familybuilder reserves the right to determine the form and means of providing notifications to our Users, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-It is Familybuilder's policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to Users via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Applications page, as determined by Familybuilder in its sole discretion. Familybuilder reserves the right to determine the form and means of providing notifications to our Users, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+**Changes to Privacy Policy**  
+This Privacy Policy may be revised periodically and this will be reflected in the "effective date" above. Your use of the Application indicates your acceptance of this Privacy Policy and any then-current revisions.
 
- _ **Changes to Privacy Policy  
-**_
-
-This Privacy Policy may be revised periodically and this will be reflected in the "effective date" above. Your use of the Applications indicates your acceptance of this Privacy Policy and any then-current revisions.
-
- _ **Contact**_
-
-Please contact Familybuilder.com with any questions or comments about this Privacy Policy or the Applications.
+**Contact**  
+Please contact support@Familybuilder.com with any questions or comments about this Privacy Policy or the Application
