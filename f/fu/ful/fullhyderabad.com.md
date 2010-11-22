@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313083607id_/http%3A//www.fullhyderabad.com/articles/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122235236id_/http%3A//fullhyderabad.com/articles/15) for the most accurate reproduction.*
 
 # Privacy Policy - fullhyd.com, Hyderabad local guide
 
