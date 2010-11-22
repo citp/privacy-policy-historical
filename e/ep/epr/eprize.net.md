@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eprize.net privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114023822id_/http%3A//eprize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprize.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122134607id_/http%3A//eprize.com/privacy-policy) for the most accurate reproduction.*
 
-# Interactive Promotions Brand Marketing by ePrize: Privacy Policy
+# Interactive Promotions Brand Marketing by ePrize
 
 #### ePrize, LLC Privacy Policy (last revised: October 27, 2008)
 
