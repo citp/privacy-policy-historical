@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174112id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103055id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | TECH YARD
 
@@ -33,6 +33,3 @@ If our Privacy Policies change at some time in the future we will post the polic
 **NOTE:** ** ** This Policy is subject to change anytime at my sole discretion and any changes made will be effective immediately.
 
 [Last Update] – April 2nd, 2009.
-
-  
-
