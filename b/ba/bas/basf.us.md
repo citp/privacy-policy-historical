@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basf.us privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203195111id_/http%3A//www2.basf.us/corporate/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basf.us privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082132id_/http%3A//www2.basf.us/corporate/privacypolicy.html) for the most accurate reproduction.*
 
 # BASF Privacy Policy
 
