@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604223239id_/http%3A//www.harcourts.co.nz/Popup/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122034103id_/http%3A//www.harcourts.co.nz/Popup/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
