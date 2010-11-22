@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepayingsurveys.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206015655id_/http%3A//www.freepayingsurveys.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepayingsurveys.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122195250id_/http%3A//www.freepayingsurveys.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # FreePayingSurveys Privacy Policy
 
@@ -22,3 +22,6 @@ If you have any concern about privacy at Free Paying Surveys web site, please se
 Free Paying Surveys reserves the right to add to, delete from or in any other way modify any or all of this Privacy Policy without prior notification.
 
 Last Modified August 30, 2005
+
+  
+
