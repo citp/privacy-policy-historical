@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529081707id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122224543id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
 
-# Privacy statement
+# National Archives of Ireland: Privacy statement
 
 Website of the National Archives: General statement and collection and usage of personal information: Cookies: Log files: Notification of changes to our privacy policy
 
