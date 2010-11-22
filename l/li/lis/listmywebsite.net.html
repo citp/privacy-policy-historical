@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the listmywebsite.net privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626092559id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listmywebsite.net privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122231350id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,7 @@
 <meta name="Subject" content="Web Directory">
 <meta name="copyright" content="Copyright 2010 - Ecoweb4u Web Solutions">
 <meta name="Publisher" content="Ecoweb4u Web Solutions">
-<meta name="verify-v1" content="qB7T2kHPQE0y9B6q45XR/uyyis/Mj1ZWGPZvaOhkl7w="> 
+<meta name="google-site-verification" content="xP6Wvg9iJ8uomK3Po0FdxYfcEGxotnm5vJ6WZZfXpCA">
 <meta name="robots" content="index, follow">
 <meta name="revisit-after" content="7 days">
 <meta name="Distribution" content="Global">
@@ -20,6 +20,68 @@
 <meta name="MSSmartTagsPreventParsing" content="True">
 <link rel="shortcut icon" href="skins/favicon.ico">
 <link href="css/default.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script src="js/jquery.validate.js" type="text/javascript"></script>
+<script src="js/jquery.metadata.js" type="text/javascript"></script>
+<script type="text/javascript">
+$().ready(function() {
+	$.metadata.setType("attr", "validate");
+
+	// validate new site submit form
+$("#addsite").validate({				 
+		rules: {
+			SiteName: "required",
+			SiteURL: {
+				required: true,
+				url: true
+			},
+			SiteDescr: {
+				required: true,
+				minlength: 60,
+				maxlength: 150
+			},
+			SiteKwds: {
+				required: true,
+				minlength: 60,
+				maxlength: 150
+			},
+			UserName: {
+				required: true				
+			},
+			UserEmail: {
+				required: true,
+				email: true				
+			},
+			RcpURL: {
+				required: true,
+				url: true
+			},
+			Agree: "required"
+		},
+		messages: {
+				SiteDescr: {
+				minlength: "Min. 60 characters",
+				maxlength: "Max. 150 characters"
+			},
+			SiteKwds: {
+				minlength: "Min. 60 characters",
+				maxlength: "Mix. 150 characters"
+			},
+			RcpURL: "Please enter the web page URL where you included above reciprocal link code. Your reciprocal link page must be within your site. Pls replace <b>links.html</b> with your actual page where you place our link code",
+			Agree: "You must accept our terms and conditions",
+			}
+	});
+
+	// propose reciprocal link page
+	$("#RcpURL").focus(function() {
+		var sSiteURL = $("#SiteURL").val();		
+		if(sSiteURL && !this.value) {
+			this.value = sSiteURL + "/links.html";
+		}
+	});
+});
+</script>
+
 <script type="text/javascript">
 <!--
 if (top != self) top.location = location;
@@ -35,82 +97,6 @@ else
 {
 document.FreeSearch.submit()
 }
-}
-
-function chkform()
-{
-	var SiteName = document.addsite.SiteName.value;
-	var SiteURL = document.addsite.SiteURL.value;
-	var SiteDescr = document.addsite.SiteDescr.value;
-	var SiteKwds = document.addsite.SiteKwds.value;
-	var UserName = document.addsite.UserName.value;
-	var UserEmail = document.addsite.UserEmail.value;
-	var RcpURL = document.addsite.RcpURL.value;
-	
-	if(SiteName == "")
-	{
-		alert("Please enter your site name.");
-		document.addsite.SiteName.focus();
-		return false;
-	}
-	if(SiteURL == "" || SiteURL == 'http://' || SiteURL.length<=14)
-	{
-		alert("Please enter your site url correctly.");
-		document.addsite.SiteURL.focus();
-		return false;
-	}
-	if(SiteDescr == "" || SiteDescr.length > 150 || SiteDescr.length < 60)
-	{
-		alert("Please enter your site description (60-150 characters).");
-		document.addsite.SiteDescr.focus();
-		return false;
-	}
-	if(SiteKwds == "" || SiteKwds.length > 150 || SiteKwds.length < 60)
-	{
-		alert("Please enter your site keywords (60-150 characters).");
-		document.addsite.SiteKwds.focus();
-		return false;
-	}
-	if(UserName == "")
-	{
-		alert("Please enter your name.");
-		document.addsite.UserName.focus();
-		return false;
-	}
-	if(UserEmail == "" || UserEmail.indexOf('@') == -1 || UserEmail.indexOf('.') == -1 || UserEmail.indexOf('@') != UserEmail.lastIndexOf('@') || UserEmail.indexOf('@') > UserEmail.lastIndexOf('.') || UserEmail.length - UserEmail.lastIndexOf('.') <= 1)
-
-	{
-		alert("Please enter your email properly.");
-		document.addsite.UserEmail.focus();
-		return false;
-	}
-	if(RcpURL == "" || RcpURL=='http://' || RcpURL.length<=14)
-	{
-		alert("Please enter the reciprocal link url.");
-		document.addsite.RcpURL.focus();
-		return false;
-	}
-	if(SiteURL == RcpURL)
-	{
-		alert("You must not put our link temporarily on your home page.");
-		document.addsite.RcpURL.focus();
-		return false;
-	}
-	if(!document.addsite.Agree.checked)
-	{
-		alert("You must read and agree our Directory Submission Rules");
-		document.addsite.Agree.focus();
-		return false;
-	}
-return true;
-}
-
-function limitText(fieldName,maxLength)
-{
-	if(fieldName.value.length > maxLength)
-	{
-		fieldName.value = fieldName.value.substring(0,maxLength);
-	}
 }
 //-->
 
@@ -129,10 +115,10 @@ function limitText(fieldName,maxLength)
         <li><a href="http://www.listmywebsite.net" title="listmywebsite.net">Home</a></li>
         <li><a href="http://www.listmywebsite.net/NewWebsiteListing.asp" title="New Website List">New Sites</a> </li>
         <li><a href="http://www.listmywebsite.net/TopWebsiteListing.asp" title="Most Visited Website List">Top Sites</a></li>
+                <li><a href="http://www.listmywebsite.net/articles.asp" title="Articles on Internet Marketing">Articles</a></li>
         <li><a href="http://www.listmywebsite.net/HowToSubmit.asp" title="How to submit your website">How to submit</a></li>
         <li><a title="Add Your Site Free to ListMyWebsite.Net" href="submit.asp?id=0&amp;cid=0&amp;dir=&amp;subdir=">Submit Site</a></li>
 		<li><a href="http://www.listmywebsite.net/Search.asp" title="Search website">Search</a></li>
-        <li><a href="http://www.listmywebsite.net/advertise.asp" title="Advertise with listmywebsite.net">Advertise</a></li>
         <li><a href="http://www.listmywebsite.net/faq.asp" title="Frequently Asked Questions">FAQ</a></li>
 		<li><a href="http://www.listmywebsite.net/contact.asp" title="Contact us">Contact</a></li>
       </ul>
@@ -183,9 +169,12 @@ function limitText(fieldName,maxLength)
       <span>2.</span> Login to your account<br>
       <span>3.</span> Submit your website to list in List My Website directory
   </strong></p>
+
   <div class="b">Advertisement</div>
 <div style="text-align:center; padding-top: 5px;">
- 
+   
+  <div style="padding:5px; border:#900 1px solid; margin-bottom:10px;"><a href="http://www.video-download-capture.com/" title="Download Online Videos"><strong>Video Downloader</strong></a>
+</div>
 
  <script type="text/javascript"><!--
 google_ad_client = "pub-5627967757615141";
@@ -255,7 +244,7 @@ google_ad_height = 90;
 |  <a href="http://www.listmywebsite.net/contact.asp">Contact</a>
 
 | <a href="http://www.listmywebsite.net/privacy.asp">Privacy Policy</a> | <a href="http://www.listmywebsite.net/terms.asp">Terms and Conditions</a>.<br>
-Copyright ©  2004-2009 by <a href="http://www.ecoweb4u.com">Ecoweb4u Web Solutions</a>, All Rights Reserved. <a href="http://www.listmywebsite.net">ListMyWebsite.net</a> is a project of <a href="http://www.ecoweb4u.com"> Ecoweb4u Web Solutions.</a> | <a href="http://www.thumbshots.com" target="_blank" title="Thumbnails Previews by Thumbshots">Thumbnails powered by Thumbshots</a></div>
+Copyright ©  2004-2009 by <a href="http://www.ecoweb4u.com">Ecoweb4u Web Solutions</a>, All Rights Reserved. <a href="http://www.listmywebsite.net">ListMyWebsite.net</a> is a project of <a href="http://www.ecoweb4u.com.au"> Ecoweb4u Web Solutions</a> | <a href="http://www.thumbshots.com" target="_blank" title="Thumbnails Previews by Thumbshots">Thumbnails powered by Thumbshots</a> | <script type="text/javascript" src="http://www.top10000.info/myrank.php?s=137134"></script></div>
 </div>
 </div>
 <!-- Start of StatCounter Code -->
