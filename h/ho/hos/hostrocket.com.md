@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostrocket.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230143405id_/http%3A//www.hostrocket.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostrocket.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123005931id_/http%3A//www.hostrocket.com/privacy_policy.html) for the most accurate reproduction.*
 
 # HostRocket.com Privacy Policy
 
