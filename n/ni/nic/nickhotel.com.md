@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604011755id_/http%3A//www.nickhotel.com/html/orlando-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104042id_/http%3A//www.nickhotel.com/html/orlando-privacy-policy.asp) for the most accurate reproduction.*
 
 # Nickelodeon Suites Resort Privacy Policy & Corporate Disclaimer
 
