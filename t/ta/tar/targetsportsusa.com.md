@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524164738id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122052814id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at ProAmmo.com
 
