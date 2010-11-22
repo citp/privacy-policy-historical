@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitdirectair.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603001354id_/http%3A//www.visitdirectair.com/policies_and_procedures/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdirectair.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103927id_/http%3A//www.visitdirectair.com/policies_and_procedures/policy) for the most accurate reproduction.*
 
 # Direct Air - Policies And Procedures: Privacy Policy
 
