@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emorywheel.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614190307id_/http%3A//emorywheel.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emorywheel.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122133340id_/http%3A//emorywheel.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | The Emory Wheel
 
