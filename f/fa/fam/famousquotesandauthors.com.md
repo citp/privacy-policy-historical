@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609014231id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122221743id_/http%3A//famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,9 +33,11 @@ If you have any comments or questions on the above privacy statement, please fee
 
 *This Privacy Statement was last updated on January 16, 2010.
 
-| 
-
-| Top 10 Authors  
+|  | Quote of the Day  
+---  
+Children are the world's most valuable resource and its best hope for the future.   
+  
+Top 10 Authors  
 ---  
 [](https://web.archive.org/authors/oscar_wilde_quotes.html)  
 [](https://web.archive.org/authors/john_f__kennedy_quotes.html)  
