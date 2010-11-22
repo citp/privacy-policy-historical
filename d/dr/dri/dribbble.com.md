@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412003359id_/http%3A//dribbble.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122164034id_/http%3A//dribbble.com/site/privacy) for the most accurate reproduction.*
 
 # Dribbble - What are you working on?
 
@@ -14,7 +14,7 @@ Your privacy is critically important to us. At Dribbble we have a few fundamenta
 
 Below is our privacy policy which incorporates these goals:
 
-SimpleBits, LLC ( **Dribbble** ) operates dribbble.com. It is Dribbble’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Dribbble LLC ( **Dribbble** ) operates dribbble.com. It is Dribbble’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ## Website Visitors
 
@@ -42,4 +42,4 @@ A cookie is a string of information that a website stores on a visitors computer
 
 Although most changes are likely to be minor, Dribbble may change its Privacy Policy from time to time, and in Dribbbles sole discretion. Dribbble encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-This Privacy Policy was crafted from [Wordpress.com's version](http://dribbble.com/privacy/), which is available under a Creative Commons Sharealike license.
+This Privacy Policy was crafted from [Wordpress.com's version](http://automattic.com/privacy/), which is available under a Creative Commons Sharealike license.
