@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123113629id_/http%3A//www.medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122185449id_/http%3A//medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
 
 # MEDpages - The definitive contact database for healthcare in South Africa.
 
 Privacy Policy | 
 
-[](https://web.archive.org/web/20091123113629id_/http%3A//www.medpages.co.za/index.php?module=home)  
+[](https://web.archive.org/web/20101122185449id_/http%3A//medpages.co.za/index.php?module=home)  
   
 ---|---  
   
@@ -59,7 +59,7 @@ We do collect the personal data that you may volunteer while using our services.
 
 We may also collect information about you from other sources, such as public records or bodies, or private organisations.
 
-To access the table of personal data collected and purposes for which they are used, please [click here](http://www.medpages.co.za/index.php?module=privacy#end)
+To access the table of personal data collected and purposes for which they are used, please [click here](http://www.medpages.co.za/index.php?module=privacy#infocollected)
 
 Please specifically note that we collect and use personal data for the purpose of publishing in an annual healthcare professional service provider directory (print format), and the provision of other related services to the healthcare industry, including data subscription services.
 
