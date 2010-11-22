@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemoney.com.au privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024010637id_/http%3A//www.gemoney.com.au/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemoney.com.au privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122164003id_/http%3A//gemoney.com.au/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GE Money Australia
 
