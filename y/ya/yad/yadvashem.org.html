@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yadvashem.org privacy policy that was archived on 2010-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100517034852id_/http%3A//www1.yadvashem.org/yv/en/about/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yadvashem.org privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122084003id_/http%3A//www1.yadvashem.org/yv/en/about/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>  
 <title>Privacy Policy - Yad Vashem</title>  
@@ -20,11 +20,34 @@
 <script>
 		$(document).ready(function(){
 			$(".lightbox").lightbox();
+			//for like button
+			metatags = document.getElementsByTagName("meta");
+			for (cnt = 0; cnt < metatags.length; cnt++)
+			{
+				if (metatags[cnt].getAttribute("property") == "og:image"){
+					temp="/yv/en/about/privacy_policy.asp".lastIndexOf("/");
+					thePath="/yv/en/about/privacy_policy.asp".substr(0,temp);
+					if($("p.icaption_left img:first").attr("src")!=undefined){
+						metatags[cnt].setAttribute("content", thePath+"/"+$("p.icaption_left img:first").attr("src"));
+					}
+				}
+				
+				 if (metatags[cnt].getAttribute("property") == "og:description"){
+					if($("p:not(:'p.icaption_left'):first")!=undefined){
+						metatags[cnt].setAttribute("content", $("p:not(:'p.icaption_left'):first").text());
+					}
+				}
+				
+				
+			}
+			//end for like button
 		});
 
 </script>
 <script type="text/javascript" src="/yv/js/thickbox_without_print.js"></script>
-<script type="text/javascript" src="/yv/js/ddaccordion.js"></script>
+<script type="text/javascript" src="/yv/js/ddaccordion.js"></script><style type="text/css">
+.submenu{display: none}
+</style>
 <script type="text/javascript" src="/yv/js/ddtabmenu.js"></script>
 <script type="text/javascript">
 			$(function(){
@@ -145,7 +168,7 @@
 <script type="text/javascript" src="/yv/js/thickbox.simplegallery.js"></script>
 
 	
-	
+<script type="text/javascript" src="/yv/js/jquery.slideshow.lite-0.5.3.js"></script>
 
 
 </head>  
@@ -155,7 +178,10 @@
 		<!--*************************************************
         **********  mandatory! Do not alternate	*************
         **************************************************-->
-        <div id="title"><img src="/yv/en/about/images/section_name.jpg" width="116" height="91" border="0" alt="About Us" title="About Us"></div><div id="header">
+        <div id="title">
+<!--<img src="/yv/en/about/images/section_name.jpg" width="116" height="91" border="0" alt="About Us" title="About Us"> -->
+<h1>About Yad Vashem</h1>
+</div><div id="header">
                <div id="topnav">
                  
                    <span><a href="/yv/en/pressroom/index.asp">Press Room</a> | <a href="http://www1.yadvashem.org/about_yad/friends/world_wide/index.asp">YV Worldwide</a> | <a href="/yv/en/about/contacts.asp">Contact Us</a> | <a href="http://secure.yadvashem.org/store/">Store</a>
@@ -200,8 +226,8 @@
                     <select name="language" id="language" title="Languages" onchange="location = this.options[this.selectedIndex].value;">
                       <option value="http://www.yadvashem.org/" selected="selected">English&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
                       <option value="http://www.yadvashem.org/hp_he.htm"> עברית </option>
-                      <option value="http://www.yadvashem.org/hp_rus.htm"> Русский </option>
-                      <option value="http://www1.yadvashem.org/es/index.html">Español</option>
+                      <option value="http://www1.yadvashem.org/yv/ru/index.asp">Русский</option>
+                      <option value="http://www1.yadvashem.org/yv/es/index.asp">Español</option>
                       <option value="http://www1.yadvashem.org/yv/ar/index.asp">عربي</option>
                       <option value="http://www1.yadvashem.org/parsit_web/paras_home.html?WT.mc_id=parsit_web">فارسی</option>
                     </select>
@@ -220,24 +246,25 @@
                         <option value="http://www1.yadvashem.org/new_museum/art.html">Art Museum</option>
                         <option value="http://www.yad-vashem.blogspot.com/">Blog</option>
                         <option value="http://ecom.gov.il/YadVashem/homepage_en.aspx">Bookstore</option>
-                        <option value="http://www1.yadvashem.org/education/educational_materials.html">Educ Materials</option>
+                        <option value="http://www1.yadvashem.org/yv/en/education/educational_materials/index.asp">Educ Materials</option>
                         <option value="/yv/en/about/events/index.asp">Events</option>
                         <option value="http://www1.yadvashem.org/about_yad/friends/world_wide/home_friends.html">Friends/Societies</option>
-                        <option value="http://www1.yadvashem.org/new_museum/Galleries/gal10Hall.html">Hall of Names</option>
+                        <option value="http://www1.yadvashem.org/yv/en/about/hall_of_names/index.asp">Hall of Names</option>
                         <option value="http://www1.yadvashem.org/new_museum/overview.html">History Museum</option>
-                        <option value="http://www1.yadvashem.org/Odot/prog/index_before_change_table.asp">Hol Resource Center</option>
+                        <option value="http://www1.yadvashem.org/yv/en/holocaust/resource_center/item.asp">Hol Resource Center</option>
                         <option value="/yv/en/about/institute/index.asp">Inst for Hol Research</option>
                         <option value="/yv/en/education/seminars/index.asp">International Seminars</option>
-                        <option value="http://www1.yadvashem.org/ITS_and_YADVASHEM/home.html">ITS</option>
+                        <option value="http://www1.yadvashem.org/yv/en/about/archive/information_services_request.asp">ITS</option>
                         <option value="http://www6.yadvashem.org/library/listResult.do">Library</option>
                         <option value="/yv/en/pressroom/magazine/index.asp">Magazine</option>
                         <option value="/yv/en/visiting/map.asp">Map-YV Complex</option>
                         <option value="http://www.yadvashem.org/wps/portal/IY_HON_Welcome">Names Database</option>
+                        <option value="http://www1.yadvashem.org/yv/en/remembrance/names/index.asp">Names Project</option>
                         <option value="http://www1.yadvashem.org/newsletter/index.html">Newsletter</option>
-                        <option value="http://www1.yadvashem.org/education/courses/english/indexCourses.html">Online Courses</option>
+                        <option value="http://www1.yadvashem.org/yv/en/education/courses/index.asp">Online Courses</option>
                         <option value="http://www1.yadvashem.org/yv/en/exhibitions/index.asp">Online Exhibitions</option>
                         <option value="http://www6.yadvashem.org/wps/portal/photo?lang=en&amp;homepage=true">Photo Archive</option>
-                        <option value="http://www1.yadvashem.org/about_yad/departments/audio/audio_home.html">Podcasts</option>
+                        <option value="http://www1.yadvashem.org/yv/en/holocaust/insights/podcast/index.asp">Podcasts</option>
                         <option value="/yv/en/pressroom/pressreleases/index.asp">Press Releases</option>
                         <option value="http://www1.yadvashem.org/righteous_new/vwall.html">Righteous-Stats</option>
                         <option value="http://www1.yadvashem.org/righteous_new/featured_stories.html">Righteous-Stories</option>
@@ -245,7 +272,7 @@
                         <option value="/yv/en/exhibitions/travelling_exhibitions.pdf">Traveling Exhibitions</option>
                         <option value="/yv/en/remembrance/multimedia.asp">Video Testimonies</option>
                         <option value="/yv/en/visiting/index.asp">Visitors' Info</option>
-                        <option value="http://www1.yadvashem.org/new_museum/Visual_Center.html">Visual Center - Films</option>
+                        <option value="/yv/en/about/visual_center/index.asp">Visual Center - Films</option>
                      </select>
                      </div>
                   </form>
@@ -275,9 +302,10 @@
 	<ul>
   			<li><a href="/yv/en/holocaust/index.asp">Overview</a></li>
             <li><a href="/yv/en/holocaust/about/index.asp">About the Holocaust</a></li>
-  			<li><a href="http://www1.yadvashem.org/Odot/prog/index_before_change_table.asp">The Holocaust Resource Center</a></li>
+  			<li><a href="/yv/en/holocaust/resource_center/index.asp">The Holocaust Resource Center</a></li>
   			<li><a href="/yv/en/holocaust/insights/video/index.asp">Video Lectures</a></li>
   			<li><a href="/yv/en/holocaust/insights/podcast/index.asp">Podcasts</a></li>
+            <li><a href="http://www1.yadvashem.org/yv/en/remembrance/multimedia.asp">Video Testimony Resource Center</a></li>
   		</ul>
         </li>
 <li><a href="/yv/en/about/institute/index.asp">Research</a>	
@@ -315,9 +343,16 @@
 
   		</ul>
         </li>
-<li><a href="/yv/en/exhibitions/index.asp">Exhibitions</a>
-  			
+<li><a href="/yv/en/museum/index.asp">Museum</a>
+		<ul>
+            <li><a href="/yv/en/museum/index.asp">Overview</a></li>
+            <li><a href="/yv/en/museum/overview.asp">The Holocaust History Museum</a></li>
+            <li><a href="/yv/en/museum/art_museum.asp">The Art Museum</a></li>
+            <li><a href="/yv/en/museum/complex.asp">The Museum Complex</a></li>
+  		</ul>  			
 </li>
+<li><a href="/yv/en/exhibitions/index.asp">Exhibitions</a></li>
+
 <li><a href="/yv/en/remembrance/index.asp">Remembrance</a>
 		<ul>
             <li><a href="/yv/en/remembrance/index.asp">Overview</a></li>
@@ -331,14 +366,16 @@
 <li><a href="/yv/en/righteous/index.asp">Righteous</a>
 		<ul>
   			<li><a href="/yv/en/righteous/index.asp">Overview</a></li>
-  			<li><a href="http://www1.yadvashem.org/righteous_new/about_the_righteous.html">About the Righteous</a></li>
-            <li><a href="http://www1.yadvashem.org/righteous_new/about_the_program.html">About the Program </a></li>
-            <li><a href="http://www1.yadvashem.org/righteous_new/featured_stories.html">Featured Stories </a></li>
-            <li><a href="http://www1.yadvashem.org/righteous_new/vwall.html">Virtual Wall of Honor </a></li>
-            <li><a href="http://www1.yadvashem.org/righteous_new/faqs.html">FAQs </a></li>
-            <li><a href="http://www1.yadvashem.org/righteous_new/resources.html">Resources </a></li>
-            <li><a href="http://www1.yadvashem.org/righteous_new/how_to_apply.html">How to Apply</a></li>
-            <li><a href="http://www1.yadvashem.org/righteous_new/contact.html">Contact Us </a></li>
+  			<li><a href="/yv/en/righteous/about.asp">About the Righteous</a></li>
+            <li><a href="/yv/en/righteous/program.asp">About the Program </a></li>
+            <li><a href="/yv/en/righteous/stories/index.asp">Featured Stories </a></li>
+            <li><a href="/yv/en/righteous/virtual_wall.asp">Virtual Wall of Honor </a></li>
+            <li><a href="/yv/en/righteous/faq.asp">FAQs </a></li>
+            <li><a href="/yv/en/righteous/resources.asp">Resources </a></li>
+            <li><a href="/yv/en/righteous/events.asp">News &amp; Events</a></li>
+            <li><a href="/yv/en/righteous/help.asp">We Seek Your Help</a></li>
+            <li><a href="/yv/en/righteous/how_to_apply.asp">How to Apply</a></li>
+            <li><a href="/yv/en/righteous/contact.asp">Contact Us </a></li>
   		</ul>
         </li>
 <li><a href="/yv/en/visiting/index.asp">Visiting</a>
@@ -347,7 +384,6 @@
             <li><a href="/yv/en/visiting/transportation_and_parking.asp">Transportation and Parking</a></li>
             <li><a href="/yv/en/visiting/accessibility.asp">Accessibility</a></li>
             <li><a href="/yv/en/visiting/map.asp">Map</a></li>
-            <li><a href="/yv/en/visiting/daily_tours.asp">Daily Tours</a></li>
             <li><a href="/yv/en/visiting/group_tour.asp">Group Visits</a></li>
             <li><a href="/yv/en/visiting/photogallery.asp">Photo Gallery</a></li>
             <li><a href="/yv/en/about/contacts.asp">Contact Info</a></li>
