@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pgcps.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620225754id_/http%3A//www1.pgcps.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8654) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgcps.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122095550id_/http%3A//www1.pgcps.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8654) for the most accurate reproduction.*
 
 # PGCPS Privacy Policy
-
-## Prince George’s County Public Schools Privacy Policy
 
 Prince George's County Public Schools would like to thank you for visiting our web site.  We have provided you this page with important information about our web site privacy policy.
 
