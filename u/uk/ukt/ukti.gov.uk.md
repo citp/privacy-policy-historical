@@ -1,60 +1,143 @@
-> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112071741id_/https%3A//www.uktradeinvest.gov.uk/ukti/appmanager/ukti/help%3F_nfpb%3Dtrue%26_pageLabel%3Ddata_protection_act%26_nfls%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122130229id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.*
 
-# Data Protection Act
+# Privacy and Data Protection
 
-## Information Charter
+## Data Protection Act 1998
 
-We need to handle personal information about you so that we can provide services for you. This [Information Charter](https://www.uktradeinvest.gov.uk/ukti/ShowDoc/BEA+Repository/345/420437) sets out how we look after that information. 
+UK Trade & Investment (UKTI) processes personal data for the purposes of promoting UK business competitiveness, to help secure overseas sales and investments and to support and develop UK inward investment. Recipients of the personal data we may hold on you may include our UK regional network, our overseas network, other UK Government Departments and our partners.
 
-* * *
+## Registration information
 
-## Privacy Policy: Data Protection Act 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003
+You do not have to register to use the UKTI website, but you do need to register to follow up on business opportunities and obtain access to premium content or receive updates about the site.
 
-**1.**   This Privacy Policy covers the treatment of personal data (as defined in the Data Protection Act 1998) which you submit to us. We will process any personal data you provide in accordance with the Data Protection Act 1998 and will also comply with the Privacy and Electronic Communications (EC Directive) Regulations 2003. 
+As a minimum we require as mandatory for you to register us with: your username (which does not need to be your real name), a password, e-mail address and your location. This information is stored securely on our database so that you do not need to re-register when you come back to the site.
 
-**2.   Collection of personal data**
+You can change your registration preferences, e-mail address and login details through the website at any time. If you wish to amend your personal profile, please click on the 'Login’ link at the top of the page, log in to your account, go to ‘My Account’ and ‘Edit Account Details’, then check/uncheck the options available. If you are no longer interested in receiving UKTI email alerts click, deselect the ‘send me marketing information about UK Trade & Investment by e-mail’. Alternatively, select the ‘Unsubscribe' link at the bottom of your email alerts. 
 
-In order for you to request or submit information to us, we may ask you to provide personal data such as your name, postal address, telephone, fax number and e-mail address. When you submit personal data to us, you understand and agree that this data will be supplied to UK Trade and Investment and the Department for Business, Enterprise and Regulatory Reform who will take appropriate steps to ensure that personal data is protected from unauthorised use and kept in a secure manner either electronically or on manual records. 
+## Feedback
 
-**3.**    The data is to be collected for the purpose of promoting UK business competitiveness, to help secure overseas sales and investments and to support and develop UK inward investment. 
+You can send a message to UKTI using our [Contact us](http://www.ukti.gov.uk/uktihome/contactus/contactusform.html) form. If you are asking for information we do not already publish on the site, we will deal with your query. In doing so we may need to contact other organisations to find answers to your questions. If your question is technical, we may need to pass it to our technology supplier. In such cases we will only pass on personal data if it is necessary to do so, and we will not keep your personal data or records of our correspondence longer than necessary.
 
-**4.**     In order to provide you with advice, further information or support, the personal data may be passed to your local UK Trade & Investment team in England (or your equivalent in Scotland, Wales or Northern Ireland) or the Regional Development Agencies in England (and the Development Agencies for Scotland, Wales and Northern Ireland) or to a carefully selected UK based Trade Association or Chamber of Commerce. 
+## Site usage information
 
-**5.**    When you accept the UK Trade & Investment’s website’s Terms and Conditions and submit personal data to us, you understand and agree that: 
+i) Session cookies
 
-  * This may involve the information being used by UK Trade and Investment or the Department for Business, Enterprise and Regulatory Reform for direct marketing and other activities for trade & investment purposes. 
-  * Your local UK Trade & Investment Team (or your equivalent in Scotland, Wales or Northern Ireland),  the Regional Development Agencies in England (and the Development Agencies for Scotland, Wales and Northern Ireland),  or a selected UK based Trade Association or Chamber of Commerce may also contact you directly in the future in relation to offering related services. 
-  * It may also involve the transfer of data outside the European Economic Area to our overseas offices.
-  *  UK Trade & Investment may send you marketing information about UK Trade & Investment by e-mail.
+Cookies are pieces of data created when you visit a website. Three cookies are stored in the cookie directory of your computer. Three cookies are created when you visit [www.ukti.gov.uk](http://www.ukti.gov.uk/)
+
+  * Our first cookie stores a random number on your computer to help us count the number of times users return to our site. These cookies do not contain any personal information about you, and they cannot be used to identify an individual user. When you close your browser the session cookie set by the web site is destroyed and no personal information is held which might identify you 
+
+  * Our second cookie remembers the country and language you selected to view the site. On your second visit you will automatically be directed to the site in that language
+
+  * Our third cookie is optional. Visitors who choose to register with the site are given the option to be signed automatically into their account whenever they revisit the UK Trade & Investment website
 
 
 
-**6.**     If you do not want your details to be used in any of the ways described in paragraph 5, please change your Data Protection permissions, once you are registered on the website. To do this, log into the website using your username and password. From the menu on the left, click ‘My Account’ and then ‘Change Account Details’.  You may change your Data Protection permissions in this way at any time once you are registered on the website. 
 
-**7.     Use of Cookies**
+You can set your browser not to accept cookies – refer to your browser’s help file instructions. Please note that if you do set your browser not to accept cookies you may not be shown your preferred content on subsequent visits to the website.
 
-Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They do not contain any personal information about you and cannot be used to identify an individual user. 
+ii) Log files
 
-You can choose not to accept cookies by changing the settings in your Internet Browser – refer to your Browser’s help files for instructions. Please be aware that if you decline the use of cookies set by UK Trade & Investment you will be unable to register or use the personalized areas of the site. 
+Log files allow us to record visitors' use of the site. We may analyse log file information from our visitors. We use this information to make changes to the layout of the website and to manage the information in it.
 
-You can also delete any cookies from your computer – refer to your Internet Browser’s help files.
+## Updating your personal information
 
-UK Trade & Investment may use session cookies where necessary for the functionality of our websites. Session Cookies are temporary, are used only during a browsing session.  When you close your browser the session cookie set by the web site is destroyed and no personal information is held which might identify you 
+You have the right to access and correct the personal information retained by the website. To do this, log into the website using your username and password. From the menu on the left, click ‘My Account’ and then ‘Edit Account Details’
 
-**8.   Updating your personal information**
+## Changes to this Privacy and Data Protection statement
 
-You have the right to access, correct or remove the personal information retained by the website. To do this, log into the website using your username and password. From the menu on the left, click ‘My Account’ and then ‘Change Account Details’  
-For help, please contact our General Enquiry Unit on +44 (0)20 7215 8000 or email [enquiries@uktradeinvest.gov.uk](mailto:enquiries@uktradeinvest.gov.uk)
+If this privacy and data protection statement changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-**9.   Change to Privacy Policy**
+If you have a query or complaint about this privacy policy or about the site, you can contact via our [Contact Us form](http://www.ukti.gov.uk/uktihome/contactus/contactusform.html).
 
-We may revise this Privacy Policy at any time by updating this page. Your continued use of the site will mean you accept those revisions. 
+## Data Controller
 
-**10.    Data Controller**
+Any information you provide will be held securely and in accordance with the Data Protection Act 1998. 
 
-The data controllers are the Department for Business, Enterprise and Regulatory Reform and the Foreign and Commonwealth Office. You can write to the Department for Business, Enterprise and Regulatory Reform's at: 
+You have a right to request a copy of your personal details at any time to check the accuracy of the information held. If you want to ask whether UKTI holds any personal data relating to you, please write to us at:
 
-**Data Protection Officer**   
-Department for Business, Enterprise & Regulatory Reform  
-1 Victoria Street  
-London SW1H 0ET 
+Data Protection Officer
+
+Department for Business, Innovation and Skills
+
+Commercial Directorate/Information Rights Unit
+
+3rd Floor
+
+Kingsgate House
+
+66-74 Victoria Street
+
+London SW1E 6SW
+
+Alternatively you can email your request to [dataprotection@bis.gsi.gov.uk](mailto:dataprotection@bis.gsi.gov.uk)
+
+We need to handle personal information about you so that we can provide services for you. This is how we look after that information. 
+
+When we ask you for personal information, we promise:
+
+  * to make sure you know why we need it ; 
+
+  * to only ask for information proportionate to what we need; 
+
+  * to protect it and make sure nobody has access to it who shouldn't; 
+
+  * to let you know if we share it with other organisations to give you better public services - and if you can say no; 
+
+  * to make sure we don't keep it longer than necessary; and 
+
+  * not to make your personal information available for commercial use without your permission. 
+
+
+
+
+In return, we ask you to:
+
+  * give us accurate information; and 
+
+  * tell us as soon as possible if there are any changes, such as a new address. 
+
+
+
+
+This helps us to keep your information reliable and up to date.
+
+You can ask for more information on:
+
+  * how to find out what information we hold about you and how to ask us to correct any mistakes; 
+
+  * agreements we have with other organisations for sharing information; 
+
+  * our instructions to staff on how to collect, use and delete your personal information; 
+
+  * how we check the information we hold is accurate and up to date; and 
+
+  * how to make a complaint. 
+
+
+
+
+For more information, please contact: 
+
+Andrew Strachan
+
+Email: [andrew.strachan@ukti.gsi.gov.uk](mailto:andrew.strachan@ukti.gsi.gov.uk)
+
+In abiding by these commitments, we will keep to the law, including the Data Protection Act 1998 and the Freedom of Information Act 2000. For independent advice about data protection, privacy and data-sharing issues, you can contact the Information Commissioner at: 
+
+Wycliffe House, 
+
+Water Lane, 
+
+Wilmslow, 
+
+Cheshire, 
+
+SK9 5AF. 
+
+Phone: 08456 30 60 60 or 01625 54 57 45 
+
+Fax: 01625 524510.
+
+Website: [www.ico.gov.uk](http://www.ico.gov.uk/)
+
+UK Trade & Investment, June 2010
