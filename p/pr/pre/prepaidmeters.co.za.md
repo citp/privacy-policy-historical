@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821185915id_/http%3A//www.prepaidmeters.co.za/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122113511id_/http%3A//www.prepaidmeters.co.za/privacy-policy.html) for the most accurate reproduction.*
 
-# Prepaid Meters, Prepaid Electricity Meters and Metering Solutions - Privacy Policy
+# Prepaid meters, Electricity, Water Meters & Prepaid Vending Solutions - Privacy Policy
 
 ###  Prepaid Metering Solution 
 
@@ -18,8 +18,5 @@ PrepaidMeters.co.za does not and will not sell or provide personal information t
 
 We value the information that you choose to provide us and will therefore take reasonable steps to protect your personal information from loss, misuse or unauthorized alteration. The information we maintain concerning our customer is stored in databases that have built-in safeguards to ensure the privacy and confidentiality of that information. 
 
-| 
-
-[](http://www.prepaidmeters.co.za/payments)  
-  
+|   
 ---|---|---
