@@ -1,37 +1,93 @@
-> *The following text is extracted and transformed from the ulteem.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121044808id_/http%3A//www.ulteem.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulteem.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122163555id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
-# Your future awaits you on Ulteem
+# DatingDirectAffinity.com Privacy Policy.
 
-Ulteem upholds the strictest French and European standards with respect to the protection of privacy and of personal data, and has made a declaration to the French data protection authority (Commission Nationale de l'Informatique et des Libertés - CNIL) under number 1107043.
+(Limited Privacy Policy: DatingDirectAffinity.com, 09/10/2008.)
 
-Some information, comments or content (photographs) that you optionally provide may possibly, under your responsibility and on your initiative, reveal your ethnic origin, nationality, religion and/or sexual orientation. By providing such information, on an optional basis, you manifest your intention and, consequently, expressly consent to, and take sole responsibility for, the processing of this said "sensitive" data by Ulteem, and freely take exclusive responsibility therefor.
+**1\. Who are we?**
 
-Members may access or request access to their personal information in order to have it modified or deleted or to forbid Ulteem from using it by writing to Ulteem at BP 109, 92106 Boulogne Cedex or by filling in the contact form, clearly specifying their personal login information.
+1.1 We are DatingDirect.com Limited. We are registered in the UK (technically "England & Wales") under number 03850701. Our registered office is at: The Communications Building, 48 Leicester Square, London, WC2H 7LT. You can contact us at the following postal address: The Communications Building, 48 Leicester Square, London, WC2H 7LT.
 
-Members may, at the time of registration or at any time thereafter, request to receive and, subsequently, request without charge via Ulteem to cease to receive, the Ulteem newsletter and/or promotional offers sent to them by e-mail by Ulteem (a meetic™ service) and/or meetic's partners. The rights and warranties of Ulteem Members comply inter alia with French Data Protection Act no. 78-17 dated 6 January 1978, as amended by Act no. 2004-801 dated 6 August 2004 transposing into French law EU Directive 95/46/EC dated 24 October 1995 on the protection of individuals with regard to the processing of personal data and privacy within the European Union and the French Act on "confidence in the digital economy", no. 2004-575 dated 21 June 2004 (article L. 33-4-1, as amended, of the Post and Electronic Communications Code and the new article L. 121-20-5 of the French Consumer Code) transposing into French law EU Directive 2000/31/EC dated 8 June 2000 on electronic commerce and EU Directive 2002/58/EC dated 12 July 2002 on the protection of personal data and privacy in electronic communications.
+1.2 We own and operate this site.
 
-## 1\. When and why do we gather information about you?
+1.3 You will find our contact details on our site. Please get in touch if you have any questions or feedback about this policy. We'd be delighted to help.
 
-Members are asked to supply information about themselves when they register with the Service, participate in a contest, respond to a survey or acquire a Subscription. Certain items of information are mandatory in order to gain access to the Services.
+**2\. What's the point of this policy?**
 
-## 2\. What type of information do we gather?
+2.1 The idea is that we tell you how we deal with your "personal data". (This is the technical term for information about any identified or identifiable living person). Please read on to find out what kinds personal data we collect, how we use and protect it, to whom we disclose it and how you can access and rectify it.
 
-Personal information gathered by Ulteem can include your name, postal and/or e-mail address, bank details, information about your physical appearance, photographs or videos showing you, your personal values, your answers to the Ulteem Test, your philosophy and religion, your ethnic origin, your interests and your use of the Service.
+2.2 We want you to feel comfortable with what we do. So much so that we don't agree to you using our site or registering as a member unless you are completely happy with this policy. If you do, we'll assume that you do accept the policy. 
 
-Furthermore, certain non-personal information is also gathered, such as the version of yours and any other visitor's web browser (Netscape, Internet Explorer, etc.), the operating system (Windows 98, Mac Os, etc.) and the IP address of the computer from which you are visiting the site.
+**3\. Might the policy change?**
 
-Ulteem uses cookies, designed to store information used to identify Members while they are browsing on the Ulteem Internet site, in order to allow Members to continue browsing without having to re-enter this information for each new page. Members may always prevent the use of cookies by modifying the options of their web browser. To obtain further information about this, please refer to the browser-specific advice on option modification, which is accessible on the "Your Traces" section of the website of the French data protection authority (CNIL): [www.cnil.fr](http://www.cnil.fr/).
+3.1 It may well do and so you should check it whenever you visit our site. We'll assume you agree to the revised policy if you use the site or register as a member after the effective date shown at the top of the policy. The revised policy will only apply to information we collect after the effective date.
 
-## 3\. Who has access to your information?
+**4\. What personal or other data do we collect?**
 
-1\. The information gathered about you when you register with Ulteem and subscribe to our Services is used to offer you our different Services. All precautions have been taken on our databases to archive your information in a secure environment. Only a small number of our employees have access to your information, which is only accessible in case of necessity. The personal information you provide at the time of registration, which does not comprise your personal ad and your profile, will not be accessible by third parties, nor passed on, sold or exchanged, except in the cases mentioned below and subject to your prior information and agreement, or in assumption of your agreement thereto.
+4.1 We collect and store the information which you enter into forms on our site, for example when you register as a member or apply for a Pass on our site (eg your name, address, contact details and payment information), post a profile or personal ad, enter search criteria, upload photos or video, participate in surveys or contests or the like, or communicate with other members via our site including chat, video etc. You may opt out of providing any such information by simply choosing not to complete the relevant form but certain information is compulsory if you want to use a particular part of our services. 
 
-2\. We may send you promotional offers from some of our partners, subject to your explicit and informed consent given during registration, unless you oppose it during your registration or at any moment thereafter. If you do not wish to receive any special offers from Ulteem or our partner companies let us know when you subscribe, or alternatively at any time by clicking on "My Account" on the Ulteem site, or by post.
+4.2 Certain of the information which you voluntarily provide (eg photos or video) may constitute "sensitive data" eg by revealing your ethnic origin, religion and/or sexual orientation. By providing such data you specifically consent to our processing it in accordance with the policy. 
 
-3\. Ulteem may occasionally share general socio-demographic information that does not include names with selected partners to allow them to target their announcements (by age category, gender, etc.). In this case, we will not send these partners any information that would allow them to identify you.
+4.3 We may also collect personal information which you provide us when communicating with us in some other way eg by email.
 
-4\. The results of your Ulteem Test, your personal ads, search criteria and profile can be accessed on the Ulteem website. However, other Ulteem Members may only consult them with your express consent.
+4.4 We may receive and store certain information automatically when you interact with us. Examples include the internet protocol (IP) address used to connect your computer to the internet, connection information such as browser type and version, your operating system and platform, a unique reference number linked to the data you enter on our system, login details, the full URL clickstream to, through and from our site (including date and time), cookie number, activity on our website including the pages you visited and searches you made. 
 
-You expressly authorise Ulteem to reproduce and broadcast the results of your Ulteem Test, your personal ad, search criteria and profile (information, description, photos, videos, etc.) in the cases referred to in these Terms of Use on some or all of the Ulteem Service and/or on all methods of electronic communication (e-mail, Internet), worldwide, throughout the duration of these Terms of Use between you and Ulteem. Furthermore, you expressly authorise Ulteem to transfer the benefits of the above-mentioned rights to its partners and any successors of Ulteem.
+**5\. What about cookies?**
 
-If you no longer wish Ulteem or its partners to reproduce or broadcast the results of your Ulteem Test, your personal ad, search criteria and profile, you can terminate your Ulteem account under the conditions provided for in the Article "Termination". Termination will only take effect upon the next update or version of these communication media containing your personal information.
+5.1 Like many websites we use cookies (or may do so in future). A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive so that the site can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. Cookies cannot read your hard drive.
+
+5.2 Session cookies are temporary cookies that remain in the cookie file of your browser until you leave the site. 
+
+5.3 Persistent cookies stay in the cookie file of your browser for longer (though how long will depend on the lifetime of the specific cookie). We use persistent cookies to track whether you entered our site from a link on a site of one of our business partners, avoid showing you the same ad one repeatedly, to display ads or other content tailored to your preferences.
+
+5.4 Usually you can modify the settings of your browser to accept or reject all cookies or be notified when a cookie is set. To view your security settings in Internet Explorer, access the Internet Options within the tools menu in your browser and select the Privacy tab to choose a privacy setting for the internet zone you are in. For further information on cookies and cookie settings, including how to delete cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+5.5 As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our site. These third parties may use cookies and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites. This is so they can track the effectiveness of their campaigns (including whether these ads are clicked on or viewed by users and later purchases by such users), avoid showing you the same ad repeatedly and display ads on this and other sites tailored to your preferences. We don't have any access to or control over these third party technologies as these aren't covered by this policy. Also, if you would like more information about this practice and to know your choices about not having this information used by certain of these companies, please click here. Please contact the third parties directly for more information about their privacy practices.
+
+**6\. How do we use your personal data?**
+
+6.1 We use your personal data to provide our services eg processing payments or to send you service-related messages such as confirmation emails and other messages concerning your relationship with us. Such messages may include newsletters, special offers and commercial messages related to our service.
+
+6.2 We use your personal data to help us communicate with you effectively should you try to contact us via our site including verification of any claims you may make. 
+
+6.3 We may use cookies, IP addresses or personal data to recognize you when you visit or return to our site so we can show you ads or other content tailored to your preferences, to track anonymised traffic, demographic and usage patterns, to prevent or detect fraud or abuses or to help us improve our site. 
+
+6.4 We may access, monitor, remove, alter or store or otherwise use any personal data if we think you have or may have breached our terms and conditions or to enforce our rights or protect the public or where if we are required to do so by law or appropriate authorities.
+
+**7\. How do we protect personal data?**
+
+7.1 Security is a high priority. We take precautions to protect personal data from loss, misuse, unauthorised access or disclosure, alteration or destruction using the same safeguards as we use for our own proprietary information. 
+
+7.2 Your personal data is stored on secure dedicated database servers that are separate from our website servers and are not connected to the internet. We also maintain physical and procedural safeguards in connection with the collection, storage and disclosure of personal data. 
+
+7.3 Our banking partner also uses 128 bit SSL technology to encrypt credit card transactions.
+
+**8\. To whom do we disclose personal data?**
+
+8.1 We do not disclose any personal data to third parties except insofar as we say so below.
+
+8.2 We may allow access to your personal data by third parties who supply us with a service - for the purpose of their service only. Examples include payment providers and businesses which assist us in undertaking communications or monitoring our site.
+
+8.3 If you have agreed on our site, we may provide your personal data to our partners so that they can send you emails (or other communications) with details of goods or services which may be of interest to you including information about special offers or promotions. If you wish to stop receiving such offers, you can unsubscribe via the communication itself or at any time from within the "My Account" area of the site. 
+
+8.4 We may provide anonymised demographic information (eg age category, gender) to partners to target offers. This will not include any personally identifiable information.
+
+8.5 Certain information which you voluntarily provide such as your profile (including images and video), personal ad and search criteria is made available to other members or users of our site or services. So may certain of your activities within our site, for example when you wink at another member, visit another member's page or add a member to your list of contacts. For more information, see the FAQs on our site. (All of this of course excludes contact details and payment data provided on registration or applying for a Pass which are not disclosed to other members or users.) 
+
+8.6 We may (direct or through our partners) distribute, publish or broadcast the information contained in your profile (including images and video), personal ad and search criteria to third parties including via email newsletters, on third party websites or via any other distribution media including electronic media (such as email, SMS, MMS, WAP, Internet, CD-Rom or DVD-Rom), and audiovisual communications media (including press, radio, analogue television, digital television, cable or satellite). You have granted us a licence to do this by agreeing to our terms and conditions. If you no longer wish us or our partners to distribute, publish or broadcast such information, you can terminate your registration with us by following the instructions in the designated part of our site. Such termination will not affect any previous distribution, publication or broadcast of the relevant material and will only take effect upon the next update or version thereof.
+
+8.7 We may disclose personal data so far as reasonably necessary:
+
+a) if we think you have or may have breached our terms and conditions or to enforce our rights or protect the public or where if we are required to do so by law or appropriate authority; or
+
+b) in the case of an actual or proposed (including negotiations for a) sale or merger or business combination involving of all or the relevant part of our business or in the case of an insolvency.
+
+8.8 We may share your information with any other companies within our group for the purposes stated in this privacy policy.
+
+8.9 We will take reasonable steps to require that third parties to whom we transfer any personal data will agree to provide sufficient protection. We may store or transfer personal data outside the European Economic Area for the purposes stated in this policy.
+
+**9\. How can you access and rectify personal data?**
+
+9.1 You can access, rectify or delete your personal data by contacting us via the "Help" section on our website. We will of course need to be satisfied that you are who you say you are. We may charge an administration fee in line with data protection laws.
+
+9.2 For information about your rights under UK data protection laws, see the website of the UK Information Commissioner (<http://www.dataprotection.gov.uk/>)
