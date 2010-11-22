@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the envylabs.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629090138id_/http%3A//envylabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envylabs.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122080244id_/http%3A//envylabs.com/privacy) for the most accurate reproduction.*
 
-# Envy Labs
+# « Envy Labs
 
 This Privacy Statement sets forth Envy Labs’s information gathering and dissemination practices regarding personal information collected by Envy Labs directly from individuals ("you") in connection with the website located at [www.envylabs.com](http://www.envylabs.com/) and related URLs ("Website").
 
