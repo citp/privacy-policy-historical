@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505010227id_/http%3A//www.endnote.com/enprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122012719id_/http%3A//www.endnote.com/enprivacy.asp) for the most accurate reproduction.*
 
 # EndNote - Privacy Policy
 
@@ -6,7 +6,7 @@ Thomson Reuters knows that you care how information about you is used and shared
 
 This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.endnote.com (this "Web Site"). We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.. 
 
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please [contact the webmaster](https://web.archive.org/web/20100505010227id_/http%3A//www.endnote.com/enwebmaster.asp).
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please [contact the webmaster](https://web.archive.org/web/20101122012719id_/http%3A//www.endnote.com/enwebmaster.asp).
 
 **WHAT INFORMATION ABOUT YOU DO WE COLLECT?**
 
@@ -27,7 +27,7 @@ You can, of course, disable cookies on your computer by indicating this in the p
 
 **HOW DO WE USE THE INFORMATION WE COLLECT?**
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive such information from us, please [contact the webmaster](https://web.archive.org/web/20100505010227id_/http%3A//www.endnote.com/enwebmaster.asp).
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive such information from us, please [contact the webmaster](https://web.archive.org/web/20101122012719id_/http%3A//www.endnote.com/enwebmaster.asp).
 
 We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
 
