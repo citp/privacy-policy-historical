@@ -1,20 +1,29 @@
-> *The following text is extracted and transformed from the 101articles.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301075349id_/http%3A//www.jingerjarrett.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101articles.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122091257id_/http%3A//jingerjarrett.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Internet Marketing, Search Engine Optimization and Writing
+# Privacy Policy | Internet Marketing and Copywriting
 
-Your privacy is important to jingerjarrett.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested. 
+
+
+
+Your privacy is important to jingerjarrett.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested.
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted on the jingerjarrett.com website. On some pages, you can order products, make requests, and register to receive materials or make use of our private forums. The types of personal information collected at these pages may be any or all of the following: 
+This notice applies to all information collected or submitted on the jingerjarrett.com website. On some pages, you can order products, make requests, and register to receive materials or make use of our private forums. The types of personal information collected at these pages may be any or all of the following:
 
-Name  
-Address  
-Phone Number  
-Email Address  
-IP Address (required for use on our private forum)  
+Name
+
+Address
+
+Phone Number
+
+Email Address
+
+IP Address (required for use on our private forum)
+
 Credit/Debit Card Information
 
+  
 The credit and payment services we utilize to process your order have their own privacy statements which may be different from those found here at jingerjarrett.com. It is therefore recommended that you carefully read the privacy statements located on these other sites to help protect your privacy. 
 
 **How We Use Your Information**
@@ -35,10 +44,17 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**Our Commitment to Children's Privacy**
+**Our Commitment to Children’s Privacy**
 
 Protecting the privacy of the very young is especially important to us at jingerjarrett.com. And for that reason, we never collect or maintain information at our website from those we actually know are under the age of 13. No part of our website is structured to attract anyone under the age of 13. 
 
 Also, if we hear of, are informed of, or are witness to any illegal activity with, to, or directed at children, we will promptly report such parties to the proper authorities for prosecution. 
 
 _jingerjarrett.com_
+
+  
+
+
+
+  
+
