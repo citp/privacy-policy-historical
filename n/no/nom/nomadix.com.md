@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomadix.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117192014id_/http%3A//www.nomadix.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadix.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105746id_/http%3A//www.nomadix.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,8 +75,8 @@ If you have any questions about this Privacy Policy, please write to:
 
 Nomadix  
 Attn: Privacy Policy Inquiry  
-1100 Business Center Circle Suite 100  
-Newbury Park, CA 91320  
-Fax: 818-597-1502   
+30851 Agoura Road  
+Suite 102  
+Agoura Hills, CA 91301  
 Telephone: 818-597-1500   
 Email address: [privacypolicy@nomadix.com](mailto:privacypolicy@nomadix.com)
