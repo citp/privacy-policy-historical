@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetwitterdesigner.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004220id_/http%3A//www.freetwitterdesigner.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetwitterdesigner.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123005357id_/http%3A//freetwitterdesigner.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Free Twitter Designer
 
