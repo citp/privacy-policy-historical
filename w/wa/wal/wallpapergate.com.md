@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the wallpapergate.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906150247id_/http%3A//www.wallpapergate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapergate.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122054251id_/http%3A//www.wallpapergate.com/privacy.html) for the most accurate reproduction.*
 
-# WallpaperGate.com - Privacy
+# Privacy - WallpaperGate.com
 
-How To Contact Us
+**Effective June/01/2005**
+
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * How To Contact Us  
+
+
+
 
 **Our Commitment To Privacy**
 
