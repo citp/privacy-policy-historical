@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507012729id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122175615id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Post Site dot com
 
