@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the seshamo.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414212905id_/http%3A//www.seshamo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seshamo.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082032id_/http%3A//www.seshamo.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Seshamo
-
-This policy has been developed because we want you to feel confident about the privacy and security of your personal information entered on our site. We follow strict security procedures in the storage and disclosure of your information as required by law.   
-All personal information will be held in strictest confidence and used only for the purposes for providing you the service requested with certain caveats as described below.
 
 ## General
 
@@ -15,13 +12,26 @@ Upon logging on to the network , our servers collect certain elements of standar
 
 ## Personal User Data
 
-The only occasion on which the Altura Labs s.r.l. Network may receive personally identifiable information about you is if you, the user, knowingly and willingly provide us with the information via email. This information is voluntarily submitted at your discretion, and is optional and normally required so as to allow us to reply to your email and correspondence. The network will never share with advertisers or other third parties the aggregate results of the data it receives except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
+Certain visitors to our websites choose to interact with our site in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, we ask visitors who register to provide email address, name, and birthdate. Those who engage in transactions with or submit information to our website are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with our site. We do not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-  1. Service providers, such as credit-card payment processors, performing services on our behalf;
-  2. Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
-  3. Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+As an Seshamo member, you can create a profile that includes personal information, such as your name, surname, gender, age, occupation, hobbies, and interests, plus other content, such as photos. This information may be accessed and viewed by other Seshamo users, if you don't want to share such information you may refuse to supply it.
+
+However, if visitors engage in behavior that can reasonably be construed as abuse, fraud, or hostile attacks on the website, they waive their right to privacy for any personally-identifying information they have provided, including their IP address.
+
+## Aggregated Statistics
+
+We may collect statistics about the behavior of visitors to its websites. For instance, we may monitor the most popular parts of the website. We may display this information publicly or provide it to others. However, we do not disclose personally-identifying information other than as described below.
+
+## Protection of Certain Personally-Identifying Information
+
+We disclose potentially personally-identifying and personally-identifying information only to those of our employees, contractors and affiliated organizations that:
+
+  1. need to know that information in order to process it on our behalf or to provide services available at our websites, and
+  2. that have agreed not to disclose it to others.
 
 
+
+Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using this website, you consent to the transfer of such information to us. We will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to our employees, contractors and affiliated organizations, as described above, we disclose potentially personally-identifying and personally-identifying information only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of our websites, third parties or the public at large. If you are a registered user of our website and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with our sites and our products. We primarily use our site blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 ## Cookies
 
