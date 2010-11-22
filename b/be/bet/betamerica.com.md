@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betamerica.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204015926id_/http%3A//www.betamerica.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betamerica.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122083508id_/http%3A//www.betamerica.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | BetAmerica
 
