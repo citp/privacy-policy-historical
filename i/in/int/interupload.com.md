@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interupload.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616050726id_/http%3A//www.interupload.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interupload.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123001248id_/http%3A//www.interupload.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - interupload.com - Upload Your files to multiple hosts
 
