@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the bollywoodbuzz.in privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425073603id_/http%3A//www.bollywoodbuzz.in/fair-use-guide) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodbuzz.in privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122102945id_/http%3A//www.bollywoodbuzz.in/privacy-policy) for the most accurate reproduction.*
 
-# Fair Use Guide/Privacy Policy | Bollywood Buzz
-
-[](http://www.bollywoodbuzz.in/Offer/Thesis/)
-
-**Want to Link, Quote or Reprint?**
-
-If you are interested in linking, quoting, or reprinting articles from Bollywood Buzz in whole or in part, please do read our copyright policy:
-
-**# If you want to link from your site to Bollywood Buzz**
-
-You are welcome to use short quotes from Bollywood Buzz in your website or blog as long as proper credit is given. But please quote only short excerpts – up to one paragraph – from our site when you make the link.
-
-**# You must credit Bollywood Buzz when you quote**
-
-Always provide a hyperlink (full URL) to the article where the quote is from. Don’t hyperlink just to the homepage. Copy quoted material exactly, enclose it in quotations marks, and mention Bollywood Buzz immediately before or after the quote.
+# Privacy Policy | Bollywood Buzz
 
 **Privacy Policy**
 
@@ -43,7 +29,3 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **# Newsletter**
 
 If a visitor wishes to subscribe to our newsletter (powered by Feedblitz), we ask for contact information such as name and email address. Out of respect for our visitors’ privacy, we provide a way to opt-out of these communications.
-
-**# Contact Information**
-
-If visitors have any questions, suggestions or advertising offers regarding our site, [please contact us](https://web.archive.org/web/20100425073603id_/http://www.bollywoodbuzz.in/contact/).
