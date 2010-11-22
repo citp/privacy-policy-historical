@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igda.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622235407id_/http%3A//www.igda.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igda.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082510id_/http%3A//www.igda.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | IGDA
 
