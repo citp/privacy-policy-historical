@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinky.co.nz privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602170755id_/http%3A//www.blinky.co.nz/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinky.co.nz privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123005907id_/http%3A//blinky.co.nz/privacy-policy.php) for the most accurate reproduction.*
 
 # Free Samples, competitions and vouchers |
 
