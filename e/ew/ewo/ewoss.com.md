@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewoss.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611222033id_/http%3A//www.ewoss.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewoss.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122164131id_/http%3A//www.ewoss.com/privacy.aspx) for the most accurate reproduction.*
 
 # eWoss Privacy Policy
 
@@ -11,7 +11,7 @@ eWoss Privacy Policy
 **Administration**
 
 Website Name: eWoss  
-Address: 12920 Metcalf, Suite 120  
+Address: 7415 W 130th St, Suite 100  
 State: Kansas  
 Zip Code: 66213  
 Country: United States  
@@ -36,7 +36,7 @@ Occasionally **eWoss** may be required by law enforcement or judicial authoritie
 
 **Part III. Third Party Links, Co-brand, Relationships, and Public Forums**
 
-In an attempt to provide increased value to our visitors **eWoss** may choose various 3rd party web sites to link to, link from, and frame **eWoss**. In specific, eWoss provides numerous 3rd party links in our search results. **eWoss** may also participate in co-branding and other relationships to offer e-commerce and other services and features to its users. However, we have no control over these linked sites, each of who have separate privacy and data collection practices independent of **eWoss**. We have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices of these websites.
+**eWoss** uses third-party advertising companies and advertising networks to serve ads and collect information when you visit our Website. These companies may use information about your visits to this and other websites in order to provide advertisements on this Website, other sites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Part IV. Problem Resolution**
 
