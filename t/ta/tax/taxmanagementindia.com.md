@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxmanagementindia.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093923id_/http%3A//www.taxmanagementindia.com/Web/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxmanagementindia.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122090103id_/http%3A//www.taxmanagementindia.com/web/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
