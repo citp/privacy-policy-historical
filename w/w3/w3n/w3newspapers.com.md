@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3newspapers.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628154653id_/http%3A//www.w3newspapers.com/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3newspapers.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122191420id_/http%3A//www.w3newspapers.com/web/privacy) for the most accurate reproduction.*
 
 # Privacy - w3newspapers.com
 
