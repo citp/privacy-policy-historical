@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipraxa.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207162620id_/http%3A//www.ipraxa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipraxa.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105143id_/http%3A//www.ipraxa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ipraxa
 
