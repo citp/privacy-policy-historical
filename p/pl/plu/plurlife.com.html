@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plurlife.com privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629012352id_/http%3A//www.plurlife.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plurlife.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122191720id_/http%3A//www.plurlife.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Plurlife : Electronic Music, DJs, Clubs, and Parties!</title>
@@ -17,11 +17,644 @@
 <meta name="Author" content="Plurlife">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<!--<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>-->
 <script type="text/javascript">var jQ = jQuery.noConflict();</script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
-<script type="text/javascript" src="js/jquery.checkboxes.min.js"></script>
-<script src="/js/prototype.js" language="JavaScript" type="text/javascript"></script><style type="text/css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/jquery.checkboxes.min.js"></script>
+<script type="text/javascript" src="/js/jquery.include.min.js"></script>
+<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/js/alert_feed.js?v=1"></script>
+<script type="text/javascript" src="/js/dklab_realplexor.js?v=2"></script>
+<script type="text/javascript" src="/js/JsHttpRequest.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1/prototype.js"></script>
+<script type="text/javascript">
+var frameBusted = (top != self);
+if (frameBusted) top.location.href = self.location.href;
+
+var not_saved = { 'ta': false, 'cmd_ta': false, 'text': 'Are you sure you want to cancel this?' };
+
+jQ(document).ready(function(){	
+	jQ('textarea').live('keypress', function(e){
+		if (jQ(this).parents('#cmdiv').length) not_saved.cmd_ta = true;
+		else not_saved.ta = true;
+	});
+	jQ('form').live('submit', function(e){
+		if (jQ(this).parents('#cmdiv').length) not_saved.cmd_ta = false;
+		else not_saved.ta = false;
+	});
+
+	window.onbeforeunload = function() {
+		if (not_saved.ta || not_saved.cmd_ta) return not_saved.text;
+	}
+	
+/*
+	jQ('form').submit(function(){
+		jQ('input[type=submit]', this).attr('disabled', 'disabled');
+	});
+*/
+	BubbleTip();
+	VCard();
+	OwnCheckBoxes();
+});
+
+if(typeof(OA_show) == 'undefined')
+	OA_show = function(){};
+
+var photo_desc_val=null;
+if (typeof(gMediaType) == 'undefined')
+	var gMediaType = 2;
+
+function FriendDescription(member_id)
+{
+	if (!member_id) return false;
+	
+	jQ.post("/ajax_scripts/people.php", { "action": "FriendDescription", "member_id": member_id },
+		function(data){
+			if (!data.success) { alert(data.message); return false; }
+			
+			var vcard = jQ('div.vcard_member_id_'+member_id);
+			
+			if (jQ('.bubbleInfo',vcard).length)
+				jQ('.bubbleInfo',vcard).replaceWith(data.html);
+			else
+				jQ('.vcard_menu',vcard).before(data.html);
+			BubbleTip('div.vcard_member_id_'+member_id);
+
+		}, "json"
+	);
+}
+
+function OwnCheckBoxes()
+{
+	var l = jQ('label');
+	var chb = l.find(':checkbox');
+	
+	chb.each(function(){
+		var c = (this.checked) ? 'checked' : 'unchecked';
+		jQ(this).parent().addClass(c).append('&nbsp;');
+	});
+
+	chb.click(function(){
+		var p = jQ(this).parent();
+		p.removeClass('hover');
+
+		if (this.checked)
+			p.removeClass('unchecked')
+			.addClass('checked');		
+		else
+			p.removeClass('checked')
+			.addClass('unchecked');
+	});
+
+	l.mouseover(function(){
+		jQ(this).addClass('hover');
+	});
+
+	l.mouseout(function(){
+		jQ(this).removeClass('hover');
+	});	
+}
+	
+function CMD(action, step, arr, f_id)
+{
+	if (typeof(cmd_timeout) != 'undefined') 
+		clearTimeout(cmd_timeout); 
+	var cmd_timeout = null;
+	
+	if (typeof(step) == 'undefined') var step = 'start';
+	if (typeof(arr) == 'undefined') var arr = {a:0};
+	if (typeof(f_id) == 'undefined') var f_id = null;
+	if (step == 'end')
+	{
+		if (not_saved.cmd_ta)
+		{
+			if (!confirm(not_saved.text)) return false;
+			else not_saved.cmd_ta = false;
+		}
+		
+		jQ('#cmdiv,#cmd_overlay').animate({opacity: 0},'slow', function(){jQ(this).remove()}); 
+		if (jQ.browser.msie)
+			jQ('body').css({overflow:'auto'});
+		
+		return false;
+	}
+	else if (step == 'do') not_saved.cmd_ta = false;
+	
+	var cmdiv_form = ($('cmdiv_form')) ? $('cmdiv_form') : (($(f_id)) ? $(f_id) : null);
+	
+	var req = new JsHttpRequest();
+	req.onreadystatechange = function()
+	{
+		if (req.readyState != 4) return false;
+		
+		if (!req.responseJS.alert)
+		{
+			if ((step != 'start' && step != 'end') && req.responseJS.result && arr.func)
+				eval(arr.func);
+			return false;
+		}
+		
+		if (req.responseJS.alert && req.responseJS.result)
+			not_saved.cmd_ta = false;
+		
+		jQ('body').append('<div id="cmdiv"></div><div id="cmd_overlay"></div>');
+		jQ('#cmdiv').css({opacity: 1});
+		jQ('#cmd_overlay').css({opacity: 0.65});
+		if (jQ.browser.msie)
+			jQ('body').css({overflow:'hidden'});
+		jQ('#cmd_overlay').css({width: jQ(document).width(), height:jQ(document).height()});
+		
+		if (req.responseText)
+			jQ('#cmdiv').html(req.responseText).show();
+		if (req.responseJS.p_a_message && $('cmdiv_p_a_message'))
+			jQ('#cmdiv_p_a_message').html(req.responseJS.p_a_message);
+		if (req.responseJS.alert)
+			BubbleTip('#cmdiv'); OwnCheckBoxes(); //VCard('#cmdiv');
+		if (req.responseJS.tinymce)
+		{
+			TinyHookElements = ''; //req.responseJS.tinymce
+			hooktextarea();
+		}
+
+		jQ('div#cmdiv textarea').bind('change', function(e){
+			not_saved.cmd_ta = true;
+		});
+
+		if ((step != 'start' && step != 'end') && req.responseJS.result && arr.func)
+			eval(arr.func);
+
+		if (req.responseJS.result && req.responseJS.auto_hide)
+			cmd_timeout = setTimeout("CMD('"+action+"','end')", 900);
+	}
+	
+	req.open(null, '/ajax_scripts/cmd.php', true);
+	req.send( { 'action': action, 'step': step, 'arr': arr, frm: cmdiv_form } );
+}
+	
+function EditCaption(photo_id, photo_type)
+{
+	if (typeof(photo_type) == 'undefined')
+		var photo_type = 1;
+	
+	if(photo_id==null)
+	{
+		photo_id = gPhotoId;
+		var photo_desc = $('photo_desc'+photo_id);
+	}
+	else
+		var photo_desc = $('photo_desc');
+	if(photo_desc_val==null)
+		photo_desc_val = photo_desc.innerHTML;
+
+	photo_desc.innerHTML = "<input type='text' value='"+photo_desc_val+"' onBlur='SaveCaption("+photo_id+","+photo_type+","+gMediaType+")' onKeyDown='if(event.keyCode==13) SaveCaption("+photo_id+","+photo_type+","+gMediaType+")'>";
+	photo_desc.firstChild.select()
+	photo_desc.firstChild.focus()
+	return false;
+}
+
+function SymbolLimit(ta)
+{
+	var limit = 255;
+	var str = ta.value;
+	if (str.length >= limit)
+		ta.value = str.substring(0, limit);
+}
+
+function SaveCaption(photo_id, photo_type, media_type)
+{
+	if(typeof(gPhotoId)!='undefined')
+		var photo_desc = $('photo_desc'+photo_id);
+	else
+		var photo_desc = $('photo_desc');
+	photo_desc.firstChild.onblur=null;
+	photo_desc.firstChild.disabled=true;
+	var val=photo_desc.firstChild.value;
+	photo_desc_val=val.escapeHTML();
+	var myAjax = new Ajax.Request('/ajax.php',{
+		method: 'post',
+		parameters: 'action=SaveCaption&photo_id='+encodeURIComponent(photo_id)+'&photo_type='+encodeURIComponent(photo_type)+'&caption='+encodeURIComponent(val)+'&media_type='+encodeURIComponent(media_type),
+		onComplete: function(res){
+			if(res.responseText=='1')
+			{
+				if(typeof(gPhotoId)!='undefined')
+					$('photo_desc'+photo_id).update(photo_desc_val);
+				else
+					$('photo_desc').update(photo_desc_val);
+				photo_desc_val=null;
+			}
+			else
+				alert(res.responseText);
+		}
+	});
+}
+
+//others
+var isMac = /Macintosh|Mac|Apples/i.test(navigator.userAgent);
+var isSafari = /Konqueror|Safari|KHTML/i.test(navigator.userAgent) && isMac;
+//isSafari = false;
+var formaction=null;
+
+function SelectAll(check){
+	check.checkedme = check.checkedme?false:true;
+	for(i=0;i<document.wheretocheckall.length;i++){
+			if(document.wheretocheckall[i].type=='checkbox' /*&& document.wheretocheckall[i].name!=check.name*/){
+					document.wheretocheckall[i].checked=check.checkedme;
+			}
+	}
+}
+
+function PreviewPost(idin, idout){
+	var txt=$F(idout);
+
+	if(typeof(tinyMCE)!='undefined' && TinyMCE_run && txt=='')
+		txt=tinyMCE.get(idout).getContent();
+
+	new Ajax.Updater(idin, '/ajax_scripts/previewpost.php',
+		{
+			asynchronous: true,
+			parameters: { text: txt }
+		}
+	);
+}
+
+function PreviewPostBulletin(idin, idout, idsubject){
+	var txt=$F(idout);
+
+	if(typeof(tinyMCE)!='undefined' && TinyMCE_run && txt=='')
+		txt=tinyMCE.get(idout).getContent();
+
+	new Ajax.Updater(idin, '/ajax_scripts/previewpostbulletin.php',
+		{
+			asynchronous: true,
+			parameters: { text: txt, subject: $F(idsubject) }
+		}
+	);
+}
+
+function PreviewPostBlog(idin, idout, idsubject){
+	var txt=$F(idout);
+	
+	if(typeof(tinyMCE)!='undefined' && TinyMCE_run && txt=='')
+		txt=tinyMCE.get(idout).getContent();
+
+	new Ajax.Updater(idin, '/ajax_scripts/previewpostblog.php',
+		{
+			asynchronous: true,
+			parameters: { text: txt, subject: $F(idsubject) }
+		}
+	);
+}
+
+// menu gallery photo
+function MovePhotoToAlbum(){
+	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined')
+		window.location='/move_album_photo.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
+}
+function RotatePhoto(){
+	if(typeof(gPhotoId)!='undefined')
+		window.open('/imagecrop/?photo_id='+gPhotoId, 'RotatePhoto', "width=640,height=700,resizable=1");
+}
+function DeletePhoto(){
+	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined' && confirm('Are you sure?'))
+		window.location='/delete_album_photo1.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
+}
+function SetPhotoDefault(){
+	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined' && confirm('Are you sure?'))
+		window.location='/make_main.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
+}
+function SetAlbumCover(){
+	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined' && confirm('Are you sure?'))
+		window.location='/make_cover.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
+}
+
+
+//menu group photo
+function CopyGroupPhotoToAlbum(){
+	if(typeof(gPhotoId)!='undefined' && typeof(gGroupId)!='undefined')
+		window.location='/copy_group_photo.php?photo_id='+gPhotoId+'&group_id='+gGroupId;
+}
+function RotateGroupPhoto(){
+	if(typeof(gPhotoId)!='undefined')
+		window.open('/imagecrop/group_index.php?photo_id='+gPhotoId, 'RotatePhoto', "width=640,height=700,resizable=1");
+}
+function DeleteGroupPhoto(){
+	if(typeof(gPhotoId)!='undefined' && typeof(gGroupId)!='undefined' && confirm('Are you sure?'))
+		window.location='/delete_group_photo1.php?photo_id='+gPhotoId+'&group_id='+gGroupId;
+}
+function SetGroupCover(){
+	if(typeof(gPhotoId)!='undefined' && typeof(gGroupId)!='undefined' && confirm('Are you sure?'))
+		window.location='/make_group_cover.php?photo_id='+gPhotoId;
+}
+
+
+// set description to friend
+function SaveDescriptionFriend(fid){
+	var a=$('dfriend'+fid);
+	var des=a.title;
+	window.open('/html/promptdes.php?des='+encodeURIComponent(des)+'&fid='+encodeURIComponent(fid),
+		"promptdes","width=275,height=215");//, toolbar=no, location=no, directories=no, status=no, menubar=no");
+}
+
+// AddDescriptionTxt(this)
+function AddDescriptionTxt(fid){
+	$('dfriend'+fid).update('<textarea onblur="SaveDescriptionTxt('+fid+');"></textarea>');
+}
+function SaveDescriptionTxt(fid){
+	text=$('dfriend'+fid).firstChild.value;
+	var myAjax = new Ajax.Request('/ajax.php',{
+		method: 'post',
+		parameters: 'action=SaveDescriptionFriend&friend_id='+encodeURIComponent(fid)+'&description='+encodeURIComponent(text),
+		onComplete: function(res){
+			if(res.responseText=='1'){
+				;//allok
+			}else
+				alert(res.responseText);
+		}
+	});
+}
+function showpublic(t){
+	var flag = t.checked;
+	var tmp=/public\[(\d+)\]/.exec(t.name);
+	var num=tmp[1];
+//	$('descriptions['+num+']').disabled=!flag;
+	$('video_cat['+num+']').disabled=!flag;
+
+	if(flag){
+//		$('descriptions'+num+'').setStyle({'color':'#356BA2'});
+		$('video_cat'+num+'').setStyle({'color':'#356BA2'});
+	}else{
+//		$('descriptions'+num+'').setStyle({'color':'#778899'});
+		$('video_cat'+num+'').setStyle({'color':'#778899'});
+	}
+}
+
+/* cookies */
+function getCookie( name ) {
+	var start = document.cookie.indexOf( name + '=' );
+	var len = start + name.length + 1;
+	if ( ( !start ) && ( name != document.cookie.
+substring( 0, name.length ) ) ) {
+		return null;
+	}
+	if ( start == -1 ) return null;
+	var end = document.cookie.indexOf( ';', len );
+	if ( end == -1 ) end = document.cookie.length;
+	return unescape( document.cookie.substring( len, end ) );
+}
+
+function setCookie( name, value, expires, path, domain, secure ) {
+	var today = new Date();
+	today.setTime( today.getTime() );
+	if ( expires ) {
+		expires = expires * 1000 * 60 * 60 * 24;
+	}
+	var expires_date = new Date( today.getTime() + (expires) );
+	document.cookie = name+'='+escape( value ) +
+		( ( expires ) ? ';expires='
++expires_date.toGMTString() : '' ) +
+//expires.toGMTString()
+		( ( path ) ? ';path=' + path : '' ) +
+		( ( domain ) ? ';domain=' + domain : '' ) +
+		( ( secure ) ? ';secure' : '' );
+}
+
+function deleteCookie( name, path, domain ) {
+	if ( getCookie( name ) ) document.cookie = name + '=' +
+			( ( path ) ? ';path=' + path : '') +
+			( ( domain ) ? ';domain=' + domain : '' ) +
+			';expires=Thu, 01-Jan-1970 00:00:01 GMT';
+}
+
+function ping(){
+	new Ajax.Request('/ajax_scripts/ping.php',{method:'post'});
+}
+
+function StatusSwitch() {
+	var now = new Date();
+	var hours = now.getHours();
+	var min = now.getMinutes().toString();
+	if (min.length == 1) min = '0' + min;
+	var time_now = (hours > 12)
+		? hours - 12 + ':' + min + ' pm'
+		: hours + ':' + min + ' am';
+	$('status_div').innerHTML = '<input type="text" id="away_message" name="away_message" size="20" value="I\'m away from ' + time_now + '" /> <input type="button" value="Ok" class="formbutton" name="away_switcher" onclick="SaveAwayMessage()" />';
+}
+
+function SaveAwayMessage()
+{
+	var message = document.getElementById('away_message').value;
+	var req = new JsHttpRequest();
+	req.onreadystatechange = function()
+	{
+		if (req.readyState == 4)
+		{
+			if (req.responseJS.status)
+				document.getElementById('status_div').innerHTML = req.responseJS.status;
+			if (req.responseText)
+				document.getElementById('status_div').innerHTML = req.responseText;
+		}
+	}
+	req.open(null, '/ajax1.php', true);
+	req.send( { 'action': 'SaveAwayMessage', 'away_message': message } );
+}
+
+function FriendSelector(letter,friend_id)
+{
+	if (typeof(friend_id) == 'undefined')
+		var friend_id = 0;
+	var req = new JsHttpRequest();
+	req.onreadystatechange = function()
+	{
+		if (req.readyState == 4)
+			if (req.responseJS.result)
+			{
+				$('member_friend_select').innerHTML = req.responseJS.result;
+				MemberCard(req.responseJS.member_id);
+			}
+	}
+	req.caching = true;
+	req.open(null, '/ajax1.php', true);
+	req.send( { 'action': 'FriendSelector', 'letter': letter, 'friend_id': friend_id } );
+}
+
+function MemberCard(member_id)
+{
+	var req = new JsHttpRequest();
+	req.onreadystatechange = function()
+	{
+		if (req.readyState == 4)
+			if (req.responseJS.result)
+				$('member_card').innerHTML = req.responseJS.result;
+	}
+	req.caching = true;
+	req.open(null, '/ajax1.php', true);
+	req.send( { 'action': 'MemberCard', 'member_id': member_id } );
+}
+
+function GetPhotoRank(photo_id, next_url)
+{
+	var req = new JsHttpRequest();
+	req.onreadystatechange = function()
+	{
+		if (req.readyState == 4)
+		{
+			if (req.responseJS.result)
+				$('photo_rank_'+photo_id).innerHTML = req.responseJS.result;
+			else
+				$('photo_rank_'+photo_id).innerHTML = '<div class="'+req.responseJS.class_name+'">'+req.responseJS.message+'</div>';
+		}
+	}
+	req.open(null, '/ajax1.php', true);
+	req.send( { 'action': 'GetPhotoRank', 'photo_id': photo_id, 'next_url': next_url } );
+}
+
+function SetPhotoRank(photo_id, rank, next_url)
+{
+	$('photo_rank_'+photo_id).update('Your vote has been counted!');
+	var req = new JsHttpRequest();
+	req.onreadystatechange = function()
+	{
+		if (req.readyState == 4)
+		{
+			if (req.responseJS.result)
+			{
+				if (next_url == '')
+					GetPhotoRank(photo_id,-1);
+				else
+					location.href = next_url;
+			}
+			else
+				$('photo_rank_'+photo_id).innerHTML = '<div class="'+req.responseJS.class_name+'">'+req.responseJS.message+'</div>';
+		}
+	}
+	req.open(null, '/ajax1.php', true);
+	req.send( { 'action': 'SetPhotoRank', 'photo_id': photo_id, 'rank': rank } );
+}
+
+// popup description
+function BubbleTip(sel_parent)
+{
+	sel_parent = (typeof(sel_parent) == 'undefined') ? 'div.bubbleInfo' : sel_parent+' div.bubbleInfo'; 
+	
+	if (!jQ(sel_parent).length) return false;
+	
+	jQ(sel_parent).each(function () {
+		var distance = 10;
+		var time = 250;
+		var hideDelay = 500;
+
+		var hideDelayTimer = null;
+
+		var beingShown = false;
+		var shown = false;
+		var trigger = jQ('.trigger', this);
+		var info = jQ('.popup', this).css('opacity', 0);
+
+		jQ([trigger.get(0), info.get(0)]).mouseover(function () {
+			if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			if (beingShown || shown) {
+				// don't trigger the animation again
+				return;
+			} else {
+				// reset position of info box
+				beingShown = true;
+
+				info.css({
+					top: -55,
+					left: -100,
+					display: 'block'
+				}).animate({
+					top: '-=' + distance + 'px',
+					opacity: 1
+				}, time, 'swing', function() {
+					beingShown = false;
+					shown = true;
+				});
+			}
+
+			return false;
+		}).mouseout(function () {
+			if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			hideDelayTimer = setTimeout(function () {
+				hideDelayTimer = null;
+				info.animate({
+					top: '-=' + distance + 'px',
+					opacity: 0
+				}, time, 'swing', function () {
+					shown = false;
+					info.css('display', 'none');
+				});
+
+			}, hideDelay);
+
+			return false;
+		});
+	});	
+}
+
+function VCard(sel_parent)
+{
+	sel_parent = (typeof(sel_parent) == 'undefined') ? 'div.vcard_menu' : sel_parent+' div.vcard_menu'; 
+	
+	if (!jQ(sel_parent).length) return false;
+	
+	jQ(sel_parent).each(function () {
+		var distance = 10;
+		var time = 400;
+		var showDelay = 250;
+		var hideDelay = 100;
+
+		var hideDelayTimer = null;
+		var showDelayTimer = null;
+
+		var beingShown = false;
+		var shown = false;
+		var trigger = jQ('.trigger', this);
+		var info = jQ('.popup', this).css('opacity', 0);
+
+		jQ([trigger.get(0), info.get(0)]).mouseover(function () {
+			if (showDelayTimer) clearTimeout(showDelayTimer);
+			if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			showDelayTimer = setTimeout(function (){
+				if (beingShown || shown) {
+					// don't trigger the animation again
+					return;
+				} else {
+					// reset position of info box
+					beingShown = true;
+
+					info.css({
+						display: 'block'
+					}).animate({
+						opacity: 1
+					}, time, 'swing', function() {
+						beingShown = false;
+						shown = true;
+					});
+				}
+			}, showDelay);
+			
+			return false;
+		}).mouseout(function () {
+			if (showDelayTimer) clearTimeout(showDelayTimer);
+			if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			hideDelayTimer = setTimeout(function () {
+				hideDelayTimer = null;
+				info.animate({
+					opacity: 0
+				}, time, 'swing', function () {
+					shown = false;
+					info.css('display', 'none');
+				});
+			}, hideDelay);
+
+			return false;
+		});
+	});
+}
+</script>
+<style type="text/css">
 html {
 	background: url("/images/blank.gif") no-repeat;
 	background-attachment: fixed;
@@ -66,7 +699,7 @@ html {
 	font-size: 11px;
 	left: 50%; 
 	top: 35%;
-	padding-bottom: 10px; 
+	padding-bottom: 10px;
 	margin: -150px 0 0 -330px;
 	width: 660px;   
 }
@@ -78,9 +711,14 @@ html {
 	text-decoration: underline;
 }
 #cmdiv form .button {
-	margin-top: 15px;
-	text-align: center;
-	clear: both;
+/*	margin:15px 0 0 0;
+	background-color: #F5F5F5;
+	border-top:1px solid #F1F1F1;
+*/
+	clear:both;
+	margin-top:15px;
+	padding:6px;
+	text-align:center;	
 }
 #cmdiv form .main {
 	text-align: left;
@@ -122,12 +760,23 @@ html {
 	text-align: right;
 }
 #cmdiv form .reply {
+	text-align: left;
+	position: relative;
+	height: 150px;
+}
+#cmdiv form .reply .content {
 	height: 130px; 
 	border: 1px solid #c5d8eb; 
 	overflow: auto;
 	text-align: left;
+	position: absolute;
+	left: 0;
+	top: 16px;
+	width: 100%;
+	background-color: white;
+	z-index: 10;
 }
-#cmdiv form .reply h1 {
+#cmdiv form .reply .content h1 {
 	font-size: 10px;
 	font-weight: normal;
 	line-height: 10px;
@@ -138,12 +787,18 @@ html {
 	margin: 0 0 2px 0;
 	padding:1px;
 }
-#cmdiv form .reply div {
+#cmdiv form .reply .content div {
 	border-bottom: 1px solid #c5d8eb;
 	padding: 1px 3px 2px 5px;
 }
-#cmdiv form .reply div.last {
+#cmdiv form .reply .content div.last {
 	border-bottom: medium none;
+}
+#cmdiv form .txt_label * {
+	font-size: 11px !important;
+}
+#cmdiv form .txt_label input {
+	font-size: 13px !important;
 }
 #cmd_overlay { 
 	background-color:black !important;
@@ -193,7 +848,9 @@ li {
 	list-style-type:none;
 }
 .formbutton,
-.editor_ok_button{
+.editor_ok_button,
+.mikkey1_butOK,
+.mikkey1_butCancel {
 cursor:pointer;
 border:outset 1px #ccc;
 background:#fff;
@@ -1074,24 +1731,6 @@ a:hover
 	FONT-FAMILY: Tahoma;
 }
 
-/* CSS FOR Account Settings */
-.account_settings
-{
-	font-family: Verdana;
-	font-size: 11px;
-	font-weight: bold;
-	color: #000000;
-}
-
-.account_settings_submit
-{
-	font-family: Verdana;
-	font-size: 11px;
-	font-weight: normal;
-	color: #000000;
-}
-/* CSS FOR Account Settings */
-
 /* CSS FOR Forum */
 .forum_sub_show
 {
@@ -1542,6 +2181,60 @@ div.links a.first {
 .vcard a .pilDisplayName {
 	display: block;
 	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+.vcard .vcard_menu {                           
+	border: medium none;
+	position: relative;
+	cursor: pointer;
+	margin-right: 10px;
+	float: left;
+	width: 83%;
+}
+.vcard .vcard_menu .trigger {
+	text-align: center;
+}
+.vcard .vcard_menu .trigger a {
+	overflow: hidden;
+	width: 100%;
+}
+.vcard .vcard_menu .popup {
+	position: absolute;
+	left: -3px;
+	top: -98px;
+	display: none;
+	z-index: 50;
+	border-collapse: collapse;
+	border: 1px solid #999;
+	padding: 0;
+	height: 98px;
+	width: 105px;
+	opacity: 0; 
+	font-family:Tahoma;
+	font-size: 10px;
+	background-color: white;
+}
+.vcard .vcard_menu .friend {
+	top: -117px;
+	height: 117px;
+}
+.vcard .vcard_menu .popup img {
+	margin-right: 5px;
+	vertical-align: top;
+}
+.vcard .vcard_menu .popup a {
+	text-align: left;
+	display: block;
+	padding: 2px;
+	margin: 0;
+	color: #666 !important;
+}
+.vcard .vcard_menu .popup a:hover {
+	background-color: #FFFFCC;
+	text-decoration: none !important;
+}
+.vcard .vcard_menu .popup a.sep {
+	border-top: 1px solid #999;
 }
 .m_status {
 	text-align:center;
@@ -1593,10 +2286,11 @@ label.hover {
 
 /* Popup description */
 .bubbleInfo {
-	position: relative;
 	cursor: pointer;
 	float: right;
-	margin: -3px 18px 0 0 !important;
+	width: 16px;
+	margin-top: -2px;
+/*	margin: -3px 18px 0 0 !important;*/
 }
 .bubbleInfo .trigger {
 	position: absolute;
@@ -1631,10 +2325,10 @@ label.hover {
 
 /* TinyMCE */
 .clearlooks2 {
-	height: 409px !important;
+	max-height: 409px !important;
 }
 .clearlooks2 iframe {
-	height: 380px !important;
+	max-height: 380px !important;
 }
 /* END TinyMCE */
 
@@ -1677,6 +2371,411 @@ a.autolink {
 	color: blue;
 	font-size: 100%;
 }
+
+/* Alert Feed */
+/* Tabs */
+ul.tabs {
+	height: 25px;
+	line-height: 25px;
+	margin: 0 0 3px;
+	list-style: none;
+}
+* html ul.tabs {margin-bottom: 0;}
+ul.tabs li {
+	float: left;
+	margin-right: 1px;
+	cursor: pointer;
+}
+ul.tabs li a {
+	display: block;
+	padding: 0 13px 1px;
+	margin-bottom: -1px;
+	color: #444;
+	text-decoration: none;
+	cursor: pointer;
+	background: #F9F9F9;
+	border: 1px solid #EFEFEF;
+	border-bottom: 1px solid #F9F9F9;
+	position: relative;
+}
+* html ul.tabs li a {float: left}
+*+html ul.tabs li a {float: left}
+ul.tabs li a:hover {
+	background: #FFFFEF;
+}
+ul.tabs li.tab-current a {
+	color: #444;
+	background: #EFEFEF;
+	padding: 0px 13px 2px;
+	border: 1px solid #DDD;
+	border-bottom: 1px solid #EFEFEF;
+}
+div.t2 {
+	display: none;
+}
+div.t1,
+div.t2 {
+	border: 1px solid #DDD;
+	background: #EFEFEF;
+	padding: 10px 5px;
+}
+/* END Tabs */
+
+#af {
+	padding-top: 10px;
+	margin: 5px 0 10px 0;
+	font-family: Tahoma;
+}
+#af img {
+	vertical-align: middle;
+}
+#af .date {
+	background-color: #e9e9FF;
+	padding: 5px 10px 5px 10px;
+	margin: 5px 0;
+}
+#af .item {
+	margin:3px 0 3px 5px;
+	float: left;
+	display: inline;
+	width: 95%;
+	border-bottom: 1px dashed #CCC;
+	padding-bottom: 6px;
+}
+#af .item img {
+	float: left; 
+	margin-right: 6px; 
+	clear: left; 
+	display: inline;
+}
+#af .item div.text {
+	float: left;
+	display: inline;
+	width: 93%;
+	white-space: normal;
+	text-align: left;
+}
+#af .item div.deleted {
+	color: red; 
+	text-align:center;
+	line-height: 12px;
+}
+/*
+#af .af_item .old * {
+	text-decoration: line-through;    
+}
+*/
+#af .page div.not_viewed {
+	background: url("/images/alert_feed/not_viewed.png") no-repeat 97% 35%; 
+}
+#af .page div.no {
+	text-align: center;
+	padding: 2px;
+}
+#af a {
+	color: DarkBlue !important;
+}
+.af_detail {
+	margin: 5px 0 10px 21px;
+}
+#af .time {
+	margin-left: 5px;
+	font-size: 10px;
+	color: #888888;
+	font-family: Tahoma;
+	white-space: nowrap;
+}
+.af_menu {                           
+	float:right;
+	border: 1px solid #EFEFEF;
+	padding:2px;
+	margin: 2px 5px;
+	color: #CCCCCC;
+	position: relative;
+	cursor: pointer;
+	display: inline;
+}
+.af_menu .trigger {
+	position: absolute;
+	margin-left: -8px;
+}
+.af_menu .popup {
+	position: absolute;
+	left: -45px;
+	top: 2px;
+	display: none;
+	z-index: 50;
+	border-collapse: collapse;
+	padding: 2px;
+	height: 16px;
+	opacity: 0; 
+	font-family:Tahoma;
+	font-size: 10px;
+	background-color: #EFEFEF;
+}
+#af div.manage_links,
+#af div.manage_links1 {
+	text-align: right;
+	margin-top:8px;
+	position: relative;
+}
+#af div.manage_links a,
+#af div.manage_links1 a {
+	padding: 0 8px;
+}
+#af div#autoshow {
+	position: absolute;
+	right: -15px;
+	top: 10px;
+	color: #999 !important;
+	font-family: Tahoma;
+}
+#af #af_spinner {
+	margin: 5px 0;
+	text-align: center;
+	color: #AAA;
+	font-size: 90%;
+}
+#af .page {
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+
+/* Popup */
+div#alert_feed_popup {
+	position: relative;
+	height: 16px;
+	z-index: 11;
+	-moz-user-select:none;
+	text-align: center;
+}
+div#alert_feed_popup ul.tabs {
+	height: 16px;
+	line-height: 16px;
+	padding: 0;
+	margin: 0;
+}
+div#alert_feed_popup ul.tabs li {
+	float: none;
+	margin: 0;
+	color: #CCC;
+	font-weight: normal;
+	font-family:Verdana;
+	font-size:11px;
+}
+div#alert_feed_popup ul.tabs li a {
+	background: none;
+	border: none;
+	color: #FCFCDD;
+	padding: 0;
+	margin: 0;
+	display: inline;
+	font-weight: normal;
+}
+div#alert_feed_popup ul.tabs li img {
+	width: 16px;
+	height: 16px;
+	margin-right: 5px;
+	vertical-align: middle;
+	padding-bottom: 2px;
+}
+* html div#alert_feed_popup ul.tabs li a {float: none;}
+*+html div#alert_feed_popup ul.tabs li a {float: none;}
+
+div#alert_feed_popup #af {
+	position: absolute;
+	left: 130px;
+	padding-top: 0;
+	width: 380px;
+	-moz-box-shadow: 0 0 4px #BBB;
+	-webkit-box-shadow: 0 0 4px #BBB;
+	box-shadow: 0 0 4px #BBB;	
+}														
+div#alert_feed_popup #af .af_menu {
+	margin: 2px 5px;
+	border: 1px #FFF;
+}
+div#alert_feed_popup #af .af_menu .trigger {
+	margin-left: -10px;
+}
+div#alert_feed_popup #af div.t1 {
+	padding: 0 4px 4px 4px;
+	border: 1px solid #CCC;
+	border-top: medium none;
+	display: none;
+	margin-top:0px;
+	background-color: #EFEFEF;
+}
+div#alert_feed_popup #af * {
+	font-size: 9px;
+}
+div#alert_feed_popup #af .item {
+	width: 94%;
+	padding-bottom: 2px;
+	margin: 5px 0 0 5px;
+	line-height: 16px;
+}
+div#alert_feed_popup #af .item div.text {
+	width: 91%;
+}
+div#alert_feed_popup #af .item div.deleted {
+	color: gray; 
+	text-align:center;
+	line-height: 11px;
+}
+div#alert_feed_popup #af .af_menu .popup {
+	background-color: #FFF;
+	white-space: nowrap;
+}
+div#alert_feed_popup #af div.manage_links,
+div#alert_feed_popup #af div.manage_links1 {
+	text-align: center;
+	margin-top: 0;
+	background-color:#EFEFEF;
+	padding:6px 4px 4px 4px;
+	display:block;
+	line-height: 12px;
+}
+div#alert_feed_popup #af div.manage_links a.middle {
+	border-left: 1px solid #999;
+	border-right: 1px solid #999;
+}
+div#alert_feed_popup #af div.manage_links1 a.middle {
+	border-right: 1px solid #999;
+}
+div#alert_feed_popup #af .time {
+	white-space: normal;
+}
+div#alert_feed_popup #af .page {
+	background-color: #FFF;
+}
+div#alert_feed_popup #af .page div.not_viewed {
+	background: url("/images/alert_feed/not_viewed.png") no-repeat 335px 30%; 
+}
+/* instant */
+div#alert_feed_popup.rpl #af div.t1 {
+	background-color: #CC3333;
+	border: 1px solid #CC3333;
+	border-top: medium none;
+}
+div#alert_feed_popup.rpl #af {
+	-moz-box-shadow: 0 0 4px #CC3333;
+	-webkit-box-shadow: 0 0 4px #CC3333;
+	box-shadow: 0 0 4px #CC3333;
+}
+div#alert_feed_popup.rpl #af .page {
+	background-color: #FDF0F0; 
+}
+div#alert_feed_popup.rpl #af div.manage_links, div#alert_feed_popup.rpl #af div.manage_links1 {
+	display:none;
+}
+div#alert_feed_popup.rpl #af .af_menu {
+	border: 1px #FDF0F0;
+}
+div#alert_feed_popup.rpl #af .af_menu .popup {
+	background-color: #FDF0F0;
+}
+/* end: Popup */
+/* end: Alert Feed */
+
+/* Autocomplete */
+.ac_results {
+	padding: 0px;
+	border: 1px solid WindowFrame;
+	background-color: Window;
+	overflow: hidden;
+}
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.ac_results iframe {
+	display:none;/*sorry for IE5*/
+	display/**/:block;/*sorry for IE5*/
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:-1;
+	filter:mask();
+	width:3000px;
+	height:3000px;
+}
+.ac_results li {
+	position:relative;
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: pointer;
+	display: block;
+	width: 100%;
+	font: menu;
+	font-size: 12px;
+	overflow: hidden;
+}
+.ac_loading {
+	background : Window url('/images/spinner.gif') right center no-repeat;
+}
+.ac_over {
+	background-color: Highlight;
+	color: HighlightText;
+}										
+/* end: Autocomplete */
+
+#boxes {
+  font-family: Arial, sans-serif;
+  list-style-type: none;
+  margin: 10px;
+  padding: 4px;
+  align: center;
+}
+
+#boxes  li {
+  cursor: move;
+  position: relative;
+  float: left;
+  clear: top;
+  margin: 2px 2px 0px 0px;
+  border: 1px solid #000;
+  padding: 5px 0;
+  height: 150px;
+  width: 113px;
+}
+
+#boxes  li.selected {
+  background-color:#4AE84F;
+}
+
+#boxes li img {
+  max-height: 95;
+  max-width: 75;
+}
+
+.handle {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  border: 1px solid #aaa;
+  cursor: move;
+  height: 14px;
+  border-width: 0px 0px 1px 0px;
+  background: #666;
+  color: #eee;
+  padding: 2px 6px;
+  margin: 0px;
+}
+
+div.topFriendslabel {
+  font-size: 18px;
+  width: 776;
+  position: relative;
+  display: block;
+  clear: both;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
 .w_bold {
 	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; WORD-SPACING: 0.1em; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 25px; BACKGROUND-COLOR: #397594; TEXT-DECORATION: none
 }
@@ -1859,24 +2958,22 @@ div  { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; line-h
 	}
    </style>
 <![endif]-->
-
 <!-- TinyMCE -->
-<script type="text/javascript" src="/js/tiny_mce/tiny_mce.js"></script>
+<script type="text/javascript" src="/js/tiny_mce/tiny_mce.js?v=3"></script>
 <script type="text/javascript">
 var TinyHookElements = '';
-
-var TinyMCE_run=false;
-var TinyMCE_timer=null;
-var TinyMCE_setCursor_run=null;
+var TinyMCE_run = false;
+var TinyMCE_timer = null;
+var TinyMCE_setCursor_run = null;
 function hooktextarea(){
 	var textareas=document.getElementsByTagName('textarea');
 	xmode = (TinyHookElements != '') ? 'exact' : 'textareas';
 	
-	if (xmode == 'exact' && $(TinyHookElements+'_parent')) { TinyMCE_run=true; return false; }
+	if (xmode == 'exact' && jQ(TinyHookElements+'_parent').length) { TinyMCE_run=true; return false; }
 	
 	if(typeof(tinyMCE)!='undefined' && textareas && typeof(textareas[0])!='undefined')
 	{
-		var eh = window.onerror;
+		var eh = window.onerror;    
 		window.onerror = function(){
 			return true;
 		};
@@ -1905,7 +3002,7 @@ function hooktextarea(){
 			mode : xmode,
 			elements: TinyHookElements,
 			theme : "advanced",
-			handle_event_callback : "TinyMCEHandleEvent",
+			//handle_event_callback : "TinyMCEHandleEvent",
 			init_instance_callback : "TinyMCEInitInstance",
 			setup : function(ed) {
 				ed.onPaste.add(function(ed, e) {
@@ -1951,8 +3048,7 @@ function TinyMCEHandleEvent(e)
 	{
 		SymbolLimit(e);
 		
-		if (!tinymce.isIE)
-			return;
+		if (!tinymce.isIE) return;
 		//console.debug('Key up event: ' + e.keyCode);
 		if (e.keyCode == 32 || e.keyCode == 13)
 		{
@@ -2046,8 +3142,8 @@ function TinyMCEHandleEvent(e)
 }
 
 function TinyMCE_setCursor(){
-			if($('subject'))
-			try{$('subject').focus()}catch(e){}
+			if(jQ('#subject'))
+			try{jQ('#subject').focus()}catch(e){}
 		else
 				if(TinyMCE_run && tinyMCE.selectedInstance)
 			tinyMCE.selectedInstance.getWin().focus();
@@ -2058,1272 +3154,6 @@ function TinyMCE_setCursor(){
 //window.onload=function(){TinyMCE_timer=null;TinyMCE_setCursor()}
 </script>
 <!-- /TinyMCE -->
-<script type="text/javascript" language="JavaScript">
-/**
- * JsHttpRequest: JavaScript "AJAX" data loader
- * Minimized version: see debug directory for the complete one.
- *
- * @license LGPL
- * @author Dmitry Koterov, http://en.dklab.ru/lib/JsHttpRequest/
- * @version 5.x $Id$
- */
-function JsHttpRequest(){
-var t=this;
-t.onreadystatechange=null;
-t.readyState=0;
-t.responseText=null;
-t.responseXML=null;
-t.status=200;
-t.statusText="OK";
-t.responseJS=null;
-t.caching=false;
-t.loader=null;
-t.session_name="PHPSESSID";
-t._ldObj=null;
-t._reqHeaders=[];
-t._openArgs=null;
-t._errors={inv_form_el:"Invalid FORM element detected: name=%, tag=%",must_be_single_el:"If used, <form> must be a single HTML element in the list.",js_invalid:"JavaScript code generated by backend is invalid!\n%",url_too_long:"Cannot use so long query with GET request (URL is larger than % bytes)",unk_loader:"Unknown loader: %",no_loaders:"No loaders registered at all, please check JsHttpRequest.LOADERS array",no_loader_matched:"Cannot find a loader which may process the request. Notices are:\n%"};
-t.abort=function(){
-with(this){
-if(_ldObj&&_ldObj.abort){
-_ldObj.abort();
-}
-_cleanup();
-if(readyState==0){
-return;
-}
-if(readyState==1&&!_ldObj){
-readyState=0;
-return;
-}
-_changeReadyState(4,true);
-}
-};
-t.open=function(_2,_3,_4,_5,_6){
-with(this){
-if(_3.match(/^((\w+)\.)?(GET|POST)\s+(.*)/i)){
-this.loader=RegExp.$2?RegExp.$2:null;
-_2=RegExp.$3;
-_3=RegExp.$4;
-}
-try{
-if(document.location.search.match(new RegExp("[&?]"+session_name+"=([^&?]*)"))||document.cookie.match(new RegExp("(?:;|^)\\s*"+session_name+"=([^;]*)"))){
-_3+=(_3.indexOf("?")>=0?"&":"?")+session_name+"="+this.escape(RegExp.$1);
-}
-}
-catch(e){
-}
-_openArgs={method:(_2||"").toUpperCase(),url:_3,asyncFlag:_4,username:_5!=null?_5:"",password:_6!=null?_6:""};
-_ldObj=null;
-_changeReadyState(1,true);
-return true;
-}
-};
-t.send=function(_7){
-if(!this.readyState){
-return;
-}
-this._changeReadyState(1,true);
-this._ldObj=null;
-var _8=[];
-var _9=[];
-if(!this._hash2query(_7,null,_8,_9)){
-return;
-}
-var _a=null;
-if(this.caching&&!_9.length){
-_a=this._openArgs.username+":"+this._openArgs.password+"@"+this._openArgs.url+"|"+_8+"#"+this._openArgs.method;
-var _b=JsHttpRequest.CACHE[_a];
-if(_b){
-this._dataReady(_b[0],_b[1]);
-return false;
-}
-}
-var _c=(this.loader||"").toLowerCase();
-if(_c&&!JsHttpRequest.LOADERS[_c]){
-return this._error("unk_loader",_c);
-}
-var _d=[];
-var _e=JsHttpRequest.LOADERS;
-for(var _f in _e){
-var ldr=_e[_f].loader;
-if(!ldr){
-continue;
-}
-if(_c&&_f!=_c){
-continue;
-}
-var _11=new ldr(this);
-JsHttpRequest.extend(_11,this._openArgs);
-JsHttpRequest.extend(_11,{queryText:_8.join("&"),queryElem:_9,id:(new Date().getTime())+""+JsHttpRequest.COUNT++,hash:_a,span:null});
-var _12=_11.load();
-if(!_12){
-this._ldObj=_11;
-JsHttpRequest.PENDING[_11.id]=this;
-return true;
-}
-if(!_c){
-_d[_d.length]="- "+_f.toUpperCase()+": "+this._l(_12);
-}else{
-return this._error(_12);
-}
-}
-return _f?this._error("no_loader_matched",_d.join("\n")):this._error("no_loaders");
-};
-t.getAllResponseHeaders=function(){
-with(this){
-return _ldObj&&_ldObj.getAllResponseHeaders?_ldObj.getAllResponseHeaders():[];
-}
-};
-t.getResponseHeader=function(_13){
-with(this){
-return _ldObj&&_ldObj.getResponseHeader?_ldObj.getResponseHeader(_13):null;
-}
-};
-t.setRequestHeader=function(_14,_15){
-with(this){
-_reqHeaders[_reqHeaders.length]=[_14,_15];
-}
-};
-t._dataReady=function(_16,js){
-with(this){
-if(caching&&_ldObj){
-JsHttpRequest.CACHE[_ldObj.hash]=[_16,js];
-}
-responseText=responseXML=_16;
-responseJS=js;
-if(js!==null){
-status=200;
-statusText="OK";
-}else{
-status=500;
-statusText="Internal Server Error";
-}
-_changeReadyState(2);
-_changeReadyState(3);
-_changeReadyState(4);
-_cleanup();
-}
-};
-t._l=function(_18){
-var i=0,p=0,msg=this._errors[_18[0]];
-while((p=msg.indexOf("%",p))>=0){
-var a=_18[++i]+"";
-msg=msg.substring(0,p)+a+msg.substring(p+1,msg.length);
-p+=1+a.length;
-}
-return msg;
-};
-t._error=function(msg){
-msg=this._l(typeof (msg)=="string"?arguments:msg);
-msg="JsHttpRequest: "+msg;
-if(!window.Error){
-throw msg;
-}else{
-if((new Error(1,"test")).description=="test"){
-throw new Error(1,msg);
-}else{
-throw new Error(msg);
-}
-}
-};
-t._hash2query=function(_1e,_1f,_20,_21){
-if(_1f==null){
-_1f="";
-}
-if((""+typeof (_1e)).toLowerCase()=="object"){
-var _22=false;
-if(_1e&&_1e.parentNode&&_1e.parentNode.appendChild&&_1e.tagName&&_1e.tagName.toUpperCase()=="FORM"){
-_1e={form:_1e};
-}
-for(var k in _1e){
-var v=_1e[k];
-if(v instanceof Function){
-continue;
-}
-var _25=_1f?_1f+"["+this.escape(k)+"]":this.escape(k);
-var _26=v&&v.parentNode&&v.parentNode.appendChild&&v.tagName;
-if(_26){
-var tn=v.tagName.toUpperCase();
-if(tn=="FORM"){
-_22=true;
-}else{
-if(tn=="INPUT"||tn=="TEXTAREA"||tn=="SELECT"){
-}else{
-return this._error("inv_form_el",(v.name||""),v.tagName);
-}
-}
-_21[_21.length]={name:_25,e:v};
-}else{
-if(v instanceof Object){
-this._hash2query(v,_25,_20,_21);
-}else{
-if(v===null){
-continue;
-}
-if(v===true){
-v=1;
-}
-if(v===false){
-v="";
-}
-_20[_20.length]=_25+"="+this.escape(""+v);
-}
-}
-if(_22&&_21.length>1){
-return this._error("must_be_single_el");
-}
-}
-}else{
-_20[_20.length]=_1e;
-}
-return true;
-};
-t._cleanup=function(){
-var _28=this._ldObj;
-if(!_28){
-return;
-}
-JsHttpRequest.PENDING[_28.id]=false;
-var _29=_28.span;
-if(!_29){
-return;
-}
-_28.span=null;
-var _2a=function(){
-_29.parentNode.removeChild(_29);
-};
-JsHttpRequest.setTimeout(_2a,50);
-};
-t._changeReadyState=function(s,_2c){
-with(this){
-if(_2c){
-status=statusText=responseJS=null;
-responseText="";
-}
-readyState=s;
-if(onreadystatechange){
-onreadystatechange();
-}
-}
-};
-t.escape=function(s){
-return escape(s).replace(new RegExp("\\+","g"),"%2B");
-};
-}
-JsHttpRequest.COUNT=0;
-JsHttpRequest.MAX_URL_LEN=2000;
-JsHttpRequest.CACHE={};
-JsHttpRequest.PENDING={};
-JsHttpRequest.LOADERS={};
-JsHttpRequest._dummy=function(){
-};
-JsHttpRequest.TIMEOUTS={s:window.setTimeout,c:window.clearTimeout};
-JsHttpRequest.setTimeout=function(_2e,dt){
-window.JsHttpRequest_tmp=JsHttpRequest.TIMEOUTS.s;
-if(typeof (_2e)=="string"){
-id=window.JsHttpRequest_tmp(_2e,dt);
-}else{
-var id=null;
-var _31=function(){
-_2e();
-delete JsHttpRequest.TIMEOUTS[id];
-};
-id=window.JsHttpRequest_tmp(_31,dt);
-JsHttpRequest.TIMEOUTS[id]=_31;
-}
-window.JsHttpRequest_tmp=null;
-return id;
-};
-JsHttpRequest.clearTimeout=function(id){
-window.JsHttpRequest_tmp=JsHttpRequest.TIMEOUTS.c;
-delete JsHttpRequest.TIMEOUTS[id];
-var r=window.JsHttpRequest_tmp(id);
-window.JsHttpRequest_tmp=null;
-return r;
-};
-JsHttpRequest.query=function(url,_35,_36,_37){
-var req=new this();
-req.caching=!_37;
-req.onreadystatechange=function(){
-if(req.readyState==4){
-_36(req.responseJS,req.responseText);
-}
-};
-req.open(null,url,true);
-req.send(_35);
-};
-JsHttpRequest.dataReady=function(d){
-var th=this.PENDING[d.id];
-delete this.PENDING[d.id];
-if(th){
-th._dataReady(d.text,d.js);
-}else{
-if(th!==false){
-throw "dataReady(): unknown pending id: "+d.id;
-}
-}
-};
-JsHttpRequest.extend=function(_3b,src){
-for(var k in src){
-_3b[k]=src[k];
-}
-};
-JsHttpRequest.LOADERS.xml={loader:function(req){
-JsHttpRequest.extend(req._errors,{xml_no:"Cannot use XMLHttpRequest or ActiveX loader: not supported",xml_no_diffdom:"Cannot use XMLHttpRequest to load data from different domain %",xml_no_headers:"Cannot use XMLHttpRequest loader or ActiveX loader, POST method: headers setting is not supported, needed to work with encodings correctly",xml_no_form_upl:"Cannot use XMLHttpRequest loader: direct form elements using and uploading are not implemented"});
-this.load=function(){
-if(this.queryElem.length){
-return ["xml_no_form_upl"];
-}
-if(this.url.match(new RegExp("^([a-z]+://[^\\/]+)(.*)","i"))){
-if(RegExp.$1.toLowerCase()!=document.location.protocol+"//"+document.location.hostname.toLowerCase()){
-return ["xml_no_diffdom",RegExp.$1];
-}
-}
-var xr=null;
-if(window.XMLHttpRequest){
-try{
-xr=new XMLHttpRequest();
-}
-catch(e){
-}
-}else{
-if(window.ActiveXObject){
-try{
-xr=new ActiveXObject("Microsoft.XMLHTTP");
-}
-catch(e){
-}
-if(!xr){
-try{
-xr=new ActiveXObject("Msxml2.XMLHTTP");
-}
-catch(e){
-}
-}
-}
-}
-if(!xr){
-return ["xml_no"];
-}
-var _40=window.ActiveXObject||xr.setRequestHeader;
-if(!this.method){
-this.method=_40&&this.queryText.length?"POST":"GET";
-}
-if(this.method=="GET"){
-if(this.queryText){
-this.url+=(this.url.indexOf("?")>=0?"&":"?")+this.queryText;
-}
-this.queryText="";
-if(this.url.length>JsHttpRequest.MAX_URL_LEN){
-return ["url_too_long",JsHttpRequest.MAX_URL_LEN];
-}
-}else{
-if(this.method=="POST"&&!_40){
-return ["xml_no_headers"];
-}
-}
-this.url+=(this.url.indexOf("?")>=0?"&":"?")+"JsHttpRequest="+(req.caching?"0":this.id)+"-xml";
-var id=this.id;
-xr.onreadystatechange=function(){
-if(xr.readyState!=4){
-return;
-}
-xr.onreadystatechange=JsHttpRequest._dummy;
-req.status=null;
-try{
-req.status=xr.status;
-req.responseText=xr.responseText;
-}
-catch(e){
-}
-if(!req.status){
-return;
-}
-try{
-eval("JsHttpRequest._tmp = function(id) { var d = "+req.responseText+"; d.id = id; JsHttpRequest.dataReady(d); }");
-}
-catch(e){
-return req._error("js_invalid",req.responseText);
-}
-JsHttpRequest._tmp(id);
-JsHttpRequest._tmp=null;
-};
-xr.open(this.method,this.url,true,this.username,this.password);
-if(_40){
-for(var i=0;i<req._reqHeaders.length;i++){
-xr.setRequestHeader(req._reqHeaders[i][0],req._reqHeaders[i][1]);
-}
-xr.setRequestHeader("Content-Type","application/octet-stream");
-}
-xr.send(this.queryText);
-this.span=null;
-this.xr=xr;
-return null;
-};
-this.getAllResponseHeaders=function(){
-return this.xr.getAllResponseHeaders();
-};
-this.getResponseHeader=function(_43){
-return this.xr.getResponseHeader(_43);
-};
-this.abort=function(){
-this.xr.abort();
-this.xr=null;
-};
-}};
-JsHttpRequest.LOADERS.script={loader:function(req){
-JsHttpRequest.extend(req._errors,{script_only_get:"Cannot use SCRIPT loader: it supports only GET method",script_no_form:"Cannot use SCRIPT loader: direct form elements using and uploading are not implemented"});
-this.load=function(){
-if(this.queryText){
-this.url+=(this.url.indexOf("?")>=0?"&":"?")+this.queryText;
-}
-this.url+=(this.url.indexOf("?")>=0?"&":"?")+"JsHttpRequest="+this.id+"-"+"script";
-this.queryText="";
-if(!this.method){
-this.method="GET";
-}
-if(this.method!=="GET"){
-return ["script_only_get"];
-}
-if(this.queryElem.length){
-return ["script_no_form"];
-}
-if(this.url.length>JsHttpRequest.MAX_URL_LEN){
-return ["url_too_long",JsHttpRequest.MAX_URL_LEN];
-}
-var th=this,d=document,s=null,b=d.body;
-if(!window.opera){
-this.span=s=d.createElement("SCRIPT");
-var _49=function(){
-s.language="JavaScript";
-if(s.setAttribute){
-s.setAttribute("src",th.url);
-}else{
-s.src=th.url;
-}
-b.insertBefore(s,b.lastChild);
-};
-}else{
-this.span=s=d.createElement("SPAN");
-s.style.display="none";
-b.insertBefore(s,b.lastChild);
-s.innerHTML="Workaround for IE.<s"+"cript></"+"script>";
-var _49=function(){
-s=s.getElementsByTagName("SCRIPT")[0];
-s.language="JavaScript";
-if(s.setAttribute){
-s.setAttribute("src",th.url);
-}else{
-s.src=th.url;
-}
-};
-}
-JsHttpRequest.setTimeout(_49,10);
-return null;
-};
-}};
-JsHttpRequest.LOADERS.form={loader:function(req){
-JsHttpRequest.extend(req._errors,{form_el_not_belong:"Element \"%\" does not belong to any form!",form_el_belong_diff:"Element \"%\" belongs to a different form. All elements must belong to the same form!",form_el_inv_enctype:"Attribute \"enctype\" of the form must be \"%\" (for IE), \"%\" given."});
-this.load=function(){
-var th=this;
-if(!th.method){
-th.method="POST";
-}
-th.url+=(th.url.indexOf("?")>=0?"&":"?")+"JsHttpRequest="+th.id+"-"+"form";
-if(th.method=="GET"){
-if(th.queryText){
-th.url+=(th.url.indexOf("?")>=0?"&":"?")+th.queryText;
-}
-if(th.url.length>JsHttpRequest.MAX_URL_LEN){
-return ["url_too_long",JsHttpRequest.MAX_URL_LEN];
-}
-var p=th.url.split("?",2);
-th.url=p[0];
-th.queryText=p[1]||"";
-}
-var _4d=null;
-var _4e=false;
-if(th.queryElem.length){
-if(th.queryElem[0].e.tagName.toUpperCase()=="FORM"){
-_4d=th.queryElem[0].e;
-_4e=true;
-th.queryElem=[];
-}else{
-_4d=th.queryElem[0].e.form;
-for(var i=0;i<th.queryElem.length;i++){
-var e=th.queryElem[i].e;
-if(!e.form){
-return ["form_el_not_belong",e.name];
-}
-if(e.form!=_4d){
-return ["form_el_belong_diff",e.name];
-}
-}
-}
-if(th.method=="POST"){
-var _51="multipart/form-data";
-var _52=(_4d.attributes.encType&&_4d.attributes.encType.nodeValue)||(_4d.attributes.enctype&&_4d.attributes.enctype.value)||_4d.enctype;
-if(_52!=_51){
-return ["form_el_inv_enctype",_51,_52];
-}
-}
-}
-var d=_4d&&(_4d.ownerDocument||_4d.document)||document;
-var _54="jshr_i_"+th.id;
-var s=th.span=d.createElement("DIV");
-s.style.position="absolute";
-s.style.display="none";
-s.style.visibility="hidden";
-s.innerHTML=(_4d?"":"<form"+(th.method=="POST"?" enctype=\"multipart/form-data\" method=\"post\"":"")+"></form>")+"<iframe name=\""+_54+"\" id=\""+_54+"\" style=\"width:0px; height:0px; overflow:hidden; border:none\"></iframe>";
-if(!_4d){
-_4d=th.span.firstChild;
-}
-d.body.insertBefore(s,d.body.lastChild);
-var _56=function(e,_58){
-var sv=[];
-var _5a=e;
-if(e.mergeAttributes){
-var _5a=d.createElement("form");
-_5a.mergeAttributes(e,false);
-}
-for(var i=0;i<_58.length;i++){
-var k=_58[i][0],v=_58[i][1];
-sv[sv.length]=[k,_5a.getAttribute(k)];
-_5a.setAttribute(k,v);
-}
-if(e.mergeAttributes){
-e.mergeAttributes(_5a,false);
-}
-return sv;
-};
-var _5e=function(){
-top.JsHttpRequestGlobal=JsHttpRequest;
-var _5f=[];
-if(!_4e){
-for(var i=0,n=_4d.elements.length;i<n;i++){
-_5f[i]=_4d.elements[i].name;
-_4d.elements[i].name="";
-}
-}
-var qt=th.queryText.split("&");
-for(var i=qt.length-1;i>=0;i--){
-var _63=qt[i].split("=",2);
-var e=d.createElement("INPUT");
-e.type="hidden";
-e.name=unescape(_63[0]);
-e.value=_63[1]!=null?unescape(_63[1]):"";
-_4d.appendChild(e);
-}
-for(var i=0;i<th.queryElem.length;i++){
-th.queryElem[i].e.name=th.queryElem[i].name;
-}
-var sv=_56(_4d,[["action",th.url],["method",th.method],["onsubmit",null],["target",_54]]);
-_4d.submit();
-_56(_4d,sv);
-for(var i=0;i<qt.length;i++){
-_4d.lastChild.parentNode.removeChild(_4d.lastChild);
-}
-if(!_4e){
-for(var i=0,n=_4d.elements.length;i<n;i++){
-_4d.elements[i].name=_5f[i];
-}
-}
-};
-JsHttpRequest.setTimeout(_5e,100);
-return null;
-};
-}};
-
-var frameBusted = (top != self);
-if (frameBusted) top.location.href = self.location.href;
-
-var not_saved = { 'ta': false, 'cmd_ta': false, 'text': 'Are you sure you want to cancel this?' };
-
-if(typeof(OA_show) == 'undefined')
-	OA_show = function(){};
-
-var photo_desc_val=null;
-if (typeof(gMediaType) == 'undefined')
-	var gMediaType = 2;
-
-function CMD(action, step, arr, f_id)
-{
-	if (typeof(cmd_timeout) != 'undefined') 
-		clearTimeout(cmd_timeout); 
-	var cmd_timeout = null;
-	
-	if (typeof(step) == 'undefined') var step = 'start';
-	if (typeof(arr) == 'undefined') var arr = {a:0};
-	if (typeof(f_id) == 'undefined') var f_id = null;
-	if (step == 'end')
-	{
-		if (not_saved.cmd_ta)
-		{
-			if (!confirm(not_saved.text)) return false;
-			else not_saved.cmd_ta = false;
-		}
-		
-		jQ('#cmdiv,#cmd_overlay').animate({opacity: 0},'slow', function(){jQ(this).remove()}); 
-		if (jQ.browser.msie)
-			jQ('body').css({overflow:'auto'});
-		
-		return false;
-	}
-	else if (step == 'do') not_saved.cmd_ta = false;
-	
-	var cmdiv_form = ($('cmdiv_form')) ? $('cmdiv_form') : (($(f_id)) ? $(f_id) : null);
-	
-	var req = new JsHttpRequest();
-	req.onreadystatechange = function()
-	{
-		if (req.readyState != 4) return false;
-		
-		if (step == 'do' && req.responseJS.result && arr.func)
-			eval(arr.func);
-
-		if (!req.responseJS.alert) return false;
-		
-		if (req.responseJS.alert && req.responseJS.result)
-			not_saved.cmd_ta = false;
-		
-		jQ('body').append('<div id="cmdiv"></div><div id="cmd_overlay"></div>');
-		jQ('#cmdiv').css({opacity: 1});
-		jQ('#cmd_overlay').css({opacity: 0.65});
-		if (jQ.browser.msie)
-			jQ('body').css({overflow:'hidden'});
-		jQ('#cmd_overlay').css({width: jQ(document).width(), height:jQ(document).height()});
-		
-		//if (!$('cmdiv_p_a_message') || (req.responseJS.result && req.responseText))
-		if (req.responseText)
-			jQ('#cmdiv').html(req.responseText).show();
-		if (req.responseJS.p_a_message && $('cmdiv_p_a_message'))
-			jQ('#cmdiv_p_a_message').html(req.responseJS.p_a_message);
-		//if (req.responseJS.alert && req.responseJS.result)
-		if (req.responseJS.alert)
-			BubbleTip('#cmdiv');
-		//if (req.responseJS.result && req.responseJS.tinymce)
-		if (req.responseJS.tinymce)
-		{
-			TinyHookElements = req.responseJS.tinymce;
-			hooktextarea();
-		}
-
-		jQ('div#cmdiv textarea').bind('change', function(e){
-			not_saved.cmd_ta = true;
-		});
-
-		if (req.responseJS.result && req.responseJS.auto_hide)
-			cmd_timeout = setTimeout("CMD('"+action+"','end')", 900);
-	}
-	
-	req.open(null, '/ajax_scripts/cmd.php', true);
-	req.send( { 'action': action, 'step': step, 'arr': arr, frm: cmdiv_form } );
-}
-	
-function EditCaption(photo_id, photo_type)
-{
-	if (typeof(photo_type) == 'undefined')
-		var photo_type = 1;
-	
-	if(photo_id==null)
-	{
-		photo_id = gPhotoId;
-		var photo_desc = $('photo_desc'+photo_id);
-	}
-	else
-		var photo_desc = $('photo_desc');
-	if(photo_desc_val==null)
-		photo_desc_val = photo_desc.innerHTML;
-
-	photo_desc.innerHTML = "<input type='text' value='"+photo_desc_val+"' onBlur='SaveCaption("+photo_id+","+photo_type+","+gMediaType+")' onKeyDown='if(event.keyCode==13) SaveCaption("+photo_id+","+photo_type+","+gMediaType+")'>";
-	photo_desc.firstChild.select()
-	photo_desc.firstChild.focus()
-	return false;
-}
-
-function SymbolLimit(ta)
-{
-	var limit = 255;
-	var str = ta.value;
-	if (str.length >= limit)
-		ta.value = str.substring(0, limit);
-}
-
-function SaveCaption(photo_id, photo_type, media_type)
-{
-	if(typeof(gPhotoId)!='undefined')
-		var photo_desc = $('photo_desc'+photo_id);
-	else
-		var photo_desc = $('photo_desc');
-	photo_desc.firstChild.onblur=null;
-	photo_desc.firstChild.disabled=true;
-	var val=photo_desc.firstChild.value;
-	photo_desc_val=val.escapeHTML();
-	var myAjax = new Ajax.Request('/ajax.php',{
-		method: 'post',
-		parameters: 'action=SaveCaption&photo_id='+encodeURIComponent(photo_id)+'&photo_type='+encodeURIComponent(photo_type)+'&caption='+encodeURIComponent(val)+'&media_type='+encodeURIComponent(media_type),
-		onComplete: function(res){
-			if(res.responseText=='1')
-			{
-				if(typeof(gPhotoId)!='undefined')
-					$('photo_desc'+photo_id).update(photo_desc_val);
-				else
-					$('photo_desc').update(photo_desc_val);
-				photo_desc_val=null;
-			}
-			else
-				alert(res.responseText);
-		}
-	});
-}
-
-
-//
-var swiffy=null;
-function switch_to_normal_upload(){
-	alert('Plurlife was unable to initialize our multi-file uploader on your computer.  If you are using Firefox and you have the AdBlocks add on installed, please disable and try again.  Please contact us if you need help');
-	$('demo-status').addClass('hide');
-	$('demo-fallback').removeClass('hide');
-}
-function start_upload_multiple_files(){
-	window.addEvent('load', function() {
-
-		// For testing, showing the user the current Flash version.
-		var upload_result = true;
-		var swiffy = new FancyUpload2($('demo-status'), $('demo-list'), {
-			limitFiles: false,
-			limitSize: 100 * 1024 * 1024,
-			fieldName: 'photoupload',
-			typeFilter: {'All Supported File Types (*.jpg;*.jpeg;*.png;*.tif;*.gif;*.avi;*.mpg;*.mpe;*.mpeg;*.mp4;*.3gp;*.mov;*.wmv;*.flv;*.asf;*.asx)':'*.jpg;*.jpeg;*.png;*.tif;*.gif;*.avi;*.mpg;*.mpe;*.mpeg;*.mp4;*.3gp;*.mov;*.wmv;*.flv;*.asf;*.asx'},
-			path: '/js/Swiff.Uploader.swf',
-			fileComplete: function(file, response) {
-				this.options.processResponse || this;
-				var json = new Hash(JSON.decode(response, true) || {});
-				if (json.get('result') == 'success') {
-					file.element.addClass('file-success');
-					file.info.set('html', json.get('size'));
-				} else {
-					file.element.addClass('file-failed');
-					file.info.set('html', json.get('error') || response);
-					upload_result = false;
-				}
-			},
-			onAllComplete: function(current){
-				if (upload_result)
-					window.location = ($('group_id')!=null)
-						? 'edit_group_photos_captions.php?group_id='+$('group_id').value
-						: 'edit_album_captions.php?album_id='+$('alb').value;
-			},
-			// The changed parts!
-			debug: true, // enable logs, uses console.log
-			target: 'demo-browse' // the element for the overlay (Flash 10 only)
-		});
-		/**
-		 * Various interactions
-		 */
-		swiffy.options.typeFilter = {'All Supported File Types (*.jpg;*.jpeg;*.png;*.tif;*.gif;*.avi;*.mpg;*.mpe;*.mpeg;*.mp4;*.3gp;*.mov;*.wmv;*.flv;*.asf;*.asx)':'*.jpg;*.jpeg;*.png;*.tif;*.gif;*.avi;*.mpg;*.mpe;*.mpeg;*.mp4;*.3gp;*.mov;*.wmv;*.flv;*.asf;*.asx'};
-
-		$('demo-browse').addEvent('click', function() {
-			/**
-			 * Doesn't work anymore with Flash 10: swiffy.browse();
-			 * FancyUpload moves the Flash movie as overlay over the link.
-			 * (see opeion "target" above)
-			 */
-			try{
-				swiffy.browse();
-			}
-			catch(err)
-			{
-				switch_to_normal_upload();
-			}
-			return false;
-		});
-
-		$('demo-clear').addEvent('click', function() {
-			try{
-				swiffy.removeFile();
-			}
-			catch(err)
-			{
-				switch_to_normal_upload();
-			}
-			return false;
-		});
-
-		$('demo-upload').addEvent('click', function() {
-			try{
-				swiffy.options.url = ( $('group_id')!=null )
-					? $('form-demo').action
-					: $('form-demo').action+'&alb='+$('alb').value;
-				swiffy.upload();
-			}
-			catch(err)
-			{
-				switch_to_normal_upload();
-			}
-			return false;
-		});
-	});
-}
-
-//others
-var isMac = /Macintosh|Mac|Apples/i.test(navigator.userAgent);
-var isSafari = /Konqueror|Safari|KHTML/i.test(navigator.userAgent) && isMac;
-//isSafari = false;
-var formaction=null;
-
-function add_alb(id){
-	if(swiffy==null)
-		setTimeout('add_alb('+id+')',1000);
-	else
-		swiffy.options.url=formaction+'&alb='+id;
-}
-
-function selalbadd(id,start){
-	//new album
-	if(id=='new'){
-		/*
-		//if ie(7)
-		if(Browser.Engine.trident)
-			res=window.showModalDialog('/html/prompt.html', 'Create New Album', 'dialogWidth: 290px; dialogHeight: 160px; center: yes; edge: raised; scroll: no; status: no;')
-		else
-			res=prompt('Create New Album','')
-		*/
-		try{
-			if(window.showModalDialog)
-				res=window.showModalDialog('/html/prompt.html', 'Create New Album', 'dialogWidth: 350px; dialogHeight: 120px; center: yes; edge: raised; scroll: no; status: no;')
-			else
-				res=prompt('Create New Album','')
-		}catch(e){
-			res=false;
-		}
-
-		if(res==null || res==''){
-			$('alb').selectedIndex=cnt_alb;
-		}else{
-			var group_id = $('group_id')!=null?'&group_id='+$('group_id').value:'';
-			//mootools ajax
-			var myRequest = new Request({
-				method: 'post', url: '/ajax.php',
-				onComplete: function(rest){
-					if(parseInt(rest)>0){
-						var oOption = document.createElement("option");
-						oOption.appendChild(document.createTextNode(res));
-						oOption.setAttribute("value", parseInt(rest));
-						oOption.selected = true;
-						$('alb').appendChild(oOption);
-						selalbadd(parseInt(rest));
-					}else
-						alert(rest.responseText);
-				}
-			}).send('action=CreateNewAlbum&caption='+encodeURIComponent(res)+group_id );
-		}
-		return false;
-	}
-
-	if(formaction==null && (formaction=$('form-demo'))) formaction.action;
-	//if(!isSafari){
-		if(typeof(start)=='undefined')
-			add_alb(id);
-		else
-			window.addEvent('load', add_alb(id));
-	//}else $('form-demo').action=formaction+'&alb='+id;
-	cnt_alb=$('alb').selectedIndex;
-}
-
-function SelectAll(check){
-	check.checkedme = check.checkedme?false:true;
-	for(i=0;i<document.wheretocheckall.length;i++){
-			if(document.wheretocheckall[i].type=='checkbox' /*&& document.wheretocheckall[i].name!=check.name*/){
-					document.wheretocheckall[i].checked=check.checkedme;
-			}
-	}
-}
-
-function PreviewPost(idin, idout){
-	var txt=$F(idout);
-
-	if(typeof(tinyMCE)!='undefined' && TinyMCE_run && txt=='')
-		txt=tinyMCE.get(idout).getContent();
-
-	new Ajax.Updater(idin, '/ajax_scripts/previewpost.php',
-		{
-			asynchronous: true,
-			parameters: { text: txt }
-		}
-	);
-}
-
-function PreviewPostBulletin(idin, idout, idsubject){
-	var txt=$F(idout);
-
-	if(typeof(tinyMCE)!='undefined' && TinyMCE_run && txt=='')
-		txt=tinyMCE.get(idout).getContent();
-
-	new Ajax.Updater(idin, '/ajax_scripts/previewpostbulletin.php',
-		{
-			asynchronous: true,
-			parameters: { text: txt, subject: $F(idsubject) }
-		}
-	);
-}
-
-function PreviewPostBlog(idin, idout, idsubject){
-	var txt=$F(idout);
-	
-	if(typeof(tinyMCE)!='undefined' && TinyMCE_run && txt=='')
-		txt=tinyMCE.get(idout).getContent();
-
-	new Ajax.Updater(idin, '/ajax_scripts/previewpostblog.php',
-		{
-			asynchronous: true,
-			parameters: { text: txt, subject: $F(idsubject) }
-		}
-	);
-}
-
-// menu gallery photo
-function MovePhotoToAlbum(){
-	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined')
-		window.location='/move_album_photo.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
-}
-function RotatePhoto(){
-	if(typeof(gPhotoId)!='undefined')
-		window.open('/imagecrop/?photo_id='+gPhotoId, 'RotatePhoto', "width=640,height=700,resizable=1");
-}
-function DeletePhoto(){
-	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined' && confirm('Are you sure?'))
-		window.location='/delete_album_photo1.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
-}
-function SetPhotoDefault(){
-	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined' && confirm('Are you sure?'))
-		window.location='/make_main.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
-}
-function SetAlbumCover(){
-	if(typeof(gPhotoId)!='undefined' && typeof(gAlbumId)!='undefined' && confirm('Are you sure?'))
-		window.location='/make_cover.php?photo_id='+gPhotoId+'&album_id='+gAlbumId;
-}
-
-
-//menu group photo
-function CopyGroupPhotoToAlbum(){
-	if(typeof(gPhotoId)!='undefined' && typeof(gGroupId)!='undefined')
-		window.location='/copy_group_photo.php?photo_id='+gPhotoId+'&group_id='+gGroupId;
-}
-function RotateGroupPhoto(){
-	if(typeof(gPhotoId)!='undefined')
-		window.open('/imagecrop/group_index.php?photo_id='+gPhotoId, 'RotatePhoto', "width=640,height=700,resizable=1");
-}
-function DeleteGroupPhoto(){
-	if(typeof(gPhotoId)!='undefined' && typeof(gGroupId)!='undefined' && confirm('Are you sure?'))
-		window.location='/delete_group_photo1.php?photo_id='+gPhotoId+'&group_id='+gGroupId;
-}
-function SetGroupCover(){
-	if(typeof(gPhotoId)!='undefined' && typeof(gGroupId)!='undefined' && confirm('Are you sure?'))
-		window.location='/make_group_cover.php?photo_id='+gPhotoId;
-}
-
-
-// set description to friend
-function SaveDescriptionFriend(fid){
-	var a=$('dfriend'+fid);
-	var des=a.title;
-	window.open('/html/promptdes.php?des='+encodeURIComponent(des)+'&fid='+encodeURIComponent(fid),
-		"promptdes","width=275,height=215");//, toolbar=no, location=no, directories=no, status=no, menubar=no");
-}
-
-// AddDescriptionTxt(this)
-function AddDescriptionTxt(fid){
-	$('dfriend'+fid).update('<textarea onblur="SaveDescriptionTxt('+fid+');"></textarea>');
-}
-function SaveDescriptionTxt(fid){
-	text=$('dfriend'+fid).firstChild.value;
-	var myAjax = new Ajax.Request('/ajax.php',{
-		method: 'post',
-		parameters: 'action=SaveDescriptionFriend&friend_id='+encodeURIComponent(fid)+'&description='+encodeURIComponent(text),
-		onComplete: function(res){
-			if(res.responseText=='1'){
-				;//allok
-			}else
-				alert(res.responseText);
-		}
-	});
-}
-function showpublic(t){
-	var flag = t.checked;
-	var tmp=/public\[(\d+)\]/.exec(t.name);
-	var num=tmp[1];
-//	$('descriptions['+num+']').disabled=!flag;
-	$('video_cat['+num+']').disabled=!flag;
-
-	if(flag){
-//		$('descriptions'+num+'').setStyle({'color':'#356BA2'});
-		$('video_cat'+num+'').setStyle({'color':'#356BA2'});
-	}else{
-//		$('descriptions'+num+'').setStyle({'color':'#778899'});
-		$('video_cat'+num+'').setStyle({'color':'#778899'});
-	}
-}
-
-/* cookies */
-function getCookie( name ) {
-	var start = document.cookie.indexOf( name + '=' );
-	var len = start + name.length + 1;
-	if ( ( !start ) && ( name != document.cookie.
-substring( 0, name.length ) ) ) {
-		return null;
-	}
-	if ( start == -1 ) return null;
-	var end = document.cookie.indexOf( ';', len );
-	if ( end == -1 ) end = document.cookie.length;
-	return unescape( document.cookie.substring( len, end ) );
-}
-
-function setCookie( name, value, expires, path, domain, secure ) {
-	var today = new Date();
-	today.setTime( today.getTime() );
-	if ( expires ) {
-		expires = expires * 1000 * 60 * 60 * 24;
-	}
-	var expires_date = new Date( today.getTime() + (expires) );
-	document.cookie = name+'='+escape( value ) +
-		( ( expires ) ? ';expires='
-+expires_date.toGMTString() : '' ) +
-//expires.toGMTString()
-		( ( path ) ? ';path=' + path : '' ) +
-		( ( domain ) ? ';domain=' + domain : '' ) +
-		( ( secure ) ? ';secure' : '' );
-}
-
-function deleteCookie( name, path, domain ) {
-	if ( getCookie( name ) ) document.cookie = name + '=' +
-			( ( path ) ? ';path=' + path : '') +
-			( ( domain ) ? ';domain=' + domain : '' ) +
-			';expires=Thu, 01-Jan-1970 00:00:01 GMT';
-}
-
-function ping(){
-	new Ajax.Request('/ajax_scripts/ping.php',{method:'post'});
-}
-
-function StatusSwitch() {
-	var now = new Date();
-	var hours = now.getHours();
-	var min = now.getMinutes().toString();
-	if (min.length == 1) min = '0' + min;
-	var time_now = (hours > 12)
-		? hours - 12 + ':' + min + ' pm'
-		: hours + ':' + min + ' am';
-	$('status_div').innerHTML = '<input type="text" id="away_message" name="away_message" size="20" value="I\'m away from ' + time_now + '" /> <input type="button" value="Ok" class="formbutton" name="away_switcher" onclick="SaveAwayMessage()" />';
-}
-
-function SaveAwayMessage()
-{
-	var message = document.getElementById('away_message').value;
-	var req = new JsHttpRequest();
-	req.onreadystatechange = function()
-	{
-		if (req.readyState == 4)
-		{
-			if (req.responseJS.status)
-				document.getElementById('status_div').innerHTML = req.responseJS.status;
-			if (req.responseText)
-				document.getElementById('status_div').innerHTML = req.responseText;
-		}
-	}
-	req.open(null, '/ajax1.php', true);
-	req.send( { 'action': 'SaveAwayMessage', 'away_message': message } );
-}
-
-function FriendSelector(letter,friend_id)
-{
-	if (typeof(friend_id) == 'undefined')
-		var friend_id = 0;
-	var req = new JsHttpRequest();
-	req.onreadystatechange = function()
-	{
-		if (req.readyState == 4)
-			if (req.responseJS.result)
-			{
-				$('member_friend_select').innerHTML = req.responseJS.result;
-				MemberCard(req.responseJS.member_id);
-			}
-	}
-	req.caching = true;
-	req.open(null, '/ajax1.php', true);
-	req.send( { 'action': 'FriendSelector', 'letter': letter, 'friend_id': friend_id } );
-}
-
-function MemberCard(member_id)
-{
-	var req = new JsHttpRequest();
-	req.onreadystatechange = function()
-	{
-		if (req.readyState == 4)
-			if (req.responseJS.result)
-				$('member_card').innerHTML = req.responseJS.result;
-	}
-	req.caching = true;
-	req.open(null, '/ajax1.php', true);
-	req.send( { 'action': 'MemberCard', 'member_id': member_id } );
-}
-
-function GetPhotoRank(photo_id, next_url)
-{
-	var req = new JsHttpRequest();
-	req.onreadystatechange = function()
-	{
-		if (req.readyState == 4)
-		{
-			if (req.responseJS.result)
-				$('photo_rank_'+photo_id).innerHTML = req.responseJS.result;
-			else
-				$('photo_rank_'+photo_id).innerHTML = '<div class="'+req.responseJS.class_name+'">'+req.responseJS.message+'</div>';
-		}
-	}
-	req.open(null, '/ajax1.php', true);
-	req.send( { 'action': 'GetPhotoRank', 'photo_id': photo_id, 'next_url': next_url } );
-}
-
-function SetPhotoRank(photo_id, rank, next_url)
-{
-	$('photo_rank_'+photo_id).update('Your vote has been counted!');
-	var req = new JsHttpRequest();
-	req.onreadystatechange = function()
-	{
-		if (req.readyState == 4)
-		{
-			if (req.responseJS.result)
-			{
-				if (next_url == '')
-					GetPhotoRank(photo_id,-1);
-				else
-					location.href = next_url;
-			}
-			else
-				$('photo_rank_'+photo_id).innerHTML = '<div class="'+req.responseJS.class_name+'">'+req.responseJS.message+'</div>';
-		}
-	}
-	req.open(null, '/ajax1.php', true);
-	req.send( { 'action': 'SetPhotoRank', 'photo_id': photo_id, 'rank': rank } );
-}
-
-// own checkbox	
-jQ(document).ready(function(){
-	var l = jQ('label');
-	var chb = l.find(':checkbox');
-	
-	chb.each(function(){
-		var c = (this.checked) ? 'checked' : 'unchecked';
-		jQ(this).parent().addClass(c).append('&nbsp;');
-	});
-
-	chb.click(function(){
-		var p = jQ(this).parent();
-		p.removeClass('hover');
-
-		if (this.checked)
-			p.removeClass('unchecked')
-			.addClass('checked');		
-		else
-			p.removeClass('checked')
-			.addClass('unchecked');
-	});
-
-	l.mouseover(function(){
-		jQ(this).addClass('hover');
-	});
-
-	l.mouseout(function(){
-		jQ(this).removeClass('hover');
-	});
-	
-});
-
-jQ(document).ready(function(){
-	jQ('textarea').live('keypress', function(e){
-		if (jQ(this).parents('#cmdiv').length) not_saved.cmd_ta = true;
-		else not_saved.ta = true;
-	});
-	jQ('form').live('submit', function(e){
-		if (jQ(this).parents('#cmdiv').length) not_saved.cmd_ta = false;
-		else not_saved.ta = false;
-	});
-
-	window.onbeforeunload = function() {
-		if (not_saved.ta || not_saved.cmd_ta) return not_saved.text;
-	}
-	
-/*
-	jQ('form').submit(function(){
-		jQ('input[type=submit]', this).attr('disabled', 'disabled');
-	});
-*/
-	BubbleTip();
-});
-
-// popup description
-function BubbleTip(sel_parent)
-{
-	sel_parent = (typeof(sel_parent) == 'undefined') ? 'div.bubbleInfo' : sel_parent+' div.bubbleInfo'; 
-	
-	if (!jQ(sel_parent).length) return false;
-	
-	jQ(sel_parent).each(function () {
-		var distance = 10;
-		var time = 250;
-		var hideDelay = 500;
-
-		var hideDelayTimer = null;
-
-		var beingShown = false;
-		var shown = false;
-		var trigger = jQ('.trigger', this);
-		var info = jQ('.popup', this).css('opacity', 0);
-
-		jQ([trigger.get(0), info.get(0)]).mouseover(function () {
-			if (hideDelayTimer) clearTimeout(hideDelayTimer);
-			if (beingShown || shown) {
-				// don't trigger the animation again
-				return;
-			} else {
-				// reset position of info box
-				beingShown = true;
-
-				info.css({
-					top: -55,
-					left: -100,
-					display: 'block'
-				}).animate({
-					top: '-=' + distance + 'px',
-					opacity: 1
-				}, time, 'swing', function() {
-					beingShown = false;
-					shown = true;
-				});
-			}
-
-			return false;
-		}).mouseout(function () {
-			if (hideDelayTimer) clearTimeout(hideDelayTimer);
-			hideDelayTimer = setTimeout(function () {
-				hideDelayTimer = null;
-				info.animate({
-					top: '-=' + distance + 'px',
-					opacity: 0
-				}, time, 'swing', function () {
-					shown = false;
-					info.css('display', 'none');
-				});
-
-			}, hideDelay);
-
-			return false;
-		});
-	});	
-}</script>
-
 <script language="javascript" type="text/javascript">
 function lib_bwcheck () {
 	this.ver=navigator.appVersion
@@ -3864,7 +3694,7 @@ function swapImage(newImg, mpeg, key, type) {
 	
 	var uid=27845220;var menu6=new Array()
 menu6[1]='<div style=padding-top:5px;padding-left:3px;text-align:center;font-size:12px;color:red;>In the chatroom...</div>'
-menu6[2]='<div style=padding-left:10px;>babyboplove, 205756, Drpeppar, Carebear777, JediSparkie, 215478, waltthizzney, ssttaarrbbuurrsstt, Bonessy, McPokeFUCKYOU, electricInsomniac, kiddaqua</div>'
+menu6[2]='<div style=padding-left:10px;>ballsagna, 127006</div>'
 	var menuwidth='165px' //default menu width
 	var menubgcolor='#f6f6f6'  //menu bgcolor
 	var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
@@ -3995,24 +3825,30 @@ menu6[2]='<div style=padding-left:10px;>babyboplove, 205756, Drpeppar, Carebear7
 	
 	<div align="center">
 	<center>
-		
-		
 		</center><table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="830" height="224">
 		<tbody><tr>
 			<td class="nav_background_mac" height="26">
-	
 			<table width="100%">
 				<tbody><tr>
-					<td width="10%" align="left" style="padding-left: 7px;"><a class="nav_text_mac" href="/index.php">Plurlife.com</a>
+					<td width="10%" align="left" style="padding-left: 7px;">
+						<a class="nav_text_mac" href="/index.php">Plurlife.com</a>
 					</td>
-					<td align="center" width="80%">&nbsp;</td>
-	
+					<td align="center" width="80%">
+													<div id="alert_feed_popup">
+								<ul class="tabs tabs1">
+									<li class="t1 tab-current">
+																			</li>				
+								</ul>
+								<div id="af">
+									<div class="t t1 clearfix"></div>
+								</div>
+							</div>
+											</td>
 					<td align="right" style="padding-right: 7px;" width="10%" nowrap=""> 
 					<a href="/join_us.php" class="nav_text_mac">Join Us</a> | <a href="/login.php" class="nav_text_mac">Login</a>
 					</td>
 				</tr>
 			</tbody></table>
-	
 			</td>
 		</tr>
 		<tr>
@@ -4039,7 +3875,8 @@ menu6[2]='<div style=padding-left:10px;>babyboplove, 205756, Drpeppar, Carebear7
 		<tr class="nav_background_mac" height="26">
 			<td><font color="#cccccc">
 	
-			</font><div align="center"><font color="#cccccc"> <a class="nav_text_mac" href="/index.php"><b>Home</b></a>
+			</font><div align="center"><font color="#cccccc">
+			 <a class="nav_text_mac" href="/index.php"><b>Home</b></a>
 				 | <a class="nav_text_mac" href="/browse.php"><b>Browse</b></a>
 			| <a href="/search.php" class="nav_text_mac">Search</a>
 			 | <a href="/view_folder.php?folder=inbox" class="nav_text_mac">Mail Box</a> | 			<a href="/games.php" class="nav_text_mac">Games</a>
@@ -4050,7 +3887,7 @@ menu6[2]='<div style=padding-left:10px;>babyboplove, 205756, Drpeppar, Carebear7
 				onMouseout="delayhidemenu()">Chat ()</a> -->
 			  <script language="JavaScript" src="http://chat.plurlife.com/flashcoms/common/js/flashcoms.js">
 			  </script>
-			  				| <a href="/login.php" onclick="clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '350px')" onmouseout="delayhidemenu()" class="nav_text_mac">Chat (12)</a>
+			  				| <a href="/login.php" onclick="clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '350px')" onmouseout="delayhidemenu()" class="nav_text_mac">Chat (2)</a>
 							| <a href="/forum/" class="nav_text_mac">Forum</a> 			| <a href="/groups.php" class="nav_text_mac">Groups</a>
 			| <a href="/events.php" class="nav_text_mac">Events</a>
 			 | <a href="/videos.php" class="nav_text_mac">Videos</a>
@@ -4089,7 +3926,6 @@ menu6[2]='<div style=padding-left:10px;>babyboplove, 205756, Drpeppar, Carebear7
 	<td colspan="2" valign="top">
 	<div>
  <!-- Nav.php -->
-
 <table width="100%" border="0" cellspacing="0" cellpadding="4" class="dark_b_border2">
 <tbody><tr>
 <td class="dark_blue_white2">
@@ -4115,15 +3951,8 @@ or you can reach us by telephone at 1-800-616-1096<br><p>For each visitor to our
 
 
 
-<!-- middle_content -->
-
-
 </table>
 </td></tr></tbody></table>
-<!-- middle_content -->
-
-
-<!-- Middle Text -->
 </div></td></tr>
 <tr><td align="center" bgcolor="#ffffff">
 <script>
@@ -4161,7 +3990,7 @@ if (typeof(_gat) != 'undefined')
 <tr>
 <td height="5" class="txt_label" align="center" style="padding-top:5px;padding-bottom:12px;">
 ©2010 Plurlife.com<br>
-Page generated in 0.2665 seconds
+Page generated in 0.0071 seconds
 </td>
 </tr>
 </tbody></table>
