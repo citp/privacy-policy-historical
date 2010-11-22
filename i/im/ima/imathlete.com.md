@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the imathlete.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109122609id_/http%3A//www.imathlete.com/account/info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imathlete.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105449id_/http%3A//www.imathlete.com/account/info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Welcome to imATHLETE.com!
 
 #### The Basics
 
-We strive to maintain your privacy in all matters. If we gather information, we want you to know when and how. That's the point of this. Suffice to say, we hate spam as much as the next guy, so to save you from reading through this whole thing just to find out what we do with your e-mail address, let me tell you right now that we don't let it out of our possession. We never let anybody else use our mailing list – spammers or not. We treasure your privacy and are pretty sure that you already get enough e-mails about vi@gr@ and cheap mortgages, and that you don't want us to contribute to that annoyance anymore than we want to be a part of it. If you have opted-in to receive information from us, you will receive that. 
+We strive to maintain your privacy in all matters. If we gather information we want you to know when and how. That's the point of this. Suffice to say, we hate spam as much as the next guy, so to save you from reading through this whole thing just to find out what we do with your email address, let me tell you right now that we treasure your privacy and do not sell the imATHLETE membership list. If you have opted to become an imATHLETE member, you will receive some limited communication from us. You can opt-out at anytime. If you have used imATHLETE to register for an event or club or other type of activity ("Activity"), the organizer of that Activity ("Organizer") has the right to contact you at their sole discretion, without imATHLETE's approval. It is in our agreement with the Organizer that they "will be responsible for protecting the privacy and security of any information that [they] retrieve." 
+
+It is our intention not to do business with recognized spammers. As mentioned, we treasure your privacy and are pretty sure that you already get enough emails about vi@gr@ and cheap mortgages that you don't want us to contribute to that annoyance anymore than we want to be part of it. 
 
 If you just browse around the imATHLETE website, no information is collected other than that which is typically collected in server logs by any given website you visit. We may plant cookies for your convenience. 
 
