@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123200012id_/http%3A//ebuzzing.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122032538id_/http%3A//www.ebuzzing.co.uk/mention) for the most accurate reproduction.*
 
 # ebuzzing
 
@@ -6,7 +6,7 @@ ebuzzing respects your privacy. Our purpose in collecting information from you i
 
 ## What Information Do We Collect?
 
-From those applying for an account with ebuzzing, we ask for certain items of personal information (such as their name, email address, etc.) in connection with the function of our site. We may also collect information you give to us through feedback forms, competitions and the like. We do not process any sensitive data about you. We do not collect any personal information except when an individual specifically and knowingly provides such information. 
+Those applying for an account with ebuzzing, we ask of them for certain items of personal information (such as their name, email address, etc.) in connection with the function of our site. We may also collect information you give to us through feedback forms, competitions and the like. We do not process any sensitive data about you. We do not collect any personal information except when an individual specifically and knowingly provides such information. 
 
 ## Cookies
 
@@ -26,7 +26,7 @@ In addition to carefully selecting any third party we share information with, eb
 
 ## Consent and Changes to this Privacy Statement
 
-By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our terms and conditions. If you consent now but later change your mind, you may at any time withdraw your consent by notifying us via [ebuzzing@ebuzzing.co.uk](mailto:ebuzzing@ebuzzing.co.uk). If you withdraw your consent, ebuzzing will close your account and stop using your information immediately. You may also change or correct any of your details at any time by sending an e-mail to the same address. ebuzzing may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
+By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our terms and conditions. If you consent now but later change your mind, you may at any time withdraw your consent by notifying us via [ebuzzing@ebuzzing.com](mailto:ebuzzing@ebuzzing.com). If you withdraw your consent, ebuzzing will close your account and stop using your information immediately. You may also change or correct any of your details at any time by sending an e-mail to the same address. ebuzzing may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
 ## Who Can I Ask If I Have Additional Questions?
 
