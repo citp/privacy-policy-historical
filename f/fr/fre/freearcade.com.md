@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freearcade.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330060205id_/http%3A//www.freearcade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearcade.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122161034id_/http%3A//freearcade.com/privacy.html) for the most accurate reproduction.*
 
 # FreeArcade.com - Privacy Policy
 
