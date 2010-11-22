@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tystoybox.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113122218id_/http%3A//www.tystoybox.com/pages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tystoybox.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122080145id_/http%3A//www.tystoybox.com/pages/Privacy_Policy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
