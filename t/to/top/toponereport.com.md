@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toponereport.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517043251id_/http%3A//www.toponereport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toponereport.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122111555id_/http%3A//www.toponereport.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Top One Report
 
