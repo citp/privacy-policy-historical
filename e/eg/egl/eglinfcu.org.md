@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528002555id_/http%3A//www.eglinfcu.org/di.asp%3Fdi%3D14%26na%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122053937id_/http%3A//eglinfcu.org/di.asp%3Fdi%3D14%26na%3D1) for the most accurate reproduction.*
 
 # Eglin Federal Credit Union
 
