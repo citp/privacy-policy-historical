@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426223147id_/http%3A//www.transamerica.com/portal/disclaimer/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122090549id_/http%3A//www.transamerica.com/portal/disclaimer/privacy_policy.asp) for the most accurate reproduction.*
 
 # Transamerica - Privacy Policy
 
@@ -47,16 +47,16 @@ This Notice applies to the following companies and any separate accounts establi
 
 Transamerica Series Trust  
 Transamerica Financial Life Insurance Company (for New York Residents)  
-Merrill Lynch Life Insurance Company  
-ML Life Insurance Company of New York  
+Transamerica Advisors Life Insurance Company  
+Transamerica Advisors Life Insurance Company of New York  
 Monumental Life Insurance Company  
 Stonebridge Life Insurance Company  
 Transamerica Capital, Inc.  
 Transamerica Life Insurance Company  
 Western Reserve Life Assurance Co. of Ohio
 
-Effective as of August 2009.
+Effective as of August 2010.
 
-EBM 399 0909
+EBM 399 0810
 
 Top of Page
