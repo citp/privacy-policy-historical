@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152242id_/http%3A//www.gfusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122204917id_/http%3A//gfusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameen Foundation
 
@@ -36,8 +36,8 @@ Currently, Grameen Foundation requires personal information on the following pag
 
 Manager of Annual Giving  
 Grameen Foundation  
-50 F Street NW, 8th floor  
-Washington, DC 20001  
+1101 15th Street NW, 3rd floor  
+Washington, DC 20005  
 (toll free) 1-888-764-3872 x125 or outside the U.S. (202) 628-3560 x125  
 [development@grameenfoundation.org](mailto:development@grameenfoundation.org)
 
