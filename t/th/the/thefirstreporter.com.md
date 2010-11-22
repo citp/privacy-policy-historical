@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the thefirstreporter.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608195516id_/http%3A//www.thefirstreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefirstreporter.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122101634id_/http%3A//www.thefirstreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The First Reporter
+
+##  Privacy Policy
+
+* * *
 
 **Privacy Policy**
 
  **At www.thefirstreporter.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.thefirstreporter.com and how it is used.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here **[http://www.networkadvertising.org/managing/opt_out.asp](http://www.thefirstreporter.com/goto/http://www.networkadvertising.org/managing/opt_out.asp)**
 
 Log Files  
 Like many other Web sites, www.thefirstreporter.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
