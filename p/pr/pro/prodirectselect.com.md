@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodirectselect.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612182738id_/http%3A//www.prodirectselect.com/articles/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodirectselect.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122080030id_/http%3A//www.prodirectselect.com/articles/privacy.aspx) for the most accurate reproduction.*
 
 # Pro-Direct Select - Privacy & Security - Mens Trainers, Clothing & Accessories
 
