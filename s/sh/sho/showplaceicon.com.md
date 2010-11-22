@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the showplaceicon.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125142649id_/http%3A//www.showplaceicon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showplaceicon.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122185249id_/http%3A//www.showplaceicon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# ShowPlace Icon
+# ShowPlace ICON
 
 Thank you for visiting Kerasotes Theatres and reviewing our Privacy Policy Statement.  We are providing you this Privacy Policy Statement to inform you about the information that could be collected online as a result of visiting or requesting a service, how that information will be used, and what steps are taken to ensure the security of customer data.  Your rights to privacy are of utmost importance to Kerasotes Theatres. Your trust and confidence when conducting business with us through the Internet is equally important.
 
