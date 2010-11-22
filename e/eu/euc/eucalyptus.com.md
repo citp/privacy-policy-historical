@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403214541id_/http%3A//www.eucalyptus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122041137id_/http%3A//www.eucalyptus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Eucalyptus
 
@@ -31,10 +31,11 @@ Eucalyptus is an open organization that believes in sharing as much information 
 
   1. Eucalyptus does not publicly release information gathered in connection with commercial transactions (i.e., transactions involving money).
   2. Eucalyptus does not make publicly available information that is used to authenticate users the publication of which would compromise the security of Eucalyptus’ website (e.g., passwords). 
-  3. Eucalyptus does not make publicly available information that it specifically promises at the time of collection to maintain in confidence.  
+  3. Eucalyptus does not make publicly available information that it specifically promises at the time of collection to maintain in confidence.
+
+
+
 Outside those three contexts, users should assume that personally-identifying information provided through Eucalyptus’ website will be made available to the public.
-
-
 
 ### Interactive Product Features
 
