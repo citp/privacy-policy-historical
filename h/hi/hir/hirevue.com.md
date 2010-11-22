@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523155933id_/http%3A//www.hirevue.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122113335id_/http%3A//www.hirevue.com/content/privacy-policy) for the most accurate reproduction.*
 
 # HireVue Privacy Policy
 
@@ -28,7 +28,7 @@ To access your information, ask questions about our privacy practices, or issue 
 HireVue, Inc.  
 8370 S. Willow Creek Drive  
 Sandy, Utah 84093  
-Headquarters: 1.800.655.4106Fax: 1.888.619.4053  
+Headquarters: 801.316.2910 Fax: 1.888.619.4053  
 Privacy Policy Inquiries: [privacy@hirevue.com](mailto:privacy@hirevue.com)
 
 ### Website Visitors
