@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycatspace.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620195123id_/http%3A//www.mycatspace.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycatspace.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122091627id_/http%3A//www.mycatspace.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Cats, Kittens : My Cat Space - a cat lovers social community
 
