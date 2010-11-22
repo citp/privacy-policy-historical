@@ -1,169 +1,383 @@
-<!--The following is the downloaded HTML source of the blackbaud.com privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604175716id_/http%3A//www.blackbaud.com/privacy/overview.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blackbaud.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122013646id_/http%3A//www.blackbaud.com/privacy/overview.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-    <title>
-        Blackbaud Privacy Policy
-    </title>
+    <title>Blackbaud Privacy Policy</title>
     <base href="http://www.blackbaud.com/">
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="CreateDate" content="03/14/2008">
 <meta name="UpdateDate" content="03/10/2010">
 
 <meta name="WT.cg_s" content="overview.aspx">
-    <link href="includes/css/demostyles08.css" rel="stylesheet" type="text/css">
+    <link href="/includes/css/demostyles08.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" language="JavaScript" src="/includes/js/resources.js"></script>
      
+    <style type="text/css">
+        .rightGutter
+        {
+            BACKGROUND: url(/images/pageelements08/sb_icon_top.jpg) repeat-y left top
+        }
+    </style>
+    <script type="text/javascript">
+        function breakWord(dEl) {
+            if (!dEl || dEl.nodeType !== 1) {
+                return false;
+            } else if (dEl.currentStyle && typeof dEl.currentStyle.wordBreak === 'string') {
+                breakWord = function(dEl) {
+                    dEl.runtimeStyle.wordBreak = 'break-all';
+                    return true;
+                }
+                return breakWord(dEl);
+            } else if (document.createTreeWalker) {
+                var trim = function(str) {
+                    str = str.replace(/^\s\s*/, '');
+                    var ws = /\s/,
+			i = str.length;
+                    while (ws.test(str.charAt(--i)));
+                    return str.slice(0, i + 1);
+                }
+                breakWord = function(dEl) {
+                    var dWalker = document.createTreeWalker(dEl, NodeFilter.SHOW_TEXT, null, false);
+                    var node, s, c = String.fromCharCode('8203');
+                    while (dWalker.nextNode()) {
+                        node = dWalker.currentNode;
+                        s = trim(node.nodeValue).split('').join(c);
+                        node.nodeValue = s;
+                    }
+                    return true;
+                }
+                return breakWord(dEl);
+            } else {
+                return false;
+            }
+        }
+    </script>
 </head>
 <body onload="return window_onload();" style="margin: 10px 0 0 0">
-    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-        <tbody><tr>
-            <td align="left" valign="top">
-                <span><script language="javascript" src="/includes/js/DefaultFunctions08.js"></script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function drpRegions_onchange() {
-	var url = document.getElementById("<%=drpRegions.ClientID%>").value;
-	if(url != "") {
-		window.location.href = url;
-	}
-	return false;
-}
-//-->
-</script>
+    <!-- prod -->
+<script type="text/javascript" src="/includes/js/DefaultFunctions08.js"></script>
 
 <!-- begin page header -->
 <table cellspacing="0" cellpadding="0" width="970" align="center" border="0">
 	<tbody><tr>
-		<td style="WIDTH: 230px"><a href="/"><img height="96" src="images/Blackbaud_logo_08.jpg" width="230" border="0" alt="Nonprofit accounting software and fundraising software by Blackbaud — leader in non-profit software solutions including fundraising software, school administration, website management, and fund accounting software. Contact us about our complete solutions for fundraising and nonprofit management."></a></td>
-
-		<td valign="top" style="WIDTH: 740px"><table cellspacing="0" cellpadding="0" border="0" align="center" width="740">
-	<tbody><tr><td><img height="64" width="20" src="/images/foo.gif"></td><td align="right" valign="top"><table cellspacing="0" cellpadding="0" border="0" align="center" width="720"><tbody><tr><td align="right" valign="top"><div style="margin-bottom:0;" class="welcomemessage">Welcome | <a href="/profile/logon.aspx?ReturnUrl=%2fdefault.aspx%3fpgpId%3d2349">Please Log In</a>&nbsp;|&nbsp;<a href="/help.aspx">Help</a>&nbsp;|&nbsp;<a href="/contactblackbaud.aspx">Contact Us</a>&nbsp;</div><form style="margin-top:0;" action="/search/sitesearch.aspx" method="post"><input id="txtSearchPhrase" name="txtSearchPhrase" size="20" class="searchBox" value="Site Search" maxlength="50" onfocus="return txtSearch_onfocus();">&nbsp;<input type="submit" class="button" id="btnSearch" value="Go"></form></td><td style="WIDTH: 140px" align="right" valign="top"><a href="http://www.blackbaud.com/support/support.aspx?source=header"><img src="/images/button_customersupport.jpg" border="0" alt="Customer Support"></a></td></tr></tbody></table></td></tr>
-	<tr valign="bottom" width="100%" align="right">
-		<td valign="bottom" align="right" colspan="2">
-			<ul id="menu">
-  <li><a href="http://www.blackbaud.com/default.aspx"><img src="/images/nav08_home_0.jpg" swapimg="/images/nav08_home_x.jpg"></a></li>
-  <li><a href="http://www.blackbaud.com/solutions/overview.aspx"><img src="/images/nav08_solutions_0.jpg" swapimg="/images/nav08_solutions_x.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/solutions/highereducation/highered_ov.aspx">Higher Education</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/humanservices/human_ov.aspx">Human Services</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/healthcare/healthcare_ov.aspx">Healthcare</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/schools/schools_ov.aspx">K-12 Schools</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/artsandcultural/cultural_ov.aspx">Arts &amp; Cultural</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/faithbased/faithbased_ov.aspx">Faith-Based</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/foundations/foundations_ov.aspx">Foundations</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/environmental/environment_ov.aspx">Environmental</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/animalwelfare/animals_ov.aspx">Animal Welfare</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/associations/associations_ov.aspx">Associations</a></li>
-      <li><a href="http://www.blackbaud.com/solutions/small/startups_ov.aspx">Small Organizations</a></li>
+		<td style="WIDTH: 230px">
+			<a href="/"><img height="96" src="/images/Blackbaud_logo_08.jpg" width="230" border="0" alt="Nonprofit accounting software and fundraising software by Blackbaud — leader in non-profit software solutions including fundraising software, school administration, website management, and fund accounting software. Contact us about our complete solutions for fundraising and nonprofit management."></a>
+		</td>
+		<td valign="top" style="WIDTH: 740px">
+			<table cellspacing="0" cellpadding="0" border="0" align="center" width="740">
+				<tbody><tr>
+					<td><img height="64" width="20" src="/images/foo.gif" alt=""></td>
+					<td align="right" valign="top">
+						<table cellspacing="0" cellpadding="0" border="0" align="center" width="720">
+							<tbody><tr>
+								<td align="right" valign="top">
+									<div style="margin-bottom:0;" class="welcomemessage">Welcome | <a href="/profile/logon.aspx?ReturnUrl=%2fdefault.aspx%3fpgpId%3d2349">Please Log In</a>&nbsp;|&nbsp;<a href="/help.aspx">Help</a>&nbsp;|&nbsp;<a href="/contactblackbaud.aspx">Contact Us</a>&nbsp;</div>
+									<form style="margin-top:0;" action="/search/sitesearch.aspx" method="post">
+<input id="txtSearchPhrase" name="txtSearchPhrase" size="20" class="searchBox" value="Site Search" maxlength="50" onfocus="return txtSearch_onfocus();">&nbsp;<input type="submit" class="button" id="btnSearch" value="Go">
+</form>
+								</td>
+<td style="WIDTH: 140px" align="right" valign="top">
+<a href="http://www.blackbaud.com/support/support.aspx?source=header">
+<img src="/images/button_customersupport.jpg" border="0" alt="Customer Support" height="34" width="112">
+</a>
+</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr valign="bottom" align="right">
+					<td valign="bottom" align="right" colspan="2">
+						<ul id="menu">
+  <li>
+    <a href="http://www.blackbaud.com/">
+      <img src="/images/menu/nav08_home.jpg" class="hoverswap" alt="" height="23" width="57">
+    </a>
+  </li>
+  <li>
+    <a href="http://www.blackbaud.com/solutions/overview.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_solutions.jpg" width="83">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/highereducation/highered_ov.aspx">Higher Education</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/humanservices/human_ov.aspx">Human Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/healthcare/healthcare_ov.aspx">Healthcare</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/schools/schools_ov.aspx">K-12 Schools</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/artsandcultural/cultural_ov.aspx">Arts &amp; Cultural</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/faithbased/faithbased_ov.aspx">Faith-Based</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/foundations/foundations_ov.aspx">Foundations</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/environmental/environment_ov.aspx">Environmental</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/animalwelfare/animals_ov.aspx">Animal Welfare</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/associations/associations_ov.aspx">Associations</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/solutions/small/startups_ov.aspx">Small Organizations</a>
+      </li>
     </ul>
   </li>
-  <li><a href="http://www.blackbaud.com/products/overview.aspx"><img src="/images/nav08_products_0.jpg" swapimg="/images/nav08_products_x.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/products/internet/int_overview.aspx">Internet Solutions</a></li>
-      <li><a href="http://www.blackbaud.com/products/fundraising/fr_overview.aspx">Fundraising</a></li>
-      <li><a href="http://www.blackbaud.com/products/crm/crm_overview.aspx">Constituent Relationship Management</a></li>
-      <li><a href="http://www.blackbaud.com/products/financial/finance_overview.aspx">Financial Management</a></li>
-      <li><a href="http://www.blackbaud.com/products/school/school_overview.aspx">Education Administration</a></li>
-      <li><a href="http://www.blackbaud.com/products/directmarketing/direct.aspx">Direct Marketing</a></li>
-      <li><a href="http://www.blackbaud.com/products/gam/gam_overview.aspx">General Admissions Management</a></li>
-      <li><a href="http://www.blackbaud.com/products/ticketing/ticket_overview.aspx">Ticketing</a></li>
-      <li><a href="http://www.blackbaud.com/products/pr.aspx">Prospect Research &amp; Analytics</a></li>
-      <li><a href="http://www.blackbaud.com/products/system/requirements.aspx">System Requirements</a></li>
+  <li>
+    <a href="http://www.blackbaud.com/products/overview.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_products.jpg" width="80">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/products/internet/int_overview.aspx">Internet Solutions</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/social-media/blackbaud-social.aspx">Blackbaud Social</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/fundraising/fr_overview.aspx">Fundraising</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/crm/crm_overview.aspx">Constituent Relationship Management</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/financial/finance_overview.aspx">Financial Management</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/school/school_overview.aspx">Education Administration</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/directmarketing/direct.aspx">Direct Marketing</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/gam/gam_overview.aspx">General Admissions Management</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/ticketing/ticket_overview.aspx">Ticketing</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/pr.aspx">Prospect Research &amp; Analytics</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/products/system/requirements.aspx">System Requirements</a>
+      </li>
     </ul>
   </li>
-  <li><a href="http://www.blackbaud.com/services/overview.aspx"><img src="/images/nav08_services_0.jpg" swapimg="/images/nav08_services_x.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/services/consulting/consult_overview.aspx">Consulting Services</a></li>
-      <li><a href="http://www.blackbaud.com/services/designservices/bbi_overview.aspx">Blackbaud Internet Services</a></li>
-      <li><a href="http://www.blackbaud.com/training/">Training</a></li>
-      <li><a href="http://www.blackbaud.com/services/dms/datamanagement.aspx">Data Management Services</a></li>
-      <li><a href="http://www.blackbaud.com/services/des.aspx">Data Enrichment Services</a></li>
-      <li><a href="http://www.blackbaud.com/services/ondemand.aspx">Application Hosting Services</a></li>
-      <li><a href="http://www.blackbaud.com/services/pm/pm_overview.aspx">Performance Management</a></li>
-      <li><a href="http://www.blackbaud.com/services/customreports.aspx">Custom Report Solutions</a></li>
-      <li><a href="http://www.blackbaud.com/services/maintenance/maintoverview.aspx">Maintenance</a></li>
-      <li><a href="http://www.blackbaud.com/services/disclaimer.aspx">Disclaimer</a></li>
+  <li>
+    <a href="http://www.blackbaud.com/services/overview.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_services.jpg" width="71">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/services/consulting/consult_overview.aspx">Consulting Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/designservices/bbi_overview.aspx">Blackbaud Internet Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/training/">Training</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/dms/datamanagement.aspx">Data Management Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/des.aspx">Data Enrichment Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/ondemand.aspx">Application Hosting Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/merchant/bbms-home.aspx">Blackbaud Merchant Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/pm/pm_overview.aspx">Performance Management</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/customreports.aspx">Custom Report Solutions</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/maintenance/maintoverview.aspx">Maintenance</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/services/disclaimer.aspx">Disclaimer</a>
+      </li>
     </ul>
   </li>
-  <li><a href="http://www.blackbaud.com/targetanalytics/overview.aspx"><img src="/images/nav08_targetanalytics_0.jpg" swapimg="/images/nav08_targetanalytics_x.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/targetanalytics/acquisition/ac_overview.aspx">Donor Acquisition</a></li>
-      <li><a href="http://www.blackbaud.com/targetanalytics/prospectresearch/pros_overview.aspx">Prospect Research</a></li>
-      <li><a href="http://www.blackbaud.com/targetanalytics/benchmarking/bench_overview.aspx">Performance Benchmarking</a></li>
-      <li><a href="http://www.blackbaud.com/targetanalytics/des_overview/des_overview.aspx">Data Enrichment Services</a></li>
-      <li><a href="http://www.blackbaud.com/targetanalytics/research/ind-analysis.aspx">Industry Analysis</a></li>
+  <li>
+    <a href="http://www.blackbaud.com/targetanalytics/overview.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_targetanalytics.jpg" width="128">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/targetanalytics/acquisition/ac_overview.aspx">Donor Acquisition</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/targetanalytics/prospectresearch/pros_overview.aspx">Prospect Research</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/targetanalytics/benchmarking/bench_overview.aspx">Performance Benchmarking</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/targetanalytics/des_overview/des_overview.aspx">Data Enrichment Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/targetanalytics/research/ind-analysis.aspx">Industry Analysis</a>
+      </li>
     </ul>
   </li>
-  <li><a href="http://www.blackbaud.com/customers/overview.aspx"><img src="/images/nav08_customers_0.jpg" swapimg="/images/nav08_customers_X.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/customers/highered/he_overview.aspx">Higher Education</a></li>
-      <li><a href="http://www.blackbaud.com/customers/humanservices/hs_overview.aspx">Human Services</a></li>
-      <li><a href="http://www.blackbaud.com/customers/healthcare/hc_overview.aspx">Healthcare</a></li>
-      <li><a href="http://www.blackbaud.com/customers/schools/schools_overview.aspx">K-12 Schools</a></li>
-      <li><a href="http://www.blackbaud.com/customers/cultural/ac_overview.aspx">Arts &amp; Cultural</a></li>
-      <li><a href="http://www.blackbaud.com/customers/faith-based/faith_overview.aspx">Faith-Based</a></li>
-      <li><a href="http://www.blackbaud.com/customers/foundations/found_overview.aspx">Foundations</a></li>
-      <li><a href="http://www.blackbaud.com/customers/environmental/env_overview.aspx">Environmental</a></li>
-      <li><a href="http://www.blackbaud.com/customers/animalwelfare/an_overview.aspx">Animal Welfare</a></li>
-      <li><a href="http://www.blackbaud.com/customers/videos/vid_overview.aspx">Video Interviews</a></li>
+  <li>
+    <a href="http://www.blackbaud.com/customers/overview.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_customers.jpg" width="89">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/customers/share-your-story.aspx">Tell Us Your Story</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/highered/he_overview.aspx">Higher Education</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/humanservices/hs_overview.aspx">Human Services</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/healthcare/hc_overview.aspx">Healthcare</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/schools/schools_overview.aspx">K-12 Schools</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/cultural/ac_overview.aspx">Arts &amp; Cultural</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/faith-based/faith_overview.aspx">Faith-Based</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/foundations/found_overview.aspx">Foundations</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/environmental/env_overview.aspx">Environmental</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/customers/animalwelfare/an_overview.aspx">Animal Welfare</a>
+      </li>
     </ul>
   </li>
-  <li><a href="http://www.blackbaud.com/support/support.aspx"><img src="/images/nav08_support_0.jpg" swapimg="/images/nav08_support_x.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/kb/">Knowledgebase</a></li>
-      <li><a href="http://www.blackbaud.com/support/guides/guides.aspx">User Guides</a></li>
-      <li><a href="http://www.blackbaud.com/support/faqs/faqs.aspx">FAQs</a></li>
-      <li><a href="http://www.blackbaud.com/support/forums/forums.aspx">Forums</a></li>
-      <li><a href="http://www.blackbaud.com/support/downloads/downloads.aspx">Downloads</a></li>
-      <li><a href="http://www.blackbaud.com/support/casecentral/casecentral.aspx">Case Central</a></li>
-      <li><a href="http://www.blackbaud.com/support/roundtables/roundtables.aspx">Support Roundtables</a></li>
-      <li><a href="http://www.blackbaud.com/support/newsletters/supnewsletters.aspx">Support Newsletters</a></li>
-      <li><a href="http://www.blackbaud.com/support/blogs/blogs.aspx">Blogs</a></li>
+  <li>
+    <a href="http://www.blackbaud.com/support/support.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_support.jpg" width="69">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/kb/">Knowledgebase</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/support/guides/guides.aspx">User Guides</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/support/faqs/faqs.aspx">FAQs</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/support/forums/forums.aspx">Forums</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/support/downloads/downloads.aspx">Downloads</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/support/casecentral/casecentral.aspx">Case Central</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/support/newsletters/supnewsletters.aspx">Support Newsletters</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/support/blogs/blogs.aspx">Blogs</a>
+      </li>
     </ul>
   </li>
-  <li><a href="http://www.blackbaud.com/events/overview.aspx"><img src="/images/nav08_events_0.jpg" swapimg="/images/nav08_events_x.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/events/bb_conf/conf_overview.aspx">Blackbaud Conferences</a></li>
-      <li><a href="http://www.blackbaud.com/events/delivers/bbdelivers.aspx">Blackbaud Delivers</a></li>
-      <li><a href="http://www.blackbaud.com/events/webseminars.aspx">Web Seminars</a></li>
-      <li><a href="http://www.blackbaud.com/events/usergroups.aspx">User Groups</a></li>
-      <li><a href="http://www.blackbaud.com/events/industryconf.aspx">Industry Events</a></li>
-      <li><a href="http://www.blackbaud.com/events/regionalseminars.aspx">Regional Seminars</a></li>
+  <li>
+    <a href="http://www.blackbaud.com/events/overview.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_events.jpg" width="62">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/events/bb_conf/conf_overview.aspx">Blackbaud Conferences</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/events/delivers/bbdelivers.aspx">Blackbaud Delivers</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/events/webseminars.aspx">Web Seminars</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/events/usergroups.aspx">User Groups</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/events/industryconf.aspx">Industry Events</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/events/regionalseminars.aspx">Regional Seminars</a>
+      </li>
     </ul>
   </li>
-  <li><a href="http://www.blackbaud.com/company/company_overview.aspx"><img src="/images/nav08_company_0.jpg" swapimg="/images/nav08_company_x.jpg"></a><ul>
-      <li><a href="http://www.blackbaud.com/company/contact/contactblackbaud.aspx">Contact Us</a></li>
-      <li><a href="http://www.blackbaud.com/company/careers/careers_overview.aspx">Careers</a></li>
-      <li><a href="http://www.blackbaud.com/company/resources/resources.aspx">Nonprofit Resources</a></li>
-      <li><a href="http://www.blackbaud.com/company/experts/industry-experts.aspx">Nonprofit Experts</a></li>
-      <li><a href="http://www.blackbaud.com/company/blogs/blogs.aspx">Blogs</a></li>
-      <li><a href="http://www.blackbaud.com/company/partners/partner_overview.aspx">Partners</a></li>
-      <li><a href="http://www.blackbaud.com/company/pressroom/pressroom.aspx">Press Room</a></li>
-      <li><a href="http://www.blackbaud.com/company/philanthropy/philanthropy.aspx">Philanthropy</a></li>
-      <li><a href="http://www.blackbaud.com/company/about/whoweare.aspx">Who We Are</a></li>
-      <li><a href="http://www.blackbaud.com/company/investors/investor_info.aspx">Investor Relations</a></li>
-      <li><a href="http://www.blackbaud.com/company/pci/compliance.aspx">PCI Compliance</a></li>
+  <li>
+    <a href="http://www.blackbaud.com/company/company_overview.aspx">
+      <img alt="" class="hoverswap" height="23" src="/images/menu/nav08_company.jpg" width="68">
+    </a>
+    <ul>
+      <li>
+        <a href="http://www.blackbaud.com/company/contact/contactblackbaud.aspx">Contact Us</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/careers/careers_overview.aspx">Careers</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/resources/resources.aspx">Nonprofit Resources</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/experts/industry-experts.aspx">Nonprofit Experts</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/blogs/blogs.aspx">Blogs</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/partners/partner_overview.aspx">Partners</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/pressroom/pressroom.aspx">Press Room</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/philanthropy/philanthropy.aspx">Corporate Citizenship</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/about/whoweare.aspx">Who We Are</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/investors/investor_info.aspx">Investor Relations</a>
+      </li>
+      <li>
+        <a href="http://www.blackbaud.com/company/pci/compliance.aspx">PCI Compliance</a>
+      </li>
     </ul>
   </li>
 </ul>
-		</td>
-	</tr>
-</tbody></table><!--<table cellpadding="0" cellspacing="0" border="0">
-				<tr>
-					<td rowspan="2"><img align="left" height="26" width="1" src="images/foo.gif"></td>
-					<td><img align="left" height="4" width="1" src="images/foo.gif"></td>
-					<td rowspan="2"><img align="left" height="26" width="1" src="images/foo.gif"></td>
-				</tr>
-				<tr>
-					<td align=left>
-						<select id="drpRegions" Runat="server" onchange="return drpRegions_onchange()" 
-							class="regionSelector" style="WIDTH: 106px" NAME="drpRegions">
-						</select>
 					</td>
 				</tr>
-			</table>--></td>
+			</tbody></table>
+		</td>
 	</tr>
 </tbody></table>
-
-
-<!-- end page header -->
-<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<!-- end page header --><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td style="HEIGHT: 75px" align="center" valign="top" background="images/Spectrum_runner_08.jpg">
+		<td style="HEIGHT: 75px; background-image: url('images/Spectrum_runner_08.jpg');" valign="top" align="center">
 			<table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 				    <td style="Width: 230px">
@@ -171,42 +385,34 @@ function drpRegions_onchange() {
 				    </td>
 				    <td align="right">
 				        <table width="740" border="0" cellpadding="0" cellspacing="0">
-	                    <tbody><tr>
-		                    <td><img src="images/foo.gif" width="740" height="2"></td>
-	                    </tr>
-	                    <tr>
-		                    <td class="breadcrumb" align="right"></td>
-	                    </tr>
+							<tbody><tr>
+								<td><img src="images/foo.gif" width="740" height="2" alt=""></td>
+							</tr>
+							<tr>
+								<td class="breadcrumb" align="right"></td>
+							</tr>
                         </tbody></table>
-
                     </td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
-</span>
-            </td>
-        </tr>
-    </tbody></table>
-    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-        <tbody><tr>
-            <td align="left" valign="top">
-            </td>
-        </tr>
-    </tbody></table>
-    <table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-            <td colspan="2">
-                <img alt="" src="images/foo.gif" width="970" height="1" border="0">
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <img alt="" src="images/foo.gif" width="270" height="1" border="0"><br>
+
+    <table cellspacing="0" cellpadding="0" align="Center" border="0" style="background-color:White;border-width:0px;width:100%;border-collapse:collapse;">
+	<tbody><tr>
+		<td align="left" valign="top"></td>
+	</tr>
+</tbody></table>
+    <table id="ctl00_tblMain" cellspacing="0" cellpadding="0" align="Center" border="0" style="border-width:0px;width:970px;border-collapse:collapse;">
+	<tbody><tr>
+		<td id="ctl00_tcTop" colspan="2"><img src="templates/images/foo.gif" style="border-width:0px;height:0px;width:970px;"></td>
+	</tr><tr>
+		<td valign="top"><img src="templates/images/foo.gif" style="border-width:0px;height:0px;width:270px;"><br>
                 <a id="ctl00_lnkImageUrl">
                     <br>
-                    <img id="ctl00_HeaderImage" src="/images/pageheaders08/iph_root_privacypolicy.jpg" alt="Privacy Policy" style="border-width:0px;"></a><br>
+                    <img id="ctl00_HeaderImage" src="/images/pageheaders08/iph_root_privacypolicy.jpg" alt="Privacy Policy" style="border-width:0px;"></a>
+                <br>
                 <br>
                 <!-- begin Left nav -->
                 
@@ -214,7 +420,7 @@ function drpRegions_onchange() {
 	<tbody><tr>
 		<td>
 			<img src="images/foo.gif" width="1" height="14"><br>
-			<span class="L2ACTIVE"><a>Blackbaud Privacy Policy</a><br></span>
+			
 			<br><br><br>
 		</td>
 	</tr>
@@ -229,10 +435,7 @@ function drpRegions_onchange() {
 		</td>
 	</tr>
 </tbody></table>
-
-            </td>
-            <td valign="top">
-                <img alt="" src="images/foo.gif" width="700" height="1" border="0"><br>
+</td><td valign="top"><img id="ctl00_imgMain" src="templates/images/foo.gif" style="border-width:0px;height:0px;width:700px;"><br><br>
                 <br>
                 <!-- begin BodyCopy -->
                 <span class="bodycopy">
@@ -278,31 +481,32 @@ function drpRegions_onchange() {
                 <br>
                 <!-- end BodyCopy -->
                 <!-- begin placeholders -->
-                <p>
-                    
-                </p>
+                <p></p>
                 <!-- end placeholders -->
                 <br>
             </td>
-        </tr>
-    </tbody></table>
+	</tr>
+</tbody></table>
+    
     <!-- begin Footer -->
-    <span><a name="footer"></a>
+    <a name="footer"></a>
 <table class="footertable" width="970" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td style="BORDER-TOP: #57b6d7 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #57b6d7 1px solid" align="left"><strong>© 2010 Blackbaud, Inc.  All Rights Reserved</strong></td><td style="BORDER-TOP: #57b6d7 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #57b6d7 1px solid" align="right"><div class="bodycopy"><a href="/privacy/overview.aspx">Privacy Statement</a>  |  <a href="/sitemap.aspx">Sitemap</a></div></td><td style="BORDER-TOP: #57b6d7 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #57b6d7 1px solid" align="middle"><a href="/privacy/overview.aspx#footer" onclick="toggle('status',1);return false;"><img src="images/downarrow.jpg" border="0"></a></td>
+		<td style="BORDER-TOP: #57b6d7 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #57b6d7 1px solid" align="left"><strong>© 2010 Blackbaud, Inc.  All Rights Reserved</strong></td><td style="BORDER-TOP: #57b6d7 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #57b6d7 1px solid" align="right"><div class="bodycopy"><a href="/privacy/overview.aspx">Privacy Statement</a>  |  <a href="/sitemap.aspx">Sitemap</a></div></td><td style="BORDER-TOP: #57b6d7 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #57b6d7 1px solid" align="center"><a href="/privacy/overview.aspx#footer" onclick="toggle('status',1);return false;"><img src="images/downarrow.jpg" border="0" alt=""></a></td>
 	</tr>
-</tbody></table><table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
-	<tbody><tr><td colspan="5"><img src="images/foo.gif" width="950" height="15"></td></tr>
+</tbody></table>
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tbody><tr><td colspan="5"><img src="images/foo.gif" width="950" height="15" alt=""></td></tr>
 	<tr>
 		<td align="left" valign="top" width="194"><div class="bodycopy"><strong>Solutions</strong><br><a href="http://www.blackbaud.com/solutions/healthcare/healthcare_ov.aspx">Healthcare </a><br><a href="http://www.blackbaud.com/solutions/highereducation/highered_ov.aspx">Higher Education</a><br><a href="http://www.blackbaud.com/solutions/humanservices/human_ov.aspx">Human Services</a><br><a href="http://www.blackbaud.com/solutions/schools/schools_ov.aspx">K-12 Schools</a><br><a href="http://www.blackbaud.com/solutions/artsandcultural/cultural_ov.aspx">Arts &amp; Cultural</a><br><a href="http://www.blackbaud.com/solutions/faithbased/faithbased_ov.aspx">Faith-Based</a><br><a href="http://www.blackbaud.com/solutions/foundations/foundations_ov.aspx">Foundations</a><br><a href="http://www.blackbaud.com/solutions/environmental/environment_ov.aspx">Environmental</a></div></td>
 		<td align="left" valign="top" width="194"><div class="bodycopy"><strong>Products</strong><br><a href="http://www.blackbaud.com/products/fundraising/raisersedge.aspx">The Raiser's Edge</a><br><a href="http://www.blackbaud.com/products/financial/financialedge.aspx">The Financial Edge</a><br><a href="http://www.blackbaud.com/products/internet/netcommunity.aspx">Blackbaud NetCommunity</a><br><a href="http://www.blackbaud.com/products/school/educationedge.aspx">The Education Edge</a><br><a href="http://www.blackbaud.com/products/ticketing/patronedge.aspx">The Patron Edge</a><br><a href="http://www.blackbaud.com/products/directmarketing/bbdm.aspx">Blackbaud Direct Marketing</a><br><a href="http://www.blackbaud.com/products/crm/bbec/bbec_overview.aspx">Blackbaud Enterprise CRM</a><br><a href="targetanalytics/overview.aspx">Target Analytics</a></div></td>
 		<td align="left" valign="top" width="194"><div class="bodycopy"><strong>Community</strong><br><a href="http://www.blackbaud.com/events/usergroups.aspx">User Groups</a><br><a href="http://forums.blackbaud.com/">Discussion Forums</a><br><a href="http://forums.blackbaud.com/blogs">Blackbaud Blogs</a><br><a href="http://labs.blackbaud.com">Blackbaud Labs</a><br><a href="http://www.blackbaud.com/services/maintenance/fanclub.aspx">Blackbaud Fan Club</a><br><a href="http://playground.blackbaud.com">Design Playground</a><br><a href="http://www.blackbaud.com/events/bb_conf/conf_overview.aspx">Blackbaud Conferences</a><br><a href="http://labs.blackbaud.com/bbapiwiki/index.php?title=NetCommunity_Custom_Parts_API">Blackbaud API Wiki</a></div></td>
-		<td align="left" valign="top" width="194"><div class="bodycopy"><strong>Resources</strong><br><a href="http://www.blackbaud.com/company/resources/whitepapers/whitepapers.aspx">White Papers</a><br><a href="http://www.blackbaud.com/company/resources/newsletters/newsletters.aspx">Newsletters</a><br><a href="http://www.blackbaud.com/company/resources/podcasts/podcasts.aspx">Podcasts</a><br><a href="http://www.blackbaud.com/company/resources/industryanalysis/analysis.aspx">Industry Analysis</a><br><a href="http://www.blackbaud.com/company/resources/speakersbureau/speakersbureau.aspx">Speakers Bureau</a><br><a href="http://www.blackbaud.com/company/resources/giftrange/giftcalc.aspx">Gift Range Calculator</a><br><a href="http://www.blackbaud.com/services/training/train_overview.aspx">Product Training</a><br><a href="http://www.blackbaud.com/support/support.aspx">Customer Support</a></div></td>
+		<td align="left" valign="top" width="194"><div class="bodycopy"><strong>Resources</strong><br><a href="http://www.blackbaud.com/company/resources/whitepapers/whitepapers.aspx">White Papers</a><br><a href="http://www.blackbaud.com/company/resources/newsletters/newsletters.aspx">Newsletters</a><br><a href="http://www.blackbaud.com/company/resources/podcasts/podcasts.aspx">Podcasts</a><br><a href="http://www.blackbaud.com/company/resources/industryanalysis/analysis.aspx">Industry Analysis</a><br><a href="http://www.blackbaud.com/company/experts/industry-experts.aspx">Blackbaud Experts</a><br><a href="http://www.blackbaud.com/company/resources/giftrange/giftcalc.aspx">Gift Range Calculator</a><br><a href="http://www.blackbaud.com/services/training/train_overview.aspx">Product Training</a><br><a href="http://www.blackbaud.com/support/support.aspx">Customer Support</a></div></td>
 		<td align="left" valign="top" width="194"><div class="bodycopy"><strong>Company</strong><br><a href="http://www.blackbaud.com/company/contact/contactblackbaud.aspx">Contact Us</a><br><a href="http://www.blackbaud.com/company/about/whoweare.aspx">Corporate Overview</a><br><a href="http://www.blackbaud.com/company/investors/investor_info.aspx">Investor Relations</a><br><a href="http://www.blackbaud.com/customers/overview.aspx">Our Customers</a><br><a href="http://www.blackbaud.com/company/careers/careers_overview.aspx">Careers at Blackbaud</a><br><a href="http://www.blackbaud.com/company/pressroom/pressroom.aspx">Press Room</a><br><a href="http://www.blackbaud.com/company/partners/partner_overview.aspx">Partner Program</a><br><a href="http://www.blackbaud.com/company/contact/international.aspx">International Sites</a></div></td>
 	</tr>
-<tr><td colspan="5"><img src="images/foo.gif" width="950" height="20"></td></tr>
-</tbody></table><script type="text/javascript">
+	<tr><td colspan="5"><img src="images/foo.gif" width="950" height="20" alt=""></td></tr>
+</tbody></table>
+ <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -314,13 +518,12 @@ pageTracker._trackPageview();
 <script type="text/javascript" src="/includes/js/jquery.google-analytics-min.js"></script>
 <script type="text/javascript">$(document).ready(function(){$('a').track({skip_internal: false});});</script>
 
-<!-- below is the lead lander code for evaluation 
+
 
 <script type="text/javascript" language="javascript">llactid=15983</script>
-<script type="text/javascript" language="javascript" src="http://t2.trackalyzer.com/trackalyze.js"></script>   -->
-</span>
+<script type="text/javascript" language="javascript" src="http://t5.trackalyzer.com/trackalyze.js"></script>
+
     <!-- end Footer -->
-    
     <div id="masterdiv">
                     </div><table id="status1" width="970" border="0" align="center" cellpadding="0" cellspacing="0" class="menucontainer">
               <tbody>
