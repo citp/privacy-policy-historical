@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527114006id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105642id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
 
 # Privacy: Luther College Privacy Policy
-
-## Luther College Privacy Policy
 
 Protecting the privacy of your personal information is important to Luther College. We respect your right to privacy and recognize our obligation to keep information about you secure and confidential. We have implemented appropriate technological safeguards and usage policies to ensure that the personal information you submit to Luther College is used only for official college business.
 
