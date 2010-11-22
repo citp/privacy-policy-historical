@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the youngthroats.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215011742id_/http%3A//www.youngthroats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngthroats.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122095502id_/http%3A//www.youngthroats.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# The youngest internet deep throats
+# Privacy Policy
 
-**Privacy Policy  
-**   
+Privacy Policy
+
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 The Information We Collect: email address. We do not collect any other customer information. Please see our payment processor's Privacy Policy concerning collected information.   
-This notice applies to all information collected or submitted on YoungThroats website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+This notice applies to all information collected or submitted on YoungThroats.com website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
 Email address.
 
 The Way We Use Information:   
