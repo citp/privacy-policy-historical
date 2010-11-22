@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtusa.com privacy policy that was archived on 2010-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524122208id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtusa.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122082901id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,28 +11,21 @@
 <meta name="keywords" content="">
 <link rel="shortcut icon" href="/favicon.ico">
 
-        <link rel="stylesheet" href="/styles/BreadCrumb.css" type="text/css" media="screen, projection">
-        <script src="/scripts/jquery/jquery.js" type="text/javascript" language="JavaScript"></script>
-	
-        <link rel="stylesheet" type="text/css" href="/scripts/topnav/nav.css" media="screen, projection">
-        <link rel="stylesheet" type="text/css" href="/search/css/styles.css">
+  <script src="/scripts/jquery/jquery.js" type="text/javascript" language="JavaScript"></script>
+  <script type="text/javascript" src="/scripts/topnav/topnav.js"></script>
 
-		<script type="text/javascript" src="/scripts/topnav/supersubs.js"></script>
-        <script type="text/javascript" src="/scripts/topnav/superfish.js"></script>
-        <script type="text/javascript" src="/scripts/topnav/hoverIntent.js"></script>
-    <script type="text/javascript"> 
-		$(document).ready(function(){ 
-			$("ul.sf-menu").supersubs({ 
-				minWidth:    10, 
-				maxWidth:    40, 
-				extraWidth:  1.5 
-			}).superfish(); 
+  <script type="text/javascript"> 
+	  $(document).ready(function(){ 
+		 $("ul.sf-menu").supersubs({ 
+			minWidth:    10, 
+			maxWidth:    40, 
+			extraWidth:  1.5 
+		  }).superfish(); 
 		}); 
-	</script>
+   </script>
         
-       	<link rel="stylesheet" type="text/css" href="/scripts/fancybox/jquery.fancybox.css" media="screen">
-       	<link rel="stylesheet" type="text/css" href="/styles/subnav_drop.css">
-    <script type="text/javascript"> 
+   <link rel="stylesheet" type="text/css" href="/scripts/fancybox/jquery.fancybox.css" media="screen">
+   <script type="text/javascript"> 
 		$(document).ready(function(){ 
 			$("ul.sf-bcmenu").supersubs({ 
 				minWidth:		3, 
@@ -41,17 +34,138 @@
 			}).superfish(); 
 		}); 
 	</script>
-
-		<script type="text/javascript" src="/scripts/fancybox/jquery.easing.1.3.js"></script>
-		<script type="text/javascript" src="/scripts/fancybox/jquery.fancybox-1.2.1.js"></script>
-        <script type="text/javascript" src="/scripts/init.js"></script>
-        <script language="javascript" type="text/javascript" src="/scripts/jflow/jquery.flow.1.2.js"></script>
-        
-         <script type="text/javascript" src="/scripts/initlinks.js"></script>         
-          
+	<script type="text/javascript" src="/scripts/fancybox/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="/scripts/fancybox/jquery.fancybox-1.2.1.js"></script>
+    <script type="text/javascript" src="/scripts/init.js"></script>
+    <script language="javascript" type="text/javascript" src="/scripts/jflow/jquery.flow.1.2.js"></script>
+    
+    <script type="text/javascript" src="/scripts/initlinks.js"></script>         
+     
          
-		<script type="text/javascript" src="/search/js/scripts.js"></script>
-		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<script type="text/javascript" src="/search/js/scripts.js"></script>
+
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    
+      <script type="text/javascript"> 
+		function remove_popup()
+		{  //alert('2');
+		//.$.fn.fancybox.close();	
+		//parent.$("a.href :contains('userlogin.asp')").removeClass("download");
+			//link_=parent.$("a").html;
+			//alert(link_);
+			parent.$("a.href :contains('userlogin.asp')").removeClass("download");
+
+		}
+		//icon_email
+		$(document).ready(function() {
+                  //Activate FancyBox
+                  $("a#bug_report").fancybox({
+                         'frameWidth': 500,
+                         'frameHeight': 480
+                  });
+           });
+		$(document).ready(function() {
+                  //Activate FancyBox
+                  $("a#icon_email").fancybox({
+                         'frameHeight': 450
+                  });
+           });
+	</script>
+
+<script language="JavaScript">
+<!--
+
+//Disable right mouse click Script
+//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
+//For full source code, visit http://www.dynamicdrive.com
+
+var message="Right Click Disabled!";
+
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("alert(message);return false")
+
+// --> 
+</script>
+
+
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    
+      <script type="text/javascript"> 
+		function remove_popup()
+		{  //alert('2');
+		//.$.fn.fancybox.close();	
+		//parent.$("a.href :contains('userlogin.asp')").removeClass("download");
+			//link_=parent.$("a").html;
+			//alert(link_);
+			parent.$("a.href :contains('userlogin.asp')").removeClass("download");
+
+		}
+	</script>
+
+<script language="JavaScript">
+<!--
+
+//Disable right mouse click Script
+//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
+//For full source code, visit http://www.dynamicdrive.com
+
+var message="Right Click Disabled!";
+
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("alert(message);return false")
+
+// --> 
+</script>
+
+
 </head>
 
 <body class="virtusalayout">
@@ -63,11 +177,11 @@
       
    <div id="headersocialmedia">
 		        <span style="display: none;"></span>
-         <a href="http://www.virtusa.com/blog" target="_blank"><img src="/images/interface/ico_blog.gif" longdesc="Virtusa Official Blog"></a> 
-         <a href="https://twitter.com/VirtusaCorp" target="_blank"><img src="/images/interface/ico_twitter.gif" longdesc="Follow us"></a>
-        <a href="http://www.linkedin.com/companies/virtusa" target="_blank"><img src="/images/interface/ico_linkedin.gif" longdesc="Company Profile"></a> 
-        <a href="http://www.facebook.com/VirtusaCorp" target="_blank"><img src="/images/interface/ico_facebook.gif" longdesc="Become a Fan"></a>
-        <a href="/rssfeeds/default.asp"><img src="/images/interface/ico_rss.gif" longdesc="Subscribe Channels"></a>
+         <a href="http://www.virtusa.com/blog" target="_blank"><img src="/images/interface/ico_blog.gif" alt="Virtusa Blog" border="0" longdesc="Virtusa Official Blog"></a> 
+         <a href="https://twitter.com/VirtusaCorp" target="_blank"><img src="/images/interface/ico_twitter.gif" alt="Virtusa Twitter" border="0" longdesc="Follow us"></a>
+        <a href="http://www.linkedin.com/companies/virtusa" target="_blank"><img src="/images/interface/ico_linkedin.gif" alt="Virtusa Linkedin" border="0" longdesc="Company Profile"></a> 
+        <a href="http://www.facebook.com/VirtusaCorp" target="_blank"><img src="/images/interface/ico_facebook.gif" alt="Virtusa facebook" border="0" longdesc="Become a Fan"></a>
+        <a href="/rssfeeds/default.asp"><img src="/images/interface/ico_rss.gif" alt="Virtusa RSS" border="0" longdesc="Subscribe Channels"></a>
        
    </div>
    
@@ -150,10 +264,23 @@
        </li>
       </ul>
       
-</div>
+              <div id="search_div">
+            <form action="/search/result.asp" method="post" onsubmit="return checkString()">
+                <input type="text" value="" id="inputString" onkeyup="lookup(this.value);" onblur="fill();" name="src" autocomplete="off" onkeypress="clickEvent(event)"> 
+                <input type="image" id="inputButton" src="/images/icons/search.png" value="Search">
+                <!-- hide our suggesetion box to begin with-->
+                <div class="suggestionsBox" id="suggestions" style="display: none;">
+                    <div class="suggestionList" id="autoSuggestionsList"></div>
+                </div>
+                
+                <input type="hidden" name="lookIn" value="">
+                
+            </form>
+            
+        </div></div>
    <div id="breadcrumbs">
-                    <ul>
-                        <li><a href="/" class="home">Home</a></li>                      
+                     <ul id="breadcrumbs_list" class="sf-bcmenu sf-js-enabled sf-shadow">
+                        <li><a href="/" class="home">Home</a>	</li>                        
             			<li class="currentpage">
             			  <p><strong>Privacy Statement </strong></p>
             			</li>
@@ -212,16 +339,21 @@
     <!-- end #mainContent -->
     <br class="clearfloat">
      
+
 <div id="icontoolbar">
-    <img src="/images/interface/print.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle"><a href="#" onclick="javascript:window.print()">Print this page</a>
-    <!--<img src="/images/interface/email.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle" /><a href="#">Email this page</a>-->
-    <img src="/images/interface/contact.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle">
-    <a href="/contactus">Contact Us</a>
-    
-     <img src="/images/interface/email.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle">
-  
-  <a href="/applications/sendpage/default.asp?purl=L3ByaXZhY3ktc3RhdGVtZW50LmFzcA&amp;iframe" class="download">Email this page</a>
+<ul class="report-icon">
+<li><img src="/images/interface/print.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle"><a href="#" onclick="javascript:window.print()">Print this page</a></li>
+<!--<img src="/images/interface/email.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle" /><a href="#">Email this page</a>-->
+<li> <img src="/images/interface/contact.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle"> <a href="/contactus">Contact Us</a> </li>
+
+<li><img src="/images/interface/email.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle"> <a href="/applications/sendpage/default.asp?purl=L3ByaXZhY3ktc3RhdGVtZW50LmFzcA&amp;iframe" class="download" id="icon_email">Email this page</a>
+
+</li><li class="report-problem"><a href="/btrc/default.asp?url=/privacy-statement.asp &amp;iframe" class="ajaxpopup" id="bug_report"></a></li>
+
+
+</ul>
 </div>
+
   </div>
   <div id="footer">
 	 <!-- <div id="footermainlinks">
@@ -231,11 +363,12 @@
     	<li><a href="http://www.virtusa.com/sustainability/" target="_blank"><img src="/images/interface/ico_sustainability.jpg" /></a></li>                
     </ul>
   </div>-->
-    
+    <div class="footer-left">
     <div id="links"><a href="/privacy-statement.asp" title="Privacy Statement">Privacy Statement</a> | <a href="/terms-conditions.asp" title="Terms of Use">Terms of Use</a></div>
-    <div id="statements"><b>©2010 Virtusa Corporation. All Rights Reserved. </b><br>
+    <div id="statements"><b>©2010 Virtusa Corporation. All Rights Reserved. </b></div>
+    
     </div>
-
+    
   <!-- end #footer --></div>
 <!-- end #container --></div>
 
@@ -246,34 +379,24 @@ _uacct = "UA-1275487-1";
 urchinTracker();
 </script>
 
-<script type="text/javascript">
-var _sf_async_config={uid:6517,domain:"virtusa.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-       "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-
-</script>
-
 <!--Start VisitorTrack Code 4.0-->
 <script type="text/javascript">
 imgsrc = location.protocol + '//www.visitortracklog.com/loghit.asp?id=105887&vr=4.0&rp=' + escape(document.referrer) + '&pa=' + escape(document.URL);
 document.write('<img border="0" alt="" src="' + imgsrc + '">');
-</script><img border="0" alt="" src="https://www.visitortracklog.com/loghit.asp?id=105887&amp;vr=4.0&amp;rp=&amp;pa=https%3A//web.archive.org/web/20100524122208id_/http%253A//www.virtusa.com/privacy-statement.asp">
+</script><img border="0" alt="" src="https://www.visitortracklog.com/loghit.asp?id=105887&amp;vr=4.0&amp;rp=&amp;pa=https%3A//web.archive.org/web/20101122082901id_/http%253A//www.virtusa.com/privacy-statement.asp">
 <!--End VisitorTrack Code-->
 
+<!-- OPENTRACKER HTML START -->
+<!--<script src="http://script.opentracker.net/?site=www.virtusa.com"></script>-->
+<!--<noscript><a href="http://www.opentracker.net" target="_blank"><img src="http://img.opentracker.net/?cmd=nojs&site=www.virtusa.com" alt="web stats" border="0"></a></noscript>-->
+<!-- OPENTRACKER HTML END -->
+
+
+<!-- start tracker -->
+<script src="http://content.mkt51.net/lp/static/js/iMAWebCookie.js?87c962-12a145783f3-c6f842ded9e6d11c5ffebd715e129037&amp;h=www.pages05.net" type="text/javascript"></script>
+
+<!--end tracker -->
 
 
 
-<div id="fancy_overlay"></div><div id="fancy_wrap"><div class="fancy_loading" id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></div></div></div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<div id="fancy_overlay"></div><div id="fancy_wrap"><div class="fancy_loading" id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></div></div></div></body></html>
