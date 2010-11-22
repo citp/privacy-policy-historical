@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526103611id_/http%3A//stocktrak.com/public/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122072731id_/http%3A//www.stocktrak.com/public/about/privacy.aspx) for the most accurate reproduction.*
 
 # Stock Market Simulation Software | Online Stock Simulator | Day Trading Online : Stock-Trak
 
