@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612194519id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081857id_/http%3A//kemba.org/privacy-notice.htm) for the most accurate reproduction.*
 
 # KEMBA: Privacy Notice
 
-[](https://www.everythingcu.com/switchkit/index.cfm?OrgID=720) [](https://cuonline.kemba.org/rates/Rates.aspx) [](https://loans.kemba.org/) [](https://kemba.mtgloanapp.com/) | 
+[](https://www.everythingcu.com/switchkit/index.cfm?OrgID=720)
+
+[](https://cuonline.kemba.org/rates/Rates.aspx) [](https://loans.kemba.org/) [](https://kemba.mtgloanapp.com/) [](http://www.bumpyourbank.com/)
+
+Quick Fact
+
+**Revolving Line-of-Credit**  
+• Available for any general business purpose  
+• Variable rates  
+• Access available through business checking account
+
+| 
 
 Our Privacy Notice is an important part of our commitment to provide you with the best financial and client service possible. We believe it is essential to clarify how KEMBA uses collected information, the benefits of such use and the way information is protected against unauthorized access and use. Your concern about the security of information relating to you and your accounts is understandable and we want to assure you that we are continuously taking steps to safeguard your personal information. It is also essential that you know that we do not sell customer lists or individual customer information to any third parties.
 
@@ -64,9 +75,11 @@ Information on the KEMBA website is intended for general adult audiences, not fo
 
 These privacy guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models and procedures are constantly being challenged and modified. Accordingly, this notice is subject to change. Any such changes will be posted on this page as appropriate.
 
-|  [](https://web.archive.org/atm.htm)   
-[](http://affiliates.cutspm.com/?cuid=kembac&pid=2&ptype=tto)
+|  [](https://web.archive.org/atm.htm) **Search the Website**  
+[](http://www.newkirk.com/onlinepub/oprs.cfm?key=163459)
 
 [](http://www.moneyandstuff.info/)
 
 [](https://www.harlandclarkegiftcard.com/index.cfm?clientkey=Liberty201496)
+
+[](http://www.sprintsave4cu.com/)
