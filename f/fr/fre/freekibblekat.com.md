@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freekibblekat.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519235049id_/http%3A//www.freekibblekat.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freekibblekat.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122172004id_/http%3A//freekibblekat.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Freekibblekat - Privacy Policy
 
@@ -27,4 +27,6 @@ Yes. Our site contains links to other sites that are not owned or
 controlled by us. Please be aware that we are not responsible   
 for the privacy practices of such other sites.  
   
-227,852,170 pieces of kibble donated since April 1, 2008
+309,639,810 pieces of kibble donated since June 1, 2008
+
+[](http://www.freekibble.com/redirect.asp?go=320 "Halo")
