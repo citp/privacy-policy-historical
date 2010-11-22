@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googleconquest.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304203946id_/http%3A//googleconquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleconquest.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122210217id_/http%3A//googleconquest.com/privacy) for the most accurate reproduction.*
 
 # Google Conquest: Privacy
 
