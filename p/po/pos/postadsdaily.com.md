@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517001038id_/http%3A//postadsdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122142920id_/http%3A//postadsdaily.com/privacy.php) for the most accurate reproduction.*
 
-# Post Free Ads > Post Free Classified Ads > Free Ad Post
+# Post Free Ads > Post Free Classified Ads - Free Ads Posting
 
   
-[](http://www.postadsdaily.com/bannerclick.php?id=395)
+[](http://www.postadsdaily.com/bannerclick.php?id=236)
 
 ** PostAdsDaily.com Privacy Policy**
 
@@ -34,17 +34,11 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-**_More Great Sites to Join:_**   
-[Internet Marketing Forum](http://www.internetmarketerscommunity.com/) | [Best Text Ad Exchange](http://www.affiliate-traffic-builder.com/) | [Free Promo Codes](http://www.promocodetraffic.com/) | [Post Free Ads](http://www.postadsdaily.com/) | [Marketing Software](http://www.imsoftwaredownloads.com/)
-
-**_Recommended Sites:_**  
-[Affiliate Link Cloaker](http://www.clicklink.me/) | [Make Money Online](http://www.makemoneyonline.co.nz/) | [Viral Marketing](http://www.theviralaffiliate.com/) | [Web Designer](http://www.xweb.co.nz/) | [IM Highly Recommended](http://www.imhighlyrecommended.com/)   
-[Healthy Lifestyle](http://www.healthy-lifestyle.me/) | [Resell Rights Software](http://www.resellrightsoftware.com/)
+**_Recommended Sites:_** [Affiliate Link Cloaker](http://www.clicklink.me/) | [Make Money Online](http://www.makemoneyonline.co.nz/) | [Viral Marketing](http://www.theviralaffiliate.com/) | [Web Designer](http://www.xweb.co.nz/) | [Resell Rights Software](http://www.resellrightsoftware.com/) | [Internet Marketing Forum](http://www.internetmarketerscommunity.com/) | [Best Text Ad Exchange](http://www.affiliate-traffic-builder.com/) | [Post Free Ads](http://www.postadsdaily.com/)
 
 _***Want to own a profitable AdBoard website like this one?**_   
-Check out [ Minisite Design](http://www.coolsitegraphics.com/) & [ Profitable Websites For Sale](http://www.adsitesforsale.com/)
+Check out [ Minisite Design](http://www.coolsitegraphics.com/) & [ Profitable Membership Sites For Sale](http://www.adsitesforsale.com/)
 
-*Download this [Free PDF Report](http://www.membershipprofitsunleashed.com/downloads/MembershipProfitsUnleashed-FreeReport.pdf) on Creating Profitable Membership Websites.
-
+**_Our Sites Conditions:_** [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)   
 © Copyright 2010 **PostAdsDaily.com** _All Rights Reserved_  
-**_Our Sites Conditions:_** [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)
+
