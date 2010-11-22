@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypanelgroup.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528130848id_/http%3A//surveypanelgroup.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypanelgroup.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081208id_/http%3A//www.surveypanelgroup.com/privacy.php) for the most accurate reproduction.*
 
 # SURVEY PANEL GROUP: Get invitations to the best paid online surveys
 
