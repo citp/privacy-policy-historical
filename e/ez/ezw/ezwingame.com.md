@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304141428id_/http%3A//www.ezwingame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122050725id_/http%3A//www.ezwingame.com/privacy) for the most accurate reproduction.*
 
 # Win Free, Win Big, Free Prizes, Free Giveaway Contests - EZWinGame
 
@@ -14,7 +14,25 @@ We are committed to keeping your personal information private. Please review our
 
 Please read the following general website Privacy Policy carefully before accessing the www.ezwingame.com website (the “Site”), uploading any content or comments or entering any service, audition, competition, or promotion at the Site, so that you are aware of your legal rights and obligations with respect to the Site or EZWin Game LLC and its sponsors, advertisers, affiliates, parents and subsidiaries (individually and collectively, "we," "us," “our,” or "EZWin"). 
 
-Visitor access to this Site and the Services (as defined below) is void and unauthorized where prohibited by applicable law or regulation. 
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.ezwingame.com/seal_m "Validate TRUSTe privacy certification")
+
+Ezwingame has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with  
+<http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>
+
+including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+
+EZWin Game LLC
+
+6400 N. Andrews Avenue, Suite #320
+
+Ft. Lauderdale, FL 33309
+
+info@ezwingame.com
+
+If you are not satisfied with our response you can contact   
+<http://watchdog.truste.com/pvr.php?page=complaint>
+
+Visitor access to this Site and the Services (as defined below) is void and unauthorized where prohibited by applicable law or regulation.
 
 **BY USING THIS SITE OR USING OUR SERVICES, INCLUDING PARTICIPATING IN ANY SWEEPSTAKES OR GAMES ON OUR SITE,  
 YOU (I) SIGNIFY YOUR IRREVOCABLE ACCEPTANCE OF THIS PRIVACY POLICY; AND (II) REPRESENT THAT YOU ARE OF LEGAL AGE TO AGREE TO THIS POLICY. **
@@ -43,7 +61,7 @@ Unless stated otherwise, our current Privacy Policy applies to all information t
 
 
 
-  1. **Description of the Site.** EZWin and the Site allow registered users (“Players”) to play Games for Prizes on the Site by guessing the lowest unique number among all other Players participating in each Game. The Site shall, now or in the future, integrate the ability of Players to play, engage and interact online and on mobile devices (the “Services”). The term Service(s) shall include all Services including Online and Mobile Services as well as Sweepstakes, Games, Contests, user interaction, content Submissions and all any other promotional activities.
+  1. **Description of the Site.** EZWin and the Site allow registered users ("Players") to play Games for Prizes are based on free sweepstakes with members having free particpation for each Game. The Site shall, now or in the future, integrate the ability of Players to play, engage and interact online and on mobile devices (the "Services"). The term Service(s) shall include all Services including Online and Mobile Services as well as Sweepstakes, Games, Contests, user interaction, content Submissions and all any other promotional activities.
 
 
 
@@ -115,31 +133,42 @@ We follow generally accepted industry standards to protect the personal informat
 
 Third parties may unlawfully attempt to intercept or access transmissions or private communications and other Members and/or visitors may abuse or misuse your personal information that they collect from the Site. Although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-  6. **Individuals under 13 years of age.**
-
-Pursuant to the provisions of the 1998 Federal Children’s Online Privacy Protection Act (“COPPA”), our policy is to refuse individuals under the age of 13 years of age to submit information to the Site or to use the Services. We therefore do not knowingly collect personal information from individuals under the age of 13 years of age. 
+  6. **Does EZWin Use Cookies?** We use cookies for our own advertising purposes. We may use third-party advertising technology to serve ads when you visit the Site and sites upon which we advertise. This technology uses information about your visits to the Site and the sites upon which we advertise, (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we may use web beacons, provided by our ad serving partner, to help manage our online advertising. These web beacons enable our ad server to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our Site. 
 
 
 
-  7. **Does EZWin Use Cookies?** We use cookies for our own advertising purposes. We may use third-party advertising technology to serve ads when you visit the Site and sites upon which we advertise. This technology uses information about your visits to the Site and the sites upon which we advertise, (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we may use web beacons, provided by our ad serving partner, to help manage our online advertising. These web beacons enable our ad server to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our Site. 
+  7. **How do you change PII provided or OPT-OUT?** EZWin gives Members an option for modifying or removing their information from our database. To update, modify or delete the information that we have on file for you account, contact us at _[info@ezwingame.com](mailto:info@ezwingame.com)_. We will comply with your requests as reasonably as we can. Please note that we require some PII for billing purposes. If you wish to delete your name, e-mail address or mailing address you may be required to terminate your account. However, please note, that while you may remove your PII from the site at any time, you acknowledge that we may retain archived or cached copies of your PII. Please submit any questions and requests regarding your PII submitted as part of an application to _[info@ezwingame.com](mailto:info@ezwingame.com)_
+
+  8. **Customer Testimonials/Comments/Reviews**
+
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+
+**Widgets**
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+
+**Import Contacts**
+
+You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
+
+**Facebook Connect**
+
+You can log in to our site using sign-in services such as Facebook Connect . These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 
 
-  8. **How do you change PII provided or OPT-OUT?** EZWin gives Members an option for modifying or removing their information from our database. To update, modify or delete the information that we have on file for you account, contact us at _[info@ezwingame.com](mailto:info@ezwingame.com)_. We will comply with your requests as reasonably as we can. Please note that we require some PII for billing purposes. If you wish to delete your name, e-mail address or mailing address you may be required to terminate your account. However, please note, that while you may remove your PII from the site at any time, you acknowledge that we may retain archived or cached copies of your PII. Please submit any questions and requests regarding your PII submitted as part of an application to _[info@ezwingame.com](mailto:info@ezwingame.com)_
+  8. By visiting the Site and/or using the Service, including, but not limited to making Sweepstakes or Game entries, you consent to the collection and use of information by us as set forth in this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes within this page so our visitors/users/Members are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 
 
-  9. By visiting the Site and/or using the Service, including, but not limited to making Sweepstakes or Game entries, you consent to the collection and use of information by us as set forth in this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes within this page so our visitors/users/Members are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+  9. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.Any material change in the Company's privacy practices will be posted on the web site under the privacy policy and the home page. Before any material changes will be implemented this change will be prominently on the home page posted on the Web site 30 calendar days prior to implementing the change.
 
 
 
 
 Be sure to review our Privacy Policy, T&Cs and any Rules regularly so that you will be aware of any changes to them. Please remember that your continued use of this Site, participation in any Sweepstakes, Game or other Promotion, utilization of our Mobile Services and/or maintenance of an account after changes or revisions have been made constitute your acceptance of such updates. 
 
-  10. If you have any questions about the Privacy Policy of the Site, please contact us at:
-
-
-
+If you have any questions about the Privacy Policy of the Site, please contact us at:
 
   
 EZWin Game LLC
