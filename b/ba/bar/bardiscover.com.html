@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bardiscover.com privacy policy that was archived on 2010-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513004939id_/http%3A//www.bardiscover.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bardiscover.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122140851id_/http%3A//www.bardiscover.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,8 +10,7 @@
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/jquery.js"></script>
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/thickbox.js"></script>
 <link href="http://cdn.firstlook.com/custom/images/thickbox.css" type="text/css" rel="stylesheet">
-
-<script language="javaScript" type="text/javascript">
+<script type="text/javascript">
 <!--
 var u = location.href;
 var idx = u.indexOf('?');
@@ -25,9 +24,19 @@ function StatusMsg(msgStr) {
 
 var tmpCat = "UNKNOWN";
 var tmpSubCat = "UNKNOWN";
+
+function linkclick(cmstag) {
+	var url = cmstag;
+	templatename = (typeof(templatename) != 'undefined') ? templatename : '';
+	currentLink = (typeof(currentLink) != 'undefined') ? currentLink : '';
+	subid = (typeof(subid) != 'undefined') ? subid : '';
+	if (templatename) url += '&tmp=' + templatename;
+	if (currentLink) url += '&type=' + currentLink;
+	if (subid.length > 0) url += "&subid=" + subid;
+	location.href = url;
+}
 //-->
 </script>
-
 </head>	
 
 <body class="sub">
@@ -77,6 +86,6 @@ var tmpSubCat = "UNKNOWN";
 
 </div><!--content-->
 </div><!--wrapper-->
-<img src="http://cms.trafficmp.com/tpix.gif?clid=dom0dd38ba79454eb28c20399b31a22b&amp;sid=a64d614d-62c7-40f4-bf73-c18d54a8082f" width="1" height="1">
+<img src="http://cms.trafficmp.com/tpix.gif?clid=domee7f007204d9fa4b7b896643a4782&amp;sid=b50abc55-0d4e-4a4a-a014-752d67eaa8ab" width="1" height="1">
 
 </body></html>
