@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106160826id_/http%3A//www.jiwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103848id_/http%3A//www.jiwire.com/privacy) for the most accurate reproduction.*
 
-# JiWire. The Leading Mobile Audience Media Channel & Wi-Fi Advertising Network
-
-## Privacy Policy
+# Privacy Policy - JiWire.com
 
 JiWire Inc. ("JiWire") is committed to a policy that respects your privacy and protects the personal information you submit to us. JiWire understands that you care how your personal information is used. This privacy notice describes our policies regarding certain information collected on-line or off-line (whether transmitted manually or electronically). In the course of providing our services or products, we may ask you to voluntarily submit to us information that can identify you (personally identifiable information) and we may otherwise collect certain anonymous information. If you agree to submit this type of information, you are consenting for us to use the information in accordance with the policies described in this notice. You should periodically visit this page as this notice may be modified from time to time to reflect changes in our policies.
 
@@ -87,11 +85,11 @@ Advertisers on our web site are allowed to gather information using cookies and 
 
 You may,
 
-a. _Request a copy of your personal information that we have collected by_ [contacting JiWire](https://web.archive.org/contact).
+a. _Request a copy of your personal information that we have collected by_ [contacting JiWire](https://web.archive.org/web/20101122103848id_/http%3A//www.jiwire.com/contact).
 
-b. _Request that your personal information be corrected or updated._ If you registered to use our web site, you may update your user profile at www.JiWire.com (help with this process is available by [contacting JiWire](https://web.archive.org/contact)). If you desire to correct or update the information you provided to us when you registered for a Registration Key, then when you sign in, on the "MY JIWIRE / MEMBER DASHBOARD" page, under "Account Profile", click on the "Change My Profile" button, which will allow you to review and change your profile information.
+b. _Request that your personal information be corrected or updated._ If you registered to use our web site, you may update your user profile at www.JiWire.com (help with this process is available by [contacting JiWire](https://web.archive.org/web/20101122103848id_/http%3A//www.jiwire.com/contact)). If you desire to correct or update the information you provided to us when you registered for a Registration Key, then when you sign in, on the "MY JIWIRE / MEMBER DASHBOARD" page, under "Account Profile", click on the "Change My Profile" button, which will allow you to review and change your profile information.
 
-c. _Request that we delete your personal information._ If you wish for us to delete your personally identifiable information, send a request through our [contact form](https://web.archive.org/contact). We will remove your personally identifiable information from our files, except to the extent that it is necessary to achieve a legitimate business purpose (such as billing or complying with laws or regulations). If you request that we delete your personal information, you may experience some degraded performance on our site. If you request that we delete information your provided when you registered for a Registration Key, the license agreement between you and JiWire for the use of the applicable software will terminate and you must delete the software from your computer.
+c. _Request that we delete your personal information._ If you wish for us to delete your personally identifiable information, send a request through our [contact form](https://web.archive.org/web/20101122103848id_/http%3A//www.jiwire.com/contact). We will remove your personally identifiable information from our files, except to the extent that it is necessary to achieve a legitimate business purpose (such as billing or complying with laws or regulations). If you request that we delete your personal information, you may experience some degraded performance on our site. If you request that we delete information your provided when you registered for a Registration Key, the license agreement between you and JiWire for the use of the applicable software will terminate and you must delete the software from your computer.
 
 We want for our information about you to be accurate, complete, and current. Therefore, we encourage you to monitor your information on our site and to correct and update it as necessary.
 
@@ -109,7 +107,7 @@ Our business changes over time, and our privacy practices may be modified as our
 
 **10\. What if you have a question or concern about your information?**
 
-If you have a question or concern about the collection, use, or access to your information, about this privacy notice, or about any other aspects of JiWire.com, please contact us through our [contact form](https://web.archive.org/contact). Provide us with a thorough description of your question or concern and we will attempt to answer or resolve it. If our customer service department does not satisfy your concern, we will escalate your concern to appropriate management within JiWire.
+If you have a question or concern about the collection, use, or access to your information, about this privacy notice, or about any other aspects of JiWire.com, please contact us through our [contact form](https://web.archive.org/web/20101122103848id_/http%3A//www.jiwire.com/contact). Provide us with a thorough description of your question or concern and we will attempt to answer or resolve it. If our customer service department does not satisfy your concern, we will escalate your concern to appropriate management within JiWire.
 
 In the unlikely event that we cannot adequately address your concern, you and JiWire will attempt in good faith to resolve any bona fide dispute relating in any way to our collection, use, or handling of your personal information by confidential mediation under the CPR Mediation Procedure. Mediation of the dispute will be conducted on an agreed date by a single, agreed upon, independent mediator in San Francisco, California, or another agreed location. Any bona fide dispute not resolved within a reasonable period of time by discussion or mediation will be finally resolved by confidential arbitration in accordance with the CPR Institute for Dispute Resolution Rules for Non-Administered Arbitration by a sole arbitrator in San Francisco, California, or another agreed location. For more information about dispute resolution, see the procedures set forth in our [Terms of Service](https://web.archive.org/terms).
 
@@ -119,6 +117,4 @@ JiWire.com is not directed to children under the age of 13. We operate our site 
 
 **12\. Safe Harbor**
 
-JiWire is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor, visit the U.S. Department of Commerce's Safe Harbor web site [http://www.export.gov/safeharbor]. If you would like to contact JiWire directly about the Safe Harbor program, please contact us through our [contact form](https://web.archive.org/contact).
-
-Copyright © 2003-2009 JiWire, Inc. Patents pending. Wi-Fi® is a registered trademark of Wi-Fi Alliance. [Privacy Policy](https://web.archive.org/privacy) | [Terms of Service](https://web.archive.org/terms)
+JiWire is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor, visit the U.S. Department of Commerce's Safe Harbor web site [http://www.export.gov/safeharbor]. If you would like to contact JiWire directly about the Safe Harbor program, please contact us through our [contact form](https://web.archive.org/web/20101122103848id_/http%3A//www.jiwire.com/contact).
