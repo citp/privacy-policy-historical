@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiaprline.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524144452id_/http%3A//www.indiaprline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaprline.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122091204id_/http%3A//www.indiaprline.com/privacy) for the most accurate reproduction.*
 
-# Privacy | India PR Line : Indian Press Release | Press Release India distribution | Free Press Release | Indian press release | online press release | India PR release | Indian Pr sites | media | news
+# Privacy | Free Press Release India distribution | Free Press Release | Indian press release | online press release | India PR release | Indian Pr sites | media | news
 
 ## Privacy Policy of IndiaPRLine.com ****
 
