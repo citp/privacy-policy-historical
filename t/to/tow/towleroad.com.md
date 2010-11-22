@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629044436id_/http%3A//www.towleroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122080316id_/http%3A//www.towleroad.com/privacy.html) for the most accurate reproduction.*
 
 # Gay Blog | Towleroad: More than gay news for more gay men.
 
-## [Home | ](https://web.archive.org/web/20100629044436id_/http%3A//www.towleroad.com/index.html)Page 2 | [ 3 | ](https://web.archive.org/web/20100629044436id_/http%3A//www.towleroad.com/main3.html)[ 4 |](https://web.archive.org/web/20100629044436id_/http%3A//www.towleroad.com/main4.html)
+## Privacy
 
-DATE
+2007
 
 ### Privacy Policy for www.towleroad.com
 
