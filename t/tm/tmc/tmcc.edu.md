@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619080826id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122085030id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Online Privacy Statement
 
