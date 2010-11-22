@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531102158id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122074854id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
-# Your Privacy and The Register | The Register
+# Your Privacy and The Register • The Register
 
-### The Register is owned and operated by Situation Publishing.
+### The Register is owned and operated by Situation Publishing Limited
 
-Situation Publishing   
-33 Glasshouse Street   
-London   
-W1B 1DG
+Situation Publishing Limited   
+26 Union Street   
+Southport   
+PR9 0QE
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
+
+The Register may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. The Register may employ trusted third party specialists to process and use your data on our behalf in order to deliver the products and services to you in a more efficient manner.
 
 ### IP Addresses and Server Logs
 
@@ -21,14 +23,16 @@ The Register site sets cookies in order to help with the management of its adver
 
 ### Advertising
 
-The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include DoubleClick, Atlas DMT and BlueStreak
+The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include DoubleClick, Atlas DMT and BlueStreak.
 
 These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
-The respective privacy policies of these ad servers can be found here :
+The respective privacy policies of these ad servers can be found here:
 
-[DoubleClick Privacy Policy](http://www.doubleclick.com/us/about_doubleclick/privacy/)   
-DoubleClick also has a cookie opt-out facility [here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/)   
+[DoubleClick Privacy Policy](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+
+DoubleClick also has a cookie opt-out facility [here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/)
+
 [Atlas DMT Privacy Policy](http://www.atlasdmt.com/privacy.aspx)
 
 If you encounter any problems with advertising please email [webmaster@theregister.co.uk](mailto:webmaster@theregister.co.uk)
@@ -40,6 +44,8 @@ Readers who choose to subscribe to our optional headlines-by-email service, or c
 If permission is granted, this information may be used to send occasional emails containing offers from our partners. This will only ever be provided to readers who have specifically given us permission to use their information in this way.
 
 The Register will never use your data for anything beyond the reason stated and the permissions you grant us. To alter the emails which you receive from us, including unsubscribing from all email communications, please [visit this page](http://account.theregister.co.uk/). Make sure that you enter exactly the same e-mail address as you used to sign up.
+
+Register journalists may use your email address to reply to comments that you have posted on our website.
 
 ### Competitions
 
@@ -55,14 +61,6 @@ The Register will never use your data for anything beyond the reason stated and 
 
 We reserve the right to publish emails and letters sent to The Register. If the sender asks that that we don't reveal his or her identity, that information won't be published. We never publish a private email address unless specifically asked to do so by its owner.
 
-### Cash'n'Carrion
-
-Our online store, Cash'n'Carrion, inevitably records some personal data, including names, addresses and credit card details.
-
-If permission is granted, this information may be used to target specific users with commercial services provided by The Register.
-
-If permission is granted, this information may be used to send occasional emails from the Register containing offers from our partners. This will be provided solely to readers who have specifically given us permission to use their information in this way.
-
 ### Third Parties
 
 The Register has partnered with other organisations to provide you with a number of service. All have their own privacy policies, which can be found here :-
@@ -75,21 +73,9 @@ The Register is currently conducting market research in conjunction with Quantca
 
 WorldPay provide The Register with their credit card processing facilities. [Privacy Policy](http://www.worldpay.com/guarantee/terms.shtml)
 
-### Expansys
+### IT Jobboard
 
-Expansys run The Register's Mobile and Wireless store. [Privacy Policy](http://www.expansys.com/terms.asp)
-
-### CV Library
-
-CV Library power the Reg Jobs job hunting service. [Privacy Policy](http://www.cv-library.co.uk/privacy.html)
-
-### Sirenic
-
-Sirenic run The Register's Mobile Reg Service. [Privacy Policy](http://www.sirenic.com/privacy.html)
-
-### Skinkers
-
-Skinkers run The Register's NewsAlerts Service. [Privacy Policy](http://www.skinkers.com/privacy.html)
+[theitjobboard.co.uk](http://www.theitjobboard.co.uk/) power the Reg Jobs hunting service. [Privacy Policy](http://www.theitjobboard.co.uk/browse/Privacy-and-Registration/en)
 
 ### Rackspace
 
@@ -97,11 +83,19 @@ Rackspace host The Register's websites. [Privacy Policy](http://www.rackspace.co
 
 ### Data Protection
 
-Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://account.theregister.co.uk/register/) or by contacting Philip Mitchell.
+Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://account.theregister.co.uk/register/) or by contacting The data controller (Caroline Wilson).
 
 ### "Reg Jobs" Jobs by Email
 
-Anyone signing up for the "Reg Jobs" Jobs by Email service will be providing their data to both The Register & CV Library. You can cancel or modify your Jobs by Email preferences at any time by visiting [this page](http://jobs.theregister.co.uk/cgi-bin/regcandlogin.cgi) and logging into your account.
+Anyone signing up for the "Reg Jobs" Jobs by Email service will be providing their data to both The Register & [theitjobboard.co.uk](http://theitjobboard.co.uk/). You can cancel or modify your Jobs by Email preferences at any time by visiting [this page](http://jobs.theregister.co.uk/cgi-bin/regcandlogin.cgi) and logging into your account.
+
+### Pricegrabber
+
+[Pricegrabber](http://www.pricegrabber.co.uk/info_disclaimer.php) runs our price comparison services.
+
+### Betanews
+
+They provide our software downloads section, their privacy policy [is here](http://www.betanews.com/privacy).
 
 ### Accessing your Data
 
@@ -115,16 +109,15 @@ As statutory and online requirements change so this policy document may change. 
 
 ### Contacting Situation Publishing Data Controller
 
-If you wish to contact Situation Publishing regarding any aspect of the Privacy Policy you should use the following contact details:
+If you wish to contact Situation Publishing Limited regarding any aspect of the Privacy Policy you should use the following contact details:
 
 ### By Post:
 
 The Data Controller   
-Situation Publishing   
-33 Glasshouse Street   
-London   
-W1B 1DG
+Situation Publishing Limited   
+26 Union Street   
+Southport PR9 0QE
 
 ### By Email
 
-[philip.mitchell@theregister.co.uk](mailto:philip.mitchell@theregister.co.uk)
+[cwilson@sitpub.com](mailto:cwilson@sitpub.com)
