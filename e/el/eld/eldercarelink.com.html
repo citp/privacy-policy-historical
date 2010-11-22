@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the eldercarelink.com privacy policy that was archived on 2010-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524195821id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eldercarelink.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122104214id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link href="styles/OrganicStyle.css" type="text/css" rel="stylesheet">  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link href="styles/OrganicStyle.css" type="text/css" rel="stylesheet">
+    <!-- Modal styles -->
+    <link href="styles/simpleModal.css" type="text/css" rel="stylesheet">    
+
     <!--[if IE 6]>
         <link href="styles/IE6.css" type="text/css" rel="stylesheet" />
     <![endif]-->
@@ -9,110 +12,195 @@
         <link href="styles/IE7.css" type="text/css" rel="stylesheet" />
     <![endif]-->
     
-    <link href="styles/article.css" type="text/css" rel="stylesheet">
-
-    <script src="js/jquery.js" type="text/javascript"></script>
-    <script src="js/bookmark.js" type="text/javascript"></script>  
-    <script src="/behaviour.js" type="text/javascript"></script>       
+    <link href="styles/validationEngine.jquery.css" type="text/css" rel="stylesheet">     
+    
+    <script src="js/jquery.intellisense.js" type="text/javascript"></script>
+   
+   <script language="javascript" src="js/jquery-1.4.2.js" type="text/javascript"></script>
+    <script src="js/bookmark.js" type="text/javascript"></script>
+    <script src="/behaviour.js" type="text/javascript"></script>
     <script src="/popunder.js" type="text/javascript"></script>
-    <script type="text/javascript" id="wa_u"></script> 
-    <script language="javascript" type="text/javascript" src="/hitslink_track.js"></script>  
-<script type="text/javascript">
-$(document).ready(function() {	
-	$('.surveyLink').click(function (e) {	    
-	    var url = $('.primaryPurposeOptions input:radio:checked').get(0);
-	    if(url != null)
-	    {
-            window.location =  url.value;
-            return false;
-        }
-        else
-            return true;        
-	});
-});
+    <script type="text/javascript" id="wa_u"></script>
+    <script src="/hitslink_track.js" type="text/javascript" language="javascript"></script>
+    <script src="js/jquery.simplemodal.js" type="text/javascript"></script>    
+    <script src="js/jquery.validationEngine-en.js" type="text/javascript"></script>
+	<script src="js/jquery.validationEngine.js" type="text/javascript"></script>
+	<script src="js/jquery.maskedinput.js" type="text/javascript"></script>		
+	<script src="js/json2.js" type="text/javascript"></script>	
+	<script src="js/dataCaptureService.js" type="text/javascript"></script>	
+	<script src="js/jquery.regex.js" type="text/javascript"></script>	
+    
+    
+    <link href="styles/article.css" type="text/css" rel="stylesheet">
+		
+    
+     <script type="text/javascript">
+        $(document).ready(function() {	
+	        $('.surveyLink').click(function (e) {	    
+	                var url = $('.primaryPurposeOptions input:radio:checked').get(0);
+	                if(url != null)
+	                {
+                        window.location =  url.value;
+                        return false;
+                    }
+                    else
+                        return true;        
+	         });
+        });
 
-</script>    
-<title>
+		function checkInput() {
+			if ($('#cse-search-box [name="q"]').val() == '') {
+				alert('You must enter a valid query.');
+				return false;
+			}
+		} 
+    
+    </script>    
+    
+     <script type="text/javascript">
+        $(document).ready(function () 
+        {
+            if($("#lnkJoinNetworkCta").lenght > 0)
+                $("#lnkJoinNetworkCta").validationEngine();
+                
+            if($("#lnkGuidance").lenght > 0)
+                $("#lnkGuidance").validationEngine();
+            
+            $("#lnkJoinNetworkCta").click(JoinNetworkCta);            
+            $("#lnkGuidance").click(Guidance);
+
+            $('.divJoinNetworkTY').hide();            
+
+			$('.cleanText').focus(function() {     
+		            $(this).val('');
+			    });            
+            
+            $(".phone").mask("(999) 999-9999");
+            
+        });
+    </script>    
+    
+     <script type="text/javascript">    
+           
+     function Guidance()
+         {             
+            var data = "{'emailAddress':'" + $("textGuidance").val() + "'}"; 
+            
+            RegisterAjaxECLModal(".guidance", data, "#basic-modal-content", "#lnkGuidance", "lnkGuidance", "lnkGuidanceDisabled");
+         }
+                  
+      function JoinNetworkCta()
+         {
+           var cp = $(".txtContactPersonCta").val();
+           var cn = $(".txtCompanyNameCta").val();
+           var em = $(".txtEmailCta").val();
+           var ph = $(".txtPhoneCta").val();
+                      
+           var data = "{\"contactPerson\":\""+cp+"\",\"companyName\":\""+cn+"\",\"email\":\""+em+"\",\"phone\":\""+ph+"\"}";
+           
+           RegisterAjaxECL("#divJoinNetworkCtaInput", data, ".divJoinNetworkCta", 
+                           ".divJoinNetworkTY", "#lnkJoinNetworkCta", "lnkJoinNetworkCta", "lnkJoinNetworkCtaDisabled");
+         }
+                
+   </script>
+   
+   <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        var tl_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" :
+        "http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
+        document.writeln('<scr' + 'ipt language="JavaScript" src="'+tl_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+        //]]>
+    </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+
+<meta name="description" content="ElderCarelink Privacy Policy"><meta name="keywords" content="ElderCarelink Privacy Policy"><meta name="title" content="ElderCarelink Privacy Policy"><title>
 	ElderCarelink Privacy Policy - www.ElderCareLink.com
 </title></head>
 <body>
-    <form name="aspnetForm" method="post" action="article.aspx?URI=%2fprivacy.htm" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+    <div id="container">
+        <div id="header">
+            <div id="logo">
+                <a href="/"><em>ElderCare</em>link</a>
+            </div>
+            <div id="areYouProvider">
+                <a href="/Go/network.htm"></a>
+            </div>
+            <div id="headerToolBar">
+                <div id="newsletter">
+                    <ul class="horizontalList">
+                        <!-- coming soon
+	                        <li class="first"><a href="#">Subscribe to our newsletter</a></li>
+	                        <li><a href="#">See past issues</a></li> 
+	                        -->
+                        
+                    </ul>
+                </div>
+                <div id="searchToolBar">
+                    <ul class="horizontalList">
+                        <li class="first"><a href="http://www.cnn.com/2008/HEALTH/family/03/20/ep.family.care/index.html#cnnSTCVideo">
+                            <div id="cnnLogo"></div></a></li>
+                        <li style="display: none;">
+                            <input id="searchText" type="text" value=""></li>
+                        <li class="last" style="display: none;">
+                            <input type="image" src="images/index_Header_search.jpg"></li>
+                    </ul>
+                </div>
+                <div id="bookmarkToolbar">
+                    <ul class="horizontalList">
+                        <!--coming soon
+                            <li class="first"><a href="#"><img alt="RSS" src="images/index_subscribeblog.jpg"/></a></li>
+                            <li><a href="#">Subscribe</a></li> -->
+                        <li><a href="#" class="jqbookmark">Add to Favorites</a></li>
+                        <li class="last"><a href="http://www.addthis.com/bookmark.php" target="_blank" onclick="addthis_url = 'http://www.eldercarelink.com'; addthis_title = 'Caring for an elderly loved one?'; return addthis_click(this);">
+                            <img src="http://s9.addthis.com/button1-bm.gif" alt="Add This Social Bookmark Button"></a></li>
+                    </ul>
+                </div>
+                <div id="googleSearch">
+                    <form action="http://www.eldercarelink.com/Go/search.aspx" id="cse-search-box">
+                    <input type="hidden" name="cx" value="012617363458268890500:sykar9rexti">
+                    <input type="hidden" name="cof" value="FORID:10">
+                    <input type="hidden" name="ie" value="UTF-8">
+                    <input type="text" name="q" size="19">
+                    <input type="submit" name="sa" onclick="return checkInput()" value="Search">
+
+                    <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+        <form name="aspnetForm" method="post" action="/Go/privacy.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 
 
-<script src="/Go/ScriptResource.axd?d=vwGJTx_MJxLPgXU-6v_WciP9GGUPjPWpRjGuGMv6O0YWK-AnH4AFw9lR2JPEeCnjMuH-Rg8u2-qdmHWcQf_2JVFf7xPLi9EMGbXjBZnGnco1&amp;t=ffffffffccdc2521" type="text/javascript"></script>
+<script src="/Go/ScriptResource.axd?d=JyGLVZ9i6zKhBk7g9XzfZgP8gbJxpfChUmSTo2UrDjKKtY7qR_UI-45W7x6PmC4XPdahdsgASy9O4KS7GacKtbQzoW8mScAmVu82wMa6w901&amp;t=ffffffffccdc2521" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="XUn1YfQl/AlkerZA4UzfXSrOAeY71wZB14Ly1e1G11h0zcSdGGUAYXg8EaVJ7Ew8UVdqLZk3CDy753FLnb1p2GGKZ2KFdXtV">
-    
-    
-    <div id="quickSurveyModalWindow">        
-       
-            <div id="dialog" class="window">        
-                <a id="close" href="#" class="close" title="Close"></a>
-                <iframe id="ctl00_Survey" width="830px" height="450px" src="http://www.eldercarelink.com/organicSurvey1.aspx?pp=1"></iframe>
-            </div>        
-            <!-- to fill -->
-            <div id="mask"></div>
-
-    </div>
-    
-    <div id="container">
-            <div id="header">
-                <div id="logo">
-                    <a href="/"><em>ElderCare</em>link</a>
-	            </div>
-	            <div id="headerToolBar">
-	                <div id="newsletter">
-	                    <ul class="horizontalList">
-	                        <!-- coming soon
-	                        <li class="first"><a href="#">Subscribe to our newsletter</a></li>
-	                        <li><a href="#">See past issues</a></li> 
-	                        -->
-	                        
-	                    </ul>
-                    </div>
-                    <div id="searchToolBar">
-                        <ul class="horizontalList">
-                            <li class="first"><a href="http://www.cnn.com/2008/HEALTH/family/03/20/ep.family.care/index.html#cnnSTCVideo"><img alt="" src="images/LandingPage_IndividualFacility_Cnn_Link.gif"></a></li>
-                            <li style="display:none;"><input id="searchText" type="text" value=""></li>
-                            <li class="last" style="display:none;"><input type="image" src="images/index_Header_search.jpg"></li>
-                        </ul>
-                    </div>
-                    <div id="bookmarkToolbar">
-                        <ul class="horizontalList">
-                            <!--coming soon
-                            <li class="first"><a href="#"><img alt="RSS" src="images/index_subscribeblog.jpg"/></a></li>
-                            <li><a href="#">Subscribe</a></li> -->
-                            <li><a href="#" class="jqbookmark">Add to Favorites</a></li>
-                            <li class="last"><a href="http://www.addthis.com/bookmark.php" target="_blank" onclick="addthis_url = 'http://www.eldercarelink.com'; addthis_title = 'Caring for an elderly loved one?'; return addthis_click(this);"><img src="http://s9.addthis.com/button1-bm.gif" alt="Add This Social Bookmark Button"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div> 	        
-            
-            <div id="mainNav">
-                <ul id="navMenu" class="horizontalList">
-                    <li class="first single"><a href="/">Home</a></li>
-                    <li><a href="/In-Home-Care" id="ctl00_InHomeCareLink">In-Home Care</a></li>
-                    <li><a href="/Adult-Day-Care" id="ctl00_AdultDayCareLink">Adult DayCare</a></li>
-                    <li><a href="/Assisted-Living" id="ctl00_AssistedLivingLink">Assisted Living</a></li>
-                    <li><a href="/Nursing-Homes" id="ctl00_NursingHomesLink">Nursing Homes</a></li>
-                    <li><a href="/Hospice-Care" id="ctl00_HospiceCareLink">Hospice Care</a></li>
-                    <li class="single"><a href="/Alzheimers-and-Dementia" id="ctl00_AlzheimersandDementiaLink">Alzheimer's</a></li>
-                    <li><a href="/Legal-and-Financial" id="ctl00_LegalandFinancialLink">Legal &amp; Financial</a></li>
-                    <li><a href="/Other-Resources" id="ctl00_ResourcesLink">Other Resources</a></li>
-                    <li class="last single"><a href="http://blog.eldercarelink.com">Blog</a></li>
-                </ul>
-            </div>
-            <div id="columns">
-                <div id="leftColumn">
-                    
-    <div id="surveyPlaceholder"></div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="qJo7BY5p59uN+WqVPlhxYwlJI5BZWGF9EkaS67CAOiN8yakIRp5ERc8YRqwL4q2WoGCycwAZk8eRr6TF4D9bwN6cUNM/dXRYOx/gOzBobxaOuoEXEB76keBliIZG0Z4vKofs0YIjql4=">
+        
+        <div id="mainNav">
+            <ul id="navMenu" class="horizontalList">
+                <li class="first single"><a href="/">Home</a></li>
+                <li><a href="/In-Home-Care" id="ctl00_InHomeCareLink">In-Home Care</a></li>
+                <li><a href="/Adult-Day-Care" id="ctl00_AdultDayCareLink">Adult DayCare</a></li>
+                <li><a href="/Assisted-Living" id="ctl00_AssistedLivingLink">Assisted Living</a></li>
+                <li><a href="/Nursing-Homes" id="ctl00_NursingHomesLink">Nursing Homes</a></li>
+                <!--<li><a href="/Hospice-Care" id="ctl00_HospiceCareLink">Hospice Care</a></li>-->
+                <li class="single"><a href="/Alzheimers-and-Dementia" id="ctl00_AlzheimersandDementiaLink">
+                    Alzheimer's</a></li>
+                <li><a href="/elder-mobility" id="ctl00_MobilityLink">Elder Mobility</a></li>
+                <li><a href="/Legal-and-Financial" id="ctl00_LegalandFinancialLink">Legal &amp;
+                    Financial</a></li>
+                <li><a href="/Other-Resources" id="ctl00_ResourcesLink">Other Resources</a></li>
+                <li class="last single"><a href="http://blog.eldercarelink.com">Blog</a></li>
+            </ul>
+        </div>
+        <div id="columns">
+            <div id="leftColumn">
+                
     <div id="crumbTrail">
         <a href="/">Home </a>  | ElderCarelink Privacy Policy
     </div>    
@@ -121,6 +209,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <div id="articleHead">
             
         </div>
+        <div id="ctl00_mainContent_articleLeader" class="articleLeader"></div>
         <div id="ctl00_mainContent_articleBlurb"><h2>
 	<strong>QuinStreet, Inc.</strong></h2>
 <h2>
@@ -305,122 +394,219 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     </div>
     
 
-                </div>
-                <div id="rightColumn">
-                    <div id="ctl00_quickSurvey" class="showRadio">
-                     <div id="divOrganicRadio">
-                        <h2 class="surveyFormTitle">
-                            Find eldercare services fast...</h2>
-                        <h2 class="surveyQuestion">
-                             What kind of care do you need?</h2>
-                        <h2 class="selectOpt">
-                            (select one)</h2>
+            </div>
+            <div id="rightColumn">
+                <div id="ctl00_quickSurvey" class="quickSurvey showRadio">
+                    <div id="divOrganicRadio">
+                        <div class="surveyTop"></div>
+                        <div class="surveyQuestion">What kind of care do you need?</div>
+                        <div class="selectOpt">(select one)</div>
                         <div class="primaryPurposeOptions">
+                               <span id="ctl00_rblPrimaryPurpose"><input id="ctl00_rblPrimaryPurpose_0" type="radio" name="ctl00$rblPrimaryPurpose" value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=0&amp;source=eclsite&amp;cpgn=privacy-long"><label for="ctl00_rblPrimaryPurpose_0">ElderCare Residence</label><br><input id="ctl00_rblPrimaryPurpose_1" type="radio" name="ctl00$rblPrimaryPurpose" value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=1&amp;source=eclsite&amp;cpgn=privacy-long"><label for="ctl00_rblPrimaryPurpose_1">Home Services and/or Adult Day Care Services</label><br><input id="ctl00_rblPrimaryPurpose_2" type="radio" name="ctl00$rblPrimaryPurpose" value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=2&amp;source=eclsite&amp;cpgn=privacy-long"><label for="ctl00_rblPrimaryPurpose_2">Both Eldercare Residence and In-Home Options</label><br><input id="ctl00_rblPrimaryPurpose_3" type="radio" name="ctl00$rblPrimaryPurpose" value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=3&amp;source=eclsite&amp;cpgn=privacy-long"><label for="ctl00_rblPrimaryPurpose_3">Medical Equipment and/or Eldercare Products</label><br><input id="ctl00_rblPrimaryPurpose_4" type="radio" name="ctl00$rblPrimaryPurpose" value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=4&amp;source=eclsite&amp;cpgn=privacy-long"><label for="ctl00_rblPrimaryPurpose_4">Advisory and/or Consultative Services</label></span>
+                        </div>
+                            <a href="http://www.eldercarelink.com/organicSurvey1.aspx?pp=1&amp;source=eclsite&amp;cpgn=privacy-long" id="ctl00_surveyLink" class="surveyLink">
+                                <img alt="" src="Images/index_form_next_button.jpg">
+                            </a>
+                        <div class="surveyBottom"></div>                        
+                    </div>
+                    <div id="divJoinNetwork">
+                       <div>
+                            <a href="http://www.eldercarelink.com/provider/providerapply.html">
+                                <img src="images/joinOurNetwork.png"></a>
+                        </div>
+                        <div id="ctl00_divJoinNetworkCta" class="divJoinNetworkCta">                            
 
-                                                        
-                            <input value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=0" name="ctl00$PrimaryPurpose" type="radio" id="ctl00_PrimaryPurposeOption1">ElderCare Residence<br>
-                            <input value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=1" name="ctl00$PrimaryPurpose" type="radio" id="ctl00_PrimaryPurposeOption2">Home Services and/or Adult Day Care Services<br>
-                            <input value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=2" name="ctl00$PrimaryPurpose" type="radio" id="ctl00_PrimaryPurposeOption3">Both Eldercare Residence and In-Home Options<br>
-                            <input value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=3" name="ctl00$PrimaryPurpose" type="radio" id="ctl00_PrimaryPurposeOption4">Medical Equipment and/or Eldercare Products<br>
-                            <input value="http://www.eldercarelink.com/organicSurvey1.aspx?pp=4" name="ctl00$PrimaryPurpose" type="radio" id="ctl00_PrimaryPurposeOption5">Advisory and/or Consultative Services<br>
-                        </div>
-                        <br>                                           
-                        <a href="http://www.eldercarelink.com/organicSurvey1.aspx?pp=1" id="ctl00_surveyLink" class="surveyLink"><img alt="" src="Images/index_form_next_button.jpg"></a>
-                        </div>
-                        <div id="divJoinNetwork">
-                            <a href="http://www.eldercarelink.com/provider/providerapply.html"><img src="images/JoinNetworkImage.png"></a>
-                        </div>
-                    </div>                    
+                            <div id="divJoinNetworkCtaInput">                               
+                                <span id="ctl00_lblContactPersonCta">Contact Person</span>
+                                <input name="ctl00$txtContactPersonCta" type="text" id="ctl00_txtContactPersonCta" class="validate[required,custom[onlyLetter]] txtContactPersonCta"><br>
+                                                                 
+                              
+                                <span id="ctl00_lblCompanyNameCta">Company Name</span>
+                                <input name="ctl00$txtCompanyNameCta" type="text" id="ctl00_txtCompanyNameCta" class="validate[required,custom[onlyLetter]] txtCompanyNameCta"><br>
+                                                                            
+                                
+                                <span id="ctl00_lblPhoneCta">Phone</span>
+                                <input name="ctl00$txtPhoneCta" type="text" id="ctl00_txtPhoneCta" class="validate[required] phone txtPhoneCta"><br>                                
+                                                                                             
+                              
+                                <span id="ctl00_lbltEmailCta">Email</span>
+                                <input name="ctl00$txtEmailCta" type="text" id="ctl00_txtEmailCta" class="validate[required,custom[email]] txtEmailCta">                                
+                                 
+                            </div>                            
+                            <p id="lnkJoinNetworkCta" class="lnkJoinNetworkCta">                            
+                        </p></div>
+                        <div id="ctl00_divJoinNetworkTY" class="divJoinNetworkTY" style="display: none;"></div>                           
+                    </div>
+                  
+                    <div id="divMobilityBanner">
+                        <script language="JavaScript">
+                            var zflag_nid = "203";
+                            var zflag_cid = "670150/507878/14";
+                            var zflag_sid = "7835";
+                            var zflag_width = "300";
+                            var zflag_height = "250"; 
+                            var zflag_sz = "9";
+                        </script>
+
+                        <script language="JavaScript" src="http://k.klert.com/jsc/dr/fl.js">
+                        </script>
+
+                        <noscript> 
+                            <a href="http://s.sigze.com/cgi/r?;n=203;c=670150/507878/14;s=7835;x=2304;f=201008301759450;u=j;z=TIMESTAMP" target="_blank"><img border="0" width="300" height="250" src="http://s.sigze.com/cgi/x?;n=203;c=670150/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here"></a> 
+                        </noscript>
+                    </div>                                      
                     
+                </div>
+                <div id="ctl00_defaultSection" class="showRadio">
+<a href="http://www.eldercarelink.com/downloads/Senior_living_conversation_guide.pdf"><img alt="Senior Living conversation guide" src="images/Senior_Living_conversation_guide.jpg"></a>
+                    <div id="ctl00_guidance" class="guidance">
+                            <h1>Get Free Guidance</h1>
+                            <h2>Sign up for our newsletter to get caregiving tips, advice, and more.</h2>
+                            <input name="ctl00$txtEmail" type="text" value="Your email address" id="ctl00_txtEmail" class="validate[required,custom[email]] cleanText textGuidance">                            
+                            <p id="lnkGuidance" class="lnkGuidance">                            
+                    </p></div>
+                    <div id="quinStreetBox">
+                        <script language="JavaScript">
+                            var zflag_nid="203"; 
+                            var zflag_cid="704540/507878/14"; 
+                            var zflag_sid="7835"; 
+                            var zflag_width="300"; 
+                            var zflag_height="250"; 
+                            var zflag_sz="9";
+                        </script>
+                        <script language="JavaScript" src="http://s.supiy.com/jsc/dr/fl.js"></script>
+                        <noscript> 
+                            <a href="http://b.blesp.com/cgi/r?;n=203;c=704540/507878/14;s=7835;x=2304;f=201011042149260;u=j;z=TIMESTAMP" target="_blank">
+                                <img border="0" width="300" height="250" src="http://b.blesp.com/cgi/x?;n=203;c=704540/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here">
+                            </a>
+                        </noscript>
+                    </div>
                     <div id="expertsAdvice">
-                        <h2 class="related">Ask an expert</h2>
+                        <h2 class="related">
+                            Ask an expert</h2>
                         <div id="expertAdvice">
-						<p>
-							<img src="images/rightimage.jpg" alt="expert">
-							<strong> Carol Bradley Bursack<br>
-							Editor-in-Chief <br></strong> <br>
-							<!--Over the span of two decades, author, columnist and speaker Carol Bradley Bursack cared for a neighbor and six elderly family members. Carol speaks at workshops and conferences and has been interviewed by national radio, newspapers and magazines.-->
+                            <p>
+                                <img src="images/rightimage.jpg" alt="expert">
+                                <strong>Carol Bradley Bursack<br>
+                                    Editor-in-Chief
+                                    <br>
+                                </strong>
+                                <br>
+                                <!--Over the span of two decades, author, columnist and speaker Carol Bradley Bursack cared for a neighbor and six elderly family members. Carol speaks at workshops and conferences and has been interviewed by national radio, newspapers and magazines.-->
+                                <a href="http://www.npr.org/templates/story/story.php?storyId=126167767">LISTEN NOW:
+                                    Hear Carol’s recent interview on NPR’s Talk of the Nation</a>
+                            </p>
+                            <p id="expertAdviceImages">
+                                <!--Temp-->
+                                <img class="npr" src="images/NPRLogo.jpg" alt="NPR">
+                                <!--Temp-->
+                                <a href="/contributors.htm" class="more">Read more&gt;</a>
+                            </p>
+                            <!--Temp-->
+                        </div>
 
-						<a href="http://www.npr.org/templates/story/story.php?storyId=126167767">LISTEN NOW: Hear Carol’s recent interview on NPR’s Talk of the Nation</a>
-						</p>
-						<p id="expertAdviceImages">	<!--Temp-->
-								<img class="npr" src="images/NPRLogo.jpg" alt="NPR">   <!--Temp-->                         
-								<a href="/contributors.aspx" class="more">Read more&gt;</a>
-						</p> <!--Temp-->			
-                    </div><br><br>
-                    
-                    <div id="partners">                        
-                    <!--<h2 class="related_without_border">Featured partners</h2>-->
-						<div class="partner">							
-							
-							<script type="text/javascript">
-                                var zflag_nid="203"; var zflag_cid="598014/509307/507878/14"; var zflag_sid="7835"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
-                           </script>
-                           <script type="text/javascript" src="http://v.veduy.com/jsc/dr/fl.js"></script>
+                        <div id="partners">
+                            <!--<h2 class="related_without_border">Featured partners</h2>-->
+                            <div class="partner">
 
-                           <noscript> <a href="http://z.zesep.com/cgi/r?;n=203;c=598014/509307/507878/14;s=7835;x=2304;f=201005071343080;u=j;z=TIMESTAMP" target="_blank">
-                            <img border="0" width="300" height="250" src="http://z.zesep.com/cgi/x?;n=203;c=598014/509307/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here" /></a>
-                           </noscript>
-								
-								<!--<a href="http://r.raoernt.com/cgi/r?;n=203;c=561965;s=7835;x=7936;f=201002121139080;u=j;z=TIMESTAMP;"
-									target="_blank"><img src="images/DiabeticConsumer.jpg" alt=""></a><br>
-								<a href="http://r.raoernt.com/cgi/r?;n=203;c=561965;s=7835;x=7936;f=201002121139080;u=j;z=TIMESTAMP;"
-									target="_blank">Diabetic Consumer</a>-->
-							
-						</div>
-						<!-- <div class="partner">
-							<p>
-								<a href="http://p.psdftxt.com/cgi/r?;n=203;c=561966;s=7835;x=7936;f=201002121141000;u=j;z=TIMESTAMP;"
-									target="_blank"><img src="images/GTSL_Mobility.jpg" alt=""></a><br>
-								<a href="http://p.psdftxt.com/cgi/r?;n=203;c=561966;s=7835;x=7936;f=201002121141000;u=j;z=TIMESTAMP;"
-									target="_blank">Guide to Senior Life</a>
-							</p>
-						</div>-->                        
+
+                                <!--<a href="http://r.raoernt.com/cgi/r?;n=203;c=561965;s=7835;x=7936;f=201002121139080;u=j;z=TIMESTAMP;"
+									    target="_blank"><img src="images/DiabeticConsumer.jpg" alt=""></a><br>
+								    <a href="http://r.raoernt.com/cgi/r?;n=203;c=561965;s=7835;x=7936;f=201002121139080;u=j;z=TIMESTAMP;"
+									    target="_blank">Diabetic Consumer</a>-->
+                            </div>
+                            <!-- <div class="partner">
+							    <p>
+								    <a href="http://p.psdftxt.com/cgi/r?;n=203;c=561966;s=7835;x=7936;f=201002121141000;u=j;z=TIMESTAMP;"
+									    target="_blank"><img src="images/GTSL_Mobility.jpg" alt=""></a><br>
+								    <a href="http://p.psdftxt.com/cgi/r?;n=203;c=561966;s=7835;x=7936;f=201002121141000;u=j;z=TIMESTAMP;"
+									    target="_blank">Guide to Senior Life</a>
+							    </p>
+						    </div>-->
+                        </div>
                     </div>
                 </div>
             </div>
+            <!-- modal content -->
+            <div id="basic-modal-content">
+	            <div id="imageHeader"><img align="" src="images/ModalLogo.jpg"></div>
+	            <div id="modalContent">
+		            <p>Thank you for signing up for our newletter. Your email has been added to our mailing list. To ensure that you receive our email, please add the following address to your address book.</p>									
+		            <p>customersupport@eldercarelink.com</p>
+		            <p>Note: if you do not receive our emails in your inbox, check your junk mail folder in case it was sent there by your spam filters.</p>								
+	            </div>
+            </div>
+
+            <!-- modal close button-->
+            <div id="clodeDiv">
+	            <img src="images/x.png" alt="">
+            </div>	
             <div id="footBanner">
+
                 <script language="JavaScript">
                     var zflag_nid="203"; var zflag_cid="566316/509307/507878/14"; var zflag_sid="7835"; var zflag_width="728"; var zflag_height="90"; var
                     zflag_sz="14"; var zflag_param="f=201001201522180";
                 </script>
+
                 <script language="JavaScript" src="http://e1.cdn.qnsr.com/jsc/e1/fl.js"></script>
+
                 <noscript>
-                    <a href="http://o1.qnsr.com/cgi/r?;n=203;c=566316/509307/507878/14;s=7835;x=3584;f=201001201522180;u=j;z=TIMESTAMP" target="_blank"><img border="0" width="728" height="90" src="http://o1.qnsr.com/cgi/x?;n=203;c=566316/509307/507878/14;s=7835;x=3584;u=j;z=TIMESTAMP" alt="Click here"></a>
+                    <a href="http://o1.qnsr.com/cgi/r?;n=203;c=566316/509307/507878/14;s=7835;x=3584;f=201001201522180;u=j;z=TIMESTAMP"
+                        target="_blank">
+                        <img border="0" width="728" height="90" src="http://o1.qnsr.com/cgi/x?;n=203;c=566316/509307/507878/14;s=7835;x=3584;u=j;z=TIMESTAMP"
+                            alt="Click here"></a>
                 </noscript>
             </div>
             <div id="footer">
-            <div id="footerImg"></div>
-            <div id="footerContent">
-                 <ul id="footerNav">
-                    <li><a href="/about.aspx">About Us</a></li>
-                    <li><a href="http://www.eldercarelinkdirectory.com" target="_blank">Caregiver Directory</a></li>                    
-                    <li><a href="/tos.htm" id="ctl00_TermsOfUseLink">Terms of Use</a></li>
-                    <li><a href="/network.htm" id="ctl00_BusinessLink" class="strong yellowText">Business Registration &gt;&gt;</a></li>
-                    <li><a href="/specialoffers.aspx">Special Offers</a></li>
-                    <li><a href="/privacy.htm" id="ctl00_PrivacyPolicyLink">Privacy Policy</a></li>
-                    <li><a href="/network.htm" id="ctl00_JoinOurNetworkLink" class="strong yellowText">Join Our Network &gt;&gt;</a></li>
-                    <li><a href="/provider/listing/" target="_blank">Listings</a></li>
-                    <li><a href="/sitemap.aspx">Site Map</a></li>
-                    <li id="ctl00_liProviderLoginFooter"><a href="/provider" class="strong">Provider Login</a></li>
-                    <li><a href="/contact.htm" id="ctl00_ContactUsLink">Contact Us</a></li>                   	    
-                </ul>
-                <div id="certificates">
-                <a href="http://www.ALFA.org" target="_blank"><img id="alfaImage" src="images/ALFA_Logo.png" border="0" style="MARGIN-LEFT:10px"></a>
-                <a href="http://www.bbbonline.org/cks.asp?id=105042594048" target="_blank"><img src="images/ReliabilitySeal4.gif" alt="" hspace="5" vspace="2" border="0" class="footer_bb_Logo"></a>
+                <div id="footerImg">
                 </div>
-                <div id="copyright">©Copyright 2004-2010 - <em>ElderCare</em>link a division of QuinStreet, Inc.</div>
+                <div id="footerContent">
+                    <ul id="footerNav">
+                        <li><a href="/about.aspx">About Us</a></li>
+                        <li><a href="http://www.eldercarelinkdirectory.com" target="_blank">Caregiver Directory</a></li>
+                        <li><a href="/tos.htm" id="ctl00_TermsOfUseLink">Terms of Use</a></li>
+                        <li><a href="/network.htm" id="ctl00_BusinessLink" class="strong yellowText">
+                            Business Registration &gt;&gt;</a></li>
+                        <li><a href="/specialoffers.aspx">Special Offers</a></li>
+                        <li><a href="/privacy.htm" id="ctl00_PrivacyPolicyLink">Privacy Policy</a></li>
+                        <li><a href="/network.htm" id="ctl00_JoinOurNetworkLink" class="strong yellowText">
+                            Join Our Network &gt;&gt;</a></li>
+                        <li><a href="/provider/listing/" target="_blank">Listings</a></li>
+                        <li><a href="/sitemap.aspx">Site Map</a></li>
+                        <li id="ctl00_liProviderLoginFooter"><a href="/provider" class="strong">Provider
+                            Login</a></li>
+                        <li><a href="/contact.htm" id="ctl00_ContactUsLink">Contact Us</a></li>
+                    </ul>
+                    <div id="certificates">
+                        <a href="http://www.ALFA.org" target="_blank">
+                            <img id="alfaImage" src="images/ALFA_Logo.png" border="0" style="margin-left: 10px"></a>
+                        <a href="http://www.bbbonline.org/cks.asp?id=105042594048" target="_blank">
+                            <img src="images/ReliabilitySeal4.gif" alt="" hspace="5" vspace="2" border="0" class="footer_bb_Logo"></a>
+                    </div>
+                    <div id="copyright">
+                        ©Copyright 2004-2010
+                        - <em>ElderCare</em>link a division of QuinStreet, Inc.</div>
                 </div>
             </div>
-        </div>        
-    
+        </div>
+        
 
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
 //]]>
 </script>
-    
+</form>
+		<div id="footer_ssl">
+		    <!--
+		    TrustLogo Html Builder Code:
+		    Shows the logo at URL http://www.eldercarelink.com/images/tl_transp.gif
+		    Logo type is  ("SC4")
+		    undefined
+		    //-->
+		    <a href="http://www.instantssl.com" id="comodoTL">SSL</a>
+		    <script type="text/javascript">TrustLogo("http://www.eldercarelink.com/images/tl_transp.gif", "SC4", "none");</script>
+		</div>
 
 
-</div></form></body></html>
+</div></body></html>
