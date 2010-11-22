@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7screensavers.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605064154id_/http%3A//7screensavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7screensavers.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122070518id_/http%3A//www.7screensavers.com/privacy-policy) for the most accurate reproduction.*
 
 # 7Screensavers.com - Privacy Policy
 
