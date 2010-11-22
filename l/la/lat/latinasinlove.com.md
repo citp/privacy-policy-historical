@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the latinasinlove.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218082419id_/http%3A//www.latinasinlove.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinasinlove.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082804id_/http%3A//www.latinasinlove.com/Home/Privacy) for the most accurate reproduction.*
 
-# Untitled Page
-
-Privacy Policy
+# Privacy statement latinas in love
 
 This statement discloses the information gathering process and the privacy and dissemination practices for the LatinAffairs.com Web site. LatinAffairs.com has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy. LatinAffairs.com is an internet singles portal designed to provide an easy way to meet other singles on the internet. None of the information requested can be used by the public to identify a specific individual. This includes visitors, other members, anyone not employed by LatinAffairs.com, its corporate affiliates, or the financial institutions we use to process membership fees. LatinAffairs.com is a membership-based service that collects credit card numbers, addresses, and bank information only from those who choose to sign up as paid members. Any visitors to LatinAffairs.com may choose to browse the site, search the profiles and/or view any articles by signing up for a free trial membership. LatinAffairs.com's registration form requires users to provide contact information such as an email address and demographic information (such as age, or country). LatinAffairs.com contains links to other web sites and LatinAffairs.com is not responsible for the privacy practices or the content of such sites. Private, Public and Aggregate 
 
@@ -10,5 +8,4 @@ AGGREGATE This is information we collect that is not personally identifiable, su
 
 PUBLIC INFORMATION: Public information supplied by the user is intended to be viewed by registrants and subscribers to the site. This information is used by registrants and subscribers for searching and matching purposes. AGGREGATE: We use your server, IP address, and browser-type related information in the general administration of our website. It is not personally identifiable information and is not released to third parties. 
 
-Use of Cookies We currently use cookies to enchance the browsing expirience of our users. The cookie is a small piece of information that helps our server to identify the user. It could not be used to identify any personal information of the user.   
-
+Use of Cookies We currently use cookies to enchance the browsing expirience of our users. The cookie is a small piece of information that helps our server to identify the user. It could not be used to identify any personal information of the user. 
