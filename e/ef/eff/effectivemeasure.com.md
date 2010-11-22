@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectivemeasure.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526170003id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivemeasure.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122115618id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
 
 # Effective Measure - Privacy Policy
 
@@ -23,7 +23,7 @@ In providing Effective Measure to our customers, it is Effective Measure's polic
 
 If you would prefer, you can set you're your browser to reject cookies.
 
-In some limited cases, Effective Measure will utilise a Local Shared Object (a "Flash cookie") to help indentify a returning visitor to a website. You can clear out or completely disable your local shared object by [visiting this page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+In two specific cases, 1) When a visitor opts in to complete a demographic survey or 2) when they elect to Opt Out of measurement, Effective Measure will utilise a Local Shared Object (a "Flash cookie") to help identify the users preference and ensure compliance with Opt Outs and privacy wishes. You can clear out or completely disable your local shared object by [visiting this page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 Effective Measure customers use JavaScript tracking code provided by Effective Measure to track information about their web site visitors' activity. This code contacts Effective Measure's servers and receives a response.
 
