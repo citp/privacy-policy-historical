@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508205836id_/http%3A//verint.com/corporate/section2a.cfm%3Farticle_level2_category_id%3D3%26article_level2a_id%3D204) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081051id_/http%3A//verint.com/corporate/section2a.cfm%3Farticle_level2_category_id%3D3%26article_level2a_id%3D204) for the most accurate reproduction.*
 
 # Privacy Policy : Legal : About Verint : Verint
 
