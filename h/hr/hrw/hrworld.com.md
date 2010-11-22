@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrworld.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619001529id_/http%3A//www.hrworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrworld.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122083020id_/http%3A//www.hrworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
