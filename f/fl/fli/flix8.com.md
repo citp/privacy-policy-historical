@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flix8.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502004823id_/http%3A//www.flix8.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flix8.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122115654id_/http%3A//www.flix8.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Flix8.com
 
