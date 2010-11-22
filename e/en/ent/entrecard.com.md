@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrecard.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608213532id_/http%3A//entrecard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrecard.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122015815id_/http%3A//entrecard.com/privacy.html) for the most accurate reproduction.*
 
 # Entrecard
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 We are committed to protecting the privacy and security of the users of our sites. This privacy policy is designed to help you understand how we collect, use and protect the personal information you choose to share when using our sites, and what choices you have concerning our use of such information. By using or accessing our sites, you are accepting the practices described in this privacy policy. Please read it carefully. From time to time, we may need to change this privacy policy in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what types of information we collect, how we might use that information, and whether we will disclose that information to anyone else. Please refer back to this policy regularly.
 
-If you have any questions or concerns about our privacy policy or practices, please e-mail us at: [support@Entrecard.com](https://web.archive.org/web/20100608213532id_/http%3A//entrecard.com/support@Entrecard.com).
+If you have any questions or concerns about our privacy policy or practices, please e-mail us at: [support@Entrecard.com](https://web.archive.org/web/20101122015815id_/http%3A//entrecard.com/support@Entrecard.com).
 
 **Scope of Privacy Policy**  
 This privacy policy applies to your use of all of the sites and services owned or operated by Entrecard.com, and affiliated companies (collectively "Entrecard" or "we," "us," or "our"), including www.Entrecard.com and any other site that we own or operate (collectively, the "Entrecard Sites"). Unless we say otherwise, all references to the Entrecard Sites in this policy include all such sites.
