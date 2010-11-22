@@ -1,20 +1,30 @@
-> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106032907id_/http%3A//ferenc.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092046id_/http%3A//ferenc.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Ferenc Ecseki Photography Blog’s Commitment To Your Privacy**  
-Your privacy is important to us. To better protect your online privacy we present this summary outlining our information gathering procedures and the options you have about the way your personal and business data is collected and used. This policy is easy to find in the footer section of every page.
+  
 
-**Personal Information We Collect**  
-This Privacy Policy applies to all information collected or submitted on Ferenc Ecseki Photography Blog website. There is no personal information collected during account registration because user signup is disabled.
 
-**Collection of Website Visitor Information**  
-At the time of visiting Ferenc Ecseki Photography Blog, the IP address used will be logged along with the dates and times of visit. This information is only collected for the purpose of web trends analysis, tracking of visitor’s page views, and gathering broad demographic information.  
-Most importantly, IP addresses are not linked to personally identifiable information.
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Links To Third Party Websites**  
-Ferenc Ecseki Photography Blog contain outbound links for your reference. We are not responsible for the privacy policies and the content on these websites.
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-**Alterations to This Privacy Statement**  
-The content of this statement may be altered at any time.  
-Have a question? Please use the Contact Form provided.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html>.  
+Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Ferenc Ecseki Photography Blog has no access or control over these cookies that may be used by third party advertisers.
+
+**Collection of Personal Information**  
+When visiting Ferenc Ecseki Photography Blog, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+**Links to Third Party Websites and Affiliate Sites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+Some of these links point to third party affiliate programs which are there for monetization and provide payment to Ferenc Ecseki Photography Blog upon you purchasing their products and or services. While not all outgoing links on this website are affiliate links you should consider all links you click on as affiliate links especially which are in placed in posts which are involved product or service recommendations.  
+There may also be affiliate-linked image ads with some posts.
+
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.  
+If you have any questions regarding the privacy policy of Ferenc Ecseki Photography Blog feel free to contact us.
