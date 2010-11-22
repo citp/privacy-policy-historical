@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames.ws privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126033704id_/http%3A//www.freegames.ws/freegames_legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.ws privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122173145id_/http%3A//freegames.ws/freegames_legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Computer Games at freegames.ws - Play online arcade, board, puzzles, 3D car games for free
 
@@ -43,7 +43,9 @@ When you link to another site, you are no longer on our site and are subject to 
   
 **Advertising**  
 Third Party Advertising  
-Some of the ads appearing on this Web site are delivered to you by our Web advertising partners. Some advertisers use information about your visit to this site to serve ads to you on our pages. For more information about advertising, cookies, and how to "opt-out", please contact the respective advertiser. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here = http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+
+For more information about advertising, cookies, and how to "opt-out", please contact the respective advertiser. 
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.   
