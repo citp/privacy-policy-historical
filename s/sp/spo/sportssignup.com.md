@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522123335id_/http%3A//www.sportssignup.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122090654id_/http%3A//www.sportssignup.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SportsSignup Privacy Policy
 
@@ -31,7 +31,7 @@ The information collected will not be shared with any party other than the autho
 
 Registrant information is protected by a password that Registrant chooses.  Users should assure that the password selection is not obvious (name, address, etc.) and should change it periodically.
 
-Registrant information is stored in Microsoft's SQL Server Database, which supports industry standard security.  The Database is hosted by Logical Net, a top-grade hosting company and Microsoft Certified Partner. Logical Net uses the latest technologies available when ensuring data security and database availability. 
+Registrant information is stored in Microsoft's SQL Server Database, which supports industry standard security.  The Database is hosted by Rackspace, a top-grade hosting company and Microsoft Certified Partner. Rackspace uses the latest technologies available when ensuring data security and database availability. 
 
 ####  **Updating/Correcting Personal Information**
 
@@ -45,14 +45,14 @@ We use session ID cookies. We use session ID cookies to make it easier for you t
 
 #### Credit Card Information
 
-When Registrants use the SportsSignup system to make payment via credit card, the payment information is entered on a secure web page, using SSL encryption (see Web Security section) and processed via the Customer’s merchant account. Only the last 4 digits of the credit card number are stored in the SportsSignup system. The Customer name (e.g. Springfield Soccer League”) will appear on the Registrant’s credit card statement.
+When Registrants use the SportsSignup system to make payment via credit card, the payment information is entered on a secure web page, using SSL encryption (see Web Security section) and processed via a merchant account. Only the last 4 digits of the credit card number are stored in the SportsSignup system. The Customer name (e.g. Springfield Soccer League”) will appear on the Registrant’s credit card statement.
 
 The SportsSignup system is PCI Complaint. SportsSignup is enrolled in Trustwave's Trusted Commerce program, a third party service provider, to validate compliance with the Payment Card Industry Data Security Standard (PCI DSS) mandated by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard Worldwide, Visa, Inc. and Visa Europe.   
 Trustwave's Trusted CommerceSM designation indicates that SportsSignup protects credit card and order information in accordance with payment card industry best practices. 
 
 ####  Social Security Numbers
 
-SportsSignup provides a service, called **KidSafe** _Plus_ , to help manage the background check process for Customer’s volunteers.  While it is understandable that consumers are reluctant to disclose their Social Security numbers, it is a crucial piece of information to help ensure the name being provided will match potential criminal records.  Social Security numbers are captured as part of a volunteer's profile, and passed on to ChoicePoint Corporation (via secure communications), who performs the background check.  The Social Security numbers are deleted from the SportsSignup system once the results are returned from ChoicePoint (often minutes after the user supplies the information).
+SportsSignup provides a service, called **KidSafe** _Plus_ , to help manage the background check process for Customer’s volunteers.  While it is understandable that consumers are reluctant to disclose their Social Security numbers, it is a crucial piece of information to help ensure the name being provided will match potential criminal records.  Social Security numbers are captured as part of a volunteer's profile, and passed on to LexisNexis (via secure communications), who performs the background check.  The Social Security numbers are deleted from the SportsSignup system once the results are returned from LexisNexis (often minutes after the user supplies the information).
 
 #### **Testimonials**
 
@@ -81,4 +81,4 @@ League Sports Services LLC (dba SportsSignup)
 18 Division Street, Suite 302  
 Saratoga Springs, NY 12866
 
-This Privacy Policy was last updated on **June 2, 2009**
+This Privacy Policy was last updated on **October 20, 2010**
