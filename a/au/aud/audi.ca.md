@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audi.ca privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105114313id_/http%3A//www.audi.ca/ca/brand/en/tools/imprint/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audi.ca privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105035id_/http%3A//www.audi.ca/ca/brand/en/tools/imprint/privacy.html) for the most accurate reproduction.*
 
 # Audi Canada > Privacy
 
@@ -23,8 +23,7 @@ This Privacy Policy applies to all information collected or submitted on the aud
 • Address  
 • E-mail address  
 • Survey questions  
-• Phone number  
-• Credit card/Debit card information
+• Phone number
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected may include:
 
@@ -35,9 +34,11 @@ On some pages, you can submit information about other people. For example, if yo
 How We Use Information
     
 
+We use the personal information you provide for the purposes that we identify when we ask you to provide the information. 
+
 We use return e-mail addresses to answer the e-mail we receive. We may also use these e-mail addresses to provide order status and order tracking information, and to respond to queries.
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
+You can register with our website if you would like to receive our catalog as well as updates on our new products and services, in which case, we will use your e-mail address to provide you with these services.
 
 We may use non-identifying and aggregate information to better design our website and share with our advertising agencies. For example, we may tell an advertising agency that x number of individuals visited a certain area on our website, or that y number of men and z number of women filled out our registration form, but we would not disclose anything that could be used to personally identify those individuals. If you choose to register or receive products or materials from us, or to otherwise give us personal information, we may store some or all of that personal information and use it for marketing research and marketing purposes, which may include sharing it with Audi Authorized dealerships or with various suppliers that provide marketing, research, or other services for us. To enhance your experience on Audi brand websites, we might use information you provide to us through your My Audi account to pre-populate forms with your name, address, phone, and email address. If you choose to save information, such as a vehicle configuration, on our website(s), we may contact you to follow up on your interest in our cars. In such cases, we may employ an outside research company to call you on our behalf.
 
@@ -58,7 +59,12 @@ We may use "pixel tags", which are small graphic files that allow us to monitor 
 Our Commitment To Data Security
     
 
-Because your privacy is important to us, we have installed safeguards to secure the credit card information we collect online. Our e-commerce site uses Secure Sockets Layer (SSL) encryption technology supported by Microsoft Internet Explorer, Netscape Navigator/Communicator, and other popular browsers to protect your online transactions. SSL encrypts your credit card number, name, address, and phone number before they travel over the Internet. We also use additional technologies and measures to prevent unauthorized access or disclosure, maintain data accuracy, and ensure appropriate use of this information.
+Because your privacy is important to us,  we use additional technologies and measures to prevent unauthorized access or disclosure, maintain data accuracy, and ensure appropriate use of this information.
+
+ **Your Consent to Our Use of Your Information**  
+You have the choice of whether or not to give us your personal information. If you share your personal information, we will tell you why we are collecting it. Certain information is required, for example, to complete your order, or to respond to your requests, as noted above. Certain information, which may be requested for marketing purposes, may be identified as optional. By providing us your information, you agree to our using it for the purposes stated. In certain places or certain pages on our website, we will ask you specifically if you wish to receive further information or to be contacted by us, or a dealer in the future. At that time, we will note and abide by your preference.
+
+At any time, subject to legal restrictions, you may withdraw or change your consent to our use of your information, request us to delete it from our files, or notify us if you do not wish us to use your information for any purpose other than for the purposes specifically identified when you provided it to us (See How to Contact Us, below). Information collected through cookies and pixel tags may not be optional. We will inform you of the implications of withdrawing your consent.
 
 Our Commitment to Children's Privacy
     
@@ -69,3 +75,8 @@ How You Can Access or Correct Your Information
     
 
 For your information on the e-commerce site, you can access and maintain all your personally identifiable information that we collect online by visiting the Account Information section of our website. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+How to Contact Us
+    
+
+If you wish to change your consent to our use of your information, change your privacy preferences, or update your information, or if you have any questions or concerns about our Privacy Policy,
