@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holland.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525102907id_/http%3A//us.holland.com/e/13875) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holland.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081902id_/http%3A//us.holland.com/e/13875) for the most accurate reproduction.*
 
 # Holland.com : Holland.com Privacy Policy
 
