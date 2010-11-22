@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720032648id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094001id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,12 +14,14 @@ Our site's visitors should know that PromotionalCodes.com uses cookies to recogn
 
 It is also important for users to note that PromotionalCodes.com features links to various other retailer websites. We do this in order to make your online shopping experience faster and easier. After clicking on the featured retailer link you will be directed to the website of that retailer. Be aware that once on the linked website you are subject to the privacy policy of that retailer, not that of PromotionalCodes.com. PromotionalCodes.com has no control over those retailers' privacy policies. We thus encourage you to read their privacy policy statements upon entering their websites to make sure that you are comfortable with their policies. Since PromotionalCodes.com has no control over other merchant websites' policies we cannot be held responsible for the protection and privacy of any information you choose to disclose while visiting such sites and other sites not included in this privacy statement.
 
+Please note that, in some cases, an item was supplied by the manufacturer and / or a fee was paid for the review or content within the associated blogs.
+
 PromotionalCodes.com reserves the right to alter or remove this privacy policy at our discretion. To remain informed of any updates to this statement we recommend that you visit our privacy policy page from time to time.
 
 If you have any questions or comments regarding this statement please contact us at: [Support@SurfMyAds.com](mailto:Support@SurfMyAds.com) .
 
 **SurfMyAds.com, Inc.**  
-[http://www.SurfMyAds.com](http://www.surfmyads.com/)
+[SurfMyAds.com](http://www.surfmyads.com/)
 
 115 W. Figueroa Street  
 Santa Barbara  
