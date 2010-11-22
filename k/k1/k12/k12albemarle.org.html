@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the k12albemarle.org privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526140534id_/http%3A//www.k12albemarle.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the k12albemarle.org privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122163112id_/http%3A//www.k12albemarle.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 		<link rel="icon" href="/favicon.ico" type="image/ico">
@@ -10,10 +10,10 @@
                 <meta http-equiv="Expires" content="-1">
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
                 <meta http-equiv="imagetoolbar" content="no">
-		<meta http-equiv="Last-Modified" content="Wed, 26 May 2010 10:05:34  EST">
+		<meta http-equiv="Last-Modified" content="Mon, 22 Nov 2010 11:31:13  EST">
 		<meta name="Keywords" content="">
 		<meta name="Description" content="">
-		<meta name="Generator" content="SchoolCenter Version 8 - www.schoolcenter.com">
+		<meta name="Generator" content="TH(i)NQ Ed - SchoolCenter Web Tools Version 10.2.3 - www.thinqed.com">
 		<meta name="Copyright" content="2010 - Privacy Statement">
 		<style type="text/css">
 body						{ padding:0; border:0; margin:0; color:#000000; font: 10pt verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; background: #FFFFFF url(/images/backgrounds/1/background_411856808_1.jpg) left top;}
@@ -36,12 +36,12 @@ table.tabs                 { border-top:none; border-right:none; border-left:non
 .standard-01               { font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:10pt;}
 #adminButtons              { background:transparent; color:#FFFFFF; width:100%; padding:0; margin:0;}
 #skel-mid-center-cont      { background-color:transparent;}
-#skel-mid-vert-center-cont { background-color:transparent;}			p { margin-top: 0px; }
-            .sc-layout-1 {text-align: left; }
+#skel-mid-vert-center-cont { background-color:transparent;}div.skin-toolbar-offset-div-inner {
+	background-image: url(/images/backgrounds/1/background_411856808_1.jpg);
+}
 			p { margin-top: 0px; }
-            .sc-layout-2 {text-align: left; color: #000000; }
 			p { margin-top: 0px; }
-            .sc-layout-3 {text-align: left; color: #000000; }
+			p { margin-top: 0px; }
             .pipe-splitter {font-size:12pt; padding:0 0 0 4px;}
 #image-container         {float:left; width:800px; height:127px; background-color:transparent;}
 #image-tbl               {width:100%; height:100%;}
@@ -61,7 +61,7 @@ table.tabs                 { border-top:none; border-right:none; border-left:non
 #page                        { margin:0px; width:800px;}
 .page                        { margin:0px; width:800px;}
 #header                      { z-index:0; position:relative; }
-#main                        { z-index:1; position:relative; width:800px; border:0px; padding:0px; margin:0px;}
+#main                        { z-index:auto; position:relative; width:800px; border:0px; padding:0px; margin:0px;}
 #content-container           { clear:both;}
 #content                     { width:99%; height:99%; }
 #info-bar-container          { width:640px; float:left; clear:both; }
@@ -113,6 +113,8 @@ table.tabs                 { border-top:none; border-right:none; border-left:non
     function expandMenu(x, y) {} 
 	//-->
 </script>
+<script type="text/javascript" src="/education/includes/scripts/prototype.js"></script>
+<script type="text/javascript" src="/education/includes/scripts/jquery.js"></script>
 <script type="text/javascript" src="/education/includes/scripts/sc_proposals_ie.js"></script>
 <script type="text/javascript">
 	<!--//
@@ -128,7 +130,7 @@ table.tabs                 { border-top:none; border-right:none; border-left:non
     var int_section_id               = '5940';
     var int_display_section          = '';
     var int_user_id                  = '0';
-    var timeStamp                    = '1274882734';
+    var timeStamp                    = '1290443473';
     var ThisURL                      = '/education/components/scrapbook/default.php';
     var jsGo                         = '';
     var jsCat                        = '';
@@ -160,18 +162,41 @@ var browsr      = null;
 function scLoader() {
     obj_browser = new browserCheck();
     browsr = obj_browser;
+    obj_scribbon.adjustPage();
+    arr_thumb_imgs = $J(".thumb_sm, .thumb_md, .thumb_lg");
+										if (arr_thumb_imgs != null) {
+										  $J.each(arr_thumb_imgs, function(key, elm) {
+												elm.onclick = function() { window.open(elm.src.replace(/_thumb/i, "")); };
+											}); 
+										};
+    arr_thumb_imgs = $J(".thumb_sm, .thumb_md, .thumb_lg");
+										if (arr_thumb_imgs != null) {
+										  $J.each(arr_thumb_imgs, function(key, elm) {
+												elm.onclick = function() { window.open(elm.src.replace(/_thumb/i, "")); };
+											}); 
+										};
+    arr_thumb_imgs = $J(".thumb_sm, .thumb_md, .thumb_lg");
+										if (arr_thumb_imgs != null) {
+										  $J.each(arr_thumb_imgs, function(key, elm) {
+												elm.onclick = function() { window.open(elm.src.replace(/_thumb/i, "")); };
+											}); 
+										};
 }
 window.onload = scLoader;
 
 //-->
 </script>
 <script type="text/javascript" src="/education/includes/scripts/sc_main.js"></script>
+<script type="text/javascript" src="/education/includes/scripts/class.scribbon.js"></script>
 <script type="text/javascript" src="/education/includes/scripts/sc_video.js"></script>
 <script type="text/javascript" src="/education/includes/scripts/sc_navigation.js"></script>
+<link rel="stylesheet" href="/education/includes/styles/sc_frames.css" type="text/css">
 <link rel="stylesheet" href="/education/includes/styles/skins/v7/page.css" type="text/css">
 <link rel="stylesheet" href="/education/includes/styles/skins/v7/shared.css" type="text/css">
 <script type="text/javascript">
 	<!--//
+bit_scimage = 0;var obj_scribbon	= new ToolbarSCRibbon("skin-scribbon", 0, 2);
+var obj_organizer	= new SCRibbon("skin-organizer", 1);
 vidlink["/images/headers/5373/header_69929788_.swf"] = new Array(6);
 vidlink["/images/headers/5373/header_69929788_.swf"]["type"] = "swf";
 vidlink["/images/headers/5373/header_69929788_.swf"]["softFile"] = "/images/headers/5373/header_69929788_.swf";
@@ -192,6 +217,7 @@ pageTracker._trackPageview();
 	<!--//
 	//-->
 </script>
+<script type="text/javascript" src="/education/includes/scripts/sc_navgroup.js"></script>
 <style type="text/css"></style>	</head>
     <body>
     <div id="global-container">
@@ -234,17 +260,20 @@ pageTracker._trackPageview();
 							<td valign="top" class="skel-nav-cont">
 								<div id="skel-mid-left-cont">
 									<div id="skel-mid-left-block">
+<!-- Begin Nav -->
 
 <div id="nav-menu-container-4-0" class="nav-menu-outer-container-vertical-primary-float-4">
     <ul id="nav-menu-block-4-0" class="nav-menu-outer-block-vertical-primary-float">
-        <li id="nav-link-container-4-0-56079" class="nav-menu-link-container-vertical-primary-float">
-            <a href="../../components/scrapbook/default.php?sectiondetailid=56079&amp;" id="nav-link-4-0-56079" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-first nav-menu-auxilliary-link-vertical-item-primary-selected" style="padding-left:10px; padding-right:10px; ">Privacy Statement</a>
+        <li id="nav-link-container-4-0-71910" class="nav-menu-link-container-vertical-primary-float">
+            <a href="../../components/scrapbook/default.php?sectiondetailid=56079&amp;" id="nav-link-4-0-71910" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-first nav-menu-auxilliary-link-vertical-item-primary-selected" style="padding-left:10px; padding-right:10px; ">Privacy Statement</a>
         </li>
-        <li id="nav-link-container-4-0-56085" class="nav-menu-link-container-vertical-primary-float">
-            <a href="http://www.k12albemarle.org" id="nav-link-4-0-56085" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-last nav-menu-auxilliary-link-vertical-item-primary-unselected" style="padding-left:10px; padding-right:10px; ">Albemarle County Schools-Home</a>
+        <li id="nav-link-container-4-0-71916" class="nav-menu-link-container-vertical-primary-float">
+            <a href="http://www.k12albemarle.org" id="nav-link-4-0-71916" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-last nav-menu-auxilliary-link-vertical-item-primary-unselected" style="padding-left:10px; padding-right:10px; ">Albemarle County Schools-Home</a>
         </li>
     </ul>
 </div>
+
+<!-- End Nav -->
 
 									</div>
 									<div class="clear-both"></div>
@@ -255,14 +284,14 @@ pageTracker._trackPageview();
 								<div id="skel-mid-center-block">
 									<div id="info-bar-container">
 										<div id="info-bar-block">
-<div id="info-bar-date-block" class="standard-01">Wednesday, May 26, 2010</div>
+<div id="info-bar-date-block" class="standard-01">Monday, November 22, 2010</div>
 
 											<div class="clear-all"></div>
 										</div>
 									</div>
 									<div id="content-container">
 										<div id="content">
-<div style="width: auto;"><table id="sc-pageitem-47941" cellpadding="0" cellspacing="0" width="100%">    <tbody><tr>                    <td valign="top"><div class="sc-layout-1 "><span class="css-editor-pageitem-text css-editor-pageitem-text css-editor-pageitem-text-47941"></span></div></td>                </tr>            </tbody></table></div><div style="width: auto;"><table id="sc-pageitem-47943" cellpadding="0" cellspacing="0" width="100%">    <tbody><tr>                    <td valign="top"><div class="sc-layout-2 fontsize2"><span class="css-editor-pageitem-text css-editor-pageitem-text css-editor-pageitem-text-47943"><p><strong>Albemarle County Public Schools <br>Privacy Statement </strong></p>
+<div style="width: auto;"><table id="sc-pageitem-47941" cellpadding="0" cellspacing="0" width="100%">    <tbody><tr>                    <td valign="top"><span class="css-editor-pageitem-text css-editor-pageitem-text css-editor-pageitem-text-47941"></span></td>                </tr>            </tbody></table></div><div style="width: auto;"><table id="sc-pageitem-47943" cellpadding="0" cellspacing="0" width="100%">    <tbody><tr>                    <td valign="top"><span class="css-editor-pageitem-text css-editor-pageitem-text css-editor-pageitem-text-47943"><div style="text-align: left; color: #000000; font-size:13px;"><p><strong>Albemarle County Public Schools <br>Privacy Statement </strong></p>
 <p>"It is the policy of the Commonwealth of Virginia that personal information about citizens will be collected only to the extent necessary to provide the service or benefit desired; that only appropriate information will be collected; that the citizen shall understand the reason the information is collected and be able to examine their personal record which is maintained by a public body." </p>
 <p><strong>This web site: </strong></p>
 <p><em><strong>°</strong> </em>Does not require you to provide any personal information to download files or reports or to view any of our pages. <br><br><em><strong>°</strong> </em>May collect personal information that you voluntarily provide us in order to provide you with services or information you specifically request. Should you not desire to provide this personal information, we may be unable to provide you the services or information that you have requested. <br><em><strong><br>°</strong> </em>Will use information provided by you only for specified purposes that may include anonymous reports and summaries of the data collected. Your personal information will not be provided to any other person, entity or organization without your consent, unless required by law, court order or other valid legal process. </p>
@@ -270,19 +299,19 @@ pageTracker._trackPageview();
 <p><em><strong>°</strong> </em>Contains links to other sites. Neither the County of Albemarle nor Albemarle County Public Schools is responsible for the privacy practices or the content of such web sites. </p>
 <p><em><strong>°</strong> </em>Automatically logs technical information necessary to maintain system security and performance and to generate anonymous usage statistics. </p>
 <p>&nbsp;</p>
-<p>If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, please send an email to the <a href="mailto:webmanager@k12albemarle.org" target="_blank" title="email"><span style="color: #0033cc">Web Services Coordinator</span> </a>. </p></span></div></td>                </tr>            </tbody></table></div>
+<p>If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, please send an email to the <a href="mailto:webmanager@k12albemarle.org" target="_blank" title="email"><span style="color: #0033cc">Web Services Coordinator</span> </a>. </p></div></span></td>                </tr>            </tbody></table></div>
 <br>
 <a name="gotonew"></a>
 <form style="border:0px; margin:0px; padding:0px;" action="/education/components/scrapbook/default.php?sectiondetailid=56079&amp;#gotonew" method="post" name="form1" id="form1">
 <input type="hidden" id="newsort" name="newsort" value="2">
 </form>
 
-<div style="width: auto;"><table id="sc-pageitem-47942" cellpadding="0" cellspacing="0" width="100%">    <tbody><tr>                    <td valign="top"><div class="sc-layout-3 fontsize2"><span class="css-editor-pageitem-text css-editor-pageitem-text css-editor-pageitem-text-47942"><p align="center">
+<div style="width: auto;"><table id="sc-pageitem-47942" cellpadding="0" cellspacing="0" width="100%">    <tbody><tr>                    <td valign="top"><span class="css-editor-pageitem-text css-editor-pageitem-text css-editor-pageitem-text-47942"><div style="text-align: left; color: #000000; font-size:13px;"><p align="center">
 <span style="color: #ffffff">:::::</span>
 </p>
 <p align="center">
 <span style="color: #ffffff">:::::::::</span>
-</p></span></div></td>                </tr>            </tbody></table></div>
+</p></div></span></td>                </tr>            </tbody></table></div>
 
 										</div>
 									</div>
