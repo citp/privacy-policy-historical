@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517072119id_/http%3A//www.script4profit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122123919id_/http%3A//www.script4profit.com/privacy) for the most accurate reproduction.*
 
 # EGN Software : Privacy policy | MLM Script | Network Marketing | Reseller | Affiliate | HYIP | Downline Builder | Support System
 
@@ -60,6 +60,23 @@ EGN may update this policy. We will notify you about significant changes in the 
 |   
 ---  
   
+-. **EGN Premium Hosting**  
+
+
+Please check our hosting plans [here](http://script4profit.com/hosting "EGN Premium Hosting").. All of our hosting packages are optimized to work with our products. Surely a smart choice for those who seriously building a profitable online business.
+
+-. **Indonesian Independence Day Special Price**  
+
+
+To celebrate " **The 65th of Republic Indonesia Independence Day** "on 17th August 2010, EGN gives **Special Price of 10% - 40% discount** for every purchase. This special price only valid from egBusiness Pro 2.0 released  
+
+
+egBusiness Pro version 2.0 released with new features, bug fixes and improvements. Some changes are:
+
+  * Php 5.3.2 ready
+  * Added plugins: Additional field, Ban,Profile photo, Instant messenger
+  * Added feature: Administration over SSL , you can secure your Admin CP, M...
+
 -. **egBusiness Special price for April 2010**  
 
 
@@ -70,20 +87,8 @@ We reduce egBusiness price to **$119.60** instead of **$179.50** for April 2010 
 
 Improve tax setting, Please download the update and replace "modules/members_payment.php" with the new one. Thx.
 
--. **nXn autowithdrawal and nXn autopayment scripts are discontinued**  
 
-
-To our clients who had bought our nXn autowithdrawal and nXn autopayment script in the past,  we would like to announce you that nXn autowithdrawal and nXn autopayment are discontinued in development. We can switch your script to egBusiness with 50% discount, so you only need to pay 
-
--. **Update for egBusiness**  
-
-
-New update for [egBusiness](http://script4profit.com/egbusiness "egBusiness - Complete management Script") is available, you can see the details in members area. Thx
-
--. **Important update for egBusiness**  
-
-
-New update for script egBusiness is available. It is recommended to download this update. Please login to your account area to download this update. Thank you.  
+  
   
 [other news...](http://script4profit.com/news)  
   
