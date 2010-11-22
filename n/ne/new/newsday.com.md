@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122131052id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122230451id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -38,7 +38,7 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 Newsday does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Newsday has any information from or about anyone under 13, please contact us at the address listed below. 
 
-**California Privacy Rights**
+**[California](https://web.archive.org/topics/California) Privacy Rights**
 
 Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes. To make such a request, please send an email or write to us at the contact information below. 
 
@@ -48,7 +48,7 @@ We can be reached by contacting:
 
 Newsday LLC  
 235 Pinelawn Road  
-Melville, New York 11747-4250  
+[Melville](https://web.archive.org/topics/Melville%2C_NY), [New York](https://web.archive.org/topics/New_York%2C_NY) 11747-4250  
 [web@newsday.com](mailto:web@newsday.com)   
 
 
@@ -58,6 +58,6 @@ Newsday reserves the right to change this policy at any time. Please check this 
 
 **Governing law.**
 
-This policy and the use of Newsday.com are governed by New York law. Any claim related to Newsday.com or this policy shall be brought in a federal or state court in Nassau or Suffolk Counties, New York, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Newsday.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Newsday.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
+This policy and the use of Newsday.com are governed by New York law. Any claim related to Newsday.com or this policy shall be brought in a federal or state court in [Nassau](https://web.archive.org/topics/Nassau_County%2C_NY) or [Suffolk](https://web.archive.org/topics/Suffolk_County%2C_NY) Counties, New York, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Newsday.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Newsday.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
 
-Copyright © 2009, Newsday LLC. 
+Copyright © 2010, Newsday LLC. 
