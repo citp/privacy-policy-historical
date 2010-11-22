@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233115id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122013449id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 3D-Savers.com - Privacy Policy
 
@@ -46,15 +46,15 @@ If you have any questions or concerns about this 3D Savers Privacy Policy or its
 ---|---|---  
 | 
 
+**17.05.2010.**   Free 3D Windmill Screensaver - Gorgeous traditional Dutch windmill [**more**](https://web.archive.org/free-3d-windmill-screensaver.html)
+
+**08.02.2010.**   Around the World: Beijing - The Great Wall of China on your desktop! [**more**](https://web.archive.org/around-the-world-beijing.html)
+
 **06.05.2009.**   Free 3D Japan Screensaver has been released. [**more**](https://web.archive.org/free-3d-japan-screensaver.html)
 
 **23.03.2009.**   Free Underwater Life Screensaver added to our collection! [**more**](https://web.archive.org/underwater-life-screensaver.html)
 
 **24.01.2009.**   Free Hogwarts Screensaver has come out! [**more**](https://web.archive.org/free-hogwarts-screensaver.html)
-
-**01.12.2008.**   Christmas Night Screensaver added to our collection! [**more**](https://web.archive.org/christmas-night-screensaver.html)
-
-**10.11.2008.**   Free 3D Christmas Screensaver has come out! [**more**](https://web.archive.org/free-3d-christmas-screensaver.html)
 
 |   
 |  |   
