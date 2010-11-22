@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514214226id_/http%3A//fideliscare.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122131852id_/http%3A//www.fideliscare.org/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to FidelisCare.org!
 
