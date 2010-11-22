@@ -1,24 +1,43 @@
-> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004102id_/http%3A//www.easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122014013id_/http%3A//www.easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # easycontentunits.com : Privacy Policy
 
 |    
   
+
+
+## ECU USA now in beta  
+===================
+
+[](http://www.easycontentunits.com/join_usa.html)  
+[Join today](http://www.easycontentunits.com/join_usa.html), and get **free ECU USA Pro** for the duration of the beta period!
+
+## 100% Free Networks  
+===================
+
+Your links are shown 100% of the time.
+
+[](http://www.easycontentunits.com/link.php?id=12)  
+[](http://www.easycontentunits.com/link.php?id=6)
+
+## Revenue Share* Networks  
+===================
+
+*Your links are shown 80% of the time, and replaced with ours 20% of the time. Revenue share does not apply to [Pro members](http://www.easycontentunits.com/more/affiliate-pro/).
+
 [](http://www.easycontentunits.com/link.php?id=9)  
 [](http://www.easycontentunits.com/link.php?id=10)  
 [](http://www.easycontentunits.com/link.php?id=3)  
 [](http://www.easycontentunits.com/link.php?id=14)  
 [](http://www.easycontentunits.com/link.php?id=4)  
-[](http://www.easycontentunits.com/link.php?id=12)  
-[](http://www.easycontentunits.com/link.php?id=7)  
 [](http://www.easycontentunits.com/link.php?id=11)  
 [](http://www.easycontentunits.com/link.php?id=18)  
 [](http://www.easycontentunits.com/link.php?id=15)  
 [](http://www.easycontentunits.com/link.php?id=8)  
 [](http://www.easycontentunits.com/link.php?id=13)  
 [](http://www.easycontentunits.com/link.php?id=5)  
-[](http://www.easycontentunits.com/link.php?id=16)  
-[](http://www.easycontentunits.com/link.php?id=6)  
+[](http://www.easycontentunits.com/link.php?id=16)
+
 |  |   | 
 
 This is the web site of Big Idea Media Ltd.
