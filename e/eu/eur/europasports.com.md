@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europasports.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620180128id_/http%3A//www.europasports.com/register/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europasports.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122091729id_/http%3A//www.europasports.com/register/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Europa Sports Products >> Privacy Policy
 
@@ -36,7 +36,7 @@ Our registration forms may require financial information (like your account numb
 
 ##### Your Contact Information
 
-Your contact information is used to contact you when necessary in connection with transactions entered into by you on our Site. We also use customer contact information we collect in order to send you information and offers from our company and promotional material from some of our partners. You can opt in or out of this by updating your [profile](https://web.archive.org/web/20100620180128id_/http%3A//www.europasports.com/register/services/index.cfm). We carefully select the information we send and make sure that it offers real value to you, such as discounts, exclusive offers or information regarding new products available to the industry.
+Your contact information is used to contact you when necessary in connection with transactions entered into by you on our Site. We also use customer contact information we collect in order to send you information and offers from our company and promotional material from some of our partners. You can opt in or out of this by updating your [profile](https://web.archive.org/web/20101122091729id_/http%3A//www.europasports.com/register/services/index.cfm). We carefully select the information we send and make sure that it offers real value to you, such as discounts, exclusive offers or information regarding new products available to the industry.
 
 ##### Demographic Information 
 
@@ -59,7 +59,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ##### Update Your Member's Profile Information
 
-This Site gives users the opportunity to change and/or modify information you have provided to us through your Online Registration Process. You may access your profile [here](https://web.archive.org/web/20100620180128id_/http%3A//www.europasports.com/register/services/index.cfm).  
+This Site gives users the opportunity to change and/or modify information you have provided to us through your Online Registration Process. You may access your profile [here](https://web.archive.org/web/20101122091729id_/http%3A//www.europasports.com/register/services/index.cfm).  
 
 
 ##### Updating Your Member's Profile Information
@@ -68,11 +68,11 @@ Changing or updating your data through the your profile will only change the dat
 
 ##### Deleting Your Member's Profile Information
 
-To delete your account or any information regarding your account must either be done through the [Update Account](https://web.archive.org/web/20100620180128id_/http%3A//www.europasports.com/register/services/index.cfm) process or done over the phone when contacting our Customer Service Department (1.800.447.4795). This will delete the requested information from your account and may in turn revoke your Europasports.com Member's privileges. 
+To delete your account or any information regarding your account must either be done through the [Update Account](https://web.archive.org/web/20101122091729id_/http%3A//www.europasports.com/register/services/index.cfm) process or done over the phone when contacting our Customer Service Department (1.800.447.4795). This will delete the requested information from your account and may in turn revoke your Europasports.com Member's privileges. 
 
 #####  Register
 
-[Register](https://web.archive.org/web/20100620180128id_/http%3A//www.europasports.com/register/register.cfm) to gain access to our online catalog.
+[Register](https://web.archive.org/web/20101122091729id_/http%3A//www.europasports.com/register/register.cfm) to gain access to our online catalog.
 
 If you have any questions or concerns about this privacy statement, the practices of this Site, or your dealings with this Web site, you can contact us at **[web@EuropaSports.com](mailto:web@europasports.com).**
 
