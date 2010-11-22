@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524122208id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082901id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
