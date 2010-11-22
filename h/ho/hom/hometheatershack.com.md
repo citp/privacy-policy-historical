@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hometheatershack.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201090016id_/http%3A//www.hometheatershack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheatershack.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104947id_/http%3A//www.hometheatershack.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Home Theater Shack, LLC. - Privacy Statement** This Privacy Policy governs Home Theater Shack, LLC., (we or "hometheatershack.com") treatment of personally identifiable information that Home Theater Shack collects when you use the hometheatershack.com website (the "Website"). By visiting the Website, you accept this Privacy Policy. We may change this Privacy Policy at any time without any notice. We will post any changes here.
+**Home Theater Shack, LLC. - Privacy Statement** This Privacy Policy governs Home Theater Shack, LLC., (we or "hometheatershack.com" or "hometheatershackstores.com") treatment of personally identifiable information that Home Theater Shack collects when you use the hometheatershack.com website (the "Website"). By visiting the Website, you accept this Privacy Policy. We may change this Privacy Policy at any time without any notice. We will post any changes here.
 
 **1\. Information You Provide to Home Theater Shack.** We receive and store information that you provide on the Website. If you choose not to provide us with certain information, you will not be able to create an account, including, but not limited to, creating a member profile. If you provide your information to enter one of our giveaways and special promotions where you are the winning participant, we may use your information to announce your name and prize on the website, and/or correspondence to our members through electronic mail.
 
@@ -23,6 +23,6 @@ Google, a third party vendor, uses cookies to serve ads on our site. Google's us
 **7\. Contact Us.** If you have any concerns about privacy at Home Theater Shack or have questions about this Privacy Policy, please [contact us](http://www.hometheatershack.com/forums/sendmessage.php) with a thorough description of your concerns or questions. 
 
 Home Theater Shack, LLC.  
-Copyright 2006-2009  
+Copyright 2006-2010  
 John Mulcahy and Sonnie Parker  
 All Rights Reserved
