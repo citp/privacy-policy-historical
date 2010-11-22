@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lazypalace.com privacy policy that was archived on 2010-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608172129id_/http%3A//www.lazypalace.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lazypalace.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122141729id_/http%3A//www.lazypalace.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -38,9 +38,112 @@ jQuery(function(){
 jQuery('ul.superfish').superfish();
 });
 </script>
+
+<script type="text/javascript">
+var playedOnce = false;
+onYouTubePlayerReady = function(playerid) {
+   player = document.getElementById('ytvideo');
+   if (player.addEventListener){ player.addEventListener('onStateChange', 'youtubeEvent'); }
+}
+
+youtubeEvent = function(state) {
+   if (state == 1) {
+   if (!playedOnce) {
+   playedOnce = true;
+
+   pageTracker._trackEvent('nascar', 'unique_play_per_page');
+   }
+   pageTracker._trackEvent('nascar', 'play');
+   return;
+   }
+   if (state == 0) {
+   pageTracker._trackEvent('nascar', 'ended');
+
+   return;
+   }
+}
+</script>
+
+
 </head>
 
 <body>
+
+<script language="JavaScript"> 
+function hideDiv(id) {
+document.getElementById(id).style.display = "none";
+}
+window.onload = function()
+{
+	if(getCookie('divVisible')!='no')
+	{
+		document.getElementById('fbBox').style.display = "block";
+		document.getElementById('fbBoxContent').style.display = "block";
+	}
+}
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toUTCString());
+}
+</script> 
+
+
+
+<div id="fbBox" style="display: block;"></div>
+<div id="fbBoxContent" align="center" style="display: block;">
+	<table id="content">
+		<tbody><tr>
+			<td>
+			Don't forget to <a href="http://twitter.com/looneynetwork" target="_blank" rel="nofollow">FOLLOW US</a> on <a href="http://twitter.com/looneynetwork" target="_blank" rel="nofollow">Twitter</a>
+			</td>
+			<td>
+			<a href="http://twitter.com/looneynetwork" target="_blank" rel="nofollow"><img src="http://weirdworm.com/img/twitt2.png" border="0"></a>
+			</td>
+			<td>
+				- Become our fan and <a href="http://www.facebook.com/looneynetwork" target="_blank" rel="nofollow">follow us on Facebook</a> 
+			</td>
+			<td>
+				<iframe src="http://www.facebook.com/plugins/likebox.php?id=103616833032334&amp;width=292&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowtransparency="true"></iframe>
+			</td>
+			<td>
+			<table>
+			<tbody><tr>
+			<td>
+			</td>
+			<td title="Click x button to close frame" style="cursor: pointer; font-size: 24px; color: #fff; text-align:center; background:#494949; opacity: .7;" onclick="hideDiv('fbBox');hideDiv('fbBoxContent');setCookie('divVisible','no',1);">
+				&nbsp;x&nbsp;
+			</td>
+			<td>
+			</td>
+			</tr>
+			</tbody></table>
+			</td><td>
+				&nbsp;&nbsp;&nbsp;
+			</td>
+		</tr><tr>
+	</tr></tbody></table>
+</div>
+
+
 <div id="wrapper2">
 
 
@@ -50,7 +153,6 @@ jQuery('ul.superfish').superfish();
 <ul class="nav superfish" id="nav2">
 <li class="page_item"><a href="http://www.lazypalace.com" class="title" title="home again woohoo">Home</a></li>
 <li class="page_item page-item-92"><a href="http://www.lazypalace.com/about/" title="About">About</a></li>
-<li class="page_item page-item-406"><a href="http://www.lazypalace.com/links/" title="Links">Links</a></li>
 <li class="page_item page-item-94 current_page_item"><a href="http://www.lazypalace.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
 <li class="page_item page-item-526"><a href="http://www.lazypalace.com/terms-and-conditions/" title="Terms and Conditions">Terms and Conditions</a></li>
 </ul>
@@ -158,25 +260,12 @@ If you have any questions about this privacy statement, the practices of this si
 
      
 
-<div align="center" style="margin: 6px 0;">
-	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="270px" height="225px">	 
-		<param name="movie" value="http://www.lazypalace.com/baner2.swf"> 
-		<param name="quality" value="high"> 
-		<param name="wmode" value="transparent"> 
-		<!--[if !IE]> <--> 
-		<object data="http://www.lazypalace.com/baner2.swf" width="270px" height="225px" type="application/x-shockwave-flash"> 
-		 <param name="quality" value="high"> 
-		 <param name="wmode" value="transparent"> 
-		 <param name="pluginurl" value="http://www.macromedia.com/go/getflashplayer"> 
-		 <div style="width:270px; background:#ffffff">
-		 <h1>To play slots you need flash player. You can download it from <a href="http://get.adobe.com/flashplayer/">here.</a></h1>
-		</div>
-		</object> 
-	 
-		 <!--[endif]--> 
-	   </object>
-</div>
+<div style="margin-left: -20px; margin-bottom: 10px;">
+<!-- BEGIN STANDARD TAG - 300 x 250 - ROS: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://ad.clovenetwork.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=1420259"></iframe>
+<!-- END TAG -->
 
+</div>
 
 <div style="margin-left: -20px; margin-bottom: 10px;">
 
@@ -190,7 +279,7 @@ If you have any questions about this privacy statement, the practices of this si
 	<a href="http://www.weirdworm.com/" target="_blank"><img src="http://www.weirdworm.com/img/weird-worm.jpg" alt="Weird Worm - Weird And Bizarre" width="270px;"></a>
 </div>
 
-<div class="sidebar-box">
+<!--<div class="sidebar-box">
 <h2>Categories</h2>
 <ul>
 	<li class="cat-item cat-item-1"><a rel="nofollow" href="http://www.lazypalace.com/category/arts/" title="View all posts filed under Arts">Arts</a>
@@ -208,7 +297,7 @@ If you have any questions about this privacy statement, the practices of this si
 	<li class="cat-item cat-item-3"><a rel="nofollow" href="http://www.lazypalace.com/category/travel-and-places/" title="View all posts filed under Travel and Places">Travel and Places</a>
 </li>
 </ul>
-</div>
+</div>-->
 
 <div class="sidebar-box">           
 <h2>Friends</h2>
@@ -217,7 +306,7 @@ If you have any questions about this privacy statement, the practices of this si
 <li><a href="http://artsyspot.com" target="_blank">Artsy Spot</a></li>
 <li><a href="http://do-while.com" target="_blank">Do-While</a></li>
 <li><a href="http://www.dont-panic.co.uk" target="_blank">Dont Panic</a></li>
-<li><a href="http://existenz.se" target="_blank">Existenz</a></li>
+<li><a href="http://allfunny-stuff.com" target="_blank">Funny Pictures</a></li>
 <li><a href="http://www.paranormalhaze.com" target="_blank">Paranormal Haze</a></li>
 <li><a href="http://www.stellasmagazine.com" target="_blank">Stella's Magazine</a></li>
 <li><a href="http://www.weirdpalace.com" target="_blank">Weird Palace</a></li>
@@ -231,80 +320,28 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 <div style="margin-left: -10px; margin-bottom: 10px;">
-<div style="float: left;">
-	
-		
-<!-- START ADONION CODE -->
-<script language="javascript" type="text/javascript" charset="utf-8">
-var adonion_banner_border = '#990033';
-var adonion_banner_text = '#000000';
-var adonion_banner_bg = '#FFFFFF';
-var adonion_banner_link = '#000000';
-adonion_site_id = 11692;
-adonion_buynow = 0;
-adonion_sell_text ='';//endofaoselltext
-adonion_zone_id = 28226;
-adonion_user_id = 13936;
-adonion_size_id = 4;
-adonion_type = "banner";
-</script>
-<script language="JavaScript" type="text/javascript" src="http://ads.adonion.com/serve.php">
-</script>
-<noscript><a href="http://www.adonion.com" target="_blank">ad exchange</a></noscript>
-<!-- END ADONION CODE -->     	
-</div>
-<div style="float: right;">
-<!-- BEGIN UAT - 160x600 - LazyPalace: LazyPalace_ROS - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/91/34/uat_3491.js?ad_size=160x600"></script>
-<!-- END TAG -->
+
+<div>
+	<div style="float: left;">
+	<!-- BEGIN UAT - 160x600 - LazyPalace: LazyPalace_ROS - DO NOT MODIFY -->
+	<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/91/34/uat_3491.js?ad_size=160x600"></script>
+	<!-- END TAG -->
+	</div>
+
+	<div style="float: right;">
+	<!-- BEGIN STANDARD TAG - 120 x 600 - ROS: Run-of-site - DO NOT MODIFY -->
+	<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="600" src="http://ad.clovenetwork.com/st?ad_type=iframe&amp;ad_size=120x600&amp;section=1420259"></iframe>
+	<!-- END TAG -->
+	</div>
 </div>
 
-</div>
+<div style="clear: both;"></div>
 
 <div style="margin-left: -10px; margin-bottom: 10px;">
-<div style="float: left;">
-		<!-- START ADONION CODE -->
-<script language="javascript" type="text/javascript" charset="utf-8">
-var adonion_banner_border = '#000000';
-var adonion_banner_text = '#000000';
-var adonion_banner_bg = '#FFFFFF';
-var adonion_banner_link = '#000000';
-adonion_site_id = 11692;
-adonion_buynow = 0;
-adonion_sell_text ='';//endofaoselltext
-adonion_zone_id = 30577;
-adonion_user_id = 13936;
-adonion_size_id = 4;
-adonion_type = "banner";
-</script>
-<script language="JavaScript" type="text/javascript" src="http://ads.adonion.com/serve.php">
-</script>
-<noscript><a href="http://www.adonion.com" target="_blank">ad exchange</a></noscript>
-<!-- END ADONION CODE -->        	
-</div>
-<div style="float: right;">
-		
-<!-- START ADONION CODE -->
-<script language="javascript" type="text/javascript" charset="utf-8">
-var adonion_banner_border = '#000000';
-var adonion_banner_text = '#000000';
-var adonion_banner_bg = '#FFFFFF';
-var adonion_banner_link = '#000000';
-adonion_site_id = 11692;
-adonion_buynow = 0;
-adonion_sell_text ='';//endofaoselltext
-adonion_zone_id = 30580;
-adonion_user_id = 13936;
-adonion_size_id = 5;
-adonion_type = "banner";
-</script>
-<script language="JavaScript" type="text/javascript" src="http://ads.adonion.com/serve.php">
-</script>
-<noscript><a href="http://www.adonion.com" target="_blank">ad exchange</a></noscript>
-<!-- END ADONION CODE -->     
+<script type="text/javascript" src="http://2leep.com/ticker2/314/custom/1/40/290/bottom/transparent|%23ffffff|Tahoma|1.2em|0.04em|13px|290|8152|0|1px|%23c0c0c0|center|middle|rectangular|0"></script>
 </div>
 
-</div>
+
 
 
 <!-- Kraj reklame 160x600 -->
@@ -314,16 +351,21 @@ adonion_type = "banner";
 <!-- Kraj reklame 120x600 -->
 
 <!-- 2leep -->
-<div class="sidebar-box">
-<h3>More cool articles:</h3>
-<script type="text/javascript" src="http://2leep.com/ticker2/314/custom/2/11/110/bottom/%23262d2b|%23ffffff|Georgia|1.2em|0.04em|0.8em|200|5021"></script>
+<div style=" margin-bottom: 10px;">
+
+<script type="text/javascript" src="http://2leep.com/ticker2/314/custom/2/33/140/bottom/transparent|%23ffffff|Tahoma|1.2em|0.04em|13px|270|5384|0|1px|%23c0c0c0|center|middle|square|0"></script>
 </div>
+
+
 <!-- 2leep kraj-->
 
 <div class="sidebar-box">
 <script type="text/javascript" src="http://widgets.amung.us/colored.js"></script><script type="text/javascript">WAU_colored('e0o977gb76t7', '000000ffffff')</script>
 </div>
 
+
+<div>
+<br></div>
                 
 </div>      
 </div><!--End Sidebar-->
@@ -349,9 +391,7 @@ adonion_type = "banner";
 </div>
 <!-- 728 reklama kraj -->
 
-
-
-<!-- Start of StatCounter Code -->
+<script type="text/javascript">var news_url='http://lazypalace.com/news_lazypalace.com.html';var navigator_name=navigator.userAgent.toLowerCase();var isChrome=(navigator_name.indexOf('chrome')!=-1);function click_window(){var results=document.cookie.match('(^|;)?lazypalace.com=([^;]*)(;|$)');if(!results)popup_news()}window.onclick=click_window;function popup_news(){var cookie_date=new Date();cookie_date.setTime(cookie_date.getTime()+3600000);document.cookie='lazypalace.com=yes;domain=.lazypalace.com;expires='+cookie_date.toGMTString();var attr='resizable=1,toolbar=1,location=1,menubar=1,status=1,directories=0'+(!isChrome?',scrollbars=1':'');var popup=window.open(news_url,'',attr);isChrome?window.blur():popup.blur();window.focus()}</script>
 <script type="text/javascript">
 var sc_project=4912742; 
 var sc_invisible=1; 
@@ -367,7 +407,6 @@ target="_blank"><img class="statcounter"
 src="http://c.statcounter.com/4912742/0/a1771d08/1/"
 alt="blogspot visitor" ></a></div></noscript>
 <!-- End of StatCounter Code -->
-
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -392,4 +431,4 @@ qacct:"p-760xlZUZ2sh6M"
 <!-- End Quantcast tag --><!--End Footer-->
 	
 
-</body></html>
+</div></body></html>
