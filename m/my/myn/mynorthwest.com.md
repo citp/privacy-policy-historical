@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynorthwest.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619010323id_/http%3A//www.mynorthwest.com%3Fsid%3D22269%26nid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynorthwest.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122111214id_/http%3A//www.mynorthwest.com%3Fsid%3D22269%26nid%3D130) for the most accurate reproduction.*
 
-# Privacy Statement - MyNorthwest.com
+# Privacy Statement - KIRO News - MyNorthwest.com
 
 ##### Updated Jan 5, 2009 - 3:48 pm
 
