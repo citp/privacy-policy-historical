@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoi.edu privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520233137id_/http%3A//www.whoi.edu/whoi/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoi.edu privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122013359id_/http%3A//www.whoi.edu/whoi/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy : Woods Hole Oceanographic Institution
 
@@ -30,8 +30,36 @@ From time-to-time our site requests information from users via Web surveys. Part
 Send This to a Friend  
 If a user elects to use our "Send this to a friend" function, we ask them for the friend's name and e-mail address. Woods Hole Oceanographic Institution will automatically send the friend a one-time e-mail inviting them to visit the site. Woods Hole Oceanographic Institution stores this information temporarily for the sole purpose of sending this one-time e-mail.
 
+I'd Like to Know More About  
+If a user elects to use our "I'd like to know more about" function, we ask them to choose a topic/s that they would like more information about. Woods Hole Oceanographic Institution will send periodic updates regarding the topic/s. The user has the option to unsubscribe at any time. 
+
 Notification of Changes  
 If we decide to change our privacy policy, we will post those changes to this page.
+
+Donor Privacy  
+Donor Privacy  
+The Woods Hole Oceanographic Institution (WHOI) is committed to respecting the privacy of our donors. We have developed this privacy policy to ensure our donors that donor information will not be shared with any third party. 
+
+WHOI provides this Donor Privacy Policy to inform you of the way your information is used. We also provide you with the opportunity to remove your name from (or opt out of) our mailing list, if you desire to do so. 
+
+Donor Contact Information  
+WHOI collects and uses various information from donors that includes: amount donated, address, telephone number, donor comments and e-mail address. Tax laws in the United States require WHOI to keep contact information and contribution level of donors on file. 
+
+WHOI uses donor information to understand donors' needs and provide excellent service. WHOI will never sell, trade, rent or share names (unless released for publication), e-mail or mail addresses, or telephone numbers of our donors. Donors names will be listed in our annual donor report, unless otherwise instructed. This report is distributed only to donors (not the general public). WHOI will use contact information (e-mail, telephone number and address) of donors for these purposes only: 
+
+  * Distribute receipts for donations
+  * Thank donors for their donation
+  * Inform donors about upcoming fundraising and other activities at WHOI
+  * Internal analysis and record keeping
+  * Reporting to relevant U.S. and State agencies (these reports are not for public inspection)
+  * Contact donors about changes to this policy
+
+Properly anonymized donor information is used for promotional and fundraising activities. WHOI allows donors the option to have their name publicly associated with their donation in an annual donor report unless the donor explicitly chooses to remain "anonymous". 
+
+Financial Information  
+AAll access to donor financial information is strictly limited to professional staff of WHOI whose job requires them to process this data. No such data is given to any person, organization or group who does not need to access those data. Donor records are kept in secure file cabinets. 
+
+To accept contributions via credit card, WHOI uses accredited online payment processing services with world-class security and data privacy policies. Unless requested by the donor for the purpose of processing recurring donations, WHOI does not store, nor does it have access to, your credit card information, bank account numbers, or other account data sent to those processing services. It is our desire to not send unwanted mail or information about WHOI to our donors. Please contact us if you wish to be removed from our mailing list. 
 
 Questions or Comments  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us using the information below. 
