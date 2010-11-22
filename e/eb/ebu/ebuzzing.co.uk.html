@@ -1,22 +1,121 @@
-<!--The following is the downloaded HTML source of the ebuzzing.co.uk privacy policy that was archived on 2009-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091123200012id_/http%3A//ebuzzing.co.uk/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebuzzing.co.uk privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122032538id_/http%3A//www.ebuzzing.co.uk/mention) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<base href="http://www.ebuzzing.co.uk/home/">
+<base href="http://ebuzzing.co.uk/home/">
 <title>ebuzzing</title>
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 <link rel="STYLESHEET" type="text/css" href="../css/style.css">
+<script type="text/javascript" src="http://ebuzzing.co.uk/js/lib/jquery/jquery-1.3.2.js"></script>
+<script language="javascript">
+$(function()
+{
+    hideMenu=function(){
+        $("#mainMenu2").fadeOut("slow");
+    } 
+      
+  
+    menuInit=function(){
+        vmenu=document.getElementById('mainMenu2');
+        if(vmenu){                
+           /* showlink=document.createElement('p');
+            showlink.setAttribute("id","menu_link");            
+            ashowlink=document.createElement('a');
+            ashowlink.setAttribute("href","#mainMenu2");
+            ashowlink.className='show_block_link_over';
+            ashowlink.innerHTML='<b>Menu</b>';
+            showlink.appendChild(ashowlink);
+            //addEvent( showlink, "mouseover", function(){showMenu(vmenu)} );
+            document.getElementById('page').insertBefore(showlink, vmenu);
+            //vmenu.style.display='block';
+            pdoor=document.createElement('p');
+            pdoor.setAttribute("id","pdoor");            
+            doorlink=document.createElement('a');
+            doorlink.innerHTML='fermer'; 
+            doorlink.setAttribute("href","#mainMenu2");
+            doorlink.className='menudoor';
+            pdoor.appendChild(doorlink);
+            vmenu.insertBefore(pdoor,document.getElementById('menuList2'));
+            vmenu.className='hideout';*/
+            //addEvent( vmenuBoutonLink, "click", function(){hideMenu(vmenu)} );               
+        }
+  }
+  var timeoutmenu;
+  menuInit();
+  // show block with the same id of the hrer
+      $('.show_block_link_over').mouseover( function(){
+        $($(this).attr("href")).fadeIn("slow");
+
+          return false;
+      }); 
+      
+       $('.hideout').mouseover( function(){
+          if(typeof(timeoutmenu) != "undefined"){
+            window.clearTimeout(timeoutmenu);
+          }
+          return false;
+       });  
+       
+       $('.hideout').mouseleave( function(){
+           timeoutmenu = window.setTimeout("hideMenu()", 2000);          
+          return false;
+      });
+       $('.menudoor').click( function(){ 
+         $(this).parents("div:first").fadeOut("slow");
+         return false;
+    }); 
+});
+/** rend le menu vertical comme un calque **
+function menuInit(){
+    var vmenu=document.getElementById('mainMenu2');
+    if(vmenu){
+        showlink=document.createElement('div');
+        showlink.innerHTML='Menu';
+        showlink.className='vmenuOpen';
+        addEvent( showlink, "mouseover", function(){showMenu(vmenu)} );
+        document.getElementById('page').insertBefore(showlink,vmenu);
+        //vmenu.style.display='block';
+        vmenuBouton=document.createElement('p');
+        vmenuBouton.style.textAlign='right';
+        vmenuBoutonLink=document.createElement('a');
+        vmenuBoutonLink.setAttribute("href","#mainMenu2");
+        vmenuBoutonLink.className="vmenuDoor";
+        vmenuBoutonLink.innerHTML='fermer';       
+        vmenuBouton.appendChild(vmenuBoutonLink);
+        vmenu.appendChild(vmenuBouton);
+        addEvent( vmenuBoutonLink, "click", function(){hideMenu(vmenu)} );
+    }
+}
+/** ajout event dynamiquement **
+function addEvent( obj, type, fn ) {
+  if ( obj.attachEvent ) {
+    obj['e'+type+fn] = fn;
+    obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+    obj.attachEvent( 'on'+type, obj[type+fn] );
+  } else
+    obj.addEventListener( type, fn, false );
+}
+/** cache menu **
+function hideMenu(vmenu){
+    vmenu.style.display='none';
+}
+/** cache menu **
+function showMenu(vmenu){
+    vmenu.style.display='block';
+}*/
+</script>
 </head>
 <body>
 <div style="position:relative;text-align:center;width:100%">
 	<div id="pageint">
 		<div style="text-align : left;" id="pageint2">
-<a href="http://www.ebuzzing.co.uk"><img src="../images/logo.gif" alt="" width="330" height="103" border="0" class="logo"></a><img src="../images/slogan.jpg" alt="" width="172" height="21" border="0" class="slogan">
+        <div id="headerblock">
+<a href="../"><img src="../images/ebuzzinglogo.png" alt="" width="257px" height="72px" border="0" class="logo"></a><img src="../language/uk/images/slogan.jpg" alt="" border="0" class="slogan">
 <!--
 <div id="top">
-	<div class="div_home"><a href="http://www.ebuzzing.co.uk/"><img alt="" src="../images/home.jpg" width="16" height="16" border="0" /></a></div>
-	<div class="div_plan"><a href="http://www.ebuzzing.co.uk/site_map.php"><img alt="" src="../images/plan.jpg" width="15" height="16" border="0" /></a></div>
-	<div class="div_envlope"><a href="http://www.ebuzzing.co.uk/blog/contact-us/"><img alt="" src="../images/envelope.jpg" width="13" height="16" border="0" /></a></div>
+	<div class="div_home"><a href="http://ebuzzing.co.uk/"><img alt="" src="../images/home.jpg" width="16" height="16" border="0" /></a></div>
+	<div class="div_plan"><a href="http://ebuzzing.co.uk/site_map.php"><img alt="" src="../images/plan.jpg" width="15" height="16" border="0" /></a></div>
+	<div class="div_envlope"><a href="http://ebuzzing.co.uk/blog/contact-us/"><img alt="" src="../images/envelope.jpg" width="13" height="16" border="0" /></a></div>
 	<div class="div_trait"><img alt="" src="../images/trait_orange.jpg" width="3" height="16" /></div>
 	<div class="div_langue">Langue&nbsp;[<span style="color:#6C6C6C;">Fran&ccedil;ais</span>]</div>
 	</div>
@@ -32,28 +131,34 @@ function toggleEntry(obj) {
 }
 
 </script>
-<div class="div_lien"><span onclick="document.getElementById('ident_form').style.visibility='visible';document.getElementById('ident_form').style.zIndex=1000;" style="cursor:pointer">Log in</span> &nbsp;&nbsp; 
+<div class="div_lien"><span style="cursor:pointer;margin-top:2px;vertical-align:top" onclick="document.getElementById('ident_form').style.visibility='visible';document.getElementById('ident_form').style.zIndex=1000;document.getElementById('identi').login.focus();">Log in</span> &nbsp;&nbsp; 
 <span id="langue">
-	<span class="pays" onclick="toggleEntry('langue');return false;"><a onclick="this.blur();return false;" href="#"><img src="../images/uk.jpg" width="154" height="19" border="0"></a></span>
+	<span class="pays" onclick="toggleEntry('langue');return false;"><a onclick="this.blur();return false;" href="#"><img src="../images/uk_on.jpg" alt="" border="0"></a></span>
 	<div class="p">
-		<a href="http://www.ebuzzing.com"><img src="../images/fr.jpg" width="130" height="11" border="0"> </a><br>
-		<a href="#" onclick="javascript:alert('coming soon');toggleEntry('langue');return false;"><img src="../images/it.jpg" width="130" height="11" border="0"></a>
-		<br>
-		<a href="#" onclick="javascript:alert('coming soon');toggleEntry('langue');return false;"><img src="../images/es.jpg" width="130" height="11" border="0"> </a><br>
-		<a href="#" onclick="javascript:alert('coming soon');toggleEntry('langue');return false;"><img src="../images/al.jpg" width="130" height="11" border="0"> </a><br>
-		
+				  
+                         <a href="http://www.ebuzzing.com/?lang=fr" style="background-color:#fff"><img src="../images/fr.jpg" alt="" border="0"></a><br>
+                       		
+				
+				  
+                         <a href="http://www.ebuzzing.com/?lang=us" style="background-color:#fff"><img src="../images/us.jpg" alt="" border="0"></a><br>
+                       		
+		 
+                        <a href="http://www.promodigital.it" style="background-color:#fff"><img src="../images/it.jpg" alt="" border="0"></a><br>
+                      		
+				<a href="#" onclick="javascript:alert('Prochainement');toggleEntry('langue');return false;"><img src="../images/es.jpg" width="130" height="11" border="0"> </a><br>
+		<a href="http://blogde.ebuzzing.com" style="background-color:#fff"><img src="../images/al.jpg" width="130" height="11" border="0"> </a><br>
+    <a href="http://www.buzzeff.com" style="background-color:#fff"><img src="../images/ma.jpg" width="130" height="11" border="0"> </a><br>
 	</div>
 </span>
-
-</div><div id="ident_form"><a href="#" onclick="document.getElementById('ident_form').style.visibility='hidden'"><img src="../images/fermer.gif" alt="" width="14" height="14" border="0" style="float:right;"></a><div align="center">Log in</div><form action="/home/" method="post" name="identi" id="identi" style="margin: 0px 0px 0px 0px;  padding: 20px 20px 20px 20px;"><div id="nooublier" name="nooublier">
-<table><tbody><tr><td><em>Username</em> :</td> 
+</div><div id="ident_form"><a href="javascript:" onclick="document.getElementById('ident_form').style.visibility='hidden';if(document.getElementById('psw_incorrect'))document.getElementById('psw_incorrect').style.display='none';return false;"><img src="../images/fermer.gif" alt="" width="14" height="14" border="0" style="float:right;"></a><div align="center">Log in</div><form action="/home/" method="post" name="identi" id="identi" style="margin: 0px 0px 0px 0px;  padding: 20px 20px 20px 20px;"><div id="nooublier" name="nooublier">
+<table><tbody><tr><td style="white-space:nowrap"><em>Username</em> :</td> 
 		 <td><input type="text" name="login" value=""></td></tr>
-<tr><td><em>Password</em> :</td><td><input type="password" name="pass" value=""></td></tr>
+<tr><td style="white-space:nowrap"><em>Password</em> :</td><td><input type="password" name="pass" value=""></td></tr>
 </tbody></table>
 <input type="submit" class="gris" value="Log in"> <input type="button" name="buttt" class="gris" onclick="document.getElementById('oublier').style.position='relative';document.getElementById('oublier').style.visibility='visible';document.getElementById('oublier').style.position='';document.getElementById('oublier').style.visibility='';document.getElementById('nooublier').style.position='absolute';document.getElementById('nooublier').style.visibility='hidden';" value="Forgotten?">
 </div>
 <div id="oublier" name="oublier" style="position:absolute;visibility:hidden">
-<table><tbody><tr><td><em>Enter your email</em> :</td>
+<table><tbody><tr><td style="white-space:nowrap"><em>Enter your email</em> :</td>
 <td><input type="text" name="email1" value=""></td>
 </tr>
 </tbody></table>
@@ -63,26 +168,25 @@ function toggleEntry(obj) {
 </form></div>
 
 </div>
-<!--<div id="menu"><strong><a href="http://www.ebuzzing.co.uk/">home</a> &nbsp; 
-<a href="http://www.ebuzzing.co.uk/annonceurs/">advertiser</a> &nbsp; 
-<a href="http://www.ebuzzing.co.uk/bloggers/">blogger</a>  &nbsp; 
-<a href="http://www.ebuzzing.co.uk/">register</a>  &nbsp; 
-<a href="http://www.ebuzzing.co.uk/blog/faq/8.html">FAQ</a>  &nbsp; 
-<a href="http://www.ebuzzing.co.uk/blog/ebuzzing/ebuzzing/">our blog</a> &nbsp; 
-<a href="http://www.ebuzzing.co.uk/blog/contact-us/">contact</a> &nbsp; 
-<a href="http://www.ebuzzing.co.uk/blog/a_propos/">about</a></strong>
-</div>-->
 <div id="menu">
-<a href="http://www.ebuzzing.co.uk/recrutement/">recruitment</a>
-<a href="http://www.ebuzzing.co.uk/a_propos/">about</a>
-<a href="http://www.ebuzzing.co.uk/contact-us/">contact</a>
-	<a href="http://www.ebuzzing.co.uk/wordpress/">our blog</a>
-<a href="http://www.ebuzzing.co.uk/bloggeurs/faq.php">FAQ</a>
-<a href="http://www.ebuzzing.co.uk/bloggeurs/">blogger</a>
-<a href="http://www.ebuzzing.co.uk/annonceurs/">advertiser</a>
-<a href="http://www.ebuzzing.co.uk/">home</a>
+    <a href="http://ebuzzing.co.uk/a_propos/">
+        about    </a>
+    <a href="http://ebuzzing.co.uk/contact-us/">
+        contact
+    </a><a href="http://blogen.ebuzzing.com">
+        our blog    </a>
+    <a href="http://ebuzzing.co.uk/bloggeurs/">
+        Editor    </a>
+    <a href="http://ebuzzing.co.uk/annonceurs/">
+        advertiser    </a>
+     <a href="http://ebuzzing.co.uk/videofaq/index_video_annonceur.php" class="video">
+        Video    </a>
+    <a href="http://ebuzzing.co.uk/">
+        home    </a>
 </div>
-<div align="center" style="height:26px; width:958px; margin-left:11px; margin-top:17px; background-image:url(../images/bas_menu_bleu.jpg);"></div>
+<div align="center" style="height:26px; width:959px; margin-left:30px; margin-top:32px; background-image:url(../images/bas_menu_bleu.jpg);">
+</div>
+</div>
 <div id="bleue"><div id="page">
 <div id="propos">
 <div style="height:15px;"><img src="../images/propos_top.jpg" width="908" height="15" alt=""></div>
@@ -94,7 +198,7 @@ ebuzzing respects your privacy. Our purpose in collecting information from you i
 
 <h2>What Information Do We Collect?</h2>
 
-From those applying for an account with ebuzzing, we ask for certain items of personal information (such as their name, email address, etc.) in connection with the function of our site. We may also collect information you give to us through feedback forms, competitions and the like. We do not process any sensitive data about you. We do not collect any personal information except when an individual specifically and knowingly provides such information. 
+Those applying for an account with ebuzzing, we ask of them for certain items of personal information (such as their name, email address, etc.) in connection with the function of our site. We may also collect information you give to us through feedback forms, competitions and the like. We do not process any sensitive data about you. We do not collect any personal information except when an individual specifically and knowingly provides such information. 
 
 <h2>Cookies</h2>
 
@@ -114,7 +218,7 @@ In addition to carefully selecting any third party we share information with, eb
 
 <h2>Consent and Changes to this Privacy Statement</h2>
 
-By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our terms and conditions. If you consent now but later change your mind, you may at any time withdraw your consent by notifying us via <a href="mailto:ebuzzing@ebuzzing.co.uk" style="text-decoration:underline;">ebuzzing@ebuzzing.co.uk</a>. If you withdraw your consent, ebuzzing will close your account and stop using your information immediately. You may also change or correct any of your details at any time by sending an e-mail to the same address. ebuzzing may decide to change this privacy statement from time to time.  When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our terms and conditions. If you consent now but later change your mind, you may at any time withdraw your consent by notifying us via <a href="mailto:ebuzzing@ebuzzing.com" style="text-decoration:underline;">ebuzzing@ebuzzing.com</a>. If you withdraw your consent, ebuzzing will close your account and stop using your information immediately. You may also change or correct any of your details at any time by sending an e-mail to the same address. ebuzzing may decide to change this privacy statement from time to time.  When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 <h2>Who Can I Ask If I Have Additional Questions?</h2>
 
@@ -131,8 +235,28 @@ Feel free to contact us any time with any questions you may have regarding our p
 </div><br>&nbsp;
 </div></div>
 <div id="footer">
-  <div id="copy"><a href="http://www.ebuzzing.co.uk" class="lien1">ebuzzing 2007 </a></div>
-  <div id="w3c"><a href="http://www.ebuzzing.co.uk/privacypolicy" class="lien2">Privacy policy</a><a href="http://www.ebuzzing.co.uk/contact-us" class="lien2">Contact</a><!--a href="http://www.ebuzzing.co.uk/mention" class="lien2">Terms and conditions</a--></div>
+  <div id="flien"><div style="margin-top:3px;">&nbsp;&nbsp;&nbsp;<a href="http://www.ebuzzing.com" class="lien1">(c) ebuzzing 2007-2010</a> | <a href="http://www.wikio.co.uk" class="lien1" target="_blank">&nbsp;Groupe&nbsp;Wikio&nbsp;</a> | <a href="http://ebuzzing.co.uk/recrutement/" class="lien1">Recruitment</a> | <a href="http://ebuzzing.co.uk/bloggeurs/faq.php" class="lien1">Faq</a>
+             |<a href="http://ebuzzing.co.uk/contact-us" class="lien1">Contact</a> | <a href="http://ebuzzing.co.uk/mention" class="lien1" style="margin-right:0px;">Privacy Policy</a>
+
+      </div></div><div id="w3c" style="width:5px;"></div>
+  </div>
+<div id="footer_shopping">
+    <center>
+        Shopping : <a href="http://www.wikio.co.uk/guide/homepage-6.html">Car/Motorbike</a> ; <a href="http://www.wikio.co.uk/cds/homepage-502.html">CD</a> ; <a href="http://www.wikio.co.uk/dvds/homepage-500.html">DVD</a> ; <a href="http://www.wikio.co.uk/guide/homepage-18.html">Household Appliances</a> ; <a href="http://www.wikio.co.uk/hotels/homepage-600.html">Hotels</a> ; <a href="http://www.wikio.co.uk/guide/homepage-4.html">Electronics</a> ; <a href="http://www.wikio.co.uk/guide/homepage-2.html">Computers</a> ; <a href="http://www.wikio.co.uk/guide/homepage-21.html">Video Games</a> ; <a href="http://www.wikio.co.uk/book/homepage-501.html">Books</a> ; <a href="http://www.wikio.co.uk/guide/homepage-124.html">Home &amp; Garden</a>
+    </center>
 </div>
-</div>
-</div></body></html>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2652807-1";
+urchinTracker();
+</script>
+<script type="text/javascript">
+    if(typeof(isEbzCedexisTag)=="undefined"){
+        var isEbzCedexisTag=1;
+        document.write('<scri'+'pt type="text/javascript">');
+        document.write('(function(d, w) {var requestorId = \'1-10147\', onWindowLoaded = function() {var a = document.createElement(\'script\');a.type = \'text/javascript\';a.src=\'http://ebuzzing.co.uk/radar_config.js\';d.body.appendChild(a);};if (w.addEventListener) { w.addEventListener(\'load\', onWindowLoaded, false); }else if (w.attachEvent) { w.attachEvent(\'onload\', onWindowLoaded ); }})(document, window);');
+        document.write('</SCR'+'IPT>') ;
+    }
+</script><script type="text/javascript">(function(d, w) {var requestorId = '1-10147', onWindowLoaded = function() {var a = document.createElement('script');a.type = 'text/javascript';a.src='http://ebuzzing.co.uk/radar_config.js';d.body.appendChild(a);};if (w.addEventListener) { w.addEventListener('load', onWindowLoaded, false); }else if (w.attachEvent) { w.attachEvent('onload', onWindowLoaded ); }})(document, window);</script>
+</div></div><script type="text/javascript" src="http://ebuzzing.co.uk/radar_config.js"></script></body></html>
