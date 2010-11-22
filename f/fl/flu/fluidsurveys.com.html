@@ -1,43 +1,69 @@
-<!--The following is the downloaded HTML source of the fluidsurveys.com privacy policy that was archived on 2010-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100127124910id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fluidsurveys.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122224150id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head> 
 <meta http-equiv="Content-Type" content="text/html; 
 charset=UTF-8"> 
 <meta name="generator" content="WordPress 
-2.9.1">
-<meta http-equiv="content-language" content="es">
+3.0.1">
+<meta http-equiv="content-language" content="en">
 
 <title>Privacy Policy | FluidSurveys</title>
 
 <link rel="stylesheet" href="http://fluidsurveys.com/wp-content/themes/Bluelight/style.css" type="text/css" media="screen">
 <script type="text/javascript" src="/media/js/cufon.js"></script><style type="text/css">.cufon-canvas{text-indent:0!important;}@media screen,projection{.cufon-canvas{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}.cufon-canvas .cufon-alt{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}.cufon-canvas canvas{position:relative!important;}}@media print{.cufon-canvas{padding:0!important;}.cufon-canvas canvas{display:none!important;}.cufon-canvas .cufon-alt{display:inline!important;}}</style>
-<script type="text/javascript" src="http://fluidsurveys.com/media/jquery/jquery.js"></script>
+<script type="text/javascript" src="/media/jquery/jquery.js"></script>
+<script type="text/javascript" src="/media/js/base.js"></script>
+<script type="text/javascript" src="/media/js/urlParse.js"></script>
+
 <script type="text/javascript" src="/media/js/fonts/myriad-pro.font.js"></script> 
 <script type="text/javascript" src="/media/js/fonts/avenir.font.js"></script> 
 <link rel="stylesheet" href="http://fluidsurveys.com/wp-content/themes/Bluelight/styles/blue/blue.css" type="text/css" media="screen">
 
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://fluidsurveys.com/feed/">
 <link rel="pingback" href="http://fluidsurveys.com/xmlrpc.php">
-<link rel="shortcut icon" href="http://fluidsurveys.com/wp-content/themes/Bluelight/images/favicon.ico">
+
 <link rel="shortcut icon" href="/media/theme/img/favicon.ico">
-
+<script id="LoggedInChecker" type="text/javascript" src="https://fluidsurveys.com/accounts/checklogin/"></script>
 <script type="text/javascript">
-	var IS_LOGIN = false;
-	$.ajax({
-		url: '/accounts/checklogin/', 
-		success: function(data){
-			if(data.success == true){
-				IS_LOGIN = true;
-				$('.navhide').hide();
-				$('.navshow').show();
-			}
-		},
-		dataType: 'json',
-		type: 'POST'
-	});
+$(function(){
+	if(typeof(LOGGED_IN) != "undefined" && LOGGED_IN){
+		$('.navhide').hide();
+		$('.navshow').show();
+	}
+});
 </script>
-
+<script type="text/javascript">
+function truncate63(input,l) {
+	var byteLength = l;
+	//we can't decode if we happen to truncate part-way through an encoded entity so if the encoded string has a % near 63 characters, we truncate before the % before decoding
+	if (encodeURIComponent(input).substr(byteLength-2,1) == "%"){
+		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength-2));
+	} else if (encodeURIComponent(input).substr(byteLength-1,1) == "%"){
+		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength-1));
+	} else {
+		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength));
+	}
+	return truncatedInput;
+}
+jQuery(function(){
+	if (document.referrer) {
+		var referrer = new chide.url(document.referrer);
+		var domain = referrer.getAuthority();
+		var query = referrer.getQuery();
+	
+		//get search engine stuff
+		if (domain.match(/google.\w+/) && query.cd){
+			_gaq.push(['_setCustomVar', 3, domain.match(/google.\w+/)[0] + '-' + query.q, query.cd, 2]); //slot 3, page
+		}
+		
+		if (!_gat._getTracker()._getVisitorCustomVar(2)) { // get first referrer 
+			//slot 2, visitor
+		 	_gaq.push(['_setCustomVar', 2, 'FirstReferrer', truncate63(domain + referrer.getPath() + ((referrer.getQuerystring()) ? '?' + referrer.getQuerystring():''),50) , 1]); 
+		}
+	}
+});
+</script>
 <!-- Fix the PNG's - Die IE6 -->
 <!--[if lt IE 7]>
         <script type="text/javascript" src="http://fluidsurveys.com/wp-content/themes/Bluelight/unitpngfix.js"></script>
@@ -74,16 +100,25 @@ $("#myController").jFlow({
 
 </script>
 
+<style type="text/css">img.nothumb{border:0;margin:0 0 0 2px !important;}</style>
+<!-- Tweet This v1.8.1 b035 mode alpha -->
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fluidsurveys.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fluidsurveys.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="FluidSurveys" href="http://fluidsurveys.com">
-<meta name="generator" content="WordPress 2.9.1">
+<link rel="index" title="FluidSurveys" href="http://fluidsurveys.com/">
+<link rel="prev" title="Terms of Use" href="http://fluidsurveys.com/about/terms/">
+<link rel="next" title="Survey Software with the &quot;Side by Side Matrix&quot; Question Type" href="http://fluidsurveys.com/side-by-side-matrix/question-type">
+<meta name="generator" content="WordPress 3.0.1">
+<link rel="shortlink" href="http://m3k8d.th8.us">
 
-<!-- All in One SEO Pack 1.6.10 by Michael Torbert of Semper Fi Web Design[361,403] -->
-<meta name="description" content="Privacy Policy We will not share your data in an way, shape, or form. FluidSurveys is a product of Chide.it Inc. Collected data When you register to use">
+<!-- All in One SEO Pack 1.6.12.2 by Michael Torbert of Semper Fi Web Design[361,403] -->
+<meta name="description" content="We will not share your data in anyway, shape, or form. FluidSurveys is a product of Chide.it Inc. Collected data When you register to use FluidSurveys,">
 <link rel="canonical" href="http://fluidsurveys.com/about/privacy/">
 <!-- /all in one seo pack -->
-<style type="text/css">img.nothumb{border:0;}</style> 
+<!-- WP Favicon -->
+<link rel="shortcut icon" href="http://fluidsurveys.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://fluidsurveys.com/favicon.gif" type="image/gif">
+<!-- /WP Favicon -->
+ 
 
 
 
@@ -101,14 +136,14 @@ $("#myController").jFlow({
                     <div id="navs"><!-- begin navigations -->
 						<div id="navs_left"></div>
 						<div id="navs_center">
-							<ul id="topnav">
+							<ul id="topnav" style="font-size:12px;">
 								<li class="left"></li><li class="left"><a href="http://fluidsurveys.com" title="Online Survey Software at its Best">Home</a></li>
                                     <li>
-									<a href="http://fluidsurveys.com/category/features/" title="Features">
+									<a href="http://fluidsurveys.com/features/" title="Features">
 										Features</a>
 									</li>
 									<li class="page_item page-item-366"><a href="http://fluidsurveys.com/pricing/" title="Pricing">Pricing</a></li>
-<li class="page_item page-item-142"><a href="http://fluidsurveys.com/contact-us/" title="Contact Us">Contact Us</a></li>
+<li class="page_item page-item-2952"><a href="http://fluidsurveys.com/help-tutorials/" title="Help/Contact">Help/Contact</a></li>
   
                                     <li>
 									<a href="http://fluidsurveys.com/blog/" title="Survey Blog">
@@ -118,15 +153,7 @@ $("#myController").jFlow({
 									<li class="left navhide"><a href="/accounts/register" rel="nofollow" title="Sign Up for Free!">Sign Up</a></li>
                                                                         <li class="left navhide"><a href="/accounts/login/" rel="nofollow" title="Login and Create Surveys!">Login</a></li>
                                                                         <li style="display:none" class="left navshow"><a href="/account/" rel="nofollow" title="My Surveys">Account</a></li>
-                                                                        <li style="display:none" class="left navshow"><a href="/accounts/logout/" rel="nofollow" title="Logout">Logout</a></li>
-									<script type="text/javascript">
-										$(document).ready(function(){
-											if(IS_LOGIN == true){
-												$('.navhide').hide();
-												$('.navshow').show();
-											}
-										});
-									</script>						
+                                                                        <li style="display:none" class="left navshow"><a href="/accounts/logout/" rel="nofollow" title="Logout">Logout</a></li>				
                             </ul>
 						</div>
                   		<div id="navs_right"> </div>
@@ -137,7 +164,7 @@ $("#myController").jFlow({
                 <div id="header_lower">	
 					<div id="header_sub_secondary">
 						<div id="header_sub_text_secondary">
-							<p>Privacy Policy</p>
+							<h1 style="font-size:25px; padding-top:5px; color:white;"><span class="cufon cufon-canvas" style="width: 91px; height: 25px;"><canvas width="112" height="30" style="width: 112px; height: 30px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Privacy </span></span><span class="cufon cufon-canvas" style="width: 69px; height: 25px;"><canvas width="84" height="30" style="width: 84px; height: 30px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Policy</span></span></h1>
                     	</div>
 						</div><!--end header sub-->
 					<div id="header_sub_secondary_right">
@@ -156,9 +183,11 @@ $("#myController").jFlow({
 <!-- if you want to show categories on the project page -->
 
 	<div class="categories">
-		<h2>Categories</h2>
+		<h2><span class="cufon cufon-canvas" style="width: 124px; height: 24px;"><canvas width="141" height="29" style="width: 141px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Categories</span></span></h2>
 		<ul>
-						<li>No categories</li>				</ul>
+							<li class="cat-item cat-item-678"><a href="http://fluidsurveys.com/category/blog/news/" title="View all posts filed under News">News</a>
+</li>
+				</ul>
 	</div>
 	
 	<div class="archives">
@@ -171,7 +200,7 @@ $("#myController").jFlow({
 	</div>
 	
 	<!-- get the search form -->
-	<h2>SEARCH</h2>
+	<h2><span class="cufon cufon-canvas" style="width: 97px; height: 24px;"><canvas width="106" height="29" style="width: 106px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">SEARCH</span></span></h2>
 	<form method="get" id="searchform" action="http://fluidsurveys.com/"> 
 		<p> 
 		<input type="text" value="" name="s" id="s" size="15"> 
@@ -183,76 +212,103 @@ $("#myController").jFlow({
 	<div id="left_widgets">
 	<!-- get the sidebar widgets -->
 
-	<div class="widget"><h2 class="widgettitle">About Us</h2>
-			<div class="textwidget">We'll Write some stuff here later</div>
-		</div><!--/widget-->
-	<div class="widget"><h2 class="widgettitle">What I'm Doing...</h2>
+	<div class="widget"><h2 class="widgettitle"><span class="cufon cufon-canvas" style="width: 77px; height: 24px;"><canvas width="97" height="29" style="width: 97px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Latest </span></span><span class="cufon cufon-canvas" style="width: 84px; height: 24px;"><canvas width="104" height="29" style="width: 104px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Survey </span></span><span class="cufon cufon-canvas" style="width: 54px; height: 24px;"><canvas width="69" height="29" style="width: 69px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Buzz</span></span></h2>
 <div class="aktt_tweets">
 	<ul>
-		<li>No tweets available at the moment.</li>
+		<li>Most Viral Brands of 2010 <a href="http://t.co/4WX9E6T" rel="nofollow">http://t.co/4WX9E6T</a> #<a href="http://search.twitter.com/search?q=%23Viral" class="aktt_hashtag">Viral</a> #Marketing #<a href="http://search.twitter.com/search?q=%23SocialMedia" class="aktt_hashtag">SocialMedia</a> <a href="http://twitter.com/FluidSurveys/statuses/24480289006" class="aktt_tweet_time">2010-09-14</a></li>
+		<li>Join in Celebrating Social Good Day: Social Media for #<a href="http://search.twitter.com/search?q=%23SocialGood" class="aktt_hashtag">SocialGood</a> <a href="http://t.co/cpUkwzH" rel="nofollow">http://t.co/cpUkwzH</a> via @<a href="http://twitter.com/mashsocialmedia" class="aktt_username">mashsocialmedia</a> @mashable #<a href="http://search.twitter.com/search?q=%23SocialMedia" class="aktt_hashtag">SocialMedia</a> #SM <a href="http://twitter.com/FluidSurveys/statuses/24410681751" class="aktt_tweet_time">2010-09-13</a></li>
+		<li>RT @<a href="http://twitter.com/jdlasica" class="aktt_username">jdlasica</a>: 40 useful things you can share on Twitter besides blog posts (Social Media Today): <a href="http://bit.ly/aKroVo" rel="nofollow">http://bit.ly/aKroVo</a> #<a href="http://search.twitter.com/search?q=%23SocialMedia" class="aktt_hashtag">SocialMedia</a> #SM #<a href="http://search.twitter.com/search?q=%23Tips" class="aktt_hashtag">Tips</a> <a href="http://twitter.com/FluidSurveys/statuses/24398234880" class="aktt_tweet_time">2010-09-13</a></li>
+		<li class="aktt_more_updates"><a href="http://twitter.com/FluidSurveys">More updates...</a></li>
 </ul></div></div><!--/widget-->
+	<div class="widget"><h2 class="widgettitle"><span class="cufon cufon-canvas" style="width: 95px; height: 24px;"><canvas width="115" height="29" style="width: 115px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Popular </span></span><span class="cufon cufon-canvas" style="width: 68px; height: 24px;"><canvas width="84" height="29" style="width: 84px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">Terms</span></span></h2>
+<div><a href="http://fluidsurveys.com/tag/affiliate-marketing/" class="tag-link-57" title="2 topics" style="font-size: 8pt;">affiliate marketing</a>
+<a href="http://fluidsurveys.com/tag/all/" class="tag-link-60" title="41 topics" style="font-size: 22pt;">all</a>
+<a href="http://fluidsurveys.com/tag/analytics/" class="tag-link-63" title="5 topics" style="font-size: 11.684210526316pt;">analytics</a>
+<a href="http://fluidsurveys.com/tag/analyze-results/" class="tag-link-66" title="3 topics" style="font-size: 9.4736842105263pt;">analyze results</a>
+<a href="http://fluidsurveys.com/tag/create-graphs/" class="tag-link-150" title="3 topics" style="font-size: 9.4736842105263pt;">create graphs</a>
+<a href="http://fluidsurveys.com/tag/customer-feedback/" class="tag-link-770" title="2 topics" style="font-size: 8pt;">customer feedback</a>
+<a href="http://fluidsurveys.com/tag/customer-loyalty/" class="tag-link-772" title="2 topics" style="font-size: 8pt;">customer loyalty</a>
+<a href="http://fluidsurveys.com/tag/customer-satisfaction/" class="tag-link-165" title="3 topics" style="font-size: 9.4736842105263pt;">customer satisfaction</a>
+<a href="http://fluidsurveys.com/tag/customer-satisfaction-surveys/" class="tag-link-768" title="2 topics" style="font-size: 8pt;">customer satisfaction surveys</a>
+<a href="http://fluidsurveys.com/tag/customer-survey/" class="tag-link-167" title="3 topics" style="font-size: 9.4736842105263pt;">customer survey</a>
+<a href="http://fluidsurveys.com/tag/customer-surveys/" class="tag-link-168" title="3 topics" style="font-size: 9.4736842105263pt;">customer surveys</a>
+<a href="http://fluidsurveys.com/tag/exit-survey-popup/" class="tag-link-714" title="3 topics" style="font-size: 9.4736842105263pt;">exit survey popup</a>
+<a href="http://fluidsurveys.com/tag/fluidsurveys/" class="tag-link-223" title="3 topics" style="font-size: 9.4736842105263pt;">fluidsurveys</a>
+<a href="http://fluidsurveys.com/tag/graphs/" class="tag-link-250" title="3 topics" style="font-size: 9.4736842105263pt;">graphs</a>
+<a href="http://fluidsurveys.com/tag/how-to/" class="tag-link-258" title="3 topics" style="font-size: 9.4736842105263pt;">how to</a>
+<a href="http://fluidsurveys.com/tag/invitation-popup/" class="tag-link-298" title="3 topics" style="font-size: 9.4736842105263pt;">invitation popup</a>
+<a href="http://fluidsurveys.com/tag/market-research/" class="tag-link-724" title="3 topics" style="font-size: 9.4736842105263pt;">market research</a>
+<a href="http://fluidsurveys.com/tag/modal-popup/" class="tag-link-334" title="3 topics" style="font-size: 9.4736842105263pt;">modal popup</a>
+<a href="http://fluidsurveys.com/tag/one-time-surveys/" class="tag-link-394" title="5 topics" style="font-size: 11.684210526316pt;">one time surveys</a>
+<a href="http://fluidsurveys.com/tag/online-survey/" class="tag-link-396" title="6 topics" style="font-size: 12.543859649123pt;">online survey</a>
+<a href="http://fluidsurveys.com/tag/online-surveys/" class="tag-link-406" title="5 topics" style="font-size: 11.684210526316pt;">online surveys</a>
+<a href="http://fluidsurveys.com/tag/online-survey-software/" class="tag-link-401" title="7 topics" style="font-size: 13.157894736842pt;">online survey software</a>
+<a href="http://fluidsurveys.com/tag/pop-up-surveys/" class="tag-link-761" title="3 topics" style="font-size: 9.4736842105263pt;">pop-up surveys</a>
+<a href="http://fluidsurveys.com/tag/pop-up/" class="tag-link-764" title="2 topics" style="font-size: 8pt;">pop up</a>
+<a href="http://fluidsurveys.com/tag/popup-invite/" class="tag-link-439" title="3 topics" style="font-size: 9.4736842105263pt;">popup invite</a>
+<a href="http://fluidsurveys.com/popup-survey/using-pop-up-survey-invites" class="tag-link-763" title="2 topics" style="font-size: 8pt;">pop up survey</a>
+<a href="http://fluidsurveys.com/tag/popup-survey/" class="tag-link-440" title="5 topics" style="font-size: 11.684210526316pt;">popup survey</a>
+<a href="http://fluidsurveys.com/tag/question-types/" class="tag-link-458" title="9 topics" style="font-size: 14.385964912281pt;">question types</a>
+<a href="http://fluidsurveys.com/tag/side-by-side-matrix/" class="tag-link-509" title="2 topics" style="font-size: 8pt;">side by side matrix</a>
+<a href="http://fluidsurveys.com/tag/skipping/" class="tag-link-520" title="2 topics" style="font-size: 8pt;">skipping</a>
+<a href="http://fluidsurveys.com/tag/spss/" class="tag-link-524" title="2 topics" style="font-size: 8pt;">spss</a>
+<a href="http://fluidsurveys.com/tag/survey/" class="tag-link-531" title="3 topics" style="font-size: 9.4736842105263pt;">survey</a>
+<a href="http://fluidsurveys.com/tips-and-techniques" class="tag-link-687" title="3 topics" style="font-size: 9.4736842105263pt;">survey creation tips</a>
+<a href="http://fluidsurveys.com/tag/survey-name/" class="tag-link-553" title="2 topics" style="font-size: 8pt;">survey name</a>
+<a href="http://fluidsurveys.com/tag/survey-questions/" class="tag-link-557" title="6 topics" style="font-size: 12.543859649123pt;">survey questions</a>
+<a href="http://fluidsurveys.com/tag/survey-response-rate/" class="tag-link-561" title="2 topics" style="font-size: 8pt;">survey response rate</a>
+<a href="http://fluidsurveys.com/tag/survey-responses/" class="tag-link-562" title="2 topics" style="font-size: 8pt;">survey responses</a>
+<a href="http://fluidsurveys.com/tag/survey-results/" class="tag-link-564" title="2 topics" style="font-size: 8pt;">survey results</a>
+<a href="http://fluidsurveys.com/tag/survey-roles/" class="tag-link-565" title="2 topics" style="font-size: 8pt;">survey roles</a>
+<a href="http://fluidsurveys.com/tag/surveys/" class="tag-link-593" title="4 topics" style="font-size: 10.701754385965pt;">surveys</a>
+<a href="http://fluidsurveys.com/tag/survey-software/" class="tag-link-567" title="5 topics" style="font-size: 11.684210526316pt;">survey software</a>
+<a href="http://fluidsurveys.com/tag/survey-templates/" class="tag-link-38" title="3 topics" style="font-size: 9.4736842105263pt;">Survey Templates</a>
+<a href="http://fluidsurveys.com/tag/survey-tips/" class="tag-link-733" title="4 topics" style="font-size: 10.701754385965pt;">survey tips</a>
+<a href="http://fluidsurveys.com/tag/survey-title/" class="tag-link-580" title="3 topics" style="font-size: 9.4736842105263pt;">survey title</a>
+<a href="http://fluidsurveys.com/tag/tutorial/" class="tag-link-630" title="3 topics" style="font-size: 9.4736842105263pt;">tutorial</a></div>
+</div><!--/widget-->
 			
 	
 	</div>
 </div>			
 			<div id="main_content_left_secondary">
   				 
-				<h1 class="padding light-green bottom-spacing privacy">Privacy Policy</h1>
-<h2 class="padding green-square">We will not share your data in an way, shape, or form.</h2>
-<div class="indent">
-<h4>FluidSurveys is a product of Chide.it Inc.</h4>
-<dl class="dictionary">
-<dt>Collected data</dt>
-<dd>When you register to use FluidSurveys, we (Chide.it Inc.) collect very basic information including but not limited to: email and name. For the paid accounts, we ask for more information including but not limited to your address. This personal information is private, we will not share it.<p></p>
-<p>After registering with the site, we use your email address to provide you with a series of ‘Ongoing Communications and Product Updates’ (see ‘Communication from the Site’). These communications are used to give you a better understanding of the site, what it offers, and how it is best utilized. As always, you have the option not to receive these types of communications (see ‘Choice and Opt-out’).</p>
-<p><a class="back-to-top" href="#">back to top</a></p>
-</dd>
-<dt>Collected data on your surveys</dt>
-<dd>The data collected by your surveys is yours. We will not use it or share it in any way shape or form.<p></p>
-<p><a class="back-to-top" href="#">back to top</a></p>
-</dd>
-</dl>
-<p><strong>Note for European Visitors</strong></p>
-<p>Please note that FluidSurveys may transfer collected information outside the European Economic Area. By using our web site and providing us with your personal data, you consent to such transfer of your personal data.</p>
-<dl class="dictionary">
-<dt>Cookies</dt>
-<dd>Cookies are required when using FluidSurveys. We use cookies to identify unique visitors, provider per-user customization, and to make FluidSurveys easier to use. We don’t share our cookies, nor do we use cookies to track your behavior on other sites.<p></p>
-<p><a class="back-to-top" href="#">back to top</a></p>
-</dd>
-<dt>How we use the data collected</dt>
-<dd>We reserve the right to contact you, regarding your account or any other matter regarding your use of Chide.it. With your authorization, we may use some information collected from you to help diagnose technical problems, and improve the quality and types of services delivered. We may use and share non-identifiable aggregated usage and statistical information. We may also share information with third parties in limited circumstances including when complying with legal processes, preventing fraud or imminent harm, ensuring security of network and services and due to violation of the terms of service.<p></p>
-<p><a class="back-to-top" href="#">back to top</a></p>
-</dd>
-</dl>
-<p><strong>Communications from the Site</strong></p>
-<p><strong>Ongoing Communication and Product Updates</strong></p>
-<p>We will occasionally send you information on product enhancements, new services, and additional instruction on utilizing our services. These communications are designed to educate our users on the services offered. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the ‘Choice and Opt-out’.</p>
-<p><strong>Service-related Announcements</strong></p>
-<p>We will send you strictly service-related announcements when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Service-related emails are also sent confirming billing transactions, account upgrades, and account cancellations.<br>
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your account.</p>
-<p><strong>Customer Service</strong></p>
-<p>Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password as well an account manager contact information. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.</p>
-<p><strong>Choice/Opt-out</strong></p>
-<p>If you no longer wish to receive our product updates, you may opt-out of receiving them by following the instructions included in each product update email.</p>
-<p><strong>Clear Gifs</strong></p>
-<p>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see ‘Choice and Opt-out’.</p>
-<dl class="dictionary">
-<dt>What you can do</dt>
-<dd>Your data is yours; you can delete or export it at anytime. If you’d like your account to be deleted, please do send us an email at info@chide.it. We may for a time, maintain a residual copy of your data in our backups.<p></p>
-<p><a class="back-to-top" href="#">back to top</a></p>
-</dd>
-<dt>Security</dt>
-<dd>FluidSurveys.com servers are protected with generally available security technologies, including firewalls and data encryption. These technologies are designed to prevent unauthorized access, but no guarantee can be made that your information and data will be secure from intrusions and unauthorized released to third parties.<p></p>
-<p><a class="back-to-top" href="#">back to top</a></p>
-</dd>
-<dt>Contact</dt>
-<dd>Any questions regarding this policy should be addressed to info@chide.it. If a question comes up not covered by this policy, we will answer it remembering that your data belongs to you. If you’d like to send us snail mail, please visit our contact page for the best address to send to.<p></p>
-<p>These policies are effective as of July 27, 2008. Chide.it Inc. reserves the right to change this policy at any time by notifying it’s users of the existence of a new policy. The policies outlined in this document are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
-<p><a class="back-to-top" href="#">back to top</a></p>
-</dd>
-</dl>
+                                <p style="font-size:30px; padding-bottom:10px;">Privacy Policy</p>
+				<p><!--  #privacy-policy div { padding: 20px 0; }  --></p>
+<div id="privacy-policy">
+<h2><span class="cufon cufon-canvas" style="width: 45px; height: 24px;"><canvas width="65" height="29" style="width: 65px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">We </span></span><span class="cufon cufon-canvas" style="width: 46px; height: 24px;"><canvas width="66" height="29" style="width: 66px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">will </span></span><span class="cufon cufon-canvas" style="width: 46px; height: 24px;"><canvas width="66" height="29" style="width: 66px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">not </span></span><span class="cufon cufon-canvas" style="width: 69px; height: 24px;"><canvas width="88" height="29" style="width: 88px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">share </span></span><span class="cufon cufon-canvas" style="width: 59px; height: 24px;"><canvas width="78" height="29" style="width: 78px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">your </span></span><span class="cufon cufon-canvas" style="width: 59px; height: 24px;"><canvas width="78" height="29" style="width: 78px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">data </span></span><span class="cufon cufon-canvas" style="width: 28px; height: 24px;"><canvas width="48" height="29" style="width: 48px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">in </span></span><span class="cufon cufon-canvas" style="width: 97px; height: 24px;"><canvas width="117" height="29" style="width: 117px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">anyway, </span></span><span class="cufon cufon-canvas" style="width: 82px; height: 24px;"><canvas width="102" height="29" style="width: 102px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">shape, </span></span><span class="cufon cufon-canvas" style="width: 32px; height: 24px;"><canvas width="52" height="29" style="width: 52px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">or </span></span><span class="cufon cufon-canvas" style="width: 62px; height: 24px;"><canvas width="82" height="29" style="width: 82px; height: 29px; top: -3px; left: -1px;"></canvas><span class="cufon-alt">form.</span></span></h2>
+<h3>FluidSurveys is a product of Chide.it Inc.</h3>
+<div id="_mcePaste"><strong>Collected data</strong></div>
+<div id="_mcePaste" style="padding-left: 30px;">When you register to use FluidSurveys, we (Chide.it Inc.) collect very basic information including but not limited to: email and name. For the paid accounts, we ask for more information including but not limited to your address. This personal information is private, we will not share it.</div>
+<div style="padding-left: 30px;">After registering with the site, we use your email address to provide you with a series of ‘Ongoing Communications and Product Updates’ (see ‘Communication from the Site’). These communications are used to give you a better understanding of the site, what it offers, and how it is best utilized. As always, you have the option not to receive these types of communications (see ‘Choice and Opt-out’).</div>
+<div><strong>Collected data on your surveys</strong></div>
+<div id="_mcePaste" style="padding-left: 30px;">The data collected by your surveys is yours. We will not use it or share it in any way shape or form.</div>
+<div id="_mcePaste"><strong>Note for European Visitors</strong></div>
+<div style="padding-left: 30px;">Please note that FluidSurveys may transfer collected information outside the European Economic Area. By using our web site and providing us with your personal data, you consent to such transfer of your personal data.</div>
+<div><strong>Cookies</strong></div>
+<div style="padding-left: 30px;">Cookies are required when using FluidSurveys. We use cookies to identify unique visitors, provider per-user customization, and to make FluidSurveys easier to use. We don’t share our cookies, nor do we use cookies to track your behavior on other sites.</div>
+<div id="_mcePaste"><strong>How we use the data collected</strong></div>
+<div style="padding-left: 30px;">We reserve the right to contact you, regarding your account or any other matter regarding your use of Chide.it. With your authorization, we may use some information collected from you to help diagnose technical problems, and improve the quality and types of services delivered. We may use and share non-identifiable aggregated usage and statistical information. We may also share information with third parties in limited circumstances including when complying with legal processes, preventing fraud or imminent harm, ensuring security of network and services and due to violation of the terms of service.</div>
+<div id="_mcePaste"><strong>Ongoing Communication and Product Updates</strong></div>
+<div style="padding-left: 30px;">We will occasionally send you information on product enhancements, new services, and additional instruction on utilizing our services. These communications are designed to educate our users on the services offered. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the ‘Choice and Opt-out’.</div>
+<div id="_mcePaste"><strong>Service-related Announcements</strong></div>
+<div style="padding-left: 30px;">We will send you strictly service-related announcements when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Service-related emails are also sent confirming billing transactions, account upgrades, and account cancellations.</div>
+<div id="_mcePaste" style="padding-left: 30px;">Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your account.</div>
+<div><strong>Customer Service</strong></div>
+<div style="padding-left: 30px;">Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password as well an account manager contact information. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.</div>
+<div><strong>Choice/Opt-out</strong></div>
+<div style="padding-left: 30px;">If you no longer wish to receive our product updates, you may opt-out of receiving them by following the instructions included in each product update email.</div>
+<div><strong>Clear Gifs</strong></div>
+<div style="padding-left: 30px;">We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see ‘Choice and Opt-out’.</div>
+<div><strong>What you can do</strong></div>
+<div style="padding-left: 30px;">Your data is yours; you can delete or export it at anytime. If you’d like your account to be deleted, please do send us an email at info@chide.it. We may for a time, maintain a residual copy of your data in our backups.</div>
+<div><strong>Security</strong></div>
+<div style="padding-left: 30px;">FluidSurveys.com servers are protected with generally available security technologies, including firewalls and data encryption. These technologies are designed to prevent unauthorized access, but no guarantee can be made that your information and data will be secure from intrusions and unauthorized released to third parties.</div>
+<div><strong>Contact</strong></div>
+<div style="padding-left: 30px;">Any questions regarding this policy should be addressed to info@chide.it. If a question comes up not covered by this policy, we will answer it remembering that your data belongs to you. If you’d like to send us snail mail, please visit our contact page for the best address to send to.</div>
+<div id="_mcePaste" style="padding-left: 30px;">These policies are effective as of July 27, 2008. Chide.it Inc. reserves the right to change this policy at any time by notifying it’s users of the existence of a new policy. The policies outlined in this document are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</div>
 </div>
-<p align="left"><a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http://m3k8d.th8.us" title="Post to Twitter"><img class="nothumb" src="http://fluidsurveys.com/wp-content/plugins/tweet-this/icons/tt-twitter.png" alt="Post to Twitter"></a> <a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http://m3k8d.th8.us" title="Post to Twitter">Tweet This Post</a></p> 
+<div class="tweetthis" style="text-align:left;"><p> <a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fm3k8d.th8.us" title="Post to Twitter"><img class="nothumb" src="http://fluidsurveys.com/wp-content/plugins/tweet-this/icons/en/twitter/tt-twitter.png" alt="Post to Twitter"></a> <a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fm3k8d.th8.us" title="Post to Twitter">Tweet This Post</a></p></div> 
 				 
 							
 					
@@ -271,34 +327,57 @@ Generally, you may not opt-out of these communications, which are not promotiona
        		
        		<ul>
 				<li class="left"><a href="http://fluidsurveys.com">Home</a></li>
-                                                                        <li><a href="http://fluidsurveys.com/category/features/">Features</a></li>
+                                                                        <li><a href="http://fluidsurveys.com/research-consulting-services" title="Market Research Services">Services</a></li>
+                                                                        <li><a href="http://fluidsurveys.com/features/">Features</a></li>
 				<li class="page_item page-item-366"><a href="http://fluidsurveys.com/pricing/" title="Pricing">Pricing</a></li>
-<li class="page_item page-item-142"><a href="http://fluidsurveys.com/contact-us/" title="Contact Us">Contact Us</a></li>
+<li class="page_item page-item-2952"><a href="http://fluidsurveys.com/help-tutorials/" title="Help/Contact">Help/Contact</a></li>
   
                                                                         <li><a href="http://fluidsurveys.com/blog/">Blog</a></li> 
-                                                                        <li class="left"><a href="/accounts/login" rel="nofollow">Login</a></li>  
+<!-- <li class="left"><a href="http://fluidsurveys.com/help/help-tutorials" title="Need Help?">Help</a></li>   -->
+                                                                        <li class="left"><a href="http://www.shareasale.com/shareasale.cfm?merchantID=24745" title="Affiliate Marketing">Affiliates</a></li>  <li class="left"><a href="/about/" title="About Us">About</a></li>  
 </ul>
 <ul>
 <li class="left"><a href="http://fluidsurveys.com/about/terms/" rel="nofollow">Terms of Use</a></li>
 <li class="left"><a href="http://fluidsurveys.com/about/privacy/" rel="nofollow">Privacy Policy</a></li>	
 </ul>
 
-                               
+<div style="float:right;">
+<table>
+<tbody><tr style="background-color:#F6F6F6;">
+   <td><img src="http://fluidsurveys.com/wp-content/themes/Bluelight/images/twitter.png" alt="twitter"></td>
+   <td style="color:black;">Follow Us on Twitter<br><a rel="nofollow" href="http://twitter.com/fluidsurveys">@fluidsurveys</a></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+     <div style="float:left; clear:both;">
+<table>
+   <tbody><tr style="background-color:#F6F6F6;"><td style="color:black; padding: 0 0 5px 0;">FluidSurveys <a href="http://fluidsurveys.com" title="Online Survey Software"> Online Survey Software</a> in Other Languages:</td></tr>
+   <tr style="color:black;background-color:#F6F6F6;"><td style="padding: 0 0 10px 0; margin:0;"><a href="http://raziskave.fluidsurveys.com" title="Najboljša spletna rešitev za raziskave">Slovene</a> | <a href="http://enkatverktyg.fluidsurveys.com/" title="Skapa omröstningar och enkäter">Swedish</a> | <a href="http://encuestas.fluidsurveys.com" title="Crear Sondeos y Encuestas">Spanish</a> | <a href="http://fluidsurveys.no" title="Lag avstemninger
+og spørreskjema på Norsk">Norwegian</a> <br> <a href="http://fluidsurveys.com/start-fluidsurveys-in-your-own-country/">Start FluidSurveys in Your Country!</a></td> </tr>
+</tbody></table>
+</div>                          
                         	
         </div><!-- end footer_r-->
+
 	</div><!-- end footer -->
-</div>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-11797749-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
+	try{
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', "UA-5252000-1"]);
+		jQuery(function(){
+			_gaq.push(['_trackPageview']);
+		});
+	} catch(e) {}
+</script>
+<!-- Begin Olark Chat --><script type="text/javascript">(function(){document.write(unescape('%3Cscript src=%27' + (document.location.protocol == 'https:' ? "https:" : "http:") + '//static.olark.com/js/wc.js%27 type=%27text/javascript%27%3E%3C/script%3E'));})();</script><script src="https://static.olark.com/js/wc.js" type="text/javascript"></script><div id="olark-data"><a class="olark-key" id="olark-3200-826-10-9003" title="Powered by Olark" href="http://olark.com/about" rel="nofollow">Powered by Olark</a></div> <script type="text/javascript"> wc_init();</script><!-- /End Olark Chat -->
 
 
 </body></html>
