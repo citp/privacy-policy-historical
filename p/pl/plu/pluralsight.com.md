@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624120842id_/http%3A//www.pluralsight.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122233504id_/http%3A//www.pluralsight-training.net/microsoft/privacy.aspx) for the most accurate reproduction.*
 
-# Pluralsight - Premier Microsoft .NET Training: Privacy
+# Pluralsight Privacy Statement
 
-  
-
-
-## pluralsight.com privacy statement
-
-Updated: 1 Aug 2004
+_Updated: 16 December 2009_
 
 #### Collection of your Personal Information
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. For example, when you register for an event, we will need your contact information as well as financial information such as a credit card number for billing. We will retain your contact information in a user profile, but we will not retain your financial information.
+We value your trust. In order to honor that trust, Pluralsight adheres to ethical standards in gathering, using, and safeguarding any information you provide. 
 
-As is true of most websites, we gather site-visitation data automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically-collected data to personally identifiable information without first asking your permission.
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. For example, when you register for an event, we will need your contact information as well as financial information such as a credit card number for billing. We will retain your contact information in a user profile.
+
+As is true of most websites, we gather site-visitation data automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically-collected data to personally identifiable information without first asking your permission. 
 
 #### Use of your Personal Information
 
@@ -23,15 +20,15 @@ We will merge site-visitation data with anonymous demographic information for re
 
 We use an outside credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purpose.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
 
 #### Control of your Personal Information
 
-When you register, or otherwise give us personal information, pluralsight.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+When you register, or otherwise give us personal information, pluralsight.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated in this privacy policy.
 
 The vast majority of our communication with you will occur through our weblog syndication (RSS feeds). This is naturally an optional service to which you can subscribe using a news aggregator of your choice.
 
-Pluralsight will occasionally email notices such as date changes for events for which you have enrolled. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
+Pluralsight will occasionally email notices such as date changes for events for which you have enrolled. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen. 
 
 #### Access to your Personal Information
 
@@ -43,7 +40,7 @@ The security of your personal information is important to us. When you enter sen
 
 We store your personal information only on servers with limited access that are located in controlled facilities, and use a variety of technologies and procedures to protect your personal information from unauthorized access, use, or disclosure.
 
-If you have any questions about security on our website, [contact us](https://web.archive.org/contact.aspx).
+If you have any questions about security on our website, [contact](https://web.archive.org/web/20101122233504id_/http%3A//www.pluralsight-training.net/microsoft/Contact.aspx) us. 
 
 #### Use of Cookies
 
@@ -52,6 +49,18 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 We do not allow third parties (such as advertisers) to use cookies on our site, or other techniques such as clear gifs or web beacons.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as event enrollment, will be limited. Note that modern browsers allow you to pick and choose which websites should be allowed to receive cookies. For more information on fine grained control of cookies, see [Keith’s article on cookies](http://pluralsight.com/wiki/default.aspx/Keith.CookieArticle).
+
+#### Anti-Spam Policy/Opt-out Choice
+
+We are committed to providing users of this website with the choice to receive or not receive e-mails and/or other communications from Pluralsight. We strive to comply with the CAN-SPAM Act. We only send commercial e-mails to registered users, subscribers and affiliates with relationships with Pluralsight and its’ team. We offer e-mail recipients the opportunity to opt-out of further communications in every commercial e-mail. If you would like to opt-out of receiving further communications, please follow the directions in the e-mail received or contact us using one of the following modes: 
+
+  
+Email: | psmarketing@pluralsight.com  
+---|---  
+Physical mail: | 185 Lincoln St., Suite 305  
+Hingham, MA 02043-1741  
+  
+Please note that we may not include the opt-out information in non-commercial e-mails (i.e., e-mails concerning your order, the website’s Terms and Conditions of Use, etc.). If you have questions or concerns regarding a non-commercial e-mail, please contact us. 
 
 #### Changes to this Statement
 
