@@ -1,0 +1,733 @@
+<!--The following is the downloaded HTML source of the freecharge.in privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122161901id_/http%3A//freecharge.in/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>FREECHARGE - Free Online Prepaid Mobile Recharge</title>
+<meta name="keywords" content="FREECHARGE, Mobile, Prepaid, Recharge">
+<meta name="description" content="FREECHARGE - Free Online Prepaid MObile Recharge">
+
+
+<link href="codelibrary/css/style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="codelibrary/js/jquery.js"></script><script type="text/javascript" src="codelibrary/js/common1.js"></script><script type="text/javascript">
+function check(id)
+    {
+    $("#"+id+"_a").toggle("slow");
+  
+    var srcImg = $("#"+id+"_img").attr("src");
+    if(srcImg == "images/icon_minusblue.png") {
+  
+        $("#"+id+"_img").attr("src", "images/icon_plusblue.png");
+      
+    } else {
+        $("#"+id+"_img").attr("src", "images/icon_minusblue.png");
+    }
+	}
+
+	function frmULSubmit()
+	{
+		document.frmLogin.submit();
+	}
+
+	function set_session()
+	{
+		
+		$.post("clear-session.php","varbl=email",function(data){
+			
+			var find=data.indexOf("logout");
+		if(data=="logout" || find>0)
+			 {
+				window.location = 'index.php?logout_msg=logout';
+			 }
+		
+		})
+	}
+
+	function clear_text(field)
+	{
+		var val=document.frmLogin.elements[field].value.toLowerCase();
+		if(val=="email" || val=="password")
+		document.frmLogin.elements[field].value='';
+	}
+
+	function check_text(field)
+	{
+		if(document.frmLogin.elements[field].value=='')
+		{
+			val=ucfirst(field)
+			document.frmLogin.elements[field].value=val;
+		}
+	}
+
+	function submitTopLoginForm()
+	{
+		document.frmLogin.submit();
+	}
+	function submitLoginForm()
+	{
+		validateForm('frmUserLogin','codelibrary/classes/user_class.php','UserLogin');
+	}
+	function submitRegisterForm()
+	{
+		validateForm('frmRegister','codelibrary/classes/user_class.php','Register','','','','','1');	
+	}
+
+	function forget_password(val,type)
+	{
+		if(type=="confirm")
+		{
+			$.post("forgot-password.php", { conf3: val }, function(data){
+						//$("#popup_contact_edit").html(data);
+						document.getElementById('forgot_password').innerHTML = data;
+						document.getElementsByTagName('html')[0].style.overflow = 'hidden';
+						document.getElementById('forgot_password').style.display='block';
+						document.getElementById('fade_f').style.display='block';
+						document.frmForgetPassword.forget_email.focus();
+						if(val!=undefined)
+						{
+							document.getElementById('conf_container3').style.display='';
+						}
+			});
+		}
+		else
+		{
+			$.post("forgot-password.php", { err3: val }, function(data){
+						//$("#popup_contact_edit").html(data);
+						document.getElementById('forgot_password').innerHTML = data;
+						document.getElementsByTagName('html')[0].style.overflow = 'hidden';
+						document.getElementById('forgot_password').style.display='block';
+						document.getElementById('fade_f').style.display='block';
+						document.frmForgetPassword.forget_email.focus();
+						if(val!=undefined)
+						{
+							document.getElementById('err_container3').style.display='';
+						}
+			});
+		}
+	}
+
+	function submit_frm_forget()
+	{
+		document.frmForgetPassword.submit();
+	}
+function LoginFunc()
+{
+	validateForm('frmLogin','codelibrary/classes/user_class.php','UserLogin','','','','show_error_msg(\'Invalid Login credentials\');window.scroll(0,0);document.getElementsByTagName(\'html\')[0].style.overflow = \'hidden\';document.getElementById(\'login_popup\').style.display=\'block\';document.getElementById(\'fade_f\').style.display=\'block\'; ');
+}
+</script>
+</head>
+<body>
+<div class="main_container">
+<!--header starts here -->
+	<div id="header">
+		<div class="logo">
+			<a href="index.php" title="Online Prepaid Mobile Recharge"></a>
+            </div>
+         <div id="craftysyntax" class="chat">
+<script type="text/javascript" src="/crafty/livehelp_js.php?eo=1&amp;relative=Y&amp;department=1&amp;serversession=1&amp;pingtimes=15&amp;username=freecharge"></script>
+</div>
+		<div class="loginbg">
+              	<div class="login_from">
+				<form name="frmLogin" action="login_submit.php" method="post" onsubmit="return false;">
+					<input type="hidden" name="login" value="login">
+										<div class="login"><span id="txt_email"></span>					
+						<input type="text" id="email" name="email" class="login_input" value="Email" onclick="clear_text('email')" onfocus="clear_text('email')" onblur="check_text('email')">
+						<span id="txt_password"></span>	
+						<input id="password" name="password" type="password" class="login_input" value="password" onclick="clear_text('password')" onfocus="clear_text('password')" onblur="check_text('password')">
+						<a href="javascript:;" onclick="remember_me1();LoginFunc();">
+							<span>Login</span>
+						</a>
+					</div>
+					<div>
+						<a href="#" onclick="forget_password()">Forgot Password?</a><img src="images/bullet.png" alt="Forgot Password"><input name="remember_me" type="checkbox" value="1" id="remember_me">Remember me
+					</div>
+				</form></div>
+			<div class="sign_up"><a href="javascript:;" onclick="window.scroll(0,0);document.getElementById('city_voucher_available').style.display='none';document.getElementsByTagName('html')[0].style.overflow = 'hidden';document.getElementById('popup_signup').style.display='block';document.getElementById('fade_f').style.display='block'; document.getElementById('fullname').focus();" title="Sign Up"></a></div>
+			<div class="clear"></div>
+			</div>
+		<div class="clear"></div>
+	</div>
+<!--header ends here -->
+<script>
+	$(document).ready( function() {	
+		$('form[@name="frmLogin"] :input[@type="text"]').each( function() {
+			$(this).keydown(function(event){
+				validateFormByEnter(event.keyCode,'validateForm("frmLogin","codelibrary/classes/user_class.php","UserLogin","","","","show_error_msg(\'Invalid Login credentials\');window.scroll(0,0);document.getElementsByTagName(\'html\')[0].style.overflow = \'hidden\';document.getElementById(\'login_popup\').style.display=\'block\';document.getElementById(\'fade_f\').style.display=\'block\'; ")');
+			});
+		});
+		$('form[@name="frmLogin"] :input[@type="password"]').each( function() {
+			$(this).keydown(function(event){
+				validateFormByEnter(event.keyCode,'validateForm("frmLogin","codelibrary/classes/user_class.php","UserLogin","","","","show_error_msg(\'Invalid Login credentials\');window.scroll(0,0);document.getElementsByTagName(\'html\')[0].style.overflow = \'hidden\';document.getElementById(\'login_popup\').style.display=\'block\';document.getElementById(\'fade_f\').style.display=\'block\'; ")');
+			});
+		});
+});
+	//REpopulating Email and password from cookie
+	SetSavedLogin();
+</script>	<!--middle section starts here -->
+		<div id="middle_container">
+			<h1>Privacy Policy</h1>
+			<!--middle body section starts here -->
+			<div>
+				<!--middle body part starts here -->
+				<div class="middle">
+					<!--step2 div starts here -->
+						<div id="step2">
+							<div class="internal_top"></div>
+							<div class="step2">
+								<!--content_holder div starts here -->	
+								<div class="content_holder">
+								<p><span style="font-size: small;"><span style="font-family: Arial;"><span lang="EN-GB" new="">We are committed towards protecting your privacy. Authorized employees within the company on a need to know basis only use any information collected from individual customers. We constantly review our systems and data to ensure the best possible data security to our customers. Incase of any failures, we will investigate all actions with a view to prosecuting and/or taking civil proceedings to recover damages against those responsibe</span></span></span>.</p>
+<p><span style="font-size: small;"><span style="font-family: Arial;"><b style=""><span lang="EN-GB" new="">We will not sell, share or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by this Company will only be in connection with the provision of agreed services and products.</span></b></span></span><b style=""><span lang="EN-GB" style="font-size: 8pt;" new=""><o:p></o:p></span></b></p>
+<p><span style="font-size: small;"><span style="font-family: Arial;"><span><b style=""><span lang="EN-GB" new="">Log Files<br>
+</span></b><span lang="EN-GB" new="">We use IP addresses to analyse trends, administer the site, track usage patterns, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, our web servers automatically log standard access information including browser type, access times/open mail, URL requested, and referral URL. This information is not shared with third parties and is used only within this Co</span></span></span></span><span style="font-size: small;"><span style="font-family: Arial;"><span><span lang="EN-GB" new="">m</span><span lang="EN-GB" new="">pany on a need-to-know basis. Any individually identifiable information related to this data will never be used in any way different to that stated above without your explicit permission.</span></span></span></span><span lang="EN-GB" style="font-size: 8pt;" new=""><o:p></o:p></span></p>
+<p><strong><span style="font-size: small;"><span style="font-family: Arial;"><b style=""><span lang="EN-GB" new="">Cookies<br>
+</span></b></span></span></strong><span style="font-size: small;"><span style="font-family: Arial;"><span lang="EN-GB" new="">Like most interactive web sites this </span><span lang="EN-GB" new="">Company</span><span lang="EN-GB" new="">’s website [or ISP] uses cookies to enable us to retrieve user details for each visit. Cookies are used in some elements of our site to enable the functionality of that element and ease of use for for the user. Some of our affiliate partners may also use cookies.</span></span></span><strong><span style="font-size: small;"><span style="font-family: Arial;"><span lang="EN-GB" new=""> </span></span></span></strong><span lang="EN-GB" style="font-size: 8pt;" new=""><o:p></o:p></span></p>
+<p><strong><strong><span style="font-size: small;"><span style="font-family: Arial;"><b style=""><span lang="EN-GB" new="">Links to this website</span></b></span></span></strong><span style="font-size: small;"><span style="font-family: Arial;"><b style=""><span lang="EN-GB" new=""> </span></b><span lang="EN-GB" new=""><br>
+</span></span></span></strong><span style="font-size: small;"><span style="font-family: Arial;"><span lang="EN-GB" new="">You may not create a link to any page of this website without our prior written consent. If you do create a link to a page of this website you do so at </span><span lang="EN-GB" new="">your own risk and the exclusions and limitations</span><span lang="EN-GB" new=""> set out above will apply to your use of this website by linking to it.</span></span></span></p>
+<p><span style="font-size: small;"><span style="font-family: Arial;"><b style=""><span lang="EN-GB" new="">Links from this website</span></b><b style=""><span lang="EN-GB" new=""> </span></b><span lang="EN-GB" new=""><br>
+We do not monitor or review the content of other party’s websites which are linked to from this website. Opinions expressed or materials appearing on such websites are not necessarily shared or endorsed by us and should not be regarded as the publisher of such opinions or material. Please be aware that we are not responsible for the privacy practices, or content, of these sites. We encourage our users to be aware when they leave our site &amp; to read the privacy statements of these sites. You should evaluate the security and trustworthiness of any other site connected to this site or accessed through this site yourself, before disclosing any personal information to them. This Company will not accept any responsibility for any loss or damage in whatever manner, howsoever caused, resulting from your disclosure to third parties of personal information.</span></span></span></p>
+<p><span style="font-size: small;"><span lang="EN-GB" new=""><o:p></o:p></span></span><strong><span style="font-size: small;"><span style="font-family: Arial;"><b style=""><span lang="EN-GB" new="">Communication</span></b></span></span></strong><b style=""><span lang="EN-GB" style="font-size: 10pt;" new=""><o:p></o:p></span></b></p>
+<p><span lang="EN-GB">For any kind of communication, please write to info@freecharge.in</span><br>
+<strong>
+</strong></p><p><strong><span style="font-size: small;"><span style="font-family: Arial;"><b style=""><span lang="EN-GB"> </span></b><span lang="EN-GB">Our registered office is at C-1, Udyog Sadan No.3, MIDC Central Road, Near SEEPZ, Andheri (E),Mumbai-400096.</span></span></span></strong></p><strong>
+</strong><p></p>								</div>
+								<!--content_holder div ends here -->
+								<!--link_holder div starts here -->	
+								<div class="link_holder">
+									<ul>
+										<li><a href="index.php"><span>FreeCharge</span></a></li>
+										<li><a href="about-us.php">About FreeCharge</a></li>
+										<li><a href="terms-conditions.php">Terms &amp; Conditions</a></li>
+										<li>Privacy Policy</li>
+										<li><a href="feedback.php">Feedback</a></li>
+										<li><a href="contact-us.php">Contact Us</a></li>
+										<li><a href="faq.php">FAQ</a></li>
+										<li><a href="/blog/">Blog</a></li>
+									</ul>
+								</div>
+								<!--link_holder div ends here -->	
+								<div class="clear"></div>							
+							</div>
+							<div class="step2_btm"></div>
+						</div>
+					<!--step2 div ends here -->
+				</div>
+				<!--middle body part ends here -->
+				<!--right part starts here -->
+				<style type="text/css">
+.right .FB_SERVER_IFRAME {width:265px;}
+iframe{width:265px;}
+</style>
+
+<div class="right">
+
+				<div>
+				  <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("395808219de80668fa70fb20c5841d64");</script><fb:fan profile_id="341671804417" stream="0" connections="8" logobar="0" width="255"></fb:fan>
+				  <div style="font-size:12px; padding-left:10px"></div>  
+				  </div>
+                </div>
+								<!--right part ends here -->
+				<div class="clear"></div>
+			</div>
+			<!--middle body section ends here -->
+		</div>
+	<!--middle section ends here -->
+<script language="javascript">
+	function city_other()
+	{
+		if(document.getElementById("city_list").value=="-1")
+		{
+			document.frmPopRegisterNew.city_o.style.display="block";
+		}
+		else
+		{
+			document.frmPopRegisterNew.city_o.style.display="none";
+		}
+	}
+
+
+	function city_other2()
+	{
+
+		if(document.getElementById("city_list1").value=="-1")
+		{
+			$('#city_o2').show();
+		}
+		else
+		{
+				$('#city_o2').hide();
+		}
+	}
+</script>	
+
+	<!--footer starts here -->
+		<div class="footer">
+       
+			<!--footer links div starts here -->
+			<div class="footer_links">
+			<a href="index.php">Online Prepaid Mobile Recharge</a>
+			<img src="images/footer_bullet.png" alt="About Us">
+			<a href="about-us.php">About us</a>
+			<img src="images/footer_bullet.png" alt="About Us">
+			<a href="terms-conditions.php">Terms &amp; Conditions</a>
+			<img src="images/footer_bullet.png" alt="Privacy Policy">
+			<a href="privacy-policy.php">Privacy Policy</a>
+			<img src="images/footer_bullet.png" alt="Feedback">
+			<a href="feedback.php">Feedback</a>
+			<img src="images/footer_bullet.png" alt="Contact us">
+			<a href="contact-us.php">Contact us</a>
+			<img src="images/footer_bullet.png" alt="FAQ">
+			<a href="faq.php">FAQ</a>
+			<img src="images/footer_bullet.png" alt="Blog">
+			<a href="/blog/">Blog</a>
+			</div>
+            
+            <div class="footer1">
+            
+            
+			
+			
+			        
+            </div>
+            
+<div id="city_voucher_available"></div>
+			<!--footer links div ends here -->
+			
+			<!--copyright div starts here -->
+			<div class="copyright"><strong>FREECHARGE -</strong>    Mobile Recharge Made Free. Online Mobile Recharge of 
+            <a href="Airtel-online-prepaid-mobile-recharge">Airtel</a>,
+             <a href="DOCOMO-online-prepaid-mobile-recharge">DoCoMo</a>,
+              <a href="Reliance-online-prepaid-mobile-recharge">Reliance</a>,
+               <a href="Loop-online-prepaid-mobile-recharge">Loop</a>,
+                <a href="Vodafone-online-prepaid-mobile-recharge">Vodafone</a>,
+                 <a href="Idea-online-prepaid-mobile-recharge">Idea</a>,
+                  <a href="Tata-Indicom-online-prepaid-mobile-recharge">Tata Indicom</a>,
+                  <a href="Aircel-online-prepaid-mobile-recharge">Aircel</a>,
+                  <a href="Virgin-online-prepaid-mobile-recharge">Virgin</a>,
+                   <a href="S-Tel-online-prepaid-mobile-recharge">S-Tel</a>,
+                    <a href="Indicom-Walky-online-prepaid-mobile-recharge">Indicom Walky</a>,
+                  <a href="BSNL-online-prepaid-mobile-recharge">BSNL</a> and other Indian Operators Made Free<br> All Rights Reserved. Accelyst Solutions Pvt. Ltd.</div>
+
+
+			<!--copyright div starts here -->
+			<!--sponsors div starts here -->
+			<!--<div class="sponsors"></div> -->
+			<!--sponsors div ends here -->
+			<div class="clear"></div>
+			
+		</div>
+	<!--footer ends here -->
+</div>
+<!--forgot password starts here-->
+<div class="popup_container" id="forgot_password">
+</div>
+<!--forgot password ends here-->
+
+<!--add contact starts here-->
+<div class="popup_container" id="popup_contact">
+	<div class="popup_tab">
+		<span class="popup_contact"></span>
+		<a href="javascript:;" class="popup_close" onclick="document.getElementsByTagName('html')[0].style.overflow ='auto';document.getElementById('popup_contact').style.display='none';document.getElementById('fade_f').style.display='none';"></a>
+	</div>
+	<form name="frmAddContact" action="add-contact-submit.php" method="post">
+	<div class="popup_top"></div>
+	<div class="popup_mid">
+		<input type="hidden" name="contact_id">
+		<div class="form_container">
+			<div align="center">
+				<!-- Div error message start -->
+<div id="err_container1" style="display:none;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr><td align="center">
+	<table width="0%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr>
+			<td width=""><img src="http://freecharge.in/images/icon_error_leftBdr.gif" width="40" height="59"></td>
+			<td align="center" nowrap="" background="http://freecharge.in/images/icon_error_centerBg.gif" class="errorGreyBold2" id="inner_err_container1">
+					</td>
+		<td width="16"><img src="http://freecharge.in/images/icon_error_rhtBdr.gif" width="16" height="59"></td>
+	  </tr>
+	</tbody></table>
+	</td></tr></tbody></table>
+</div>
+<!-- Div error message end -->
+
+
+<!-- Div confirmation message start -->
+<div id="conf_container1" style="display:none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr><td align="center">
+   <table width="0%" border="0" cellspacing="0" cellpadding="0" align="center">
+	  <tbody><tr>
+		<td width=""><img src="http://freecharge.in/images/icon_confirmation_leftBdr.gif" width="45" height="59"></td>
+		<td background="http://freecharge.in/images/icon_confirmation_centerBg.gif" class="errorGreyBold" id="inner_conf_container1"></td>
+			<td width="16"><img src="http://freecharge.in/images/icon_confirmation_rhtBdr.gif" width="16" height="59"></td>
+		  </tr>
+		</tbody></table>
+		</td>
+		</tr>
+		</tbody></table>
+</div>
+<!-- Div error message end -->
+
+
+			</div>
+			<div class="popup_signup_left">
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_full_name">Full Name</span></div>
+					<div class="popup_form_value">
+						<input name="full_name" id="full_name" type="text" class="textfield1">
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_mobile_no">Phone Number</span></div>
+					<div class="popup_form_value">
+						<input name="mobile_no" id="mobile_no" type="text" class="textfield1" maxlength="10">
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_services">Services</span></div>
+					<div class="popup_form_value">
+					  <select name="services" id="services" class="select1">
+                        <option value="">Select Services</option>
+                                                <option value="Airtel">Airtel</option>
+                                                <option value="Vodafone">Vodafone</option>
+                                                <option value="BSNL">BSNL</option>
+                                                <option value="Reliance">Reliance</option>
+                                                <option value="Tata-Indicom">Tata-Indicom</option>
+                                                <option value="Virgin">Virgin</option>
+                                                <option value="Loop">Loop</option>
+                                                <option value="Idea">Idea</option>
+                                                <option value="Docomo">Docomo</option>
+                                                <option value="Aircel">Aircel</option>
+                                                <option value="S-Tel">S-Tel</option>
+                                                <option value="Indicom-Walky 	">Indicom-Walky 	</option>
+                                                <option value="BSNLR">BSNLR</option>
+                                              </select>
+					</div>
+				  <div class="clear"></div>
+				</div>
+				<div class="form_row">
+					<div class="btn_add_contact">
+						<a href="#" class="" title="Add Contact" onclick="validateForm('frmAddContact','codelibrary/classes/user_class.php','AddContact','','','','','1')">
+						</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>			
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="popup_btm">All fields are mandatory</div>
+	</form>
+</div>
+<!--add contact ends here-->
+<div class="popup_container" id="popup_contact_edit">
+</div>
+<!--popup_signup starts here-->
+<div class="popup_container" id="popup_signup">
+	<div class="popup_tab">
+		<span class="popup_signup"></span>
+		<a href="javascript:;" class="popup_close" onclick="document.getElementsByTagName('html')[0].style.overflow ='auto';document.getElementById('popup_signup').style.display='none';document.getElementById('fade_f').style.display='none';document.getElementById('city_voucher_available').style.display='block';"></a>
+	</div>
+	<form name="frmPopRegisterNew" action="popregister-submit.php" method="post" onsubmit="return false;" id="frmPopRegisterNew">
+	<div class="popup_top"></div>
+	<div class="popup_mid">
+		<div class="form_container">
+			<div align="center">
+				<!-- Div error message start -->
+<div id="err_container2" style="display:none;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr><td align="center">
+	<table width="0%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr>
+			<td width=""><img src="http://freecharge.in/images/icon_error_leftBdr.gif" width="40" height="59"></td>
+			<td align="center" nowrap="" background="http://freecharge.in/images/icon_error_centerBg.gif" class="errorGreyBold2" id="inner_err_container2">
+					</td>
+		<td width="16"><img src="http://freecharge.in/images/icon_error_rhtBdr.gif" width="16" height="59"></td>
+	  </tr>
+	</tbody></table>
+	</td></tr></tbody></table>
+</div>
+<!-- Div error message end -->
+
+
+<!-- Div confirmation message start -->
+<div id="conf_container2" style="display:none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr><td align="center">
+   <table width="0%" border="0" cellspacing="0" cellpadding="0" align="center">
+	  <tbody><tr>
+		<td width=""><img src="http://freecharge.in/images/icon_confirmation_leftBdr.gif" width="45" height="59"></td>
+		<td background="http://freecharge.in/images/icon_confirmation_centerBg.gif" class="errorGreyBold" id="inner_conf_container2"></td>
+			<td width="16"><img src="http://freecharge.in/images/icon_confirmation_rhtBdr.gif" width="16" height="59"></td>
+		  </tr>
+		</tbody></table>
+		</td>
+		</tr>
+		</tbody></table>
+</div>
+<!-- Div error message end -->
+
+
+			</div>
+			<div class="popup_signup_left">
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_fullname">Full Name</span></div>
+					<div class="popup_form_value">
+					<input name="fullname" id="fullname" type="text" class="textfield1"></div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_addr">Address</span></div>
+					<div class="popup_form_value">
+					<input name="addr" id="addr" type="text" class="textfield1"></div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_city_list">City</span></div>
+					<div class="popup_form_value">
+					<select name="city_list" id="city_list" class="select1" onchange="city_other();">
+						<option value="">Select City</option>
+						<option value="7">Agra</option><option value="8">Ahmedabad</option><option value="11">Allahabad</option><option value="32">Ambala</option><option value="44">Amritsar</option><option value="130">Bangalore</option><option value="180">Bhiwani</option><option value="190">Bhopal</option><option value="214">Calicut</option><option value="228">Chandigarh</option><option value="245">Chennai</option><option value="273">Cochin</option><option value="274">Coimbatore</option><option value="281">Cuttack</option><option value="290">Dasuya</option><option value="300">Dehradun</option><option value="284">Delhi</option><option value="350">Faridabad</option><option value="370">Gajraula</option><option value="380">Ghaziabad</option><option value="402">Gurgaon</option><option value="406">Gwalior</option><option value="430">Howrah</option><option value="434">Hyderabad</option><option value="440">Indore</option><option value="451">Jaipur</option><option value="455">Jalandhar</option><option value="456">Jamshedpur</option><option value="460">Jodhpur</option><option value="507">Kanpur</option><option value="510">Karnal</option><option value="589">Kolhapur</option><option value="590">Kolkata</option><option value="591">Kota</option><option value="600">Lucknow</option><option value="610">Ludhiana</option><option value="650">Manesar</option><option value="656">Mangalore</option><option value="658">Manipal</option><option value="670">Mathura</option><option value="680">Meerut</option><option value="693">Mohali</option><option value="724">Mumbai</option><option value="735">Nagpur</option><option value="740">Nasik</option><option value="772">New Delhi</option><option value="783">Noida</option><option value="860">Panipat</option><option value="861">Patarsi</option><option value="862">Patiala</option><option value="874">Pune</option><option value="901">Raipur</option><option value="927">Roorkee</option><option value="1000">Shimla</option><option value="1037">Surat</option><option value="1052">Thane</option><option value="1113">Vadodara</option><option value="1115">Vapi</option><option value="1120">Varanasi</option>						
+						<option value="-1">Other</option>
+					</select>
+					<br>
+					<input type="text" name="city_o" class="textfield1" value="Specify Your City" onfocus="if(this.value=='Specify Your City') this.value='';" onblur="if(this.value=='') this.value='Specify Your City';" style="margin-top:5px; display:none">
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_pin_code">Pin Code</span></div>
+					<div class="popup_form_value">
+					<input name="pin_code" id="pin_code" type="text" class="textfield1" maxlength="6"></div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_e_mail">Email</span></div>
+
+
+					<div class="popup_form_value">
+					<input name="e_mail" id="e_mail" type="text" class="textfield1"></div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_pass">Password</span></div>
+					<div class="popup_form_value">
+					<input name="pass" id="pass" type="password" class="textfield1"></div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_con_pass">Confirm Password</span></div>
+					<div class="popup_form_value">
+					<input name="con_pass" id="con_pass" type="password" class="textfield1"></div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="form_label4">
+						<input name="terms" id="terms" type="checkbox">
+						<span id="txt_terms">I agree to <a href="terms-conditions.php" class="link2" target="_blank">terms and conditions</a></span>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="form_row">
+					<div class="popup_form_value">
+					<a href="javascript:" class="join_family" title="Join the Family" onclick="validateForm('frmPopRegisterNew','codelibrary/classes/user_class.php','PopRegister','','','','','2')">
+					</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="popup_signup_right">
+				<div class="info1">For Coupon delivery and to get better Coupons in future.</div>
+				<div class="info2">To track your transaction conviniently.</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="popup_btm">All fields are mandatory</div>
+	</form>
+</div>
+<!--popup_signup ends here-->
+<!--contact us starts here-->
+<div class="popup_container" id="popup_spm">
+	<div class="popup_tab">
+		<span class="popup_spm"></span>
+		<a href="javascript:;" class="popup_close" onclick="document.getElementsByTagName('html')[0].style.overflow ='auto';document.getElementById('popup_spm').style.display='none';document.getElementById('fade_f').style.display='none';"></a>
+	</div>
+	<div class="popup_top"></div>
+	<div class="popup_mid">
+									<form action="" method="get">
+							<div>
+								<div class="formlabel7_a"><input name="" type="radio" value="" checked=""> 
+								Credit Card</div>
+								<div class="formlabel7_b"><input name="" type="radio" value=""> Debit Card / Netbanking</div>
+								<div class="clear"></div>
+							</div>
+							
+							<div>
+								<div class="formlabel7_a"><input name="" type="button" class="btn_submit"></div>
+								<div class="clear"></div>
+							</div>
+							</form>
+	</div>
+	<div class="popup_btm">All fields are mandatory</div>
+</div>
+<!--contact us ends here-->
+
+<!--confirm popup starts here-->
+<div class="popup_container" id="popup_confirm">
+	<div class="popup_tab">
+		<span class="header_continue"></span>
+		<a href="javascript:;" class="popup_close" onclick="document.getElementsByTagName('html')[0].style.overflow ='auto';document.getElementById('popup_confirm').style.display='none';document.getElementById('fade_f').style.display='none';"></a>
+	</div>
+	<div class="popup_top"></div>
+	<div class="popup_mid">
+		<div class="pop_txt">You have not selected any coupons. You want to continue without coupons?</div>
+		
+		<div class="pop_img">
+			<a onclick="document.getElementsByTagName('html')[0].style.overflow ='auto';document.getElementById('popup_confirm').style.display='none';document.getElementById('fade_f').style.display='none';" href="javascript:;"><img src="images/bt_select_coupons.png" alt="Select Coupon" border="0" title="Select Coupon"></a>
+			
+			<a href="#" onclick="document.frmRecharge.mobile_no.disabled=false;document.frmRecharge.amount.disabled=false;validateForm('frmRecharge','codelibrary/classes/user_class.php','Recharge');"><img src="images/vr_cwc.png" alt="Continue Without Coupon" border="0" title="Continue Without Coupon"></a>
+		</div>
+		
+	</div>
+	<div class="popup_btm"></div>
+</div>
+<!--confirm popup ends here-->
+
+
+
+<!-- login pop up starts hr -->
+
+<div class="popup_container" id="login_popup">
+	<div class="popup_tab">
+		<span class="popup_login"></span>
+		<a href="javascript:;" class="popup_close" onclick="document.getElementsByTagName('html')[0].style.overflow ='auto';document.getElementById('login_popup').style.display='none';document.getElementById('fade_f').style.display='none';"></a>
+	</div>
+
+		<form name="login_frm" method="post" action="privacy-policy.php" onsubmit="return false;">
+			<!-- forget-password-submit.php -->
+		<div class="popup_top"></div>
+		<div class="popup_mid">
+			<div align="center">
+				<!-- Div error message start -->
+<div id="err_container" style="display:none;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr><td align="center">
+	<table width="0%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr>
+			<td width=""><img src="http://freecharge.in/images/icon_error_leftBdr.gif" width="40" height="59"></td>
+			<td align="center" nowrap="" background="http://freecharge.in/images/icon_error_centerBg.gif" class="errorGreyBold2" id="inner_err_container">
+					</td>
+		<td width="16"><img src="http://freecharge.in/images/icon_error_rhtBdr.gif" width="16" height="59"></td>
+	  </tr>
+	</tbody></table>
+	</td></tr></tbody></table>
+</div>
+<!-- Div error message end -->
+
+
+<!-- Div confirmation message start -->
+<div id="conf_container" style="display:none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody><tr><td align="center">
+   <table width="0%" border="0" cellspacing="0" cellpadding="0" align="center">
+	  <tbody><tr>
+		<td width=""><img src="http://freecharge.in/images/icon_confirmation_leftBdr.gif" width="45" height="59"></td>
+		<td background="http://freecharge.in/images/icon_confirmation_centerBg.gif" class="errorGreyBold" id="inner_conf_container"></td>
+			<td width="16"><img src="http://freecharge.in/images/icon_confirmation_rhtBdr.gif" width="15" height="59"></td>
+		  </tr>
+		</tbody></table>
+		</td>
+		</tr>
+		</tbody></table>
+</div>
+<!-- Div error message end -->
+
+
+			</div>
+			<div class="form_container">
+				<div class="popup_signup_left">
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_email1">Email</span></div>
+					<div class="popup_form_value">
+					<input type="text" class="input_bg" size="27" name="email1" id="email1"></div>
+					<div class="clear"></div>
+				</div>
+				<div class="popup_form_row">
+					<div class="popup_form_label"><span id="txt_password1">Password</span></div>
+					<div class="popup_form_value">
+					<input type="password" class="input_bg" size="27" name="password1" id="password1"></div>
+					<div class="clear"></div>
+				</div>
+					
+					<div class="bt_holder2">
+						
+						
+						<div class="bt_submit" onclick="validateForm('login_frm', 'codelibrary/classes/user_class.php', 'UserLoginLayer');" style="cursor:pointer;">
+						</div>
+
+
+
+						<div class="clear"></div>
+					</div>
+				</div>			
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="popup_btm">All fields are mandatory</div>
+		<input type="hidden" name="login_form" id="login_form" value="1">
+
+	</form>
+</div>
+<!-- login pop up ends hr -->
+
+
+<!-- new pop up starts hr -->
+
+<div class="popup_container" id="V_details">
+	
+</div>
+<!-- new popup ends hr -->
+
+
+<!-- change coupon popup -->
+
+<!-- change coupon end here -->
+<div class="black_overlay" id="fade_f"></div>
+<script>
+	$(document).ready( function() {	
+		$('form[@name="login_frm"] :input[@type="text"]').each( function() {
+			$(this).keydown(function(event){
+				validateFormByEnter(event.keyCode,'validateForm(\'login_frm\',\'codelibrary/classes/user_class.php\',\'UserLoginLayer\')');
+			});
+		});
+	
+			$('form[@name="login_frm"] :input[@type="password"]').each( function() {
+			$(this).keydown(function(event){
+				validateFormByEnter(event.keyCode,'validateForm(\'login_frm\',\'codelibrary/classes/user_class.php\',\'UserLoginLayer\')');
+			});
+		});
+
+
+
+	});
+
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12939857-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+
+
+</body></html>
