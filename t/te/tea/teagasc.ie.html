@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2010-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100501130641id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122184952id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "../Templates/sub_page_template.dwt" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -64,7 +64,15 @@
 						
 			<!-- start header-->
 			<div id="header">			
-							<!-- start logo -->
+							<script language="javascript">
+			function browse_topic(f) {
+				if (f.bbt.value != "-1") {
+					window.location = f.bbt.value;
+				}
+			}
+			</script>
+
+			<!-- start logo -->
 			<div class="col_319"><a href="/"><img src="/includes/images/logos/teagasc_logo.gif" alt="Teagasc - The Irish Agriculture and Food Development Authority" width="310" height="108"></a></div>
 			<!-- stop logo -->
 
@@ -82,7 +90,7 @@
 					<li id="nav_publications"><a href="/publications/" title="Publications" accesskey="5">Publications</a></li>
 					<li id="nav_careers"><a href="/careers/" title="Careers" accesskey="6">Careers</a></li>
 					<li id="nav_contact"><a href="/contacts/" title="Contact Us" accesskey="7">Contact Us</a></li>
-					<li id="nav_irish"><a href="/gaeilge/" title="As Gaeilge" accesskey="i">As Gaeilge</a></li>
+					<li id="nav_irish"><a href="/gaeilge/" title="Gaeilge" accesskey="i">Gaeilge</a></li>
 				</ul>
 				<br class="clear">
 			</div>
@@ -91,8 +99,49 @@
 			
 			<br>
 			
-			<!-- start site search -->
+			<!-- start topic search -->
 			<div class="col_319">
+				<form action="/" method="post" class="frmHome" onsubmit="javascript: browse_topic(this);return false;">
+				<fieldset>
+					<label for="bbt">QUICK ACCESS:</label>
+					<select id="bbt" name="topic">
+						<option value="-1">Choose from Menu</option>
+						<option value="/topics/animalgrassland/">Animal &amp; Grassland</option>
+						<option value="/topics/animalgrassland/cattle.asp">--- Cattle</option>
+						<option value="/topics/animalgrassland/dairy.asp">--- Dairy</option>
+						<option value="/topics/grassland/">--- Grassland</option>
+						<option value="/pigs/">--- Pigs</option>
+						<option value="/topics/animalgrassland/sheep.asp">--- Sheep</option>
+						<option value="/topics/cropsenvland/">Crops, Environment &amp; Land Use</option>
+						<option value="/topics/cropsenvland/energy.asp">--- Bio-energy</option>
+						<option value="/topics/cropsenvland/cereals.asp">--- Cereals</option>
+						<option value="/topics/cropsenvland/environment.asp">--- Environment</option>
+						<option value="/forestry/">--- Forestry</option>
+						<option value="/horticulture/">--- Horticulture</option>
+						<option value="/topics/cropsenvland/potatoes.asp">--- Potatoes</option>
+						<option value="/training/">Education &amp; Training</option>
+						<option value="/training/collegescentres.asp">--- Colleges</option>
+						<option value="/training/courses.asp">--- Courses</option>
+						<option value="/topics/food/">Food</option>
+						<option value="http://www.relayresearch.ie/subapplications/teagasc/Programme.aspx?ProgID=6&amp;ProgName=Gut%20Health">--- Food Bioscience</option>
+						<option value="/ashtown/research/foodsafety/index.asp">--- Food Safety</option>
+						<option value="/ashtown/research/meattechnology/">--- Food Quality &amp; Technology</option>
+						<option value="/ashtown/fid/">--- Technology Transfer</option>
+						<option value="/health_safety/">Health &amp; Safety</option>
+						<option value="/topics/economics/home.asp">Rural Economy &amp; Development</option>
+						<option value="http://www.agresearch.teagasc.ie/rerc/index.asp">--- Economics</option>
+						<option value="/advisory/farm_management/">--- Farm Management</option>
+						<option value="/ruraldev/progs/organic_farming/">--- Organics</option>
+						<option value="/topics/rural_dev/">--- Rural Development</option>
+					</select>
+					<input type="submit" value="GO" class="btn">
+				</fieldset>
+				</form>
+			</div>
+			<!-- stop topic search -->
+			
+			<!-- start site search -->
+			<div class="col_319" style="float:right;">
 				<form id="dtSearchForm" name="dtSearchForm" action="/search/Default.aspx" method="POST" class="frmHome" onsubmit="javascript:submit_search()">
 					<label for="SearchRequest">SITE SEARCH:</label>
 					<input id="SearchRequest" class="SearchControl" type="edit" name="request" size="40" maxlength="200" align="middle" value="Enter Keyword(s)" onfocus="if(this.value=='Enter Keyword(s)')this.value='';" onblur="if(this.value=='')this.value='Enter Keyword(s)';">
@@ -100,54 +149,6 @@
 				</form>			
 			</div>
 			<!-- stop site search -->			
-			
-			<!-- start topic search -->
-			<div class="col_319" style="float:right;">
-				<form action="/" method="post" class="frmHome" onsubmit="javascript: browse_topic(this);return false;">
-				<fieldset>
-					<label for="bbt">BROWSE BY TOPIC:</label>
-					<select id="bbt" name="topic">
-						<option value="-1">Choose from Menu</option>
-						<option value="/topics/biotechnology/">Biotechnology</option>
-						<option value="/topics/crops/">Crops</option>
-						<option value="/topics/crops/cereals.asp">--- Cereals</option>
-						<option value="/topics/crops/energy.asp">--- Energy</option>
-						<option value="/topics/crops/potatoes.asp">--- Potatoes</option>
-						<option value="/topics/economics/">Economics</option>
-						<option value="/topics/economics/survey.asp">--- National Farm Survey</option>
-						<option value="/topics/economics/fapri.asp">--- FAPRI</option>
-						<option value="/topics/environment/">Environment</option>
-						<option value="/topics/farm_business/">Farm Business</option>
-						<option value="/topics/food/">Food</option>
-						<option value="/ashtown/research/foodmarketing/">--- Consumer &amp; Market Insights</option>
-						<option value="/topics/food/dairytechnology.asp">--- Dairy Technology</option>
-						<option value="http://www.relayresearch.ie/subapplications/teagasc/Programme.aspx?ProgID=3&amp;ProgName=Food%20Cultures">--- Food Cultures</option>
-						<option value="/ashtown/fid/">--- Food Industry Development</option>
-						<option value="/topics/food/foodingredients.asp">--- Food Ingredients</option>
-						<option value="/topics/food/foodsafety.asp">--- Food Safety</option>
-						<option value="/topics/food/functionalfoods.asp">--- Functional Foods</option>
-						<option value="/ashtown/research/meattechnology/">--- Meat Research</option>
-						<option value="/ashtown/research/preparedfoods/">--- Prepared Foods</option>
-						<option value="/forestry/">Forestry</option>						
-						<option value="/topics/grassland/">Grassland</option>
-						<option value="/health_safety/">Health &amp; Safety</option>
-						<option value="/horticulture/">Horticulture</option>						
-						<option value="/topics/livestock/">Livestock</option>
-						<option value="/topics/livestock/beef.asp">--- Beef</option>
-						<option value="/topics/livestock/dairy.asp">--- Dairy</option>
-						<option value="/topics/livestock/goats.asp">--- Goats</option>
-						<option value="/topics/livestock/horses.asp">--- Horses</option>
-						<option value="/pigs/">--- Pigs</option>
-						<option value="/topics/livestock/poultry.asp">--- Poultry</option>
-						<option value="/topics/livestock/sheep.asp">--- Sheep</option>						
-						<option value="/topics/organicfarming/">Organic Farming</option>
-						<option value="/topics/rural_dev/">Rural Development</option>
-					</select>
-					<input type="submit" value="GO" class="btn">
-				</fieldset>
-				</form>
-			</div>
-			<!-- stop topic search -->
 			
 			<br class="clear">
 
@@ -194,6 +195,7 @@
 				<li id="aboutus"><a href="/aboutus/index.asp">About Us</a></li>
 				<li id="board"><a href="/aboutus/teagasc_board.asp">Teagasc Board</a></li>
 				<li id="director"><a href="/aboutus/director/">Director's Speeches</a></li>
+				<li id="foi"><a href="/aboutus/foi/">Freedom of Information</a></li>
 				<li id="accessibility"><a href="/aboutus/accessibility.asp">Accessibility Statement</a></li>
 				<li id="accesskeys"><a href="/aboutus/accesskeys.asp">Access Keys</a></li>
 				<li id="privacy"><a href="/aboutus/privacy.asp">Privacy Statement</a></li>
@@ -321,7 +323,7 @@
 			<div id="footer">
 					<div class="flo_700">
 		<p><strong>Head Office:</strong> Teagasc, Oak Park, Carlow, Ireland <span>Tel: +353 59 917 0200</span>  <span>Fax: +353 59 918 2097</span> <span>Email: <a href="mailto:info@teagasc.ie">info@teagasc.ie</a></span></p>
-		<p><a id="sitemap" href="/sitemap/Sitemap.aspx" accesskey="3">SITEMAP</a> <span class="push">|</span> <a id="privacy" href="/aboutus/privacy.asp" accesskey="p">PRIVACY STATEMENT</a> <span class="push">|</span> <a id="accessibility" href="/aboutus/accessibility.asp" accesskey="c">ACCESSIBILITY</a></p>
+		<p><a id="sitemap" href="/sitemap/Sitemap.aspx" accesskey="3">SITEMAP</a> <span class="push">|</span> <a id="privacy" href="/aboutus/privacy.asp" accesskey="p">PRIVACY STATEMENT</a> <span class="push">|</span> <a id="Freedom of Information" href="/aboutus/foi/">FREEDOM OF INFORMATION</a> <span class="push">|</span> <a id="accessibility" href="/aboutus/accessibility.asp" accesskey="c">ACCESSIBILITY</a></p>
 	</div>
 	<div class="flo_250">
 		<a href="http://www.ndp.ie"><img src="/includes/images/logos/ndp.gif" alt="NDP" width="135" height="66"></a><a href="http://europa.eu/"><img src="/includes/images/logos/eu.gif" width="98" height="66" alt="EU"></a>
