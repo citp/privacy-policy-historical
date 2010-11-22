@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerworld.com.au privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418203255id_/http%3A//www.computerworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerworld.com.au privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122101727id_/http%3A//www.computerworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Computerworld
 
