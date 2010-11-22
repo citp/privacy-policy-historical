@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalocampus.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614102922id_/http%3A//www.chalocampus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalocampus.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081518id_/http%3A//www.chalocampus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | INDIAN EDUCATION BLOG
 
