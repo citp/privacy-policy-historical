@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224154615id_/http%3A//www.peoplesearchnow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122121420id_/http%3A//www.peoplesearchnow.com/privacy.aspx) for the most accurate reproduction.*
 
 # People Search Now - Privacy Policy
 
-**Last Updated: April 17, 2008**
+**Last Updated: September 23, 2009**
 
   
 PeopleSearchNow.com takes your privacy seriously. This policy covers how we treat personal information that we collect and receive. By using our web site, you agree to the terms in this policy. If you have any questions about this policy, please refer to the end of this policy for information about how to contact us.
