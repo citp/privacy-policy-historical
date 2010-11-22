@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327110611id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123003317id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Art: Exotic India
 
@@ -66,7 +66,7 @@ Our site provides users the opportunity to opt-out of receiving newsletters from
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
 [ **Correct/Update**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site once you have logged in or by emailing our Customer Support at ](http://www.exoticindiaart.com/unsubscribe.php3)[info@exoticindia.com.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site once you have logged in or by emailing our Customer Support at ](http://exoticindiaart.com/unsubscribe.php3)[info@exoticindia.com.
 
 **Customer Testimonials/Comments**  
 We post customer testimonials/comments on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial or comment to post their name along with their testimonial or comment.
