@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbeenblinded.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102174040id_/http%3A//youbeenblinded.com/contact-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeenblinded.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122110834id_/http%3A//youbeenblinded.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -45,6 +45,8 @@ Syndication: YBB allows for the RSS syndication of all of its public content wit
 
 With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
 Children Under 18 Years of Age
 
 You must be 13 years and older to register to use the YBB website. As a result, YBB does not specifically collect information about children. If we learn that YBB has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using YBB or sending information about themselves or anyone else over the Internet.
@@ -59,4 +61,4 @@ If you decide to visit the YBB website, your visit and any possible dispute over
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of September 22, 2008 and last updated September 22, 2008.
+This Privacy Policy is effective as of September 22, 2008 and last updated August 9, 2010.
