@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607001535id_/http%3A//www.pakpoint.com/useronline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104932id_/http%3A//www.pakpoint.com/useronline) for the most accurate reproduction.*
 
-# Privacy PakPoint
-
-[Home](http://www.pakpoint.com/) » Privacy
-
-## Privacy
+# Privacy
 
 This privacy policy is applicable to pakpoint.com
 
@@ -18,3 +14,5 @@ The foregoing policies are effective as of March 1, 2009. We reserve the right t
 
 **[Watch Pakistan Political and Current Affairs Video Programms](http://www.pakpoint.com/category/videos/)  
 **
+
+(c) 2010 PakPoint Network. Disclaimer: All the videos link posted here are contributed by the members of the site or taken from third party websites or public domain and are owned by their respective rightful owners. We do not record or sell any copyrighted video. All trademarks, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. If you find any content in violation of your rights please give your feedback and it will be removed immediately. pakpoint @ gmail.com This website is based on wordpress CMS 
