@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webreserv.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629213039id_/http%3A//www.webreserv.com/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webreserv.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122080443id_/http%3A//www.webreserv.com/privacypolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
