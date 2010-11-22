@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reframeit.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328062945id_/http%3A//reframeit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reframeit.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081731id_/http%3A//reframeit.com/privacy) for the most accurate reproduction.*
 
 # Privacy › Reframe It
 
@@ -44,7 +44,7 @@ If you are a registered user of our Services, we provide you with tools to acces
 
 ## Our Policy Towards Children
 
-Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [service@reframeit.com](https://web.archive.org/web/20100328062945id_/http%3A//reframeit.com/service@reframeit.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [service@reframeit.com](https://web.archive.org/web/20101122081731id_/http%3A//reframeit.com/service@reframeit.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
 ## Changes to this Policy
 
