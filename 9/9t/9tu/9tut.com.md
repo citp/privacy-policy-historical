@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523035925id_/http%3A//9tut.com/component/content/article/43-privacy/56-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122172245id_/http%3A//9tut.com/component/content/article/43-privacy/56-privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
