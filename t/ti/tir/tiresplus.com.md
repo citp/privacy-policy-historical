@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522113316id_/http%3A//www.tiresplus.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122210826id_/http%3A//www.tiresplus.com/privacy_statement) for the most accurate reproduction.*
 
-# Tires Plus Total Car Care - Privacy statement
+# Privacy statement | Tires Plus Total Car Care
 
 Tires Plus Total Car Care thanks you for accessing or using this web site (the "Site"). Tires Plus Total Car Care wants to assure you that we respect your privacy. We know that trust is the key to any successful business relationship. The following Privacy Policy describes Tires Plus Total Car Care's commitment to protect your personal information.
 
