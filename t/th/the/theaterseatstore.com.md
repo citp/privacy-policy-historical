@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619085910id_/http%3A//www.theaterseatstore.com/s.nl/c.880740/sc.23/category.6609/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092243id_/http%3A//www.theaterseatstore.com/s.nl/c.880740/sc.23/category.6609/.f) for the most accurate reproduction.*
 
 # Privacy Policy - Theater Seat Store
 
