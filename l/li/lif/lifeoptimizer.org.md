@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeoptimizer.org privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523033356id_/http%3A//www.lifeoptimizer.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeoptimizer.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122231729id_/http%3A//www.lifeoptimizer.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
