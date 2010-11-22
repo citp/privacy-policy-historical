@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315020640id_/http%3A//www.cricschedule.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104414id_/http%3A//cricschedule.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CricSchedule.com
 
-This is the web site of **CricSchedule.com**.
-
-We can be reached via e-mail at 
+Privacy Policy
 
 1.) For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -21,3 +19,5 @@ We can be reached via e-mail at
 7.) Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
 8.) If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+**We can be reached via e-mail at**
