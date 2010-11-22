@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goodsamclub.com privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522232937id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goodsamclub.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122113915id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>
 	Good Sam Club
@@ -13,8 +13,7 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="/common/styles/contentslider.css">
-    <script type="text/javascript" src="/js/contentslider.js"></script>
-    <link rel="stylesheet" type="text/css" href="/common/styles/contentslider.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/contentslider.js"></script>
     <script type="text/javascript" language="JavaScript" src="/js/common.js"></script>
     <script type="text/javascript" language="JavaScript" src="/js/cgsearch.js"></script>
 	<script type="text/javascript" language="JavaScript" src="/js/trip.js"></script>
@@ -22,8 +21,6 @@
     <script type="text/javascript" language="javascript">AC_FL_RunContent = 0;</script>
 
     <script type="text/javascript" src="/js/AC_RunActiveContent.js" language="javascript"></script>
-    
-    
 
     <script language="JavaScript" type="text/javascript">
     function toggleLayer( whichLayer )
@@ -54,7 +51,21 @@
         var options="toolbar=no,  location=no,  scrollbars=no, resizable=no, width=550, height=785, top=85, left=140";
         window.open(page,"",options);
     }
-				   
+    function RemindMeLater() 
+    {  
+        toggleLayer('regPopUpExpire');
+        toggleLayer('overlaypopExpire');
+        //call the postback function which when handled in the code behind calls RemindMeLater.
+        __doPostBack('RemindMeLater',null);  
+    }  
+    
+    function SoonRemindMeLater() 
+    {  
+        toggleLayer('expireSoon60PopUp');
+        toggleLayer('expireSoon60OverlayPop');
+        //call the postback function which when handled in the code behind calls RemindMeLater.
+        __doPostBack('SoonRemindMeLater',null);  
+    } 
     </script>
 
     <style type="text/css">
@@ -86,35 +97,24 @@
     <meta name="AGI Server Status" content="Server Validation"></head>
 <body onload="CallInit();">
 
-<div id="ctl00_pnlPop">
-	
 
-	<div id="overlaypop"></div>
-	<div id="regPopUp">
-		<img src="http://goodsamclub.com/images/TheRallyGSpopupad.gif" width="600" height="400" alt="Sign Up Now" usemap="#NewsletterPopup_Map" border="0">
-		<map name="NewsletterPopup_Map">
-			<area shape="rect" alt="Sign Up Now" coords="346,120,576,329" href="http://therally.com/?utm_source=gsc&amp;utm_medium=popover&amp;utm_campaign=TheRally_10">
-			<area shape="rect" alt="Close Window" coords="471,3,582,70" href="javascript: void(0);" onclick="javascript:toggleLayer('regPopUp');toggleLayer('overlaypop');">
-		</map>
-	</div>
-	
-
-</div>
-
+    
+    
+     
 
 <div id="widthWrapper">
     <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWBAIBDw8WAh4HVmlzaWJsZWdkZAICD2QWFgICDw8WAh8AaGRkAgMPDxYCHgRUZXh0BQdTaWduIEluZGQCCA9kFgJmD2QWAgIJDw8WAh4ISW1hZ2VVcmwFE34vaW1hZ2VzL25hdi9nby5qcGdkZAINDxYCHgVjbGFzcwULaG9tZWN1cnJlbnRkAh8PFgIfAwUEbGFzdGQCJQ8WAh8DBQRsYXN0ZAIsDxYCHwMFBGxhc3RkAjAPFgIfAwUEbGFzdGQCNg8WAh8DBQRsYXN0ZAI8Dw9kFgIeB29uY2xpY2sFhQFwb3BVcE5vU2Nyb2xsKCcvY29udHJvbHMvdXRpbC9FbWFpbFBvcHVwLmFzcHg/c3ViamVjdD0mdXJsPWh0dHA6Ly93d3cuZ29vZHNhbWNsdWIuY29tOjgwOTAvUHJpdmFjeVBvbGljeS5hc3B4Jyw2MDAsNDcwKTsgcmV0dXJuIGZhbHNlZAJAD2QWFGYPDxYCHgtOYXZpZ2F0ZVVybAUCfi9kZAIBDw8WAh8FBRR+L2Fib3V0L0RlZmF1bHQuYXNweGRkAgIPDxYCHwUFL2phdmFzY3JpcHQ6cG9wVXAoJy9yZWZ1bmQuYXNweCcsICc1MjAnLCAnMzAwJyk7ZGQCAw8PFgIfBQUQfi9hZmZpbGlhdGUuYXNweGRkAgQPDxYCHwUFMmphdmFzY3JpcHQ6cG9wVXAoJy9TaXRlVGVybXMuYXNweCcsICc1MjAnLCAnNjAwJyk7ZGQCBQ8PFgIfBQUUfi9Qcml2YWN5UG9saWN5LmFzcHhkZAIGDw8WAh8FBTRqYXZhc2NyaXB0OnBvcFVwKCcvQ29kZUNvbmR1Y3QuYXNweCcsICc1MjAnLCAnNjAwJyk7ZGQCBw8PFgIfBQUOfi9zaXRlbWFwLmFzcHhkZAIJDw8WAh8BBQQyMDEwZGQCCg8PFgIfAWVkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUlY3RsMDAkR29vZ2xlQ3VzdG9tU2VhcmNoMSRzZWFyY2hJbWFnZW0Q/Jyd7neNGxGfymPSyL805hPm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIFD2QWGAICDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh4EVGV4dAUHU2lnbiBJbmRkAggPZBYCZg9kFgICCQ8PFgIeCEltYWdlVXJsBRN+L2ltYWdlcy9uYXYvZ28uanBnZGQCDQ8WAh4FY2xhc3MFC2hvbWVjdXJyZW50ZAIiDxYCHwMFBGxhc3RkAigPFgIfAwUEbGFzdGQCLw8WAh8DBQRsYXN0ZAIzDxYCHwMFBGxhc3RkAjgPFgIfAwUEbGFzdGQCOQ8WAh8DBQRsYXN0ZAI/Dw9kFgIeB29uY2xpY2sFhQFwb3BVcE5vU2Nyb2xsKCcvY29udHJvbHMvdXRpbC9FbWFpbFBvcHVwLmFzcHg/c3ViamVjdD0mdXJsPWh0dHA6Ly93d3cuZ29vZHNhbWNsdWIuY29tOjgwOTAvUHJpdmFjeVBvbGljeS5hc3B4Jyw2MDAsNDcwKTsgcmV0dXJuIGZhbHNlZAJED2QWGGYPDxYCHgtOYXZpZ2F0ZVVybAUCfi9kZAIBDw8WAh8FBRR+L2Fib3V0L0RlZmF1bHQuYXNweGRkAgIPDxYCHwUFL2phdmFzY3JpcHQ6cG9wVXAoJy9yZWZ1bmQuYXNweCcsICc1MjAnLCAnMzAwJyk7ZGQCAw8PFgIfBQUQfi9hZmZpbGlhdGUuYXNweGRkAgQPDxYCHwUFGH4vYWR2ZXJ0aXNlLXdpdGgtdXMuYXNweGRkAgUPDxYCHwUFHWh0dHA6Ly93d3cuR29vZFNhbU5ldHdvcmsuY29tZGQCBg8PFgIfBQUyamF2YXNjcmlwdDpwb3BVcCgnL1NpdGVUZXJtcy5hc3B4JywgJzUyMCcsICc2MDAnKTtkZAIHDw8WAh8FBRR+L1ByaXZhY3lQb2xpY3kuYXNweGRkAggPDxYCHwUFNGphdmFzY3JpcHQ6cG9wVXAoJy9Db2RlQ29uZHVjdC5hc3B4JywgJzUyMCcsICc2MDAnKTtkZAIJDw8WAh8FBQ5+L3NpdGVtYXAuYXNweGRkAgsPDxYCHwEFBDIwMTBkZAIMDw8WAh8BZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSVjdGwwMCRHb29nbGVDdXN0b21TZWFyY2gxJHNlYXJjaEltYWdlF5bHQaGRMLzsML6mZF8iRbgzNfY=">
 
 
-<script src="/ScriptResource.axd?d=48lV6X__yBhOn67zlCwbdQqKdud95mI52b6sgChDaqggvNnz3zEjuQbsXSDjl-aNzJbBTxbZkgudkiDp4fHEdmR7nj92NHVQAn2l-c6P_Lw1&amp;t=633700395493750000" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAL89ILJBgKNwOIyAquexq8NAtHqkrQNAtux77MIApGEv9QOAoSMx+8GAtDm2Z4KxVXwwMeBxOqW30YxZqpUVg6rpzo=">
+<script src="/ScriptResource.axd?d=CedFoejTuzNquRsWtxjQwRcdK9wRbZDMHXb2i_RscR6OpFexvynUF4w87r9WL76Auab6HTjJ0QTSZAtVbai5z6kXdlm3obOfIP-G73hciUR89EagZS0hFBz6CpfObu_YpTbtKTPHJ3l22fwgk8tY_4H2W0AIX9WP4ssV4djPQvCLDKBI0&amp;t=633700395487656250" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKc1eLGDQKNwOIyAquexq8NAtHqkrQNAtux77MIApGEv9QOAoSMx+8GAtDm2Z4Kg1QBPX87L5VZPVGSwv1LxK8pju4=">
       
     
    <!-- Begin Header display:none;-->
    <div id="header">
 		     <div class="left">
-		    <a href="/"><img id="ctl00_logo" src="/images/logos/gsc_logo.gif" alt="Good Sam RV Club" border="0"></a>
+		    <a href="/"><img id="ctl00_logo" src="/Images/logos/gsc_logo.gif" alt="Good Sam RV Club" border="0"></a>
 		</div>
 		<!-- Begin HeaderNav -->
 			<div id="headernav" class="right">							
@@ -174,12 +174,18 @@
 			<div id="navigation">
 				<ul id="nav">
     				<li id="ctl00_default_aspx" class="homecurrent"><h3><a href="/">Home</a></h3></li>
-    				<li id="ctl00_community_default_aspx"><h3><a href="/community/Default.aspx">RV Community</a></h3></li>
+    				<li id="ctl00_whyjoin_default_aspx"><h3><a href="/whyjoin.aspx">Why Join?</a></h3></li>
+    				<li id="ctl00_community_default_aspx"><h3><a href="/community/Default.aspx">Community</a></h3></li>
     				<li id="ctl00_travel_default_aspx"><h3><a href="/travel/Default.aspx">Travel Tools</a></h3></li>
     				<li id="ctl00_rvcentral_default_aspx"><h3><a href="/rvcentral/Default.aspx">RV Central</a></h3></li>
+    				<li id="ctl00_news_default_aspx"><a href="http://blog.goodsamclub.com/">News</a></li>
     				<li id="ctl00_travelstore_default_aspx"><h3><a href="/travelstore/Default.aspx">Store</a></h3></li>
     				<!--<li id="ctl00_mystuff_default_aspx"><a href="/mystuff/Default.aspx">My Stuff</a></li>-->
-    				<li id="ctl00_benefits_services_default_aspx"><h3><a href="/benefits-services/Default.aspx">Benefits &amp; Services</a></h3></li>
+    				
+				    <li id="ctl00_benefits_services_default_aspx"><h3><a href="/benefits-services/Default.aspx">
+				        
+				    Services</a></h3></li>
+				    
 				</ul>
 				<!--<div id="ctl00_ButtonJoin" class="join-button">
 	<a id="ctl00_ButtonJoinLnk" href="join/Default.aspx">Join Now!</a>
@@ -193,17 +199,21 @@
 				<ul id="subnav">
 				
 				</ul>
-				<div class="clear"></div>
+                    <div class="clear">
+                    </div>
+                </div>
+                <div class="clear">
 			</div>
 		<!-- End Navigation -->
 	</div>
         <div id="content">
             <!-- Begin Head -->
             
+                
             <div id="content_header">
                 <div class="breadcrumbs">
                     <p>
-                        <span id="ctl00_SiteMapPath2"><a href="#ctl00_SiteMapPath2_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=GXh3r0F73PpUh00svDYF2Q2&amp;t=633996885091616214" border="0"></a><a id="ctl00_SiteMapPath2_SkipLink"></a></span>
+                        <span id="ctl00_SiteMapPath2"><a href="#ctl00_SiteMapPath2_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=hgJjeBm-ZacrhVOBXPz1xwx5xXooP_88OpOeKOqe_oGGz_qZkT-HP0EYluo63Dag-P7_Tb1b9PJQolatwIRMR-8m3uI1&amp;t=634214446524083557" border="0"></a><a id="ctl00_SiteMapPath2_SkipLink"></a></span>
                         
                     </p>
                 </div>
@@ -215,8 +225,11 @@
                         <span id="cgFlag" class="flag" style="display: none">
                             <a id="ctl00_LnkFlagInappropriate">Flag as Inappropriate</a>
                         </span>
-                        <span id="cgPrinter" class="printer" style="display: none">
+                        <span id="cgPrinter" style="display: none;">
+                        <a onclick="window.print()" href="#" style="text-decoration:none">Printer Friendly&nbsp;&nbsp; <img title="Print" src="/images/icons/icon_print.gif" alt="Printer Friendly"></a>
+                          <!--
                             <a id="ctl00_LnkPrinterFriendly">Printer Friendly</a>
+                           --> 
                         </span>
                         <span id="cgSend" class="send" style="display: none">
                             <a onclick="popUpNoScroll('/controls/util/EmailPopup.aspx?subject=&amp;url=http://www.goodsamclub.com:8090/PrivacyPolicy.aspx',600,470); return false;" id="ctl00_LnkSendEmail" href="javascript:__doPostBack('ctl00$LnkSendEmail','')">Send to Friend</a>
@@ -228,7 +241,11 @@
                 <div style="text-align: left;">
                     
                 </div>
-                <div class="clear"></div>
+                    <div class="clear">
+                    </div>
+                </div>
+                
+                <div class="clear">
             </div>
             <!-- End Head -->
             <div id="ctl00_left_220">
@@ -350,13 +367,15 @@
 	        <a id="ctl00_Footer_lnkHome" href="./">Good Sam HOME</a> | 
 	        <a id="ctl00_Footer_lnkAbout" href="about/Default.aspx">About Good Sam Club</a> | 
 	        <a id="ctl00_Footer_lnkRefund" rel="NoFollow" href="javascript:popUp('/refund.aspx', '520', '300');">Refund Policy</a> | 
-	        <a id="ctl00_Footer_lnkAffiliate" rel="NoFollow" href="affiliate.aspx">Affiliate Program</a>
+	        <a id="ctl00_Footer_lnkAffiliate" rel="NoFollow" href="affiliate.aspx">Affiliate Program</a> |
+	        <a id="ctl00_Footer_lnkadvertise" rel="NoFollow" href="advertise-with-us.aspx">Advertise With Us</a> |
+	        <a id="ctl00_Footer_lnkgoodsampark" rel="NoFollow" href="http://www.GoodSamNetwork.com">Become a Good Sam Park</a>
 	        <br>
 	        <a id="ctl00_Footer_lnkTerms" rel="NoFollow" href="javascript:popUp('/SiteTerms.aspx', '520', '600');">Terms &amp; Conditions</a> | 
-	        <a id="ctl00_Footer_lnkPrivacy" rel="NoFollow" href="PrivacyPolicy.aspx">Privacy Policy</a> Updated 10/06/2009| 
+	        <a id="ctl00_Footer_lnkPrivacy" rel="NoFollow" href="PrivacyPolicy.aspx">Privacy Policy</a> | 
 	        <a id="ctl00_Footer_lnkCodeConduct" rel="NoFollow" href="javascript:popUp('/CodeConduct.aspx', '520', '600');">Code of Conduct</a> | 
 	        <a id="ctl00_Footer_lnkSiteMap" href="sitemap.aspx">Site Map</a> |  <a id="ctl00_Footer_lnkContactus" href="Contact.aspx">Contact Us</a>
-	    <a href="http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=10000529&amp;source=ctc"><img style="position: absolute; margin-left: 40px; margin-top: -15px;" src="/images/bbb_logo.gif" width="135" height="52" border="0"></a>
+	    <a href="http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=10000529&amp;source=ctc"><img style="position: absolute; margin-left: 138px; margin-top: -15px;" src="/images/bbb_logo.gif" width="135" height="52" border="0"></a>
 
 	    </p>
 	    
@@ -374,6 +393,23 @@
             pageTracker._initData();
             pageTracker._trackPageview();
             </script>
+            
+            <!-- Google Analytics addition code  -->
+                <script type="text/javascript">
+
+                  var _gaq = _gaq || [];
+                  _gaq.push(['_setAccount', 'UA-3792260-65']);
+                  _gaq.push(['_setDomainName', '.goodsamclub.com']);
+                  _gaq.push(['_trackPageview']);
+
+                  (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  })();
+
+                </script>
+                <!--END Google Analytics addition code -->
 
 
             <img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=49887_NDM_cs=e226484b_NDM_cs&amp;betq=10995=419710" width="1" height="1" border="0">
@@ -404,8 +440,7 @@
 </div>
 
 		<!-- End Footer -->	
-		
-    
+	
     
 
 <script type="text/javascript">
@@ -422,9 +457,14 @@ Sys.Application.initialize();
         var s_PageName="";
    //-->
    </script>
-   <script type="text/javascript" src="/js/ontarget.js"></script><div id="eliticslayer" style="position:absolute; left:200; top:10; width:100; height:100; clip:rect(0,100,100,0); visibility:hidden; zindex:-3; background-color:white;"><img name="elitics" src="https://gi.elitics.com/gi.aspx?&amp;sbn=Saf&amp;sld=02/19/2020&amp;slt=17:54:00&amp;stz=0&amp;sdn=https%3A//web.archive.org/web/20100522232937id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx&amp;shn=web.archive.org&amp;srs=800 * 600&amp;ck=1&amp;v=33&amp;cid=362&amp;pt=p" border="0"> </div>
+   <script type="text/javascript" src="/js/ontarget.js"></script><div id="eliticslayer" style="position:absolute; left:200; top:10; width:100; height:100; clip:rect(0,100,100,0); visibility:hidden; zindex:-3; background-color:white;"><img name="elitics" src="https://gi.elitics.com/gi.aspx?&amp;sbn=Saf&amp;sld=02/19/2020&amp;slt=17:54:00&amp;stz=0&amp;sdn=https%3A//web.archive.org/web/20101122113915id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx&amp;shn=web.archive.org&amp;srs=800 * 600&amp;ck=1&amp;v=33&amp;cid=362&amp;pt=p" border="0"> </div>
    <!--End of OnTarget-->
    
-
+   <!--- This literal is here for pages adding javascript dynamically to the page via codebehind --->
+   
+   
+   
+   
+    
 
 </body></html>
