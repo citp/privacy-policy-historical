@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebosh.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627030854id_/http%3A//thebosh.com/archives/2004/08/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebosh.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122130545id_/http%3A//thebosh.com/archives/2004/08/disclaimer.php) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -85,3 +85,6 @@ The personally identifiable information we collect is securely stored within our
 6\. Revisions and Amendments 
 
 If you have further privacy concerns please do not hesitate to ask us by contacting editor@TheBosh.com . This Privacy Policy is effective as of August, 2004. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Uropa Media reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.TheBosh.com. Any such change, update or modification will be effective immediately upon posting on TheBosh.
+
+  
+
