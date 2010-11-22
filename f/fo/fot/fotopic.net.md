@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotopic.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210719id_/http%3A//fotopic.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotopic.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122150022id_/http%3A//fotopic.net/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Fotopic.Net
 
@@ -42,6 +42,6 @@ If you have any questions about this privacy policy, the practices of this site,
 
 ### Terms and Conditions
 
-Please also read our [Terms and Conditions](https://web.archive.org/web/20100611210719id_/http%3A//fotopic.net/about/terms.php). 
+Please also read our [Terms and Conditions](https://web.archive.org/web/20101122150022id_/http%3A//fotopic.net/about/terms.php). 
 
 [](https://web.archive.org/)
