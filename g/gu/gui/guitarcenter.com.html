@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the guitarcenter.com privacy policy that was archived on 2010-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100515215827id_/http%3A//gc.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guitarcenter.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122043602id_/http%3A//gc.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,8 +14,9 @@
 
 
 
-<link rel="stylesheet" href="/css/guitarcenter.css" type="text/css">
+<!-- link rel="stylesheet" href="/css/guitarcenter-sept.css" type="text/css" / -->
 <link rel="stylesheet" href="/css/inner_001.css" type="text/css">
+<link rel="stylesheet" href="/css/guitarcenter.css" type="text/css">
 
 <script src="http://www.guitarcenter.com/Includes/GuitarCenter/Scripts/mbox.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/chat1.js"></script>
@@ -28,6 +29,67 @@
 <link href="/greybox/gb_styles.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/includes/header.js"></script>
 <script src="/js/jquery-1.2.6.min.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+
+var search_box_id = "src";
+var default_value = "KEYWORDS OR ITEM #";
+var highlight_color = "#FFFFCC";
+var unhighlight_color = "white";
+
+function valMe(frm) 
+{
+	var src_box = document.getElementById(search_box_id);
+	if (src_box)
+	{
+		if ((Trim(src_box.value) == '') || (Trim(src_box.value.toLowerCase()) == default_value) || (Trim(src_box.value) == "SEARCH"))
+		{
+			if (src_box.style)
+			{	
+				src_box.style.background = highlight_color;
+			}
+			return false;
+		}
+	}
+	else
+	{
+		return true;
+	}
+}
+
+function Trim(s) 
+{
+  if (!s || s=="") return "";
+  while ((s.charAt(0)==' ') || (s.charAt(0)=='\n') || (s.charAt(0,1)=='\r')) s=s.substring(1,s.length);
+  while ((s.charAt(s.length-1)==' ') || (s.charAt(s.length-1)=='\n') || (s.charAt(s.length-1)=='\r')) s=s.substring(0,s.length-1);
+  return s;
+}
+
+function set_value(myId, focus_event)
+{
+	var src_box = document.getElementById(myId);
+	if (src_box)
+	{
+		if (focus_event)
+		{
+			if (src_box.value == default_value)
+			{
+				src_box.value = '';
+				
+			}
+		}
+		else
+		{
+			if (src_box.value == '')
+			{
+				src_box.value = default_value;
+			}
+		}
+	}
+}
+</script>
 
 </head>
 <body>
@@ -42,82 +104,108 @@
 <div class="mboxDefault"></div><script language="JavaScript1.2">mboxCreate('GC_content_side_global');</script>
 <div align="center">
 
+
+
+
+
+
+
+
+
+
+<div id="page-header-wrapper"></div>
 <div class="page_header">
-	<div id="header">
-	
-		<!--<div style="float:left; height:50px;"><a href="http://www.guitarcenter.com/"><img src="/images/logo.gif" alt="Guitar Center" width="139" height="73" border="0" /></a><img src="/images/place_holder_banner.gif" width="345" height="73" /></div>-->
+		<div id="header">
+				
 		
-		<div style="float:left; height:50px;"><a href="http://www.guitarcenter.com/"><img src="/images/clear.gif" alt="Guitar Center" width="139" height="73" border="0"></a><img src="/images/place_holder_banner.gif" width="345" height="73"></div>
-        
-        
-		<div id="topr_nav">
-			<ul>
-				<li style="margin-left: 12px"><a href="http://www.guitarcenter.com/MyAccount/Cart.aspx">View Cart</a><span class="pipePad">|</span></li>
-				<li><a href="http://www.guitarcenter.com/MyAccount/Default.aspx">My Account</a><span class="pipePad">|</span></li>
-				<li><a href="/financing/gccard.cfm">Preferred Player Card</a><span class="pipePad">|</span></li>
-				<li><a href="/financing/giftcard.cfm">Gift Cards</a><span class="pipePad">|</span></li>
-				<li><a href="http://www.guitarcenter.com/Wishlist/Default.aspx">Wish List</a><span class="pipePad">|</span></li>
-				<li><a href="/help/">Help</a><span class="pipePad">|</span></li>
-				<li><a href="https://www.guitarcenter.com/MyAccount/Login.aspx">Login</a></li>
+            <div id="headerLogo">
+                <a href="http://www.guitarcenter.com/" style=""><img id="logoPrint" alt="GuitarCenter.com" src="/images/newheader/gc_logo.png" border="0"><img alt="GuitarCenter.com" src="/images/newheader/clear.gif" border="0" width="130" height="88"></a>
+			</div>				
+			
+			<div id="gc-search">
+				<form method="get" action="http://www.guitarcenter.com/New-Gear.gc" onsubmit="return valMe(this)">	
+				<input name="internal" value="1" type="hidden">
+				<input value="KEYWORDS OR ITEM #" autocomplete="off" class="search_box" id="src" name="src" onfocus="javascript:set_value(this.id, true)" onblur="javascript:set_value(this.id, false)" type="text">
+				<input src="/images/newheader/holiday-search-button.jpg" value="Go" name="Search" type="image" class="search_go">
+
+			
+				<script type="text/javascript">
+				<!--
+					set_value('src', false);
+				-->
+				</script>
+				</form>
+			</div>
+
+			<ul id="gc-store-icons">
+				
+				<li><a href="http://gc.guitarcenter.com/locations/" id="nav-store-locator"><div><span class="store-icons-headline">STORE LOCATOR</span><br>Find a location near you</div></a></li>
+				<li><a href="http://gc.guitarcenter.com/shipping/" id="nav-free-shipping"><div style="padding-left:65px;"><span class="store-icons-headline">FREE SHIPPING</span><br>On Thousands of Items</div></a></li>
+
+				<li><a href="http://www.guitarcenter.com/GC---Contact-Us-Landing-g10075t0.gc" id="nav-order-by-phone"><div style="padding-left:45px;"><span class="store-icons-headline">866-498-7882</span><br>Order By Phone</div></a></li>
+	
 			</ul>
 
+				<div id="topr_nav">
+						<ul>
+						<li style="margin-left: 7px"><a href="http://www.guitarcenter.com/MyAccount/Cart.aspx">View Cart</a><span class="pipePad"> |</span></li>
+                                		<li style=""><a href="http://www.guitarcenter.com/MyAccount/Default.aspx">My Account</a><span class="pipePad"> |</span></li>
+                                		<li style=""><a href="http://gc.guitarcenter.com/financing/gccard.cfm">Preferred Player Card</a><span class="pipePad"> |</span></li>
+						<li style=""><a href="http://gc.guitarcenter.com/financing/giftcard.cfm">Gift Cards</a><span class="pipePad"> |</span></li>
+						<li style=""><a href="http://www.guitarcenter.com/Wishlist/Default.aspx">Wish List</a><span class="pipePad"> |</span></li>
+						<li><a href="http://www.guitarcenter.com/customerservice/contactus.aspx">Help</a><span class="pipePad"> |</span></li>
+						<li style=""><a href="/MyAccount/Login.aspx">Login</a></li>
+						</ul>
+				</div>
+
 		</div>
-		<div id="topr_bigbuttons">
-			<!--<ul>
-				<li><a href="/locations/"><img src="/images/icn_store.jpg" width="30" height="27" alt="Shop by Store" /></a></li>
-				<li><a href="/locations/">SHOP BY STORE</a><br /> <a href="/locations/" class="small">Find a location near you</a></li>
-				<li><a href="/shipping/"><img src="/images/icn_ship.jpg" width="30" height="27" alt="Free Shipping" /></a></li>
-				<li><a href="/shipping/">FREE SHIPPING</a><br/> <a href="/shipping" class="small">On Thousands of Items</a></li>
-				<li><a href="/callcenter/"><img src="/images/icn_phone.jpg" width="30" height="27" alt="Shop by Phone" /></a></li>
-				<li><a href="/callcenter/" style="font-size: 18px;font-weight: bold;color: #fff;line-height: 12pt;">866-498-7882</a><br /> <a href="/callcenter/" class="small">Shop By Phone</a></li>
-			</ul>-->
-              <ul>
-                <li><a href="http://gc.guitarcenter.com/locations/"> <img src="/images/icn_store.jpg" alt="Shop by Store" width="30" height="27"></a></li>
-                <li><a href="http://gc.guitarcenter.com/locations/">SHOP BY STORE</a><br>
-                  Find a location near you</li>
-                <li><a href="#" onclick="openFreeShippingPopup()"> <img src="/images/icn_ship.jpg" alt="Free Shipping" width="30" height="27"></a></li>
-                <li><a href="http://gc.guitarcenter.com/shipping/">FREE SHIPPING</a><br>
-                  On Thousands of Items</li>
-                <li><a href="http://gc.guitarcenter.com/callcenter/"> <img src="/images/icn_phone.jpg" alt="Shop by Phone" width="30" height="27"></a></li>
-                <li><a href="http://gc.guitarcenter.com/callcenter/"> 866-498-7882</a><br>
-                  Shop By Phone</li>
-              </ul>		
-			
-		</div>
-	</div>
 </div>
 
+
+<!-- !IMPORTANT! ~~~ PAGE CONTAINER ~~~ NO CLOSING TAG -->
+<!-- div class="page" -->
+
 <div class="page">
+<!-- MAIN NAVIGATION -->
+<div id="navigation">
+<ul id="navi">
+<li class="active_tab"><a href="http://www.guitarcenter.com/">Buy Online</a></li>
+<li><a href="http://gc.guitarcenter.com/events">Events</a></li>
+<li><a href="http://platinum.guitarcenter.com/">Platinum Gear</a></li>
+<li><a href="http://used.guitarcenter.com">Used Gear</a></li>
+<li><a href="http://www.vintageguitars.net/">Vintage</a></li>
+<li><a href="http://gc.guitarcenter.com/clearance">Clearance</a></li>
+</ul>
+<div id="headerChangeCountry" style="">
+
+	<table class="country-selection">
+		<tbody><tr>
+			<td align="right">
+				<table class="country-selection-inner">
+					<tbody><tr>
+						<td><img src="/images/flags/US.png" title="United States" style="padding:0px"></td>
+						<td><p>United States:</p></td>
+						<td><a href="http://www.guitarcenter.com/International/ContextSelector.aspx">Change Country</a></td>
+
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+<!-- SUBNAVIGATION -->
+
 		
-	<div id="navigation">
-		<ul>
-			<li><a href="http://www.guitarcenter.com/">Buy Online</a></li>
-			<li><a href="/events/">Events</a></li>
-			<li><a href="http://platinum.guitarcenter.com">Platinum Gear</a></li>
-			<li><a href="http://used.guitarcenter.com/usedGear/index.cfm">Used Gear</a></li>
-			<li><a href="http://www.vintageguitars.net/">Vintage</a></li>
-			<li><a href="/clearance/">Clearance</a></li>
-			<li class="search" style="margin:0; padding:0;background-image:none;">
-			<form action="http://www.guitarcenter.com/search/default.aspx" method="GET">
-			<table width="100">
-				<tbody><tr>
-					<td style="padding:5px 0 0 55px; margin:0;">
-						<input class="search_box" type="text" size="15" name="src" onfocus="javascript:if(this.value=='keywords or item #') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='keywords or item #'}" value="keywords or item #">
-					</td>
-					<td style="padding:5px 0 0 5px; margin:0;">
-						<input type="image" src="http://www.guitarcenter.com/includes/guitarcenter/images/buttons/btnGo.gif" value="Go" name="Search">
-					</td>
-				</tr>
-			</tbody></table>
-			</form>
-			</li>
-		</ul>	
-	</div>
+</div>
+<div class="clear"></div>
+	
 	
 	
 					
 					
-						<div class="mboxDefault">
+<div class="mboxDefault">
+
 <div style="height:80px; width:195px; background-image:url(http://images.guitarcenter.com/content/gc/global/genre_email_coupons_form.gif); background-repeat:no-repeat; background-position:top; float:left;">
   <form action="https://gc.guitarcenter.com/secure/subscribe/qry_emailSubNew.cfm" method="post" name="member" id="member">
 	<input type="hidden" class="inp_con" name="join" value="1">
@@ -138,9 +226,9 @@
 	<input type="hidden" name="keyword" value="genre">
 	<input type="hidden" name="confirmed" checked="checked">
   </form>
-</div>
+</div><a border="0" href="http://gc.guitarcenter.com/financing/30_30.cfm"><img alt="GLP" src="http://images.guitarcenter.com/content/gc/global/sitewide_glp.jpg"></a>
 
-<a border="0" href="http://gc.guitarcenter.com/financing/30_30.cfm"><img alt="Guitar Center: Guaranteed Lowest Price" src="http://images.guitarcenter.com/content/gc/global/sitewide_glp.jpg"></a></div><script language="JavaScript1.2">mboxCreate('GC_content_side_sitewides');</script>
+</div><script language="JavaScript1.2">mboxCreate('GC_content_side_sitewides');</script>
 
     				
 				
@@ -292,106 +380,166 @@
 	<!-- FOOTER BEGIN -->
 	<div id="footer">
 		
-				<div class="clear">&nbsp;</div>
-				<div id="gc-footer">
-					<div class="footerText">
-						<ul>
-							<li class="red-footer-titles">Shop By Category</li>
-							<li><a href="http://www.guitarcenter.com/Guitar.gc" title="Shop Guitars">Guitars</a></li>
-							<li><a href="http://www.guitarcenter.com/Bass.gc" title="Shop Bass Guitars">Bass</a></li>
-							<li><a href="http://www.guitarcenter.com/Guitar-Amplifiers-and-Effects-Guitar.gc#" title="Shop Amps &amp; Effects">Amps &amp; Effects</a></li>
-							<li><a href="http://www.guitarcenter.com/Drum---Percussion.gc" title="Shop Drums">Drums</a></li>
-							<li><a href="http://www.guitarcenter.com/Keyboards---MIDI.gc" title="Shop Keyboards">Keyboards</a></li>
-							<li><a href="http://www.guitarcenter.com/Live-Sound-Gear-Pro-Audio.gc" title="Shop Live Sound">Live Sound</a></li>
-							<li><a href="http://www.guitarcenter.com/Recording-Gear-Pro-Audio.gc#" title="Shop Recording">Recording</a></li>
-							<li><a href="http://www.guitarcenter.com/DJ-Gear-Pro-Audio.gc" title="Shop DJ Gear">DJ Gear</a></li>
-							<li><a href="http://www.guitarcenter.com/Accessories.gc" title="Shop Accessories">Accessories</a></li>
-							<li><a href="http://www.guitarcenter.com/Clothing---Collectibles.gc" title="Shop Lifestyle">Lifestyle</a></li>
-							<li><a href="http://www.guitarcenter.com/Books--Videos-and-Music.gc" title="Shop Books &amp; Video">Books &amp; Videos</a></li>
-							<li><a href="http://www.guitarcenter.com/Classroom-and-Kids.gc" title="Shop Classroom Music">Classroom &amp; Kids</a></li>
-						</ul>
-					</div>
-					<div class="footerText">
-						<ul>
-							<li class="red-footer-titles">Product Collections</li>
-							<li><a href="http://www.guitarcenter.com/Brand/BrandList.aspx" title="Browse by Brand">Browse by Brand</a></li>
-							<li><a href="http://www.guitarcenter.com/New.gc" title="Browse New Arrivals">New Arrivals</a></li>
-							<li><a href="http://www.gcpro.com/" title="Visit GC Pro">Pro Gear</a></li>
-							<li><a href="http://platinum.guitarcenter.com/" title="Browse Platinum Gear">Platinum Gear</a></li>
-							<li><a href="http://www.vintageguitars.net/" title="Browse Vintage Gear">Vintage Gear</a></li>
-							<li><a href="http://used.guitarcenter.com/usedGear/index.cfm" title="Browse Used Gear">Used Gear</a></li>
-							<li><a href="http://www.guitarcenter.com/outlet.gc" title="Visit GC Outlet Center">Outlet Center</a></li>
-						</ul>
-					</div>
-					<div class="footerText">
-						<ul>
-							<li class="red-footer-titles">My Guitar Center</li>
-							<li><a href="https://www.guitarcenter.com/MyAccount/Default.aspx" title="View My Account">Account Info</a></li>
-							<li><a href="https://www.guitarcenter.com/MyAccount/WishList/Default.aspx" title="View My Wish List">Wish List</a></li>
-							<li><a href="http://www.guitarcenter.com/MyAccount/Cart.aspx" title="View My Shopping Cart">Shopping Cart</a></li>
-							<li><a href="https://www.guitarcenter.com/MyAccount/OrderHistory.aspx" title="View My Order History">Order History</a></li>
-							<li><a href="https://www.guitarcenter.com/MyAccount/Emails.aspx" title="View My Active Quotes">Product Quotes</a></li>
-							<li><a href="http://gc.guitarcenter.com/financing/30_30.cfm" title="30/30 Guarantee">Price Guarantee</a></li>
-							<li><a href="http://gc.guitarcenter.com/financing/guarantee/warranty.cfm" title="Warranty Information">Warranty</a></li>
-							<li><a href="http://gc.guitarcenter.com/rebates/" title="Current Rebates">Rebates</a></li>
-							<li><a href="http://gc.guitarcenter.com/financing/30_30.cfm" title="Return Policy">Returns</a></li>
-							<li><a href="https://gc.guitarcenter.com/secure/subscribe/subscribe.cfm" title="Subscribe to our Newsletter">Newsletter</a></li>		
-						</ul>
-					</div>
-					<div class="footerText">
-						<ul>
-							<li class="red-footer-titles">Support &amp; Services</li>
-							<li><a href="http://gc.guitarcenter.com/locations/" title="Store Locations">Locations</a></li>
-							<li><a href="http://www.guitarcenter.com/GC---Contact-Us-Landing-g10075t0.gc" title="Contact Us">Contact Us</a></li>
-							<li><a href="http://gc.guitarcenter.com/careers/" title="Careers">Careers</a></li>
-							<li><a href="http://gc.guitarcenter.com/affiliate/" title="Affiliates">Affiliates</a></li>
-							<li><a href="http://gc.guitarcenter.com/company/" title="Company Information">Company Information</a></li>
-							<li><a href="http://gc.guitarcenter.com/events/" title="View Events &amp; Promotions">Events &amp; Promotions</a></li>
-							<li><a href="http://gc.guitarcenter.com/interviews" title="Read Artist Interviews">Artist Interviews</a></li>
-							<li><a href="http://gc.guitarcenter.com/video/" title="View Media &amp; Videos">Media &amp; Videos</a></li>
-							<li><a href="http://gc.guitarcenter.com/sessions/" title="View GC Sessions">Guitar Center Sessions</a></li>
-							<li><a href="http://www.rockwalk.com/" title="Hollywood Rock Walk">Hollywood Rock Walk</a></li>
-							
-							<li><a href="http://www.guitarcenter.com/GC-Site-Map-g10001t0.gc" title="Complete Sitemap">Sitemap</a></li>
-						</ul>
-					</div>
-					<div class="footer-gc-social footerText">
-						<ul>
-							<li class="red-footer-titles">Featured Services</li>
-							<li><a class="services-image-4 gc-footer-services" href="http://gc.guitarcenter.com/financing/gccard.cfm"></a><p><a href="http://gc.guitarcenter.com/financing/gccard.cfm"><strong>Financing</strong><br> The Guitar Center Preferred Player Card</a></p></li>
-							<li><a class="services-image-3 gc-footer-services" href="http://www.getyowza.com/"></a><p><a href="http://www.getyowza.com/"><strong>Find Us on Yowza!!</strong> Savings in your pocket</a></p></li>
-							<li><a class="services-image-2 gc-footer-services" href="http://gc.guitarcenter.com/view-our-catalog/"></a><p><a href="http://gc.guitarcenter.com/view-our-catalog/"><strong>Our Catalog</strong><br> View This Month's Products and Articles</a></p></li>
-							<li><a class="services-image-1 gc-footer-services" href="http://gc.guitarcenter.com/financing/giftcard.cfm"></a><p><a href="http://gc.guitarcenter.com/financing/giftcard.cfm"><strong>Gift Card</strong><br> The perfect gift for every musician</a></p></li>
-							<li><a class="services-image-5 gc-footer-services" href="http://gc.guitarcenter.com/musician-services/"></a><p><a href="http://gc.guitarcenter.com/musician-services/"><strong>Musician Services</strong><br> Mix, Master, Distribution, and more</a></p></li>
-						</ul>
-					</div>
-					<div class="gc-follow">
-						<ul>
-							<li class="red-footer-titles">Follow Guitar Center</li>
-							<li><a class="follow-image-twitter gc-footer-follow" href="http://twitter.com/guitarcenter"></a><p><a href="http://twitter.com/guitarcenter">Follow us on Twitter</a></p></li>
-							<li><a class="follow-image-facebook gc-footer-follow" href="http://www.facebook.com/GuitarCenter"></a><p><a href="http://www.facebook.com/GuitarCenter">Become a fan on Facebook</a></p></li>
-							<li><a class="follow-image-blog gc-footer-follow" href="http://www.guitarcenterblog.com/"></a><p><a href="http://www.guitarcenterblog.com/">Check out the Guitar Center Blog</a></p></li>
-							<li><a class="follow-image-youtube gc-footer-follow" href="http://www.youtube.com/guitarcenter"></a><p><a href="http://www.youtube.com/guitarcenter">Watch Guitar Center videos</a></p></li>
-							<li><a class="follow-image-screamin gc-footer-follow" href="http://gc.guitarcenter.com/weekly-deals/"></a><p><a href="http://gc.guitarcenter.com/weekly-deals/">Screaming Deals</a></p></li>
-						</ul>
-					</div>
-				</div>
-				<div id="bottomFooter">
-					<img id="gcFooterLogo" src="http://gc-images.guitarcenter.com/images/footer/gc_logo.gif" alt="Guitar Center Logo">
-				<div id="partners">
-					<a href="http://paypal.com" target="_blank"><img src="http://gc-images.guitarcenter.com/images/footer/paypal.gif" alt="Checkout With PayPal - Fast, Easy, Secure"></a>
-					<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.GUITARCENTER.COM&amp;lang=en" target="_blank"><img alt="Verisign" src="http://gc-images.guitarcenter.com/images/footer/verisign.gif"></a>
-					<a href="http://www.pricegrabber.com/rating_getreview.php/retid=5866" target="_blank"><img src="http://gc-images.guitarcenter.com/images/footer/pricegrabber.gif" alt="PriceGrabber User Ratings for Guitar Center"></a>
-					<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--141658.html" target="_blank"><img src="https://medals.bizrate.com/medals/dynamic/141658_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0"></a>
-					
-				</div>
-				<div id="footerCopy">
-				<p>© 2010 Guitar Center, Inc. All Rights Reserved. | <a href="http://gc.guitarcenter.com/legal/">Terms of Use</a> | <a href="http://gc.guitarcenter.com/legal/privacy.cfm">Your Privacy Rights</a> | <a href="http://gc.guitarcenter.com/legal/tac.cfm">Purchase Terms &amp; Conditions</a> | <a href="http://gc.guitarcenter.com/financing/30_30.cfm">Consumer Policies</a></p>
-				</div> 
-			</div>
-				<!-- LIGHT GRAY BAR START -->
+
+<div class="clear"></div>
+	<!-- FOOTER BEGIN -->
+
+<link rel="stylesheet" type="text/css" media="all" href="/css/newfooter/gc-main-footer.css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" media="all" href="/css/newfooter/ie6fix.css" />
+<script type="text/javascript" src="../css/newfooter/iepngfix/iepngfix_tilebg.js"></script>
+<style type="text/css">img, div, input { behavior: url("/css/newfooter/iepngfix/iepngfix.htc") }</style>
+<![endif]-->
+	<div id="gc-main-footer-container">
+		<div id="footer-columns">
+			<ul id="col-1">
+
+				<li><h3>Shop By Category</h3></li>
+				<li><a href="http://www.guitarcenter.com/Brand/BrandList.aspx">Browse by Brand</a></li>
+				<li><a href="http://www.guitarcenter.com/Guitar.gc">Guitars</a></li>
+				<li><a href="http://www.guitarcenter.com/Bass.gc">Bass</a></li>
+				<li><a href="http://www.guitarcenter.com/Keyboards---MIDI.gc">Keyboards</a></li>
+				<li><a href="http://www.guitarcenter.com/Drum---Percussion.gc">Drums</a></li>
+
+				<li><a href="http://www.guitarcenter.com/Pro-Audio.gc">Pro Audio</a></li>
+				<li><a href="http://www.guitarcenter.com/Accessories.gc">Accessories</a></li>
+				<li><a href="http://platinum.guitarcenter.com/">Platinum Gear</a></li>
+				<li><a href="http://www.vintageguitars.net/">Vintage Gear</a></li>
+			</ul><!-- /END col-1 -->
+			<ul id="col-2">
+				<li><h3>My Guitar Center</h3></li>
+
+				<li><a href="https://www.guitarcenter.com/MyAccount/Default.aspx">Account Info</a></li>
+				<li><a href="https://www.guitarcenter.com/MyAccount/WishList/Default.aspx">Wish List</a></li>
+				<li><a href="http://www.guitarcenter.com/MyAccount/Cart.aspx">Shopping Cart</a></li>
+				<li><a href="https://www.guitarcenter.com/MyAccount/OrderHistory.aspx">Order History</a></li>
+				<li><a href="http://gc.guitarcenter.com/financing/30_30.cfm">Price Guarantee</a></li>
+				<li><a href="http://gc.guitarcenter.com/financing/guarantee/warranty.cfm">Warranty</a></li>
+
+				<li><a href="http://gc.guitarcenter.com/rebates/">Rebates</a></li>
+				<li><a href="http://gc.guitarcenter.com/financing/30_30.cfm">Returns</a></li>
+				<li><a href="https://gc.guitarcenter.com/secure/subscribe/subscribe.cfm">Newsletter</a></li>
+				<li><a href="http://gc.guitarcenter.com/pro-coverage/">Pro Coverage</a></li>
+			</ul><!-- /END col-2 -->
+			<ul id="col-3">
+				<li><h3>Support &amp; Services</h3></li>
+
+				<li><a href="http://gc.guitarcenter.com/locations/">Locations</a></li>
+				<li><a href="http://www.guitarcenter.com/GC---Contact-Us-Landing-g10075t0.gc">Contact Us</a></li>
+				<li><a href="http://gc.guitarcenter.com/careers/">Careers</a></li>
+				<li><a href="http://www.gcpro.com/" target="_blank">GC Pro</a></li>
+				<li><a href="http://gc.guitarcenter.com/gift-guide/">Gift Guide</a></li>
+				<li><a href="http://gc.guitarcenter.com/company/">Company Information</a></li>
+
+				<li><a href="http://gc.guitarcenter.com/events/">Events &amp; Promotions</a></li>
+				<li><a href="http://gc.guitarcenter.com/sessions/">Guitar Center Sessions</a></li>
+				<li><a href="http://gc.guitarcenter.com/interviews">Artist Interviews</a></li>
+				<li><a href="http://gc.guitarcenter.com/shipping/">Shipping</a></li>
+				<li><a href="http://www.guitarcenter.com/GC-Site-Map-g10001t0.gc">Sitemap</a></li>
+
+			</ul><!-- /END col-3 -->
+			
+		<!-- START COUNTRY -->
+		<div id="gc-main-footer-country">
+			<a href="http://www.guitarcenter.com/International/ContextSelector.aspx" id="footer-country-flag">UNITED STATES: <span class="footer-underline">CHANGE COUNTRY</span></a>
+		</div>
+		<!-- /END COUNTRY -->
+
+			
+			<ul id="col-4">
+
+				<li><h3 id="footer-features-services">Featured Services</h3></li>
+				<div class="clear"></div>
 				
-					
+				<div id="sub-col-a">
+				<ul id="sub-col-1" class="sub-col">
+					<li class="footer-icon">
+						<a href="http://gc.guitarcenter.com/financing/gccard.cfm" id="footer-icon-financing"><h4>Financing</h4>
+							<div class="footer-nobold">increase your<br>purchasing power</div>
+
+						</a></li>
+					<li class="footer-icon">
+						<a href="http://www.getyowza.com/" id="footer-icon-yowza" target="_blank"><h4>Find us on Yowza!!</h4>
+							<div class="footer-nobold">savings in your<br>pocket</div>							
+						</a></li>					
+					<li class="footer-icon">
+						<a href="http://gc.guitarcenter.com/gc-garage/" id="footer-icon-gcgarage"><h4>GC Garage</h4>
+							<div class="footer-nobold">guitar tune ups<br>and repair</div>
+
+						</a></li>
+				</ul><!-- /END sub-col-1 -->
+				</div><!-- /END sub-col-a -->
+				<div id="sub-col-b">
+				<ul id="sub-col-2" class="sub-col">
+					<li class="footer-icon">
+						<a href="http://gc.guitarcenter.com/view-our-catalog/" id="footer-icon-catalog"><h4>View Our Catalog</h4>
+							<div class="footer-nobold">view this month's<br>products &amp; services</div>						
+						</a></li>
+
+					<li class="footer-icon">
+						<a href="http://gc.guitarcenter.com/financing/giftcard.cfm" id="footer-icon-giftcard"><h4>Gift Card</h4>
+							<div class="footer-nobold">the perfect gift for<br>every musician</div>							
+						</a></li>					
+					<li class="footer-icon">
+						<a href="http://gc.guitarcenter.com/musician-services/" id="footer-icon-mservices"><h4>Musician Services</h4>
+							<div class="footer-nobold">mix, master,<br>distribution &amp; more</div>							
+						</a></li>
+
+				</ul><!-- /END sub-col-2 -->
+				</div><!-- /END sub-col-b -->
+			</ul><!-- /END col-4 -->			
+		</div><!-- /END footer-columns -->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+<!-- START SECOND MAIN ROW -->		
+		<div class="clear"></div>	
+		<!-- START SEARCH -->		
+		<div id="gc-main-footer-bottom">
+		<div id="footer-gclogo" style="padding-top:15px;"><a href="http://www.guitarcenter.com"><img src="/css/newfooter/images/clear.gif" width="120" height="60" border="0" style=""></a></div>		
+			<div id="footer-gc-search">
+				<form method="get" action="http://www.guitarcenter.com/New-Gear.gc" onsubmit="return valMe(this)">	
+				<input name="internal" value="1" type="hidden">
+
+				<input value="KEYWORDS OR ITEM #" autocomplete="off" id="footer-search-input" name="src" onfocus="javascript:set_value(this.id, true)" onblur="javascript:set_value(this.id, false)" type="text">
+				<input type="submit" value=" " id="footer-search-button">
+				</form>
+			</div>
+		<!-- /END SEARCH -->
+		
+			<div id="gc-main-footer-copyright">
+				Copyright &nbsp;©&nbsp; Guitar Center, Inc. &nbsp;-&nbsp;&nbsp;&nbsp;All Rights Reserved. &nbsp;&nbsp;-&nbsp;&nbsp; 
+				<a href="http://gc.guitarcenter.com/legal/">Terms of Use</a> &nbsp;|&nbsp; <a href="http://gc.guitarcenter.com/legal/privacy.cfm">Your Privacy Rights</a> &nbsp;|&nbsp; <a href="http://gc.guitarcenter.com/legal/tac.cfm">Purchase Terms &amp; Conditions</a>
+
+			</div>
+			<div id="gc-main-footer-buttons">
+				<ul>
+					<li><a href="http://paypal.com/" target="_blank"><img src="/css/newfooter/images/buttons/paypal.gif"></a></li>
+					<li><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.GUITARCENTER.COM&amp;lang=en" target="_blank"><img src="/css/newfooter/images/buttons/verisign.gif"></a></li>
+					<li><a href="http://www.pricegrabber.com/rating_getreview.php/retid=5866" target="_blank"><img src="/css/newfooter/images/buttons/pricegrabber.gif"></a></li>
+					<li><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--141658.html" target="_blank"><img src="https://medals.bizrate.com/medals/dynamic/141658_medal.gif"></a></li>
+				</ul>
+			</div>
+
+			<div id="gc-main-footer-social-links">
+				<ul><span id="footer-social-desc">FOLLOW GUITAR CENTER:</span><br>
+					<li><a href="http://www.facebook.com/GuitarCenter"><img src="/css/newfooter/images/buttons/facebook.png" target="_blank"></a></li>
+					<li><a href="http://twitter.com/guitarcenter"><img src="/css/newfooter/images/buttons/twitter.png" target="_blank"></a></li>
+					<li><a href="http://www.youtube.com/guitarcenter"><img src="/css/newfooter/images/buttons/youtube.png" target="_blank"></a></li>
+					<li><a href="http://www.guitarcenterblog.com/"><img src="/css/newfooter/images/buttons/gcblog.png" target="_blank"></a></li>
+				</ul>
+			</div>	
+		</div>
+
+<!-- /END SECOND MAIN ROW -->				
+	</div><!-- /END gc-main-footer-container -->
 
 			
 		<!-- COPYRIGHT START -->
@@ -408,7 +556,7 @@
 <img style="display:none; width=1px; height=1px; border=none" src="http://media.fastclick.net/w/tre?ad_id=19999;evt=12362;cat1=13285;cat2=13286" alt="Fast Click">
 
 
-<script type="text/javascript" src="http://www.guitarcenter.com/Includes/GuitarCenter/Scripts/ntpagetag.js"></script>
+<script type="text/javascript" src="http://www.guitarcenter.com/css/newfooter/Scripts/ntpagetag.js"></script>
 
 
 
