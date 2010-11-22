@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nflshop.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619004056id_/http%3A//www.nflshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nflshop.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122093008id_/http%3A//www.nflshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -87,6 +87,57 @@ function jump(url)
 .hd_pagetext, .hd_pagelink2:hover { text-decoration:none; }
 .hd_pagetext { font:13px verdana,geneva; color:#fff; }
 </style>
+<!-- LIVEPERSON_HEADER -->
+<script type="text/javascript">
+	var lpPageType = document.location.pathname.split('/')[1];
+	if (document.location.pathname.indexOf('checkout.jsp') >= 0) {
+		lpPageType = 'checkout';
+	}
+	else {
+		if (lpPageType == 'cart' && document.location.pathname.indexOf('wlName') >= 0) {
+			lpPageType = 'wishlist';
+		}
+		else if (lpPageType == 'checkout') {
+			if (document.location.pathname.indexOf('process=egc') >= 0) {
+				lpPageType = 'giftCertificate';
+			}
+			else {
+				lpPageType = 'myaccount';
+			}
+		}
+	}
+	var lpSection = 'unknown';
+	switch(lpPageType) {
+	    case 'home':
+	    case 'category':
+	    case 'family':
+	    case 'product':
+	    case 'shop':
+	    case 'search':
+	    case 'cart':
+		lpSection = 'store';
+		break;
+	    case 'checkout':
+	    case 'receipt':
+		lpSection = 'checkout';
+		break;
+	    case 'myaccount':
+	    case 'giftfinder':
+	    case 'giftCertificate':     
+	    case 'emailSignup':
+	    case 'wishlist':
+		lpSection = 'general';
+		break;
+	    case 'helpdesk':
+		lpSection = 'helpdesk';
+		break;
+	    default:
+		// TBD
+	}
+	if (typeof(lpUnit)=='undefined')	var lpUnit='gsi-shop-nfl';
+</script>
+<script src="http://nfl.imageg.net/js/mtagconfig.js" type="text/Javascript"></script>
+
 <script src="/foreSee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 
 <body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" id="helpdesk">
@@ -95,6 +146,59 @@ function jump(url)
 	<div id="wrapper">
 		<div id="bodywrap">
 			
+
+
+    <script language="JavaScript" type="text/javascript">
+
+        var srRemoveCookieDate = new Date();
+        srRemoveCookieDate.setTime(srRemoveCookieDate.getTime() + (-1 * 24 * 60 * 60 * 1000));
+        
+        document.cookie = "sr_token=; expires=" + srRemoveCookieDate.toGMTString() + "; path=/;";
+
+        var _shoprunner_com = new Object();
+        _shoprunner_com.enabled = true;
+        _shoprunner_com.loginValidationURL = '/shoprunner/srTokenValidation.jsp';
+        /*
+         * 0 - Development
+         * 1 - Staging
+         * 2 - Production
+         */
+        
+            _shoprunner_com.environmentID = 2;
+        
+    </script>
+
+    <script language="JavaScript" type="text/javascript" src="http://nfl.imageg.net/include/shoprunner/js/shoprunner_init.js"></script>
+    
+    <script language="JavaScript" type="text/javascript">
+        function storeSREDID() {
+    var thirtyDays = (60*60*1000*24)*30;
+    var vals = document.location.search;
+    start = vals.indexOf("SREDID=");
+    if (start != -1) {
+        var end = vals.indexOf("&", start);
+        if (end == -1){ end = vals.length }
+        var date = new Date();date.setTime(date.getTime()+ thirtyDays);
+        document.cookie= vals.substring(start,end) + "; expires=" + date.toGMTString() + "; path=/";
+    }
+}
+function getSREDID(){
+   var n = "SREDID=";
+   var cookies = document.cookie;
+   var start = cookies.indexOf(n);
+   if (start == -1){ return null; }
+   start += n.length ;
+   var end = cookies.indexOf(";", start);
+   if (end == -1){ end = cookies.length }
+   return cookies.substring(start, end);
+}
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="http://nfl.imageg.net/include/shoprunner/css/shoprunner.css">
+
+
+
+
 	
 
 
@@ -214,7 +318,12 @@ function jump(url)
 					<li id="help"><a href="/helpdesk/index.jsp?clickid=topnav_helpdesk_txt" title="Help"><span>Help</span></a></li>
 					<li id="myAccount"><a href="https://www.nflshop.com/coreg/index.jsp?step=register&amp;clickid=topnav_track_txt" title="My Account"><span>My Account</span></a></li>
 					<li id="wishList"><a href="/cart/index.jsp?wlName=wishlist&amp;clickid=topnav_wish_txt" title="Wish List"><span>Wish List</span></a></li>
-					<li id="requestACatalog"><a href="/requestACatalog/index.jsp" title="Request A Catalog"><span>Request A Catalog</span></a></li>
+
+					<!--<li id="requestACatalog"><a href="/requestACatalog/index.jsp?productId=3862638" title="Request A Catalog"><span>Request A Catalog</span></a></li>-->
+					<!-- SMP : 7609 Update Request a Catalog URL in Header -->
+					<li id="requestACatalog"><a href="/product/index.jsp?productId=3862638" title="Request A Catalog"><span>Request A Catalog</span></a></li>
+
+
 					<li id="signUpAndSave"><a href="/emailSignup/index.jsp?partner=header" title="Sign Up &amp; Save"><span>Sign Up &amp; Save</span></a></li>
 				</ul>
 			</div>
@@ -363,41 +472,41 @@ var path = "http://nfl.imageg.net/images/";
 			<div style="width:309px;border-bottom:1px solid #333;text-align:left;padding-bottom:3px;float:left;"><div style="float:left;width:150px;padding-top:4px;" class="leftNavCatName">Shop Men's for:</div><div style="float:left;width:159px;text-align:right;"><img src="http://nfl.imageg.net/images/pixel.gif" border="0"></div></div>
 			<ul class="afc">
 				<li class="logo"><img src="http://nfl.imageg.net/images/afc_icon.gif" alt="AFC"></li>
-				<li><a href="/family/index.jsp?categoryId=2237576">Baltimore Ravens</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237578">Buffalo Bills</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237584">Cincinnati Bengals</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237585">Cleveland Browns</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237587">Denver Broncos</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237591">Houston Texans</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237593">Indianapolis Colts</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237597">Jacksonville Jaguars</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237600">Kansas City Chiefs</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237602">Miami Dolphins</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237606">New England Patriots</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237612">New York Jets</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237615">Oakland Raiders</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237619">Pittsburgh Steelers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237623">San Diego Chargers</a></li>						
-				<li><a href="/family/index.jsp?categoryId=2237634">Tennessee Titans</a></li>									
+				<li><a href="/category/index.jsp?categoryId=2237576">Baltimore Ravens</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237578">Buffalo Bills</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237584">Cincinnati Bengals</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237585">Cleveland Browns</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237587">Denver Broncos</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237591">Houston Texans</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237593">Indianapolis Colts</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237597">Jacksonville Jaguars</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237600">Kansas City Chiefs</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237602">Miami Dolphins</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237606">New England Patriots</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237612">New York Jets</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237615">Oakland Raiders</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237619">Pittsburgh Steelers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237623">San Diego Chargers</a></li>						
+				<li><a href="/category/index.jsp?categoryId=2237634">Tennessee Titans</a></li>									
 			</ul>
 			<ul class="nfc">
 				<li class="logo"><img src="http://nfl.imageg.net/images/nfc_icon.gif" alt="NFC"></li>
-				<li><a href="/family/index.jsp?categoryId=2237573">Arizona Cardinals</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237574">Atlanta Falcons</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237580">Carolina Panthers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237582">Chicago Bears</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237586">Dallas Cowboys</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237588">Detroit Lions</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237589">Green Bay Packers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237604">Minnesota Vikings</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237608">New Orleans Saints</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237610">New York Giants</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237617">Philadelphia Eagles</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237625">San Francisco 49ers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237627">Seattle Seahawks</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237621">St. Louis Rams</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237629">Tampa Bay Buccaneers</a></li>						
-				<li><a href="/family/index.jsp?categoryId=2237636">Washington Redskins</a></li>									
+				<li><a href="/category/index.jsp?categoryId=2237573">Arizona Cardinals</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237574">Atlanta Falcons</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237580">Carolina Panthers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237582">Chicago Bears</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237586">Dallas Cowboys</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237588">Detroit Lions</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237589">Green Bay Packers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237604">Minnesota Vikings</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237608">New Orleans Saints</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237610">New York Giants</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237617">Philadelphia Eagles</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237625">San Francisco 49ers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237627">Seattle Seahawks</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237621">St. Louis Rams</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237629">Tampa Bay Buccaneers</a></li>						
+				<li><a href="/category/index.jsp?categoryId=2237636">Washington Redskins</a></li>									
 			</ul>
 			<div style="width:309px;height:0;float:left;border-top:1px solid #333;font-size:0;"></div>			
 		</div>
@@ -415,41 +524,41 @@ var path = "http://nfl.imageg.net/images/";
 			<div style="width:309px;border-bottom:1px solid #333;text-align:left;padding-bottom:3px;float:left;"><div style="float:left;width:150px;padding-top:4px;" class="leftNavCatName">Shop Women's for:</div><div style="float:left;width:159px;text-align:right;"><img src="http://nfl.imageg.net/images/pixel.gif" border="0"></div></div>
 			<ul class="afc">
 				<li class="logo"><img src="http://nfl.imageg.net/images/afc_icon.gif" alt="AFC"></li>
-				<li><a href="/family/index.jsp?categoryId=2237643">Baltimore Ravens</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237645">Buffalo Bills</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237651">Cincinnati Bengals</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237652">Cleveland Browns</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237656">Denver Broncos</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237661">Houston Texans</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237662">Indianapolis Colts</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237663">Jacksonville Jaguars</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237664">Kansas City Chiefs</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237665">Miami Dolphins</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237669">New England Patriots</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237673">New York Jets</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237675">Oakland Raiders</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237677">Pittsburgh Steelers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237679">San Diego Chargers</a></li>						
-				<li><a href="/family/index.jsp?categoryId=2237684">Tennessee Titans</a></li>									
+				<li><a href="/category/index.jsp?categoryId=2237643">Baltimore Ravens</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237645">Buffalo Bills</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237651">Cincinnati Bengals</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237652">Cleveland Browns</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237656">Denver Broncos</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237661">Houston Texans</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237662">Indianapolis Colts</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237663">Jacksonville Jaguars</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237664">Kansas City Chiefs</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237665">Miami Dolphins</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237669">New England Patriots</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237673">New York Jets</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237675">Oakland Raiders</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237677">Pittsburgh Steelers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237679">San Diego Chargers</a></li>						
+				<li><a href="/category/index.jsp?categoryId=2237684">Tennessee Titans</a></li>									
 			</ul>
 			<ul class="nfc">
 				<li class="logo"><img src="http://nfl.imageg.net/images/nfc_icon.gif" alt="NFC"></li>
-				<li><a href="/family/index.jsp?categoryId=2237639">Arizona Cardinals</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237641">Atlanta Falcons</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237647">Carolina Panthers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237648">Chicago Bears</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237655">Dallas Cowboys</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237658">Detroit Lions</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237660">Green Bay Packers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237667">Minnesota Vikings</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237670">New Orleans Saints</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237672">New York Giants</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237676">Philadelphia Eagles</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237681">San Francisco 49ers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237682">Seattle Seahawks</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237678">St. Louis Rams</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237683">Tampa Bay Buccaneers</a></li>						
-				<li><a href="/family/index.jsp?categoryId=2237685">Washington Redskins</a></li>									
+				<li><a href="/category/index.jsp?categoryId=2237639">Arizona Cardinals</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237641">Atlanta Falcons</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237647">Carolina Panthers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237648">Chicago Bears</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237655">Dallas Cowboys</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237658">Detroit Lions</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237660">Green Bay Packers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237667">Minnesota Vikings</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237670">New Orleans Saints</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237672">New York Giants</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237676">Philadelphia Eagles</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237681">San Francisco 49ers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237682">Seattle Seahawks</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237678">St. Louis Rams</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237683">Tampa Bay Buccaneers</a></li>						
+				<li><a href="/category/index.jsp?categoryId=2237685">Washington Redskins</a></li>									
 			</ul>
 			<div style="width:309px;height:0;float:left;border-top:1px solid #333;font-size:0;"></div>
 		</div>
@@ -467,41 +576,41 @@ var path = "http://nfl.imageg.net/images/";
 			<div style="width:309px;border-bottom:1px solid #333;text-align:left;padding-bottom:3px;float:left;"><div style="float:left;width:150px;padding-top:4px;" class="leftNavCatName">Shop Kid's for:</div><div style="float:left;width:159px;text-align:right;"><img src="http://nfl.imageg.net/images/pixel.gif" border="0"></div></div>
 			<ul class="afc" style="border-right:1px solid #000;">
 				<li class="logo"><img src="http://nfl.imageg.net/images/afc_icon.gif" alt="AFC"></li>
-				<li><a href="/family/index.jsp?categoryId=2237688">Baltimore Ravens</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237689">Buffalo Bills</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237695">Cincinnati Bengals</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237698">Cleveland Browns</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237703">Denver Broncos</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237709">Houston Texans</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237712">Indianapolis Colts</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237714">Jacksonville Jaguars</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237716">Kansas City Chiefs</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237718">Miami Dolphins</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237721">New England Patriots</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237726">New York Jets</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237728">Oakland Raiders</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237732">Pittsburgh Steelers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237736">San Diego Chargers</a></li>						
-				<li><a href="/family/index.jsp?categoryId=2237745">Tennessee Titans</a></li>									
+				<li><a href="/category/index.jsp?categoryId=2237688">Baltimore Ravens</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237689">Buffalo Bills</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237695">Cincinnati Bengals</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237698">Cleveland Browns</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237703">Denver Broncos</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237709">Houston Texans</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237712">Indianapolis Colts</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237714">Jacksonville Jaguars</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237716">Kansas City Chiefs</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237718">Miami Dolphins</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237721">New England Patriots</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237726">New York Jets</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237728">Oakland Raiders</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237732">Pittsburgh Steelers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237736">San Diego Chargers</a></li>						
+				<li><a href="/category/index.jsp?categoryId=2237745">Tennessee Titans</a></li>									
 			</ul>
 			<ul class="NFC">
 				<li class="logo"><img src="http://nfl.imageg.net/images/nfc_icon.gif" alt="NFC"></li>
-				<li><a href="/family/index.jsp?categoryId=2237686">Arizona Cardinals</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237687">Atlanta Falcons</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237691">Carolina Panthers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237693">Chicago Bears</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237701">Dallas Cowboys</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237706">Detroit Lions</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237707">Green Bay Packers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237720">Minnesota Vikings</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237722">New Orleans Saints</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237724">New York Giants</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237731">Philadelphia Eagles</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237739">San Francisco 49ers</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237741">Seattle Seahawks</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237734">St. Louis Rams</a></li>
-				<li><a href="/family/index.jsp?categoryId=2237743">Tampa Bay Buccaneers</a></li>						
-				<li><a href="/family/index.jsp?categoryId=2237746">Washington Redskins</a></li>									
+				<li><a href="/category/index.jsp?categoryId=2237686">Arizona Cardinals</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237687">Atlanta Falcons</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237691">Carolina Panthers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237693">Chicago Bears</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237701">Dallas Cowboys</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237706">Detroit Lions</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237707">Green Bay Packers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237720">Minnesota Vikings</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237722">New Orleans Saints</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237724">New York Giants</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237731">Philadelphia Eagles</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237739">San Francisco 49ers</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237741">Seattle Seahawks</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237734">St. Louis Rams</a></li>
+				<li><a href="/category/index.jsp?categoryId=2237743">Tampa Bay Buccaneers</a></li>						
+				<li><a href="/category/index.jsp?categoryId=2237746">Washington Redskins</a></li>									
 			</ul>
 			<div style="width:309px;height:0;float:left;border-top:1px solid #333;font-size:0;"></div>
 		</div>
@@ -554,7 +663,10 @@ window.onresize = initHeader;
 
 
 
-<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on ashprd2_ws_51_2-->
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed -->
 
 
 
@@ -564,29 +676,44 @@ window.onresize = initHeader;
 <script type="text/javascript" src="http://nfl.imageg.net/include/swfobject.js"></script>
 
 <div id="nflshop_header1"><!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
-<!-- === Page ID:  131398   -->
-<!-- === Page Name:  NFL Include Womens Jersey 6.17   -->
+<!-- === Page ID:  167202   -->
+<!-- === Page Name:  NFL Include Feel Good Friday_6   -->
 <!-- === Page URI:  /gsi/nfl/cmsTemplates/nflshop_header_1.jsp   -->
 <!-- === -->
-<!-- === Campaign ID:  67171   -->
-<!-- === Campaign Name:  NFL Homepage Tshirt BOGO 6172010   -->
+<!-- === Campaign ID:  84544   -->
+<!-- === Campaign Name:  NFL Include Monday   -->
 <!-- === Campaign Tracking Code:  null   -->
-<!-- === Campaign Start Time:  2010-06-17 20:00:00.0   -->
-<!-- === Campaign End Time:  2010-06-25 15:00:00.0   -->
+<!-- === Campaign Start Time:  2010-11-22 00:00:00.0   -->
+<!-- === Campaign End Time:  2010-11-24 23:59:00.0   -->
 <!-- === -->
+<!-- ================================================================================= -->
+<!-- =========================== Request info ========================== -->
 <!-- === Request URI:  /gsi/nfl/helpdesk/index.jsp   -->
 <!-- === Request Query String:  isInSecureMode=false&pageType=helpdesk&display=safety&subdisplay=privacy&clickid=botnav_privacy_txt   -->
 <!-- === Include URI:  /gsi/nfl/cmsTemplates/nflshop_header_1.jsp   -->
 <!-- === Include Query String:  isInSecureMode=false&pageType=helpdesk   -->
 <!-- ================================================================================= -->
-<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
-<!-- === Widget ID:  282914   -->
+<!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  361126   -->
 <!-- === Widget Name:  nflshop_header_1   -->
 <!-- === Slot Name:  null   -->
-<!-- === Slot Data Map:  {nflshop_header_1=282914}   -->
+<!-- === Slot Data Map:  {nflshop_header_1=361126}   -->
 <!-- ================================================================================= -->
-<div name="nflshop_header_1" id="nflshop_header_1" style="width:775px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/nfl//cms_widgets/28/29/282914.jsp   -->
-<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><img border="0" name="cms_image47496263" src="http://nfl.imageg.net/cms_widgets/28/29/282914_assets/static-include.jpg" height="79" width="775" align="Default" valign="Default" usemap="#static"><map name="static"><area shape="rect" coords="310,2,546,36" title="NFL Shield Gear" href="http://www.nflshop.com/shop/index.jsp?categoryId=4015924&amp;ab=HP_Include_NFLShield_03082010"><area shape="rect" coords="548,1,775,37" title="Custom Gear" href="http://www.nflshop.com/category/index.jsp?categoryId=2251924&amp;ab=HP_Include_CustomGear_03082010"><area shape="rect" coords="315,39,546,79" title="Touch by Alyssa Milano" href="http://www.nflshop.com/shop/index.jsp?categoryId=3743308&amp;ab=HP_Include_Touch_03082010"><area shape="rect" coords="547,36,775,79" title="Big and Tall Apparel" href="http://www.nflshop.com/category/index.jsp?categoryId=4056013&amp;ab=HP_Include_BigandTall_03082010"></map></td></tr><tr><td><img border="0" name="cms_image71794690" src="http://nfl.imageg.net/cms_widgets/28/29/282914_assets/551041-weekly-call-out.jpg" height="75" width="775" align="Default" valign="Default" usemap="#a"><map name="a"><area shape="rect" coords="0,1,775,75" title="Shop Now" href="http://www.nflshop.com/category/index.jsp?categoryId=4213519&amp;ab=HP_WeeklyCallout_T_Shirt_Bogo_06172010"></map></td></tr></tbody></table><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT --></div>
+<div id="nflshop_header_1" style="width:775px;border:0px;overflow:hidden;">
+<table border="0" cellspacing="0" cellpadding="0" width="775"><tbody><tr><td><img border="0" name="cms_image34866592" src="http://nfl.imageg.net/cms_widgets/36/11/361126_assets/26-spot-include-navigation.jpg" height="67" width="775" align="Default" valign="Default" usemap="#iosjnh"><map name="iosjnh"><area shape="rect" coords="229,1,380,34" title="Pro Line" href="http://www.nflshop.com/category/index.jsp?categoryId=4413889&amp;ab=HP_Include_ProLine"><area shape="rect" coords="228,32,373,67" title="Sideline Gear" href="http://www.nflshop.com/category/index.jsp?categoryId=3793804&amp;ab=HP_Include_Sideline"><area shape="rect" coords="401,0,566,32" title="Holiday Decor" href="http://www.nflshop.com/category/index.jsp?categoryId=2528895&amp;ab=HP_Include_HolidayDecor"><area shape="rect" coords="403,31,593,67" title="Touch by Alyssa Milano" href="http://www.nflshop.com/shop/index.jsp?categoryId=3743308&amp;ab=HP_Include_Touch"><area shape="rect" coords="595,0,757,33" title="Custom Gear" href="http://www.nflshop.com/category/index.jsp?categoryId=2251924&amp;ab=HP_Include_CustomGear"><area shape="rect" coords="596,31,776,66" title="BCA" href="http://www.nflshop.com/category/index.jsp?categoryId=3821290&amp;ab=HP_Include_BCA"></map></td><td>&nbsp;</td></tr><tr><td><img border="0" name="cms_image104056725" src="http://nfl.imageg.net/cms_widgets/36/11/361126_assets/639790_banner_noclock.jpg" height="72" width="775" align="Default" valign="Default" usemap="#ggh35tgg"><map name="ggh35tgg"><area shape="rect" coords="0,8,1,9" href="http://www.nflshop.com/category/index.jsp?categoryId=2237397"></map></td><td>&nbsp;</td></tr><tr><td><script type="text/javascript">
+function invokeAnchor(id)
+{
+var anchor = document.getElementById(id);
+window.location = anchor.href;
+}
+</script>
+<a id="linkURL2" href="http://www.nflshop.com/category/index.jsp?categoryId=2251924&amp;ab=HP_Include_CustomGearSale_FS_112110" style="display:none"></a><img border="0" name="cms_image94552861" src="http://nfl.imageg.net/cms_widgets/36/11/361126_assets/fs-banner-red2.jpg" height="44" width="775" align="Default" valign="Default" style="cursor:pointer" usemap="#custombanner" onclick="javascript:invokeAnchor('linkURL2');"><map name="custombanner"><area shape="rect" coords="0,1,775,45" href="http://www.nflshop.com/category/index.jsp?categoryId=2251924&amp;ab=HP_Include_CustomGearSale_FS_112110"></map></td></tr></tbody></table></div><!-- END CMS SLOT --></div>
+
+<div id="lpButtonWrapper">
+<!-- Begin LP Button Div-->
+<div id="lpButton"></div>
+<!-- End LP Button Div-->
+</div>
 
 			<div style="float:left;width:775px;height:24px;"><table cellpadding="6" border="0" width="100%">
     <tbody><tr><td>
@@ -826,18 +953,6 @@ window.onresize = initHeader;
 	
 
 
-
-
-
-
-
-
-<!--You are running on ashprd2_ws_51_2-->
-
-
-
-
-
 	<div id="trackingPixels" style="display:none">
 	
 			<script type="text/javascript" src="/foreSee/foresee-trigger.js"></script> 
@@ -875,15 +990,7 @@ if (this.monetate) { monetate.a(); }
 
 
 
-
-
-<!--You are running on ashprd2_ws_51_2-->
-
-
-
-<!-- trackingPageName finalPage() helpdesk  -->
-        
-    
+<!--You are running on ashprd2_ws_63_5-->
 
 
 
@@ -891,11 +998,54 @@ if (this.monetate) { monetate.a(); }
 
 
 
+ 
+
+<script type="text/javascript">
+
+
+	var csOrigQueryString1="entry=4305994&source=NFL_DF:OAKLANDRAIDERS";
 
 
 
 
-<!--You are running on ashprd2_ws_51_2-->
+
+</script>
+<script language="javascript" src="https://dsa.csdata1.com/data/js/11139574/csgather.js"></script>
+
+
+
+<script type="text/javascript">
+var date = new Date();
+date.setTime(date.getTime()+(24*60*60*1000*10000));
+var expires = date.toGMTString();
+var enableWishlist="";
+var userId="";
+var username="NFL";
+var userValue=""+",";
+var rewardsUserValue=""+",";
+var flagPage="0";
+if(enableWishlist ==1 && flagPage==1){
+	document.cookie = username+'_Wishlist_clearSaleing='+ userValue+userId +'; expires=' + expires + ';path=/';
+}
+
+var rewardsflagPage="0";
+if(rewardsflagPage==1){
+	document.cookie = 'AceRewards_clearSaleing='+ rewardsUserValue+userId +'; expires=' + expires + ';path=/';
+}
+
+</script>	
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_63_5-->
 
 
 
@@ -905,7 +1055,6 @@ if (this.monetate) { monetate.a(); }
 						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
 						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
 						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
-						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
 
 
 
@@ -916,34 +1065,7 @@ if (this.monetate) { monetate.a(); }
 
 
 
-
-<!--You are running on ashprd2_ws_51_2-->
-
-
-
-
-<script type="text/javascript">
-
-
-
-
-</script>
-<script language="javascript" src="https://dsa.csdata1.com/data/js/11139574/csgather.js"></script>
-
-
-	
-
-
-
-	
-
-
-
-
-
-
-
-<!--You are running on ashprd2_ws_51_2-->
+<!--You are running on ashprd2_ws_63_5-->
 
 
 
@@ -970,15 +1092,7 @@ if (this.monetate) { monetate.a(); }
 
 
 
-
-<!--You are running on ashprd2_ws_51_2-->
-
-
-
-
-
-
-
+<!--You are running on ashprd2_ws_63_5-->
 
 
 
@@ -1001,10 +1115,80 @@ if (this.monetate) { monetate.a(); }
 
 
 
+<!--You are running on ashprd2_ws_63_5-->
 
 
 
-<!--You are running on ashprd2_ws_51_2-->
+
+
+
+
+
+		<div id="trackingPixels" style="visibility:hidden">
+			
+
+
+			<iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3142" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+	
+
+
+ 
+		</div>
+	
+
+
+
+
+   
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_63_5-->
+
+
+
+
+
+
+
+
+<!-- Mediaforge Pixel  --->
+<iframe width="0" scrolling="no" height="0" frameborder="0" src="http://tags.mediaforge.com/if/141"></iframe>
+
+
+<!-- Mediaforge Pixel -->
+
+
+
+
+
+
+
+<script><!-- 
+storeSREDID(); 
+//--></script> 
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_63_5-->
 
 
 
@@ -1015,11 +1199,11 @@ if (this.monetate) { monetate.a(); }
 
          
 
-<script language="JavaScript">
+         <script language="JavaScript">
 var s_account='gsicnflshop';
 var s_server='www.nflshop.com';
 var s_hier1='';
-var s_eVar19='106189539844';
+var s_eVar19='115265467254';
 var s_channel='Home';
 var s_pageName='Customer Assistance - Customer Assitance Landing Page';
 </script>
@@ -1027,7 +1211,7 @@ var s_pageName='Customer Assistance - Customer Assitance Landing Page';
 <!-- End SiteCatalyst code version: G.9. -->
 
 
-       
+        
 	
 
 
@@ -1040,6 +1224,80 @@ var s_pageName='Customer Assistance - Customer Assitance Landing Page';
 
 </div>
 </div>
+
+<!-- LIVEPERSON_FOOTER -->
+<script type="text/javascript">
+//<![CDATA[
+gsi_cartTotal = "0.00";
+gsi_cartPage = "shoppingCart";
+
+String.prototype.stripHTML = function() {
+    var matchTag = /<(?:.|\s)*?>/g;
+    return this.replace(matchTag, "");
+};
+if (typeof(s_pageName)=='undefined') { var s_pageName = 'unknown'; }
+if (typeof(s_channel)=='undefined') { var s_channel = 'unknown'; }
+if (typeof(csOrderNum)=='string') { lpPageType = 'receipt'; }
+if (typeof(s_pageName)!='string') { s_pageName = lpPageType; }
+if (typeof(lpSection)=='string' && lpSection != 'unknown') {
+	switch(lpPageType) {
+	    case 'home':
+	    case 'search':
+	    case 'wishlist':
+		lpAddVars('page','Section',lpSection);
+		lpAddVars('page','PageName',s_pageName);
+		lpAddVars('page','CartTotal',gsi_cartTotal);
+		break;
+	    case 'category':
+	    case 'family':
+	    case 'shop':
+		lpAddVars('page','Section',lpSection);
+		lpAddVars('page','PageName',s_pageName);
+		lpAddVars('page','Category',s_channel);
+		lpAddVars('page','CartTotal',gsi_cartTotal);
+		break;
+	    case 'product':
+		lpAddVars('page','Section',lpSection);
+		lpAddVars('page','PageName',s_pageName);
+		lpAddVars('page','Category',s_channel);
+		lpAddVars('page','ProductPrice',$('prodPrice').innerHTML.stripHTML());
+		lpAddVars('page','CartTotal',gsi_cartTotal);
+		break;
+	    case 'cart':
+	    case 'checkout':
+		lpAddVars('page','Section',lpSection);
+		lpAddVars('page','PageName',s_pageName);
+		lpAddVars('page','CartTotal',gsi_cartTotal);
+		lpAddVars('page','ConversionStage',gsi_cartPage);
+		break;
+	    case 'receipt':
+		lpAddVars('page','Section',lpSection);
+		lpAddVars('page','PageName',s_pageName);
+		lpAddVars('page','ConversionStage',gsi_cartPage);
+		lpAddVars('page','OrderTotal',csOrderTotal);
+		lpAddVars('page','OrderNumber',csOrderNum);
+		break;
+	    case 'myaccount':
+	    case 'helpdesk':
+	    case 'giftfinder':
+	    case 'giftCertificate':
+	    case 'emailSignup':
+		lpAddVars('page','Section',lpSection);
+		lpAddVars('page','PageName',s_pageName);
+	    default:
+		// TBD
+	}
+}
+if (typeof(lpPageType)=='string' && lpPageType == 'receipt') {
+	if(typeof(lpMTagConfig.lpTagLoaded)!='undefined' && (!lpMTagConfig.lpTagLoaded)) {
+		lpMTagConfig.sendCookies=false;
+		lpAddMonitorTag();
+		lpMTagConfig.lpTagLoaded=true;
+	}
+}
+//]]>
+</script>
+
 	</div>
 </div>
 <br clear="all">
