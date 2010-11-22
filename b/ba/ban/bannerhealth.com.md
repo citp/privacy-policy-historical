@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228174425id_/http%3A//www.bannerhealth.com/About%2BUs/Legal%2BNotices/Privacy%2BStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092904id_/http%3A//www.bannerhealth.com/About%2BUs/Legal%2BNotices/Privacy%2BStatement.htm) for the most accurate reproduction.*
 
 # Banner Health Privacy Statement
 
-**  
-Effective Date: 07/30/2004**
+**Effective Date: 07/30/2004**
 
 This privacy statement describes and applies to the information we collect from you when you visit the Banner Health web site, how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through this site. This statement applies only to information you provide to us online while visiting or using our site. It does not apply to information we have obtained or may obtain offline through other traditional means.
 
@@ -37,7 +36,7 @@ Banner also maintains a separate [Notice of Privacy Practices](https://web.archi
 > We do not require you to provide any personal medical information about yourself to us online, and we ask that you do not share personal medical information through the Site, especially information that you wish to keep confidential. Information you provide through our web site is not protected under confidentiality laws that protect physician-patient communications.  Please carefully select what you choose to disclose. In addition, while Banner attempts to prevent unauthorized access to our Web site files, such access may occur. Personal medical information that Banner receives in any manner is subject to separate privacy practices. Our [statement](https://web.archive.org/_Patients+and+Visitors/Patient+Privacy/_Privacy+Practices.htm "Medical records privacy practice statement") regarding the treatment of such information can be read in English or Spanish.
 > 
 > **Personal Information about Children.  
-> ** The Banner web site is targeted primarily for use by adults. Accordingly, we do not knowingly collect age identifying information, except on job applications, nor do we knowingly collect any personal information from children under the age of 13. However, we advise all visitors to our site under the age of 13 not to disclose or provide any User Information on our site. In the event that we discover that a child under the age of 13 has provided User Information to us, in accordance with the Children's Online Privacy Protect Act (see the Federal Trade Commission's website at <http://www.ftc.gov/kidzprivacy> for more information about this Act), we will delete the child's User Information from our files to the extent technologically possible.
+> ** The Banner web site is targeted primarily for use by adults. Accordingly, we do not knowingly collect age identifying information, except on job applications, nor do we knowingly collect any personal information from children under the age of 13. However, we advise all visitors to our site under the age of 13 not to disclose or provide any User Information on our site. In the event that we discover that a child under the age of 13 has provided User Information to us, in accordance with the Children's Online Privacy Protect Act (see the [Federal Trade Commission's Web site](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html "http://www.ftc.gov/privacy/privacyinitiatives/childrens.html") for more information about this Act), we will delete the child's User Information from our files to the extent technologically possible.
 
 **2\. How we use and share User Information.  
 ** When you actively submit User Information through the web site, we will use that information in one or more of the following ways:
