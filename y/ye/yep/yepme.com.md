@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110062323id_/http%3A//www.yepme.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123005607id_/http%3A//www.yepme.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # :: Yepme :: Privacy Policy ::
 
@@ -42,7 +42,11 @@ For credit card purchasers, we provide to the relevant financial institution you
 
 _Legal Requirements._
 
-Vas Data Services Private Limited reserves the right to disclose your personal information as necessary to: (1) comply with the law or comply with legal process served on Vas Data Services Private Limited; (2) protect and defend the rights or property of Vas Data Services Private Limited; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions. Vas Data Services Private Limited cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution. 
+Vas Data Services Private Limited reserves the right to disclose your personal information as necessary to: (1) comply with the law or comply with legal process served on Vas Data Services Private Limited; (2) protect and defend the rights or property of Vas Data Services Private Limited; (3) protect the personal safety of other Yepme websites users or the public; or (4) to ensure compliance with our Terms & Conditions. Vas Data Services Private Limited cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution 
+
+_Promotional Mailers:_
+
+Whenever you register with us, we will send you your subscription status through email for your review. You can also change subscription status and frequency of promotional emails (daily, weekly, monthly) using your profile settings and we will send emails accordingly. Based on your subscription status and preferences, we will send you promotional emails. You can opt out anytime by using unsubscribe link provided in such emails and we will stop sending promotional mailers within 1 week of your opting out. 
 
                   **Third Parties**
 
