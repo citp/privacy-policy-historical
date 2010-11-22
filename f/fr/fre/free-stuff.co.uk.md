@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906064612id_/http%3A//www.free-stuff.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122152830id_/http%3A//www.free-stuff.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # free stuff
 
