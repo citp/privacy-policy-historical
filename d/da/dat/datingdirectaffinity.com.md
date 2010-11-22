@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the datingdirectaffinity.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609194625id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingdirectaffinity.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122163555id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
-# Dating Direct Affinity Privacy Policy.
+# DatingDirectAffinity.com Privacy Policy.
 
 (Limited Privacy Policy: DatingDirectAffinity.com, 09/10/2008.)
 
 **1\. Who are we?**
 
-1.1 We are DatingDirect.com Limited. We are registered in the UK (technically "England & Wales") under number 03850701. Our registered office is at: DATING DIRECT BCM DATING DIRECT, LONDON, WC1N 3XX. You can contact us at the following postal address: DATING DIRECT BCM DATING DIRECT, LONDON, WC1N 3XX.
+1.1 We are DatingDirect.com Limited. We are registered in the UK (technically "England & Wales") under number 03850701. Our registered office is at: The Communications Building, 48 Leicester Square, London, WC2H 7LT. You can contact us at the following postal address: The Communications Building, 48 Leicester Square, London, WC2H 7LT.
 
 1.2 We own and operate this site.
 
