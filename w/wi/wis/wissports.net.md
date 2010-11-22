@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110250id_/http%3A//www.wissports.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094647id_/http%3A//www.wissports.net/privacy.asp) for the most accurate reproduction.*
 
 # WSN Wisconsin Sports Network - WisSports.net
 
@@ -7,7 +7,7 @@
 **INFORMATION COLLECTION**  
 We do not collect personally identifiable information about you except when you specifically provide this information on a voluntary basis. We will make every effort to ensure that whatever information you provide will be maintained in a secure environment. 
 
-However, even if you opt out of receiving any communications from wisfootball.net, we reserve the right to contact you regarding your account status or any other matter that might affect our service to you and/or our records on you. 
+However, even if you opt out of receiving any communications from WisSports.net, we reserve the right to contact you regarding your account status or any other matter that might affect our service to you and/or our records on you. 
 
 **INFORMATION USE**  
 The Wisconsin Sports Network (WSN) reserves the right to perform statistical analyses of user behavior and characteristics. We do this in order to measure interest in and use of the various areas of the web site. WSN collects IP addresses for system administration and record keeping. Your IP address is automatically assigned to your computer when you use the World Wide Web. Our servers record incoming IP addresses. The IP addresses are analyzed only in aggregate; no connection is made between you and your computer's IP address. By tracking IP addresses, we can determine which sites refer the most people to wisfootball.net (Think of an IP address like your zip code; it tells us in general terms where you're from.) 
@@ -27,4 +27,4 @@ WSN is aware of your privacy concerns and strives to collect only as much data a
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
