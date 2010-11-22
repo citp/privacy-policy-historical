@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cablewholesale.com privacy policy that was archived on 2010-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624223927id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cablewholesale.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122102930id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
     <title>Privacy Policy - CableWholesale.com</title>
@@ -9,7 +9,9 @@
     <meta name="ROBOTS" content="ALL">
 
     <link rel="stylesheet" href="/cablewholesale.css" type="text/css">
-
+	<!--script type="text/javascript" src="/prototype.js"></script-->
+	<script type="text/javascript" src="/scriptaculous.js?load=effects,builder"></script>
+	<!--script type="text/javascript" src="/lightbox.js"></script-->
     <script type="text/javascript">
     <!--
     function popup(filename)
@@ -65,7 +67,7 @@
         document.getElementById("cntrImg").style.display = 'block';
         document.getElementById("cntrImgClose").style.display = 'block';
         // Set source file.
-        document.getElementById("cntrImg").src = 'http://www.cablewholesale.com/prodimages/' + what;
+        document.getElementById("cntrImg").src = '/prodimages/' + what;
         // Set image title, not sure this is valid likely unecessary with alt being specified.
         //document.getElementById("cntrImg").title = 'Click to View More info';
         // Set alt.
@@ -83,11 +85,11 @@
 
     function get_random()
     {
-      var ranNum= Math.floor(Math.random()*50);
+      var ranNum= Math.floor(Math.random()*60);
       return ranNum;
     }
 
-    var content= new Array(50);
+    var content= new Array(60);
     content[0] = '"Top notch company, my exclusive supplier for cabling needs, ' +
                    'frequently recommend to friends and coworkers."<br><div ' + 
                    'class="feedname">-JD from Toms River, NJ</div>' +
@@ -244,7 +246,37 @@
     content[49] = '"I ordered the product late on a Sunday night and it was shipped out very early on Monday morning. The selection was far better than I had expected, or seen on similar websites. Next time I need cables, I know where to go to begin with."<br><div class="feedname" align="right"> ' +
                    '-JC from Salt Lake City, UT</div>' +
                    '</div>'; 
-                          
+    content[50] = '"I have ordered before and I got quick delivery and the right item.  Excellent prices and good quality.  Can\'t beat that!"<br><div class="feedname" align="right"> ' +
+                   '-TC from Victorville, CA</div>' +
+                   '</div>'; 
+    content[51] = '"CableWholesale.com is the best place to do business, the web site is exstreamly easy to use and if you have a problem you get to speak to a real live person, without waiting. This is the only place I will do my purchasing in this line of products."<br><div class="feedname" align="right"> ' +
+                   '-AK from Texarkana, AR</div>' +
+                   '</div>'; 
+    content[52] = '"Great selection and even greater prices. I will be recommending CableWholesale.com to my place of business and anyone who asks for advice on this type of purchase!"<br><div class="feedname" align="right"> ' +
+                   '-RM from Yuma, AZ</div>' +
+                   '</div>'; 
+    content[53] = '"What can I say these are the best prices on cables around! Digital equipment is expensive enough as it is, so why should consumers be expected to pay $100 plus for a cable? Cablewholesale is the answer!"<br><div class="feedname" align="right"> ' +
+                   '-RP from Romeoville, IL</div>' +
+                   '</div>'; 
+    content[54] = '"Always great to deal with Cable Wholesale."<br><div class="feedname" align="right"> ' +
+                   '-SG from Boynton Beach, FL</div>' +
+                   '</div>'; 
+    content[55] = '"I found the item I wanted at a price that couldn\'t be beat. I placed my order, received a shipping conformation within a few hours. I got the product I ordered, delivered when it was promised. You people should give classes on "The true meaning of Customer Service"!"<br><div class="feedname" align="right"> ' +
+                   '-JW from Worthington, WV</div>' +
+                   '</div>'; 
+    content[56] = '"Always great to deal with Cable Wholesale."<br><div class="feedname" align="right"> ' +
+                   '-SG from Boynton Beach, FL</div>' +
+                   '</div>';
+    content[57] = '"CableWholesale.com is a one-stop shop for ALL your cable needs. I\'ve spent hundreds of dollars here, and they are the best, no doubt. I will keep ordering from them, because I don\'t think there is any better."<br><div class="feedname" align="right"> ' +
+                   '-BW from Prairie du Sac, WI</div>' +
+                   '</div>';
+    content[58] = '"I have ordered from Cable Wholesale many times.  They always have great prices and quality."<br><div class="feedname" align="right"> ' +
+                   '-BL from Franklin, TN</div>' +
+                   '</div>'; 
+    content[59] = '"I am glad to have found this company with all of it\`s speciality products."<br><div class="feedname" align="right"> ' +
+                   '-RC from Durham, ME</div>' +
+                   '</div>'; 
+
                                                   
                    
     function rotateTestimonials() 
@@ -255,7 +287,7 @@
         else 
             { document.getElementById("testimonial").innerHTML = content[whichContent]; }
         x=whichContent;
-        if(x != 49) 
+        if(x != 59) 
             { x++; }
         setInterval('flip()',12500);
     }
@@ -267,7 +299,7 @@
         else 
             { document.getElementById("testimonial").innerHTML = content[x]; }
 
-        if(x != 49) 
+        if(x != 59) 
             { x++; }
         else 
             { x=0; }
@@ -287,9 +319,9 @@
                     <td border="0" colspan="3" width="100%">
                                  <b>[ <a href="https://www.cablewholesale.com/login.php">Login/Create Account</a> ]</b>
         [ <a href="/index.php?body=Track Orders">Where is My Order?</a> ]                          
-                        [ <a href="/index.php?body=New Products">New Products</a> ]
-                        [ <a href="/catalog/hotdeals.htm">Hot Deals</a> ]
-                        <!--[ <A HREF="/cgi-bin/clearance.cgi">Clearance</A> ]-->
+                        [ <a href="/cgi-bin/new_products.cgi">New Products</a> ]
+                        [ <a href="/cgi-bin/sale_items.cgi">Sale Items</a> ]
+                        [ <a href="/cgi-bin/hotdeals.cgi">Clearance</a> ]
                         &nbsp;
                     </td>
                 </tr>
@@ -303,7 +335,7 @@
                             <td>
                                 <div class="feedheader">Feedback:</div>
                                 <div align="top" class="feedback">
-                                <div id="testimonial">"Great selection of product and excellent pricing. I have used them on several occasions and always been very pleased."<br><div class="feedname" align="right"> -FB from Houston, TX</div></div>
+                                <div id="testimonial">"Cable Wholesale has been a great help to me. Having a location near where I live also gives me a chance to get these great prices with great ease! I don't go anywhere else if I have a choice in where I buy my cables from."<br><div class="feedname" align="right"> -CB from Lilburn, GA</div></div>
                                 </div>
                             </td>
                             <td>&nbsp;</td>
@@ -363,7 +395,7 @@
                         <input type="submit" class="button" value=">>">
             <div class="livechat">
             <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciuEus" style="z-index:100;position:absolute"></div><div id="scuEus" style="display:inline"></div><div id="sduEus" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/cwsadmin/safe-standard.js?ps_h=uEus&amp;ps_t=1580472311336"></script></div><script type="text/javascript">var seuEus=document.createElement("script");seuEus.type="text/javascript";var seuEuss=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/cwsadmin/safe-standard.js?ps_h=uEus\u0026ps_t="+new Date().getTime();setTimeout("seuEus.src=seuEuss;document.getElementById('sduEus').appendChild(seuEus)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=cwsadmin">Online Chat</a></div></noscript>
+<div id="ciuEus" style="z-index:100;position:absolute"></div><div id="scuEus" style="display:inline"></div><div id="sduEus" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/cwsadmin/safe-standard.js?ps_h=uEus&amp;ps_t=1580472318790"></script></div><script type="text/javascript">var seuEus=document.createElement("script");seuEus.type="text/javascript";var seuEuss=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/cwsadmin/safe-standard.js?ps_h=uEus\u0026ps_t="+new Date().getTime();setTimeout("seuEus.src=seuEuss;document.getElementById('sduEus').appendChild(seuEus)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=cwsadmin">Online Chat</a></div></noscript>
 <!-- END ProvideSupport.com Graphics Chat Button Code -->
             </div>
                     </div>&nbsp;
@@ -426,16 +458,10 @@
             
             <div class="raised"><span class="section">Support Center</span><br><br>
                     <span class="section">New Articles</span><br>
-                    <a href="/index.php?section=Support&amp;body=Fiber">Fiber Optics</a> - June 2010<br>
-                    <a href="/index.php?section=Support&amp;body=Hdmi14">HDMI 1.4</a> - Apr 2010<br>
-                    <a href="/index.php?section=Support&amp;body=Security">Security Cable and Wire</a> - Mar 2010<br>
-                    
-                    
-                    
-                    
-                    
-        
-                    
+					
+					<a href="/index.php?section=Support&amp;body=USB Jungle">Taming the USB Jungle</a> - Oct 2010<br>
+					<a href="/index.php?section=Support&amp;body=3D TV">3D TV</a> - Sep 2010<br>
+					<a href="/index.php?section=Support&amp;body=Make The Right Connection">Make The Right Connection</a> - Aug 2010<br>
                     [ <a href="/index.php?section=Support&amp;body=Technical Articles">More...</a> ]
             
                     <br><br><span class="section">Quick Reference</span><br>
@@ -458,12 +484,12 @@
                         <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 <tbody><tr>
 <td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.cablewholesale.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script><br>
-<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+<a href="http://www.verisign.com/ssl/ssl-information-center/index.html" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
 </tr>
 </tbody></table>
                         <br><br>
                          
-                        <a href="https://www.scanalert.com/RatingVerify?ref=www.cablewholesale.com"><img width="115" height="32" border="0" hspace="30" vspace="5" src="https://images.scanalert.com/meter/www.cablewholesale.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" target="_blank"></a>
+                        <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.cablewholesale.com"><img width="115" height="32" border="0" hspace="30" vspace="5" src="https://images.scanalert.com/meter/www.cablewholesale.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" target="_blank"></a>
                         <br><br>
                         
                                     <!-- Start BBB Reliability Report Link -->
@@ -471,7 +497,7 @@
             var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ), bbbhost = "www.bbb.org/greater-san-francisco";
             document.write(unescape("%3Cscript src='" + bbbprotocol + bbbhost + unescape('%2Fclick-to-check.js') + "' type='text/javascript'%3E%3C/script%3E"));
             </script><script src="https://www.bbb.org/greater-san-francisco/click-to-check.js" type="text/javascript"></script>
-            <a href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-shopping/cablewholesalecom-in-livermore-ca-23701" lang="23701" id="bbb-report-link" title="Click to verify BBB accreditation and to see a BBB report for CableWholesale.Com" target="_blank"><img src="/images/bbbseal-new.gif" alt="Click to verify BBB accreditation and to see a BBB report for CableWholesale.Com" hspace="15" vspace="0" border="0" title="Click to verify BBB accreditation and to see a BBB report for CableWholesale.Com"></a>
+            <a href="http://www.bbb.org/greater-san-francisco/business-reviews/cable-splicing/cablewholesalecom-in-livermore-ca-23701" lang="23701" id="bbb-report-link" title="Click to verify BBB accreditation and to see a BBB report for CableWholesale.Com" target="_blank"><img src="/images/bbbseal-new.gif" alt="Click to verify BBB accreditation and to see a BBB report for CableWholesale.Com" hspace="15" vspace="0" border="0" title="Click to verify BBB accreditation and to see a BBB report for CableWholesale.Com"></a>
             <!-- End BBB Reliabilty Report Link -->
             <br><br>
             <a href="http://www.resellerratings.com/store/Cable_Wholesale"><img align="center" src="/images/resellerratinglogo.jpg"></a>
@@ -489,7 +515,7 @@
     </td>
     <td class="box_mid" width="75%" valign="top">
             <!-- ************************************************************************** Begin Main Body -->
-
+		
             
             
             <div class="clearraised">
@@ -539,7 +565,7 @@ If you have any questions regarding these policies, or would like to discuss the
         <br>
         [ <a href="/index.php?body=Copyright">© Copyright CableWholesale.com / National Technology</a> ]
         <br>
-        <i>Last Updated: June 23, 2010</i><br><br>
+        <i>Last Updated: November 19, 2010</i><br><br>
     </td>
 </tr>
 </tbody></table>
@@ -553,8 +579,7 @@ If you have any questions regarding these policies, or would like to discuss the
   pageTracker._initData();
   pageTracker._trackPageview();
 </script>
-<script type="text/javascript" src="https://twitter.com/javascripts/blogger.js"></script>
-<script type="text/javascript" src="https://twitter.com/statuses/user_timeline/cablewholesale.json?callback=twitterCallback2&amp;count=3"></script>
+
 
 <script type="text/javascript">
 document.write(unescape("%3Cscript src='" + document.location.protocol + "//www.webtraxs.com/trxscript.php' type='text/javascript'%3E%3C/script%3E"));
