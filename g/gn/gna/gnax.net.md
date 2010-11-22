@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnax.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203812id_/http%3A//www.gnax.net/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnax.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103041id_/http%3A//www.gnax.net/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Datacenter Services - Atlanta Disaster Recovery, Dallas Servers, East Coast Colocation - GNAX Privacy Policy
 
@@ -55,6 +55,10 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+### Safe Harbor Privacy Statement
+
+GNAX complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. GNAX has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GNAX’s certification, please visit <http://www.export.gov/safeharbor/>
+
 ### Your Consent
 
 By using our site, you consent to our privacy policy.
@@ -63,13 +67,13 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 3/4/09.
+This policy was last modified on 9/2/2010.
 
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[www.gnax.net](https://web.archive.org/web/20100611203812id_/http%3A//www.gnax.net/index.shtml)  
+[www.gnax.net](https://web.archive.org/web/20101122103041id_/http%3A//www.gnax.net/index.htm)  
 1100 White Street  
 Atlanta, GA 30310  
 United States  
