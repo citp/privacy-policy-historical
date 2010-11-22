@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancytoday.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612184718id_/http%3A//www.pregnancytoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancytoday.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122084754id_/http%3A//www.pregnancytoday.com/privacy) for the most accurate reproduction.*
 
 # Pregnancy Videos | Pregnancy Today
 
