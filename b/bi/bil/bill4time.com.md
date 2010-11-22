@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620071302id_/http%3A//www.bill4time.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123000951id_/http%3A//www.bill4time.com/privacy.htm) for the most accurate reproduction.*
 
-# Time Tracking Software - Time Management and Billing Software - Privacy
+# Bill4Time Privacy Policy
 
 **Effective:** January 2006
 
-Bill4Time.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the Bill4Time.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Privacy Statement Reproduced by request of TRUSTe. Broadway Billing Systems, LLC, including [Bill4Time.com](http://www.bill4time.com/) (collectively, "Bill4Time.com"), is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+
+If you have questions or concerns regarding this statement, you should first contact Bill4Time.com's security administrator by email at support@Bill4Time.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+### Bill4Time.com Privacy Statement:
+
+Bill4Time.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the Bill4Time.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect. To be effective, the change must first also be approved by TRUSTe, and will include directions on how users may respond to the change. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
