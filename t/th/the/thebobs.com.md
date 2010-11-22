@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebobs.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607222533id_/http%3A//www.thebobs.com/index.php%3Fl%3Den%26s%3D1152969649158387MKNFJYYJ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebobs.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122190803id_/http%3A//www.thebobs.com/index.php%3Fl%3Den%26s%3D1152969649158387MKNFJYYJ) for the most accurate reproduction.*
 
 # The BOBs - Deutsche Welle - Privacy
 
