@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the sitepen.com privacy policy that was archived on 2010-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100327092835id_/http%3A//www.sitepen.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sitepen.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122101708id_/http%3A//www.sitepen.com/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-		
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta http-equiv="X-UA-Compatible" content="chrome=1"> 
 <title>SitePen - Privacy Policy</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/png">
-<link rel="stylesheet" href="/css/main.css?mt=1267567902" type="text/css" media="screen" title="main" charset="utf-8">
+<link rel="stylesheet" href="/css/main.css?mt=1279918463" type="text/css" media="screen" title="main" charset="utf-8">
 <link rel="alternate" type="application/rss+xml" title="SitePen Blog RSS" href="http://sitepen.com/blog/feed/">
 
 <!--[if IE]>
@@ -34,7 +33,9 @@
 		  selector: 'h1'
 		});
 	</script>
-
+	<style type="text/css">
+		.sIFR-alternate { display:none !important; }
+	</style>
 	</head>
 	<body>
 		<div class="pageWrap"><div class="pageContentWrap">
@@ -42,7 +43,11 @@
 <div class="mainMenu">
 	<a href="/"><img src="/images/headerLogo.gif" alt="SitePen"></a>
 	<ul>
-		<li><a href="http://www.sitepen.com/services/development.php">Ajax Development</a></li><li><a href="http://www.sitepen.com/services/support.php">Dojo Support</a></li><li><a href="http://www.sitepen.com/services/training.php">Workshops</a></li><li class="active"><a href="http://www.sitepen.com/about">About Us</a></li><li><a href="http://www.sitepen.com/blog">Blog</a></li><li><a href="http://www.sitepen.com/contact">Contact</a></li>	</ul>
+		<li><a href="http://www.sitepen.com/services/development.php">Ajax Development</a></li><li><a href="http://www.sitepen.com/services/support.php">Dojo Support</a></li><li><a href="http://www.sitepen.com/services/training.php">Workshops</a></li><li class="active"><a href="http://www.sitepen.com/about">About Us</a></li><li><a href="http://www.sitepen.com/blog">Blog</a></li><li><a href="http://www.sitepen.com/contact">Contact</a></li><li id="loginLink">Login</li><div id="loginMenu" class="hidden">
+					<div><img src="/images/loginTooltip.png"></div>
+					<a href="http://hub.sitepen.com">Hub Login</a><br>
+					<a href="http://support.sitepen.com">Support Login</a>
+				</div>	</ul>
 </div>			<div class="mainHeading">
 				<h1 class="pageHeading">SitePen Privacy Policy</h1>
 				<h2 class="pageSubHeading">Our legal team makes us do this...</h2>
@@ -208,7 +213,10 @@
 		<div id="footerMid">
 			<h3>Who We Do It For</h3>
 			<h4>Companies Large and Small</h4>
-			<div class="clientLogos"></div>
+			
+			<div class="clientLogos">
+				<div class="footerLogoGreenplum" title="Greenplum">Greenplum</div><div class="footerLogoSun" title="Sun">Sun</div><div class="footerLogoAdobe" title="Adobe Systems Inc.">Adobe Systems Inc.</div><div class="footerLogoFacebook" title="Facebook">Facebook</div><div class="footerLogoPortland" title="Portland St. University">Portland St. University</div><div class="footerLogoNovell" title="Novell">Novell</div><div class="footerLogoCisco" title="Cisco">Cisco</div><div class="footerLogoKana" title="Kana Software">Kana Software</div>			</div>
+			
 		</div>
 		<div id="footerRight">
 							<div>
@@ -217,13 +225,21 @@
 					<form method="post" id="contactForm" action="/contact/submitContactForm.php">
 						<fieldset class="contactForm">
 						  <textarea name="other" style="display:none"></textarea>
-						  <input type="hidden" id="inquiry" name="inquiry" value="">
+						  <input type="hidden" id="inquiry" name="inquiry" value=""><div style="clear:both;"></div>
 							<label>Your Name</label>
-							<input class="inputBox" type="text" name="name" id="nameNode">
+							<input class="inputBox" type="text" name="name" id="nameNode"><div style="clear:both;"></div>
 							<label>E-Mail</label>
-							<input class="inputBox" type="text" name="email" id="emailNode">
+							<input class="inputBox" type="text" name="email" id="emailNode"><div style="clear:both;"></div>
 							<label>Phone</label>
-							<input class="inputBox" type="text" name="phone" id="phoneNode">
+							<input class="inputBox" type="text" name="phone" id="phoneNode"><div style="clear:both;"></div>
+							<div class="specialAddress">
+								<label>Please Leave Blank</label>
+								<input class="inputBox" type="text" name="address1" id="address1Node">
+							</div>
+							<div class="specialAddress">
+								<label>Please Leave Alone</label>
+								<input class="inputBox" type="text" name="address2" id="address2Node" value="human">
+							</div>
 							<textarea class="inputBox" id="theMessage" name="themessage"></textarea>
 							<div id="errorMessageNode" style="display:none"></div>
 							<div class="contactWrapper">
@@ -249,7 +265,7 @@
 	</div>
 </div>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/dojo/1.3.2/dojo/dojo.xd.js" type="text/javascript" djconfig="urchin: 'UA-3242977-2', parseOnLoad: false, dojoIframeHistoryUrl:'/js/iframe_history.html'"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js" type="text/javascript" djconfig="urchin: 'UA-3242977-2', parseOnLoad: false, dojoIframeHistoryUrl:'/js/iframe_history.html'"></script>
 	<script type="text/javascript">
 	// make absolute urls scheme relative
 	(function() {
@@ -273,14 +289,33 @@
 				
 		dojo.addOnLoad(function(){
 			window.pageTracker = new dojox.analytics.Urchin({ acct: dojo.config.urchin });
+			initLoginDropDown();
 		});
+		
+		function initLoginDropDown() {
+			var menuLink = dojo.byId("loginLink")
+			//console.log(menuLink);
+			dojo.connect(menuLink, "onclick", function(evt) {
+				var nd = dojo.byId("loginMenu");
+				dojo.toggleClass(nd, "hidden");
+				var ud = dojo.byId("underlay");
+				dojo.removeClass(ud, "hidden");
+			});
+			
+			dojo.connect(dojo.byId("underlay"), "onclick", function(evt) {
+				var ud = dojo.byId("underlay");
+				dojo.addClass(ud, "hidden");
+				var nd = dojo.byId("loginMenu");
+				dojo.addClass(nd, "hidden");
+			});
+		}
+		
 	</script>
 	<script type="text/javascript" src="/js/validateContactForm.js"></script>
 
 
 
 
-
-	
+<div id="underlay" class="hidden"></div>	
 
 		</body></html>
