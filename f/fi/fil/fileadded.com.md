@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileadded.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618082822id_/http%3A//www.fileadded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileadded.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092428id_/http%3A//fileadded.com/privacy.php) for the most accurate reproduction.*
 
 # Free Unlimited File Hosting Service | Privacy Policy
 
