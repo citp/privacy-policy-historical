@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dtextmaker.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608032626id_/http%3A//www.greetingspring.com/index.php%3Ftarget%3Dpage%26id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dtextmaker.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082845id_/http%3A//www.greetingspring.com/index.php%3Ftarget%3Dpage%26id%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Free Animated Ecards, Funny Online Greetings, and Printable Cards
 
@@ -63,8 +63,6 @@ By using GreetingSpring, you consent to the collection and use of information by
 Please send any questions about GreetingSpring's Privacy Policy to: [support@greetingspring.com](mailto:support@greetingspring.com)
 
 (Revised April 30, 2009)
-
-[](http://www.addthis.com/bookmark.php?v=250&pub=eclipsedi)
 
 © 2010 GreetingSpring.com - Fun Animated [Birthday Ecards](http://www.greetingspring.com/index.php?target=category&id=1) and so much more!  
 4416 S Technology Dr  
