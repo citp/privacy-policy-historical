@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-highlight.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102082412id_/http%3A//football-highlight.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-highlight.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122132700id_/http%3A//football-highlight.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
