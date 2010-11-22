@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411082638id_/http%3A//www.thesweetscience.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122083115id_/http%3A//www.thesweetscience.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement at The Sweet Science
 
