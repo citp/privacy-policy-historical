@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyofflineriches.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328092507id_/http%3A//www.easyofflineriches.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyofflineriches.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103905id_/http%3A//easyofflineriches.com/privacy.html) for the most accurate reproduction.*
 
 # Easy Offline Riches Make Easy Money In The Offline Niche
 
@@ -65,4 +65,4 @@ Worcester, MA 01604
 
 [ ](http://1.easyo.pay.clickbank.net/)
 
-[Home](https://web.archive.org/web/20100328092507id_/http%3A//www.easyofflineriches.com/eorcb.html)     [Privacy](https://web.archive.org/web/20100328092507id_/http%3A//www.easyofflineriches.com/privacy.html)     [Disclaimer](https://web.archive.org/web/20100328092507id_/http%3A//www.easyofflineriches.com/disclaimer.html)     [ Contact Us](mailto:sales@easyofflineriches.com?subject=Contact%20Us%20With%20Your%20Questions)
+[Home](https://web.archive.org/web/20101122103905id_/http%3A//easyofflineriches.com/eorcb.html)     [Privacy](https://web.archive.org/web/20101122103905id_/http%3A//easyofflineriches.com/privacy.html)     [Disclaimer](https://web.archive.org/web/20101122103905id_/http%3A//easyofflineriches.com/disclaimer.html)     [ Contact Us](mailto:sales@easyofflineriches.com?subject=Contact%20Us%20With%20Your%20Questions)
