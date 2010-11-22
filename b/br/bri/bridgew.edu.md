@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620073912id_/http%3A//www.bridgew.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081405id_/http%3A//www.bridgew.edu/privacy.cfm) for the most accurate reproduction.*
 
-# Web Privacy Statement : Bridgewater State College
+# Web Privacy Statement : Bridgewater State University
 
-Thank you for visiting Bridgewater State College's Web site. Because your privacy is very important to us, we want you to understand our privacy procedures. This privacy statement discloses the privacy practices for Bridgewater State College's web site [www.bridgew.edu](http://www.bridgew.edu/). 
+Thank you for visiting Bridgewater State University's Web site. Because your privacy is very important to us, we want you to understand our privacy procedures. This privacy statement discloses the privacy practices for Bridgewater State University's web site [www.bridgew.edu](http://www.bridgew.edu/). 
 
 ##  Information Collection and Use 
 
     
 
-Bridgewater State College collects information from our users at several different points on our web site. If you choose to share personal information with us - by sending us a message or filling out an electronic form with personal information - we will use the information only for the purpose authorized. Bridgewater State College is the sole owner of the information collected on this site and we will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
+Bridgewater State University collects information from our users at several different points on our web site. If you choose to share personal information with us - by sending us a message or filling out an electronic form with personal information - we will use the information only for the purpose authorized. Bridgewater State University is the sole owner of the information collected on this site and we will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
 ##  Log Files 
 
@@ -32,7 +32,7 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 
     
 
-This web site contains links to other sites. Please be aware that Bridgewater State College is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+This web site contains links to other sites. Please be aware that Bridgewater State University is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
 If you have any questions about our privacy procedures you can send an email to [webteam@bridgew.edu](mailto:webteam@bridgew.edu). 
 
