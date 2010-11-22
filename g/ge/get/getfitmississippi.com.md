@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfitmississippi.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110051056id_/http%3A//getfitmississippi.com/node/339) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfitmississippi.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122183047id_/http%3A//www.getfitmississippi.com/node/339) for the most accurate reproduction.*
 
 # Getfitmississippi.com Privacy Policy | Get Fit Mississippi.com
 
