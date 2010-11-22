@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesreunited.co.uk privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502214431id_/http%3A//www.genesreunited.co.uk/static/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesreunited.co.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122160316id_/http%3A//www.genesreunited.co.uk/static/privacy.aspx) for the most accurate reproduction.*
 
 # Genes Reunited – Family History Records and Family Trees
 
@@ -39,7 +39,7 @@ If you decide you no longer want to receive these newsletters – or if you aren
 
 In addition we use **Neilsen Netratings** , an independent measurement and research company. They use cookies and code on the site to gather **non-personal** data regarding the number and frequency of visitors to our site. Both the cookies and the embedded code provide **general site and not personal** statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site and other general information. Genes Reunited uses this type of information to help it improve the services to its members. Further information regarding Neilsen Netratings privacy statement can be found at [http://www.nielsen-netratings.com](http://www.nielsen-netratings.com/)
 
-Third party cookies including those from **DoubleClick** , **TheSearchWorks** and **Google** are used on some parts of the site. They are used for tracking the success of advertising campaigns. These cookies are normally permanent.
+Third party cookies including those from **DoubleClick** , **Tradedoubler** and **Google** are used on some parts of the site. They are used for tracking the success of advertising campaigns. These cookies are normally permanent.
 
   * The over-riding principles we apply are these:
 
@@ -67,13 +67,13 @@ We have security measures in place to protect our customer database and access t
 
 
 
-You may have your registration details removed at any time. To remove yourself please click [here](https://web.archive.org/genesreunited.asp?wci=unregister) and we will remove all Your Details. 
+You may have your registration details removed at any time. To remove yourself please click [here](https://web.archive.org/account.page/deleteaccount) and we will remove all your details. 
 
 We reserve the right to communicate such of a Member's personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure.
 
-We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Genes Reunited Terms and Conditions](https://web.archive.org/web/20100502214431id_/http%3A//www.genesreunited.co.uk/static/terms.aspx) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Genes Reunited Terms and Conditions](https://web.archive.org/web/20101122160316id_/http%3A//www.genesreunited.co.uk/static/terms.aspx) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
 
-If you have any questions about this Privacy Policy, the practices of the Genes Reunited Service, or your dealings with Genes Reunited, you can contact us [here](https://web.archive.org/web/20100502214431id_/http%3A//www.genesreunited.co.uk/static/support.aspx?subject=Privacy&email=support) . You can also use this address if you wish to request from Genes Reunited a copy of the personal data we hold about you or a description of that data. Please note that by law we are entitled to charge you a small sum for providing this information 
+If you have any questions about this Privacy Policy, the practices of the Genes Reunited Service, or your dealings with Genes Reunited, you can contact us [here](https://web.archive.org/web/20101122160316id_/http%3A//www.genesreunited.co.uk/static/support.aspx?subject=Privacy&email=support) . You can also use this address if you wish to request from Genes Reunited a copy of the personal data we hold about you or a description of that data. Please note that by law we are entitled to charge you a small sum for providing this information 
 
 The Genes Reunited Service contains links to other sites. Genes Reunited is not responsible for the privacy practices, or the content, of those web sites 
 
