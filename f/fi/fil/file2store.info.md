@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the file2store.info privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604030540id_/http%3A//file2store.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file2store.info privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122093801id_/http%3A//file2store.info/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 The privacy of our visitors to file2store.info is important to us. 
 
