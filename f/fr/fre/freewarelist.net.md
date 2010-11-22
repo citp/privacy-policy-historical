@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarelist.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611223024id_/http%3A//freewarelist.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarelist.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122221129id_/http%3A//freewarelist.net/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
