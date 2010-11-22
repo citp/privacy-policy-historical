@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatmyprice.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317104332id_/http%3A//www.beatmyprice.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatmyprice.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094625id_/http%3A//beatmyprice.com/static/privacy) for the most accurate reproduction.*
 
 # People Powered Price Comparison » BeatMyPrice.com
 
