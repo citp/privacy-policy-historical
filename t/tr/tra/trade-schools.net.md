@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade-schools.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211043id_/http%3A//www.trade-schools.net/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-schools.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122190801id_/http%3A//www.trade-schools.net/privacy-policy.asp) for the most accurate reproduction.*
 
 # Trade-Schools.net - Privacy Policy
 
@@ -44,7 +44,7 @@ Additional information regarding AdSense ads which are displayed on certain page
 ---|---|---  
 | 
 
-|  |    
+|  |     
 ---|---  
   
   
