@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507143612id_/http%3A//www.earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122010118id_/http%3A//www.earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# EarningsWhispers.com Privacy Policy
+# Earnings Whispers : Template Page
 
 EarningsWhispers.com's biggest asset is its registered members and, therefore, it is extremely important for us to maintain your trust. So please be assured that we will never compromise the personal information you provide us. This policy statement tells you how we collect information from you and how we use it.
 
@@ -54,4 +54,4 @@ Special Offers will be fulfilled by the company making the Special Offer. Earnin
 
 By using this site, you signify your assent to the EarningsWhispers.com Privacy Policy. If you do not agree to this policy, please do not use our community of sites. Your continued use of the EarningsWhispers.com community following the posting of changes to these terms will mean you accept those changes.
 
-Last updated 9/15/05
+Last updated 5/15/10
