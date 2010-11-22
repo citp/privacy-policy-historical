@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105231110id_/http%3A//www.funphotobox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122192102id_/http%3A//funphotobox.com/privacy.aspx) for the most accurate reproduction.*
 
-# FunPhotoBox - Best Photo Effects and Gif Animations. Photo Fun online. Create funny pictures.
+# FunPhotoBox - Best Photo Effects and Gif Animations. Photo Fun Online. Create funny pictures.
 
 FunPhotoBox.com ("us", "we", "our") has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following outlines our information gathering and dissemination practices for this site (the "Site"): 
 
