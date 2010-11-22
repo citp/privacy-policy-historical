@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuead.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103001022id_/http%3A//www.valuead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuead.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092040id_/http%3A//www.valuead.com/privacy.html) for the most accurate reproduction.*
 
 # ValueAd.com - Online Marketing Experts
 
@@ -12,13 +12,11 @@ Technology |
   |    
 Success story |   | 
 
-The Gator Corporation needed a high-quality online media delivery technology and chose ValueAd for its outstanding, customized solutions. 
-
-"AdXpress is easy to use, and ValueAd's customization has helped us tremendously," said Mitchell Weisman, senior vice president, finance and business development.   
+Axxess  
   
 ---|---  
   
-[Learn more](http://www.valuead.com/news/2002/111802.html)  
+[Learn more](http://www.valuead.com/news/2002/111102.html)  
 | 
 
   * Privacy Policy
