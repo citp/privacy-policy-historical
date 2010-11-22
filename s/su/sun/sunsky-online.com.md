@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsky-online.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513205512id_/http%3A//www.sunsky-online.com/base/doc%21view.do%3Fcode%3DprivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsky-online.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122083412id_/http%3A//www.sunsky-online.com/base/doc%21view.do%3Fcode%3DprivacyNotice) for the most accurate reproduction.*
 
 # Sunsky - Privacy notice
 
