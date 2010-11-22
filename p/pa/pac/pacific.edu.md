@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527091657id_/http%3A//www.pacific.edu/x24673.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105543id_/http%3A//www.pacific.edu/x24673.xml) for the most accurate reproduction.*
 
 # Master Privacy Statement - University of the Pacific
 
