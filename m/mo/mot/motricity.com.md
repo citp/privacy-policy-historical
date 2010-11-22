@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526142330id_/http%3A//www.motricity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082833id_/http%3A//motricity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
