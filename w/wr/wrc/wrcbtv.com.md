@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrcbtv.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626042424id_/http%3A//www.wrcbtv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrcbtv.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122151448id_/http%3A//www.wrcbtv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WRCBtv.com | Chattanooga News, Weather & Sports
 
