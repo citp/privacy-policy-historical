@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the envylabs.com privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629090138id_/http%3A//envylabs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the envylabs.com privacy policy that was archived on 2010-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122080244id_/http%3A//envylabs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <title>Envy Labs</title>
+    <title> « Envy Labs</title>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="2WsxsCAmYlrb9dDpkvBD1rNx+RUQpDv2s/I3tkKpViM=">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="description" content="Envy Labs is a technology consulting company, specializing in web application development and media production services.">
+    <meta name="description" content="">
     <meta name="keywords" content="envy, labs, development, media, podcast, video, website, web site, orlando">
     <meta name="verify-v1" content="yJieG1aMNY0QRtF++EHxoiNEs5rFbNvaL1BxupoK4zA=">
     <link href="http://blog.envylabs.com/feed/" rel="alternate" title="Envy Labs Blog Feed" type="application/rss+xml">
 
-    <script src="/javascripts/all.js?1260155289" type="text/javascript"></script>
-    <link href="/stylesheets/all.css?1260155302" media="screen" rel="stylesheet" type="text/css">
-    <!--[if IE 6]><link href="/stylesheets/ie6.css?1260155294" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+    <script src="/javascripts/all.js?1286888045" type="text/javascript"></script>
+    <link href="/stylesheets/all.css?1286888045" media="screen" rel="stylesheet" type="text/css">
+    <!--[if IE 6]><link href="/stylesheets/ie6.css?1286888045" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
   </head>
 
   <body class="main-controller main-privacy">
@@ -29,7 +31,7 @@
           <h1><a href="/">Envy Labs</a></h1>
           <p><em>Internet Awesome</em></p>
         </div>
-        <div class="about ">
+        <div class="about " id="">
           
         </div>
         <br class="clear">
@@ -78,38 +80,51 @@
 				<div class="latestProjects">
 					<h3 class="txt" id="txtCommProjects">Community Projects</h3>
 					<ul>
-						<li><a href="http://github.com/nbibler/devpay" class="external">Amazon DevPay</a></li>
-						<li><a href="http://simplepay.rubyforge.org/" class="external">Amazon Simple Pay</a></li>
+						<li><a href="http://github.com/envylabs/BlueLightSpecial" class="external">Blue Light Special</a></li>
 						<li><a href="http://github.com/envylabs/census" class="external">Census</a></li>
 						<li><a href="http://github.com/envylabs/keymaster" class="external">Keymaster</a></li>
-						<li><a href="http://github.com/nbibler/page_glimpse" class="external">Page Glimpse</a></li>
-						<li><a href="http://github.com/tylerhunt/relax" class="external">Relax</a></li>
-						<li><a href="http://github.com/tylerhunt/relief" class="external">Relief</a></li>
-						<li><a href="http://github.com/tylerhunt/remit" class="external">Remit</a></li>
-						<li><a href="http://site-explorer.rubyforge.org/" class="external">Yahoo Site Explorer</a></li>
+						<li><a href="http://github.com/envylabs/vaulted_billing" class="external">vaulted_billing</a></li>
 					</ul>
 				</div>
 				<div class="recentTweets">
 					<h3 class="txt" id="txtRecentTweets">Recent Tweets</h3>
-					<div id="twitterDown">
-					 <ul><li><a href="http://twitter.com/" class="external">Twitter</a> appears to be down right now.</li></ul>
-					</div>
+          <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+          <script>
+            new TWTR.Widget({
+              version: 2,
+              type: 'list',
+              rpp: 15,
+              interval: 5000,
+              title: '',
+              subject: '',
+              width: 290,
+              height: 600,
+              theme: {
+                shell: {
+                  background: '#6cc0df',
+                  color: '#001e2b'
+                },
+                tweets: {
+                  background: '#6cc0df',
+                  color: '#262626',
+                  links: '#00384c'
+                }
+              },
+              features: {
+                scrollbar: false,
+                loop: false,
+                live: true,
+                hashtags: true,
+                timestamp: true,
+                avatars: true,
+                behavior: 'all'
+              }
+            }).render().setList('envylabs', 'staff').start();
+          </script>
 				</div>
-				
-				<script type="text/javascript">
-//<![CDATA[
-
-				  $(document).ready(function(){
-				    Twitter.screen_names = new Array("greggpollack","nbibler","tylerhunt","thomasmeeks","jswanner","markkendall","caike","allison_house");
-				    Twitter.load();
-				  })
-				
-//]]>
-</script>
-				
-			</div>                 
+			</div>
 			<br class="clear">
-		</div>          
+		</div>
 	</div>
 </div>
 
@@ -117,6 +132,10 @@
 
     </div>
 
+    <hr>
+    <div id="subSection">
+      
+    </div>
 
     <hr>
 
@@ -125,10 +144,10 @@
 
         <div id="teamMember">
           <h3 class="txt" id="txtSpotlight">Mad Scientist Spotlight</h3>
-          <p class="img"><img alt="Allison House" height="130" src="/system/avatars/8/small/allison.jpg" width="120"></p>
+          <p class="img"><img alt="Caike Souza" height="130" src="/system/avatars/7/small/caike.jpg?1267632679" width="120"></p>
           <div class="bio">
-            <h4>Allison House</h4>
-            <p>Allison is a web designer who creates intuitive, top-quality websites that cater to user experience...</p>
+            <h4>Caike Souza</h4>
+            <p>Caike is passionate about agile development, software craftsmanship, and rocking out on his Guitar...</p>
             <a href="/team" class="more">Learn more about our team »</a>
           </div>
           <br class="clear">
@@ -137,12 +156,11 @@
         <script type="text/javascript">
 //<![CDATA[
 
-          FeaturedMember.members = [{"team_member":{"name":"Caike Souza","truncated_bio":"Caike is passionate about agile development, software craftsmanship, and rocking out on his Guitar...","avatar_url":"/system/avatars/7/small/caike.jpg"}},{"team_member":{"name":"Allison House","truncated_bio":"Allison is a web designer who creates intuitive, top-quality websites that cater to user experience...","avatar_url":"/system/avatars/8/small/allison.jpg"}},{"team_member":{"name":"Jacob Swanner","truncated_bio":"Jacob was previously trapped as a ...","avatar_url":"/system/avatars/5/small/jacob.jpg"}},{"team_member":{"name":"Mark Kendall","truncated_bio":"Mark lives at the intersection where beautiful code meets elegant design...","avatar_url":"/system/avatars/6/small/mark.jpg"}},{"team_member":{"name":"Nathaniel Bibler","truncated_bio":"Nate is a software developer who likes to focus on large, multi-part systems and APIs...","avatar_url":"/system/avatars/2/small/nate.jpg?1249428509"}},{"team_member":{"name":"Tyler Hunt","truncated_bio":"Tyler is a veteran web developer with a penchant for the Ruby language and frameworks including Ruby on Rails and Merb...","avatar_url":"/system/avatars/3/small/tyler.jpg?1249428525"}},{"team_member":{"name":"Thomas Meeks","truncated_bio":"Thomas loves to code, especially when he gets to dive into the deep technical details...","avatar_url":"/system/avatars/4/small/thomas.jpg?1249428536"}},{"team_member":{"name":"Gregg Pollack","truncated_bio":"Gregg is a Hollywood director trapped in the body of a software developer...","avatar_url":"/system/avatars/1/small/gregg.jpg?1249428495"}}]
+          FeaturedMember.members = [{&quot;team_member&quot;:{&quot;name&quot;:&quot;Caike Souza&quot;,&quot;truncated_bio&quot;:&quot;Caike is passionate about agile development, software craftsmanship, and rocking out on his Guitar...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/7/small/caike.jpg&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Jacob Swanner&quot;,&quot;truncated_bio&quot;:&quot;Jacob was previously trapped as a ...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/5/small/jacob.jpg&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Mark Kendall&quot;,&quot;truncated_bio&quot;:&quot;Mark lives at the intersection where beautiful code meets elegant design...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/6/small/mark.jpg&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Eric Allam&quot;,&quot;truncated_bio&quot;:&quot;Eric is a Ruby developer but can sometimes get distracted by shiny things, like node...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/9/small/eric_large.jpg?1278210735&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Nathaniel Bibler&quot;,&quot;truncated_bio&quot;:&quot;Nate is a software developer who likes to focus on large, multi-part systems and APIs...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/2/small/nate.jpg?1249428509&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Tyler Hunt&quot;,&quot;truncated_bio&quot;:&quot;Tyler is a veteran web developer with a penchant for the Ruby language and frameworks including Ruby on Rails and Merb...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/3/small/tyler.jpg?1249428525&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Thomas Meeks&quot;,&quot;truncated_bio&quot;:&quot;Thomas loves to code, especially when he gets to dive into the deep technical details...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/4/small/thomas.jpg?1249428536&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Gregg Pollack&quot;,&quot;truncated_bio&quot;:&quot;Gregg is a Hollywood director trapped in the body of a software developer...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/1/small/gregg.jpg?1249428495&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Violette Calhoun&quot;,&quot;truncated_bio&quot;:&quot;You say \&quot;ActiveRecord plugin\&quot;, Violette says \&quot;improved database design\&quot;...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/10/small/violette_large.jpg?1278210891&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Andrew Smith&quot;,&quot;truncated_bio&quot;:&quot;A recent graduate from Full Sail University, Andrew is the youngest developer in the office, but don't let that fool you...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/11/small/andrew_large.jpg?1278211301&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Jennifer Athey&quot;,&quot;truncated_bio&quot;:&quot;Jennifer pulls people, resources, and information together in creative ways to get the job done and keep our clients happy! She's not just a project manager, but a jack of all trades, and uses her experience to help our company grow...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/13/small/Jennifer160.jpg?1283989219&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Christopher Green&quot;,&quot;truncated_bio&quot;:&quot;Chris has seen it all, from Access 97 to Visual Basic 6 to PHP...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/14/small/Chris160.jpg?1283989748&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Nick Walsh&quot;,&quot;truncated_bio&quot;:&quot;Nick is a Rails convert-in-training and WordPress aficionado...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/16/small/Nick160.jpg?1283990002&quot;}},{&quot;team_member&quot;:{&quot;name&quot;:&quot;Jason VanLue&quot;,&quot;truncated_bio&quot;:&quot;As our resident design lead, Jason works to match Envy's indomitable level of code with great design...&quot;,&quot;avatar_url&quot;:&quot;/system/avatars/15/small/Jason160.jpg?1283989886&quot;}}]
           FeaturedMember.renderRandom();
-        
+
 //]]>
 </script>
-
         <div id="contact">
           <h3 class="txt" id="txtContactFoot">Contact Us</h3>
           <ul>
@@ -152,11 +170,11 @@
           </ul>
           <br>
           <p>
-          <a href="http://www.engineyard.com/partners"><img src="http://assets.engineyard.com/images/ey_partner_associate.png" alt="Engine Yard"></a>
+          <a href="http://www.engineyard.com/partners"><img src="http://assets.engineyard.com/images/ey_partner_select.png" width="156" height="46" alt="Engine Yard Select Partner"></a>
           </p>
         </div>
         <div id="copyright">
-          <p>© 2009 Envy Labs</p>
+          <p>© 2010 Envy Labs</p>
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/development">Development</a></li>
@@ -170,7 +188,7 @@
         <br class="clear">
         
         <p id="hosting">
-          <a href="http://www.webbynode.com/" class="external">Brilliantly hosted by <img alt="Webbynode" height="28" src="/images/webbynode.png?1260155175" width="115"></a>
+          <a href="http://www.webbynode.com/" class="external">Brilliantly hosted by <img alt="Webbynode" height="28" src="/images/webbynode.png?1286888045" width="115"></a>
         </p>
         
       </div>
