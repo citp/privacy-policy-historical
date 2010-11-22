@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyplace.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191836id_/http%3A//www.funnyplace.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyplace.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122141735id_/http%3A//funnyplace.org/privacy.html) for the most accurate reproduction.*
 
 # Funny videos - Viral videos - TV commercials - Cool Video Clips
 
