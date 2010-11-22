@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fyretv.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111025516id_/http%3A//www.fyretv.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyretv.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122224743id_/http%3A//www.fyretv.com/site/privacy) for the most accurate reproduction.*
 
 # FyreTV.com - Privacy Policy
 
