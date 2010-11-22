@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derok.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611225457id_/http%3A//www.derok.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derok.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122024757id_/http%3A//www.derok.net/privacy-policy) for the most accurate reproduction.*
 
 # DeROK.Net Privacy Policy
 
@@ -26,22 +26,16 @@ If you have any questions or concerns about our privacy policy, please contact *
   
 [ Back ] 
 
-### DeROK's Top Picks  
-  
----  
+### DeROK's Top Picks
+
 | [](http://www.derok.net/derok/u2.html)| 
 
 Find some "Elevation" in these lyrics from the world's biggest band.   
   
 ---|---  
-| [](http://www.derok.net/derek3/elijahwood.html)| 
+| [](http://www.derok.net/emulation0/nes.html)| 
 
-Five reasons why I have extreme dislike for Elijah Wood.   
-  
----|---  
-| [](http://www.derok.net/coldplay/)| 
-
-_The complete collection of Coldplay lyrics from "A" to "X &Y"._  
+A collection of NES games available for download.   
   
 ---|---  
   
