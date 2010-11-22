@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418021508id_/http%3A//www.salemnews.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094254id_/http%3A//www.salemnews.com/privacy) for the most accurate reproduction.*
 
-# Home - SalemNews.com, Salem, MA
+# Inside index
 
 ## Effective
 
@@ -45,3 +45,7 @@ Company makes some public chat rooms, forums, message boards, and news groups av
 ## Security
 
 We have policies and procedures in place to protect the privacy and confidentiality of your Personal Information that we collect and maintain. All Personal Information is stored on our secured servers, behind a firewall at a data center with access to data strictly controlled. We use Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. Any unauthorized use of the Site may result in criminal and/or civil prosecution.
+
+## AP News Registry
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx for further information.
