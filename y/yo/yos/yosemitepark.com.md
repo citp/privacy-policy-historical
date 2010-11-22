@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110220619id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105954id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -32,7 +32,7 @@ DNC Parks & Resorts at Yosemite, Inc. ("Yosemite") values the privacy of its us
 
 13. Information collected through the Website is considered a trade secret of Yosemite.  As the owner of such information, Yosemite may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of the company or a portion of its assets.
 
-14.  <http://www.yosemitepark.com/> allows you to update and revise your personal information at any time.  To modify your personally identifiable information, for the email specials, please go to the "Email Updates" function on our Website and update your profile.  If you have utilized features on our Website such as online reservations, "Contact Us", "Request for Proposal", "Testimonials", or “Send [a Web page] to a Friend" please call Delaware North Companies Parks & Resorts at Yosemite at (801) 559-4884 to modify your information. You may also contact us by emailing the [Webmaster](mailto:jhodgson@dncinc.com) or at: 
+14.  <http://www.yosemitepark.com/> allows you to update and revise your personal information at any time.  To modify your personally identifiable information, for the email specials, please go to the "Email Updates" function on our Website and update your profile.  If you have utilized features on our Website such as online reservations, "Contact Us", "Request for Proposal", "Testimonials", or “Send [a Web page] to a Friend" please call Delaware North Companies Parks & Resorts at Yosemite at (801) 559-4884 to modify your information. You may also contact us by emailing the [Webmaster](mailto:tho@dncinc.com "Click here for the webmaster") or at: 
 
 > > **DNC Parks & Resorts at Yosemite, Inc.  
 > P.O. Box 89  
