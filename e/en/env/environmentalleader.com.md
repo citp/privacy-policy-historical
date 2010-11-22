@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329081958id_/http%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092716id_/http%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
 
-# Privacy · Environmental Leader · Green Business, Sustainable Business, and Green Strategy News for Corporate Sustainability Executives
+# Privacy · Environmental Management & Energy News · Environmental Leader
 
 ## Privacy
 
@@ -33,6 +33,6 @@ Environmental Leader
 123 N. College Ave.  
 Suite 200  
 Fort Collins, CO 80524  
-970.215.1996
+970.235.1096
 
 info (at) environmentalleader.com
