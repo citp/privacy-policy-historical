@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phishtank.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131132143id_/http%3A//www.phishtank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phishtank.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122161640id_/http%3A//www.phishtank.com/privacy.php) for the most accurate reproduction.*
 
 # PhishTank > Privacy Policy
 
@@ -44,11 +44,11 @@ A cookie is a string of information that a website stores on a visitor's compute
 
 ### Privacy Policy Changes
 
-PhishTank may change its Privacy Policy from time to time, and in PhishTank's sole discretion. PhishTank encourages visitors to frequently check this page for any changes to its Privacy Policy. If changes are made, notice will be given in the PhishTank blog at <http://www.phishtank.com/blog/>. Your continued use of our sites and services after any change in this Privacy Policy will constitute your acceptance of such change.
+PhishTank may change its Privacy Policy from time to time, and in PhishTank's sole discretion. PhishTank encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of our sites and services after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ### Questions
 
-Full contact information, including location, may be found on our [Contact page](https://web.archive.org/web/20100131132143id_/http%3A//www.phishtank.com/contact.php).
+Full contact information, including location, may be found on our [Contact page](https://web.archive.org/web/20101122161640id_/http%3A//www.phishtank.com/contact.php).
 
 ### Creative Commons
 
