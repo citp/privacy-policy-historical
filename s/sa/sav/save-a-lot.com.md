@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the save-a-lot.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411020013id_/http%3A//save-a-lot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save-a-lot.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123234005id_/http%3A//save-a-lot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Save-A-Lot.com
+# Privacy Policy | Save-A-Lot
 
 **PURPOSE**  
 We respect your privacy and are committed to safeguarding your personally identifiable information or “personal information” from unauthorized use or disclosure. This policy describes how your personal information may be collected when you visit our website, shop at our stores, use our products or access our services, enroll in our Smart Shopper Card program, or otherwise interact with us. It also describes how your personal information is used or disclosed, and the steps we take to protect it from unauthorized use or disclosure. For special offers, promotions, contests, or specific services, such as those provided by our pharmacies, we might advise you that additional or different personal information practices or terms exist. You should refer to those terms or practices as well.
@@ -76,7 +76,7 @@ If you have any questions, comments or concerns about this Privacy Policy, or pr
 
 Email Address: [privacypolicy@supervalu.com](mailto:privacypolicy@supervalu.com)
 
-Telephone No.: 1-877-932-7948
+Telephone No.: 1-888-725-4537
 
 Mailing Address:
 
