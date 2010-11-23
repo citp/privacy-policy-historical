@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketxtra.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522212824id_/http%3A//cricketxtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketxtra.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123085514id_/http%3A//cricketxtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy « Cricket Xtra
 
@@ -35,8 +35,11 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
+  
+
+
 ### This post was written by:
 
-**[Jayant](http://cricketxtra.com/author/Jayant/ "Posts by Jayant") **who has written **909** posts on [Cricket Xtra](http://cricketxtra.com/).
+**[Jayant](http://cricketxtra.com/author/Jayant/ "Posts by Jayant") **who has written **1055** posts on [Cricket Xtra](http://cricketxtra.com/).
 
-He is A fun loving guy with a deep passion for Cricket. Love to put his views forward and discus with people
+He is A fun loving guy with a deep passion for Cricket. Loves to put his views forward and discuss with people
