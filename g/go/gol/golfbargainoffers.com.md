@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the golfbargainoffers.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524201238id_/http%3A//www.golfbargainoffers.com/article-23-Privacy%2BNotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfbargainoffers.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123030419id_/http%3A//www.golfbargainoffers.com/article-23-Privacy%2BNotice.html) for the most accurate reproduction.*
 
-# Privacy Notice_Service Center_Help_System category_Discount Golf Clubs - Golf Equipment Supplier
-
-### Privacy Notice
-
-GolfBargainOffers.com / 09/13
+# Privacy Notice
 
 This Privacy Notice describes how we treat personal information when you buy and enjoy GolfBargainOffers' products and services, including information provided since you register at our site.  
 
