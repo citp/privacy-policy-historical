@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the businesslistingnow.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605203028id_/http%3A//businesslistingnow.com/site_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslistingnow.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123023822id_/http%3A//www.businesslistingnow.com/site_privacy.php) for the most accurate reproduction.*
 
-# BusinessListingNow
+# Resources - Business in Australia - Business Directory listings
 
 **Introduction**
 
-BusinessListingNow, operates [www.businesslistingnow.com](http://www.businesslistingnow.com/). This document outlines the privacy policy which applies to [www.businesslistingnow.com](http://www.businesslistingnow.com/).We may make changes to this policy from time to time. Should we do so, we will update the policy on our web site. We require that all our customers agree to abide by our Privacy policy as part of our terms of trade. This policy also applies to users of our web site who are not customers of [www.businesslistingnow.com](http://www.businesslistingnow.com/).We cannot and do not assume any responsibility for the privacy or security practices of any other web sites which you may be able to access through our site, or for our customers' level of compliance with our code.
+Business Listing Now, operates [www.businesslistingnow.com](http://www.businesslistingnow.com/). This document outlines the privacy policy which applies to [www.businesslistingnow.com](http://www.businesslistingnow.com/).We may make changes to this policy from time to time. Should we do so, we will update the policy on our web site. We require that all our customers agree to abide by our Privacy policy as part of our terms of trade. This policy also applies to users of our web site who are not customers of [www.businesslistingnow.com](http://www.businesslistingnow.com/).We cannot and do not assume any responsibility for the privacy or security practices of any other web sites which you may be able to access through our site, or for our customers' level of compliance with our code.
 
 **What information do we collect?  
 Information we require to supply our services.**
@@ -21,7 +21,7 @@ Credit card details are only used when placing an order, and are securely manage
 
 **Security**
 
-BusinessListingNow strives to ensure the security, integrity and privacy of personal information submitted to our site, and periodically updates its security measures in light of current technologies.BusinessListingNow is committed to the privacy and security of our clients. We will never disclose your personal details to a third party except the necessary information required by providers of products or services you have purchased. 
+Business Listing Now strives to ensure the security, integrity and privacy of personal information submitted to our site, and periodically updates its security measures in light of current technologies.Business Listing Now is committed to the privacy and security of our clients. We will never disclose your personal details to a third party except the necessary information required by providers of products or services you have purchased. 
 
 **How do we use information collected?**
 
@@ -29,4 +29,4 @@ When you create an account with [www.businesslistingnow.com](http://www.business
 
 **Complaints**
 
-If you have a complaint about any aspect of our Privacy procedures, please contact our Privacy Officer on [privacy@businesslistingnow.com](mailto:privacy@businesslistingnow.com). We will deal promptly with your complaint. If we cannot resolve the complaint to your satisfaction within a reasonable time, you or we may refer the complaint to the Privacy Commissioner.
+If you have a complaint about any aspect of our Privacy procedures, please contact our Privacy Officer on [info@businesslistingnow.com](mailto:info@businesslistingnow.com). We will deal promptly with your complaint. If we cannot resolve the complaint to your satisfaction within a reasonable time, you or we may refer the complaint to the Privacy Commissioner.
