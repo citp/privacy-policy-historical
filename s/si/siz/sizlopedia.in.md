@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sizlopedia.in privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622011421id_/http%3A//sizlopedia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sizlopedia.in privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123204955id_/http%3A//sizlopedia.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Sizlopedia
 
@@ -8,7 +8,7 @@
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of sizlopedia.
 
-We have a strict no spam policy and do not send you any emails, unless you subscribe to receive email updates.
+We have a strict no spam policy and do not send you any emails, unless you [subscribe](http://sizlopedia.in/subscribe/ "subscribe") to receive email updates.
 
 ### Credit card details
 
@@ -16,7 +16,7 @@ sizlopedia will never ask for Credit Card details and request that you **_Do Not
 
 ### External Sites
 
-sizlopedia is not responsible for the content of external Internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+sizlopedia is not responsible for the content of external Internet sites. You are advised to read the [privacy](http://sizlopedia.in/privacy-policy/ "privacy") policy of external sites before disclosing any personal information.
 
 ### Cookies
 
@@ -42,6 +42,6 @@ sizlopedia allows users to comment on the site. However we hold all rights to ac
 
 While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to sizlopedia and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through sizlopedia have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
 
-Please contact those vendors and others directly if you have any questions about their privacy policies.
+Please [contact](http://sizlopedia.in/contact/ "contact") those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information please contact us.
