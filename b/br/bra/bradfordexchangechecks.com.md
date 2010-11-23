@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradfordexchangechecks.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620202510id_/http%3A//www.bradfordexchangechecks.com/bec/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchangechecks.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123174932id_/http%3A//www.bradfordexchangechecks.com/bec/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Bradford Exchange Checks Privacy Policy
 
@@ -58,8 +58,6 @@ Bradford Exchange Checks is part of a network of companies who specialize in var
 
   * Hamilton Authenticated
 
-  * Collectibles Today
-
 
 
 
@@ -77,7 +75,7 @@ Our business referral program is provided by an outside company. If you choose t
 
 Children:
 
-bradfordexchangechecks.com is a shopping site for mature collectors. We do not knowingly solicit data from, or market to, children under age 13.
+bradfordexchangechecks.com is a shopping site for mature collectors. We do not knowingly solicit data from, or market to, children under age 18.
 
 Customer Information Transfer:
 
