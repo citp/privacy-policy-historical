@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanrewriter.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523203510id_/http%3A//www.humanrewriter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrewriter.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123135428id_/https%3A//www.humanrewriter.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Human Rewriter - People Powered Article Rewriting, Writing, Submissions, and Spinning
 
