@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikinihome.net privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105451id_/http%3A//www.bikinihome.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikinihome.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123171557id_/http%3A//www.bikinihome.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BikiniHome
 
