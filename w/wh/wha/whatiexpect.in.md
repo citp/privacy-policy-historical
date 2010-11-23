@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002023815id_/http%3A//whatiexpect.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123023218id_/http%3A//whatiexpect.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Whatiexpect.in
 
@@ -12,7 +12,7 @@ Last Revised on: September 10, 2009
 Whatiexpect.in is an Entertainment News Views Portal , owned and managed by Whatiexpect.in. Visitors are allowed to Comment and read the content available on whatiexpect.in .   
 
 
-Whatiexpect.in respects the privacy of its Visitors and is committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at [admin@whatiexpect.in.](mailto:admin@whatiexpect.in.)
+Whatiexpect.in respects the privacy of its Visitors and is committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at admin@whatiexpect.in.
 
 The present privacy policy governs the online information collection practices of Whatiexpect.in ("we" or "us" or "Whatiexpect.in"). Specifically, it outlines the types of information that we gather about you from your use of the Whatiexpect.in website (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to Whatiexpect.in regarding age verification shall be truthful, accurate, and complete. 
 
@@ -101,5 +101,5 @@ We are committed to resolving disputes as soon as feasible and shall endeavor to
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:   
 
 
-E-mail: [admin@whatiexpect.in](mailto:admin@whatiexpect.in)  
+E-mail: admin@whatiexpect.in  
 Website URL: http://whatiexpect.in 
