@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the simplefastloans.co.uk privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330005639id_/http%3A//www.simplefastloans.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplefastloans.co.uk privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123164701id_/http%3A//www.simplefastloans.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Log Book Loans Company – Privacy Policy
 
-1\. The site is operated by Log Book Loans Ltd, a company incorporated in the UK (registration number [ 03636230](http://wck2.companieshouse.gov.uk/cb113247ef9e38f2b8e715de9693f91a/companysearch?link=41)), the registered office of which is Bridge Studios, 34A Deodar Road , Putney, London , SW15 2NN . 
+Privacy Policy 
+
+1\. The site is operated by Log Book Loans Ltd, a company incorporated in the UK (registration number 03636230), the registered office of which is Bridge Studios, 34A Deodar Road , Putney, London , SW15 2NN.
 
 2\. When you enter a promotion or register on this site, you will be asked to provide certain information about yourself (such as your name, address and email address). Log Book Loans Ltd respects the privacy concerns of users of this web site and complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. This privacy statement sets out Log Book Loans Ltd policy in relation to how it uses any personal information collected from you through your use of this site. 
 
@@ -16,10 +18,7 @@
 
 7\. If any of your personal information changes or becomes out of date you shall amend your registration details on the site. Alternatively, or in the event that you have any queries regarding this privacy statement or Log Book Loans Ltd treatment of your personal information, please contact Log Book Loans Ltd by any method set out below at the following addresses and numbers: 
 
-Post: Log Book Loans Ltd, Bridge Studios, 34A Deodar Road , Putney, London , SW15 2NN . 
-
-Tel: 0844 871 6665 
-
-Fax: 0870 033 9987 
-
-Email: admin@logbookloans.co.uk 
+Post: Book Loans Ltd, Bridge Studios, 34A Deodar Road , Putney, London , SW15 2NN .  
+Tel: 0844 871 6665  
+Fax: 0870 033 9987  
+Email: admin@logbookloans.co.uk
