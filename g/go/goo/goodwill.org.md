@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the goodwill.org privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510011030id_/http%3A//www.goodwill.org/uncategorized/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodwill.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123035228id_/http%3A//www.goodwill.org/uncategorized/privacy-statement) for the most accurate reproduction.*
 
 # Goodwill Industries International, Inc. » Privacy Statement
 
 ## Privacy Statement
 
 September 3, 2009
-
-[](http://www.goodwill.org/uncategorized/privacy-statement/print/ "Print This Post") [Print This Post](http://www.goodwill.org/uncategorized/privacy-statement/print/ "Print This Post")
 
 **Our General Policy**  
 Goodwill Industries International (GII) recognizes the importance of protecting information we may collect from visitors to our site. Our policy is to use the information we acquire from visitors to our sites for internal purposes only, and we maintain appropriate security measures to keep this information private. Your browser, however, does automatically tell us the type of computer and operating system you are using.
