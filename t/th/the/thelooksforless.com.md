@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelooksforless.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517042537id_/http%3A//www.thelooksforless.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelooksforless.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123162726id_/http%3A//www.thelooksforless.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Looks For Less
 
