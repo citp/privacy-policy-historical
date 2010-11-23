@@ -1,21 +1,24 @@
-<!--The following is the downloaded HTML source of the dublinwebsummit.com privacy policy that was archived on 2010-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610003911id_/http%3A//www.dublinwebsummit.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dublinwebsummit.com privacy policy that was archived on 2010-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123052624id_/http%3A//www.dublinwebsummit.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 	<!--META-->
 <meta property="og:title" content="The Dublin Web Summit">
-<meta property="og:site_name" content="June 24th">
-<meta property="og:image" content="http://www.dublinwebsummit.com/images/uploads/Craig_1.jpg">
+<meta property="og:site_name" content="October 29th">
+<meta property="og:image" content="http://www.dublinwebsummit.com/images/uploads/Lego.jpg">
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<meta name="description" content="The Dublin Web Summit. 600 Attendees. 12 World Class speakers, including the founder of Bebo and Editor of TechCrunch Europe. You can see a selection of attendees on your website and a full list of speakers.">
+<meta name="description" content="The How To Summit, Oct 29th. 50 Speakers, 12 hours, 1 Great Event. Practical, Hands On, Valuable.">
+<meta name="author" content="Dublin Web Summit">
+
 
 
 	<!--CSS-->
 <link rel="stylesheet" type="text/css" media="all" href="http://www.dublinwebsummit.com/index.php?css=site/reset.v.1270487918">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.dublinwebsummit.com/index.php?css=site/text.v.1270487944">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.dublinwebsummit.com/index.php?css=site/960.v.1273637780">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.dublinwebsummit.com/index.php?css=site/screen.v.1275352266">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.dublinwebsummit.com/index.php?css=site/screen.v.1287548343">
 	<!--[if IE 5.5]>
  <link rel="stylesheet" type="text/css" media="all" href="http://www.dublinwebsummit.com/index.php?css=site/ie.v.1273637786" />
 <![endif]-->
@@ -29,11 +32,10 @@
 	<!--JS-->
 	
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
-	  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"></script>
-	  
-	  <script type="text/javascript" src="http://www.dublinwebsummit.com/js/instant.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="http://www.dublinwebsummit.com/js/jquery.jcarousel.min.js"></script>
+	
 	
 
 	<!--[if lt IE 7]>
@@ -42,11 +44,48 @@
 	
 <script type="text/javascript">
 
+function mycarousel_initCallback(carousel)
+{
+    // Disable autoscrolling if the user clicks the prev or next button.
+    carousel.buttonNext.bind('click', function() {carousel.startAuto(0);});
+
+    carousel.buttonPrev.bind('click', function() {carousel.startAuto(0);});
+
+    // Pause autoscrolling if the user moves with the cursor over the clip.
+    carousel.clip.hover(function() {carousel.stopAuto();}, function() {carousel.startAuto();});
+};
+
 jQuery(document).ready(function() {
-    jQuery('#logo_slider').jcarousel({
-    	wrap: 'circular'
+    jQuery('#logo-scroller').jcarousel({
+        auto: 2,
+        wrap: 'last',
+        initCallback: mycarousel_initCallback
     });
 });
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:10936,domain:"dublinwebsummit.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
 
 </script>
 
@@ -70,10 +109,10 @@ jQuery(document).ready(function() {
 	<div id="header">
 		<div class="container_16">
 			<div id="logo" class="grid_5">
-				<a href="http://www.dublinwebsummit.com"><img src="http://www.dublinwebsummit.com/images/logo.gif" title="Dublin Web Summit Series" alt="dublin web summit series"></a>
+				<a href="http://www.dublinwebsummit.com/"><img src="http://www.dublinwebsummit.com/images/logo.gif" title="Dublin Web Summit +How To" alt="dublin web summit series"></a>
 			</div>
 <ul id="social_links" class="grid_11">
-				<li>01 4429283</li>
+				<li>01 4429285</li>
 				<li>|</li>
 				<li> <a href="mailto:tickets@dublinwebsummit.com">Email</a></li>
 				<li>|</li>
@@ -91,22 +130,18 @@ jQuery(document).ready(function() {
 	<!--NAV-->
 	<div id="nav">
 		<div class="container_16">
-			<ul id="nav_items" class="grid_14">
+			<ul id="nav_items" class="grid_13">
 				<a href="http://www.dublinwebsummit.com/"><li>Home</li></a>
 				<a href="http://www.dublinwebsummit.com/events"><li>Why Attend</li></a>
 				<a href="http://www.dublinwebsummit.com/events/speakers"><li>Speakers</li></a>
-
-                <a href="http://www.dublinwebsummit.com/pages/sponsors"><li>Be a Partner?</li></a>
+                <a href="http://www.dublinwebsummit.com/pages/schedule"><li>Schedule</li></a>
                 <a href="http://www.dublinwebsummit.com/pages/attendees"><li>Attendees</li></a>
-				<!--<li>News</li>-->
-                             
-
-				<a href="http://www.dublinwebsummit.com/pages/about"><li>About</li></a>
-								                <a href="http://www.dublinwebsummit.com/pages/spark"><li class="spark">Spark of genius</li></a>
-
+              	<a href="http://www.dublinwebsummit.com/pages/about"><li>About</li></a>
+              <a href="http://www.dublinwebsummit.com/pages/video"><li>Video</li></a>
+				<a href="http://www.dublinwebsummit.com/pages/spark"><li>Spark</li></a>
 			</ul>
-			<ul id="contact" class="grid_2">
-				 <a href="mailto:tickets@dublinwebsummit.com"><li> CONTACT</li></a>
+			<ul id="contact" class="grid_3">
+				 <a class="book" href="http://www.dublinwebsummit.com/pages/book"><li>Book now</li></a>
 				
 			</ul>		
 		</div>
@@ -180,7 +215,7 @@ Your use of this site indicates acceptance of this privacy policy.</p>
 	<!--BOOKING-->
 
 <div class="container_16" id="sponsors_full_width">
-	<h5>Our wonderful partners</h5>
+	<h5>Previous partners</h5>
 		
 <div class="grid_3 prefix_2 alpha">
 <a href="http://www.kpmg.ie" target="_blank"><img src="http://www.dublinwebsummit.com/images/sp-1.jpg"></a>
@@ -199,7 +234,7 @@ Your use of this site indicates acceptance of this privacy policy.</p>
 
 
 <div class="grid_3 suffix_2 omega">
-<a href="http://www.edelman.ie" target="_blank"><img src="http://www.dublinwebsummit.com/images/sp-4.jpg"></a>
+<a href="http://www.edelman.ie" target="_blank"><img src="http://www.dublinwebsummit.com//realex.png"></a>
 </div>
 
 <div class="clear"></div>
@@ -296,7 +331,7 @@ Your use of this site indicates acceptance of this privacy policy.</p>
 				<img src="http://www.dublinwebsummit.com/images/logo_bw.gif" alt="Dubline Web Summit Series Logo">
 			</div>
 			<div id="footer_info">
-				<p><a href="http://www.dublinwebsummit.com/pages/privacy">PRIVACY POLICY</a> | <a href="http://www.dublinwebsummit.com/pages/cancelled">CANCELLATION POLICY</a> | site by <a href="mailto:gearoid@50rst.com">O’Rourke Design</a></p>
+				<p><a href="http://www.dublinwebsummit.com/pages/privacy">PRIVACY POLICY</a> | <a href="http://www.dublinwebsummit.com/pages/cancelled">CANCELLATION POLICY</a> | site by <a href="http://www.orourke-design.com" target="_blank" title="O'Rourke Design">O’Rourke Design</a></p>
 			</div>
 		</div>
 		<div class="clear"></div>
@@ -309,4 +344,4 @@ Your use of this site indicates acceptance of this privacy policy.</p>
 	
 
 
-	</body></html>
+	<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
