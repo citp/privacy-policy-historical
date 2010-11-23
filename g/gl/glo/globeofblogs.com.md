@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411021758id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123011221id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs
 
 ### Random Weblog
 
-[Dragyn Prattle](http://dragynwyrlld.blogspot.com/) ::: The only reason I did this was to be able to comment on things of interest and to just vent as well.  
+[Kalle Bergman Honest Food](http://www.kallebergman.com/) ::: A blog about Scandinavian food, from an "honest food" perspective. Real food. Real ingredients. Traditional recipes, but always with a modern twist.  
 
 
 ## Statement of Policy
