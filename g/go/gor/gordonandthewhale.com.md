@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gordonandthewhale.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514084512id_/http%3A//gordonandthewhale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordonandthewhale.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123074957id_/http%3A//gordonandthewhale.com/privacy) for the most accurate reproduction.*
 
 # Gordon and the Whale : Privacy Policy » GordonandtheWhale.com
 
