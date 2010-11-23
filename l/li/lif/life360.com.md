@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612232723id_/http%3A//www.life360.com/privacy_policy/loggedout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123213623id_/http%3A//www.life360.com/privacy_policy/loggedout) for the most accurate reproduction.*
 
 # Life360 : Privacy Policy
 
