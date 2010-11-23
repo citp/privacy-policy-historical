@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627174947id_/http%3A//jasperforge.org/displaypage.php%3Fact%3D4%26content%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123230929id_/http%3A//jasperforge.org/displaypage.php%3Fact%3D4%26content%3Dfooter) for the most accurate reproduction.*
 
 # JasperForge
 
@@ -80,11 +80,13 @@ San Francisco, CA 94107
   
 
 
-|   | |   
----  
-|   
----  
+|   | 
+
+FEATURED BLOG
+
+Yesterday, Jaspersoft announced JasperReports Server Professional Edition, our first commercial offering built precisely for those who require sophisticated reports, designed and developed professionally...  
+
+
+[](http://jasperforge.org/plugins/project/external_links.php?loc=front&band=OTc= "JasperReports Pro!")  
   
-Delivering deeper data analysis, in formats more consistent with end-user expectations, has been a passion at Jaspersoft for several years.  This passion will continue because making analytics,...[ MORE](https://web.archive.org/plugins/wpress/)>  
-  
-[](http://jasperforge.org/plugins/project/external_links.php?loc=front&band=MTAz "Learn More!")
+---|---|---
