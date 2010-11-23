@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523025803id_/http%3A//www.evoice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123035538id_/http%3A//www.evoice.com/privacy-policy.html) for the most accurate reproduction.*
 
 # eVoice Privacy Policy
 
