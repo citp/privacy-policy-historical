@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606020931id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123110130id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
@@ -99,13 +99,13 @@ You've the right to apply to the credit reference agencies for a copy of your cr
 
 We use Equifax plc, whilst other members of the Lloyds Banking Group also use Experian Limited. A third credit reference agency (Call Credit) has recently started up in the UK. Their addresses are as follows:
 
-**Equifax plc, PO Box 1140, Bradford, BD1 5US ([www.equifax.co.uk](http://www.equifax.co.uk/ "Link opens in a new window - www.equifax.co.uk"))**
+**Credit File Advice Centre, Equifax Limited, PO Box 1140, Bradford, BD1 5US Tel: 0844 335 0550 ([www.equifax.co.uk](http://www.equifax.co.uk/ "Link opens in a new window - www.equifax.co.uk"))**
 
-**Experian Ltd, Consumer Help Service, PO Box 8000 Nottingham, NG1 5GX ([www.experian.co.uk](http://www.experian.co.uk/ "Link opens in a new window - www.experian.co.uk"))**
+**Experian Credit Report Services, Experian Limited, PO Box 1135, Warrington, WA55 1EP Tel: 0844 481 8000 ([www.experian.co.uk](http://www.experian.co.uk/ "Link opens in a new window - www.experian.co.uk"))**
 
-**Call Credit plc, One Park Lane, Leeds, West Yorkshire, LS3 1EP ([www.callcredit.co.uk](http://www.callcredit.co.uk/ "Link opens in a new window - www.callcredit.co.uk"))**
+**Consumer Services Team, Call Credit Limited, PO Box 491, Leeds, LS3 1WZ Tel: 0870 060 1414 ([www.callcredit.co.uk](http://www.callcredit.co.uk/ "Link opens in a new window - www.callcredit.co.uk"))**
 
-If you've been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre. The Information Commissioner also produces a useful leaflet entitled 'No Credit?'. You can obtain a free copy on the Information Commissioner's website <http://www.ico.gov.uk/> or by telephoning **0870 600 8100 ²**. Comprehensive consumer help information can also be found on the agencies' websites. 
+If you've been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre. The Information Commissioner also produces a useful leaflet entitled 'Credit Explained'. You can obtain a free copy on the Information Commissioner's website <http://www.ico.gov.uk/> or by telephoning **0870 600 8100**. Comprehensive consumer help information can also be found on the agencies' websites. 
 
 When you apply to us for a credit based product, the details you provide, the information we already have and information from credit reference agencies are used to assess credit risk using a technique known as credit scoring. 
 
@@ -131,7 +131,7 @@ We and other organisations may access and use from other countries the informati
 
 If your relationship with us was 'introduced' by a third party, we will provide them with sufficient information about you to help with their accounting and administration. The introducer may, with your consent, use your details to contact you about his own products and services.
 
-As part of our product opening process, by law, we've to confirm your name and address. Some Acts of Parliament oblige us to disclose information about our customers to certain bodies with statutory powers. For example, if asked, we must give the information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the InIand Revenue has the statutory authority to audit our customers' accounts from time to time.
+As part of our product opening process, by law, we've to confirm your name and address. Some Acts of Parliament oblige us to disclose information about our customers to certain bodies with statutory powers. For example, if asked, we must give the information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the Inland Revenue has the statutory authority to audit our customers' accounts from time to time.
 
 If you email us, or give us your email address, we'll keep a record of it. We may use it to contact you occasionally about our products and services - unless you ask us not to do so. We'll not give your email address to any unauthorised third parties. When emailing us, always use the email facility on our website to make sure that the content of your email is secure. If you send us email in other ways, remember that it will be 'unsecure' and could be intercepted. If you do send us 'unsecure' email, please keep any confidential information in it to a minimum. We'll do the same when we reply.
 
@@ -144,7 +144,5 @@ The Data Protection Act defines information about the following as 'sensitive': 
 If you apply for insurance or life assurance through us, we may ask you for some 'sensitive' details. We'll only use this information to provide the service you require and we will ask for your explicit consent. 
 
 The Intelligent Finance website contains links to sites operated by persons outside the Lloyds Banking Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
-
-² Daytime calls Monday to Friday from BT landlines to 0870 numbers will cost no more than 6p a minute plus an 8p connection fee. The price of calls through other phone companies and from mobile phones will be different. The call price we have quoted was correct in March 2009.
 
 Back to top
