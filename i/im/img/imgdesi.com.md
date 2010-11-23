@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imgdesi.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418214319id_/http%3A//www.imgdesi.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgdesi.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123113916id_/http%3A//imgdesi.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Mallu,Desi,Sexy Girls & Aunty - Hot Pics Inside!! ~~ UPLOAD YOUR IMAGE FOR FREE
-
-**Warning** : Cannot modify header information - headers already sent by (output started at /home/content/p/i/r/piratesbi1/html/info.php:2) in **/home/content/p/i/r/piratesbi1/html/source/includes/data.php** on line **21**
 
 When you sign up for an account with MultiHoster, we collect personal information from you including your e-mail address, and a password. 
 
