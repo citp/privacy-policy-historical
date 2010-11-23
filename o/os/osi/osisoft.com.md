@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osisoft.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522110313id_/http%3A//www.osisoft.com/home/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osisoft.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123031821id_/http%3A//www.osisoft.com/home/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy discloses the general privacy practices for the OSIsoft web 
 
 While visiting any of the OSIsoft web sites (collectively, the “Site”), we may ask you to register and/or provide information that personally identifies you (“Personal Information”) for purposes of interacting with the Site. Such Personal Information may include, but is not limited to, your name, phone number, street address, and e-mail address. On any page that collects Personal Information, we will specifically describe what information is required in order to provide you with the product or service, enter you in the promotion you have requested, or respond to your inquiry or comment. 
 
-  **What are Cookies?** A cookie is a small data text file that a web site sends to your browser, which is then stored on your computer. The cookie is unique to the computer you are using and can only be read by the web site that placed the cookie on your computer. We cannot access cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, or by entering a sweepstakes or promotion.
+**What are Cookies?** A cookie is a small data text file that a web site sends to your browser, which is then stored on your computer. The cookie is unique to the computer you are using and can only be read by the web site that placed the cookie on your computer. We cannot access cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, or by entering a sweepstakes or promotion.
 
 We could use an advertising server developed by a third party to display ads on the Site. Some of these ads may contain cookies that are sent by third parties (e.g. advertising agencies or advertising clients). We do not have access to these cookies or any information that they contain. We encourage you to contact the advertiser or its privacy policy for more information on these cookies. Links from other Web sites that appear on the Site may also send cookies; but we do not control such activities. 
 
@@ -48,13 +48,11 @@ Our Sites may operate as part of a larger group of sites, and may carry co-brand
 
 ### Links to Other Materials
 
-Third party sites linked to and from the Site are not necessarily under the control of OSIsoft. OSIsoft shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. OSIsoft does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk.   
-
+Third party sites linked to and from the Site are not necessarily under the control of OSIsoft. OSIsoft shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. OSIsoft does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. 
 
 ### Children’s Privacy
 
-OSIsoft cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practicable.   
-
+OSIsoft cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practicable. 
 
 ### Opting-Out
 
