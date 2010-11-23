@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the e-pages.dk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-pages.dk privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm) for the most accurate reproduction.*
 
 # Visiolink - defining Digital Media
 
 | 
 
-[COMPANY](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/company)-[Privacy policy](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm)
+[COMPANY](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/company)-[Privacy policy](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm)
 
 Effective September 1st 2009
 
@@ -54,31 +54,31 @@ Finally, we never use or share the personally identifiable information provided 
 Contact us
 
 If you are interested in getting an E-publishing or an E-pages solution, please don’t hesitate to contact us.  
-[Contact us](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/PARTNER/suppliers.htm) **  
+[Contact us](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/PARTNER/suppliers.htm) **  
 **
 
-[](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/NEWS/newsletter_signup.htm)  
+[](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/NEWS/newsletter_signup.htm)  
 [](http://tryout.visiolink.dk/demo.html)
 
 Latest news
 
-**Visiolink ready with iPad App for media companies**  
-05/05-2010  
-Only a week after Apple's laun...
+**Cooperation with Xstream provides new possibilities**  
+04/11-2010  
+In cooperation with Xstream Vi...
 
-[ _Read more_](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/news/result.htm?nid=82)
+[ _Read more_](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/news/result.htm?nid=102)
 
-**A Danish paper is testing E-pages on e-reading devices**  
-05/05-2010  
-More and more people read thei...
+**Efficient utilization of E-pages**  
+03/11-2010  
+DI, The Confederation of Danis...
 
-[ _Read more_](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/news/result.htm?nid=83)
+[ _Read more_](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/news/result.htm?nid=101)
 
 References
 
 Below are some of the customers who use Visiolink
 
-[See more](https://web.archive.org/web/20100516200234id_/http%3A//www.visiolink.com/COMPANY/references.htm)
+[See more](https://web.archive.org/web/20101123134639id_/http%3A//www.visiolink.com/COMPANY/references.htm)
 
   
 
