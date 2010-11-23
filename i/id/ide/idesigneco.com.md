@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the idesigneco.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305113406id_/http%3A//idesigneco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idesigneco.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123142514id_/http%3A//idesigneco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iDesignEco
 
 iDesignEco Incorporated, referred to in this document as (“iDesignEco “).
 
-IDesignEco respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site www.IDesignEco.com. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This
+IDesignEco respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site IDesignEco.com. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This
 
 Policy is incorporated into and subject to the Terms of Service (“TOS”) Agreement found at Terms of Service.
 
