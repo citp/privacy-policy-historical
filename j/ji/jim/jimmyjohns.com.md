@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimmyjohns.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612204223id_/http%3A//www.jimmyjohns.com/common/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmyjohns.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123221844id_/http%3A//www.jimmyjohns.com/common/privacy.aspx) for the most accurate reproduction.*
 
 # Jimmy John's Gourmet Sandwiches
 
