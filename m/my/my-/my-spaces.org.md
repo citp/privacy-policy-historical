@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the my-spaces.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191422id_/http%3A//www.my-spaces.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-spaces.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123172045id_/http%3A//www.my-spaces.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy of this Website.
+# Privacy Policy of MySpaces
 
 General Policy 
 
-It is not required for a visitor to register in order to browse our website. So we do not collect any personal identification information through this site.
+It is not required for a visitor to register in order to browse our website. So we do not collect any personal identification information through this site. We use [Google Friend Connect](http://www.google.com/friendconnect/) in our site. So you can visit [privacy policy of Google friend connect](http://www.google.com/friendconnect/help/privacy) for more information 
 
 **Third Party Advertisement Policy**
 
