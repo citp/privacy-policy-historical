@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrillophilia.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605063539id_/http%3A//www.thrillophilia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillophilia.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123031718id_/http%3A//www.thrillophilia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy Thrillophilia Adventure Tours Pvt. Ltd.
 
@@ -64,7 +64,7 @@ Sensitive information
 
 We only collect sensitive information about you with consent.
 
-Also view are [disclaimer](https://web.archive.org/web/20100605063539id_/http%3A//www.thrillophilia.com/Disclaimer.doc) policy here.
+Also view are [disclaimer](https://web.archive.org/web/20101123031718id_/http%3A//www.thrillophilia.com/Disclaimer.doc) policy here.
 
 More information
 
