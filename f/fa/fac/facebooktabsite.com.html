@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the facebooktabsite.com privacy policy that was archived on 2010-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524165750id_/http%3A//www.facebooktabsite.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the facebooktabsite.com privacy policy that was archived on 2010-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123120612id_/https%3A//www.facebooktabsite.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="SHORTCUT ICON" href="/i/tabsite_favicon.png"> 
-	<title>TabSite - Bringing Websites to Facebook</title>
+	<title>TabSite - No more FBML! Customize your Facebook Page</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="keywords" content="Facebook, TabSite, Digital Hill">
-	<meta name="description" content="Tabsite is a great way of setting up your own website on Facebook.">
+	<meta name="keywords" content="Facebook, TabSite, Digital Hill, Facebook Page, Fan Page">
+	<meta name="description" content="Tabsite is a great way of customizing your Facebook Page without knowing FBML and you can even setup your own website on Facebook.">
 	<link href="/css/index.css" rel="stylesheet" type="text/css" media="screen">
     <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
     	<script type="text/javascript">
@@ -18,6 +18,7 @@ var xajaxWaitCursor=true;
 var xajaxDefinedGet=0;
 var xajaxDefinedPost=1;
 var xajaxLoaded=false;
+function xajax_logout(){return xajax.call("logout", arguments, 1);}
 function xajax_update_selected_tabsite(){return xajax.call("update_selected_tabsite", arguments, 1);}
 function xajax_get_tabsite_dropdown(){return xajax.call("get_tabsite_dropdown", arguments, 1);}
 	</script>
@@ -53,21 +54,44 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 	function redirect_welcome() {
 		window.location = "/welcome.php";
 	}
+	function redirect_to_self() {
+		window.location = "privacy.php";
+	}
 	function login_action() {
-		FB.Connect.get_status().waitUntilReady(function(status) {
-			switch(status) {
-				case FB.ConnectState.connected:
-					redirect_welcome();
-				 break;
-				case FB.ConnectState.appNotAuthorized:
-				case FB.ConnectState.userNotLoggedIn:
-					FB.Connect.requireSession(redirect_welcome);
-				break;
-			}
+		FB.Facebook.get_sessionState().waitUntilReady(function() {
+			var uid = FB.Facebook.apiClient.get_session().uid ;
+			var sql = "SELECT name FROM user WHERE uid ="+uid;
+			FB.Facebook.apiClient.fql_query(sql, function(result, ex) {
+				try{
+					var userName= result[0]['name'];
+					
+				} catch(err) {
+					FB.Connect.requireSession(login_action);
+				}
+			});
+			redirect_to_self();
 		});
 	}
-	</script>
-    <script type="text/javascript"> 
+	function login_action_welcome() {
+		FB.Facebook.get_sessionState().waitUntilReady(function() {
+			var uid = FB.Facebook.apiClient.get_session().uid ;
+			var sql = "SELECT name FROM user WHERE uid ="+uid;
+			FB.Facebook.apiClient.fql_query(sql, function(result, ex) {
+				try{
+					var userName= result[0]['name'];
+					
+				} catch(err) {
+					FB.Connect.requireSession(login_action_welcome);
+				}
+			});
+			redirect_welcome();
+		});
+	}
+	function initFB() {
+		FB_RequireFeatures(["XFBML"], function(){
+			FB.init("ef48adc5fbfeceabe54739b0e58dc58a", "xd_receiver.htm"); //, {"reloadIfSessionStateChanged":true}
+		});
+	}
 	$(document).ready(function() {
 		$("#top_tabs div").mouseover(function(){
 			top_tab_over(this);
@@ -79,26 +103,27 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 		var preload1 = $('<img />').attr('src', '/i/tab_dark_blue.png');
 	});
 	</script>
-        <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
-    	<script type="text/javascript">FB.init("ef48adc5fbfeceabe54739b0e58dc58a", "xd_receiver.htm"); </script>
-            <meta name="google-site-verification" content="EMQeSEqe3pUM8oQmtKNL6SC1UnnydptwIw1nSCNl_RI">
+            <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+        <meta name="google-site-verification" content="EMQeSEqe3pUM8oQmtKNL6SC1UnnydptwIw1nSCNl_RI">
 </head>
 
-<body>
+<body onload="initFB();">
 <div id="container"><div id="top_frame">
 	<div id="top">
     	<div id="top_links"><ul>
-        		                                <li id="fb_login"><a title="Login" href="#" onclick="login_action(); return false;"><img src="i/login_button.png" alt="Login"></a></li>
+        		                <li id="fb_login"><a title="Login" href="#" onclick="FB.Connect.requireSession(login_action_welcome);"><img src="/i/login_button.png" alt="Login"></a></li>
                                 <li>&nbsp;</li>
-                <li id="tb_manager" style="display:none;"><a title="TabSite Manager" href="/welcome.php"><img src="i/tabsite_manager_button.jpg" alt="TabSite Manager"></a></li>
+                <li id="tb_manager" style="display:none;"><a title="TabSite Manager" href="/welcome.php"><img src="/i/tabsite_manager_button.jpg" alt="TabSite Manager"></a></li>
                 <li id="tb_manager_spacer" style="display:none;">&nbsp;</li>
             	<li><a title="Contact Us" href="/contact.php">Contact Us</a></li>
            		<li>|</li>
+                <li><a title="Partners" href="/become_a_partner.php">Partner Program</a></li>
+                <li>|</li>
                 <li><a title="Compare Packages" href="/compare_packages.php">Compare Packages</a></li>
                 <li>|</li>
                 <li><a title="FAQ's" href="/faqs.php">FAQ's</a></li>
            		<li>|</li>
-                <li><a title="TabSite Documentation" href="/documentation.php">How To Videos</a></li>
+                <li><a title="TabSite Documentation" href="/documentation.php">How To Help</a></li>
            		<li>|</li>
                 <li><a title="Blog" href="http://blog.facebooktabsite.com/">Blog</a></li>
            		<li>|</li>
@@ -108,15 +133,15 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
         <div id="top_tabs">
         	<a href="business.php"><div id="top_tab1">Business</div></a>
         	<a href="personal.php"><div id="top_tab2">Personal</div></a>
-                        <a href="https://www.facebooktabsite.com/steps.php"><div id="top_tab3">Sign Up</div></a>
-                    </div>
+            <a href="https://www.facebooktabsite.com/steps.php"><div id="top_tab3">Sign Up</div></a>
+        </div>
     </div>
     <div id="middle_bg">
     	        <div id="middle_top">
-                   	<div id="cyfb" class="img_text">Customize Your Facebook</div>
-                    </div>
+                	           	<div id="cyfb" class="img_text">Customize Your Facebook</div>
+                                </div>
         <div id="middle_text_bg">
-       	<a title="Sign Up Now for Free!" href="https://www.facebooktabsite.com/steps.php" style="cursor:pointer;"><div id="signup_button">&nbsp;</div></a>
+       	<a title="Sign Up Now for Free!" href="https://www.facebooktabsite.com/steps.php" style="cursor:pointer; text-decoration:none;"><div id="signup_button">&nbsp;</div></a>
                 	<div id="inner_page_title"><div class="left"></div><a name="title" id="title"></a><div class="text"><h1>Privacy Statement</h1></div></div>
         	<div id="inner_middle">
             	<table cellpadding="0" cellspacing="0"><tbody><tr><td><div id="inner_min_height_div"></div></td><td valign="top" style="overflow:hidden;">
@@ -153,8 +178,7 @@ Any questions about this Privacy Policy should be addressed to info at Digital H
     </div>
     <div id="bottom">
     	<div style="position:absolute; margin:50px 0px 0px 70px; overflow:hidden; width:290px;">
-        	<fb:fan profile_id="186663019975" stream="0" connections="0" logobar="0" width="300" height="70"></fb:fan>
-       	</div>    	<div id="footer_links"><span class="privacy"><a href="privacy.php">Privacy</a></span><span class="spacer">|</span><span class="terms"><a href="terms.php">Terms</a></span>Web Design by <span class="designer"><a target="_blank" href="http://www.digitalhill.com/">Digital Hill</a></span></div>
+        	       	</div>    	<div id="footer_links"><span class="privacy"><a href="privacy.php">Privacy</a></span><span class="spacer">|</span><span class="terms"><a href="terms.php">Terms</a></span>Web Design by <span class="designer"><a target="_blank" href="http://www.digitalhill.com/">Digital Hill</a></span></div>
     </div>
 </div>
 <script type="text/javascript">
