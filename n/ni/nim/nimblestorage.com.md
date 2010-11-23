@@ -1,40 +1,33 @@
-> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620112512id_/http%3A//www.nimblestorage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123193110id_/http%3A//nimblestorage.com/wordpress/privacy-policy) for the most accurate reproduction.*
 
-# Nimble Storage
+# Privacy Policy | Nimble Storage
 
-|   | 
+**Nimble Storage Privacy Policy**
 
-By using our website, you consent to Nimble Storage’s collection and use of information in accordance with the terms of this Privacy Policy.
+Nimble Storage knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Nimble Storage’s web site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-We are committed to protecting your personal information and respecting your privacy. We will not sell, trade, or rent your personal information to any third parties. We will not use or disclose your information for purposes other than those set forth in this Privacy Policy, unless you give us your permission or we are legally compelled to do so, such as by law, subpoena, or court order, or unless such disclosure or use becomes necessary for the protection of our legal interests.
+**What information do we collect?**
 
-1\. INFORMATION COLLECTION  
-The kind of information we collect from you online depends on how you decide to use our website or services. If you choose simply to browse our site, you will not need to submit any personal information at all. However, you might choose to provide us with your personally identifiable information by such means as e-mailing us, sending us your resume, or filling out certain forms on our website.
+We collect information from you when you visit our site, subscribe to our newsletter, respond to a survey, or fill out a form.
 
-Our system may also gather certain technical data about your visit, which helps us understand better how our site is being used and how we can improve it. This automatically gathered information does not identify you personally; it may include your computer's IP or "Internet Protocol" address, as well as statistics about how visitors navigate through our site.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the information requested.
 
-2\. INFORMATION USE   
-(a) E-mail Contact: [info@nimblestorage.com](mailto:info@nimblestorage.com). If you choose to contact us by e-mail, we will keep your contact information private although we may use it to respond to your message. No confidentiality will apply to the subject matter of your message, however, so we recommend that you do not send us any ideas or suggestions that you consider proprietary or confidential. All e-mail content (except your contact information) will be treated as volunteered to Nimble Storage for our use in any manner.
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, surveys, and related product or service information. Note: If at any time you would like to unsubscribe from receiving future emails, we include an unsubscribe link at the bottom of each email.
 
-(b) Solicited Information: We may ask our visitors for personal information through forms on our website for registering for events, joining our mailing list, becoming a business partner, or inquiring about product sales. The personal information you choose to provide on these forms, which would typically include your name, company name, and contact information, may be used by Nimble Storage in a manner consistent with the stated purpose of the given form. In addition, we may use visitor responses for non-personal assessment of their preferences so we can tailor our site's contents to better suit the tastes and needs of our audience. If we intend to use or share your personal information for any other purposes, we will notify you of that purpose and give you a chance to opt out before you submit your information. For example, if you are asked for your e-mail address, we will not add it to any automatic mailing lists unless we've asked for permission to do so.
+**Do we use cookies?**
 
-(c) Employment Opportunities: Our site may provide you with a means for submitting your resume or other personal information for consideration for employment opportunities at Nimble Storage. Personal information received through resume submissions will be kept confidential. We may contact you for additional information to supplement your resume, and we may use your information within Nimble Storage, or keep it on file for future use, as we make our hiring decisions.
+Yes. (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser–if you allow–that enable the site’s or service providers’ systems to recognize your browser and capture and remember certain information.) We use cookies to understand and save your preferences for future visits, compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business
 
-(d) Automatically Gathered Data: We may use the non-personal information gathered automatically by our system--such as computer IP addresses, the kind of browsers our viewers are using, and a record of the pages viewed on our site--so we can understand how to make our site more convenient and useful to our audience. We may also share this information, in aggregate form, with parties we hire to help us perform our business.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
-(e) Transfer of Data: In order to promote continuity of services and support, if Nimble Storage’s business is acquired or merges with another company, we may transfer the information you've shared with us to the successor company. In the unlikely event that we cease business operations, we may similarly transfer this data to another company that offers comparable products or services. The use and disclosure of transferred data may be governed by the privacy practices of the successor company.
+**How do we manage email communications?**
 
-3\. MANAGING YOUR PRIVACY  
-As stated above, we will not collect personally identifying information about you without your knowledge, so the decision whether or not to share this information is completely up to you. You may request deletion or modification of your other personal information by contacting us at [info@nimblestorage.com](https://web.archive.org/web/20100620112512id_/http%3A//www.nimblestorage.com/mailtoinfo@nimblestorage.com). Note that any deleted information may remain in our data store as a result of routine system back-ups, but we will no longer use that information.
+Nimble Storage offers registered users the option of opting out of receiving emails regarding Nimble Storage products, services and special offers by following the opt-out link at the bottom of our email. However, there are certain e-mails that Nimble Storage may continue to send per your request or that are necessary for you to receive the full benefit of company services. For example, Nimble Storage uses e-mail to deliver information that registered users request as well as provide details about customer account(s), delivery information, and operational information regarding existing products, services and systems.
 
-4\. INFORMATION SECURITY  
-In order to maintain the integrity and security of your personal information, we store this information on non-public computer systems with firewall and password protection to prevent access by anyone other than authorized Nimble Storage employees. Of course, we appreciate your help in safeguarding the integrity of your own privacy. We encourage you to let us know immediately if you suspect that the information you share with us is being used in any way contrary to this Privacy Policy, and we will investigate your inquiry as promptly as possible. To contact us, send e-mail to [info@nimblestorage.com.  
-](mailto:info@nimblestorage.com.)  
-5\. OUTSIDE LINKS  
-Our website may contain links to other sites. Please be aware that these third-party sites may collect information about you, and that they operate according to their own privacy practices. If you have any questions about linking to our site, contact [info@nimblestorage.com](mailto:info@nimblestorage.com).
+**Do we disclose any information to outside parties?**
 
-6\. CHILDREN'S PRIVACY PROTECTION  
-Nimble Storage, its website, and its products are not directed to children. We will not knowingly collect personally identifiable information from anyone under 13.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-7\. QUESTIONS?  
-If you have any additional questions about Nimble Storage’s privacy policies, you may contact us by e-mail at [info@nimblestorage.com](mailto:info@nimblestorage.com). This site is owned and operated by Nimble Storage, Inc.
+If we decide to change our privacy policy, we will post those changes on this page.
+
+_This policy was last modified on August 12, 2010._
