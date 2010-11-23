@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525071513id_/http%3A//www.raceforlife.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123173656id_/http%3A//www.raceforlife.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Race for Life - Cancer Research UK - Race for Life - Cancer Research UK
 
