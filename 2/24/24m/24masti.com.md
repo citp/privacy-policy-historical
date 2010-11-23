@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24masti.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523024031id_/http%3A//www.24masti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24masti.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123025159id_/http%3A//www.24masti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,8 +16,8 @@ www.24masti.com does use cookies to store information about visitors preferences
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL’s http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-Google Adsense  
-Kontera
+**Google Adsense  
+Infolinks**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.24masti.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -27,4 +27,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Last updated 25 December 2009
+Last updated 25 April 2010
