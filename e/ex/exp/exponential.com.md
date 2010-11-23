@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414190634id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123215622id_/http%3A//exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Exponential®
 
 EXPONENTIAL INTERACTIVE, INC.  
 PRIVACY POLICY
 
-_Updated on June 26, 2008_
+_Updated on June 17, 2010_
 
 Exponential Interactive, Inc. (“Exponential”) is a technology-enabled media services company whose clients and customers include both online advertisers (“Advertisers”) and Internet content sites (“Publishers”). We deliver innovative products and services designed to:
 
-    * enable Advertisers to better reach their target audiences; and
+    * enable Advertisers to better reach their target audiences; and 
     * enable Publishers to support, grow and monetize their websites through the sale of advertisements. 
 
 
@@ -27,16 +27,16 @@ _Non-Personal Information Collected by our Services_
 
 We deliver advertisements from hundreds of Advertisers across a multitude of Publisher websites. When you visit one of the Publisher websites in our network, our automated system may collect “click stream data” related to your visit to the website. Click stream data is anonymous and can include information such as your IP address, Web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages. Technologies used to collect this click stream data, include cookies and Web beacons. For a description of cookies and Web beacons see our FAQ section. Our anonymous cookies are programmed to expire in six months. 
 
-In order to improve performance, we augment our click stream data with non-personally-identifiable behavioral and demographic data from Publishers. This anonymous data may include such things as zip code, age, gender and income range. 
+In order to improve performance, we augment our click stream data with non-personally-identifiable behavioral and demographic data from Publishers and other partners. This anonymous data may include such things as zip code, age, gender and income range. 
 
-We utilize the non-personal information described above to better customize the sort of advertisements you see. We also aggregate anonymous cookie data in order to identify large audience segments that assist advertisers in targeting their campaigns to the most relevant Internet audience. 
+We utilize the non-personal information described above to better customize the sort of advertisements you see. We also aggregate anonymous cookie data in order to identify large audience segments that assist advertisers in targeting their campaigns to the most relevant Internet audience. We store the information collected in log files, and log files are retained in our systems for a reasonable period of time. Anonymous data stored in our log files that associates the log data to a particular computer include IP address and User ID. We purge the IP address and irreversibly obfuscate the User ID from our log files six months after collection of this information. 
 
 **Consumer Choice - Opting Out of Receiving Cookies**  
 We use technology which includes cookies and web beacons in the delivery of our Services. We believe that the use of these tools enables us to provide users with a more meaningful web experience. You may adjust your computer’s web browser settings to refuse all cookies. However, please note that because cookies are widely used, disabling the use of cookies in your web browser may interfere with full use of various websites.
 
 You may opt out of receiving Exponential cookies by clicking here 
 
-[](https://web.archive.org/web/20100414190634id_/http%3A//www.exponential.com/who-we-are/cookie-thankyou.jsp)
+[](https://web.archive.org/web/20101123215622id_/http%3A//exponential.com/who-we-are/cookie-thankyou.jsp)
 
 You can also opt out of receiving cookies from Exponential and other NAI member companies by clicking here
 
