@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jrpass.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220095644id_/http%3A//www.jrpass.com/privacy_and_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrpass.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123235245id_/http%3A//jrpass.com/privacy_and_security_policy) for the most accurate reproduction.*
 
-# Japan Rail Pass - buy the JR Pass online
+# Japan Rail Pass - privacy
 
 This privacy policy sets out how JRPass Ltd uses and protects any information that you give when you use this website.
 
