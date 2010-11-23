@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530083220id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123122631id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
 
 # Privacy of your personal data | The Cochrane Collaboration
 
@@ -18,6 +18,5 @@ The Cochrane Collaboration does not share information (names, personal informati
 
 If you have concerns about your data, feel free to contact us at [web@cochrane.org](mailto:web@cochrane.org).
   *[[entities](https://web.archive.org/glossary/5#term225)]: The term used for registered groups in *The Cochrane Collaboration*  
-(*Collaborative Review Groups*, *Centres*, *Fields*, *Methods Groups*, and  
-*The Cochrane Consumer Network*).
+(*Collaborative Review Groups*, *Centres*, *Fields*, and *Methods Groups*.
 
