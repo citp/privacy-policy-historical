@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megauploadindex.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525234716id_/http%3A//www.megauploadindex.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megauploadindex.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123210339id_/http%3A//www.megauploadindex.com/terms.php) for the most accurate reproduction.*
 
 # Software/Movie/Music/Ebook Store associates with Amazon!
 
@@ -50,4 +50,4 @@ Megauploadindex may also disclose account information in special cases when we h
 
 Links: [Buy a Link Here](https://web.archive.org/more-links.php "Buy a link here")
 
-Disclaimer: This site is a search engine of video on the Internet and does not store any files on its server. Please contact the content providers to delete copyright contents if any and email [freedown.support@gmail.com](mailto:freedown.support@gmail.com), we'll remove relevant links or contents immediately.
+Disclaimer: This site is a search engine of megaupload index on the Internet and does not store any files on its server. Please contact the content providers to delete copyright contents if any and email [freedown.support@gmail.com](mailto:freedown.support@gmail.com), we'll remove relevant links or contents immediately.
