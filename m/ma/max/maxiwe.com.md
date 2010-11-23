@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxiwe.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612121918id_/http%3A//www.maxiwe.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxiwe.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123231209id_/http%3A//www.maxiwe.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # maxiwe.com Privacy Policy
 
