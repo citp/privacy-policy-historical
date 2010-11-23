@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620005635id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123154343id_/http%3A//japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - JAPANiCAN
 
@@ -16,6 +16,8 @@ In order to realize this philosophy and fundamental policy, we see the reliable 
 5. | All laws, guidelines, social norms, and public standards regarding personal information will be strictly followed.   
 6. | The personal information management system will be regularly audited and continuously improved.  
   
+[ ](http://privacymark.org/)
+
 February 27, 2007 (Established)   
 April 1, 2009 (Revised)   
 JTB Global Marketing & Travel   
@@ -36,7 +38,7 @@ JTB GMT keeps a portion of personal information provided by customers in travel 
 
 JTB GMT and its designated travel businesses (branches) will use personal information provided in travel purchase forms to contact customers, as well as when necessary in the performance of our travel and other services as requested by the customer, including the arrangement of transportation and accommodations (as listed in the agreement).
 
-*In addition, JTB GMT will use customer personal information…
+* In addition, JTB GMT will use customer personal information...
 
 ･ | To respond to inquiries  
 ---|---  
@@ -157,7 +159,7 @@ JTB Global Marketing & Travel, Inc., Administration Department
 Address: 2-3-11 Highashi-Shinagawa, Shinagawa-ku, Tokyo  
 Hours: 9:30-18:00 (Weekdays)  
 Phone: 03-5796-5400 (Not open Saturdays, Sundays, holidays, or 12/30-1/3)  
-※The paperwork necessary for disclose and deletion of information can also be obtained from the branches of companies listed in “5. Collection and Use of Customer Personal Information”, but requests must be mailed to the department listed above. 
+* The paperwork necessary for disclose and deletion of information can also be obtained from the branches of companies listed in “5. Collection and Use of Customer Personal Information”, but requests must be mailed to the department listed above. 
 
 (2) Requests for Corrections, Stop of Usage, and Stop Sharing with Third Parties  
 Please contact the branch at which you purchased your trip.  
