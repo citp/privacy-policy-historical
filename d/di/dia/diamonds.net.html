@@ -1,20 +1,13 @@
-<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2010-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611210621id_/http%3A//www.diamonds.net/legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2010-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123033205id_/http%3A//www.diamonds.net/legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Diamonds.Net - Privacy Policy
-</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="description" content="Welcome to Diamonds.net - home of RapNet® Diamond Trading Network, INDEX® - Internet Diamond Exchange, Rapaport Diamond Price Sheets, and Rapaport News Center. "><meta name="keywords" content="INDEX, internet diamond exchange, diamond exchange, diamond trading, Rapaport diamond price list, Rapaport price list, diamond market, diamond news, diamond search, conflict diamonds, diamond certificates, grading reports, gia, igi, egl, certs, diamond forums, diamond forum, latest market reports, diamonds, gems, jewelry ,rapaport, rapnet"><link rel="SHORTCUT ICON" href="http://www.diamonds.net/Favicon.ico"><link id="ctl00_Link4" rel="stylesheet" href="../SiteResource/Styles/DatePicker.css" type="text/css"><link id="ctl00__stylesheetlink" rel="stylesheet" type="text/css"><link id="ctl00_MainStyleSheet" rel="stylesheet" type="text/css" href="/SiteResource/Styles/DnetStyle.css"><link id="ctl00__stylesheetheader" rel="stylesheet" type="text/css" href="../SiteResource/Styles/HeaderStyle.css"><link id="ctl00__tickerstylesheet" rel="stylesheet" type="text/css"><link rel="stylesheet" href="../SiteResource/Styles/RapNetStyles.css" type="text/css"><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link rel="SHORTCUT ICON" href="http://www.diamonds.net/Favicon.ico"><link id="ctl00_Link4" rel="stylesheet" href="../SiteResource/Styles/DatePicker.css" type="text/css"><link id="ctl00__stylesheetlink" rel="stylesheet" type="text/css"><link id="ctl00_MainStyleSheet" rel="stylesheet" type="text/css" href="/SiteResource/Styles/DnetStyle.css"><link id="ctl00__stylesheetheader" rel="stylesheet" type="text/css" href="../SiteResource/Styles/HeaderStyle.css"><link id="ctl00__tickerstylesheet" rel="stylesheet" type="text/css"><link rel="stylesheet" href="../SiteResource/Styles/RapNetStyles.css" type="text/css"><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"><script src="/SiteResource/JavaScripts/jquery-1.4.2.js" type="text/javascript" language="javascript"></script><link rel="stylesheet" href="../SiteResource/Styles/Dnet.css" type="text/css">
 
 	<script type="text/javascript" language="javascript">
 		    //Any place you would like to run something in the onload of the page 
 		    //add a function called body_onload() and put your code in it.
-		    function mp_onload() 
-		    {
-			     if(window.body_onload != null)
-				      window.body_onload();   
-		    }
-
 		    function SetPageFadeVisible(Show)
 		    {
 			    var objPageFade = document.getElementById("divPageFade");
@@ -59,15 +52,112 @@
 					}
 				}
 			}
-			
+
+			function ShowLogin() {
+				var objLoginForm = document.getElementById("trLoginForm");
+
+				SetPageFadeVisible(true);
+				objLoginForm.style.display = '';
+				$(".LoginUsername").focus();
+				
+				$(function() {   
+					$("form input").keypress(function (e) {   
+						if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
+							$(".LoginbtnLogin").children("input").click();   
+							return false;   
+						} else {   
+							return true;   
+						}   
+					});   
+				});  
+
+				return false;
+			}
+
+			$(document).ready(function () {
+
+				if (window.body_onload != null)
+					window.body_onload();
+
+				$(".CloseLoginForm").click(function () {
+					$(".CloseLoginFormButton").click();
+				});
+
+				$(".LoginbtnLogin").children("input").click(function () {
+					var User = $(".LoginUsername").val();
+					var Pass = $(".LoginPassword").val();
+
+					if (User == "" || Pass == "")
+						return false;
+
+					var Remember = $(".LoginRememberMe").children("input").is(':checked');
+					var LoginURL = $(".LoginLoginURL").children("input").val();
+					var ReturnURLAfterLogin = $(".LoginReturnURLAfterLogin").children("input").val();
+
+					myform = document.createElement("form");
+					myform.action = LoginURL;
+					myform.method = "post";
+
+					form_user = document.createElement("input");
+					form_user.setAttribute("type", "text");
+					form_user.setAttribute("name", "username");
+					form_user.value = User;
+
+					form_pwd = document.createElement("input");
+					form_pwd.setAttribute("type", "password");
+					form_pwd.setAttribute("name", "password");
+					form_pwd.value = Pass;
+
+					form_remember = document.createElement("input");
+					form_remember.setAttribute("type", "hidden");
+					form_remember.setAttribute("name", "rememberme");
+					form_remember.value = Remember;
+
+					form_ReturnURLAfterLogin = document.createElement("input");
+					form_ReturnURLAfterLogin.setAttribute("type", "hidden");
+					form_ReturnURLAfterLogin.setAttribute("name", "ReturnURLAfterLogin");
+					form_ReturnURLAfterLogin.value = ReturnURLAfterLogin;
+
+					myform.appendChild(form_user);
+					myform.appendChild(form_pwd);
+					myform.appendChild(form_remember);
+					myform.appendChild(form_ReturnURLAfterLogin);
+
+					document.forms[0].appendChild(myform);
+					myform.submit();
+
+					return false;
+				});
+			});
+
 			setInterval("ResizePageFade()",3000);
 	</script>
-
+	<style type="text/css">
+		.MainBorder
+		{
+			border: solid 1px #E3E3E3; 
+			background-color:#FFFFFF;
+		}
+	</style>
+	<style type="text/css" media="print">
+		.MainBorder
+		{
+			border-width:0px;
+			background-color:#FFFFFF;
+		}
+		.DisplayNoneOnPrint
+		{
+			display:none;
+		}
+	</style>
 <script src="/SiteResource/JavaScripts/jsToolTip.js" type="text/javascript"></script>
+<script src="/SiteResource/JavaScripts/Dnet2010.js" type="text/javascript"></script>
 <script src="/SiteResource/JavaScripts/QuickLinksUserControl.js" type="text/javascript"></script>
 </head>
-<body bottommargin="4" rightmargin="0" leftmargin="0" topmargin="4" bgcolor="#F0F0F0" link="#000064" vlink="#000064" alink="#FF0000" style="margin: 0px; margin-top:4px; margin-bottom:4px;" onload="mp_onload();">
-	<!-- Do not remove onload="mp_onload();" see explanation at mp_onload() function above-->
+<body bottommargin="4" rightmargin="0" leftmargin="0" topmargin="4" bgcolor="#F0F0F0" link="#000064" vlink="#000064" alink="#FF0000" style="margin: 0px; margin-top:4px; margin-bottom:4px;">
+	<script type="text/javascript" language="javascript">
+		
+	</script>
 	<!-- popping div for Javascript Tool Tips. DO NOT REMOVE. -->
 	<div id="tipDiv" class="tip" style="display: none;">
 	</div>
@@ -76,25 +166,150 @@
 	<div id="divPageFade" style="display: none; position: absolute;" class="FadeDiv">
 		&nbsp;</div>
 	<!-- end pop -->
-	<form name="aspnetForm" method="post" action="/legal/PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3ODAyNDM0MzIPZBYCZg9kFgQCAQ9kFgICBw8WAh4EaHJlZgUiL1NpdGVSZXNvdXJjZS9TdHlsZXMvRG5ldFN0eWxlLmNzc2QCAw9kFgYCBw9kFgICAQ9kFg4CBg8WBB4Lb25tb3VzZW92ZXIFa2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTEnKS5zdHlsZS5kaXNwbGF5PSdibG9jayc7Hgpvbm1vdXNlb3V0BWpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnUxJykuc3R5bGUuZGlzcGxheT0nbm9uZSc7ZAIHDxYEHwEFa2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTInKS5zdHlsZS5kaXNwbGF5PSdibG9jayc7HwIFamRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTInKS5zdHlsZS5kaXNwbGF5PSdub25lJztkAggPFgQfAQVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MycpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzsfAgVqZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MycpLnN0eWxlLmRpc3BsYXk9J25vbmUnO2QCCQ8WBB8BBWtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU0Jykuc3R5bGUuZGlzcGxheT0nYmxvY2snOx8CBWpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU0Jykuc3R5bGUuZGlzcGxheT0nbm9uZSc7ZAIKDxYEHwEFa2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTUnKS5zdHlsZS5kaXNwbGF5PSdibG9jayc7HwIFamRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTUnKS5zdHlsZS5kaXNwbGF5PSdub25lJztkAgsPFgQfAQVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51NicpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzsfAgVqZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51NicpLnN0eWxlLmRpc3BsYXk9J25vbmUnO2QCDA8WBB8BBWtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU3Jykuc3R5bGUuZGlzcGxheT0nYmxvY2snOx8CBWpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU3Jykuc3R5bGUuZGlzcGxheT0nbm9uZSc7ZAIJD2QWAgIBD2QWAgICDw8WBB4JRm9yZUNvbG9yCgAeBF8hU0ICBGRkAhEPZBYCAgEPZBYCZg8WAh4EVGV4dAUEMjAxMGRkXSs9K0NdQYA6Ft0mR7RW9vdLOsA=">
+
+	<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3ODAyNDM0MzIPZBYCZg9kFgQCAQ9kFgQCBQ8WAh4EaHJlZgUiL1NpdGVSZXNvdXJjZS9TdHlsZXMvRG5ldFN0eWxlLmNzc2QCCg8WAh4EVGV4dAVuPHNjcmlwdCBzcmM9Ii9TaXRlUmVzb3VyY2UvSmF2YVNjcmlwdHMvanF1ZXJ5LTEuNC4yLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJqYXZhc2NyaXB0Ij48L3NjcmlwdD5kAgMPZBYIAgUPZBYCZg9kFgICFQ8PFgIfAWVkZAIJD2QWAgIBD2QWDgIGDxYEHgtvbm1vdXNlb3ZlcgVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MScpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzseCm9ubW91c2VvdXQFamRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTEnKS5zdHlsZS5kaXNwbGF5PSdub25lJztkAgcPFgQfAgVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MicpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzsfAwVqZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MicpLnN0eWxlLmRpc3BsYXk9J25vbmUnO2QCCA8WBB8CBWtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnUzJykuc3R5bGUuZGlzcGxheT0nYmxvY2snOx8DBWpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnUzJykuc3R5bGUuZGlzcGxheT0nbm9uZSc7ZAIJDxYEHwIFa2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTQnKS5zdHlsZS5kaXNwbGF5PSdibG9jayc7HwMFamRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTQnKS5zdHlsZS5kaXNwbGF5PSdub25lJztkAgoPFgQfAgVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51NScpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzsfAwVqZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51NScpLnN0eWxlLmRpc3BsYXk9J25vbmUnO2QCCw8WBB8CBWtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU2Jykuc3R5bGUuZGlzcGxheT0nYmxvY2snOx8DBWpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU2Jykuc3R5bGUuZGlzcGxheT0nbm9uZSc7ZAIMDxYEHwIFa2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTcnKS5zdHlsZS5kaXNwbGF5PSdibG9jayc7HwMFamRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTcnKS5zdHlsZS5kaXNwbGF5PSdub25lJztkAgsPZBYCAgEPZBYCAgIPDxYEHglGb3JlQ29sb3IKAB4EXyFTQgIEZGQCEw9kFgICAQ9kFgJmDxYCHwEFBDIwMTBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRljdGwwMCR1Y0xvZ2luJGNoa1JlbWVtYmVy4pTgRweFfTZ40RfWX2hOA6QtAcQ=">
 
 
-<script src="/ScriptResource.axd?d=kHVt0_TpPG-H0Olf-Bb_Y9iRR7KtEINo5_lF8nU1B1cvR4xsfEPZqbhQ9ppSIgpQPfB3XGCpDns5-fzE27oIKrapTB4X9Ls7XqBRkGNV2NU1&amp;t=633650109426362670" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWGgLtivnNBwLRnMa+BwLRnMa+BwKe+J7KAwKwpp31BgKzzILXBQLRnMa+BwLRnMa+BwLG/9sxAu6CqTgCu76tkA8C0ZzGvgcC0ZzGvgcCiN6KTALE09y0CQLHy5LrDwLRnMa+BwLRnMa+BwKu5JqjBgLBoYfYAwK5u8K9DQLRnMa+BwLRnMa+BwLuhN/5DgLRnMa+BwKlyvGbAzFySptombwsl3KqL2AXwSkN2PIX">
+<script src="/ScriptResource.axd?d=qD-6H1HwmyjsQG3L8-psJHs40KDiuxX9PF3b7nB-PWO7vwFKgG6dVkYYf5tjTizZSMmYu6DTSK9Ab341KCzBcrKKdndH7kbf3o3sng2UbgsYz0xLz2l2TZqhKsX73X5Cxvuken5FvrrM7G_5i0CqWwJ3E_zdCKDLrSM59zx7LUrJe4RB0&amp;t=633650109426362670" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWIQL/xpXtBQKUzrqgAQL6hcj4CQK136SYCwLMkpn8CwKMm5aMBALih6LSCQKcw5SjCgLRnMa+BwLRnMa+BwKe+J7KAwKwpp31BgKzzILXBQLRnMa+BwLRnMa+BwLG/9sxAu6CqTgCu76tkA8C0ZzGvgcC0ZzGvgcCiN6KTALE09y0CQLHy5LrDwLRnMa+BwLRnMa+BwKu5JqjBgLBoYfYAwK5u8K9DQLRnMa+BwLRnMa+BwKLne3gAQLRnMa+BwKlyvGbA+jF8sl6nH+rYjhX4thVmg2vw8BI">
 		
 		
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td align="center">
-					<table width="980" cellpadding="0" cellspacing="0" border="0" style="border: solid 1px #2E3192; background-color:#FFFFFF;">
-						<tbody><tr>
+					<table width="980" cellpadding="0" cellspacing="0" border="0" class="MainBorder">
+						<tbody><tr id="trLoginForm" style="display:none;">
+							<td align="center">
+								<a id="GoLogin"></a>
+								
+<table cellpadding="0" cellspacing="0" border="0" width="610" class="Dnet2010">
+	<tbody><tr>
+		<td align="left">
+			<div style="left: 555px; top: 291px; position: relative;">
+				<div style="position: absolute; width: 30px; height: 30px; z-index: 550; cursor: pointer;
+					cursor: hand;" class="CloseLoginForm">
+				</div>
+			</div>
+			<div style="top: 270px; position: relative;">
+				<div style="position: absolute; width: 610px; height: 294px; background-repeat: no-repeat;
+					background-image: url('/SiteResource/Graphics/Images/Dnet2010/Lightbox.gif'); z-index: 540">
+					<div id="ctl00_ucLogin_pnlLogin">
+	
+						<table cellpadding="0" cellspacing="0" border="0" style="background-color: #FFFFFF;
+							margin: 55px;">
+							<tbody><tr>
+								<td class="HeaderBox2010">
+									<span id="ctl00_ucLogin_lblTitle">Members Login</span>
+								</td>
+							</tr>
+							<tr>
+								<td style="padding-top: 3px;">
+									<span id="ctl00_ucLogin_lblSubTitle"></span>&nbsp;
+								</td>
+							</tr>
+							<tr>
+								<td style="padding-top: 7px;">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tbody><tr>
+											<td style="padding-right: 10px;">
+												<span class="BlueLinkNoUnderline">Not a member?</span>
+											</td>
+											<td style="padding-left: 10px;" colspan="2">
+												<a href="../Info/Subscribe.aspx" id="ctl00_ucLogin_a1" class="BlueLinkNoUnderline">
+													Join Now<img align="middle" vspace="2" hspace="5" src="/SiteResource/Graphics/Images/Dnet2010/BlueArrow.gif"></a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+											<td style="padding-left: 10px; padding-top: 6px;">
+												Username:
+											</td>
+											<td style="padding-left: 10px; padding-top: 6px;">
+												<input name="ctl00$ucLogin$txtUsername" type="text" id="ctl00_ucLogin_txtUsername" class="LoginUsername">
+												&nbsp;
+											</td>
+										</tr>
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+											<td style="padding-left: 10px; padding-top: 6px;">
+												Password:
+											</td>
+											<td style="padding-left: 10px; padding-top: 6px;">
+												<input name="ctl00$ucLogin$txtPassword" type="password" id="ctl00_ucLogin_txtPassword" class="LoginPassword">
+												&nbsp;
+											</td>
+										</tr>
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+											<td>
+												&nbsp;
+											</td>
+											<td style="padding-left: 10px; padding-top: 8px;">
+												<span class="LoginbtnLogin"><input type="submit" name="ctl00$ucLogin$btnLogin" value="Log in" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ucLogin$btnLogin&quot;, &quot;&quot;, true, &quot;vgLogin&quot;, &quot;&quot;, false, false))" id="ctl00_ucLogin_btnLogin"></span>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+											<td>
+												&nbsp;
+											</td>
+											<td style="padding-left: 10px; padding-top: 6px;">
+												<span class="LoginRememberMe"><input id="ctl00_ucLogin_chkRemember" type="checkbox" name="ctl00$ucLogin$chkRemember"><label for="ctl00_ucLogin_chkRemember">Remember me</label></span>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												&nbsp;
+											</td>
+											<td>
+												&nbsp;
+											</td>
+											<td style="padding-left: 10px; padding-top: 6px;">
+												 <a href="../Login/PasswordReminder.aspx" id="ctl00_ucLogin_a3" class="BlueLinkNoUnderline">Forgot your password?</a>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td align="left">
+									<span id="ctl00_ucLogin_lblLoginMessage"><font color="Red"></font></span>
+								</td>
+							</tr>
+						</tbody></table>
+					
+</div>
+					
+				</div>
+			</div>
+		</td>
+	</tr>
+</tbody></table>
+<input type="submit" name="ctl00$ucLogin$btnClose" value="" id="ctl00_ucLogin_btnClose" class="CloseLoginFormButton" style="visibility: hidden">
+<span class="LoginReturnURLAfterLogin">
+	<input type="hidden" name="ctl00$ucLogin$hidReturnURLAfterLogin" id="ctl00_ucLogin_hidReturnURLAfterLogin" value="http://www.diamonds.net/legal/PrivacyPolicy.aspx">
+</span>
+<span class="LoginLoginURL">
+	<input type="hidden" name="ctl00$ucLogin$hidLoginURL" id="ctl00_ucLogin_hidLoginURL" value="https://www.diamonds.net/Login/CheckLogin.aspx">
+</span>
+							</td>
+						</tr>
+						<tr>
 							<td align="left">
 								<table cellpadding="0" cellspacing="0" border="0" height="100%" width="100%">
 									<tbody><tr>
 										<td valign="top" width="100%" height="100%" cellpadding="0" cellspacing="0">
 											
-											<div id="ctl00_divBanners">
+											<div id="ctl00_divBanners" class="DisplayNoneOnPrint">
 												
 	<table id="ctl00_ContentPlaceHolderBanners_TopBanners1_tblBanners" width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -127,27 +342,25 @@
 											</div>
 											
 											
-											
+											<div class="DisplayNoneOnPrint">
+												
 	
 <script type="text/javascript" language="javascript">
-//this will run on the body onload. This toggles between the Login Logout
-function body_onload()
-{
-	var Value = getCookie('LoginOutCookieName');
-	
-	if(Value == "NOLOGIN" || Value == "")
-	{
-		document.getElementById('divLogin').style.display = "block";
-		document.getElementById('divLogOut').style.display = "none";
-	}
-	else
-	{
-		document.getElementById('divLogin').style.display = "none";
-		document.getElementById('divLogOut').style.display = "block";
-		
-		document.getElementById('tdUserData').innerHTML = Value;
-	}
-}
+//Toggles between the Login Logout
+	$(document).ready(function () {
+		var Value = getCookie('LoginOutCookieName');
+
+		if (Value == "NOLOGIN" || Value == "") {
+			document.getElementById('divLogin').style.display = "block";
+			document.getElementById('divLogOut').style.display = "none";
+		}
+		else {
+			document.getElementById('divLogin').style.display = "none";
+			document.getElementById('divLogOut').style.display = "block";
+
+			document.getElementById('tdUserData').innerHTML = Value;
+		}
+	});
 
 function getCookie(c_name)
 {
@@ -190,7 +403,7 @@ function getCookie(c_name)
 										<a id="ctl00_ContentPlaceHolderTopNavigation_Header1_hplLogin" href="../Login/LoginPage.aspx">Login</a>
 									</td>
 									<td style="border-left: solid 1px #FFFFFF; padding-left: 10px;">
-										<a id="ctl00_ContentPlaceHolderTopNavigation_Header1_hplRegister" href="../Info/Subscribe.aspx">Register</a>
+										<a id="ctl00_ContentPlaceHolderTopNavigation_Header1_hplRegister" href="../subscribe/subscriptions.aspx">Register</a>
 									</td>
 								</tr>
 							</tbody></table>
@@ -246,14 +459,14 @@ function getCookie(c_name)
 												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
 													<tbody><tr>
 														<td align="left">
-															<u>About Us</u><br>
 															<a href="http://www.diamonds.net/cms/about-us.aspx">About Rapaport</a><br>
-															<a href="../PressReleases/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a3">Media Center</a><br>
+															<a href="../MediaCenter/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a3">Media Center</a><br>
 															<a href="../Events/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a4">Rapaport Events</a><br>
 															<a href="http://www.diamonds.net/cms/Rapaport-Conferences.aspx">Rapaport Conferences</a><br>
 															<a href="http://www.diamonds.net/cms/Corporate-Responsibility.aspx">Corporate Responsibility</a><br>
+                                                            <a href="http://www.diamonds.net/cms/careers.aspx">Careers at Rapaport</a><br>
 															<a href="http://www.diamonds.net/fairtrade" target="_blank">Rapaport Fair Trade Website</a><br>
-															<a href="http://www.diamonds.net/Rapaport_AdRates_041210.pdf" target="_blank">Advertise with Rapaport
+															<a href="../advertising/AdvertisingKit.aspx" target="_blank">Advertise with Rapaport
 																(PDF)</a><br>
 															<a href="../RapaportInfoKit.pdf" target="_blank">Rapaport Information
 																Kit (PDF)</a><br>
@@ -274,17 +487,20 @@ function getCookie(c_name)
 												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
 													<tbody><tr>
 														<td align="left">
-															<u>News and Information</u><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-news-and-analysis.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a6">Rapaport News and Analysis</a><br>
+															<span style="color:black;">News and Information</span><br>
+													        <div style="height:1px;width:57%;border:0;background-color:#4C4646;margin:1px 0px 1px 0px;"></div>
+													        <a href="http://www.diamonds.net/cms/products/rapaport-news-and-analysis.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a6">Rapaport News and Analysis</a><br>
 															<a href="http://www.diamonds.net/cms/products/rapaport-tradewire.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a7">Rapaport TradeWire</a><br>
 															<a href="http://www.diamonds.net/cms/products/rapaport-video-broadcasts.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a8">Video Broadcasts</a><br>
 															<a href="http://www.diamonds.net/cms/products/rapaport-calendar.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a9">Rapaport Calendar</a><br>
 															<br>
-															<u>Rapaport Diamond Prices and Magazine</u><br>
+															<span style="color:black;">Rapaport Diamond Prices and Magazine</span><br>
+															<div style="height:1px;width:100%;border:0;background-color:#4C4646;margin:1px 0px 1px 0px;"></div>
 															<a href="http://www.diamonds.net/cms/products/rapaport-price-list.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a10">Rapaport Price List</a><br>
 															<a href="http://www.diamonds.net/cms/products/rapaport-diamond-report.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a12">Rapaport Diamond Report Magazine</a><br>
 															<br>
-															<u>Diamond Trading Services</u><br>
+															<span style="color:black;">Diamond Trading Services</span><br>
+															<div style="height:1px;width:67%;border:0;background-color:#4C4646;margin:1px 0px 1px 0px;"></div>
 															<a href="http://www.diamonds.net/cms/products/rapnet-trading-network.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a13">RapNet Diamond Trading Network</a><br>
 															<a href="http://www.diamonds.net/cms/products/rapnet-tradescreen.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a14">RapNet TradeScreen</a><br>
 															<a href="http://www.diamonds.net/cms/products/rapnet-price-list.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a11">RapNet Price List</a><br>
@@ -293,10 +509,9 @@ function getCookie(c_name)
 																&amp; Import Services</a><br> 
 															<a href="http://www.diamonds.net/cms/products/rapaport-china-services.aspx">China Diamond Import Services</a><br>
 															<br>
-															<u>Diamond Grading Services</u><br>
+															<span style="color:black;">Diamond Grading Services</span><br>
+															<div style="height:1px;width:67%;border:0;background-color:#4C4646;margin:1px 0px 1px 0px;"></div>
 															<a href="http://www.diamonds.net/cms/products/GIA-LabDirect-Services.aspx">GIA LabDirect Services</a><br>
-															<br>
-															<span class="RedStar">*</span> - Requires Membership (<a href="../Info/Subscribe.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A24">Register</a>)
 														</td>
 													</tr>
 												</tbody></table>
@@ -315,16 +530,16 @@ function getCookie(c_name)
 													<tbody><tr>
 														<td align="left">
 															<a href="../news/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a16">Latest News</a><br>
-															<a href="../News/Default.aspx?Type=11" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a17">Video Broadcasts</a><br>
-															<a href="http://www.rapaportdiamondreport.com/">Rapaport Diamond Report Online<span class="RedStar">*</span></a><br>
+															<a href="../video/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a17">Video Broadcasts</a><br>
+															<a href="http://www.rapaportdiamondreport.com/" target="_blank">Rapaport Diamond Report Online<span class="RedStar">*</span></a><br>
 															<a href="../info/calendar.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a34">Rapaport Calendar</a><br>
 															<a href="../TradeWire/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a36">Rapaport TradeWire</a><br>	
-															<a href="../Subscribe/News.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a18">Signup for Free Tradewire &amp;
+															<a href="../Subscribe/Subscription.aspx?ShowSubscription=TradeWire" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a18">Signup for Free Tradewire &amp;
 																Premium News</a><br>
-															<a href="../Subscribe/RDRForm.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a19">Subscribe to the Rapaport
+															<a href="../Subscribe/Subscription.aspx?ShowSubscription=RDR" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a19">Subscribe to the Rapaport
 																Diamond Report</a><br>
 															<br>
-															<span class="RedStar">*</span> - Requires Membership (<a href="../Info/Subscribe.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A2">Register</a>)
+															<span class="RedStar">*</span> - Requires Membership (<a href="../subscribe/subscriptions.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A2">Register</a>)
 														</td>
 													</tr>
 												</tbody></table>
@@ -344,12 +559,12 @@ function getCookie(c_name)
 														<td align="left">
 															<a href="../Prices/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a21">Rapaport Price List - PDF<span class="RedStar">*</span></a><br>
 															<a href="../Prices/RapNet/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a25">RapNet Price List<span class="RedStar">*</span></a><br>
-															<a href="../Subscribe/RDRForm.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a26">Subscribe to the Rapaport
+															<a href="../Subscribe/Subscription.aspx?ShowSubscription=Price_sheet" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a26">Subscribe to the Rapaport
 																Price List</a><br>
 															<a href="http://www.diamonds.net/cms/Price-List-Information.aspx">About
 																Rapaport Price Information</a><br>
 															<br>
-															<span class="RedStar">*</span> - Requires Membership (<a href="../Info/Subscribe.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A22">Register</a>)
+															<span class="RedStar">*</span> - Requires Membership (<a href="../subscribe/subscriptions.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A22">Register</a>)
 														</td>
 													</tr>
 												</tbody></table>
@@ -367,17 +582,17 @@ function getCookie(c_name)
 												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
 													<tbody><tr>
 														<td align="left">
-															<a href="../rapnet.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a28">RapNet Diamond Trading Network<span class="RedStar">*</span></a><br>
+															<a href="http://www.rapnet.com" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a28" target="_blank">RapNet Diamond Trading Network<span class="RedStar">*</span></a><br>
 															<a href="../TradeScreen/GridResults.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a29">RapNet Trade Screen<span class="RedStar">*</span></a><br>
 															<a href="../Prices/RapNet/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a1">RapNet Price List<span class="RedStar">*</span></a><br>
-															<a href="../Auctions/Default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a30">Rapaport Auctions</a><br>
+															<a href="../Auctions/Default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a30" target="_blank">Rapaport Auctions</a><br>
 															<a href="http://www.diamonds.net/cms/products/Rapaport-Trading-Services.aspx">Shipping, Payment, &amp;
 																Import Services</a><br>
 															<a href="http://www.diamonds.net/cms/products/rapaport-china-services.aspx">China Diamond Import Services</a><br>
 															<a href="http://www.diamonds.net/cms/products/GIA-LabDirect-Services.aspx">GIA LabDirect Services</a><br>
-															<a href="../subscribe/Rapnet.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a35">Join RapNet®</a><br>
+															<a href="../Subscribe/Subscription.aspx?ShowSubscription=RapNet" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a35">Join RapNet®</a><br>
 															<br>
-															<span class="RedStar">*</span> - Requires Membership (<a href="../Info/Subscribe.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A23">Register</a>)
+															<span class="RedStar">*</span> - Requires Membership (<a href="../subscribe/subscriptions.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A23">Register</a>)
 														</td>
 													</tr>
 												</tbody></table>
@@ -395,7 +610,7 @@ function getCookie(c_name)
 												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew" width="200">
 													<tbody><tr>
 														<td align="left">
-															<a href="../Zimbabwe/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a32">Zimbabwe Blood Diamonds</a><br>
+															<a href="../Zimbabwe/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a32">Zimbabwe Diamonds</a><br>
 															<a href="../fairtrade/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a33" target="_blank">Rapaport Fair Trade Website</a>
 														</td>
 													</tr>
@@ -441,23 +656,24 @@ function getCookie(c_name)
 	</tr>
 </tbody></table>
 
-
+</div>
 											
 											
+											<div class="DisplayNoneOnPrint">
 											
 	
 
 <table id="Table11" border="0" class="TopTitleDate" style="" width="100%">
 	<tbody><tr>
-		<td width="5">
+		<td width="5"> 
 			&nbsp;
 		</td>
-		<td id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_tdQuickLnk" align="left" valign="middle">
+		<td id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_tdQuickLnk" align="left" valign="middle" width="225">
 			<select name="ctl00$ContentPlaceHolderTopTitleDate$TopTitleDate1$QuickLinks1$ddlQuickLinks" id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_QuickLinks1_ddlQuickLinks" class="comboBox" onchange="ddlQuickLinks_Change(this);">
 	<option value="" class="">--- Quick Links ---</option>
 	<option value="" class="CharcoalCellMid">About Rapaport</option>
 	<option value="http://www.diamonds.net/cms/contact-us.aspx" class="LightGrayCellMid">Contact Us</option>
-	<option value="/Info/Subscribe.aspx" class="LightGrayCellMid">About Our Services</option>
+	<option value="/Info/Subscribe.aspx" class="LightGrayCellMid">Join Rapaport</option>
 	<option value="http://www.diamonds.net/cms/corporate-responsibility.aspx" class="LightGrayCellMid">Corporate Responsibility</option>
 	<option value="" class="LightGrayCellMid"></option>
 	<option value="" class="CharcoalCellMid">Information Services</option>
@@ -476,15 +692,15 @@ function getCookie(c_name)
 	<option value="http://www.diamonds.net/cms/products/rapnet-trading-network.aspx" class="LightGrayCellMid">RapNet</option>
 	<option value="" class="LightGrayCellMid"></option>
 	<option value="" class="CharcoalCellMid">Rapaport Conferences</option>
-	<option value="/conference/2009/" class="LightGrayCellMid">IDC 2009</option>
+	<option value="/conference/2010/" class="LightGrayCellMid">IDC 2010</option>
 	<option value="" class="LightGrayCellMid"></option>
 	<option value="/legal/termsofuse.aspx" class="LightGrayCellMid">Terms of Service</option>
 
 </select>
 		</td>
 
-		<td style="padding-top:5px;" align="center">
-			<span id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1"><font face="Verdana"><a href="#ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=Tud5C-T-2MNAnoJLNcFuGw2&amp;t=633614266284204290" border="0"></a><span><a href="/Default.aspx"><b><font color="#7C6F57">Home</font></b></a></span><span><b><font color="#5D7B9D"> » </font></b></span><span><a href="/legal/Legal.aspx"><b><font color="#000064">Legal Notices</font></b></a></span><span><b><font color="#5D7B9D"> » </font></b></span><span><b><font color="#333333">Diamonds.Net Privacy Policy</font></b></span><a id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1_SkipLink"></a></font></span>
+		<td style="padding-top:5px;" align="left">
+			<span id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1"><font face="Verdana"><a href="#ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=HKlgTWiq6i0FEluFp3EW8_9WN2mivwJMM37sGLG1yBNxKdXpliMCgIsEYOwSDAeOhpEvG_BbvwrDAW4PvK6ilmoM6Po1&amp;t=634234695404327554" border="0"></a><span><a href="/Default.aspx"><b><font color="#7C6F57">Home</font></b></a></span><span><b><font color="#5D7B9D"> » </font></b></span><span><a href="/legal/Legal.aspx"><b><font color="#000064">Legal Notices</font></b></a></span><span><b><font color="#5D7B9D"> » </font></b></span><span><b><font color="#333333">Diamonds.Net Privacy Policy</font></b></span><a id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1_SkipLink"></a></font></span>
 		</td>
 		<!-- <td align="center" valign="middle">
 			<span id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_lblTitle"><b><font face="font-family:Verdana,Arial,Sans Serif;" color="#000064">Privacy Policy</font></b></span>
@@ -497,13 +713,13 @@ function getCookie(c_name)
 	</tr>
 </tbody></table>
 
-
+</div>
 											
 											
 											
 											<table border="0" style="width: 100%" cellpadding="0" cellspacing="0">
 												<tbody><tr>
-													<td valign="top">
+													<td class="DisplayNoneOnPrint" valign="top">
 														
 														
 
@@ -802,7 +1018,7 @@ function getCookie(c_name)
 
 														
 													</td>
-													<td valign="top" align="right">
+													<td class="DisplayNoneOnPrint" valign="top" align="right">
 														
 														
 	<br>
