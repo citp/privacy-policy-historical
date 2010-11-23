@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growingbolder.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114121019id_/http%3A//growingbolder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingbolder.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123151535id_/http%3A//growingbolder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
