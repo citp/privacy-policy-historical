@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102014331id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123170040id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
 
 # Communication training - our privacy policy
 
