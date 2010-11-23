@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409080529id_/http%3A//www.allscripts.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123163420id_/http%3A//www.allscripts.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Allscripts Company Awards for Electronic Health Record Pratice Management and Clinical Software
 
