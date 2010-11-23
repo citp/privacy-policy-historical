@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankfordcandy.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603105235id_/http%3A//frankfordcandy.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankfordcandy.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123110502id_/http%3A//frankfordcandy.com/privacy.shtml) for the most accurate reproduction.*
 
 # 
 
