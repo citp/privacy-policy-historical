@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksor.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211215id_/http%3A//www.clicksor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksor.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123120545id_/http%3A//www.clicksor.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Contextual Advertising and Behavioral Marketing Services
 
