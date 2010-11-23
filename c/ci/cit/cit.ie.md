@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cit.ie privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625060054id_/http%3A//www.cit.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.ie privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123023002id_/http%3A//www.cit.ie/privacy) for the most accurate reproduction.*
 
 # CIT - Cork Institute of Technology - Privacy
 
