@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629152325id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123114506id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Immihelp Privacy Policy
 
