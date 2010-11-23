@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522224203id_/http%3A//elicense.com/privacy-note.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123135142id_/http%3A//www.elicense.com/privacy-note.aspx) for the most accurate reproduction.*
 
 # eLicense - Helping your Business Grow
 
