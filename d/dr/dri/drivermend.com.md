@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507043246id_/http%3A//drivermend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123100310id_/http%3A//drivermend.com/privacy.php) for the most accurate reproduction.*
 
 # Driver Mender - Fast And Effective Driver Solutions
 
@@ -65,4 +65,4 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 #### Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at our [contact page](https://web.archive.org/web/20100507043246id_/http%3A//drivermend.com/contact.php)
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at our [contact page](https://web.archive.org/web/20101123100310id_/http%3A//drivermend.com/contact.php)
