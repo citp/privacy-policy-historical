@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinwebsummit.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610003911id_/http%3A//www.dublinwebsummit.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinwebsummit.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123052624id_/http%3A//www.dublinwebsummit.com/pages/privacy) for the most accurate reproduction.*
 
 # 
 
