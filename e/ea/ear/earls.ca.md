@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earls.ca privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217045739id_/http%3A//www.earls.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earls.ca privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123101729id_/http%3A//www.earls.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Earls.ca
 
 **EARLS RESTAURANTS LTD ONLINE PRIVACY POLICY**
 
