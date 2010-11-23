@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527153740id_/http%3A//wtamu.edu/about/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123033201id_/http%3A//www.wtamu.edu/about/privacy-statement.aspx) for the most accurate reproduction.*
 
 # West Texas A&M University: Privacy Statement
 
@@ -12,12 +12,12 @@ This site contains links to other sites. www.wtamu.edu is not responsible for th
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and unique identifiers (like their social security number). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. Demographic and profile data is also collected at our site. Our online surveys ask visitors for contact information (like their email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. To view our Security Policy, [click here](http://www.wtamu.edu/webres/File/About/Administration/Rules/249999w1_linked.pdf).
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. To view our Security Policy, [click here](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).
 
-Charli Rae Gause  
+Trey Roach  
 web communication manager  
 West Texas A&M University  
 WT Box 60788  
 Canyon, Texas 79016-0001  
-(806) 651-3326  
-[cgause@mail.wtamu.edu](mailto:cgause@mail.wtamu.edu?subject=Privacy%20Statement)
+(806) 651-3325  
+[droach@mail.wtamu.edu](mailto:droach@mail.wtamu.edu?subject=Privacy%20Statement)
