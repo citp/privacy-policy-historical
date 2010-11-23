@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809105812id_/http%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112149id_/http%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PaGaLGuY.com - India's biggest CAT 2009, MBA website
+# Privacy Policy | PaGaLGuY.com - India's biggest website for MBA in India, International MBA, CAT, XAT, SNAP, MAT
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Web pages created or maintained by **Inzane Labs Pvt. Ltd.** without telling us who you are or revealing any Personal Information about yourself.
 
