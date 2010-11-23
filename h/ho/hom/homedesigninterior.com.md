@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedesigninterior.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513210557id_/http%3A//homedesigninterior.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedesigninterior.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123071201id_/http%3A//homedesigninterior.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Interior Designs Inspiration Ideas
 
