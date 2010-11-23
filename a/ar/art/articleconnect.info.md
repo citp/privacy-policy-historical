@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleconnect.info privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502005824id_/http%3A//www.articleconnect.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleconnect.info privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123212336id_/http%3A//www.articleconnect.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Article Connect
 
