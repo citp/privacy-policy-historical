@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the getlatestnews.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516190632id_/http%3A//getlatestnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlatestnews.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124003607id_/http%3A//getlatestnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Get latest News.com | Privacy Policy
-
-## [Privacy Policy](http://getlatestnews.com/privacy-policy/ "Permanent link to Privacy Policy")
+# Privacy Policy
 
 **Privacy Policy for Getlatestnews.com**
 
 The privacy of our visitors in Getlatestnews.com is important to us.
 
-At Newsnidea.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Latest News Online – Newsnidea.com, and how we safeguard your information. We never sell your personal information to third parties.
+At Getlatestnews.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Latest News Online – Getlatestnews.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 Log Files  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
