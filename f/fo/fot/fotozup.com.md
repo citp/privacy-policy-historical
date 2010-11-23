@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotozup.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103122202id_/http%3A//fotozup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotozup.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123101627id_/http%3A//fotozup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | funny pictures at FotozUp.com
 
