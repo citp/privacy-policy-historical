@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edgars.co.za privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619234013id_/http%3A//www.edgars.co.za/Edgars/_Site_Footer/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgars.co.za privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123115433id_/http%3A//www.edgars.co.za/Edgars/_Site_Footer/Privacy_Policy.htm) for the most accurate reproduction.*
 
-# edgars.co.za : Privacy Policy
+# Edgars.co.za : Privacy Policy
 
 **  
 EDCON (PTY) LTD TRADING AS Edgars**
