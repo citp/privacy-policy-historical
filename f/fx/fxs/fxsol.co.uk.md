@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsol.co.uk privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229015614id_/http%3A//www.fxsol.co.uk/documents/policy/privacy-policy-uk.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsol.co.uk privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123140448id_/http%3A//www.fxsol.co.uk/documents/policy/privacy-policy-uk.pdf) for the most accurate reproduction.*
 
 # 
 
