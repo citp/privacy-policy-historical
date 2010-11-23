@@ -1,36 +1,38 @@
-> *The following text is extracted and transformed from the jaxenter.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215160619id_/http%3A//jaxenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaxenter.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123203410id_/http%3A//jaxenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Jaxenter | JAXenter.com
+# Privacy Policy Jaxenter
+
+### Privacy Policy Jaxenter
 
 ### General
 
-When you visit our Website, your name, address,telephone number, email address, and other identifying informationcollected will not be shared without your permission.
+When you visit our Website, your name, address, telephone number, email address, and other identifying information collected will not be shared without your permission.
 
-S&SMedia recognises the importance of protecting information we maycollect from our users. Our policy is to use the information we acquirefrom users through the registration process or through user postings atour sites for internal business purposes only, and we maintainappropriate security measures to keep this information private.
+S&S Media recognizes the importance of protecting information we may collect from our users. Our policy is to use the information we acquire from users through the registration process or through user postings at our sites for internal business purposes only, and we maintain appropriate security measures to keep this information private.
 
 ### Online Surveys
 
-Inorder to improve the user experience at our Website, we may conductoccasional online surveys for our readers. These surveys are voluntaryand you can choose to decline participating in them. Informationcollected through these surveys is anonymous.
+In order to improve the user experience at our Website, we may conduct occasional online surveys for our readers. These surveys are voluntary and you can choose to decline participating in them. Information collected through these surveys is anonymous.
 
 ### Using Information collected
 
-Wedo not sell, trade or rent your information to other parties unless wehave first obtained your consent. Your personal information will beused only for:
+We do not sell, trade or rent your information to other parties unless we have first obtained your consent. Your personal information will beused only for:
 
-  * the purposes you have specifically providedthe information for, such as submitting proposals for articles ornewsletter subscription;
+  * the purposes you have specifically provided the information for, such as submitting proposals for articles or newsletter subscription;
   * sending you email notifications about any new features;
   * enhancing existing features or develop new features, products and services; and
-  * allowing us to personalise the content and advertising based on personal characteristics or preferences.
+  * allowing us to personalize the content and advertising based on personal characteristics or preferences.
 
 
 
 ### Cookies
 
-Theinformation collection process is usually obtained through theinformation provided by your browser and through the use of a cookie. Acookie is a small text file written to your hard drive that containsinformation about you. Cookies do not collect any personal informationregarding the use of your PC or internet browsing in any way. Pleasebear in mind that some features on this Website may not be available ifyou choose to disable cookies.
+The information collection process is usually obtained through the information provided by your browser and through the use of a cookie. A cookie is a small text file written to your hard drive that contains information about you. Cookies do not collect any personal information regarding the use of your PC or internet browsing in any way. Please bear in mind that some features on this Website may not be available if you choose to disable cookies.
 
 ### Policy Modifications
 
-Wereserve the right to change this Privacy Policy at any time and fromtime to time, so visit this page periodically to check for changes. Foradditional information about our Website, please see our Terms of Use.
+We reserve the right to change this Privacy Policy at any time and from time to time, so visit this page periodically to check for changes. For additional information about our Website, please see our Terms of Use.
 
 ### Contact Information
 
-Ifyou would like to review or update your personal information or if youhave any questions on our Privacy Policy, you may contact us at [contact@jaxenter.com](mailto:contact@businesstechnology-india.com).
+If you would like to review or update your personal information or if you have any questions on our Privacy Policy, you may contact us at [info@jaxenter.com](mailto:info@jaxenter.com).
