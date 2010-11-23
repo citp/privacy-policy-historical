@@ -1,65 +1,34 @@
-> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227014125id_/http%3A//www.godeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123093535id_/http%3A//www.godeals.com/policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms and Conditions of goDeals.com
 
-|   
----  
-[](http://www.godeals.com/more.htm)  
-[ ](http://www.anrdoezrs.net/click-1404829-10473491)  
-[ ](http://www.tkqlhce.com/click-1404829-10388150%22)  
-[](http://www.godeals.com/more1.htm)  
-[ ](http://click.linksynergy.com/fs-bin/click?id=4coKEZGhqq0&offerid=57189.10001167&type=4&subid=0)  
-[ ](http://click.linksynergy.com/fs-bin/click?id=4coKEZGhqq0&offerid=81180.10000037&subid=0&type=4)  
-[ ](http://www.kqzyfj.com/click-1404829-10478691)  
-[ ](http://click.linksynergy.com/fs-bin/click?id=4coKEZGhqq0&offerid=125089&subid=0)  
----  
-|  |   
----|---  
-  
-GoDeals.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting any of the sites offered by GoDeals.com, you are accepting the practices described in this Privacy Notice. For question on the Privacy Notice please contact [http://www.godeals.com/contact.html](https://web.archive.org/web/20091227014125id_/http%3A//www.godeals.com/contact.html).What Personal Information About Me Does GoDeals.com Gather?  
+GoDeals.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting any of the sites offered by GoDeals.com, you are accepting the practices described in this Privacy Notice. For question on the Privacy Notice please contact <http://www.godeals.com/contact.html>.
+
+What Personal Information About Me Does GoDeals.com Gather?  
 **Information You Give Us:**  
 We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services, and communicating with you.  
 **Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.What About Cookies?  
-Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences and transactional habits. Cookies help us personalize your experience at the Site by permitting our computer server to "remember" who you are. Cookies cannot be used to run programs or deliver viruses to your computer. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you reject a cookie you may still use our Site; however, your use will be limited in some areas of our Site. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers.Does GoDeals.com Share the Information It Receives?  
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
+
+What About Cookies?  
+Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences and transactional habits. Cookies help us personalize your experience at the Site by permitting our computer server to "remember" who you are. Cookies cannot be used to run programs or deliver viruses to your computer. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you reject a cookie you may still use our Site; however, your use will be limited in some areas of our Site. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers.
+
+Does GoDeals.com Share the Information It Receives?  
 Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent.  
 **\- Advertisers:** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.  
 **\- Partners:** We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.  
 **\- Agents:** We engage other companies and individuals to perform functions on our behalf. Examples include providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to weHow for any secondary purposes.  
 **\- Service Providers:** We engage other companies and individuals to perform enhanced services on our behalf. In addition, certain of our enhanced services require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.  
 **\- Business Transfer:** As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets.  
-**\- Compliance:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply agreements; or protect the rights, property, or safety of weHow, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.How Secure Is Information About Me?  
+**\- Compliance:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply agreements; or protect the rights, property, or safety of weHow, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+How Secure Is Information About Me?  
 We are committed to protecting the security of your Personal Information .We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. We store the Personal Information you provide on computer systems with limited access that are located in secured facilities. We also protect the security of your Personal Information during transmission by of use technology such as firewalls, access control procedures, and Secured Socket Layer (SSL) encryption software... We urge you to use a password to protect your account from unauthorized access by others. If others, including family or household members, access and use the Site through your password, you are responsible for the actions of those individuals. You should always choose to log out before leaving a site or service to protect access to your information from subsequent users.  
 **What about Children’s Privacy?**  
-Children under the age of 14 are not allowed to use the Site. GoDeals.com does not knowingly collect Personal Information about children under the age of 14 or allow them to use the Site. If GoDeals.com learns that a child under the age of 14 is using the Site, GoDeals.com will close the child's account and delete all information collected about the child. Notwithstanding the foregoing, GoDeals.com may choose to retain the child's e-mail address as a means to prevent the child from re-registering with GoDeals.com.Links  
-Sites provided by GoDeals.com contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.Conditions of Use, Notices, and Revisions  
-If you choose to visit GoDeals.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Deals.com, please send us a thorough description at [http://www.godeals.com/contact.html](https://web.archive.org/web/20091227014125id_/http%3A//www.godeals.com/contact.html), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.  
-  
-|  |  |   
----|---|---  
-|  |  | 
+Children under the age of 14 are not allowed to use the Site. GoDeals.com does not knowingly collect Personal Information about children under the age of 14 or allow them to use the Site. If GoDeals.com learns that a child under the age of 14 is using the Site, GoDeals.com will close the child's account and delete all information collected about the child. Notwithstanding the foregoing, GoDeals.com may choose to retain the child's e-mail address as a means to prevent the child from re-registering with GoDeals.com.
 
-[](http://feeds.feedburner.com/godeals)  
-  
----  
-  
-[ ](http://www.godeals.com/rss.aspx) [ ](http://www.godeals.com/rss.aspx)  
-  
-[ ](http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://www.godeals.com/rss.aspx)  
-  
-[ ](http://fusion.google.com/add?feedurl=http://www.godeals.com/rss.aspx)  
-  
-[ ](http://www.bloglines.com/sub/http://www.godeals.com/rss.aspx)  
-  
-[ ](http://feeds.my.aol.com/add.jsp?url=http://www.godeals.com/rss.aspx)  
-  
-[ ](http://technorati.com/faves?add=http://www.godeals.com/rss.aspx)  
-  
-[ ](http://my.msn.com/addtomymsn.armx?id=rss&ut=http://www.godeals.com/rss.aspx&ru=http://www.godeals.com/)  
-  
-[ ](http://us.rd.yahoo.com/my/atm/Go%20Deals/New%20Deals/*http://add.my.yahoo.com/rss?url=http://www.godeals.com/rss.aspx)  
-  
-Subscribe for new deals and coupons alerts by entering your email below:  
-|  |   
-  
----
+Links  
+Sites provided by GoDeals.com contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+Conditions of Use, Notices, and Revisions  
+If you choose to visit GoDeals.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Deals.com, please send us a thorough description at <http://www.godeals.com/contact.html>, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
