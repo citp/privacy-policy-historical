@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantgummybears.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524150326id_/http%3A//giantgummybears.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantgummybears.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123040334id_/http%3A//giantgummybears.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # World's Largest Gummy Bears TM - Privacy Policy
 
@@ -15,7 +15,7 @@
 ---|---  
   
   
-[ ](https://web.archive.org/ "Return Home") | [ ](https://web.archive.org/web/20100524150326id_/http%3A//giantgummybears.com/gummybears.aspx "Products") | [ ](https://web.archive.org/web/20100524150326id_/http%3A//giantgummybears.com/faqs.aspx "FAQs") | [ ](https://web.archive.org/about-us.aspx "About Us") | [ ](https://web.archive.org/contact-us.aspx "Contact Us") | [ ](https://web.archive.org/wholesale.aspx "Wholesale") | [ ](https://web.archive.org/cart.aspx "View Cart and Checkout") |   Items: 0 | Subtotal: $0.00  |    
+[ ](https://web.archive.org/ "Return Home") | [ ](https://web.archive.org/web/20101123040334id_/http%3A//giantgummybears.com/gummybears.aspx "Products") | [ ](https://web.archive.org/web/20101123040334id_/http%3A//giantgummybears.com/faqs.aspx "FAQs") | [ ](https://web.archive.org/about-us.aspx "About Us") | [ ](https://web.archive.org/contact-us.aspx "Contact Us") | [ ](https://web.archive.org/wholesale.aspx "Wholesale") | [ ](https://web.archive.org/cart.aspx "View Cart and Checkout") |   Items: 0 | Subtotal: $0.00  |    
 ---|---|---|---|---|---|---|---|---  
   
 [Home](https://web.archive.org/) > Privacy Policy
