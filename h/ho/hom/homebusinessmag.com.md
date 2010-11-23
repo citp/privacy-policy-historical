@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628152651id_/http%3A//www.homebusinessmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123091325id_/http%3A//homebusinessmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Business - Home Based Business - Work From Home - MLM - Work At Home - Home Business Magazine Online
 
