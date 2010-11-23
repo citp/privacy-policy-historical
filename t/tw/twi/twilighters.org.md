@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twilighters.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612194434id_/http%3A//twilighters.org/site/twilighters-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilighters.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123223449id_/http%3A//twilighters.org/site/twilighters-privacy-policy) for the most accurate reproduction.*
 
-# Twilighters.org Privacy Policy | Twilighters.org | Twilight Fansite For The Obsessed Twilight Saga Fan, Eclipse movie, New Moon Movie, Twilight Eclipse, Trailers, Posters, Cast, News, and MORE!
+# Twilighters.org Privacy Policy | Twilighters.org
 
   
 **Privacy Policy for Twilighters.org**
