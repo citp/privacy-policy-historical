@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131131417id_/http%3A//www.woome.com/woome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123164744id_/http%3A//www.woome.com/woome/privacy) for the most accurate reproduction.*
 
 # WooMe.com | Meet People Live in Voice and Video Online Speed Dating Sessions
 
@@ -20,7 +20,7 @@ You post User Content (as defined in the WooMe Terms of Use) on the Site at your
 
 Any improper collection or misuse of information provided on WooMe is a violation of the WooMe Terms of Service and should be reported to [privacy@woome.com](mailto:privacy@woome.com).
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. WooMe stores this information to send this one-time invitation, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [info@woome.com](mailto:info@woome.com) to request that we remove this information from our database.
+If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend email or instant messages inviting him or her to visit the site. WooMe stores this information to send invitations, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [info@woome.com](mailto:info@woome.com) to request that we remove this information from our database.
 
 WooMe may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the WooMe service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.
 
@@ -61,6 +61,8 @@ WooMe is about sharing information with others — friends and people in your ne
 
 
 When you use WooMe, certain information you post or share with third parties (e.g., a friend or someone in your network), such as personal information, comments, messages, photos, videos, Marketplace listings or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, Marketplace listings or other items , this information may become publicly available.
+
+WooMe will not sell, license or disclose registered users business contact information to third parties for marketing purposes without the registered user's consent. WooMe may occasionally send promotional email messages to registered users on behalf of third party businesses without disclosing registered user information to the third party businesses on whose behalf the promotional emails are sent.
 
 ## Links
 
