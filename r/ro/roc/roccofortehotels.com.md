@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122233003id_/http%3A//www.roccofortehotels.com/footer_items/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123222708id_/http%3A//www.roccofortecollection.com/privacy-policy) for the most accurate reproduction.*
 
-# The Rocco Forte Collection, Luxury Hotels, Restaurants and Spas in key Destinations
+# 
 
 To protect your privacy and personal information, The Rocco Forte Collection confirms that:
 
-  * The Rocco Forte Collection will not loan, rent or sell to any third parties any personal details that have been passed on to us without explicit prior permission.
-  * If you have registered to receive our newsletter your e-mail address is only available to our website hosting provider for the distribution of the newsletter and not forwarded to any other third parties.
-  * Users of the website will not receive any unsolicited e-mail communication from The Rocco Forte Collection.
-  * Personal information provided by you when making a reservation on our website is shared only with our booking (reservations) company to facilitate the process.
-  * Your security is of paramount importance. The Rocco Forte Collection and its partners use recognized, SSL (secure socket layer) encryption technology to safeguard your information.
-  * The Rocco Forte Collection collects no user information from the website except what is required for system administration of the web server. 
-
-
+The Rocco Forte Collection will not loan, rent or sell to any third parties any personal details that have been passed on to us without explicit prior permission.   
+If you have registered to receive our newsletter your e-mail address is only available to our website hosting provider for the distribution of the newsletter and not forwarded to any other third parties.   
+Users of the website will not receive any unsolicited e-mail communication from The Rocco Forte Collection.   
+Personal information provided by you when making a reservation on our website is shared only with our booking (reservations) company to facilitate the process.   
+Your security is of paramount importance. The Rocco Forte Collection and its partners use recognized, SSL (secure socket layer) encryption technology to safeguard your information.   
+The Rocco Forte Collection collects no user information from the website except what is required for system administration of the web server. 
 
 Cookies
 
