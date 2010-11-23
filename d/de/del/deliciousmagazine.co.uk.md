@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624235405id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123052833id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
 
 # Privacy Policy | delicious. Magazine food articles & advice
 
-The publishers of delicious. magazine (Eye to Eye Media Ltd) value your privacy. The personal information you provide through the delicious. website will be held by us in accordance with the Data Protection Act 1998 (the Act). For the purposes of the Act, the data controller is Eye to Eye Media Ltd of Sea Containers House, 20 Upper Ground, London, SE1 9PD.
+The publishers of delicious. magazine ( **[ **Eye to Eye Media Ltd**](http://www.eyetoeyemedia.co.uk/)** ) value your privacy. The personal information you provide through the delicious. website will be held by us in accordance with the Data Protection Act 1998 (the Act). For the purposes of the Act, the data controller is Eye to Eye Media Ltd of Sea Containers House, 20 Upper Ground, London, SE1 9PD.
 
 Please read this Privacy Policy carefully. By visiting this website, you are accepting the terms of this Privacy Policy.
 
@@ -30,12 +30,12 @@ Every email sent by us includes links to unsubscribe from receiving further emai
 **Unsubscribe**  
 Users may always automatically opt-out of receiving emails from us by clicking the unsubscribe link at the end of emails you receive from us.
 
-Users with questions or experiencing problems unsubscribing should email to [webeditor@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
+Users with questions or experiencing problems unsubscribing should email to [**webeditor@deliciousmagazine.co.uk**](mailto:help@deliciousmagazine.co.uk).
 
-If at any time you wish to be removed from our database, simply send an email to [unsubscribe@deliciousmagazine.co.uk](mailto:unsubscribe@deliciousmagazine.co.uk) with “UNSUBSCRIBE” in the subject line.
+If at any time you wish to be removed from our email database, simply send an email to [**unsubscribe@deliciousmagazine.co.uk**](mailto:unsubscribe@deliciousmagazine.co.uk) with “UNSUBSCRIBE” in the subject line.
 
 **Updating your personal information**  
-Users may update their records held by us by writing to you at [webeditor@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
+Users may update their records held by us by writing to  [**webeditor@deliciousmagazine.co.uk**](mailto:help@deliciousmagazine.co.uk).
 
 3. Uses made of your information  
 We use information held about you in the following ways:  
@@ -86,11 +86,11 @@ delicious. magazine takes every precaution to protect users’ information. None
 8. Notification of changes   
 delicious. magazine reserves the right, at its sole discretion, to change, modify or otherwise alter this Privacy Policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the Privacy Policy periodically. Continued use of delicious. magazine following the posting of changes and/or modifications constitutes acceptance of the revised Privacy Policy.
 
-If you have any questions, please contact us at:  
-[webeditor@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk)
+**If you have any questions, please contact us at:  
+**[**webeditor@deliciousmagazine.co.uk**](mailto:help@deliciousmagazine.co.uk)
 
 delicious. magazine is part of:  
-Eye to Eye Media Ltd  
+**[**Eye to Eye Media Ltd**](http://www.eyetoeyemedia.co.uk/)**  
 Erico House  
 93 - 99 Upper Richmond Road  
 London  
