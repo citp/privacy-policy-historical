@@ -1,0 +1,757 @@
+<!--The following is the downloaded HTML source of the glamoo.com privacy policy that was archived on 2010-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123082307id_/http%3A//glamoo.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1"><title>
+	
+    Glamoo | Privacy
+
+</title>
+    <meta name="title" content="Glamoo: The Smart Buying Club">
+    
+    <meta name="description" content="Join our premium members only smart buying club and we’ll send you exclusive discounts every day tailored to what your lifestyle demands with our incredible offers saving you up to 90%">
+    <meta name="keywords" content="Proposta, Coupon, Sconto, Ristoranti, Spa, Bellezza, Bar, Cinema, Roma, Milano"><meta name="robots" content="INDEX,FOLLOW"><link href="App_Themes/default/css/style-EN.css" rel="stylesheet" type="text/css"><link href="App_Themes/default/css/tell_a_friend.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="App_Themes/default/css/style.css"><link rel="shortcut icon" href="App_Themes/default/images/glamoo_favicon.ico">
+  
+    <script type="text/javascript" src="../../Scripts/MicrosoftAjax.js"></script>
+
+    <script src="../../Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="../../App_Themes/default/js/default.js"></script>
+    
+    <script type="text/javascript" src="../../Scripts/MicrosoftMvcAjax.js"></script>
+
+    <script type="text/javascript" src="../../Scripts/swfobject.js"></script>
+
+    <script src="../../Scripts/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script>
+
+    <link href="App_Themes/default/css/ModalSms.css" rel="stylesheet" type="text/css"><link href="App_Themes/default/css/reminderPopup.css" rel="stylesheet" type="text/css">
+    
+   
+    
+    <script src="../../App_Themes/default/js/popup.js" type="text/javascript"></script>
+    
+    <script src="../../Scripts/jquery.cookie.js" type="text/javascript"></script>
+
+    <script src="http://www.google.com/jsapi?key=ABQIAAAAAe9y54eAK0ACmUrdSr8IQRQjBvKdwAr5cT86OdyQ5ShMkAAYSxQQkSk-lCscDb_1Eocw5GXD-ckDXw" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-19260312-1");
+            pageTracker._setDomainName("none");
+            pageTracker._setAllowLinker(true);
+            pageTracker._trackPageview();
+        } catch (err) { }
+
+        var mouse_is_inside = null;
+        var cities = null;
+
+        $(document).ready(function() {
+
+            $('#popup_login').hover(function() {
+                mouse_is_inside = true;
+            }, function() {
+                mouse_is_inside = false;
+            });
+
+            $('.register').hover(function() {
+                mouse_is_inside = true;
+            }, function() {
+                mouse_is_inside = false;
+            });
+
+            $('#popup_register').hover(function() {
+                mouse_is_inside = true;
+            }, function() {
+                mouse_is_inside = false;
+                cities = false;
+            });
+
+            $(document).mouseup(function() {
+                if (!mouse_is_inside) $('#popup_login').slideUp();
+            });
+
+            $(document).mouseup(function() {
+                if (!mouse_is_inside && !cities) $('#popup_register').slideUp();
+            });
+
+            $('#cmbCountries').mousedown(function() {
+                cities = true;
+            });
+            $('#cmbCities').mousedown(function() {
+                cities = true;
+            });
+
+            $("#dialogMerchant").dialog({
+                autoOpen: false,
+                modal: true,
+                height: '600',
+                width: '350px'
+            });
+
+            $("#dialogThanks").dialog({
+                autoOpen: false,
+                modal: true,
+                height: '150',
+                width: '300px'
+            });
+
+            $("#advise_merchant").click(function() {
+                $("#dialogMerchant").dialog('open');
+            });
+
+            $(".container_remindme").click(function() {
+                centerPopup();
+                loadPopup();
+            });
+
+            $("#popupContactClose").click(function() {
+                disablePopup();
+            });
+            //evento click
+            $("#backgroundPopup").click(function() {
+                disablePopup();
+            });
+            //tasto esc
+            $(document).keypress(function(e) {
+                if (e.keyCode == 27 && popupStatus == 1) {
+                    disablePopup();
+                }
+            });
+        });
+            
+    </script>
+</head>
+<body>
+
+
+
+    <script>
+        jQuery.preLoadImages("../../App_Themes/default/images/dettaglio_uk_rollover.jpg", "../../App_Themes/default/images/compraora_uk_rollover.jpg", "../../App_Themes/default/images/categories/dettaglio_uk_rollover.png");
+    </script>
+    
+ <div id="wrapper">
+
+        <div id="header">
+            <div id="header_left">
+            </div>
+            <div id="header_bg">
+                <div id="logo">
+                    
+                    <a href="/"><img src="../../App_Themes/default/images/logo.jpg" alt="glamoo"></a>
+                    
+                </div>
+                 
+<div id="header_bg_right">
+    <div id="fb-root">
+    <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+    
+    <div class="signincontainer">
+
+        <script type="text/javascript">
+            function removeinput(x) {
+                if (x.value == 'Email' || x.value == 'Password') {
+                    x.value = '';
+                }
+            }
+
+            //            $("div").filter("#container").click(function() {
+            //                $(".gk_popup").hide();
+            //                $(".gk_popup2").hide();
+            //            });
+            
+            
+        </script>
+
+        
+        
+        <div id="header_bg_right_top">
+            
+
+            <script type="text/javascript">
+                window.fbAsyncInit = function() {
+                    FB.init({ appId: '121871634529617', status: true, cookie: true, xfbml: true });
+                    //FB.Event.subscribe('auth.login', function(response) { window.location.href = '/Security/FbSignIn' });
+                    FB.Event.subscribe('auth.logout', function(response) { window.location.href = '/Security/SignOut'/*document.location.href = '/logout'*/ });
+                };
+                (function() {
+                    var e = document.createElement('script');
+                    e.type = 'text/javascript';
+                    if ("en-US" == ("it-IT")) {
+                        e.src = document.location.protocol +
+                          '//connect.facebook.net/it_IT/all.js';
+                    }
+                    else {
+                        e.src = document.location.protocol +
+                          '//connect.facebook.net/en_US/all.js';
+                    }
+                    e.async = true;
+                    document.getElementById('fb-root').appendChild(e);
+                } ());
+            </script>
+
+            <div id="header_bg_right_top_left">
+                
+            <a href="#" class="register" onclick="javascript:$('.gk_popup').slideToggle('slow');$('.gk_popup2').hide();">
+                Glamoo Login</a> <span class="not_member">
+                    New on Glamoo?</span> <a href="#" class="register" onclick="javascript:$('.gk_popup2').slideToggle('slow');$('.gk_popup').hide();">
+                        Sign Up</a>
+        </div>
+        
+        <div id="header_bg_right_top_right">
+            <div style="float: right;">
+                
+                <fb:login-button onlogin="window.location.href = '/Security/FbSignIn'" perms="email,publish_stream,offline_access,read_stream,user_birthday,user_about_me,user_location,user_hometown,friends_birthday,user_hometown,read_mailbox,manage_pages,friends_photos">Facebook Login</fb:login-button>
+                
+            </div>
+        </div>
+        
+    </div>
+    <div id="header_bg_right_bot">
+        
+        
+            <div class="gk_popup" id="popup_login" style="display: none; position: absolute;
+                height: auto; width: 230px; left: 591px; top: 46px; background-color: #696969;
+                z-index: 20;">
+                
+                <div class="gk_popup_wrap" style="background-color: #FFFFFF; margin: 10px">
+                    <div class="mod_login" style="padding: 5px;">
+                        <input id="login_click" type="hidden" value="0">
+                        <form action="/Security" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, updateTargetId: 'pnlTargetHP' });">
+                        <p style="margin: 10px; display: block; height: 45px;">
+                            <span class="txt_login">Username </span><span id="errorUserNameHP" class="errorMsgBill" style="float: right"></span>
+                            <br>
+                            <input id="userNameHP" maxlength="160" name="userNameHP" onfocus="removeinput(this);" tabindex="1" type="text" value="Email">
+                        </p>
+                        <p style="margin: 10px; display: block; height: 45px;">
+                            <label for="passwordHP" class="txt_login">
+                                Password <span id="errorPasswordHP" class="errorMsgBill" style="float: right"></span>
+                            </label>
+                            <br>
+                            <input id="passwordHP" maxlength="40" name="passwordHP" onfocus="removeinput(this);" tabindex="2" type="password" value="Password">
+                        </p>
+                        <p style="margin: 10px; height: 20px; width: 200px">
+                            
+                            <input type="submit" name="login" value="Login" class="btn_login" tabindex="3">
+                            
+                        </p>
+                        <p style="margin: 10px; padding-top: 2px">
+                            <input id="rememberMeHP" name="rememberMeHP" type="checkbox" value="true"><input name="rememberMeHP" type="hidden" value="false">
+                            <label for="rememberMeHP">
+                                Remember me
+                            </label>
+                        </p>
+                        <p style="margin: 10px;">
+                            <a href="/ForgotPassword">
+                                Forgot your password?</a>
+                        </p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            
+                <div class="gk_popup2" id="popup_register" style="display: none; position: absolute;
+                    height: auto; width: 300px; left: 591px; top: 46px; background-color: #696969;
+                    z-index: 20;">
+                    
+                    <div class="gk_popup_wrap" style="background-color: #FFFFFF; margin: 10px">
+                        <div class="mod_register">
+                        
+                            <div id="s_form">
+                            <form action="/SignUp" method="post">
+                                <div>
+                                    <div class="box_register">
+                                        <input id="register_click" type="hidden" value="0">
+                                        <div>
+                                            <a>
+                                                First Name</a>
+                                        </div>
+                                        <div class="register-popup">
+                                            <input id="txtFirstName" name="txtFirstName" type="text" value="">
+                                            <span id="errorFirstName" style="padding: 5px;" class="errorMsgBillLeft"></span>
+                                        </div>
+                                    </div>
+                                    <div class="box_register">
+                                        <div>
+                                            <a>
+                                                Last Name</a></div>
+                                        <div class="register-popup">
+                                            <input id="txtLastName" name="txtLastName" type="text" value=""></div>
+                                    </div>
+                                    <div class="box_register">
+                                        <div>
+                                            <a>
+                                                Int. Prefix</a></div>
+                                        <div class="register-popup">
+                                            <input id="txtMobilePrefix" name="txtMobilePrefix" style="width: 50px" type="text" value="">
+                                        </div>
+                                    </div>
+                                    <div class="box_register">
+                                        <div>
+                                            <a>
+                                                Mobile</a> <span id="errorMobile" class="errorMsgBillLeft" style="padding: 5px;"></span>
+                                        </div>
+                                        <div class="register-popup">
+                                            <input id="txtMobileNumber" name="txtMobileNumber" type="text" value=""></div>
+                                    </div>
+                                    <div class="box_register">
+                                        <div>
+                                            <a>
+                                                E-mail*</a> <span id="errorEmail" class="errorMsgBillLeft" style="padding: 5px;"></span>
+                                        </div>
+                                        <div class="register-popup">
+                                            <input id="txtEmail" name="txtEmail" type="text" value="">
+                                        </div>
+                                    </div>
+                                    <div class="box_register">
+                                        <div>
+                                            <a>
+                                                Password
+                                                *</a> <span id="errorPassword" class="errorMsgBillLeft" style="padding: 5px;">
+                                            </span>
+                                        </div>
+                                        <div class="register-popup">
+                                            <input id="txtPassword" name="txtPassword" type="password" value="">
+                                        </div>
+                                    </div>
+                                    <div class="box_register">
+                                        <div>
+                                            <a>
+                                                Password(confirm)*</a></div>
+                                        <div class="register-popup">
+                                            <input id="txtPasswordConfirm" name="txtPasswordConfirm" type="password" value="">
+                                        </div>
+                                    </div>
+                                    <div class="box_register" style="height: 41px">
+                                        <div>
+                                            <a>
+                                                Country of Residence*</a> <span id="errorCountry" style="padding: 5px;" class="errorMsgBillLeft"></span>
+                                        </div>
+                                        <div style="padding-top: 2px;">
+                                            <select id="cmbCountries" name="cmbCountries" onchange="javascript: cities = true;getCitiesList(this.options[this.selectedIndex].value);"><option value="0">[Select]</option>
+<option value="1">Italy</option>
+<option value="2">United Kingdom</option>
+</select>
+                                        </div>
+                                    </div>
+                                    <div class="box_register" id="cmbCitiesdiv" style="height: 45px">
+                                        <div>
+                                            <a>
+                                                City of Residence* </a><span id="errorCity" class="errorMsgBillLeft" style="padding: 5px;"></span>
+                                        </div>
+                                        <div>
+                                            <div id="pnlCityList">
+                                                <select id="cmbCities" name="cmbCities" onchange="cities = true;" onmousedown="cities = true;" style="width:206px"><option value="0">[Select]</option>
+</select>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="box_register" style="height: 22px;">
+                                    
+                                        <div>
+                                            <input id="chkAccept" name="chkAccept" style="margin:0px;" type="checkbox" value="true"><input name="chkAccept" type="hidden" value="false">
+                                            <a href="/privacy">
+                                                I accept the privacy policy</a> <span id="errorAccept" class="errorMsgBill" style="padding: 5px;"></span>
+                                        </div>
+                                        
+                                    </div>                                    
+                                </div>
+                                <div class="box_register" style="height: 20px; width: 250px">
+                                    <div style="float: left;">
+                                        <span>*
+                                            required</span>
+                                    </div>
+                                    <div style="float: left; margin-left: 40px;">
+                                        <input type="submit" value="" id="Submit1" class="submit_register_home">
+                                    </div>
+                                    <div class="clear">
+                                    </div>
+                                </div>
+                                <div>
+                                    
+                                    
+                                    <div class="">
+                                    </div>
+                                    <form action="/Buy/CityCmb" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, updateTargetId: 'pnlCityList' });"><input id="selectedCountry" name="selectedCountry" type="hidden" value="0">
+                                    <input id="getByCountry" style="display: none" type="submit">
+                                    </form>
+                                </div></form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <div style="display: none;" id="dialogMerchant" title="
+        Began partner
+      ">
+                        <div class="gp_box_int" style="width: auto;">
+                            <div class="mod_register">
+                                <div id="Div1">
+                                    <form action="/AdMerchant/AdviseMe" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, updateTargetId: 'AdMerchantTarget' });">
+                                    <div>
+                                        <div class="box_register_merchant">
+                                            <input id="Hidden2" type="hidden" value="0">
+                                            <div>
+                                                <a>
+                                                    First Name</a><span id="errorFirstNameMerchant" style="padding: 0px;" class="errorMsgBillLeft"></span>
+                                            </div>
+                                            <div class="register-popup">
+                                                <input id="txtFirstName" name="txtFirstName" type="text" value="">
+                                            </div>
+                                        </div>
+                                        <div class="box_register_merchant">
+                                            <div>
+                                                <a>
+                                                    Last Name</a><span id="errorLastNameMerchant" class="errorMsgBillLeft" style="padding: 0px;"></span></div>
+                                            <div class="register-popup">
+                                                <input id="txtLastName" name="txtLastName" type="text" value=""></div>
+                                        </div>
+                                        <div class="box_register_merchant">
+                                            <div>
+                                                <a>
+                                                    Mobile</a> <span id="errorMobileMerchant" class="errorMsgBillLeft" style="padding: 0px;"></span>
+                                            </div>
+                                            <div class="register-popup">
+                                                <input id="txtMobileNumber" name="txtMobileNumber" type="text" value=""></div>
+                                        </div>
+                                        <div class="box_register_merchant">
+                                            <div>
+                                                <a>
+                                                    E-mail*</a> <span id="errorEmailMerchant" class="errorMsgBillLeft" style="padding: 0px;"></span>
+                                            </div>
+                                            <div class="register-popup">
+                                                <input id="txtEmail" name="txtEmail" type="text" value="">
+                                            </div>
+                                        </div>
+                                        <div class="box_register_merchant">
+                                            <div>
+                                                <a>
+                                                    Web Site</a>
+                                            </div>
+                                            <div class="register-popup">
+                                                <input id="txtWebSite" name="txtWebSite" type="text" value="">
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="box_register_merchant" id="Div2" style="height: 45px">
+                                            <div>
+                                                <a>
+                                                    City of Residence* </a><span id="errorCityMerchant" class="errorMsgBillLeft" style="padding: 0px;"></span>
+                                            </div>
+                                            <div>
+                                                <div id="CityListMerchant">
+                                                    <select id="siteCities" name="siteCities" style="width:206px; height:21px;"><option value="0">[Select]</option>
+<option value="3">London</option>
+<option value="6">Birmingham</option>
+<option value="7">Liverpool</option>
+<option value="8">Manchester</option>
+<option value="29">National deals</option>
+<option value="30">CitiesBox</option>
+</select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="box_register_merchant" style="height: 41px">
+                                            <div>
+                                                <a>
+                                                    Categories</a>
+                                            </div>
+                                            <div style="padding-top: 2px;">
+                                                <select id="categories" name="categories" style="width:206px; height:21px;"><option value="0">[Select]</option>
+<option value="1">Fashion &amp; Accessories</option>
+<option value="2">Eating &amp; Dining</option>
+<option value="3">Health &amp; Beauty</option>
+<option value="5">Events &amp; Culture</option>
+<option value="6">Electronics &amp; Gadgets</option>
+<option value="8">Activities &amp; Experiences</option>
+<option value="10">Home &amp; Design</option>
+<option value="12">Bars &amp; Clubs</option>
+<option value="13">Day-to-Day Essentials</option>
+<option value="14">Travel &amp; Extras</option>
+<option value="27">Shortlisted</option>
+<option value="28">Uncategorised</option>
+</select>
+                                            </div>
+                                        </div>
+                                        <div class="box_register_merchant" style="height: 130px; width: 300px;">
+                                            <div>
+                                                <a>
+                                                    Offer Description</a><span id="errorDescriptionMerchant" style="padding: 0px;" class="errorMsgBillLeft"></span></div>
+                                            <div class="register-popup">
+                                                <textarea cols="20" id="txtMerchantDescription" name="txtMerchantDescription" rows="2" style="width: 300px; height:100px;"></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="box_register_merchant" style="height: 22px;">
+                                            <div>
+                                                <input id="chkAccept" name="chkAccept" style="margin:0px;" type="checkbox" value="true"><input name="chkAccept" type="hidden" value="false">
+                                                <a href="/privacy">
+                                                    I accept the privacy policy</a>
+                                            </div>                                            
+                                        </div>
+                                    </div>
+                                    <div class="box_register_merchant" style="height: 20px; width: 300px">
+                                        <div style="float: left;">
+                                            <span>*
+                                                required</span> <span id="errorAcceptMerchant" class="errorMsgBill" style="float: right"></span>
+                                        </div>
+                                        <div class="clear">
+                                        </div>
+                                    </div>
+                                    <div class="box_register_merchant" style="height: 20px; width: 300px">
+                                        <div style="float: right; margin-left: 80px;">
+                                            <input type="submit" value="" id="Submit3" class="submit_register_home">
+                                        </div>
+                                        <div class="clear">
+                                        </div>
+                                    </div>
+                                    <div>
+                                        
+                                        
+                                        <div id="AdMerchantTarget">
+                                        </div>
+                                        <form action="/Buy/CityCmbMerchant" method="post" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, updateTargetId: 'CityListMerchant' });"><input id="selectedCountryMerchant" name="selectedCountryMerchant" type="hidden" value="0">
+                                        <input id="getByCountryMerchant" style="display: none" type="submit">
+                                        </form>
+                                    </div></form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="dialogThanks" style="display: none;" title="Thank You">
+                        <div style="padding: 10px;">
+                            We are really grateful for your advise. You are being contacted as soon as possible.</div>
+                    </div>
+                </div>
+                <div id="pnlTargetHP" style="display: none">
+                </div>
+                <div id="pnlTarget2HP" style="display: none">
+                </div>
+            </div>
+            
+        </div>
+
+              
+            </div>
+            <div id="header_right">
+            </div>
+        </div>
+        <div id="navigation">
+            <div id="nav_left">
+            </div>
+            <div id="nav_bg">
+                <ul>
+                    
+                    <li class="nobg"><a href="/">Home</a></li>
+                    
+                    
+                    <li class="nobg"><a href="/GlamooGems">
+                        Gems</a></li>
+                    
+                    <li class="nobg"><a href="/GlamooPass">
+                        G-Pass</a></li>
+                    
+                    <li class="nobg"><a href="http://www.theglamoopaper.com" target="_blank">
+                        The Glamoo Paper</a></li>
+                    
+                    <li class="nobg"><a href="/press">
+                        Press</a></li>
+                    
+                    <!--                
+                       -->
+                    
+                    
+                </ul>
+                
+
+<script type="text/javascript">
+    function goToCity()
+    {
+        var citycombo = document.getElementById("cityCombo");
+        var idcity = citycombo.options[citycombo.selectedIndex].value
+        var url="/?cityId="+idcity;
+        window.location = url;
+    }  
+    
+    function loadCurrentCity()
+    {
+        var idCity = document.getElementById("textCityID").value;
+        var citycombo = document.getElementById("cityCombo");
+        var iCity=0;
+        var found = false;
+        for(iCity=0; iCity<citycombo.options.length && !found; iCity++)
+        {
+            if(idCity == citycombo.options[iCity].value)
+            {
+                 found = true;
+                 citycombo.selectedIndex=iCity; 
+            }
+        }     
+    }  
+</script>
+
+<input id="textCityID" type="hidden" value="3">
+
+				<div id="option_box">
+				<span>Select city</span>
+				   <select id="cityCombo" onchange="goToCity();">
+	<option value="3">London</option>
+	<option value="6">Birmingham</option>
+	<option value="7">Liverpool</option>
+	<option value="8">Manchester</option>
+	<option value="29">Other Cities</option>
+</select>
+				
+				</div>								
+<img style="display:none;" alt="" src="/App_Themes/default/images/nullimage.jpg" onload="loadCurrentCity();">
+            </div>
+            <div id="nav_right">
+            </div>
+       </div>
+        
+   
+	<div id="container">
+		<div id="container_top"></div>
+		<div id="container_bg">	
+            <div id="cms">		
+		        <div id="cms-header">
+          	        <div id="cms-h-left"></div>
+                    <div id="gems-h-middle"><div>Privacy</div></div>
+                    <div id="cms-h-right"></div>
+		        </div>
+                <div id="cms-content">
+          	        <div id="cms-left">
+                        <div id="cms-l-top"></div>
+                        <div id="cms-l-middle"> 
+                            <div id="cms-body">
+                                 <style>
+
+	p.faq_title {
+	font-family: Arial; size: 10pt; 
+	font-weight: bold; 
+	color:#00a77e;
+}
+p.faq_body  {
+	font-family: Arial; 
+	size: 10pt;
+}
+li span  {
+font-family: Arial; size: 10pt; 
+	font-weight: bold; 
+	color:#00a77e;
+}</style><p class="faq_body">The privacy of all Glamoo members is critical and Glamoo Ltd is committed to protecting your privacy. <br><br>This "Privacy Policy" outlines how we treat information we collect when you visit <a href="www.glamoo.com">Glamoo.com</a> and/or register. Please read this policy carefully and feel free to ask any questions by calling us on 0333 5776 0001 or by writing an email to <a href="mailto:info@glamoo.com">info@glamoo.com</a>. <br><br>This Privacy Policy applies to all products, services and websites offered by Glamoo Ltd. By using and accessing <a href="www.glamoo.com">www.glamoo.com</a> you accept the practices described in this "Privacy Policy". We may change this Privacy Policy at any time and without notice by posting a new Privacy Policy on the website. <br><br></p><ol style="FONT-FAMILY: arial"><li><span>Use of Collected Information</span> <br>Two types of information are collected about our website users or members: Personally Identifiable Information and Non-Personally Identifiable Information. </li><li><span>Personally Identifiable Information</span> <br>Personally Identifiable Information relates to information identifying a specific Glamoo.com End User. Whatever optional Identification-activity is performed on the Website (creating an account, ordering a product or service, applying for a job, submitting content, posting content or review, sending us or our Partners feedback, requesting information, submitting an agreement, posting a video or signing up for offers), we may ask You to provide certain information about Yourself, such as your first and last name, mailing address, including zip/post code, Email address, mobile and/or telephone number, date of birth, city of residence and Country. Where You order products or services, we may also ask you to provide us with Your credit card number, expiry date and authentication codes or any other related information so your transaction is successful. Some of the information we will ask You to provide is mandatory and some optional. If You do not provide the mandatory information for a particular activity that requires it, You will not be allowed to conduct that activity. <br><br>We use Personally Identifiable Information to provide products and services to You, administer operations of the Website, organize marketing activities, analyze Website data principally to improve our product and service offerings. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, comply with applicable law, and cooperate with law enforcement activities or to contact You to maintain your account and receive the best service from Glamoo. </li><li><span>Non-Personally Identifiable Information</span> <br>This type of information does not identify a specific Glamoo.com End User and may include things like the Uniform Resource Locator ("URL") of the website You visited before coming to our Website, the URL of the website You visit after leaving our Website, the type of browser being used and Your Internet Protocol ("IP") address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools such as Cookies. <br><br>We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information. We may also share this information with our authorized Third-Party Service Providers and Advertisers to measure efficiency and effectiveness of our online advertising, content, and operations. </li><li><span>How We Use Your Email Address</span> <br>When You sign up to Glamoo for specific local offers, or other service/ promotion requiring registration, You will be asked to provide Us with a valid email address. We will only use Your email address to contact You as part of the transaction process, to send newsletters you are subscribed to, or to enhance Your Glamoo user experience. We may also occasionally contact You to feedback on a specific deal. We will not share your contact information with third parties unless You have opted-in to receiving communications from those third parties. </li><li><span>Opt-out</span> <br>Glamoo will generally allow You to choose to not receive certain types of email communication from us, except for those that are absolutely necessary. Emails will generally contain a link at the bottom to be removed from our mailing list. </li><li><span>How We Use Your Name</span> <br>When purchasing a voucher, You may be required to provide the full name of the person who will use it, whether that will be You or the person who will receive the voucher as a gift. We will only share this name with the Merchant listed on that voucher. Your full name may be used by the merchant for the purposes of verifying that the voucher is valid. We will also collect your full name during the checkout process to verify Your credit card payment info. When signing up for our mailing lists, a Glamoo account, or other promotions or services requiring registration, You may also provide your name at that time so we can personalize communications You receive from us. </li><li><span>How We Use Your Financial Information</span> <br>For certain services, such as merchant deals, we also require credit card or other payment account information which is encrypted and communicated to secure servers PCI-DSS compliant. We do not share this information with any third party whatsoever except for those companies responsible for processing credit card transactions for us. Financial information are not stored on Glamoo websites to any extent. We limit ourself to transmitting securely user's financial information. </li><li><span>Cookies</span> <br>Like most sites, Glamoo uses browser "cookies". Cookies are small text files placed on Your computer's hard disk by our server. They allow us to quickly check your status as a subscriber and facilitate access to your preferences. </li><li><span>Your IP Address</span> <br>We may occasionally collect and store Your IP address. This helps us diagnose problems with our servers, administer our site, gather non-personal information about our users but most importantly detect and prevent fraudulent activity. It does not identify You personally in any way. </li><li><span>Information sharing</span> <br>Glamoo only shares personal information with other companies or individuals in the following limited circumstances: We have Your explicit consent; We believe in good faith that access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request; enforce applicable "Terms of Service", including investigation of potential violations thereof; detect, prevent, or otherwise address fraud, security or technical issues; or protect against harm to the rights, property or safety of Glamoo, its users or the public as required and/ or permitted by law. <br><br>We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. Although we take reasonable steps to ensure all data we use is accurate, we depend on our users to update or correct their personal information whenever necessary. <br><br>Glamoo may also collect non-personal, aggregated information about subscribers' use of our site. This information is not personally identifiable and will only be used to find out how visitors to our site use our service. We may share this data with third parties in an aggregated, non-personal form. Such information does not identify You individually. </li><li><span>Security</span> <br>We take security very seriously. We use secure server software, known as an SSL certificate, so sensitive personal and financial information is encrypted. All of our third party partners use similar technology to ensure that your information is secure. </li><li><span>Under the age of 18</span> <br>We do not collect or maintain information from anyone known to be under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Glamoo does not sell products for purchase by children. In certain instances, we sell children's products or services for purchase by adults. If You are under 18, You may use Glamoo only with the presence of a parent or guardian. </li><li><span>How We Use Your Demographic Information</span> <br>We occasionally collect demographic data, such as zip code, gender, and occupation. Providing this information is typically optional but helps us bring You the best deals possible. We use this data to help determine which deals our users would most appreciate. We may also share this data with third parties, such as merchants featured on our site, but only in aggregate. No third party will be able to trace Your personal demographic information back to you unless You have given your permission to do so. </li><li><span>How we use information collected from third-party sources</span> <br>At various times on Glamoo.com, You will be able to easily share our content with your Facebook contacts and other social networking sites. We do not view or store lists of your friends, nor do we view or store the specific messages that you send to your friends. However, we may record the number of times that particular content has been shared. </li><li><span>Links to other websites</span> <br><a href="www.glamoo.com">Glamoo.com</a> may contain links to other websites: no responsibility is taken for the privacy practices of third parties or the content of these websites. </li></ol>
+                            </div>
+				        </div> <div id="cms-l-bottom"></div>
+                    </div>
+                    <div id="cms-right">
+                        
+<div id="right-middle">
+    <div class="detail-head">
+        <div>
+            From Glamoo with love</div>
+    </div>
+    <form action="/Control/DailyAlerts" method="post" name="dailyAlerts" onclick="Sys.Mvc.AsyncForm.handleClick(this, new Sys.UI.DomEvent(event));" onsubmit="Sys.Mvc.AsyncForm.handleSubmit(this, new Sys.UI.DomEvent(event), { insertionMode: Sys.Mvc.InsertionMode.replace, updateTargetId: 'errorMsg' });">
+    <div class="detail-center_daily">
+                Sign up to our daily Glamoo newsletter for free. Be the first to know about our premium offers, our ongoing lifestyle offers and cash in on exclusive promotions for our newsletter subscribers.
+                <label style="text-align: left; float: left;">
+                    Your email address:</label>
+                <input id="txtEmail" name="txtEmail" size="23" type="text" value="">
+                <a href="#" onclick="javascript:document.getElementById('btndailyAlerts').click();return false;">
+                    <img class="gap" alt="ar" border="0" src="../App_Themes/default/images/gems/box_arro.png" width="9" height="21"></a>
+                        <input style="display: none;" value="" id="btndailyAlerts" type="submit">
+        <span style="color: #C11B17;" id="errorMsg"></span>
+    </div>
+    <div class="detail-footer">
+    </div>
+</form></div>
+
+<div id="right-top">
+    <fb:like-box profile_id="356319912642" width="220px" connections="8" stream="false" header="false" footer="false"></fb:like-box>
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="container_bottom"></div>
+    </div>
+    <script>
+        var cl_evo = gup('fase');
+       // var cl_evo = 'acquisto';
+    </script>
+  
+
+        
+        
+        <div id="footer">
+            <div id="footer_left">
+            </div>
+            <div id="footer_bg">
+                <p>
+                    <a href="/faq">
+                        FAQ
+                    </a>· 
+                    
+                    <a href="/work-with-us">
+                        Work With Us
+                    </a>·
+                    
+                    
+                    <a href="/privacy">
+                        Privacy
+                    </a>· <a href="/terms">
+                        Terms
+                    </a>
+                    
+					
+                    <a href="/about">
+                        ·About
+                    </a>
+                    
+                        <span id="phonenumber" style="position: relative; float: right; padding-right: 20px; font-weight: bold; color: #00A77E;">                                                          
+                            Contact us<label>
+                                <img src="../App_Themes/default/images/phone.jpg" alt="phone"></label>
+                            <label>
+                                0333 5776 001</label>
+                    </span> 
+                    
+                    
+                </p>
+                
+                      <span style="position: relative; padding-left: 43px; color:#999999; text-align:center">
+                    Glamoo Ltd - all rights reserved
+                </span>
+                
+                      
+            </div>
+            <div id="footer_right">
+            </div>
+             
+        </div>
+    
+        
+   
+    </div>
+    
+    <!-- Inizio Codice Conversion Lab -->
+
+    <script language="JavaScript" type="text/javascript">
+        var us = '10951b5085b23719d1e4dab78b140dbb2'; 
+    </script>
+
+    <script language="JavaScript" src="http://conversionlab.trackset.com/track/tsend.js" type="text/javascript"></script>
+
+    <noscript>
+        <a href="http://www.trackset.it/">
+            <img alt="Web Analytics" src="http://conversionlab.trackset.com/track/cl.gif?md5=10951b5085b23719d1e4dab78b140dbb" />
+        </a>
+    </noscript>
+    <!-- Fine Codice Conversion Lab -->
+    
+
+
+</body></html>
