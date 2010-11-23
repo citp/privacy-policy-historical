@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101131906id_/http%3A//www.hsbcprivatebank.com/misc/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123103636id_/http%3A//www.hsbcprivatebank.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement - HSBC Private Bank - Privacy statement
 
@@ -12,16 +12,19 @@ HSBC Private Bank provides financial products and services through its affiliate
 
 In these provisions:
 
-  * ‘ **Content** ’ means all pages, screens, information and materials included in or accessible through this Site (including any content available on any email or SMS services)
-  * ‘ **you** ’, ‘ **your** ’ and ‘ **yours** ’ means you, the person(s) accessing this Site and the party on whose behalf you are doing so
-  * ‘ **we** ’, ‘ **us** ’ and ‘ **our** ’ means **HSBC Private Bank (UK) Limited**  
+| 
 
+  * **‘Content’** means all pages, screens, information and materials included in or accessible through this Site (including any content available on any email or SMS services)
+  * ‘ **you** ’, ‘ **your** ’ and ‘ **yours** ’ means you, the person(s) accessing this Site and the party on whose behalf you are doing so
+  * ‘ **we** ’, ‘ **us** ’ and ‘ **our** ’ means **HSBC Private Bank (UK) Limited**
   * ‘ **HSBC Group** ’ means HSBC Holdings plc, its subsidiaries and associated companies from time to time
 
-
-
- **Data protection  
-** Please note that pursuant to any applicable data protection laws in each jurisdiction (including, without limitation, the European Data Protection Directive 1995 (the " **Directive** ") and any national laws implementing the Directive), we are obliged to inform you that any personal information (for the purposes of the Directive this shall mean "Personal Data" as that term is defined in the Directive) (hereinafter " **Personal Data** ") may be disclosed, processed and transferred by us and other members of the HSBC Group on a worldwide basis for the purposes of providing services to the customers whom you represent and/or for servicing our relationship with them or you.
+  
+  
+---|---  
+  
+**Data protection**  
+Please note that pursuant to any applicable data protection laws in each jurisdiction (including, without limitation, the European Data Protection Directive 1995 (the " **Directive** ") and any national laws implementing the Directive), we are obliged to inform you that any personal information (for the purposes of the Directive this shall mean "Personal Data" as that term is defined in the Directive) (hereinafter " **Personal Data** ") may be disclosed, processed and transferred by us and other members of the HSBC Group on a worldwide basis for the purposes of providing services to the customers whom you represent and/or for servicing our relationship with them or you.
 
 We will not disclose or transfer Personal Data to third parties for the purposes of marketing. However, Personal Data may be disclosed or transferred to agents or third parties authorised to act on our behalf or other members of the HSBC Group or to third parties for the purposes of providing the designated services.
 
@@ -32,11 +35,15 @@ This Site, along with most other major websites, uses cookies. Cookies are piece
 
 We use two types of cookie on this site:
 
+| 
+
   * Session cookies, which are temporary cookies that remain in the cookie file of your computer until you close your browser (at which point they are deleted)
   * Persistent or stored cookies that remain permanently on the cookie file of your computer
 
-
-
+  
+  
+---|---  
+  
 Cookies cannot look into your computer and obtain information about you or your family or read any material kept on your hard drive and, unless you have logged onto an authenticated page, cookies cannot be used to identify who you are.
 
 Cookies cannot be used by anyone else who has access to the computer to find out anything about you, other than the fact that someone using the computer has visited a certain website. Cookies do not in any way compromise the security of your computer.
@@ -59,7 +66,3 @@ Please visit the Managing Cookies website to find out how to disable and delet
 
  **Web beacons and spotlight tags**  
 This Site may contain electronic images, known as web beacons or spotlight tags. These enable us to count users who have visited certain pages on the Site. Web beacons and spotlight tags are simply tools used to obtain generic information about the web pages visited. They are not used to obtain information about specific users.
-
-### HSBC Group
-
-For information about other services offered by HSBC, please visit the HSBC Group website.
