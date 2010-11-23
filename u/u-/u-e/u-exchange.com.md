@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u-exchange.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610205353id_/http%3A//www.u-exchange.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-exchange.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123043724id_/http%3A//www.u-exchange.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,6 @@ We also use third party advertisements on U-Exchange.com to support our site.  
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this will affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or member accounts.
 
-Photos may be used periodically as examples of items for trade throughout the website. Your personal information such as e-mail, phone number, last name and street address will _not_ be displayed to visitors.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+Photos may be used periodically as examples of items for trade throughout the website and in advertising. Your personal information such as e-mail, phone number, last name and street address will _not_ be displayed to visitors.
