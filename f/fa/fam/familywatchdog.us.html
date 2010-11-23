@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the familywatchdog.us privacy policy that was archived on 2010-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100405083707id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familywatchdog.us privacy policy that was archived on 2010-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123231520id_/http%3A//familywatchdog.us/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>Family WatchdogTerms of Service</title>
@@ -7,15 +7,22 @@
 		<meta http-equiv="keywords" content="Molester, Child Molestor, Sex Offender, Registered Sex Offenders, Map Sex Offenders, Public Safety, Predator Alert, SexOffender, Offender Address">
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
-<body topmargin="0" leftmargin="0">
+<body>
 
 
-
-
-	
-
-
-
+<script type="text/javascript">
+	function ClearFieldText(cntrlName, fieldText)
+	{
+		if (document.getElementById(cntrlName).value == fieldText)
+			document.getElementById(cntrlName).value= "";
+	}
+			
+	function EnterFieldText(cntrlName, fieldText)
+	{
+		if (document.getElementById(cntrlName).value == "")
+			document.getElementById(cntrlName).value = fieldText;
+	}
+</script>
 
 <!--  Browser detect -->
 <script type="text/javascript">
@@ -29,14 +36,15 @@
 	  smResolution = true;
 </script>
 
-
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"> </script> <script type="text/javascript"> GS_googleAddAdSenseService("ca-pub-8214415457348140"); GS_googleEnableAllServices(); </script><script type="text/javascript">GA_googleAddSlot("ca-pub-8214415457348140", "Main_Box_300x250");GA_googleAddSlot("ca-pub-8214415457348140", "Main_Leaderboard_468x60");GA_googleAddSlot("ca-pub-8214415457348140", "Main_Skyscrapper_160x600");</script><script type="text/javascript">GA_googleFetchAds();</script>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 	_uacct = "UA-287210-1";
 	urchinTracker();
 </script>
 
-
+<script src="/js/dropdown.js" type="text/javascript"></script>
+    
 <script language="javascript">
 	function PageName()
 		{
@@ -56,72 +64,164 @@
 		}
 </script>
 <link href="/css/main.css" rel="stylesheet" type="text/css">
+<link href="/css/dropdown.css" rel="stylesheet" type="text/css">
+<!--[if IE]> <link href="/css/dropdown_ie.css" rel="stylesheet" type="text/css" /> <![endif]-->
+
 <link href="/css/tab.css" rel="stylesheet" type="text/css">
 <div id="UberWrapper">
 
 	<!-- Start Head -->
 	<div id="UberHead" width="1000">
-
-		<a name="#topofpage"></a>
-
-		<div id="LogoMain">
-		</div>
-
-		<ul class="TopNavigation">
-			<li><a href="/Search.asp">find offenders</a></li>
-		    <li><a href="/freeemail.asp">get free alerts</a></li>
-			<li><a href="/ShareSite.asp">tell a friend</a></li>		    
-			<li><a href="/News.asp">press room</a></li>
-		    <li><a href="/aboutus.asp">about us</a></li>
-		</ul>
-		<!-- Sub Navigation -->
-		<div id="SubNaviagtion">
-			<a href="/Default.asp">home</a>
-
-			|<a href="/images/intelius/familysafetylinks.asp">resources</a>
-	
-			|<a href="/OffenderCountByState.asp">statistics</a>
-			|<a href="/testimonial.asp">testimonials</a>
-			|<a href="/staysafe.asp">tips</a>
-			|<a href="/feedback.asp">contact us</a>
-			|<a href="/LinkToUs.asp">link to us</a> 
-			|<a href="/faq.asp">faq</a>
-			|<a href="/loginpost.asp">login</a>
-
-		</div>
-
-		<div id="WordMark">
-
-		</div>
-
-		<div id="BannerAd">
-		    <div class="contents">
-
-				<iframe id="a9c5a5df" name="a9c5a5df" src="http://216.54.179.43/openx/www/delivery/afr.php?zoneid=1&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="468" height="60" allowtransparency="true"><a href='http://216.54.179.43/openx/www/delivery/ck.php?n=ab3694fd&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://216.54.179.43/openx/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab3694fd' border='0' alt='' /></a></iframe>
-
-			</div>
-		</div>
-
+				
+				<div id="LogoMain">
+				</div>
+				<div id="WordMark">
+ 				</div>
+ 				<div id="BannerAd"> 
+ 				    <div class="contents">
+ 						<!-- ca-pub-8214415457348140/Main_Leaderboard_468x60 --><script type="text/javascript">GA_googleFillSlot("Main_Leaderboard_468x60");</script>
+						<br>
+					</div>
+				</div>
+		
+	</div>	
+    <div id="dropdownmenu">
+		<dl class="dropdown">
+		
+		<dt id="one-ddheader" onclick="javascript:location.href='/default.asp'">home</dt>
+		
+		</dl>
+		<dl class="dropdown">
+		  <dt id="two-ddheader" onmouseover="ddMenu('two',1)" onmouseout="ddMenu('two',-1)">offenders</dt>
+		  <dd id="two-ddcontent" onmouseover="cancelHide('two')" onmouseout="ddMenu('two',-1)">
+		    <ul>
+		      <li><a href="/search.asp" class="underline">find offenders</a></li>
+		      <li><a href="/OffenderCountByState.asp" class="underline">statistics</a></li>
+		      <li><a href="/faq.asp" class="underline">know the facts</a></li>
+		    </ul>
+		  </dd>
+		</dl>
+			
+		<dl class="dropdown">
+		  <dt id="three-ddheader" onmouseover="ddMenu('three',1)" onmouseout="ddMenu('three',-1)">safety</dt>
+		  <dd id="three-ddcontent" onmouseover="cancelHide('three')" onmouseout="ddMenu('three',-1)">
+		    <ul>
+			  <li><a href="/safetyinfo/safetycategorylist.asp" class="underline">information</a></li>
+		      <li><a href="/staysafe.asp" class="underline">tips</a></li>
+		    </ul>
+		  </dd>
+		</dl>
+		<dl class="dropdown" onclick="javascript: location.href='/images/intelius/familysafetylinks.asp'">
+		  <dt id="ddheader">resources</dt>
+		</dl>	
+		<dl class="dropdown">
+		  <dt id="four-ddheader" onmouseover="ddMenu('four',1)" onmouseout="ddMenu('four',-1)">about us</dt>
+		  <dd id="four-ddcontent" onmouseover="cancelHide('four')" onmouseout="ddMenu('four',-1)">
+		    <ul>
+		      <li><a href="/aboutus.asp" class="underline">about us</a></li>
+		      <li><a href="/feedback.asp" class="underline">contact us</a></li>
+		      <li><a href="/news.asp" class="underline">press room</a></li>
+		      <li><a href="/linktous.asp" class="underline">link to us</a></li>
+			    
+		  </ul></dd>
+		</dl>
+		<dl class="dropdown" onclick="javascript: location.href='/sharesite.asp'">
+		  <dt id="ddheader">tell a friend</dt>
+		</dl>
+		<dl class="dropdown" onclick="javascript: location.href='/sitemap.asp'">
+		  <dt id="ddheader">site map</dt>
+		</dl>
+			
+		
+		  <dl class="dropdown" style="float: right; width:100px; padding: 3px 15px 5px 40px;">
+		  <dt id="five-ddheader" onmouseover="ddMenu('five',1)" onmouseout="ddMenu('five',-1)">login/register</dt>
+			<dd id="five-ddcontent" onmouseover="cancelHide('five')" onmouseout="ddMenu('five',-1)"> 	
+			<ul>
+			    <li><a href="/loginpost.asp" class="underline">login</a></li>
+			    <li><a href="/freeemail.asp" class="underline">register</a></li>
+			</ul>
+		  </dd></dl>
+		
 	</div>
-	<!-- /END Head -->
-	<!-- START Content -->
-	<div id="UberContentWrapper">
-	
-		<div id="ContentGutterLeft">
+	<div style="height: 3px;"></div>
+
+	<div id="ContentGutterLeft">
 			<b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b>
 			<div class="headh"></div>
 			<div class="guttercontenth"> 
-				<div class="guttertitle">partners</div><br><br>
 				<div class="guttercontent">
+					<div class="steptitle" style="font-size:16px;width: 155px;">
+					<img src="/images/e-mail_icon.gif" alt="sign up" border="0&quot;" width="32">&nbsp;&nbsp;sign up now</div>
+					<a href="/freeemail.asp">let family watchdog keep you informed of important safety information.  It's free!</a><br>
+					<hr>
+					<form name="tellfriendform" method="post" action="#">
+					<div class="steptitle" style="font-size:16px"><img src="/images/sendmail.gif" width="32">&nbsp;send this page to a friend</div><br>
+					<table width="157px" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td align="center">
+							<div style="line-height: 9px; color: #000000; font-size:10px;">enter your friend's email address to send them this page</div>
+							</td>
+						</tr>
+						<tr>
+							<td><input type="text" name="youremail" size="17" id="youremail" value="your email" onfocus="ClearFieldText('youremail', 'your email')" onblur="EnterFieldText('youremail', 'your email')"></td>
+						</tr>
+						<tr>
+							<td><input type="text" name="tellfriend" size="17" id="tellfriend" value="your friend's email" onfocus="ClearFieldText('tellfriend', 'your friend\'s email')" onblur="EnterFieldText('tellfriend', 'your friend\'s email')"></td>
+						</tr>
+						<tr>
+							<td>						
+							<input type="hidden" name="txtZoomLevel" value="">
+							<input type="hidden" name="txtLongitude" value="">
+							<input type="hidden" name="txtLatitude" value="">
+							<input type="hidden" name="txtLastName" value="">
+							<input type="hidden" name="txtFirstName" value="">
+							<input type="hidden" name="txtState" value="">
+							<input type="submit" value="send" name="btnTellSend"></td>
+						</tr>
+								
+						<tr>
+							<td colspan="2"><font color="red"></font></td>
+						</tr>
+						
+					</tbody></table>
+					</form>
+					</div>
+				</div>
+			<b class="gutterb4bh"></b><b class="gutterb3bh"></b><b class="gutterb2bh"></b><b class="b1h"></b>
+			<br>	
+			<b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b>
+			<div class="headh"></div>
+			<div class="guttercontenth"> 
+				<div class="guttercontent">
+					<table width="120px" align="center">
+						<tbody><tr>
+					        <td align="center">
+						        <a href="/redirector.asp?page=http://www.intelius.com/background-check.html?refer=2818&amp;searchform=background&amp;adword=background+check+link" target="_blank">
+	               		        <img src="/images/intelius/intelius_logo.png" border="0" width="120">
+	               		        <br><b>Run a Background Check</b></a>
+							</td>
+	                    </tr>
+	                </tbody></table> 
+					<hr>
 					<table width="120px" align="center">
 						<tbody><tr>
 							<td> 
 								<a href="/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&amp;LocationID=2" target="_blank">
 			       				<img src="http://www.familywatchdog.us/images/TheSafeSideStopSign.gif" border="0" width="44" height="106"></a>
 							</td>
-							<td><a href="redirector.asp?page=http://www.thesafeside.com/familywatchdog/x.asp?CartSourceID=13&amp;LocationID=2" target="_blank">Click here to download our Family Study Guide!</a></td>
+							<td><a href="/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&amp;LocationID=2" target="_blank">Click here to download our Family Study Guide!</a></td>
 						</tr>
 					</tbody></table>
+					<hr>
+					<table width="120px" align="center">
+						<tbody><tr>
+					        <td align="center">
+						        <a href="/redirector.asp?page=https://www.life360.com/registration/fmfwa/landing" target="_blank">
+	               		        <img src="/images/life360/life360.png" border="0" width="100">
+	               		        <br><b>Special Offer</b><br>Free Life360 Family Safety Kit</a>
+							</td>
+	                    </tr>
+	                </tbody></table> 
 					<hr>
 					<table width="120px" align="center">
 						<tbody><tr>
@@ -141,17 +241,17 @@
 		                    </td>
 		                </tr>
 			        </tbody></table> 
-			        <hr>
+			        <!-- <hr />
 					<table width="120px" align="center">
-						<tbody><tr>
+						<tr>
 					        <td align="center">
 						        <a href="/redirector.asp?page=http://www.franksfoundation.org/newsletter.shtml" target="_blank">
-	               		        <b>Operation Fuzzy:<br>Offering Comfort After Trauma.</b><br>Click Here to Learn More.</a>
+	               		        <b>Operation Fuzzy:<br />Offering Comfort After Trauma.</b><br />Click Here to Learn More.</a>
 							</td>
 	                    </tr>
-	                </tbody></table>  
+	                </table>-->
+					</div>
 				</div>
-			</div>
 			<b class="gutterb4bh"></b><b class="gutterb3bh"></b><b class="gutterb2bh"></b><b class="b1h"></b>
 		</div>
 
@@ -198,29 +298,28 @@ will investigate every report of suspected violation of this privacy policy.
 </div>
 
 				<div id="ContentGutterRight">
-				   <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="headh"></div> <div class="guttercontenth"><div class="guttertitle">site sponsors</div><br><br>
+				   <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="headh"></div> <div class="guttercontenth">
+				   
                     <div class="guttercontent">
-						<a href="/images/intelius/backgroundsearch.asp"><b>Run an Instant<br>Background Search</b><br>click here...</a><br>
+						<a href="/redirector.asp?page=http://www.intelius.com/background-check.html?refer=2818&amp;searchform=background&amp;adword=background+check+link" target="_blank"><b>Run an Instant<br>Background Search</b><br>click here...</a><br>
 						<hr>
 						<a href="/Ads/Advertise.asp"><img src="/ads/images/Advertise-white-fwd.jpg" border="0"></a>
 						<hr>
 						<br>
-					
-					<iframe id="a6fa80de" name="a6fa80de" src="http://216.54.179.43/openx/www/delivery/afr.php?zoneid=3&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="160" height="600" allowtransparency="true"><a href='http://216.54.179.43/openx/www/delivery/ck.php?n=ae4694de&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://216.54.179.43/openx/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae4694de' border='0' alt='' /></a></iframe>
-				
+						<!-- ca-pub-8214415457348140/Main_Skyscrapper_160x600 --><script type="text/javascript">GA_googleFillSlot("Main_Skyscrapper_160x600");</script>
 				</div> </div> <b class="gutterb4bh"></b>
 				<b class="gutterb3bh"></b><b class="gutterb2bh"></b><b class="b1h"></b> 
 		    </div> 
       			
 		</div>
-	</div>
+	
 
 <div id="UberFooter">
 
-	© Copyright 2005-2010, FWD Holdings Incorporated, All Rights Reserved.&nbsp;•&nbsp;<a href="/feedback.asp">contact us</a><br>
+	© Copyright 2005-2010, FWD Holdings Incorporated, All Rights Reserved.&nbsp;•&nbsp;<a href="/sitemap.asp">site map</a>&nbsp;•&nbsp;<a href="/feedback.asp">contact us</a><br>
   	<a href="/privacy.asp">privacy statement</a> • <a href="/tos.asp">terms of service</a> • (949) 209-8768
 	<br><br>Family Watchdog® is a registered trademark (Registration number 3,157,991) owned by FWD Holdings Incorporated
-	<br><br>Site version: 1.08
+	<br><br>Site version: 1.03
 </div>
 
 
