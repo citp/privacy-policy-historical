@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630164700id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123022520id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Journal
+
+| 
 
 DigitalJournal.com Privacy Policy 
 
@@ -62,4 +64,5 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 This Privacy Policy is effective as of Oct. 1, 2006 
 
-|  | 
+|  |   
+---|---|---
