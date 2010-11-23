@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210507id_/http%3A//healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123090035id_/http%3A//healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
 
 # A Weight Watchers support network
 
@@ -34,11 +34,15 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 From time to time we may partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
+**Third Parties**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **Our Online Discussion Groups Policies**
 
 Our Online Discussion Groups have a bulletin board format that allows our visitors the opportunity to interact with our online community. These areas are moderated by volunteer hosts strictly to keep inappropriate messages from being posted. You are offered the opportunity to include your email address with your message but you are not obligated to do so. If you do include your email address then it is visible to the general public on the bulletin board and we cannot control the actions of any third parties. We will not sell email addresses from our bulletin boards. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+Please keep in mind that whenever you voluntarily disclose personal information online \- for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
 In addition, Health Discovery's partners and third-party Internet sites and services accessible through Health Discovery, have separate privacy and data collection practices, independent of us. Health Discovery has no responsibility or liability for these independent policies or actions. 
 
