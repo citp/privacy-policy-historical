@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423140624id_/http%3A//www.bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123205808id_/http%3A//bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BlueTie
 
