@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads2india.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509002637id_/http%3A//www.ads2india.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2india.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123222012id_/http%3A//www.ads2india.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Ads2india.com
 
@@ -28,7 +28,7 @@ We may disclose certain personal information as follows:
 
 \- to legal, financial, and other professional advisors or in connection with the sale or reorganization of all or part of its business or operations.
 
-\- By having your mobile number listed on clickindia.com, you agree to receive SMS from users who may wish to contact you through WebSite.
+\- By having your mobile number listed on ads2India.com, you agree to receive SMS from users who may wish to contact you through WebSite.
 
 Except as provided above, we will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required or permitted by law.
 
