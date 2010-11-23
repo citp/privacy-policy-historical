@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarktracker.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113031307id_/http%3A//www.bookmarktracker.com/bt/about.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarktracker.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123194250id_/http%3A//bookmarktracker.com/bt/26179277.71566304/about.privacy) for the most accurate reproduction.*
 
 # BookmarkTracker : About : Our Privacy Policy
 
