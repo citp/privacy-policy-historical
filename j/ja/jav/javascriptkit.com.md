@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the javascriptkit.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301080152id_/http%3A//javascriptkit.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascriptkit.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123200709id_/http%3A//javascriptkit.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for JavaScript Kit
 
   
 ** Privacy Statement for JavaScript Kit**
 
-**Last updated: March 14th, 09'**
+**Last updated: March 3rd, 10'**
 
 JavaScript kit greatly respects your privacy. Below outlines what information is gathered from our visitors, and how they are used:
 
@@ -19,8 +19,12 @@ JavaScript kit greatly respects your privacy. Below outlines what information is
 
   * JavaScript Kit holds polls or surveys on it's site from time to time. By voting you are not disclosing any other information other then the answer to the question the poll asks. A vote cannot be traced to a specific individual, and hence your identity remains anonymous. This information may be used to provide advertisers with demographic information.
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Google, as a third party vendor, uses cookies to serve ads on your site.   
+ 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+ 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
+ 
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). _New_
 
 
