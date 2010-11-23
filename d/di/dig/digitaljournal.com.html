@@ -1,22 +1,23 @@
-<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630164700id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2010-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123022520id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="digital journal,citizen journalism,citizen media,network journalism,crowd powered,news,user generated,revenue sharing,earn money,get paid,top news,latest news,breaking news,business,world,sports,tech,technology,lifestyle,internet,politics,religion,travel,environment,entertainment,crime,arts">
-<meta name="description" content="DigitalJournal.com delivers news and information from citizen journalists based in 175 countries around the world.  Join Digital Journal to report news, upload photos, embed video and discuss the world around you.">
+<meta name="tweetmeme-title" content="">
+<meta name="description" content="DigitalJournal.com delivers news and information from thousands of Digital Journalists based in 175 countries around the world. Join Digital Journal to report news, upload photos, embed video and discuss the world around you.">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
 <style type="text/css">
 @import url(/yui-3.css);
-@import url(/commonmin-55.css);
+@import url(/commonmin-58.css);
 </style>
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
-<script type="text/javascript" src="/yui-6.js">
+<script type="text/javascript" src="/yui-8.js">
 </script>
-<script type="text/javascript" src="/djmin-105.js">
+<script type="text/javascript" src="/djmin-115.js">
 </script>
 <script type="text/javascript">
 	djp.user.init_user();
@@ -28,6 +29,7 @@ djp.ga_enable();
 </script>
 <script type="text/javascript">
 var ga_load = Array(0)
+var ga_targeting = Array(0)
 </script>
 <script type="text/javascript">
   djp.ga_addattr('dju',djp.user.is_loggedin()?1:0);
@@ -36,13 +38,17 @@ var ga_load = Array(0)
 		djp.ga_addattr('djut',upg);
 	djp.ga_addattr('djg','');
   }
-  djp.ga_addslot(pubid, "Leaderboard");
-  djp.ga_addslot(pubid, "One-Liner");
-  djp.ga_addslot(pubid, "Bottom-Right");
-  djp.ga_addslot(pubid, "Exclusive-QW");
+  if (ga_targeting && ga_targeting.length)
+	for(var k in ga_targeting)
+	  djp.ga_addattr(k,ga_targeting[k]);
   if (ga_load)
 	for(var i=0;i<ga_load.length;i++)
 		djp.ga_addslot(pubid, ga_load[i]);
+  djp.ga_addslot(pubid, "728x90-Leaderboard-ATF");
+  djp.ga_addslot(pubid, "One-Liner");
+  djp.ga_addslot(pubid, "Exclusive-QW");
+  djp.ga_addslot(pubid, "300x250-Big-Box-ATF");
+  djp.ga_addslot(pubid, "300x250-Big-Box-BTF");
 </script>
 <script type="text/javascript">
 djp.ga_fetch();
@@ -50,6 +56,12 @@ djp.ga_fetch();
 
 
 <title>Privacy Policy - Digital Journal</title>
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+	var Tynt=Tynt||[];Tynt.push('dF1byYV0Kr3713adbi-bnq');
+	(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
 </head>
 <body id="djbody" class="yui-skin-sam" marginheight="0" marginwidth="0">
 <div id="loadextras">
@@ -57,8 +69,6 @@ djp.ga_fetch();
 <input id="djajaxfld" type="hidden">
 </div>
 <div id="loadextrasinv">
-<img src="/images/ratebgup.gif">
-<img src="/images/ratebgup_over.gif">
 </div>
 
 
@@ -82,7 +92,7 @@ djp.ga_fetch();
 		<td colspan="3">
 			<div class="tac">
 <script type="text/javascript">
-    djp.ga_fill("Leaderboard");
+    djp.ga_fill("728x90-Leaderboard-ATF");
 </script>
 			</div>
 		</td>
@@ -94,7 +104,7 @@ djp.ga_fetch();
 
 
 	<div class="flleft" style="padding-left:15px;">
-		<a class="uact" href="" onmouseover="djp.user.tt(this,event,{ t:'userpost'});" onclick="if(!djp.user.is_loggedin())djp.user.show_login_form({ signup:1});return false;">Contribute»</a>
+		<a class="uact" href="" onmouseover="djp.user.tt(this,event,{ t:'userpost'});" onclick="if(!djp.user.is_loggedin())djp.user.show_login_form({ signup:1});return false;" style="-webkit-border-radius:3px;-moz-border-radius:3px;">Contribute»</a>
 	</div>
 
 
@@ -120,6 +130,7 @@ djp.ga_fetch();
 												<td class="tac"><a href="/">Home</a></td>
 												<td class="tac"><a href="/news/Arts">Arts</a></td>												<td class="tac"><a href="/news/Business">Business</a></td>												<td class="tac"><a href="/news/Crime">Crime</a></td>												<td class="tac"><a href="/news/Education">Education</a></td>												<td class="tac"><a href="/news/Entertainment">Entertainment</a></td>												<td class="tac"><a href="/news/Environment">Environment</a></td>												<td class="tac"><a href="/news/Food">Food</a></td>												<td class="tac"><a href="/news/Health">Health</a></td>												<td class="tac"><a href="/news/Internet">Internet</a></td>												<td class="tac"><a href="/news/Lifestyle">Lifestyle</a></td>												<td class="tac"><a href="/news/Politics">Politics</a></td>												<td class="tac"><a href="/news/Religion">Religion</a></td>												<td class="tac"><a href="/news/Science">Science</a></td>												<td class="tac"><a href="/news/Sports">Sports</a></td>												<td class="tac"><a href="/news/Technology">Technology</a></td>												<td class="tac"><a href="/news/Travel">Travel</a></td>												<td class="tac"><a href="/news/World">World</a></td>					</tr></tbody></table>
 		</div>
+
 
 <table align="center" class="djheader" cellpadding="2" cellspacing="0" border="0" width="100%">
 	<tbody><tr valign="top">
@@ -162,7 +173,7 @@ djp.ga_fetch();
 
 <td class="tar">
 
-		<form style="margin:0" onsubmit="var m=this.q.value.replace(/^(user|group):.*$/,'$1');if(m &amp;&amp; this.q.value!=m)this.mode.value=m;" action="/search/" method="get"><input type="text" size="30" style="width:175px;" title="Search Digital Journal" name="q" value="" class="small"> <input type="submit" value="Search" class="small"><input type="hidden" name="mode" value=""></form>
+		<form style="margin:0" onsubmit="var m=this.q.value.replace(/^(user|group|image|blog|comment|article|press):.*$/,'$1');if(m &amp;&amp; this.q.value!=m)this.mode.value=m;" action="/search/" method="get"><input type="text" size="30" style="width:175px;" title="Search Digital Journal" name="q" value="" class="small"> <input type="submit" value="Search" class="small"><input type="hidden" name="mode" value=""></form>
 
 
 	</td>
@@ -341,23 +352,30 @@ This Privacy Policy is effective as of Oct. 1, 2006
 
 <div style="padding-bottom:10px">
 <script type="text/javascript">
+djp.ga_fill("300x250-Big-Box-ATF");
+</script>
+</div>
+
+<div style="padding-bottom:10px">
+<script type="text/javascript">
 djp.ga_fill("Exclusive-QW");
 </script>
 </div>
 
+<div style="padding-bottom:10px;"><fb:recommendations site="digitaljournal.com"></fb:recommendations></div>
+<div style="padding-bottom:10px;"><fb:like-box href="http://www.facebook.com/digitaljournal" header="0" stream="0"></fb:like-box></div>
+
+
 
 <div style="padding: 10px 0 10px 0;">
 <script type="text/javascript">
-djp.ga_fill("Bottom-Right");
+djp.ga_fill("300x250-Big-Box-BTF");
 </script>
 <div class="ss small" style="padding:3px;"><a href="/advertise.php">Buy an ad on DigitalJournal.com</a></div>
 </div>
 
 </td>
-</tr><tr valign="bottom"><td class="djframebot p"><div class="tar">
-	<a href="#" onclick="scroll(0,0);return false;">Go to top ▲</a>
-</div></td></tr>
-</tbody></table>
+</tr></tbody></table>
 </div></div></div>
 </td></tr></tbody></table>
 
@@ -432,12 +450,117 @@ djp.ga_fill("Bottom-Right");
 <div class="invis">
 	<img src="/images/loading.gif" border="0" width="30" height="30">
 </div>
+<div id="djstickyfoot" class="tac">
+	<a class="minimize" href="" onclick="return false;"><span class="hdn_txt">Show toolbar</span></a>
+	<div class="container">
+		<div class="tal content"> 
+			<div class="button-row" id="djstickyfoot-button-row">
+				<div class="rbutton gototop">
+					<img src="/images/tr.gif" border="0" height="24" width="1" align="absmiddle">
+					<a href="#" class="imp" onclick="scroll(0,0);return false;" style="color:black;">Go to top</a>
+				</div>
+								<a href="" canvas="footer_canvas_email" onclick="return false;" class="button">
+					<img src="/images/letter_24.gif" border="0" align="absmiddle">
+					Email this
+				</a>
+				<a href="" canvas="footer_canvas_fb" onclick="return false;" class="button">
+					<img src="/images/logo_facebook_24.gif" border="0" align="absmiddle">
+					Share on Facebook
+				</a>
+				<div class="button" id="stickyfoot_twitter">
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="" data-count="horizontal" data-via="digitaljournal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+				</div>
+												<div class="button nowrap" id="footer_canvas_breakingnews" style="width:400px;overflow:hidden;" fistselected="0" selected="0">
+										<span id="foot_breaking_news[0]" class="">
+						<img src="/avatars/medium/873.png" border="0" align="absmiddle">
+						<a href="/article/300556">Southern US school board settles lawsuit for handcuffing student</a>
+					</span>
+									</div>
+								<br clear="both">
+			</div>
+			<div class="invis canvas" id="footer_canvas_fb" stickyfoot_url=""></div>
+			<div class="invis canvas" id="footer_canvas_email" style="padding:10px;">
+<form id="email_this_form" method="post" action="/email.php" onsubmit="djp.ajax.formSubmit(this,{ argument:[{ onAfterSave:function(o){ var res=djp.StickyFoot.showcanvas();if (typeof(Recaptcha)!='undefined'){ Recaptcha.reload();} return res; }}]});return false;">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top">
+				<td>
+<table cellpadding="7" cellspacing="0" border="0" align="center">
+<tbody><tr valign="top">
+	<td class="tar nowrap imp">Recipient email:</td>
+	<td class="tal">
+		<div class="small">You can enter up to 10 comma-separated email addresses.</div>
+		<div class="p">
+			<input type="text" name="fd[to]" size="50">
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="tar"><div class="imp">Your email:</div><span class="nimp">optional</span></td>
+	<td class="tal"><input type="text" name="fd[from]" size="50"></td>
+</tr>
+<tr>
+	<td valign="top" class="tar"><div class="nowrap imp">Message:</div><span class="nimp">optional</span></td>
+	<td class="tal"><textarea name="fd[msg]" cols="50" rows="3"></textarea></td>
+</tr>
+<tr>
+	<td>&nbsp;</td>
+	<td>
+		<script type="text/javascript">
+var RecaptchaOptions = {
+	theme : 'white'
+};
+</script>
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6Legjb4SAAAAAAE86_oNzcHRatdFDToY1uQI4A53">
+</script>
+<noscript>
+	<iframe src="http://www.google.com/recaptcha/api/noscript?k=6Legjb4SAAAAAAE86_oNzcHRatdFDToY1uQI4A53" height="300" width="500" frameborder="0"></iframe><br>
+	<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+	<input type="hidden" name="recaptcha_response_field" value="manual_challenge">
+</noscript>
+	</td>
+</tr>
+<tr>
+	<td></td>
+	<td class="tal" valign="top"><input type="submit" value="Send" class="imp"></td>
+</tr>
+</tbody></table>
+<input type="hidden" name="fd[article_id]" value="">
+<input type="hidden" name="fd[image_id]" value="">
+<input type="hidden" name="fd[blog_id]" value="">
+<input type="hidden" name="fd[url]" value="http://digitaljournal.com/privacy.php">
+<input type="hidden" name="fd[title]" value="Privacy Policy - Digital Journal">
+<input type="hidden" name="fd[descr]" value="">
+<input type="hidden" name="frameless" value="1">
+<input type="hidden" name="email_this" value="1">
+
+<div id="email_article_status"></div>
+</td>
+<td width="40%" style="padding:5px 20px 0 0;">
+				<h3 style="margin-top:0"><a href="" target="_blank">Privacy Policy - Digital Journal</a></h3>
+				<div class="p"></div>
+
+				</td>
+</tr></tbody></table>
+	
+			</form></div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	djp.htmlFormedEvent.subscribe(function(){ djp.StickyFoot.init(); });
+</script>
+
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+	FB.init({appId:'321580635153', status:true, cookie:true, xfbml:true});
+</script>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<!-- Begin Adify tag for "Pixel" Ad Space (1x1) ID #1000001782207 -->
+<!--
 <script type="text/javascript">
 sr_adspace_id = 1000001782207;
 sr_adspace_width = 1;
@@ -447,8 +570,8 @@ sr_adspace_type = "graphic";
 </script>
 <script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000001782207">
 </script>
-<img height="1" width="1" border="0" src="http://aperture.displaymarketplace.com/audmeasure.gif?liveconclientID=3272765660196&amp;PageID=303&amp;EventType=view">
-<!-- End Adify tag for "Pixel" Ad Space (1x1) ID #1000001782207 -->
+<img height="1" width="1"border="0" src="http://aperture.displaymarketplace.com/audmeasure.gif?liveconclientID=3272765660196&PageID=303&EventType=view">
+-->
 <script type="text/javascript">
 try {
 	var pageTracker = _gat._getTracker("UA-521285-1");
