@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513210510id_/http%3A//www.islandtrends.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123052754id_/http%3A//www.islandtrends.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
 # Island Trends Website
 
