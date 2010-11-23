@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hazehim.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221210621id_/http%3A//www.hazehim.com/t1/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hazehim.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123030152id_/http%3A//hazehim.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
