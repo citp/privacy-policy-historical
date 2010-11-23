@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527062406id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123214215id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 ## Privacy Policy for PennyPinchinMom.com
 
@@ -23,8 +23,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20100527062406id_/http://pennypinchinmom.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
-
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
-
-No related posts.
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20101123214215id_/http://pennypinchinmom.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
