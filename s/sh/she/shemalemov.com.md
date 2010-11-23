@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemalemov.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513224822id_/http%3A//www.shemalemov.com/privacy.htm%3Fnats%3DMy4yLjEuMS40Mi4wLjAuMC4w) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalemov.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123065045id_/http%3A//www.shemalemov.com/privacy.htm%3Fnats%3DMy4yLjEuMS40Mi4wLjAuMC4w) for the most accurate reproduction.*
 
 # ShemaleMov.com - Full Length Shemale Movies & Tranny Movies
 
