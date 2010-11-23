@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzhollywood.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401130110id_/http%3A//www.buzzhollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzhollywood.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123120305id_/http%3A//www.buzzhollywood.com/celebrity-news/privacy) for the most accurate reproduction.*
 
-# privacy | BuzzHollywood
+# privacy | Celebrity News | Celebrity Gossip | BuzzHollywood.com
 
 At BuzzHollywood.com we appreciate your readership and value your personal privacy. In adopting this privacy policy, our intent is to balance our legitimate interests in improving our service by collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
 
