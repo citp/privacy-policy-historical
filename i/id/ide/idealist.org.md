@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202420id_/http%3A//www.idealist.org/en/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123051705id_/http%3A//www.idealist.org/en/about/privacy.html) for the most accurate reproduction.*
 
 # idealist.org - Welcome to Idealist.org - Imagine. Connect. Act.
 
