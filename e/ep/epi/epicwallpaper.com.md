@@ -1,40 +1,41 @@
-> *The following text is extracted and transformed from the epicwallpaper.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413142731id_/http%3A//www.epicwallpaper.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicwallpaper.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123154800id_/http%3A//www.epicwallpaper.com/privacypolicy) for the most accurate reproduction.*
 
-# Epic Wallpaper - Free wallpapers
+# Epic Wallpapers - Free Wallpapers
 
-The owners and operators of EpicWallpaper take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners. 
+Thank you for visiting EpicWallpaper.com (the 'Site'). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit on web pages where this Privacy Policy is posted.
 
-**User Accounts**  
-Membership is an optional part of the EpicWallpaper web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own wallpapers, or post comments. By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password. 
+**User Accounts**   
+Membership is an optional part of the Site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features, such as the ability to submit content, create a list of your own wallpapers, or post comments. By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Your profile information is public and may appear on our web site, with the exception of your email address and password. All membership information is stored in our database to keep as record and is used to provide members access to areas within the Site that require a password and login. It is also used to verify the identity of members who have misplaced their passwords. All personal information is held in the strictest of confidence and will not be given to any third party. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
 
-**Personally Identified Data**  
-We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian. We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material. 
+**Personally Identified Data**   
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. 
 
-**Server Logs**  
-Like most web sites, EpicWallpaper logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics. 
+**Server Logs**   
+Like most web sites, EpicWallpaper logs web, database, and other server software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating anonymous usage and traffic statistics. 
 
-**Cookies**  
-While browsing EpicWallpaper, a small number of text files referred to as "cookies" may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of EpicWallpaper will function as expected without cookies enabled. 
+**Third-Party Advertisers**   
+We use Google Adsense and other third-party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on the Site and other sites about goods and services that may be of interest to you. In the course of serving advertisements to the Site, our third-party advertiser may place or recognize a unique �cookie� on your browser. The practices of our advertising partners are not directly covered by our Privacy Policy. We recommend that you read their policies. 
 
-**Third-Party Advertisers**
+**External Links**   
+The Site contains links to other sites. EpicWallpaper is not responsible for the privacy practices or the content of such Web sites. 
 
-In order to cover the costs of providing EpicWallpaper as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by EpicWallpaper's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date. Google Adsense:
+**How You Can Access Or Correct Information**   
+To access the personally identifiable information that the Site has collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your user profile, please send an email to info@epicwallpaper.com. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-We present you the following information about Google and the DoubleClick DART cookie:   
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Notification Regarding Updates**   
+From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on the Site. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
-**Sharing/Selling of Data**  
-EpicWallpaper does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy. 
+**Sharing/Selling of Data**   
+EpicWallpaper does not share or sell personally identifiable data to third parties such as spammers or direct marketers. 
 
-**Account Cancellation**  
-Upon request, your EpicWallpaper account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in. 
+**Our Commitment to Security**   
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-**Data Retention**  
-The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes. **Partners**   
-Epicwallpaper works with 3rd parties to provide content and sponsored advertisements to our users. Please check these partners privacy policy & terms. For more information at Google.com and Freeze.com.   
-Contact: 
+**Account Cancellation**   
+Upon request, your EpicWallpaper account can be canceled. Your user profile will no longer appear on the Site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, your account will be not be available for log-in. 
 
-Sugar Ventures LLC � Contact: sugarventures@gmail.com   
-For any problems or questions don't hesitate to contact us. 
+**Data Retention**   
+The data submitted to and generated by the Site may be copied to additional machines for redundancy and backup purposes. 
+
+**Contacting the Web Site**   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: info@epicwallpaper.com. 
