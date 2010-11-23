@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507053309id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123142340id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / The Hype Machine
 
 The Hype Machine follows music blog discussions  
-Every day, [thousands of people](https://web.archive.org/list) around the world write about music they love — and it all ends up here.
+Every day, [thousands of people](https://web.archive.org/list/) around the world write about music they love — and it all ends up here.
 
 ## PRIVACY POLICY Translate: [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cfr&hl=en&ie=UTF8 "Translate into French") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cde&hl=en&ie=UTF8 "Translate into German") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Ces&hl=en&ie=UTF8 "Translate into Spanish") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cit&hl=en&ie=UTF8 "Translate into Italian") [](http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&langpair=en%7Cpt&hl=en&ie=UTF8 "Translate into Portugese")
 
@@ -44,6 +44,12 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Hype Machine's most attractive features.
 
 Some of our business partners may use cookies on our Site (for example, advertisers). However, we have no access to or control over these cookies.
+
+### Other Information / Logging and Cookies
+
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+
+We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>
 
 ### Will Hype Machine Share Any of the Information it Receives?
 
