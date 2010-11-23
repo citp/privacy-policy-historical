@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gingersoftware.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323114723id_/http%3A//www.gingersoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gingersoftware.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123090708id_/http%3A//gingersoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ginger Software
-
-## Write a sentence for correction
 
 Thank you for visiting www.gingersoftware.com, Ginger Software, Inc.’s website (hereafter referred to as the “Site”). Your privacy is important to us, and we have implemented policies designed to protect your privacy (hereafter referred to as the “Privacy Policy”).  Please review the Privacy Policy carefully, which will explain our online information gathering practices and the choices you can make about the way your information is collected and used at the Site. The Company may amend the Privacy Policy, from time to time, by updating this posting, so you should visit this page periodically to review the Privacy Policy as then in effect.  If you do not agree with this Privacy Policy, you should not use the Software or the services available at the Site.  USE OF THE SOFTWARE AND/OR THE SERVICES CONSTITUTES YOUR ACCEPTANCE AND AGREEMENT TO THIS PRIVACY POLICY.
 
