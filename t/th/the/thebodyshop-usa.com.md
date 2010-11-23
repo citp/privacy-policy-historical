@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop-usa.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415012840id_/http%3A//www.thebodyshop-usa.com/beauty/privacy%3Fcm_re%3DTyra_SpringBBSpaWisdom_Anon-_-Navigation-_-privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop-usa.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123042544id_/http%3A//www.thebodyshop-usa.com/beauty/privacy%3Fcm_re%3DTyra_FallSkinCare2-_-Navigation-_-privacy%2Bpolicy) for the most accurate reproduction.*
 
 # The Body Shop - Privacy Policy
 
