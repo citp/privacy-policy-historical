@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004804id_/http%3A//www.vanetworking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112756id_/http%3A//www.vanetworking.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Virtual Assistant Networking Association (VANA)
 
