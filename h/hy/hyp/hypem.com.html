@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hypem.com privacy policy that was archived on 2010-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507053309id_/http%3A//hypem.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hypem.com privacy policy that was archived on 2010-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123142340id_/http%3A//hypem.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,15 +7,17 @@
 <meta name="verify-v1" content="qwbaObdzdZWrdu9G4KvAUGD+eLPZj38HYoLP/rhlBYo="><meta http-equiv="X-UA-Compatible" content="IE=7">
 <title>Privacy Policy / The Hype Machine</title>
 
-<link rel="icon" href="http://static3.hypem.net/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://static1.hypem.net/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" media="screen" href="http://static.hypem.net/css/stylish.css?id=new8">
+<link rel="icon" href="http://static-ak.hypem.net/favicon.ico" type="image/x-icon">
+
+<link rel="shortcut icon" href="http://static-ak.hypem.net/favicon.ico" type="image/x-icon">
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://static-ak.hypem.net/css/stylish-cdn.css">
 <!--[if IE 6]>
-    <link rel="stylesheet" type="text/css" href="http://static.hypem.net/css/ie6.css" />
+    <link rel="stylesheet" type="text/css" href="http://static-ak.hypem.net/css/ie6.css" />
     <script src="/js/dropdown.js" type="text/javascript"></script>
 <![endif]--> 
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://static.hypem.net/css/ie7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://static.hypem.net/css/ie7.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://static-ak.hypem.net/css/ie7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://static-ak.hypem.net/css/ie7.css" /><![endif]-->
 
  
   
@@ -24,16 +26,39 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
 
-<script src="http://static.hypem.net/js/lightbox.js" type="text/javascript"></script>
-<script src="http://static.hypem.net/js/hype_functions.js?rev=6" type="text/javascript"></script>
-<script src="http://static.hypem.net/js/effects.js" type="text/javascript"></script>
+<script src="http://static-ak.hypem.net/js/lightbox.js" type="text/javascript"></script>
+<script src="http://static-ak.hypem.net/js/hype_functions.js" type="text/javascript"></script>
+<script src="http://static-ak.hypem.net/js/effects.js" type="text/javascript"></script>
 
 
-<script type="text/javascript" src="http://dyncdn.celebuzz.com/assets/cssjs/ads/topscript.js?hypem"></script>
+<!--<script type="text/javascript" src="http://dyncdn.celebuzz.com/assets/cssjs/ads/topscript.js?hypem"></script>-->
 <script type="text/javascript" src="http://cdn.extensions.buzznet.com/topscript.js.php?siteToken=HM"></script> 
 
 
 
+
+<!--  BuzzFeed code begins -->
+<script type="text/javascript">
+BF_BB_URI = null; BF_BB_INIT = null;
+BF_BB_REFERRER = null; BF_BB_QUEUE = []; BF_BB_INPROGRESS = 0;
+BF_ViralTrack = function(url) { BF_BB_QUEUE.push(url) };
+BF_BB_CALLBACK = function() { BF_BB_INPROGRESS = 0; };
+BF_QueueHandler = function() {
+       if (BF_BB_QUEUE.length && !BF_BB_INPROGRESS)
+       {
+               BF_BB_INPROGRESS=1;
+               url = BF_BB_QUEUE.shift();
+               if(BF_BB_INIT) { BF_BB_REFERRER = BF_BB_INIT; }
+               BF_BB_INIT = url; BF_BB_URI = url;
+           BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
+           BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=hypem&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+           setTimeout(function() {document.getElementById('BF_WIDGET_1').appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+   }
+   setTimeout(BF_QueueHandler, 500);
+};
+BF_QueueHandler();
+</script>
+<!-- / BuzzFeed code ends -->
 
 <script type="text/javascript">
     // this prevents the Safari/PPC crash. Yes, really.
@@ -42,7 +67,7 @@
 	// setup the page as it's loaded.  there are also functions in footer that complete load
 	var is_logged_in = 0;
 	var logged_in_username = "";
-	var playback_allowed = 0;
+	var playback_allowed = 1;
 	var pageTracker;
 	
 	if (document.location.href.search(/\/#/) == -1 && document.location.href.search(/ax=1/) == -1 && is_logged_in == 1 ) { // looks like we gotta reload this page, since no # is there
@@ -100,6 +125,7 @@
 			
 		if ( (
 			url.indexOf('/')==0 || url.search('^http://.*?hypem\.com/')!=-1 ) && 
+                        url.search('auto_mobile')==-1 &&
 			url.search('/go/')==-1 && 
 			url.search('/feed')==-1 && 
 			url.search('http://blog\.')== -1 && 
@@ -158,19 +184,19 @@
 			
 				if (document.location.href.indexOf("zeitgeist")!=-1 && document.location.href.indexOf("zeitgeist/2008")!=-1 ) { 
 					if(! $('css_zeitgeist08')) {
-			 		   css_sheet = new Element('link', { id: "css_zeitgeist", href: "http://static.hypem.net/css/zeitgeist-2008.css", type: 'text/css', rel: "stylesheet" });
+			 		   css_sheet = new Element('link', { id: "css_zeitgeist", href: "http://static-ak.hypem.net/css/zeitgeist-2008.css", type: 'text/css', rel: "stylesheet" });
 					    head.appendChild(css_sheet);
 					}
 				} else if ( document.location.href.match(/\/zeitgeist\/2009/) ) {
 					if(! $('css_zeitgeist09')) {
-			 		   css_sheet = new Element('link', { id: "css_zeitgeist", href: "http://static.hypem.net/css/zeitgeist-2009.css", type: 'text/css', rel: "stylesheet" });
+			 		   css_sheet = new Element('link', { id: "css_zeitgeist", href: "http://static-ak.hypem.net/css/zeitgeist-2009.css", type: 'text/css', rel: "stylesheet" });
 					    head.appendChild(css_sheet);
 					}
 				}
 
 				var new_page_num;
 				var old_page_num;
-				url.match(/(\d+)\/$/); new_page_num = RegExp.$1; if(!new_page_num) { new_page_num = 1; } 
+/*				url.match(/(\d+)\/$/); new_page_num = RegExp.$1; if(!new_page_num) { new_page_num = 1; } 
 				if(prevUrl) { prevUrl.match(/(\d+)\/$/); old_page_num = RegExp.$1; if(!old_page_num) { old_page_num = 1;} }
 				
 				debug("new pg #:" + new_page_num + " old pg #:" + old_page_num);
@@ -229,7 +255,7 @@
 					}, 500);
 									
 				} else {
-				
+		*/		
 					new Ajax.Updater('content-wrapper', url, 
 							{ parameters: 'ax=1&ts=' + get_unix_time(), 
 							  method: 'get',  
@@ -242,9 +268,13 @@
 							  evalScripts: true } 
 							);
 							
-				}
+		//		}
 			
 									set_ad_vars();
+
+                                        var banner_passback;
+                                       if(url=='/' || url.match(/latest/) || url.match(/subscription/)) { banner_passback = 'homepage'; }
+
 	
 	  		    									
 								
@@ -351,7 +381,14 @@
 			quantserve();
 		} catch(err) {}
 		
-						
+		
+		// buzzfeed
+		pv_addr.match(/\/track\/(\d+)\/?/); track_id = RegExp.$1; 
+		if (track_id) {
+			BF_BB_QUEUE.push("http://hypem.com/track/" + track_id);	
+		} /*else {
+			BF_BB_QUEUE.push("http://hypem.com" + pv_addr);
+		} */		
     }
 	
 </script>
@@ -398,7 +435,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 	var flashvars = {
 		shuffle: "false",
 		repeat: "none",
-		skin: "http://static.hypem.net/h4_skin4.swf",
+		skin: "http://static-ak.hypem.net/h4_skin4.swf",
 		backcolor: '000000',
 		frontcolor: 'E7F8D3',
 		lightcolor: '0x84C441',
@@ -414,7 +451,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 	  styleclass: "hypePlayer"
 	}
 	
-	swfobject.embedSWF('http://static.hypem.net/h4.swf', "hypePlayer", "257","32", "8.0.0", false, flashvars, params, attributes);
+	swfobject.embedSWF('http://static-ak.hypem.net/h4.swf', "hypePlayer", "257","32", "8.0.0", false, flashvars, params, attributes);
 
 	
 	
@@ -435,8 +472,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 
 <!-- start ad-leaderboard -->
 	
-	<!-- this will be filled with JS -->
     <div id="ad-leaderboard">
+	
 	<script type="text/javascript">
 	      bmQuery.bmLib.iab.write({
 	            siteIdentifier : 'buz.hypem',
@@ -456,7 +493,9 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
        					if ($('ad-leaderboard')) { $('ad_code_leaderboard').value = $('ad-leaderboard').innerHTML; }
        			if ($('ad-leaderboard-iframe')) { $('ad_code_leaderboard').value += 			$('ad-leaderboard-iframe').contentDocument.body.innerHTML; }
        			document.ad_report_leaderboard.submit();
-		       "><img src="http://static.hypem.net/images/flag-ad.gif" width="96" height="5" alt="Flag Ad For Review"></a>  </form>
+		       "><img src="http://static-ak.hypem.net/images/flag-ad.gif" width="96" height="5" alt="Flag Ad For Review"></a>  	
+	</form>
+
 <!-- end ad-leaderboard -->
 		
         <ul class="menu">
@@ -492,7 +531,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 		
         <div id="message">
         		<p class="noplay">The Hype Machine follows music blog discussions<br>
-           <span>Every day, <a href="/list">thousands of people</a> around the world write about music they love — and it all ends up here.</span>
+           <span>Every day, <a href="/list/">thousands of people</a> around the world write about music they love — and it all ends up here.</span>
 		</p>
 		
 			
@@ -504,11 +543,11 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 
 <div id="subpage">
 	<h2>PRIVACY POLICY <span>Translate:  
-	<a title="Translate into French" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cfr&amp;hl=en&amp;ie=UTF8"><img alt="FR" src="http://static0.hypem.net/images/fr.gif" border="0"></a>
-	<a title="Translate into German" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cde&amp;hl=en&amp;ie=UTF8"><img alt="DE" src="http://static1.hypem.net/images/de.gif" border="0"></a>
-	<a title="Translate into Spanish" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Ces&amp;hl=en&amp;ie=UTF8"><img alt="ES" src="http://static0.hypem.net/images/es.gif" border="0"></a>
-	<a title="Translate into Italian" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cit&amp;hl=en&amp;ie=UTF8"><img alt="IT" src="http://static3.hypem.net/images/it.gif" border="0"></a>
-	<a title="Translate into Portugese" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cpt&amp;hl=en&amp;ie=UTF8"><img alt="PT" src="http://static3.hypem.net/images/pt.gif" border="0"></a>
+	<a title="Translate into French" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cfr&amp;hl=en&amp;ie=UTF8"><img alt="FR" src="http://static-ak.hypem.net/images/fr.gif" border="0"></a>
+	<a title="Translate into German" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cde&amp;hl=en&amp;ie=UTF8"><img alt="DE" src="http://static-ak.hypem.net/images/de.gif" border="0"></a>
+	<a title="Translate into Spanish" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Ces&amp;hl=en&amp;ie=UTF8"><img alt="ES" src="http://static-ak.hypem.net/images/es.gif" border="0"></a>
+	<a title="Translate into Italian" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cit&amp;hl=en&amp;ie=UTF8"><img alt="IT" src="http://static-ak.hypem.net/images/it.gif" border="0"></a>
+	<a title="Translate into Portugese" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cpt&amp;hl=en&amp;ie=UTF8"><img alt="PT" src="http://static-ak.hypem.net/images/pt.gif" border="0"></a>
 </span></h2>
 <p>The Hype Machine Inc. ("Hype Machine") knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the Hype Machine website located at http://hypem.com (the "Site"), you are accepting the practices outlined in this Privacy Policy.</p>
 <h3>What Does This Privacy Policy Cover?</h3>
@@ -535,6 +574,10 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people.  Hype Machine cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your username or e-mail address is.</p>
 <p>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Hype Machine's most attractive features.</p>
 <p>Some of our business partners may use cookies on our Site (for example, advertisers).  However, we have no access to or control over these cookies.</p>
+
+<h3>Other Information / Logging and Cookies</h3>
+<p>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.</p>
+<p>We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a></p>
 
 <h3>Will Hype Machine Share Any of the Information it Receives?</h3>
 <p>Information about our users is an integral part of our business.  We neither rent nor sell your personal information to anyone.  We share your personal information only as described below.</p>
@@ -603,7 +646,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 	
 </div> <!-- container -->
 
-<!-- PAGE TOTAL: 0.002s --><br style="clear:both" id="content-spacer">
+<!-- PAGE TOTAL: 0.013s --><br style="clear:both" id="content-spacer">
 <!--<div id="blogframe-container" style="display:none"><br style="clear:both" id="content-spacer" /></div>-->
 <!--<iframe src="http://google.com" width="975" height="460" id="blogframe"></iframe>-->
 
@@ -615,12 +658,12 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 						<li><a href="/">latest</a></li>
 			<li><a href="/popular">popular</a></li>
 			<li><a href="/twitter">twitter</a></li>
-            <li><a href="/radio/">radio show</a></li>
+            <li><a href="/radio">radio show</a></li>
             <li><a href="/spy">spy</a></li>
             <li><a href="/zeitgeist/2009/">zeitgeist</a></li>
             <li class="user-menu">
             
-            <a href="/list">blog list</a>
+            <a href="/list/">blog list</a>
             <a href="/badge">badges</a>
             <a href="http://merch.hypem.com/">merch</a>
             <a href="http://blog.hypem.com">our blog</a>
@@ -640,6 +683,8 @@ The Hype Machine is a member of BUZZMEDIA Music, a division of BUZZMEDIA. <a hre
 
 <a href="/download/">mp3 download</a> instead of rapidshare, mediafire, yousendit (ysi) or torrent
 <br><br>
+<span style="font-size: 18px;font-weight:bold;">&nbsp;&nbsp;YOU<br>WOULD</span>
+<br><br>
 	<br><br>
 	</p></div><!-- footer-inner -->
 </div><!-- footer -->
@@ -652,7 +697,8 @@ The Hype Machine is a member of BUZZMEDIA Music, a division of BUZZMEDIA. <a hre
 </div><!-- wrapper -->
 <!--[endif]---->
 
-<script src="http://Hypem.tags.crwdcntrl.net/cc.js" type="text/javascript"></script>
+<!-- buzzfeed (not media ;)) test, also see code in header -->
+<div id="BF_WIDGET_1"></div>
 
 <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/9141.js"> </script>
 
