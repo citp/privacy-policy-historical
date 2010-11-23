@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schiffforsenate.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510173239id_/http%3A//schiffforsenate.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffforsenate.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123053914id_/http%3A//schiffforsenate.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy | Peter Schiff for Senate 2010
 
@@ -8,7 +8,7 @@ Our postal address is:
 130 Old Gate Lane Unit A  
 Milford, CT 06460
 
-We can be reached via e-mail at [info@schiffforsenate.com](mailto:info@schiffforsenate.com) or by telephone at (203) 451-4560.
+We can be reached via e-mail at [info@schiffforsenate.com](mailto:Romanojr1@gmail.com) or by telephone at (203) 451-4560.
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
