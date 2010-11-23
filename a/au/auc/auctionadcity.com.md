@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507145058id_/http%3A//www.auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123224813id_/http%3A//www.auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# 
+# Buy/Sell Auction/Classified
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
