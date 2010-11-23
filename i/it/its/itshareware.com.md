@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itshareware.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004400id_/http%3A//www.itshareware.com/index-idx_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itshareware.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123235615id_/http%3A//itshareware.com/index-idx_privacy.htm) for the most accurate reproduction.*
 
-# IT Shareware - legal disclaimer
+# legal disclaimer
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
