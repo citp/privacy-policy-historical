@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226192045id_/http%3A//www.drafttek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123055114id_/http%3A//drafttek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,4 +57,4 @@ We use IP (Internet Protocol) addresses to analyze trends, administer the site, 
 ** **  
 If you have any questions or comments about our privacy policy, please contact the [editor](mailto:warren@Drafttek.com). If you wish your communication to remain private, please label it as such. 
 
-  *This Document Was Last Updated on June 1, 2008
+  *This Document Was Last Updated on June 1, 2010
