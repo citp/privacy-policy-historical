@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlequeen.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524004256id_/http%3A//www.articlequeen.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlequeen.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123122952id_/http%3A//articlequeen.com/privacy.htm) for the most accurate reproduction.*
 
-# 
+# ArticleQueen: Privacy
 
 ## Privacy
 
@@ -38,7 +38,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer�s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
