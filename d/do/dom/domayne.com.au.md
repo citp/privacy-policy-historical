@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domayne.com.au privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505153357id_/http%3A//www.domayne.com.au/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domayne.com.au privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123221204id_/http%3A//www.domayne.com.au/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Domayne
+# Privacy Policy | Domayne - Furniture, Bedding & Homewares
 
 ### Privacy of your Personal Information
 
