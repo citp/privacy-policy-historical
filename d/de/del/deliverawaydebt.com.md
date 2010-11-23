@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliverawaydebt.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214002120id_/http%3A//deliverawaydebt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliverawaydebt.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123222024id_/http%3A//deliverawaydebt.com/privacy) for the most accurate reproduction.*
 
-# Privacy | DeliverAwayDebt.com
+# Privacy
 
 **Privacy**  
 The privacy of the visitors to Deliverawaydebt is important. At Deliverawaydebt, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Deliverawaydebt, and how we safeguard your information. We never sell your personal information to third parties.
@@ -21,3 +21,17 @@ We reserve the right to edit or remove comments left on this website at our sole
 
 **External Links**  
 This web site contains links to other external websites not owned by the owner of this website. We cannot control how your personal information is used on these other websites, so please be sure to see how they use your information by consulting their privacy policies respectively.
+
+  
+  
+  
+  
+
+
+**Article by[Jeff Kosola](http://deliverawaydebt.com/about-2/)**
+
+**[DeliverAwayDebt](http://deliverawaydebt.com/)** is designed to help people along the journey toward "Debt Freedom". I use my battle against debt to demonstrate anyone with enough passion and motivation can blast away debt. My net worth is updated monthly and all my [Pizza Delivery](http://deliverawaydebt.com/pizza-delivery) earnings are tracked. These are posted to demonstrate that **YOU CAN** eliminate your own debt. It will take some work, but nothing in life that matters is easy. 
+
+Here are **3 Free ways** to receive updates from **DeliverAwayDebt**. Subscribe to the [RSS Feed](http://feeds.feedburner.com/deliverawaydebt). Subscribe by [Email](http://feedburner.google.com/fb/a/mailverify?uri=Deliverawaydebt&loc=en_US). Or Follow me on [Twitter](http://twitter.com/deliverawaydebt)
+
+Read more from **DeliverAwayDebt** in the **[Archives](http://deliverawaydebt.com/archives/)**. 
