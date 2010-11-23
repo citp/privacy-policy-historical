@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkariexam.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524150701id_/http%3A//www.sarkariexam.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkariexam.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123141911id_/http%3A//www.sarkariexam.com/privacy.php) for the most accurate reproduction.*
 
 # Sarkari Naukri, Government Jobs, Fresher Jobs, Railway Jobs, Bank Jobs
 
@@ -11,8 +11,10 @@ As with most other websites, we collect and use the data contained in log files.
 Cookies are small text files placed on your computer and are commonly used on the internet
 
 **_We use them to:_**  
-> collect anonymous information that will help us understand visitors’ browsing habits on our website;   
-> compile statistical reports on website activity, e.g. number of visitors and the pages they visit;  
+> collect anonymous information that will help us understand visitors’ browsing habits on our website; 
+
+> compile statistical reports on website activity, e.g. number of visitors and the pages they visit;
+
 Note: We do not use cookies to track your use of the internet after you leave our sites, nor do we store any personal information in them that others could read and understand.
 
 **_Links_**  
