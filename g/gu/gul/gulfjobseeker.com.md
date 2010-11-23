@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gulfjobseeker.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104202236id_/http%3A//gulfjobseeker.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfjobseeker.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123042311id_/http%3A//gulfjobseeker.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Gulfjobseeker.com CV Writing, CV Distribution to Employer & Recruitment Agencies & Free Vacancy Provider in Gulf, U.A.E, Dubai, Sharjah, Abu Dhabi, Qatar, Doha, Kuwait, Saudia Arabia, Jeddah, Riyadh, Bahrian, Oman, Muscat.
+# Privacy Policy
 
 |    
 ---  
@@ -129,6 +129,6 @@ Gulfjobseeker.com and its owner First Impression Management Consultancy will con
 Contacting Us  
    
   
-If you have any questions about this privacy statement, the practices of the Gulfjobseeker.com web site, or your dealings with this web site, please contact us on [_support@gulfjobseeker.com_](mailto:support@gulfjobseeker.com) or phone us on +9714-3522530.  
+If you have any questions about this privacy statement, the practices of the Gulfjobseeker.com web site, or your dealings with this web site, please contact us on [_anup@gulfjobseeker.com_](mailto:anup@gulfjobseeker.com) or phone us on +9714-3970978 Ext 507.  
   
  
