@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515001754id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123123734id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
 
 # Free Cash-Pulling Websites Company - Privacy Policy
 
@@ -48,8 +48,8 @@ The minimum age for use of this This website is 18 years old. If you are not at 
 
 You can contact the company by mail at: 
 
-Free Cash-Pulling Websites Company Websites c/o Top TIer Solutions  
-12707 HIgh Bluff Dr. Suite 200  
+Free Cash-Pulling Websites Company Websites c/o Top Tier Solutions  
+12707 High Bluff Dr. Suite 200  
 San Diego, CA 92130
 
 Or via email by [clicking here](https://web.archive.org/support.php?group=joinsite).   
