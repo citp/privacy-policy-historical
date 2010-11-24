@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profitstars.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831235415id_/http%3A//www.profitstars.com/default.aspx%3FP%3D2c320adc-7531-4639-b774-41f22c8d6cc9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitstars.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060248id_/http%3A//www.profitstars.com/Default.aspx%3FP%3D4a1efecc-b48f-4088-b527-0ba4646d4b84) for the most accurate reproduction.*
 
-# ProfitStars.com
+# Profitstars.com
 
 Customer relationships at Jack Henry & Associates, Inc. ("JHA") are built on trust. You have chosen to do business with JHA, and we guard that relationship with great care, beginning with the information you have chosen to share with us.
 
@@ -12,4 +12,4 @@ You may visit JHA's Web site without revealing your identity or any personal inf
 
 Furthermore, we only use the information you provide for the purpose you originally intended. For example, if you sign up to receive JHA announcements via electronic mail, we will retain your personal information for the sole purposes of transmitting announcements to you. And except as required by law or court order, we will not release any information provided by you to any third party. JHA does not disclose nonpublic personal information about you to any companies that are not members of our corporate family, except as permitted by federal law, specifically Title V of the Gramm-Leach-Bliley Act of 1999.
 
-JHA reserves the right to exclude anyone from any of its opt-in e-mail lists at its sole discretion. JHA is not responsible for the content or privacy practices of other Web sites to which this site may link.
+JHA reserves the right to exclude anyone from any of its subscription e-mail lists at its sole discretion. JHA is not responsible for the content or privacy practices of other Web sites to which this site may link.
