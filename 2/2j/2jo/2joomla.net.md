@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613171315id_/http%3A//www.2joomla.net/2joomla-content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124095654id_/http%3A//2joomla.net/2jcarousel-pricing/76%3Ftask%3Dview) for the most accurate reproduction.*
 
-# Privacy Policy - 2Joomla.NET
+# Privacy Policy
 
 #### Information about our Organization and Web site
 
@@ -60,7 +60,6 @@ You can ask us, by:
 
   * sending an email ( [question@2joomla.net](mailto:question@2joomla.net) )
   * visiting this url ( [www.2joomla.net](http://www.2joomla.net/) )
-  * calling this telephone number ( +380509701749 )
 
 whether we are keeping personal data about you.  
 We do not provide our visitors with a readable copy of the personal data that we keep about them.  
