@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411083054id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124071846id_/http%3A//digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy |Photo Contest - Digital Image Cafe
 
@@ -30,7 +30,7 @@ DigitalImageCafe.com does not share your personal information with third parties
 
 ### HOW TO UNSUBSCRIBE FROM NEWSLETTERS
 
-If you'd rather not receive newsletters and updates via e-mail, simply: Send a blank email with the subject line “Remove from mailing lists” to [admin@digitalimagecafe.com](mailto:admin@digitalimagecafe.com), or send a letter to MacMillan Inc. PO Box 1373 Georgetown, KY 40324.
+If you'd rather not receive newsletters and updates via e-mail, simply: visit our [Support Desk](http://www.macmillaninc.com/support) and Submit a Ticket requesting removal (include the email address that you wish to unsubscribe) or send a letter to MacMillan Inc. PO Box 1373 Georgetown, KY 40324 with the request. You may also manage any Newsletter subscription using the link at the bottom of the Newsletter (if available from the Newsletter Service Provider).
 
 ### CHILDREN AND PRIVACY
 
