@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slotocash.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617064159id_/http%3A//www.slotocash.com/slotocash-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotocash.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055909id_/http%3A//www.slotocash.com/slotocash-privacy-policy.html) for the most accurate reproduction.*
 
 # Sloto'Cash Casino - Privacy Policy
 
@@ -24,7 +24,7 @@ Tel: +5999-433-8873
 
 Sloto'Cash Casino values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Statement. Please take the time to read this policy and familiarize yourself with its contents. 
 
-You should read this notice in conjunction with the [Terms of Use](https://web.archive.org/web/20100617064159id_/http%3A//www.slotocash.com/terms-conditions-of-slotocash-online-casino.html) for this website. 
+You should read this notice in conjunction with the [Terms of Use](https://web.archive.org/web/20101124055909id_/http%3A//www.slotocash.com/terms-conditions-of-slotocash-online-casino.html) for this website. 
 
 This website [www.slotocash.com](https://web.archive.org/) (the “Site”) is operated by, and information collected from this Site is collected by, Sloto'Cash., a registered business name of Deckmedia N.V, a company incorporated and based in Curacao (“Sloto'Cash ”, “us” or “we”). 
 
