@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the epicurean.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405060749id_/http%3A//www.epicurean.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicurean.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124232459id_/http%3A//www.epicurean.com/policy.html) for the most accurate reproduction.*
 
 # Epicurean.com
 
  
 
 Epicurean Online has created this privacy policy in order to inform our users of our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Epicurean Online web site.  
+
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 
 
 Information Automatically Logged
@@ -79,5 +85,5 @@ This site gives users the following options for changing and modifying informati
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: sous at epicurean.com   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: contact at epicurean.com   
 
