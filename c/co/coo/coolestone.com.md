@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523103212id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124185822id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
-# : The Coolest One
+# : CoolestOne.Com
 
 This is the web site of **  coolestone.com**. aka Mel's Video Of The Day!
 
