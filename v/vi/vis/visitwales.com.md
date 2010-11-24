@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitwales.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401005426id_/http%3A//www.visitwales.com/server.php%3Fshow%3Dnav.11897) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitwales.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124072910id_/http%3A//www.visitwales.com/server.php%3Fshow%3Dnav.11897) for the most accurate reproduction.*
 
 # Privacy
 
