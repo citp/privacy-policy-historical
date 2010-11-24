@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529200441id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124233534id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hear and Play Music Learning Center
 
@@ -40,15 +40,4 @@ _**Unsubscribing**_
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address or by calling us at the above telephone number. You may also click on the “UNSUBSCRIBE” link found at the bottom of all e-mails.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm). 
-
-[  
-](http://feeds.feedburner.com/hearandplay "Subscribe to my feed")[Subscribe in a reader](http://feeds.feedburner.com/hearandplay "Subscribe to my feed")
-
-[Why subscribe?](http://www.hearandplay.com/main/index.php/10-reasons-to-subscribe-to-my-blog/)
-
-[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
-
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-If you're new here, you may want to subscribe to my [RSS feed](http://feeds.feedburner.com/hearandplay) for regular updates. If you'd rather subscribe by e-mail, [click here](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2290008). Thanks for visiting.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm).
