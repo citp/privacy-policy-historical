@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightpdf.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607064307id_/http%3A//www.lightpdf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightpdf.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124122825id_/http%3A//lightpdf.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -29,7 +29,7 @@ _Information We Collect_
 
  _Important information_
 
-\- For information and tips on children�s online privacy visit [www.ftc.gov/privacy](https://web.archive.org/web/20100607064307id_/http%3A//www.lightpdf.com/www.ftc.gov/privacy) and [www.OnGuardOnline.gov](http://onguardonline.com/)  
+\- For information and tips on children�s online privacy visit [www.ftc.gov/privacy](https://web.archive.org/web/20101124122825id_/http%3A//lightpdf.com/www.ftc.gov/privacy) and [www.OnGuardOnline.gov](http://onguardonline.com/)  
 \- Any personal information you provide will be maintained in the United States
 
  _How to contact us_
