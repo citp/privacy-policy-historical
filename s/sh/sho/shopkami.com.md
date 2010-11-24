@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302101717id_/http%3A//shopkami.com/faqs/7/22-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124193358id_/http%3A//www.shopkami.com/faqs/7/22-privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy Notice-Buy Cheap Wholesale Price - Shop Kami
+# Privacy Notice
 
-**1.   Information Collection**   
-Net Kami Electronic collects information through our Web site at several points.  We collect the following information about primary visitors: IP address, geographical location, browser type, referral source, length of visit and number of page views.
+ShopKami.com collects information through our Web site at several points. We collect the following information about primary visitors: IP address, geographical location, browser type, referral source, length of visit and number of page views.
 
-We also collect information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services. Net Kami Electronic does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information.
-
-We collect this information through user registration forms, clickstream tracking, automatic logging files, and we use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+We also collect information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services. ShopKami.com does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information.  
+We collect this information through user registration forms, clickstream tracking, automatic logging files, and we use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
 We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes.  We may also use that information to recognise your computer when you visit our website, and to personalise our website for you.
 
@@ -15,11 +13,9 @@ Most browsers allow you to refuse to accept cookies.  (For example, in Internet
 
 We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website.  Google will store this information.  Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
-**2.   Information Usage.   
-**
+ **2\. Information Usage.**
 
-**  
-**The information collected by Net Kami Electronic will be used for:
+The information collected by ShopKami.com will be used for:
 
 (a)    administer the website
 
@@ -41,45 +37,42 @@ We use Google Analytics to analyse the use of this website.  Google Analytics g
 
 (j)    deal with enquiries and complaints made by or about you relating to the website
 
-And  
-
+And
 
 Registered users will receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.
 
-The information we collect will be used to create customer profiles based on browsing or purchasing history.  We will supplement information collected at our Web site with data from other sources such as credit history to authorize purchases.
+The information we collect will be used to create customer profiles based on browsing or purchasing history. We will supplement information collected at our Web site with data from other sources such as credit history to authorize purchases.
 
-We may share data with the following third parties: including shipping companies, credit card companies, and so on.  
+We may share data with the following third parties: including shipping companies, credit card companies, and so on.
 
-We offer links to other Web sites.  Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.  Their standards may differ from ours.
+We offer links to other Web sites. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
-Our Web site offers forums or message boards.  Please be advised that information posted in these venues becomes public knowledge. 
+Our Web site offers forums or message boards. Please be advised that information posted in these venues becomes public knowledge.
 
-**3\. Other disclosures**
+ **3\. Other disclosures**
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you: 
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
 
 (a)    to the extent that we are required to do so by law;
 
 (b)    in connection with any legal proceedings or prospective legal proceedings;
 
-(c)    in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and 
+(c)    in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
 
 (d)    to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
 
-**4\. Security of your personal data**
+ **4\. Security of your personal data**
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password.
+You are responsible for keeping your password and user details confidential. We will not ask you for your password.  
+ **  
+5\. Policy amendments**
 
-**5\. Policy amendments**
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
 
 **6\. Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@shopkami.com
-
-[](http://www.shopkami.com/www.website-law.co.uk "www.website-law.co.uk")
