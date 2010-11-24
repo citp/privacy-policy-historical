@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517043543id_/http%3A//www.brewersassociation.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124182301id_/http%3A//www.brewersassociation.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Brewers Association | Privacy Policy
 
@@ -24,7 +24,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ## Contacting this website
 
-For all privacy and policy questions with regards to this site, please contact [info@brewersassociation.org](mailto:info@brewersassociation.org "Email Brewers Association").
+For all privacy and policy questions with regards to this site, please contact [info@brewersassociation.org](mailto:info@brewersassociation.org?subject=BrewersAssociation.org%20Help).
 
 Though this site can and may contain links to non-Brewers Association sites, the Brewers Association is not responsible for the privacy practices or the content of these websites.
 
