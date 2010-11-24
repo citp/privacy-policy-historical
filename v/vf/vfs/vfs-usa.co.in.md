@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfs-usa.co.in privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603122553id_/http%3A//vfs-usa.co.in/USIndia/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs-usa.co.in privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055106id_/http%3A//vfs-usa.co.in/USIndia/privacypolicy.html) for the most accurate reproduction.*
 
 # VFS
 
@@ -29,6 +29,6 @@ Therefore, although VFS works very hard to protect users’ privacy, it cannot g
   
 | **General:** The contents of this Privacy Policy may be changed at any time and User will be subject to terms as applicable at the time of usage.  
   
-Copyright 2009 . VFS Global. All Rights Reserved. [User Terms and conditions](https://web.archive.org/web/20100603122553id_/http%3A//vfs-usa.co.in/USIndia/termsandconditions.html), [Privacy Policy](https://web.archive.org/web/20100603122553id_/http%3A//vfs-usa.co.in/USIndia/privacypolicy.html)  
+Copyright 2009 . VFS Global. All Rights Reserved. [User Terms and conditions](https://web.archive.org/web/20101124055106id_/http%3A//vfs-usa.co.in/USIndia/termsandconditions.html), [Privacy Policy](https://web.archive.org/web/20101124055106id_/http%3A//vfs-usa.co.in/USIndia/privacypolicy.html)  
   
 |  | 
