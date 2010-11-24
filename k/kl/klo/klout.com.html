@@ -1,17 +1,32 @@
-<!--The following is the downloaded HTML source of the klout.com privacy policy that was archived on 2010-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613071909id_/http%3A//klout.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the klout.com privacy policy that was archived on 2010-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124135651id_/http%3A//klout.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Klout Privacy Policy</title>
+    <meta name="description" content="Klout is the standard for influence. Look up your Klout Report to find your influence level, user style, and content.">
 
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.js" type="text/javascript"></script>
 
-        <link rel="stylesheet" href="/public/min/?g=css&amp;1275936129">
-                <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <!-- supply ecma5 array functions if they are not present in the browser -->
+    <script type="text/javascript" src="/public/scripts/ecma5.js?v="></script>
 
+        <link rel="stylesheet" href="/public/min/?g=css&amp;1290035857">
+    
+        <script type="text/javascript" src="/public/min/?g=main_js&amp;1289256028"></script>
+    
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="google-site-verification" content="1w-r3cxxTiOmj-LTIPpNCzTAE5kkHuX_dUi4qhFxKGY">
 </head>
 
-<body class="profile"><div id="main_nav" class="row">
+<body class="profile"><!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+<div id="main_nav" class="row">
     <div class="column grid_11">
         <span id="login"></span>
         <a href="/kscore">how we measure</a>
@@ -22,10 +37,9 @@
     <div class="column grid_5 signin">
         <a href="/blog">our blog</a>
         <a href="/contact">contact us</a>
-        <a href="#" id="liveintent_follow_us_btn" onmouseover="liveintent.li_show_app()" style="text-decoration: none;"><img src="http://cdn.liveintent.com/exwin/img/logo_v1.gif" border="0" style="padding-right: 3px;">
-		            <span pid="klout">Follow Us</span></a>
 	</div>
 </div>
+
 	<div id="container" class="row"><div class="inner">
         <div class="header">
 	<div class="signin searchbox">
@@ -77,6 +91,7 @@
 		</div> <!-- greyBox --> 		
 	</div>
 	
+
 <div class="footer row">
     <a href="http://blog.klout.com" target="_blank">Blog</a>
     <a href="http://developer.klout.com">Developers</a>
@@ -87,24 +102,70 @@
     <a href="/terms">Terms</a>
     <a href="/privacy">Privacy</a>
 </div>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+
 <!--[if IE]>
 <script type="text/javascript" src="/public/scripts/excanvas.compiled.js"></script>
 <![endif]-->
-<script type="text/javascript" src="/public/min/?g=main_js&amp;1276215636"></script>
 
+<!-- mixpanel -->
+<script type="text/javascript" src="/public/scripts/mixpanel.js?v="></script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+try {
+	var mpmetrics = new MixpanelLib('21e9cbcda806ca1cb4fc6137486ad3eb') ;
+    } catch(e) {
+	var null_fn = function () {} ;
+	var mpmetrics = {
+        track: null_fn,
+        track_funnel:
+        null_fn,
+        register: null_fn,
+        register_once: null_fn,
+        register_funnel: null_fn
+    } ;
+}
+</script>
+<!-- end mixpanel -->
+
+<!-- click tracking -->
+<script type="text/javascript">
+    // button tracking
+    $('body').delegate('.track-button', 'click', function() {
+        var id = $(this).attr('id') ;
+        mpmetrics.track(id + '-click') ;
+    }) ;
+
+    // twitter share button tracking
+    $('body').delegate('.tw-share-button', 'click', function() {
+        var id = $(this).attr('id') ;
+        mpmetrics.track('tw-share', { elementid: id }) ;
+    }) ;
+
+    // chart click tracking
+    $('.track-chart').click(function() {
+        var id = $(this).attr('id') ;
+        mpmetrics.track('score-page-chart-click', { elementid: id }) ;
+    }) ;
+</script>
+<!-- end click tracking -->
+
+<!-- google analytics -->
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<!-- end google analytics -->
+
 <script type="text/javascript">
     try {
         var pageTracker = _gat._getTracker("UA-6468957-1");
         pageTracker._setDomainName(".klout.com");
         pageTracker._trackPageview();
-    } catch(err) {}</script>
+    } catch(e) {
+        // intentionally blank
+    }
+</script>
 
+<!-- chartbeat -->
 <script type="text/javascript">
     var _sf_async_config={uid:2165,domain:"klout.com"};
     (function(){
@@ -113,22 +174,23 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
             var e = document.createElement('script');
             e.setAttribute('language', 'javascript');
             e.setAttribute('type', 'text/javascript');
-            e.setAttribute('src',
-                    (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-                            "static.chartbeat.com/js/chartbeat.js");
+            e.setAttribute('src', "http://static.chartbeat.com/js/chartbeat.js") ;
             document.body.appendChild(e);
         }
         var oldonload = window.onload;
-        window.onload = (typeof window.onload != 'function') ?
-                loadChartbeat : function() { oldonload(); loadFChartbeat(); };
+        window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
     })();
-
 </script>
+<!-- end chartbeat -->
+
+<!-- get satisfaction -->
 <script type="text/javascript" charset="utf-8">
     var is_ssl = ("https:" == document.location.protocol);
     var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
     document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+<!-- end get satisfaction -->
+
 <script type="text/javascript" charset="utf-8">
     var feedback_widget_options = {};
     feedback_widget_options.display = "overlay";
@@ -138,7 +200,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
     feedback_widget_options.style = "idea";
     var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 </script>
-<!-- Start Quantcast tag -->
+
+<!-- quantcast -->
 <script type="text/javascript">
     _qoptions={
         qacct:"p-aeKjlJXBiuePA"
@@ -148,9 +211,19 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <noscript>
     <img src="http://pixel.quantserve.com/pixel/p-aeKjlJXBiuePA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!-- End Quantcast tag -->
+<!-- end quantcast -->
 
-        <script type="text/javascript" language="javascript" src="http://cdn.liveintent.com/exwin/klout/exwin.js"></script>
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(1569,0.25,"www07");
+</script>
+<!-- ClickTale end of Bottom part -->
 
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+<script language="javascript" type="text/javascript" src="http://static.chartbeat.com/js/chartbeat.js"></script></body></html>
