@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getfree-articles.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330145301id_/http%3A//getfree-articles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfree-articles.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124221823id_/http%3A//getfree-articles.com/privacy-policy) for the most accurate reproduction.*
 
-# Get Free-Articles | Privacy Policy
+# Privacy Policy | Get Free-Articles
 
 Get Free-Articles attempts to suggest its visitors to gain an interactive and modified experience about various utilities of Internet Technology. We can use the information regarding the identity of an individual such as your name, mobile number, and email address, etc according to terms and conditions of the privacy policy. We assure that we would never put up for sell, trade or lease your email to any illegal third party.
 
