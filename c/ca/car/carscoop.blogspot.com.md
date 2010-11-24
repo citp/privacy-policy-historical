@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carscoop.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230075444id_/http%3A//carscoop.blogspot.com/2009/01/carscoop-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carscoop.blogspot.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124101915id_/http%3A//carscoop.blogspot.com/2009/01/carscoop-privacy-policy.html) for the most accurate reproduction.*
 
 # Carscoop Privacy Policy - Carscoop
 
@@ -37,5 +37,5 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-________________________________________________________________  
+____________________________________________________________________  
 
