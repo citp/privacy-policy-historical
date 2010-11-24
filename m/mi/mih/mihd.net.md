@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mihd.net privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209205243id_/http%3A//ifile.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mihd.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124123754id_/http%3A//ifile.it/privacy) for the most accurate reproduction.*
 
 # privacy | ifile.it
 
