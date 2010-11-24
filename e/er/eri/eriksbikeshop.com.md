@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629014045id_/http%3A//www.eriksbikeshop.com/ride/text_3.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124032835id_/http%3A//www.eriksbikeshop.com/ride/text_3.asp) for the most accurate reproduction.*
 
 # Erik's Bikes - Bicycling Clothing and Bike Gear. Number one online dealer for Specialized and Raleigh Bikes. Snowboarding equipment experts.
 
