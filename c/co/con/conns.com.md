@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513064951id_/http%3A//www.conns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124184105id_/http%3A//www.conns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
