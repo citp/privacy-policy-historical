@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172520id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124135755id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sugarrae
+# Privacy Policy
 
 This is the web site of Sugarrae, Inc..
 
@@ -28,4 +28,4 @@ Upon request we offer visitors the ability to have inaccuracies corrected in com
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server.
 
-If you feel that this site is not following its stated information policy, you may contact The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm. 
+If you feel that this site is not following its stated information policy, you may contact The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
