@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonhewitt.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516165448id_/http%3A//www.jacksonhewitt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonhewitt.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055945id_/http%3A//www.jacksonhewitt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Jackson Hewitt
 
