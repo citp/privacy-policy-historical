@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kofax.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105185529id_/http%3A//www.kofax.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kofax.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124161737id_/http%3A//www.kofax.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,9 @@ Personal Information means any information that may be used to identify an indiv
 
 If you choose to provide us with your Personal Information on the Web, we may transfer that Information within Kofax or to Kofax's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-Kofax strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Kofax intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.  
-Cookies and Other Tracking Technologies
+Kofax strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Kofax intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+
+###  Cookies and Other Tracking Technologies
 
 Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
@@ -37,7 +38,7 @@ Wherever your Personal Information may be held within Kofax or on its behalf, we
 
 To the extent that you do provide us with Personal Information, Kofax wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Kofax should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy_kfxus@kofax.com](mailto:privacy_kfxus@kofax.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
-## Third Party Services
+### Third Party Services
 
 Third parties provide certain services available on Kofax.com on Kofax's behalf. Kofax may provide information, including Personal Information, that Kofax collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Kofax maintains its Web site and mailing lists. Kofax will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Kofax's behalf.
 
@@ -46,11 +47,12 @@ Children's Privacy
 
 Kofax.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
 
-## Commitment
+### Commitment
 
 We are committed to privacy and, through our membership in the Online Privacy Alliance, are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and Kofax's Web sites are constantly evolving to meet these demands.
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at [privacy_kfxus@kofax.com](mailto:privacy_kfxus@kofax.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.  
-Your Consent
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [privacy_kfxus@kofax.com](mailto:privacy_kfxus@kofax.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+
+###  Your Consent
 
 By using this Web site, you consent to the terms of our Online Privacy Policy and to Kofax's processing of Personal Information for the purposes given above as well as those explained where Kofax collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time
