@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328110340id_/http%3A//www.shimadzu.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060100id_/http%3A//shimadzu.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : SHIMADZU (Shimadzu Corporation)
 
@@ -73,7 +73,6 @@ Shimadzu Corporation IT Center
 
 7102 Riverwood Drive, Columbia, MD 21046, U.S.A.  
 Telephone: 1-800-477-1227 / 1-410-381-1227, Fax: 410-381-1222  
-E-mail: [privacy@shimadzu.com](mailto:privacy@shimadzu.com)  
 
 
   
