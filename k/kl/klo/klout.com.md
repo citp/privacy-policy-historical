@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klout.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613071909id_/http%3A//klout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klout.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124135651id_/http%3A//klout.com/privacy) for the most accurate reproduction.*
 
 # Klout Privacy Policy
 
