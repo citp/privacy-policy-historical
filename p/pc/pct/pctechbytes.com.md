@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pctechbytes.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925110025id_/http%3A//www.pctechbytes.com/disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctechbytes.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055708id_/http%3A//www.pctechbytes.com/disclaimer.htm) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
@@ -40,6 +40,13 @@ Our Privacy Practices with Third Parties We may share aggregate, non-personally 
 
 Our intention is never to use or share personally identifiable information provided to us in ways that are different than the ways described above without also providing you with an opportunity to "unsubscribe" or prohibit such unrelated uses. 
 
+**DoubleClick DART cookies**  
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx ](http://www.doubleclick.com/privacy/dart_adserving.aspx)
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+
 **Links to Other Sites**  
 You should be aware that when you are on PCTechBytes, LLC Web sites you could be directed to other sites that are beyond our control. There may be links to other sites that take you outside our service. This includes links from advertisers, sponsors, and partners that may use the PCTechBytes, LLC logo. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. Always be aware of where you end up. Check the linked site to locate its Privacy Policy, which may be different from our own. If the PCTechBytes, LLC Web site links you to any third party Web site, PCTechBytes, LLC makes no representation as to the existence, sufficiency, accuracy or completeness of its Privacy Policy. 
 
@@ -60,4 +67,4 @@ We provide links to web sites operated by other parties. The links are provided 
 
 All articles on PCTechBytes are protected under Copyright laws. Articles may not be reproduced without permission. If our content is stolen, we will take legal action. While we do allow syndication on our forums, these articles are not to reproduced without permission. 
 
-[Return to pctechbytes](https://web.archive.org/web/20090925110025id_/http%3A//www.pctechbytes.com/index.htm)
+[Return to pctechbytes](https://web.archive.org/web/20101124055708id_/http%3A//www.pctechbytes.com/index.htm)
