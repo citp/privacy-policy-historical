@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newtribez.net privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524181952id_/http%3A//www.newtribez.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtribez.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124030302id_/http%3A//www.newtribez.net/policy) for the most accurate reproduction.*
 
-# privacy_policy » NewTribeZ - Your Community with Heart
+# privacy_policy » NewTribeZ Your Community with Heart
 
 **NewTribeZ Privacy Policy**   
 This Privacy Policy describes NewTribeZ's policies and procedures on the collection, use and disclosure of your information. NewTribeZ receives your information through our various sources such as; web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by NewTribeZ in Australia or any other country where NewTribeZ operates. 
