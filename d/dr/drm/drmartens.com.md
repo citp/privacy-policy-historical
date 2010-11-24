@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drmartens.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526211802id_/http%3A//www.drmartens.com/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drmartens.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124091229id_/http%3A//www.drmartens.com/disclaimer.asp) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
