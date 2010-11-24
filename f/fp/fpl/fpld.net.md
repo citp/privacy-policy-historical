@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fpld.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616161147id_/http%3A//fpld.net/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpld.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124170149id_/http%3A//fpld.net/p/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Premium Link and Article Directory
-
-### Privacy Policy for http://fpld.net
+# Privacy Policy - Business Directory
 
 **The privacy of our visitors to http://fpld.net is important to us.**
 
@@ -20,11 +18,3 @@ We also use third party advertisements on http://fpld.net to support our site. S
 The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
-
-
-| 
-
-[](http://fpld.net/articles/suggest-article.php "Increase Visitors to Your Site, Submit articles")
-
-  
-
