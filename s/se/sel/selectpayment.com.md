@@ -1,33 +1,15 @@
-> *The following text is extracted and transformed from the selectpayment.com privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206184715id_/http%3A//selectpayment.com/selectpayment/AboutUs/PrivacyPolicy.asp%3FInfo%3D%26context%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectpayment.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060248id_/http%3A//www.profitstars.com/Default.aspx%3FP%3D4a1efecc-b48f-4088-b527-0ba4646d4b84) for the most accurate reproduction.*
 
-# Privacy Statement
+# Profitstars.com
 
-Select Payment takes privacy and data protection issues very seriously. Select Payment Privacy Policy is designed to ensure the safety of personal identity information collected from merchants who sign up for Select Payment electronic check or check conversion services and submit information through the Internet. 
+Customer relationships at Jack Henry & Associates, Inc. ("JHA") are built on trust. You have chosen to do business with JHA, and we guard that relationship with great care, beginning with the information you have chosen to share with us.
 
-As the Select Payment services change, we may revise this policy. If you have questions about Select Payment privacy practices please contact us at [support@selectpayment.com](https://web.archive.org/selectpayment/AboutUs/EmailUs.asp?to=support@selectpayment.com&Context=). 
+JHA is dedicated to respecting and protecting your privacy. We maintain information about you in order to provide you with the most effective and convenient access to our broad range of products and services. We want you to understand what information we collect, and how we use and protect it. This notice serves as a standard for all JHA employees for collection, use, retention and security of nonpublic personal consumer information. In accordance with the Gramm-Leach-Bliley Act, this section details how we deal with any information collected through this site. 
 
-Select Payment Privacy Policy covers the handling of personal information collected from merchants who use the Select Payment electronic check processing solution, as well as consumer information that we acquire in the course of our business. This Policy also covers the handling of personal information that Select Payment business partners may share with it. 
+Our Security Procedures maintain the security of our customer information. We restrict access to your personal and account information to persons who need to know that information to provide you products or services. We maintain physical, electronic and procedural safeguards to guard information.
 
-**Information Collected**   
-Select Payment collects personal information when you register for a merchant account. Select Payment may also receive personal information from its resellers and other business partners. 
+You may visit JHA's Web site without revealing your identity or any personal information. We do not collect any personally identifiable information about you through the use of "cookies" or by any other secret means. The only information we retain is the information you explicitly provide us when you fill out a form, sign up for service on this or other JHA Sites or other JHA services. We also keep track of the domains from which people visit us for internal analysis of trends and statistics, although this information is not linked to you personally. 
 
-When you sign up with Select Payment, we ask for your contact information (such as your name, street address, phone, fax and email address), and may request information pertaining to your business, such as a financial statements, bank account and/or settlement account information. 
+Furthermore, we only use the information you provide for the purpose you originally intended. For example, if you sign up to receive JHA announcements via electronic mail, we will retain your personal information for the sole purposes of transmitting announcements to you. And except as required by law or court order, we will not release any information provided by you to any third party. JHA does not disclose nonpublic personal information about you to any companies that are not members of our corporate family, except as permitted by federal law, specifically Title V of the Gramm-Leach-Bliley Act of 1999.
 
-In processing an electronic check transaction, we typically receive from the merchant information related to the transaction. This includes information about the transaction that a consumer has furnished the merchant in placing the order. 
-
-The personal information we receive in processing transactions varies according to the nature of the transaction and the way in which merchants are using our electronic check services. It will include customer information, banking information and transaction information. 
-
-Select Payment uses the information collected to fulfill merchant requests for e-check services, to process e-check transactions, to facilitate billing, and otherwise deliver the Internet payment gateway services. Personal consumer information is used to process payment transactions and for no other purpose. 
-
-**Information Disclosure**   
-Protecting personal information about merchants and consumers is an important part of our business. Personal information is shared with third party banks to the extent necessary for Select Payment to complete the e-check transaction. 
-
-We also may release personal information when we believe release is appropriate to comply with law or verify information with other companies for fraud protection and risk reduction. 
-
-**Information Security**   
-Information security is critical to our business. We work to protect the security of your information during transmission by using 128-bit Secure Sockets Layer (SSL) software, which encrypts information you send. Information gathered is stored on computers located in a secure data center. The number of people at the data center that have physical access to these computers is limited. Firewalls and other security technology are used to prevent system computers from being accessed by unauthorized persons. 
-
-It is the merchant's responsibility to protect against unauthorized access to the Login ID/password. Be sure to sign off when finished with a merchant session and protect the password used to access the Select Payment web site. 
-
-**System Access**   
-Select Payment gives merchant authorized personnel the ability to set system access and user permissions on an individual basis. The merchant may determine system view administrative settings. 
+JHA reserves the right to exclude anyone from any of its subscription e-mail lists at its sole discretion. JHA is not responsible for the content or privacy practices of other Web sites to which this site may link.
