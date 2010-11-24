@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imomoko.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616003106id_/http%3A//www.imomoko.com/pages.php%3Fkb%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imomoko.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124125214id_/http%3A//imomoko.com/pages.php%3Fkb%3D7) for the most accurate reproduction.*
 
 # 
 
@@ -24,13 +24,13 @@ DARIYA Maegami Fringe Holder Pink
   
 | 
 
-NARIS UP Eggshell & Charcoal MASK  
+L'EGERE Shiny Pearl Blemish Balm BB Cream  
   
 ---|---  
   
 | 
 
-L'EGERE Shiny Pearl Blemish Balm BB Cream  
+Kevin Beautymaker Aquamarine Hydrating Serum   
   
 ---|---  
   
