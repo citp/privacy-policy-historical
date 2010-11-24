@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toydemon.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310223556id_/http%3A//www.toydemon.com/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toydemon.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124174016id_/http%3A//www.toydemon.com/Privacy-statement.html) for the most accurate reproduction.*
 
 # ToyDemon :: Privacy statement
 
