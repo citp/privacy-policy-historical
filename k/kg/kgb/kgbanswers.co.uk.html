@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the kgbanswers.co.uk privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618013737id_/http%3A//www.kgbanswers.co.uk/base/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kgbanswers.co.uk privacy policy that was archived on 2010-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124135123id_/http%3A//kgbanswers.co.uk/base/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta name="google-site-verification" content="8GgThHwZiDxWJsnUvyKftoGYClUjXzzgs2Ewi1Pbjos">
 <title>kgb answers</title>
-<meta name="description" content="">
-<link rel="stylesheet" type="text/css" href="http://kgb-answers-tm.s3.amazonaws.com/css/style.css">
-<link rel="stylesheet" type="text/css" href="http://kgb-answers-tm.s3.amazonaws.com/css/style_uk.css">
+    <meta name="description" content="">
+
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="http://kgbdeals-images.s3.amazonaws.com/css/style_uk.css">
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-<link rel="image_src" href="http://kgb-answers-tm.s3.amazonaws.com/images/kgb-fbshare-icon.jpg">
+<link rel="image_src" href="http://kgbdeals-images.s3.amazonaws.com/images/kgb-fbshare-icon.jpg">
 <!--[if lte IE 6]>
 <style type="text/css">
-.spt {background-image:url(http://cloudfront-kgb.thismoment.com/images/kgb-sprite-007.gif);}
+.spt {background-image:url(http://kgbdeals-images.s3.amazonaws.com/images/kgb-sprite-007.gif);}
 #glow {background:none;}
 .askanexpert .rc {line-height:1.1;}
 .askanexpert .rc .phone {margin-bottom:10px;}
@@ -33,7 +34,8 @@
     google_maps_key = 'ABQIAAAALPyYyEgvoc7ZKpLiu_JG6RSCzQCKBocGSW1-7rX9PFNxEqgj-xSTFFWJLM4aemQgl1m66AjMxpNf6Q';
     window.google_analytics_uacct = 'UA-9040685-9';
 </script>
-</head>
+<link rel="stylesheet" type="text/css" href="/js/sIFR/css/sifr.css"></head>
+
 <body id="home">
 
    <div id="container">
@@ -70,7 +72,7 @@
     <div id="cat_nav">
         <div class="wrap">
                 </div>
-    </div><div class="spt content-top"></div>
+    </div> <div class="spt content-top"></div>
         <div class="content">
             <h1>Privacy Policy</h1>
             <h4>INFORMATION ABOUT THE NUMBER AND OUR WEBSITE</h4>
@@ -132,7 +134,7 @@
 <div class="spt content-bot"></div>	<div id="footer">
 	    
 	    <div id="footbg" class="spt">
-            <div id="follow">follow us:&nbsp;&nbsp;<a href="http://twitter.com/kgb542542">twitter</a>&nbsp;&nbsp;<a href="http://www.facebook.com/kgb">facebook</a>&nbsp;&nbsp;<a href="http://www.youtube.com/user/kgbkgb542542">youtube</a></div>
+            <div id="follow">follow us:&nbsp;&nbsp;<a href="http://twitter.com/kgb542542">twitter</a>&nbsp;&nbsp;<a href="http://www.facebook.com/kgbanswers">facebook</a>&nbsp;&nbsp;<a href="http://www.youtube.com/user/kgbkgb542542">youtube</a></div>
             <div id="footlogo"><a href="http://www.kgbanswers.co.uk">kgb</a></div>
             <ul id="footnav">
                                 <li>
@@ -155,18 +157,158 @@
                         copyright ©2010 <a href="http://www.kgb.com">kgb</a>. All rights reserved &nbsp;|&nbsp; <a href="/base/terms">Terms of use</a> &nbsp;|&nbsp; <a href="/base/privacy">Privacy</a> &nbsp;|&nbsp; <a href="http://542542.com/guidelines" target="_blank">Guidelines</a>
                     </p>
         <p class="legals">
-                        * Questions are normally charged at your standard network rate. Answers from 542542 cost a pound.
+                        * Questions are normally charged at your standard network rate. Answers from 542542 cost £1.20.
                     </p>
 	</div>
 
 </div>
 
-<script type="text/javascript" src="http://kgb-answers-tm.s3.amazonaws.com/js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="http://kgb-answers-tm.s3.amazonaws.com/js/ui5.js"></script>
+<script type="text/javascript" src="http://kgbdeals-images.s3.amazonaws.com/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/ui.js"></script>
 <script type="text/javascript" src="/js/KGB_400.font.js"></script>
+<script type="text/javascript" src="/js/sIFR/js/sifr.js"></script>
+
 <script type="text/javascript">
     Cufon.replace('h3, h4');
     Cufon.now();
+
+    var sifr_kgb = {
+      src: '/js/sIFR/flash/kgb.swf'
+    };
+    $(document).ready(function(){
+    
+        if (typeof sIFR == 'object')
+        {
+            sIFR.activate(sifr_kgb);
+            sifr_alerts_trigger();
+        }
+    });
+
+    /**
+     * fire sifr on alerts page
+     */
+    function sifr_alerts_trigger() 
+    {
+        sIFR.replace(sifr_kgb, {
+            selector: '#alerts_header_text h1',
+                css: [
+            '.sIFR-root { font-weight: normal; font-size:30px; color:#FFFFFF; margin-top:0px;}'
+            ],
+            wmode: 'transparent',
+            filters: {
+                DropShadow: {
+                    distance: 3,
+                    color: '#031425',
+                    strength: 3
+                }
+            },
+            onReplacement: function() {
+                // offset issues, fix them
+                $('#alerts_header_text h1 > object').css('margin-bottom', '-10px');
+            }
+        });
+        sIFR.replace(sifr_kgb, {
+            selector: '#alerts_header_text h2',
+                css: [
+            '.sIFR-root { font-weight: normal; font-size:20px; color:#FFFFFF; margin-top:10px;}'
+            ],
+            wmode: 'transparent',
+            filters: {
+                DropShadow: {
+                    distance: 3,
+                    color: '#031425',
+                    strength: 3
+                }
+            },
+            onReplacement: function() {
+                // offset issues, fix them
+                $('#alerts_header_text h2 > object').css('margin-bottom', '0px');
+            }
+        });
+	sIFR.replace(sifr_kgb, {
+            selector: '#alerts_promo_text h1',
+                css: [
+            '.sIFR-root { font-weight: normal; font-size:30px; color:#FFFFFF; margin-top:0px;}'
+            ],
+            wmode: 'transparent',
+            filters: {
+                DropShadow: {
+                    distance: 3,
+                    color: '#031425',
+                    strength: 3
+                }
+            },
+            onReplacement: function() {
+                // offset issues, fix them
+                $('#alerts_header_text h1 > object').css('margin-bottom', '-10px');
+            }
+        });
+        sIFR.replace(sifr_kgb, {
+            selector: '#alerts_promo_text p.alerts_promo_p',
+            css: [
+                '.sIFR-root { font-weight: normal; font-size:20px; color:#FFFFFF;}'
+            ],
+            wmode: 'transparent',
+            fitExactly: true,
+            onReplacement: function() {
+                // offset issues, fix them
+                $('#alerts_promo_text p.alerts_promo_p > object').css('margin-bottom', '-10px');
+            }
+        });
+        sIFR.replace(sifr_kgb, {
+            selector: '#alerts_promo_text p span',
+            css: [
+                '.sIFR-root { font-weight: normal; font-size:12px; color:#5FE1DF;}'
+            ],
+            wmode: 'transparent'
+        });       
+        sIFR.replace(sifr_kgb, {
+            selector: '#kgbalerts_widget .wiz_headline .sifrIt ',
+            css: [
+                '.sIFR-root { text-align: center; font-weight: normal; font-size:22px; color:#FE0000; }'
+            ],
+            filters: {
+                DropShadow: {
+                    distance: 1,
+                    color: '#898989',
+                    strength: 1
+                }
+            }       
+        });  
+        sIFR.replace(sifr_kgb, {
+            selector: '#info4_widget .wiz_headline .sifrIt ',
+            css: [
+                '.sIFR-root { text-align: center; font-weight: normal; font-size:22px; color:#05375A; }',
+            ],
+            filters: {
+                DropShadow: {
+                    distance: 1,
+                    color: '#898989',
+                    strength: 1
+                }
+            }        
+        });  
+    }
+    
+    /**
+     * Keep track of alerts in analytics
+     */
+    function alerts_ga_track(cat, action, number)
+    {
+        if (number.length < 10)
+            return false;
+        
+        _gaq.push(['_trackEvent', cat, action, number]);
+        setTimeout(function() { pageTracker._trackPageview('/alerts#' + cat + '/' + action + '/' + number); } , 2000);
+        // SEM tracking
+        if (action == 'Started' && $('#_4info_sem').length == 0)
+        {
+            window.location.hash = '#' + action + '/'+ number;
+            $('#fiWidget').append('<img src="http://122.xg4ken.com/media/redir.php?track=1&token=54993f58-af00-48f6-94bf-72b1f07a1655&type=homepage&val=0.0&orderId=&promoCode=&valueCurrency=USD" width="1" height="1" id="_4info_sem">');
+        }
+        
+    }
+    
 </script>
 
 
