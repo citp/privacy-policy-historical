@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164855id_/http%3A//www.privateislandsonline.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134710id_/http%3A//www.privateislandsonline.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Private Islands Online Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * All inquiries sent through Private Islands Online are sent to the island's owner or agent. 
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
   * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
   * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
@@ -22,5 +22,5 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
 **How to Contact Us**  
-If you have questions about this Privacy Policy, please contact us using the information listed on our "[Contact Us](http://web.archive.org/contact.htm)" page. For technical questions about the operation of this Web site, please contact us at [mailbox@privateislandsonline.com  
-](mailto:mailbox@privateislandsonline.com)
+If you have questions about this Privacy Policy, please contact us using the information listed on our "[Contact Us](http://web.archive.org/contact.htm)" page. For technical questions about the operation of this Web site, please contact us at [info@privateislandsinc.com.com  
+](mailto:info@privateislandsinc.com)
