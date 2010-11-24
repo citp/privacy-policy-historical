@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressuppink.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413214734id_/http%3A//www.dressuppink.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressuppink.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124025255id_/http%3A//www.dressuppink.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dress Up Games - Barbie Games - Dressuppink.com!
 
