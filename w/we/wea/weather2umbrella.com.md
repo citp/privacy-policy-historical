@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329225638id_/http%3A//weather2umbrella.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124032448id_/http%3A//www.weather2umbrella.com/en/privacy/eta/9/314) for the most accurate reproduction.*
 
-# Weather Forecast - Privacy Statement .. Weather2Umbrella® ..
+# Weather Forecast - Meteo | Vremenska Prognoza ..Weather2Umbrella ®..
 
 **  
 Online privacy statement**
@@ -80,4 +80,4 @@ If there are updates to the terms of W2U's Online Privacy Statement, we will pos
 
 11\. Give Us Your Feedback 
 
-Our goal is to protect your privacy. If you have comments or questions about our privacy policy, please send them to the [W2U Privacy Office](mailto:office@weather2umbrella.com?subject=Privacy%20Statement) .
+Our goal is to protect your privacy. If you have comments or questions about our privacy policy, please send them to the W2U Privacy Office.
