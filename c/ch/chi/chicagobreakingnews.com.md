@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobreakingnews.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614183005id_/http%3A//www.chicagotribune.com/services/site/chi-privacy%2C0%2C4121982.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobreakingnews.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124032100id_/http%3A//www.chicagotribune.com/services/site/chi-privacy%2C0%2C4121982.story) for the most accurate reproduction.*
 
 # Privacy policy - chicagotribune.com
 
@@ -8,7 +8,7 @@ Chicagotribune.com strives to offer its visitors the many advantages of Internet
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, updates, and other products), or make a purchase. You may also provide information when you participate in sweepstakes or contests, voting and polling activities, and other interactive areas of our site. Chicagotribune.com may combine information that we collect with information we obtain from third parties and affiliates.
 
-Like most Web sites, Chicagotribune.com also collects and stores information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. We may also use "cookie" technology. Among other things, we may use cookies or other tracking technology for the purposes of storing your user name and password, to spare you from having to re-enter that information each time you visit, or to control the advertising you see on our site. Moreover, we may collect and store data concerning the pages on the site that you view, as you navigate to various pages on our site. Because we are aware of the content appearing on the pages that you view, it is possible that we will be able to make relatively accurate assumptions about your interests and preferecnes from this navigational information that we collect. As we adopt additional technology, we may also gather information through other means.
+Like most Web sites, Chicagotribune.com also collects and stores information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. We may also use "cookie" technology. Among other things, we may use cookies or other tracking technology for the purposes of storing your user name and password, to spare you from having to re-enter that information each time you visit, or to control the advertising you see on our site. Moreover, we may collect and store data concerning the pages on the site that you view, as you navigate to various pages on our site. Because we are aware of the content appearing on the pages that you view, it is possible that we will be able to make relatively accurate assumptions about your interests and preferences from this navigational information that we collect. As we adopt additional technology, we may also gather information through other means.
 
 In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password, if applicable. Additionally, we may not be able to customize the site's features according to your preferences. Finally, information you post to public areas of the site is not private, and such information is not covered by this policy. Do not post personal information to public areas of the site unless you intend to make that information public.
 
@@ -58,7 +58,7 @@ Chicagotribune.com
 c/o Editor  
 435 Michigan Avenue  
 Chicago, IL 60611  
-[tips@tribune.com](mailto:tips@tribune.com)
+[consumerservices@tribune.com](mailto:%20consumerservices@tribune.com).
 
 **Your California Privacy Rights.**
 
