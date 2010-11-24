@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619083136id_/http%3A//www.wearpact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124062111id_/http%3A//www.wearpact.com/privacy) for the most accurate reproduction.*
 
 # PACT Organic Underwear: Privacy Policy
 
@@ -11,13 +11,19 @@ At PACT, we value our customers and respect your privacy. This policy describes 
 If you have any questions about our privacy policy, please contact us at [info@wearPACT.com](mailto:info@wearPACT.com) any time or call us at 800.662.PACT between 9am and 5pm Pacific time. 
 
 Privacy Policy  
-Last updated July 13, 2009 
+Last updated November 12, 2010 
 
 ## What kind of information does PACT Apparel, Inc. collect?
 
 We may collect personal information from you, such as your name, email address, postal address, phone number, and credit card number when you place an order online or by phone, create an account with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We only store your order history and contact information. We do not store your credit card information on our servers. 
 
 When you visit wearPACT.com, we collect navigational information, such as browser type and version, service-provider identification, IP address, and the site from which you came. Navigational information is largely anonymous in the sense that it doesn't contain your name, address, phone number, email address or other information that directly identifies you. 
+
+PACT and its marketing partners use form elements and/or cookies to collect information and enable certain technology solutions used to operate our online store and to market our products. 
+
+A cookie is a short line of text that attached to your browser when you visit a website or view a particular advertisement. This cookie can then be identified to determine how often you have visited a site or seen particular ad. Cookies are otherwise generic, and cannot be used to access any other information on your computer. 
+
+PACT uses cookie data we collect to operate, maintain, enhance, and provide all of the features, information and services outlined at [wearpact.com](http://wearpact.com/). PACT may also use this information to understand and analyze the usage trends and preferences of our users, to improve the way the site and PACT technology works and looks, and to create new features and functionality. Cookie data may also be used by PACT marketing partners to enhance our customers' advertising experience on wearPACT.com or other venues across the internet. 
 
 ## How does PACT Apparel, Inc. use my information?
 
