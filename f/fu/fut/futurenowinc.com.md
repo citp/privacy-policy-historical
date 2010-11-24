@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107010909id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124172147id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Future Now Inc and GrokDotCom
 
@@ -23,7 +23,7 @@ Individuals must affirmatively ask to join our mailing lists using the forms pro
 **Unsubscribe Policy  
 **We strive to only send e-mail to those who want to receive it. If you would not like to receive future e-mails from us, reply to any email with **UNSUBSCRIBE** as the subject.
 
-[](https://web.archive.org/recession_marketing/?lgid=recession_marketing)
+[](https://web.archive.org/resources/FutureNow_Marketing_In_A_Recession.pdf)
 
 ## Recent Clients
 
@@ -40,10 +40,6 @@ WebEx
 ShoeLine  
 ICE.com  
 
-
-[](https://web.archive.org/google_authorized_consultants.htm)
-
-[](https://web.archive.org/google_authorized_consultants.htm)
 
   
 
