@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the needlive.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605114534id_/http%3A//www.needlive.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needlive.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124120216id_/http%3A//www.needlive.com/privacypolicy.php) for the most accurate reproduction.*
 
-# NeedLive.com - Közvetítjük a világot
+# NeedLive.com - The number one live adult webcam community
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
