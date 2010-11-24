@@ -1,56 +1,39 @@
-<!--The following is the downloaded HTML source of the stilacosmetics.com privacy policy that was archived on 2010-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624113034id_/http%3A//www.stilacosmetics.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stilacosmetics.com privacy policy that was archived on 2010-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124162946id_/http%3A//www.stilacosmetics.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<meta name="google-site-verification" content="q6-4dyftzlNiVxUBSuCoS_tLWGzSiraW5uFJl4iQYRk">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/images/iphone/stila_logo.png">
+    <!--<link rel="stylesheet" href="/includes/scroller.css" type="text/css" media="screen" title="no title" charset="utf-8">-->
+    <!--<link rel="stylesheet" href="/includes/tabs.css" type="text/css" media="screen" title="no title" charset="utf-8">-->
+    <!-- <link rel="image_src" href="/images/fb/main_tn_summersteal.jpg" /> -->
+    
+    <!--<link type="text/css" rel="stylesheet" href="/includes/main.css">-->
+    
+    <link href="/stylesheet.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="/js/pngfix.js"></script>
+<![endif]-->
+    <!--[if IE 6]>
+<link href="/stylesheetIE6.css" rel="stylesheet" type="text/css" />
 
-	<link rel="icon" href="/favicon.png" type="image/x-icon">
-
-	<link rel="stylesheet" href="/includes/scroller.css" type="text/css" media="screen" title="no title" charset="utf-8">
-	<link rel="stylesheet" href="/includes/tabs.css" type="text/css" media="screen" title="no title" charset="utf-8">
-	<!-- <link rel="image_src" href="http://www.stilacosmetics.com/images/fb/main_tn_summersteal.jpg" /> -->
-	<style type="text/css" media="screen">
-
-	</style>
-<link type="text/css" rel="stylesheet" href="/includes/main.css">
-
-	<script src="/includes/AC_RunActiveContent.js" language="javascript"></script>
-	<script language="javascript">AC_FL_RunContent = 0;</script>
-	<script src="/includes/droplist.js" type="text/javascript"></script>
-	<script src="/includes/jquery-1.3.2.min.js" type="text/javascript"></script>
-	<script src="/includes/carousel.js" language="javascript"></script>
-	<script src="/includes/js_functions.js" type="text/javascript"></script>
-	<script src="/includes/js_ajax.js" type="text/javascript"></script>
-
-	<script language="JavaScript" type="text/javascript">
+<![endif]-->
+    <script src="/includes/AC_RunActiveContent.js" language="javascript"></script>
+    <script language="javascript">AC_FL_RunContent = 0;</script>
+    <script src="/includes/droplist.js" type="text/javascript"></script>
+   <script src="/includes/js_functions.js" type="text/javascript"></script>
+    <script src="/includes/js_ajax.js" type="text/javascript"></script>
+<script src="/includes/js_ajax_itemcount.js" type="text/javascript"></script>
+<script src="/includes/js_ajax_getprodimage.js" type="text/javascript"></script>
+<script src="/includes/js_ajax_recommends.js" type="text/javascript"></script>
+    <script language="JavaScript" type="text/javascript">
 	<!-- 
 		self.name = "main_window";
 	// -->
 	</script>
-	<link rel="stylesheet" type="text/css" href="/includes/shadowbox.css">
-	<script type="text/javascript" src="/includes/shadowbox.js"></script>
-	
-	
-	<script type="text/javascript">
-	
-	Shadowbox.init({
-	    language: 'en',
-	    players:  ['img', 'html', 'iframe']
-	
-	
-	});
-	</script><script src="https://web.archive.org/includes/languages/shadowbox-en.js"></script><script src="https://web.archive.org/includes/players/shadowbox-img.js"></script><script src="https://web.archive.org/includes/players/shadowbox-html.js"></script><script src="https://web.archive.org/includes/players/shadowbox-iframe.js"></script><script src="https://web.archive.org/includes/adapters/shadowbox-jquery.js"></script>
-	<script type="text/javascript">
-	function openShadowbox(content, player, title, width, height){
-	    Shadowbox.open({
-	        content:    content,
-	        player:     player,
-	        title:      title,
-			width:		width,
-			height:		height
-	    });
-	}
-	</script>
-	<script type="text/javascript" charset="utf-8">
+    <script type="text/javascript" charset="utf-8">
 		$(function(){
 			
 			var tabContainer = $('div#tabs > div');
@@ -64,248 +47,816 @@
 				$(this).parent().addClass('current');
 				return false;
 			}).filter(':first').click();
+			
+			
+			
+			
+			
+			
+			// SLIDING HOME PAGE TILE - START	
+			//Show the paging and activate its first link
+			$(".paging").show();
+			$(".paging a:first").addClass("active");
+			
+			//Get size of the image, how many images there are, then determin the size of the image reel.
+			var imageWidth = $(".window").width();
+			var imageSum = $(".image_reel img").size();
+			var imageReelWidth = imageWidth * imageSum;
+			
+			//Adjust the image reel to its new size
+			$(".image_reel").css({'width' : imageReelWidth});
+						
+			//Paging  and Slider Function
+			rotate = function(){
+			    var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+			    var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+			
+			    $(".paging a").removeClass('active'); //Remove all active class
+			    $active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+			
+			    //Slider Animation
+			    $(".image_reel").animate({
+			        left: -image_reelPosition
+			    }, 500 );
+			}; 
+			
+			//Rotation  and Timing Event
+			rotateSwitch = function(){
+			    play = setInterval(function(){ //Set timer - this will repeat itself every 7 seconds
+			        $active = $('.paging a.active').next(); //Move to the next paging
+			        if ( $active.length === 0) { //If paging reaches the end...
+			            $active = $('.paging a:first'); //go back to first
+			        }
+			        rotate(); //Trigger the paging and slider function
+			    }, 20000); //Timer speed in milliseconds (7 seconds)
+			};
+			
+			rotateSwitch(); //Run function on launch	
+			//On Hover
+			$(".image_reel a").hover(function() {
+			    clearInterval(play); //Stop the rotation
+			}, function() {
+			    rotateSwitch(); //Resume rotation timer
+			});	
+			
+			//On Click
+			$(".paging a").click(function() {
+			    $active = $(this); //Activate the clicked paging
+			    //Reset Timer
+			    clearInterval(play); //Stop the rotation
+			    rotate(); //Trigger rotation immediately
+			    rotateSwitch(); // Resume rotation timer
+			    return false; //Prevent browser jump to link anchor
+			});
+			// SLIDING HOME PAGE TILE - END
+			
+			
+			
 		});
 	</script>
-	<script language="javascript">AC_FL_RunContent = 0;</script>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="revisit-after" content="30 Days">
-	<meta name="revisit" content="15 days">
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="verify-v1" content="vshyyC9FNsL8nqZi1yh9utOnPblj/0hcgtbPZzgGnFk=">
-	<meta name="Author" content="Stila Styles, LLC">
-	<meta name="robots" content="All">
+    <script language="javascript">AC_FL_RunContent = 0;</script>
+    <script type="text/javascript" charset="utf-8" src="/js/jquery.hoverIntent.minified.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/js/jquery.lazyload.js"></script>
+    <link rel="stylesheet" type="text/css" href="/carousels.css">
+    <script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>	
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="revisit-after" content="15 Days">
+    <meta name="revisit" content="15 days">
+    <meta name="verify-v1" content="vshyyC9FNsL8nqZi1yh9utOnPblj/0hcgtbPZzgGnFk=">
+    <meta name="Author" content="Stila Styles, LLC">
+    <meta name="robots" content="All">
+    
+    <title>Stila Cosmetics Privacy Policy</title>
+    <meta name="Description" content="When you provide us with information through stilacosmetics.com (the " site"),="" we="" respect="" your="" privacy."="">
+    <meta name="Keywords" content="stila cosmetics,makeup, make up,kitten eye shadow,cherry crush lip cheek,stain,illuminating moisturizer,talking palette,eyeliner,eye liner,lip glaze,lip gloss,lip color,convertible color,lipstick,foundation,tinted moisturizer,smudge pot">
+    
+    <script type="text/javascript" src="/js/jquery.fancybox-1.3.1.js"></script>
+    <link rel="stylesheet" type="text/css" href="/jquery.fancybox-1.3.1.css" media="screen">
+    <script type="text/javascript" src="/js/stilafunctions.js">
+    //you shall not edit!
+    </script>
+<script type="text/javascript" src="/js/jQuery.niceTitle.js"></script>
+    <link href="/font-face/stylesheet.css" rel="stylesheet" type="text/css">
+    </head>
+    <body onload="MM_preloadImages('/images/core/bt_nav_whatsnew_on.jpg','/images/core/bt_nav_makeup_on.jpg','/images/core/bt_nav_accessories_on.jpg','/images/core/bt_nav_bestsellers_on.jpg','/images/core/bt_nav_howto_on.jpg','/images/core/bt_nav_bonusfeatures_on.jpg','/images/core/bt_nav_stilablog_on.jpg','/images/core/bt_nav_gifts_on.jpg','/images/core/bt_nav_aboutstila_on.jpg')">
+    <div align="center">
 
-	
+    <!-- TOP BAR...LOGO, NAV, AND SEARCH FORM - END -->
+    
+    <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="right" valign="top" height="110"><a href="/" id="homelink"> &nbsp; </a>
+		
+		<div title="GET IT BEFORE THE HOLIDAYS - 22 days left to get it shipped in time!" style="float:left; width:299px; height:64px; background-image:url('/images/special/countdown/countdown_bg.png'); background-repeat:no-repeat;">
+			<div align="left" style="margin-top:10px; margin-left:11px;"><img src="/images/special/countdown/daysleft_22.png" width="56" height="41" border="0" alt="22"></div>
+        </div> <!-- GET IT BEFORE THE HOLIDAYS -->
+          <div id="login_hdr">
+            <div class="login_inner"><a href="/login.asp">sign in / sign up</a> | <a href="https://www.stilacosmetics.com/account.asp" id="topbarAccountInfo">my account</a><br>
+              <a href="/checkout.asp">shopping bag: <div id="itemcountNew" style="display: inline">
 
+  
+    <title>Wayback Machine</title>
+    <script type="text/javascript">      window.webComponentLoaderConfig = {
+      baseUrl: 'https://archive.org',
+      version: '29e56e87'
+      }
+    </script>
+    <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+    <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/clipboard/dist/clipboard.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/more-facets.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/areact.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=24ef0ed0" rel="stylesheet" type="text/css">
+    <meta property="braintree_token" content="production_w3jccm3z_pqd7hz44swp6zvvw">
+    <meta property="environment" content="production">
+    <meta property="venmo_id" content="2878003111190856236">
+        <script src="/_static/js/raven.min.js" crossorigin="anonymous"></script>
+    <script>Raven.config('https://5588e3adb3e545248e893d6f2fc41ba2@wwwb-sentry.us.archive.org/3').install();</script>
+<script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='/web';v.service='wb';v.server_name='wwwb-app56.us.archive.org';v.server_ms=411;archive_analytics.send_pageview_on_load()}</script>
+    <link href="/_static/images/archive.ico" rel="shortcut icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/_static/css/styles.css">
+    <script type="text/javascript" src="/_static/js/ui.js" charset="utf-8"></script>
+    <base target="_top">
+<link rel="stylesheet" type="text/css" href="/_static/css/web.css">
+<script type="text/javascript">
+if (window!=window.top) {
+  $(document).ready(function(){ document.body.classList.add('wb_embedded') });
+}
+</script>
+  
+  
+    
+                    <div class="ia-banners">
+              <div class="ia-banner hidden" data-campaign="ia_user_1">
+        <p>This banner text <i>can</i> have <b>markup</b>.</p>
+        <a href="#" data-action="ia-banner-close"></a>
+      </div>
+          </div>
+            
+        <div id="navwrap1" class="">
+          <div id="navwrap2">
+            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+              <div id="nav-tophat-helper" class="hidden-xs"></div>
 
-		<title>Stila Cosmetics Privacy Policy</title>
-		<meta name="Description" content="When you provide us with information through stilacosmetics.com (the " site"),="" we="" respect="" your="" privacy."="">
-		<meta name="Keywords" content="stila cosmetics,makeup, make up,kitten eye shadow,cherry crush lip cheek,stain,illuminating moisturizer,talking palette,eyeliner,eye liner,lip glaze,lip gloss,lip color,convertible color,lipstick,foundation,tinted moisturizer,smudge pot">
+              <ul class="nav navbar-nav navbar-main">
+                <li class="pull-left">
+                  <a title="Home" class="navia-link home" href="/" target="_top">
+                    <span class="iconochive-logo"></span>
+                    <div class="archive-wordmark">
+                      <img src="https://archive.org/images/wordmark-narrow-spacing.svg" alt="Internet Archive Logo">
+                    </div>
+                  </a>
+                </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" target="_top"><span class="iconochive-web" aria-hidden="true"></span><span>web</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Texts" class="navia-link texts" data-top-kind="texts" href="https://archive.org/details/texts" target="_top"><span class="iconochive-texts" aria-hidden="true"></span><span>books</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Video" class="navia-link movies" data-top-kind="movies" href="https://archive.org/details/movies" target="_top"><span class="iconochive-movies" aria-hidden="true"></span><span>video</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Audio" class="navia-link audio" data-top-kind="audio" href="https://archive.org/details/audio" target="_top"><span class="iconochive-audio" aria-hidden="true"></span><span>audio</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Software" class="navia-link software" data-top-kind="software" href="https://archive.org/details/software" target="_top"><span class="iconochive-software" aria-hidden="true"></span><span>software</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left rightmost">
+                    <a title="Image" class="navia-link image" data-top-kind="image" href="https://archive.org/details/image" target="_top"><span class="iconochive-image" aria-hidden="true"></span><span>images</span></a>
+                  </li>
+                
+                <li class="nav-right-tool nav-hamburger pull-right hidden-sm hidden-md hidden-lg">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-hamburger-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                            <ul id="" class="nav navbar-nav">
+            <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE <span class="iconochive-heart"></span></a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+          </ul>
+                          </div><!-- /.navbar-collapse -->
+                    </div>
+                  </div><!-- /.container-fluid -->
+                </li>
 
+                                  <li class="nav-right-tool pull-right" id="nav-search">
+                    <a class="nav-search-button" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false" aria-hidden="true"><span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span></a>
+                    <div class="searchbar">
+                      <form class="search-form js-search-form" method="get" role="search" action="https://archive.org/searchresults.php" target="_top" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/">
+                        <input id="search-bar-2" class="js-search-bar" data-autocomplete-format="right" placeholder="Search" type="text" name="search" value="" aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below.">
 
-</head>
+                              <div id="navbar_search_options" class="search-options js-search-options" aria-expanded="false" aria-label="Search Options" data-keep-open-when-changed="false">
+      <div class="pre-search-options"></div>
+      <fieldset>
+                      <label>
+      <input type="radio" name="sin" value="" checked="">
+      <span>Search metadata</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="TXT">
+      <span>Search text contents</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="TV">
+      <span>Search TV news captions</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="WEB">
+      <span>Search archived web sites</span>
+    </label>
+                  </fieldset>
 
-<body onload="MM_preloadImages('/images/core/bt_nav_whatsnew_on.jpg','/images/core/bt_nav_makeup_on.jpg','/images/core/bt_nav_accessories_on.jpg','/images/core/bt_nav_bestsellers_on.jpg','/images/core/bt_nav_howto_on.jpg','/images/core/bt_nav_bonusfeatures_on.jpg','/images/core/bt_nav_stilablog_on.jpg','/images/core/bt_nav_gifts_on.jpg','/images/core/bt_nav_aboutstila_on.jpg')">
-<div align="center">
-<div id="topbarStars">
+              <a href="https://archive.org/advancedsearch.php" class="search-options__advanced-search-link" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+          </div>
+    
+                              <input class="js-tvsearch" type="hidden" value="{&quot;ands&quot;:[],&quot;minday&quot;:&quot;06/04/2009&quot;,&quot;maxday&quot;:&quot;02/24/2020&quot;}">
+    
+                        <input type="submit" value="Search">
+                      </form>
+                    </div><!--/.searchbar -->
+                  </li>
+                
+                <li class="nav-right-tool pull-right">
+                  <a class="nav-upload" href="https://archive.org/create" _target="top" data-event-click-tracking="TopNav|UploadIcon"><span class="iconochive-upload" aria-hidden="true"></span><span class="sr-only">upload</span><span class="hidden-xs-span hidden-sm-span">UPLOAD</span></a>
+                </li>
 
-	<!-- MAKEUP PLAYER BAR - START -->
-	<div id="topbarMakeupPlayer">
-	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background:url(/images/makeupplayer_topbar/bg_topbar_makeupplayer.jpg); border:2px solid #2b4146; height:40px;">
-		<tbody><tr>
-			<td width="639"><a href="http://www.stilacosmetics.com/links.asp?urlid=http://www.stilamakeupplayer.com" target="_blank"><img src="/images/makeupplayer_topbar/topbar_makeupplayer.jpg" width="639" height="36" alt=""></a></td>
-			<td align="right" width="100%" style="font-size:11px; padding-right:5px;"><a href="https://www.stilacosmetics.com/account.asp" id="topbarAccountInfo">account info</a><br><span id="topbarAccountInfo"><strong>welcome, <a href="/login.asp" id="topbarAccountInfoSignin">(please sign in)</a></strong></span></td>
-		</tr>
-	</tbody></table></div> <!-- topbarMakeupPlayer -->
-	<!-- MAKEUP PLAYER BAR  - END -->
+                <li class="nav-right-tool pull-right leftmost">
+                                      <a class="nav-user" href="https://archive.org/account/login" style="padding-right:0" _target="top" data-event-click-tracking="TopNav|LoginIcon"><span class="iconochive-person" aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span hidden-sm-span">SIGN IN</span></a>
+                                  </li>
 
-<!-- TOP BAR...LOGO, NAV, AND SEARCH FORM - START -->
-<div id="topbar">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top" width="157"><a href="/default.asp"><img src="/images/core/logo_stila_main.gif" width="157" height="37" border="0" alt="" style="padding-top:13px; padding-left:8px;"></a></td>
-		<td valign="top" width="100%">&nbsp;</td>
-		<td align="right" style="font-size:11px;" nowrap=""><a href="/checkout.asp" id="topbarBag">BAG: 0 items</a>&nbsp;</td>
-		<td align="right"><a href="/checkout.asp"><img src="/images/core/bt_shoppingbag.gif" width="22" height="26" border="0" alt=""></a></td>
-	</tr>
-</tbody></table>
+                              </ul>
+
+                  <ul id="nav-abouts" class="">
+            <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE <span class="iconochive-heart"></span></a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+          </ul>
+                </div><!--/.navbar-->
+
+                        <div id="nav-tophat" class="collapse">
+                                                                <div class="row toprow web" style="max-width:1000px;margin:auto;display:block;">
+                    <div class="col-xs-12">
+                      <div class="wayback-txt">
+                        Search the history of over 411 billion                        <a style="display:inline" data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/">web pages</a> on the Internet.
+                      </div>
+                      <div class="roundbox7 wayback-main">
+                        <div class="row">
+                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                            <a style="padding-bottom:0" data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/"><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"></a>
+                          </div>
+                          <div class="col-sm-6" style="padding-top:13px;">
+                            <form style="position:relative;">
+                              <span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text" placeholder="enter URL or keywords" name="url" autocomplete="off" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()">
+                            </form>
+                          </div>
+                        </div><!--/.row-->
+                      </div><!--/.wayback-main-->
+                    </div>
+                  </div><!--./row-->
+
+                                                                                <div class="row toprow fivecolumns texts">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/books" data-event-click-tracking="TopNav|FeaturedLink-AllBooks"><span class="iconochive-texts" aria-hidden="true"></span><span class="sr-only">texts</span> All Books</a>
+                            <a href="https://archive.org/details/texts" data-event-click-tracking="TopNav|FeaturedLink-AllTexts">All Texts</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries" data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)" data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy" data-event-click-tracking="TopNav|FeaturedLink-Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection" data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection">Lincoln Collection</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');" aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow"></a>
+              </div>
+              <a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/americana" title="American Libraries" data-event-click-tracking="TopNav|TopLink-AmericanLibraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries" data-event-click-tracking="TopNav|TopLink-CanadianLibraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library" data-event-click-tracking="TopNav|TopLink-UniversalLibrary">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts" data-event-click-tracking="TopNav|TopLink-CommunityTexts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg" data-event-click-tracking="TopNav|TopLink-ProjectGutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library" data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library" data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary">Children's Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');" aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary"></a>
+              </div>
+              <a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/booksbylanguage" title="Books by Language" data-event-click-tracking="TopNav|TopLink-BooksByLanguage">Books by Language</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections" data-event-click-tracking="TopNav|TopLink-AdditionalCollections">Additional Collections</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns movies">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/movies" data-event-click-tracking="TopNav|FeaturedLink-AllVideo"><span class="iconochive-movies" aria-hidden="true"></span><span class="sr-only">movies</span> All video</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives" data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!" data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street" data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library" data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary">TV NSA Clip Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons" data-event-click-tracking="TopNav|TopLink-AnimationCartoons">Animation &amp; Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music" data-event-click-tracking="TopNav|TopLink-ArtsMusic">Arts &amp; Music</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology" data-event-click-tracking="TopNav|TopLink-ComputersTechnology">Computers &amp; Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films" data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms">Cultural &amp; Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films" data-event-click-tracking="TopNav|TopLink-EphemeralFilms">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies" data-event-click-tracking="TopNav|TopLink-Movies">Movies</a>                                                          <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs" data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs">News &amp; Public Affairs</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion" data-event-click-tracking="TopNav|TopLink-SpiritualityReligion">Spirituality &amp; Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos" data-event-click-tracking="TopNav|TopLink-SportsVideos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television" data-event-click-tracking="TopNav|TopLink-Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos" data-event-click-tracking="TopNav|TopLink-VideogameVideos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs" data-event-click-tracking="TopNav|TopLink-Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media" data-event-click-tracking="TopNav|TopLink-YouthMedia">Youth Media</a>                                                          <a href="https://archive.org/details/capscav" title="CAPS Media" data-event-click-tracking="TopNav|TopLink-CAPSMedia">CAPS Media</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns audio">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/audio" data-event-click-tracking="TopNav|FeaturedLink-AllAudio"><span class="iconochive-audio" aria-hidden="true"></span><span class="sr-only">audio</span> All audio</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead" data-event-click-tracking="TopNav|FeaturedLink-GratefulDead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels" data-event-click-tracking="TopNav|FeaturedLink-Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio" data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings" data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry" data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry">Audio Books &amp; Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio" data-event-click-tracking="TopNav|TopLink-CommunityAudio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology" data-event-click-tracking="TopNav|TopLink-ComputersTechnology">Computers &amp; Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture" data-event-click-tracking="TopNav|TopLink-MusicArtsCulture">Music, Arts &amp; Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs" data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs">News &amp; Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio" data-event-click-tracking="TopNav|TopLink-NonEnglishAudio">Non-English Audio</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion" data-event-click-tracking="TopNav|TopLink-SpiritualityReligion">Spirituality &amp; Religion</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/podcasts" title="Podcasts" data-event-click-tracking="TopNav|TopLink-Podcasts">Podcasts</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns software">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/software" data-event-click-tracking="TopNav|FeaturedLink-AllSoftware"><span class="iconochive-software" aria-hidden="true"></span><span class="sr-only">software</span> All software</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation" data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games" data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software" data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games" data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library" data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary">Software Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File" data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile">Kodi Archive and Support File</a>                                                          <a href="https://archive.org/details/open_source_software" title="Community Software" data-event-click-tracking="TopNav|TopLink-CommunitySoftware">Community Software</a>                                                          <a href="https://archive.org/details/vintagesoftware" title="Vintage Software" data-event-click-tracking="TopNav|TopLink-VintageSoftware">Vintage Software</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK" data-event-click-tracking="TopNav|TopLink-APK">APK</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS" data-event-click-tracking="TopNav|TopLink-MSDOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software" data-event-click-tracking="TopNav|TopLink-CDROMSoftware">CD-ROM Software</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library" data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary">CD-ROM Software Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/softwaresites" title="Software Sites" data-event-click-tracking="TopNav|TopLink-SoftwareSites">Software Sites</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library" data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary">Tucows Software Library</a>                                                          <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs" data-event-click-tracking="TopNav|TopLink-SharewareCDROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/cdromimages" title="CD-ROM Images" data-event-click-tracking="TopNav|TopLink-CDROMImages">CD-ROM Images</a>                                                          <a href="https://archive.org/details/softwarecapsules" title="Software Capsules Compilation" data-event-click-tracking="TopNav|TopLink-SoftwareCapsulesCompilation">Software Capsules Compilation</a>                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum" data-event-click-tracking="TopNav|TopLink-ZXSpectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/doom-cds" title="DOOM Level CD" data-event-click-tracking="TopNav|TopLink-DOOMLevelCD">DOOM Level CD</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns image">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/image" data-event-click-tracking="TopNav|FeaturedLink-AllImage"><span class="iconochive-image" aria-hidden="true"></span><span class="sr-only">image</span> All images</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons" data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr" data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art" data-event-click-tracking="TopNav|FeaturedLink-CoverArt">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps" data-event-click-tracking="TopNav|FeaturedLink-USGSMaps">USGS Maps</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/nasa" data-event-click-tracking="TopNav|TopLink-NASAImages">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection" data-event-click-tracking="TopNav|TopLink-SolarSystemCollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary" data-event-click-tracking="TopNav|TopLink-AmesResearchCenter">Ames Research Center</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                  </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                          </div><!--/#nav-tophat-->
+    
+          </div><!--#navwrap1-->
+        </div><!--#navwrap2-->
+
+        
+    <script type="text/javascript">show_donation_banner();</script>
+      <div class="container">
+    <div class="row" style="margin-top: 30px">
+      <div class="col-md-4 col-sm-4 col-xs-4 text-right">
+	<div id="donation-link" class="web_message">
+  <a href="http://archive.org/donate/" data-event-click-tracking="Wayback|DonateButton" class="beta_button">DONATE</a>
 </div>
 
-<div id="topbarNavSearch">
-
-<!-- TABLE - START - DM -->
-<table border="0" cellpadding="0" cellspacing="0" width="855">
-<form style="margin-top:0;" action="/search.asp" method="post" id="form1" name="form1"></form>
-	<tbody><tr>
-		<td width="740" nowrap="">
-	<div id="dropList">
-<ul id="menu">
-<li class="level1-li sub"><a href="/category_landing.asp?id=whatsnew" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_whatsnew','','/images/core/bt_nav_whatsnew_on.jpg',1)">
-<img src="/images/core/bt_nav_whatsnew.jpg" width="92" height="25" border="0" alt="makeup" name="nav_whatsnew"><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-	<div class="listHolder col1">
-		<div class="listCol">
-			<ul>
-<li><a href="/category.asp?category_id=162">travel palette</a></li>
-<li><a href="/feature/derbydolls.asp">stila loves Derby Dolls</a></li>
-<li><a href="/category.asp?category_id=150">Summer 2010</a></li>
-<li><a href="/feature/bcbg/default.asp">stila + BCBGMAXAZRIA</a></li>		
-<li><a href="/category.asp?category_id=134">One Step Makeup</a></li>
-<li><a href="/category.asp?category_id=136">NY Fashion Week Sets</a></li>
-<li><a href="/makeupplayer/">Makeup Player</a></li>
-<li><a href="/category.asp?category_id=1">Latest Arrivals</a></li>
-
-
-			</ul>
-		</div>
-	</div>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<li class="level1-li sub"><a href="/category_landing.asp?id=makeup" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_makeup','','/images/core/bt_nav_makeup_on.jpg',1)">
-<img src="/images/core/bt_nav_makeup.jpg" width="67" height="25" border="0" alt="makeup" name="nav_makeup"><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-	<div class="listHolder col2">
-
-		<div class="listCol">
-				<h5><a href="/category.asp?category_id=7&amp;departID=2">Face</a></h5>
-				<ul>
-					<li><a href="/category.asp?category_id=107&amp;departID=2">Primer</a></li>
-					<li><a href="/category.asp?category_id=108&amp;departID=2">Tinted Moisturizer</a></li>
-					<li><a href="/category.asp?category_id=109&amp;departID=2">foundation</a></li>
-					<li><a href="/category.asp?category_id=110&amp;departID=2">concealer</a></li>
-					<li><a href="/category.asp?category_id=111&amp;departID=2">powder</a></li>
-				</ul>
-			<h5><a href="/category.asp?category_id=4">Eyes</a></h5>
-				<ul>
-					<li><a href="/category.asp?category_id=112&amp;departID=2">Eye shadow</a></li>
-					<li><a href="/category.asp?category_id=113&amp;departID=2">Eye liner</a></li>
-					<li><a href="/category.asp?category_id=114&amp;departID=2">Mascara</a></li>
-					<li><a href="/category.asp?category_id=115&amp;departID=2">Brow</a></li>
-				</ul>
-		</div>
-		<div class="listCol">
-
-			<h5><a href="/category.asp?category_id=5">Cheeks</a></h5>
-				<ul>
-					<li><a href="/category.asp?category_id=116&amp;departID=2">Blush</a></li>
-					<li><a href="/category.asp?category_id=117&amp;departID=2">Cheek stain</a></li>
-					<li><a href="/category.asp?category_id=118&amp;departID=2">Bronzer</a></li>
-				</ul>
-			<h5><a href="/category.asp?category_id=6">Lips</a></h5>
-				<ul>
-					<li><a href="/category.asp?category_id=119&amp;departID=2">Lip glaze &amp; gloss</a></li>
-					<li><a href="/category.asp?category_id=120&amp;departID=2">Lip color</a></li>
-					<li><a href="/category.asp?category_id=121&amp;departID=2">Lip stain</a></li>
-					<li><a href="/category.asp?category_id=122&amp;departID=2">Lip liner</a></li>
-				</ul>
-			<h5><a href="/category.asp?category_id=125&amp;departID=2">Online&nbsp;exclusives</a></h5>
-			<h5><a href="/category.asp?category_id=14">Fragrance</a></h5>
-			<h5><a href="/category.asp?category_id=8">Multi-Use</a></h5>
-			<h5><a href="/category.asp?category_id=88">BARBIE LOVES STILA</a></h5>
-			<h5><a href="/category.asp?category_id=16">vintage</a></h5>
-			
-		</div>
-	</div>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<li class="level1-li sub"><a href="/category_landing.asp?id=accessories" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_accessories','','/images/core/bt_nav_accessories_on.jpg',1)">
-<img src="/images/core/bt_nav_accessories.jpg" width="88" height="25" border="0" alt="accessories" name="nav_accessories"><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-	<div class="listHolder col1">
-		<div class="listCol">
-			<ul>
-				<li><a href="/category.asp?category_id=12&amp;departID=3">Compacts &amp; tools</a></li>
-				<li><a href="/category.asp?category_id=10&amp;departID=3">Brushes</a></li>
-			</ul>
-		</div>
-	</div>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<li class="level1-li sub"><a href="/category.asp?category_id=51" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_bestsellers','','/images/core/bt_nav_bestsellers_on.jpg',1)">
-<img src="/images/core/bt_nav_bestsellers.jpg" width="85" height="25" border="0" alt="best sellers" name="nav_bestsellers"></a></li>
-
-<li class="level1-li"><a href="/beautytube.asp" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_beautytube','','/images/core/bt_nav_beautytube_on.jpg',1)">
-<img src="/images/core/bt_nav_beautytube.jpg" width="86" height="25" border="0" alt="how-to" name="nav_beautytube"></a></li>
-
-
-<li class="level1-li"><a href="/category_landing.asp?id=bonusfeatures" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_bonusfeatures','','/images/core/bt_nav_bonusfeatures_on.jpg',1)">
-<img src="/images/core/bt_nav_bonusfeatures.jpg" width="104" height="25" border="0" alt="bonus features" name="nav_bonusfeatures"><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-	<div class="listHolder col1">
-		<div class="listCol" style="width:130px;">
-			<ul>
-			
-			<li><a href="/feature/safety/default.asp">Protect Your Skin</a></li>
-				<li><a href="/feature/travel/default.asp">stila travel palettes</a></li>
-				<li><a href="/happyhour.asp">friday happy hour</a></li>
-				<li><a href="/feature/employeepicks/">Employee Faves</a></li>
-				<li><a href="/sgotm">Stila Girl of the Month</a></li>
-				<li><a href="/proartisttipsandtrick.asp">Pro Artist Tips &amp; Tricks</a></li>
-				<li><a href="/asksarah.asp">Ask Sarah</a></li>
-				<li><a href="/rewards_about.asp">Stila Love Rewards</a></li>
-				<li><a href="/events.asp">Events</a></li>
-			</ul>
-		</div>
-	</div>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<li class="level1-li"><a href="/links.asp?urlid=http://stilablog.blogspot.com/" target="_blank" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_stilasblog','','/images/core/bt_nav_stilasblog_on.jpg',1)">
-<img src="/images/core/bt_nav_stilasblog.jpg" width="84" height="25" border="0" alt="stilasblog" name="nav_stilasblog"></a></li>
-
-<li class="level1-li"><a href="/category.asp?category_id=101&amp;viewall=yes" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_gifts','','/images/core/bt_nav_gifts_on.jpg',1)">
-<img src="/images/core/bt_nav_gifts.jpg" width="47" height="25" border="0" alt="gifts" name="nav_gifts"><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-	<div class="listHolder col1">
-		<div class="listCol">
-			<ul>
-				<li><a href="/category.asp?category_id=128&amp;viewall=yes">pro artist's picks</a></li>
-				<li><a href="/category.asp?category_id=102&amp;viewall=yes">$15 and under</a></li>
-				<li><a href="/category.asp?category_id=103&amp;viewall=yes">$25 and under</a></li>
-				<li><a href="/category.asp?category_id=104&amp;viewall=yes">$35 and under</a></li>
-				<li><a href="/category.asp?category_id=105&amp;viewall=yes">$50 and under</a></li>
-				<li><a href="http://www.stilabeautytube.com/" target="_blank">the makeup player</a></li>
-			</ul>
-		</div>
-	</div>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<li class="level1-li"><a href="/ourstory.asp" class="level1-a" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_aboutstila','','/images/core/bt_nav_aboutstila_on.jpg',1)">
-<img src="/images/core/bt_nav_aboutstila.jpg" width="77" height="25" border="0" alt="about stila" name="nav_aboutstila"><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-	<div class="listHolder col1">
-		<div class="listCol">
-			<ul>
-				<li><a href="/ourstory.asp">our story</a></li>
-				<li><a href="/links.asp?urlid=http://www.patriarchpartners.com/lynntilton" target="_blank">about lynn tilton</a></li>
-				<li><a href="/stilacares.asp">stila cares</a></li>
-			</ul>
-		</div>
-	</div>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-</ul>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-4 text-center">
+        <div id="logoHome">
+          <a href="/web/"><h1><span>Internet Archive's Wayback Machine</span></h1></a>
+        </div>
+      </div>
+    </div>
+    <div id="errorBorder">
+      <div id="positionHome">
+<div id="searchHome">
+	      <form name="form1" method="get" action="/web/submit">
+		<input type="text" name="url" value="http://_ajax.asp/?func=getItemCount&amp;guid=B3A13FFDAB2446E79C085C65515028F7" size="40" onfocus="javascript:this.focus();this.select();">
+		<button type="submit" name="type" value="replay">Latest</button>
+		<button type="submit" name="type" value="urlquery">Show All</button>
+	      </form>
+	    </div>
+<div id="error">
+<h2>Hrm.</h2>
+<p>The Wayback Machine has not archived that URL.</p>
+    <div id="livewebInfo" class="unavailable">
+      <p>This page is not available on the web</p>
+      <p>because of server error</p>
+    </div>
+    <p>Click here to search for all archived pages under
+      <a href="https://web.archive.org/web/*/http://_ajax.asp/*">http://_ajax.asp/</a>.
+    </p>
 </div>
-</td>
-		<td align="right" valign="top" width="90">
-<input type="text" maxlength="20" style="width:80px;" name="search" onfocus="this.select()" value=" search stila" class="formInputText" onclick="this.value=''; return true">&nbsp;</td>
-		<td width="23"><input type="image" src="/images/core/bt_frm_go_topbarsearch.gif" width="23" height="23" id="search" name="search"></td>
-	</tr>
-	
-</tbody></table>
-<!-- TABLE - END - DM -->
-</div>
-<!-- TOP BAR...LOGO, NAV, AND SEARCH FORM - END -->
+	  </div>
+	</div>
+  </div>
+    <noscript>
+      <div class="no-script-message">
+        The Wayback Machine requires your browser to support JavaScript, please email <a href="mailto:info@archive.org">info@archive.org</a><br/>if you have any questions about this.
+      </div>
+    </noscript>
+    <footer>
+      <div id="footerHome">
+        <p>
+          The Wayback Machine is an initiative of the
+          <a href="//archive.org/">Internet Archive</a>,
+          a 501(c)(3) non-profit, building a digital library of
+          Internet sites and other cultural artifacts in digital form.
+          <br>Other <a href="//archive.org/projects/">projects</a> include
+          <a href="https://openlibrary.org/">Open Library</a> &amp;
+          <a href="https://archive-it.org">archive-it.org</a>.
+        </p>
+        <p>
+          Your use of the Wayback Machine is subject to the Internet Archive's
+          <a href="//archive.org/about/terms.php">Terms of Use</a>.
+        </p>
+      </div>
+    </footer>
+  
+</div> item(s) checkout</a></div>
+          </div></td>
+      </tr>
+    </tbody></table>
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+		getItemCount('getItemCount','B3A13FFDAB2446E79C085C65515028F7');
+	// -->
+	</script>
+    <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="center"><div id="nav_wrapper">
+            <ul class="blobs menu">
+            <li id="nav_whatsnew" class="mega"><a href="/department.asp?departid=6">&nbsp;</a>
+                <div class="subnav">
+                <div class="subnav_items" id="subnav_items">
+                    <ul>
+					<li style="padding-bottom:5px;"><a href="/category.asp?category_id=42">holiday 2010</a></li>
+					<li style="padding-bottom:5px;"><a href="/category.asp?category_id=40">travel palettes</a></li>
+                    <li style="padding-bottom:5px;"><a href="/category.asp?category_id=22">fall 2010</a></li>
+                    <li style="padding-bottom:5px;"><a href="/category.asp?category_id=21">latest   arrivals</a></li>
+                    <li style="padding-bottom:5px;"><a href="/category.asp?category_id=23">summer 2010</a></li>
+                    <li style="padding-bottom:5px;"><a href="/feature/bcbg/default.asp">stila + BCBG</a></li>
+                    <li style="padding-bottom:5px;"><a href="/category.asp?category_id=25">one step</a></li>
+                    
+                    <li><a href="/makeupplayer/">makeup player</a></li>
+                  </ul>
+                    <div class="whatsnew_upsell"><a href="/product_detail.asp?PMID=822"><img src="/images/promo_whatsnew_new.jpg" width="152" height="195"></a></div>
+                  </div>
+              </div>
+              </li>
+            <li id="nav_shop" class="mega"><a href="/shop.asp">&nbsp;</a>
+                <div class="subnav">
+                <table border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                    <td><div class="subnav_items" id="subnav_items"> <strong><a href="/department.asp?departid=1" style="font-weight:bold;font-size:14px;">Face</a></strong>
+                        <ul>
+                        <li style="padding-bottom:5px;"><a href="/category.asp?category_id=1">foundation</a></li>
+                        <li style="padding-bottom:5px;"><a href="/category.asp?category_id=2">primer</a></li>
+                        <li style="padding-bottom:5px;"><a href="/category.asp?category_id=3">concealer</a></li>
+                        <li style="padding-bottom:5px;"><a href="/category.asp?category_id=4">powder</a></li>
+                        <li><a href="/category.asp?category_id=5">tinted moisturizer</a></li>
+                      </ul>
+                      </div>
+                        <div class="subnav_items" id="subnav_items"> <strong><a href="/department.asp?departid=2" style="font-weight:bold;font-size:14px;">Eyes</a></strong>
+                        <ul>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=6">eye shadow</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=7">eye liner</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=8">mascara</a></li>
+                            <li><a href="/category.asp?category_id=9">brows</a></li>
+                          </ul>
+                      </div>
+                        <div class="subnav_items" id="subnav_items"> <strong><a href="/department.asp?departid=3" style="font-weight:bold;font-size:14px;">Cheeks</a></strong>
+                        <ul>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=10">blush</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=11">cheek stain</a></li>
+                            <li><a href="/category.asp?category_id=12">bronzer</a></li>
+                          </ul>
+                      </div>
+                        <div class="subnav_items" id="subnav_items"> <strong><a href="/department.asp?departid=4" style="font-weight:bold;font-size:14px;">Lips</a></strong>
+                        <ul>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=13">lip glaze &amp; gloss</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=14">lip color</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=15">lip stain</a></li>
+                            <li><a href="/category.asp?category_id=16">lip liner</a></li>
+                          </ul>
+                      </div>
+                        <div class="subnav_items" id="subnav_items" style="font-weight:bold;font-size:14px;">
+                        <ul style="font-weight:bold;font-size:14px;">
+                        	<li style="padding-bottom:5px;"><a href="/category.asp?category_id=35" style="font-weight:bold;font-size:14px;">Best Sellers</a></li>
+							<li style="padding-bottom:5px;"><a href="/exclusive_offers.asp" style="font-weight:bold;font-size:14px;">Exclusive Offers</a></li>
+                        	<li style="padding-bottom:5px;"><a href="/category.asp?category_id=36" style="font-weight:bold;font-size:14px;">Online&nbsp;Exclusives</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=29" style="font-weight:bold;font-size:14px;">Travel Friendly</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=30" style="font-weight:bold;font-size:14px;">Accessories</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=37" style="font-weight:bold;font-size:14px;">Palettes/Sets</a></li>
+                            <li style="padding-bottom:5px;"><a href="/category.asp?category_id=32" style="font-weight:bold;font-size:14px;">Multi-Use</a></li>
+                            <li><a href="/category.asp?category_id=33" style="font-weight:bold;font-size:14px;">Vintage</a></li>
+                          </ul>
+                      </div>
+                        <div class="subnav_promo">
+                        <table border="0" width="100%">
+                            <tbody><tr>
+                            <td class="first" width="50%"><div style="top:100px;left:80px;position:relative"><a href="/product_detail.asp?PMID=766&amp;catID=51&amp;departid==4"><img src="/images/addtobag_btn.jpg"></a></div></td>
+                            <td class="second"><div style="top:100px;left:180px;position:relative"><a href="/makeupplayer/" style=""><img src="/images/core/COMP_bt_learnmore.jpg"></a></div></td>
+                          </tr>
+                          </tbody></table>
+                      </div></td>
+                  </tr>
+                  </tbody></table>
+              </div>
+              </li>
+            <li id="nav_gifts" class="mega"><a href="/feature/holidaygiftguide/default.asp">&nbsp;</a>
+                <div class="subnav">
+                <div class="subnav_items" id="subnav_items">
+                    <ul>
+                   
 
 
-<div id="mainContentArea">
-<!-- TABLE - START - DM -->
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr style="height:500px;">
-		<td valign="top">
+		
+<li style="padding-bottom:5px;"><a href="/feature/holidaygiftguide/default.asp">holiday gift guide</a></li>
+<li style="padding-bottom:5px;"><a href="/feature/holidaygiftguide/default.asp">gift finder</a></li>
+<li style="padding-bottom:5px;"><a href="/feature/holidaygiftguide/price.asp">shop by price</a></li>
+<li style="padding-bottom:5px;"><a href="/feature/holidaygiftguide/category.asp">shop by category</a></li>
+<li style="padding-bottom:5px;"><a href="/feature/holidaygiftguide/category.asp?category_id=52">just added</a></li>
 
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	</tr><tr style="height:23px; padding:0px; background-color:#3d3d3d;">
-		<td valign="middle" id="catBreadcrumb" width="855"><span id="catBreadcrumbHeader">CATEGORY</span><span id="catBreadcrumbArrow">»</span> <a href="/privacy.asp"><h1 style="display: inline;" id="catBreadcrumb">privacy policy</h1></a></td>
-	</tr>
-</tbody></table>
 
-<div style="margin:30px;">
-<table border="0" cellpadding="5" cellspacing="0" width="100%">
+
+
+                  </ul><br><br>
+
+<!--[if IE]><br><![endif]--> 
+				  
+                    <div class="gifts_upsell"><a href="/feature/holidaygiftguide/default.asp"><img src="/images/promo_gifts_new.jpg" width="184" height="187"></a></div>
+                  </div>
+              </div>
+              </li>
+            <li id="nav_stilabuzz" class="mega"><a href="#">&nbsp;</a>
+                <div class="subnav" style="300px;">
+                <div id="subnav_items" style="width:120px;">
+                    <ul>
+                    <li style="padding-bottom:5px;"><strong>Keep up</strong></li>
+                    <li style="padding-bottom:5px;"><a href="/asseenin.asp">press</a></li>
+                    <li style="padding-bottom:5px;"><a href="/events.asp">events</a></li>
+                    <li style="padding-bottom:5px;"><a href="/links.asp?urlid=http://stilablog.blogspot.com/" target="_blank">blog <img src="/images/blog_icon.png"></a></li>
+                    <li style="padding-bottom:5px;"><a href="/links.asp?urlid=http://twitter.com/stilacosmetics" target="_blank">tweet <img src="/images/twitter_icon.png"></a></li>
+                    <li style="padding-bottom:5px;"><a href="/links.asp?urlid=http://www.facebook.com/pages/stila-cosmetics/60696985475" target="_blank">facebook</a> <img src="/images/facebook_icon.png"></li>
+                  </ul>
+                  
+                  </div>
+                <div id="subnav_items" style="width:150px;">
+                    <ul>
+                    <li style="padding-bottom:5px;"><strong>About</strong></li>
+                    <li style="padding-bottom:5px;"><a href="/ourstory.asp">the stila story</a></li>
+                    <li><a href="/links.asp?urlid=http://www.patriarchpartners.com/lynntilton" target="_blank">the Lynn Tilton story</a></li>
+                  </ul>
+                  </div>
+                <div id="subnav_items" style="width:200px;">
+                    <ul>
+                    <li style="padding-bottom:5px;"><strong>Bonus Features</strong></li>
+					<li style="padding-bottom:5px;"><a href="/feature/travel/default.asp">interactive&nbsp;travel&nbsp;palettes</a></li>
+                    <li style="padding-bottom:5px;"><a href="/sgotm">stila girl of the month</a></li>
+					<li style="padding-bottom:5px;"><a href="/feature/employeepicks/">employee faves</a></li>
+                    <li style="padding-bottom:5px;"><a href="/feature/proartistfaves/">pro artist faves</a></li>
+					<li style="padding-bottom:5px;"><a href="/exclusive_offers.asp">exclusive offers</a></li>                 
+                  </ul><br clear="all"><br>
+                  </div>
+				  
+                <div id="subnav_items">
+                    <ul>
+                    <li style="padding-bottom:5px;"><strong>Partnerships</strong></li>
+					<li><a href="/derbydolls/default.asp">derby dolls</a></li>
+					<li style="padding-bottom:5px;"><a href="/product_detail.asp?PMID=744">laker girls</a></li>  
+                                        
+                  </ul><br clear="all"><br>
+                  </div>
+                  <div class="buzz_upsell" style="float:left;width:575px;height:154px;" align="center"><a href="/exclusive_offers.asp"><img src="/images/upsell_shipping.jpg"></a></div>
+              </div>
+              </li>
+            <li id="nav_beautytube" class="mega"><a href="/beautytube.asp" style="display:block">&nbsp;</a> </li>
+            <li id="nav_tipstricks" class="mega"><a href="/proartisttipsandtrick.asp">&nbsp;</a>
+                <div class="subnav">
+                <div id="subnav_items">
+                    <ul>
+                    <li style="padding-bottom:5px;"><a href="/proartisttipsandtrick.asp">pro artist tips &amp; tricks</a></li>
+                    <li style="padding-bottom:5px;"><a href="/beautytube.asp">beauty tube</a></li>
+					<li style="padding-bottom:5px;"><a href="/feature/safety/default.asp">safe makeup</a></li>
+                    <li style="padding-bottom:5px;"><a href="/asksarah.asp">ask sarah</a></li>
+                  </ul>
+                    <div class="tips_upsell"><!--[if IE]><div style="margin-top:-70px;"><![endif]--><a href="/proartists/"><img src="/images/promo_tips.jpg" border="0"></a><!--[if IE]></div><![endif]--></div>
+                  </div>
+              </div>
+              </li>
+            <li id="nav_rewards" class="mega"><a href="/rewards_about.asp">&nbsp;</a>
+                <div class="subnav">
+                <div id="subnav_items">
+					<b>Stila&nbsp;Loves&nbsp;Rewards</b><br>
+					<b style="font-size:13px;">Level 1 - Spend $100</b><br><span style="margin-top:-15px; padding-bottom:15px;">get free shipping all year</span><br><br>
+					<b style="font-size:13px;">Level 2 - Spend $250</b><br><span style="margin-top:-15px; padding-bottom:15px;">get 50 Stila bucks<br>&amp; free shipping</span><br><br>
+					<b style="font-size:13px;">Level 3 - Spend $500</b><br><span style="margin-top:-15px;">get 100 Stila bucks<br>&amp; free shipping</span><br><br>
+					<a href="/rewards_about.asp"><img src="/images/core/COMP_bt_learnmore.jpg"></a>
+				  <ul style="margin-top:-20px;">
+				  <li style="padding-bottom:5px;"><a href="/exclusive_offers.asp"><b>exclusive offers</b></a></li>
+				  </ul><br clear="all">
+                    <div class="rewards_upsell" style="margin-top:-10px;"><a href="/sgotm/"><img src="/images/promo_rewards.jpg"></a></div>
+                  </div>
+              </div>
+              </li>
+            <li id="nav_giveback" class="mega"><a href="/stilacares.asp">&nbsp;</a>
+                <div class="subnav">
+                <div id="subnav_items">
+                    <ul>
+                    <li style="padding-bottom:5px;"><strong><a href="/stilacares.asp">stila cares</a></strong></li>
+                    <li style="padding-bottom:5px;"><strong><a href="/haiti_relief_sponsor.pdf" target="_blank">haiti relief</a></strong></li>
+                  </ul>
+<!--[if IE]><br clear="all"><![endif]--> 
+                    <div class="causes_upsell"><a href="/stilacares.asp"><img src="/images/promo_giving.jpg" width="151" height="124"></a></div>
+                  </div>
+              </div>
+              </li>
+            <li id="nav_search" style="">
+                <form style="margin-top:0;" action="/search.asp" method="post" id="form1" name="form1">
+                <input type="text" name="search" maxlength="20" onfocus="this.select()" value=" search stila" class="search_box" onclick="this.value=''; return true" style="margin-left:3px;margin-top:0px;padding-top:0px;float:left">
+                <div style="float:left;padding:5px;">
+                    <input type="image" src="/images/submit.png" id="search" name="search" style="margin:0px;padding:0px;">
+                  </div>
+              </form>
+              </li>
+          </ul>
+          </div></td>
+      </tr>
+    </tbody></table>
+    <div id="mainContentAreaX">
+    <!-- TABLE - START - DM -->
+    <table border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr style="">
+      <td valign="top">
+
+<div id="stage">
+
+<div style="float:left;width:990px;"><h1 class="page_title">info: <span class="geranium">privacy</span></h1><div class="page_title_wrapper"> &nbsp; </div></div>
+<div style="padding:20px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
 		<td valign="top"><!-- CONTENT GOES HERE - START - DM -->
 <p>When you provide us with information through stilacosmetics.com (the "Site"), we respect your privacy. It is important for you to understand what information we collect during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our Terms and Conditions. Please note that this Privacy Policy governs only information provided to stilacosmetics.com and communications from stilacosmetics.com. It does not govern any other information or communications that may reference stila Corp., or "stila" or any derivation thereof, e.g., communications from retailers or brick and mortar stores. This Privacy Policy was last updated 12/28/06.</p>
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="1"></a>
 <p><span class="label_purp">1. Collection of Personally Identifiable Information By stilacosmetics.com</span><br>
 We do not collect personally identifiable information about you, except when you provide it to us. For example, if you decide to complete a user registration form or online survey, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), age group, gender and product and/or cosmetic concerns, and the brands and products you use. If you decide to place an order, we will also need to know your delivery and billing address, credit card number and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password. If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information.</p>
 <p>When you submit your personally identifiable information on the Site, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="2"></a>
 <span class="label_purp">2. Use of Personally Identifiable Information By stilacosmetics.com</span>
@@ -318,13 +869,13 @@ We do not collect personally identifiable information about you, except when you
 	<span class="general">If you have elected to provide us with your contact information, e.g., by registering at the Site, emailing our Customer Service department or placing an order, we may provide you with service related announcements concerning the Site or contact you regarding your customer service requests or your order. For example, all registered users will receive a welcoming email to confirm their registration. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that stilacosmetics.com offers its customers.</span><br><br>
 </li></span></ol>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="3"></a>
 <p><span class="label_purp">3. No Disclosure of Personally Identifiable Information for Third Party Marketing Without Your Consent</span><br>
 We will never provide your personally identifiable information to third parties for their use in marketing their products or services to you without your consent.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="4"></a>
 <span class="label_purp">4. Disclosure of Personally Identifiable Information</span>
@@ -342,7 +893,7 @@ We will never provide your personally identifiable information to third parties 
 	<span class="general">As we continue to develop our business, we might sell certain of our assets. In such transactions, user information, including personally identifiable information, generally is one of the transferred business assets, and by submitting your personal information on the Site you agree that your data may be transferred to such parties in these circumstances.</span><br><br>
 </li></span></ol>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="5"></a>
 <p><span class="label_purp">5. Cookies and IP Addresses</span><br>
@@ -350,31 +901,31 @@ A cookie is a piece of data that enables us to track and target your preferences
 <p>We are continuously working to make your experience on our Site better. To this end, we use a service called Omniture to assist us in better understanding your use of our Site. Omniture will place cookies on your computer to collect information on our behalf that will show us how you come to our site and how you use and navigate our Site. All information collected on our behalf through this service is kept in strict confidence.</p>
 <p>Some of our other business partners and service providers may also use cookies on the Site. However, we have no access to, or control over, these cookies and do not accept any responsibility for such use.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="6"></a>
 <p><span class="label_purp">6. Pixel Tags and Tracking Technology</span><br>
 When you visit this Site or view one of our emails, we may use pixel tags (also called “clear” gifs), tracking links and/or similar technology to note some of the pages you visit on our Site and personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <p><a name="7"></a>
 <span class="label_purp">7. Use of Aggregate Information</span><br>
 We may use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store or accumulate certain non-personally identifiable information concerning your use of the Site, such as information regarding which of our pages are most popular. We may share or transfer non-personally identifiable information with or to our affiliates, licensees and partners.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="8"></a>
 <p><span class="label_purp">8. Children Under 13</span><br>
 We take special steps to safeguard the privacy of children. If you are under 13 years of age, you may browse our Site. However, you may not provide personal information to us. For example, you cannot register or make a purchase. This Site is not designed for children and we do not knowingly collect personally identifiable information from any children under 13.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="9"></a>
 <p><span class="label_purp">9. Links</span><br>
 The Site may contain links to or from other websites. Please be aware that we are not responsible for the privacy practices of other websites. This Privacy Policy applies only to the information we collect on the Site. We encourage you to read the privacy policies of other websites you link to from the Site or otherwise visit.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="10"></a>
 <p><span class="label_purp">10. Security</span><br>
@@ -384,19 +935,19 @@ We implement various security measures in accordance with industry standards and
 <p><span class="label_purp">11. Notification of Changes</span><br>
 We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here, which policy will be effective immediately. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Please note that our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="12"></a>
 <p><span class="label_purp">12. Updating Your Information</span><br>
 If you are a registered user, you can review, change or correct your personal information at any time by <a href="/login.asp">signing in</a>and clicking the "account info" link in the upper right corner of every page. You may request that we deactivate your account by emailing us at <a href="mailto:custcare@stilacosmetics.com">custcare@stilacosmetics.com</a>.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="13"></a>
 <p><span class="label_purp">13. Choice/Opt-Out</span><br>
 You may opt-out of receiving future Opt-In Communications from stilacosmetics.com when you <a href="/login.asp">register</a> at the Site or otherwise provide your contact information to stilacosmetics.com. You may change your preferences at any time by revising your profile by <a href="/login.asp">signing in</a>, clicking the “unsubscribe” link at the bottom of any email Opt-In Communication you receive from us and following the instructions provided therein, or by emailing us at <a href="mailto:custcare@stilacosmetics.com">custcare@stilacosmetics.com</a>.</p>
 
-<p align="center"><img src="/images/stila/productdetail-greybar_12.jpg" alt="" width="467" height="12" border="0"></p>
+<p align="center"></p><hr noshade=""><p></p>
 
 <a name="14"></a>
 <p><span class="label_purp">14. Comments</span><br>
@@ -406,87 +957,72 @@ We have taken great measures to ensure that your visit to the Site is an excelle
 </tbody></table>
 </div>
 
-</td>
-	</tr>
+</div></td>
+</tr>
 </tbody></table>
 <!-- TABLE - END - DM -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="855">
-	<tbody><tr style="height:23px; padding:0px; background-color:#3d3d3d;">
-		<td>&nbsp;</td>
-	</tr>
-</tbody></table>
-
 </div>
 
-<div id="blockthis" style="width:857px">
-<div id="footerNew" style="background-color:#000000;">
+<!--  -->
 
-
-	<form method="post" action="/signup_capture.asp" id="Signup" name="Signup">
-	<input type="hidden" name="go" value="Y">
-	<input type="hidden" name="footer" value="Y">
-	<div align="left">	
-		<div id="badges" style="float:left; padding-top:13px;">
-			<a href="http://www.facebook.com/pages/stila-cosmetics/60696985475" target="_blank" alt="Facebook"><img src="/images/core/footer_socialmedia_facebook.jpg" width="33" height="33" alt="facebook" style="margin-left:15px;"></a>
-			<a href="http://www.myspace.com/stila" target="_blank" alt="mySpace"><img src="/images/core/footer_socialmedia_myspace.jpg" width="33" height="33" alt="myspace" style="margin-right:0px;"></a>
-			<a href="http://twitter.com/stilacosmetics" target="_blank" alt="Twitter"><img src="/images/core/footer_socialmedia_twitter.jpg" width="33" height="33" alt="twitter" style="margin-right:0px;"></a>
-			<a href="http://www.youtube.com/stilavideo" target="_blank" alt="YouTube"><img src="/images/core/footer_socialmedia_youtube.jpg" width="33" height="33" alt="youtube" style="margin-right:0px;"></a>
-	    </div> <!-- badges -->
-		<div id="joinustxt" style="float:left; padding-left:13px; padding-top:17px;">
-			<img src="/images/core/footer_joinus.jpg" width="460" height="28" alt="JOIN US: want to be the first to know about new products and have access to exclusive online deals? sign-up for the stila newsletter today!">
-        </div> <!-- joinustxt -->
-		<div id="signupNavInput" style="float:left; padding-left:10px; padding-top:20px;">
-			<input type="text" name="email" value="email address" style="width:130px;" onfocus="this.value==this.defaultValue?this.value='':null">
-        </div> <!-- signupNavInput -->
-		
-		<div id="signupNavSubmitBt" style="float:left; padding-top:20px;"><input type="image" src="/images/core/bt_nav_submit.jpg" id="join" width="77" height="22" name="join">
-        </div> <!-- signupNavSubmitBt -->
-	</div>
-	</form>
-</div><!-- footerNew -->
-		<div id="textNavNew" style="float:left;  margin-top:3px; text-align:left; width:560px;">
-		<a href="/contact.asp">contact us</a> | 
-		<a href="/faq.asp">faq</a> | 
-		<a href="/faq.asp#shippingoptions">shipping</a> | 
-		<a href="/privacy.asp">privacy policy</a> | 
-		<a href="/faq.asp#return">returns</a> | 
-		<a href="/asksarah.asp">ask sarah</a> | 
-		<a href="/stores.asp">store locator</a> | 
-		<a href="/haiti_relief_sponsor.pdf" target="_blank"><span style="color:#000000;">Haiti Relief Sponsor</span></a><br>
-		Need Help? <a href="faq.asp#contact">Click Here</a><br>
-		©2010 stila styles, llc, All Rights Reserved. <a href="/terms.asp">Terms and Conditions</a><br><br><br>
-	</div><!-- textNavNew -->
-	
-	<div id="badges" style="float:left; margin-left:130px; margin-top:5px; text-align:right;">
-	<a href="http://www.stilacosmetics.com/links.asp?urlid=http://www.patriarchpartners.com/lynntilton" target="_blank"><img src="/images/core/footer_alynntiltoncompany.jpg" width="79" height="45" alt=""></a>&nbsp;&nbsp;&nbsp;
-	<!-- START SCANALERT CODE -->
-		<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.stilacosmetics.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.stilacosmetics.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;"></a>
-		<!-- END SCANALERT CODE -->
-	</div> <!-- badges -->
-</div> <!--  -->
-
-
-<!-- GOOGLE ANALYTICS - ADDED 080709 - CHANGED 090804- START - UA-4946608-1-->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><div id="footer">
+        <ul class="footerlinks">
+          <li><a href="/stores.asp">store locator</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+          <li><a href="/faq.asp">faq</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+          <li><a href="/contact.asp">contact us</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+          <li><a href="/faq.asp">customer service</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+          <li>866.784.5201</li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+          <li><a href="/sitemap.asp">site map</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+          <li><a href="/events.asp">events</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+          <li><a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=3009921" target="_blank">affiliates</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+<li><a href="/terms.asp">terms</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+<li><a href="/privacy.asp">privacy</a></li>
+          <li><img src="/images/foot_item_sep.gif"></li>
+		  <li>site design by <a href="/links.asp?urlid=http://www.lightray.com/" target="_blank">lightray</a></li>
+		<li><img src="/images/foot_item_sep.gif"></li>
+          <li title="Copyright 2010 stila styles">©2010 stila styles</li>
+        </ul>
+        <div class="foot_rt" style=""><a href="/stilacares.asp"><img src="/images/crueltyfree.jpg" border="0"></a> <a href="http://www.stilacosmetics.com/links.asp?urlid=http://www.patriarchpartners.com/lynntilton" target="_blank"><img src="/images/lt_company.jpg" border="0"></a> 
+          <!-- START SCANALERT CODE --> 
+          <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.stilacosmetics.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.stilacosmetics.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;"></a> 
+          <!-- END SCANALERT CODE --><br>
+03
+        </div>
+      </div></td>
+  </tr>
+</tbody></table>
+<br>
+<!-- footerNew --><!-- textNavNew --><!-- badges -->
+</div>
+<!-- GOOGLE ANALYTICS - ADDED 080709 - CHANGED 090804- START - UA-4946608-1--> 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
 <script type="text/javascript">
   var pageTracker = _gat._getTracker("UA-9980069-1");
   pageTracker._initData();
   pageTracker._trackPageview("privacy policy");
   
 
-</script>  
-<!-- GOOGLE ANALYTICS - ADDED 080709 - END -->
-
+</script> 
+<!-- GOOGLE ANALYTICS - ADDED 080709 - END --> 
 
 <!-- MICROSOFT CONVERSION TRACKING - ADDED 100330 - START -->
 
-<!-- MICROSOFT CONVERSION TRACKING - ADDED 100330 - END -->
-
+<!-- MICROSOFT CONVERSION TRACKING - ADDED 100330 - END --> 
 
 <!-- YAHOO ANALYTICS - ADDED 100404 - START -->
 
@@ -495,4 +1031,11 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 
 
 
-</div></div><div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><a onclick="Shadowbox.close()">Cancel</a></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div><div style="clear:both"></div></div></div></div></div></body></html>
+<!-- MEDIA FORGE - START -->
+
+<!-- General Pages - Basic Tag -->
+<script type="text/javascript" src="http://tags.mediaforge.com/js/205"></script>
+
+<!-- MEDIA FORGE - END -->
+<!-- web01 -->
+</body></html>
