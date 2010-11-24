@@ -1,42 +1,98 @@
-> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809113702id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124141227id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Insider Media Ltd
 
-## Privacy Policy
+**Privacy Policy for Newsco Insider Limited (NIL).**
 
-**Online privacy policy for Newsco Insider Limited (NIL).**
+This privacy policy sets out how Newsco Publishing Limited (“Newsco”) uses and protects any information that you give Newsco when you use our website, interactive services and/or any URL that directs you around, to and from www.insidermedia.com ( **our Website** ), whether as a guest or a registered member/user. 
 
-Newsco Insider Limited operates this website and email service and is a company limited by guarantee (registration number 2709518) with its registered office at Boulton House, Chorlton Street, Manchester, M1 3HY. We regard the privacy of users of our website and email services as very important. We have created this privacy policy to explain to you what information we may collect from you and the purpose for which such information may be used. 
+Newsco is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using our Website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-We are a data controller under the UK's Data Protection Act 1998 in respect of any processing of personal data, which you may provide to us from time to time. In accordance with the Data Protection Act 1998 we have notified the office of the Information Commissioner of our data processing activities: our registration number is Z7780806. 
+When you visit or use our Website, we may require certain details including personal data (as defined in the Data Protection Act 1998 (the “Act”) from you, including without limitation your name and email address. This policy is in relation to any personal data we collect from you, or that you provide to Newsco (collectively the “Data”). Newsco considers your privacy to be very important and this policy sets out the reasons for requesting and using the Data. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-By submitting personal information about you to us you consent to our collection and use of the information as set out in this Privacy Policy. 
+For the purpose of the Act, the data controller is Newsco Publishing Limited of Boulton House, 17-21 Chorlton Street, Manchester M1 3HY. In accordance with the Act we have notified the office of the Information Commissioner of our data processing activities. Our registration number is Z7780806 
 
-**INFORMATION COLLECTED**   
-We collect information from visitors to our website and via our email services through the use of on-line forms/our e-commerce shop/event ticket sale opportunities to name just 3 ways of interacting with the users of our services. The information we collect includes contact details (such as the contact name, address and or email addresses. 
+Newsco may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st March 2010. 
 
-**THE USE OF INFORMATION COLLECTED**   
-We process personal information collected via our website and our email services for administration, research, marketing, to promote our events and to provide you with an update about our services and news items we feel may be of interest to you. We may also disclose your information to our service providers (ie the email/web site hosting company and our e-commerce providers) and agents for the above purposes in which case they act as data processors on our behalf in respect of any persons data we may disclose to them. They are not permitted to use such personal data except as instructed by us for the purposes referred to above. We may also use the information collected to help us deal with your enquiries. 
+**What we collect**
 
-We may share your information with organisations with whom we have business dealings. We or they may use this information for customer profiling and to contact you my mail, telephone, fax or email to let you know about any goods or services which may be of interest to you. 
+We may collect and process the following information: 
 
-In addition, you may opt-out of receiving information, mailings from us at any time. We always give you the opportunity to opt-out whenever you submit information to us, but if at any time in the future you wish to cease receiving information from us just send an email to insiderweekly.com. 
+  * name and age (where necessary)
+  * contact information including email address, postal address, and telephone number
+  * information that you provide by filling in forms on our Website. This includes information provided at the time of uploading any material or using any service on our Website.
 
-Or write to the Managing Director, Newsco Insider Limited, Boulton House, 17 - 21 Chorlton St, Manchester, M1 3HY stating your wish to be removed from the mailing list. 
 
-Except as referred to above, we will only disclose personal information collected by to prevent fraud or crime or where we are required to disclose the information to comply with regulatory or legal process. We do not sell or lease personal information about visitors to our web site or who use our email services to any third parties. 
 
-**YOUR RIGHT TO ACCESS INFORMATION WE HOLD ABOUT YOU**   
-By law you have a right to access the personal information we hold about you. To obtain a copy of the personal information we hold about you please write to the Managing Director, Newsco Insider Limited, Boulton House, 17 - 21 Chorlton Street, Manchester, M1 3HY with a cheque or postal order for £10.00 to cover our administration costs. As soon as we are satisfied as to your identity we will send you within 40 days of receipt of your written request and the fee, a copy of all the personal information we hold about you, which we are legally required to disclose. Please contact us at the same address if you have any reason to believe the data we hold on you is inaccurate so that we can correct the information. 
+Whenever you contact Newsco, we may keep a record of that correspondence. 
 
-**SECURITY**   
-In accordance with the requirements of the Data Protection Act 1998 we keep secure records which contain personal information about you. The Internet is global and no data transmitted via the Internet can be guaranteed to be 100% secure during transmission, therefore, we cannot ensure or warrant the security of any information you transmit to us before we receive it. Please note that in accordance with our security procedures we may also request proof of your identity before disclosing certain information to you. 
+**What we do with the information we gather**
 
-**USE OF COOKIES**   
-Cookies are small pieces of information sent by a web server (such as that used to run our web site) to an individual's computer, which are then stored on that computer's hard drive. Cookies are used by us to identify when a visit from a user of your computer is made to our website and to keep track of your browsing patterns. These cookies are restricted for use only on our website and are not used to transfer any personal information to any third party with is not directly connected with the operation of our website. Most browsers allow you to prevent cookies being stored on your computer. If you want to know now to do this please look at the help menu on your browser. Please note that doing so may restrict your use of our web site. 
+We require the Data to understand your needs and provide you with a better website and to administer, manage, promote and publicise our Website, and in particular for the following reasons: 
 
-**LINKS TO OTHER WEB SITES**   
-Our website contains links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of those websites may collect information from you, which will be used in accordance with their respective privacy policies which you should read. We are not liable for the practices of such third party website operators in respect of your personal information. 
+  * Processing your requests.
+  * Providing a personalised service.
+  * Maintaining accounts and records.
+  * Administration of membership records.
+  * Statistical analysis and conducting market research surveys.
+  * To contact you in relation to our Website and any connected services.
+  * Internal record keeping. 
+  * Assessing and evaluating the use that is being made of the Website.
+  * Information and databank compilation and administration.
+  * We may use the information to improve our Website and any connected services. 
+  * We may periodically send promotional emails about new products and services, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may use the information to customise our Website according to your interests.
 
-**CHANGES TO THIS PRIVACY POLICY**   
-We may amend this Privacy Policy from time to time. If we make any substantial changes to the way in which we use your personal information we will notify you by posting a prominent notice on the homepage of our website or email service. You can view the current version of this Privacy Policy at any time by clicking onto the Terms and Conditions link on the homepage. 
+
+
+The personal details we request allow Newsco to contact you by post, telephone, fax or electronic means (e-mail or SMS). Other details requested are for the purposes of establishing what services may be suitable to you or your business. 
+
+We may also use the Data, or permit selected third parties to use the Data, to provide you with information about goods and services which we believe may be of interest to you and we or they may contact you about these by post, telephone, fax or electronic means (e-mail or SMS). 
+
+We (and, where we permit selected third parties to use the Data, they) will contact you by electronic means only if you have consented to this. 
+
+We will only sell or otherwise provide the Data to third parties in order for those third parties to offer goods and services to you that may be unrelated to Newsco, where you have provided your consent. 
+
+We may also transfer, store and process the Data to / in countries outside the EEC in connection with the processing mentioned above. The Data may therefore be proceed in countries where the rights and benefits conferred on data subjects may not be as favorable as in the United Kingdom. We will only take such action where you have agreed to this by accepting this provision when the Data was collected. 
+
+**Security**
+
+We are committed to ensuring that the Data is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the Data we collect online. 
+
+**IP Addresses and Cookies**
+
+We may collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. 
+
+For the same reason, we may obtain information about your general internet usage by using a cookie file. Cookies are small text files that are stored by your browser on your computer’s hard drive allowing websites to recognise one user from another. Cookies can be deleted from your hard drive if you want to. Most web browsers automatically accept cookies but your web browser can be altered so as to prevent acceptance. 
+
+Cookies help us to improve our Website and to deliver a better and more personalised service. 
+
+They enable us: 
+
+  * To estimate our audience size and usage pattern. 
+  * To store information about your preferences, and so allow us to customise our Website according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to our Website.
+
+
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website. Please note that our advertisers may also use cookies, over which we have no control. Our Website may contain electronic images known as web beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons are not used to access your personally identifiable information on our Website. They are a technique to compile aggregated statistics about our Website’s usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides. 
+
+**Links to other websites**
+
+Our Website may contain links to other websites of interest. However, once you have used these links to leave our Website, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways: 
+
+  * whenever you are asked to fill in a form on our Website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at digitalenquiries@insidermedia.com.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Newsco Publishing Limited of Boulton House, 17-21 Chorlton Street, Manchester M1 3HY. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
