@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616222328id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124010843id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy and Security Statement, Employment & Training Administration (ETA) - U.S. Department of Labor
 
