@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameaholic.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628212110id_/http%3A//www.gameaholic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameaholic.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124015704id_/http%3A//www.gameaholic.com/info/privacy) for the most accurate reproduction.*
 
 # Gameaholic dot Com Privacy and Legal Information
 
@@ -22,6 +22,6 @@ Gameaholic dot Com staff makes the best effort to ensure that all information st
 
 Gameaholic dot Com website, and other sites hosted and managed by us, may contain links to other web sites. The information in this document pertains only to content hosted and managed by us. Gameaholic dot Com is not responsible for the privacy practices or the content of such web sites. 
 
-This site, Gameaholic Dot Com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 If you have further questions regarding Gameaholic dot Com's privacy practices, please email privacy at gameaholic.com. 
