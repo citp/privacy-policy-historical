@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the worldlanguage.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174255id_/http%3A//www.worldlanguage.com/PrivacyPolicies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlanguage.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060343id_/http%3A//www.worldlanguage.com/PrivacyPolicies.htm) for the most accurate reproduction.*
 
 # Privacy Policies
 
-| [Browsing the Site](https://web.archive.org/BrowsingTheSite.htm) | [Searching](https://web.archive.org/Searching.htm) | [Checkout Explained](https://web.archive.org/CheckoutExplained.htm) | [Navigation Tips](https://web.archive.org/NavigationTips.htm)  
----|---|---|---  
-[About Us](https://web.archive.org/AboutUs.htm) | [Fax Or Mail Ordering](https://web.archive.org/FaxOrMailOrdering.htm) | [Sales Guarantee](https://web.archive.org/SalesGuarantee.htm) | [Packaging](https://web.archive.org/Packaging.htm)  
-Privacy Policies | [Job Opportunities](https://web.archive.org/JobOpportunities.htm) | [Order Tracking](https://web.archive.org/OrderTracking.htm) | [Gift Certificates](https://web.archive.org/GiftCertificates.htm)  
-[Site Security](https://web.archive.org/SiteSecurity.htm) | [Safe Shopping Guarantee](https://web.archive.org/SafeShoppingGuarantee.htm)  
+|  |  |  Help Topics  |   |  Select a Topic for Help with our site.   
+---|---|---  
   
 Protecting the privacy of our customers is important to WorldLanguage. In order to keep you fully informed about our use of information we collect at WorldLanguage.com, please read our privacy policy.
 
