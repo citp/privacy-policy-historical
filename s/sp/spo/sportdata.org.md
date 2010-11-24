@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportdata.org privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607125143id_/http%3A//www.sportdata.org/set-online/datenschutz.php%3Factive_menu%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportdata.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002106id_/http%3A//www.sportdata.org/set-online/datenschutz.php%3Factive_menu%3Dhome) for the most accurate reproduction.*
 
 # Privacy statement
 
