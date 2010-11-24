@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526041636id_/http%3A//www.calottery.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124224833id_/http%3A//www.calottery.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ This site contains links to other sites. The California Lottery is not responsib
 
  **Contacting the Lottery**
 
-If you have any questions about this privacy notice, the practices of this site, or your dealings with the site you should contact the California Lottery, 600 North 10th Street, Sacramento, CA 95814.
+If you have any questions about this privacy notice, the practices of this site, or your dealings with the site you should contact the California Lottery, 600 North 10th Street, Sacramento, CA 95811.
 
 |  |  |   
 |  |  | 
