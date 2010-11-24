@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172250id_/http%3A//www.stratfor.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134326id_/http%3A//www.stratfor.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | STRATFOR
 
@@ -72,4 +72,5 @@ Faster, more convenient access. We can deliver to you customized information and
 
 **Should I set my browser to not accept cookies or to alert me each time I receive one?** You certainly could set your browser to alert you each time a cookie is passed to your machine. However, we'd recommend that you turn that feature off, perhaps after using the site for a day or so with it on, once you've seen firsthand how we use this technology. Our use of cookies ultimately helps you have a better experience here. You might find it cumbersome to be alerted to each cookie you'll encounter.
 
-**To have STRATFOR's free intelligence reports emailed to you each week,[click here](https://www.stratfor.com/join/free?source=FreeWeekly).**
+**To have STRATFOR's free intelligence reports emailed to you each week,[click here](https://www.stratfor.com/join/free?source=FreeWeekly).**  
+
