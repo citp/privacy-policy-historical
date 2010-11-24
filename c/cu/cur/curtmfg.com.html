@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the curtmfg.com privacy policy that was archived on 2010-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531191533id_/http%3A//www.curtmfg.com/index.cfm%3Fevent%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the curtmfg.com privacy policy that was archived on 2010-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124224911id_/http%3A//curtmfg.com/index.cfm%3Fevent%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,9 +10,14 @@
 			<meta name="Description" content="Custom Trailer Hitch Products, Custom Receiver Hitch, Heavy Duty Towing, Curt Manufacturing">
 			<meta name="Keywords" content="Trailer Hitch, Trailer Hitches, Curt Trailer Hitch, Hitch Products, Trailer Accessories, Receiver Hitch, Heavy Duty Towing, Towing Information, Towing Tips, Custom Trailer Products, Curt Manufacturing">
 		
-		<link rel="stylesheet" type="text/css" href="css/layout.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="css/layout-new.css" media="screen">
+		
+		<link rel="stylesheet" type="text/css" href="css/wheretobuy.css" media="screen">
+		<link rel="Stylesheet" type="text/css" href="css/locator.css" media="screen">
+		
 		<link rel="stylesheet" type="text/css" href="css/jquery.fancybox-1.3.1.css" media="screen">
 		<!--[if IE]><link rel="stylesheet" type="text/css" href="css/jquery.fancybox-1.3.1.ie.css" media="screen" /><![endif]-->
+		<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
 		<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css" /><![endif]-->
 		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css" /><![endif]-->
 			
@@ -22,8 +27,12 @@
 		<script type="text/javascript" src="scripts/hoverIntent.js"></script>
 		<script type="text/javascript" src="scripts/jquery.fancybox-1.3.1.pack.js"></script>
 		<script type="text/javascript" src="scripts/jquery.qtip-1.0.min.js"></script>
+		<script type="text/javascript" src="scripts/jquery.ui.widget.js"></script>
+		<script type="text/javascript" src="scripts/jquery.smoothDivScroll-1.1-min.js"></script>
 		<script type="text/javascript" src="scripts/scripts.js"></script>
 		<script type="text/javascript" src="scripts/carousel.js"></script>
+		
+		<script type="text/javascript" src="scripts/hitch.js"></script>
 		
 
 		
@@ -37,68 +46,88 @@
 	  </head>
 	  <body>
 
+			
 			<div class="container">
-				<div class="header">
-					<a class="logo" href="index.cfm" title="Curt Manufacturing Incorporated"><img src="images/CurtLogoNew.gif" alt="Curt Manufacturing Incorporated"></a>
-					<div class="headerlinks">
+				<div class="header-home">
+					<div id="topBar"></div>
+					<div style="clear:both"></div>
+					<a class="logo" href="index.cfm" style="margin-top: 10px;margin-left: 10px; width: 160px" title="Curt Manufacturing Incorporated">
+						<img src="images/header/topLogo.png" alt="Curt Manufacturing Incorporated">
+					</a>
+					<div id="searchArea">
 						<form name="frmSearch" action="index.cfm?event=productsearch" method="post">
-							<div class="hlinks">
-								<a href="index.cfm" title="Curt Manufacturing Home">HOME</a>
-								|
-								<a href="index.cfm?event=about" title="About Curt Manufacturing">ABOUT</a>
-								|
-								<a href="index.cfm?event=support" title="Support and Information from Curt Manufacturing">SUPPORT</a>
-								|
-								<a href="index.cfm?event=contact" title="Contact Curt Manufacturing">CONTACT</a>
-								|
-								<a href="http://orders.curtmfg.com" target="_blank" title="ComNet">COMNET</a>
-								|
-								<a href="index.cfm?event=providers" title="Where to Buy">WHERE TO BUY</a>
-							</div>
-							<div class="searchbox">
-								<input class="searchtext" type="text" name="searchText" value="SEARCH" onclick="javascript: if(this.value == 'SEARCH') this.value = '';"><input type="image" src="images/searchbutton.gif" alt="search" title="search" class="searchGo">
-							</div>
+						<input class="searchtext" name="searchText" value="SEARCH" onclick="javascript: if(this.value == 'SEARCH') this.value = '';" type="text">
+						<input src="images/search.jpg" alt="search" title="search" class="searchGo" type="image">
 						</form>
 					</div>
-					<div class="hitchlookup">
-						<p class="quickhitchtext">QUICK HITCH &amp; WIRING LOOK-UP
-						
-						</p><form name="postion" method="post" action="index.cfm?event=hitch">
-							<select name="selectVehicleMount" id="selectVehicleMount" onchange="getYears();">
-								<option value="MOUNT">Select Type</option>
+					<br>
+					<div class="headerlinks" style="text-align: center;width:100%;margin-top: 0px">
+						<div class="hlinks" style="float:none;text-align:center">
+							
+							<a href="index.cfm" title="Curt Manufacturing Home">HOME</a>
+							|
+							<a href="index.cfm?event=about" title="About Curt Manufacturing">ABOUT</a>
+							|
+							<a href="index.cfm?event=support" title="Support and Information from Curt Manufacturing">SUPPORT</a>
+							|
+							<a href="index.cfm?event=contact" title="Contact Curt Manufacturing">CONTACT</a>
+							|
+							<a href="http://orders.curtmfg.com" target="_blank" title="ComNet">COMNET</a>
+							|
+							<a href="index.cfm?event=dealerlogin" title="Dealer Login">DEALER LOGIN</a>
+							|
+							<a href="index.cfm?event=providers" title="Where to Buy">WHERE TO BUY</a>
+							
+						</div>
+						<div class="searchbox"></div>
+					</div>
+					<div class="hitchlookup" style="display: block;">
+						<p class="quickhitchtext">QUICK HITCH &amp; WIRING LOOK-UP</p>
+						<form name="postion" method="post" action="index.cfm?event=hitch">
+							<select name="selectVehicleMount" id="selectVehicleMount">
+								<option selected="selected" value="MOUNT">Select Type</option>
 								<option value="Rear Mount">Rear Mount</option>
 								<option value="Front Mount">Front Mount</option>
 							</select>
-							<select name="selectVehicleYear" id="selectVehicleYear" onchange="getMakes();">
+							<select name="selectVehicleYear" id="selectVehicleYear">
+								<option selected="selected" value="">Select Year</option>
 							</select>
-							<select name="selectVehicleMake" id="selectVehicleMake" onchange="getModels();">
+							<select name="selectVehicleMake" id="selectVehicleMake">
+								<option selected="selected" value="">Select Make</option>
 							</select>
-							<select name="selectVehicleModel" id="selectVehicleModel" onchange="getStyles();">
+							<select name="selectVehicleModel" id="selectVehicleModel">
+								<option selected="selected" value="">Select Model</option>
 							</select>
 							<select name="selectVehicleStyle" id="selectVehicleStyle" style="font-size: 10px;">
+								<option selected="selected" value="">Select Style</option>
 							</select>
-							
-							<input type="image" src="images/submit4.gif" alt="Submit">
-							<img src="images/imagematters.gif" alt="image matters strength endures">
+							<div style="float: right; width: 70px; position: relative;">
+								<input id="btnSubmit" style="position: relative; padding-left: 0px; float: right;" src="images/submit4.gif" alt="Submit" type="image">
+							</div>
 						</form>
 					</div>
-					<div class="floatinglinks">
-						<a class="receiver" href="index.cfm?event=pageview&amp;contentpieceid=1375"></a>
-						<a class="gooseneck" href="index.cfm?event=prolist&amp;categoryid=37"></a>
-						<a class="fifthwheel" href="index.cfm?event=prolist&amp;categoryid=38"></a>
-						<a class="cargo" href="index.cfm?event=prolist&amp;categoryid=39"></a>
-						<a class="ballmounts" href="index.cfm?event=prolist&amp;categoryid=47"></a>
-						<a class="bikeracks" href="index.cfm?event=prolist&amp;categoryid=40"></a>
-						<a class="locks" href="index.cfm?event=prolist&amp;categoryid=14"></a>
-						<a class="wiring" href="index.cfm?event=prolist&amp;categoryid=26"></a>
-						<a class="frontmount" href="index.cfm?event=pageview&amp;contentpieceid=1377"></a>
-					</div>
-					<div style="clear: both;"></div>
-				</div>
-			
-
-
 				
+					<div id="makeMeScrollable"> 
+						<div class="scrollWrapper"> 
+							<div class="scrollableArea" style="width: 840px;"><img src="images/header/fish.png" alt="Demo image"> 
+								<img src="images/header/ski.jpg" alt="Demo image"> 
+								<img src="images/header/hunt.jpg" alt="Demo image"> 
+								<img src="images/header/camp.jpg" alt="Demo image"> 
+								<img src="images/header/horse.jpg" alt="Demo image"> 
+								<img src="images/header/bike.jpg" alt="Demo image"> 
+								<img src="images/header/mt_bike.jpg" alt="Demo image"> 
+								<img src="images/header/climb.jpg" alt="Demo image"> 
+								<img src="images/header/dog.jpg" alt="Demo image"> 
+								<img src="images/header/boat.jpg" alt="Demo image">
+								
+							</div>
+						</div> 
+						<img src="images/header/bringIt_white.png" alt="Bring It" id="bringitimage">
+						<div style="clear: both;"></div>
+					</div>
+				
+				<div style="clear: both;"></div>
+			</div>
 
 <!-- Define the menu as a variable that will be written out later -->
 
@@ -111,6 +140,96 @@
 		
 		
 		
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
+		
+			
+			
+			
+			<!-- Define the content that fills the menu for just the 'understanding' mapped item -->
+			
+
+			<!-- Define the content that fills the menu for just the 'trailer' mapped item -->
+			
 		
 			
 			
@@ -411,6 +530,7 @@
 		
 		<!-- Write the data to the prolist -->
 		
+		<div id="navBox">
 			<div><ul id="nav">
 				
 				
@@ -475,11 +595,11 @@
 						<ul class="subnav">
 							
 								
-									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1354">Electrical Wiring ID by Color</a></li>
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1351">Bumper Styles</a></li>
 								
 							
 								
-									<li><a href="index.cfm?event=pageview&amp;contentpieceid=7639">Splice-In Wiring Selector</a></li>
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1354">Electrical Wiring ID by Color</a></li>
 								
 							
 								
@@ -487,11 +607,19 @@
 								
 							
 								
-									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1347">Tongue Weight</a></li>
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1352">How Much Can You Tow?</a></li>
 								
 							
 								
-									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1349">Hitch Selection Guide</a></li>
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=9879">How To Choose A Ball Mount &amp; Ball (video)</a></li>
+								
+							
+								
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=9882">How To Hook-Up A Standard Trailer (video)</a></li>
+								
+							
+								
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=9881">How To Load A Cargo Carrier (video)</a></li>
 								
 							
 								
@@ -499,15 +627,15 @@
 								
 							
 								
-									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1351">Bumper Styles</a></li>
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=7639">Splice-In Wiring Selector</a></li>
+								
+							
+								
+									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1347">Tongue Weight</a></li>
 								
 							
 								
 									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1353">Trailer Weights Only</a></li>
-								
-							
-								
-									<li><a href="index.cfm?event=pageview&amp;contentpieceid=1352">How Much Can You Tow?</a></li>
 								
 							
 								
@@ -625,7 +753,7 @@
 									
 										
 										
-										<li><a href="index.cfm?event=prolist&amp;categoryid=56">Safety Chains</a></li>
+										<li><a href="index.cfm?event=prolist&amp;categoryid=56">Safety Chains &amp; Cables</a></li>
 									
 								</ul>
 							
@@ -715,20 +843,15 @@
 											
 				</ul>
 				</div>
+			</div>
 				<!--  ****** End Structure & Links ***** -->
 				
 					
 	</div>
 
 
-
-
-			
-
-
 <div style="width: 730px; background: #ffffff; text-align: left; padding-left: 10px; padding-right: 10px;">
-	
-				<div style="background: #ffffff; padding: 8px; text-align: center; display:block;clear:both;">
+	<div style="background: #ffffff; padding: 8px; text-align: center; display:block;clear:both;">
 	<table width="710px" align="center">
 		<tbody><tr>
 			<td align="left">
@@ -906,286 +1029,40 @@
 </tr>
 </tbody></table>
 </div>
-			
 </div>
-
-						<div style="width: 750px; color: #ffffff; text-align: center; padding-top: 8px;">
-			<a href="index.cfm" class="footerlinks" title="Curt Manufacturing Home">HOME</a>
-			&nbsp;•&nbsp;
-			<a href="index.cfm?event=sitemap" class="footerlinks" title="Curt Manufacturing Site Map">SITE MAP</a>
-			&nbsp;•&nbsp;
-			<a href="index.cfm?event=privacy" class="footerlinks" title="Curt Manufacturing Privacy">PRIVACY POLICY</a>
-			&nbsp;•&nbsp;
-			<a href="http://www.sitepro.com" target="_blank" class="footerlinks" title="Business and Ecommerce Web Site Design">DESIGN AND HOSTING BY SITEPRO®</a><br>
-			<a href="index.cfm?event=contact" class="footerlinks" title="Curt Manufacturing Home">©&nbsp;CURT MANUFACTURING</a>
-			&nbsp;•&nbsp;
-			877.CURTMFG (287.8634)
+<div id="footer">
+		<div style="float:left;margin: 15px 25px;color:white">
+			<p>© 2010 CURT ™ Manufacturing Inc. All Rights Reserved.</p>
+			<a style="margin-left: 0px" href="index.cfm?event=sitemap">Site Map</a> | 
+			<a href="index.cfm?event=privacy">Policy</a> | 
+			<span style="margin-left: 10px">877.CURTMFG</span><br><br>
+			<a style="margin-left:0px" href="http://www.sitepro.com" target="_blank">Hosting by Site Pro®</a>
 		</div>
-				
-				
-					<script language="JavaScript" type="text/javascript" src="http://admin.sitepro.com/external/ajax/oyXMLRPC.js"></script>
-					<script language="javascript" type="text/javascript">
+		<a href="index.cfm"><div id="bottom_logo"></div></a>
+		<div id="social_links" style="float:right;position:relative;">
+			<a href="http://www.facebook.com/hitchinfo" target="_blank">
+				<img src="images/facebook_32.png" alt="Facebook - HitchInfo">
+			</a>
+			<a href="http://www.twitter.com/curtmfg" target="_blank">
+				<img src="images/twitter_32.png" alt="Twitter - @curtmfg">
+			</a>
+			<a href="http://www.youtube.com/curtmfg" target="_blank">
+				<img src="images/youtube_32.png" alt="YouTube - CURT Manufacturing">
+			</a>
+		</div>
+	</div>
+	
 
-				
-					function updateModifyType(){
-				
-						var makeField = "selectVehicleMake";
-						var yearField = "selectVehicleYear";
-						var modelField = "selectVehicleModel";
-						
-						var modifyType = document.getElementById("modifyType");
-						
-						if(modifyType.checked){
-							document.getElementById(makeField).disabled = false;
-							document.getElementById(yearField).disabled = false;
-							document.getElementById(modelField).disabled = false;
-						}else{
-							document.getElementById(makeField).disabled = true;
-							document.getElementById(yearField).disabled = true;
-							document.getElementById(modelField).disabled = true;			
-						}
-				
-						
-					}
-					
-					function getYears(){
-				
-						var makeField = "selectVehicleMake";
-						var yearField = "selectVehicleYear";
-						var modelField = "selectVehicleModel";
-						var mountField = "selectVehicleMount";
-				
-						// create logging function
-						var myOnLog = function(msg){
-						}
-						
-						// create completion function
-						var myOnComplete = function(responseText, responseXML){
-				
-							//document.getElementById('outputText').value = responseText;				
-							var modelNodes = responseXML.getElementsByTagName('vehicle-year');
-							var modelNode = '';
-							var formObject = document.getElementById(yearField);
-							
-							var i = 0;
-							var formOption= '';
-							var yearName = '';
-							var yearValue = '';
-								
-							//remove the make
-							document.getElementById(makeField).options.length=0;
-							
-							//go through and add all the current makes
-							formObject.options.length=0;
-							formObject.options.length=modelNodes.length;						
-							for(i=0;i<modelNodes.length;i++){
-								modelNode = modelNodes[i];
-								yearName = modelNode.getElementsByTagName('year')[0].firstChild.nodeValue;
-								yearValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
-								formOption = new Option(yearName,yearValue);
-								formObject.options[i] = formOption;
-							}
-							
-							//refresh the models
-							getMakes();
-							
-							
-						}
-				
-						// create provider instance; wire events
-						var provider = new oyXMLRPCProvider();
-						provider.onComplete = myOnComplete;
-						provider.onLog = myOnLog;
-						provider.onError = myOnLog;
-				
-						var mountid = document.getElementById(mountField).options[document.getElementById(mountField).selectedIndex].value;
-				
-						provider.submit("index.cfm?event=yearxml&mount=" + mountid);
-					}
-					function getMakes(){
-				
-						var makeField = "selectVehicleMake";
-						var yearField = "selectVehicleYear";
-						var modelField = "selectVehicleModel";
-						var mountField = "selectVehicleMount";
-				
-						// create logging function
-						var myOnLog = function(msg){
-						}
-						
-						// create completion function
-						var myOnComplete = function(responseText, responseXML){
-				
-							//document.getElementById('outputText').value = responseText;				
-							var modelNodes = responseXML.getElementsByTagName('vehicle-make');
-							var modelNode = '';
-							var formObject = document.getElementById(makeField);
-							
-							var i = 0;
-							var formOption= '';
-							var makeName = '';
-							var makeValue = '';
-								
-							//remove the model
-							document.getElementById(modelField).options.length=0;
-							
-							//go through and add all the current makes
-							formObject.options.length=0;
-							formObject.options.length=modelNodes.length;						
-							for(i=0;i<modelNodes.length;i++){
-								modelNode = modelNodes[i];
-								makeName = modelNode.getElementsByTagName('make')[0].firstChild.nodeValue;
-								makeValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
-								formOption = new Option(makeName,makeValue);
-								formObject.options[i] = formOption;
-							}
-							
-							//refresh the models
-							getModels();
-							
-							
-						}
-				
-						// create provider instance; wire events
-						var provider = new oyXMLRPCProvider();
-						provider.onComplete = myOnComplete;
-						provider.onLog = myOnLog;
-						provider.onError = myOnLog;
-				
-						var yearId = document.getElementById(yearField).options[document.getElementById(yearField).selectedIndex].value;
-						
-						var mountid = document.getElementById(mountField).options[document.getElementById(mountField).selectedIndex].value;
-				
-						provider.submit("index.cfm?event=makexml&year=" + yearId + "&mount=" + mountid);
-					}
-					
-					function getModels(){
-				
-						var makeField = "selectVehicleMake";
-						var yearField = "selectVehicleYear";
-						var modelField = "selectVehicleModel";
-						var styleField = "selectVehicleStyle";
-						var mountField = "selectVehicleMount";
-				
-						// create logging function
-						var myOnLog = function(msg){
-						}
-						
-						// create completion function
-						var myOnComplete = function(responseText, responseXML){
-				
-							//document.getElementById('outputText').value = responseText;				
-							var modelNodes = responseXML.getElementsByTagName('model');
-							var modelNode = '';
-							var formObject = document.getElementById(modelField);
-							
-							var i = 0;
-							var formOption= '';
-							var modelName = '';
-							var modelValue = '';
-								
-							//remove the model
-							document.getElementById(styleField).options.length=0;
-							
-							//go through and add all the current models
-							formObject.options.length=0;
-							formObject.options.length=modelNodes.length;						
-							for(i=0;i<modelNodes.length;i++){
-								modelNode = modelNodes[i];
-								modelName = modelNode.getElementsByTagName('name')[0].firstChild.nodeValue;
-								modelValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
-								formOption = new Option(modelName,modelValue);
-								formObject.options[i] = formOption;
-							}
-							
-							//refresh the models
-							getStyles();
-							
-							
-						}
-				
-						// create provider instance; wire events
-						var provider = new oyXMLRPCProvider();
-						provider.onComplete = myOnComplete;
-						provider.onLog = myOnLog;
-						provider.onError = myOnLog;
-				
-						var yearId = document.getElementById(yearField).options[document.getElementById(yearField).selectedIndex].value;
-						var makeId = document.getElementById(makeField).options[document.getElementById(makeField).selectedIndex].value;
-						var mountid = document.getElementById(mountField).options[document.getElementById(mountField).selectedIndex].value;
-						
-						provider.submit("index.cfm?event=modelxml&year=" + yearId + "&make=" + makeId + "&mount=" + mountid);
-					}
-					
-					function getStyles(){
-				
-						var makeField = "selectVehicleMake";
-						var yearField = "selectVehicleYear";
-						var modelField = "selectVehicleModel";
-						var styleField = "selectVehicleStyle";
-						var mountField = "selectVehicleMount";
-						
-						// create logging function
-						var myOnLog = function(msg){
-						}
-				
-						// create completion function
-						var myOnComplete = function(responseText, responseXML){
-							var vehicleTypeNodes = responseXML.getElementsByTagName('vehicle-style');
-							var vehicleTypeNode = '';
-							var formObject = document.getElementById(styleField);
-							
-							var i = 0;
-							var formOption= '';
-							var vehicleTypeModel = '';
-							var vehicleTypeValue = '';
-							
-							
-							//go through and add all the yearsresponseXML
-							formObject.options.length=0;
-							formObject.options.length=vehicleTypeNodes.length;						
-							for(i=0;i<vehicleTypeNodes.length;i++){
-								vehicleTypeNode = vehicleTypeNodes[i];
-								vehicleTypeModel = vehicleTypeNode.getElementsByTagName('vstyle')[0].firstChild.nodeValue;					
-								vehicleTypeValue = vehicleTypeNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
-								formOption = new Option(vehicleTypeModel,vehicleTypeValue);
-								formObject.options[i] = formOption;
-							}
-							
-							
-							
-						}
-				
-				
-						// create provider instance; wire events
-						var provider = new oyXMLRPCProvider();
-						provider.onComplete = myOnComplete;
-						provider.onLog = myOnLog;
-						provider.onError = myOnLog;
-						
-						var yearId = document.getElementById(yearField).options[document.getElementById(yearField).selectedIndex].value;
-						var makeId = document.getElementById(makeField).options[document.getElementById(makeField).selectedIndex].value;
-						var modelId = document.getElementById(modelField).options[document.getElementById(modelField).selectedIndex].value;
-						var mountid = document.getElementById(mountField).options[document.getElementById(mountField).selectedIndex].value;
-						
-						provider.submit("index.cfm?event=stylexml&year=" + yearId + "&make=" + makeId + "&model=" + modelId + "&mount=" + mountid);
-						
-						
-					}
-					</script>
-					<script language="javascript">
-						getYears();
-					</script>					
-				
 		<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6347715-30");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-6347715-30");
+			pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
 
 		
 			<!--Start Kampyle Feedback Form Button--><div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.kampyle.com/" target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff('site_code=4310818&amp;form_id=33490&amp;lang=en');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"></a></div>
@@ -1193,89 +1070,20 @@ pageTracker._trackPageview();
 			<!--End Kampyle Feedback Form Button-->
 		
 		
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-	var pageTracker = _gat._getTracker("UA-11960917-1");
-	pageTracker._trackPageview();
-} catch(err) {}</script>
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			try {
+				var pageTracker = _gat._getTracker("UA-11960917-1");
+				pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
 	
 
-			
-		
-	
 		
 		
 		
 
-		
-
-		
-
-		
-
-		
-			
-		
-	
-	
-		
-		
-			
-		
-	
-		
-		
-		
-
-		
-
-		
-
-		
-
-		
-			
-		
-	
-	
-			
-			
-	
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-
-		
-
-		
-			
-		
-			
-		
-		
-		
-
-	
-		
-
-		
-			
-		
-	
-		
-		
-	
-	
-
-</div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+	</div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
