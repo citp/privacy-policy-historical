@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513025502id_/http%3A//c2cfabrication.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124105430id_/http%3A//www.c2cfabrication.com/store/privacy.php) for the most accurate reproduction.*
 
 # 
 
