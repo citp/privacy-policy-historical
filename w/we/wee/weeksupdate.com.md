@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the weeksupdate.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523161214id_/http%3A//weeksupdate.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeksupdate.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124181657id_/http%3A//weeksupdate.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy WeeksUpdate
 
 ##  [Privacy Policy](http://www.weeksupdate.com/2009/03/privacy-policy.html)
-
-Monday, March 16, 2009 
 
 By using the WeeksUpdate.com and its services you are agreeing to be bound by the following terms and conditions.
 
@@ -30,4 +28,4 @@ If you require any more information or have any questions about our privacy poli
 
 The Privacy Policy may be revised periodically. Please revisit this page to stay aware of any changes. 
 
-[ ](http://www.blogger.com/rearrange?blogID=6313474543962501254&widgetType=Text&widgetId=Text1&action=editWidget "Edit")
+[Share](http://www.facebook.com/sharer.php)
