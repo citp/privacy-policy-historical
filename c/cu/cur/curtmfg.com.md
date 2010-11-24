@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curtmfg.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531191533id_/http%3A//www.curtmfg.com/index.cfm%3Fevent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curtmfg.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124224911id_/http%3A//curtmfg.com/index.cfm%3Fevent%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - Custom Trailer Hitch Products, Custom Receiver Hitch, Heavy Duty Towing, Curt Manufacturing - Privacy Statement
 
