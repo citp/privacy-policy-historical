@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
 
 # JIDAW.COM: Privacy Policy
 
@@ -26,6 +26,10 @@ Our server collects this information for such purposes as assessing what informa
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  [ click here](http://www.google.com/privacy_ads.html).
 
+** Copyright**
+
+All content included on this site is the property of Jidaw or its content suppliers. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited without the consent of Jidaw.
+
 **How to contact us **  
 If you have questions or concerns regarding this statement, you should first contact us through the form on this page: <http://www.jidaw.com/contact.html>
 
@@ -33,10 +37,10 @@ If you have questions or concerns regarding this statement, you should first con
 
 _**Page Top**_
 
-|  [HOME](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/index.html) |  [ABOUT US](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/about.html) |  [COMMENTS](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/comments.html) |  [CONTACT US](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/contact.html) |  [BOOK SALES](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/books.html)  
+|  [HOME](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/index.html) |  [ABOUT US](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/about.html) |  [COMMENTS](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/comments.html) |  [CONTACT US](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/contact.html) |  [BOOK SALES](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/books.html)  
 ---|---|---|---|---  
-[HELP](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/help2.html) |  [E-LEARNING](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/e-learn.html) |  [CERTIFICATION](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/certification.html) |  [TRAINING](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/training.html) |  [PREVIOUS JOBS](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/previous.html)  
-  | [PRIVACY](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/privacy.html) | [DISCLAIMER](https://web.archive.org/web/20100503223208id_/http%3A//jidaw.com/disclaimer.html) | [ SITEMAP](http://www.jidaw.com/sitemap.html) |    
+[HELP](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/help2.html) |  [E-LEARNING](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/e-learn.html) |  [CERTIFICATION](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/certification.html) |  [TRAINING](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/training.html) |  [PREVIOUS JOBS](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/previous.html)  
+  | [PRIVACY](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/privacy.html) | [DISCLAIMER](https://web.archive.org/web/20101124072855id_/http%3A//www.jidaw.com/disclaimer.html) | [ SITEMAP](http://www.jidaw.com/sitemap.html) |    
   
 
 
