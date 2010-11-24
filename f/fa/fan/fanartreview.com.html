@@ -1,9 +1,43 @@
-<!--The following is the downloaded HTML source of the fanartreview.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618153938id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fanartreview.com privacy policy that was archived on 2010-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124055835id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
 <title>FanArtReview.com - Post your art, photos, or digital art on this art and photograph sharing site.</title>
 
+
+	
+	<!--NodeFire API Script Reference [required for script enhanced menu control]-->
+
+		<script type="text/javascript" src="nodefire.js"></script>
+
+
+	<!--Menu Widget Core CSS [Do not modify!]-->
+
+		<!--[if lte IE 6]><style type="text/css">.nfPure .nfItem{width:0px;}</style><![endif]-->
+		<!--[if lte IE 7]><style type="text/css">.nfMain,.nfMain .nfLink,.nfMain .nfSubS{zoom:1;}.nfPure .nfLink:hover{z-index:1101;}.nfPure .nfItem{display:inline !important;}</style><![endif]-->
+		<style type="text/css">.nfMain, .nfSubC, .nfSubS{list-style:none;margin:0px;padding:0px;}.nfMain{position:relative;z-index:1;}.nfMain .nfSubC{visibility:hidden;position:absolute;}.nfMain .nfItem, .nfMain .nfLink{list-style:none;position:relative;display:block;white-space:nowrap;margin:0px;}.nfMain:after{content: ".";display:block;height:0px;clear:both;overflow:hidden;}.nfPure .nfItem:hover, .nfPure .nfItem:hover>.nfSubC{z-index:1101;visibility:inherit;}.nfPure .nfLink:focus{z-index:1102;}.nfMain .nfJSActiveItem{z-index:1101;}.nfMain .nfJSShowSub{z-index:1101;visibility:inherit;}.nfMain .nfItem div.nfLink {cursor:default;}.nfMain .nfItem {float:left;}.nfMain .nfItem .nfItem {float:none;}.nfMain .nfItem .nfSubC {top:100%;left:0px;width:auto;}.nfMain .nfSubC .nfItem .nfSubC {top:0px;left:100%;width:auto;}</style>
+
+	
+	<!--Menu Widget CSS Styles [edit styles.css to change the look of the menu]-->
+	
+		<link rel="stylesheet" href="stylesmenu.css" type="text/css">
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="imagetoolbar" content="no">
+	
+	<script type="text/javascript" src="fancybox/jquery.js"></script> 
+	
+	
+	<script type="text/javascript" src="fancybox/jquery.fancybox-1.2.5.js"></script> 
+	<script type="text/javascript" src="fancybox/jquery.easing.1.3.js"></script>
+	<link rel="stylesheet" href="fancybox/jquery.fancybox-1.2.5.css" type="text/css" media="screen">
+	
+	
+
+	
 <link rel="STYLESHEET" type="text/css" href="standard2.css">
 <link rel="STYLESHEET" type="text/css" href="standard.css">
 <link href="styles.css" rel="stylesheet" type="text/css">
@@ -26,45 +60,10 @@
 	<link rel="alternate" type="application/rss+xml" title="Traditional Art For Sale " href="http://www.fanartreview.com/forsaletraditionalart.xml">
 	<link rel="alternate" type="application/rss+xml" title="Digital Art For Sale" href="http://www.fanartreview.com/forsaledigitalart.xml">
 
-<script language="JavaScript">
-<!--
-
-//Disable right mouse click Script
-//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
-//For full source code, visit http://www.dynamicdrive.com
-
-var message="FanArtReview.com contains copyrighted work. To purchase a work (in electronic or other format) please contact the artist. Or, when viewing the work, locate the for sale button (if available). Artists have the option to sell their work commission free.";
 
 
-///////////////////////////////////
-function clickIE4(){
-if (event.button==2){
-alert(message);
-return false;
-}
-}
 
-function clickNS4(e){
-if (document.layers||document.getElementById&&!document.all){
-if (e.which==2||e.which==3){
-alert(message);
-return false;
-}
-}
-}
 
-if (document.layers){
-document.captureEvents(Event.MOUSEDOWN);
-document.onmousedown=clickNS4;
-}
-else if (document.all&&!document.getElementById){
-document.onmousedown=clickIE4;
-}
-
-document.oncontextmenu=new Function("alert(message);return false")
-
-// --> 
-</script>
 <script language="JavaScript1.2">
 
 
@@ -108,9 +107,7 @@ color:white;
 <script type="text/javascript">
 
 /***********************************************
-* Disable select-text script- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for full source code
+* Disable select-text script- � Dynamic Drive (www.dynamicdrive.com)
 ***********************************************/
 
 //form tags to omit in NS6+:
@@ -136,75 +133,7 @@ document.onmouseup=reEnable
 
 </script>
 
-<script type="text/javascript">
-
-function getposOffset(overlay, offsettype){
-var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
-var parentEl=overlay.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-function overlay(curobj, subobjstr, opt_position){
-if (document.getElementById){
-var subobj=document.getElementById(subobjstr)
-subobj.style.display=(subobj.style.display!="block")? "block" : "none"
-var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
-var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
-subobj.style.left=xpos+"px"
-subobj.style.top=ypos+"px"
-return false
-}
-else
-return true
-}
-
-function overlayclose(subobj){
-document.getElementById(subobj).style.display="none"
-}
-
-</script><script language="JavaScript1.2">
-
-
-var cssdefinition='<style>\n.menuitems{\nborder:2.5px solid #000000;\n}\n\n.menuitems a{\ntext-decoration:none;\ncolor:white;\n}\n<\/style>'
-
-//No need to edit beyond here
-if (document.all||document.getElementById)
-document.write(cssdefinition)
-
-function over_effect(e,state, bgcolor){
-if (document.all)
-source4=event.srcElement
-else if (document.getElementById)
-source4=e.target
-if (source4.className=="menuitems"){
-source4.style.borderStyle=state
-source4.style.backgroundColor=bgcolor
-}
-else{
-while(source4.tagName!="DIV"){
-source4=document.getElementById? source4.parentNode : source4.parentElement
-if (source4.className=="menuitems"){
-source4.style.borderStyle=state
-source4.style.backgroundColor=bgcolor
-}
-}
-}
-}
-
-</script><style>
-.menuitems{
-border:2.5px solid #000000;
-}
-
-.menuitems a{
-text-decoration:none;
-color:white;
-}
-</style></head>
+</head>
 
 
 
@@ -212,24 +141,20 @@ color:white;
 
 
 
+<body leftmargin="0" topmargin="0" bgcolor="#ffffff" style="margin:0;padding:0;">
 
 
 
 
 
 
-
-<body leftmargin="0" topmargin="0" bgcolor="#ffffff">
-
-
-
-
-
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f9ac52" style="font-size: 10pt; font-family: arial">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="font-size: 10pt; font-family: arial">
 
 <tbody><tr bgcolor="#CC3232">
 <td align="center" colspan="2">
+
+
+
 
 
 <style type="text/css">.imcm ul,.imcm li,.imcm div,.imcm span,.imcm a{text-align:left;vertical-align:top;padding:0px;margin:0;list-style:none ox13ide none;border-style:none;background-image:none;clear:none;float:none;display:block;position:static;overflow:visible;line-height:normal;}.imcm span{display:inline;}.imcm .imclear,.imclear{clear:both;height:0px;visibility:hidden;line-height:0px;}.imcm .imsc{position:relative;}.imcm .imsubc{position:absolute;visibility:hidden;}.imcm li:after,.imcm li:before{content:".";visibility:hidden;display:block;height:0px;font-size:2px;}.imcm li{list-style:none;font-size:1px;float:left;}.imcm ul ul li{width:100%;float:none !important;}.imcm a{display:block;position:relative;}.imcm ul .imsc,.imcm ul .imsubc {z-index:10;}.imcm ul ul .imsc,.imcm ul ul .imsubc{z-index:20;}.imcm ul ul ul .imsc,.imcm ul ul .imsubc{z-index:30;}.imde ul li:hover .imsubc{visibility:visible;}.imde ul ul li:hover  .imsubc{visibility:visible;}.imde ul ul ul li:hover  .imsubc{visibility:visible;}.imde li:hover ul  .imsubc{visibility:hidden;}.imde li:hover ul ul .imsubc{visibility:hidden;}.imde li:hover ul ul ul  .imsubc{visibility:hidden;}.imcm .imea{display:block;position:relative;left:0px;font-size:1px;line-height:0px;height:0px;float:right;}.imcm .imea span{display:block;position:relative;font-size:1px;line-height:0px;}.dvs,.dvm{border-width:0px}/*\*//*/.imcm .imclear,.imclear{font-size:1px;}.imcm .imsc{display:inline-block;}.imcm li{display:inline-block;}/**/ </style><!--[if IE]><style type="text/css">.imcm .imclear,.imclear{display:none;}.imcm{zoom:1;} .imcm li{curosr:hand;} .imcm ul{zoom:1}.imcm a{zoom:1;}</style><![endif]--><!--[if gte IE 7]><style type="text/css">.imcm .imsubc{background-image:url(ie_css_fix);}</style><![endif]-->
@@ -239,30 +164,30 @@ color:white;
 <style id="ssimenus4" type="text/css">
 
 
-	#imenus4 .imeam span,#imenus4 .imeamj span {background-image:url(sample3_main_arrow.gif); width:7px; height:5px; left:0px; top:5px; background-repeat:no-repeat;background-position:top left;}
-	#imenus4 li:hover .imeam span,#imenus4 li a.iactive .imeamj span {background-image:url(sample3_main_arrow.gif); background-repeat:no-repeat;background-position:top left;}
+	#imenus4 .imeam span,#imenus4 .imeamj span {background-image:url(images/arrow1_down.gif); width:7px; height:5px; left:0px; top:5px; background-repeat:no-repeat;background-position:top left;}
+	#imenus4 li:hover .imeam span,#imenus4 li a.iactive .imeamj span {background-image:url(images/arrow1_down.gif); background-repeat:no-repeat;background-position:top left;}
 
-	#imenus4 ul .imeas span,#imenus4 ul .imeasj span {background-image:url(sample13_sub_expand_default.gif); width:7px; height:9px; left:0px; top:3px; background-repeat:no-repeat;background-position:top left;}
+	#imenus4 ul .imeas span,#imenus4 ul .imeasj span {background-image:url('images/arrow1_right.gif'); width:7px; height:9px; left:0px; top:3px; background-repeat:no-repeat;background-position:top left;}
 	#imenus4 ul li:hover .imeas span,#imenus4 ul li a.iactive .imeasj span {background-image:url(sample13_sub_expand_on.gif); background-repeat:no-repeat;background-position:top left;}
 
-	#imouter4 {background-color:#FF6F00; border-style:inset; border-width:1px; }
+	#imouter4 {background-color:#CC3232; border-style:inset; border-width:1px; }
 
 
-	#imenus4 li ul {background-color:#ffffff; border-style:outset; border-color:#FF3300; border-width:0px 1px 1px; padding:5px; margin:4px 0px 0px; }
+	#imenus4 li ul {background-color:#DEFDFD; border-style:outset; font-weight:bold; border-color:#FF3300; border-width:0px 1px 1px; padding:5px; margin:4px 0px 0px; }
 
 
-	#imenus4 li a {color:#ffffff; text-align:center; font-family:Arial; font-size:12px; font-weight:bold; text-decoration:none; border-style:outset; border-color:#999990; border-width:2px 1px 0px; padding:0px 4px 4px 0px; }
+	#imenus4 li a {color:#DEFDFD; text-align:center; font-family:Arial; font-size:12px; font-weight:bold; text-decoration:none; border-style:outset; border-color:#999990; border-width:2px 1px 0px; padding:0px 4px 4px 0px; }
 
-		#imenus4 li:hover>a {background-color:#FF3300; color:#; border-style:inset; border-color:#; }
-		#imenus4 li a.ihover, .imde imenus4 a:hover {background-color:#FF3300; color:#; border-style:inset; border-color:#; }
+		#imenus4 li:hover>a {background-color:#CC3232; color:#; border-style:inset; border-color:#; }
+	#imenus4 li a.ihover, .imde imenus4 a:hover {background-color:#CC3232; color:#; border-style:inset; border-color:#; }
 
 		#imenus4 li a.iactive {}
 
 
-	#imenus4 ul a {color:#000000; text-align:left; font-size:16px; font-weight:normal; text-decoration:none; border-style:none; border-color:#ff0000; border-width:1px; padding:2px 5px; }
+	#imenus4 ul a {color:#666666; text-align:left;font-family:Arial; font-size:14px; font-weight:bold; text-decoration:none; border-style:none; border-color:#ff0000; border-width:1px; padding:2px 5px; }
 
-		#imenus4 ul li:hover>a {background-color:#FF3300; color:#ffffcc; border-style:none; border-color:#333333; }
-		#imenus4 ul li a.ihover {background-color:#FF3300; color:#ffffcc; border-style:none; border-color:#333333; }
+		#imenus4 ul li:hover>a {background-color:#DEFDFD;font-weight:bold; text-decoration:underline; color:#666666; border-style:none; border-color:#333333; }
+		#imenus4 ul li a.ihover {background-color:#DEFDFD; font-weight:bold;text-decoration:underline; color:#666666; border-style:none; border-color:#333333; }
 
 		#imenus4 ul li a.iactive {text-decoration:underline; }
 
@@ -272,84 +197,100 @@ color:white;
 <li style="width:140px;" id="ulitem4z0"><a href="#" id="ulaitem4z0"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem4z0"></span></span>MY MENU</a>
 
 	<div class="imsc"><div class="imsubc" style="width:190px;top:-3px;left:2px;"><ul style="" id="x1ub4z0">
-	<li title="View your profile" id="ulitem4z0z0"><a href="selectprofile.jsp" id="ulaitem4z0z0"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem4z0z0"></span></span>My Status</a>
+	<li title="View your profile" id="ulitem4z0z0"><a href="mypage.jsp" id="ulaitem4z0z0"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem4z0z0"></span></span>My Status</a>
 
 		<div class="imsc"><div class="imsubc" style="width:150px;top:-18px;left:160px;"><ul style="" id="x1ub4z0z0">
-		<li title="View your profile that is shown when members click on your name" id="ulitem4z0z0z0"><a href="selectprofilebio.jsp" id="ulaitem4z0z0z0">View My Profile</a></li>
-		<li title="Edit your profile that is shown when members click on your name" id="ulitem4z0z0z1"><a href="selectprofilebioedit.jsp" id="ulaitem4z0z0z1">Edit My Profile</a></li>
-		<li title="View the statistics that make up your artist rating and ranking" id="ulitem4z0z0z2"><a href="selectprofile.jsp" id="ulaitem4z0z0z2">Show My Status</a></li>
+		<li title="View your profile that is shown when members click on your name" id="ulitem4z0z0z0"><a href="mypage.jsp" id="ulaitem4z0z0z0">View My Profile</a></li>
+			<li title="View the statistics that make up your artist rating and ranking" id="ulitem4z0z0z1"><a href="mystatus.jsp" id="ulaitem4z0z0z1">Show My Status</a></li>
 		</ul></div></div></li>
 
 
-	<li title="Read your private messages" id="ulitem4z0z1"><a href="selectprofilemessages.jsp" id="ulaitem4z0z1">My Private Messages</a></li>
+	<li title="Read your private messages" id="ulitem4z0z1"><a href="mymessages.jsp" id="ulaitem4z0z1">My Private Messages</a></li>
 	<li title="Post something new" id="ulitem4z0z2"><a href="#" id="ulaitem4z0z2"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem4z0z2"></span></span>My Latest Post</a>
 
 		<div class="imsc"><div class="imsubc" style="width:190px;top:-19px;left:160px;"><ul style="" id="x1ub4z0z2">
 		<li title="View your most recent post" id="ulitem4z0z2z0"><a href="displaystory.jsp" id="ulaitem4z0z2z0">View My Latest Post</a></li>
 		<li title="Edit your latest post" id="ulitem4z0z2z1"><a href="formeditstory.jsp" id="ulaitem4z0z2z1">Edit My Latest Post</a></li>
 		<li title="Promote your latest post" id="ulitem4z0z2z2"><a href="formUsePump.jsp" id="ulaitem4z0z2z2">Promote My Latest Post</a></li>
-		<li title="Respond to feedback on your writing" id="ulitem4z0z2z3"><a href="viewlatestworkcomments.jsp" id="ulaitem4z0z2z3">Respond To Reviews</a></li>		
-		<li title="Post a new work" id="ulitem4z0z2z4"><a href="formPost.jsp" id="ulaitem4z0z2z4">Post Something New</a></li>
+		<li title="Respond to feedback on your work" id="ulitem4z0z2z3"><a href="myfeedback.jsp" id="ulaitem4z0z2z3">Respond To Reviews</a></li>		
+		<li title="Post a new work" id="ulitem4z0z2z4"><a href="mywrite.jsp" id="ulaitem4z0z2z4">Post Something New</a></li>
 		</ul></div></div></li>
 
 
 	<li id="ulitem4z0z3"><a href="#" id="ulaitem4z0z3"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem4z0z3"></span></span>My Feedback</a>
 
 		<div class="imsc"><div class="imsubc" style="width:200px;top:-17px;left:160px;"><ul style="" id="x1ub4z0z3">
-		<li id="ulitem4z0z3z0"><a href="selectprofilecomment.jsp" id="ulaitem4z0z3z0">Reviews&nbsp;I Wrote</a></li>
-		<li title="Read the reviews you have received on your art" id="ulitem4z0z3z1"><a href="selectprofilecommentmywork.jsp" id="ulaitem4z0z3z1">Reviews I Received</a></li>
-		<li title="Read the replies to the reviews you wrote" id="ulitem4z0z3z2"><a href="selectprofilecommentreplies.jsp" id="ulaitem4z0z3z2">Replies I Received</a></li>
+		<li id="ulitem4z0z3z0"><a href="mycomments.jsp" id="ulaitem4z0z3z0">Reviews&nbsp;I Wrote</a></li>
+		<li title="Read the reviews you have received on your art" id="ulitem4z0z3z1"><a href="myfeedback.jsp" id="ulaitem4z0z3z1">Reviews I Received</a></li>
+		<li title="Read the replies to the reviews you wrote" id="ulitem4z0z3z2"><a href="myreplies.jsp" id="ulaitem4z0z3z2">Replies I Received</a></li>
 		</ul></div></div></li>
 
 
-	<li title="View, edit and promote your writing from your portfolio" id="ulitem4z0z4"><a href="selectprofileportfolio.jsp" id="ulaitem4z0z4">My Portfolio</a></li>
-	<li title="View your gallery" id="ulitem4z0z5"><a href="selectprofilegallery.jsp" id="ulaitem4z0z5">My Gallery</a></li>
-	<li title="Join a contest or view a listing of contests that you have entered" id="ulitem4z0z6"><a href="selectprofilecontests.jsp" id="ulaitem4z0z6">My Contests</a></li>
+	<li title="View, edit and promote your work from your portfolio" id="ulitem4z0z4"><a href="myportfolio.jsp" id="ulaitem4z0z4">My Portfolio</a></li>
+	<li title="View your gallery" id="ulitem4z0z5"><a href="mygallery.jsp" id="ulaitem4z0z5">My Gallery</a></li>
+	<li title="Join a contest or view a listing of contests that you have entered" id="ulitem4z0z6"><a href="mycontests.jsp" id="ulaitem4z0z6">My Contests</a></li>
 	<li title="View the listing of open contests and contest results" id="ulitem4z0z7"><a href="contestvotes.jsp" id="ulaitem4z0z7">My Voting Booths</a></li>	
-	<li title="Promote your work with certificates you can purchase with member dollars" id="ulitem4z0z8"><a href="selectprofilecerts.jsp" id="ulaitem4z0z8">My Certificates</a></li>
-	<li title="Save shortcuts to work to your favorite to view or buy at a later time" id="ulitem4z0z9"><a href="selectprofilebookcase.jsp" id="ulaitem4z0z9">My Favorites</a></li>	
-	<li title="Edit options such as your password, email, etc..." id="ulitem4z0z10"><a href="selectprofileoptions.jsp" id="ulaitem4z0z10">My Options</a></li>
+	<li title="Promote your work with certificates you can purchase with member dollars" id="ulitem4z0z8"><a href="mycertificates.jsp" id="ulaitem4z0z8">My Certificates</a></li>
+	<li title="Save shortcuts to work to your favorite to view or buy at a later time" id="ulitem4z0z9"><a href="mybookcase.jsp" id="ulaitem4z0z9">My Favorites</a></li>	
+	<li title="Edit options such as your password, email, etc..." id="ulitem4z0z10"><a href="myoptions.jsp" id="ulaitem4z0z10">My Options</a></li>
 	</ul></div></div></li>
+
 
 
 </ul><div class="imclear">&nbsp;</div></div></div>
 
+<script language="JavaScript" src="ocscript5.js" type="text/javascript"></script><style type="text/css">#imenus4 li.ishow li  .imsubc,#imenus4 li.ishow li li  .imsubc,#imenus4 li.ishow li li li  .imsubc,#imenus4 li.ishow li li li li  .imsubc{visibility:hidden;}#imenus4 li.ishow .imsubc,#imenus4 li li.ishow .imsubc,#imenus4 li li li.ishow .imsubc,#imenus4 li li li li.ishow .imsubc{visibility:visible;}#imenus4 li a img{vertical-align:bottom;display:inline;border-width:0px;}#imenus4 li ul{}.imcm{position:relative;}#imouter4 .imhelpbox{cursor:poitner;cursor:default;top:-40px;width:180px;font-family:Arial;font-size:10px;padding:2px;padding-left:5px;padding-right:5px;border-style:solid;border-width:1px;background-color:#ffffee;border-color:#666666;color:#333333;}</style><style id="extimenus4" type="text/css">#imenus4 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}</style>
 
 
 
+</td><td align="left">
 
  
+<table border="0" cellspacing="2" cellpadding="5" class="MenuStandardLink"><tbody><tr><td>
+
+
+</td><td>
+<a href="formregister.jsp">Join today</a> or <a href="formlogin.jsp">login</a></td>
+
+
+
+
+<td class="MenuStandardLink" align="center">
+
+</td></tr></tbody></table>
+
+
 </td>
- 
-<td colspan="2" align="center">
+ <td align="center" class="MenuStandardLink">
 
+<a href="displayNextUnread.jsp">12 Photos Today</a>     
+&nbsp;&nbsp;&nbsp;<a href="displayNextUnread.jsp">11 New Digital and Traditional Art</a>
 
+&nbsp;&nbsp;&nbsp;
 
-<font color="snow"><b>39</b></font>&nbsp;<a href="displayNextUnread.jsp"><font color="white"><b> Photos Today</b></font></a>     
-&nbsp;&nbsp;&nbsp;<font color="snow"><b>42</b></font>&nbsp;<a href="displayNextUnread.jsp"><font color="white"><b> New Digital and Traditional Art</b></font></a>
-
-&nbsp;&nbsp;&nbsp;<font color="snow"><b>1,182</b></font>&nbsp;<a href="listcomments.jsp"><font color="white"><b>New Reviews</b></font></a>
-
-</td>
-
-<form name="JumpTo1" action="" method="get" enctype="application/x-www-form-urlencoded"></form>
-<td colspan="1" align="right">
-
+<a href="listcomments.jsp">125 New Reviews</a>&nbsp;&nbsp;&nbsp;
 
  
 
  
+
+
+
+ 
+</td><td align="right" class="MenuStandardLink">
+
+ <a href="formcontactfanstory.jsp">Contact Us</a>&nbsp;&nbsp;
  
 
 </td>
 </tr>
-<tr bgcolor="white">
-<td valign="top"><a href="index.jsp"><img border="0" src="images/logoname.gif" height="80"></a></td>
-<td colspan="3" valign="bottom">
+<tr bgcolor="#DEFDFD">
+<td valign="top"><a href="index.jsp"><img border="0" src="images/logoname.png" height="80"></a></td>
+<td colspan="4" valign="bottom">
 
 
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="98%"><tbody><tr><td align="right">
 
 <!-- search -->
 
@@ -376,6 +317,8 @@ color:white;
 
 
 
+    
+
 
 </td></tr>
 <tr>
@@ -383,185 +326,408 @@ color:white;
 
 
 
-<style id="ssimenus0" type="text/css">
 
 
-	#imenus0 .imeam span,#imenus0 .imeamj span {background-image:url(none); width:7px; height:5px; left:0px; top:5px; background-repeat:no-repeat;background-position:top left;}
-	#imenus0 li:hover .imeam span,#imenus0 li a.iactive .imeamj span {background-image:url(none); background-repeat:no-repeat;background-position:top left;}
-
-	#imenus0 ul .imeas span,#imenus0 ul .imeasj span {background-image:url(none); width:5px; height:7px; left:0px; top:3px; background-repeat:no-repeat;background-position:top left;}
-	#imenus0 ul li:hover .imeas span,#imenus0 ul li a.iactive .imeasj span {background-image:url(none); background-repeat:no-repeat;background-position:top left;}
-
-	#imouter0 {border-style:none; border-color:#6a6a6a; border-width:1px; padding:0px; margin:10px 0px 0px; }
+<ul id="myMenu" class="nfMain  nfScripted">
 
 
-	#imenus0 li ul {background-color:#ffffff; border-style:solid; border-color:#999999; border-width:1px; padding:0px; margin:4px 0px 0px; }
-
-
-	#imenus0 li a {color:#666666; text-align:left; font-family:Arial; font-size:15px; font-weight:bold; text-decoration:none; border-style:solid; border-color:#cc3232; border-width:0px 0px 8px; padding:2px 0px 4px 2px; margin:0px 2px 0px 0px; }
-
-		#imenus0 li:hover>a {color:#000000; border-color:#ff0000; }
-		#imenus0 li a.ihover, .imde imenus0 a:hover {color:#000000; border-color:#ff0000; }
-		#imenus0 li a.iactive {}
-
-	#imenus0 ul a {color:#000000; text-align:left; font-size:11px; font-weight:normal; text-decoration:none; border-style:none; border-color:#000000; border-width:1px; padding:3px 2px 3px 3px; margin:0px; }
-
-		#imenus0 ul li:hover>a {background-color:#FF3300; color:#ffffff; }
-		#imenus0 ul li a.ihover {background-color:#FF3300; color:#ffffff; }
-
-		#imenus0 ul li a.iactive {}
-
-		#imenus0 .dvs {border-bottom-width:1px; border-style:solid; border-color:#c1c1c1; padding-bottom:2px; margin-bottom:2px; }
-
-</style>
-
-
-
-<!--  ****** Infinite Menus Structure & Links ***** -->
-<div class="imrcmain0 imgl" style="width:646px;z-index:999990;position:relative;"><div class="imcm imde" id="imouter0"><ul id="imenus0">
-<li style="width:80px;" id="ulitem0z0"><a href="#" id="ulaitem0z0"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z0"></span></span>Home</a>
-
-	<div class="imsc"><div class="imsubc" style="width:160px;top:0px;left:2px;"><ul style="" id="x1ub0z0">
-	<li title="Visit FanStory.com - share your writing." id="ulitem0z0z0"><a href="http://www.fanstory.com/index.jsp" id="ulaitem0z0z0">FanStory.com</a></li>
-	<li title="Return to the welcome page" id="ulitem0z0z1"><a href="index.jsp" id="ulaitem0z0z1">FanArtReview.com</a></li>
-	 <!--<li title="Visit FanMusicReview.com - share your music"><a href="http://www.fanmusicreview.com/index.jsp">FanMusicReview.com</a></li>  -->
-	</ul></div></div></li>
-
-
-<li style="width:80px;" id="ulitem0z1"><a href="#" id="ulaitem0z1"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z1"></span></span>View</a>
-
-	<div class="imsc"><div class="imsubc" style="width:160px;top:-3px;left:1px;"><ul style="" id="x1ub0z1">
-	<li title="View The Next Work Up For Review" id="ulitem0z1z0"><a href="displayNextUnread.jsp" id="ulaitem0z1z0">Up Next</a></li>
-	<li title="Recently released and promoted art" id="ulitem0z1z1"><a href="listart.jsp?sort=-1&amp;forsaleonly=0&amp;fsView=0&amp;recstatus=-1&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;nr=1&amp;category=-1&amp;photos=-1&amp;uc=1&amp;art=0&amp;dart=0" id="ulaitem0z1z1">New Artwork</a></li>
-	<li title="Recently released and promoted photography" id="ulitem0z1z2"><a href="listart.jsp?sort=-1&amp;forsaleonly=0&amp;fsView=0&amp;recstatus=-1&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;uc=2&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;nr=1&amp;category=-1&amp;photos=0&amp;art=-1&amp;dart=-1" id="ulaitem0z1z2">New Photography</a></li>
-	<li title="Recognized art that is available for purchase" id="ulitem0z1z3"><a href="forsale.jsp" id="ulaitem0z1z3">Art &amp; Photography For Sale</a></li>
+<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Home</div>
+		
+		<ul class="nfSubC nfSubS">
+			<li class="nfItem"><a class="nfLink" href="http://www.fanstory.com/index.jsp">FanStory.com</a></li>
+			<li class="nfItem"><a class="nfLink" href="index.jsp">FanArtReview.com</a></li>
+			
+				
+			
+		</ul>
+	
+	</li>
 	
 	
-	<li title="Recognized art that is available for purchase" id="ulitem0z1z4"><a href="listart.jsp?keywords=&amp;uc=3&amp;author=-1&amp;category=-1&amp;sort=-1&amp;photos=0&amp;art=0&amp;dart=0&amp;forsaleonly=0&amp;recstatus=1" id="ulaitem0z1z4">All Time Best</a></li>
-	<li title="Recognized art that is available for purchase" id="ulitem0z1z5"><a href="listart.jsp?keywords=&amp;uc=4&amp;author=-1&amp;category=-1&amp;sort=-1&amp;photos=0&amp;art=0&amp;dart=0&amp;forsaleonly=0&amp;recstatus=0" id="ulaitem0z1z5">Recognized</a></li>
-	<li title="Recognized art that is available for purchase" id="ulitem0z1z6"><a href="listart.jsp?keywords=&amp;uc=5&amp;author=-1&amp;category=-1&amp;sort=-1&amp;photos=0&amp;art=0&amp;dart=0&amp;forsaleonly=0&amp;recstatus=2" id="ulaitem0z1z6">Diamond Quality</a></li>
+	<li id="megaItemRef" class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">View</div>
+		
+		<ul class="nfSubC nfSubS custMegaSub">
+
+		
+			<div class="megaTopTitle"><b class="magaTitle">Up Next</b><br><ul>
+			
+			
+				
+			
+					
+			
+			<table border="0"><tbody><tr><td align="center"><font size="2"><i><b><font color="green" size="2">Bonus Reviewing</font></b></i></font><br><font size="2"><i>Nature artwork</i></font><br><font size="3"><b><a class="StandardLink" href="displaystory.jsp?id=223167&amp;&amp;jmp=1">California Wine Country</a></b></font><br><i> <a href="displaystory.jsp?&amp;jmp=1&amp;id=223167"><img src="farusr/221710/t-1195490-223167.jpg" hspace="0" vspace="0" height="190" width="190" border="0"></a><br>A colorful shot of Sonoma, CA  vineyard.</i><br><br><p></p><table><tbody><tr><td align="left"><font size="2">Pays 5 points and 27 member cents and offers a <b>25%</b> chance at winning a <font color="blue"><a href="/help/helppump.htm" onclick="NewWindow(this.href,'Charging','400','400','yes');return false">member cent pump</a></font> certificate.</font></td></tr></tbody></table></td><td valign="top" align="center"><b><a href="displaystory.jsp?id=223167&amp;&amp;jmp=1"><img src="images/btnReadMenu.png" border="0" alt="View This"></a><br><a href="readskipjustreleased.jsp?ig=223167"><font color="blue"><img src="images/btnSkipMenu.png" alt="Skip This" border="0"></font></a></b><br><a href="displayNextUnread.jsp"><font color="blue" size="2"><img src="images/btnMoreOptionsMenu.png" border="0" alt="More Options"></font></a><p>
+  
+  </p></td></tr></tbody></table>
+ 
+ 
+			
+			
+
+		
+
+		
+
+			
+			
+			
+			
+			</ul></div>
+
+		
+			
+			
+			
+			
+			<div class="megaContentLeft">
+				<b class="megaTitle">Up For Review</b>
+				<ul class="StandardLink">
+					<li><a href="/listart.jsp?sort=-1&amp;forsaleonly=0&amp;fsView=0&amp;recstatus=-1&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;nr=1&amp;category=-1&amp;photos=-1&amp;uc=1&amp;art=0&amp;dart=0" title="Show the full list of art up for review">Art</a></li>
+					<li><a href="listart.jsp?sort=-1&amp;forsaleonly=0&amp;fsView=0&amp;recstatus=-1&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;uc=2&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;nr=1&amp;category=-1&amp;photos=0&amp;art=-1&amp;dart=-1" title="Show full list of photography up for review">Photography</a></li>
+					
+				</ul>
+			</div>
+			
+		
+			<div class="megaContentMiddle">
+				<b class="megaTitle">Stand Out Posts</b>
+				<ul class="StandardLink">
+					<li><a href="listart.jsp?keywords=&amp;uc=4&amp;author=-1&amp;category=-1&amp;sort=-1&amp;photos=0&amp;art=0&amp;dart=0&amp;forsaleonly=0&amp;recstatus=0" title="Posts that have achieved Recognized status on FanArtReview.com">Recognized</a></li>
+					<li><a href="listart.jsp?keywords=&amp;uc=3&amp;author=-1&amp;category=-1&amp;sort=-1&amp;photos=0&amp;art=0&amp;dart=0&amp;forsaleonly=0&amp;recstatus=1" title="Posts that has achieved All Time Best status on FanArtReview.com">All Time Best</a></li>
+					
+					<li><a href="listart.jsp?keywords=&amp;uc=5&amp;author=-1&amp;category=-1&amp;sort=-1&amp;photos=0&amp;art=0&amp;dart=0&amp;forsaleonly=0&amp;recstatus=2" title="Posts that has earned a Diamond Award from the committee">Diamond Quality</a></li>
+					
+					
+				</ul>
+			</div>
+			
+			<div class="megaContentRight">
+				<b class="megaTitle">For Sale</b>
+				<ul class="StandardLink">
+					<li><a href="forsale.jsp" title="View all art and photography for sale.">Browse All</a></li>
+					<li><a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=6&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=-1&amp;art=0&amp;dart=-1" title="Traditional Art For Sale">Traditional Art</a></li>
+					<li><a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=7&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=0&amp;art=-1&amp;dart=-1" title="Photography For Sale">Photography</a></li>
+					<li><a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=8&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=-1&amp;art=-1&amp;dart=0" title="Digital Art For Sale">Digital Art</a></li>
+					
+				</ul>
+			</div>
+			
+			
+		
+				
+		</ul>
+
+	</li>
+
 	
-	<li id="ulitem0z1z7"><a href="#" id="ulaitem0z1z7"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z1z7"></span></span>Contest Winners</a>
+	
+	
+	<li id="megaItemRef" class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Post</div>
+		
+		<ul class="nfSubC nfSubS custMegaSub">
+		
+	
+		
+		
+			<div class="megaContentLeft">
+				<b class="megaTitle">Stand-Alone</b>
+				<ul class="StandardLink">
+					<li><a href="formUpload.jsp" title="Share artwork">Artwork</a></li>
+					<li><a href="formUpload.jsp?photo=1" title="Post a photograph">Photograph</a></li>
+					<li><a href="formUpload.jsp?photo=2" title="Share a sculpture">Sculpture</a></li>
 
-		<div class="imsc"><div class="imsubc" style="width:168px;top:-26px;left:98px;"><ul style="" id="x1ub0z1z7">
-		<li title="Traditional Artwork of the Month Winners" id="ulitem0z1z7z0"><a href="liststory.jsp?sel=7" id="ulaitem0z1z7z0">Traditional Artwork&nbsp;of the Month</a></li>
-		<li title="Photograph of the Month Winners" id="ulitem0z1z7z1"><a href="liststory.jsp?sel=10" id="ulaitem0z1z7z1">Photograph of the Month</a></li>
-		<li title="View the Digital Artwork of the Month Winners" id="ulitem0z1z7z2"><a href="liststory.jsp?sel=46" id="ulaitem0z1z7z2">Digital Artwork of the Month</a></li>
-		<li title="Recent Contest Winners and Open Voting Booths" id="ulitem0z1z7z3"><a href="contestvotes.jsp" id="ulaitem0z1z7z3">Other Contests</a></li>
-		</ul></div></div></li>
+				</ul>
+			</div>
+			
+			<div class="megaContentMiddle">
+				<b class="megaTitle">Book Collection</b>
+				<ul class="StandardLink">
+					<li><a href="formcreatenovel.jsp" title="Create a book and add your first chapter">Create A Book Collection</a></li>
+					<li><a href="addbookchapter.jsp" title="Add a chapter to the book you are already working on">Add Page To Book</a></li>
+					
+				
 
+				</ul>
+			</div>
+			
+			
+			<div class="megaContentRight">
+				<b class="megaTitle">&nbsp;</b>
+				<ul>
+					
+				</ul>
+			</div>
+			
+			<br><br><br><br>
+			
+			
+			 
+			 <table border="0" class="nfItem custMegaItem"><tbody><tr><td>
 
-	</ul></div></div></li>
-
-
-<li style="width:80px;" id="ulitem0z2"><a href="#" id="ulaitem0z2"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z2"></span></span>Review</a>
-
-	<div class="imsc"><div class="imsubc" style="width:160px;top:0px;left:0px;"><ul style="" id="x1ub0z2">
-	<li title="View the next work up for review" id="ulitem0z2z0"><a href="displayNextUnread.jsp" id="ulaitem0z2z0">Start Reviewing</a></li>
-	<li title="View recent reviews written" id="ulitem0z2z1"><a href="listcomments.jsp" id="ulaitem0z2z1">New Reviews</a></li>
-	</ul></div></div></li>
-
-
-<li style="width:80px;" id="ulitem0z3"><a href="#" id="ulaitem0z3"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z3"></span></span>Post</a>
-
-	<div class="imsc"><div class="imsubc" style="width:160px;top:-2px;left:0px;"><ul style="" id="x1ub0z3">
-	<li title="Post a stand-alone traditional or digital artwork" id="ulitem0z3z0"><a href="formUpload.jsp" id="ulaitem0z3z0">New Artwork</a></li>
-	<li title="Post a stand-alone photograph or a digital artwork created from a photograph" id="ulitem0z3z1"><a href="formUpload.jsp?photo=1" id="ulaitem0z3z1">New Photograph</a></li>
-	<li class="dvs" title="Post a sculpture of any type" id="ulitem0z3z2"><a href="formUpload.jsp?photo=2" id="ulaitem0z3z2">New Sculpture</a></li>
-	<li title="Create a book collection that can be used to organize your work" id="ulitem0z3z3"><a href="formcreatenovel.jsp" id="ulaitem0z3z3">Book Collection</a></li>
-	<li title="Post a book collection that you and others can add pages to." id="ulitem0z3z4"><a href="formcreatenovel.jsp?openbook=1" id="ulaitem0z3z4">Multi-Artist Book Collection</a></li>
-	</ul></div></div></li>
-
-
-<li style="width:80px;" id="ulitem0z4"><a href="#" id="ulaitem0z4"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z4"></span></span>Rankings</a>
-
-	<div class="imsc"><div class="imsubc" style="width:152px;top:-1px;left:0px;"><ul style="" id="x1ub0z4">
-	<li id="ulitem0z4z0"><a href="#" id="ulaitem0z4z0"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z4z0"></span></span>Traditional Photographers</a>
-
-		<div class="imsc"><div class="imsubc" style="width:150px;top:-24px;left:152px;"><ul style="" id="x1ub0z4z0">
-		<li title="Current Top Ranked Traditional Photographers For 2009" id="ulitem0z4z0z0"><a href="listtopauthors.jsp?year=2009&amp;pubtype=4" id="ulaitem0z4z0z0">This Year</a></li>
-		<li title="Official Top Ranked Listing of Traditional Photographers In 2008" id="ulitem0z4z0z1"><a href="2008TradPho.htm" id="ulaitem0z4z0z1">Last Year</a></li>
-		</ul></div></div></li>
-
-
-	<li id="ulitem0z4z1"><a href="#" id="ulaitem0z4z1"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z4z1"></span></span>Mixed Media Photographers</a>
-
-		<div class="imsc"><div class="imsubc" style="width:150px;top:-23px;left:151px;"><ul style="" id="x1ub0z4z1">
-		<li title="Current Top Ranked Mixed Media Photographers For 2008" id="ulitem0z4z1z0"><a href="listtopauthors.jsp?year=2009&amp;pubtype=5" id="ulaitem0z4z1z0">This Year</a></li>
-		<li title="The Official Top Ranked Mixed Media Photographers of 2008" id="ulitem0z4z1z1"><a href="2008Mixed.htm" id="ulaitem0z4z1z1">Last Year</a></li>
-		</ul></div></div></li>
+<div class="megaTopTitle"><b class="megaTitle">FanArtReview.com Membership</b><br><ul>
 
 
-	<li id="ulitem0z4z2"><a href="#" id="ulaitem0z4z2"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z4z2"></span></span>Traditional Artists</a>
-
-		<div class="imsc"><div class="imsubc" style="width:150px;top:-22px;left:109px;"><ul style="" id="x1ub0z4z2">
-		<li title="Current Top Ranked Traditional Artists For 2009" id="ulitem0z4z2z0"><a href="listtopauthors.jsp?year=2009&amp;pubtype=1" id="ulaitem0z4z2z0">This Year</a></li>
-		<li title="The Official Top Ranked Traditional Artists of 2008" id="ulitem0z4z2z1"><a href="2008Trad.htm" id="ulaitem0z4z2z1">Last Year</a></li>
-		</ul></div></div></li>
+<table border="0" width="100%">
+			
 
 
-	<li id="ulitem0z4z3"><a href="#" id="ulaitem0z4z3"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z4z3"></span></span>Digital Artists</a>
+		
+		<tbody><tr><td valign="top">
+			To participate you will need a free account. Create your account <a href="formregister.jsp">here</a> or <a href="formlogin.jsp">login</a>.
+			</td><td valign="top">
+		 <table width="175" height="65" align="center" cellpadding="0" cellspacing="0"><tbody><tr><td align="center"> <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="175" height="65" id="FlashButton" align="middle"> 	<param name="allowScriptAccess" value="sameDomain"> 	<param name="allowFullScreen" value="false"> <param name="movie" value="images/btnGetStrtd.swf">  <embed src="images/btnGetStrtd.swf" menu="false" quality="best" scale="noscale" salign="LT" width="100%" height="65" wmode="transparent" bgcolor="#ffffff" swliveconnect="TRUE" name="iTab" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"> </object> </td></tr></tbody></table> 
+		 
+		 
+		
+		
+	
+</td></tr></tbody></table>
 
-		<div class="imsc"><div class="imsubc" style="width:150px;top:-23px;left:98px;"><ul style="" id="x1ub0z4z3">
-		<li title="Top Ranked Digital Artists For 2009" id="ulitem0z4z3z0"><a href="listtopauthors.jsp?year=2009&amp;pubtype=3" id="ulaitem0z4z3z0">This Year</a></li>
-		<li title="The Official Top Ranked Digital Artists of 2008" id="ulitem0z4z3z1"><a href="2008Digital.htm" id="ulaitem0z4z3z1">Last Year</a></li>
-		</ul></div></div></li>
+			</ul></div>
+			</td></tr></tbody></table>
+			<p>
+			
+</p></ul>
+
+	</li>
+
+	
+	
+	
+		<li id="megaItemRef" class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Contests</div>
+		
+		<ul class="nfSubC nfSubS custMegaSub">
+		
+		
+			<div class="megaContentLeft">
+				<b class="megaTitle">Contests</b>
+				<ul class="StandardLink">
+					<li><a class="StandardLink" href="contests.jsp" title="Show the full listing of contests">Full Listing</a></li>
+						<li><a class="StandardLink" href="listcontests.jsp?view=5&amp;tf=0" title="Only show contests that site members created">Member Created Only</a></li>
+
+				</ul>
+			</div>
+
+			<div class="megaContentMiddle">
+				<b class="megaTitle">Voting Booths</b>
+				<ul class="StandardLink">
+					<li><a class="StandardLink" href="contestvotes.jsp" title="View all open voting booths">View Booths</a></li>
+				
+				</ul>
+			</div>
+
+			<div class="megaContentRight">
+				<b class="megaTitle">Start Your Own</b>
+				<ul class="StandardLink">
+					<li><a class="StandardLink" href="formcreatecontest.jsp" title="Create a contest and participate in it">Create A Contest</a></li>
+					
+				</ul>
+			</div>
+
+			<br><br><br>
+						<div class="megaTopTitle"><b class="megaTitle">Weekly Contest Prompt</b><br><ul><br><a href="contestdetails.jsp?id=1310"><font face="arial" color="blue" size="2">Telling A Story - Art</font></a><br><font face="arial" size="2">For this contest tell a story with your art. It can be a real story or fiction created by your imagination. See our <a href="contestdetails.jsp?id=1307">photography contest</a> to submit a photograph.</font><br><font face="arial" size="2"></font><p><font face="arial" size="2"><b>21 spots left</b></font></p></ul></div>
+
+	
+				
+		</ul>
+
+	</li>
+	
+	
+	
+
+	
+	<li id="megaItemRef" class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">For Sale</div>
+		
+		<ul class="nfSubC nfSubS custMegaSub">
+
+			<div class="megaTopTitle"><ul>
+			
+			
+				
+			<table border="0">
+			
+			
+				<tbody><tr>
+			<td valign="top">
+			<a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=6&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=-1&amp;art=0&amp;dart=-1">
+			<img src="farusr/57128/t-1551556-85469.jpg" height="120" width="120" border="0">
+			</a>
+			</td>
+			<td valign="top">
+			<a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=6&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=-1&amp;art=0&amp;dart=-1"><b style="color:#666666;">Traditional Art</b></a><br>
+			<font size="2" face="arial">A listing of the finest traditional art from artists worldwide. This includes paintings, sculptures and other forms of traditional art. </font>
+			</td></tr>
+			
+			
+				<tr>
+			<td valign="top">
+			<a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=7&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=0&amp;art=-1&amp;dart=-1">
+			<img src="farusr/115052/t-8745447-190302.jpg" height="120" width="120" border="0">
+			</a>
+			</td>
+			<td valign="top">
+			<a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=7&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=0&amp;art=-1&amp;dart=-1"><b style="color:#666666;">Photographs</b></a><br>
+			<font size="2" face="arial">Choose from two types of art. Traditional photographs are photos that are untouched or lightly touched with editing software. Mixed media photographs are art that is created from photographs. </font>
+			</td>
+			</tr>
+			
+			
+				<tr>
+			<td valign="top">
+			<a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=8&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=-1&amp;art=-1&amp;dart=0">
+			<img src="farusr/64979/t-450170-88399.jpg" height="120" width="120" border="0">
+			</a>
+			</td>
+			<td valign="top">
+			<a href="listart.jsp?sort=0&amp;forsaleonly=1&amp;fsView=0&amp;uc=8&amp;recstatus=0&amp;bookid=null&amp;usercontest=null&amp;fscontest=0&amp;edt=0&amp;id=0&amp;keywords=&amp;author=-1&amp;category=-1&amp;photos=-1&amp;art=-1&amp;dart=0"><b style="color:#666666;">Digital Art</b></a><br>
+			<font size="2" face="arial">View art created solely on a computer screen. See what can be created when the tools of the modern computer are put in the hands of an artist.   </font>
+			</td>
+			</tr>
+			</tbody></table>
+			</ul></div>
+
+		<br>
+		<div class="megaTopTitle">
+			<ul>
+			
+	 <img src="images/inf.png" border="0" align="left"><font size="2" face="arial">Shop with confidence. All art is sorted by the feedback that it received from reviewers.  Find it on our listing and soon it will be displayed in your home or office.</font>
+				</ul></div>
+	
+			
+			
+			
+		
+				
+		</ul>
+
+	</li>
+
+	
+	
+	
+	
+	<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Rankings</div>
+		
+			
+			
+		<ul class="nfSubC nfSubS">
+			<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Traditional Photographers</div>
+				
+				<ul class="nfSubC nfSubS">
+				
+				<li id="setPathRef" class="nfItem"><a class="nfLink" href="listtopauthors.jsp?year=2010&amp;pubtype=4" title="Current Top Ranked Traditional Photographers For 2010">This Year</a></li>
+				<li class="nfItem"><a class="nfLink" href="2009TradPho.htm" title="Official Top Ranked Listing of Traditional Photographers In 2009">Last Year</a></li>
+		
+	
+				</ul>
+			</li>
+			
+			
+			<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Mixed Media Photographers</div>
+				
+				<ul class="nfSubC nfSubS">
+				
+				<li id="setPathRef" class="nfItem"><a class="nfLink" href="listtopauthors.jsp?year=2010&amp;pubtype=5" title="Current Top Ranked Mixed Media Photographers For 2010">This Year</a></li>
+				<li class="nfItem"><a class="nfLink" href="2009Mixed.htm" title="The Official Top Ranked Mixed Media Photographers of 2009">Last Year</a></li>
+			
+					</ul>
+			</li>
+			
+			
+			<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Traditional Artists</div>
+				
+				<ul class="nfSubC nfSubS">
+				<li id="setPathRef" class="nfItem"><a class="nfLink" href="listtopauthors.jsp?year=2010&amp;pubtype=1" title="Current Top Ranked Traditional Artists For 2010">This Year</a></li>
+				<li class="nfItem"><a class="nfLink" href="2009Trad.htm" title="The Official Top Ranked Traditional Artists of 2009">Last Year</a></li>
+		
+				</ul>
+			</li>
+			
+			<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">Digital Artists</div>
+				
+				<ul class="nfSubC nfSubS">
+				
+					<li id="setPathRef" class="nfItem"><a class="nfLink" href="listtopauthors.jsp?year=2010&amp;pubtype=3" title="Top Ranked Digital Artists For 2010">This Year</a></li>
+					<li class="nfItem"><a class="nfLink" href="2009Digital.htm" title="The Official Top Ranked Digital Artists of 2009">Last Year</a></li>
+
+		
+				</ul>
+			</li>
+			
+			
+			<li class="nfItem"><a class="nfLink" href="listtopreviewers.jsp">Reviewers</a></li>
+
+		</ul>
+	
+	</li>
+
+	<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink" style="border-right-width:1px;">Profile</div>
+
+		<ul class="nfSubC nfSubS">
+			
+		
+		
+		
+			<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink">My Profile</div>
+				
+				<ul class="nfSubC nfSubS">
+					<li id="setPathRef" class="nfItem"><a class="nfLink" href="mypage.jsp" title="View your profile">View It</a></li>
+					<li class="nfItem"><a class="nfLink" href="myportfolio.jsp" title="Show your posted work">Portfolio</a></li>
+					<li class="nfItem"><a class="nfLink" href="mymessages.jsp" title="Read private messages">Private Messages</a></li>
+					<li class="nfItem"><a class="nfLink" href="myfeedback.jsp" title="Feedback for your art and photography">Feedback</a></li>
+					<li class="nfItem"><a class="nfLink" href="mycontests.jsp" title="Show contests you entered or can enter">Contests</a></li>
+					<li class="nfItem"><a class="nfLink" href="mystatus.jsp" title="Status as an artist or photographer">Status</a></li>
+					
+				</ul>
+			</li>
+			<div class="nfItem"><a class="nfLink" href="forumprofilesection.jsp?secName=Profiles&amp;id=17" title="What members are sharing in their profile">Profile Thoughts</a></div>
+			<div class="nfItem"><a class="nfLink" href="listmembers.jsp?letter=A" title="Locate a writer or site member">Find A Member</a></div>
+			<div class="nfItem"><a class="nfLink" href="forummain.jsp" title="Discuss writing and other popular topics with other writers">Forum</a></div>
+			
+		</ul>
+			
+	</li>
+	
+	
+	<li class="nfItem nfParent"><div tabindex="0" class="nfLink nfParentLink" style="border-right-width:1px;">Info</div>
+
+		<div class="nfSubC nfSubS">
+			<div class="nfItem"><a class="nfLink" href="formcontactfanstory.jsp" title="Ask questions or get help">Contact Us</a></div>
+	
+		<div class="nfItem"><a class="nfLink" href="about.jsp" title="About FanArtReview.com">About FanArtReview.com</a></div>
+	<div class="nfItem"><a class="nfLink" href="faq.jsp" title="Common questions asked and easy answers">Frequently Asked Questions</a></div>
+	<div class="nfItem"><a class="nfLink" href="index1.jsp" title="Information on our membership for writers">Premier Membership</a></div>
+	
+	<div class="nfItem"><a class="nfLink" href="testimonials.jsp" title="Letters we have received">Testimonials</a></div>
+	<div class="nfItem"><a class="nfLink" href="advertise.jsp" title="Information on advertising with us">Advertise With Us</a></div>
+	<div class="nfItem"><a class="nfLink" href="affiliate.jsp" title="Tell a friend about this site and earn rewards">Become An Affiliate</a></div>
+	<div class="nfItem"><a class="nfLink" href="buymemberdollars.jsp" title="Member dollars that can be used to purchase writing online or promote writing">Member Dollars</a></div>
+	<div class="nfItem"><a class="nfLink" href="gift.jsp" title="Buy someone special member dollars or membership for writers">FanArtReview.com Gift Cards</a></div>
+	<div class="nfItem"><a class="nfLink" href="IPhoneApps.jsp" title="FanStory.com Fresh Poetry iPhone, iPod and iPad App">Our iPhone Apps</a></div>
+	<div class="nfItem"><a class="nfLink" href="gadgets.jsp" title="Gadgets with daily poetry, photography, art and story feeds">Gadgets For Your Desktop</a></div>
+	<div class="nfItem"><a class="nfLink" href="howtopost.jsp" title="Software you can use to resize your images for public viewing.">Graphic Software</a></div>
+	<div class="nfItem"><a class="nfLink" href="sizing.jsp" title="Help resizing your images.">Help Resizing Images</a></div>
+	
+	<div class="nfItem"><a class="nfLink" href="rss.jsp" title="RSS Feeds from the site">Subscription Feeds</a></div>
+	<div class="nfItem"><a class="nfLink" href="images.htm" title="RSS Feeds from the site">Images For Your Website</a></div>
+	
+	<div class="nfItem"><a class="nfLink" href="upgradereader.jsp" title="Lava Flow Magazine for artists">Lava Flow Magazine</a></div>	
+		
+	
+	
+		
+		</div>
+			
+	</li>
+	
+	
+<div style="cursor:pointer;-webkit-border-radius:3px;-moz-border-radius:3px;opacity:.7;;;visibility:hidden;padding:2px 4px;color:#111;background-color:#ddd;border:solid 1px #999;font-family:arial;font-size:11px;position:absolute;top:-28px;left:0px;margin:0px;">Purchase a NodeFire License...</div></ul>
 
 
-	<li title="Show the most active reviewers" id="ulitem0z4z4"><a href="listtopreviewers.jsp" id="ulaitem0z4z4">Reviewers</a></li>
-	</ul></div></div></li>
+<!--***************** End menu structure. *********************-->
 
 
-<li style="width:80px;" id="ulitem0z5"><a href="#" id="ulaitem0z5"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z5"></span></span>Contests</a>
-
-	<div class="imsc"><div class="imsubc" style="width:160px;top:0px;left:1px;"><ul style="" id="x1ub0z5">
-	<li title="All contests including site sponsored contests with cash prizes" id="ulitem0z5z0"><a href="contests.jsp" id="ulaitem0z5z0">All Contests</a></li>
-	<li title="Contests created by site members" id="ulitem0z5z1"><a href="listcontests.jsp" id="ulaitem0z5z1">Member Contests</a></li>
-	<li class="dvs" title="View and vote for the voting booth nominees. See the results." id="ulitem0z5z2"><a href="contestvotes.jsp" id="ulaitem0z5z2">Voting Booths</a></li>
-	<li title="Create your own contest" id="ulitem0z5z3"><a href="formcreatecontest.jsp" id="ulaitem0z5z3">Create A Contest</a></li>
-	</ul></div></div></li>
-
-
-<li style="width:93px;" id="ulitem0z6"><a href="#" id="ulaitem0z6"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z6"></span></span>Community</a>
-
-	<div class="imsc"><div class="imsubc" style="width:150px;top:0px;left:0px;"><ul style="" id="x1ub0z6">
-	<li title="Find a site member" id="ulitem0z6z0"><a href="listmembers.jsp?letter=A" id="ulaitem0z6z0">Find A Member</a></li>
-	<li title="Visit The Forums" id="ulitem0z6z1"><a href="forummain.jsp" id="ulaitem0z6z1">Forum</a></li>
-	</ul></div></div></li>
-
-
-<li style="width:73px;" id="ulitem0z7"><a href="#" id="ulaitem0z7"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z7"></span></span>Info</a>
-
-	<div class="imsc"><div class="imsubc" style="width:160px;top:0px;left:0px;"><ul style="" id="x1ub0z7">
-	<li title="About FanArtReview.com" id="ulitem0z7z0"><a href="about.jsp" id="ulaitem0z7z0">About FanArtReview.com</a></li>
-	<li title="About FanStory.com" id="ulitem0z7z1"><a href="http://www.fanstory.com/index1.jsp" id="ulaitem0z7z1">About FanStory.com</a></li>
-	<li title="Ask questions or get help" id="ulitem0z7z2"><a href="formcontactfanstory.jsp" id="ulaitem0z7z2">Contact Us</a></li>
-	<li title="Common questions asked and easy answers" id="ulitem0z7z3"><a href="faq.jsp" id="ulaitem0z7z3">Frequently Asked Questions</a></li>
-	<li title="Free software that you can use to edit your images" id="ulitem0z7z4"><a href="howtopost.jsp" id="ulaitem0z7z4">Graphic Software</a></li>
-	<li title="Instructions on resizing your image for the best online viewing" id="ulitem0z7z5"><a href="sizing.jsp" id="ulaitem0z7z5">Help Resizing Images</a></li>
-	<li title="Information on our Premier Membership for writers" id="ulitem0z7z6"><a href="index1.jsp" id="ulaitem0z7z6">Premier Membership</a></li>
-	<li title="Letters we have received" id="ulitem0z7z7"><a href="testimonials.jsp" id="ulaitem0z7z7">Testimonials</a></li>
-	<li title="Information on advertising with us" id="ulitem0z7z8"><a href="http://www.fanstory.com/advertise.jsp" id="ulaitem0z7z8">Advertise With Us</a></li>
-	<li title="Tell a friend about this site and earn rewards" id="ulitem0z7z9"><a href="affiliate.jsp" id="ulaitem0z7z9">Become An Affiliate</a></li>
-	<li title="Member dollars that can be used to purchase writing online or promote writing" id="ulitem0z7z10"><a href="buymemberdollars.jsp" id="ulaitem0z7z10">Member Dollars</a></li>
-	<li title="Buy someone special member dollars or Premier Membership" id="ulitem0z7z11"><a href="gift.jsp" id="ulaitem0z7z11">FanArtReview.com Gift Cards</a></li>
-	<li title="Gadgets with daily poetry, photography, art and story feeds" id="ulitem0z7z12"><a href="gadgets.jsp" id="ulaitem0z7z12">Gadgets For Your Desktop</a></li>
-	<li title="RSS Feeds from the site" id="ulitem0z7z13"><a href="rss.jsp" id="ulaitem0z7z13">RSS Feeds</a></li>
-	<li title="Lava Flow Magazine For Artists" id="ulitem0z7z14"><a href="newsletter.jsp" id="ulaitem0z7z14">Lava Flow Magazine</a></li>
-	<li title="Images you can place on your website." id="ulitem0z7z15"><a href="images.htm" id="ulaitem0z7z15">Images For Your Website</a></li>
-	<li title="Our online store for artists" id="ulitem0z7z16"><a href="http://astore.amazon.com/roleplayfantasy/102-4604042-4840158?%5Fencoding=UTF8&amp;node=4" id="ulaitem0z7z16">Products For Artists</a></li>
-	</ul></div></div></li>
-
-
-</ul><div class="imclear">&nbsp;</div></div></div>
-
-
-
-<!--|**END IMENUS**|-->
-
-
-
-<script language="JavaScript" src="ocscript4.js" type="text/javascript"></script><style type="text/css">#imenus4 li.ishow li  .imsubc,#imenus4 li.ishow li li  .imsubc,#imenus4 li.ishow li li li  .imsubc,#imenus4 li.ishow li li li li  .imsubc{visibility:hidden;}#imenus4 li.ishow .imsubc,#imenus4 li li.ishow .imsubc,#imenus4 li li li.ishow .imsubc,#imenus4 li li li li.ishow .imsubc{visibility:visible;}#imenus4 li a img{vertical-align:bottom;display:inline;border-width:0px;}#imenus4 li ul{}.imcm{position:relative;}#imouter4 .imhelpbox{cursor:poitner;cursor:default;top:-40px;width:180px;font-family:Arial;font-size:10px;padding:2px;padding-left:5px;padding-right:5px;border-style:solid;border-width:1px;background-color:#ffffee;border-color:#666666;color:#333333;}</style><style id="extimenus4" type="text/css">#imenus4 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}</style><style type="text/css">#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc{visibility:visible;}#imenus0 li a img{vertical-align:bottom;display:inline;border-width:0px;}#imenus0 li ul{}.imcm{position:relative;}#imouter0 .imhelpbox{cursor:poitner;cursor:default;top:-40px;width:180px;font-family:Arial;font-size:10px;padding:2px;padding-left:5px;padding-right:5px;border-style:solid;border-width:1px;background-color:#ffffee;border-color:#666666;color:#333333;undefined}</style><style id="extimenus0" type="text/css">#imenus0 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}</style>
 
 </td></tr></tbody></table>
 
@@ -570,88 +736,111 @@ color:white;
 
 
 
+
+<!--******* Custom API Script - Place custom scripts in the body, after the structure, or attach to an onload type event. ******
+            (This script example enhances the pure CSS menu with scripted API control. *****-->
+
+
+	<script type="text/javascript">
+
+
+		/* ~~~~~~~ Create a new menu widget object with the API. ~~~~~~~~~~~~~*/
+
+		//Menu configuration properties (hide and show timers in Milliseconds)
+		var config = {showTimerMS:250,hideTimerMS:250};
+
+		//Pass the menu object construcor an ID or object representing the root node of your structure
+		var myMenu = new NF.widget.menu("myMenu", config);
+	
+
+
+		/*~~~~~~~~ Sub Show Animation w/Replicator ~~~~~~~~~~~~~*/
+
+		//Create an animation clip for showing the menu.  Animate the CSS clip style from the center out.
+		var clip = new NF.anim.clip({clip:{start:{value:'50% 50% 50% 50%', refNode:"self"}, end:{value:'0% 100% 100% 0%', refNode:"self"}}}, {frames:6,reset:true,hook:"NFplayOnSubShow"});
+
+		//Create a new replicator where the master object is the clip. (Applies the clip effect to all sub menus)
+		var subAnim_Show_Replicator = new NF.replicator("transition", {master:clip,widgetClass:"nfSubC",widgetLevel:'level>=1'});
+		myMenu.addReplicator(subAnim_Show_Replicator);
+
+
+
+		/*~~~~~~~~ Sub Hide Animation w/Replicator ~~~~~~~~~~~~~*/
+
+		//Create an animation clip for hiding the menu.  Animate the CSS clip style from the edges to the center.
+		clip = new NF.anim.clip({clip:{start:{value:'0% 100% 100% 0%', refNode:"self"}, end:{value:'50% 50% 50% 50%', refNode:"self"}}}, {frames:6,reset:true,hook:"NFplayOnSubHide"});
+
+		//Create a new replicator where the master object is the clip. (Applies the clip effect to all sub menus)
+		var subAnim_Hide_Replicator = new NF.replicator("transition", {master:clip,widgetClass:"nfSubC",widgetLevel:'level>=1'});
+		myMenu.addReplicator(subAnim_Hide_Replicator);
+
+	
+		NF.widget.ulc = ['gcqwuqu}/erq','gcqesvuiwkh{/erq'];
+
+
+		/* ~~~~~~~ Activate the menu object. (Converts the pure CSS menu to a script enhanced widget) ~~~~~~~~~~~~~*/
+
+		//Activate the menu
+		myMenu.activate();
+
+	
+	</script>
+
+
+
+<!--***************** End Custom Script *********************-->
+
+
+
 	 
 </td><td align="right" valign="top" bgcolor="white">
 
 
-
-<a href="formcontactfanstory.jsp"><font color="black">Contact Us</font></a>
-
-
-
-
-    | <a href="index1.jsp"><font color="black">Membership</font></a>
-  
-&nbsp;
 </td>
 </tr>
 <tr bgcolor="#ffffff"><td colspan="5" height2=""></td><td></td></tr>
 
-    
-
-
 
 </tbody></table>
 
-<div id="subcontent2" style="position:absolute; z-index:999998; display:none; border: 2px solid black; background-color: lightyellow; width: 600px; height: 400px; padding: 3px">
 
 
+<script language="JavaScript">
+<!--
 
-<table border="0" width="100%"><tbody><tr><td><font size="4"><b></b></font></td><td align="right"><a href="#" onclick="overlayclose('subcontent2'); return false"><img src="images/btnCls.gif" border="0"></a></td></tr></tbody></table>
+var message="FanArtReview.com contains copyrighted work. To purchase a work (in electronic or other format) please contact the artist. Or, when viewing the work, locate the for sale button (if available). Artists have the option to sell their work commission free.";
 
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
 
-<hr>
-<table><tbody><tr><td>
-</td><td width="200" valign="top">
-<a href="displaystory.jsp?id=0"><img width="200" src="border=0"></a>
-</td>
-<td width="400" valign="top">
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
 
-<font face="arial" size="2">
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
 
-<b>Artist Tools</b>
-<br> 
-<font size="2"><a href="displaystory.jsp?id=0"><font color="blue">View</font></a> | <a href="formeditstory.jsp?id=0"><font color="blue">Edit</font></a> | <a href="/formUsePump.jsp?id=0"><font color="blue">Promote</font></a> | <a href="listbookcomments.jsp?storyid=0"><font color="blue">Read Reviews</font></a>
+document.oncontextmenu=new Function("alert(message);return false")
 
-
-
-</font>
-
-
-
-
-
-
-
-
-<p>This is a workshop release. 
-
-
-
-
-
-<font size="2">
-
+// --> 
+</script>
 
 
-
-
-<a href="formUsePump.jsp?storyid=0"><font color="blue" size="2">Click here</font></a> to 
-
-
-promote it.
-
-
-
-
-</font></p><p><font size="2">
-
-
-
-</font>
-
-</p></font></td></tr></tbody></table>
-</div>
 
 
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
@@ -663,50 +852,35 @@ promote it.
  
 <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td width="100" valign="top" bgcolor="#ffffff">
 
-
 <br>
 
 
-<div class="box2">
-
-<h4>Status</h4>
-				      
+<div class="box2t"><h4 style="background-color: #ffffff">Status</h4>
+	<center>			      
 					
 
  <!-- login -->
 
-<center>
-<font size="2" face="arial">
-New Here?<br>
-<a href="formregister.jsp?ft=1"><img src="images/btnJoinIn.gif" width="68" height="16" border="0" alt="Sign Up"></a><br><font size="1">Fast! Three Questions.</font></font>
 
-<font size="2"></font><p><font size="2">Already a member?</font><br><a href="formlogin.jsp"><img src="images/btnLogin.gif" width="68" height="16" border="0" alt="Login"></a>
-</p></center>
+<font size="2">
+New Here?</font><br>
+<a href="formregister.jsp?ft=1"><img src="images/btnJoinIn.gif" border="0" alt="Sign Up"></a><br><font size="1">Fast! Three Questions.</font>
+
+<br><br><font size="2">Already a member?</font><br><a href="formlogin.jsp"><img src="images/btnLogin.gif" border="0" alt="Login"></a>
+
+</center>
 
 
 
 </div>
-
-<br><br>
-
+<p>
 
 
-
-
-
-
-
-
-
-
-
-<br><br>
 
 
  <!-- For Sale -->
 
-<div class="box2"><h4>For Sale</h4>
-
+</p><div class="box2t"><h4 style="background-color: #ffffff">For Sale</h4>
 
 
 <center>
@@ -719,10 +893,10 @@ New Here?<br>
 
 
 
-<b><a href="displaystory.jsp?id=155263">Memories</a></b>
+<b><a href="displaystory.jsp?id=221482">Banana Blossom</a></b>
 
 
-  <center><br><a href="displaystory.jsp?id=155263"><img src="farusr/110939/t-3247706-155263.jpg" hspace="0" vspace="0" width="110" border="0"></a></center>
+  <center><br><a href="displaystory.jsp?id=221482"><img src="farusr/110939/t-7654714-221482.jpg" hspace="0" vspace="0" width="110" border="0"></a></center>
   
  
 <img src="images/alltmbst.gif" border="0" hspace="0" vspace="0">
@@ -730,7 +904,7 @@ New Here?<br>
  <br><br>
  <font size="2">
 
-Price Open.<br> <a href="formcontactartist.jsp?id=155263"> <font color="blue" size="2">Make an Offer</font></a>
+Price Open.<br> <a href="formcontactartist.jsp?id=221482"> <font color="blue" size="2">Make an Offer</font></a>
 
 </font>
  
@@ -746,19 +920,18 @@ Price Open.<br> <a href="formcontactartist.jsp?id=155263"> <font color="blue" si
 
 <p>
 <!-- contests -->
- 
-</p><div class="box2">
+</p><div class="box2t">
 
 
-<h4>Contests</h4>
-<center>
-<b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=497"><font color="blue">New Arrival - Nature In Art</font></a></font></b><font size="2"><br><font size="1">Deadline: Today!<p><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=550"><font color="blue">My Pet Photography</font></a></font></b><font size="2"><br><font size="1">Deadline: In 6 Days</font></font></p><p><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=505"><font color="blue">New Arrival - Little But BIG</font></a></font></b><font size="2"><br><font size="1">Deadline: Jun. 30th</font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=577"><font color="blue">Landscape Photography</font></a></font></b><font size="2"><br><font size="1">Deadline: Jul. 2nd</font></font></font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=599"><font color="blue">Cool Cats</font></a></font></b><font size="2"><br><font size="1">Deadline: Jul. 10th</font></font></font></font></font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=609"><font color="blue">Still Life Art - Flowers</font></a></font></b><font size="2"><br><font size="1">Deadline: Jul. 17th</font></font></font></font></font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=565"><font color="blue">Family Photography</font></a></font></b><font size="2"><br><font size="1">Deadline: Jul. 25th</font></font></font></font></font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=608"><font color="blue">Flowing Water</font></a></font></b><font size="2"><br><font size="1">Deadline: Aug. 10th</font></font></font></font></font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1">
-</font></font></font></font></font></font></p></font></font></center><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1">
+<h4 style="background-color: #ffffff">Contests</h4>
+<table width="150" align="center"><tbody><tr><td>
+<b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=1144"><font color="blue">Painted Red</font></a></font></b><font size="2"><br><font size="1">Deadline: Today!<p><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=1129"><font color="blue">Cats and Dogs</font></a></font></b><font size="2"><br><font size="1">Deadline: Nov. 30th</font></font></p><p><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=1168"><font color="blue">Not Natural Anymore</font></a></font></b><font size="2"><br><font size="1">Deadline: Dec. 3rd</font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=1182"><font color="blue">Photogenic</font></a></font></b><font size="2"><br><font size="1">Deadline: Dec. 8th</font></font></font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1"><b><font size="2"><a href="http://www.fanartreview.com/contestdetails.jsp?id=1181"><font color="blue">Seascape Photography</font></a></font></b><font size="2"><br><font size="1">Deadline: Dec. 17th</font></font></font></font></font></font></font></font></p><p><font size="2"><font size="1"><font size="2"><font size="1"><font size="2"><font size="1">
+</font></font></font></font></font></font></p></font></font></td></tr></tbody></table>
 
 <br>
 <font size="2"><center><a href="contests.jsp"><img src="images/btnMrCnts.gif" border="0"></a></center></font>
 <br>
-</font></font></font></font></font></font></div><font size="1"><font size="2"><font size="1"><font size="2"><font size="1">
+</div>
 <!-- contests -->
 
 
@@ -767,9 +940,9 @@ Price Open.<br> <a href="formcontactartist.jsp?id=155263"> <font color="blue" si
 <p>
 <!-- rankings -->
 
-</p><div class="box2">
+</p><div class="box2t">
 
-<h4>Rankings</h4>
+<h4 style="background-color: #ffffff">Rankings</h4>
 <center>
 
 
@@ -821,10 +994,10 @@ Price Open.<br> <a href="formcontactartist.jsp?id=155263"> <font color="blue" si
 
 
  <!-- post -->
+ 
+</p><div class="box2t">
 
-</p><div class="box2">
-
-<h4>Post</h4>
+<h4 style="background-color: #ffffff">Post</h4>
 
 <center>
 <a href="formUpload.jsp" class="link"><font color="blue">Post New Art</font></a><br>
@@ -842,14 +1015,14 @@ Price Open.<br> <a href="formcontactartist.jsp?id=155263"> <font color="blue" si
 					
   
 
-</font></font></font></font></font></td>
+</td>
 <td width="5"><br><img src="/images/spacer.gif" width="10"></td>
 
 <td valign="top" bgcolor="#ffffff">
  
 
-<p></p><center>
-<table width="80%">
+<br>
+<table width="80%" align="center">
 <tbody><tr>
 <td height="15"></td>
 </tr>
@@ -941,7 +1114,7 @@ The  sites covered by this Privacy Notice sometimes may offer content (e.g., con
 </p>
    <p>
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
 </p><p>     
     
 
@@ -981,14 +1154,9 @@ If you have any questions or concerns about the  online policy for this site or 
 </td>
 </tr>
 </tbody></table>
-</center>
 
 
 
-<table border="0" bgcolor="white" cellpadding="2" cellspacing="2" width="80%" align="center" style="border: 2px solid #000000 !important;"><tbody><tr><td><font face="arial" size="2">
-<font color="black">
-Submit your art or photography to receive feedback on your art. Sell your artwork on our art and photography site and enter the monthly contests. Guaranteed reviews for everything you post and you will be ranked. <a href="index1.jsp">Information.</a></font><a href="index1.jsp">
-</a></font></td></tr></tbody></table><br><img src="images/spacer.gif" height="100"><br>
 
 </td>
 <td width="5"><br><img src="images/spacer.gif" width="5"></td>
@@ -997,8 +1165,8 @@ Submit your art or photography to receive feedback on your art. Sell your artwor
 <img src="images/spacer.gif" height="25"><br><img src="images/spacer.gif" height="25"><br>
 <center>
 <table bgcolor="white" align="center"><tbody><tr><td>
-<a href="formcontactfanstory.jsp">Contact Us</a> <font color="#c1c1c1">|</font> <!--Start Kampyle Feedback Form Button--><a href="http://www.kampyle.com/" id="kampylink" onclick="javascript:window.open('http://www.kampyle.com/feedback_form/ff-feedback-form.php?&amp;site_code=1696052&amp;form_id=999&amp;lang=en&amp;url='+encodeURIComponent(window.location.href), 'kampyle_ff','left='+((window.screenX||window.screenLeft)+10)+',top='+((window.screenY||window.screenTop)+10)+',height=502px,width=440px,resizable=false');return false;">Give Feedback</a> <!--End Kampyle Feedback Form Button--><br>
-<font size="2" color="#c1c1c1"><a href="http://www.fanartreview.com/displayNextUnread.jsp">Start Reviewing</a>  |  <a href="http://www.fanartreview.com/forsale.jsp">Art For Sale</a> | <a href="http://www.fanartreview.com/formPictureUpload.jsp">Post Artwork</a> | <a href="http://www.fanartreview.com/formUpload.jsp?photo=1">Post Photography</a> | <a href="http://www.fanartreview.com/selectprofile.jsp">Profile</a> | <a href="http://www.fanartreview.com/contests.jsp">Contests</a> |  <a href="http://www.fanstory.com/advertise.jsp">Advertise With Us</a>  </font>  
+
+<font size="2" color="#c1c1c1"><a href="formcontactfanstory.jsp">Contact Us</a> | <a href="http://www.fanartreview.com/displayNextUnread.jsp">Start Reviewing</a>  |  <a href="http://www.fanartreview.com/forsale.jsp">Art For Sale</a> | <a href="http://www.fanartreview.com/formUpload.jsp">Post Artwork</a> | <a href="http://www.fanartreview.com/formUpload.jsp?photo=1">Post Photography</a> | <a href="http://www.fanartreview.com/contests.jsp">Contests</a> |  <a href="advertise.jsp">Advertise With Us</a>  </font>  
 
 <br><br>
 <table border="0" width="100%" bgcolor="white" align="center">  
@@ -1006,7 +1174,7 @@ Submit your art or photography to receive feedback on your art. Sell your artwor
   
 </td>  
 <td align="center">  
-<font size="1" face="Arial" "=""><b>© 2009 FanStory.com, Inc. </b> All Rights Reserved.   
+<font size="1" face="Arial" "=""><b>© 2010 FanStory.com, Inc. </b> All Rights Reserved.   
 <a href="agreement.htm">Terms</a> under which this service is provided to you.  <a href="privacy.jsp">Privacy Statement</a>
 </font><br>  
 </td>  
@@ -1040,17 +1208,10 @@ urchinTracker();
 function doJump(menu) { window.location = menu.options[menu.selectedIndex].value; } 
 </script>
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-e5AIDZbggS97U";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-e5AIDZbggS97U" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-e5AIDZbggS97U.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
 
 
 
 
 
 
-</td></tr></tbody></table></body></html>
+</td></tr></tbody></table><div id="fancy_overlay"></div><div id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg" id="fancy_bg_n"></div><div class="fancy_bg" id="fancy_bg_ne"></div><div class="fancy_bg" id="fancy_bg_e"></div><div class="fancy_bg" id="fancy_bg_se"></div><div class="fancy_bg" id="fancy_bg_s"></div><div class="fancy_bg" id="fancy_bg_sw"></div><div class="fancy_bg" id="fancy_bg_w"></div><div class="fancy_bg" id="fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div></div></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></body></html>
