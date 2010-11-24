@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icetemplates.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114121818id_/http%3A//www.icetemplates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icetemplates.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124181400id_/http%3A//icetemplates.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | IceTemplates.com
+# Privacy Policy - IceTemplates website templates
 
-### Privacy Policy
+Privacy Policy
 
 **Cookies**
 
@@ -35,4 +35,4 @@ We may at any time, without notice to you and in its sole discretion, amend this
 
 **Questions or Suggestions**
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please [contact us](https://web.archive.org/web/20100114121818id_/http%3A//www.icetemplates.com/contacts.php).
+If you have questions or suggestions about this privacy policy, or your own personal information, please [contact us](https://web.archive.org/web/20101124181400id_/http%3A//icetemplates.com/contacts.php).
