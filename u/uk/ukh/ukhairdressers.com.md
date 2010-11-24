@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukhairdressers.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172229id_/http%3A//www.ukhairdressers.com/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukhairdressers.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124140327id_/http%3A//www.ukhairdressers.com/store/privacy.asp) for the most accurate reproduction.*
 
 # UKhairdressers Online Store - Privacy Statement
 
@@ -43,7 +43,7 @@ Merseyside
 United Kingdom  
 PR8 2PZ  
 Tel. 01704 577111   
-Fax.01704 577563   
+Fax.01704 577506   
 Co. Reg. No. 3919803  
 **E-mail Address:** [admin@ukhairdressers.com](mailto:admin@ukhairdressers.com)   
 Registered Company No. 3919807   
