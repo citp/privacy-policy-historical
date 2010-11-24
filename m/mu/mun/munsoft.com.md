@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the munsoft.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231223239id_/http%3A//www.munsoft.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munsoft.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002350id_/http%3A//www.munsoft.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Recover Deleted Files. Data Recovery Software. Photo Recovery. Mail Recovery: Privacy Policy
+# MunSoft: Privacy Policy
 
 This privacy policy applies to the use of _MunSoft’s web site_.
 
