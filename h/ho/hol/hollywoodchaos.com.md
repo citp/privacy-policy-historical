@@ -1,0 +1,44 @@
+> *The following text is extracted and transformed from the hollywoodchaos.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124194029id_/http%3A//hollywoodchaos.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy - HollywoodChaos.com
+
+We respect your privacy! Any and all information you provide will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to us will be held with the utmost care, and will not be used in ways that you have not consented to. If you have any questions, please let us know. At www.hollywoodchaos.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hollywoodchaos.com and how it is used.
+
+**Resale or disclosure of information to third parties:**
+
+We do not sell, rent, loan, trade, or lease any personal information collected at our site, including membership lists or email lists.
+
+**Information collected on the website:**
+
+We do not collect information about it's users. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
+
+**Log Files:**
+
+Like many other Web sites, www.hollywoodchaos.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+**Cookies and Web Beacons:**
+
+We do not use cookies to gain information from you. However, we may use cookies to manage affiliate sales. The cookies only assist your use of the site.
+
+**DoubleClick DART Cookie:**
+
+\- Google, as a third party vendor, uses cookies to serve ads on your site.  
+\- Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.hollywoodchaos.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.hollywoodchaos.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.hollywoodchaos.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+**Privacy of our email lists:**
+
+We maintain a customer email list to keep customers informed about the site. Customers may request to be removed from the customer update list. We do not sell, rent, loan, trade, or lease the addresses on other list to anyone.
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email [here](mailto:%68%6F%6C%6C%79%77%6F%6F%64%63%68%61%6F%73%40%67%6D%61%69%6C%2E%63%6F%6D%3F%73%75%62%6A%65%63%74%3D%48%6F%6C%6C%79%77%6F%6F%64%43%68%61%6F%73%20%2D%20%54%69%70%73).
