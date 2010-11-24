@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracial.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630104449id_/http%3A//www.interracial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracial.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124152402id_/http%3A//www.interracial.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
