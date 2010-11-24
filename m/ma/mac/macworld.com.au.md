@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623124353id_/http%3A//macworld.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134851id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
 
-# Australian Macworld
+# Privacy Policy - Australian Macworld
 
-At Australian Macworld we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information. 
+At Australian Macworld we understand that privacy is important, and we’ve created this policy to give you information about how we collect and use personal information.
 
 We revaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
 Privacy Officer  
 Niche Media Pty Ltd.  
-170 Dorcas Street  
+142 Dorcas Street  
 South Melbourne VIC 3205  
 AUSTRALIA
 
@@ -18,7 +18,7 @@ Please note that this privacy policy may change from time to time. We will post 
 
 **Australian Macworld Online Privacy Policy**
 
-Australian Macworld collects data, including personally identifying information, from people who use the Australian Macworld Web site. This section of our privacy policy explains how we collect and use this data. Please note that Australian Macworld print edition subscriber data is maintained separately from data gathered from our online users. 
+Australian Macworld collects data, including personally identifying information, from people who use the Australian Macworld Web site. This section of our privacy policy explains how we collect and use this data. Please note that Australian Macworld print edition subscriber data is maintained separately from data gathered from our online users.
 
 **Information we collect and how we use it**
 
@@ -26,7 +26,7 @@ When you visit the Australian Macworld Web site, Australian Macworld collects se
 
 Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.
 
-Cookie data. When you visit the Australian Macworld Web site, Australian Macworld or one of our IDG affiliates or third-party partners may send one or more "cookies"ï¿½small files containing a string of charactersï¿½to your computer to identify you as a unique user. If you have registered with Australian Macworld, the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
+Cookie data. When you visit the Australian Macworld Web site, Australian Macworld or one of our IDG affiliates or third-party partners may send one or more “cookies”ï¿½small files containing a string of charactersï¿½to your computer to identify you as a unique user. If you have registered with Australian Macworld, the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven’t registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
 
 Traffic and advertising data. Other cookies without personally identifying information and data are used to enable Australian Macworld to gather and analyze site traffic and usage information, and to allow our advertising partners to manage the advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags; they do not contain personally identifying information, but they may gather information about what sites you have visited and use that information to determine which ads appear when you visit the Australian Macworld site.
 
@@ -49,20 +49,20 @@ If you have previously registered with another Niche Media website and you begin
 
 The personal information we collect may be used in a number of ways, including the following:
 
-  * To improve the content of the Australian Macworld site, including by allowing Australian Macworld's editors to consult with readers.
+  * To improve the content of the Australian Macworld site, including by allowing Australian Macworld’s editors to consult with readers.
   * To communicate with users about registration and other customer service issues.
   * To promote products and services of Australian Macworld or Niche Media Pty Ltd.
   * To conduct research surveys on behalf of Australian Macworld, Niche Media Pty Ltd, and its subsidiaries and affiliates.
 
 
 
- **Information sharing**
+**Information sharing**
 
 Australian Macworld may share aggregated, non-personal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
 
   * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of Australian Macworld, Niche Media Pty Ltd, or our employees or customers.
   * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfilment providers, who process information or perform services on our behalf.
-  * If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. Australian Macworld and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" logo naming the third party, or have forms that include links to the third party's privacy policy.
+  * If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party’s privacy policy. Australian Macworld and its parent and affiliate companies are not responsible for the third party’s actions or policies. Portions of the site operated by third parties normally include a “Powered by” logo naming the third party, or have forms that include links to the third party’s privacy policy.
   * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the subscriber database will be governed by the Australian Macworld Subscriber Privacy Policy.
 
 
