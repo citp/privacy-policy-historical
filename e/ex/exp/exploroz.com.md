@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522210907id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124133747id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy @ ExplorOz
+# Privacy Policy @ ExplorOz Articles
 
 ##  Introduction
 
@@ -115,17 +115,17 @@ If [ExplorOz](https://web.archive.org/Shop/_/_/ExplorOz/Default.aspx) becomes aw
 Our commitment to make [ExplorOz](https://web.archive.org/Shop/_/_/ExplorOz/Default.aspx) [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. [ExplorOz](https://web.archive.org/Shop/_/_/ExplorOz/Default.aspx) reserves the right to change its [privacy policy](https://web.archive.org/Privacy.asp) at any time and notify you by posting an updated version of the policy on its website.  
 
 
-[ ](https://web.archive.org/RSSFeedList.aspx) [ExplorOz RSS Feeds](https://web.archive.org/RSSFeedList.aspx)  
-RSS (or Really Simple Syndication) provides a convenient way for you to receive content “feeds” from ExplorOz. With over 200 channels of content available there is bound to be a channel suitable for you. 
-
 [ ](https://web.archive.org/StatsPage.aspx) [ExplorOz Site Statistics](https://web.archive.org/StatsPage.aspx)  
-See this page for last month's detailed analysis of the traffic and audience using ExplorOz. Data is used from the webserver stats, and comparative competitor analysis is provided by Nielsen NetRatings/Market Intelligence and Hitwise Australia. 
-
-[ ](https://web.archive.org/TermsofUse.aspx) [Terms of Use](https://web.archive.org/TermsofUse.aspx)  
-Your access to the Site is conditional upon your acceptance and compliance with the terms, conditions, notices and disclaimers contained in this document and elsewhere on the Site (known collectively as "Terms of Use"). 
+Many sites falsely claim to be the "No. 1 RV website" but ExplorOz is proud to publish all details of our site measurement to prove that we are the most popular website used by real-life travel enthusiasts. Join ExplorOz and engage with the largest group of RV, 4WD, and Camping enthusiasts. [[Feature Story]](https://web.archive.org/StatsPage.aspx)
 
 [ ](https://web.archive.org/Search.aspx) [Search](https://web.archive.org/Search.aspx)  
 Enter a keyword to search through all site content or selected sections (tick box). You can sort the search output by date, or rank/match or match/rank. 
+
+[ ](https://web.archive.org/RSSFeedList.aspx) [ExplorOz RSS Feeds](https://web.archive.org/RSSFeedList.aspx)  
+RSS (or Really Simple Syndication) provides a convenient way for you to receive content “feeds” from ExplorOz. With over 200 channels of content available there is bound to be a channel suitable for you. 
+
+[ ](https://web.archive.org/TermsofUse.aspx) [Terms of Use](https://web.archive.org/TermsofUse.aspx)  
+Your access to the Site is conditional upon your acceptance and compliance with the terms, conditions, notices and disclaimers contained in this document and elsewhere on the Site (known collectively as "Terms of Use"). 
 
 [ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
 Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! 
