@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113233012id_/http%3A//www.lazydays.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124111753id_/http%3A//lazydays.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Lazydays RV - Number One In RVs (Gas & Diesel Motor homes, Fifth Wheels, and Travel Trailers)
 
