@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mattsmarketingblog.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526170427id_/http%3A//mattsmarketingblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattsmarketingblog.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134041id_/http%3A//mattsmarketingblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Internet Marketing, Affiliate Marketing
+# Privacy | Internet Marketing Secrets, Affiliate Marketing Blog, Affiliate Internet Marketing
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. Mattsmarketingblog.com  hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
