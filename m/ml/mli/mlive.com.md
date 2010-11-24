@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172201id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134423id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -- MLive.com: Michigan's Leading News, Information and Community Web Site with The Booth Newspapers
 
