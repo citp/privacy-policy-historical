@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the kwanzy.com privacy policy that was archived on 2009-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091013082513id_/http%3A//www.kwanzy.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kwanzy.com privacy policy that was archived on 2010-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124043726id_/http%3A//kwanzy.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>KwanZy - Privacy Policy</title>
-<link href="/custom/images/master-ResetCSS.css" rel="stylesheet" type="text/css">
-<link href="/custom/images/ftpdest/clients/hugo_style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/custom/images/JS-tools.js"></script>
+<link href="http://cdn.firstlook.com/custom/images/master-ResetCSS.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.firstlook.com/custom/images/ftpdest/clients/hugo_style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://cdn.firstlook.com/custom/images/JS-tools.js"></script>
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/jquery.js"></script>
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/thickbox.js"></script>
 <link href="http://cdn.firstlook.com/custom/images/thickbox.css" type="text/css" rel="stylesheet">
-
-<script language="javaScript" type="text/javascript">
+<script type="text/javascript">
 <!--
 var u = location.href;
 var idx = u.indexOf('?');
@@ -25,16 +24,26 @@ function StatusMsg(msgStr) {
 
 var tmpCat = "UNKNOWN";
 var tmpSubCat = "UNKNOWN";
+
+function linkclick(cmstag) {
+	var url = cmstag;
+	templatename = (typeof(templatename) != 'undefined') ? templatename : '';
+	currentLink = (typeof(currentLink) != 'undefined') ? currentLink : '';
+	subid = (typeof(subid) != 'undefined') ? subid : '';
+	if (templatename) url += '&tmp=' + templatename;
+	if (currentLink) url += '&type=' + currentLink;
+	if (subid.length > 0) url += "&subid=" + subid;
+	location.href = url;
+}
 //-->
 </script>
-
 </head>	
 
 <body class="sub">
 <div id="wrapper">
 
   <div id="header_sm" class="clearfix">
-    <div id="brand"><a href="/"><img src="/custom/images/ftpdest/clients/kwanzy-sm.png" border="0"></a></div>
+    <div id="brand"><a href="/"><img src="http://cdn.firstlook.com/custom/images/ftpdest/clients/kwanzy-sm.png" border="0"></a></div>
     <form onsubmit="location.href=u + 'aid=5&amp;Keywords=' + escape(searchTerm.value);return false;">
     <input type="text" class="searchbox" name="searchTerm" onblur="if (this.value == '') {this.value = 'Search the web!';}" onfocus="if (this.value == 'Search the web!') {this.value = '';}" value="Search the web!">
     <input class="searchbutton" name="submit" type="submit" value="Search" onclick="exit=false;">
@@ -77,6 +86,6 @@ var tmpSubCat = "UNKNOWN";
 
 </div><!--content-->
 </div><!--wrapper-->
-<img src="http://cms.trafficmp.com/tpix.gif?clid=domf0a8dc87a4e8c8652205f514a833c&amp;sid=5c8bd94f-0669-4bc3-b3a4-2db3abf63065" width="1" height="1">
+<img src="http://cms.trafficmp.com/tpix.gif?clid=dom82cdacebb4801a86bda680377702a&amp;sid=b3798b56-cefe-4a98-b10f-3c1b2f014bcc" width="1" height="1">
 
 </body></html>
