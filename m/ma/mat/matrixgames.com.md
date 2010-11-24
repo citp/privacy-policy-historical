@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607084416id_/http%3A//www.matrixgames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124212431id_/http%3A//www.matrixgames.com/privacy.asp) for the most accurate reproduction.*
 
-# Matrix Games Ltd - What's Your Strategy?
+# Matrix Games - Privacy Policy
 
 Matrix Games Ltd is committed to protecting the privacy of consumers of its products and services and of individuals visiting our websites. We want to contribute to providing a safe and secure Internet environment for consumers.
 
