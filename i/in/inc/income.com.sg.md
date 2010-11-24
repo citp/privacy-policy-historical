@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308123511id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124042823id_/http%3A//income.com.sg/others/privacy.asp) for the most accurate reproduction.*
 
 # None
 
@@ -109,10 +109,17 @@ Singapore 189557
 Contact Us - [24-hour Hotlines](https://web.archive.org/callcentre/hotlines.asp)
 
 **Product Enquiries**  
-62INCOME (6246 2663)
+(General Insurance)  
+62INCOME / 6788 1111
+
+(Life Insurance)  
+6788 5515
+
+(Group & Health)  
+6788 3113
 
 **General Enquiries**  
-63INCOME (6346 2663) 
+63INCOME / 6788 1777
 
 **Income Centre**  
 75 Bras Basah Road  
