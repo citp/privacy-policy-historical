@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524111704id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055820id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
 
 # Privacy Policy Update | Desi Babes, Pakistani Indian Girls Blog
 
@@ -18,9 +18,9 @@ eDesiBabes.com is a community-oriented website that allows commenting on blog po
 
   * Content found on this site which has been produced by users does not necessarily express the views of NIR or its members. Liability for content found on this website is considered to be the with the original author.
   * It is the intention of eDesiBabes.com to allow visitors to speak freely and express their opinions. However, eDesiBabes.com reserves the right to delete or otherwise moderate content at its sole discretion. Specific rules need not be stipulated, but as a courtesy to the audience, the following guidelines may apply: 
-    * Content deemed unnecessarily offensive, derogatory, or hostile may be administered through deletion or other methods at eDesiBabes.com’s sole discretion.
+    * Content deemed unnecessarily offensive, derogatory, or hostile may be administered through deletion or other methods at eDesiBabes.com�s sole discretion.
     * Content intended to sell unapproved products on this website, promote unapproved websites or those that conform to known spam-bot activity will also be moderated at the sole discretion of eDesiBabes.com.
-    * eDesiBabes.com strongly supports the privacy of it’s users. However, users whose submitted content violates the laws of the United States & Pakistan, including but not limited to laws prohibiting harassment, slander, extortion, impersonation or copyright infringement could potentially have their information turned over to authorities for prosecution.
+    * eDesiBabes.com strongly supports the privacy of it�s users. However, users whose submitted content violates the laws of the United States & Pakistan, including but not limited to laws prohibiting harassment, slander, extortion, impersonation or copyright infringement could potentially have their information turned over to authorities for prosecution.
 
 
 
@@ -34,11 +34,11 @@ If a user wishes to subscribe to my RSS Feeds or Email Updates (powered by Feedb
 
 Log Files and Stats
 
-Like most blogging platforms I use log files, in this case Statcounter. This stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user�s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
+Like most blogging platforms I use log files, in this case Statcounter. This stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user?s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
 
 Cookies
 
-A cookie is a piece of data stored on the user�s computer tied to information about the user. This blog doesn’t use cookies. However, some of my business partners use cookies on this site (for example – advertisers). I can’t access or control these cookies once the advertisers have set them.
+A cookie is a piece of data stored on the user?s computer tied to information about the user. This blog doesn’t use cookies. However, some of my business partners use cookies on this site (for example – advertisers). I can’t access or control these cookies once the advertisers have set them.
 
 Links
 
