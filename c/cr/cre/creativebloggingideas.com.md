@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativebloggingideas.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525071916id_/http%3A//www.creativebloggingideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativebloggingideas.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124191207id_/http%3A//www.creativebloggingideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Creative Blogging Ideas
+# Privacy Policy
 
 **Privacy Policy for http://creativebloggingideas.com**
 
@@ -32,4 +32,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 * * *
 
-[Gagan](http://www.creativebloggingideas.com/author/Admin/ "Posts by Gagan") on March 18, 2010 | Filed Under [Uncategorized](http://www.creativebloggingideas.com/category/uncategorized "View all posts in Uncategorized")
+March 18, 2010 | Read more posts like this in our  category
