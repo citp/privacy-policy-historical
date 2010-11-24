@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the otcstockexchange.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106171239id_/http%3A//www.otcstockexchange.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otcstockexchange.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124085225id_/http%3A//otcstockexchange.com/privacy.htm) for the most accurate reproduction.*
 
-# Penny Stocks, Stock Picks
+# OTCStockexchange.com - stock picks, stocks, stock, mad money, jim cramer, OTC, Pink Sheets, OTCBB, Over the Counter, penny stocks, pennystocks, thestockster, rocket stock picks, company profiles, corporate profiles, stock profile, public companies, IPOs, IR, PR, investor relations, press release, stock promotion, Nasdaq, AMEX, NYSE, Pink Sheets, TSX, investment, hot stocks, gainers, percentage gainers, dollar gainers, stock quote, stock quotes, IR package, IR services, wallstreetreporter, wallstreetaudio, thesubway.net, vcall, newsletter, stockquotes, good stock, investments, stock pick, stock tip, stock ideas, investment ideas, momentum stock, swing trading, swing trades, penney stocks
 
 OTCStockexchange.com is strongly committed to protecting the privacy of its user community.
 
@@ -20,4 +20,4 @@ From time to time OTCStockexchange.com and/or its partners may wish to contact i
 OTCStockexchange.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, OTCStockexchange.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregate "site usage" information with third parties. 
 
 **OUR PURPOSE**  
-OTCStockexchange.com's purpose is to provide an educational forum for investment ideas. Our articles and columns should not be construed as investment advice, nor does their appearance imply an endorsement by OTCStockexchange.com of any specific security or trading strategy. An investor's best course of action must be based on individual circumstances. This material is for personal use only.
+OTCStockexchange.com's purpose is to provide an educational forum for investment ideas. Our articles and columns should not be construed as investment advice, nor does their appearance imply an endorsement by OTCStockexchange.com of any specific security or trading strategy. An investor's best course of action must be based on individual circumstances. This material is for personal use only
