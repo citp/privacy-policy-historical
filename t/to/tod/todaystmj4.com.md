@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302094810id_/http%3A//www.journalbroadcastgroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124114344id_/http%3A//www.journalbroadcastgroup.com/privacy.html) for the most accurate reproduction.*
 
 # Journal Broadcast Group » Privacy Policy
 
@@ -24,7 +24,7 @@ Effective Date: 2/24/2009**
 
 Please read this Privacy Policy carefully before YOUR SUBMISSION OF ANY PERSONALLY IDENTIFIABLE INFORMATION. Your visit to our websites is subject to this Privacy Policy and our Website [Terms and Conditions of Use](http://www.journalcommunications.com/termsofuse.html).
 
-This is the official Privacy Policy for the Journal Broadcast Group, Inc. ("JBG", "us", "our", or "we") and select radio and television stations. **[todaystmj4.com](http://www.todaystmj4.com/), [620wtmj.com](http://www.620wtmj.com/), [945lakefm.com](http://www.945lakefm.com/), [themorningblend.com](http://www.themorningblend.com/), [the50rules.com](http://www.the50rules.com/), [journalradionetworks.com](http://www.journalradionetworks.com/), [journalbroadcastgroup.com](http://www.journalbroadcastgroup.com/)**. JBG is a subsidiary of Journal Communications, Inc. ("JCI") and is the owner and operator ("Owner and Operator") of the various station websites ("Sites"). This Privacy Policy governs our collection of personally identifiable information ("Personal Information") both online and off-line.
+This is the official Privacy Policy for the Journal Broadcast Group, Inc. ("JBG", "us", "our", or "we") and select radio and television stations.  JBG is a subsidiary of Journal Communications, Inc. ("JCI") and is the owner and operator ("Owner and Operator") of the various station websites ("Sites"). This Privacy Policy governs our collection of personally identifiable information ("Personal Information") both online and off-line.
 
 We hope to provide you with news, information, and entertainment tailored to your individual needs but we also recognize the importance of protecting the privacy of your Personal Information. This Privacy Policy is designed to answer your questions regarding our online and offline information practices and the choices you can make about the way your Personal Information is collected, used and disclosed. This Privacy Policy is also incorporated in the Sites' [Terms and Conditions of Use Agreement](http://www.journalcommunications.com/termsofuse.html) by reference.
 
