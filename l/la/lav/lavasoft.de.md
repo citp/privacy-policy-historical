@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavasoft.de privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620175102id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavasoft.de privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124101136id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lavasoft
 
