@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601075727id_/http%3A//wpcanada.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124224931id_/http%3A//wpcanada.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WordPress Canada
+# Privacy Policy - WPCanada
 
 ## Privacy Policy
 
 **Introduction**  
-WordPress Canada is committed to protecting your privacy. This Privacy Policy explains our privacy practices and how that may pertain to you.
+WPCanada is committed to protecting your privacy. This Privacy Policy explains our privacy practices and how that may pertain to you.
 
 **Third Party Host**  
 This web site is hosted on a third party service provider known as EZ Web Hosting Inc. Any information you choose to send to us is stored on the servers of EZ Web Hosting Inc.
@@ -22,7 +22,7 @@ We keep a record of the domains that visit us and log the IP addresses for archi
 This is an interactive feature whereby users may reply to a question via a vote system. The IP addresses of those who vote are automatically logged. The poll also utilizes cookies. This is to try to prevent multiple votes from the same party. Your IP address will not be published or shared.
 
 **Email**  
-When submitting a communique to us via the Contact Form, you are required to provide a valid email address. This is for 2 reasons,
+When submitting a communique to us via the [Contact Form](http://wpcanada.ca/contact/ "Contact"), you are required to provide a valid email address. This is for 2 reasons,
 
   1. To prove that you are not an automated script
   2. If you require a response
