@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112043658id_/http%3A//hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124032158id_/http%3A//hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
 # Hays Privacy Policy | Hays Australia
 
@@ -88,18 +88,18 @@ If you have created a profile with Hays via our website, you are able to update 
 
 You can make further inquiries or complaints about our privacy policy to our Privacy Officer:
 
-| **Australia** | **New Zealand**  
----|---|---  
-| Privacy Officer | Privacy Officer  
-| Hays | Hays  
-Phone | 1800 805 051 | \+ 61 7 3243 3052  
-Fax | 02 9236 4110 | \+ 61 2 9236 4110  
-Email | [privacy@hays.com.au](mailto:privacy@hays.com.au) | [privacy@hays.net.nz](mailto:privacy@hays.net.nz)  
-Post | Reply Paid| GPO Box 2135  
-| GPO Box 2135| BRISBANE QLD 4001  
-| BRISBANE QLD 4001| AUSTRALIA  
+| **Australia**  
+---|---  
+| Privacy Officer  
+| Hays  
+Phone | 1800 805 051  
+Fax | 02 9236 4110  
+Email | [privacy@hays.com.au](mailto:privacy@hays.com.au)  
+Post | Reply Paid  
+| GPO Box 2135  
+| BRISBANE QLD 4001  
   
-If you are not satisfied with our response to your complaint, in Australia you can contact the Office of the Federal Privacy Commissioner; or in New Zealand you can contact the Office of the Privacy Commissioner.
+If you are not satisfied with our response to your complaint you can contact the Office of the Federal Privacy Commissioner.
 
 ### Access
 
