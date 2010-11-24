@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601154606id_/http%3A//www.izismile.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125003723id_/http%3A//www.izismile.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » Izismile.com - In fun we trust! Pictures, picdumps, videos, games, celebs, viral content
+# Privacy Policy
 
 **Your privacy is important to us!**  
 We have developed this Policy in order to better protect your privacy and explain to you our online information practices as: how we collect, use, communicate, disclose and make use of personal information.
