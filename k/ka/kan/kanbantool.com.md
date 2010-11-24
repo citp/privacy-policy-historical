@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanbantool.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214103847id_/http%3A//kanbantool.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanbantool.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124123936id_/http%3A//kanbantool.com/policy/privacy) for the most accurate reproduction.*
 
 # Kanban Tool - Privacy Policy
 
@@ -19,3 +19,5 @@ The following outlines our privacy policy:
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+ 
