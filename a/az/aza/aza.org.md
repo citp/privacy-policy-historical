@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630044959id_/http%3A//aza.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124183652id_/http%3A//www.aza.org/privacy) for the most accurate reproduction.*
 
 # Association of Zoos and Aquariums - Privacy Statement for www.aza.org
 
@@ -33,6 +33,8 @@ We may use the information you voluntarily provide to contact you regarding zoo 
 From time to time, we may make such voluntary information, excluding credit card information (which will never be disclosed), available to AZA affiliate organizations or to sponsors or licensees that provide special programs or services that we think you might find interesting or beneficial. AZA uses strict standards in determining which reputable companies become sponsors and licensees, to ensure that such organizations are committed to the protection of visitors' privacy and committed to the goals of AZA.
 
 If your volunteered personal information will be used in any manner other than as stated above, such use shall be specifically posted. If you wish to update or remove your information, or if you do not wish your information to be shared with affiliated third parties, please e-mail us at [generalinquiry@aza.org](mailto:G.e.n.e.r.a.l.I.n.q.u.i.r.y@aza.org).
+
+AZA allows donors to contribute through mobile texts. Donors who contribute in this manner have the option of instructing AZA that they would prefer to "opt out" (a) of the sharing of their contact information with third parties AZA determines may have offers or services of interest to donors or (b) of receiving further communications from AZA itself (which also would prevent the sharing of contact information with third parties). Mobile donors may exercise their "opt out" choices by [clicking here](mailto:G.e.n.e.r.a.l.I.n.q.u.i.r.y@aza.org?subject=Opt%20out "Opt out").
 
 ## Other
 
