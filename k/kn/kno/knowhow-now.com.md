@@ -1,53 +1,87 @@
-> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327170456id_/http%3A//knowhow-now.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124141034id_/http%3A//knowhow-now.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**KnowHow-Now.com  Privacy Policy**
+PRIVACY POLICY FOR Knowhow-Now.com
 
-KnowHow-Now strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+This privacy policy sets out how "Knowhow-Now.com" uses and protects any information that you give "Knowhow-Now.com" when you use this website.
 
-**How we gather information from users**
+"Knowhow-Now.com" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, KnowHow-Now also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customise the site's features according to your preferences.
+"Knowhow-Now.com" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from July 20, 2010.
 
-**What we do with the information we collect**
+WHAT WE COLLECT
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+We may collect the following information:
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+Name,  
+Email Address,  
+Demographic information such as postcode, preferences and interests,  
+Information relevant to customer surveys and/or offers
 
-We may use Personally Identifiable Information collected on KnowHow-Now to communicate with you about your registration and customisation preferences; our Terms of Service and privacy policy; services and products offered by KnowHow-Now and other topics we think you might find of interest.
+What we do with the information we gather.
 
-Personally Identifiable Information collected by KnowHow-Now may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Affiliated sites, linked sites and advertisements**
+Internal record keeping.
 
-KnowHow-Now expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a KnowHow-Now page, certain content that is actually created or hosted by a third party. Also, through KnowHow-Now you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. KnowHow-Now is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+We may use the information to improve our products and services.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies, web beacons or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. KnowHow-Now does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-"Cookies" are data sent to your web browser from a web server (such as Google) that can uniquely identify your computer and store information about user preferences. Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a "Privacy" setting in your browser setup.
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of KnowHow-Now and this policy. 
+We may use the information to customize the website according to your interests.
 
-**Children**
+SECURITY
 
-KnowHow-Now does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe KnowHow-Now has any information from or about anyone under 13, please contact us at the address listed below.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
+How we use cookies
 
-**Contacting Us**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We can be contacted at: [privacy@notme.fea.st](mailto:privacy@notme.fea.st)
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-**Changes to this Policy**
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-KnowHow-Now reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Governing law**
+PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE
 
-This policy and the use of this Site are governed by Estonian law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Tallinn. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA). If you are under the age of 18 you must leave this site immediately. Fraudulent use of this website may make you subject to civil or criminal sanctions.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Tallinn, Estonia. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+LINKS TO OTHER WEBSITES
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**[traffic kahuna information and reviews](http://traffickahunadotcom.com/seotools/)**
+YOUR PERSONAL INFORMATION
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+If this website is sold as a going concern then the user data collected will be treated as a business asset and will be transferred at the point of sale with the same conditions imposed upon any new owner(s) of the website. This means that your accounts will be safe in the event of a business sale.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to manager@knowhow-now.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+GOOGLE ADSENSE AND THE DOUBLECLICK DART COOKIE
+
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Knowhow-Now.com has no access or control over these cookies that may be used by third party advertisers.
+
+QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
+
+You may direct questions, comments or reports to: 
+
+manager@knowhow-now.com
+
+REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
+
+This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+
+LATEST UPDATE
+
+This Privacy Policy was last updated on: July 20, 2010
