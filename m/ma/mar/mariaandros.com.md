@@ -1,60 +1,73 @@
-> *The following text is extracted and transformed from the mariaandros.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208055333id_/http%3A//socialmediatrafficblueprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariaandros.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124185745id_/http%3A//mariaandros.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Official Website of Maria A. Andros - The Video Marketing Queen
 
-> **VIDEO MARKETING QUEEN PRIVACY POLICY**
-> 
-> This privacy policy sets out how Video Marketing Queen Inc. is committed to protecting the privacy and security of its online visitors. We want you to know how we use and protect any information that you give videomarketingqueen.com when you use this website.
-> 
-> Should we ask you to provide certain information by which you can be identified when using this website; you can be assured that it will only be used in accordance with this privacy statement. Please note that your use of this website is also subject to the [Terms of Service](http://www.socialmediatrafficblueprint.com/tos.html) (of which this privacy policy is a part) also posted on this website.
-> 
-> Videomarketingqueen.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are comfortable with any changes. This policy is effective from October 15, 2008.
-> 
->   
->  **WHAT WE COLLECT**  
->  We may collect the following information:  
->  • Name  
->  • Contact information including email address  
->  • Other information such as preferences and interests
-> 
-> **  
-> WHAT WE DO WITH THE INFORMATION WE GATHER**  
->  We require this information to understand your needs and provide you with better service, and in particular for the following reasons:  
->  • To maintain accurate, up-to-date internal record keeping   
->  • To improve our products and services  
->  • To periodically send promotional email to the email address you provided about new products, special offers or other information which we think you may find interesting or of benefit   
->  • To contact you occasionally for the purpose of market research   
->  • To customize the website to reflect your interests 
-> 
-> **HOW WE USE COOKIES**  
->  A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-> 
-> We use traffic log cookies to identify which pages on our site are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes, after which the data is removed from the system. 
-> 
-> Overall, by enabling us to monitor which pages you find useful and which you do not, cookies help us provide you with a better website. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-> 
-> You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-> 
->   
->  **CHILDREN’S PRIVACY**  
->  Videomarketingqueen.com does not knowingly collect personal data from children under the age of eighteen (18). If you have reason to believe a child has provided data to videomarketingqueen.com, please contact us and we will delete that information from our databases. 
-> 
->   
->  **CONTROLLING YOUR PERSONAL INFORMATION**  
->  We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. You may request details of personal information which we hold about you under the Data Protection Act 1998. 
-> 
-> If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
-> 
->   
->  **OPT-OUT POLICY**  
->  If you no longer wish to receive communications from us or if you wish to be removed from our members-only database, Videomarketingqueen.com gives you the following three options:   
->  1) Check the appropriate “Opt Out” link in any applicable email communication or newsletter  
->  2) Send an email to clientsupport@mygoldminevideo.com requesting to be removed from our database  
->  3) Write to us at Video Marketing Queen Inc., 18 S Marengo Ave, Pasadena, CA 91101 requesting to be removed from our database
-> 
-> **QUESTIONS**  
->  If you have any questions or concerns about this privacy policy, please contact us at [support@videomarketingqueen.com](mailto:clientsupport@mygoldminevideo.com).
-> 
-> [[ Privacy Policy ]](http://www.socialmediatrafficblueprint.com/privacy.html) [[ Terms of Use ]](http://www.socialmediatrafficblueprint.com/tos.html) [[ Purchase Agreement ]](http://www.socialmediatrafficblueprint.com/purchase_agreement.html) [[ Earnings Disclaimer ] ](http://www.socialmediatrafficblueprint.com/earnings.html)
-> 
-> © 2009 by Video Marketing Queen Inc.
+**Privacy Policy**
+
+Video Marketing Queen, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
+
+Video Marketing Queen, Inc. (hereinafter referred to as “COMPANY”) has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
+
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit COMPANY Web pages without telling us who you are or revealing any Personal Information about yourself.
+
+COMPANY strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, COMPANY intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+
+**Cookies and Other Tracking Technologies**
+
+Some of our Web pages utilize “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site as well as break the tracking to affiliate commissions.
+
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click-stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
+
+To protect your privacy, we have adopted the following principles:
+
+  *  
+    * Notice
+    * Choice
+    * Security
+    * Access/Accuracy
+
+
+
+**Notice**
+
+Where COMPANY collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of COMPANY or those working on COMPANY behalf. COMPANY does not intend to transfer Personal Information without your consent to third parties who are not bound to act on COMPANY behalf unless such transfer is legally required.
+
+**Choice**
+
+You may choose whether or not to provide Personal Information to COMPANY The notice we intend to provide where COMPANY collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of COMPANY Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+
+If you chose to have a relationship with COMPANY, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
+
+**Security**
+
+Wherever your Personal Information may be held within COMPANY or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+
+**Access/Accuracy**
+
+To the extent that you do provide us with Personal Information, COMPANY wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting COMPANY should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to support@videomarketingqueen.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+
+**Third Party Services**
+
+Third parties provide certain services available on MariaAndros.com on COMPANY behalf. COMPANY may provide information, including Personal Information, which COMPANY collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which COMPANY maintains its Web site and mailing lists. COMPANY will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on behalf of COMPANY.
+
+COMPANY does not intend to transfer Personal Information without your consent to third parties who are not bound to act on COMPANY behalf unless such transfer is legally required. Similarly, it is against COMPANY policy to sell Personal Information collected online without consent.
+
+**Children’s Privacy**
+
+MariaAndros.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age although we currently do not take steps to verify the user to that extent.
+
+**Commitment**
+
+We are committed to privacy are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and COMPANY Web sites are constantly evolving to meet these demands.
+
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at support@videomarketingqueen.com.
+
+While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+
+**Your Consent**
+
+By using this Web site, you consent to the terms of our Online Privacy Policy, Terms and Conditions of Use, and to COMPANY processing of Personal Information for the purposes given above as well as those explained where COMPANY collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+
+As seen on FOX & YouTube
