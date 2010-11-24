@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310082935id_/http%3A//littlebree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124233543id_/http%3A//littlebree.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy_nethole
 
-Privacy Policy   
+Privacy Policy for Nethole Services Ltd  
 
 
 Adults Only Service   
