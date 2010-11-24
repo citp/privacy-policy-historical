@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the freeoneslive.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003835id_/http%3A//freeoneslive.com/privacy.php%3Fservice%3Dgirls%26mp_code%3Dbbc3%26source_code%3Ddefault%26PHPSESSID%3Daoklqm1eob20h7md9v75fmqt76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeoneslive.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124165033id_/http%3A//freeoneslive.com/privacy.php) for the most accurate reproduction.*
 
 # FreeOnes Live
 
-| 
+|    
+
 
 We know you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting FreeOnes Live, you are accepting the practices described in this Privacy Notice.**
 
@@ -53,7 +54,7 @@ Information about our customers is an important part of our business, and we are
 
 FreeOnes Live gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=aoklqm1eob20h7md9v75fmqt76)
+  * [Your Account](https://web.archive.org/my-account/?)
 
 
 
@@ -71,6 +72,17 @@ FreeOnes Live does not sell products for purchase by children. We do not permit 
 
 [RSAC](http://www.rsac.org/)  [Cyber Patrol](http://www.cyberpatrol.com/)  [CYBERsitter](http://www.solidoak.com/cybersit.htm)  [Safesurf](http://www.safesurf.com/)   [SurfWatch](http://www.surfwatch.com/)   [Websense](http://www.netpart.com/)
 
-If you choose to visit FreeOnes Live, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at FreeOnes Live, please send us a thorough description to [feedback@vs.com](mailto:feedback@vs.com), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.   
-  
----|---
+If you choose to visit FreeOnes Live, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at FreeOnes Live, please send us a thorough description to [feedback@vs.com](mailto:feedback@vs.com), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
+
+### Opt-Out Instructions
+
+If you do not wish to receive emails about our service please use one of the following means to remove yourself. We certainly do not wish to market to anyone who doesn't want it!
+
+| Toll Free: | 1-800-685-9236 (USA only)  
+---|---  
+Int'l Phone: | 1-818-880-9021  
+Email: | customerservice@vs.com  
+Regular Mail: |  VS Media Inc.  
+26500 W. Agoura Rd.  
+Suite 102-734  
+Calabasas, CA 91302 
