@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609230657id_/http%3A//www.foxtel.com.au/about-foxtel/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124034542id_/http%3A//www.foxtel.com.au/about-foxtel/privacy/default.htm) for the most accurate reproduction.*
 
-# FOXTEL - About FOXTEL - Privacy Statement
+# Privacy Statement - About FOXTEL - FOXTEL
 
 **NOTE:** Capitalised terms in this Privacy Statement have special meanings. Please refer to FOXTEL's [Residential Digital Subscription Agreement](https://web.archive.org/about-foxtel/privacy/residential-agreement-441.pdf) for more information.
 
