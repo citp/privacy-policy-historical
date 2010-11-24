@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klout.net privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171106id_/http%3A//klout.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klout.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124135651id_/http%3A//klout.com/privacy) for the most accurate reproduction.*
 
-# Klout is the standard for influence
+# Klout Privacy Policy
 
 This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
