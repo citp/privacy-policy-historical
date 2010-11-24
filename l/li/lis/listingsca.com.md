@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528125130id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124203404id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Listings Canada
 
@@ -18,7 +18,8 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 
 If a user rejects the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
-Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.   
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 **Log Files**
 
@@ -34,7 +35,7 @@ This web site contains links to other sites. Please be aware that we [LWorld Med
 
 **Security**
 
-This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](https://web.archive.org/web/20100528125130id_/http%3A//listingsca.com/common/contact.asp).
+This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](https://web.archive.org/web/20101124203404id_/http%3A//listingsca.com/common/contact.asp).
 
 **Site and Service Updates**
 
