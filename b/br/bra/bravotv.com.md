@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429195837id_/http%3A//www.bravotv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124233351id_/http%3A//www.bravotv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bravo TV Official Site
+# Privacy Policy - Bravo TV Official Site
 
 This Privacy Policy was last updated on March 15, 2007.
 
 **Introduction:** This web site, which is located at the domain http://www.bravotv.com (the "Site"), is operated by Bravo Network a subsidiary of NBC Universal, Inc. ("NBCU" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [ http://www.bravotv.com/contact](https://web.archive.org/contact) or at the address at the end of this policy.
 
-**PLEASE REVIEW THIS PRIVACY POLICY AND THE[ TERMS OF SERVICE](https://web.archive.org/terms-of-service) FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND [TERMS OF SERVICE](https://web.archive.org/terms-of-service).**
+**PLEASE REVIEW THIS PRIVACY POLICY AND THE[ TERMS OF SERVICE](https://web.archive.org/terms-and-conditions) FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND [TERMS OF SERVICE](https://web.archive.org/terms-and-conditions).**
 
   1. Types of Information Collected
     * Personal Data
@@ -76,7 +76,7 @@ NBCU takes reasonable security precautions to secure the Personal Data that you 
   11. **Exclusions:**  
 This Privacy Policy shall not apply to any unsolicited information you provide to NBCU on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and NBCU shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
   12. **Other Terms and Conditions:**  
-Your access to and use of this Site or Other Services is subject to the [Terms of Service](https://web.archive.org/Terms_of_Service).
+Your access to and use of this Site or Other Services is subject to the [Terms of Service](https://web.archive.org/terms-and-conditions).
   13. **Applicable Law:**  
 We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
   14. **Changes to this Privacy Policy:**  
