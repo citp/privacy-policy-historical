@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kahuki.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230033423id_/http%3A//www.kahuki.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kahuki.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124153048id_/http%3A//kahuki.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Kahuki Web Directory » Privay Policy
 
