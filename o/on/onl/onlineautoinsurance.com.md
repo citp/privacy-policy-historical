@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208223147id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002453id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Online Auto Insurance
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.onlineautoinsurance.com&sealid=101)Online Auto Insurance, LLC  
-9431 Haven Ave Ste 201  
+8667 Haven Ave Ste 100  
 Rancho Cucamonga, Ca 91730  
 service@onlineautoinsurance.com  
 Privacy Statement (Last Update 07/05/2009)
@@ -38,8 +38,8 @@ For visitors not residing in California and under certain circumstances, we use 
 
  _Information Sharing and Disclosure_
 
-We share aggregated information with our partner Auto Solutions Insurance Services, LLC ("ASIS") to fulfill applications for users residing in California who are not currently insured. ASIS is a licensed California brokerage (Lic #0G50638) which uses shared information to provide auto insurance quotes and policy issuance online from appointed carriers.   
-Where ASIS is not used and is not license, we share your information with affiliates and redirect users to third-party Web sites. OnlineAutoInsurance.com does not control the content of or the information collected from these third-party Web sites. These third-party Web sites are not subject to OnlineAutoInsurance.com's Privacy Policy. Redirects to third-party sites do not constitute sponsorship, endorsement, or approval by OnlineAutoInsurance.com of the content, policies, or practices of such sites. Therefore, we encourage you to review the privacy policies of these sites before you disclose your personal information to these other parties 
+We share aggregated information with our partner Online Auto Insurance Services, LLC ("OAIS") to fulfill applications for users residing in California who are not currently insured. OAIS is a licensed California brokerage (Lic #0G89289) which uses shared information to provide auto insurance quotes and policy issuance online from appointed carriers.   
+Where OAIS is not used and is not license, we share your information with affiliates and redirect users to third-party Web sites. OnlineAutoInsurance.com does not control the content of or the information collected from these third-party Web sites. These third-party Web sites are not subject to OnlineAutoInsurance.com's Privacy Policy. Redirects to third-party sites do not constitute sponsorship, endorsement, or approval by OnlineAutoInsurance.com of the content, policies, or practices of such sites. Therefore, we encourage you to review the privacy policies of these sites before you disclose your personal information to these other parties 
 
 _Legal Disclaimer  
 _
