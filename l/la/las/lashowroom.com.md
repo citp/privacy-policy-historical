@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612090511id_/http%3A//www.lashowroom.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124054117id_/http%3A//www.lashowroom.com/privacy-policy.php) for the most accurate reproduction.*
 
 # LAShowroom.com − Privacy Policy
 
@@ -114,7 +114,7 @@ If users have any questions about the security at our Web site, users can send a
 
 ## Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone number, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [My Account](https://web.archive.org/web/20100612090511id_/http%3A//www.lashowroom.com/account.php) page available at the top of each store within LAShowroom.com. The changes made in [My Account](https://web.archive.org/web/20100612090511id_/http%3A//www.lashowroom.com/account.php) section of any store will reflect in all the store accounts of the user. 
+If a user's personally identifiable information changes (such as zip code, phone number, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [My Account](https://web.archive.org/web/20101124054117id_/http%3A//www.lashowroom.com/account.php) page available at the top of each store within LAShowroom.com. The changes made in [My Account](https://web.archive.org/web/20101124054117id_/http%3A//www.lashowroom.com/account.php) section of any store will reflect in all the store accounts of the user. 
 
 ## Notification of Changes
 
@@ -123,19 +123,6 @@ If we decide to change our privacy policy, we will post those changes to this pr
 ## Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
-
-LAShowroom.com  
-110 E 9th Street #B1201  
-Los Angeles, CA 90079  
-usa
-
-Tel: 213.627.0339  
-Fax: 213.627.0369  
-Phone Support Hours:  
-Mon - Fri. 8:30 A.M. - 5:30 P.M. Pacific Time
-
-E-mail: privacy@lashowroom.com  
-Url: [http://www.lashowroom.com](http://www.lashowroom.com/)
 
   
 
