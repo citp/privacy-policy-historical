@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504043138id_/http%3A//gm-volt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125062502id_/http%3A//gm-volt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GM-VOLT : Chevy Volt Electric Car Site
 
@@ -6,7 +6,7 @@ This is the web site of **GM-Volt.com.** It is wholly owned and operated by GM-V
 
 We can be reached via e-mail at chevyvolt AT gmail DOT com.
 
-You may choose to add your email address to our contact list via the forms on our websites.
+You may choose to add your email address to our contact list via the forms on our website.
 
 You may choose to sign up on our unofficial Chevy Volt want list but there are no guarantees either real or perceived that that information can or will be used by GM or that it will offer you any opportunity to obtain a Chevrolet Volt.
 
