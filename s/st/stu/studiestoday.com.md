@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studiestoday.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624030537id_/http%3A//www.studiestoday.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiestoday.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125235539id_/http%3A//www.studiestoday.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Schools, Preparatory Schools, CBSE, Syllabus, CBSE sample papers, CBSE Syllabus, Tutors, NCERT, ICSE, MBA, USA, UK, London, Australia, New Zealand, Study abroad, student, education, Students Accomodation, books, CAT, MAT, IIMs, SNAP, Games
+# CBSE Guess Sample Questions Papers, CBSE board Sample Questions Papers, CBSE board Sample Questions Papers for 10th, CBSE board Sample Questions Papers for 12th, CBSE Tutors, CBSE Books, CBSE Schools in India, CBSE Results, CBSE Board Results
 
 Privacy Policy
 
