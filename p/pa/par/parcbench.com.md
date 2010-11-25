@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parcbench.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105005id_/http%3A//www.parcbench.com%3Fpage_id%3D321) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcbench.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125013539id_/http%3A//www.parcbench.com%3Fpage_id%3D321) for the most accurate reproduction.*
 
 # Privacy Policy | Parcbench
 
