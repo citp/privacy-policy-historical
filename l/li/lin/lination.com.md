@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lination.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503221121id_/http%3A//lination.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lination.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125073030id_/http%3A//lination.com/privacy-policy) for the most accurate reproduction.*
 
-# Lination » Privacy Policy - The Linux Users Blog
-
-## Privacy Policy
+# Privacy Policy | Lination
 
 The following is Lination.com’s Privacy Policy. It was last updated 19th September 2009.
 
