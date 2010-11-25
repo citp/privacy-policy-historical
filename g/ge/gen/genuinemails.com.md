@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genuinemails.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620025304id_/http%3A//genuinemails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genuinemails.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125074530id_/http%3A//genuinemails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # genuinemails.com
 
