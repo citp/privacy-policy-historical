@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smithsonianmag.com privacy policy that was archived on 2010-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527052618id_/http%3A//www.smithsonianmag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smithsonianmag.com privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125142529id_/http%3A//www.smithsonianmag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy   | www.smithsonianmag.com | Smithsonian Magazine</title>
@@ -7,133 +7,6 @@
 <meta name="description" content="Articles from the Smithsonian Institution's award-winning, monthly general interest magazine, plus exclusive Web articles, videos, blogs, photographs and more.">
 <meta name="keywords" content="Smithsonian, Smithsonian Magazine, History, archeology, people, places, culture, museum, exhibits, Art, Science, Technology, Travel, Nature, wildlife, Africa, Asia, Europe, America, Photo of the Day, Today in History, Fact of the Day, articles, photos, photographer, recent issues, subscription, slideshow, blog, the gist, articulation, destination, destination america, destination europe, destination hunter, brief history, wishful thinker, snapshot, for hire">
 
-<script type="text/javascript" src="/g/js/prototype.js"></script>
-<script type="text/javascript">
-function editContent(oElement, field_title, content_id) {
-
-	var className = oElement.className; 
-	var left;
-	var top;
-	
-	$('form_container').hide();
-
-	oElement.onclick = function() {
-	
-		var text = oElement.innerHTML;
-		$('text_edit').value = text;		
-		$('close_text').innerHTML =  '<input type="button" title="Click to Cancel" onclick="cancelEdit();" value="Cancel"/><input type="button" title="Click to close" class="close" onclick=previewContent("' + oElement.id + '"); return false;" value="Preview"/>';
-		$('cmsedit_field_text').innerHTML = field_title;
-		$('cmsedit_content_id').innerHTML = content_id;
-		if (left < 180) {
-		 left = (left - (left/2));
-		} else {
-		 left = (left - 154);
-		}
-			
-		$('form_container').setStyle({
-		left: left + 'px',
-		top: (top - 20) + 'px'
-		});
-	$('form_container').show();
-
-	return false;
-	
-	}
- 	
-}
-
-
-function previewContent(node_id) {
-	var modified_text = $('text_edit').value;
-	var original_text = $(node_id).innerHTML;
-	if(modified_text != original_text) {
-	
-		$(node_id).innerHTML = modified_text;
-		$(node_id).addClassName('modified');
-		
-		var mod_div = 'modified_' + node_id;
-		
-		$(mod_div).addClassName('display_action_buttons');
-		$(node_id).addClassName('modified_save');
-		
-	}
-	$('text_edit').value = "";
-	$('form_container').hide();
-	$('close_text').innerHTML = "";
-	
-}
-
-function cancelEdit() {
-	$('text_edit').value = "";
-	$('form_container').hide();
-	$('close_text').innerHTML = "";
-}
-
-</script>
-<style type="text/css">
-	html > body div.cmsedit {
-	border: 2px solid #999999;
-	float: none;
-	padding: 2px;
-	margin: 0px;
-	}
-	
-	.save_ready {
-	border: 2px solid #72e766;
-	z-index: 10;
-	}
-
-	.cmsedit:hover {
-	border: 4px solid #999999;
-	opacity: .50;
-	}
-	
-	html > body div.modified {
-	border: 4px solid #7ACC6D;
-	}
-	
-	.modified:hover	{
-		border: 4px solid #7ACC6D;
-		opacity: 1;
-	}
-	
-	#form_container {
-		z-index: 10;
-		position: absolute;
-		padding: 10px;
-		border: 2px solid #666;	
-		background-color: #fff;
-		width: auto;
-		height: auto;
-	}
-
-	#form_container_header {
-		padding: 5px;
-		font-weight: bold;
-	}
-
-	#text_edit {
-		padding: 5px;
-		border: 1px solid #666;
-		background-color: #fff;
-		width: 450px;
-		height: 300px;
-	}
-	
-	#close_text {
-		padding-left: 170px;
-	}
-</style> 
-	</head><body class="subnav"><div id="form_container" style="display:none">
-		<form action="test_submit" method="get" accept-charset="utf-8" onsubmit="previewContent();">
-			<p id="form_container_header">
-				Content ID:<span id="cmsedit_content_id"></span> <br>
-				Field: <span id="cmsedit_field_text"></span>
-			</p>
-			<textarea id="text_edit">			</textarea><br>
-			<span id="close_text"></span>
-		</form>	
-	</div>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="Content-Language" content="en-us">
@@ -152,10 +25,11 @@ function cancelEdit() {
 	<meta name="google-site-verification" content="spRNLxsPRlo_zqhc9eo0bxu66AjpOM2NDbFWSMzH_Xg"><!-- smithsonian.webmaster -->
 	<meta name="y_key" content="4db4ce401959515c">
 	<meta name="msvalidate.01" content="320310DE693C522666918FF173E165C5">
-    	<meta property="og:title" content="$content.title">
-	    <meta property="og:site_name" content="Smithsonian magazine">
-    <meta property="og:image" content="$content.mainImage.url">
-
+        <meta name="alexaVerifyID" content="8NewHaRwFShfWTmgIEaXfldqwGc">
+		<meta property="og:title" content="Privacy Policy   | www.smithsonianmag.com | Smithsonian Magazine">
+		<meta property="og:site_name" content="Smithsonian magazine">
+		<meta property="og:image" content="$content.mainImage.url">
+	
 	<!-- Google analytics code for AdSense  -->
 	<script type="text/javascript">
 	window.google_analytics_uacct = "UA-6537706-1";
@@ -169,10 +43,11 @@ function cancelEdit() {
 	
 	
 	<script type="text/javascript" charset="utf-8" src="http://www.smithsonianmag.com/includes/smithMagCommon.js"></script>
-	<script type="text/javascript" src="http://www.smithsonianmag.com/includes/ufo.js"></script>
+<script type="text/javascript" src="http://www.smithsonianmag.com/includes/ufo.js"></script>
 	<script type="text/javascript" src="http://www.smithsonianmag.com/includes/AC_RunActiveContent.js"></script>
-	
-	
+	<script type="text/javascript" src="http://www.smithsonianmag.com/includes/ad-builder.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://www.smithsonianmag.com/includes/scriptaculous.js"></script>
+	<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-5dyPa639IrgIw&amp;callback=qc_results&amp;ttl=86400"></script>
 
 	
 	<!-- Hack sheets for IE -->
@@ -192,8 +67,20 @@ function cancelEdit() {
 	var ord = axel * 1000000000000000000;
 	</script>
 
+<script src="https://c.compete.com/bootstrap/9f11747de1bc252945ecce0ef24c0519/bootstrap.js" type="text/javascript" async=""></script></head>
+	<body class="subnav">	
 
-		
+	<!-- Begin comScore Tag -->
+	<script>
+	    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+	<script>
+	  COMSCORE.beacon({
+	    c1:2, c2:7741285, c3:"", c4:"www.smithsonianmag.com", c5:"", c6:"", c15:""
+	  });
+	</script>
+	<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7741285&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript>
+	<!-- End comScore Tag -->
 
 <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
@@ -201,33 +88,28 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900253237";_qc+="&7=253237";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900253237&7=253237&18=0.5796801204880749">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900253237&7=253237&18=0.626951382408005">
 </noscript>
 
 
 
 <div id="super-container">
 	<div id="container">
+    
 		
 					<div id="top-banners" class="col last">
-				<div id="top-inhouse">
-				
-				<script language="JavaScript1.1" src="http://subscribe.smithsonianmag.com/display_ad.js?designation=top_corner"></script>
-
-
-				</div>
 				<div id="top-bannerad">
 				
 		                
 
                  
 <script language="JavaScript">
-document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=1;dcopt=ist;pos=top;sz=728x90;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=1;dcopt=ist;pos=top;sz=728x90;ord=377116030799639040?"></script>
+document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=1;dcopt=ist;' + segQS + quantSegs + 'pos=top;sz=728x90;ord=' + ord + '?" ><\/SCRIPT>');
+</script>
 <script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-document.write('<A HREF="http://ad.doubleclick.net/jump/smithsonianmag.tmus/privacy;tile=1;dcopt=ist;pos=top;sz=728x90;ord=' + ord + '?" TARGET="_blank">');
-document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/privacy;tile=1;dcopt=ist;pos=top;sz=728x90;ord=' + ord + '?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>');
+document.write('<A HREF="http://ad.doubleclick.net/jump/smithsonianmag.tmus/privacy;tile=1;dcopt=ist;' + segQS + quantSegs + 'pos=top;sz=728x90;ord=' + ord + '?" TARGET="_blank">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/privacy;tile=1;dcopt=ist;' + segQS + quantSegs + 'pos=top;sz=728x90;ord=' + ord + '?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>');
 }
 </script>
 <noscript>
@@ -238,13 +120,20 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
 
 
 				</div>
+				<div id="top-inhouse-right">
+				
+				<script language="JavaScript1.1" src="http://subscribe.smithsonianmag.com/display_ad.js?designation=top_corner"></script>
+
+
+				</div>
 			</div><!-- close top-banners -->
 
+        
 
 		<div id="search">
 			<form action="/search" method="post" accept-charset="utf-8">
 				<div>
-					<input type="submit" value="Go">
+					<input type="submit" value="Search">
 					<input type="text" name="keyword" value="Search..." class="watermark searchfield" onblur="if(this.value == ''){this.value='Search...'; };" onfocus="if(this.value == 'Search...'){ this.value=''; };">
 				</div>
 			</form>
@@ -267,7 +156,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
             </div>
         </div><!-- close tabWrapper -->
         <div id="affiliate-links" class="header-band">
-                	<h5 id="smithsonian-logo"><a href="/">Smithsonian.com</a></h5>
+                	<h5 id="smithsonian-logo"><a href="/index.html?ref=logo">Smithsonian.com</a></h5>
                     <ul>
                 <li class="last"><a style="color: #0a50a1;" href="http://www.smithsonian.org/" title="Smithsonian Institution">Smithsonian Institution</a></li>
                 <li><a style="color: #0a50a1;" href="http://www.smithsonianchannel.com/" title="Smithsonian Channel - Original Programming in HD and On Demand">Smithsonian Channel</a></li>
@@ -277,9 +166,9 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
         </div>
     </div><!-- close header-band-wrapper -->
     <ul id="main-nav">
-
+        <li id="nav-subscribe"><a href="/r?19=950&amp;32=4492&amp;7=253237&amp;40=http%3A%2F%2Fwww.smithsonianmag.com%2Fsubscribe-topnav-left&amp;41=subscribe&amp;18=0.2700111702657493" target="_blank">Subscribe</a></li>
 																													
-											<li><a href="/">Home</a></li>
+											<li><a href="/index.html?ref=home">Home</a></li>
 										
 																				
 											<li><a href="/history-archaeology">History &amp; Archaeology</a></li>
@@ -314,7 +203,6 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
                         
 										
 					
-        <li id="nav-subscribe"><a href="/r?19=950&amp;32=4492&amp;7=253237&amp;40=http%3A%2F%2Fwww.smithsonianmag.com%2Fsubscribe-topnav&amp;41=subscribe&amp;18=0.8615476699682009" target="_blank">Subscribe</a></li>
     </ul>
     
     <div id="subnav-container">
@@ -349,7 +237,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
 					
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=2;pos=top;sz=160x600;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=2;pos=top;sz=160x600;ord=377116030799639040?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=2;pos=top;sz=160x600;ord=775816627426584000?"></script>
 <script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/smithsonianmag.tmus/privacy;tile=2;pos=top;sz=160x600;ord=' + ord + '?" TARGET="_blank">');
@@ -371,35 +259,38 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
                         			
 			<h2 class="plainHead marginBottom">About Smithsonian</h2>
 			
-			<p><strong>Privacy Policy Overview</strong></p>
-<p>Thank you for visiting <em>Smithsonian</em> magazine's Web site and reviewing our privacy policy. <em>Smithsonian</em> magazine does not collect your personal information when you visit our Web site unless you choose to provide that information to us. <em>Smithsonian</em> does not sell, exchange or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you.</p>
-<p>This privacy policy applies only to the online activities of <i>Smithsonian</i> magazine. For direct mail and other marketing activities not involving electronic commerce, <i>Smithsonian</i> magazine adheres to the Direct Marketing Association's Privacy Promise and privacy guidelines.</p>
-<p><b>Information Collected and Stored Automatically</b></p>
-<p>If you visit our Web site, we automatically gather and store the following information about your visit so that we can track the use of our website in order to make improvements. This information is stored and used in aggregate form only, and is not used to contact you personally:</p>
-<p>&nbsp;&nbsp;&nbsp;• The IP address from which you access our Web site<br>
-&nbsp;&nbsp;&nbsp;• The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online account) <br>
-&nbsp;&nbsp;&nbsp;• The type of browser and operating system used to access our Web site <br>
-&nbsp;&nbsp;&nbsp;• The date and time you access our site<br>
-&nbsp;&nbsp;&nbsp;• The pages, files, documents and links that you visit<br>
-&nbsp;&nbsp;&nbsp;• The Internet address of the Web site from which you linked to this Web site</p>
+			<p><strong>Privacy Policy</strong></p>
+<p>Thank you for visiting a Smithsonian Enterprises (SE) website and reviewing our privacy policy. SE is comprised of the following sites:&nbsp; goSmithsonian (<a href="http://www.goSmithsonian.com">www.goSmithsonian.com</a>), Smithsonian Magazine (<a href="http://www.Smithsonianmagazine.com">www.Smithsonianmagazine.com</a>), Air&amp;Space Magazine (<a href="http://www.airspacemag.com">www.airspacemag.com</a>), SmithsonianStore (<a href="http://www.SmithsonianStore.com">www.SmithsonianStore.com</a>) and Smithsonian Journeys (<a href="http://www.SmithsonianJourneys.org">www.SmithsonianJourneys.org</a>).&nbsp; SE does not collect your personal information when you visit one of our websites unless you choose to provide that information to us. Smithsonian does not sell, exchange, or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you.</p>
+<p>This privacy policy applies only to the online activities of SE. For direct mail and other marketing activities not involving electronic commerce, SE adheres to the Direct Marketing Association's privacy guidelines.&nbsp; If you would like more information, please visit the following website:&nbsp; <a href="http://www.the-DMA.org">www.the-DMA.org</a>&nbsp;</p>
+<p><strong>Information Collected and Stored Automatically</strong></p>
+<p>If you visit our website, we automatically gather and store the following information about your visit so that we can track the use of our website in order to make improvements. This information is stored and used in aggregate form only, and is not used to contact you personally:</p>
+<p>&nbsp;&nbsp; • The IP address from which you access our website<br>
+&nbsp;&nbsp; • The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account) <br>
+&nbsp;&nbsp; • The type of browser and operating system used to access our website <br>
+&nbsp;&nbsp; • The date and time you access our site<br>
+&nbsp;&nbsp; • The pages, files, documents and links that you visit<br>
+&nbsp;&nbsp; • The Internet address of the website from which you linked to this website</p>
 <p><strong>Cookies</strong></p>
-<p>In addition to information collected automatically, we may also collect cookies, which are small pieces of information sent to your browser by a Web site that you visit. Cookies are used to track usage patterns, traffic trends and customer behavior, as well as to record other information from the Web site. When you register on the Web site, cookies also allow us to save information so that you will not have to re-enter it the next time you visit. Many content adjustments and customer service improvements are made based on the data derived from cookies. Information that we collect from cookies will not be used to create profiles of users and will only be used in aggregate form.</p>
-<p>We may employ other companies to provide marketing services on our behalf. With our approval, these third parties may also place "cookies" for analysis purposes. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies will only have access to non-personal information about your visit or transaction, such as the URLs which lead you to and around our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.</p>
-<p>You may set your browser to refuse cookies from any Web site that you visit. If you choose to do so, you may still gain access to most of <em>Smithsonian</em> magazine's Web site, but you may not be able to take advantage of some of the interactive elements offered.</p>
+<p>In addition to information collected automatically, we use cookies, which are small pieces of information sent to your browser by a website that you visit. These cookies do not collect personally identifiable information.  Cookies are used to track usage patterns, traffic trends, and customer behavior, as well as to record other information from the website. When you register on the website, cookies also allow us to save information so that you will not have to re-enter it the next time you visit. Many content adjustments and customer service improvements are made based on the data derived from cookies. Information that we collect from cookies will not be used to create profiles of users and will only be used in aggregate form.</p>
+<p>SE employs outside companies to provide marketing services on our behalf. With our approval, these third parties also may place cookies during your visit. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies only will collect non-personally identifiable information about your visit or transaction, such as the URLs which lead you to, around, and from our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.</p>
+<p>SE uses third party advertising and analytic companies to serve ads on and about our website.  These companies may use information (not including your name, address, e-mail address or telephone number) about your visit to this website or other websites in order to provide relevant advertisements and offers that may be of interest to you.</p>
+<p>SE uses third party research companies that may use information (not including your name, address, e-mail address or telephone number) about your visit to this website or other websites in order to provide quantitative analysis about our audience.</p>
+<p>You may set your browser to refuse cookies from any website that you visit. If you choose to do so, you may still gain access to most of SE’s websites, but you may not be able to take advantage of some of the interactive elements offered.</p>
+<p>If you would like more information about cookies and the option not to have them used by third-party companies during your visit, please visit the following websites: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a> and <a href="http://scorecardresearch.com/about.aspx">http://scorecardresearch.com/about.aspx</a>.</p>
 <p><strong>If You Send Us Personal Information</strong></p>
-<p><em>Smithsonian</em> magazine's Web site will only collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing membership forms, registering for classes, events or other programs, responding to surveys or ordering merchandise. If you provide us with personal information, we will normally respond to your inquiry, request or order. We may also contact you to provide information about Smithsonian activities, programs, membership and development opportunities, products and special events that may interest you. We will never share your name or information outside the Smithsonian unless you affirmatively authorize us to do so by opting-in.</p>
-<p>When we send you such information by email, you will always have an immediate opportunity to decline further communication. Please use the contact specified in the email so that we can remove you from the list that contains your name. If you are uncertain about whom to contact, you may contact our webmaster at <a href="mailto:smithsonianmagazine@si.edu">smithsonianmagazine@si.edu</a>.</p>
-<p>There are opportunities to opt-in to receive information from non-Smithsonian entities. If you opt-in, you may receive correspondence from these organizations on programs, products or services that might interest you. If you decide to opt-out of receiving any further correspondence from a non-Smithsonian entity, please correspond directly with that business or organization to be removed from their mailing list.</p>
+<p>SE’s websites only will collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing membership forms, registering for accounts, responding to surveys or ordering merchandise. If you provide us with personal information, we normally will respond to your inquiry, request, or order. We also may contact you to provide information about Smithsonian activities, programs, membership and development opportunities, products, and special events that may interest you. We will never share your name or information outside the Smithsonian unless you affirmatively authorize us to do so by opting-in.</p>
+<p>When we send you information by email, you always will have an immediate opportunity to decline further communication. Please use the contact specified in the email so that we can remove you from the list that contains your name. If you are uncertain about whom to contact, you may contact our webmaster at <a href="mailto:smithsonianmagazine@si.edu">smithsonianmagazine@si.edu</a>.</p>
+<p>SE uses outside vendors to provide certain services on our behalf, such as e-mail distribution, order fulfillment, and shipping.&nbsp; These third-party vendors will have access to the information needed to perform their functions but may not use that information for any other purpose.</p>
+<p>SE may offer opportunities for you to opt-in to receive information from non-Smithsonian entities. If you opt-in, you may receive correspondence from these organizations on programs, products, or services that might interest you. If you decide to opt-out of receiving any further correspondence from a non-Smithsonian entity, please correspond directly with that business or organization to be removed from their mailing list.</p>
 <p><strong>Children and Privacy</strong></p>
-<p><em>Smithsonian</em> magazine is concerned about protecting children's privacy. We do not collect personally identifiable information from children. <em>Smithsonian</em> magazine's Kids' Castle has a place where children may post messages or provide feedback, but children are discouraged from providing personal information. If a visitor known to be a child (under the age of 13) sends an email to <em>Smithsonian</em> magazine, we will only use it to respond to the writer and not to create profiles or otherwise retain the information.</p>
+<p>SE is concerned about protecting children's privacy. We do not collect personally identifiable information from children. If a visitor known to be a child (under the age of 13) sends an email to Smithsonian magazine, we only will use it to respond to the writer and not to create profiles or otherwise retain the information.</p>
 <p><strong>Security</strong></p>
-<p>We take reasonable precautions to ensure that all credit card transactions that occur on the Web site are secure. When you submit your credit card for any purchase at <em>Smithsonian</em> magazine, that transaction is encrypted using "Secure Socket Layer" (SSL) encryption to prevent your credit card information from being seen as it travels over the Internet to our servers. We monitor network traffic to ensure that our site remains available to all users and to identify unauthorized attempts to access, upload or change information or otherwise cause damage.</p>
+<p>We take reasonable precautions to ensure that all credit card transactions that occur on SE websites are secure. When you submit your credit card for any purchase, that transaction is encrypted using "Secure Socket Layer" (SSL) encryption to protect your credit card information.&nbsp; We monitor network traffic to ensure that our site remains available to all users and to identify unauthorized attempts to access, upload or change information or otherwise cause damage.</p>
 <p>Unauthorized access is prohibited and punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.</p>
 <p><strong>Linking</strong></p>
-<p>Within <em>Smithsonian</em> magazine's Web site are links to non-Smithsonian Web sites. When you link to a third party Web site, you leave our Web site and will no longer be subject to our privacy policy. The Smithsonian is not responsible for the privacy practices or the content of non-Smithsonian Web sites, and such link is not intended to be an endorsement of the non-Smithsonian Web site or its content.</p>
+<p>Within SE’s websites are advertisements, widgets, and other content links to non-Smithsonian websites. These sites operate independently of SE and have their own privacy policies. The Smithsonian is not responsible for the privacy practices or the content of non-Smithsonian websites, and such link is not intended to be an endorsement of the non-Smithsonian website or its content. For your protection, you should review the privacy policy of the site you linked to from our website.</p>
 <p><strong>Comments</strong></p>
-<p>Questions and comments about this <em>Smithsonian</em> magazine Privacy Policy may be directed to us via email at <a href="mailto:smithsonianmagazine@si.edu">smithsonianmagazine@si.edu</a>. The Smithsonian Institution is a large organization with many people sharing responsibility for the content of Web sites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. In order to help you contact the appropriate Smithsonian office, please consult our list of contacts at <a href="http://smithsonian.org/contacts" target="new">http://smithsonian.org/contacts</a>.</p>
+<p>Questions and comments about this Privacy Policy may be directed to us via email at <a href="mailto:smithsonianmagazine@si.edu">smithsonianmagazine@si.edu</a>. The Smithsonian Institution is a large organization with many people sharing responsibility for the content of its websites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. In order to help you contact the appropriate Smithsonian office, please consult our list of contacts at <a href="http://smithsonian.org/contacts">http://smithsonian.org/contacts</a>.</p>
 		</div>
 	
 <br><br>
@@ -411,12 +302,12 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
                          
 
 <script language="JavaScript">
-document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=6;pos=bottom;sz=728x90;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=6;pos=bottom;sz=728x90;ord=377116030799639040?"></script>
+document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/smithsonianmag.tmus/privacy;tile=6;' + segQS + 'pos=bottom;sz=728x90;ord=' + ord + '?" ><\/SCRIPT>');
+</script>
 <script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-document.write('<A HREF="http://ad.doubleclick.net/jump/smithsonianmag.tmus/privacy;tile=6;pos=bottom;sz=728x90;ord=' + ord + '?" TARGET="_blank">');
-document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/privacy;tile=6;pos=bottom;sz=728x90;ord=' + ord + '?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>');
+document.write('<A HREF="http://ad.doubleclick.net/jump/smithsonianmag.tmus/privacy;tile=6;' + segQS + 'pos=bottom;sz=728x90;ord=' + ord + '?" TARGET="_blank">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/privacy;tile=6;' + segQS + 'pos=bottom;sz=728x90;ord=' + ord + '?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>');
 }
 </script>
 <noscript>
@@ -445,34 +336,34 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
 							                                	                                	                                    											
                                             <li>
                                                 <p>
-                                                                                                        <a href="http://www.smithsonianmag.com/issue/June_2010.html" title="In the Jun 2010 Issue">
+                                                                                                        <a href="http://www.smithsonianmag.com/issue/December_2010.html" title="In the Dec 2010 Issue">
 													
 																																							
-                                                                                                            <img src="http://media.smithsonianmag.com/images/58*80/201006_cover.jpg" title="" alt="">
+                                                                                                            <img src="http://media.smithsonianmag.com/images/58*80/201012_cover.jpg" title="" alt="">
                                                                                                         <br>
-                                                    Jun 2010</a>
+                                                    Dec 2010</a>
                                                 </p>
                                             </li>
                                                                                                                         							    	                                	                                    											
                                             <li>
                                                 <p>
-                                                                                                        <a href="http://www.smithsonianmag.com/issue/May_2010.html" title="In the May 2010 Issue">
+                                                                                                        <a href="http://www.smithsonianmag.com/issue/November_2010.html" title="In the Nov 2010 Issue">
 													
 																																							
-                                                                                                            <img src="http://media.smithsonianmag.com/images/58*80/201005_cover.jpg" title="" alt="May 2010 Issue Cover">
+                                                                                                            <img src="http://media.smithsonianmag.com/images/58*80/201011_cover.jpg" title="" alt="">
                                                                                                         <br>
-                                                    May 2010</a>
+                                                    Nov 2010</a>
                                                 </p>
                                             </li>
                                                                                                                         							    	                                	                                    											
                                             <li>
                                                 <p>
-                                                                                                        <a href="http://www.smithsonianmag.com/issue/April_2010.html" title="In the Apr 2010 Issue">
+                                                                                                        <a href="http://www.smithsonianmag.com/issue/October_2010.html" title="In the Oct 2010 Issue">
 													
 																																							
-                                                                                                            <img src="http://media.smithsonianmag.com/images/58*80/201004_cover.jpg" title="" alt="April 2010 Issue Cover">
+                                                                                                            <img src="http://media.smithsonianmag.com/images/58*80/201010_cover.jpg" title="" alt="">
                                                                                                         <br>
-                                                    Apr 2010</a>
+                                                    Oct 2010</a>
                                                 </p>
                                             </li>
                                                                                                                         							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    	                                	                                                                        							    						</ul>
@@ -482,7 +373,10 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
 						<h2>Newsletter</h2>
 						<p>Sign up for regular email updates from Smithsonian magazine, including free newsletters, special offers and current news updates.</p>
 						<h3>Subscribe Now</h3>
-						<form action="/newsletters/" method="post" accept-charset="utf-8">
+						<form action="http://reg.email.smithsonian.com/regp?aid=725681731&amp;n=1&amp;SOURCE_ID=MOL" method="post" target="_blank">
+							<input type="hidden" name="aid" value="725681731">
+							<input type="hidden" name="n" value="1">
+							<input type="hidden" name="SOURCE_ID" value="MOL">
 							<p>
 								<input type="text" name="email" class="watermark" onblur="if(this.value == ''){this.value='Enter your email address'; };" onfocus="if(this.value == 'Enter your email address'){ this.value=''; };" value="Enter your email address">
 								<input type="submit" value="Submit">
@@ -505,7 +399,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
 						    							
 						    <li id="logoGoSmith" class="affiliate"><a href="http://www.gosmithsonian.com/" title="goSmithsonian - Free Visitors Guide to the Smithsonian Museums">goSmithsonian.com</a></li>
 <li id="logoAirspace" class="affiliate"><a href="http://www.airspacemag.com/" title="Air &amp; Space Magazine">Smithsonian Air &amp; Space Museum</a></li>
-<li id="logoInst" class="affiliate"><a href="http://www.si.edu/" title="Smithsonian Institution">Smithsonian Institution</a></li>
+<li id="logoSST" class="affiliate"><a href="http://www.smithsonianstudenttravel.com/" title="Smithsonian Student Travel">Smithsonian Student Travel</a></li>
 <li id="logoStore" class="affiliate"><a href="http://www.smithsonianstore.com/" title="Smithsonian Catalogue">Smithsonian Catalogue</a></li>
 <li id="logoJour" class="affiliate"><a href="http://www.smithsonianjourneys.org/" title="Smithsonian Journeys">Smithsonian Journeys</a></li>
 <li id="logoChannel" class="affiliate last"><a href="http://www.smithsonianchannel.com/" title="Smithsonian Channel">Smithsonian Channel</a></li>
@@ -528,7 +422,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
 								<li><a href="/contact-us/">Contact Us</a></li>
 								<li><a href="/advertising/">Advertising</a></li>
 								<li><a href="/reader-panel/">Reader Panel</a></li>
-								<li><a href="/r?19=950&amp;32=4492&amp;7=253237&amp;40=http%3A%2F%2Fwww.smithsonianmag.com%2Fsubscribe-bottomnav%2F&amp;41=Subscribe&amp;18=0.02924686475734395" target="_blank">Subscribe</a></li>
+								<li><a href="/r?19=950&amp;32=4492&amp;7=253237&amp;40=http%3A%2F%2Fwww.smithsonianmag.com%2Fsubscribe-bottomnav%2F&amp;41=Subscribe&amp;18=0.2713224540794804" target="_blank">Subscribe</a></li>
 						                                          <li><a href="/RSS.html">RSS</a></li>
 						                                          <li><a href="/topics/">Topics</a></li>
 										
@@ -538,12 +432,12 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/smithsonianmag.tmus/priva
 					</div>
 		
 					<div id="footer-base" class="footer-bar">
-						<p><a href="http://www.smithsonian.org/" title="Smithsonian Institution">Smithsonian Institution</a></p>
+					<div style="float:left; margin: 10px 0 0 10px;"><img src="http://media.airspacemag.com/designimages/smithsonian-media-footer.png"></div>
+					<p><a href="http://www.si.edu/" title="Smithsonian Institution">Smithsonian Institution</a></p>
 					</div>
 
 
-
-<h5 id="clickabilityLogo"><a href="/about/partners.html" title="Site produced by Clickability, Inc.: web content management software-as-a-service">Produced by Clickability</a></h5>
+					<h5 id="clickabilityLogo"><a href="/about/partners.html" title="Site produced by Clickability, Inc.: web content management software-as-a-service">Produced by Clickability</a></h5>
 
 
 				</div><!-- close footer-bottom -->	
@@ -567,14 +461,11 @@ pageTracker._trackPageview();
 
 <!-- Quantcast tag -->
 <script type="text/javascript">
-_qoptions={
-qacct:"p-1fmF5c71HC3Cc"
-};
+     _qoptions={ qacct:"p-1fmF5c71HC3Cc" };
 </script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<a href="http://www.quantcast.com/p-1fmF5c71HC3Cc" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-1fmF5c71HC3Cc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-1fmF5c71HC3Cc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+
 <!-- END: SmithMag Analytics tracking codes -->
 
 
@@ -593,7 +484,9 @@ qacct:"p-1fmF5c71HC3Cc"
 <!-- END: Node tag -->
 
 <!-- Quantcast tag -->
-<script type="text/javascript"> _qoptions={ qacct:"p-5dyPa639IrgIw" }; </script>
+<script type="text/javascript"> 
+    _qoptions={ qacct:"p-5dyPa639IrgIw" }; 
+</script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript><img src="http://pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
 <!-- Quantcast tag -->
@@ -604,6 +497,24 @@ qacct:"p-1fmF5c71HC3Cc"
 DM_tag();
 </script>
 <!-- RevSci Tag -->
+
+<!--Compete Tag-->
+<script type="text/javascript">
+    __compete_code = '9f11747de1bc252945ecce0ef24c0519';
+    (function () {
+        var s = document.createElement('script'),
+            d = document.getElementsByTagName('head')[0] ||
+                document.getElementsByTagName('body')[0],
+            t = 'https:' == document.location.protocol ? 
+                'https://c.compete.com/bootstrap/' : 
+                'http://c.compete.com/bootstrap/';
+        s.src = t + __compete_code + '/bootstrap.js';
+        s.type = 'text/javascript';
+        s.async = 'async'; 
+        if (d) { d.appendChild(s); }
+    }());
+</script>
+<!--Compete Tag-->
 
 
 
