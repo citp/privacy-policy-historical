@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adoori.com privacy policy that was archived on 2010-02-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100225150952id_/http%3A//adoori.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adoori.com privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125031723id_/http%3A//adoori.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Adoori - Reinvent Your Advertising | Terms and Conditions</title>
@@ -17,6 +17,13 @@
 
 <script type="text/javascript" src="/scripts/jquery/jquery.cookie.js"></script>
 <script>
+	$(document).ready(function() {
+	    $('.countries').hover(
+	        function() { $(this).toggleClass('countries_hover'); },
+	        function() { $(this).toggleClass('countries_hover'); }
+	    )                                
+	})
+	
     $().ready(function() {
 <!--        updateClock();-->
     });
@@ -116,10 +123,17 @@
         </div>
         <div class="right_side">
             <div class="nav">
-                <span class="icon_clock">&nbsp;</span><span id="clock">11:09 PM, 25 Feb 2010 HKT</span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-                
-                    <a href="/advertiser/join">Register</a>
-                
+				
+                <div class="countries">
+					<a class="flag en" href="/">EN</a>  
+					<a class="flag es" href="/ES">ES</a>                 	
+				</div>
+				<div class="nav_right">
+					
+	                
+	                    <a href="/advertiser/join">Register</a>
+	                
+                </div>
             </div>
             <div class="clear"></div>
             <ul id="menu">
@@ -155,10 +169,8 @@
                 
                 </span><span class="icon_open"></span><span class="tail">&nbsp;</span></a>                
                 
-                <!-- 
-	            <span class="right comesoon"><div class="icon_comesoon">&nbsp;</div><span>Contextual Link</span><span
-	                    class="tail">&nbsp;</span></span>
-	            -->
+	            <!--<span class="right comesoon"><div class="icon_comesoon">&nbsp;</div><span>Contextual Link</span><span
+	                    class="tail">&nbsp;</span></span>-->
                 
                 
                 	
@@ -170,9 +182,9 @@
                      
                 
                 
-                
-                    <a href="/advertiser/pop-under" class="right"><span>Pop Under</span><span class="tail">&nbsp;</span></a>
-                
+	            
+	                <a href="/advertiser/pop-under" class="right"><span>Pop Under</span><span class="tail">&nbsp;</span></a>
+	            
             </div>
             <div class="clear"></div>
 
@@ -320,8 +332,9 @@
 					<h2>Available Traffic</h2>
 					<a href="/advertiser/pop-under/coupon-package/">Coupon Package</a>
 					<a href="/advertiser/pop-under/package/">Package</a>
-					<a href="/advertiser/pop-under/premium/">Premium Countries</a>
+					<a href="/advertiser/pop-under/premium/">Recommended Countries</a>
 					<a href="/advertiser/pop-under/all-countries/">All Countries</a>
+					<a href="/advertiser/pop-under/price/">Full Price List</a>
 				</div>
 				<div class="row leftpad">
 					<h2>Account</h2>
