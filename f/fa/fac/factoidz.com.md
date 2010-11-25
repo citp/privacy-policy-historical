@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628100049id_/http%3A//factoidz.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125053431id_/http%3A//factoidz.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Expert Advice & Forums on Health, Home Improvement, Finance & more
 
