@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nps.org.au privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628150907id_/http%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nps.org.au privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125020116id_/http%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <title>Privacy policy: National Prescribing Service Ltd NPS</title>
+    <title>Privacy policy: NPS - Better choices, Better health</title>
     <link rel="alternate" type="application/rss+xml" title="RSS feeds for NPS" href="/rss_feeds/home/nps/all">
     			<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_designs/nps/design_44/global.css" media="all">
 								<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_designs/nps/design_84/inside_-_customisation/about_this_website_-_customisation/left_nav.css" media="all">
@@ -10,8 +10,61 @@
 								<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_designs/nps/design_84/inside.css" media="all">
 								<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_designs/nps/design_84/inside_-_customisation/about_this_website_-_customisation/about_this_website_-_privacy_-_customisation/override.css" media="all">
 								<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_designs/nps/design_22418/print.css" media="print">
-					
+					    
     <link media="only screen and (max-device-width: 480px)" href="http://www.nps.org.au/_designs/nps/design_44/iphone.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" src="http://nps.org.au/__data/assets/text_file/0006/23496/jquery-1.2.3.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+      $('a').each(function() {
+        try
+        {
+          //Make sure it is a link and not another A markup
+          if($(this).attr('href') !== undefined && $(this).attr('href') !== false) 
+          {
+            
+              if($(this).attr('href').substr(0,7)=="http://" && $(this).attr('href').indexOf("nps.org.au") == -1)              {     
+                //Add the default tooltip for fully external sites
+                $(this).addClass("vtip");
+                $(this).attr('title',"External website. NPS may not endorse its content.");
+                
+                //Modify it to the associated external text if it is one of these sites
+                if($(this).attr('href').indexOf("www.australianprescriber.com") != -1 ||
+                  $(this).attr('href').indexOf("npsprescribe.lamsinternational.com") != -1 ||
+                  $(this).attr('href').indexOf("nps.lamsinternational.com") != -1 ||
+                  $(this).attr('href').indexOf("nimc.nps.org.au") != -1 ||
+                  $(this).attr('href').indexOf("qum4np.nps.org.au") != -1 ||
+                  $(this).attr('href').indexOf("casestudy.nps.org.au") != -1 ||
+                  $(this).attr('href').indexOf("forms.nps.org.au") != -1 ||
+                  //$(this).attr('href').indexOf("funnelback.com") != -1 ||
+                  $(this).attr('href').indexOf("server-webapps") != -1 ||
+                  $(this).attr('href').indexOf("agedcare.nps.org.au") != -1 ||
+                  $(this).attr('href').indexOf("addthis.com") != -1 ||
+                  $(this).attr('href').indexOf("twitter.com") != -1) 
+                {
+                           
+                    $(this).attr('title',"External NPS Website.");
+                    //$(this).removeClass("vtip");
+                }
+                                else
+                                {
+                                    if($(this).attr('href').indexOf("funnelback.com") != -1)
+                                    {
+                                        $(this).attr('title',"Advanced search.");
+                                    }
+                                }
+              }
+                                
+          }  
+        }
+        catch (err)
+        {
+        }
+        });
+});
+</script>
+<script type="text/javascript" src="./?a=89990"></script>
+<link rel="stylesheet" type="text/css" href="http://nps.org.au/_designs/nps/css/vtip.css">
 
     <!--[if IE 7]>
     
@@ -19,9 +72,6 @@
     <!--[if lt IE 7]>
     
     <![endif]-->
-<script type="text/javascript" src="http://www.nps.org.au/__data/assets/text_file/0014/3425/redirect_js.js"></script>
-<script type="text/javascript" src="http://www.nps.org.au/__data/assets/text_file/0006/23496/jquery-1.2.3.pack.js"></script>
-
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -45,7 +95,7 @@ pageTracker._trackPageview();
 <meta name="Subject" scheme="NPS Thesaurus" content="confidentiality; privacy">
 
 <!-- Drugs //-->
-<meta name="Active ingredient" content="">
+<meta name="Active ingredient 1" content="">
 <meta name="Active ingredient text pronunciation" content="">
 <meta name="Active ingredient sound bite" content="">
 <meta name="Brand" content="">
@@ -69,11 +119,20 @@ pageTracker._trackPageview();
 <meta name="DC.Format" scheme="IMT" content="HTML / Text">
 <meta name="DC.Format.Extent" content="0">
 
+<!-- Audio video metadata //-->
+<meta name="Runtime" content="00:00">
+<meta name="Filesize" content="0">
+<meta name="Width" content="0">
+<meta name="Height" content="0">
+<meta name="Copyright.Holder" content="NPS">
+<meta name="Copyright.Year" content="2010">
+<meta name="Copyright.Usage.Notice" content="">
+
 <!-- Dates //-->
-<meta name="DC.Date.Created" scheme="ISO8601" content="2008-01-31 17:17:37">
+<meta name="DC.Date.Created" scheme="ISO8601" content="2010-01-01 00:00:00">
 <meta name="DC.Date.Issued" scheme="ISO8601" content="2008-01-31 17:17:37">
-<meta name="DC.Date.Modified" scheme="ISO8601" content="2008-01-31 00:00:00">
-<meta name="DC.Date.Reviewed" scheme="ISO8601" content="2003-01-01 00:00:00">
+<meta name="DC.Date.Modified" scheme="ISO8601" content="2010-10-18 00:00:00">
+<meta name="DC.Date.Reviewed" scheme="ISO8601" content="2010-01-01 00:00:00">
 
 <!-- Quick Links //-->
 
@@ -85,7 +144,7 @@ pageTracker._trackPageview();
   Running MySource Matrix
   Developed by Squiz - http://www.squiz.net
   MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 29 June 2010 02:00:51
+  Page generated: 25 November 2010 13:01:15
 -->
 
 
@@ -95,7 +154,7 @@ pageTracker._trackPageview();
     <div id="page_width">
         <div id="header_wrapper">
             <div id="logo">
-                <div id="logo_text"><span><a href="/home">NPS - National Prescribing Service Limited</a></span></div><p>Accurate, balanced evidence-based information about medicines</p>
+                <div id="logo_text"><span><a href="http://www.nps.org.au">NPS - Better choices, Better health</a></span></div><p>Accurate, balanced evidence-based information about medicines</p>
             </div><!-- end of logo -->
             
 			            <form method="get" action="http://nps.funnelback.com/search/search.cgi">
@@ -136,7 +195,7 @@ pageTracker._trackPageview();
         <div id="column_container">
         <div id="page_tools">
   <ul>
-    <li><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=nps001"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=nps001"></script></li>
+    <li><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=nps001" addthis:ui_click="true"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=nps001"></script></li>
     <li><img src="http://www.nps.org.au/__data/assets/image/0013/139/divider.gif" alt=""></li>
     <li><a href="?SQ_DESIGN_NAME=print_friendly" rel="nofollow" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0005/140/printer_friendly.gif" alt="Printer Friendly"></a></li>
     <li><img src="http://www.nps.org.au/__data/assets/image/0013/139/divider.gif" alt=""></li>
@@ -167,7 +226,7 @@ pageTracker._trackPageview();
             <li><a href="http://www.nps.org.au/about_this_website/copyright" class="lvl_1 page_id_204"><span>Copyright</span></a>
             		
         </li>
-            <li><a href="http://www.nps.org.au/about_this_website/disclaimer" class="lvl_1 page_id_208"><span>Disclaimer</span></a>
+            <li><a href="http://www.nps.org.au/about_this_website/terms_of_use" class="lvl_1 page_id_208"><span>Terms of use</span></a>
             		
         </li>
             <li><a href="http://www.nps.org.au/about_this_website/contact_us" class="lvl_1 page_id_3016"><span>Contact Us</span></a>
@@ -193,20 +252,21 @@ pageTracker._trackPageview();
     
 <div class="contact" id="content_div_165">
 <img src="http://www.nps.org.au/__data/assets/image/0012/156/phone_logo.gif" alt="" class="phone_logo">
-<span class="red">Be MedicineWise</span><br>
-<p>Medicines information<br>
-	for the cost of a local call.</p><span class="red">Consumers</span><br>
+<span class="red">Be medicinewise</span><br>
 
-<div id="content_div_176">
-<p><span class="blue"><a href="http://www.nps.org.au/consumers/ask_an_expert/contact_a_pharmacist/medicines_line">Medicines Line</a></span><br>
+<div id="content_div_172">
+<p>Medicines information<br>
+for the cost of a local call.</p>
+
+<p><span class="blue"><a href="http://www.nps.org.au/consumers/ask_an_expert/contact_a_health_professional/medicines_line">Medicines Line</a></span><br>
 1300 MEDICINE<br>
 (1300 633 424)<br>
 Mon–Fri 9am–5pm AEST<br>
 Your call will be answered by <i>healthdirect Australia</i>.<br>
 <br>
-<span class="blue"><a href="http://www.nps.org.au/consumers/ask_an_expert/contact_a_pharmacist/adverse_medicines_events">Report a problem with<br>
+<span class="blue"><a href="http://www.nps.org.au/consumers/ask_an_expert/contact_a_health_professional/adverse_medicines_events">Report a problem with<br>
 your medicine</a></span><br>
-Call the Adverse Medicine Events Line on 1300 134 237.</p>
+Call the Adverse Medicine Events Line on 1300 134 237.<br></p>
 
 </div>
 
@@ -222,8 +282,200 @@ Call the Adverse Medicine Events Line on 1300 134 237.</p>
 
 		
 <div id="content_div_198">
+<p style="text-align: right;"><strong>This policy was updated 18 October 2010.</strong><br></p>
 
- <div style="text-align: right;"> <i>As of 19 March 2009 </i></div><p><i>This document sets out the policies undertaken by NPS in the collection, use and storage of personal information as part of our business to provide independent, evidence-based information and services to health professionals, the community and individuals on <a href="http://www.nps.org.au/about_us/what_we_do/about_quality_use_of_medicines">Quality Use of Medicines (QUM)</a>.</i></p><p>National Prescribing Service Ltd (NPS) (ACN 082 034 393) is bound by the <a href="http://www.privacy.gov.au/publications/npps01.html">National Privacy Principles</a> contained in the <a href="http://privacy.gov.au/act/index.html">Privacy Act 1988</a> (Cth) and relevant state and territory privacy legislation.</p><h2>What is personal information?</h2><p>Personal information is any information relating to an individual that is held by an organisation, such as your name and address. The personal information that NPS collects will vary depending on your relationship with us. More information on the types of personal information collected is set out in the How is it used section below.</p><h2>How is it collected?</h2><h3>On provision of information to us</h3><p>NPS primarily collects information about you when you use or request a product or service, complete a survey, questionnaire or enrolment form or when you communicate with NPS by email, telephone, in writing or in person. NPS also collects information about you if you are providing services to NPS or, if you are an NPS staff member, through the staff recruitment and selection process.</p><h3>From publicly available sources</h3><p>NPS also collects personal information from the public domain. This includes information from pharmacy registration boards.</p><h3>Indirect collection</h3><p>NPS tries to collect personal information about an individual only from that individual, but in some circumstances NPS may obtain personal information from a third party, such as an NPS Facilitator, general practice manager, your health professional, a member of your family, a friend or your carer. If you provide personal information about another person to NPS, we require that you inform that person you have done so.</p><h3>From the website</h3><p>When you visit the NPS website, our web server may download a cookie to your computer. A cookie is a small piece of information sent by our server to your browser. </p><p>To protect your privacy, your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. If you do not wish to receive any cookies, you may set your browser to refuse them; go to the browser’s help menu for instructions. </p><p>Cookies do not contain personal information about users. However, cookies can identify a user's browser. The cookies transferred by the NPS website are used for such things as capturing information about a user's web browser, controlling a pop-up window or enabling login access to password protected areas of the website.</p><p>This information is used for quality assurance and evaluation purposes.</p><h2>How is it used?</h2><p>The personal information gathered is necessary to assist NPS in its function of providing educational resources and medicines information services to customers and for evaluation purposes. It is used only for the intended purposes and will not be sold, re-used, rented or loaned for other purposes.</p><p>The personal information may be used by NPS for the distribution of its publications, provision of medicines information services, administering professional development programs at your request, promotion of educational activities including events and conferences and for communication with subscribers and activity participants. </p><p>NPS needs your consent to use your personal information, in accordance with the Privacy Act and the National Privacy Principles. In some instances, if you do not provide consent, we may be unable to assess or process your information to provide you with the programs or services you require.</p><p>In most cases, NPS implies your consent and permission to use the personal information you provide as part of the information services and educational activities to which you register, subscribe or contact directly.</p><p>At any time you can advise NPS of changes to your personal information or ask to be removed from our mailing lists by emailing info@nps.org.au, faxing 02 9211 7578 or posting to PO Box 1147 Strawberry Hills 2012.</p><h2>What types of personal information do we hold? </h2><p>The personal information that NPS collects could include your name, the organisation you work for, your postal address, telephone and fax numbers and your email address.&nbsp;</p><h3>Health professionals</h3><p>If you are a health professional, we may also need to request your occupation and professional interests in order to provide the appropriate services to you. Where you are participating in our educational activities, we may need to collect additional information to enable us to report your participation to agencies managing the continuous professional development and quality improvement programs in which you participate. <br></p><h3>Suppliers</h3><p>If you are one of our suppliers or provide services to us, such as expert advice and review, we may collect other information about you that we feel is necessary, such as the nature of the products and services that you provide, quotes that you provide and your direct credit details.<br></p><h3>Sensitive information</h3><p>NPS only collects sensitive information–such as health information and information about personal attributes such as ethnic or racial origin–when it is necessary for the provision and evaluation of the service requested. NPS will only collect and use this information with consent. <br>&nbsp;<br></p><h2>Collection and use of health information</h2><p>The only time that NPS collects identifiable health information specific to a person is to provide medicines information services to customers of its phone line services. More information on the handling of personal, sensitive and health information by our phone line services is set out below.</p><p>For all other services and products, NPS does not collect identifiable health information specific to a person, nor does it provide personal medical advice.<br></p><h3>Use of de-identified health information</h3><p>As part of its services, NPS offers doctors and pharmacists the opportunity to undertake quality assurance activities that require them to collect de-identified health information and disclose it to NPS for quality assurance purposes. </p><p>Doctors or pharmacists providing this data are advised what it will be used for and give NPS written consent for the de-identified data to be aggregated in feedback to other doctors or pharmacists. Doctors and pharmacists are given patient information materials for their waiting areas that describe the activity and use of health information.</p><p>De-identified data means that the health information about an individual patient is not linked to a name, address, date of birth or specific age. Instead the information is linked to an identification code (for example, sequential number and patient initials). This code is created and kept by the doctor, who is thus able to identify each patient. The original collection forms are returned to the doctor (or other health professional) by mail.</p><p>One potential identifier is the name and practice address of the doctor or pharmacist who is participating in the quality activity. In this case, another unique identifier is assigned to ensure all sensitive information is de-identified. This link between patient health data and the doctor’s identification is permanently destroyed at the end of each triennium of the Royal Australian College of General Practitioners’ <a href="http://www.racgp.org.au/QACPD">QA&amp;CPD</a> program. </p><p>When GPs send this type of information electronically, it is de-identified and encrypted before it is sent to NPS. It is highly secure. The health information held by NPS does not include any information which actually or potentially allows identification of an individual patient or health professional.<br>&nbsp;<br></p><h2>Customers of our phone line services</h2><p>NPS operates three phone line services:<br></p><ul><li>Medicines Line for consumers</li><li>Therapeutic Advice and Information Service (TAIS) for health professionals </li><li>Adverse Medicine Events Line (AME) for consumers wishing to report adverse experiences with their medicines.</li></ul><h3>Additional information that may be collected</h3><p>The service providers NPS contracts to deliver its phone line information services may need to collect health information specific to a person in order to deliver the medicines information service requested.<br>This information may include:<br></p><ul><li>The relationship the caller has to the patient or person they are calling on behalf of. NPS also requires those calling on behalf of someone else and providing personal information about them to inform the patient or person that they have done so</li><li>Age, date of birth and gender</li><li>Address, postcode, telephone and fax numbers and email addresses.</li><li>The caller’s profession (for TAIS customers only)</li><li>Medicines used or planned to be used</li><li>Medical history</li><li>Health professional’s contact details.</li></ul><h3>Protection and security</h3><p>These service providers are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth), relevant state and territory legislation and the NPS Privacy Policy. </p><p>The information collected by the phone line services is de-identified prior to its use for any additional purposes such as evaluation.&nbsp; <br></p><h3>Disclosure of phone line services information</h3><p>For consumers wishing to report an adverse drug reaction to the <a href="http://www.tga.gov.au/">Therapeutic Goods Administration</a> (TGA) via the Adverse Medicine Events Line, identifiable information will only be provided to the TGA with the consumer’s consent. De-identified information may be forwarded to the TGA for assessment and contribution to national medicine safety efforts.<br></p><h2>Protection and security</h2><p>NPS has a Privacy Officer and a Privacy Committee to oversee the management of personal information in accordance with this policy and privacy legislation.</p><p>NPS maintains the confidentiality and security of personal information by restricting access to only those staff and service providers required to provide management and administration services. Security measures are in place to prevent the misuse, unauthorised access, modification or disclosure of personal information.</p><p>NPS has archiving policies and procedures, which provide for the secure, permanent destruction of records of personal information when no longer required, in accordance with <a href="http://www.privacy.gov.au/publications/npps01.html#npp4">National Privacy Principle 4.2</a>.</p><h2>Disclosure</h2><p>It may be necessary for NPS to disclose personal information to third parties in the provision and administration of educational activities. Examples of the types of organisations to which NPS may disclose your information are: <br></p><ul><li>For general practitioners, NPS may provide Medicare Australia with your participation information to qualify you for <a href="http://www.medicareaustralia.gov.au/provider/incentives/pip/payment-formula/initiative.jsp">Quality Prescribing Initiatives</a> in the Practice Incentives Program</li><li>For health professionals, NPS may provide your professional association with the participation information that qualifies you for professional development points.</li></ul><p>In some cases, where verification can be provided, information on the activity status of the practice and/or general practitioners within that practice is provided to a practice manager.</p><p>If you subscribe to an NPS publication, NPS may need to disclose your information to contractors to whom NPS out-sources certain functions, such as mailing houses. NPS takes all reasonable measures with its contractors to ensure they comply with the privacy standards set out in the Privacy Act 1988 (Cth) and any relevant state and territory legislation. NPS may also disclose personal information in circumstances where it has statutory obligations or is otherwise required to do so by law.</p><p>NPS does not supply, sell or rent its clients’ information to unrelated third parties for the purpose of marketing those third parties’ products or services. <br></p><h2>Access and correction</h2><p>You have the right to ask for the personal information held about you and to advise of any inaccuracy. There are some exceptions to this set out in the Privacy Act.</p><p>If you make an access request, NPS will ask you to verify your identity and specify what information you require. NPS may ask the reason for your request so we can assist you most effectively. However, you are under no obligation to provide a reason if you do not wish to.<br></p><h2>Complaints</h2><p>If you believe your personal information is not properly protected, or that there has been a breach or potential breach of this Privacy Policy or the privacy legislation, please contact NPS immediately and ask for your complaint or concern to be directed to the Privacy Officer.</p><p>NPS takes breaches seriously and has procedures to help identify and resolve a breach, potential breach or complaint as quickly as possible. This includes appropriate escalation processes to the Privacy Committee and CEO and notification processes in the event of a breach. </p><p>Every complaint is forwarded by the staff member who receives it to the Privacy Officer. You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a suitable resolution negotiated with you.</p><p>If you are not satisfied with the resolution of your complaint by NPS you may contact the Office of the Federal Privacy Commissioner (www.privacy.gov.au/contact).<br></p><h2>Further information</h2><p>For enquiries or feedback about this policy, or for complaints about NPS’s handling of personal information, please contact the Privacy Officer:<br><br>Email: please use our <a href="http://www.nps.org.au/about_this_website/privacy/contact_us">online form</a><br>Telephone: 02 8217 8700<br>Facsimile: 02 9211 7578<br>Mail: The Privacy Officer <br>National Prescribing Service Ltd <br>PO Box 1147 <br>Strawberry Hills <br>NSW 2012 </p><p> </p><h2> </h2><h3> </h3><h3> </h3><p> </p><h3> </h3><p> </p><h2> </h2>
+<p>This document sets out the types of personal information held by National Prescribing Service Limited (NPS) (ABN 61 082 034 393) and how NPS collects, holds, uses and discloses that information as part of our business to provide independent, evidence-based information and services to health professionals, the community and individuals on the quality use of medicines and medical tests.</p>
+
+<p>NPS is bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth) and relevant state and territory privacy legislation.</p>
+
+<h2>What is personal information?</h2>
+
+<p>Personal information is any information that identifies you or from which your identity could be reasonably ascertained. The types of personal information that NPS collects will vary depending on your relationship with us.<br></p>
+
+<h2>How types of personal information is collected?</h2>
+
+<p>The personal information that NPS collects could include your name, age, gender, the organisation you work for, your postal address, telephone and fax numbers and your email address.<br></p>
+
+<h3>Health professionals</h3>
+
+<p>If you are a health professional or health professional student, we may also collect details of your:<br></p>
+
+<ul>
+  <li>occupation</li>
+
+  <li>membership of professional associations</li>
+
+  <li>provider and/or prescriber number, and</li>
+
+  <li>professional interests,</li>
+</ul>
+
+<p>In order to:<br></p>
+
+<ul>
+  <li>provide the appropriate services to you</li>
+
+  <li>conduct research and evaluation programs, or</li>
+
+  <li>report your participation to bodies managing the educational, continuous professional development or quality improvement programs in which you participate.</li>
+</ul>
+
+<h3>Suppliers</h3>
+
+<p>If you are one of our suppliers or provide services to us, we may collect other information about you that we feel is necessary, such as the nature of the products and services that you provide, quotes that you provide and your direct credit details.<br></p>
+
+<h3>Sensitive information</h3>
+
+<p>NPS may collect sensitive information–such as health information and information about personal attributes such as ethnic or racial origin–when it relates to the provision of a service or its evaluation.&nbsp; Where you request the provision of specific information relating to health conditions (for example by contacting NPS’ phone line services or requesting educational material), this may result in NPS collecting health information about you. NPS will only collect this information with your consent or otherwise in accordance with the National Privacy Principles and relevant privacy legislation.<br></p>
+
+<h3>Use of de-identified health information</h3>
+
+<p>As part of its services, NPS offers health professionals the opportunity to undertake quality assurance activities that require them to collect health information about individuals and disclose it to NPS on a de-identified basis for quality assurance purposes.</p>
+
+<p>Health professionals providing de-identified data are advised what it will be used for and give NPS written consent for the data to be aggregated in feedback material provided to other health professionals or professional bodies.&nbsp; This aggregated de-identified data may also be used in NPS evaluation studies and reports.</p>
+
+<p>Data submitted to NPS is first encrypted using PKI (Public Key Infrastructure) encryption and then transmitted via a secure protocol so that NPS is unable to identify the individual the subject of the data.<br></p>
+
+<h3>Consequences of not providing information</h3>
+
+<p>In some instances if all necessary personal information is not provided, NPS may be unable to assess or process your information or provide you with the programs, services, materials or products you require.<br></p>
+
+<h2>How is personal information collected?</h2>
+
+<h3>On provision of information to us</h3>
+
+<p>NPS primarily collects information about you when you use or request a product or service, complete a survey, questionnaire or enrolment form or when you communicate with NPS by email, telephone, in writing or in person. NPS also collects information about you if you are providing services to NPS or, if you apply for employment at NPS, through the staff recruitment and selection process.<br></p>
+
+<h3>From publicly available sources</h3>
+
+<p>NPS also collects personal information from the public domain, for example from professional registration boards.<br></p>
+
+<h3>Indirect collection</h3>
+
+<p>NPS tries to collect personal information about an individual only from that individual, but in some circumstances NPS may obtain personal information from a third party, such as an NPS Facilitator, general practice manager, your health professional, a member of your family, a friend or your carer. If you provide personal information about another person to NPS, we require that you inform that person you have done so.<br></p>
+
+<h3>From the website</h3>
+
+<p>When you visit the NPS website, our web server may download a cookie to your computer. A cookie is a small piece of information sent by our server to your browser.</p>
+
+<p>To protect your privacy, your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. If you do not wish to receive any cookies, you may set your browser to refuse them; go to the browser’s help menu for instructions.</p>
+
+<p>Cookies do not contain personal information about users. However, cookies can identify a user's browser. The cookies transferred by the NPS website are used for such things as capturing information about a user's web browser, controlling a pop-up window or enabling login access to password protected areas of the website.<br></p>
+
+<h2>How is personal information used?</h2>
+
+<p>The personal information collected by NPS is used by NPS in accordance with the Privacy Act and the National Privacy Principles to:<br></p>
+
+<ul>
+  <li>provide information (such as publications, subscriptions, materials and products) to health professionals, health professional students and consumers</li>
+
+  <li>conduct evaluations of NPS products, materials, programs and services</li>
+
+  <li>assist in NPS conducting research</li>
+
+  <li>create individual health stories which are published and/or broadcast to promote the quality use of medicines and/or medical tests and record the background information concerning the subject of the health story (including the individual’s consent to appear in the same)</li>
+
+  <li>record and monitor the participation in and use of educational materials and products by health professionals, health professional students and educational institutions</li>
+
+  <li>report continuing professional development points and/or participation in practice incentive activities where relevant</li>
+
+  <li>promote educational activities including events and conferences</li>
+
+  <li>in the case of the NPS phone line services, provide a health service</li>
+
+  <li>contact individuals for feedback on NPS’ products, materials, programs and services, and</li>
+
+  <li>assist NPS perform its corporate and contractual obligations.</li>
+</ul>
+
+<h2>How is personal information disclosed?</h2>
+
+<p>Personal information held by NPS is disclosed by NPS in accordance with the Privacy Act and the National Privacy Principles.</p>
+
+<p>Where NPS provides or administers education or participation activities for health professionals or health professional students, NPS may disclose personal information to relevant institutions for the purposes of monitoring the participation and use (against course or institution requirements) and to professional associations for the purpose of recording continuing professional development points.</p>
+
+<p>In some cases, information on the education or participation activity status of health professionals within a practice is provided to a practice manager of that practice.</p>
+
+<p>NPS may disclose your information to contractors to whom NPS out-sources certain functions or which provide services to NPS, such as bodies that assist in conducting or analysing research and print, data capture, mailing and distribution houses.&nbsp; NPS takes all reasonable measures with its contractors to ensure they comply with the privacy standards set out in the Privacy Act 1988 (Cth) and any relevant state and territory legislation.&nbsp; NPS may also disclose your information to its research partners where this is approved by the relevant Human Research Ethics Committee.&nbsp;</p>
+
+<p>Personal information incorporated into health stories may be disclosed to the general public when the health story is published and/or broadcast.&nbsp; The information disclosed in these circumstances would not include an individual’s address, phone number, email address or other contact details.<br></p>
+
+<p>NPS may also disclose personal information in circumstances where it has statutory obligations or is otherwise required to do so by law.</p>
+
+<p>NPS does not supply, sell or rent the personal information it collects to unrelated third parties for the purpose of marketing those third parties’ products or services.<br></p>
+
+<h2>Customers of our phone line services</h2>
+
+<p>NPS operates two phone line services:<br></p>
+
+<ul>
+  <li>Medicines Line for consumers which is operated by NPS in collaboration with <em>healthdirect Australia</em></li>
+
+  <li>Adverse Medicine Events Line (AME) for consumers wishing to report adverse experiences with their medicines. This service is currently provided by the Mater Misercordiae Health Services Brisbane Limited (the “Mater”).</li>
+</ul>
+
+<p>In delivering the phone line information services NPS or the Mater may need to collect health information specific to a person in order to deliver the medicines information service requested.</p>
+
+<p>This information may include:<br></p>
+
+<ul>
+  <li>the relationship the caller has to the patient or person they are calling on behalf of and whether or not consent for making the call has been given. NPS also requires those calling on behalf of someone else and providing personal information about them to inform the patient or person that they have done so</li>
+
+  <li>age, date of birth and gender</li>
+
+  <li>address, postcode, telephone and fax numbers and email addresses</li>
+
+  <li>medicines used or planned to be used</li>
+
+  <li>medical history</li>
+
+  <li>health professional’s contact details.</li>
+</ul>
+
+<p>The information collected by the phone line services is de-identified prior to its use by NPS for any additional purposes such as evaluation.</p>
+
+<p>For consumers wishing to report an adverse drug reaction to the Therapeutic Goods Administration (TGA) via the Adverse Medicine Events Line, identifiable information will only be provided to the TGA with the consumer’s consent. De-identified information may be forwarded to the TGA for assessment and contribution to national medicine safety efforts.<br></p>
+
+<h2>Protection and security</h2>
+
+<p>NPS has a Privacy Officer and a Risk Committee to oversee the management of personal information in accordance with this policy and privacy legislation.</p>
+
+<p>NPS maintains the confidentiality and security of personal information by restricting access to only those staff and service providers with a legitimate need to access it. Security measures are in place to prevent the misuse, unauthorised access, modification or disclosure of personal information.</p>
+
+<p>NPS has archiving policies and procedures, which provide for the secure, permanent destruction of records of personal information when no longer required, in accordance with National Privacy Principle 4.2. Data collected for research purposes is stored and disposed of in accordance with National Health and Medical Research Council guidelines.<br></p>
+
+<h2>Access and correction</h2>
+
+<p>At any time you can advise NPS of changes to your personal information or ask to be removed from our mailing lists by contacting us at our address below.</p>
+
+<p>You have the right to ask for the personal information held about you and to advise of any inaccuracy. There are some exceptions to this set out in the Privacy Act.</p>
+
+<p>If you make an access request, NPS will ask you to verify your identity and specify what information you require. NPS may ask the reason for your request so we can assist you most effectively. However, you are under no obligation to provide a reason if you do not wish to.<br></p>
+
+<h2>Complaints</h2>
+
+<p>If you believe your personal information is not properly protected, or that there has been a breach or potential breach of this Privacy Policy or the privacy legislation, please contact NPS immediately and ask for your complaint or concern to be directed to the Privacy Officer.</p>
+
+<p>NPS takes breaches seriously and has procedures to help identify and resolve a breach, potential breach or complaint as quickly as possible. This includes appropriate escalation processes to the NPS Risk Committee and CEO and notification processes in the event of a breach.</p>
+
+<p>Every complaint is forwarded by the staff member who receives it to the Privacy Officer. You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a suitable resolution negotiated with you.</p>
+
+<p>If you are not satisfied with the resolution of your complaint by NPS you may contact the <a href="http://www.privacy.gov.au/contact" target="_blank">Office of the Federal Privacy Commissioner</a> (www.privacy.gov.au/contact) who may investigate your complaint and has the power to award compensation against NPS in appropriate circumstances.<br></p>
+
+<h2>Further information</h2>
+
+<p>For enquiries or feedback about this policy, or for complaints about NPS’ handling of personal information, please contact the Privacy Officer:</p>
+
+<p>Email: <a href="mailto:privacy@nps.org.au">privacy@nps.org.au</a><br>
+Telephone: 02 8217 8798<br>
+Facsimile: 02 9211 7578<br>
+<br>
+Mail: The Privacy Officer<br>
+National Prescribing Service Ltd<br>
+PO Box 1147<br>
+Strawberry Hills<br>
+NSW 2012<br></p>
+
 </div>
 </div><!-- end of inside_content -->
          </div><!-- end of column_container -->
@@ -233,7 +485,7 @@ Call the Adverse Medicine Events Line on 1300 134 237.</p>
             <h3>Footer</h3>
             <div id="footer_links">
 
-			<a href="http://www.nps.org.au/about_this_website/accessibility" class="page_id_192">Accessibility</a> | <a href="http://www.nps.org.au/about_this_website/privacy" class="page_id_196">Privacy</a> | <a href="http://www.nps.org.au/about_this_website/sitemap" class="page_id_200">Sitemap</a> | <a href="http://www.nps.org.au/about_this_website/copyright" class="page_id_204">Copyright</a> | <a href="http://www.nps.org.au/about_this_website/disclaimer" class="page_id_208">Disclaimer</a> | <a href="http://www.nps.org.au/rss_feeds" class="page_id_3050">RSS Feeds</a> | <a href="http://www.nps.org.au/about_this_website/contact_us" class="page_id_3016">Contact Us</a>			              
+			<a href="http://www.nps.org.au/about_this_website/accessibility" class="page_id_192">Accessibility</a> | <a href="http://www.nps.org.au/about_this_website/privacy" class="page_id_196">Privacy</a> | <a href="http://www.nps.org.au/about_this_website/sitemap" class="page_id_200">Sitemap</a> | <a href="http://www.nps.org.au/about_this_website/copyright" class="page_id_204">Copyright</a> | <a href="http://www.nps.org.au/about_this_website/terms_of_use" class="page_id_208">Terms of use</a> | <a href="http://www.nps.org.au/rss_feeds" class="page_id_3050">RSS</a> | <a href="http://www.nps.org.au/about_this_website/contact_us" class="page_id_3016">Contact us</a>			              
 </div>
             <div id="footer_text">
 
@@ -244,10 +496,10 @@ Call the Adverse Medicine Events Line on 1300 134 237.</p>
 </div>
 
 <div id="logos">
- <div id="comply">This site complies to the <a href="http://www.hon.ch/HONcode/Conduct.html" onclick="window.open(this.href); return false;"> HONcode standard for trustworthy health</a> information: 
- <a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct933561" onclick="window.open(this.href); return false;">verify here</a>.
+ <div id="comply">This site complies to the <a href="http://www.hon.ch/HONcode/Conduct.html"> HONcode standard for trustworthy health</a> information: 
+ <a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct933561">verify here</a>.
  </div>
- <a href="http://www.healthinsite.gov.au/" rel="external" title="Health Insite"><img src="http://www.nps.org.au/_designs/nps/design_44/footer_logo_health.gif" alt="Health Insite Logo" height="62" width="122"></a> <a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct933561" onclick="window.open(this.href); return false;"> 
+ <a href="http://www.healthinsite.gov.au/" rel="external" title="Health Insite"><img src="http://www.nps.org.au/_designs/nps/design_44/footer_logo_health.gif" alt="Health Insite Logo" height="62" width="122"></a> <a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct933561"> 
  <img src="http://www.hon.ch/HONcode/Seal/HONConduct933561_s1.gif" style="border: 0px none ;" title="This website is certified by Health On the Net Foundation. Click to verify." alt="This website is certified by Health On the Net Foundation. Click to verify." height="60" width="43"></a></div>
 </div>
         <!-- end of page_width -->
