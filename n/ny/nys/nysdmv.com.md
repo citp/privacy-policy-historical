@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the nysdmv.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005243id_/http%3A//www.nysdmv.com/securitylocal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysdmv.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125185137id_/http%3A//nysdmv.com/securitylocal.htm) for the most accurate reproduction.*
 
 # NYS DMV - Privacy and Security Statement
 
 #### New York State Department of Motor Vehicles Internet Office:
 
-**www.nysdmv.com  
+**www.dmv.ny.gov  
+www.nysdmv.com  
 www.nydmv.state.ny.us  
 www.dmv.state.ny.us**
 
@@ -72,7 +73,7 @@ The collection of information through this website and the disclosure of that in
 
 However, the New York State Department of Motor Vehicles may collect or disclose personal information without consent if the collection or disclosure is: (1) necessary to perform the statutory duties of the New York State Department of Motor Vehicles, or necessary for the New York State Department of Motor Vehicles to operate a program authorized by law, or authorized by state or federal statute or regulation; (2) made pursuant to a court order or by law; (3) for the purpose of validating the identity of the user; or (4) of information to be used solely for statistical purposes that is in a form that cannot be used to identify any particular person.
 
-Further, the disclosure of information, including personal information, collected through this website is subject to the provisions of the Freedom of Information Law and the Personal Privacy Protection Law and the [Driver Privacy Protection Act](https://web.archive.org/web/20100102005243id_/http%3A//www.nysdmv.com/qaprive.htm) (DPPA).
+Further, the disclosure of information, including personal information, collected through this website is subject to the provisions of the Freedom of Information Law and the Personal Privacy Protection Law and the [Driver Privacy Protection Act](https://web.archive.org/web/20101125185137id_/http%3A//nysdmv.com/qaprive.htm) (DPPA).
 
 The New York State Department of Motor Vehicles may disclose personal information to federal or state law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to the New York State Department of Motor Vehicles' information technology assets.
 
