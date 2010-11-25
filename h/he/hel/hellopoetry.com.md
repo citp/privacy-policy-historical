@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellopoetry.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529191756id_/http%3A//hellopoetry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopoetry.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125225904id_/http%3A//hellopoetry.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hello Poetry
 
