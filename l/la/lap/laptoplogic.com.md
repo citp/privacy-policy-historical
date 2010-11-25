@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622005736id_/http%3A//laptoplogic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125193306id_/http%3A//laptoplogic.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LaptopLogic.com
 
