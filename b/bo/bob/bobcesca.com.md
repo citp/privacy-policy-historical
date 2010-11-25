@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobcesca.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509030414id_/http%3A//www.bobcesca.com/blog-archives/2005/11/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobcesca.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125023838id_/http%3A//www.bobcesca.com/blog-archives/2005/11/privacy_policy.html) for the most accurate reproduction.*
 
 # Bob Cesca's Awesome Blog! Go!: Privacy Policy
 
@@ -32,7 +32,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Thank you and have a nice day.
 
-[](http://digg.com/submit?url=http://www.bobcesca.com/blog-archives/2005/11/privacy_policy.html&title=Privacy%20Policy)|   | [](http://www.reddit.com/submit)|   | [](http://www.facebook.com/share.php?u=http://www.bobcesca.com/blog-archives/2005/11/privacy_policy.html)|   | [](http://delicious.com/save)|   | [](http://www.stumbleupon.com/submit?url=http://www.bobcesca.com/blog-archives/2005/11/privacy_policy.html&title=Privacy%20Policy)  
----|---|---|---|---|---|---|---|---  
   
+
+
 Posted By Bob Cesca | November 3, 2005 11:12 AM 
