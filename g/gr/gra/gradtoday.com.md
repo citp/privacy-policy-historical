@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradtoday.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619165621id_/http%3A//www.gradtoday.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradtoday.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125034640id_/http%3A//www.gradtoday.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Grad Today Future in Education
 
