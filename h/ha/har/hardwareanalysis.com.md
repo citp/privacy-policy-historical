@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621230150id_/http%3A//www.hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125113855id_/http%3A//www.hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,6 @@ When you visit Hardware Analysis, you will do so anonymously and can access info
 
 You have the right to access and correct your personal information and privacy preferences at any time. With respect to Registration Information, this may be accomplished by linking to User Profile, where you can view and make changes to your personal information. You may also access and correct your personal information and privacy preferences by emailing Hardware Analysis at [webmaster@hardwareanalysis.com](mailto:webmaster@hardwareanalysis.com). Please include your user name, email address, and password when you contact us. 
 
-If you believe that Hardware Analysis has not complied with this Privacy Policy with respect to your personal information, you may email Hardware Analysis at the address indicated above. In your email, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
+If you believe that Hardware Analysis has not complied with this Privacy Policy with respect to your personal information, you may email Hardware Analysis at the address indicated above. In your email, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
