@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sport.co.uk privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011043501id_/http%3A//www.sport.co.uk/corporative/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport.co.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125145748id_/http%3A//www.sport.co.uk/corporative/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Sport.co.uk
 
-[Sport.co.uk](https://web.archive.org/default.aspx) > Privacy Policy
+[](https://web.archive.org/)Privacy Policy
 
 ## Privacy Policy
 
@@ -83,33 +83,35 @@ E-mail: info@sport.co.uk
 
 **Privacy Policy Last Updated Date:** Wed 30th January 2008 
 
-FREE SPORT.CO.UK E-NEWSLETTER 
-
 [ ](http://www.adobe.com/go/getflashplayer)
 
-Live Results
+Advertising
 
-These results will be updated in     seconds.
+Back the Bid Now
 
-No matches today Today - 11 October 2008   
----  
-0 / 0 < >  
-  
-Sports Betting 
+[](http://tickets.onthebox.com/sport-tickets/)
+
+Hot Sport Babe of the Week
+
+[](https://web.archive.org/news/Hot_Babe_at_Sportcouk/47206/Land_of_Hope_and_Glory.aspx) **[Land of Hope and Glory](https://web.archive.org/news/Hot_Babe_at_Sportcouk/47206/Land_of_Hope_and_Glory.aspx)**  
+Earlier this year esteemed gentlemen’s monthly publication Playboy – you may have heard of it – selected the delightful Hope Dworaczyk...  
 
 Latest Poll 
 
-Do England have what it takes to win the World Cup?
+Who was the Premier League star of the weekend?
 
-Yes  
-No
+Kevin Davies (Bolton Wanderers)   
+Johann Elmander (Bolton Wanderers)   
+Ben Foster (Birmingham City)   
+William Gallas (Tottenham Hotspur)   
+Patrice Evra (Manchester United)   
+Raul Meireles (Liverpool)   
+Carlos Tevez (Manchester City)   
+Yaya Toure (Manchester City)   
+Jon Walters (Stoke City)   
+Luke Varney (Blackpool)   
+Morten Gamst Pedersen (Blackburn Rovers) 
 
-Hot Sport Babe of the Week 
+Cartoon
 
-[](https://web.archive.org/news/Hot_Babe_at_Sportcouk/7931/Spike_it_like_its_hot.aspx) **[Spike it like it's hot](https://web.archive.org/news/Hot_Babe_at_Sportcouk/7931/Spike_it_like_its_hot.aspx)**  
-This week sport.co.uk was in Brazil catching up with Denise Johns who we’ve officially crowned our new favourite British beach volleyball...  
-
-Transfer Tittle Tattle 
-
-[](https://web.archive.org/gossip/98/Arsene_wants_Afellay_at_Arsenal.aspx) **[Arsene wants Afellay at Arsenal](https://web.archive.org/gossip/98/Arsene_wants_Afellay_at_Arsenal.aspx)**  
-Arsenal are ready to make a move for Dutch international Ibrahim Afellay in January. The 22-year-old...  [read more](https://web.archive.org/gossip/98/Arsene_wants_Afellay_at_Arsenal.aspx)
+[](https://web.archive.org/cartoon/77/England_deny_any_distractions_are_distracting.aspx)
