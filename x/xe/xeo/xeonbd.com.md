@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the xeonbd.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114160700id_/http%3A//www.xeonbd.com/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeonbd.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125122934id_/http%3A//www.xeonbd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Xeon Software Limited
+# Privacy Policy
 
-Privacy Policy
+  
+  
+
 
 Xeon Software Limited is committed to protect the privacy of its customers. This privacy policy governs the manner in which Xeon Software Limited uses, maintains and discloses information collected from customers and users of Xeon Software Limited website. Xeon Software Limited is committed to develop long lasting relationships based on trust. Xeon Software Limited will do everything in its power to ensure that your right to privacy is maintained and protected. This privacy policy applies to the websites managed by Xeon Software Limited as well as the services and products provided through this site. From time to time we may make alterations to our website and to the products and services provided through it. This may result in periodic changes to the privacy policy. Any such changes will be posted on our website and we would ask that you refer back to it regularly in order to review any changes.
 
 Use of the Xeon Software Limited's website and services indicates your consent to the collection and use of information as described below.
 
-Any questions which you may have regarding this privacy policy should be directed to **::** [info@xeonbd.com](mailto:info@xeonbd.com) (info)
+Any questions which you may have regarding this privacy policy should be directed to **::** sales [at] xeonbd [dot] com (sales)
 
 **1\. What information is collected and how is it used?**
 
@@ -46,7 +48,7 @@ Xeon Software Limited website contains advertising and links to other websites. 
 
 **8\. Changes to Personal Information**
 
-If you need to change the information that we keep, for example because you have moved or to correct an error, please contact us at **::** [info@xeonbd.com](mailto:info@xeonbd.com) (info)
+If you need to change the information that we keep, for example because you have moved or to correct an error, please contact us at **::** sales [at] xeonbd [dot] com (sales)
 
 **9\. Service Announcements**
 
@@ -66,7 +68,7 @@ _annual_
 
 Linux hosting service, you may choose to cancel your subscription for a full refund. Only webhosting service covers this 30 Days Money Back policy. Domain name registration and additional services, all of which are non-refundable..
 
-If you would like to cancel your account for any reason, then please contact Xeon Software Limited  Hosting billing department at: [billing@xeonbd.com](mailto:billing@xeonbd.com) .
+If you would like to cancel your account for any reason, then please contact Xeon Software Limited Hosting billing department at: sales [at] xeonbd [dot] com (sales).
 
 30 Days Money Back Guarantee only valid for the clients sign up from Bangladesh and for getting your money back you must visit Xeon Software Limited's office.
 
