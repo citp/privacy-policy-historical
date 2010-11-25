@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411081959id_/http%3A//www.kenexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125083210id_/http%3A//www.kenexa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenexa - HR Success Multiplied
 
