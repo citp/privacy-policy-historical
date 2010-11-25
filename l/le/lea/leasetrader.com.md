@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525211538id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125102617id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - LeaseTrader.com
 
-**Privacy Statement**  
-
+**Privacy Statement**
 
 **THE INFORMATION WE COLLECT**  
 At LeaseTrader.com you can take-over a lease, post a lease, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
@@ -43,5 +42,4 @@ If you feel that this company is not abiding by its posted privacy policy, pleas
 LeaseTrader.com   
 1835 E. Hallandale Blvd.   
 Suite 431   
-Hallandale, Florida 33009  
-
+Hallandale, Florida 33009
