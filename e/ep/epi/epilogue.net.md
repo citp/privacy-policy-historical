@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Epilogue.net - Fantasy and Sci-fi at their best© [Fantasy art, sci-fi art, anime and more!]
+# Fantasy Art at Epilogue.net - Privacy Policy - Fantasy and Sci-fi at their best� [Fantasy art, sci-fi art, anime and more!]
 
 At Epilogue, we respect your privacy and take the responsibility of protecting the personal information that you share with us very seriously. To earn your trust and confidence in Epilogue, we are disclosing our privacy practices and the uses of the information that we gather.
 
 These links provide detailed information about Epilogue's privacy policies:
 
-  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
-  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
-  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
+  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
+  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
+  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
 
 
 
-If you have questions about this Privacy Statement or believe that Epilogue has acted in a manner inconsistent with this statement, please send email to [webmaster@epilogue.net](mailto:webmaster@isyndicate.com).
+If you have questions about this Privacy Statement or believe that Epilogue has acted in a manner inconsistent with this statement, please send email to [webmaster@epilogue.net](mailto:webmaster@epilogue.net).
 
 Epilogue reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective.
 
@@ -36,8 +36,12 @@ A cookie is a small piece of information that a Web site stores in your Web brow
 
 You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set at all. 
 
-**However, if you prevent cookies from being set you will not be able to login!**   
-For more information on cookies, please visit <http://help.netscape.com/kb/consumer/19970226-2.html>
+**However, if you prevent cookies from being set you will not be able to login!**
+
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy. ](http://www.google.com/privacy_ads.html)
+
+[   
+For more information on cookies, please visit ](http://www.google.com/privacy_ads.html)<http://help.netscape.com/kb/consumer/19970226-2.html>
 
 **What personal information does Epilogue collect and how is it used?**
 
@@ -67,9 +71,11 @@ If, at any time, you would no longer wish to receive mailings from Epilogue, sim
 We save your personal information until you are no longer a member of Epilogue. If you would like to remove yourself as an Epilogue member, please email [support@epilogue.net](mailto:support@epilogue.net). Once you've left, we will delete your information from our active database. However, residual information will remain on our archived database and records, but it will not be used for commercial purposes.
 
 **3rd Party Served Advertising**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it and its partners to serve ads to users based on visits to sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html). 
 
-Epilogue.net uses 3rd Party advertising agencies to handle selling and filling of advertising space on the web site. Each 3rd party company has its own privacy practices and policies. Follow these links for more information:  
+Each 3rd party company has its own privacy practices and policies. Follow these links for more information:  
 [Adtegrity](http://www.adtegrity.com/privacy.asp)  
 [Burst!](https://www.burstmedia.com/release/privacy.asp)  
 [Fastclick](http://www.fastclick.com/about/privacy.html)  
