@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171025id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125043937id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
@@ -119,13 +119,12 @@ Last updated July 11, 2005.
 
 sponsored announcements and special offers
 
-**Project management is one of the top 3 skills that employers are looking for in 2010. Are your skills up to date?** Get the latest on new and hot topics – from Agile to PMOs – at PMI's Mega SeminarsWorld®! Nearly 40 seminars packed into one "mega" professional development event. **[Reserve your seat today!](http://www.gantthead.com/redirect/clickCount.cfm?ID=256429)**
+**Where do project pros get their knowledge?** At **[PMI Marketplace](http://www.gantthead.com/redirect/clickCount.cfm?ID=260312)** , your source for all things project management. Find project tools, such as the latest books, articles and papers, from project management's leading authority. Visit now! 
 
-**NEW! Gartner Customer 360 Summit** , June 28-30, is a **must-attend CRM conference** designed to help **business and IT leaders** collaborate in implementing CRM strategies and technologies to understand, grow and engage customers. **[Save $300 when you register with priority code CRMGH at gartner.com/us/crm](http://www.gantthead.com/redirect/clickCount.cfm?ID=256483)**
+**Manage Massive Projects. Enjoy Massive Savings.** And set your projects up for success with MindManager. Intuitive mapping software that works hand-in-hand with your existing office applications, _plus 19 visual project management templates_. Now get permanent access to mapping's project management power—at a special price. **[Learn how!](http://www.gantthead.com/redirect/clickCount.cfm?ID=260395)**
 
-**Ten Things to Consider When Evaluating End-User Experience Monitoring Solutions**  
-End-user monitoring is an integral part of what organizations need to have in place when managing the performance of business-critical applications. **[This report](http://www.gantthead.com/redirect/clickCount.cfm?ID=255821)** highlights ten key items businesses should be aware of when evaluating end-user monitoring solutions. 
+**Build and deploy interactive reports and dashboards — without any hidden costs.** Our in-the-cloud free trial lets you see for yourself — no download required. [**SAP Crystal Reports Server 60-day Free Trial**](http://ad.doubleclick.net/jump/N5072.124671.GANTTHEAD.COM1/B4652661.7;sz=1x1;ord=%3Ctimestamp%3E?)
 
-"I'm not afraid to die, I just don't want to be there when it happens."  
+"I must say that I find television very educational. The minute somebody turns it on, I go to the library and read a book."  
 ---  
-\- Woody Allen
+\- Groucho Marx
