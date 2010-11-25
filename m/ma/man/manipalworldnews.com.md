@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manipalworldnews.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614014442id_/http%3A//www.manipalworldnews.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manipalworldnews.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125164350id_/http%3A//www.manipalworldnews.com/privacy.asp) for the most accurate reproduction.*
 
 # ::Manipal World News::
 
-[](http://www.manipalworldnews.com/news_local.asp?id=356)   
+[](http://www.manipalworldnews.com/classifieds.asp?id=50)   
 
 
 * * *
