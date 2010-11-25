@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605122845id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125174130id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
 
 # Protecting your privacy - SGI
 
@@ -8,7 +8,7 @@
 
 At SGI we value our customers and take your privacy seriously. You can rest assured that we’ll protect and respect your personal information and privacy.
 
-This information complements our [Corporate Privacy Policy](https://web.archive.org/web/20100605122845id_/http%3A//www.sgi.sk.ca/corporate_privacy_policy.pdf), which we developed to anticipate a broad range of circumstances.
+This information complements our [Corporate Privacy Policy](https://web.archive.org/web/20101125174130id_/http%3A//www.sgi.sk.ca/corporate_privacy_policy.pdf), which we developed to anticipate a broad range of circumstances.
 
 Our commitment to you is to collect only the information we need to conduct your business and to adhere to industry best practices in handling and protecting your personal information.
 
