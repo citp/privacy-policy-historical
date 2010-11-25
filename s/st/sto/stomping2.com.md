@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stomping2.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525235341id_/http%3A//www.stomperblog.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stomping2.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125134320id_/http%3A//www.stomperblog.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | StomperNet
 
 Browse >
 
-[Home](http://www.stomperblog.com/ "Browse to: Home") / Privacy Policy 
+[Home](http://www.stompernet.com/blog "Browse to: Home") / Privacy Policy 
 
 StomperNet is committed to protecting your privacy and developing technology  
 that gives you the most powerful and safe online experience. This  
