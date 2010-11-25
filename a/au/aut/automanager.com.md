@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507150143id_/http%3A//www.automanager.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125165316id_/http%3A//www.automanager.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # AutoManager.com | Legal Notices | Privacy Policy
 
@@ -12,7 +12,7 @@ We will ask you when we need information that personally identifies you (persona
 
 We use your personal information for the following purposes:
 
-  * To ensure our site is relevant to your needs.
+  * To ensure our products are relevant to your needs.
   * To deliver services or software that you request or purchase.
   * To help us create and publish content most relevant to you.
   * To allow you access to limited entry areas of our site as appropriate.
@@ -31,7 +31,7 @@ Your information may be stored and processed in the United States or any other c
 
 When you give us any personal information, AutoManager will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-AutoManager may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
+AutoManager may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service.
 
 ## Security of your Personal Information
 
