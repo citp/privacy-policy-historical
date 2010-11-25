@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectoptimizer.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529185420id_/http%3A//www.perfectoptimizer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectoptimizer.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125140537id_/http%3A//www.perfectoptimizer.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Perfect Optimizer - Best Registry Cleaner For Windows7/Vista/XP/2003/ME/NT/2000/98 To Optimize Your PC
+# Privacy Policy * fix clean repair registry errors to optimize your computer
 
 **Perfect Optimizer** the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy
 
