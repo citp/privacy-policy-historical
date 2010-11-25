@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the halstead.com privacy policy that was archived on 2010-01-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100119004804id_/http%3A//www.halstead.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halstead.com privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125074252id_/http%3A//halstead.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head><title>Halstead Property | Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Keywords" content="Halstead: Manhattan Real Estate Brokers NYC residential property listings New York City, Real Estate, nyc real estate, Manhattan real estate, Brooklyn real estate, Riverdale real estate, New York City apartments, nyc apartments, Manhattan apartments, Brooklyn apartments, Riverdale apartments, New York City coops, Manhattan coops, Brooklyn coops, Riverdale coops, New York City condos, Manhattan condos, Brooklyn condos, Riverdale condos, New York City townhouse, Manhattan townhouse, Brooklyn townhouse, Riverdale townhouse, New York City homes, Manhattan homes, Brooklyn homes, Riverdale homes, Manhattan brownstone,  Brooklyn brownstone, NYC property search, New York City property search, Manhattan property search, Brooklyn property search, Riverdale property search, New York City listings, Manhattan listings, Brooklyn listings, Riverdale listings, Building management, property management, development marketing, property marketing, apartments for sale, apartments for rent, coops for sale + rent, condos for sale + rent, luxury real estate, luxury properties, relocation, corporate relocation, individual relocation, moving to New York, moving to Manhattan, moving to Brooklyn, moving to Riverdale, relocation to New York City, relocation to Manhattan, relocation to Brooklyn, relocation to Riverdale, international properties, global real estate, buyer's guide, buying guide, renter's guide, renting guide, area information, neighborhood information, relo, Brooklyn Heights real estate, Cobble Hill real estate, real estate broker, real estate agent, realtor, new developments, market reports, l'immobilier, immobiliare, bienes raices, sellers, selling">	
-<meta name="Description" content="Halstead Property. The preeminent New York City real estate company specializing in providing real solutions to real estate needs in Manhattan, Brooklyn, Riverdale and destinations around the world. "> 
+<meta name="Description" content="Halstead Property. The preeminent Tri-state real estate company specializing in providing real solutions to real estate needs in Manhattan, Brooklyn, Riverdale, Fairfield County Connecticut, Metro New Jersery and destinations around the world. "> 
 	
-<style type="text/css" media="screen">@import "/css/cmp_nav_011110.css";</style>
-<style type="text/css" media="screen">@import "/css/cmp_sub_011110.css";</style>
-<style type="text/css" media="print">@import "/css/cmp_print_011110.css";</style>
+<style type="text/css" media="screen">@import "/css/cmp_nav_061510.css";</style>
+<style type="text/css" media="screen">@import "/css/cmp_sub_061510.css";</style>
+<style type="text/css" media="print">@import "/css/cmp_print_061510.css";</style>
 
 <link rel="shortcut icon" href="img/favicon.ico">
-<script src="js/halstead_011110.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/HalsteadHelp.js"></script>	
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/js/halstead_102510.js"></script>
+<script type="text/javascript" src="/js/HalsteadHelp.js"></script> 
+<script type="text/javascript" src="/js/tracker.js"></script> 
 </head>	
 	
 <body onclick="SuggestRestore();">
@@ -35,55 +38,119 @@
 				<div class="SearchContent">
 					<strong>Search Listings:</strong>
 					<input type="text" value="Web #, address, bldg name, keyword, agent" size="12" onkeyup="sendRequest(this.value);" name="q" id="q" class="HomeSearch" onfocus="if(this.value=='Web #, address, bldg name, keyword, agent') {this.value='';}">
-					 <input value="GO" type="submit" class="go">
+					 <input value="GO" type="submit" class="go" onclick="HTracker('Real Search');">
 					<div class="clear"></div>
 					
-					<p><a href="whatismyhalstead.aspx" class="MyHalstead">My Halstead</a></p>
+					<p><a href="whatismyhalstead.aspx" class="MyHalstead" onclick="HTracker('My Halstead');">My Halstead</a></p>
 				</div>
 				</form>
 				<span class="botleft"></span>
 				<span class="botright"></span>	
 			</div>		
-		<div id="searchResults" style="display: none;"></div>	
 	</div>
 </div>
 	
-<div class="NavBar" style="clear: both;">
+	<div class="suggestpl"><div id="searchResults" style="display: none;"></div></div>
 	
-	<div id="Navigation">
-		<div id="NavigationBlock">					
-			<ul id="NavigationItem">
-				 	<li id="SearchListings" class="SearchListings"><a href="search.aspx" onmouseover="NavShow('SearchListings');HelpHide();HideWeather();" onmouseout="HelpReveal();"><strong>Search Listings</strong></a>						
-						<div id="SearchListingsMenu"></div>	
-					</li>
-										
-				 	<li class="NewDevelopments"><a href="developments.aspx" onmouseover="NavShow('NewDev');HelpHide();" onmouseout="HelpReveal();"><strong>New Developments</strong></a>
-						<div id="NewDevMenu"></div>	
-					</li>
-										
-				 	<li class="OurAgents"><a href="agents.aspx" onmouseover="NavShow('OurAgents');OptionsHide();" onmouseout="OptionsReveal();"><strong>Our Agents</strong></a>
-						<div id="OurAgentsMenu"></div>	
-					</li>
-					
-				 	<li class="Neighborhoods"><a href="neighborhoods.aspx" onmouseover="NavShow('Neighborhoods');"><strong>Neighborhood Information</strong></a>
-						<div id="NeighborhoodsMenu"></div>	
-					</li>
-					
-				 	<li class="GlobalServices"><a href="globalservices.aspx" onmouseover="NavShow('GlobalServices');OptionsHide();" onmouseout="OptionsReveal();"><strong>Global Services</strong></a>
-						<div id="RelocationMenu"></div>		
-					</li>
-					
-				 	<li class="Resources"><a href="resources.aspx" onmouseover="NavShow('Resources');OptionsHide();ViewHide();" onmouseout="OptionsReveal();ViewReveal();"><strong>Resources</strong></a>
-						<div id="ResourcesMenu"></div>					
-					</li>
-					
-				 	<li class="AboutUs"><a href="about.aspx" onmouseover="NavShow('AboutUs');OptionsHide();ViewHide();" onmouseout="OptionsReveal();ViewReveal();"><strong>About Us</strong></a>
-						<div id="AboutUsMenu"></div>		
-					</li>
-				</ul>	
-			</div>	
-		</div>
-	</div>
+	<div class="navigation">
+		<ul class="halonav">
+			<li class="a"><a href="search.aspx" onclick="HTracker('Search Listings - Main tab');" class="searchlistings">SEARCH LISTINGS</a>
+				<div class="sub-nav" id="a" style="width:190px;">
+					<p>
+						<a href="search.aspx" onclick="HTracker('Search Sales');">Search Tri-State Properties for Sale</a> <span class="bar">|</span>
+						<a href="search.aspx?p=2" onclick="HTracker('Search Rentals');">Search Tri-State Properties for Rent</a> <span class="bar">|</span>
+						<a href="value.aspx" onclick="HTracker('Value Factor');">Value Factor Properties</a> <span class="bar">|</span>
+						<a href="luxuryportfolio.aspx" onclick="HTracker('Luxury Portfolio');">Luxury Portfolio</a> <span class="bar">|</span>
+						<a href="new.aspx" onclick="HTracker('New Listings');">New Listings</a> <span class="bar">|</span>
+						<a href="open.aspx" onclick="HTracker('Open Houses');">Open Houses</a> <span class="bar">|</span>
+						<a href="developments.aspx" onclick="HTracker('New Developments under Search Listings');">New Developments</a> <span class="bar">|</span>
+						<a href="propertv.aspx?cat=1" onclick="HTracker('Property Video Tours');">Property Video Tours</a>
+					</p>
+				</div>
+			</li>
+			<li class="b"><a href="developments.aspx" onclick="HTracker('New Developments - Main tab');" class="newdevelopments">NEW DEVELOPMENTS</a>
+				<div class="sub-nav" id="b" style="width:170px;">
+					<p>
+						<a href="developments_about.aspx" onclick="HTracker('About Development Marketing');">About Development Marketing</a> <span class="bar">|</span>
+						<a href="developments_team.aspx" onclick="HTracker('Development Marketing Team');">Development Marketing Team</a> <span class="bar">|</span>
+						<a href="developments.aspx" onclick="HTracker('Sales Developments');">Sales Developments</a> <span class="bar">|</span>
+						<a href="developments.aspx?ros=r" onclick="HTracker('Rental Developments');">Rental Developments</a> <span class="bar">|</span>
+						<a href="propertv.aspx?cat=6" onclick="HTracker('Development Video Tours');">Development Video Tours</a> <span class="bar">|</span>	
+					</p>		
+				</div>	
+			</li>
+			<li class="c"><a href="agents.aspx" onclick="HTracker('Agents - Main tab');" class="ouragents">OUR AGENTS</a>
+				<div class="sub-nav" id="c" style="width:160px;">
+					<p>
+						<a href="agents.aspx" onclick="HTracker('Search Agents');">Search Agents</a> <span class="bar">|</span>
+						<a href="agents_lname.aspx" onclick="HTracker('Agents By Last Name');">Agents By Last Name</a> <span class="bar">|</span>
+						<a href="agents_fname.aspx" onclick="HTracker('Agents By First Name');">Agents By First Name</a> <span class="bar">|</span>
+						<a href="agents_offices.aspx" onclick="HTracker('Agents By Office');">Agents By Office</a> <span class="bar">|</span>
+						<a href="agents_languages.aspx" onclick="HTracker('Agents By Language');">Agents By Language</a> <span class="bar">|</span>
+						<a href="propertv.aspx?cat=3" onclick="HTracker('Agent Videos');">Agent Videos</a>		
+					</p>		
+				</div>	
+			</li>
+			 <li class="d"><a href="neighborhoods.aspx" onclick="HTracker('Areas and Towns - Main tab');" class="areastowns">AREAS &amp; TOWNS</a>
+				<div class="sub-nav" id="d" style="width:185px;">
+					<p>
+						<a href="neighborhoods.aspx" onclick="HTracker('Areas and Towns - Manhattan');">Manhattan</a> <span class="bar">|</span>
+						<a href="neighborhoods.aspx#brooklyn" onclick="HTracker('Areas and Towns - Brooklyn');">Brooklyn</a> <span class="bar">|</span>
+						<a href="neighborhoods.aspx#riverdale" onclick="HTracker('Areas and Towns - Riverdale');">Riverdale</a> <span class="bar">|</span>	
+						<a href="neighborhoods_ct.aspx" onclick="HTracker('Areas and Towns - Connecticut');">Connecticut</a> <span class="bar">|</span>	
+						<a href="neighborhoods.aspx#newjersey" onclick="HTracker('Areas and Towns - Metro NJ');">Metro New Jersey</a> <span class="bar">|</span>	
+						<a href="propertv.aspx?cat=2" onclick="HTracker('Areas and Towns - Video Tours');">Neighborhood Video Tours</a>
+					</p>		
+				</div>
+			</li>	
+			<li class="e"><a href="globalservices.aspx" onclick="HTracker('Global Services - Main tab');" class="globalservices">GLOBAL SERVICES</a>
+				<div class="sub-nav" id="e" style="width:160px;">
+					<p>
+						<a href="globalservices_affiliations.aspx" onclick="HTracker('GS - Affiliations');">Affiliations</a> <span class="bar">|</span>	
+						<a href="globalservices_individuals.aspx" onclick="HTracker('GS - Services');">Services for Individuals</a> <span class="bar">|</span>
+						<a href="globalservices_halstead360.aspx" onclick="HTracker('GS - Investors');">Investors / Halstead360</a> <span class="bar">|</span>
+						<a href="globalservices_international.aspx" onclick="HTracker('GS - International');">International</a> <span class="bar">|</span>
+						<a href="globalservices_brokers.aspx" onclick="HTracker('GS - Brokers');">Real Estate Brokers</a> <span class="bar">|</span>
+						<a href="globalservices_relocation.aspx" onclick="HTracker('GS - Relo');">Relocation</a> <span class="bar">|</span>
+						<a href="globalservices_team.aspx" onclick="HTracker('GS - Team');">Global Services Team</a> <span class="bar">|</span>
+						<a href="globalservices_why.aspx" onclick="HTracker('GS - Why Global');">Why Global Services?</a>
+					</p>		
+				</div>
+			</li>
+			<li class="f"><a href="resources.aspx" onclick="HTracker('Resources - Main tab');" class="resources">RESOURCES</a>
+				<div class="sub-nav" id="f" style="width:147px;">
+					<p>
+						<a href="resources_press.aspx" onclick="HTracker('Recent Press');">Recent Press</a> <span class="bar">|</span>	
+						<a href="resources_reports.aspx" onclick="HTracker('Market Reports');">Market Reports</a> <span class="bar">|</span>	
+						<a href="resources_portfolio.aspx" onclick="HTracker('Portfolio');">Portfolio</a> <span class="bar">|</span>	
+						<a href="http://www.halstead.com/s3" onclick="HTracker('S3');">S3 Level of Service</a> <span class="bar">|</span>	
+						<a href="resources.aspx" onclick="HTracker('Buyers Guide');">Buyer's Guide</a> <span class="bar">|</span>	
+						<a href="resources_glossary.aspx" onclick="HTracker('Glossary');">Glossary of Terms</a> <span class="bar">|</span>	
+						<a href="resources_luxuryportfolio.aspx" onclick="HTracker('Luxury Portfolio Program');">Luxury Portfolio Program</a> <span class="bar">|</span>	
+						<a href="propertv" onclick="HTracker('Halstead PropertTV under Resources');" target="new">Halstead ProperTV</a>
+					</p>		
+				</div>
+			</li>
+			<li class="g" style="margin-right:0px;"><a href="about.aspx" onclick="HTracker('About Us - Main tab');" class="aboutus">ABOUT US</a>
+				<div class="sub-nav" id="g" style="width: 160px; left: -90px;">
+					<p>
+						<a href="about.aspx" onclick="HTracker('History');">History</a> <span class="bar">|</span> 
+						<a href="about_whyhalstead.aspx" onclick="HTracker('Why Halstead');">Why Halstead?</a> <span class="bar">|</span> 
+						<a href="about_management.aspx" onclick="HTracker('Property Mgmt');">Property Mgmt.</a> <span class="bar">|</span> 
+						<a href="about_investment.aspx" onclick="HTracker('Investment Sales');">Investment Sales</a> <span class="bar">|</span> 
+						<a href="about_executives.aspx" onclick="HTracker('Executives');">Executives</a> <span class="bar">|</span> 
+						<a href="about_terra.aspx" onclick="HTracker('Terra Holdings');">Terra Holdings</a> <span class="bar">|</span> 
+						<a href="about_marketing.aspx" onclick="HTracker('Marketing');">Marketing</a> <span class="bar">|</span> 
+						<a href="about_awards.aspx" onclick="HTracker('Awards');">Awards</a> <span class="bar">|</span> 
+						<a href="about_offices.aspx" onclick="HTracker('Offices');">Offices</a> <span class="bar">|</span> 
+						<a href="contact.aspx" onclick="HTracker('Contact Us');">Contact Us</a>
+					</p>		
+				</div>
+			</li> 
+		</ul>
+	</div> 
+
+
 
 	 <div id="hidediv" class="showhide"></div>
 
@@ -216,12 +283,20 @@ services offered on our Web Site.  Additionally, you may ask us to store informa
 	
 <div id="FooterContainter">
 	<div id="FooterBlock">
-		<p class="FooterItems">
-			<img src="img/ft_wellsfargo.gif" alt="" width="201" height="44" border="0" style="padding: 14px 0px 0px 0px;">
-		</p>
-	
-		<hr>
-		<p class="CorporateBanner"><img src="img/cb_marketingdivision.gif" alt="Marketing Division - Best Marketing Piece Award Winners 2006 &amp; 2007" title="Marketing Division - Best Marketing Piece Award Winners 2006 &amp; 2007" width="474" height="68" border="0"></p>
+		<img src="img/ft_wellsfargo_31810.gif" alt="Wells Fargo" width="118" height="50" border="0" style="padding: 14px 13px 0px 0px;float:left;">
+
+		<div class="social">
+			<span class="left"></span>
+			<a href="http://www.Facebook.com/hproperty" target="new" class="facebook" onclick="HTracker('Fan us on Facebook');">Fan us on Facebook</a>
+			<span></span>
+			<a href="http://www.twitter.com/halstead" target="new" class="twitter" onclick="HTracker('Follow us on Twitter');">Follow us on Twitter</a>
+			<span></span>
+			<a href="http://www.youtube.com/halsteadpropertv" target="new" class="youtube" onclick="HTracker('Subscribe to us on YouTube');">Subscribe on YouTube</a>
+			<span class="right"></span>
+			<div class="clear"></div>
+		</div>
+
+		<img src="img/ft_vanderbilt_101810.gif" alt="Vanderbilt Private Insurance Group" height="28" border="0" style="border:0px;float:right;padding:25px 0px 0px 0px">
 	</div>
 </div>	
 
@@ -260,7 +335,7 @@ services offered on our Web Site.  Additionally, you may ask us to store informa
 			<a href="resources_reports.aspx">Market Reports</a><br>
 			<a href="s3">S3 Level of Service</a><br>
 			<a href="resources_portfolio.aspx">Halstead Portfolio</a><br>
-			<a href="neighborhoods.aspx">Neighborhood Information</a><br>
+			<a href="neighborhoods.aspx">Areas &amp; Towns</a><br>
 			<a href="globalservices.aspx">Global Services Division</a><br>
 			<a href="resources_luxuryportfolio.aspx">Luxury Portfolio Program</a><br>
 			<a href="resources_glossary.aspx">Glossary of Terms</a><br>
