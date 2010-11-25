@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eurocasino.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525235625id_/http%3A//www.eurocasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocasino.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125105122id_/http%3A//www.eurocasino.com/privacy-policy) for the most accurate reproduction.*
 
-# EUROCASINO.com – Online Casino. Blackjack, Roulette, Poker Slotmachines.
+# EUROCASINO.com - Online Casino. Blackjack, Roulette, Poker Slotmachines.
+
+## Privacy policy
 
   
 
