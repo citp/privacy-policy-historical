@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathbuddyonline.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231122531id_/http%3A//mathbuddyonline.com/common/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathbuddyonline.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125092228id_/http%3A//mathbuddyonline.com/common/policy.html) for the most accurate reproduction.*
 
 # Math Buddy Online - Privacy Policy
 
@@ -6,9 +6,7 @@
 
 PERSONAL INFORMATION: Because of the nature of our product, we must collect personal information from users during the registration process, including (at minimum) first & last names, email address and a password. 
 
-Math Buddy LLC has partnered with Paypal for payment processing. When a user registers online for a free trial of the service, they enter their credit card information using the secure payment gateway powered by PayPal. 
-
-The credit card information supplied with PayPal is used to establish your subscription with us should you decide to continue the service after the free trial has ended. **Math Buddy LLC has no access to the credit card information entered by the user.**
+Math Buddy LLC has partnered with Paypal for payment processing. When a user registers online, they enter their credit card information using the secure payment gateway powered by PayPal. **Math Buddy LLC has no access to the credit card information entered by the user.**
 
 Your email address may be used to send you periodic newsletters from Math Buddy LLC. Users can opt out of promotional emails at anytime, but will still receive communications such as receipts, confirmation emails and customer service updates that are considered necessary to provide the service to you. We use the information collected to deliver services, process payments, update our records, communicate with you about products and services and generally maintain your accounts with us. **We do not share, sell, trade, or rent your personal information to third parties for unknown reasons.**
 
