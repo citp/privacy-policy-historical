@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530233731id_/http%3A//www.headphone.com/support/your-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125090826id_/http%3A//www.headphone.com/support/your-privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
