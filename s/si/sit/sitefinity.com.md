@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitefinity.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327155439id_/http%3A//www.sitefinity.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitefinity.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125183318id_/http%3A//www.telerik.com/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,3 +15,9 @@ We may use cookies from time to time. Cookies are small text files a web site ca
 ## Links to Third Party Sites
 
 At this Site, there may be links to companies with whom we have a relationship. Telerik is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
+
+## ClickTale Web Analytics
+
+In order to improve our website we collect data about user behavior by using ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service.
+
+You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
