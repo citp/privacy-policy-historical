@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523025944id_/http%3A//www.dressilyme.com/privacy-policy-hd-43) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125094224id_/http%3A//www.dressilyme.com/privacy-policy-hd-43) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Help Center - Designer & Custom Occasional Dresses Maker - DressilyMe.com
 
-Last updated: Jul 24, 2009 at 11:42 AM
+Last updated: Jun 2, 2010 at 07:16 PM
 
  **Our Commitment to Privacy**
 
@@ -37,5 +37,5 @@ Finally, we never use or share the personally identifiable information provided 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at (86)755-26972706 or send us an email at [customer-care@dressilyme.com](mailto:customer-care@dressilyme.com).   
+Should you have other questions or concerns about these privacy policies, please call us at (86)755-86364044 or send us an email at [customer-care@dressilyme.com](mailto:customer-care@dressilyme.com).   
 
