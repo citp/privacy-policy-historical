@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628015849id_/http%3A//moon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125050142id_/http%3A//www.moon.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Commitment To Privacy | MOON TRAVEL GUIDES
 
@@ -70,7 +70,7 @@ Back to the top
 
 ## What About Third-Party Advertisers and Links to Other Websites?
 
-Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites 
+We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/). 
 
 This privacy statement only covers the main Moon.com website, not sites that may be linked to or referenced in this site. Each organization may have a different privacy statement, so you should review the privacy statement each time you submit personal information on a website.
 
@@ -131,7 +131,7 @@ Our business changes constantly, and our Privacy Notice and the Terms of Use wil
 Related Practices and Information  
 • [Terms of Use](https://web.archive.org/terms_of_use)  
 • [Community Participation Guidelines](https://web.archive.org/community_participation_guidelines)  
-• [Copyright](https://web.archive.org/web/20100628015849id_/http%3A//moon.com/copyright)
+• [Copyright](https://web.archive.org/web/20101125050142id_/http%3A//www.moon.com/copyright)
 
 ### How To Contact Us
 
