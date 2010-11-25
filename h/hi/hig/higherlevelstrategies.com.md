@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higherlevelstrategies.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104112039id_/http%3A//www.higherlevelstrategies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higherlevelstrategies.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125230923id_/http%3A//www.higherlevelstrategies.com/privacy.html) for the most accurate reproduction.*
 
 # Higher Level Strategies
 
