@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the goreadgreen.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418020734id_/http%3A//goreadgreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goreadgreen.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125224606id_/http%3A//goreadgreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Read Green Initiative
 
-The Read Green Initiative knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Policy explains The Read Green Initiative’s treatment of information that we collect when you are on The Read Green Initiative Web site and when you use our products and services (collectively, “The Read Green Initiative Service”), which may include personally identifiable information (”Personal Information”). By using The Read Green Initiative’s products and services, you are accepting the practices described here. 
+## Privacy Policy
 
-This policy does not apply to the practices of companies that The Read Green Initiative does not own or control, or to individuals that The Read Green Initiative does not employ or manage, including operators of Web sites you may visit before or after visiting The Read Green Initiative Web site and the owners or publishers of the magazines and other products (”Publications”) you purchase, download or otherwise access through The Read Green Initiative Service. 
+The Read Green Initiative knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Policy explains The Read Green Initiative’s treatment of information that we collect when you are on The Read Green Initiative Web site and when you use our products and services (collectively, “The Read Green Initiative Service”), which may include personally identifiable information (“Personal Information”). By using The Read Green Initiative’s products and services, you are accepting the practices described here. 
+
+This policy does not apply to the practices of companies that The Read Green Initiative does not own or control, or to individuals that The Read Green Initiative does not employ or manage, including operators of Web sites you may visit before or after visiting The Read Green Initiative Web site and the owners or publishers of the magazines and other products (“Publications”) you purchase, download or otherwise access through The Read Green Initiative Service. 
 
 **Information We Collect**  
 The Read Green Initiative collects information from users, which may include Personal Information, at different points on our Web site and through our software as follows:
