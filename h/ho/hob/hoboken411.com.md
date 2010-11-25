@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530212635id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125153300id_/http%3A//hoboken411.com/archives/4346) for the most accurate reproduction.*
 
 # Privacy Policy | Hoboken411.com
 
@@ -38,5 +38,7 @@ If you’re worried about your children’s activities or their privacy on our s
 **V. PRIVACY POLICY CONTACT**  
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Contact:  
 Email: Hoboken411copyright@gmail.com
+
+Hoboken NJ 
 
 Technorati Tags: [Hoboken411](http://technorati.com/tag/Hoboken411), [Privacy Policy](http://technorati.com/tag/Privacy+Policy)
