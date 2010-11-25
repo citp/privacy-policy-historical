@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the collective2.com privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522110753id_/http%3A//www.collective2.com/static/info/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collective2.com privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125220215id_/http%3A//www.collective2.com/static/info/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title> Become a trading system developer on Collective2</title>
+    <title>Collective2</title>
     <meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Expires" content="-1">
-    <meta name="description" content="">
+    <meta name="description" content="Collective2 is an objective, third-party reviewer of trading strategies. Use our tools to find the strategy right for you.">
     
     <meta name="keywords" content="trading system, automated trading">
     <meta name="robots" content="index, follow">
@@ -59,9 +59,11 @@
 
 <script type="text/javascript">
     var SITE_NAME="Collective2";
-    var SITE_BASE="http://www.collective2.com";
-    var CGI='http://www.collective2.com/cgi-perl';
-    var CGIAPP="http://www.collective2.com/cgi-perl/static.mpl";
+    var SITE_BASE="https://collective2.com";
+    var SITE_BASE_SSL="https://collective2.com";
+    var SECURE_SITE_BASE="https://collective2.com";
+    var CGI='https://collective2.com/cgi-perl';
+    var CGIAPP="https://collective2.com/cgi-perl/static.mpl";
     var ns4 = (document.layers) ? true : false;
     var ie4 = (document.all && !document.getElementById) ? true : false;
     var ie5 = (document.all && document.getElementById) ? true : false;
@@ -69,10 +71,13 @@
     var browserString = BrowserDetect.browser + ' ' + BrowserDetect.version;
     var http;
     var pendURL=new Array();
+    var messageStack=new Array();
+    var messageStackHTTPs=new Array();
     var gDisposalEvents=new Array();
+    var gTipShown=new Array();
     var gWaitingForURL=0;
-    var gsess='783546183331807664597792845111617';
-    var session='783546183331807664597792845111617';
+    var gsess='521596233051053743339863371287002';
+    var session='521596233051053743339863371287002';
     var gRespondingApp='/cgi-perl/dashreceiver.mpl';
     var gLastKeyPressDate=0;
     var gUnprocKeypress=0;
@@ -120,7 +125,7 @@ accept: ['favoriteChart','reportChart','reccontainer','reccontainerlast','vertic
 onDrop:  function(element) 
 {
    var sid=element.id.substring(6);
-   var url=gRespondingApp+'?want=addtowatchlist&session='+gsess+'&sid='+sid+'&noTop='+gNoWatchListTop;
+   var url=gRespondingApp+'?want=addtowatchlist&sid='+sid+'&noTop='+gNoWatchListTop;
    pendURL.push(url);
   
    
@@ -250,7 +255,9 @@ onUnhover: function(element)
 <div id="page">
 <!-- header -->
     <div id="header">
+
 <h1><a href="/">Collective2</a></h1>
+
 
 
 
@@ -269,6 +276,8 @@ onUnhover: function(element)
 
 
 
+
+
 <div class="headlinks">
 <span>
 
@@ -276,6 +285,8 @@ onUnhover: function(element)
 
 	<a href="/content/vendorintro.htm">System Developers</a> |
 	<a href="/static/brokers.htm">Brokers</a> 
+
+
 
 
 </span>
@@ -287,6 +298,7 @@ onUnhover: function(element)
 <!-- menu -->
 
 <div id="menuMain" onmouseover="hidepopupcmd();"><div><div><div>
+
 
 	<ul>
 
@@ -337,13 +349,13 @@ onUnhover: function(element)
 		</div>
 	</li>
 
-	<li class="active">
+	<li>
 		<a href="/content/vendorintro.htm"><span><span><span>Sell a System</span></span></span></a>
 		<div class="level">
 	<ul>
     <li class="begin"><a href="/static/systemDeveloper.htm">How it works</a></li>
-    <li><a href="/cgi-perl/page.mpl?page=offerstart1">Create a new system</a></li>
-    <li><a href="/static/faqdev.htm">Frequent Questions (FAQ)</a></li>
+    <li><a href="/startSystem">Create a new system</a></li>
+    <li><a href="/static/info/faq.htm">Frequent Questions (FAQ)</a></li>
     <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
     
     
@@ -383,7 +395,7 @@ onUnhover: function(element)
 	<li>
 		<a href="/cgi-perl/board.mpl?want=list"><span><span><span>Forums</span></span></span></a>
 	</li>
-	<li>
+	<li class="active">
 		<a href="/"><span><span><span>Information</span></span></span></a>
 		<div class="level">
 	<ul>
@@ -421,68 +433,375 @@ onUnhover: function(element)
 
 
 </ul>
+
 </div></div></div></div>
 <!-- end menu -->
 
 <!-- breadcrumb navigation -->
+
 <div class="breadcrumbs" onmouseover="hidepopupcmd();">
 
 
-
-
-<div class="bcq">»</div>
-
-
-
-
-
-
+    <div class="brdd">
+    <img src="/images/icons/dropdown.gif" onmouseover="if ( $('brDropdown').style.display != 'block' ) { doTooltip(event,'Click to view older navigation history.');return false; }" onmouseout="if ( $('brDropdown').style.display != 'block' ) { hideTip();return false; }" onmousedown="hideTip();if ( $('brDropdown').style.display != 'block' ) { $('brDropdown').style.display='block'; } else { $('brDropdown').style.display = 'none'; }">
+    <div class="level" id="brDropdown" name="brDropdown">
     
+        <span>
 
-    
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=0' );return false;" onmousedown="handleMouseDown();return false;" href="#">
-    
-    
-    
+            
+            <div>
+            
 
-    Dashboard
-    
-    
-    
-    </a>
-    
-    
+            <a href="/cgi-perl/page.mpl?navto=19">
+   		  
+                
+	            Forums: List subjects
+		        
+            </a>
 
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=18">
+   		  
+                
+	            Dashboard
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=17">
+   		  
+                
+	             Prices
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=16">
+   		  
+                
+	            About AutoTrade
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=15">
+   		  
+                
+	            FAQ
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=14">
+   		  
+                
+	            My Analyst page
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=13">
+   		  
+                
+	            Most Popular
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=12">
+   		  
+                
+	            Order Entry UI
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=11">
+   		  
+                
+	            Trader Assistant
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=10">
+   		  
+                
+	            Trader68
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=9">
+   		  
+                
+	            CoolTrade
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=8">
+   		  
+                
+	            TradeBullet
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=7">
+   		  
+                
+	            T68 Order Writer
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=6">
+   		  
+                
+	            System Anal...nd others ETFs
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=5">
+   		  
+                
+	            Forum: Syst...n PP indicator
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=4">
+   		  
+                
+	            Forums: Post message
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=3">
+   		  
+                
+	            System Ana...s - ETF Timer
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=2">
+   		  
+                
+	            Forum: MetaTrader
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=1">
+   		  
+                
+	            Fill prices
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+        <span>
+
+            
+            <div>
+            
+
+            <a href="/cgi-perl/page.mpl?navto=0">
+   		  
+                
+	            About Stops and Limits
+		        
+            </a>
+
+            </div>
+
+        </span>
+    
+    </div>
     </div>
 
-    <div class="bcd">/</div>
 
 
-    
 
-    
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=1' );return false;" onmousedown="handleMouseDown();return false;" href="#">
-    
-    
-    
 
-    Collective2
-    
-    
-    
-    </a>
-    
-    
 
-    </div>
 
-    <div class="bcd">/</div>
+
 
 
     
 
     
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=2' );return false;" onmousedown="handleMouseDown();return false;" href="#">
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=20' );return false;" onmousedown="handleMouseDown();return false;" href="#">
     
     
     
@@ -503,16 +822,79 @@ onUnhover: function(element)
     
 
     
-        <div class="bcuON">
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=21' );return false;" onmousedown="handleMouseDown();return false;" href="#">
     
     
     
 
-     Intro: C2 System Developer
+    Collective2
     
     
     
+    </a>
     
+    
+
+    </div>
+
+    <div class="bcd">/</div>
+
+
+    
+
+    
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=22' );return false;" onmousedown="handleMouseDown();return false;" href="#">
+    
+    
+    
+
+    Hot Futures
+    
+    
+    
+    </a>
+    
+    
+
+    </div>
+
+    <div class="bcd">/</div>
+
+
+    
+
+    
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=23' );return false;" onmousedown="handleMouseDown();return false;" href="#">
+    
+    
+    
+
+    IBtoC2
+    
+    
+    
+    </a>
+    
+    
+
+    </div>
+
+    <div class="bcd">/</div>
+
+
+    
+
+    
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=24' );return false;" onmousedown="handleMouseDown();return false;" href="#">
+    
+    
+    
+
+    About C2
+    
+    
+    
+    </a>
     
     
 
@@ -522,6 +904,7 @@ onUnhover: function(element)
 
 </div>
 <div style="clear:both;"></div>
+
 
 <!-- end breadcrumb navigation -->
 
@@ -551,23 +934,35 @@ onUnhover: function(element)
     <!-- menu -->
     
 <div class="menu show">
-<h3 onclick="divtoggle(this,'quicklinks');"><span><span><span><b>Sell a system</b></span></span></span></h3>
+<h3 onclick="divtoggle(this,'quicklinks');"><span><span><span><b>Information</b></span></span></span></h3>
 <div id="quicklinks">
 
 
 
 
 
-
     <ul>
-    <li><a href="/static/systemDeveloper.htm">How it works</a></li>
-    <li><a href="/cgi-perl/page.mpl?page=offerstart1">Create a new system</a></li>
-    <li><a href="/static/faqdev.htm">Frequent Questions (FAQ)</a></li>
-    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
+    <li><a href="/">Welcome to C2</a></li>
+    <li><a href="/static/info/intro.html">What is this?</a></li>
+    <li><a href="/static/info/welcome_video_embed.htm">Welcome Video</a></li>
+    <li><a href="/static/info/faq.htm">Frequent Questions</a></li>
+    <li><a href="/static/info/prices.htm">Prices</a></li>
+    <li><a href="/static/info/c2_compatible.htm">C2 Compatible</a></li>
+
     
+
+    <li><a href="/static/affiliate.htm">Affiliate Program</a></li>
+    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
+    <li><a href="/static/info/risks.html">Trading Risks</a></li>
+    <li><a href="/static/info/termsofservice.htm">Terms of Service</a></li>
+    <li><a href="/static/info/privacy.htm">Privacy Policy</a></li>
+    <li><a href="/static/info/advertising.htm">Advertising</a></li>
+    <li><a href="/static/info/press.htm">C2 in the Media</a></li>
+    <li><a href="/static/info/about_us.htm">About Us</a></li>
     
     
 </ul>
+
 
 
 
@@ -733,6 +1128,7 @@ onUnhover: function(element)
 <!-- footer -->
 	<div class="nofloat"></div>
     <div id="footer" onmouseover="hidepopupcmd();">
+
 <p align="center">
     
         <a href="/cgi-perl/c2dashboard.mpl">Dashboard</a> <span>|</span>
@@ -760,7 +1156,7 @@ onUnhover: function(element)
     <span>|</span> <a href="/static/contact_us.htm">Contact Us</a>
 </p>
 
-<p align="center">Site Version: 3098</p>
+<p align="center">Site Version: 5319</p>
 <p align="center">(c) 2010 Collective2 LLC</p>
     </div></div>
 <!-- end footer -->
