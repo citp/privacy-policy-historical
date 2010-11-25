@@ -1,116 +1,41 @@
-> *The following text is extracted and transformed from the esocialbookmarks.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513180509id_/http%3A//esocialbookmarks.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esocialbookmarks.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125205306id_/http%3A//esocialbookmarks.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ESocialBookmarks
+# Privacy | eSocialBookmarks
 
-[](http://esocialbookmarks.com/)
+[](http://www.esocialbookmarks.com/)
 
 Your Source for Social News and Networking
 
-## Privacy Policy
+**Privacy**
 
-eSocialBookmarks is founded on the principles of helping people to discover new information by enabling them to share what they find interesting with one another. eSocialBookmarks knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the eSocialBookmarks website, you are accepting the practices outlined in this Privacy Policy.
+I respect your privacy and I am committed to safeguarding your privacy while online at this site [esocialbookmarks .com](http://esocialbookmarks.com/). The following discloses how I gather and disseminate information for this Blog.
 
-This Privacy Policy covers eSocialBookmarks's treatment of personal information that eSocialBookmarks gathers when you are on the eSocialBookmarks website and when you use eSocialBookmarks services. This policy does not apply to the practices of third parties that eSocialBookmarks does not own or control, or to individuals that eSocialBookmarks does not employ or manage.
+**RSS Feeds and Email Updates**
 
-  
+If a user wishes to subscribe to my RSS Feeds or Email Updates (powered by Feedburner), I ask for contact information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by me – ever)
 
+**Log Files and Stats**
 
-### Information Collected by eSocialBookmarks
+Like most blogging platforms I use log files, in this case StatCounter. This stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
 
-We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our eSocialBookmarks users:
+**Cookies**
 
-  
+A cookie is a piece of data stored on the user’s computer tied to information about the user. This blog doesn’t use cookies. However, some of my business partners use cookies on this site (for example – advertisers). I can’t access or control these cookies once the advertisers have set them.
 
+**Links**
 
-  1. **Information You Provide to Us:**  
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
+This Blog contains links to other sites. Please be aware that I am not responsible for the privacy practices of these other sites. I suggest my users to be aware of this when they leave this blog and to read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by this Blog.
 
-Registration: In order for you to use eSocialBookmarks services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).
+**Advertisers**
 
-User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio, favorite URLs, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used.
+I use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx).
 
-  2. **Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. eSocialBookmarks and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, eSocialBookmarks cookie information, and the page you requested. eSocialBookmarks uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. 
+I use outside ad companies to display ads on this blog. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information. I work with many advertising companies like: Google Adsense, PayDotCom, ClickBank, CJ etc. Please check the advertisers websites for respective privacy policies.
 
-eSocialBookmarks may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
+**Controlling Your Privacy**
 
-Many companies offer programs that help you to visit websites anonymously. While eSocialBookmarks will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
 
+**Contact Information**
 
-
-
-### E-mail Communications
-
-eSocialBookmarks is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. eSocialBookmarks may send out e-mails with eSocialBookmarks-related news, products, offers, surveys or promotions. You may also receive notification e-mails from eSocialBookmarks, which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
-
-  
-
-
-### Cookies
-
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. eSocialBookmarks cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
-  * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of eSocialBookmarks's coolest features.
-  * Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
-
-
-
-### Sharing Your Information
-
-Because eSocialBookmarks enables people to discover and share information with one another, information about the people who use eSocialBookmarks is an integral part of the eSocialBookmarks experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
-
-  * eSocialBookmarks Personnel: eSocialBookmarks personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of eSocialBookmarks business.
-  * Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if eSocialBookmarks, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
-  * Protection of eSocialBookmarks and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of eSocialBookmarks, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-  * User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other eSocialBookmarks users in your User Profile. The User Profile is the area on eSocialBookmarks where we allow you to tell other eSocialBookmarks users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Privacy Settings section of your User Profile.
-  * Member Directory: The e-mail address that you submit upon registration will be searchable by other eSocialBookmarks users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through eSocialBookmarks. You may opt-out of this feature by visiting the Privacy Settings section of your User Profile.
-  * Social sharing of data: eSocialBookmarks allows other users to browse stories that you have Dugg, submitted or commented on. This information is made available publicly via your User Profile, on eSocialBookmarks Labs (labs.eSocialBookmarks.com), via the public API (services.eSocialBookmarks.com), or within the permalink URL of the story on which you performed the action. eSocialBookmarks may choose to post this data on other site features.
-  * Friends' Activity: Much like other online social networks, eSocialBookmarks allows non-friends to browse your friends' activity ( [http://eSocialBookmarks.com/users/aubs/friends](http://esocialbookmarks.com/users/aubs/friends "http://eSocialBookmarks.com/users/aubs/friends")).
-  * API: eSocialBookmarks will allow third parties access to all eSocialBookmarks data this is already publicly available through the eSocialBookmarks website. eSocialBookmarks will keep private any passwords.
-  * Syndication: eSocialBookmarks allows for the RSS syndication of all of its public content within the eSocialBookmarks website.
-  * With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
-
-
-
-### Keeping Information Secure
-
-  * Your eSocialBookmarks account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
-  * Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
-
-
-
-### Ways to Control Display and Use of Your Information
-
-  * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.
-  * By visiting your User Profile, you can correct, amend, add or delete personal information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your eSocialBookmarks account by e-mailing us at [support@eSocialBookmarks.com](mailto:support@eSocialBookmarks.com).
-  * If you do not wish to receive e-mail from us or other eSocialBookmarks users, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message.
-  * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
-  * If you do not wish to have people who know you by your email address find you via the Member Directory service, please visit the Privacy Settings section of your User Profile to opt out of this feature.
-  * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
-
-
-
-### Children Under 18 Years of Age
-
-You must be 13 years and older to register to use the eSocialBookmarks website. As a result, eSocialBookmarks does not specifically collect information about children. If we learn that eSocialBookmarks has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using eSocialBookmarks or sending information about themselves or anyone else over the Internet.
-
-  
-
-
-### Changes to this Privacy Policy
-
-eSocialBookmarks may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the eSocialBookmarks website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-  
-
-
-### Conditions of Use
-
-If you decide to visit eSocialBookmarks website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
-
-  
-
-
-### Effective Date of this Privacy Policy
-
-This Privacy Policy is effective as of September 1, 2009 and last updated January 1, 2010.
+If you have any questions or concerns please contact Sahu at info @ esocialbookmarks.com. This privacy policy last updated on September 03, 2009.
