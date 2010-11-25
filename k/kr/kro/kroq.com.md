@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroq.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524143434id_/http%3A//kroq.radio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroq.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125134557id_/http%3A//kroq.radio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « KROQ FM – The World Famous KROQ
 
