@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modojo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619002949id_/http%3A//my.modojo.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modojo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125015145id_/http%3A//my.modojo.com/tos) for the most accurate reproduction.*
 
 # myMO Terms of Service
 
