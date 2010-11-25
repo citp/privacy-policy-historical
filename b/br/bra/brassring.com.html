@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brassring.com privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627193741id_/http%3A//www.kenexa.com/en/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brassring.com privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125083210id_/http%3A//www.kenexa.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="generator" content="Kentico CMS 3.1a (build 3.1.3142) "> 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
@@ -15,14 +15,14 @@
 
 <script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/jquery.equalheights.js"></script>
 
-<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=kenexa"></script>
 
 <!--[if lt IE 7]>
 <link href="/CMSPages/GetCSS.aspx?stylesheetname=kenexa_ie6" rel="stylesheet" type="text/css" />
 <script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/iepngfix_tilebg.js"></script>
 <![endif]-->
 
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!--
 function resize_media_player(width, height) {
   $('#kenexa-compact-player').width(width).height(height);
@@ -63,6 +63,12 @@ $(document).ready(function() {
     cUrl: "/documents/coverflow-xml",
     sUrl: "/documents/ssp-xml"
   };
+
+  if($('input#lng').val().toLowerCase() == 'zh-cn') {
+    flashvars.useGeneric = true;
+    flashvars_player.useGeneric = true;
+  }
+
   var params = { 
     wmode: "transparent",
     bgcolor: "#000000", 
@@ -80,65 +86,121 @@ $(document).ready(function() {
 
   swfobject.embedSWF("/App_Themes/Kenexa/flash/KenexaMediaPlayerCompact.swf", "kenexa-compact-player", "962", "90", "9.0.0", "", flashvars_player, params, attributes);
 
-  $('li.email a').click(function() {
-    return addthis_open(this, 'email', '[URL]', '[TITLE]');
-  });
-
-  $('li.print a').click(function() {
-    return addthis_invoke('print', '[URL]', '[TITLE]');
-  });
+  $('li.email a').addClass("addthis_button_email");
+  $('li.print a').addClass("addthis_button_print");
+  $('li.share a').addClass("addthis_button"); 
 
   var addthis_pub = "kenexa";
-  var addthis_use_addressbook = false;
 });
 // -->
-</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="verify-v1" content="P3BEhWmb5ouyAOH2kFV8Er8/2IbZ2sIuf83tbRJj+0A=">
+</script>
+
+<style type="text/css">
+  #at_use_addr { display: none !important; }
+  #at16pit { display:none !important; }
+  li.print a .at15t_print, li.email a .at15t_email { background: none; }
+</style><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="verify-v1" content="P3BEhWmb5ouyAOH2kFV8Er8/2IbZ2sIuf83tbRJj+0A="> <!-- cm -->
+<meta name="verify-v1" content="gFqK0QCxcrWU3pDkhyr8y1IKeLgwiLqOcZKv3oGZO28="> <!-- ae -->
+
+<meta name="verify-v1" content="4uEP7E0K4ZSVwgzMZe/hJ2j7ayc6j0h+ZbhNrs5Jrx4=">  <!-- seo -->
 
 <link rel="shortcut icon" href="/App_Themes/Kenexa/img/favicon.ico" type="image/x-icon"> 
 <title>
 	 Privacy Policy - Kenexa - HR Success Multiplied
 </title></head>
 <body class="LTR ENUS">
-    <form name="form1" method="post" action="/en/Privacy-Policy.aspx" id="form1">
+    <form method="post" action="http://kenexa.com:80/privacy-policy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNTc2MTkwNjMPZBYCAgEQZGQWBAIFD2QWAmYPZBYCZg9kFgYCBQ9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFggCAQ9kFgJmDw8WEB4LUmVnaW9uVGl0bGUFBVRpdGxlHgpSZWdpb25UeXBlCyl+Q01TLkNvbnRyb2xzLkNNU0VkaXRhYmxlUmVnaW9uVHlwZUVudW0sIENNUy5Db250cm9scywgVmVyc2lvbj0zLjEuMzE0Mi4yNzU3MSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04MzRiMTJhMjU4ZjIxM2Y5AB4FV2lkdGhmHgZIZWlnaHRmHhdIVE1MRWRpdG9yQ3NzU3R5bGVzaGVldGUeBFdyYXBoHglNaW5MZW5ndGhmHglNYXhMZW5ndGhmZGQCAw9kFgJmDw8WEB8ABQRDb3B5HwELKwQCHwJmHwMC2AQfBGUfBWcfBmYfB2ZkZAIHD2QWEGYPDxYCHgdWaXNpYmxlaGRkAgEPDxYCHwhoZGQCAg8PFgIfCGhkZAIDDw8WAh8IaGRkAgQPDxYCHwhoZGQCBQ8PFgIfCGhkZAIGDw8WAh8IaGRkAgcPDxYCHwhoZGQCCQ9kFgICAg9kFgICAg8WFB4QTmVzdGVkQ29udHJvbHNJRGUeElRyYW5zZm9ybWF0aW9uTmFtZQUZY3VzdG9tLmtueGFkb2MuS2VuZXhhTGlzdB4QTmVzdGVkRGF0YUxpc3RJRGUeEE5lc3RlZFJlcGVhdGVySURlHhVTaG93RWRpdERlbGV0ZUJ1dHRvbnNoHgtfIUl0ZW1Db3VudGYeFkhpZGVDb250cm9sRm9yWmVyb1Jvd3NoHgxaZXJvUm93c1RleHQFcjxsaSBjbGFzcz0iZXZlbiI+PGRpdiBjbGFzcz0iaG9sZGVyIj48ZGl2IGNsYXNzPSJjb250ZW50Ij5ObyByZWxhdGVkIGNvbnRlbnQgaXRlbXMgYXJlIGF2YWlsYWJsZS48L2Rpdj48L2Rpdj48L2xpPh4dQWx0ZXJuYXRpbmdUcmFuc2Zvcm1hdGlvbk5hbWUFImN1c3RvbS5rbnhhZG9jLktlbmV4YUxpc3RBbHRlcm5hdGUeDEVuYWJsZVBhZ2luZ2hkAgkPZBYCZg9kFgICAg9kFgZmD2QWAmYPZBYCZg8VBFAvTWVkaWFSb29tL1ByZXNzUmVsZWFzZXMvMjAwOS9LZW5leGEtVGhvdWdodC1MZWFkZXItVG8tUHJlc2VudC1BdC1EdWJhaS1TY2hvb2wtTz5LZW5leGEgVGhvdWdodCBMZWFkZXIgVG8gUHJlc2VudCBBdCBEdWJhaSBTY2hvb2wgT2YgR292ZXJubWVudD5LZW5leGEgVGhvdWdodCBMZWFkZXIgVG8gUHJlc2VudCBBdCBEdWJhaSBTY2hvb2wgT2YgR292ZXJubWVudBVTdW5kYXksIEp1bmUgMjEsIDIwMDlkAgEPZBYCZg9kFgJmDxUETy9NZWRpYVJvb20vUHJlc3NSZWxlYXNlcy8yMDA5L0tlbmV4YS1Ob3RpZmllZC1vZi1QdXJwb3J0ZWQtQ2xhc3MtQWN0aW9uLUxhd3N1aXQxS2VuZXhhIE5vdGlmaWVkIG9mIFB1cnBvcnRlZCBDbGFzcyBBY3Rpb24gTGF3c3VpdDFLZW5leGEgTm90aWZpZWQgb2YgUHVycG9ydGVkIENsYXNzIEFjdGlvbiBMYXdzdWl0FUZyaWRheSwgSnVuZSAxMiwgMjAwOWQCAg9kFgJmD2QWAmYPFQRPL01lZGlhUm9vbS9QcmVzc1JlbGVhc2VzLzIwMDkvTGF0ZXN0LVJlbGVhc2Utb2YtS2VuZXhhLVJlY3J1aXRlci1CcmFzc1JpbmctSGVscGVMYXRlc3QgUmVsZWFzZSBvZiBLZW5leGEgUmVjcnVpdGVywq4gQnJhc3NSaW5nIEhlbHBzIE9yZ2FuaXphdGlvbnMgTG93ZXIgUmVjcnVpdG1lbnQgYW5kIEhpcmluZyBDb3N0c2VMYXRlc3QgUmVsZWFzZSBvZiBLZW5leGEgUmVjcnVpdGVywq4gQnJhc3NSaW5nIEhlbHBzIE9yZ2FuaXphdGlvbnMgTG93ZXIgUmVjcnVpdG1lbnQgYW5kIEhpcmluZyBDb3N0cxhXZWRuZXNkYXksIEp1bmUgMDMsIDIwMDlkAgsPZBYCZg9kFgICAg9kFgZmD2QWAmYPZBYCZg8VBQl0cmFkZXNob3dBL0tlbmV4dXMvVHJhZGVzaG93cy8yMDA5LzIwMDktU0hSTS1Bbm51YWwtQ29uZmVyZW5jZS0tLUV4cG9zaXRpb24pMjAwOSBTSFJNIEFubnVhbCBDb25mZXJlbmNlICYgRXhwb3NpdGlvbiApMjAwOSBTSFJNIEFubnVhbCBDb25mZXJlbmNlICYgRXhwb3NpdGlvbiAVU3VuZGF5LCBKdW5lIDI4LCAyMDA5ZAIBD2QWAmYPZBYCZg8VBQl0cmFkZXNob3dLL0tlbmV4dXMvVHJhZGVzaG93cy8yMDA5L0Fzc29jaWF0aW9uLW9mLUdyYWR1YXRlLVJlY3J1aXRlcnMtQW5udWFsLUNvbmZlcmVuOUFzc29jaWF0aW9uIG9mIEdyYWR1YXRlIFJlY3J1aXRlcnMgQW5udWFsIENvbmZlcmVuY2UgMjAwOTlBc3NvY2lhdGlvbiBvZiBHcmFkdWF0ZSBSZWNydWl0ZXJzIEFubnVhbCBDb25mZXJlbmNlIDIwMDkVU3VuZGF5LCBKdWx5IDA1LCAyMDA5ZAICD2QWAmYPZBYCZg8VBQl1c2VyZ3JvdXBKL0tlbmV4dXMvVXNlckdyb3Vwcy8yMDA5L0tlbmV4YS1SZWNydWl0ZXItQnJhc3NSaW5nLU1pZHdlc3QtUmVnaW9uYWwtVXNlci04S2VuZXhhIFJlY3J1aXRlcsKuIEJyYXNzUmluZyBNaWR3ZXN0IFJlZ2lvbmFsIFVzZXIgR3JvdXA4S2VuZXhhIFJlY3J1aXRlcsKuIEJyYXNzUmluZyBNaWR3ZXN0IFJlZ2lvbmFsIFVzZXIgR3JvdXAYV2VkbmVzZGF5LCBKdWx5IDA4LCAyMDA5ZAIHDw8WAh8IaGRkGAEFFGxvZ1F1ZXJ5JGdyaWRRdWVyaWVzD2dkRD7BL6V23faQ7CGKOFrmajhoDdk=">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNTc2MTkwNjMPZBYCAgEQZGQWBAIFD2QWAmYPZBYCZg9kFgYCAw9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFggCAQ9kFgJmDw8WEB4LUmVnaW9uVGl0bGUFBVRpdGxlHgpSZWdpb25UeXBlCyl+Q01TLkNvbnRyb2xzLkNNU0VkaXRhYmxlUmVnaW9uVHlwZUVudW0sIENNUy5Db250cm9scywgVmVyc2lvbj0zLjEuMzE0Mi4yNzU3MSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04MzRiMTJhMjU4ZjIxM2Y5AB4FV2lkdGhmHgZIZWlnaHRmHhdIVE1MRWRpdG9yQ3NzU3R5bGVzaGVldGUeBFdyYXBoHglNaW5MZW5ndGhmHglNYXhMZW5ndGhmZGQCBQ9kFgJmDw8WEB8ABQRDb3B5HwELKwQCHwJmHwMC2AQfBGUfBWcfBmYfB2ZkZAIJD2QWEGYPDxYCHgdWaXNpYmxlaGRkAgEPDxYCHwhoZGQCAg8PFgIfCGhkZAIDD2QWAmYPZBYCZg9kFgJmD2QWAmYPFQMUL2Fib3V0LXVzL2NvbnRhY3QtdXMHQ29udGFjdAdDb250YWN0ZAIEDw8WAh8IaGRkAgUPDxYCHwhoZGQCBg8PFgIfCGhkZAIHDw8WAh8IaGRkAgsPZBYEAgEPDxYCHwhoZGQCAg8PFgIfCGhkFgICAg8WFB4QTmVzdGVkQ29udHJvbHNJRGUeElRyYW5zZm9ybWF0aW9uTmFtZQUZY3VzdG9tLmtueGFkb2MuS2VuZXhhTGlzdB4QTmVzdGVkRGF0YUxpc3RJRGUeEE5lc3RlZFJlcGVhdGVySURlHhVTaG93RWRpdERlbGV0ZUJ1dHRvbnNoHgtfIUl0ZW1Db3VudGYeFkhpZGVDb250cm9sRm9yWmVyb1Jvd3NnHgxaZXJvUm93c1RleHQFcTxsaSBjbGFzcz0iZXZlbiI+PGRpdiBjbGFzcz0iaG9sZGVyIj48ZGl2IGNsYXNzPSJjb250ZW50Ij5ObyByZWxhdGVkIGNvbnRlbnQgaXRlbXMgYXJlIGF2YWlsYWJsZTwvZGl2PjwvZGl2PjwvbGk+Hh1BbHRlcm5hdGluZ1RyYW5zZm9ybWF0aW9uTmFtZQUiY3VzdG9tLmtueGFkb2MuS2VuZXhhTGlzdEFsdGVybmF0ZR4MRW5hYmxlUGFnaW5naGQCBw9kFgJmD2QWAgICD2QWBmYPZBYCZg9kFgJmDxUEUC9NZWRpYVJvb20vUHJlc3NSZWxlYXNlcy8yMDEwL0tlbmV4YS1TZWxlY3RzLWVRdWVzdC10by1FbmhhbmNlLVJlY3J1aXRtZW50LVNvZnR3aEtlbmV4YSBTZWxlY3RzIGVRdWVzdCB0byBFbmhhbmNlIFJlY3J1aXRtZW50IFNvZnR3YXJlLCBFeHBhbmQgRG9tZXN0aWMgYW5kIEludGVybmF0aW9uYWwgSm9iIEJvYXJkIFJlYWNoaEtlbmV4YSBTZWxlY3RzIGVRdWVzdCB0byBFbmhhbmNlIFJlY3J1aXRtZW50IFNvZnR3YXJlLCBFeHBhbmQgRG9tZXN0aWMgYW5kIEludGVybmF0aW9uYWwgSm9iIEJvYXJkIFJlYWNoG1RodXJzZGF5LCBOb3ZlbWJlciAxOCwgMjAxMGQCAQ9kFgJmD2QWAmYPFQRQL01lZGlhUm9vbS9QcmVzc1JlbGVhc2VzLzIwMTAvS2VuZXhhLVJhbmtlZC1OdW1iZXItMjctRmFzdGVzdC1Hcm93aW5nLUNvbXBhbnktaW6EAUtlbmV4YSBSYW5rZWQgTnVtYmVyIDI3IEZhc3Rlc3QgR3Jvd2luZyBDb21wYW55IGluIHRoZSBHcmVhdGVyIFBoaWxhZGVscGhpYSBSZWdpb24gb24gRGVsb2l0dGXigJlzIDIwMTAgR3JlYXRlciBQaGlsYWRlbHBoaWEgRmFzdCA1MIQBS2VuZXhhIFJhbmtlZCBOdW1iZXIgMjcgRmFzdGVzdCBHcm93aW5nIENvbXBhbnkgaW4gdGhlIEdyZWF0ZXIgUGhpbGFkZWxwaGlhIFJlZ2lvbiBvbiBEZWxvaXR0ZeKAmXMgMjAxMCBHcmVhdGVyIFBoaWxhZGVscGhpYSBGYXN0IDUwG1RodXJzZGF5LCBOb3ZlbWJlciAwNCwgMjAxMGQCAg9kFgJmD2QWAmYPFQRQL01lZGlhUm9vbS9QcmVzc1JlbGVhc2VzLzIwMTAvS2VuZXhhLUFubm91bmNlcy1GaW5hbmNpYWwtUmVzdWx0cy1mb3ItVGhpcmQtUXVhcnQ5S2VuZXhhIEFubm91bmNlcyBGaW5hbmNpYWwgUmVzdWx0cyBmb3IgVGhpcmQgUXVhcnRlciAyMDEwOUtlbmV4YSBBbm5vdW5jZXMgRmluYW5jaWFsIFJlc3VsdHMgZm9yIFRoaXJkIFF1YXJ0ZXIgMjAxMBpUdWVzZGF5LCBOb3ZlbWJlciAwMiwgMjAxMGQCCQ9kFgJmD2QWAgICD2QWBmYPZBYCZg9kFgJmDxUFCXRyYWRlc2hvdzUvS2VuZXh1cy9UcmFkZXNob3dzLzIwMTAvSFItaW4tdGhlLVB1YmxpYy1TZWN0b3ItMjAxMBxIUiBpbiB0aGUgUHVibGljIFNlY3RvciAyMDEwHEhSIGluIHRoZSBQdWJsaWMgU2VjdG9yIDIwMTAbVGh1cnNkYXksIE5vdmVtYmVyIDI1LCAyMDEwZAIBD2QWAmYPZBYCZg8VBQl0cmFkZXNob3ctL0tlbmV4dXMvVHJhZGVzaG93cy8yMDEwL1NGSUEtQ29uZmVyZW5jZS0yMDEwFFNGSUEgQ29uZmVyZW5jZSAyMDEwFFNGSUEgQ29uZmVyZW5jZSAyMDEwHFdlZG5lc2RheSwgRGVjZW1iZXIgMDEsIDIwMTBkAgIPZBYCZg9kFgJmDxUFCXRyYWRlc2hvd0EvS2VuZXh1cy9UcmFkZXNob3dzLzIwMTAvMjAxMC1MZXZlcmFnaW5nLUhSLVRlY2hub2xvZ3ktQ29uZmVyZW5jZSgyMDEwIExldmVyYWdpbmcgSFIgVGVjaG5vbG9neSBDb25mZXJlbmNlKDIwMTAgTGV2ZXJhZ2luZyBIUiBUZWNobm9sb2d5IENvbmZlcmVuY2UbVGh1cnNkYXksIERlY2VtYmVyIDAyLCAyMDEwZAIHDw8WAh8IaGRkGAEFFGxvZ1F1ZXJ5JGdyaWRRdWVyaWVzD2dkPY2LRCBi3cNa5wlTvw541J7uT3w=">
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=UBbJO3ZHu_g1r-REkGX_aas2OdbyjG9lOgUBZp_uyh9u5FSL0&amp;t=634258228889540832" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 
-<script src="/ScriptResource.axd?d=J14XtCozz6EvU02Rb6sX9DHn_aCMqf5eWTtkQMNBpzaFshiFpZV0Lb71HNfX6uRztnMprsl12qlzixip6GUfuiUADSXzqZUIQJQJON2swaM1&amp;t=633197909604866861" type="text/javascript"></script>
-        
+<script src="/ScriptResource.axd?d=J14XtCozz6EvU02Rb6sX9DHn_aCMqf5eWTtkQMNBpzaFshiFpZV0Lb71HNfX6uRztnMprsl12qlzixip6GUfuiUADSXzqZUIQJQJON2swaNuRYrKquwEKA3NA9YWT_fCmxIvQg2&amp;t=633197909604866861" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=J14XtCozz6EvU02Rb6sX9DHn_aCMqf5eWTtkQMNBpzaFshiFpZV0Lb71HNfX6uRztnMprsl12qlzixip6GUfuoEezP4oeiQalatgmQdBv4TmdJZ70o4evRHR1p4CVtuitBw-mw2&amp;t=633197909604866861" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', document.getElementById('form1'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
         
          
+<!--<div style="position: absolute; top: 53px; right: 50%; width: 236px; height: 74px; margin-right: -80px; z-index: 3;">
+  <a style="display: block; z-index: 2; " href="http://www.kenexaworldconference.com" title="Kenexa World Conference" target="_blank"><img style="width: 236px; height: 74px; display: block; z-index: 1;" alt="Kenexa World Conference" src="/graphics/kwc-2010-topad" height="74" width="236"></a>
+</div>-->
+
+<link type="text/css" rel="stylesheet" href="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/jquery.toolbar.css"> 
+<script language="JavaScript" type="text/javascript" src="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/jquery.toolbar.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+$(document).ready(function() {
+  $('#js-toolbar').toolbar();
+  $('.translate select').change(function() {
+    window.open('?lang=' + $(this).val(), '_self');
+  });
+});
+// -->
+</script>
+
+<style type="text/css">
+#page-area { padding-top: 45px; }
+#js-toolbar { height: 35px; width: 100%; }
+</style>
+<div id="js-toolbar">
+  <iframe src="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/default.html" width="100%" height="35" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+</div>
 <div id="page-area">
   <div id="page-top">
     <div id="page-header">
-      <div id="page-logo"><a title="Home" href="/"><img width="174" height="61" alt="Kenexa - HR Success Multiplied" src="/App_Themes/Kenexa/img/logo.gif"></a></div><div class="page-search"><div id="plcRoot_Layout_zonePageHeader_PageSearchTop_pnlSearch" class="searchBox">
-	
-    <label for="plcRoot_Layout_zonePageHeader_PageSearchTop_txtWord" id="plcRoot_Layout_zonePageHeader_PageSearchTop_lblSearch"></label><input name="plcRoot$Layout$zonePageHeader$PageSearchTop$txtWord" type="text" id="plcRoot_Layout_zonePageHeader_PageSearchTop_txtWord" class="txt"><input type="submit" name="plcRoot$Layout$zonePageHeader$PageSearchTop$btnGo" value="." id="plcRoot_Layout_zonePageHeader_PageSearchTop_btnGo" class="btn">
-
-</div>
-</div>
-      <div id="page-settings">
+      <div id="page-logo">
+        <a title="Home" href="/"><img width="174" height="61" alt="Kenexa - HR Success Multiplied" src="/graphics/kenexa-logo"></a>
+      </div>
+      <div id="page-buttons">
         <ul>
-          <!--<li><a title="Select Country" href="#locale" class="knxa-locale">Select Country</a></li>-->
-          <li><a title="Log In" href="#login">Log In</a></li>
+          <li class="contact-us"><a href="/about-us/contact-us" title="Contact Us">Contact Us</a></li>
+          <li class="mailing-list"><a href="/sign-up" title="Contact Us">Join Our Mailing List</a></li>
+          <li class="request-demo"><a href="/request" title="Contact Us">Request Information/Demo</a></li>
         </ul>
       </div>
     </div>
     <div id="page-nav">
       
 	<ul id="menuElem">
-		<li class="rpo"><a href="/rpo">RPO</a></li>
-		<li class="eb"><a href="/employment-branding">Employment Branding</a></li>
-		<li class="assess"><a href="/assessments">Assessments</a></li>
-		<li class="ats"><a href="/recruitment-technology">Recruitment Technology</a></li>
-		<li class="onboard"><a href="/onboarding">Onboarding</a></li>
-		<li class="perform"><a href="/performance-management">Performance Management</a></li>
-		<li class="survey"><a href="/survey">Surveys</a></li>
-		<li class="learn"><a href="/learning-management">Learning Management</a></li>
-		<li class="leadership"><a href="/leadership-development">Leadership Development</a></li>
+		<li class="rpo"><a href="/rpo" title="RPO">RPO</a></li>
+		<li class="eb"><a href="/employment-branding" title="Employment Branding">Employment Branding</a></li>
+		<li class="assess"><a href="/assessments" title="Assessments">Assessments</a></li>
+		<li class="ats"><a href="/recruitment-technology" title="Recruitment Technology">Recruitment Technology</a></li>
+		<li class="onboard"><a href="/onboarding" title="Onboarding">Onboarding</a></li>
+		<li class="perform"><a href="/performance-management" title="Performance Management">Performance Management</a></li>
+		<li class="survey"><a href="/survey" title="Surveys">Surveys</a></li>
+		<li class="learn"><a href="/learning-management" title="Learning Management">Learning Management</a></li>
+		<li class="leadership"><a href="/leadership-solutions" title="Leadership">Leadership</a></li>
 	</ul>
 
 
@@ -158,8 +220,14 @@ $(document).ready(function() {
 	  <ul>
 	    <li class="email"><a href="#sendtoafriend" title="Send to a Friend"></a></li>
 	    <li class="print"><a href="#print" title="Print this Page"></a></li>
+            <li class="share"><a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=kenexa" title="Share">Share</a></li>
 	  </ul>
 	</div>
+	<div id="page-social-media">
+          <ul>
+            
+          </ul>
+        </div>
         <a target="_blank" href="http://www.truste.org/ivalidate.php?url=www.kenexa.com&amp;sealid=103"><img width="68" height="95" style="float: right; margin-left: 15px; margin-bottom: 15px;" alt="Click to Verify" src="/getfile/355ef4e2-f4a5-4ad5-a2a7-77defe353465/truste_seal_ctv.aspx"></a>
 <p><strong>I. INTRODUCTION</strong></p>
 <p>The following sets forth Kenexa’s and its subsidiaries’ Privacy Policy, which contains four separate sections as follows:</p>
@@ -169,9 +237,9 @@ $(document).ready(function() {
     <li>Kenexa's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by Kenexa in its role as an ASP provider;</li>
     <li>A General Section, which applies to all of our privacy policies.</li>
 </ul>
-<p>Kenexa respects individual privacy. Kenexa strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. Kenexa abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission.</p>
-<p>Kenexa is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Privacy Policy covers the Web site Kenexa.com and our on-line URC site which is available only to clients of Kenexa. Because Kenexa wants to demonstrate its commitment to its users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.</p>
-<p>If you have questions or concerns regarding this Policy, you should first contact <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>, by mail at WatchDog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
+<p>Kenexa respects individual privacy. Kenexa strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. Kenexa abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the U.S.-Switzerland Safe Harbor Framework.</p>
+<p>Kenexa is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Privacy Policy covers the Web site Kenexa.com and our on-line URC site which is available only to clients of Kenexa. Because Kenexa wants to demonstrate its commitment to its users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.</p>
+<p>If you have questions or concerns regarding this Policy, you should first contact <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
 <p><strong>Legal Disclaimer</strong><br>
 We may disclose Personal Information when required by law or regulation or in the good faith belief that such action is necessary in order to conform to the edicts of the law, comply with legal mandates, or to protect the rights, property, or personal safety of Kenexa, its employees, users and the public.</p>
 <p><strong>II. KENEXA ONLINE PRIVACY POLICY</strong></p>
@@ -192,6 +260,10 @@ When registering on the website, you have the option of receiving different subs
 <p>If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.&nbsp; We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
 <p>We may post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We obtain the customer's consent prior to posting the testimonial.</p>
 <p>Kenexa is the sole owner of the information collected on www.kenexa.com.</p>
+<p><strong>Clear Gifs (Web Beacons/Web Bugs)</strong><br>
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.  To learn more about our advertising company’s use of clear gifs, please visit <a target="_blank" href="http://www.leadlander.com">http://www.leadlander.com</a> and <a target="_blank" href="http://www.addthis.com">http://www.addthis.com</a>.</p>
+<p><strong>Links to Other Sites</strong><br>
+This Web site contains links to other sites that are not owned or controlled by Kenexa. Please be aware that we, Kenexa, are not responsible for the privacy practices of such other sites. For example, when you use "Add This" to bookmark and share our products and site, you will be taken to a third party site. Please note that these third party sites’ privacy policies govern the collection and use of the information collected on those sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This Privacy Policy applies only to the information collected by our Web site.</p>
 <p><strong>Order Processing</strong><br>
 If you purchase services from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and address) and financial information (such as credit card number, expiration date).&nbsp;</p>
 <p>We use this information for billing purposes and to fill your orders.&nbsp; If we have trouble processing an order, we will use this information to contact you. This information is also used to send you updates on the product or service you purchased.</p>
@@ -215,13 +287,14 @@ We use cookies on this site. A cookie is a small text file that is stored on a u
 <p>If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as document downloads will be limited.</p>
 <p>The Kenexa websites use Google Analytics, a web analysis service of Google Inc. (“Google”) Google Analytics uses “cookies”, text files, which will be saved on your computer and which allow an analysis of your use of the website. The information provided by the cookie concerning your use of the website (including your IP-address) will be transferred to a Google server in the United States and saved there. Google will use this information to analyze your use of the website, to compile reports about the website activities for the website operator and to provide additional services concerning the website and internet utilization. Google may transfer this information to third parties, if this is a legal requirement or if third parties are commissioned by Google to process the information. Google will in no event connect your IP-address with other Google data. You can prevent the installation of cookies with the relevant browser software setting; however, in this case you may not be able to use all the functions on this website to the full extent. Through use of the Kenexa websites, you agree to the processing of your data by Google in the way described above and for the purpose stated above.</p>
 <p><strong>Privacy Officer</strong><br>
-Kenexa has a Privacy Officer who is responsible for Kenexa's compliance with and enforcement of this Policy. Kenexa's Privacy Officer, Jim Restivo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Kenexa's Privacy Officer may be contacted by email at <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>, by telephone at 610-971-6124 or by mail at Kenexa, 650 East Swedesford Road, Wayne, PA 19087. If users have questions or concerns regarding this statement, they should first contact Jim Restivo. Kenexa requires a response to an access request by a user be provided within 30 days of submitting the request. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>, by mail at WatchDog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
+Kenexa has a Privacy Officer who is responsible for Kenexa's compliance with and enforcement of this Policy. Kenexa's Privacy Officer, Jim Restivo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Kenexa's Privacy Officer may be contacted by email at <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>, by telephone at 610-971-6124 or by mail at Kenexa, 650 East Swedesford Road, Wayne, PA 19087. If users have questions or concerns regarding this statement, they should first contact Jim Restivo. Kenexa requires a response to an access request by a user be provided within 30 days of submitting the request. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
 <p>TRUSTe will serve as a liaison with Kenexa to resolve users' concerns.</p>
 <p><strong>Changes to this Policy</strong><br>
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently.&nbsp; If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+<a name="saas"></a>
 <p><strong>III. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kenexa's Application Service Provider (ASP) Personal Information Privacy Policy</strong></p>
 <p>Kenexa provides our customers with applications that facilitate many Human Resource related requirements. These applications are not a part of our corporate web site. Kenexa serves as a Data Processor for the clients who use these applications. More specifically, Kenexa does not own the information that is submitted to our applications. The information that is submitted to our applications will be subject to our clients’ privacy policies.</p>
-<p>Kenexa participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a client for whom Kenexa processes data should be addressed to that client.</p>
+<p>Kenexa participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a client for whom Kenexa processes data should be addressed to that client.</p>
 <p>The following information discloses how information is submitted via our applications and how we handle the information for our clients who are the owners of this data.</p>
 <p>Kenexa is a leading end-to-end provider of software, proprietary content, services and process outsourcing that enable organizations to more effectively recruit and retain employees. This ASP Privacy Policy applies only to the transfer of personally identifiable information ("Personal Information") received by Kenexa in any format through its hosted software, whether supplied directly by Kenexa customers or by employees or users of the hosted software anywhere in the world, including transfers from the European Economic Area (EEA) to the United States.</p>
 <p>Kenexa abides by the EU Safe Harbor framework as set forth by the United States Department of Commerce regarding collection, use, and retention of data received from the European Union. For more information about Safe Harbor, go to <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>. Accordingly, we operate as a data processor for our customers. Kenexa’s customers act as data controllers. Kenexa maintains only that Personal Information which its customers have asked it to process. This ASP Privacy Policy does not reflect the privacy practices of Kenexa's customers and Kenexa is not responsible for its customers' privacy policies or practices. Kenexa does not review, comment upon or monitor its customers' privacy policies or their compliance with their respective privacy policies, nor does Kenexa review its customer’s instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy.</p>
@@ -247,8 +320,8 @@ We may use cookies to enhance a user’s experience while using our hosted softw
 <p>Our hosted software may contain links to other sites. Please be aware that we are not responsible for the privacy practices or content of such other sites.</p>
 <p><strong>Children's privacy</strong><br>
 Kenexa&nbsp;is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Kenexa does not knowingly collect information from children under the age of 13 and Kenexa does not target its website or its products to children under the age of 13.</p>
-<p>Last updated on: ­­ February 12, 2008</p>
-<p>© 2008 Kenexa. All Rights Reserved</p>
+<p>Last updated on: ­­ March 25, 2010</p>
+<p>© 2010 Kenexa. All Rights Reserved</p>
 <p style="text-align: center;"><img width="165" height="47" src="/getfile/63f103b5-aeda-41e3-be45-1e6fc09b3456/TRUSTe_EU_Seal.aspx" alt="TRUSTe"></p>
       </div>
     </div></div></div>
@@ -257,30 +330,28 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
     <div id="page-subnav">
       <div class="nav-box"><div class="outer"><div class="inner">
         <div class="content">
-          <ul>
-      	    
+  	  
+	<ul id="menuElem">
+		<li><a href="/search"><div>Search</div></a></li>
+		<li><a href="/site-map"><div>Site Map</div></a></li>
+	</ul>
 
-          </ul>
+
   	</div>
       </div></div></div>
       <div class="resources-box"><div class="outer"><div class="inner">
   	<div class="content">
     	  <ul>
 	    
+<li class="contact"><a href="/about-us/contact-us" title="Contact">Contact</a></li>
+
 	  </ul>
 	</div>
       </div></div></div>
     </div>
     <div class="related-box"><div class="outer"><div class="inner">
       <div class="content">
-        <h3 class="success">Connecting Success</h3><div class="otherpages">
-  <ul><li>No related links available.</li>
-  </ul>
-</div><div class="small-list">
-  <ul>
-<li class="even"><div class="holder"><div class="content">No related content items are available.</div></div></li>
-  </ul>
-</div>
+        <h3 class="success">Connecting Success</h3>
       </div>
     </div></div></div>
   </div>
@@ -293,39 +364,17 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
     <div id="page-footer"><div class="outer"><div class="inner">
       <div class="leftcol">
         <ul>
-    <li><a title="i X e = s" href="/ixe">
-    <div><img width="53" height="20" alt="i x e = s" src="/App_Themes/Kenexa/img/iXe-link.gif">™</div>
-    </a></li>
-    <li><a href="http://www.kenexagovernmentsolutions.com" title="Government Solutions" target="_blank">
-    <div>Government Solutions</div>
-    </a></li>
-    <li><a href="/investor-relations" title="Investor Relations" target="_self">
-    <div>Investor Relations</div>
-    </a></li>
-    <li><a href="/kri" title="Kenexa Research Institute" target="_self">
-    <div>Kenexa Research Institute</div>
-    </a></li>
-    <li><a target="_self" title="Resource Center" href="/resource-center">
-    <div>Resource Center</div>
-    </a></li>
-    <!--<li><a href="/sales-center" target="_self" title="Sales Center">
-    <div>Sales Center</div>
-    </a></li>-->
-    <li><a href="/media-room" title="Media Room" target="_self">
-    <div>Media Room</div>
-    </a></li>
-    <li><a href="/about-us" target="_self" title="About Kenexa">
-    <div>About Kenexa</div>
-    </a></li>
-    <li><a href="http://www.kenexa.jobs" target="_self" title="Careers">
-    <div>Careers</div>
-    </a></li>
-</ul><div class="bottom-search"><div class="page-search"><div id="plcRoot_Layout_zoneBottomLeft_PageSearchBottom_pnlSearch" class="searchBox">
-	
-    <label for="plcRoot_Layout_zoneBottomLeft_PageSearchBottom_txtWord" id="plcRoot_Layout_zoneBottomLeft_PageSearchBottom_lblSearch"></label><input name="plcRoot$Layout$zoneBottomLeft$PageSearchBottom$txtWord" type="text" id="plcRoot_Layout_zoneBottomLeft_PageSearchBottom_txtWord" class="txt"><input type="submit" name="plcRoot$Layout$zoneBottomLeft$PageSearchBottom$btnGo" value="." id="plcRoot_Layout_zoneBottomLeft_PageSearchBottom_btnGo" class="btn">
-
-</div>
-</div></div>
+    <li><a title="i X e = s" href="/ixe">     <span><img width="53" height="20" alt="i x e = s" src="/App_Themes/Kenexa/img/iXe-link.gif">™</span>     </a></li>
+    <li><a href="http://www.kenexagovernmentsolutions.com" title="Government Solutions" target="_blank">     <span>Government Solutions</span>     </a></li>
+    <li><a href="/investor-relations" title="Investor Relations" target="_self">     <span>Investor Relations</span>     </a></li>
+    <li><a href="/kri" title="Kenexa Research Institute" target="_self">     <span>Kenexa Research Institute</span>     </a></li>
+    <li><a target="_self" title="Resource Center" href="/resource-center">     <span>Resource Center</span>     </a></li>
+    <li><a href="/media-room" title="Media Room" target="_self">     <span>Media Room</span>     </a></li>
+    <li><a href="/procurement" target="_self" title="Procurement Center">     <span>Procurement Center</span>     </a></li>
+    <li><a href="http://www.kenexa.jobs" target="_blank" title="Careers">     <span>Careers</span>     </a></li>
+    <li><a href="/connect" target="_self" title="Connect With Us">     <span>Connect With Us</span>     </a></li>
+    <li><a href="/about-us" target="_self" title="About Kenexa">     <span>About Kenexa</span>     </a></li>
+</ul>
       </div>
       <div class="middlecol">
         <div class="small-list" id="news-list">
@@ -333,33 +382,33 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
   <ul>
 
 <li>
-  <a href="/MediaRoom/PressReleases/2009/Kenexa-Thought-Leader-To-Present-At-Dubai-School-O" title="Kenexa Thought Leader To Present At Dubai School Of Government">
+  <a href="/MediaRoom/PressReleases/2010/Kenexa-Selects-eQuest-to-Enhance-Recruitment-Softw" title="Kenexa Selects eQuest to Enhance Recruitment Software, Expand Domestic and International Job Board Reach">
     <div class="holder"><div class="content">
-      <h5>Kenexa Thought Leader To Present At Dubai School Of Government</h5>
-      <div class="subtext">Sunday, June 21, 2009</div>
+      <h5>Kenexa Selects eQuest to Enhance Recruitment Software, Expand Domestic and International Job Board Reach</h5>
+      <div class="subtext">Thursday, November 18, 2010</div>
     </div></div>
   </a>
 </li>
 <li class="even">
-  <a href="/MediaRoom/PressReleases/2009/Kenexa-Notified-of-Purported-Class-Action-Lawsuit" title="Kenexa Notified of Purported Class Action Lawsuit">
+  <a href="/MediaRoom/PressReleases/2010/Kenexa-Ranked-Number-27-Fastest-Growing-Company-in" title="Kenexa Ranked Number 27 Fastest Growing Company in the Greater Philadelphia Region on Deloitte’s 2010 Greater Philadelphia Fast 50">
     <div class="holder"><div class="content">
-      <h5>Kenexa Notified of Purported Class Action Lawsuit</h5>
-      <div class="subtext">Friday, June 12, 2009</div>
+      <h5>Kenexa Ranked Number 27 Fastest Growing Company in the Greater Philadelphia Region on Deloitte’s 2010 Greater Philadelphia Fast 50</h5>
+      <div class="subtext">Thursday, November 04, 2010</div>
     </div></div>
   </a>
 </li>
 <li>
-  <a href="/MediaRoom/PressReleases/2009/Latest-Release-of-Kenexa-Recruiter-BrassRing-Help" title="Latest Release of Kenexa Recruiter® BrassRing Helps Organizations Lower Recruitment and Hiring Costs">
+  <a href="/MediaRoom/PressReleases/2010/Kenexa-Announces-Financial-Results-for-Third-Quart" title="Kenexa Announces Financial Results for Third Quarter 2010">
     <div class="holder"><div class="content">
-      <h5>Latest Release of Kenexa Recruiter® BrassRing Helps Organizations Lower Recruitment and Hiring Costs</h5>
-      <div class="subtext">Wednesday, June 03, 2009</div>
+      <h5>Kenexa Announces Financial Results for Third Quarter 2010</h5>
+      <div class="subtext">Tuesday, November 02, 2010</div>
     </div></div>
   </a>
 </li>
   </ul>
 </div>
 <div class="more">
-  <a href="/press-releases" title="See all Kenexa News"><div>See all Kenexa News</div></a>
+  <a href="/press-releases" title="See all Kenexa News"><span>See all Kenexa News</span></a>
 </div>
       </div>
       <div class="rightcol">
@@ -368,47 +417,55 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
   <ul>
 
 <li class="tradeshow">
-  <a href="/Kenexus/Tradeshows/2009/2009-SHRM-Annual-Conference---Exposition" title="2009 SHRM Annual Conference &amp; Exposition ">
+  <a href="/Kenexus/Tradeshows/2010/HR-in-the-Public-Sector-2010" title="HR in the Public Sector 2010">
     <div class="holder"><div class="content">
-      <h5>2009 SHRM Annual Conference &amp; Exposition </h5>
-      <div class="subtext">Sunday, June 28, 2009</div>
+      <h5>HR in the Public Sector 2010</h5>
+      <div class="subtext">Thursday, November 25, 2010</div>
     </div></div>
   </a>
 </li>
 <li class="even tradeshow">
-  <a href="/Kenexus/Tradeshows/2009/Association-of-Graduate-Recruiters-Annual-Conferen" title="Association of Graduate Recruiters Annual Conference 2009">
+  <a href="/Kenexus/Tradeshows/2010/SFIA-Conference-2010" title="SFIA Conference 2010">
     <div class="holder"><div class="content">
-      <h5>Association of Graduate Recruiters Annual Conference 2009</h5>
-      <div class="subtext">Sunday, July 05, 2009</div>
+      <h5>SFIA Conference 2010</h5>
+      <div class="subtext">Wednesday, December 01, 2010</div>
     </div></div>
   </a>
 </li>
-<li class="usergroup">
-  <a href="/Kenexus/UserGroups/2009/Kenexa-Recruiter-BrassRing-Midwest-Regional-User-" title="Kenexa Recruiter® BrassRing Midwest Regional User Group">
+<li class="tradeshow">
+  <a href="/Kenexus/Tradeshows/2010/2010-Leveraging-HR-Technology-Conference" title="2010 Leveraging HR Technology Conference">
     <div class="holder"><div class="content">
-      <h5>Kenexa Recruiter® BrassRing Midwest Regional User Group</h5>
-      <div class="subtext">Wednesday, July 08, 2009</div>
+      <h5>2010 Leveraging HR Technology Conference</h5>
+      <div class="subtext">Thursday, December 02, 2010</div>
     </div></div>
   </a>
 </li>
   </ul>
 </div>
 <div class="more">
-  <a href="/kenexus" title="See all Upcoming Events"><div>See all Upcoming Events</div></a>
+  <a href="/kenexus" title="See all Upcoming Events"><span>See all Upcoming Events</span></a>
 </div>
       </div>
     </div></div></div>
     <div id="page-links">
       <ul class="left">
-    <li>© Kenexa 2009</li>
-    <li><a title="Privacy Policy" href="/privacy-policy">Privacy Policy</a></li>
-    <li><a title="Site Map" href="/site-map">Site Map</a></li>
-    <li><a title="Contact Us" href="/about-us/contact-us">Contact Us</a></li>
-</ul>
-<ul class="right">
-    <li><a target="_blank" title="Kenexa Podcasts" href="http://www.kenexapods.com" class="kenexapods">Kenexa Podcasts</a></li>
-    <li><a target="_blank" title="Kenexa Blog" href="http://blog.kenexa.com" class="kenexablog">Kenexa Blog</a></li>
-</ul>
+        <li>© Kenexa 2010</li>
+        <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+        <li><a href="/site-map" title="Site Map">Site Map</a></li>
+        <li><a href="/about-us/contact-us" title="Contact Us">Contact Us</a></li>
+      </ul>
+      <ul class="right">
+        <li class="translate">
+	  Translate:
+          <select>
+            <option value="en-US">English</option>
+	    <option value="zh-CN">Chinese</option>
+            <option value="de-DE">German</option>
+          </select>
+        </li>
+        <li><a class="kenexapods" href="http://www.kenexapods.com" title="Kenexa Podcasts" target="_blank">Kenexa Podcasts</a></li>
+        <li><a class="kenexablog" href="http://blog.kenexa.com" title="Kenexa Blog" target="_blank">Kenexa Blog</a></li>
+      </ul>
     </div>
   </div>
 </div>
@@ -449,9 +506,20 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
         
     
+<div>
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+</div>
 
 <script type="text/javascript">
 //<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 Sys.Application.initialize();
 //]]>
 </script>
