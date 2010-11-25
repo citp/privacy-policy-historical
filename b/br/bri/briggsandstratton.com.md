@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615011852id_/http%3A//www.briggsandstratton.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125153023id_/http%3A//www.briggsandstratton.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Briggs & Stratton
+# Privacy Policy | Briggs & Stratton
 
-This privacy statement discloses the privacy practices for http://www.briggsandstratton.com. This web site has agreed to notify you of:
+This privacy statement discloses the privacy practices for [http://www.briggsracing.com](http://www.briggsracing.com/). This web site has agreed to notify you of:
 
-  * what personally identifiable information of yours is collected from you on the web site
-  * the organization collecting the information
-  * how the information is used
-  * with whom the information may be shared
-  * what choices are available to you regarding collection, use and distribution of the information
-  * the kind of security procedures that are in place to protect the loss, misuse or alteration of information under briggs & stratton's control
+  * what personally identifiable information of yours is collected from you on the web site 
+  * the organization collecting the information 
+  * how the information is used 
+  * with whom the information may be shared 
+  * what choices are available to you regarding collection, use and distribution of the information 
+  * the kind of security procedures that are in place to protect the loss, misuse or alteration of information under briggs & stratton's control 
   * how you can correct any inaccuracies in the information. 
 
 
 
 ### Information Collection and Use
 
-The Briggs & Stratton Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Briggs & Stratton Corporation collects information from our users at several different points on our web site.<
+The Briggs & Stratton Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Briggs & Stratton Corporation collects information from our users at several different points on our web site.
 
 ### My Engine Information: Registration
 
