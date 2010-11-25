@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jellyfish.co.uk privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107045412id_/http%3A//www.jellyfish.co.uk/jellyfish/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellyfish.co.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125121512id_/http%3A//jellyfish.co.uk/jellyfish/privacy) for the most accurate reproduction.*
 
 # Privacy - Jellyfish
+
+## Privacy
 
 **At Jellyfish Online Marketing Ltd we respect your privacy and we promise to:**
 
@@ -17,7 +19,7 @@
 **  
 About Jellyfish Online Marketing Ltd**
 
-Jellyfish Online Marketing Ltd's registered address is Chapter House, 33 London Road, Reigate, Surrey, RH2 9HZ. The registration number is 03845245.
+Jellyfish Online Marketing Ltd's registered address is Jellyfish House, 31 London Road, Reigate, Surrey, RH2 9SS. The registration number is 03845245.
 
 Jellyfish Online Marketing Ltd is part of the Jellyfish Group.
 
@@ -87,8 +89,8 @@ Our website may provide links to resources that we believe to be useful. These l
 **  
 Updating and accessing your information**
 
-You have a right under the Data Protection Act 1998 to see what information we hold about you, subject to certain conditions. If you want to exercise this right, you should make an application to us in writing. We may ask you to provide us with sufficient information so that we can be sure of your identity. We also reserve the right to make a charge of £10 for providing you with the information you are requesting. If you would like to proceed with a request to see what data we hold about you, please write to The Data Protection Compliance Officer, Jellyfish Online Marketing Ltd, Chapter House, 33 London Road, Reigate, Surrey, RH2 9HZ.
+You have a right under the Data Protection Act 1998 to see what information we hold about you, subject to certain conditions. If you want to exercise this right, you should make an application to us in writing. We may ask you to provide us with sufficient information so that we can be sure of your identity. We also reserve the right to make a charge of £10 for providing you with the information you are requesting. If you would like to proceed with a request to see what data we hold about you, please write to The Data Protection Compliance Officer, Jellyfish Online Marketing Ltd, Jellyfish House, 31 London Road, Reigate, Surrey, RH2 9SS.
 
-We hope you will benefit from any communications we send to you, but if at any time you change your mind, you may unsubscribe to our email or mobile messaging by following the instructions we give you at the time we broadcast a message to you. If you have given us permission to write to you or to phone you with marketing messages, you may change your mind by writing to: The Data Protection Compliance Officer, Jellyfish Online Marketing Ltd, Chapter House, 33 London Road, Reigate, Surrey, RH2 9HZ.
+We hope you will benefit from any communications we send to you, but if at any time you change your mind, you may unsubscribe to our email or mobile messaging by following the instructions we give you at the time we broadcast a message to you. If you have given us permission to write to you or to phone you with marketing messages, you may change your mind by writing to: The Data Protection Compliance Officer, Jellyfish Online Marketing Ltd, Jellyfish House, 31 London Road, Reigate, Surrey, RH2 9SS.
 
 If we do not hear otherwise from you, we will assume that the information you provide to us is accurate and up-to-date and we will continue to use the information to send you any communications you have requested.
