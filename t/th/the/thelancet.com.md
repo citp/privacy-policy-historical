@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelancet.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628160306id_/http%3A//www.thelancet.com/popup%3FfileName%3Dfooter-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelancet.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125135247id_/http%3A//www.thelancet.com/footer-policy) for the most accurate reproduction.*
 
-# None
+# TheLancet.com
 
 This web site ("Site") is owned and operated by Elsevier Limited, whose registered office is at The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, registered in England and Wales, Reg. Co. No. 1982084, VAT No. 494627212 ("Elsevier", "we", "us", "our").
 
