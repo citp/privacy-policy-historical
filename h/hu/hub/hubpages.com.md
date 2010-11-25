@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hubpages.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402094028id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubpages.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126000419id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
 
 # HubPages Privacy Policy
+
+**This Privacy Policy will change effective September 27, 2010. To view the new Privacy Policy, please[click here](http://hubpages.com/help/privacy_policy_sept2010).**
 
 The effective date of this Privacy Policy is December 10, 2009. Click here for recent changes to this Privacy Policy.
 
