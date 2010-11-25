@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextgenwalkthroughs.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410075438id_/http%3A//nextgenwalkthroughs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgenwalkthroughs.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125143146id_/http%3A//nextgenwalkthroughs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextGenWalkthroughs
 
