@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitorious.org privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113191641id_/http%3A//en.gitorious.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitorious.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125074937id_/http%3A//en.gitorious.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,8 +45,8 @@ Although most changes are likely to be minor, Shortcut may change its Privacy Po
 Shortcut AS of Norway is the data processor. The business address of Shortcut AS is:
 
 Shortcut AS  
-Rådhusgaten 20  
-0151 NO-OSLO  
+Nedre Slottsgate 13  
+0157 NO-OSLO  
 NORWAY
 
 * * *
