@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510123527id_/http%3A//www.dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125121804id_/http%3A//www.dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
 
 # DialIdol.com - Measuring the busy signal.
 
