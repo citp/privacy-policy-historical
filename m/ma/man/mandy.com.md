@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102021744id_/http%3A//www.mandy.com/1/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125151401id_/http%3A//www.mandy.com/1/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Refund Policy and Contact details - mandy.com / Lighthouse Internet
 
@@ -117,8 +117,8 @@ Please let us know if the personal information which we hold about you needs to 
 **(11) Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please contact us:  
-POST: Oasis Business Centre, 6 Lissenden Gardens, London NW5 1LX, England  
-TEL: +44(0)207 482 8820  
+POST: Oasis Business Centre, 85-87 Bayham Street, London NW1 0AG, England  
+TEL: +44(0)207 424 7817  
 EMAIL: office (at) mandy.com 
 
 June 2009 
