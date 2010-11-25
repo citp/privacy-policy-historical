@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020547id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125142342id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # ESOMAR - Privacy Policy
 
