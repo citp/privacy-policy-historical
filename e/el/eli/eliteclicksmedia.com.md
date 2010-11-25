@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliteclicksmedia.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502083530id_/http%3A//www.eliteclicksmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliteclicksmedia.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125020522id_/http%3A//eliteclicksmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Elite Clicks Media
 
