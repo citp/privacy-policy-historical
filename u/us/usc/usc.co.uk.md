@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921032803id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125190912id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy @ USC
 
@@ -27,7 +27,7 @@ Provide you with information such as news regarding the website, new services an
 **Data Protection**
 
   
-USC uses the latest in Secure Server Technology to ensure that all of your personal and transactional information is protected to the highest standards. We never make your personal details available to companies outside USC for marketing purposes, although our representatives and appointed agents and business partners may hold your data so that your details and/or order can be processed and/or account maintained. West Coast Capital (USC) Ltd. is registered with the Information Commissioners Office as a Data Controller. We will comply with the standard, procedures and requirements as laid down in the Data Protection Acts 1984 and 1998 and to ensure that your personal data is kept secure and processed as required by the various laws in force from time-to-time.
+West Coast Capital (USC) Ltd. use the latest in Secure Server Technology to ensure that all of your personal and transactional information is protected to the highest standards. We never make your personal details available to companies outside West Coast Capital (USC) Ltd. Or our sister companies controlled or owned by West Coast Capital for marketing purposes, although our representatives and appointed agents and business partners may hold your data so that your details and/or order can be processed and/or account maintained. West Coast Capital (USC) Ltd. is registered with the Information Commissioners Office as a Data Controller. We will comply with the standard, procedures and requirements as laid down in the Data Protection Acts 1984 and 1998 and to ensure that your personal data is kept secure and processed as required by the various laws in force from time-to-time. 
 
   
 **Keeping in touch with you**
@@ -47,4 +47,4 @@ Your personal information may be disclosed to other businesses within the USC an
 We may update our policies from time-time by posting a new version on our website. You should check our policy pages occasionally to ensure you are happy with any changes.
 
   
-Registered Office West Coast Capital (USC) Ltd. Registered in Scotland. Marathon House, Olympic Business Park, Drybridge Road, Dundonald, KA2 9BE
+Registered Office _West Coast Capital (USC) Ltd. c/o McGrigors, 5 Old Bailey, London, EC4M 7BA_
