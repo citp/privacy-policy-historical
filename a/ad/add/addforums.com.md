@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addforums.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519053803id_/http%3A//addforums.com/forums/showthread.php%3Fp%3D236963%23post236963) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addforums.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125024453id_/http%3A//addforums.com/forums/showthread.php%3Fp%3D236963%23post236963) for the most accurate reproduction.*
 
 # Privacy Policy - ADD Forums - Attention Deficit Hyperactivity Disorder Support and Information Resources Community
 
@@ -13,8 +13,3 @@ This Web site contains links to other sites. Please be aware that we, ADD Forums
 If we decide to change our privacy policy, we will post those changes to this privacy statement, our homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
 If a user's personally identifiable information changes (i.e. email address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users accounts or personally identifiable information. This can be done by e-mailing [admin@addforums.com](mailto:admin@addforums.com).
-
-__________________  
-To review the ADD Forums Guidelines, please [**click here.**](http://www.addforums.com/forums/forumdisplay.php?f=75)  
-  
-The end is near...I don't have time to shoe shop for Andi! [](http://www.boardoo.com/)
