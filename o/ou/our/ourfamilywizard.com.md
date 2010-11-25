@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515133133id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125230749id_/http%3A//ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The OurFamilyWizard website
 
