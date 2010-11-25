@@ -1,103 +1,50 @@
-<!--The following is the downloaded HTML source of the looah.com privacy policy that was archived on 2010-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513080051id_/http%3A//looah.com/looah_infos/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the looah.com privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125032747id_/http%3A//looah.com/looah_infos/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Looah</title>
+<meta name="google-site-verification" content="YRrdeHwk_BiMl07orpp5rq2CTK4d6EkHkiDf3Cnr5Tw">
+<meta name="description" content="looah, where community posts, translates, and discusses current affairs, breaking news, twitter and blog from all around the world.">
+<meta name="keywords" content="looah, social, community, translation, translate, online, news, photo, twitter, blog, global, language, culture">
+<meta name="author" content="Looah, LLC">
+<title>Looah</title>
 
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.0.0/build/cssreset/reset-min.css"><link rel="stylesheet" type="text/css" href="/css/style.css"><link rel="stylesheet" type="text/css" href="/css/looah.css"></head>
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.0.0/build/cssreset/reset-min.css"><link rel="stylesheet" type="text/css" href="/css/style.css?1285828548"><link rel="stylesheet" type="text/css" href="/css/looah.css?1289293406"><script type="text/javascript" src="/js/looah-login-module.js?1290500501"></script><script type="text/javascript" src="http://yui.yahooapis.com/3.0.0/build/yui/yui-min.js"></script><script type="text/javascript" src="/js/looah-common.js?1289289593"></script></head>
 <body>
 <a name="back-to-top"></a>
-<script type="text/javascript">
-//<![CDATA[
-  /* because.. lazy yui.js loading !*/
-  var toggleInputConfig = {
-    'UserEmail' : false,
-    'UserEmail-value' : 'Email',
-    'UserPassword' : false,
-    'UserPassword-value' : 'Password',
-    'TranslationTxtsearch' : false,
-    'TranslationTxtsearch-value' : 'Find your world interest!\t'
-  }; /* end of toggleInputConfig*/
-
-  var setEmptyValue = function(node){
-    var passwordNode , id = (node.id ==='looah-mock-pwd'?'UserPassword':node.id);
-    if(!toggleInputConfig[id]){
-      toggleInputConfig[id] = true;
-      if(id ==='UserPassword'){  // ie not change input type
-        node.style.display='none';
-        passwordNode = document.getElementById('UserPassword');
-        passwordNode.value='';
-        passwordNode.style.display='block';
-        passwordNode.focus();
-      }else{
-        node.value = '';
-        node.style.color = '#333';
-      }
-      if(id === 'looah-editor'){
-        node.style.fontSize  = '13px';
-      }
-    }
-  }; /* end of setEmptyValue*/
-
-  var inputBlur = function(node){
-    var id = node.id;
-    if(!node.value && toggleInputConfig[id]){
-      toggleInputConfig[id] = false;
-      if(id ==='UserPassword'){
-        document.getElementById('looah-mock-pwd').style.display='block';
-        node.style.display='none';
-      }else{
-        node.value = toggleInputConfig[id+'-value'];
-        node.style.color = '#999';
-      }
-      if(id === 'looah-editor'){
-        node.style.fontSize  = '15px';
-      }
-    }
-  }; /* end of inputBlur*/
-  // ]]>
-</script>
 <div id="looah-top-container">
   <div id="looah-header-container">
     <div id="looah-header">
-
-    <!-- start logo -->
-        <div class="logo">
-            <a href="/looah_infos/../article_translations/homepage">
-                <img src="/img/looah_logo_1.png" alt="looah logo">            </a>
+      <!-- start logo -->
+      <div class="logo">
+        <a href="/">
+          <img src="/img/looah_logo_1.png?1285827996" alt="looah logo">        </a>
+      </div>
+      <!-- end logo -->
+            	<div class="functions">
+        <div id="looah-fn-box">
+          <div class="links-bar">
+            <ul>
+                            <li class="third-btn require-login looah-cursor"><img src="/img/fb-login-top.png?1285827996" alt="fb"></li>
+              <li class="third-btn require-login looah-cursor"><img src="/img/tw-login-top.png?1285827996" alt="tw"></li>
+              <li class="link-text"><a href="#" class="require-login">Login</a></li>
+              <li class="link-text">|</li>
+              <li class="link-text"><a href="/looah_infos/../users/add">Register</a></li>
+                          </ul>
+          </div>
+          <div class="search-bar">
+            <ul>
+              <li>
+                  <form id="TranslatingSearchForm" method="post" action="/translatings/search_translated_article"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset><input name="data[Translatings][txtsearch]" type="text" id="LooahSearch" class="looah-search-field" value="Search     " onfocus="Looah.setEmptyValue(this);" onblur="Looah.inputBlur(this);"></form>              </li>
+              <li class="search-btn"><img src="/img/search.png?1285827996" alt="search" class="looah-cursor"></li>
+            </ul>            
+          </div>
         </div>
-    <!-- end logo -->
-
-    <!-- start mid-header -->
-        <div class="mid-header">
-
-        <form id="UserLoginForm" method="post" action="/users/user_login"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset><input type="hidden" name="data[topbar]" value="1" id="UserTopbar">
-            <div class="looah-not-login-greeting">
-              <div class="input text"><label for="UserEmail"></label><input name="data[User][email]" type="text" class="text-box text-box-email" value="Email" onfocus="setEmptyValue(this);" onblur="inputBlur(this);" tabindex="1" maxlength="100" id="UserEmail"></div>              <p>Not yet a member? <a href="/looah_infos/../users/add" tabindex="3">Register</a></p>
-            </div>
-            <div class="looah-not-login-greeting">
-              <input type="text" id="looah-mock-pwd" class="text-box text-box-pwd looah-mock-pwd" value="Password" onfocus="setEmptyValue(this);" tabindex="2">
-              <label for="UserPassword"></label><input type="password" name="data[User][password]" class="text-box text-box-pwd looah-real-pwd" value="" onblur="inputBlur(this);" tabindex="2" id="UserPassword">              <p>Forgot your <a href="/looah_infos/../users/user_forgot_password" tabindex="4">Password</a>?</p>
-            </div>
-            <div class="looah-not-login-greeting">
-              <a href="#" class="btn-login">Log in</a>
-            </div>
-          </form> <!-- User form end! -->
-    <input type="hidden" name="data[User][original_url]" value="" id="original_url">        </div>
-    <!-- end mid-header -->
-
-    <!-- start right-header -->
-        <div class="right-header ie3pxbug-right">
-        <form id="TranslationSearchForm" method="post" action="/translations/search_translated_article"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset><div class="input text"><label for="TranslationTxtsearch"></label><input name="data[Translation][txtsearch]" type="text" class="text-box-find" value="Find your world interest!" onfocus="setEmptyValue(this);" onblur="inputBlur(this);" id="TranslationTxtsearch"></div>            <div class="btn-find-wrap"> <a href="#" class="btn-find">Find</a></div>
-
-          </form> <!-- Translation form end! -->
-        </div>
-    <!-- end right-header -->
-    </div> <!-- looah-header -->
-     </div> <!-- end looah-header-container -->
-</div> <!-- end looah-top-container -->
- 
+      </div>
+      <!-- end functions -->
+      <input type="hidden" name="data[fbLoginLink]" id="fbLoginLink" value=""><input type="hidden" name="data[twLoginLink]" id="twLoginLink" value="">    </div> <!-- looah-header -->
+  </div> <!-- end looah-header-container -->
+</div> <!-- end looah-top-container --> 
 
 <div id="looah-content">
   <div class="looah-virtual-paragraph">
@@ -136,10 +83,24 @@
         <li class="last"><a href="/looah_infos/../looah_infos/help">Help</a></li>
       </ul>
     </div>
-    <div class="rightFooter">© 2010 Looah, Inc. All Rights Reserved</div>
+    <div class="rightFooter">© 2010 Looah, LLC</div>
   </div> 
 </div>
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl."
+        : "http://www.");
+    document
+        .write(unescape("%3Cscript src='"
+            + gaJsHost
+            + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("UA-16433547-1");
+      pageTracker._trackPageview();
+    } catch (err) {
+    }
+  </script>
 
-<script type="text/javascript" src="http://yui.yahooapis.com/3.0.0/build/yui/yui-min.js"></script><script type="text/javascript" src="/js/looah-profile-bar.js"></script>
 
 </body></html>
