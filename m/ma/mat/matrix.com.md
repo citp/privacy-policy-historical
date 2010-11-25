@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrix.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228081357id_/http%3A//www.matrix.com/about_matrix/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrix.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125095730id_/http%3A//www.matrix.com/about_matrix/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Matrix Hairstyles
 
