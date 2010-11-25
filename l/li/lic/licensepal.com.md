@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the licensepal.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408201326id_/http%3A//licensepal.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licensepal.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125030317id_/http%3A//www.licensepal.com/pp.php) for the most accurate reproduction.*
 
 # LicensePal - Web Hosting Software License Reseller - Company
 
