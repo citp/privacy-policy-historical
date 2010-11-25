@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215030259id_/http%3A//www.investingchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125060710id_/http%3A//www.investingchannel.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
