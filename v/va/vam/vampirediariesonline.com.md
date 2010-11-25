@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vampirediariesonline.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608195214id_/http%3A//vampirediariesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampirediariesonline.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125105518id_/http%3A//vampirediariesonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vampire Diaries Spoilers and News
-
-If you're new here, you may want to subscribe to my [RSS feed](http://vampirediariesonline.com/feed/). Thanks for visiting!
 
 Privacy Policy for www.vampirediariesonline.com
 
