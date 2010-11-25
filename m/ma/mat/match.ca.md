@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the match.ca privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca/registration/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.ca privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
-Consumer Privacy at Match.com, L.L.C., an IAC Company
+Consumer Privacy at Match.com, L.L.C., an IAC Company  
+ _Last Updated: July 31, 2010_
 
 Match.com, L.L.C. (“Match.com”) is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, College Humor, Evite, Gifts.com, ServiceMagic, Shoebuy, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
 
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Match.com, please click [here](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca/registration/privacypolicy.aspx).  
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Match.com, please click [here](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca/registration/privacypolicy.aspx).  
   
 ---  
   
-Information we may collect[[Read more]](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx#wecollect)
+Information we may collect[[Read more]](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx#wecollect)
 
 We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
 
@@ -25,7 +26,7 @@ We also may collect other types of information in the following ways when you vi
 
 We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.  
   
-Information others may collect[[Read more]](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx#otherscollect)
+Information others may collect[[Read more]](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx#otherscollect)
 
 We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
 
@@ -37,7 +38,7 @@ We may allow third-party advertising companies or ad networks to display adverti
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.  
   
-How we may use information we collect[[Read more]](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx#howweuse)
+How we may use information we collect[[Read more]](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx#howweuse)
 
 We may use information to:
 
@@ -52,7 +53,7 @@ We may use information to:
 
   
   
-With whom we may share information we collect[[Read more]](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx#howshare)
+With whom we may share information we collect[[Read more]](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx#howshare)
 
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
@@ -65,19 +66,19 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.   
   
-Your choices[[Read more]](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx#yourchoices)
+Your choices[[Read more]](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx#yourchoices)
 
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails from us by sending an email to the contact address at the bottom of this policy or by visiting the [Account Settings](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca/accountsettings/accountIndex.aspx) page associated with your account;
+  * To stop receiving promotional emails from us by sending an email to the contact address at the bottom of this policy or by visiting the [Account Settings](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca/accountsettings/accountIndex.aspx) page associated with your account;
   * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account. 
-  * To learn about additional choices, [click here](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx#yourchoices).
+  * To learn about additional choices, [click here](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx#yourchoices).
 
   
   
-Security[[Read more]](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx#security)
+Security[[Read more]](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx#security)
 
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.   
   
@@ -87,7 +88,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
   
 How to contact us
 
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20100316194519id_/http%3A//www.match.ca//registration/privacypolicy.aspx), or our information practices, please contact us by email or postal mail below:
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20101125165750id_/http%3A//www.match.ca//registration/privacypolicy.aspx), or our information practices, please contact us by email or postal mail below:
 
 Privacy Officer  
 Match.com, L.L.C.  
@@ -107,10 +108,10 @@ Through the use of a cookie, we also may automatically collect information about
 
 You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ([www.networkadvertising.org](http://www.networkadvertising.org/)). This policy covers the use of cookies by Match.com only and does not cover the use of cookies by any advertisers. 
 
 _Web Beacons:_
 
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
 
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional (or other) e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
