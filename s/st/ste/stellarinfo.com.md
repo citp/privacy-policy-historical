@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628173935id_/http%3A//www.stellarinfo.com/company/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125054346id_/http%3A//www.stellarinfo.com/company/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Stellar Information Systems Ltd. - Privacy Policy, Leaders in Hard Drive Data Recovery Software Tools, Disk Recovery Utilities - Stellar
 
@@ -43,3 +43,5 @@ We might use cookies, [small pieces of data stored on the user's hard drive] to 
 
 **Notification of changes**  
 If, at some point in the future, there is a change to our Privacy Policy and/or practices that affect your personally identifiable information, we will notify you by email of the relevant changes.
+
+* * *
