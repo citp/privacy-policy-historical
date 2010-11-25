@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collective2.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522110753id_/http%3A//www.collective2.com/static/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective2.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125220215id_/http%3A//www.collective2.com/static/info/privacy.htm) for the most accurate reproduction.*
 
-# Become a trading system developer on Collective2
+# Collective2
 
 Collective2 takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
