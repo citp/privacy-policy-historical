@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the legalsounds.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617131903id_/http%3A//www.legalsounds.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalsounds.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125111306id_/http%3A//www.legalsounds.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy mp3 download
+# Privacy Policy mp3 download | LegalSounds.com
 
-**What information do we collect?**
+**3What information do we collect?**
 
 We collect information from you when you register on our site. 
 
