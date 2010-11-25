@@ -1,41 +1,86 @@
-<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2010-01-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100128055731id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125023709id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-      <meta name="Description" content="Lose It! is the most complete and streamlined weight loss application for the iPhone. Downloaded by millions of users, Lose It! can help you meet your weight loss goal!">
+        <meta name="google-site-verification" content="yWX9L_kVSeyo4LqRUZJTRSqMqHVQZufil1r2Ciw0XLQ">  
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      	<meta name="Description" content="Lose It! is the most complete and streamlined weight loss application for the iPhone or on the web. Used by millions of users, Lose It! can help you meet your weight loss goal!">
 
-    <link type="text/css" rel="stylesheet" href="/connect/css/styles.css">
-    <link type="text/css" rel="stylesheet" href="/connect/css/applicationStyles.css">
     
-    <title>Lose it! - Succeed at weight loss using your iPhone</title>
-    <script type="text/javascript" language="javascript" src="/_js/jquery-1.3.2.min.js"></script> 
+    <title>Lose it! - Succeed at weight loss with Lose It!</title>
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+    
+
+      <script type="text/javascript" language="javascript" src="/_js/jquery-1.3.2.min.js"></script>
     <script type="text/javascript" language="javascript" src="/connect/connect.nocache.js"></script><script language="javascript" src="https://web.archive.org/connect/flot-latest/jquery.flot.min.js"></script><script language="javascript" src="https://web.archive.org/connect/flot-latest/jquery.flot.pie.min.js"></script><script language="javascript" src="https://web.archive.org/connect/flot-latest/excanvas.min.js"></script><script defer="defer">connect.onInjectionDone('connect')</script>
-    <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
+
     
+    <link rel="stylesheet" href="/connect/css/siteStyle.css" type="text/css" media="screen">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
     
-	
-       
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+		var targetUrl = "/index.jsp" + document.location.search + "#Home";
+		if (document.location.search == "?logout")
+			targetUrl = "/index.jsp" + "#Home";
+		$("#homelink").attr('href', targetUrl);
+	});
+	</script>
+
+
+<!--
+    <link rel="stylesheet" href="/d/d.css" type="text/css" media="screen">
+    <script type="text/javascript" language="javascript" src="/d/d.nocache.js"></script>
+    <script type="text/javascript" language="javascript">
+        var stats = window.__stats = [];
+        window.__gwtStatsEvent = function(evt) {
+          stats[stats.length] = evt;
+          var listener = window.__stats_listener;
+          listener && listener(evt);
+          return true;
+        }
+    </script>
+-->
+
+    <script type="text/javascript">
+    try {
+      var _gaq = _gaq || [];
+    
+        _gaq.push(['_setAccount', 'UA-81546-2']);
+    
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    } catch(err) {}
+    </script>
   </head>
   
   <body class="background">
   
-  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <table id="mainPanel" cellpadding="0" cellspacing="0" border="0" width="100%">
   <tbody><tr>
   <td align="center">
   
   <table border="0" cellpadding="0" cellspacing="0" style="width: 850px;">
   	<tbody><tr>
-  		<td class="loseit-logo">
-  			<a href="/index.jsp"><img src="/_images/LoseItLogo.jpg" border="0" height="69" width="231"></a>
+  		<td class="site-logo" style="vertical-align: top;">
+  			<a href="/index.jsp#Home" style="height:75px" id="homelink"><img src="/_images/LoseItLogo.png" border="0" height="69" width="231"></a>
+              <div id="coBrandWith" style="color:#E38020;display:none;vertical-align: top;position:relative;left:-10px;font-weight:bold;font-size:8pt;top:7px;font-family:Segoe UI">with</div>
+            <div style="display:inline;height:70px;vertical-align: top;position:relative;left:-5px" id="coBrandHeader"></div>
   		</td>
-  		<td align="right" style="vertical-align:bottom;" class="loseit-header-top">
+  		<td align="right" style="vertical-align:bottom;" class="site-header-top">
   		
   		
 			
 			
   				
-
 
 
 <script type="text/javascript"> 
@@ -69,7 +114,8 @@ $(document).ready(function()
         else
         {
         	$(this).removeClass(ghostedStyle);
-      	   	$(this).val("");   
+            if($(this).val() == placeHolderText)
+      	   	    $(this).val("");
         }
         
         $(this).addClass(focusFlag);
@@ -84,20 +130,37 @@ $(document).ready(function()
         $(this).removeClass(focusFlag);
      });  
 
-	
     $('#username').focus();
-       
     
 		$("#password").hide();
 		$("#passwordPlaceholder").show();
     	$("#passwordPlaceholder").focus(function(){$(this).hide(); $("#password").show().focus(); });    
    	  
+
+    var baseUrl = "http://" + window.location.hostname;
+    if (window.location.port != 80 && window.location.port.length > 0)
+        baseUrl = baseUrl + ":" + window.location.port;
+
+	var relativeUrl = '/index.jsp' + window.location.search + window.location.hash;
+	if (window.location.search == "?logout")
+		relativeUrl = '/index.jsp' + window.location.hash;
 	
+    var targetUrl = baseUrl + relativeUrl;
+    if (window.location.hostname.indexOf("beta.loseit.com") > -1)
+        targetUrl = "http://beta.loseit.com" + relativeUrl;
+    else if (window.location.hostname.indexOf(".loseit.com") > -1)
+        targetUrl = "http://www.loseit.com" + relativeUrl;
 
 	
-		$("#hiddenTargetField").value = document.location.pathname + document.location.hash;
+        $("#redirectarget").val(targetUrl);
 	
-	$("#loseitloginform").get(0).action = '/index.jsp' + document.location.hash;
+
+    if (window.location.hostname.indexOf(".loseit.com") > -1)
+        $("#loseitloginform").get(0).action = "https://secure.loseit.com" + relativeUrl;
+    else
+        $("#loseitloginform").get(0).action = baseUrl + relativeUrl;
+
+
 });
 </script>
 
@@ -105,18 +168,18 @@ $(document).ready(function()
 
 <table border="0" cellpadding="0" cellspacing="0">
 
-<form action="/index.jsp" method="post" id="loseitloginform"></form>
-<input type="hidden" name="target" value="" id="hiddenTargetField">
+<form action="http://web.archive.org/index.jsp" method="post" id="loseitloginform"></form>
+<input type="hidden" name="target" value="http://web.archive.org/index.jsp" id="redirectarget">
 	<tbody><tr>
-	<td class="loseit-tinytext" style="color:red; padding-bottom: 5px;" colspan="3">&nbsp;</td>
+	<td class="tiny" style="color:red; padding-bottom: 5px;" colspan="3">&nbsp;</td>
 </tr>
 <tr>
 	<td>
-		<input type="text" name="username" value="" class="loseit-loginpanel-textbox inputGhosted focused" id="username">
+		<input type="text" name="username" value="" class="site-loginpanel-textbox inputGhosted focused" id="username">
 	</td>
 	<td>
-		<input type="password" name="password" value="" class="loseit-loginpanel-textbox" id="password" style="display: none;">
-		<input type="text" name="passwordPlaceholder" value="password" class="loseit-loginpanel-textbox inputGhosted" id="passwordPlaceholder" style="">
+		<input type="password" name="password" value="" class="site-loginpanel-textbox" id="password" style="display: none;">
+		<input type="text" name="passwordPlaceholder" value="password" class="site-loginpanel-textbox inputGhosted" id="passwordPlaceholder" style="">
 	</td>
 	<td align="right">
 		<input type="image" src="/_images/SignInButtonEnabled.png" name="submit">
@@ -125,7 +188,7 @@ $(document).ready(function()
 
 <tr>
 	<td style="padding-bottom: 10px;">
-		<table border="0" cellpadding="0" cellspacing="0" class="loseit-tinytext lightText">
+		<table border="0" cellpadding="0" cellspacing="0" class="tiny lightText">
 		<tbody><tr>
 		<td>
 			<input type="checkBox" name="rememberme" value="rememberme">
@@ -136,7 +199,7 @@ $(document).ready(function()
 		</tr>
 		</tbody></table>
 	</td>
-	<td style="padding-bottom: 10px;" class="loseit-tinytext lightText">
+	<td style="padding-bottom: 10px;" class="tiny lightText">
 		<a href="/resetpassword" style="color: #A2ADB4">Forgot your password?</a>
 	</td>	
 	
@@ -152,12 +215,13 @@ $(document).ready(function()
   		</td>
   	</tr>
   	<tr>
-  		<td colspan="2" bgcolor="white" valign="top" class="loseit-body"> 
+  		<td colspan="2" bgcolor="white" valign="top" class="site-body"> 
   		
 		
 			
 
 <!-- This defines the first item in the toolbar (it's a hack, I know) -->
+
 
 
 
@@ -199,7 +263,7 @@ $(document).ready(function()
 						<div class="tabTopCenterInner"></div>
 						</td>
 						<td class="tabTopRight">
-						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						<div class="tabTopRightInner"></div>
 						</td>
 					</tr>
 					<tr class="tabMiddle">
@@ -243,7 +307,7 @@ $(document).ready(function()
 						<div class="tabTopCenterInner"></div>
 						</td>
 						<td class="tabTopRight">
-						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						<div class="tabTopRightInner"></div>
 						</td>
 					</tr>
 					<tr class="tabMiddle">
@@ -287,7 +351,7 @@ $(document).ready(function()
 						<div class="tabTopCenterInner"></div>
 						</td>
 						<td class="tabTopRight">
-						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						<div class="tabTopRightInner"></div>
 						</td>
 					</tr>
 					<tr class="tabMiddle">
@@ -321,6 +385,50 @@ $(document).ready(function()
 			
 			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
 				
+				" onclick="window.location='http://blog.loseit.com';">
+				<tbody>
+					<tr class="tabTop">
+						<td class="tabTopLeft">
+						<div class="tabTopLeftInner"></div>
+						</td>
+						<td class="tabTopCenter">
+						<div class="tabTopCenterInner"></div>
+						</td>
+						<td class="tabTopRight">
+						<div class="tabTopRightInner"></div>
+						</td>
+					</tr>
+					<tr class="tabMiddle">
+						<td class="tabMiddleLeft">
+						<div class="tabMiddleLeftInner"></div>
+						</td>
+						<td class="tabMiddleCenter">
+						<div class="tabMiddleCenterInner">
+						<div tabindex="0" role="tab">
+						<div class="gwt-Label" style="white-space: nowrap;">Blog</div>
+						</div>
+						</div>
+						</td>
+						<td class="tabMiddleRight">
+						<div class="tabMiddleRightInner"></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			
+		
+			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
+			
+			</td>
+			
+			
+			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
+				
+				">
+			
+			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
+				
 				" onclick="window.location='/contact.jsp';">
 				<tbody>
 					<tr class="tabTop">
@@ -331,7 +439,7 @@ $(document).ready(function()
 						<div class="tabTopCenterInner"></div>
 						</td>
 						<td class="tabTopRight">
-						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						<div class="tabTopRightInner"></div>
 						</td>
 					</tr>
 					<tr class="tabMiddle">
@@ -516,16 +624,15 @@ Last Updated: 12/11/2009
 
 
 
-
-
-
 		</td>
 	</tr>
 	
 	
 	<tr>
-		<td colspan="2" align="center" class="loseit-footer">
+		<td colspan="2" align="center" class="site-footer">
 			<a href="/faq.jsp">FAQs</a>
+			&nbsp;&nbsp;
+            <a href="http://blog.loseit.com">Blog</a>
 			&nbsp;&nbsp;
 			<a href="/terms.jsp">Terms of Service</a>
 			&nbsp;&nbsp;
@@ -538,7 +645,7 @@ Last Updated: 12/11/2009
 	</tr>
 	
 	<tr>
-		<td colspan="2" align="center" class="loseit-footer-copyright" style="padding-top: 5px;">
+		<td colspan="2" align="center" class="site-footer-copyright" style="padding-top: 5px;">
 			© Copyright FitNow, Inc. All Rights Reserved
 		</td>
 	</tr>
@@ -551,19 +658,6 @@ Last Updated: 12/11/2009
 </tr>
 </tbody></table>
 	
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-
-	var pageTracker = _gat._getTracker("UA-81546-2");
-
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
-
 
 
 	 
