@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526163950id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125143544id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines - Webjet.com.au
 
 This privacy policy statement has been made in accordance with amendments to the Federal Government Privacy Amendment (Private Sector) Act 2000 (New Privacy Laws) which took effect from 21 December 2001. Webjet has consulted with and engaged the services of Gadens Lawyers in assisting us in this process.
 
-## Our Commitment
+##  Our Commitment
 
 This Privacy Policy sets out the Webjet policy in respect of personal information which you may provide to Webjet. Your personal information is information provided to us where your identity can be reasonably determined.
 
@@ -12,13 +12,13 @@ Webjet recognises that your privacy is very important to you and we are committe
 
 You are encouraged to check this privacy policy periodically, as we may from time to time make alterations, which will come into effect from the time of posting of an amended Privacy Policy on the Website. Webjet will adhere to the National Privacy Principles.
 
-## Supporting Industry Best Practice
+##  Supporting Industry Best Practice
 
 Webjet is committed to supporting the National Privacy Principles established by the Australian Federal Privacy Commissioner and embodied in the Privacy Amendment (Public Sector) Act 2000. Our aim is to both support industry best practice and to ensure that we comply with principles that form the basis of laws introduced to strengthen privacy protection for consumers.
 
 We believe that in supporting industry best practice this statement will address any potential concerns you may have about how personal information you provide us is stored, used and accessed.
 
-## Information You Give Us
+##  Information You Give Us
 
 We collect your personal information at the time you may wish to become a member to facilitate an online purchase and only require information necessary to complete your booking, although you may choose to provide us with additional information so that the quality of service received is improved. Please note that any additional information you provide to us concerning special requirements for flights is only collected and/or used as necessary in order to provide you with specific additional travel arrangements, such as special meals.
 
@@ -30,13 +30,13 @@ Where you send us email, use our feedback form, or enter into interactive chat w
 
 Wherever it is lawful and practicable, Webjet will endeavour to provide you with the option of not identifying yourself or not providing personal information when entering transactions with us. However, failure to provide full and complete information we request may mean that we are unable to provide our services to you.
 
-## Disclosing Your Personal Information
+##  Disclosing Your Personal Information
 
 Webjet will not, without your prior consent, disclose personal information for any purpose other than those purposes described in this Privacy Policy to which you have already consented.
 
 We may disclose your personal information where required by law to do so.
 
-## Cookies
+##  Cookies
 
 When you visit our website, details are recorded about your visit, such as time and date, your server address, pages accessed, time spent and type of browser. This information is used in an anonymous form for statistical purposes and as such cannot identify you individually.
 
@@ -44,7 +44,7 @@ We use Cookies to identify your browser so that next time you visit our website 
 
 We collect your email address when you request to be added to our mailing list to receive updated information about products and specials. You can unsubscribe at any time. In order to enter you into our mailing list, we do not require you to provide any information to us apart from an email address.
 
-## Storage And Security Of Personal Information
+##  Storage And Security Of Personal Information
 
 Webjet ensures your credit card information is transmitted over secure lines using Thawte. Webjet uses a mechanism widely used by the e-commerce communities to transfer sensitive data over the Internet called Secure Sockets Layer (SSL). SSL is a protocol that provides communications privacy, authentication and message integrity and prevents eavesdropping, tampering or message forgery by encrypting data.
 
@@ -54,24 +54,24 @@ You can also help us keep your personal information secure by ensuring that any 
 
 Webjet will not be responsible for any access or change made to your personal information occurring as a result of you disclosing your password to a third party, or through any unauthorised access.
 
-## Trans-Border Data Flows And Third Party Websites
+##  Trans-Border Data Flows And Third Party Websites
 
 Where it is required to provide a good or service which you have purchased, we will disclose your personal information to third parties which may be overseas. You accept that these third parties may not have in placeequivalent privacy policies.
 
 This website contains a number of links to other websites, including the websites of our commercial partners. When this occurs be sure to check the Privacy Policy of those websites as we are not responsible for privacy policies of other websites.
 
-## Accessing, Changing And Deleting Your Personal Information
+##  Accessing, Changing And Deleting Your Personal Information
 
 Your personal information that Webjet holds is accessible by Webjet and you with your password or to any other person to whom you disclose your password. You may make changes to your personal information, if you wish, at any time. Webjet relies on the information you provide us and does not collect personal information about you from any other source.
 
 Webjet will retain your information in order to allow you to make future purchases from the Website, until you request that we delete it from our database. In order to request that your personal information be removed from our database, please send your request to us via email by [clicking here](mailto:onlinetravel@webjet.com.au?Subject=Please%20remove%20my%20email%20from%20your%20database).
 
-## Complaints Resolution
+##  Complaints Resolution
 
 Webjet is committed to providing customers with a fair and responsible system for the handling of customer complaints.
 
 If at any time you have any complaints in relation to privacy or the operation of the Website, please contact us through our feedback form so that we may resolve them.
 
-## Further Information On Privacy
+##  Further Information On Privacy
 
 Further information may be obtained on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner ’s web site at <http://www.privacy.gov.au/>.
