@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003951id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125132655id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
 
 # MalekTips - Privacy Policy
 
@@ -25,6 +25,8 @@ Cookies may be sent to your browser from MalekTips. The functions of the cookies
 MalekTips and PCandCameraHelp.Com work with third-party sites to deliver ads. For more information about Burst Media, visit <http://burstmedia.com/privacy.asp>. For more information about ValueClick Media, visit <http://www.valueclickmedia.com/privacy.shtml>. For more information about Google, visit <http://www.google.com/privacy.html>. 
 
 Third-party sites, such as ad networks, may send cookies and web beacons to your browser. These automatically receive your IP address. Third-party sites may also use technology such as JavaScript, Java, and Web Beacons. Usage may be for, among other things, advertisement personalization and tracking. These third party sites, cookies, and web beacons are not under the control of Andrew Malek, Envision Programming, or MalekTips / PCandCameraHelp.Com. Please refer to the privacy policies of the aforementioned sites for more information. 
+
+Regarding BurstMedia: We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.burstmedia.com/consumer_optout.asp). 
 
 Portions of MalekTips and PCandCameraHelp.Com may require registration, which may include submitting an e-mail address and/or other personally identifiable information. These portions are not geared towards children, and we do not knowingly collect personal information from those under the age of 13. 
 
