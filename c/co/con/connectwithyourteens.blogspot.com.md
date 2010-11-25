@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectwithyourteens.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230210313id_/http%3A//connectwithyourteens.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwithyourteens.blogspot.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125152712id_/http%3A//connectwithyourteens.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
