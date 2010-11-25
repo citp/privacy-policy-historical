@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the chatham.edu privacy policy that was archived on 2010-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527121332id_/http%3A//www.chatham.edu/about/legal/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chatham.edu privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125110539id_/http%3A//www.chatham.edu/about/legal/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
+<meta name="google-site-verification" content="CDjnqS9Om59bdwVDbqkajEtHQP91cEaO4FS0aQtqprc">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <meta http-equiv="description" content=""> 
@@ -16,6 +19,36 @@
 <script type="text/javascript" src="/js/main.js"></script>
 <script type="text/javascript" src="/js/swfobject.js"></script>
 
+<script type="text/javascript">
+<!--
+    _CF_checkSearchForm = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
 </head>
 
 <body>
@@ -78,13 +111,10 @@
     
   <a name="searchbox"></a>  
   <div id="searchbar">
-    <form name="SearchForm" action="/search/search.cfm">
-      <input type="radio" id="site" name="searchtype" value="site" checked="checked"><label for="site">site</label>        
-      <input type="radio" id="dir" name="searchtype" value="dir"><label for="dir">directory</label>
-      <input type="text" id="searchterm" name="searchterm" size="15">
-      
-      <input type="submit" value="Search">
-    </form>         
+    <form name="SearchForm" id="SearchForm" action="/search/search.cfm" method="get" onsubmit="return _CF_checkSearchForm(this)"> <input name="searchtype" type="radio" value="site" id="site" checked="checked"><label for="site">site</label>        
+      <input name="searchtype" type="radio" value="dir" id="dir"><label for="dir">directory</label>
+      <input name="searchterm" type="text" maxlength="25" size="15" id="searchterm"> <input name="search" id="search" type="submit" value="Search"> </form>
+         
   </div><!--//searchbar-->
 </div><!--//navbar-->  
 </div><!--//navbar-outer-->   
@@ -93,6 +123,7 @@
 
 <div id="content-wrapper">
 <div id="content-inner">
+	<!-- banner and template for new programs -->
 	
   <div id="breadcrumb">You are here: <a href="/">home</a> &gt; 
 <a href="/about/">about</a> &gt; 
@@ -120,11 +151,13 @@
             <li class=""><a href="/about/presidents_bio.cfm">President's Biography</a></li>
             <li class=""><a href="/about/president_speeches.cfm">Speeches &amp; Interviews</a></li>
             <li class=""><a href="/about/president_news.cfm">News &amp; Articles</a></li>
-            <li class=""><a href="/about/commencement/index.cfm">Commencement Addresses</a></li>
+            <li class=""><a href="/about/commencement/addresses.cfm">Commencement Addresses</a></li>
           </ul>
         </li> 
         
-        <li class=""><a href="/about/trustees.cfm" class="noexpand">Board of Trustees</a></li>     
+        <li class=""><a href="/about/trustees.cfm" class="noexpand">Board of Trustees</a></li>   
+        <li class=""><a href="/about/quickfacts.cfm" class="noexpand">Quick Facts</a></li>  
+        <li class=""><a href="/about/consumerinfo.cfm" class="noexpand">Consumer Information</a></li>  
         
         
         <li><a class="collapsed">Campuses</a>
@@ -164,7 +197,6 @@
   
   <!-- display banner header image -->
   
- 
   <a name="content"></a> 
 
     
@@ -188,7 +220,7 @@ If you have any questions about this Website Privacy Policy, contact the <a href
 <div id="footer">
   <div class="left">
   <div id="callout-1" class="callout">
-  	<a href="/newsevents/story.cfm?ID=398"><img src="/images/_ads/chatham-princeton-review.png" width="298" alt="Chatham Universty named one of the 'Best in the Northeast' by the Princeton Review" title="Chatham Universty named one of the 'Best in the Northeast' by the Princeton Review"></a>
+  	<a href="/newsevents/story.cfm?ID=485"><img src="/images/_ads/chatham-princeton-review.png" width="298" alt="Chatham Universty named one of the 'Best in the Northeast' by the Princeton Review" title="Chatham Universty named one of the 'Best in the Northeast' by the Princeton Review"></a>
   </div>
   <div id="callout-2" class="callout">
   	<a href="/about/eastside.cfm"><img src="/images/_ads/chatham-eastside.png" width="225" alt="Learn about Chatham Eastside" title="Learn about Chatham Eastside"></a>
@@ -200,21 +232,32 @@ If you have any questions about this Website Privacy Policy, contact the <a href
   </div><!--//.left-->
   <div id="footer-text" class="clear">
     <h2><b>Chatham University - Big Thinking For A Big World</b></h2>
-    Woodland Road | Pittsburgh, PA 15232 | Main - (412) 365-1100 | Admissions -(800) 837-1290<br>
-    <a href="/sitemap.cfm">Site Map</a> | <a href="/about/legal/privacy.cfm">Privacy Policy</a> | <a href="/about/legal/legal.cfm">Legal Notice</a> | <a href="/about/legal/nondiscrimination.cfm">Nondiscrimination Policy</a>
+    Woodland Road | Pittsburgh, PA 15232 |
+    Main - (412) 365-1100 | Admissions - (800) 837-1290
+    
+    <br>
+    <a href="/sitemap.cfm">Site Map</a> | <a href="/admissions/translate.cfm">Translate</a> | <a href="/about/legal/privacy.cfm">Privacy Policy</a> | <a href="/about/legal/legal.cfm">Legal Notice</a> | <a href="/about/legal/nondiscrimination.cfm">Nondiscrimination Policy</a>
     <p></p>
   </div><!--//footer-text-->
 
 </div><!--//footer-->
 </div><!--//footer-outer-->
 
+
+
+<div id="google_translate_element"></div>
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script>
+
 <div id="web-analytics">
 
 
-
-<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/5568.js"> </script>
-
-
+<script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/5568.js"> </script>
 
 
 <script type="text/javascript">
@@ -228,6 +271,5 @@ pageTracker._setDomainName(".chatham.edu");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 </div><!--//web-analytics-->
-
 
  </body></html>
