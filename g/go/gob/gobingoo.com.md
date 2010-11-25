@@ -1,36 +1,90 @@
-> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408010533id_/http%3A//gobingoo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125010911id_/http%3A//gobingoo.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Gobingoo - BETA
+# Privacy Policy
 
-##  Privacy Policy 
+**What information do we collect?**
 
-Sunday, 03 January 2010 12:21  Team Gobingoo 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-[](http://www.gobingoo.com/mailto/component?link=aHR0cDovL3d3dy5nb2Jpbmdvby5jb20vc2l0ZS9wcml2YWN5LXBvbGljeQ%3D%3D "E-mail") [](http://www.gobingoo.com/site/privacy-policy/print "Print") [](http://www.gobingoo.com/site/privacy-policy/pdf "PDF")
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-### Sample Privacy Policies
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-#### How to Develop an Internet Privacy Policy
+ **What do we use your information for?**
 
-  
-Whether your company has an Internet presence or not, it is important that you address privacy issues.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Online users are especially concerned that information they supply over the Internet may be misused or distributed without their permission, and the _Gramm-Leach-Bliley Act_ now requires CPAs to disclose their privacy policy to clients.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Privacy policies, at the very least, should address:
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-  * **Information Collected.** Describe the information you collect and how you plan to use it. This is critical for personally identifiable information you are collecting, such as telephone number and Social Security number 
-  * **Mandatory and Optional Data.** Indicate whether the information being requested is mandatory or optional, and explain what the result of providing optional information will be. 
-  * **Tracking and Logging Data.** If you are requesting specific information for tracking purposes, include a statement on how that information is being logged and how that information is being used. 
-  * **Sharing of Information.** Indicate whether you provide any information to third parties, the names of those third parties, and how these entities will be using the information. 
+• To process transactions
 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+• To administer a contest, promotion, survey or other site feature
 
-The significant growth of e-commerce and the complexity of privacy issues may result in new privacy laws. The following guidelines and examples will help ensure that your privacy policy addresses key consumer concerns.
+• To send periodic emails
 
-  * [Example 1](http://www.michcpa.org/Content/16803.aspx)
-  * [Example 2](http://www.michcpa.org/Content/16804.aspx)
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Last Updated on Sunday, 03 January 2010 12:26   
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://gobingoo.com/site/terms-conditions>
+
+**Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.gobingoo.com  
+email: privacy [at] gobingoo [dot]com
