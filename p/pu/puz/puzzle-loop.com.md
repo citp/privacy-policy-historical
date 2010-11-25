@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the puzzle-loop.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524051246id_/http%3A//www.puzzle-loop.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzle-loop.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125010751id_/http%3A//www.puzzle-loop.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Slither Link - online puzzle game
 
-How To Contact Us
+03 Mar 2009 
+
+**Privacy Notice Table Of Contents:**
+
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * How To Contact Us
+  * Advertising
+
+
 
 **Our Commitment To Privacy**
 
@@ -48,3 +61,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please send us an email at **info at puzzle-loop.com**. 
+
+**Advertising**
+
+We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
