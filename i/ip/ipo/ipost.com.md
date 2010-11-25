@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107004833id_/http%3A//www.ipost.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125062339id_/http%3A//www.ipost.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - iPost.com
 
@@ -72,8 +72,9 @@ To contact iPost to request removal from future iPost email communications from 
   2. Send mail to the US postal address:  
 iPost  
 Attn: iPost Optout  
-100 Galli Drive, Suite 12  
-Novato, CA 94949
+899 Northgate Drive   
+Suite 200   
+San Rafael, CA 94903
   3. Call one of the following numbers:  
 1-415-382-4000 (if you're outside USA) or  
 1-877-934-7678 (if you're within USA).
