@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906093539id_/http%3A//www.cim.co.uk/about/legalandgeneral/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125173409id_/http%3A//www.cim.co.uk/about/legalandgeneral/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -12,8 +12,8 @@ The Chartered Institute of Marketing is committed to upholding your privacy and 
   * [Quality control](https://web.archive.org/about/legalandgeneral/privacy.aspx#quality "Go to quality control")
   * [Security safeguards](https://web.archive.org/about/legalandgeneral/privacy.aspx#security "Go to security safeguards")
   * [Openness principle](https://web.archive.org/about/legalandgeneral/privacy.aspx#openness "Go to openness principle")
-  * [Publication of presonal data](https://web.archive.org/about/legalandgeneral/privacy.aspx#publication "Go to publication of personal data")
-  * [The Institute's branches/interest groups](https://web.archive.org/about/legalandgeneral/privacy.aspx#groups "Go to The Institute's branches/interest groups")
+  * [Publication of personal data](https://web.archive.org/about/legalandgeneral/privacy.aspx#publication "Go to publication of personal data")
+  * [The Institute's branches/interest groups](https://web.archive.org/about/legalandgeneral/privacy.aspx#groups "Go to The Institute")
   * [Accountability](https://web.archive.org/about/legalandgeneral/privacy.aspx#accountability "Go to accountability")
 
 
