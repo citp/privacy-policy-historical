@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckysurveys.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203100726id_/http%3A//luckysurveys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckysurveys.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125143925id_/http%3A//luckysurveys.com/privacy.html) for the most accurate reproduction.*
 
 # Lucky Surveys - Privacy Policy
 
