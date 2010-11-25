@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reasonablefaith.org privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522171628id_/http%3A//www.reasonablefaith.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reasonablefaith.org privacy policy that was archived on 2010-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125163214id_/http%3A//www.reasonablefaith.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -19,14 +19,22 @@
 
 
 
+<script type="text/javascript" src="../yui3/yui/yui-min.js"></script>
+<script type="text/javascript" src="../js/convio/modules.js"></script>
+<script type="text/javascript">
+var Y = YUI({
+base: '../yui3/',
+
+debug: false,
+
+modules: getModules('../', 'convio', false)
+});
+</script>
 
 
 <script type="text/javascript" src="../js/utils.js"></script>
 
-<script type="text/javascript" src="../js/CList.js"></script>
-<script type="text/javascript" src="../js/CCallWrapper.js"></script>
-<script type="text/javascript" src="../js/CSimpleObservable.js"></script>
-<script type="text/javascript" src="../js/obs_comp.js"></script>
+<script type="text/javascript" src="../js/obs_comp_rollup.js"></script>
 
 
 <link href="../css/themes/default.css" rel="stylesheet" type="text/css">
@@ -199,6 +207,10 @@
 			<div id="l_promo_1">
 			
 				<div style="display: none;">		
+					<a href="http://www.reasonablefaith.org/israel">
+						<img src="../images/israel-2011/israel-tour-2011-vert.jpg" border="0" alt="Tour Israel with William Lane Craig"></a></div>
+			
+				<div style="display: none;">		
 					<a href="http://www.reasonablefaith.org/site/News2?page=NewsArticle&amp;id=7873">
 						<img src="../images/promo/c-great-good-left-promo.jpg" border="0" alt="God Is Great, God Is Good: Why Believing in God Is Reasonable and Responsible was voted the best Apologetics/Evangelism book of 2009"></a></div>
 			
@@ -206,14 +218,24 @@
 					<a href="http://www.reasonablefaith.org/site/PageServer?pagename=Blackwell_Companion_to_Natural_Theology">
 								<img src="../images/promo/blackwell-left-promo.jpg" border="0" alt="The Blackwell Companion to Natural Theology explores the nature and existence of God
 									through human reason and evidence from the natural world"></a></div>
-					
+				
+				<div style="display: block;">		
+					<a href="http://www.reasonablefaith.org/israel">
+						<img src="../images/israel-2011/israel-tour-2011-vert.jpg" border="0" alt="Tour Israel with William Lane Craig"></a></div>
+						
+				
 				<div style="display: none;">		
 					<a href="http://wisdom.biola.edu/admin/cart/apol2/checkout_step0.cfm?SalePageID=33">
 						<img src="../images/promo/rf-plus-study-guide-left-promo.jpg" border="0" alt="Reasonable Faith 3rd Ed. and Study Guide for discount"></a></div>
 							
-				<div style="display: block;">		
+				<div style="display: none;">		
 					<a href="http://www.reasonablefaith.org/site/News2?page=NewsArticle&amp;id=7243">
 						<img src="../images/promo/c-critics-left-promo.jpg" border="0" alt="Contending with Christianity's Critics: Answering New Atheists and Other Objectors"></a></div>
+						
+				<div style="display: none;">		
+					<a href="http://www.reasonablefaith.org/israel">
+						<img src="../images/israel-2011/israel-tour-2011-vert.jpg" border="0" alt="Tour Israel with William Lane Craig"></a></div>
+						
 						
 			</div>
 			
@@ -229,15 +251,24 @@
 <td style="BORDER-RIGHT: #113060 0px solid; PADDING-RIGHT: 10px; BORDER-TOP: #113060 3px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #113060 3px solid; PADDING-TOP: 10px" valign="top" width="647" bgcolor="#ffffff"><div style="margin:0; padding-bottom:4px;">
 
 
-	<div align="center">
+	<div align="center" id="2_promo_2">
 	
-		<div style="width:630px; height:96px; margin:0 0 10px; padding:0;">
-			<a href="http://www.onguardbook.com"><img src="../images/on_guard/rf-on-guard-promo-main-banner.jpg" alt="On Guard at onguardbook.com"></a>
+		<div style="display: block; width: 630px; height: 96px; margin: 0px 0px 10px; padding: 0px;">
+			<a href="http://www.reasonablefaith.org/israel"><img src="../images/israel-2011/israel-tour-2011-william-lane-craig.jpg" alt="Tour Israel with William Lane Craig"></a>
 		</div>
 	
+		<div style="display:none; width:630px; height:96px; margin:0 0 10px; padding:0;">
+			<a href="http://www.onguardbook.com"><img src="../images/on_guard/rf-on-guard-promo-main-banner.jpg" alt="On Guard at onguardbook.com"></a>
+		</div>
+		
 	</div>
+	
 
-
+<script type="text/javascript">
+	var bannerArrayhoriz = document.getElementById('2_promo_2').getElementsByTagName('div');
+	var randomNumber2=Math.floor(Math.random()*bannerArrayhoriz.length);	
+	bannerArrayhoriz[randomNumber2].style.display='block';
+</script>
 
 
 </div>
