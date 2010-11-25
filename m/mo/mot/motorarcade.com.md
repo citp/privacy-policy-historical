@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorarcade.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231234840id_/http%3A//www.motorarcade.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorarcade.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125040346id_/http%3A//www.motorarcade.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy on MotorArcade.com | Driving Passion
 
