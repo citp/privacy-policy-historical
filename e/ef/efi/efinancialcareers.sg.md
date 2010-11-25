@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172304id_/http%3A//www.efinancialcareers.sg/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125045111id_/http%3A//www.efinancialcareers.sg/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
@@ -102,9 +102,9 @@ We employ (or our third party advertising partner employs) a software technology
 
 **Third Party Advertisers**
 
-The ads appearing on this Website are delivered to users by FuseAds, our advertising partner. We share Website usage information about users with a reputable third party FuseAds for the purpose of targeting our Internet banner advertisements on this site. 
+The ads appearing on this Website are delivered to users by DoubleClick, our advertising partner. We share Website usage information about users with a reputable third party DoubleClick for the purpose of targeting our Internet banner advertisements on this site. 
 
-FuseAds uses cookies and clear gifs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that FuseAds collects and shares through this technology is not personally identifiable. 
+DoubleClick uses cookies and clear gifs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that DoubleClick collects and shares through this technology is not personally identifiable. 
 
 **Links to Other Sites**
 
