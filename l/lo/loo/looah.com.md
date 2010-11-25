@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looah.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513080051id_/http%3A//looah.com/looah_infos/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looah.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125032747id_/http%3A//looah.com/looah_infos/privacy) for the most accurate reproduction.*
 
 # Looah
 
