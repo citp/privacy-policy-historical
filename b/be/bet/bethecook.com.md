@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bethecook.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110220915id_/http%3A//www.bethecook.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethecook.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125111418id_/http%3A//www.bethecook.com/policy) for the most accurate reproduction.*
 
-# BeTheCook - Food & Cooking Recipes
+# BeTheCook
 
 **Jokeroo.com Privacy Policy**  
 This Site is operated by JMG - Jolt Media Group.   
@@ -14,11 +14,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 **Advertisers**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-
-[FastClick](http://www.fastclick.com/about/privacy.html)  
-[TribalFusion](http://www.tribalfusion.com/TribalFusion/privacy.html)  
-[CasaleMedia](http://www.casalemedia.com/privacy.html)
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
