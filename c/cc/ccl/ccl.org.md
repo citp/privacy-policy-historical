@@ -1,39 +1,6 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323014609id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125164401id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Commitment - Center for Creative Leadership
-
-Search:
-
-[Overview](https://web.archive.org/leadership/about/index.aspx?pageId=10)
-
-[Newsroom](https://web.archive.org/leadership/news/index.aspx?pageId=652)
-
-[Global Capabilities](https://web.archive.org/leadership/capabilities/index.aspx?pageId=101)
-
-[CCL - Americas](https://web.archive.org/leadership/capabilities/northAmericaOverview.aspx?pageId=103)
-
-[CCL - Europe, Middle East, Africa](https://web.archive.org/leadership/capabilities/europe/index.aspx?pageId=137)
-
-[CCL - Russia & CIS](https://web.archive.org/leadership/capabilities/russia/index.aspx?pageId=2937)
-
-[CCL - Asia-Pacific](https://web.archive.org/leadership/capabilities/asia/index.aspx?pageId=108)
-
-[Client Successes](https://web.archive.org/leadership/about/testimonials.aspx?pageId=29)
-
-[Careers at CCL](https://web.archive.org/leadership/about/careers.aspx?pageId=4)
-
-### [CONNECT WITH CCL](https://web.archive.org/leadership/community/index.aspx)
-
-Change or Subscribe to our e-Newsletters  
-
-
-* * *
-
-[](http://www.facebook.com/pages/Center-for-Creative-Leadership/16501652102)
-
-[](http://www.linkedin.com/e/gis/133936/13C5D366A49C)
-
-| 
 
 The Center for Creative Leadership is committed to respecting and protecting the privacy of our constituents. CCL subscribes to the American Psychological Association's code of ethics regarding the use of an individual's personal data for research; this code is particularly concerned with protecting the rights of the person. In addition, our policies are guided by the U.S. Department of Commerce's "safe harbor" principles covering data privacy for residents of the European Union. In fact, we strive to extend these more stringent data privacy protections to all Center clients, wherever they reside.
 
@@ -86,8 +53,6 @@ The personal and organizational information we collect is used to improve the qu
 **Web-based Submissions**
 
 The following discloses our information gathering and dissemination practices for the Center's Web site: [http://www.ccl.org](http://www.ccl.org/). By providing us with personal data through our web site, you agree that we may use that data to render requested services and provide you information on new programs, products, services and offerings. People who we contact are provided with a means of updating their information or informing CCL that they would not like to receive such information through the "opt-out" process detailed below. 
-
-| 
 
 **Forms**
 
