@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628112512id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125071755id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,13 +8,13 @@ SEScoops.com has created this privacy statement in order to demonstrate our firm
 We use your IP address to help diagnose problems with our server and to administer our Web site.
 
 **Cookies**  
-Our Site uses cookies to make sure you don’t see the same ad repeatedly, and, if you are a member, to keep you logged in.
+Our Site uses cookies to make sure you donâ€™t see the same ad repeatedly, and, if you are a member, to keep you logged in.
 
 **Advertisers**  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here<<http://www.networkadvertising.org/managing/opt_out.asp>>. 
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique â€œcookieâ€ on your browser.
 
 **Contests**  
 We run contests on our site in which we ask visitors for contact information (like email address). Contact information from the contests is used to get in touch with the visitor when necessary.
