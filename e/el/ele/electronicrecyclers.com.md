@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223830id_/http%3A//electronicrecyclers.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125053005id_/http%3A//electronicrecyclers.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy : Recycle Computer and E-waste Here – Electronic Recyclers International®
+# Privacy Policy : E-waste and Electronic Recycling Centers | Recycle Corporate, Consumer and Government Electronics
 
 ## Privacy PolicyContact us at [info@electronicrecyclers.com](mailto:info@electronicrecyclers.com "Contact Us")
 
