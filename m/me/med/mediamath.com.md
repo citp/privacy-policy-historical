@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114150817id_/http%3A//www.mediamath.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125192220id_/http%3A//www.mediamath.com/privacy.html) for the most accurate reproduction.*
 
-# MediaMath - Digital Media Trading Experts - Privacy Policy
+# MediaMath - The new marketing OS. - Privacy Policy
 
 ## MediaMath.com Privacy Policy
 
-Effective as of October 1, 2009
+Effective as of May 20, 2010
 
 ### Introduction
 
-MediaMath markets a proprietary platform for advertising agencies, which provides technology, strategy, services, and insights to trade effectively across the leading display advertising exchanges on behalf of major advertisers (collectively, the “Services”). This Privacy Statement presents our privacy policy, including MediaMath’s privacy practices for our [www.MediaMath.com](http://www.mediamath.com/) web site. MediaMath is deeply committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. MediaMath’s technology complies with the rules of the Platform for Privacy Preferences (P3P) Project, as outlined by the World Wide Web Consortium. P3P provides a simple, automated way for users to gain more control over the use of their personal information. 
+MediaMath markets a proprietary platform for advertising agencies, which provides technology, strategy, services, and insights to trade effectively across the leading display advertising exchanges on behalf of major advertisers (collectively, the “Services”). This Privacy Statement presents our privacy policy, including MediaMath’s privacy practices for our [www.MediaMath.com](http://www.mediamath.com/) web site.  
+
+MediaMath is deeply committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
+
+MediaMath’s technology complies with the rules of the Platform for Privacy Preferences (P3P) Project, as outlined by the World Wide Web Consortium. P3P provides a simple, automated way for users to gain more control over the use of their personal information. 
+
+MediaMath is a member of the NAI ([www.networkadvertising.org](http://www.networkadvertising.org/)) and is in compliance with the NAI’s Self-Regulatory Principles. We believe that these Principles will protect and ensure individual consumer privacy and have adopted the Principle’s guidelines and regulations.
 
 ### MediaMath Data Collection on Behalf of Our Clients
 
-In the course of delivering an ad to you, MediaMath does not collect personally identifiable information about you. In other words, we do not collect information, such as your name, address, phone number, or email address. However, MediaMath does collect certain non-personally identifiable information about you, such as your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance), and whether you responded to the ad delivered. The non-personally identifiable information that we collect is used for the purpose of targeting ads and measuring the effectiveness of ads on behalf of MediaMath's advertisers. This non-personally identifiable information includes:
+In the course of delivering an ad to you, MediaMath does not collect personally identifiable information about you. In other words, we do not collect information, such as your name, address, phone number, or email address. However, MediaMath does collect certain non-personally identifiable information about you, such as your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance), and whether you responded to the ad delivered.  The non-personally identifiable information that we collect is used for the purpose of targeting ads and measuring the effectiveness of ads on behalf of MediaMath's advertisers. This non-personally identifiable information includes:
 
 **Domain Type** | com, .net, .edu, etc.  
 ---|---  
@@ -25,31 +31,33 @@ In addition to the data above, MediaMath may receive non-personally identifiable
 
 Like most Internet sites, MediaMath uses "cookies" to enhance user's experience on the Web. MediaMath cannot use these cookies to personally identify you in any way, and these cookies in no way damage your system or files.
 
-What are cookies and how do they enhance your Web experience? A MediaMath cookie is a unique number that is assigned to you the first time MediaMath serves you an ad or identifies you on a client’s website. This number is stored in a file on your computer and helps us deliver the optimal ad to you. For instance, cookies help MediaMath ensure that you don't repeatedly see the same advertisement. Cookies can also help advertisers measure how you utilize an advertiser's site and the effectiveness of an advertisement. This information can then be used by advertisers to better cater to your needs. In other words, cookies help us deliver to you the types of ads in which you are more interested. 
+**_What are cookies and how do they enhance your Web experience?_**
+
+A MediaMath cookie is a unique number that is assigned to you the first time MediaMath serves you an ad or identifies you on a client’s website. This number is stored in a file on your computer and helps us deliver the optimal ad to you. For instance, cookies help MediaMath ensure that you don't repeatedly see the same advertisement. Cookies can also help advertisers measure how you utilize an advertiser's site and the effectiveness of an advertisement. This information can then be used by advertisers to better cater to your needs. In other words, cookies help us deliver to you the types of ads in which you are more interested.
 
 Although MediaMath believes that cookies help enhance your experience on the Web by delivering more relevant messages to you, MediaMath does not need cookies to deliver ads to you. If you decline a MediaMath cookie, you will still be able to view ads; however, you may see the same ad repeatedly or be delivered ads that have no relevance to you.
 
 ### How long is data stored?
 
-MediaMath sets our cookies to expire after five years and the expiration date updates every time you encounter our server. MediaMath retains the web log data for ninety days and aggregations and reports for up to three years.
+MediaMath sets our cookies to expire after five years and the expiration date updates every time you encounter our server.  MediaMath retains the web log data for ninety days and aggregations and reports for up to three years.
 
 ### To Opt Out
 
-If do not want the benefits of cookies, there is a simple procedure that allows you to deny this feature. In order to “opt out” of the benefits of cookies, you may click here: MediaMath Opt-out.
+If do not want the benefits of cookies, there is a simple procedure that allows you to deny this feature. In order to “opt out” of the benefits of cookies, you may click here: MediaMath Opt-out. You may opt out of other online advertising companies that are members of the NAI here: [NAI Global Optout](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Opt-out Successful
 
-Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
+Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
 If you have opted out and wish to opt back in you may use the cookie settings in your browser to clear the MediaMath optout cookie. If you have questions, please contact us at privacy@nullmediamath.com.
 
 ### About Clear Gifs 
 
-Clear gifs (also known as web beacons) are used in combination with cookies to help web publishers understand how visitors interact with their web sites. A clear gif is a transparent graphic image that is placed on a site. The use of a clear gif allows a web site to measure the actions of the visitor opening the page that contains the clear gif. MediaMath may utilize clear gifs to measure visitor behavior, to help us improve visitor experience, and to manage Site content. 
+Clear gifs (also known as web beacons) are used in combination with cookies to help web publishers understand how visitors interact with their web sites. A clear gif is a transparent graphic image that is placed on a site. The use of a clear gif allows a web site to measure the actions of the visitor opening the page that contains the clear gif. MediaMath may utilize clear gifs to measure visitor behavior, to help us improve visitor experience, and to manage Site content.
 
 ### Disclosure
 
-MediaMath may publish or otherwise make public anonymous, aggregate or summary information regarding our Site visitors and campaigns run on behalf of our clients. MediaMath may share visitor level data with a client, restricted to include only data associated with the client’s campaigns. MediaMath will never share visitor data with any third parties. There also may be instances when we may disclose visitor information in order to: protect the legal rights of Media Math or its employees, agents and contractors; protect the safety and security of visitors to our Site; protect against fraud; or to comply with the law or legal process. If Media Math sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer visitor information to a third party as part of that transaction. 
+MediaMath may publish or otherwise make public anonymous, aggregate or summary information regarding our Site visitors and campaigns run on behalf of our clients. MediaMath may share visitor level data with a client, restricted to include only data associated with the client’s campaigns.  MediaMath will never share visitor data with any third parties.  There also may be instances when we may disclose visitor information in order to: protect the legal rights of Media Math or its employees, agents and contractors; protect the safety and security of visitors to our Site; protect against fraud; or to comply with the law or legal process. If Media Math sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer visitor information to a third party as part of that transaction.
 
 ### MediaMath Data Collection for our Corporate Site
 
@@ -69,7 +77,7 @@ From time to time Media Math may revise this Privacy Policy. If we make revision
 
 ### HOW TO CONTACT US ABOUT PRIVACY CONCERNS 
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at privacy@mediamath.com or you can send correspondence to the following address: MediaMath, Attn: Tom Craig, 415 Madison Avenue, 3rd floor, New York, NY 10017.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at privacy@mediamath.com or you can send correspondence to the following address: MediaMath Inc., Attn: Tom Craig, 415 Madison Avenue, 3rd floor, New York, NY 10017.
 
 ### Links
 
