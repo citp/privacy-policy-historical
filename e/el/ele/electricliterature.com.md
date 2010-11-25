@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127053054id_/http%3A//www.electricliterature.com/electric-literature-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125051939id_/http%3A//www.electricliterature.com/electric-literature-privacy-policy.html) for the most accurate reproduction.*
 
 # Electric Literature { new issue }
 
@@ -33,7 +33,7 @@ Personally Identifiable Information collected by Your Site is securely stored an
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at infol@braineducationonline.com  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at editors@electricliterature.com  
 Are Cookies Used on the Site?
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
@@ -52,11 +52,11 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 **How can Visitors correct any inaccuracies in Personally Identifiable Information?**
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at info@braineducationonline.com
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at editors@electricliterature.com
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting info@electricliterature.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting editors@electricliterature.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
 What happens if the Privacy Policy Changes?
 
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
