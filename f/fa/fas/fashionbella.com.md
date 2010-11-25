@@ -1,61 +1,69 @@
-> *The following text is extracted and transformed from the fashionbella.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605064627id_/http%3A//fashionbella.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbella.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125224201id_/http%3A//fashionbella.com/privacy.php) for the most accurate reproduction.*
 
-# Wholesale Jewelry Fashion Bella
+# Fashion Bella - Wholesale Trendy & Fashion Jewelry | Wholesale Costume & Boutique Style Jewelry
 
-|   | 
+__FashionBella Privacy Policy__
 
-Thank you for accessing the website (www.fashionbella.com) of **Fashion Bella**. We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
+__From here on Administrators of  [www.fashionbella.com](http://www.fashionbella.com/) can be reached at [support@fashionbella.com](mailto:support@fashionbella.com)__
 
-This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
+__From here on Workers of  [www.fashionbella.com](http://www.fashionbella.com/) can be reached at [info@fashionbella.com](mailto:info@fashionbella.com)__
 
-This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non- **Fashion Bella** website to which this Site links or that links to this Site.
+**Account**
 
-INFORMATION COLLECTION AND USE
+An account must be created to view the prices of items shown on [www.fashionbella.com](http://www.fashionbella.com/). The account is used also, to purchase and review items. Registration is free, however since the site is a wholesale site, a tax id or retailers permit number is required. All accounts will be viewed and verified by the administrators of [www.fashionbella.com](http://www.fashionbella.com/). Administrators of [www.fashionbella.com](http://www.fashionbella.com/) have the right to terminate or delete a customer account for any reasons the administrators deem prudent. Notification may be sent for the reason of termination or deletion of the account.
 
-1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+For questions regarding accounts and account creation please email the administrators of [www.fashionbella.com](http://www.fashionbella.com/).
 
-* Help make this Site easier for you to use by not having to enter information more than once.  
-* Help you quickly find information, products, and services.  
-* Help us create content on this Site that is most relevant to you.  
-* Alert you to new information, products, and services that we offer.
+**Customer’s Information**
 
-(a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide us with certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you..  
-(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for free promotional notices; to request us to notify you when we receive a new brand, or new product style; to sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post the names and cities of contest winners on our Site.  
-(c) Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or action tags) to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.  
-(i) Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not spyware.  
-(ii) Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.  
-(iii) We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.  
-(d) Log Files. As is true of most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)  
-(e) Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.  
-(f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
+Customers have the ability to change the basic information of their account, e.g. Name, Address, Phone Number, etc. To change the account information, please log into the account, and then go to my account.
 
-2\. Information Use and Disclosure.  
-(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.  
-(b) Communications with You: We will use your personal information to communicate with you about our site, and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you when we receive a new brand, new product style, or product; to sign up for our email newsletter and special offers. If you submit your email address, we will use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see opt out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.  
-(c) External Use. We want to provide you with excellent service and to offer you a great selection ? we primarily sell merchandise, not information. We do not sell, rent, trade, license, or otherwise disclose your specific personal information or financial information to anyone, except that:  
-(i) As do most catalog and Internet wholesalers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as DHL, and UPS) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.  
-(ii) Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in the Data Security section.)  
-(iii) We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations, subpoenas, a court order, or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.  
-(iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Notice in effect.  
-(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+Administrators of [www.fashionbella.com](http://www.fashionbella.com/) will use the information provided by the customers to contact the particular customer. Method of contact can be but is not limited to phone, fax, email or letter. Reasons for contacting the customers can be but is not limited to, promotional deals, order information, customer information, shipping address, credit card information and newsletters. Contacting the customer is a means of marketing and reminder of the items and promotions.
 
-DATA SECURITY
+**Security**
 
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
+Administrators of [www.fashionbella.com](http://www.fashionbella.com/) have installed the site with the top security software of Secure Socket Lock (SSL), with a 2048 bit encryption. This security software is implemented whenever private information is transferred from and to [www.fashionbella.com](http://www.fashionbella.com/). SSL is a secure lock that is placed in the customer’s information such as but not limited to name, address, credit card number, and etc. With only the right code (key) is the lock released, to show the customer’s information. To read more of how SSL protects your personal information please search for SSL on any internet search engine.
 
-While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+SSL security is only given to websites and companies that have gone through the confirmation and validation process. This process is to show that the company is operating legally. Moreover, that the business has all the paperwork and license information current. To view the information on the extended SSL validation, please click on the SSL socket lock on left part of [www.fashionbella.com](http://www.fashionbella.com/). 
 
-OPT OUT/CORRECTIONS
+**IP Address**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to **Fashion Bella** 's Customer Support department at fashionbella@hotmail.com Please do not email your credit card number or other sensitive information.
+IP address may be monitored by the administrators. IP Addresses are used for marketing purposes, to geographically locate members. Administrators of [www.fashionbella.com](http://www.fashionbella.com/)may band specified IP Address for the purpose of keeping the site clean and bandwidth cleared for potential customers.
 
-OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+**Order Information**
 
-As you might expect from **Fashion Bella** , the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of your personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices..
+All order information is stored inside our system. Customers can see their orders by logging into the account. Statuses of orders are constantly being updated as the orders are placed together. There are three distinct order statuses: Pending, Processing and Shipped Out.
 
-INACTIVE ACCOUNT
+Pending: Order has been received. Pending confirmation of payment and order information is valid.
 
-Any account that does not have any activities such as, but not limited to purchases, logins or modifications for a period of 3 months or more will be subject to automatic deletion from out database. This is to ensure that our system and customer lists are current. Your informations and orders will be kept in our database for our data. If you wish to reactivate your account, it can be done through our website.   
-   
-  
----|---
+Processing: Order payment and information has been validated. Workers are currently placing all orders together, getting it ready for shipment.
+
+Shipped Out: The order has been finalized and shipment label has been made. Order was shipped out. Customers will be notified with the tracking number to view the progress of the package.
+
+**Cookies / Web Session**
+
+Internet cookies are text files that are stored inside the user’s web browsing software. This is used so that the server remembers the specified user’s preference and status. This method is no longer used on online shopping malls. The site [www.fashionbella.com](http://www.fashionbella.com/)is constantly upgrading the system to match the current technologies. The site [www.fashionbella.com](http://www.fashionbella.com/)does not use cookies, however there is a technology called session. The server of site [www.fashionbella.com](http://www.fashionbella.com/)identifies each computer with different number to remember the settings of the particular user. There is no text, or other files stored into the user’s computer or web browser by the site [www.fashionbella.com](http://www.fashionbella.com/).
+
+**Supplemental Information**
+
+All information collected from customers is used for marketing purpose to further development of [www.fashionbella.com](http://www.fashionbella.com/). Information gathered is utilized to make plans for which demographics, age groups, regional places and etc, of items uploaded and promotions made.
+
+**Links**
+
+The website [www.fashionbella.com](http://www.fashionbella.com/), has links to other websites. Mostly these links are to the partners of [www.fashionbella.com](http://www.fashionbella.com/). Furthermore, these links are used but not limited to process payments, track a package, or to give further information about [www.fashiobella.com](http://www.fashiobella.com/), its partners and security functions.
+
+**Emails**
+
+Email one of the primary method of communication from the administrators / workers of [www.fashionbella.com](http://www.fashionbella.com/)to the users. Email addresses that the user registered on their information is the email that will be used to contact the user. The reasons for administrators of [www.fashionbella.com](http://www.fashionbella.com/)in sending out emails is the following but not limited to, order status updates, order problems, promotional deals, and newsletters.
+
+**Newsletter**
+
+Newsletter is an email-marketing tool used to inform the customers of but not limited to, new products, special products, sale products, promotional deals. If you do not want to receive these emails, there is specific instruction on the bottom of the newsletter.
+
+**Inactive Accounts**
+
+Administrators of www.fashionbella.com has the right to terminate an account for inactivity for period of time. There is always an evaluation period. However, if there are no account activity the administrators of www.fashionbella.com has the right to terminate the account. Notification may be sent to the users. Users can create another account without any trouble. 
+
+**I** **nformation Requested**
+
+All information requested by the is for but not limited to customer orders, shipment, contact and data collection for marketing. All information is kept private so only the administrators of have access. All information collected is secure and encrypted. 
