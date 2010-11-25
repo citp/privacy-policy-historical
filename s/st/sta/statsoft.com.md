@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526004230id_/http%3A//www.statsoft.com/home/ctl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125195722id_/http%3A//www.statsoft.com/home/ctl/privacy) for the most accurate reproduction.*
 
-# Data Mining, Statistical Analysis, Software and Services | StatSoft
+# Software for Statistics, Data Mining, Predictive Analytics, Credit Scoring | StatSoft
 
 ## StatSoft Pledges to Protect Your Privacy
 
