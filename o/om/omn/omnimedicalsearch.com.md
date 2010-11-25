@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnimedicalsearch.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnimedicalsearch.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - OmniMedicalSearch.com
 
@@ -66,12 +66,12 @@ A Bottomside Toolbar compatible with all others.
 
 [Add the OMS   
 Search Engine  
-to Your Website](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/searchbox.html)
+to Your Website](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/searchbox.html)
 
 Got a suggestion or comment for us?  
-[Let us know](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/contact.html)
+[Let us know](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/contact.html)
 
-[OmniMedicalSearch in the News](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/press.html)
+[OmniMedicalSearch in the News](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/press.html)
 
 |    
 ---|---|---
