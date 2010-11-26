@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102050939id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126195448id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
 
 # PKmela.com - Privacy Policy
 
