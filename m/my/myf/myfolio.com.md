@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfolio.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525101506id_/http%3A//www.myfolio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfolio.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126034731id_/http%3A//www.myfolio.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MyFolio.com
 
