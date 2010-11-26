@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midupload.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528010844id_/http%3A//www.midupload.com/adsensetos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midupload.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126151129id_/http%3A//www.midupload.com/adsensetos.html) for the most accurate reproduction.*
 
-# MidUpload.com - Free File Hosting. Easy way to share your files
+# MidUpload.com - Easy way to share your files
 
 ### Privacy Policy for MidUpload.com
 
