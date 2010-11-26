@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531064646id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126131303id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
 
 # FBorFW.com is The Official Website of Lynn Johnston's comic strip For Better or For Worse.
 
@@ -12,7 +12,7 @@ Here are some terms you should be familiar with before you read through our Priv
 
 **Entercom Canada Inc. (ECI):** that's us!! 
 
-**Universal Uclick:** syndicate that distributes the For Better or For Worse comic strip, and is responsible for the gocomics.com website, of which we are affiliated
+**Universal Uclick:** syndicate that distributes the For Better or For Worse comic strip, and is responsible for the gocomics.com website, with whom we are affiliated
 
 **Third party:** this website is designed and maintained by Entercom Canada Inc. Anyone not directly employed by Entercom Canada Inc. Is considered to be "a third party", and is therefore not entitled access to personal company information.
 
@@ -48,6 +48,8 @@ Any personal information collected for the purpose of completing an electronic p
 
 **Information Tracking:**   
 Universal Uclick uses an outside service to track the total number of visitors to each area of For Better Or For Worse. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **Accuracy and Security**   
 Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to design@fborfw.com, or you can reach us by fax at Attn: Privacy Policy 705.752.4589. You can also write us at: 
