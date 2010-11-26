@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527015732id_/http%3A//www.referralblast.com/pu_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126213546id_/http%3A//referralblast.com/pu_privacy.htm) for the most accurate reproduction.*
 
 # Referral Blast Website Promotion and Marketing
 
 **Referral Blast Privacy Policy**
 
-| [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.referralblast.com&sealid=101) | By participating in the TRUSTe Privacy Program and the Council of Better Business Bureau's BBBOnLine Reliability Program, Referral Blast has made a commitment to meet the programs' strict requirements regarding how we treat your information. Further information about these programs is available at http://www.truste.com and http://www.bbbonline.org.  
----|---  
-  
 We know that you care how information about you and your website visitors is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
 
 This notice describes our privacy policy:
@@ -51,7 +48,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 _Service-related Announcements_
 
-We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of this communication, which is not promotional in nature. If you do not wish to receive it, you have the option to deactivate your account. To de-activate your account, contact us using our ['Contact Us'](https://web.archive.org/web/20100527015732id_/http%3A//www.referralblast.com/contactform.asp) form, call 732-923-0440 Monday through Friday between the hours of 9:30am and 5:30pm EST, or write us at Referral Blast, 1175 Lincoln Square, PO Box 2254, Long Branch, NJ 07740-2254. Your account will be de-activated within 72 hours of your request.
+We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of this communication, which is not promotional in nature. If you do not wish to receive it, you have the option to deactivate your account. To de-activate your account, contact us using our ['Contact Us'](https://web.archive.org/web/20101126213546id_/http%3A//referralblast.com/contactform.asp) form, call 732-923-0440 Monday through Friday between the hours of 9:30am and 5:30pm EST, or write us at Referral Blast, 1175 Lincoln Square, PO Box 2254, Long Branch, NJ 07740-2254. Your account will be de-activated within 72 hours of your request.
 
 _Usage Notifications_
 
@@ -67,11 +64,11 @@ During the order process, personal information such as your name, billing addres
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update your information, or delete/deactivate your account by making the change in your member Control Panel or contacting us using our [contact form](https://web.archive.org/web/20100527015732id_/http%3A//www.referralblast.com/contactform.asp), or calling 732-923-0440 Monday through Friday between the hours of 9:30am and 5:30pm EST, or writing us at Referral Blast, PO Box 2254, Long Branch, NJ 07740-2254.
+If your personally identifiable information changes, or if you no longer desire our service, you may update your information, or delete/deactivate your account by making the change in your member Control Panel or contacting us using our [contact form](https://web.archive.org/web/20101126213546id_/http%3A//referralblast.com/contactform.asp), or calling 732-923-0440 Monday through Friday between the hours of 9:30am and 5:30pm EST, or writing us at Referral Blast, PO Box 2254, Long Branch, NJ 07740-2254.
 
 **Security**
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number on our registration/order form) we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us [here](https://web.archive.org/web/20100527015732id_/http%3A//www.referralblast.com/contactform.asp).
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number on our registration/order form) we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us [here](https://web.archive.org/web/20101126213546id_/http%3A//referralblast.com/contactform.asp).
 
 **Cookies**
 
@@ -83,14 +80,10 @@ Testimonials at the site are submitted voluntarily by Referral Blast customers a
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, Referral Blast's information practices, or your dealings with Referral Blast, you can contact us using our ['Contact Us'](https://web.archive.org/web/20100527015732id_/http%3A//www.referralblast.com/contactform.asp) form, call 732-923-0440 Monday through Friday between the hours of 9:30am and 5:30pm EST, or write us at Referral Blast, 1175 Lincoln Square, PO Box 2254, Long Branch, NJ 07740-2254.
+If you have any questions about this privacy statement, Referral Blast's information practices, or your dealings with Referral Blast, you can contact us using our ['Contact Us'](https://web.archive.org/web/20101126213546id_/http%3A//referralblast.com/contactform.asp) form, call 732-923-0440 Monday through Friday between the hours of 9:30am and 5:30pm EST, or write us at Referral Blast, 1175 Lincoln Square, PO Box 2254, Long Branch, NJ 07740-2254.
 
 **Changes in this Privacy Statement**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**TRUSTe Privacy Program**
-
-Referral Blast Website Promotion, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site http://www.referralblast.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Juliana Leschinsky at 732-923-0440 or via our [feedback form](https://web.archive.org/web/20100527015732id_/http%3A//www.referralblast.com/contactform.asp). If you do not receive acknowledgement of your inquiry within a reasonable time frame, or your inquiry hasn’t been addressed to your satisfaction please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=) who shall then work as a liaison in assisting us to resolve your concerns.
-
-**Last updated on October 13, 2009**
+**Last updated on October 1, 2010**
