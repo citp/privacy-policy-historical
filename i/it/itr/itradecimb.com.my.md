@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itradecimb.com.my privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523022919id_/http%3A//www.itradecimb.com.my/index.php%3Fch%3Dgen%26pg%3Dgen_info%26ac%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itradecimb.com.my privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126064458id_/http%3A//www.itradecimb.com.my/index.php%3Fch%3Dgen%26pg%3Dgen_info%26ac%3D1) for the most accurate reproduction.*
 
-# Welcome to i-Trade
+# i*Trade@CIMB MY
 
 Maintaining our clients' trust is critical to our success. We believe in the importance of safeguarding our clients' information while seeking to deliver premium financial solutions.  
   
