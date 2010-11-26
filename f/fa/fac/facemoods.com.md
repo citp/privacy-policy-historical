@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facemoods.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111080501id_/http%3A//facemoods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facemoods.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126012656id_/http%3A//facemoods.com/privacy) for the most accurate reproduction.*
 
 # Facemoods - privacy policy
 
