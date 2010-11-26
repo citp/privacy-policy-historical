@@ -1,33 +1,14 @@
-> *The following text is extracted and transformed from the generic4all.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213012536id_/http%3A//www.generic4all.com/privacy_policy_.dhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generic4all.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126162310id_/http%3A//www.generic4all.com/privacy_policy_.dhtml) for the most accurate reproduction.*
 
-# 
+# Generic4All - Buy Generic Sildenafil Citrate and Tadalafil at Generic4all
 
   | 
 
-| [](https://web.archive.org/web/20100213012536id_/http%3A//www.generic4all.com/) |   
+| [](http://www.generic4all.com/) |   
 ---|---  
   
-|  |  |   
----|---|---  
-  
-Categories
+| 
 
-    *     *     *     *     *     *     *     *     * |  |  More...  
----|---  
-  
-    *     *     *     * |  More...  
----|---  
-  
-    *     *     *     *     *     *     *     *     *     * |  More...  
----|---  
-  
-    *     *     *     *     *     * |  More...  
----|---  
-  
-
-  
-|  |   
-  
 **Privacy Policy**
 
   
@@ -45,10 +26,16 @@ Appropriate physical, electronic, and managerial procedures are taken to safegua
 Generic4All uses secure servers to protect its customers’ personal information, as well as industry-standard SSL encryption to ensure the privacy and security of the transmitted information throughout the checkout process.  
 Our system has safeguards in place to protect against credit card fraud. Individuals attempting the fraudulent use credit cards will be reported immediately.  
   
+---|---  
+  
   
 
 
 Brand names appearing on this site are registered trademarks of their respective companies.   
 The statements on this website have not been evaluated by the U.S. Food and Drug Administration or other similar international agency. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Prescription, OTC, nutritional or other products are not offered to diagnose or prescribe medical or psychological conditions, nor claim to prevent, treat, mitigate or cure such conditions, nor to recommend specific products as treatment of disease or to provide diagnosis, care, treatment or rehabilitation of individuals, or apply medical, mental health or human development principles. The information herein is not a substitute for medical advice from your primary care physician. Testimonial results are not typical.
+
+X
+
+[](http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=7108751&lang=en&form_id=60312)
 
  
