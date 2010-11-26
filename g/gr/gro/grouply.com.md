@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grouply.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220175313id_/http%3A//blog.grouply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouply.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126191112id_/http%3A//blog.grouply.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy & Security
+# Grouply Blog » Privacy & Security
 
 Related pages:
 
@@ -9,7 +9,7 @@ Related pages:
 
 **Grouply Privacy Policy**
 
-Last Updated: August 20, 2008  
+Last Updated: August 31, 2009  
 [](http://www.truste.org/ivalidate.php?url=www.grouply.com&sealid=101 "TRUSTe - Click to Verify Seal")
 
 iGroup Network, Inc. (Grouply) is committed to maintaining the confidentiality, integrity and security of all personal information about our users. We are proud of our privacy practices and the strength of our site security and want you to know how we protect your information and use it to provide to you the service on Grouply. Grouply is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.grouply.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
@@ -24,7 +24,9 @@ We may update this Privacy Policy from time to time as our services change and e
 
 Grouply collects personal information when you register with Grouply and when you use Grouply products or services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. When you register we may ask for information such as your name, email address, birth date, and personal interests. Once you register with Grouply and sign in to use our services, you are not anonymous to us.
 
-In order for Grouply to provide you with its products and services, you will also need to provide Grouply with your username and password to your online group account(s) that you want to access through Grouply. We will only use your username and password to access your online group account to the extent necessary to provide the Grouply services and will otherwise keep your password confidential. Information You Choose to Submit
+In order for Grouply to provide you with its products and services, you will also need to provide Grouply with your username and password to your online group account(s) that you want to access through Grouply. We will only use your username and password to access your online group account to the extent necessary to provide the Grouply services and will otherwise keep your password confidential. If you choose to purchase Premium Services (e.g., a custom website address or additional storage or bandwidth) on Grouply, you must provide your credit card or other payment information and your billing address. We use this billing information to process your transactions.
+
+**Information You Choose to Submit**
 
 Any personally identifiable information that you choose to post to the groups you manage via Grouply or that you choose to post on the Grouply website or blog can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit.
 
@@ -40,14 +42,14 @@ Grouply does not target its Web sites to children, and we will not knowingly col
 
 We use your personal information to fulfill your requests for products and services, to improve our services, to customize the advertising and content you see, and to contact you.
 
-We use anonymous information, such as that pertaining to web pages viewed, to analyze trends, track user’s movements, provide a better website experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally.
+We use anonymous information, such as that pertaining to web pages viewed, to analyze trends, track userâ€™s movements, provide a better website experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally.
 
 **Information Sharing and Disclosure**
 
-Grouply will not rent, sell, or share personal information about you with other people or nonaffiliated companies except (a) to provide Grouply products or services that you have requested, (b) when we otherwise have your permission, or (c) under the following circumstances:
+Grouply will not rent, sell, or share personal information about you with other people or nonaffiliated companies except (a) to provide Grouply products or services that you have requested, including sending any credit card and related billing and payment information that you provide to companies who work on Grouply’s behalf, such as payment processors and/or credit agencies, solely for the purpose of checking credit, effecting payment to Grouply, and servicing your account, (b) when we otherwise have your permission, or (c) under the following circumstances:
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Grouply’s Terms of Use, or as otherwise required by law.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Grouplyâ€™s Terms of Use, or as otherwise required by law.
   * We transfer information about you if Grouply is acquired by, reorganized or merged with another company. In such an event, you will have the opportunity to ask not to receive promotional information following any such change of control.
 
 
@@ -58,11 +60,13 @@ You can access, update or delete any personal information you submit to our Web 
 
 **Emails from Grouply**
 
-Grouply helps you manage the activity across your various groups. We will send you two main forms of email. The first type are the emails related to the Grouply service itself. These emails (e.g., Grouply Smart Digest™, individual group messages, friend requests, notifications, alerts) help you track activity across your groups and friends. You can subscribe to and personalize these emails on your personal Settings page in Grouply.
+Grouply helps you manage the activity across your various groups. You may receive up to three different types of email from Grouply. The first type are emails related to the Grouply service itself. These emails (e.g., Grouply Smart Digest, individual group messages, friend requests, notifications, alerts) help you track activity across your groups and friends. You can subscribe to and personalize these emails on your personal Settings page in Grouply.
 
-We reserve the right to send you a second type of email—communications such as administrative messages that are considered part of your Grouply account membership. We do not offer you the opportunity to opt-out of receiving these messages.
+The second type are newsletters or announcements that include new feature descriptions, best practices, success stories, and other information about Grouply that we think you might find useful. You have the opportunity to opt-out of receiving these emails.
 
-Grouply does not send promotional emails or newsletters on our own behalf.
+The third type are individual communications such as administrative messages or support request replies that are considered part of your Grouply account membership. We do not offer you the opportunity to opt-out of receiving these emails.
+
+Grouply does not send emails to promote third-party products or services.
 
 **Invite to Grouply**
 
@@ -74,7 +78,7 @@ Invitations to Grouply include an “unsubscribe” link that the recipient can 
 
 **Public Appearance of Personal Information**
 
-The first and last name you submitted on your personal profile may be available to other Grouply users on the Grouply Web site. If you wish to prevent Grouply users from viewing your personal information you can change your membership profile in the Settings area under “Update Your Profile”. There you can delete your first and last name completely or you can indicate that only your first name and last initial should be displayed to other Grouply users.
+The first and last name you submitted on your personal profile may be available to other Grouply users on the Grouply Web site. If you wish to prevent Grouply users from viewing your personal information you can change your membership profile in the Settings area under “Update Your Profile”. There you can delete your first and last name completely or you can indicate that only your first name and last initial should be displayed to other Grouply users.
 
 We will also post user testimonials on the web site. Before we post these testimonials we receive consent to do so from the individual who provided them.
 
@@ -91,6 +95,6 @@ Our Web sites may contain links to other Web sites for news and other informatio
 If you have questions about this Privacy Policy, you can contact Customer Care at [support@grouply.com](mailto:support@grouply.com). You can also contact us at:
 
 Grouply Inc.  
-Attn: Customer Care – Privacy  
+Attn: Customer Care & Privacy  
 495 Seaport Court, Suite 103  
 Redwood City, CA 94063
