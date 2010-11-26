@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129085405id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126013249id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Music Download - MusicMp3.RU
 
@@ -18,7 +18,7 @@ We allow you to access the information about yourself for the purpose of viewing
 
 How To Contact Us:
 
-Should you have other questions or concerns about these privacy policies, please call us at +7 9 222 33333 8 or send us an email at support[at]musicmp3.ru.
+Should you have other questions or concerns about these privacy policies, please call us at +1 (315) 519 4144 or send us an email at support[at]musicmp3.ru.
 
 | 
 
