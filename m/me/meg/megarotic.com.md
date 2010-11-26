@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megarotic.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003551id_/http%3A//megarotic.com/%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megarotic.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126140623id_/http%3A//megarotic.com/%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # MEGAROTIC.COM
 
