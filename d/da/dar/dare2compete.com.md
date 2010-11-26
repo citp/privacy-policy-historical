@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507013013id_/http%3A//www.dare2compete.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126162053id_/http%3A//dare2compete.com/privacy.php) for the most accurate reproduction.*
 
-# B-school events, B-School competitions, Management events, Management competitions, MBA events, MBA competitions, Business quizzes, Management Quizzes, Management Videos, debates, Conferences - all at Dare2Compete.com
+# All about Management and Business School events, B-school competitions, MBA festivals, Business and Management Quizzes, Management jobs and internships, Conferences, seminars
 
 At Dare2Compete.com we recognize that privacy is important. This Privacy Policy applies to all of the services offered by Dare2Compete.com.  
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at **help[at]dare2compete.com**
