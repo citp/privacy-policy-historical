@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201181630id_/http%3A//www.movietalkies.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126220522id_/http%3A//www.movietalkies.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # MovieTalkies.com
 
