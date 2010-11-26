@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2010-01-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100112045355id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2010-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126143231id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -46,6 +46,7 @@
 </head>
 <body class="plaintext">
 <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/wz_tooltip.js"></script>
+<script type="text/javascript" src="http://api.conduit.com/ToolbarApi.js"></script>
 <script>
 
 var keyword = "";
@@ -61,15 +62,157 @@ function chgurl(cat){
 	}
   }
 
-</script>
+//popup gift info, toolbar...
+function popupGiftInfo(hasToolbar) {
+	var contentHeightStr = document.documentElement.scrollHeight;
+	var movSwfStr = "";
 
+	if (parseInt(navigator.appVersion)>3){
+		if(navigator.appName=="Netscape"){
+			windowHeight = window.innerHeight;
+		}
+		if(navigator.appName.indexOf("Microsoft")!=-1) {
+			windowHeight =document.documentElement.offsetHeight;
+		}
+	}
+
+	if (contentHeightStr > windowHeight) {
+		contentSpotHeight = contentHeightStr;
+	} else {
+		contentSpotHeight = windowHeight;
+	}
+
+	movSwfStr += '<div style="position:absolute; top:131px; left:1px; width:99%; z-index:9999;">';
+	movSwfStr += '<div style="width:620px; margin:0 auto;" id="giftInfoDiv"></div>';
+	movSwfStr += '</div>';
+
+	movSwfStr += '<div style="width:100%; height:' + contentSpotHeight + 'px; position:absolute; left:0px; top:0px; z-index:9000; background-color:#000; filter:alpha(opacity=50);opacity:.5;"></div>';
+
+	document.getElementById("popupWrap").innerHTML = movSwfStr;
+	document.getElementById("popupWrap").style.display = "block";
+
+	var movieObj = document.getElementById("giftInfoDiv");
+	var so = new SWFObject('http://cdn.i-dressup.com/cdn/toolbar_gift.swf', 'giftInfoSWF', '620', '360', '8', '#FFF');
+	so.addParam("menu", false);
+	so.addParam("wmode", 'transparent');
+	so.addParam("AllowScriptAccess", "always");
+	so.addVariable("PHP_root_path", "http://www.i-dressup.com/");
+	so.addVariable("static_root_path", "http://cdn.i-dressup.com/cdn/");
+	so.addVariable("hasToolbar", hasToolbar);
+	so.write('giftInfoDiv');
+
+	movieObj.style.display = "";
+}
+
+
+function closePopup() {
+	document.getElementById("giftInfoDiv").innerHTML = '';
+	document.getElementById("popupWrap").innerHTML = '';
+	document.getElementById("popupWrap").style.display = "none";
+}
+
+function getSWF(movieName) {
+    if (navigator.appName.indexOf("Microsoft") != -1) {
+        return window[movieName];
+    } else {
+        return document[movieName];
+    }
+}
+
+function checkToolbar(swfName) {
+    var oManager = new TPI.Manager();
+    var defaultTB = oManager.GetAllToolbarsInfo();
+
+    if (!defaultTB[0]){
+		if(swfName!=undefined){
+			getSWF(swfName).js2swf(0);
+		}
+		return false;
+    }
+    var defaultCTID = defaultTB[0].CTID;
+    var browserType = navigator.appName;
+    if (browserType == 'Netscape') {
+        //var defaultCTID = prompt('What is your toolbar ID?', defaultCTID);
+    }
+
+    var oToolbar = new TPI.Toolbar(defaultCTID);
+    var oReturn = oToolbar.IsVisible();
+    oToolbar.Refresh();
+
+    if(oReturn.returnValue){
+
+		if(swfName!=undefined){
+			getSWF(swfName).js2swf(1);
+		}else{
+			return true;
+		}
+    } else {
+		if(swfName!=undefined){
+			getSWF(swfName).js2swf(0);
+		}else{
+			return false;
+		}
+    }
+}
+
+function getBrowserType(){
+    var browserName=navigator.userAgent.toLowerCase();
+    if(/msie/i.test(browserName) && !/opera/.test(browserName)){
+        return "ie";
+    }else if(/firefox/i.test(browserName)){
+        return "firefox";
+    }else if(/chrome/i.test(browserName) && /webkit/i.test(browserName) && /mozilla/i.test(browserName)){
+        return "chrome";
+    }else if(/opera/i.test(browserName)){
+        return "opera";
+    }else if(/webkit/i.test(browserName) &&!(/chrome/i.test(browserName) && /webkit/i.test(browserName) && /mozilla/i.test(browserName))){
+        return "safari";
+    }else{
+        return "unknow";
+    }
+}
+
+</script>
+<div id="popupWrap"></div>
+<script>
+function addLoadEvent(func){
+	var oldonload=window.onload;
+	if(typeof window.onload!='function'){
+		window.onload=func;
+	}else{
+		window.onload=function(){
+			oldonload();
+			func();
+		}
+	}
+}
+
+function checkToolbarAndShowpopup(){
+	var toolbarInstalled = checkToolbar() ? 1 : 0;
+	var uid = '';
+	if(Number(uid) > 0){
+		ajax('/toolbar_utils.php?job=setvip&toolbar='+toolbarInstalled, '', '');
+		var browser = getBrowserType();
+		if('0'=='1' && (browser == 'ie' || browser == 'firefox')){
+			popupGiftInfo(toolbarInstalled);
+		}
+
+	}
+}
+
+function waitForToolbarToInit(){
+	setTimeout(checkToolbarAndShowpopup, 1000);
+}
+
+addLoadEvent(waitForToolbarToInit);
+</script>
 <div id="bannerbg">
   <div id="banner">
 	<div class="left">
-		<iframe valign="top" frameborder="0" marginwidth="0" marginheight="0" width="728" height="90" scrolling="No" src="/adver728x90.php?country="></iframe>
-	</div>
-	<div class="right1">
-	<a href="http://www.facebook.com/pages/i-Dressupcom-Dress-up-games-for-people-who-love-fashion/208394581376" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/img/facebook_200.jpg" border="0" alt="i-Dressup on Facebook"></a>
+		<iframe valign="top" frameborder="0" marginwidth="0" marginheight="0" width="728" height="90" scrolling="No" src="/adver728.php?country="></iframe>
+	
+</div>
+	<div class="right"><script src="/topgames.js"></script>
 	</div>
   </div>
 </div>
@@ -96,7 +239,7 @@ function chgurl(cat){
 						<span><a href="####">Welcome</a></span> |
 			<a href="javascript: jQuery.blockUI({ message: $('#popup_sign'), css: { width: '100%', height: '100%', top: '30px', left: '0px', border:'', backgroundColor:''} })">Login</a> | <a href="javascript: jQuery.blockUI({ message: $('#popup_join'), css: { width: '100%', height: '100%', top: '30px', left: '0px', border:'', backgroundColor:''} })">Join</a>
 						</p>
-			<a href="/needicoins.php" class="need">Diamond Membership - 49 Icoins!</a>
+			<a href="/needicoins.php" class="need">Free Diamond Membership!</a>
 		 </div>
 		 <!-- end #info -->
       </div>
@@ -147,7 +290,6 @@ function chgurl(cat){
 			<li><a href="/fantasy/">Fantasy</a></li>
 			<li><a href="/barbie/">Barbie</a></li>
 			<li><a href="/room/">Room</a></li>
-			<li><a href="/avatar.php">Avatars</a></li>
 			</ul>
 		<!-- end #sub1 -->
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -180,7 +322,7 @@ function chgurl(cat){
 		<!-- end #sub3 -->
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 		</li><li><a href="/musicbox.php" style="_width: 80px;">Music Box</a></li>
-		<li><a href="/eart_create.php" style="_width: 70px;"><span style="height:20px; background: url(http://cdn.i-dressup.com/cdn/static/img/new.gif) no-repeat 27px center; padding-right:23px;">eArt</span>
+		<li><a href="/eart_create.php" style="_width: 70px;">eArt
 						<!--[if gte IE 7]><!--></a><!--<![endif]-->
 						<!--[if lte IE 6]><table><tr><td><![endif]-->
 						<!-- SUB5 -->
@@ -244,6 +386,7 @@ function chgurl(cat){
 		</li>
 
 		<li><a href="/faq.php" style="_width: 50px;">Help</a></li>
+		<li><a href="/needicoins.php" style="_width: 150px;"><span style="height:20px; background: url(http://cdn.i-dressup.com/cdn/static/img/ico_diamond.gif) no-repeat 0 0; padding-left:20px;">Free Diamond Toolbar</span></a></li>
 		</ul>
 		</div>
 		<!-- end #menu -->
@@ -304,7 +447,7 @@ function chgurl(cat){
 		    <li>Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. </li>
 		    </ul>
 			<br>
-		    We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+		    We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org" target="_blank">click here</a>.
 		    <br>
           </td>
       </tr>
@@ -357,7 +500,7 @@ function chgurl(cat){
 		<script language="JavaScript">
 		aj_pr = Math.floor(Math.random() * 1000000);
 		document.write('<iframe width="100" height="100" noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0 src="http://ads.gamesbannernet.com/servlet/ajrotator/19644/0/vh?z=gbn&dim=119&nocache='+aj_pr+'&referer='+escape(document.location.href)+'"></iframe>');
-		</script><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.gamesbannernet.com/servlet/ajrotator/19644/0/vh?z=gbn&amp;dim=119&amp;nocache=872302&amp;referer=https%3A//web.archive.org/web/20100112045355id_/http%253A//www.i-dressup.com/privacypolicy.php"></iframe>
+		</script><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.gamesbannernet.com/servlet/ajrotator/19644/0/vh?z=gbn&amp;dim=119&amp;nocache=414046&amp;referer=https%3A//web.archive.org/web/20101126143231id_/http%253A//www.i-dressup.com/privacypolicy.php"></iframe>
 		<noscript>
 		<a href="http://www.gamesbannernet.com/" target="_blank">
 		<img src="http://www.gamesbannernet.com/img/spacer.gif" alt="Games Banner Network" width="1" height="1" border="0">
