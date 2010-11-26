@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mthink.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606070056id_/http%3A//www.mthink.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mthink.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126123442id_/http%3A//mthink.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mThink.com
 
