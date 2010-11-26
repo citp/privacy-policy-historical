@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the networkplay.in privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309071300id_/http%3A//www.networkplay.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkplay.in privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126115233id_/http%3A//networkplay.in/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - India's No.1 Vertical Multi Genre Brand Ad-Network
+# India’s No.1 Digital Brand Ad-Network
 
 ## Privacy Policy
 
