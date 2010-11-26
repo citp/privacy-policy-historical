@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612232630id_/http%3A//necu.org/why-necu/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126071444id_/http%3A//necu.org/why-necu/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Northeast Credit Union : Privacy & Security
 
@@ -75,7 +75,7 @@ Northeast Credit Union Email Security Information**
 Northeast Credit Union (NECU) will periodically send emails promoting our products and services or those of our affiliates, to members for whom we have recorded email addresses. All members who receive the marketing emails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button, entering your email address on the [_email opt-out page_](http://email.necu.org/o/?co=0786D6C8267C51C6&cid=38762D7FF7A274E108450758E412F251103E8F7CE1A6CF25), emailing Member Services at memberservices@necu.org, or calling us at 1.888.436.1847.  
 
 
-As a trusted neighbor NECU will never ask you for personal account information via email. In addition, our latest technology allows you to identify authentic NECU emails upon receipt. NECU email’s that come from “Northeast Credit Union” marketing@email.necu.org.  View an example of what an email from NECU would look like in the address field, below:
+As a trusted neighbor NECU will never ask you for personal account information via email. In addition, our latest technology allows you to identify authentic NECU emails upon receipt. NECU email’s that come from “Northeast Credit Union” [marketing@email.necu.org](mailto:marketing@email.necu.org) and links within the email will go to an NECU website domain (i.e. necu.org, my.necu.org, etc.), NOT a 3rd party website. View an example of what an email from NECU would look like in the address field, below:
 
 A **unique identification code (UID)** appears near the top right of every email sent to you from NECU’s address. The last 4 digits of your primary membership number assigned by Northeast Credit Union will be used. It will appear as “ **Ending in 1234** ”. This unique identifier will be exclusive for email’s sent to you from NECU marketing. Below is an example of what it will look like: 
 
