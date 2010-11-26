@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manymoon.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312095443id_/https%3A//manymoon.com/auth/showPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manymoon.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126124835id_/https%3A//manymoon.com/auth/showPrivacy) for the most accurate reproduction.*
 
 # Manymoon | Privacy Agreement
 
