@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nyp.org privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619001406id_/http%3A//nyp.org/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nyp.org privacy policy that was archived on 2010-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126163836id_/http%3A//nyp.org/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -33,6 +33,8 @@
 
 
 
+  <!-- This is the stylesheet for the Find a Doctor feature in the right column --> 
+  <link rel="stylesheet" type="text/css" media="screen" href="http://www.med.cornell.edu/cms/nyp/common/css/fad.css"> 
 
 <script type="text/javascript">
                 <!--
@@ -148,6 +150,26 @@ _tag.dcsGetId();
 		<script type="text/javascript" src="http://weill.cornell.edu/shadowbox/latest/implementation.js"></script>		
 		<!-- END SHADOWBOX -->
 
+<!-- This is the latest JQuery --> 
+<script src="http://www.med.cornell.edu/cms/nyp/common/js/jquery-1.4.2.min.js" type="text/javascript"> 
+</script> 
+ 
+<!-- This is the carousel Javascript  --> 
+<script src="http://www.med.cornell.edu/cms/nyp/common/js/jquery.carousel.min.js" type="text/javascript"> 
+</script> 
+
+<script type="text/javascript" src="http://weill.cornell.edu/static/lib/js/jquery.pngFix.js" charset="utf-8"></script>
+ 
+<script type="text/javascript"> 
+	// This initializes the JQuery Carousel for the right column
+    $(function(){
+        $("div.carouselCont").carousel( { 
+        	autoSlide: true, 
+        	loop: true
+        	} );
+    });
+</script>
+
 </head>
 <body id="nyp" class="sections wt_privacy col3-page">
 <a name="top"></a>
@@ -250,7 +272,13 @@ _tag.dcsGetId();
 
 					<li id="nav-home"><a href="http://www.nyp.org">Home</a></li>
 
-<li><a href="contact-privacy-office.html">
+<li><a href="privacy-alert.html">
+
+						Privacy Alert</a></li>
+
+
+
+				<li><a href="contact-privacy-office.html">
 
 						Contact the Privacy Office</a></li>
 
@@ -325,7 +353,7 @@ _tag.dcsGetId();
 	document.write("<li><a href=\"javascript:popupEmailWindow('" + eHA_escapeSingleQuote(js_emailPageName)  + "', '" + js_emailPageURL + "', '" + js_eHASiteName + "')\" class=\"email\" title=\"Email Page\">Email</a></li>");
 
 -->
-</script><li><a href="javascript:popupEmailWindow('Privacy Notice', 'https://web.archive.org/web/20100619001406id_/http%3A//nyp.org/privacy/index.html', 'www.nyp.org')" class="email" title="Email Page">Email</a></li>
+</script><li><a href="javascript:popupEmailWindow('Privacy Notice', 'https://web.archive.org/web/20101126163836id_/http%3A//nyp.org/privacy/index.html', 'www.nyp.org')" class="email" title="Email Page">Email</a></li>
 
 <li><a href="#" class="print" onclick="window.print()" title="Print Page">Print</a></li>
 
@@ -337,27 +365,46 @@ _tag.dcsGetId();
 <input type="hidden" name="site" value="NYP_Sub|Cornell_Sub|Columbia_Sub">
 <input type="hidden" name="output" value="xml_no_dtd">
 <input type="hidden" name="proxystylesheet" value="NYP">
-<input type="text" name="q" value="Search" class="input-text" onfocus="this.value='';"> <input type="image" class="input-go" src="http://www.med.cornell.edu/cms/nyp/i/btn_go.gif" width="27" height="27">
+<input type="text" name="q" value="Search" class="input-text" onfocus="this.value='';"> <input type="image" class="input-go" src="http://www.med.cornell.edu/cms/nyp/i//go_button.png" width="27" height="27">
 </form>
 </div>			
 				</div>
 				
-<div class="shadow utility">
+<div class="">
 <hr class="alt">
 </div>
-<div id="media">
-<a href="http://nyp.org/findaphysician/index.html">
-<img width="200" height="120" alt="Find a Physician" src="http://webmedia.nyp.org/nyp/i/findaphysician.jpg">
-</a>
-</div>
-				
-				<div class="shadow utility"><hr class="alt"></div>
-<div id="media">
-<a href="http://nyp.org/health-enews/patients-and-families-enews.html"><img width="220" height="80" alt="eNewsletters" src="http://webmedia.nyp.org/nyp/i/eNewsletters_newspaper_blue.jpg"></a>
-</div>
+				<!-- Begin Find a Doctor graphic feature for right column --> 
+        <div id="findadoctor"> 
+			<ul class="fad-button"> 
+				<li><a href="http://nyp.org/findaphysician/index.html"><span>Go</span></a></li> 
+			</ul> 
+			<div class="carouselCont"> 
+				<ul> 
+                                    <!-- USNews accolade with number ranking--> 
+					<li class="accolade usnews"><a href="http://nyp.org/about/usnews-best.html"><span class="ranking"><span class="rankingCap">R</span>anked <span class="numeral">6th</span> among</span><img src="http://test2.nyp.org/findadoctor/dev/img/transparent.gif"></a></li> 
+					<!-- Generic USNews accolade --> 
+					<!-- 
+					<li class="accolade usnews"><a href="http://nyp.org/about/usnews-best.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_usnews.png" width="200" height="120" alt="U.S.News Best Hospitals" style="border: none;"/></a></li>
+ 					--> 
 
-<div class="shadow utility"><hr class="alt"></div>
-				</div>
+				<li class="accolade"><a href="http://nyp.org/about/top-ny-doctors.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_nymag.png" width="200" height="120" alt="NewYork Magazine's Best Doctors"></a></li> 
+					<li class="accolade"><a href="http://nyp.org/about/americas-top-doctors.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_connolly.png" width="200" height="120" alt="Castle Connolly's More Top Doctors"></a></li> 
+				</ul> 
+			</div> 
+       </div> 
+      <!-- End Find a Doctor feature for right column --> 
+      
+      
+        
+        <div class=""> 
+          <hr class="alt"> 
+        </div> 
+        <div id="media"> 
+          <a href="http://nyp.org/health-enews/patients-and-families-enews.html"><img width="220" height="80" alt="eNewsletters" src="http://webmedia.nyp.org/nyp/i/eNewsletters_newspaper_blue.jpg"></a> 
+        </div> 
+ 
+
+</div>
 			<a href="#top" id="topofpage">Top of page </a>
 		</div>
 	</div>
