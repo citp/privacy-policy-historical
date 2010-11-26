@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megachords.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515232807id_/http%3A//www.megachords.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megachords.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126153209id_/http%3A//megachords.com/policy) for the most accurate reproduction.*
 
 # - Mega Chords.com - Chords - Tablatures - Guitar - Bass - Drums
 
