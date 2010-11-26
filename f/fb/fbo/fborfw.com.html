@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the fborfw.com privacy policy that was archived on 2010-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531064646id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fborfw.com privacy policy that was archived on 2010-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126131303id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
+<!--page-title script-->
 
 <title>FBorFW.com is The Official Website of Lynn Johnston's comic strip For Better or For Worse.</title>
 <meta name="keywords" content="For Better or For Worse, Lynn, Johnston, Johnson, comic, funny, strip, Pattersons, better, worse, funnies, Lynn Johnston, Farley, Edgar, Mr. B, Butterscotch, John, Elly, Michael, Elizabeth, April, Iris, Grandpa Jim, Deanna, Sobinski, Mira, David, We're, Pregnant, Patterson, Reuben Award Winner, female cartoonist, Canada Walk of Fame, Gemini Award Winner, Order of Canada">
@@ -11,248 +11,27 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="apple-touch-icon" href="http://www.fborfw.com/images/iphone_icon.gif">
 
-<!--calls lightbox script in use on Fan Art and potentially other pages-->
-<script type="text/javascript" src="/includefiles/lightbox/prototype.js"></script>
-<script type="text/javascript" src="/includefiles/lightbox/scriptaculous.js?load=effects,builder"></script>
-<script type="text/javascript" src="/includefiles/lightbox/lightbox.js"></script>
-<style type="text/css">
 
-#dropmenudiv{
-position:absolute;
-border:1px solid black;
-border-bottom-width: 0;
-font:normal 11px Verdana;
-line-height:16px;
-z-index:100;
-}
+<link rel="stylesheet" type="text/css" href="http://www.fborfw.com/includefiles/dropdown/anylinkmenu.css">
 
-#dropmenudiv a{
-width: 100%;
-display: block;
-text-indent: 3px;
-border-bottom: 1px solid black;
-padding: 1px 0;
-text-decoration: none;
-font-weight: bold;
-}
+<script type="text/javascript" src="http://www.fborfw.com/includefiles/dropdown/menucontents.js"></script>
 
-#dropmenudiv a:hover{ /*hover background color*/
-background-color: yellow;
-}
+<script type="text/javascript" src="http://www.fborfw.com/includefiles/dropdown/anylinkmenu.js">
 
-</style>
+/***********************************************
+* AnyLink JS Drop Down Menu v2.0- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Project Page at http://www.dynamicdrive.com/dynamicindex1/dropmenuindex.htm for full source code
+***********************************************/
+
+</script>
 
 <script type="text/javascript">
 
-/***********************************************
-* AnyLink Drop Down Menu- � Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/
+//anylinkmenu.init("menu_anchors_class") //Pass in the CSS class of anchor links (that contain a sub menu)
+anylinkmenu.init("menuanchorclass")
 
-//STRIP FIX
-var menu1=new Array()
-menu1[0]='<a href="/strip_fix/">Today\'s Strip</a>'
-menu1[1]='<a href="/strip_fix/archives_monthly.php">Recent Archives</a>'
-
-
-//PATTERSON PAGES
-var menu2=new Array()
-menu2[0]='<a href="/char_pgs/elly/">Elly Patterson</a>'
-menu2[1]='<a href="/char_pgs/john/">John Patterson</a>'
-menu2[2]='<a href="/char_pgs/liz/">Elizabeth Patterson</a>'
-menu2[3]='<a href="/char_pgs/michael/">Michael Patterson</a>'
-menu2[4]='<a href="/char_pgs/farleynew/">Farley Patterson</a>'
-
-//FUN STUFF menu3[15]='<a href="/fun/pegjump">Bunny Hop!</a>'
-var menu3=new Array()
-menu3[0]='<a href="/fun/egreets3">Egreets</a>'
-menu3[1]='<a href="/fun/blog">Elly\'s Coffee Talk Blog</a>'
-menu3[2]='<a href="/fun/nedhunt">Ned Search Contest</a>'
-menu3[3]='<a href="/fun/coloring">Coloring Pages</a>'
-
-//BEHIND THE SCENES
-var menu4=new Array()
-menu4[0]='<a href="/news/">News Bites</a>'
-menu4[1]='<a href="/behind_the_scenes/lynn/">About Lynn, by Lynn</a>'
-menu4[2]='<a href="/behind_the_scenes/q_eh/">Q and "Eh"</a>'
-menu4[3]='<a href="/behind_the_scenes/bibliography">Lynn\'s Books</a>'
-menu4[4]='<a href="/newsletter">Monthly Newsletter</a>'
-menu4[5]='<a href="/behind_the_scenes/hybrid">What\'s Up With FBorFW?</a>'
-menu4[6]='<a href="/behind_the_scenes/studiotour">Studio Tour</a>'
-
-//FEATURES
-var menu5=new Array()
-menu5[0]='<a href="/features/ffoundation/">The Farley Foundation</a>'
-menu5[1]='<a href="/features/beth/">Meet Beth Cruikshank</a>'
-menu5[2]='<a href="/features/animatedshow/">Animated Series</a>'
-menu5[3]='<a href="/features/publicservice/">Public Service</a>'
-menu5[4]='<a href="/features/hybridwho/">Who\'s Who in FBorFW?</a>'
-menu5[5]='<a href="/features/youtube/">FBorFW Videos</a>'
-
-//GAMES
-var menu6=new Array()
-menu6[0]='<a href="/fun/crosswords">April\'s Puzzles!</a>'
-menu6[1]='<a href="/fun/chess">Chess Challenge</a>'
-menu6[2]='<a href="/fun/bones">Dig It!</a>'
-menu6[3]='<a href="/fun/dress_april">Dress April</a>'
-menu6[4]='<a href="/fun/foodfight">Food Fight</a>'
-menu6[5]='<a href="/fun/squares">Fun Squares</a>'
-menu6[6]='<a href="/fun/faces">Funky Faces</a>'
-menu6[7]='<a href="/fun/coffeebreak">John\'s Coffee Break</a>'
-menu6[8]='<a href="/fun/memory2">Memory Matching</a>'
-menu6[9]='<a href="/fun/memory">Memory Matchup</a>'
-menu6[10]='<a href="/fun/trivia">Liz\'s Quizzes</a>'
-menu6[11]='<a href="/fun/pileup">Pet Pileup</a>'
-menu6[12]='<a href="/fun/spring">Spring Thing</a>'
-menu6[13]='<a href="/fun/tunes">Tune Time</a>'
-menu6[14]='<a href="/fun/roundup">Word Roundup (NEW)</a>'
-menu6[15]='<a href="/fun/wordsearch">Word Searches</a>'
-
-
-
-
-var menuwidth='175px' //default menu width
-var menubgcolor='lightyellow'  //menu bgcolor
-var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
-var hidemenu_onclick="yes" //hide menu when user clicks within menu?
-
-//menu4[8]='<a href="/features/makingof">The Making of FBorFW</a>'
-//menu5[2]='<a href="/features/lawrence/">Lawrence\'s Story</a>'
-//menu5[3]='<a href="/features/mikedee/">Mike &amp; Deanna: A Love Story</a>'
-//menu5[4]='<a href="/features/mtigwaki/">Explore Mtigwaki</a>'
-//menu5[5]='<a href="/features/rcaf/">Jim\'s RCAF Service</a>'
-//menu5[6]='<a href="/features/shannon/">Introducing Shannon</a>'
-//menu5[7]='<a href="/features/who/">Who\'s Who in FBorFW</a>'
-//menu5[8]='<a href="/features/research/index.php?page=storylines">R&amp;D: Research is Key</a>'
-//menu5[9]='<a href="/features/research/index.php?page=people">R&amp;D: Real People</a>'
-//menu5[10]='<a href="/features/research/index.php?page=places">R&amp;D: Real Places</a>'
-//menu5[11]='<a href="/features/research/index.php?page=models">R&amp;D: A Model Student</a>'
-//menu5[12]='<a href="/features/research/index.php?page=drawn">R&amp;D: Drawn From Life</a>'
-//menu5[13]='<a href="/features/anotherchance/">About Liz &amp; Anthony</a>'
-//menu5[15]='<a href="/features/spanish/">En Lo Bueno y En Lo Malo</a>'
-
-/////No further editting needed
-
-var ie4=document.all
-var ns6=document.getElementById&&!document.all
-
-if (ie4||ns6)
-document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
-
-function getposOffset(what, offsettype){
-var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-var parentEl=what.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-
-function showhide(obj, e, visible, hidden, menuwidth){
-if (ie4||ns6)
-dropmenuobj.style.left=dropmenuobj.style.top="-500px"
-if (menuwidth!=""){
-dropmenuobj.widthobj=dropmenuobj.style
-dropmenuobj.widthobj.width=menuwidth
-}
-if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
-obj.visibility=visible
-else if (e.type=="click")
-obj.visibility=hidden
-}
-
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-function clearbrowseredge(obj, whichedge){
-var edgeoffset=0
-if (whichedge=="rightedge"){
-var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
-dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
-edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
-}
-else{
-var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
-var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
-edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
-if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
-edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
-}
-}
-return edgeoffset
-}
-
-function populatemenu(what){
-if (ie4||ns6)
-dropmenuobj.innerHTML=what.join("")
-}
-
-
-function dropdownmenu(obj, e, menucontents, menuwidth){
-if (window.event) event.cancelBubble=true
-else if (e.stopPropagation) e.stopPropagation()
-clearhidemenu()
-dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
-populatemenu(menucontents)
-
-if (ie4||ns6){
-showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
-dropmenuobj.x=getposOffset(obj, "left")
-dropmenuobj.y=getposOffset(obj, "top")
-dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
-dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
-}
-
-return clickreturnvalue()
-}
-
-function clickreturnvalue(){
-if (ie4||ns6) return false
-else return true
-}
-
-function contains_ns6(a, b) {
-while (b.parentNode)
-if ((b = b.parentNode) == a)
-return true;
-return false;
-}
-
-function dynamichide(e){
-if (ie4&&!dropmenuobj.contains(e.toElement))
-delayhidemenu()
-else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
-delayhidemenu()
-}
-
-function hidemenu(e){
-if (typeof dropmenuobj!="undefined"){
-if (ie4||ns6)
-dropmenuobj.style.visibility="hidden"
-}
-}
-
-function delayhidemenu(){
-if (ie4||ns6)
-delayhide=setTimeout("hidemenu()",disappeardelay)
-}
-
-function clearhidemenu(){
-if (typeof delayhide!="undefined")
-clearTimeout(delayhide)
-}
-
-if (hidemenu_onclick=="yes")
-document.onclick=hidemenu
-
-</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:175px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div><!--js_errors.php this script hides the error message generated by the pages which DON'T use the fading slideshow image-->
+</script><!--js_errors.php this script hides the error message generated by the pages which DON'T use the fading slideshow image-->
 <script type="text/javascript">
 <!-- //
 function handleError() {
@@ -264,11 +43,12 @@ window.onerror = handleError;
 
 <!-- styles_link opens-->
 <link rel="stylesheet" type="text/css" href="http://www.fborfw.com/styles/styleswide.css">
-
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://tags.crwdcntrl.net/c/349/cc.js" async="true"></script></head>
 
 <!--begin php script containing cardinal list of internal links - use echo function to place link into webpage-->
+
 <!--variable body tags based on whether a script needs to execute onLoad-->
- <!--see other body includes for pages making use of Javascripts that must initialize onLoad-->
+<body> <!--see other body includes for pages making use of Javascripts that must initialize onLoad-->
 
 <!-- Google analytics -->
 <script type="text/javascript">
@@ -308,12 +88,11 @@ var pos = "top";
 var size = "468x60,728x90";
  
 if (17>dctile) document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/'+site+'/'+zone+''+dcopt+';pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?"><\/script>\n');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/uu.fborfw/site;dcopt=ist;pos=top;tile=1;sz=468x60,728x90;ord=3825003861?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/uu.fborfw/site;dcopt=ist;pos=top;tile=1;sz=468x60,728x90;ord=1837300984?"></script>
 
 </div>
-<br clear="all"><!--tabs--><!--<br clear="all" />-->
-<div id="tab-box" style="text-align:left;">  <!--floats the tabs in the correct location -->
-<a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_stripfix.gif" alt="Strip Fix" style="border:0px;"></a><a href="http://catalog.fborfw.com"><img src="/images/tabs/tab3_catalog.gif" alt="Strip Archive" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_pattersons.gif" alt="Meet the Pattersons" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_games.gif" alt="Play Games" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_fun.gif" alt="Fun Stuff" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_bts.gif" alt="Behind the Scenes" style="border:0px;"></a><a href="http://store.fborfw.com"><img src="/images/tabs/tab3_shop.gif" alt="Shop Online" style="border:0px;"></a><a href="/classic/"><img src="/images/tabs/tab3_classic.gif" alt="Classic Content" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu5, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_explore.gif" alt="Explore More!" style="border:0px;"></a> 
+<br clear="all"><!--tabs--><!--<br clear="all" />--><!--floats the tabs in the correct location -->
+<div id="tab-box" style="text-align:left;"><a href="http://www.fborfw.com/strip_fix" class="menuanchorclass" rel="anylinkmenu1"><img src="http://www.fborfw.com/images/tabs/tab3_stripfix.gif" alt="Strip Fix" style="border:0px;"></a><a href="http://catalog.fborfw.com"><img src="http://www.fborfw.com/images/tabs/tab3_catalog.gif" alt="Strip Archive" style="border:0px;"></a><a href="#" class="menuanchorclass" rel="anylinkmenu2"><img src="http://www.fborfw.com/images/tabs/tab3_pattersons.gif" alt="Meet the Pattersons" style="border:0px;"></a><a href="#" class="menuanchorclass" rel="anylinkmenu3"><img src="http://www.fborfw.com/images/tabs/tab3_games.gif" alt="Play Games" style="border:0px;"></a><a href="#" class="menuanchorclass" rel="anylinkmenu4"><img src="http://www.fborfw.com/images/tabs/tab3_fun.gif" alt="Fun Stuff" style="border:0px;"></a><a href="#" class="menuanchorclass" rel="anylinkmenu5"><img src="http://www.fborfw.com/images/tabs/tab3_bts.gif" alt="Behind the Scenes" style="border:0px;"></a><a href="http://store.fborfw.com"><img src="http://www.fborfw.com/images/tabs/tab3_shop.gif" alt="Shop Online" style="border:0px;"></a><a href="http://www.fborfw.com/classic/"><img src="http://www.fborfw.com/images/tabs/tab3_classic.gif" alt="Classic Content" style="border:0px;"></a><a href="#" class="menuanchorclass" rel="anylinkmenu6"><img src="http://www.fborfw.com/images/tabs/tab3_explore.gif" alt="Explore More!" style="border:0px;"></a> 
 </div><!--closes #tabs -->
 
 </div><!-- closes div #header --><!-- layout-open-content Controls Box Float-->
@@ -325,7 +104,7 @@ if (17>dctile) document.write('<script type="text/javascript" src="http://ad.dou
 Here are some terms you should be familiar with before you read through our Privacy Protection Statement:<br><br>
 
 <strong>Entercom Canada Inc. (ECI):</strong> that's us!! <br><br>
-<strong>Universal Uclick:</strong> syndicate that distributes the For Better or For Worse comic strip, and is responsible for the gocomics.com website, of which we are affiliated<br><br>
+<strong>Universal Uclick:</strong> syndicate that distributes the For Better or For Worse comic strip, and is responsible for the gocomics.com website, with whom we are affiliated<br><br>
 <strong>Third party: </strong>this website is designed and maintained by Entercom Canada Inc. Anyone not directly employed by Entercom Canada Inc. Is considered to be "a third party", and is therefore not entitled access to personal company information.<br><br>We consider personal information to be individually identifiable. It is collected online and provides details such as first and last name, email address, phone number and mailing address.<br><br>As a responsible company, doing business in compliance with all regulations regarding privacy, we hold this information in strict 
 confidence.<br><br>
 
@@ -354,6 +133,8 @@ Universal Uclick or Entercom Canada Inc. does not require personal information f
 <p><strong>Information Tracking:</strong> <br>
 Universal Uclick uses an outside service to track the total number of visitors to each area of For Better Or For Worse. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process.</p>
 
+<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/">click here</a>.</p>
+
 <!--<p><strong>"Cookies"</strong><br />
 The Universal Uclick site contracts with DoubleClick to sell and manage the advertisements that you see on the site. The advertisements help us bring you the For Better Or For Worse site without charge. DoubleClick uses "cookies" to improve the quality of your visit to the For Better Or For Worse site. "Cookies" are a form of software technology used to collect non-personal information about visitors to any particular site. This type of information includes: type of browser used to access the Internet (i.e. Netscape3.0, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh) and the domain of the visitor's Internet service provider. DoubleClick uses cookies to make sure that you do not see the same advertisements repeatedly and when possible, shows advertising that is relevant to you based on what you have seen previously. Cookies are anonymous. DoubleClick does not know the name, e-mail address, phone number, or home address of anybody who visits the For Better Or For Worse site or any other site in the DoubleClick Network. All users receiving an ad from DoubleClick through the For Better Or For Worse site therefore remain entirely anonymous to DoubleClick. DoubleClick makes available both its policies and information practices at www.doubleclick.net and has voluntarily opened its practices and systems for third party auditing. DoubleClick's privacy statement.</p>-->
 
@@ -372,7 +153,7 @@ P0H 1K0<br></p>
 </div><!--closes container div that encloses left-hand columns, opened in containerdiv.php-->
 <div id="sidebarcolumn">
 
-<a href="http://catalog.fborfw.com"><img src="/images/sidebars/catalog.gif"></a>
+<a href="http://catalog.fborfw.com"><img src="/images/sidebars/catalog.gif" alt="Browse our Strip Catalog"></a>
 
 
 </div>
@@ -381,7 +162,7 @@ P0H 1K0<br></p>
 </div>-->
 </div><!-- close content-float -->
 <div class="clear">&nbsp;</div><!-- clear only required for NN4 compatibility --><!--footer opens-->
-<br clear="both">
+<br clear="all">
 <div id="footer">
 
 © Lynn Johnston Productions Inc. | 
@@ -389,14 +170,27 @@ P0H 1K0<br></p>
 <a href="http://www.fborfw.com/privacy" title="Privacy Protection Policy">Privacy</a> | 
 <a href="http://www.amureprints.com" title="AMU Reprints">Reprints</a> | 
 <a href="http://www.fborfw.com/newsletter" title="Our FREE Newsletter">Newsletter</a> | 
-Website by <a href="http://www.aloeroot.com" title="AloeRoot: grow your business using the Web">AloeRoot Web Services</a> |<br>
+Website by <a href="http://www.aloeroot.com" title="AloeRoot: grow your business using the Web">AloeRoot Web Services</a> |
+<a href="http://www.canadahelps.org/charityprofilepage.aspx?charityid=s59434">Make a donation to the Farley Foundation!</a><br>
 
 <span style="font-size:7pt;">
-<a href="http://www.universaluclick.com/" title="Uclick">Universal Uclick</a> | <a href="https://www.gocomics.com/registration/new" title="Get comics in your e-mail">Comics by Email</a> | <a href="http://www.gocomics.com" title="GoComics">GoComics.com</a> | <a href="http://www.andrewsmcmeel.com/" title="AMP">Andrews McMeel Publishing</a></span><br clear="both">
+<a href="http://www.universaluclick.com/" title="Uclick">Universal Uclick</a> | <a href="https://www.gocomics.com/registration/new" title="Get comics in your e-mail">Comics by Email</a> | <a href="http://www.gocomics.com" title="GoComics">GoComics.com</a> | <a href="http://www.andrewsmcmeel.com/" title="AMP">Andrews McMeel Publishing</a></span><br clear="all">
 </div>
 <!--page_end opens-->
 </div><!-- close box-wrap -->
 </div>
+
+<!--UUclick tracking script-->
+<script type="text/javascript">
+  var LOTCC = LOTCC || { asyncBehaviors: {}, async: true };
+
+  (function(){
+     var lot = document.createElement('script');
+     lot.src = 'http://tags.crwdcntrl.net/c/349/cc.js';
+     lot.setAttribute('async', 'true');
+     document.documentElement.firstChild.appendChild(lot);
+  })();
+  </script>
 
 
 
