@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthconverter.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525235910id_/http%3A//www.healthconverter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthconverter.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126133630id_/http%3A//www.healthconverter.com/privacy-policy) for the most accurate reproduction.*
 
 # HealthConverter.com : Privacy Policy
 
-**This page sets forth the privacy policies and practices of Foods, Beverages, Cosmetics and More LLC. and its affiliated companies within the HealthConverter Marketing Network ("HealthConverter Network" "HealthConverter" "we" or "us") and includes the following principal Internet sites:**  
+**This page sets forth the privacy policies and practices of the Health Converter Affiliate Network and its affiliated companies within the HealthConverter Marketing Network ("HealthConverter Network" "HealthConverter" "we" or "us") and includes the following principal Internet sites:**  
 
 
 **HealthConverter.com**  
@@ -92,7 +92,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 **CONTACT US**   
 For more information or if you have questions or concerns regarding the HealthConverter Network Privacy Policy, please contact us at [http://www.HealthConverter.com/contact/](http://www.healthconverter.com/contact/) or you can send correspondence to the following address:   
-**Foods, Beverages, Cosmetics and More LLC,**  
+**Health Converter Affiliate Network**  
 **244 5th Avenue, Suite 1760** **  
 ****New York** **,** **New York** ******10001**
 
@@ -152,7 +152,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 For more information or if you have questions or concerns regarding the HealthConverter Network Privacy Policy, please contact us at [http://www.HealthConverter.com/contact/](http://www.healthconverter.com/contact/) or you can send correspondence to the following address: 
 
-**Foods, Beverages, Cosmetics and More LLC,**  
+**Health Converter**  
 244 5th Avenue, Suite 1760  
 New York, New York 10001 
 
