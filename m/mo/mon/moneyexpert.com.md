@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606143713id_/http%3A//www.moneyexpert.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126212829id_/http%3A//www.moneyexpert.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Money Expert - Privacy Policy
+# Privacy Policy - MoneyExpert.com
 
 **Our Commitment to Privacy**  
 MoneyExpert Limited is committed to keeping private, within a secure environment, the data that we collect through the use of our software. We therefore aim to provide an environment in which you know that we respect your right to privacy and will do whatever we can to ensure that any information you provide to us remains private. Any such information will only be used for the purposes described below.
@@ -38,11 +38,11 @@ Alternatively, you can email us at unsubscribe@moneyexpert.com, requesting that 
 
 MoneyExpert's price comparison service involves us passing the details you input to our website to our partners. This enables the partners to provide us with quotations on the products and services that you have requested. If you do decide to enter into a contract with one of our partners then the information which we have supplied to them (as well as any further information requested by them to enable to them to complete the contract) will be held by the partner. You are therefore advised to read the partners privacy policy before entering into any contract with them.
 
-We may also share your personal information with other [Trusted Business Partners](https://web.archive.org/products.aspx "View our Trusted Business Partners") and other professional advisers, financial organisations and advisers, sponsors and advertisers. Such parties may contact you by phone, e-mail or otherwise to inform you about products and services that may be of interest to you. If you prefer to opt out of such direct marketing activity, please let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
+We may also share your personal information with other and other professional advisers, financial organisations and advisers, sponsors and advertisers. Such parties may contact you by phone, e-mail or otherwise to inform you about products and services that may be of interest to you. If you prefer to opt out of such direct marketing activity, please let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
 
 If you provide us with information about another person, you confirm that they have appointed you to act for them and they have consented to the processing of their personal data as set out above.
 
-If your enquiry is in regard to Mortgage advice, we will arrange for one of our [Trusted Business Partners](https://web.archive.org/products.aspx "View our Trusted Business Partners") to contact you by phone. In some circumstances, we may arrange for an alternative Mortgage Adviser to contact you. In these cases, we will notify you of the name of the adviser and request your permission for your details to be sent to them before any contact is made.
+If your enquiry is in regard to Mortgage advice, we will arrange for one of our to contact you by phone. In some circumstances, we may arrange for an alternative Mortgage Adviser to contact you. In these cases, we will notify you of the name of the adviser and request your permission for your details to be sent to them before any contact is made.
 
 MoneyExpert may also disclose your personal information to governmental bodies and regulators where required to do so by law, or where necessary for MoneyExpert Limited to fulfil our regulatory obligations.
 
