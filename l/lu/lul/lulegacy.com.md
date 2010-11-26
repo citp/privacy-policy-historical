@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lulegacy.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522133040id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulegacy.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126204846id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Legacy
 
