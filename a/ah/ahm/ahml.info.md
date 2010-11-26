@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahml.info privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525154623id_/http%3A//www.ahml.info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahml.info privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126154800id_/http%3A//www.ahml.info/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Arlington Heights Memorial Library
 
