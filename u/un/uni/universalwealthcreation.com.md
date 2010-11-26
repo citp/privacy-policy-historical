@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the universalwealthcreation.com privacy policy that was archived on 2009-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090814095603id_/http%3A//www.universalwealthcreation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalwealthcreation.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126191637id_/http%3A//www.universalwealthcreation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy
 
-This is the web site of Universal Wealth Creation.
+Privacy Policy
+
+This is the web site of Web Vision 2020.
 
 Our postal address is  
 PO Box 410  
 Bunbury WA, Australia, 6231  
-We can be reached via e-mail at ws@uwc.me  
+We can be reached via e-mail at info@webvision2020.info  
 or you can reach us by telephone at (08) 9791 6600
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
@@ -16,7 +18,7 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
