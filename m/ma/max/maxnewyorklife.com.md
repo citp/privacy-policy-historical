@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxnewyorklife.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323081758id_/http%3A//maxnewyorklife.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxnewyorklife.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126125540id_/http%3A//maxnewyorklife.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Max New York Life Insurance: Privacy Policy
 
