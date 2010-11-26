@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the remodelista.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502064545id_/http%3A//www.remodelista.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelista.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126223313id_/http%3A//remodelista.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy : Remodelista
 
-Remodelista.com Privacy Policy
+Remodelista, LLC Privacy Policy
 
- **Principles of the Remodelista.com Privacy Policy**
+**Principles of the Remodelista Privacy Policy**
 
     * We don't ask you for personal information unless we truly need it.  
     * We don't share your personal information with anyone except to comply with the law, to provide a service you have requested, or to protect our rights.  
     * We don't store personal information on our servers unless required for the on-going operation of one of our services.
 
- **What This Privacy Policy Covers**
+**What This Privacy Policy Covers**
 
-    * This privacy policy governs the use of the Remodelista website at http://remodelista.com/ as operated by Remodelista, LLC. The website, its operation by Remodelista, LLC, and the services it provides are collectively known as “Remodelista” in this Privacy Policy.  
+    * This privacy policy governs the use of the Remodelista websites at http://remodelista.com/ and http://architects.remodelista.com/as operated by Remodelista, LLC. The websites, their operation by Remodelista, LLC, and the services it provides are collectively known as “Remodelista” in this Privacy Policy.  
     * It covers how Remodelista treats personal information -- that is, personally identifiable like your name, address, and email address.
 
- **General Information**
+**General Information**
 
     * Remodelista collects personal information when you register with Remodelista to use Remodelista services, or to post content on Remodelista.  
     * When you register or post a comment, we ask for your email address.  
     * Remodelista receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request in order to operate the Remodelista service.  
     * Remodelista uses Google Analytics to view aggregate statistics about the usage of the Remodelista service.
 
- **IP Addresses  
+**IP Addresses  
 **  
 IP Addresses are automatically reported by your browser each time you view a web page. IP addresses may be used for various purposes, including:
 
@@ -59,7 +59,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
     * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.  
     * Remodelista also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Remodelista believes, in good faith, is appropriate or necessary to enforce our Member Agreement, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of Remodelista, our users or others.
 
- **Editing and Deleting Account Information**
+**Editing and Deleting Account Information**
 
     * You can delete your Remodelista username at any time. You can edit and change other account information at any time.  
     * We may send you certain communications relating to the Remodelista service, such as service announcements and administrative messages, that are considered part of your Remodelista account.  
@@ -76,7 +76,7 @@ If Remodelista learns of a security systems breach, then we may attempt to notif
 
 In the event that Remodelista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
- **Changes and Updates to This Privacy Notice**
+**Changes and Updates to This Privacy Notice**
 
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Remodelista Site constitutes your agreement to this Privacy Notice and any future revisions.
 
