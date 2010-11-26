@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agiledeals.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525044443id_/http%3A//agiledeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agiledeals.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126102545id_/http%3A//agiledeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Philippines Travel Blog | Privacy Policy
+# Privacy Policy | Philippines Travel Blog
 
   
 This privacy notice discloses the privacy practices for this website. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
