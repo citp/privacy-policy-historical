@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantherainteractive.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201043227id_/http%3A//www.pantherainteractive.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantherainteractive.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126133511id_/http%3A//pantherainteractive.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Panthera Interactive, LLC: Performance Based Online Advertising
 
