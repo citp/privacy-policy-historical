@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturegfs.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418191712id_/http%3A//www.maturegfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturegfs.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126165956id_/http%3A//www.maturegfs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
