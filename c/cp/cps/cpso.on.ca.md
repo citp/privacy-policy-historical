@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpso.on.ca privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526142036id_/http%3A//www.cpso.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpso.on.ca privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126033631id_/http%3A//www.cpso.on.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | College of Physicians and Surgeons of Ontario
 
-## Introduction 
+## Introduction
 
 The College of Physicians and Surgeons of Ontario (CPSO) respects your right to privacy as you visit our website. 
 
@@ -32,7 +32,7 @@ There are no persistent or third party site cookies such as banner ad tracking c
 
 If you simply browse or download from our website, we do not collect any personal information. 
 
-## How we use the information 
+## How we use the information
 
 We only use your personal information for the purposes for which you give it to us. We keep the information for only as long as necessary to fulfill the purpose for which it is collected. 
 
@@ -48,7 +48,7 @@ We do not share your personal information with other organizations or individual
 
 Although we make every effort to ensure that all information posted on our website is accurate and complete, we do not represent that it is so, or guarantee it, and accept no liability or obligation for accuracy or completeness. We reserve the right to update the information as necessary without notice. You should check the website from time to time for changes. If there is any discrepancy between information posted on our website and the original paper version, the original paper document prevails. As this website is for information purposes only, you should seek appropriate, qualified advice before acting or omitting to act based upon any such information. 
 
-## How to contact us 
+## How to contact us
 
 Contact us at [feedback@cpso.on.ca](mailto:feedback@cpso.on.ca) about any of your privacy concerns or to suggest further improvements to this website. Alternatively, you can write to us at: 
 
