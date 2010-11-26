@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the indiandir.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126022620id_/http%3A//indiandir.com/ppolicy.htm) for the most accurate reproduction.*
+
+# India Web Directory, Free website Submission, Submit Site, India Search, Indian Companies, Classifieds:Indiandir.com Privacy Policy
+
+Privacy Policy:
+
+      Indiandir.com reserves the right to change this policy at any time by notifying users through a notice posted on indiandir.com or by email, of the existence of a new privacy policy or any updates. 
+
+Personal Identifying Information: 
+
+      Indiandir.com collects personally identifying information only during the submission process. Information is collected in certain portions of indiandir.com in which users specifically and knowingly provide such information along with content submissions, indiandir.com submissions or suggestions. Indiandir.com may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. Information submitted at the time of registration may be used for marketing and promotional purposes by indiandir.com and may be shared with companies that have something of value to offer. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. 
+
+Cookies 
+
+  
+
+
+      Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites.
+
+      Cookies help make indiandir.com better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets indiandir.com remember that you've submitted the website, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information although it may enable indiandir.com to relate a user's use of indiandir.com to personally identifying information that has previously been submitted by the user, if any. 
+
+      You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is likely that most areas of the site will not function properly if you do so. 
+
+Removal from our Database 
+
+      Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [ privacy@indiandir.com](mailto:support@indiandir.com). 
+
+  
+
