@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatco.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102113706id_/http%3A//www.neatco.com/our-company/policies/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatco.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126073940id_/http%3A//neatco.com/our-company/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Neat Company - Privacy Policy : Neat Receipts : Scan to Excel : NeatCo.com
 
@@ -15,9 +15,9 @@ Will you sell/share my information with others?
 No. We respect your privacy and will never share your information to any unauthorized third party. If we ever share your information with a trusted partner, you will always be asked if you want to opt in to any correspondence with them. 
 
   
-Why do you want to know my name and email address?  
+Why do you want to know my personal information?  
   
-We need this information to check your billing information, address your shipping package and to mail you the order confirmation. We also use your email address to send information about critical security updates. If you do not want to receive any correspondence from us, please contact us and we will be glad to comply with any requests you have. You should also check for unsubscription information in any email you receive from us.
+We use the information you provide (name, address, phone number and email address)  to complete your order and  email the order confirmation. We also use your email address to send information about critical security updates, new product information and special offers and promotions from Neat Company and our partners. We do not share you information with other companies.   If you do not want to receive any correspondence from us, please [click here](https://web.archive.org/our-company/policies/email-preferences) to unsubscribe. If you received an email from us and you no longer wish to receive such messages, click the unsubscribe link at the bottom of the email.
 
   
 Why do you want to know my credit card number and street address?  
