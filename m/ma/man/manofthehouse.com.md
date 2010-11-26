@@ -1,0 +1,67 @@
+> *The following text is extracted and transformed from the manofthehouse.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126151355id_/http%3A//manofthehouse.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy | Man of the House
+
+_This privacy policy was last updated on March 30, 2010._
+
+Welcome to ManOfTheHouse.com, a service brought to you by Procter & Gamble ("P&G"). This site is governed by P&G's [privacy policy](http://www.pg.com/privacy/english/privacy_notice.html) and [terms of service](http://www.pg.com/terms.htm).
+
+### Scope
+
+This statement applies to websites operated by or on behalf of The Procter & Gamble Company and its affiliated companies and subsidiaries (P&G).
+
+### Personal Information
+
+  * We collect information you choose to provide such as your email or postal address. 
+  * We collect non-personal information such as browser type, operating system, and web pages visited to help manage our websites. 
+  * We use cookies and other internet technologies to manage our website and e-mail programs. We do not use these technologies to collect or store personal information. 
+  * We may obtain additional information about you, such as demographic information, from commercially available sources.
+
+
+
+[Click here](http://www.pg.com/privacy/english/privacy_statement.html#tab2) for more information.
+
+### Uses
+
+  * We use personal information to provide you information and samples you request, to give you a customized interactive experience, and to help us develop new products and services that meet your needs. 
+  * We do not share your personal information with other marketers unless we have asked for and obtained your explicit consent. If you do not provide your consent, we will not share your information. 
+  * We use personal information you provide only for purposes consistent with the reason you provided it. 
+  * When we temporarily provide personal information to companies who perform services for us, such as to send you email or samples, we require those companies to protect the information in the same manner as P&G. These service companies cannot use your personal information for any other purpose than the reason you provided it to P&G.
+
+
+
+[Click here](http://www.pg.com/privacy/english/privacy_statement.html#tab3) for more information.
+
+### Your Rights & Choices
+
+  * You have the right to have a copy of the personal information you provide, and to correct or update your personal information.
+  * You may instruct P&G to remove you from our programs you have subscribed to by using the unsubscribe link provided in our email programs, or using the link provided below 
+  * You may instruct P&G to remove any previous consent you provided to share your personal information with other companies.
+  * [Click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) to select your country and be linked to the correct address to use to: obtain a copy of the personal information you provided, be removed from our programs, or remove your consent for information sharing.
+
+
+
+[Click here](http://www.pg.com/privacy/english/privacy_statement.html#tab4) for more information.
+
+### Important Information 
+
+  * P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
+  * P&G complies with country data protection laws. 
+  * We cooperate with country data protection authorities if they believe a privacy problem has occurred. 
+  * Our U.S. websites are privacy certified by the [U.S. Better Business Bureau OnLine®](http://www.bbb.org/online/) Privacy Seal.
+
+
+
+### How to Contact Us
+
+To contact us with a question [click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) (for country specific addresses)
+
+Or write to us at:
+
+> **P &G Privacy Team**  
+>  2 P&G Plaza  
+>  Cincinnati, OH 45202 U.S.A.
+
+Read our full [Online Privacy Statement](http://www.pg.com/privacy/english/privacy_statement.html).
+
+Read our [Global Privacy Policy](http://www.pg.com/company/our_commitment/privacy_policy/privacy_policy.shtml).
