@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poprule.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402200129id_/http%3A//poprule.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poprule.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126202545id_/http%3A//poprule.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PopRule
 
