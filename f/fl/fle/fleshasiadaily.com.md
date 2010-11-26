@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleshasiadaily.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604005841id_/http%3A//fleshasiadaily.com/2007/07/26/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshasiadaily.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126195616id_/http%3A//fleshasiadaily.com/2007/07/26/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ The FAD 3.0 website contains links to other sites. Please be aware that FAD 3.0 
 Whenever FAD 3.0 changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
 **Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://fleshasiadaily.com/2007/07/27/contact-us-to-submit-photoslinkstips/).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://fleshasiadaily.com/2007/07/27/contact-us-to-submit-photoslinkstips/). 
