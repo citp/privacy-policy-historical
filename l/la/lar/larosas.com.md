@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the larosas.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401132123id_/http%3A//larosas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larosas.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126023141id_/http%3A//www.larosas.com/privacy.html) for the most accurate reproduction.*
 
-# LaRosa's Pizzeria: Cincinnati's Best Pizza
+# LaRosa's Pizzeria: Cincinnati's Best Pizza! Company Privacy Statement
 
 **We will always respect your privacy.**
 
