@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609194432id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126090809id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# PC Pitstop FAQ
 
-**Last Amended:** January 22, 2007
+**Last Amended:** January 1, 2010
 
 Effective March 1, 2000 
 
@@ -43,9 +43,7 @@ To protect your privacy, we provide this notice explaining our complete online i
 
 **System information:** The information we collect about your PC is stored in our database, analyzed, then presented to you in summary and detailed reports, along with any tips that you can implement to improve system performance. How you use these recommendations is up to you; the tips are not automatically implemented and no changes are made to your system configuration. 
 
-PC Pitstop's [TechExpress](https://web.archive.org/techexpress/default.asp) feature gives registered users the opportunity to e-mail their tests results to friends, colleagues or support technicians. Since the system information collected by PC Pitstop is very detailed, PC Pitstop advises its visitors to ensure that their system results do not compromise their privacy before sharing their results. 
-
-As part of our market research model, we collect aggregate information about all of the PCs tested at our site. This data is derived directly from the PC Pitstop system data collection described above. During this process, your anonymity will be 100% protected. We only look at trends in totality, not at the individual level. Examples of the types of market research reports we produce can be found here: [http://www.pcpitstop.com/research/](https://web.archive.org/research/default.asp). 
+As part of our market research model, we collect aggregate information about all of the PCs tested at our site. This data is derived directly from the PC Pitstop system data collection described above. During this process, your anonymity will be 100% protected. We only look at trends in totality, not at the individual level. Examples of the types of market research reports we produce can be found here: <http://techtalk.pcpitstop.com/pc-pitstop-research-overview/>. 
 
 ## Cookies
 
@@ -69,11 +67,11 @@ To prevent unauthorized access, maintain data accuracy and ensure the correct us
 
 ## How You Can Access Or Correct Your Information
 
-**Account information:** When you have created an account, you can access to review all your personally identifiable information that we collect at any time. Browse to [http://www.pcpitstop.com/pcpitstop/default.asp](https://web.archive.org/pcpitstop/default.asp) and log in with your e-mail address and password. You may then change your login information by selecting the Change Login link. [Click here](https://web.archive.org/offsite.asp?{newschg|privacy}) to update your newsletter profile or opt-out of our newsletter. For instructions on changing your forums profile, see the PC Pitstop Support Forums section above. 
+**Account information:** When you have created an account, you can access to review all your personally identifiable information that we collect at any time. Browse to [http://www.pcpitstop.com/betapit/default.asp](https://web.archive.org/betapit/default.asp) and log in with your e-mail address and password. You may then change your login information by selecting the Change Login link. [Click here](https://web.archive.org/offsite.asp?{newschg|privacy}) to update your newsletter profile or opt-out of our newsletter. For instructions on changing your forums profile, see the PC Pitstop Support Forums section above. 
 
 If you have forgotten your password, we provide a mechanism that e-mails your password to you. Since the "forgot my password" feature sends your password to the email address that you used for registration, do not use an email address that can be accessed by others that you would not want to see or change your PC Pitstop account information. 
 
-**System information:** If you have created an account, you can review or delete the system information saved about the computers you have tested. Go to the Full Tests page at [http://www.pcpitstop.com/pcpitstop/default.asp](https://web.archive.org/pcpitstop/default.asp), log into the site, and click the "View previous test results" link. From this page you can view or delete all your saved results. 
+**System information:** If you have created an account, you can review or delete the system information saved about the computers you have tested. Go to the Full Tests page at [http://www.pcpitstop.com/betapit/default.asp](https://web.archive.org/betapit/default.asp), log into the site, and click the "View previous test results" link. From this page you can view or delete all your saved results. 
 
 ## How to Contact Us
 
