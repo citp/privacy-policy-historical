@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527013203id_/http%3A//www.brandz.com/output/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126102655id_/http%3A//www.brandz.com/output/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
