@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestigesmartkitchen.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621070853id_/http%3A//prestigesmartkitchen.com/privacy-policy-page-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigesmartkitchen.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126105600id_/http%3A//prestigesmartkitchen.com/privacy-policy-page-3) for the most accurate reproduction.*
 
 # Privacy Policy : Prestige TTK
 
