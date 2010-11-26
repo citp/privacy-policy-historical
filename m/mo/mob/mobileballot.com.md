@@ -1,119 +1,113 @@
-> *The following text is extracted and transformed from the mobileballot.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518080848id_/http%3A//www.mobileballot.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileballot.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126033309id_/http%3A//www.mobileballot.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# None
 
-* * *
+Last Updated: March 8th, 2009
 
-##  Mobile Ballot Privacy Policy
+Please review our _Terms of Service_ which also govern your visit to our sites(s) to understand our practices.
 
-Effective February 15, 2010 
+**Mobile Ballot Privacy Policy**
 
-We at Mobile Ballot, Inc.  ("Mobile Ballot") understand that you value your privacy and we strive to respect that privacy when you are using our services.  This Privacy Policy describes what information we gather from you, how we use that information and what we do to protect it.  By using the Mobile Ballot website, you are expressly consenting to the information handling practices described in this policy. 
+Welcome to the MobileBallot.com ("Mobile Ballot") Web site run by Issues Based Media ("Issues Based Media," "we," "us," or "our"). Issues Based Media is committed to respecting the privacy rights and concerns of all users of our MobileBallot.com Web site (the "Site"). As such, we have established and implemented this Privacy Policy to inform visitors to this Site how we use and protect the information we collect at this Site.
 
-##  Information We Collect From You   
+Our business changes constantly and our Privacy Policy and Terms of Service change also. We may e-mail, text or in other ways provide periodic reminders of but you should check our Web site frequently to see recent changes. Your continued use of the Site following any changes to this Privacy Policy will constitute your acceptance of such changes.
 
+If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement. This privacy statement is effective as of 03/08/2010.
 
-When you sign up with Mobile Ballot, you establish a password-protected personal account for ordering premium text alert services including news ("the Services"). During the account creation process and/or to place an order, we may request certain contact and billing information (such as your name, a valid email address and your cell phone number).  We use this information to provide you with our Services and to contact you about the items in which you have expressed interest. 
+**What information does Issues Based Media collect?**
 
-When you create a Mobile Ballot account, we keep track of your interactions with us, including but not limited to your site activity, order history, payment history and correspondence.  We do this to provide you with better service, for billing and administrative functions, to improve your customer experience and for internal research and reporting purposes. 
+We collect certain types of information and ask for personal information in certain circumstances, such as when you participate in a survey, take a poll, sign a petition, set up an account, or it is necessary to participate, for example, in a contest, petition, sweepstakes promotion, survey or other activity. The following sections describe what type of information we collect, when we collect it and how we use it.
 
-##  Online Account Profiles   
+**Information you give us**
 
+We receive and store any information you enter on our Web site or give us in any other way. For example you provide information when you search for a issue, a quiz or a product: place an order through Mobile Ballot or one of our associated sites; purchase an item, participate in a poll, provide information in your online account: communicate with us by phone, e-mail, SMS/MMS or otherwise; complete any questionnaire, survey, petition or entry form; or employ any of our notification services or engage in any of our services.
 
-We may request information from you through optional online account profiles, surveys, quizzes, or petitions.  Participation in these profiles, surveys, quizzes, and petitions is completely voluntary and you have a choice whether or not to disclose this information. Information requested may include contact information (such as your mailing address), and demographic information (such as your zip code or education level).  By submitting this information, you enable us to provide you a more personalized Mobile Ballot experience. 
+In order to use certain functionality of Mobile Ballot, you will have to submit certain personal information. When you register and create an account, we may require you to provide us such personally identifiable information ("Personal Information") as your name, telephone number, mobile telephone number (if you have a mobile phone), e-mail address and home address and/or zip code and voter registration information. When setting up an account, should a program offer a payment method of participation, you may also be asked to submit the type of payment method you would prefer to use if you choose the payment method, including your mobile phone account (if you have one) or your credit card. If you do not provide such information when you set up your account, you will have to provide it at the point of purchase or at other points as prompted by the Mobile Ballot web site. Upon activating an account, you may be required to select a user name and password, or other identifier. Your user name and password (or other identifier) will be used so you can securely access and maintain your account, or at times, if any, securely participate, for example, in a promotion, engage in the Mobile Ballot services or engage in an activity. In addition we may collect information associated with your usage participation and submissions to our Web site and features. We might collect any and all information associated with your practices and actions. We may also collect demographic information that you provide to us, such as your zip code or income level. We use your demographic information to tailor the Site to you and for internal purposes. 
 
-Please note that information you provide in an optional public profile can be viewed by anyone, and can potentially be used to contact you or send you unsolicited messages. In the future, we may allow you to post responses from your mobile phone onto our web site.  If you use such a service , we are not responsible for the personally identifiable information you choose to submit in these forums. 
+**Automatic Information**
 
-We post customer comments on our web site which may contain personally identifiable information such as the customer's name.  We do obtain the customer's consent prior to posting the comment to post their name along with their comment. 
+In the process of operating our Web site(s) and interacting with you we may now or in the future automatically collect and analyze a variety of information. This information may include but is not limited to, the internet protocol (IP) address, login; e-mail address password; computer and connection setting browser plug-in types and versions operating system and platform; purchase and participation history; products you viewed or searched for; and the ways you used to contact us.
 
-##  Emails and SMS Messages   
+We also may use browser data such as cookies or software tools to measure and collect session information. Cookies are small bits of electronic information that a Web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many Web sites use them. Cookies allow Web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you may not have to log in using a user name or password more than once, thereby saving time. We currently save user name and password information in cookies, however, we do not receive or record any personal information in the cookies we use. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access Mobile Ballot but may not be able to participate in activities that require cookies for participation. However, to access your account, you may still have to reenter your user name and password each time you visit the Site.
 
+**Information from Other Sources**
 
-By registering for a Mobile Ballot account, you agree that we may send you the following types of email communications: welcome emails, our weekly newsletter, account status updates and promotional content.  You may opt-out of receiving our email newsletter via the unsubscribe links in each email.  You can also opt-out of specific types of email communications through your Account Settings. 
+We may receive information associated with your account from other sources including 3rd party advertisers, affiliated companies, 3rd party billing providers, and credit card processors. Mobile Ballot may also allow third-party to advertise on or link to our site(s) You can find out more about the information collection and use practices of these other parties by examining their associated policies.   
 
-Our Services feature the distribution of content to your cellular phone, and by registering for a Mobile Ballot account, you agree to receive SMS messages to your phone, including messages regarding Services you request, account status updates, and occasional SMS newsletters.  You will also have the opportunity to opt-in and receive surveys, quizzes, petitions, and promotional content by our affiliates. You may opt out of our SMS newsletter by sending an email to [ unsub@MobileBallot.com](mailto:unsub@MobileBallot.com) or by responding to the SMS newsletter indicating that you would like to unsubscribe. 
 
-##  Technical Information   
+**Gifts and Contests**
 
+We may offer contests gift offers to our account holders from time to time. To enter each particular contest, a user must submit their name, email address, mailing address, relevant phone numbers, and comply with The Terms of Service and the terms and conditions which may apply specifically to the offering. We may aggregate certain information from our users when they participate in contests, games or sweepstakes so we may better understand what types of contests, gifts appeal to our customers. We will use such information in the aggregate and may connect such information to personally identifiable information.
 
-The Mobile Ballot website collects and retain technical information regarding visits to the Mobile Ballot website such as the IP address assigned to the computer visiting the site, the type of browser used by a visitor and the operating system running the user's connections to the service.  This data is not linked to your personal account.  It is used to analyze the ways in which our site is used, and how we can improve the user experience. 
+**Customer Service**
 
-##  How We Use Your Information   
+We provide customer service support through e-mail or telephony. In order to provide customer support, we will ask for your e-mail address and phone number. We only use information received from customer support requests, including e-mail addresses, mobile phone numbers and user names, for customer support services and we do not transfer or share this information with any third parties, except third parties who may help us administer such customer support, if any.
 
+**How do we use the information you provide us?**
 
-Mobile Ballot uses your personal information in the following general ways: To provide you with our Services, to allow for your identification and authentication onto the Mobile Ballot website, for billing and administrative functions, to contact you, and for internal research and reporting purposes.  We also use the information optionally provided by you in surveys, quizzes, and petitions for purposes of monitoring or improving the use and satisfaction of the Mobile Ballot Service.  Third parties who provide website support services, billing, processing, fulfillment, marketing, and other services on our behalf may also access your personal information to provide those services. 
+As stated above, we use your personal information such as your name, address, and mailing address for customer service, to administer contests, gifts and sweepstakes, notify if you've won a prize in a contest or gift offering or sweepstakes, to send you a prize or gift, to provide you with information that pertains to your place of residence or that you may request, send you newsletters and to customize your experience on the Site.
 
-We may send you website and service announcement updates with important information about the service through the email address or cell phone number you provide.  We may also notify you about special Mobile Ballot-specific promotions available through our trusted partners.  You can opt-out of receiving these promotional emails, but not service related messages, at any time either through the unsubscribe link in the email we send you, or by visiting our opt-out page at [ http://www.MobileBallot.com/unsub, aspx](http://www.mobileballot.com/unsub,%20aspx). 
+We may use your credit card number or mobile phone account for billing purposes when we charge you (and you have agreed to be charged) for any purchases you may make, including but not limited to fees for participation in a promotional activity. By entering a contest or gift offering or by making a purchase on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction. We also will use your e-mail address and user name and/or password to send you email updates and messages about contests, gift offerings or sweepstakes in which you have chosen to participate, or about future programs, issues, activities, offers, promotions, surveys, petitions and Site news in which we think you would have an interest, or to contact you when we provide customer support.
 
-We may also share anonymized information -- information that does not identify you \-- with third parties such as advertisers. 
+In addition, we may also use your e-mail address to send you information on updates to the Mobile Ballot features and services which we may make available from time to time. To opt out of receiving these e-mails, please see the section below titled "How do you opt out?" However, you should be aware that if you opt out of receiving a-mails concerning updates and messages about contests, in which you have chosen to participate, you may no longer be able to effectively participate in them. Please note that changes to your preferences may not be effective immediately.
 
-##  Information Relating to Children   
+We may also provide information about our visitors and accountholders to outside parties from time to time. For further details, please see the section below titled, "Does Mobile Ballot disclose the information it collects to outside parties?"
 
+We may use the information we collect to tailor your experience on Mobile Ballot features and services by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us and allowing us to contact you, if necessary, such as, but not limited to, when a new issue, petition, survey or service is available, redeem prizes or gifts from a sweepstakes or contest.
 
-Mobile Ballot Services are intended for users age 13 and up.  By registering for a Mobile Ballot account or providing information on other parts of the Mobile Ballot site, you represent that you are 13 years of age or older.  If you are between 13 and 17, you agree that you received parental permission both to complete the registration process and to download content to your cell phone.  We will not knowingly collect personal information of children under 13 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it. 
+We may use the information we collect to provide current and future customers with new products and services. In efforts to provide better, more tailored and higher valued services, we may market to customers existing, new or upgraded offerings, products and services.
 
-##  Viewing and Updating Your Account Information   
+**How does Mobile Ballot protect customer information?**
 
+We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. Any credit card information you supply us is transmitted and protected via Secure Socket Layer technology ("SSL") and then stored into our databases to be accessed only as stated above.
 
-You can also email our Customer Support at [ support@MobileBallot.com](mailto:support@MobileBallot.com) or contact us by telephone or postal mail at the contact information listed below. 
+**Does Mobile Ballot disclose the information it collects from its visitors to outside parties?**
 
-##  Cookies   
+When you participate on the Mobile Ballot website, participate in petitions, surveys, contests, newsletters, gift offerings or premium offers, the Personal information you disclose for these and similar activities may be shared with third parties, such as those who may administer and fulfill the activity for us and shipping companies who may deliver a gift, prize or premium. Purchases through our Site, if offered, may require disclosure of your Personal information your credit card information and information about the name and address of the person receiving the purchases. The credit card information may be subject to verification by the issuing credit card company or other company. Shipping information will be shared with the shipping company. Sales and shipping records will also be generated and maintained. Unless you give us permission at the time we collect such information, however, this information will not be used for any purpose except the fulfillment, and record keeping of the transaction.
 
+We may share your personal information with 3rd party organizations to independently market and /or communicate with you. In addition, we may temporarily populate a third party advertising offer with your personal information to make any ordering process more seamless and efficient for you..Should you respond to a particular offer from our business partners or advertisers that may be offered on our Site, we may also use your personal information to provide a report to our advertisers or business partners that tells them who responded to a particular offer. Further if you accept an offer contained in, for example, an email, we may provide the advertiser or business partner with the personal information necessary to fulfill that offer to you.
 
-Mobile Ballot uses cookies in order to manage your individual visits to the Mobile Ballot website.  Cookies are also used to determine how you were referred to the Mobile Ballot website, as well as your browsing and buying activities, to assist us with marketing and product development.  You must enable cookies to use the Mobile Ballot Service. 
+Your personal information may be shared with those persons or entities that administer our Web site, with other companies and Web sites we own or operate for our behalf and/or with third parties for their internal purposes. We may share, sell or trade personal information with third parties who may use such information to directly market offers to you. If you are a resident of California, and do not want your personal information shared with these third parties for marketing purposes, please let us know via e-mail at privacy@MobileBallot.com
 
-Mobile Ballot allows other companies that display advertisements on our website to set and access their own cookies on your computer.  Use of cookies by other companies is subject to those companies' own privacy policies, not this policy.. 
+If as a result of a business transition, information will be used for a purpose different from that stated or implied at the time of collection users will be given a choice consistent with our notification of changes section.
 
-##  Disclosure of Personal Information to Third Parties   
+Should you change your mind about the information you've provided to us, should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. For further details please see the section below titled, "How do you change the information we have for you?"
 
+In the event Issues Based Media goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, account holders' information will, in most instances, be part of the assets transferred. Visitors and account holders will be notified via prominent notice on the Site for 30 days prior to a change of ownership or control of information of users held by us. Notwithstanding any other term of this privacy statement, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety. Should you win a gift, prize in a contest or sweepstakes, that information together with the personal information required, will be disclosed as required by law.
 
-We may rent or share your personal information with non-affiliated third parties to provide you with targeted products and services you have requested, when we have permission, or as described in this policy.  We will also may share your information under the following circumstances: 
+**Individuals under 13 years of age**
 
-\- when we believe in good faith that it is necessary to respond to subpoenas, court orders, or other legal process, or to exercise our legal rights or defend against legal claims; 
+This Site is not intended for children under 13 years of age. Therefore, pursuant to the provisions of the 1998 Federal Children's Online Privacy Protection Act ("COPPA"), our policy is to refuse individuals under the age of 13 years of age to submit information to the Site or to install and/or use the Mobile Ballot features we therefore do not knowingly collect personal information from individuals under the age of 13 years of age. If you are under 13 years of age, you are not permitted to use the Mobile Ballot Features or services. If you are over 13 years of age, your obligations, conduct and inclusion in the Mobile Ballot services and offerings is subject to The Terms of Services
 
-\- when we believe in good faith it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms and conditions, or as otherwise required by law. 
+**How do you opt out?**
 
-Finally, we may transfer information, including any personally identifiable information, in the event Mobile Ballot is acquired by or merged with another company. 
+In order to opt out of receiving e-mail notifications and updates, please access the “ “ [need] area of the Site and you may select the "Do not send me e-mail updates and notifications" option.
 
-##  Third Party Sites Appearing on the Mobile Ballot Site   
+**How do you change the information we have for you?**
 
+To update, modify or delete the information that we have on file for your account, simply send an email to [_info@MobileBallot.com_](mailto:info@MobileBallot.com) then submit your modification as necessary or ask to be contacted directly. We will comply with your requests as reasonably as we can. Please note that we require some personal information for billing purposes. If you wish to delete your name, mobile telephone number, e-mail address or mailing address and zip code you will be required to terminate your account.
 
-The Mobile Ballot website contains links to and advertisements for sites operated by third parties whose policies regarding the handling of personal information may differ from ours.  While we endeavor to associate only with reputable websites, Mobile Ballot cannot be responsible for the information handling practices of these other websites.  Any information you provide on those sites is subject to their privacy policies, and not this policy. 
+**Third party links and co-brand relationships**
 
-##  Co-branding   
+In an attempt to provide increased value to our visitors, we may choose various third party Web sites to link to, and/or frame within the Site. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our visitors and account holders. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party Web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such Web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of the Mobile Ballot features and the links placed upon each of them and therefore request any feedback on not only the Mobile Ballot features, but for sites each links to as well (including if a specific link does not work).
 
+Further, any linking with any other Web site is neither an endorsement of that site nor any of the products or services which may be offered on that site.
 
-Mobile Ballot maintains co-branding relationships with various service providers who include our promotional offers either directly on their websites or through inline links on their websites.  When you sign up with Mobile Ballot through one of these websites, you establish a password-protected personal account for ordering Mobile Ballot services.  During the account creation process and/or to place an order, we request, through that partner, the same contact and billing information that we ask of users who sign up directly on our website (such as cell phone number). You must agree to the Mobile Ballot Terms and Conditions posted to these websites in order to register. 
+**Surveys**
 
-##  Protecting your information   
+From time-to-time, we request information from users via surveys. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as your email address), and demographic information (such as interests or age level). Survey information may be used for purposes of monitoring or improving the use and satisfaction of the Mobile Ballotfeatures and services. We may also use information from these surveys to better distribute market and provide products and services to new and existing users.
 
+**California Privacy Rights**
 
-Mobile Ballot takes reasonable measures to safeguard your personal information during transmission and when stored on our network.  However, due to the open communication nature of the Internet, communications between you and the website, and the website and you, may not be secure, depending on the network you are using to communicate with us. 
+California Civil Code Section 1798.83, permits our Web site users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, should you be a California resident and would like to make such a request, please submit your request in writing to: Issues Based Media at Issue Based Media Inc., 1221 Brickell Avenue, No. 900, Miami, Florida 33131.
 
-If Mobile Ballot learns of a security breach through which sensitive personal information may have been compromised, we may notify you electronically so that you can take appropriate protective steps.  By using this web site, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. 
+**Notification of changes**
 
-If you have any questions about security on our web site, you can contact us at [support@MobileBallot.com](mailto:support@MobileBallot.com). 
+By visiting the Site or using the Services, you consent to the collection and use of information by us as set forth in this privacy statement. If we decide to change our privacy statement, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-##  International Visitors   
+**Questions?**
 
+Contact us if you have any questions about our privacy practices or your dealings with the MOBILE BALLOT Features, please do not hesitate to contact _[info@MobileBallot.com](mailto:info@MobileBallot.com)_
 
-Mobile Ballot is hosted in the United States and complies with United States laws, including privacy and data protection laws.  At this time, Mobile Ballot's services are not available to visitors from outside the United States. 
-
-##  Changes to this Privacy Policy   
-
-
-As we update and expand our Services, we reserve the right to modify this privacy policy at any time.  Any changes to the policy will be posted at [ http://www.MobileBallot.com/privacy.aspx](http://www.mobileballot.com/privacy.aspx).  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  By continuing to use the site after changes to this policy, you agree to those changes. 
-
-##  TRUSTe Privacy Program   
-
-
-Mobile Ballot, Inc.  is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the [website](http://www.mobileballot.com/).  Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-The Watchdog Dispute Resolution link required in the privacy statement is <http://www.truste.org/consumers/watchdog_complaint.php>
-
-The following websites are covered under this policy: [http://www.MobileBallot.com](http://www.mobileballot.com/) and all sub-domains thereof. 
-
-##  Contact Information   
-
-
-If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at [support@MobileBallot.com](mailto:support@MobileBallot.com), by phone by calling 888 387 9993 or by postal mail at the following address: Mobile Ballot, Inc., 10-Ten Post Office Square, 8th Floor, Boston, MA 01209. 
+[**_Terms of Service_**](http://www.ringtonechannel.com/Content/Terms.aspx)   
+Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site, the Services and other Mobile Ballot services and applications.
