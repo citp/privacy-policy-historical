@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527235829id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm%3FEdNo%3D001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126132144id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm%3FEdNo%3D001) for the most accurate reproduction.*
 
 # Privacy Policy for FreedomsPhoenix.com
 
@@ -11,7 +11,7 @@ These third-party advertising companies may use information about your visits (N
 
 If you wish to have **Freedom's Phoenix** not send you any promotional emails, or you want to have your name removed from our email list entirely, go to:
 
-**[ https://www.FreedomsPhoenix.com/Secure/Update.htm](https://www.freedomsphoenix.com/Secure/Update.htm?EdNo=001)**
+**[ http://www.FreedomsPhoenix.com/Secure/Update.htm](http://www.freedomsphoenix.com/Secure/Update.htm?EdNo=001)**
 
 You may also contact us at:
 
