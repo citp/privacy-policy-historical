@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnpeoplestring.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607113651id_/http%3A//learnpeoplestring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnpeoplestring.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126052726id_/http%3A//learnpeoplestring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn PeopleString
 
@@ -31,6 +31,10 @@ Secret Forutne Society may disclose your personal data acting in good faith if i
 At any point you may unsubscribe from our email list by clicking on the unsubscribe links provided at the bottom of every email.
 
 Blocking cookies may or may not affect the functioning of the site. Doing so is entirely up to you.
+
+ **Copyright**
+
+Copyright © 2009 Vince Reed & Secret Fortune Socitey. All Rights Reserved.  Any and all content written  remain the exclusive rights of Vince Reed & Secret Fortune Society.  Any outside commercial use of any written content or materials listed on this website may result in legal action against the offender.
 
  **Cookies**
 
