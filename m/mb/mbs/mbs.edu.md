@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622073114id_/http%3A//www.mbs.edu/go/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126081215id_/http%3A//www.mbs.edu/go/footer/privacy) for the most accurate reproduction.*
 
 # MBS: Privacy
 
@@ -63,6 +63,8 @@ For example, MBS's Career Centre division collects personal information, such as
 The School typically collects all personal information directly from the individuals with whom it interacts, via hard copy documents such as application forms, and various electronic forms.
 
 The kind of personal information collected varies according to the functions and activities of the department and the academic discipline of the research centre collecting and using the information. This could include one or more of the following: name, postal address, email address, telephone number, date-of-birth, credit card number for payment of services, vocational and employment details and history, and academic or educational history. Additionally, it could include sensitive information such as membership of professional bodies, academic results, Graduate Management Admissions Test results, remuneration, thesis examiner reports, personal references, extra curricular activities, nationality, country of birth, country of permanent residence/citizenship, and languages spoken; or, research specific sensitive and non sensitive personal information from or about human subjects, obtained via interviews, surveys, observations of behaviour, questionnaires, audio/video taping, administering tests or by using archival data in which individuals are identifiable.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to better understand people's usage of our site and to continually improve their experience of our websites. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
 ## Personal information is stored securely
 
