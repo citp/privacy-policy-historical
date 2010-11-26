@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222317id_/http%3A//www.infolinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126023345id_/http%3A//www.infolinks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Infolinks is a Publisher-side Technology Company. Publisher-side means that all 
 
 
 
-Infolinks, Inc. ("Infolinks") respects the privacy concerns of the users of its Website, [www.infolinks.com](https://web.archive.org/) (the "Website"). Infolinks thus provides this privacy policy to explain what information is gathered during a visit to the Website and how such information may be used.
+Infolinks, Inc. ("Infolinks") respects the privacy concerns of the users of its Website, [www.infolinks.com](http://www.infolinks.com/) (the "Website"). Infolinks thus provides this privacy policy to explain what information is gathered during a visit to the Website and how such information may be used.
 
 ### Use of Information:
 
