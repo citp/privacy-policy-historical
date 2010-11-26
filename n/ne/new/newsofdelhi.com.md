@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsofdelhi.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309123537id_/http%3A//newsofdelhi.com/%3Fq%3Dcontent/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsofdelhi.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126120955id_/http%3A//newsofdelhi.com/%3Fq%3Dcontent/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy and Disclaimer | News of Delhi
+# Privacy Policy and Disclaimer
 
 ## Privacy Policy 
 
