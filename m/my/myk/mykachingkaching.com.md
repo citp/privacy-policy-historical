@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykachingkaching.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607222600id_/http%3A//www.mykachingkaching.com/PP.aspx%3FID%3Dwww) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykachingkaching.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126032058id_/http%3A//mykachingkaching.com/PP.aspx%3FID%3Dwww) for the most accurate reproduction.*
 
 # KaChing KaChing
 
