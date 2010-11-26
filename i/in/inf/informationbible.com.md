@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationbible.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525204237id_/http%3A//www.informationbible.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationbible.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126063834id_/http%3A//www.informationbible.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InformationBible.com
 
