@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextscholarships.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327052641id_/http%3A//nextscholarships.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextscholarships.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126220300id_/http%3A//nextscholarships.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scholarships and Beasiswa 2010 2011
+# Privacy Policy | College Scholarships for International Students 2011 2012
 
 ## Privacy Policy
 
