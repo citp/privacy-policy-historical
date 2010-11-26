@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102191604id_/http%3A//proactiveinvestors.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126152205id_/http%3A//proactiveinvestors.com/pages/privacy) for the most accurate reproduction.*
 
-# Proactive Investors North America - Run by Investors, for Investors Providing a Leading Source of Financial News - Privacy
+# Proactive Investors North America, Breaking Financial News on Mining, Commodities, Stocks, Shares and Stock Markets - Privacy
 
 ## Proactiveinvestors.com
 
