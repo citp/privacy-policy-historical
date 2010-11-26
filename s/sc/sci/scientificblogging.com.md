@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the scientificblogging.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617005427id_/http%3A//www.scientificblogging.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificblogging.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126031630id_/http%3A//www.scientificblogging.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-## Scientific Blogging - Privacy Policy
+## Science 2.0 - Privacy Policy
 
 #### (Last Updated: November December 24, 2006)
 
-At ION Publications LLC ("Scientific Blogging", "ScientificBlogging.com", "we," or "us"), we are committed to ensuring the privacy of our users. This Privacy Policy ("Policy") describes how personal information is collected from users of the ScientificBlogging.com Web site located at www.ScientificBlogging.com ("Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy. 
+At ION Publications LLC ("Science 2.0","Scientific Blogging", "Science20.com", "we," or "us"), we are committed to ensuring the privacy of our users. This Privacy Policy ("Policy") describes how personal information is collected from users of the Science 2.0 Web site located at www.Science20.com ("Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
 #### What is Personal Information?
 
@@ -67,7 +69,7 @@ Our Site contains links to other Web sites. Links from our Site to other sites o
 To opt-out of receiving communications from us, or to request access to or that we correct or delete your personal information, we provide you with the following options: 
 
   1. Follow the "Unsubscribe" instructions contained in the communication from us;
-  2. Email us at [Privacy at Scientific Blogging](mailto:privacy@ScientificBlogging.com)
+  2. Email us at [Privacy at Science 2.0](mailto:admin@Science20.com)
   3. Or write to us at the following address with your request:
 
 
@@ -96,7 +98,7 @@ We will modify this Policy if our privacy practices materially change in the fut
 
 ####  Questions / Additional Information
 
-If you have any questions about this Policy, or the practices of or your dealings with the Site, please contact us at the following address or email us at [Privacy at Scientific Blogging](mailto:privacy@ScientificBlogging.com): 
+If you have any questions about this Policy, or the practices of or your dealings with the Site, please contact us at the following address or email us at [Privacy at Science 2.0](mailto:privacy@Science20.com): 
 
 ION Publications LLC   
 705-2 East Bidwell Street #170   
