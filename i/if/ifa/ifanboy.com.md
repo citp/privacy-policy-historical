@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617123636id_/http%3A//ifanboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126075230id_/http%3A//www.ifanboy.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
