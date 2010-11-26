@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019164326id_/http%3A//www.informatica.com/company/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126040440id_/http%3A//www.informatica.com/company/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Informatica provides data integration software and services that empower your organization to access, integrate, and trust all its information assets, giving your organization a competitive advantage in today’s global information economy.
+Informatica provides data integration software and services that enable your organizations to gain a competitive advantage in today’s global information economy by empowering you with timely, relevant and trustworthy data for their top business imperatives.
 
 Informatica Corporation is committed to respecting your privacy. This statement applies with respect to information we collect from [http://www.informatica.com/](https://web.archive.org/) and any other sites on the World Wide Web owned and/or operated by Informatica Corporation. This statement is part of our Terms of Use and is subject to all of its terms. Below is information regarding the commitment of Informatica to protect the personal data of its website visitors.
 
