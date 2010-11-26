@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528180445id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126133646id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -68,7 +68,6 @@ Close Invoice Finance;
 Factoring UK;  
 GE Capital Finance;  
 GMAC;  
-Hilton Baird Financial Services;  
 Landsbanki Commercial Finance;  
 Bank Leumi;  
 London Scottish Invoice Finance;  
