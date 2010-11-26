@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527222317id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - On Demand Recruiting & Staffing Software - Bullhorn
 
@@ -19,7 +19,7 @@ Staffing and Recruiting Industry?
   
   
 Join the Bullhorn Community and gain access to trends research reports, compensation studies, and learn what other staffing and recruiting firms are doing to grow their business.  
-  |  | [home](https://web.archive.org/web/20100527222317id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20100527222317id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
+  |  | [home](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
 ---|---  
   
 ### Bullhorn Privacy Statement 
@@ -30,9 +30,9 @@ Because customers entrust Bullhorn with important information/data, we have esta
 ---  
 **Robin Mee**  
 President,  
-[Mee Derby](https://web.archive.org/web/20100527222317id_/http%3A//www.bullhorn.com/client_meederby.php)
+[Mee Derby](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/client_meederby.php)
 
-[View Testimonials](https://web.archive.org/web/20100527222317id_/http%3A//www.bullhorn.com/testimonials.php)  
+[View Testimonials](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/testimonials.php)  
   
 ##### **Collected Information**
 
@@ -56,7 +56,7 @@ Bullhorn contains links to other web sites. Bullhorn is not responsible for the 
 
 ##### Security
 
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Microsoft Internet Explorer versions 5.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Bullhorn also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Bullhorn provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Microsoft Internet Explorer versions 6.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Bullhorn also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Bullhorn provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
 
   | 
 
@@ -64,7 +64,7 @@ Our Site has security measures in place to help protect against the loss, misuse
 ---|---|---  
   | 
 
-By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20100527222317id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
+By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
 
 |    
  
