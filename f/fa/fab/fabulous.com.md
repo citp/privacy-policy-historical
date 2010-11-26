@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218000712id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126010036id_/http%3A//fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
 
 # Fabulous - Information Center
 
 ### Dark Blue Sea - Privacy Policy
 
-The Dark Blue Sea group of companies offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale and search engine services.
+The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale and search engine services.
 
 The Dark Blue Sea group comprises a number of companies that includes:
 
-• Dark Blue Sea Limited ABN 47 091 509 796  
+• Dark Blue Sea Pty Ltd ABN 47 091 509 796  
 • Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)  
 • Fabulous Parking Pty Ltd ABN 16 094 225 091  
+• Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)  
 • Roar.com Pty Ltd ABN 99 094 225 064  
 • Pageseeker.com Pty Ltd ABN 45 090 513 849  
-• Darkblue.com Pty Ltd ABN 14 094 225 082
+• Darkblue.com Pty Ltd ABN 14 094 225 082  
+• Yexa.com Pty Ltd ABN 12 094 225 073
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information. 
+This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
 
 #### ABOUT THIS PRIVACY POLICY
 
@@ -43,33 +45,36 @@ Personal information may be used to enable us to send you online promotional mat
 
 **Personal Information provided to us**
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary). 
+We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you. 
+We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
 
 **Website activity**
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance. 
+We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.
 
-**Cookies**
+**Cookies and iframes**
 
-We make use of cookies on our websites. Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators. 
+We make use of cookies and iframes on our websites.  
+Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators. 
 
-By keeping a record of how and when visitors view our websites, cookies help us determine which web pages are popular and which are not. Many improvements and updates to our websites are based on such data as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide products and services that are better tailored to our customers’ and visitors’ needs. 
+By keeping a record of how and when visitors view our websites, cookies help us determine which web pages are popular and which are not. Many improvements and updates to our websites are based on such data as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide products and services that are better tailored to our customers’ and visitors’ needs.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your internet browser. 
+Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your internet browser.
+
+We also have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
 
 **IP Addresses**
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address. 
+When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address. 
+We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remains anonymous. 
+We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers. 
+We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information. 
+Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
 
 #### WHEN WE DISCLOSE PERSONAL INFORMATION
 
@@ -81,11 +86,15 @@ Personal information that you provide to us may be shared among our related comp
 
 In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS database as well as to a third party providing technology escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers (“ICANN”)). Personal information collected for this purpose will become publicly available via the Internet. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing technology escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers (“ICANN”)). The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA’s WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA’s guidelines on the collection, disclosure and use of WHOIS data. We are unable to provide our domain registration services to you without providing your personal information to these parties. 
 
 #### TRANSBORDER FLOW OF PERSONAL INFORMATION
 
 We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you. 
+
+#### EPP SHARING ARRANGEMENTS
+
+Fabulous.com.au Pty Ltd, as part of its drop.com.au business, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator (“auDA”), entered into EPP sharing arrangements with third party auDA accredited domain name registrars (Currently those registrars are: Domain8 Pty Ltd ACN 135 424 878, Domain Candy Pty Ltd ACN 137 606 172 and Netstart Pty Ltd ACN 111 018 154). “EPP” means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for the registrars involved in the EPP sharing arrangement to have access to the registrant information of domain names managed by other participating registrars. For this reason, agreements have been signed by the relevant parties to protect registrant privacy and whois integrity. 
 
 #### PROTECTING KIDS PRIVACY
 
@@ -144,8 +153,8 @@ If you believe that we have not protected your personal information in accordanc
 • Faxing 61 7 3007 0001  
 • Writing to us at:
 
-GPO Box 278  
-Brisbane QLD 4001
+PO Box 757  
+Fortitude Valley QLD 4006
 
 If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
 
