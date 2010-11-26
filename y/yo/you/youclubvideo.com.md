@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115041219id_/http%3A//www.youclubvideo.com/static_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126150525id_/http%3A//www.youclubvideo.com/static_privacy.php) for the most accurate reproduction.*
 
-# Community, Music fans - YouClubVideo
+# Privacy - YouClubVideo
 
 Privacy Statement for www.youclubvideo.com incl. Sub-pages
 
