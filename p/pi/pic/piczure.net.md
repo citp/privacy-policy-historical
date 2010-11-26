@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piczure.net privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509163340id_/http%3A//piczure.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piczure.net privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126184853id_/http%3A//piczure.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Piczure » More Information » Privacy Policy
 
