@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165756id_/http%3A//www.janes.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126120029id_/http%3A//www.janes.com/about/privacy.html) for the most accurate reproduction.*
 
 # IHS Jane's Privacy Policy
 
@@ -36,6 +36,8 @@ IHS Jane's uses information in aggregate form in the following ways:
 · To aid future strategic development   
 · To plan for the maintenance and development of system software, hardware and communications technology.  
 · To provide advertisers with data on the number of users and usage patterns
+
+[Click here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web Site.
 
 **Cookies**
 
