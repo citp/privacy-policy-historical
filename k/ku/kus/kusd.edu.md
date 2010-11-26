@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kusd.edu privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621073912id_/http%3A//www.kusd.edu/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kusd.edu privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126022442id_/http%3A//kusd.edu/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy On the Web Site - Kenosha Unified School District No. 1 - Kenosha, Wisconsin
 
