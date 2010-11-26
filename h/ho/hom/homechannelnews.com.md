@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525043507id_/http%3A//www.homechannelnews.com/privacy_policy.aspx%3Fmenuid%3D255) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126173908id_/http%3A//www.homechannelnews.com/privacy_policy.aspx%3Fmenuid%3D255) for the most accurate reproduction.*
 
 # Home Channel News - News and Analysis for the Home Improvement Retail Industry
 
