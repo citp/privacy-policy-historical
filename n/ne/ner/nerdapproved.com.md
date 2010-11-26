@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519031744id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126080545id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,6 +41,10 @@ Like all websites, we utilize log files and third-party providers like [Google A
 **Comments:**
 
 Nerd Approved contains comments sections where readers can engage in a dialogue about our content. As mentioned above, a name and email address is required to combat spam on our pages. Again, this information is not shared with a third party. We try and actively monitor comments as much as possible, but this is no easy task and objectionable content might pop up from time to time. If alerted to a particular situation we will assess it and delete the offending comment if it is warranted.
+
+**Contests**
+
+From time to time, Nerd Approved might request personal information from readers to fulfill requirements for contests. This may include shipping information, email and phone numbers. This information is not shared with anyone except the company sponsoring the contest for the purposes of shipping (please refer to the sponsor’s privacy policy for information on how they handle this information).
 
 **Links to Other Websites:**
 
