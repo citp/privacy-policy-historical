@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timecamp.com privacy policy that was archived on 2010-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100523122411id_/http%3A//www.timecamp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timecamp.com privacy policy that was archived on 2010-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126025610id_/http%3A//www.timecamp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="http://www.timecamp.com/res/css/v2.css">
   
   <title>Privacy - TimeCamp</title> 
-  <meta name="Description" content="Automatic time-tracking software, that tracks projects, websites and applications usage, users' productivity and helps understand how the time is spend.">
+  <meta name="Description" content="Proven approach to control computer time for employees and managers.">
   <meta name="robots" content="index,follow">   
   <meta http-equiv="content-language" content="en"> 
   <link rel="alternate" type="application/rss+xml" title="TimeCamp RSS Feed" href="http://feeds.feedburner.com/Timecamp">
@@ -52,6 +52,29 @@
          $('.fadeto1').fadeTo("slow", 0.82);
         });
         $('.fadeto1').fadeTo("0", 0.82);
+
+        function CurrencyFormatted(num)
+        {
+            num = num.toString().replace(/\$|\,/g,'');
+            if(isNaN(num))
+            num = "0";
+            sign = (num == (num = Math.abs(num)));
+            num = Math.floor(num*100+0.50000000001);
+            cents = num%100;
+            num = Math.floor(num/100).toString();
+            if(cents<10)
+            cents = "0" + cents;
+            for (var i = 0; i < Math.floor((num.length-(1+i))/3); i++)
+            num = num.substring(0,num.length-(4*i+3))+','+
+            num.substring(num.length-(4*i+3));
+            return (((sign)?'':'-') + num + '.' + cents);
+        }
+        $('#calcCalculate').click(function(){
+            //alert($('#calcMin').val());
+            var result = ($('#calcMin').val() / 60) * 230 * $('#calcStuff').val() * $('#calcRate').val();
+
+            $('#calcPrice').text(CurrencyFormatted(result));
+        });
         
             });
     
@@ -90,57 +113,11 @@
 
 <div class="container">
 
-    <div id="header" style="">
+    <div id="header" style="height: 100px;">
         <a style="position: absolute; left: 0px; top: 8px;" href="http://www.timecamp.com/" title="TimeCamp - time tracking software"><img alt="TimeCamp main page" src="http://www.timecamp.com/res/css/images/v3/logo.png"></a>
- 
-        
-        <span style="z-index: 100; margin: 0px 5px 0 0px; position: absolute; right: 180px; top: 22px;">
-            <!-- BEGIN LIVECHAT button tag. See also www.livechatinc.com -->
-<div style="text-align:center"><a id="LivechatButton" href="http://chat.livechatinc.net/licence/1019454/open_chat.cgi?groups=2&amp;lang=en" target="chat_1019454" onclick="window.open('http://chat.livechatinc.net/licence/1019454/open_chat.cgi?groups=2'+'&amp;lang=en&amp;dc='+escape(document.cookie+';l='+document.location+';r='+document.referer+';s='+typeof lc_session),'Czat_1019454','width=529,height=520,resizable=yes,scrollbars=no,status=1');return false;"><img src="https://chat.livechatinc.net/licence/1019454/button.cgi?lang=en&amp;groups=2&amp;d=1580461304683" style="border: 0px;"></a><script type="text/javascript">var img=new Image();img.style.border='0';img.src=(("https:" == document.location.protocol) ? "https://" : "http://")+'chat.livechatinc.net/licence/1019454/button.cgi?lang=en&groups=2'+'&d='+((new Date()).getTime());var _livechat_button=document.getElementById('LivechatButton');if(_livechat_button!=null){_livechat_button.appendChild(img);}</script></div>
-<!-- END LIVECHAT button tag. See also www.livechatinc.com -->
-
-             
-        </span>
-        
-  
             
                     <a class="signin2" style="position: absolute; right: 0px; top: 27px;" href="http://www.timecamp.com/auth/login">Sign-in</a>
                 
-         
-        <div id="top_menu2">
-        
-            <ul id="jsddm">
-            
-                <li><span><a href="http://www.timecamp.com/" title="Home">Home</a></span></li>   
-                <li><span><a href="http://www.timecamp.com/product" title="Features">Product</a>                    <ul>
-                        <li><a href="http://www.timecamp.com/product">What is TimeCamp</a></li>
-                        <li><a href="http://www.timecamp.com/product/benefits">Benefits</a></li>
-                        <li><a href="http://www.timecamp.com/product/features">Features</a></li> 
-                        <li><a href="http://www.timecamp.com/product/pricing">Pricing</a></li>
-                        <li><a href="http://www.timecamp.com/product/enterprise">Enterprise</a></li> 
-                    </ul> 
-                </span></li>                               
-                
-                <li><span><a href="http://www.timecamp.com/clients" title="Clients">Clients</a>                </span></li>
-                
-                <li><span><a href="http://www.timecamp.com/company" title="About Us">About Us</a>                   <ul>
-                        <li><a href="http://www.timecamp.com/company">About Us</a></li>
-                        <li><a href="http://www.timecamp.com/company/buzz">They write about us</a></li>
-                        <li><a href="http://www.timecamp.com/contact">Contact</a></li>
-                        <li><a href="http://www.timecamp.com/blog">Blog</a></li> 
-                        <li><a href="http://www.timecamp.com/company/careers">Careers</a></li>
-                    </ul>
-                </span></li>
-
-                <li><span><a href="http://www.timecamp.com/contact" title="contact">Contact</a>                </span></li>
-                
-                <li><span><a href="http://www.timecamp.com/page/faq" title="Frequently Asked Questions">FAQ</a>                </span></li>
-                
-                <li><span><a href="http://www.timecamp.com/auth/signup" title="Try TimeCamp free for 14 days">Sign Up</a>                </span></li>
-            </ul>
-        
-        </div> 
-         
     </div>
     
     
@@ -181,44 +158,27 @@ This is the Timecamp privacy statement. In this statement we explain our policy 
         <div class="container" style="text-align: center;">
             <br>
 
-			<div style="margin-top: 0px;">
-<a href="http://www.timecamp.com/employee-monitoring-software">Start</a> <span class="divider">|</span>
+            <div style="padding-bottom: 6px; margin-top: 5px;">
+                <a href="http://www.timecamp.com/product">What is TimeCamp</a> <span class="divider">|</span>
+                <a href="http://www.timecamp.com/product/enterprise">Enterprise</a> <span class="divider">|</span>
+                <a href="http://www.timecamp.com/company/buzz">They write about us</a> <span class="divider">|</span>
+            
 
-				            		<a href="http://www.timecamp.com/blog">Blog</a>  <span class="divider">|</span>
-	                 
-                
                 <a href="http://www.timecamp.com/contact" title="Contact Us">Contact Us</a> <span class="divider">|</span>
-        
-				<a target="_blank" onclick="pageTracker._trackEvent('Link', 'Click', 'Twitter');" href="http://twitter.com/timecamp" title="Follow us">Twitter</a><span class="divider">|</span>
-                <a target="_blank" onclick="pageTracker._trackEvent('Link', 'Click', 'YouTube');" href="http://www.youtube.com/timecamp" title="Watch us">YouTube</a> <span class="divider">|</span>
+                <a target="_blank" onclick="pageTracker._trackEvent('Link', 'Click', 'Twitter');" href="http://twitter.com/timecamp" title="Follow us">Twitter</a><span class="divider">|</span>
                 <a target="_blank" onclick="pageTracker._trackEvent('Link', 'Click', 'Facebook');" href="http://www.timecamp.com/facebook" title="Become a fan">Facebook</a>
-                
-                
-			</div>
-
-			<div style="padding-bottom: 5px; margin-top: 5px; font-size:11px">
-				© 2008-2010 TimeCamp. All rights reserved. <span class="divider">|</span>
-                
-                
+            </div>
+            <div style="padding-bottom: 5px; margin-top: 5px; font-size:11px">
+		© 2008-2010 TIME SOLUTIONS. All rights reserved. <span class="divider">|</span>
                 <a href="http://www.timecamp.com/page/terms" style="font-size:11px;">Terms of Use</a> <span class="divider">|</span>
-            <a href="http://www.timecamp.com/privacy" style="font-size:11px;">Privacy Policy</a>
-            
-            <br><br>
-            
-			</div>
+                <a href="http://www.timecamp.com/privacy" style="font-size:11px;">Privacy Policy</a>
+                <br><br>
+            </div>
 			
         </div>
 </div>
 
-    <!-- BEGIN LIVECHAT track tag. See also www.livechatinc.com -->
-    <script type="text/javascript">
-    var livechat_params = '';
-    var livechat_host = (("https:" == document.location.protocol) ? "https://" : "http://");
-    livechat_params = ((livechat_params == '') ? '' : '&amp;params='+encodeURIComponent(livechat_params));
-    document.write(unescape("%3Cscript src='") + livechat_host + "chat.livechatinc.net/licence/1019454/script.cgi?lang=en&amp;groups=2" + livechat_params + unescape("' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://chat.livechatinc.net/licence/1019454/script.cgi?lang=en&amp;groups=2" type="text/javascript"></script>
-    <!-- END LIVECHAT track tag. See also www.livechatinc.com -->
- 
+
 
 
 <script type="text/javascript">
