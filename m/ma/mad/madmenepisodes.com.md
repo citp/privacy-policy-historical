@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmenepisodes.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528171948id_/http%3A//www.madmenepisodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmenepisodes.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126165000id_/http%3A//www.madmenepisodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Mad Men Episodes Online for Free
 
