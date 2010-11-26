@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the anyclip.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127054539id_/http%3A//anyclip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyclip.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126143311id_/http%3A//anyclip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AnyClip
 
-At AnyClip, we take you privacy seriously. Here is an outline of how we treat your personal information and how your personal information interacts with our service. 
+At AnyClip, we take your privacy seriously. Here is an outline of how we treat your personal information and how your personal information interacts with our service. 
 
   1. ## Personal Information
 
     * **Browsing AnyClip** In the future, you will be able to watch videos on AnyClip without having an AnyClip Account. For now, you need an AnyClip account to view videos on AnyClip. 
     * **Your AnyClip Account.** For many activities on AnyClip, like posting comments, flagging videos, or watching restricted videos, you need an AnyClip account. We ask for some personal information when you create an account, including your email address and a password, which is used to protect your account from unauthorized access. In the future, you will also be able create an account via your Facebook or Twitter accounts. In those cases, we may not collect email address or password information, but we do store basic user information so we identify you when you return to AnyClip. 
-    * **Usage Information.** When you use AnyClip, we may record information about your usage of the site, such as the movies, actors and directors you favorite, the frequency of your visit, and information you display about yourself as well as information you click on in AnyClip (including UI elements, settings). When you are logged in, we may associate that information with your AnyClip Account. 
+    * **Usage Information.** When you use AnyClip, we may record information about your usage of the site, such as the movies, actors and directors you favorite, the frequency of your visit, and information you display about yourself as well as information you click on in AnyClip (including user interface elements, settings). When you are logged in, we may associate that information with your AnyClip Account. 
   2. ## Uses
 
     * If you submit personal information to AnyClip, we may use that information to operate, maintain, and improve the features and functionality of AnyClip, and to process any flagging activity or other communication you send to us. 
@@ -29,17 +29,15 @@ At AnyClip, we take you privacy seriously. Here is an outline of how we treat yo
     * When third-party ad serving companies display ads on AnyClip, we do not provide any personal information to them without your consent. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. AnyClip's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with AnyClip is maintained and dealt with by AnyClip in accordance with this privacy policy. 
   6. ## More Information
 
-AnyClip adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.export.gov/safeharbor/). 
-
-For questions concerning the product or your account, please check out the[AnyClip community forum](http://getsatisfaction.com/anyclip) on GetSatisfaction. 
-
-For more information about our privacy practices, you may write to us at: 
+    * AnyClip adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.export.gov/safeharbor/). 
+    * For questions concerning the product or your account, please check out the [AnyClip community forum](http://getsatisfaction.com/anyclip) on GetSatisfaction. 
+    * For more information about our privacy practices, you may write to us at: 
 
 AnyClip Privacy
 
-245 W 17th Street, 11th Floor
+230 W 41st Street, 20th Floor
 
-New York NY 10011
+New York NY 10036
 
 USA
 
