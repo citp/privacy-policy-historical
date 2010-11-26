@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techfocus.co.uk privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608212343id_/http%3A//www.techfocus.co.uk/cm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfocus.co.uk privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126072249id_/http%3A//www.techfocus.co.uk/cm/privacy.htm) for the most accurate reproduction.*
 
-# Creative Zen Accessories, iPod Accessories, iTrip MP3 FM Transmitters, TomTom Chargers UK - Techfocus
+# Nintendo Wii Fit, Nintendo DS, Wii Fit Accessories In Stock Now!
 
 **KINCH ELECTRONICS LIMITED trading as 'techfocus.co.uk'** is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
