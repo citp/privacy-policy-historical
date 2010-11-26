@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the motinetwork.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628201123id_/http%3A//www.motinetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motinetwork.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126055958id_/http%3A//motinetwork.com/privacy.php) for the most accurate reproduction.*
 
-# Moti Network - Online Solution Partner - Business & Corporate (Windows-Linux-Managed Dedicated Server) Web Hosting, Web Designing
+# Moti Network - Domain, Web Hosting, Online Advertising, Classifieds - Pakistan
 
-**Privacy Policy**
+**PRIVACY POLICY**
 
 **Moti Network** is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers. 
 
@@ -25,7 +25,6 @@ We may from time to time disclose to third parties aggregate information on our 
 
 Note that our site provides links to products and services offered by other companies; the company's web site that you link to will be able to determine that you linked from our web site. 
 
-  
 **Moti Network Customers  
 What information do we collect?**
 
@@ -41,7 +40,8 @@ Moti Network may share customer information with selected partners/third parties
 
 We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Moti Network, our customers, or others, or where Moti Network has a good faith belief that the law requires such disclosure.
 
-Moti Network also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Moti Network stores or transmits for its customers. The circumstances under which Moti Network will disclose such electronic customer communications are when:   
+Moti Network also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Moti Network stores or transmits for its customers. The circumstances under which Moti Network will disclose such electronic customer communications are when:
+
 It is necessary in order to provide service to the customer;   
 It is necessary to protect the legitimate interests of Moti Network and its customers;   
 It is required to cooperate with interception orders, warrants, or other legal process that Moti Network determines in its sole discretion to be valid and enforceable; and   
