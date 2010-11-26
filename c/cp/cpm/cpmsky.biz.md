@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpmsky.biz privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928070146id_/http%3A//www.cpmsky.biz/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmsky.biz privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126010632id_/http%3A//www.cpmsky.biz/policy.html) for the most accurate reproduction.*
 
 # CPMSKY.BIZ -> YOUR GATEWAY TO REVENUE!
 
