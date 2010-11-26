@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the managementconsulted.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608214810id_/http%3A//managementconsulted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementconsulted.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126120807id_/http%3A//managementconsulted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-This website (”Management Consulted”) recognizes that you care about how your personal information is used and shared, and takes your privacy seriously. Management Consulted provides this Privacy Policy to help you make an informed decision about whether to use or continue using http://www.managementconsulted.com and any of its services.
+This website (“Management Consulted”) recognizes that you care about how your personal information is used and shared, and takes your privacy seriously. Management Consulted provides this Privacy Policy to help you make an informed decision about whether to use or continue using http://www.managementconsulted.com and any of its services.
 
 **What This Policy Covers**
 
