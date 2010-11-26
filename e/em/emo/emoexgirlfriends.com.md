@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the emoexgirlfriends.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610150447id_/http%3A//triple10vault.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emoexgirlfriends.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127001445id_/http%3A//triple10vault.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-###### Obsigno Limited
+###### Privacy Policy Statement
 
-Privacy Policy Statement
-
-Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to Obsigno Limited (the "Company") family of websites (the "Sites"). These include sexylette.com; fuckovermyex.com; cumshotspov.com; shemalekinky.com; asianskank.com; hjflicks.com; truthorsex.com; and triple10network.com  and all other sites at which this Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.  
+Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to Triple 10 Vault BV, Obsigno Limited, and 3XEG Limited (the Company) family of websites (the "Sites"). These include sexylette.com; fuckovermyex.com; cumshotspov.com; shemalekinky.com; asianskank.com; hjflicks.com; truthorsex.com; and triple10network.com  and all other sites at which this Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.  
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
 
 This site does not knowingly seek or collect any personal information or data from persons under the age of 18.
@@ -27,7 +25,7 @@ If a subscriber sends any personal communication or correspondence, by any means
 
 The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
 
-**No personal information will be shared with any third parties without the customerâ€™s permission.**
+**No personal information will be shared with any third parties without the customer's permission.**
 
 Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
 
@@ -46,7 +44,7 @@ There may be occasions when a subscriber will be presented with special offers e
 "OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may "OPT-IN" the member to that offer.
 
 **Advertisements**.   
-We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or â€œaction tagsâ€ to measure advertising effectiveness on an â€œanonymous basisâ€. Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiserâ€™s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisersâ€™ websites. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisersâ€™ website(s).
+We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers' websites. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s).
 
 **Emails From Us and use of Your Email Address.**  
 Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us. If you no longer wish to receive emails from us please unsubscribe by contacting [support@triple10vault.com](mailto:support@triple10vault.com). 
