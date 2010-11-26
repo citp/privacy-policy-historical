@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205313id_/http%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126033523id_/http%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Panlasang Pinoy
 
