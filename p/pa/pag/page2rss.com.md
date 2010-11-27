@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the page2rss.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209051617id_/http%3A//page2rss.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page2rss.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127224302id_/http%3A//page2rss.com/privacy.html) for the most accurate reproduction.*
 
 # Page2RSS Privacy Policy
 
