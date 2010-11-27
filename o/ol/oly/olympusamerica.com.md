@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olympusamerica.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317143156id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympusamerica.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127141944id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Thank you for visiting OLYMPUSAMERICA.COM, the Web site of Olympus America Inc. and Olympus Imaging America Inc. (collectively, "Olympus"). At OLYMPUSAMERICA.COM, we respect your privacy. This page will give you an overview of our privacy policy, what information we collect when you visit our site and how that information is used, how you can contact us to be removed from a mailing list to which you have subscribed, and a general disclaimer about the use of the content on our site. 
 
