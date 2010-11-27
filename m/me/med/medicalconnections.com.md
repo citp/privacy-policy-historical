@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalconnections.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621001045id_/http%3A//www.medicalconnections.com/health-care-jobs-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalconnections.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127022701id_/http%3A//www.medicalconnections.com/health-care-jobs-privacy) for the most accurate reproduction.*
 
 # Privacy | physical theraphy, pt, ot, nurse, pta, travel jobs, perm jobs | Medical Connections
 
