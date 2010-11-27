@@ -1,43 +1,44 @@
-> *The following text is extracted and transformed from the onlylyrics.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlylyrics.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-|   | **  [Rock/Metal](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=2)**  
+|   | **  [Rock/Metal](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=2)**  
 ---|---  
-  | **   [Hip-Hop](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=3)**  
-  | **  [R'n'B](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=4)**  
-  | **  [Pop/Rock](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=5)**  
-  | **  [Pop](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=6)**  
-  | **  [AC](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=7)**  
-  | **  [Country](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=8)**  
-  | **  [Dance](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=9)**  
-  | **  [Latin](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=10)**  
-  | **  [Christian](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=11)**  
-  | **  [German/Dutch](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=12)**  
-  | **  [French](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=13)**  
-  | **  [Italian](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=14)**  
-  | **  [Japanese](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=16)**  
-  | **  [World](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/gr_new.php?gid=15)**  
+  | **   [Hip-Hop](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=3)**  
+  | **  [R'n'B](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=4)**  
+  | **  [Pop/Rock](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=5)**  
+  | **  [Pop](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=6)**  
+  | **  [AC](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=7)**  
+  | **  [Country](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=8)**  
+  | **  [Dance](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=9)**  
+  | **  [Latin](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=10)**  
+  | **  [Christian](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=11)**  
+  | **  [German](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=12)**  
+  | **  [French](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=13)**  
+  | **  [Italian](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=14)**  
+  | **  [Japanese](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=16)**  
+  | **  [Dutch](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=18)**  
+  | **  [World](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/gr_new.php?gid=15)**  
   
   
-  | ** [ **2010 Hit Singles**](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/yr.php?yr=2010)**  
+  | ** [ **2010 Hit Singles**](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/yr.php?yr=2010)**  
 ---|---  
-  | ** [ **2009 Hit Singles**](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/yr.php?yr=2009)**  
-  | ** [ **2008 Hit Singles**](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/yr.php?yr=2008)**  
-  | ** [ **2007 Hit Singles**](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/yr.php?yr=2007)**  
-  | ** [ **2006 Hit Singles**](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/yr.php?yr=2006)**  
-  | ** [ **2005 Hit Singles**](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/yr.php?yr=2005)**  
-  | ** [ **2004 Hit Singles**](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/yr.php?yr=2004)**  
+  | ** [ **2009 Hit Singles**](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/yr.php?yr=2009)**  
+  | ** [ **2008 Hit Singles**](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/yr.php?yr=2008)**  
+  | ** [ **2007 Hit Singles**](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/yr.php?yr=2007)**  
+  | ** [ **2006 Hit Singles**](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/yr.php?yr=2006)**  
+  | ** [ **2005 Hit Singles**](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/yr.php?yr=2005)**  
+  | ** [ **2004 Hit Singles**](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/yr.php?yr=2004)**  
   
   
   |   [Lyrics](http://www.songlyrics.com/)  
 ---|---  
-  |   [WowLyrics](http://www.wowlyrics.com/)  
   |   [Music Lyrics](http://www.musicloversgroup.com/)  
-  |   [TeksteLyrics](http://www.tekstelyrics.com/)  
   |   [Tekste](http://www.teksteshqip.com/)  
+  |   [Brand New Hits](http://www.brandnewhits.com/)  
   |   [Lyrics Music Videos](http://www.musicbabylon.com/)  
+  |   [WoW Lyrics](http://www.wowlyrics.com/)  
   
 
 
@@ -56,7 +57,7 @@ We partner with ValueClick to serve ads and/or collect certain information when 
 This site contains links to other sites. OnlyLyrics.com is not responsible for the privacy practices or the content of such Web sites.
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20100528121515id_/http%3A//www.onlylyrics.com/contact.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20101127033920id_/http%3A//www.onlylyrics.com/contact.php)
 
   
   
