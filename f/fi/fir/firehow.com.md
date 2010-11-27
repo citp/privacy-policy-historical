@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firehow.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231202347id_/http%3A//www.firehow.com/firehowprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehow.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127031256id_/http%3A//firehow.com/firehowprivacypolicy.html) for the most accurate reproduction.*
 
-# FireHow Privacy Policy | FireHow.com
+# FireHow Privacy Policy | Firehow | FireHow.com
 
 Effective: November 13, 2008
 
@@ -50,4 +50,4 @@ Conditions of Use and Changes: If you do not agree with this Privacy Policy, our
 
 FireHow will change and/or update this Privacy Policy as much as needed to continually keep the highest protection for our users. We will also update and modify our Privacy Policy at our sole discretion. We will post such changes immediately and recommend you review our Privacy Policy every time you access our website. We assume you review our Privacy Policy on a regular basis to check for changes and/or modifications.
 
-If you choose to visit FireHow.com, any dispute over your privacy is subject to this Policy and our Terms of Use. This includes limitations on damages and application of the law of the State of Michigan. If you have any issues of concerns about privacy at FireHow, please fill out the Contact Us form or email [support@FireHow.com](mailto:support@FireHow.com) . We will work hard to resolve any issues or concerns you may have. 
+If you choose to visit FireHow.com, any dispute over your privacy is subject to this Policy and our Terms of Use. This includes limitations on damages and application of the law of the State of Michigan. If you have any issues of concerns about privacy at FireHow, please fill out the Contact Us form or email [support@FireHow.com](mailto:support@FireHow.com). We will work hard to resolve any issues or concerns you may have. 
