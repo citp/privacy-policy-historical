@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105122848id_/http%3A//www.paidbacklinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127084013id_/http%3A//www.paidbacklinks.com/privacy.html) for the most accurate reproduction.*
 
-# 10 Free Backlinks - PaidBacklinks.com, Get Backlinks, One Way Text Links, Build Backlinks Fast
+# 10 Free Backlinks -PaidBacklinks.com, Get Backlinks, One Way Text Links, Build BacklinksFast
 
 ##  Privacy Policy 
 
