@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629071225id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127063636id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Adult Dating Services with Online Sex Contacts. Adult Chat Rooms - SexInTheUK
 
