@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611141623id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127154506id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Risk Warning | Forex & Trade Risk Factors | FOREX.com
 
