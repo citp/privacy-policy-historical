@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409151736id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127055731id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
 
-# Modern South Asian Dating | myZamana
+# Modern Indian Dating | myZamana
 
 Hello,
 
-We're committed to your privacy and safety. With regard to your information, you own all of it and we will not share or sell it to any third-party. If there any concerns or questions you may have please [send us an email](mailto:support@myzamana.com). 
+We're committed to your privacy and safety. With regard to your information, you own all of it and we will not share or sell it to any third-party. If there any concerns or questions you may have please [send us an email](mailto:support@myZamana.com). 
 
 Best Regards,  
 myZamana team 
