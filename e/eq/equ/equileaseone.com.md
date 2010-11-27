@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610034602id_/http%3A//www.equileaseone.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127022553id_/http%3A//www.equileaseone.com/privacypolicy.html) for the most accurate reproduction.*
 
 # EquiLeaseOne.com Privacy Policy
 
@@ -50,13 +50,17 @@ If you do not agree to **EquiLeaseOne.com** Privacy Policy as posted here on thi
 
 Your use of this site indicates acceptance of this privacy policy. 
 
-**All rights reserved 2008 by EquiLeaseOne.com.**
+**All rights reserved 2008 - 2011 by EquiLeaseOne.com.**
 
 [Privacy Policy - Return to Homepage](http://www.equileaseone.com/)
 
-* * *
-
 **Share this page:  **  
-What's This? |  |  |  |   
+
+
+What's This?
+
+| | | |   
 ---|---|---|---|---  
-|  | 
+| | |   
+  
+Enjoy this page? Please pay it forward. Here's how...
