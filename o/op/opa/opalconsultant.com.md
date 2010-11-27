@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opalconsultant.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507234838id_/http%3A//opalconsultant.com/index-6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opalconsultant.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127152448id_/http%3A//opalconsultant.com/index-6.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
