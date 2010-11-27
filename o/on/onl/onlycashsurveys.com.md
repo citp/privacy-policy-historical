@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329012757id_/http%3A//onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127151507id_/http%3A//onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Only Cash Surveys Privacy Policy
 
 |  |   
 ---  
-| [](https://web.archive.org/web/20100329012757id_/http%3A//onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20100329012757id_/http%3A//onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20100329012757id_/http%3A//onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20100329012757id_/http%3A//onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20100329012757id_/http%3A//onlycashsurveys.com/faq.php)  
+| [](https://web.archive.org/web/20101127151507id_/http%3A//onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20101127151507id_/http%3A//onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20101127151507id_/http%3A//onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20101127151507id_/http%3A//onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20101127151507id_/http%3A//onlycashsurveys.com/faq.php)  
 ---|---|---|---|---  
   
-|  OnlyCashSurveys Privacy Policy  
+|  OnlyCashSurveys Privacy Policy - Updated 3/11/2010  
 ---  
   
 OnlyCashSurveys is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our website and services. 
@@ -40,7 +40,8 @@ Business Partners & Sponsors:
 
 Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give OnlyCashSurveys permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer. 
 
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, OnlyCashSurveys will (with your permission) share your name and email address with them. 
+Sharing   
+We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. We provide data with our partners only when our users select the services of our partners when they register. This is done by opting in or not opting out of their service. If you opt-in to our newsletter, we may partner with outside firms which will send out third party offers. We share information gathered with partners that you select during the registration process. We may send you offers on behalf of other third parties. If we partner with other 3rd parties to send you offers, you will be given the opportunity to opt-out at any time. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
 Third Party Data & Data in the Aggregate: 
      Under confidentiality agreements, OnlyCashSurveys may match user information with third party data. Also, OnlyCashSurveys discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
@@ -51,8 +52,6 @@ What are my choices regarding collection, use, and distribution of my informatio
      Only OnlyCashSurveys (or agents working on behalf of OnlyCashSurveys and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. 
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those OnlyCashSurveys services that require registration in order to participate. 
-
-OnlyCashSurveys does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. 
 
 What is OnlyCashSurveys' policy on allowing me to update, correct, or delete my personally identifiable information? 
      You may edit your OnlyCashSurveys Account Information and your public OnlyCashSurveys Profile at any time by using your OnlyCashSurveys ID and password. If you have forgotten your password, please click here. 
