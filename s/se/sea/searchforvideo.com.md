@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforvideo.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528041026id_/http%3A//www.searchforvideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforvideo.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127212000id_/http%3A//www.searchforvideo.com/privacy.html) for the most accurate reproduction.*
 
 # Searchforvideo - Privacy Statement Searchforvideo
 
