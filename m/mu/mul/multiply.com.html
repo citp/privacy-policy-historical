@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the multiply.com privacy policy that was archived on 2010-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624072907id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the multiply.com privacy policy that was archived on 2010-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127035708id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html id="html_tag"><head>
 <title>Multiply </title>
 <link rel="SHORTCUT ICON" href="/favicon.ico">
-<script type="text/javascript" language="Javascript" src="http://multiply.com/scripts/site/en/153.js"></script>
+<script type="text/javascript" language="Javascript" src="http://multiply.com/scripts/site/en/156.js"></script>
 
-<link rel="stylesheet" type="text/css" href="http://multiply.com/style/site/88.css">
+<link rel="stylesheet" type="text/css" href="http://multiply.com/style/site/89.css">
 <link rel="stylesheet" type="text/css" href="http://multiply.com/style/nonowned/10.css">
 
 
@@ -212,7 +212,10 @@ function multiply_tracker() {
     this.group_info = new Array;
     this.group_trackers = new Array;
     this.deferred_tracks = new Array;
-
+    this.seller_tracker;
+    this.enable_seller_tracker = function () { 
+       this.seller_tracker_enabled = true;
+    }
     this.add_group_tracker = function (name,profile) {
 	this.group_info.push({name:    name,
 	                      profile: profile});
@@ -221,7 +224,9 @@ function multiply_tracker() {
 	// Set up main tracker
 	this.main_tracker = _gat._getTracker("UA-82472-1");
 	this.main_tracker._setDomainName("multiply.com");
-
+        if (this.seller_tracker_enabled) {
+            this.seller_tracker = _gat._getTracker("UA-18197475-1");
+        }
 	// Set up group trackers
 	for (i in this.group_info) {
 	    this.group_trackers[i] = _gat._getTracker(this.group_info[i].profile);
@@ -243,6 +248,13 @@ function multiply_tracker() {
 	else {
 	    this.deferred_tracks.push({url: url, detail_url: detail_url, extension: extension});
 	}
+        if (this.seller_tracker) {
+            var track_url = url + '?' + this.segmentation_variables;
+            if (extension) {
+		track_url = track_url + ' (' + extension + ')';
+            }
+            this.seller_tracker._trackPageview(track_url);
+        }
 
 	for (i in this.group_trackers) {
 	    var track_url = detail_url || detail_pagename || url;
@@ -284,11 +296,13 @@ function multiply_tracker() {
     };
     this.set_custom_var = function(id,label,value,scope) {
         this.main_tracker._setCustomVar(id,label,value,scope);
+        if (this.seller_tracker) {
+	    this.seller_tracker._setCustomVar(id,label,value,scope);
+        }
     };
 }
 
 var MultiplyTracker = new multiply_tracker();
-
 
 
 MultiplyTracker.segmentation_variables = 'p=NONE&g=n/a&a=n/a';
@@ -332,6 +346,8 @@ LOTCC.add('cntry', 'US');
 LOTCC.bcp();
 </script>
 </div>-->
+
+<script>if (gUserAd) { show_multiply_ad(gUserAd) }</script>
 <script type="text/javascript">if (typeof Meebo != 'undefined') Meebo('domReady');</script>
 
 
