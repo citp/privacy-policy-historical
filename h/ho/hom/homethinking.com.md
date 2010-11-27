@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homethinking.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212034324id_/http%3A//www.homethinking.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homethinking.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127195807id_/http%3A//www.homethinking.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Real Estate Agents Dashboard - Homethinking
 
