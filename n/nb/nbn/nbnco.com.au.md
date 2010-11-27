@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504172121id_/http%3A//www.nbnco.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127070416id_/http%3A//www.nbnco.com.au/wps/wcm/connect/main/site-base/global-pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - NBN Co Limited
-
-This Privacy Policy is designed to tell you what will happen to the information you provide through this website or through any other form of communication with us, NBN Co Limited, our wholly owned subsidiaries, or our agents or contractors. Please be sure to read this entire Privacy Policy before using this website or submitting personal information to us or our agents or contractors.
+# Privacy Policy - NBN Co Limited
 
 ### Personal Information
 
@@ -62,7 +60,8 @@ We may also use your personal information for purposes related to those describe
 
 We will not use your information for purposes other than those described above unless we have your consent or there are legally permitted law enforcement or public health and safety reasons.
 
-Sharing your personal information  
+### Sharing your personal information
+
 We may disclose your personal information in certain circumstances, such as where we are required or authorised by law or where you have consented to us doing so.
 
 We also may disclose your personal information to:
