@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127191757id_/http%3A//pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
 
 # Pollen.com - Free 4-day Allergy Forecasts and Allergy Alerts
-
-Last Updated: 9/23/2009
 
 Our success depends on our ability to deliver useful and accurate information, and maintain your trust. We will always tell you what information, if any, we collect about you, and how we'll use that information. And, we will always give you the clear choice not to participate in special offers, or have us share your information with our marketing partners.
 
@@ -51,15 +49,4 @@ Plymouth Meeting, PA 19462
 Phone: (610) 834-0800  
 e-mail:[support@pollen.com](mailto:support@pollen.com)
 
-[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/cookies.asp)
-
-| 
-
-* * *
-
-Our [Privacy Policy](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/privacy_policy_general.asp "Pollen.com Privacy Policy") is available online, and you can click here to view our [Advertising Policy](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/advertising_policy.asp "Pollen.com Advertising Policy"). The Pollen Index levels, national map and weather forecasts are updated daily (last updated on December 30, 2009). The HealthDay News section is updated as new articles become available. You can [click here](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/newsfeed.asp "Pollen.com Newsfeeds from HealthDay") for the Healthday News at Pollen.com. [Click here](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/links.asp "Links to Other Pollen and Allergy Resources") for links to other helpful pollen allergy related information. [Another useful tool for allergy sufferers](http://www.pollenlibrary.com/ "A useful tool for allergy sufferers to aid in identifying causes of allergies") is our PollenLibrary.com site.
-
-Copyright © 2009 SDI Health LLC. All rights reserved. [Terms of Use](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/terms_of_use.asp "Pollen.com Terms of Use") | Simplified Mobile Site  
-Pollen.com and Allergy Alert are registered trademarks of SDI Health LLC.
-
-[Click here](https://web.archive.org/web/20091231030402id_/http%3A//www.pollen.com/contact.asp "Leave a Comment or Feedback for The Pollen People") to send feedback or general comments on Pollen.com - your best source of **allergies** and **allergy** information, such as **hay fever** , and includes the **Allergy** four day forecast. 
+[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20101127191757id_/http%3A//pollen.com/cookies.asp)
