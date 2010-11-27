@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317114133id_/http%3A//www.preventdisease.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127191015id_/http%3A//preventdisease.com/home/privacy.shtml) for the most accurate reproduction.*
 
 # PreventDisease.com - Privacy Statement
 
-## **Privacy Statement**
+## **
 
-**Overview**  
+Privacy Statement
+
+**
+
+**  
+Overview**  
 PreventDisease.com operates under the following set of strict privacy principles: 
 
   * The only information PreventDisease.com obtains about individual visitors to its Web site is that supplied voluntarily by visitors. 
@@ -15,6 +20,8 @@ PreventDisease.com operates under the following set of strict privacy principles
   * Only statistical information about our visitors as a group (usage habits, demographics) may be shared with any partner of PreventDisease.com. Personally identifiable information will not be shared at any time without the visitor's permission. PreventDisease.com employs strict security measures to safeguard online transactions; personal information is stored in a secured database and always sent via an encrypted Internet channel. 
   * We will notify our users if we make significant changes to our privacy policy that may affect the use of health-related information, and we will obtain consent from consumers for any new uses of that data.
 
+
+
 The following discloses our information gathering and dissemination practices for this Web site: PreventDisease.com. 
 
 **IP Addresses**  
@@ -24,7 +31,7 @@ An IP address is a number automatically assigned to your computer whenever you a
 Our site places a text file called a "cookie" in the browser files of your computer. Cookies are pieces of information that a Web site transfers to an individual's hard disk for record keeping purposes. Our site uses cookies during your online session to deliver content specific to your interests. Cookies allow us to avoid showing you the same ad or other message repeatedly. Our cookies do not contain personal information. They do enable PreventDisease.com to relate your use of the site to information that you have specifically and knowingly provided to our site. 
 
 **Registration**  
-Our site's member registration system requires users to give us contact information such as their name and e-mail address. The user's contact information may be used to contact the visitor when necessary. **The user acknowledges that the member registration email address provided, automatically entitles and enlists the user to our free monthly newsletter as provided by our PD team** ([see sample here](http://www.preventdisease.com/news/sample_newsletter.html)). The user can remove (opt-out) their email manually through any page on our website. If at any time users have been unsubscribed from the mailing list, they may also choose to add (opt-in) their email to receive future mailings; see the choice/opt-in section below for further options. 
+Our site's member registration system requires users to give us contact information such as their name and e-mail address. The user's contact information may be used to contact the visitor when necessary. **The user acknowledges that the member registration email address provided, automatically entitles and enlists the user to our free monthly newsletter as provided by our PD team.** The user can remove (opt-out) their email manually through any page on our website. If at any time users have been unsubscribed from the mailing list, they may also choose to add (opt-in) their email to receive future mailings; see the choice/opt-in section below for further options. 
 
 **External Links**  
 In order to provide visitors with greater value, PreventDisease.com may provide links to various third party Web sites. However, even if a third-party affiliation exists between PreventDisease.com and that destination site, PreventDisease.com exercises no authority over linked sites, each of which maintains independent privacy and data collection policies and procedures. PreventDisease.com assumes no responsibility or liability for these independent methods or actions and is not responsible for the independent policies or procedures of destination sites. Similarly, PreventDisease.com cannot take responsibility for the privacy initiatives or the content of such Web sites. These destination links are provided only for your convenience, and as such, you access them at your own risk. However, PreventDisease.com wishes to ensure the integrity of the PreventDisease.com Web site and its destination links, so any comments pertaining to the PreventDisease.com Web site or any sites accessed through PreventDisease.com links are greatly appreciated. 
@@ -67,6 +74,7 @@ Canada.
 
 
 
+
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this Website, or your interaction with this Website, contact: 
 
@@ -79,5 +87,9 @@ Canada.
 
 
 
-**Online Service Agreement**  
+**  
+Online Service Agreement**  
 Please see our [Online Service Agreement](http://www.preventdisease.com/home/terms_conditions.html) for other terms and conditions governing your use of the PreventDisease.com Web site. 
+
+  
+
