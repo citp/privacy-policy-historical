@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520023310id_/http%3A//www.reedsrains.co.uk/legal-information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127010201id_/http%3A//www.reedsrains.co.uk/legal-information/privacy-statement) for the most accurate reproduction.*
 
 # Reeds Rains | Legal Information - Estate Agents and Letting Agents
 
-Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our [Legal Information](https://web.archive.org/web/20100520023310id_/http%3A//www.reedsrains.co.uk/legal-information/legal-information.shtml) and sets out how Reeds Rains handles data which identifies you.
+Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our [Legal Information](https://web.archive.org/web/20101127010201id_/http%3A//www.reedsrains.co.uk/legal-information/legal-information.shtml) and sets out how Reeds Rains handles data which identifies you.
 
 ###  About Us
 
