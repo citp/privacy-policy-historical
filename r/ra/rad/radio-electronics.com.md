@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222132949id_/http%3A//www.radio-electronics.com/privacy-policy/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127050704id_/http%3A//radio-electronics.com/rec-information/privacy-policy.php) for the most accurate reproduction.*
 
-# Radio-Electronics.com :: Privacy Policy
+# Radio-Electronics.Com :: About Usg
 
-| 
-
-|   
-|    
-
-
-## Radio-Electronics.Com :: Privacy Policy
+Navigation:: [Home](http://www.radio-electronics.com/) >> Privacy Policy
 
 Adrio Communications Ltd, the owners and operators of the Radio-Electronics.Com aim to offer a service that is free to all and free to use in a manner that will not infringe any privacy.
 
@@ -38,8 +32,4 @@ While Adrio Communications Ltd aims to offer a service that is fair and free fro
 
 ### Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here.](http://www.google.co.uk/privacy_ads.html)
-
-|  |  |   
-  
-
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to�not having this information used by these companies, [click here.](http://www.google.co.uk/privacy_ads.html)
