@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spydermate.com privacy policy that was archived on 2010-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608035938id_/http%3A//spydermate.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spydermate.com privacy policy that was archived on 2010-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127201440id_/http%3A//spydermate.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy | SpyderMate™</title>
@@ -8,46 +8,194 @@
 
 <link href="spider.css" rel="stylesheet" type="text/css">
 <link href="css/style_sorter.css" rel="stylesheet" type="text/css">
-<link href="css/flora.css" rel="stylesheet" type="text/css">
-<link href="css/datepicker.css" rel="stylesheet" type="text/css">
+<!--<link href="css/flora.css" rel="stylesheet" type="text/css"/>-->
+<!--<link href="css/datepicker.css" rel="stylesheet" type="text/css"/>-->
 <link rel="stylesheet" href="css/fancy.css" type="text/css" media="screen">
-<link rel="stylesheet" href="css/compare5.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/compare_pages.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/profile.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/keywords.css" type="text/css" media="screen">
 <!--<link href="css/jquery.tooltip.css" rel="stylesheet" type="text/css"/>-->
+<link rel="stylesheet" href="css/ui-lightness/jquery-ui-1.8.2.custom.dialog.progress.datepicker.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/ui-lightness/jquery-ui-1.8.1.custom.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/jquery.loadmask.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/about_style.css" type="text/css" media="screen">
 
+<link href=" http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="css/sexybuttons/sexybuttons.css" type="text/css">
 
 <script type="text/javascript" src="js/dhtml.tooltip.js"></script>
+
 <!--jquery-->
 <!--<script type="text/javascript" src="js/jquery-1.2.6.pack.js"></script>-->
-<script type="text/javascript" src="js/jquery-1.2.6.js"></script>
+
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="js/jquery.tablesorter.js"></script>
 <script type="text/javascript" src="js/jquery.tablesorter.pager.js"></script>
-<script type="text/javascript" src="js/jquery.datepicker.js"></script>
-<script type="text/javascript" src="js/jquery.ui.tabs.js"></script>
+<!--<script type="text/javascript" src="js/jquery.datepicker.js"></script>-->
+<!--<script type="text/javascript" src="js/jquery.ui.tabs.js"></script>-->
+<script type="text/javascript" src="js/jquery-ui-1.8.1.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.2.custom.dialog.progress.datepicker.min.js"></script>
 <script type="text/javascript" src="js/jquery.validate.js"></script>
 <script type="text/javascript" src="js/jquery.fancybox-1.0.0.js"></script>
 <script type="text/javascript" src="js/jquery.corners.js"></script>
+<script type="text/javascript" src="js/jquery.loadmask.js"></script>
 <!--<script type="text/javascript" src="js/jquery.tooltip.pack.js"></script>-->
 
 <!--<script type="text/javascript" src="js/ui.accordion.js"></script>-->
 <!--end-->
-
 <!--<script type="text/javascript" src="ddaccordion.js"></script>-->
 <script type="text/javascript" src="js/ajax.js"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="js/jquery.json-2.2.js"></script>
+<script type="text/javascript" src="js/gaFeeder.js"></script>
+<script type="text/javascript" src="js/spyder_tools.js"></script>
+<script type="text/javascript" src="js/keyword_table_navigation.js"></script>
 
+<script type="text/javascript" src="/js/pager.js"></script>
+
+<script type="text/javascript">
+  var merchant = "70353";
+
+  var cookieVal = 365;
+
+  document.write(unescape("%3Cscript src='https://impression.clickinc.com/impressions/servlet/CookeExpire?merchant=" + merchant + "'type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://impression.clickinc.com/impressions/servlet/CookeExpire?merchant=70353" type="text/javascript"></script>
+<script src="/js/clickscript.js"></script>
+
+<script type="text/javascript">
+
+  var dummy_domain = 'http://www.domain.com';
+
+  var dummy_sitemap = 'http://www.domain.com/sitemap.xml';
+
+  function get_gpr_html(gpr)
+  {
+    var html = '';
+
+    for(var j=0; j<10; j++)
+    {
+      if(j < gpr)
+      {
+        if(j == 0)
+        {
+          html += '<img src="images/pagerank.gif" alt="'+gpr+'" />&nbsp;';
+
+        }else
+        {
+          html += '<img src="images/pagerank.gif" alt="" />&nbsp;';
+        }
+
+      }else
+      {
+        html += '<img src="images/pagerank_no.png" alt="" />&nbsp;';
+      }
+    }
+
+    return html;
+  }
+
+  function getPageRank()
+  {
+//console.log('in get page rank');
+    if($('.empty_gpr').length > 0 )
+    {
+      gprIds = new Array();
+
+      $('.empty_gpr').each( function(){gprIds.push($(this).attr('id').replace('gpr_',''))});
+//console.log(gprIds);
+      $.ajax({url:'ajax_files/get_gpr.php', type:'post', dataType: 'json', data:'ids='+gprIds.join(','), success:updateGpr, error:errorGpr});
+
+    }else
+    {
+      window.clearInterval(gprInterval);
+    }
+
+  }
+
+  function updateGpr(result)
+  {
+    for(var i in result)
+    {
+      var gpr = result[i];
+
+      var imgs = get_gpr_html(gpr);
+
+      imgs = '<span>' + imgs + '</span>';
+
+      $('#gpr_'+i).parent().append(imgs);
+
+      $('#gpr_'+i).remove();
+    }
+
+    if($('.empty_gpr').length > 0)
+    {
+
+      //window.setTimeout('getPageRank()', 2000);
+
+    }else
+    {
+      var eb = $('.pdf_export_box');
+
+      if(typeof(eb) != 'undefined') eb.show();
+
+      var keb = $('.keyword_pdf_export_box');
+
+      if(typeof(keb) != 'undefined') keb.show();
+
+      $('#sort_gpr_box').show();
+
+      if(typeof(update_compare_pdf_export) == 'function')
+      {
+        update_compare_pdf_export();
+      }
+    }
+
+  }
+
+  function showLoader()
+  {
+    keyword_mask_window();
+  }
+
+  function hideLoader()
+  {
+    keyword_unmask_window();
+  }
+
+
+  function errorGpr()
+  {
+    alert('There is an error in your request!');
+  }
+
+</script>
+
+<script type="text/javascript">
+  var gprInterval = 0;
+
+  window.clearInterval(gprInterval);
+
+  $(function()
+  {
+    $('.iframe').fancybox({'frameWidth':800,'frameHeight':600, 'padding':30});
+  });
+</script>
 </head>
 <body>
 <script type="text/javascript">
 window.google_analytics_uacct = "UA-2451941-2";
 </script>
 <!--<a href="http://www.mentormate.com"><img style="position:absolute;left:692px;top:0px" src="images/logo.jpg" alt="Software Development | MentorMate, Inc."/></a>-->
-<div id="page"><div id="spiderbg">
-<span style="position:relative;left:427px;top:66px;font-weight:bold;color:white;"><a href="changelog.php" style="color:#FFFFFF;text-decoration:none;">v3.17</a></span>
-	<table cellspacing="0" cellpadding="0" style="margin-left:50px; margin-top:0px;">
-	   <tbody><tr height="20">
-	   <td>
-	   &nbsp;
-	   </td>
-	   </tr>
+<div id="page">
+  <div id="spiderbg">
+    <table cellspacing="0" cellpadding="0" style="margin-left:50px; margin-top:0px;">
+      <tbody><tr height="20">
+        <td>
+          &nbsp;
+        </td>
+      </tr>
 	   <!--<tr>
 	        <td class="contactInfo">T: 612.823.4000</td>
 
@@ -62,121 +210,150 @@ window.google_analytics_uacct = "UA-2451941-2";
 	        <td class="contactInfo">E: <a href="mailto:spyder@mentormate.com">spyder@mentormate.com</a></td>
 	        <td class="contactAddress" style="padding-left:1px;"><a href="http://mentormate.com/map-directions.php">Map &amp; Directions</a></td>
 	      </tr>-->
-	</tbody></table>
-<div id="main">
-<div id="dhtmltooltip"></div>
-<div id="hidden_logo"><a href="/"><img src="i/hidden_logo.png" alt="Spydermate Home Page"></a></div>
-<div style="margin-left:30px;">
+    </tbody></table>
+  <div id="main">
+  <div id="dhtmltooltip"></div>
+  <div id="hidden_logo"><a href="/"><img src="i/hidden_logo.png" alt="Spydermate Home Page"></a></div>
+  <div style="margin-left:30px;">
 	<div class="topPanel">
 		<form name="loginform" id="loginform" style="color:white;" action="/welcome.php" method="post">
 			<strong>Username:</strong> <input name="username" id="username" type="text" style="width:70px;">
 			<strong>Password:</strong> <input name="password" id="password" type="password" style="width:70px;">
 			<input type="submit" value="Login"><input type="hidden" name="submitted" value="yes">
-
-                </form>
-
-                <br>
+    </form>
+    <br>
 		<div style="" class="mylink2">
-                        <a href="register.php" style="font-size:12px;">Register</a>
-                        <span style="font-size:12px;color:#FFFFFF;font-weight: bold;">|</span>
+      <a href="register.php" style="font-size:12px;">Register</a>
+      <span style="font-size:12px;color:#FFFFFF;font-weight: bold;">|</span>
 			<a href="lost_password.php" style="font-size:12px;">Forgot Password</a>
 		</div>
 	</div>
 			<div class="topBar" style="">
-		<form method="post" action="userprocess.php">
-		<div class="urlBox" style="width:484px;float:left;height:76px;">
-	<div style="margin-bottom:3px;float:left;width:400px;">Enter URL:</div>
-	    	  	<div style="width:75px;float:right;">Pages:&nbsp;<img src="images/tooltip.png" onmouseover="ddrivetip('<strong># Pages to Crawl:</strong> The maximum number of web pages you want SpyderMate to crawl on your web site.','#F0F0F0', 450)" ;="" onmouseout="hideddrivetip()" border="0"></div>
-				<div style="clear:left;"></div>
+    <form method="post" onsubmit="return userprocess()">
+	  
+      <div class="urlBox" style="width:484px;float:left;background-color:#ffeeee;;">
+
+    	<div style="margin:0px;float:left;width:400px;">Enter URL:</div>
+	        <div style="width:75px;float:right;">
+          Pages:&nbsp;
+          <img src="images/tooltip.png" onmouseover="ddrivetip('<strong># Pages to Crawl:</strong> The maximum number of web pages you want SpyderMate to crawl on your web site.','#F0F0F0', 450)" onmouseout="hideddrivetip()" border="0" alt="pages you want SpyderMate to crawl">
+        </div>
+				<div style="clear:both;"></div>
+
 				<div style="float:left;width:400px;">
-                                    <input type="text" name="homepage" id="homepage" class="home_input" style="">
-                                </div>
-                                <div style="width:75px;float:right;">
-                                    <select style="width:55px;background-color:#CCCCCC;font-family:verdana;font-size:11px;" name="npagesdisabled" id="npagesdisabled" onmouseover="ddrivetip('Only members can crawl more than 25 pages per web site. Register for your free account.','#F0F0F0', 450)" onmouseout="hideddrivetip()">
-                                        <option name="npages" value="25">25</option>
-                                    </select>
-                                </div>
+          <input type="text" name="homepage" id="homepage" class="home_input" style="" readonly="true" onmouseover="ddrivetip('Only registered members can use SpyderMate, register for your free account now!','#F0F0F0', 450)" onmouseout="hideddrivetip()">
+        </div>
+        <div style="width:75px;float:right;">
+            <select style="width:55px;background-color:#CCCCCC;font-family:Verdana;font-size:11px;" name="npagesdisabled" id="npagesdisabled">
+                <option name="npages" value="10">10</option>
+            </select>
+        </div>
 				<!--input type="text" name="npages" id="npages" size="4"><br/-->
-                                <div style="clear:left;"></div>
-                                <div style="float:left;">
-                                    <input class="formButton" type="Submit" value="Crawl Web Site">
-                                    <img src="images/tooltip.png" onmouseover="ddrivetip('<strong>Note:</strong> http://www.example.com reports different results than http://example.com.','#F0F0F0', 450)" ;="" onmouseout="hideddrivetip()" border="0">
-                                </div>
-			   	</div>
-        </form>
-				<div class="urlBox mylink" style="width:360px;position:relative;height:76px;">
-				You have 3&nbsp;free SpyderMate uses remaining! For more free uses each month, <a href="/register.php" class="mylink">register</a>.
-			</div>
-			</div>
+        <div style="clear:both;"></div>
+        <div style="float:left;">
+            <input class="formButton" type="button" value="Crawl Web Site" disabled="disabled">
+            <img src="images/tooltip.png" onmouseover="ddrivetip('<strong>Note:</strong> http://www.example.com reports different results than http://example.com.','#F0F0F0', 450)" onmouseout="hideddrivetip()" border="0" alt="spydermate canonicalization note">
+        </div>
+        <div style="clear:both"></div>
+			 
+	</div>
+  </form>
+	    <div class="urlBox mylink" style="width:360px;background-color:#ffeeee;border-color: #D23D24;">
+      You must login in order to use SpyderMate. If you need an account you can register for a free account <a href="/register.php" class="mylink">here</a>.
+    </div>
+    </div>
 	
 
-
 <script type="text/javascript" src="ddtop.js"></script>
-<script type="text/javascript">
-	/*$('#npagesdisabled').tooltip();*/
+<div id="mydialog" title="Crawling %domain%" style="display:none;height:300px;">
+  <p id="info"></p>
+  <p id="timer"></p>
+  <div id="myprogress"></div>
+</div>
 
-</script>
+    <h1>Privacy Policy</h1>
 
+    <h2>What do you do with the information you collect?</h2>
+    <p>We collect basic information about our registered users for the sole reason of personalizing their SpyderMate experience and better serving their varying needs. The information we collect from non-registered users is for advertising and statistical purposes only.</p>
 
+    <h2>Do you share information with third parties?</h2>
+    <p>No.  User information is seen only by MentorMate for the purposes of maintaining SpyderMate and providing service to SpyderMate users.</p>
 
-<h1>Privacy Policy</h1>
+    <h2>Do you sell my information to anyone?</h2>
+    <p>Absolutely not.</p>
 
-<h2>What do you do with the information you collect?</h2>
-<p>We collect basic information about our registered users for the sole reason of personalizing their SpyderMate experience and better serving their varying needs. The information we collect from non-registered users is for advertising and statistical purposes only.</p>
+    <h2>What do you do with my IP address and computer information?</h2>
+    <p>We use your IP address to track your SpyderMate use and your computer information to optimize your SpyderMate experience.</p>
 
-<h2>Do you share information with third parties?</h2>
-<p>No.  User information is seen only by MentorMate for the purposes of maintaining SpyderMate and providing service to SpyderMate users.</p>
+    <h2>What do you do with my email address and personal information?</h2>
+    <p>We use this information to assist you with SpyderMate use.  This information is kept private and is never sold to or shared with third parties.</p>
 
-<h2>Do you sell my information to anyone?</h2>
-<p>Absolutely not.</p>
+    <h2>Can I choose to remove or change my information?</h2>
+    <p>Yes.  Simply contact us at <a href="mailto:spyder@mentormate.com">spyder@mentormate.com</a> or call us at (612) 823-4000 (Mon-Fri, 8 A.M. to 4 P.M.) to be removed from the SpyderMate registration list or to have your registration information changed.</p>
 
-<h2>What do you do with my IP address and computer information?</h2>
-<p>We use your IP address to track your SpyderMate use and your computer information to optimize your SpyderMate experience.</p> 
-
-<h2>What do you do with my email address and personal information?</h2>
-<p>We use this information to assist you with SpyderMate use.  This information is kept private and is never sold to or shared with third parties.</p>
-
-<h2>Can I choose to remove or change my information?</h2>
-<p>Yes.  Simply contact us at <a href="mailto:spyder@mentormate.com">spyder@mentormate.com</a> or call us at (612) 823-4000 (Mon-Fri, 8 A.M. to 4 P.M.) to be removed from the SpyderMate registration list or to have your registration information changed.</p>
 </div>
 </div>
 <div class="copyright" style="margin-top:10px;">
 					
+  <div style="margin-top: 10px;" class="copyright">
+
 					<table width="91%">
 					<tbody><tr>
-					<td align="left" valign="center">
-
-<!--tell a friend feature start-->
- <script type="text/javascript" src="http://cdn.socialtwist.com/200901268323/script.js"></script>
- <a class="st-taf" href="http://tellafriend.socialtwist.com:80" onclick="return false;" style="border:0;padding:0;margin:0;"><img alt="SocialTwist Tell-a-Friend" style="border:0;padding:0;margin:0;" src="http://images.socialtwist.com/200901268323/button.png" onmouseout="hideHoverMap(this)" onmouseover="showHoverMap(this, '200901268323', window.location, document.title)" onclick="cw(this, {id:'200901268323', link: window.location, title: document.title });"></a>
-<!--tell a friend feature end-->
+					<td width="20%" align="left" valign="center">
+&nbsp;
 					</td>
 					<td align="center" valign="center">
-					<span id="bottomBarTop"><a href="privacy-policy.php">Privacy Policy</a> | <a target="blank" href="changelog.php">Changelog</a></span>
-
+            <span class="bottomBarTop"><a href="privacy-policy.php">Privacy Policy</a></span>
 					</td>
-					<td align="right" valign="top">
-					<a href="http://mentormate.com" style="position:relative;top:-10px;right:-5px;"><img src="images/powered.png" alt="Minnesota Custom Software Development"></a>
+					<td align="center" valign="center">
+            <span class="bottomBarTop"><a href="tos2.php">Terms of Service</a></span>
+					</td>
+          					<td align="right" valign="top">
+            <a style="position: relative; top: -10px; right: -5px;" href="http://mentormate.com"><img alt="Minnesota Custom Software Development" src="images/powered.png"></a>
 					</td>
 					</tr>
 					</tbody></table>
-</div></div>
+  </div>
+</div>
+</div>
 
 	
 	<div id="bottomBar">&nbsp;</div>
 
 </div>
 <script type="text/javascript" id="js">
-        $(document).ready(function() {
-            	$('#root_tabs ul').tabs({ 
-                    	/*fxSlide: true,*/ 
-				fxFade: true, 
-				fxShow: true, 
-				fxSpeed: 'normal' 
-		});
-                $("#show_graph2").fancybox({
-                       'hideOnContentClick': true
-                });
+    var currentTab = 0;
+    function triggerTab(num)
+    {
+      currentTab = 0;
+      $('.ui-state-default a').each(function(){if(currentTab++==num){$(this).trigger('click')}});
+    }
+
+    function checkActiveTab()
+    {
+      var regExp = /\active\=\d/;
+      var m = document.location.href.match(regExp);
+      if(m){
+        var tab = m[0].replace('active=','');
+        triggerTab(tab);
+      }
+    }
+    
+    $(document).ready(function()
+    {
+           /*$('#root_tabs ul').tabs({
+                  //fxSlide: true,
+                fxFade: true,
+                fxShow: true,
+                fxSpeed: 'normal'
+            });*/
+            // Tabs
+            $('#root_tabs').tabs();
+
+            $("#show_graph2").fancybox({
+              'hideOnContentClick': true
+            });
+            checkActiveTab();
 		/*$('#root_tabs > ul').tabs({ selected: 5 });*/
 	});
 </script>
@@ -201,6 +378,7 @@ pageTracker._trackPageview();
 </script>
 
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/0467.js"> </script>
+<!--
 <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
 <script type="text/javascript">
 var re_name_tag = "";
@@ -209,41 +387,8 @@ try {
 reinvigorate.track("1768n-877jv4fy2d");
 } catch(err) {}
 </script>
-
-<!--<script src="http://spydermate.uservoice.com/pages/general/widgets/tab.js?alignment=right&amp;color=FF943B" type="text/javascript"></script>
-
-<script type="text/javascript">
-var uservoiceOptions = {
- /* required */
- key: 'spydermate',
- host: 'spydermate.uservoice.com',
- forum: '11211',
- showTab: true,
- /* optional */
- alignment: 'right',
- background_color:'#FF943B',
- text_color: 'white',
- hover_color: '#FF943B',
- lang: 'en'
-};
-
-function _loadUserVoice() {
- var s = document.createElement('script');
- s.setAttribute('type', 'text/javascript');
- s.setAttribute('src', ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js");
- document.getElementsByTagName('head')[0].appendChild(s);
-}
-_loadSuper = window.onload;
-window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
-</script>
 -->
 
-<!-- ClickTale Bottom part -->
-                    <div id="ClickTaleDiv" style="display: none;"></div>
-                    <script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
-                    <script type="text/javascript">
-                    if(typeof ClickTale=='function') ClickTale(26714,1);
-                    </script>
-                    <!-- ClickTale end of Bottom part -->
 
-</body></html>
+
+<div id="fancy_wrap"><div id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><div id="fancy_nav"></div><div id="fancy_close"></div><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td id="fancy_title_left"></td><td id="fancy_title_main"><div></div></td><td id="fancy_title_right"></td></tr></tbody></table></div></div></div></div></body></html>
