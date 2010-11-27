@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moonit.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527040616id_/http%3A//moonit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonit.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127020206id_/http%3A//moonit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Moonit - Make Destiny
-
-## Privacy Policy 
+# privacy policy | Moonit
 
 Moonit LLC ("Moonit," "we" or "our company") has created this privacy policy to demonstrate our commitment to privacy which governs our flagship Website Moonit.com. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on [Moonit.com](http://moonit.com/). We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. The statement below outlines the privacy practices solely for the Website located at [www.Moonit.com](http://moonit.com/) and not for any other product or service. This Privacy Policy is incorporated into, and subject to, the terms and conditions of our Terms of Service.
 
