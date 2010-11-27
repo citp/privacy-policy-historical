@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfdb.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324194750id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfdb.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127052030id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyFDB.com
 
