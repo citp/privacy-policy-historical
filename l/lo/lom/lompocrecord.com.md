@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613181904id_/http%3A//lompocrecord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127164200id_/http%3A//lompocrecord.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
