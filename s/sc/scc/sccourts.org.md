@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sccourts.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613060252id_/https%3A//www.sccourts.org/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccourts.org privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127213344id_/http%3A//www.sccourts.org/legal/privacy.cfm) for the most accurate reproduction.*
 
 # SC Judicial Department
 
