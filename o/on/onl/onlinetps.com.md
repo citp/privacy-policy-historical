@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528170434id_/http%3A//onlinetps.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127204221id_/http%3A//www.onlinetps.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : :+: Online TPS - Electronics and Robotics components Shopee - India, Free Stuff Atmel PIC microcontroller sensor Solar Panel AVR 8051 Programmer STK 200/300 motor 433mhz transmitter Price Rs Satisfaction Guaranteed
+# Privacy Notice : :+: Online TPS Shoppe - Buy Electronics and Robotics components - India, Techfest 2011 ,Kshitij 2011 competitions Free Stuff Atmel PIC microcontroller sensor LFR USB AVR 8051 Programmer STK 200/300 motor 433mhz transmitter Buy Price Rs Satisfaction Guaranteed
 
   
 www.onlinetps.com and its affiliates respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by www.onlinetps.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by www.onlinetps.com you agree to the collection and use of your data by www.onlinetps.com in the manner provided in this Privacy Policy.
