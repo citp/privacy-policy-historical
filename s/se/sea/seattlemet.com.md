@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528165237id_/http%3A//www.seattlemet.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127200750id_/http%3A//www.seattlemet.com/site/privacy) for the most accurate reproduction.*
 
-# Seattle Met Magazine / About Seattle Met / Privacy Policy
+# Privacy Policy -- Seattle Met Magazine
 
 Main Content
 
