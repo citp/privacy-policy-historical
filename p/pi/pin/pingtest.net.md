@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingtest.net privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607064644id_/http%3A//www.pingtest.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingtest.net privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127034641id_/http%3A//www.pingtest.net/privacy.php) for the most accurate reproduction.*
 
 # Pingtest.net - Privacy Policy
 
