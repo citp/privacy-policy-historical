@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanobloggers.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522210959id_/http%3A//nanobloggers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanobloggers.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127073344id_/http%3A//nanobloggers.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
