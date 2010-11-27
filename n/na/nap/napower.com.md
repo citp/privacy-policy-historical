@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napower.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502012209id_/http%3A//napower.com/node/14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napower.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127062705id_/http%3A//www.napower.com/node/14) for the most accurate reproduction.*
 
 # North America Power &amp; Gas LLC Privacy Policy | NAP
 
