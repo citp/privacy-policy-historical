@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughmanspank.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408131811id_/http%3A//roughmanspank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughmanspank.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127164813id_/http%3A//roughmanspank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
