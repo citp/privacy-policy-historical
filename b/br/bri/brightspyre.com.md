@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327144836id_/http%3A//www.brightspyre.com/policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127095534id_/http%3A//new.brightspyre.com/policy/index.php) for the most accurate reproduction.*
 
-# Contact Us
+# Privacy Policy
 
-|  |    
+| 
+
+Registered Users
+
+793,336
+
+Posted Jobs
+
+21,474
+
+  
 |  BrightSpyre Privacy Policy   
 ---  
    
@@ -106,7 +116,7 @@ Top
 
 If you have any queries or concerns about BrightSpyre.com  then please do not feel hesitant to email us at [support@BrightSpyre.com ](mailto:support@BrightSpyre.com). 
 
-**Office Address:** **** 205-D, 2nd Floor, Evacuee Trust Complex, Aga Khan Road , F-5/1, Islamabad . 
+**Office Address:** **** #51, Street 36, F-6/1, Islamabad . 
 
 BrightSpyre is Pakistan 's leading online hiring portal. It is completely owned and operated by [**Cogilent Solutions.**](http://www.cogilent.com/)  
   
@@ -115,4 +125,4 @@ Top
 * * *  
   
   
-| 
+
