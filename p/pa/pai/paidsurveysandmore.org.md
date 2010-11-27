@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveysandmore.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618172205id_/http%3A//paidsurveysandmore.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveysandmore.org privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127230654id_/http%3A//paidsurveysandmore.org/privacy.html) for the most accurate reproduction.*
 
 # Paid Surveys and More - Privacy Policy
 
@@ -35,7 +35,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) used for the transaction will not be stored on our servers.
 
  **Do we use cookies?**
 
@@ -43,7 +43,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
  **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We may use your information in our e-mail marketing, telemarketing, text messaging, and direct mail marketing programs. We may also transfer your personally identifiable information trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. Additionally, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
  **Third party links**
 
@@ -51,7 +51,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
  **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act.
 
  **Childrens Online Privacy Protection Act Compliance**
 
@@ -65,7 +65,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **11-05-2009**
+This policy was last modified on **10-11-2010**
 
  **Contacting Us**
 
