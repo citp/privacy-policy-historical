@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rightsite.asia privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618090657id_/http%3A//rightsite.asia/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightsite.asia privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127142018id_/http%3A//rightsite.asia/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RightSite.asia
+# Privacy Policy | China Industrial Space
 
 (Updated on July 7, 2008) This is the Privacy Policy governing your use of the RightSite.AsiaSite. By using this Site, you consent to our Privacy Policy set outbelow. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and RightSite which by use of this Site you agree to accept.
 
