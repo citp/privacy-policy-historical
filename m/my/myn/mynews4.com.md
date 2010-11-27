@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynews4.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528020049id_/http%3A//www.mynews4.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynews4.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127070842id_/http%3A//www.mynews4.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - My News 4
+# Privacy Policy - My News 4 - KRNV, Reno, NV
 
 [Home](https://web.archive.org/index.php)»[Privacy Policy](https://web.archive.org/privacy.php)
 
