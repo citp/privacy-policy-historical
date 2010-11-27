@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinballpublishernetwork.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510130345id_/http%3A//www.pinballpublishernetwork.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinballpublishernetwork.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127232240id_/http%3A//www.pinballpublishernetwork.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pinball Publisher Network
 
