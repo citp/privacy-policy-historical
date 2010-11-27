@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 8newsnow.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608034329id_/http%3A//www.8newsnow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8newsnow.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127200006id_/http%3A//www.8newsnow.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
-# This Web Site’s Privacy Policy - KLAS-TV Channel 8 News Las Vegas
+# This Web Site’s Privacy Policy
 
 This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
