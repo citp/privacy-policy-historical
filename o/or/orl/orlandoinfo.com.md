@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220081050id_/http%3A//www.orlandoinfo.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127210902id_/http%3A//www.orlandoinfo.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
