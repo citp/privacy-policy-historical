@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525194220id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127153603id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
 
 # BAILII - Privacy Policy
 
@@ -12,6 +12,8 @@ BAILII's privacy policies are based on respect for international standards of in
 
 **A3.** BAILII reserves the right to gather more extensive information that stated above (i) about any attempted access to BAILII which raise security issues (and, where necessary, to make disclosures to relevent authorities); and (ii) for network analyses on an occasional basis.
 
+**A4.** BAILII may use and disclose usage information on an anonymous and aggregated basis in support of fund-raising requests. BAILII may also use aggregated usage information for particular organisations in support of fund-raising requests made to those organisations. 
+
 ## B. Personal information contained in BAILII databases
 
 **B1.** Some BAILII databases contain personal information, including the decisions of Courts and Tribunals, and the reports of Royal Commissions. BAILII publishes these databases with the consent of the public bodies concerned. It is the responsibility of the public bodies which provide these databases to BAILII to determine, subject to the requirements of the laws under which they operate, the appropriate balance between the privacy interests of individuals and the public interests in dissemination of the information. In particular, if personal data is to be anonymised before publication, this is done by the public body concerned. BAILII does not and can not censor part or all of the information provided by these public bodies for publication.
@@ -24,7 +26,7 @@ BAILII also monitors whether any robots attempt to index these databases in disr
 
 **BAILII reserves the right to exclude access to its databases by users or sites that are in apparent breach of any such legal requirements.**
 
-If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20100525194220id_/http%3A//www.bailii.org/bailii/feedback.html).
+If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20101127153603id_/http%3A//www.bailii.org/bailii/feedback.html).
 
 * * *
 
