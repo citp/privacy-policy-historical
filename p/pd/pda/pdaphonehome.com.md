@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430072827id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127114612id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PDAPhoneHome.com - Privacy Policy
 
@@ -7,19 +7,20 @@
   
 |  **» Current Poll**  
 ---  
-What's your impression of the Omnia2  
-Well worth the wait. Couldn't be happier.  
-Very nice. But, some improvements needed.  
-Sweet. But missing some important features.  
-This is going to take some getting used to.  
-I'm just not sure I want to keep this one.  
-Where's my reciept. I'm sending it back!  
+Which free iPhone case are you ordering from Apple?  
+Apple iPhone Bumper  
+Incase Snap Case for iPhone 4  
+Belkin Shield Micra for iPhone 4  
+Griffin Motif iPhone 4  
+Griffin Reveal Etch iPhone 4  
+Speck Fitted Case iPhone 4  
+Speck PixelSkin HD iPhone 4  
   
-» [View Poll Results](http://pdaphonehome.com/forums/samsung-i920-omnia-2/poll-607-what-s-your-impression-omnia2.html)
+» [View Poll Results](http://pdaphonehome.com/forums/apple-iphone-i-phone/poll-612-free-iphone-case-you-ordering-apple.html)
 
-» [Discuss This Poll](http://pdaphonehome.com/forums/newreply.php?t=140802)
+» [Discuss This Poll](http://pdaphonehome.com/forums/newreply.php?t=150813)
 
-» [This Poll Has 10 Replies](http://pdaphonehome.com/forums/samsung-i920-omnia-2/140802-what-s-your-first-impression-omnia-2-a.html)  
+» [This Poll Has 16 Replies](http://pdaphonehome.com/forums/apple-iphone-i-phone/150813-get-your-free-iphone-4-case-now.html)  
   
 **» Site Navigation**  
 ---  
@@ -84,14 +85,14 @@ Where's my reciept. I'm sending it back!
 
 » [PDAPhoneHome News Archive](https://web.archive.org/index.php?page=news)  
   
-**» April 2010**  
+**» November 2010**  
 ---  
 S | M | T | W | T | F | S  
-28| 29| 30| 31|  1  |  2  |  3   
-4  |  5  |  6  |  7  |  8  |  9  |  10   
-11  |  12  |  13  |  14  |  15  |  16  |  17   
-18  |  19  |  20  |  21  |  22  |  23  |  24   
-25  |  26  |  27  |  28  |  29  |  30  | 1  
+31|  1  |  2  |  3  |  4  |  5  |  6   
+7  |  8  |  9  |  10  |  11  |  12  |  13   
+14  |  15  |  16  |  17  |  18  |  19  |  20   
+21  |  22  |  23  |  24  |  25  |  26  |  27   
+28  |  29  |  30  | 1| 2| 3| 4  
   
 **» Advertiser**  
 ---  
@@ -100,35 +101,40 @@ S | M | T | W | T | F | S
   
 **» Today's Birthdays**  
 ---  
-[crimsond](http://pdaphonehome.com/forums/members/crimsond.html)  
-[robert_S](http://pdaphonehome.com/forums/members/robert_s.html) (59)  
-[uncadee](http://pdaphonehome.com/forums/members/uncadee.html) (58)  
-[BluewaterRocket](http://pdaphonehome.com/forums/members/bluewaterrocket.html) (50)  
-[Kreigz](http://pdaphonehome.com/forums/members/kreigz.html) (47)  
-[lattitude](http://pdaphonehome.com/forums/members/lattitude.html) (45)  
-[BubbaGump](http://pdaphonehome.com/forums/members/bubbagump.html) (45)  
-[geraxil](http://pdaphonehome.com/forums/members/geraxil.html) (44)  
-[hello_taylor](http://pdaphonehome.com/forums/members/hello_taylor.html) (44)  
-[inthedash](http://pdaphonehome.com/forums/members/inthedash.html) (44)  
-[chris_yumyuk](http://pdaphonehome.com/forums/members/chris_yumyuk.html) (44)  
-[nubian](http://pdaphonehome.com/forums/members/nubian.html) (41)  
-[mnguvo](http://pdaphonehome.com/forums/members/mnguvo.html) (41)  
-[tekbench](http://pdaphonehome.com/forums/members/tekbench.html) (39)  
-[rsaro](http://pdaphonehome.com/forums/members/rsaro.html) (39)  
-[Streaks](http://pdaphonehome.com/forums/members/streaks.html) (38)  
-[amanaf](http://pdaphonehome.com/forums/members/amanaf.html) (36)  
-[dlausted](http://pdaphonehome.com/forums/members/dlausted.html) (32)  
-[hayabusa](http://pdaphonehome.com/forums/members/hayabusa.html) (29)  
-[frontside777](http://pdaphonehome.com/forums/members/frontside777.html) (28)  
-[PrInCiPeSsA32](http://pdaphonehome.com/forums/members/principessa32.html) (28)  
-[RIDDICK_2006](http://pdaphonehome.com/forums/members/riddick_2006.html) (24)  
-[drprince](http://pdaphonehome.com/forums/members/drprince.html) (22)   
+[indharu](http://pdaphonehome.com/forums/members/indharu.html)  
+[benwu](http://pdaphonehome.com/forums/members/benwu.html)  
+[IndigoTea](http://pdaphonehome.com/forums/members/indigotea.html)  
+[Curious Cat](http://pdaphonehome.com/forums/members/curious-cat.html)  
+[pilaftank](http://pdaphonehome.com/forums/members/pilaftank.html)  
+[vhardison](http://pdaphonehome.com/forums/members/vhardison.html) (55)  
+[Daneel](http://pdaphonehome.com/forums/members/daneel.html) (55)  
+[jamesmark](http://pdaphonehome.com/forums/members/jamesmark.html) (52)  
+[coneman1](http://pdaphonehome.com/forums/members/coneman1.html) (52)  
+[baroque](http://pdaphonehome.com/forums/members/baroque.html) (51)  
+[yehia farrag](http://pdaphonehome.com/forums/members/yehia-farrag.html) (51)  
+[kawasakii9](http://pdaphonehome.com/forums/members/kawasakii9.html) (50)  
+[arky](http://pdaphonehome.com/forums/members/arky.html) (49)  
+[hermitnerd](http://pdaphonehome.com/forums/members/hermitnerd.html) (43)  
+[gadget_andy](http://pdaphonehome.com/forums/members/gadget_andy.html) (43)  
+[elwuero](http://pdaphonehome.com/forums/members/elwuero.html) (42)  
+[wild2krzy](http://pdaphonehome.com/forums/members/wild2krzy.html) (41)  
+[rusilly](http://pdaphonehome.com/forums/members/rusilly.html) (39)  
+[gslim](http://pdaphonehome.com/forums/members/gslim.html) (37)  
+[mystic](http://pdaphonehome.com/forums/members/mystic.html) (36)  
+[vodka](http://pdaphonehome.com/forums/members/vodka.html) (36)  
+[twinty7](http://pdaphonehome.com/forums/members/twinty7.html) (35)  
+[Higgins](http://pdaphonehome.com/forums/members/higgins.html) (35)  
+[cabbvzla](http://pdaphonehome.com/forums/members/cabbvzla.html) (32)  
+[Remi_357](http://pdaphonehome.com/forums/members/remi_357.html) (29)  
+[DrNick](http://pdaphonehome.com/forums/members/drnick.html) (29)  
+[r-33-i500](http://pdaphonehome.com/forums/members/r-33-i500.html) (28)  
+[skylineawd](http://pdaphonehome.com/forums/members/skylineawd.html) (26)   
   
-**»[Online Users: 412](http://pdaphonehome.com/forums/online.php)**  
+**»[Online Users: 351](http://pdaphonehome.com/forums/online.php)**  
 ---  
-1 members and 411 guests  
-[briddot](http://pdaphonehome.com/forums/members/briddot.html)  
-Most users ever online was 2605, 03-10-2008 at 03:24 PM.  
+5 members and 346 guests  
+[Appastearnems](http://pdaphonehome.com/forums/members/appastearnems.html), [erdikcopp](http://pdaphonehome.com/forums/members/erdikcopp.html), [Mubeffothemef](http://pdaphonehome.com/forums/members/mubeffothemef.html), [Roavadadade](http://pdaphonehome.com/forums/members/roavadadade.html), [tahirj4u](http://pdaphonehome.com/forums/members/tahirj4u.html)  
+Most users ever online was 2605, 03-10-2008 at 04:24 PM.  
   
 **»[Search Forums](http://pdaphonehome.com/forums/search.php)**  
 ---  
@@ -161,7 +167,7 @@ This policy applies to the **pdaPhoneHome** web site and only webpages that cont
 
 
   * pdaPhoneHome does not rent, sell, or share personal information about you with other people or other companies except to provide products or services you've requested, when we have your permission, or under special circumstances such as legal proceedings and investigations, or mergers.
-  * pdaPhoneHome uses ad servers and ad server companies to bring you advertising that may be of interest to you. As a result of your visit to our site, the ad server companies may collect information such as your domain type, your IP address and clickstream information. The ad server companies may also collect personal information from you when you interact with the other linked sites. You should refer to the privacy policies of the ad server companies and the other linked sites to determine how your personal information is handled. pdaPhoneHome will provide a list of the ad server companies being used upon request. The ad server companies used may change without notice.
+  * pdaPhoneHome uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). You should refer to the privacy policies of the the third-party advertising companies and the other linked sites to determine how your personal information is handled by those sites. pdaPhoneHome will provide a list of the third-party advertising companies being used upon request. The third-party advertising companies used may change without notice. 
 
   
   
@@ -216,7 +222,7 @@ This policy applies to the **pdaPhoneHome** web site and only webpages that cont
   
   
   
-All times are GMT -5. The time now is 02:28 AM.
+All times are GMT -5. The time now is 06:46 AM.
 
   
 
