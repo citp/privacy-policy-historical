@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the lubeyourtube.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128061542id_/http%3A//lubeyourtube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubeyourtube.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127153801id_/http%3A//www.lubeyourtube.com/static/privacy) for the most accurate reproduction.*
 
-# LubeYourTube
+# Privacy Policy - LubeYourTube
 
 ## LubeYourTube Privacy Policy
 
 ### The Information LubeYourTube Collects:
 
-#### User Provided Information – 
+#### User Provided Information - 
 
 You provide certain personally identifiable information (such as your name, email and in some cases mailing address) to LubeYourTube when choosing to participate in various activities on the LubeYourTube Sites such as uploading videos, posting messages in our forums or in the photo/video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
 
-#### Cookies Information –
+#### Cookies Information -
 
 When you visit the LubeYourTube Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. LubeYourTube uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the LubeYourTube Sites may not function properly if the ability to accept cookies is disabled.
 
-#### Log File Information –
+#### Log File Information -
 
 When you visit the LubeYourTube Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
