@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carlsjr.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621034832id_/http%3A//www.carlsjr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlsjr.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127074042id_/http%3A//www.carlsjr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Carl’s Jr.
+# Carl’s Jr.®
 
 Please carefully read this privacy policy applicable to Carl's Jr.® website. By using this site, you agree to the following:
 
@@ -26,9 +26,9 @@ It is the policy of Carl's Jr. that visitors under 18 years of age should not su
 
 Your access to and use of this site is subject to the above privacy terms and conditions and all applicable laws. By accessing and browsing this site, you accept, without limitation or qualification, these terms and conditions. Carl's Jr. may at any time revise these privacy terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current privacy terms and conditions to which you are bound. If you have questions regarding the privacy policy, please click the "Contact" link on this website or write:
 
-Guest Relations  
-100 North Broadway  
-Suite 1200  
-St. Louis, Missouri 63102
+Guest Relations   
+100 North Broadway   
+Suite 1200   
+St. Louis, Missori 63102 
 
-This policy is effective as of October 29, 2008.
+This policy is effective as of October 29, 2008. 
