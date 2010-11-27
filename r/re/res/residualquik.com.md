@@ -1,0 +1,10 @@
+> *The following text is extracted and transformed from the residualquik.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127144741id_/http%3A//residualquik.com/privacy.php) for the most accurate reproduction.*
+
+# ResidualQUIK - The Ultimate Residual Income Program and Advertising Portal!
+
+  
+Our privacy policy is a simple one. The information we collect about you will always be kept confidential and not released to anyone. 
+
+We will not post your personal information, nor sell it or give it away. Your personal information (name & email) will only be accessible to ResidualQUIK and your direct sponsor.
+
+This policy becomes void if the member finds themselves in legal trouble with authorities under which circumstances we may have no choice but to forward your personal information on to the appropriate authorities for investigation.
