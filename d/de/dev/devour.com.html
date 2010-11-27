@@ -1,0 +1,281 @@
+<!--The following is the downloaded HTML source of the devour.com privacy policy that was archived on 2010-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127053302id_/http%3A//devour.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Devour Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index, follow">
+<meta name="description" content="Devour scours the web for awesome videos. You know, the ones actually worth watching.">
+<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
+<link rel="stylesheet" type="text/css" href="/css/devour.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/default.css" title="default" media="screen">
+<link rel="alternate stylesheet" type="text/css" href="/css/bricks.css" title="bricks" media="screen">
+<link rel="alternate stylesheet" type="text/css" href="/css/black.css" title="black" media="screen">
+<link rel="alternate stylesheet" type="text/css" href="/css/drkwood.css" title="drkwood" media="screen">
+<link rel="alternate stylesheet" type="text/css" href="/css/planks.css" title="planks" media="screen">
+<link rel="alternate stylesheet" type="text/css" href="/css/wallpaper.css" title="wallpaper" media="screen">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/css/ie.css" title="default" />
+<link rel="alternate stylesheet" type="text/css" href="/css/ie.css" title="bricks" media="screen" />
+<link rel="alternate stylesheet" type="text/css" href="/css/ie.css" title="drkwood" media="screen" />
+<link rel="alternate stylesheet" type="text/css" href="/css/ie.css" title="planks" media="screen" />
+<link rel="alternate stylesheet" type="text/css" href="/css/ie.css" title="wallpaper" media="screen" />
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/devourfeed">
+<link rel="prefetch" href="/more/">
+<!--[if lt IE 7]>
+<script type="text/javascript" src="/js/pngfix.js"></script>
+<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/mfl8plc.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/stylesheetToggle.js"></script>
+<script type="text/javascript">
+  $(function() {
+  	var zIndexNumber = 1000;
+  	$('div').each(function() {
+  		$(this).css('zIndex', zIndexNumber);
+  		zIndexNumber -= 10;
+  	});
+  	$.stylesheetInit();
+  	$('.styleswitch').bind(
+  			'click',
+  			function(e)
+  			{
+  				$.stylesheetSwitch(this.getAttribute('rel'));
+  				return false;
+  			}
+  		);
+  });
+  $(document).ready(function() {
+     $(".parents-toggle > a, a.close-toggle").click(function () {
+        $("div.menu-toggle").not($(this).siblings()).hide();
+        $(this).siblings(".menu-toggle").toggle();
+        return false;
+     });
+  });
+
+function search(search_form) {
+    search_form.submit.disabled = true;
+    var query = search_form.query.value;
+    query = URLEncode(query);
+    window.location = "http://devour.com/search/" + query + "/";
+    return false;
+}
+
+
+function URLEncode(url) //Function to encode URL.
+{
+// The Javascript escape and unescape functions do not correspond
+// with what browsers actually do...
+var SAFECHARS = "0123456789" + // Numeric
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ" + // Alphabetic
+"abcdefghijklmnopqrstuvwxyz" +
+"-_.!~*'()"; // RFC2396 Mark characters
+var HEX = "0123456789ABCDEF";
+
+var plaintext = url;
+var encoded = "";
+for (var i = 0; i < plaintext.length; i++ ) {
+var ch = plaintext.charAt(i);
+if (ch == " ") {
+encoded += "+"; // x-www-urlencoded, rather than %20
+} else if (SAFECHARS.indexOf(ch) != -1) {
+encoded += ch;
+} else {
+var charCode = ch.charCodeAt(0);
+if (charCode > 255) {
+alert( "Unicode Character '"
++ ch
++ "' cannot be encoded using standard URL encoding.\n" +
+"(URL encoding only supports 8-bit characters.)\n" +
+"A space (+) will be substituted." );
+encoded += "+";
+} else {
+encoded += "%";
+encoded += HEX.charAt((charCode >> 4) & 0xF);
+encoded += HEX.charAt(charCode & 0xF);
+}
+}
+}
+
+return encoded;
+}; 
+</script>
+
+<script type="text/javascript">
+var img = new Image();
+if (typeof commenter_id == 'undefined') { var commenter_id = ''; }
+img.src = "http://devour.com/stats.php?u=" + escape(document.location.href) + "&r=" + escape(document.referrer) + "&a=" + commenter_id + "&b=25&t=entry&i=27292";
+</script>
+
+
+
+
+</head>
+
+<body>
+
+<!-- By the power of Grayskull... -->
+
+<div id="universe" style="z-index: 1000;"> 
+
+<div id="eternia" style="z-index: 990;">
+
+<div id="avion" style="z-index: 980;"> 
+
+<div class="logo" style="z-index: 970;"> 
+<a href="/"><img src="/i/devour.png" width="305" height="54" border="0" alt="Devour"></a> 
+</div>
+
+<div class="search" style="z-index: 960;"> 
+<form method="get" action="/search" id="searchform" name="searchform" onsubmit="return search(this)"> 
+<input name="query" id="searchbox" type="text"> 
+<button type="submit" id="search-btn" name="go"></button>
+</form> 
+</div>
+
+<div class="nav" style="z-index: 950;"> 
+  <div class="nav1" style="z-index: 940;"> 
+    <div class="parents-toggle" style="z-index: 930;">
+      <a href="#" id="customize-toggle">Customize</a><br>
+        <div class="menu-toggle hidden" id="customize-menu" style="z-index: 920;">
+          <div class="menu-toggle-one" style="z-index: 910;">
+            <h3>Background</h3>
+            <ul>
+              <li><a href="#" rel="drkwood" class="styleswitch"><img src="/i/c-drk-wood.jpg" alt="Dark Wood">Dark Wood</a></li>
+              <li><a href="#" rel="wallpaper" class="styleswitch"><img src="/i/c-wallpaper.jpg" alt="Wallpaper">Wallpaper</a></li>
+              <li><a href="#" rel="bricks" class="styleswitch"><img src="/i/c-bricks.jpg" alt="Bricks">Brick Wall</a></li>
+              <li><a href="#" rel="planks" class="styleswitch"><img src="/i/c-planks.jpg" alt="Planks">Wood Planks</a></li>
+              <li><a href="#" rel="black" class="styleswitch"><img src="/i/c-black.gif" alt="Black">Solid Black</a></li>                     
+              <li><a href="#" rel="default" class="styleswitch"><img src="/i/c-default.gif" alt="Default">Solid White</a></li>                     
+            </ul>
+          </div>
+          <div class="menu-toggle-two" style="z-index: 900;">
+            <h3>Layout</h3>
+              <ul>
+                <li><a href="http://devour.com/"><img src="/i/c-grid.jpg" alt="Grid">Grid</a></li>
+                <li><a href="#"><img src="/i/c-list.jpg" alt="List">List (soon)</a></li>
+                <li><a href="#"><img src="/i/c-full.jpg" alt="Full">Full (soon)</a></li>
+              </ul>
+          </div>   
+        <a href="#" class="close-toggle">Close (X)</a>
+        </div>
+      </div>  
+    <a href="/submit/" id="sub-video">Submit video</a><br>
+    <div class="parents-toggle" style="z-index: 890;">
+      <a href="#" id="channels-toggle">Channels</a>
+      <div class="menu-toggle hidden" id="channels-menu" style="z-index: 880;">
+        <div class="menu-toggle-one" style="z-index: 870;">
+            			<ul>
+              <li><a href="/animals/" title="Animals">Animals</a></li>
+              <li><a href="/art/" title="Art &amp; Design">Art &amp; Design</a></li>
+              <li><a href="/autos/" title="Autos &amp; Vehicles">Autos &amp; Vehicles</a></li>
+              <li><a href="/comedy/" title="Comedy">Comedy</a></li>
+              <li><a href="/commercials/" title="Commercials">Commercials</a></li>
+              <li><a href="/diy/" title="DIY &amp; Education">DIY &amp; Education</a></li>
+              <li><a href="/documentaries/" title="Documentaries">Documentaries</a></li>
+              <li><a href="/food/" title="Food">Food</a></li>
+              <li><a href="/games/" title="Games">Games</a></li>
+            </ul>
+        </div>    
+        <div class="menu-toggle-two" style="z-index: 860;">
+            <ul>
+              <li><a href="/movies/" title="Movies">Movies</a></li>
+              <li><a href="/music/" title="Music">Music</a></li>
+              <li><a href="/nature/" title="Nature">Nature</a></li>
+              <li><a href="/people/" title="People">People</a></li>
+              <li><a href="/shorts/" title="Short Films">Short Films</a></li>
+              <li><a href="/sports/" title="Sports">Sports</a></li>
+              <li><a href="/tech/" title="Tech &amp; Science">Tech &amp; Science</a></li>
+              <li><a href="/travel/" title="Travel &amp; Events">Travel &amp; Events</a></li>
+              <li><a href="/tv/" title="TV">TV</a></li>
+            </ul>
+        </div>   
+        <a href="#" class="close-toggle">Close (X)</a>
+      </div>
+    </div>
+  </div>
+  <div class="nav2" style="z-index: 850;"> 
+    <a href="http://facebook.com/devour">Facebook</a><br>
+    <a href="http://twitter.com/devour">Twitter</a><br>
+    <a href="/subscribe/">Subscribe</a>
+  </div>
+  <div class="nav3" style="z-index: 840;"> 
+    <a href="/about/">About us</a><br>
+	<a href="/contact/">Contact us</a><br>
+	<a href="http://www.uncrate.com">Uncrate</a>
+  </div>
+</div>
+
+</div>
+
+<!-- I have the power! -->
+
+
+
+
+
+<h1>Devour Privacy Policy</h1>
+<p>The policies below are applicable to Devour.com. Any questions or comments you may have regarding this privacy policy, contact <a href="http://www.zombiecorp.com">Zombie Corp</a>.</p>
+
+<p>Zombie Corp respects each individual user's right to privacy. Zombie Corp and its sites do not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, giveaways, site registration, or use of public areas, such as a forum. Zombie Corp may use aggregate forms of this information — not individual data — for marketing and promotional purposes. Zombie Corp does not supply identifying information to other companies, or uses such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as notification of a winning entry in a contest or sweepstakes.) Zombie Corp is not responsible for any actions or policies of such companies.</p>
+
+<p>Zombie Corp uses reasonable precautions to keep the personal information disclosed to us secure. However, Zombie Corp is not responsible for any breach of security. If a Zombie Corp user knowingly provides personal information, such as a name or email address, in a forum or other public service, that user should be aware that the information provided can be collected and used by third parties. Such activities are beyond the control of Zombie Corp.</p>
+
+<p>Non-personal information and data may be automatically collected through the standard operation of Zombie Corp's Internet servers or through the use of "cookies." Cookies are small text files a web site places on your computer's hard drive to recognize repeat users and facilitate the user's use of the site. Also, cookies allow a site to track usage behavior and compile aggregate data for content improvement, targeted advertising, and marketing and promotional purposes. Users should be aware that Zombie Corp cannot control the use of cookies or the resulting information by advertisers or other third parties. Most browsers allow a user to deny cookies; however, users should note that cookies may be required to provide certain web site features.</p>
+
+<p>ATTENTION KIDS: No information should be submitted to Zombie Corp by children under 18 years of age without their parent's or guardian's consent. Zombie Corp does not monitor the age of its user audience.</p>
+
+<p>Zombie Corp reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
+
+</div> 
+
+</div> 
+
+ 
+
+<!-- I'll get you for this, He-Man! -->
+
+<div id="subternia" style="z-index: 830;"> 
+
+<div class="aquatica" style="z-index: 820;">
+
+<div class="copy" style="z-index: 810;"> 
+
+Copyright © MMX <a href="http://www.zombiecorp.com/" target="_blank">Zombiecorp</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/" rel="nofollow">About</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contact/" rel="nofollow">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/advertise/" rel="nofollow">Advertise</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy/" rel="nofollow">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/terms/" rel="nofollow">Terms</a>
+
+</div> 
+
+</div> 
+
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-255873-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" src="http://static.fmpub.net/site/devour"></script>
+
+<div class="sitemeter" style="z-index: 800;"> 
+<script type="text/javascript" src="http://s44.sitemeter.com/js/counter.js?site=s44devour">
+</script>
+<noscript>
+<a href="http://s44.sitemeter.com/stats.asp?site=s44devour" target="_top">
+<img src="http://s44.sitemeter.com/meter.asp?site=s44devour" alt="Site Meter" border="0"/></a>
+</noscript>
+</div>
+
+ 
+
+</body></html>
