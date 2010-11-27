@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616170524id_/http%3A//santaclaraca.gov/index.aspx%3Fpage%3D1224) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127033523id_/http%3A//santaclaraca.gov/index.aspx%3Fpage%3D1224) for the most accurate reproduction.*
 
-# City of Santa Clara, California : Privacy Policy
+# City of Santa Clara : Privacy Policy
 
 Your privacy is important to us. We have updated our Privacy Policy and are in full compliance with the [California Online Privacy Act of 2003](http://www.cooley.com/57676) and [California Senate Bill 1386](http://info.sen.ca.gov/pub/01-02/bill/sen/sb_1351-1400/sb_1386_bill_20020926_chaptered.html).
 
@@ -10,12 +10,25 @@ The City of Santa Clara (the City) has created this privacy statement in order t
 The City's goal in collecting personal information online is to provide you with the most effective service possible. By understanding your needs and preferences, the City will be in the better position to provide you with improved service. Our goal is to protect your online information in the same manner that we protect citizen and business information obtained through other means. 
 
 Personally Identifiable Information We Collect   
-Personal information we collect from you and store in our databases / servers:
+Personal information we collect from you and store in our databases/servers:
 
   * Your first and last name 
   * Your account personal identification number (PIN) 
   * Your client barcode (if applicable) 
   * Your email address 
+  * Your phone number
+  * Your business certificate account number
+  * Your preparer name, phone number and digital signature
+
+
+
+Information we capture but do not store in our databases/servers:
+
+  * Your credit card billing address 
+  * Your credit card type 
+  * Your credit card number and card security code (CSC)
+  * The name on your card 
+  * Your credit card expiration date 
 
 
 
