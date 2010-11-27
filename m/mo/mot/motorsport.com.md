@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110093440id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127032648id_/http%3A//motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
 
 # Motorsport.com: Corporate info
 
@@ -14,7 +14,14 @@ We send to your web browser many of the advertisements you see when you use our 
 
 Although most Motorsport.com customers indicate that they welcome details of offers and other promotional material about Motorsport.com products and services and products and services provided by our business partners and advertisers, we acknowledge the right of our customers to choose. You will be given the right to opt-out of receiving such information whenever you are asked to provide information on this site. If you do not opt-out at that time, but later decide that you do not wish to receive future communications of this nature you can contact us as set out below, indicating that you no longer want to receive: (1) information relating to products and services provided by other companies, or (2) any information relating to products and services (including Motorsport.com products and services).
 
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web site): [24/7 Real Media, Inc.](http://www.247realmedia.com/privacy.html)
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web site): [Google AdSense.](http://www.google.com/intl/en/privacypolicy.html)
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+  
+
 
 ## Forum and message boards
 
@@ -29,4 +36,4 @@ This site incorporates appropriate safeguards to protect the security, integrity
 Motorsport.com provides links to various Web sites that we do not control as well as to our sponsors. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that you selected. Even if an affiliation exists between our Web site and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to our site, you should consult that site's privacy policy before providing any personal information.  
 
 
-0.023
+0.004
