@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savagearms.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522235448id_/http%3A//www.savagearms.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savagearms.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127064702id_/http%3A//www.savagearms.com/privacypolicy) for the most accurate reproduction.*
 
 # Savage Arms > Privacy Policy
 
