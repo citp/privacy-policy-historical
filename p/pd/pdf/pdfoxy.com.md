@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdfoxy.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102014034id_/http%3A//pdfoxy.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfoxy.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127103049id_/http%3A//pdfoxy.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Free PDF Ebook Files Search - PDFoxy.com
+# Privacy Policy Free PDF Ebook Files Search and Download - PDFoxy.com
 
 Cookies are pieces of information that a web site can transfer to an individual's web browser on their computer hard drive for record keeping when you visit such sites or blog. Cookies can make using web sites easier by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes. 
 
