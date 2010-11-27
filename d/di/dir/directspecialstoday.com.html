@@ -1,16 +1,88 @@
-<!--The following is the downloaded HTML source of the directspecialstoday.com privacy policy that was archived on 2009-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091209123639id_/http%3A//www.directspecialstoday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directspecialstoday.com privacy policy that was archived on 2010-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127043848id_/http%3A//directspecialstoday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy | </title>
 	<meta http-equiv="content-language" content="en">
-	<meta name="description" content="Last Revised: October 1, 2009 This privacy policy (" policy")="" explains="" how="" personal="" information="" is="" collected,="" used,="" and="" disclosed="" by="" venice="" data="" llc="" (..."="">
+	<meta name="description" content="Last Revised: October 1, 2009 This privacy policy (" policy")="" explains="" how="" personal="" information="" is="" collected,="" used,="" and="" disclosed="" by="" direct="" specials="" to..."="">
 <meta name="keywords" content="">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link type="text/css" rel="stylesheet" media="all" href="/modules/admin/toolbar/admin_toolbar.css?a">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js?a"></script>
+	<script type="text/javascript" src="/sites/all/libraries/colorbox/colorbox/jquery.colorbox.js?a"></script>
+    <script type="text/javascript" src="/sites/all/libraries/innerfade/jquery.innerfade.js?a"></script>
+
+	    
+
+
+    
+	<script type="text/javascript">  
+
+		//read the coookie to see if we have already popped the signup form
+	function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+		
+		
+		function subscribePopup(){
+		if(readCookie('newsletter')!="newsletter") {
+		
+		$.fn.colorbox({href: 'http://www.directspecialstoday.com/subscribe.php', width:"350px", height:"250px", opacity: "0.4", iframe:true, open:true });
+
+		}
+		}
+		
+	
+	
+		//jQuery.noConflict();  
+		$(document).ready(function(){ 
+		
+			//popup subscribe that will pop every 40 days due to cookie being placed
+			//setTimeout('subscribePopup()',2000);
+			
+			//innerfade function to rotate through images. 
+			$('ul#banner').innerfade({
+			speed: 1000,
+			timeout: 4000,
+			type: 'sequence',
+			containerheight: '200px'
+			});
+
+			
+			//$.fn.colorbox({open:true, html:'<p>Hello</p>'});
+			//alert("Loaded");			
+			//$.fn.colorbox({href: 'http://www.directspecialstoday.com/subscribe.php', width:"350px", height:"250px", opacity: ".40", iframe:true, open:true });
+
+
+		});  
+		
+		
+
+		
+
+	</script>  
+   
+    
+    
+
+    
+    
+    
+    
+  	<link type="text/css" rel="stylesheet" media="all" href="/modules/admin/toolbar/admin_toolbar.css?a">
 <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?a">
 <link type="text/css" rel="stylesheet" media="all" href="/modules/cck/theme/content-module.css?a">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/colorbox/styles/default/colorbox_default_style.css?a">
 <link type="text/css" rel="stylesheet" media="all" href="/modules/ctools/css/ctools.css?a">
 <link type="text/css" rel="stylesheet" media="all" href="/modules/filefield/filefield.css?a">
 <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?a">
@@ -27,16 +99,22 @@
 <link type="text/css" rel="stylesheet" media="screen,projection" href="/themes/blueprint/css/blueprint.css?a">
 <link type="text/css" rel="stylesheet" media="screen,projection" href="/themes/blueprint/css/style.css?a">
 <link type="text/css" rel="stylesheet" media="print" href="/themes/blueprint/blueprint/blueprint/print.css?a">
-  <!--[if lte IE 7]>
-    <link rel="stylesheet" href="/themes/blueprint/blueprint/blueprint/ie.css" type="text/css" media="screen, projection">
-  	<link href="/themes/blueprint/css/ie.css" rel="stylesheet"  type="text/css"  media="screen, projection" />
-  <![endif]-->  
-  <!--[if lte IE 6]>
-  	<link href="/themes/blueprint/css/ie6.css" rel="stylesheet"  type="text/css"  media="screen, projection" />
-  <![endif]-->  
+  	<!--[if lte IE 7]>
+    	<link rel="stylesheet" href="/themes/blueprint/blueprint/blueprint/ie.css" type="text/css" media="screen, projection">
+  		<link href="/themes/blueprint/css/ie.css" rel="stylesheet"  type="text/css"  media="screen, projection" />
+  	<![endif]-->  
+  	<!--[if lte IE 6]>
+  		<link href="/themes/blueprint/css/ie6.css" rel="stylesheet"  type="text/css"  media="screen, projection" />
+  	<![endif]--> 
+    
+    
+
+
+    
 </head>
 
 <body class="not-front not-logged-in page-node node-type-page one-sidebar sidebar-right col-2 ">
+
 
 <div class="container">
   <div id="header">
@@ -44,8 +122,7 @@
 	          <a href="/" title="">
             <img src="/sites/default/files/blueprint_logo.png" alt="" id="logo">
           </a>
-	
-	
+		
 
 	<div class="navigation">
 	<a href="http://www.directspecialstoday.com/health-beauty" class="navigation">Health &amp; Beauty</a>
@@ -74,7 +151,7 @@
 
   <div class="content clear-block">
         <p style="color:#999999;">Last Revised: October 1, 2009
-</p><p>This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Venice Data LLC ("Venice Data," "we" or "us") with respect to your use of our Web site located at <a href="http://www.directspecialstoday.com" title="www.directspecialstoday.com">www.directspecialstoday.com</a> (the "Site") so you can make an informed decision about using our Site. By using our Site, you consent to the privacy practices described in this Policy, as may be modified by us from time to time.We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.</p>
+</p><p>This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Direct Specials Today ("Direct Specials Today" "we" or "us") with respect to your use of our Web site located at <a href="http://www.directspecialstoday.com" title="www.directspecialstoday.com">www.directspecialstoday.com</a> (the "Site") so you can make an informed decision about using our Site. By using our Site, you consent to the privacy practices described in this Policy, as may be modified by us from time to time.We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.</p>
 <h2>Collection And Use Of Personal Information</h2>
 <p><strong>Active Collection:</strong> Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, and other contact information when you register and set up an account or contact us by e-mail or other means through the Site. Personal and demographic information may also be collected if you provide such information in connection with submitting a review, posting comments or other content, creating a profile or group, applying for a job, sending an email or message to another user or participating in any interactive forums or features on the Site. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities that may appear form time to time on the Site.</p>
 <p><strong>Passive Collection:</strong> When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.</p>
@@ -92,10 +169,10 @@
 </ul>
 <p>Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you.</p>
 <h2>Information Sharing Or Disclosure</h2>
-<p>In the event that we contract with a third party to provide some part of the information or service that you have requested, Venice Data may provide your information to such third party, or such third party may collect information from you on our behalf. By written agreement, these third parties are required to implement similar security measures and to process your information only as authorized by Venice Data to fulfill the service(s) that they have been contracted to provide. Other than these entities, who act on our behalf, information you provide at this site will not be transferred to unrelated third parties, unless we have your permission to do so. However, please note that personal information provided to this site may be subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders.</p>
+<p>In the event that we contract with a third party to provide some part of the information or service that you have requested, Direct Specials Today may provide your information to such third party, or such third party may collect information from you on our behalf. By written agreement, these third parties are required to implement similar security measures and to process your information only as authorized by Direct Specials Today to fulfill the service(s) that they have been contracted to provide. Other than these entities, who act on our behalf, information you provide at this site will not be transferred to unrelated third parties, unless we have your permission to do so. However, please note that personal information provided to this site may be subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders.</p>
 <h2>What Personal Information Do We Share With Third Parties?</h2>
 <p>We will not share the personal information we collect from you through this Site with third parties except as described in this Policy, as it may be revised from time to time. We may share personal information with vendors, consultants and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Site or the services we provide and who need access to such information to carry out their work for us. In some cases, the Service Provider may be directly collecting the information from you on our behalf. We may also share personal information with other third parties when you give us your consent to do so. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. Nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent.</p>
-<p>We may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Venice Data, our users, our employees or the public, including without limitation to protect Venice Data or our users from fraudulent, abusive, inappropriate or unlawful use of our Site. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Venice Data.</p>
+<p>We may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Direct Specials Today, our users, our employees or the public, including without limitation to protect Direct Specials Today or our users from fraudulent, abusive, inappropriate or unlawful use of our Site. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Direct Specials Today.</p>
 <p>You understand that when you use the Site, information you post in your profile, reviews, forums and other interactive areas of the Site, as well as any information you share with individuals through the Site, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums. We are not responsible for the actions of any third parties with whom you share personal information.</p>
 <p>We may also share information about your online activities with third parties in order to help such third parties improve your experience on their sites, to allow such third parties to analyze data and trends and to personalize and improve their site content and features and deliver advertising and content targeted to your interests. Such information typically does not include personal information unless we first get your consent to share such personal information.</p>
 <h2>What Steps Do We Take To Protect Your Information Online?</h2>
@@ -108,8 +185,8 @@
 <p>If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at <a href="feedback@directspecialstoday.com">feedback@directspecialstoday.com</a> and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:</p>
 <p>Direct Specials Today<br>
 Attn: Privacy Policy<br>
-23638 W. Lyons Ave #468<br>
-Newhall, CA 91321</p>
+PO Box 5680<br>
+Santa Monica, CA 90409</p>
 <p>However, please note that in some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. </p>
   </div>
 
@@ -123,11 +200,73 @@ Newhall, CA 91321</p>
 
   <h3>Direct Specials Today Newsletter</h3>
 
-  <div class="content"><form action="http://venicedata.com/api/subscribe.php" method="post">
-<input type="textfield" name="e"><br>
-<input type="checkbox" name="third-party"><span class="font-size: 10px; font-family: Arial;">“I agree to receive third-party offers”</span><br>
-<input type="submit" name="submit" value="signup"><br>
+  <div class="content"><style type="text/css">
+
+	.myForm td, input, select, textarea, checkbox  {
+		font-family: tahoma;
+		font-size: 12px;
+	}
+
+	.required {
+		color: red;
+	}
+
+</style>
+<form method="post" action="http://www.directspecialstoday.com/emailmarketer/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);">
+	<table border="0" cellpadding="2" class="myForm">
+		<tbody><tr>
+	<td><span class="required">*</span>&nbsp; Email Address:</td>
+	<td><input type="text" name="email" value="" size="20"></td>
+</tr><tr>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;First Name:</td>
+	<td><input type="text" name="CustomFields[2]" id="CustomFields_2_1" value="" size="20"></td>
+</tr><tr>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;Last Name:</td>
+	<td><input type="text" name="CustomFields[3]" id="CustomFields_3_1" value="" size="20"></td>
+</tr><input type="hidden" name="format" value="h">
+		<tr>
+			<td></td>
+			<td>
+				<input type="submit" value="Subscribe">
+				<br>
+ <a href="http://directspecialstoday.com/privacy">Privacy</a>
+			</td>
+		</tr>
+	</tbody></table>
 </form>
+
+<script type="text/javascript">
+// <![CDATA[
+
+			function CheckMultiple1(frm, name) {
+				for (var i=0; i < frm.length; i++)
+				{
+					fldObj = frm.elements[i];
+					fldId = fldObj.id;
+					if (fldId) {
+						var fieldnamecheck=fldObj.id.indexOf(name);
+						if (fieldnamecheck != -1) {
+							if (fldObj.checked) {
+								return true;
+							}
+						}
+					}
+				}
+				return false;
+			}
+		function CheckForm1(f) {
+			var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+			if (!email_re.test(f.email.value)) {
+				alert("Please enter your email address.");
+				f.email.focus();
+				return false;
+			}
+		
+				return true;
+			}
+		
+// ]]>
+</script>
 </div>
   
 </div>
@@ -135,7 +274,7 @@ Newhall, CA 91321</p>
 
 
   <div class="content">
-<div class="advertisement group-tids-1" id="group-id-tids-1"><script type="text/javascript" src="http://www.directspecialstoday.com/modules/ad/serve.php?q=1&amp;t=1&amp;u=node%2F4"></script></div>
+<div class="advertisement group-tids-1" id="group-id-tids-1"><script type="text/javascript" src="http://directspecialstoday.com/modules/ad/serve.php?q=1&amp;t=1&amp;u=node%2F4"></script></div>
 </div>
   
 </div>
@@ -146,19 +285,19 @@ Newhall, CA 91321</p>
   <div class="content"><div class="weather">
   <p><strong>CA - Santa Monica, Santa Monica Municipal Airport</strong></p>
   <div style="text-align:center;">
-    <img src="/modules/weather/images/night-clear.png" width="64" height="64" alt="Clear sky" title="Clear sky">
+    <img src="/modules/weather/images/day-few.png" width="64" height="64" alt="Few clouds" title="Few clouds">
   </div>
   <ul>
-    <li>Clear sky</li>
-                  <li>Temperature: <span style="white-space:nowrap;">44.6 °F</span></li>
-                    <li>Wind: North-Northeast, <span style="white-space:nowrap;">5.6 km/h</span></li>
-              <li>Pressure: <span style="white-space:nowrap;">1019 hPa</span></li>
-              <li>Rel. Humidity: <span style="white-space:nowrap;">61 %</span></li>
+    <li>Few clouds</li>
+                  <li>Temperature: <span style="white-space:nowrap;">59 °F</span></li>
+                    <li>Wind: Variable, <span style="white-space:nowrap;">11.1 km/h</span></li>
+              <li>Pressure: <span style="white-space:nowrap;">1016 hPa</span></li>
+              <li>Rel. Humidity: <span style="white-space:nowrap;">67 %</span></li>
               <li>Visibility: <span style="white-space:nowrap;">16.1 km</span></li>
                   </ul>
         <small>
       Reported on:<br>
-      Wed, 12/09/2009 - 04:51    </small>
+      Mon, 11/08/2010 - 08:51    </small>
   </div>
 </div>
   
@@ -166,17 +305,6 @@ Newhall, CA 91321</p>
 </div>
   
   
-
-  <script type="text/javascript" src="/misc/jquery.js?a"></script>
-<script type="text/javascript" src="/misc/drupal.js?a"></script>
-<script type="text/javascript" src="/modules/admin/toolbar/admin_toolbar.js?a"></script>
-<script type="text/javascript" src="/modules/panels/js/panels.js?a"></script>
-<script type="text/javascript" src="/themes/blueprint/scripts/general.js?a"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/" });
-//--><!]]>
-</script>
   
 </div>
 
