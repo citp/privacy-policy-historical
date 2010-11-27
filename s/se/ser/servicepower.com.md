@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicepower.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618072726id_/http%3A//www.servicepower.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicepower.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127114821id_/http%3A//servicepower.com/privacy.shtml) for the most accurate reproduction.*
 
 # SERVICEPower - Privacy Policy
 
