@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620030457id_/http%3A//www.makingfriends.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127071711id_/http%3A//www.makingfriends.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -13,7 +13,8 @@ We may use your IP address to help diagnose problems with our server, and to adm
 
 Our site uses cookies to keep track of your shopping cart.
 
-Our site's registration form, on-line survey, and contest  forms may ask users to volunteer contact information (like their name and email address) and demographic information (like their zip code). This is all optional. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings by emailing [terri@makingfriends.com](mailto:terri@makingfriends.com). Profile data (like occupation) may be collected at our site. We use this data to tailor our site. This information may be shared with advertisers on an aggregate basis. 
+Our site's registration form, on-line survey, and contest  forms may ask users to volunteer contact information (like their name and email address) and demographic information (like their zip code). This is all optional. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings by emailing [terri@makingfriends.com](mailto:terri@makingfriends.com). Profile data (like occupation) may be collected at our site. We use this data to tailor our site. This information may be shared with advertisers on an aggregate basis. You can disable and/or opt out of cookie usage either through their browser preferences or through an opt out such as the Network Advertising site   
+(<http://www.networkadvertising.org/managing/opt_out.asp>).
 
 This site contains links to other sites. MakingFriends.com is not responsible for the privacy practices or the content of such websites.
 
