@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102133137id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127191651id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reviews | Features | Specifications | Drivers
+# Privacy Policy | Slayo.com
 
 **Slayo.com Privacy Statement**
 
