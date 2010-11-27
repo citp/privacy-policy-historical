@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520150116id_/http%3A//www.thechronicle.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127150340id_/http%3A//www.thechronicle.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Toowoomba Chronicle
 
