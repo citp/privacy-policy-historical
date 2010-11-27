@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kodakgallery.co.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528055222id_/http%3A//www.kodak.com/eknec/PageQuerier.jhtml%3Fpq-path%3D7797%26pq-locale%3Den_US%26CID%3Dgo%26idhbx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kodakgallery.co.uk privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127024225id_/http%3A//www.kodak.com/eknec/PageQuerier.jhtml%3Fpq-path%3D7797%26pq-locale%3Den_US%26CID%3Dgo%26idhbx%3Dprivacy) for the most accurate reproduction.*
 
 # Summary Online Privacy Notice
 
-|  (Revised September 26, 2009) |  This statement applies to information collected about consumers on the kodak.com and kodakgallery.com websites. For exceptions, Click [here](https://web.archive.org/eknec/PageQuerier.jhtml?pq-path=7798&pq-locale=en_US#Scope). Kodak.com and kodakgallery.com is also referred to as "Kodak", 'we' and "us" in this notice.   
+|  (Revised September 2, 2010) |  This statement applies to information collected about consumers on the kodak.com and kodakgallery.com websites. For exceptions, Click [here](https://web.archive.org/eknec/PageQuerier.jhtml?pq-path=7798&pq-locale=en_US#Scope). Kodak.com and kodakgallery.com is also referred to as "Kodak", 'we' and "us" in this notice.   
 ---|---  
   
   * We collect information you choose to submit during your registration.
