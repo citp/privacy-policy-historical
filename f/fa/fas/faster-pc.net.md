@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faster-pc.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210434id_/http%3A//faster-pc.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faster-pc.net privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127193313id_/http%3A//www.faster-pc.net/privacy) for the most accurate reproduction.*
 
 # Faster-PC.net Privacy Policy
 
