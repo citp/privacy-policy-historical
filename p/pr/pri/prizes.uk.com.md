@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizes.uk.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623081137id_/http%3A//prizes.uk.com/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizes.uk.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127125041id_/http%3A//prizes.uk.com/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
