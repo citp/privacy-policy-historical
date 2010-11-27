@@ -1,321 +1,79 @@
-<!--The following is the downloaded HTML source of the shell-livewire.org privacy policy that was archived on 2010-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621072514id_/http%3A//www.shell-livewire.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shell-livewire.org privacy policy that was archived on 2010-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127130203id_/http%3A//www.shell-livewire.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-gb"><head>
-  <title>Home - Privacy Policy</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="keywords" content="">
-  <meta name="description" content="">
-  <link rel="stylesheet" href="/styles/reset-fonts.css" type="text/css">
-  <link rel="stylesheet" href="/styles/default.css" type="text/css">
-      <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie6.css" /><![endif]-->
-  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie7.css" /><![endif]-->
-  <script type="text/javascript" src="/javascript/swfobject.js"></script>
-  <script type="text/javascript" src="/javascript/jquery.js"></script>
-  <script type="text/javascript" src="/common/shadowbox/build/adapter/shadowbox-jquery.js"></script>
-  <script type="text/javascript" src="/common/shadowbox/build/shadowbox.js"></script>
-  <script type="text/javascript" src="/javascript/jquery.easing.js"></script>
-  
-    <script type="text/javascript" src="/javascript/interface-custom.js"></script>
-  <script type="text/javascript" src="/javascript/ui.core.js"></script>
-  <script type="text/javascript" src="/javascript/ui.tabs.min.js"></script>
-    <script type="text/javascript" src="/javascript/jquery.cycle.all.min.js"></script>
-    <script type="text/javascript" src="/javascript/jquery.flow.1.2.min.js"></script>
-  <script type="text/javascript" src="/javascript/pause.js"></script>
-  <script type="text/javascript" src="/javascript/functions.js"></script>
-  <script type="text/javascript" src="/javascript/iepngfix_tilebg.js"></script>
-  
+<title>Home - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link href="http://www.shell-livewire.org/news.xml" rel="alternate" type="application/rss+xml" title="Shell LiveWIRE News">
 
+<link rel="stylesheet" href="/styles/reset-fonts.css" type="text/css">
+<link rel="stylesheet" href="/styles/default.css" type="text/css">
+        <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie6.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie7.css" /><![endif]-->
+    <script type="text/javascript" src="/javascript/swfobject.js"></script>
+    <script type="text/javascript" src="/javascript/jquery.js"></script>
+    <script type="text/javascript" src="/common/shadowbox/build/adapter/shadowbox-jquery.js"></script>
+    <script type="text/javascript" src="/common/shadowbox/build/shadowbox.js"></script>
+    <script type="text/javascript" src="/javascript/jquery.easing.js"></script>
+        <script type="text/javascript" src="/javascript/interface-custom.js"></script>
+    <script type="text/javascript" src="/javascript/ui.core.js"></script>
+    <script type="text/javascript" src="/javascript/ui.tabs.min.js"></script>
+        <script type="text/javascript" src="/javascript/jquery.cycle.all.min.js"></script>
+        <script type="text/javascript" src="/javascript/jquery.flow.1.2.min.js"></script>
+    <script type="text/javascript" src="/javascript/pause.js"></script>
+    <script type="text/javascript" src="/javascript/functions.js"></script>
+    <script type="text/javascript" src="/javascript/iepngfix_tilebg.js"></script>
+    <script type="text/javascript">                                         
+		</script>
+    </head>
+<body>
+	<div id="layout">
+		<div id="page_header">
+    	<a href="/" id="header_logo" title="Link to Shell LiveWIRE's Homepage"></a>
+    	<div id="header_right">
 
-  <script type="text/javascript">                                         
-
-$(document).ready(function() {
-
-  // advert toggle
-  $("#footer_adverts_toggle").click(function() {
-   if ($("#footer_adverts").css("display") == "block") {
-    $("#footer_adverts").animate({height:"hide",opacity:"hide"},"slow");
-    $.get("/process.php",{action:"adtoggle",option:"hide"});
-    $("#footer_adverts_toggle").attr({value:"Open Ads"});
-   } else {
-    $("#footer_adverts").animate({height:"show",opacity:"show"},"slow");
-    $.get("/process.php",{action:"adtoggle",option:"show"});
-    $("#footer_adverts_toggle").attr({value:"Close Ads"});
-   }
-   return false;
-  });
-
-  // hide page editor save button (present to allow for non-javascript users)
-  $("#footer_editor_save_container").hide();
-  $("#feed_editor").hide();
-  $("#bop_editor").hide();
-  
-  $("#footer_editor_amend").click(function() {
-   $("#footer_editor_save").click();
-   return false;
-  });
-  
-  // page editor toggle
-  $("#footer_editor_toggle").click(function() {
-   if ($("#footer_editor").css("display") == "block") {
-    $("#footer_editor").animate({height:"hide",opacity:"hide"},"slow");
-    $("#footer_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
-    $.get("/process.php",{action:'editortoggle',option:"hide"});
-   } else {
-    $("#footer_editor").animate({height:"show",opacity:"show"},"slow");
-    $("#footer_editor_toggle_container").animate({height:"hide",opacity:"hide"},"fast");
-    $.get("/process.php",{action:"editortoggle",option:"show"});
-   }
-   return false;
-  });
-
-  // page editor close
-  $("#footer_editor_close").click(function() {
-   $("#footer_editor").animate({height:"hide",opacity:"hide"},"slow");
-   $("#footer_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
-   $.get("/process.php",{action:'editortoggle',option:"hide"});
-   return false;
-  });
-  
-  // feed editor toggle
-  $("#feed_editor_toggle").click(function() {
-   if ($("#feed_editor").css("display") == "block") {
-    $("#feed_editor").animate({height:"hide",opacity:"hide"},"slow");
-    $("#feed_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
-   } else {
-    $("#feed_editor").animate({height:"show",opacity:"show"},"slow");
-    $("#feed_editor_toggle_container").animate({height:"hide",opacity:"hide"},"fast");
-   }
-   return false;
-  });
-  
-  // feed editor toggle
-  $("#bop_editor_toggle").click(function() {
-   if ($("#bop_editor").css("display") == "block") {
-    $("#bop_editor").animate({height:"hide",opacity:"hide"},"slow");
-    $("#bop_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
-   } else {
-    $("#bop_editor").animate({height:"show",opacity:"show"},"slow");
-    $("#bop_editor_toggle_container").animate({height:"hide",opacity:"hide"},"fast");
-   }
-   return false;
-  });
-  
-    // feed editor close
-  $("#feed_editor_close").click(function() {
-   $("#feed_editor").animate({height:"hide",opacity:"hide"},"slow");
-   $("#footer_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
-   return false;
-  });
-  
-  // bop editor close
-  $("#bop_editor_close").click(function() {
-   $("#bop_editor").animate({height:"hide",opacity:"hide"},"slow");
-   return false;
-  });
-
-  // sublinks toggle
-  $("a.sublinks_list_item_link").bind("mouseenter mouseleave", function (e) {
-   var targetID = this.parentNode.id;
-   $(".sublinks_main").hide();
-   $("#"+targetID+"_main").show();
-   $(".sublinks_list_item").removeClass('sublinks_list_item_alt');
-   $("#"+targetID).addClass('sublinks_list_item_alt');
-  });
-
-  // mypage widget movement
-  $('div.sortable_column').Sortable({
-   accept: 'narrow_content_box',
-   helperclass: 'sort_helper',
-   handle: 'div.narrow_content_box_header',
-   tolerance: 'pointer',
-   onChange: function(ser) {},
-   onStart: function() { $.iAutoscroller.start(this, document.getElementsByTagName('body')); },
-   onStop : function() { $.iAutoscroller.stop(); serial = $.SortSerialize(); $.get("/process.php",{action:"widgetpos",option:serial.hash}); }
-  });
-
-  // mypage widget toggle
-  $('span.narrow_content_box_visibility').bind('click', function(e) {
-   var targetContent = $('div.narrow_content_box_body', this.parentNode.parentNode.parentNode);
-   if (targetContent.css('display') == 'none') { targetContent.slideDown(300); } else { targetContent.slideUp(300); }
-  });
-  
-  // mypage widget toggle
-  $('span.wide_content_box_visibility').bind('click', function(e) {
-   var targetContent = $('div.wide_content_box_panel_body', this.parentNode.parentNode.parentNode);
-   if (targetContent.css('display') == 'none') { targetContent.slideDown(300); } else { targetContent.slideUp(300); }
-  });
-  
-  // mypage widget toggle
-  $('span.nsw_wide_content_box_visibility').bind('click', function(e) {
-   var targetContent = $('div.nsw_wide_content_box_panel_body', this.parentNode.parentNode.parentNode);
-   if (targetContent.css('display') == 'none') { targetContent.slideDown(300); } else { targetContent.slideUp(300); }
-  });
-  
-  $('.news_listing_thumbnail').cycle({
-   fx: 'fade', 
-   speed: 'slow',
-   delay: -1000
-  });
-  
-  $('.news_item_thumbnail_image').cycle({
-   fx: 'fade', 
-   speed: 'slow',
-   delay: -1000,
-   pager: '.news_item_thumbnail_paging',
-   pagerEvent: 'mouseover',
-   pauseOnPagerHover: true
-  });
-
-  $("#widgetNewsController").jFlow({
-   slides: "#widgetNewsSlides",
-   controller: ".jFlowControl",
-   slideWrapper: "#jFlowSlide1",
-   width: "99%",
-   height: "85px",
-   duration: 400,
-   prev: ".widgetNewsPrev",
-   next: ".widgetNewsNext"
-  });
-  
-  $("#widgetInspirationController").jFlow({
-   slides: "#widgetInspirationSlides",
-   controller: ".jFlowControl4",
-   slideWrapper: "#jFlowSlide4",
-   width: "99%",
-   height: "95px",
-   duration: 400,
-   prev: ".widgetInspirationPrev",
-   next: ".widgetInspirationNext"
-  });
-  
-  
-  
-  $("#widgetFeedController").jFlow({
-   slides: "#widgetFeedSlides",
-   controller: ".jFlowControl2",
-   slideWrapper: "#jFlowSlide2",
-   width: "99%",
-   height: "105px",
-   duration: 400,
-   prev: ".widgetFeedPrev",
-   next: ".widgetFeedNext"
-  });
-  
-  $("#widgetBlogsController").jFlow({
-   slides: "#widgetBlogsSlides",
-   controller: ".jFlowControl3",
-   slideWrapper: "#jFlowSlide3",
-   width: "99%",
-   height: "105px",
-   duration: 400,
-   prev: ".widgetBlogsPrev",
-   next: ".widgetBlogsNext"
-  });
-  
-  // bop toggle
-  $(".bop-panel .bop-list p").bind("mouseenter mouseleave", function (e) {
-   var targetID = this.id;
-   $(".bop-main").hide();
-   $("#"+targetID+"_main").css("height",$(".bop-list").height()+5+"px").show();
-   $(".bop-panel .bop-list p").removeClass();
-   $("#"+targetID).addClass('active');
-  });
-  
-  // bop toggle
-  $(".tools-list p").bind("mouseenter mouseleave", function (e) {
-   var targetID = this.id;
-   $(".tool-main").hide();
-   $("#"+targetID+"_main").show();
-   $(".tools-list p").removeClass();
-   $("#"+targetID).addClass('active');
-  });
-  
-  // business kit tab toggle  
-  $("#mybuskit-tabs li").bind("click", function (e) {
-   var targetID = this.id;
-   $(".mybuskit-panel").hide();
-   $("#"+targetID+"_main").show();
-   $("#mybuskit-tabs li").removeClass();
-   $("#"+targetID).addClass('active');
-  });
-  
-  // business kit awards tab toggle  
-  $("#awards-tabs li").bind("click", function (e) {
-   var targetID = this.id;
-   $(".mybuskit-awards-panel").hide();
-   $("#"+targetID+"_main").show();
-   $("#awards-tabs li").removeClass();
-   $("#"+targetID).addClass('active');
-  });
-  
-  // related info tab toggle  
-  $("#relinfo-tabs li").bind("click", function (e) {
-   var targetID = this.id;
-   $(".relinfo-panel").hide();
-   $("#"+targetID+"_main").show();
-   $("#relinfo-tabs li").removeClass();
-   $("#"+targetID).addClass('active');
-  });
-  
-  // homepage tab toggle  
-  $("#intro-tabs li").bind("click", function (e) {
-   var targetID = this.id;
-   $(".intro_container").hide();
-   $("#"+targetID+"_main").show();
-   $("#intro-tabs li").removeClass();
-   $("#"+targetID).addClass('active');
-  });
-  
-  $("#viewFavourites").bind("click", function (e) {
-  	$("#quickFavourites").toggle();
-  });
-  
-  $(".bop-main").css("height",$(".bop-list").height()+5+"px");
-  
-  $(".helpicon img").bind("click", function() {
-		showHelpPanel(this.id);
-    });
-
-});
-		
-  </script>
- </head>
- <body>
-  <div id="layout">
-   <div id="page_header">
-    <h1><a href="/" id="header_logo" title="Link to Shell LiveWIRE's Homepage"></a></h1>
-    <div id="header_other_livewire_link">
-          <a href="http://www.shell-livewire.com" target="_blank">Shell LiveWIRE International</a>
+        <p id="country">United Kingdom</p>
+       	        <div id="formtop">
+    			<div id="icons">
+            <a href="http://www.youtube.com/shelllivewireuk" title="YouTube" target="_blank" id="icon4"><span>YouTube</span></a>
+            <a href="http://www.twitter.com/shelllivewireuk" title="Twitter" target="_blank" id="icon3"><span>Twitter</span></a>
+            <a href="http://www.facebook.com/shelllivewireuk" title="Facebook" target="_blank" id="icon2"><span>Facebook</span></a>
+            <a href="/network/home.php" title="Shell LiveWIRE" id="icon1"><span>Shell LiveWIRE</span></a>
+		 			</div>
+    			<form action="/search/" method="get">
+            <div class="link_button_dark_submit link_button_dark_submit_right no_wrap">
+              <div class="link_button_dark_left"></div>
+              <input type="submit" name="continue" value="Go" class="link_button_dark_submit_text link_button_dark_submit_text_small">
+              <div class="link_button_dark_right"></div>
+            </div>
+            <input type="text" id="search_bar_keywords" name="keywords" value="">
+            <label id="search_bar_label" for="search_bar_keywords">Search</label>
+            <a href="#" id="increase_font_size" title="increase font size" onclick="fontSizer('big');"></a>
+            <div id="search_bar_resize_font"></div>
+            <a href="#" id="decrease_font_size" title="decrease font size" onclick="fontSizer('mid');"></a>
+        	</form>
+	  		</div>
+      </div>
+      <div id="header_menu_bar"> 
+                <ul>
+          <li><a href="/" id="header_menu_bar_first">Home</a></li>
+                    <li><a href="/news/">News</a></li>
+                    <li><a href="/my-business-kit/">My Business Kit</a></li>
+                    <li><a href="/awards/">Awards</a></li>
+                    <li><a href="/business-library/">Business Library</a></li>
+                    <li><a href="/forums/">Discussion Forum</a></li>
+                    <li><a href="/network/">Social Network</a></li>
+                    <li><a href="/video-lounge/">Video Lounge</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                   </ul>
+                <div class="clear_floats"></div>
+       </div>
     </div>
-    <div id="header_search_bar">
-     <form action="/search/" method="get">
-      <div class="link_button_dark_submit link_button_dark_submit_right no_wrap"><div class="link_button_dark_left"></div><input type="submit" name="continue" value="Go" class="link_button_dark_submit_text link_button_dark_submit_text_small"><div class="link_button_dark_right"></div></div>
-      <input type="text" id="search_bar_keywords" name="keywords" value="">
-      <label id="search_bar_label" for="search_bar_keywords">Search</label>
-      <a href="#" id="increase_font_size" title="increase font size" onclick="fontSizer('big');"></a>
-      <div id="search_bar_resize_font"></div>
-      <a href="#" id="decrease_font_size" title="decrease font size" onclick="fontSizer('mid');"></a>
-     </form>
-    </div>
-    <div id="header_menu_bar">
-           <ul>
-       <li><a href="/" id="header_menu_bar_first">Home</a></li>
-               <li><a href="/news/">News</a></li>
-               <li><a href="/my-business-kit/">My Business Kit</a></li>
-               <li><a href="/awards/">Awards</a></li>
-               <li><a href="/business-library/">Business Library</a></li>
-               <li><a href="/discussion-forum/">Discussion Forum</a></li>
-               <li><a href="/social-network/">Social Network</a></li>
-               <li><a href="/video-lounge/">Video Lounge</a></li>
-               <li><a href="/contact/">Contact</a></li>
-             </ul>
-          <div class="clear_floats"></div>
-    </div>
-   </div>
-   <div id="page_body">
-         <div id="body_breadcrumb"><a href="/">Home</a> | <a href="/">Privacy Policy</a></div>
-	         <div id="help-panel">
+		<div id="page_body">
+<div id="body_breadcrumb"><a href="/">Home</a> | <a href="/">Privacy Policy</a></div>
+        <div id="help-panel">
 	<p id="help-close"><a href="#" onclick="hideHelpPanel();">close</a></p>
 	<div id="tab">
 		<p id="help-title">&nbsp;</p>
@@ -331,8 +89,8 @@ $(document).ready(function() {
 
     <div id="body_main">
      <div class="wide_content_box">
-      <div class="content_box_padding">
-       <h2>Privacy Policy</h2>
+      <div class="content_box_padding" id="redlinks">
+       <h1>Privacy Policy</h1>
        <p>We respect the privacy of everyone who visits this site. Please read our Privacy Policy carefully so that you can understand how we collect and use the personal information that you provide to us.</p>
 <p>By submitting your personal data to us, you will be treated as having given your permission for disclosures referred to in this policy.</p>
 <p><strong>What does this privacy policy cover?</strong></p>
@@ -373,7 +131,8 @@ You can erase or block this information by changing the settings on your compute
 <p>If at any time you would like to contact us about our privacy policy, you can do so by emailing us at:</p>
 <p>&nbsp;<br>
 <a href="mailto:enquiries@shellspringboard.org">&nbsp;<u>enquiries@shell-livewire.org</u> </a></p>
-              <div class="clear_floats"></div>
+         <div id="overall_rating0">&nbsp;</div>
+       <div class="clear_floats"></div>
       </div>
       
             <div class="article-tags">
@@ -396,16 +155,16 @@ You can erase or block this information by changing the settings on your compute
 						</div>
 	        <div id="relinfo-tabs2_main" class="relinfo-panel" style="display:none;">
 								<ul class="myRelItems">
-								<li><a href="/forums/showthread.php?threadid=24207">Working at home V Renting small office space</a></li>
-								<li><a href="/forums/showthread.php?threadid=24815">Car Insurance - 17</a></li>
-								<li><a href="/forums/showthread.php?threadid=24763">How does the election affect business?</a></li>
-								<li><a href="/forums/showthread.php?threadid=24749">Money money and MONEY</a></li>
-								<li><a href="/forums/showthread.php?threadid=24726">designjr.co.uk</a></li>
-								<li><a href="/forums/showthread.php?threadid=24602">Deposits</a></li>
-								<li><a href="/forums/showthread.php?threadid=24470">SiteBuilder online website builder</a></li>
-								<li><a href="/forums/showthread.php?threadid=24470">SiteBuilder online website builder</a></li>
-								<li><a href="/forums/showthread.php?threadid=24558">Join Shell LiveWIRE at the National Student Enterprise Conference 2010 (26-28 March)</a></li>
-								<li><a href="/forums/showthread.php?threadid=24547">Advice please...</a></li>
+								<li><a href="/forums/showthread.php?threadid=25750">Alloy Insurance?</a></li>
+								<li><a href="/forums/showthread.php?threadid=25768">eCommerce &amp; Fraudulent Transactions</a></li>
+								<li><a href="/forums/showthread.php?threadid=25655">eCommerce Payments</a></li>
+								<li><a href="/forums/showthread.php?threadid=25590">would you pay for leads for your business?</a></li>
+								<li><a href="/forums/showthread.php?threadid=25568">Turning website hits into sales</a></li>
+								<li><a href="/forums/showthread.php?threadid=25208">Trying to understand insurance.</a></li>
+								<li><a href="/forums/showthread.php?threadid=25295">Address details</a></li>
+								<li><a href="/forums/showthread.php?threadid=25208">Trying to understand insurance.</a></li>
+								<li><a href="/forums/showthread.php?threadid=25208">Trying to understand insurance.</a></li>
+								<li><a href="/forums/showthread.php?threadid=25196">Getting organised</a></li>
 								</ul>
 							</div>
 	        <div id="relinfo-tabs3_main" class="relinfo-panel">
@@ -455,7 +214,7 @@ If you can't find what you're looking for, or would like to suggest new content 
      <form action="/process.php" method="get">
       <input type="hidden" name="action" value="adtoggle">
       <input type="hidden" name="option" value="show">
-      <input type="hidden" name="origin" value="http://www.shell-livewire.org/privacy">
+      <input type="hidden" name="origin" value="http://shell-livewire.org/privacy/">
       <div class="link_button_submit link_button_submit_right no_wrap"><div class="link_button_left"></div><input type="submit" name="continue" value="Open Ads" id="footer_adverts_toggle" class="link_button_submit_text link_button_submit_text_wide"><div class="link_button_right"></div></div>
      </form>
           
@@ -476,53 +235,60 @@ If you can't find what you're looking for, or would like to suggest new content 
         <h5><a href="/network/">Social Network</a></h5>
         <ul>
          <li>
-          Members : 109113 members
+          Members : 121684 members
          </li>
         <li>
-          Friends : 6549 friends
+          Friends : 6793 friends
          </li>
          <li>
-          Comments : 1775 comments
+          Comments : 2139 comments
          </li>
         </ul>
        </li>
        <li class="footer_panel" id="footer_panel2">
-        <h5><a href="/forums/showthread.php?threadid=24929#post153314">Discussion Forum Posts</a></h5>
+        <h5><a href="/forums/showthread.php?threadid=25782#post156930">Discussion Forum Posts</a></h5>
         <ul>
          		 <li>
-          <a href="/forums/showthread.php?threadid=24929#post153314">E-Commerce - Great Looking Website..</a> / <a href="/forums/showthread.php?threadid=24929#post153314">Jun. 21, 2010 3:16 AM</a>
-          <p class="footer-text">Its a good thing to seek advice Fahsal,<br>thing is most people do websites etc DIY... <a href="/forums/showthread.php?threadid=24929#post153314">more&gt;</a></p>
+          <a href="/forums/showthread.php?threadid=25782#post156930">Help with business start-ups/innovative ideas!!</a> / <a href="/forums/showthread.php?threadid=25782#post156930">Nov. 26, 2010 8:04 PM</a>
+          <p class="footer-text">Hello everyone,
+
+
+My name is Dilla<br>Hamid, Im 28. I always knew that one day<br>i will have my own business in the<br>design. My education came as far as ... <a href="/forums/showthread.php?threadid=25782#post156930">more&gt;</a></p>
          </li>
          		 <li>
-          <a href="/forums/showthread.php?threadid=24889#post153313">SEO Advice</a> / <a href="/forums/showthread.php?threadid=24889#post153313">Jun. 21, 2010 3:14 AM</a>
-          <p class="footer-text">Id say Tom definately has hit the button<br>on the head, dynamic content is the key... <a href="/forums/showthread.php?threadid=24889#post153313">more&gt;</a></p>
+          <a href="/forums/showthread.php?threadid=25775#post156929">My websites being featured in 'The Sunday Times' :O</a> / <a href="/forums/showthread.php?threadid=25775#post156929">Nov. 26, 2010 5:29 PM</a>
+          <p class="footer-text">Rob, thanks for confirming my point<br>about the limits to your service. As you<br>explain above, there is only so much you<br>can stuff on a box, and if you g... <a href="/forums/showthread.php?threadid=25775#post156929">more&gt;</a></p>
          </li>
                  </ul>
        </li>
        <li class="footer_panel" id="footer_panel3">
-        <h5><a href="/network/AirAmbulance/blog/1531/">Latest Blogs</a></h5>
+        <h5><a href="/network/bobo123/blog/51592/">Latest Blogs</a></h5>
         <ul>
         
          		 <li>
-          <a href="/network/AirAmbulance/blog/1531/">Air Ambulance USA :: International Air Ambulance - Global medical repatriation b</a> / <a href="/network/AirAmbulance/blog/1531/">Jun. 21, 2010 2:47 AM</a>
-          <p class="footer-text">Best air ambulance service for USA and<br>overseas with 24-hour control centre<br>that... <a href="/network/AirAmbulance/blog/1531/">more&gt;</a></p>
+          <a href="/network/bobo123/blog/51592/">ghd on sale,bobo Ghd Straightener different color have different details</a> / <a href="/network/bobo123/blog/51592/">Nov. 27, 2010 5:10 AM</a>
+          <p class="footer-text">&nbsp; The top superior Ghd Destiny<br>Collection 
+
+hair straighteners<br>superior straighteners ghd on sale<br>straighteners offered in ghd mk4 black<br>the ne... <a href="/network/bobo123/blog/51592/">more&gt;</a></p>
          </li>
          		 <li>
-          <a href="/network/AirAmbulance/blog/1530/">Air Ambulance USA :: International Air Ambulance - Global medical repatriation b</a> / <a href="/network/AirAmbulance/blog/1530/">Jun. 21, 2010 2:44 AM</a>
-          <p class="footer-text">Best air ambulance service for USA and<br>overseas with 24-hour control centre<br>that... <a href="/network/AirAmbulance/blog/1530/">more&gt;</a></p>
+          <a href="/network/bobo123/blog/51591/">ghd on sale,bobo Ghd Straightener different color have different details</a> / <a href="/network/bobo123/blog/51591/">Nov. 27, 2010 5:10 AM</a>
+          <p class="footer-text">&nbsp; The top superior Ghd Destiny<br>Collection 
+
+hair straighteners<br>superior straighteners ghd on sale<br>straighteners offered in ghd mk4 black<br>the ne... <a href="/network/bobo123/blog/51591/">more&gt;</a></p>
          </li>
                  </ul>
        </li>
        <li class="footer_panel" id="footer_panel4">
-        <h5><a href="http://www.shell-livewire.org/network/TomTechITSupport/">Member of the Month</a></h5>
+        <h5><a href="http://www.girlsnotepad.co.uk/">Member of the Month</a></h5>
         		<ul>
          <li id="footer_motm_thumb">
-          <a href="http://www.shell-livewire.org/network/TomTechITSupport/"><img src="/store/1251799534.019LID0.jpg" title="TomTechITSupport" alt="TomTechITSupport" width="58"></a>
+          <a href="http://www.girlsnotepad.co.uk/"><img src="/store/1286369812.020LID0.jpg" title="brown sugar" alt="brown sugar" width="58"></a>
          </li>
          <li id="footer_motm_text">
-          <a href="http://www.shell-livewire.org/network/TomTechITSupport/" class="footer_listing_header">TomTechITSupport</a>
-          <p>22yr old Tomi Adebayo runs Tom Tech IT Support, one of the fastest growing IT companies in Birmingham UK providing small businesses with IT support and computer repair services for home users.</p>
-	  <p><a href="http://www.shell-livewire.org/network/TomTechITSupport/">more&gt;</a></p>
+          <a href="http://www.girlsnotepad.co.uk/" class="footer_listing_header">brown sugar</a>
+          <p>runs Girls Notepad, a new online business directory designed to help the women of London find the products and services they need.</p>
+	  <p><a href="http://www.girlsnotepad.co.uk/">more&gt;</a></p>
          </li>
         </ul>
                </li>
@@ -613,4 +379,4 @@ var pageTracker = _gat._getTracker("UA-7123349-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<div id="sortHelper" style="display: none;">&nbsp;</div></body></html>
+</body></html>
