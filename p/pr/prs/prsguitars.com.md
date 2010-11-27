@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305113338id_/http%3A//www.prsguitars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127213043id_/http%3A//www.prsguitars.com/privacy.html) for the most accurate reproduction.*
 
 # Paul Reed Smith Guitars | Privacy Policy
 
