@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefield.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616021519id_/http%3A//www.articlefield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefield.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127151147id_/http%3A//www.articlefield.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ArticleField.com - Free Article Directory
 
