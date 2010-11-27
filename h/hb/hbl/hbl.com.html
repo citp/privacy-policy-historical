@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hbl.com privacy policy that was archived on 2009-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605222214id_/http%3A//www.hbl.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hbl.com privacy policy that was archived on 2010-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127010409id_/http%3A//www.hbl.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -121,6 +121,21 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
   if (restore) selObj.selectedIndex=0;
 }
+
+var count = 0;
+var user;
+	
+function BlinkFlood()
+{
+	count++;
+	
+	if(count%2 == 0)
+		document.getElementById("flood").innerHTML = "<a href='individual-customers-fast-transfer-flood-relief.php' class='text-links'><strong>Flood Relief Donation</strong></a>";
+	else
+		document.getElementById("flood").innerHTML = "<a href='individual-customers-fast-transfer-flood-relief.php' class='text-links'><strong><font color='#ffffff'>Flood Relief Donation</font></strong></a>";
+
+	setTimeout('BlinkFlood()', 500);
+}
 //-->
 </script>
 <table width="776" height="99" border="0" cellpadding="0" cellspacing="0">
@@ -140,11 +155,13 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                             <tbody><tr>
                               <td width="320" align="left"><table width="350" border="0" cellpadding="0" cellspacing="0">
                                   <tbody><tr>
-                                    <td width="318" align="center" class="meta-navigation"><a href="index.php">Home</a><a href="sitemap.php">Sitemap</a><a href="contact-us.php">Contact Us</a><a href="about-us-download.php">Downloads</a></td>
+                                    <td width="318" align="center" class="meta-navigation"><a href="sitemap.php">Sitemap</a><a href="contact-us.php">Contact Us</a><a href="about-us-download.php">Downloads</a></td>
                                   </tr>
                               </tbody></table></td>
                               <td align="right"><select name="menu1" style="width:170px" class="input" onchange="MM_jumpMenu('parent',this,0)">
+
                                 <option value="#" selected="selected">Quick Links</option>
+<option value="individual-customers-accounts-freedom.php">Freedom Account </option>
                                 <option value="individual-customers-accounts-terms.php">Term Accounts</option>
                                 <option value="individual-customers-accounts-current.php">Current Accounts</option>
                                 <option value="individual-customers-accounts-foreign.php">Foreign Currency Accounts</option>
@@ -153,7 +170,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                                 <option value="individual-banc-tabeer.php">Tabeer</option>
                                 <option value="investor-relations-annual-reports.php">Annual Accounts</option>
                                 <option value="investor-relations-public-documents.php">Public Documents</option>
-                                <option value="careers-our-opportunities.php">Current Jobs </option>
+                                
                               </select></td>
                             </tr>
                           </tbody></table></td>
@@ -173,6 +190,14 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 <tbody><tr>
                   <td width="9" align="left">&nbsp;</td>
                   <td align="left" class="main-navigation"><a href="about-us.php" id="about-link">About Us </a> <a href="individual-customers.php" name="link4" id="individual-link" onmouseover="MM_showMenu(window.mm_menu_1019191047_0,0,13,null,'link4')" onmouseout="MM_startTimeout();">Individual Customers</a> <a href="business-customers.php" name="link7" id="business-link" onmouseover="MM_showMenu(window.mm_menu_1019192045_0,0,13,null,'link7')" onmouseout="MM_startTimeout();">Business Customers</a> <a href="investor-relations.php" name="link6" id="investor-link" onmouseover="MM_showMenu(window.mm_menu_1019192418_0,0,13,null,'link6')" onmouseout="MM_startTimeout();">Investor Relations</a> <a href="career.php" name="link8" id="careers-link" onmouseover="MM_showMenu(window.mm_menu_1019192700_0,0,13,null,'link8')" onmouseout="MM_startTimeout();">Careers</a></td>
+				  <td width="40">&nbsp;</td>
+				  <td>
+				  <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+				  	<tbody><tr>
+						<td align="center"><div id="flood"><a href="individual-customers-fast-transfer-flood-relief.php" class="text-links"><strong>Flood Relief Donation</strong></a></div></td>
+					</tr>
+				  </tbody></table>
+				  </td>
                 </tr>
               </tbody></table></td>
             </tr>
@@ -276,7 +301,7 @@ BODY {background:none transparent;}
           <tbody><tr>
             <td align="center" valign="top">
 		    <select name="hbl_worldwide" class="input" onchange="goToURL(this);">
-			<option value="0">Select Any</option><option value="4">Afghanistan</option><option value="9">Bahrain</option><option value="http://hblbd.com">Bangladesh</option><option value="http://habib-bk.be">Belgium</option><option value="http://habibbankchina.com">China</option><option value="15">France</option><option value="2">Hongkong</option><option value="10">Iran</option><option value="http://hblafrica.com">Kenya</option><option value="http://hbllebanon.com">Lebanon</option><option value="6">Maldives</option><option value="http://hblafrica.com">Mauritius</option><option value="http://hbl.com.np">Nepal </option><option value="16">Netherlands</option><option value="http://www.bankphb.com/live/general/">Nigeria</option><option value="http://hbl.com.om">Oman</option><option value="http://hblafrica.com">Seychelles</option><option value="http://hblsg.com">Singapore</option><option value="http://hbl.lk">Srilanka</option><option value="http://habibbank.com.tr">Turkey</option><option value="13">UAE</option><option value="http://www.habibbankuk.com">UK</option><option value="http://hblusa.com">USA</option>            </select>
+			<option value="0">Select Any</option><option value="4">Afghanistan</option><option value="9">Bahrain</option><option value="5">Bangladesh</option><option value="14">Belgium</option><option value="http://habibbankchina.com">China</option><option value="15">France</option><option value="2">Hongkong</option><option value="10">Iran</option><option value="19">Kenya</option><option value="25">Kyrgyz Republic</option><option value="11">Lebanon</option><option value="6">Maldives</option><option value="20">Mauritius</option><option value="7">Nepal </option><option value="16">Netherlands</option><option value="21">Nigeria</option><option value="12">Oman</option><option value="22">Seychelles</option><option value="3">Singapore</option><option value="8">Srilanka</option><option value="17">Turkey</option><option value="http://www.hbl.ae">UAE</option><option value="http://www.habibbankuk.com">UK</option><option value="http://hblusa.com">USA</option>            </select>
             	 </td>
           </tr>
 
@@ -347,13 +372,13 @@ BODY {background:none transparent;}
             <td align="left" class="bordertop"><table width="600" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td width="16" align="left">&nbsp;</td>
-                <td align="left" class="footer-navigation"><strong>2009 HBL&nbsp;&nbsp;&nbsp;<a href="disclaimer.php">Disclaimer</a> &nbsp;&nbsp;<a href="privacy-policy.php">Privacy&nbsp;Policy</a></strong></td>
+                <td align="left" class="footer-navigation"><strong>2010 HBL&nbsp;&nbsp;&nbsp;<a href="disclaimer.php">Disclaimer</a> &nbsp;&nbsp;<a href="privacy-policy.php">Privacy&nbsp;Policy</a></strong></td>
                 <td align="right" valign="bottom">&nbsp;</td>
               </tr>
             </tbody></table></td>
               </tr>
             </tbody></table>
-</td>
+<script language="JavaScript">BlinkFlood();</script></td>
       </tr>
     </tbody></table></td>
   </tr>
