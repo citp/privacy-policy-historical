@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfigureyearly.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102143301id_/http%3A//www.sixfigureyearly.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureyearly.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127172219id_/http%3A//sixfigureyearly.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Six Figure Yearly Privacy Policy
 
