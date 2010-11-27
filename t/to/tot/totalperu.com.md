@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621013008id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127010139id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Peru Expat and Travel
 
@@ -60,7 +60,7 @@ Information YOU Post**
 
 All of the information you submit or post to our site for any of its functions, except for your email address when registered or your email address when prompted for non-registered submissions will be published on our website. At the moment it is published, it becomes available to all users of the internet and all search engines to review and make us of in any manner they desire. We have no control over (or knowledge of who) may read, index, and/or use the information.
 
-You should make any submissions or posts with the assumption that it will be indexed by the search engines and any words, text, emails. names, phone numbers, etc that you put within your posts, if used as a search phrase will result in people finding your posts here.
+You should make any submissions or posts with the assumption that it will be indexed by many search engines and any words, text, emails. names, phone numbers, etc that you put within your posts, if used as a search phrase will result in people finding your posts here.
 
 If you submit a listing to our directory, all of the information except for your email address will be displayed for everyone to see. Your email address will only be used to contact you directly regarding your submission (ie: to send your account password and information about approval of your listings).
 
@@ -77,17 +77,19 @@ Emails we might send you**
   * When you register on our site, we will send you an acknowledgement email with your password. 
   * When you request your password be resent to you. 
   * When you specifically subscribe to a notification, ie: to be notified by email when you are sent an internal email. You must have already registered on our site. You can subscribe and unsubscribe to notifications from our member page. 
+  * When you post a new message or reply on our forum. You will be added to the email notification list and be sent an email when someone else makes a reply to that message. When posting your message you can uncheck the box and then you will not be added to the email notification list. Additionally, you can select to subscribe or unsubscribe to the notifications for a specific message by using the link at the bottom of the posting form. The notification emails also include an unsubscribe link.
   * When you submit a listing to our directory, a guest blog post, question/answer or other section. We may email you telling you your posting has been approved, declined or asking a question about it
   * If you submit a free banner ad you will be emailed with an acknowledgement / status report. Additionally you may be emailed a weekly statistical report. If you do not wish tor receive these you can delete your advertisement.
   * The first time you submit a forum post with a URL included we may email you information about our free banner advertisers to make sure you are away of the best self promotional opportunities available to you on our site.
-  * If you submit an entry to our directory, we will email you an acknowledgement and additionally, if there is a change in status.
+  * If you submit an entry to our directory, we will email you an acknowledgement and additionally, if there is a change in status, or otherwise to make any update regarding your listing or our directory. If you do not wish to receive such email(s) please delete your directory listing.
   * If you submit an article, blog post we may email you an acknowledgement when the submission has been reviewed.
+  * When you submit a classified ad (ie: real estate, rental, and/or car for sale) we may send you an email when your ad has been approved, rejected, if we have any individual comments or suggestions, and up to once a month with  any updates, information, or a request you review your ad for any changes. This refers to classified ads posted within the classified ads section of our website(s), it does not refer to posts made in the forums, blogs, article library, etc. If you do not wish to receive these emails you can delete all your classified ads.
   * In the case of a problem or we have a suggestion relative to your submission, posting, account or other issue we may individually email you.
   * In case you email us with a concern we may email you back.
 
 
 
-If you attempt to participate in any kind of fraudulent activity, or abusive behavior or activity that to attack our servers or network resources any and all information we have or can collect may be shared with anyone we feel is necessary, or useful to resolve the problem.
+If you attempt to participate in any kind of fraudulent activity, or abusive behavior or activity that to attack our servers or network resources any and all information we have or can collect may be shared with anyone we feel is necessary, and/or useful to resolve the problem.
 
 * * *
 
@@ -179,5 +181,9 @@ To be effective, the notification must be in writing and contain the following i
 **Notes:** Allfeeds.org is a directory of RSS Feeds. If an RSS Feed contains your work without your permission it is best to contact the publisher of the RSS Feed directly. When the publisher of the feed updates or changes their feed, those changes will automatically be reflect on allfeeds.org and other websites that may use the feed.
 
 If you are the publisher of an RSS feed which is listed on allfeeds.org and you do not want it listed, the fastest way to have it removed is to use our [delete feed](http://www.allfeeds.org/delete.html) process which will instantly remove it for any reason. If you instead prefer to use the DCMA procedure make sure you sufficiently identify the feed for us to locate it.
+
+* * *
+
+* * *
 
 * * *
