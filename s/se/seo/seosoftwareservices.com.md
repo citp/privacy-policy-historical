@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seosoftwareservices.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103033058id_/http%3A//www.seosoftwareservices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seosoftwareservices.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127103945id_/http%3A//seosoftwareservices.com/privacy.html) for the most accurate reproduction.*
 
-# SEO Software Services Privacy Policy
+# SSS Technology Privacy Policy
 
 **SEO Software Services Privacy Policy** is solely based on using the valuable information collected from the website in a customized form which is integrated to provide maximum benefit to our users. The information thus gathered is stored in a much secured way on our domain servers. We, SEO Software Services are the sole custodians of this information, and we do not disseminate, sell or rent it unless it is mandatory as per the law and do not involve any legal complications, thereof. It may also be used to apprise you with latest information on trends, developments, special events pertaining to our segment, and offers best suited for you, based on your existing business model. 
 
@@ -14,4 +14,4 @@ Our success relies on our expertise to provide you information that our customer
 
 We deploy stringent hiring process to weed-out employees having a shoddy background. As an employer, the incumbents we hire are asked to sign a confidentiality agreement that refrains them from disclosing any significant information to which they have instant access, to individuals or entities, even that have close proximity to them. In the case of any employee leaving the company or being compelled to quit due to unavoidable circumstances, we take no chances and switch the access codes that the employee had been using to access the customers accounts. 
 
-It is our sole discretion to amend this privacy policy at any point of time. However, if any changes are being enforced, we will display the alterations on our web site and on the home page to make you aware that a new privacy policy has been implemented. We may also contact you personally to brief you about the new changes incorporated by us. 
+It is our sole discretion to amend this privacy policy at any point of time. However, if any changes are being enforced, we will display the alterations on our web site and on the home page to make you aware that a new privacy policy has been implemented. We may also contact you personally to brief you about the new changes incorporated by us.
