@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313155724id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128120611id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PSP Custom Firmware - PSP CFW - Homebrew
+# PSP Custom Firmware – PSP CFW | Privacy Policy
 
 **Privacy Policy Statement  
 This is the web site of Pspcustomfirmware **
@@ -81,9 +81,29 @@ information, communications that the consumer/visitor has directed to the site.
 Consumers can have this information corrected by sending us e-mail at the above  
 address.
 
-With respect to security All Financial information is handle by PayPal. 
+**With respect to security All Financial information is handle by PayPal.**
 
 If you feel that this site is not following its stated information policy, you  
 may contact us at the above addresses or email address . 
 
-[](http://www.google.com/reader/link?url=http://pspcustomfirmware.com/privacy-policy&title=Privacy+Policy&srcURL=http://pspcustomfirmware.com)
+**PHOTO-SENSITIVITY NOTICE**
+
+A small percentage of individuals may experience epileptic seizures or blackouts when exposed to sure light patterns or flashing lights. Exposure to sure patterns or backgrounds on a screen or when playing content such as video games may trigger epileptic seizures or blackouts in these individuals. These conditions may trigger historically in the past undetected epileptic symptoms or seizures in persons who have no history of prior seizures or epilepsy. If you, or someone in your relatives has an epileptic condition or has had seizures of any kind, consult your physician before playing. IMMEDIATELY DISCONTINUE use and consult your physician before resuming play.
+
+RESUME PLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
+
+If you or your child experience any of the following health problems or symptoms:  
+(i) dizziness;  
+(ii) altered vision;  
+(iii) eye or muscle twitches;  
+(iv) loss of awareness;  
+(v) disorientation; or  
+(vi) seizures or any involuntary movement or convulsion.
+
+Use and handling of content, including video games, to reduce the likelihood of a seizure:  
+(i) use in a well-lit area and keep as far away as possible from the TV screen;  
+(ii) avoid massive screen televisions;  
+(iii) use the smallest TV screen available;  
+(iv) avoid prolonged use of the PlayStation system;  
+(v) take a 15-minute break during each hour of play; or  
+(vi) avoid playing when you are tired or require sleep.
