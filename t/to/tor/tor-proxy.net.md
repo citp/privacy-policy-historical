@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor-proxy.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214740id_/http%3A//tor-proxy.net/index.php%3Fq%3Den/node/28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor-proxy.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129003915id_/http%3A//tor-proxy.net/index.php%3Fq%3Den/node/28) for the most accurate reproduction.*
 
 # Privacy Policy | tor-proxy.net
 
