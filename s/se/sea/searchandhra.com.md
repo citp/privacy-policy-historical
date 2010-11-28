@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchandhra.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308122559id_/http%3A//searchandhra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchandhra.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128160233id_/http%3A//searchandhra.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | movies, news, photos, gossip, videos - Searchandhra.com
+# Privacy Policy | Movies, News, Photos, Gossip, Videos - Searchandhra.com
 
 #### Privacy Policy
 
