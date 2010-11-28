@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuitalk.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112202422id_/http%3A//www.tuitalk.com/phone-calls-services/internet-phone-calls-policy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuitalk.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128213925id_/http%3A//www.tuitalk.com/phone-calls-services/internet-phone-calls-policy.zhtml) for the most accurate reproduction.*
 
 # Free Internet Online Phone Calls TUITALK
 
