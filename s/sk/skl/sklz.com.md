@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sklz.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502010109id_/http%3A//sklz.com/sklz-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sklz.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128205235id_/http%3A//sklz.com/sklz-info/privacy) for the most accurate reproduction.*
 
 # »Practice »Play »Win
 
-Pro Performance will always respect the privacy of our customers. We want to give the best customer service possible. The only information we collect is the information given when an order is placed. At no time will we sell or share that information with any other company. The information obtained from registration on-line is used to save you time in the future and /or receive occasional e-mails.
+Pro Performance will always respect the privacy of our customers. We want to give the best customer service possible. The only information we collect is the information given when an order is placed. At no time will we sell or share that information with any other company. Purchaser data from customers referred by Weplay, including name, city and state, will be re-submitted to Weplay solely for the purpose of unlocking the MAD SKLZ prop. No other information is shared with any other company. The information obtained from registration on-line is used to save you time in the future and /or receive occasional e-mails.
 
 What information do we collect?
 
