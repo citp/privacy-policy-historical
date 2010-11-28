@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109042538id_/http%3A//www.explorica.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128114925id_/http%3A//www.explorica.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Explorica
 
@@ -66,7 +66,7 @@ Explorica takes reasonable steps to protect the Personal Data provided via the W
 
 ### Other Terms and Conditions:
 
-Your access to and use of this Web Site is subject to the Terms of Use.  Please visit [www.explorica.com/terms-of-use](http://www.explorica.com/terms-of-use). 
+Your access to and use of this Web Site is subject to the Terms of Use.  Please visit [www.explorica.com/terms-of-use](https://web.archive.org/terms-of-use). 
 
 ### Changes to Explorica’s Privacy Policy:
 
