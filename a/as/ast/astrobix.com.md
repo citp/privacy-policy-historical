@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrobix.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230234938id_/http%3A//astrobix.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrobix.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128094512id_/http%3A//astrobix.com/docs/privacy) for the most accurate reproduction.*
 
-# Astrobix.com | Privacy Policy
+# Privacy Policy - Astrobix.com
 
 We are committed to maintaing your privacy and security on the Internet, and our privacy policy discloses our information gathering and distribution practices.
 
