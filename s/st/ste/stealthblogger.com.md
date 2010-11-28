@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stealthblogger.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528124946id_/http%3A//stealthblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthblogger.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128020420id_/http%3A//stealthblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StealthBlogger.com
 
