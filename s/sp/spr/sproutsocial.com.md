@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516035803id_/http%3A//www.sproutsocial.com/index.php/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128151151id_/http%3A//sproutsocial.com/index.php/policies/privacy) for the most accurate reproduction.*
 
 # Sprout Social
 
