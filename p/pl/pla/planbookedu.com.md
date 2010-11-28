@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609092528id_/http%3A//www.planbookedu.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128043300id_/http%3A//planbookedu.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
+
+## Privacy Policy
 
 Your privacy is critically important to us. At PlanbookEdu we have a few fundamental principles:
 
