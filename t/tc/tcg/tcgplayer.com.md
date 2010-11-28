@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131190938id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128071252id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -107,28 +107,7 @@ All rights reserved.
 [Privacy Policy](https://web.archive.org/privacy.asp)  
 
 
-|  | 
-
-  
-
-
-| LATEST Magic ARTICLE  
----  
-  
-|  **[Maximizing Your Prerelease](http://magic.tcgplayer.com/db/article.asp?ID=8750)**  
----  
-  
-Conley gives his thoughts on how to make the most of your prerelease - cards to trade for, ones to avoid, tips on prerelease success and more! A must read for anyone planning on attending an event this weekend!   
-  
-LATEST YGO ARTICLE  
----  
-  
-|  **[The Hybrid](http://yugioh.tcgplayer.com/db/article.asp?ID=2393)**  
----  
-  
-The one major thing about this Shonen Jump that stood out above all else was the Lightsworn / Zombie deck (Zombiesworn) that was run by several players in the top 16.   
-  
-LATEST DREAMBLADE ARTICLE  
+|  |  | LATEST DREAMBLADE ARTICLE  
 ---  
 LATEST SPOILS ARTICLE  
 ---  
@@ -138,10 +117,18 @@ LATEST SPOILS ARTICLE
   
 In this week's instalment of Canadien Bacon, we are going to continue talking about “Rogue Decks” of 1st Edition. We're switching gears and playing the aggro game.   
   
+LATEST Naruto ARTICLE  
+---  
+  
+|  **[Naruto Adds Shonen Jump Events](http://naruto.tcgplayer.com/db/article.asp?ID=3383)**  
+---  
+  
+There will be multiple tournaments held throughout the United States at select hobby retailers culminating in the National Championships to be held at the Gen Con Indy to take place in Indiana on August 7th and 8th.   
+  
 LATEST Pokemon ARTICLE  
 ---  
   
-|  **[Trainer Tips: Play Testing](http://pokemon.tcgplayer.com/db/article.asp?ID=3328)**  
+|  **[Going Rogue - Arceus](http://pokemon.tcgplayer.com/db/article.asp?ID=3473)**  
 ---  
   
-Play testing, like development, consists of steps. In fact, both consist of five steps. Each step is vital to the deck, and must be taken with thought and care. We need to know how to play test. Properly. 
+Thanks to Arceus Lv. X #94, your active Arceus can use the attacks of any Arceus you have in play, provided you have all of the necessary energy to use the attack. 
