@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smokingeverywhere.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103234554id_/http%3A//www.smokingeverywhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokingeverywhere.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128230221id_/http%3A//smokingeverywhere.com/privacy.php) for the most accurate reproduction.*
 
 # Smoking Everywhere E-Cigarette Privacy Policy
 
