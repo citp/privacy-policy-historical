@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the layoutready.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530213028id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layoutready.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128120403id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.*
 
 # LayoutReady - Privacy Policy
-
-**By Product**
 
 |  | 
 
