@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013052847id_/http%3A//reignofblood.net/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128230448id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
 
-# PP
+# Reign Of Blood - Vampire Game Privacy Policy
 
-ROB Privacy Policy
+[Game Advertising Online](http://www.game-advertising-online.com/)  
+banner requires iframes
 
-Contact: To contact us please email webmaster@imperial-empires.net
+## Not yet a member of the free online vampire game Reign Of Blood?
+
+[ ](https://web.archive.org/web/20101128230448id_/http%3A//reignofblood.net/vampire_signup.php "Become a vampire")
+
+Contact: To contact us please email reignofblood.net [at] gmail.com
 
 Third Party Adverts:  
 ROB will contain adverts around the various pages, many of these being 3rd party adverts. We take no responsibility for what these adverts may contain, but we do try and restrict the type of adverts shown.
@@ -24,4 +29,12 @@ Your password is created and used by you to login to your account. We try to pro
 Sharing:  
 We will not sell your passwords,emails,personal information to another company. 
 
-[[Back](https://web.archive.org/web/20071013052847id_/http%3A//reignofblood.net/index.php)]
+**Advertising (Part 2)**  
+Online behavioral advertising (â€œOBAâ€) and/or multi-site advertising is occurring.
+
+We collect no data from you via advertisements, the type of data that may be collected are your IP address, geographic location and your browser/operating system details.
+
+As we collect no data ourselves we do not pass anything onto third parties personally. Thirt parties usually use your information to deliver targeted ads to you. [Click here to opt out](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**3rd Party Advertising**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org or click the opt out link above. 
