@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603125348id_/http%3A//www.hudforeclosed.com/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128073552id_/http%3A//www.hudforeclosed.com/privacy-policy.do) for the most accurate reproduction.*
 
 # HUDForeclosed.com - Homes for less. More for you.
 
