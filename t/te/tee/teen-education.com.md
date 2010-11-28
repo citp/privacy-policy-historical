@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teen-education.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323212012id_/http%3A//www.teen-education.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teen-education.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128150028id_/http%3A//teen-education.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Educational websites for teens represent exciting parenting teens view
 
@@ -15,75 +15,25 @@ NOTIFICATION and CHANGES
 Any modifications to our privacy practices will be reflected here. If we change our Privacy Policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
 
 Permissions to Link or Post   
-Permission is granted for linking to our site, individual pages or articles within the site.  
-[cosmetic dentist Reading Berkshire](http://www.woodboroughhouse.com/) \- A family friendly dental office in Pangbourne near Reading for high quality dental treatments.
+Permission is granted for linking to our site, individual pages or articles within the site. 
 
-[Bilingual Job Recruitment](http://www.bilinguarecruitment.com/) \- Bilingua Recruitment is a Language Recruitment Specialists in Language Recruitment UK since 1986. We specialise in recruiting for temporary, contract and permanent language jobs.
-
-[cursos ingles toronto](http://www.midletonschool.com/adultoscanada_toronto.htm) \- In Midleton School will offer one of the broadest offerings of English courses abroad, with academic certification.
-
-[CCCR](http://www.nexreg.com/en/label_reviews/cccr_consumer_label_review.php) \- CCCR - CCCR Canadian Consumer Label Review Services offered by Nexreg Compliance Inc
-
-[Business coaching](http://www.thealternativeboard.com/tabboards/TABPages1/home.html) \- The Alternative Board facilitates monthly peer advisory boards comprised of local owners, presidents and CEOs who run non-competing businesses. Each month members gather to share experiences and solve challenges to grow to the next level.
-
-[Video depositions](http://www.huseby.com/) \- Huseby, Inc. is an association of registered professional court reporters, certified legal video specialists and professional legal service providers. Providing national court reporting services, video services, litigation support services, and document management.
-
-[weight loss program](http://www.tonyferguson.com/program-background.aspx) \- When you are reading magazines that show pictures of rich, creamy desserts (and other bad foods) remind yourself that these foods are revolting and so unhealthy. Psyche yourself into believing that these unhealthy foods are not for you. RK
-
-[weight loss diet](http://www.tonyferguson.com/news-and-articles.aspx) \- Here are some great ideas for delicious and satisfying salads, entrees, desserts and more. Want to know the best part? You can enjoy all of these recipes as part of the Tony Ferguson Weight Loss program RK.
-
-[healthy diets](http://www.tonyferguson.com/typical-day.aspx) \- If you make unrealistic goals you will be setting yourself up for failure right from the word go. Each day write down your progress and the problems you had. Don't be too hard on yourself. There will be days when you go backwards but keep pushing onwards to achieve your goals. RK.
-
-[Digital Certificates India ](http://www.digicertificates.net/) \- Digi certificates are the trusted provider of online transactions through our varied services for the Digital World. Products include VeriSign, SSL, Safe Exim, MCA21, and individual Certificates online Security Services.
-
-[GED Test](http://www.huseby.com/http://www.adisonhighschool.com/adison/equivalency-test.asp) \- can enhance your IQ level
-
-[High School Diploma](http://www.adisonhighschool.com/) \- Offered bye the most reputable high school
-
-[Online GED / Online GED Test](http://www.adisonhighschool.com/adison/ged.asp) \- Offered by the online high school
-
-[Dallas Texas Foreclosures](http://www.bridgeinformation.com/) \- Find the latest Dallas investment property information.More than one anchor texts ? yes, See Special Notes
-
-[Homeschool Online](http://www.adisonhighschool.com/adison/schooling.asp) \- Provides you best comfort in ur educational issues.
-
-[Accredited High School Diploma](http://www.adisonhighschool.com/adison/accreditation-status.asp) \- Can lead you to the best possible way
-
-[Auto insurance](http://getinsurancequotes.ca/) \- Choose your auto insurance wisely by comparing competing rates from auto insurance agents across Canada. Visit GetInsuranceQuotes.ca and compare your auto quotes today!
-
-[online degrees in nursing](http://www.onlinedegreesineducation.or/) \- Get online degree in education with ease due to courtesy of online universities and colleges and complete your degree in shortest possible time.
-
-[Presentation Training Courses](http://www.businesspresentation.biz/) \- Presentation Training Courses in the UK, at Guildford Surrey, Reading Berkshire, Heathrow Middx, Basingstoke Hampshire, Oxford, Slough Berks and Camberley Surrey. The site contains: free top tips on effective presenting, an ebook entitled "A to Z of Effective Business Presentations".
-
-[Ball Gown Wedding Dress](http://www.mocean8.com/)
-
-[credit card processing](http://merchantwarehouse.com/)
-
-[Tanzanite Rings](http://www.angara.com/Tanzanite-Rings.do?cID=1941)
-
-[School Web Sites](http://www.schoolwebsite.co.uk/index.htm)
-
-[Distance learning courses](http://www.ool.co.uk/)
-
-[accept credit cards](http://merchantwarehouse.com/request_a_merchant_account)
-
-[Homeschooling](http://www.oxfordhomeschooling.co.uk/)
-
-[Assessment for learning](http://www.gl-assessment.co.uk/education/resources/afl/index.asp)
-
-[Corporate Training](http://www.eleapsoftware.com/corporate-training/corporate-training.html)
-
-[German Medical Translation](http://www.lifesciencestranslations.com/)
-
-[diet shakes](http://www.tonyferguson.com/products/shakes.aspx)
-
-[MSDS Sheet](http://www.nexreg.com/en/msds_authoring/msds_services.php)
-
-[Boarding school in India](http://www.boardingschoolinindia.com/)
-
-[Sexual Health Checks](http://www.drasun.co.uk/)
-
-[Replica Handbags](http://www.exquisitebag.com/)
-
-[seelivesport](http://toseelivesport.blogspot.com/)
-
-[Cialis ](http://www.medicamentos-genericos.es/) \- Disfrute 36 horas de relajarse con pilas pequeñas famosas como Cialis Genérico. Cialis Genérico es medicamento único contra la disfunción erectil, que se vende solo con la prescripción
+  
+RESOURCES   
+[English courses in Canada](http://www.pli.ca/courses/index.aspx)   
+[Conveyancing Fees](http://www.convey365.com/)   
+> [Canadian Prescriptions](http://www.northwestpharmacy.com/)  
+[Business Management Course London ](http://www.stanfordscollegeuk.com/) Stanfords College UK has gained a reputation for providing quality education at affordable fees in a wide range of courses including English Language, Business Management, Travel & Tourism, Accountancy and Computing, thereby meeting the needs of its students.  
+[uitwisseling amerika](http://www.ef.nl/master/hsy/destinations/usa/) EF is marktleider op het gebied van taalreizen. Volg een taalcursus, een tussenjaar of ga studeren in het buitenland. Voor alle leeftijden en meer dan 40 bestemmingen wereldwijd.  
+[Lightweight Luggage](http://www.jamesandlongbourne.co.uk/lightweight-luggage.php)  
+[hr outsourcing](http://www.northgatearinsoemployerservices.com/hr_outsourcing) NorthgateArinso are one of the leading HR outsourcing companies and provide excellent outsourced HR services.  
+[Jobs in Cambridge ](http://www.justjobscambs.co.uk/) Search and Apply Online for Jobs in Cambridge at Just Jobs Cambridge . Find a Job or Advertise a Vacancy. Sign up for a FREE account today   
+[ spanisch lernen in madrid ](http://www.babylon-idiomas.com/de/sprachschule-spanisch-madrid.htm) Spanisch lernen in unserer Sprachschule in Madrid.  
+[ cursos inglés inglaterra ](http://www.englishuk.com/es/students/en-que-lugar-del-reino-unido/centro-de-inglaterra) Asistencia para que los estudiantes elijan el curso de inglés adecuado en el Reino Unido.  
+[VASTU](http://vastushastraconsultants.com/) We provide best Vaastu Tips, Fengshui Remedy, Pyramidology Tips. Vastu Shastra for Home, Vastu for Office and many more other services related to Vastu Shastra and Vaastu.  
+[EVENT MANAGEMENT Company](http://designingsolutions.co.in/event.html) designingsolutions.co.in: is provide online information EVENT MANAGEMENT Company, Flash Animation and movie, PRINTING, EXHIBITION STALL DESIGNING & FABRICATIONS  
+[cursus spaans ](http://www.ef.nl/ils/destinations/ecuador/) Taalreis met EF! Bij ons kun je op veel mooie plekken in de wereld mooie talenreizen maken om te genieten van het buitenland en een taal leren of perfectioneren!. [Tutorial Services](http://www.greatmindsnw.com/) We at Great Minds Tutoring provides uniquely designed, highlyspecialized, one-on-one tutoring services throughout Seattle and the Eastside area.  
+[tango lessons nyc](http://www.nytango101.com/)  
+[Yaz lawsuit status ](http://www.yazsideeffectslawsuit.com/)  
+[rubber surfacing](http://www.playgroundmarkingsdirect.co.uk/category/Safety_Surfaces/20) Playground Markings Direct offer range of Playground Safety Surfaces. Playground Rubber Mulch is best for Rubber Surfacing.  
+|   
+---|---
