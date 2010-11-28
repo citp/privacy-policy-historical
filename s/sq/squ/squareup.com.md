@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209093058id_/https%3A//squareup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128232117id_/https%3A//squareup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### Square, Inc. Privacy Policy
+# Square, Inc. Privacy Policy
 
 Square respects your privacy and works hard to protect your personal information. We want you to understand how we may collect, store, use and protect any personal information. We will not share your information with anyone except as described in this Privacy Policy. When you downloaded our software in order to use our services you agreed to accept this policy. We may change this policy at any time. We will post notifications of revised versions of our policy on our website, and revised policies will be immediately effective. Throughout this Privacy Policy, we will refer to our website, software, and services collectively as the “Service.” Please note, this Privacy Policy does not apply to information we collect by other means than your use of the Service (including offline) or from other sources.
 
@@ -56,8 +54,6 @@ Processing payment transactions requires that we share your personal information
 
 
 
-You may restrict us from sharing your personal information with financial institutions for the purpose of marketing joint offerings to you, by indicating this preference on our website.
-
 As we develop our business, we may buy or sell assets or business offerings. Customer, Member, transaction, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
 
 From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Service together with third party partners. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
@@ -82,7 +78,7 @@ Square is not responsible for the practices employed by websites linked to or fr
 
 #### Notification Procedures
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by Square in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by Square in its sole discretion. We reserve the right to determine the form and means of providing notifications to you.
 
 #### Changes to Our Privacy Policy
 
@@ -100,4 +96,4 @@ San Francisco, CA 94103
 [http://squareup.com](http://squareup.com/)  
 [Email Privacy](mailto:privacy@squareup.com)
 
-Effective Date: January 26th, 2010
+Effective Date: May 17, 2010
