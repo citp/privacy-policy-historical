@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallytop10.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507231644id_/http%3A//totallytop10.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallytop10.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128165935id_/http%3A//totallytop10.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TotallyTop10 - Funny Top Ten Lists
 
