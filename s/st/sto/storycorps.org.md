@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storycorps.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615131105id_/http%3A//storycorps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storycorps.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128092551id_/http%3A//storycorps.org/privacy-policy) for the most accurate reproduction.*
 
-# StoryCorps » Privacy Policy
+# Privacy Policy
 
 Last updated March 15, 2010
 
