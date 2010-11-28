@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126041229id_/http%3A//www.lbi.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128123539id_/http%3A//www.lbi.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement « LBi - Lost Boys international
+# Privacy statement
 
 ## Your privacy matters to us
 
