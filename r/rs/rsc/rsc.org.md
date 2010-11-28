@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235207id_/http%3A//rsc.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128041506id_/http%3A//rsc.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,7 +33,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
 
   * To allow you to carry information across pages of our site and avoid having to re-enter information;
   * To allow you to maintain a shopping basket;
-  * Within registration to allow you to access stored information.      
+  * Within registration to allow you to access stored information.       
 
 
 
@@ -41,7 +41,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
 
   * To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly;
   * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way;
-  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.      
+  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.       
 
 
 
@@ -51,7 +51,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
   * To control how often you are shown a particular advertisement;
   * To tailor content to your preferences;
   * To count the number of anonymous users of our sites;
-  * To provide security within shopping baskets, e.g. to pay for a membership subscription or a journal pay-per-view.      
+  * To provide security within shopping baskets, e.g. to pay for a membership subscription or a journal pay-per-view.       
 
 
 
@@ -78,3 +78,7 @@ This privacy policy does not cover the links within this site linking to other s
 ### Changes to this policy
 
 This policy is updated from time to time without notice. You may wish to bookmark this page for changes.
+
+### MyRSC Privacy
+
+Any information submitted to MyRSC is securely held by Small World Lab in Austin, Texas, US. The RSC is the sole user of this information. For further information please see the small world labs privacy statement.
