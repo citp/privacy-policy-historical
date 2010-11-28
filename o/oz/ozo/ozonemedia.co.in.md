@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozonemedia.co.in privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327135910id_/http%3A//www.ozonemedia.co.in/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozonemedia.co.in privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128033059id_/http%3A//www.ozonemedia.co.in/html/privacy.html) for the most accurate reproduction.*
 
 # OZONE MEDIA - India's leading ad network with a large & growing publisher base sure to ensure perfectly targetted advertising
 
@@ -36,4 +36,4 @@ SERVICES**
 The security of your Personal Information is important to us. OZONE MEDIA takes technical, contractual, administrative, and physical security steps to protect Personal Information that you provide to us.  
 If you provide credit card information to us, we work to help protect the security of your credit card information during transmission by using industry standard Secure Sockets Layer (SSL) encryption technology.  
 If you decide at any time that you do not want to receive any e-mail materials to which you have subscribed, you may choose to unsubscribe to these e-mails by Contacting Us.  
-If you have questions, comments or suggestions about this Privacy Policy or OZONE MEDIA 's privacy practices that were not answered here, [Contact Us](https://web.archive.org/web/20100327135910id_/http%3A//www.ozonemedia.co.in/html/contact.html)
+If you have questions, comments or suggestions about this Privacy Policy or OZONE MEDIA 's privacy practices that were not answered here, [Contact Us](https://web.archive.org/web/20101128033059id_/http%3A//www.ozonemedia.co.in/html/contact.html)
