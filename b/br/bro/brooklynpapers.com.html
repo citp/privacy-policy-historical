@@ -1,0 +1,666 @@
+<!--The following is the downloaded HTML source of the brooklynpapers.com privacy policy that was archived on 2010-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128020045id_/http%3A//brooklynpaper.com/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" class="webkit safari linux js"><head>
+<title>The Brooklyn Paper: BrooklynPaper.com Privacy Policy</title><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="robots" content="all">
+
+<!--links to style sheets-->
+<style type="text/css" media="screen">@import url("/assets/styles/main.css");</style>
+<link rel="stylesheet" media="print" href="/assets/styles/print.css" type="text/css">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="/assets/styles/IE.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 6]>
+    <link rel="stylesheet" href="/assets/styles/IE6.css" type="text/css">
+<![endif]-->
+
+
+
+
+<script type="text/javascript">var pub = "bp";
+var subPub = "none"; var yourip = "207.241.232.195"; var bpv = "BP_VOLUME"; var bpi = "BP_ISSUE";</script><!--changes class of html tag to reflect browser-->
+<script src="/assets/scripts/browser.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/scripts/swfobject2.js"></script>
+
+
+<script type="text/javascript">
+
+var initiated = false;
+function element_swap(ida,idb) {
+	x = document.getElementById(ida);
+	y = document.getElementById(idb);
+	if ((x != null) && (y != null)) {
+		x.innerHTML = y.innerHTML;
+	}
+};
+function init() {
+	if (initiated) return;
+	initiated = true;
+
+	//Swap out hidden Google ads to hack the FOUC
+	element_swap("theGoogleLeaderboardAd_","theGoogleLeaderboardAd");
+	//element_swap("theAd3_","theAd3");
+	//element_swap("theAd1_","theAd1");
+};
+swfobject.addDomLoadEvent(init);
+var storyland = false;
+
+//alert(yourip);
+
+function tryMegaMap () {
+	if (typeof megaMapInit != 'undefined') {
+		megaMapInit();
+	}
+	
+	if (typeof GUnload != 'undefined') {
+		node = document.getElementsByTagName("body")[0];
+		node.onunload = GUnload;
+	}
+}
+
+function getElementsByClassName(classname)  {
+	node = document.getElementsByTagName("body")[0];
+	var a = [];
+	var re = new RegExp('\\b' + classname + '\\b');
+	var els = node.getElementsByTagName("*");
+	for(var i=0,j=els.length; i<j; i++)
+		if(re.test(els[i].className))a.push(els[i]);
+	return a;
+}
+
+function loadJWVideo (theFile, theId, splash, height, width, dispht, stretch) {
+	var flashvars = {};
+	flashvars.allowfullscreen = "false";
+	flashvars.usefullscreen = "false";
+	flashvars.file = theFile;
+	flashvars.autostart = "false";
+	flashvars.repeat = "false";
+	flashvars.shuffle = "false";
+	flashvars.height = height;
+	flashvars.width = width;
+	flashvars.displayheight = dispht;
+	flashvars.thumbsinplaylist = "false";
+	flashvars.overstretch = stretch;
+	flashvars.showdownload = "true";
+	flashvars.callback = "analytics";
+	flashvars.image = splash;
+	
+	swfobject.embedSWF("/assets/scripts/mediaplayer.swf", theId, width, height, "9.0.0", false, flashvars);
+	return true;
+}
+</script>
+
+
+<script type="text/javascript" src="/assets/scripts/json.js"></script>
+
+
+
+
+<!--
+<script type="text/javascript">
+if (/WebKit|Mozilla/i.test(navigator.userAgent)) { // sniff
+	var _timer = setInterval(function() {
+		if (/loaded|complete/.test(document.readyState)) {
+			clearInterval(_timer);
+			init(); // call the onload handler
+		}
+	}, 10);
+} else {
+	init();
+}
+</script>
+-->
+<!--links to feeds-->
+<link rel="alternate" type="application/rss+xml" title="Brooklyn Paper RSS: Full articles" href="/assets/feeds/rss_full.x">
+<link rel="alternate" type="application/rss+xml" title="Brooklyn Paper RSS: Excerpts" href="/assets/feeds/rss.x">
+<link rel="alternate" type="application/rss+xml" title="GO Brooklyn RSS: Full articles" href="/assets/feeds/go_full.x">
+<link rel="alternate" type="application/rss+xml" title="GO Brooklyn RSS: Excerpts" href="/assets/feeds/go.x">
+<link rel="alternate" type="application/rss+xml" title="Concert listings RSS" href="/assets/feeds/nightlife.x">
+<link rel="alternate" type="application/rss+xml" title="Events calendar RSS" href="/assets/feeds/events.x">
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS" href="/assets/feeds/podcast.x">
+<link rel="alternate" type="application/rss+xml" title="The Brooklyn Wire RSS" href="/assets/feeds/wire.x">
+
+<!--disables hovering satanic toolbar in IE-->
+	<meta http-equiv="IMAGETOOLBAR" content="false">
+
+<!--bookmark icon-->
+<meta name="description" content="Your neighborhood, your news."><meta name="keywords" content="brooklyn, kings county, newspaper, news, new york, bklyn"><link rel="shortcut icon" href="/assets/images/favicon.ico">
+<script type="text/javascript">
+var clickReq;
+
+function logClick (campaign, ad) {
+	URL = "/assets/scripts/putclick.x?ad=" + escape(ad) + "&c=" + escape(campaign) + "&pub=" + escape(pub); 
+	if (window.XMLHttpRequest) {
+		clickReq = new XMLHttpRequest();
+		//clickReq.onreadystatechange = clickProcReq;
+		clickReq.open("GET", URL, true);
+		clickReq.send(null);
+	} else if (window.ActiveXObject) {
+		clickReq = new ActiveXObject("Microsoft.XMLHTTP");
+		if (clickReq) {
+			//clickReq.onreadystatechange = clickProcReq;
+			clickReq.open("GET", URL, true);
+			clickReq.send();
+		}
+	}
+}
+
+function flipToggle(id,tri) {
+	x=document.getElementById(id);
+	y=document.getElementById(tri);
+	if ((x == null) || (y == null)) return;
+	
+	if (x.style.display=='block') {
+		y.src='/assets/images/closed8.png';
+		y.alt='Open:';
+		x.style.display='none';
+	} else {
+		x.style.display='block';
+		y.src='/assets/images/open8.png';
+		y.alt='Close:';
+	}
+}
+</script>
+
+
+<script type="text/javascript">
+var jsReq;
+
+function tryJs() {
+	var URL = "/assets/scripts/tryjs.x"; 
+	if (window.XMLHttpRequest) {
+		jsReq = new XMLHttpRequest();
+		jsReq.open("GET", URL, true);
+		jsReq.send(null);
+	} else if (window.ActiveXObject) {
+		jsReq = new ActiveXObject("Microsoft.XMLHTTP");
+		if (jsReq) {
+			jsReq.open("GET", URL, true);
+			jsReq.send();
+		}
+	}
+}
+tryJs();
+</script>
+
+</head>
+<body>
+
+
+
+<div id="theMegaWrapper" class="GREEN">
+
+<div id="theMasterWrapper">
+
+<div id="theBannerWrapper">
+
+
+
+
+	<div id="theBanner">
+			<div id="theLogo" style="white-space: nowrap;">
+<a href="/"><img src="/assets/images/bplogo_med8.gif" width="400" height="50" alt="The Brooklyn Paper"></a>			</div>
+
+			<div id="thePrintLogo">
+<img src="/assets/images/print_logo8.png" width="336" height="42" alt="The Brooklyn Paper">
+			</div>
+		
+			<!--<div id="theSponsor">
+<a href="/stories/30/30/30_30noty.html" target="_blank"><img src="/assets/images/notybug.gif" width="61" height="40" alt="The Brooklyn Paper: SNA Newspaper of the Year, 2007"></a>
+			</div>-->
+			
+				<div id="theSearchBar" style="width: 246px; height: 52px; background: transparent url(/assets/images/search_box8.gif) no-repeat scroll 0 0; margin: 0; padding: 0;">
+			
+					<form method="GET" action="/search/">
+					
+<table border="0" cellspacing="0" cellpadding="0" style="width: 246px; height: 54px;">
+	<tbody><tr>
+		<td colspan="2" style="height: 27px; vertical-align: middle; text-align: center;">
+<input type="text" name="q" maxlength="255" id="q" value="Concerts this weekend? Sushi?" onfocus="if (this.value=='Concerts this weekend? Sushi?') { this.value=''; this.style.color='black'; }" style="border-width: 0; outline-width: 0; background-color: transparent; font-size: 11px; padding: 0 5px; width:95%; color: #666; margin: 0;">		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align: middle; text-align: left; width: 50%;">
+		
+<input type="image" src="/assets/images/search_button8.gif" alt="Search Brooklyn" value="Search" id="sa" style="width: 116px; height: 24px; padding: 0; border: 0; outline: 0; margin: 0;" onmouseover="this.src='/assets/images/search_button_over8.gif';" onmouseout="this.src='/assets/images/search_button8.gif';">
+		</td>
+		<td style="vertical-align: middle; text-align: right; width: 50%;">
+		
+<select name="s" class="view" style="margin: 0; width: 96%; outline: 0;">
+<option selected="selected">Search all</option>
+<option>Restaurants</option>
+<option>Classifieds</option>
+<option>Events calendar</option>
+<option>Brooklyn blogs</option>
+<option>Article search</option>
+<option>Search the Web</option>
+</select>
+		</td>
+	</tr>
+</tbody></table>
+					</form>
+				</div><div style="clear:both;"></div>
+	<!-- /theBanner --></div>
+<!-- /theBannerWrapper --></div>
+<div id="theSubBannerWrapper">
+<div id="theSubBanner"><div id="theAlts"><div id="altsDate">November 27, 2010</div>
+	<a href="/archive/" id="altsArchive"><img src="/assets/images/paper8.png" height="10" width="10" alt="">Past issues</a><a href="/feeds/" id="altsFeeds" title="Access our RSS 2.0 feeds"><img src="/assets/images/feed8.png" height="10" width="10" alt="">RSS feeds</a>
+	<a href="/about/where/" id="altsPrint" title="Where to get the Brooklyn Paper in print"><img src="/assets/images/stack8.png" height="10" width="10" alt="">The Paper in print</a>
+	<a href="http://twitter.com/Brooklyn_Paper" id="altsTwitter" title="Follow The Brooklyn Paper via Twitter"><img src="/assets/images/twitter.png" height="10" width="10" alt="">Twitter</a>
+	<a href="http://www.facebook.com/pages/The-Brooklyn-Paper/47525629960" id="altsFacebook" title="Follow The Brooklyn Paper via Facebook"><img src="/assets/images/facebook.png" height="10" width="10" alt="">Facebook</a><a href="/about/alerts/" id="altsBlast" title="Receive updates via email"><img src="/assets/images/mail_alt8.png" height="10" width="10" alt="">Email newsletter</a></div><!-- /theSubBanner --></div>
+<!-- /theSubBannerWrapper --></div><div id="thePage">
+<div id="theColumns">
+	<dl id="theLinkColumn" class="linkColumn">
+			<dt class="top"><a href="/">The current issue</a></dt><dd></dd>
+			
+			<dt><a href="/sections/neighborhoods/" title="Find your neighborhood news on our Brooklyn map">Neighborhood Map</a></dt>
+		<dd><dl>
+			<dt><a href="/sections/bay_ridge/" title="Bay Ridge, Bensonhurst and Dyker Heights news">Bay Ridge</a></dt>
+			<dd><ul class="subcats">
+<li>Bensonhurst, Dyker Heights</li>
+			</ul></dd>
+
+			<dt class="top"><a href="/sections/downtown/" title="Brooklyn Heights, DUMBO and Downtown Brooklyn news">Brooklyn Heights</a></dt>
+			<dd><ul class="subcats">
+<li>Downtown, DUMBO</li>
+			</ul></dd>
+			
+			<dt class="top"><a href="/sections/carroll_gardens/" title="Carroll Gardens, Cobble Hill, Red Hook and Boerum Hill news">Carroll Gardens</a></dt>
+			<dd><ul class="subcats">
+<li>Cobble Hill, Red Hook, Boerum&nbsp;Hill</li>
+			</ul></dd>
+
+			<dt class="top"><a href="/sections/fort_greene/" title="Fort Greene and Clinton Hill news">Fort Greene</a></dt>
+			<dd><ul class="subcats">
+<li>Clinton Hill, Crown Heights</li>
+			</ul></dd>
+			
+			<dt class="top"><a href="/sections/williamsburg/" title="Williamsburg, Greenpoint and Bushwick news">North Brooklyn</a></dt>
+			<dd><ul class="subcats">
+<li>Williamsburg, Greenpoint, Bushwick</li>
+			</ul></dd>
+			
+			<dt class="top"><a href="/sections/park_slope/" title="Park Slope news">Park Slope</a></dt>
+			<dd><ul class="subcats">
+<li>Prospect Heights, Windsor Terrace, Greenwood Heights</li>
+			</ul></dd>
+		</dl></dd>
+
+			<dt><a href="/sections/go/" title="Brooklyn arts &amp; entertainment">GO Brooklyn</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/go/art/" title="Brooklyn art shows">Art</a></li>
+<li><a href="/sections/perspective/cartoons/bar_scrawl/" title="Brooklyn Cartoon Bar Reviews by Bill Roundy">Bar Scrawl</a></li>
+<li><a href="/sections/go/books/" title="Brooklyn books">Books</a></li>
+<li><a href="/sections/go/cinema/" title="Brooklyn film">Cinema</a></li>
+<li><a href="/sections/go/fashion/" title="Brooklyn fashion">Fashion</a></li>
+<li><a href="/sections/go/music/" title="Brooklyn music">Music</a></li>
+<li><a href="/sections/go/dining/" title="Brooklyn restaurant reviews">Restaurants</a></li>
+<li><a href="/sections/go/shopping/" title="Brooklyn shopping">Shopping</a></li>
+<li><a href="/sections/go/theater/" title="Brooklyn theater">Theater</a></li>
+			</ul></dd>
+
+			<dt><a href="/sections/go/dining/guide/" title="Brooklyn restaurant listings">Dining Guide</a></dt>
+			<dd></dd>			
+
+			<dt><a href="/sections/go/events/" title="Our comprehensive calendar of Brooklyn events">Where to GO<br><span style="text-transform: uppercase; font-size:80%;margin-left: 1px;">Events calendar</span></a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/go/events/cat/Nightlife" title="Brooklyn rock, jazz and hip hop concerts">Nightlife</a></li>
+<li><a href="/sections/go/events/cat/Family" title="Brooklyn events for kids">Family events</a></li>
+<li><a href="/sections/go/events/cat/Civic" title="Brooklyn civic and political events">Civic calendar</a></li>
+<li><a href="/sections/go/events/venues/" title="Brooklyn clubs and venues">Venue list</a></li>
+<li><a href="/sections/go/events/?map=1&amp;date_code[]=20101127" title="Brooklyn events map"><b>MAP:</b> Today’s events</a></li><li><a href="/events/submit/">Submit an event</a></li>
+			</ul></dd>
+
+			<dt><a href="/sections/classifieds/" title="Brooklyn Classifieds">Classifieds</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/classifieds/cat/Employment" title="Jobs in Brooklyn">Employment</a></li>
+<li><a href="/sections/classifieds/cat/Family" title="Family classifieds in Brooklyn">Family</a></li>
+<li><a href="/sections/classifieds/cat/Home+Improvement" title="Brooklyn home improvement services">Home Improvement</a></li>
+<li><a href="/sections/classifieds/cat/Merchandise" title="Brooklyn Merchandise listings">Merchandise</a></li>
+<li><a href="/sections/classifieds/cat/Real+Estate" title="Brooklyn Real Estate listings">Real Estate</a></li>
+<li><a href="/sections/classifieds/cat/Professional+Services" title="Brooklyn Service listings">Professional Services</a></li>
+<li><a href="/sections/classifieds/cat/Religious+Services" title="Brooklyn churches, synagogues, temples and mosques">Religious Services</a></li>
+			</ul></dd>
+			
+			<dt><a href="/sections/wire/" title="The Brooklyn Wire: Scouring the Web for All Things Brooklyn">The Brooklyn Wire</a></dt>
+
+			<dt><a href="/sections/news/development/" title="Brooklyn development">Not Just Nets</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/news/development/atlantic_yards/" title="The Best Coverage on Bruce Ratner’s Atlantic Yards Mega-Development">Atlantic Yards</a></li>
+<li><a href="/sections/news/development/bam_district/">BAM Cultural District</a></li>
+<li><a href="/sections/news/development/brooklyn_bridge_park/">Brooklyn Bridge ‘Park’</a></li>
+<li><a href="/sections/news/development/coney_island/">Coney Island development</a></li>
+<li><a href="/sections/news/development/downtown/">The Downtown plan</a></li>
+<li><a href="/sections/news/development/dumbo/">DUMBO development</a></li>
+<li><a href="/sections/news/development/gowanus/">Gowanus Canal zone</a></li>
+<li><a href="/sections/news/development/red_hook_waterfront/">The Red Hook waterfront</a></li>
+<li><a href="/sections/news/development/rezoning/">Rezoning</a></li>
+<li><a href="/sections/news/development/williamsburg/">Williamsburg waterfront</a></li>
+			</ul></dd>
+			
+			<dt><a href="/sections/news/crime/">Police Blotter</a></dt>
+			<dd><ul class="subcats">
+			<li><a href="/sections/news/crime/blotter/">Crime database</a></li>
+<li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20101117-20101127" title="Brooklyn crime map"><b>MAP:</b> Last 10 days</a></li><li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20101028-20101127" title="Brooklyn crime map"><b>MAP:</b> Last 30 days</a></li><li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20100829-20101127" title="Brooklyn crime map"><b>MAP:</b> Last 90 days</a></li>						</ul></dd>
+						
+			<dt><a href="/sections/perspective/" title="Columns, blogs, &amp; editorials">Perspective</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/perspective/editorials/">Editorials</a></li>
+<li><a href="/sections/perspective/brooklyn_angle/">The Brooklyn Angle</a></li>
+<li><a href="/sections/perspective/cartoons/" title="Brooklyn Editorial Cartoons by Cristian Fleming">All Drawn Out</a></li>
+<li><a href="/sections/perspective/letters/">Letters</a></li>
+			</ul></dd>
+			
+			<dt><a href="/sections/parenting/" title="Columns, blogs, &amp; editorials">Parenting</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/perspective/fearless_parenting/">Fearless Parenting</a></li>
+<li><a href="/sections/perspective/thedad/">The Dad</a></li>
+<li><a href="/sections/perspective/smartmom/">Smartmom</a></li>
+<li><a href="/sections/perspective/dooley/">Dooley Noted</a></li>
+<li><a href="/sections/go/events/cat/Family">Family Calendar</a></li>
+<li><a href="http://www.webfamilyny.com" title="Our sister magazine for Brooklyn parents">Brooklyn Family magazine</a></li>
+			</ul></dd>
+			
+			<dt><a href="/sections/news/politics/" title="Brooklyn Politics">Politics</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/news/politics/election/" title="Brooklyn election news">Election coverage</a></li>
+<li><a href="/sections/news/development/gowanus/cleaning/" title="Gowanus Canal cleanup news">Cleaning the Gowanus</a></li>
+			</ul></dd>
+
+			<dt><a href="/sections/news/transit/" title="Brooklyn transit news">Transit</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/news/transit/mean/">Mean Streets</a></li>
+			</ul></dd>
+			
+			<dt><a href="/sections/media/podcast/" title="The Brooklyn Paper Podcast">Podcasts</a></dt>	
+			<dd><ul class="subcats">
+<li><a href="/sections/media/podcast/hoier/" title="Frank Hoier’s Rhythm &amp; News">Rhythm &amp; News</a></li>
+<li><a href="/sections/media/podcast/smash/" title="Rapid-fire video music reviews">Smash or Trash</a></li>
+			</ul></dd>
+			
+			
+			<dt><a href="/sections/sports/cyclones/" title="Brooklyn Cyclones news and game coverage">Brooklyn Cyclones</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/sports/cyclones/schedule/" title="Brooklyn Cyclones schedule">Cyclones schedule &amp; scores</a></li>
+<li><a href="/sections/sports/cyclones/standings/" title="New York–Penn League standings">NYP League standings</a></li>
+<li><a href="/sections/sports/cyclones/roster/" title="Brooklyn Cyclones roster">Cyclones roster</a></li>
+<li><a href="/sections/sports/cyclones/shakespeare/">The Play’s the Thing</a></li>
+			</ul></dd>
+
+			<dt><a href="/sections/advertorial/" title="Brooklyn businesses">Merchant news</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/sections/advertorial/health/" title="Brooklyn health">Health, Mind &amp; Body</a></li>
+<li><a href="/giftguide/" title="Brooklyn gift guide">Holiday gift guide</a></li>
+			</ul></dd>
+
+			<dt><a href="/about/" title="About The Brooklyn Paper">About The Paper</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/about/contact/advertise/" title="Advertising in the Brooklyn Paper">How to advertise</a></li>
+<li><a href="/about/media/">Advertising media kit</a></li>
+<li><a href="/about/contact/">Contact us</a></li>
+<li><a href="/about/alerts/">Get updates via email</a></li>
+<li><a href="/about/opt-out/">Home delivery opt-out</a></li>
+<li><a href="/about/problems/">Home delivery problems</a></li>
+<li><a href="/about/contact/letters/">Letter to the Editor</a></li>
+<li><a href="/archive/">News archive</a></li>
+<li><a href="/about/where/">The Paper in print</a></li>
+<li><a href="/about/privacy/">Privacy Policy</a></li>
+<li><a href="/about/terms/">Terms of Use</a></li>
+			</ul></dd>
+
+			<dt><a href="http://twitter.com/Brooklyn_Paper" title="Follow The Brooklyn Paper via Twitter"><img src="/assets/images/twitter.png" height="10" width="10" alt=""> Twitter</a></dt>
+			<dd></dd>
+			
+			<dt><a href="http://www.facebook.com/pages/The-Brooklyn-Paper/47525629960" title="Follow The Brooklyn Paper via Facebook"><img src="/assets/images/facebook.png" height="10" width="10" alt=""> Facebook</a></dt>
+			<dd></dd>
+		
+			<dt><a href="/feeds/"><img src="/assets/images/feed8.png" height="10" width="10" alt=""> RSS Feeds</a></dt>
+			<dd><ul class="subcats">
+<li><a href="/assets/feeds/rss_full.x">The Brooklyn Paper</a></li>
+<li><a href="/assets/feeds/rss.x">Headlines only</a></li>
+<li><a href="/assets/feeds/go.x">GO Brooklyn</a></li>
+<li><a href="/assets/feeds/nightlife.x">Concert listings</a></li>
+<li><a href="/assets/feeds/events.x">Event listings</a></li>
+<li><a href="/assets/feeds/podcast.x">Podcast</a></li>
+<li><a href="/assets/feeds/wire.x">The Brooklyn Wire</a></li>
+			</ul></dd>	
+		
+			
+			<!--<dt></dt>
+			<dd>
+			<ul class="ads">-->
+			<!--</ul></dd>-->
+
+	<!-- /theLinkColumn --></dl><div id="theContent">
+
+<div id="theAdBar">
+
+<div class="leaderboard"><a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=298&amp;ad=446&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.prattarea.org%2Fgates%2Fcontact.html" target="_blank"><img src="/assets/ads/33_45_gatescoop_728x90.jpg" width="728" height="90" alt="Gates Cooperative"></a></div><input type="hidden" class="placedAd" value="298:446">
+</div>		<div id="theNewsColumn">
+		<div id="theSectionWrapper">
+		<div id="theModulebar" class="column">
+			
+				<div id="theHotStories" class="module">
+		<div class="stories">
+		<h1 class="logog"><img src="/assets/images/enfuegos_mini8.png" alt="Popular stories"></h1><div class="story" style="color:#444;font-size 90%;font-style:italic;text-align:center;">Our top 5 stories</div>
+		<div class="story"><span class="kicker">1.</span> <a href="/stories/33/48/print_77murder_2010_11_26_bk.html"><span class="kicker">Prospect Heights:</span> ‘Repent’! Actor goes berserk and kills mom, cops say</a></div><div class="story"><span class="kicker">2.</span> <a href="/stories/33/48/all_hawthorneclosed_2010_11_26_bk.html"><span class="kicker">Dining:</span> We knew it! Illegal backyard restaurant closed down after city crackdown</a></div><div class="story"><span class="kicker">3.</span> <a href="/stories/33/47/dtg_goosefoia_2010_11_19_bk.html">Executioners sing! New documents reveal full extent of park goose-icide</a></div><div class="story"><span class="kicker">4.</span> <a href="/stories/33/48/wb_riteaid_2010_11_26_bk.html"><span class="kicker">Greenpoint:</span> Buyer could ‘Rite’ a historic wrong at Greenpoint’s movie palace pharmacy</a></div><div class="story"><span class="kicker">5.</span> <a href="/stories/33/48/ps_firebomb_2010_12_3_bk.html"><span class="kicker">Park Slope:</span> Firebomb! Thugs torch cars on 14th Street in Slope</a></div>		</div>
+				<div class="base"></div>
+			<!-- /module --></div>
+				<div id="theWireModule" class="module">
+		<div class="stories">
+		
+		<h1 class="logog"><a href="/sections/wire/"><img src="/assets/images/wire_teeny8.png" width="154" height="63" alt="The Brooklyn Wire"></a></h1>
+			<div class="story" style="color:#444;font-size 90%;font-style:italic;text-align:center;">Scouring the Web for all things Brooklyn</div>
+		
+		<div class="story"><a href="http://feeds.gothamistllc.com/click.phdo?i=c5c94425a8e2419ef2935a566f1c17a7"><span class="kicker">Gothamist:</span> Extra, Extra</a></div><div class="story"><a href="http://www.dddb.net/php/latestnews_Linked.php?id=2826"><span class="kicker">Develop Don’t Destroy Brooklyn:</span> Indomitable Freddy’s To Open in New 5th Avenue Space</a></div><div class="story"><a href="http://www.dddb.net/php/latestnews_Linked.php?id=2825"><span class="kicker">Develop Don’t Destroy Brooklyn:</span> Marty Hypocritz Calls for City Council Approval for Bike Lanes, Atlantic Yards Not So Much</a></div><div class="story"><a href="http://www.dddb.net/php/latestnews_Linked.php?id=2828"><span class="kicker">Develop Don’t Destroy Brooklyn:</span> The Times Gives Prokhorov a Sunday Feature (No Mention of Atlantic Yards)</a></div><div class="story"><a href="http://www.dddb.net/php/latestnews_Linked.php?id=2831"><span class="kicker">Develop Don’t Destroy Brooklyn:</span> Court Ruling Ensures History Will Not Forget How Atlantic Yards Went Down</a></div>		</div>
+				<div class="base"></div>
+			</div><script type="text/javascript" src="http://www.paperg.com/jsfb/embed.php?pid=8176&amp;bid=2515"></script><br><div id="PG_link" align="center"><a href="http://www.paperg.com/">Local advertising</a> by PaperG</div>
+
+
+		<!-- /theModulebar --></div>
+			<div id="theLeadColumn" class="column">
+			<div id="theSectionHead"><h1>BrooklynPaper.com Privacy Policy</h1></div>
+				<div id="theArticle">
+<p><i>Effective Date April 30, 2009</i></p>
+<p>News Community Newspapers Holdings, Inc. (“NCNH”), which includes www.BrooklynPaper.com and other Internet sites controlled by NCNH, Courier-Life, Inc., Queens Publishing Corp. (aka Times Ledger Newspapers) and Bronx Times Reporter, Inc. (“NCNH Sites”), is part of the News America Group, which has adopted a set of <a href="http://www.newscorp.com/privacy.html">“new” Privacy Principles</a>applicable to all its U.S.–based companies. NCNH has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S.</p>
+<p>From time to time NCNH may revise this Privacy Policy to reflect changes in the law, technology, industry initiatives, the features of the NCNH Sites or off-line data collection practices. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If NCNH materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.</p>
+<p>COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION (“PII”) BY NCNH</p>
+<p>GENERAL. NCNH collects personally identifiable information (“PII” — that is, information such as your full name, email address, mailing address or telephone number) in order to create or enhance our relationship with you. For example, NCNH collects PII from you when you submit comments to NCNH Sites. We also collect PII when you participate in activities on NCNH Sites such as sweepstakes, contests, surveys, forums, bulletin boards, polls, e-mailing to a friend and subscription registrations; when you submit comments, content or suggestions to us; or when you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties.</p>
+<p>COOKIES. Cookies are small bits of information that NCNH Sites place on the hard drive of your computer. Cookies remember information about your activities on our sites and enable NCNH to make your visits to NCNH Sites more enjoyable. For example, cookies can store your name and password for easy logon to a site you have previously visited, can keep track of whether or not you have voted in an online poll, can save information concerning the sections and/or stories you visit the most or can track the items you have placed in your “shopping cart” during a visit to our online store. Information about your activities on NCNH Sites and other non-personally identifiable information about you may also be used to limit the online ads you encounter to those we believe are consistent with your interests.</p>
+<p>Third party advertisements displayed on NCNH Sites may also contain cookies set by Internet advertising companies or advertisers (See “Notice” below). NCNH does not control these cookies and visitors to NCNH Sites should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies.</p>
+<p>NCNH may use cookies and similar tools to relate your use of NCNH Sites to PII obtained from you or a reputable third party. For example, if you’ve asked us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on NCNH Sites can allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if NCNH wishes to combine personal and cookie or click stream information in this manner, we will obtain your express prior consent.</p>
+<p>You can program your computer to warn you each time a cookie is being set or to refuse cookies completely. However, without cookies you may not have access to features of the NCNH Sites.</p>
+<p>NOTICE: NCNH WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES</p>
+<p>When NCNH collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses we will make of the information.</p>
+<p>At the time your PII is collected, NCNH will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See “Choice” below). This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information, provided you have given NCNH permission to do so (See “Use” below).</p>
+<p>Sometimes we collect personally identifiable information from consumers in manual format, such as a post card, in-paper contest, or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.</p>
+<p>The NCNH Sites may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with the BROOKLYN PAPER logo, even though they are not operated or maintained by NCNH (for example, special sections appearing online may be hosted and maintained by another company). The NCNH Sites also carry advertisements from other companies. Although we choose our business partners and advertisers carefully, NCNH is not responsible for the privacy practices of web sites operated by third parties that are linked to NCNH Sites or for the privacy practices of third party or national Internet advertising companies. Once you’ve left an NCNH Site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.</p>
+<p>The NCNH Sites may also be linked to sites operated by companies affiliated with NCNH (i.e., that are part of the News America Group). Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.</p>
+<p>Some of the advertisements that appear on NCNH Sites may be delivered to you by Dot Connect Media or national Internet advertising companies. These companies utilize certain technologies to deliver and select advertisements and marketing messages based upon anonymous information their technologies collect about your visit to NCNH Sites, including information about the banner ads they display, their cookie and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit  <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<p>CHOICE: NCNH WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII</p>
+<p>NCNH will not use the PII we collect from you for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with NCNH, unless we obtain your consent.</p>
+<p>USE: NCNH’S USE OF PII</p>
+<p>NCNH will use your PII in a manner that is consistent with this Policy. If NCNH obtains PII from a third party, such as a business partner, our use of that information is governed by this Policy.</p>
+<p>NCNH may share your PII with companies that are affiliated with us, that is, part of the News America Group of companies. Provided you have given us permission, NCNH may also share your PII with advertisers and business partners that are not part of the News America Group of companies, but would like to send you information about their products and services. For example, we may offer promotions, contests, or sweepstakes in conjunction with a business partner with whom we may share your PII. When we do this, there will be a link to the partner’s privacy policy when PII is collected. Moreover, we will never share your credit card information with third parties except those NCNH uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make through NCNH Sites.</p>
+<p>NCNH employees, agents and contractors must have a legitimate business reason to obtain access to your PII. NCNH may share your PII with outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses), but they may only use your PII to provide NCNH with a specific service and not for any other purpose.</p>
+<p>NCNH may also enter into agreements with outside companies that possess the technology that allows NCNH to customize the advertising and marketing messages you receive on NCNH Sites. Your non-PII and click stream data about your activities on NCNH Sites may be shared with these companies so this customization can be accomplished. These companies will not share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with NCNH’s advertisers and business partners.</p>
+<p>There may be instances when NCNH may disclose PII without providing you with a choice in order to protect the legal rights of NCNH, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to NCNH Sites; to protect against fraud or for risk management purposes; or comply with the law or legal process. In addition, if NCNH sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, NCNH may transfer your PII to a third party as part of that transaction.</p>
+<p>SECURITY: NCNH PROTECTS THE SECURITY OF PII</p>
+<p>NCNH uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, NCNH uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. Passwords stored by NCNH are encrypted both in transit and when stored within NCNH’s online databases.</p>
+<p>ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII</p>
+<p>To review or modify your preferences or to delete the PII that NCNH has collected from you via the NCNH Sites, contact The NCNH Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE.</p>
+<p>To review, modify or delete the PII NCNH has collected off-line about you (from reputable third parties, newspaper subscription data, etc.), email us at  bpproduction@cnglocal.com.</p>
+<p>Note that it may take up to 10 days for NCNH to modify or delete your PII in all its databases.</p>
+<p>To obtain a list of third parties, including News America Group companies, with which NCNH may have shared PII collected from you and the types of data shared, contact bpproduction@cnglocal.com.</p>
+<p>REMEDIES AND COMPLIANCE: HOW TO CONTACT NCNH ABOUT PRIVACY CONCERNS</p>
+<p>To contact NCNH regarding the collection and use of your PII or any other privacy issues:</p>
+<p>Privacy Office</p>
+<p>Community Newspaper Group</p>
+<p>1211 Avenue of the Americas</p>
+<p>NY, NY 10036</p>
+<p>privacy@yournabe.com</p>
+				</div>
+				
+				<div style="clear:both;"></div>
+			<!-- /theLead column --></div>
+
+	<!-- /theSectionWrapper --></div>
+	<!-- /theNewsColumn --></div>
+	
+	<div id="theAdColumn">
+<div class="skyscraper"><a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=292&amp;ad=435&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.shopeba.com%2Fcurrent_promotions.html" target="_blank"><img src="/assets/ads/33_45_eba_120x600.png" width="120" height="600" alt="EBA"></a></div><input type="hidden" class="placedAd" value="292:435"><div class="tower"><a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=242&amp;ad=346&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.theartistgarden.com" target="_blank"><img src="/assets/ads/33_13_artistgarden1_120_240.jpg" width="120" height="240" alt="The Artist Garden"></a></div><input type="hidden" class="placedAd" value="242:346">
+	<div id="linksTopper"><h1>Links</h1></div>
+	<dl id="theBlogLinks" class="linkColumn">
+		<dt class="top">Blogs</dt>
+		<dd><ul class="subcats">
+<li><a href="http://acrossthepark.typepad.com/atp/">Across the Park</a></li>
+<li><a href="http://amusingthezillion.com">Amusing the Zillion</a></li>
+<li><a href="http://atlanticyardsreport.blogspot.com">Atlantic Yards Report</a></li>
+<li><a href="http://bayridgebrooklyn.blogspot.com">Bay Ridge Blog</a></li>
+<li><a href="http://bayridgejournal.blogspot.com">Bay Ridge Journal</a></li>
+<li><a href="http://www.bayridgerover.com">Bay Ridge Rover</a></li>
+<li><a href="http://beehivehairdresser.com">Beehive Hairdresser</a></li>
+<li><a href="http://bestviewinbrooklyn.blogspot.com/">Best View in Brooklyn</a></li>
+<li><a href="http://blatherfrombrooklyn.wordpress.com">Blather from Brooklyn</a></li>
+<li><a href="http://bococaland.com">BococaLand</a></li>
+<li><a href="http://britinbrooklyn.squarespace.com">Brit in Brooklyn</a></li>
+<li><a href="http://thebrooklynink.com">Brooklyn Ink</a></li>
+<li><a href="http://brooklynbased.net">Brooklyn Based</a></li>
+<li><a href="http://brooklynheightsblog.com">Brooklyn Heights Blog</a></li>
+<li><a href="http://brooklynoptimist.blogspot.com">Brooklyn Optimist</a></li>
+<li><a href="http://www.brooklynrowhouse.com">Brooklyn Row House</a></li>
+<li><a href="http://www.brooklyntheborough.com">Brooklyn The Borough</a></li>
+<li><a href="http://www.brownstoner.com">Brownstoner</a></li>
+<li><a href="http://cityroom.blogs.nytimes.com">City Room</a></li>
+<li><a href="http://www.coneyisland.com/cgi-bin/yabb/YaBB.cgi">Coney Island Forum</a></li>
+<li><a href="http://coneymedia.wordpress.com">Coney Media</a></li>
+<li><a href="http://creativetimes.blogspot.com">Creative Times</a></li>
+<li><a href="http://www.curbed.com">Curbed</a></li>
+<li><a href="http://dailyheights.com">Daily Heights</a></li>
+<li><a href="http://nymag.com/daily/intel/">Daily Intel</a></li>
+<li><a href="http://www.dailyslope.com">Daily Slope</a></li>
+<li><a href="http://dumbonyc.com">DUMBO NYC</a></li>
+<li><a href="http://eatbrooklynfood.blogspot.com/">Eat It Brooklyn</a></li>
+<li><a href="http://www.fuckedinparkslope.com/">F—ed in Park Slope</a></li>
+<li><a href="http://fortheloveofbrooklyn.com/">For the Love of Brooklyn</a></li>
+<li><a href="http://www.goldstar4trying.com">Gold Star for Trying</a></li>
+<li><a href="http://www.gothamgazette.com">Gotham Gazette</a></li>
+<li><a href="http://www.gowanuslounge.com">Gowanus Lounge</a></li>
+<li><a href="http://greenbrooklyn.com">Green Brooklyn</a></li>
+<li><a href="http://greenpointers.blogspot.com">Greenpointers</a></li>
+<li><a href="http://thegrimmnews.blogspot.com">The Grimm News</a></li>
+<li><a href="http://nymag.com/daily/food/">Grub Street</a></li>
+<li><a href="http://www.hawthornestreet.com">Hawthorne Street</a></li>
+<li><a href="http://imnotsayin.blogspot.com">I’m Not Sayin, I’m Just Sayin</a></li>
+<li><a href="http://karmabrooklyn.blogspot.com/">KARMABrooklyn</a></li>
+<li><a href="http://kensingtonstories.blogspot.com">Kensington Stories</a></li>
+<li><a href="http://kineticcarnival.blogspot.com">Kinetic Carnival</a></li>
+<li><a href="http://kingscountycinemasociety.org">Kings County Cinema Society</a></li>
+<li><a href="http://lostnewyorkcity.blogspot.com">Lost City</a></li>
+<li><a href="http://mcbrooklyn.blogspot.com">McBrooklyn</a></li>
+<li><a href="http://www.nolandgrab.org">No Land Grab</a></li>
+<li><a href="http://onlytheblogknowsbrooklyn.com">Only the Blog Knows Brooklyn</a></li>
+<li><a href="http://ny.therealdeal.com">The Real Deal</a></li>
+<li><a href="http://www.sheepsheadbites.com">Sheepshead Bites</a></li>
+<li><a href="http://www.whiteinbayridge.com">White in Bay Ridge</a></li>
+<li><a href="http://www.williamsburgisdead.com">Williamsurg Is Dead</a></li>
+<li><a href="http://www.williamsburgnerd.com">Williamsburg Nerd</a></li>
+<li><a href="http://wordoncolumbiastreet.blogspot.com">Word on Columbia Street</a></li>			
+		</ul></dd>
+		<dt>Cyclones</dt>
+		<dd><ul class="subcats">
+<li><a href="http://thebrooklyncyclones.blogspot.com">Brooklyn Baseball Blog</a></li>
+<li><a href="http://www.brooklyncyclones.com">Brooklyn Cyclones</a></li>
+<li><a href="http://www.dembrooklynbums.com">Dem Brooklyn Bums</a></li>
+<li><a href="http://www.metsminorleagueblog.com">Mets Minor League Blog</a></li>
+		</ul></dd>
+		<dt>Newspapers &amp; Magazines</dt>
+		<dd><ul class="subcats">
+<li><a href="http://www.amny.com">AM New York</a></li>
+<li><a href="http://www.brooklyneagle.com">Brooklyn Eagle</a></li>
+<li><a href="http://www.webfamilyny.com">Brooklyn Family</a></li>
+<li><a href="http://www.brooklyndowntownstar.com">Brooklyn Star</a></li>
+<li><a href="http://www.brooklynrail.org">Brooklyn Rail</a></li>
+<li><a href="http://www.canarsiecourier.com">Canarsie Courier</a></li>
+<li><a href="http://www.caribbeanlifenews.com">Caribbean Life</a></li>
+<li><a href="http://www.yournabe.com">Courier-Life Publications</a></li>
+<li><a href="http://www.nydailynews.com/news/">Daily News</a></li>
+<li><a href="http://www.greenpointnews.com">Greenpoint Gazette</a></li>
+<li><a href="http://www.jewishpress.com">Jewish Press</a></li>
+<li><a href="http://www.bckingsman.com">Kingsman (B’klyn College)</a></li>
+<li><a href="http://www.newsday.com/news/local/newyork/">Newsday</a></li>
+<li><a href="http://www.observer.com/">New York Observer</a></li>
+<li><a href="http://www.nytimes.com/pages/nyregion/">New York Times</a></li>
+<li><a href="http://www.nypost.com/news/news.htm">New York Post</a></li>
+<li><a href="http://www.ourtimepress.com">Our Time Press</a></li>
+<li><a href="http://www.timesnewsweekly.com">Ridgewood Times</a></li>
+<li><a href="http://www.seawanhakaalumni.com/archives.html">Seawanhaka (LIU)</a></li>
+<li><a href="http://www.thetablet.org/index2.html">Tablet (Catholic weekly)</a></li>
+<li><a href="http://www.wsj.com">Wall Street Journal</a></li>
+		</ul></dd>	
+		<dt>TV and Radio</dt>
+		<dd><ul class="subcats">
+<li><a href="http://www.1010wins.com">1010WINS</a></li>
+<li><a href="http://www.myfoxny.com/myfox/pages/News">FOX5 News</a></li>
+<li><a href="http://abclocal.go.com/wabc/">WABC News</a></li>
+<li><a href="http://www.newsradio88.com">WCBS Newsradio 88</a></li>
+<li><a href="http://wcbstv.com">WCBS TV News</a></li>
+<li><a href="http://www.nbcnewyork.com/news/">WNBC News</a></li>
+<li><a href="http://www.wnyc.org/news/">WNYC Radio</a></li>
+		</ul></dd>
+		<dt><a href="mailto:newsroom@cnglocal.com?subject=BrooklynPaper.com Link Suggestion">Suggest a link</a></dt>
+		<dd></dd>
+	</dl>	<!-- /theAdColumn --></div>
+
+<!-- /theContent --></div>
+
+<br style="clear:both">
+
+
+<!-- /theColumns --></div>
+
+<!-- /thePage --></div>
+
+<!-- /theMasterWrapper --></div>
+
+<!-- /theMegaWrapper --></div>
+
+<script type="text/javascript">
+swfobject.addDomLoadEvent(tryMegaMap);
+</script>
+
+<script type="text/javascript">
+var impReq;
+
+function putAdImpressions () {
+	URL = "/assets/scripts/putimpression.x?pub=" + escape(pub); 
+	var ads = getElementsByClassName('placedAd'); 
+	for(var i=0,j=ads.length; i<j; i++) URL = URL + "&ads[]=" + escape(ads[i].value);
+	
+	if (window.XMLHttpRequest) {
+		impReq = new XMLHttpRequest();
+		impReq.open("GET", URL, true);
+		impReq.send(null);
+	} else if (window.ActiveXObject) {
+		impReq = new ActiveXObject("Microsoft.XMLHTTP");
+		if (impReq) {
+			impReq.open("GET", URL, true);
+			impReq.send();
+		}
+	}
+}
+putAdImpressions();
+</script>
+<!-- BEGIN Google Analytics script -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-403969-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
