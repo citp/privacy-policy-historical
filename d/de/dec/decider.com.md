@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218220532id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128092803id_/http%3A//www.theonion.com/privacy) for the most accurate reproduction.*
 
-# privacy | The Onion - America's Finest News Source
-
-## Privacy Policy
+# Privacy Policy | The Onion - America's Finest News Source
 
 Onion, Inc., producer of _The Onion_ and its related content and service sites, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At _The Onion_ , we treat your personal information (especially payment information) with the highest standards of safety, security, and confidentiality.
 
