@@ -1,0 +1,358 @@
+<!--The following is the downloaded HTML source of the trendyflash.com privacy policy that was archived on 2010-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128235636id_/http%3A//trendyflash.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script language="javascript">
+
+function openbuilder()
+{
+	 var width;
+	 var height
+   if(screen.width >= 1024 && screen.height >= 768){
+   		/* bwidth = 1010;
+		 bheight = 690;
+  		 width = 990;
+  		 height = 670;*/
+		 bwidth=screen.availWidth;
+		 bheight=screen.availHeight;
+		 width = screen.availWidth;
+		 height=screen.availHeight;
+   
+   		 // bwidth=screen.Width;
+		 //bheight=screen.Height;
+		 //width = screen.Width;
+		 //height=screen.Height;
+   
+   }
+   else if(screen.width < 1024 && screen.height < 768){
+    // bwidth =screen.width-20;
+	 //bheight = screen.height-50;
+	 //width = bwidth ;
+	 //height = bheight;
+	 
+	  	 bwidth = 1010;
+		 bheight = 690;
+  		 width = 990;
+  		 height = 670;
+   }
+	
+
+    settings='toolbar=no,location=no,directories=no,status=no,channelmode=1,menubar=no,screenLeft=0,screenTop=0,top=0,left=0,scrollbars=0,resizable=1,width='+bwidth + ',height='+ bheight;
+	win=window.open('http://www.trendyflashdownload.com/demo/builder/loadbuilder.php?width='+width+'&height='+height,'TrendySiteBuilder',settings);
+    win.focus();
+  	win.moveTo( 0, 0 );
+    win.resizeTo( screen.availWidth, screen.availHeight );
+ 
+   if(parseInt(navigator.appVersion) >= 4){
+   		win.window.focus();
+   }
+}  
+
+
+function f_open_window_max()
+{
+   var wOpen;
+   var sOptions;
+   var aWinName="Sitecube";
+
+   sOptions = 'status=yes,menubar=no,scrollbars=no,resizable=yes,toolbar=no';
+   sOptions = sOptions + ',width=' + (screen.availWidth).toString();
+   sOptions = sOptions + ',height=' + (screen.availHeight).toString();
+   sOptions = sOptions + ',screenX=0,screenY=0,left=0,top=0';
+
+   wOpen = window.open( '', aWinName, sOptions );
+   wOpen.location = "loadbuilder.php";
+   wOpen.focus();
+   wOpen.moveTo( 0, 0 );
+   wOpen.resizeTo( screen.availWidth, screen.availHeight );
+   return wOpen;
+}
+
+
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Website design software, flash web design software, trendy websites, web design flash templates">
+<meta name="description" content="Create Stunning Websites 10 Times Faster with Trendy Web Design Software.">
+<title>Trendy Site Builder: Flash Web Design Software, Flash Templates &amp; Websites</title>
+<link href="ws-themes/tfwsb2010.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+<link rel="stylesheet" href="ws-themes/tfsie.css" media="all">
+<![endif]-->
+<style type="text/css">
+ul li h3 {
+	margin: 16px 16px 0 16px;
+	color:#FFF;
+	font:16px Arial, sans-serif;
+	font-weight: bold;
+	text-align:left
+}
+.boxgrid {
+	width: 198px;
+	height: 198px;
+	margin:10px;
+	float:left;
+	background:/*#00B1E6*/ url(ws-themes/tfsimages/darkbg.jpg) no-repeat;
+	border: solid 0px #FFF;
+	overflow: hidden;
+	position: relative;
+}
+.boxgrid img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+}
+.boxgrid p {
+	padding: 12px 20px;
+	color:#00B1E6;
+	font:13px Arial, sans-serif;
+	font-weight:normal;
+	text-align:left;
+	line-height:15px;
+}
+.boxcaption {
+	float: left;
+	position: absolute;
+	background: #00B1E6;
+	height: 100px;
+	width: /*100%*/198px;
+	opacity: .8;
+				/* For IE 5-7 */
+				filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+	/* For IE 8 */
+				-MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+.captionfull .boxcaption {
+	top: 198;
+	left: 0;
+}
+.caption .boxcaption {
+	top: 198;
+	left: 0;
+}
+.smtx {
+	font:14px Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+</style>
+<script type="text/javascript" src="ws-themes/tfs/jquery.js"></script>
+<script type="text/javascript" src="ws-themes/tfs/topscroll.js"></script>
+<script type="text/javascript" src="ws-themes/tfs/jquery-1.3.1.js"></script>
+<script type="text/javascript">
+			$(document).ready(function(){
+				//To switch directions up/down and left/right just place a "-" in front of the top/left attribute
+				//Vertical Sliding
+				$('.boxgrid.slidedown').hover(function(){
+					$(".cover", this).stop().animate({top:'-198px'},{queue:false,duration:300});
+				}, function() {
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:300});
+				});
+				//Horizontal Sliding
+				$('.boxgrid.slideright').hover(function(){
+					$(".cover", this).stop().animate({left:'325px'},{queue:false,duration:300});
+				}, function() {
+					$(".cover", this).stop().animate({left:'0px'},{queue:false,duration:300});
+				});
+				//Diagnal Sliding
+				$('.boxgrid.thecombo').hover(function(){
+					$(".cover", this).stop().animate({top:'198px', left:'325px'},{queue:false,duration:300});
+				}, function() {
+					$(".cover", this).stop().animate({top:'0px', left:'0px'},{queue:false,duration:300});
+				});
+				//Partial Sliding (Only show some of background)
+				$('.boxgrid.peek').hover(function(){
+					$(".cover", this).stop().animate({top:'90px'},{queue:false,duration:160});
+				}, function() {
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+				});
+				//Full Caption Sliding (Hidden to Visible)
+				$('.boxgrid.captionfull').hover(function(){
+					$(".cover", this).stop().animate({top:'140px'},{queue:false,duration:160});
+				}, function() {
+					$(".cover", this).stop().animate({top:'198px'},{queue:false,duration:160});
+				});
+				//Caption Sliding (Partially Hidden to Visible)
+				$('.boxgrid.caption').hover(function(){
+					$(".cover", this).stop().animate({top:'140px'},{queue:false,duration:160});
+				}, function() {
+					$(".cover", this).stop().animate({top:'198px'},{queue:false,duration:160});
+				});
+			});
+		</script>
+</head>
+<body>
+<div id="wrapper" align="center"> <a name="top" id="top"></a>
+  <div id="logoheader">
+    <div class="logocol">
+      <div class="tf-logo"><a href="http://www.trendyflash.com" title="Trendyflash.com"><img src="ws-themes/tfsimages/trendyflash.png" alt="trendyflash.com" border="0"></a>
+        <h2>Trendy Site Builder</h2>
+      </div>
+    </div>
+    <div class="h1title">
+      <h1>World's Favorite Site Builder!</h1>
+    </div>
+    <div class="languagecol">
+     <div id="google_translate_element"></div>
+					<script>
+            function googleTranslateElementInit() {
+              new google.translate.TranslateElement({
+                pageLanguage: 'en'
+              }, 'google_translate_element');
+            }
+            </script>
+        	<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>
+  </div>
+  <!--main nav -->
+  <div id="main-nav">
+    <ul>
+      <li class="home" title="Home"><a href="http://www.trendyflash.com">Home</a></li>
+      <li class="features"><a href="products.htm" title="Features">Features</a></li>
+      <li class="demo"><a href="onlinedemo.html" title="Online Demo">Demo</a></li>
+      <li class="webhosts"><a href="samples.asp" title="Samples">Samples</a></li>
+      <li class="contact"><a href="contact.asp" title="Contact">Contact Us</a></li>
+      <li class="help"><a href="http://www.trendyflash.com/online/builder-help/help.html" title="Help" target="_blank">Help</a></li>
+      <li class="buynow"><a href="signup.asp" title="FAQ">Buy Now!</a></li>
+    </ul>
+  </div>
+  <div id="privacybx">
+    <div id="contentbx">
+      <div id="privcy">
+	  	<h3>Privacy Policy</h3>
+	  	  <br>
+	  	  <p><strong>TrendyFlash</strong> has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.<br>
+<br>
+<span class="aquablu">1.</span> Information Collected During Your Use of the TrendyFlash Service In order to register, users are required to give us contact information (e.g., your name and email address), unique identifiers (e.g., your password), and demographic information (e.g., your zip code). Certain information, such as passwords and email addresses, is collected in order to verify your identity and for use in our records. <br>
+<br>
+If you decide to purchase TrendyFlash's "Designer Website Builder", TrendyFlash will need to collect certain financial information, such as your credit card number, credit card expiration date, and billing address ("Financial Information"). Financial Information that is collected is used to check your qualifications for registration, to bill you for products and services, and for other purposes. TrendyFlash does not share Financial Information with outside parties except to the extent necessary to provide you with it's Solutions.<br>
+<br>
+<span class="aquablu">2. Our Use of Your Information</span><br>
+<br>
+We use customer contact information from the registration form to send you information about TrendyFlash and promotional material from some of our partners. Your contact information is also used to contact you when necessary. We may use your IP address to help protect our partners and us from fraud.
+<br>
+<br>
+<span class="aquablu">3. Our Disclosure of Your Information</span><br>
+<br>
+We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described in this Privacy Policy and without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+<br>
+<br>
+TrendyFlash will never willfully sell, lease, or rent any of your or your business' personally identifiable information to any third party. 
+<br>
+<br>
+<span class="aquablu">4. Security</span><br>
+<br>
+In order to maximize the protection of your information, TrendyFlash' Service uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. Currently, we use Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet.<br>
+<br>
+<span class="aquablu">5. General</span><br>
+<br>
+This Privacy Policy is incorporated into and subject to the terms of the <a href="http://www.TrendyFlash.com/agreement.htm"><u>TrendyFlash Agreement</u></a>. 
+If you have any questions about this privacy statement or the practices of this site, please <a href="http://www.TrendyFlash.com/contact.htm" class="featurestxtOrg"><u>contact us</u></a>.	  </p>
+	  </div>
+	  	
+	  
+	  
+    </div>
+    <div id="sidebx">
+	<ul>
+		<!--<li class="logpanel">
+		<form name="form" method="post" action="http://partners.trendyflash.com/login.asp">
+		<input type=hidden name="login" value="true">
+		<div class="rsmbx">
+			<div class="prtnrttl">Partner Login:</div>
+			<div class="rsrw1">
+				<div class="rleft">User Name:</div>
+				<div class="rright"><input name="userid" type="text" class="intextbox" id="userid" style="width:110px;" />
+				</div>
+			</div>
+			<div class="rsrw1">
+				<div class="rleft">Password:</div>
+				<div class="rright"><input id="password" name="password" class="intextbox" type="password" style="width:110px;" />
+				</div>
+			</div>
+			<div class="rsrw2">
+				<div class="rleft"></div>
+				<div class="rright"><input name="Submit" type="image" id=continue value="Login" src="ws-themes/tfsimages/login.png" alt="Login" />
+				</div>
+			</div>
+			<div class="forgot">--><!--<a href="forgotpassword.asp">Forgot Password?</a>--><!--</div>
+		</div>
+		</form>		
+		
+		
+		</li>-->
+		<li class="onlinedemo"><a href="#" onclick="openbuilder()">Trendy Site Builder Online Demo!</a></li>
+		<li class="clsites"><a href="samples.asp">Sample Sites</a></li>
+		<li class="reviews"><a href="reviews.html">Reviews</a></li>
+		
+		</ul>
+	
+	</div>
+  </div>
+  
+  
+  
+  
+  <div class="grline"></div>
+<div id="tbox2">
+          <div class="awthumbs">
+		  <h3 class="dblu">Trendy Web Design Software is Featured On Top Sites With Top Ratings!</h3><br>
+         <a href="http://www.download.com/%20TrendyFlash-Site-Builder/3000-6676_4-10297211.html" target="_blank"><img src="ws-themes/tfsimages/d-load_s.gif" width="140" height="28" border="0" alt=""></a> <a href="http://www.tucows.com/preview/367581" target="_blank"><img src="ws-themes/tfsimages/t-cows_s.gif" width="140" height="37" border="0" alt=""></a> <a href="http://www.topshareware.com/TrendyFlash-Intro-Builder-download-14132.htm" target="_blank"><img src="ws-themes/tfsimages/tsw_site_logo_s.gif" width="140" height="21" border="0" alt=""></a><a href="http://www.brothersoft.com/trendyflash-site-builder-29164.html" target="_blank"><img src="ws-themes/tfsimages/brother_soft.gif" width="100" height="50" border="0" alt=""></a><br>
+<a href="http://www.sofotex.com/TrendyFlash-Intro-Builder-download_L22174.html" target="_blank"><img src="ws-themes/tfsimages/sofotex-logo_s.gif" width="140" height="39" border="0" alt=""></a>  <a href="http://www.sharewareconnection.com/trendyflash-site-builder.htm" target="_blank"><img src="ws-themes/tfsimages/s-ware_connlogo_s.gif" width="140" height="27" border="0" alt=""></a> <a href="http://www.shareup.com/TrendyFlash_Site_Builder-download-20553.html" target="_blank"><img src="ws-themes/tfsimages/shareup-logo.gif" width="120" height="30" border="0" alt=""></a> <a href="http://www.softpile.com/Multimedia/Animation/Review_35461_index.html" target="_blank"><img src="ws-themes/tfsimages/softpile_s.gif" width="140" height="47" border="0" alt=""></a><br>
+<a href="http://www.programurl.com/trendyflash-intro-builder.htm" target="_blank"><img src="ws-themes/tfsimages/pr_urllogo_s.gif" width="140" height="34" border="0" alt=""></a> <a href="http://www.softaward.com/4277.html" target="_blank"><img src="ws-themes/tfsimages/softaward_logo_s.gif" width="140" height="36" border="0" alt=""></a><a href="http://www.finaldownload.com/multimedia_design_animation_trendyflash_site_builder.html" target="_blank"><img src="ws-themes/tfsimages/final-dlogo_s.gif" width="140" height="27" border="0" alt=""></a><a href="http://www.1000apps.com/Download-Softwares-List.php?search=Company&amp;string=TrendyFlash.com&amp;match=Exact" target="_blank"><img src="ws-themes/tfsimages/1000apps-logo_s.gif" width="117" height="52" border="0" alt=""></a>
+		</div>
+		<div class="lvchat">
+		<h3 class="srvttl"><strong>24/7 Chat Support</strong></h3>
+		<br>
+
+		<a href="http://server.iad.liveperson.net/hc/2418715/?cmd=file&amp;file=visitorWantsToChat&amp;site=2418715&amp;byhref=1" target="chat2418715" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/2418715/?cmd=file&amp;file=visitorWantsToChat&amp;site=2418715&amp;referrer='+escape(document.location),'chat2418715','width=472,height=320');return false;"><img src="http://server.iad.liveperson.net/hc/2418715/?cmd=repstate&amp;site=2418715&amp;&amp;ver=1&amp;category=en;woman;5" name="hcIcon" width="165" height="60" border="0" alt=""></a>
+		</div>
+          </div>
+  <div id="topcroll"><a href="#top"><img src="ws-themes/tfsimages/toparrow.png" alt="Go to Top" title="Go to Top" border="0"></a></div>
+  <div id="footer">
+    <div id="fbg">
+      <div id="ftbx">
+      <div class="fcol1">
+        <ul>
+          <li><a href="http://www.trendyflash.com" title="Trendy Flash Home">Trendy Flash Home</a></li>
+          <li><a href="products.htm" title="Trendy Site Builder Features" name="Trendy Site Builder Features">Trendy Site Builder Features</a></li>
+          <li><a href="onlinedemo.html" title="Trendy Site Builder Demo">Trendy Site Builder Demo</a></li>
+          <li><a href="webhosts.html" title="Web Hosts" name="Web Hosts">Web Hosts</a></li>
+          <li><a href="contact.asp" title="Contact Us">Contact Us</a></li>
+          <li><a href="http://www.trendyflash.com/online/builder-help/help.html" title="Trendy Site Builder Help">Trendy Site Builder Help</a></li>
+		  <li><a href="privacy.html" title="Web Design Software Privacy Policy" name="Web Design Software Privacy Policy">Privacy Policy</a></li>
+        </ul>
+      </div>
+      <div class="fcol2">
+        <ul>
+          
+          <li><a href="signup.asp" title="Trendy Site Builder Buy Now!">Trendy Site Builder Buy Now!</a></li>
+          <li><a href="samples.asp" title="Trendy Site Builder Client Sites" name="Trendy Site Builder Sample Sites">Sample Sites</a></li>
+          <li><a href="reviews.html" title="Trendy Site Builder Reviews" name="Trendy Site Builder Reviews">Reviews</a></li>
+          <li><a href="https://partners.trendyflash.com/login.html" title="Trendy Flash Partner Login" name="Trendy Flash Partner Login">Partner Login</a></li>
+          <li><a href="website_hosting.asp" title="Website Hosting" target="_blank">Website Hosting</a></li>
+		  <li><a href="agreement.html" title="Website Design Software Agreement" name="Website Design Software Agreement">Agreement</a></li>
+		  <li><a href="plesk-site-builder.html" name="plesk site builder" title="plesk site builder" target="_blank">Plesk Site Builder</a></li>
+        </ul>
+      </div>
+      <div class="fcol3">
+        <ul>
+          
+          
+          <li><a href="cpanel-site-builder.html" name="cpanel sitebuilder" title="cpanel site builder" target="_blank">cPanel Site Builder</a></li>
+          <li><a href="cpanel-website-builder.html" name="cpanel website builder" title="cpanel website builder" target="_blank">cPanel Website Builder</a></li>
+		  <li><a href="http://www.sitecube.com" name="Website Builder!" title="Website Builder!" target="_blank">Website Builder</a></li>
+		  <li><a href="sitecube-site-builder-reviews.html" name="sitecube" title="sitecube.com">SiteCube.Com</a></li>
+          <li><a href="sitemap.html" title="Web Design Software Sitemap" target="_blank">Sitemap</a></li>
+        </ul>
+      </div>
+    </div>
+      <p class="blk">Copyright © 2003-2010 TrendyFlash.com All rights Reserved.</p>
+    </div>
+  </div>
+</div>
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<script language="javascript" src="http://server.iad.liveperson.net/hc/2418715/x.js?cmd=file&amp;file=chatScript3&amp;site=2418715&amp;&amp;category=en;woman;5"> </script>
+<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+
+</body></html>
