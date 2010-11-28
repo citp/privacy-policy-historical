@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102150446id_/http%3A//rovicorp.com/company/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128142208id_/http%3A//www.rovicorp.com/company/legal.htm) for the most accurate reproduction.*
 
 # Legal and Privacy Notices - Legal - Rovi
 
@@ -7,7 +7,7 @@ Legal and Privacy Notes
 
 Review Rovi's legal and privacy notices for details on how we collect, use and protect your personal information on the website.
 
-Rovi respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. On occasion, we may need your personal information to provide services that you request, or you may have the option choose to provide us with your personal information. This policy describes how we collect and use your personal information.
+Rovi respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. On occasion, we may need your personal information to provide services that you request, or you may have the option to choose to provide us with your personal information. This policy describes how we collect and use your personal information.
 
 **Information Collection  
 ** Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a company or home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal or product interests, other information when needed to provide a service you requested.
