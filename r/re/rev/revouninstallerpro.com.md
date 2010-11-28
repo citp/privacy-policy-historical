@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revouninstallerpro.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509183342id_/http%3A//www.revouninstallerpro.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revouninstallerpro.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128204807id_/http%3A//revouninstallerpro.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
 
 # Revo Uninstaller Pro - Privacy Policy
 
