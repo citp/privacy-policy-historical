@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theproxyfree.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607041320id_/http%3A//theproxyfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theproxyfree.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128173640id_/http%3A//theproxyfree.com/privacy.php) for the most accurate reproduction.*
 
 # TheProxyFree: Visit websites via an anonymous proxy, bypass the firewall of your institution
 
@@ -12,7 +12,7 @@ By using our services, you accept our [terms ](http://theproxyfree.com/terms.php
 
 **
 
-Fast access: ******[Google](https://web.archive.org/web/20100607041320id_/http%3A//theproxyfree.com/index.php?q=aHR0cDovL3d3dy5nb29nbGUuY29tLw%3D%3D)    [Yahoo](https://web.archive.org/web/20100607041320id_/http%3A//theproxyfree.com/index.php?q=d3d3LnlhaG9vLmNvbQ%3D%3D&hl=1011101001)    [MSN](https://web.archive.org/web/20100607041320id_/http%3A//theproxyfree.com/index.php?q=aHR0cDovL3d3dy5tc24uY29t&hl=1011101001)    [MySpace](https://web.archive.org/web/20100607041320id_/http%3A//theproxyfree.com/index.php?q=aHR0cDovL3d3dy5teXNwYWNlLmNvbQ%3D%3D&hl=1011101001)    [YouTube](https://web.archive.org/web/20100607041320id_/http%3A//theproxyfree.com/index.php?q=eW91dHViZS5jb20%3D&hl=1011101001)    **   
+Fast access: ******[Google](https://web.archive.org/web/20101128173640id_/http%3A//theproxyfree.com/index.php?q=aHR0cDovL3d3dy5nb29nbGUuY29tLw%3D%3D)    [Yahoo](https://web.archive.org/web/20101128173640id_/http%3A//theproxyfree.com/index.php?q=d3d3LnlhaG9vLmNvbQ%3D%3D&hl=1011101001)    [MSN](https://web.archive.org/web/20101128173640id_/http%3A//theproxyfree.com/index.php?q=aHR0cDovL3d3dy5tc24uY29t&hl=1011101001)    [MySpace](https://web.archive.org/web/20101128173640id_/http%3A//theproxyfree.com/index.php?q=aHR0cDovL3d3dy5teXNwYWNlLmNvbQ%3D%3D&hl=1011101001)    [YouTube](https://web.archive.org/web/20101128173640id_/http%3A//theproxyfree.com/index.php?q=eW91dHViZS5jb20%3D&hl=1011101001)    **   
 
 
 **1\. Cookies/IP**  
@@ -32,4 +32,4 @@ This site does not allow the parent to obtain the information collected from the
 **5\. Change of privacy policy**  
 TheProxyFree.com reserves the right to change our privacy policy at any time without prior notices. 
 
-If you have any questions on our site, please [click here](https://web.archive.org/web/20100607041320id_/http%3A//theproxyfree.com/contactus.php) to contact us.
+If you have any questions on our site, please [click here](https://web.archive.org/web/20101128173640id_/http%3A//theproxyfree.com/contactus.php) to contact us.
