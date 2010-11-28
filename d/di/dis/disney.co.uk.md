@@ -1,136 +1,103 @@
-> *The following text is extracted and transformed from the disney.co.uk privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602042109id_/http%3A//registration.disney.co.uk/uk_bu_1files/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.co.uk privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128070102id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.*
 
-# Disney
+# Disney Registration
 
-back 
+**Privacy Policy**   
+dated July 2009
 
-The Internet is a fun place for work and for play. However, in order for you to get the best possible use from our sites it may be necessary, in some circumstances, for you to give us personal information about yourself. This policy tells you how we collect information from you, how we protect it and how we use it. We want to help make the Internet a safe and fun experience for you, your friends and your family.
+This policy (the “Privacy Policy”) tells you how The Walt Disney Company Limited of 3 Queen Caroline Street, London, England collects information from you, how we protect it and how we use it, and covers all personal information which you provide when you use any of our Disney sites (the “Sites”), unless otherwise specified on the relevant Site where a different privacy policy will be displayed, and also controls information provided by you when dealing with any one of Disney’s promotional partners where you may opt in to receive information from Disney and agree to your information being forwarded by that partner to us but do not directly register on a Disney Site.
 
-**Disney.co.uk** is owned, controlled and run by the Buena Vista Internet Group, part of the Walt Disney Company group of companies (‘Disney’ for short). It is Disney’s policy that we obey and respect the law in relation to privacy and protect our guests’ personal information from possible misuse. We also allow you access to your personal information so that you can amend or delete the information we have about you or ask us to do it for you. 
+If we collect information about you as part of another Disney service on-line (for example, if you order goods from The Disney Store), then the Disney company that provides that service will also control that information. We tell you who that company is in the terms and conditions for that service.
 
-**What type of information we collect about you**
+This Privacy Policy also covers any other personal information which you may provide when dealing with the Disney Group of companies or interacting with any of our Sites (whether or not you are registered), including data when you make a purchase, register for one of our reward schemes, book a holiday or register for or use any other Disney service. We refer to this type of information as transactional data   
 
-We collect two ‘types’ or categories of information about you:
 
-  * The first type is information that personally identifies you. For example, your full name (your first name and your surname), your home (or work) address, your e-mail address, telephone number and postcode. We call this ‘personally identifiable’ information.
+This Privacy Policy explains how companies within the Disney Group collect, record and use information about you and the choices you can make about how the information is collected and used. By using the Sites or by clicking the “Register” button or other relevant button during your initial registration with the relevant Site, you signify your consent that we store and process your personal data in accordance with this Privacy Policy.
 
+## What type of information we collect about you
 
-  * Other information you give us, by itself, is NOT personally identifiable. For example, whether you are male or female, the times and dates you use are services, **** the country in which you live, the language you normally speak in. We call this ‘non-personally identifiable information’ or ‘aggregate’ information.
+We will collect personally identifiable information from you in a variety of ways including when you register on a Disney Site or use any other Disney services, enter competitions or prize draws, navigate around our Sites and respond to communications from us.
 
+To register on a Disney Site we require that you submit personal data, e.g. your name, gender, date of birth, email address and a password for entry to the Site.
 
+## What we do with personally identifiable information
 
-**What we do with ‘Aggregate’ information**
+This information may be used for marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimise and personalise our services, to inform you if you have won a prize and to send you greetings on your birthday and to send you newsletters and information (where you have agreed to this) about other exciting events happening in the world of Disney and about Disney related products and services. 
 
-Aggregate information allows us to see what ‘types’ of people use our site (for example, how many are girls and how many are boys). From time to time we may also run on-line surveys or questionnaires to collect your thoughts, opinions or suggestions as to how we can make our sites, products or services better for you. 
+We may use information about you to create a picture of your interests. This will allow us to understand our customers and visitors better, so we can make our services and marketing more relevant. Information that we use in this way may include: (i) information about your use of this and other Disney Sites; (ii) household classification data, (iii) your responses to communications from us; (iv) your interaction with other parts of Disney Group; (v) information you provide when you register on a Site; (vi) customer surveys; (vii) information provided by other companies, where you gave them permission to share this information and (viii) transactional data. We may use a variety of technical methods such as cookies and web beacons to collate this information (see the section below on “Use of Cookies” for further information).
 
-We may also share aggregate information with our advertisers, business partners, sponsors and third parties, so that they can better understand what type of person uses our sites. 
+## Use of information for marketing
 
-Remember, this information is NOT personally identifiable information from which you can be identified. 
+In line with any permissions you give us, we may send you direct marketing about our own, or carefully selected third parties’ goods and services and disclose your information to other organisations who may send direct marketing to you. You can change your marketing preferences if you are registered with us. Details on how to do this are set out below under “Our Registration Policy”. 
 
-**What we do with Personally Identifiable information**
+In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you.
 
-We will only collect personally identifiable information during the following: 
+## Who has access to the information at Disney?
 
-1\. When you register to enter into our on-line competitions 
+We may share your information with other members of the Disney Group worldwide. As used in this Privacy Policy the Disney Group includes The Walt Disney Company Limited and all of its subsidiary and affiliated entities, including companies such as those branded under Buena Vista, ABC and ESPN labels that generally do not offer their products and services under the “Disney” brand name, as well as companies that generally do offer their products and services under the “Disney” brand name, such as Disneyland Paris and The Disney Store Ltd. In this Privacy Policy “we”, “us”, “our” and “ourselves” means any member of this Group. Wherever your information is processed by the Disney Group, we will ensure that it is protected appropriately.
 
-2\. When you register for on-line ‘clubs’ that will give you special benefits like exclusive content, access to other competitions and other on-line activities.
+## Who else has access to the information?
 
-This information is then used to inform winners of a competition what prizes they have won, or depending on your age, to inform you of other exciting events happening in the world of Disney. 
+We will only pass on your information to third parties in the following situations
 
-**This personal information is ONLY used by Disney and it’s affiliates and is NEVER shared with third parties, unless otherwise clearly stated at the time of collection or registration. Even then, it would only be shared when we have your permission to do so.**
+• if this was clearly stated at the time of collection or registration and, where required, if you have given permission for this;
 
-When we post information about you on our sites, (for example, if you are a competition winner), we will never disclose personally identifiable information that could let other people know where you live or exactly who you are. 
+• If we employ another organisation to perform tasks on our behalf – such as delivering goods to you. In this case, the organisations may only use your information to fulfil this specific task;
 
-**Our Legal Obligation to Disclose Personal Information we hold about you**
+• If we sell the business of some of the Disney group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy;
 
-The only time we will ever disclose personal information about you without your prior consent is where we have reason to believe that disclosing this information is necessary to identify, get into contact with or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Disney’s rights or property, or anyone else who could be harmed by those activities. We may disclose memberinformation when we believe in good faith that the law requires it. 
+• If we have reason to believe that disclosing this information is necessary for legal proceedings. We may also disclose information when we believe in good faith that applicable law or regulation requires it or to protect the safety or security of users of our Sites; and
 
-**Disney Policies for individuals under 13 years old**
+• If we use third party processors to administer and process your personal information for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of our Sites or services. We may also share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.
 
-Disney encourages parents and guardians to spend time on-line with their children and to participate in the interactive activities offered on these sites. When guests of this age register with us, we will send a message to your parents asking their permission to retain any information you give us. No information should be submitted to or posted to Disney or any Disney affiliate without consent of the relevant parent or guardian.
+## International transfer
 
-No personal information collected from you if you are under 13 is used for any marketing or promotional purposes, either by Disney or it’s affiliates. 
+As the Disney Group operates globally, it may be necessary to transfer your information internationally to recipients located outside the European Union either within the Disney Group or to third party service providers. Please be assured that we take all reasonable steps to ensure that your privacy is protected. In this regard, we may transfer data to Disney Interactive Media Group, The Walt Disney Company, both in Burbank, California, and to other Disney Group Entities in the United States. These companies will adhere to this Privacy Policy and to the "Safe Harbour Principles" officially declared by the European Commission as providing an adequate level of protection as compared to the data protection laws of European Union countries.
 
-If a guest wishes to have information about our site updates, we will only send this information to their parent or guardian, and only if the parent or guardian has given us consent to do so. Such site update information will be sent directly to the parent or guardian.
+## Disney Policies for children
 
-**What we do with your information if you are 13 to 18 years old**
+We encourage parents and guardians to spend time on-line with their children and to participate in the interactive activities offered on our Sites. If you are a child (a person who is not of legal age to give consent to the collection and processing of their data) and want to register with us, we require permission from a parent or guardian and you must ask your parent or guardian for permission to register, confirm you have permission to register and provide an email address (we may ask for a mobile number if you are registering for a service through your mobile) for your parent or guardian. We will then send a message to your parent that you have registered and depending on your age and location may also ask your parent or guardian to confirm consent to the registration. We may also carry out checks to verify that the contact details you have provided are for your parent or guardian. If you have indicated that you would like to receive additional Disney material (only available to specified age groups as indicated when you register or when you subscribe to certain services), then where required we will also ask your parent for consent. No information should be submitted to or posted to us without consent of your parent or guardian.
 
-When guests of this age register with us, we will send a message to your parents asking their permission to retain any information you give us. No information should be submitted to or posted to Disney or any Disney affiliate without consent of the relevant parent or guardian.
+## Our registration policy – How to remove or amend your information
 
-If you are between 13 to 18 years of age, we may, if you ask us, send you information or keep you informed about new activities on our web-sites. If you do register with us, you will receive an e-mail confirming your registration. 
+You can ask us to modify or remove your personal information from any or all of our mailing lists at any time or cancel your registration by clicking on the “Register” link or any other link we may provide for you.
 
-**What we do with your information if you are 18 years old or over**
+We will use our reasonable endeavours to remove your name from the related mailing list within 10 working days of your request.
 
-If you are 18 years of age or older, you may request to receive information about new content or events on our sites or about other Disney products or services.
+## Use of cookies and web beacons
 
-**Our registration policy**
+We collect information through technology to make our Sites and other content or services which we make available to you more interesting and useful to you. For instance, when you come to one of our Sites via your computer or other media device, we may place cookies and web beacons on our Sites which may be used to collect information about the sections you visit, the products you are interested in and the frequency with which you visit various parts of our Sites. You agree that we collect your IP address or other unique identifier. At times, we also use these identifiers to collect information regarding the frequency with which our guests visit various parts of our Sites. We may combine your IP address with other personally identifiable information for marketing and for market research purposes, including internal demographic studies, so we can optimize our products and services and customize the Sites for you.
 
-If you do register with us, you will receive an e-mail confirming your registration. In addition, if you are under 18 and you register with us, your parent(s) or guardian(s) will receive an e-mail informing them that you have registered. Because this personally identifiable information belongs to you, you can ask us to delete it, modify it, or remove it from any or all of our mailing lists. 
+Our Sites use a variety of technical methods for tracking purposes, including cookies and web beacons.
 
-**Our general rules when you enter one of our on-line competitions**
+Cookies are pieces of information that a Site sends to your computer or other media device while you are viewing or interacting with the Site. We use cookies for a variety of purposes including tracking usage on our Sites in order to- enhance our guests’ experience on our Sites and to learn more about your preferences and interests. For instance, when you return to one of our Sites after logging in via your computer, cookies provide information to the Site so that the Site will remember who you are (“visitor session information”). You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. 
 
-All competitions that you may enter on our sites have there own rules and conditions, but for any of our competitions the following general rules will apply:
+You do this through your browser settings. Each browser is a little different, so look at your browser’s Help to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your interaction with Disney Sites smoother, like the features mentioned above, and some of our services will not function properly. We may use cookies to analyse the traffic patterns on our Sites, such as the frequency which our users visit various parts of our Sites.
 
-If you under age 18, you can enter our contests, but only if you have the permission of your parent or guardian. If you win a prize we will tell you either by e-mail or through the post. The prizes will be sent to your parents or guardians.
+Web beacons are small pieces of data that are embedded in images on the pages of Sites. We also use these technical methods to analyse the traffic patterns on our Sites, such as the frequency with which our users visit various parts of our Sites.
 
-If you enter or win a competition, and we discover that you do not have the proper permission then your entry will be ignored or invalid, as will be the offer of any prize.
+We may combine your visitor session information or other information collected through cookies, web beacons and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what products, promotions and services you prefer or are likely to be of interest to you.
 
-**What you can do if the information we have about you is wrong or you want to delete your registration or you want to de-register**
+We also use these technical methods in HTML e-mails that we send our guests for a number of purposes including: to determine whether our guests have opened or forwarded those e-mails and/or clicked on links in those e-mails; to customise the display of the banner advertisements and other messages after a guest has closed an email; and to determine whether a guest has made an enquiry or purchase in response to a particular email.
 
-It is our responsibility to make sure that the personally identifiable information we have about you is correct and up to date. We also want you to have the ability to access and change the information we have about you and also to give you the option of de-registering from our subscription.
+Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorised by us to collect information on our behalf. The information from use of these technical methods may be collected in a form that identifies you personally.
 
-You can do this at anytime by clicking on the modify details link present throughout the website. For instance the registration screen has a modify link which requests entry of your member name and password and then display al the personal data we have on you. If you are under 18 your parent also has access to this screen.
+You may get cookies from our advertisers. We do not control these cookies, and once you have clicked on the advertisement and left our Sites our Privacy Policy no longer applies.
 
-**How we track your use of our site(s)**
+## Links to other sites
 
-In order to continually improve our web-site it is useful to know which are the popular areas on our sites and how long our guests spend on them. We do this in a number of ways. These are explained below _._
+You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside of our control.
 
-**Use of IP Addresses**
+For example, if you click on a banner advertisement or a Disney search result the click may take you to a third party site. The privacy policy of the new site will govern the information obtained from you on that site.
 
-An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the web. Web servers, the big computers that ‘serve up’ Web pages, automatically identify your computer by it’s IP address. 
+## Changes to this policy
 
-Disney collects IP addresses for the purpose of system administration, and to create reports and to audit the use of our site. When you request pages from Disney sites, our servers or computers log the guests IP addresses. We do not link IP addresses to anything personally identifiable, which means that a memberremains anonymous to us.
+We may change this Privacy Policy from time to time and we will post the latest version on this and all our other Sites. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent.
 
-**Use of Cookies**
+## Queries
 
-Cookies are pieces of information that a web site transfers to an individual’s hard drive for record keeping purposes. Cookies make web surfing easier for you by saving your preferences while you’re at your site . WE NEVER SAVE PASSWORDS OR CREDIT CARD INFORMATION IN COOKIES.
+If you have queries about our use of your personal information or wish to have your personal information removed, you can email [help@disney.co.uk](mailto:help@disney.co.uk) or write to us at Disney Interactive Media Group Technical Operations, The Walt Disney Company Limited, London W6 9PE, England.  
 
-The use of cookies is common and beneficial. You’ll find them in most major web sites. By showing how and when guests use a site, cookies help us to see which areas are popular and which are not. Many improvements and updates are based on information provided by cookies. Cookies also help us to personalise pages to meet our guests needs. 
 
-It is important to note the following things:
+© Disney. All rights reserved.  
 
-We will not use cookies to identify specific individuals (except in on-line shopping, which expire after you complete your shopping) or for specific contests or interactive content requiring the need to track your progress.
-
-Our sites do not use cookies to retrieve personally identifiable information from your computer that was not originally sent as a cookie. We do not use personally identifiable information transferred through cookies for any promotional or marketing purposes nor is that information shared with any third parties. 
-
-You always have the option of disabling these cookies via your browser menu. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse them or to tell you when they are being sent. However, it is possible that that some parts of the sites, such as shopping, contests and games will not operate properly if you disable these cookies.
-
-You may occasionally get cookies from our advertisers. We do not control these cookies. The use of advertising cookies sent by third party servers is standard in the internet industry. 
-
-**Links to other sites**
-
-You should be aware that when you are on our sites you could be directed to other sites that are beyond our control. There are links to other sites from Disney sites that take you outside our service. 
-
-For example, if you click on a banner advertisement or a Disney search result the click may take you off a Disney site. This includes links from advertisers, sponsors, and partners that may use or incorporate our logo our other company’s or affiliates’ logos as part of a joint advertising campaign. The privacy policy of the advertisers, sponsor or affiliate or partner will govern the information obtained from you on such site.
-
-Please keep in mind that whenever you give out personal information on-line-for example, via message boards or chat- that information can be collected and used by people you don’t know. Remember, NEVER give out personal information on a chat or bulletin board. 
-
-We strive to protect your identity and privacy, but we cannot guarantee the security of any information that you disclose on-line, and you do so at your own risk. If you are young or inexperienced on the Internet, then ask your parents or someone else you can trust, who has some experience, about which personal information is safe to send or give on the internet. 
-
-**Security Policy**
-
-The importance of secure storage of your personally identifiable information is of utmost concern to us. We exercise great care in transmitting your information from your computer to our servers. 
-
-Only those employees who need access to your information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
-
-Your subscription details are password protected so that only you and Disney can access it and view the member information, delete, amend or cancel your registration. We recommend that you do not divulge your password to anyone.
-
-We will NEVER ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. 
-
-Remember to sign out of your Disney site and close your browser window when you have finished what you’ve been doing; this is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share with someone else or are using a computer in a public place like a library or an internet café.
-
-**Your acceptance of these terms**
-
-By using this site, we assume that you have read this document carefully and understand and have followed it’s advice. If you do not agree to this policy or to the advice we give, please do not use our sites. We reserve the right to make changes to this policy from time to time as necessary. Your continued use of this and other Disney sites following the posting of any such changes to these terms will mean you accept those changes.
-
-back
