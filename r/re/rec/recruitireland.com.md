@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603220354id_/http%3A//recruitireland.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129003233id_/http%3A//recruitireland.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # RecruitIreland Confidentiality and Privacy Policy
 
@@ -64,7 +64,7 @@ If you upload a CV to your account we store this on file. If you opt into our CV
 
 We may also keep a record of any contact you have with us.
 
-What do we use this information for?
+**What do we use this information for?**
 
 Any of the information we collect from you may be used in one of the following ways;
 
