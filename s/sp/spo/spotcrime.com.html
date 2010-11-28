@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spotcrime.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619080516id_/http%3A//spotcrime.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spotcrime.com privacy policy that was archived on 2010-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128233118id_/http%3A//spotcrime.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -53,14 +53,13 @@
 
 <body>
 
-
 <div id="bg"> <!-- this provides the fullsize header background -->
 <div id="wrapper">
   <div id="header">
     <div id="city_selector">
       <form action="" method="get" onsubmit="var v=document.getElementById('citySelector').value; v=v.toLowerCase(); window.location=((v=='') ? '/' : ((v=='other') ? '/worldwide.php' : ('/' + v))); return false;">
 				<select name="citySelector" id="citySelector">
-		  <option value="" selected="selected">Select State</option>
+		  <option value="">Select State</option>
 <option value="AL">Alabama</option>
 <option value="AK">Alaska</option>
 <option value="AZ">Arizona</option>
@@ -314,7 +313,7 @@
           <form action="/login.php" style="padding:0;margin:0.2em 0;" method="post">
 			<input type="Hidden" name="FormAction" value="Process">
 			<input type="Hidden" name="return" value="/privacy/">
-            <input type="text" name="Username" id="loginform-username" value="username" class="crime_alerts_input" style="margin-bottom:1ex;"><br>
+            <input type="text" name="Username" id="loginform-username" value="email address" class="crime_alerts_input" style="margin-bottom:1ex;"><br>
             <input type="text" name="Password" id="loginform-password" value="password" class="crime_alerts_input"> 
             <input type="submit" value="GO" class="sm_submit_button">
           </form>
@@ -387,14 +386,14 @@
 	if (Ext.get('loginform-username')) {
 		Ext.get('loginform-username').on('focus', function(e) {
 			var el = e.getTarget();
-			if (el.value == 'username') {
+			if (el.value == 'email address') {
 				el.value = '';
 			}
 		});
 		Ext.get('loginform-username').on('blur', function(e) {
 			var el = e.getTarget();
 			if (el.value == '') {
-				el.value = 'username';
+				el.value = 'email address';
 			}
 		});
 	}
