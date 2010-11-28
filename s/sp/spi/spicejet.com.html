@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spicejet.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628153559id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spicejet.com privacy policy that was archived on 2010-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128072733id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title> SpiceJet Privacy Policy | SpiceJet Corporate Information | SpiceJet Airlines </title> 
@@ -15,16 +15,13 @@
 		
 
 
-
-<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link href="styles/spicejet.css" rel="stylesheet" type="text/css">
 <link href="styles/anylink.css" rel="stylesheet" type="text/css">
 <link href="styles/LoginAccordion.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" language="javascript" src="scripts/LoginAccordion.js"></script>
 <script type="text/javascript" language="JavaScript" src="scripts/anylink.js"></script>
-
-
-    <script language="JavaScript" type="text/javascript">
+<script type="text/javascript" language="JavaScript">
 function CloseLoginDiv()
 {
 	if(document.getElementById("Logindropdown").style.display != "none")
@@ -32,10 +29,25 @@ function CloseLoginDiv()
 
 }
 
+function randomString()
+{
+	var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz";
+	var string_length = 16;
+	var randomstring = '';
+	for (var i=0; i<string_length; i++) {
+		var rnum = Math.floor(Math.random() * chars.length);
+		randomstring += chars.substring(rnum,rnum+1);
+	}
+
+	return randomstring;
+}
+
+
+
 function GuestLogin(LoginTyp)
 {
-	var lstrUserName,lstrPassword
-	
+	var lstrUserName,lstrPassword,lstrAGUserName,lstrSubAGUserName,lstrSubAGPassword;
+
 
 	if (LoginTyp == "guest")
 	{
@@ -47,44 +59,102 @@ function GuestLogin(LoginTyp)
 	lstrUserName = document.getElementById("agencyloginid").value.toUpperCase();
 	lstrPassword = document.getElementById("agencypassword").value.toUpperCase(); 
 	}
-	
+
+	if (LoginTyp == "subagent")
+	{
+		lstrAGUserName = document.getElementById("AGloginid").value.toUpperCase();
+		lstrSubAGUserName = document.getElementById("subagentId").value.toUpperCase();
+		lstrSubAGPassword = document.getElementById("subagentpassword").value.toUpperCase();
+	}
+
 	if (LoginTyp == "corporate")
 	{
 	lstrUserName = document.getElementById("corporateloginid").value.toUpperCase();
 	lstrPassword = document.getElementById("corporatepassword").value.toUpperCase(); 
 	}
 
-	if (isEmptySpace(lstrUserName) && isEmptySpace(lstrPassword))
-	{
-		var alertMsg		
-		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id \n - password"
-		alert(alertMsg)
-		return false;
-	}
-	var regExpLoginid=/^[^A-Za-z0-9]*$/;	
-	if (regExpLoginid.test(lstrUserName))
-	{
-		var alertMsg		
-		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id"
-		alert(alertMsg)
-		return false;
-	}
-	
-	if (isEmptySpace(lstrUserName))
-	{
-		var alertMsg
-		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id "
-		alert(alertMsg)
-		return false;
-	}
-	
-	if (isEmptySpace(lstrPassword))
-	{
-		var alertMsg
-		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - password"
-		alert(alertMsg)
-		return false;
-	}
+	if (LoginTyp != "subagent")
+		{
+			if (isEmptySpace(lstrUserName) && isEmptySpace(lstrPassword))
+			{
+				var alertMsg;		
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id \n - password";
+				alert(alertMsg);
+				return false;
+			}
+			
+			if (isEmptySpace(lstrUserName))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id ";
+				alert(alertMsg);
+				return false;
+			}
+			
+			if (isEmptySpace(lstrPassword))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - password";
+				alert(alertMsg);
+				return false;
+			}
+		}
+		else
+		{
+			if (isEmptySpace(lstrAGUserName) && isEmptySpace(lstrSubAGUserName) && isEmptySpace(lstrSubAGPassword))
+			{
+				var alertMsg;		
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - agency id \n - subagent id \n - subagent password";
+				alert(alertMsg);
+				return false;
+			}			
+			if (isEmptySpace(lstrAGUserName) && isEmptySpace(lstrSubAGUserName))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - agency id \n - subagent id";
+				alert(alertMsg);
+				return false;
+			}
+			if(isEmptySpace(lstrSubAGUserName) && isEmptySpace(lstrSubAGPassword))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - subagent id \n - subagent password";
+				alert(alertMsg);
+				return false;
+			
+			}
+			if(isEmptySpace(lstrAGUserName) && isEmptySpace(lstrSubAGPassword))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - agency id \n - subagent password";
+				alert(alertMsg);
+				return false;
+			
+			}			
+			if (isEmptySpace(lstrAGUserName))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - agency id";
+				alert(alertMsg);
+				return false;
+			}
+			if (isEmptySpace(lstrSubAGUserName))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - subagent id";
+				alert(alertMsg);
+				return false;
+			}
+			if(isEmptySpace(lstrSubAGPassword))
+			{
+				var alertMsg;
+				alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - subagent password";
+				alert(alertMsg);
+				return false;
+
+			}
+
+		}
 	
 	if (LoginTyp == "guest")
 	{
@@ -103,6 +173,21 @@ function GuestLogin(LoginTyp)
 		document.getElementById('password').value = lstrPassword;
 		document.frmAgencyLogin.submit();
 	}
+
+	if (LoginTyp == "subagent")
+	{			
+		var sid = randomString();
+
+		document.frmSubAG.action = "https://www.agents.spicejet.com/login_direct.php?sid=" + sid + "&mode=&";
+	
+		document.getElementById('agpAgencyNum').value = document.getElementById("AGloginid").value.toUpperCase();
+		document.getElementById('agpusername').value = document.getElementById("subagentId").value.toUpperCase();
+		document.getElementById('agppassword').value = document.getElementById("subagentpassword").value;;
+		document.getElementById('agpsubmit').value = "1";
+
+		document.frmSubAG.submit();
+	}
+
 	if (LoginTyp == "corporate")
 	{
 		document.frmAgencyLogin.action="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi" + "?module=AG";
@@ -153,7 +238,7 @@ text-align:left;
 <!-- dropdown menu-->
 <div id="Travel" name="Travel" style="z-index:999999;">
   <ul>
-    <li id="Travel1" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" width="149"><a class="dropdown" href="general-air-travel-faq.asp">&nbsp;&nbsp;faqs</a> </li>
+    <li id="Travel1" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="general-air-travel-faq.asp">&nbsp;&nbsp;faqs</a> </li>
     <li id="Travel2" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="charter.asp">&nbsp;&nbsp;citizen's charter</a></li>
     <li id="Travel3" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="tnc.asp">&nbsp;&nbsp;terms of carriage</a></li>
     <li id="Travel4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="IAFpersonnel.asp" style="height:34px; line-height:18px;">&nbsp;&nbsp;Indian armed forces &nbsp;&nbsp;personnel</a></li>
@@ -162,31 +247,19 @@ text-align:left;
 </div>
 
 
-<!--menu Special-->
-<div id="Special" name="Special" style="z-index:999999">
-<ul>
-<li id="Special1" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" width="149">
 
-<a class="dropdown" href="http://www.sbicard.com/sbi/spicejet_creditcard.jsp" target="_blank">&nbsp;&nbsp;spicejet sbi card</a>
-
-</li>
-<li id="Special4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="tata_aig_productdescription.asp">&nbsp;&nbsp;domestic travinsure</a></li>
-<!--<li id=Special7  onmouseover="menuOver('rollimg2')" 
-                onmouseout="menuOut('rollimg2')"><a class="dropdown" 
-href="homeaway_tata_aig_productdescription.asp">&nbsp;&nbsp;home away insurance</a></li>-->
-<!--<li id="Special8"  onmouseover="menuOver('rollimg2')" 
-                onmouseout="menuOut('rollimg2')"><a class="dropdown" 
-href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
-
-</ul>
-</div>
 
 
 
 
 <div id="Ser" name="Ser" style="z-index:999999">
   <ul>
-  
+  <li id="Special1" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')">
+
+<a class="dropdown" href="http://www.sbicard.com/cards_for_you/sbi_spicejet_card_0_011603.html" target="_blank">&nbsp;&nbsp;spicejet sbi card</a>
+
+</li>
+<li id="Special4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="tata_aig_productdescription.asp">&nbsp;&nbsp;domestic travinsure</a></li>
     <li id="sr1" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="careers.asp">&nbsp;&nbsp;careers</a> </li>
     <li id="sr6" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="CorporateOverview.asp">&nbsp;&nbsp;corporate overview</a> </li>
  <li id="sr9" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="cargo.asp">&nbsp;&nbsp;cargo</a> </li>
@@ -206,11 +279,12 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
   </ul>
 </div>
 <!--new-->
-<div id="annualreports" onmouseover="MM_showHideLayers('Ser','','show','Sublay','','show','annualreports','','show')" onmouseout="MM_showHideLayers('Ser','','hide','Sublay','','hide','annualreports','','hide')" style="z-index:999999">
+<div id="annualreports" onmouseover="MM_showHideLayers('Ser','','show','Sublay','','show','annualreports','','show')" onmouseout="MM_showHideLayers('Ser','','hide','Sublay','','hide','annualreports','','hide')" style="z-index:999999;">
   <ul>
-    <li id="sum4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/2008-09Annual Report.pdf">&nbsp;&nbsp;annual report 2008-09</a> </li>
-<li id="sum4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/2007-08Annual Report.pdf">&nbsp;&nbsp;annual report 2007-08</a> </li>
-<li id="sum4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/2006-07Annual Report.pdf">&nbsp;&nbsp;annual report 2006-07</a> </li>
+<li id="sum23" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/2009-10Annual Report.pdf">&nbsp;&nbsp;annual report 2009-10</a> </li>
+<li id="sum24" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/2008-09Annual Report.pdf">&nbsp;&nbsp;annual report 2008-09</a> </li>
+<li id="sum25" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/2007-08Annual Report.pdf">&nbsp;&nbsp;annual report 2007-08</a> </li>
+<li id="sum26" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/2006-07Annual Report.pdf">&nbsp;&nbsp;annual report 2006-07</a> </li>
 
 
 </ul>
@@ -218,6 +292,8 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
 
 <div id="quarterly" onmouseover="MM_showHideLayers('Ser','','show','Sublay','','show','quarterly','','show')" onmouseout="MM_showHideLayers('Ser','','hide','Sublay','','hide','quarterly','','hide')" style="z-index:999999">
 <ul>
+<li id="sum7" nowrap="" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/BSE-Q2-11.PDF">&nbsp;&nbsp;BSE - Q2-11</a> </li>
+<li id="sum7" nowrap="" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/BSE-Q1-11.PDF">&nbsp;&nbsp;BSE - Q1-11</a> </li>
 <li id="sum7" nowrap="" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/BSE-Q4-10.pdf">&nbsp;&nbsp;BSE - Q4-10</a> </li>
 <li id="sum7" nowrap="" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/BSE Results Q3 FY10.pdf">&nbsp;&nbsp;BSE - Q3-10</a> </li>
 <li id="sum7" nowrap="" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/BSE Results - Q2 FY10.pdf">&nbsp;&nbsp;BSE - Q2-10</a> </li>
@@ -244,7 +320,9 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
     <li id="sum2" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="code-of-conduct.asp">&nbsp;&nbsp;code of conduct</a> </li>
     <li id="sum3" onmouseover="menuOver('rollimg2');MM_showHideLayers('annualreports','','hide')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="contactus.asp">&nbsp;&nbsp;contact information</a> </li>
    
-    <li id="sum5" onmouseover="menuOver('rollimg2');MM_showHideLayers('annualreports','','hide')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/CorporatePresentation_May2010.pdf">&nbsp;&nbsp;corporate presentation</a> </li>
+   <!-- <li id="sum5"  onmouseover="menuOver('rollimg2');MM_showHideLayers('annualreports','','hide')"
+                onmouseout="menuOut('rollimg2')"><a class="dropdown" 
+href="pdf/CorporatePresentation_May2010.pdf">&nbsp;&nbsp;corporate presentation</a> </li>-->
  <li id="sr2" onmouseover="shLayer('annualreports');MM_showHideLayers('Ser','','show','annualreports','','show','Sublay','','show')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','show','annualreports','','show','Sublay','','show')" valign="center"><a class="dropdown" href="#">&nbsp;&nbsp;annual reports&nbsp;</a></li>
 
  <li id="sr2" onmouseover="shLayer('quarterly');menuOver('rollimg2');MM_showHideLayers('Ser','','show','quarterly','','show')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','show');MM_showHideLayers('Ser','','show','quarterly','','show','Sublay','','show')" valign="center"><a class="dropdown" href="#">&nbsp;&nbsp;quarterly reports&nbsp;</a></li>
@@ -262,7 +340,7 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
     	
   
     
-  <div class="AccordionPanel2 AccordionPanelOpen2">
+  <div class="AccordionPanel2">
     <div class="AccordionPanelTab2">guest</div>
     <div class="AccordionPanelContent2">
     	<div class="guestdiv">
@@ -295,9 +373,9 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
  </div>
 
 
-  <div class="AccordionPanel2 AccordionPanelClosed2">
+  <div class="AccordionPanel2">
     <div class="AccordionPanelTab2">agency</div>
-    <div class="AccordionPanelContent2" style="height: 0px; display: none;">
+    <div class="AccordionPanelContent2">
     
     <div class="agencydiv">
 <form name="frmAgencyLogin" id="frmAgencyLogin" method="post">
@@ -327,9 +405,35 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
   </div>
 
 
-  <div class="AccordionPanel2 AccordionPanelClosed2">
+<div class="AccordionPanel2">
+    <div class="AccordionPanelTab2">sub agent (beta)</div>
+    <div class="AccordionPanelContent2">
+    
+    <div class="agency">
+    
+	<form name="frmSubAG" id="frmSubAG" method="post">
+            <div><span class="guestlabel" style="width:150px; padding-right:22px;">agency id:</span><input name="AGloginid" id="AGloginid" type="text" class="userid"></div>
+            <div><span class="guestlabel" style="width:150px; padding-right:8px">sub agent id:</span><input name="subagentId" id="subagentId" type="text" class="userid"></div>
+	    <div><span class="guestlabel" style="width:150px;  padding-right:22px">sub agent password:</span></div>
+	    <div style="margin-left:79px"><input name="subagentpassword" id="subagentpassword" type="password" class="userpwd"></div>
+		
+            <div style="margin-left:79px;margin-top:10px;"><input type="button" name="btnsubAgentlogin" id="btnsubAgentlogin" class="signinbtn" value="" onclick="javascript:GuestLogin('subagent');"></div>
+		
+		<input type="hidden" name="agpusername" id="agpusername" value="0">
+		<input type="hidden" name="agppassword" id="agppassword" value="0">
+		<input type="hidden" name="agpAgencyNum" id="agpAgencyNum" value="0">
+		<input type="hidden" name="agpsubmit" id="agpsubmit" value="0">
+
+	</form>
+    </div>
+    </div>
+  </div>
+
+
+
+  <div class="AccordionPanel2">
     <div class="AccordionPanelTab2">corporate</div>
-    <div class="AccordionPanelContent2" style="height: 0px; display: none;">
+    <div class="AccordionPanelContent2">
     
     <div class="corporatediv">
 <form name="frmCorporateLogin" id="frmCorporateLogin" method="post">
@@ -362,14 +466,16 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
 <!-- Login End -->
 
 <!-- dropdown menu end -->
+
 <div align="center">
 <div id="mainwrapper">
-	  <div id="header">
-		<div class="logo"> <img src="images/logo1.gif" id="imgTabs" name="imgTabs"> </div>
-		<div class="headerbg">
+	  <div id="header" style="float:left;width:884px;">
+		<div class="logo"> <img src="images/logo1.gif" id="imgTabs" name="imgTabs" title="SpiceJet" alt="SpiceJet"> </div>
+		<div class="headerbg" style="width:622px">
 		<img src="images/header_sales1.gif">
 		</div>
-		<div id="menu">
+		<div id="menu" "="" style="width:622px">
+		
 		<ul>
 		  <li><a href="home.asp">home</a></li>
 		  <li class="separator"></li>
@@ -385,18 +491,20 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
 		  <li class="separator"></li>
 		  <li class="dmenu"><a style="height: 18px;" href="#" onmouseout="menuOut('Travel')" onmouseover="shLayer('Travel')">travel tips</a><img src="images/dropdown_icon.gif" class="dropdownicon"></li>
 		  <li class="separator"></li>
-		  <li class="dmenu"><a href="#" onmouseout="menuOut('Special')" onmouseover="shLayer('Special')">spice offers</a><img src="images/dropdown_icon.gif" class="dropdownicon"></li>
-		  <li class="separator"></li>
+	
+
 		  <li class="dmenu"><a href="#" onmouseout="btnTimer()" onmouseover="shLayer('Ser')">about us</a><img src="images/dropdown_icon.gif" class="dropdownicon"></li>
 		
 		  
-			<li class="login"><img src="images/menu_login1.gif" onmouseout="menuOut('Logindropdown')" onmouseover="shLayer('Logindropdown')" style="cursor:pointer;"></li>
+			<li class="login" style="margin-left:14px;"><img src="images/menu_login1.gif" onmouseout="menuOut('Logindropdown')" onmouseover="shLayer('Logindropdown')" style="cursor:pointer;"></li>
 		  
 	
 		</ul>
  	 </div>
 		 
 	 </div>
+	 <div style="float:left"><img src="images/sun_logo.gif" title="Sun Group" alt="Sun Group"></div>
+	 <div class="clear"></div>
       
 
 
@@ -501,7 +609,7 @@ href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>-->
 
 <div> This site is best viewed with Internet Explorer 5.5 or higher. LINKING, FRAMING, MIRRORING, SCRAPING OR DATA-MINING STRICTLY PROHIBITED. </div>
 <div> <b><span style="color: rgb(255, 154, 0);">Notification:</span> We log the IP addresses of the visitors on our website
-      for security reasons.Your IP is :<span style="color:#FF9A00;"> 174.129.237.157</span> </b> </div>
+      for security reasons.Your IP is :<span style="color:#FF9A00;"> 207.241.234.183</span> </b> </div>
 <div>© Copyright SpiceJet 2007.</div>
 </div>
 </div>
