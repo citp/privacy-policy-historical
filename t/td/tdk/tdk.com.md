@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501164916id_/http%3A//www.tdk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128061339id_/http%3A//tdk.com/privacy.php) for the most accurate reproduction.*
 
 # TDK - Privacy Statement
 
@@ -33,9 +33,9 @@
 | For Further Information  
 | If you have comments or questions about our privacy policy, you can contact us at:   
 TDK Corporation   
-1221 Business Center Drive   
-Mt. Prospect, IL 60056   
+475 Half Day Road, Suite 300  
+Lincolnshire, IL 60069   
 Phone: 1-847-803-6100   
 or send us an Email.
 
-Last Updated: December 27th, 2007
+Last Updated: June 21st 2010
