@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technodorm.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102141553id_/http%3A//technodorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technodorm.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128062251id_/http%3A//technodorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technodorm
 
@@ -24,7 +24,7 @@ We use Google Analytics and Extreme Tracking services to monitor our visitor sta
 
 The author does not assume responsibility over comments he did not make on this blog. While comments are welcome from anybody, we reserve the right to remove any comment that is not deemed suitable for publication. This could include but is not limited to objectional and abusive comments. Hate, racist comments, or any other form of prejudice will be removed and the poster banned!
 
-The blogging platform used by Technodorm is WordPress which stores a small amount of information in users computer when he or she comments. This is of very small size and no way is a malware or script which hacks a computer for information. More information can be found at [Wordpress Official Site](http://www.wordpress.org/ "Wordpress").
+The blogging platform used by Technodorm is WordPress which stores a small amount of information in users computer when he or she comments. This is of very small size and no way is a malware or script which hacks a computer for information. More information can be found at [WordPress Official Site](http://www.wordpress.org/ "Wordpress").
 
 **This Privacy Policy can be changed at ANYTIME!**  
 **Last Updated: 7th April, 2009**
