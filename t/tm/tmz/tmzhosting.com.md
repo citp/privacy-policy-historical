@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205043342id_/http%3A//tmzhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128132205id_/http%3A//www.tmzhosting.com/privacy.php) for the most accurate reproduction.*
 
-# Unmetered Web Hosting, Reseller Hosting, Proxy Hosting, cPanel VPS and Dedicated Hosting with cPanel - TmzHosting
+# TMZHosting - Privacy Policy
 
-## Privacy Policy  
-Last Edited on: 10/6/2008
+Privacy Policy **Introduction**
 
-**Introduction**
-
-We TmzHosting.com are committed to protecting any data that we collect concerning you.  By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
-
-**We are committed to protecting your privacy**
-
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
+We TmzHosting.com are committed to protecting any data that we collect concerning you.  By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. **We are committed to protecting your privacy** We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
 
 **Information Collected**
 
@@ -27,9 +20,7 @@ Your Internet browser has the in-built facility for storing small files - "cooki
 
 **Disclosing Information**
 
-We do not disclose any personal information obtained about you from this website to third parties.  We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. 
-
-We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
+We do not disclose any personal information obtained about you from this website to third parties.  We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
 
 **Disclosure to Law Enforcement**
 
