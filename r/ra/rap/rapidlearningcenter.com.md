@@ -1,9 +1,23 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102111806id_/http%3A//rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128202036id_/http%3A//rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
 |  [](http://www.bbbonline.org/cks.asp?id=108031018228)  
 ---  
+  
+  **Need Help?**  
+---  
+  
+M-F: 9am-5pm(PST):  
+Toll-Free: (877) RAPID-10  
+US Direct: (714) 692-2900  
+Int'l: 001-714-692-2900 
+
+24/7 Technical Support:  
+[The Rapid Support Center](https://web.archive.org/web/20101128202036id_/http%3A//rapidlearningcenter.com/contact.html)
+
+Online Order with Instant Access:  
+[](https://www.rapidlearning24.com/members/signup.php)  
   
   **Member Login:**  
 ---  
