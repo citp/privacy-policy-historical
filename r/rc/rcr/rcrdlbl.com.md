@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcrdlbl.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612001525id_/http%3A//www.rcrdlbl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcrdlbl.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128204109id_/http%3A//rcrdlbl.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | RCRD LBL | Free MP3 Downloads
 
@@ -15,6 +15,7 @@ Please read this statement regarding our site. If you have questions please cont
 **Business Transitions**  
 **Links**  
 **Editing or deleting your account information**  
+**Other Information / Logging and Cookies**  
 **Notification of Changes**  
 **Contact Information**
 
@@ -61,6 +62,12 @@ RCRD LBL regularly links to other websites. We are not responsible for the conte
 **Editing or deleting your account information**
 
 You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator. Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor's discretion, even after your user account is deleted. Please see the site's Terms of Use for more information.
+
+**Other Information / Logging and Cookies**
+
+Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+
+We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
 
 **Notification of Changes**
 
