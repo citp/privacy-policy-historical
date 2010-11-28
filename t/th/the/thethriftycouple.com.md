@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602212445id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128212412id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | thethriftycouple.com
+# Privacy Policy
 
 ##### Your Privacy
 
