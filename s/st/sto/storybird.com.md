@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511070505id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128092333id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
 
 # Storybird - Collaborative storytelling
 
