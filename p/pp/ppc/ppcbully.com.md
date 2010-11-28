@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppcbully.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515173037id_/http%3A//ppcbully.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcbully.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128092145id_/http%3A//ppcbully.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PPC Bully - The Best Tools For Online Advertisers!
 
