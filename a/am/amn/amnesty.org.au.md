@@ -1,55 +1,85 @@
-> *The following text is extracted and transformed from the amnesty.org.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206213238id_/http%3A//www.amnesty.org.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.au privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129005438id_/http%3A//amnesty.org.au/about/comments/22335) for the most accurate reproduction.*
 
-# Amnesty International Australia (Privacy)
+# Privacy policy - Amnesty International Australia
 
-Amnesty International Australia Privacy Statement
+Amnesty International Australia respects, and is committed to protecting your privacy.
 
-Amnesty International is an independent, politically impartial worldwide movement. We work to defend human rights around the world. We are committed to best practice procedures and to ensuring your privacy is maintained while visiting our web site. If you have any queries about our privacy statement you can contact us at cso@amnesty.org.au
+If you have any queries about our privacy statement you can contact us by:
 
-**Privacy and Security**  
-Amnesty International Australia (AIA) respects, and is committed to protecting your privacy. The personal information you provide will remain private and will only be used for the purposes outlined here. Amnesty International Australia will not share, sell, lend or rent your personal information to be used by outside parties without your explicit permission. 
-
-**What personal information will be collected from the web site?**  
-When you visit our web site or download information, we may collect and store your server address, domain name, the date and time of your visit and the information downloaded. The information is readily available to any Internet Service Provider whose site you visit. We do not use cookies.
-
-We may use the information you provide within Amnesty International Australia for the purposes of processing donations, memberships and Human Rights Defenders, issuing receipts, responding to your comments or questions, providing follow-up information about Amnesty International's work/campaigns, contributor research, reporting and to improve our web site.
-
-**Data Security**  
-How will AIA treat credit card information that is collected from the web site? We will take all reasonable steps to protect your personal information from misuse or loss, and from unauthorised access, modification or disclosure. Whenever financial details are provided we use security encrypted response forms. We protect the security of your information during transmission by using Secure Sockets Layer (SSL) encryption software from Thwate, and your credit card details will not be stored on our server. If you don't wish to make your financial contribution on-line, please call our Contributor Service Centre and we will forward a form for you to complete.
-
-**In what circumstances will personal information be disclosed to third parties?**  
-We will not share, sell, lend or rent any of your personal (or financial) information without your explicit consent. The only exception to this is where Amnesty International Australia may be required to disclose certain information if: 
-
-  * The disclosure is required or authorised by law;
-  * An investigation of suspected fraud or unlawful activity has been or is being conducted by the organisation and the information is disclosed to relevant persons or authorities;
-  * The organisation believes the disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of its functions; or
-  * The use or disclosure is required for the preparation for or the conduct of legal proceedings or for the implementation of the orders of a court or tribunal.
+  * sending an e-mail to our Supporter Relations Centre, [supporter@amnesty.org.au](mailto:supporter@amnesty.org.au); 
+  * calling the Supporter Relations Centre on 1300 300 920 (cost of local call) during business hours (9-5pm EST); or 
+  * writing to Amnesty International Australia, Locked Bag 23, Broadway, NSW 2007 
 
 
 
-**Will I be given access to my personal information if I request it?**  
-Wherever possible, and if it is lawful, we will let you see the information we hold about you and correct it if it is wrong. Please make your request in writing and mail it to Amnesty International Australia, Private Bag 23, Broadway or e-mail us at cso@amnesty.org.au. We will only respond to a request if your postal address is specified.
+#### Personal information collected
 
-**How we handle e-mails**  
-We will preserve the content of any e-mail that you send us if we believe that we have a legal requirement to do so. Any personal information contained in your e-mail, including your e-mail address, will be used or disclosed in ways set out in this privacy statement. Your e-mail message content may be monitored by our Internet Service Provider or Amnesty International Australia employees for troubleshooting and maintenance purposes or where e-mail abuse is suspected.
+We may collect personal information about individuals such as members, supporters, volunteers, contractors, job applicants and the people whose human rights we work to protect. We collect personal information that you provide to us directly, as well as from publicly available sources and third parties such as those identified in the "use and disclosure of personal information" section below.
 
-**Outside links**  
-This site contains hypertext links to other web sites. Amnesty International Australia is not responsible for the privacy practices or the content of such web sites.
+In certain circumstances we may collect sensitive information such as health information (for example, in providing assistance to asylum seekers). We will only collect this information when you provide it voluntarily, consent to us collecting it or as otherwise authorised by law.
 
-**Contact Information**  
-If you have any questions or concerns about privacy on our web site, please contact us by: 
+#### Use and disclosure of personal information
 
-  * Sending an e-mail to our Contributor Service Centre, cso@amnesty.org.au
-  * Calling the Contributor Service Centre on 1300 300 920 (cost of local call) during business hours (9-5pm EST)
-  * Post to Amnesty International Australia, Private Bag 23, Broadway, NSW 2007
+We may use the information we collect about you for the purposes of processing donations, memberships and Human Rights Defender pledges, issuing receipts, responding to your comments or questions, providing follow-up information about Amnesty International's activities, supporter research, reporting and to improve our web site.
+
+We may also use your personal information to ask for your support, both financial and non-financial.
+
+As an activist organisation concerned about having a real human rights impact, we may also use the information we collect to measure the level of support received and the effectiveness of our activities and campaigns.
+
+We may not be able to do these things listed above without your personal information. For example, we may not be able to contact, issue receipts to or offer employment to you where certain personal information is not provided.
+
+Occasionally we may allow other organisations with who have similar values and beliefs to contact you with information that may be of interest to you. These organisations usually allow us to do the same in return and this helps us to reach more people and achieve our goals. If you do not wish us to provide your personal information to these likeminded organisations, please contact us as set out at the start of this Privacy Policy.
+
+Many of our tasks are performed with the assistance of our service providers and volunteers, and we may share personal information with them. We may also share personal information with external agencies who are used by Amnesty International Australia to provide mail, database, telephone servicing, auditing, professional advice, payment processing and research services.
+
+If you apply for a position with us, we may exchange your personal information with your referees, police, Centrelink and recruitment consultants.
+
+We have confidentiality agreements in place with all our service providers and external agencies, and with staff and volunteers who handle personal information.
+
+#### Data Security
+
+We take reasonable steps to protect your personal information from misuse or loss, and from unauthorised access, modification or disclosure. For example whenever we ask for your financial details online, we use security encrypted response forms. If you don't wish to make your financial contribution online, please call our Supporter Relations Centre on 1300 300 920 and we will forward a form for you to complete.
+
+#### Additional information if you use our website or e-mail addresses
+
+When you visit our web site (the 'Web Site'), we will collect and store your computer's assigned IP address, the date and time of your visit, the information accessed and the referring page. We will also collect other non-identifying data for statistical purposes. This information is not linked to your personal information unless required by law (see the last section Application of Privacy Laws).
+
+Like many websites, the Web Sites may use "cookies" from time to time. Cookies are small text files that the Web Site transfers to your computer's through your web browser to enable the Web Site's systems to recognise your computer. Cookies may also be used to record non-personal information such as the date, time or duration of your visit, or the pages accessed, for website administration, statistical and maintenance purposes. Any such information will be aggregated and not linked to particular individuals unless required by law. The default settings of browsers like Internet Explorer often allow cookies, but users can easily erase cookies from their hard-drive, block all cookies, or receive a warning before a cookie is stored. Please note that some parts of the Web Site may not function fully for users that disallow cookies.
+
+Information which you actively submit to us in web forms, on line forums or other means may be stored and used according to this Privacy Policy.
+
+The Web Site contains hypertext links to other websites. Amnesty International Australia is not responsible for the privacy practices or the content of such web sites.
+
+While we take great care to protect your personal information on our Web Site, unfortunately no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, we cannot ensure or warrant the security of any information you send to us or receive from us online. This is particularly true for information you send to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security in our possession.
+
+We will preserve the content of any e-mail that you send us if we believe that we have a legal requirement to do so. Any personal information contained in your e-mail, including your e-mail address, may be used or disclosed in ways set out in this privacy statement. If e-mail abuse is suspected, or for troubleshooting and maintenance purposes, your e-mail message content may be monitored by our Internet Service Provider or Amnesty International Australia employees. E-mail is an insecure communications medium; it should not be used for confidential correspondence.
+
+#### Access to personal information
+
+Wherever possible, and if it is lawful, we will let you see the information we hold about you and correct it if it is wrong. Please make your request in writing and mail it to Amnesty International Australia, Locked Bag 23, Broadway or call the Supporter Relations Centre on 1300 300 920. We may require you to provide proof of identity.
+
+#### Application of privacy laws
+
+Amnesty International Australia is required to comply with the National Privacy Principles under the Privacy Act 1988 and other laws which protect your privacy. We sometimes handle personal information relying on exemptions under these laws, for example in relation to:
+
+  * employee records;
+  * related bodies corporate;
+  * provision of services to State or Territory authorities; and
+  * operations outside Australia relating to personal information of non-Australians.
 
 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, your confidential use of this site cannot be guaranteed by Amnesty International Australia. Amnesty International Australia shall not be responsible for any harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of this site or any information transmitted to this site.
+Any permitted handling of personal information under such exemptions will take priority over this Privacy Policy to the extent of any inconsistency.
 
-**Banner Ads**   
-Amnesty International Australia uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable.
+In all other respects this Privacy Policy applies to the extent permitted by law.
 
-It does not contain your name, address, telephone number, or email address. 
+**Initiated by:** Director Governance and Infrastructure  
+**Ratified by:** Board  
+**Date introduced:** June 2008  
+**Date(s) reviewed:**  
+**Date for next review:** June 2009 or earlier if required  
+**Relevant to:** All AIA stakeholders, supporters and interested members of the public
 
-For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
+#### Download
+
+[**Download Amnesty International's privacy statement**](http://www.amnesty.org.au/images/uploads/about/privacy_statement.pdf) (pdf 118kb)
