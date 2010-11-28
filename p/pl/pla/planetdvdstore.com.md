@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetdvdstore.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503091726id_/http%3A//www.planetdvdstore.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetdvdstore.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128044038id_/http%3A//planetdvdstore.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # PlanetDVDStore :: Help zone
 
