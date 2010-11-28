@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the nettravel.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021025049id_/http%3A//nettravel.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettravel.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128060720id_/http%3A//www.nettravel.com/main/privacy) for the most accurate reproduction.*
 
-# 
+# Nettravel
 
-Privacy Policy  
+| Privacy Policy  
+---  
   
 What we at NetTravel.com consider primary is your right to privacy. The guidelines we use to protect information, which we collect about you when you visit our website is cited very clearly in our privacy policy.  
   
