@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srpoints.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501134957id_/http%3A//www.srpoints.com/srsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srpoints.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128072359id_/http%3A//www.srpoints.com/srsite/privacy) for the most accurate reproduction.*
 
 # Super Rewards
 
@@ -172,7 +172,7 @@
 
 
 
-> 5.1 For more information about protecting your privacy, you may wish to visit [_http://www.netcoalition.com_](http://www.netcoalition.com/) and [_http://www.privacyalliance.org_](http://www.privacyalliance.org/). Adknowledge reserves the right to update this Policy at any time by republishing it to this Website with a new effective date. If you have questions about this Policy, please contact us at [_privacy@adknowledge.com_](mailto:privacy@adknowledge.com?Subject=Questions%20about%20Adknowledge%20Privacy%20Policy) or write to us at:
+> 5.1 For more information about protecting your privacy, you may wish to visit [_http://www.netcoalition.com_](http://www.netcoalition.com/) and [_http://www.privacyalliance.org_](http://www.privacyalliance.org/). Adknowledge reserves the right to update this Policy at any time by republishing it to this Website with a new effective date. If you have questions about this Policy, please contact us at [_sr_info@adknowledge.com_](mailto:sr_info@adknowledge.com?Subject=Questions%20about%20Adknowledge%20Privacy%20Policy) or write to us at:
 
 
 
