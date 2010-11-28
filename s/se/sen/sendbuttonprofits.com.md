@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendbuttonprofits.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305045250id_/http%3A//sendbuttonprofits.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendbuttonprofits.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128104657id_/http%3A//sendbuttonprofits.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -57,6 +57,6 @@ www.sendbuttonprofits.com is controlled, operated and administered entirely with
 Contacting Us.  
 We can be reached by contacting:  
 2100 East Milwaukee Street   
-Suite 21   
+Suite 21L   
 Janesville, WI 53545  
 Contact us at: [http://onlinecustomerhelp.com](http://onlinecustomerhelp.com/)
