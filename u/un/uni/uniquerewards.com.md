@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103002035id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128235858id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -93,16 +93,24 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=1918)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=6836)
 
-**MyThoughtCounts (Daily Survey)**
+**Children's Book-of-the-Month**
 
-Share your Opinions and Win great Prizes.
+Join Children's Book-of-the-Month and get 6 books for $2 plus a free gift with membership!
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=3147)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=6828)
 
-**IDz Surveys (Daily Survey)**
+**Harris (Male Panel, 18+)**
 
-Give us your opinion and get rewarded!
+Join one of the world's most dynamic research panel and enter for a chance to win $10,000!  
+This offer is only for males.
+
+[](https://web.archive.org/cgi-bin/click.cgi?mid=4278)
+
+**Homestead.com**
+
+Build, Make & Create Your Own Website!  
+Sign up for a FREE Trial and GET PAID!
 
 | 
