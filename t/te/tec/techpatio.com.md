@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpatio.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102145522id_/http%3A//techpatio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpatio.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128165919id_/http%3A//techpatio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — TechPatio
 
@@ -13,7 +13,9 @@ Currently we use the following third-party visitor tracking tools:
 
 
 
-We doe not use “web beacons” of any kind with the exception of third-party links or advertisers (see next section).
+We do not use “web beacons” of any kind with the exception of third-party links or advertisers (see next section).
+
+We might use the services of Tynt.com to automatically add a “read more”-link to all copied texts from TechPatio.com.
 
 ## Third-party Advertisers, Links to Other Sites
 
