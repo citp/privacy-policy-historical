@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps2pdf.com privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222090827id_/http%3A//www.ps2pdf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps2pdf.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128092930id_/http%3A//ps2pdf.com/privacy.htm) for the most accurate reproduction.*
 
 # www.ps2pdf.com
 
@@ -29,8 +29,10 @@ To prevent unauthorized access, maintain data accuracy, and ensure the appropria
 
 At times we may share statistical data and conversion error messages with outside parties. This information will be grouped together such that individual conversion data will not be identifiable.
 
+Files downloaded from this site may have a "PDF Producer" string embeded in them giving the version of the converter program that was used as well as the fact that it was converted on the ps2pdf.com website. 
+
 Should you have other questions or concerns about these privacy policies, please send us an e-mail.
 
 We may update this policy from time to time.
 
-Last update: May 31, 2006
+Last update: June 8, 2010
