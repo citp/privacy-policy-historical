@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblocal.ca privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113165017id_/http%3A//www.transcontinental.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblocal.ca privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128180534id_/http%3A//www.transcontinental.com/privacy.html) for the most accurate reproduction.*
 
 # Transcontinental - Privacy Policy
 
@@ -53,7 +53,7 @@ Appendix 1: What are "fair information practices"?
 
 Transcontinental Inc. is the "parent" of a group of companies focusing on the print and media sectors. One of the 10 largest commercial printers in North America, Transcontinental is Canada's largest printer of flyers, books and newspapers, and a strong second in the printing of magazines, catalogues and directories. Through its Canadian and U.S. direct marketing facilities, Transcontinental has the geographic platform and complete service offering needed to cover the entire North American market. The Corporation is also Canada's leading publisher of consumer magazines and the second-largest publisher of local and regional newspapers. In addition, it is engaged in the door-to-door distribution of advertising material, the development and integration of Web solutions, and the electronic aggregation of news and business information.
 
-This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publications (click [here](https://web.archive.org/web/20100113165017id_/http%3A//www.transcontinental.com/titres.pdf) to view a list of our publications), and our individual service providers.
+This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publications (click [here](https://web.archive.org/web/20101128180534id_/http%3A//www.transcontinental.com/titres.pdf) to view a list of our publications), and our individual service providers.
 
   
 **2\. What personal information do we collect?**
@@ -240,7 +240,7 @@ Transcontinental will protect your personal information by security safeguards a
 
 **Principle 8 - Openness Concerning Policies and Practices  
 **  
-Transcontinental will make readily available to you specific information about our policies and practices relating to the management of personal information. For example, the most recent version of this Privacy Policy will always be available on the Transcontinental website at [www.transcontinental.com](https://web.archive.org/web/20100113165017id_/http%3A//www.transcontinental.com/en/index.html) and upon request to the Chief Privacy Officer using the contact information in the "Contact Us" section.
+Transcontinental will make readily available to you specific information about our policies and practices relating to the management of personal information. For example, the most recent version of this Privacy Policy will always be available on the Transcontinental website at [www.transcontinental.com](https://web.archive.org/web/20101128180534id_/http%3A//www.transcontinental.com/en/index.html) and upon request to the Chief Privacy Officer using the contact information in the "Contact Us" section.
 
 **Principle 9 - Individual Access to Personal Information**
 
