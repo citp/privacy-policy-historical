@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507070701id_/http%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128150323id_/http%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: SocialSpark
 
