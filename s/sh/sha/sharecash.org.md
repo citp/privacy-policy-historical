@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612151307id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128081607id_/http%3A//www.sharecash.org/privacy.php) for the most accurate reproduction.*
 
 # ShareCash.Org - Make Money Uploading Files!
 
@@ -37,9 +37,9 @@ Advertising intermediaries are able to detect your browser�s unique cookies wh
   
 
 
-**benjahut**
+**jbs17**
 
-Sharecash is a great site for earning money from home. It only takes about a week to earn big sums of money if you upload some good and wanted files. All in all, Sharecash is by far the best file host online I've ever seen!
+I was earnings 20$ per 1000 downloads on other sites before I decided to try ShareCash. ShareCash changed my online earnings from 1$ day to 15-20$ an HOUR! I've made more than 1000$ with ShareCash per month and I was always paid on time, for 5 times. Best Uploading site on the web!
 
   more testimonials       
 
@@ -48,21 +48,12 @@ Sharecash is a great site for earning money from home. It only takes about a wee
 
 **Latest User!**
 
-Welcome and congratulations to _**Ex0d3,**_ the newest member of our community!
+Welcome and congratulations to _**jussie16,**_ the newest member of our community!
 
 [](http://sharecash.org/register.php)
 
 **Latest Payout!**
 
-Congratulations to _**alryk**_ for cashing out _**226.249$**_! Keep up the great work!
-
-[](http://sharecash.org/register.php)
-
-**Our Current Stats!**
-
-Users: 345402  
-Uploads: 115649  
-Downloads: 2412040  
-Earnings: $723612
+Congratulations to _**majorpayne**_ for cashing out _**316.0$**_! Keep up the great work!
 
 [](http://sharecash.org/register.php)
