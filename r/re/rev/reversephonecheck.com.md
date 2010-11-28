@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the reversephonecheck.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118070621id_/http%3A//reversephonecheck.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversephonecheck.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128203125id_/http%3A//reversephonecheck.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Reverse Phone Lookup - ReversePhoneCheck
+# Privacy Policy | Reverse Phone Lookup - InfoPay ReversePhoneCheck
 
-This Privacy Policy ("Policy") discloses the practices of ReversePhoneCheck.com concerning personal information we obtain about you. By using any of ReversePhoneCheck.com's websites, or using other services of ReversePhoneCheck.com (collectively the "Services"), you are accepting the practices described in this Policy. 
+This Privacy Policy ("Policy") discloses the practices of InfoPay ReversePhoneCheck.com concerning personal information we obtain about you. By using any of InfoPay ReversePhoneCheck.com's websites, or using other services of InfoPay ReversePhoneCheck.com (collectively the "Services"), you are accepting the practices described in this Policy. 
 
   This Policy notifies you of: (a) what personal information of yours is collected when you access this website and/or use the Services; (b) how the information is collected; (c) how the information is used and shared; (d) our efforts to maintain the security of Sensitive Information; and (e) other details concerning your personal information and our policies.  
 
-  This Policy does not apply to the practices of companies that ReversePhoneCheck.com does not own or control, or to people that we do not employ or manage. Information contained in this Policy may be changed or updated without notice at any time.
+  This Policy does not apply to the practices of companies that InfoPay ReversePhoneCheck.com does not own or control, or to people that we do not employ or manage. Information contained in this Policy may be changed or updated without notice at any time.
 
 ** 1** **.  Information Collection and Use**
 
-Information collected is stored in a single, secure database, accessible only by ReversePhoneCheck.com. ReversePhoneCheck.com collects information from our paying members ("Members") or other persons who use, attempt to use, or access ReversePhoneCheck.com's Services ("Users"): 
+Information collected is stored in a single, secure database, accessible only by InfoPay ReversePhoneCheck.com. InfoPay ReversePhoneCheck.com collects information from our paying members ("Members") or other persons who use, attempt to use, or access InfoPay ReversePhoneCheck.com's Services ("Users"): 
 
 ** 1** **.  Information that may be gathered online**
 
@@ -20,7 +20,7 @@ Information collected is stored in a single, secure database, accessible only by
 
 **2.  Methods we Use for Gathering Information: Usage Tracking.**
 
-      ReversePhoneCheck.com analyzes user traffic patterns throughout its Sites. We do not attempt to identify individual visitors to our web sites, but we may collect data on general types of users based on domain name or browser type. This information is obtained directly from the user's web browser identification information. 
+      InfoPay ReversePhoneCheck.com analyzes user traffic patterns throughout its Sites. We do not attempt to identify individual visitors to our web sites, but we may collect data on general types of users based on domain name or browser type. This information is obtained directly from the user's web browser identification information. 
 
 ** 2** **.  Our Services.**
 
@@ -42,9 +42,9 @@ Information we collect is generally used for the following purposes:
 3. To resolve disputes, troubleshoot problems and enforce our Terms and Conditions of Use. At times, we may look across multiple members or users to identify problems or resolve disputes, and in particular we may examine your information to identify members using multiple Member Ids or aliases.    
  
 
-4. Sharing of Information. Except as otherwise provided herein, the information we collect from you is shared with our marketing partners or other third parties. We may use the personal information that you supply to us and we may work with other third parties to bring selected retail opportunities to you via direct mail, email and telemarketing. ReversePhoneCheck.com may sell or rent aggregated statistical information and user, member or former member specific information, including name, address, telephone number and payment information, to our marketing partners or other third-parties. If you want ReversePhoneCheck.com to stop sharing information it has about you in the future, you may notify us of this fact by contacting ReversePhoneCheck.com's Member Services department at support AT ReversePhoneCheck.com. 
+4. Sharing of Information. Except as otherwise provided herein, the information we collect from you is shared with our marketing partners or other third parties. We may use the personal information that you supply to us and we may work with other third parties to bring selected retail opportunities to you via direct mail, email and telemarketing. InfoPay ReversePhoneCheck.com may sell or rent aggregated statistical information and user, member or former member specific information, including name, address, telephone number and payment information, to our marketing partners or other third-parties. If you want InfoPay ReversePhoneCheck.com to stop sharing information it has about you in the future, you may notify us of this fact by contacting InfoPay ReversePhoneCheck.com's Member Services department at support AT InfoPay ReversePhoneCheck.com. 
 
-We reserve the right to disclose personal information, including Sensitive Information, when we believe that such disclosure is appropriate to comply with the law or a request by a government official, to protect the rights or property of ReversePhoneCheck.com, or to enforce our Terms and Conditions of Use. In the event that ReversePhoneCheck.com or substantially all of its assets are acquired by a third party, member information and Sensitive Information may be some of the transferred assets. 
+We reserve the right to disclose personal information, including Sensitive Information, when we believe that such disclosure is appropriate to comply with the law or a request by a government official, to protect the rights or property of InfoPay ReversePhoneCheck.com, or to enforce our Terms and Conditions of Use. In the event that InfoPay ReversePhoneCheck.com or substantially all of its assets are acquired by a third party, member information and Sensitive Information may be some of the transferred assets. 
 
 ** 5** **.  Agents**
 
@@ -56,15 +56,15 @@ We send all new members a welcoming email or other notification to verify passwo
 
 ** 7** **.  Security**
 
-ReversePhoneCheck.com takes every precaution to protect our users and members' Sensitive Information, both online and offline. Your Sensitive Information is password-protected for your privacy and security.  
+InfoPay ReversePhoneCheck.com takes every precaution to protect our users and members' Sensitive Information, both online and offline. Your Sensitive Information is password-protected for your privacy and security.  
 
-  Sensitive Information is also protected offline in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or member services representative) are granted access to Sensitive Information. Furthermore, all employees are kept up-to-date on our security practices and changes in those practices. Finally, the servers that we store Sensitive Information on are kept in a secure environment. If you have any questions about the security at our website, you can send an email to support AT ReversePhoneCheck.com. 
+  Sensitive Information is also protected offline in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or member services representative) are granted access to Sensitive Information. Furthermore, all employees are kept up-to-date on our security practices and changes in those practices. Finally, the servers that we store Sensitive Information on are kept in a secure environment. If you have any questions about the security at our website, you can send an email to support AT InfoPay ReversePhoneCheck.com. 
 
 Every User who has an account on this Site is responsible for (i) keeping his or her account password confidential and secured, (ii) restricting access to his or her computer; and (iii) keeping the e-mail address associated with that account current.
 
 ** 8** **.  Other Sites**
 
-ReversePhoneCheck.com forwards users and members to other sites. Please be aware that this website and ReversePhoneCheck.com may not be responsible for the business and privacy practices of these other sites. We encourage you to be aware of this when you leave our site and to read the legal notices and privacy policies of each and every website you visit. 
+InfoPay ReversePhoneCheck.com forwards users and members to other sites. Please be aware that this website and InfoPay ReversePhoneCheck.com may not be responsible for the business and privacy practices of these other sites. We encourage you to be aware of this when you leave our site and to read the legal notices and privacy policies of each and every website you visit. 
 
 ** 9** **.  Correction/Updating Personal Information**
 
