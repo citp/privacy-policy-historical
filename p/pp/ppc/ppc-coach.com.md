@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ppc-coach.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612093657id_/http%3A//ppc-coach.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppc-coach.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128140217id_/http%3A//ppc-coach.com/privacy-policy) for the most accurate reproduction.*
 
-# PPC Coach :: #1 Pay Per Click Affiliate Marketing Training Site
+# PPC Coach :: Privacy Policy | PPC Coach :: #1 PPC Affiliate Marketing Training
 
 Privacy of your information
 
@@ -19,25 +19,20 @@ Use of Collected information
 
 The information we collect about you will be recorded electronically and may be used in the following ways:
 
-  * To contact you in connection with your enquiry.  
-
-  * To extract certain information for the purpose of generating statistics for our own internal purposes - it will not however be possible to identify individuals from these statistics.  
-
-  * To update our website to better meet our clients needs in the future.  
+  * To contact you in connection with your enquiry.
+  * To extract certain information for the purpose of generating statistics for our own internal purposes – it will not however be possible to identify individuals from these statistics.
+  * To update our website to better meet our clients needs in the future.
 
 
 
+Sometimes we’ll share your information with carefully selected third parties outside PPC-Coach.com Ltd.
 
-Sometimes we'll share your information with carefully selected third parties outside PPC-Coach.com Ltd.
-
-  * To provide you with information about special promotions and offers. If you have given your consent by choosing not to opt out, we may share some of your information with carefully selected third parties so that they can provide you with information about products and services that may be of interest to you.  
-
-  * To protect PPC-Coach.com Ltd or others. We may share your information with third parties when we believe it is necessary to comply with the law or protect our or another person's rights, property, or safety. This includes exchanging information with third parties to protect against fraud and reduce payment risks.  
+  * To provide you with information about special promotions and offers. If you have given your consent by choosing not to opt out, we may share some of your information with carefully selected third parties so that they can provide you with information about products and services that may be of interest to you.
+  * To protect PPC-Coach.com Ltd or others. We may share your information with third parties when we believe it is necessary to comply with the law or protect our or another person’s rights, property, or safety. This includes exchanging information with third parties to protect against fraud and reduce payment risks.
 
 
 
-
-We will only deal with third parties that we trust to act in our customers' best interests and who treat our customers' information with the same stringent controls that we apply ourselves.
+We will only deal with third parties that we trust to act in our customers’ best interests and who treat our customers’ information with the same stringent controls that we apply ourselves.
 
 Methods of Contact
 
@@ -49,14 +44,10 @@ How long we keep your information for depends on the basis on which it was provi
 
 Generally however:
 
-  * We will keep the information that is necessary to enable us to provide you with a service that you have requested through this website for as long as it takes us to provide that service.  
-
-  * We will keep your contact details for as long as we have your consent to send you marketing information and/or pass your contact details to third parties.  
-
-  * We will keep records of any transactions you enter into on this website for a minimum of six years. This is so that we can respond to any complaints or disputes that arise in that period.  
-
-  * We will keep other information about you if it is necessary for us to do so to comply with the law.  
-
+  * We will keep the information that is necessary to enable us to provide you with a service that you have requested through this website for as long as it takes us to provide that service.
+  * We will keep your contact details for as long as we have your consent to send you marketing information and/or pass your contact details to third parties.
+  * We will keep records of any transactions you enter into on this website for a minimum of six years. This is so that we can respond to any complaints or disputes that arise in that period.
+  * We will keep other information about you if it is necessary for us to do so to comply with the law.
 
 
 
@@ -76,12 +67,9 @@ Appreciating that both privacy and security of your information is of the utmost
 
 We protect your information by:
 
-  * Utilising an encryption and authentication process to protect our online services. This process ensures that information is scrambled before it is transmitted so that it remains private even if it is intercepted.  
-
-  * Ensuring that your information is kept securely in our databases and offices. We only allow our employees and trusted contractors access to your information, and then only if they need it for a specific authorised task. The computers on which we store your information are kept in a secure environment.  
-
-  * Ensuring that we only pass your personal data to third parties where security and confidentiality is assured.  
-
+  * Utilising an encryption and authentication process to protect our online services. This process ensures that information is scrambled before it is transmitted so that it remains private even if it is intercepted.
+  * Ensuring that your information is kept securely in our databases and offices. We only allow our employees and trusted contractors access to your information, and then only if they need it for a specific authorised task. The computers on which we store your information are kept in a secure environment.
+  * Ensuring that we only pass your personal data to third parties where security and confidentiality is assured.
 
 
 
@@ -93,7 +81,7 @@ Cookies
 
 Links to other sites
 
-This website may from time to time include links to other sites. We make every effort to provide links to high quality, reputable sites but we're not responsible for their privacy practices or, site content, or the services they offer.
+This website may from time to time include links to other sites. We make every effort to provide links to high quality, reputable sites but we’re not responsible for their privacy practices or, site content, or the services they offer.
 
 Telephone Calls
 
