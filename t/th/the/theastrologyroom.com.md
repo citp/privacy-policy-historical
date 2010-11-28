@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the theastrologyroom.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129072142id_/http%3A//theastrologyroom.com/the-astrology-room-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theastrologyroom.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128093742id_/http%3A//theastrologyroom.com/the-astrology-room-privacy-policy) for the most accurate reproduction.*
 
 # The Astrology Room Privacy Policy
+
+Effective 5th July 2008
+
+**Privacy Notice Table Of Contents:  
+**
+
+  * **Our Commitment To Privacy**
+  * **The Information We Collect**
+  * **How We Use Information**
+  * **Our Commitment To Data Security**
+  * **Our Commitment To Children's Privacy**
+  * **How To Contact Us**
+
+
 
 **  
 Our Commitment To Privacy**
@@ -10,6 +24,14 @@ Your privacy is important to us. To better protect your privacy we provide this 
 **The Information We Collect:**
 
 This notice applies to all information collected or submitted on The Astrology Room website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit/Debit Card Information
+
+
 
      
 
@@ -36,4 +58,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at theastrologyroom@gmail.com 
+Should you have other questions or concerns about these privacy policies, please send us an email at [theastrologyroom@gmail.com](mailto:theastrologyroom@gmail.com)
