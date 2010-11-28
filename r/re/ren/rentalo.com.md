@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113065210id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128191446id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Rentalo.com
 
@@ -57,6 +57,7 @@ Your Ability to Edit and Delete Your Listing Information
   * You can edit your Rentalo listing Information at any time. 
   * Certain communications from Rentalo, such as service announcements, administrative messages and the Rentalo Newsletter, are considered part of Rentalo membership and you may not opt out of receiving them. 
   * You can delete your Rentalo account by editing your listing information page. 
+  * We conform to CAN-SPAM act regulations. For more information, please check our [compliance statement](http://rentalo.com/docs/rentalo-anti-spam-compliance.html)
 
 
 
