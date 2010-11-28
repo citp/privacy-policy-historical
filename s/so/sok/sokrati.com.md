@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sokrati.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611205222id_/http%3A//sokrati.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokrati.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128125558id_/http%3A//www.sokrati.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Sokrati: Pay for Performance Search Engine Marketing (SEM) Solution
 
 ---  
-|  | [](https://web.archive.org/web/20100611205222id_/http%3A//sokrati.com/index.htm) |  [](https://web.archive.org/web/20100611205222id_/http%3A//sokrati.com/solution.htm) | [](https://web.archive.org/web/20100611205222id_/http%3A//sokrati.com/success_stories.htm) | [](https://web.archive.org/web/20100611205222id_/http%3A//sokrati.com/aboutus.htm) | [](https://web.archive.org/web/20100611205222id_/http%3A//sokrati.com/contactus.htm) |   
+|  | [](https://web.archive.org/web/20101128125558id_/http%3A//www.sokrati.com/index.htm) |  [](https://web.archive.org/web/20101128125558id_/http%3A//www.sokrati.com/solution.htm) | [](https://web.archive.org/web/20101128125558id_/http%3A//www.sokrati.com/success_stories.htm) | [](https://web.archive.org/web/20101128125558id_/http%3A//www.sokrati.com/aboutus.htm) | [](https://web.archive.org/web/20101128125558id_/http%3A//www.sokrati.com/contactus.htm) |   
 ---|---|---|---|---|---|---  
 |  | 
 
