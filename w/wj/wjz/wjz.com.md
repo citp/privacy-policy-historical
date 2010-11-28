@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjz.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032403id_/http%3A//wjz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjz.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128120208id_/http%3A//wjz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - wjz.com
 
