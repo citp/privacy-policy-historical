@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520003222id_/http%3A//www.wwltv.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128222012id_/http%3A//www.wwltv.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # New Orleans News, Local News, Breaking News, Weather | wwltv.com | Privacy Policy
 
