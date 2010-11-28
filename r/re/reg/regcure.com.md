@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regcure.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111031641id_/http%3A//www.regcure.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regcure.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128174832id_/http%3A//regcure.com/policy.aspx) for the most accurate reproduction.*
 
 # RegCure
 
