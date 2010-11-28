@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revsci.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628214539id_/http%3A//revsci.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revsci.net privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128230714id_/http%3A//revsci.net/privacy.asp) for the most accurate reproduction.*
 
 # Online Advertising Network, Audience Targeting Advertising, Advertising Online Services, Online Ad Revenue : AudienceScience
 
@@ -7,8 +7,6 @@ Consumer privacy is very important to AudienceScience. That's why our technology
 AudienceScience belongs to and conforms to the standards of the [Network Advertising Initiative](http://www.networkadvertising.org/), which enables consumers to opt out of having their behavior tracked by our technology.
 
 In the United Kingdom, AudienceScience conforms to the standards of the [IAB UK Good Practice Principles](http://www.youronlinechoices.co.uk/), which enables consumers to opt out of having their behavior tracked by our technology.
-
-To Opt-out of AudienceScience Network™, please **[click here](http://www.networkadvertising.org/managing/opt_out.asp)** **.**
 
 Please feel free to view our Privacy Policy in detail below. If you have questions or concerns regarding our stance on privacy, please e-mail [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
 
@@ -108,7 +106,7 @@ Last Updated: August, 2009
 
 If you have questions or concerns, you should e-mail [privacy@audiencescience.com](mailto:privacy@audiencescience.com).  
 AudienceScience, Inc.  
-1110 112th Ave. NE, Suite 300  
+1120 112th Ave NE, Suite 400   
 Bellevue, WA 98004  
 425.201.3900
 
