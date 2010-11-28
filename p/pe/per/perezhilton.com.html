@@ -1,55 +1,152 @@
-<!--The following is the downloaded HTML source of the perezhilton.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231031945id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perezhilton.com privacy policy that was archived on 2010-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128090004id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="Description" content="Since 2004, Hollywood's most hated website has been delivering the juiciest celebrity gossip. The blog is The go-to source for daily happenings in Hollywood. Written by the internet's most notorious gossip columnist, Perez Hilton (Mario Lavandeira).">
-<meta name="Keywords" content="celebrity gossip, Hollywood gossip, juicy celebrity rumors, Perez Hilton, Mario Lavandeira, celebrity blog">
+<meta name="msvalidate.01" content="80AFD7BE0E93FA70809EAE42A4AED8F4">
+<meta name="google-site-verification" content="qglU8HAcnf57Vs2kL70RP4fzNl6V7Wwhk-5Imy9jeOU">
+
+<meta name="description" content="Since 2004, Hollywood's most sassy website has been delivering the juiciest celebrity gossip. The blog is The go-to source for daily happenings in Hollywood. Written by the internet's most notorious gossip columnist, Perez Hilton (Mario Lavandeira).">
+<meta name="keywords" content="celebrity gossip, Hollywood gossip, juicy celebrity rumors, Perez Hilton, Mario Lavandeira, celebrity blog">
 
 <title>
-Celebrity gossip juicy celebrity rumors Hollywood gossip blog from Perez HiltonPRIVACY NOTICE</title>
+INTERNET PRIVACY NOTICE | PerezHilton.com</title>
 
 <link type="image/x-icon" href="http://img.perezhilton.com/favicon.ico" rel="shortcut icon">
 
 <!-- Geo JS -->
 <script type="text/javascript" language="javascript">var ph_geoc='us';</script>
 <script type="text/javascript" language="javascript" src="http://geo.perezhilton.com/gtjs.php"></script>
-
 <!-- /Geo JS -->
 
-<link rel="stylesheet" href="http://img.perezhilton.com/wp-content/themes/default/style.css?version=3" type="text/css" media="screen">
+<script type="text/javascript" src="http://img.perezhilton.com/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://img.perezhilton.com/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://img.perezhilton.com/js/jquery.base64.js"></script>
+<script type="text/javascript" src="http://img.perezhilton.com/js/jquery.urlEncode.js"></script>
+
+<script type="text/javascript">
+
+//UNITED STATES
+if (ph_geoc == 'us') {
+    var ad_theme = 'no'; //Is it an ad theme? Options: yes, no.
+    var ads_paged = 5; //Main 728x90, 160x600 and 300x250 ads and the takeover ad on these index pages. If on page 1-3, then the answer is 3.
+    var main_728x90_ad_position = 'center'; //Main 728x90 ad's position on ad pages. Options: left, center.
+    var ph_switch_bg = 'no'; //Switch background? Options: yes, no.
+    var ptv_sidebar_position_ad = 'right'; //Perez TV sidebar position on ad pages. Options: left, right.
+    var ptv_sidebar_position_back = 'right'; //Perez TV sidebar position on back pages. Options: left, right.
+}
+
+//AUSTRALIA
+else if (ph_geoc == 'au') {
+    var ad_theme = 'no';
+    var ads_paged = 999999; //Do not modify!
+    var main_728x90_ad_position = 'center';
+    var ph_switch_bg = 'no';
+    var ptv_sidebar_position_ad = 'right';
+    var ptv_sidebar_position_back = 'right';
+}
+
+//CANADA
+else if (ph_geoc == 'ca') {
+    var ad_theme = 'no';
+    var ads_paged = 5;
+    var main_728x90_ad_position = 'center';
+    var ph_switch_bg = 'no';
+    var ptv_sidebar_position_ad = 'right';
+    var ptv_sidebar_position_back = 'right';
+}
+
+//UNITED KINGDOM
+else if (ph_geoc == 'uk') {
+    var ad_theme = 'no';
+    var ads_paged = 999999; //Do not modify!
+    var main_728x90_ad_position = 'center';
+    var ph_switch_bg = 'no';
+    var ptv_sidebar_position_ad = 'right';
+    var ptv_sidebar_position_back = 'right';
+}
+
+//OTHERS
+else {
+    var ad_theme = 'no';
+    var ads_paged = 5;
+    var main_728x90_ad_position = 'center';
+    var ph_switch_bg = 'no';
+    var ptv_sidebar_position_ad = 'right';
+    var ptv_sidebar_position_back = 'right';
+}
+
+//PAGED
+    var paged = 0;
+
+//PAGE TYPE
+var ph_page_type='page';
+
+//AD PAGE
+if (paged <= ads_paged && ph_page_type == 'index' && ad_theme == 'yes') var ph_ad_page = 'yes';
+else var ph_ad_page = 'no';
+
+//BACK AD PAGE
+if (ad_theme == 'yes' && (ph_page_type == 'index' || ph_page_type == 'archive' || ph_page_type == 'tag' || ph_page_type == 'search')) var ph_back_ad_page = 'yes';
+else var ph_back_ad_page = 'no';
+
+//BACK AD COUNTRY
+if (ph_geoc == 'au' || ph_geoc == 'uk') var ph_back_ad_country = 'yes';
+else var ph_back_ad_country = 'no';
+
+//PEREZ TV SIDEBAR POSITION ON AD PAGES
+if (ph_ad_page == 'yes' || (ph_back_ad_page == 'yes' && ph_back_ad_country == 'yes')) var ptv_sidebar_position = ptv_sidebar_position_ad;
+
+//PEREZ TV SIDEBAR POSITION ON BACK PAGES
+else var ptv_sidebar_position = ptv_sidebar_position_back;
+
+//IS IT A DEFINED COUNTRY?
+var ph_defined_countries = new Array("au","ca","uk","us");    
+
+if ($.inArray(ph_geoc, ph_defined_countries) !== -1) ph_defined_country = 'yes';     
+else ph_defined_country = 'no';
+
+//AD SERVING
+var ph_ad_serving = 5;
+var ph_ad_serving_on_friday = 5;
+var ph_sov = Math.floor(100*Math.random()) + 1;
+var ph_date = '2010-11-28';
+var ph_date_number = 20101128040005;
+
+</script>
+<link rel="stylesheet" href="http://img.perezhilton.com/wp-content/themes/default/style.css?version=45" type="text/css" media="screen">
+<link rel="stylesheet" href="http://img.perezhilton.com/wp-content/themes/default/ph-related-stories.css?version=4" type="text/css" media="screen">
 
 <!-- Geotargeted stylesheet overrides -->
 <script type="text/javascript" language="javascript">
-document.write('<link rel="stylesheet" href="http://img.perezhilton.com/wp-content/themes/default/geotarget/style_' + ph_geoc + '.css" type="text/css" media="screen" />');
+document.write("<link rel=\"stylesheet\" href=\"http://img.perezhilton.com/wp-content/themes/default/geotarget/style_" + ph_geoc + ".css\" type=\"text/css\" media=\"screen\" />");
 </script><link rel="stylesheet" href="http://img.perezhilton.com/wp-content/themes/default/geotarget/style_us.css" type="text/css" media="screen">
 <!-- /Geotargeted stylesheet overrides -->
 
+<script type="text/javascript" language="JavaScript">
+    if (ph_switch_bg == 'yes' && (ph_ad_page == 'yes' || (ph_back_ad_page == 'yes' && ph_back_ad_country == 'yes'))) document.write("<scr" + "ipt type=\"text/javascript\" src=\"http://img.perezhilton.com/wp-content/themes/default/geotarget/background_" + ph_geoc + ".js\"></scr" + "ipt>");
 
+    if (ph_ad_page == 'yes' || (ph_back_ad_page == 'yes' && ph_back_ad_country == 'yes')) {
+        document.write("<link rel=\"stylesheet\" href=\"http://img.perezhilton.com/wp-content/themes/default/page1-3.css\" type=\"text/css\" media=\"screen\" />");
+        document.write("<link rel=\"stylesheet\" href=\"http://img.perezhilton.com/wp-content/themes/default/geotarget/page1-3_" + ph_geoc  + ".css?version=4\" type=\"text/css\" media=\"screen\" />");
+    }
+
+    else document.write("<link rel=\"stylesheet\" href=\"http://img.perezhilton.com/wp-content/themes/default/page3plus.css\" type=\"text/css\" media=\"screen\" />");
+</script><link rel="stylesheet" href="http://img.perezhilton.com/wp-content/themes/default/page3plus.css" type="text/css" media="screen">
 
 <link rel="alternate" type="application/rss+xml" title="Celebrity gossip juicy celebrity rumors Hollywood gossip blog from Perez Hilton RSS Feed" href="http://img.perezhilton.com/?feed=rss2">
 <link rel="pingback" href="http://perezhilton.com/xmlrpc.php">
 
-<script type="text/javascript" src="http://img.perezhilton.com/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://img.perezhilton.com/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://img.perezhilton.com/js/jquery.base64.js"></script>
-
 <!-- Posse scripts -->
 <script type="text/javascript" src="http://img.perezhilton.com/misc/posse/assets/posse____.js"></script>
-<script type="text/javascript" src="http://img.perezhilton.com/misc/posse/assets/scripts/comment.js?version=3"></script>
+<script type="text/javascript" src="http://img.perezhilton.com/misc/posse/assets/scripts/comment_with_fb.js?version=7"></script>
 <link rel="stylesheet" href="http://img.perezhilton.com/misc/posse/assets/styles/commentstyle.css" type="text/css" media="screen">                                   
 <!-- /Posse scripts -->
 
 <!-- TV -->
-<script type="text/javascript" src="http://img.perezhilton.com/tv/js/videodata.js.php"></script>
-<script language="javascript">var conf_preroll_video_id = "";</script>
+<script type="text/javascript">var conf_preroll_video_id = "";</script>
+<script type="text/javascript" src="http://img.perezhilton.com/tv/js/video_insertion.js?version="></script>
 <!-- /TV -->
-
-<!-- JS For expanding skins -->
-<script type="text/javascript" language="javascript">
-// document.write('<script type="text/javascript" src="http://img.perezhilton.com/wp-content/themes/default/geotarget/background_' + ph_geoc + '.js"><\/script>');
-</script>
-<!-- / JS For expanding skins -->
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -92,40 +189,96 @@ GA_googleFetchAds();
 </style>
 <!-- End Of Script Generated By WP-Polls 2.13 -->
 
-<script type="text/javascript" src="http://img.perezhilton.com/perezzies/js/swfobject.js"></script>
+<script type="text/javascript" src="http://img.perezhilton.com/js/functions.js?version=9"></script>
+<script type="text/javascript" src="http://img.perezhilton.com/js/swfobject.js?version=2"></script>
 <script type="text/javascript" src="http://img.perezhilton.com/audio_player/stat/stat.js?version=7"></script>
-</head>
+<script type="text/javascript" src="http://img.perezhilton.com/tv/js/pereztv_sidebar.js?version=25"></script>
 
-<body id="the_body">
+<!-- SafeCount -->
+<script type="text/javascript">
+    if (ph_ad_page == 'no') {
+        document.write("<scr" + "ipt src=\"http://content.dl-rms.com/rms/26667/nodetag.js\"><\/scr" + "ipt>");
+    }
+</script><script src="http://content.dl-rms.com/rms/26667/nodetag.js"></script>
+<!-- /SafeCount -->
 
+<!-- SHADOWBOX -->
+<link rel="stylesheet" type="text/css" href="http://img.perezhilton.com/galleries/js/shadowbox/shadowbox.css?version=4">
+<script type="text/javascript" src="http://img.perezhilton.com/galleries/js/shadowbox/shadowbox.js?version=3"></script> 
+<script type="text/javascript">
+Shadowbox.init({
+  language: 'en',
+  players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
+});
+</script>
+<!-- SHADOWBOX -->
+
+<!-- SHARE THIS -->
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:'59b80546-5859-4621-b5d4-8323e9eb5118'});</script>
+<!-- /SHARE THIS -->
 <script language="JavaScript" type="text/javascript">
+if (ph_switch_bg == 'yes' && (ph_ad_page == 'yes' || (ph_back_ad_page == 'yes' && ph_back_ad_country == 'yes'))) {
+    document.write('<body id="the_body" onresize="switch_background();">');
+    switch_background();
+}
+else document.write('<body id="the_body">');
+
 function jump_to_category() {
     var selected_cat_nicename = document.getElementById("starseeker_form").cat.value;
-    document.location = "/category/" + selected_cat_nicename + '/';
+    document.location = "/category/" + selected_cat_nicename + "/";
     return false;
 }
-</script>
+
+</script></head>
+
+<body id="the_body">
 
 
 <!-- Outer div for double background campaigns -->
 <div id="forbg">
 <!-- /Outer div for double background campaigns -->
 
-<div id="header">
+    <div id="header">
+    <!-- Perez Hilton Web Slice -->
+    <div id="slice" class="hslice">
+    <h2 class="entry-title" style="display:none;">Perez Hilton: Blog</h2>
+    <div id="_WebSlice" class="entry-content">
+    <!-- /Perez Hilton Web Slice -->
 
+    <script type="text/javascript" language="JavaScript">
+    if (ph_ad_page == 'yes' || (ph_back_ad_page == 'yes' && ph_back_ad_country == 'yes')) {
+        document.write("<scr" + "ipt type=\"text/javascript\" language=\"javascript\" src=\"http://img.perezhilton.com/wp-content/themes/default/geotarget/masthead_" + ph_geoc  + ".js\"><\/scr" + "ipt>");
+        document.write("<scr" + "ipt type=\"text/javascript\" language=\"javascript\" src=\"http://img.perezhilton.com/wp-content/themes/default/geotarget/blogads_takeover_tracer_" + ph_geoc  + ".js\"><\/scr" + "ipt>");
+    }
 
-        <table width="100%" cellspacing="0" cellpadding="0" background="http://img.perezhilton.com/images/bannerbacker160.jpg" align="center">
-        <tbody><tr>
-        <td width="100%" valign="top" background="http://img.perezhilton.com/images/bannerbacker160.jpg" align="center">
-        <a alt="Welcome to PerezHilton.com -- Celebrity Gossip From the Queen of All Media" href="http://perezhilton.com/">
-        <img alt="celebrity gossip from Perez Hilton" src="http://img.perezhilton.com/images/perezhilton_celebrity-gossip_travolta2.jpg">        </a>
-        </td>
-        </tr>
-        </tbody></table>
+    else {
+        document.write('<table width="100%" cellspacing="0" cellpadding="0" background="http://img.perezhilton.com/images/bannerbacker160.jpg" align="center">');
+        document.write('<tr>');
+        document.write('<td width="100%" valign="top" background="http://img.perezhilton.com/images/bannerbacker160.jpg" align="center">');
+        document.write('<a alt="Welcome to PerezHilton.com -- Celebrity Gossip From the Queen of All Media" href="http://perezhilton.com/">');
 
+        var all_masthead_images = new Array("perezhilton_celebrity-gossip_ballsq2.jpg","perezhilton_celebrity-gossip_pointed2.jpg","perezhilton_celebrity-gossip_travolta2.jpg","perezhilton-preacher2.jpg","perezhilton_celebrity-gossip_blue.jpg","perezhilton_celebrity-gossip_tropical.jpg");
+        var masthead_image = "http://img.perezhilton.com/images/" + all_masthead_images[Math.floor(Math.random()*all_masthead_images.length)];
+        document.write("<img alt=\"celebrity gossip from Perez Hilton\" src=\"" + masthead_image + "\"/>");
 
-<span id="audio_player_counter"></span><span id="video_tracer"></span>
-</div>
+        document.write('</a>');
+        document.write('</td>');
+        document.write('</tr>');
+        document.write('</table>');
+    }
+    </script><table width="100%" cellspacing="0" cellpadding="0" background="http://img.perezhilton.com/images/bannerbacker160.jpg" align="center"><tbody><tr><td width="100%" valign="top" background="http://img.perezhilton.com/images/bannerbacker160.jpg" align="center"><a alt="Welcome to PerezHilton.com -- Celebrity Gossip From the Queen of All Media" href="http://perezhilton.com/"><img alt="celebrity gossip from Perez Hilton" src="http://img.perezhilton.com/images/perezhilton_celebrity-gossip_travolta2.jpg"></a></td></tr></tbody></table>
+
+    <!-- Perez Hilton Web Slice -->
+    <span class="ttl" style="visibility: hidden;">15</span>
+    <a rel="entry-content" href="http://slice.perezhilton.com/"></a>
+    </div>
+    </div>
+    <!-- /Perez Hilton Web Slice -->
+
+    </div>
+
+<div id="audio_player_counter"></div><div id="video_tracer"></div>
 
 <div id="page">
 <hr>
@@ -147,7 +300,7 @@ function jump_to_category() {
                 <div id="left_c_welcome">
                         <img alt="Welcome to PerezHilton.com" src="http://img.perezhilton.com/wp-content/uploads/2008/06/2_welcome.png"><br>
                         <div class="sidebarcopy">
-                                Welcome to PerezHilton.com - Hollywood's Most-Hated Web Site!
+                                Welcome to PerezHilton.com - Hollywood's Most Sassy Website!
                         </div>
                 </div>
                 <div>
@@ -155,8 +308,67 @@ function jump_to_category() {
                         <b>E-mail <a href="mailto:perez@perezhilton.com">Perez@PerezHilton.com</a></b>
                         <br>
                         <br>
-                        <a href="mailto:support@pressflex.hu">Report</a> technical problems.<br>
+                        
+                        <a href="mailto:tech@perezhilton.com">Report</a> technical problems.<br>                                                
 			<span class="sidebarcopy"><a href="http://posse.perezhilton.com/static/faq.html">Perez Posse signup FAQ</a></span><br>
+
+            
+<script type="text/javascript">
+    //HOME BUTTON
+    function perez_home_btn() {
+        var home_btns = new Array(new Array("http://img.perezhilton.com/images/latest_news_btn.png", "186", "86"), new Array("http://img.perezhilton.com/images/home_btn.png", "187", "86"));
+        var rand = Math.floor(Math.random()*2);
+        var home_btn = '';
+
+        if (ph_page_type == 'single') {
+            home_btn = '<a href="http://tracer.perezhilton.com/tracer/click.php?zoneid=button_back_latest_news_on_post_pages&rand=' + Math.floor(Math.random()*999999999) + '&url=http://perezhilton.com"><img src="' + home_btns[0][0] + '" width="' + home_btns[0][1] + '" height="' + home_btns[0][2] + '" align="center" border="0"></a>';
+        }
+
+        else if((ph_page_type !== 'single' && ph_page_type !== 'index') || (ph_page_type == 'index' && paged > 1)) {
+            if (rand == 0) tracer_id = 'button_back_latest_news_on_other_pages';
+            else tracer_id = 'button_back_home_on_other_pages';
+
+            home_btn = '<a href="http://tracer.perezhilton.com/tracer/click.php?zoneid=' + tracer_id + '&rand=' + Math.floor(Math.random()*999999999) + '&url=http://perezhilton.com"><img src="' + home_btns[rand][0] + '" width="' + home_btns[rand][1] + '" height="' + home_btns[rand][2] + '" align="center" border="0"></a>';
+        }
+
+        if (home_btn !== '') document.write('<div class="noipad" style="margin: 10px 0 10px 0;">' + home_btn + '</div>');
+    }
+
+    perez_home_btn();
+    // /HOME BUTTON
+
+    function translate_this_page() {
+        if ($("#to_language").val() !== '') location.href = 'http://www.google.com/translate?u='+encodeURIComponent(location.href)+'&langpair=en%7C' + $("#to_language").val() + '&hl=en&ie=UTF8';
+    }
+
+    function turn_on_translator_box() {
+        $(document).ready(function() {
+            $("#google_translator_loading").hide();
+            $("#google_translator").slideToggle();
+        });
+    }
+
+    swfobject.embedSWF("http://img.perezhilton.com/images/translator/translate-header.swf", "google_translator_header", "197", "55", "9.0.0", false, false, {wmode: "transparent"});
+</script><div class="noipad" style="margin: 10px 0 10px 0;"><a href="http://tracer.perezhilton.com/tracer/click.php?zoneid=button_back_latest_news_on_other_pages&amp;rand=439087526&amp;url=http://perezhilton.com"><img src="http://img.perezhilton.com/images/latest_news_btn.png" width="186" height="86" align="center" border="0"></a></div>
+
+<div id="google_translator" style="margin-bottom: 10px; display: none;">
+    <span id="google_translator_header"><img src="http://img.perezhilton.com/images/translator/translate-header.png" width="197" height="55" border="0"></span>
+
+    <div style="margin-left: 10px;">
+        <select id="to_language" name="to_language" style="width: 180px;" onchange="translate_this_page();">
+            <option value="">...select a language</option>
+            <option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="ar">Arabic</option><option value="be">Belarusian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="gl">Galician</option><option value="de">German</option><option value="el">Greek</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="ko">Korean</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="mk">Macedonian</option><option value="ms">Malay</option><option value="mt">Maltese</option><option value="no">Norwegian</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sr">Serbian</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="es">Spanish</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="yi">Yiddish</option>
+        </select><br>
+        <span style="font-size: 10px;">powered by Google</span>
+    </div>
+</div>
+
+<div id="google_translator_loading" style="margin-bottom: 10px;">
+    <img src="http://img.perezhilton.com/images/translator/translate-header.png" width="197" height="55" border="0">
+    <div style="margin-left: 10px;"><img src="http://img.perezhilton.com/images/loading.gif" border="0"> Loading...</div>
+</div>
+
+<script language="javascript">turn_on_translator_box();</script>
 			
 			<div id="left_skyscraper">
                                                         </div>
@@ -164,14 +376,20 @@ function jump_to_category() {
 			<br>
                         <img alt="Contact us to advertise on PerezHilton.com" src="http://img.perezhilton.com/wp-content/uploads/2008/06/2_advertise.png">
                         <br>
-                        <a href="http://tracer.perezhilton.com/tracer/click.php?zoneid=advertising_button_on_ph_com_in_the_left_column&amp;rand=3974780&amp;url=http://perezhilton.com/mediakit/US/index.html" target="_blank"><img src="http://img.perezhilton.com/images/premium.png"></a>
+                        <a href="http://tracer.perezhilton.com/tracer/click.php?zoneid=advertising_button_on_ph_com_in_the_left_column&amp;rand=1709970&amp;url=http://perezhilton.com/mediakit/US/index.html" target="_blank"><img src="http://img.perezhilton.com/images/premium.png"></a>
                         <br>
                         <br>
                         <br>
                         <img alt="Wear it, share it, give it, get it! Represent!" src="http://img.perezhilton.com/wp-content/uploads/2008/06/represent.png">
                         <br>
-                        <a target="blank" href="http://www.merchdirect.net/perezhilton"></a>
-                        <a target="blank" href="http://www.merchdirect.net/perezhilton"><img src="http://img.perezhilton.com/images/perezcious-collection.png"></a>
+
+                <a target="_blank" href="http://www.merchdirect.net/perezhilton">
+    <script type="text/javascript" language="javascript">
+        var perezcious_img = 'http://img.perezhilton.com/images/perezcious-collection-' + Math.floor(Math.random()*6) + '.png';
+        document.write("<img height=\"221\" width=\"180\" src=\"" + perezcious_img + "\"/>");
+    </script><img height="221" width="180" src="http://img.perezhilton.com/images/perezcious-collection-2.png">
+    <noscript><img src="http://img.perezhilton.com/images/perezcious-collection-0.png"/></noscript>
+</a>
                         <br>
 
                         <div id="category_dropdown">
@@ -183,6 +401,8 @@ function jump_to_category() {
 	<option value="50-cent">50 Cent</option>
 	<option value="90210">90210</option>
 	<option value="aaron-carter">Aaron Carter</option>
+	<option value="adam-brody">Adam Brody</option>
+	<option value="adam-lambert">Adam Lambert</option>
 	<option value="adam-levine">Adam Levine</option>
 	<option value="adam-sandler">Adam Sandler</option>
 	<option value="adam-tensta">Adam Tensta</option>
@@ -193,6 +413,7 @@ function jump_to_category() {
 	<option value="adriana-lima">Adriana Lima</option>
 	<option value="adrianne-curry">Adrianne Curry</option>
 	<option value="advertisement">Advertisement</option>
+	<option value="agnes">Agnes</option>
 	<option value="agyness-deyn">Agyness Deyn</option>
 	<option value="akon">Akon</option>
 	<option value="al-gore">Al Gore</option>
@@ -200,6 +421,7 @@ function jump_to_category() {
 	<option value="alec-baldwin">Alec Baldwin</option>
 	<option value="alex-rodriguez">Alex Rodriguez</option>
 	<option value="alexa-ray-joel">Alexa Ray Joel</option>
+	<option value="alexander-skarsgard">Alexander Skarsgård</option>
 	<option value="aliana-lohan">Aliana Lohan</option>
 	<option value="alicia-keys">Alicia Keys</option>
 	<option value="alicia-silverstone">Alicia Silverstone</option>
@@ -208,8 +430,11 @@ function jump_to_category() {
 	<option value="alphabeat">Alphabeat</option>
 	<option value="amanda-bynes">Amanda Bynes</option>
 	<option value="amanda-lepore">Amanda Lepore</option>
+	<option value="amber-rose">Amber Rose</option>
 	<option value="america-ferrera">America Ferrera</option>
 	<option value="american-idol">American Idol</option>
+	<option value="amy-adams">Amy Adams</option>
+	<option value="amy-poehler">Amy Poehler</option>
 	<option value="amy-sedaris">Amy Sedaris</option>
 	<option value="amy-winehoue">Amy Winehouse</option>
 	<option value="anderson-cooper">Anderson Cooper</option>
@@ -218,9 +443,13 @@ function jump_to_category() {
 	<option value="andy-roddick">Andy Roddick</option>
 	<option value="angelina-jolie">Angelina Jolie</option>
 	<option value="anglophilia">Anglophilia</option>
+	<option value="angus-and-julia-stone">Angus and Julia Stone</option>
 	<option value="ann-coulter">Ann Coulter</option>
+	<option value="anna-farris">Anna Farris</option>
 	<option value="anna-nicole-smith">Anna Nicole Smith</option>
+	<option value="anna-paquin">Anna Paquin</option>
 	<option value="anna-wintour">Anna Wintour</option>
+	<option value="annalynne-mccord">AnnaLynne McCord</option>
 	<option value="anne-hathaway">Anne Hathaway</option>
 	<option value="anne-heche">Anne Heche</option>
 	<option value="anouk">Anouk</option>
@@ -229,12 +458,14 @@ function jump_to_category() {
 	<option value="ashlee-simpson">Ashlee Simpson</option>
 	<option value="ashley-tisdale">Ashley Tisdale</option>
 	<option value="ashton-kutcher">Ashton Kutcher</option>
+	<option value="assisted-living">Assisted Living</option>
 	<option value="aubrey-oday">Aubrey O'Day</option>
 	<option value="audrina-patridge">Audrina Patridge</option>
 	<option value="australiastic">Australiastic</option>
 	<option value="avril-lavigne">Avril Lavigne</option>
 	<option value="awardz">Awardz</option>
 	<option value="azis">Azis</option>
+	<option value="bob">B.O.B.</option>
 	<option value="baby-blabber">Baby Blabber</option>
 	<option value="bai-ling">Bai Ling</option>
 	<option value="balthazar-getty">Balthazar Getty</option>
@@ -243,6 +474,7 @@ function jump_to_category() {
 	<option value="barbara-walters">Barbara Walters</option>
 	<option value="barbra-streisand">Barbra Streisand</option>
 	<option value="barron-hilton">Barron Hilton</option>
+	<option value="barry-manilow">Barry Manilow</option>
 	<option value="bearforce1">Bearforce1</option>
 	<option value="beauty-buzz">Beauty Buzz</option>
 	<option value="bee-schaffer">Bee Shaffer</option>
@@ -252,29 +484,38 @@ function jump_to_category() {
 	<option value="ben-stiller">Ben Stiller</option>
 	<option value="benji-madden">Benji Madden</option>
 	<option value="beth-ditto">Beth Ditto</option>
+	<option value="bethenny-frankel">Bethenny Frankel</option>
 	<option value="bette-midler">Bette Midler</option>
 	<option value="betty-white">Betty White</option>
 	<option value="beyonce">Beyonce</option>
 	<option value="big-gay-al">Big Gay Al</option>
 	<option value="bill-clinton">Bill Clinton</option>
 	<option value="bill-oreilly">Bill O'Reilly</option>
+	<option value="billy-ray-cyrus">Billy Ray Cyrus</option>
 	<option value="bjork">Bjork</option>
 	<option value="blake-lewis">Blake Lewis</option>
 	<option value="blake-lively">Blake Lively</option>
+	<option value="bob-saget">Bob Saget</option>
 	<option value="bobby-brown">Bobby Brown</option>
 	<option value="bono">Bono</option>
 	<option value="boy-george">Boy George</option>
 	<option value="brad-pitt">Brad Pitt</option>
+	<option value="bradley-cooper">Bradley Cooper</option>
 	<option value="brandon-davis">Brandon Davis</option>
 	<option value="brandon-flowers">Brandon Flowers</option>
+	<option value="brandy">Brandy</option>
 	<option value="brendan-fraser">Brendan Fraser</option>
+	<option value="bret-michaels">Bret Michaels</option>
+	<option value="bristol-palin">Bristol Palin</option>
 	<option value="britney-spears">Britney Spears</option>
 	<option value="brittany-murphy">Brittany Murphy</option>
 	<option value="broadway-babies">Broadway Babies</option>
 	<option value="brody-jenner">Brody Jenner</option>
 	<option value="brooke-hogan">Brooke Hogan</option>
 	<option value="brooke-shields">Brooke Shields</option>
+	<option value="bruce-springsteen">Bruce Springsteen</option>
 	<option value="bruce-willis">Bruce Willis</option>
+	<option value="bruno-mars">Bruno Mars</option>
 	<option value="business-blitz">Business Blitz</option>
 	<option value="busted">Busted!</option>
 	<option value="cameron-diaz">Cameron Diaz</option>
@@ -282,29 +523,40 @@ function jump_to_category() {
 	<option value="candis-cayne">Candis Cayne</option>
 	<option value="candy-spelling">Candy Spelling</option>
 	<option value="caption-me">Caption Me</option>
+	<option value="carey-mulligan">Carey Mulligan</option>
 	<option value="carmen-electra">Carmen Electra</option>
+	<option value="caro-emerald">Caro Emerald</option>
+	<option value="caroline-kennedy">Caroline Kennedy</option>
 	<option value="carrie-underwood">Carrie Underwood</option>
+	<option value="carrot-top">Carrot Top</option>
 	<option value="cate-blanchett">Cate Blanchett</option>
 	<option value="catherine-zeta-jones">Catherine Zeta Jones</option>
 	<option value="cazwell">Cazwell</option>
+	<option value="cee-lo-green">Cee-Lo Green</option>
 	<option value="celebrity-feuds">Celebrity Feuds</option>
+	<option value="celebrity-spin">Celebrity Spin</option>
 	<option value="celine-dion">Celine Dion</option>
 	<option value="chace-crawford">Chace Crawford</option>
 	<option value="chanelle-hayes">Chanelle Hayes</option>
 	<option value="channing-tatum">Channing Tatum</option>
 	<option value="chantelle">Chantelle</option>
+	<option value="charice">Charice</option>
 	<option value="charlie-sheen">Charlie Sheen</option>
 	<option value="charlize-theron">Charlize Theron</option>
 	<option value="charlotte-church">Charlotte Church</option>
 	<option value="chatting-with">Chatting With…</option>
+	<option value="chelsea-handler">Chelsea Handler</option>
 	<option value="cher">Cher</option>
+	<option value="cher-lloyd">Cher Lloyd</option>
 	<option value="cheryl-cole">Cheryl Cole</option>
 	<option value="chester-french">Chester French</option>
 	<option value="cheyenne-jackson">Cheyenne Jackson</option>
 	<option value="chloe-sevigny">Chloe Sevigny</option>
 	<option value="chris-benoit">Chris Benoit</option>
 	<option value="chris-brown">Chris Brown</option>
+	<option value="chris-colfer">Chris Colfer</option>
 	<option value="chris-daughtry">Chris Daughtry</option>
+	<option value="chris-pine">Chris Pine</option>
 	<option value="chris-rock">Chris Rock</option>
 	<option value="christian-bale">Christian Bale</option>
 	<option value="christian-siriano">Christian Siriano</option>
@@ -312,9 +564,12 @@ function jump_to_category() {
 	<option value="christie-brinkley">Christie Brinkley</option>
 	<option value="christina-aguilera">Christina Aguilera</option>
 	<option value="christina-applegate">Christina Applegate</option>
+	<option value="christina-milian">Christina Milian</option>
 	<option value="christina-ricci">Christina Ricci</option>
+	<option value="christophe-willem">Christophe Willem</option>
 	<option value="chromeo">Chromeo</option>
 	<option value="chyna">Chyna</option>
+	<option value="ciara">Ciara</option>
 	<option value="cindy-crawford">Cindy Crawford</option>
 	<option value="cindy-mccain">Cindy McCain</option>
 	<option value="cisco-adler">Cisco Adler</option>
@@ -322,86 +577,117 @@ function jump_to_category() {
 	<option value="claire-danes">Claire Danes</option>
 	<option value="clay-aiken">Clay Aiken</option>
 	<option value="coco">Coco</option>
+	<option value="cody-simpson">Cody Simpson</option>
 	<option value="coldplay">Coldplay</option>
 	<option value="colin-farrell">Colin Farrell</option>
+	<option value="colin-hanks">Colin Hanks</option>
 	<option value="colin-munroe">Colin Munroe</option>
 	<option value="conan-obrien">Conan O'Brien</option>
 	<option value="conspiracy-corner">Conspiracy Corner</option>
 	<option value="corey-feldman">Corey Feldman</option>
+	<option value="cory-monteith">Cory Monteith</option>
 	<option value="courteney-cox">Courteney Cox</option>
 	<option value="courtney-love">Courtney Love</option>
+	<option value="craig-ferguson">Craig Ferguson</option>
 	<option value="criss-angel">Criss Angel</option>
 	<option value="cristiano-ronaldo">Cristiano Ronaldo</option>
 	<option value="cruz-beckham">Cruz Beckham</option>
 	<option value="cubismo">Cubismo</option>
+	<option value="cyndi-lauper">Cyndi Lauper</option>
 	<option value="cynthia-nixon">Cynthia Nixon</option>
+	<option value="daddy-yankee">Daddy Yankee</option>
 	<option value="daily-hotness">Daily Hotness</option>
 	<option value="dakota-fanning">Dakota Fanning</option>
 	<option value="dane-cook">Dane Cook</option>
+	<option value="daniel-craig">Daniel Craig</option>
 	<option value="daniel-johns">Daniel Johns</option>
 	<option value="daniel-radcliffe">Daniel Radcliffe</option>
+	<option value="danielle-staub">Danielle Staub</option>
 	<option value="dannii-minogue">Dannii Minogue</option>
 	<option value="danny-bonaduce">Danny Bonaduce</option>
 	<option value="danny-noriega">Danny Noriega</option>
+	<option value="darrelle-london">Darrelle London</option>
+	<option value="das-racist">Das Racist</option>
 	<option value="dave-grohl">Dave Grohl</option>
 	<option value="dave-navarro">Dave Navarro</option>
 	<option value="david-archuleta">David Archuleta</option>
+	<option value="david-arquette">David Arquette</option>
 	<option value="david-beckham">David Beckham</option>
 	<option value="david-blaine">David Blaine</option>
+	<option value="david-cook">David Cook</option>
 	<option value="david-duchovny">David Duchovny</option>
 	<option value="david-gest">David Gest</option>
 	<option value="david-letterman">David Letterman</option>
 	<option value="david-spade">David Spade</option>
+	<option value="debra-messing">Debra Messing</option>
 	<option value="delta-goodrem">Delta Goodrem</option>
 	<option value="demi-lovato">Demi Lovato</option>
 	<option value="demi-moore">Demi Moore</option>
 	<option value="denise-richards">Denise Richards</option>
+	<option value="denzel-washingto">Denzel Washington</option>
+	<option value="dev">Dev</option>
+	<option value="diablo-cody">Diablo Cody</option>
+	<option value="diana-vickers">Diana Vickers</option>
 	<option value="dicktionary">Dicktionary</option>
 	<option value="diddy">Diddy</option>
 	<option value="dina-lohan">Dina Lohan</option>
 	<option value="disney">Disney</option>
 	<option value="dita-von-teese">Dita Von Teese</option>
+	<option value="dixie-chicks">Dixie Chicks</option>
 	<option value="dj-am">DJ A.M.</option>
 	<option value="dmx">DMX</option>
 	<option value="dog-the-bounty-hunter">Dog The Bounty Hunter</option>
 	<option value="dolly-parton">Dolly Parton</option>
+	<option value="dominic-cooper">Dominic Cooper</option>
 	<option value="donald-trump">Donald Trump</option>
 	<option value="donatella-versace">Donatella Versace</option>
+	<option value="donna-summer">Donna Summer</option>
 	<option value="dr-drew">Dr. Drew</option>
 	<option value="dr-phil">Dr. Phil</option>
 	<option value="dragonette">Dragonette</option>
+	<option value="drake">Drake</option>
 	<option value="drake-bell">Drake Bell</option>
 	<option value="drew-barrymore">Drew Barrymore</option>
 	<option value="drugs">Drugs</option>
+	<option value="duffy">Duffy</option>
+	<option value="dustin-lance-black">Dustin Lance Black</option>
 	<option value="ed-mcmahon">Ed McMahon</option>
 	<option value="ed-norton">Ed Norton</option>
 	<option value="ed-westwick">Ed Westwick</option>
 	<option value="eddie-murphy">Eddie Murphy</option>
 	<option value="elijah-wood">Elijah Wood</option>
+	<option value="elizabeth-hasselbeck">Elisabeth Hasselbeck</option>
+	<option value="eliza-dushku">Eliza Dushku</option>
 	<option value="elizabeth-taylor">Elizabeth Taylor</option>
-	<option value="elizabitch-hasselbeck">Elizabitch Hasselbeck</option>
 	<option value="ellen-degeneres">Ellen DeGeneres</option>
 	<option value="ellen-page">Ellen Page</option>
 	<option value="ellen-pompeo">Ellen Pompeo</option>
 	<option value="elliot-mintz">Elliot Mintz</option>
 	<option value="elton-john">Elton John</option>
 	<option value="email-of-the-day">Email Of The Day</option>
+	<option value="emile-hirsch">Emile Hirsch</option>
 	<option value="emily-blunt">Emily Blunt</option>
 	<option value="eminem">Eminem</option>
 	<option value="emma-bunton">Emma Bunton</option>
+	<option value="emma-roberts">Emma Roberts</option>
 	<option value="emma-watson">Emma Watson</option>
 	<option value="emmy-rossum">Emmy Rossum</option>
+	<option value="empire-of-the-sun">Empire Of The Sun</option>
 	<option value="enrique-iglesias">Enrique Iglesias</option>
 	<option value="eric-dane">Eric Dane</option>
 	<option value="eric-hutchinson">Eric Hutchinson</option>
+	<option value="espen-lind">Espen Lind</option>
+	<option value="estelle">Estelle</option>
 	<option value="etc">Etc.</option>
 	<option value="eva-longoria">Eva Longoria</option>
 	<option value="eva-mendes">Eva Mendes</option>
-	<option value="evan-rachel-whore">Evan Rachel Whore</option>
+	<option value="evan-rachel-wood">Evan Rachel Wood</option>
 	<option value="eve">Eve</option>
+	<option value="events">Events</option>
 	<option value="ewan-mcgregor">Ewan McGregor</option>
 	<option value="exclusives">Exclusives!</option>
 	<option value="faith-hill">Faith Hill</option>
+	<option value="fan-death">Fan Death</option>
 	<option value="fantasia">Fantasia</option>
 	<option value="farrah-fawcett">Farrah Fawcett</option>
 	<option value="fashion-smashion">Fashion Smashion</option>
@@ -409,28 +695,42 @@ function jump_to_category() {
 	<option value="fergie">Fergie</option>
 	<option value="fill-in-the-blank">Fill In The Blank</option>
 	<option value="film-flickers">Film Flickers</option>
+	<option value="florence-and-the-machine">Florence and The Machine</option>
+	<option value="foals">Foals</option>
 	<option value="foxy-brown">Foxy Brown</option>
 	<option value="fran-drescher">Fran Drescher</option>
 	<option value="frances-bean-cobain">Frances Bean Cobain</option>
 	<option value="francophilia">Francophilia</option>
 	<option value="frankie-muniz">Frankie Muniz</option>
+	<option value="frankmusik">FrankMusik</option>
+	<option value="freddie-stroma">Freddie Stroma</option>
 	<option value="gary-busey">Gary Busey</option>
 	<option value="gary-dourdan">Gary Dourdan</option>
+	<option value="gavin-creel">Gavin Creel</option>
+	<option value="gavin-rossdale">Gavin Rossdale</option>
 	<option value="gay-gay-gay">Gay Gay Gay</option>
 	<option value="george-clooney">George Clooney</option>
 	<option value="george-michael">George Michael</option>
 	<option value="gerard-butler">Gerard Butler</option>
+	<option value="gerard-way">Gerard Way</option>
 	<option value="geri-halliwell">Geri Halliwell</option>
 	<option value="girls-aloud">Girls Aloud</option>
 	<option value="gisele-bundchen">Gisele Bundchen</option>
+	<option value="glee">Glee</option>
 	<option value="gloria-estefan">Gloria Estefan</option>
+	<option value="goldfrapp">Goldfrapp</option>
 	<option value="goldie-hawn">Goldie Hawn</option>
+	<option value="gordon-ramsay">Gordon Ramsay</option>
+	<option value="goss-n-sass">Goss 'n' Sass</option>
 	<option value="gossip-girl">Gossip Girl</option>
+	<option value="green-day">Green Day</option>
+	<option value="greyson-chance">Greyson Chance</option>
 	<option value="guess-the-celebrity">Guess The Celebrity</option>
 	<option value="guy-ritchie">Guy Ritchie</option>
 	<option value="gwen-stefani">Gwen Stefani</option>
 	<option value="gwyneth-paltrow">Gwyneth Paltrow</option>
 	<option value="halle-berry">Halle Berry</option>
+	<option value="halloween">Halloween</option>
 	<option value="hania-barton">Hania Barton</option>
 	<option value="harrison-ford">Harrison Ford</option>
 	<option value="harry-potter">Harry Potter</option>
@@ -441,24 +741,34 @@ function jump_to_category() {
 	<option value="heath-ledger">Heath Ledger</option>
 	<option value="heather-locklear">Heather Locklear</option>
 	<option value="heather-mills">Heather Mills</option>
+	<option value="heather-morris">Heather Morris</option>
 	<option value="heidi-klum">Heidi Klum</option>
 	<option value="heidi-montag">Heidi Montag</option>
+	<option value="helen-mirren">Helen Mirren</option>
 	<option value="hilary-duff">Hilary Duff</option>
 	<option value="hilary-swank">Hilary Swank</option>
 	<option value="hilary-clnton">Hillary Clinton</option>
 	<option value="holly-madison">Holly Madison</option>
+	<option value="hoosiers">Hoosiers</option>
+	<option value="hope">Hope</option>
 	<option value="hot-mess">Hot Mess</option>
 	<option value="how-do-we-say-this-delicately">How Do We Say This Delicately???</option>
 	<option value="howard-stern">Howard Stern</option>
+	<option value="howie-mandel">Howie Mandel</option>
 	<option value="hugh-grant">Hugh Grant</option>
 	<option value="hugh-jackman">Hugh Jackman</option>
 	<option value="hugo-chavez">Hugo Chavez</option>
 	<option value="hulk-hogan">Hulk Hogan</option>
+	<option value="hunter-parrish">Hunter Parrish</option>
 	<option value="ian-somerhalder">Ian Somerhalder</option>
 	<option value="icky-icky-poo">Icky Icky Poo</option>
+	<option value="ida-maria">Ida Maria</option>
 	<option value="if-you-are-easily-offended">If You Are Easily Offended…..</option>
+	<option value="ilse-delange">Ilse DeLange</option>
+	<option value="imogen-heap">Imogen Heap</option>
 	<option value="inspiration">Inspiration</option>
 	<option value="isaiah-washington">Isaiah Washington</option>
+	<option value="j-brazil">J. Brazil</option>
 	<option value="jc-chasez">J.C. Chasez</option>
 	<option value="jack-black">Jack Black</option>
 	<option value="jack-nicholson">Jack Nicholson</option>
@@ -472,14 +782,18 @@ function jump_to_category() {
 	<option value="james-blunt">James Blunt</option>
 	<option value="james-franco">James Franco</option>
 	<option value="james-mcavoy">James McAvoy</option>
+	<option value="jamie-campbell-bower">Jamie Campbell-Bower</option>
 	<option value="jamie-foxx">Jamie Foxx</option>
 	<option value="jamie-lynn-spears">Jamie Lynn Spears</option>
 	<option value="jamie-spears">Jamie Spears</option>
 	<option value="jan-adams">Jan Adams</option>
+	<option value="jane-lynch">Jane Lynch</option>
+	<option value="janelle-monae">Janelle Monae</option>
 	<option value="janet-jackson">Janet Jackson</option>
 	<option value="janice-dickinson">Janice Dickinson</option>
 	<option value="jared-leto">Jared Leto</option>
 	<option value="jason-bateman">Jason Bateman</option>
+	<option value="jason-damato">Jason Damato</option>
 	<option value="jason-davis">Jason Davis</option>
 	<option value="jason-mraz">Jason Mraz</option>
 	<option value="jason-schwartzman">Jason Schwartzman</option>
@@ -496,8 +810,11 @@ function jump_to_category() {
 	<option value="jennifer-love-hewitt">Jennifer Love Hewitt</option>
 	<option value="jenny-mccarthy">Jenny McCarthy</option>
 	<option value="jenny-owen-youngs">Jenny Owen Youngs</option>
+	<option value="jeppe">Jeppe</option>
 	<option value="jeremy-piven">Jeremy Piven</option>
+	<option value="jerry-oconnell">Jerry O'Connell</option>
 	<option value="jerry-seinfeld">Jerry Seinfeld</option>
+	<option value="jesse-james">Jesse James</option>
 	<option value="jesse-mccartney">Jesse McCartney</option>
 	<option value="jesse-metcalfe">Jesse Metcalfe</option>
 	<option value="jesse-spencer">Jesse Spencer</option>
@@ -505,17 +822,21 @@ function jump_to_category() {
 	<option value="jessica-biel">Jessica Biel</option>
 	<option value="jessica-sierra">Jessica Sierra</option>
 	<option value="jessica-simpson">Jessica Simpson</option>
+	<option value="jessie-james">Jessie James</option>
 	<option value="jewel">Jewel</option>
 	<option value="jill-scott">Jill Scott</option>
 	<option value="jim-carrey">Jim Carrey</option>
 	<option value="jimmy-fallon">Jimmy Fallon</option>
 	<option value="jimmy-kimmel">Jimmy Kimmel</option>
+	<option value="jls">JLS</option>
 	<option value="joan-rivers">Joan Rivers</option>
 	<option value="joaquin-phoenix">Joaquin Phoenix</option>
 	<option value="jodie-foster">Jodie Foster</option>
 	<option value="jodie-marsh">Jodie Marsh</option>
 	<option value="joe-francis">Joe Francis</option>
+	<option value="joe-mcelderry">Joe McElderry</option>
 	<option value="joel-madden">Joel Madden</option>
+	<option value="joey-montana">Joey Montana</option>
 	<option value="john-cusack">John Cusack</option>
 	<option value="john-edwards">John Edwards</option>
 	<option value="john-krasinski">John Krasinski</option>
@@ -524,8 +845,11 @@ function jump_to_category() {
 	<option value="john-mellencamp">John Mellencamp</option>
 	<option value="john-stamos">John Stamos</option>
 	<option value="john-travolta">John Travolta</option>
+	<option value="john-waters">John Waters</option>
 	<option value="johnny-depp">Johnny Depp</option>
 	<option value="johnny-knoxville">Johnny Knoxville</option>
+	<option value="johnny-weir">Johnny Weir</option>
+	<option value="jon-hamm">Jon Hamm</option>
 	<option value="jon-stewart">Jon Stewart</option>
 	<option value="jonah-hill">Jonah Hill</option>
 	<option value="jonas-brothers">Jonas Brothers</option>
@@ -535,19 +859,29 @@ function jump_to_category() {
 	<option value="josh-duhamel">Josh Duhamel</option>
 	<option value="josh-groban">Josh Groban</option>
 	<option value="josh-hartnett">Josh Hartnett</option>
+	<option value="joshua-jackson">Joshua Jackson</option>
 	<option value="joss-stone">Joss Stone</option>
 	<option value="juanes">Juanes</option>
 	<option value="jude-law">Jude Law</option>
 	<option value="julia-roberts">Julia Roberts</option>
+	<option value="julian-perretta">Julian Perretta</option>
 	<option value="julianne-moore">Julianne Moore</option>
 	<option value="julien-dore">Julien Doré</option>
+	<option value="julieta-venegas">Julieta Venegas</option>
 	<option value="juliette-lewis">Juliette Lewis</option>
+	<option value="justin-bieber">Justin Bieber</option>
 	<option value="justin-chambers">Justin Chambers</option>
+	<option value="justin-gaston">Justin Gaston</option>
 	<option value="justin-long">Justin Long</option>
 	<option value="justin-timberlake">Justin Timberlake</option>
 	<option value="juvenile">Juvenile</option>
+	<option value="jwoww">Jwoww</option>
+	<option value="k-pop">K-Pop</option>
 	<option value="kanye-west">Kanye West</option>
+	<option value="kara-dioguardi">Kara DioGuardi</option>
 	<option value="karl-lagerfeld">Karl Lagerfeld</option>
+	<option value="kat-graham">Kat Graham</option>
+	<option value="kat-von-d">Kat Von D</option>
 	<option value="kate-beckinsale">Kate Beckinsale</option>
 	<option value="kate-bosworth">Kate Bosworth</option>
 	<option value="kate-hudson">Kate Hudson</option>
@@ -560,52 +894,75 @@ function jump_to_category() {
 	<option value="kathy-griffin">Kathy Griffin</option>
 	<option value="katie-couric">Katie Couric</option>
 	<option value="katie-holmes">Katie Holmes</option>
+	<option value="katie12231">katie12231</option>
 	<option value="katy-perry">Katy Perry</option>
 	<option value="keanu-reeves">Keanu Reeves</option>
 	<option value="keira-knightley">Keira Knightley</option>
+	<option value="keith-richards">Keith Richards</option>
 	<option value="keith-urban">Keith Urban</option>
 	<option value="kelis">Kelis</option>
+	<option value="kellan-lutz">Kellan Lutz</option>
 	<option value="kellie-pickler">Kellie Pickler</option>
 	<option value="kelly-clarkson">Kelly Clarkson</option>
 	<option value="kelly-osbourne">Kelly Osbourne</option>
 	<option value="kelly-ripa">Kelly Ripa</option>
+	<option value="kelly-rowland">Kelly Rowland</option>
 	<option value="kendra-wilkinson">Kendra Wilkinson</option>
 	<option value="kenny-chesney">Kenny Chesney</option>
+	<option value="keri-hilson">Keri Hilson</option>
 	<option value="kerry-katona">Kerry Katona</option>
+	<option value="kesha">Kesha</option>
 	<option value="kevin-federline">Kevin Federline</option>
 	<option value="kevin-spacey">Kevin Spacey</option>
 	<option value="kevin-zegers">Kevin Zegers</option>
 	<option value="keyshia-cole">Keyshia Cole</option>
 	<option value="khloe-kardashian">Khloe Kardashian</option>
 	<option value="kid-rock">Kid Rock</option>
+	<option value="kid-sister">Kid Sister</option>
 	<option value="kiefer-sutherland">Kiefer Sutherland</option>
 	<option value="kim-cattrall">Kim Cattrall</option>
 	<option value="kim-kardashian">Kim Kardashian</option>
+	<option value="kim-zolciak">Kim Zolciak</option>
 	<option value="kimberly-stewart">Kimberly Stewart</option>
 	<option value="kimora-lee-simmons">Kimora Lee Simmons</option>
+	<option value="kings-of-leon">Kings Of Leon</option>
 	<option value="kirsten-dunst">Kirsten Dunst</option>
 	<option value="kirstie-alley">Kirstie Alley</option>
 	<option value="knifestyles">Knifestyles</option>
+	<option value="kourtney-kardashian">Kourtney Kardashian</option>
+	<option value="kraak-smaak">Kraak &amp; Smaak</option>
 	<option value="kristen-bell">Kristen Bell</option>
+	<option value="kristin-stewart">Kristen Stewart</option>
+	<option value="kristin-cavallari">Kristin Cavallari</option>
 	<option value="kristin-chenoweth">Kristin Chenoweth</option>
 	<option value="kristin-davis">Kristin Davis</option>
+	<option value="kurt-nilsen">Kurt Nilsen</option>
 	<option value="kylie-minogue">Kylie Minogue</option>
-	<option value="lady-gaga">Lady Gaga</option>
+	<option value="la-coacha">La Coacha</option>
+	<option value="la-roux">La Roux</option>
+	<option value="lady-gaga">Lady GaGa</option>
+	<option value="lady-sovereign">Lady Sovereign</option>
+	<option value="ladyhawke">Ladyhawke</option>
 	<option value="lance-armstrong">Lance Armstrong</option>
 	<option value="lance-bass">Lance Bass</option>
 	<option value="lara-flynn-boyle">Lara Flynn Boyle</option>
 	<option value="larry-birkhead">Larry Birkhead</option>
 	<option value="larry-king">Larry King</option>
 	<option value="latinolicious">Latinolicious</option>
+	<option value="laura-bell-bundy">Laura Bell Bundy</option>
+	<option value="laura-marling">Laura Marling</option>
 	<option value="lauren-conrad">Lauren Conrad</option>
 	<option value="lauryn-hill">Lauryn Hill</option>
+	<option value="lea-michele">Lea Michele</option>
 	<option value="leann-rimes">Leann Rimes</option>
 	<option value="legal-matters">Legal Matters</option>
 	<option value="leighton-meester">Leighton Meester</option>
+	<option value="lenka">Lenka</option>
 	<option value="lenny-kravitz">Lenny Kravitz</option>
 	<option value="leona-lewis">Leona Lewis</option>
 	<option value="leonardo-dicaprio">Leonardo DiCaprio</option>
 	<option value="leslie-panettiere">Leslie Panettiere</option>
+	<option value="levi-johnston">Levi Johnston</option>
 	<option value="liev-schreiber">Liev Schreiber</option>
 	<option value="lil-kim">Lil' Kim</option>
 	<option value="lil-mama">Lil' Mama</option>
@@ -618,18 +975,23 @@ function jump_to_category() {
 	<option value="lisa-kudrow">Lisa Kudrow</option>
 	<option value="lisa-marie-presley">Lisa Marie Presley</option>
 	<option value="lisa-rinna">Lisa Rinna</option>
+	<option value="lissie">Lissie</option>
 	<option value="listen-to-this">Listen To This</option>
+	<option value="little-boots">Little Boots</option>
+	<option value="liv-tyler">Liv Tyler</option>
 	<option value="liza-minnelli">Liza Minnelli</option>
+	<option value="lmfao">LMFAO</option>
 	<option value="lo-bosworth">Lo Bosworth</option>
 	<option value="lourdes-leon">Lourdes Leon</option>
 	<option value="love-line">Love Line</option>
 	<option value="ludacris">Ludacris</option>
 	<option value="luke-macfarlane">Luke MacFarlane</option>
-	<option value="luke-worrell">Luke Worrell</option>
+	<option value="luke-worrall">Luke Worrall</option>
 	<option value="lydia-hearst">Lydia Hearst</option>
 	<option value="lykke-li">Lykke Li</option>
 	<option value="lynne-spears">Lynne Spears</option>
 	<option value="mia">M.I.A.</option>
+	<option value="macy-gray">Macy Gray</option>
 	<option value="madonna">Madonna</option>
 	<option value="mandy-moore">Mandy Moore</option>
 	<option value="marc-anthony">Marc Anthony</option>
@@ -639,21 +1001,32 @@ function jump_to_category() {
 	<option value="mariah-carey">Mariah Carey</option>
 	<option value="marie-osmond">Marie Osmond</option>
 	<option value="marilyn-manson">Marilyn Manson</option>
+	<option value="marina-and-the-diamonds">Marina and The Diamonds</option>
 	<option value="mario-lopez">Mario Lopez</option>
+	<option value="mark-ruffalo">Mark Ruffalo</option>
 	<option value="mark-wahlberg">Mark Wahlberg</option>
 	<option value="martha-stewart">Martha Stewart</option>
 	<option value="mary-j-blige">Mary J. Blige</option>
+	<option value="matt-bomer">Matt Bomer</option>
+	<option value="matt-dallas">Matt Dallas</option>
 	<option value="matt-damon">Matt Damon</option>
+	<option value="matt-dillon">Matt Dillon</option>
 	<option value="matthew-mcconaughey">Matthew McConaughey</option>
+	<option value="matthew-morrison">Matthew Morrison</option>
+	<option value="mattyb">MattyB</option>
 	<option value="mcfly">McFly</option>
 	<option value="media-minute">Media Minute</option>
 	<option value="meg-ryan">Meg Ryan</option>
 	<option value="megan-fox">Megan Fox</option>
+	<option value="meghan-tonjes">Meghan Tonjes</option>
 	<option value="meiko">Meiko</option>
 	<option value="mel-b">Mel B.</option>
 	<option value="mel-gibson">Mel Gibson</option>
 	<option value="melanie-c">Melanie C.</option>
 	<option value="melanie-griffith">Melanie Griffith</option>
+	<option value="melissa-etheridge">Melissa Etheridge</option>
+	<option value="melrose-place">Melrose Place</option>
+	<option value="mena-suvari">Mena Suvari</option>
 	<option value="meryl-streep">Meryl Streep</option>
 	<option value="michael-buble">Michael Buble</option>
 	<option value="michael-cera">Michael Cera</option>
@@ -663,13 +1036,16 @@ function jump_to_category() {
 	<option value="michael-phelps">Michael Phelps</option>
 	<option value="michael-urie">Michael Urie</option>
 	<option value="michele-elyzabeth">Michele Elyzabeth</option>
+	<option value="michelle-obama">Michelle Obama</option>
 	<option value="michelle-pfeiffer">Michelle Pfeiffer</option>
 	<option value="michelle-rodriguez">Michelle Rodriguez</option>
 	<option value="michelle-trachtenberg">Michelle Trachtenberg</option>
 	<option value="michelle-williams">Michelle Williams</option>
+	<option value="mickey-rourke">Mickey Rourke</option>
 	<option value="mika">Mika</option>
 	<option value="mike-huckabee">Mike Huckabee</option>
-	<option value="mike-meyers">Mike Meyers</option>
+	<option value="mike-myers">Mike Myers</option>
+	<option value="mike-posner">Mike Posner</option>
 	<option value="mike-tyson">Mike Tyson</option>
 	<option value="mila-kunis">Mila Kunis</option>
 	<option value="miley-cyrus">Miley Cyrus</option>
@@ -677,10 +1053,12 @@ function jump_to_category() {
 	<option value="milo-ventimiglia">Milo Ventimiglia</option>
 	<option value="mini-me">Mini-Me</option>
 	<option value="minnie-driver">Minnie Driver</option>
+	<option value="miranda-cosgrove">Miranda Cosgrove</option>
 	<option value="mischa-barton">Mischa Barton</option>
 	<option value="missy-elliot">Missy Elliot</option>
 	<option value="mitch-hewer">Mitch Hewer</option>
 	<option value="models">Models</option>
+	<option value="momma-perez">Momma Perez</option>
 	<option value="morgan-freeman">Morgan Freeman</option>
 	<option value="mtv">MTV</option>
 	<option value="mugshot-hall-of-fame">Mugshot Hall Of Fame</option>
@@ -690,29 +1068,41 @@ function jump_to_category() {
 	<option value="naomi-campbell">Naomi Campbell</option>
 	<option value="naomi-watts">Naomi Watts</option>
 	<option value="nas">Nas</option>
+	<option value="natalia-kills">Natalia Kills</option>
 	<option value="natalie-portman">Natalie Portman</option>
-	<option value="natasha-bedinfield">Natasha Bedinfield</option>
+	<option value="natalie-portmans-shaved-head">Natalie Portman's Shaved Head</option>
+	<option value="natasha-bedingfield">Natasha Bedingfield</option>
+	<option value="natasha-richardson">Natasha Richardson</option>
 	<option value="neil-patrick-harris">Neil Patrick Harris</option>
+	<option value="nelly">Nelly</option>
 	<option value="nelly-furtado">Nelly Furtado</option>
+	<option value="neve-campbell">Neve Campbell</option>
 	<option value="new-kids-on-the-block">New Kids On The Block</option>
 	<option value="neyo">NeYo</option>
+	<option value="nichole337">Nichole337</option>
 	<option value="nick-cannon">Nick Cannon</option>
 	<option value="nick-carter">Nick Carter</option>
 	<option value="nick-hogan">Nick Hogan</option>
 	<option value="nick-lachey">Nick Lachey</option>
+	<option value="nicki-minaj">Nicki Minaj</option>
 	<option value="nicky-hilton">Nicky Hilton</option>
 	<option value="nicolas-cage">Nicolas Cage</option>
 	<option value="nicole-kidman">Nicole Kidman</option>
 	<option value="nicole-richie">Nicole Richie</option>
 	<option value="nicole-scherzinger">Nicole Scherzinger</option>
-	<option value="nicolette-sheridan">Nicolette Sheridan</option>
+	<option value="nicollette-sheridan">Nicollette Sheridan</option>
 	<option value="niecy-nash">Niecy Nash</option>
 	<option value="nikki-blonsky">Nikki Blonsky</option>
 	<option value="nina-garcia">Nina Garcia</option>
+	<option value="nneka">Nneka</option>
+	<option value="nolan-gerard-funk">Nolan Gerard Funk</option>
 	<option value="norah-jones">Norah Jones</option>
 	<option value="not-so-blind-item">Not So Blind Item</option>
 	<option value="oj-simpson">O.J. Simpson</option>
+	<option value="octo-mom">Octo-Mom</option>
 	<option value="old-people">Old People</option>
+	<option value="old-school-jam-of-the-day">Old School Jam Of The Day</option>
+	<option value="olivia-wilde">Olivia Wilde</option>
 	<option value="olsen-twins">Olsen Twins</option>
 	<option value="one-republic">One Republic</option>
 	<option value="oops">Oops!</option>
@@ -721,15 +1111,18 @@ function jump_to_category() {
 	<option value="orlando-bloom">Orlando Bloom</option>
 	<option value="osama-lutfi">Osama Lutfi</option>
 	<option value="owen-wilson">Owen Wilson</option>
+	<option value="ozzy-osbourne">Ozzy Osbourne</option>
 	<option value="pamela-anderson">Pamela Anderson</option>
 	<option value="paramore">Paramore</option>
 	<option value="paris-hilton">Paris Hilton</option>
+	<option value="parker-posey">Parker Posey</option>
 	<option value="party-poppin">Party Poppin'</option>
 	<option value="patrick-dempsey">Patrick Dempsey</option>
 	<option value="patrick-swayze">Patrick Swayze</option>
 	<option value="patrick-wolf">Patrick Wolf</option>
 	<option value="paul-mccartney">Paul McCartney</option>
 	<option value="paul-newman">Paul Newman</option>
+	<option value="paul-rudd">Paul Rudd</option>
 	<option value="paula-abdul">Paula Abdul</option>
 	<option value="paulina-rubio">Paulina Rubio</option>
 	<option value="peaches">Peaches</option>
@@ -742,18 +1135,26 @@ function jump_to_category() {
 	<option value="pete-burns">Pete Burns</option>
 	<option value="pete-doherty">Pete Doherty</option>
 	<option value="pete-wentz">Pete Wentz</option>
+	<option value="peter-andre">Peter Andre</option>
 	<option value="pharrell">Pharrell</option>
+	<option value="photos">pHOtos!</option>
 	<option value="photoshop-awardz">Photoshop Awardz</option>
 	<option value="pink">Pink</option>
+	<option value="pitbull">Pitbull</option>
 	<option value="playboy">Playboy</option>
 	<option value="politik">Politik</option>
 	<option value="polls">Polls</option>
 	<option value="poppa-joe">Poppa Joe</option>
+	<option value="pretty-woman">Pretty (Wo)Man</option>
 	<option value="prince">Prince</option>
 	<option value="princess-superstar">Princess Superstar</option>
 	<option value="project-runway">Project Runway</option>
+	<option value="ps-22-chorus">PS 22 Chorus</option>
 	<option value="pussycat-dolls">Pussycat Dolls</option>
+	<option value="quaids">Quaids</option>
 	<option value="queen-latifah">Queen Latifah</option>
+	<option value="quentin-tarantino">Quentin Tarantino</option>
+	<option value="quick-shots">Quick Shots</option>
 	<option value="quote-of-the-day">Quote of the Day</option>
 	<option value="r-kelly">R. Kelly</option>
 	<option value="rip">R.I.P.</option>
@@ -761,13 +1162,19 @@ function jump_to_category() {
 	<option value="rachel-bilson">Rachel Bilson</option>
 	<option value="rachel-mcadams">Rachel McAdams</option>
 	<option value="rachel-zoe">Rachel Zoe</option>
+	<option value="rafi-gavron">Rafi Gavron</option>
 	<option value="rashida-jones">Rashida Jones</option>
 	<option value="raven-symone">Raven Symone</option>
+	<option value="real-housewives">Real Housewives</option>
 	<option value="reality-television">Reality Television</option>
+	<option value="rebecca-ferguson">Rebecca Ferguson</option>
+	<option value="rebecca-romijn">Rebecca Romijn</option>
 	<option value="reese-witherspoon">Reese Witherspoon</option>
 	<option value="regina-spektor">Regina Spektor</option>
 	<option value="renee-zellweger">Renee Zellweger</option>
 	<option value="rhydian">Rhydian</option>
+	<option value="richard-gere">Richard Gere</option>
+	<option value="richard-simmons">Richard Simmons</option>
 	<option value="rick-astley">Rick Astley</option>
 	<option value="ricki-lake">Ricki Lake</option>
 	<option value="ricky-gervais">Ricky Gervais</option>
@@ -781,6 +1188,7 @@ function jump_to_category() {
 	<option value="robert-downey-jr">Robert Downey Jr.</option>
 	<option value="robert-pattinson">Robert Pattinson</option>
 	<option value="robin-thicke">Robin Thicke</option>
+	<option value="robin-williams">Robin Williams</option>
 	<option value="robyn">Robyn</option>
 	<option value="roisin-murphy">Roisin Murphy</option>
 	<option value="rosario-dawson">Rosario Dawson</option>
@@ -789,36 +1197,49 @@ function jump_to_category() {
 	<option value="rosie-odonnell">Rosie O'Donnell</option>
 	<option value="ross-mathews">Ross Mathews</option>
 	<option value="royals-royce">Royals Royce</option>
+	<option value="ruben-studdard">Ruben Studdard</option>
 	<option value="rufus-wainwright">Rufus Wainwright</option>
 	<option value="rumer-wilis">Rumer Willis</option>
 	<option value="rupert-everett">Rupert Everett</option>
+	<option value="rupert-grint">Rupert Grint</option>
 	<option value="russell-brand">Russell Brand</option>
 	<option value="russell-crowe">Russell Crowe</option>
 	<option value="ryan-cabrera">Ryan Cabrera</option>
 	<option value="ryan-gosling">Ryan Gosling</option>
+	<option value="ryan-oneal">Ryan O'Neal</option>
 	<option value="ryan-phillippe">Ryan Phillippe</option>
 	<option value="ryan-reynolds">Ryan Reynolds</option>
 	<option value="ryan-seacrest">Ryan Seacrest</option>
 	<option value="ryan-sheckler">Ryan Sheckler</option>
+	<option value="rye-rye">Rye Rye</option>
 	<option value="sacha-baron-cohen">Sacha Baron Cohen</option>
 	<option value="sad-sad">Sad Sad</option>
+	<option value="sade">Sade</option>
 	<option value="salma-hayek">Salma Hayek</option>
-	<option value="saman-ronson">saMAN Ronson</option>
+	<option value="samantha-ronson">Samantha Ronson</option>
+	<option value="samuel-l-jackson">Samuel L. Jackson</option>
 	<option value="sandra-bullock">Sandra Bullock</option>
 	<option value="sangina">Sangina</option>
+	<option value="sara-bareilles">Sara Bareilles</option>
 	<option value="sarah-harding">Sarah Harding</option>
 	<option value="sarah-jessica-parker">Sarah Jessica Parker</option>
+	<option value="sarah-mclachlan">Sarah McLachlan</option>
 	<option value="sarah-michelle-buffy">Sarah Michelle Buffy</option>
 	<option value="sarah-palin">Sarah Palin</option>
 	<option value="sarah-silverman">Sarah Silverman</option>
 	<option value="scarlett-johansson">Scarlett Johansson</option>
 	<option value="scissor-sisters">Scissor Sisters</option>
+	<option value="seal">Seal</option>
 	<option value="sean-penn">Sean Penn</option>
+	<option value="sean-william-scott">Sean William Scott</option>
+	<option value="secret-trois">Secret Trois</option>
+	<option value="selah-sue">Selah Sue</option>
 	<option value="selena-gomez">Selena Gomez</option>
 	<option value="selma-blair">Selma Blair</option>
 	<option value="semi-precious-weapons">Semi Precious Weapons</option>
 	<option value="separated-at-birth">Separated At Birth</option>
 	<option value="serena-williams">Serena Williams</option>
+	<option value="seth-rogen">Seth Rogen</option>
 	<option value="sex-and-the-city">Sex &amp; The City</option>
 	<option value="shakira">Shakira</option>
 	<option value="shania-twain">Shania Twain</option>
@@ -830,6 +1251,7 @@ function jump_to_category() {
 	<option value="sharon-osbourne">Sharon Osbourne</option>
 	<option value="sharon-stone">Sharon Stone</option>
 	<option value="shemar-moore">Shemar Moore</option>
+	<option value="shenae-grimes">Shenae Grimes</option>
 	<option value="sheryl-crow">Sheryl Crow</option>
 	<option value="shia-labeouf">Shia LaBeouf</option>
 	<option value="shwayze">Shwayze</option>
@@ -841,7 +1263,10 @@ function jump_to_category() {
 	<option value="simon-rex">Simon Rex</option>
 	<option value="simple-plan">Simple Plan</option>
 	<option value="sin-city">Sin City</option>
+	<option value="sliimy">Sliimy</option>
+	<option value="snooki">Snooki</option>
 	<option value="snoop">Snoop</option>
+	<option value="sofia-vergara">Sofia Vergara</option>
 	<option value="solange">Solange</option>
 	<option value="sophie-monk">Sophie Monk</option>
 	<option value="spencer-pratt">Spencer Pratt</option>
@@ -859,13 +1284,19 @@ function jump_to_category() {
 	<option value="sting">Sting</option>
 	<option value="sugababes">Sugababes</option>
 	<option value="suri-cruise">Suri Cruise</option>
+	<option value="susan-boyle">Susan Boyle</option>
 	<option value="sylvester-stallone">Sylvester Stallone</option>
 	<option value="ti">T.I.</option>
 	<option value="tr-knight">T.R. Knight</option>
 	<option value="tacky-true">Tacky &amp; True</option>
+	<option value="taio-cruz">Taio Cruz</option>
+	<option value="take-that">Take That</option>
 	<option value="tallulah-willis">Tallulah Willis</option>
 	<option value="tara-reid">Tara Reid</option>
+	<option value="tata-young">Tata Young</option>
 	<option value="tatum-oneal">Tatum O'Neal</option>
+	<option value="taylor-hanson">Taylor Hanson</option>
+	<option value="taylor-lautner">Taylor Lautner</option>
 	<option value="taylor-momsen">Taylor Momsen</option>
 	<option value="taylor-swift">Taylor Swift</option>
 	<option value="tech-talk">Tech Talk</option>
@@ -873,9 +1304,17 @@ function jump_to_category() {
 	<option value="teri-hatcher">Teri Hatcher</option>
 	<option value="terrence-howard">Terrence Howard</option>
 	<option value="thalia">Thalia</option>
+	<option value="the-gosselins">The Gosselins</option>
 	<option value="the-hoff">The Hoff</option>
+	<option value="the-mission-district">The Mission District</option>
 	<option value="the-saturdays">The Saturdays</option>
+	<option value="the-script">The Script</option>
+	<option value="the-situation">The Situation</option>
+	<option value="the-ting-tings">The Ting Tings</option>
 	<option value="the-veronicas">The Veronicas</option>
+	<option value="this-week-in-celebrity-twitpics">This Week In Celebrity Twitpics</option>
+	<option value="thomas-beatie">Thomas Beatie</option>
+	<option value="thunderheist">Thunderheist</option>
 	<option value="tiffany-pollard">Tiffany Pollard</option>
 	<option value="tiger-woods">Tiger Woods</option>
 	<option value="tila-tequila">Tila Tequila</option>
@@ -887,21 +1326,32 @@ function jump_to_category() {
 	<option value="tobey-maguire">Tobey Maguire</option>
 	<option value="tom-brady">Tom Brady</option>
 	<option value="tom-cruise">Tom Cruise</option>
+	<option value="tom-felton">Tom Felton</option>
 	<option value="tom-hanks">Tom Hanks</option>
+	<option value="tom-hardy">Tom Hardy</option>
 	<option value="tommy-lee">Tommy Lee</option>
+	<option value="toni-braxton">Toni Braxton</option>
 	<option value="tony-romo">Tony Romo</option>
+	<option value="topher-grace">Topher Grace</option>
 	<option value="tori-amos">Tori Amos</option>
 	<option value="tori-spelling">Tori Spelling</option>
+	<option value="tour-2009">Tour 2009</option>
+	<option value="tracy-morgan">Tracy Morgan</option>
 	<option value="travis-barker">Travis Barker</option>
+	<option value="travis-garland">Travis Garland</option>
 	<option value="travis-mccoy">Travis McCoy</option>
+	<option value="true-blood">True Blood</option>
 	<option value="tullulah-willis">Tullulah Willis</option>
 	<option value="tv-news">TV News</option>
 	<option value="twilight">Twilight</option>
+	<option value="twitter">Twitter</option>
 	<option value="tyra-banks">Tyra Banks</option>
+	<option value="uffie">Uffie</option>
 	<option value="ultraviolet-sound">Ultraviolet Sound</option>
 	<option value="uma-thurman">Uma Thurman</option>
 	<option value="uncategorized">Uncategorized</option>
 	<option value="usher">Usher</option>
+	<option value="vv-brown">V.V. Brown</option>
 	<option value="valerie-bertinelli">Valerie Bertinelli</option>
 	<option value="van-hansis">Van Hansis</option>
 	<option value="vanessa-hudgens">Vanessa Hudgens</option>
@@ -909,6 +1359,7 @@ function jump_to_category() {
 	<option value="venus-williams">Venus Williams</option>
 	<option value="vh1">VH1</option>
 	<option value="victoria-beckham">Victoria Beckham</option>
+	<option value="victoria-justice">Victoria Justice</option>
 	<option value="vin-diesel">Vin Diesel</option>
 	<option value="vince-vaughn">Vince Vaughn</option>
 	<option value="ving-rhames">Ving Rhames</option>
@@ -916,6 +1367,7 @@ function jump_to_category() {
 	<option value="wacky">Wacky, Tacky &amp; True</option>
 	<option value="watson-twins">Watson Twins</option>
 	<option value="weezer">Weezer</option>
+	<option value="wendy-williams">Wendy Williams</option>
 	<option value="wentworth-miller">Wentworth Miller</option>
 	<option value="wesley-snipes">Wesley Snipes</option>
 	<option value="weston-coppola-cage">Weston Coppola Cage</option>
@@ -927,21 +1379,29 @@ function jump_to_category() {
 	<option value="will-smith">Will Smith</option>
 	<option value="will-young">Will Young</option>
 	<option value="william-moseley">William Moseley</option>
+	<option value="william-shatner">William Shatner</option>
+	<option value="willow-smith">Willow Smith</option>
 	<option value="wilmer-valderrama">Wilmer Valderrama</option>
 	<option value="winona-ryder">Winona Ryder</option>
 	<option value="woody-harrelson">Woody Harrelson</option>
 	<option value="woof-woof">Woof Woof</option>
+	<option value="x-factor">X Factor</option>
+	<option value="xavier-samuel">Xavier Samuel</option>
 	<option value="yelle">Yelle</option>
 	<option value="yo-majesty">Yo Majesty</option>
 	<option value="you-decide">YOU Decide!</option>
 	<option value="young-hollywood">Young Hollywood</option>
 	<option value="youtube">YouTube</option>
+	<option value="ysa-ferrer">Ysa Ferrer</option>
 	<option value="yummy-yummy-screw">Yummy Yummy Screw</option>
 	<option value="z-list">Z List</option>
 	<option value="zac-efron">Zac Efron</option>
 	<option value="zach-braff">Zach Braff</option>
+	<option value="zach-galifianakis">Zach Galifianakis</option>
 	<option value="zachary-quinto">Zachary Quinto</option>
 	<option value="zoe-kravitz">Zoe Kravitz</option>
+	<option value="zoe-saldana">Zoe Saldana</option>
+	<option value="zooey-deschanel">Zooey Deschanel</option>
 	<option value="zportz">Zportz</option>
 </select>
                         </form>
@@ -953,7 +1413,10 @@ function jump_to_category() {
 </form>
                         </div>
 
-                        <div id="site_meter" style="margin-top:10px;">
+                        <div style="margin-top: 10px;">
+                            <iframe src="http://www.facebook.com/plugins/likebox.php?id=116397088405021&amp;width=180&amp;connections=4&amp;stream=true&amp;header=true&amp;height=687" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:687px; background-color: #ffffff;" allowtransparency="true"></iframe>                        </div>
+
+                        <div id="site_meter" style="width: 1px; height: 1px;">
                                 <!-- Site Meter -->
                                 <script type="text/javascript" src="http://sm4.sitemeter.com/js/counter.js?site=sm4perezhilton"></script>
                                 <noscript>
@@ -968,75 +1431,51 @@ function jump_to_category() {
         <td width="470" valign="top">
 
 	    		    		<div class="post" id="post-37">
-				<h2>PRIVACY NOTICE</h2>
+				<h1>INTERNET PRIVACY NOTICE</h1>
 			<div class="entry">
-				<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000"></font><font face="Verdana, sans-serif"></font><font size="2"><strong>Last updated: May 19, 2008.</strong></font><font face="Verdana, sans-serif"></font><font size="2"> </font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">PerezHilton.com respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. <strong>By visiting PerezHilton.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.</strong> </font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">By continuing to use the PerezHilton.com Website after we post any changes to this Privacy Notice, you accept the Privacy Notice as modified.</font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000"><strong>Your California Privacy Rights</strong></font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">California Civil Code Section 1798.83, also known as the "Shine The Light" law,&nbsp; permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.&nbsp; If you are a California resident and would like to make such a request, please submit your request in writing to:</font></p>
-<p style="margin-bottom: 0in">________________________</p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">[<a href="mailto:info@perezhilton.com">info@perezhilton.com</a>] </font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000"><strong>What Personal Information About Customers Does PerezHilton.com Collect?</strong></font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">The information we learn from customers helps us personalize and continually improve your experience at PerezHilton.com. Here are the types of information we collect: </font></p>
+				<p><b>Last updated: October 6, 2010.</b></p>
+<p>PerezHilton.com (also referred to herein as "us," "we," and the "Website") respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice (the "Privacy Notice") explains how we collect, use, and safeguard information on this website. Please read this Privacy Notice carefully. <b>By visiting PerezHilton.com, you acknowledge and accept the practices, terms, and conditions described in this Privacy Notice and the PerezHilton Conditions of Use (the "Conditions of Use"), which is located at the URL <a href="http://perezhilton.com/?page_id=3706" target="_blank">http://perezhilton.com/?page_id=3706</a> and agree that any and all disputes, including, without limitation, those disputes arising over privacy, between you and PerezHilton.com, its parent company(ies), subsidiary(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assignees, will be subject to terms and conditions of this Privacy Notice and/or the Conditions of Use, as applicable</b>. </p>
+<p>By visiting PerezHilton.com after we post any changes to this Privacy Notice and/or the Conditions of Use, you accept the Privacy Notice and/or the Conditions of Use, as applicable, as modified.</p>
+<p><b>Your California Privacy Rights</b></p>
+<p>California Civil Code Section 1798.83, also known as the "Shine The Light" law,&nbsp; permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.&nbsp; If you are a California resident and would like to make such a request, please submit your request by electronic mail to:</p>
+<p>[<a href="mailto:info@perezhilton.com">info@perezhilton.com</a>] </p>
+<p><b>What Personal Information About Customers Does PerezHilton.com Collect?</b></p>
+<p>The information we learn about our customers helps us personalize and continually improve at the service and features of PerezHilton.com. Here are the types of information we collect: </p>
 <ul>
-<li>
-<p style="margin-top: 0.19in; margin-bottom: 0in"><strong>Information You Give Us:</strong> We receive and store any personal and financial information you enter on our Website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future options for you, improving our Website, and communicating with you.</p>
-</li>
-<li>
-<p style="margin-bottom: 0in"><strong>Automatic Information:</strong> We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use "cookies," and we obtain certain types of information when your Web browser accesses PerezHilton.com, including your IP address. A number of companies offer utilities designed to help you visit Websites anonymously. Although we will not be able to provide you with a personalized experience at PerezHilton.com if we cannot recognize you, we want you to be aware that these tools exist.</p>
-</li>
-<li>
-<p style="margin-bottom: 0.19in"><strong>E-mail Communications:</strong> To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from PerezHilton.com if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.</p>
-</li>
+<li><b>Information You Give Us:</b> We receive and may store any personal and financial information you enter on our Website or may give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our services and features. We may use the information that you provide for a variety of purposes, including to respond to your requests, to customize future options for you, to improve the overall quality of the Website, and to communicate with you, among other things.</li>
+<li><b>Automatic Information:</b> We may receive and store certain types of information whenever you interact with us. For example, like many other websites, we use "cookies" (described more fully below) to obtain certain types of non-personally identifiable information (i.e., your IP address) when your web browser accesses PerezHilton.com. A number of companies and some web browsers offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience at PerezHilton.com if we cannot recognize you, we want you to be aware that these tools may be available to you.</li>
+<li><b>E-mail Communications:</b> To help us make our e-mails more useful and interesting, we may elect to receive a confirmation when you open e-mail from PerezHilton.com, if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.</li>
 </ul>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><strong>What About Cookies?</strong></p>
+<p><b>What About Cookies?</b></p>
 <ul>
-<li>
-<p style="margin-top: 0.19in; margin-bottom: 0in">Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalized greetings and storage of items in your Shopping Cart between visits.</p>
-</li>
-<li>
-<p style="margin-bottom: 0.19in">The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of PerezHilton.com’s coolest features, and we recommend that you leave them turned on.</p>
-</li>
+<li>Cookies are alphanumeric identifiers (i.e., text) that may be delivered by a web server (like PerezHilton.com) to your web browser to enable the delivering web server to recognize your browser for a variety of purposes, including to authenticate your use of or log-in to a secure website, to store and set your website preferences, and to provide you with personalized greetings, among other things, Because cookies are simple text and not "executable," a cookie will not give your computer a virus or other harmful program.</li>
+<li>The "Help" portion of the toolbar on most web browsers may tell you how to prevent your web browser from accepting new cookies, how to have your web browser notify you when you receive a new cookie, and how to disable cookies altogether. By disabling cookies altogether, however, you will not be able to take full advantage of some of PerezHilton.com’s coolest features, and we therefore recommend that you leave cookies turned on, or at least instruct your web browser to make an exception for cookies sent to you byPerezHilton.com.</li>
 </ul>
-<p style="margin-bottom: 0in"><font face="Verdana, sans-serif"></font><font size="2"></font><font face="Times New Roman, serif"></font><font size="3"><strong>Does PerezHilton.com Share The Information It Receives?</strong></font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below.</font></p>
+<p><b>Does PerezHilton.com Share The Information It Receives?</b></p>
+<p>We may allow certain third-party companies to serve ads and/or collect certain anonymous information when you visit the Website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. <b>To learn more about this behavioral advertising practice and/or to opt-out of this type of advertising, please visit:</b> <a href="http://networkadvertising.org" target="_blank">http://networkadvertising.org</a>.</p>
 <ul>
-<li>
-<p style="margin-top: 0.19in; margin-bottom: 0in"><strong>Third-Party Service Providers:</strong> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</p>
-</li>
-<li>
-<p style="margin-bottom: 0in"><strong>Business Transfers:</strong> As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that PerezHilton.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.</p>
-</li>
-<li>
-<p style="margin-bottom: 0in"><strong>Protection of PerezHilton.com and Others:</strong> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of PerezHilton.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.</p>
-</li>
-<li>
-<p style="margin-bottom: 0.19in"><strong>With Your Consent:</strong> Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.</p>
-</li>
+<li><b>Third-Party Service Providers:</b> We may utilize third party companies and/or individuals to perform certain functions on our behalf. Examples include, without limitation, to fulfill orders, to deliver packages, to send postal mail, e-mail, and other correspondence, to remove repetitive information from customer lists, to analyze data, to provide marketing assistance, to sponsor and/or conduct contests, sweepstakes, or promotions, to provide search results and links (including paid listings and links), to process credit card payments, and to provide customer service. These third party service providers may have access to the personal information we possess, but they will only be permitted to use that information they need to perform their specific functions, and will not be authorized by us to use such information for any other purpose.</li>
+<li><b>Business Transfers:</b> As we continue to develop our business, we might sell or buy websites, stores, subsidiaries, or business units. As is customary during the course of any such transaction, customer information is generally one of many business assets subject to transfer, but, in the event of such a transfer,  personal information remains subject to the promises made in the Privacy Notice applicable thereto (unless, of course, the customer consents otherwise). Similarly, in the unlikely event that all or substantially all of the Website’s assets are acquired by a third party, customer information is likely to be one of the assets transferred as part of that acquisition.</li>
+<li><b>Protection of PerezHilton.com and Others:</b> We may release account and other personal information when we believe such a release is necessary and/or appropriate to comply with the law, to prevent or aid in the prevention of any illegal activity or any suspected illegal activity and/or any criminal investigation thereof,  to enforce, comply with and/or apply this Privacy Notice, our Conditions of Use, and any of our other agreements, and/or to maintain, protect, and/or enforce the rights, property, or safety of the Website and the Website’s parent company(ies), subsidiary(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assigns, the Website’s users, subscribers, customers, or any others, as applicable. This includes, but is not limited to, the exchange of information with other companies and organizations for fraud protection and credit risk reduction, or in the preparation of and/or during the course of a lawsuit. This does not include the sale, rental, sharing, or other disclosure of personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice or as otherwise prohibited by law.</li>
+<li><b>Your Consent:</b> Unless specifically provided for herein, or as otherwise required by law, you acknowledge and agree that you will not receive any notice when the personal information we have collected will be sent to third parties…</li>
 </ul>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><strong>How Secure Is Information About Me? </strong></p>
+<p><b>How Secure Is My Personal Information?</b></p>
 <ul>
-<li>
-<p style="margin-top: 0.19in; margin-bottom: 0in">We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.</p>
-</li>
-<li>
-<p style="margin-bottom: 0in">We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.</p>
-</li>
-<li>
-<p style="margin-bottom: 0.19in">It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.</p>
-</li>
+<li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.</li>
+<li>We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.</li>
+<li>It is your responsibility to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer and to close the web browser you used.</li>
+<li>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that the personally identifiable information that we collect will never be disclosed to and/or accessed by any third party in a manner that is inconsistent with this Privacy Notice.</li>
 </ul>
-<p style="margin-bottom: 0in"><font face="Verdana, sans-serif"></font><font size="2"></font><font face="Times New Roman, serif"></font><font size="3"><strong>What Information Can I Access?</strong></font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">PerezHilton.com gives you access to a broad range of information about your account and your interactions with PerezHilton.com for the limited purpose of viewing and, in certain cases, updating that information. The list of information you can access will change as our Website evolves. </font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000"><strong>Are Children Allowed To Use PerezHilton.com?</strong></font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">PerezHilton.com does NOT sell products for purchase by children. </font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000"><strong>Conditions Of Use, Notices, And Revisions</strong></font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">If you choose to visit PerezHilton.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at PerezHilton.com, please contact us with a thorough description, and we will try to resolve it. </font></p>
-<p style="margin-top: 0.19in; margin-bottom: 0.19in"><font color="#000000">Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.</font></p>
+<p><b>What Information Can I Access?</b></p>
+<p>PerezHilton.com gives you access to a broad range of information about your account and your interactions with PerezHilton.com for the limited purpose of viewing and, in certain cases, updating that information. The list of information you can access may change as our Website evolves. </p>
+<p><b>Are Children Allowed To Use PerezHilton.com?</b></p>
+<p>PerezHilton.com does NOT provide services to children or sell products for purchase by children. </p>
+<p><b>Conditions Of Use, Notices, And Revisions</b></p>
+<p>If you choose to visit PerezHilton.com, your visit, any subsequent visit, and any dispute over privacy or any other matter related to the Website is subject to the terms of this Privacy Notice and the Conditions of Use, which include, among other things, your consent to limitations on any damages you may be entitled to, your agreement to waive any right to a trial you may have and your agreement to arbitrate any disputes, and application of the laws of the State of California. If you have any concern about this Privacy Notice and/or the privacy of your personal information at PerezHilton.com, please contact us with a thorough description of your concern, and we will try to address it. </p>
+<p>Our business changes constantly, and our Website, this Privacy Notice and the Conditions of Use are subject to change as well. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but we are not obligated to do so, and you should check our Website frequently to see any changes to any of our policies that may affect you. Unless we specifically state otherwise, the Privacy Notice applies to all personal information that we may have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personally identifiable information collected in the past without attempting to notify those affected customers.
+</p>
 
-				
-			</div>
+							</div>
 		</div>
 
 		<div id="content_ad_1" align="center">
@@ -1044,7 +1483,7 @@ function jump_to_category() {
                                 
                 <div style="width:470px;">
                         <!-- You can start editing here. -->
-
+    
                   <!-- If comments are closed. -->
                 <p class="nocomments">Comments are closed.</p>
                         </div>
@@ -1062,20 +1501,26 @@ function jump_to_category() {
 
 <hr>
 <div id="footer">
-	<p>
-		<a href="#header">© 2005-2009 PerezHilton.com</a>
-	<br>
-	        <a href="http://tracer.perezhilton.com/tracer/click.php?zoneid=advertising_button_on_ph_com&amp;rand=6645500&amp;url=http://perezhilton.com/mediakit/US/index.html" target="_blank">Advertising</a>
-	</p>
+    <p>
+        <a href="#header">© 2005-2010 PerezHilton.com</a>
+        <br>
+        <a href="http://tracer.perezhilton.com/tracer/click.php?zoneid=advertising_button_on_ph_com&amp;url=http://perezhilton.com/mediakit/US/index.html" target="_blank">Advertising</a>
+    </p>
 </div>
 <div>
-	<img src="http://t.blogreaderproject.com/t.gif?f01034d14b983ae5d2be5bdecc8f2c6c">
+    <img src="http://t.blogreaderproject.com/t.gif?f01034d14b983ae5d2be5bdecc8f2c6c">
 </div>
 </div>
 
 
 
-
+<!-- PIXAZZA -->
+<script type="text/javascript">
+    if (ph_ad_page == 'no' && ((ph_page_type == 'index' && paged > ph_ad_serving) || ph_page_type == 'archive' || ph_page_type == 'tag' || ph_page_type == 'single')) {
+      document.write("<scr" + "ipt type=\"text/javascript\" src=\"http://www.pixazza.com/widget/4f29944805/\"><\/scr" + "ipt>");
+    }
+</script>
+<!-- /PIXAZZA -->
 
 
 <!-- TYNT -->
@@ -1086,8 +1531,8 @@ function jump_to_category() {
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-338092-8";
-urchinTracker();
+    _uacct = "UA-338092-8";
+    urchinTracker();
 </script>
 <!-- //Google Analytics -->
 
@@ -1095,11 +1540,12 @@ urchinTracker();
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-5fQgFpKUoFZ6k";quantserve();</script>
 <noscript>
-<a href="http://www.quantcast.com/p-5fQgFpKUoFZ6k" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5fQgFpKUoFZ6k.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+    <a href="http://www.quantcast.com/p-5fQgFpKUoFZ6k" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5fQgFpKUoFZ6k.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
 
 </div>
+
 
 <!-- Perez Posse -->
 <iframe style="z-index:1000;position:absolute;top:0;left:0;visibility:hidden;border:none;width:200;height:300px;" allowtransparency="true" id="posse_iframe" name="posse_iframe" src=""></iframe>
@@ -1107,7 +1553,4 @@ urchinTracker();
 
 
 
-
-<!-- Dynamic Page Served (once) in 0.211 seconds -->
-<!-- Cached page served by WP-Cache -->
 </body></html>
