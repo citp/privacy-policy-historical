@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420183134id_/http%3A//www.muzu.tv/site/privacyPolicy%3Fcountry%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128015149id_/http%3A//www.muzu.tv/site/privacyPolicy%3Fcountry%3Dus) for the most accurate reproduction.*
 
 # MUZU TV - Watch, Create and Share Music Video Playlists
 
