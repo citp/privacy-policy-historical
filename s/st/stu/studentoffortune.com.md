@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the studentoffortune.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003801id_/http%3A//studentoffortune.com/cgi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentoffortune.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128083143id_/http%3A//studentoffortune.com/cgi/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - StudentOfFortune.com
 
+|   
+---|---  
+  
 This privacy policy ("Privacy Policy") is designed to inform you about the type of information that Student of Fortune, Inc. ( **"we,"** **"us,"** or **"our"** ) may gather about or collect from you in connection with your use of this site (this **"Site"** ). It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.
 
 The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.
 
-This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18. 
+## Gathering, Use and Disclosure of Non-Personally-Identifying Information
 
 We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. **"Non–Personally–Identifying Information"** is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. "Personally–Identifying Information," by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
@@ -37,6 +40,8 @@ We analyze Non–Personally–Identifying Information gathered from users of thi
 **C. Disclosure of Non-Personally-Identifying Information**
 
 From time to time, we may also release the Non–Personally–Identifying Information gathered from Site users in the aggregate, such as by publishing a report on trends in the usage of this Site. 
+
+## Collection, Use and Disclosure of Personally–Identifying Information
 
 As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity. We will only collect Personally-Identifying Information that you knowingly submit to us. We will not disclose Personally-Identifying Information to third parties unless we obtain your permission to do so at the time we collect it, except as set forth below:
 
@@ -106,7 +111,11 @@ We may email you about products and services that we believe may be of interest 
 
 If you wish to opt-out of receiving emails from us or from third parties, please follow the instructions at the bottom of each email. You may also opt out of receiving marketing materials from us by clicking on the "My Account" link on your user profile page, then clicking on the "Edit Account Options" link and unchecking the check box next to "Site News & Reminders."
 
+## Collection and Use of Information by Third Parties Not Covered By this Agreement
+
 Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves such as via links. We do not control the third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them. Before visiting a third party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and you should take those steps necessary, in your discretion, to protect your privacy.
+
+## Collection and Use of Information by Third Parties Not Covered By this Agreement
 
 Because of changes in technology and the growth and development of our business or for other business reasons, we may need to modify this Privacy Policy from time to time. We will alert you by email if this policy is revised (if you have given us your email address) and will post a copy of the new policy with its effective date on this Site. It is therefore important that you register with the site and notify us if you change email addresses. If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes. 
 
