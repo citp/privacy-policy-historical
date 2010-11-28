@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skimlinks.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606093127id_/http%3A//www.skimlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skimlinks.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128235531id_/http%3A//skimlinks.com/privacy) for the most accurate reproduction.*
 
 # Skimlinks :: Privacy Policy
 
@@ -115,8 +115,8 @@ If you have any questions about this privacy statement, the practices of this si
 As a subscriber you have certain rights under the Data Protection Act 1998. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, or if you have any questions concerning the Skimbit privacy policy please contact us via the following channels:
 
 Skimbit Ltd  
-27 Paul Street  
-London EC2A 4JU
+3rd Floor, Transworld House  
+100 City Road, London EC1Y 2BP
 
 [www.skimlinks.com/contact](http://www.skimlinks.com/contact)
 
