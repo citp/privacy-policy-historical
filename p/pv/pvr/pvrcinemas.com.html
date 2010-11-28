@@ -1,0 +1,202 @@
+<!--The following is the downloaded HTML source of the pvrcinemas.com privacy policy that was archived on 2010-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128093357id_/http%3A//www.pvrcinemas.com/page%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<link rel="shortcut icon" href="http://www.pvrcinemas.com/images/favicon.ico" type="image/x-icon"><link rel="icon" href="images/favicon.gif" type="image/gif"><title>PVR</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta http-equiv="content-type" content="text/html; charset=utf-8"> <meta http-equiv="imagetoolbar" content="no"><link rel="stylesheet" href="./theme/css/style.css?ts=1287826925" type="text/css">
+<link rel="stylesheet" href="./theme/css/thickbox.css" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript">
+	      var REDIRECT_URL = "http://www.pvrcinemas.com/";
+	      var COOKIE_DOMAIN = ".pvrcinemas.com";
+	      var SECURE_BASE_URL = "https://secure.pvrcinemas.com/";
+            </script><script language="JavaScript" type="text/javascript" src="./theme/js/jquery_min.js"></script>
+<script language="JavaScript" type="text/javascript" src="./theme/js/thickbox.js"></script>
+<script language="JavaScript" type="text/javascript" src="./theme/js/script.js?ts=1290064037"></script>
+
+</head>
+<body>
+<div id="master">
+  <div id="container">
+<div class="logintube">
+  <div class="logindetail_module" id="logindetail_module"></div>
+</div>
+<script type="text/javascript">
+  var arg = 'page';
+
+  // header top line 
+  var user_email = readCookie('email');
+  var first_name = readCookie('first_name');
+  var last_name = readCookie('last_name');
+  if(user_email && first_name && last_name) {
+    first_name = first_name.charAt(0).toUpperCase() + first_name.substr(1);
+    var head_html = '<ul><li>Hi '+first_name+'</li><li>|</li><li><a href="logout">Logout</a></li><li>|</li><li><a href="page?page=faq">Help</a></li></ul>';
+    document.getElementById('logindetail_module').innerHTML = head_html;
+  } else if(arg == 'login') {
+    var head_html = '<ul><li>Hi Guest</li><li>|</li><li><a href="#email" >Login</a></li><li>|</li><li> <fb:login-button v="2" size="small" onlogin="window.location.reload(true);">Connect</fb:login-button></li><li>|</li><li><a href="http://www.pvrcinemas.com/register">Sign Up</a></li><li>|</li><li><a href="page?page=faq">Help</a></li></ul>';
+    document.getElementById('logindetail_module').innerHTML = head_html;
+  } else {
+    var head_html = '<ul><li>Hi Guest</li><li>|</li><li><a href="javascript://" onclick="$(\'#vm_loginpopup\').css({ display:\'block\'});">Login</a></li><li>|</li><li> <fb:login-button v="2" size="small" onlogin="window.location.reload(true);">Connect</fb:login-button></li><li>|</li><li><a href="http://www.pvrcinemas.com/register">Sign Up</a></li><li>|</li><li><a href="page?page=faq">Help</a></li></ul>';
+    document.getElementById('logindetail_module').innerHTML = head_html;
+  }
+</script>
+<div id="header">
+  <span>
+    <object id="videoPlayer" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" height="150" width="940" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+      <param name="movie" value="http://www.pvrcinemas.com/swf/header.swf">
+      <param name="wmode" value="transparent">
+      <embed src="http://www.pvrcinemas.com/swf/header.swf" quality="high" width="940" height="150" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+    </object>
+  </span>
+</div>
+
+<!-- login module -->
+  <div class="vm_loginpopup" id="vm_loginpopup" style="display:none;">
+    <p onclick="$('#vm_loginpopup').css({ display:'none'});"><img src="images/close_btn.gif" alt=""></p>
+    <form method="post" action="login?next=page" onsubmit="return check_login_form_floating();">
+      <div class="vmp_content">
+        <span class="vmp_loginfield">
+              <span class="vmp_logintxt">Email</span>
+              <span class="vmp_logininput"><input type="text" name="email" id="floating_email" class="inputlogin"></span>
+        </span>
+        <span class="vmp_loginfield">
+              <span class="vmp_logintxt">Password</span>
+              <span class="vmp_logininput"><input type="password" name="password" id="floating_password" class="inputlogin"></span>
+        </span>
+        <span class="vmp_loginfield">
+              <span class="vmp_logintxt">&nbsp;</span>
+              <input type="hidden" name="submit" value="login">
+              <span class="vmp_logininput"><input type="image" src="images/vmp_submitbtn.gif" alt="" name="submit" value="login"> &nbsp; <tt><a href="http://www.pvrcinemas.com/register">Sign Up</a></tt></span>
+        </span>
+        <span class="vmp_loginfield">
+              <span class="vmp_logintxt">&nbsp;</span>
+<!--               <span class="vmp_logininput"><input type= checkbox /> Remember me<br /> -->
+                  <a href="http://www.pvrcinemas.com/forgot_password">Forgot your password?</a>
+              </span>
+        
+      </div>
+    </form>
+  </div>
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+<!-- Cross domain communication channel file for interaction between pvrcinemas and facebook-->
+<script>
+  FB_RequireFeatures(["XFBML"], function() {
+  FB.Facebook.init("8877835ac4524832d3cb4343337d9086", "http://www.pvrcinemas.com/web/facebook/xd_receiver.html");
+  });
+</script>    <div id="parentcontent">
+      <div class="content">         <div class="col_b">
+           <div class="booking_module">
+            <div class="booking_head"> 
+                <ul>
+                  <li class="active">
+                    <big></big>
+                    <span class="booking">
+                     Privacy <b>Policy</b>                    </span>
+                    <cite class="last"></cite>
+                  </li>
+                </ul>
+              <em><img src="images/right_curve.gif" alt="Right Curve"></em>
+            </div>
+            <div class="movie_module">
+              <div class="about_pvr">
+                <span class="booking"><div>INTRODUCTION&nbsp;</div>
+<div>&nbsp;</div>
+<div>Your privacy is important to <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a>. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. This information helps us improve your movie going experience with better content, services and opportunities. This policy tells you about the information gathering and dissemination that we conduct. As we continue to grow, this policy may change, so please check back periodically for updates.</div>
+<div>THE INFORMATION WE COLLECT&nbsp;</div>
+<div>&nbsp;</div>
+<div>We ask our users to register when they use the <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> site and services (collectively, the "Service"). Through our online registration process, we collect a variety of information about the user, which may include, among other things, name of the person registering, location, gender, phone number, email address, user name and password. <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> may also request and collect other information from time to time.</div>
+<div>&nbsp;</div>
+<div>We automatically track information related to use of the Service. This information may include, among other things, URL tracking information, what browser the user is using, the user's IP address, pages and ads viewed by a user and selections or other actions taken on the Service. We may track usage through cookies. A cookie is a small data file written to a user's hard drive. Cookies may be used to, among other things, allow automated log-in and may contain information such as a Login ID or other information about preferences or Internet use. Third party advertisers that we work with may also place cookies on browsers of users of our Service.</div>
+<div>&nbsp;</div>
+<div>We also collect information about your movie preferences. For example, we may collect, among other things, information such as what movies you purchase tickets to or what theatres you attend. We may save information sent or posted to the Service. For example, we may save messages posted in our chat rooms or other message areas or feedback left for other users. We may collect correspondence, such as emails or letters, sent to us. We may collect user responses to online polls, ads, surveys, electronic newsletters and questionnaires.</div>
+<div>&nbsp;</div>
+<div>DELETION OF INFORMATION AND RECORDS</div>
+<div>&nbsp;</div>
+<div>While <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> may track and store information, <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> shall not be obligated to do so and may delete any information and records, in whole or in part, at any time.</div>
+<div>What we use the information for :</div>
+<div>&nbsp;</div>
+<div>We use the demographic information to enhance your user experience by, among other things, delivering you content that is relevant to your interests. We may use the contact information you provide us to notify you of new services or special deals that we or our partners are offering, to distribute movie related information to you or to conduct surveys or other similar activities. When you register with us, you may choose to opt-out of receiving these notices or mailings from <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> at the time of registration.</div>
+<div>&nbsp;</div>
+<div>pvrcinemas.com does not sell or rent personal information about its customers to any third parties at this time. <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> does, however, perform statistical analyses of customer usage in order to measure interest in, and use of, the various parts of the Company's web site, and the Company may share that information with current and prospective advertisers, and other interested third parties. This information is aggregated data only (such as statistics), and contains no personally identifiable information whatsoever.</div>
+<div>&nbsp;</div>
+<div><a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> strives to protect the personally identifiable information of the users.</div>
+<div>&nbsp;</div>
+<div>pvrcinemas.com may disclose the personally identifiable information only on:</div>
+<div>&nbsp;</div>
+<div>expressed authorisation of the user to do so</div>
+<div>the provision of the requested service demands so</div>
+<div>requirements to comply with the governing law &gt;</div>
+<div>opportunity to add value to the user</div>
+<div>However, pvrcinemas.com may share aggregated statistical information about the use of the <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> web site with partners and associates for the purpose of research and analysis. Even in these cases, <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> will strive to protect the individual users' personally identifiable information.</div>
+<div>&nbsp;</div>
+<div>Please note that <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> may sell, share or transfer personally identifiable information about its customers with any successor in interest (e.g. if the Company is sold to a third party). Additionally, in certain cases, <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> may be required to disclose your personally identifiable information when the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation.</div>
+<div>&nbsp;</div>
+<div><a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> users should also be aware that if they voluntarily disclose personal information in any chat areas or bulletin boards within the <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> web site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third parties. This third-party conduct is out of the control of the Company.</div>
+<div>&nbsp;</div>
+<div>SECURITY</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>pvrcinemas.com has implemented security measures to protect against the loss, misuse and alteration of the information under our control. We protect the secure areas of our Site with a firewall. Although <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> has implemented adequate security measures, the site has contracted Verisign to provide an extra assurance of security. Although, the site is completely virus-free, the User is advised to employ virus scans for extra security, as <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> is not liable for any virus picked up at the time of transmission.&nbsp;</div>
+<div>CHOICE/OPT-OUT</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>pvrcinemas.com allows users the option to opt-out of receiving communications from us and our partners at registration. If you decide later to opt-out you can contact us by sending e-mail to <a href="mailto:admin@pvrcinemas.com">admin@pvrcinemas.com</a> .</div>
+<div>GENERAL INFORMATION</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Please note that <a target="blank" href="www.pvrcinemas.com">pvrcinemas.com</a> tries its best to collect data from the most authentic source. However, at any stage, pvrcinemas.com is not liable for any loss, monetary or otherwise, resulting from the usage of their data.</div>
+<div>QUESTIONS</div>
+<div>If you have any questions about this privacy statement, you can email us at <a href="mailto:admin@pvrcinemas.com">admin@pvrcinemas.com </a>.&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>PVR LOGO</div>
+<div>PVR is a registered trademark of PVR Limited</div></span>
+              </div>
+            </div>
+            <big><img src="images/bottom_curve.gif" alt="Bottom"></big>
+          </div>
+        </div><div class="col_a"><div class="adbox" style="cursor:pointer;"><object codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="180" height="350">
+			      <param name="movie" value="http://www.pvrcinemas.com/documents/1272701439.swf">
+			      <param name="wmode" value="transparent">
+			      <param name="quality" value="high">
+			      <embed src="http://www.pvrcinemas.com/documents/1272701439.swf" quality="high" width="180" height="350" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+			    </object></div></div><div class="col_c">
+  <div id="footerLinks">
+    <a href="feedback">Feedback</a> | 
+    <a href="page?page=contact">Contact us</a> | 
+    <a href="bulkbooking">Bulk Booking</a> | 
+    <a href="page?page=terms">Terms &amp; Conditions</a> | 
+    <a href="page?page=privacy">Privacy policy</a> | 
+    <a href="maplocation">Mapping Location</a> | 
+    <a href="career">Careers</a> |
+    <a href="page?page=faq">FAQs</a> | 
+    <a href="page?page=site">Site Map</a>
+  </div>
+  <tt>
+    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=secure.pvrcinemas.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+    <!-- <a target="VRSN_Splash" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PVRCINEMAS.COM&amp;lang=en">
+      <img border="true" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" oncontextmenu="return false;" src="images/getseal_new.jpeg" name="seal"/>
+    </a> -->
+  </tt>
+  <div id="footerCopy">
+    Copyright 2009 © PVR CINEMAS. All rights reserved.
+  </div>
+  <div id="footerCopy" style="margin-right:-3px; position:relative;">
+    This site is best viewed with Internet Explorer 7.0 or higher; Firefox 2.0 or higher; Chrome at a minimum screen resolution of 1024x768.
+  </div>
+</div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19434392-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></div></div></div></div>
+
+</body></html>
