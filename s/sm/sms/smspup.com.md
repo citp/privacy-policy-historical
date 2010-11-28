@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smspup.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316152110id_/http%3A//smspup.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smspup.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128043639id_/http%3A//smspup.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,9 @@ For more information regarding this policy please contact us at:
 SMSPUP Privacy Officer   
 C/- Empowered Communications Pty Ltd   
 Ground Floor, 102 York Street   
-South Melbourne VIC 3205, Australia 
+South Melbourne VIC 3205, Australia   
+Support Hotline: 1300 784 477   
+Fax: 03 9940 1650   
 
-Phone: 03 9940 1600 Fax 03 9940 1650  
+
 [privacy@SMSPup.com.au](mailto:privacy@smspup.com?Subject=Privacy)
