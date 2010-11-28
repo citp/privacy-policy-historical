@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubejoy.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610235433id_/http%3A//tubejoy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubejoy.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129002128id_/http%3A//tubejoy.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
