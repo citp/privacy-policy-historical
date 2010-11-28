@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicproducer.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210024111id_/http%3A//www.sonicproducer.com/iprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicproducer.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128214854id_/http%3A//sonicproducer.com/iprivacy.html) for the most accurate reproduction.*
 
 # SonicProducer.com
 
@@ -11,4 +11,4 @@ By using this site and any of its derived work, you agree that you are over the 
 We uphold and comply fully with the Children's Online Protection Act (COPPA). For children and persons under the age of 13, UNDER NO CIRCUMSTANCE ARE YOU ALLOWED TO SUBMIT ANY TYPE OF DEMOGRAPHIC, PERSONAL, PSYCHOGRAPHIC, OR BILLING/FINANCIAL INFORMATION. Neither us nor our employees knowingly collect information from persons under the age of 13. We do not and will never collect nor distribute this type of information through third parties, with the exception of obeying the legal process.  
 You can unsubscribe form our mailings at any time. Your email address will never be given out to any third party.  
 We reserve the full right to modify this privacy policy at any time.  
-Any inquires need to go to: dave@silverclickmedia.com
+Any inquires need to go to: admin@sonicproducer.com
