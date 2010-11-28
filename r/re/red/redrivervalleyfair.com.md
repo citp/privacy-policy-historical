@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the redrivervalleyfair.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904005155id_/http%3A//www.redrivervalleyfair.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrivervalleyfair.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128071258id_/http%3A//www.redrivervalleyfair.com/privacypolicy.html) for the most accurate reproduction.*
 
-# temp
+# Red River Valley Fair Association
 
-**PRIVACY POLICY**
-
-The Red River Valley Fair Association has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Red River Valley Fair Association website.  
+The Red River Valley Fair Association has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Red River Valley Fair Association website.   
 
 **  
 Subscription services**  
