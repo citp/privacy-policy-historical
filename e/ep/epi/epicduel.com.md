@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the epicduel.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209095531id_/http%3A//www.epicduel.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicduel.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128134414id_/http%3A//www.epicduel.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # EpicDuel - Privacy Policy
 
-**  
-REVISED December 11, 2009**
+REVISED December 11, 2009
 
- **BattleOn EpicDuel LLC** provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. ****If you have questions or concerns regarding this statement, you should first contact Courtney Nawara at. 
+**BattleOn EpicDuel LLC** provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. ****If you have questions or concerns regarding this statement, you should first contact Courtney Nawara at. 
 
 We are also aware, that due to our content we may have some younger users on our site. We recognize the need to provide additional protection to those younger users. The Children’s Online Privacy Protection Act ('COPPA') requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. We explain this information under the Children’s Privacy Policy section below. 
 
@@ -21,16 +20,20 @@ We are also aware, that due to our content we may have some younger users on our
 
 Information You Provide to Us And How We Use This Information
 
-**Chat Logs of Users**  
+### **Chat Logs of Users**
+
 BattleOn EpicDuel creates and retains logs of all chat conversations (both private and public) between users ('Chat Content'), as well as private game play patterns and other activity of users within Company games. Additionally, you acknowledge and grant permission to Company to review, monitor, disclose, censor, delete or otherwise remove Chat Content and other private user activity within Company games for the purpose of preventing breaches of this Agreement and of other Company prohibitions on unlawful or abusive activity. Accordingly, you acknowledge that you have no privacy rights whatsoever in Chat Content or any other content that you create in Company games.
 
 **Free Accounts**  
-BattleOn EpicDuel has a large portion of their games available to the users for free. In order to register a character for the free version of the game, the only information that BattleOn EpicDuel collects is the user’s e-mail address if the user is over 13 years of age. The e-mail address is used for the following purposes:  
-1\. To send a confirmation notice to the user of their character registration and password information.  
-2\. Upon the user’s request, to send the user password information when the user has lost or forgotten the password.  
-3\. In response to any question, concerns or problem that the user contacted BattleOn EpicDuel about.   
-4\. To contact the user about any problem with the user’s account or conduct in the game.  
-5\. To send out a newsletter*. Out of respect for your privacy, we provide a way to unsubscribe. Please see the Choice and Opt-out section below. 
+BattleOn EpicDuel has a large portion of their games available to the users for free. In order to register a character for the free version of the game, the only information that BattleOn EpicDuel collects is the user’s e-mail address if the user is over 13 years of age. The e-mail address is used for the following purposes:
+
+  1. To send a confirmation notice to the user of their character registration and password information.
+  2. Upon the user’s request, to send the user password information when the user has lost or forgotten the password.
+  3. In response to any question, concerns or problem that the user contacted BattleOn EpicDuel about. 
+  4. To contact the user about any problem with the user’s account or conduct in the game.
+  5. To send out a newsletter*. Out of respect for your privacy, we provide a way to unsubscribe. Please see the Choice and Opt-out section below. 
+
+
 
 * BattleOn EpicDuel games are unique in a sense that we design and run numerous special events that keep the game constantly fresh, challenging, fun and interesting for our users. Some of these events coincide with actual real life holidays, such as Valentine’s Day, other events are made up as we go along. We use the newsletter to notify our users of all the current events, changes, improvements, upgrades, new characters, etc. In addition, occasionally we may notify our users of new products and services that BattleOn EpicDuel has designed and made available exclusively to our users. In addition, BattleOn EpicDuel may send promotional items and advertisements from the sponsors, however BattleOn EpicDuel will not divulge your personal information to the sponsor directly.
 
@@ -40,10 +43,13 @@ By registering for BattleOn EpicDuel , you consent to: a) receive periodic email
 If you no longer wish to receive our email newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in any newsletter email message. We also offer an opportunity to opt-out of certain communications on our Manage Account web pages, or you may contact us at (813) 774-8493, or use the email or physical address listed below to opt-out.
 
 **Subscriber Accounts**  
-A Subscriber Account is a paid membership account that provides our users with additional access and privileges while playing BattleOn EpicDuel . The Subscriber Account requires and uses all of the information listed under the Free Account in the same manner. In addition to the above, however, we will require you to provide the following information:  
-1) First and last name  
-2) Address, city, state and zip code  
-3) Home telephone number
+A Subscriber Account is a paid membership account that provides our users with additional access and privileges while playing BattleOn EpicDuel . The Subscriber Account requires and uses all of the information listed under the Free Account in the same manner. In addition to the above, however, we will require you to provide the following information:
+
+  1. First and last name
+  2. Address, city, state and zip code
+  3. Home telephone number
+
+
 
 We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.
 
