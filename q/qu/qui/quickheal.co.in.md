@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128195941id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
 
 # Quick Heal
 
-| › | [About Us ](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/about.asp)  
+| › | [About Us ](https://web.archive.org/web/20101128195941id_/http%3A//www.quickheal.co.in/about.asp)  
 ---|---  
 |   
-› | [Contact](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/contact.asp)  
+› | [Contact](https://web.archive.org/web/20101128195941id_/http%3A//www.quickheal.co.in/contact.asp)  
 |   
-› | [Sitemap ](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/sitemap.asp)  
+› | [Sitemap ](https://web.archive.org/web/20101128195941id_/http%3A//www.quickheal.co.in/sitemap.asp)  
 |   
   |    
   | 
@@ -79,10 +79,6 @@ International Support Centre
 | :  |  Maharashtra  
  |  Country  
 | :  |  India  
- |  Phone  
-| :  |  +91-0253-3041888  
- |  Toll Free Number  
-| :  |  1800-233-3733 (For Indian Users having BSNL/MTNL/Reliance landline connection.)  
  |  Fax  
 | :  |  +91-020-41402805  
  |  Email  
