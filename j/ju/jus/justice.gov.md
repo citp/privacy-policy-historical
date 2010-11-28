@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606012200id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128025738id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
 
 # USDOJ: Privacy Policy
 
