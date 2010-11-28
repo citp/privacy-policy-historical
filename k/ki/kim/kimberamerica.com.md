@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimberamerica.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524191915id_/http%3A//www.kimberamerica.com/resources/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimberamerica.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128084435id_/http%3A//www.kimberamerica.com/resources/privacy_policy.php) for the most accurate reproduction.*
 
 # Kimber - 1911 Pistols & Rifles
 
