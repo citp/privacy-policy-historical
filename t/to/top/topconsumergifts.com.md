@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topconsumergifts.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421023726id_/http%3A//www.premiumproductsonline.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2384name%26catalog_id%3D13304%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topconsumergifts.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128223406id_/http%3A//topconsumergifts.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14861%26gift%3D71) for the most accurate reproduction.*
 
-# Premiumproductsonline
+# Topconsumergifts
 
-**December 11, 2009**
+**November 22, 2010**
 
 **Our Commitment To Privacy**
 
@@ -22,6 +22,10 @@ The term "Information" is used in this policy to refer to both types of informat
 
 We use your Information to administer our business activities, provide customer services such as technical support, distribute information about changes to our site, and send you, and enable others to send you, information about products and services that may be of interest to you and to contact you or use your Information for any other purpose. We send communications to you ourselves, and your Information also is shared with other organizations that may contact you for any purpose by email, phone, text message, U.S. mail or any other means of communication.
 
+In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies. A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements. The cookie is not associated with your personally identifiable information.
+
+One of our third-party cookie partners is Datran Media (for Datran Media’s privacy policy, please visit http://www.datranmedia.com/privacy/). To opt out of Datran Media’s cookie-based marketing program, click [here](http://rt.displaymarketplace.com/optout.html).
+
 **OPT-IN NOTICE: By Participating, You Expressly "Opt In" To Receive Information And Grant Us Permission To Share Your Information**
 
 By signing up for our Program you expressly opt in to receive future information about products and services from us and from a variety of advertisers to whom we may provide your Information. We will share your personal information with third parties, including but not limited to our advertisers, BigRewards.com, ShoppingBag.com and HotSurveys.com (collectively Media Network, Inc.) for any reason we choose, including without limitation for the following purposes: (1) to operate our Program (including the transfer of the information to advertisers or to third parties who maintain on our behalf a list of persons having registered with our Program), (2) to permit advertisers or other third parties to use your Information for any purpose such as contacting you by email, phone, text message, U.S. mail or any other means of communication for any purpose, (3) to confirm you have completed all of the necessary steps to receive your gift, and (4) as we are required to do by law, including to notify the IRS that you received your gift. As a result, we will transfer your Information to third parties whose privacy policies and practices are beyond our control.
@@ -35,6 +39,8 @@ By subscribing, you are expressly consenting to receive pre-recorded telephone m
 To unsubscribe: You may cancel your subscription and revoke your consent to receive pre-recorded telephone calls at any time by either (a) utilizing the opt-out procedure included in any message you receive; or (b) by calling 800-269-0281 
 
 NOTE: WCA does not send offers via email, and is unable to honor any unsubscribe requests sent by other companies. If you are receiving offers via email please follow the unsubscribe instructions included therein. 
+
+Text messages: By accepting the terms and conditions of this Site and providing your cell phone number, you are expressly consenting to receive SMS, wireless or other mobile offering to your cell phone from us and other organizations. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request. 
 
 **Special Note About Information You Provide Directly To Our Advertisers.**
 
