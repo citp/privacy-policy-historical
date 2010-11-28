@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snempire.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419062113id_/http%3A//snempire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snempire.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128123729id_/http%3A//snempire.com/privacy) for the most accurate reproduction.*
 
-# Social Network Empire | Privacy Policy
+# Social Network Empire | Terms of Service
 
-**_ Privacy Policy_**
+** Privacy Policy**
 
 Your privacy is very important to us.  We want to make your experience on the internet as enjoyable and rewarding as possible, and we want you to use the internet's vast array of information, tools, and opportunities with complete confidence.
 
@@ -62,4 +62,4 @@ YOU MUST BE EIGHTEEN (18) YEARS OF AGE OF OLDER TO ACCESS THIS WEB SITE.  IF YO
 
 ** Revisions to This Policy**:  Our Company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.  Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes.  Please consult this privacy statement prior to every use for any changes.
 
-Last Updated:  September 17th, 2008.
+Last Updated:  July 27th, 2010.
