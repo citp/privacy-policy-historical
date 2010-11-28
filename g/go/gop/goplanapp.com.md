@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the goplanapp.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601061648id_/http%3A//goplanapp.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goplanapp.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128051128id_/http%3A//goplanapp.com/home/privacy) for the most accurate reproduction.*
 
 # Goplan: Privacy Policy
+
+Hi! We're running a Black Friday → Cyber Monday promotion! [Check it out here](https://web.archive.org/home/blackfriday) \- the deal ends in . 
 
 ## Our privacy policy
 
