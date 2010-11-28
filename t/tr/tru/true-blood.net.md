@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210453id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129002655id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | True-Blood.net - True Blood season 3 news, spoilers, & photos!
+# Privacy Policy | True-Blood.net - True Blood season 4 news, spoilers, & photos!
 
 This is the web site of **True-Blood.net**.
 
