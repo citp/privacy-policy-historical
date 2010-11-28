@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612193912id_/http%3A//www.stlouisfed.org/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128212941id_/http%3A//stlouisfed.org/privacy/index.cfm) for the most accurate reproduction.*
 
 # St. Louis Fed | Web Site Privacy Policy
 
@@ -40,7 +40,7 @@ A cookie is a text file that a web site can send to your browser and which may t
 
 This analysis does not involve personally identifiable information. It is used only for the purpose of helping us understand and better meet our audiences' needs. Some aggregate web site analysis is performed for us by Google Analytics (<http://www.google.com/analytics/>), and may involve the use of cookies set by Google. For Google's Privacy policy, see <http://www.google.com/privacy.html>.
 
-  2. If you register for a Research user account, a transient, memory-resident "cookie" will be invoked when you log in to your user account and will disappear when your browser is closed. You are not required to register for a user account to use this site.
+  2. If you register for a Research user account, a transient, memory-resident "cookie" will be invoked when you log in to your user account and will disappear when your browser is closed. If you check the 'Stay logged in' option, the cookie will persist for a maximum of 2 weeks before another login is required. You are not required to register for a user account to use this site.
   3. Sometimes a third-party contractor will use cookies on one of the sites it creates and manages for us—for example, our Careers site.
   4. For YouTube videos that are visible on our site, a persistent cookie is set by third party provider, YouTube, when you click to play the video. YouTube's privacy policy regarding these persistent cookies can be read here: <http://www.youtube-nocookie.com/t/privacync>. If you would like to view a video without the use of persistent cookies, a link to download the video file is provided just below the video, if it is available.
   5. You can set your browser to notify you before you receive a cookie, giving you the opportunity to decide whether to accept it or not. You can also set your browser to not accept cookies at all. If you do so, however, some areas of some sites (including ours) may not operate properly. 
