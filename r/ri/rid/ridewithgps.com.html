@@ -1,14 +1,20 @@
-<!--The following is the downloaded HTML source of the ridewithgps.com privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212110440id_/http%3A//ridewithgps.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ridewithgps.com privacy policy that was archived on 2010-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128221750id_/http%3A//ridewithgps.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-type">
-<meta content=" cycling, biking, elevation, motorcyling, motorcycle, sportbike, motorcycle ride, ride, cycling routes, cyclist, bike, calculate distance, plan trip, map, gpx, gps, mapping, plot, plotting, pedometer" name="keywords">
-<meta content="Privacy policy for ridewithgps.com. Ride with GPS is a recreational route sharing community for cyclists, motorcyclists, runners and hikers. Plan, share, and analyze your routes and rides!" name="description">
+<meta content=" cycling, biking, elevation, motorcyling, motorcycle, sportbike, motorcycle ride, motorcycle routes, bicycle ride, bicycle routes, cycling routes, cyclist, bike, calculate distance, plan trip, trip planner, map, gpx, gps, mapping, plot, plotting, pedometer, route, cycling training, bicycling training, biking training, bike training, training plans, performance analysis, elevation profiles" name="keywords">
+<meta content="Privacy policy for ridewithgps.com. The best way to share bike routes online.  We are not just for bicyclists.  We welcome motorcyclists, runners and hikers as well. Plan, share, and analyze your bike routes, bike rides and bicycle routes!" name="description">
 <title>Privacy</title>
 <link href="/favicon.ico?2000000000" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link href="/stylesheets/base_packaged.css?1260589945" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/base_packaged.css?1289533641" media="screen" rel="stylesheet" type="text/css">
 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  //<![CDATA[
+    if(navigator.userAgent.indexOf('Linux') != -1)
+      document.write('<link rel="stylesheet" href="/stylesheets/linux.css?1000000000" type="text/css" />');
+  //]]>
+</script><link rel="stylesheet" href="/stylesheets/linux.css?1000000000" type="text/css">
 <!--[if IE 6]>
 <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/ie6.css" />
 <![endif]
@@ -17,21 +23,44 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/ie7.css" />
 <![endif]
 <![endif]-->
-<script src="/javascripts/base_packaged.js?1260589945" type="text/javascript"></script>
-
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/ie8.css" />
+<![endif]
+<![endif]-->
 </head>
 <body>
 <div id="container">
 <div id="header">
 <div id="logo" onclick="window.location='/'">
 <a href="/changelog">
-v1.0.5c
+v1.1.27
 </a>
 </div>
 <div id="login">
-<form action="/login" method="post" name="login">
+<a class="fbconnect_login_button thickbox" href="#TB_inline?height=250&amp;width=480&amp;inlineId=login_form" id="open_login_form">
+Log in
+</a>
+or
+<a href="/signup">Sign up</a>
+</div>
+<div id="login_form" style="display:none">
+<div class="or">Or</div>
+<div class="fb_login_cell left">
+<h2>Login using Facebook</h2>
+<br>
+<div class="spacer"></div>
+<a class="fb_button" href="https://graph.facebook.com/oauth/authorize?client_id=253239687628&amp;redirect_uri=http://ridewithgps.com/create_facebook_session&amp;scope=publish_stream,email,offline_access">Click Here!</a>
+</div>
+<div class="rwgps_login_cell left">
+<form action="https://ridewithgps.com/login" method="post" name="login">
+<label for="login[email]">Email:</label>
+<br>
 <input class="noline" id="email" name="login[email]" type="text">
+<div class="spacer"></div>
+<label for="login[password]">Password:</label>
+<br>
 <input class="noline" id="password" name="login[password]" type="password">
+<div class="spacer"></div>
 <input class="button" type="submit" value="Sign In">
 <a href="#" id="forgot_password">
 Forgot?
@@ -42,11 +71,12 @@ Keep me logged in
 </div>
 </form>
 </div>
+<div class="clear"></div>
+</div>
 <div id="slogan">
-The route sharing and ride analysis tool
+Mapping and performance analysis for cyclists
 </div>
 </div>
-
 <div id="menu_bar">
 <div class="right" id="units_select" style="position:relative">
 <select id="units" name="metric_units">
@@ -59,8 +89,8 @@ The route sharing and ride analysis tool
 <li>
 <a class="add" href="/add">Add Content</a>
 <ul>
-<li><a href="/routes/new" class="draw">Draw Route</a></li>
-<li><a href="/routes/upload" class="gpxtcxkml">GPX/TCX/KML</a></li>
+<li><a href="/routes/new" class="draw">Map Ride</a></li>
+<li><a href="/routes/upload" class="gpxtcxkml">GPX, TCX, KML</a></li>
 <li>
 <a class="garmin_sync" href="/trips/garmin_sync">
 Garmin Sync
@@ -68,7 +98,7 @@ Garmin Sync
 </li>
 <li>
 <a class="log_activity" href="/trips/new">
-Log Activity
+Log Ride
 </a>
 </li>
 <li>
@@ -77,36 +107,24 @@ Log Activity
 </ul>
 </li>
 <li>
-</li>
-<li>
-<a class="search" href="#">
-Search
-</a>
+<a href="/search_box?height=200&amp;no_close_on_blur=true&amp;width=390" class="search thickbox">Search</a>
 <ul>
-<li><a href="/routes" class="search_routes">Routes</a></li>
+<li><a href="/routes" class="search_routes">Bike Rides</a></li>
 <li>
 <a class="search_users" href="/users">
-Users
+Find Riders
 </a>
 </li>
 </ul>
 </li>
 <li class="feedback">
-<a href="/idea_box?height=560&amp;no_close_on_blur=true&amp;width=750" class="thickbox">Feedback</a>
+<a href="/idea_box?height=365&amp;no_close_on_blur=true&amp;width=750" class="thickbox">Feedback</a>
 </li>
 <li class="invite">
 <a href="/invite_a_friend_form?height=295&amp;width=450" class="thickbox">Invite a Friend</a>
 </li>
 </ul>
-<div id="ds_h">
-<div class="o1"></div>
-<div class="o2"></div>
-<div class="o3"></div>
-<div class="o4"></div>
-<div class="o5"></div>
 </div>
-</div>
-
 <div id="content">
 <div id="pages_col">
 <div class="std_page" id="privacy">
@@ -144,7 +162,7 @@ Users
 <div id="footer">
 <ul>
 <li class="first">
-© 2009 Ride with GPS
+© 2010 Ride with GPS
 <div class="clear"></div>
 </li>
 <li>
@@ -162,6 +180,12 @@ Contact
 <li>
 <a href="/updates">
 Updates
+</a>
+<div class="clear"></div>
+</li>
+<li>
+<a href="/issues">
+Bug Reports
 </a>
 <div class="clear"></div>
 </li>
@@ -208,37 +232,54 @@ Support Ride with GPS
 <div class="clear"></div>
 </li>
 </ul>
+<div class="clear"></div>
+<p style="text-align: center">
+<strong>Ride With GPS is the premier online route mapping tool for cyclists, motorcyclists or anyone wanting a superior route planning experience.  Additionally, we offer unparalleled cycling performance analysis and training features!</strong>
+</p>
 </div>
+</div>
+<div id="ds_h">
+<div class="o1"></div>
+<div class="o2"></div>
+<div class="o3"></div>
+<div class="o4"></div>
+<div class="o5"></div>
+</div>
+<script src="/javascripts/base_packaged.js?1289533641" type="text/javascript"></script>
 
-</div>
 <script type="text/javascript">
-//<![CDATA[
-
-        jQuery(document).ready(function(){
-          jQuery.Juggernaut.initialize({"port":8080,"bridge_name":"juggernaut","client_id":null,"swf_address":"/juggernaut/juggernaut.swf?1111111111","reconnect_attempts":3,"ei_swf_address":"/juggernaut/expressinstall.swf","reconnect_intervals":3,"flash_version":8,"width":"0px","session_id":"0b722015b0fcf6d1524d81b5657c5c81","flash_color":"#fff","host":"ridewithgps.com","debug":false,"height":"0px","swf_name":"juggernaut_flash"})
-        });
-      
-//]]>
+  //<![CDATA[
+    var _gaq = _gaq || [];
+    _gaq.push(function() {
+      pageTracker = _gaq._createAsyncTracker('UA-3033335-1', 'pageTracker');
+      pageTracker._trackPageview();
+    });
+    
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  //]]>
 </script>
 <script type="text/javascript">
   //<![CDATA[
     Application.init();
   //]]>
 </script>
-<script type="text/javascript">
+
+<!--[if lte IE 6]>
+<script src='/javascripts/jquery/jquery.cookie.js' type='text/javascript'></script>
+<script type='text/javascript'>
   //<![CDATA[
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  //]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-  //<![CDATA[
-    try {
-    var pageTracker = _gat._getTracker("UA-3033335-1");
-    pageTracker._trackPageview();
-    } catch(err) {}
+    $(function(){  
+      var sent = $.cookie('ie6upgrade');
+      if (sent != 'true') alert ('This site looks a LOT better in Firefox, Safari, or Chrome. Please upgrade your browser if you can.')
+      $.cookie('ie6upgrade', 'true');  
+    });
   //]]>
 </script>
+<![endif]-->
 
 
 </body></html>
