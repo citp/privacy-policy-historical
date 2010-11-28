@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209011712id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128025720id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
 
-# PeerFly.com Affiliate Network - Taking You To New Heights!
+# PeerFly :: We Have an Offer for That. ™
 
 Your Privacy
 
