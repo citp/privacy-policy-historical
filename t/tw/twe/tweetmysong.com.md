@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetmysong.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611064117id_/http%3A//tweetmysong.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetmysong.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128085305id_/http%3A//tweetmysong.com/Privacy.htm) for the most accurate reproduction.*
 
 # Default Page Title
 
