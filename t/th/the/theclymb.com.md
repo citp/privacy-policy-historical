@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608105702id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128121847id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
 # The Clymb >> Member Pricing On the Planet's Most Sought-After Outdoor Brands ™
 
-Xterra // ends June 7th 9 AM PST. 
+Outdoor Gifts Event // ends November 30th 9 AM PST. 
 
 ### OVERVIEW
 
