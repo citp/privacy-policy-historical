@@ -1,79 +1,72 @@
-> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231031945id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128090004id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
 
-# Celebrity gossip juicy celebrity rumors Hollywood gossip blog from Perez HiltonPRIVACY NOTICE
+# INTERNET PRIVACY NOTICE | PerezHilton.com
 
-**Last updated: May 19, 2008.**
+| 
 
-PerezHilton.com respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. **By visiting PerezHilton.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.**
+**Last updated: October 6, 2010.**
 
-By continuing to use the PerezHilton.com Website after we post any changes to this Privacy Notice, you accept the Privacy Notice as modified.
+PerezHilton.com (also referred to herein as "us," "we," and the "Website") respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice (the "Privacy Notice") explains how we collect, use, and safeguard information on this website. Please read this Privacy Notice carefully. **By visiting PerezHilton.com, you acknowledge and accept the practices, terms, and conditions described in this Privacy Notice and the PerezHilton Conditions of Use (the "Conditions of Use"), which is located at the URL<http://perezhilton.com/?page_id=3706> and agree that any and all disputes, including, without limitation, those disputes arising over privacy, between you and PerezHilton.com, its parent company(ies), subsidiary(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assignees, will be subject to terms and conditions of this Privacy Notice and/or the Conditions of Use, as applicable**. 
+
+By visiting PerezHilton.com after we post any changes to this Privacy Notice and/or the Conditions of Use, you accept the Privacy Notice and/or the Conditions of Use, as applicable, as modified.
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law,  permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.  If you are a California resident and would like to make such a request, please submit your request in writing to:
-
-________________________
+California Civil Code Section 1798.83, also known as the "Shine The Light" law,  permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.  If you are a California resident and would like to make such a request, please submit your request by electronic mail to:
 
 [[info@perezhilton.com](mailto:info@perezhilton.com)] 
 
 **What Personal Information About Customers Does PerezHilton.com Collect?**
 
-The information we learn from customers helps us personalize and continually improve your experience at PerezHilton.com. Here are the types of information we collect: 
+The information we learn about our customers helps us personalize and continually improve at the service and features of PerezHilton.com. Here are the types of information we collect: 
 
-  * **Information You Give Us:** We receive and store any personal and financial information you enter on our Website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future options for you, improving our Website, and communicating with you.
-
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use "cookies," and we obtain certain types of information when your Web browser accesses PerezHilton.com, including your IP address. A number of companies offer utilities designed to help you visit Websites anonymously. Although we will not be able to provide you with a personalized experience at PerezHilton.com if we cannot recognize you, we want you to be aware that these tools exist.
-
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from PerezHilton.com if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.
-
+  * **Information You Give Us:** We receive and may store any personal and financial information you enter on our Website or may give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our services and features. We may use the information that you provide for a variety of purposes, including to respond to your requests, to customize future options for you, to improve the overall quality of the Website, and to communicate with you, among other things.
+  * **Automatic Information:** We may receive and store certain types of information whenever you interact with us. For example, like many other websites, we use "cookies" (described more fully below) to obtain certain types of non-personally identifiable information (i.e., your IP address) when your web browser accesses PerezHilton.com. A number of companies and some web browsers offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience at PerezHilton.com if we cannot recognize you, we want you to be aware that these tools may be available to you.
+  * **E-mail Communications:** To help us make our e-mails more useful and interesting, we may elect to receive a confirmation when you open e-mail from PerezHilton.com, if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.
 
 
 
 **What About Cookies?**
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalized greetings and storage of items in your Shopping Cart between visits.
-
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of PerezHilton.com’s coolest features, and we recommend that you leave them turned on.
-
+  * Cookies are alphanumeric identifiers (i.e., text) that may be delivered by a web server (like PerezHilton.com) to your web browser to enable the delivering web server to recognize your browser for a variety of purposes, including to authenticate your use of or log-in to a secure website, to store and set your website preferences, and to provide you with personalized greetings, among other things, Because cookies are simple text and not "executable," a cookie will not give your computer a virus or other harmful program.
+  * The "Help" portion of the toolbar on most web browsers may tell you how to prevent your web browser from accepting new cookies, how to have your web browser notify you when you receive a new cookie, and how to disable cookies altogether. By disabling cookies altogether, however, you will not be able to take full advantage of some of PerezHilton.com’s coolest features, and we therefore recommend that you leave cookies turned on, or at least instruct your web browser to make an exception for cookies sent to you byPerezHilton.com.
 
 
 
 **Does PerezHilton.com Share The Information It Receives?**
 
-Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below.
+We may allow certain third-party companies to serve ads and/or collect certain anonymous information when you visit the Website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. **To learn more about this behavioral advertising practice and/or to opt-out of this type of advertising, please visit:** [http://networkadvertising.org](http://networkadvertising.org/).
 
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that PerezHilton.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-
-  * **Protection of PerezHilton.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of PerezHilton.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+  * **Third-Party Service Providers:** We may utilize third party companies and/or individuals to perform certain functions on our behalf. Examples include, without limitation, to fulfill orders, to deliver packages, to send postal mail, e-mail, and other correspondence, to remove repetitive information from customer lists, to analyze data, to provide marketing assistance, to sponsor and/or conduct contests, sweepstakes, or promotions, to provide search results and links (including paid listings and links), to process credit card payments, and to provide customer service. These third party service providers may have access to the personal information we possess, but they will only be permitted to use that information they need to perform their specific functions, and will not be authorized by us to use such information for any other purpose.
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy websites, stores, subsidiaries, or business units. As is customary during the course of any such transaction, customer information is generally one of many business assets subject to transfer, but, in the event of such a transfer, personal information remains subject to the promises made in the Privacy Notice applicable thereto (unless, of course, the customer consents otherwise). Similarly, in the unlikely event that all or substantially all of the Website’s assets are acquired by a third party, customer information is likely to be one of the assets transferred as part of that acquisition.
+  * **Protection of PerezHilton.com and Others:** We may release account and other personal information when we believe such a release is necessary and/or appropriate to comply with the law, to prevent or aid in the prevention of any illegal activity or any suspected illegal activity and/or any criminal investigation thereof, to enforce, comply with and/or apply this Privacy Notice, our Conditions of Use, and any of our other agreements, and/or to maintain, protect, and/or enforce the rights, property, or safety of the Website and the Website’s parent company(ies), subsidiary(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assigns, the Website’s users, subscribers, customers, or any others, as applicable. This includes, but is not limited to, the exchange of information with other companies and organizations for fraud protection and credit risk reduction, or in the preparation of and/or during the course of a lawsuit. This does not include the sale, rental, sharing, or other disclosure of personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice or as otherwise prohibited by law.
+  * **Your Consent:** Unless specifically provided for herein, or as otherwise required by law, you acknowledge and agree that you will not receive any notice when the personal information we have collected will be sent to third parties…
 
 
 
-
-**How Secure Is Information About Me?**
+**How Secure Is My Personal Information?**
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-
   * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
-
+  * It is your responsibility to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer and to close the web browser you used.
+  * Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that the personally identifiable information that we collect will never be disclosed to and/or accessed by any third party in a manner that is inconsistent with this Privacy Notice.
 
 
 
 **What Information Can I Access?**
 
-PerezHilton.com gives you access to a broad range of information about your account and your interactions with PerezHilton.com for the limited purpose of viewing and, in certain cases, updating that information. The list of information you can access will change as our Website evolves. 
+PerezHilton.com gives you access to a broad range of information about your account and your interactions with PerezHilton.com for the limited purpose of viewing and, in certain cases, updating that information. The list of information you can access may change as our Website evolves. 
 
 **Are Children Allowed To Use PerezHilton.com?**
 
-PerezHilton.com does NOT sell products for purchase by children. 
+PerezHilton.com does NOT provide services to children or sell products for purchase by children. 
 
 **Conditions Of Use, Notices, And Revisions**
 
-If you choose to visit PerezHilton.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at PerezHilton.com, please contact us with a thorough description, and we will try to resolve it. 
+If you choose to visit PerezHilton.com, your visit, any subsequent visit, and any dispute over privacy or any other matter related to the Website is subject to the terms of this Privacy Notice and the Conditions of Use, which include, among other things, your consent to limitations on any damages you may be entitled to, your agreement to waive any right to a trial you may have and your agreement to arbitrate any disputes, and application of the laws of the State of California. If you have any concern about this Privacy Notice and/or the privacy of your personal information at PerezHilton.com, please contact us with a thorough description of your concern, and we will try to address it. 
 
-Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Our business changes constantly, and our Website, this Privacy Notice and the Conditions of Use are subject to change as well. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but we are not obligated to do so, and you should check our Website frequently to see any changes to any of our policies that may affect you. Unless we specifically state otherwise, the Privacy Notice applies to all personal information that we may have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personally identifiable information collected in the past without attempting to notify those affected customers. 
+
+Comments are closed.
+
+| 
