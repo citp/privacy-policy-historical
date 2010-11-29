@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google.ca privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626102003id_/http%3A//www.google.ca/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google.ca privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129110128id_/http%3A//www.google.ca/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Google Privacy Center
 
@@ -6,7 +6,7 @@
 
 At Google, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. 
 
-We have 5 [privacy principles](https://web.archive.org/web/20100626102003id_/http%3A//www.google.ca/intl/en/corporate/privacy_principles.html) that describe how we approach privacy and user information across all of our products: 
+We have five [privacy principles](https://web.archive.org/web/20101129110128id_/http%3A//www.google.ca/intl/en/corporate/privacy_principles.html) that describe how we approach privacy and user information across all of our products: 
 
   1. Use information to provide our users with valuable products and services. 
   2. Develop products that reflect strong privacy standards and practices. 
@@ -16,4 +16,6 @@ We have 5 [privacy principles](https://web.archive.org/web/20100626102003id_/htt
 
 
 
-This Privacy Center was created to provide you with easy-to-understand information about our products and policies to help you make more informed choices about which products you use, how to use them, and what information you provide to us. 
+This Privacy Center was created to provide you with easy-to-understand information about our products and policies to help you make more informed choices about which products you use, how to use them and what information you provide to us. 
+
+For information and advice on how to help your family stay safe online, see the [Google Family Safety Center](https://web.archive.org/web/20101129110128id_/http%3A//www.google.ca/intl/en/familysafety/). 
