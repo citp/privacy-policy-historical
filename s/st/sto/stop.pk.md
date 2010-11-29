@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the stop.pk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180018id_/http%3A//stop.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stop.pk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129213943id_/http%3A//stop.pk/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Largest Social Network of Pakistan by Pakistanis for Pakistanis
+# PRIVACY POLICY - STOP.PK - One stop for every Pakistani!
+
+  
+
 
 ## The Information We Collect:
 
@@ -30,7 +33,11 @@ Should you have other questions or concerns about this privacy policy, please co
 
 **Disclaimer**
 
-Information on this website shall be deemed accurate and current only as of the date it is posted. Stop.pk specifically disclaims any duty to update.  
+  
+
+
+Information on this website shall be deemed accurate and current only as of the date it is posted. Stop.pk specifically disclaims any duty to update.
+
 This website also contains third-party information and links to other Internet sites. Stop.pk takes no responsibility whatsoever for third-party information. Stop.pk specifically disclaims adoption or incorporation by reference of such information as its own. In addition to links to third party informational sites, Stop.pk has contracted with several external service providers. Though Stop.pk has contractural agreements to ensure confidentiality of information, Stop.pk assumes no responsibility for information that is voluntarily provided.
 
 All images, graphs, text, or other content in this website are, to the extent permitted by law, copyrighted and otherwise proprietary. No reproduction, transmission or other use of this information is permitted without the prior written permission of Stop.pk.
