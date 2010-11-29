@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612054943id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129094227id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
 
 # Affiliate Blogger PRO » Privacy Statement
 
@@ -50,3 +50,6 @@ Affiliate Blogger Pro provides you with the ability to review, correct and delet
 If you have any questions regarding this Privacy Policy please contact us or via email at: privacy@affiliatebloggerpro.com.
 
 This Privacy Policy is effective as of: July 14, 2009
+
+  
+
