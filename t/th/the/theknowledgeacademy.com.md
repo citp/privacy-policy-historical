@@ -1,20 +1,31 @@
-> *The following text is extracted and transformed from the theknowledgeacademy.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705085841id_/http%3A//www.theknowledgeacademy.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknowledgeacademy.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129035043id_/http%3A//www.theknowledgeacademy.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The Knowledge Academy - Empowering the advancement of knowledge 
-
   * [Home](https://web.archive.org/)
   * [About Us](https://web.archive.org/about)
-  * [Courses](https://web.archive.org/courses)
-  * [Training Calendar](https://web.archive.org/training-calendar)
+  * Course Calendar
+    * Course Calendar 1
+      * [ **PRINCE2® Training**](https://web.archive.org/training-calendar/prince2-training)
+      * [ **ITIL® Training**](https://web.archive.org/training-calendar/itil-training)
+      * [ **MSP® Training**](https://web.archive.org/training-calendar/msp-training)
+      * [ **M_o_R® Training**](https://web.archive.org/training-calendar/mor-training)
+      * [ **APMP Training**](https://web.archive.org/training-calendar/apmp-training)
+      * [ **P30® Training**](https://web.archive.org/training-calendar/p3o-training)
+      * [ **Change Management Training**](https://web.archive.org/training-calendar/change-management)
+      * [ **Business Analysis Training**](https://web.archive.org/training-calendar/business-analysis-system-development-training)
+    * Course Calendar 2
+      * [ **Personal Development Training**](https://web.archive.org/training-calendar-softskills/presentation-skills-training-courses)
+      * [ **Management Training**](https://web.archive.org/training-calendar-softskills/introduction-to-management-training)
+      * [ **Project Management Training**](https://web.archive.org/training-calendar-softskills/introduction-to-project-management)
   * [Training Locations](https://web.archive.org/training-locations)
-  * [Trainers](https://web.archive.org/bespoke)
-  * [Onsite](https://web.archive.org/careers)
-  * [Consultancy](https://web.archive.org/categories)
+  * [Clients](https://web.archive.org/clients)
+  * [Onsite](https://web.archive.org/onsite)
+  * [Course Outlines](https://web.archive.org/courses)
+  * [Consultancy](https://web.archive.org/consultancy)
   * [Contact Us](https://web.archive.org/contact-us)
-  * [Terms](https://web.archive.org/terms)
   * [Careers](https://web.archive.org/careers-2)
+  * [Terms](https://web.archive.org/terms)
 
 
 
@@ -50,7 +61,4 @@ You have a right to access all the personal data held about you. To obtain a cop
   * In writing to: The Knowledge Academy Ltd, Orchard Lea, Drift Road, Winkfield, Windsor, Berkshire SL4 4AD 
   * You can call us on this telephone number: 01344 290 198 
 
-  
 
-
-[](https://web.archive.org/web/20090705085841id_/http%3A//www.theknowledgeacademy.com/training-calendar)
