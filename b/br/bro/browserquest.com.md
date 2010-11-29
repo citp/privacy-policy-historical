@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browserquest.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323105417id_/http%3A//www.browserquest.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browserquest.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129181105id_/http%3A//browserquest.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # BrowserQuest - Privacy Policy
 
