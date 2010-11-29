@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salem-news.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419042703id_/http%3A//www.salem-news.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salem-news.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129073903id_/http%3A//salem-news.com/pages/privacy.php) for the most accurate reproduction.*
 
 # SALEM-NEWS.COM PRIVACY STATEMENT
 
@@ -46,7 +46,11 @@ Salem-News.com takes commercially reasonable care in providing secure transmissi
 
 Salem-News.com has a Terms & Conditions of Use Agreement that sets forth the terms and conditions under which Salem-News.com provides information and services to you. The Terms of Use Agreement for use of this Website is available on the Salem-News.com Website. It is your responsibility to read, understand and comply with all terms and conditions of the Terms & Conditions of Use Agreement, as updated from time to time by Salem-News.com in its sole discretion. 
 
-## 9\. YOUR ACCEPTANCE OF THESE TERMS. 
+## 9\. ADVERTISERS COOKIES
+
+.:: Google, as a third party vendor, uses cookies to serve ads on Salem-News.com .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to Salem-News.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+
+## 10\. YOUR ACCEPTANCE OF THESE TERMS. 
 
 By using this Website, you acknowledge and agree to the terms and conditions of this Privacy Statement. If you do not agree to these terms, please do not use this Website. Salem-News.com reserves the right to change or modify the privacy practices that are described herein simply by posting such change, update, or modification on this Website. Any such change, update or modification will be effective immediately upon posting to the Website and Salem-News.com reserves the right to make the revised or changed Privacy Statement effective for information we already have about you, as well as any information we receive in the future. 
 
