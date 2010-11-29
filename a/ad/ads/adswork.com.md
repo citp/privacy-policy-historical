@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adswork.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526134329id_/http%3A//adswork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswork.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129064021id_/http%3A//adswork.com/privacy.php) for the most accurate reproduction.*
 
-# California, United States - AdsWork � Free Ads That Work
+# California, United States - AdsWork � Free Ads Network
 
 **Privacy Policy:**
 
