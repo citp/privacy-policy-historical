@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the unrealitytv.co.uk privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619133642id_/http%3A//www.unrealitytv.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealitytv.co.uk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129023832id_/http%3A//www.unrealitytv.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy @ Unreality TV
+
+## Privacy Policy
 
 Unrealitytv Limited are committed to ensuring that the privacy of those who use this web site is protected. This policy explains how we use the information we collect about you. If you have any queries concerning your personal information or any questions on our use of the information, please contact us at [info@unrealitytv.co.uk](mailto:info@unrealitytv.co.uk).
 
