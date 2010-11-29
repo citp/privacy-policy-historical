@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abivia.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621150955id_/http%3A//www.abivia.net/privacy%3Fml%3D5%26mlt%3Dsystem%26tmpl%3Dcomponent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abivia.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129191527id_/http%3A//www.abivia.net/privacy%3Fml%3D5%26mlt%3Dsystem%26tmpl%3Dcomponent) for the most accurate reproduction.*
 
 # Privacy Policy
 
