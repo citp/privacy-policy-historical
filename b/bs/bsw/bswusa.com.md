@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102160017id_/http%3A//bswusa.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129204849id_/http%3A//www.bswusa.com/policies.asp) for the most accurate reproduction.*
 
 # Professional Studio Equipment for Audio Broadcast and Recording | BSWUSA.com
 
