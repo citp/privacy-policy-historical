@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the tdbanknorth.com privacy policy that was archived on 2009-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090602040657id_/http%3A//www.tdbanknorth.com/bank/privacy_and_security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tdbanknorth.com privacy policy that was archived on 2010-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129122743id_/http%3A//tdbank.com/bank/privacy_and_security.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <title>Protecting Your Privacy</title>
 
 
@@ -17,19 +17,83 @@
 <body>
 <!-- rightnow_noindex_start -->
 
-<!--/inc/banknorthnanotab_header.ihtml-->
+<!--/inc/banknorthnanotab_header.ihtml--><script>
+var MP = {
+<!-- mp_trans_disable_start --> 
+  Version: '1.0.16',
+  Domains: {'es':'espanol.tdbank.com'},		
+  SrcLang: 'en',
+<!-- mp_trans_disable_end -->
+  UrlLang: 'mp_js_current_lang',
+  SrcUrl: unescape('mp_js_orgin_url'),
+<!-- mp_trans_disable_start --> 	
+  init: function(){
+    if (MP.SrcUrl.indexOf('p_js_')==1) {
+      MP.SrcUrl=location.href;
+      MP.UrlLang=MP.SrcLang;
+  }
+},
+getCookie: function(name){
+  var start=document.cookie.indexOf(name+'=');
+  if(start < 0) return null;
+  start=start+name.length+1;
+  var end=document.cookie.indexOf(';', start);
+  if(end < 0) end=document.cookie.length;
+  while (document.cookie.charAt(start)==' '){ start++; }
+  return unescape(document.cookie.substring(start,end));
+},
+setCookie: function(name,value,path,domain){
+  var cookie=name+'='+escape(value);
+  if(path)cookie+='; path='+path;
+  if(domain)cookie+='; domain='+domain;
+  var now=new Date();
+  now.setTime(now.getTime()+1000*60*60*24*365);
+  cookie+='; expires='+now;
+  document.cookie=cookie;
+},
+switchLanguage: function(lang){
+  if(lang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+escape(MP.SrcUrl);
+	document.body.appendChild(script);
+  } else if(lang==MP.SrcLang && MP.UrlLang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+escape(location.href);
+	document.body.appendChild(script);
+  }
+  return false;
+},
+switchToLang: function(url) {
+    var mplink=document.createElement('A');
+	if (mplink.click) { // using location.href will cause IE6 to not report referrer
+		mplink.href=url;
+        document.body.appendChild(mplink);
+        mplink.click();
+	} else {
+	    location.href=url; 
+	}
+}
+<!-- mp_trans_disable_end -->	
+};
+</script>
+
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="leftnavthirdlevel">
  <tbody><tr>
-  <td valign="top"><a href="/default.aspx" target="_top"><img src="../exc/img/logo_tdbanknorth.gif" alt="TD Banknorth" border="0" width="300" height="60"></a><a href="#main"><img src="/exc/img/pixel.gif" width="1" height="1" alt="Skip to main content" border="0"></a></td>
+  <td valign="top"><a href="/default.aspx" target="_top"><img src="/exc/img/logo_tdbank.gif" alt="TD Bank, America's Most Convenient Bank" border="0" width="300" height="60"></a><a href="#main"><img src="/exc/img/pixel.gif" width="1" height="1" alt="Skip to main content" border="0"></a></td>
   <td align="right" valign="bottom" width="100%">
    <table border="0" cellpadding="0" cellspacing="0">
-    <form method="post" action="http://www.tdbanknorth.com/net/gosearch.aspx" name="SEARCH"></form>
+    <form method="post" action="/net/gosearch.aspx" name="SEARCH"></form>
     <tbody><tr>
      <td align="right"><img src="/exc/img/search_slant.gif" height="25" width="8" alt=""></td>
-     <td align="left" bgcolor="#DDEBDE" width="460"><span class="searchheader"><label for="Search">Search</label></span>&nbsp;&nbsp;<input type="text" id="Search" name="SearchString" class="staticinput" size="35"><input type="hidden" name="js" value="1"><script>document.SEARCH.js.value=1</script>&nbsp;<input type="submit" class="buttonstatic" value="Go">&nbsp;&nbsp;&nbsp;<span class="midstatic"><a href="http://customerservice.tdbanknorth.com/cgi-bin/tdbanknorth.cfg/php/enduser/searchtips.php?p_sid=aZPiqiBh"><strong>Search Tips</strong></a></span></td>
+     <td align="left" bgcolor="#f2f4f2" width="460"><span class="searchheader"><label for="Search">Search</label></span>&nbsp;&nbsp;<input type="text" id="Search" name="SearchString" class="staticinput" size="40"><input type="hidden" name="js" value="1"><script>document.SEARCH.js.value=1</script>&nbsp;<input type="submit" class="buttonstatic" value="Go">&nbsp;&nbsp;&nbsp;<span class="midstatic"><a href="http://customerservice.tdbank.com/cgi-bin/tdbank.cfg/php/enduser/searchtips.php?p_sid=aZPiqiBh">Search Tips</a></span></td>
     </tr>
     <tr>
-     <td align="right" colspan="2"><span class="midstatic"><a href="/investorrelations/" class="globalnav"><strong>Investor Relations</strong></a> | <a href="/bank/about_us.html" class="globalnav"><strong>About Us</strong></a> | <a href="/careers/careers.html" class="globalnav"><strong>Careers</strong></a> | <a href="/net/locations.aspx" class="globalnav"><strong>Locations</strong></a> | <a href="/net/customerservice.aspx?js=0" onclick="this.href='/net/customerservice.aspx?js=1'" class="globalnav"><strong>Customer Service</strong></a></span>&nbsp;&nbsp;</td>
+     <td align="right" colspan="2"><span class="midstatic"><a href="/aboutus/about_us.html" class="globalnav"><strong>About Us</strong></a> | <a href="/community/our_community.html" class="globalnav"><strong>Our Community</strong></a> | <a href="/careers/careers.html" class="globalnav"><strong>Careers</strong></a> | <a href="/net/locations.aspx" class="globalnav"><strong>Locations</strong></a> | <a href="/net/customerservice.aspx?js=0" class="globalnav" onclick="this.href='/net/customerservice.aspx?js=1'"><strong>Customer Service</strong></a></span> | <a style="color:green; font-size:11px;" title="En Español" mporgnav="" href="http://espanol.tdbank.com/" onclick="return switchLanguage('es');
+function switchLanguage(lang) {
+    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+	return false;}"><strong>En Español</strong></a>&nbsp;&nbsp;</td>
     </tr>
     <tr>
      <td colspan="2"><img src="/exc/img/pixel.gif" width="1" height="25" alt=""></td>
@@ -46,8 +110,7 @@
 <li><a href="/default.aspx" title="Home"><span>Home</span></a></li>
 <li><a href="/net/banking.aspx" title="Banking"><span>Banking</span></a></li>
 <li><a href="/insurance/insurance/index.html" title="Insurance"><span>Insurance</span></a></li>
-<li><a href="/investment/investment/index.html" title="Investment Planning"><span>Investment Planning</span></a></li>
-<li><a href="/assetmgmt/assetmgmt/index.html" title="Wealth Management"><span>Wealth Management</span></a></li>
+<li><a href="/investments/investments/index.html" title="Investments"><span>Investments</span></a></li>
   </ul>
 </div>
 </td>
@@ -67,7 +130,7 @@
 <ul id="navlist">
 <li><a href="/net/banking.aspx" id="lob">Banking</a></li>
 <li><a href="privacy_and_security.html" id="currentheader">Privacy Policy</a></li>
-<li><a href="https://esecure.tdbanknorth.com/tdbanknorth/net/marketingpreferences/default.aspx">Marketing Preferences</a></li>
+<li><a href="https://esecure.tdbank.com/net/marketingpreferences/default.aspx">Marketing Preferences</a></li>
 <li><a href="security.html" id="header">Security Center</a></li>
 </ul>
  
@@ -77,7 +140,7 @@
 
 <td valign="top" id="Center Content" width="100%">
 <a name="main"></a>
-<h1>Protecting Your Privacy</h1>
+<h1>Important Information About Your Privacy and Protecting Your Identity</h1>
 
 <div id="tertiarynav">
                   
@@ -89,7 +152,9 @@
 		     
 		         
 		                        
-		         <p>Through our subsidiary bank and financial service companies, we provide a comprehensive line of banking, investment, and insurance services. As a company, we are committed to protecting the confidentiality of personal information you provide to any of our subsidiary companies.<sup small="">1</sup>  At the same time, the information you provide can help us introduce you to other products and services that we offer to help you meet your financial goals.</p>	
+		         <p></p><h2>Protecting Your Privacy</h2>
+<br>
+Through our subsidiary bank and financial service companies, we provide a comprehensive line of banking, investment, and insurance services. As a company, we are committed to protecting the confidentiality of personal information you provide to any of our subsidiary companies.<sup small="">1</sup>  At the same time, the information you provide can help us introduce you to other products and services that we offer to help you meet your financial goals.<p></p>	
 		 
 </div>		      
 <!-- begin stories -->
@@ -105,7 +170,7 @@
       <div class="story">
 			
 			  
-			  The type of information we collect depends on the type of product or service you obtain from us. We may collect "nonpublic personal information" about you. "Nonpublic personal information" is information about you, which is not available from public sources, obtained in connection with providing you with a financial product or service. For example, nonpublic personal information includes information regarding your account balance, payment history and deposit account activity. It also includes your Social Security Number, account number and other information associated with you in particular through one or more identifiers. We may collect this nonpublic personal information from the following sources: 
+			  The type of information we collect depends on the type of product or service you obtain from us. We may collect "nonpublic personal information" about you. "Nonpublic personal information" is information about you, which is not available from public sources, obtained in connection with providing you with a financial product or service. For example, nonpublic personal information includes information regarding your account balance, payment history and deposit account activity. It also includes your Social Security Number, account number, and other information associated with you in particular through one or more identifiers. We may collect this nonpublic personal information from the following sources: 
 <ul>
 <li>Information we receive from you on applications or other forms you may complete and provide to us, such as your name, address, Social Security Number, date of birth, assets, income and, in the case of applications for insurance, health and medical information; 
 </li><li>Information about your transactions with us, with members of our corporate family or others, such as your account balance, payment history, products and services used, credit card usage; and 
@@ -135,7 +200,7 @@ We may disclose all of the information we collect as described above, except pro
 </p><p>
 We will also provide nonpublic personal information to affiliates and other parties if you request us to do so or you give us your permission. 
 </p><p>
-If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice. 
+If you decide to close your account(s) or become an inactive Customer, we will continue to adhere to the privacy policies and practices described in this notice. 
 			
       </p></div>
       
@@ -150,17 +215,17 @@ If you decide to close your account(s) or become an inactive customer, we will c
 			  
 			  <em>This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.</em>
 <p>
-We do not frequently hold protected health information, but, for example, we may receive protected health information from a health care provider to assist in processing payments to that provider. Or, our insurance subsidiaries may collect protected health information and provide it to an insurer to assist in processing an insurance claim, or if you enroll to be a participant in a health plan. We are required to maintain the privacy of protected health information in accordance with the law and this notice, and to provide you with notice (including a paper notice upon request) of our legal duties and practices with respect to such information. We do not share protected health information among our affiliates or with third parties except to process transactions or to provide services you have requested or initiated. We may use or disclose protected health information in connection with the payment or collection of health care costs or insurance premiums, or for purposes of insurance claim processing, enrollment or underwriting. We will not use or disclose your protected health information for any other purpose without your written authorization, which you may revoke, or as otherwise required or permitted by law. 
+We do not frequently hold protected health information, but, for example, we may receive protected health information from a health care provider to assist in processing payments to that provider. Or, our insurance subsidiaries may collect protected health information and provide it to an insurer to assist in processing an insurance claim, or if you enroll to be a participant in a health plan. We are required to maintain the privacy of protected health information in accordance with the law and this notice, and to provide you with notice (including a paper notice upon request) of our legal duties and practices with respect to such information. We do not share protected health information among our affiliates or with third parties except to process transactions or to provide services you have requested or initiated. We may use or disclose protected health information in connection with the payment or collection of health care costs or insurance premiums, or for purposes of insurance claim processing, enrollment or underwriting. 
 </p><p>
-You have the right to request restrictions on our use or disclosure of your protected health information, although we are not required to agree to a requested restriction. You have the right to request that we communicate your protected health information to you in a confidential manner. You have the right to inspect, copy and, if it is erroneous, amend your protected health information. And, you have the right to receive an accounting of disclosures of your protected health information, although that right does not apply to disclosures to you or for purposes of treatment, payment or health care operations. 
+We will not use or disclose your protected health information for any other purpose without your written authorization, which you may revoke, or as otherwise required or permitted by law. 
+</p><p>
+You have the right to request restrictions on our use or disclosure of your protected health information, although we are not required to agree to a requested restriction. You have the right to request that we communicate your protected health information to you in a confidential manner. You have the right to inspect, copy,  and if it is erroneous, amend your protected health information. And, you have the right to receive an accounting of disclosures of your protected health information, although that right does not apply to disclosures to you or for purposes of treatment, payment or health care operations. 
 </p><p>
 You may make any complaint about our use or disclosure of protected health information directly to us, or to the Secretary of Health and Human Services, and you will not be retaliated against for filing a complaint. If you wish to complain to us, or if you have any questions, please contact us as follows: 
 </p><p>
-TD Banknorth, Attention: Privacy Officer/Risk Contingency Management, P.O. Box 9540, Portland, ME 04112-9540, Telephone: 800-211-1979
+<!-- mp_trans_disable_start -->TD Bank, Attention: Privacy Officer/Operational Risk Management, P.O. Box 9540<!-- mp_trans_disable_end -->, Portland, ME 04112-9540, Telephone: 888-937-1050
 <br>
-<em>or</em>
-<br>
-TD Bank, Attention: Compliance Department, 2059 Springdale Road, Cherry Hill, NJ 08003, Telephone: 888-751-9000. 
+
 			
       </p></div>
       
@@ -186,11 +251,14 @@ TD Bank, Attention: Compliance Department, 2059 Springdale Road, Cherry Hill, NJ
       <div class="story">
 			
 			  
-			  We recognize that the accuracy of your personal and account information is critical to you and, to that end, we follow procedures to reasonably ensure the accuracy of your information. If you find that any information we have on file or have reported to another party does not appear to be accurate, please write to us at: <br>
-<strong>TD Banknorth, Attention: Loan and Account Research, 32 Chestnut St., Lewiston, ME 04240</strong><br>
-<em>or</em><br>
-<strong>TD Bank, Attention: Customer Service Center, P.O. Box 5400, Cherry Hill, NJ 08034-5400</strong>
+			  We recognize that the accuracy of your personal and account information is critical to you and, to that end, we follow procedures to reasonably ensure the accuracy of your information. If you find that any information we have on file or have reported to another party does not appear to be accurate, please write to us at:
 <p>
+<strong>TD Bank Operations Center, P.O. Box 219, Lewiston, ME 04243-0219</strong>
+</p><p>
+Or
+</p><p>
+<strong>Carolina First Bank/Mercantile Bank, P.O. Box 852, Lexington, SC 29072</strong>
+</p><p>
 Please include your account or policy number. 
 			
       </p></div>
@@ -224,6 +292,8 @@ We preserve the content of your e-mail, your e-mail address and our response, so
 			
 			  
 			  Please do not send confidential information such as Social Security Numbers or account numbers to us via regular e-mail. In instances where e-mail addresses are provided, they are provided for information inquiries of a non-sensitive and non-confidential nature. Since an Internet e-mail response back to you would not be secure, we will not include confidential information in an e-mail response. 
+<br><br>
+We will <strong>never</strong> ask you to confirm your account number, password, PIN, or other personal information via e-mail. We may call you directly with questions to update or verify account information or to clarify information if you are applying for a loan. In these cases, our representatives will introduce themselves by name and give you a specific reason for the request.
 			
       </div>
       
@@ -238,9 +308,25 @@ We preserve the content of your e-mail, your e-mail address and our response, so
 			  
 			  In accordance with the Children's Online Privacy Protection Act, we will not knowingly collect, store, use or disclose personal information from children. We define children as persons under the age of 13. 
 <p>
-We do not accept applications directly from children, knowingly collect nor share personal information about them; unless the information has been provided by an adult in connection with opening a deposit account for or with the child. We won't send any unsolicited promotions to users who indicate they are less than 13 years of age unless the solicitation is in connection with an account opened by an adult. 
+We do not accept applications directly from children, knowingly collect nor share personal information about them unless the information has been provided by an adult in connection with opening a deposit account for or with the child. We won't send any unsolicited promotions to users who indicate they are less than 13 years of age unless the solicitation is in connection with an account opened by an adult. 
 </p><p>
 This does not prevent parents from opening deposit accounts on behalf of their children. We will obtain parental consent prior to the creation of an account on behalf of a child. 
+
+			
+      </p></div>
+      
+      
+	 <h3>Questions</h3>            
+      
+     
+          
+		        <!-- story text --> 
+      <div class="story">
+			
+			  
+			  We're strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have any questions or comments, please call us at the appropriate number listed at the end of this document. 
+<p>
+This privacy statement applies to individuals and not to business entities or business transactions. It is effective upon publication. We reserve the right to make changes to this statement. A current version of this statement will be issued at least annually and can be requested at any time. The statement is for general guidance and does not constitute a contract, nor does it modify or amend any agreements we have with you.
 
 			
       </p></div>
@@ -259,7 +345,7 @@ This does not prevent parents from opening deposit accounts on behalf of their c
       </div>
       
       
-	 <h3>Protect Your Identity</h3>            
+	 <h3>Protect Your Identity – Do's and Don'ts</h3>            
       
      
           
@@ -268,12 +354,17 @@ This does not prevent parents from opening deposit accounts on behalf of their c
 			
 			  
 			  <ul>
-<li>Shred unused credit offers and other documents containing personal or financial information before discarding them. 
-</li><li>Guard your Social Security Number. 
-</li><li>Don't release information to people you do not know, especially over the phone or Internet. 
-</li><li>Review bank statements for accuracy. 
-</li><li>If you are denied credit for no apparent reason, obtain a copy of your credit report. 
-</li></ul>
+<li> File documents with personal information in a secure place – or shred them first if throwing them away. 
+</li><li> Shred unused credit offers and other documents containing personal or financial information before discarding them. 
+</li><li> Guard your Social Security Number. 
+</li><li> Memorize your password and Personal Identification Number (PIN) instead of writing them down – and change your password regularly.
+</li><li> Review bank statements for accuracy. 
+</li><li> If you are denied credit for no apparent reason, obtain a copy of your credit report. 
+</li><li> Request a copy of your credit report at least once a year to make sure there's no unauthorized activity.
+</li><li> Don't release information to people you do not know, especially over the phone or Internet.
+</li><li> Don't give out your PIN – ever!
+</li><li> Don't give out personal information unless you initiated the contact or have verified the identity of the person requesting the information.
+</li><li> Don't respond to e-mail or websites asking for personal information – legitimate companies don't go "phishing."</li></ul>
 
 			
       </div>
@@ -288,20 +379,24 @@ This does not prevent parents from opening deposit accounts on behalf of their c
 			
 			  
 			  <ul>
-<li>Contact your bank and all others with whom you have a financial relationship.
-</li><li>File a police report if you have had a loss.
-</li><li>Report the fraud to the major credit bureaus:
-<p>
+<li> Contact your bank and all others with whom you have a financial relationship. 
+</li><li> Contact one of the three major credit bureaus to place a fraud alert on your credit report – this will alert all three bureaus: 
+<br><br>
 Equifax 800-525-6285<br>
 Experian 888-397-3742<br>
-Trans Union 800-680-7289 
-</p></li></ul>
-<p>
-For additional help, call the Federal Trade Commission at 877-ID-THEFT or visit their website at: <strong>http://www.ftc.gov/idtheft/</strong>.
-</p><p>
-More information can be found within the online security areas for <a href="http://www.tdbanknorth.com/bank/security.html" target="blank">TD Banknorth</a> and <a href="http://www.tdbank.com/consumerAlert/avoidFraud.cfm" target="blank">TD Bank</a>. 
+Trans Union 800-680-7289
+<br><br>
+</li><li> Report unauthorized charges and accounts right away to credit issuers and bureaus by phone and in writing.
+</li><li> Close accounts you believe were tampered with.
+</li><li> Request a copy of your credit report and review it.
+</li><li> File a police report right away.
+</li><li> Keep copies of all correspondence in case you need to submit information to creditors.
+</li></ul>
+<br>
+For additional help, call the Federal Trade Commission at 877-ID-THEFT or visit their website at: http://www.ftc.gov/idtheft/. Or, call the TD Bank Phishing and Identity Theft Hotline at <strong>800-893-8554</strong>.
+More information can be found <a href="/bank/security.html" target="blank">within our Security Center</a>. 
 			
-      </p></div>
+      </div>
       
       
 	 <h3>It's Your Choice</h3>            
@@ -317,22 +412,28 @@ Federal law gives you the right to limit some, but not all, marketing from our a
 </p><p>
 You may limit our affiliates<sup><span class="smalltext">2</span></sup> – which include, but are not limited to, banking, leasing, insurance, wealth management, securities brokerage and investment advisory affiliates – from marketing their products or services to you based on personal information that we may collect about you and share with them. This information includes your account history with us. Your choice to limit marketing offers from our affiliates will apply until you tell us to change your choice. You can opt back in at any time. 
 </p><p>
-To limit affiliate marketing offers, contact us either by:
+To limit affiliate marketing offers, or to select other marketing preferences, contact us as follows:
 </p><p>
-<strong>Phone:</strong> 800-211-1979<br>
-<strong>Web:</strong> <a href="https://esecure.tdbanknorth.com/tdbanknorth/net/marketingpreferences" target="blank">TDBanknorth.com/ItsYourChoice</a><br>
-<strong>Mail:</strong> Complete and return the paper form within the Privacy statement you received in the mail, or pick up a copy at your local branch.
+TD Bank<br>
+<strong>Phone:</strong> 888-937-1050<br>
+<strong>Web:</strong> <a href="https://esecure.tdbank.com/net/marketingpreferences" target="blank">tdbank.com/ItsYourChoice</a>
 </p><p>
-If you have previously informed us of your preference, you do not need to do so again.
+Carolina First Bank<br>
+<strong>Phone:</strong> 800-476-6400, option 8
+</p><p>
+Mercantile Bank<br>
+<strong>Phone:</strong> 800-238-8681, option 8
+</p><p>
+<em>If you have previously informed us of your preference, you do not need to do so again.</em>
 </p><p>
 <span class="smalltext">
-<strong>Note:</strong> Your preference will be processed within 30 days of receipt and will remain in place until you change your option. Please note your preference may not prevent you from being solicited with information that the affiliate had on file prior to the processing of your preference. Your selection(s) will be applied to your entire household, so if you opt-out, no one in your residence will receive notifications of special discounts, offers and promotions that are available.
+<strong>Note:</strong> Your preference will be processed within 30 days of receipt and will remain in place until you change your option. Please note your preference may not prevent you from being solicited with information that the affiliate had on file prior to the processing of your preference. For TD Bank Customers, your selection(s) will be applied to your entire household, so if you opt-out, no one in your residence will receive notifications of special discounts, offers and promotions that are available.  For Carolina First Bank and Mercantile Bank Customers, your selection(s) will be applied to you and all other persons who hold your account(s) jointly with you.
 </span>
 			
       </p></div>
       
       
-	 <h3>Questions</h3>            
+	 <h3>Questions?</h3>            
       
      
           
@@ -340,45 +441,54 @@ If you have previously informed us of your preference, you do not need to do so 
       <div class="story">
 			
 			  
-			  We're strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have any questions or comments, please call us at the appropriate number listed at the end of this document. 
+			  <p>
+</p><table class="datatable" border="1" cellspacing="0" cellpadding="6" width="75%">
+<tbody><tr>
+<td class="midheadertext">TD Bank<br>
+888-937-1050<br>
+<a href="http://www.tdbank.com">www.tdbank.com</a></td>
+<td class="midheadertext">Carolina First<br>
+800-476-6400<br>
+<a href="http://www.carolinafirst.com" target="blank">www.carolinafirst.com</a></td>
+<td class="midheadertext">Mercantile Bank<br>
+800-238-8681<br>
+<a href="http://www.bankmercantile.com" target="blank">www.bankmercantile.com</a></td>
+</tr>
+</tbody></table>
 <p>
-<a href="http://customerservice.tdbanknorth.com/cgi-bin/tdbanknorth.cfg/php/enduser/ask.php">Send us an e-mail</a>.</p><p>
 <span class="smalltext">
 <sup>1</sup>A list of our divisions and subsidiaries can be found at the end of this document.<br>
-<sup>2</sup>Our affiliates include those companies that control, are controlled by or are under common control with TD Banknorth Inc. or The Toronto-Dominion Bank, including TD AMERITRADE, Inc. among others. 
-</span></p><p>This privacy statement applies to individuals and not to business entities or business transactions. It is effective upon publication.  We reserve the right to make changes to this statement. A current version of this statement will be issued at least annually and can be requested at any time.  The statement is for general guidance and does not constitute a contract, nor does it modify or amend any agreements we have with you.<br>
+<sup>2</sup>Our affiliates include those companies that control, are controlled by or are under common control with TD Bank US Holding Company or The Toronto-Dominion Bank, including TD&nbsp;Ameritrade, Inc. among others.</span><br>
 </p><p>
-<strong>TD Banknorth Inc.</strong><br>
-This privacy statement applies to the following entities within the TD Banknorth Inc. family, including TD Bank USA, N.A., TD Bank, N.A. and its divisions and subsidiaries listed below. <br>
-&nbsp;
+<strong>TD Bank US Holding Company</strong><br>
+This privacy statement applies to the following entities within the TD Bank US Holding Company family, including TD Bank USA, N.A., TD Bank, N.A. and its divisions and subsidiaries listed below.<br>
 </p><p>
 <strong>TD Bank USA, N.A.</strong>
 </p><p>
 <strong>TD Bank, N.A. Divisions:</strong>
 </p><p>
-TD Banknorth</p><p>
+AmericanFirst Bank</p><p>
+Carolina First Bank</p><p>
+First Federal Bank of North Florida</p><p>
+Mercantile Bank</p><p>
+Riverside National Bank of Florida</p><p>
 TD Bank Mortgage</p><p>
-TD Banknorth Project Finance</p><p>
 TD Retail Card Services</p><p>
 Shoppers Charge Accounts Co.
 </p><p>
 </p><p>
 <strong>TD Bank, N.A. Subsidiaries:</strong>
 </p><p>
-Bancnorth Investment Planning Group, Inc. </p><p>
-Bancnorth Investment and Insurance Agency, Inc.</p><p>
-Commerce Capital Markets, Inc.</p><p>
 TD Aviation Finance, LLC</p><p>
 TD Equipment Finance, Inc.</p><p>
+TD Wealth Management Services Inc.</p><p>
 TD Insurance Agency</p><p>
 TD Insurance, Inc.</p><p>
-TD Wealth Management Services Inc.
-</p><p>
-<strong>TDBanknorth.com<br>
-800-211-1979</strong>
-</p><p>
-<strong>TDBank.com<br>
-888-751-9000</strong>
+TDI Agency, Inc.</p><p>
+Carolina First Insurance Services, Inc.</p><p>
+Bowditch Insurance Corporation</p><p>
+Lossing Insurance Agency</p><p>
+Bradley-Price Insurance
 
 
 			
@@ -412,30 +522,40 @@ TD Wealth Management Services Inc.
 <td>
 <div id="footer">
   
-  <!--/inc/bank_footer_nav.ihtml--><br><br>
+  <!--/inc/bank_footer_nav.ihtml-->
+<br><br>
 <img src="/exc/img/footerseparator.gif" width="100%" height="30" alt="">
 <p align="center">
-<a href="../bank/sitemap.html">Site Map</a> | <a href="http://www.tdbanknorth.com/bank/privacy_and_security.html">Privacy</a> | <a href="http://www.tdbanknorth.com/bank/security.html">Security</a> | <a href="http://www.tdbanknorth.com/bank/terms_of_use.html">Terms of Use</a> | <a href="../bank/fdic_insurance.html">Bank Deposits FDIC Insured</a> | Equal Housing Lender <img src="/exc/img/ehl_house.gif" width="21" height="14" alt="" align="absmiddle"></p>
-
-<span class="smalltext">
+<a href="/bank/sitemap.html">Site Map</a> | <a href="/bank/privacy_and_security.html">Privacy</a> | <a href="/bank/security.html">Security</a> | <a href="/bank/terms_of_use.html">Terms of Use</a> | <a href="/bank/fdic_insurance.html">Bank Deposits FDIC Insured</a> | Equal Housing Lender <img src="/exc/img/ehl_house.gif" width="21" height="14" alt="" align="absmiddle"></p>
+<br><br>
+<p align="center">
+</p><table style="border: 1pt solid #CAD6CE; padding: 5px; border-collapse: collapse;" align="center">
+<tbody><tr>
+<td style="padding: 5px; text-align:center; width: 33%" colspan="3">SECURITIES AND INSURANCE</td>
+</tr>
+<tr>
+<td style="border: 1pt solid #CAD6CE; padding: 5px; text-align:center; width: 33%">NOT FDIC INSURED</td>
+<td style="border: 1pt solid #CAD6CE; padding: 5px; text-align:center; width: 33%">NO BANK GUARANTEE</td>
+<td style="border: 1pt solid #CAD6CE; padding: 5px; text-align:center; width: 33%">MAY LOSE VALUE</td>
+</tr>
+</tbody></table>
+<br><br>
 <p align="left">
-Securities and other investment and insurance products are: not a deposit; not FDIC insured; not insured by any federal government agency; not guaranteed by TD Bank, N.A. or any of its affiliates; and, may be subject to investment risk, including possible loss of value.  Insurance products are offered through <a href="http://www.tdbanknorth.com/insurance/" class="footerlink">TD Insurance, Inc.</a></p>
-
+<span class="smalltext">
+Securities and other investment and insurance products are: not a deposit; not FDIC insured; not insured by any federal government agency; not guaranteed by TD Bank, N.A. or any of its affiliates; and, may be subject to investment risk, including possible loss of value.
+</span></p><p>
+Beginning July 1, 2010 TD Bank, N.A. will no longer participate in the FDIC's Transaction Account Guarantee Program. Thus, after June 30, 2010, funds held in noninterest-bearing transaction accounts will no longer be guaranteed in full under the Transaction Account Guarantee Program, but will be insured up to $250,000 under the FDIC's general deposit insurance rules.
+  
+</p>
 <p align="center">
-</p><div class="outlinedbox">
-Bancnorth Investment Group, Inc. is:<br>•&nbsp;An independent registered broker-dealer&nbsp;&nbsp;•&nbsp;Not affiliated with TD Bank, N.A. or its related companies&nbsp;&nbsp;•&nbsp;Member <a href="http://www.finra.org" target="blank">FINRA</a> and <a href="http://www.sipc.org" target="blank">SIPC</a>.<br>
-Securities and insurance products provided by Bancnorth Investment Group, Inc. are:<br> •&nbsp;Not a Deposit&nbsp;&nbsp;•&nbsp;Not FDIC Insured&nbsp;&nbsp;•&nbsp;Not insured by any Federal Government Agency&nbsp;&nbsp;•&nbsp;Not Guaranteed by the Bank or any Affiliate&nbsp;&nbsp;•&nbsp;May be Subject to Investment Risk, Including Possible Loss of Value&nbsp;&nbsp;•&nbsp;Advisory services may only be offered by Investment Adviser Representatives in connection with a PrimeVest Financial Services, Inc. Advisory Services Agreement and disclosure brochure.</div><p></p>
-<p align="center">
-TD Banknorth is a trade name of TD Bank, N.A.
-</p><p align="center">
-© 2009 TD Bank, N.A. All Rights Reserved.
+<span class="smalltext">©2010 TD Bank, N.A. All Rights Reserved.</span>
 </p>
 <br>
 
 
 
   <!-- rightnow_noindex_end -->
-</span></div>
+</div>
 </td>
 </tr>
 </tbody></table>
@@ -447,13 +567,23 @@ TD Banknorth is a trade name of TD Bank, N.A.
 <script language="javascript1.2" type="text/javascript">
 <!--
 	cmSetProduction();
-	
 	pageid=window.location.pathname.replace(/^\//,'');
 	
-		
-	if (!pageid || pageid=="") pageid="/default.aspx";
+	var dd = document.domain;
+	
+	var str = dd.split(".");
+	
+	if (!pageid || pageid=="") pageid="default."+"aspx";
 	pageid=document.title+": "+pageid;
-
+	
+	if (str[0]=="espanol") 
+	{
+		pageid="espanol " +pageid;
+		if (isDefined("CategoryID"))  CategoryID=CategoryID+1;
+	}
+	
+	if (pageid.length>2550 ) pageid=pageid.substring(0,255);
+	
 	if (!isDefined("CategoryID")) {cmCreatePageviewTag(pageid, null); }
 	else {cmCreatePageviewTag(pageid, CategoryID);}
 
@@ -462,6 +592,7 @@ function isDefined(variable)
 	return eval('(typeof('+variable+') != "undefined");');
 
 }
+
 
 //-->
 </script>
