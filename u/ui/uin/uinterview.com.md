@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uinterview.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526141538id_/http%3A//www.uinterview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uinterview.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129040252id_/http%3A//uinterview.com/privacy) for the most accurate reproduction.*
 
 # Uinterview | Privacy
 
 ## Privacy
 
-Use of this website constitutes acceptance of our Privacy Policy and Terms of Use. 
+Use of this Web site constitutes acceptance of our Privacy Policy and Terms of Use.
 
 **Information Collected**
 
@@ -20,9 +20,13 @@ An IP address (Internet Protocol address) is a number that is automatically assi
 
 **Third-Party Use**
 
-When registering for our newsletter on this site, Uinterview provides visitors with an opportunity to receive offers from advertisers and other companies who have services, products, and offers that we think might be of interest to you. If you do not at that time indicate a preference not to receive such offers, Uinterview will from time to time provide your contact information to these entities so that they may send you these offers. If you do not decline to receive such offers at the time you provide your information or if you change your mind and no longer want us to share your contact information with others, send an e-mail to [publisher@uinterview.com](mailto:publisher@uinterview.com) as described in the Privacy Options section below.
+When registering for our newsletter on this site, Uinterview provides visitors with an opportunity to receive offers from advertisers and other companies who have services, products, and offers that we think might be of interest to you. If you do not at that time indicate a preference not to receive such offers, Uinterview will from time to time provide your contact information to these entities so that they may send you these offers. If you do not decline to receive such offers at the time you provide your information or if you change your mind and no longer want us to share your contact information with others, send an e-mail to [editor@uinterview.com](mailto:publisher@uinterview.com) as described in the Privacy Options section below.
 
 If you provide information to Uinterview in connection with a promotion with a third-party entity or web site linked to this site (such as the purchase of other products), the information you provide will be used for the purpose for which you provided the information and will be shared with that third-party entity. These third-party entities may obtain personally identifiable information that guests voluntarily submit to participate in the promotion. Uinterview has no control over the third-party entities' use of this information. Your personal information may also be used for other purposes that may be disclosed at the time your information is requested.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [here](http://www.networkadvertising.org/).
 
 **Security**
 
@@ -32,7 +36,7 @@ Agents and contractors of Uinterview who have access to personally identifiable 
 
 In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. By using this Web site, you consent to our use of e-mail as a means of such notification.
 
-Any unauthorized access to or use of the Uinterview Website or information collected and maintained by Uinterview Website should be immediately brought to the attention of Uinterview at the customer service e-mail address below.
+Any unauthorized access to or use of the Uinterview Web site or information collected and maintained by Uinterview Web site should be immediately brought to the attention of Uinterview at the customer service e-mail address below.
 
 **Privacy Options**
 
@@ -42,11 +46,11 @@ If you prefer not to receive traditional mail or other off-line promotions from 
 
 **Note to Parents**
 
-Children should always ask permission before providing any personal information online. No information should be submitted to or posted on this site by any Minor (a guest under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any personally identifiable information about minors, regardless of its source, to third parties, nor is this information knowingly used by Uinterview for any marketing or promotional purposes.
+Children should always ask permission before providing any personal information online. No information should be submitted to or posted on this site by any minor (a guest under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any personally identifiable information about minors, regardless of its source, to third parties, nor is this information knowingly used by Uinterview for any marketing or promotional purposes.
 
 **Policy Modification**
 
-This Privacy Policy may be modified from time to time, without notice to users of this site. Any changes or updates will be effective immediately upon posting to the Website.
+This Privacy Policy may be modified from time to time, without notice to users of this site. Any changes or updates will be effective immediately upon posting to the Web site.
 
 **How to Contact Us**
 
