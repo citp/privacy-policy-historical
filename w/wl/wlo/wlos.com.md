@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlos.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616155832id_/http%3A//wlos.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlos.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129144346id_/http%3A//www.wlos.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WLOS ABC13 :: Privacy Policy
 
@@ -28,23 +28,15 @@ All personal information collected by this Website may be disclosed as required 
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
 
-6:00PM News 13 @ 6PM
+5:00PM College Football  
+7:00PM Wheel of Fortune  
+7:30PM Jeopardy  
+8:00PM Saturday Night Football  
+11:30PM  News 13 Tonight-Late News Special Edition  
 
-6:30PM ABC World News
 
-7:00PM Wheel of Fortune
+  
 
-7:30PM Jeopardy
-
-8:00PM The Middle
-
-8:30PM The Middle
-
-9:00PM Modern Family
-
-9:30PM Cougar Town
-
-10:00PM Happy Town
 
 * * *
 
@@ -52,15 +44,21 @@ The Website allows certain advertisements/postings which include links to other 
 
 [To ABC.com](http://www.abc.com/)
 
-77°
+38°
 
 [](https://web.archive.org/newsroom/wx/#iradar)
 
 ## Forecast
 
-Wednesday: Partly to mostly cloudy with more storms, some severe. High: 86-Asheville, 92-Upstate.
+WIND ADVISORY Monday Evening through Tuesday for WNC.      FLASH FLOOD WATCH for WNC for Tuesday.
 
-Wednesday Night: Partly to mostly cloudy wit ...
+Monday:  Mostly Cloudy, Slight Chance of Rain, ESE-10 mph, High:  44-Asheville, 47-Upstate
+
+Monday Night:  Rain Late, SE-10 mph, Low:  42-Asheville, 43-Upstate
+
+Tuesday: Heavy Rain, 2-3", Breezy. High: 56-Asheville, 58-Upstate.
+
+Meteorologist ...
 
 [](https://web.archive.org/newsroom/wx/)
 
