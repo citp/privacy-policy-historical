@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardmadness.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103051052id_/http%3A//standardmadness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardmadness.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129161959id_/http%3A//standardmadness.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Standard Madness
 
