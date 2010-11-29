@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529204837id_/http%3A//www.1shoppingcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129061318id_/http%3A//www.1shoppingcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 1ShoppingCart.com - 1ShoppingCart.com
 
-1ShoppingCart respects the privacy of the visitors of its websites.
+1ShoppingCart™ respects the privacy of the visitors of its websites.
 
 This Privacy Statement is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website. "Personal Information" is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
@@ -13,7 +13,7 @@ We act as a service provider to our customers and may process and store on behal
 **User Consent**  
 By submitting Personal Information through our websites, you agree to the terms of this Privacy Statement.
 
-You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by 1ShoppingCart, Developer(s), or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by 1ShoppingCart™, Developer(s), or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
 
 **Collection of Personal Information**  
 The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time about with information and offers about our products and services.
@@ -63,17 +63,17 @@ Except as otherwise stated in this Privacy Statement: we do not generally trade,
 
 To drive traffic to your website and to make your website easier to find, we will disclose keywords about your business, your business name, general and specific description about your business, information about your location, and information about your products and services to third-party services and to the general public.
 
-We also use third parties to maintain and store your Personal Information and to process any payment you make to us. Generally, these third parties are required not to use your Personal Information other than to provide the services requested by 1ShoppingCart.
+We also use third parties to maintain and store your Personal Information and to process any payment you make to us. Generally, these third parties are required not to use your Personal Information other than to provide the services requested by 1ShoppingCart™.
 
 We currently have subsidiaries and other companies under a common control (collectively, "affiliates"). We may share some or all of your Personal Information with these affiliates, in which case we will require our affiliates to honor this Privacy Statement.
 
 If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Statement.
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on 1ShoppingCart; or (b) to protect and defend the rights or property of 1ShoppingCart or users of our websites or our customers’ websites.
+We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on 1ShoppingCart™; or (b) to protect and defend the rights or property of 1ShoppingCart™ or users of our websites or our customers’ websites.
 
 **Your Choices Regarding Your Personal Information**
 
-Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [support@1shoppingcart.com](mailto:support@1shoppingcart.com). Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
+Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at . Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
 
 **Regarding Minors**  
 Our websites are not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.
@@ -82,12 +82,12 @@ Our websites are not designed for minors under the age of 18. We do not intentio
 Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Statement do not apply to these outside websites.
 
 **Security**  
-We use reasonable measures to maintain the security of your Personal Information. Even so, technical mistakes are possible. No company, including 1ShoppingCart, can fully eliminate security risks associated with Personal Information.
+We use reasonable measures to maintain the security of your Personal Information. Even so, technical mistakes are possible. No company, including 1ShoppingCart™, can fully eliminate security risks associated with Personal Information.
 
 **Contact Us**  
 Should you have any questions or concerns regarding this Privacy Statement, please contact us:
 
-1ShoppingCart  
+1ShoppingCart™  
 Privacy Officer  
 12808 Gran Bay Parkway West  
 Jacksonville, FL 32258  
@@ -98,4 +98,4 @@ This Privacy Statement is subject to occasional revision, and if we make any sub
 
 This statement was last updated on October 3, 2008.  
 **Conditions of Use and Revisions**  
-If you choose to visit 1ShoppingCart’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
+If you choose to visit 1ShoppingCart™’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
