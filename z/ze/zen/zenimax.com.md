@@ -1,26 +1,18 @@
-> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531172131id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129230126id_/http%3A//zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc.
-
-[Terms & Conditions](https://web.archive.org/web/20070531172131id_/http%3A//www.zenimax.com/legal_terms.htm)  
-**Privacy Policy**  
-[Legal Information](https://web.archive.org/web/20070531172131id_/http%3A//www.zenimax.com/legal_info.htm)
 
 [](http://www.esrb.org/confirm/zenimax-confirmation.jsp)
 
 **ZENIMAX MEDIA ONLINE PRIVACY POLICY**
 
-ZeniMax Media Inc. and its divisions, Bethesda Softworks LLC, Vir2L Studios LLC, and ZeniMax Productions LLC (collectively, "ZeniMax") are committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
+ZeniMax Media Inc. and its divisions, Bethesda Softworks LLC, Vir2L Studios LLC, and ZeniMax Online Studios LLC (collectively, "ZeniMax") are committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
 
 This Privacy Policy Statement and the certification seal located above confirm that ZeniMax is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable, and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent.
 
 Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of the following:
-
-  * The websites and information covered by this Privacy Policy;
-
-  * Whether this Privacy Policy applies to information collected offline;
 
   * Exactly what information may be collected and how it will be used;
 
@@ -46,28 +38,6 @@ Whenever you visit a website that displays the ESRB Privacy Online certification
 
 
 
-
-  
-**The websites and information covered by this Privacy Policy:**  
-This Privacy Policy currently applies to the following websites operated by ZeniMax:
-
-[www.bethsoft.com](http://www.bethsoft.com/)  
-[www.zenimax.com](http://www.zenimax.com/)  
-[www.morrowind.com](http://www.morrowind.com/)  
-[www.elderscrolls.com](http://www.elderscrolls.com/)  
-[www.vir2l.com](http://www.vir2l.com/)  
-[startrek.bethsoft.com](http://startrek.bethsoft.com/)  
-[pirates.bethsoft.com](http://pirates.bethsoft.com/)  
-[ihra.bethsoft.com](http://ihra.bethsoft.com/)  
-[www.ihramobile.com](http://www.ihramobile.com/)  
-[www.mudduckgames.com](http://www.mudduckgames.com/)  
-[www.callofcthulhu.com](http://www.callofcthulhu.com/)  
-[breeders.bethsoft.com](http://breeders.bethsoft.com/)  
-[www.ducatiextreme.com](http://www.ducatiextreme.com/)
-
-In addition, ZeniMax may own several other domain names that point to the websites listed above. From time to time, we may add new websites and we will take reasonable steps to update the list.
-
-Please note that this Privacy Policy applies only to information submitted and collected online through a website operated by ZeniMax (listed above), and does not apply to information collected by ZeniMax offline. In addition, this Privacy Policy applies only to sites maintained by ZeniMax, and not to websites maintained by other companies or organizations to which we link. ZeniMax is therefore not responsible for the content or activities provided on such sites.
 
 **What types of information does ZeniMax collect and how will it be used?**  
 In order to give you the best experience on our site, ZeniMax may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: (1) product and warranty registration; (2) community forum registration; (3) contests and sweepstakes, (4) technical support; (5) the purchase of a product or service at our online store; and (6) personal information submitted in a business capacity (e.g., resumes). The types of information that may be requested for each activity and the way the information may be used are detailed below. In the event that demographic information is requested on the same page as personal information, the demographic and personal information may be combined.
@@ -112,9 +82,13 @@ Unless noted otherwise, we may also use your personal and/or demographic informa
 
 No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.
 
+Back to top.
+
 **What happens if I refuse to provide my personal information to ZeniMax?**
 
 If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our site and may considerably limit the services we can provide you. For example, if you refuse to provide your email address when registering, you will not be able to use our message boards. To simply use our site, however, you do not need to give us any personal information.
+
+Back to top.
 
 **Does ZeniMax use cookies, track IP addresses or use other passive means to collect information?**
 
@@ -132,9 +106,13 @@ Other non-personal information collected by ZeniMax is in the form of logs - fil
 
 Through the use of log files, we may also collect certain demographic information such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows 98 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
+Back to top.
+
 **Who is collecting my personal information?**
 
 Any personal information that you disclose while visiting any of our websites is collected by ZeniMax or its vendors, and is used in the manner specified above.
+
+Back to top.
 
 **With whom does ZeniMax share my personal information?**
 
@@ -146,19 +124,31 @@ Other than as explained in this policy, we may disclose personal information in 
 
 In addition, information about our customers, including personal information, may be disclosed as part of any merger, sale, transfer of company assets, acquisition, bankruptcy, or similar event.
 
+Back to top.
+
 **What is ZeniMax's policy regarding links to third party sites?**
 
 You should be aware that while you are on a website operated by ZeniMax, you may be directed to other sites that are beyond our control and for which we are not responsible. Because we cannot guarantee that the privacy policies of these websites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.
 
+Back to top.
+
 **Can I choose how my personal information is used?**
 
 If you prefer not to receive marketing information from our websites, email notices from our message board operators, or any other communication from ZeniMax, please "opt-out" when you register or at the time you submit your information. If you've already opted-in, but you wish to stop any further communications, just let us know by sending an email to: [privacy04@zenimax.com](mailto:privacy04@zenimax.com)
+
+_Your California Privacy Rights_
+
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please contact us via email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), by phone at (301) 963-2000, or by regular mail at: Privacy Coordinator, ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA.
+
+Back to top.
 
 **How can I access my personal information?**
 
 If you have registered for a game-specific bulletin board on our site and wish to update your profile, you may do so online by visiting the "profile" section found at each game forum on our websites. You may be required to submit your login name and password before you can access your profile information.
 
 If you wish to review, update, or delete any other personal information that we may have collected about you, please send an email to our Privacy Coordinator by email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), or by regular mail at ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA.
+
+Back to top.
 
 **Does ZeniMax collect personal information from children under 13?**
 
@@ -168,11 +158,15 @@ In some instances, certain portions of our site(s) (e.g., electronic postcards) 
 
 We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
 
+Back to top.
+
 **What safeguards does ZeniMax use to protect my personal information?**
 
-ZeniMax maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect. Personal information collected by ZeniMax is stored in secure operating environments that are not available to the public and is only accessible by authorized employees. In addition, our online store uses industry- standard encryption to prevent unauthorized electronic access to sensitive financial information such as your credit card number.
+ZeniMax maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect. Personal information collected by ZeniMax is stored in secure operating environments that are not available to the public and is only accessible by authorized employees. In addition, our online store uses industry-standard encryption to prevent unauthorized electronic access to sensitive financial information such as your credit card number.
 
 We also have security measures in place to protect against the loss, misuse and alteration of the information under our control (i.e., maintain data quality). Before we allow web users to access their personal information, for example, we verify their identity by prompting them to submit information such as their login name and password.
+
+Back to top.
 
 **How do I ask a question or file a complaint?**
 
@@ -191,10 +185,9 @@ _ESRB Privacy Online
 Attn.: Director, Privacy Online  
 317 Madison Avenue, 22 Floor  
 New York, NY 10017  
-(212) 759-0700  
 [privacy@esrb.org](mailto:privacy@esrb.org)_
 
 _By using this site, you signify your assent to the ZeniMax Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on this site or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes._
 
 _  
-Updated 10/02/2006_
+Updated 11/12/08_
