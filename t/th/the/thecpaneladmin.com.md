@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530110417id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129084437id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.*
 
 # Privacy :: The cPanel Admin
 
@@ -49,7 +49,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://thecpaneladmin.com](http://wetalkabouthosting.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://thecpaneladmin.com](http://thecpaneladmin.com/)
 
 **Your Consent**
 
