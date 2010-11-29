@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 14wfie.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529164307id_/http%3A//www.14wfie.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 14wfie.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129025726id_/http%3A//www.14wfie.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - 14 News, The Tri-State's News and Weather Leader-
 
