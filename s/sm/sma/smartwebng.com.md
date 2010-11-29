@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwebng.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325043622id_/http%3A//smartwebng.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwebng.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129122228id_/http%3A//www.smartwebng.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Smart Web - online Solutions
 
