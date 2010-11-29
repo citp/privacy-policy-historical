@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528041020id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Ddownloadpass) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129031733id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Ddownloadpass) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by HOH Limited
+This website (the "Site") is operated by Jeberla Enterprises Ltd
 
-HOH Limited  
-Themistokli Dervi, 12, 1st Floor  
-Palais D'lvorie  
-Nicosia  
+Jeberla Enterprises Ltd  
+Agias Fylaxeos & Zinonos Rossidi  
+2, 1st Floor   
+Limassol  
 Cyprus  
-1066  
+3082  
 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
