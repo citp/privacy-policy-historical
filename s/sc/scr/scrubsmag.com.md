@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524192507id_/http%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129102317id_/http%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scrubs - The Nurse's Guide to Good Living
+# Privacy Policy | Scrubs - The Leading Lifestyle Nursing Magazine Featuring Inspirational and Informational Nursing Articles
 
 Thank you for visiting Scrubs Magazine. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by the Scrubs Editorial Team for Strategic Communications, Inc.
 
@@ -10,6 +10,8 @@ Through Scrubs Magazine you can vote in polls or otherwise express an opinion, s
 At some parts of our site you can submit information about other people. For example, you might submit a person’s name and e-mail address to send a Scrubby Award.
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **The Information You Submit**  
 We reserve the right to reject any submission or comment that could compromise patient or employee privacy. If you have questions regarding whether a possible submission or comment could violate HIPAA or your state’s privacy laws, you should obtain the prior approval of your employer’s Public Relations department.
@@ -70,4 +72,4 @@ Santa Monica, CA 90402
 
 http://scrubsmag.com/
 
-This Privacy Notice was revised 3-08-10
+This Privacy Notice was revised 11-17-10
