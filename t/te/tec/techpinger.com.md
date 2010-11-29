@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpinger.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507180135id_/http%3A//techpinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpinger.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129025513id_/http%3A//techpinger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Pinger
 
@@ -26,7 +26,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 If you have any questions or concerns about this privacy policy you can contact us from [Contact Page](http://techpinger.com/contact/) for further clarification.
 
-**Written by** : [SAVAD AM](http://techpinger.com/author/admin/ "Posts by SAVAD AM")
+**Written by** : [Admin](http://techpinger.com/author/admin/ "Posts by Admin")
 
 **Filed Under** : [Software](http://techpinger.com/category/software/ "View all posts in Software")
 
