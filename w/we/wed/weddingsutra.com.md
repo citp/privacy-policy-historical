@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingsutra.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530224500id_/http%3A//www.weddingsutra.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsutra.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129220819id_/http%3A//www.weddingsutra.com/Privacy.asp) for the most accurate reproduction.*
 
 # WeddingSutra.com – Leading Resource on Indian Weddings.
 
