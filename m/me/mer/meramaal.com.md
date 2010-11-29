@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meramaal.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011125658id_/http%3A//www.meramaal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meramaal.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129072656id_/http%3A//www.meramaal.com/privacy) for the most accurate reproduction.*
 
-# Maharashtra - MeraMaal.com Classifieds
+# Post Classified in Hyderabad - Search and Post Free Classified Ads in Hyderabad. Property, Cars in Hyderabad, Rentals, For Sale in Hyderabad - Meramaal.com
 
-MeraMaal.com values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
+Meramaal.com values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
 
 We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided.
 
@@ -10,4 +10,6 @@ We will enable you to communicate your privacy concerns to us and that we will r
 
 We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password.
 
-We welcome your feedback in our [discussion forum.](http://www.meramaal.com/community/list.php?2)
+We welcome your feedback in our [discussion forum.](http://www.meramaal.com/forum.html)
+
+If you require any further information, please contact us at support(at)meramaal(dot)com or by using our online [contact form](http://www.meramaal.com/contact/).
