@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413125631id_/http%3A//www.winhundred.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129163320id_/http%3A//winhundred.com/privacy.htm) for the most accurate reproduction.*
 
 # WinHundred LLC Privacy Policy
 
