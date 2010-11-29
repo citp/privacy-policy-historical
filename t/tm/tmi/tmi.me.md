@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmi.me privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620192131id_/http%3A//tmi.me/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmi.me privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129153733id_/http%3A//tmi.me/pages/privacy.php) for the most accurate reproduction.*
 
 # TMI.me: when you have too much to say...
 
