@@ -1,15 +1,22 @@
-> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170152id_/http%3A//www.wtop.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129213924id_/http%3A//www.wtop.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
 
 # Privacy Statement - wtop.com
 
 _**PRIVACY STATEMENT**_
 
-(Last Revised June, 2007) 
+(Last Revised January, 2009) 
 
-**General.** This website (the "Site") is operated by Bonneville International Corporation, a Utah corporation that does business as WTOP ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not accept all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
+**General**. This website (the "Site") is operated by Bonneville International Corporation ("Operator"). The following Privacy Statement (the "Statement") supplements the [Terms of Use](https://web.archive.org/?nid=164&sid=598238) posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Statement. You should review the Statement from time to time. Operator may change the Statement at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not accept all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
 
-**No Use by Children.** The Site is not directed to, or intended for use by, children (defined as anyone age twelve (12) or younger). Children should not use the Site or submit any information to Operator. 
+**No Use by Children**. The Site is not directed to, or intended for use by, children (defined as anyone age twelve (12) or younger). Children should not use the Site or submit any information to Operator. 
 
-**What Information is Collected.** There are two (2) general types of information that can be collected as a result of your use of the Site: (1) Personally identifiable information (such as your first and last name, home or other physical address, telephone number, email address, date of birth, social security number, other identifiers that permit physical or online contact with you or any information about you collected online and maintained in personally identifiable form in combination with any of the preceding categories), and (2) aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using). 
+**What Information is Collected**. There are two general types of information that can be collected as a result of your use of the Site: (1) Personally identifiable information (such as your first and last name, home or other physical address, telephone number, email address, date of birth, social security number, other identifiers that permit physical or online contact with you or any information about you collected online and maintained in personally identifiable form in combination with any of the preceding categories), and (2) aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using). 
 
 **Personally Identifiable Information.** Certain features available at the Site will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation. Some of the features may be offered by Operator, while others may be offered by third parties. (For example, you may be required to submit Personal Information in order to enter a contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site. IN ALL CASES, YOU CAN ALWAYS REFUSE TO PROVIDE PERSONAL INFORMATION, BUT THIS MAY RESULT IN DECREASED FUNCTIONALITY OF THE SITE FOR YOU AND LIMIT YOUR ABILITY TO RECEIVE INFORMATION ABOUT PRODUCTS OR SERVICES THAT MAY BE OF PARTICULAR INTEREST. In general, the use of Personal Information you choose to submit to a third party in connection with your use of the Site will be controlled by the privacy practices of the third party and not this Statement. 
+
+[ ](https://web.archive.org/web/20101129213924id_/http%3A//www.wtop.com%3Fsid%3D598239%26nid%3D164?nid=218&sid=2177868)
+
+Giving Thanks Abroad
+
+  
+
