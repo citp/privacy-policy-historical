@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309164426id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129023349id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # iNetZeal.com - Privacy Policy
 
 ## iNetZeal - SEO, Directory Submission and Link Building Company.
 
-Achieving good **search engine visibility** has become a necessity for every website today. Hundreds and thousands of businesses compete with one another in order to generate more and more business through their websites. There are many ways by which a website can get high rankings in major search engines. We offer important methods like directory submission, article submission and full **SEO service** with pre-configured **SEO packages** to improve your website's popularity and search engine visibility. 
+Achieving good **search engine visibility** has become a necessity for every website today. Hundreds and thousands of businesses compete with one another in order to generate more and more business through their websites. There are many ways by which a website can get high rankings in major search engines. We offer important methods like directory submission, article submission and full [**SEO service**](http://www.inetzeal.net/) with pre-configured **SEO packages** to improve your website's popularity and search engine visibility. 
 
 ### One Way Link Building Within Relevant Content
 
