@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustainablelifemedia.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619133149id_/http%3A//www.sustainablelifemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainablelifemedia.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129123924id_/http%3A//www.sustainablelifemedia.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Sustainable Life Media
 
