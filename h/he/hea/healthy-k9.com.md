@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626135410id_/http%3A//www.healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129052624id_/http%3A//healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
