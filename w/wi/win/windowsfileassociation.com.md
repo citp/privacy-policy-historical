@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsfileassociation.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611031027id_/http%3A//windowsfileassociation.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsfileassociation.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129113653id_/http%3A//windowsfileassociation.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
