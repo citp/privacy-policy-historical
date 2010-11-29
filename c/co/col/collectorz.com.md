@@ -1,26 +1,23 @@
-> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130084210id_/http%3A//www.collectorz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129171421id_/http%3A//www.collectorz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Collectorz.com Privacy Policy
 
-The Collectorz.com privacy policy is simple: we do not sell, rent or give your personal information to any third party. 
+Bitz & Pixelz B.V. (the parent company of Collectorz.com) does not collect any personal data about you on this website or in connection with any other service, apart from information which you volunteer (for example by e-mailing us, by purchasing a product from us, by downloading a product from us, or by using our online feedback form). When you purchase a product from Bitz & Pixelz B.V. , we may collect information including your contact details and credit card details. Please note that credit card information may be retained by our billing provider as a record of any transaction we undertake with you. 
 
-#### Order Information
+Information which you provide is used by Bitz & Pixelz B.V. only in line with the purpose for which you provided it and will not be made available to third parties, other than information provided to us during the purchase process which may be provided to our online billing provider and our banking institution to enable the purchase to be processed. 
 
-For the purpose of fulfilling orders, we collect contact information (name, address, country, zipcode and email address).  
-We do not receive or store financial information for credit card orders. These are processed securely using 128-bit encryption by a specialized payment processing company [Bibit](http://www.bibit.com/). For bank transfers directly into our account, we do receive the account number from our bank. 
+If Bitz & Pixelz B.V. has your email address, we may contact you by email to advise you of product updates, subscribe you to our newsletter or offer you Bitz & Pixelz B.V. products. You can opt out from receiving these emails at any time. Bitz & Pixelz B.V. may also contact you in relation to customer support queries which you lodge. 
 
-Collectorz.com does not sell or use your private information (name, address, phone, email address, etc) for any purpose other than to ship you your order, and to notify you of major version upgrades or new Collectorz.com product releases (by email only). 
+Your personal data may also be anonymised and used for statistical purposes. 
 
-#### Newsletter
+### Website
 
-If you subscribe to our newsletter, your email address will be used only to send you Collectorz.com newsletters and not for any other purpose. We do not sell, rent or give email addresses of newsletter subscribers to third parties.  
-At the time of purchase, you can indicate if you wish to receive newsletters ("opt-in").  
-If you are subscribed to our newsletter, you can unsubscribe at any time by selecting the Newsletter section from the menu of the relevant product section of this website. 
+The website uses cookies to personalize the displayed content and to measure the effectiveness of online advertising (e.g. Google Adwords). We do not use any third-party cookies. This cookies only holds a unique visitor id and no personal information at all. 
 
-#### Web Site
+### Log files
 
-The website uses cookies to personalize the displayed content and to measure the effectiveness of online advertising (e.g. Google Adwords). We do not use any third-party cookies. 
+Google Analytics is used to analyze traffic to this website. Google Analytics does not create individual profiles for visitors. Unlike some tracking services, Google Analytics does not have a database of individual profiles for each visitor. Google Analytics only collects aggregate data. 
 
-#### License validation
+### License validation
 
-To unlock a Collectorz.com product, the purchased license name and key are validated on our website. The data sent from the user's computer contains the product name, license name and key, install date and current date. 
+To unlock a Collectorz.com product, the purchased license name and license key are checked against our online server. The data sent from the user's computer only contains the product name, the license name, the license key, the install date and the current date. 
