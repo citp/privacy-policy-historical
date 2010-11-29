@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theunlockr.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526000103id_/http%3A//theunlockr.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunlockr.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129124824id_/http%3A//theunlockr.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Unlockr
+# Privacy Policy | TheUnlockr
 
 This is the web site of  **Mobile Unlimited, Inc.**.
 
@@ -12,7 +12,7 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: We do not set any cookies.
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting us at [theunlockr.com/contact-us](http://www.dmaresponsibility.org/policy/theunlockr.com/contact-us).
+If you do not want to receive e-mail from us in the future, please let us know by visiting us at <http://theunlockr.com/contact-us/>
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
@@ -22,10 +22,8 @@ Kontera.com
 TremorMedia.com  
 VibrantMedia.com
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+Upon request we provide site visitors with access to the information that we have collected and that we maintain about them.
 
-Consumers can access this information by visiting us at [TheUnlockr.com/contact-us/](http://www.dmaresponsibility.org/policy/TheUnlockr.com/contact-us/).
+Consumers can access this information by visiting us at <http://theunlockr.com/contact-us/>.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
-
-If you feel that this site is not following its stated information policy, you may contact or TheUnlockr.com/contact-us/.
+Upon request we offer visitors the ability to have factual inaccuracies corrected in information that we maintain about them
