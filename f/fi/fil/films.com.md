@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the films.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519102349id_/http%3A//www.films.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the films.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129084942id_/http%3A//www.films.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Films for the Humanities and Sciences - Privacy Policy
 
@@ -56,7 +56,7 @@ We believe that choice in how and when you are contacted is key to customer sati
 
   1. If you are a registered user at our website, you will be able to log in and update or change your contact or account information.
   2. You may unsubscribe to any of our online email updates by following the unsubscribe instructions in the body of any message.
-  3. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: Films Media Group, c/o Privacy Coordinator, P.O. Box 2053, Princeton, NJ 08543-2053. In those instances, we will retain your information in a “do not promote” file in our database.
+  3. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: Films Media Group, c/o Privacy Coordinator, 132 West 31st Street 17th Floor New York, NY 10001. In those instances, we will retain your information in a “do not promote” file in our database.
   4. You may also contact us at [privacypolicy@filmsmediagroup.com](mailto:privacypolicy@filmsmediagroup.com).
 
 
@@ -93,8 +93,9 @@ Or you can contact us by mail at:
 
 Privacy Coordinator   
 Films Media Group  
-P.O. Box 2053  
-Princeton, NJ 08543-2053
+132 West 31st Street  
+17th Floor  
+New York, NY 10001
 
 Or you can fax us at: 609-671-0266, Attn: Privacy Coordinator 
 
