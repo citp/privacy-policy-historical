@@ -1,106 +1,232 @@
-<!--The following is the downloaded HTML source of the wizbangblog.com privacy policy that was archived on 2007-02-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070219125131id_/http%3A//wizbangblog.com/advertising/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wizbangblog.com privacy policy that was archived on 2010-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129202346id_/http%3A//wizbangblog.com/advertising/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="expires" content="Thu, 1 October 1998 00:00:00 PST">
-<meta name="keywords" content="blog, weblog, entertainment, presidential, scandal, campaign, american, pundit">
-<meta name="description" content="Explosively Unique...">
-<meta name="generator" content="Movable Type 3.121">
-<meta name="author" content="Kevin Aylward">
-<meta name="ICBM" content="39.05097091, -77.38273867">
-<meta name="DC.Type" content="Collection">
-<meta name="DC.Title" content="Wizbang">
-<meta name="DC.Description" content="Explosively Unique...">
-<meta name="DC.Identifier" content="http://wizbangblog.com/">
-<meta name="DC.Language" content="en">
-<meta name="DC.Date.Created" content=" XXXXX ">
-<meta name="DC.Creator" content="Kevin Aylward">
-<meta name="DC.Rights" content="Copyright 2003-2005 Kevin Aylward">
-<meta name="DC.Format" content="html">
-<meta name="DC.Subject" content="politics, culture, entertainment, international, law, education, media, society, sports">
-<meta name="DC.Coverage" content="North and Central America:United States:Virginia:Potomac Falls">
-<meta name="DC.Date.Updated" content="September  7, 2006 11:06 AM">
-<title>Wizbang</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard"><head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="generator" content="Movable Type 3.35">
 
-<link rel="stylesheet" href="http://wizbangblog.com/skins/style1.css" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds.wizbangblog.com/Wizbang">
-<link rel="alternate" type="application/rss+xml" title="RSS Full Text Feed" href="http://feeds.wizbangblog.com/WizbangFullFeed">
-<link rel="alternate" type="application/rss+xml" title="RSS Feed + Comments" href="http://feeds.wizbangblog.com/WizbangFullCommentFeed">
-<link rel="alternate" type="application/rss+xml" title="Wizbang Podcast" href="http://feeds.wizbangblog.com/WizbangPodcast">
+<link rel="stylesheet" href="http://wizbangblog.com/styles-site.css" type="text/css">
+<link rel="stylesheet" href="http://wizbangblog.com/ajaxrating.css" type="text/css">
+<script type="text/javascript" src="http://wizbangblog.com/mt-static/prototype.lite.js"></script> 
+<script type="text/javascript" src="http://wizbangblog.com/mt-static/moo.ajax.js"></script>
+<script type="text/javascript" src="http://wizbangblog.com/ajaxrating.js"></script> 
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wizbangblog.com/rsd.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds.wizbangblog.com/Wizbang">
 
-<script type="text/javascript" language="javascript">
-<!--
-function OpenComments (c) {
-    window.open(c,'comments','width=480,height=480,scrollbars=yes,status=yes');
+   <title>About Wizbang</title>
+
+
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="http://feeds.wizbangblog.com/Wizbang">RSS/Atom Feed</a>'
+menu1[1]='<a href="http://feeds.wizbangblog.com/WizbangFullFeed">RSS/Atom Full Text Feed</a>'
+menu1[2]='<a href="http://feeds.wizbangblog.com/WizbangFullCommentFeed">RSS/Atom Feed + Comments</a>'
+menu1[3]='<a href="http://feeds.wizbangblog.com/WizbangPodcast">Podcast RSS/Atom Feed</a>'
+menu1[4]='<a href="http://wizbangblog.com/feeds.php">All Feeds</a>'
+
+//Contents for menu 2, and so on
+var menu2=new Array()
+menu2[0]='<a href="http://wizbangblog.com">Wizbang</a>'
+menu2[1]='<a href="http://pop.wizbangblog.com">Wizbang Pop!</a>'
+menu2[2]='<a href="http://politics.wizbangblog.com">Wizbang Politics</a>'
+menu2[3]='<a href="http://politics.wizbangblog.com">Wizbang Blue</a>'
+menu2[4]='<a href="http://podcast.wizbangblog.com">Wizbang Podcast</a>'
+menu2[5]='<a href="http://sports.wizbangblog.com">Wizbang Sports</a>'
+menu2[6]='<a href="http://tech.wizbangblog.com">Wizbang Tech</a>'
+menu2[7]='<a href="http://tv.wizbangblog.com">Wizbang Media</a>'
+		
+var menuwidth='165px' //default menu width
+var menubgcolor='lightblue'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
 }
 
-function OpenTrackback (c) {
-    window.open(c,'trackback','width=480,height=480,scrollbars=yes,status=yes');
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
 }
 
-function showHide(entryID, entryLink, htmlObj, type) {
-if (type == "comments") {
-extTextDivID = ('comText' + (entryID));
-extLinkDivID = ('comLink' + (entryID));
-} else {
-extTextDivID = ('extText' + (entryID));
-extLinkDivID = ('extLink' + (entryID));
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
 }
-if( document.getElementById ) {
-if( document.getElementById(extTextDivID).style.display ) {
-if( entryLink != 0 ) {
-document.getElementById(extTextDivID).style.display = "block";
-document.getElementById(extLinkDivID).style.display = "none";
-htmlObj.blur();
-} else {
-document.getElementById(extTextDivID).style.display = "none";
-document.getElementById(extLinkDivID).style.display = "block";
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
 }
-} else {
-location.href = entryLink;
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
 return true;
+return false;
 }
-} else {
-location.href = entryLink;
-return true;
-}
-}
-//-->
-</script>
-</head>
-<body>
 
-<div id="banner"></div>
-<div class="description">Explosively Unique...</div>
-<div id="blog">
-	<div class="blogbody">
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script></head><body class="layout-wtt"><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:lightblue" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
+   <div id="container">
+      <div id="container-inner" class="pkg">
+
+<div id="banner" onclick="location.href='http://wizbangblog.com/';" style="cursor: pointer;">
+<div id="banner-inner" class="pkg">   
+<div id="delta">
+  <div id="delta-inner" class="pkg">
+    <div class="menu">
+         <ul class="module-list">
+        <li><a href="http://wizbangblog.com/" title="Return to the front page">Home</a></li>
+        <li><a href="http://wizbangblog.com/archives.php" title="Check the archives">Archives</a></li>
+        <li><a href="http://wizbangblog.com/hot.php" title="View the most popular stories at Wizbang Pop! as rated by readers.">Hot!</a></li>
+        <li><a href="http://wizbangblog.com/links.php" title="Wizbang blogroll">Links</a></li>
+        <li><a href="http://wizbangblog.com/faq.php" title="Have a question?  Check here for common answers to common questions about Wizbang">FAQ</a></li>
+        <li><a href="http://wizbangblog.com/about.php" title="Who's behind this Wizbang thing?">About</a></li>
+        <li class="rss"><a href="http://feeds.wizbangblog.com/Wizbang" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '200px')" onmouseout="delayhidemenu()">RSS</a></li>
+      </ul>
+    </div>
+</div>
+</div>
+</div>
+</div>
+
+
+         <div id="pagebody">
+            <div id="pagebody-inner" class="pkg">
+
+               <div id="alpha">
+                  <div id="alpha-inner" class="pkg">
+
+
+<br>
+<br>
 	
 	<h3 class="title">Wizbang Privacy Policy</h3>
 
 <p>This privacy statement covers all of the Wizbang network of sites ("Wizbang Sites"). Please read this statement carefully before using proceeding to access Wizbang Sites. Your use of Wizbang Sites indicates your agreement to abide by the Terms in effect.</p>
 
 <p>Information Collection</p>
-<p>Wizbang Online is the sole owner of the information collected on the Wizbang Sites. Wizbang Online may collect information from our users at several different points on the Wizbang Sites.</p>
+<p>Wizbang, LLC is the sole owner of the information collected on the Wizbang Sites. Wizbang Online may collect information from our users at several different points on the Wizbang Sites.</p>
 
 <p>Comments</p>
-<p>In order to enhance their use of the Wizbang Sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including an email address. Wizbang Online may use this, and other information, to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.</p>
+<p>In order to enhance their use of the Wizbang Sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including an email address. Wizbang may use this, and other information, to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.</p>
 
 <p>Mailing List</p>
-<p>Wizbang Online may launch a mailing list for some or all of the Wizbang Sites. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.  All mailing lists will have an easily located "unsubscribe" option.</p>
+<p>Wizbang may launch a mailing list for some or all of the Wizbang Sites. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.  All mailing lists will have an easily located "unsubscribe" option.</p>
 
 <p>Discussion Group and Cookies</p>
-<p>In order to further enhance the user experience, Wizbang Online may launch a discussion board service on some or all of the Wizbang Sites where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Wizbang Online uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Wizbang Online will not pass this information to any other organization except in aggregate form.</p>
+<p>In order to further enhance the user experience, Wizbang may launch a discussion board service on some or all of the Wizbang Sites where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Wizbang uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Wizbang will not pass this information to any other organization except in aggregate form.</p>
 
 <p>The discussion board service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
 
-<p>By setting a cookie on a Wizbang Site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Wizbang Online products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Wizbang Online services require that you accept cookies.</p>
+<p>By setting a cookie on a Wizbang Site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Wizbang products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Wizbang services require that you accept cookies.</p>
 
 <p>Third Party Cookies</p>
-Some of our business partners may use cookies on our site (for example, advertisers). However, Wizbang Online has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Wizbang Online only and does not cover the use of cookies by any advertisers.<p></p>
+Some of our business partners may use cookies on our site (for example, advertisers). However, Wizbang has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Wizbang only and does not cover the use of cookies by any advertisers.<p></p>
 
 <p>Third Party Advertising</p>
 <p>The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.</p>
@@ -109,666 +235,653 @@ Some of our business partners may use cookies on our site (for example, advertis
 <p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p>
 
 <p>Legal Disclaimer</p>
-<p>Though we make every effort to preserve user privacy, Wizbang Online may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Wizbang Sites.</p>
+<p>Though we make every effort to preserve user privacy, Wizbang may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Wizbang Sites.</p>
 
 <p>Business Transitions</p>
-<p>In the event Wizbang Online goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p>
+<p>In the event Wizbang, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p>
 
 <p>Links</p>
-<p>The Wizbang Sites contain links to other sites. Please be aware that Wizbang Online is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Wizbang Online.</p>
+<p>The Wizbang Sites contain links to other sites. Please be aware that Wizbang is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Wizbang.</p>
 
 <p>Notification of Changes</p>
-<p>Whenever Wizbang Online changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+<p>Whenever Wizbang changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
 
 <p>Contact Information</p>
 <p>If you have any questions or suggestions regarding our privacy policy, please contact the editor of the Wizbang site in question, or send an email to kevin AT wizbangblog DOT com.</p>
 <br>
 
-</div><!-- close BLOGBODY -->
-</div><!-- close BLOG div -->
+                                    </div>
+               </div>
 
-<div id="links">
-<br>
-<center><a href="http://wizbangblog.com/">Wizbang</a> * <a href="http://pop.wizbangblog.com/">Wizbang Pop!</a> * <a href="http://tv.wizbangblog.com/">Wizbang TV</a> * <a href="http://politics.wizbangblog.com/">Wizbang Politics</a> * <a href="http://sports.wizbangblog.com/">Wizbang Sports</a> * <a href="http://tech.wizbangblog.com/">Wizbang Tech</a> * <a href="http://blogs.wizbangblog.com/">Wizbang Bomb Squad</a> * <a href="http://podcast.wizbangblog.com/">Wizbang Podcast</a></center>
+               <div id="beta">
+                  <div id="beta-inner" class="pkg">
+                     <div class="module-archives module">
+                        <h2 class="module-header">Advertisements</h2>
+                        <div class="module-content">
 
-
-<div class="sidetitle">Main</div>
-<div class="side"><a href="http://wizbangblog.com/">Home</a><br>
-<a href="http://wizbangblog.com/about.php">About</a><br>
-<a href="http://wizbangblog.com/advertising/index.php">Advertising</a><br>
-<a href="http://wizbangblog.com/cgi-bin/mt.cgi">Author Login</a><br>
-<a href="http://wizbangblog.com/archives/005712.php">Comment/Trackback Policy</a><br>
-<a href="#credits">Contact</a><br>
-<a href="#credits">Credits</a><br>
-<a href="http://wizbangblog.com/advertising/privacy.php">Privacy Policy</a><br>
-<br><br>
-Your link preference:<br>
-<a href="/wincookie.php?new_window=1" onmouseover="if(document.getElementById)this.innerHTML='change this setting';" onmouseout="if(document.getElementById)this.innerHTML='links open in this window';" target="_self">links open in this window</a></div>
-
-<div class="sidetitle">Support Wizbang®</div>
-<div class="side">
-<br><center>
-<button onclick="location='http://www.aylwardfamily.com/donate.htm'"><a href="http://www.aylwardfamily.com/donate.htm"><big><strong>Donate</strong></big></a></button></center>
-</div>
-
-<div class="sidetitle">Wizbang® Syndication</div>
-<div class="side">
-<br>
-<center><a href="http://wizbangblog.com/feeds.php"><img alt="Wizbang Feeds" src="http://wizbangblog.com/images/feed-icon32x32.png" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;<a href="http://wizbangblog.com/feeds.php">Wizbang® Feeds</a></center>
-</div>
-
-<div class="sidetitle">Advertisements</div>
-<div class="side">
-<center>
 <!-- Begin: Wizbang Premium -->
-<center>
 <script language="javascript" src="http://cache.blogads.com/228264135/feed.js"></script>
-<!-- Remove in August -->
-<link rel="stylesheet" type="text/css" href="http://proxy.blogads.com/lfwjobzmxbsegbnjmzdpn/wizbang/ba_as.css">
-<script language="javascript" src="http://proxy.blogads.com/lfwjobzmxbsegbnjmzdpn/wizbang/feed.js"></script>
-</center>
 <!-- End: Wizbang Premium -->
 <br>
 
 <!-- Begin: Wizbang Ads -->
-<center>
 <!-- New strip -->
 <script language="javascript" src="http://cache.blogads.com/228264120/feed.js"></script>
-<!-- Remove in August -->
-<link rel="stylesheet" type="text/css" href="http://proxy.blogads.com/lfwjoxjacbohcmphdpn/wizbang/ba_as_css">
-<script language="javascript" src="http://proxy.blogads.com/lfwjoxjacbohcmphdpn/wizbang/feed.js"></script>
-</center>
 <!-- End: Wizbang Ads -->
 <br>
 
-<!-- Begin: Wizbang Pop! -->
-<center>
-<!-- New strip -->
-
-<script language="javascript" src="http://cache.blogads.com/658883861/feed.js"></script>
-<!-- Remove in August -->
-<link rel="stylesheet" type="text/css" href="http://proxy.blogads.com/lfwjobzmxbsegbnjmzdpn/wizbangpop/ba_as.css">
-<script language="javascript" src="http://proxy.blogads.com/lfwjobzmxbsegbnjmzdpn/wizbangpop/feed.js"></script>
-</center>
-<!-- End: Wizbang Pop! -->
-<br>
-
 <!-- Begin: Wizbang Politics -->
-<center>
-<!-- Remove in August -->
-<script language="javascript" src="http://proxy.blogads.com/lfwjobzmxbsegbnjmzdpn/wizbangpolitics/feed.js"></script>
 <!-- New strip -->
-<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/882220900/feed.css">
 <script language="javascript" src="http://cache.blogads.com/882220900/feed.js"></script>
-</center>
 <!-- End: Wizbang Politics -->
+<br>
+<br>
+<center>
+<!-- BEGIN STANDARD TAG - 160 x 600 - Wizbang::Default section - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="160" height="600" src="http://ad.103092804.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=886604"></iframe>
+<!-- END TAG -->
+</center>
 <br><br>
 
-<center>
-<script type="text/javascript"><!--
-google_ad_client = "pub-0899012092668124";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-google_ad_channel ="7234937106";
-google_color_border = "336699";
-google_color_bg = "FFFFFF";
-google_color_link = "0000FF";
-google_color_url = "008000";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</center>
 <br><br>
-<center>
-<!-- Begin: AdBrite -->
-<style type="text/css">
-.adHeadline {font: bold 10pt Arial; text-decoration: underline; color: blue;}
-.adText {font: normal 10pt Arial; text-decoration: none; color: black;}
-</style>
-<script type="text/javascript" src="http://2.adbrite.com/mb/text_group.php?sid=14621&amp;br=1&amp;dk=6865616c746820696e737572616e636520636f7665726167655f335f315f776562"></script>
-<p>
-</p><div><a class="adHeadline" target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=14621&amp;afsid=1">Your Ad Here</a></div>
-<!-- End: AdBrite -->
-</center>
-<br><br>
-<center>
-<!--BEGIN HYPERBIDDER ADS CODE--><!--Hyperbidder.com is a value-added Online Marketing portal, changing the way Internet banner advertising and rich media promotion is done!--><iframe src="http://ad2.hyperbidder.com/HYWeb/DisplayAdvtServlet?cId=389&amp;sId=1" width="160" height="660" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe><!--END HYPERBIDDER ADS CODE-->
-</center>
-<br><br>
-<center><script src="http://blogadswap.com/ad_parse.php?pub_id=wizba8266"></script></center>
-<br><br>
-<!-- Begin: Wizbang Content Area Ads -->
-<center>
-<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/341497289/feed.css">
-<script language="javascript" src="http://cache.blogads.com/341497289/feed.js"></script>
-</center>
-<!-- End: Wizbang Content Area Ads -->
-<br>
-</center></div>
 
-<div class="sidetitle">The Wizbang® Network</div>
-<div class="side">
-<center><a href="http://wizbangblog.com/"><img alt="Wizbang" src="http://wizbangblog.com/images/wizbang-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://wizbangblog.com/2007/02/19/snow-job.php">Snow job</a></sub><br>
-<sub><a href="http://wizbangblog.com/2007/02/19/weekend-caption-contest-winners.php">Weekend Caption Contest™ Winners</a></sub><br>
-<sub><a href="http://wizbangblog.com/2007/02/18/the-left-is-rooting-for-americas-defeat-in-iraq.php">The Left is Rooting for America's Defeat in Iraq</a></sub><br>
-<br>
-<center><a href="http://politics.wizbangblog.com/"><img alt="Wizbang Politics" src="http://wizbangblog.com/images/politics-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://politics.wizbangblog.com/2007/02/18/a-living-hero-speaks-to-the-house.php">A living Hero speaks to the House</a><br></sub>
-<sub><a href="http://politics.wizbangblog.com/2007/02/18/advice-for-the-ages.php">Advice for the Ages</a><br></sub>
-<sub><a href="http://politics.wizbangblog.com/2007/02/16/2008-pennsylvania-8th-congressional-district.php">2008 Pennsylvania 8th Congressional District</a><br></sub>
-<br>
-<center><a href="http://blogs.wizbangblog.com/"><img alt="Wizbang Bomb Squad" src="http://wizbangblog.com/images/bombsquad-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://blogs.wizbangblog.com/2007/02/18/speaker-pelosi-addresses-obesity-versus-hunger-in-america.php">Speaker Pelosi Addresses Obesity Versus Hunger in America</a><br></sub>
-<sub><a href="http://blogs.wizbangblog.com/2007/02/15/b-of-a-and-illegal-aliensperfect-for-each-other.php">What Happened to "AMERICA" at B of A?</a><br></sub>
-<sub><a href="http://blogs.wizbangblog.com/2007/02/13/american-idol-little-sarah-burgess-heads-off-to-hollywood.php">American Idol: Little Sarah Burgess heads off to Hollywood</a><br></sub>
-<br>
-<center><a href="http://podcast.wizbangblog.com/"><img alt="Wizbang Podcast" src="http://wizbangblog.com/images/podcast-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://podcast.wizbangblog.com/2007/02/wizbang_podcast_55.php">Wizbang Podcast #55</a><br></sub>
-<sub><a href="http://podcast.wizbangblog.com/2007/02/wizbang_podcast_54.php">Wizbang Podcast #54</a><br></sub>
-<sub><a href="http://podcast.wizbangblog.com/2007/01/wizbang_podcast_53.php">Wizbang Podcast #53</a><br></sub>
-<br>
-<center><a href="http://pop.wizbangblog.com/"><img alt="Wizbang Pop!" src="http://wizbangblog.com/images/pop-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://pop.wizbangblog.com/2007/02/19/moynahan-expecting-child-with-ex-tom-brady.php">Moynahan Expecting Child With Ex Tom Brady</a><br></sub>
-<sub><a href="http://pop.wizbangblog.com/2007/02/19/lindsay-free-to-dedicate-all-her-time-to-parties.php">Lindsay Free to Dedicate ALL Her Time To Parties</a><br></sub>
-<sub><a href="http://pop.wizbangblog.com/2007/02/19/get-yo-pitt-on.php">Get Yo' Pitt On...</a><br></sub>
-<br>
-<center><a href="http://sports.wizbangblog.com/"><img alt="Wizbang Sports" src="http://wizbangblog.com/images/sports-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://sports.wizbangblog.com/2007/02/2007_mlb_predictions_its_never.php">2007 MLB Predictions: It's never too early</a><br></sub>
-<sub><a href="http://sports.wizbangblog.com/2007/02/liveblogging_the_super_bowl.php">Liveblogging the Super Bowl</a><br></sub>
-<sub><a href="http://sports.wizbangblog.com/2007/02/superbowl.php">Superbowl</a><br></sub>
-<br>
-<center><a href="http://tech.wizbangblog.com/"><img alt="Wizbang Tech" src="http://wizbangblog.com/images/tech-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://tech.wizbangblog.com/2007/02/16/new-computer-technology.php">New Computer Technology</a><br></sub>
-<sub><a href="http://tech.wizbangblog.com/2007/02/07/thoughts-on-drm.php">Thoughts on DRM</a><br></sub>
-<sub><a href="http://tech.wizbangblog.com/2007/02/07/the-internets-are-under-attack.php">The Internets Are Under Attack</a><br></sub>
-<br>
-<center><a href="http://tv.wizbangblog.com/"><img alt="Wizbang TV" src="http://wizbangblog.com/images/tv-small.jpg" width="200" height="52"></a></center>
-<sub><a href="http://tv.wizbangblog.com/2007/01/26/george-washington.php">George Washington</a><br></sub>
-<sub><a href="http://tv.wizbangblog.com/2007/01/26/german-vw-phaeton-commercial.php">German VW Phaeton commercial</a><br></sub>
-<sub><a href="http://tv.wizbangblog.com/2007/01/25/subliminal-mcdonalds.php">Subliminal McDonald's</a><br></sub>
-<br>
-<center><a href="http://wizbangblog.com/videonews.php"><img alt="Watch the Wizbang News Channel" src="http://wizbangblog.com/images/wizbangnewschannel.jpg" width="180" height="106"><br>Watch the Wizbang News Channel</a></center>
-</div><div class="sidetitle">Search</div>
-<div class="side">
-    <form method="get" action="http://wizbangblog.com/cgi-bin/mt-search.cgi">
-      <div>
-      <input type="hidden" name="IncludeBlogs" value="1">
-      <label for="search" accesskey="4">Search this weblog:</label><br>
-      <input id="search" name="search" size="20"><br>
-      <input type="submit" value="Search"><br>
-      <span class="label">Include:</span><br>
-      <input type="radio" name="SearchElement" value="entries" checked="checked"> Entries 
-      <input type="radio" name="SearchElement" value="comments"> Comments<br>
-      <input type="radio" name="SearchElement" value="both"> Both<br>
-      <span class="label">Since:</span>
-      <select name="SearchCutoff">
-        <option value="9999999" selected="selected">Forever</option>
-        <option value="7">Last week</option>
-        <option value="30">Last month</option>
-        <option value="365">Last year</option>
-        <option value="730">Last two years</option>
+                        </div>
+                     </div>
+   <div class="module-archives module">
+                        <h2 class="module-header">Shop Wizbang!</h2>
+                        <div class="module-content">
+
+<center><a href="http://www.cafepress.com/wizbangblog"><img src="http://wizbangblog.com/images/obama-shirt-store-girl.jpg" width="154" height="250" alt="Wizbang Swag Store Featuring Obama The Joker Swag"><br>Click to shop!</a></center>
+
+                        </div>
+                     </div>
+                     <div class="module-archives module">
+                        <div class="module-content">
+
+<div align="center"><a href="http://web.blogads.com/advertise/conservative_blog_advertising_network"><img src="http://wizbangblog.com/images/rightads.gif" width="100" height="50" alt="rightads.gif"></a></div><br>
+<div align="center"><a href="http://web.blogads.com/advertise/beltway_bloggers"><img src="http://wizbangblog.com/images/beltwaybloggers.gif" width="100" height="126" alt="beltwaybloggers.gif"></a></div><br>
+<div align="center"><a href="http://web.blogads.com/advertise/political_insider_ad_network"><img src="http://wizbangblog.com/images/insiderslogo.jpg" width="100" height="93" alt="insiderslogo.jpg"></a></div><br>
+<div align="center"><a href="http://www.mediabloggers.org/"><img src="http://wizbangblog.com/images/mba_blue.gif" width="100" height="42" alt="mba_blue.gif"></a></div>
+
+<center>
+<div id="networkedblogs_nwidget_container" style="height:360px;padding-top:10px;"><div id="networkedblogs_nwidget_above"></div><div id="networkedblogs_nwidget_widget" style="border:1px solid #D1D7DF;background-color:#F5F6F9;margin:0px auto;"><div id="networkedblogs_nwidget_logo" style="padding:1px;margin:0px;background-color:#edeff4;text-align:center;height:21px;"><a href="http://networkedblogs.com/" target="_blank" title="NetworkedBlogs"><img style="border: none;" src="http://static.networkedblogs.com/static/images/logo_small.png" title="NetworkedBlogs"></a></div><div id="networkedblogs_nwidget_body" style="text-align: center;"></div><div id="networkedblogs_nwidget_follow" style="padding:5px;"><a style="display:block;line-height:100%;width:90px;margin:0px auto;padding:4px 8px;text-align:center;background-color:#3b5998;border:1px solid #D9DFEA;border-bottom-color:#0e1f5b;border-right-color:#0e1f5b;color:#FFFFFF;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:11px;text-decoration:none;" href="http://networkedblogs.com/blog/wizbang/?ahash=bd9a9b3a8ea35d25d5b32f29751b0740">Follow this blog</a></div></div><div id="networkedblogs_nwidget_below"></div></div><script type="text/javascript"><!--
+if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogId=6014;networkedblogs.shortName="wizbang";}
+--></script><script src="http://nwidget.networkedblogs.com/getnetworkwidget?bid=6014" type="text/javascript"></script>
+</center>
+
+</div>
+</div>
+            </div>
+         </div>
+
+              <div id="gamma">
+                  <div id="gamma-inner" class="pkg">
+                     <div class="module-search module">
+                        <h2 class="module-header">Search</h2>
+                        <div class="module-content">
+                           <form method="get" action="http://wizbangblog.com/fastsearch">
+                              <input type="hidden" name="blogs" value="1">
+                              <label for="search" accesskey="4">Search this site:</label><br>
+                              <input id="search" name="query" size="20">
+                              <input type="submit" value="Search">
+                           </form>
+					
+                        </div>
+                     </div><div class="module-welcome module">
+                         <h2 class="module-header">Follow Wizbang</h2>
+                         <div class="module-content">
+<center>
+<a href="http://www.facebook.com/pages/Wizbang/137619180641" title="Follow Wizbang on Facebook"><img src="http://wizbangblog.com/images/FaceBook_48x48.png" width="48" height="48" alt="Follow Wizbang on Facebook"></a><a href="http://twitter.com/wizbangblog" title="Follow Wizbang on Twitter"><img src="http://wizbangblog.com/images/image.png" width="48" height="48" alt="Follow Wizbang on Twitter"></a><a href="http://feeds.wizbangblog.com/Wizbang" title="Subscribe to Wizbang feed"><img src="http://wizbangblog.com/images/feedimage.png" width="48" height="48" alt="Subscribe to Wizbang feed"></a><a href="http://wizbangblog.com/m/index.html" title="Wizbang Mobile"><img src="http://wizbangblog.com/images/mobile.png" width="48" height="48" alt="Wizbang Mobile"></a></center>
+                         </div>
+                      </div><div class="module-welcome module">
+                         <h2 class="module-header">Contact</h2>
+                         <div class="module-content">
+                             <p>Send e-mail tips to us:</p>
+
+<p><a href="mailto:tips@wizbangblog.com">tips@wizbangblog.com</a></p>
+
+                         </div>
+                      </div>
+            <div class="module-search module">
+                        <h2 class="module-header">Subscribe Via E-Mail</h2>
+                        <div class="module-content">
+<p>Get Wizbang in your inbox by submitting your email address below.</p>
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" method="get" action="http://wizbangblog.com/cgi-bin/plugins/Notifier/mt-notifier.cgi"><input type="hidden" name="blog_id" value="1">Get notified by post<br><input name="email"><input type="submit" class="button" value="Go"></form>			
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">Get daily summaries<br><input type="text" style="width:140px" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=194422" name="url"><input type="hidden" value="Wizbang" name="title"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Go"></form>
+                        </div>
+                     </div><div class="module-feed module">
+<div class="module-content">
+<h2 class="module-header">Fresh Links</h2>
+
+<script type="text/javascript" src="https://www.google.com/reader/ui/publisher-en.js"></script>
+<script type="text/javascript" src="https://www.google.com/reader/public/javascript/user/02354306148856888965/label/Wizbang Links?n=10&amp;callback=GRC_p(%7Bc%3A%22blue%22%2Ct%3A%22Wizbang%20Links%22%2Cs%3A%22true%22%2Cn%3A%22true%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
+
+</div>
+</div><div class="module-search module">
+   <h2 class="module-header">The Wizbang® Network</h2>
+   <div class="module-content">
+<script src="http://feeds.feedburner.com/WizbangPop?format=sigpro" type="text/javascript"></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/WizbangPop"></a><br/>Powered by FeedBurner</p> </noscript>
+  </div>
+</div><div class="module-archives module" id="category-archives">
+   <h2 class="module-header">Categories</h2>
+   <div class="module-content">
+      <select onchange="nav(this)">
+         <option>Select a Category...</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/2003-weblog-awards/">2003 Weblog Awards</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/2004-weblog-awards/">2004 Weblog Awards</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/2005-weblog-awards/">2005 Weblog Awards</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/2006-weblog-awards/">2006 Weblog Awards</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/2007-weblog-awards/">2007 Weblog Awards</option>
+                  <option value="http://wizbangblog.com/categories/2008-presidential-race/">2008 Presidential Race</option>
+                  <option value="http://wizbangblog.com/categories/2008-weblog-awards/">2008 Weblog Awards</option>
+                  <option value="http://wizbangblog.com/categories/economics/2009-spendulus-bill/">2009 Spendulus Bill</option>
+                  <option value="http://wizbangblog.com/categories/entertainment/24/">24</option>
+                  <option value="http://wizbangblog.com/categories/2nd-amendment/">2nd Amendment</option>
+                  <option value="http://wizbangblog.com/categories/911/">9/11</option>
+                  <option value="http://wizbangblog.com/categories/911/911-commission/">9/11 Commission</option>
+                  <option value="http://wizbangblog.com/categories/abortion/">Abortion</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/abu-ghraib/">Abu Ghraib</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/abu-musab-alzarqawi/">Abu Musab al-Zarqawi</option>
+                  <option value="http://wizbangblog.com/categories/scandals/acorn/">ACORN</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/afghanistan/">Afghanistan</option>
+                  <option value="http://wizbangblog.com/categories/scandals/air-america-scandal/">Air America Scandal</option>
+                  <option value="http://wizbangblog.com/categories/celebrities/al-franken/">Al Franken</option>
+                  <option value="http://wizbangblog.com/categories/politicians/al-gore/">Al Gore</option>
+                  <option value="http://wizbangblog.com/categories/politicians/allen-west/">Allen West</option>
+                  <option value="http://wizbangblog.com/categories/american-exceptionalism/">American exceptionalism</option>
+                  <option value="http://wizbangblog.com/categories/entertainment/american-idol/">American Idol</option>
+                  <option value="http://wizbangblog.com/categories/media/ap-watch/">AP Watch</option>
+                  <option value="http://wizbangblog.com/categories/scandals/apjamil-hussein/">AP-Jamil Hussein</option>
+                  <option value="http://wizbangblog.com/categories/artsyfartsy/">ArtsyFartsy</option>
+                  <option value="http://wizbangblog.com/categories/celebrities/ashlee-simpson/">Ashlee Simpson</option>
+                  <option value="http://wizbangblog.com/categories/asshats/">Asshats</option>
+                  <option value="http://wizbangblog.com/categories/bloggers/atrios/">Atrios</option>
+                  <option value="http://wizbangblog.com/categories/attention-whores/">Attention Whores</option>
+                  <option value="http://wizbangblog.com/categories/autism/">Autism</option>
+                  <option value="http://wizbangblog.com/categories/business/auto-bailouts/">Auto Bailouts</option>
+                  <option value="http://wizbangblog.com/categories/medicine/avian-flu/">Avian Flu</option>
+                  <option value="http://wizbangblog.com/categories/politicians/barack-obama/">Barack Obama</option>
+                  <option value="http://wizbangblog.com/categories/politicians/barbara-boxer/">Barbara Boxer</option>
+                  <option value="http://wizbangblog.com/categories/scandals/berger-document-theft/">Berger Document Theft</option>
+                  <option value="http://wizbangblog.com/categories/big-government/">Big government</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/blog-of-the-day/">Blog Of The Day</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/blog-war/">Blog War</option>
+                  <option value="http://wizbangblog.com/categories/fundraising/blogathon-2003/">Blogathon 2003</option>
+                  <option value="http://wizbangblog.com/categories/blogger-conference-calls/">Blogger Conference Calls</option>
+                  <option value="http://wizbangblog.com/categories/bloggering-wilburys/">Bloggering Wilburys</option>
+                  <option value="http://wizbangblog.com/categories/bloggers/">Bloggers</option>
+                  <option value="http://wizbangblog.com/categories/blogging-matters/">Blogging Matters</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/">Blogosphere</option>
+                  <option value="http://wizbangblog.com/categories/tech-stuff/blogspot-defectors/">BlogSpot Defectors</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/bonfire-of-the-vanities/">Bonfire Of The Vanities</option>
+                  <option value="http://wizbangblog.com/categories/books/">Books</option>
+                  <option value="http://wizbangblog.com/categories/bp-oil-spill/">BP Oil Spill</option>
+                  <option value="http://wizbangblog.com/categories/breaking-news/">Breaking News</option>
+                  <option value="http://wizbangblog.com/categories/celebrities/britney-spears/">Britney Spears</option>
+                  <option value="http://wizbangblog.com/categories/media/buried-lede-of-the-day/">Buried Lede Of The Day</option>
+                  <option value="http://wizbangblog.com/categories/bush/">Bush</option>
+                  <option value="http://wizbangblog.com/categories/business/">Business</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/carnival-of-the-dumb-criminals/">Carnival Of The Dumb Criminals</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/carnival-of-the-trackbacks-1/">Carnival of the Trackbacks</option>
+                  <option value="http://wizbangblog.com/categories/blogosphere/carnival-of-the-vanities/">Carnival of the Vanities</option>
+                  <option value="http://wizbangblog.com/categories/cartoon-of-the-day/">Cartoon of the Day</option>
+                  <option value="http://wizbangblog.com/categories/celebrities/">Celebrities</option>
+                  <option value="http://wizbangblog.com/categories/politicians/charles-schumer/">Charles Schumer</option>
+                  <option value="http://wizbangblog.com/categories/world/china/">China</option>
+                  <option value="http://wizbangblog.com/categories/china-1/">China</option>
+                  <option value="http://wizbangblog.com/categories/religion/christianity/">Christianity</option>
+                  <option value="http://wizbangblog.com/categories/christmas/">Christmas</option>
+                  <option value="http://wizbangblog.com/categories/politicians/chuck-schumer/">Chuck Schumer</option>
+                  <option value="http://wizbangblog.com/categories/cia/">CIA</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/cindy-sheehan/">Cindy Sheehan</option>
+                  <option value="http://wizbangblog.com/categories/sports/college-football/">College Football</option>
+                  <option value="http://wizbangblog.com/categories/congress/">Congress</option>
+                  <option value="http://wizbangblog.com/categories/constitutional-issues/">Constitutional Issues</option>
+                  <option value="http://wizbangblog.com/categories/contests/">Contests</option>
+                  <option value="http://wizbangblog.com/categories/convention-coverage/">Convention Coverage</option>
+                  <option value="http://wizbangblog.com/categories/corrections/">Corrections</option>
+                  <option value="http://wizbangblog.com/categories/big-government/corruption/">corruption</option>
+                  <option value="http://wizbangblog.com/categories/cuba/">Cuba</option>
+                  <option value="http://wizbangblog.com/categories/politics/culture-of-corruption/">Culture Of Corruption</option>
+                  <option value="http://wizbangblog.com/categories/politicians/cynthia-mckinney/">Cynthia McKinney</option>
+                  <option value="http://wizbangblog.com/categories/dc/">DC</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/debra-burlingame/">Debra Burlingame</option>
+                  <option value="http://wizbangblog.com/categories/school-sex-scandals/debra-lafave/">Debra LaFave</option>
+                  <option value="http://wizbangblog.com/categories/democracy/">Democracy</option>
+                  <option value="http://wizbangblog.com/categories/politics/democrats/">Democrats</option>
+                  <option value="http://wizbangblog.com/categories/politicians/dick-cheney/">Dick Cheney</option>
+                  <option value="http://wizbangblog.com/categories/politics/dnc/">DNC</option>
+                  <option value="http://wizbangblog.com/categories/dont-tase-me-bro/">Don't Tase Me, Bro!</option>
+                  <option value="http://wizbangblog.com/categories/douchebag-of-the-day/">Douchebag Of The Day</option>
+                  <option value="http://wizbangblog.com/categories/scandals/downing-street-memo/">Downing Street Memo</option>
+                  <option value="http://wizbangblog.com/categories/bloggers/du-watch/">DU Watch</option>
+                  <option value="http://wizbangblog.com/categories/dumb-criminals/">Dumb Criminals</option>
+                  <option value="http://wizbangblog.com/categories/dumbasses/">Dumbasses</option>
+                  <option value="http://wizbangblog.com/categories/economics/">Economics</option>
+                  <option value="http://wizbangblog.com/categories/education/">Education</option>
+                  <option value="http://wizbangblog.com/categories/elections/">Elections</option>
+                  <option value="http://wizbangblog.com/categories/economics/employment/">Employment</option>
+                  <option value="http://wizbangblog.com/categories/energy/">Energy</option>
+                  <option value="http://wizbangblog.com/categories/entertainment/">Entertainment</option>
+                  <option value="http://wizbangblog.com/categories/environment/">Environment</option>
+                  <option value="http://wizbangblog.com/categories/miscellaneous/errata/">Errata</option>
+                  <option value="http://wizbangblog.com/categories/celebrities/eva-longoria/">Eva Longoria</option>
+                  <option value="http://wizbangblog.com/categories/religion/evil/">Evil</option>
+                  <option value="http://wizbangblog.com/categories/featured-columns/">Featured Columns</option>
+                  <option value="http://wizbangblog.com/categories/fec/">FEC</option>
+                  <option value="http://wizbangblog.com/categories/fema-follies/fema/">FEMA</option>
+                  <option value="http://wizbangblog.com/categories/fema-follies/">FEMA Follies</option>
+                  <option value="http://wizbangblog.com/categories/feminism/">Feminism</option>
+                  <option value="http://wizbangblog.com/categories/economics/finance-reform/">Finance Reform</option>
+                  <option value="http://wizbangblog.com/categories/fundraising/flood-aid/">Flood Aid</option>
+                  <option value="http://wizbangblog.com/categories/florida/">Florida</option>
+                  <option value="http://wizbangblog.com/categories/economics/free-market-economy/">Free Market Economy</option>
+                  <option value="http://wizbangblog.com/categories/humor/fun/">Fun</option>
+                  <option value="http://wizbangblog.com/categories/fun-with-numbers/">Fun With Numbers</option>
+                  <option value="http://wizbangblog.com/categories/fundraising/">Fundraising</option>
+                  <option value="http://wizbangblog.com/categories/gay-marriage/">Gay Marriage</option>
+                  <option value="http://wizbangblog.com/categories/general/">General</option>
+                  <option value="http://wizbangblog.com/categories/politicians/george-w-bush/">George W. Bush</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/gitmo/">Gitmo</option>
+                  <option value="http://wizbangblog.com/categories/politics/global-politics/">Global Politics</option>
+                  <option value="http://wizbangblog.com/categories/global-warming/">Global Warming</option>
+                  <option value="http://wizbangblog.com/categories/gossip/">Gossip</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/ground-zero-mosque/">Ground Zero Mosque</option>
+                  <option value="http://wizbangblog.com/categories/bloggers/guest-bloggers/">Guest Bloggers</option>
+                  <option value="http://wizbangblog.com/categories/gun-control/">Gun control</option>
+                  <option value="http://wizbangblog.com/categories/world/haiti/">Haiti</option>
+                  <option value="http://wizbangblog.com/categories/middle-east/hamas/">Hamas</option>
+                  <option value="http://wizbangblog.com/categories/supreme-court/harriet-miers/">Harriet Miers</option>
+                  <option value="http://wizbangblog.com/categories/politicians/harry-reid/">Harry Reid</option>
+                  <option value="http://wizbangblog.com/categories/headline-of-the-day/">Headline Of The Day</option>
+                  <option value="http://wizbangblog.com/categories/health-care/">Health Care</option>
+                  <option value="http://wizbangblog.com/categories/middle-east/hezbollah/">Hezbollah</option>
+                  <option value="http://wizbangblog.com/categories/politicians/hillary-clinton/">Hillary Clinton</option>
+                  <option value="http://wizbangblog.com/categories/history/">History</option>
+                  <option value="http://wizbangblog.com/categories/congress/house-of-representatives/">House of Representatives</option>
+                  <option value="http://wizbangblog.com/categories/politicians/howard-dean/">Howard Dean</option>
+                  <option value="http://wizbangblog.com/categories/bloggers/huffpo/">HuffPo</option>
+                  <option value="http://wizbangblog.com/categories/humor/">Humor</option>
+                  <option value="http://wizbangblog.com/categories/weather/hurricane-katrina/">Hurricane Katrina</option>
+                  <option value="http://wizbangblog.com/categories/weather/hurricane-rita/">Hurricane Rita</option>
+                  <option value="http://wizbangblog.com/categories/weather/hurricanes/">Hurricanes</option>
+                  <option value="http://wizbangblog.com/categories/illegal-aliens/">Illegal Aliens</option>
+                  <option value="http://wizbangblog.com/categories/immigration/">Immigration</option>
+                  <option value="http://wizbangblog.com/categories/media/in-the-tank-for-obama/">In The Tank For Obama</option>
+                  <option value="http://wizbangblog.com/categories/911/international-freedom-center/">International Freedom Center</option>
+                  <option value="http://wizbangblog.com/categories/internet/">Internet</option>
+                  <option value="http://wizbangblog.com/categories/interviews/">Interviews</option>
+                  <option value="http://wizbangblog.com/categories/iran/">Iran</option>
+                  <option value="http://wizbangblog.com/categories/iraq/">Iraq</option>
+                  <option value="http://wizbangblog.com/categories/iraq/iraq-study-group-report/">Iraq Study Group Report</option>
+                  <option value="http://wizbangblog.com/categories/religion/islam/">Islam</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/islamic-fascism/">Islamic Fascism</option>
+                  <option value="http://wizbangblog.com/categories/middle-east/israel/">Israel</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/jack-abramoff/">Jack Abramoff</option>
+                  <option value="http://wizbangblog.com/categories/politicians/jack-murtha/">Jack Murtha</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/james-carville/">James Carville</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/jamie-gorelick/">Jamie Gorelick</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/janeane-garofalo/">Janeane Garofalo</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/janet-napolitano/">Janet Napolitano</option>
+                  <option value="http://wizbangblog.com/categories/politicians/jesse-jackson/">Jesse Jackson</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/jimmy-carter/">Jimmy Carter</option>
+                  <option value="http://wizbangblog.com/categories/politicians/joe-biden/">Joe Biden</option>
+                  <option value="http://wizbangblog.com/categories/politicians/john-edwards/">John Edwards</option>
+                  <option value="http://wizbangblog.com/categories/politicians/john-kerry/">John Kerry</option>
+                  <option value="http://wizbangblog.com/categories/politicians/john-mccain/">John McCain</option>
+                  <option value="http://wizbangblog.com/categories/supreme-court/john-roberts/">John Roberts</option>
+                  <option value="http://wizbangblog.com/categories/judges/">Judges</option>
+                  <option value="http://wizbangblog.com/categories/justice/">Justice</option>
+                  <option value="http://wizbangblog.com/categories/politicians/katherine-harris/">Katherine Harris</option>
+                  <option value="http://wizbangblog.com/categories/politicians/kathleen-blanco/">Kathleen Blanco</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/keith-olbermann/">Keith Olbermann</option>
+                  <option value="http://wizbangblog.com/categories/supreme-court/kelo/">Kelo</option>
+                  <option value="http://wizbangblog.com/categories/politicians/kerry-watch/">Kerry Watch</option>
+                  <option value="http://wizbangblog.com/categories/kevins/">Kevins</option>
+                  <option value="http://wizbangblog.com/categories/knucklehead-of-the-day/">Knucklehead of the Day</option>
+                  <option value="http://wizbangblog.com/categories/bloggers/kos/">Kos</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/kutztown-13/">Kutztown 13</option>
+                  <option value="http://wizbangblog.com/categories/media/la-times/">LA Times</option>
+                  <option value="http://wizbangblog.com/categories/law/">Law</option>
+                  <option value="http://wizbangblog.com/categories/life-issues/">Life Issues</option>
+                  <option value="http://wizbangblog.com/categories/live8/">Live8</option>
+                  <option value="http://wizbangblog.com/categories/mailbag/">Mailbag</option>
+                  <option value="http://wizbangblog.com/categories/politicians/marco-rubio/">Marco Rubio</option>
+                  <option value="http://wizbangblog.com/categories/mass-insanity/">Mass. Insanity</option>
+                  <option value="http://wizbangblog.com/categories/media/">Media</option>
+                  <option value="http://wizbangblog.com/categories/media-whores/">Media Whores</option>
+                  <option value="http://wizbangblog.com/categories/medicine/">Medicine</option>
+                  <option value="http://wizbangblog.com/categories/meme-watch/">Meme Watch</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/michelle-obama/">Michelle Obama</option>
+                  <option value="http://wizbangblog.com/categories/middle-east/">Middle East</option>
+                  <option value="http://wizbangblog.com/categories/milblog-of-the-week/">Milblog Of The Week</option>
+                  <option value="http://wizbangblog.com/categories/military/">Military</option>
+                  <option value="http://wizbangblog.com/categories/miscellaneous/">Miscellaneous</option>
+                  <option value="http://wizbangblog.com/categories/modest-proposals/">Modest Proposals</option>
+                  <option value="http://wizbangblog.com/categories/money/">Money</option>
+                  <option value="http://wizbangblog.com/categories/moonbats/">Moonbats</option>
+                  <option value="http://wizbangblog.com/categories/tech-stuff/movable-type/">Movable Type</option>
+                  <option value="http://wizbangblog.com/categories/movies/">Movies</option>
+                  <option value="http://wizbangblog.com/categories/mr-duckies-new-hampshire/">Mr. Duckie's New Hampshire</option>
+                  <option value="http://wizbangblog.com/categories/tech-stuff/mtblacklist/">MT-Blacklist</option>
+                  <option value="http://wizbangblog.com/categories/music/">Music</option>
+                  <option value="http://wizbangblog.com/categories/politicians/nancy-pelosi/">Nancy Pelosi</option>
+                  <option value="http://wizbangblog.com/categories/national-security/">National Security</option>
+                  <option value="http://wizbangblog.com/categories/new-york-times/">New York Times</option>
+                  <option value="http://wizbangblog.com/categories/news/">News</option>
+                  <option value="http://wizbangblog.com/categories/north-korea/">North Korea</option>
+                  <option value="http://wizbangblog.com/categories/noted-elsewhere/">Noted Elsewhere</option>
+                  <option value="http://wizbangblog.com/categories/obama-regime/">Obama Regime</option>
+                  <option value="http://wizbangblog.com/categories/obama-worship/">Obama Worship</option>
+                  <option value="http://wizbangblog.com/categories/odd-news/">Odd News</option>
+                  <option value="http://wizbangblog.com/categories/oil/">Oil</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/oprah-winfrey/">Oprah Winfrey</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/osama-bin-laden/">Osama bin Laden</option>
+                  <option value="http://wizbangblog.com/categories/bloggers/pajamas-media/">Pajamas Media</option>
+                  <option value="http://wizbangblog.com/categories/school-sex-scandals/pamela-rogers/">Pamela Rogers</option>
+                  <option value="http://wizbangblog.com/categories/parenting/">Parenting</option>
+                  <option value="http://wizbangblog.com/categories/patriotism/">Patriotism</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/">People In The News</option>
+                  <option value="http://wizbangblog.com/categories/personal/">Personal</option>
+                  <option value="http://wizbangblog.com/categories/photos/">Photos</option>
+                  <option value="http://wizbangblog.com/categories/picture-of-the-day/">Picture Of The Day</option>
+                  <option value="http://wizbangblog.com/categories/politicians/">Politicians</option>
+                  <option value="http://wizbangblog.com/categories/politics/">Politics</option>
+                  <option value="http://wizbangblog.com/categories/pop/">Pop!</option>
+                  <option value="http://wizbangblog.com/categories/porkbusters/">Porkbusters</option>
+                  <option value="http://wizbangblog.com/categories/quote-of-the-day/">Quote Of The Day</option>
+                  <option value="http://wizbangblog.com/categories/race/">Race</option>
+                  <option value="http://wizbangblog.com/categories/radio/">Radio</option>
+                  <option value="http://wizbangblog.com/categories/scandals/rathergate/">Rathergate</option>
+                  <option value="http://wizbangblog.com/categories/entertainment/reality-tv/">Reality TV</option>
+                  <option value="http://wizbangblog.com/categories/religion/">Religion</option>
+                  <option value="http://wizbangblog.com/categories/politics/republicans/">Republicans</option>
+                  <option value="http://wizbangblog.com/categories/reviews/">Reviews</option>
+                  <option value="http://wizbangblog.com/categories/rightroots/">Rightroots</option>
+                  <option value="http://wizbangblog.com/categories/politicians/robert-byrd/">Robert Byrd</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/robert-gibbs/">Robert Gibbs</option>
+                  <option value="http://wizbangblog.com/categories/politicians/rod-blagojevich/">Rod Blagojevich</option>
+                  <option value="http://wizbangblog.com/categories/politicians/ron-paul/">Ron Paul</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/rosa-parks/">Rosa Parks</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/rosie-odonnell/">Rosie O'Donnell</option>
+                  <option value="http://wizbangblog.com/categories/politicians/rudy-giuliani/">Rudy Giuliani</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/runaway-bride/">Runaway Bride</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/rush-limbaugh/">Rush Limbaugh</option>
+                  <option value="http://wizbangblog.com/categories/supreme-court/samuel-alito/">Samuel Alito</option>
+                  <option value="http://wizbangblog.com/categories/politicians/sarah-palin/">Sarah Palin</option>
+                  <option value="http://wizbangblog.com/categories/satire/">Satire</option>
+                  <option value="http://wizbangblog.com/categories/middle-east/saudi-arabia/">Saudi Arabia</option>
+                  <option value="http://wizbangblog.com/categories/scams/">Scams</option>
+                  <option value="http://wizbangblog.com/categories/scandals/">Scandals</option>
+                  <option value="http://wizbangblog.com/categories/school-sex-scandals/">School Sex Scandals</option>
+                  <option value="http://wizbangblog.com/categories/science/">Science</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/scooter-libby/">Scooter Libby</option>
+                  <option value="http://wizbangblog.com/categories/congress/senate/">Senate</option>
+                  <option value="http://wizbangblog.com/categories/sign-of-the-times/">Sign Of The Times</option>
+                  <option value="http://wizbangblog.com/categories/site-news/">Site News</option>
+                  <option value="http://wizbangblog.com/categories/society/">Society</option>
+                  <option value="http://wizbangblog.com/categories/race/southern-poverty-law-center/">Southern Poverty Law Center</option>
+                  <option value="http://wizbangblog.com/categories/science/space/">Space</option>
+                  <option value="http://wizbangblog.com/categories/fundraising/spirit-of-america/">Spirit of America</option>
+                  <option value="http://wizbangblog.com/categories/sports/">Sports</option>
+                  <option value="http://wizbangblog.com/categories/business/stock-market/">Stock Market</option>
+                  <option value="http://wizbangblog.com/categories/stories/">Stories</option>
+                  <option value="http://wizbangblog.com/categories/submission-accomplished/">Submission Accomplished</option>
+                  <option value="http://wizbangblog.com/categories/supreme-court/">Supreme Court</option>
+                  <option value="http://wizbangblog.com/categories/surreal-katrina/">Surreal Katrina</option>
+                  <option value="http://wizbangblog.com/categories/entertainment/survivor/">Survivor</option>
+                  <option value="http://wizbangblog.com/categories/911/take-back-the-memorial/">Take Back The Memorial</option>
+                  <option value="http://wizbangblog.com/categories/media/talk-radio/">Talk Radio</option>
+                  <option value="http://wizbangblog.com/categories/tea-party-movement/">Tea Party Movement</option>
+                  <option value="http://wizbangblog.com/categories/tech-stuff/">Tech Stuff</option>
+                  <option value="http://wizbangblog.com/categories/politicians/ted-kennedy/">Ted Kennedy</option>
+                  <option value="http://wizbangblog.com/categories/thanksgiving/">Thanksgiving</option>
+                  <option value="http://wizbangblog.com/categories/the-10-spot/">The 10 Spot</option>
+                  <option value="http://wizbangblog.com/categories/the-looney-left/">The Looney Left</option>
+                  <option value="http://wizbangblog.com/categories/religion/the-religious-left/">The Religious Left</option>
+                  <option value="http://wizbangblog.com/categories/the-war-on-terror/">The War On Terror</option>
+                  <option value="http://wizbangblog.com/categories/unions/thuggery/">Thuggery</option>
+                  <option value="http://wizbangblog.com/categories/todays-lessons/">Todays Lessons</option>
+                  <option value="http://wizbangblog.com/categories/politicians/tom-delay/">Tom DeLay</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/torture-debate/">Torture debate</option>
+                  <option value="http://wizbangblog.com/categories/totus/">TOTUS</option>
+                  <option value="http://wizbangblog.com/categories/big-government/tsa/">TSA</option>
+                  <option value="http://wizbangblog.com/categories/weather/tsunami/">Tsunami</option>
+                  <option value="http://wizbangblog.com/categories/twitter/">Twitter</option>
+                  <option value="http://wizbangblog.com/categories/un/">UN</option>
+                  <option value="http://wizbangblog.com/categories/unions/">Unions</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/valerie-plame/">Valerie Plame</option>
+                  <option value="http://wizbangblog.com/categories/politics/virginia-politics/">Virginia Politics</option>
+                  <option value="http://wizbangblog.com/categories/virginia-tech-shooting/">Virginia Tech Shooting</option>
+                  <option value="http://wizbangblog.com/categories/voter-fraud/">Voter Fraud</option>
+                  <option value="http://wizbangblog.com/categories/wall-street/">Wall Street</option>
+                  <option value="http://wizbangblog.com/categories/war-on-terror/">War On Terror</option>
+                  <option value="http://wizbangblog.com/categories/people-in-the-news/washingtonienne/">Washingtonienne</option>
+                  <option value="http://wizbangblog.com/categories/weather/">Weather</option>
+                  <option value="http://wizbangblog.com/categories/weekend-caption-contest/">Weekend Caption Contest</option>
+                  <option value="http://wizbangblog.com/categories/weekend-wrapup/">Weekend Wrapup</option>
+                  <option value="http://wizbangblog.com/categories/wikileaks/">Wikileaks</option>
+                  <option value="http://wizbangblog.com/categories/wisdom/">Wisdom</option>
+                  <option value="http://wizbangblog.com/categories/wizbang/">Wizbang</option>
+                  <option value="http://wizbangblog.com/categories/wizbang-blue/">Wizbang Blue</option>
+                  <option value="http://wizbangblog.com/categories/wizbang-exclusives/">Wizbang Exclusives</option>
+                  <option value="http://wizbangblog.com/categories/wizbang-trackback-tool/">Wizbang Trackback Tool</option>
+                  <option value="http://wizbangblog.com/categories/wizbangpodcast/">WizbangPodcast</option>
+                  <option value="http://wizbangblog.com/categories/wizbangtv/">WizbangTV</option>
+                  <option value="http://wizbangblog.com/categories/iraq/wmd/">WMD</option>
+                  <option value="http://wizbangblog.com/categories/world/">World</option>
+                  <option value="http://wizbangblog.com/categories/wtf/">WTF?</option>
+         
       </select>
-      </div>
-    </form>
-<br>
-<form method="get" action="http://technorati.com/cosmos/search.html" style="width:13em;text-align:left">  
-<fieldset style="padding:4px">
-<legend><a href="http://technorati.com/">Technorati</a> search</legend>
-<input type="hidden" name="sub" value="searchlet">
-<input style="width:12em" type="text" name="url" maxlength="255" value="">
-<label style="display:block;padding-top:3px" for="ts_yb" title="Wizbang">
- <input type="radio" checked="checked" name="from" id="ts_yb" value="http://wizbangblog.com"> 
- this blog</label>
-<label style="margin-right:.2em" for="ts_www">
- <input type="radio" name="from" id="ts_www" value=""> all blogs</label>
-<input type="submit" value="Search" class="search">
-</fieldset>
-</form>
-<br>
-<a href="http://www.truthlaidbear.com/showdetails.php?host=http://wizbangblog.com">Wizbang Ecosystem Links</a><br>
-<a href="http://www.reenhead.com/map/metroblogmap.html">D.C. Metro Blog Map</a><br>
+   </div>
 </div>
 
-<div class="sidetitle">Archives</div>
-<div class="side">
-<form>
-<select onchange="document.location=options[selectedIndex].value;">
-<option value="">By Month...</option>
-<option value="http://wizbangblog.com/archives/2007/02/">February 2007</option>
-<option value="http://wizbangblog.com/archives/2007/01/">January 2007</option>
-<option value="http://wizbangblog.com/archives/2006/12/">December 2006</option>
-<option value="http://wizbangblog.com/archives/2006/11/">November 2006</option>
-<option value="http://wizbangblog.com/archives/2006/10/">October 2006</option>
-<option value="http://wizbangblog.com/archives/2006/09/">September 2006</option>
-<option value="http://wizbangblog.com/archives/2006/08/">August 2006</option>
-<option value="http://wizbangblog.com/archives/2006/07/">July 2006</option>
-<option value="http://wizbangblog.com/archives/2006/06/">June 2006</option>
-<option value="http://wizbangblog.com/archives/2006/05/">May 2006</option>
-<option value="http://wizbangblog.com/archives/2006/04/">April 2006</option>
-<option value="http://wizbangblog.com/archives/2006/03/">March 2006</option>
-<option value="http://wizbangblog.com/archives/2006/02/">February 2006</option>
-<option value="http://wizbangblog.com/archives/2006/01/">January 2006</option>
-<option value="http://wizbangblog.com/archives/2005/12/">December 2005</option>
-<option value="http://wizbangblog.com/archives/2005/11/">November 2005</option>
-<option value="http://wizbangblog.com/archives/2005/10/">October 2005</option>
-<option value="http://wizbangblog.com/archives/2005/09/">September 2005</option>
-<option value="http://wizbangblog.com/archives/2005/08/">August 2005</option>
-<option value="http://wizbangblog.com/archives/2005/07/">July 2005</option>
-<option value="http://wizbangblog.com/archives/2005/06/">June 2005</option>
-<option value="http://wizbangblog.com/archives/2005/05/">May 2005</option>
-<option value="http://wizbangblog.com/archives/2005/04/">April 2005</option>
-<option value="http://wizbangblog.com/archives/2005/03/">March 2005</option>
-<option value="http://wizbangblog.com/archives/2005/02/">February 2005</option>
-<option value="http://wizbangblog.com/archives/2005/01/">January 2005</option>
-<option value="http://wizbangblog.com/archives/2004/12/">December 2004</option>
-<option value="http://wizbangblog.com/archives/2004/11/">November 2004</option>
-<option value="http://wizbangblog.com/archives/2004/10/">October 2004</option>
-<option value="http://wizbangblog.com/archives/2004/09/">September 2004</option>
-<option value="http://wizbangblog.com/archives/2004/08/">August 2004</option>
-<option value="http://wizbangblog.com/archives/2004/07/">July 2004</option>
-<option value="http://wizbangblog.com/archives/2004/06/">June 2004</option>
-<option value="http://wizbangblog.com/archives/2004/05/">May 2004</option>
-<option value="http://wizbangblog.com/archives/2004/04/">April 2004</option>
-<option value="http://wizbangblog.com/archives/2004/03/">March 2004</option>
-<option value="http://wizbangblog.com/archives/2004/02/">February 2004</option>
-<option value="http://wizbangblog.com/archives/2004/01/">January 2004</option>
-<option value="http://wizbangblog.com/archives/2003/12/">December 2003</option>
-<option value="http://wizbangblog.com/archives/2003/11/">November 2003</option>
-<option value="http://wizbangblog.com/archives/2003/10/">October 2003</option>
-<option value="http://wizbangblog.com/archives/2003/09/">September 2003</option>
-<option value="http://wizbangblog.com/archives/2003/08/">August 2003</option>
-<option value="http://wizbangblog.com/archives/2003/07/">July 2003</option>
-<option value="http://wizbangblog.com/archives/2003/06/">June 2003</option>
-<option value="http://wizbangblog.com/archives/2003/05/">May 2003</option>
-<option value="http://wizbangblog.com/archives/2003/04/">April 2003</option>
 
-</select>
-<br>
-<select onchange="document.location=options[selectedIndex].value;">
-<option value="">By Category...</option>
-<option value="http://wizbangblog.com/categories/blogosphere/2003-weblog-awards/">2003 Weblog Awards</option>
-<option value="http://wizbangblog.com/categories/blogosphere/2004-weblog-awards/">2004 Weblog Awards</option>
-<option value="http://wizbangblog.com/categories/blogosphere/2005-weblog-awards/">2005 Weblog Awards</option>
-<option value="http://wizbangblog.com/categories/2006-weblog-awards/">2006 Weblog Awards</option>
-<option value="http://wizbangblog.com/categories/2008-presidential-race/">2008 Presidential Race</option>
-<option value="http://wizbangblog.com/categories/entertainment/24/">24</option>
-<option value="http://wizbangblog.com/categories/911/">9/11</option>
-<option value="http://wizbangblog.com/categories/911/911-commission/">9/11 Commission</option>
-<option value="http://wizbangblog.com/categories/abortion/">Abortion</option>
-<option value="http://wizbangblog.com/categories/war-on-terror/abu-ghraib/">Abu Ghraib</option>
-<option value="http://wizbangblog.com/categories/war-on-terror/abu-musab-alzarqawi/">Abu Musab al-Zarqawi</option>
-<option value="http://wizbangblog.com/categories/scandals/air-america-scandal/">Air America Scandal</option>
-<option value="http://wizbangblog.com/categories/celebrities/al-franken/">Al Franken</option>
-<option value="http://wizbangblog.com/categories/politicians/al-gore/">Al Gore</option>
-<option value="http://wizbangblog.com/categories/media/ap-watch/">AP Watch</option>
-<option value="http://wizbangblog.com/categories/scandals/apjamil-hussein/">AP-Jamil Hussein</option>
-<option value="http://wizbangblog.com/categories/celebrities/ashlee-simpson/">Ashlee Simpson</option>
-<option value="http://wizbangblog.com/categories/asshats/">Asshats</option>
-<option value="http://wizbangblog.com/categories/bloggers/atrios/">Atrios</option>
-<option value="http://wizbangblog.com/categories/attention-whores/">Attention Whores</option>
-<option value="http://wizbangblog.com/categories/autism/">Autism</option>
-<option value="http://wizbangblog.com/categories/medicine/avian-flu/">Avian Flu</option>
-<option value="http://wizbangblog.com/categories/politicians/barack-obama/">Barack Obama</option>
-<option value="http://wizbangblog.com/categories/scandals/berger-document-theft/">Berger Document Theft</option>
-<option value="http://wizbangblog.com/categories/blogosphere/blog-of-the-day/">Blog Of The Day</option>
-<option value="http://wizbangblog.com/categories/blogosphere/blog-war/">Blog War</option>
-<option value="http://wizbangblog.com/categories/fundraising/blogathon-2003/">Blogathon 2003</option>
-<option value="http://wizbangblog.com/categories/blogger-conference-calls/">Blogger Conference Calls</option>
-<option value="http://wizbangblog.com/categories/bloggers/">Bloggers</option>
-<option value="http://wizbangblog.com/categories/blogging-matters/">Blogging Matters</option>
-<option value="http://wizbangblog.com/categories/blogosphere/">Blogosphere</option>
-<option value="http://wizbangblog.com/categories/tech-stuff/blogspot-defectors/">BlogSpot Defectors</option>
-<option value="http://wizbangblog.com/categories/blogosphere/bonfire-of-the-vanities/">Bonfire Of The Vanities</option>
-<option value="http://wizbangblog.com/categories/books/">Books</option>
-<option value="http://wizbangblog.com/categories/breaking-news/">Breaking News</option>
-<option value="http://wizbangblog.com/categories/celebrities/britney-spears/">Britney Spears</option>
-<option value="http://wizbangblog.com/categories/media/buried-lede-of-the-day/">Buried Lede Of The Day</option>
-<option value="http://wizbangblog.com/categories/bush/">Bush</option>
-<option value="http://wizbangblog.com/categories/business/">Business</option>
-<option value="http://wizbangblog.com/categories/blogosphere/carnival-of-the-dumb-criminals/">Carnival Of The Dumb Criminals</option>
-<option value="http://wizbangblog.com/categories/blogosphere/carnival-of-the-trackbacks/">Carnival of the Trackbacks</option>
-<option value="http://wizbangblog.com/categories/blogosphere/carnival-of-the-vanities/">Carnival of the Vanities</option>
-<option value="http://wizbangblog.com/categories/celebrities/">Celebrities</option>
-<option value="http://wizbangblog.com/categories/politicians/charles-schumer/">Charles Schumer</option>
-<option value="http://wizbangblog.com/categories/religion/christianity/">Christianity</option>
-<option value="http://wizbangblog.com/categories/christmas/">Christmas</option>
-<option value="http://wizbangblog.com/categories/politicians/chuck-schumer/">Chuck Schumer</option>
-<option value="http://wizbangblog.com/categories/cia/">CIA</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/cindy-sheehan/">Cindy Sheehan</option>
-<option value="http://wizbangblog.com/categories/sports/college-football/">College Football</option>
-<option value="http://wizbangblog.com/categories/congress/">Congress</option>
-<option value="http://wizbangblog.com/categories/contests/">Contests</option>
-<option value="http://wizbangblog.com/categories/convention-coverage/">Convention Coverage</option>
-<option value="http://wizbangblog.com/categories/politicians/cynthia-mckinney/">Cynthia McKinney</option>
-<option value="http://wizbangblog.com/categories/dc/">DC</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/debra-burlingame/">Debra Burlingame</option>
-<option value="http://wizbangblog.com/categories/school-sex-scandals/debra-lafave/">Debra LaFave</option>
-<option value="http://wizbangblog.com/categories/politics/democrats/">Democrats</option>
-<option value="http://wizbangblog.com/categories/politicians/dick-cheney/">Dick Cheney</option>
-<option value="http://wizbangblog.com/categories/politics/dnc/">DNC</option>
-<option value="http://wizbangblog.com/categories/scandals/downing-street-memo/">Downing Street Memo</option>
-<option value="http://wizbangblog.com/categories/bloggers/du-watch/">DU Watch</option>
-<option value="http://wizbangblog.com/categories/dumb-criminals/">Dumb Criminals</option>
-<option value="http://wizbangblog.com/categories/dumbasses/">Dumbasses</option>
-<option value="http://wizbangblog.com/categories/economics/">Economics</option>
-<option value="http://wizbangblog.com/categories/education/">Education</option>
-<option value="http://wizbangblog.com/categories/elections/">Elections</option>
-<option value="http://wizbangblog.com/categories/energy/">Energy</option>
-<option value="http://wizbangblog.com/categories/entertainment/">Entertainment</option>
-<option value="http://wizbangblog.com/categories/environment/">Environment</option>
-<option value="http://wizbangblog.com/categories/miscellaneous/errata/">Errata</option>
-<option value="http://wizbangblog.com/categories/celebrities/eva-longoria/">Eva Longoria</option>
-<option value="http://wizbangblog.com/categories/featured-columns/">Featured Columns</option>
-<option value="http://wizbangblog.com/categories/fec/">FEC</option>
-<option value="http://wizbangblog.com/categories/fema-follies/fema/">FEMA</option>
-<option value="http://wizbangblog.com/categories/fema-follies/">FEMA Follies</option>
-<option value="http://wizbangblog.com/categories/fundraising/flood-aid/">Flood Aid</option>
-<option value="http://wizbangblog.com/categories/humor/fun/">Fun</option>
-<option value="http://wizbangblog.com/categories/fun-with-numbers/">Fun With Numbers</option>
-<option value="http://wizbangblog.com/categories/fundraising/">Fundraising</option>
-<option value="http://wizbangblog.com/categories/gay-marriage/">Gay Marriage</option>
-<option value="http://wizbangblog.com/categories/general/">General</option>
-<option value="http://wizbangblog.com/categories/war-on-terror/gitmo/">Gitmo</option>
-<option value="http://wizbangblog.com/categories/global-warming/">Global Warming</option>
-<option value="http://wizbangblog.com/categories/gossip/">Gossip</option>
-<option value="http://wizbangblog.com/categories/bloggers/guest-bloggers/">Guest Bloggers</option>
-<option value="http://wizbangblog.com/categories/supreme-court/harriet-miers/">Harriet Miers</option>
-<option value="http://wizbangblog.com/categories/politicians/harry-reid/">Harry Reid</option>
-<option value="http://wizbangblog.com/categories/headline-of-the-day/">Headline Of The Day</option>
-<option value="http://wizbangblog.com/categories/health-care/">Health Care</option>
-<option value="http://wizbangblog.com/categories/middle-east/hezbollah/">Hezbollah</option>
-<option value="http://wizbangblog.com/categories/politicians/hillary-clinton/">Hillary Clinton</option>
-<option value="http://wizbangblog.com/categories/history/">History</option>
-<option value="http://wizbangblog.com/categories/politicians/howard-dean/">Howard Dean</option>
-<option value="http://wizbangblog.com/categories/bloggers/huffpo/">HuffPo</option>
-<option value="http://wizbangblog.com/categories/humor/">Humor</option>
-<option value="http://wizbangblog.com/categories/weather/hurricane-katrina/">Hurricane Katrina</option>
-<option value="http://wizbangblog.com/categories/weather/hurricane-rita/">Hurricane Rita</option>
-<option value="http://wizbangblog.com/categories/weather/hurricanes/">Hurricanes</option>
-<option value="http://wizbangblog.com/categories/illegal-aliens/">Illegal Aliens</option>
-<option value="http://wizbangblog.com/categories/911/international-freedom-center/">International Freedom Center</option>
-<option value="http://wizbangblog.com/categories/interviews/">Interviews</option>
-<option value="http://wizbangblog.com/categories/iran/">Iran</option>
-<option value="http://wizbangblog.com/categories/iraq/">Iraq</option>
-<option value="http://wizbangblog.com/categories/iraq/iraq-study-group-report/">Iraq Study Group Report</option>
-<option value="http://wizbangblog.com/categories/religion/islam/">Islam</option>
-<option value="http://wizbangblog.com/categories/war-on-terror/islamic-fascism/">Islamic Fascism</option>
-<option value="http://wizbangblog.com/categories/middle-east/israel/">Israel</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/jack-abramoff/">Jack Abramoff</option>
-<option value="http://wizbangblog.com/categories/politicians/jack-murtha/">Jack Murtha</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/jamie-gorelick/">Jamie Gorelick</option>
-<option value="http://wizbangblog.com/categories/politicians/jesse-jackson/">Jesse Jackson</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/jimmy-carter/">Jimmy Carter</option>
-<option value="http://wizbangblog.com/categories/politicians/john-edwards/">John Edwards</option>
-<option value="http://wizbangblog.com/categories/politicians/john-mccain/">John McCain</option>
-<option value="http://wizbangblog.com/categories/supreme-court/john-roberts/">John Roberts</option>
-<option value="http://wizbangblog.com/categories/judges/">Judges</option>
-<option value="http://wizbangblog.com/categories/justice/">Justice</option>
-<option value="http://wizbangblog.com/categories/politicians/katherine-harris/">Katherine Harris</option>
-<option value="http://wizbangblog.com/categories/politicians/kathleen-blanco/">Kathleen Blanco</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/keith-olbermann/">Keith Olbermann</option>
-<option value="http://wizbangblog.com/categories/supreme-court/kelo/">Kelo</option>
-<option value="http://wizbangblog.com/categories/politicians/kerry-watch/">Kerry Watch</option>
-<option value="http://wizbangblog.com/categories/kevins/">Kevins</option>
-<option value="http://wizbangblog.com/categories/bloggers/kos/">Kos</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/kutztown-13/">Kutztown 13</option>
-<option value="http://wizbangblog.com/categories/media/la-times/">LA Times</option>
-<option value="http://wizbangblog.com/categories/law/">Law</option>
-<option value="http://wizbangblog.com/categories/life-issues/">Life Issues</option>
-<option value="http://wizbangblog.com/categories/live8/">Live8</option>
-<option value="http://wizbangblog.com/categories/mailbag/">Mailbag</option>
-<option value="http://wizbangblog.com/categories/mass-insanity/">Mass. Insanity</option>
-<option value="http://wizbangblog.com/categories/media/">Media</option>
-<option value="http://wizbangblog.com/categories/media-whores/">Media Whores</option>
-<option value="http://wizbangblog.com/categories/medicine/">Medicine</option>
-<option value="http://wizbangblog.com/categories/meme-watch/">Meme Watch</option>
-<option value="http://wizbangblog.com/categories/middle-east/">Middle East</option>
-<option value="http://wizbangblog.com/categories/milblog-of-the-week/">Milblog Of The Week</option>
-<option value="http://wizbangblog.com/categories/military/">Military</option>
-<option value="http://wizbangblog.com/categories/miscellaneous/">Miscellaneous</option>
-<option value="http://wizbangblog.com/categories/money/">Money</option>
-<option value="http://wizbangblog.com/categories/moonbats/">Moonbats</option>
-<option value="http://wizbangblog.com/categories/tech-stuff/movable-type/">Movable Type</option>
-<option value="http://wizbangblog.com/categories/movies/">Movies</option>
-<option value="http://wizbangblog.com/categories/mr-duckies-new-hampshire/">Mr. Duckie's New Hampshire</option>
-<option value="http://wizbangblog.com/categories/tech-stuff/mtblacklist/">MT-Blacklist</option>
-<option value="http://wizbangblog.com/categories/politicians/nancy-pelosi/">Nancy Pelosi</option>
-<option value="http://wizbangblog.com/categories/national-security/">National Security</option>
-<option value="http://wizbangblog.com/categories/new-york-times/">New York Times</option>
-<option value="http://wizbangblog.com/categories/news/">News</option>
-<option value="http://wizbangblog.com/categories/north-korea/">North Korea</option>
-<option value="http://wizbangblog.com/categories/noted-elsewhere/">Noted Elsewhere</option>
-<option value="http://wizbangblog.com/categories/odd-news/">Odd News</option>
-<option value="http://wizbangblog.com/categories/oil/">Oil</option>
-<option value="http://wizbangblog.com/categories/war-on-terror/osama-bin-laden/">Osama bin Laden</option>
-<option value="http://wizbangblog.com/categories/bloggers/pajamas-media/">Pajamas Media</option>
-<option value="http://wizbangblog.com/categories/school-sex-scandals/pamela-rogers/">Pamela Rogers</option>
-<option value="http://wizbangblog.com/categories/parenting/">Parenting</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/">People In The News</option>
-<option value="http://wizbangblog.com/categories/personal/">Personal</option>
-<option value="http://wizbangblog.com/categories/photos/">Photos</option>
-<option value="http://wizbangblog.com/categories/picture-of-the-day/">Picture Of The Day</option>
-<option value="http://wizbangblog.com/categories/politicians/">Politicians</option>
-<option value="http://wizbangblog.com/categories/politics/">Politics</option>
-<option value="http://wizbangblog.com/categories/porkbusters/">Porkbusters</option>
-<option value="http://wizbangblog.com/categories/quote-of-the-day/">Quote Of The Day</option>
-<option value="http://wizbangblog.com/categories/race/">Race</option>
-<option value="http://wizbangblog.com/categories/radio/">Radio</option>
-<option value="http://wizbangblog.com/categories/scandals/rathergate/">Rathergate</option>
-<option value="http://wizbangblog.com/categories/entertainment/reality-tv/">Reality TV</option>
-<option value="http://wizbangblog.com/categories/religion/">Religion</option>
-<option value="http://wizbangblog.com/categories/politics/republicans/">Republicans</option>
-<option value="http://wizbangblog.com/categories/reviews/">Reviews</option>
-<option value="http://wizbangblog.com/categories/rightroots/">Rightroots</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/rosa-parks/">Rosa Parks</option>
-<option value="http://wizbangblog.com/categories/politicians/rudy-giuliani/">Rudy Giuliani</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/runaway-bride/">Runaway Bride</option>
-<option value="http://wizbangblog.com/categories/supreme-court/samuel-alito/">Samuel Alito</option>
-<option value="http://wizbangblog.com/categories/satire/">Satire</option>
-<option value="http://wizbangblog.com/categories/scandals/">Scandals</option>
-<option value="http://wizbangblog.com/categories/school-sex-scandals/">School Sex Scandals</option>
-<option value="http://wizbangblog.com/categories/science/">Science</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/scooter-libby/">Scooter Libby</option>
-<option value="http://wizbangblog.com/categories/congress/senate/">Senate</option>
-<option value="http://wizbangblog.com/categories/sign-of-the-times/">Sign Of The Times</option>
-<option value="http://wizbangblog.com/categories/site-news/">Site News</option>
-<option value="http://wizbangblog.com/categories/society/">Society</option>
-<option value="http://wizbangblog.com/categories/fundraising/spirit-of-america/">Spirit of America</option>
-<option value="http://wizbangblog.com/categories/sports/">Sports</option>
-<option value="http://wizbangblog.com/categories/business/stock-market/">Stock Market</option>
-<option value="http://wizbangblog.com/categories/stories/">Stories</option>
-<option value="http://wizbangblog.com/categories/supreme-court/">Supreme Court</option>
-<option value="http://wizbangblog.com/categories/surreal-katrina/">Surreal Katrina</option>
-<option value="http://wizbangblog.com/categories/entertainment/survivor/">Survivor</option>
-<option value="http://wizbangblog.com/categories/911/take-back-the-memorial/">Take Back The Memorial</option>
-<option value="http://wizbangblog.com/categories/media/talk-radio/">Talk Radio</option>
-<option value="http://wizbangblog.com/categories/tech-stuff/">Tech Stuff</option>
-<option value="http://wizbangblog.com/categories/politicians/ted-kennedy/">Ted Kennedy</option>
-<option value="http://wizbangblog.com/categories/thanksgiving/">Thanksgiving</option>
-<option value="http://wizbangblog.com/categories/the-10-spot/">The 10 Spot</option>
-<option value="http://wizbangblog.com/categories/the-looney-left/">The Looney Left</option>
-<option value="http://wizbangblog.com/categories/the-war-on-terror/">The War On Terror</option>
-<option value="http://wizbangblog.com/categories/todays-lessons/">Todays Lessons</option>
-<option value="http://wizbangblog.com/categories/politicians/tom-delay/">Tom DeLay</option>
-<option value="http://wizbangblog.com/categories/weather/tsunami/">Tsunami</option>
-<option value="http://wizbangblog.com/categories/un/">UN</option>
-<option value="http://wizbangblog.com/categories/unions/">Unions</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/valerie-plame/">Valerie Plame</option>
-<option value="http://wizbangblog.com/categories/politics/virginia-politics/">Virginia Politics</option>
-<option value="http://wizbangblog.com/categories/war-on-terror/">War On Terror</option>
-<option value="http://wizbangblog.com/categories/people-in-the-news/washingtonienne/">Washingtonienne</option>
-<option value="http://wizbangblog.com/categories/weather/">Weather</option>
-<option value="http://wizbangblog.com/categories/weekend-caption-contest/">Weekend Caption Contest</option>
-<option value="http://wizbangblog.com/categories/weekend-wrapup/">Weekend Wrapup</option>
-<option value="http://wizbangblog.com/categories/wizbang-blue/">Wizbang Blue</option>
-<option value="http://wizbangblog.com/categories/wizbang-exclusives/">Wizbang Exclusives</option>
-<option value="http://wizbangblog.com/categories/wizbang-trackback-tool/">Wizbang Trackback Tool</option>
-<option value="http://wizbangblog.com/categories/wizbangpodcast/">WizbangPodcast</option>
-<option value="http://wizbangblog.com/categories/wizbangtv/">WizbangTV</option>
-<option value="http://wizbangblog.com/categories/iraq/wmd/">WMD</option>
-<option value="http://wizbangblog.com/categories/world/">World</option>
-
-</select>
-</form>
+<script type="text/javascript" charset="utf-8">
+function nav(sel) {
+   if (sel.selectedIndex == -1) return;
+   var opt = sel.options[sel.selectedIndex];
+   if (opt && opt.value)
+      location.href = opt.value;
+}    
+</script><div class="module-archives module" id="monthly-archives">
+   <h2 class="module-header"><a href="http://wizbangblog.com/weblog/">Archives</a></h2>
+   <div class="module-content">
+      <select onchange="nav(this)">
+         <option>Select a Month...</option>
+                  <option value="http://wizbangblog.com/archives/2010/11/">November 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/10/">October 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/09/">September 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/08/">August 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/07/">July 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/06/">June 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/05/">May 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/04/">April 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/03/">March 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/02/">February 2010</option>
+                  <option value="http://wizbangblog.com/archives/2010/01/">January 2010</option>
+                  <option value="http://wizbangblog.com/archives/2009/12/">December 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/11/">November 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/10/">October 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/09/">September 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/08/">August 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/07/">July 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/06/">June 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/05/">May 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/04/">April 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/03/">March 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/02/">February 2009</option>
+                  <option value="http://wizbangblog.com/archives/2009/01/">January 2009</option>
+                  <option value="http://wizbangblog.com/archives/2008/12/">December 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/11/">November 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/10/">October 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/09/">September 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/08/">August 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/07/">July 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/06/">June 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/05/">May 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/04/">April 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/03/">March 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/02/">February 2008</option>
+                  <option value="http://wizbangblog.com/archives/2008/01/">January 2008</option>
+                  <option value="http://wizbangblog.com/archives/2007/12/">December 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/11/">November 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/10/">October 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/09/">September 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/08/">August 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/07/">July 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/06/">June 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/05/">May 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/04/">April 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/03/">March 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/02/">February 2007</option>
+                  <option value="http://wizbangblog.com/archives/2007/01/">January 2007</option>
+                  <option value="http://wizbangblog.com/archives/2006/12/">December 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/11/">November 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/10/">October 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/09/">September 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/08/">August 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/07/">July 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/06/">June 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/05/">May 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/04/">April 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/03/">March 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/02/">February 2006</option>
+                  <option value="http://wizbangblog.com/archives/2006/01/">January 2006</option>
+                  <option value="http://wizbangblog.com/archives/2005/12/">December 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/11/">November 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/10/">October 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/09/">September 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/08/">August 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/07/">July 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/06/">June 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/05/">May 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/04/">April 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/03/">March 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/02/">February 2005</option>
+                  <option value="http://wizbangblog.com/archives/2005/01/">January 2005</option>
+                  <option value="http://wizbangblog.com/archives/2004/12/">December 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/11/">November 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/10/">October 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/09/">September 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/08/">August 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/07/">July 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/06/">June 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/05/">May 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/04/">April 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/03/">March 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/02/">February 2004</option>
+                  <option value="http://wizbangblog.com/archives/2004/01/">January 2004</option>
+                  <option value="http://wizbangblog.com/archives/2003/12/">December 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/11/">November 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/10/">October 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/09/">September 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/08/">August 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/07/">July 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/06/">June 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/05/">May 2003</option>
+                  <option value="http://wizbangblog.com/archives/2003/04/">April 2003</option>
+         
+      </select>
+   </div>
 </div>
 
-<div class="sidetitle">Blogroll</div>
-<div class="side">
-<a href="javascript:void(rollpop=window.open('http://www.blogrolling.com/add_links_pop.phtml?u=http://wizbangblog.com/&amp;t=Wizbang :: Explosively Unique... ','rollit','scrollbars=no,width=475,height=350,left=75,top=175,status=yes,resizable=yes'));rollpop.focus();">Blogroll Wizbang!</a><br>
-<br>
-<strong></strong><center><strong>Fresh Sites</strong><br>
-( *** Updated within the last hour)</center><br>
-<br>
-<div class="blogrollmain"><a href="http://www.captainsquartersblog.com/mt/" target="_self" title="Last updated: 08:44:16 [GMT-5] on Monday, February 19">Captain's Quarters</a>***<br>
-<a href="http://outsidethebeltway.com/" target="_self" title="Last updated: 08:42:45 [GMT-5] on Monday, February 19">Outside The Beltway</a>***<br>
-<a href="http://www.poliblogger.com/" target="_self" title="Last updated: 08:40:30 [GMT-5] on Monday, February 19">PoliBlog</a>***<br>
-<a href="http://www.deanesmay.com/" target="_self" title="Last updated: 08:04:04 [GMT-5] on Monday, February 19">Dean's World</a>***<br>
-<a href="http://res-ipsa.the-blinding-white-light.com/" target="_self" title="Last updated: 07:30:41 [GMT-5] on Monday, February 19">Res Ipsa Loquitur</a><br>
-<a href="http://www.lashawnbarber.com/" target="_self" title="Last updated: 07:26:22 [GMT-5] on Monday, February 19">La Shawn Barber's Corner</a><br>
-<a href="http://ginacobb.typepad.com/" target="_self" title="Last updated: 04:34:35 [GMT-5] on Monday, February 19">Gina Cobb</a><br>
-<a href="http://www.themoderatevoice.com/" target="_self" title="Last updated: 04:33:44 [GMT-5] on Monday, February 19">The Moderate Voice</a><br>
-<a href="http://volokh.com/" target="_self" title="Last updated: 03:11:41 [GMT-5] on Monday, February 19">The Volokh Conspiracy</a><br>
-<a href="http://www.rightwingnews.com/" target="_self" title="Last updated: 03:02:29 [GMT-5] on Monday, February 19">Right Wing News</a><br>
-<a href="http://cadillactight.com/" target="_self" title="Last updated: 02:35:09 [GMT-5] on Monday, February 19">Cadillac Tight</a><br>
-<a href="http://www.evangelicaloutpost.com" target="_self" title="Last updated: 02:27:16 [GMT-5] on Monday, February 19">the evangelical outpost</a><br>
-<a href="http://www.allthingsbeautiful.com/" target="_self" title="Last updated: 01:31:17 [GMT-5] on Monday, February 19">All Things Beautiful</a><br>
-<a href="http://fasterthantheworld.com/" target="_self" title="Last updated: 01:15:19 [GMT-5] on Monday, February 19">Faster Than The World</a><br>
-<a href="http://www.llamabutchers.mu.nu/" target="_self" title="Last updated: 01:04:19 [GMT-5] on Monday, February 19">The LLama Butchers</a><br>
-<a href="http://www.swirlspice.com/" target="_self" title="Last updated: 00:57:24 [GMT-5] on Monday, February 19">swirlspice</a><br>
-<a href="http://www.thebitchgirls.us/" target="_self" title="Last updated: 00:04:45 [GMT-5] on Monday, February 19">The Bitch Girls</a><br>
-<a href="http://www.theamericanmind.com/" target="_self" title="Last updated: 23:00:23 [GMT-5] on Sunday, February 18">The American Mind</a><br>
-<a href="http://www.danegerus.com/weblog/" target="_self" title="Last updated: 22:59:42 [GMT-5] on Sunday, February 18">DANEgerus Weblog</a><br>
-<a href="http://ace.mu.nu/" target="_self" title="Last updated: 22:30:58 [GMT-5] on Sunday, February 18">Ace of Spades HQ</a><br>
-<a href="http://vikingpundit.blogspot.com/" target="_self" title="Last updated: 21:22:14 [GMT-5] on Sunday, February 18">Viking Pundit</a><br>
-<a href="http://mypetjawa.mu.nu/" target="_self" title="Last updated: 20:39:15 [GMT-5] on Sunday, February 18">mypetjawa v. 2.0 (beta)</a><br>
-<a href="http://www.indepundit.com/" target="_self" title="Last updated: 19:16:57 [GMT-5] on Sunday, February 18">The Indepundit (Citizen Smash)</a><br>
-<a href="http://badexample.mu.nu/" target="_self" title="Last updated: 17:55:16 [GMT-5] on Sunday, February 18">Bad Example</a><br>
-<a href="http://www.musing-minds.com/" target="_self" title="Last updated: 16:34:02 [GMT-5] on Sunday, February 18">Musing Minds</a><br>
-<a href="http://theworldaroundyou.com/" target="_self" title="Last updated: 11:28:47 [GMT-5] on Sunday, February 18">The World Around You</a><br>
-<a href="http://www.scrappleface.com" target="_self" title="Last updated: 08:13:07 [GMT-5] on Sunday, February 18">ScrappleFace</a><br>
-<a href="http://www.grupo-utopia.com/blog/isou/" target="_self" title="Last updated: 00:58:04 [GMT-5] on Sunday, February 18">In Search of Utopia</a><br>
-<a href="http://www.brightandearlyblog.com/" target="_self" title="Last updated: 00:14:59 [GMT-5] on Sunday, February 18">bRight &amp; Early</a><br>
-<a href="http://annika.mu.nu/" target="_self" title="Last updated: 20:48:04 [GMT-5] on Saturday, February 17">annika's journal</a><br>
-<a href="http://www.dizzy-girl.net/" target="_self" title="Last updated: 13:42:41 [GMT-5] on Saturday, February 17">Dizzy Girl</a><br>
-<a href="http://solonor.com/blogger.html" target="_self" title="Last updated: 10:01:45 [GMT-5] on Saturday, February 17">Solonor's Ink Well</a><br>
-<a href="http://electricvenom.com/" target="_self" title="Last updated: 18:09:12 [GMT-5] on Friday, February 16">Electric Venom</a><br>
-<a href="http://www.willisms.com/" target="_self" title="Last updated: 16:22:06 [GMT-5] on Friday, February 16">WILLisms.com</a><br>
-<a href="http://www.peskyapostrophe.com/" target="_self" title="Last updated: 16:06:53 [GMT-5] on Friday, February 16">pesky'apostrophe</a><br>
-<a href="http://www.funmurphys.com/blog/" target="_self" title="Last updated: 13:37:07 [GMT-5] on Friday, February 16">funmurphys.com: The Blog</a><br>
-<a href="http://www.resurrectionsong.com/" target="_self" title="Last updated: 12:13:45 [GMT-5] on Friday, February 16">resurrectionsong</a><br>
-<a href="http://www.alarmingnews.com/" target="_self" title="Last updated: 17:19:17 [GMT-5] on Thursday, February 15">Spot On</a><br>
-<a href="http://practicalpenumbra.mu.nu/" target="_self" title="Last updated: 15:24:14 [GMT-5] on Thursday, February 15">Practical Penumbra</a><br>
-<a href="http://www.dedoc.net/" target="_self" title="Last updated: 03:52:49 [GMT-5] on Thursday, February 15">De Doc's Doings</a><br>
-<a href="http://www.velociworld.com/" target="_self" title="Last updated: 22:32:10 [GMT-5] on Wednesday, February 14">Velociworld</a><br>
-<a href="http://www.thedonovan.com/beth/" target="_self" title="Last updated: 10:18:54 [GMT-5] on Wednesday, February 14">She Who Will Be Obeyed!</a><br>
-<a href="http://rocketjones.mu.nu/" target="_self" title="Last updated: 20:27:31 [GMT-5] on Monday, February 12">Rocket Jones</a><br>
-<a href="http://www.watcherofweasels.com/" target="_self" title="Last updated: 01:07:49 [GMT-5] on Monday, February 12">Watcher of Weasels</a><br>
-<a href="http://www.suburbanblight.net/" target="_self" title="Last updated: 15:23:35 [GMT-5] on Wednesday, February 07">suburban blight</a><br>
-<a href="http://tig.mu.nu/" target="_self" title="Last updated: 17:04:54 [GMT-5] on Tuesday, January 30">Read My Lips</a><br>
-<a href="http://www.ragingkraut.com/" target="_self" title="Last updated: 14:26:49 [GMT-5] on Tuesday, January 30">Raging Kraut</a><br>
-<a href="http://www.powerlineblog.com/" target="_self" title="Last updated: 21:06:02 [GMT-5] on Sunday, January 28">Power Line</a><br>
-<a href="http://smalldeadanimals.com/" target="_self" title="Last updated: 19:52:04 [GMT-5] on Monday, January 22">small dead animals</a><br>
-<a href="http://www.truthlaidbear.com/" target="_self" title="Last updated: 19:39:47 [GMT-5] on Saturday, January 20">The Truth Laid Bear</a><br>
-<!-- e0cd6114fd15f3f21b6168031aa4e6d1 -->
-</div><!-- Last Updated: February 19th 2007 07:50:01 AM --><br><br>
-<a href="http://wizbangblog.com/blogroll.php?broll=e0cd6114fd15f3f21b6168031aa4e6d1">View The Full Blogroll</a>
-</div>
 
-<div class="sidetitle">Reciprocal Links</div>
-<div class="side">
-<br>
-<a href="javascript:void(rollpop=window.open('http://www.blogrolling.com/add_links_pop.phtml?u=http://wizbangblog.com/&amp;t=Wizbang :: Explosively Unique... ','rollit','scrollbars=no,width=475,height=350,left=75,top=175,status=yes,resizable=yes'));rollpop.focus();">Blogroll Wizbang!</a><br>
-<br>
-<strong></strong><center><strong>50 Random Reciprocal Links</strong><br></center>
-<br>
-<div class="blogrollmain"><a href="http://www.thespoonsexperience.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">The Spoons Experience</a><br>
-<a href="http://sgthook.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">sgt hook</a><br>
-<a href="http://homepage.mac.com/sbooneaz/iblog/index.html" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Speed of Thought...</a><br>
-<a href="http://www.davetepper.net/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Interrobang?!</a><br>
-<a href="http://www.davidmsc.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Better Living Through Blogging!</a><br>
-<a href="http://www.mysocalledblog.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">my so-called blog</a><br>
-<a href="http://www.sleazereport.com/mt/blog/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Sleaze Report Ruminations</a><br>
-<a href="http://etalkinghead.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">eTALKINGHEAD.com</a><br>
-<a href="http://treasononline.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Treason Online</a><br>
-<a href="http://blog.wickedvelvet.us" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Life by Velvet</a><br>
-<a href="http://iraqthemodel.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">IRAQ THE MODEL</a><br>
-<a href="http://mypetjawa.mu.nu/" title="Last updated: 19:39:15 [GMT-5] on Sunday, February 18">mypetjawa v. 2.0 (beta)</a><br>
-<a href="http://listofblogs.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Atheist Pundit</a><br>
-<a href="http://www.diversionz.net/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">DiVERSiONZ</a><br>
-<a href="http://perpetualnotions.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Perpetual Notions</a><br>
-<a href="http://king-of-fools.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">King of Fools</a><br>
-<a href="http://blogs.salon.com/0002599/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">All Day Permanent Red</a><br>
-<a href="http://www.earthlypassions.com" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">EarthlyPassions</a><br>
-<a href="http://ambientirony.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Ambient Irony</a><br>
-<a href="http://orsa.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Knight Of The Mind</a><br>
-<a href="http://kinskouch.virtualsushi.us/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Kin's Kouch</a><br>
-<a href="http://www.buzzbrockway.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">The Buzz Blog</a><br>
-<a href="http://www.dynamist.com/weblog/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Dynamist Blog</a><br>
-<a href="http://www.haveyoumettony.com" title="Last updated: 00:57:18 [GMT-5] on Friday, February 16">Have you met Tony?</a><br>
-<a href="http://truthliesandcommonsense.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Truth, Lies &amp; Common Sense</a><br>
-<a href="http://iowahawk.typepad.com/iowahawk/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">iowahawk</a><br>
-<a href="http://evictingolympus.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Evicting Mt. Olympus</a><br>
-<a href="http://vikingpundit.blogspot.com/" title="Last updated: 20:22:14 [GMT-5] on Sunday, February 18">Viking Pundit</a><br>
-<a href="http://www.lashawnbarber.com/" title="Last updated: 06:26:22 [GMT-5] on Monday, February 19">La Shawn Barber's Corner</a><br>
-<a href="http://www.hyscience.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Hyscience</a><br>
-<a href="http://www.rachellucas.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Rachel Lucas</a><br>
-<a href="http://instapuppy.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">InstaPuppy</a><br>
-<a href="http://belisaurius.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">The Wise Man Says</a><br>
-<a href="http://joatmoaf.typepad.com/i_love_jet_noise/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">I Love Jet Noise</a><br>
-<a href="http://www.grupo-utopia.com/blog/isou/" title="Last updated: 23:58:04 [GMT-5] on Saturday, February 17">In Search of Utopia</a><br>
-<a href="http://blogoram.com/blog.htm" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Blog o'RAM</a><br>
-<a href="http://www.geoffrey-allen.com/mt/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Dog Snot Diaries</a><br>
-<a href="http://www.silflayhraka.com/thewarren/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Silflay Hraka: The Warren</a><br>
-<a href="http://www.mymessymind.net/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">My Messy Mind</a><br>
-<a href="http://www.lt-smash.us/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Citizen Smash - The Indepundit</a><br>
-<a href="http://nakedvillainy.com/" title="Last updated: 16:39:14 [GMT-5] on Wednesday, February 14">Nakedvillainy.com</a><br>
-<a href="http://hobnobblog.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Hobnobblog</a><br>
-<a href="http://www.txfx.net/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Tempus Fugit</a><br>
-<a href="http://john.hoke.org/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">John P. Hoke's Asylum</a><br>
-<a href="http://www.shakaree.org/blog/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Sha Ka Ree</a><br>
-<a href="http://auterrific.mu.nu" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">Auterrific</a><br>
-<a href="http://blog.kevindonahue.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">KevinDonahue.com</a><br>
-<a href="http://pawhite.blogspot.com/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">White family</a><br>
-<a href="http://sportsblog.org/" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">SportsBlog</a><br>
-<a href="http://www.stealthebandwagon.blogspot.com" title="Last updated: 18:39:47 [GMT-5] on Saturday, January 20">thebandwagon</a><br>
-<!-- 373bd3ff2b5bcaed3994c0fde6aabae1 -->
-</div><!-- Last Updated: February 19th 2007 07:50:01 AM --><br><br>
-<a href="http://wizbangblog.com/blogroll.php?broll=373bd3ff2b5bcaed3994c0fde6aabae1">View The Full Reciprocal Blogroll</a>
-</div>
+<script type="text/javascript" charset="utf-8">
+function nav(sel) {
+   if (sel.selectedIndex == -1) return;
+   var opt = sel.options[sel.selectedIndex];
+   if (opt && opt.value)
+      location.href = opt.value;
+}    
+</script>
+<center><script type="text/javascript" src="http://pub.mybloglog.com/comm2.php?mblID=2007101212524846&amp;c_width=180&amp;c_sn_opt=n&amp;c_rows=6&amp;c_img_size=h&amp;c_heading_text=Wizbang+Readers&amp;c_color_heading_bg=005A94&amp;c_color_heading=ffffff&amp;c_color_link_bg=E3E3E3&amp;c_color_link=005A94&amp;c_color_bottom_bg=005A94"></script></center>            <div class="module-search module">
+                        <h2 class="module-header">Write For Wizbang!</h2>
+                        <div class="module-content">
+<div align="center"><a href="http://wizbangblog.com/jobs.php"><img src="http://wizbangblog.com/images/2007/10/work-at-wizbang.jpg" width="200" height="133" alt="Write For Wizbang!"></a></div>
+                         </div>
+             </div><div class="module-categories module">
+   <div class="module-content">
 
-<a name="credits"></a>
-<div class="sidetitle">Credits</div>
-<div class="side">
-Editor-In-Chief/Publisher:  Kevin Aylward<br>
-Section Editor:  Jay Tea<br>
-Contributing Editors:  Kim Priestap, Lorie Byrd, Paul<br>
 
-Submissions/News Tips: <a href="mailto:tips@wizbangblog.com">tips@wizbangblog.com</a>
-<br><br>
-Software:  <a href="http://www.movabletype.org">Movable Type 3.33</a><br>
-Hosting:  <a href="http://servint.com/">ServInt</a><br>
-<br>
-All original content copyright © 2003-2006 by Wizbang®, LLC. All rights reserved.  Wizbang® is a registered service mark.
-<br><br>
-<a href="http://wizbangblog.com/archives/002594.php">DCMA Compliance Notice</a><br>
-<center>
-<br>
-<!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+<div class="module-powered module">
+   <h2 class="module-header">Credits</h2>
+   <div class="module-content">
+<p>Section Editor:  Maggie Whitton</p> 
+<p>Editors:  Jay Tea, Lorie Byrd, Kim Priestap, DJ Drummond, Michael Laprarie, Baron Von Ottomatic, Shawn Mallow, Rick, Dan Karipides, Michael Avitablile, Charlie Quidnunc, Steve Schippert</p>
+
+<p>Emeritus: Paul, Mary Katherine Ham, Jim Addison, Alexander K. McClure, Cassy Fiano, Bill Jempty, John Stansbury, Rob Port</p>
+
+<p>In Memorium: <a href="http://wizbangblog.com/content/2010/06/09/in-memoriam-hugh-slatery-1.php">HughS</a>
+
+</p><p>All original content copyright © 2003-2010 by Wizbang®, LLC. All rights reserved. Wizbang® is a registered service mark.</p>
+
+<p>Powered by <a href="http://www.sixapart.com/movabletype/">Movable Type 3.35</a></p>
+
+<p>Hosting by <a href="http://servint.com/">ServInt</a></p>
+
+<p>Ratings on this site are powered by the <a href="http://mt-hacks.com/ajaxrating.html">Ajax Ratings Pro</a> plugin for Movable Type.</p>
+
+<p>Search on this site is powered by the <a href="http://mt-hacks.com/fastsearch.html">FastSearch</a> plugin for Movable Type.</p>
+
+<p>Blogrolls on this site are powered by the <a href="http://plugins.movalog.com/mt-blogroll/index.php">MT-Blogroll</a>.</p>
+
+<p>Temporary site design is based on <a href="http://cutline.tubetorial.com/">Cutline</a> and <a href="http://www.majordojo.com/design/cutline_for_movabletype.php">Cutline for MT</a>.  Graphics by <a href="http://apothegmdesigns.com">Apothegm Designs</a>.</p>
+
+<p><a href="http://wizbangblog.com/cgi-bin/mt.cgi">Author Login</a></p>
+
+
+<p></p><center>
+<!-- Site Meter -->
+<script type="text/javascript" src="http://sm7.sitemeter.com/js/counter.js?site=sm7wizbang">
+</script>
+<noscript>
 <a href="http://sm7.sitemeter.com/stats.asp?site=sm7wizbang" target="_top">
-<img src="http://sm7.sitemeter.com/meter.asp?site=sm7wizbang" alt="Site Meter" border="0"></a>
-<!--WEBBOT bot="HTMLMarkup" Endspan -->
+<img src="http://sm7.sitemeter.com/meter.asp?site=sm7wizbang" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2009 Site Meter -->
 <br>
 <!-- Site Meter XHTML Strict 1.0 -->
 <script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25wizbangblog">
 </script>
 <!-- Copyright (c)2006 Site Meter -->
-</center>
-</div></div><!-- close LINKS div -->
+</center><p></p>
 
 
+<p></p><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0899012092668124";
+/* 180x150, created 7/4/09 */
+google_ad_slot = "0764838255";
+google_ad_width = 180;
+google_ad_height = 150;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center><p></p>
 
-</body></html>
+<br>
+<center><p><a href="http://wizbangblog.com/tos/tos.php">Terms Of Service</a></p></center>
+
+<center><p><a href="http://wizbangblog.com/tos/dmca.php">DCMA Compliance Notice</a></p></center>
+
+<center><p><a href="http://wizbangblog.com/advertising/privacy.php">Privacy Policy</a></p></center>
+
+   </div>
+</div>
+            </div>
+         </div>
+
+
+      </div>
+   </div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-425567-1";
+urchinTracker();
+</script>
+<script type="text/javascript" src="http://track2.mybloglog.com/js/jsserv.php?mblID=2007101212524846"></script>
+</div></div></div></div></body></html>
