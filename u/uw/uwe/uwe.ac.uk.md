@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528022848id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129091038id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - UWE Bristol
 
@@ -18,11 +18,11 @@ You are not personally identifiable as an individual from such information alone
 
 To maintain and improve the quality of our website we use the SiteStat web metrics service provided by Nedstat. The SiteStat Privacy Policy states that Nedstat "do not link IP-addresses of your website visitors to individuals" and that where measuring data includes personal data that Nedstat will process such data only on our behalf and will not use the data on its own behalf, nor make the data available to other Nedstat customers, unless the data have been anonimised and aggregated (i.e. are no longer linked to an individual or to our website).
 
-Some UWE web pages use Google Analytics rather than SiteStat. These include the [UWE new campus](http://www.uwenewcampus.com/) web pages. Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to measure use of websites. For more information about these cookies please see our [Cookie Policy](https://web.archive.org/web/20100528022848id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml).
+Some UWE web pages use Google Analytics rather than SiteStat. These include the [UWE new campus](http://www.uwenewcampus.com/) web pages. Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to measure use of websites. For more information about these cookies please see our [Cookie Policy](https://web.archive.org/web/20101129091038id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml).
 
 ## Cookies
 
-Please see the University's [Cookie Policy](https://web.archive.org/web/20100528022848id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies. 
+Please see the University's [Cookie Policy](https://web.archive.org/web/20101129091038id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies. 
 
 ## Personal disclosures 
 
