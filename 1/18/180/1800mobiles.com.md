@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116235853id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129071920id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy Statement for 1800Mobiles.com
 
@@ -11,11 +11,11 @@ Last updated and effective May 28, 2008.
 
 Our site's shopping cart requires users to give us personally identifiable information (like your name and email address) and financial information (like your credit card number). We use customer contact information from the shopping cart to process your orders and collect the due payment.
 
-1800mobiles.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.1800mobiles.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+1800mobiles.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.1800mobiles.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact our Privacy Office at privacypol @1800mobiles.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact 
 
-[_TRUSTe_](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. PRIVACY POLICY FOR CELLULAR PHONE ACTIVATIONS WITH SERVICE:
+[_TRUSTe_](http://watchdog.truste.com/pvr.php?page=complaint&url) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. PRIVACY POLICY FOR CELLULAR PHONE ACTIVATIONS WITH SERVICE:
 
 When customers buy a phone, they are also making a commitment with a specific carrier for a minimum of 12 months. Carriers require credit history checks when activating new service. These credit checks are not required when 1800mobiles customers are purchasing accessories, electronics or any other product that does not involve a contract with a wireless carrier.
 
