@@ -1,73 +1,79 @@
-> *The following text is extracted and transformed from the sceg.com privacy policy that was archived on 2009-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090706054349id_/http%3A//www.sceg.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sceg.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129022716id_/http%3A//www.sceg.com/en/privacy-policy) for the most accurate reproduction.*
 
 # SCE&G - Privacy Policy
 
-**Web Site Privacy Statement**   
-This Web site is owned by SCANA Corporation. We want our Web site users to have the opportunity to obtain useful information, products, and services. SCANA and its subsidiaries respect your privacy and we trust that our Privacy Statement will underscore our commitment to you. This Privacy Statement explains our Web site information practices, use of personally identifiable information, commitment to information security, and changes that we make to this Privacy Statement from time to time. Please read the following information carefully since your continued use of our Web site constitutes acceptance of our privacy practices. 
+**Website Privacy Statement**   
+This website is owned by SCANA Corporation. We want our website users to have the opportunity to obtain from us useful information, products, and services that we provide. SCANA and its subsidiaries respect your privacy and we trust that our Privacy Statement will underscore our commitment to you. This Privacy Statement explains our website information practices, our use of personally identifiable information, our commitment to information security, and changes that we may make to this Privacy Statement from time to time. Please read the following information carefully because your continued use of our website constitutes acceptance of our privacy practices. 
 
 **Information Collected**   
-You are not required to register or provide personally identifiable information to us in order to view much of our Web site. Except as otherwise provided in this Privacy Statement, we limit the collection of personally identifiable information to what is needed to fulfill legal and/or regulatory requirements, administer accounts, provide customer service, offer products and services, and administer employment information and opportunities. Examples of personally identifiable information, which you may voluntarily provide while using our Web site, include:
+You are not required to register or provide personally identifiable information in order to view much of our website. Except as otherwise provided in this Privacy Statement, we limit the collection of personally identifiable information to what is needed to fulfill legal and/or regulatory requirements, administer accounts, provide customer service, offer products and services, and administer employment information and opportunities. Examples of personally identifiable information, which you may voluntarily provide while using our website, include:
 
-  * Name
-  * E-mail address
-  * Address
-  * Phone number
-  * Account number (if you are a current customer)
-  * Social security number
+  * Name 
+  * Email address 
+  * Address 
+  * Phone number 
+  * SCANA Customer account number 
+  * Bank account and/or credit/debit card numbers for online bill payment 
+  * Social security number (full or partial) 
+  * Other unique identifiers that you provide such as an account password
 
 
 
-If you ask detailed questions or request specific information or services, you may be asked to supply personally identifiable information. This may include, for example, identifying topics of interest, providing home/office addresses, filling out account information for billing questions, or providing employment history on SCANA's online application. At any time, you may choose not to provide personally identifiable information or you may choose to discontinue your use of our Web site. However, if you choose to opt-out of providing personally identifiable information, we may not be able to provide the information or services you desire. It is also SCANA’s expectation that users of our Web sites and related electronic services will refrain from using language or e-mail addresses which could be considered offensive, slanderous, violative of any laws or any person’s rights or contrary to acceptable business practices or etiquette. SCANA reserves the right in its sole discretion to discontinue providing any or all electronic services to users of our Web sites.
+If you ask detailed questions or request specific information or services, you may be asked to supply personally identifiable information. This may include, for example, identifying topics of interest, providing home/office addresses, filling out account information for billing questions, or providing employment history on SCANA's online employment application. At any time, you may choose not to provide your personally identifiable information or you may choose to discontinue your use of our website. However, if you choose to “opt-out” by not providing personally identifiable information, we may not be able to provide the information or services you desire. It is also SCANA’s expectation that users of our websites and related electronic services will refrain from using language or email addresses which could be considered offensive, slanderous, in violation of any laws or of any person’s rights or in a manner that is contrary to acceptable business practices or etiquette. SCANA reserves the right in its sole discretion to discontinue providing any or all electronic services to users of our websites. 
 
-To improve our Web site and to ensure we continue to provide information useful to you, we collect, through the use of "cookies" and other technologies, information such as: the number of visits to our Web site, the time visitors spend on the Web site, the number of pages viewed, and the domains from which users visit our Web site. A cookie is an unencrypted text file stored on your hard drive or in your computer's memory containing information about your visit and preferences. We may choose to use session and/or persistent cookie technology, to assist us in customizing our Web site's content based on your subject matter choices, to provide the information you request and to enhance your experience on our Web site. Many popular browsers allow you to decide whether to refuse, accept, or delete cookies. If you choose not to accept cookies, however, some Web pages may not display properly or you may not be able to access certain information. 
+To improve our website and to ensure we continue to provide information useful to you, we collect, through the use of "cookies" and other technologies, information such as: the number of visits to our website, the amount of time visitors spend on the website, the number of pages viewed, and the domains from which users visit our website. A cookie is an unencrypted text file that is stored on your hard drive or in your computer's memory and contains information about your webpage visit(s) and preferences and cookies come in two types – session (for the life of your web session) or persistent (remains after your web session). We may choose to use session and/or persistent cookie technology, to assist us in customizing our website's content based on your subject matter choices, to provide the information you request, and to enhance your experience on our website. Many popular browsers allow you to decide whether to refuse, accept, or delete cookies. If you choose not to accept cookies, however, some Web pages may not display properly or you may not be able to access certain information. 
 
-Our Web site contains information related to our operations and products/services we provide. Some of the information may be of educational interest to children. SCANA does not seek to gather personally identifiable information online from or about children. 
+Our website contains information related to our operations and products/services we provide. Some of the information may be of educational interest to children. SCANA does not seek to gather personally identifiable information online from or about children. 
 
-**Information Use**  
+**Information Use**
+
 We use the information you provide to: 
 
-  * Fulfill your requests and answer your questions (this could include account-related information e-mailed to you)
-  * Help you quickly find and/or receive information about SCANA or one of our affiliated companies' products and/or services
-  * Alert you to our updated information and services and provide more complete services and webpage content
-  * Improve the content of our Web site for your use
+  * Fulfill your requests and answer your questions (this could include account-related information emailed to you) 
+  * Help you quickly find and/or receive information about SCANA or one of our affiliated companies' products and/or services 
+  * Alert you to our updated information and services and provide more complete services and webpage content 
+  * Improve the content of our website for your use 
 
 
 
 **Information Sharing**   
-SCANA does not sell or provide your personally identifiable information to unaffiliated companies for commercial purposes unrelated to SCANA's businesses. SCANA may, however, share personally identifiable information for legitimate business purposes, including without limitation, the following:
+SCANA does not sell or provide your personally identifiable information to unaffiliated companies for commercial purposes unrelated to SCANA's businesses. SCANA may, however, share personally identifiable information for legitimate business purposes, including without limitation, the following: 
 
-  * Sharing information with SCANA's subsidiaries and affiliates, unless prohibited by law;
-  * Making information available to third parties and/or service providers who are providing the product(s), service(s), or information you requested (e.g., BillMatrix and SunGard Services). These third parties are not allowed to use the personally identifiable information except for the purpose of providing these product(s) and/or services;
-  * Making information available to third parties who are providing services to SCANA or its subsidiaries or affiliates (e.g., providing information to third parties performing computer-related services to SCANA or its affiliates);
-  * Undergoing business transitions; in the event SCANA goes through a business transition, such as a merger or acquisition, or selling a portion of its assets, personally identifiable information will, in most instances, transfer as part of the assets.
-  * Forming a good-faith belief that disclosure of information is necessary to protect the rights and property of SCANA, and/or its affiliates, other SCANA customers; or,
-  * Disclosing information when allowed by law or our legal counsel has a good-faith belief that federal or state law, subpoena, or court order requires the disclosure.
+  * Sharing information with SCANA's subsidiaries and affiliates, unless prohibited by law or regulation; 
+  * Making information available to third parties and/or service providers who are providing the product(s), service(s), or information you requested. These third parties are not allowed to use the personally identifiable information except for the purpose of providing these product(s) and/or services; 
+  * Making information available to third parties who are providing service(s) to SCANA or its subsidiaries or affiliates; 
+  * Undergoing business transitions; in the event SCANA experiences a business transition, such as a merger or acquisition, or selling a portion of its assets, personally identifiable information will, in most instances, transfer as part of the assets; 
+  * Forming a good-faith belief that disclosure of information is necessary to protect the rights and property of SCANA, and/or its affiliates, other SCANA customers; or, 
+  * Disclosing information when allowed or required by law or regulation or when our legal counsel has a good-faith belief that a subpoena or court order requires the disclosure.
 
 
 
-This Privacy Statement applies to personally identifiable information obtained through our web site only and not to aggregate and/or generic information that does not identify the individual. Therefore, SCANA reserves the right to share aggregated information (i.e., non-personally identifiable information) with third parties for any reason, unless prohibited by law. 
+This Privacy Statement only applies to personally identifiable or payment card information obtained through our website. By providing personally identifiable or payment card information, you expressly consent to these privacy practices. The Privacy Statement does not apply to aggregate and/or generic information that does not identify the individual. Therefore, SCANA reserves the right to share aggregated information (i.e., non-personally identifiable information) with third parties for any reason, unless prohibited by law or regulation. 
 
 **Information Security**   
-We use information security safeguards and techniques deemed reasonable by SCANA to protect the information you provide. When users submit sensitive information via this Web site, the information is protected both during transmission and in storage. SCANA uses prevailing information technology industry practices to protect personally identifiable information from loss, misuse, alteration, and destruction. Such measures include the use of firewalls, 128-bit encryption, and secure socket layers to protect sensitive transmissions of information received. In some areas of our Web site, we require a user ID and password to access certain information. SCANA will not disclose passwords to third parties and, you are responsible for maintaining the privacy and security of your account number, user ID, and password. To protect information off-line, access to the information you provide is limited to those who specifically need it to conduct their business responsibilities. Your information is stored on secure servers protected inside controlled facilities. Unfortunately, no information can be guaranteed to be 100 percent secure, so we cannot give an absolute assurance the information you provide to us will be secure at all times. Please note: SCANA WILL NOT BE HELD RESPONSIBLE FOR EVENTS ARISING FROM UNAUTHORIZED ACCESS TO YOUR PERSONAL INFORMATION. 
+We use reasonable information security safeguards and techniques to protect the information you provide. When users submit sensitive information via this website, the information is protected both during transmission and in storage. SCANA uses prevailing information technology industry practices to protect personally identifiable information from loss, misuse, alteration, and destruction. Such measures include the use of firewalls, encryption, and secure socket layers to protect sensitive transmissions of information received. In some areas of our website, we require a user ID and password to access certain information. To protect information off-line, access to the information you provide is limited to those who specifically need it to conduct their business responsibilities. Your information is stored on secure servers protected inside controlled facilities. Unfortunately, no information can be guaranteed to be 100 percent secure, so we cannot give an absolute assurance the information you provide to us will be secure at all times. Please note: SCANA IS NOT RESPONSIBLE FOR EVENTS ARISING FROM UNAUTHORIZED ACCESS TO YOUR PERSONAL INFORMATION.   
+SCANA does not disclose passwords to third parties and, you are responsible for maintaining the privacy and security of your account number, user ID, and password. 
 
 **Obtaining and Correcting Information and Opting-out**   
-If you wish to know the personally identifiable information we have obtained from you through the use of this Web site please contact us using the information provided in the "Contact Information" section below. If you believe we have obtained inaccurate personally identifiable information about you through your use of our Web site, please contact us using the information provided in the "Contact Information" section below. 
+If you wish to know the personally identifiable information we have obtained from you through the use of this website or if you believe we have obtained inaccurate personally identifiable information about you through your use of our website, please contact us using the information provided in the "Contact Information" section below. 
 
-In some cases, we may contact you to let you know about new products or services that may be of interest to you. If you do not wish to be contacted by us for this purpose, you may make this request by contacting us using the information in the "Contact Information" section below. We will review your request and honor it when possible. 
+In some cases, we may contact you to let you know about new products or services that may be of interest to you. If you do not wish to be contacted by us for this purpose, you may “opt-out” of receiving such information by contacting us using the information in the "Contact Information" section below. 
 
-**Non-SCANA Web Sites**   
-For convenience, we offer you the ability to link to and view pages of Web sites not operated or controlled by SCANA (e.g., weather and financial information). You should be able to tell you have linked to a non-SCANA Web site because we inform you with wording such as, "You are about to leave the SCANA Web site. On sites outside of our domain, we are not responsible for the content and accuracy of the information." You are then provided an opportunity to choose not to link to the non-SCANA Web site. SCANA and its subsidiaries do not monitor or control the content or the privacy practices of these non-SCANA Web sites and are therefore, not responsible for the privacy practices or the content of linked external Web sites. When using a link to a non-SCANA Web site, we recommend you review the privacy practices and policies of the external Web site. 
+**Non-SCANA Websites**   
+For convenience, we offer you the ability to link to and view pages of websites not operated or controlled by SCANA (e.g., weather and financial information). You should be able to tell you have linked to a non-SCANA website because we inform you with appropriate notice or the link launches a separate web page. SCANA and its subsidiaries do not monitor or control the content or the privacy practices of these non-SCANA websites and are therefore, not responsible for the privacy practices or the content of linked external websites. When using a link to a non-SCANA website, we recommend you review the privacy practices and policies of the external website. 
 
-**Privacy Statement Changes  
-** We may change this Privacy Statement without notice. Changes to this Privacy Statement will be posted to this Web site accordingly. You may want to visit this Web site periodically to review the current Privacy Statement. Use of our Web site after the posting of a revised Privacy Statement constitutes your acceptance of our privacy practices. 
+**Privacy Statement Changes**   
+We may change this Privacy Statement without notice and changes will be posted to this website accordingly. You may want to visit this website periodically to review the current Privacy Statement. Use of our website after the posting of a revised Privacy Statement constitutes your acceptance of our privacy practices. 
 
 **Contact Information**   
-If you have questions about this Privacy Statement or wish to contact us concerning personally identifiable information you provided through the use of our Web site, please contact us at the following. 
+If you have questions about this Privacy Statement or wish to contact us concerning personally identifiable information you provided through the use of our website, please contact us at the following. 
 
-E-mail: [privacy@scana.com](mailto:privacy@scana.com)    
-Address and Phone number: SCANA Corporation   
-Attention: Corporate Privacy Office (MC 068)   
-Columbia, SC 29218   
-Telephone: **803-217-6686**
+Email: [privacy@scana.com](mailto:privacy@scana.com)
 
-Last updated: May 2007 
+Telephone: **1-800-335-6974**   
+Postal Address:   
+220 Operations Way   
+Cayce, SC 29033-3701   
+Attention: Corporate Privacy Office (MC B111) 
+
+**Last updated: December 2009**
