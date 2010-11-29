@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the saabsunited.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626033648id_/http%3A//www.saabsunited.com/about/saabs-united-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saabsunited.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129034148id_/http%3A//www.saabsunited.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Saabs United Privacy Policy - Saabs United
+# Privacy Policy
 
-I don't really get most of this stuff, and whilst it probably all happens in the background, I don't literally 'collect' any information on visitors here.
+I don’t really get most of this stuff, and whilst it probably all happens in the background, I don’t literally ‘collect’ any information on visitors here.
 
-Regardless, I'm required to provide this information as part of my Google terms of service.
+Regardless, I’m required to provide this information as part of my Google terms of service.
 
-\------
+——
 
 The privacy of visitors to saabsunited.com is important.
 
@@ -24,8 +24,8 @@ We also use third party advertisements on saabsunited.com to support our site. S
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-\------
+——
 
-As I mentioned, I don't actually DO this stuff manually. It all happens in the background. I check visitation stats but I don't dig any deeper than that.
+As I mentioned, I don’t actually DO this stuff manually. It all happens in the background. I check visitation stats but I don’t dig any deeper than that.
 
-I'm just glad you came and I hope you enjoyed yourself :-)
+I’m just glad you came and I hope you enjoyed yourself 
