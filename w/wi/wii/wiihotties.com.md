@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiihotties.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095237id_/http%3A//www.wiihotties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiihotties.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129022707id_/http%3A//www.wiihotties.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wii Hotties
 
