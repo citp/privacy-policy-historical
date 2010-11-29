@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022084231id_/http%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129105834id_/http%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.*
 
 # VolunteerMatch - VolunteerMatch Privacy Policy
 
@@ -128,6 +128,9 @@ We share aggregate information about our users with certain third parties. This 
 In the unlikely event that VolunteerMatch undergoes a sale or transfer of all or substantially all of its assets, the acquiring entity will be subject to this Privacy Policy in its use of your personally identifiable Information. In addition, in the further unlikely event that VolunteerMatch is adjudicated bankrupt or insolvent (a) there will be no further use or disclosure of your personally identifiable Information by VolunteerMatch and (b) your personally identifiable Information will be destroyed. In addition, there will be no use or disclosure of your personally identifiable Information by any entity that acquires assets of VolunteerMatch pursuant to such bankruptcy or insolvency proceedings. 
 
 Due to factors beyond our control, however, we cannot fully ensure that your Information will not be disclosed to third parties. For example, we may be legally obligated to disclose Information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access your Personal Information. 
+
+**Web Beacons**  
+Our pages on www.volunteermatch.org may contain files called web beacons that we use for research and evaluation purposes. Information recorded through these beacons is used to report anonymous information about the results of pro-bono media campaigns donated by Yahoo!. Aggregate information may include demographic and usage information. You may choose to opt-out of this research by visiting: <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>. 
 
 **Links**  
 This site contains links to other sites. VolunteerMatch is not responsible for the privacy practices or the content of such Web sites. 
