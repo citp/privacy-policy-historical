@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424195649id_/http%3A//www.edge.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129030851id_/http%3A//www.edge.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 102.1 the Edge
 
