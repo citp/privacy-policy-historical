@@ -1,94 +1,155 @@
-> *The following text is extracted and transformed from the sendgrid.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411082759id_/http%3A//sendgrid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendgrid.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129111950id_/http%3A//sendgrid.com/privacy.html) for the most accurate reproduction.*
 
-# SendGrid | Privacy Policy
+# Privacy Policy | SendGrid
 
-This Privacy Policy is to inform users how SendGrid.com uses and protects their personal information. 
+**Policy Version Date: July 3, 2010**
 
-### SCOPE
+SendGrid, Inc. (" **SendGrid** ," " **Us** ," or " **We** ") is committed to protecting the privacy of the users of the http://sendgrid.com web site (the " **Site** ") and the services offered through the Site, including by way of example the email and other communications sent through those services (the " **Services** "). This privacy policy (the " **Policy** ") discloses SendGrid’s information privacy practices for the Site and Services. This policy is intended to inform registered users and other visitors to the Site of the information collection and use practices of the Site and Services. 
 
-This Privacy Policy describes how SendGrid.com handles its users' personal information for our services related to the SendGrid.com websites. It applies generally to the SendGrid.com website and any other related websites where this policy appears on the webpage ("the Sites"). Some SendGrid.com websites or websites operated by SendGrid.com may also be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy that appears at the bottom of the website.
+Amendments to this Policy will be posted on the Site and will be effective when posted. Your continued use of the Site or Services following the posting of any amendment will constitute your acceptance of that amendment, except if your personally identifiable information will be used in a materially different manner. See the Notification of Changes section below for further information. 
 
-Subject to the requirements of applicable law, SendGrid.com attempts to provide a consistent set of privacy practices. By accepting the Privacy Policy and the User Agreement in registration, the user expressly consents to the collection, storage, use and disclosure of his or her personal information by SendGrid.com as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users.
+If you have questions or concerns regarding this Policy, you should contact SendGrid by e-mail at [info@sendgrid.com](mailto:info@sendgrid.com). 
 
-### COLLECTION
+### Ownership and Use
 
-Anyone can browse the Sites without revealing their identity or revealing any personal information to SendGrid.com. However, once users give SendGrid.com their personal information, they are no longer anonymous to us. If users choose to provide us with personal information, they consent to the transfer and storage of that information to SendGrid.com's servers located in the United States. 
+SendGrid is the owner of the information collected on the Site and through the Services. We will not sell, share, transfer, or use this information other than as stated in this Policy. 
 
-SendGrid.com may collect and store the following personal information:
+### SendGrid Customers and Other Third Parties.
 
-  1. E-mail address, physical contact information, and, if applicable, financial information, such as credit card or bank account numbers;
-  2. Transactional information based on users' activities on the Sites (such as email behavior you generate or that relates to your account);
-  3. Shipping, billing and other information users may provide to purchase an item;
-  4. Community discussions, chats, dispute resolutions, correspondence through the Sites, and correspondence sent to SendGrid.com;
-  5. Computer sign-on data, statistics on page views, traffic to and from the Sites, and advertising data;
-  6. Other information, including IP address and standard web log information; and 
-  7. Supplemental information from third parties. (For example, if a user incurs a debt to SendGrid.com, SendGrid.com will generally conduct a credit check by obtaining additional information about the user from a credit bureau, as permitted by law. As another example, if the information a user provides cannot be verified, we may ask the user to send us additional information (such as driver's license information, credit card statement, and/or a recent utility bill or other information confirming your address), or to answer additional questions online to help verify your information).
+Certain of the web sites of SendGrid’s customers, advertisers or affiliates and other third-parties may be accessible through the Site or through communications sent through the Services. You may be asked to provide personally identifiable information (or other information) to these customers or other third parties through these web sites or through the communications sent to you through the Services, including by way of example when you click on a link on the Site to one of these other web sites or on a link in a communication sent through the Services. These customers and third parties maintain their own privacy and data collection policies and practices. This Policy covers only the Site and Services and does not extend to our customers or any third parties. SENDGRID IS NOT RESPONSIBLE FOR THE POLICIES OR PRACTICES OF OUR CUSTOMERS OR ANY THIRD PARTIES. YOU SHOULD REVIEW THE APPLICABLE PRIVACY POLICIES OF OUR CUSTOMERS AND ANY THIRD PARTIES BEFORE PROVIDING THEM WITH ANY PERSONALLY IDENTIFIABLE INFORMATION. 
 
+### Registered Users.
 
+Registration is not mandatory to access the public areas of the Site. Registration is, however, required for access to certain areas of the Site and the use of certain of the Services provided through those areas of the Site. The areas of the Site requiring registration are noted on the Site. 
 
-### MARKETING
+Users registering to receive an account on the Site will be provided with a username and password for purposes of accessing their account and the portions of the Site available to account holders. When accessing the portions of the Site available to account holders, and using the Services provided through those areas of the Site, users may be required to provide their username and password. 
 
-SendGrid.com does not sell or rent a user's personal information to third parties for their marketing purposes without the user's explicit consent. SendGrid.com may combine a user's information with information collected from other companies (such as demographic data) to improve and personalize its services. If you do not wish to receive marketing communications from SendGrid.com, indicate your preference following the directions you receive in the unwanted e-mail.
+SendGrid is not responsible for any loss or misuse of your username and password. ALWAYS REMEMBER THAT IN ORDER TO PROTECT YOUR PRIVACY YOU SHOULD NOT SHARE YOUR USERNAME OR PASSWORD WITH OTHERS. 
 
-  1. Provide the services and customer support requested by its users;
-  2. Resolve disputes, collect fees, and troubleshoot problems;
-  3. Prevent potentially prohibited or illegal activities, and enforce the User Agreement;
-  4. Customize, measure, and improve its services and the Sites' content and layout;
-  5. Tell users about targeted marketing, service updates, and promotional offers based on users' communication preferences; and
-  6. Compare information for accuracy, and verify it with third parties.
+### Personally Identifiable Information.
 
+We only collect and share personally identifiable information regarding users of the Site or Services as described in this Policy. Except as noted in this Policy, personally identifiable information collected on the Site or through the Services is NOT shared with third parties without your consent. 
 
+We may automatically collect personally identifiable information from you when you access the Site or use or access the Services. We may also collect personally identifiable information from you through a number of voluntary sources on the Site and through the Services, such as responses, registrations, surveys, reviews, comments, confirmations, emails, postings, messages or other electronic submissions and communications sent by you to the Site or through Services. The personally identifiable information we may collect from you will include, by way of example: 
 
-### OUR DISCLOSURE OF USER INFORMATION
-
-SendGrid.com may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. 
-
-SendGrid.com may also share users' personal information with:
-
-  1. Members of SendGrid.com's corporate family to help detect and prevent potentially illegal acts and provide joint services;
-  2. Service providers under contract who help with SendGrid.com's business operations (such as fraud investigations, bill collection, and affiliate programs, etc.);
-  3. Other third parties to whom users explicitly ask us to send their information;
-  4. Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity (in such events we will disclose name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history); and
-  5. Other business entities, should SendGrid.com plan to merge with or be acquired by that business entity (Should such an event occur, SendGrid.com will require that any new entity follow this Privacy Policy with respect to its users' personal information. If your personal information will be used contrary to this policy, you will receive prior notice and be asked for consent). 
+  * Domain name and Internet Protocol (IP) address;
+  * E-mail address;
+  * Contact information (including, name, address, zip code, country, and phone number);
+  * Gender;
+  * Financial information, such as account or credit card numbers;
+  * User-specific and aggregate information on areas of the Site accessed and the Services used;
+  * Username and password information for the Site or Services; and 
+  * Other information You volunteer to the Site or through the Services, such as information provided through responses, registrations, surveys, reviews, comments, emails, postings, messages or other electronic submissions and communications sent by you to SendGrid or the Site or Services.
 
 
 
-Without limiting the above, SendGrid.com will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when SendGrid.com, in good faith, believes that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+YOU SHOULD NOT PROVIDE SENDGRID WITH ANY PERSONALLY IDENTIFIABLE INFORMATION (OR SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE SITE OR IN RESPONSE TO ANY COMMUNICATION) UNLESS YOU WOULD LIKE THAT INFORMATION TO BE USED BY SENDGRID IN ACCORDANCE WITH THIS POLICY. LIKEWISE, YOU SHOULD NOT SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE SITE OR THROUGH THE SERVICES UNLESS YOU WANT THAT INFORMATION TO BE ACCESSIBLE BY OTHER USERS OF THE SITE OR SERVICES, AS INFORMATION POSTED ON A SITE OR SERVICES MAY BE MADE AVAILABLE TO OTHER USERS OF THE SITE OR SERVICES. 
 
-### COOKIES
+If you register for the Site or Services through a third-party site or service, the personally identifiable information you have provided in connection with your account on that third-party site or service may be imported into your account on the Site. The personally identifiable information we may collect from you will also include any information imported from any such account on any third-party site. 
 
-SendGrid.com may use "cookies" (small files placed on a user's hard drive) on certain pages of the Sites to help analyze web page flow, customize services, measure promotional effectiveness, and promote trust and safety.
+The personally identifiable information that SendGrid collects from users of the Site or Services (both registered and unregistered) may be used for a variety of purposes, including by way of example: 
 
-A few important things you should know about cookies are that: 
+  * Providing the Services;
+  * Customizing advertising or other content displayed on the Site or through the Services;
+  * Customizing the layout of the Site or Services;
+  * Notifying users of the Site or Services about updates to and activities on the Site or Services and about goods and services that we feel may be of interest to you;
+  * Improving the content of the Site or Services;
+  * Contacting users of the Site or Services for marketing purposes; and
+  * Contacting users of the Site or Services for information verification purposes.
 
-  1. SendGrid.com may offer certain features that are only available through the use of cookies.
-  2. SendGrid.com may use cookies to help identify users and maintain a user's signed-in status.
-  3. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.
-  4. Users are always free to decline our cookies if their browser permits, although doing so may interfere with the use of the Sites.
-  5. Users may encounter cookies from third parties on certain pages of the Sites that SendGrid.com does not control. (For example, if you view a web page created by another user, there may be a "cookie" placed by that web page.)
+
+
+We may also share certain personally identifiable information we collect through the Site or Services with third party companies so that they may offer products and services to users of our Site or Services that we believe will be of interest to those users. We may also share certain personally identifiable information with third party advertisement serving companies to better target the advertising and other content displayed on the Site or Services and provide pertinent offers we think may be of interest to our users. In addition, third party advertisers may receive certain personally identifiable information about you if you click on advertisements displayed on the Site or through the Services. Clicking on any advertisement displayed on the Site or through the Services will be considered your consent to "opt in" for this transfer. 
+
+### Non-Personally Identifiable Information.
+
+Where possible, our server automatically recognizes and collects certain non-personally identifiable information regarding visitors to the Site and users of the Services, including by way of example, IP address, browser type, and other information regarding the system and connection of each visitor or user. We also collect information about how visitors access and use the Site and Services, including by way of example what pages of the Site are viewed and what portions of services are used. This information allows us to improve the content of the Site and Services, facilitate research and analysis of the Site and Services, and develop and refine our Services. Sometimes, we utilize the services of a third party to help us understand this information better, although the information that is disclosed to these entities remains at all times in anonymous and non-personally identifiable form. Other than improving the Site and Services, and the experience of visitors to the Site and users of the Services, we make no other use of this information. 
+
+### Disclosure as Required by Law.
+
+Though we make every reasonable effort to preserve user privacy, we may need to disclose personally identifiable information of certain users of the Site or Services when we have a reasonable and good-faith belief that the disclosure is necessary to enforce the Terms of Use for the Site, comply with a judicial proceeding, court order or other legal process, or to otherwise enforce or protect SendGrid’s rights under applicable law, including, without limitation, SendGrid’s intellectual property rights. In this situation we will use reasonable efforts to provide notice of this disclosure to all affected users, to the extent reasonably possible under the circumstances. 
+
+### Enhancement of Personal Information.
+
+We may combine and enhance our user database information with third party data and information to better target our advertising and provide pertinent offers in which we think our users would be interested. Certain summary demographics are also used in our research product offerings. Individual personally identifiable information is never used in our research product offering and is never tied back to an individual user or resold for any purposes. 
+
+### Service Announcements.
+
+On occasion it is necessary to send out service related announcements. For instance, if the Site or any of the Services is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. These communications are not promotional in nature. 
+
+### Special Offers and Updates.
+
+We may send new registrants of the Site or Services a welcoming email to verify password and username. Established members may occasionally also receive information on products, services and special deals, and periodic newsletters. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out section. 
+
+### Your California Privacy Rights.
+
+California law provides that California residents have a right to request that businesses tell them how their personally identifiable information has been shared with third parties for those third parties’ direct marketing purposes. However, there is an exception to this requirement for businesses that have adopted and disclosed, in their privacy policy, a policy of not disclosing a person’s personally identifiable information to third parties for those third parties’ direct marketing purposes if that person has exercised an option to opt-out of the disclosure of their personally identifiable information to third parties for such purposes. 
+
+SendGrid has adopted a policy of allowing you to opt-out of the disclosure of your personally identifiable information to third parties for their direct marketing purposes and thus falls within this exception. Instructions for opting out can be found in the section below entitled "Choice and Opt-Out." 
+
+### Choice and Opt-out.
+
+We provide you with a choice whether to receive certain emails and other communications through the Site and Services. 
+
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you are a user of the Site or Services and you no longer wish to receive emails, mail, or telephone calls from us or have your email address or postal address shared with third parties, you may opt-out of receiving email, mail or telephone calls from us or having your email address or postal address shared with third parties. 
+
+In addition, if you would prefer that we not share your personally identifiable information with third parties for the third parties’ direct marketing purposes, you may opt-out of having your personally identifiable information shared with third parties for the third parties’ direct marketing purposes. 
+
+All opt-out requests can be made by emailing us at: [info@sendgrid.com](mailto:info@sendgrid.com).
+
+### Children.
+
+The Site and Services are not directed to children under 13 years of age. SendGrid does not knowingly solicit or collect personal information from children under 13 years of age. 
+
+### Customer Service.
+
+We provide customer service as set forth in our [Terms of Service](https://web.archive.org/tos.html "Terms of Service"). We communicate with users to provide these services in accordance with our Terms of Service. 
+
+### Cookies and Web Beacons.
+
+"Cookies" include commonly used pieces of information in the form of small files that are placed on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Site and Services. We may use cookies on the site or in communications sent through the Services for various purposes, including by way of example: 
+
+  * Saving user preferences;
+  * Customizing content of the Site for individual users;
+  * Ensuring that users are not repeatedly sent the same banner ads;
+  * Recording session information;
+  * Saving certain information about users of the Site and others who visit the Site; and
+  * Facilitating and enhancing interaction with the Site.
 
 
 
-### NO SPAM, SPYWARE OR SPOOFING
+SendGrid does not use cookies to retrieve information from a computer that is unrelated to SendGrid or the Site or Services. 
 
-Neither SendGrid.com nor its Users will tolerate spam. Make sure to set your SendGrid.com notification preferences so we communicate to you as you prefer. Users are not licensed to add other SendGrid.com users, even a user who has purchased an item from you, to your mail list (email or physical mail) without express consent. To report SendGrid.com related spam or spoof emails to SendGrid.com, please forward the email to [info@sendgrid.com](mailto:info@sendgrid.com). Users may not use SendGrid.com's communication tools to send spam or otherwise send content that would violate our User Agreement. SendGrid.com filters and automatically scans messages before they are sent for viruses and other illegal or prohibited content but do not permanently store email messages sent through these tools. If you send an email to an email address that is not registered in our community, SendGrid.com does not permanently store that email or use that email address for any marketing purpose. SendGrid.com does not rent or sell email addresses.
+A cookie does not collect or keep your name or other personally identifying information; however, we may link the information obtained through cookies to other personally identifiable information to give us a better understanding of your preferences, so that we can provide a more meaningful experience to you on our Site and through our Services. 
 
-### ACCOUNT PROTECTION
+"Web beacons" (also known as "single–pixel" or "clear" GIFs) include electronic images imbedded in the Site or in communications sent through the Services which are invisible to users. Web beacons collect information, such as identifiers, time and date of access, and descriptions of the pages or communications in which the web beacons are imbedded. The Site and communications sent through the Services may include web beacons. We may use the web beacons on the Site and in communications sent through the Services for various purposes, including by way of example to track users who have visited our Site, viewed advertisements on the Site or in communications sent through the Services, or otherwise accessed communications sent through the Services. 
 
-A user's password is the key to the user's account. SendGrid.com urges all users to use unique numbers, letters, and special characters when choosing a password. Do not disclose your SendGrid.com password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify SendGrid.com and change your password.
+We may use an outside advertisement serving company to display advertisements on the Site or in communications sent through the Services. The advertisement serving company may place and collect cookies or web beacons when it displays an advertisement on the Site or through the Services. We do not have access to information that would confirm the use of cookies or web beacons by the advertisement serving company. We may also use a third party provider to analyze data and patterns regarding usage of the Site and the communications sent through Services. This third party provider may use cookies or web beacons to collect such information. 
 
-### ACCESSING, REVIEWING AND CHANGING YOUR PERSONAL INFORMATION
+Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions. 
 
-Users can see, review and change most of their personal information by logging into the Sites. Generally, SendGrid.com will not manually modify a user's personal information. Users must promptly update their personal information if it changes or is inaccurate. Once a user makes a public posting, he or she may not be able to change or remove it. Upon your request, SendGrid.com will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. SendGrid.com does retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce the SendGrid.com User Agreement, and take other actions otherwise permitted by law.
+### Access, Review, Update.
 
-### SECURITY
+The users of the Site or Services should email us at [info@sendgrid.com](mailto:info@sendgrid.com) to review, delete, deactivate, update or change any personal information that was previously provided to or collected by SendGrid. 
 
-All user information is stored on SendGrid.com's servers located in the United States. SendGrid.com treats all data as an asset that must be protected and uses numerous tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse personal information that they collect from the Sites. Therefore, although SendGrid.com works hard to protect its user's privacy, it does not promise, and users should not expect, that their personal information or private communications will always remain private.
+### Consent to the Use of Third Party Providers.
 
-### THIRD PARTIES
+In addition to the specific third parties noted in this Policy, SendGrid may also contract with other third parties to provide various services to SendGrid relating to the Site or Services on an outsourced basis rather than performing the services itself. For example, SendGrid may contract with a web site hosting provider to host all or a portion of the Site or Services for SendGrid. By visiting the Site or using the Services, all visitors consent to SendGrid providing both personal and non-personal information received from those visitors to these third party providers for the purpose of enabling the third party provider to provide these outsourced services to SendGrid. In addition, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information by SendGrid and these third party providers. 
 
-Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information collected from you. If you disclose your information to others, whether they are bidders, buyers, or sellers on our Sites or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Since SendGrid.com does not control the privacy policies of third parties, you are subject to the privacy policies of those third parties. SendGrid.com encourages all users to ask questions before they disclose personal information to others.
+### Notification of Changes.
 
-### GENERAL
+If we decide to change this Policy, we will either notify users by way of an e-mail or post material changes on the Site so our users are aware of what information we collect, how we use it, and if we disclose it. Unless we seek and receive your consent, we will use information in accordance with the Policy under which the information was last collected. Users may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at [info@sendgrid.com](mailto:info@sendgrid.com). 
 
-SendGrid.com may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms automatically take effect thirty (30) days after they are initially posted on the Site. In addition, SendGrid.com will notify its users in accordance with your notification preferences. If your questions are not answered online, you may write to us at: SendGrid.com, 4290 Brockton Avenue, Suite 202, Riverside, California 92501, or via e-mail at [info@sendgrid.com](mailto:info@sendgrid.com).
+### Security.
+
+We will use at least industry standard security measures on the Site to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information. For example, our policy is that only those individuals who need your personally identifiable information to perform a specific job are granted access to that personally identifiable information. Likewise, all employees and contractors are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
+
+### Contact Information.
+
+All inquiries concerning this Policy and the Site or Services in general may be sent to [info@sendgrid.com](mailto:info@sendgrid.com). 
+
+### Transfer of Information.
+
+If SendGrid elects, in its reasonable discretion, to transfer ownership or control of the Site or Services to a third party, whether or not in the context of an acquisition, merger, or reorganization, you consent to the transfer of your personally identifiable information and non-personally identifiable information by SendGrid to that third party, provided that all use of your information by that third party remains subject to the terms of this Policy. 
+
+Thank you for visiting the Site and using the Services. 
