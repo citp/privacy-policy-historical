@@ -1,30 +1,40 @@
-> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611172614id_/http%3A//radaris.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129111701id_/http%3A//radaris.com/page/privacy) for the most accurate reproduction.*
 
 # Radaris: Radaris Privacy Policy
 
-Radaris has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Radaris’s application. Our site also uses data from publicly accessible sources like telephone directories. As a consumer, you have the ability to make certain choices on the Radaris website that will govern how Radaris will handle your personal information and provide you with control over how Radaris shares that information. We encourage users to register on Radaris and take control of their online public profile. This privacy policy explains the source of site information and how specific information is protected, collected and used by Radaris. This policy may be occasionally updated by Radaris: Radaris will, however, provide notice of significant changes to this privacy policy by posting a notice on the Radaris.com web site. With Radaris's account settings, you can set preferences about which information you wish to be visible to the world. Your settings allow you to either remove your information on Radaris completely from the public eye, or make it accessible to only a limited amount of people, such as your friends, your relatives, etc... Until you set your privacy settings, our default privacy settings will show only limited information, such as your name, town and state. This information will be visible to everyone who searches you by name. People within the same groups as you can also see that you belong to the same group as they do. Control of information obtained from publicly accessible external sources is beyond our control. Please contact these sources directly if you with them to remove certain information. We can tell you the source of that information upon request. Please send us your requests using online ticket system. 
+Radaris has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Radaris's application. Our site also uses data from publicly accessible sources like telephone directories. As a consumer, you have the ability to make certain choices on the Radaris website that will govern how Radaris will handle your personal information and provide you with control over how Radaris shares that information. We encourage users to register on Radaris and take control of their online public profile. 
+
+This privacy policy explains the source of site information and how specific information is protected, collected and used by Radaris. This policy may be occasionally updated by Radaris: Radaris will, however, provide notice of significant changes to this privacy policy by posting a notice on the Radaris.com web site. 
+
+With Radaris's account settings, you can set preferences about which information you wish to be visible to the world. Your settings allow you to either remove your information on Radaris completely from the public eye, or make it accessible to only a limited amount of people, such as your friends, your relatives, etc... Until you set your privacy settings, our default privacy settings will show only limited information, such as your name, town and state. This information will be visible to everyone who searches you by name. People within the same groups as you can also see that you belong to the same group as they do. Control of information obtained from publicly accessible external sources is beyond our control. Please contact these sources directly if you with them to remove certain information. We can tell you the source of that information upon request. Please send us your requests using online ticket system. 
 
 By submitting personal information to the Radaris web site, you agree to the terms of this Privacy Policy and expressly consent to the processing of your personal information according to this Privacy Policy. 
 
-1\. SITE INFORMATION SOURCE.
+**1\. SITE INFORMATION SOURCE.**
 
 Radaris purchases publicly available information from sources like telephone companies and other public directories. If our information is outdated we encourage users to register and correct that data and to seek out the original sources for that error. Upon request we can research and provide the public sources of the information we display. 
 
-2\. INFORMATION WE COLLECT.
+**2\. INFORMATION WE COLLECT.**
 
-Radaris collects personal information such as name, email address, age and other information that is submitted knowingly and voluntarily through our web-site. We collect information during following instances- a) During your registration at the Radaris web site, we will collect information that you provide us. b) Whenever you save the personal information in your profile or in the profiles of the people you know, we will collect the information you enter. c) Whenever you enter personal information throughout the Radaris web site using one of the Radaris’s tools and features, we will collect the information you enter. d) Whenever information is recorded, in any form or field on the Radaris web site, we collect information about the time and date of submission, as well as the person submitting such information. e) Whenever you contact us by sending us an e-mail, we will collect your e-mail addresses and any information contained in the e-mail you send us. 
+Radaris collects personal information such as name, email address, age and other information that is submitted knowingly and voluntarily through our web-site. We collect information during following instances-  
+a) During your registration at the Radaris web site, we will collect information that you provide us.  
+b) Whenever you save the personal information in your profile or in the profiles of the people you know, we will collect the information you enter.  
+c) Whenever you enter personal information throughout the Radaris web site using one of the Radaris's tools and features, we will collect the information you enter.  
+d) Whenever information is recorded, in any form or field on the Radaris web site, we collect information about the time and date of submission, as well as the person submitting such information.  
+e) Whenever you contact us by sending us an e-mail, we will collect your e-mail addresses and any information contained in the e-mail you send us. 
 
 Radaris collects other profile data, including, but not limited to: personal interests, gender, age, education, connections with other people or communities, and occupation, in order to assist users in finding and communicating with each other. 
 
 Radaris also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. 
 
-3\. INFORMATION SHARING AND DISCLOSURE.
+**3\. INFORMATION SHARING AND DISCLOSURE.**
 
 Profile owner can set their own privacy settings about what information can be disclosed or shared with others, and in what manner. To facilitate the searching of people, users are allowed to search using first and last name, email address, contact information, schools, companies, and communities users may have been affiliated with. If profile owner does not specify privacy settings, the default settings will be used. The default settings allow searching for a person by name and address. However, once a person is found, his or her profile is not accessible to everyone. If a profile is linked to a certain group or community, other members of these groups will be able to see the affiliation to that group. Deleted information may still exist in back up copies, but will not be accessible to the public. 
 
+  
 With the exception of inviting friends, adding friends, and sending account notifications, a member's email address is not shared or displayed to others, unless profile owner grants such permission. 
 
-Profile owner’s information, including user’s picture and name, are displayed to people in order to facilitate user interaction in networking community. This is unless otherwise specified in your privacy settings. 
+Profile owner's information, including user's picture and name, are displayed to people in order to facilitate user interaction in networking community. This is unless otherwise specified in your privacy settings. 
 
 We may also use a Profile owner's email address to send updates, account notifications, newsletters or news regarding the service. Profile owner may specify the types of emails that they wish to receive under their notification settings "Do not send me notification emails" in the user "Account Settings". 
 
@@ -34,24 +44,24 @@ Except as otherwise described in this privacy statement, Radaris will not disclo
 
 We do not provide your contact information to third parties marketing companies without your permission. 
 
-4\. STORING OF INFORMATION.
+**4\. STORING OF INFORMATION.**
 
-Profile owner accounts are secured by profile owner created passwords. Radaris takes precautions to insure that all members’ account information is kept private. Radaris uses reasonable measures to protect the stored information of profile owners within our database, and restricts access to profile owner’s information to those employees who need access to perform their job functions. Radaris does not guarantee the security of profile owner’s account information, but Radaris does keeps information safe in accordance with industry standards. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of profile owner’s information at any time. 
+Profile owner accounts are secured by profile owner created passwords. Radaris takes precautions to insure that all members' account information is kept private. Radaris uses reasonable measures to protect the stored information of profile owners within our database, and restricts access to profile owner's information to those employees who need access to perform their job functions. Radaris does not guarantee the security of profile owner's account information, but Radaris does keeps information safe in accordance with industry standards. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of profile owner's information at any time. 
 
-5\. COOKIES.
+**5\. COOKIES.**
 
 Radaris uses cookies to record session information, for purposes including ensuring that visitors are not repeatedly asked for login information. We do not link the information we store in cookies to any personally identifiable information submitted on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. 
 
-6\. CHILDREN.
+**6\. CHILDREN.**
 
 Radaris prohibits using of its web site for people under the age 15. Radaris makes all efforts possible in preventing collection of personal information about children under age 15. Children between ages 15-18 are allowed to use Radaris only with the consent of their parents. 
 
-DISCLOSURE.
+**DISCLOSURE.**
 
 ALTHOUGH WE MAKE EVERY ATTEMPT POSSIBLE TO KEEP THE INFORMATION AS SECURE AS POSSIBLE, RADARIS IS NOT COMPLETELY IMMUNE TO SECURITY BREACHES AND UNAUTHORIZED ACCESS. WE CANNOT GUARANTEE YOU COMPLETE PROTECTION OF YOUR CONTENT. WE URGE YOU TO BE CONSCIOUS ABOUT THE PERSONAL INFORMATION THAT YOU ARE SHARING. 
 
-CONTACT US:
+**CONTACT US:**
 
-Should you have any questions or concerns regarding this Privacy Policy, please contact us using the “contact us” form on the Radaris.com web site. 
+Should you have any questions or concerns regarding this Privacy Policy, please contact us using the "contact us" form on the Radaris.com web site. 
 
-This Policy was last updated on August 20, 2009.
+_This Policy was last updated on August 20, 2009._
