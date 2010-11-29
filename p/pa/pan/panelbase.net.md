@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426195115id_/http%3A//www.panelbase.net/pb/p/g/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129025215id_/http%3A//www.panelbase.net/pb/p/g/privacy.html) for the most accurate reproduction.*
 
 # panelbase.net :: privacy statement
 
-Last updated: 20th July 2008
+Last updated: 26th June 2010
 
 At panelbase.net we are committed to protecting your privacy. Panelbase.net is operated by [Dipsticks Research Ltd](http://www.dipsticksresearch.com/), a professional market research agency who are also members of the [Market Research Society's Company Partner Scheme](http://www.mrs.org.uk/companypartner/companies.htm). Our primary business is to conduct research studies in order to provide insights for our clients, whilst ensuring that the personal identity of those participating in our surveys is protected. Results from surveys and research discussions are not linked to the individual identity of respondents without the informed consent of those respondents.
 
@@ -10,7 +10,9 @@ By using this site, you consent to the data practices described in this statemen
 
 **Information we gather on this web site**
 
-Personally identifiable information is only collected with your full knowledge and permission. In those circumstances where we retain personal information, it is used only for the administration of your panelbase.net account and by trusted personnel only. Your personal data is stored in secure systems and is never sold or otherwise transferred to any third party.
+Personally identifiable information is only collected with your full knowledge and permission. In those circumstances where we retain personal information, it is used only for the administration of your panelbase.net account and by trusted personnel only. Your personal data is stored in secure systems and is never sold or otherwise transferred to any 3rd party.
+
+We reserve the right to retain data pertaining to; partial registrations, deactivated or unsubscribed member accounts and all associated website and survey activity for the purpose of protecting panelbase.net and to prevent potentially fraudulent activity. All such storage of data will adhere to the Data Protection Act 1998 and all other prevailing UK law at all times.
 
 Our web servers recognise your Internet Service Provider and/or referrer's domain name, IP address and the identity of your Internet browser. This non-personal information helps panelbase.net to determine the total number of visitors to its website and to individual pages within the website. We also engage IP address-based technologies to assist in the prevention of fraudulent activity on the panelbase.net website and within our web-based surveys. These technologies are developed and operated by panelbase.net and its employees **only** and never involve 3rd parties.
 
@@ -36,7 +38,7 @@ panelbase.net conducts research surveys using a variety of different technologie
 
 panelbase.net is committed to protecting the security of its members' personal information. We use a variety of security technologies and procedures to help protect information from unauthorised access, use, or disclosure, both online and offline. For example, we store the personal information you provide on computer servers with limited access that are located in access-controlled facilities. Additionally, when we transmit sensitive personal information over the Internet, such as your e-mail address, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol with Extended Validation (EV SSL).
 
-**Changes to the privacy Statement**
+**Changes to the privacy statement**
 
 We may occasionally update this privacy statement without notice.
 
@@ -50,7 +52,7 @@ Hexham
 Northumberland  
 NE46 3RU    
 **Email:** [support@panelbase.net](mailto:support@panelbase.net?subject=Privacy%20statement%20enquiry)  
-**Tel:** 0800 1958492 Close window
+**Tel:** 0800 195 8492 Close window
 
-© 2005 - 2009 panelbase.net. All rights reserved.  
+© 2005 - 2010 panelbase _.net_. All rights reserved.  
  _panelbase.net_ is a division of [Dipsticks Research Ltd](http://www.dipsticksresearch.com/).
