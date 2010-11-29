@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeobit.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423061548id_/http%3A//zeobit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeobit.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129171745id_/http%3A//zeobit.com/privacy.html) for the most accurate reproduction.*
 
 # ZeoBIT
 
@@ -8,7 +8,7 @@ We, ZeoBIT LLC (the "Company"), are aware about privacy issues that occur during
 
   * using the Company’s products and services,
   * visiting the [http://www.zeobit.com](http://www.zeobit.com/),
-  * visiting the [http://www.mackeeper.com](http://www.mackeeper.com/) or [http://mackeeper.ZeoBIT.com](http://mackeeper.zeobit.com/) website,
+  * visiting the [http://MacKeeper.com](http://mackeeper.com/), [http://MacKeeper.ZeoBIT.com](http://mackeeper.zeobit.com/), [http://PCKeeper.com](http://pckeeper.com/) or [http://PCKeeper.ZeoBIT.com](http://pckeeper.zeobit.com/) websites,
   * visiting any other linked pages or application services offered by the Company.
 
 
