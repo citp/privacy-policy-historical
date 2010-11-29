@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vfs.com privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526172342id_/http%3A//www.vfs.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vfs.com privacy policy that was archived on 2010-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129033833id_/http%3A//www.vfs.edu/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Notice - Vancouver Film School</title>
@@ -9,9 +9,98 @@
 	<link rel="shortcut icon" href="http://media.vfs.com/assets/images/global/favicon.ico">
 	
         
-	<link type="text/css" media="all" rel="stylesheet" href="/styles/master_20100504.css"> 
+	<link type="text/css" media="all" rel="stylesheet" href="/styles/master_20101118.css">
     
-								   
+								    
+    
+    
+    
+    
+     <style type="text/css">
+                  
+				  
+                  table.start_date_table {
+                      margin-left:5px;
+                      margin-bottom:10px;
+                  }
+                  table.start_date_table td.right_column {
+                      padding-left:3px;
+                      font-weight:bold;
+                  }
+					.helptitle {
+					float:left;
+					}
+					
+					.helpbubble {
+					background-color:white;
+					border:1px solid gray;
+					display:none;
+					font-size:8px;
+					height:auto;
+					width:230px;
+					padding: 0;
+					margin: 10px;
+					z-index:2000;
+					position:absolute;
+					left:5px;
+					top:5px;
+					}
+					
+					.helptop {
+					background-color:#FFFFCC;
+					display:block;
+					/* font-size:90%; */
+					font-weight: bold;
+					margin: 0 0 10px 0;
+					padding:5px;
+					height:20px;
+					}
+					
+					.helpbubble p {
+					margin:10px;
+					}
+					
+					.helpbubble .hint-pointer {
+					background:url("../images/pointer-left.gif") no-repeat scroll left top transparent;
+					height:19px;
+					left:-10px;
+					position:absolute;
+					top:1em;
+					width:10px;
+					z-index:100;
+					}
+					a.tipgrey, a.tipgrey:visited, a.tipgrey:active, a.tipgrey:hover {
+					background:url("../images/help_icon_grey_sm.gif") no-repeat scroll left top transparent;
+					height:33px;
+					margin:-5px 0 0 3px;
+					position:absolute;
+					width:33px;
+					}
+					a.tipgreysm span, a.tipwhite span, a.tipgrey span, a.errortip span h3{
+					display:none;
+					}
+
+
+                  
+                  </style>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
    <style type="text/css">
 	
 	#language_button a {
@@ -34,10 +123,105 @@
 	}
 	
 	</style>
-				
+			<script type="text/javascript">
+	
+//Help
+	function getposOffset(overlay, offsettype){
+		var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
+		var parentEl=overlay.offsetParent;
+		while (parentEl!=null) {
+			totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+			parentEl=parentEl.offsetParent;
+		}
+		return totaloffset;
+	}
+	
+	function overlay(curobj, subobjstr, opt_position){
+		if (document.getElementById){
+			var subobj=document.getElementById(subobjstr);
+			subobj.style.display=(subobj.style.display!="block")? "block" : "none";
+			var xpos= 40 + getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0);
+			var ypos= -55 + getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0);
+			subobj.style.left=xpos+"px";
+			subobj.style.top=ypos+"px";
+			subobj.style.zIndex=20000;
+			// Wilson: Shim doesn't work in Opera, will overlay over the help box, so I excluded it.
+			if(navigator.userAgent.indexOf('Opera') == -1){
+				var shimobj=document.getElementById('selectBoxShim')
+				if(subobj.style.display=="none"){
+					shimobj.style.left="1px";
+					shimobj.style.top="1px";
+					shimobj.style.display="none";
+				} else {
+				shimobj.style.left=xpos+"px";
+				shimobj.style.top=ypos+"px";
+				shimobj.style.display="block";
+				}
+				shimobj.style.width=subobj.offsetWidth;
+				shimobj.style.height=subobj.offsetHeight;
+			}
+			return false;
+		} else {
+			return true;
+		}
+	}
+	
+	function overlayclose(subobj){
+		var subobj=document.getElementById(subobj);
+		subobj.style.display="none";
+		// Shim doesn't work in Opera, will overlay over the help box, so I excluded it.
+		if(navigator.userAgent.indexOf('Opera') == -1){
+			var shimobj=document.getElementById('selectBoxShim');
+			shimobj.style.left="1px";
+			shimobj.style.top="1px";
+			shimobj.style.display="none";
+			shimobj.style.width=subobj.offsetWidth;
+			shimobj.style.height=subobj.offsetHeight;
+		}
+	}
+//end help
+
+</script>
 <!-- JS -->
-<script type="text/javascript" src="http://media.vfs.com/assets/js/jquery/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
      <script type="text/javascript" src="/js/jquery.cookie.20081014.js"></script>
+
+
+
+<script src="../microsites/googleadwords/js/css_browser_selector.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://media.vfs.com/assets/js/swfobject/swfobject.js"></script>
+<script type="text/javascript" src="../microsites/googleadwords/js/jquery.selectboxes.pack.js"></script>
+<script type="text/javascript">
+
+$(document).ready(
+	function(){
+		// toggle province / state dropdowns by country
+		$("select#country").change(
+			function(){
+				var aSelectedCountry = $("select#country").selectedValues();
+				$(".state_options").css('display','none');
+				switch(aSelectedCountry[0]){
+					case 'Canada':
+						$("#province").css('display','block');						
+						break;
+					case 'India':
+						$("#state_india").css('display','block');												
+						break;
+					case 'United States':					
+						$("#state").css('display','block');											
+						break;
+					default:
+						$("#province_state").css('display','block');											
+						break;
+				}
+			}
+		);
+		
+	}
+ );
+
+</script>
+
 	<script type="text/javascript">
 	
 	// JS cookie management
@@ -72,9 +256,36 @@
 	
 	</script>
 	<script language="javascript" type="text/javascript" src="http://media.vfs.com/assets/js/ufo-3.2.min.20071217.js"></script>
+
+
+
 </head>
 			
 	<body>
+    
+    
+    
+    
+    
+    
+            <div class="entry quickfacts">
+            <div id="helpWaitlist" class="helpbubble" style="width: 230px;">
+			<div class="helptop" align="right"><span class="hint-pointer">&nbsp;</span><span class="helptitle"><strong>Waitlist: Start Dates</strong></span><span class="helpclose"><a href="#" onclick="overlayclose('helpWaitlist'); return false">Close</a></span></div>
+            <p>
+Many VFS programs become fully booked far in advance, but occasionally a student may face personal or visa issues that prevent them from beginning their studies and a seat opens up as a start date approaches. For this reason we keep waitlists and will give priority preference to waitlisted applicants should a seat become available.
+<br><br>
+To inquire about an available seat or how to add your name to a start date waitlist, please <a href="/startnow.php">Speak to an Advisor</a>
+</p>
+</div> 
+  </div>
+  
+  
+  
+  
+  
+  
+
+    
 	<div id="wrap" style="position:absolute;top:0;left:50%;margin-left:-379px;">
 		<div id="content" style="margin-left:0;margin-top:5px;padding:0;">
         
@@ -138,7 +349,7 @@
 						<li class="thisisvfs"><a href="/thisisvfs.php" name="submenu" class="thisisvfs nav_global"><span>About VFS</span></a>
 							<ul>
                            		<li><a href="/thisisvfs.php?section=advantage">Our Educational Advantage</a></li>
-	                            <li><a href="/thisisvfs.php?section=department_heads">Department Heads</a></li>
+	                            <li><a href="/thisisvfs.php?section=department_heads">Program Leaders</a></li>
 								<li><a href="/thisisvfs.php?section=partnerships">Partnerships</a></li>
 								<li><a href="/thisisvfs.php?section=vfs_on_location">Meet Us Near You</a></li>
 								<li><a href="/thisisvfs.php?section=careers_at_vfs">Careers @ VFS</a></li>
@@ -196,13 +407,12 @@
       							<script type="text/javascript">
 									
                                     UFO.create({id: 'bannercomponentflashid', movie:'/images/banners/bannerComponent/banner-component_2008-10-01.swf', width: '834', height: '133', majorversion: '9', build: '0', xi:"true",ximovie:"http://media.vfs.com/assets/js/ufo.swf",allowscriptaccess:"true",setcontainercss:"true",wmode:"transparent",flashvars:"countries="}, 'banner-component');
-                                    // ]]>
                                     
                                 </script>                                            
     						</div>
                             
 <div id="banner-tabs" style="display:none;top:248px;_top:260px;">
-      <ol>
+<ol>
                                         <li id="banner-tab-1" class="banner-tab"><a href="#" class="unselected"><span>1</span></a></li>
                                         <li id="banner-tab-2" class="banner-tab"><a href="#" class="unselected"><span>2</span></a></li>
                                         <li id="banner-tab-3" class="banner-tab"><a href="#" class="unselected"><span>3</span></a></li>
@@ -339,31 +549,34 @@
                                         <li><a href="/showcase.php?id=11">Sound Design for Visual Media</a></li>
                                         <li><a href="/showcase.php?id=6">Writing for Film &amp; Television</a></li>
                                         <li><a href="/showcase.php?id=1">Foundation Visual Art &amp; Design</a></li></ol>
-                                        <div class="quick_title"><a href="/lifeatvfs.php" style="color:#404040">Life at VFS</a></div>
-                                       <ol><li><a href="/lifeatvfs.php?section=vancouver">Vancouver</a></li>
-                                       <li><a href="/lifeatvfs.php?section=campuses">Campuses</a></li>
-                                       <li><a href="/lifeatvfs.php?section=housing">Housing</a></li>
-                                       <li><a href="/lifeatvfs.php?section=find_a_roommate">Find a Roommate</a></li>
-                                       <li>&nbsp;</li></ol></div>
+                                        <div class="quick_title"><a href="/community" style="color:#404040">Community</a></div>
+                                        <div class="quick_title"><a href="/blog/" style="color:#404040">Blog</a></div>
+                                        <ol><li><a href="/blog/">Latest Posts</a></li>
+                                        <li><a href="/blog/infocus/">In Focus Magazine</a></li>
+                                        <li>&nbsp;</li></ol>
+                                        </div>
                                               
                                         <!--Fourth Column-->      
-                                       <div class="quicklinksright"><div class="quick_title"><a href="/thisisvfs.php" style="color:#404040">About VFS</a></div>
+                                       <div class="quicklinksright">
+                                      <div class="quick_title"><a href="/thisisvfs.php" style="color:#404040">About VFS</a></div>
                                        <ol><li><a href="/thisisvfs.php?section=advantage">Our Educational Advantage</a></li>
-                                       <li><a href="/thisisvfs.php?section=department_heads">Department Heads</a></li>
+                                       <li><a href="/thisisvfs.php?section=department_heads">Program Leaders</a></li>
                                        <li><a href="/thisisvfs.php?section=partnerships">Partnerships</a></li>
                                        <li><a href="/thisisvfs.php?section=careers_at_vfs">Careers @ VFS</a></li>
                                        <li><a href="/thisisvfs.php?section=festivals_awards">Festivals &amp; Awards</a></li>
                                        <li><a href="/thisisvfs.php?section=testimonials">Testimonials</a></li>
                                        <li><a href="/thisisvfs.php?section=press_room">Press Room</a></li>
                                        <li><a href="/thisisvfs.php?section=faq">FAQ</a></li>
-                                       <li><a href="/contact_us.php">Contact Us</a></li></ol>
-                                        <div class="quick_title"><a href="/alumni.php" style="color:#404040">Alumni</a></div>
-                                        <ol><li><a href="/alumni.php?section=webmail" target="_blank">Webmail</a></li>
+                                       <li><a href="/contact_us.php">Contact Us</a></li>
+                                       </ol>
+                                         <div class="quick_title"><a href="/lifeatvfs.php" style="color:#404040">Life at VFS</a></div>
+                                       <ol><li><a href="/lifeatvfs.php?section=vancouver">Vancouver</a></li>
+                                       <li><a href="/lifeatvfs.php?section=campuses">Campuses</a></li>
+                                       <li><a href="/lifeatvfs.php?section=housing">Housing</a></li>
+                                       <li><a href="/lifeatvfs.php?section=find_a_roommate">Find a Roommate</a></li><li><a href="/alumni.php?section=webmail" target="_blank">Webmail</a></li>
                                         <li><a href="/alumni.php?section=directory">Alumni Network Directory</a></li>
                                         <li><a href="/alumni.php?section=job_board">Alumni Job Board</a></li></ol>
-                                       <div class="quick_title"><a href="/blog/" style="color:#404040">Blog</a></div>
-                                        <ol><li><a href="/blog/">Latest Posts</a></li>
-                                        <li><a href="/blog/infocus/">In Focus Magazine</a></li></ol></div>
+                                       </div>
                                        <div style="clear:both"></div>
 									   <div id="footer-bg"></div>
 									   </div>
