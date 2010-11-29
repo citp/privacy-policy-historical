@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopfort1.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114025553id_/http%3A//shopfort1.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopfort1.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129111019id_/http%3A//shopfort1.com/privacy.cfm) for the most accurate reproduction.*
 
 # ShopforT1.com Privacy Policy
 
