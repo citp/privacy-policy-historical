@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618125905id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129213057id_/http%3A//signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -113,7 +113,9 @@ We do not publicly promote or link the web addresses of the sign ups on our site
 Technical Details:
 
 **Cookies**  
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's servers and stored on your computer's hard drive. Cookies are required for the SignUpGenius service. We use cookies to track and record user session information. We do not use permanent cookies, but will require users to login periodically to our site in order to help protect your account information.
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's servers and stored on your computer's hard drive. Cookies are required for the SignUpGenius service. We use cookies to track and record user session information. We do not use permanent cookies, but will require users to login periodically to our site in order to help protect your account information.  
+
+You should also be aware that whilst the above paragraph describes our use of cookies, some advertisers on this site may also collect data using cookies. The use of cookies and/or web beacons to collect data is used in the ad serving process. We do not have access to this data. Google uses the DART cookie to serve ads to our users based on their previous visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Google Adsense**  
 For exact details on Google Adsense and their privacy policy, see the [Google Privacy Center](http://www.google.com/privacy.html).
