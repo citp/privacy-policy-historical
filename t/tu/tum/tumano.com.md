@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumano.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530224845id_/http%3A//tumano.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumano.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129023744id_/http%3A//tumano.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
