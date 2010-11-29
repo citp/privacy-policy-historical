@@ -1,0 +1,693 @@
+<!--The following is the downloaded HTML source of the totalhealthplanner.com privacy policy that was archived on 2010-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129182847id_/http%3A//totalhealthplanner.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+   <title>Privacy Policy </title>
+    <meta name="keywords" content="Privacy Policy">
+    <meta name="description" content="Privacy Policy ">
+ 
+
+<script language="javascript" type="text/javascript" src="/images/channel1.js"></script>
+<script language="javascript" type="text/javascript" src="/images/channel2.js"></script>
+<script language="javascript" type="text/javascript" src="/images/channel3.js"></script>
+
+<script language="javascript" type="text/javascript">
+ 
+
+ 
+var pt; //global for promo timeout
+var cpNum; //global for current promo number
+var state; //global for current state (play or pause)
+
+function cs_rotatePromo(x) {
+  clearTimeout(pt);
+  var promo = "cpPromo"+x;
+  if (!document.getElementById("channelImg")) { return; }
+  document.getElementById("channelImg").innerHTML = eval(promo+".imageCode");
+  document.getElementById("channelTitle").innerHTML = "<h2>"+eval(promo+".prTitle")+"</h2>";
+  document.getElementById("channelBlurbs").innerHTML = "<p>"+eval(promo+".prBlurb")+"</p>";
+  document.getElementById("numberNavPad").innerHTML = eval(promo+".prNav");
+ 
+  var next = x+1;
+  if (next > 4) {next = 1};
+  pt=setTimeout("cs_rotatePromo("+next+");",6000);
+  cpNum = x;
+  state = "play";
+  document.getElementById("controlBtn").innerHTML = '<img src="/images/pause.gif" alt="pause" onclick="cs_pausePromo(cpNum)" />';
+}
+
+function cs_initRotation() {
+    if (4 == 1) { return; }  // don't rotate if only one promo
+	if (state != "pause") { 
+        pt = setTimeout("cs_rotatePromo(2);", 6000); 
+	} else { 
+	//alert("paused by user"); 
+	}
+}
+	
+
+
+function onLoadHandler() { 
+	//initSideNav();
+	iv_setupLeftNav();
+    drawVideo();
+	cs_focusSearch(document.ivSearchForm);
+	cs_toggleUnifiedSearch('THP');
+	cs_initRotation();
+}
+
+function cs_pausePromo(x) {
+  clearTimeout(pt);
+  cpNum = x;
+  state = "pause";
+  document.getElementById("controlBtn").innerHTML = '<img src="/images/play.gif" alt="play" onclick="cs_playPromo()" />';
+}
+
+function cs_playPromo() {
+  var next = cpNum+1;
+  if (next > 4) {next = 1};
+  cs_rotatePromo(next);
+  state = "play";
+  document.getElementById("controlBtn").innerHTML = '<img src="/images/pause.gif" alt="pause" onclick="cs_pausePromo(cpNum)" />';
+}
+
+// onclick handler for anchor tracking
+function CS_onClickHandler(e) {
+	var trackValue = "";
+	var tagname = "";
+	var className = "";
+	var divID = "";
+	
+	if (window.event) {
+		//alert("IE: " + window.event.srcElement.tagName + ", " + window.event.srcElement.name);
+		tagName = window.event.srcElement.tagName;
+		divID = window.event.srcElement.id;
+		if (tagName == "A" || tagName == "INPUT") { 
+			trackValue = window.event.srcElement.name; 
+		} else if (tagName == "IMG") {
+			trackValue = window.event.srcElement.parentNode.name;
+		}
+	} else {
+		tagName = e.target.tagName;
+		className = e.target.className;
+		divID = e.target.id;
+		if (tagName == "A" || tagName == "INPUT") {
+			trackValue = e.target.name;
+		} else if (tagName == "IMG") {
+			trackValue = e.target.parentNode.name;
+		}		
+	}
+	
+	// Check to toggle and/or track
+	//alert("trackValue=" + trackValue);
+	if (trackValue != "" && trackValue != undefined) {
+		// Now check to see if the anchor has ivil tracking info. in the name param.
+		if (trackValue.split("|").length >= 3) {
+			//alert("before iv_doTracking: " + trackValue);
+			iv_doTracking(trackValue,'','s_prop30');
+		}
+	}
+}
+
+// cs_drawLNavImage - Outputs optional left nav image if present.
+cs_drawLNavImage = function() {
+    var leftNavImage = "";
+    if (leftNavImage == "") { return; }
+    document.write("<div class=\"pinkHeadlines\"><img src=\"" + leftNavImage + "\" alt=\"\" /></div>");
+}
+
+// Event handlers
+addEvent(window, "load", onLoadHandler);
+ addEvent(document, "load", CS_onClickHandler); //]]>
+</script>
+<script type="text/javascript" language="javascript" src="/images/iv_header.js"></script>
+
+  
+
+ <style type="text/css" media="screen,print">
+@import "/images/channel1.css";
+@import "/images/channel2.css";
+@import "/images/channel3.css";
+@import "/images/channel4.css";
+
+#channelTop{ height:123px; }
+ 
+
+.STYLE1 {font-weight: bold}
+ </style>
+
+ 
+    <script language="javascript" type="text/javascript">
+    	var testplat=navigator.platform
+    	if (testplat=='MacPPC') {
+		document.write('<link rel=stylesheet type="text/css" href="/images/channel5.css">');
+		}
+    </script>
+	<script language="JavaScript">   
+function closeErrors() {   
+    return  true;   
+    }   
+    window.onerror=closeErrors;   
+</script>
+
+	
+	  
+</head>
+
+<body>
+
+<div id="preload"><img src="/images/Canes_xmasswtsp59_220.jpg" alt=""><img src="/images/WinePoachedPeartoddies220.jpg" alt=""><img src="/images/boda_carafe_220.jpg" alt=""></div>  
+<div id="container2">
+<div id="containerPad">
+	<!-- Begin: Header -->
+		<script language="javascript" type="text/javascript">
+		//<![CDATA[
+		function iv_getLogin() {
+			// get member name
+			var memberName = iv_getCookie('iv_id');
+			// var memberName = iv_getCookie('iv_pid');
+			if (!memberName) { return ""; }
+			var loginid = memberName.toUpperCase();
+			return loginid;
+		}
+		
+		function iv_getLoginTkt() {
+			// iv_tkt cookie necessary to be considered logged in
+			var logintkt = iv_getCookie('iv_tkt');
+			if (!logintkt) { return ""; }
+			return logintkt;
+		}
+				
+		var loginTxt;
+		var memberTxt;
+		var topLoginFormTxt;
+		var login = false;
+		
+		if (iv_getLoginTkt() != undefined && iv_getLoginTkt() != "" && iv_getLoginTkt() != 'NA'){
+			loginTxt = '';
+			topLoginFormTxt = '';
+			if (iv_getLogin() != undefined && iv_getLogin() != "") {
+			  memberTxt = '<div class="member">Welcome, <a href="/" >' + unescape(iv_getLogin()) + '</a>! &nbsp; <a href="/">(Log out)</a></div>';
+			  	  
+			} else {
+			  memberTxt = '<div class="member">Welcome! <a href="/">Your Profile</a> or <a href="/">(Log out)</a></div>';
+			  
+			}
+			login = true;
+			
+		} else {
+			loginTxt = '<div class="login">LOG IN:</div>';
+			memberTxt = '<div class="member">Not a member? <a name="fd|cp|jin|go" href="/member/users.php?maa=Register">JOIN NOW!</a></div>';
+			topLoginFormTxt = '<div id="topLoginForm"><form onsubmit="return iv_submitLogin(document.loginForm);" name="loginForm" id="loginForm" action="/member/users.php" method="post"><div class="loginFormText"><input type="hidden" name="txtRequiredInputs" value="login password"><input type="text" name="login" onclick="CS_clearField(this,\'Email\');" onblur="CS_fillField(this, \'Email\');" value="email" size="18" onfocus="CS_clearField(this,\'Email\');" /><input type="password" name="password" onclick="CS_clearField(this,\'Password\');" onblur="CS_fillField(this, \'Password\');" value="Password" size="18" onfocus="CS_clearField(this,\'Password\');" /></div><input name="fd|cp|lgin|go" type="image" src="/images/go_btn.gif" alt="go" class="loginGo" /></div></form>';
+		}
+		//]]>
+		var welcomeTxt = loginTxt + memberTxt;
+		var loginForm = topLoginFormTxt;
+		</script>
+		<div class="headerWrap">
+			<div class="leftThis">
+				<div class="siteLogo"><a href="/"><img src="/images/logo.gif"></a></div>
+				
+	 	
+	 <div class="promoSpace"></div>
+	<div id="searchDiv2">
+		<form action="/search.php" name="ivSearchForm" onsubmit="return iv_localSubmit(this);" method="get" id="searchform_main">
+		 
+			
+			<div id="searchbox_main"><div class="ivSearchTabs"><br></div> <div class="searchTextBox"><div class="searchTextBoxPad"><input type="text" name="keyword" id="websearchtext_main"></div></div></div> <div class="promoSpace1"></div>
+		   	<div class="searchBoxBtn">
+			<input type="image" src="/images/search_btn.gif" alt="Search"> 
+			</div> 
+        </form>
+	</div>
+
+				<div id="topRight">
+					<div id="topJoinNow"><script language="javascript" type="text/javascript">document.write(welcomeTxt);</script>undefined</div>
+					<script language="javascript" type="text/javascript">document.write(loginForm);</script>undefined
+				</div>
+								
+				<div id="topNaviVBg">
+				 <div class="main-menu">
+        <ul>
+          <li><a href="/" class="STYLE1">Home</a></li>
+           
+<li><a href="/Beauty-Style/index.html" class="STYLE1">Beauty &amp; Style</a> </li>
+ 
+<li><a href="/Diet/index.html" class="STYLE1">Diet</a> </li>
+ 
+<li><a href="/Entertainment/index.html" class="STYLE1">Entertainment</a> </li>
+ 
+<li><a href="/Food/index.html" class="STYLE1">Food</a> </li>
+ 
+<li><a href="/Go-Green/index.html" class="STYLE1">Go Green</a> </li>
+ 
+<li><a href="/Health/index.html" class="STYLE1">Health</a> </li>
+ 
+<li><a href="/Home-Garden/index.html" class="STYLE1">Home &amp; Garden</a> </li>
+ 
+<li><a href="/Pregnancy-Parenting/index.html" class="STYLE1">Pregnancy &amp; Parenting</a> </li>
+ 
+<li><a href="/Weddings/index.html" class="STYLE1">Weddings</a> </li>
+
+          
+        </ul>
+     
+    </div>
+ 
+					<div class="bottomNaviV">
+                	<ul>
+						   
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Entertainment/Celebrity-News/index.html">Celebrity News</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Entertainment/Movies/index.html">Movies</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Entertainment/Music/index.html">Music</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Entertainment/Television/index.html">Television</a> </li>     
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Beauty-Style/Celebrity-Style/index.html">Celebrity Style</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Beauty-Style/Fashion/index.html">Fashion</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Beauty-Style/Hair/index.html">Hair</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Beauty-Style/Makeup/index.html">Makeup</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Beauty-Style/Skin-Body/index.html">Skin &amp; Body</a> </li> 
+			   
+			      
+ 
+
+        		<li>•</li><li><a href="/Beauty-Style/Trends/index.html">Trends</a> </li>   
+					 
+					</ul>
+	  			</div>
+		 
+			</div>  	
+		</div>
+     </div>
+		<div class="clearboth"></div>		
+	 
+		<div id="adTop">
+					 
+            <div id="advertContainer1">
+              <div id="advert1">
+        <script src="/search/ad_js.php?aid=11" language="javascript"></script>
+             
+              </div>
+            </div>
+					</div>	            
+		 
+ <div id="contentBox">
+ 
+	
+
+
+ <div id="leftcol">
+	<div class="newsletter">
+	
+		<form name="nl" action="/xNewsletter.php" method="get">
+	 <img src="/images/Newsletters.gif">
+		<input type="text" id="newsinputTop" name="mail" value="&nbsp;your email here&nbsp;" onclick="document.nl.email.value=&quot;&quot;;"> 
+			<input type="hidden" name="act" value="subscribe">
+		 <input type="image" id="newslettergo" src="/images/go_btn.gif" alt="GO!">
+		</form>
+	</div>
+
+    <div id="leftnav" class="leftcolitem">
+
+        <ul id="lnav">
+<li class="first"><img src="/images/lnav_arrow.gif" class="lnavarrow"><a href="/" class="lnavlink first">Home</a>
+</li>
+   
+			   
+			      
+ 
+
+        		 <li><img src="/images/lnav_arrow.gif" class="lnavarrow" alt="Show/Hide Subnav"><a href="/Beauty-Style/Celebrity-Style/index.html" class="lnavlink">Celebrity Style</a> </li> 
+			   
+			      
+ 
+
+        		 <li><img src="/images/lnav_arrow.gif" class="lnavarrow" alt="Show/Hide Subnav"><a href="/Beauty-Style/Fashion/index.html" class="lnavlink">Fashion</a> </li> 
+			   
+			      
+ 
+
+        		 <li><img src="/images/lnav_arrow.gif" class="lnavarrow" alt="Show/Hide Subnav"><a href="/Beauty-Style/Hair/index.html" class="lnavlink">Hair</a> </li> 
+			   
+			      
+ 
+
+        		 <li><img src="/images/lnav_arrow.gif" class="lnavarrow" alt="Show/Hide Subnav"><a href="/Beauty-Style/Makeup/index.html" class="lnavlink">Makeup</a> </li> 
+			   
+			      
+ 
+
+        		 <li><img src="/images/lnav_arrow.gif" class="lnavarrow" alt="Show/Hide Subnav"><a href="/Beauty-Style/Skin-Body/index.html" class="lnavlink">Skin &amp; Body</a> </li> 
+			   
+			      
+ 
+
+        		 <li><img src="/images/lnav_arrow.gif" class="lnavarrow" alt="Show/Hide Subnav"><a href="/Beauty-Style/Trends/index.html" class="lnavlink">Trends</a> </li> 
+ 
+ 
+ 
+ 
+ </ul>
+	
+
+<div class="leftcolitem">
+  <div class="leftNavBox">
+      	<div class="leftNavBoxPad">
+      			<div class="navSectTitle">Hot Stuff</div>
+    <ul>
+ 
+ <li><img src="/images/lnav_arrow_b.gif" class="lnavarrow"><a class="leftcollink" href="/Beauty-Style/Trends/140/index.html">An Interview with Lloyd BostonWhat are some must-haves for spring?</a> </li>
+<li><img src="/images/lnav_arrow_b.gif" class="lnavarrow"><a class="leftcollink" href="/Beauty-Style/Trends/141/index.html">"In" Outerwear: The Trench for Spring</a> </li>
+<li><img src="/images/lnav_arrow_b.gif" class="lnavarrow"><a class="leftcollink" href="/Beauty-Style/Trends/142/index.html">Arm Aid: Bangles for Spring</a> </li>
+<li><img src="/images/lnav_arrow_b.gif" class="lnavarrow"><a class="leftcollink" href="/Beauty-Style/Celebrity-Style/151/index.html">Tori Spelling loves leggings, bold trends and Dean</a> </li>
+<li><img src="/images/lnav_arrow_b.gif" class="lnavarrow"><a class="leftcollink" href="/Beauty-Style/Trends/143/index.html">Warming Trend: Long Gloves</a> </li>
+</ul>
+      	</div>
+     </div>
+</div>
+
+<div id="newsletter" class="leftcolitem">
+	<div class="leftNavBox">
+     	<div class="leftNavBoxPad news">
+			<div class="navSectTitle">Free Newsletters:</div>
+			<form name="nl2" action="/xNewsletter.php" method="get">
+			<input type="hidden" name="simple" value="true">
+			<fieldset>
+<input type="checkbox" id="newsletter_1" name="op1" value="227"> <label for="newsletter_1">Pregnancy &amp; Babies</label>
+</fieldset>
+		<fieldset>
+<input type="checkbox" id="newsletter_1" name="op1" value="227"> <label for="newsletter_1">Toddlers &amp; Kids</label>
+</fieldset>
+<fieldset>
+<input type="checkbox" id="newsletter_1" name="op1" value="227"> <label for="newsletter_1">Hot products for you &amp; your kids</label>
+</fieldset>
+<fieldset>
+<input type="checkbox" id="newsletter_2" name="op2" value="11156"> <label for="newsletter_2">What's for Dinner</label>
+</fieldset>
+ <input name="act" value="subscribe" type="hidden">
+<fieldset>
+<input type="text" id="newsinput" name="mail" value="&nbsp;your email here&nbsp;" onclick="document.nl2.email.value=&quot;&quot;;"> <input type="image" id="newslettergo" src="/images/go_btn.gif" alt="GO!">
+</fieldset>
+</form>
+ 		</div><div style="text-align:left;font-family: Georgia, Times, serif;font-size: 10px;color:#cfcfcf;text-transform:uppercase">advertisement</div>
+	</div><script src="/search/ad_js.php?aid=12" language="javascript"></script>
+
+</div>
+ </div> 
+</div> 
+ 
+ <div id="mainContent">
+ 
+
+     		<div id="channelLeft">
+
+				 
+ 
+ 
+ 
+				<div id="new_on_this_channel">
+                   
+ 
+
+<!-- Row: 2 -->
+<div class="row"> <img src="/images/Privacy.gif" alt="Privacy Policy " class="header"> 
+  <strong>Introduction:</strong> <p>At THP, Inc. we realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we collect and receive from you while you are within the THP Network, as well as ways in which we process and, sometimes, share such information and how you can correct or change such information. The THP Network is defined as the network of websites and services that are owned and operated by THP, Inc. and its subsidiaries. Each site included within the THP Network is governed by this Privacy Policy unless otherwise noted on such site.</p><p>
+
+PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE THP NETWORK CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.SUCH PRIVACY POLICY AND TERMS OF SERVICE.</p><p>
+
+
+How THP Collects Information
+Personal Data you provide 
+Information THP collects
+Our Use of Your Information 
+Disclosure of Personally Identifiable Information to Third Parties 
+THP Opt-in/Opt-out Policy 
+Third Party Advertising and Links to other Sites. 
+Access and Correction 
+Guidelines regarding children 
+Public forums/chat rooms/message boards/bulletin boards/social networking 
+How we protect and secure your information 
+Applicable Law 
+Changes to this Privacy Policy 
+Contact Information</p><p>
+
+1. How THP Collects Information</p><p>
+A. Personal Data you provide to THP</p><p>
+
+Personally Identifiable Information is any information that can be used to identify a specific individual such as your name, email address, home address, and phone number. THP asks you to provide Personally Identifiable Information in various places throughout the THP Network. Some of these areas where the collection of such information takes place are listed below:</p><p>
+
+Member Registration</p><p>
+In order to use many of THP's features, tools and services, we ask you to register to become a member. During this member registration process, we will ask you for Personally Identifiable Information. In addition, you may choose to provide THP with additional information including marital status, household income, education and employment status. 
+
+Email Newsletters</p><p>
+THP offers electronic newsletters on a variety of topics. If you subscribe to any of these newsletters, you will be required to provide a valid email address as well as any other information that is relevant to the delivery of the newsletter (e.g., certain Astrology.com newsletters require you to provide your birthday). </p><p>
+
+Surveys and Polls</p><p>
+THP offers online surveys and questionnaires that ask users for opinions on various issues and/or other information. Occasionally, we may request demographic information (like zip code, age or gender) when you answer a survey. Such surveys are completely voluntary.</p><p>
+
+Sweepstakes and Contests</p><p>
+We regularly operate sweepstakes, contests and giveaways throughout the THP Network. We typically ask you for your email address and/or phone number (to notify you if you've won, or not). We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice. </p><p>
+
+ECommerce Transactions</p><p>
+When you engage in an ecommerce transaction on the THP Network you may be asked to provide credit card information and other Personally Identifiable Information in order to complete the transaction. </p><p>
+
+Health Information</p><p>
+In order to use some of the tools and services on the THP Total Health pages you may be asked to provide information about your health. When you provide this information, in certain circumstances THP will associate it with Personally Identifiable Information.</p><p>
+
+
+
+B. Information gathered by THP and its third party service providers</p><p>
+
+When you visit the THP Network and interact with the services and tools that reside there, THP and third parties with whom THP has contracted to provide services to THP may collect information on your actions. This type of information is generally collected from two sources. One is from the server log files and the other is from cookies. </p><p>
+
+
+IP Address</p><p>
+Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our Terms of Service. </p><p>
+
+
+
+Cookies</p><p>
+Our site uses a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a site's computer stores on your computer. The THP Network can then read the cookies whenever you visit the THP websites. We use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, to track the pages you've visited and to make sure you don't see the same ads repeatedly. These cookies allow us to use the information we collect to customize your THP experience so that your visit to THP is as relevant and as valuable to you as possible. </p><p>
+
+You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those THP services that require registration in order to participate or will have to sign in each time you visit the THP Network. </p><p>
+
+Our advertising is currently served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensure that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they know nothing about who you are. THP does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to the THP Network and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,
+  </p> 
+ 
+   
+    <br clear="all">
+</div><!-- End: row -->
+<br clear="all">
+ </div> 
+			 
+<div id="tout_cp_shop_new">
+<form method="get" action="/search.php" name="searchform">
+<input type="hidden" name="o" value="dcm,da,iv,toutsbx,shop,main,all">
+	<div id="shopSearch">		
+	<img src="/images/shop_for.gif" border="0"><input type="text" name="keyword" value="" id="txtBox">
+	<input type="image" src="/images/go.gif" border="0" alt="go" id="shopGo">
+	</div></form>
+	<div class="clearboth"></div>
+	<div id="imgRows">
+		   <div id="imgRow">
+			 <a href="/Beauty-Style/Fashion/171/index.html"><img src="/upload/images/071227/2202461V27.jpg" border="0" width="65" height="65" alt="All That Glitters: Buying Gold"></a><br><a href="/Beauty-Style/Fashion/171/index.html">All That Glitters: Buyin</a><br>
+		</div>
+<div id="imgRow">
+			 <a href="/Beauty-Style/Fashion/170/index.html"><img src="/upload/better_you_68.jpg" border="0" width="65" height="65" alt="Determining Your Shoe Size"></a><br><a href="/Beauty-Style/Fashion/170/index.html">Determining Your Shoe Si</a><br>
+		</div>
+<div id="imgRow">
+			 <a href="/Beauty-Style/Fashion/169/index.html"><img src="/upload/00036834_132308_68.jpg" border="0" width="65" height="65" alt="Hints and Tips: Sizing Shoes"></a><br><a href="/Beauty-Style/Fashion/169/index.html">Hints and Tips: Sizing S</a><br>
+		</div>
+<div id="imgRow">
+			 <a href="/Beauty-Style/Fashion/168/index.html"><img src="/upload/images/071227/215Z61b10.jpg" border="0" width="65" height="65" alt="American Love Story: You and Your Jeans"></a><br><a href="/Beauty-Style/Fashion/168/index.html">American Love Story: You</a><br>
+		</div>
+<div id="imgRow">
+			 <a href="/Beauty-Style/Fashion/167/index.html"><img src="/upload/images/071227/215Q4112Q.jpg" border="0" width="65" height="65" alt="Trauma-Free Swimsuit Shopping"></a><br><a href="/Beauty-Style/Fashion/167/index.html">Trauma-Free Swimsuit Sho</a><br>
+		</div>
+ 
+	</div>
+</div> 
+			 
+ <br clear="all">
+			</div> 
+
+
+			 
+			<div id="channelRight">
+			 
+				<table style="background:url(/images/1233.jpg); width:300px; height:230px;"> <tbody><tr><td style="padding-left:10px; padding-top:15px;">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="25%">
+<table width="120" border="0" align="center" cellpadding="2" cellspacing="1">
+<tbody><tr>
+<td style="padding-left:10px;"><a href="/Beauty-Style/Skin-Body/203/index.html"><img src="/upload/images/071227/224256132V.jpg" border="0" width="120" height="120" alt="Are You Getting Your Beauty Sleep?"></a></td>
+</tr>
+<tr> 
+<td height="20"><a href="/Beauty-Style/Skin-Body/203/index.html">Are You Getting Your Bea</a></td>
+</tr>
+</tbody></table>
+	</td>
+	<td width="25%">
+<table width="120" border="0" align="center" cellpadding="2" cellspacing="1">
+<tbody><tr>
+<td style="padding-left:10px;"><a href="/Beauty-Style/Skin-Body/202/index.html"><img src="/upload/images/071227/224219132c.jpg" border="0" width="120" height="120" alt="Overnight Treatments for the Body"></a></td>
+</tr>
+<tr> 
+<td height="20"><a href="/Beauty-Style/Skin-Body/202/index.html">Overnight Treatments for</a></td>
+</tr>
+</tbody></table>
+	</td>
+	<td width="25%">
+	</td>
+	<td width="25%">
+	</td>
+	</tr>
+	</tbody></table>
+ </td></tr></tbody></table>
+				
+				<div id="rightSideAd">					
+				 
+            <div id="advertContainer7">
+              <div id="advert7"><div style="text-align:left;font-family: Georgia, Times, serif;font-size: 10px;color:#cfcfcf;text-transform:uppercase">advertisement</div>
+              <script src="/search/ad_js.php?aid=10" language="javascript"></script>
+               
+              </div>
+            </div> </div>
+
+				<div style="text-align:left;font-family: Georgia, Times, serif;font-size: 10px;color:#cfcfcf;text-transform:uppercase">advertisement</div>
+ 
+ <script src="/search/ad_js.php?aid=9" language="javascript"></script>
+ 
+
+				 
+				<div id="toutRightBottom"><div style="text-align:left;font-family: Georgia, Times, serif;font-size: 10px;color:#cfcfcf;text-transform:uppercase">advertisement</div><script src="/search/ad_js.php?aid=8" language="javascript"></script>
+</div>
+								
+			</div> 
+			
+		</div><br clear="all"> 
+	</div> 
+	<div id="adBottom">
+		<div class="advertDivider11">&nbsp;</div>
+            <div id="advertContainer11">
+              <div id="advert11">
+                <script src="/search/ad_js.php?aid=6" language="javascript"></script>
+              </div>
+            </div> </div>
+	
+	
+ 
+ 
+<div id="adBottom"> <script src="/search/ad_js.php?aid=7" language="javascript"></script>
+
+
+	</div>
+	
+	
+ <div id="adBottom">
+<div id="footer2">
+    <ul id="topRow">
+		<li><a href="/">Home</a></li>	
+        
+		 
+<li>•</li><li><a href="/Beauty-Style/index.html">Beauty &amp; Style</a> </li>
+
+<li>•</li><li><a href="/Diet/index.html">Diet</a> </li>
+
+<li>•</li><li><a href="/Entertainment/index.html">Entertainment</a> </li>
+
+<li>•</li><li><a href="/Food/index.html">Food</a> </li>
+
+<li>•</li><li><a href="/Go-Green/index.html">Go Green</a> </li>
+
+<li>•</li><li><a href="/Health/index.html">Health</a> </li>
+
+<li>•</li><li><a href="/Home-Garden/index.html">Home &amp; Garden</a> </li>
+
+<li>•</li><li><a href="/Pregnancy-Parenting/index.html">Pregnancy &amp; Parenting</a> </li>
+
+	</ul>
+ 
+	<ul class="middleRows">	
+		<li><a href="http://www.heaeh.com/">HEAEH</a></li>
+		<li>•</li>
+		<li><a href="http://www.edcop.net">EDCOP</a></li>
+		<li>•</li>
+		<li><a href="http://www.hiop.net/">HIOP</a></li>
+		<li>•</li>
+		<li><a href="http://www.werkl.com/">WERKL</a></li>
+		<li>•</li>
+		<li><a href="http://www.NCARN.COM/">NCARN</a></li>
+		<li>•</li>
+		<li><a href="http://www.mytourroute.com/">Mytourroute.com</a></li>
+		<li>•</li>
+		<li><a href="http://www.nsportn.com/">Nsportn.com</a></li>
+		<li>•</li>
+		<li><a href="http://www.mcarw.com/">Mcarw.com</a></li>
+		<li>•</li>
+		<li><a href="http://www.guidecom.net">Guidecom</a></li>
+	</ul>			
+	<ul id="bottomRow">
+		<li><span>Copyright © 2008-2010 totalhealthplanner.com, All Rights Reserved.</span></li>
+		<li><a href="/about.html">About Us</a></li>
+        <li>|</li>
+		<li><a href="/contact.html">Contact Us</a></li>
+		<li>|</li>
+	 
+       
+		<li><a href="/advertising.html">Advertising Info</a></li>
+		<li>|</li>
+	 	<li><a href="/terms.html">Terms of Service</a></li>
+        <li>|</li>
+		<li><a href="/privacy.html">Privacy Policy</a></li>
+	</ul> 	
+	</div> 
+
+ 
+ </div>
+</div>
+ 
+
+ </div>
+ 
+
+  
+</body></html>
