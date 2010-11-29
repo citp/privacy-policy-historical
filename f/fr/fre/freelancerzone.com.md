@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelancerzone.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307165447id_/http%3A//www.freelancerzone.com/pages/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancerzone.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129154208id_/http%3A//www.freelancerzone.com/pages/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
-# Custom Web Design and Programming. Freelance Programmers. Outsource Web Development Outsourcing
+# Outsource Projects, Post Jobs, Find Web Programming Freelancers & Developers | FreelancerZone.com
 
 **Privacy Statement for Freelancerzone.com**
 
