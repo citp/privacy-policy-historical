@@ -1,11 +1,66 @@
-<!--The following is the downloaded HTML source of the volunteermatch.org privacy policy that was archived on 2009-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091022084231id_/http%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volunteermatch.org privacy policy that was archived on 2010-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129105834id_/http%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<html><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="stylesheet" type="text/css" href="/style/global.css">
+  <meta property="fb:app_id" content="78983983009">
+
+  <!-- facebook opengraph meta tags -->
+  <meta property="og:type" content="cause">
+  <meta property="og:site_name" content="VolunteerMatch">
+  <!-- end facebook opengraph meta tags -->
+
   
-  <link rel="stylesheet" type="text/css" href="/style/subpage.css">
+  
+  
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  <!-- Start CSS Block -->
+
+<!-- CSS Refs -->
+<link type="text/css" rel="stylesheet" media="screen" href="/style/global.css">
+<link type="text/css" rel="stylesheet" media="screen" href="/style/facebook.css">
+<link type="text/css" rel="stylesheet" media="screen" href="/include/js/lib/thickbox.css">
+<link type="text/css" rel="stylesheet" media="screen" href="/style/subpage.css">
+
+<!-- End CSS Block -->
+
+  <!-- Start Javascript Header -->
+
+<script type="text/javascript" language="javascript" src="/include/js/build/build_578761714.1289407120000.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+    $(document).ready(function() {
+        renderFacebookElements();
+        updateAccountTab();
+    
+    
+    });
+  
+//]]>
+</script>
+
+<!-- End Javascript Header -->
+
+
+  
+  
   
 
   <style type="text/css">
@@ -52,16 +107,17 @@
 			border-bottom:1px solid #920f0f;
 		}
 		
+		#maininfo #searchresults .lowerinfo .orgid  a{
+			color:#920f0f;
+		}
+
+		
 		#subfeatureheaderfull h2 {
       background-color: #920f0f;
     }
 		
 		.currentpage {
 			color: #920f0f;
-		}
-		
-		.searchitem {
-			border-bottom:1px solid #920f0f;
 		}
 		
 		.review, .flaggedreview {
@@ -75,7 +131,7 @@
 
 
     .searchitem h3 a{
-			color:#682525;
+			color:#069;
 			
 		}
 		
@@ -125,78 +181,81 @@
     }
   </style>
   
-  <!-- Start CSS Block -->
 
-<!-- End CSS Block -->
-
-  <!-- Start Javascript Header -->
-
-<script type="text/javascript" language="javascript" src="/include/js/lib/jquery.js"></script>
-<script type="text/javascript" language="javascript" src="/include/js/lib/jquery.cookie.js"></script>
-<script type="text/javascript" language="javascript" src="/include/js/nui/fontsize.js"></script>
-<script type="text/javascript" language="javascript" src="/include/js/nui/helplink.js"></script>
-
-<!-- End Javascript Header -->
 
   
   <title>VolunteerMatch - VolunteerMatch Privacy Policy</title>
 </head>
 
 <body style="font-size: medium;">
-
-
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
-
-
 <div id="container">
+  
+  <div id="loginContainer" class="flowContainer">
+  </div>
+  <div id="lightboxContainerContainer" style="display:none">
+    <div id="lightboxContainer" class="flowContainer closeable">
+    </div>
+  </div>
   
   <div id="header">
     <div id="headertop">
       <h1><a href="/"><span>VolunteerMatch</span></a></h1>
-
       <div id="topnav">
-        
+        <div id="loginStatus">
+          
 
 
-<ul>
-  <li><a href="/post/">Sign In</a> |</li>
-  <li><a href="/post/">Register</a> | </li>
-  <li><span class="help"><a href="/help/p/webframe.html" class="helplink" target="vmhelp">Help</a></span></li>
-</ul>
 
+
+  
+    <ul>
+      <li><a href="#" onclick="getFlow('loginContainer','loginPanel').doAction('load','login');">Sign In</a> | </li>
+			<li><a href="#" onclick="getFlow('loginContainer','loginPanel').doAction('load','register');">Register</a> | </li>
+      
+      <li>
+        <a id="facebook_connect_link" href="#" onclick="doFacebookLogin('loginPanel'); return false;"><img src="/images/facebook/connect.gif"></a>
+        |
+      </li><li>
+      
+      </li><li><span class="help"><a href="/help/p/webframe.html" class="helplink" target="vmhelp">Help</a></span></li>
+    </ul>
+    <form>
+      <input type="hidden" id="__login_status" value="false">
+    </form>
+  
+  
+
+        </div>
       </div>
+			<a href="http://www.target.com/community" target="new" id="sponsorlink"></a>
       <!-- end topnav -->
     </div>
     <!-- end headertop -->
     <div id="mainnav">
       <ul>
         
-        <li><a class="tab " href="/search/">Search
+        <li id="navigation_tab_search"><a class="tab " href="/search/">Search
         </a></li>
         
-        <li><a class="tab " href="/volunteers/">Volunteers
+        <li id="navigation_tab_volunteers"><a class="tab " href="/volunteers/">Volunteers
         </a></li>
         
-        <li><a class="tab " href="/nonprofits/">Nonprofits
+        <li id="navigation_tab_nonprofits"><a class="tab " href="/nonprofits/">Nonprofits
         </a></li>
         
-        <li><a class="tab " href="/corporations/">Corporations
+        <li id="navigation_tab_corporations"><a class="tab " href="/corporations/">Corporations
         </a></li>
         
-        <li><a class="tab tabup" href="/about/">About Us
+        <li id="navigation_tab_vm"><a class="tab tabup" href="/about/">About Us
         </a></li>
         
-        <li><a class="tab " href="/post/">My Account
+        <li id="navigation_tab_account"><a class="tab " href="/post/">My Account
         </a></li>
         
         
       </ul>
 
-    <div id="fontsize" class="small">Text Size: <span id="fontsmall" title="Medium" class="selected">A</span><span id="fontbig" title="Large" class="">A</span></div></div>
+    </div>
     <!-- end main nav -->
 
   </div>
@@ -237,17 +296,21 @@ var WRInitTime=(new Date()).getTime();
 
 
 
+
+<!-- Since this tag is included in pub_header, we need to use a standard script element vs. vm:script -->
 <script type="text/javascript">
-  $(document).ready(function() {
-    $('.vm-closealert').click(function() {
-      var p = $(this).parents('.vm-sitealert');
-      var alert_id = p.attr("alert_id");
-      p.hide();
-      var date = new Date();
-		  date.setTime(date.getTime()+(365*24*60*60*1000));
-      document.cookie = "alert" + alert_id + "=false; path=/; expires="+date.toGMTString();
+  if (typeof jQuery != 'undefined') {
+    $(document).ready(function() {
+      $('.vm-closealert').click(function() {
+        var p = $(this).parents('.vm-sitealert');
+        var alert_id = p.attr("alert_id");
+        p.hide();
+        var date = new Date();
+        date.setTime(date.getTime()+(365*24*60*60*1000));
+        document.cookie = "alert" + alert_id + "=false; path=/; expires="+date.toGMTString();
+      });
     });
-  });
+  }
 </script>
 
 
@@ -423,6 +486,10 @@ In the unlikely event that VolunteerMatch undergoes a sale or transfer of all or
 Due to factors beyond our control, however, we cannot fully ensure that your Information will not be disclosed to third parties.  For example, we may be legally obligated to disclose Information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access your Personal Information.  
 </p>
 <br>
+<p><b>Web Beacons</b><br>
+  Our pages on www.volunteermatch.org may contain files called web beacons that we use for research and evaluation purposes. Information recorded through these beacons is used to report anonymous information about the results of pro-bono media campaigns donated by Yahoo!. Aggregate information may include demographic and usage information. You may choose to opt-out of this research by visiting: <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html</a>.
+</p>
+<br>
 <p>
 <b>Links</b><br>
 This site contains links to other sites. VolunteerMatch is not responsible for the privacy practices or the content of such Web sites.  
@@ -499,7 +566,7 @@ Effective Date: May 31, 2008
     <li><img class="pngimg" src="/images/iconsets/silk/bullet_go.png">&nbsp;&nbsp;<a href="/legal/privacy.jsp">Privacy Policy
     </a></li>
     
-    <li><img class="pngimg" src="/images/iconsets/silk/bullet_go.png">&nbsp;&nbsp;<a href="/legal/creativecommonslicense.jsp">Creative Commons License
+    <li><img class="pngimg" src="/images/iconsets/silk/bullet_go.png">&nbsp;&nbsp;<a href="/legal/publicuseapi">Public-Use API
     </a></li>
     
   </ul>
@@ -518,10 +585,18 @@ Effective Date: May 31, 2008
 
     <div id="footer">
     	<div id="sociallinks">
-      	<a title="Twitter" target="new" href="http://twitter.com/VMConnect"><img src="/images/twitter-icon.gif"></a>
-        <a title="Facebook" target="new" href="http://www.facebook.com/pages/VolunteerMatch/51770917763?ref=ts"><img src="/images/facebook-icon.gif"></a>
-        <a title="Linked In" target="new" href="http://www.linkedin.com/groups?home=&amp;gid=1783952&amp;trk=anet_ug_hm&amp;goback=.gdr_1233340449993_1"><img src="/images/linkedin-icon.gif"></a>
-        <a title="Myspace" target="new" href="http://www.myspace.com/volunteermatch"><img src="/images/myspace-icon.gif"></a>
+        <a title="Twitter" target="new" href="http://twitter.com/VMConnect">
+          <div class="sprite sprite-twitter-icon"></div>
+        </a>
+        <a title="Facebook" target="new" href="http://www.facebook.com/pages/VolunteerMatch/51770917763?ref=ts">
+          <div class="sprite sprite-facebook-icon"></div>
+        </a>
+        <a title="Linked In" target="new" href="http://www.linkedin.com/groups?home=&amp;gid=1783952&amp;trk=anet_ug_hm&amp;goback=.gdr_1233340449993_1">
+          <div class="sprite sprite-linkedin-icon"></div>
+        </a>
+        <a title="Myspace" target="new" href="http://www.myspace.com/volunteermatch">
+          <div class="sprite sprite-myspace-icon"></div>
+        </a>
       </div>
     	<ul>
         <li><a href="/about/" title="About Us">About Us</a> |</li>
@@ -530,13 +605,16 @@ Effective Date: May 31, 2008
         <li><a href="https://www.volunteermatch.org/secure/donate/index.jsp">Donate to VolunteerMatch</a> |</li>
         <li><a href="/about/contact/" title="Contact Us">Contact VolunteerMatch</a></li>
       </ul>
-  		<p>© <a href="/legal/" title="Legal">1998-2009 VolunteerMatch</a>. All Rights Reserved. <a href="/legal/privacy.jsp" title="Privacy">Privacy</a> (updated: May 31, 2008), <a href="/legal/terms.jsp" title="Terms of Use">Terms of Use</a> (updated: May 31, 2008)</p>
+  		<p>© <a href="/legal/" title="Legal">1998-2010 VolunteerMatch</a>. All Rights Reserved. <a href="/legal/privacy.jsp" title="Privacy">Privacy</a> (updated: Jun 16, 2010), <a href="/legal/terms.jsp" title="Terms of Use">Terms of Use</a> (updated: May 31, 2008)</p>
     </div><!-- end footer -->
 
     
 
 
   </div><!-- end container -->
+
+
+
 
 
 
@@ -558,18 +636,6 @@ Effective Date: May 31, 2008
 
   } catch(err) {}
 </script>
-
-
-
-
-
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(17029,0.0007);
-</script>
-<!-- ClickTale end of Bottom part -->
 
 
 
