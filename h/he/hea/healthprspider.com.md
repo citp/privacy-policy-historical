@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthprspider.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429180919id_/http%3A//www.healthprspider.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprspider.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129064929id_/http%3A//healthprspider.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # HealthPRSpider - Privacy Policy
 
