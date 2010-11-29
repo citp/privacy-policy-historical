@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617225514id_/http%3A//www.secureworks.com/contact/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129192127id_/http%3A//www.secureworks.com/contact/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Contact - SecureWorks
 
 ### **About SecureWorks**
 
-With over 2,800 clients, SecureWorks, Inc. ("SecureWorks") is one of the market's leading Security as a Service providers. Organizations are protected from external and internal cyber-threats through SecureWorks' [On-Demand Security Information and Event Management (SIEM) platform](https://web.archive.org/web/20100617225514id_/http%3A//services/infrastructure/security_management_platform.html), the SecureWorks [Counter Threat Unit™](https://web.archive.org/web/20100617225514id_/http%3A//research/counter_threat_unit.html) and three fully synchronous [Security Operations Centers (SOCs) ](https://web.archive.org/web/20100617225514id_/http%3A//services/infrastructure/soc.html)staffed with SANS GIAC certified analysts working 24x7 to safeguard client systems. ****
+With over 2,900 clients, SecureWorks, Inc. ("SecureWorks") is one of the market's leading Security as a Service providers. Organizations are protected from external and internal cyber-threats through SecureWorks' [On-Demand Security Information and Event Management (SIEM) platform](https://web.archive.org/web/20101129192127id_/http%3A//services/infrastructure/security_management_platform.html), the SecureWorks [Counter Threat Unit™](https://web.archive.org/web/20101129192127id_/http%3A//research/counter_threat_unit.html) and three fully synchronous [Security Operations Centers (SOCs) ](https://web.archive.org/web/20101129192127id_/http%3A//services/infrastructure/soc.html)staffed with SANS GIAC certified analysts working 24x7 to safeguard client systems. ****
 
 ### **The Information SECUREWORKS Collects via its Website**
 
