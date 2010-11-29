@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharkrobot.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506214003id_/http%3A//sharkrobot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkrobot.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129213525id_/http%3A//sharkrobot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Shark Robot, T-shirts, Prints, Buttons and More!
 
