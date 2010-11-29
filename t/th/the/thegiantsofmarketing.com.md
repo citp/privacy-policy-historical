@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegiantsofmarketing.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612061006id_/http%3A//thegiantsofmarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegiantsofmarketing.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129202209id_/http%3A//thegiantsofmarketing.com/privacy.html) for the most accurate reproduction.*
 
 # The Giants Of Marketing
 
@@ -32,4 +32,4 @@ The Giants of Marketing will use and share the personally identifiable informati
 Please note that any information you post to a public bulletin board or chat room, is available to all persons accessing that site.
 
 **Privacy related concerns**  
-Should you have questions or concerns relating to this Privacy Statement or compliance with it, please send e-mail to: [info@The Giants of Marketing.com](https://web.archive.org/web/20100612061006id_/http%3A//thegiantsofmarketing.com/info@The%20Giants%20of%20Marketing.com)
+Should you have questions or concerns relating to this Privacy Statement or compliance with it, please send e-mail to: [info@The Giants of Marketing.com](https://web.archive.org/web/20101129202209id_/http%3A//thegiantsofmarketing.com/info@The%20Giants%20of%20Marketing.com)
