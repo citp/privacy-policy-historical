@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumfordandsons.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209042318id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumfordandsons.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129160330id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ YOUR PEACE OF MIND
 
 Universal Music Operations Limited ("Universal") operates this website and respects the security and privacy concerns of users of this all its websites. We are notified under the Data Protection Act 1998 and comply with the Act in all our dealings with your personal data. 
 
-By using the website you agree to the terms of this privacy policy. As a general rule, no personal information (i.e. name, address, telephone number, e-mail address) is automatically collected from users of this website. However, there may be circumstances in which users voluntarily supply such information and in this event, any such information will be kept secure and confidential and will be used only for those purposes made known to users at the time the information is collected, or for the purposes specified in this Privacy Policy. We follow strict security procedures for the storage and disclosure or information you have given us in order to prevent unauthorised access. 
+By using the website you agree to the terms of this privacy policy. As a general rule, no personal information (i.e. name, address, telephone number, e-mail address) is automatically collected from users of this website. However, there may be circumstances in which users voluntarily supply such information and in this event, any such information will be kept secure and confidential and will be used only for those purposes made known to users at the time the information is collected, or for the purposes specified in this Privacy Policy. We will also add your registered email address and personal details to our database if you register for updates from Universal Music via Facebook Connect. We follow strict security procedures for the storage and disclosure of information you have given us in order to prevent unauthorised access. 
 
 Personal information collected via this website is controlled by
 
