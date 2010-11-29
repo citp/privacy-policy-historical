@@ -1,34 +1,160 @@
-> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214140015id_/http%3A//www.lexmark.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129082030id_/http%3A//www1.lexmark.com/content/en_us/terms/privacy-security.shtml) for the most accurate reproduction.*
 
-# Lexmark Privacy Policy
+# Lexmark - Privacy and Security
 
-|  |   
----  
-|  |   
-  
-|    
-|  You may be wondering... what does Lexmark do with my personal information it collects online? Whether we are requesting your credit card number or your home address, Lexmark and third parties who provide services to Lexmark use your personal information to service your requests, enhance your web experience and to improve our Web site. Occasionally, we may want to send you information about promotions or special products. But if you don't want us to contact you about related information and products, that's okay, too. We will respect your wishes. 
+Your privacy is important to Lexmark. We recognize your need for appropriate protection and management of any personal information you share with us. To assist you, we provide this Privacy Statement explaining our online information practices and the choices you can make about the way your information may be collected and used. 
 
-We collect information from visits to our sites to help us understand trends and patterns and provide better customer service and use this information in the aggregate. 
+Personal information collected on Lexmark sites and services may be stored and processed in the United States or any other country in which Lexmark or its affiliates, subsidiaries or agents maintain facilities. By using a Lexmark site or service, you consent to any such transfer of information outside of your country. Lexmark self-certifies its adherence to the European Union's Safe Harbor Principles with the United States Department of Commerce. More information about the U.S. Department of Commerce Safe Harbor Program can be found at:[http://www.export.gov/safeharbor](http://www.export.gov/safeharbor.). 
 
-We want you to feel comfortable about visiting our Lexmark Web site and giving us your personal information. Therefore, we are in the process of implementing the following privacy practices around the world: 
+  * Sites Covered by this Privacy Statement
+  * What Information We Collect
+  * How We Use Your Information
+  * How We Share Your Information
+  * Your Choices
+  * How You Can Keep Your Information Accurate
+  * Keeping Your Personal Information Secure
+  * Enforcement
+  * Children's Privacy
+  * Links to Other Sites
+  * Contacting Us
+  * Consent and Agreement
+  * Changes to this Statement
 
-  * We will let you know any time we collect information that identifies you personally. 
-  * We will give you the ability, where appropriate, to review and update such information. 
-  * We will not sell your personal information to other companies. 
-  * We always protect your online Lexmark store transactions with the Secure Sockets Layering (SSL) 40-bit encryption, the accepted standard of the Internet community. In addition, to further protect your personal information over the Internet, we are changing all our forms that collect any personal data to use SSL 40-bit encryption. 
-  * We will give you the option to choose whether you'd like to receive e-mail from us. And when you do receive an e-mail from us, we will offer you the option to discontinue receiving e-mails. 
+
+
+Return to Top
+
+## Sites Covered by this Privacy Statement
+
+This Privacy Statement applies to the Lexmark.com website in the United States. The privacy statements of Lexmark websites directed at non-U.S. residents may differ from this statement to reflect local site features and applicable law. 
+
+Return to Top
+
+## What Information We Collect
+
+This Privacy Statement applies to all personal information collected by or submitted to Lexmark (or carefully selected third parties acting on Lexmark's behalf)."Personal information" is data that reasonably can be used to identify or describe an individual. You do not need to provide us personal information simply to browse our site. 
+
+Lexmark collects personal information when:
+
+  * you make purchases of products or services;
+  * you register products online;
+  * you request support for a Lexmark product;
+  * you request software downloads
+  * you create a user account (login user name and password);
+  * you request information or materials (e.g., whitepapers or newsletters);
+  * you participate in surveys and evaluations;
+  * you participate in promotions, contests or giveaways;
+  * you apply for a job or submit your resume;
+  * you submit questions or comments to us.
 
 
 
-As the Internet matures, so will our policies pertaining to privacy information. We will post policy changes on this page as soon as the commitment has been made to alter any standing policy. The security and privacy of your personal information are very important to Lexmark. We hope we have eased your concerns. You may still have questions about "cookies." Cookies is a technology used to provide you with personalized Web site information. If you want to know more about cookies, please see ["What about cookies?"](https://web.archive.org/corporate/cookies.html). Lexmark's Web sites may contain links to Web sites of third parties. Lexmark is not responsible for the privacy practices, the content or the product or service offerings of any of third party Web site. If you still have questions about Lexmark's privacy practices, contact us at [privacy@lexmark.com](mailto:%20privacy@lexmark.com). 
+The types of personal information collected may include (but are not limited to):
 
-Thank you for visiting Lexmark's Web site.   
-  
-  
-[Home](https://web.archive.org/us_home.html) | [Products and Supplies](https://web.archive.org/products/index.html) | [Services and Support](http://support.lexmark.com/cgi-bin/jaguar/jaguar.cgi?ccs=229:1:0:0:0:0) | [Reseller Support](https://web.archive.org/reseller/index.html) | [Where to Buy](https://web.archive.org/catalog/index.html)  
-[Worldwide](http://www.lexmark.com/index.html) | [Site Map](https://web.archive.org/site.html) | [Privacy Policy](https://web.archive.org/corporate/privacy.html) | [About Lexmark](https://web.archive.org/corporate/index.html) | [Contact Us](https://web.archive.org/contacts/index.html) | [Webmaster Feedback](https://web.archive.org/webmaster.html)   
-**For more information about Lexmark products, please call toll-free 1-888-LEXMARK.  
-(1-888-539-6275) **
+  * your first and last name; 
+  * your title and your company's name; 
+  * your home, billing, or other physical address (including street name, name of a city or town,
+  * state/province, postal code); 
+  * your e-mail address;
+  * your telephone number; 
+  * (for job applicants submitting electronic information) your educational background, employment experience, and job interest; 
+  * any other identifier that permits Lexmark to make physical or online contact with you;
+  * any information that Lexmark collects online from you and maintains in association with your account, such as your Lexmark username and your Lexmark password.
 
-Copyright © 2001 Lexmark International, Inc. All rights reserved. 
+
+
+Return to Top
+
+## How We Use Your Information
+
+Lexmark collects and uses your personal information to operate and improve its sites, to fulfill your requests for information, to register your products, to process your job application, to provide you promotional materials, to allow you to participate in contests and surveys, to provide service and support, and to carry out the transactions you have requested. These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you repeatedly to enter the same information; performing research and analysis aimed at improving our products, services and solutions; and displaying content and advertising that are customized to your interests and preferences.
+
+We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and support announcements. Some Lexmark services may send periodic member letters that are considered part of the service. We may also contact you to inform you of products or services available from Lexmark and its affiliates.
+
+Personal information collected online may be combined with information you provide Lexmark in other ways, such as through product registrations, service calls, Lexmark Connect, or trade shows.
+
+Return to Top
+
+## How We Share Your Information
+
+Lexmark keeps your personal information confidential. We will not sell, rent or lease your personal information to others. Unless we have your permission, we will not use or share your personal information in ways unrelated to the ones described at the time you provide the data. Lexmark engages service providers and suppliers ("agents") to perform certain functions on Lexmark's behalf. For example, these agents may deliver products to you, provide product service and support, maintain Lexmark information technology systems, and assist Lexmark with marketing and communication initiatives. Those agents will be permitted to obtain only the personal information they need to perform the services. They are required to maintain the confidentiality of the information received on Lexmark's behalf and are prohibited from using it for any other purpose.
+
+Some Lexmark products may be co-branded and offered in conjunction with another company. If you register products, both Lexmark and the other company may receive the information you provide.
+
+The Lexmark Online Store is owned and managed by a third party and is subject to a separate privacy policy. This statement does not apply to the Online Store.
+
+We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on Lexmark; (b) comply with requests for information from police or government authorities, (c) protect and defend the rights or property of Lexmark (including the enforcement of our agreements); or (d) act in urgent circumstances to protect the personal safety of Lexmark employees or members of the public.
+
+Lexmark or its affiliates could merge with or be acquired by another business or their respective assets may be acquired. Lexmark will seek appropriate protection for personal information in these types of transactions.
+
+Return to Top
+
+## Your Choices
+
+Lexmark offers you the opportunity to choose whether your personal information is (a) to be disclosed to a non-agent third party or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by you. Lexmark will provide you reasonable mechanisms to exercise your choices at the data collection point or by using other methods.
+
+These choices are not applicable to communications from Lexmark primarily for the purpose of administering orders, contracts, support, product safety and security warnings, software updates, or other administrative and transactional notices.
+
+Return to Top
+
+## How You Can Keep Your Information Accurate
+
+Lexmark strives to keep your personal information accurately recorded. We have implemented technology, management processes, and policies to help maintain data accuracy. Lexmark provides individuals with reasonable access to review and correct their personal information. Contact us by sending an email request to [privacy@lexmark.com](mailto:privacy@lexmark.com). We will make reasonable efforts to make necessary corrections. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to or making alterations to data we maintain.
+
+Return to Top
+
+## Keeping Your Personal Information Secure
+
+Lexmark takes seriously the trust you place in us. To protect against unauthorized access, misuse, disclosure, or alteration of your personal information, Lexmark employs appropriate physical, technical, and administrative measures. Physical security is designed to prevent unauthorized access to database equipment and hard copies of documents. Electronic security measures, such as firewalls, access restrictions, and encryption provide protection from hacking or other unauthorized access. Lexmark limits access to personal information to those persons in Lexmark's organization, or as agents of Lexmark, who have a specific business purpose for maintaining and processing personal information and data.
+
+Lexmark will regularly review its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this statement or Lexmark's treatment of personal information by contacting us at the link or address indicated below. When we receive written questions and concerns at this address, it is Lexmark's policy to contact the individual user regarding his or her concerns. We will investigate and attempt to resolve concerns regarding use and disclosure of personal information in accordance with the principles contained in this statement.
+
+Any concern that cannot be resolved through our internal processes will be settled by arbitration administered by the American Arbitration Association (AAA) in accordance with its applicable commercial rules and, as applicable, the Safe Harbor Principles. The exclusive location for such arbitration shall be Lexington, Kentucky. All decisions of the arbitrator(s) will be final and binding on the parties, which waive any right to further appeal the arbitration award, to the extent an appeal may be lawfully waived.
+
+Return to Top
+
+## Enforcement
+
+Lexmark will regularly review its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this statement or Lexmark's treatment of personal information by contacting us at the link or address indicated below. When we receive written questions and concerns at this address, it is Lexmark's policy to contact the individual user regarding his or her concerns. We will investigate and attempt to resolve concerns regarding use and disclosure of personal information in accordance with the principles contained in this statement.
+
+Any concern that cannot be resolved through our internal processes will be settled by arbitration administered by the American Arbitration Association (AAA) in accordance with its applicable commercial rules and, as applicable, the Safe Harbor Principles. The exclusive location for such arbitration shall be Lexington, Kentucky. All decisions of the arbitrator(s) will be final and binding on the parties, which waive any right to further appeal the arbitration award, to the extent an appeal may be lawfully waived.
+
+Return to Top
+
+## Children's Privacy
+
+Lexmark does not knowingly collect information from children under the age of 13 and its websites do not target children under 13. We encourage parents and guardians to take an active role in their children's online activities and interests.
+
+Return to Top
+
+## Links to Other Sites
+
+Some pages on the Lexmark website may contain links to third-party web sites. Lexmark does not endorse and has no control over the privacy practices or content of such websites. We recommend you carefully read the privacy policies of each site you visit.
+
+Return to Top
+
+## Contacting Us
+
+If you have comments or questions regarding this statement, please send them to [privacy@lexmark.com](mailto:privacy@lexmark.com) or write to us at the following address:
+
+Lexmark International, Inc.  
+Privacy Mailbox  
+740 West New Circle Road  
+Lexington, Kentucky 40550  
+U.S.A 
+
+Return to Top
+
+## Consent and Agreement
+
+By using the Lexmark website, you signify your agreement to the terms and conditions of this Privacy Statement. If you do not agree to these terms and conditions, please do not disclose any personal information to the Lexmark website.
+
+Return to Top
+
+## Changes to this Statement
+
+If we change this statement, we will post the revised statement here, along with the date of revision. If we make significant changes to the statement, we may also post a notice on our home page. Any changes will apply only from date of the revision. Amended dispute resolution provisions will not apply to any dispute of which the parties had actual notice as of the date of the amendment.
+
+Revised April 30, 2009
+
+Return to Top
