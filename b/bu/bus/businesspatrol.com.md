@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the businesspatrol.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232653id_/http%3A//www.businesspatrol.com/corporate.php3%3Fcorporate%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesspatrol.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129161909id_/http%3A//www.businesspatrol.com/terms-privacy.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
-# Business Patrol: International Business Guide, Business directory, Trade Leads, Directories, Marketplaces and E-Shops
+# International Business Leads, Business List, Business Information, International Trade, Business Search, International Business Directory, Marketing and Business Opportunities
 
-**Privacy:  
-Businesspatrol.com's privacy policy**   
+  
 We have developed this policy as part of our commitment to protecting your privacy, while providing a valuable and personalised service. We want you to feel confident about the privacy and security of your personal information. This policy applies whether or not you choose to register for Businesspatrol.com services.   
 We collect personal information about you when you register with Businesspatrol.com and if you buy advertising products as a business.   
 When you register with Businesspatrol.com we ask you for details about yourself because we want to ensure that we give you a service that's tailored for you. We ask for as little information as possible in order to make it a quick and easy process. The information you give us isn't sold on to other companies and we have a serious and dedicated commitment to the security of your information. 
