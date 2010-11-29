@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelsio.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325065917id_/http%3A//www.chelsio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelsio.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129035001id_/http%3A//www.chelsio.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
