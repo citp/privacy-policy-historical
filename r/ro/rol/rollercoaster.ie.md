@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rollercoaster.ie privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803104552id_/http%3A//www.rollercoaster.ie/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoaster.ie privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129052907id_/http%3A//www.rollercoaster.ie/misc/privacy.asp) for the most accurate reproduction.*
 
-# Advice & support on being pregnant, pregnancy, baby, Childcare and parenting in Ireland - RollerCoaster.ie
+# Advice & support on Maternity, pregnancy, baby, Childcare and parenting in Ireland - RollerCoaster.ie
 
 Our privacy statement demonstrates our firm commitment to your online privacy. In this statement, we disclose our information gathering and dissemination practices for this web site. RollerCoaster.ie has created this privacy statement ("Privacy Policy") in order to demonstrate our firm commitment to your privacy online. The following discloses our information gathering and dissemination practices for the RollerCoaster.ie web site ("Site"). 
 
@@ -15,6 +15,8 @@ We use cookies to maintain your session when you are logged onto the Site.
 ### Information We Request Directly From You
 
 Our Site's registration forms, order forms, surveys and contests require you to give us contact information (like your name and email address) and demographic information. 
+
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your login details) about your visits to this site in order to provide advertisements to you. 
 
 ### How We Use Contact Information
 
