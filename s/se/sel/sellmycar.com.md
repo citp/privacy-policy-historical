@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmycar.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154757id_/http%3A//sellmycar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmycar.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129182356id_/http%3A//www.sellmycar.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Sell My Car.com
 
