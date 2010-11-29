@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520072000id_/http%3A//www.barringtonsports.com/help/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129090426id_/http%3A//www.barringtonsports.com/help/privacy_notice) for the most accurate reproduction.*
 
 # Privacy Notice: Help Topics & FAQs | Barrington Sports
 
