@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurosky.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531044252id_/http%3A//company.neurosky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosky.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129022543id_/http%3A//company.neurosky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « NeuroSky
 
@@ -57,6 +57,6 @@ We may change our privacy policy from time to time by updating the posting, prov
 
 ## **Contact Information**
 
-If you have questions or concerns regarding this Privacy Policy, you should [contact us](https://web.archive.org/web/20100531044252id_/http://company.neurosky.com/contact-us/). References to NeuroSky in this Privacy Policy refer to NeuroSky, Inc, a Delaware corporation, and its affiliates.
+If you have questions or concerns regarding this Privacy Policy, you should [contact us](https://web.archive.org/web/20101129022543id_/http://company.neurosky.com/contact-us/). References to NeuroSky in this Privacy Policy refer to NeuroSky, Inc, a Delaware corporation, and its affiliates.
 
 _Last updated March 19, 2009_
