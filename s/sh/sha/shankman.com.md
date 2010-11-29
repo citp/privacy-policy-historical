@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529212300id_/http%3A//shankman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129120251id_/http%3A//shankman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Home of Peter Shankman – Shankman.com
+# Privacy Policy | The Home Of Peter Shankman
 
 ## [Privacy Policy](http://shankman.com/privacy-policy/ "Privacy Policy")
-
-If you're new here, you may want to subscribe to my [RSS feed](http://shankman.com/feed/). Thanks for visiting!
 
 SHANKMAN.COM™ PRIVACY POLICY STATEMENT
 
