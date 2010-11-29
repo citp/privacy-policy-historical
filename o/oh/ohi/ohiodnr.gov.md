@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohiodnr.gov privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226121419id_/http%3A//ohiodnr.gov/tabid/11684/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohiodnr.gov privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129173832id_/http%3A//ohiodnr.gov/tabid/11684/default.aspx) for the most accurate reproduction.*
 
 # ODNR Privacy Statement - Disclaimers
 
