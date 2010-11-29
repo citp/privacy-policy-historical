@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ffxivinfo.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527145521id_/http%3A//www.ffxivinfo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxivinfo.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129014045id_/http%3A//www.ffxivinfo.com/privacy.php) for the most accurate reproduction.*
 
-# Final Fantasy XIV Information - Privacy Policy
+# Final Fantasy XIV (FFXIV, FF14) Information - Privacy Policy
 
 FFXIV Info takes privacy very seriously to ensure the safety of your data. We will only store the data that you provide to us. 
 
