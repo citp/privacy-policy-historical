@@ -1,21 +1,7 @@
-> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528114029id_/http%3A//www.vacationpackagestogo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129045012id_/http%3A//www.vacationpackagestogo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy vacationpackagestogo.com
+# Privacy Policy | Discounted Hotel,Vacation Packages for Williamsburg, Outer Banks, North Carolina, Florida trips and more
 
-  
-
-
-| 
-
-**See What They Say...**  
-  
----  
-  
-_Unbelievable trip, the best we have ever had. Outer Banks for that matter was magical.Thanks for making our trip so easy and well organised._
-
-**Patrica & Rolf**  
-[More Customer Testimonials >>](https://web.archive.org/web/20100528114029id_/http%3A//www.vacationpackagestogo.com/testimonials.php "Customer Testimonials")  
-  
 vacationpackagestogo.com (Vacationpackagestogo) respects the privacy rights of our online visitors and recognizes the importance of protecting the information collected about you. We have adopted a corporate-wide Online Privacy Policy that guides how we collect, store and use the information you provide.
 
 Please note that this policy applies only to sites maintained by Vacationpackagestogo or its subsidiaries, and not to web sites maintained by other companies or organizations to which we may link. This web site contains links to other web sites. Please note that when you click on one of these links, you are "clicking" to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. Furthermore, from time to time, Vacationpackagestogo may employ third parties who may collect personal information on behalf of Vacationpackagestogo. In such cases, such third parties will be instructed by Vacationpackagestogo to comply with the Vacationpackagestogo Privacy Policy as set forth herein.
@@ -29,10 +15,3 @@ When you contact Vacationpackagestogo online site, you will be asked to provide 
 Opt-out provision when we first collect information about you, we will offer you the opportunity to opt-out of having any communication sent to you other than what is necessary for us to fulfill your travel requirements. (Except to the extent required by law, court order, or as requested by other government or law enforcement authority.) In addition, if you do not want Vacationpackagestogo to send you e-mail or postal mail about our products and services, you can opt-out at the time of registration or information collection. If, at a later date, you choose to have your name removed from our database, you can do so by sending e-mail to [contact@Vacationpackagestogo.com](mailto:contact@vacationpackagestogo.com).
 
 Safeguarding your personally identifiable information we will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of that personal information.
-
-|   
-[](http://tellafriend.socialtwist.com/)  
-   
-   
-   
- 
