@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitescanga.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003837id_/http%3A//www.sitescanga.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitescanga.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129111526id_/http%3A//sitescanga.com/privacy_policy) for the most accurate reproduction.*
 
 # SiteScan™ By EpikOne - A Google Analytics Help, Setup, and Configuration Tool
 
@@ -39,4 +39,4 @@ SiteScan makes no claims, promises or guarantees about the accuracy, completenes
 
 Please note that Google Analytics™ is the trademark of Google, Inc. and is not affiliated with SiteScan.  Google, Inc. accepts no responsibility, liability and does not provide support to individuals choosing to use this product.  All inquiries regarding SiteScan should be submitted to:  [info@SiteScanGA.com](mailto:info@SiteScanGA.com)
 
-**Copyright 2008   SiteScan is a service mark of EpikOne, Inc.  All Rights Reserved.**
+ **Copyright 2008   SiteScan is a service mark of EpikOne, Inc.  All Rights Reserved.**
