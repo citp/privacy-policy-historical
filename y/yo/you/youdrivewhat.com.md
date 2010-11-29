@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522112734id_/http%3A//www.youdrivewhat.com/%3Fpage_id%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129223905id_/http%3A//www.youdrivewhat.com/%3Fpage_id%3D26) for the most accurate reproduction.*
 
 # You Drive What? | photos of funny cars, strange cars, weird cars, ugly cars, junk cars and cars that barely run!
 
@@ -92,7 +92,7 @@ Three Ring Focus is the owner of this Website and retains all ownership rights t
 
 **ARTICLE 13.   Contacting the Website**
 
-13.1        If you have any questions about this Privacy Statement, the practices of this Website, or your dealings with this Website, please contact us at [info@youdrivewhat.com](mailto:info@peopleofwalmart.com).
+13.1        If you have any questions about this Privacy Statement, the practices of this Website, or your dealings with this Website, please contact us at [info@youdrivewhat.com](mailto:info@youdrivewhat.com).
 
 **ARTICLE 14.   general information**
 
