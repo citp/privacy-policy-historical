@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523143616id_/http%3A//www.westlaw.co.uk/privacy_policy/index.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129110433id_/http%3A//www.westlaw.co.uk/privacy_policy/index.shtm) for the most accurate reproduction.*
 
 # Westlaw UK
 
