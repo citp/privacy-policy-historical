@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330230212id_/http%3A//www.slidefinder.net/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129212929id_/http%3A//www.slidefinder.net/info/privacy) for the most accurate reproduction.*
 
 # Privacy policy - SlideFinder - PowerPoint search engine with thumbnail results
+
+## Finding you the right slides
 
 ### Our Commitment To Privacy
 
@@ -22,7 +24,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at +46-8-501 64 079 or use the [contact](https://web.archive.org/misc/contactus) page. 
+Should you have other questions or concerns about these privacy policies, please call us at +46-8-501 64 079 or use the contact form. 
 
 ### Use of Cookies
 
