@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitloophole.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003800id_/http%3A//www.profitloophole.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitloophole.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129071342id_/http%3A//profitloophole.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,4 +37,4 @@ This data is collected through the use of a simple javascript script on each pag
 
 ProfitLoophole.com does NOT use spyware, adware, viruses, trojans or otherwise any invasive, involuntary methods to increase incoming traffic, or otherwise for any other purpose.
 
-If you have any concerns or questions about using our website, or our statistical tracking practices, please [contact us here](https://web.archive.org/web/20100102003800id_/http%3A//www.profitloophole.com/contact.php).
+If you have any concerns or questions about using our website, or our statistical tracking practices, please [contact us here](https://web.archive.org/web/20101129071342id_/http%3A//profitloophole.com/contact.php).
