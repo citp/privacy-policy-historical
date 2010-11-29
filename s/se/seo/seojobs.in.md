@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seojobs.in privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619010321id_/http%3A//seojobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seojobs.in privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129195634id_/http%3A//seojobs.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Jobs
 
