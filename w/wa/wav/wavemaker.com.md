@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805092351id_/http%3A//www.wavemaker.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129121325id_/http%3A//www.wavemaker.com/legal/privacy.html) for the most accurate reproduction.*
 
 # WaveMaker Privacy Policy
 
@@ -28,10 +28,10 @@ If you have privacy-related questions that are not addressed above, please conta
 
 **WaveMaker Software**   
 Attn: Privacy Administrator   
-301 Howard St, Suite 2200   
-San Francisco, CA 94105
+1000 Sansome Street, Suite 250   
+San Francisco, CA 94111
 
 Or by email:   
-[support@wavemaker.com](mailto:support@wavemaker.com)
+[info@wavemaker.com](mailto:info@wavemaker.com)
 
 _Effective August 1, 2005_
