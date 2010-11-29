@@ -1,35 +1,28 @@
-> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516061150id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129033412id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
 
-# University of Glasgow :: legal statements :: Privacy ::
+# University of Glasgow :: Legal statements :: Privacy
 
 This statement outlines the information gathered during your visit to the University of Glasgow's central web servers and explains how this information is treated. If you choose to request information from this site you will need to pass personal data to the University through this site. Where you actively provide personal data to the University [for example, by completing a web form] this data will be used only for the service you have requested unless you consent otherwise at the time of submitting the data.
 
 ### Data Protection Act
 
-The gathering, storage, use, release and disposal of personal information is regulated by the Data Protection Act 1998. The University's policy and guidelines with respect to the Act, are available at: [www.gla.ac.uk/dataprotection/](http://www.gla.ac.uk/dataprotection/)   
+The gathering, storage, use, release and disposal of personal information is regulated by the Data Protection Act 1998. The University's policy and guidelines with respect to the Act, are available at: [www.gla.ac.uk/dataprotection/](http://www.gla.ac.uk/dataprotection/)
 
+### Surveillance and monitoring
 
-### Surveillance and monitoring  
-
-
-Staff, students and visitors should be aware that the University operates CCTV and similar equipment to monitor safety and security and to aid the prevention and detection of crime. In addition, the University may monitor postal, telecommunications, data communications, and other communications as permitted by the relevant legislation and University Regulations. The University's policy is at: [www.gla.ac.uk/dataprotection/ monitoring-and-surveillance.html](http://www.gla.ac.uk/dataprotection/%20monitoring-and-surveillance.html)
+Staff, students and visitors should be aware that the University operates CCTV and similar equipment to monitor safety and security and to aid the prevention and detection of crime. In addition, the University may monitor postal, telecommunications, data communications, and other communications as permitted by the relevant legislation and University Regulations. The University's policy is at: [www.gla.ac.uk/services/dpfoioffice/a-ztopics/monitoringsurveillancecctvwebcam/](http://www.gla.ac.uk/services/dpfoioffice/a-ztopics/monitoringsurveillancecctvwebcam/)
 
 ### Freedom of Information (Scotland) Act
 
-The records of the University of Glasgow are subject to the terms of the Freedom of Information (Scotland) 2002 Act. The Act gives individuals a general right of access to all types of recorded information, of any age, held by the University. The University's policy and guidelines with respect to the Freedom of Information Act (Scotland) 2002 are available at: [www.gla.ac.uk/foi/ ](http://www.gla.ac.uk/foi/)   
+The records of the University of Glasgow are subject to the terms of the Freedom of Information (Scotland) 2002 Act. The Act gives individuals a general right of access to all types of recorded information, of any age, held by the University. The University's policy and guidelines with respect to the Freedom of Information Act (Scotland) 2002 are available at: [www.gla.ac.uk/foi/ ](http://www.gla.ac.uk/foi/)
 
+## The information collected
 
-## The information collected  
+### Log files
 
+The University's website does not automatically capture or store personal data from visitors to the site, other than to log your IP address and session information. Session information includes the time and duration of your visit to the site, the files requested, and the browser used. This information will only be accessed by authorised persons of the University of Glasgow or its agents. The information will be retained by the University and will only be used for the purpose of (a) managing the site system, (b)  the identification of broken links, and (c) for statistical and audit purposes.
 
-### Log files  
-
-
-The University's website does not automatically capture or store personal data from visitors to the site, other than to log your IP address and session information. Session information includes the time and duration of your visit to the site, the files requested, and the browser used. This information will only be accessed by authorised persons of the University of Glasgow or its agents. The information will be retained by the University and will only be used for the purpose of (a) managing the site system, (b)  the identification of broken links, and (c) for statistical and audit purposes.  
-
-
-### Cookies  
-
+### Cookies
 
 Cookies are small text files passed to your computer by the web server via your browser, and may be used to collect information to help identify you and prepare customised pages for you. Cookies may remain on your computer either for the duration of the session or indefinitely. You can configure most standard web browsers to refuse cookies.
 
@@ -43,8 +36,7 @@ This privacy policy does not cover the links within this site to other non-Unive
 
 ### Google Analytics
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
-
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
   
 
