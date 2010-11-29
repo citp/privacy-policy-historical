@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingandbuying.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518054100id_/http%3A//www.shoppingandbuying.com/updates/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingandbuying.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129125823id_/http%3A//www.shoppingandbuying.com/updates/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
