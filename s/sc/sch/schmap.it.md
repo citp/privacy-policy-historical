@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schmap.it privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212220244id_/http%3A//www.schmap.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schmap.it privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129051623id_/http%3A//schmap.it/privacy) for the most accurate reproduction.*
 
-# Schmap.it - privacy
+# Schmaps & Schnaps - privacy policy
 
 ## Privacy Policy
 
