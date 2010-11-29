@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homecallcenterjobs.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330091136id_/http%3A//homecallcenterjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homecallcenterjobs.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129135355id_/http%3A//homecallcenterjobs.com/privacy) for the most accurate reproduction.*
 
 # Home Call Center Jobs
 
