@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Stockpromoters.com
 
 |  | [](http://stockpromoters.com/ "Home on StockPromoters.com") |   
 ---|---  
-**Jan 3, 2010 5:33:55 AM EST** ,|  **The Market opens in: 03:57** |  **Stock Quote** [Symbol Lookup](https://web.archive.org/companylookup.asp) |  |   
+| **Nov 29, 2010 1:24:37 PM EST** ,  **The Market closes in 02:36.** |  [ **_Symbol Lookup_**](https://web.archive.org/companylookup.asp)   |  |   
 |  |  | 
 
 StockPromoters.com  
@@ -57,7 +57,7 @@ You do have control over cookies. Most browsers can be set to notify you when a 
 How can customers access and update their nonpublic personal information that we collect?  
 >We take measures to ensure that customers' nonpublic personal information is accurate and up-to-date. You can also access and update certain nonpublic personal information that we collect about you. To access and update your mailing address or your home or work phone numbers for your StockPromoters.com account, log on to our Web site using your user name and password.   
 |  [Copyright © 2010 Stockpromoters.com.  
-All Rights Reserved. (Terms and Conditions)](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/terms.asp) |  [About Us](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/aboutus.asp) |  |  [What's New](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/whatsnew.asp) |  |  [F.A.Q.'s](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/faq.asp) |  |  [Useful Links](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/links.asp) |  |  [Privacy Policy](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/privacy.asp) |  |  [Disclaimer](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/disclaimer.asp) |  |  [Penny Stock Blog](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/penny-stock-traders/) |  |  [Contact Us](https://web.archive.org/web/20100103103356id_/http%3A//stockpromoters.com/contactus.asp)  
+All Rights Reserved. (Terms and Conditions)](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/terms.asp) |  [About Us](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/aboutus.asp) |  |  [What's New](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/whatsnew.asp) |  |  [F.A.Q.'s](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/faq.asp) |  |  [Useful Links](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/links.asp) |  |  [Privacy Policy](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/privacy.asp) |  |  [Disclaimer](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/disclaimer.asp) |  |  [Penny Stock Blog](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/penny-stock-traders/) |  |  [Contact Us](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/contactus.asp)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 Financial Market Data powered by [Quotemedia.com](http://www.quotemedia.com/).  All rights reserved.  [Terms and conditions](http://www.quotemedia.com/termsofuse.php).  
