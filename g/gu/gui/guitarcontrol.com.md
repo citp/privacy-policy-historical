@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the guitarcontrol.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418182057id_/http%3A//www.guitarcontrol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcontrol.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129075525id_/http%3A//www.guitarcontrol.com/privacy.html) for the most accurate reproduction.*
 
 # 
-
-**PRIVACY POLICY**
 
 Last Updated: Oct 3, 2005
 
@@ -11,6 +9,10 @@ guitarcontrol.com strives to offer its visitors the many advantages of Internet 
 **How we gather information from users**
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, guitarcontrol.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+
+**Optout policy**
+
+Users who optin to our mailing list (subscribers) may optout simply by clicking on the link at the bottom of any message they receive, which indicates: Unsubscribe by clicking on this link. Subscribers may also optout by contacting us at www.GuitarControlHelp.com and creating a ticket with their email address used for subscription, and their contact information will be removed from our databases within 7 days. 
 
 **What we do with the information we collect**
 
@@ -51,3 +53,5 @@ This policy and the use of this Site are governed by Pennsylvania law. If a disp
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Philadelphia, PA, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 guitarcontrol.com is controlled, operated and administered entirely within Pennsylvania. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+[Home](https://web.archive.org/) | [About Us](http://www.guitarcontrol.com/aboutus.php) | [Terms of Use](http://www.guitarcontrol.com/terms-of-use.html) | [FAQ](http://www.guitarcontrol.com/guitarcontrol-faq.php) | [Privacy Policy](http://www.guitarcontrol.com/privacy.html) | [Copyright Info](http://www.guitarcontrol.com/copyright.php) | [Return Policy](https://web.archive.org/web/20101129075525id_/http%3A//www.guitarcontrol.com/return.php) | [Customer Service](http://www.guitarcontrolhelp.com/) | [Contact Us](http://www.guitarcontrol.com/contact.php)
