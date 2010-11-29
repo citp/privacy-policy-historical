@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127232400id_/http%3A//www.varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129122356id_/http%3A//varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Cheerleading & Dance Uniforms & Events - Varsity.com
 
