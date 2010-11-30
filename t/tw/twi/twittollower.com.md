@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittollower.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620092350id_/http%3A//www.twittollower.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittollower.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130174819id_/http%3A//www.twittollower.com/privacy.html) for the most accurate reproduction.*
 
 # ::. Twittollower .::
 
