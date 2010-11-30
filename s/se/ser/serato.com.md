@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626043138id_/http%3A//www.serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130205938id_/http%3A//www.serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
 # Serato Websites Privacy Policy | Serato Audio Research
 
@@ -25,7 +25,7 @@ This privacy policy applies to anyone using Serato Websites. If you have entered
 
 The information collected by Serato Websites can be broadly separated into two categories: 1) Non-Identifiable Information and 2) Identifiable Information.
 
-### Non-Identifiable Information
+### **Non-Identifiable Information**
 
 All usage activities on Serato Websites are subject to the collection of the following Non-Identifiable Information:
 
@@ -39,7 +39,7 @@ All usage activities on Serato Websites are subject to the collection of the fol
 
 This information is considered non-personal because it provides no uniquely identifying information about you.
 
-### Identifiable Information
+### **Identifiable Information**
 
 Participation in certain Serato Websites services requires certain Identifiable Information from you. Examples of services requiring Identifiable Information include participating in forum discussions, making online product purchases and downloading certain content.
 
@@ -55,9 +55,9 @@ In other cases Personal Information is only visible to yourself and to Serato em
 
 Activity Information includes forum posts written by you, records of downloads, and other activity that is not in the User Profile section of the Serato Websites.
 
-### A Note about Credit Card and Bank Account Information
+### **A Note about Credit Card and Bank Account Information**
 
-Serato Servers never store highly sensitive bank account and credit card information.  Purchases from the Serato Websites online stores that require the inputting of credit card information are redirected to a specialised, accredited credit card payment service, Direct Payment Solutions (DPS), for the purposes of acquiring and processing credit card data.
+Serato Servers never store highly sensitive bank account and credit card information. Purchases from Serato Websites that require the inputting of credit card information use a specialised, accredited credit card payment service, Direct Payment Solutions (DPS), for the purposes of acquiring and processing credit card data.
 
 For further information about DPS please read their [Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html) and [Legal Notice](http://www.paymentexpress.com/about/about_paymentexpress/legal_notice.html).
 
