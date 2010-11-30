@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503140349id_/http%3A//www.thorpepark.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130054030id_/http%3A//www.thorpepark.com/misc/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for THORPEPARK.com
 
@@ -19,7 +19,7 @@ We will use the information you enter at the site for administration purposes an
 We may also disclose your personal information to third parties:
 
   1. in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets 
-  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://web.archive.org/web/20100503140349id_/http%3A//www.thorpepark.com/misc/terms-and-conditions.aspx) of use or terms and conditions of supply and other agreements, or to protect the rights, property or safety of the Merlin Entertainments Group, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.
+  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://web.archive.org/web/20101130054030id_/http%3A//www.thorpepark.com/misc/terms-and-conditions.aspx) of use or terms and conditions of supply and other agreements, or to protect the rights, property or safety of the Merlin Entertainments Group, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.
 
 
 
