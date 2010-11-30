@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sched.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619152810id_/http%3A//sched.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sched.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130174326id_/http%3A//sched.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / Event Calendar & Agenda Builder for Conferences & Festivals
+# Social Scheduling For Events - Privacy Policy - SCHED*
 
 ## Privacy Policy
 
