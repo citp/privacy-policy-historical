@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vnunet.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113070216id_/http%3A//www.v3.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnunet.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130144921id_/http%3A//www.v3.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - V3.co.uk - formerly vnunet.com
 
@@ -55,6 +55,8 @@ When you request a page from the site's web server, the server automatically col
 Incisive Media uses "WebTrends Live" to analyse traffic to the Incisive Media site. WebTrends Live does not create individual profiles for visitors as WebTrends Live only collects aggregate data. You can find out more information about the WebTrends Live privacy policy on their [privacy policy](https://ondemand.webtrends.com/privacypolicy.asp) page.
 
 In the course of serving advertisements to Incisive Media sites, a third party advertiser may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. Incisive Media does not have control over the collection of information for advertising purposes. You can find out more information about the DoubleClick's privacy policy on their [privacy policy](http://www.doubleclick.net/us/corporate/privacy) page.
+
+Visitors to this site are served a cookie that allows us to collect aggregated statistics about visitors use of this site. We do this to help us improve the site and make it easier to use and more relevant to you. All data is anonymous and no personally identifiable information is processed or stored so individual users can never be identified. This anonymous data is not shared with any organisation other than our analytics partner who may use it for commercial purposes. If you want to find out more about how your anonymous data is used or do not wish to contribute your data please click [](http://yss.iaudience.co.uk/optout?optout=1)
 
 Incisive Media is not responsible for the content or the privacy policies of third party web sites linked to this site. Dynamic Logic (Europe) will, from time to time, use tags on Incisive Media websites to enable branding research on behalf of Media Contacts and Microsoft. This tag will drop cookies and invite users to complete a survey through a pop-up window.
 
