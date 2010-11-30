@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425235439id_/http%3A//www.ukzn.ac.za/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130094607id_/http%3A//www.ukzn.ac.za/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Change Font Size | A | A | A | 
 
 The University of KwaZulu-Natal respects each individual user's right to privacy. 
 
@@ -12,4 +10,4 @@ We do not store any information collected while you are visiting our Web site. H
 
 E-mail addresses and other personal information stored on your computer is never, under any condition, read from your computer. 
 
-If you have any queries regarding our Web site please [contact us](https://web.archive.org/web/20100425235439id_/http%3A//www.ukzn.ac.za/comment.aspx "Web Management"). 
+If you have any queries regarding the UKZN website please [send a comment](http://www.ukzn.ac.za/webcomment.aspx) to Web Management. 
