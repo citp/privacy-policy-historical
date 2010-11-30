@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612195758id_/http%3A//spie.org/x2739.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130025122id_/http%3A//spie.org/x2739.xml) for the most accurate reproduction.*
 
 # Privacy Policy - SPIE - The Optics, Photonics, Fibers, and Lasers Resource.
 
@@ -11,7 +11,7 @@ Credit Card Information
 We collect your credit card information, such as card number and card expiration date, when you purchase products on our site. Encrypted transaction capabilities are available, if you choose to use them. We do not store your credit card information.
 
 Profiles  
-[SPIE.org Profiles](https://web.archive.org/web/20100612195758id_/http%3A//spie.org/x18773.xml) is a feature that allows you to publicly display relevant professional information about yourself on the SPIE.org website. You have the ability to manage what information is displayed in your profile. You can view, update, add or remove any information forming a part of your SPIE.org Profile at any time. Your default profile contains the following items: your name, affiliation, member type, SPIE publications, SPIE conference involvement, and SPIE courses taught. By adding or modifying information in your SPIE.org Profile, you agree to allow SPIE to populate or update other databases maintained by us with this information, as applicable. SPIE reserves the right to remove information from a profile that it deems inappropriate. 
+[SPIE.org Profiles](https://web.archive.org/web/20101130025122id_/http%3A//spie.org/x18773.xml) is a feature that allows you to publicly display relevant professional information about yourself on the SPIE.org website. You have the ability to manage what information is displayed in your profile. You can view, update, add or remove any information forming a part of your SPIE.org Profile at any time. Your default profile contains the following items: your name, affiliation, member type, SPIE publications, SPIE conference involvement, and SPIE courses taught. By adding or modifying information in your SPIE.org Profile, you agree to allow SPIE to populate or update other databases maintained by us with this information, as applicable. SPIE reserves the right to remove information from a profile that it deems inappropriate. 
 
 Web Site Forms  
 We obtain information you provide to us in online forms such as your name, address, and e-mail address. We may use this information to provide you with information about the products and services offered by SPIE. Online forms are available for customers to request information, products, and services. We collect information about you only if you voluntarily provide contact information within these forms.
@@ -58,5 +58,5 @@ Bellingham, WA 98227-0010 USA
 Telephone: +1 888 504 8171 or +1 360 676 3290  
 Fax: +1 360 647 1445
 
-|  |   
+| |   
 ---|---|---
