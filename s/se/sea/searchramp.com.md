@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchramp.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612214406id_/http%3A//searchramp.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchramp.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130174630id_/http%3A//searchramp.com/Privacy.asp) for the most accurate reproduction.*
 
 # SearchRamp Privacy Policy
 
