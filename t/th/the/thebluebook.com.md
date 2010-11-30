@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebluebook.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426144437id_/http%3A//www.thebluebook.com/copywr.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebluebook.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130180620id_/http%3A//thebluebook.com/copywr.shtml) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
