@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522203355id_/http%3A//www.statistics.gov.uk/hub/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130122322id_/http%3A//www.statistics.gov.uk/hub/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy: UK National Statistics Publication Hub
 
@@ -27,4 +27,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/hub/help/index.html "Help") .
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/hub/help/index.html "Help").
