@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vblinkdir.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004309id_/http%3A//vblinkdir.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vblinkdir.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130194311id_/http%3A//vblinkdir.com/ppolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy Free Links
+# Privacy Policy Get Links
 
 | 
 
@@ -65,10 +65,8 @@ sdscripts.support @ gmail.com
 
 | 
 
-[](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=sdscripts-directories)
-
-| Active Users: | 14  
+| Active Users: | 4  
 ---|---  
 Accounts: | 0  
-Guests: | 14  
-Visits last 24h: | 416
+Guests: | 4  
+Visits last 24h: | 435
