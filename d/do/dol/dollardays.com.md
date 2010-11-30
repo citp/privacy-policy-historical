@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425061811id_/http%3A//www.dollardays.com/aboutus/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130163614id_/http%3A//www.dollardays.com/aboutus/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DollarDays
 
@@ -6,7 +6,7 @@
 
 PRIVACY POLICY
 
-DollarDays International, LLC Network's Privacy Policy
+DollarDays International, Inc. Privacy Policy
 
 Privacy Policy
 
@@ -17,7 +17,7 @@ Please note that Dollardays International has modified its Terms and Conditions 
 
 Overview
 
-The privacy practices of this statement apply to our services available under the domain and subdomains of [www.dollardays.com](http://www.dollardays.com/) (the "Site"). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site.   
+The privacy practices of this statement apply to our services available under the domain and subdomains of [dollardays.com](http://dollardays.com/) (the "Site"). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site.   
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about DollarDays practices so that you can make informed decisions. 
 
 By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the DollarDays User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on March 4th, 2008 for all users. 
