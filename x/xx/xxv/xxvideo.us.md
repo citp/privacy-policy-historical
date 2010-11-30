@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxvideo.us privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522030552id_/http%3A//www.xxvideo.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxvideo.us privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130233003id_/http%3A//www.xxvideo.us/privacy) for the most accurate reproduction.*
 
 # xxvideo.us Privacy Policy
 
