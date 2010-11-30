@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231151534id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130141814id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
 # XtraOrbit.Com :: Company Profile :: Privacy Policy :: E-Gold, MoneyBookers, PayPal, Liberty Reserve, AlertPay, Google CheckOut and Credit Cards Accepted.
 
@@ -57,6 +57,8 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
   
 |  |   
   
+[](http://www.xtraorbit.com/core/hosting/vps.php)
+
 [](http://www.xtraorbit.com/core/hosting/dedicated-servers.php)
 
 | [](http://www.xtraorbit.com/core/about/moneybookers.php)  
