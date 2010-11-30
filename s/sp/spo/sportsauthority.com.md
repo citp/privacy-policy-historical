@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329205321id_/http%3A//www.sportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130153718id_/http%3A//www.sportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Sports Authority Helpdesk
 
@@ -52,7 +52,7 @@ You can correct account data by clicking on "Manage My Account" within the Help 
 
 Receiving Promotions/Opt-Out
 
-From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email by completing the Customer Feedback Form in the Helpdesk section or call us toll-free at 1.888.801.9164 and inform us that you want to unsubscribe to our email list.
+From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, click the "If you no longer wish to receive our email updates, please click here" link at the bottom of any promotional email we send you. You can also send an email by completing the Customer Feedback Form in the Helpdesk section or call us toll-free at 1.888.801.9164 and inform us that you want to unsubscribe to our email list.
 
 Customer Service
 
