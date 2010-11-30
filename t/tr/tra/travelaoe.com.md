@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelaoe.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617103252id_/http%3A//www.travelaoe.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelaoe.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130094320id_/http%3A//www.travelaoe.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - www.travelaoe.com
 
