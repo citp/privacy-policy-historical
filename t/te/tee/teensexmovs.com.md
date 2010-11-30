@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensexmovs.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607010516id_/http%3A//www.teensexmovs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensexmovs.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130171727id_/http%3A//teensexmovs.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
