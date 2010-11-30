@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alshop.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327051442id_/http%3A//www.alshop.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alshop.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130063507id_/http%3A//www.alshop.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ ALshop.com gives you the ability to edit your Account Information and preference
 
 Your information is password-protected. In order to maintain this protection, we caution you not to provide your password to anyone. We do not give your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Signing off will protect your information if you share a computer with someone else or are using a computer in a public place.
 
-#### "Cookies" 
+#### "Cookies"
 
 A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
 
@@ -56,7 +56,7 @@ A cookie is a text-only string of information that a website transfers to the co
 
 To compile anonymous, aggregated statistics that allow us to understand how users use our Website and to help us improve the structure of our Website. We cannot identify you personally in this way.
 
-#### Disabling / Enabling Cookies 
+#### Disabling / Enabling Cookies
 
 You can accept or decline "cookies" by modifying the setting in your browser. Please note that if you disable "cookies" you may not be able to use all the features of our Website.
 
@@ -74,5 +74,4 @@ If you have any questions or concerns about this Privacy Statement or how we use
 
 Meast E-Commerce Trading LLC  
 102, Al Owais Building, Above Axis Bank Karama Branch, Near GPO, Karama, Dubai - UAE.  
-PO Box 283641, Dubai, UAE.  
-
+PO Box 283641, Dubai, UAE.
