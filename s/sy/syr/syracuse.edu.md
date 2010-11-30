@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syracuse.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085932id_/http%3A//www.syracuse.edu/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syracuse.edu privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130014955id_/http%3A//www.syracuse.edu/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
