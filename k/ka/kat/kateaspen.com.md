@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kateaspen.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522155932id_/http%3A//www.kateaspen.com/Documents/Documents.aspx%3Fid%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kateaspen.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130211921id_/http%3A//www.kateaspen.com/Documents/Documents.aspx%3Fid%3D26) for the most accurate reproduction.*
 
 # Privacy Policy
 
