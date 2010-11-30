@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whirlwindtraffic.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525233245id_/http%3A//www.whirlwindtraffic.com/yourprivacy.php%3Frid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whirlwindtraffic.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130141339id_/http%3A//www.whirlwindtraffic.com/yourprivacy.php%3Frid%3D) for the most accurate reproduction.*
 
 # Whirlwind Traffic - Privacy Policy
 
