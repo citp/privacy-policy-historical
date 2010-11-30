@@ -1,26 +1,12 @@
-> *The following text is extracted and transformed from the tellapart.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614055818id_/http%3A//tellapart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellapart.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130173505id_/http%3A//www.tellapart.com/privacy) for the most accurate reproduction.*
 
-# TellApart, Inc. - Privacy Policy
+# Privacy Policy | TellApart
 
-### This Privacy Policy is effective as of October 15, 2008
-
-**Table of Contents**
-
-1\. Site Privacy Policy
-
-2\. Information Collection and Use
-
-3\. Information Storage and Security
-
-4\. Information Sharing and Disclosure
-
-5\. Opt-out of Information Collection
-
-6\. General Information
+### This Privacy Policy is effective as of April 12, 2010
 
 TellApart Inc. ("TellApart") provides e-commerce sites and advertisers ("Business Partners") access to a set of technologies and processes designed to display advertisements to consumers viewing a publisher's website(s) (the "TellApart Ads").
 
-This Privacy Policy describes Turn's privacy practices as they pertain to (i) visitors to our website located at www.TellApart.com (our "Site"), and (ii) our targeted advertising technology service ("Technology").
+This Privacy Policy describes TellApart's privacy practices as they pertain to (i) visitors to our website located at www.TellApart.com (our "Site"), and (ii) our targeted advertising technology service ("Technology").
 
 If you have any questions about this Privacy Policy, please feel free to contact us at [info@TellApart.com](mailto:info@TellApart.com).
 
@@ -95,5 +81,3 @@ This privacy policy is subject to change. If we make any material or substantive
 _Contact Information_
 
 For questions or concerns relating to privacy, please send us an email at [info@TellApart.com](mailto:info@TellApart.com). Alternatively, you may contact us at: TellApart Inc., 1409 Chapin Ave., Third Floor, Burlingame, CA 94010
-
-Copyright © 2010 TellApart Inc.
