@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepaperexperts.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628234459id_/http%3A//www.thepaperexperts.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaperexperts.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130090025id_/http%3A//www.thepaperexperts.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy : Custom Term Paper Assignments : Term Paper Outline : The Paper Experts
 
