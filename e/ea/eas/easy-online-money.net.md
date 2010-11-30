@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-online-money.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210437id_/http%3A//www.easy-online-money.net/%3Fpage_id%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-online-money.net privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130220336id_/http%3A//www.easy-online-money.net/%3Fpage_id%3D31) for the most accurate reproduction.*
 
 # privacy policy | Web Design Secrets
 
