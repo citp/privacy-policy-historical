@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vbulletin.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102173027id_/http%3A//www.vbulletin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbulletin.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130052638id_/http%3A//www.vbulletin.com/privacy.php) for the most accurate reproduction.*
 
 # vBulletin Privacy Policy
 
 We are committed to safeguarding your privacy online. This Privacy Policy applies to your information that we collect and receive on and through this Site; it does not apply to practices of businesses that we do not own or control or people we do not employ.
 
-At no time will we sell or otherwise distribute your information or your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself. 
+At no time will we sell or otherwise distribute your information or your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
 By using this Site, you agree to the terms of this Privacy Policy. Please read the following Privacy Policy to understand how your personal information will be treated as you use this Site and its services. The following discloses our information gathering and dissemination practices.
 
@@ -16,18 +16,16 @@ If you browse through this Site without entering any personal data, we will gath
 
 ## Information Collected
 
-We collect the email addresses of consumers who communicate with us via email. We also collect information provided to us by consumers who purchase our software products, vBulletin Forum and vBulletin Publishing Suite, or services (collectively, “Purchase Information”). Collected Purchase Information includes the following: name, address, email address, telephone number and country. We do not collect credit card information or other sensitive financial information for orders placed online.
+We collect the email addresses of consumers who communicate with us via email. We also collect information provided to us by consumers who purchase our software products, vBulletin Forum and vBulletin Suite, or services (collectively, “Purchase Information”). Collected Purchase Information includes the following: name, address, email address, telephone number and country. We do not collect credit card information or other sensitive financial information for orders placed online.
 
-Other than wire transfer purchases, which we process directly, all financial transactions on this Site are processed on our behalf by PayPal, WorldPay, PayPoint or AliPay (China vBulletin only). For information regarding the privacy policies of those companies, please refer to the following:
+Other than wire transfer purchases, which we process directly, all financial transactions on this Site are processed on our behalf by PayPal or WorldPay. For information regarding the privacy policies of those companies, please refer to the following:
 
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside>  
-<http://www.paypoint.net/information/privacy-policy/>  
-[http://www.worldpay.com/about_us/index.php?page=privacy&c=UK](http://www.worldpay.com/about_us/index.php?page=privacy&c=UK)  
-<https://www.alipay.com/> (vBulletin China only)
+[http://www.rbsworldpay.com/about_us/index.php?page=privacy&c=UK](http://www.rbsworldpay.com/about_us/index.php?page=privacy&c=UK)
 
 If you request remote support services, such as technical support or software installation or upgrades, we may collect certain information required to fulfill your request. Remote support services often require sharing required server access details, such as username or password information in order to allow remote access. This allows our customer support team to access your server or software control panel in order to diagnose a problem or complete an upgrade or installation. By taking advantage of these services, you give permission to us and our customer support team to log in to your website server or software control panel, which may contain personal information.
 
-All electronic communications received, either via email to non-personal addresses such as sales@vbulletin.com and support@vbulletin.com, or via the online contact system, including the technical support “ticket” system, are logged and retained for a period of up to eighteen (18) months from the date of receipt. Communications from existing Site customers are automatically linked to their respective customer account. Secure information (including usernames, passwords and server details) submitted either via the “secure details” area of the online ticket system, or via the professional installation worksheet, are deleted from the database ten (10) days after the ticket has been “closed” or the installation or upgrade has been completed. 
+All electronic communications received, either via email to non-personal addresses such as sales@vbulletin.com and support@vbulletin.com, or via the online contact system, are logged and retained for a period from the date of receipt, until such time as information is no longer needed or required by law. Communications from existing Site customers are automatically linked to their respective customer account. Secure information (including usernames, passwords and server details) submitted via the professional installation worksheet, are deleted from the database 30 days after the installation has been completed, whichever is earlier.
 
 All information provided by consumers in any of the above-listed ways or otherwise becomes the property of vBulletin Solutions, Inc. once received and may be used and disclosed as permitted by this Privacy Policy. We share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve Site user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others’ information and prepare reports on Site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally-identifying information.
 
@@ -35,7 +33,7 @@ We may use your personal information to send you email communications regarding 
 
 We do not share, sell, trade or rent your personal information to third parties for unknown reasons.
 
-You may at any time choose not to receive promotional emails from us by contacting us at sales@vbulletin.com. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
+You may at any time choose not to receive promotional emails from us by changing the setting in your customer account or by contacting us at sales@vbulletin.com. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
 If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at sales@vbulletin.com.
 
@@ -63,4 +61,4 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 vBulletin.com
 
-Revised: 9/25/2009
+Revised: 06/16/2010 
