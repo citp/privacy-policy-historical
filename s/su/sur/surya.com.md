@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surya.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512235255id_/http%3A//surya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surya.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130164224id_/http%3A//surya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Surya
 
