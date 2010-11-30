@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329140107id_/http%3A//www.wendys.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130051822id_/http%3A//wendys.com/privacy.jsp) for the most accurate reproduction.*
 
 # Wendy's
 
 |  |   
   
-  *   * [CONTACT US](https://web.archive.org/web/20100329140107id_/http%3A//www.wendys.com/contact.jsp)
-  * [PRIVACY STATEMENT](https://web.archive.org/web/20100329140107id_/http%3A//www.wendys.com/privacy.jsp)
-  * [LEGAL](https://web.archive.org/web/20100329140107id_/http%3A//www.wendys.com/legal.jsp)
+  *   * [CONTACT US](https://web.archive.org/web/20101130051822id_/http%3A//wendys.com/contact.jsp)
+  * [PRIVACY STATEMENT](https://web.archive.org/web/20101130051822id_/http%3A//wendys.com/privacy.jsp)
+  * [TERMS & CONDITIONS](https://web.archive.org/web/20101130051822id_/http%3A//wendys.com/legal.jsp)
 
 |  | 
 
