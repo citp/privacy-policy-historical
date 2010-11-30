@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328012611id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130235045id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VitaDigest - The Vitamins Supplement and Sports Nutrition SuperStore - 1-877-848-2168 Privacy Policy
 
 | | |   
 ---|---|---  
-**WELCOME TO VITADIGEST.COM** [](http://www.truste.org/ivalidate.php?url=www.vitadigest.com&sealid=101)
+**WELCOME TO VITADIGEST.COM**
 
-****PRIVACY POLICY****
+ ** **PRIVACY POLICY****
 
-At Vitadigest.com, your privacy is our top priority. Please read our privacy policy details. This privacy statement discloses the privacy and security practices for Vitadigest.com website.
+At VitaDigest.com, your privacy is our top priority. Please read our privacy policy details. This privacy statement discloses the privacy and security practices for VitaDigest.com website.
 
  **Overview**   
 Our Internet Superstore allows you to buy products and services, receive special discounts, fill out surveys, and receive e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This policy may change from time to time, so please check back periodically. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
- **Truste Licensee**
-
-Vitadigest.com is a licensee of TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Vitadigest.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to explain the following regarding the use of our site:
+VitaDigest.com is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This website has agreed to explain the following regarding the use of our site:
 
  **1.** What information does vitadigest.com collect from you?   
 **2.** Where do we collect information from you and how do we use it?   
@@ -36,7 +34,7 @@ Attn: Privacy Compliance Officer
 VITADIGEST.COM, Inc.   
 20687-2 Amar Rd. #258   
 Walnut CA 91789
-If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+
 
 * * *
 
@@ -178,7 +176,7 @@ VITADIGEST.COM, Inc.
 Walnut CA 91789
 You may also contact us by e-mail at [privacy@vitadigest.com](mailto:privacy@vitadigest.com)
 
-Last Updated: 10/24/2009
+Last Updated: 09/29/2010
 
 Back to Top
 
