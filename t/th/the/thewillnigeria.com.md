@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewillnigeria.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503141741id_/http%3A//thewillnigeria.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewillnigeria.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130104410id_/http%3A//thewillnigeria.com/policy.html) for the most accurate reproduction.*
 
 # THEWILL - Privacy Policy
 
@@ -24,4 +24,4 @@ From time to time we partner with third party service providers to offer additio
 
 Changes to our Privacy Policy:
 
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. For any questions or comments concerning thewillnigeria.com Privacy Policy, please send email to [publisher@thewillnigeria.com](mailto:publisher@thewillnigeria.com).
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. For any questions or comments concerning thewillnigeria.com Privacy Policy, please send email to [info@thewillnigeria.com](mailto:info@thewillnigeria.com).
