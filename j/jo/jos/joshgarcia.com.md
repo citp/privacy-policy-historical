@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601073854id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130150031id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Josh Garcia.com Business Building Blog
+# Privacy Policy | JoshGarcia.com
 
 JoshGarcia.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
