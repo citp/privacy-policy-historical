@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlosstriumph.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509175303id_/http%3A//www.weightlosstriumph.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlosstriumph.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130035040id_/http%3A//www.weightlosstriumph.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We collect information from you when you register on our site.
 
 When registering on our site, as appropriate, you may be asked to enter your: name and e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -53,7 +53,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children's Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. **Terms and Conditions**
 
@@ -67,7 +67,7 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on May 11 2009
+This policy was last modified on Nov 24 2010
 
 [http://www.weightlosstriumph.com/contact](http://www.weightlosstriumph.com/contact)  
  
