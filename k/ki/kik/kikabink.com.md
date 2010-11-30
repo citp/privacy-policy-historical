@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628221820id_/http%3A//www.kikabink.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130144618id_/http%3A//www.kikabink.com/privacy.htm) for the most accurate reproduction.*
 
 # Kikabink - Privacy Policy
 
-[Home](http://www.kikabink.com/indexb.htm) > Privacy Policy
+[Home](http://www.kikabink.com/) > Privacy Policy
 
-Last updated: 13 March 2009
+Last updated: 14 August 2010 
 
 **1\. Protecting your privacy**
 
@@ -135,5 +135,3 @@ Kikabink reserves the right to charge a fee for searching for and providing acce
 **9\. How to contact us**
 
 If you have any questions in relation to privacy, please write to us or call Kikabink between 9.00am and 5.00pm, Monday to Friday, Australian Eastern time.
-
-Back To Top
