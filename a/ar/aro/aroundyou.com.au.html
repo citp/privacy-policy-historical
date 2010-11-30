@@ -1,0 +1,538 @@
+<!--The following is the downloaded HTML source of the aroundyou.com.au privacy policy that was archived on 2010-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130120148id_/http%3A//www.aroundyou.com.au/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>AroundYou.com.au | Privacy</title>
+<meta content="Find, create and share local events and activities AroundYou. Browse through 1000’s of local events from music, sport, theatre, kids events, community and cultural events and more." name="description">
+<meta content="aroundyou, what's on, local events, events, concerts, festivals, theatre, family, community, cultural, activities, local activities, make it happen, causes, charity, activism" name="keywords">
+	
+	<link href="/stylesheets/base.css?1290687331" media="screen" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/style.css?1290687331" media="screen" rel="stylesheet" type="text/css">
+
+	<link href="/stylesheets/jquery.autocomplete.css?1290687331" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/form.css?1290687331" media="screen" rel="stylesheet" type="text/css">
+	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.form.js?1290687331" type="text/javascript"></script>
+	<script src="/javascripts/jquery.example.js?1290687331" type="text/javascript"></script>
+<script src="/javascripts/jquery.cookie.js?1290687331" type="text/javascript"></script>
+	<!--[if lt IE 7]>
+			<link href="/stylesheets/ie.css?1290687331" media="screen" rel="stylesheet" type="text/css" />
+			<script src="/javascripts/iepngfix_tilebg.js?1290687331" type="text/javascript"></script>
+	<![endif]-->
+	<!-- AddThis Button CONFIG -->
+	
+	<script src="/javascripts/cufon-yui.js?1290687331" type="text/javascript"></script>
+	<script src="/javascripts/Cooper_Black_400.font.js?1290687331" type="text/javascript"></script>
+<script src="/javascripts/vag-handwritten_400.font.js?1290687331" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+		Cufon.replace('.box_suggest h3, .comments h3, .box_suggest .hdg_green h4', { fontFamily: 'Cooper Black' });
+		Cufon.replace('.partners h3', {fontFamily: 'VAG-HandWritten'});
+	</script>
+	
+	<script type="text/javascript">
+	var addthis_config = {
+	username: "aroundyou",
+	ui_language: "en",
+	ui_click: true,
+	data_track_clickback: true
+	}
+	</script>
+	
+	<!-- AddThis Button CONFIG END -->
+
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?username=aroundyou"></script>
+
+	
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$('.hint').example(function() {
+		return $(this).attr('title'); 
+	});	
+
+			
+	if ($.cookie('fbNotificationBar') != 'closed'){
+		$("#fbNotificationBar").slideDown("slow");
+	}
+	
+	if ($.cookie('ie6') != 'ignore'){
+		$("#ie6_warn").show();
+	}
+	
+	if ($.cookie('searchNotificationBar') != 'closed'){
+		$("#searchNotificationBar").slideDown("slow");
+	}
+		
+		$('.header .now_showing a.trigger_popup').live("click", function(e){ 
+			e.preventDefault();
+			$('.popup_change_location').toggle();
+			//alert('test');
+
+		});
+		
+		
+
+			$('#search').submit(function(){ //listen for submit event		
+					if (postcode = $('input#suggest_suburb').val().match(/[0-9]{4}/)){
+					$('input#suggest_suburb').val(postcode);			
+					}
+					return true;
+			
+
+
+			});
+		
+		var postcode_auto_complete = $("#suggest_suburb").autocomplete({
+						source: function(request, response) {
+							$.ajax({
+								url: "/postcodes/auto_complete_for_postcode.json",
+								dataType: "json",
+								data: {
+									q: request.term.split(',')[0]
+								},
+								success: function(data) {
+									if (data == null){
+									//postcode_auto_complete.removeClass( "ui-autocomplete-loading" );
+									postcode_auto_complete.autocomplete( 'close' );
+									//$('#search_error').html("No matches for " + "<strong>" + request.term + "</strong>, try a postcode or suburb");
+									}
+									response($.map(data, function(item) {
+										return {
+											label: item.postcode.description,
+											value: item.postcode.description,
+											id: item.postcode.location_id
+										}
+									}))
+								}
+							})
+						},
+						minLength: 4,
+						delay: 100,
+						select: function(event, ui) {
+							//log(ui.item ? ("Selected: " + ui.item.label) : "Nothing selected, input was " + this.value);
+							/*if ($('#location_id').length == 0){	
+								$('<input />').attr({type: 'hidden', 
+													id: 'location_id', 
+													name: 'location_id', 
+													value: ui.item.id}).appendTo('#search');
+								}
+								else {
+								$('#location_id').val(ui.item.id);
+								}*/
+						},
+						open: function() {
+							$(this).removeClass("ui-corner-all").addClass("ui-corner-top");
+						},
+						close: function() {
+							$(this).removeClass("ui-corner-top").addClass("ui-corner-all");
+						}
+					});
+					
+					$('.popup_change_location a.btn_close').click(function() {
+						$('.popup_change_location').toggle();
+						return false;
+					});
+					
+					$('.message_caution a.btn_close').click(function() {
+						$('#ie6_warn').hide();
+						$.cookie('ie6', 'ignore');
+						return false;
+					});
+					
+	$('.close_dialog').live('click', function(e){
+		e.preventDefault();
+		$(this).parent().fadeOut("slow");
+		$.cookie($(this).parent().attr('id'), 'closed');
+	});				
+	
+	$('.change_location_instruct').live('click', function(e){
+		e.preventDefault();
+		$('.popup_change_location').show();
+		$('html, body').animate({scrollTop:0}, 'slow');
+	});
+					
+
+					
+					
+		
+	});
+	</script>
+  </head>
+  <body>
+	<div id="ajax-status"></div>
+	<div id="message_top" class="message_global top message_positive" style="display:none;">
+	
+	</div>
+	
+	
+
+
+	
+			<div class="col_100 header">
+	        	<div class="wrapper_inner_top"> 
+	            	<div class="col_100 logo">
+	                	<h1><a href="http://www.aroundyou.com.au/"><img alt="AroundYou.com.au" class="img_logo" height="30" src="/images/logo_aroundyou.gif?1290687331" width="340"></a></h1>
+		                	<img alt="Find, create and share local events and activities" class="img_fcs" height="20" src="/images/hdg_find_create_share.gif?1290687331" width="577">
+	                </div>
+
+	            <div class="header_bottom">
+	                	<div class="now_showing">
+	<div class="location_pane">
+		<div class="postcode_change">
+			<h3>7000</h3>
+			<a href="http://www.aroundyou.com.au/" class="change_location trigger_popup">change location</a>
+		</div>
+		<div class="postcode_details pngfix"><h4>You are looking around...</h4>
+			<div class="spacer"></div>
+			<small>WEST HOBART, NORTH HOBART, MOUNT STUART, HOBART, GLEBE</small>
+		</div>
+	</div>
+	<div class="popup_change_location">
+<h3>Select a location</h3>
+<div class="cont">
+<div class="select_new_location">
+		<h5>Pick a new location</h5>
+<form action="/privacy" id="search" method="get" name="form_location_search">		<input class="placeholder hint" id="suggest_suburb" name="set_location" title="Enter suburb" type="text"><input class="btn_go" type="submit" value="go">
+</form>    	<span class="note">Enter a postcode or suburb</span>
+	</div>
+	<div class="select_from_session">
+		<h5>Or pick a recent location</h5>
+	<strong><a href="/privacy?set_location=7000">7000</a></strong>
+  	<small>WEST HOBART, NORTH HOBART, MOUNT STUA...</small><br>
+	<strong><a href="/privacy?set_location=6000">6000</a></strong>
+  	<small>PERTH</small><br>
+	<strong><a href="/privacy?set_location=4810">4810</a></strong>
+  	<small>ROWES BAY, RAILWAY ESTATE, WEST END, ...</small><br>
+	<strong><a href="/privacy?set_location=2601">2601</a></strong>
+  	<small>CITY, CANBERRA, BLACK MOUNTAIN, ACTON</small><br>
+	<strong><a href="/privacy?set_location=2340">2340</a></strong>
+  	<small>TAMWORTH, GOWRIE, DUNGOWAN, CALALA, N...</small><br>
+	</div>
+    <a class="btn_close">close</a>
+</div>
+</div><!--End of popup_change_location-->
+</div><!--End of now_showing-->
+						<div class="actions">  
+						<a href="/signin" class="top_link signin">sign in</a>   
+						<form action="/user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="pJpFw2LBbLRJn8x0hEpj1zPWBrAXsrvBOiYarp2m+VM="></div><input class="facebook_login" id="user_submit" name="login_with_oauth2" type="submit" value="Login using Facebook"></form>     
+						</div>
+		            </div>
+	               </div>
+				
+
+
+	        </div><!--End of header-->
+	        <div class="col_100 main internal">
+	        	<div class="wrapper_inner_top">
+	        		<div class="top_nav">
+					<!-- InstanceBeginEditable name="top nav" -->
+	        		  <ul class="navlist">
+		
+		    		      
+							    <li><a href="http://www.aroundyou.com.au/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/events/happening" class="">What's On</a></li>
+			        		    	<li class="places"><a href="http://www.aroundyou.com.au/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/places" class="">Places to Go</a></li>
+
+			        		    	<li class="make_it_happen"><a href="http://www.aroundyou.com.au/all/causes" class="">Make it Happen!</a></li>
+										
+									 <li class="around_me"><a href="http://www.aroundyou.com.au/join" class="">Join!</a></li>
+								
+									<li class="create_object"><a href="http://www.aroundyou.com.au/events/new" class="pngfix" rel="nofollow">Add Event</a></li>
+									 
+
+
+
+									<li class="search_global">
+										
+<form action="http://www.aroundyou.com.au/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/events/happening" method="get" name="form_search">				                       	<input class="placeholder hint" id="q" name="q" title="eg. Yoga or Jazz" type="text">
+										<input class="btn_go_sml" type="submit" value="Go">
+</form>										
+
+									</li>
+
+	      		    </ul>
+	       		    <!-- InstanceEndEditable --></div><!--End of top_nav-->
+
+	            	<div class="col_100 main_cont"> 
+			
+	                	<div class="col_L">
+							
+								
+								
+
+						
+		
+	                        <div id="breadcrumbs">
+					  		<!-- InstanceBeginEditable name="breadcrumb" -->
+							<ul><li><a href="http://www.aroundyou.com.au/">home</a></li><li class="last_crumb">privacy</li></ul>
+	                        <!-- InstanceEndEditable -->
+	                        </div><!--End of breadcrumb-->
+	                        <!-- InstanceBeginEditable name="main column content" -->
+					
+ 					
+					
+					
+					
+					
+					<noscript>
+						<div class='message_caution pngfix'>
+							<h3>Please enable JavaScript</h3>
+							<p>In order to view this page properly you must enable JavaScript</p>
+						</div>
+				</noscript>
+	<!--[if IE 6]>
+		<div class='message_caution' id ='ie6_warn'>
+			<h3>Hello...  You may want to upgrade your browser</h3><a class="btn_close">close</a><br/><br/>
+				<p>You are using an old version of Internet Explorer.  While we try to support all browsers, AroundYou will work better if you upgrade or select another browser.</p>
+				
+					<p><a href='http://www.microsoft.com/windows/internet-explorer/default.aspx' target='_blank'>Upgrade to Internet Explorer 8</a></p>
+					<p><strong>The following browsers are recommended</strong></p>
+					<ul>
+					<li><a href='http://www.firefox.com' target='_blank'>Get Mozilla Firefox!</a></li>
+					<li><a href='http://www.apple.com/safari/' target='_blank'>Get Apple Safari!</a></li>
+					<li><a href='http://www.google.com/chrome/' target='_blank'>Get Google Chrome!</a></li>
+					</ul>
+
+		</div>
+	<![endif]-->
+
+	<div id="content_container">
+<div class="top_spacer"></div>
+<div class="info no_border">
+	<h2>AroundYou Privacy Policy</h2>
+<div><p>The AroundYou privacy policy governs the use of information that may be collected from you when you visit the AroundYou website. The AroundYou privacy policy forms part of our commitment to the Privacy Act 1988 (Cth).</p>
+
+<p>This policy policy tells you how we use personal information collected at the AroundYou website. Please read this privacy policy before using this website or submitting any personal information either directly or indirectly. By using the website, you are accepting the practices described in this privacy policy. AroundYou may change these practices at any time but such changes will only apply to activities and information on a going forward, not a retroactive basis. You are encouraged to review the privacy policy whenever you visit the website to make sure that you understand how any personal information you provide will be used.</p>
+
+<p><strong>Note:</strong> the privacy practices set forth in this privacy policy are for the AroundYou website only. If you link to other websites, please review the privacy policies posted at those sites.</p></div>
+</div>
+<div class="section">
+<h3>Collection of Information</h3>
+<div><p>AroundYou may collect personally identifiable information, like names, email addresses etc., when voluntarily submitted by visitors to the AroundYou website. The information you provide is used to fulfil your specific request, in addition to adding you to our mailing list unless you specifically request removal from such a list. AroundYou has the right to use the information you provide to assist it in growing its business and to use such information to encourage other users to visit and use the website.</p></div>
+</div>
+
+<div class="section">
+<h3>Cookie/Tracking Technology</h3>
+<div><p>When visiting the website, a record of your visit is logged and such record may be used to assist AroundYou in enhancing your future search activities during subsequent visits to the website. The website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the website and understanding how visitors use the site. Cookies can also help customise the website for our visitors and helps us identify you as an individual. Personal information is not collected by cookies or other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. Most browsers are set up to accept cookies to enhance a users experience with the website, but if your browser permits it, you can elect to have your browser reject cookies which includes cookies affiliated with the AroundYou website.</p></div>
+</div>
+
+<div class="section">
+<h3>Distribution of Information</h3>
+<div><p>We may share information with government agencies or other companies assisting us in fraud prevention, minimising inappropriate behaviour over the internet or such other relevant investigation or reporting deemed appropriate by AroundYou, or if required by law or regulation for some other enforceable purpose. In addition to providing this information if required by law or regulation, we may also provide it when trying to protect against or to prevent actual or potential fraud or unauthorised or inappropriate activities or when investigating fraud or such related matter that has already taken place. The information is not provided to any government agencies or fraud prevention/investigation companies for marketing purposes.</p>
+<p>If AroundYou believes you are submitting information that a reasonable person considers to be inappropriate for the wide audience of AroundYou website users, AroundYou reserves the right to forward your details to the appropriate authority that is considered to have statutory, regulatory or voluntary stewardship of the governance practices of on-line content as it pertains to the broad activities of AroundYou.</p></div>
+</div>
+
+<div class="section">
+<h3>Commitment to Data Security</h3>
+<div><p>Your personally identifiable information is kept secure to the extent that all reasonable efforts are made to prevent unauthorised access to our store of data. Only authorised employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. AroundYou does not keep any details of your credit card or banking information even if you use the AroundYou website to link with other websites that require such information for booking or purchase purposes. AroundYou does not provide for the secure transmission of information across the internet. Users should be aware that there are risks associated with transmitting information across the internet and any information they provide or share with any individual or organisation could be used for purposes other than for which such sharing was originally intended. </p></div>
+</div>
+
+<div class="section">
+<h3>Privacy Contact Information</h3>
+<div><p>If you have any questions, concerns or comments about this privacy policy you may contact AroundYou using the information below</p>
+<p><strong>By email</strong> <a href="mailto:info@aroundyou.com.au">info@aroundyou.com.au</a></p>
+<p><strong>By phone</strong> 02 9299 6811 </p>
+<p><strong>International</strong> +61 2 92996811</p></div>
+</div>
+
+</div>
+
+
+	                    </div><!--End of col_L-->
+
+	                    <div class="col_R">
+						<!-- InstanceBeginEditable name="Right Column" -->
+	                     
+							
+							
+	                    <!-- InstanceEndEditable -->
+	                    </div><!--End of col_R-->
+
+
+	            
+	            
+	</div><!--End of main-->
+</div>
+
+	        <div class="col_100 footer">
+	       	  <div class="wrapper_inner_bottom"> 
+		        	<span>Copyright © 2010 Around You</span>
+	       		 <ul class="footer_links">
+	                	<li><a href="http://www.aroundyou.com.au/join">Join!</a></li>
+	                	<li><a href="http://www.aroundyou.com.au/contact">Contact Us</a></li>
+	                	<li><a href="http://www.aroundyou.com.au/about">About Us</a></li>
+	                	<li><a href="http://www.aroundyou.com.au/privacy">Privacy</a></li>
+	                	<li><a href="http://www.aroundyou.com.au/terms">Terms &amp; Conditions</a></li>
+						<li class="last_li"><a href="http://blog.aroundyou.com.au">Blog</a>
+	              </li></ul>
+					<div class="social"><div style="width:235px;height:60px;overflow:hidden;float:left;"> <fb:like-box profile_id="133518726682348" width="235" stream="false" header="false" connections="0" height="60"></fb:like-box></div><a href="http://twitter.com/aroundyouevents" class="twitter pngfix" target="_blank">twitter</a></div>
+	            </div><!--End of footer_wrapper-->
+	        </div><!--End of footer-->
+			<div class="col_100 site_walk">
+				<div class="wrapper_inner_bottom">
+					<div class="more">
+    <h5>What's On...</h5>
+    <ul class="text_list">
+       <li class="arrow"><a href="/5000-hutt-street-station-arcade-rundle-mall-halifax-street-adelaide/events/happening">Adelaide</a></li>
+       <li class="arrow"><a href="/4000-spring-hill-brisbane/events/happening">Brisbane</a></li>
+       <li class="arrow"><a href="/2601-city-canberra-black-mountain-acton/events/happening">Canberra</a></li>
+       <li class="arrow"><a href="/0800-darwin/events/happening">Darwin</a></li>
+       
+		   
+     </ul>
+    <ul class="text_list">
+		<li class="arrow"><a href="/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/events/happening">Hobart</a></li>
+           	<li class="arrow"><a href="/3000-melbourne/events/happening">Melbourne</a></li>
+            <li class="arrow"><a href="/6000-perth/events/happening">Perth</a></li>
+			<li class="arrow"><a href="/2000-dawes-point-haymarket-millers-point-sydney-sydney-south/events/happening">Sydney</a></li>
+     </ul>   
+	 <ul class="text_list">
+			<li class="arrow"><a href="/3550-tysons-reef-bendigo-kennington-long-gully-north-bendigo/events/happening">Bendigo</a></li>
+            <li class="arrow"><a href="/2481-broken-head-byron-bay-suffolk-park-tyagarah/events/happening">Byron Bay</a></li>
+            <li class="arrow"><a href="/4870-manoora-kamerunga-earlville-cairns-orchid-plaza-whitfield/events/happening">Cairns</a></li>
+			<li class="arrow"><a href="/2300-bar-beach-cooks-hill-newcastle-newcastle-east-the-hill/events/happening">Newcastle</a></li>
+    </ul>  
+     <ul class="text_list">
+			<li class="arrow"><a href="/4217-surfers-paradise-main-beach-bundall-benowa/events/happening">Surfers Paradise</a></li>
+            <li class="arrow"><a href="/2340-tamworth-gowrie-dungowan-calala-nundle/events/happening">Tamworth</a></li>
+            <li class="arrow"><a href="/4810-rowes-bay-railway-estate-west-end-townsville-town-common/events/happening">Townsville</a></li>
+			<li class="arrow"><a href="/2500-coniston-gwynneville-keiraville-mangerton-mount-keira/events/happening">Wollongong</a></li>
+    </ul>
+</div><!--End of more-->
+
+<div class="more">
+    <h5>Places To Go...</h5>
+    <ul class="text_list">
+       <li class="arrow"><a href="/5000-hutt-street-station-arcade-rundle-mall-halifax-street-adelaide/places">Adelaide</a></li>
+       <li class="arrow"><a href="/4000-spring-hill-brisbane/places">Brisbane</a></li>
+       <li class="arrow"><a href="/2601-city-canberra-black-mountain-acton/places">Canberra</a></li>
+       <li class="arrow"><a href="/0800-darwin/places">Darwin</a></li>
+       
+		   
+     </ul>
+    <ul class="text_list">
+		<li class="arrow"><a href="/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/places">Hobart</a></li>
+           	<li class="arrow"><a href="/3000-melbourne/places">Melbourne</a></li>
+            <li class="arrow"><a href="/6000-perth/places">Perth</a></li>
+			<li class="arrow"><a href="/2000-dawes-point-haymarket-millers-point-sydney-sydney-south/places">Sydney</a></li>
+     </ul>   
+	 <ul class="text_list">
+			<li class="arrow"><a href="/3550-tysons-reef-bendigo-kennington-long-gully-north-bendigo/places">Bendigo</a></li>
+            <li class="arrow"><a href="/2481-broken-head-byron-bay-suffolk-park-tyagarah/places">Byron Bay</a></li>
+            <li class="arrow"><a href="/4870-manoora-kamerunga-earlville-cairns-orchid-plaza-whitfield/places">Cairns</a></li>
+			<li class="arrow"><a href="/2300-bar-beach-cooks-hill-newcastle-newcastle-east-the-hill/places">Newcastle</a></li>
+    </ul>  
+     <ul class="text_list">
+			<li class="arrow"><a href="/4217-surfers-paradise-main-beach-bundall-benowa/places">Surfers Paradise</a></li>
+            <li class="arrow"><a href="/2340-tamworth-gowrie-dungowan-calala-nundle/places">Tamworth</a></li>
+            <li class="arrow"><a href="/4810-rowes-bay-railway-estate-west-end-townsville-town-common/places">Townsville</a></li>
+			<li class="arrow"><a href="/2500-coniston-gwynneville-keiraville-mangerton-mount-keira/places">Wollongong</a></li>
+    </ul>
+</div><!--End of more-->
+               
+
+<div class="more last_block">
+    <h5>Make it Happen!</h5>
+    <ul class="text_list">
+       
+           <li class="arrow"><a href="/act/causes">ACT</a></li>
+           <li class="arrow"><a href="/nsw/causes">NSW</a></li>
+           <li class="arrow"><a href="/nt/causes">NT</a></li>
+			<li class="arrow"><a href="/qld/causes">QLD</a></li>
+			
+     </ul>
+	<ul class="text_list">
+		<li class="arrow"><a href="/sa/causes">SA</a></li>
+		<li class="arrow"><a href="/tas/causes">TAS</a></li>
+		<li class="arrow"><a href="/vic/causes">VIC</a></li>
+		<li class="arrow"><a href="/wa/causes">WA</a></li>
+	</ul>
+</div><!--End of more-->
+				</div><!--End of wrapper_inner-->
+				</div>
+				<div class="col_100 partners">
+				<div class="wrapper_inner_bottom">
+					<div class="partner">
+					<h3>proud to be partners with...</h3>
+					<a href="http://www.tacsi.org.au" class="tacsi" target="_blank">TACSI</a>
+				</div>
+			</div>
+		</div>
+		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+		<script type="text/javascript">
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId  : '313400224011',
+		      status : true, // check login status
+		      cookie : true, // enable cookies to allow the server to access the session
+		      xfbml  : true  // parse XFBML
+		    });
+		  };
+
+		  (function() {
+		    var e = document.createElement('script');
+		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		    e.async = true;
+		    document.getElementById('fb-root').appendChild(e);
+		  }());
+		
+
+			
+		</script>
+		
+		
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-18131290-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+		
+		<script type="text/javascript"><!--
+		reformal_wdg_domain    = "aroundyou";
+		reformal_wdg_mode    = 0;
+		reformal_wdg_title   = "AroundYou.com.au";
+		reformal_wdg_ltitle  = "Leave feedback";
+		reformal_wdg_lfont   = "'lucida grande',tahoma,verdana,arial,sans-serif";
+		reformal_wdg_lsize   = "12px";
+		reformal_wdg_color   = "#FFA000";
+		reformal_wdg_bcolor  = "#516683";
+		reformal_wdg_tcolor  = "#FFFFFF";
+		reformal_wdg_align   = "left";
+		reformal_wdg_charset = "utf-8";
+		reformal_wdg_waction = 0;
+		reformal_wdg_vcolor  = "#9FCE54";
+		reformal_wdg_cmline  = "#E0E0E0";
+		reformal_wdg_glcolor  = "#105895";
+		reformal_wdg_tbcolor  = "#FFFFFF";
+		reformal_wdg_bimage = "http://www.aroundyou.com.au/images/feedback.png";
+		 //-->
+		</script>
+		<script type="text/javascript" language="JavaScript" src="http://idea.informer.com/tab6.js"></script>
+
+
+
+
+	
+		<script type="text/javascript"> Cufon.now(); </script>
+
+		
+  
+
+
+
+
+</div></body></html>
