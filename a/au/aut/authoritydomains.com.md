@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authoritydomains.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329153609id_/http%3A//www.authoritydomains.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritydomains.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130084101id_/http%3A//www.authoritydomains.com/privacy.php) for the most accurate reproduction.*
 
 # Authority Domains : Privacy Policy
 
@@ -68,6 +68,6 @@ This policy was last modified on 3/30/2009.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [support@authoritydomains.com](mailto:)  
-866-854-1572
+(877) 481-4834
 
-Copyright © 2009 Authority Domains Inc 112 N. Curry St Carson City, NV 89703
+Copyright © 2010 Authority Domains Inc 112 N. Curry St Carson City, NV 89703
