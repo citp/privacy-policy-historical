@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526045108id_/http%3A//www.webs.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130114127id_/http%3A//www.webs.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Webs.com
 
 Last updated: February 19, 2010
 
-Webs is a website building and hosting service provided at [http://www.webs.com](http://webs.com/) and [http://www.freewebs.com](http://www.freewebs.com/) and its directly associated domains, widgets, tools, services and applications that are operated by Webs, Inc. (collectively, “Webs” or “Services”). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe. 
+Webs is a website building and hosting service provided at [http://www.webs.com](http://www.webs.com/ "free small business website") and [http://www.freewebs.com](http://www.freewebs.com/) and its directly associated domains, widgets, tools, services and applications that are operated by Webs, Inc. (collectively, “Webs” or “Services”). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe. 
 
 This "Privacy Policy" explains what information we gather from our users and how we use it. By using or accessing our Services, you are accepting the practices described in this Privacy Policy. (Capitalized terms not defined herein have the meaning set forth in our [Terms of Service](http://webs.com/pages/terms/)). 
 
@@ -31,18 +31,16 @@ Webs gathers and stores three types of information about users that are subject 
   
 
 
-  1. Information users provide to us: 
-
+  1. Information users provide to us:   
 These are voluntary submissions made when creating an account on Webs or through your use of the Services, such as your name, date of birth, location and email address provided during registration, Content posted, or payment information provided during purchases. Please understand that when you sign into Webs or post Content, your information is not anonymous to us.
+  
 
-  2. Information we collect when you interact with Webs: 
-
+  2. Information we collect when you interact with Webs:   
 We keep track of the actions you take on Webs, such as adding a friend, adding an application, or posting Content. Also, when you access our Services, we may collect information about your access method (such as hardware and software attributes), location, IP address, and pages you visit. In addition, we store certain information from your browser using “cookies”. (For more on cookies, please see the section "What are cookies?")
+  
 
-  3. Information we receive from third parties: 
-
+  3. Information we receive from third parties:   
 We do not own or operate the third-party applications, user websites and other services offered that you may use or interact with through Webs (collectively, “Webs-enhanced” applications, websites and services). Whenever you visit, use or interact with a Webs-enhanced application, website or service, we will receive information from them, including information about actions you take and Content you post on that application, website or service.
-
 
 
 
