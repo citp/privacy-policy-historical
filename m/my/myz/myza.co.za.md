@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myza.co.za privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606180535id_/http%3A//myza.co.za/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myza.co.za privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130140911id_/http%3A//myza.co.za/about/privacy) for the most accurate reproduction.*
 
 # MyZA - Privacy
 
