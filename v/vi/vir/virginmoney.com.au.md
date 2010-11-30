@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522151622id_/http%3A//virginmoney.com.au/money/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130134748id_/http%3A//virginmoney.com.au/money/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security | Virgin Money
 
 ## Privacy
 
+  
 What's Virgin Money's Privacy Policy all about?   
 What information do you hold about me?   
 What do you do with information about me?   
@@ -19,6 +20,7 @@ Is any of the information you collect required by law?
 
 ## Security
 
+  
 Is my personal information secure?   
 Are my online transactions secure?
 
@@ -27,7 +29,7 @@ This policy sets out how Virgin Money handles your personal information. It expl
 
 It also aims to answer all the questions you might have about how we collect, use and disclose your personal information.
 
-For the purposes of this Privacy Policy, "Virgin Money" means Virgin Money (Australia) Pty Limited (ABN 75 103 478 897) and each of its related bodies corporate, including Virgin Money Financial Services Pty Limited (ABN 51 113 285 395) & Virgin Money Home Loans Pty Ltd (ABN 81 117 183 623).
+For the purposes of this Privacy Policy, "Virgin Money" means Virgin Money (Australia) Pty Limited (ABN 75 103 478 897) and each of its related bodies corporate, including Virgin Money Financial Services Pty Ltd (ABN 51 113 285 395) & Virgin Money Home Loans Pty Ltd (ABN 81 117 183 623). Virgin Group Companies means entities which are related to Virgin Money (Australia) Pty Limited or which are otherwise licensed to use the “Virgin” name to carry on business.
 
 If you have any questions you can always call us on +61 2 8249 8000 or email us at [privacy@virginmoney.com.au](mailto:%70%72%69%76%61%63%79%40%76%69%72%67%69%6E%6D%6F%6E%65%79%2E%63%6F%6D%2E%61%75).
 
@@ -41,7 +43,7 @@ We collect this information to provide you with particular services. This includ
 
   * managing your account
   * sending you statements and other information
-  * letting you know about features of any rewards programs that may be part of your product (such as Mates Rates™)
+  * letting you know about features of any rewards programs that may be part of your product
   * responding to your questions
   * solving your problems
   * knowing what sorts of services are likely to be useful to you
@@ -54,21 +56,21 @@ We collect this information to provide you with particular services. This includ
 If you don't provide us with your personal information, we may not be able to provide you with all of our services. 
 
 **Do you ever send me advertising materials?**   
-From time to time, we would also like to let you know about other products and services from Virgin Money that you might be interested in. We might also want to let you know about products and services from other companies.
+From time to time, we would also like to let you know about other products and services from Virgin Money that you might be interested in. We might also want to let you know about products and services from Virgin Group Companies, partners and other companies.
 
-**What if I don't want to you to send advertising materials?**   
-That's fine. Just let us know by calling us on +61 2 8249 8000 or email us at [privacy@virginmoney.com.au](mailto:%70%72%69%76%61%63%79%40%76%69%72%67%69%6E%6D%6F%6E%65%79%2E%63%6F%6D%2E%61%75). You can choose either to hear only about Virgin Money products, or to not receive any marketing material at all. 
+**What if I don't want to receive advertising materials?**   
+That's fine. Just let us know by calling us on +61 2 8249 8000 or email us at [privacy@virginmoney.com.au](mailto:%70%72%69%76%61%63%79%40%76%69%72%67%69%6E%6D%6F%6E%65%79%2E%63%6F%6D%2E%61%75). You can choose either to hear only about Virgin Money products, or to not receive any marketing material at all.
 
 If you apply for any Virgin Money products and your application is declined, we may keep your details on file to let you know about future Virgin Money products.
 
 **Do you ever use my information for any other reason, or give my information to other companies?**   
-We don't give your personal information to any other companies for marketing purposes.
+We may sometimes share your information with other companies to deliver our products or services to you which may include marketing our own products. In these instances we only share that information necessary for the purposes in connection with the delivery of Virgin Money products and services unless you have provided consent.
 
-We may sometimes need to share your information with other companies to deliver a service to you.
-
-We also work with a range of service providers to help us run other aspects of our business efficiently. These include mail houses, IT consultants, and other financial services companies that we partner with to provide our products. While we share your information with them, these partners are not able to disclose it to others or use it for their own purposes.
+We work with a range of service providers to help us run other aspects of our business efficiently. These include mail houses, IT consultants, and other financial services companies that we partner with to provide our products and services. While we share your information with them, these partners are not able to disclose it to others or use it for purposes other than the delivery of Virgin Money products and services unless you have provided consent.
 
 We might also use your information or share it with other businesses if you give us your consent, if it's required by law or if we believe it's necessary to give you the service you expect.
+
+We don't give your personal information to other companies any other purposes not mentioned above. e.g. marketing non Virgin Money products and services.
 
 **Online links to Third Party and Co-Branded sites**   
 Virgin Money may establish relationships with business partners that allow visitors to our website to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
@@ -103,7 +105,7 @@ Any changes we make will abide by the Commonwealth Privacy Act 1988. And of cour
   * Superannuation Guarantee (Administration) Act 1992
   * Insurance Contracts Act 1986
   * Corporations Act 2001
-  * Consumer Credit (Queensland) Act 1994
+  * National Consumer Credit Protection Act 2009
 
 
 
