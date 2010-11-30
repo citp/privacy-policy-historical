@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503094608id_/http%3A//iamthetrend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130011705id_/http%3A//iamthetrend.com/privacy) for the most accurate reproduction.*
 
 # Privacy | I Am The Trend
+
+Posted October 25th _by_ Adam Hendle _in_
 
 Privacy Policy Statement  
 This is the web site of **iamthetrend.com.**
