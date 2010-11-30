@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601091139id_/http%3A//jpost.com/LandedPages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130150419id_/http%3A//jpost.com/LandedPages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # JPost | Privacy Statement
 
