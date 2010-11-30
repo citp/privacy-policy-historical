@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoftech.info privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528094653id_/http%3A//worldoftech.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoftech.info privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130194200id_/http%3A//worldoftech.info/privacy-policy) for the most accurate reproduction.*
 
 # World Of Technology: Privacy Policy
 
