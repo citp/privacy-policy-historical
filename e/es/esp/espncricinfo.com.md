@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the espncricinfo.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610111125id_/http%3A//www.cricinfo.com/ci/content/site/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espncricinfo.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130073830id_/http%3A//www.espncricinfo.com/ci/content/site/company/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy policy | Cricinfo.com
+# Privacy policy | ESPN Cricinfo
 
 **PRIVACY POLICY**
 
