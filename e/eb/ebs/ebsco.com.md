@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223185117id_/http%3A//www2.ebsco.com/en-US/app/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130085550id_/http%3A//www2.ebsco.com/en-us/app/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # EBSCO Information Services Privacy Policy
 
@@ -51,6 +51,8 @@ We collect the following information:
   * If a user makes a specific request for a one-time e-mail, we request the user's e-mail address to respond once, but the e-mail address is deleted immediately after responding. [Section 312.5(c)(2)] 
   * Where we do collect a user's e-mail address to respond more than once to a specific request (alerts), we do not allow children under 13 to participate. 
 
+
+
 We only use the non-personal, identifying information we collect for internal uses, such as improving and customizing our content. We do not link the information collected through cookies or other devices to personal information that users submit online while participating in our activities. 
 
 We will not share or distribute this information to any outside third parties not bound by this Privacy Policy. 
@@ -64,6 +66,8 @@ If you are a parent and would like to:
   * request that there be no further collection or use of your child's information 
   * or if you have questions about these information practices, 
 
+
+
 you may contact us at the address or telephone numbers listed above. 
 
 **F. How to Correct Information.**  
@@ -75,4 +79,4 @@ If you have any questions, comments or concerns regarding the EBSCO Information 
 **H. Changes to Privacy Policy.**  
 We will notify you of changes to the EBSCO Information Services Web site Privacy Policy by posting an updated policy on this page with a notification link to this page from the homepage or by a "News Box." You agree that continued use of the Web site is an acknowledgment and consent to any terms contained in the EBSCO Information Services Web site Privacy Policy, current at the time of use. 
 
-**I. Effective Date.** This policy was last updated on November 22, 2005. 
+**I. Effective Date.** This policy was last updated on November 22, 2005.
