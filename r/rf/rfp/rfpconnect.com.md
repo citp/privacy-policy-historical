@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfpconnect.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625010943id_/http%3A//www.rfpconnect.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfpconnect.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130115822id_/http%3A//www.rfpconnect.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy| RFPConnect
 
