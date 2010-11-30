@@ -1,66 +1,17 @@
-<!--The following is the downloaded HTML source of the sched.org privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619152810id_/http%3A//sched.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sched.org privacy policy that was archived on 2010-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130174326id_/http%3A//sched.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="">
-<meta name="verify-v1" content="qwbaObdzdZWrdu9G4KvAUGD+eLPZj38HYoLP/rhlBYo="><title>Privacy Policy /  Event Calendar &amp; Agenda Builder for Conferences &amp; Festivals</title>
+<meta name="verify-v1" content="qwbaObdzdZWrdu9G4KvAUGD+eLPZj38HYoLP/rhlBYo="><title>Social Scheduling For Events - Privacy Policy - SCHED*</title>
 <link rel="shortcut icon" href="favicon.ico">
-<link type="text/css" rel="stylesheet" href="/css/stylish.css?20091201">
+<link type="text/css" rel="stylesheet" href="/css/stylish.css?20101124-2">
 <link rel="stylesheet" href="/css/jquery.checkbox.css">
-		<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>		
 		<script type="text/javascript" src="/js/jquery.checkbox.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$('input:checkbox:not([safari])').checkbox();
-
-        // Sync Checkboxes + Recalc Total
-        $(":checkbox").bind("check uncheck", function(e) {
-          var pkg_name = e.target.name;
-          var pkg_state = e.target.checked;
-
-          // Linked Checking
-          $(":checkbox:[name='"+pkg_name+"']").attr("checked", pkg_state);
-
-          // JS Total
-          var total = 0;
-          $("#shopping-cart :checked").each( function(i) {
-            total += parseInt( $(this).parent().find("em").text().slice(1) );
-          });
-          $("#shopping-total em").text("$" + total);
-          $("#total").val(total);
-        });
-			});
-
-			displayForm = function (elementId)
-			{
-				var content = [];
-				$('#' + elementId + ' input').each(function(){
-					var el = $(this);
-					if ( (el.attr('type').toLowerCase() == 'radio'))
-					{
-						if ( this.checked )
-							content.push([
-								'"', el.attr('name'), '": ',
-								'value="', ( this.value ), '"',
-								( this.disabled ? ', disabled' : '' )
-							].join(''));
-					}
-					else
-						content.push([
-							'"', el.attr('name'), '": ',
-							( this.checked ? 'checked' : 'not checked' ), 
-							( this.disabled ? ', disabled' : '' )
-						].join(''));
-				});
-				alert(content.join('\n'));
-			}
-			
-			changeStyle = function(skin)
-			{
-				jQuery('#myform :checkbox').checkbox((skin ? {cls: skin} : {}));
-			}
-		</script>
+    <script type="text/javascript" src="/js/jquery.masonry.js"></script>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/ie8.css?20091122" /><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/ie7.css?20091122" /><![endif]--> 
 <!--[if IE 6]>
 <link rel="stylesheet" type="text/css" href="/css/ie6.css?20091122" />
@@ -68,24 +19,33 @@
 <![endif]--> 
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <script type="text/javascript">
-var userflyHost = (("https:" == document.location.protocol) ? "https://secure.userfly.com" : "http://asset.userfly.com");
-document.write(unescape("%3Cscript src='" + userflyHost + "/users/36683/userfly.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://secure.userfly.com/users/36683/userfly.js" type="text/javascript"></script>
-<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-19200789-1']);
+ _gaq.push(['_setDomainName', '.sched.org']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+</head>
 <body id="privacy"><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">press <a href="#" onclick="hideLightbox(); return false;"><kbd>x</kbd></a> to close</div></div></div>
+
+<div id="container-wrapper">
 	<div id="menu">
 	<div id="menu-inner">
 	
 	<ul>
-		    <li id="homelink"><a href="/">Home</a></li>
-			<li><a href="/tour">Product Tour</a></li>
-			<li><a href="/help">Help &amp; Support</a></li>
+		    <li id="homelink"><a href="/"><img src="/img/sched-logo2.png" alt="Sched Logo"></a></li>
+			<li><a href="/tour">Tour</a></li>
+			<li><a href="/help">Help</a></li>
 			<li><a href="/plans">Pricing &amp; Sign Up</a></li>
-			<li id="eventslink"><a href="/browse-events">Browse All Events</a></li>
+			<li id="eventslink"><a href="/browse-events">Browse Events</a></li>
 </ul>
 	</div><!-- menu-inner -->
 	</div><!-- menu -->
-<div id="container-wrapper">
 <div id="container">
     
 <h2>Privacy Policy</h2>
@@ -129,20 +89,6 @@ document.write(unescape("%3Cscript src='" + userflyHost + "/users/36683/userfly.
 <h3>Contact Us</h3>
 <p>If you have any questions about this policy or our site in general, please <a href="#contact">contact us</a> using the form below</p>
 
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-190514-12']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script');
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
-        'http://www') + '.google-analytics.com/ga.js';
-    ga.setAttribute('async', 'true');
-    document.documentElement.firstChild.appendChild(ga);
-  })();
-</script>
 
 <br style="clear:both">
 <a id="contact"></a>
@@ -196,7 +142,7 @@ function MM_validateForm() { //v4.0
           <label class="desc" for="from">Email: <input id="from" name="from" type="text" value="" maxlength="255" tabindex="3"></label>
         </li>
         <li>
-            <label class="desc" id="verify">Verify: <img src="/verificationimage?9504" alt="verification image, type it in the box" width="50" height="21" style="border:1px solid #FFC300;"> <input class="inputbox" tabindex="4" name="verif_box" type="text" id="verif_box">
+            <label class="desc" id="verify">Verify: <img src="/verificationimage?547" alt="verification image, type it in the box" width="50" height="21" style="border:1px solid #FFC300;"> <input class="inputbox" tabindex="4" name="verif_box" type="text" id="verif_box" style="margin:1px 0 0">
 </label>
 </li>
         <li>
@@ -214,17 +160,19 @@ function MM_validateForm() { //v4.0
     </form>
     </div>
     <div class="section" id="keepintouch">
-    <h3 id="phone">Phone<br><span><strong>262-724-6278</strong> (9am-8pm EST)</span></h3>
+         <a id="chat" href="http://bit.ly/schedchat" target="_blank">Live Chat<br><span>
+    Available When Green: <img height="9" width="9" style="padding:0 2px 0 0;margin:0;border:none" src="http://www.google.com/talk/service/badge/Show?tk=z01q6amlqaurb32aamj7ot29hvlj8r8c38lem08if2754j3mqmt9h161b8g0prq7paegnbmsfu81ocfalj5mhjie7leojfmnu9ug8ujaorb9q0tse4bl3jhqnirv7hmhk8ntrg62cq4pkdao6ivfh1lve4kk5vtladeo9tvktdcrbp66fas62sg6qcioaqjqsac&amp;w=9&amp;h=9" alt="Google Chat"></span></a>
+  
      <a id="twitter" href="http://twitter.com/sched">Twitter<br><span>Message or follow us <strong>@sched</strong></span></a>
-     <a id="chat" href="http://www.google.com/talk/service/badge/Start?tk=z01q6amlqaurb32aamj7ot29hvlj8r8c38lem08if2754j3mqmt9h161b8g0prq7paegnbmsfu81ocfalj5mhjie7leojfmnu9ug8ujaorb9q0tse4bl3jhqnirv7hmhk8ntrg62cq4pkdao6ivfh1lve4kk5vtladeo9tvktdcrbp66fas62sg6qcioaqjqsac" target="_blank">Instant Message<br><span>
-    Google Talk: SCHEDCHAT  <img height="9" width="9" style="padding:0 2px 0 0;margin:0;border:none" src="http://www.google.com/talk/service/badge/Show?tk=z01q6amlqaurb32aamj7ot29hvlj8r8c38lem08if2754j3mqmt9h161b8g0prq7paegnbmsfu81ocfalj5mhjie7leojfmnu9ug8ujaorb9q0tse4bl3jhqnirv7hmhk8ntrg62cq4pkdao6ivfh1lve4kk5vtladeo9tvktdcrbp66fas62sg6qcioaqjqsac&amp;w=9&amp;h=9" alt="Google Chat"></span></a>
-   
+     
+       <h3 id="phone">Phone<br><span><strong>262-724-6278</strong> (9am-8pm EST)</span></h3>
+
     </div>
     <div class="section" id="section-news">
          <h3 id="subscribe">Newsletter</h3>
          <p>Sign up for our quarterly newsletter to receive planning tips, access to new resources &amp; exclusive discounts</p>
 
-<form action="http://sched.list-manage.com/subscribe/post" method="post"> 
+<form action="http://sched.list-manage.com/subscribe/post" method="post" optify_submit="true"> 
 <input type="hidden" name="u" value="e1b2d3785fe7c1813dc400d74"> 
 <input type="hidden" name="id" value="9a24f5d5df"> 
     <label id="emaillable" for="MERGE0">Email:</label>  
@@ -244,7 +192,7 @@ function MM_validateForm() { //v4.0
     <br style="clear:both">
     
     <div class="moreinfo">
-SCHED © 2009 • 
+SCHED © 2008-2010 • 
 <a href="/terms">Terms of Service</a> •  
 <a href="/privacy">Privacy Policy</a> •  
 <a href="/api">API</a> 
@@ -260,5 +208,15 @@ SCHED © 2009 •
 </div>
 </div>
 </div>
+
+<!-- Begin Optify Tracking Code. Please place immediately before closing </BODY> tag -->
+<script type="text/javascript">
+var optJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + optJsHost + 
+"service.optify.net/opt.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://service.optify.net/opt.js" type="text/javascript"></script>
+<script type="text/javascript"> try { _opt.view("MZQEKQ40"); } catch(err) {} </script>
+<!-- End Optify Tracking Code. Please place immediately before closing </BODY> tag -->
+
 
 </body></html>
