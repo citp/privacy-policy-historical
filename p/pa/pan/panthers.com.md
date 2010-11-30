@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601091522id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130061640id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Carolina Panthers | Privacy Policy
 
@@ -6,22 +6,19 @@
 
 #### Carolina Panthers Website Privacy Policy
 
- _Revised August 17, 2007_
+_Revised November 15, 2010_
 
-[ ](http://www.truste.org/ivalidate.php?url=www.panthers.com&sealid=102)This privacy policy applies to the Carolina Panthers website located at www.panthers.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.panthers.com/seal_m "Validate TRUSTe privacy certification")This privacy policy applies to the Carolina Panthers website located at www.panthers.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by Panthers Football LLC.
 
-Panthers Football LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.panthers.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com) or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Panthers Football LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com) or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
 
 The Website complies with EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
-Please read the information below to learn more about our data collection policies and practices.  
-
+Please read the information below to learn more about our data collection policies and practices.
 
   1. [Types Of Information That May Be Collected](http://www.panthers.com/about-us/privacy-policy.html#1)
   2. [How Information May Be Collected](http://www.panthers.com/about-us/privacy-policy.html#2)
@@ -55,8 +52,7 @@ Registration: You may be asked to complete a registration form and provide perso
 
 Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website, in the newsletter or email or by sending an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com).
 
-Forward to a Friend: If you choose to use our email feature to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Carolina Panthers do not store this information, and it is used for the sole purpose of sending this one-time email.  
-
+Forward to a Friend: If you choose to use our email feature to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Carolina Panthers do not store this information, and it is used for the sole purpose of sending this one-time email.
 
 Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
 
@@ -126,4 +122,4 @@ If you are a California resident and have questions about our compliance with th
 
 #### Questions About This Privacy Policy
 
-If you have any questions about this privacy policy or the privacy practices of this Website, please send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com) or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. 
+If you have any questions about this privacy policy or the privacy practices of this Website, please send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com) or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202.
