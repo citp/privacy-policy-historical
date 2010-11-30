@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feednuts.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228175542id_/http%3A//www.feednuts.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feednuts.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130100813id_/http%3A//www.feednuts.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ We use your contact information to send you information about our company and to
 
 **Correcting/Updating Your Contact Information**
 
-You can update your contact information in your [control panel](http://www.feednuts.com/member.php/home/index) at any time. 
+You can update your contact information in your [control panel](http://feednuts.com/member.php/home/index) at any time. 
 
 **IP addresses**
 
