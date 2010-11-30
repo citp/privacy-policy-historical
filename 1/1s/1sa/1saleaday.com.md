@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106085355id_/https%3A//www.1saleaday.com/shop/Subpage.asp%3Fpagecode%3D100002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130143935id_/https%3A//www.1saleaday.com/shop/Subpage.asp%3Fpagecode%3D100002) for the most accurate reproduction.*
 
 # 1 Sale A Day, Privacy
 
@@ -33,15 +33,15 @@ We may enter into alliances, partnerships or other business arrangements with th
 
 **Notice of New Services and Changes**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [support@1saleaday.com ](https://web.archive.org/web/20100106085355id_/https%3A//www.1saleaday.com/shop/customerservice@1saleaday.com)
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [support@1saleaday.com ](https://web.archive.org/web/20101130143935id_/https%3A//www.1saleaday.com/shop/customerservice@1saleaday.com)
 
 **How Do We Secure Information Transmissions?**
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [support@1saleaday.com ](https://web.archive.org/web/20100106085355id_/https%3A//www.1saleaday.com/shop/customerservice@1saleaday.com)if you have any questions or concerns. 
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [support@1saleaday.com ](https://web.archive.org/web/20101130143935id_/https%3A//www.1saleaday.com/shop/customerservice@1saleaday.com)if you have any questions or concerns. 
 
 **How Can You Access and Correct Your Information?  
 **  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [support@1saleaday.com ](https://web.archive.org/web/20100106085355id_/https%3A//www.1saleaday.com/shop/customerservice@1saleaday.com). 
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [support@1saleaday.com ](https://web.archive.org/web/20101130143935id_/https%3A//www.1saleaday.com/shop/customerservice@1saleaday.com). 
 
 **Certain Disclosures  
 **  
