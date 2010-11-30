@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the epforums.org privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616080541id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epforums.org privacy policy that was archived on 2010-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130173816id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 
 <link rel="alternate" type="application/rss+xml" title="The Latest Updates on ROMs, ISOs, and Video Games at Emuparadise" href="http://www.emuparadise.org/eprss.xml">
 <meta name="rating" content="general">
 <meta name="distribution" content="Global">
 <meta http-equiv="content-language" content="en">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Emuparadise.org - N64 Playstation Dreamcast SNES Genesis NES MAME 
 ROMs ISOs</title>
 
@@ -16,66 +16,276 @@ Dreamcast, Snes, Genesis, Arcade, Nes, MAME, ROMs ISOs">
 <meta name="keywords" content="Emuparadise, EP, emulation, gaming, games, n64, playstation,
 	dreamcast, snes, nes, genesis, arcade, mame, roms, isos">
 
-<link rel="stylesheet" type="text/css" href="/ep-style.css">
+<link rel="stylesheet" type="text/css" href="/epstylec.css">
+
+
+
+<style type="text/css">
+#topindex{top:115px;position:relative;}
+.slideOutTip{
+	/* The main wrapping div of the slideout tips */
+	position:absolute;
+	padding:3px;
+        opacity: 0.8;
+	top:0;
+	height:30px;
+	left:0;
+	z-index:9999;
+	background-color:#4c6977;
+	font-size:13px;
+	color:white;
+	overflow:hidden;
+	height:22px;
+}
+
+.slideOutTip:hover{
+	/* Applying a CSS3 outer glow on hover */
+	-moz-box-shadow:0 0 1px #999;
+	-webkit-box-shadow:0 0 1px #999;
+	box-shadow:0 0 1px #999;
+}
+
+/* The holder for the title and the icon: */
+.tipVisible{ cursor:pointer; height:22px; }
+
+.tipTitle{
+        margin: auto;
+	float:left;
+	font-family:'Myriad Pro',Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	white-space:nowrap;
+	line-height:22px;
+	padding-right:5px;
+	padding-top:2px;
+}
+
+.tipIcon{
+	width:20px;
+	height:20px;
+	float:left;
+	background-color:#61b035;
+	border:1px solid #70c244;
+	margin-right:8px;
+	/* CSS3 Rounded corners */
+	
+	-moz-border-radius:1px;
+	-webkit-border-radius:1px;
+	border-radius:1px;
+}
+
+/* Three color themes */
+.green .tipIcon{ background-color:#61b035; border:1px solid #70c244; }
+.blue .tipIcon{ background-color:#1078C7; border:1px solid #1e82cd; }
+.red .tipIcon{ background-color:#CD3A12; border:1px solid #da421a; }
+.black .tipIcon{ background-color:#000; border:1px solid #333; }
+.newblue .tipIcon { background-color:#6A9DCC; border:1px solid #132637;}
+.plusIcon{
+	/* The plus icon */
+	width:13px;
+	height:13px;
+	background:url('http://www.emuparadise.org/images/plus.gif') no-repeat center center;
+	margin:4px;
+	/* Defining a CSS3 animation. Currently only works in Chrome and Safari */
+	-webkit-transition: -webkit-transform 0.2s linear;
+	-moz-transition: -moz-transform 0.2s linear;
+	transition: transform 0.2s linear;
+}
+
+.slideOutTip.isOpened{ z-index:9999; opacity:1;}
+
+.slideOutTip.isOpened .plusIcon{
+	/* Applying a CSS3 rotation  to the opened slideouts*/
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	transform:rotate(45deg);
+}
+
+
+.slideOutContent{
+	/* Hiding the div with the slide out content: */
+	display:none;
+	padding:0px 10px 10px 10px;
+	font-size:11px;
+}
+
+div.slideOutContent a{ text-decoration: none; font-size: 10px; font-weight:bold; }
+div.slideOutContent a:active{ text-decoration: none; font-size: 10px; font-weight:bold; }
+div.slideOutContent a:visited{ text-decoration: none; font-size: 10px; font-weight:bold; }
+div.slideOutContent a:hover{ text-decoration: none; font-size: 10px; font-weight:bold; }
+.sldiv{
+	margin:0px auto;
+	position:absolute;
+	width: 100%;
+	overflow:auto;
+}
+
+
+.open {
+z-index: 9999;
+}
+
+.load {
+
+position: absolute;
+left: -2000px;
+
+}
+.slide-out-div {
+    padding: 10px;
+    width: 500px; height: 600px;
+    background: #2b414c;
+    border: 5px solid #3c545f;
+    color: #fff;
+}  
+
+
+a.handle {
+    background-image: url("/images/rotd1.png");
+    height: 200px;
+    width: 66px;
+}
+</style>
+
+<!--[if IE 6]>
+<style type="text/css">
+.usual {width:auto; border:none;}
+.plusIcon{
+        margin:0px;
+        margin-left: 3px;
+        margin-top: 1px;
+}
+
+
+a.handle {
+    background-image: url("http://www.emuparadise.org/images/rotd1.gif");
+}
+body {overflow-x:hidden;}
+
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+#topindex{top:108px;}
+.slideOutTip{
+padding:0px;
+}
+
+body{overflow-x:hidden;}
+</style>
+<![endif]-->
+
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/comp1.js"></script>
+
+<script type="text/javascript">
+ $(document).ready(function() {
+   $("#gotd").removeClass("load");
+ $("a.sc").fancybox({
+                'transitionIn'        :	'elastic',
+                'transitionOut'	:	'elastic',
+                'speedIn'             :	600,
+                'speedOut'            :	200,
+                'overlayShow' :	true
+        });
+
+
+ });
+
+$(function(){
+    $('.slide-out-div').tabSlideOut({
+        tabHandle: '.handle',    //class of the element that will become your tab
+        tabLocation: 'right',     //side of screen where tab lives, top, right, bottom, or left
+        speed: 300,              //speed of animation
+        action: 'click',         //options: 'click' or 'hover', action to trigger animation
+        topPos: '30px',          //position from the top/ use if tabLocation is left or right
+	fixedPosition: true
+
+    });
+});
+</script>
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-311943-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
 
 
 </head>
-<body leftmargin="10" topmargin="10" marginwidth="10" marginheight="10">
+
+<body>
 
 
 
 <!--LEFT SIDE NAVIGATION BIT IS INCLUDED HERE-->
 
-<div id="eplogo"> <img src="http://www.emuparadise.org/graphics/eplogo.jpg" alt="Emuparadise 
-Logo" width="295" height="150"> </div>
+<!-- Pre loading the background image -->
+<img alt="" src="http://www.emuparadise.org/images/s1.png" style="display: none;">
+
+<div id="eplogo"> <img src="http://www.emuparadise.org/graphics/eplogo.jpg" alt="Emuparadise Logo" width="295" height="150"> </div>
+
 
 <!--Table of Contents/Index at top of page-->
 
 
 <div id="topindex">
-<a class="index" title="Emuparadise Home Page" href="http://www.emuparadise.org/">Home</a> | 
-<a class="index" title="A sitemap where you can find links to most sections" href="http://www.emuparadise.org/Sitemap.php">Sitemap</a> | 
-<a class="index" title="New Releases Section - features the latest GBA and Nintendo DS ROMS" href="http://nr.emuparadise.org">New Releases</a> | 
-<a class="index" title="EPForums, the heart of the emuparadise community" href="http://www.epforums.org">EP Forums</a> | 
-<a class="index" title="About Us @ Emuparadise and What we like to do" href="http://www.emuparadise.org/about.php">About Us</a> |
-<a class="index" title="Want to advertise ? Just want to say Hi ? Get in touch!" href="http://www.emuparadise.org/contact.php">Contact Us</a> 
+<a style="color: #fff;" class="index" title="Emuparadise Home Page" href="http://www.emuparadise.org/">Home</a> | 
+<a style="color: #fff;" class="index" title="A sitemap where you can find links to most sections" href="http://www.emuparadise.org/Sitemap.php">Sitemap</a> | 
+<a style="color: #fff;" class="index" title="New Releases Section - features the latest GBA and Nintendo DS ROMS" href="http://nr.emuparadise.org">New Releases</a> | 
+<a style="color: #fff;" class="index" title="EPForums, the heart of the emuparadise community" href="http://www.epforums.org">EP Forums</a> | 
+<a style="color: #fff;" class="index" title="About Us @ Emuparadise and What we like to do" href="http://www.emuparadise.org/about.php">About Us</a> |
+<a style="color: #fff;" class="index" title="Get to know the people who are behind emuparadise!" href="http://www.emuparadise.org/jchat/">#emuparadise chat</a> |
+<a style="color: #fff;" class="index" title="Want to advertise ? Just want to say Hi ? Get in touch!" href="http://www.emuparadise.org/contact.php">Contact Us</a> 
 </div>
 
-<div style=" position: relative; top: -10px; vertical-align:top; 
-              left: 10px; ">
-<div id="quicksearch">
+
 <form style="margin:0; padding:0; border:0;" action="http://www.emuparadise.org/roms/search.php" method="get">
-<label style="font-face: Verdana ; font-weight:bold; font-size: 11px; color: #FAF8F1; margin-right: 2px; ">Quick Search: </label>
-<input type="text" id="query" name="query" size="12" style="font-size: 11px; font-weight: bold; font-family: arial; border: 
-2px  solid 
-#3C545F ; 
-background-color: 
-#6B91A4; color: #ffffff; ">
+
+<fieldset class="topsearch">
+<legend style="display: none;">Search:</legend>
+<input type="text" class="searchbox" name="query" title="Search for ROMs, ISOs, Games, Music, TV-Shows, Magazines, Comics and other stuff!
+
+Examples:
+
+You can search by keyword: 'mario'
+Or if you want specific systems: 'mario n64'
+Or by rom number: 'nds 5101'
+Or by section: 'pokemon tv show'
+Or by type: 'sonic comic'
+
+Well, you get the idea : )">
+
+</fieldset>
 </form>
-</div>
 
-</div>
-
-
-
-
-<div style="position: absolute; top:150px;">
+<div style="position: absolute; top:150px; margin-right:8px;">
 <table border="0" width="100%" cellspacing="0" cellpadding="0" id="framework">
 <tbody><tr>
 		<td colspan="5" width="100%" height="90">
 
 <div align="center">
 
-<!-- BEGIN RICH-MEDIA Burst Direct CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/v=2.3S/sz=728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/v=2.3S/sz=728x90A/4430/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad12978a-map.cgi/ns/v=2.3S/sz=728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/ns/v=2.3S/sz=728x90A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Direct CODE -->
+<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,468x60";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/EmuParadiseorg/ROS/tags.js"></script>
 
 </div>
 
@@ -93,29 +303,29 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/
 	<tr>
 		<td align="left" valign="top" width="160">	
 
-		<table border="0" width="160" id="index" cellspacing="0" cellpadding="0">
+		<table border="0" width="160" class="index" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
 				<td height="5" bgcolor="#4C6977" colspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
 			</tr>
 			<tr>
 				<td width="5" bgcolor="#4C6977" rowspan="16">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">EP News</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">EP News</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 				<td width="5" bgcolor="#4C6977" rowspan="16">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 			</tr>
 
 
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
 						<a class="index" title="Read the latest updates and what's new at EP" href="http://www.emuparadise.org/">Latest Updates</a><br>
 						<a class="index" title="New Releases Section with the latest Gameboy Advance and Nintendo DS Rom Releases" href="http://nr.emuparadise.org/">GBA/DS New Releases</a><br>
 						<a class="index" title="News Archive with what happened during the years that went by" href="http://www.emuparadise.org/News/archive.php">EP News Archive</a><br>
@@ -124,30 +334,32 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/
 			</tr>
 			<tr>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Community</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Community</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 			</tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
 					<a class="index" title="Latest ROMs/ISOs uploaded by our forum members for YOU to download" href="http://forums.emuparadise.org/download.php">ROM/ISO Downloads</a><br>
 					<a class="index" title="The latest video game soundtracks uploaded by our forum members" href="http://forums.emuparadise.org/download.php?pageid=gamingmusic">VG Music Downloads</a><br>
 					<a class="index" title="EPForums, the heart of the emuparadise community" href="http://forums.emuparadise.org">Emuparadise Forums</a><br>
 					<a class="index" title="Our bit-torrent tracker where you can upload and share" href="http://bt.emuparadise.org:6969/">EP Bittorrent Tracker</a><br>
+					<a class="index" title="Join the party on facebook!" href="http://www.facebook.com/group.php?gid=105175466206084">Join us on 
+facebook.</a><br>
 					<a class="index" title="Quick access to the latest updates and then some more inside info.. ;)" href="http://twitter.com/emuparadise">Follow us on Twitter!</a><br>
 					</div>
 				</td>
 			</tr>
 			<tr>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Hosted @ EP</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Hosted @ EP</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 			</tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
 					<a class="index" title="Emulators Section where you can download emulators" href="http://www.emuparadise.org/Emulators.php">Emulators Section</a><br>
-					<a class="index" title="Our extensive ROMs, ISOs and Games Section" href="http://www.emuparadise.org/roms/">ROMs, ISOs, &amp; Games</a><br>
+					<a class="index" title="Our extensive ROMs, ISOs and Games Section" href="http://www.emuparadise.org/roms-isos-games.php">ROMs, ISOs, &amp; Games</a><br>
 					<a class="index" title="Video Game Betas, some that were never released!" href="http://www.emuparadise.org/Betas/">Video Game Betas</a><br>
 					<a class="index" title="Translation Patches to play your favourite Japanese titles in English" href="http://www.emuparadise.org/trans/">Translation Patches</a><br>
 					<a class="index" title="Download Video Game Console SDKs to develop games for these platforms" href="http://www.emuparadise.org/sdk/index.php">Official Console SDKs</a><br>
@@ -159,12 +371,12 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/
 
 <tr>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Gaming</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Gaming</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 			</tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
 					<a class="index" title="Play ROMs on our Kaillera Server, Head to Head, Game Servers that we host for you" href="http://www.emuparadise.org/gameservers.php">Game Servers</a><br>
                                         <a class="index" title="You can now play your favourite Atari 2600, NES, GB, GBC titles online right here in your 
 browser window. No downloading or installing required!" href="http://www.emuparadise.org/playonline.php">Play Old Games Online</a><br>
@@ -180,12 +392,12 @@ browser window. No downloading or installing required!" href="http://www.emupara
 
 <tr>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Music</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Music</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 			</tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
 					<a class="index" title="Video Game Soundtracks in MP3 format, available for download" href="http://www.emuparadise.org/soundtracks/index.php">MP3 Soundtracks</a><br>
 					<a class="index" title="Video Game Soundtracks in High Quality FLAC, 320Kbps MP3, Other Lossless formats" href="http://www.emuparadise.org/soundtracks/highquality/index.php">High Quality (FLAC)</a><br>
 					<a class="index" title="Gaming Music in SPC, NSF, PSF, PSFII formats" href="http://www.emuparadise.org/music/">Native (NSF/PSF/SPC)</a><br>
@@ -196,12 +408,14 @@ browser window. No downloading or installing required!" href="http://www.emupara
 
 <tr>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Video</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Video</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 			</tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
+					<a class="index" title="Video Game Movies and Documentaries for Download" href="http://www.emuparadise.org/Movies/">Movies 
+&amp; Documentaries</a>
 					<a class="index" title="Video Game Related TV Shows for Download" href="http://www.emuparadise.org/TV-Shows/">VG Related TV Shows</a><br>
 					<a class="index" title="Download Full Motion Video (FMVs) featured in Video Games" href="http://www.emuparadise.org/FMVs/">Video Game  
 FMVs</a><br>
@@ -215,12 +429,12 @@ FMVs</a><br>
 
 			<tr>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Help Me!</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Help Me!</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
                                        </tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
 					<a class="index" title="If you want to support EP, here is where you learn how" href="http://www.emuparadise.org/support.php">Support Emuparadise!</a><br>
 					<a class="index" title="A collection of tutorials written by our forum members to guide you through most basic 
 emulation tasks" href="http://forums.emuparadise.org/download.php?pageid=emuguides">Emulation Tutorials</a><br>
@@ -235,12 +449,12 @@ emulation tasks" href="http://forums.emuparadise.org/download.php?pageid=emuguid
 
 			<tr>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Vote for Us!</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Vote for Us!</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 			</tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-					<div id="index-content">
+					<div class="index-content">
 					<a class="index" rel="nofollow" href="http://www.emusites.com/toplist/in.php?id=emupara" target="_new">EmuSites</a><br>
 					<a class="index" rel="nofollow" href="http://www.top50emu.com/enter/top50.cgi?sarcast" target="_new">Top 50</a><br>
 					<a class="index" rel="nofollow" href="http://www.top26.net/?in=emuparadise1" target="_new">Top 26</a><br>
@@ -251,79 +465,39 @@ emulation tasks" href="http://forums.emuparadise.org/download.php?pageid=emuguid
 
 <tr>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
 				<td height="5" bgcolor="#4C6977" colspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
 			</tr>
 		</tbody></table>
 
 
 <br>
+			
 		
-		
-		
-		<table border="0" width="160" id="index" cellspacing="0" cellpadding="0">
+				<table border="0" width="160" class="index" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
 				<td height="5" bgcolor="#4C6977" colspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
 			</tr>
 			<tr>
 				<td width="5" bgcolor="#4C6977" rowspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Affiliates</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
+				<div class="index-header">Emuparadise</div></td><td bgcolor="#3C545F" width="18" height="18">
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
 				<td width="5" bgcolor="#4C6977" rowspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 			</tr>
 			<tr>
 				<td bgcolor="#2B414C" colspan="2">
-				<div id="index-content">
-					<a class="index" target="_new" href="http://www.rom-freaks.net/">Rom Freaks</a><br><a class="index" target="_new" href="http://www.snesorama.us">Snes O Rama</a><br><a class="index" target="_new" href="http://www.roms43.com/">Roms43</a><br><a class="index" target="_new" href="http://www.moreroms.com/">More Roms</a><br><a class="index" target="_new" href="http://www.cheatfaster.com/">Cheat Faster</a><br><a class="index" target="_new" href="http://www.ndsdl.com">NDS.DownLoad</a><br><a class="index" target="_new" href="http://www.3roms.com">3Roms</a><br><a class="index" target="_new" href="http://game-freaks.net/">Game Freaks</a><br><a class="index" target="_new" href="http://www.soynintendero.com/">SoyNintendero</a><br><a class="index" target="_new" href="http://www.pspisoz.com">PSP ISOz</a><br><a class="index" target="_new" href="http://www.decemuladores.com/">NDS Games</a><br><a class="index" target="_new" href="http://www.dohgames.com/">Doh Games</a><br><a class="index" target="_new" href="http://www.coolrom.com">CoolROM</a><br><a class="index" target="_new" href="http://www.projectblacktower.org">ProjectBlackTower</a><br><a class="index" target="_new" href="http://www.romcollector.com">ROM COLLECTOR</a><br><a class="index" target="_new" href="http://www.r4-roms.com/">R4-Roms</a><br><a class="index" target="_new" href="http://www.videogames2buy.com/">Buy PS3</a><br><a class="index" target="_new" href="http://qwerty-roms.net/">Qwerty-Roms</a><br><a class="index" target="_new" href="http://pspgweber.com/">PSPgweber</a><br><a class="index" target="_new" href="http://www.romhood.com/">RomHood</a><br><a class="index" target="_new" href="http://frozen-roms.in/">Frozen Roms</a><br>					<a class="index" href="mailto:MasJ@emuparadise.org?Subject=Affiliation Request for emuparadise.org"><i>Become an affiliate!</i></a>
-					</div>
-				</td>
-			</tr>
-			<tr>
-				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
-				<td height="5" bgcolor="#4C6977" colspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
-			</tr>
-		</tbody></table>
-		
-		<br>
-		
-		
-		
-				<table border="0" width="160" id="index" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
-				<td height="5" bgcolor="#4C6977" colspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
-			</tr>
-			<tr>
-				<td width="5" bgcolor="#4C6977" rowspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-				<td bgcolor="#3C545F" width="132" height="18">
-				<div id="index-header">Emuparadise</div></td><td bgcolor="#3C545F" width="18" height="18">
-				<img border="0" src="http://www.emuparadise.org/graphics/smallpalm.gif" width="18" height="18"></td>
-				<td width="5" bgcolor="#4C6977" rowspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-			</tr>
-			<tr>
-				<td bgcolor="#2B414C" colspan="2">
-				<div id="index-content">
+				<div class="index-content">
 							
 						<a class="index" title="Advertise on emuparadise.org, it's cheap and worth it!" href="http://www.emuparadise.org/advertise/">Advertise on EP!</a><br>
 						<a class="index" title="Privacy policy! For great justice!" href="http://www.emuparadise.org/privacy.php">Privacy Policy</a><br>
@@ -336,11 +510,11 @@ emulation tasks" href="http://forums.emuparadise.org/download.php?pageid=emuguid
 			</tr>
 			<tr>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
 				<td height="5" bgcolor="#4C6977" colspan="2">
-				<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				<td width="5" height="5" bgcolor="#4C6977">
-				<img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
+				<img alt="" border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
 			</tr>
 		</tbody></table>
 
@@ -356,22 +530,22 @@ emulation tasks" href="http://forums.emuparadise.org/download.php?pageid=emuguid
 			<table border="0" width="96%" cellspacing="0" cellpadding="0" id="index" align="center">
 				<tbody><tr>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="/graphics/topleft.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="/graphics/topleft.gif" width="5" height="5"></td>
 					<td height="5" bgcolor="#4C6977">
-					<img border="0" src="/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="/graphics/space.gif" width="5" height="5"></td>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="/graphics/topright.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="/graphics/topright.gif" width="5" height="5"></td>
 				</tr>
 				<tr>
 					<td width="5" bgcolor="#4C6977">
-					<img border="0" src="/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="/graphics/space.gif" width="5" height="5"></td>
 					<td width="100%" bgcolor="#2B414C">
 
 
 
 
 
-<div style="margin-left: 5px;">
+<div style="text-align:justify; padding: 5px;">
 
 <p><font face="Verdana" style="font-size:15px;"><b>Emuparadise Privacy Policy:</b></font></p>
 <p>This privacy policy pertains to emuparadise.org and all it's subsidiaries. Addressed below are issues relating to our users privacy.</p>
@@ -405,15 +579,15 @@ would like more information about this practice and to know your choices about n
 
 
 					<td width="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				</tr>
 				<tr>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
 					<td height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
 				</tr>
 			</tbody></table>		</td>
 		
@@ -421,116 +595,110 @@ would like more information about this practice and to know your choices about n
 		
 		<td align="left" valign="top" width="10"></td>
 		<td align="center" valign="top" width="160">
-			<table border="0" width="160" cellspacing="0" cellpadding="0" id="index">
+
+
+
+			<table border="0" width="160" cellspacing="0" cellpadding="0" class="index">
 				<tbody><tr>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
 					<td height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
 				</tr>
 				<tr>
 					<td valign="top" width="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 					<td width="160" bgcolor="#2B414C">
 					 <center><br><a href="http://www.emuparadise.org/disablepop.php" title="Click here something cool might happen!"><img src="http://www.emuparadise.org/graphics/mascot.gif" alt="Samus / Click here might be interesting.." border="0"></a></center>
 					
 					</td>
 					<td width="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				</tr>
 				<tr>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
 					<td height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
 				</tr>
 			</tbody></table>
-
-
-
 
 
 <br>
 
 <div align="center">
 
-<!-- BEGIN RICH-MEDIA Burst Direct CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/v=2.3S/sz=120x600A|160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/v=2.3S/sz=120x600A|160x600A/76780/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad12978a-map.cgi/ns/v=2.3S/sz=120x600A|160x600A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad12978a.cgi/ns/v=2.3S/sz=120x600A|160x600A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Direct CODE -->
-
+<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "160x600,120x600";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/EmuParadiseorg/ROS/tags.js"></script>
 
 
 </div>
 			<br>
 
-               <table border="0" width="160" cellspacing="0" cellpadding="0" id="index">
-                                <tbody><tr>
-                                        <td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
-                                        <td height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-                                        <td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
-                                </tr>
-                                <tr>
-                                        <td valign="top" width="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-                                        <td width="132" bgcolor="#2B414C">
-                                         <p><font face="Verdana" style="font-size: 14px; font-weight: bold">Latest Update:</font><br><font face="Verdana" style="font-size: 11px;">Emuparadise 
-<a href="http://twitter.com/leowalters">@leowalters</a> You're fine with the default names because they get auto-renamed when you upload them =) I see you like taking screenshots :D<br></font><font face="Verdana" style="font-size: 10px">tweeted 9 hours, 42 minutes ago | <a href="http://twitter.com/emuparadise" title="Know what's new at Emuparadise"><font face="Verdana" style="font-size: 10px;">Follow us 
-on twitter!</font></a></font></p>
-                                        </td>
-                                        <td width="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-                                </tr>
-                                <tr>
-                                        <td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
-                                        <td height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-                                        <td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
-                                </tr>
-                        </tbody></table>  
-			
-			<br>
 
-         <table border="0" width="160" cellspacing="0" cellpadding="0" id="index">
+			<table border="0" width="160" cellspacing="0" cellpadding="0" class="index">
+				<tbody><tr>
+					<td width="5" height="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
+					<td height="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<td width="5" height="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
+				</tr>
+				<tr>
+					<td valign="top" width="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<td width="160" bgcolor="#2B414C">
+					  <p><font face="Verdana" style="font-size: 14px; font-weight: bold">Latest Tweet:</font><br><font face="Verdana" style="font-size: 
+11px;"><a href="http://twitter.com/Ryuuzaki_L">@Ryuuzaki_L</a> No, it's just a network thing. It doesn't always happen even, just sometimes..<br></font><font face="Verdana" style="font-size: 10px">tweeted 1 hour, 28 minutes ago | <a href="http://twitter.com/emuparadise" title="Know what's new at Emuparadise"><font face="Verdana" style="font-size: 10px;">Follow us 
+on twitter!</font></a></font></p>					
+					</td>
+					<td width="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+				</tr>
+				<tr>
+					<td width="5" height="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
+					<td height="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<td width="5" height="5" bgcolor="#4C6977">
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
+				</tr>
+			</tbody></table>
+<br>
+
+         <table border="0" width="160" cellspacing="0" cellpadding="0" class="index">
                                 <tbody><tr>
                                     	<td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
                                         <td height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
                                         <td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
                                 </tr>
                                 <tr>
                                     	<td valign="top" width="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
-                                        <td width="132" bgcolor="#2B414C">
-                                         <font face="Verdana" style="font-size: 14px; font-weight: bold">Quick Stats:</font><br><b>ROMs, ISOs &amp; Games: </b><br>95822 files / 3109 GB<br><b>Gaming Music: </b><br>13325 files / 212 GB<br><b>TV-Shows &amp; Videos:</b><br>4215 files / 211 GB<br><b>Game Book Scans:</b><br>2684 files / 118 GB<br>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+                                        <td width="160" bgcolor="#2B414C">
+                                         <font face="Verdana" style="font-size: 14px; font-weight: bold">Quick Stats:</font><br><b>ROMs, ISOs &amp; Games: </b><br>96874 files / 3350 GB<br><b>Gaming Music: </b><br>13692 files / 216 GB<br><b>TV-Shows &amp; Videos:</b><br>4655 files / 333 GB<br><b>Game Book Scans:</b><br>2795 files / 124 GB<br>
                                         </td>
                                         <td width="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
                                 </tr>
                                 <tr>
                                     	<td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
                                         <td height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
                                         <td width="5" height="5" bgcolor="#4C6977">
-                                        <img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
+                                        <img alt="" border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
                                 </tr>
                         </tbody></table>
 
@@ -558,18 +726,18 @@ on twitter!</font></a></font></p>
 <td align="center">
 
 <br><br>
-			<table border="0" width="96%" cellspacing="0" cellpadding="0" id="index">
+			<table border="0" width="96%" cellspacing="0" cellpadding="0" class="index">
 				<tbody><tr>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/topleft.gif" width="5" height="5"></td>
 					<td height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/topright.gif" width="5" height="5"></td>
 				</tr>
 				<tr>
 					<td width="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 					<td width="100%" bgcolor="#2B414C">
 
 
@@ -577,22 +745,22 @@ on twitter!</font></a></font></p>
 <center><p>This site is best viewed at a resolution of 1024x768 with Mozilla Firefox and 16 bit colors or higher.
 			All images and trademarks are the copyright of their respective owners, we are not affiliated
 			nor are we related to any of the companies listed on this site unless otherwise mentioned.
-			If there is a mistake on the site and we offend you in some way, please contact <a href="mailto:masj@emuparadise.org">MasJ</a> to let us know 
-			the problem and we will fix it asap. 2001-2006 © 
-			<a href="http://www.emuparadise.org">Emuparadise.org</a>. All rights reserved. Site design by <a href="http://www.antifantastic.com/">AF Design</a>.<br></p>
+			If there is a mistake on the site and we offend you in some way, please contact <a href="http://www.emuparadise.org/contact.php">MasJ</a> to let us know 
+			the problem and we will fix it asap. 2001-2011 © 
+			<a href="http://www.emuparadise.org">Emuparadise.org</a>. All rights reserved.</p></center>
 
-</center></td>
+</td>
 
 					<td width="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 				</tr>
 				<tr>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botleft.gif" width="5" height="5"></td>
 					<td height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/space.gif" width="5" height="5"></td>
 					<td width="5" height="5" bgcolor="#4C6977">
-					<img border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
+					<img alt="" border="0" src="http://www.emuparadise.org/graphics/botright.gif" width="5" height="5"></td>
 				</tr>
 			</tbody></table>
 
@@ -615,6 +783,94 @@ on twitter!</font></a></font></p>
 </tbody></table>
 </div>
 
+
+<div class="slide-out-div load" id="gotd">
+    <a class="handle" href="http://www.emuparadise.org" title="Game of the Day!">Game of the day</a>
+    
+<div align="center"><h1>Suikoden (E)</h1><h3>Sony Playstation / PSX PS1  ISO</h3><a href="http://www.emuparadise.org/roms/roms.php?gid=96862"><img alt="" src="http://www.emuparadise.org/fup/up/96862-Suikoden_(E)-4-thumb.jpg" style="border: 
+0;"></a></div><p><font style="font-size: 10px;"><strong>Tatey09</strong></font><font style="font-size: 9px;"> says:</font><br></p><p>The second best RPG ever created!!! (first obviously being Final Fantasy 7) It tells the story of the son of an imperial general called Teo who obeys the emperor no matter what.</p>
+<p>Teo's son (who you control and name) tries so hard to follow in his fathers footsteps but then the tides turn and <a title="Read more" href="http://www.emuparadise.org/roms/roms.php?gid=96862" class="index" style="color:#BAB0AA;">...</a></p>User Rating: 4.9/5.00<br><br><div align="center"><a style="font-size: 18px; text-decoration:none;" href="http://www.emuparadise.org/Sony_Playstation_ISOs/Suikoden_(E)/96862">Download &amp; Play Suikoden (E)</a><br><br><a style="font-size: 10px; font-weight:bold;" href="http://www.emuparadise.org/retro-game-of-the-day-archive/">Check 
+out the Retro Game of the Day Archive for more awesome 
+stuff!</a></div>
+</div>
+
+
+<!--INFOLINKS_OFF-->
+<div class="sldiv" style="position:absolute; top:0px; 
+left:0px;display:none;">
+        
+        <p title="ROMs, ISOs &amp; Games" style="position:relative; float:left;" class="blue">  
+» <a title="Download Sony Playstation / PSX ISOs" href="http://www.emuparadise.org/Sony_Playstation_ISOs/2">PSX 
+ISOs</a> 
+<span style="font-size:10px;">(3484)</span><br>» <a title="Download Nintendo DS / NDS ROMs" href="http://www.emuparadise.org/Nintendo_DS_ROMs/32">NDS 
+ROMs</a> 
+<span style="font-size:10px;">(5361)</span><br>» <a title="Download Nintendo 64 / N64 ROMs" href="http://www.emuparadise.org/Nintendo_64_ROMs/9">N64 
+ROMs</a> 
+<span style="font-size:10px;">(880)</span><br>» <a title="Download Nintendo Gameboy Advance / GBA ROMs" href="http://www.emuparadise.org/Nintendo_Gameboy_Advance_ROMs/31">GBA 
+ROMs</a> 
+<span style="font-size:10px;">(2826)</span><br>» <a title="Download Super Nintendo Entertainment System (SNES) / SNES ROMs" href="http://www.emuparadise.org/Super_Nintendo_Entertainment_System_(SNES)_ROMs/5">SNES 
+ROMs</a> 
+<span style="font-size:10px;">(3692)</span><br>» <a title="Download M.A.M.E. - Multiple Arcade Machine Emulator / MAME ROMs" href="http://www.emuparadise.org/M.A.M.E._-_Multiple_Arcade_Machine_Emulator_ROMs/7">MAME 
+ROMs</a> 
+<span style="font-size:10px;">(9988)</span><br>» <a title="Download Sega Dreamcast / DC ISOs" href="http://www.emuparadise.org/Sega_Dreamcast_ISOs/1">DC 
+ISOs</a> 
+<span style="font-size:10px;">(717)</span><br>» <a title="Download Nintendo Gamecube / GCN ISOs" href="http://www.emuparadise.org/Nintendo_Gamecube_ISOs/42">GCN 
+ISOs</a> 
+<span style="font-size:10px;">(853)</span><br>» <a title="Download Nintendo Entertainment System / NES ROMs" href="http://www.emuparadise.org/Nintendo_Entertainment_System_ROMs/13">NES 
+ROMs</a> 
+<span style="font-size:10px;">(2900)</span><br>» <a title="Download Sega Genesis - Sega Megadrive / Genesis ROMs" href="http://www.emuparadise.org/Sega_Genesis_-_Sega_Megadrive_ROMs/6">Genesis 
+ROMs</a> 
+<span style="font-size:10px;">(1675)</span><br>		<br><a href="http://www.emuparadise.org/roms-isos-games.php">View all sections</a>
+        </p>
+                
+        <p title="Emulator Downloads" style="position:relative; float:left;" class="red">
+
+» <a title="Download Sony Playstation / PSX Emulators" href="http://www.emuparadise.org/Sony_Playstation_Emulators/2">PSX Emulators</a>
+<span style="font-size:10px;">(14)</span><br>» <a title="Download Nintendo 64 / N64 Emulators" href="http://www.emuparadise.org/Nintendo_64_Emulators/9">N64 Emulators</a>
+<span style="font-size:10px;">(13)</span><br>» <a title="Download Nintendo DS / NDS Emulators" href="http://www.emuparadise.org/Nintendo_DS_Emulators/32">NDS Emulators</a>
+<span style="font-size:10px;">(12)</span><br>» <a title="Download Sega Dreamcast / DC Emulators" href="http://www.emuparadise.org/Sega_Dreamcast_Emulators/1">DC Emulators</a>
+<span style="font-size:10px;">(11)</span><br>» <a title="Download Nintendo Gameboy Advance / GBA Emulators" href="http://www.emuparadise.org/Nintendo_Gameboy_Advance_Emulators/31">GBA Emulators</a>
+<span style="font-size:10px;">(12)</span><br>» <a title="Download Nintendo Gamecube / GCN Emulators" href="http://www.emuparadise.org/Nintendo_Gamecube_Emulators/42">GCN Emulators</a>
+<span style="font-size:10px;">(9)</span><br>» <a title="Download Sony Playstation 2 / PS2 Emulators" href="http://www.emuparadise.org/Sony_Playstation_2_Emulators/41">PS2 Emulators</a>
+<span style="font-size:10px;">(2)</span><br>» <a title="Download Super Nintendo Entertainment System (SNES) / SNES Emulators" href="http://www.emuparadise.org/Super_Nintendo_Entertainment_System_(SNES)_Emulators/5">SNES Emulators</a>
+<span style="font-size:10px;">(22)</span><br>» <a title="Download Nintendo Entertainment System / NES Emulators" href="http://www.emuparadise.org/Nintendo_Entertainment_System_Emulators/13">NES Emulators</a>
+<span style="font-size:10px;">(21)</span><br>» <a title="Download Nintendo Game Boy Color / GBC Emulators" href="http://www.emuparadise.org/Nintendo_Game_Boy_Color_Emulators/11">GBC Emulators</a>
+<span style="font-size:10px;">(17)</span><br>
+
+<br><a href="http://www.emuparadise.org/Emulators.php">View all Emulators</a>
+
+
+        </p>
+                                
+        <p title="Music/Video/TV-Shows/Movies" style="position:relative; float:left;" class="green">
+	<b>Gaming Music:</b><br>
+	» <a title="Video Game Soundtracks in MP3 format, available for download" href="http://www.emuparadise.org/soundtracks/index.php">MP3 Soundtracks</a><br> 
+					» <a title="Video Game Soundtracks in High Quality FLAC, 320Kbps MP3, Other Lossless formats" href="http://www.emuparadise.org/soundtracks/highquality/index.php">High Quality (FLAC)</a><br> 
+					» <a title="Gaming Music in SPC, NSF, PSF, PSFII formats" href="http://www.emuparadise.org/music/">Native Console 
+Formats</a><br> 
+					» <a title="Video Game Sheet Music" href="http://www.emuparadise.org/sheet-music/">Video Game Sheet Music</a><br> 
+	<br><b>Video:</b><br>
+	» <a title="Video Game Movies &amp; Documentaries for Download" href="http://www.emuparadise.org/Movies/">Movies &amp; Documentaries</a><br>
+	» <a title="Video Game Related TV Shows for Download" href="http://www.emuparadise.org/TV-Shows/">Video Game TV Shows</a><br> 
+					» <a title="Download Full Motion Video (FMVs) featured in Video Games" href="http://www.emuparadise.org/FMVs/">In-game Videos</a><br> 
+» <a title="Download ads for video games right from the 1970s" href="http://www.emuparadise.org/Commercials/">Video Game Commercials</a><br> 
+								
+
+        </p>
+	<p title="Strategy Guides, Comics, etc." style="position:relative; float:left;" class="black">
+» <a title="Game guides and walkthroughs to get you through those tough parts" href="http://www.emuparadise.org/magazine-comic-guide-scans/guides">Strategy &amp; Game Guide Scans</a><br> 
+» <a title="Gaming Books such as Art Books, Character Descriptions, Story books and more" href="http://www.emuparadise.org/magazine-comic-guide-scans/books">Game Art &amp; Book Scans</a><br>                                        
+» <a title="Video Game Magazines, scanned and uploaded for you to download and read!" href="http://www.emuparadise.org/magazine-comic-guide-scans/magazines">Game 
+Magazine Scans</a><br>
+» <a title="Video Game Comic Series such as Sonic, Castlevania, Knuckles and more" href="http://www.emuparadise.org/magazine-comic-guide-scans/comics">Video Game 
+Comic 
+Scans</a>
+</p>
+
+</div>
+<!--INFOLINKS_ON-->
+
+
 <!-- Start of StatCounter Code -->
 <script type="text/javascript" language="javascript">
 var sc_project=1357597; 
@@ -624,18 +880,50 @@ var sc_security="440cd75e";
 var sc_remove_link=1; 
 </script>
 
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c13.statcounter.com/counter.php?sc_project=1357597&java=0&security=440cd75e&invisible=1" alt="hit counter script" border="0"> </noscript>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img
+src="http://c13.statcounter.com/counter.php?sc_project=1357597&amp;java=0&amp;security=440cd75e&amp;invisible=1" alt="hit counter script" border="0"> </noscript>
 <!-- End of StatCounter Code -->
+ 
+<img border="0" width="0" height="0" src="http://www.emuparadise.org/autositemap/autositemap.php" alt="Google Sitemap Generator">
 
 <script type="text/javascript">var infolink_pid = 13766;</script>
-<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>';
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
 <script type="text/javascript">
-var cache_buster=Math.random((new Date()).getMilliseconds())*100000000000000000;
-document.write(unescape('%3Cscript type="text/javascript" src="http://max.gunggo.com/show_ad.ashx?type=pop&amp;sid=1772&amp;cid=1855/1&amp;cm=1&amp;fc=1&amp;hr=0.25&amp;cb='+cache_buster+'"%3E%3C/scr'+'ipt%3E'));
-</script><script type="text/javascript" src="http://max.gunggo.com/show_ad.ashx?type=pop&amp;sid=1772&amp;cid=1855/1&amp;cm=1&amp;fc=1&amp;hr=0.25&amp;cb=18308955280527960"></script>
+	doclix_pid = 16623;
+	doclix_cid_anchor = 1580;
+</script>
+<script type="text/javascript" src="http://ads.doclix.com/adserver/serve/js/doclix_synd_overlay.js" defer="" charset="utf-8"></script>
 
-<img border="0" width="0" height="0" src="http://www.emuparadise.org/autositemap/autositemap.php" alt="Google Sitemap Generator">
+
+
+
+<div style="position:absolute;top:175px;display:none;">
+
+<form method="get" action="http://translate.google.com/translate">
+
+<input type="hidden" name="js" value="n">
+<input type="hidden" name="prev" value="_t">
+<input type="hidden" name="hl" value="en">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="layout" value="2">
+<input type="hidden" name="eotf" value="1">
+<input type="hidden" name="sl" value="en">
+<input type="hidden" name="u" value="http://www.emuparadise.org/privacy.php">
+
+<select name="tl" onchange="this.form.submit();">
+<option disabled="disabled" selected="selected">Translate this page</option>
+<option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="ar">Arabic</option><option value="hy">Armenian ALPHA</option><option value="az">Azerbaijani ALPHA</option><option value="eu">Basque ALPHA</option><option value="be">Belarusian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="en">English</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="gl">Galician</option><option value="ka">Georgian ALPHA</option><option value="de">German</option><option value="el">Greek</option><option value="ht">Haitian Creole ALPHA</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="ko">Korean</option><option value="la">Latin ALPHA</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="mk">Macedonian</option><option value="ms">Malay</option><option value="mt">Maltese</option><option value="no">Norwegian</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sr">Serbian</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="es">Spanish</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu 
+ALPHA</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="yi">Yiddish</option>
+
+</select>
+
+<input type="submit">
+
+</form>
+
+</div>
+
 
 
 
