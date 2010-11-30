@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greensmoke.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503211204id_/http%3A//greensmoke.com/catalog/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensmoke.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130221006id_/http%3A//greensmoke.com/catalog/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Green Smoke
 
