@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thestatecolumn.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514165706id_/http%3A//www.thestatecolumn.com/additional/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestatecolumn.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130041746id_/http%3A//thestatecolumn.com/privacy/index.php) for the most accurate reproduction.*
 
-# The State Column | Privacy
+# The State Column
 
 Last Updated: February 1, 2010
 
-At Thestatecolumn.com, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information from users of the Thestatecolumn.com Web site. We also encourage you to review our [Terms of Service ](https://web.archive.org/additional/termsandconditions.php)for information regarding rights, usage, trademarks, licenses, liability, trademark, and content ownership. 
+At thestatecolumn.com, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information from users of the Thestatecolumn.com Web site. We also encourage you to review our [Terms of Service ](https://web.archive.org/terms/index.php)for information regarding rights, usage, trademarks, licenses, liability, trademark, and content ownership. 
 
 Thestatecolumn.com is a subsidiary of the The State Column, LLC.  We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
