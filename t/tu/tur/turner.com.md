@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328141029id_/http%3A//www.turner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130125751id_/http%3A//www.turner.com/privacy.html) for the most accurate reproduction.*
 
 # Turner - Privacy Policy
 
@@ -54,7 +54,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 The Turner sites covered by this Privacy Statement sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some of the Turner sites covered by this Privacy Statement may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20100328141029id_/http%3A//www.turner.com/privacy.html#add4).
+Some of the Turner sites covered by this Privacy Statement may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20101130125751id_/http%3A//www.turner.com/privacy.html#add4).
 
 ##  Our Commitment to Security 
 
