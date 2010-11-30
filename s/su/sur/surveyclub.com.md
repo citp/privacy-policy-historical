@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629114939id_/http%3A//www.surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130114626id_/http%3A//surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Survey Club - Take Paid Surveys Online and Get Paid!
 
