@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelkoo.co.uk privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312100930id_/http%3A//www.kelkoo.co.uk/co_16734-privacy-policy-kelkoo-uk.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelkoo.co.uk privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130164610id_/http%3A//www.kelkoo.co.uk/co_16734-privacy-policy-kelkoo-uk.html) for the most accurate reproduction.*
 
 # Privacy Policy | Kelkoo UK
 
@@ -15,7 +15,7 @@ This Privacy Policy is incorporated in and subject to the [Terms of Use](http://
 
 ##  Who are we?
 
-Any Personal Information you provide to us is held by Kelkoo.com (UK) Limited, a company registered in the UK with company number 3844739. We are located at 6th Floor, Portland House, London SW1E 5BH and are a registered data controller with number Z8300255.
+Any Personal Information you provide to us is held by Kelkoo.com (UK) Limited, a company registered in the UK with company number 3844739. We are a registered data controller with number Z8300255.
 
 ##  Personal Information
 
@@ -61,7 +61,7 @@ We may pass on your Personal Information to other parties as follows:
 
 ##  How do you edit and delete your account information and preferences?
 
-You can edit your account information and preferences at any time, including whether you want Kelkoo to contact you about products, services, content and special offers. If you do not wish to receive the Kelkoo Newsletter then you can also click on the link to unsubscribe contained at the bottom of the Kelkoo Newsletter email or [email us](mailto:newsletter@kelkoo.co.uk) or write to us at: Legal Department, Kelkoo.com (UK) Limited, 6th Floor, Portland House, London SW1E 5BH
+You can edit your account information and preferences at any time, including whether you want Kelkoo to contact you about products, services, content and special offers. If you do not wish to receive the Kelkoo Newsletter then you can also click on the link to unsubscribe contained at the bottom of the Kelkoo Newsletter email or [email us](mailto:newsletter@kelkoo.co.uk).
 
 ##  How long do we hold Personal Information for?
 
@@ -85,7 +85,7 @@ We hold Personal Information on servers in the UK and Ireland. Some Personal Inf
 
 ##  Access to information
 
-You have the right to access information held about you. If you would like to receive a copy of your Personal Information held by us, please write to us at Legal Department, Kelkoo.com (UK) Limited, 6th Floor, Portland House, London SW1E 5BH. We may charge you a small administrative fee to meet our costs in providing you with details of your Personal Information which we hold.
+You have the right to access information held about you. If you would like to receive a copy of your Personal Information held by us, please write to us at Legal Department, Kelkoo.com (UK) Limited. We may charge you a small administrative fee to meet our costs in providing you with details of your Personal Information which we hold.
 
 ##  Changes to our Privacy Policy
 
@@ -101,4 +101,4 @@ Our Website may, from time to time, contain links to and from the websites of ou
 
 ##  Want to know more?
 
-If you have any questions or comments about our privacy policy or how we use your Personal Information, please contact us by [email](mailto:legal@kelkoo.co.uk) or write to us at: Legal Department, Kelkoo.com (UK) Limited, 6th Floor, Portland House, London SW1E 5BH.
+If you have any questions or comments about our privacy policy or how we use your Personal Information, please contact us by [email](mailto:legal@kelkoo.co.uk) or write to us at: Legal Department, Kelkoo.com (UK) Limited
