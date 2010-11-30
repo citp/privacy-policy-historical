@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadmaster.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611230049id_/http%3A//theadmaster.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadmaster.net privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130050754id_/http%3A//theadmaster.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Ad Master - Advertise Everywhere
 
@@ -13,7 +13,7 @@ Privacy Policy for The Ad Master – Advertise Everywhere
 ##  **PRIVACY POLICY**
 
   
-Welcome to The Ad Master – [Advertise](http://theadmaster.net/advertise/ "Advertise") Everywhere (the “Site”).
+Welcome to The Ad Master – Advertise Everywhere (the “Site”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business.   
 This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without   
