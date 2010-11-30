@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123073419id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130035115id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Tata Sky Satellite Television – PRIVACY POLICY
 
