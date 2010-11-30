@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyyo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102002736id_/http%3A//www.wyyo.com%3Ftmp%3Dwyyo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyyo.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130113412id_/http%3A//www.wyyo.com%3Ftmp%3Dwyyo_privacy) for the most accurate reproduction.*
 
 # WYYO.com - Privacy Policy
 
@@ -28,4 +28,4 @@ Suite 840 New York, NY 10017
 Attn: Privacy Officer   
 
 
-© 2009 WYYO.com. All rights reserved. 
+© 2010 WYYO.com. All rights reserved. 
