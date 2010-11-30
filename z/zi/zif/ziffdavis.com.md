@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ziffdavis.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524070509id_/http%3A//ziffdavis.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziffdavis.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130164747id_/http%3A//www.ziffdavis.com/about-us/privacy) for the most accurate reproduction.*
 
 # Ziff Davis Media : Privacy Policy
 
 #### Ziff Davis Privacy Policy ("Privacy Policy")
 
-This Privacy Policy describes the ways that Ziff Davis Media Inc. (together with its parent and subsidiary entities, "Ziff Davis" "we" "us" or "our") gathers personal information, our information sharing practices, and how online users, event registrants and subscribers may request changes to the way their personal information is shared.
+This Privacy Policy describes the ways that Ziff Davis, Inc. (together with its parent and subsidiary entities, "Ziff Davis" "we" "us" or "our") gathers personal information, our information sharing practices, and how online users, event registrants and subscribers may request changes to the way their personal information is shared.
 
 Note: (i) Since August 2007 Enterprise Media Group, Inc. has been doing business as Ziff Davis Enterprise; (ii) On January 5, 2009, the 1UP Network sites including 1UP.com, MyCheats.com, Gamevideos.com and Gametab.com were acquired by Hearst Interactive; and (iii) On April 1, 2009, Filefront.com was acquired by FileFront Ventures. These sites and entities are independent third parties and sites that are not related to us. For privacy and other information regarding these third party sites and entities, please go directly to the applicable site. This Privacy Policy does not apply to any information collected or possessed by these third party sites or entities. 
 
