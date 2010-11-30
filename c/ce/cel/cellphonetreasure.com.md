@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellphonetreasure.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209044850id_/http%3A//www.cellphonetreasure.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphonetreasure.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130201007id_/http%3A//cellphonetreasure.com/privacy.htm) for the most accurate reproduction.*
 
 # Terms Of Service
 
