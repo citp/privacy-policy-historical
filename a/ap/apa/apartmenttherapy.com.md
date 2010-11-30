@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmenttherapy.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322230509id_/http%3A//www.apartmenttherapy.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenttherapy.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130162722id_/http%3A//www.apartmenttherapy.com/main/privacy) for the most accurate reproduction.*
 
 # Apartment Therapy Privacy Policy
 
@@ -90,9 +90,9 @@ Residents of the State of California, under certain provisions of the California
 
 Apartment Therapy, LLC
 
-22 Howard Street, Suite 4i
+270 Lafayette Street, Suite 1204
 
-New York, NY 10013
+New York, NY 10012
 
 Attn: California Privacy Request
 
