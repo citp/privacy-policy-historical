@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpowerup.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305131157id_/http%3A//www.techpowerup.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpowerup.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130142956id_/http%3A//www.techpowerup.com/legal.php) for the most accurate reproduction.*
 
 # techPowerUp! :: Privacy Policy
 
