@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530224527id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130130313id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Millennial Media
 
 **Company Privacy Policy**
 
-Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Millennial Media´s mobile advertising products and services, as well as our websites located at [www.millennialmedia.com](https://web.archive.org/web/20100530224527id_/http://www.millennialmedia.com/) and [www.decktrade.com](http://www.decktrade.com/).
+Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Millennial Media´s mobile advertising products and services, as well as our websites located at [www.millennialmedia.com](https://web.archive.org/web/20101130130313id_/http://www.millennialmedia.com/) and [www.decktrade.com](http://www.decktrade.com/).
 
 **Website Data Collection**
 
-Millennial Media is the sole owner of the information collected on our websites, [www.millennialmedia.com](https://web.archive.org/web/20100530224527id_/http://www.millennialmedia.com/) and [www.decktrade.com](http://www.decktrade.com/). We do not share, sell, rent, or provide this data to any other parties. Millennial Media collects this data and uses it exclusively to provide requested information to prospective clients and to establish self-service advertiser and publisher accounts.
+Millennial Media is the sole owner of the information collected on our websites, [www.millennialmedia.com](https://web.archive.org/web/20101130130313id_/http://www.millennialmedia.com/) and [www.decktrade.com](http://www.decktrade.com/). We do not share, sell, rent, or provide this data to any other parties. Millennial Media collects this data and uses it exclusively to provide requested information to prospective clients and to establish self-service advertiser and publisher accounts.
 
 **Links to Third-Party Sites**
 
-Millennial Media´s websites contain links to other websites. Millennial Media is not responsible for the privacy practices of these websites. Specifically, the [www.millennialmedia.com](https://web.archive.org/web/20100530224527id_/http://www.millennialmedia.com/) website links to sites providing news coverage, to partner sites for case studies, and to industry association sites of which Millennial Media is a member. The [www.decktrade.com](http://www.decktrade.com/) site links to individual advertiser and publisher websites to enable account owners to review and approve campaign setup and delivery options.
+Millennial Media´s websites contain links to other websites. Millennial Media is not responsible for the privacy practices of these websites. Specifically, the [www.millennialmedia.com](https://web.archive.org/web/20101130130313id_/http://www.millennialmedia.com/) website links to sites providing news coverage, to partner sites for case studies, and to industry association sites of which Millennial Media is a member. The [www.decktrade.com](http://www.decktrade.com/) site links to individual advertiser and publisher websites to enable account owners to review and approve campaign setup and delivery options.
 
 **Non-Personally Identifiable Consumer Data**
 
