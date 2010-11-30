@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the the90thminute.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619093736id_/http%3A//www.the90thminute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the90thminute.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130231123id_/http%3A//www.the90thminute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The 90th Minute Soccer Blog
 
 **Privacy  Policy  
 **  
-The 90th Minute Soccer Blog knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.  
+The 90th Minute Soccer Blog knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
+
 This Privacy Policy covers The 90th Minute Soccer Blog’s treatment of personal information that The 90th Minute Soccer Blog gathers when you are on the The 90th Minute Soccer Blog website and when you use The 90th Minute Soccer Blog services. This policy does not apply to the practices of third parties that The 90th Minute Soccer Blog does not own or control, or to individuals that The 90th Minute Soccer Blog does not employ or manage.
 
 Information Collected by The 90th Minute Soccer Blog  
@@ -63,3 +64,5 @@ If you decide to visit The 90th Minute Soccer Blog website, your visit and any 
 Effective Date of this Privacy Policy 
 
 This Privacy Policy is effective as of The 90th Minute Soccer Blog and last updated Tuesday, March 2, 2010.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
