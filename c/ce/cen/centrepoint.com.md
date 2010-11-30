@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrepoint.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325233108id_/http%3A//www.centrepoint.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrepoint.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130215356id_/http%3A//www.centrepoint.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 Room Type
 
