@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607001530id_/http%3A//www.importcds.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130122705id_/http%3A//www.importcds.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # ImportCds.com Privacy Policy
 
@@ -54,7 +54,7 @@ Super D and ImportCds.com sites may use reputable third parties to present or se
 
 ## Cookies
 
-When visiting www.ImportCds.com, cookies may be assigned on your computer, to facilitate access to our site and to personalize your online experience. Cookies are small text files that help use to recognize repeat users and allow us to observe behavior and collect data in order to improve the performance and shopping experience on www.ImportCds.com for you. Through the use of a cookie, we also may automatically collect information about your online activity on our site, : what web pages you visit, which links you click, and the different searches you are conducting on our site. You are able to modify your browser setting to decline cookies. If you choose to decline cookies, be aware that you may not be able to sign into our site or your account and that some of the features and contents on our website might not be available to you.
+When visiting this site, cookies may be assigned on your computer, to facilitate access to our site and to personalize your online experience. Cookies are small text files that help use to recognize repeat users and allow us to observe behavior and collect data in order to improve the performance and shopping experience on this site for you. Through the use of a cookie, we also may automatically collect information about your online activity on our site, : what web pages you visit, which links you click, and the different searches you are conducting on our site. You are able to modify your browser setting to decline cookies. If you choose to decline cookies, be aware that you may not be able to sign into our site or your account and that some of the features and contents on our website might not be available to you.
 
 ## Our Commitment to Security
 
@@ -71,9 +71,9 @@ Changes to this Notice This Notice may be changed by Super D and ImportCds.com. 
 If you have any questions or concerns about the Super D and ImportCds.com Privacy Notice or its implementation please contact us via email at [SD Marketing](mailto:marketing@sdcd.com) or at the following address:
 
 Super D  
-Attention: Discussions Magazine -Consumer Affairs  
+Attention: Consumer Affairs  
 17822 Gillette Ave. #A  
 Irvine, CA 92614  
 USA 
 
-This Privacy Notice was revised 10/14/2008. 
+This Privacy Notice was revised 16-Sept-2010
