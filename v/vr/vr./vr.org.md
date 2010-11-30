@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vr.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613012454id_/http%3A//vr.org/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vr.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130080203id_/http%3A//vr.org/about/policies/privacy-policy) for the most accurate reproduction.*
 
 # Host Virtual - Privacy Policy
 
