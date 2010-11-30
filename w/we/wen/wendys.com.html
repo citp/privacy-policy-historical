@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the wendys.com privacy policy that was archived on 2010-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100329140107id_/http%3A//www.wendys.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wendys.com privacy policy that was archived on 2010-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130051822id_/http%3A//wendys.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	
 
-<!-- BEGIN TOP NAV -->
 
 
 
@@ -14,7 +13,6 @@
 <link rel="stylesheet" href="/theme/v3/css/main.css" media="all" type="text/css">
 <script src="/main.js" type="text/javascript"></script>
 
-
 	<title>Wendy's</title>
 	<script src="/main.js" type="text/javascript"></script>
 </head>
@@ -22,82 +20,51 @@
 
 <div id="container">
 
+<!-- BEGIN TOP NAV -->
+
 <script type="text/javascript" src="/scripts/mootools-1.11-min.js"></script>
 
-	
 <script type="text/javascript">
 	//when the dom is ready...
-	window.addEvent('domready', function() {		
-	
-		// food navigation	
-		if($('nav-02')) {
-			$('nav-02').addEvents({
+	window.addEvent('domready', function() {
+
+		// food navigation
+		if($('nav-01')) {
+			$('nav-01').addEvents({
 				mouseenter: function(){
 					// This makes it visible
 					$('subnav-food').setStyle('display','block');
-					
+
 				},
 				mouseleave: function(){
 					// Morphes back to the original style
 					$('subnav-food').setStyle('display','none');
-					
+
 				}
 			});
 		}
-		
-		// food navigation	
+
+		// food navigation
 		if($('subnav-food')) {
 			$('subnav-food').addEvents({
 				mouseenter: function(){
 					// This makes it visible
 					$('subnav-food').setStyle('display','block');
-					
+
 				},
 				mouseleave: function(){
 					// Morphes back to the original style
 					$('subnav-food').setStyle('display','none');
-					
+
 				}
 			});
 		}
-		
-		// food navigation	
-		if($('nav-03')) {
-			$('nav-03').addEvents({
-				mouseenter: function(){
-					// This makes it visible
-					$('subnav-news').setStyle('display','block');
-					
-				},
-				mouseleave: function(){
-					// Morphes back to the original style
-					$('subnav-news').setStyle('display','none');
-					
-				}
-			});
-		}
-		
-		// food navigation	
-		if($('subnav-news')) {
-			$('subnav-news').addEvents({
-				mouseenter: function(){
-					// This makes it visible
-					$('subnav-news').setStyle('display','block');
-					
-				},
-				mouseleave: function(){
-					// Morphes back to the original style
-					$('subnav-news').setStyle('display','none');
-					
-				}
-			});
-		}
-		
+
 		// hoverstates
 		$$('img.nav-link').each(function(img) {			
 			var src = img.getProperty('src');
 			var extension = src.substring(src.lastIndexOf('.'),src.length)
-			
+
 			if (src.contains("-on")) {
 				// do nothing, it's the active state
 			} else {
@@ -105,7 +72,7 @@
 				img.addEvent('mouseleave', function() { img.setProperty('src',src); });
 			}
 		});
-		
+
 	});
 </script>
 
@@ -124,39 +91,33 @@
 			<li id="food-03"><a href="/quality/"><img src="/theme/v3/images/en/subnav-food-qualityrecipe.jpg" alt="Quality Is Our Recipe"></a><img src="/theme/v3/images/subnav-sep.jpg" alt="" class="subnav-sep"></li>
 			<li id="food-04"><a href="/food/healthy-options.jsp"><img src="/theme/v3/images/en/subnav-food-nutritiousoptions.jpg" alt="Nutritious Options"></a></li>
 		</ul>
-		
-		<ul id="subnav-news">
-			<img class="right" width="10" alt="" src="/theme/v3/images/subnav-cap-right.jpg">
-			<img class="left" width="10" alt="" src="/theme/v3/images/subnav-cap-left.jpg">
-			<li id="news-01"><a href="/news/news/index.jsp"><img src="/theme/v3/images/en/subnav-news-newsatwendys.jpg" alt="News At Wendy's"></a><img src="/theme/v3/images/subnav-sep.jpg" alt="" class="subnav-sep"></li>
-			<li id="news-03"><a href="/news/signUp.jsp"><img src="/theme/v3/images/en/subnav-news-wendymail.jpg" alt="Sign Up for WendyMail"></a><img src="/theme/v3/images/subnav-sep.jpg" alt="" class="subnav-sep"></li>
-			<li id="news-04"><a href="/news/unsubscribe.jsp"><img src="/theme/v3/images/en/subnav-news-unsubscribe.jpg" alt="Unsubscribe"></a></li>
-		</ul>
-		
 		<ul id="mainnav">						
-			<li id="nav-01" class=""><a href="/"><img src="/theme/v3/images/en/_toggles/nav-home-on.jpg" alt="Home" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep"></li>
-			<li id="nav-02" class="">
+			<li id="nav-01" class="">
 				<a href="/food/Menu.jsp"><img src="/theme/v3/images/en/_toggles/nav-food.jpg" alt="Food" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">				
 			</li>	
+			<li id="nav-02" class="">
+				<a href="/careers/" target="_blank"><img src="/theme/v3/images/en/_toggles/nav-careers.jpg" alt="Careers" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
+			</li>
 			
 				<li id="nav-03" class="">
-					<a href="/news/"><img src="/theme/v3/images/en/_toggles/nav-newsoffers.jpg" alt="News &amp; Offers" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">					
-				</li>
-				<li id="nav-04" class="">
 					<a href="/ads/"><img src="/theme/v3/images/en/_toggles/nav-ads.jpg" alt="Ads" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
 				</li>
 			
-			<li id="nav-05" class="">
-				<a href="/careers/"><img src="/theme/v3/images/en/_toggles/nav-careers.jpg" alt="Careers" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
-			</li>
-			<li id="nav-06" class="">
+			<li id="nav-04" class="">
 				<a href="/community/"><img src="/theme/v3/images/en/_toggles/nav-community.jpg" alt="Community" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
 			</li>
-			<li id="nav-07" class="">
+			<li id="nav-05" class="">
 				<a href="/about_us/"><img src="/theme/v3/images/en/_toggles/nav-aboutus.jpg" alt="About Us" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
 			</li>
-			<li id="nav-08" class="">
-				<a href="http://www.wendysarbys.com/" target="_blank"><img src="/theme/v3/images/en/_toggles/nav-investors.jpg" alt="Investors" class="nav-link"></a>
+			<li id="nav-06" class="">
+				
+					<a href="https://wwws.givex.com/cws/wendys_us/" target="_blank"><img src="/theme/v3/images/en/_toggles/nav-giftcards.jpg" alt="Gift Cards" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
+				
+			</li>
+			<li id="nav-07" class="">
+				
+					<a href="/news/signUp.jsp"><img src="/theme/v3/images/en/_toggles/nav-wendymail.jpg" alt="Signup For Wendymail" class="nav-link"></a>
+				
 			</li>
 		</ul>
 	</div>
@@ -212,7 +173,7 @@
 					<li><h2>&nbsp;</h2></li>
 					<li><a href="contact.jsp">CONTACT US</a></li>
 					<li><a href="privacy.jsp" class="on">PRIVACY STATEMENT</a></li>
-					<li><a href="legal.jsp">LEGAL</a></li>
+					<li><a href="legal.jsp">TERMS &amp; CONDITIONS</a></li>
 				</ul></td>
 				
 				<td width="1" class="dots"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
@@ -241,31 +202,22 @@
 		<!-- END CONTENT -->
 
 <!-- BEGIN FOOTER -->
-
 <div id="footer-template"></div>
 <br>
-<div id="footer">						
-	<div id="giftcards">
-		
-			<a href="https://wwws.givex.com/cws/wendys_us/" target="_blank"><img src="/theme/v3/images/en/icon-giftcards.png" alt="Gift Cards"></a>
-			<a href="https://wwws.givex.com/cws/wendys_us/" target="_blank">Gift Cards</a>
-		
-		</div>
-
-	<div id="kidsmeals"><a href="/kids_meal/index.jsp"><img src="/kids_meal/images/icon_footer.jpg" alt="Kids' Meal" width="45" height="28"></a>
+<div id="footer">
+	<div id="kidsmeals" style="padding:0 10px 0 0;"><a href="/kids_meal/index.jsp"><img src="/kids_meal/images/icon_footer.jpg" alt="Kids' Meal" width="60" height="28"></a>
 	<a href="/kids_meal/index.jsp">Kids' Meal</a></div>
 
-	<div id="careers"><a href="/careers/"><img src="/theme/v3/images/en/icon-careers.png" alt="Careers that are right for me"></a>
-	<a href="/careers/">Careers that are right for me</a></div>
+	<div id="careers"><a href="/careers/" target="_blank"><img src="/theme/v3/images/en/icon-careers.png" alt="Careers that are right for me"></a>
+	<a href="/careers/" target="_blank">Careers that are right for me</a></div>
 
 	<div id="subnav"><img src="/theme/v3/images/spacer.gif" alt="" height="28" width="1">©2010 
 		
 			<a href="http://www.wendys-invest.com/" target="_blank">Oldemark LLC.</a> 
 				
 		 | 
-		<a href="/privacy.jsp">Privacy Statement</a> | 
-		<a href="/contact.jsp">Contact Us</a> | 
 		<a href="/legal.jsp">Legal</a> | 
+		<a href="/contact.jsp">Contact Us</a> | 
 		
 			<a href="/news/signUp.jsp">Sign Up</a> | 
 		
@@ -276,11 +228,7 @@
 	
 	<div id="subfooter">
 		
-			<div class="signup">
-				<a href="/news/signUp.jsp"><img src="/theme/v3/images/en/footer-wendymail.png" style="width:176px; height:12px;" alt="Signup For Wendymail"></a>
-			</div>
-	
-			<div class="marks">
+			<div class="marks" style="padding-left:120px;">
 				<img src="/images/social.png" style="width:136px; height:8px;" alt="BE SOCIAL WITH WENDY'S">
 				<a href="http://www.facebook.com/wendys" target="_blank"><img src="/images/facebook.png" style="width:24px; height:24px;" alt="Facebook"></a>
 				<a href="http://twitter.com/wendys" target="_blank"><img src="/images/twitter.png" style="width:24px; height:24px;" alt="Twitter"></a>
@@ -291,7 +239,7 @@
 			<div class="cccards"><img src="/images/cards_us.gif" alt=""> At participating Wendy's</div>
 	
 			<br clear="all" class="clear">
-			Wendy's Kids' Meal name and design are registered trademarks of Oldemark LLC and are licensed to Wendy's International Inc.
+			The Wendy's name, Wendy's Kids' Meal design, and Pause. Play. Together. name and design are trademarks of Oldemark LLC and are licensed to Wendy's International, Inc. 
 		
 	</div>
 </div>
