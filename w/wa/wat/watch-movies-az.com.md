@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-movies-az.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523033110id_/http%3A//watch-movies-az.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-movies-az.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130091810id_/http%3A//watch-movies-az.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch Movies AZ
 
