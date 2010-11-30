@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welovewp.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305064713id_/http%3A//welovewp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovewp.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130141918id_/http%3A//welovewp.com/privacy-policy) for the most accurate reproduction.*
 
 # We Love WP – WordPress Gallery, WordPress Websites, Blog Designs, Designer Inspiration and WP Themes. » Privacy Policy
 
