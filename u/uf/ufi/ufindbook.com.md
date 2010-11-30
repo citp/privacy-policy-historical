@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufindbook.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628162650id_/http%3A//www.ufindbook.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufindbook.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130035501id_/http%3A//ufindbook.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Download Free eBooks
 
