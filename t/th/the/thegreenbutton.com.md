@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenbutton.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005417id_/http%3A//thegreenbutton.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenbutton.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130203517id_/http%3A//thegreenbutton.com/privacy.aspx) for the most accurate reproduction.*
 
 # The Green Button
 
