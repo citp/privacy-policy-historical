@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theveganlifestyle.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527114858id_/http%3A//theveganlifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theveganlifestyle.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130063515id_/http%3A//theveganlifestyle.com/privacy-policy) for the most accurate reproduction.*
 
-# The Vegan Lifestyle » Privacy Policy
+# Privacy Policy : The Vegan Lifestyle
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site http://theveganlifestyle.com/ . The following discloses the information gathering and dissemination practices for this Web site.
 
