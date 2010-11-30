@@ -1,157 +1,174 @@
-> *The following text is extracted and transformed from the sansa.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524043731id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sansa.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130145956id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At SanDisk Corporation, we believe it is important to protect the privacy of our customers and guests. We know that you care about how your personal information is collected, updated, used and shared; and we want to help you make knowledgeable choices about the information you provide to us.
+**To create a positive consumer experience and to protect the SanDisk brand by respecting and honoring an individual's privacy when he/she entrusts data to SanDisk.**
 
-This Privacy Policy explains and summarizes how SanDisk Corporation and the SanDisk group of companies:
+SanDisk respects your privacy, and is committed to providing you with a positive experience on our website and in your other interactions with us.  This privacy policy explains our practices for handling personal information on- and off-line.  If you provide us with personal information, we will treat it as outlined in this policy.
 
-  * collect
-  * use
-  * and protect
+This policy applies to the SanDisk corporate websites and SanDisk web properties linking to or otherwise displaying this policy (the "SanDisk Sites" or "Sites"), and is applicable worldwide.  We encourage you to read this privacy policy and those of all websites you visit.  The policy that applies to any SanDisk branded or controlled website is always the policy that appears in the footer of each website.
 
+ECOMMERCE NOTICE: The online SanDisk Store is operated by our ecommerce vendor, who is the merchant of record in regard to online sales. This vendor's terms of sale and privacy policy apply when you make online purchases through the SanDisk Store. Links to the privacy policy and terms of sale applicable to you are at the bottom of the Shopping Cart page and at Checkout.
 
+**By using the SanDisk Sites and by providing personal information, you consent to the collection, use and transfer of your personal information by SanDisk consistent with applicable data protection laws and this policy. If you do not agree with this policy, please do not use the SanDisk Sites or provide SanDisk with your personal information.**
 
-your personal information as you interact with us online and through our customer and technical support services. 
+Please click [here](https://web.archive.org/about-sandisk/privacy-policy/faq) to see our frequently asked questions about privacy page. Click on the links below to go to a specific section of the privacy policy.
 
-This Privacy Policy applies to SanDisk Corporation, the web site located at [www.sandisk.com](https://web.archive.org/), SanDisk operated web sites and SanDisk affiliates (collectively "SanDisk"). SanDisk affiliates include entities owned or controlled by SanDisk Corporation. In some cases, this Privacy Policy may be tailored to account for variances in law in a particular country. However, this policy is intended to be global in nature. If you are visiting from outside the United States there may be special rules or limitations on your use of this web site or other SanDisk operated web sites.
+  * Privacy policy updates 
+  * Information we collect 
+  * Cookies, web beacons and other technologies we use 
+  * Use of personal information 
+  * Sharing personal information 
+  * How to access and update your personal information 
+  * Security of personal information 
+  * Data retention 
+  * Links to other websites and social media platforms 
+  * Children and privacy 
+  * Transfer of personal information, Safe Harbor 
+  * International and other notices 
+  * Contact us with comments or questions 
 
-**By using our web site, you consent to the collection and use of your personal information by SanDisk consistent with applicable data protection law and this policy.**
 
-This policy explains:
 
-  * What information SanDisk gathers from you.  
-  * How SanDisk uses the personal information you share with us and that we learn about you because of our relationship.  
-  * How SanDisk uses "cookies" and "IP Addresses".  
-  * What personal information, if any, SanDisk may share about you and the conditions we use to protect your information if it must be shared.  
-  * What kind of security measures SanDisk takes to protect your information from accidental loss or disclosure and how SanDisk will inform you in the event of a security breach.  
-  * The circumstances under which you can you access personal information you share with SanDisk and have that information corrected, restrict SanDisk's use of that information or, even have it removed from our records.  
-  * Other things you should know about privacy and SanDisk.
+**Privacy policy updates**
 
+SanDisk may amend this policy from time to time, and may do so at our discretion, consistent with applicable data protection laws and rules. If we change our privacy policy, we will post the revised policy here, as well as a notice in a prominent location on our website and, if we have a way and are legally permitted to do so, we will contact you by email in the event this privacy policy is materially changed. The revised policy will supersede and replace any previous privacy policies effective as of the date on which it is posted. Your use of the SanDisk Sites after any change represents and confirms your consent and agreement to any such changes.
 
+Last updated:  
+The last updated version of this privacy policy can be seen [here](https://web.archive.org/about-sandisk/privacy-policy/archived-privacypolicy).
 
-**COLLECTED INFORMATION AND USAGE**
+**Information we collect**
 
-SanDisk collects and uses information you provide to us including information obtained from your use of this web site. We are not in the business of selling information about you. SanDisk does not share your personal information with third parties for their direct marketing purposes. We may use or share your personal information (e.g., name, address, telephone number and e-mail address) where it is necessary for us to complete a transaction or do something that you have asked us to do.
+We collect different types of information, including personal information. "Personal information" is information that can be used to identify you, including name, title, occupation, postal or physical address, telephone number, e-mail address, and other information required to carry out a transaction, provide a service or deliver a product you have requested. Depending on where you are based, personal information may also include your Internet Protocol (IP) address and other information related to your computer, or an opinion you have expressed. We collect and store community discussions, chats, correspondence through our Sites and correspondence sent to us.
 
-  * For example, we might need to provide your name, address, phone number or email to one of our vendors so that they can process and fulfill your product return or replacement.
-  * We might also refer your personal information to another manufacturer so that they can provide you with technical assistance you request for their product which you may be using in conjunction with one of our products.  
-  * SanDisk employees, agents and service providers who need to access personal information you have provided to fulfill their responsibilities may do so consistent with SanDisk policies that limit access to this type of information.
+We will not collect sensitive information about you (such as information about your health or medical history, ethnic origin, political or religious beliefs, trade union or professional association memberships, sexual orientation, or criminal record) except with your consent or where its collection is required by law.
 
+**The collection and use of your personal information may be necessary for us to provide you with a product or service, communicate with you, or maintain our relationship with you. Please note that if you choose not to provide us with personal information, we may not be able to provide these things to you, in part or at all.**
 
+We also collect other, non-personal types of information about you and analyze it in order to improve our products and services, and to personalize your experience with us. This information includes the Internet Protocol (IP) address, computer and connection information such as browser type, version and time zone setting, operating system, and platform; product registration history, which we may aggregate with other information; the full Uniform Resource Locator (URL) clickstream to, through and from our websites including date and time; cookie number; and the products you viewed or searched for.
 
-SanDisk's vendors and suppliers may process your personal data under the direction and control of SanDisk. Whenever we may need to share your personal information, we try to provide you with the information you need to make informed reasonable choices and we manage your information consistent with applicable privacy law.
+Much of the personal information we collect is collected online, but we also collect personal information off-line such as through customer service call centers, at in-person events, and through postal mail (such as rebate or warranty cards you mail in to us).
 
-SanDisk collects and uses personal information from you in several ways:
+To offer you a more personalized experience with SanDisk, information collected through one SanDisk service may be combined with information collected through another SanDisk service.
 
-  * **Web Site Usage.** SanDisk, or SanDisk vendors and suppliers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as pages you have viewed during your use of this web site. While we may collect or log this information, we do not identify you or match this non-personal information with your other personal information. We may use this collected or logged information to diagnose web site technical problems, or to facilitate your use of the site. SanDisk, or one of our vendors or suppliers, also may use this information to track aggregate traffic patterns throughout this web site.    
-  * **E-Commerce**. You may be asked to share personal information such as your name, address and telephone number in order to complete a transaction. When you purchase a SanDisk product online you may be asked for information needed to complete your order, contact you to confirm the order and, provide related customer service. This information is used, for example, to effect your transactions, to create and share aggregate reports about these transactions, and to perform credit fraud screening services for transactions between you and SanDisk and/or our authorized service providers. When you buy direct from SanDisk these purchase transactions may be conducted through SanDisk vendors and suppliers including Digital River, Inc. ("Digital River"). Digital River and any other vendor or supplier engaged by SanDisk has their use of your personal information limited by this privacy policy, contractual restrictions and applicable law. In such cases, these distributors may be the merchant of record and the handling of any personal information you may provide to them shall also be subject to their privacy policy. To visit Digital River's privacy policy click [ here](http://corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies) **.** Please note that SanDisk (through Digital River or other vendors or suppliers) may limit the acceptance of orders to particular jurisdictions and as permitted by applicable law.  
-  * **Product Registration & Technical Support.** SanDisk allows all purchasers of its products to register their products online. Personal information or data provided via online product registration forms is used to carry out the request, service or agreement for which the information is submitted. With your consent, we may also use the information you provide in online registration forms to notify you periodically about important changes to the web site (such as a change to this privacy policy or notice of a security breach), new SanDisk products and services, and special offers and contests that may be of interest to you. When you register, we ask for, among other things, your name, address, email, telephone number, type of product purchased and serial number or other product-identifying information, and date of purchase.
+**Cookies, web beacons and other technologies we use**
 
-You are also invited to share other personal information about yourself through what is known as a "record." When you register your purchase with us and create a record, you are given control over and access to the personal information you provide in your record. We contract with a vendor to manage personal information you provide relating to product registration. Your record enables you to control what we know about you and lets you decide how and when we can communicate with you. Our vendor only processes your personal information as directed by SanDisk.   
+We use cookies (small files placed on your hard drive), web beacons, website analytics tools, and the personal information you provide us to personalize your online experience and improve our services.
 
-  * **Optional Personal Information and Product Registration.  ** Some information or data you may place in your record is not required to register your products. Where completion of data fields in your record is required, these fields will be marked with an asterisk. Where you provide optional information, such as information about your interests and hobbies, SanDisk only uses this information on an aggregate basis to enable us to better understand our customers, develop new products, and improve our products and services.
+For example, we use a cookie to remember the country or language preferences you selected on our web site. This saves you time, since you are not required to re-enter the same information each time you visit our site. Other cookies are "session cookies" which means that they are deleted automatically from your hard drive at the end of your browsing session on our Sites. You may encounter cookies from third parties on certain pages of the Sites that we do not control. For example, when you buy SanDisk products online through the SanDisk Store our ecommerce vendor may use cookies. You can modify your browser settings to control whether your computer accepts or declines cookies. If you choose to decline cookies, you may not be able to use certain interactive features of our Sites. Note that you can always go back and delete cookies from your browser; however, that means that any settings or preferences controlled by those cookies will also be deleted and you may need to recreate them.
 
+SanDisk Sites may contain web beacons (also called single-pixel gifs) that may be used to help deliver cookies on our Sites and allow us to track the number of visitors who have visited those pages. We may also include web beacons or cookies in promotional email messages so we can track whether messages have been opened and acted upon. Finally, we may use web beacons or cookies, or use third party web beacons or cookies, to help us compile aggregate, anonymous statistical information about the effectiveness of our Sites' operations or promotional campaigns.
 
+As noted above, we collect information about you and analyze it in order to improve our products and services, and to personalize your experience with us. This information includes the Internet Protocol (IP) address, computer and connection information such as browser type, version and time zone setting, operating system, and platform; product registration history, which we may aggregate with other information; the full Uniform Resource Locator (URL) clickstream to, through and from our Sites including date and time; cookie number; and the products you viewed or searched for. In instances where this includes use of personal data, this use will be in accordance with the consent you have given, or otherwise in accordance with applicable laws.
 
-SanDisk limits the access to and use of your personal information by our vendors and suppliers through the use of administrative, managerial and technical safeguards that are intended to enforce this privacy policy and assure compliance with applicable data protection law.
+**Use of personal information**
 
- Failure to register your product will not diminish the rights you have under the product warranty.
+We will not collect any personal information from you if you have not given us the requisite consent to do so. We will tell you why we wish to collect the personal information, and we will only use your personal information in the way and for the purposes we told you about when we collected it. We will not change the way in which your personal information is used unless we have your consent to do so.
 
-  * **Cookies.**  To the extent web site usage information is developed in connection with your IP address through session cookies, we will only use this information to facilitate your use of the SanDisk web site. Cookies are data files that are written onto your computer by a web site. At the end of your visit, the session cookies are removed.
+Our primary purpose in collecting personal information is to provide you with a positive and customized experience with us. You agree that we may use your personal information:
 
-SanDisk does not use cookies other than the session cookies identified. However, our service providers or vendors may use cookies in order to personalize your experiences and adapt the web site's functionality to your preferences. If you are visiting a URL other than SanDisk.com, or a SanDisk web site, including those hosted by our vendors including Digital River.com or other non-SanDisk URL, you should carefully review the cookie policy of these web sites. For users who register their SanDisk products through customers who purchase SanDisk products online through Digital River, and U.S. customers who purchase products online through shopsansa.com, cookies placed by Digital River or another SanDisk vendor or supplier (as applicable) will remain stored on your computer until you remove them.
+  * To deliver a product or provide a service you have requested; 
+  * To provide you with product registration, technical and customer support;
+  * To administer promotions you enter such as a contest or sweepstakes;
+  * To allow your participation in activities, such as online discussion groups, communities, and surveys;
+  * To send you communications of interest that you have requested, such as emails or text messages about SanDisk (including the SanDisk Group Companies), our products and services, targeted marketing, service updates, and promotional offers;
+  * To customize, measure and improve our products, services, content, and advertising;
+  * To personalize your overall experience with SanDisk; and
+  * To transfer to SanDisk Group Companies and Authorized Third Parties as described below.
 
-You may set your browser to notify you when you receive a cookie or to refuse receiving it, including those set by Digital River or, other SanDisk vendor or service provider. You should be aware that this may interfere with or make you unable to use certain functionality on web sites using cookies. For example, many web sites will ask your permission to use a cookie that will enable you to automatically log on to the web site. Disabling or removing cookies may require you to manually log on each time you wish to visit that web site. You may also delete cookies from your computer through your browser.   
 
-  *   **Recruitment and Job Applications.** Residents of the United States may provide us with personal information through SanDisk.com. Personal information such as that contained on a resume or curriculum vitae, may be submitted in connection with a job application or inquiry. We may use this information throughout SanDisk (worldwide) for the purpose of employment consideration or your inquiry. We may keep your information on file for future consideration. _SanDisk does not accept applications for employment through its web sites from applicants outside the United States._  
-  * **Children.** If under the relevant laws of the place where you are visiting this web site you are considered a minor (usually if you are under age 18), or otherwise would be required to have parent or guardian consent to share information with SanDisk, you should not send any information about yourself to us. For example, if you are a resident of the United States of America you should not submit information to SanDisk unless you are at least 13 years old.  If a person under 13 submits information through any part of the SanDisk web site, and we learn the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from persons under 13, we do not use or disclose such information to third parties.   
-  * **Public Areas.** Any information disclosed in public areas of the SanDisk web site will become public information. We cannot control the use of information disclosed in public forums, such as bulletin boards, blogs and chat rooms. You should exercise caution when disclosing information in these public areas and should refrain from disclosing your personal information. Content posted in public areas of the SanDisk web site, including advice and opinions, represents the views and is the responsibility of those who post the content.  SanDisk does not necessarily endorse, support, verify or agree with the content posted. If you have any questions or comments about any content on the SanDisk web site email:  [webmaster@sandisk.com.](mailto:webmaster@sandisk.com)
 
+Our use of personal data for marketing purposes is subject to your rights, which may be exercised without charge to withdraw your permission.
 
+SanDisk will not use any government identifier to identify you (such as a Social Security Number, Tax ID number, or Medicare number). We will use and disclose these numbers and identifiers only for the purposes required or permitted by applicable law.
 
-**WHEN SANDISK MAY SHARE COLLECTED INFORMATION**
+**Sharing personal information**
 
-As mentioned in the beginning of this policy, SanDisk may share your personal information within the SanDisk group to fulfill its obligations to you and operate its business consistent with this policy and applicable data protection law. SanDisk may also share your personal information with third parties in the following situations.
+Unless we have your permission to do so, we do not rent or sell your personal information to third parties. SanDisk does not share your personal information with third parties for their direct marketing purposes.
 
-  * **SanDisk Vendors and Suppliers.** SanDisk works with vendors and suppliers to provide technical and customer support, shipping, credit card processing, product fulfillment or other services. SanDisk requires these vendors and suppliers to safeguard personal information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to SanDisk, these third parties may have access to or process your personal information. SanDisk limits their use of your personal information to the purpose for which it was shared. SanDisk may sometimes permit our authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related site information. These transfers of aggregate statistics do not involve personal data.  
-  * **Mergers, Acquisitions and Insolvency.**  If SanDisk should ever file for bankruptcy or merge with another company, or if SanDisk should decide to buy, sell or reorganize some part or all of its business, SanDisk may be required to disclose your personal information, including information you have allowed us to see or use in your record, to prospective or actual purchasers or receive personal information from sellers. It is SanDisk's practice to seek appropriate protection for information disclosed or received in these types of transactions consistent with applicable data protection law.    
-  * **As Required by Law and Other Extraordinary Disclosures** SanDisk may be required to disclose your personal information: (i) if it believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority, (ii) would potentially mitigate our liability in an actual or potential lawsuit, (iii) is otherwise necessary to protect our rights or property, or (iv) is necessary to protect the legal rights or property of others.
+By submitting your personal information to us, you agree that your personal information may be transferred to parties under the following circumstances:
 
+  * We may share your personal information within SanDisk Corporation in the US or any of our parent/affiliate/subsidiary companies worldwide ("SanDisk Group Companies"), to guide decisions about their products, services and communications.
+  * We may share your personal information with authorized third parties (such as our vendors) who help with our business operations, including the storage and processing of personal data for the uses listed in this policy ("Authorized Third Parties"). We provide Authorized Third Parties only with the minimum amount of personal information necessary to complete the requested service. We do not allow Authorized Third Parties to use your personal information for any other purpose.
+  * We require that the SanDisk Group Companies and Authorized Third Parties adhere to procedures at least as restrictive as the procedures we follow ourselves, including this privacy policy.
+  * We may need to disclose your personal information to comply with applicable laws, legal processes, and/or to exercise our legal rights or defend against legal claims.
+  * We may disclose personal information and other information available to us when we believe, in our sole discretion, disclosure is necessary or appropriate in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, violations of SanDisk's terms of use, or as otherwise required by law.
+  * If SanDisk should file for bankruptcy or merge with another company, or if SanDisk should decide to buy, sell or reorganize some part or all of its business, we may be required to disclose your personal information, including information you have allowed us to see or use in your record, to prospective or actual purchasers or receive personal information from sellers. It is our practice to seek appropriate protection for information disclosed or received in these types of transactions consistent with applicable data protection law.
 
 
-**SPECIAL NOTICE TO INTERNATIONAL VISITORS AND CUSTOMERS**
 
-Because SanDisk operates globally, we may transfer your personal information within our global operations to fulfill our obligations to you but always subject to the limitations of applicable data protection law and this policy. Privacy laws differ across the globe. To help visitors whose native language may not be English understand our privacy practices, we may provide special information on our privacy policies that may be applicable to these visitors in different languages here. If it is necessary for the purposes for which you have shared personal information with us for us to share your information within SanDisk's global operations, we will do so consistent with this policy. For example, necessary transfers of European customer personal information will be made consistent with Safe Harbor principles (see below).
+Please remember that any information you choose to disclose in public areas of the SanDisk Sites (such as community forums or published product reviews) will become public information. You should exercise caution when disclosing information in public areas and should refrain from disclosing your personal information.
 
-**This web site is hosted in the United States.** SanDisk recognizes that many of our site's visitors may not use English as their primary language. Accordingly, in some instances we have made available versions of this web site in other languages [here](https://web.archive.org/worldwide).
+**How to access and update your personal information**
 
-**If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be more strict than U.S. law, please note that you are transferring your personal data to the United States to SanDisk Corporation. By providing your personal data you consent to that transfer.**
+We want to be sure the personal information we keep for you is up to date and accurate. We will take reasonable steps to ensure that any personal information you have submitted through the Sites is accurate, complete and up to date. You have the right under applicable data protection laws to access the personal information that SanDisk keeps for you, on request to SanDisk, except in certain limited circumstances (for example, where an applicable law requires us to deny such access). You can use the links immediately below or contact us by email or mail (see the "Contact Us" section at the end of this policy for details) to request access to your personal information.
 
-**EU-** **U.S. Safe Harbor Adherence.** SanDisk adheres to the Safe Harbor principles agreed to by the United States and European Union relating to data protection. Information on the Safe Harbor may be found [here](http://www.export.gov/safeharbor/).
+  * UNSUBSCRIBE: To unsubscribe from SanDisk promotional communications, click [here](https://ebm.cheetahmail.com/r/webunsub?n=200&t=hAAAAAAAajgk5B74XfAAAAAAAkz "Unsubscribe Link"). 
+  * UPDATE PREFERENCES: Update your SanDisk communications preferences any time online [here](https://reg.cheetahmail.com/regp?aid=445516089&n=400 "Update Profile"). 
+  * "MY SANDISK" PRODUCT REGISTRATION: To update or change contact information you provided in connection with product registration or customer support through the My SanDisk feature, you can click [here](http://kb.sandisk.com/app/home "SanDisk Support"). (If this feature is not available in your country, the link may not be active.)
+  * WAKE UP YOUR PHONE: To update your marketing preferences on WakeUpYourPhone.com, you will need to log in to your account. Log in [here](http://www.wakeupyourphone.com/en-US "Wake Up Your Phone"). Once you are logged in, go to your profile and you can update your marketing preferences, change your profile, or delete your account.
+  * ECOMMERCE: As noted above, the SanDisk Store is operated by our ecommerce vendor, who is the merchant of record in regard to online sales. This vendor's terms of sale and privacy policy apply when you make online purchases through the SanDisk Store. Links to the privacy policy and terms of sale applicable to you are at the bottom of the Shopping Cart page and at Checkout. To update or change information you provided when purchasing SanDisk products online through the SanDisk Store you can contact our ecommerce vendor [here](http://corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies).  (If this feature is not available in your country, the link may not be active.)
+  * OTHER INQUIRIES: If these links do not address your access needs, you can email us at one of the email addresses in the [Contact us](mailto:privacy@sandisk.com)  section below. Please include your contact information, the name of the SanDisk Site, communication or other service about which you are contacting us, and a detailed description of your specific request.
 
-Parts of this privacy policy may not apply to visitors from outside the United States because certain services are not offered to those outside the United States. For example, SanDisk may rely upon distributors to make SanDisk products available online. In such cases, these distributors may be the merchant of record and the handling of any personal information you may provide to them shall be subject to their privacy policy. Customer and technical support is available through this web site and via telephone worldwide. These services are provided in the United States subject to the Safe Harbor principles.
 
-**STORAGE AND PERIOD OF HOLDING FOR PERSONAL INFORMATION**
 
-Unless otherwise requested by you, SanDisk will continue to keep the personal information you provided to us. If the reason for collecting your personal information no longer exists, we will delete the personal information at the appropriate required time if legally required by relevant applicable data protection law.
+**Security of personal information**
 
-**SECURITY**
+We appreciate your trust in sharing your personal information with us, and we are committed to protecting it. We utilize a combination of industry-standard security technologies, procedures and organizational measures to help protect your personal information from unauthorized access, use or disclosure.
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
+By way of example, access to personal information is restricted to those employees, contractors and agents of SanDisk who need to know such data to perform their assigned functions and develop or improve our products and services. Also, we store personal information you may provide to us on computer systems with limited access, which are located in controlled facilities. Also, if we were to transmit particularly sensitive information (such as a credit card number) over the Internet, we would protect the information through the use of encryption such as the Secure Socket Layer (SSL) protocol.
 
-If SanDisk learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. SanDisk may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the SanDisk.com web site. SanDisk may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@sandisk.com](mailto:privacy@sandisk.com).
+We have legal obligations to protect the security of your personal data. Despite our efforts, there remains the possibility that information may be accessed, altered, disclosed, or destroyed due to a security breach. In the event of a security breach, if our investigations indicate that there could be significant harm to you as a result of such unauthorized access or disclosure we will promptly notify you and the proper authorities. We also encourage you to take precautions to protect your personal information when you are online. Create strong passwords by using a combination of letters and numbers when creating them, change passwords often, and use a secure browser.
 
-**LINKS TO THIRD-PARTY SITES AND CO-BRANDED WEB SITES**
+**Data retention**
 
-This web site may contain links to third-party sites, however, please be aware that SanDisk is not responsible for and cannot control the privacy practices of these other sites. We encourage you to read the privacy policies for these other sites, as they may differ from ours.
+SanDisk will not retain your personal information longer than is necessary to honor your choices, fulfill the purposes for which it was collected, or as required by applicable laws and regulations (which, for example, may require us to retain certain transactional data). Your personal information will be destroyed or permanently de-identified in a secure manner when it is no longer required. For example, when the information is printed on paper it will be deleted/destroyed by shredding or incineration; where the information is stored electronically, it will be deleted by technical means to render the information unusable.
 
-This web site also contains links to co-branded web sites that may display SanDisk's logo and trademarks but which are maintained by third parties. Such web sites may be identified by the fact that they do not display a "sandisk.com" URL. Please read the privacy policy on the co-branded site for the applicable privacy practices relating to personal information collected via that site, as it may differ from this Privacy Policy. This Privacy Policy applies solely to personal information collected by SanDisk.
+**Links to other websites and social media platforms**
 
-**CHANGES TO THIS POLICY BY SANDISK**
+Our Sites may contain links to third-party websites or social media platforms such as Facebook, LinkedIn, Twitter, and YouTube, which are outside of our control and are not covered by this privacy policy. Although we occasionally review the content of these third-party websites, in general we do not do so, and therefore we do not accept any responsibility for their content. You should review the privacy policies posted on these other sites.
 
-If in the future we change the SanDisk Privacy Policy, we will post the new policy on this web site. If this policy is somehow materially less restrictive or protective of your privacy than the current policy, we will not apply the less protective aspects of the revised policy to information you have previously provided to us without first obtaining your consent. If we have a way of contacting you electronically, we will do so in the way you have instructed us to obtain your consent. We reserve the right to change this policy in the future. Your continued use of this web site following a change in the privacy policy represents consent to the new policy to the fullest extent permitted by law.
+**Children and privacy**
 
-We encourage you to periodically review this Privacy Policy.
+SanDisk does not sell products for purchase by children. If you are a minor in your country of residence, you may use SanDisk Sites and our services only with the involvement of your parent or guardian. For example, in the United States SanDisk does not knowingly collect personal information from children under the age of 13. If we learn that we inadvertently have collected personal information from a minor under the age of 13, we will delete that data from our systems.
 
-**MARKETING COMMUNICATIONS**
+**Transfer of personal information, Safe Harbor**
 
-When you provide SanDisk with personal information, if you allow us, we may communicate with you by the method you choose about topics of your choosing. SanDisk seeks your consent to receive marketing communications from us when you provide your personal information.
+We may transfer your personal information to SanDisk Corporation in the US or to any SanDisk Group Companies worldwide, or to Authorized Third Parties acting on our behalf for the purposes of processing, storage or fulfillment. The SanDisk Group Companies and Authorized Third Parties who may receive your personal information in accordance with this privacy policy and the databases in which your personal information is stored may be located at facilities located across the world and not necessarily in the country in which you are located.
 
-**ACCESSING YOUR PERSONAL INFORMATION, MAKING CHANGES OR REQUESTING DELETION OF PERSONAL INFORMATION**
+**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States to SanDisk Corporation and to other countries where the SanDisk Group Companies operate, whose privacy laws may be less strict. By providing your personal information you consent to that transfer.**
 
-You may at all times object or restrict SanDisk's use of your personal data for direct marketing purposes. You may also request access to, correction of or deletion of personal data. For instructions on changing any of your privacy preferences, accessing your information or for any privacy or data protection related question or concern click here for assistance.
+SanDisk participates in the U.S. Department of Commerce's Safe Harbor principles for online, off-line and manually processed personal information. For more information about the Safe Harbor program, click [here](http://www.export.gov/safeharbor "Safe Harbor") .
 
-Inquiries relating to updating or changing information you provided when purchasing SanDisk products directly online should be directed to Digital River, our online distributor. You may [ email](mailto:shopsandisksupport@sandisk.com?subject=Sandisk%20Store) Digital River for inquiries.
+**International and other notices**
 
-Inquiries relating to updating or changing information you provided when purchasing products online from the Sansa eStore (i.e. [www.shopsansa.com](http://www.shopsansa.com/))should be directed to <http://go.shopsansa.com/Help/CSContact.aspx>.
+This Site is operated and maintained by SanDisk Corporation, whose address is below.
 
-Please be aware that this Privacy Policy and the choices that you indicate when registering on this web site will not necessarily apply to personal information you may have provided to SanDisk or its vendors or business partners as part of other, separately-operated web sites or services.
+Please note that parts of this privacy policy may not apply to you if you are in a country or region where certain services are not offered.
 
-Generally, when we contact you, we will try to provide you with an easy and convenient way to notify us if you would not like further similar communications.
+The notices below apply to the residents of the countries/regions listed.
 
-If you have provided us with personal information not related to your purchase or registration of our products and would like to change or update your personal information, please [click here](https://reg.cheetahmail.com/regp?aid=445516089&n=400).
+**Australia:** In Australia, SanDisk is bound by the National Privacy Principles ("Principles") of the Privacy Act 1988 (Cth) and we are committed to protecting personal information that we may hold at any time in respect of any individual in accordance with the requirements of those Principles. In general, SanDisk will not use or disclose your personal information otherwise than for a purpose set out in this policy, for a purpose you would reasonably expect, a purpose required or permitted by law, or a purpose otherwise disclosed to, or authorized by, you.
 
-**CONTACTING SANDISK**
+**India:** SanDisk has physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you. SanDisk seeks to ensure compliance with the requirements of the Information Technology Act, 2000 and rules made thereunder from time to time in order to ensure the protection and preservation of your privacy.
 
-If you have any questions, comments, or concerns about this Privacy Policy, please email us at [privacy@sandisk.com](mailto:privacy@sandisk.com)
+**Pakistan: Waiver notice** \- Any service provided free of charge by SanDisk is not intended to induce you to enter into any transaction with us. You acknowledge by the use of our Sites and services your voluntary acceptance of the Sites and services and furthermore confirm that you freely consent to waive any right to privacy to the limited extent specified herein.
 
-Postal Mail Address:  
+**Contact us with comments or questions**
+
+If you have comments or questions about this privacy policy, you can email us at one of the email addresses below or send us mail at the address below. Please include your contact information, the name of the SanDisk Site, communication or other service about which you are contacting us, and a detailed description of your request or privacy concern.
+
 SanDisk Corporation  
+---  
 601 McCarthy Boulevard  
-Milpitas, CA 95035  
+Milpitas, CA 95035 USA  
 Attention: Privacy Officer  
-(408) 801-1000
-
-If you have a privacy concern regarding SanDisk or this policy and if you cannot satisfactorily resolve it through the use of this web site you should then write to the SanDisk Data Controller identified below:
-
-United States - [privacy@sandisk.com](mailto:privacy@sandisk.com)  
-Latin America - [privacy-la@sandisk.com](mailto:privacy-la@sandisk.com)  
-EMEA - [privacy-EMEA@sandisk.com](mailto:privacy-EMEA@sandisk.com)  
-Japan - [privacy-japan@sandisk.com](mailto:privacy-japan@sandisk.com)  
-Asia/Pacific - [privacy-asia@sandisk.com](mailto:privacy-asia@sandisk.com)  
-Korea - [privacy-korea@sandisk.com](mailto:privacy-korea@sandisk.com)
-
-In the event that we are still unable to resolve your concerns SanDisk is committed to cooperating to achieve a proper resolution of your privacy concerns.
-
-Effective Date: 15 June 2009 
+1 (408) 801-1000  
+  
+  
+United States, Canada:[privacy@sandisk.com](mailto:privacy@sandisk.com)  
+Latin America:[privacy-la@sandisk.com](mailto:privacy-la@sandisk.com)  
+Europe, Middle East, Africa:[privacy-EMEA@sandisk.com](mailto:privacy-EMEA@sandisk.com)  
+Japan:[privacy-japan@sandisk.com](mailto:privacy-japan@sandisk.com)  
+Korea:[privacy-korea@sandisk.com](mailto:privacy-korea@sandisk.com)  
+Asia/Pacific:[privacy-asia@sandisk.com](mailto:privacy-asia@sandisk.com)
