@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.in privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528170406id_/http%3A//www.thebodyshop.in/about_us.php%3Fpage%3D16%26sub_page%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.in privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130053242id_/http%3A//thebodyshop.in/about_us.php%3Fpage%3D16%26sub_page%3D0) for the most accurate reproduction.*
 
 # The Body Shop India ::
 
@@ -24,4 +24,4 @@ Our Site contains links to other sites. Please be aware that we are not responsi
 We reserve the right to change our privacy policy from time to time. If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect from them, how we use it, and under what circumstances, if any, we disclose this information to third parties. 
 
   
-If at any point we decide that we wish to use personally identifiable information collected from our users in a manner that differs from that stated at the time this information was collected, we will notify users by way of an email. Users will have a choice whether or not to consent to our using their personal information in accordance with our updated privacy policy. Please[ click here](https://web.archive.org/web/20100528170406id_/http%3A//www.thebodyshop.in/disclaimer_privacy_policy.pdf) to view our Privacy Statement.
+If at any point we decide that we wish to use personally identifiable information collected from our users in a manner that differs from that stated at the time this information was collected, we will notify users by way of an email. Users will have a choice whether or not to consent to our using their personal information in accordance with our updated privacy policy. Please[ click here](https://web.archive.org/web/20101130053242id_/http%3A//thebodyshop.in/disclaimer_privacy_policy.pdf) to view our Privacy Statement.
