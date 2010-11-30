@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the spamhaus.org privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007034603id_/http%3A//www.spamhaus.org/organization/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamhaus.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130075307id_/http%3A//www.spamhaus.org/organization/privacy.html) for the most accurate reproduction.*
 
-# The Spamhaus Project - Privacy Policy
+# The Spamhaus Project - Privacy
 
-We at Spamhaus are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
+  
+[Legal](https://web.archive.org/web/20101130075307id_/http%3A//www.spamhaus.org/organization/notices.html)  
+[Copyright](https://web.archive.org/web/20101130075307id_/http%3A//www.spamhaus.org/organization/notices.html)  
+[Trademarks](https://web.archive.org/web/20101130075307id_/http%3A//www.spamhaus.org/organization/notices.html)  
+[Document Storage Policy](https://web.archive.org/web/20101130075307id_/http%3A//www.spamhaus.org/organization/notices.html)  
+| We at Spamhaus are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
 Spamhaus has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
 
@@ -22,7 +27,7 @@ Parts of the Spamhaus website use cookies to control access to pages and databas
 
 Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; and dates and times that our site is accessed.
 
-**Choice**
+| **Choice**
 
 You may choose whether or not to provide Personal Information to Spamhaus. The notice we intend to provide where Spamhaus collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Spamhaus's Web sites, but you may be unable to access certain features, options, and services that involve our interaction with you.
 
