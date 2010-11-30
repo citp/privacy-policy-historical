@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youjustgetme.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530224945id_/http%3A//youjustgetme.com%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youjustgetme.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130161519id_/http%3A//youjustgetme.com%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # YouJustGetMe | Are Personality Impressions Accurate?
 
