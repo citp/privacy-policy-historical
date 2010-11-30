@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrowserhighlighter.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619203043id_/http%3A//thebrowserhighlighter.com/legal_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrowserhighlighter.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130042801id_/http%3A//thebrowserhighlighter.com/legal_privacy.jsp) for the most accurate reproduction.*
 
 # The Browser Highlighter - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Browser Highlighter Privacy Policy**
 
-This policy applies to your use of the Browser Highlighter, and tells you how eBay uses and protects the information we collect for Browser Highlighter. 
+This policy applies to your use of the Browser Highlighter, and tells you how eBay uses and protects the information we collect for Browser Highlighter.
 
 **What does Browser Highlighter do?** Browser Highlighter is designed to integrate content from some of the best websites and applications around to make the web pages you visit richer and more functional. Browser Highlighter adds plug-ins to the pages you visit with all kinds of additional useful features, like:
 
@@ -27,13 +27,17 @@ The Alerts platform holds an eBay token which allows Alerts to authenticate you 
 
 Once installed, Browser Highlighter collects, stores and uses some personal information, like your country and language preferences and some web log information. Browser Highlighter uses cookies for the operation of some services. Individual plug-ins may also collect and use information for their operation:
 
-  * PayPal Auto-Fill allows you to download from PayPal all the contact information you usually use for forms and shipping. We store this information locally on your computer and use it to auto-fill forms online for you. 
+  * PayPal Auto-Fill allows you to download from PayPal all the contact information you usually use for forms and shipping. We store this information locally on your computer and use it to auto-fill forms online for you.
   * Skype Phone Number Recognition connects you to your Skype account if you click on a highlighted number. 
-  * Compare from eBay processes information about the products you search for on certain e-commerce websites, to provide you with the comparison results. Compare from eBay also allows us to collect some anonymous information about these searches and other interactions with eBay content and advertising. We use this anonymous information in the aggregate to measure and improve the content and information we provide to our users.
+  * Compare from eBay processes information about the products you search for on certain e-commerce websites, to provide you with the comparison results. Compare from eBay also allows us to collect some anonymous information about these searches and other interactions with eBay content and advertising. We use this anonymous information in the aggregate to measure and improve the content and information we provide to our users. 
 
 
 
-If you provide an email address or name when you submit a question or suggestion on www.browserhighlighter.com, we’ll use the information you provide to respond to your question or suggestion. 
+In addition to the information needed to provide its services, this version of the Browser Highlighter may record some of the anonymous URLs, content, and weblog information from the webpages you visit. This information helps the Browser Highlighter and eBay understand and improve their user experiences. The information collected by the Browser Highlighter will be kept anonymous and will not be used for direct marketing purposes. It will only be used by eBay or, at eBays's direction, its service providers. Our service providers are bound by strict contractual requirements to keep all information they process strictly confidential and to use such information solely on behalf of eBay. 
+
+To turn off this functionality, go to the preferences tab in the Browser Highlighter drop down menu after the product has been installed. For More information go to <http://thebrowserhighlighter.com/help.jsp>
+
+If you provide an email address or name when you submit a question or suggestion on [www.browserhighlighter.com](http://browserhighlighter.com/), we’ll use the information you provide to respond to your question or suggestion. 
 
 **Information Sharing.** We may share the information we collect:
 
@@ -47,6 +51,6 @@ If you provide an email address or name when you submit a question or suggestion
 
 **Security.** The information the Browser Highlighter collects may be stored encrypted locally or on our servers in the United States. We use lots of tools to protect your personal information against unauthorized access and disclosure, but we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-**Changes to This Policy.** eBay reserves the right to modify this privacy policy from time to time. When we make material changes to this policy, we will post them to www.browserhighlighter.com and send an update through the software. 
+**Changes to This Policy.** eBay reserves the right to modify this privacy policy from time to time. When we make material changes to this policy, we will post them to [www.browserhighlighter.com](http://browserhighlighter.com/) and send an update through the software. 
 
-Effective September 1, 2009.
+Effective September 02, 2010.
