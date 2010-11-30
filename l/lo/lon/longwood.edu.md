@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwood.edu privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531174401id_/http%3A//www.longwood.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwood.edu privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130150138id_/http%3A//www.longwood.edu/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Statement - Longwood University
 
