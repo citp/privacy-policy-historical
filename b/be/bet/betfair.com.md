@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423131455id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130151909id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
@@ -10,7 +10,7 @@ Betfair wants visitors to its website to know that we are just as concerned as y
 
 Personal Information is any information about you and may include your name and address, date of birth, payment card details, details of betting transactions and account transfers and any other information you may wish to provide. Betfair is endeavouring to ensure that our business practices that involve the use of your Personal Information are compliant with privacy regulations in the countries where we operate. Accordingly, in this policy document (the “Privacy Policy”), Betfair wants not only to advise you of your privacy rights but also explain how we intend to respect them.
 
-Any reference to “Betfair” or the “Group” within this Privacy Policy includes Betfair Group Ltd and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
+Any reference to “Betfair” or the “Group” within this Privacy Policy includes Betfair Group Plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
 
 How is your Personal Information collected by our website?
 
@@ -31,7 +31,7 @@ How we use Cookies on our Site and what Information we collect
 
 Session Cookies
 
-We use session cookies for the following purposes:
+We use session cookies for the following purposes: 
 
   * To allow you to carry information across pages of our site and avoid having to re-enter information.
   * Within registration to allow you to access stored information.
@@ -40,7 +40,7 @@ We use session cookies for the following purposes:
 
 Persistent Cookies
 
-We use persistent cookies for the following purposes:
+We use persistent cookies for the following purposes: 
 
   * To help us recognise you as a unique visitor when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.
   * To compile anonymous, aggregated statistics that allow us to understand how people use our site and to help us improve the structure of our website.
@@ -52,7 +52,7 @@ We use persistent cookies for the following purposes:
 
 Third Party Cookies
 
-Third parties serve cookies via this site. These are used for the following purposes:
+Third parties serve cookies via this site. These are used for the following purposes: 
 
   * To serve advertisements on our site and track whether these advertisements are clicked on by users.
   * To control how often you are shown a particular advertisement.
@@ -60,11 +60,13 @@ Third parties serve cookies via this site. These are used for the following purp
   * To count the number of anonymous users of our site.
   * For website usage analysis
 
-Use of Web Beacons.
+Use of Web Beacons. 
 
-Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which includes a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
+Some of our Web pages may contain electronic images known as ’web beacons’ (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons are also used to recognise repeat visitors to the site and in conjunction with other information we hold, to attempt to record specific browsing information (that is, about the way you arrive at the site, pages you view, options you select, information you enter and the path you take through the site) against an individual customer profile. Betfair use this information in order to optimise user experience.
 
-Disabling/Enabling Cookies.
+We may also carry web beacons placed by third party advertisers. However these do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
+
+Disabling/Enabling Cookies 
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
 
@@ -72,7 +74,7 @@ For more information about cookies, including how to enable/disable them see [ww
 
 How your Personal Information will be used?
 
-Betfair will process your Personal Information in order to allow you access and make use of our website, to allow you to participate in the services offered, to administer your account, to maintain our accounts and records, to monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you and for related purposes. If you do not wish to receive future marketing, promotional or sales material from Betfair, you may notify us that no further material be sent to you. Our contact details are located in the 'Contact Us' pages of our website. Betfair will as soon as reasonably practicable after receiving your request, remove your contact details from our marketing database. 
+Betfair will process your Personal Information in order to allow you access and make use of our website, to allow you to participate in the services offered, to administer your account, to maintain our accounts and records, to monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you and for related purposes. If you do not wish to receive future marketing, promotional or sales material from Betfair, you may notify us that no further material be sent to you. Our contact details are located in the 'Contact Us' pages of our website. Betfair will as soon as reasonably practicable after receiving your request, remove your contact details from our marketing database.
 
 Betfair will also retain such information and may analyse it in order to investigate any actual or suspected criminal activity or, in respect of any event featured on our website, any threat to the integrity of that event and/or breaches of the rules of that event as laid down by the relevant governing (including sporting) bodies. All rights in the manner of recording your Personal Information held by Betfair (including copyright and database rights) are and shall remain its property.
 
@@ -142,7 +144,7 @@ By providing your Personal Information and registering with us or logging on wit
 
 General information
 
-You may at any time request a copy of your Personal Information held by Betfair in accordance with subject access rules in the Data Protection Act 1998 (UK), the Privacy Act 1988 (Australia) and the Data Protection Act 2001 (Malta). 
+You may at any time request a copy of your Personal Information held by Betfair in accordance with subject access rules in the Data Protection Act 1998 (UK), the Privacy Act 1988 (Australia) and the Data Protection Act 2001 (Malta).
 
 Betfair reserves the right to change the Privacy Policy including altering the purposes for which it processes your Personal Information. In the event that Betfair considers it appropriate to make any such change, the Privacy Policy will be updated and posted on our site. Your continued use of the site will constitute acceptance of those changes.
 
@@ -152,11 +154,11 @@ SPECIAL TERMS APPLICABLE ONLY TO CUSTOMERS FROM GERMANY
 
 This Privacy Policy is to be modified for customers from Germany who are transferred by TSE Global to the www.betfair.com website by the following provisions:
 
- **TSE Global Limited**
+**TSE Global Limited**
 
 Customers from Germany are given access to Betfair through TSE Global Limited, Waterfront, Hammersmith Embankment, Winslow Road, London W6 9HP, email tseglobal@googlemail.com ('TSE Global'). TSE Global operates the www.betfair.de website. Customers in Germany seeking to place bets on sporting events will be connected from this website to the www.betfair.com website, which is operated by Betfair. TSE Global acts as an intermediary between you and Betfair.
 
- **Forwarding of customers by TSE Global**
+**Forwarding of customers by TSE Global**
 
 From www.betfair.de you will get to www.betfair.com on request. If you are already registered, you will also be taken from www.betfair.com to the www.betfair.de website. All personal information required for registration is exclusively collected and processed by Betfair.
 
@@ -173,7 +175,7 @@ Your Personal Information may also be disclosed to the Tasmanian Gaming Commissi
   * A Council within the meaning of the Racing Regulation Act 2004 (Tasmania); and 
   * Another person or body nominated by the TGC that either in Tasmania or elsewhere exercises powers or performs functions in respect of the conduct of racing or gaming. 
 
-NOTE: There may be restrictions placed your betting on Australian Events if you have not complied with Betfair’s know your client (“KYC”) processes. Further information can be found in the ‘Help’ pages of the website. 
+NOTE: There may be restrictions placed your betting on Australian Events if you have not complied with Betfair’s know your client (“KYC”) processes. Further information can be found in the ‘Help’ pages of the website.
 
 
 
