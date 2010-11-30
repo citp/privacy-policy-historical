@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornhublive.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408172109id_/http%3A//www.pornhublive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhublive.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130192332id_/http%3A//www.pornhublive.com/privacy.html%3F) for the most accurate reproduction.*
 
-# PornHubLive - Privacy Policy
+# PornHubLive - Privacy
 
 [Home](http://www.pornhublive.com/) / Privacy Policy
 
