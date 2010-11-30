@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606153242id_/http%3A//www.allaboutjazz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130050506id_/http%3A//www.allaboutjazz.com/privacy.php) for the most accurate reproduction.*
 
 # All About Jazz Privacy Policy
 
-**_Making a purchase at All About Jazz is 100% safe - We Guarantee It._**
+**_Your credit card transaction at All About Jazz is 100% safe - We Guarantee It._**
 
-When we request personal information from you (such as name, address, phone number and credit card number) it is done on our secure servers. We use industry standard technology to protect confidential information - SSL (Secured Socket Layer) - an advanced encryption technology that makes personal information unreadable as it travels over the Internet.
+We have been successfully processing secure credit card transactions since 1997. 
+
+When we request personal information from you (such as name, address, phone number and credit card number) it is done on our secure servers. We use industry standard technology to protect confidential information - SSL (Secured Socket Layer) - an advanced encryption technology that makes personal information unreadable as it travels over the Internet. In addition, **once your transaction is complete, your credit card number is deleted from our database.**
 
 We are so confident in our security, that we guarantee you'll pay nothing if unauthorized charges are made to your credit card as a result of shopping at All About Jazz.
 
@@ -28,7 +30,7 @@ _What Information Do We Collect and How Do We Use It?_
 
 **
 
-When you place an order, we ask you to provide information to complete your order by filling out and submitting an online form. This information includes your name, telephone numbers, mailing address, e-mail address and credit card information. All information regarding our online customers is stored on a highly secured server that is not accessible through the Internet.
+When you place an order, we ask you to provide information to complete your order by filling out and submitting an online form. This information may include your name, telephone numbers, mailing address, e-mail address and credit card information. All information regarding our online customers is stored on a highly secured server that is not accessible through the Internet.
 
 When you participate in an online contest or survey, we may ask you for personal information such as name or e-mail address to complete this process. Your participation in these events is voluntary and information collected will be used to enhance your future shopping/visiting experiences at All About Jazz and provide you with special offers that we believe will benefit you. To continuously assess the value of our online shopping/visiting experience, we may track the way customers use our site; however, this information is analyzed only in the aggregate and not at the individual level. All About Jazz and Vision X Software (AAJ's parent company) has a strong history of providing excellent customer service and our goal is to continue this tradition. 
 
