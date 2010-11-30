@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleyard.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521072830id_/http%3A//articleyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleyard.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130114704id_/http%3A//www.articleyard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ArticleYard.com
+# Privacy Policy | Article Yard
 
 Your privacy is critically important to us. At Article Yard we have a few fundamental principles:
 
@@ -11,7 +11,7 @@ Your privacy is critically important to us. At Article Yard we have a few fundam
 
 
 
-Article Yard (“ **Article Yard** ”) operates several websites including [ArticleYard.com](http://articleyard.com/). It is Article Yard’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Article Yard (“ **Article Yard** ”) operates several websites including [ArticleYard.com](https://web.archive.org/). It is Article Yard’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -45,7 +45,7 @@ Comments and other content submitted to our Akismet anti-spam service are not sa
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Article Yard may change its Privacy Policy from time to time, and in Article Yard’s sole discretion. Article Yard encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, Article Yard may change its Privacy Policy from time to time, and in Article Yard’s sole discretion. Article Yard encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ### Creative Commons License
 
