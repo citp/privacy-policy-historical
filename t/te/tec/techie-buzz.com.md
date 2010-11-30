@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techie-buzz.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601082135id_/http%3A//techie-buzz.com/privacy-policy%3Futm_source%3Dmenu%26utm_medium%3Dheader%26utm_campaign%3Dfooterlinks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techie-buzz.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130050905id_/http%3A//techie-buzz.com/privacy-policy%3Futm_source%3Dmenu%26utm_medium%3Dheader%26utm_campaign%3Dfooterlinks) for the most accurate reproduction.*
 
 # Privacy Policy | Techie Buzz
 
@@ -18,19 +18,23 @@ Techie Buzz is not responsible for the content of external Internet sites. You a
 
 ### Cookies
 
-A "cookie" is a small data text file that is placed in your browser and allows Techie Buzz to recognize you each time you visit this site(customization etc). Cookies themselves do not contain any personal information, and Techie Buzz does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds.
+A "cookie" is a small data text file that is placed in your browser and allows Techie Buzz to recognize you each time you visit this site(customization etc.). Cookies themselves do not contain any personal information, and Techie Buzz does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds.
 
 ### Google and DoubleClick DART Cookies
 
-  * Google, as a third party vendor, uses cookies to serve ads on this site. 
-  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+### Third Party Advertising Cookies
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ### Visitor Tracking
 
-Techie Buzz makes use of analytical softwares such as Google Analytics for statistical purposes. For the purpose of stats your IP (Internet Protocol) Address, browser, screen resolution, operating system are captured. We at Techie Buzz use this information only for statistical purpose and do not share it with any third party.
+Techie Buzz makes use of analytical software such as Google Analytics for statistical purposes. For the purpose of stats your IP (Internet Protocol) Address, browser, screen resolution, operating system are captured. We at Techie Buzz use this information only for statistical purpose and do not share it with any third party.
 
 ### User Comments
 
