@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefranchiseking.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619182404id_/http%3A//thefranchiseking.typepad.com/the_franchise_king/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefranchiseking.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130151256id_/http%3A//thefranchiseking.typepad.com/the_franchise_king/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy (The Franchise King Blog)
 
