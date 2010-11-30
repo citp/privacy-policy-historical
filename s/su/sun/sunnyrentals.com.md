@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnyrentals.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529224420id_/http%3A//www.sunnyrentals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyrentals.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130062726id_/http%3A//www.sunnyrentals.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,8 +10,8 @@ Postal Address:
 
 SunnyRentals.com Aps  
 Danish company nr. 32552897  
-Skovvej 15  
-2930 Klampenborg  
+Peder Skrams Gade 17, 4.  
+1054 Copenhagen K  
 Denmark
 
 ## Privacy Statement
