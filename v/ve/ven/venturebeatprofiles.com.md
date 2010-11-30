@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the venturebeatprofiles.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101233353id_/http%3A//venturebeatprofiles.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturebeatprofiles.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130194826id_/http%3A//venturebeatprofiles.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-You need to login or signup before performing this action.
 
 ### Privacy Policy
 
