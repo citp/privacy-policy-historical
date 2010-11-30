@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509005405id_/http%3A//www.usmleworld.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130044725id_/http%3A//www.usmleworld.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # USMLEWorld Privacy Policy - Website users Privacy Policy
 
@@ -44,6 +44,6 @@ If you have any questions about our privacy policy or suggestions on how to impr
 
 USMLEWorld, LLC  
 ATTN: Privacy Policy Issues  
-1122 Kenilworth Drive, Suite 418  
-Towson, MD 21204  
+545 E. John Carpenter Freeway Suite 1600  
+Irving, TX 75062  
 We can be reached via e-mail at [support@usmleworld.com](mailto:support@usmleworld.com)
