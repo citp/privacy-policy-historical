@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530202351id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201235958id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
