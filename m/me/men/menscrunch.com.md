@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menscrunch.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602021055id_/http%3A//menscrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menscrunch.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201103343id_/http%3A//menscrunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Pakistani Men Magazine
 
