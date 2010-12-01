@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409074036id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201192740id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Streema - Free Online Radio Stations
 
