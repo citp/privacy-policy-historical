@@ -1,87 +1,58 @@
-> *The following text is extracted and transformed from the keyetv.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172001id_/http%3A//www.keyetv.com/Protected/4Points/legal/FPMG_Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyetv.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201051331id_/http%3A//weareaustin.com/about-privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - We Are Austin.com KEYE TV
 
-**PRIVACY STATEMENT**
+**1\. Policy**  
+This Privacy Policy is a part of the Site’s Terms and Conditions which is binding on all Site users including users of websites operated by a television station in the Nexstar family. The policy of Nexstar Broadcasting Group, Inc. (“Nexstar”)is to respect and protect the privacy of our users. Nexstar includes as part of its mission, the constant effort to build users’ trust and confidence in the Internet by promoting fair information practices. To fulfill this mission, Nexstar agrees to exercise reasonable precautions to maintain the confidentiality of information provided by you in connection with accessing and using the Sites. Because we gather certain types of personally identifiable information (“Personal Information”) from users of our websites, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our websites. Nexstar agrees to post prominently and in plain language its specific privacy policies. This Privacy Policy sets forth Nexstar’s current policies and practices with respect to nonpublic personal information of the users of the Sites. Your continued participation on these Sites indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. 
 
-This Privacy Statement operates in conjunction with and constitutes a part of Four Points’ [Terms of Use Agreement](https://web.archive.org/Protected/4Points/legal/FPMG_TOU.html) (the “Agreement”) and informs you of Four Points’ practices with respect to the online collection, use, and disclosure of personal information from this Four Points Website. Personal information is information that allows us to contact you (such as email address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests. 
+**2\. Collection and Use of Information**  
+Generally, you may browse a Site without providing any Personal Information. We do not collect personal information about individuals except when specifically and knowingly provided by such individuals. The Sites provide certain activities where we gather Personal Information from users of the Sites, such as an activity that requires that a user complete a registration process and receive/select a “user name” and password. Registration to participate in these Site activities may require the submission of your email address, zip code, date of birth and other Personal Information. Other Personal Information that may be submitted include your full name, postal address, gender, industry you work in, occupation/role, household income, and preferred news source, to name a few. You will also have the ability to opt-in to additional subscription services, such as email news alerts, and promotional and marketing information to be received directly from our Advertisers. 
 
-Four Points is the owner of this website and retains all ownership rights to the information collected at this site. Four Points reserves the right to change, modify, add, or remove provisions of this Privacy Statement. Any changes to this Privacy Statement will be posted here, and we encourage you to check back from time to time. 
+Unless otherwise provided in a separate registration page, we do not request contact information for a mobile phone, text messaging or any wireless device that includes a domain name address (such as “wireless.bellsouth.com”) as part of the contact information. Federal law prohibits the sending of commercial email messages directly to a wireless device that uses a domain name, unless you have first given your affirmative consent. We may inadvertently collect a wireless device number that includes a domain name when you send us an inquiry or register for a contest or membership club. However, we will not knowingly use that contact information for sending commercial email. We reserve the right to respond to user inquiries or requests sent via a wireless device that uses a domain name as such messages are not deemed to be commercial email and therefore, are not regulated by Federal law. 
 
-**THIS POLICY DOES NOT APPLY TO THE PRACTICES OF COMPANIES THAT FOUR POINTS DOES NOT OWN OR CONTROL, OR TO PEOPLE THAT FOUR POINTS DOES NOT EMPLOY OR MANAGE.**
+We use your Personal Information to provide you with the features, services, or goods you request and to respond to billing and/or other such questions related to Nexstar or Sites. We will also use your Personal Information to notify you about updates, new features, programming and activities on behalf of Nexstar, the Sites, or our Advertisers that may be of interest to you. 
 
-**Personalization**
+We may also use your information for hiring, operational and business purposes, or to find out how we can improve our company and Sites via surveys or online tracking mechanisms. We use aggregate Personal Information collected directly during the registration process and via cookies to help us evaluate and modify existing services and features, as well as provide demographic and geographic information to Advertisers. (For more information on “cookies” and our policy on the use of cookies see below). We also use your Personal Information to develop new services and features that may be of interest to you. **
 
-Although you may use many features of this site without completing a registration or sign-up form, visitors who do register and/or sign up for special services may have access to additional features of the site and are more likely to receive information suited to their interests. For example, a registered user is eligible for additional services provided by this website, such as personalized content. Our registration and special services sign-up forms may ask you for contact information (like name or email address) and demographic information (like zip code or age). You must provide the information in order to receive the benefits of registration or of the special service. 
+3\. Disclosure of Information
 
-We may use the contact information you give us to better tailor your website experience to your interests, and to send you information about Four Points and its services as well as promotional material on behalf of some of our partners. We use other information that you provide to us to show you content in which you may be interested and to display the content according to your preferences. We will also share this information within the Four Points family and with our affiliates and business partners in order to enhance your experience on this and other Four Points Websites. 
+**  
+We will not sell, exchange, rent, lease or otherwise disclose your Personal Information or sensitive personal information to any third party without your consent. However, Nexstar may disclose personal information in special cases: (1) when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights of Nexstar or to anyone that could be harmed by such activities; (2) when we believe in good faith that the law requires it; (3) to any affiliate or to any third party who may acquire Nexstar; and (4) in situations involving threats to the physical safety of any person. 
 
-In addition, we may share this information with advertisers or other third parties that are not part of the Four Points family. 
+**4\. How You Can Review or Correct Your Personal Information**  
+You may contact Nexstar at PrivacyAdministrator@nexstar.tv to ask if we are keeping personal information about you. If we do have personal information about you, we will provide you with a readable copy of such personal information at no charge. Factual errors in your personal information, including out-of-date information, can be corrected by sending us a request that credibly shows our error. 
 
-**Online Surveys/Contests**  
-From time to time, we may conduct online surveys and contests. These ask you for contact information (like name or email address) and demographic information (like zip code or age). We may use this contact information from our surveys and contests to provide you with information about our company and promotional material on behalf of some of our partners, and to contact you. 
+**5\. Information-Sharing Disclosure Request**  
+You may request a Notice of Information-Sharing Disclosure which will identify the third parties with whom Nexstar has shared the information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing us at Privacy Administrator, Nexstar Broadcasting Group, 909 Lake Carolyn Parkway, Suite 1450, Irving, TX 75039. You may also send us your Notice of Information-Sharing Disclosure request via e-mail at PrivacyAdministrator@nexstar.tv or by telephone at (972) 373-8800. We will respond to your request for a Notice of Information-Sharing Disclosure within thirty (30) days of receipt. 
 
-**Supplemental Information**  
-To enhance Four Points’ ability to tailor this site to your preferences, we may combine information that you provide us on registration and other online sign-up forms with other information about you that we may obtain. 
+**6\. Opt-Out Procedures**  
+You may always opt-out of receiving communications from us. To remove any personal information from our database or to not receive future e-mail communications from Nexstar, send an e-mail to PrivacyAdministrator@nexstar.tv with the word “remove” in the subject line. Further, if you do not want your personal information shared with third parties in the manner discussed in Section 3, “Disclosure of Information,” please notify Nexstar by telephone at (972) 373-8800, by e-mail to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or at the following address:  
+Privacy Administrator  
+Nexstar Broadcasting Group.  
+909 Lake Carolyn Parkway, Suite 1450  
+Irving, TX 75039 
 
-**Shopping/Commercial Services**  
-This Four Points site may offer shopping services, which may be offered by us or by a firm that operates a store under contract with us. If our site offers shopping or other commercial services, you will use a customer order form to request information, products, and services. The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age). 
+**7\. Security of Information**  
+You can be assured that personal information collected through the Sites is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected Nexstar employees and contractors have access to via password. We encrypt your personal information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us. 
 
-We will use the financial information that you provide to bill you for products and services. By giving our site your credit card and related personal information, you are authorizing our store to give that information to the merchant and credit card company in order to confirm and fulfill your order. 
+In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. Financial transactions related to your purchases from Nexstar are handled by VeriSign Inc. (http://www.verisign.com/) and LaSalle Bank (<http://www.lasallebank.com/prospect.html>). Information relating to your financial transactions will not be maintained on Nexstar servers. Please visit the websites of VeriSign Inc. (http://www.verisign.com/) and LaSalle Bank (http://www.lasallebank.com/prospect.html) to familiarize yourself with its terms and conditions and with its privacy policies. 
 
-We will use contact information from the order form to fulfill your orders. We may also use contact data to get in touch with you. We will not otherwise use or distribute your financial information without your prior approval. 
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through a Site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party. 
 
-**Public Forums**  
-This site may make available chat rooms, blogs, forums, message boards, and news groups. Please remember that any information that you disclose in these areas becomes public information. You should exercise caution when deciding to disclose your personal information in any chat room, blog, forum, message board, or news group. 
+**8\. Cookies**  
+You should be aware that non-personal information and data may be automatically collected on the Sites through the use of “cookies.” “Cookies” are small text files (no larger than 4k) stored as text on a computer hard drive. Websites can use “cookies” to recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. “Cookies” are not programs that come onto a visitor’s system and damage files. The use of “cookies” is common in the Internet industry, and many major websites use them to provide useful features to their customers. Generally “cookies” work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of “cookies”, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. Nexstar uses “cookie” technology but only to obtain non-personal information from online visitors in order to improve their online experience and facilitate their visit within the Sites. 
 
-**Information Sharing With Third Parties**  
-From time to time we may enter into a special relationship with another company that is not owned by Four Points to provide additional features at this site. These special relationships may include “powered by” partners, business partners, sponsors, and co-branded sites (referred to here as “co-branded pages”). These might include, for example, pages that share our name and that of another entity. You should look for a specific privacy statement on any such co-branded page. Any personal information that you provide when signing up at one of those co-branded pages may be shared with our third party partner, whose privacy practices we do not control. You should check our partner’s website for information regarding its privacy policies, as its policies, not ours, will govern the information that it receives from you. 
+**9\. Links to Third Party Websites**  
+The Sites may contain links to the websites of third parties not affiliated with Nexstar, including without limitation, VeriSign Inc. and LaSalle Bank, an affiliate of ABN AMRO Bank, N.V. You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by the Sites or Nexstar of the content, advertising or business practices. Nexstar is 
 
-Also, the nature of some features of our site may require that we share personal information about you with other persons or other companies. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of Four Points. By responding to those features of the site, whether by email or direct entry of information on the Four Points Website, you are consenting to our transfer of that information to such persons or entities, whose privacy policy or practices will apply to the information it receives. 
+_NOT_
 
-**IP Address and Log Files**  
-We may use your IP address to administer the Four Points Website, to help diagnose problems with our server, to analyze trends, to track users’ webpage movements, to help identify you and your shopping cart, and to gather broad demographic information for aggregate use. 
+responsible for the privacy practices or the content on any of these other websites, including any sites that may indicate a special relationship or “partnership” with Nexstar. Nexstar does not disclose unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you when you link to their site. This collecting of information is not subject to the control of Nexstar. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from the Sites. 
 
-**Cookies**  
-This Four Points site may use a standard technology called a “cookie” to collect information about how you use the site. Cookies reside on your computer and help the Four Points Website as well as other websites operated by third parties, including our vendors and advertisers, to recognize your computer’s browser as a previous visitor. This information allows us to customize delivery of information. For example, our site may use cookies to save and remember registration information or preferences that you may have set while browsing the site, to keep track of your shopping cart, to ensure you don’t see the same ad content repeatedly, to deliver content specific to your interests, and to save your password so you don’t have to re-enter it each time you visit our site. We use cookies only to gather information as indicated in this policy; however, the use of cookies, web beacons, or similar technologies by our vendors, advertisers, and affiliates, is subject to their own privacy policies, not ours. For additional information about ad network providers, visit http://www.networkadvertising.org. Disabling cookies may result in receiving less than the full benefit from the use of this Four Points Website. 
+**10\. Our Commitment to Children’s Privacy**  
+Protecting the privacy of the very young is especially important. We never collect or maintain information at the Sites from persons we know to be under age 13, and no part of our Sites is designed to attract anyone under age 13. Please do not communicate with or contact us if you are under age 13. By your participation in our Site activities, you certify that you are at least 13 years of age and meet any other eligibility requirements of the Sites. 
 
-**Children’s Personal Information**  
-Consistent with the Children’s Online Privacy Protection Act: 
+**11\. Changes to this Privacy Policy**  
+Nexstar may revise this Privacy Policy over time as new features are added to the Sites or as Internet law and standards evolve. We will post those changes prominently but we do recommend that you read this Privacy Policy each time you visit the Sites. Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law. 
 
-• This site does NOT knowingly collect, use, or disclose personal information (including online contact information) of children under the age of 13. 
-
-• In the event that a child under the age of 13 attempts to register on our site, we will NOT knowingly accept the registration, and if we become aware that a child has registered through the use of false registration information, we will attempt to cancel the user account and to delete the information received from the child. 
-
-• In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it. 
-
-• Four Points does not knowingly contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-
-**Your Choices**  
-This Four Points site provides you the opportunity to opt-out of receiving email communications from us and our special relationship partners. To opt-out of receiving email communications, you may: 
-
-• Modify your registered user information on the Four Points Website; or • Send an email to weblegal@fourptsmedia.com. 
-
-Please include the web address, call letters or station’s name. (Please note that this email address should only be used for specific technical issues related to the website such as unsubscribing from a database. **The recipients of these emails will not be able, in general to answer concerns regarding programming, promotions or other non-web related issues.)**
-
-**Access to Personal Information**  
-Four Points gives you the opportunity to modify or remove personal information that you have provided to us. You may do so by modifying your password-protected registered user information on the Four Points Website. 
-
-**Security of Your Personal Information**  
-Four Points employs reasonable security measures consistent with standard industry practice for information collected through this website. 
-
-**Disclosure of Personal Information**  
-Four Points may disclose or transfer your personal information in the following circumstances: 
-
-• To enforce the [Terms of Use Agreement](https://web.archive.org/Protected/4Points/legal/FPMG_TOU.html);   
-• To defend the property and rights of Four Points, our corporate parents and/or our affiliates;   
-• When we reasonably believe that it is justifiable in order to investigate, prevent, or take action regarding illegal or harmful activities, suspected fraud, or threats to the safety, security, and/or welfare of users, employees, third-parties, and property;   
-• With our agents, advisors, and partners for the foregoing reasons and/or for other legitimate business purposes;   
-• As compelled or authorized by applicable law or in connection with legal or regulatory proceedings;   
-• To a new and/or successor entity, in the event that Four Points or any of the broadcast stations licensed to it and its corporate subsidiaries, are acquired by, transferred to, or merged with another company, in whole or in part; and  
-• As may be required by third-party specialists that provide technical support for this website, in connection with website maintenance, modification, and/or repairs. 
-
-**Contacting the Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact weblegal@fourptsmedia.com. Please include the web address, call letters or station’s name. Please note that this email address should only be used for specific technical issues related to the website such as unsubscribing from a database. **The recipients of these emails will not be able, in general to answer concerns regarding programming, promotions or other non-web related issues.**
-
-Effective Date: September 29, 2007  
-© 2007 Four Points Media Group, LLC
+Effective Date: October 10, 2006
