@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601012609id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201191404id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
 
 # Wildearth - Camping Equipment, camping gear, hiking gear, swags and hiking equipment specialists
 
@@ -54,7 +54,7 @@ No. The following options are available:
 
   
 **Australian GST?**  
-All prices in our online store do not include GST. 10% GST is payable on Australian orders only. 
+All prices in our online store include GST. 10% GST is payable on Australian orders only. 
 
   
 **Do you convert my total into other currencies?**  
