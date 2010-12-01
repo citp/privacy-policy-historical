@@ -1,0 +1,895 @@
+<!--The following is the downloaded HTML source of the gamesib.com privacy policy that was archived on 2010-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201161049id_/http%3A//www.gamesib.com/page/3.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ 
+ <title>
+   Online games - Play Free Games Online - Privacy Policy
+  </title>
+<link rel="stylesheet" type="text/css" href="/images/style.css">
+
+<link rel="stylesheet" type="text/css" href="/images/rating_style.css">
+<link rel="stylesheet" href="/images/slider.css" type="text/css" media="screen">
+<script type="text/javascript" src="/images/dropdown.js"></script>
+<script type="text/javascript" src="/images/ajaxscripts.js"></script>
+
+<script type="text/javascript" src="/images/rating_update.js"></script>	 
+<script language="javascript" type="text/javascript" src="/images/formvlidationcommnfunc.js"></script>
+<script language="javascript" type="text/javascript" src="/images/publicsite.js"></script>
+<script src="/images/arcade.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript">
+  var http_request = false;
+
+  function show_hint ( p_hint_text, p_span ) {
+    	document.getElementById(p_span).innerHTML = p_hint_text ;
+  }
+
+  function makePOSTRequest(url, parameters, SpanName) {
+    http_request = false;
+    if (window.XMLHttpRequest) { // Mozilla, Safari,...
+    http_request = new XMLHttpRequest();
+    if (http_request.overrideMimeType) {
+    http_request.overrideMimeType('text/xml');
+    }
+    } else if (window.ActiveXObject) { // IE
+    try {
+    http_request = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+    try {
+    http_request = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+    }
+    }
+    if (!http_request) {
+    alert('Cannot create XMLHTTP instance');
+    return false;
+    }
+  
+    http_request.onreadystatechange = function() {
+    if (http_request.readyState == 4) {
+    if (http_request.status == 200) {
+    //alert(http_request.responseText);
+    	result = http_request.responseText;
+		if(result == 'Please enter valid security code'){
+	    	alert(result);
+		}else{
+	    	document.getElementById(SpanName).innerHTML = result;	
+			document.getElementById('cfv').style.display = 'none';	
+		}
+	    //document.getElementById('status').innerHTML = 'Ready'; 
+    } else {
+	    alert('There was a problem with the request.');
+		
+    }
+    }
+    };
+    http_request.open('POST', url, true);
+    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http_request.setRequestHeader("Content-length", parameters.length);
+    http_request.setRequestHeader("Connection", "close");
+    http_request.send(parameters);
+  }
+  
+  function makePOSTRequestTellaFriends(url, parameters, SpanName) {
+    http_request = false;
+    if (window.XMLHttpRequest) { // Mozilla, Safari,...
+    http_request = new XMLHttpRequest();
+    if (http_request.overrideMimeType) {
+    http_request.overrideMimeType('text/xml');
+    }
+    } else if (window.ActiveXObject) { // IE
+    try {
+    http_request = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+    try {
+    http_request = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+    }
+    }
+    if (!http_request) {
+    alert('Cannot create XMLHTTP instance');
+    return false;
+    }
+  
+    http_request.onreadystatechange = function() {
+    if (http_request.readyState == 4) {
+    if (http_request.status == 200) {
+    //alert(http_request.responseText);
+    	result = http_request.responseText;
+		arr_result = result.split("%%%");
+    	document.getElementById(SpanName).innerHTML = arr_result[0];
+		//document.getElementById('status').innerHTML = 'Ready'; 
+		if(arr_result[1] == 'yes'){
+			document.getElementById('tf').style.display = 'none';			
+		}
+    } else {
+	    alert('There was a problem with the request.');
+		
+    }
+    }
+    };
+    http_request.open('POST', url, true);
+    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http_request.setRequestHeader("Content-length", parameters.length);
+    http_request.setRequestHeader("Connection", "close");
+    http_request.send(parameters);
+  }
+
+
+  function Contact(obj,SpanName,DivName) {
+  	if(document.getElementById("newcomment")){
+		if(document.getElementById("newcomment").value == '' || document.getElementById("newcomment").value == 'Type Here'){
+			alert("Please enter your comment here");
+			document.getElementById("newcomment").focus();
+			return false;
+		}
+	}
+    var curDateTime = new Date(); //For IE 
+    var SpanName = SpanName; 
+
+
+    if(DivName == 'tf'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequest('/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+    if(DivName == 'tfv'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequest('/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+
+    if(DivName == 'cf'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequest('/index.php?action=addcommentajax', poststr, SpanName);
+    }
+    if(DivName == 'cfv'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
+  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequest('/index.php?action=addcommentajax', poststr, SpanName);
+    }
+	if(DivName == 'cf'){
+		document.getElementById(DivName).style.display = 'none';
+	}
+  } 
+  
+  function ContactTellaFriend(obj,SpanName,DivName) {
+    var curDateTime = new Date(); //For IE 
+    var SpanName = SpanName; 
+
+
+    if(DivName == 'tf'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequestTellaFriends('/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+    if(DivName == 'tfv'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequestTellaFriends('/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+
+    if(DivName == 'cf'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequestTellaFriends('/index.php?action=addcommentajax', poststr, SpanName);
+    }
+    if(DivName == 'cfv'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
+  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+    
+    //alert (SpanName); 
+    final_result = makePOSTRequestTellaFriends('/index.php?action=addcommentajax', poststr, SpanName);
+    }
+	if(DivName == 'cf'){
+		document.getElementById(DivName).style.display = 'none';
+	}
+  } 
+
+	function showhidepanel()
+	{
+		if(document.getElementById('allcat_list').style.display == 'inline')
+			document.getElementById('allcat_list').style.display = 'none';
+		else
+			document.getElementById('allcat_list').style.display = 'inline';
+	}
+	
+	function trimAll(sString)
+	{
+		while (sString.substring(0,1) == ' ')
+		{
+			sString = sString.substring(1, sString.length);
+		}
+		while (sString.substring(sString.length-1, sString.length) == ' ')
+		{
+			sString = sString.substring(0,sString.length-1);
+		}
+		return sString;
+	}
+	function EmailValidate(txtCtrl, val) 
+	{
+		var ctrName = val;
+		var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		if (trimAll(txtCtrl.value) == "" )
+		{
+			alert("Please enter " + ctrName );
+			txtCtrl.focus();	   	
+			txtCtrl.select();
+			return false;
+		}
+		if (!filter.test(txtCtrl.value)) 	{
+			alert("Please enter a valid email.\t\n eg: username@domainname.com");
+			txtCtrl.focus();	   	
+			txtCtrl.select();
+			return false;
+		}
+		if(txtCtrl.value.indexOf("'") > -1)
+		{
+			alert("Please Don't enter ' in " + ctrName );		
+			txtCtrl.focus();   	
+			return false;		
+		}			
+	}
+	function validateContact(frmObj){
+		if(trimAll(frmObj.cnt_username.value) == ''){
+			alert("Please enter Username");
+			frmObj.cnt_username.focus();
+			return false;
+		}
+		if(EmailValidate(frmObj.cnt_emailaddress,'E-Mail Address') == false){
+			return false;
+		}	
+		if(trimAll(frmObj.contactquery.value) == ''){
+			alert("Please enter Contact Query");
+			frmObj.contactquery.focus();
+			return false;
+		}	
+	}
+	function validateCompose(frmObj){
+		if(trimAll(frmObj.tousername.value) == ''){
+			alert("Please enter To user Name");
+			frmObj.tousername.focus();
+			return false;
+		}
+		if(trimAll(frmObj.messagesubject.value) == ''){
+			alert("Please enter Subject");
+			frmObj.messagesubject.focus();
+			return false;
+		}
+		if(trimAll(frmObj.messagebody.value) == ''){
+			alert("Please enter Message");
+			frmObj.messagebody.focus();
+			return false;
+		}
+	}
+</script>     
+</head>
+<body>
+	<div class="pagecontainer">
+		<div class="headerarea">
+			<div class="logo"><a href="/index.php"><img src="/images/logo.gif" alt="gamesib.com" title="gamesib.com" border="0"></a></div>
+			<div class="headloginarea">
+				<div class="headbookmark">
+				<!-- AddThis Button BEGIN -->
+				<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4ae7c4213141ef56"><img src="/images/bookmark_btn.gif" alt="BOOKMARK" title="BOOKMARK"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4ae7c4213141ef56"></script>
+				<!-- AddThis Button END -->
+				</div>
+					  			<div class="headlogininner">
+					<div class="headexistuser">Existing User ?</div>
+		<form action="http://www.gamesib.com/" method="post">
+							<div class="login_innerleft">
+						 
+							<div class="headuser">
+									<input type="text" name="username" tabindex="1">
+								</div>
+							</div>
+							<div class="login_innerright">
+								 
+							<div class="headpassword">
+									<input type="password" name="password" tabindex="2">
+								</div>
+							</div>
+							<div class="headloginbtn"><input type="hidden" name="params" value="login/login">
+								<input type="submit" name="submit" tabindex="3" value="">
+							</div>
+						</form>
+
+ 
+	  											
+					<div class="headregfree"><a href="/register/register.html" title="Register for free">Register for free</a></div>
+					<div class="headforgotpsss"><a href="/register/register.html" title="Forgot ID/Password?">Forgot ID/Password?</a></div>
+					<div class="headremember"><label><input type="checkbox" name="saveme" id="saveme" value="1">&nbsp;&nbsp;Remember me</label></div>	
+											<div class="headtokens">
+												100 Tokens Left Until you signup</div>						
+											
+				</div>					  
+				
+				<div class="headmenu">
+					<ul>
+						<li><a class="menu_home" title="Home" href="/"></a></li>
+						<li><a class="menu_members" title="Members" href="/register/register.html"></a></li>
+						<li><a class="menu_allgames" title="All Games" href="/index.php?params=category/Other/1/"></a></li>
+												<li><a class="menu_register" title="Register" href="/register/register.html"></a></li>
+																								
+					</ul>
+				</div>		
+				<div class="headsearch">
+					<form name="frmsearch" id="frmsearch" method="post" action="/">
+					<div class="searchtxtbox"><input type="text" name="q" id="txtsearch" value="Search for Games" onblur="if(this.value=='') this.value='Search for Games';" onfocus="if(this.value=='Search for Games') this.value='';"></div>
+					<div class="searcbtn"><input type="submit" value="" name="btnsearch" id="btnsearch"></div>	
+					</form>				
+				</div>																			
+			</div>
+			<div class="categorymenu">	
+				<div class="catmenuleft"></div>
+				<div class="catmenuinner">
+						  
+	 
+ 	   
+	   
+	  
+	   
+	  
+	  <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Action/1/" class="catovernrml"> Action    </a></div><div class="menu_right">&nbsp;</div></div> <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Adventure/1/" class="catovernrml"> Adventure    </a></div><div class="menu_right">&nbsp;</div></div> <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Arcade/1/" class="catovernrml"> Arcade    </a></div><div class="menu_right">&nbsp;</div></div> <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Puzzle/1/" class="catovernrml"> Puzzle    </a></div><div class="menu_right">&nbsp;</div></div> <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Shooting/1/" class="catovernrml"> Shooting    </a></div><div class="menu_right">&nbsp;</div></div> <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Sports/1/" class="catovernrml"> Sports    </a></div><div class="menu_right">&nbsp;</div></div> <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Strategy/1/" class="catovernrml"> Strategy    </a></div><div class="menu_right">&nbsp;</div></div> <div class="menu"><div class="menu_left">&nbsp;</div><div class="menu_md"><a href="http://www.gamesib.com/index.php?params=category/Other/1/" class="catovernrml"> Other    </a></div><div class="menu_right">&nbsp;</div></div>    								 
+										 
+										 							
+				</div>
+				<div class="catmenuright"></div>								
+			</div>	
+		</div>
+		<div class="contentarea">
+			<div class="cntarearow1"> <img src="/ads/468x60BO.gif"> <span>&nbsp;</span></div> 
+						<div class="cntarearow2">
+				<div class="featcontainer">
+					<div class="fea_top"><img src="/images/fea_games_tle.jpg" alt="Featured Games" title="Featured Games"></div>
+					<div class="fea_inner">						
+						<div class="anythingSlider">
+							<div class="wrapper">
+								<ul class="slider_ul">
+								       <li class="slider_li"><div class="fea_details">
+							<div class="fea_img"><a href="http://www.gamesib.com/index.php?params=game/42/" title="PLAY"><img src="http://www.gamesib.com/img/3dreversi.png" alt="3D Reversi" title="3D Reversi" width="223" height="154"></a></div>
+							<div class="fea_tle">3D Reversi</div>
+							<div class="fea_desc">Converting all the Reversi pieces on the board into yours. ...</div>							
+							<div class="fea_rate_star">
+								<div class="rated_text">Rated <span id="outOfFive_801" class="out5Class">0</span>/5 (<span id="percentage_801" class="percentClass">0%</span>)</div>
+			<ul id="rater_801" class="star-rating2">
+				<li class="current-rating" style="width:0%;" id="ul_801"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_801"></div>
+							</div>
+							<div class="fea_play_btn"><a href="http://www.gamesib.com/index.php?params=game/42/" title="PLAY">PLAY</a></div>
+						</div>					
+						</li>   <li class="slider_li"><div class="fea_details">
+							<div class="fea_img"><a href="http://www.gamesib.com/index.php?params=game/43/" title="PLAY"><img src="http://www.gamesib.com/img/bug.png" alt="Bug" title="Bug" width="223" height="154"></a></div>
+							<div class="fea_tle">Bug</div>
+							<div class="fea_desc">You must tactically push the bug eggs hooked on the nests. ...</div>							
+							<div class="fea_rate_star">
+								<div class="rated_text">Rated <span id="outOfFive_801" class="out5Class">0</span>/5 (<span id="percentage_801" class="percentClass">0%</span>)</div>
+			<ul id="rater_801" class="star-rating2">
+				<li class="current-rating" style="width:0%;" id="ul_801"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_801"></div>
+							</div>
+							<div class="fea_play_btn"><a href="http://www.gamesib.com/index.php?params=game/43/" title="PLAY">PLAY</a></div>
+						</div>					
+						</li>   <li class="slider_li"><div class="fea_details">
+							<div class="fea_img"><a href="http://www.gamesib.com/index.php?params=game/44/" title="PLAY"><img src="http://www.gamesib.com/img/megapuzzle.png" alt="Mega Puzzle" title="Mega Puzzle" width="223" height="154"></a></div>
+							<div class="fea_tle">Mega Puzzle</div>
+							<div class="fea_desc">A vast jigsaw puzzle, don't try this unless you've got about 3 hours to spare. ...</div>							
+							<div class="fea_rate_star">
+								<div class="rated_text">Rated <span id="outOfFive_801" class="out5Class">0</span>/5 (<span id="percentage_801" class="percentClass">0%</span>)</div>
+			<ul id="rater_801" class="star-rating2">
+				<li class="current-rating" style="width:0%;" id="ul_801"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_801"></div>
+							</div>
+							<div class="fea_play_btn"><a href="http://www.gamesib.com/index.php?params=game/44/" title="PLAY">PLAY</a></div>
+						</div>					
+						</li>   <li class="slider_li"><div class="fea_details">
+							<div class="fea_img"><a href="http://www.gamesib.com/index.php?params=game/45/" title="PLAY"><img src="http://www.gamesib.com/img/chainreaction.png" alt="Chain Reaction" title="Chain Reaction" width="223" height="154"></a></div>
+							<div class="fea_tle">Chain Reaction</div>
+							<div class="fea_desc">generate a series reaction in this superb puzzle game. ...</div>							
+							<div class="fea_rate_star">
+								<div class="rated_text">Rated <span id="outOfFive_801" class="out5Class">0</span>/5 (<span id="percentage_801" class="percentClass">0%</span>)</div>
+			<ul id="rater_801" class="star-rating2">
+				<li class="current-rating" style="width:0%;" id="ul_801"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_801"></div>
+							</div>
+							<div class="fea_play_btn"><a href="http://www.gamesib.com/index.php?params=game/45/" title="PLAY">PLAY</a></div>
+						</div>					
+						</li>   <li class="slider_li"><div class="fea_details">
+							<div class="fea_img"><a href="http://www.gamesib.com/index.php?params=game/46/" title="PLAY"><img src="http://www.gamesib.com/img/pipemania.png" alt="Pipe Mania" title="Pipe Mania" width="223" height="154"></a></div>
+							<div class="fea_tle">Pipe Mania</div>
+							<div class="fea_desc">Align the cylinder pieces to get the hose to reach the exhaust ...</div>							
+							<div class="fea_rate_star">
+								<div class="rated_text">Rated <span id="outOfFive_801" class="out5Class">0</span>/5 (<span id="percentage_801" class="percentClass">0%</span>)</div>
+			<ul id="rater_801" class="star-rating2">
+				<li class="current-rating" style="width:0%;" id="ul_801"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_801"></div>
+							</div>
+							<div class="fea_play_btn"><a href="http://www.gamesib.com/index.php?params=game/46/" title="PLAY">PLAY</a></div>
+						</div>					
+						</li> 
+ 		
+								</ul>			
+						   </div>	
+					   </div>						
+					</div>
+					<div class="fea_btm"></div>										
+				</div>
+				<div class="topplydcontainer">
+					<div class="yellow_top_bg"></div>
+					<div class="yellow_inner_bg">
+						<div class="topplayedcont">
+							<div class="topgamestle"><img src="/images/top_played_title.gif" alt="Top Played Games" title="Top Played Games"></div>
+						   <div class="topgameslist">
+								<div class="topgames_top"></div>
+								<div class="topgames_inner">
+									<div class="topgames_img"><a href="http://www.gamesib.com/index.php?params=game/123/" title="Spider Man City ..."><img width="68" height="57" src="http://www.gamesib.com/img/spidermancityraid.png" alt="Spider Man City ..." title="Spider Man City ..."></a></div>
+									<div class="topgames_name"><a href="http://www.gamesib.com/index.php?params=game/123/" title="Spider Man City ...">Spider Man City ...</a></div>									
+								</div>
+								<div class="topgames_btm"></div>																
+							</div>    <div class="topgameslist">
+								<div class="topgames_top"></div>
+								<div class="topgames_inner">
+									<div class="topgames_img"><a href="http://www.gamesib.com/index.php?params=game/29/" title="snake"><img width="68" height="57" src="http://www.gamesib.com/img/snake.png" alt="snake" title="snake"></a></div>
+									<div class="topgames_name"><a href="http://www.gamesib.com/index.php?params=game/29/" title="snake">snake</a></div>									
+								</div>
+								<div class="topgames_btm"></div>																
+							</div>    <div class="topgameslist">
+								<div class="topgames_top"></div>
+								<div class="topgames_inner">
+									<div class="topgames_img"><a href="http://www.gamesib.com/index.php?params=game/130/" title="Dj Mixer"><img width="68" height="57" src="http://www.gamesib.com/img/djmixer.png" alt="Dj Mixer" title="Dj Mixer"></a></div>
+									<div class="topgames_name"><a href="http://www.gamesib.com/index.php?params=game/130/" title="Dj Mixer">Dj Mixer</a></div>									
+								</div>
+								<div class="topgames_btm"></div>																
+							</div>    <div class="topgameslist">
+								<div class="topgames_top"></div>
+								<div class="topgames_inner">
+									<div class="topgames_img"><a href="http://www.gamesib.com/index.php?params=game/122/" title="Crazy Monkey"><img width="68" height="57" src="http://www.gamesib.com/img/adrenaline.png" alt="Crazy Monkey" title="Crazy Monkey"></a></div>
+									<div class="topgames_name"><a href="http://www.gamesib.com/index.php?params=game/122/" title="Crazy Monkey">Crazy Monkey</a></div>									
+								</div>
+								<div class="topgames_btm"></div>																
+							</div>    <div class="topgameslist">
+								<div class="topgames_top"></div>
+								<div class="topgames_inner">
+									<div class="topgames_img"><a href="http://www.gamesib.com/index.php?params=game/104/" title="Micro Tanks"><img width="68" height="57" src="http://www.gamesib.com/img/microtanks.png" alt="Micro Tanks" title="Micro Tanks"></a></div>
+									<div class="topgames_name"><a href="http://www.gamesib.com/index.php?params=game/104/" title="Micro Tanks">Micro Tanks</a></div>									
+								</div>
+								<div class="topgames_btm"></div>																
+							</div>    <div class="topgameslist">
+								<div class="topgames_top"></div>
+								<div class="topgames_inner">
+									<div class="topgames_img"><a href="http://www.gamesib.com/index.php?params=game/6/" title="Kaboom"><img width="68" height="57" src="http://www.gamesib.com/img/kaboom.png" alt="Kaboom" title="Kaboom"></a></div>
+									<div class="topgames_name"><a href="http://www.gamesib.com/index.php?params=game/6/" title="Kaboom">Kaboom</a></div>									
+								</div>
+								<div class="topgames_btm"></div>																
+							</div>  
+
+
+
+																																	
+						</div>
+						<div class="lastplayedcont">
+							<div class="lastplayed_top"><img src="/images/lastplayed_tle.gif" alt="Last Played" width="102" height="13" title="Last Played"></div>
+							<div class="lastplayed_inner">
+								<ul>   <li><a href="http://www.gamesib.com/index.php?params=game/2407/" title="Yan Lepage">Yan Lepage</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2406/" title="Glowstones">Glowstones</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2402/" title="popcorn flicks!">popcorn flicks!</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2401/" title="Bumpercars Demol...">Bumpercars Demol...</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2400/" title="Kid Games - Hugo...">Kid Games - Hugo...</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2399/" title="Platform Games -...">Platform Games -...</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2398/" title="Popcorn Flicks">Popcorn Flicks</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2397/" title="Denis Hebert">Denis Hebert</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2396/" title="The Life Ark">The Life Ark</a></li>	    <li><a href="http://www.gamesib.com/index.php?params=game/2395/" title="Mazenetix">Mazenetix</a></li>	 
+ 
+
+	
+																																																																																									
+								</ul>
+							</div>
+							<div class="lastplayed_btm"></div>														
+						</div>						
+					</div>
+					<div class="yellow_btm_bg"></div>										
+				</div>
+			</div>
+									<div class="cntarearow3">
+								<div class="cntarearow3_left">
+				   					<div class="row3left_top"><img src="/images/top_players_tle.gif" alt="Top Players" title="Top Players"></div>
+					<div class="row3left_inner">
+						<div class="toppalyerlist">
+							<div class="topplayerinner">
+								<div class="topplayerinnerbtm">
+									<div class="topplayers">
+					 		 <div class="topplayerwhtbrd"></div><div class="topplayercont">
+					<div class="topplayeravat"><a href="http://www.gamesib.com/index.php?params=profile/view/1/" title="gamer44"><img src="/images/noavatar.jpg" alt="gamer44" width="71" height="58" title="gamer44"></a></div>
+					<div class="topplayername">admin</div>
+					<div class="topplayerplays">Total Plays:&nbsp;1</div>
+					<div class="topplayerprflelnk"><a href="http://www.gamesib.com/index.php?params=profile/view/1/" title="View Profile">View Profile</a></div>										
+				</div>		  		 <div class="topplayerwhtbrd"></div><div class="topplayercont">
+					<div class="topplayeravat"><a href="http://www.gamesib.com/index.php?params=profile/view/14/" title="gamer44"><img src="/images/noavatar.jpg" alt="gamer44" width="71" height="58" title="gamer44"></a></div>
+					<div class="topplayername">gordon123</div>
+					<div class="topplayerplays">Total Plays:&nbsp;1</div>
+					<div class="topplayerprflelnk"><a href="http://www.gamesib.com/index.php?params=profile/view/14/" title="View Profile">View Profile</a></div>										
+				</div>		  		 <div class="topplayerwhtbrd"></div><div class="topplayercont">
+					<div class="topplayeravat"><a href="http://www.gamesib.com/index.php?params=profile/view/7/" title="gamer44"><img src="/images/noavatar.jpg" alt="gamer44" width="71" height="58" title="gamer44"></a></div>
+					<div class="topplayername">choden</div>
+					<div class="topplayerplays">Total Plays:&nbsp;1</div>
+					<div class="topplayerprflelnk"><a href="http://www.gamesib.com/index.php?params=profile/view/7/" title="View Profile">View Profile</a></div>										
+				</div>		  		 <div class="topplayerwhtbrd"></div><div class="topplayercont">
+					<div class="topplayeravat"><a href="http://www.gamesib.com/index.php?params=profile/view/18/" title="gamer44"><img src="/images/noavatar.jpg" alt="gamer44" width="71" height="58" title="gamer44"></a></div>
+					<div class="topplayername">TheBlood550</div>
+					<div class="topplayerplays">Total Plays:&nbsp;1</div>
+					<div class="topplayerprflelnk"><a href="http://www.gamesib.com/index.php?params=profile/view/18/" title="View Profile">View Profile</a></div>										
+				</div>		  		 <div class="topplayerwhtbrd"></div><div class="topplayercont">
+					<div class="topplayeravat"><a href="http://www.gamesib.com/index.php?params=profile/view/23/" title="gamer44"><img src="/images/noavatar.jpg" alt="gamer44" width="71" height="58" title="gamer44"></a></div>
+					<div class="topplayername">mz.sexygirl</div>
+					<div class="topplayerplays">Total Plays:&nbsp;1</div>
+					<div class="topplayerprflelnk"><a href="http://www.gamesib.com/index.php?params=profile/view/23/" title="View Profile">View Profile</a></div>										
+				</div>		  
+
+
+																	
+									</div>									
+								</div>
+								
+							</div>
+							<div class="topplayerbtm"></div>														
+						</div>
+						<div class="topratedgameslist">
+							<div class="topratedgamestle"><img src="/images/top_rated_games_tle.gif" alt="Top Rated Games" title="Top Rated Games"></div>   <div class="topratedgames">
+						<div class="topratgamedetls">
+							<div class="topratgamename"><a href="http://www.gamesib.com/index.php?params=game/2155/" title="Zombie Romp">Zombie Romp</a></div>
+							<div class="topratsmlstar">
+								
+			<ul id="rater_557" class="star-rating-small">
+				<li class="current-rating" style="width:80%;" id="ul_557"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_557"></div>
+							</div>
+						</div>
+						<div class="topratimg"><a href="http://www.gamesib.com/index.php?params=game/2155/" title="Zombie Romp"><img width="68" height="57" src="http://www.gamesib.com/img/1-zombieromp.png" alt="Zombie Romp" title="Zombie Romp"></a></div>																						
+					</div>
+					<div class="topplayergreybrd"></div>    <div class="topratedgames">
+						<div class="topratgamedetls">
+							<div class="topratgamename"><a href="http://www.gamesib.com/index.php?params=game/2173/" title="Crazy Shuttle">Crazy Shuttle</a></div>
+							<div class="topratsmlstar">
+								
+			<ul id="rater_557" class="star-rating-small">
+				<li class="current-rating" style="width:80%;" id="ul_557"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_557"></div>
+							</div>
+						</div>
+						<div class="topratimg"><a href="http://www.gamesib.com/index.php?params=game/2173/" title="Crazy Shuttle"><img width="68" height="57" src="http://www.gamesib.com/img/2crazy_shuttle.png" alt="Crazy Shuttle" title="Crazy Shuttle"></a></div>																						
+					</div>
+					<div class="topplayergreybrd"></div>    <div class="topratedgames">
+						<div class="topratgamedetls">
+							<div class="topratgamename"><a href="http://www.gamesib.com/index.php?params=game/2245/" title="Aqua Raiders: Tr...">Aqua Raiders: Tr...</a></div>
+							<div class="topratsmlstar">
+								
+			<ul id="rater_557" class="star-rating-small">
+				<li class="current-rating" style="width:80%;" id="ul_557"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_557"></div>
+							</div>
+						</div>
+						<div class="topratimg"><a href="http://www.gamesib.com/index.php?params=game/2245/" title="Aqua Raiders: Tr..."><img width="68" height="57" src="http://www.gamesib.com/img/treasure_trench.png" alt="Aqua Raiders: Tr..." title="Aqua Raiders: Tr..."></a></div>																						
+					</div>
+					<div class="topplayergreybrd"></div>    <div class="topratedgames">
+						<div class="topratgamedetls">
+							<div class="topratgamename"><a href="http://www.gamesib.com/index.php?params=game/2148/" title="Z-Man 707">Z-Man 707</a></div>
+							<div class="topratsmlstar">
+								
+			<ul id="rater_557" class="star-rating-small">
+				<li class="current-rating" style="width:80%;" id="ul_557"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_557"></div>
+							</div>
+						</div>
+						<div class="topratimg"><a href="http://www.gamesib.com/index.php?params=game/2148/" title="Z-Man 707"><img width="68" height="57" src="http://www.gamesib.com/img/zman0707.png" alt="Z-Man 707" title="Z-Man 707"></a></div>																						
+					</div>
+					<div class="topplayergreybrd"></div>    <div class="topratedgames">
+						<div class="topratgamedetls">
+							<div class="topratgamename"><a href="http://www.gamesib.com/index.php?params=game/2170/" title="Little Soldiers">Little Soldiers</a></div>
+							<div class="topratsmlstar">
+								
+			<ul id="rater_557" class="star-rating-small">
+				<li class="current-rating" style="width:80%;" id="ul_557"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_557"></div>
+							</div>
+						</div>
+						<div class="topratimg"><a href="http://www.gamesib.com/index.php?params=game/2170/" title="Little Soldiers"><img width="68" height="57" src="http://www.gamesib.com/img/littlesoldiers.png" alt="Little Soldiers" title="Little Soldiers"></a></div>																						
+					</div>
+					<div class="topplayergreybrd"></div>    <div class="topratedgames">
+						<div class="topratgamedetls">
+							<div class="topratgamename"><a href="http://www.gamesib.com/index.php?params=game/2172/" title="Alien Wars">Alien Wars</a></div>
+							<div class="topratsmlstar">
+								
+			<ul id="rater_557" class="star-rating-small">
+				<li class="current-rating" style="width:80%;" id="ul_557"></li>
+				<li><a onclick="return false;" href="#" title="1 star out of 5" class="one-star">1</a></li>
+				<li><a onclick="return false;" href="#" title="2 stars out of 5" class="two-stars">2</a></li>
+				<li><a onclick="return false;" href="#" title="3 stars out of 5" class="three-stars">3</a></li>
+				<li><a onclick="return false;" href="#" title="4 stars out of 5" class="four-stars">4</a></li>
+				<li><a onclick="return false;" href="#" title="5 stars out of 5" class="five-stars">5</a></li>
+			</ul>
+			<div id="loading_557"></div>
+							</div>
+						</div>
+						<div class="topratimg"><a href="http://www.gamesib.com/index.php?params=game/2172/" title="Alien Wars"><img width="68" height="57" src="http://www.gamesib.com/img/alienwars_1.png" alt="Alien Wars" title="Alien Wars"></a></div>																						
+					</div>
+					<div class="topplayergreybrd"></div>   
+
+
+
+	
+																			
+						</div>
+						<div class="toplinkslist">
+							<div class="toplinks_top"><img src="/images/top_links_title.gif" alt="Top Links" title="Top Links"></div>
+							<div class="toplinks_inner">
+								<div class="toplinks_inner_btm">
+									<ul>
+									  <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.topgamesky.com/0308.php?Action=Links">Related Sites</a></li>  <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.mariogames1.com/">Mario Games</a></li>  <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.thegirlsgames.com/">Girls Games</a></li>  <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.jabgames.com/">Online Games to Play</a></li>  <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.gamesdy.com/">gamesdy</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.gamewallop.com/">Enjoy in Game Wallop</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.pictgame.com">Online Games</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://cmegame.com/">cme Games</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.pictgame.com">online flash game</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.free-online-games.bz/">Free Online Games</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://todayspot.com/">TodaySpot Games</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.thegamehog.com/">Free Flash Games</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.online-games.bz/">Online Games</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.noodan.com">Noodan Free Games</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://foorom.com">foorom</a></li> <li> <span style="padding-left:7px;">&nbsp;</span><a title="" href="http://www.entgame.com">Free Online Games</a></li> 
+
+<b>&nbsp;&nbsp;<a href="http://www.gamesib.com/index.php?params=links/">More Cool Links »</a></b>
+
+ 		 																																																																					
+									</ul>
+								</div>
+							</div>
+							<div class="toplinks_btm">
+								<div class="toplinksmore"><a href="/index.php?action=links" class="More Links">More Links</a></div>
+								<div class="toplinksadd"><a href="/index.php?action=tradelinks" title="Add your Site">Add your Site</a></div>								
+							</div>																					
+						</div>	
+						<div class="statistics">
+							<div class="stat_tle">STATISTICS</div>
+							<div class="stat_details">
+								<ul>
+				 
+	 <b>Registered Users:</b> 80<br>
+<b>Total Media:</b> 2373<br>
+<b>Plays Today:</b> 275106<br>
+<b>Total Plays:</b> 2785104<br>
+<br>There is <b>1</b> user online:<br><b>0</b> members, <b>1</b> guest.
+ </ul>	
+								 						
+							</div>
+						</div>					
+					</div>
+					<div class="row3left_btm"></div>										
+				</div>								<div class="cntarearow3_main">
+					<div class="latest_games_ad">
+						<div class="latestgameslist">
+							<div class="latestgames_tle"><img src="/images/latest_games_tle.gif" alt="Latest Games" title="Latest Games"></div>
+							  	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/100/" title="King Ping Pong"><img width="87" height="87" src="http://www.gamesib.com/img/939.png" alt="King Ping Pong" border="0" title="King Ping Pong"></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/100/" title="King Ping Pong">King Ping Pong...</a></div>
+					</div>   	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/486/" title="Sim Girl"><img width="87" height="87" src="http://www.gamesib.com/img/simgirl.png" alt="Sim Girl" border="0" title="Sim Girl"></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/486/" title="Sim Girl">Sim Girl...</a></div>
+					</div>   	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/118/" title="Sonic Island Adv..."><img width="87" height="87" src="http://www.gamesib.com/img/sonicisland.png" alt="Sonic Island Adv..." border="0" title="Sonic Island Adv..."></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/118/" title="Sonic Island Adv...">Sonic Island Adv......</a></div>
+					</div>   	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/124/" title="Curse Of Anubis...."><img width="87" height="87" src="http://www.gamesib.com/img/curseofanubispyramidofdoombig.png" alt="Curse Of Anubis...." border="0" title="Curse Of Anubis...."></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/124/" title="Curse Of Anubis....">Curse Of Anubis.......</a></div>
+					</div>   	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/37/" title="Bob's Adven..."><img width="87" height="87" src="http://www.gamesib.com/img/295.png" alt="Bob's Adven..." border="0" title="Bob's Adven..."></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/37/" title="Bob's Adven...">Bob's Adven......</a></div>
+					</div>   	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/96/" title="Lawn Bowling"><img width="87" height="87" src="http://www.gamesib.com/img/940.png" alt="Lawn Bowling" border="0" title="Lawn Bowling"></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/96/" title="Lawn Bowling">Lawn Bowling...</a></div>
+					</div>   	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/125/" title="Barbarian"><img width="87" height="87" src="http://www.gamesib.com/img/barbarian.png" alt="Barbarian" border="0" title="Barbarian"></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/125/" title="Barbarian">Barbarian...</a></div>
+					</div>   	<div class="latestgamescont">
+						<div class="latestgames_img"><a href="http://www.gamesib.com/index.php?params=game/56/" title="Quiz Time with C..."><img width="87" height="87" src="http://www.gamesib.com/img/753.png" alt="Quiz Time with C..." border="0" title="Quiz Time with C..."></a></div>
+						<div class="latestgames_name"><a href="http://www.gamesib.com/index.php?params=game/56/" title="Quiz Time with C...">Quiz Time with C......</a></div>
+					</div>  
+
+
+
+												
+						</div>
+						<div class="latestgamesad"> <span>&nbsp;</span></div>						
+					</div>
+					<div class="blue_boreder"></div>	
+					<div class="browsebycategory">
+						<div class="browse_title_link">
+							<div class="browse_tle"><img src="/images/browsegames_tle.gif" alt="Browse Games By Category" title="Browse Games By Category"></div>							
+							 				
+						</div>
+						<!-- Sputy Home Center Part Starts -->
+							<div class="homecenterpart">
+								
+								
+							 
+								 
+																																		
+							 					<div class="browsebycatlist">																	
+								 																						
+								  <table width="100%" border="0" bordercolor="#9de1f5" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+              <tbody><tr>
+                <td height="26" bgcolor="#ffffff"><span class="cellTitles">
+	 
+ 	   
+	   Privacy Policy
+	  
+	   
+	  
+	  </span></td> 
+ </tr>
+				  <tr>
+					<td valign="top" class="defaultText">  <table bordercolor="#9de1f5" width="100%" cellspacing="0" cellpadding="4">
+                  <tbody><tr valign="top">
+                    <td align="left" valign="top" width="50%" height="205"><div class="mainCatGame">  <span class="dhColumnistHeadline"> <br><strong>Links to Other Web Sites.</strong> <br>
+<p>We make content or services   from our other web sites available to you from links located on  us.   We also offer through links a collection of services provided by third parties.   In order to use third parties' services you will be directed to pages on their   web sites, which may be co-branded with the  us logo. Please remember   that when you visit these other web sites, even the affiliated and co-branded   sites, the sites' own privacy policies apply.</p>
+                  <p><strong>Information We Collect</strong> <br>
+                   Web Site Usage Information: We   automatically collect IP addresses and Web Site usage information from you when   you visit our Web Site. This information helps us evaluate how our visitors use   and navigate our Web Site on an aggregate basis, including the number and   frequency of visitors to each Web page, and the length of their visits. </p>
+                  <p>General: When you use some of the site's special features we will collect   personally identifiable information from you that may include your name, phone   number, address, e-mail address and similar information. We do not, however,   knowingly collect personal information from children under the age of thirteen. </p>
+                  <p>Surveys: We may conduct occasional online surveys. For example, when you are   within our Web Site, you may see a pop-up window offering you the optional   opportunity of participating in a survey. These surveys are entirely voluntary   and you may easily decline to participate.</p>
+                  <p><strong>How We Use Information Collected</strong> <br>
+                   We may use information   in the following ways: </p>
+                  <p>For the purposes for which you specifically provided the information, for   example, to process and fulfill your subscriptions to our e-mail newsletters,   review and post your contributions to discussion groups and to process and   forward to franchisers your franchiser information requests.</p>
+                  <p>To send you e-mail notifications about our new or existing products and   services, special offers, or to otherwise contact you.</p>
+                  <p>To allow us to personalize the content and advertising that you and others   see based on personal characteristics or preferences.</p>
+                  <p>To enhance existing features or develop new features, products and   services.</p>
+                  <p>To provide advertisers and other third parties with aggregate information   about our user base and usage patterns.</p>
+                  <p>We may combine the information that we collect from you on this Web Site with   information that you provide to us in connection with your use of our other   products, services and web sites.  
+</p> </span><br>  <span></span>   </div></td>
+ </tr>					   </tbody></table>
+					</td>
+					 
+				  </tr></tbody></table>
+								 
+									</div>																
+							</div>
+						<!-- // Sputy Home Center Part End -->
+					</div>					
+				</div>			</div>
+																		
+		</div>
+		<div class="footerarea">
+			<div class="footcopytxt">Copyright © 2010  - Gamesib.com - Free Online Games, Free Flash Games</div>
+			
+			<div class="footmenu">
+				<div class="footmenuleft"></div>			
+				<div class="footmenuinner">
+					 
+					<div class="fmenu_right">
+						<ul>
+							<li style="background:none;"><a href="/page/4.html">Terms and Conditions</a></li>
+							<li><a href="/page/3.html">Privacy</a></li>
+							<li><a href="/page/2.html">Contact Us</a></li>
+						</ul>
+					</div>
+				</div>			
+				<div class="footmenurgt"></div>											
+			</div>
+			<div class="footertxt">Welcome to Gamesib.com the largest online games site where you can play a large range of free online games including sports games, massive Highscore  games, action games, puzzle games,<br>and flash games. Games players can save game statistics on their games pages and receive badges  for playing games.</div>
+			<div class="footerlistgames">Play Free Online Games, sports games, massive games, action games, puzzle games, flash games and more</div>							 
+		</div>
+	</div>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="/images/jquery.easing.1.2.js"></script>
+<script src="/images/jquery.anythingslider.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript">
+
+	function formatText(index, panel) {
+	  return index + "";
+	}
+
+	$(function () {
+	
+		$('.anythingSlider').anythingSlider({
+			easing: "easeInOutExpo",        // Anything other than "linear" or "swing" requires the easing plugin
+			autoPlay: true,                 // This turns off the entire FUNCTIONALY, not just if it starts running or not.
+			delay: 3000,                    // How long between slide transitions in AutoPlay mode
+			startStopped: false,            // If autoPlay is on, this can force it to start stopped
+			animationTime: 600,             // How long the slide transition takes
+			hashTags: true,                 // Should links change the hashtag in the URL?
+			buildNavigation: true,          // If true, builds and list of anchor links to link to each slide
+			pauseOnHover: true,             // If true, and autoPlay is enabled, the show will pause on hover
+			startText: "",             // Start text
+			stopText: "",               // Stop text
+			navigationFormatter: formatText       // Details at the top of the file on this use (advanced use)
+		});
+		
+		$("#slide-jump").click(function(){
+			$('.anythingSlider').anythingSlider(6);
+		});
+		
+	});
+</script>	
+
+
+ 
+
+</body></html>
