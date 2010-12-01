@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2mayhem.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527222748id_/http%3A//web2mayhem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2mayhem.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201111833id_/http%3A//web2mayhem.com/privacy) for the most accurate reproduction.*
 
 # Web2Mayhem - Privacy Policy
 
