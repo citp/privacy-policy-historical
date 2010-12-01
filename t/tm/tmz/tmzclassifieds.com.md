@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmzclassifieds.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908090934id_/http%3A//tmzclassifieds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzclassifieds.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201123131id_/http%3A//tmzclassifieds.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
