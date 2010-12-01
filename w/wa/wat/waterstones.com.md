@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618005116id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201073212id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019/%3Fnav%3DFooter%26linkid%3DPrivacy%2520policy) for the most accurate reproduction.*
 
 # Fiction, Children's books, eBooks, Non-fiction books, textbooks and more at Waterstone's
-
-__
 
 **Waterstone's Privacy Policy**
 
@@ -30,7 +28,7 @@ By submitting your information you consent to the use of that information as set
 
 **Opt in/Opt out**
 
-If at any time you wish to receive information about any other product areas which you currently do not receive, you can [**sign up to our email newsletters**](http://f.chtah.com/i/30/619054499/WaterstonesSignUp.html) by visiting the [**email preference page**](http://f.chtah.com/i/30/619054499/WaterstonesSignUp.html). If you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on the unsubscribe link at the bottom of your emails and following the instructions provided. If you have any queries about how to use the mailing preference system, please email us at [**service@waterstones.com**](mailto:service@waterstones.com).
+If at any time you wish to receive information about any other product areas which you currently do not receive, you can [**sign up to our email newsletters**](http://f.chtah.com/s/30/619054499/Waterstones_signup_homepage.html) by visiting the [**email preference page**](http://f.chtah.com/s/30/619054499/Waterstones_signup_homepage.html). If you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on the unsubscribe link at the bottom of your emails and following the instructions provided. If you have any queries about how to use the mailing preference system, please email us at [**service@waterstones.com**](mailto:service@waterstones.com).
 
 **Cookies**
 
