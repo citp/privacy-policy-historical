@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobsinghana.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912224841id_/http%3A//www.jobsinghana.com/home/%3Fview%3D7%26PHPSESSID%3D9db304471cc8ae7940198ec94cad4fe4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinghana.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201105625id_/http%3A//jobsinghana.com/home/%3Fview%3D7) for the most accurate reproduction.*
 
-# Jobsinghana.com - Ghana's Leading Recruitment Site. Right Candidates, Real Jobs
-
-Privacy Policy
+# Jobsinghana.com - Ghana's Leading Recruitment Site
 
 Jobsinghana.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the Jobsinghana.com’s recruiting website. By using Jobsinghana.com, you consent to the policies and practices described in this Policy. This policy may change from time to time so please check back periodically.
 
