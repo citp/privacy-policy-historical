@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529222408id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201031214id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,9 +14,13 @@ Our website also makes reference to third parties. As a rule, these are identifi
 
  **2.  Cookies**
 
-As a rule, our websites use only so-called session cookies. These cookies deposit data for purposes of technical regulation in your browser's memory. However, they do not contain any personal data and are deleted after your browser is closed. Moreover, it is possible for you to set your browser such that cookies are rejected or you are informed prior to storage thereof.
+Our websites use so-called session cookies. These cookies deposit data for purposes of technical regulation in your browser's memory. However, they do not contain any personal data and are deleted after your browser is closed.
 
-Only where our "Developer Communities" forums are used do we deposit cookies on your computer, which are not deleted after conclusion of the session. These make it possible to recognize your computer when the forums are next visited. Such cookies make it possible for us to adapt the website to your interests or, with your consent, to store your password so that you do not have to re-enter it each time. 
+We do deposit cookies on your computer, which are not deleted after conclusion of the session. These make it possible to recognize your computer when the forums are next visited. Such cookies make it possible for us to adapt the website to your interests. For U.S.-based visitors, we may also use cookies to present banners to you across the Internet based on your interest. With your consent, we store your password so that you do not have to re-enter it each time.
+
+Moreover, it is possible for you to set your browser such that cookies are rejected or you are informed prior to storage thereof.
+
+Flash-Cookies or Local Shared Objects (LSO) will not be used by Software AG. Also Session Storage or DOM Storage will not be used.
 
  **3.  Communication-related and Use-related Data **
 
