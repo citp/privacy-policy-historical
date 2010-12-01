@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office-on-the.net privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207142734id_/http%3A//www.dyndns.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office-on-the.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201180345id_/http%3A//www.dyndns.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # DynDNS.com - Legal Notices -- Privacy Policy
 
@@ -56,7 +56,7 @@ It is the policy of Dyn Inc. to protect and respect your privacy and PII. Theref
 
 ##### B. How to Unsubscribe
 
-If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to <http://www.dyndns.com/account/settings/mailinglist.html> or emailing privacy@dyndns.com. In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
+If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to [http://www.dyndns.com/account/settings/mailinglist.html](https://web.archive.org/account/settings/mailinglist.html) or emailing privacy@dyndns.com. In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
 
 #### VII. Third Parties
 
@@ -117,3 +117,6 @@ privacy@dyndns.com
 #### XV. Effective Date
 
 THE EFFECTIVE DATE OF THIS PRIVACY POLICY IS THE DATE FIRST SET FORTH ABOVE.
+
+  
+
