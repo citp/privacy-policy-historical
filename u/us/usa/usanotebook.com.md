@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usanotebook.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113160235id_/http%3A//www.usanotebook.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanotebook.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201121604id_/http%3A//www.usanotebook.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - USAnotebook.com
 
