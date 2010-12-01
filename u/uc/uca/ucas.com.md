@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411070914id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201223805id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
 
 # UCAS - Privacy statement
 
