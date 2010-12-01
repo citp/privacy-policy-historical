@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522092325id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201111626id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
 
 # Webyog Privacy Policy
-
-Privacy Policy
 
 Your privacy is important to us.
 
