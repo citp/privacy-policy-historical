@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gbatemp.net privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406170519id_/http%3A//gbatemp.net/index.php%3Fdynamic%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbatemp.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201125302id_/http%3A//gbatemp.net/d78-gbatemp-net-privacy-policy) for the most accurate reproduction.*
 
-# GBAtemp.net -> Portal
+# GBAtemp.net -> The Free Independent Video Game Community: 3DS, NDS, Wii, GBA, PSP, Hacking, Dingoo, PS3, Xbox 360...
 
   
 **GBAtemp.net Privacy Policy information**
