@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verybest.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516013846id_/http%3A//www.verybest.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verybest.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201043402id_/http%3A//www.verybest.com/info/privacy) for the most accurate reproduction.*
 
 # VERYBEST.COM • Guide To The World’s Very Best Products & Services
 
