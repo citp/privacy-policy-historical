@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modamob.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413215804id_/http%3A//www.modamob.com/mm5/merchant.mvc%3FScreen%3DPRVY%26Store_Code%3DHS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modamob.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201165508id_/http%3A//www.modamob.com/mm5/merchant.mvc%3FScreen%3DPRVY%26Store_Code%3DHS) for the most accurate reproduction.*
 
 # Privacy Policy | ModaMob
 
