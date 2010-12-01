@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525110141id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201105130id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ToolGuyd
 
 **Your Privacy is Very Important to Us**
 
@@ -18,7 +18,7 @@ If you subscribe to any of our email lists, your email address will be collected
 
 **Logs**
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files may nclude your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and the pages you visited throughout our site.
+As with most other websites, we collect and use the data contained in log files. The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and the pages you visited throughout our site. IP addresses may also be collected whenever a comment or email is submitted to us via the comment or contact form interface.
 
 **Cookies and Web Beacons**
 
