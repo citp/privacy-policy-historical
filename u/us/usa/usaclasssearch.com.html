@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usaclasssearch.com privacy policy that was archived on 2010-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100419133110id_/http%3A//www.usaclasssearch.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usaclasssearch.com privacy policy that was archived on 2010-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201101535id_/http%3A//usaclasssearch.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -565,6 +565,9 @@
 				<li><span class="arrow01">Online GED</span></li>
 			</ul></div>-->
 		</div>
+		<div class="example">
+		<li><a href="career_diplomas.asp"><span class="left"><span class="right"><span class="arrow">Career Diplomas</span></span></span></a></li>
+		</div>
 		
 		
 		
@@ -669,6 +672,31 @@ able to opt out. To opt out, please contact us.</p>
 <!--formpanel -->
 <script language="javascript">
 
+function zipcheck()
+{
+		if (document.zipForm.zip.value == "") {
+		alert ("Please enter your zip code.");
+		document.zipForm.zip.focus();
+		return false;
+	}
+		if (isNaN(document.zipForm.zip.value)) {
+		alert("Zip code must be numeric.");
+		document.zipForm.zip.focus()
+		return false;
+	}
+		if (document.zipForm.zip.value.length < 5) {
+		alert ("Zip code must be at least 5 digits in length.");
+		document.zipForm.zip.focus();
+		return false;
+	}
+	
+
+	return true;
+}
+</script>
+
+<script language="javascript">
+
 function validate()
 {
 
@@ -692,17 +720,53 @@ if(document.aspnetForm.programs.selectedIndex == '')
 		document.aspnetForm.programs.focus();
 		return false;
     }	
-	
-	
 
+if(document.aspnetForm.bid.value == '2' && document.aspnetForm.areaOfInterest.value == 'Healthcare' && document.aspnetForm.programs.value == '49')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+if(document.aspnetForm.bid.value == '2' && document.aspnetForm.areaOfInterest.value == 'Healthcare' && document.aspnetForm.programs.value == '58')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+if(document.aspnetForm.bid.value == '3' && document.aspnetForm.areaOfInterest.value == 'Healthcare' && document.aspnetForm.programs.value == '49')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+if(document.aspnetForm.bid.value == '3' && document.aspnetForm.areaOfInterest.value == 'Healthcare' && document.aspnetForm.programs.value == '58')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+	
+if(document.aspnetForm.bid.value == '2' && document.aspnetForm.areaOfInterest.value == 'Business' && document.aspnetForm.programs.value == '13')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+if(document.aspnetForm.bid.value == '3' && document.aspnetForm.areaOfInterest.value == 'Business' && document.aspnetForm.programs.value == '13')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+	
+if(document.aspnetForm.bid.value == '2' && document.aspnetForm.areaOfInterest.value == 'Healthcare' && document.aspnetForm.programs.value == 'Gerontology')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+if(document.aspnetForm.bid.value == '3' && document.aspnetForm.areaOfInterest.value == 'Healthcare' && document.aspnetForm.programs.value == 'Gerontology')
+	{
+		window.location.href="http://www.usaclasssearch.com/results2.asp";
+		return false;
+    }
+	
 	return true;
 }
 </script>
-
-
-
-
-
 
 
 
@@ -780,7 +844,7 @@ if(document.aspnetForm.areaOfInterest.value=='Engineering')
 	
 if(document.aspnetForm.areaOfInterest.value=='Healthcare')
 	{
-		document.getElementById("populate").innerHTML='<select name="programs" class="select"><option value="" selected>Select a Subject</option><option value="48">Nursing</option><option value="49">Healthcare Administration</option><option value="50">Health Education</option><option value="51">Medical or Dental Assistant</option><option value="52">Medical Billing</option><option value="53">Health Info Technology</option><option value="54">Pharmacy</option><option value="55">Physical Therapy</option><option value="56">Public Health</option><option value="57">Health Science</option><option value="58">Health Services</option><option value="59">Medical Office</option><option value="60">Medical Transcription</option><option value="61">Radiology</option></select>';
+		document.getElementById("populate").innerHTML='<select name="programs" class="select"><option value="" selected>Select a Subject</option><option value="48">Nursing</option><option value="49">Healthcare Administration</option><option value="50">Health Education</option><option value="51">Medical or Dental Assistant</option><option value="52">Medical Billing</option><option value="53">Health Info Technology</option><option value="54">Pharmacy</option><option value="55">Physical Therapy</option><option value="56">Public Health</option><option value="Gerontology">Gerontology</option><option value="57">Health Science</option><option value="58">Health Services</option><option value="59">Medical Office</option><option value="60">Medical Transcription</option><option value="61">Radiology</option></select>';
 	}	
 	
 	
@@ -948,9 +1012,9 @@ function setCities(chooser) {
 <option selected="selected" value="" name="level" id="eduLvl">Choose Degree Level</option>
 			<option value="1">Associate</option>
 				<option value="2">Bachelor</option>
-				<option value="5">Certificate</option>
-				<option value="4">Doctorate</option>
 				<option value="3">Master</option>
+				<option value="4">Doctorate</option>
+				<option value="5">Certificate/Diploma</option>
 </select>
 <select name="areaOfInterest" class="select" onchange="poulate()">
 <option selected="selected" value="">Choose Degree Program</option>
@@ -969,7 +1033,22 @@ function setCities(chooser) {
 
 <input name="" type="image" class="find_my_degree" title="Find My Degree" src="images/find_my_degree.gif">
 </form>
+
+
 </div>
+
+<div class="mainform2">
+<form action="zresults.asp" method="post" name="zipForm" onsubmit="return zipcheck();" class="form">
+<center>
+<p>
+Enter your zip to search <br>for a campus:<br>
+<input name="zip" type="text" size="5" maxlength="5"> <input type="submit" value="Go">
+</p>
+</center>
+</form>
+
+</div>
+
 </div>
 <div><img src="images/quick_bottom.jpg" class="find_bottom" alt=""></div>
 <!--logopanel -->
@@ -996,6 +1075,12 @@ Our Network Include:</h2>
 <a href="apps/capellaonline"><img src="images/logo/capella.gif" alt="" border="0" /></a><br /-->
 
 <a href="apps/ppc"><img src="images/logo/ppc.gif" alt="" border="0"></a><br>
+
+<a href="apps/capella_grad/"><img src="images/logo/capella.jpg" alt="" border="0"></a><br>
+
+<a href="mt_lyon/"><img src="images/logo/mtlyon.jpg" alt="" border="0"></a><br>
+
+<!--<a href="apps/must_university"><img src="images/logo/must.jpg" alt="" border="0" /></a><br />-->
 
 </div>
 <!--<img src="images/view_2.jpg" class="button" alt="" />-->
@@ -1046,7 +1131,7 @@ Our Network Include:</h2>
 		<li><a href="#">Online Medical Assistant Degree</a></li>
 </ul>-->
 
-<ul>
+<!--<ul>
 		<li><span>Top Online Colleges </span></li> 
 		
 		<li><a href="university_phoenix.asp">University of Phoenix</a></li>
@@ -1055,7 +1140,7 @@ Our Network Include:</h2>
 		<li><a href="ashford_university.asp">Ashford University</a></li>
 		<li><a href="american_intercontinental_university.asp">AIU Online</a></li>
 		<li><a href="walden_university.asp">Walden University</a></li>
-</ul>
+</ul>-->
 
 
 <p class="copy_right">© 2010 USAClassSearch.com All rights reserved. </p>
