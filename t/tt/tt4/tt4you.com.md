@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tt4you.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174324id_/http%3A//www.tt4you.com/info/userinfo.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tt4you.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201082308id_/http%3A//www.tt4you.com/info/userinfo.asp) for the most accurate reproduction.*
 
 # Language Exchange Community : TT4YOU
 
