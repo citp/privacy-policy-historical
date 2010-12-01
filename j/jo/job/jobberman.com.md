@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318020320id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201235148id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Jobberman
+# Privacy Policy - Jobberman-
 
 **Privacy Policy**
 
