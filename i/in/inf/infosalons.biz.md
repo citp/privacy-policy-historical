@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019220937id_/http%3A//www.infosalons.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201064710id_/http%3A//www.infosalons.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Info Salons - Privacy Policy
 
