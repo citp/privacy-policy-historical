@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hatchwise.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505055617id_/http%3A//www.hatchwise.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatchwise.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201213951id_/http%3A//hatchwise.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Hatchwise Privacy Policy
 
