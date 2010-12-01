@@ -1,11 +1,9 @@
-<!--The following is the downloaded HTML source of the up4vn.com privacy policy that was archived on 2010-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100208215413id_/http%3A//www.up4vn.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the up4vn.com privacy policy that was archived on 2010-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201131241id_/http%3A//up4vn.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="content-language" content="en-US">
-<meta name="keywords" content="free file mirror, file upload, downloads, sharing">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head>
+<title>Free File Mirror Hosting Made Simple - up4vn</title><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="hosting, upload, web hosting, online storage">
 <meta name="description" content="up4vn.com is the simplest free file sharing over internet ">
 <meta name="verify-v1" content="JJ0+ONuVhStKTf2uJ/d2i2R2TWn9MIc1ai9RywBC+6g=">
 <meta type="" content="GRuF8u5A4o-pheV0ltMty3GrH2I">
@@ -13,48 +11,54 @@
 <meta name="GOOGLEBOT" content="INDEX,FOLLOW">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
-<link href="/favicon.png" rel="shortcut icon">
-<link rel="stylesheet" type="text/css" href="/css/style.css">
-<link rel="stylesheet" type="text/css" href="/css/keyboard.css">
-<script language="JavaScript" type="text/javascript" src="/js/xupload.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/help.js"></script>
-<script type="text/javascript" src="/js/keyboard.js" charset="UTF-8"></script>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/css/up4vn.css">
+<link rel="stylesheet" type="text/css" href="/css/Impromptu.css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery-impromptu.3.1.min.js"></script>
+<script type="text/JavaScript" src="/js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.js"></script>
+
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-9786036601519125");GS_googleEnableAllServices();</script>
+<script type="text/javascript">GA_googleAddSlot("ca-pub-9786036601519125", "up4vn_728x90");</script>
+<script type="text/javascript">GA_googleAddSlot("ca-pub-9786036601519125", "up4vn_300x250");</script>
+<script type="text/javascript">GA_googleAddSlot("ca-pub-9786036601519125", "up4vn_728x90_dl");</script>
+<script type="text/javascript">GA_googleFetchAds();</script>
 <script type="text/javascript">
-function s(field) {
-	field.focus();
-	field.select();
-}
+function einblenden(p) { for(var i=0;i<p.childNodes.length;i++) { if(p.childNodes[i].nodeName.toLowerCase()=="div") p.childNodes[i].style.display="block"; } }
+function ausblenden(p) { for(var i=0;i<p.childNodes.length;i++) { if(p.childNodes[i].nodeName.toLowerCase()=="div") p.childNodes[i].style.display="none"; } }
 </script>
-<!--[if lte IE 6]>
-<script type="text/javascript">
+<!-- Convertir todos los PNG en transparentes para IE, versiones anteriores a la 7-->
+<!--[if lt IE 7]>
+<script language="JavaScript">
 function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
 {
-   var arVersion = navigator.appVersion.split("MSIE")
-   var version = parseFloat(arVersion[1])
-   if ((version >= 5.5) && (document.body.filters)) 
-   {
-      for(var i=0; i<document.images.length; i++)
-      {
-         var img = document.images[i]
-         var imgName = img.src.toUpperCase()
-         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
-         {
-            var imgID = (img.id) ? "id='" + img.id + "' " : ""
-            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
-            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
-            var imgStyle = "display:inline-block;" + img.style.cssText 
-            if (img.align == "left") imgStyle = "float:left;" + imgStyle
-            if (img.align == "right") imgStyle = "float:right;" + imgStyle
-            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
-            var strNewHTML = "<span " + imgID + imgClass + imgTitle
-            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
-            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
-            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
-            img.outerHTML = strNewHTML
-            i = i-1
-         }
-      }
-   }    
+	var arVersion = navigator.appVersion.split("MSIE")
+	var version = parseFloat(arVersion[1])
+	if ((version >= 5.5) && (document.body.filters)) {
+		for(var i=0; i<document.images.length; i++) {
+			var img = document.images[i]
+			var imgName = img.src.toUpperCase()
+			if (imgName.substring(imgName.length-3, imgName.length) == "PNG") {
+				var imgID = (img.id) ? "id='" + img.id + "' " : ""
+				var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+				var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+				var imgStyle = "display:inline-block;" + img.style.cssText
+				if (img.align == "left") imgStyle = "float:left;" + imgStyle
+				if (img.align == "right") imgStyle = "float:right;" + imgStyle
+				if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+				var strNewHTML = "<span " + imgID + imgClass + imgTitle
+				+ " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+				+ "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+				+ "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
+				img.outerHTML = strNewHTML
+				i = i-1
+			}
+		}
+	}
 }
 window.attachEvent("onload", correctPNG);
 </script>
@@ -62,103 +66,124 @@ window.attachEvent("onload", correctPNG);
 </head>
 <body>
 
-<table width="750" height="100%" cellpadding="0" cellspacing="0" align="CENTER" class="container">
-<tbody><tr><td height="1%" valign="TOP" align="CENTER" style="padding:10px 10px 5px 10px;">
+<center>
+<div style="padding: 10px 0 20px 0;"><table><tbody><tr><td>
+	<div class="navigation">
+	<ul>
+		<li><a href="/">Upload Zone</a></li>
 
-<div style="padding-bottom:6px;">
-<table width="728" cellpadding="0" cellspacing="0" align="center">
+        <li onmouseover="einblenden(this);" onmouseout="ausblenden(this);">
+			<div style="display: none;" class="subnavi">
+			<ul>
+				                <li><a href="/login.php">Member Login</a></li>
+                <li><a href="/register.php">Signup Account</a></li>
+                <li style="border: 0px none;"><a href="/forgot.php">Reset password?</a></li>
+							</ul>
+			</div>
+		<a href="#">Account Zone</a>
+		</li>
+
+				
+		<li><a href="/faq.php">F.A.Q</a></li>
+		<li><a href="/privacy.php">Privacy</a></li>
+		<li><a href="/terms.php">Terms</a></li>
+		<li style="border: 0px none;"><a href="/contact.php">Contact Us</a></li>
+    </ul>
+	</div>
+</td></tr></tbody></table></div>
+<div style="padding:10px 0 20px 0"><a href="/"><img src="/images/up4vn.png" border="0" width="298" height="46" alt="Free File Mirror Hosting"></a></div>
+
+<div style="text-align: left; width: 730px;">
+	<div id="inhaltbox"><span class="user"><img src="/images/user.gif" align="absmiddle" border="0">&nbsp;
+	<a href="/login.php">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/register.php" style="color:#FF6600;">Signup</a></span>
+	<h1>PRIVACY POLICY</h1>
+	</div>
+	<center>	<br><!-- BEGIN: Shopzilla Publisher Asset HTML -->
+	<div style="background-color: #FFFFFF;border: 1px solid #E7F2FC;font-family: Verdana, Arial, Sans-serif;font-size: 10px;padding: 0px 0px 0px 0px;line-height: 11px;color: #000000;position:relative;width: 728px;height: 90px;">
+		<iframe width="728" vspace="0" scrolling="no" src="https://adserve.shopzilla.com/pp/content/tal/publisherID-39906/assetID-661/assetTypeID-9/placementID-2/showProducts-3/showRandom-0/start-1/sort-default/onlyOffers-1/categoryID-18000000/tokenID-7X/style-10px%20Verdana%2C%20Arial%2C%20Sans-serif;000000:FFFFFF:0066CC:006600:006600:666666:FFFFFF;0px%20outset;_blank" name="display" height="90" marginwidth="0" hspace="0" frameborder="0" marginheight="0"></iframe>
+	</div>
+	<noscript><a href="https://adserve.bizrate.com/pp/content/tal/publisherID-39906/assetID-661/assetTypeID-9/placementID-2/showProducts-3/showRandom-0/start-1/sort-default/cache-1/noLog-1/standAlone-1/onlyOffers-1/categoryID-18000000/tokenID-7X/style-">Bizrate</a></noscript>
+	<!-- END: Shopzilla Publisher Asset HTML -->
+	
+	<div class="psmiddle">
+	<div style="padding:10px 0 10px 0;">
+	<table width="710" cellpadding="4" cellspacing="0" align="center"><tbody><tr><td align="left">
+	<div class="faq_title">IP Address Logging</div>
+	Each visitor who views a web page on <b>"up4vn"</b> is subject to ip address collection. These ip's are used to determine if you are a new or returning visitor. Your ip is also used to track your download usage, upload usage, and page views on <b>"up4vn"</b>. Any personal identifiable information collected from your ip is not saved or resold by <b>"up4vn"</b>.<br><br>
+	<div class="faq_title">Email Address Collection</div>
+	When you submit an email address to <b>"up4vn"</b> we use the e-mail address temporarily to send non spam and non advertisement based e-mail messages to inform the user of the file link they uploaded. We do not attempt to save or distribute e-mail or e-mail addresses submitted by a visitor.<br><br>
+	<div class="faq_title">Exceptional Disclosures</div>
+	<b>"up4vn"</b> holds the right to disclose personal information about a visitor when it is deemed necessary. Examples of such disclosure are as follows: If a user uploads copy written material or content, If a user is abusing our free service, If a user has caused damages to one or more other visitors or our free service, If the government or legal body legally dictates we must disclose personal information about a specific visitor, Or one of many other situations when service is abused or interrupted due to malicious or abusive activities.<br><br>
+	<div class="faq_title">Use of Cookies</div>
+	<b>"up4vn"</b> does not employ the use of any cookies in our service. No crumbs here.<br><br>
+	<div class="faq_title">File Transfer Security</div>
+	<b>"up4vn"</b> does not warrant this service will be 100% accurate, however we will try our best to make it as accurate as possible. We do not warrant that your files will be saved and uploaded accurately. We will do our best to create backups of files uploaded however, due to reasons out of our control we do not guarantee files will remain on our service. <b>"up4vn"</b> can not be held responsible for missing, broken, or stolen data. Use At Your Own Risk.<br><br>
+	<div class="faq_title">Third Party Advertising</div>
+	We use third-party software to manage and maintain our ad serving space on <b>"up4vn"</b>. These companys may track your personal information differently then we do. This information may include your phone number, e-mail address, home address, zip code, and location to name a few. If you are curious about the information these company's collect, please visit their privacy policy statement on their website.<br><br>
+	<div class="faq_title">Third Party Cookies</div>
+	Advertisers may use cookies to track your browsing history and information. Please be aware that <b>"up4vn"</b> is not responsible for these third party cookies or their use.<br><br>
+	<div class="faq_title">Webmaster SEO - Top high paying keywords?</div>
+	Includes: advertising, air travel, agencies, airplanes, advice, airline, airline tickets, appraisal, apple ipod, auctions, adult, automobile, aftermarket, anti virus, auction, alternative, australia, automatic, ad, ads, aol.com, bad credit, bankruptcy, billing, breast cancer, banking, budget, breast, bulk, credit card, car hire, credit report, credit, comfort, cheap airfare, car rental, computer monitor, cash, cheap, cruise, car, cars, computer software, contents, cheap flights, cancer, companies, cell phone, cheap holidays, computer, cheap flight, checking, claims, computer memory, cordless phone, computer hardware, cheap computer, casino, cheap airline, commercial, careers, contract, contacts, catalogs, cooking, cook, canada, chat, classic, collection, cam, cat, cats, credit union, domain, degree, dating, degrees, design software, discover, desktop computer, discounted, discount, downloads music, distributors, dvds, designer, database, dvd copy, downloadable, dog, dvd, deluxe, downloads, date, dns, deutschland, ebay, ebay.com, entertainment, gift, government, goggles, grants, get a, goods, gaming, go, gay, google, hire, internet, ipod mini, ipod, irs, international, lcd television, legal, lines, labs, lookup, lesbian, language, mastercard, match, microsoft office, motels, microsoft office 2003, motorola phone, money, marketing, medicare, music downloads, makers, magazines, motel, mardi gras, microsoft, meeting, microsoft word, mp3 players, marriott, mp3 audio, mp3, mp3 download, online, outlook express, ocean, pc computer, pda, purchase, pret, property, pay, parts, paid, planning, personal, premium, portable mp3 players, phone numbers, rentals, real estate, register, recruitment, ringtones, rx, receiver, radisson, ratings, rating, ringtone, reg, rca, reviews, russian, recipes, spam, ssl, stamps, sears, spain, standard, software, satellite, service, socks, solutions, spring break, stamp, spybot, sport outdoor, sale, search engine, sales, support, store, swingers, sets, search engines, swiss, secure, silver, spanien, surplus, sellers, santa, shop, smoke, scores, smoking, stuttgart, sapphire, slot, sport, sql server, sms, sheet music, songs, sp, travel insurance, trucks, travel, thomas cook, television, toshiba satellite, toys, toolbar, transfer, tool, toy, teens, tsunami, the best, trial, used cars, used, upgrade, us, usa, u2, university, voip, visa, vehicle, virus, vehicles, web hosting, work from home, whois, woodbridge, where to buy, website, westminster, wholesalers, women's, where can i buy, with, wives, white pages, woman, wallpaper, wife, Yoga, yamaha, description.<br><br>
+	<input type="hidden" name="IL_RELATED_TAGS" value="1">
+	</td></tr></tbody></table>
+	</div></div>
+
+	<br><script type="text/javascript">
+	ch_fluidH = 1;
+	ch_nump = "9";
+	ch_client = "dntranhung";
+	ch_width = 600;
+	ch_height = "auto";
+	ch_type = "mpu";
+	ch_sid = "Chitika Default";
+	ch_backfill = 1;
+	ch_color_site_link = "#0000CC";
+	ch_color_title = "#0000CC";
+	ch_color_border = "#FFFFFF";
+	ch_color_text = "#000000";
+	ch_color_bg = "#FFFFFF";
+	</script>
+	<script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript"></script>
+
+</center></div></center>
+<center><div style="padding: 4px 0 4px 0;"><!-- ca-pub-9786036601519125/up4vn_728x90 --><script type="text/javascript">GA_googleFillSlot("up4vn_728x90");</script></div>
+
+<table width="730" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
-	<td width="200" valign="top"><a href="http://up4vn.com/" title="Free File Sharing Over Internet" class="site">up4vn.com</a></td>
-	<td width="528" valign="top" align="right">
-	<form action="http://www.google.com/cse" id="cse-search-box">
-	<div>
-	<input type="hidden" name="cx" value="partner-pub-9786036601519125:tz64a5-wac5">
-	<input type="hidden" name="ie" value="UTF-8">
-	<input type="text" name="q" size="31">
-	<input type="submit" name="sa" value="Search" class="button">&nbsp;
-	</div></form>
-	<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-	
-	</td>
+	<td align="left" class="footer">
+	<script type="text/javascript">
+	<!--
+	google_ad_client = "pub-9786036601519125";
+	/* 468x15, created 5/23/09 */
+	google_ad_slot = "6597987198";
+	google_ad_width = 468;
+	google_ad_height = 15;
+	//-->
+	</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></td>
+	<td align="right" class="footer">© 2008 www.up4vn.com</td>
 </tr>
-</tbody></table></div>
-
-<div class="nav">
-<ul>
-	
-	
-	<li><a href="/">File Upload</a></li>
-	<li><a href="/?op=payments">Premium</a></li>
-	<li><a href="/?op=registration">SignUp</a></li>
-	<li><a href="/login.html">Login</a></li>
-	<li><a href="/latest-files.html">Catalogue</a></li>
-	<li><a href="#" onclick="initSlideLeftPanel();return false">Help</a></li>
-	
-	
-</ul>
-</div>
-
-</td></tr><tr><td height="98%" valign="TOP" style="padding:0px 10px 0px 10px;">
-<h2>Privacy Policy</h2><br>
-<div class="rrd-common" style="width:728px;padding-bottom:2px;"><b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b><div class="boxcontent">
-<table width="728" cellpadding="10" cellspacing="0" align="center">
-<tbody><tr><td align="left" class="row1" style="text-align:justify;">
-This <b>up4vn.com</b> Privacy Policy, in conjunction with the AUP, Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the <b>up4vn.com</b> website and are collectively referred to as the "Agreement".<br><br>
-<b>up4vn.com</b> may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement.<br><br>
-Any Content uploaded by you to <b>up4vn.com</b> becomes published Content and is not considered personally identifiable information subject to this Privacy Policy.<br><br>
-<b>up4vn.com</b> uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases.<br><br>
-A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided <b>up4vn.com</b>. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable <b>up4vn.com</b> to track and target your interests to enhance your experience on our website.<br><br>
-You may review, update, correct or delete personal information or your account on your My Account page.<br><br>
-The email address you provide for order processing will only be used to send you information and updates pertaining to your order.<br><br>
-We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of <b>up4vn.com</b>, or visitors of <b>up4vn.com</b>; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities.<br><br>
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, Authorize.net and PayPal, keep this information encrypted and secure on your behalf.<br><br>
-Third-party websites or services linked to <b>up4vn.com</b> are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. <b>up4vn.com</b> is not responsible for the privacy practices of the third-party websites and companies.<br><br>
-You are solely responsible for safeguarding the secrecy of your password.<br><br>
-<b>up4vn.com</b> is not responsible if you volunteer personal information online that is accessible to the public. You may receive unsolicited messages from other parties or it may be used in a manner that violates the law, your personal privacy or your safety. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.<br><br>
-If you are not a resident of the United States, you understand and agree that <b>up4vn.com</b> stores and processes your information on computers located in the United States, any by providing any data to <b>up4vn.com</b>, you consent to the transfer of such information to the United States.<br><br>
-In the event that <b>up4vn.com</b> is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, <b>up4vn.com</b> may not be able to control how your personal information is treated, transferred or used.<br><br>
-Although we strive to protect your personal information, <b>up4vn.com</b> cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.<br><br>
-
-<font color="blue"><b>● Process for Requesting a Refund or Replacement</b></font><br><br>
-(1) An email should be sent to billing@up4vn.com. This email should contain the following information:
-<ul>
-	<li>(a) The <b>up4vn.com</b> order number on which the product was sold.</li>
-	<li>(b) Information as to the reason why you are seeking a refund or replacement.</li>
-	<li>(c) Details of any technical correspondence you may have had with us.</li>
-</ul>
-(2) We will process the request and contact you within 5 working days.<br><br>
-(3) If it is the request for a refund is approved, then a credit will be made to your credit card for the purchase amount of the software within 5 working days.<br><br>
-(4) PLEASE NOTE: DO NOT SEND ANYTHING BACK TO US WITHOUT A RETURN AUTHORITY!
-</td></tr></tbody></table>
-</div><b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b></div>
-
-</td></tr><tr><td height="1%" valign="BOTTOM" align="CENTER" style="padding:5px 10px 10px 10px;">
-
-<!--<iframe src="http://www.filebucket.info" id="filebucket" name="filebucket" scrolling=no frameborder=0 style="width: 728x; height: 1;"></iframe>-->
-
-
-<div class="site_menu"><a href="/" class="top-menu">Home</a>&nbsp;&nbsp;|&nbsp;
-<a href="/?op=payments" class="top-menu">Premium</a>&nbsp;&nbsp;|&nbsp;
-<a href="/faq.html" class="top-menu">F.A.Q</a>&nbsp;&nbsp;|&nbsp;
-<a href="/privacy.html" class="top-menu">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;
-<a href="/tos.html" class="top-menu">Term Of Service</a>&nbsp;&nbsp;|&nbsp;
-<a href="/contact.html" class="top-menu">Contact Us</a>&nbsp;&nbsp;|&nbsp;
-<a href="/gotlinks.php" class="top-menu">Exchange Links</a>&nbsp;&nbsp;|&nbsp;
-<a href="#" onclick="initSlideLeftPanel();return false" class="top-menu">Help</a>&nbsp;&nbsp;|&nbsp;
-<a href="http://www.filebucket.info" class="top-menu">Our beta</a></div>
-
-<div class="footer" style="padding-top:4px;">© 2008 <u>www.up4vn.com</u> - Safe  ●  Secure  ●  Fast  ●  Easy  ●  Trusted  ●  Private - Web 2.0 Technology</div>
-
+</tbody></table></center>
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	var infolink_pid = 84072;
+	var infolink_wsid = 2;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6751449-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6751449-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<center><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="0" src="http://imgbucket.info/contact.php"></iframe></center>
+
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
@@ -170,90 +195,6 @@ qacct:"p-05SxyQHv6do6-"
 <img src="http://pixel.quantserve.com/pixel/p-05SxyQHv6do6-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag -->
-<!-- START ADONION CODE -->
-<script language="javascript" type="text/javascript" charset="utf-8">
-adonion_site_id = 7684;
-adonion_buynow = 0;
-adonion_sell_text ='';//endofaoselltext
-adonion_zone_id = 17896;
-adonion_user_id = 5168;
-adonion_type = "pop";
-</script>
-<script language="JavaScript" type="text/javascript" src="http://ads.adonion.com/serve.php">
-</script>
-<noscript><a href="http://www.adonion.com" target="_blank">ad exchange</a></noscript>
-<!-- END ADONION CODE -->
-<!--
-<script type="text/javascript">
-//interstitial ad
-clicksor_enable_inter = true; clicksor_maxad = -1;	 
-clicksor_hourcap = -1; clicksor_showcap = 2;
-//default banner house ad url 
-clicksor_default_url = '';
-clicksor_banner_border = '#99CC33'; clicksor_banner_ad_bg = '#FFFFFF';
-clicksor_banner_link_color = '#000000'; clicksor_banner_text_color = '#666666';
-clicksor_banner_image_banner = true; clicksor_banner_text_banner = true;
-clicksor_layer_border_color = '';
-clicksor_layer_ad_bg = ''; clicksor_layer_ad_link_color = '';
-clicksor_layer_ad_text_color = ''; clicksor_text_link_bg = '';
-clicksor_text_link_color = ''; clicksor_enable_text_link = false;
-clicksor_enable_VideoAd = true;
-</script>
-<script type="text/javascript" src="http://ads.clicksor.com/showAd.php?nid=1&amp;pid=100637&amp;adtype=4&amp;sid=149026&amp;float=1"></script>
-<noscript><a href="http://www.yesads.com">online marketing</a></noscript>
--->
-<!-- BEGIN STANDARD TAG - popup or popunder - up4vn.com: Run-of-site - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad.antventure.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=787108&amp;banned_pop_types=28&amp;pop_times=1&amp;pop_frequency=3600"></script>
-<!-- END TAG -->
-</td></tr></tbody></table>
-<!-- Code for the left panel -->
-<div id="dhtmlgoodies_leftPanel">
-	<a class="closeLink" href="#" onclick="initSlideLeftPanel();return false">Close</a>
-	<div id="leftPanelContent">
-	<!-- This is the content -->
-	<div>
-		<p><font color="yellow"><b>To upload a file:</b></font></p>
-		<ul>
-			<li>1. Click Browse...</li>
-			<li>2. Select file on your PC</li>
-			<li>3. Type file description.</li>
-			<li>4. Click "Upload File"</li>
-		</ul>
-		<br>
-		<p><font color="yellow"><b>To upload from web:</b></font></p>
-		<ul>
-			<li>1. Enter your direct link</li>
-			<li>2. With link from rapidshare, you must enter your rapidshare account in "My Account" tab.</li>
-			<li>3. Type new filename if you wish change it or leave blank for use orginal filename.</li>
-			<li>4. Click "Upload File"</li>
-		</ul>
-		<br>
-		<p><font color="yellow"><b>To download file:</b></font></p>
-		<ul>
-			<li>1. Choose a file hosting from our mirror list</li>
-			<li>2. Click "Download File"</li>
-		</ul>
-	</div>
-	<!-- End content -->
-	</div>
-</div>
-<!-- End code for the left panel -->
 
-<script type="text/javascript">
-//interstitial ad
-clicksor_enable_inter = true; clicksor_maxad = -1;	 
-clicksor_hourcap = -1; clicksor_showcap = 2;
-//default banner house ad url 
-clicksor_default_url = '';
-clicksor_banner_border = '#99CC33'; clicksor_banner_ad_bg = '#FFFFFF';
-clicksor_banner_link_color = '#000000'; clicksor_banner_text_color = '#666666';
-clicksor_banner_image_banner = true; clicksor_banner_text_banner = true;
-clicksor_layer_border_color = '';
-clicksor_layer_ad_bg = ''; clicksor_layer_ad_link_color = '';
-clicksor_layer_ad_text_color = ''; clicksor_text_link_bg = '';
-clicksor_text_link_color = ''; clicksor_enable_text_link = false;
-</script>
-<script type="text/javascript" src="http://ads.clicksor.com/showAd.php?nid=1&amp;pid=100637&amp;adtype=5&amp;sid=149026&amp;float=1"></script>
-<noscript><a href="http://www.yesads.com">online marketing</a></noscript>
 
-<table id="keyboardInputMaster" border="0" cellpadding="0" cellspacing="0" style="display: none;"><thead><tr><th><select><option value="Dutch">Dutch</option><option value="Dvorak">Dvorak</option><option value="French">French</option><option value="German">German</option><option value="Greek">Greek</option><option value="Lithuanian">Lithuanian</option><option value="Norwegian">Norwegian</option><option value="Numpad">Numpad</option><option value="Polish Prog">Polish Prog</option><option value="Russian">Russian</option><option value="Turkish-F">Turkish-F</option><option value="Turkish-Q">Turkish-Q</option><option value="UK">UK</option><option value="US">US</option><option value="US Int'l">US Int'l</option></select><label style="display: inline;"><input type="checkbox" title="Toggle dead key input"> Dead keys: Off</label></th><td><span id="keyboardInputClear" title="Clear this input">Clear</span><span id="keyboardInputClose" title="Close this window">X</span></td></tr></thead><tbody><tr><td colspan="2"><div id="keyboardInputLayout"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="">`</td><td class="">1</td><td class="">2</td><td class="">3</td><td class="">4</td><td class="">5</td><td class="">6</td><td class="">7</td><td class="">8</td><td class="">9</td><td class="">0</td><td class="">-</td><td class="">=</td><td class=" last">Bksp</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="">Tab</td><td class="">q</td><td class="">w</td><td class="">e</td><td class="">r</td><td class="">t</td><td class="">y</td><td class="">u</td><td class="">i</td><td class="">o</td><td class="">p</td><td class="">[</td><td class="">]</td><td class=" last">\</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="">Caps</td><td class="">a</td><td class="">s</td><td class="">d</td><td class="">f</td><td class="">g</td><td class="">h</td><td class="">j</td><td class="">k</td><td class="">l</td><td class="">;</td><td class="">'</td><td class=" last">Enter</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="">Shift</td><td class="">z</td><td class="">x</td><td class="">c</td><td class="">v</td><td class="">b</td><td class="">n</td><td class="">m</td><td class="">,</td><td class="">.</td><td class="">/</td><td class=" last">Shift</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" class="keyboardInputCenter"><tbody><tr><td class="" style="padding-right: 50px; padding-left: 50px;"> </td></tr></tbody></table></div><div><var>v2.0</var></div></td></tr></tbody></table></body></html>
+</body></html>
