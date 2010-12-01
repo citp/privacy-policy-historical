@@ -1,86 +1,116 @@
-> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620060543id_/http%3A//commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201010436id_/http%3A//membercentre.fairfax.com.au/digitalprivacypolicy.aspx) for the most accurate reproduction.*
 
-# Commercial Real Estate.com.au - Real Estate and Property Australia
+# Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
-  *   *   * CRE Internet Services - Privacy Policy
+In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate. 
 
+This policy sets out: 
 
-
-Thank you for taking the time to learn more about how CRE Internet Services (“CRE”) manages your personal information. 
-
-This Privacy Policy explains CRE’s privacy practices in relation to its Internet web site www.commercialrealestate.com.au (“Site”). In some cases this Site may link or refer you to other web sites or organisations, which have their own privacy policy and practices. 
-
-In this Privacy Policy, when we refer to ‘personal information’, we mean information that can identify you or from which your identity can be reasonably ascertained - for example, your name and contact details. By using this Site, you agree to the terms of this Privacy Policy. 
-
-We reserve the right, to modify or remove portions of this Privacy Policy at any time and this Privacy Policy should be read with the other terms and conditions applicable to the use of this Site (See the Site’s Terms of Use). 
-
-Personal Information 
-
-You can use this Site without telling us who you are. The only personal information we collect about you is that which you choose to tell us. For example, we may need to collect your personal information so that we can provide you with services or to answer or forward your requests or inquiries. It is our intention that this Privacy Policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws in Australia. 
-
-How Information is used
-
-Personal information that visitors submit to this Site is used only for the purpose for which it is submitted unless we tell you otherwise in this Privacy Policy or at the time of collection. Certain information you submit to this Site (for example, through the “List Your Requirement” and/or “List Your Real Estate” features), will be forwarded to the real estate agents in the State/s you nominate and may be stored in archives for approximately 4 months from the date of receipt. You should be aware that providing information to a real estate agent through our site including through the “List Your Requirement” and “List Your Real Estate” features will result in the information being passed to the real estate agent/s and your information may then be held in any way that does not conform with this Privacy Policy.
-
-If CRE receives a request not to send commercial electronic messages to certain email addresses, CRE may indefinitely retain details of those addresses and the request so that it can comply with the request.
-
-Other organisations that you come into contact with through this service 
-
-Whilst we may through this Site direct you or your queries to other organisations (for example to real estate agents), we do this for your convenience only. CRE is not responsible for the privacy practices of those other organisations unless we tell you otherwise. Before disclosing your personal information to those sites or organisations, you should examine their privacy policies. 
-
-Disclosure 
-
-Apart from where you have consented or disclosure is necessary to achieve the purpose for which it was submitted, personal information may be disclosed in special situations where we have reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with CRE’s rights or property, users of this Site, or anyone else who could be harmed by such activities. Also, we may disclose personal information when we believe in good faith that the law requires disclosure.
-
-Security
-
-We strive to ensure the security, integrity and privacy of personal information submitted to our Site, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. We will nonetheless endeavour to take all reasonable steps to protect the personal information you may transmit to us. 
-
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we will not be held responsible for events arising from unauthorised access to your personal information.
-
-Use of Cookies
-
-“Cookies” are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are industry standard and are used by many web sites, including ours, can facilitate a user's ongoing access to and use of a site. They may allow us to customise the Site to your needs. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. But you should note that cookies may be necessary to provide you with some features of our on-line services.
-
-Like many web site operators, we also use software to analyse and record visitor numbers and other details such as: 
-
-  * the number of page views (or page impressions) that occur on Site; 
-  * the number of visitors to our Site;
-  * how long those visitors (on average) spend on our Site when they do visit; and
-  * common entry and exit points into our Site. 
+  * what kind of information we collect;
+  * how we collect it;
+  * why we collect it;
+  * how we use it;
+  * how we disclose it;
+  * opting in and out;
+  * management and security;
+  * how to seek access to and update your personal information; and
+  * how to contact us.
 
 
 
-This aggregate, non-personal information is used by us to assist in analysing the usage of our web site. 
+We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act). 
 
-Access to your personal information
+We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. 
 
-We will endeavour to take all reasonable steps to keep any information that we hold about you accurate and up to date. If, at any time, you discover that information held about you is incorrect or if you otherwise wish to review or correct that information, please contact us.
+This policy was last updated on 31 March 2009. 
 
-Links To other Web Sites
+## What information we collect
 
-We may provide links from this Site to other web sites (“linked sites”). Unless we tell you otherwise, these linked sites are not under our control, and we do not accept responsibility for the privacy practices of those sites or their operators. Before disclosing your personal information to any other web site, you should examine the terms and conditions of those sites and their privacy practices.
+In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses) and possibly financial information, including your credit card information. 
 
-Changes to this Privacy Statement
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
 
-CRE’s services are constantly evolving. This may affect the types of information we collect and how we use it. If this occurs, we will update our Privacy Policy. We therefore encourage you to periodically review this Privacy Policy so that you remain informed of any changes to it.
+We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs ( **Non-Confidential Information** ). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever. 
 
-Further Information
+## How we collect it
 
-For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's website at www.privacy.gov.au.
+We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners. 
 
-Please tell us what you think
+We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our radio programs, blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback). 
 
-CRE welcomes your questions and comments regarding this Privacy Policy. If you have any suggestions as to how we may improve our privacy practices or if you have reason to believe that this Policy has not been complied with, we urge you to let us know. Our contact details are as follows: 
+If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified. 
 
-Attention:   
-CRE Privacy Officer   
-CRE Internet Services   
-Level 3, Wharf 7 Pirrama Rd   
-Pyrmont  
-NSW 2009
+## Why we collect it
 
-**National FreeCall - 1800 999 982**   
-Fax: 02 8596 4638
+The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below. 
 
-Email: [info@commercialrealestate.com.au](mailto:info@commercialrealestate.com.au)
+We may state a more specific purpose at the point we collect your information. 
+
+If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only. 
+
+## How we use it
+
+In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:   
+
+
+  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in;
+  * for purposes necessary or incidental to the provision of goods and services to you;
+  * to personalise and customise your experiences;
+  * to manage and enhance our products and services;
+  * to communicate with you, including by email, mail or telephone;
+  * to conduct competitions or promotions;
+  * to verify your identity;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  * as required or permitted by any law (including the Privacy Act).
+
+
+
+## How we disclose it
+
+We may disclose personal information, and you consent to us disclosing your personal information, to other members of the Fairfax Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy). 
+
+We may also disclose personal information, and you consent to us disclosing your personal information, to third parties: 
+
+  * engaged by us to perform functions or provide products and services on our behalf, such as newsagents, processing credit card information, mailouts, debt collection, marketing, research and advertising; 
+  * that are our agents, business partners or joint venture entities or partners; 
+  * that sponsor or promote any competition that we conduct or promote via our services; 
+  * authorised by you to receive information held by us; 
+  * as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator; 
+  * as part of a sale (or proposed sale) of all or part of our business; and/or 
+  * as required or permitted by any law (including the Privacy Act). 
+
+
+
+## Opting in or out
+
+At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters. 
+
+You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe to e-newsletters sent by us. 
+
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at the address set out below. 
+
+## Management and security
+
+We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act. 
+
+Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions. 
+
+However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control. 
+
+You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies. 
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
+
+## Accessing and updating your information and how to contact us
+
+Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request. 
+
+Members of our websites will generally be able to access and update their membership details online. 
+
+We request that you keep your information as current as possible so that we may continue to improve our service to you. 
+
+If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: 
+
+Privacy Officer   
+GPO Box 506   
+Sydney NSW 2001 
