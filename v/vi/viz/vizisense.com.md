@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vizisense.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328051522id_/http%3A//www.vizisense.com/basic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizisense.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201225921id_/http%3A//vizisense.com/basic/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# ViziSense :: Privacy Policy
 
 Please read this policy to understand what information vizisense.com (hereafter referred to as "ViziSense") collects, how the information is used, and what choices you have regarding collection and use of your information when using ViziSense. 
 
