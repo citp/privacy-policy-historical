@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubykotex.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213750id_/http%3A//www.ubykotex.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubykotex.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201102415id_/http%3A//www.ubykotex.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # U by Kotex* – All the necessary legal details are found here.
 
