@@ -1,46 +1,132 @@
-> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163746id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201010539id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy - Acxiom Digital
+# Privacy policy - Acxiom
 
-  
+## Privacy Policy For This Site
 
+### 
+
+Highlights and full privacy policy
+
+##### Highlights
 
 **Scope:**
 
-  * This policy applies to information collected on www.acxiomdigital.com. Acxiom Digital is a wholly owned subsidiary of Acxiom Corporation. 
-  * To view our full privacy policy, please click [here](https://web.archive.org/web/20080609163746id_/http%3A//www.acxiomdigital.com/privacy_long.asp).
+This policy applies to information collected on www.acxiomdigital.com. Acxiom Digital is a wholly owned subsidiary of Acxiom Corporation.
 
 | **[](http://www.truste.org/ivalidate.php?url=www.acxiomdigital.com&sealid=101)**  
 ---|---  
 **Information Collection and Use:**  
   
-  * This website allows you to request information from Acxiom Digital, register for special offers, seminars or demonstrations, participate in surveys and contests, download thought leadership papers, and subscribe to some of Acxiom Digital’s products and services. The information you provide about you and your company will be used to support your relationship with Acxiom Digital. 
-
+  * This website allows you to request information from Acxiom, register for special offers, seminars or demonstrations, participate in surveys and contests, download thought leadership papers, and subscribe to some of Acxiom’s products and services. The information you provide about you and your company will be used to support your relationship with Acxiom. 
   * Information collected on this site may be shared within the Acxiom Corporation family of businesses, and with contractors and service providers, in order to complete your request. 
-
-  * Acxiom Digital reserves the right to disclose your personally identifiable information as required by law.
-
+  * We employ clear Gifs (Web Beacons/Web Bugs) to help us better manage content on our site by informing us what content is effective. 
+  * Acxiom reserves the right to disclose your personally identifiable information as required by law.
 
 
 
 **Your Choices and How to Contact Us:**
 
   * You may unsubscribe from our newsletters and email alerts by using the unsubscribe mechanism included in the email.
-
-  * You may access and correct the information provided to Acxiom Digital on this website by returning to the registration site or contacting us at _[privacy@acxiomdigital.com](mailto:privacy@acxiomdigital.com)_.
-
+  * You may access and correct the information provided to Acxiom on this website by returning to the registration site or contacting us at _[privacy@acxiom.com](mailto:privacy@acxiom.com)_.
   * Other choices you have about how information you have provided will be used will be outlined at the point at which the information is collected.
-
 
 
 
 **Other Important Information:**
 
-  * More information about Acxiom’s certification under the European Union Safe Harbor can be found [here](http://www.acxiom.com/default.aspx?ID=1687&Country_Code=USA). ****
-
-  * All of Acxiom Corporation’s Privacy Policies can be found [here](http://acxiom.com/default.aspx?ID=1671&DisplayID=18).
-
+  * More information about Acxiom’s certification under the European Union Safe Harbor can be found [here](http://www.acxiom.com/EU_Safe_Harbor). ****
+  * All of Acxiom Corporation’s Privacy Policies can be found [here](http://www.acxiom.com/privacy).  
 
 
 
-To view our full privacy policy, please click [here](https://web.archive.org/web/20080609163746id_/http%3A//www.acxiomdigital.com/privacy_long.asp).
+
+##### Full Privacy Policy
+
+**Scope**
+
+This privacy statement applies solely to information collected by Acxiom on www.acxiomdigital.com and is designed to ensure that visitors to this website understand how and why Acxiom collects and uses information provided by users of the site.
+
+**Compliance**
+
+Acxiom is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.acxiomdigital.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact Acxiom at [privacy@acxiom.com](mailto:privacy@acxiom.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+**INFORMATION COLLECTION AND USE**
+
+This website allows you to request information from Acxiom, register for special offers, seminars or demonstrations, participate in surveys and contests, download thought leadership papers, and subscribe to some of Acxiom’s products and services. In order to support these activities, Acxiom will ask for information about you (such as your name, email address and other demographic information) and the company for whom you work. Acxiom may also ask you for your contact information in order to complete a service or request. The information you provide will be used to support your relationship with Acxiom. 
+
+To fulfill a particular request, the information you provide may be shared within the Acxiom Corporation family of businesses. It may also be used by us to make this site easier for you to use and to inform you of services and product updates, new products and other related information from Acxiom. 
+
+This web site also contains links to other sites. Please be aware that Acxiom is not responsible for the privacy practices of these other sites. We encourage you when you leave this site to read the privacy statements of these other sites. 
+
+**Use by Third Parties**
+
+Acxiom may provide aggregated information, such as the number of visitors to the site or the results of a survey, with our partners and third parties to develop suggestions to improve our website accessibility and the services provided on the site. Aggregated data is not linked to any personally identifiable information. 
+
+Acxiom may use contractors and other service providers to help us deliver content and fulfill requests made at this site. However, in these instances, the information you have provided remains the property of Acxiom Corporation. 
+
+In addition, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
+
+**Technologies**
+
+Acxiom uses technologies to help us understand which parts of our websites are most visited and understand traffic patterns between pages on www.acxiomdigital.com.
+
+_Clear Gifs (Web Beacons/Web Bugs)_ : We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+
+_Cookies_ : This site uses cookies for the sole purpose of tailoring web content to match your browser capability. These cookies do not store or are linked to any personally identifiable information. Acxiom uses third party cookies to count the amount of visitors to particular pages as well as navigation between web pages on www.acxiomdigital.com. You can set your Internet browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. If you reject the cookie, you may still use this site. The only drawback is that you may be limited in the functionality of some areas. For more information about cookies, visit [How Cookies Work](http://www.acxiom.com/140640/How_Cookies_Work).
+
+_Sensors_ : In order to determine your ability to receive HTML-based email messages, Acxiom may include a coded sensor in its HTML-based email messages. The sensor activates when the email message is opened and flags the email address of the recipient as one that is capable of receiving HTML-based email messages. This capability helps us to send the email in a format you can read, to allow us to track the aggregate number of emails read and to measure in aggregate if any of the links in the email were accessed. No other information is collected or used by the sensor. If the recipient cannot receive HTML, the recipient will not receive a functioning sensor.
+
+_Log Files_ : We use IP addresses to analyze trends, administer the site, track users’ movement, and gather broad demographic information for aggregate use in improving the site. IP addresses are not linked to personally identifiable information.  
+
+
+**YOUR CHOICES AND HOW TO CONTACT US**
+
+**Unsubscribe or Opt-out**
+
+Acxiom offers you the opportunity to opt-out from receiving promotional email, calls or mail from Acxiom about our products and services. 
+
+  * For email, users may opt-out at any time by using the unsubscribe mechanism within the email. The unsubscribe mechanism allows a user to manage their subscription preferences to Acxiom’s newsletters, email alerts and special offers. This mechanism does not allow a user to opt-out of receiving transactional email, such as registration confirmation, product updates, and responses to direct requests.
+  * For calls or direct mail, users may opt-out at the registration site or contacting us at privacy@acxiom.com.
+
+
+
+At the time information is collected from you, other choices you have about how the information may be used will be explained.
+
+**Access and Correction**
+
+You may access and correct the information you have provided to us on this website. To obtain a copy of or to correct this information, go to the registration page and follow the instructions provided there or email us at privacy@acxiom.com. You may also send a request written to Privacy Manager, Acxiom, 1051 East Hillsdale Blvd, Suite 400, Foster City, CA 94404. We will respond to requests within thirty days.
+
+**Questions**
+
+If you have any questions about Acxiom’s privacy policy, please contact [**privacy@acxiom.com**](mailto:privacy@acxiom.com). 
+
+For more information about Acxiom Corporation and its privacy or security practices, please click [here](http://www.acxiom.com/privacy).
+
+**OTHER IMPORTANT INFORMATION**
+
+Acxiom does not provide any products or services to children, and all individuals who register online for products or services with Acxiom and provide individual information should be 18 years of age or older.
+
+**Security**
+
+Acxiom takes security seriously. We take reasonable precautions to keep our sites and systems secure and to prevent personal data from being made available to any unauthorized person or business.
+
+**Safe Harbor**
+
+Acxiom is an Acxiom Corporation company. Acxiom Corporation and all the family of companies abide by the principles of the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. The Direct Marketing Association serves as Acxiom Corporation’s third-party dispute resolution provider. You can reach the DMA Safe Harbor Program at [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org) or at Safe Harbor Line, 1111 19th Street, NW – Suite 1100, Washington, DC 20036. For more information about Acxiom Corporation’s Safe Harbor Certification, click [here](http://www.acxiom.com/EU_Safe_Harbor).
+
+**Notification of Changes**
+
+This policy was last revised in October 2009. Our methods of information collection and uses of the information are unchanged.
+
+If we decide to change our privacy policy in a material way, we will post a notification highlighting those changes on our Homepage so our users can become aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If at any point we decide to use personally identifiable information in a manner different from the policy stated at the time it was collected, we will notify users by way of email. Users will have a choice as to whether or not to allow us to we use their information in this new manner. If we do not receive your permission, we will use the information you have provided in accordance with the privacy policy under which the information was collected.
+
+In the event Acxiom is purchased, data collected on this site will be one of the transferred assets.
+
+[**Acxiom's P3P Privacy Summary**](https://web.archive.org/web/20101201010539id_/http%3A//www.acxiomdigital.com/p3p_privacy.asp) provides descriptions of information collection activities performed by Acxiom on behalf of our clients using our email marketing ASP products. The summary also addresses information collected on client websites by Acxiom on behalf of clients using Acxiom's web page-hosting services and/or website tracking and analysis service.
+
+Effective Date: October 7, 2009
