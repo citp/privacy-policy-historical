@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114043042id_/http%3A//cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201084047id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Customer Service Center- Cellularfactory.com
 
 ## CELLULARFACTORY PRIVACY POLICY
 
 We DO NOT Share Personal Information with Third Parties.   
-**Last Updated on 11/23/2008**
+**Last Updated on 02/01/2010**
 
 This privacy statement covers the site www.cellularfactory.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.   
 1\. What personally identifiable information CellularFactory collects.   
@@ -17,7 +17,7 @@ This privacy statement covers the site www.cellularfactory.com. Because this Web
 7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under CellularFactory control.   
 8\. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by cellularfactory1@gmail.com, 1750 Old Canyon Drive, Hacienda Heights, CA 91745. 
+If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by cellularfactory1@gmail.com, 1230 Santa Anita Avenue, Unit B, S. El Monte, CA 91733. 
 
 **Information Collection and Use**
 
@@ -105,5 +105,5 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 Email : cellularfactory1@gmail.com   
 Postal Address   
-1750 Old Canyon Dr. Hacienda Heights, CA 91745   
+1230 Santa Anita Avenue, Unit B, S. El Monte, CA 91733  
 Web site URL https://www.cellularfactory.com 
