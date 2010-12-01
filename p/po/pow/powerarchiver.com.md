@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530101711id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201040514id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
 
-# PowerArchiver 2010 - Privacy Policy
+# PowerArchiver - Privacy Policy
 
 We at ConeXware, Inc. are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
@@ -49,3 +49,5 @@ If you wish to request access to, or review your Personal Information please [co
 ConeXware's Web sites and products are not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
 
 Protecting your privacy online is an evolving area, and ConeXware is committed to meeting these demands. For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, please [contact us](https://web.archive.org/contact/).
+
+ConeXware complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor)
