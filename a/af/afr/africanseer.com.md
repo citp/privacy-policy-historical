@@ -1,41 +1,39 @@
-> *The following text is extracted and transformed from the africanseer.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512154458id_/http%3A//www.africanseer.com/privacy/17622-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanseer.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201062223id_/http%3A//www.africanseer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - AfricanSeer.com
 
-Safeguarding your privacy is serious business. Africanseer.com's policy is simple: Except as provided in this statement, Africanseer.com will not disclose, sell or rent any personally identifiable information without proper consent. You, the Africanseer.com user, always have the final word on whether Africanseer.com knows who you are. It is your choice whether you wish to share personally identifiable information with Africanseer.com. We encourage you to consider sharing information with Africanseer.com only if you receive true value in exchange for that information.
+### Privacy Policy - AfricanSeer.com
 
-Please use discretion when revealing personally identifiable information while using Africanseer.com tools, as it may be collected and used by unauthorized third parties. Such activities are beyond the control of Africanseer.com. In other words, if for some reason you post your home phone number in the Africanseer.com Communities (which, by the way, you should NOT do), you're on your own.
+**Privacy Statement for AfricanSeer**  
+AfricanSeer has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: AfricanSeer
 
-Please take a minute to read our policy so that you understand your options, and how Africanseer.com collects, processes and shares information. If you have any questions about Africanseer.com's information practices, send an email to Africanseer.com's Community Manager.
+**Information Automatically Logged**  
+We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes.
 
-## What information does Africanseer.com collect?
+Our Site uses cookies to save your password so you don't have to re-enter it each time you visit our site. We also use cookies for other purposes.
 
-If you decide to join Africanseer.com's Community, registration is the only place where you are required to submit information about yourself. To become a member of Africanseer.com you need to submit your email address, and name only.
+**Advertisers**  
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-If you decide to sign up for Africanseer's newsletter, you will need to submit your email address. This additional information is only used by Africanseer.com.
+**Personal Information**  
+This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted.
 
-## What are cookies and how does Africanseer.com use them?
+Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
-The main function of cookies is to connect members with their stored account information so that Africanseer.com can deliver better and more personalized service. Cookies do not enable the Africanseer.com staff to access personally identifiable information that you haven't already provided.
+**External Links**  
+This site contains links to other sites. AfricanSeer is not responsible for the privacy practices or the content of such Web sites.
 
-## What information does Africanseer.com log?
+**Public Forums**  
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Africanseer.com logs information automatically transmitted from your browser (URL of the Web page you were on before coming to Africanseer.com, IP address and browser version); information you submit through registration, forms for optional programs, surveys and other entries; and communications transmitted through Africanseer.com tools.
+**Children's Guidelines**  
+AfricanSeer is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important. For those AfricanSeer sites specifically directed at children, and where users have indicated they are younger than 18, AfricanSeer sites will collect the minimum amount of Personal Information necessary to the operation of the service. These AfricanSeer sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission.
 
-## How does Africanseer.com secure collected information?
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
 
-Africanseer.com makes every effort to ensure your information is secure. Extremely sensitive information, like credit card numbers are NOT requested on this site. Your Africanseer.com account is password-protected so that only you and authorized Africanseer.com employees can access your information.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
 
-If you lost your password to the Africanseer.com Community, you can retrieve it here. You will need to have access to the e-mail account that you registered with.
+AfricanSeer.com works with third parties that serves ads to this site.
 
-## With whom does Africanseer.com share information?
-
-When you submit information to Africanseer.com, it isn't shared with anyone unless you opt-in for it. **We** allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org ](http://www.networkadvertising.org/)
-
-## What is Africanseer.com's opt-in/out policy?
-
-During registration you choose whether to receive correspondence from Africanseer.com. This information lives on your profile where you can, at any point, easily edit it to indicate that you have changed your mind. As for promotions, contests, submission opportunities and programs, you will not be included unless you opt-in.
-
-## How can Africanseer.com members edit their personal information?
-
-Africanseer.com believes strongly in giving you the ability to access and edit your personal information. To update your personal info, [click here.](http://www.africanseer.com/members/)
+Send mail to info at AfricanSeer.com with questions or comments about this web site. 
