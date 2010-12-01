@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1by-day.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214164705id_/http%3A//www.1by-day.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1by-day.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201164503id_/http%3A//www.1by-day.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 1By Day & 1By Night - Privacy Policy
 
@@ -62,7 +62,7 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 **_How to Contact 1By-Day & 1By-Night_**
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://1by-day.com/index.php?page=help) or via email at support@1by-day.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://1by-day.com/support.html) or via email at support@1by-day.com.
 
   
 
