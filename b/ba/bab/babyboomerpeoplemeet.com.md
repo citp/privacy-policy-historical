@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyboomerpeoplemeet.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530105206id_/http%3A//www.babyboomerpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyboomerpeoplemeet.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201155539id_/http%3A//www.babyboomerpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # BabyBoomerPeopleMeet.com - Privacy Policy
 
