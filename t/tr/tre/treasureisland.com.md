@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326034722id_/http%3A//www.treasureisland.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201223407id_/http%3A//www.treasureisland.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Treasure Island Hotel and Casino, Las Vegas
 
@@ -8,7 +8,7 @@ Treasure Island, LLC (TI) is the owner and operator of the Treasure Island Hotel
 
 We hope that you enjoy our luxurious facilities, our exciting entertainment, and our quality customer service. Because we value your patronage and respect your privacy, we are providing you with this TI Privacy Policy ("Privacy Policy").  This Privacy Policy pertains to the TI Web Sites and the TI Hotel and Casino defined below (collectively, "us" or "we").  This Privacy Policy describes how Personal Information (defined below) about you may be used and disclosed by TI in the course of business.  It also describes how you can opt-out of some uses of Personal Information.
 
-Please review this Privacy Policy carefully. [Click here](https://web.archive.org/privacy_policy_faq.aspx) to view Frequently Asked Questions or you may contact us at [TI-General@treasureisland.com](mailto:TI-General@treasureisland.com), call (702) 894-7111, or write to Treasure Island Hotel & Casino, Attn: Privacy Policy, 3300 Las Vegas Blvd South, Las Vegas, NV 89109. Users of TI Web Sites should also click here to review the [Terms of Use](https://web.archive.org/web/20100326034722id_/http%3A//www.treasureisland.com/terms_of_use.aspx) for TI Web Sites. 
+Please review this Privacy Policy carefully. [Click here](https://web.archive.org/privacy_policy_faq.aspx) to view Frequently Asked Questions or you may contact us at [TI-General@treasureisland.com](mailto:TI-General@treasureisland.com), call (702) 894-7111, or write to Treasure Island Hotel & Casino, Attn: Privacy Policy, 3300 Las Vegas Blvd South, Las Vegas, NV 89109. Users of TI Web Sites should also click here to review the [Terms of Use](https://web.archive.org/web/20101201223407id_/http%3A//www.treasureisland.com/terms_of_use.aspx) for TI Web Sites. 
 
 ### **I. SCOPE OF PRIVACY POLICY**
 
