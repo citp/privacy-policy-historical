@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microhost.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427220234id_/http%3A//www.microhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microhost.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201031338id_/http%3A//microhost.com/privacy.html) for the most accurate reproduction.*
 
 # Terms of Service - MicroHost.com Cheap Web Site Hosting
 
