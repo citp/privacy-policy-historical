@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the toseeka.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105045619id_/http%3A//www.toseeka.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toseeka.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201175924id_/http%3A//www.toseeka.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ToseekA.com - Privacy Policy
 
-## Last Updated: November 16, 2009
+## Last Updated: March 7, 2010
 
 Generally ToseekA.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII"). 
 
-ToseekA.com is owned by MeziMedia, Inc. ("MeziMedia"). For ToseekA.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us. 
+ToseekA.com is owned by ValueClick Brands, Inc. ("ValueClick Brands"). For ToseekA.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us. 
 
 What does this Privacy Policy cover?
 
@@ -16,9 +16,9 @@ Please be aware that, as part of the service provided by this Site, we may provi
 
 What information does ToseekA.com collect and how is it used? Does ToseekA.com disclose information to third parties? 
 
-We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of MeziMedia ("MeziMedia Entities").
+We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of ValueClick Brands ("ValueClick Brands Entities").
 
-(a) Traffic or Clickstream Data ("Clickstream Data"). Clickstream Data consists of traffic and usage data that is not personally identifiable.  We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and MeziMedia Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and MeziMedia Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or MeziMedia Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
+(a) Traffic or Clickstream Data ("Clickstream Data"). Clickstream Data consists of traffic and usage data that is not personally identifiable.  We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and ValueClick Brands Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and ValueClick Brands Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or ValueClick Brands Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
 
 (b) Non-Personally Identifiable Information.  As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites.  "Log files" track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed.  "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior.  "Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services.  All information collected by Cookies, Web beacons and Log files are Non-PII.
 
@@ -32,9 +32,9 @@ A useful resource on understanding Cookies may be found at [http://www.allaboutc
 
 Do I have choices?
 
-We also offer "opt-out Cookies" to block the placement of future MeziMedia Persistent Cookies on your system for one thousand (1,000) days from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
+We also offer "opt-out Cookies" to block the placement of future ValueClick Brands Persistent Cookies on your system for one thousand (1,000) days from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
 
-Please note that the above link for opt-out Cookies is only applicable to MeziMedia owned websites using Persistent Cookies and not any other company website.  Also, please note that use of the opt-out Cookies or implementation of browser settings and add-ons that refuse all cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement.  "Session Cookies" are used only during your visit to the Site and are erased once you close your browser.
+Please note that the above link for opt-out Cookies is only applicable to ValueClick Brands owned websites using Persistent Cookies and not any other company website.  Also, please note that use of the opt-out Cookies or implementation of browser settings and add-ons that refuse all cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement.  "Session Cookies" are used only during your visit to the Site and are erased once you close your browser.
 
 Is data stored by ToseekA.com secure?
 
@@ -49,8 +49,8 @@ How do I find out more about ToseekA.com information practices?
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows:
 
 Business and Legal Affairs   
-ToseekA.com/MeziMedia   
+ToseekA.com/ValueClick Brands   
 222 E. Huntington Drive., Suite 105,   
 Monrovia, CA 91016
 
-E-Mail: [privacy@MeziMedia.com](mailto:privacy@mezimedia.com)
+E-Mail: [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com)
