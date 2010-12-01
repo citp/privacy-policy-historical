@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tresemme.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330025337id_/http%3A//www.alberto.com/privacy-US-tresemme.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresemme.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201213848id_/http%3A//www.alberto.com/privacy-US-tresemme.htm) for the most accurate reproduction.*
 
 # Alberto-Culver Privacy Policy
 
