@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voyeur-russian.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626123807id_/http%3A//www.voyeur-russian.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voyeur-russian.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201015546id_/http%3A//voyeur-russian.com/privacy.html) for the most accurate reproduction.*
 
 # Our Commitment To Privacy Your privacy is important to us. VOYEUR-RUSSIAN
 
