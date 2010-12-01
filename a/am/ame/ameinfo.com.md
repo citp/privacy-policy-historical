@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619081013id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201234944id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AMEinfo.com
 
-[ ](http://www.truste.org/ivalidate.php?url=www.ameinfo.com;sealid=101)
+[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.ameinfo.com/refresh/seal_m)
 
-**Last Updated on Thursday, August 20th - 2009**
+**Last Updated on Tuesday, October 12th - 2010**
 
 This Privacy Policy sets out the policy of AME Info FZ LLC of PO Box 502100, Al Thuraya Tower 1, 20th Floor, Dubai Media City, United Arab Emirates ("AMEinfo.com"), who controls this website (www.ameinfo.com) ("the Website"). The terms of this Privacy Policy apply in addition to the **_Terms of Use_** for the Website and any other additional terms that may be provided in connection with any particular service offered on the Website. 
+
+AME Info FZ LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact using the site feedback form or at AMEinfo.com PO BOX 502100, Al Thuraya Tower 1, Dubai Media City or call +971 4 390 2700 
+
+If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
 AMEinfo.com keeps log files that include your IP address for statistic and logging of abuse purpose only. Log files are under no circumstances shared with any third party except if required by law or court order by a competent court. 
 
@@ -30,6 +34,17 @@ To enhance your experience with AMEinfo.com, many of the AMEinfo.com web pages u
 AMEinfo.com uses cookies to understand Website usage and to improve the content and offerings on the Website. For example, AMEinfo.com uses cookies to personalize your experience (e.g., to recognize you by name when you return to the Website), save your password in password-protected areas, and enable you to save articles and to build customized news feeds. 
 
 You are not obliged to accept cookies and you may amend your browser's settings to prevent it from accepting cookies. Please be aware though that if you disable cookies, certain services on this Website may not be available to you. 
+
+### Clear Gifs (Web Beacons/Web Bugs)
+
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+
+### Flash LSOs
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:  
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118 
 
 ### Email and Communication Services - Member account, password and security
 
