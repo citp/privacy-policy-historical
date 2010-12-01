@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516145018id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201161314id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
 
 # RinkWorks: Privacy Policy
 
-[](http://www.rinkworks.com/stupid/)
+[](http://www.rinkworks.com/forest/)
 
 _RinkWorks_ respects the privacy and confidentially of its associates and readers. Below is our policy regarding the privacy of Internet users. 
 
