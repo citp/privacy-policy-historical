@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413142815id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201235929id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Cprogramming.com: Privacy Policy
 
@@ -20,9 +20,13 @@ You are asked but not required to register when you use the message board. You a
 
 You are asked, but not required, to fill out a survey by BURST!Media. The information you give will help us choose more appropriate advertisements for the site, which will benefit visitors in the long run. 
 
+##### Mailing list
+
+You may choose to sign up for the Cprogramming.com mailing list. If you do so, Cprogramming.com will send you periodic email related to learning about C and C++ programming. Your email address is provided only to us and to the service that runs the mailing list software. We will not sell your email address or share it with anyone else. Each mailing list email contains information on how to unsubscribe. You may unsubscribe from the mailing list at any time. 
+
 ##### Revenue Science
 
-Revenue Science collections information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp 
+Revenue Science collections information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [the Network Advertising Initiative Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ##### Other services
 
