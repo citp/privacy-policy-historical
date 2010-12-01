@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the w3links.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611215229id_/http%3A//w3links.net/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3links.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201022445id_/http%3A//w3links.net/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free For All Links - Free submission - Link Directory
 
+  
 |  | 
 
 The visitors (the "User") of the **W3links.net** websites are in control of the use of information they provide to **W3links.net,** or one of its current or future affiliate members ("Affiliate Members"). **W3links.net** is committed to respecting the privacy rights of Users to the **W3links.net** website (the "Site"). While visiting the Site, we may ask Users to provide personal information ("Personal Information") for purposes of interacting with the Site. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
