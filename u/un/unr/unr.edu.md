@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527091646id_/http%3A//unr.edu/general-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201101636id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | University of Nevada, Reno
 
@@ -54,6 +54,6 @@ University of Nevada, Reno Web site gateway contains links to sites outside the 
 
 ###  Student Privacy Policy
 
-[Directory Information and the Family Educational Rights and Privacy Act](https://web.archive.org/web/20100527091646id_/http%3A//unr.edu/general-information/privacy/students/)
+[Directory Information and the Family Educational Rights and Privacy Act](https://web.archive.org/web/20101201101636id_/http%3A//www.unr.edu/general-information/privacy/students/)
 
-[Protecting Your Data](https://web.archive.org/web/20100527091646id_/http%3A//unr.edu/general-information/privacy/protecting-data/)
+[Protecting Your Data](https://web.archive.org/web/20101201101636id_/http%3A//www.unr.edu/general-information/privacy/protecting-data/)
