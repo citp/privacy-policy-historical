@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611143237id_/http%3A//zamzar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201232811id_/http%3A//zamzar.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzar - Free online file conversion
 
