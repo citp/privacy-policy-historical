@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112211642id_/http%3A//www.kennedyspacecenter.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201200625id_/http%3A//www.kennedyspacecenter.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Kennedy Space Center
 
@@ -52,7 +52,7 @@ We may disclose personal information:
 
 ### Choice
 
-DNC P&R will not use or share your personal information in ways unrelated to the uses described above without first notifying you and offering a choice.  We will also provide you the opportunity to opt-out at any time of certain or all contact from DNC P&R.  If you have any difficulty exercising your choices, please send your request to [kscinfo@dncinc.com](mailto:kscinfo@dncinc.com).
+DNC P&R will not use or share your personal information in ways unrelated to the uses described above without first notifying you and offering a choice.  We will also provide you the opportunity to opt-out at any time of certain or all contact from DNC P&R.  If you have any difficulty exercising your choices, please [click here](https://web.archive.org/contact-us.aspx) to send your request.
 
 ### Company Sale
 
@@ -84,12 +84,12 @@ As noted above, we may use your e-mail address and other contact information pro
 
 ### Access and Accuracy
 
-DNC P&R strives to keep your personal information accurate.  We will provide you with access to your personal information, including making reasonable efforts to provide you with online access to your email community subscription or press room registration data so that you may review, update or correct your information at the Site.  To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections.  To access your personal information, return to the Website where you originally entered and update your information.  If you cannot access your information on the web page, please telephone us at 866-737-5235 for assistance, or send your request to [kscinfo@dncinc.com](mailto:kscinfo@dncinc.com).  We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, would be extremely impractical or for which access is not otherwise required.  We will provide information access and correction free of charge, except if doing so would require a disproportionate effort.
+DNC P&R strives to keep your personal information accurate.  We will provide you with access to your personal information, including making reasonable efforts to provide you with online access to your email community subscription or press room registration data so that you may review, update or correct your information at the Site.  To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections.  To access your personal information, return to the Website where you originally entered and update your information.  If you cannot access your information on the web page, please telephone us at 866-737-5235 for assistance, or [click here](https://web.archive.org/contact-us.aspx) to send your request.  We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, would be extremely impractical or for which access is not otherwise required.  We will provide information access and correction free of charge, except if doing so would require a disproportionate effort.
 
-If you have NOT completed the registration process, please e-mail your request to be removed to [kscinfo@dncinc.com](mailto:kscinfo@dncinc.com).
+If you have NOT completed the registration process [click here](https://web.archive.org/contact-us.aspx) to send your request.
 
 Notwithstanding any preference that you select, we may contact you from time to time to provide services that you have requested or for customer service matters, such as responding to service-related inquiries, updating our policies or notifying you of changes to existing services.
 
-If you have any questions about our privacy policy or our use of your information, or if you need help changing or deleting your kennedyspacecenter.com information, you can e-mail us at [kscinfo@dncinc.com](mailto:kscinfo@dncinc.com) or send a letter to  DNC Parks & Resorts at KSC, Inc., Mail Code:  DNPS, Kennedy Space Center, Florida 32899, ATTN: Website Administrator.
+If you have any questions about our privacy policy or our use of your information, or if you need help changing or deleting your kennedyspacecenter.com information, [click here](https://web.archive.org/contact-us.aspx) to send your request. or send a letter to  DNC Parks & Resorts at KSC, Inc., Mail Code:  DNPS, Kennedy Space Center, Florida 32899, ATTN: Website Administrator.
 
 Effective Date: January 6, 2009
