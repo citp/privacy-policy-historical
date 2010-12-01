@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimate-guitar.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616082904id_/http%3A//www.ultimate-guitar.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimate-guitar.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201173118id_/http%3A//www.ultimate-guitar.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy @ Ultimate-Guitar.Com
 
