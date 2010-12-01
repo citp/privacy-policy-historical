@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610232755id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201232223id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
 
 # Trulia Real Estate Search - Privacy Policy
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.trulia.com)
 
 ** TRULIA PRIVACY POLICY   
-(last updated April 14, 2010) **
+(last updated August 4, 2010) **
 
-This policy describes the types of information Trulia gathers from its users of the Trulia Web site at www.trulia.com, m.trulia.com and partner sites powered by the Trulia Search functionality and how that information is used. Please read this policy carefully before you provide us with any personal information. If you have questions about this policy, please email us at privacy@trulia.com. 
+This policy describes the types of information Trulia gathers from its users of the Trulia Web site at www.trulia.com, m.trulia.com and partner sites powered by the Trulia Search functionality and how that information is used. Please read this policy carefully before you provide us with any personal information. If you have questions about this policy, please email us at customerservice@trulia.com. 
 
 Trulia is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact us at privacy@trulia.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.com/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact us at customerservice@trulia.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.com/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **Personal Information Collection and Use**
 
-When on the Trulia Site, you have the option of creating an account and to subscribing to our premium service. When you sign up, we ask you to give us contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. If you purchase our premium service, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
+When on the Trulia Site, you have the option of creating an account and to subscribing to our premium service. When you sign up, we ask you to give us contact information (such as name and email address). We also may collect and store additional usage information such as where, what and when you are searching. We may use this information to contact you occasionally about the services on our site in which you have expressed interest, or to suggest Trulia tools and services to improve your home buying, selling or renting process. 
+
+If you purchase our premium service, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
 We use the information we collect to: 
 
@@ -24,13 +26,15 @@ We use the information we collect to:
 
 
 
-You can control whether you receive such emails by following the instructions at the end of each email we send. You may also opt-out by sending an email to privacy@trulia.com. We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy. 
+You can control whether you receive Trulia emails by following the instructions at the end of each email we send. You may also opt-out by sending an email to customerservice@trulia.com. 
 
-We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find them useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying. 
+We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy. These emails generally are sent to all users in order for us to abide by notice or other requirements, or to inform you of important product or service information or changes. 
+
+We may use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find them useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying. 
 
 **Disclosure of Personal Information**
 
-Trulia does not share, rent or sell personal information about you with other people or companies except as described in this privacy policy. For example, when you fill out a “contact the agent” form on a property listing page, or other “contact” form available on the site, the information you submit will be passed on to the agent, or the other party you have requested to contact. We reserve the right to use in any manner and also to disclose any non-personal information that we collect, including but not limited to cookie and traffic data (see “Cookies and Tracking Technologies”). We do not combine personal information with any of the non-personal information gathered on our site. 
+Trulia does not share, rent or sell personal information about you with other people or companies except as described in this privacy policy. For example, when you fill out a "contact the agent" form on a property listing page, or other "contact" form available on the site, the information you submit will be passed on to the agent, or the other party you have requested to contact. We reserve the right to use in any manner and also to disclose any non-personal information that we collect, including but not limited to cookie and traffic data (see "Cookies and Tracking Technologies"). We do not combine personal information with any of the non-personal information gathered on our site. 
 
 We may release personal information when we believe that doing so is appropriate to comply with the law (for example, to respond to a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property; to protect our users from fraudulent, abusive, or unlawful use of, our site or services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
 
@@ -46,7 +50,7 @@ We log your IP address in order to help diagnose problems with our server, admin
 
 We also place a small text file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. Unless you register with us, however, a cookie contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies to help us understand how visitors use our site, and to help us to improve our site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only our Web site, but other Web sites as well. Since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer. 
 
-We may use Web beacons on our site or other sites and may permit third parties to place them on our site to monitor the effectiveness of advertising or for other legitimate purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons can also be linked to personal information. For example, advertising networks use Web bugs to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web bugs is to provide an independent accounting of how many people have visited a particular Web site. Web bugs are also used to gather statistics about Web browser usage at different places on the Internet. 
+We may use Web beacons on our site or other sites and may permit third parties to place them on our site to monitor the effectiveness of advertising or for other legitimate purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons can also be linked to personal information. For example, advertising networks use Web bugs to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web bugs is to provide an independent accounting of how many people have visited a particular Web site. Web bugs are also used to gather statistics about Web browser usage at different places on the Internet. To "opt-out," please visit http://www.doubleclick.com/privacy/index.aspx. 
 
 **Security**
 
@@ -54,7 +58,7 @@ We use commercially reasonable security measures to protect the loss, misuse, an
 
 **Share/Send-To-A-Friend**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Trulia stores this information for the sole purpose of sending this one-time email. Your friend may contact us at privacy@trulia.com to request that we remove this information from our database. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Trulia stores this information for the sole purpose of sending this one-time email. Your friend may contact us at customerservice@trulia.com to request that we remove this information from our database. 
 
 **Links to Other Sites**
 
@@ -62,7 +66,7 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 **Share This**
 
-When you use "Share This" to bookmark and share our products and site, you will be taken to a third party site. Please note that these third party sites’ privacy policies govern the collection and use of the information collected on those sites. 
+When you use "Share This" to bookmark and share our products and site, you will be taken to a third party site. Please note that these third party sites' privacy policies govern the collection and use of the information collected on those sites. 
 
 **Q &A/Blogs/Testimonials**
 
@@ -72,7 +76,7 @@ Professionals may add testimonials to their own profiles on Trulia and they are 
 
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. 
 
-If you want to remove your personal information that is being displayed on our website under public pages, please contact us at privacy@trulia.com. 
+If you want to remove your personal information that is being displayed on our website under public pages, please contact us at customerservice@trulia.com. 
 
 **Access to Personally Identifiable Information**
 
@@ -89,4 +93,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 Trulia.com  
 208 Utah Street, Suite 310  
 San Francisco, California 94103  
-privacy@trulia.com 
+customerservice@trulia.com 
