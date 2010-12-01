@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoints.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102184956id_/http%3A//zoints.com/privacy-policy.z) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoints.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201133106id_/http%3A//zoints.com/privacy-policy.z) for the most accurate reproduction.*
 
 # Privacy Policy
 
