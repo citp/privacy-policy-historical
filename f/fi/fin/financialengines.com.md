@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialengines.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialengines.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Financial Engines - Privacy Policy
 
@@ -21,16 +21,16 @@ _Last verified February 9, 2008_
 
 **Financial Engines privacy statement**
 
-Financial Engines, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the website [http://www.financialengines.com](https://www.financialengines.com/) . To demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we have agreed to notify you of ([1](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#para11)) : 
+Financial Engines, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the website [http://www.financialengines.com](https://www.financialengines.com/) . To demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we have agreed to notify you of ([1](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#para11)) : 
 
-  * [What personally identifiable information of mine is collected?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp3)
-  * [Who is collecting my information?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp4)
-  * [How is my information used?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp5)
-  * [With whom is my information shared?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp6)
-  * [What are cookies and how are they used?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp7)
-  * [What choices are available to me regarding collection, use and distribution of my information?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp8)
-  * [How can I change my personal information?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp9)
-  * [How will you notify me of changes in the use of my personal information?](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#privp10)
+  * [What personally identifiable information of mine is collected?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp3)
+  * [Who is collecting my information?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp4)
+  * [How is my information used?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp5)
+  * [With whom is my information shared?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp6)
+  * [What are cookies and how are they used?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp7)
+  * [What choices are available to me regarding collection, use and distribution of my information?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp8)
+  * [How can I change my personal information?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp9)
+  * [How will you notify me of changes in the use of my personal information?](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#privp10)
 
 
 
@@ -38,7 +38,7 @@ If you have questions or concerns regarding this statement, you should first e-m
 
 This privacy statement also applies to our former customers. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -58,7 +58,7 @@ Furthermore, we collect data in our log files. We collect your IP address, brows
 
 If your retirement plan sponsor or administrator or other financial institution makes our service available to you, it may provide us with information about you and your account to reduce the amount of data you need to enter. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -66,7 +66,7 @@ If your retirement plan sponsor or administrator or other financial institution 
 
 When you are on the Financial Engines site and provide us with your personal information, you can be sure that only Financial Engines (which means Financial Engines, Inc. and its subsidiary, Financial Engines Advisors L.L.C.) collects this information unless it is explicitly stated otherwise. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -76,7 +76,7 @@ Your personal, investment and forecast information are maintained by Financial E
 
 The demographic information we collect is used in aggregated form and not linked to any of your personal information. We use this information for our market research purposes. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -93,7 +93,7 @@ Financial Engines will not sell, reveal or share any of your personal informatio
 
 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -103,7 +103,7 @@ Cookies are small amounts of data that are sent to your browser from a Web serve
 
 If you do not wish to receive cookies, most Internet browsers allow you to turn cookies off so that you do not receive them. If you do turn your cookies off, you will still be able to use our whole Web site. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -115,7 +115,7 @@ If you are a new user and have not registered with us, you can check the box bel
 
 Furthermore, you can change your personal information anytime when you are logged into Financial Engines. For more information on how to change or correct your information, see the next section, "How can I change my personal information?" 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -123,7 +123,7 @@ Furthermore, you can change your personal information anytime when you are logge
 
 After logging into the Financial Engines Personal Online Advisor service, you have the option to change your information under the "Personal info" tab. For any information you cannot change in that section or if you are having problems changing your information, you can contact Financial Engines through e-mail at: [Customer Support](mailto:support@financialengines.com) to correct your information. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -131,7 +131,7 @@ After logging into the Financial Engines Personal Online Advisor service, you ha
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post the notice we will also e-mail users notifying them of the changes in our privacy practices. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
 
 * * *
 
@@ -147,4 +147,4 @@ Please feel free to contact Financial Engines if you have further questions abou
 
 1. Our site links to other Web sites. Financial Engines is not responsible for the privacy practices or content of these other Web sites. 
 
-[Back to top](https://web.archive.org/web/20100601040636id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
+[Back to top](https://web.archive.org/web/20101201182935id_/http%3A//corp.financialengines.com/privacy_policy.html#top)
