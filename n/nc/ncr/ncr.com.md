@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511062931id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201131316id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
 
 # NCR Privacy Policy
 
@@ -65,5 +65,5 @@ We want to address any concerns you may have. You may email any comments or ques
 
 Privacy Office, Law Department  
 NCR Corporation  
-1700 S. Patterson Blvd.   
-Dayton, OH 45479 USA
+3097 Satellite Boulevard   
+Duluth, GA 30096 USA
