@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013918id_/http%3A//twibbon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201053226id_/http%3A//twibbon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Start Something - Twibbon.com
 
