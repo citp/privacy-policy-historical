@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208121954id_/https%3A//www.xoom.com/sendmoneynow/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201095721id_/https%3A//www.xoom.com/sendmoneynow/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Xoom Global Money Transfer
 
@@ -6,7 +6,7 @@ Your browser has been configured to prevent cookies from being set. To sign into
 
 [](https://web.archive.org/sendmoneynow/home)
 
-Xoom Corporation, a California Corporation, takes your Privacy very seriously. This Privacy Policy applies to the Site [www.xoom.com](https://www.xoom.com/) and is effective as of 2009-04-16.
+Xoom Corporation, a California Corporation, takes your Privacy very seriously. This Privacy Policy applies to the Site [www.xoom.com](https://www.xoom.com/) and is effective as of 2010-05-14.
 
 We are committed to protecting our customers' privacy and security. This Privacy Statement explains what personal information we collect about you, with whom we share it, and how you [The user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
@@ -50,7 +50,9 @@ We do not sell or rent the information we collect to third parties for their pro
   * Third-party service providers under contract with Xoom that help us with our business operations, such as transaction processing, fraud prevention, and marketing.
   * Third-parties that we partner with to offer additional products and services, such as long-distance telephone minutes, but only when you elect to receive information about those additional products and services.
   * In the event of the sale, acquisition or merger of some or all of our assets, your personal information might be a part of the transferred assets. We shall notify you in the event of such an occurrence by placing a notice on our website.
-  * Law enforcement and government officials, but only in connection with a formal request, subpoena, court order, or similar legal procedure, as well as circumstances where we believe in good faith that disclosure is necessary to comply with the law, report suspected illegal activity, or investigate violations of our User Agreement.
+  * Law enforcement, government officials or other third parties, but only 
+    * in connection with a formal request, subpoena, court order, or similar legal procedure
+    * when we believe in good faith that disclosure is necessary to comply with the law, prevent physical harm or financial loss, report suspected illegal activity, or to investigate violations of our User Agreement. 
 
 
 
