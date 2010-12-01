@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619010504id_/http%3A//unfcu.org/content.aspx%3Fid%3D596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201013422id_/http%3A//www.unfcu.org/content.aspx%3Fid%3D596) for the most accurate reproduction.*
 
 # UNFCU Privacy Policy
 
