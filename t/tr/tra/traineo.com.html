@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the traineo.com privacy policy that was archived on 2010-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613013631id_/http%3A//www.traineo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the traineo.com privacy policy that was archived on 2010-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201021212id_/http%3A//traineo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>
@@ -9,12 +9,12 @@
     <meta content="weight loss, traineo, lose weight, fat loss, weight loss log, motivation, meet others, calorie counter, weight loss support, weight loss forum, health forum, fitness forum," name="keywords">
     <meta content="iB7OERQ0relZ-5jzkqI64RggeYcBbX89hHwACSzIvLY" name="google-site-verification">
     <link href="/favicon.ico" rel="icon" type="image/x-icon">
-    <link type="text/css" rel="Stylesheet" media="all" charset="utf-8" href="/stylesheets/base_2010-05-01.css">
-    <link type="text/css" rel="Stylesheet" media="all" charset="utf-8" href="/stylesheets/about.css">
-    <script type="text/javascript" src="/javascripts/base_2010-06-01.js"></script>
+    <link media="all" type="text/css" charset="utf-8" rel="Stylesheet" href="/stylesheets/base_2010070804.css">
+    <link media="all" type="text/css" charset="utf-8" rel="Stylesheet" href="/stylesheets/about.css">
+    <script type="text/javascript" src="/javascripts/base_2010071401.js"></script>
     
     <!--[if IE 6]> 
-      <link type="text/css" rel="Stylesheet" media="all" charset="utf-8" href="/stylesheets/ie6.css" />
+      <link media="all" type="text/css" charset="utf-8" rel="Stylesheet" href="/stylesheets/ie6.css" />
     <![endif]-->
   <script language="javascript" type="text/javascript" src="https://a3.websitealive.com/1434/Visitor/vTracker_v2.asp?websiteid=0&amp;groupid=1434"></script></head>
   <body class="custom_pages show">
@@ -38,8 +38,10 @@
                       <a href="http://blog.traineo.com">Blog</a>
                     </li>
                     <li>
-                      <a href="/how">Site Tour</a>
+                      <a href="#" onclick="feedback_widget.show()">Feedback</a>
                     </li>
+                    <!-- %li -->
+                    <!-- =link_to "Site Tour", url(:how) -->
                     <li class="">
                       <a href="/signup/step1">Sign Up</a>
                     </li>
@@ -53,13 +55,16 @@
                 .to-expert-help img {vertical-align:bottom;}
                 .tlogin a{color:#2D5000}
                 </style>
-                <div class="welcome login" style="float:right;position:relative;right:20px;top:6px;">
-                  <div class="fake_button green tlogin" style="padding:3px 25px;display:inline;margin-right:20px;position:relative;top:1px;">
-                    <a href="/login">Login</a>
+                <div class="welcome login" style="float:right;position:relative;right:0px;top:6px;">
+                  <div class="fake_button green tlogin" style="padding:3px 25px;display:inline;margin-right:0px;position:relative;top:1px;">
+                    <a href="/login">
+                      Login
+                    </a>
                   </div>
-                  <fb:login-button v="2" size="large" onlogin="facebook_onlogin();" autologoutlink="true" perms="email">
-                  Login with Facebook
-                  </fb:login-button>
+                  <!-- :plain -->
+                  <!-- <fb:login-button v="2" size="large" onlogin="facebook_onlogin();" autologoutlink="true" perms="email"> -->
+                  <!-- Login with Facebook -->
+                  <!-- </fb:login-button> -->
                   <!-- = form_for User.new, :action => url(:login) do -->
                   <!-- = text_field :username, :class => 'text', :id => 'login_user_username' -->
                   <!-- = password_field :password, :class => 'text', :id => 'login_user_password' -->
@@ -72,37 +77,91 @@
               </div>
             </div>
           </div>
-          <ul class="nav" id="topnav">
-            <li>
-              <a class="item" href="/">Home</a>
-            </li>
+          <ul class="nav superfish" id="topnav" style="margin-top:10px;width:1020px;">
             <li class="dropdown">
-              <a class="item" href="/start">Tools</a>
-              <ul>
-                <li><a href="/weight">Weight</a></li>
-                <li><a href="/start#Calories">Calories</a></li>
-                <li><a href="/logs">Logs</a></li>
-                <li><a href="/start#Progress_Photos">Photos</a></li>
+              <a class="item" href="/start">Home</a>
+            </li>
+            <li class="dropdown ">
+              <a class="item" href="#">Motivation <img src="/images/structure/downarrow.png" style="position:relative;top:-2px;"></a>
+              <ul style="display: none; visibility: hidden;">
+                <li>
+                  <a href="/forums/13">Motivation Tips</a>
+                </li>
+                <li>
+                  <a href="/forums/14">Before &amp; After Gallery</a>
+                </li>
+                <li>
+                  <a href="/forums/19">Introduce Yourself!</a>
+                </li>
               </ul>
             </li>
-            <li class="dropdown">
-              <a class="item" href="/forums">Community</a>
-              <ul>
-                <li><a href="/forums">Forums</a></li>
-                <li><a href="/groups">Groups</a></li>
-                <!-- %li=link_to "Challenges", url(:challenges) -->
-                <li><a href="/progress_photos">Progress Photos</a></li>
-                <!-- %li.sep -->
-                <!-- %a traineo Pulse -->
-                <!-- %li -->
-                <!-- =link_to "Support Library", url(:custom, :shortname => :library) -->
-                <!-- %li=link_to "Favorite Quotes", url(:favorite_quotes) -->
-                <li><a href="/users">Find Members</a></li>
+            <li class="dropdown ">
+              <a class="item" href="#">Diet <img src="/images/structure/downarrow.png" style="position:relative;top:-2px;" <="" a="">
+              </a><ul style="display: none; visibility: hidden;"><a class="item" href="#">
+                </a><li><a class="item" href="#">
+                  </a><a href="/forums/8">Diet &amp; Nutrition Tips</a>
+                </li>
+                <li>
+                  <a href="/forums/9">Diet Plans</a>
+                </li>
+                <li>
+                  <a href="/forums/10">Healthy Recipes &amp; Treats</a>
+                </li>
               </ul>
+            </li>
+            <li class="dropdown ">
+              <a class="item" href="#">Exercise <img src="/images/structure/downarrow.png" style="position:relative;top:-2px;" <="" a="">
+              </a><ul style="display: none; visibility: hidden;"><a class="item" href="#">
+                </a><li><a class="item" href="#">
+                  </a><a href="/forums/11">Exercise &amp; Training Tips</a>
+                </li>
+                <li>
+                  <a href="/forums/12">Training Routines</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown ">
+              <a class="item" href="#">More <img src="/images/structure/downarrow.png" style="position:relative;top:-2px;" <="" a="">
+              </a><ul style="display: none; visibility: hidden;"><a class="item" href="#">
+                </a><li><a class="item" href="#"></a><a href="/forums/15">Off-Topic &amp; General Chat</a></li>
+                <li><a href="/forums/16">Traineo Feedback</a></li>
+                <li><a href="/forums/18">Traineo Updates</a></li>
+              </ul>
+            </li>
+            <!-- %li.dropdown{:class => "dropdown", :style=>"margin-left:190px;"} -->
+            <!-- =link_to 'Tools <img src="/images/structure/downarrow.png" style="position:relative;top:-2px;"', "#", :class => 'item' -->
+            <!-- %ul -->
+            <!-- %li -->
+            <!-- =link_to 'Weight Logs', url(:updates) -->
+            <!-- %li -->
+            <!-- =link_to 'Calorie Tracking', url(:motivatees) -->
+            <!-- %li -->
+            <!-- =link_to 'Progress', url(:users) -->
+            <li class="dropdown" style="margin-left:190px;">
+              <a class="item" href="#">Members <img src="/images/structure/downarrow.png" style="position:relative;top:-2px;" <="" a="">
+              </a><ul style="display: none; visibility: hidden;"><a class="item" href="#">
+                </a><li><a class="item" href="#">
+                  </a><a href="/updates">Latest Updates</a>
+                </li>
+                <li>
+                  <a href="/motivatees">My Motivators</a>
+                </li>
+                <li>
+                  <a href="/users">Find Members</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown ">
+              <a class="item" href="/progress_photos">Photos</a>
+            </li>
+            <li class="dropdown ">
+              <a class="item" href="/groups">Groups</a>
+            </li>
+            <li class="dropdown ">
+              <a class="item" href="/subscriptions">traineoPLUS</a>
             </li>
           </ul>
-          <div class="crowdsound">
-          </div>
+          
         </div>
       </div>
     </div>
@@ -179,19 +238,20 @@
     <script type="text/javascript">FB.init("821cf648eaf7de24fe6ab06a43188c74","/xd_receiver.htm", {permsToRequestOnConnect : 'email'});</script>
     <script>function facebook_onlogin(){document.location.href = "/fb_connect";}</script>
     <script type="text/javascript" charset="utf-8">
-    var is_ssl = ("https:" == document.location.protocol);
-    var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-    document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+      var is_ssl = ("https:" == document.location.protocol);
+      var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+      document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
     <script type="text/javascript" charset="utf-8">
-    var feedback_widget_options = {};
-    feedback_widget_options.display = "overlay";  
-    feedback_widget_options.company = "traineo";
-    feedback_widget_options.placement = "left";
-    feedback_widget_options.color = "#222";
-    feedback_widget_options.style = "question";
-    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+      var feedback_widget_options = {};
+      feedback_widget_options.display = "overlay";  
+      feedback_widget_options.company = "traineo";
+      feedback_widget_options.placement = "hidden";
+      feedback_widget_options.color = "#222";
+      feedback_widget_options.style = "question";
+      var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
     </script>
+    
     <!-- Start AliveChat Tracking Code -->
     <script type="text/javascript">
     function wsa_include_js(){
@@ -213,7 +273,7 @@
     <div id="drop_down_holder">
       <div id="drop_down">
         <div class="content" id="drop_down_content"></div>
-        <a class="closelink" id="close_drop_down" href="#">close this</a>
+        <a class="closelink" href="#" id="close_drop_down">close this</a>
       </div>
     </div>
     <script type="text/javascript">
@@ -227,4 +287,4 @@
     } catch(err) {}</script>
   
 
-</body></html>
+<div id="datepicker_div"></div></body></html>
