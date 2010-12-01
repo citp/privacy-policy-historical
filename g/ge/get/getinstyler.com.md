@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005104id_/http%3A//getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201060508id_/http%3A//getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Instyler® Rotating Hot Iron Hair Straightener
 
