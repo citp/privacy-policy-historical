@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chomp.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616152725id_/http%3A//chomp.com/us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chomp.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201070319id_/http%3A//chomp.com/us/privacy_policy) for the most accurate reproduction.*
 
-# Chomp: Privacy Policy
+# Privacy Policy | Chomp
 
 ## CHOMP INC.
 
@@ -8,7 +8,7 @@
 
 _Last Updated: March 26, 2010_
 
-Thank you for your interest in Chomp Inc., (“Chomp”), the Chomp application (the “Application”), our service and our website located at http://www.chompapps.com (the “Website”). Your use of the Application, is subject to this Privacy Policy. We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information in connection with your use of the Application.
+Thank you for your interest in Chomp Inc., (“Chomp”), the Chomp application (the “Application”), our service and our website located at http://www.chomp.com (the “Website”). Your use of the Application, is subject to this Privacy Policy. We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information in connection with your use of the Application.
 
 #### Information We Collect
 
@@ -58,7 +58,7 @@ Chomp does not guarantee error-free performance under this Privacy Policy. We ma
 
 #### Legal Notices
 
-This Privacy Policy is subject to the terms in our Terms of Use, available for review at http://www.chompapps.com/privacy, including terms regarding limitations on damages, disclaimers of warranties, and resolution of disputes. Our Terms of Use take precedence over any conflicting provision in this Privacy Policy. 
+This Privacy Policy is subject to the terms in our Terms of Use, available for review at http://www.chomp.com/privacy, including terms regarding limitations on damages, disclaimers of warranties, and resolution of disputes. Our Terms of Use take precedence over any conflicting provision in this Privacy Policy. 
 
 #### Questions
 
