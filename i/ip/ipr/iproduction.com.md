@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iproduction.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328150448id_/http%3A//www.iproduction.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iproduction.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201194643id_/http%3A//www.iproduction.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
