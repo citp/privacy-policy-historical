@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunshootinggames.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626091513id_/http%3A//www.gunshootinggames.net/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunshootinggames.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201231918id_/http%3A//www.gunshootinggames.net/page/2.html) for the most accurate reproduction.*
 
 # Privacy Policy - Play Privacy Policy Online
 
