@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626073451id_/http%3A//www.vguard.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201051123id_/http%3A//www.vguard.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
