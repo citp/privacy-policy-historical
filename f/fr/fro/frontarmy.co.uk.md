@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the frontarmy.co.uk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525102946id_/http%3A//www.frontarmy.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontarmy.co.uk privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201070559id_/http%3A//www.frontarmy.com/privacy-policy) for the most accurate reproduction.*
 
-# FRONT – The funniest, sexiest magazine on earth. » Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | FRONT – The funniest, sexiest magazine on earth.
 
 Kane Ltd Frontarmy.co.uk Web Site Privacy Policy  
 Kane Ltd will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience.  
@@ -13,5 +11,3 @@ It is possible that Kane Ltd could merge or be acquired by another business. If 
 This website contains various “opt-out” boxes on the relevant pages where you provide your personal information. If you do not want us to provide your personal information to trusted third parties as may be described on the pages of the Web Site or herein, then you should tick the relevant box(es) on such pages of the Web Site and we will not transfer it to those parties, similarly if you do not want us to send you information as described where relevant, you should tick the opt out boxes and we will refrain from sending you such materials.  
 Please note that clicking on to links and banner advertisements may result in your transferal to another website, where data privacy practices may be different to that of Kane Ltd. Visitors should consult the other website’s privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties.  
 This privacy policy may be changed by Kane Ltd at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. Kane Ltd will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.
-
-December 4, 2008
