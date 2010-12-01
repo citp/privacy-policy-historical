@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227043419id_/http%3A//www.voltasac.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201015734id_/http%3A//voltasac.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
