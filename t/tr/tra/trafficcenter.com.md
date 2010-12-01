@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficcenter.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327151733id_/http%3A//www.trafficcenter.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficcenter.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201055118id_/http%3A//trafficcenter.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Traffic Exchange | Worldprofit Inc. & Dr. Jeffrey Lant
 
