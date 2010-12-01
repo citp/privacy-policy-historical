@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the thisissouthwales.co.uk privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427040339id_/http%3A//www.thisissouthwales.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisissouthwales.co.uk privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201041953id_/http%3A//www.thisissouthwales.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Protecting the privacy and personal data of individuals is an important aspect of the way our company, undefined, organises and implements its activities both on-line and off-line.
 
-This Privacy Policy covers the website accessible from this site.
+This Privacy Policy covers the website accessible from this site and the services. In this policy when we refer to 'services' this includes any of the information, services or facilities provided to you via the site by us.
 
-Our site may, from time to time, contain links to and from websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies and websites. Please check these policies before you submit any personal data to these websites.
+Our site or services may, from time to time, contain links to and from websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies and websites. Please check these policies before you submit any personal data to these websites.
 
-The information you provide will be held and processed by Northcliffe Media Ltd., a member of the DMGT Group of Companies (DMGT). Northcliffe Media Ltd. is registered in England and Wales under company number 272225 and has its registered office at 2 Derry St, London W8 5TT. Our main trading address is 2 Derry St, London W8 5TT. Our VAT number is 243-5711-74.
+The information you provide will be held and processed by Northcliffe Media Ltd., a member of the DMGT Group of Companies (DMGT). Northcliffe Media Ltd. is registered in England and Wales under company number 272225 and has its registered office at Northcliffe Accounting Centre, PO BOX 6795, Leicester, LE1 1ZP. Our main trading address is 2 Derry St, London W8 5TT. Our VAT number is 243-5711-74.
 
 We may collect and process the personal data that you:
 
   * Volunteer on forms you submit to us (including but not limited to registration, order, survey, and competition forms), and in emails you send to us.
   * Upload, post, comment or submit to a discussion board, story blog, wiki, forum, chatroom or similar discussion or opinion group;
-  * Submit when you report a problem with our site or contact us; and
-  * Leave as a result of your visits to our site (including but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise) and the resources that you access.
+  * Submit when you report a problem with our site or services or contact us; and
+  * Leave as a result of your visits to our site (including but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise), use of the services and the resources that you access.
 
 
 
 The personal data we collect (as described above) is used to:
 
-  * Allow us to develop our sites in a way that will enhance the online experience of the greatest number of users;
-  * Ensure that content from our site is presented in the most effective manner for you and for your computer;
+  * Allow us to develop our sites or services in a way that will enhance the online experience of the greatest number of users;
+  * Ensure that content from our site or services is presented in the most effective manner for you and for your computer, PDA, mobile phone or other device;
   * To provide you with information, products or services that you request from us or which we may feel may interest you, where you have consented to be contacted for such purposes;
   * To carry out our obligations arising from any contents entered into between you and us;
   * To allow you to participate in interactive features of our service, when you choose to do so; and
@@ -32,9 +32,9 @@ You agree that we and other (DMGT) group companies may obtain, hold, correlate, 
 
 This will include communication (and personalising such communication) with you from other DMGT group companies, and from other companies (if you have agreed to such).
 
-Our web sites enable you to communicate with other visitors or to post information to be accessed by others. When you use these services, other visitors could collect your data. We have no control over this and accept no liability for any consequences of this.
+Our web sites and services enable you to communicate with other visitors or to post information to be accessed by others. When you use these services, other visitors could collect your data. We have no control over this and accept no liability for any consequences of this.
 
-Registered users posting comments via the Story Comments facility on our sites will also have their submitted details stored along with their IP address. Your IP address will not be disclosed to anyone accept in cases of the story comments facility being abused or unless we are required to do so by law.
+Registered users posting comments via the Story Comments facility on our sites or services will also have their submitted details stored along with their IP address. Your IP address will not be disclosed to anyone accept in cases of the story comments facility being abused or unless we are required to do so by law.
 
   
 Yes, you can access our web site's homepage and browse our sites without disclosing personal data.   
@@ -44,13 +44,13 @@ We do not use persistent cookies, which means that the site will not remember wh
 
 We do not associate the information stored in a user's cookie with any other personal data about that user. The information collected includes your IP address, operating system and browser type.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site.
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site or services.
 
-Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site or use services.
 
-Please note that our advertisers and other third party partners may also use cookies, over which we have no control. 
+Please note that our advertisers and other third party partners may also use cookies, over which we have no control.
 
-Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/)
+Advertisements on our site or services are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer, PDA, mobile phone or other device. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/)
 
   
 We will ensure that your personal data will not be disclosed except insofar as you have consented to such disclosure or we are required to do so by law.
@@ -62,9 +62,9 @@ We may disclose your personal information to third parties:
   
 We may share by way of a central platform, your information with other companies within the DMGT Group to which all companies have access or by means of a direct transfer of data from one company to another.
 
-You may choose to give your consent to us disclosing your personal data and to receiving promotional or marketing information from other third parties selected by Northcliffe Media Ltd. and DMGT Group by ticking the relevant boxes at the points where our sites collect personal data. Leaving the relevant boxes unchecked indicates to us that you would prefer your personal data not to be disclosed and that you would prefer not to receive such material. 
+You may choose to give your consent to us disclosing your personal data and to receiving promotional or marketing information from other third parties selected by Northcliffe Media Ltd. and DMGT Group by ticking the relevant boxes at the points where our sites or services collect personal data. Leaving the relevant boxes unchecked indicates to us that you would prefer your personal data not to be disclosed and that you would prefer not to receive such material.
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in [postcode]). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in a particular postcode). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
 
   
 By sending an email or by contacting us by any of the other means available by clicking the "contact us" link in "About us" on the site, you may request that we confirm whether or not we are holding personal data about you which will be provided free of charge. You may also request a copy of any such data which we do hold, in which case a £10 fee is payable for dealing with this request (as permitted under the Data Protection Act 1998).
@@ -74,7 +74,7 @@ Upon receipt of such a request from you, we will endeavour to meet your request 
 All information that we provide to you as a result of a request will be provided free of charge.
 
   
-You may request that we amend any personal data that we are holding about you which is factually inaccurate, free of charge. 
+You may request that we amend any personal data that we are holding about you which is factually inaccurate, free of charge.
 
 If you have agreed to the disclosure of personal information and to receiving marketing and promotional information, but no longer wish to do so, then please contact us.
 
@@ -85,13 +85,13 @@ To protect the integrity and security of your personal data we will take steps t
 
 We have put in place appropriate technology measures and security policies and procedures to protect the personal data that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction or accidental loss.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site or services; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
   
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.   
 Questions, comments and requests regarding this privacy policy are welcomed and should be address to Northcliffe Media Ltd., 2 Derry St, London W8 5TT.
 
-**Last Updated: 15 March 2010**
+**Last Updated: 9 June 2010**
 
 
 
