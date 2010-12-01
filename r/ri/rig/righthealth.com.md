@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the righthealth.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114065526id_/http%3A//www.righthealth.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the righthealth.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201084007id_/http%3A//www.righthealth.com/corp/privacy_policy) for the most accurate reproduction.*
 
-# Privacy_policy on Kosmix
+# Privacy Policy on Kosmix
 
 _RightHealth is owned and operated by Kosmix.[View Kosmix's Terms of Service](https://web.archive.org/corp/terms_of_service)._
 
@@ -29,19 +29,15 @@ We collect information that personally identifies you, such as your name, email 
 
 ## How Do We Use, And When Do We Share, Personal and Non-Personal Information We Collect?
 
-We may use third party advertisement serving companies to serve ads when you visit the Site. These companies may use information about your visit to the Site and other Websites in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection to the Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/consumer/opt_out.asp "http://networkadvertising.org/consumer/opt_out.asp").
+We may use third-party advertising companies to serve ads and/or collect information when you visit the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on this Site, other websites and other forms of media about goods and services of interest to you.. These companies may also place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with serving ads and/or collecting information about your visit to the Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). Our Privacy Policy does not cover any use of information that a third party advertising company may collect from you.
 
 We will not sell, share or rent Personal Information to third parties, and we will not otherwise disclose Personal Information to third parties, without your permission, except as disclosed in this Privacy Policy.
 
 From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (" **Service Providers** "). For example, we may contract with Service Providers to provide certain services including credit card processing, data management, promotional services, Web hosting, Web development, etc. We provide our service providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
 
-We may use third party advertisement serving companies to serve ads when you visit the Site. These companies may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection to the Site. Our Privacy Policy does not cover any use of information that a third party advertisement serving company may collect from you.
-
 Although unlikely, in certain instances we may disclose your Personal Information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Kosmix, to its affiliates or to others. We may also disclose your Personal Information when we believe the law requires it.
 
 We may use, and disclose to third parties, certain aggregated Non-Personal Information (e.g., the number of users who searched for a particular term, how many users clicked on a particular advertisement, the number of users who reside in a particular geographic location, etc.) without your permission. However, such information does not identify you individually.
-
-We also may share Personal Information and Non-Personal Information with companies affiliated with Kosmix. In the event that Kosmix is merged, or in the event of a transfer of our assets, we may disclose or transfer Personal Information and Non-Personal Information in connection with such transaction. In the event of such a transfer, we will notify you of the change of control of your Personal Information. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit Personal Information and Non-Personal Information to be shared or transferred to third parties without your permission.
 
 ## Security
 
