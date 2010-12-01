@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aseanaffairs.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620102523id_/http%3A//www.aseanaffairs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aseanaffairs.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201182253id_/http%3A//www.aseanaffairs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
