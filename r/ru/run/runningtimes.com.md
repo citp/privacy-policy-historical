@@ -1,18 +1,26 @@
-> *The following text is extracted and transformed from the runningtimes.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527200630id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningtimes.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201201802id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
-Policy Effective Date: July 29, 2008
+## About Us
+
+September 21, 2010
 
 Protecting Your Privacy and Servicing Your Needs
 
-Rodale Inc. is the world's leader in health and wellbeing. Through our brands (Bicycling, Men's Health, Mountain Bike, Organic Gardening, Women's Health, Prevention, Runner's World, Running Times, and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest.
+Rodale is a global media company with a heritage, mission, and authority dedicated to the health and wellness of the individual, community, and planet. Through a broad portfolio of leading media properties Rodale reaches more than 70 million people around the world through multiple distribution channels, including magazines, books, online, e-commerce, direct-to-consumer, and video:
 
-We're a family-run business that treats its customers like family. And we are deeply committed to protecting your privacy and the security of the information you share with us. 
+[](http://www.menshealth.com/) | [](http://www.prevention.com/) | [](http://www.womenshealthmag.com/)  
+---|---|---  
+[](http://www.runnersworld.com/) | [](http://www.runningtimes.com/) | [](http://www.bicycling.com/)  
+[](http://www.biggestloserclub.com/) | [](http://www.organicgardening.com/) | [](http://www.rodaleinc.com/products/books)  
+[](http://www.rodale.com/) | [](http://eatthis.menshealth.com/home) |   
+  
+The company publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , _Mountain Bike_ , _and Organic Gardening_ , and is the largest independent book publisher in the United States, with a collection of bestselling titles. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. We're a family-run business that values integrity. and we are deeply committed to protecting your privacy and the security of the information you share with us.
 
-We believe you have the right to know everything regarding the information we collect about you... how this information benefits you... and how you can say "no" to the use of any of this information. 
+We believe you have the right to know everything regarding the information we collect about you... how this information benefits you... and how you can say "no" to the use of any of this information.
 
-This policy explains what we do with your information and what you can expect from Rodale. By using this site, you indicate your acceptance of Rodale's Privacy Policy. 
+This policy explains what we do with your information and what you can expect from Rodale. By using this site (the "Site"), you indicate your acceptance of Rodale's Privacy Policy.
 
 TABLE OF CONTENTS:
 
@@ -20,7 +28,7 @@ TABLE OF CONTENTS:
   2. Information Collection and Changes
   3. Your Privacy Rights/Transfers of Information
   4. Mobile Devices
-  5. Cookies/Links
+  5. Cookies/Web Beacons/Links
   6. Policy Changes/Data Security
   7. Rules for Submissions and Member Conduct
   8. Rights/Copyrights
@@ -36,21 +44,27 @@ We care about the safety of children. We won't knowingly allow anyone under 13 t
 
 Rodale collects personal identifying information ("PII") from you only if you voluntarily submit such information to us on website(s) and through e-mail. We also collect PII during transactions, sponsored events, mobile marketing campaigns, and contests/sweepstakes. When visiting one of our online sites, we collect user-specific information on what pages are visited and volunteered information such as survey information and/or site registrations. PII includes your name, postal address, e-mail address, telephone and cell phone numbers, wireless service provider, and all other information you provide to us.
 
+We may collect information about your interaction with Rodale sites and services. For example, we may use Web site analytics tools on our site to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height. We may also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on our sites and services. Additionally, we may collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+
+When you receive newsletters or promotional e-mail from Rodale, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
+
+In order to offer you a more consistent and personalized experience in your interactions with Rodale, information collected through one Rodale site or service may be combined with information obtained through other Rodale sites or services. We may also supplement the information we collect with information obtained from other companies.
+
 **What's in it for me?**
 
 Plenty! The information we collect allows us to customize the content and/or layout of our page for each visitor. Plus, it enables us to notify you about updates to our Website... contact you with special offers of interest... and customize your Website experience. In addition, information is shared with reputable organizations that may contact you with special offers of possible interest.
 
 **May I update my account and contact information?**
 
-Yes! Upon request, we will update your personal account information (e.g., customer number)... access your account status (outstanding balance)... and update your contact information (i.e., name, address, phone number). You may contact us by completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html) or by calling us at (800) 914-9363. If you prefer, you may write to us at Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+Yes! Upon request, we will update your personal account information (e.g., customer number)... access your account status (outstanding balance)... and update your contact information (i.e., name, address, phone number). For more information or to update an account please visit <http://www.rodaleinc.com/customer-service>. If you prefer, you may write to us at Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
 
 **Your Privacy Rights**
 
-From time to time, we make your PII available to other reputable businesses whose products or services might be of value to you. If you do not want us to share your PII with other companies or organizations, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), by calling us at (800) 914-9363, or writing to us at Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+From time to time, we make your PII available to other reputable businesses whose products or services might be of value to you. If you do not want us to share your PII with other companies or organizations, please let us know by accessing the form at <http://www.rodale.com/cs/privacy.html>, by calling us at 866-387-0509, or writing to us at Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
 
 **What if I don't want commercial/promotional e-mail from Rodale?**
 
-Easy. If you do not want to receive commercial/promotional e-mail from Rodale, please let us know by utilizing the unsubscribe option available on e-mail communications, by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html "privacy@rodale.com"), by calling us at (800) 914-9363, or by writing to us at: Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+Easy. If you do not want to receive commercial/promotional e-mail from Rodale, please let us know by updating your email preferences at ([preferences.rodale.com](http://preferences.rodale.com/pc/pcp/index)), by utilizing the unsubscribe option available on e-mail communications , by calling us at 866-387-0509, or by writing to us at: Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
 
 **Transfers of Information for Legal Purposes**
 
@@ -60,7 +74,7 @@ You acknowledge that Rodale is located in the United States of America ("U.S.") 
 
 **Mobile Devices/Third Party Fees**
 
-Rodale deploys mobile marketing campaigns and may allow you to register for services that involve messages and/or e-mails being sent to your mobile device. You are responsible for obtaining access to the mobile device services and that access may involve third-party fees, including mobile carrier, text messaging, or airtime charges. You are solely responsible for those fees, including any and all fees associated with the delivery of the messages, e-mails or other materials to your mobile device. Please consult your mobile service provider's pricing plan prior to registering for any such service to determine the charges for sending and receiving text messages from/to your mobile device. You will be given the opportunity to opt-out of receiving text messages or emails to your mobile device at the time you register and with each message or email you receive.
+From time to time, Rodale may deploy mobile marketing campaigns and may allow you to register for services that involve messages and/or e-mails being sent to your mobile device. You are responsible for obtaining access to the mobile device services and that access may involve third-party fees, including mobile carrier, text messaging, or airtime charges. You are solely responsible for those fees, including any and all fees associated with the delivery of the messages, e-mails or other materials to your mobile device. Please consult your mobile service provider's pricing plan prior to registering for any such service to determine the charges for sending and receiving text messages from/to your mobile device. You will be given the opportunity to opt-out of receiving text messages or emails to your mobile device at the time you register and with each message or email you receive.
 
 Mobile marketing campaigns may involve your sending an e-mail from your mobile device to Rodale or a third-party campaign operator. An e-mail or other response will then be sent to your mobile device. Opting to participate in a campaign is 100% your choice. When you engage in these mobile marketing campaigns, Rodale and the third-party campaign operator collect your cell phone number, the name of your wireless service provider, images that you send using your cell phone as part of the campaign, and other relevant information.
 
@@ -70,13 +84,19 @@ In order to provide better service when you return to our site, Rodale may use c
 
 If you want to disable cookies, there is a simple procedure in most Internet browsers that allows you to turn off cookies. Please remember, however, that cookies may be required to allow you to use certain features of our sites.
 
-We may also use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/third-party-advertising "third party ads").
+We may also use third-party advertising companies to serve ads when you visit websites. When online advertisements are displayed to you, one or more persistent cookies may be placed on your computer. These companies may use information in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.rodaleinc.com/third-party-advertising). 
+
+**Use of Web Beacons**
+
+Rodale Website pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
+
+Rodale may also employ Web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our sites.
 
 **Links**
 
 Rodale sites may, on occasion, contain links to other sites with information gathering practices different from our own. Visitors should consult privacy policies for all other sites, as Rodale has no control over information submitted to or collected by such third parties.
 
-Rodale sites sometimes offer contest, sweepstakes, or promotions sponsored or co-sponsored by third parties. These third parties may obtain PII that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Rodale has no control over the third-party sponsor's use of this information. The Rodale site will notify you at the time of requesting PII if third-party sponsors will be provided with such information. 
+Rodale sites sometimes offer contest, sweepstakes, or promotions sponsored or co-sponsored by third parties. These third parties may obtain PII that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Rodale has no control over the third-party sponsor's use of this information. The Rodale site will notify you at the time of requesting PII if third-party sponsors will be provided with such information.
 
 **Changes...**
 
@@ -96,25 +116,25 @@ You understand that all information, data, text, software, music, sound, photogr
 
 **You agree to not use the Rodale sites in order to:**
 
-  * upload, post, or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
+  * upload, post, or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; 
   * harm minors in any way;
-  * impersonate any person or entity, including, but not limited to, a Rodale official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity;
-  * forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service or develop restricted or password-only access pages, or hidden pages or images (those not linked to from another accessible page);
-  * upload, post, or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
-  * upload, post, or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party;
+  * impersonate any person or entity, including, but not limited to, a Rodale official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity; 
+  * forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service or develop restricted or password-only access pages, or hidden pages or images (those not linked to from another accessible page); 
+  * upload, post, or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
+  * upload, post, or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party; 
   * upload, post, or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation, except in those areas of the Service that are designated for such purpose;
   * upload, post, or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
   * interfere with or disrupt the servers or networks connected to the Rodale site, or disobey any requirements, procedures, policies or regulations of networks connected to the site;
   * intentionally or unintentionally violate any applicable local, state, national or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange or the NASDAQ, and any regulations having the force of law;
-  * "stalk" or otherwise harass another;
-  * collect or store personal data about other users;
-  * promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals;
+  * "stalk" or otherwise harass another; 
+  * collect or store personal data about other users; 
+  * promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals; 
   * use your home page (or directory) as storage for remote loading or as a door or signpost to another home page; or
   * engage in commercial activities without the express written consent of Rodale Inc. This includes, but is not limited to, the following activities: 
     * offering for sale any products or services;
     * soliciting for advertisers or sponsors;
     * conducting raffles or contests that require any type of entry fee;
-    * displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services
+    * displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services 
     * displaying banners for services that provide cash or cash-equivalent prizes to users in exchange for hyperlinks to their websites. 
 
 
@@ -125,25 +145,25 @@ You acknowledge that we acquire all Rights to use any posted materials as descri
 
 **Copyrights and Copyright Agent**
 
-Rodale respects the rights of all copyright holders. If you believe that your work has been copied and used on one of our Sites in a way that constitutes copyright infringement, please provide Rodale's Copyright Agent the following information required by Section 512 of the Digital Millennium Copyright Act: 
+Rodale respects the rights of all copyright holders. If you believe that your work has been copied and used on one of our Sites in a way that constitutes copyright infringement, please provide Rodale's Copyright Agent the following information required by Section 512 of the Digital Millennium Copyright Act:
 
-  * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
-  * Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single on-line site are covered by a single notification, a representative list of such works at that site;
-  * Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
-  * Information reasonably sufficient to permit us to contact the complaining party;
-  * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+  * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; 
+  * Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single on-line site are covered by a single notification, a representative list of such works at that site; 
+  * Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; 
+  * Information reasonably sufficient to permit uetnt.gifs to contact the complaining party;
+  * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and 
   * A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 
 
-Rodale's Copyright Agent may be contacted at: Copyright Agent, Rodale Inc., 33 East Minor Street, Emmaus PA 18098-0099. 
+Rodale's Copyright Agent may be contacted at: Copyright Agent, Rodale Inc., 33 East Minor Street, Emmaus PA 18098-0099.
 
 **We appreciate the opportunity to serve you!**
 
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098, and we can be reached via e-mail at: [customerservice@rodale.com](mailto:customerservice@rodale.com "mail to customerservice@rodale.com"). You can reach us by telephone at (610) 967-5171 or (800) 914-9363.
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098, and we can be reached via e-mail at: <http://www.rodale.com/cs/index.html>. You can reach customer service by telephone at 866-387-0509.
 
-Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org "mail to mgoldberger@the-dma.org"), the [Better Business Bureau](http://www.bbb.org/ "Better Business Bureau"), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01 "www.ftc.gov").
+Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices, the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](http://www.ftc.gov/).
 
 Note: This privacy policy applies to all of Rodale's owned and operated websites and to Rodale's other information gathering activities.
 
-Rodale complies with all the stringent standards of ethical conduct set forth by the [Direct Marketing Association](http://www.the-dma.org/ "Direct Marketing Association").
+Rodale complies with all the stringent standards of ethical conduct set forth by the Direct Marketing Association.
