@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412122854id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201083922id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Typekit
-
-  * [Feature Tour](https://web.archive.org/tour)
-  * [Pricing](https://web.archive.org/plans)
-  * [Browse Fonts](https://web.archive.org/libraries/full)
-  * [About Typekit](https://web.archive.org/about)
-  * [Blog](http://blog.typekit.com/)
-  * [Support](http://getsatisfaction.com/typekit)
-
-
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
