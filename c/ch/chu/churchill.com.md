@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601034350id_/http%3A//www.churchill.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201084301id_/http%3A//www.churchill.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Terms | Churchill Insurance UK
+# Privacy policy | Churchill Insurance UK
 
-##   You are here: [Home page](https://web.archive.org/web/20100601034350id_/http%3A//) > [Terms](https://web.archive.org/web/20100601034350id_/http%3A//www.churchill.com/) > **Privacy policy**
+##   You are here: [Home page](https://web.archive.org/web/20101201084301id_/http://churchill.com/) > [Terms](https://web.archive.org/web/20101201084301id_/http://churchill.com/terms/) > **Privacy policy**
 
 You are giving your information to Churchill Insurance Company Limited. In this Information statement **‘we’** **‘us’** and **‘our’** refers to Churchill Insurance Company Limited unless otherwise stated.
 
