@@ -1,47 +1,35 @@
-> *The following text is extracted and transformed from the up4vn.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208215413id_/http%3A//www.up4vn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up4vn.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201131241id_/http%3A//up4vn.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free File Mirror Hosting Made Simple - up4vn
 
-This **up4vn.com** Privacy Policy, in conjunction with the AUP, Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the **up4vn.com** website and are collectively referred to as the "Agreement".
+IP Address Logging
 
-**up4vn.com** may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement.
+Each visitor who views a web page on **"up4vn"** is subject to ip address collection. These ip's are used to determine if you are a new or returning visitor. Your ip is also used to track your download usage, upload usage, and page views on **"up4vn"**. Any personal identifiable information collected from your ip is not saved or resold by **"up4vn"**.
 
-Any Content uploaded by you to **up4vn.com** becomes published Content and is not considered personally identifiable information subject to this Privacy Policy.
+Email Address Collection
 
-**up4vn.com** uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases.
+When you submit an email address to **"up4vn"** we use the e-mail address temporarily to send non spam and non advertisement based e-mail messages to inform the user of the file link they uploaded. We do not attempt to save or distribute e-mail or e-mail addresses submitted by a visitor.
 
-A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided **up4vn.com**. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable **up4vn.com** to track and target your interests to enhance your experience on our website.
+Exceptional Disclosures
 
-You may review, update, correct or delete personal information or your account on your My Account page.
+**"up4vn"** holds the right to disclose personal information about a visitor when it is deemed necessary. Examples of such disclosure are as follows: If a user uploads copy written material or content, If a user is abusing our free service, If a user has caused damages to one or more other visitors or our free service, If the government or legal body legally dictates we must disclose personal information about a specific visitor, Or one of many other situations when service is abused or interrupted due to malicious or abusive activities.
 
-The email address you provide for order processing will only be used to send you information and updates pertaining to your order.
+Use of Cookies
 
-We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of **up4vn.com** , or visitors of **up4vn.com** ; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities.
+**"up4vn"** does not employ the use of any cookies in our service. No crumbs here.
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, Authorize.net and PayPal, keep this information encrypted and secure on your behalf.
+File Transfer Security
 
-Third-party websites or services linked to **up4vn.com** are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. **up4vn.com** is not responsible for the privacy practices of the third-party websites and companies.
+**"up4vn"** does not warrant this service will be 100% accurate, however we will try our best to make it as accurate as possible. We do not warrant that your files will be saved and uploaded accurately. We will do our best to create backups of files uploaded however, due to reasons out of our control we do not guarantee files will remain on our service. **"up4vn"** can not be held responsible for missing, broken, or stolen data. Use At Your Own Risk.
 
-You are solely responsible for safeguarding the secrecy of your password.
+Third Party Advertising
 
-**up4vn.com** is not responsible if you volunteer personal information online that is accessible to the public. You may receive unsolicited messages from other parties or it may be used in a manner that violates the law, your personal privacy or your safety. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.
+We use third-party software to manage and maintain our ad serving space on **"up4vn"**. These companys may track your personal information differently then we do. This information may include your phone number, e-mail address, home address, zip code, and location to name a few. If you are curious about the information these company's collect, please visit their privacy policy statement on their website.
 
-If you are not a resident of the United States, you understand and agree that **up4vn.com** stores and processes your information on computers located in the United States, any by providing any data to **up4vn.com** , you consent to the transfer of such information to the United States.
+Third Party Cookies
 
-In the event that **up4vn.com** is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, **up4vn.com** may not be able to control how your personal information is treated, transferred or used.
+Advertisers may use cookies to track your browsing history and information. Please be aware that **"up4vn"** is not responsible for these third party cookies or their use.
 
-Although we strive to protect your personal information, **up4vn.com** cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
+Webmaster SEO - Top high paying keywords?
 
- **● Process for Requesting a Refund or Replacement**
-
-(1) An email should be sent to billing@up4vn.com. This email should contain the following information: 
-
-  * (a) The **up4vn.com** order number on which the product was sold.
-  * (b) Information as to the reason why you are seeking a refund or replacement.
-  * (c) Details of any technical correspondence you may have had with us.
-
-(2) We will process the request and contact you within 5 working days.
-
-(3) If it is the request for a refund is approved, then a credit will be made to your credit card for the purchase amount of the software within 5 working days.
-
-(4) PLEASE NOTE: DO NOT SEND ANYTHING BACK TO US WITHOUT A RETURN AUTHORITY! 
+Includes: advertising, air travel, agencies, airplanes, advice, airline, airline tickets, appraisal, apple ipod, auctions, adult, automobile, aftermarket, anti virus, auction, alternative, australia, automatic, ad, ads, aol.com, bad credit, bankruptcy, billing, breast cancer, banking, budget, breast, bulk, credit card, car hire, credit report, credit, comfort, cheap airfare, car rental, computer monitor, cash, cheap, cruise, car, cars, computer software, contents, cheap flights, cancer, companies, cell phone, cheap holidays, computer, cheap flight, checking, claims, computer memory, cordless phone, computer hardware, cheap computer, casino, cheap airline, commercial, careers, contract, contacts, catalogs, cooking, cook, canada, chat, classic, collection, cam, cat, cats, credit union, domain, degree, dating, degrees, design software, discover, desktop computer, discounted, discount, downloads music, distributors, dvds, designer, database, dvd copy, downloadable, dog, dvd, deluxe, downloads, date, dns, deutschland, ebay, ebay.com, entertainment, gift, government, goggles, grants, get a, goods, gaming, go, gay, google, hire, internet, ipod mini, ipod, irs, international, lcd television, legal, lines, labs, lookup, lesbian, language, mastercard, match, microsoft office, motels, microsoft office 2003, motorola phone, money, marketing, medicare, music downloads, makers, magazines, motel, mardi gras, microsoft, meeting, microsoft word, mp3 players, marriott, mp3 audio, mp3, mp3 download, online, outlook express, ocean, pc computer, pda, purchase, pret, property, pay, parts, paid, planning, personal, premium, portable mp3 players, phone numbers, rentals, real estate, register, recruitment, ringtones, rx, receiver, radisson, ratings, rating, ringtone, reg, rca, reviews, russian, recipes, spam, ssl, stamps, sears, spain, standard, software, satellite, service, socks, solutions, spring break, stamp, spybot, sport outdoor, sale, search engine, sales, support, store, swingers, sets, search engines, swiss, secure, silver, spanien, surplus, sellers, santa, shop, smoke, scores, smoking, stuttgart, sapphire, slot, sport, sql server, sms, sheet music, songs, sp, travel insurance, trucks, travel, thomas cook, television, toshiba satellite, toys, toolbar, transfer, tool, toy, teens, tsunami, the best, trial, used cars, used, upgrade, us, usa, u2, university, voip, visa, vehicle, virus, vehicles, web hosting, work from home, whois, woodbridge, where to buy, website, westminster, wholesalers, women's, where can i buy, with, wives, white pages, woman, wallpaper, wife, Yoga, yamaha, description.
