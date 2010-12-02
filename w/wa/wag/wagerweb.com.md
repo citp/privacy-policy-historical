@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wagerweb.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512224319id_/http%3A//www.wagerweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerweb.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202083415id_/http%3A//www.wagerweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WagerWeb.com
+# Privacy Policy | Sports Betting
 
 **Copyright:** Wagerweb Privacy Policy-Standards-Codes document is based on the copyrighted Model Code for the Protection of Personal Information, CAN/CSA-Q830-95, produced by the Canadian Standards Association.
 
