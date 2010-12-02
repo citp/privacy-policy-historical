@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131230106id_/http%3A//www.wtopnews.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202011213id_/http%3A//www.wtopnews.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
 
 # Privacy Statement - wtop.com
 
@@ -13,3 +13,10 @@ _**PRIVACY STATEMENT**_
 **What Information is Collected**. There are two general types of information that can be collected as a result of your use of the Site: (1) Personally identifiable information (such as your first and last name, home or other physical address, telephone number, email address, date of birth, social security number, other identifiers that permit physical or online contact with you or any information about you collected online and maintained in personally identifiable form in combination with any of the preceding categories), and (2) aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using). 
 
 **Personally Identifiable Information.** Certain features available at the Site will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation. Some of the features may be offered by Operator, while others may be offered by third parties. (For example, you may be required to submit Personal Information in order to enter a contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site. IN ALL CASES, YOU CAN ALWAYS REFUSE TO PROVIDE PERSONAL INFORMATION, BUT THIS MAY RESULT IN DECREASED FUNCTIONALITY OF THE SITE FOR YOU AND LIMIT YOUR ABILITY TO RECEIVE INFORMATION ABOUT PRODUCTS OR SERVICES THAT MAY BE OF PARTICULAR INTEREST. In general, the use of Personal Information you choose to submit to a third party in connection with your use of the Site will be controlled by the privacy practices of the third party and not this Statement. 
+
+[ ](https://web.archive.org/web/20101202011213id_/http%3A//www.wtopnews.com%3Fsid%3D598239%26nid%3D164?nid=218&sid=634384)
+
+Awash in Poinsettias
+
+  
+
