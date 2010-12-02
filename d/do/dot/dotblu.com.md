@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotblu.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504145605id_/http%3A//townhog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotblu.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203001344id_/http%3A//townhog.com/privacy) for the most accurate reproduction.*
 
 # TownHog | privacy
 
