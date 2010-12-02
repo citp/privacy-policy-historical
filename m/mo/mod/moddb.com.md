@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602213444id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202044444id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
-# ModDB group - Mod DB
+# Privacy Policy - ModDB - Mod DB
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -39,7 +39,7 @@ All content on IndieDB is free to browse and consume. When products and services
 
 ## Our Commitment To Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. All financial transactions are protected by 128bit SSL encryption.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. All financial transactions are protected by 256bit SSL encryption.
 
 ## Our Commitment To Children's Privacy
 
@@ -53,7 +53,7 @@ You can correct factual errors in your personally identifiable information by se
 
 ## How You Can Remove Your Information
 
-You can [contact us](http://www.indiedb.com/contact) if you would like your account closed. Once we have verified your identity, we can remove all your personal details and IP on request.
+You can [contact us](http://www.moddb.com/contact) if you would like your account closed. Once we have verified your identity, we can remove all your personal details and IP on request.
 
 ## Modification of Policy
 
@@ -61,6 +61,6 @@ This policy may be modified at any time at the sole discretion of the Provider. 
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact Mod DB at [contact us](http://www.indiedb.com/contact).
+Should you have other questions or concerns about these privacy policies, please contact Mod DB at [contact us](http://www.moddb.com/contact).
 
 Last Updated: March 3, 2010
