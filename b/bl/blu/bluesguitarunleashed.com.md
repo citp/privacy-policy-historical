@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesguitarunleashed.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609074343id_/http%3A//bluesguitarunleashed.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesguitarunleashed.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202071347id_/http%3A//www.bluesguitarunleashed.com/privacy.html) for the most accurate reproduction.*
 
 # Blues Guitar Unleashed - Privacy Statment
 
@@ -53,7 +53,7 @@ As you visit and browse our Web site, the site uses cookies to differentiate you
 IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
 **Sharing and Selling Information**  
-We **do not** share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+We **do not** generally share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. We do, however, reserve the right to do so at our sole discretion.
 
 **How Can You Access and Correct Your Information?**  
 You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
