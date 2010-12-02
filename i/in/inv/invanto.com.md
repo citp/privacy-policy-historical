@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the invanto.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205033014id_/http%3A//invanto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invanto.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202143036id_/http%3A//invanto.com/page/privacy) for the most accurate reproduction.*
 
-# Invanto -
-
-### PRIVACY POLICY
-
-Last Updated: November 29, 2009
+# Privacy Policy
 
 Invanto.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -26,7 +22,7 @@ Like other Web publishers, we collect information to enhance your visit and deli
 
 Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
-We may use Personally Identifiable Information collected on Invanto.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Invanto.com and other topics we think you might find of interest. 
+We may use Personally Identifiable Information collected on Invanto.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Invanto.com and other topics we think you might find of interest.
 
 Personally Identifiable Information collected by Invanto.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
@@ -68,8 +64,8 @@ Governing law
 
 **
 
-This policy and the use of this Site are governed by North Carolina law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Charlotte. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this Site are governed by Georgia law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Georgia. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Charlotte, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Georgia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
-Invanto.com is controlled, operated and administered entirely within North Carolina. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Invanto.com is controlled, operated and administered entirely within Georgia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
