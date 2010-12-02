@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentior.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519010950id_/http%3A//contentior.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentior.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202082346id_/http%3A//contentior.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
