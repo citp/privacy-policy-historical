@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmovies.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402095710id_/http%3A//xmovies.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmovies.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202145946id_/http%3A//xmovies.com/info/privacy) for the most accurate reproduction.*
 
 # X Movies - Download and Watch Over 2500+ Porn DVDs
 
