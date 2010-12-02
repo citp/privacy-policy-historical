@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416133958id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202071537id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement: Customer Service: Your Electronic Warehouse
 
 Your Electronic Warehouse has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)**.
 
@@ -58,16 +58,3 @@ If you have any questions about this privacy statement, the practices of this si
 Customer Service
 
 Your Electronic Warehouse 2828 Broadway Quincy, IL 62301 (217) 224-6171 [customerservice@4electronicwarehouse.com](mailto:customerservice@4electronicwarehouse.com)
-
-Questions? Call us toll-free 1-866-224-6171.  
-
-
-  
-[](https://web.archive.org/brands/bose)| [](https://web.archive.org/brands/monster)| [](https://web.archive.org/brands/pioneer)| [](https://web.archive.org/brands/niles)| [](https://web.archive.org/brands/yamaha)| [](https://web.archive.org/brands/boston-acoustics)| [](https://web.archive.org/brands/shure)| [](https://web.archive.org/brands/sennheiser) | [More...](https://web.archive.org/brand.php)  
----|---|---|---|---|---|---|---|---  
-[ ](http://www.4electronicwarehouse.com/service/payment-options.html) |  [ ](http://www.4electronicwarehouse.com/blog/your-electronic-warehouse-wins-bizrate-circle-of-excellence-award.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html) |  [ ](http://www.pricegrabber.com/rating_getreview.php/retid=469) |  [ ](https://www.scanalert.com/RatingVerify?ref=www.4electronicwarehouse.com)   
-[ ](http://www.bbbonline.org/cks.asp?id=1060307151215)   
-|  [ ](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/) |  [ ](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-included-in-internet-retailers-hot-100-best-retail-websites/)  
----|---|---|---|---|---|---  
-  
-
