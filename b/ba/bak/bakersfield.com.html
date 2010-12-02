@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2010-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100115050712id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2010-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101202074914id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<base href="http://www.bakersfield.com/z4m_page_anchor/privacy_policy/index.html/index.html">
-
             
                 
     <title>
@@ -14,11 +12,14 @@
          
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
             
-            <!-- Google Domain Verification -->
+            <!-- Google Domain Verification --> 
             <meta name="verify-v1" content="QT24KC+JFryH2YJ3/Y/uXq+saKEy82gI1rHTQj+E2ew=">
             
             <!-- Live Search Domain Verification -->
             <meta name="msvalidate.01" content="0464E946EC169C02B338177D853A0F0A">
+            
+            <!-- Yahoo Domain Verification -->
+            <meta name="y_key" content="1a6c1411a568639a">
             
             
                 <meta name="description" content="Bakersfield.com is the online news site of The Bakersfield Californian, serving Bakersfield and greater Kern County with news, classifieds, real estate, jobs, autos, shopping, weather, calendar, events, blogs, and local search.">
@@ -37,123 +38,69 @@
          
             
                 
-    <script type="text/javascript" src="http://static.tbc.zope.net/javascript/prototype.js"></script>
-    <script type="text/javascript" src="http://static.tbc.zope.net/javascript/effects.js"></script>
-    <script type="text/javascript" src="http://static.tbc.zope.net/javascript/swfobject.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
     <script type="text/javascript"><!--
-        window.doSearch = function() {
-            var searchform = $('search');
-            
-            var createHiddenInput = function(name, value) {
-                var element = document.createElement('input');
-                element.setAttribute('type', 'hidden');
-                element.setAttribute('name', name);
-                element.setAttribute('value', value);
-                return element;
-            }
-            
-            var removeGSAInputs = function() {
-                ["client", "proxystylesheet", "output", "getfields", "filter"].each(function(name) {
-                    $(searchform[name]).remove();
-                });
-            };
-            
-            var site = null;
-            $$('ul#site_choice li input[name=site]').each(function(i) {
-                if ($F(i)) {
-                    site = $F(i);
-                }
-            });
-            
-            switch (site) {
-                case 'jobs':
-                    searchform.action = "http://hotjobs.yahoo.com/job-search";
-                    $('keywords').name = 'kw';
-                    
-                    searchform.appendChild(createHiddenInput('metro_search', '2'));
-                    searchform.appendChild(createHiddenInput('locations', 'Bakersfield, CA'));
-                    searchform.appendChild(createHiddenInput('partner', 'baker'));
-                    
-                    removeGSAInputs();
-                    
-                    break;
-                
-                case 'homes':
-                    searchform.action = "http://bakersfieldhomes.trulia.com/validate.php";
-                    $('keywords').name = "search";
-                    removeGSAInputs();
-                    
-                    break;
-                
-                case 'web':
-                    searchform.action = "http://ysearch.bakersfield.com/";
-                    removeGSAInputs();
-                    
-                    break;
-                
-                default:
-                    break;
-            }
-        };
+	window.doSearch = function() {
+	    var createHiddenInput = function(name, value) {
+		var element = document.createElement('input');
+		element.setAttribute('type', 'hidden');
+		element.setAttribute('name', name);
+		element.setAttribute('value', value);
+		return element;
+	    }
+	    
+	    var site = $('#site_choice li input[name=s]:checked').val();
+	    
+	    switch (site) {
+		case 'jobs':
+		    $('#search_v2').attr("action", "http://hotjobs.yahoo.com/job-search");
+		    $('#search_v2 #keywords').attr("name", "kw");
+		    
+		    searchform.appendChild(createHiddenInput('metro_search', '2'));
+		    searchform.appendChild(createHiddenInput('locations', 'Bakersfield, CA'));
+		    searchform.appendChild(createHiddenInput('partner', 'baker'));
+		    
+		    break;
+		
+		case 'homes':
+		    $('#search_v2').attr("action", "http://www.bakersfield.com/homehunter");
+		    $('#search_v2 #keywords').remove();
+		    
+		    break;
+		
+		case 'web':
+		    $('#search_v2').attr("action", "http://ysearch.bakersfield.com/");
+		    
+		    break;
+		
+		default:
+		    break;
+	    }
+	};
     --></script>
         
     <script type="text/javascript"><!--
-        Event.observe(window, "load", function() {
-            var default_overs = $A($('navigation').getElementsByClassName("over"));
+        $(function() {
+            var default_overs = $('#navigation .over');
             
-            $('navigation').childElements().each(function(child) {
-                Event.observe(child, "mouseover", function() {
-                    default_overs.each(function (element) {
-                        element.removeClassName("over");
-                    });
-                    
-                    this.addClassName("over");
-                });
-                
-                Event.observe(child, "mouseout", function() {
-                    this.removeClassName("over");
-                    
-                    default_overs.each(function (element) {
-                        element.addClassName("over");
-                    });
-                });
+            $('#navigation > li').mouseover(function() {
+                default_overs.removeClass("over");
+                $(this).addClass("over");
+            }).mouseout(function() {
+                $(this).removeClass("over");
+                default_overs.addClass("over");
             });
         });
     --></script>
 
     <script type="text/javascript"><!--
-        Event.observe(window, "load", function() {
-            window.switchTopAds = function (adType) {
-                if (adType == "jobs") {
-                    $('topAds').className = "jobs";
-                    $('jobs_tab').className = "";
-                    $('autos_tab').className = "";
-                    $('jobs').style.display = "block";
-                    $('autos').style.display = "none";
-                }
-                else if (adType == "autos") {
-                    $('topAds').className = "autos";
-                    $('jobs_tab').className = "unselected";
-                    $('autos_tab').className = "selected";
-                    $('jobs').style.display = "none";
-                    $('autos').style.display = "block";
-                }
-            };
-            
+        $(function() {
             function selectTab(tab, ads, tabname, listname) {
-                $$("a").each(function(link) {
-                    if (link.className == tabname + " selected") {
-                        link.className = tabname;
-		    }
-                });
-                tab.className = tabname + " selected";
+                $("a."+tabname+".selected").removeClass("selected");
+                $(tab).addClass("selected");
                 
-                $$("ul").each(function(list) {
-                    if (list.className == listname + " selected") {
-                        list.className = listname;
-		    }
-                });
-                $(ads).className = listname + " selected";
+                $("ul."+listname+".selected").removeClass("selected");
+                $("#"+ads).addClass("selected");
             };
             
             window.tempTopAds = function (tab, ads) {
@@ -217,11 +164,43 @@
     --></script>
 
                     
-                    <!-- hide position 2
-                    <tal:command tal:define='slot_name string:Position2; ad_size_list string:"300x250"; ad_delivery_mode string:ipbtf'>
-                        <metal:macro use-macro="main_view/macros/setup_apt_slot" />
-                    </tal:command>
-                    -->
+		    
+                    
+                        
+    <script type="text/javascript"><!--
+        yld_mgr.slots.Position2 = {};
+        yld_mgr.slots.Position2.ad_size_list = ["300x250"];
+        yld_mgr.slots.Position2.ad_delivery_mode = "ipany";
+        yld_mgr.slots.Position2.content_type_list = [];
+        yld_mgr.slots.Position2.cstm_content_cat_list = [];
+    --></script>
+
+                    
+		    
+                    
+                        
+    <script type="text/javascript"><!--
+        yld_mgr.slots.Position3 = {};
+        yld_mgr.slots.Position3.ad_size_list = ["300x60"];
+        yld_mgr.slots.Position3.ad_delivery_mode = "ipany";
+        yld_mgr.slots.Position3.content_type_list = [];
+        yld_mgr.slots.Position3.cstm_content_cat_list = [];
+    --></script>
+
+                    
+		    
+		    
+			
+    <script type="text/javascript"><!--
+        yld_mgr.slots.pencil = {};
+        yld_mgr.slots.pencil.ad_size_list = ["940x30"];
+        yld_mgr.slots.pencil.ad_delivery_mode = "ipatf";
+        yld_mgr.slots.pencil.content_type_list = [];
+        yld_mgr.slots.pencil.cstm_content_cat_list = [];
+    --></script>
+
+		    
+		    
                 
                 
                 
@@ -233,60 +212,74 @@
         </head>
         
         <body id="">
+	    
+		
+		    
+    <script type="text/javascript"><!--
+        yld_mgr.place_ad_here("pencil");
+    --></script>
+
+		
+	    
+            
+            
             
             <div id="container">
               
                 
                     
     <div id="header">
+<div style="position:absolute; z-index:2; bottom:35px; right:18px;">
+	<ul style="padding:0px;">
+		<li style="display:inline;"><a href="http://www.bakersfield.com/mobile"><img style="width:30px; height:30px;" alt="mobile" src="http://static.tbc.zope.net/images/main_layout/mobileicon.png"></a></li>
+		<li style="display:inline;"><a href="http://www.bakersfield.com/rss"><img style="width:30px; height:30px;" alt="rss" src="http://static.tbc.zope.net/images/main_layout/rssicon.png"></a></li>
+		<li style="display:inline;"><a href="http://www.bakersfield.com/newsletters"><img style="width:30px; height:30px;" alt="newsletters" src="http://static.tbc.zope.net/images/main_layout/mailicon.png"></a></li>
+		<li style="display:inline;"><a target="_blank" href="http://www.facebook.com/BakersfieldCalifornian"><img style="width:30px; height:30px;" alt="facebook" src="http://static.tbc.zope.net/images/main_layout/fbicon.png"></a></li>
+		<li style="display:inline;"><a target="_blank" href="http://www.twitter.com/Bakersfieldcali"><img style="width:30px; height:30px;" alt="twitter" src="http://static.tbc.zope.net/images/main_layout/twittericon.png"></a></li>
+	</ul>
+</div>
         <h1>
             <a href="http://www.bakersfield.com/">Bakersfield.com</a>: Kern County news, events, classifieds, shopping, &amp; search
         </h1>
         
-        <form id="search" action="http://gsearch.bakersfield.com/search" method="get" onsubmit="doSearch()">
-            <ul id="site_choice">
-                <li>
-                    <input id="radio_news" type="radio" name="site" value="news" checked="checked">
-                    <label id="label_news" for="radio_news" class="active">News</label>
-                </li>
-                <li>
-                    <input id="radio_jobs" type="radio" name="site" value="jobs">
-                    <label id="label_jobs" for="radio_jobs">Jobs</label>
-                </li>
-                <li>
-                    <input id="radio_homes" type="radio" name="site" value="homes">
-                    <label id="label_homes" for="radio_homes">Homes</label>
-                </li>
-                <li>
-                    <input id="radio_web" type="radio" name="site" value="web">
-                    <label id="label_web" for="radio_web">Web</label>
-                </li>
-                <li>
-                    <a id="more_link" href="http://gsearch.bakersfield.com/search?client=default_frontend&amp;proxystylesheet=default_frontend&amp;proxycustom=%3CADVANCED/%3E">more...</a>
-                </li>
-            </ul>
-            
-            <input type="text" id="keywords" name="q">
-            
-            <input type="hidden" name="client" value="default_frontend">
-            <input type="hidden" name="proxystylesheet" value="default_frontend">
-            <input type="hidden" name="output" value="xml_no_dtd">
-            <input type="hidden" name="getfields" value="thumbnail_url">
-            <input type="hidden" name="filter" value="p">
-            
-            <input type="submit" id="search_button" value="Search">
-        </form>
-        <script type="text/javascript"><!--
-            $$('ul#site_choice li label').each(function(i) {
-                i.observe('click', function(e) {
-                    $$('ul#site_choice li label').invoke('removeClassName', 'active');
-                    i.addClassName('active');
-                });
-            });
-        --></script>
+        <form id="search_v2" action="http://search.bakersfield.com/" method="get" onsubmit="doSearch()">
+	    <ul id="site_choice">
+		<li>
+		    <input id="radio_news" type="radio" name="s" value="news" checked="checked">
+		    <label id="label_news" for="radio_news" class="active">News</label>
+		</li>
+		<li>
+		    <input id="radio_jobs" type="radio" name="s" value="jobs">
+		    <label id="label_jobs" for="radio_jobs">Jobs</label>
+		</li>
+		<li>
+		    <input id="radio_homes" type="radio" name="s" value="homes">
+		    <label id="label_homes" for="radio_homes">Homes</label>
+		</li>
+		<li>
+		    <input id="radio_web" type="radio" name="s" value="web">
+		    <label id="label_web" for="radio_web">Web</label>
+		</li>
+		<li>
+		    <input id="radio_obits" type="radio" name="s" value="obituaries">
+		    <label id="label_obits" for="radio_obits">Obits</label>
+		</li>
+	    </ul>
+	    <input type="text" id="keywords" name="q">
+	    <input type="submit" id="search_button" value="Search">
+	</form>
+	<script type="text/javascript"><!--
+	    $('ul#site_choice li label').each(function() {
+		$(this).click(function() {
+		    $('ul#site_choice li label').removeClass('active');
+		    $(this).addClass('active');
+		});
+	    });
+	--></script>
                 
         <div id="weather">
-            <script type="text/javascript" src="http://static.tbc.zope.net/javascript/current_conditions.js"></script>
+            
+<p class="current_conditions nt_hazy"><strong>Bakersfield Weather:</strong> <a href="http://weather.bakersfield.com/US/CA/Bakersfield.html">Haze, 43°</a></p>
             <p class="five_day_forecast">
                 <a href="http://weather.bakersfield.com/US/CA/Bakersfield.html">Five day forecast</a>
             </p>
@@ -329,16 +322,14 @@
             <li class="entertainment"><a href="http://www.bakersfield.com/entertainment">Entertainment</a>
                 <ul>
                     <li><a href="http://www.bakersfield.com/entertainment/local">Local Entertainment</a></li>
-                    <li><a href="http://people.bakersfield.com/home/ViewCategory/499/">Events</a></li>
+                    <li><a href="http://www.bakersfield.com/contests">Contests</a></li>
+                    <li><a href="http://www.kernevents.com">Events</a></li>
                     <li class="last_child"><a href="http://people.bakersfield.com/home/SearchBusinesses/Category_1">Dining</a></li>
                 </ul>
             </li>
             <li class="images"><a href="http://www.bakersfield.com/images">Images</a>
                 <ul>
-                    <li><a href="http://www.bakersfield.com/snap">Snap!</a></li>
-                    <li><a href="http://www.bakersfield.com/photography">Audio Slideshows</a></li>
                     <li><a href="http://www.bakersfield.com/multimedia">Video</a></li>
-                    <li><a href="http://www.bakersfield.com/maps">Maps</a></li>
                     <li><a href="http://www.bakersfield.com/youreport">You Report</a></li>
                     <li><a href="http://people.bakersfield.com/home/Blog/mobile">Mobile Pictures</a></li>
                     <li class="last_child"><a href="http://bakersfield.mycapture.com/mycapture/index.asp">Bakersfield Pictures</a></li>
@@ -352,7 +343,7 @@
                     <li><a href="http://people.bakersfield.com/home/RecentBlogComments">New Comments</a></li>
                     <li><a href="http://people.bakersfield.com/home/BlogsAToZ">All Blogs</a></li>
                     <li><a href="http://www.bakersfield.com/youreport">You Report</a></li>
-                    <li class="last_child"><a href="http://www.bakersfield.com/applause">Applause</a></li>
+                    <li class="last_child"><a href="http://www.bakersfield.com/applause">Celebrations</a></li>
                 </ul>
             </li>
             <li class="inside_guide">
@@ -366,15 +357,15 @@
                 </ul>
             </li>
             <li class="classifieds">
-                <a href="http://people.bakersfield.com/home/ViewClassifieds">Classifieds</a>
+                <a href="http://www.bakersfieldbuyandsell.com">Classifieds</a>
                 <ul>
-                    <li><a href="http://www.bakersfield.com/placeyourad">Place Your Ad</a></li>
+                    <li><a href="http://www.bakersfield.com/placeyourad">Place An Ad</a></li>
                     <li><a href="http://www.bakersfield.com/jobs">Jobs</a></li>
                     <li><a href="http://www.bakersfielddrive.com">Drive</a></li>
-                    <li><a href="http://www.bakersfield.com/homes">Homes</a></li>
+                    <li><a href="http://www.bakersfieldhomehunter.com">Homes</a></li>
+                    <li><a href="http://www.bakersfield.com/homehunter/rentals">Rentals</a></li>
                     <li><a href="http://people.bakersfield.com/home/ClassifiedCategory/63">Pets</a></li>
                     <li><a href="http://people.bakersfield.com/home/ClassifiedCategory/61">Merchandise</a></li>
-                    <li class="last_child"><a href="http://www.bakersfield.com/maps">Maps</a></li>
                 </ul>
             </li>
         </ul>
@@ -493,141 +484,21 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
                 
                     <div id="right">
                         
-     
-          
-               
-          
-          
-    <script type="text/javascript" src="http://static.tbc.zope.net/javascript/accordion.js"></script>    
-    <script type="text/javascript"><!--
-        Event.observe(window, "load", function() {
-            function changeStyle(id, value, text, color) {
-                var element = $(id);
-                if (element.value == value) {
-                    element.value = text;
-                    element.style.color = color;
-                }
-            };
-            
-            window.inputFocus = function() {
-                changeStyle("searchtext", "Search Homes", "", "#000000");
-            };
-            window.inputBlur = function() {
-                changeStyle("searchtext", "", "Search Homes", "#cccccc");
-            };
-            window.submitClassifiedsForm = function() {
-                changeStyle("searchtext", "Search Homes", "Bakersfield, CA", "#000000");
-            };
-            
-            window.wheelsfocus = function() {
-                changeStyle("wheelskeywords", "Search Wheels", "", "#000000");
-            };
-            window.wheelsblur = function() {
-                changeStyle("wheelskeywords", "", "Search Wheels", "#cccccc");
-            };
-            window.submitWheels = function() {
-                changeStyle("wheelskeywords", "Search Wheels", "", "#000000");
-            };
-            
-            window.classifiedsfocus = function() {
-                changeStyle("classkeywords", "Search Classifieds", "", "#000000");
-            };
-            window.classifiedsblur = function() {
-                changeStyle("classkeywords", "", "Search Classifieds", "#cccccc");
-            };
-            window.submitClassifiedgeneral = function() {
-                changeStyle("classkeywords", "Search Classifieds", "", "#000000");
-            };
-            
-            var bottomAccordion = new accordion('vertical_container');
-	    bottomAccordion.activate($$('#vertical_container .accordion_toggle')[3]);
-        });
-    --></script>
     
-    <div id="classifieds_box">
-	<div id="vertical_container">   
-            <div class="containerbox">
-                <div class="homes_classifieds_box">
-                    <a href="http://www.bakersfield.com/homes"><span>Homes : Thousands of MLS listings; alerts</span></a>
-                </div>
-            </div>
-            <div class="accordion_toggle"></div>
-	    <div class="accordion_content">   
-  		<div class="classifieds_box">
-                    <div class="classifieds_search">
-                        <form action="http://bakersfieldhomes.trulia.com/validate.php" method="get" onsubmit="submitClassifiedsForm()">
-                            <input id="searchtext" name="search" onfocus="inputFocus()" onblur="inputBlur()" type="text" value="Search Homes">
-                            <input type="submit" value="Search">
-                        </form>
-                        <span><a href="http://bakersfieldhomes.trulia.com/CA/Bakersfield/">Advanced</a></span>
-                    </div>
-                    <div class="marketplace_links"><a href="http://bakersfieldhomes.trulia.com/CA/Bakersfield/#for_sale/Bakersfield,CA/14_pr/">Just Reduced</a> | <a href="http://bakersfieldhomes.trulia.com/CA/Bakersfield/#for_sale/Bakersfield,CA/foreclosure_lt/">Foreclosures</a> | <a href="http://www.digitalmediacommunications.com/cgi-bin/project/selfserve/bakersfield/retail/movie.pl?id=all">Videos</a></div>
-                </div>
-            </div>
-            
-            <div class="containerbox">
-                <div class="jobs_classifieds_box_p">
-                    <a href="http://www.bakersfield.com/jobs"><span>Jobs : Post your resume; email alerts; job tips</span></a>
-                </div>
-            </div>
-            <div class="accordion_toggle" style="background:url(http://static.tbc.zope.net/images/marketplace_box/jobs_normarrow.jpg) top right no-repeat;"></div>
-	    <div class="accordion_content">
-                <div class="classifieds_box">
-                    <div class="marketplace_links">
-                        <a href="http://www.digitalmediacommunications.com/bakersfield/employment/index_jobs.html">Job Videos</a>
-                    </div>
-                </div>
-            </div>
-    
-            <div class="containerbox">
-                <div class="wheels_classifieds_box">
-                    <a href="http://www.bakersfielddrive.com"><span>Drive: Autos, pickups, recreation and more</span></a>
-                </div>
-            </div>
-            <div class="accordion_toggle"></div>
-	    <div class="accordion_content">   
-                <div class="classifieds_box">
-                    <div class="classifieds_search">
-                        <center><span><a href="http://www.bakersfielddrive.com/car-search?type=new">Search New</a></span> | <span><a href="http://www.bakersfielddrive.com/car-search?type=used">Search Used</a></span></center>
-                    </div>
-                    <div class="marketplace_links">
-                        <a href="http://www.bakersfield.com/placeyourad">Place a Classified Ad</a>
-                    </div>
-                </div>
-            </div>
-      
-            <div class="containerbox">
-                <div class="classifieds_classifieds_box">
-                    <a href="http://people.bakersfield.com/home/ViewClassifieds"><span>Classifieds: Merchandise, furniture and more</span></a>
-                </div>
-            </div>
-            <div class="accordion_toggle"></div>
-    	    <div class="accordion_content">   
-                <div class="classifieds_box">
-                    <div class="classifieds_search">
-                        <form method="get" name="bako_searchbar" action="http://people.bakersfield.com/home/ClassifiedListings" onsubmit="submitClassifiedgeneral()" id="classifiedSearchBox">
-                            <input id="classkeywords" name="Term_" onfocus="classifiedsfocus()" onblur="classifiedsblur()" type="text" value="Search Classifieds">
-                            <input type="submit" value="Search">
-                        </form>
-                        <span><a href="http://people.bakersfield.com/home/ViewClassifieds">View All</a></span>
-                    </div>
-                    <div class="marketplace_links">
-                        <a href="http://www.bakersfield.com/placeyourad">Place an Ad</a> | <a href="http://www.bakodeals.com">BakoDeals</a> | <a href="http://www.bakersfield.com/advertise">Advertise with Us</a>
-                    </div>
-                </div>
-            </div>
-        </div>  <!-- close vertical_container -->       					
-    </div> <!-- close classifieds_box -->
-    <script type="text/javascript"><!--
-	var verticalAccordions = $$('.accordion_toggle');
-	verticalAccordions.each(function(accordion) {
-	    $(accordion.next(0)).setStyle({
-                height: '0px'
-	    });
-	});
-    --></script>
+        <!--<tal:parameters define="home_ad context/properties/section_title">
+            <tal:command condition="python: home_ad == 'home'">
+                <metal:macro use-macro="main_view/macros/mediumbox_homepage" />
+            </tal:command>
+	</tal:parameters>-->
+	
+     <div class="ad_box">
+          <p>
+              <iframe frameborder="0" height="140" marginheight="0" width="300" scrolling="no" src="http://dailydeal.bakersfield.com/widgets/300x140"></iframe>
+          </p>
 
-          
+     </div>
+
+	
      <div class="ad_box">
           <h2>Advertisement</h2>
           <p>
@@ -641,14 +512,35 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
           </p>
      </div>
 
-          
-               
+	    
+	
+     <div class="ad_box">
+          <h2>Advertisement</h2>
+          <p>
                
                     
-    <p>&nbsp;</p>
+    <script type="text/javascript"><!--
+        yld_mgr.place_ad_here("Position3");
+    --></script>
+
+               
+          </p>
+     </div>
+
+	<!-- <metal:macro use-macro="main_view/macros/mp_box" /> -->
+	<!--<tal:parameters define="news_ad context/properties/active_tab">
+	    <tal:command condition="python: news_ad == 'news'">
+		<metal:macro use-macro="main_view/macros/position_two" />
+	    </tal:command>
+	</tal:parameters>-->
+	
+	    
+	    
+		
+    <p></p>
     <script src="http://people.bakersfield.com/home/ExternalAd-/8" type="text/javascript"></script>
 
-                    <style type="text/css"><!--
+		<style type="text/css"><!--
 #widget_16 * {
   font-family: Calibri,"Gill Sans","Gill Sans MT","Myriad Pro",Myriad,"DejaVu Sans Condensed","Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 12px;
@@ -711,34 +603,208 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
   <span class="subhead">from the last week</span>
 </div>
 <ol id="widget_16-data">
-  <li id="widget_16-entry_148354" class="first">
-    <img class="thumbnail" src="http://media.bakersfield.com/repository/ff/09/b64a47-93b22bc0188df4ac_100x75.jpg">
-    <a class="title" href="http://www.bakersfield.com/news_alerts/x113239145/Crisp-in-laws-charged-with-wire-fraud?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Crisp in-laws admit to wire fraud</a>
-    <p class="summary">The father- and mother-in-law of disgraced former Bakersfield Realtor David Crisp have signed plea agreements with federal prosecutors admitting they are guilty of felony wire fraud and other charges, court documents available Thursday evening show.</p>
+  <li id="widget_16-entry_497239" class="first">
+    <img class="thumbnail" src="http://media.bakersfield.com/images/56/16/2B70-059b54d16fc7aa05_100x75.jpg">
+    <a class="title" href="http://www.bakersfield.com/news/local/x35841525/Padre-apologetic-after-turning-away-newlyweds?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Padre apologetic after turning away newlyweds</a>
+    <p class="summary">A young newlywed couple turned away by the Padre Hotel on their wedding night have been invited to stay at the vintage downtown hotel at a later date -- on the hotel's dime.</p>
   </li>
-  <li id="widget_16-entry_155968">
-    <a class="title" href="http://www.bakersfield.com/news/local/x113239575/Detentions-deputy-charged-with-having-sex-with-inmate?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Detentions deputy charged with having sex with inmate</a>
-    <p class="summary">A heavily tattooed Death Row inmate, described by a prosecutor as "a silver-tongued devil" who could manipulate people, was allegedly having sex with a veteran, female detention officer in the jail, the Kern County Sheriff's Department said Monday.</p>
+  <li id="widget_16-entry_522817">
+    <img class="thumbnail" src="http://media.bakersfield.com/images/6C/DF/A440-5a622ae3e05da77c_100x75.jpg">
+    <a class="title" href="http://www.bakersfield.com/news/local/x1263267070/Bakersfield-police-officer-shot-in-leg-while-on-duty?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Bakersfield police officer shot in leg while on duty</a>
+    <p class="summary">A Bakersfield police officer was shot in the leg early Sunday after a birthday party went wrong in south Bakersfield.</p>
   </li>
-  <li id="widget_16-entry_152324">
-    <a class="title" href="http://www.bakersfield.com/news/local/x113239456/Ultralight-plane-crash-kills-2?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Two die in ultralight plane crash near Lake Isabella</a>
-    <p class="summary">Two Bodfish residents were killed Saturday when an ultralight plane crashed in the Lake Isabella area shortly after 1 p.m. Authorities said two people were on board -- Donald Wright, 31, and Athena Moreno, 18 -- and that both were dead when officials arrived.</p>
+  <li id="widget_16-entry_510023">
+    <a class="title" href="http://www.bakersfield.com/news/local/x1263266804/McCarthy-backs-bill-to-slash-rail-project?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">McCarthy backs bill to slash rail project</a>
+    <p class="summary">Local support for the California High-Speed Rail project suffered a blow Tuesday as Rep. Kevin McCarthy, R-Bakersfield, came out in favor of a bill that would take back $2 billion in federal money already set aside to build the proposed 800-mile system linking Los Angeles and San Francisco through the Central Valley.</p>
   </li>
-  <li id="widget_16-entry_148734">
-    <img class="thumbnail" src="http://media.bakersfield.com/repository/b6/f3/e78399-0d816a79fac13b95_100x75.jpg">
-    <a class="title" href="http://www.bakersfield.com/news/business/economy/x113239203/Wavelengths-surf-shop-to-close-with-possibility-of-reopening?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Wavelengths surf shop to close with possibility of reopening</a>
-    <p class="summary">Even as Wavelengths manager and co-owner Chad Hoggard faces the closure of the iconic local store where he's worked half his life, he's holding onto his usual upbeat spirit.</p>
+  <li id="widget_16-entry_512757">
+    <a class="title" href="http://www.bakersfield.com/news/local/x716460601/Customers-remember-bakery-owner-found-dead?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Customers remember bakery owner found dead</a>
+    <p class="summary">Customers of a small bakery and market in south Bakersfield couldn't believe that anyone would kill its owner, who they described as a friendly woman with "the best maple bars in town" and a caring person who gave clothes to people in need.</p>
   </li>
-  <li id="widget_16-entry_144585">
-    <img class="thumbnail" src="http://media.bakersfield.com/repository/d7/f1/819791-eb6a0163852a5868_100x75.jpg">
-    <a class="title" href="http://www.bakersfield.com/news/local/x113238874/Meadows-Field-evacuated?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">Substance that prompted Meadows Field evacuation turns out to be honey</a>
-    <p class="summary">A massive investigation at Meadows Field Airport involving hazardous materials experts, a bomb squad and the temporary evacuation and closure of the airport was all triggered by some bottles of honey.</p>
+  <li id="widget_16-entry_525387">
+    <a class="title" href="http://www.bakersfield.com/news/local/x716460859/School-award-idea-stirs-debate?utm_source=widget_16&amp;utm_medium=popular_entries_widget&amp;utm_campaign=synapse">School award idea stirs debate</a>
+    <p class="summary">When Charlie Pike's daughters came home from Thorner Elementary School last week with a wristband on, he asked them what they were for.</p>
   </li>
 </ol>
 <div class="footer"></div>
 </div>
-               
-          
+	    
+	    
+
+        <style type="text/css">
+
+	    #container #right #kernevents_widget {
+		min-height:300px; 
+		width:300px;
+		margin-bottom:15px;
+		background-color:#f1f1f1;
+		border-radius:10px; 
+		-webkit-border-radius:10px; 
+		-moz-border-radius:10px; 
+		behavior:url(http://static.tbc.zope.net/css/border-radius.htc);
+	    }
+
+	    #container #right #kernevents_widget .content {
+		padding:10px;
+	    }
+
+	    #container #right #kernevents_widget .headerlinks {
+		float:right;
+		margin:10px 0px 0px 0px;
+	    }
+
+	    #container #right #kernevents_widget .headerlinks a {
+		font-family: Tahoma, Geneva, sans-serif; 
+		font-size:11px; 
+		color:#056cb5; 
+		font-weight:bold;
+		color:#056cb5; 
+		text-decoration:none;
+	    }
+
+	    #container #right #kernevents_widget .headerlinks a:hover {
+		color:#79c7eb; 
+		text-decoration:none;
+	    }
+
+	    #container #right #kernevents_widget h3.subhead {
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size:15px;
+		font-weight:normal;
+		float:left;
+		margin: 8px 0px 5px 10px;
+	    }
+
+            #container #right #events_widget_1 ol {
+		background-color:#FFF;
+		min-height:200px;
+		padding:0px 5px 5px 5px;
+		margin:0px;
+		border-radius:10px; 
+		-webkit-border-radius:10px; 
+		-moz-border-radius:10px;
+		behavior:url(http://static.tbc.zope.net/css/border-radius.htc);
+	    }
+
+            #container #right #events_widget_1 ul {
+                padding: 2px 5px 5px 5px;
+            }
+            
+            #container #right #events_widget_1 li {
+                list-style: none;
+		font-family: Tahoma, Geneva, sans-serif;
+            }
+
+            #container #right #events_widget_1 .event {
+		padding-bottom:0px;
+		border-bottom:1px dotted #CCC;
+            }
+
+            #container #right #events_widget_1 .event-time {
+                float: right;
+            }
+
+            #container #right #events_widget_1 .event-title h3 {
+		margin:5px 0px 5px 0px;
+            }
+
+            #container #right #events_widget_1 .event-title h3 a {
+		font-size:14px;
+                color:#056cb5;
+		text-decoration:none;
+            }
+
+            #container #right #events_widget_1 .event-title h3 a:hover {
+                color:#79c7eb;
+            }
+
+            #container #right #events_widget_1 .event-venue {
+		font-size:11px;
+            }
+
+            #container #right #events_widget_1 .event-time {
+		font-size:11px;
+		font-weight:bold;
+            }
+
+	    #container #right #play
+	    {
+	  	display: block;
+  		width: 16px;
+  		height: 16px;
+  		background: url("http://static.tbc.zope.net/images/kernevents/kevents-widgetplay.png") no-repeat 0 0;
+
+	    }
+
+	    #container #right #play:hover
+	    { 
+  		background-position: 0 -16px;
+	    }
+
+	    #container #right #play span
+	    {
+  		display: none;
+	    }
+
+        </style>
+
+<div id="kernevents_widget">
+
+	<div class="content">
+
+<p style="margin:0px; text-align:center;">
+<a href="http://www.kernevents.com"><img style="width:250px;" border="0" src="http://static.tbc.zope.net/images/kernevents/kevents-widgetlogo.png" alt="KernEvents"></a>
+</p>
+
+<h3 class="subhead"><strong style="font-size:17px;">Today's</strong> Events</h3>
+
+<div style="clear:both;"></div>
+
+
+        <div id="events_widget_1">
+            <ol class="events">
+            </ol>
+	    <script type="text/javascript">
+            <!--
+                $(function() {
+                    $.ajaxSetup({jsonpCallback: 'events_widget_1', cache: false});
+                    $.getJSON("http://rss2json.bakersfield.com/?url="+escape("http://bakersf.planetdiscover.com/events4/feeds/events_rss.jsp?catIds=101000,107000,108000,112000&startDate=today")+"&callback=?", function(data) {
+                        $.each(data.entries, function(ndx) {
+                            if (ndx > 6) return false;
+			    var output = [];
+                            output.push('<li class="event"><ul>');
+                            output.push('<li class="event-title"><h3><a href="'+this.link.replace("bakersf.planetdiscover.com", "www.kernevents.com")+'">'+this.title+'</a></h3></li>');
+                            list_items = /<ul>\s*<li>([^<]+)<\/li>\s*<li>([^<]+)<\/li>\s*<li>([^<]+)<\/li>/.exec(this.summary);
+                            time = /\d+:\d+\s*[ap]\.m\.(\s*-\s*\d+:\d+\s*[ap]\.m\.)?/.exec(list_items[1])
+                            if (time != null) {
+                                output.push('<li class="event-time">'+time[0]+'</li>');
+                            }
+                            output.push('<li class="event-venue">'+list_items[2]+'</li>');
+                            output.push('</ul></li>');
+                            $("#events_widget_1 .events").append(output.join('\n'));
+                        });
+                    });
+                });
+            -->
+	   </script>
+
+        </div>
+
+<div class="headerlinks" style="padding-left:10px; float:left;"><a href="http://search.kernevents.com/localevents/add_event/">post an event</a></div>
+
+
+<div class="headerlinks"><a id="play" href="http://www.kernevents.com" title="moreevents"><span>More Events</span></a></div>
+<div class="headerlinks" style="padding-right:5px;"><a href="http://www.kernevents.com">more events</a></div>
+
+<div style="clear:both;"></div>
+
+	</div>
+
+</div>
+
+
+
+	
      
 
                     </div>
@@ -752,9 +818,9 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
                 <div id="sitemapheader">Site map</div>
                 <div class="listcolumn"><!-- one -->
                     <h4 style="margin:0px;">News</h4>
-                    <a href="http://www.bakersfield.com/news/">News</a><br>
                     <a href="http://www.bakersfield.com/news/local">Local News</a><br>
                     <a href="http://www.bakersfield.com/news/sports">Sports</a><br>
+                    <a href="http://www.bakersfield.com/news/columnists">Columnists</a><br>
                     
                     <a href="http://people.bakersfield.com/home/DynamicPage/42">Staff Blogs</a><br>
                     <span class="indent"><a href="http://people.bakersfield.com/home/Blog/bakosphere">Bakosphere</a></span><br>
@@ -771,7 +837,7 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
                 <div class="listcolumn"><!-- two -->
                     Other<br>
                     <span class="indent"><a href="http://www.bakersfield.com/multimedia/">Multimedia</a></span><br>
-                    <span class="indent"><a href="http://www.bakersfield.com/photos">Photo Galleries</a></span><br>
+                    <span class="indent"><a href="http://www.bakersfield.com/photos">Bakersfield Pictures</a></span><br>
                     <span class="indent"><a href="http://www.bakersfield.com/maps">Interactive Maps</a></span><br>
                     <span class="indent"><a href="http://www.bakersfield.com/rss">RSS Feeds</a></span><br>
                     <span class="indent"><a href="http://www.bakersfield.com/newsletters">E-mail Newsletters</a></span><br>
@@ -782,7 +848,7 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
                     <a href="http://people.bakersfield.com/home/SearchBusinesses/Category_1">Dining</a><br>
                     <a href="http://people.bakersfield.com/home/ViewCategory/499/">Calendar</a><br>
                     <a href="http://www.bakersfield.com/contests">Contests</a><br>
-                    <a href="http://people.bakersfield.com/home/Blog/CocktailCulture">Blog: Cocktail Culture</a>
+                    <a href="http://people.bakersfield.com/home/ViewCategory/499">Calendar to Events</a>
                 </div>
                 <div class="listcolumn" style="width:140px;"><!-- three -->
                     <h4 style="margin:0px;">Community</h4>
@@ -791,8 +857,8 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
                     <a href="http://people.bakersfield.com/home/PostNow/Blog">Create Your Blog</a><br>
                     <a href="http://people.bakersfield.com/home/BlogsAToZ">All Blogs</a><br>
                     <a href="http://www.bakersfield.com/applause">Applause</a><br>
-                    <a href="http://www.bakersfield.com/snap">Snap!</a><br>
-                    <a href="http://shopping.bakersfield.com/SS/Tiles.aspx?sstarg=&amp;facing=false&amp;">Worship Guide</a><br>
+                    <a href="http://shopping.bakersfield.com/SS/Page.aspx?secid=77410">Visitor's Guide</a><br>
+                    <a href="http://shopping.bakersfield.com/SS/Tiles.aspx">Worship Guide</a><br>
                     
                     <h4><a href="http://people.bakersfield.com/home/Businesses">Inside Guide</a></h4>
                     <span class="indent"><a href="http://people.bakersfield.com/home/SearchBusinesses/Category_1">Dining</a></span><br>
@@ -804,7 +870,6 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
                     <h4><a href="http://www.bakersfield.com/opinion">Opinion</a></h4>
                     <a href="http://www.bakersfield.com/opinion/editorials">Editorials</a><br>
                     <a href="http://www.bakersfield.com/opinion/letters">Letters to the Editor</a><br>
-                    <a href="http://www.bakersfield.com/opinion/soundoff">Blog: Sound Off</a><br>
                 </div>
                 <div class="listcolumn" style="width:130px;"><!-- four -->
                     <h4 style="margin:0px;">Marketplace</h4>
@@ -814,13 +879,16 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
                     <span class="indent"><a href="http://people.bakersfield.com/home/ClassifiedCategory/63">Pets &amp; Animals</a></span><br>
                     <span class="indent"><a href="http://people.bakersfield.com/home/ClassifiedCategory/60">Public Notices</a></span><br>
                     
-                    <a href="http://wheels.bakersfield.com/">Autos</a><br>
+                    <a href="http://www.bakersfielddrive.com/">Drive</a><br>
+                    <span class="indent"><a href="http://www.bakersfielddrive.com/car-search?type=used">Used Vehicles</a></span><br>
+                    <span class="indent"><a href="http://www.bakersfielddrive.com/car-search?type=new">New Vehicles</a></span><br>
                     
-                    <a href="http://www.bakersfield.com/homes">Homes</a><br>
-                    <span class="indent"><a href="http://people.bakersfield.com/home/ClassifiedCategory/64">Real Estate Rentals</a></span><br>
+                    
+                    <a href="http://www.bakersfieldhomehunter.com">Homes</a><br>
+                    <span class="indent"><a href="http://www.bakersfieldhomehunter.com/rentals">Real Estate Rentals</a></span><br>
                     
                     <a href="http://www.bakersfield.com/careers">Jobs</a><br>
-                    <span class="indent"><a href="http://www.bakersfield.com/careers/x2066951716/Positions">Jobs at The Californian</a></span><br>
+                    <span class="indent"><a href="http://hotjobs.yahoo.com/create-resume;_ylc=X3oDMTE2bHJqcmJsBF9TAzM5NjUxMTI1MQRwYXJ0bmVyA2Jha2VyBHNyYwNjb25zb2xl?partner=baker">Post Resume</a></span><br>
                     
                     <a href="http://www.bakersfield.com/special_sections">Special Sections</a><br>
                     <a href="http://www.bakersfield.com/placeyourad">Place Your Ad</a><br>
@@ -853,32 +921,42 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
             <div id="footersitemap_sites">
                 <div id="bcomsites">
                     <div id="footersites">
-                        <h4 style="margin:10px 0 4px 0;">Sites</h4>
-                        <ul>
-                            <li><a href="http://www.bakersfield.com/mobile">661411.com</a></li>
-                            <li><a href="http://www.bakersfield.org/">Bakersfield.org</a></li>
-                            <li><a href="http://www.bakersfielddrive.com/">Bakersfield Drive</a></li>
-                            <li><a href="http://www.bakersfieldlife.com/">Bakersfield Life</a></li>
-                            <li><a href="http://tweentribune.com/bakersfield">Bakersfield Tween Tribune</a></li>
-                            <li><a href="http://www.bakersfieldvoice.com/">Bakersfield Voice</a></li>
-                            <li style="width:170px;"><a style="color:#9e0b0f;" href="http://bakersfieldezads.com/bakersfield-adportal/index.html">BakersfieldEZads.com</a></li>
-                            <li><a href="http://www.bakodeals.com">Bakodeals</a></li>    
-                            <li><a href="http://www.bakotopia.com/">Bakotopia</a></li>
-                            <li><a href="http://www.bakersfield.com/healthybakersfield/">Healthy Bakersfield</a></li>
-                            <li style="width:170px;"><a href="http://www.masbakersfield.com/">Mas</a></li>
-                            <li><a href="http://www.printcasting.com/bakersfield">Printcasting</a></li>
-                            <li><a href="http://www.raisingbakersfield.com/">Raising Bakersfield</a></li>
-                            <li style="width:170px;"><a href="http://www.tehachapinews.com/">Tehachapi News</a></li>
-                        </ul>
+                        <h4 style="margin:10px 0 4px 0;">Bakersfield.com Network</h4>
+                        
+    <ul>
+        <li><a href="http://www.bakersfield.com/mobile">661411.com</a></li>
+        <li><a href="http://www.bakersfield.com/">Bakersfield.com</a></li>
+        <li><a href="http://www.bakersfield.org/">Bakersfield.org</a></li>
+        <li><a href="http://www.bakersfieldbuyandsell.com/">BakersfieldBuyandSell.com</a></li>
+        <li><a href="http://www.bakersfieldcalifornianfoundation.org/">BakersfieldCalifornianFoundation.org</a></li>
+        <li><a href="http://www.bakersfielddrive.com/">BakersfieldDrive.com</a></li>
+        <li><a href="http://www.bakersfieldezads.com/">BakersfieldEZads.com</a></li>
+        <li><a href="http://www.bakersfieldhomehunter.com/">BakersfieldHomeHunter.com</a></li>
+        <li><a href="http://www.bakersfieldlife.com/">BakersfieldLife.com</a></li>
+        <li><a href="http://bakersfield.mycapture.com/mycapture/index.asp">Bakersfield Pictures</a></li>
+        <li><a href="http://www.bakersfieldvoice.com/">BakersfieldVoice.com</a></li>
+        <li><a href="http://www.bakosphere.com">Bakosphere.com</a></li>
+        <li><a href="http://www.bakotopia.com/">Bakotopia.com</a></li>
+        <li><a href="http://dailydeal.bakersfield.com">Daily Deal</a></li>
+        <li><a href="http://www.bakersfield.com/healthybakersfield/">HealthyBakersfield.com</a></li>
+        <li><a href="http://www.kernevents.com/">KernEvents.com</a></li>
+        <li><a href="http://www.masbakersfield.com/">MasBakersfield.com</a></li>
+        <li><a href="http://www.mybakersfieldsports.com">MyBakersfieldSports.com</a></li>
+        <li><a href="http://www.tailsofbakersfield.org">TailsofBakersfield.org</a></li>
+        <li><a href="http://www.tehachapibuyandsell.com/">TehachapiBuyandSell.com</a></li>
+        <li><a href="http://www.tehachapinews.com/">TehachapiNews.com</a></li>
+        <li><a href="http://www.tehachapipictures.com/">TehachapiPictures.com</a></li>
+    </ul>
+
                     </div><!-- close footersites -->
                 </div><!-- close bcomsites -->
             </div><!-- close footersitemap_sites -->
         </div><!-- close container -->
 
                 
-           
+
                 <br class="clear">
-                                
+
                 
                      
     <div id="footer">
@@ -888,8 +966,7 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
         <a href="http://www.bakersfield.com/terms">Terms of Use</a> |
         <a href="http://www.bakersfield.com/privacy_policy#advertisements">About Our Ads</a> |
         <a href="http://www.bakersfield.com/careers/x2066951716/Positions">Jobs at The Californian</a> |
-        <a href="http://www.bakersfield.com/advertise">Advertise With Us</a> |
-        <a href="http://www.bakersfield.com/foundation">The Bakersfield Californian Foundation</a>
+        <a href="http://www.bakersfield.com/advertise">Advertise With Us</a>
         </p>
     </div>
 
@@ -925,11 +1002,26 @@ e-mail: <a href="mailto:webmaster@bakersfield.com">webmaster@bakersfield.com</a>
 
 
             
-            
-            
-        			
-             
-            
+        	
+	    
+	    
+		
+    <script type="text/javascript">
+    //<![CDATA[
+    (function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	    }
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/bakersfield/get_num_replies.js' + query + '"><\/' + 'script>');
+    })();
+    //]]>
+    </script><script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/bakersfield/get_num_replies.js?"></script>
+
+	    
         
     
 </body></html>
