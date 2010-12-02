@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaystores.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211213742id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaystores.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203002635id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Summary of our Privacy Policy
 
@@ -150,4 +150,4 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 ### General 
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through the eBay Message Center. If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](http://contact.ebay.com/ws/eBayISAPI.dll?ContactUs&wftype=2001&rcode=IV%25P10046&subject=Privacy%20Policy&bcrumb=%20Home%20%3E%20Help%20%3E%C2%A0Membership%20%26%20account%C2%A0%3E%C2%A0Protecting%20your%20account%C2%A0%3E%C2%A0Summary%20of%20our%20Privacy%20Policy&instruction=&expirationDate=) form.
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through the eBay Message Center. If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](http://contact.ebay.com/ws/eBayISAPI.dll?ContactUsNextGen&domain=Help&query=Privacy%20policy&from=1003146) form.
