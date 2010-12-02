@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secure-tunnel.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720194855id_/https%3A//www.secure-tunnel.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure-tunnel.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202224052id_/https%3A//www.secure-tunnel.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Secure-Tunnel.com - The Future of Internet Security
+# Privacy Policy
 
 ## This explains how we handle your personal information. 
 
@@ -22,6 +22,5 @@ Secure-Tunnel safeguards the security of the data you send us with physical, ele
 
 To make sure your personal information remains confidential, we communicate these privacy guidelines to every Secure-Tunnel employee. Secure-Tunnel does not knowingly solicit personal information from children or send them requests for personal information. Secure-Tunnel website contains links to other sites. Secure-Tunnel does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
-[](https://web.archive.org/signup/signup_1.cfm)
+  
 
-[](https://web.archive.org/corporate/affiliates/affiliates.cfm)
