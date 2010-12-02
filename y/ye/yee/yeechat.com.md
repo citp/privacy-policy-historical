@@ -1,17 +1,55 @@
-> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512155715id_/http%3A//www.yeechat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202172608id_/http%3A//yeechat.com/privacy-policy) for the most accurate reproduction.*
 
-# Chat Room - Free Video Chat Room for adult chat, teen chat, singles chat, gay chat, dating chat users with webcam chat, voice chat
+# Privacy Policy - Free Video Chat Room - YeeChat
 
-[YeeChat](http://www.yeechat.com/) has created this privacy statement in order to demonstrates commitment to privacy and confidentiality. We valued our users to ensure their safety and privacy. On below you will find information gathering privacy statement for [YeeChat](http://www.yeechat.com/).
+This policy covers personally identifiable information collected or stored by the Yeechat on its servers in relation to the Yeechat.  
+Information we hold about you will never be revealed to a third party and will always remain confidential to Yeechat and our staff unless you choose to publicly publish or share it with other users. We may collect data to enable us to recognize you and record how you use this website. This allows us to improve and personalize some of our services, and can save you from re-entering information when you return to this website.
 
-There are many web page links to [YeeChat](http://www.yeechat.com/) with contents. [YeeChat](http://www.yeechat.com/) is not responsible for the privacy commitment or the content of those web sites.
+  
+Personal Information
 
-The web site server logs will store the IP address of individual accessing this web site. The IP address, through your ISP, can identify the household where the user accessed this website. This information is not accessible by our website or our staff, but we may report unlawful activity to your ISP in order to identify you for possible legal action.
+During the Registration Process for creating an user account, we request your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement.
 
-This IP address will never be shared or revealed unless under the following circumstances:
+  
+Collection of your Yeechat Services Information
 
-1) If a government agency, or an attorney, subpoenas your private information, or makes a formal and official request for discovery pursuant to any legal action, or pending legal action against YOU.
+Your Yeechat Services Information consists of personally identifiable information provided by you or otherwise collected or obtained by Yeechat when you interact with the Yeechat Services. Depending on how you use the Yeechat Services, your Yeechat Services Information may include:
 
-2) If our attorney requests this information relevant to a pending or current legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter at hand. 
+* Registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax number, birth date or gender);
+* Information made available by you in Public Areas (as defined below);
+* Information about your visits to the various Yeechat Services, and your responses to the offerings and advertisements presented on these Yeechat Services;
+* Information about the searches you perform through the Yeechat Services and how you use the results of those searches;
+* Information about the Yeechat Services or offerings that you use, including, without limitation, how frequently you use them and other related information regarding your usage of the Yeechat Services;
+* Information about use of features and buttons on the Software to determine which Software features and buttons are most popular and useful to users.
 
-[YeeChat](http://www.yeechat.com/) doesn't give out any information about users in any situation whether it's in chat rooms or any other area. However [YeeChat](http://www.yeechat.com/) advised you not to give personal information to any third parties while you are on chat rooms. Such as email address, home address, phone number or any personal related information. We valued our users and their privacy. So we do not give out any information about users to any one in any situation. 
+How Yeechat Uses Your Information
+
+Your Yeechat Services Information is used to:
+
+* Operate and improve the Software, Web sites, services and offerings available through the Yeechat Services;
+* Provide you with personalized content and advertisements;
+* Fulfill your requests for products, programs, and services; 
+* Communicate with you and respond to your inquiries; 
+* Conduct research about your use of the Yeechat Services; and
+* Help offer you other products, programs, or services that may be of interest to you. 
+
+Yeechat is always trying to provide you with a compelling reason to return to our site. We monitor customer traffic patterns and try to analyze what our customers like and don't like about our current offerings, so that we can design better services for you.
+
+  
+User accounts and authorship
+
+Users who register on Yeechat are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their accounts. 
+
+Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. It may be possible for a username to be changed, depending on the policies of individual projects. The Yeechat does not guarantee that a username will be changed on request. 
+
+  
+Changes to this Privacy Policy and Additional Information
+
+Yeechat may update this Privacy Policy from time to time, therefore you should review this Policy periodically. If there are significant changes to the Yeechat 's information practices, you will be provided with appropriate online notice, such as notification on the Yeechat Web site.
+
+You may be provided other privacy-related information in connection with your use of offerings from the Yeechat Services, as well as for special features and services not described in this Privacy Policy that may be introduced in the future.
+
+  
+Your Comments
+
+We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at [support@yeechat.com](mailto:support@yeechat.com).
