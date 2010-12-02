@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petfinder.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418200840id_/http%3A//www.petfinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petfinder.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202052400id_/http%3A//www.petfinder.com/privacy.html) for the most accurate reproduction.*
 
 # Petfinder Privacy Statement
 
@@ -28,11 +28,13 @@ The above list provides an example of the personally identifiable information th
 "Non-Personally Identifiable Information" can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites and a description of how this information is used: 
 
   * Internet Protocol (IP) address -- Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users and to measure traffic within our Sites. 
-  * Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites. 
+  * Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites. Some of the cookies we use may be flash cookies or Adobe cookies. While they are harmless, they may contain Demographic Information (defined below) and depending on your browser these cookies may not normally be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted. 
   * Web Beacons (also known as "clear gifs," "web bugs" or "pixel tags") -- "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages. 
   * Demographic Information -- "Demographic Information" may be your gender, age, zip code and interests, which you voluntarily provide to us on the Sites. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Sites meets your needs. For example, we offer personalized TV schedule listings and program reminders for Discovery Channel, TLC, Animal Planet, Discovery Health Channel or any of our other TV offerings if you tell us which programs and topics you're interested in. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Sites. 
 
 
+
+We collect the above non-personally identifiable information from all visitors to our Sites. If you do not want Discovery to have access to this information, please do not visit our Sites.
 
 **B. Use of Information Collected Via the Sites**
 
@@ -202,4 +204,4 @@ Silver Spring, MD 20910
 Phone: (240) 662-2000 (Legal)  
 Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
 
-Last Updated On: Wednesday, September 10, 2008 
+Last Updated On: August 19, 2010 
