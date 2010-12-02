@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618214433id_/http%3A//www.dotcom-monitor.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203004122id_/http%3A//www.dotcom-monitor.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # Web Site Monitoring byDotcom-Monitor®-- Providing Advanced Website Monitoring solutions worldwide.
 
