@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the workjobs.net privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809055816id_/http%3A//www.workjobs.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workjobs.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202180621id_/http%3A//www.workjobs.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Work Jobs | Local jobs that work
 
 #### Privacy policy for Workjobs.net and all of its related web sites
 
-Last updated March 1st, 2009  
+Last updated March 6th, 2010  
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. WORKJOBS.NET DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE. 
 
 IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO WORKJOBS.NET OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED TO IN THIS PRIVACY POLICY. 
@@ -151,4 +151,4 @@ In accordance with California Civil Code Sec. 1789.3, California resident users 
 
   For more information about protecting your privacy, you may wish to visit: www.ftc.gov 
 
-If you have questions about this policy, please contact us at support @ workjobs.net
+If you have questions about this policy, please contact us at comments.inquiries @ workjobs.net
