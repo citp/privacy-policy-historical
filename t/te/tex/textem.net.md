@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textem.net privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624025451id_/http%3A//www.textem.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textem.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202045424id_/http%3A//textem.net/privacy.php) for the most accurate reproduction.*
 
 # Free Text Messaging - Send and Receive Free Text Messages - Text'em
 
