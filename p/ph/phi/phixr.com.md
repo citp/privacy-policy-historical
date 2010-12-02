@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408084757id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202124820id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
 
 # Phixr - Online Photo Editor
 
@@ -46,9 +46,9 @@ Information Collection and How it is used
 General Information
 
   * We collect personal information when you register with the Site.
-  * When you register we may ask for your email address and eventually certain optional information such as your name, birth date, birth place, gender, biographical information, ICQ/AIM/Yahoo/MSN user name, and personal interests.
+  * When you register we may ask for your email address.
   * The Site automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the page you request.
-  * We use this information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
+  * We use this information for the following general purposes: products and services provision, identification and authentication, service improvement, contact, research, and anonymous reporting.
 
 
 
@@ -105,29 +105,30 @@ We may update this policy at any time for any reason. If there are any significa
 
 How to contact us
 
-Effective Date: February 16, 2007.
+Phixr.com/Headquarters (all agendas): 
 
 Trademarks and Acknowledgements
 
-Phixr and the Phixr logo are trademarks of Flock55 and Dr. Thomas Winischhofer, Vienna, Austria. No material from this site may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way without prior written consent of Dr. Thomas Winischhofer or a representative of Flock55.
+Phixr and the Phixr logo are trademarks of Dr. Thomas Winischhofer, Vienna, Austria. No material from this site may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way without prior written consent of Dr. Thomas Winischhofer.
 
-Buzznet and the Buzznet logo are (registered) trademarks of Buzznet Inc. Used by express permission.  
-Dropshots and the dropshots logo are (registered) trademarks of DropShots, Inc. Used by express permission.  
-Facebook and the Facebook logo are (registered) trademarks of Facebook. Used by permission (in accordance to the general permission stated [here](http://developers.facebook.com/documentation.php?doc=login_web) and to Section 6 of Facebook's "Developmer Terms of Service" dated July 25, 2007).  
+Facebook and the Facebook logo are (registered) trademarks of Facebook. Used by permission (in accordance to the general permission stated [here](http://developers.facebook.com/documentation.php?doc=login_web) and to Section 6 of Facebook's "Developer Terms of Service" dated July 25, 2007).  
 Flickr and the flickr logo are (registered) trademarks of Yahoo! Inc. Used by express permission.  
 Fotolog and the Fotolog logo are (registered) trademarks of Fotolog, Inc. Permission request pending.  
 Fotopic.net and the fotopic.net logo are (registered) trademarks of Fotopic.net Ltd. Used by express permission.  
 ImageShack and the ImageShack logo are (registered) trademarks of ImageShack Corp. Permission request pending.  
 LiveJournal and the Livejournal logo are (registered) trademarks of LiveJournal, Inc. Used by express permission.  
-Picasa and the Picasa logo are (registered) trademarks of Google Inc. Used by permission.  
 Photobucket and the photobucket logo are (registered) trademarks of Photobucket, Inc. Used by express permission.  
+Picasa and the Picasa logo are (registered) trademarks of Google Inc. Used by permission.  
 SmugMug and the SmugMug logo are (registered) trademarks of SmugMug, Inc. Used by express permission.  
-Twitter and the Twitter logo are (registered) trademarks of Twitter Inc. Permission request pending.  
-Webshots and the Webshots logo are (registered) trademarks of CNET Networks, Inc. Used by express permission.  
+Twitter and the Twitter logo are (registered) trademarks of Twitter, Inc. Used by express permission.  
+Webs and the webs logo are (registered) trademarks of Webs, Inc. Permission request pending.  
+Webshots and the Webshots logo are (registered) trademarks of CNET Networks, Inc. Used by obligation / express permission.  
 
 
-This product uses the Flickr API but is not endorsed or certified by Flickr and/or Yahoo! Inc.
+This product uses the Flickr API and other APIs, but is not endorsed or certified by Flickr and/or Yahoo! Inc and/or any other of the companies named above.
 
 This product makes use of algorithms described in: "Fast Anisotropic Smoothing of Multi-Valued Images using Curvature-Preserving PDE's." (D. Tschumperle), International Journal of Computer Vision, IJCV(68), No. 1, June 2006, pp. 65-82.
 
 Products and company names are being used without references to trademarks, patents or copyrights. Therefore, the lack of a respective notice does not permit the assumption that a name is free of rights.
+
+Effective Date: May 13, 2010.
