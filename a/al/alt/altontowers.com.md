@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601053822id_/http%3A//www.altontowers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202010447id_/http%3A//www.altontowers.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Alton Towers Resort
 
