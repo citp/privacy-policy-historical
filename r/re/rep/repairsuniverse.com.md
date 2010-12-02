@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairsuniverse.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220025id_/http%3A//www.repairsuniverse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairsuniverse.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202041926id_/http%3A//www.repairsuniverse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # RepairsUniverse.com Privacy Policy
 
