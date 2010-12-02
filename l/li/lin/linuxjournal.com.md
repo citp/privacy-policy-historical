@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326162510id_/http%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202042244id_/http%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Linux Journal
 
