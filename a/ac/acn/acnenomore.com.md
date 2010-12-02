@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208075510id_/http%3A//www.acnenomore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202064546id_/http%3A//www.acnenomore.com/privacy.html) for the most accurate reproduction.*
 
-# Acne No More™- Privacy
+# Acne No More™ - Privacy
 
 **PRIVACY POLICY  
 IMPORTANT -- PLEASE READ**
@@ -89,4 +89,7 @@ If any matter concerning this purchase shall be brought before a court of law, p
 
 **APPLICABLE LAW**
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the seller. 
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the seller.   
+  
+© 2004-2010 AcneNoMore.com-All Rights Reserved- Higher Ways Publishing, Inc.   
+
