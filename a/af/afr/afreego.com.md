@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526113137id_/http%3A//www.afreego.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202234840id_/http%3A//www.afreego.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
