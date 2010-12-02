@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteaccountant.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004716id_/http%3A//www.websiteaccountant.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteaccountant.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202050428id_/http%3A//www.websiteaccountant.com/privacy.php) for the most accurate reproduction.*
 
 # Website Accountant - How much is your site worth?
 
