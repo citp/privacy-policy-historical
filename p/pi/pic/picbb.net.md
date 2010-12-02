@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picbb.net privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121153621id_/http%3A//www.picbb.net/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbb.net privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203005642id_/http%3A//www.picbb.net/content.php%3Fprivacy) for the most accurate reproduction.*
 
-# PicBB.net - Free image hosting -
+# picBB.net - Free image hosting -
 
 'This Site' is committed to protecting the privacy of the personal information of individuals / users and/or companies who use our services.. 
 
