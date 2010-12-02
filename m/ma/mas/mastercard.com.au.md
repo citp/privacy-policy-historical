@@ -1,96 +1,157 @@
-> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204092213id_/http%3A//www.mastercard.com/au/general/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/global-privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy Policy | MasterCard®
+# MasterCard Global Privacy Policy - Australia | MasterCard® Australia
 
-**MasterCard's Commitment to your Privacy**   
-As part of an industry dealing with sensitive financial information, MasterCard has always recognized the importance of consumer privacy. Years ago, we implemented policies and programs designed to create an awareness of these issues and to help protect your privacy. 
+MasterCard International Incorporated (doing business as MasterCard Worldwide) and its affiliates (collectively, "MasterCard") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. 
 
-Today, with the rise of the Internet, concern about privacy has sky-rocketed. MasterCard's commitment to your privacy has evolved with technology and encompasses our website and online relationships. 
+Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. 
 
-MasterCard's consumer privacy initiatives include: 
-
-  * Website Privacy Statement   
-
-  * MasterCard's Formal Privacy Position   
-
-  * Providing More Information   
+**Click on one of the links below to jump to the listed section:**  
 
 
-
-
-**Website Privacy Statement**   
-MasterCard respects and upholds your right to privacy protection under the Commonwealth Privacy Act 1988 and we are required to comply with the National Privacy Principles in respect of the collection, use, disclosure and handling of personal information. We respect your right to privacy at all times. This includes the time you spend with us here, on mastercard.com/au. Each time you come to our website, you may provide two levels of information about your visit: 
-
-1\. Statistics collected on an aggregate basis as you browse the site, and   
-
-
-2\. Personal information you knowingly choose to furnish. 
-
-We want you to be aware of how we handle this information.   
-
-
-**1\. Statistics about your visit**   
-As you browse the site, MasterCard's computer collects information about your visit, not about you personally. We monitor statistics such as:
-
-  * How many people visit our site   
-
-  * How many people return to our site   
-
-  * Which pages people visit on our site   
-
-  * Where people were before they came to mastercard.com/au   
-
-  * The number of people who leave to visit another site promoted on mastercard.com/au   
+  * Information We Collect 
+  * How We Use The Information We Collect 
+  * Information We Share 
+  * Your Rights And Choices 
+  * Data Transfers 
+  * How We Protect Personal Information 
+  * Links To Other Websites 
+  * Updates To Our Global Privacy Policy 
+  * How To Contact Us 
 
 
 
+Information We Collect
 
-This information is collected on an aggregate basis. No personal information is associated with the statistics. For example, while we can determine that on a specific day the site had thousands of visitors, we do not know anything about those visitors in terms of name, e-mail address or any other personal data.   
+MasterCard may obtain information about you from various sources. We may obtain information about you in our role as a processor of payment card transactions. We also may have a direct relationship with you, and you may choose to provide personal information to us in connection with that relationship.
 
+As a processor of payment card transactions and provider of related services, we obtain personal information about you from financial institutions and other entities in connection with your payment card transactions. We also may obtain information about you from companies that use MasterCard products or services, publicly available information systems, consumer reporting agencies, and commercial information services.
 
-Different technologies are used to collect aggregate statistics. These include: cookies and web server logs. Web server logs tell which pages are more and less popular in our site and where people were before they came to mastercard.com/au. Cookies tell how many people visit MasterCard's site, how many people return to our site, and what language preferences our users have.   
+In addition, you may choose to submit information directly to us. You may do so, for example, on our websites, in connection with a MasterCard product or service, when you participate in an offer or promotion, or in connection with an actual or potential business or employment relationship with us.
 
+The types of personal information we may obtain are:
 
-These statistics are used to monitor traffic so we can effectively handle site capacity. The statistics also help us determine which parts of the site are most popular. With this information we can continually improve the MasterCard site to better meet the needs of cardholders, merchants and prospective customers.   
-
-
-**2\. Personal Information You Choose to Share**   
-Throughout the MasterCard site, you have the opportunity to send e-mails, register to download and order MasterCard brand marks, request brochures, enter contests and respond to various promotions. If you choose to participate in any of these activities, you will be providing MasterCard with some type of personal information about yourself.   
-In terms of personal information on the MasterCard site, you can be assured that: 
-
-  * MasterCard does not collect personal information from you unless you provide it to us voluntarily and knowingly.   
-
-  * If you do choose to provide us with personal information, MasterCard uses it only for the purpose specified.   
-
-
-
-
-For example, if you give us personal information, as part of the registration process in one of our promotions, and consent to us advising you of future promotions, the information will be used only as necessary to conduct the promotion and to advise you of future MasterCard promotions only if you consent to receiving such information. MasterCard does not use this information for any other purpose. Nor do we sell, rent or give this information to any other entity.   
+  * Contact information (such as name, postal or e-mail address, and phone or fax number) 
+  * Business contact information (such as job title, department and name of organization)
+  * Username and password 
+  * Payment card information
+  * Financial information (such as financial account information and information that may be contained in a consumer report) 
+  * PIN or access code (such as a SecurID® or SoftID® code)
+  * Contact information for friends or other people you would like us to contact
+  * Content you provide (such as photographs, articles and comments)
+  * Employment information
+  * Other information (such as shopping behavior and preferences, language preference, age, date of birth, gender and family status)
 
 
-As another example, a special area on our site allows you to report problems you have had using your MasterCard or other situations requiring personal attention. Messages sent via this form are all individually read by our Customer Service department. Information you send to our Customer Service department is used only to help resolve your problem and is otherwise kept completely private.   
+
+We collect certain information by automated means, such as cookies and web beacons, when you visit our websites. The information we collect in this manner includes IP address, browser type, operating system, referring URLs, information on actions taken on a website, and dates and times of website visits. A “cookie” is a text file placed on a computer’s hard drive by a web server. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. 
+
+_Back to top_
+
+**How We Use The Information We Collect**
+
+We may use the information we obtain about you to:
+
+  * Process your payment card transactions (including authorization, clearing, settlement, chargebacks and other related dispute resolution activities) 
+  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and franchise quality
+  * Create and manage your online account and respond to your inquiries
+  * Provide, administer and communicate with you about products, services and promotions (including contests, sweepstakes, programs and other offers)
+  * Publish business directories (which may include business contact information)
+  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our advertising; analyzing our products, services and websites; facilitating the functionality of our websites; and performing accounting, auditing, billing, reconciliation and collection activities)
+  * Monitor the use of and improve our interactive assets
+  * Perform data analyses (including anonymization of personal information)
+  * Evaluate your interest in employment and contact you regarding possible employment with MasterCard ****
+  * Enforce our Terms of Use
+  * Comply with applicable legal requirements and industry standards and our policies
 
 
-MasterCard uses the services of data capture and management organisations to assist in the organisation and administration of this website. Accordingly it is necessary for us to share personal information collected through this website with these organisations. 
 
-**3\. Access to Personal Information we hold about you**   
-If your personal information changes (such as your address), or if you no longer wish us to keep your personal information on file, we will endeavour to provide a way to correct, update or remove your records. We may charge you a small fee to cover any administrative costs that we may incur in providing personal information to you. If you believe for any reason that we are holding inaccurate or incomplete information about you, you may ask us to correct it.   
+We also may use the information in other ways for which we provide specific notice at the time of collection.
 
+_Back to top_
 
-If you wish to access your personal information or have any questions in relation to our treatment of your personal information, please contact: 
+**Information We Share**
 
-The Privacy Officer by e-mail to: [privacy@mastercard.com ](mailto:privacy@mastercard.com)  
+We do not sell or otherwise disclose personal information we collect about you, except as described here.
 
+We share information to perform payment card transactions and other activities that you request. We may share the personal information we collect with our affiliates, financial institutions that issue payment cards or process payment card transactions, entities that assist with payment card fraud prevention, and merchants. For example, in this context we provide financial institutions with information about their cardholders’ transactions that MasterCard processes. In addition, we may share personal information with other third parties with the consent of the individual to whom the information pertains. 
 
-If the information you are requesting includes sensitive data, such as an account number, we will ask you to identify yourself properly when you request access to the information. 
+We also may share the information with our service providers who perform services on our behalf. We do not authorize these service providers to use or disclose the information except as necessary to perform certain services on our behalf or comply with legal requirements. We require these service providers by contract to appropriately safeguard the privacy and security of personal information they process on our behalf.
 
-**MasterCard's Formal Privacy Position**   
-The foundation for all of MasterCard's efforts in the area of consumer privacy is [MaslterCard's Privacy Position ](http://www.mastercardintl.com/newsroom/privacy_position.html), adopted at the end of 1995. The purpose of the Privacy Position is to provide flexible guidelines that can be adapted to meet the demands of changing technology and varying consumer expectations regarding privacy. These guidelines apply worldwide, but note that in Australia and certain other countries additional privacy protections or procedures are required by law and are observed by MasterCard.   
+On our websites, you may choose to use certain features for which we partner with other entities. These features, which include social networking and geographic location tools, are operated by third parties that are not affiliated with MasterCard. These third parties may use personal information in accordance with their own privacy policies. On sites on which these features are offered, the relevant third parties are identified on the websites. We strongly suggest you review the third parties’ privacy policies if you use the relevant features.
 
+We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
 
-**Providing More Information**   
-MasterCard will continue to stay at the forefront of the critical issue of privacy. In addition to consumer education and policy implementation, MasterCard's efforts include ongoing research into consumer attitudes on privacy and continuing communications with others in our industry.   
+We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Global Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information. 
 
+_Back to top_
 
-**To learn more about the privacy issue, consider visiting:**   
-The Office of the Federal Privacy Commissioner (OFPC). OFPC is responsible for administering the Privacy Act 1988 (Cth). It provides information on the Privacy Act and the National Privacy Principles which came into effect on 21 December 2001 and handles complaints and enquiries about privacy and privacy breaches. 
+**Your Rights And Choices**
+
+You may have certain rights regarding the personal information we maintain about you. We offer you certain choices about what personal information we collect from you, how we use that information, and how we communicate with you.
+
+You may choose not to provide personal information to MasterCard by refraining from conducting a payment card transaction using a payment card. You also may refrain from submitting information directly to us.
+
+You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on our websites. If you would like to opt-out, [_click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/web-analytics-opt-out.html). Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features. 
+
+You may opt-out of certain uses of information we collect about you by automated means when you visit other websites. Specifically, we may use service providers to post content on third party websites. They may use cookies when they serve ads to you. You may direct our service providers not to use cookies to serve ads to you by clicking [_Cookie Opt-out_](http://www.networkadvertising.org/managing/opt_out.asp).
+
+You can at any time tell us not to send you marketing communications by e-mail by clicking on the unsubscribe link within the marketing e-mails you receive from us or by contacting us as indicated below. You also may opt-out of receiving marketing e-mails from MasterCard by [_clicking here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/email-opt-out.html). You can stop receiving marketing postal mail from MasterCard by following the opt-out instructions that may be included in a particular promotion. You also can opt-out of receiving promotional postal mail from us by contacting us as indicated below. You may receive from other entities promotional postal mail that contains a MasterCard, Maestro or Cirrus logo. Please contact those entities to exercise your choices regarding these communications. As indicated above, we may anonymize personal information to perform data analyses. To opt-out, [_click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/data-analytics-opt-out.html).
+
+If your employer provides your personal information to MasterCard, you may have certain choices with respect to MasterCard's use or disclosure of the information. Please contact your employer to learn about and amend your choices.
+
+You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to MasterCard’s use or disclosure of your personal information will mean that you cannot take advantage of certain MasterCard products or services.
+
+If you are located in the European Economic Area or Switzerland, you may direct us not to share your personal information with third parties, except (i) with service providers we have retained to perform services on our behalf, (ii) in the event we sell or transfer all or a portion of our business or assets, (iii) if disclosure is required by law or legal process, (iv) with law enforcement authorities or other government officials, or (v) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraud or other illegal activity. If you are located in the European Economic Area or Switzerland, we use your personal information only for the purposes indicated in this policy unless we have a legal basis, such as consent, to use it for other purposes. Where required by law, MasterCard obtains your prior opt-in consent at the time of collection for the processing of (i) personal information for marketing purposes and (ii) personal information deemed sensitive pursuant to applicable law.
+
+Subject to applicable law, you may have the right to request access to and receive information about the personal data we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements.
+
+To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.
+
+_Back to top_
+
+**Data Transfers**
+
+We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Global Privacy Policy. 
+
+If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. MasterCard is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area or Switzerland to the U.S. [ _Click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/safe-harbor-privacy-policy.html) to view our Safe Harbor Privacy Policy.
+
+_Back to top_
+
+**How We Protect Personal Information**
+
+We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. We use SSL encryption on a number of our websites from which we transfer certain personal information. ****
+
+_Back to top_
+
+**Links To Other Websites**
+
+Our websites may provide links to other websites for your convenience and information. These websites may operate independently from MasterCard. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by MasterCard, we are not responsible for the sites’ content, any use of the sites, or the privacy practices of the sites.
+
+_Back to top_
+
+**Updates To Our Global Privacy Policy**
+
+This Global Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our websites to notify you of any significant changes to our Global Privacy Policy and indicate at the top of the policy when it was most recently updated.
+
+_Back to top_
+
+**How To Contact Us**
+
+If you have any questions or comments about this Global Privacy Policy, or if you would like us to update information we have about you or your preferences, please [_click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/contact-us.html). You also may write to:
+
+Global Privacy & Data Usage Officer  
+MasterCard Worldwide  
+2000 Purchase Street   
+Purchase, New York 10577   
+USA
+
+If you are located in the European Economic Area or Switzerland, MasterCard Europe sprl may be the entity responsible for the processing of your personal information. To exercise your rights of access, rectifiations, blocking, or deletion or to object to the processing of your personal information, contact us by [clicking here](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/contact-us.html) or writing to us at:
+
+Global Privacy & Data Usage Officer  
+MasterCard Europe sprl  
+Chausee de Tervuren 198A   
+B-1410, Waterloo   
+Belgium
+
+ _Back to top_
