@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501155732id_/http%3A//www.aegon.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202202401id_/http%3A//www.aegon.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | AEGON UK
 
@@ -38,7 +38,7 @@ We may use non-personal data about your visits to the website. You can find more
 
 We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.
 
-There are also a few simple steps you can take to protect your computer and internet connection - [find out more](https://web.archive.org/web/20100501155732id_/http%3A//www.aegon.co.uk/security/index.html). 
+There are also a few [simple steps you can take](https://web.archive.org/web/20101202202401id_/http%3A//www.aegon.co.uk/security/index.html) to protect your computer and internet connection. 
 
 ### Links
 
