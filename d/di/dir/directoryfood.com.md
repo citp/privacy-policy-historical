@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryfood.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606021911id_/http%3A//directoryfood.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryfood.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202053406id_/http%3A//www.directoryfood.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Food Directory
 
