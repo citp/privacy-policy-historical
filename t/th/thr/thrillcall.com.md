@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrillcall.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525233815id_/http%3A//thrillcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillcall.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202031653id_/http%3A//thrillcall.com/home/privacy) for the most accurate reproduction.*
 
 # Find concerts, tour dates, and concert tickets at ThrillCall
 
