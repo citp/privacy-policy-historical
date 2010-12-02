@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webassign.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620205447id_/http%3A//www.webassign.net/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassign.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202051938id_/http%3A//www.webassign.net/info/privacy.html) for the most accurate reproduction.*
 
 # WebAssign - Privacy
 
@@ -48,5 +48,5 @@ In no event will WebAssign violate the federal privacy rights of students as est
 If you have any questions regarding this privacy statement, please [email us](mailto:info@webassign.net) or write to:
 
 WebAssign  
-1730 Varsity Drive, Suite 200  
+1791 Varsity Drive, Suite 200  
 Raleigh, NC 27606
