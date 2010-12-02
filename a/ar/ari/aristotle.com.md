@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529161909id_/http%3A//www.aristotle.com/content/view/31/152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202210802id_/http%3A//www.aristotle.com/content/view/31/152) for the most accurate reproduction.*
 
 # Privacy Policy and Data Restrictions - Aristotle - Now You Know
 
@@ -24,7 +24,7 @@ ARISTOTLE, the "Digital Fountain" logo, INTEGRITY, the Integrity "Star Burst" lo
 
 ## Political Data Restrictions
 
-Use of and access to voter list data is restricted in some jurisdictions. For information, contact an Aristotle representative. AZ voter data is not available on the Internet. Orders for PA & SD voter data may be placed; however, the data will be delivered separately as it is not available for download over the Internet. Searching for individual voters is not available, and voter names and addresses are not visible during your searches. 
+Use of and access to voter list data is restricted in some jurisdictions. For information, contact an Aristotle representative. Searching for individual voters is not available, and voter names and addresses are not visible during your searches. 
 
 Any information copied, or otherwise obtained, from any FEC report or statement, or any copy, reproduction, or publication thereof, filed under the Act, shall not be sold or used by any person for the purpose of soliciting contributions or for any commercial purpose, except that the name and address of any political committee may be used to solicit contributions from such committees. 
 
