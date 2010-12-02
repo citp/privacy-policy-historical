@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612185650id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202084801id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
 
 # EDJOIN Privacy Statement
 
@@ -28,7 +28,8 @@ We may use your contact information in order to send you e-mail or other communi
 
 We do not disclose to third parties your personal information, combined personal and demographic information or information about your use of a EDJOIN Web site (such as the areas you visit or the services you access), except as set forth in the following subparagraphs.
 
-  1. Educational organizations in California to whom you submit your job applications will have access to all of the information provided in your EDJOIN job application as well as any attachments to your application. You’re age, gender and ethnicity information however is available only in aggregate form and is not viewable in connection to your individual job applications. These organizations may contact you using the contact information you provide on your job application. 
+  1. Educational organizations in California to whom you submit your job applications will have access to all of the information provided in your EDJOIN job application as well as any attachments to your application. You’re age, gender and ethnicity information however is available only in aggregate form and is not viewable in connection to your individual job applications. These organizations may contact you using the contact information you provide on your job application.   
+
   2. Educational organizations in California who use the EDJOIN system to post jobs also have the ability to search the job applications in the EDJOIN system. In addition, the California Teacher Recruitment Centers and the CalTeach organization can search the online applications as well as view aggregate information about the users of the EDJOIN system. These entities may contact you using any of the contact information provided in your EDJOIN profile or online application.
 
 
@@ -61,10 +62,10 @@ EDJOIN is not intended for children under 13 years of age. We do not knowingly c
 
 **Changes to Privacy Statement**
 
-If we decide to change our Privacy Statement for EDJOIN, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about EDJOIN's Privacy Statement, please feel free to email us at [edjoin_helpdesk@sbcss.k12.ca.us](mailto:edjoin_helpdesk@sbcss.k12.ca.us) or call us at 800-398-9580 (from 7:00 a.m. to 4:00 p.m PST, Monday to Friday) and speak to one of our representatives .
+If we decide to change our Privacy Statement for EDJOIN, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about EDJOIN's Privacy Statement, please feel free to email us at [edjoinhelpdesk@sjcoe.net](mailto:edjoinhelpdesk@sjcoe.net) or call us at 888-953-2155 (from 7:00 a.m. to 4:00 p.m PST, Monday to Friday) and speak to one of our representatives .
 
 **Contact Information**
 
-EDJOIN is owned by CCSESA (California County Superintendents Educational Services Association). The site is hosted and maintained by San Joaquin County Office of Education. We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [edjoin_helpdesk@sbcss.k12.ca.us](mailto:edjoin_helpdesk@sbcss.k12.ca.us) or call us at 800-398-9580 (from 7:00 a.m. to 4:00 p.m PST, Monday to Friday).
+EDJOIN is owned by CCSESA (California County Superintendents Educational Services Association). The site is hosted and maintained by San Joaquin County Office of Education. We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [edjoinhelpdesk@sjcoe.net](mailto:edjoinhelpdesk@sjcoe.net) or call us at 888-900-8945 (from 8:00 a.m. to 5:00 p.m PST, Monday to Friday).
 
 Thank you for using EDJOIN.
