@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429211039id_/http%3A//www.perfume.com/customer-service/security-and-privacy-policy/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202063945id_/http%3A//www.perfume.com/customer-service/security-and-privacy-policy/security-and-privacy-policy) for the most accurate reproduction.*
 
 # Security And Privacy Policy : Shop Perfume.com
 
