@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609142300id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202044409id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
 
 # Urban Dictionary: Privacy Policy
 
-_**Privacy Policy**_
+_**Privacy Policy** _
 
-Urban Dictionary, LLC ("Urban Dictionary", "we" or "us") collects (a) the e-mail addresses of those who communicate with us via e-mail, (b) aggregate information concerning what pages users access or visit, and (c) information volunteered by the user (such as survey information and/or site registrations). The information we collect is used to improve the content of our Website and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+Urban Dictionary, LLC ("Urban Dictionary", "we" or "us") collects (a) the e-mail addresses of those who communicate with us via e-mail, (b) aggregate information concerning what pages users access or visit, (c) information volunteered by the user (such as survey information and/or site registrations) and (d) information related to your use of the site, including IP address and date and time of your request. The information we collect is used to improve the content of our Website and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
 * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. 
 
@@ -14,7 +14,7 @@ Urban Dictionary, LLC ("Urban Dictionary", "we" or "us") collects (a) the e-mail
 
 * We provide such information to third parties who have entered into non-disclosure agreements with us. 
 
-*We provide such information to a company controlled by, or under common control with, Urban Dictionary for any purpose permitted by this Privacy Policy. 
+* We provide such information to a company controlled by, or under common control with, Urban Dictionary for any purpose permitted by this Privacy Policy. 
 
 **Information Gathering and Usage**
 
@@ -22,7 +22,7 @@ When you submit a posting to Urban Dictionary we ask for information such as you
 
 **Cookies and Web Beacons**
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. Cookies are required to use some Urban Dictionary services. Urban Dictionary and its ad management partners ("Ad Partners") use cookies to record current session information. You are required to login to your Urban Dictionary editor account after a certain period of time has elapsed in order to verify your use of the account and protect you against others inadvertently accessing your account. 
+A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. Cookies are required to use some Urban Dictionary services. Urban Dictionary and its ad management partners ("Ad Partners") use cookies to record current session information. 
 
 Our Ad Partners may also from time to time use web beacons (also known as Internet tags, pixel tags and clear GIFs). These web beacons are provided by our Ad Partners and allow Ad Partners to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies set by the Ad Partners. Web beacons enable our Ad Partners to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our Website. 
 
@@ -46,11 +46,11 @@ Children aged 13 or older should not submit any personal information without the
 
 **Changes**
 
-Urban Dictionary may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your Urban Dictionary editor account and by placing a prominent notice on our site. 
+Urban Dictionary may periodically update this policy. We may notify you about significant changes in the way we treat personal information by placing a prominent notice on our site. 
 
 **Questions**
 
-Any questions about this Privacy Policy should be addressed to this address: [click to see email](http://mailhide.recaptcha.net/d?k=01QKqkzxCg32GTLLtExEloOw==&c=mHGs4NnK0b4UafFp4E2n3NFvxZepvQlZ0C6wDTA2vKc=)  
+Any questions about this Privacy Policy should be addressed to this address: [click to see email](http://mailhide.recaptcha.net/d?k=01QKqkzxCg32GTLLtExEloOw==&c=mHGs4NnK0b4UafFp4E2n3NFvxZepvQlZ0C6wDTA2vKc=)   
 Or by mail at: Urban Dictionary LLC, Attn: Privacy Policy Inquiries, PO Box 7775, ECM #82617, San Francisco, CA 94120 
 
 Updated: November 2008 
