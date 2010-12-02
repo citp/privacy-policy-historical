@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the luvabargain.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603080528id_/http%3A//www.luvabargain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luvabargain.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203000121id_/http%3A//www.luvabargain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Luv a Bargain
 
-## Privacy Policy
-
-**Welcome!** If you're new to Luv a Bargain, you may like to subscribe by [ Email ](http://feedburner.google.com/fb/a/mailverify?uri=LuvaBargain) or [ RSS Feed ](http://feeds.feedburner.com/LuvABargain) to receive free daily updates. Thank you for visiting! 
+Sign up to receive **FREE DAILY UPDATES** by [ Email ](http://feedburner.google.com/fb/a/mailverify?uri=LuvaBargain) or by [ RSS Feed ](http://feeds.feedburner.com/LuvABargain) so you never miss a Great Bargain! 
 
 ## **The Privacy Policy for Luv a Bargain**
 
@@ -19,7 +17,7 @@ Like many other Web sites, www.luvabargain.com makes use of log files. The infor
 www.luvabargain.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on [www.luvabargain.com](https://web.archive.org/web/20100603080528id_/http://www.luvabargain.com/).  
+.:: Google, as a third party vendor, uses cookies to serve ads on [www.luvabargain.com](https://web.archive.org/web/20101203000121id_/http://www.luvabargain.com/).  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.luvabargain.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
@@ -41,6 +39,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Like this post? Share it with someone.**
-
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
+[](http://www.luvabargain.com/privacy-policy/?pfstyle=wp)
