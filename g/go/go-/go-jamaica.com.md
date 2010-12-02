@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326065242id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202023631id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
 
 # Go-Jamaica :: PRIVACY POLICY
 
@@ -27,13 +27,13 @@ The data collected by the cookie is compiled and used in the future to market ot
 
 All data are for specific purposes for our private use only and not for use of any other third party unless specifically instructed by us and only for a specific purposes, such as marketing of products and services.
 
-> **Google and the DoubleClick DART cookie:**
-> 
->   * Google, as a third party vendor, uses cookies to serve ads on your site.
-> 
->   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-> 
-> 
+**Google and the DoubleClick DART cookie:**
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
+
 
 
 **Your Choices**  
