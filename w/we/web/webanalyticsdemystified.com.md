@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticsdemystified.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527190628id_/http%3A//www.webanalyticsdemystified.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsdemystified.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202064640id_/http%3A//www.webanalyticsdemystified.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Web Analytics Demystified Privacy Policy | Web Analytics Demystified
 
