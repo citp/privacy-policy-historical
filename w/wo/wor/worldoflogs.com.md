@@ -1,27 +1,39 @@
-> *The following text is extracted and transformed from the worldoflogs.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616204259id_/http%3A//www.worldoflogs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoflogs.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202115905id_/http%3A//www.worldoflogs.com/help/privacy) for the most accurate reproduction.*
 
 # World of Logs - Real Time Raid Analysis
 
-### Collection and usage of information
+### 1 Introduction
 
-World of Logs collects personal information through the registration process, usage of our products or services, and visits to World of Logs pages or the pages of certain World of Logs affiliated partners.
+Digibites Technology vof ("Digibites Technology") takes your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you. We may update this policy from time to time and shall indicate on the web site when changes have been made.
 
-Personal information can be collected during the registration process, such as your name, email address, birth date, and etcetera.
+### 2 The Information we collect
 
-World of Logs automatically receives and records information on our server logs from your browser, including your IP address, World of Logs cookie information, and the page you request.
+Information is collected from you when you register with us, or when you contribute to or use some of the advanced features on the site. The information we collect is clearly set out on the web page on which we collect it. See for example our registration page. In addition, we may collect your IP address and use cookies unless you configure your web browser not to accept them.
 
-World of Logs uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you and conduct research.
+### 3 Why we collect it
 
-### Information Sharing and Disclosure
+We collect information about you so that we can personalise your use of the site, assist your use of the site and improve the site generally. Depending upon your selections for our data protection questions we may arrange for you to be sent information about related products and services from us and carefully selected third parties (see section 4). You may update the answers to your questions at any time.
 
-World of Logs does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission or under the following circumstance:
+### 4 Who we disclose it to
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of World of Logs's terms of use, or as otherwise required by law.
+In certain circumstances we may need to disclose information about you if you breach this privacy policy or if you breach the Terms and Conditions. We may also disclose or access your account if required to do so by law or by any Governmental body.
 
-### Cookies
+### 5 Security
 
-World of Logs may set and access World of Logs cookies on your computer.
+Keeping information about you secure is very important to us and certain sections of the site may encrypt data using SSL or a comparable standard. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.
 
-### Changes to our Privacy Policy
+### 6 Automated decisions
 
-World of Logs may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your World of Logs account or by placing a prominent notice on our site
+Parts of www.worldoflogs.com and our billing process (which is transacted via Paypal) are automatic and we may process your personal data as part of www.worldoflogs.com and the billing process.
+
+### 7 Accessing and updating your personal information
+
+We will always let you have a copy of personal information we have about you, should you request it, and you may correct it if you wish. Instructions about how to do this are available from data@worldoflogs.com.
+
+### 8 Online Behavioural Advertising
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click www.networkadvertising.org
+
+### 9 Questions?
+
+If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact info@worldoflogs.com. We will endeavour to respond to you promptly. 
