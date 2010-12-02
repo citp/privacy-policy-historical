@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606082831id_/http%3A//www.photonvps.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202091605id_/http%3A//www.photonvps.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PhotonVPS - Privacy Policy
 
@@ -8,12 +8,11 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-This site contains links to other sites. PhotonVPS, Inc. is not responsible nor can it be held liable for the privacy practices or the content of such Web sites.
+This site contains links to other sites. PhotonVPS is not responsible nor can it be held liable for the privacy practices or the content of such Web sites.
 
 We will not disclose or distribute your information to or with any third-parties, for whichever purpose it may be. Never will any third-party consciously gain access to your personal information.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The   
-customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services.
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services.
 
 **Public Forums**
 
