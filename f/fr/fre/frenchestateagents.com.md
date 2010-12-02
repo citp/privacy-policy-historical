@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchestateagents.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115233953id_/http%3A//www.frenchestateagents.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchestateagents.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202085505id_/http%3A//www.frenchestateagents.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
