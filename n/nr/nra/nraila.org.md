@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330011650id_/http%3A//www.nraila.org/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202162356id_/http%3A//www.nraila.org/About/Privacy.aspx) for the most accurate reproduction.*
 
 # NRA-ILA ::
 
