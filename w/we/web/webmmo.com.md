@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmmo.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412145655id_/http%3A//www.webmmo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmmo.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202054136id_/http%3A//webmmo.com/privacy.html) for the most accurate reproduction.*
 
 # WebMMO.com - Privacy Policy
 
