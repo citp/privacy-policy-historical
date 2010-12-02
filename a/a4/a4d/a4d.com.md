@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a4d.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421121658id_/http%3A//www.ads4dough.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4d.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202192735id_/http%3A//www.ads4dough.com/privacypolicy) for the most accurate reproduction.*
 
 # Affiliate Network Private Policy -
 
