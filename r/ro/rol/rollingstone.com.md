@@ -1,90 +1,95 @@
-> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201101812id_/http%3A//www.rollingstone.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202063504id_/http%3A//www.rollingstone.com/music/news/%3Bkw%3D%5Bservicepages%2C110343%5D) for the most accurate reproduction.*
 
-# RollingStone.com
+# Rolling Stone | Privacy Policy
 
-RollingStone.com has created this privacy statement in order to demonstrate our commitment to privacy. You **MUST** read the following **Privacy Policy**. Agreement with these policies is a condition of use of the site, whether as a registered user or a guest. Be sure to understand what information is gathered and for what purpose before entering the site. 
+Apr 14, 2010 9:26 AM EDT
 
-**Before you register with RollingStone.com**  
+**_PRIVACY POLICY_ **
 
+Rolling Stone is committed to protecting your privacy online. Please take a moment to read our policy explaining our use of the personal information that you provide and the choices you can make about the collection and use of your information by Rolling Stone.
 
-**Cookies:** The first time you visit RollingStone.com, we send a cookie to your browser, which may then be stored on your system. (A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.) This cookie is only used on future visits to determine whether you have been to the site before. This cookie does not contain any personal information and it is only used so that we can create aggregate statistics of "first time visitors" to the site. You will remain an otherwise anonymous "guest" of the site, unless you decide to register with RollingStone.com.  
+Your use of and/or registration on any aspect of the website will constitute your agreement to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use this website. This Privacy Policy does not contain information collected elsewhere, including without limitation offline and on sites linked to from the website.
 
+In addition to reviewing this Privacy Policy, please read our [ **Terms of Use** ](http://www.rollingstone.com/music/news/;kw=\[servicepages,110349\]) , as your use of the website constitutes your agreement to its terms and conditions as well.
 
-**IP Address:** We use your IP (Internet Protocol) address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information.  
+From time to time, we may make changes to the guidelines and content of our policy. These changes will always be posted at this location on our website along with the date the changes were made. Your continued access of the website by you will constitute your acceptance of any changes or revisions to the Privacy Policy, so we encourage you to periodically review this policy in order to keep yourself fully informed of our privacy policy information.
 
+CONTACT US
 
-**Becoming a RollingStone.com registered user**   
+Rollingstone.com is owned and operated by Rolling Stone LLC (“Rolling Stone”). If you have any questions concerning this policy or the content and material on our website, or if you would like to update your personal information, you may contact us at:
 
+Rolling Stone Magazine 
 
-**Children under 13:** RollingStone.com does not accept registrations from children under the age of 13 due to the Children's Online Privacy Protection Act ("COPPA"). COPPA was enacted to prevent websites from collecting and/or distributing information from children without their parents' consent. In order to comply with the standards set forth in this Act, RollingStone.com will suspend site registration by children under age 13 until reliable forms of parental consent can be implemented. For more information on COPPA, please refer to the [Federal Trade Commission Website.](http://www.ftc.gov/privacy/)  
+Attention: Customer Relations, Rollingstone.com 
 
+1290 Avenue of the Americas 
 
-**Registration:** We ask all guests of RollingStone.com to register and become registered users if they would like to access the registered users-only features of the site and/or participate in our contests. If you decide to become a registered user, we ask you to provide us with a user name of your choice (your registered user name does not need to be your birth name), a password, email address, and birth date. We will also ask for the following (optional) personal information: first name/last name, gender, and ZIP code. We ask for this information for the following reasons:   
+New York, NY 10104 
 
+You may email us if you have questions about your privacy by emailing suggestionbox@rollingstone.com.
 
-  1. **To "personalize" your RollingStone.com experience.** For example, if we know your ZIP code, then we can let you know when certain bands are coming to your area. In addition, the personalization features of MyRS lets you keep track of favorite bands and/or movies.   
+PROVIDING PERSONAL INFORMATION
 
-  2. **To better target our advertising.** Ad banners can be a helpful way of discovering new products and services. Your personal information can help us choose ads that are more likely to be interesting to you. If you don't like ad banners, then you can simply ignore them.   
+At Rollingstone.com, we provide many interactive features which allow you to vote in polls, provide commentary on our features, participate in online forums, register for an account, and subscribe to our magazine online. While you may use many of the features of the website without providing any personal information, we may at times ask that you provide us with certain information so that we may perform the service you request.
 
-  3. **To create aggregate reports of anonymous registered user information.** These reports help us understand broad demographic trends and support our advertising sales efforts.   
+This information may include, but is not limited to, your name, e-mail or home address, telephone number, fax number, credit card information, birth date, gender, and information about your interests in and use of various products, programs, and services.
 
-  4. **To retrieve your password.** If you forget your password, we need a way to verify who you are so that we may send your password to you.   
+We will never collect personal information from you without your knowledge or consent, and you may always choose not to provide the information we request. Please note, however, that if you do not provide us with this information, you may be unable to access some of the features of the website.
 
+HOW WE USE PERSONAL INFORMATION
 
+From time to time, we may use the personal information you provide us to send you information regarding Rolling Stone magazine and/or Rollingstone.com features and subscriptions and/or to fulfill your requests for products, services and inquiries. We may use the information to contact you about your account or to notify you in the event that you win one of our contests or sweepstakes. We may also offer you or communicate with you about other products, programs, features, or services that we believe may be of interest to you. You will always have the choice to opt out of receiving these offers, updates, and information.
 
+Unless otherwise specified on the website, we may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. There are also times when you provide information about yourself to us in areas of the website that that may be managed or participated in by third parties, such as shopping areas. In such cases, the information may be used by us and those third parties, as well as with any participating sponsors or advertisers of such opportunities and features, each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Rolling Stone will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Rolling Stone does not bear any responsibility for any actions or policies of other third parties.
 
-**We do NOT do the following with the personal information:**   
+If you choose to purchase items through features on the website, we may forward your information to third parties for services such as credit card processing and order fulfillment.
 
+We may disclose personal information when required by law to do so, for example, at the request of a law enforcement agency or when compelled by a court order or subpoena to do so.
 
-  1. We do not share your personally identifiable information with any third party for any purpose without your consent, except that we may employ other companies and individuals to perform functions on our behalf for activities such as analyzing data and providing marketing assistance. They have access to personal information needed to perform their functions, but may not use it for any other purposes.  
+If you submit written content, for example, a comment on a posting or a letter to the editor, to Rollingstone.com, we may publish information about you that you provide, such as your name, username, and hometown along with your content.
 
-  2. We do not add you to our RollingStone.com email newsletter mailing list(s) without your consent. Users may remove themselves from this mailing list(s) by using the My Newsletters form on the RollingStone.com website.   
+NON-PERSONALLY IDENTIFIABLE INFORMATION
 
+We may collect non-personally identifiable information, for example, the type of operating system you use to access our website, the domain name of your internet service provider, the type of browser you are using and your internet protocol (“IP”) address. We use this information to improve many of the features of Rollingstone.com; we may also use this information in the aggregate to analyze site usage and to provide data to our advertisers.
 
+In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our website.
 
+While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
-**After you become a RollingStone.com registered user**  
+INFORMATION FROM PERSON UNDER THE AGE OF 13
 
+We do not seek to collect personally identifiable information from persons under the age of 13. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at the email address or telephone number listed above and we will remove such information from our database. If you are concerned about your children’s use of the Site, you may use web filtering technology to supervise or limit access to the Site 
 
-After you become a RollingStone.com registered user, we send a new cookie to your browser that contains some of the personal information that you provided to us. This enables us to recognize you when you visit RollingStone.com, so that you don't have to login with your registered user name and password each time. This also allows us to personalize the site and target ads much more efficiently.   
+**YOUR CALIFORNIA PRIVACY RIGHTS** (As provided by California Civil Code Section 1798.83) 
 
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. 
 
-As a RollingStone.com registered user, you can review albums, post to message boards, enter contests, play games, and sign up for email newsletters and/or artist updates. You are also able to track your favorite artists, people and movies through the MyRS section. We keep track of your preferences and ratings in our database, so the more that we are able to understand about your tastes, the more interesting and rewarding your RollingStone.com experience will be. This information can also help you find friends on RollingStone.com that have similar likes and dislikes. You are not required to post your reviews and/or comments on the site, but if you do, please be aware that your comments will be visible to other users on RollingStone.com. In addition, by posting on the site, you are thereby consenting to the possibility of being contacted by other RollingStone.com registered users who want to share their opinions.  
+However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a Privacy Policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise the right. 
 
+As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure – typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. 
 
-**Public Profile:** The MyRS section of the site allows users to create their own [public profile](https://web.archive.org/myrs/default.asp). We do not display any of your personal information on your public profile page or anywhere else on the site without your explicit consent. Please be aware that if you voluntarily disclose personal information on your public profile page, this information could be collected and used by other users without your or RollingStone.com’s permission and may result in unsolicited messages from other parties.   
+California customers may request further information about our compliance with this law by e-mailing suggestionbox@rollingstone.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address. 
 
+COOKIES
 
-**Message Boards/Chat:** As a RollingStone.com registered user, you may also choose to interact with other registered users by participating in message boards and/or chat. Users are solely responsible for anything contained in their message board/chat sessions. We do not verify, endorse or otherwise vouch for the contents of any message board/chat session. Users may be held legally liable for the contents of their message board posts/chat sessions if those posts violate any law. Users are advised that message board posts/chat sessions on our site are not "private" and may be disclosed to legal authorities under certain circumstances. We reserve the right to release current or past member information in the event that we believe that a user is in violation of the [Boards Guidelines](https://web.archive.org/boards/info.asp) or committing unlawful acts, or if the information is subpoenaed, or when we deem it necessary or appropriate. Repeat offenders of the RollingStone.com Boards Guidelines will be denied access to our site.   
+We use cookies, as well as other tracking programs, for various features on Rollingstone.com. A "Cookie" is a small data file that is able to store certain information when you visit a website. We may use cookies to perform such services as saving your password in password-protected areas and remembering your video plug-in preferences so that you do not have to reset them each time you visit our site. We may also use cookies to track how often visitors are visiting Rollingstone.com, which pages are visited most often, and user preferences. Cookies will not allow us access to personal information which you have not already provided to us. If you wish to disable cookies, you may do so by turning them off in your web browser. While many parts of Rollingstone.com will still be accessible to you if you choose to disable cookies, you may be unable to use certain features of the website.
 
+SECURITY INFORMATION
 
-No community is perfect, but we feel that a thriving community should be full of unique voices. We encourage our registered users to contribute, interact, debate, and freely express themselves on RollingStone.com in accordance with our Boards Guidelines. RollingStone.com cannot and will not constantly monitor all activity on the site. However, we will take appropriate steps against anyone violating the Boards Guidelines, respond to complaints by users and, if necessary, ban violators from the site.  
+We take the protection of your personal information seriously. Our databases are stored in a secure location and your information is guarded by firewalls and other technology. Although we take appropriate precautions to ensure the security of your information, we cannot assure you that the personal information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
+THIRD PARTY ADVERTISING AND WEBSITES
 
-**Third party commerce partners:** As a RollingStone.com registered user, you may also purchase CDs, digital music, tickets, or merchandise through one of our commerce partners. Please note that information you provide in connection with merchandise you purchase through one of RollingStone.com commerce partners may be shared with RollingStone.com. This information is used only to enhance your RollingStone.com experience by further personalizing your registered user profile. Your personal information and credit card information will never be transferred between any commerce partners. Be advised that the RollingStone.com privacy policy does not apply to any of our commerce partners or Rolling Stone Radio (each of which has its own privacy policy.) For your protection, before providing personal information at any website, you may wish to read and understand their privacy policy.  
+We use a third-party advertising company to serve ads when you visit Rollingstone.com. This company may use information (not including your name, address, email address or telephone number) about your visit to our website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit http://www.doubleclick.com/contact/index.aspx. 
 
+Rollingstone.com may contain links to other websites. The privacy policies of these websites may be different than those listed here, and we do not have any control over, and are not responsible for, the information or use of this information that these websites collect. Please read the privacy notices of any third party websites for their policies.
 
-**Advertisements:** We use an outside ad serving company to display most of the advertisements on our site. These ads may contain cookies. RollingStone.com does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks. However, most Internet browsers allow you to control the kind of cookies you automatically accept or whether you accept cookies at all. (See your Internet browser’s instructions for information on disabling cookies.) RollingStone.com is not responsible for the privacy statements or other content on Web sites outside of the RollingStone.com Web site, including those of our advertisers.  
+From time to time, Rollingstone.com may offer promotions, contests, or sweepstakes that are sponsored or co-sponsored by other companies. These companies may have access to the personal information you provide in order to participate in these promotions, sweepstakes, or contests. We do not have any control over, and are not responsible for, our sponsors' or co-sponsors' use of this information.
 
+We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Rolling Stone disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting http://www.networkadvertising.org/optout_nonppii.asp.
 
-**Changes to this Privacy Policy**  
+SALE OR BANKRUPTCY INFORMATION
 
+In the event of a bankruptcy, sale, merger, public offering, or other change in control of Rolling Stone LLC and/or Rollingstone.com, your information may be shared with the person or business that assumes ownership or control of this website.
 
-RollingStone.com may amend this policy from time to time to reflect company and customer feedback. We encourage you to periodically review this statement to be informed of how RollingStone.com is protecting your information.  
-
-
-**Questions?**   
-
-
-If you have any questions about our Privacy Policy, please direct them to:  
-
-
-Privacy Policy Manager  
-c/o RollingStone.com  
-640 N. LaSalle, Suite 560  
-Chicago, IL 60610  
-[getmusic.general@mp3.com](mailto:getmusic.general@mp3.com?cc=getmusic.support@mp3.com)  
-
-
-If there is anything that we can do to make your RollingStone.com experience more enjoyable, please don't hesitate to use our [User Support Form](https://web.archive.org/help/supportform.asp) to let us know  
-
+_ This Privacy Policy was revised on April 16, 2010. _
