@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529162906id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202055552id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -21,11 +21,13 @@ We do collect some technical information. For example, when you browse, read pag
 
 
 
-This information is used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We also use this data to optimize the site's technical design specifications and/or identify system performance or problem areas. This information is used as a source of anonymous statistical data and is shared only when required for law enforcement purposes. 
+This information is used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We also use this data to optimize the site's technical design specifications and/or identify system performance or problem areas. This information is used as a source of anonymous statistical data and is retained for a period of five years; it is shared only when required for law enforcement purposes. 
 
 ##  Cookies 
 
-When you visit some websites, their web servers generate pieces of information known as cookies. A cookie is an entry placed in a file on your hard drive by a website that allows it to monitor your use of the website, usually without your knowledge. Some cookies collect personal information to recognize your computer in the future. The Board’s website does not use persistent "cookies" or tracking mechanisms that collect personally identifiable information. We only use non-persistent cookies or “per-session cookies.” Per-session cookies serve technical purposes like providing seamless navigation through the Board’s website. These cookies do not permanently record data and they are not stored on your computer's hard drive. The Board’s website cookies are stored in memory and are only available during an active browser session. These cookies do not collect personal information on users and they are erased as soon as you leave our website. 
+When you visit some websites, their web servers generate pieces of information known as cookies. A cookie is an entry placed in a file on your hard drive by a website that allows it to monitor your use of the website, usually without your knowledge. Some cookies collect personal information to recognize your computer in the future. The Board’s website does not use persistent "cookies" or tracking mechanisms that collect personally identifiable information. We only use non-persistent cookies or “Tier 1 single-session cookies.” Single-session cookies serve technical purposes like providing seamless navigation through the Board’s website. These cookies do not permanently record data and they are not stored on your computer's hard drive. The Board’s website cookies are stored in memory and are only available during an active browser session. These cookies do not collect personal information on users and they are erased as soon as you leave our website. 
+
+Users that wish to opt out of the use of these single-session cookies may do so by changing the settings in their web browser. Instructions on how to make such changes are available at <http://www.usa.gov/optout_instructions.shtml>.  Opting out of the use of single-session cookies does not affect the ability of a visitor to access any information or services on our website. 
 
 ##  If You Send Us Personal Information 
 
@@ -51,7 +53,7 @@ The Board’s website is part of a Federal computer system used to accomplish Fe
 
 ##  How to Contact Us about the Website 
 
-If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20100529162906id_/http%3A//federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551. 
+If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20101202055552id_/http%3A//www.federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551. 
 
 ##  Responsibility 
 
@@ -61,35 +63,42 @@ The Board's Chief Privacy Officer is responsible for ensuring the Board's implem
 
 The Board complies with the E-Government Act of 2002. The Act requires an agency to conduct a Privacy Impact Assessment (PIA) when developing or buying an information technology system that contains personal information about members of the public. PIAs serve to ensure that privacy protections are addressed throughout the development, design, and deployment of a system by providing an analysis of how personally identifiable information is collected, used, disseminated, and maintained. The following is a list of PIAs published by the Board: 
 
-[Automated Loan Examination Review Tool (42 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_alert.pdf)
+[Automated Loan Examination Review Tool (42 KB PDF)](https://web.archive.org/files/pia_alert.pdf)
 
-[CHAT Suite of Analysis Tools (40 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_chat.pdf)
+[CHAT Suite of Analysis Tools (40 KB PDF)](https://web.archive.org/files/pia_chat.pdf)
 
-[Consumer Advisory Council Web Nomination System (22 KB)](https://web.archive.org/generalinfo/privacy/pia_cac_wns.pdf)
+[Consumer Advisory Council Web Nomination System (22 KB PDF)](https://web.archive.org/files/pia_cac_wns.pdf)
 
-[Consumer Complaint and Inquiry Systems (28 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_ccis.pdf)
+[Consumer Complaint and Inquiry Systems (240 KB PDF)](https://web.archive.org/files/pia_ccis.pdf)
 
-[Document Management System for the Board of Governors of the Federal Reserve System’s Division of BS&R and C&CA   
-(38 KB PDF)](https://web.archive.org/pia_docmgt.pdf)
+[Document Management System for Division of Banking Supervision and Regulation and Division of Consumer and Community Affairs (269 KB PDF)](https://web.archive.org/files/pia_bsr_dcca_docmgmt.pdf)
 
-[Electronic Applications System (34 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_eapps.pdf)
+[Electronic Applications System (275 KB PDF)](https://web.archive.org/files/pia_eapps.pdf)
 
-[Electronic Workpaper Program (EWP) Supervisory Systems (49 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_electronic_workpapers_program_supervisory_systems_final.pdf)
+[Electronic Workpaper Program (EWP) Supervisory Systems (30 KB PDF)](https://web.archive.org/files/pia_ewpss.pdf)
 
-[Office of Inspector General Information Technology Infrastructure Systems (29 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_oig_it.pdf)
+[Electronic Governors' Systems (38 KB PDF)](https://web.archive.org/files/pia_egovsystems.pdf)
 
-[Office of the Secretary’s Correspondence Control System (20 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_osec_ccs.pdf)
+[Fair Lending Tool (40 KB PDF)](https://web.archive.org/files/pia_fairlendingtool.pdf)
 
-[Office of the Secretary’s Directors Program Database (37 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_directors.pdf)
+[Federal Reserve Application Name Check System (30 KB PDF)](https://web.archive.org/files/pia_francsys.pdf)
 
-[Office of the Secretary Electronic Comments Routing System (46 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_secrs_final.pdf)
+[Office of Inspector General Information Technology Infrastructure Systems (29 KB PDF)](https://web.archive.org/files/pia_oig_it.pdf)
 
-[Office of the Secretary Freedom of Information Act and Privacy Act Case Tracking and Reporting System (20 KB)](https://web.archive.org/generalinfo/privacy/pia_osec_foia_pactrs.pdf)
+[Office of the Secretary Correspondence Control System (20 KB PDF)](https://web.archive.org/files/pia_osec_ccs.pdf)
 
-[Personal Identity Verification (PIV) Program (36 KB PDF)](https://web.archive.org/generalinfo/privacy/privacyimpactpiv.pdf)
+[Office of the Secretary Directors Program Database (37 KB PDF)](https://web.archive.org/files/pia_for_directors.pdf)
 
-[Studies to Develop and Test Consumer Regulatory Disclosures (43 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_consumer.pdf)
+[Office of the Secretary Electronic Comments Routing System (46 KB PDF)](https://web.archive.org/files/pia_for_secrs_final.pdf)
 
-[Supervisory Enforcement Actions and Special Examinations Tracking System (32 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_sease.pdf)
+[Office of the Secretary Freedom of Information Act and Privacy Act Case Tracking and Reporting System (20 KB PDF)](https://web.archive.org/files/pia_osec_foia_pactrs.pdf)
 
-[Visitor Registration System (35 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_visitor.pdf)
+[Passport and Visa System (158 KB PDF)](https://web.archive.org/files/pia_passportvisa.pdf)
+
+[Personal Identity Verification (PIV) Program (36 KB PDF)](https://web.archive.org/files/pia_piv.pdf)
+
+[Studies to Develop and Test Consumer Regulatory Disclosures (43 KB PDF)](https://web.archive.org/files/pia_for_consumer.pdf)
+
+[Supervisory Enforcement Actions and Special Examinations Tracking System (32 KB PDF)](https://web.archive.org/files/pia_sease.pdf)
+
+[Visitor Registration System (35 KB PDF)](https://web.archive.org/files/pia_visitor.pdf)
