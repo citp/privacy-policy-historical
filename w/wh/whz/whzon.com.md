@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whzon.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131220345id_/http%3A//whzon.com/icdirect/wzPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whzon.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202055734id_/http%3A//whzon.com/icdirect/wzPrivacy.asp) for the most accurate reproduction.*
 
-# WhzOn.Com SiteLOGz
+# WhzOn.Com Follow Me Apps
 
 WhzOn.Com Member Privacy
 
@@ -12,23 +12,23 @@ Users who no longer wish to use our service can instantly remove all personal in
 
 | 
 
-SiteLOGz Website Visitor Tracking
+Follow Me Apps Website Visitor Tracking
 
 Important! WhzOn.Com provides website usage statistics to its member sites. The information provided is limited and can NOT be used to identify who visits their websites or from where the visitor came from. 
 
 To provide this service NON persistent cookies are used to keep track of individual sessions. As soon as the visitor to the site closes his web browser the cookies expire and are deleted. 
 
-SiteLOGz DOES NOT track or provide IP numbers of visitors. 
+Follow Me Apps DO NOT track or provide IP numbers of visitors. 
 
-SiteLOGz DOES NOT provide any information on the location of visitors. 
+Follow Me Apps DO NOT provide any information on the location of visitors. 
 
-SiteLOGz DOES NOT provide any information that could be used to identify a visitor. 
+Follow Me Apps DO NOT provide any information that could be used to identify a visitor. 
 
 | 
 
-SiteLOGz Blind Email Service
+Follow Me Apps Blind Email Service
 
-WhzOn.Com saves your email address so that we can return a response from member's you contact through the SiteLOGz mail service. 
+WhzOn.Com saves your email address so that we can return a response from member's you contact through the Follow Me Apps mail service. 
 
 Members have no access to your email address and can only send one reply back to you through the service. 
 
