@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestbuy-jobs.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529131650id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuy-jobs.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202171553id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
-# Privacy Policy - BestBuy
+# Privacy Policy - Best Buy
 
 [](http://www.truste.org/ivalidate.php?url=www.bestbuy.com&sealid=102)
 
@@ -280,9 +280,9 @@ Our Web site may also use other technologies to track which pages our visitors v
 
 ##### Third-Party Ad Providers and Interest-Based Advertising
 
-We use third-party advertising companies to serve ads when you visit our Web site or other sites across the Internet. These companies may use anonymous information (not including your name, address, e-mail address, or telephone number) about your visits to this and other Web sites. We may also share anonymous information with these companies in aggregate form. In either case, the purpose of the sharing is to provide advertisements about goods and services that may be of interest to you, analyzing and improving the effectiveness of ads and e-mails, and improving and enhancing our site and its content.
+We use third-party advertising companies to serve ads when you visit our Web site or other sites across the Internet. These companies may use their tracking technologies and cookies to collect anonymous information (not including your name, address, e-mail address, or telephone number) about your visits to this and other Web sites. We may also share anonymous information with these companies in aggregate form. In either case, the purpose of the sharing is to provide advertisements about goods and services that may be of interest to you, analyzing and improving the effectiveness of ads and e-mails, and improving and enhancing our site and its content.
 
-To learn more about interest-based advertising and your privacy, including opting out of such advertising, visit our partner's site [Atlas Solutions](http://www.atlasdmt.com/privacy/). We may partner with other companies to provide interest-based advertising, both on and off BestBuy.com. In these situations, we will notify you of the advertising and give you the opportunity to opt-out of these activities.
+To learn more about interest-based advertising and your privacy, including opting out of such advertising, visit our partners' sites [Atlas Solutions](http://www.atlasdmt.com/privacy/) and [Google](http://www.google.com/ads/preferences/view?sig=ACi0TCgRfdSI82nRFqV2_sUa2_3jLBP1MrhsLp7kopCKve-wd2x4zglXyniH2z5_O57nTm2z3w-iSEIM3qZbAgpsoy0fr0oHEpkghHQlY3eVP_Mjp2UaEEsSuyDBBjlqNv02KWw5XJWw7oXrJ_1QHhyKWtT5uwgs2EPzFAHFiMFuc99gviIKKzgct-FU7r9xFhuB5uWgf0Qu&hl=en/). We may partner with other companies to provide interest-based advertising, both on and off BestBuy.com. In these situations, we will notify you of the advertising and give you the opportunity to opt-out of these activities.
 
 Back to Top
 
@@ -326,15 +326,11 @@ Back to Top
 
 As Best Buy continues to improve the services, products and the features we provide, this policy is subject to change. We will post significant changes to this Policy here and/or other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner.
 
-Changes as of the last revision date relate primarily to our participation in TRUSTe's Safe Harbor Privacy Program, and include the following clarifications and enhancements:
+Changes as of the last revision date relate to adding Google to Third-Party Ad Providers and Interest-Based Advertising section.
 
-  * clarifying purposes for sharing personal information with service providers working on our behalf
-  * confirmation that Best Buy does not sell, rent or trade personal information
-  * additional information related to the use of public forums and the use of co-branded sites
-  * an extended description of Best Buy's participation in the US-EU Safe Harbor Framework
-
-
-
-Last updated January 13, 2010.
+Last revision date: 11.11.10
 
 Back to Top
+
+
+
