@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handle.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210525id_/http%3A//www.handle.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handle.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202120121id_/http%3A//handle.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,3 @@ Organizations and individuals who wish to provide identifier or resolution servi
 Handle System technology users may join the [Handle-Info](http://www.cnri.reston.va.us/mailman/listinfo/handle-info/) mailing list using an automated mail list program. Subscribers may post to the list, and the Handle System Administrator uses the list to provide subscribers with information about software updates and/or information of importance to developers and service administrators. The Handle-Info list of subscribers is not provided to any third parties or made available to list subscribers.
 
 This web site contains links to other third party sites. CNRI is not responsible for the privacy practices or the content of such third party sites. 
-
-Updated 14 June 2006 
-
-Send inquiries to hdladmin@cnri.reston.va.us 
