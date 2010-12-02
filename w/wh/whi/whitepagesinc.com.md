@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepagesinc.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623224146id_/http%3A//www.whitepagesinc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepagesinc.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202073637id_/http%3A//whitepagesinc.com/privacy_policy) for the most accurate reproduction.*
 
 # WhitePages Inc. - Privacy Policy
 
@@ -16,6 +16,9 @@ It's important for you to know that we acquire much of the information published
 **Remove Published Information** ****
 
 If you want to remove information - such as your name, address and phone number - from being shown on WhitePages websites, [click here](http://www.whitepages.com/help/privacy_central#6). For specific information about how you can control the information we may publish about you, [click here](http://www.whitepages.com/help/privacy_central "Privacy Central").
+
+##   
+WhitePages Privacy Policy
 
 **This policy is effective as of September 11, 2009.**
 
