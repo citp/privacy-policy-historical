@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-games-download.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601094619id_/http%3A//www.all-games-download.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-games-download.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202013114id_/http%3A//www.all-games-download.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Games Download
 
