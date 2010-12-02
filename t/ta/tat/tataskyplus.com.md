@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513073819id_/http%3A//www.tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202050049id_/http%3A//tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
 
-# DTH – Tata Sky DTH in India, Leading Satellite Television Provider in India, DTH services by Tata Sky, Direct-to-home, India
+# Digital Tv Recorder - Tata Sky+
 
 Tata Sky Limited is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Website “www.tataskyplus.com” (“Site”).
 
