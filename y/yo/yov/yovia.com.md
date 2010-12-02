@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yovia.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207220813id_/http%3A//www.yovia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yovia.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202030354id_/http%3A//www.yovia.com/privacy.html) for the most accurate reproduction.*
 
 # Yovia - Inventors of Social Velocity - Social Media Research
 
@@ -9,7 +9,7 @@ Our postal address is:
 Atlantic Beach, FL 32233   
 
 
-We can be reached via e-mail at [ info@yovia.com](https://web.archive.org/web/20100207220813id_/http%3A//www.yovia.com/%E2%80%9Dmailto:info@yovia.com%E2%80%9D), or you can reach us by telephone at 904-242-2669. 
+We can be reached via e-mail at [ info@yovia.com](https://web.archive.org/web/20101202030354id_/http%3A//www.yovia.com/%E2%80%9Dmailto:info@yovia.com%E2%80%9D), or you can reach us by telephone at 904-242-2669. 
 
 _How We Collect Information_
 
