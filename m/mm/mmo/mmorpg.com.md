@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630215113id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202113952id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
 
 # MMORPG.com - Your Headquarters for Online Multiplayer Games, RPG Online Games, Online Role Playing Free Games!
 
@@ -39,7 +39,7 @@ _Example: Reporting a post we do not take action is not against the rules. Repor
   * Using the Post Report Tool as a Method of Contacting the Moderators 
     * The post report tool is not intended to be used as a way for users to communicate with Moderators. If you have an issue with a warning or ban, please email [community@mmorpg.com](mailto:community@mmorpg.com).
   * Referral Links 
-    * MMORPG.com does not support its members posting links for which they are entitled to reward. This constitutes advertising on the forums. If you wish to purchase advertising with us, please contact admin@mmorpg.com.
+    * MMORPG.com does not support its members posting links for which they are entitled to reward. This constitutes advertising on the forums. If you wish to purchase advertising with us, please contact [admin@mmorpg.com](mailto:admin@mmorpg.com).
   * Trolling 
     * Posting excessive negative comments or baiting others to respond in a negative manner is considered trolling on the MMORPG.com forums.  
 _For example: If there is one game that you did not enjoy, voicing your opinion is encouraged. Posting this opinion in every thread concerning that game to the point that it disrupts all other conversation is not tolerated._
@@ -66,7 +66,7 @@ At the discretion of the moderator and/or the Community Manager, the following i
   * Spamming 
     * Posting the same or similar messages over and over again for the sole purpose of disrupting a board's activity is against the rules.
   * Advertisements 
-    * MMORPG.com does not allow users to advertise products or companies in our forums. If you want to advertise, contact support@mmorpg.com.
+    * MMORPG.com does not allow users to advertise products or companies in our forums. If you want to advertise, contact [admin@mmorpg.com](mailto:admin@mmorpg.com).
   * Resurrecting Locked or Deleted Threads 
     * If a thread has previously been deleted or locked by a moderator, it is against our rules to start another thread on the same topic. This rule applies if a participant in a locked or deleted thread re-starts the thread, a warning and 1 day ban will be issued. If this happens twice, the member will be permanently banned, no exceptions.
   * Unofficial Servers 
@@ -90,6 +90,20 @@ Committing Major Infractions at MMORPG.com will result in an immediate and perma
     * If the staff of MMORPG.com discovers that a user is creating and/or using multiple accounts, that user, and all accounts, both past and present, will be banned from MMORPG.com.
   * Posting Other's Personal Information Without Consent 
     * It is against our rules to post the personal information of other people without their consent. This includes, but is not limited to, email correspondence, contact information, photographs, financial information and social security numbers. It is to the moderator's discretion to decide whether or not the line has been crossed.
+
+
+
+## Game List
+
+### Ratings and Hype-meter
+
+In regards to game ratings and hype-meter voting, we reserve the right to remove unfairly obtained votes and, as needed, suspend voting on games deemed to have been given unfair votes. The amount of time voting will be suspended is dependent upon how long MMORPG.com believes it will take before fair voting will again occur.
+
+In the case of ratings and hype-meter votes, "unfair votes" are determined by MMORPG.com staff and specifically include (but are not limited to):
+
+  * Those solicited by game companies asking for a particular rating ("go rate our game a 10").
+  * Those solicited by game companies offering any kind of compensation or contest.
+  * Those registered by single users under multiple accounts.
 
 
 
