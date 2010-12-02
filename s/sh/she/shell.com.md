@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609153009id_/http%3A//www.shell.com/home/content/footer/about_this_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202054819id_/http%3A//www.shell.com/home/content/footer/about_this_site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Global
 
@@ -45,13 +45,17 @@ We collect and use personal information (including name, address, telephone numb
 
 
 
-As part of the services offered to you through our site, the information you provide to us may be transferred to countries outside of the European Economic Area ("EEA"). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
+As part of the services offered to you through our site, the information you provide to us may be transferred to countries outside of the European Economic Area ("EEA"). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA. These countries may not have similar data protection laws to the EEA. 
+
+If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
 
 Except as set out in this privacy policy, we will not disclose any personally identifiable information without your permission unless we are legally entitled or required to do so (for example, if required to do so by legal process or for the purposes of prevention of fraud or other crime) or if we believe that such action is necessary to protect and/or defend our rights, property or personal safety and those of our users/customers etc. 
 
 ###  Providing you with additional information and sharing your information 
 
-From time to time we would like to use your personal information for purposes other than as set out in the above section. We believe that these additional uses will be of benefit to you. However, we understand that you may not wish us to use your information in this way. We will not use your information for the purposes set out below if you have indicated that you do not wish us to use your information in this way when submitting the information. Additionally, if at any time you wish us to stop using your information for any or all of the below purposes, please let us know. We will stop the use of your information for such purposes as soon as it is reasonably possible to do so. In such case we will, however, continue to use your personal data for the purposes set out in the above section for as long as it is reasonable to do so. 
+From time to time we would like to use your personal information for purposes other than as set out in the above section. We believe that these additional uses will be of benefit to you. However, we understand that you may not wish us to use your information in this way. We will not use your information for the purposes set out below if you have indicated that you do not wish us to use your information in this way when submitting the information. 
+
+Additionally, if at any time you wish us to stop using your information for any or all of the below purposes, please let us know. We will stop the use of your information for such purposes as soon as it is reasonably possible to do so. In such case we will, however, continue to use your personal data for the purposes set out in the above section for as long as it is reasonable to do so. 
 
 From time to time we would like to use the information you supply to us for: 
 
@@ -75,7 +79,7 @@ We may automatically collect non-personal information about you such as the type
 
 ###  The use of cookies 
 
-We may store some information (commonly known as a "cookie") on your computer when you look at our site. We are able to read these cookies for information purposes when you revisit our web site. The type of information we collect as a result of a cookie being accepted by you is specific to your PC and includes the IP address, the date and time the PC visited the web site, what parts of our web site were looked at and whether the web pages requested were delivered successfully. This information is anonymous; it represents a computer rather than a person.
+We may store some information (commonly known as a "cookie") on your computer when you look at our site. We are able to read these cookies for information purposes when you revisit our website. The type of information we collect as a result of a cookie being accepted by you is specific to your PC and includes the IP address, the date and time the PC visited the web site, what parts of our web site were looked at and whether the web pages requested were delivered successfully. This information is anonymous; it represents a computer rather than a person.
 
 We use the cookie information to improve our knowledge of the use of our web site and to enable us to be able to ascertain whether the web site is operating at an optimal level. This allows us to enhance our web offerings to you and to provide an enjoyable and an innovative online experience. 
 
