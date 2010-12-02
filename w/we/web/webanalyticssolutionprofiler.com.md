@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203221955id_/http%3A//webanalyticssolutionprofiler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202045457id_/http%3A//webanalyticssolutionprofiler.com/privacy.htm) for the most accurate reproduction.*
 
 # ::Privacy and code of ethic::WASP::
 
