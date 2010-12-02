@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603084653id_/http%3A//web2list.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202074042id_/http%3A//web2list.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
