@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorillanation.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502065425id_/http%3A//www.gorillanation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillanation.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202023253id_/http%3A//www.gorillanation.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
