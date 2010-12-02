@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211224id_/http%3A//tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202235255id_/http%3A//tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
 
 # Tombraiders.net Advertising and Privacy Policy
 
@@ -14,7 +14,7 @@ Tombraiders.net respects your right to privacy. The following outlines the priva
 
 There are no password-restricted areas on my sites and, unless you contact me, I have no way of obtaining your email address or other personal information.
 
-When you sign up for my [blog feed](http://stellalune.blogspot.com/) or send me a message by email or through my [contact form](https://web.archive.org/web/20100611211224id_/http%3A//tombraiders.net/stella/contact.html), I do save your name (if you have provided it) and email address. **I _never_ , under any circumstances, rent, sell or share this information with any outside parties.** Subscribing to my feed or sending me a personal message will not cause you to receive any "spam"/junk email.
+When you sign up for my [blog feed](http://stellalune.blogspot.com/) or send me a message by email or through my [contact form](https://web.archive.org/web/20101202235255id_/http%3A//tombraiders.net/stella/contact.html), I do save your name (if you have provided it) and email address. **I _never_ , under any circumstances, rent, sell or share this information with any outside parties.** Subscribing to my feed or sending me a personal message will not cause you to receive any "spam"/junk email.
 
 The only exception to this rule is in the case of contests, when I may have to share the winners' information with the company providing or shipping the prizes.
 
@@ -42,9 +42,9 @@ Tombraiders.net, spacecolonyfans.net and brickraiders.net contain links to other
 
 ##### Security & Donating to tombraiders.net
 
-Information on how to help support this site appears [here](https://web.archive.org/web/20100611211224id_/http%3A//tombraiders.net/stella/support/support.html). This includes links to PayPal and Amazon Payments, through which visitors can donate money. Both PayPal and Amazon Payments use secure servers with the highest level of encryption available. PayPal's [Security Center](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/security-main-outside) and [Privacy Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside) provide more details about their service. For information about Amazon Payments, please visit the [Amazon Payments home page](https://payments.amazon.com/sdui/sdui/index.htm) and follow the Privacy and Security links at the bottom of the page.
+Information on how to help support this site appears [here](https://web.archive.org/web/20101202235255id_/http%3A//tombraiders.net/stella/support/support.html). This includes links to PayPal and Amazon Payments, through which visitors can donate money. Both PayPal and Amazon Payments use secure servers with the highest level of encryption available. PayPal's [Security Center](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/security-main-outside) and [Privacy Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside) provide more details about their service. For information about Amazon Payments, please visit the [Amazon Payments home page](https://payments.amazon.com/sdui/sdui/index.htm) and follow the Privacy and Security links at the bottom of the page.
 
-Again, if you have any question about this site or its security and privacy policy, please don't hesitate to [contact me](https://web.archive.org/web/20100611211224id_/http%3A//tombraiders.net/stella/contact.html). —Stella
+Again, if you have any question about this site or its security and privacy policy, please don't hesitate to [contact me](https://web.archive.org/web/20101202235255id_/http%3A//tombraiders.net/stella/contact.html). —Stella
 
 **·           ·          ·**
 
