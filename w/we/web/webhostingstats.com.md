@@ -1,25 +1,33 @@
-> *The following text is extracted and transformed from the webhostingstats.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405210344id_/http%3A//www.zipsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingstats.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202065930id_/http%3A//webhostingstats.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# privacy policy
 
-**Our commitment is to your privacy...** Your privacy is very important to us. We provide this notice to protect your privacy. The following explains our online information practices, and the choices you can make about the way your information is collected and used.
+### About this Notice
 
-The Information We Collect:  
-When you inquire online the information you submit is sent directly to the company of your choosing and kept for statistical purposes. We do not resell your information.
+We are committed to protecting your privacy and earning your trust every day. This notice describes the personal information we collect about you and how we use and protect it. It applies to our current and former customers and replaces earlier versions that we may have given to you.
 
-The Way We Use Information:  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. You can register with our web site if you would like to be on our mailing list so as to receive updates on our new products and services. Information you submit on our web site will not be used for this purpose unless you complete the appropriate registration form. We use non-identifying and aggregate information to better design our web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+### What information do you collect about me?
 
-Our Commitment To Data Security:  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+We consider the information you give us to quote and service your insurance policy to be “Nonpublic Personal Information” if it identifies you and is not available to the public.
 
-Our Commitment To Children's Privacy:  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.
+### Who do we share your information with?
 
-How You Can Correct Your Information:  
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+We will share information about you only as permitted by law. We will not share your Nonpublic Personal Information with other companies.
 
-How To Contact Us:  
-Should you have other questions or concerns about these privacy policies, please call us at (800) 949-2919 or send us an email at [contact@zipsearch.com](mailto:contact@zipsearch.com "Contact Us")
+Disclosures include those that we feel are required to provide insurance claims and customer service, prevent fraud, perform research or comply with the law. Recipients include, our family of insurance companies, their claims representatives, service providers, consumer reporting agencies, law enforcement, courts and government agencies. These parties may disclose the information to others as permitted by law. For example, consumer reporting agencies may disclose transaction information received from us to other insurance companies with which you do business.
 
-|  | 
+Where permitted by law, we may also disclose application or transaction information to service providers that help us market our products.
+
+### Do you protect my information?
+
+We restrict access to your Nonpublic Personal Information to our employees and others who we feel must use it to provide our products and services. Their use of the information is limited by law, our employee code of conduct, and written agreements where appropriate. We also maintain physical, electronic and procedural safeguards to protect your information.
+
+### Why do you collect my email address?
+
+We collect your e-mail address so that we can send you e-mails concerning your transactions with us, and other useful information.
+
+To ensure you get our e-mails, our service provider or we may receive confirmations when you open them or click through the e-mail links. These confirmations may also show whether your e-mail system supports graphics, so we can tailor our messages to you. We will not share your e-mail address with other companies for their marketing purposes.
+
+### Is there additional information for Website visitors?
+
+When you visit our site, we may use information we collect to provide services to you. We use web site information to help understand what you want so that we can enhance your online experience.
