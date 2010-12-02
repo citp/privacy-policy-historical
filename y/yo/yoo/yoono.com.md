@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yoono.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114023416id_/http%3A//www.yoono.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoono.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202172740id_/http%3A//www.yoono.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Yoono
 
 ##  Privacy Policy - Last Modified on May 1, 2009 
 
-[Click here to see previous version](https://web.archive.org/web/20100114023416id_/http%3A//www.yoono.com/privacy_old.html)
+[Click here to see previous version](https://web.archive.org/web/20101202172740id_/http%3A//www.yoono.com/privacy_old.html)
 
 This Privacy Policy explains what information of yours will be collected by Yoono, Inc. ("Yoono," "we," or "us") when you use Yoono.com and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your personally identifiable information with anyone except as described in this Privacy Policy. As used in this Privacy Policy, "personally identifiable information" means information that identifies or can be used to identify or contact you, including your name, email address, postal address, and phone number, but not including your IP address (except in combination with one or more of the above). 
 
@@ -105,6 +105,6 @@ If we change our privacy policies and procedures, we will post those changes on 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [privacy@yoono.com](mailto:privacy@yoono.com), or send mail to: 
 
 > **Yoono, Inc.**  
->  **580 Howard Street, Suite 201**  
->  **San Francisco CA 94105**  
+>  **300 De Haro St, South Train**  
+>  **San Francisco CA 94103**  
 > 
