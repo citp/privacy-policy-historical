@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willow.tv privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511072944id_/http%3A//willow.tv/EventMgmt/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willow.tv privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202050120id_/http%3A//www.willow.tv/EventMgmt/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Welcome to Willow TV
 
