@@ -1,103 +1,336 @@
-> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102235659id_/http%3A//www.cinemanow.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202171553id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
-# Roxio CinemaNow - Online Movies - Download Movies - Rent and Buy Movies Online
+# Privacy Policy - Best Buy
 
-The Privacy Policy describes how Sonic Solutions d/b/a CinemaNow (collectively, "CinemaNow", "we", or "us") gathers and uses information on its websites, including the forums, sharing features and other services available on such websites (collectively, the "Service"). We may change this Privacy Policy without notice from time to time. 
+[](http://www.truste.org/ivalidate.php?url=www.bestbuy.com&sealid=102)
 
-Contact information for questions regarding this Privacy Policy should be directed to: 
+### Privacy Policy
 
-Legal Department  
-Sonic Solutions  
-455 El Camino Real  
-Santa Clara, CA 95050  
-email: [**privacy@sonic.com**](mailto:privacy@sonic.com)
+This privacy policy lets you know what information we collect, how we may share that information, and your choices regarding the sharing of your information. This policy applies to Best Buy stores, BestBuy.com and other places where we may collect personal information.
 
-**Information We Collect**
+#### Highlights
 
-The goal of CinemaNow is to provide you with the information, services and resources that are most relevant and useful to consumers interested in our products. To do this, CinemaNow sometimes needs to collect information about you. We collect two types of information through our Service, "anonymous information" and "personal information." 
+##### Personal Information
 
-Anonymous information refers to information that cannot be tied back to a specific individual. Each time a visitor comes to the Service, CinemaNow collects some information to improve the overall quality of the visitor's online experience and to provide aggregate reporting back to third party content providers. CinemaNow also collects aggregate search terms from its search services for internal reporting and targeted content presentation (that is, web pages which are dynamically displayed based on your individual interests). CinemaNow collects this user information for purposes of product monitoring, product improvement, and targeted content. 
+  * We may collect personal information such as your contact, billing and shipping information. We may also collect demographic information.
+  * We collect information regarding your interactions with our Web sites using cookies or clickstream technology.
+  * We may obtain additional personal and non-personal information from third party providers.
 
-In addition to anonymous data, CinemaNow may also collect personal information. Personal information refers to information that tells us specifically who you are, such as your name and postal address, credit card information, email address, or products or services you purchase. CinemaNow will collect personal information about you when you register on the Service, purchase or rent content from CinemaNow, participate in surveys or promotional offers, or request information or support from CinemaNow. 
 
-Most of the personal information is gathered when you purchase or rent content on the Service for the first time. When you make purchases, you have the option to save your billing information. This is so that the next time you come back and make another purchase you don't have to enter all of your information again. If you choose to save your credit card information it will display in the My Account section of the Service. This section requires your login for access. 
 
-CinemaNow may also specifically ask you whether we may send you information about products and services related to a CinemaNow purchase. 
+##### Your Choices
 
-If you contact CinemaNow, we may keep a record of that correspondence, including your email address. We use that information so that we may respond to that email, and for future reference. 
+You may choose to:
 
-**What Are "Cookies" And How Does CinemaNow Use Them?**
+  * Stop receiving e-mail, direct mail, phone and mobile marketing communications.
+  * Update and correct your personal information.
 
-A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you and track your activities on the Service. This unique number identifies your browser to computers whenever you visit the Service making use of them. A cookie will not allow a web site to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. 
 
-In order to improve the Service, we use cookies to track your visits. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Please see the user guide or help section of your browser to make this change. Parts of the Service may require an authorization, and so cookies may not be optional; users choosing not to accept cookies may not be able to access parts of the Service or to use some or all of the products and/or services otherwise available on the Service. Please note: disabling or deleting cookies could mean that you won't have access to the movies you have purchased or rented from us. When you click on "My Videos", the videos that you have already purchased might not be listed in your account. 
 
-**Who Collects the Information?**
+##### Uses of Information
 
-When you provide information to CinemaNow, that information is collected and maintained either by CinemaNow or by an authorized agent of CinemaNow such as web hosting companies, customer care service providers, and transaction processing service providers, unless specifically stated otherwise at the point of collection. 
+  * Best Buy does not sell, rent or trade your personal information to third parties.
+  * We use information about you to fulfill your requests, administer various programs, provide services, and for other business purposes.
+  * Your personal information may be shared with current or future Best Buy entities or subsidiaries. We may also use the information you provide to send you marketing communications.
+  * In limited circumstances, Best Buy may need to share your information with certain third parties to perform services on our behalf.
 
-**How Do We Use the Information?**
 
-Any personal information you provide to CinemaNow on the Service is maintained and accessible only by CinemaNow and its authorized agents and business partners, unless specifically stated otherwise. CinemaNow may request information from its users so that users can enjoy customized experiences across the Service, including personalized services, interactive communications, discussion groups, and many other types of content and services. 
 
-The following are examples of how CinemaNow may use the information it collects: 
+##### Important Information
 
-CinemaNow may provide you with technical support, updates to products and services, and upgrades to newer products as they become available. 
+  * Best Buy does not knowingly collect information online from children under 13.
+  * The Best Buy Companies value our relationship with our customers and we are committed to responsible information-handling practices. View our entire Privacy Policy.
 
-CinemaNow may use the information to track the use of content provided by third parties for reporting purposes, such as tracking and reporting which titles are purchased, rented or burned to disc, how often specific titles are purchased or rented, and how much of the title is watched each time. We may also use the information to track the success of certain third party partner offerings. 
 
-CinemaNow may offer its users the ability to personalize content such as news, local resources, links to other web sites, and more. 
 
-If you visited the Service through a device or website offered by a third party partner, we may be sharing some of your information with that partner. 
+#### How To Contact Us
 
-CinemaNow occasionally sponsors sweepstakes, contests and promotions. If you request, we may use contact data from our promotions to send you information we think you will find useful, such as information about new products or promotions. When we email you, we will always provide instructions explaining how to unsubscribe, so you will not receive our emails in the future. 
+If you have questions about Best Buy's Privacy Policy, contact us by:
 
-To process your order on our online store(s), we may require name, billing address, phone number, email address, shipping address and credit card information. We use this information to process your order and, if any questions arise, to contact you about your order. In general, we will try to contact you first by email and only if that fails, or if time is critical, will we try to contact you by phone. 
+##### Phone:
 
-CinemaNow may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving a danger to personal or public safety, CinemaNow may voluntarily provide information to appropriate governmental authorities. If you are a member of the military, you should not register any personally identifiable information at the Service in the eventuality that it may be subpoenaed. 
+1-888-BEST BUY (1-888-237-8289)
 
-CinemaNow sometimes uses an individual registered user's data to "pre-populate" forms that are displayed when that user has logged in for the purpose of collecting individual data by CinemaNow and/or its advertisers and sponsors. 
+##### E-mail: 
 
-CinemaNow may use the aggregate data collected to inform our sponsors, advertisers and other third parties as to numbers of people who have certain demographic characteristics and the number of those people who have seen and "clicked" on specific pages or advertisement(s). We may also disclose to such third-parties the overall demographics available regarding who saw and "clicked" on advertisements. 
+[PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com)
 
-In the event CinemaNow sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if CinemaNow (or a division or subsidiary) is acquired by, or merged with, another entity, CinemaNow may provide to such entity customer and visitor information (both aggregate and personally identifiable) that is related to that part of the business that was sold to or merged with the other entity. 
+##### Regular mail:
 
-CinemaNow may send you email or otherwise contact you about products and services that we feel may be of interest to you, including, without limitation notification of sales, coupons, newsletters and other communications. Registering your product indicates that you have informed us of your interest, and we will contact you after registration unless you specify that you do not wish to receive such contact by notifying us at [**privacy@sonic.com**](mailto:privacy@sonic.com). For those who elect to receive such materials from CinemaNow or third parties, and who indicate that they do in their profile, CinemaNow will release personally identifiable information. Information released may include your name, email address and other information supplied in the CinemaNow registration process, and only when you specifically grant us that right. You may opt-out of any CinemaNow communications at any time. CinemaNow also uses aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of the Service, and to analyze how and where best to use our resources. Without such data, we would not know what the most popular areas of the Service are, and we would not be able to change and update the content and services appropriately. 
+Best Buy Corporate Campus  
+Attn: Customer Care/Privacy  
+7601 Penn Avenue South  
+Richfield, MN 55423-3645 
 
-CinemaNow may, from time to time, use your information to contact you about changes or enhancements to CinemaNow products and services. 
+#### Our Privacy Commitment to Our Customers
 
-**With whom does CinemaNow share the information that is collected?**
+We value the relationship we have with our customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and in complying with all applicable federal and state privacy laws and our own internal standards and best practices.
 
-Information about our customers and visitors to the Service is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described in this Privacy Policy and with affiliates, business partners, subsidiaries and agents that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy. If you visited the Service through a device or website offered by a third party partner, we may be sharing some of your information with that partner, including personal information. 
+The Best Buy Companies follow these privacy principles both online and offline in the collection, use, security and sharing of customer information:
 
-When you submit personal information to CinemaNow, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which CinemaNow and its affiliates, business partners, and subsidiaries maintain offices, including, without limitation, the United States which may not provide the same statutory protection as your country of residence. 
+  * **NOTICE.** When we ask for your personal information, we will tell you why we need it and what we will do with it.
+  * **CHOICE.** When we contact you for marketing purposes, we will let you know how to remove your name from future marketing efforts.
+  * **SECURITY.** We will use reasonable security measures to protect the personal information we receive from you.
+  * **SHARING.** When we share your information with other companies to help us provide our services to you, we will require them to comply with all applicable legal requirements regarding the privacy of your information.
 
-You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors, agents, or service providers of CinemaNow. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties. 
 
-CinemaNow has established relationships with various service providers whose services are available to you from the CinemaNow Service or from web sites that are linked to the CinemaNow Service. Typically, these providers offer services that CinemaNow customers might find useful, such as those that can be used in conjunction with CinemaNow products and services. In order to use those services, you may be required to provide personally identifiable or other information to the providers. Unless expressly provided to the contrary, personally identifiable information that you provide while you are visiting a provider's web site will be subject to the privacy policy posted on such web site, and personally identifiable information that you provide while on the Service in conjunction with a provider's service will be subject to this Privacy Policy. As noted above, you are solely responsible for reading and understanding the privacy and other policies of these service providers and all other third party web sites you visit. You should be aware that our agreements with these service providers often provide that they will share with CinemaNow personal information collected from you. If we do receive information from a third party service provider, we may use this information in a manner consistent with this Privacy Policy. You should also be aware that our agreements with certain business partners whose products and/or services you have elected to acquire may require that CinemaNow share certain personal information collected from you relating to those business partners' products and/or services. Information CinemaNow collects from you that is shared with business partners under such an agreement will be used by those business partners only in accordance with their privacy policies. 
 
-**What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?**
+Best Buy Co., Inc. is the parent company of the Best Buy Companies ("Best Buy"), and as such, if you provide information to any of the businesses, stores or Web sites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities and subsidiaries. The Best Buy Companies operate businesses, retail stores and Web sites under the names Best Buy (BestBuy.com), Best Buy Mobile, (BestBuyMobile.com), Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy, (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn), Napster (Napster.com) among others.
 
-CinemaNow has security measures in place to attempt to protect against the loss, misuse and alteration of data under our control. We have implemented rules and procedures designed to limit access to the information you provide us. Despite the steps we take to ensure the protection of your information, unfortunately we cannot guarantee that loss, misuse or alteration to data will not occur. To better protect you, we encrypt particularly sensitive information, such as credit card numbers collected for a commerce transaction on the Service, prior to transmission. In the event of an inadvertent disclosure, CinemaNow will do everything commercially reasonable to limit and remedy the disclosure, but CinemaNow accepts no liability for any unintentional disclosure. In addition, in the unlikely event that any government or private individual seeks information, CinemaNow will not voluntarily provide the information, but will obey any court order requiring disclosure. 
+Each member of the Best Buy Companies, and/or each Web site established by a member of the Best Buy companies, may have its own Privacy Policy which it may modify as needed consistent with these principles.
 
-You are responsible for the security of your CinemaNow ID and password. Please take care when using and storing them. CinemaNow recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
+### BEST BUY PRIVACY POLICY
 
-**CinemaNow notice regarding the U.S. Children's Online Privacy Protection Act (COPPA) of 1998**
+The following Privacy Policy describes the information and privacy practices for Best Buy retail stores, BestBuy.com (the "Best Buy Web site") and all other locations, occasions or events where your personal information is collected by, or on behalf of, Best Buy. When you provide us your personal information, you consent to the information practices described in this policy.
 
-The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the Internet by regulating the online collection of personal information from children under the age of 13. CinemaNow does not sell products or services for purchase by children, and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use the Service only in conjunction with your parents or guardians. CinemaNow and the Service do not target children as an audience or a market, and CinemaNow does not collect information about the age of Service users. If we learn that we have inadvertently collected personal information from a child we will make all reasonable efforts to delete that data from our records. 
+This Privacy Policy may not apply to Web sites that are accessible through the Best Buy sites. Our Web sites contain links to other sites operated by third parties, including but not limited to third-party sites that display the Best Buy trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect, use, share and secure your information.
 
-**Updating your personal information and privacy preferences.**
+#### Privacy Policy Contents:
 
-Upon your request, we will deactivate your CinemaNow ID, contact information, billing information, shipping information, and financial information from our active databases to prevent your information from being shared with other users. To make this request, please email [**privacy@sonic.com**](mailto:privacy@sonic.com). Such information will be deactivated as soon as reasonably possible based on your CinemaNow ID activity and in accordance with our deactivation policies and procedures and applicable law. 
+  * Information Collected by Best Buy
+  * Uses of your personal information
+  * Personal information Provided to Best Buy from third parties
+  * Sharing of personal information
+  * Choices regarding your personal information
+  * Updating your personal information
+  * Security of your personal information
+  * Cookies, clickstream technology and third party ad providers
+  * Collection of children's personal information
+  * Concerns about the privacy or security of your personal information
+  * Privacy policy changes
 
-We will make our best effort to remove your information from our active communication files upon request. Please note, however, that we will retain certain information in order to resolve disputes, troubleshoot problems and enforce the policies, procedures and agreements set forth on the Service. 
 
-**Inquiries and Complaints**
 
-If you have any concern about privacy at CinemaNow, please send us a thorough description of your concern to [**privacy@sonic.com**](mailto:privacy@sonic.com), and we will try to resolve it. 
+### Information Collected by Best Buy
 
-**Disputes**
+As part of your interaction with Best Buy, we may collect personal information such as:
 
-If you choose to visit any CinemaNow web site, your visit and any dispute over privacy is subject to this Privacy Policy and our [**Terms of Service**](http://www.cinemanow.com/terms.aspx), including limitations on damages, arbitration of disputes, and application of the law of the State of California. 
+  * Contact information, including name, mailing address, phone number and e-mail address
+  * Purchase information, including credit card number, billing and/or shipping information
 
-_Last updated 8-12-2009_
+
+
+We may also collect demographic information, including age, personal interests and product preferences.
+
+While you're shopping or taking advantage of services available from us, we may ask that you provide personal information. For example, we may request and/or collect personal information when you:
+
+  * Purchase products or services
+  * Set up an account online
+  * Schedule a delivery or an installation
+  * Join the Reward Zone loyalty program
+  * Participate in a sweepstakes, promotion or survey
+  * Contact us with a question or concern
+  * Participate in other activities with Best Buy
+
+
+
+Back to Top
+
+#### Uses of Your Personal Information
+
+We use the personal information you provide for purposes including, but not limited to:
+
+  * Fulfilling requests for products, services or information
+  * Tracking and confirming online orders
+  * Delivering or installing products
+  * Managing our Reward Zone loyalty program
+  * Providing customer services 
+  * Administering sweepstakes, promotions or surveys
+  * Offering new products and services
+  * Improving the effectiveness of our Web sites, our marketing endeavors and our services and offers
+  * Conducting research and analysis
+  * Sending marketing communications
+  * Performing other business activities as needed, or as described elsewhere within this Policy
+
+
+
+Back to Top
+
+#### Personal Information Provided to Best Buy From Third Parties
+
+##### Information From/About Friends or Family 
+
+If you provide us information about others, or if others give us your information, we may store that data and will only use that information for the specific reason it was provided. Examples include providing a friend's shipping address, e-mailing our weekly ad to a friend, and e-mailing friends a link to your Wish List.
+
+##### Information from Third Parties
+
+Best Buy obtains consumer information from third party providers in order to improve the accuracy of our customer database, increase our understanding of our customers, or to identify potential customers. For example, we get updated addresses from the National Change of Address (NCOA) service to ensure we have the correct contact information for our customers.
+
+Back to Top
+
+#### Sharing of Personal Information
+
+Best Buy does not sell, rent or trade your personal information to third parties.
+
+We may need to share your personal information with certain third parties such as our agents, service providers and other representatives acting on our behalf for limited purposes. For example, we may share personal information to third parties to perform services on our behalf such as:
+
+  * Fulfilling our customers' orders
+  * Sending Best Buy marketing communications
+  * Delivering packages
+  * Scheduling and performing installations
+  * Servicing products
+  * Maintaining our Reward Zone loyalty program
+  * Fulfilling subscription services
+  * Conducting research, analysis or administering surveys
+  * Sending regular mail and e-mail on behalf of Best Buy
+  * Processing credit card payments 
+  * Providing chat functions
+
+
+
+The third parties with whom we conduct business are authorized to use your information only to perform the service for which they are hired. They are required to abide by the terms of our Privacy Policy including taking reasonable measures to ensure your personal information is secure.
+
+We may also share aggregated data with third parties for analysis and research purposes. This data does not contain name, address or other personally identifiable information.
+
+From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain personal information when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. We may also transfer personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
+
+Any personally identifiable information you submit on a bulletin board, blog, chat room, comment about a product, or any other public forum on this Web site can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We recommend that you do not provide your name, e-mail address or any other personal information. Please note that if you choose to do so, it is at your own risk and you accept full responsibility for those posts and any consequences that may arise from posting this information.
+
+At times we may partner with a third party to create a site that may look as if you are on a www.bestbuy.com page. These sites may be co-branded or may have the look and feel of being on our site. However, the information collected on these pages may not be covered under the Best Buy Privacy Policy. We will provide notice on these sites and post the privacy policy that is applicable to the information collected on these pages.
+
+Back to Top
+
+#### Choices Regarding Your Personal Information
+
+Best Buy communicates with our customers through multiple channels and vehicles to keep you up-to-date on promotions, offers, customer experience content and new products or services.
+
+Once you provide your personal information, we may contact you through direct mail, e-mail or phone. We may continue to communicate with you through these channels unless you request to stop receiving these communications by opting out. Before sending you mobile marketing (e.g., text messages) we will require your express consent by requesting that you opt-in.
+
+If you no longer wish to receive these communications, let us know by using whichever of the following methods is appropriate under the circumstances:
+
+  1. Follow the directions on an e-mail or direct mail marketing communication you receive from us.
+  2. Call 1-888-BEST BUY (1-888-237-8289) with your request and current contact information.
+  3. Send an e-mail with your request and current contact information to: [PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com).
+  4. Send a letter with your request and current contact information to:
+
+Best Buy Corporate Campus  
+Attn: Customer Care/Privacy  
+7601 Penn Avenue South  
+Richfield, MN 55423-3645
+
+  5. For mobile marketing, you may opt-out by following the instructions provided in the text messages you receive.
+
+
+
+If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address, as well as the specific changes you would like to make. This will ensure we correctly identify you in our systems and accurately process your request.
+
+Best Buy will take the appropriate steps to modify your preferences with respect to our marketing communications. Due to production, mailing and system timelines, it may take some time to process your request. The following guidelines are provided for your convenience:
+
+  * 10 business days for e-mails
+  * 30 business days for direct mail and phone
+
+
+
+Until your requested change takes effect, you may still receive marketing communications from us. If you send us your request by regular mail, please allow extra time for us to receive and process your notice.
+
+Although you may have opted not to receive marketing communications, you may still receive business-related communications such as order confirmations, product recall notices, Reward Zone program membership information or other organization-related communications.
+
+Back to Top
+
+#### Updating Your Personal Information
+
+Best Buy wants your personal information to be accurate and complete. We provide several different methods for you to update your personal information.
+
+To **update** your name, address, phone number and/or e-mail information:
+
+  1. If you've created an account on BestBuy.com, you can update your online account information after logging into your account.
+  2. **Call:** 1-888-BEST BUY (1-888-237-8289)
+  3. **Send a request to:** [PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com)
+  4. **Send a letter to:**  
+Best Buy Corporate Campus  
+Attn: Customer Care/Privacy  
+7601 Penn Avenue South  
+Richfield, MN 55423-3645 
+
+
+
+If you send an e-mail or letter request, please be sure to include your current information and the requested changes. We will respond to your request within 30 days.
+
+Back to Top
+
+#### Security of Your Personal Information
+
+Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. Best Buy cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk.
+
+##### Safe Shopping Policy on BestBuy.com
+
+We use a variety of information security measures to protect your online transactions with us. The Best Buy Web site uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our Web site such as ordering information including your name, address and credit card number. Information you provide to us via our in-store kiosk does not traverse the public Internet.
+
+##### Choosing a Personal Password on BestBuy.com
+
+When you create an account on BestBuy.com you are required to establish a password. To maximize your level of protection, you should choose at least 6-30 characters, using a combination of both letters and numbers. You are solely responsible for maintaining the secrecy of your password and account information. You have the ability to purchase on our site without creating an account; however, you will need to reenter your personal information each time you use our site in order to make a purchase.
+
+Back to Top
+
+#### Cookies, Clickstream Technology, Third-Party Ad Providers and Interest-Based Advertising
+
+##### Cookies
+
+A cookie is a small data file that a Web site or an e-mail may save to your browser, which may then be stored on your hard drive. Our Web sites and e-mails use cookies to create a more personalized shopping experience for visitors to our site. Cookies simulate a continuous connection — they let us "remember" information about your preferences and session, and allow you to move within areas of our Web sites without reintroducing yourself.
+
+Best Buy uses a third party to place cookies on your computer to collect non-personally identifiable information. Although our cookies may contain a unique user ID, they do not collect or store any personally identifiable information. However, you do have the option of saving your Reward Zone membership ID in the cookie so it is easy to remember next time; this option will be found under My Account.
+
+You may choose to set your Web browser to not accept cookies. However, without enabling your cookies, you will not be able to view, create an account, or make purchases on the Best Buy Web site.
+
+##### Clickstream Technology
+
+Our Web server automatically collects clickstream information such as the address (or URL) of the Web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you may have entered on our site, among other things.
+
+Our Web site may also use other technologies to track which pages our visitors view. This anonymous clickstream data provides our customers with a better, more secure shopping experience and helps Best Buy understand how visitors use our Web site.
+
+##### Third-Party Ad Providers and Interest-Based Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site or other sites across the Internet. These companies may use their tracking technologies and cookies to collect anonymous information (not including your name, address, e-mail address, or telephone number) about your visits to this and other Web sites. We may also share anonymous information with these companies in aggregate form. In either case, the purpose of the sharing is to provide advertisements about goods and services that may be of interest to you, analyzing and improving the effectiveness of ads and e-mails, and improving and enhancing our site and its content.
+
+To learn more about interest-based advertising and your privacy, including opting out of such advertising, visit our partners' sites [Atlas Solutions](http://www.atlasdmt.com/privacy/) and [Google](http://www.google.com/ads/preferences/view?sig=ACi0TCgRfdSI82nRFqV2_sUa2_3jLBP1MrhsLp7kopCKve-wd2x4zglXyniH2z5_O57nTm2z3w-iSEIM3qZbAgpsoy0fr0oHEpkghHQlY3eVP_Mjp2UaEEsSuyDBBjlqNv02KWw5XJWw7oXrJ_1QHhyKWtT5uwgs2EPzFAHFiMFuc99gviIKKzgct-FU7r9xFhuB5uWgf0Qu&hl=en/). We may partner with other companies to provide interest-based advertising, both on and off BestBuy.com. In these situations, we will notify you of the advertising and give you the opportunity to opt-out of these activities.
+
+Back to Top
+
+#### Collection of Children's Personal Information
+
+We are committed to protecting the privacy of children. We do not knowingly or intentionally collect personal information online from children under the age of 13.
+
+Back to Top
+
+#### U.S.-EU Safe Harbor Framework
+
+We adhere to the U.S.-EU Safe Harbor Framework ("Safe Harbor Framework") Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the U.S. Department of Commerce's Safe Harbor Program.
+
+Best Buy Co, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.
+
+As part of our participation in the Safe Harbor Framework, we have agreed to use TRUSTe to resolve disputes relating to our compliance with the Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will then serve as a liaison with us to resolve your concerns. Fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105.
+
+If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company.
+
+For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+
+Back to Top
+
+#### Concerns About the Privacy or Security of Your Personal Information
+
+Please contact our Privacy Manager to report a known or suspected privacy or security breach or to submit privacy or security-related questions or complaints. After receiving your inquiry, we will respond within five business days. You may contact us in the following ways:
+
+  1. **Call:** 1-888-BEST BUY (1-888-237-8289)
+  2. **Send a communication to:** [PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com)
+  3. **Send a letter to:**  
+Best Buy Corporate Campus  
+Attn: Customer Care/Privacy  
+7601 Penn Avenue South  
+Richfield, MN 55423-3645 
+
+
+
+Back to Top
+
+#### Privacy Policy Changes
+
+As Best Buy continues to improve the services, products and the features we provide, this policy is subject to change. We will post significant changes to this Policy here and/or other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner.
+
+Changes as of the last revision date relate to adding Google to Third-Party Ad Providers and Interest-Based Advertising section.
+
+Last revision date: 11.11.10
+
+Back to Top
+
+
+
