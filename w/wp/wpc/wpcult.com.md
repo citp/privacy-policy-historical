@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcult.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520074344id_/http%3A//wpcult.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcult.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202034225id_/http%3A//wpcult.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
