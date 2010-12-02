@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addblogurl.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602210815id_/http%3A//www.addblogurl.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addblogurl.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203004424id_/http%3A//www.addblogurl.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Add Blog Url | Privacy Policy
 
