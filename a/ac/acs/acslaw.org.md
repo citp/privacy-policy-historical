@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630221628id_/http%3A//www.acslaw.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202131452id_/http%3A//www.acslaw.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Constitution Society
 
