@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416084646id_/http%3A//www.adelaidemetro.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202182521id_/http%3A//www.adelaidemetro.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Adelaide Metro - About Us - Privacy Statement
 
