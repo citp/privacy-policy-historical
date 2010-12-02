@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livetvcenter.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115191010id_/http%3A//www.livetvcenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetvcenter.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202131350id_/http%3A//www.livetvcenter.com/privacy.asp) for the most accurate reproduction.*
 
 # LIVE TV CENTER - PRIVACY POLICY
 
@@ -23,5 +23,3 @@ Some of these advertisers may use technology such as cookies and web beacons whe
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Contact: 
