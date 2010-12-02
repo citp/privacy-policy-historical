@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305065940id_/http%3A//www.vistage.com/about-us/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202144112id_/http%3A//www.vistage.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Executive Coaching and Business Leadership Coaching - Vistage
+# Executive Coaching and Business Leadership Coaching - Vistage - Privacy Policy
 
-| 
-
-**What This Privacy Policy Covers**
+##  What This Privacy Policy Covers
 
 This policy covers how Vistage treats personal information that Vistage collects and receives in connection with its public Web site as well as its membership Web site, Vistage View. Personal information is information about you that is personally identifiable like your name, address, e-mail address, or phone number, and that is not otherwise publicly available. 
 
-**Information Collection and Use**
+##  **Information Collection and Use**
 
 Vistage collects personal information when you register with Vistage View, our membership Web site, and when you visit Vistage’s public Web site. 
 
@@ -16,7 +14,7 @@ When you register with Vistage View we ask for information such as your name, e-
 
 Vistage automatically receives and records information on our server logs from your browser, including your IP address, Vistage cookie information, and the page you request. 
 
-**Information Sharing and Disclosure**
+##  **Information Sharing and Disclosure**
 
 Vistage does not rent, sell, or share personal information about you with other people or nonaffiliated companies except when we have your permission, or under the following circumstances: 
 
@@ -26,7 +24,7 @@ Vistage does not rent, sell, or share personal information about you with other 
 
 
 
-**Cookies**
+##  **Cookies**
 
 Vistage may set and access cookies on your computer. 
 
@@ -38,28 +36,20 @@ We do not, however, use cookies to retrieve involuntary information about your c
 
 Accordingly, if you would prefer, you can set up your browser to refuse cookies or to alert you to their presence and thereby allow you to remove them from your computer. 
 
-**Confidentiality and Security**
+##  **Confidentiality and Security**
 
 We limit access to personal information about you to staff who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs. 
 
 We take all reasonable precautions to keep your personal information secure and we have put in place physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
-**Links to other Web sites**
+##  **Links to other Web sites**
 
 The Vistage public Web site and our membership Web site, Vistage View, contain links to other Web sites; however, we are not responsible for the privacy practices or the content of such Web sites and do not make any representation as to the existence, sufficiency, accuracy or completeness of their Web sites or privacy policies. 
 
-**Changes to this Privacy Policy**
+##  **Changes to this Privacy Policy**
 
 Due to changes in legislation and best practice or enhancements to functionality and content on Vistage’s public Web site and/or our membership Web site, Vistage View, Vistage may update this privacy policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary e-mail address or by placing a prominent notice on our public Web site and Vistage View, and accordingly you should check here from time to time. 
 
-**Questions and Suggestions**
+##  **Questions and Suggestions**
 
 If you have questions or suggestions, please contact us at Vistage International, Inc. Attention: Privacy Officer, 11452 El Camino Real, Suite 400, San Diego, CA 92130.
-
-| 
-
-### Newsletter Signup
-
-Your monthly Vistage newsletter provides relevant and timely information on the latest market trends and how they affect your business.  
-  
----|---|---
