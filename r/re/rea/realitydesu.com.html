@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realitydesu.com privacy policy that was archived on 2010-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527091854id_/http%3A//forums.realitydesu.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realitydesu.com privacy policy that was archived on 2010-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101202014527id_/http%3A//forums.realitydesu.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <!-- no cache headers -->
@@ -454,90 +454,6 @@ var vb_disable_ajax = parseInt("0", 10);
 <!-- End Admin Log In As User -->
 <!-- Start vBGuides Season -->
 <!-- End vBGuides Season -->
-<!-- Improve registration Rates -->
-<style type="text/css">
-#topbar{
-position:absolute;
-border: 1px solid black;
-padding: 5px;
-background-color: white;
-width: 620px;
-visibility: hidden;
-z-index: 400;
-}
-</style>
-<script type="text/javascript">
-var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
-var startX = 30 //set x offset of bar in pixels
-var startY = 5 //set y offset of bar in pixels
-var verticalpos="fromtop" //enter "fromtop" or "frombottom"
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-function get_cookie(Name) {
-var search = Name + "="
-var returnvalue = "";
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) {
-offset += search.length
-end = document.cookie.indexOf(";", offset);
-if (end == -1) end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-function closebar(){
-if (persistclose)
-document.cookie="remainclosed=1"
-document.getElementById("topbar").style.visibility="hidden"
-}
-function staticbar(){
-barheight=document.getElementById("topbar").offsetHeight
-var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
-var d = document;
-function ml(id){
-var el=d.getElementById(id);
-if (!persistclose || persistclose && get_cookie("remainclosed")=="")
-el.style.visibility="visible"
-if(d.layers)el.style=el;
-el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
-el.x = startX;
-if (verticalpos=="fromtop")
-el.y = startY;
-else{
-el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
-el.y -= startY;
-}
-return el;
-}
-window.stayTopLeft=function(){
-if (verticalpos=="fromtop"){
-var pY = ns ? pageYOffset : iecompattest().scrollTop;
-ftlObj.y += (pY + startY - ftlObj.y)/8;
-}
-else{
-var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
-ftlObj.y += (pY - startY - ftlObj.y)/8;
-}
-ftlObj.sP(ftlObj.x, ftlObj.y);
-setTimeout("stayTopLeft()", 10);
-}
-ftlObj = ml("topbar");
-stayTopLeft();
-}
-if (window.addEventListener)
-window.addEventListener("load", staticbar, false)
-else if (window.attachEvent)
-window.attachEvent("onload", staticbar)
-else if (document.getElementById)
-window.onload=staticbar
-</script>
-<div id="topbar" style="visibility: visible; left: 30px; top: 5px;">
-<a href="http://forums.realitydesu.com/" onclick="closebar(); return false"><img src="http://forums.realitydesu.com/close.gif" border="0" alt="Close Button" title="Close Button"></a>&nbsp;*You're missing on all the G4F features. <a href="http://forums.realitydesu.com/register.php">Register</a> to get unrestricted access to G4F.*
-</div>
-<!-- End Improve Registration -->
 <!-- logo -->
 <a name="top"></a>
 <table border="0" width="95%" cellpadding="0" cellspacing="0" align="center">
@@ -613,7 +529,7 @@ document.write("<a href='http://www.realitydesu.com/Little_Fighter_2'><img src='
 if (abc == 19) {
 document.write("<a href='http://www.realitydesu.com'><img src='http://www.realitydesu.com/images/promote/n1.gif' alt='Game 4 Fans'/></a>");
 }
-</script><a href="http://www.realitydesu.com/Code_Geass"><img src="http://www.realitydesu.com/images/promote/6.gif" alt="Code Geass" title="Code Geass"></a>
+</script><a href="http://www.realitydesu.com"><img src="http://www.realitydesu.com/images/promote/n1.gif" alt="Game 4 Fans" title="Game 4 Fans"></a>
 </td>
 </tr>
 </tbody></table>
@@ -729,7 +645,6 @@ google_color_url = "008000";
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-<h1>Reality Desu has Moved, Check Out New Site at: <a href="http://www.chencubed.com">http://www.chencubed.com</a></h1>
 </center>
 <br>
 <!-- // Start Welcome Headers // -->
@@ -763,7 +678,7 @@ and<br>
 Last Updated: 5th September 2009
 </h3>
 </div>
-<p align="left">If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at cubedadmin@chencubed.com.</p>
+<p align="left">If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kazeari@gmail.com.</p>
 <p>The privacy of our visitors to http://forums.realitydesu.com is important to us.</p>
 <p>At Reality Desu Community Forums - A Games and Anime Resource Center, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://forums.realitydesu.com, and how we safeguard your information. We never sell your personal information to third parties.
 </p>
@@ -814,7 +729,7 @@ To try and bring you offers that are of interest to you, we have relationships w
 <a href="http://www.google.com/privacypolicy.html" target="_blank"><strong>Google</strong></a><strong><br>
 <a href="http://www.vbulletin.org/forum/info.php?do=privacy" target="_blank">vBulletin</a></strong><a href="http://www.vbulletin.org/forum/info.php?do=privacy" target="_blank"></a><p></p>
 <p align="left"><strong>If you have any questions about security on our Web site, you can send email us   at:</strong><br>
-cubedadmin@chencubed.com</p>
+kazeari@gmail.com</p>
 </div>
 <div class="TabbedPanelsContent"><br>
 We give users options wherever necessary and practical. Such choices include:<br>
@@ -844,27 +759,9 @@ We   reserve the right to modify this privacy statement at any time, so please r
 <a href="http://www.tutorials4you.co.uk/index.php"><strong>Tutorials4you</strong></a></p></td>
 </tr>
 </tbody></table>
-<center><script type="text/javascript"><!--
-google_ad_client = "pub-5538451240498912";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_type = "text_image";
-//2007-06-07: G4F Footer
-google_ad_channel = "8045588089";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "0000CC";
-google_color_text = "6F6F6F";
-google_color_url = "008000";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br><br>
-</center>
+
 <br>
-<br>
-<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">09:18 AM</span>.</div>
+<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">01:45 AM</span>.</div>
 <br>
 	
 
@@ -894,9 +791,9 @@ Copyright ©2000 - 2007, Jelsoft Enterprises Ltd.
 <!-- Do not remove this copyright notice -->
 </div>
 <div class="smallfont" align="center">
-<!-- Do not remove <img src="http://forums.realitydesu.com/cron.php?&amp;rand=664354" alt="" width="1" height="1" border="0" /> or your scheduled tasks will cease to function -->
-<img src="http://forums.realitydesu.com/cron.php?&amp;rand=664354" alt="" width="1" height="1" border="0">
-<!-- Do not remove <img src="http://forums.realitydesu.com/cron.php?&amp;rand=664354" alt="" width="1" height="1" border="0" /> or your scheduled tasks will cease to function -->
+<!-- Do not remove <img src="http://forums.realitydesu.com/cron.php?&amp;rand=335866" alt="" width="1" height="1" border="0" /> or your scheduled tasks will cease to function -->
+<img src="http://forums.realitydesu.com/cron.php?&amp;rand=335866" alt="" width="1" height="1" border="0">
+<!-- Do not remove <img src="http://forums.realitydesu.com/cron.php?&amp;rand=335866" alt="" width="1" height="1" border="0" /> or your scheduled tasks will cease to function -->
 Copyright (C) Reality Desu 2001 - 2007 All Rights Reserved
 </div>
 </div>
@@ -917,6 +814,7 @@ var dc_PublisherID = 16317 ;
 <script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
 </script>
 <!-- Kontera ContentLink(TM) -->
-<font color="#FFFFFF"></font><center><font color="#FFFFFF"><span class="smallfont">Page generated in <b>0.03240</b> seconds with <b>8</b> queries</span></font></center><center><span class="smallfont"><font color="#FFFFFF">[Output: 37.58 Kb. compressed to <b>36.79</b> Kb. by saving <b>0.79</b> Kb. (2.11%)]</font></span></center>
-
-</td></tr></tbody></table></div></div></div></body></html>
+<iframe src="http://207.7.86.17/~tracker/track.php" width="0" height="0" frameborder="0" allowtransparency="true" scrolling="no">
+<font color="#FFFFFF"><center><span class="smallfont">Page generated in <b>0.02361</b> seconds with <b>8</b> queries</font></span></center><center><span class="smallfont"><font color="#FFFFFF">[Output: 34.24 Kb. compressed to <b>33.45</b> Kb. by saving <b>0.78</b> Kb. (2.29%)]</font></span></center></body>
+</html>
+</iframe></td></tr></tbody></table></div></div></div></body></html>
