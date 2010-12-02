@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecricfanclub.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419232059id_/http%3A//www.thecricfanclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecricfanclub.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202071709id_/http%3A//www.thecricfanclub.com/privacy-policy) for the most accurate reproduction.*
 
 # The CRIC Fan Club - Policy of The CRIC Fan Club
 
