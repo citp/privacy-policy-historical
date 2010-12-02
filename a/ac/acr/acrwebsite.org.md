@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acrwebsite.org privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611112645id_/http%3A//www.acrwebsite.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acrwebsite.org privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202115953id_/http%3A//www.acrwebsite.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Association for Consumer Research
 
