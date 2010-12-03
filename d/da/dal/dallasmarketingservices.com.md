@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dallasmarketingservices.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506020247id_/http%3A//www.sevenaspens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasmarketingservices.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203194638id_/http%3A//dallasmarketingservices.com/dallas-marketing-firm-seven-aspens/privacy) for the most accurate reproduction.*
 
-# Privacy | Seven Aspens
-
-You are here: [Home](http://sevenaspens.com/) / Privacy
+# Privacy | Marketing Services from Seven Aspens®
 
 **Seven Aspens** is committed to protecting the privacy of the information that we collect from users of our Web site. Information is obtained through user-submitted request-for-more information forms. These forms require users to give us contact information (such as name, company, e-mail address, street address, telephone and fax numbers and educational information). This data is used to provide the information to those who inquire about our business and services offered or employment opportunities.
 
