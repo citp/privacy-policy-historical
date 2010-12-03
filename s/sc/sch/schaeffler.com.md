@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528232404id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203020744id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
 
 # Schaeffler Technologies |
 
@@ -22,9 +22,10 @@ Should you have any questions about how your personal data is processed, any com
 
 On request, Schaeffler Technologies GmbH & Co. KG or the company responsible can provide you with information on whether your personal data has been stored by us and if so, which data has been stored. You will find the relevant person to contact on the company’s website. 
 
-Gerd Hausmann  
-Company Data Protection Officer  
+Thomas Biedermann  
+Data Privacy Officer  
 Schaeffler Technologies GmbH & Co. KG  
 Industriestrasse 1-3  
 91074 Herzogenaurach  
-Federal Republic of Germany
+Federal Republic of Germany  
+[Dataprivacy@schaeffler.com](mailto:Dataprivacy@schaeffler.com)
