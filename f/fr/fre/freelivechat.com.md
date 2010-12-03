@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelivechat.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602035711id_/http%3A//www.freelivechat.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelivechat.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203170046id_/http%3A//www.freelivechat.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Free Live Chat - Privacy Policy
+# Free Live Chat - Privacy
 
 [Home](http://www.freelivechat.com/) / Privacy Policy
 
