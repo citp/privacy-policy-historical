@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524013418id_/http%3A//www.global-free-classified-ads.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055225id_/http%3A//www.global-free-classified-ads.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy1 Classified ads. Buy and sell today! Classified ads. Buy and sell today!
+# Privacy Policy1. Classified ads. Buy and sell today!
 
-|  |  |   
----  
-Our Privacy Policy...  
-  
   * What information is collected from you through the web site;
 
   * The organization collecting the information;
@@ -50,7 +46,4 @@ SITE AND SERVICE UPDATES
 We will send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to the account via e-mail.
 
 NOTIFICATION OF CHANGES  
-If we decide to change our privacy policy, we will post those changes on our Home page and use our best efforts to announce via e-mail so all users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will make a reasonable effort to notify users by way of an e-mail. Users have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
-  
-  
-
+If we decide to change our privacy policy, we will post those changes on our Home page and use our best efforts to announce via e-mail so all users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will make a reasonable effort to notify users by way of an e-mail. Users have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
