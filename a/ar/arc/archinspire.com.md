@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225140046id_/http%3A//archinspire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203161152id_/http%3A//archinspire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Design Ideas | Decorating | Gardening
 
