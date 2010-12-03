@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325053111id_/http%3A//www.thegrocerygame.com/con_Privacy_Statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203164632id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
 
-# Coupons, Grocery Coupons - The Grocery Game :: Privacy Statement
-
-Privacy Statement
+# Coupons, Grocery Coupons - The Grocery Game - Security Information - Privacy Statement
 
 Thank you for visiting TheGroceryGame.com, a Grocery Game, Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
 
@@ -97,3 +95,22 @@ Santa Clarita, CA 91386-2446
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
 The Privacy Notice posted on this site was updated on or about December 29, 2004. 
+
+## HAVE YOU TRIED TERI'S LIST?
+
+Enter your zip to find out which stores are available.  
+ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/index.cfm)
+
+## FOLLOW US
+
+## GET FREE WEEKS
+
+Receive 12 free weeks for every 3 friends who join.
+
+FRIEND'S EMAIL  
+  
+RULES [INVITE](https://web.archive.org/inc-referral-form.cfm)
+
+## MORE SAVINGS
+
+[ ](https://web.archive.org/app/teris-coupon-tracker/) [ ](https://web.archive.org/app/teris-coupon-center/) [ ](http://teritoday.thegrocerygame.com/)
