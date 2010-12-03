@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325135901id_/http%3A//app.datingagency.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203051355id_/http%3A//app.datingagency.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # DatingAgency.com :: Privacy Policy
 
