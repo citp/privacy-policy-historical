@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveoutloud.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514021230id_/http%3A//liveoutloud.com/home/live-out-loud-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoutloud.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203140234id_/http%3A//liveoutloud.com/home/live-out-loud-privacy-policy) for the most accurate reproduction.*
 
 # Live Out Loud Privacy Policy
 
