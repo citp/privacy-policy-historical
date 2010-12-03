@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212172930id_/http%3A//www.biz.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203020817id_/http%3A//www.neweggbusiness.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # NeweggBusiness - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
 
@@ -19,7 +19,7 @@ Most of the information collected in the registration process will be used to pr
 We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our store but will be unable to use the shopping cart to buy merchandise. The NeweggBusiness shopping cart cannot function without cookies enabled so that the necessary information to process your order is retained. If you disable cookies, NeweggBusiness will be unable to accept your online order. We will not share any personally identifiable information provided by this cookie with any third party. We will, however, link data stored in cookies to the personally identifiable information you submitted while on our site. This allows us to personalize your shopping experience and discern user preferences to evoke subconscious feelings of familiarity and assurance. 
 
   * Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
-  * This privacy statement covers the use of cookies by [ NeweggBusiness](http://www.biz.newegg.com/) only and does not cover the use of cookies by any advertisers.
+  * This privacy statement covers the use of cookies by [ NeweggBusiness](http://www.neweggbusiness.com/) only and does not cover the use of cookies by any advertisers.
 
 
 
@@ -90,7 +90,7 @@ To honor the privacy of our users, we offer the option to not receive these type
 
 ##  Correction/Updating/Reviewing Personal Information
 
-Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](http://www.biz.newegg.com/HelpInfo/OverView.aspx) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
+Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](http://www.neweggbusiness.com/HelpInfo/OverView.aspx) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
 
 ##  Choice/Opt-out
 
@@ -100,7 +100,7 @@ For customers who wish to opt-out and stop receiving NeweggBusiness special offe
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
-If you have opted out of receiving communications from NeweggBusiness, you will still be able to view news of policy changes at [www.biz.newegg.com](http://www.biz.newegg.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates. 
+If you have opted out of receiving communications from NeweggBusiness, you will still be able to view news of policy changes at [www.neweggbusiness.com](http://www.neweggbusiness.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates. 
 
 ##  Last Update
 
