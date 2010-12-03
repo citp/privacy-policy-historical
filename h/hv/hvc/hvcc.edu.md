@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527211341id_/http%3A//www.hvcc.edu/compserv/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203164826id_/https%3A//www.hvcc.edu/compserv/docs/privacy.html) for the most accurate reproduction.*
 
 # HVCC| Privacy Policy
 
-| [](https://web.archive.org/web/20100527211341id_/http%3A//www.hvcc.edu/index.php) |   | 
+| [](https://web.archive.org/web/20101203164826id_/https%3A//www.hvcc.edu/index.php) |   | 
 
 ## Hudson Valley Community College's Privacy Policy  
 (Policy Date - 07/18/2002)  
