@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516164221id_/http%3A//www.thefoundry.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203033941id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
 
-# The Foundry - Privacy Policy
+# Privacy Policy | The Foundry
 
-This privacy policy covers The Foundry Visionmongers Ltd and its website. We are committed to protecting your privacy, and at the same time we endeavour to use any data we collect from you to provide the best possible service.
+This privacy policy covers The Foundry Visionmongers Limited and its website. We are committed to protecting your privacy, and at the same time we endeavour to use any data we collect from you to provide the best possible service.
 
 ### Providing visitors with anonymous access
 
-You can access our Web site home page and browse our site without disclosing your personal data. 
+You can access our Web site home page and browse our site without disclosing your personal data.
 
 ### Automatic collection of information
 
@@ -34,10 +34,10 @@ We give you the option of using a secure transmission method to send personal da
 
 We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from:
 
-  * Unauthorised access 
-  * Improper use or disclosure 
-  * Unauthorised modification 
-  * Unlawful destruction or accidental loss 
+  * Unauthorised access
+  * Improper use or disclosure
+  * Unauthorised modification
+  * Unlawful destruction or accidental loss
 
 
 
@@ -53,9 +53,9 @@ We will provide you with a readable copy of the personal data that we keep about
 
 We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
 
-  * Completed 
-  * Rectified or amended 
-  * Erased 
+  * Completed
+  * Rectified or amended
+  * Erased
 
 
 
@@ -63,7 +63,7 @@ We allow you to challenge the data that we hold about you and, where appropriate
 
 Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others.
 
-Where our website contains links to third party sites, Chameleon Net is not responsible for the privacy policies of those sites.
+Where our website contains links to third party sites, The Foundry is not responsible for the privacy policies of those sites.
 
 ### Privacy compliance
 
@@ -78,10 +78,10 @@ We reserve the right to make amendments to our privacy policy in the future so t
 If you have any other queries relating to your privacy and the use of your personal data, please contact:
 
 Jonathan Barson   
-Managing Director   
+Chief Operating Officer   
 The Foundry Visionmongers Ltd   
 1 Wardour Street   
 London   
 W1D 6PA   
-England   
-[info@thefoundry.co.uk](mailto:info@chameleonnet.com)
+England  
+[info@thefoundry.co.uk](mailto:info@thefoundry.co.uk)
