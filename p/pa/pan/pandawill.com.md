@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandawill.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525103016id_/http%3A//www.pandawill.com/privacy.html%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandawill.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203072040id_/http%3A//www.pandawill.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Pandawill.com: A Trusted Professional Online Shopping Venue From China, For Electronic Appliance, Game Accessories, Communication Equipments, Computer Components, and more.
 
