@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talater.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228142502id_/http%3A//talater.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talater.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203171705id_/http%3A//talater.com/privacy.html) for the most accurate reproduction.*
 
 # ChildSafetyExperts.com - Child safety advice and information from the child safety experts
 
