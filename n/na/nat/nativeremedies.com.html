@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nativeremedies.com privacy policy that was archived on 2010-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601172213id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nativeremedies.com privacy policy that was archived on 2010-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203091947id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/Native_Remedies.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -29,8 +29,8 @@
 	<meta name="Keywords" content="herbal nutrition supplement, herbal life products, old home remedies, natural remedies for arthritis, hypertension remedies, heartburn remedies, herbal life international, herbal life distributor, herbal remedies for depression, home health remedies, holistic healing school, holistic psychotherapy, herbal remedies for anxiety, definition of holistic, herbal remedies information, herbal suppliments, anxiety and herbal remedies, ginkgo biloba herbal remedy, herbal health care, homeopathic supplements, liquid herbal remedies, quality herbal supplements, natural remedy products, holistic psychology, holistic health control, safe herbal supplements, natural medicine for adhd, natural health medicine, herbal nutritional supplement, on line herbal products, alternative health remedy, herbal life vitamins, medical home remedies, natural herbal healing, herbal life supplements, holistic medicine programs, types of herbal medicine, herbal treatments for depression, natural holistic medicine, alternative holistic healing systems, holistic healing systems, natural cures they do not want you to know about, natural medicine associates, natural medicine and herbs, list of natural medicines">
 	<!-- InstanceEndEditable -->
 	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>
 	
 	<!-- BEGIN: Google Analytics Include -->
 
@@ -58,41 +58,6 @@ var pageTracker = _gat._getTracker("UA-170951-1");
 pageTracker._setDomainName("nativeremedies.com");
 } catch(err) {}</script> 
  
- 
-<script> 
-if(gup('kbid')!=""){
-location.hash = "#ysmtac=kbid&ysmchn=affiliate&ysmcpn=kbid&ysmgrp="+gup('kbid');
-pageTracker._setAllowAnchor(true);
-var AffTrue="Kbid:"+gup('kbid');
-}
-if(gup('ss')!=""){
-location.hash = "#ysmtac=ss&ysmchn=affiliate&ysmcpn=ss&ysmgrp="+gup('ss');
-pageTracker._setAllowAnchor(true);
-var AffTrue="SS:"+gup('ss');
-}
-if(gup('cj')!=""){
-location.hash = "#ysmtac=cj&ysmchn=affiliate&ysmcpn=cj&ysmgrp="+gup('cj');
-pageTracker._setAllowAnchor(true);
-var AffTrue="CJ:"+gup('cj');
-}
-</script> 
- 
-<script> 
-if(gup('gclid')==""){
-pageTracker._setCampNameKey('ysmcpn');
-pageTracker._setCampSourceKey('ysmchn');
-pageTracker._setCampMediumKey('ysmtac');
-pageTracker._setCampTermKey('ysmtrm');
-pageTracker._setCampContentKey('ysmgrp');
-}
-</script> 
- 
-<script> 
-if(AffTrue!=""){
-pageTracker._setCustomVar(4,'Aff',AffTrue,1);
-}</script> 
- 
- 
 <script type="text/javascript"> 
 function _uGC(l,n,s) {
  if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
@@ -105,7 +70,8 @@ function _uGC(l,n,s) {
  }
  return c;
 }
-var z = _uGC(document.cookie, '__utmz=', ';'); 
+var z = _uGC(document.cookie, '__utmz=', ';');
+z = unescape(z); 
 var source  = _uGC(z, 'utmcsr=', '|'); 
 var medium  = _uGC(z, 'utmcmd=', '|'); 
 var term    = _uGC(z, 'utmctr=', '|'); 
@@ -122,17 +88,25 @@ if (gclid !=="-") {
       source = 'google'; 
       medium = 'cpc'; 
 } 
- var utmString = "S:"+source;
- utmString=utmString+"|M:"+medium;
- utmString=utmString+"|C:"+campaign;
- utmString=utmString+"|T:"+term;
- utmString=utmString+"|A:"+content;
+ var utmString = source;
+ utmString=utmString+"!"+medium;
+ utmString=utmString+"!"+campaign;
+ utmString=utmString+"!"+term;
+ utmString=utmString+"!"+content;
+
+utmString=utmString.replace('%20','-');
+utmString=utmString.replace(/[^a-zA-Z0-9-~!*_.]/g,'');
+utmString=utmString.substr(0,62);
  
 //Set first touch information if not already there, using slot 3...
 var fT=pageTracker._getVisitorCustomVar(3);
 if(!fT){
-	pageTracker._setCustomVar(3,'FTch',utmString,1);
+	pageTracker._setCustomVar(3,'FT',utmString,1);
 }
+//content grouping
+var _pageTrackerContentSection = /\.(?:net|com)\/([a-zA-Z]*?)\//.exec(document.location);
+if(_pageTrackerContentSection == null) _pageTrackerContentSection = new Array(null, 'Main');
+pageTracker._setCustomVar(1,'ContentSection',_pageTrackerContentSection[1],3);
 </script>
 
 <!-- END: Google Analytics Include -->
@@ -237,7 +211,7 @@ window.location = "mailto:"+document.eMailer.email.value+"?subject="+initialsubj
  img.src = url;
  
  
- var kowurl = 'http://64.22.100.70/affiliate.php?kbid=' + kbId;
+ var kowurl = 'http://nativeremedies2.com/affiliate.php?kbid=' + kbId;
  var kowimg = new Image();
  kowimg.src = kowurl;
  
@@ -255,7 +229,7 @@ window.location = "mailto:"+document.eMailer.email.value+"?subject="+initialsubj
  {
  if (typeof(cjId) != "undefined")
  {
- var cjurl = 'http://64.22.100.70/affiliate.php?cj=' + cjId;
+ var cjurl = 'http://nativeremedies2.com/affiliate.php?cj=' + cjId;
  var cjimg = new Image();
  
  //sets the cookie remotely
@@ -278,7 +252,7 @@ window.location = "mailto:"+document.eMailer.email.value+"?subject="+initialsubj
  {
  if (typeof(ssId) != "undefined")
  {
- var ssurl = 'http://64.22.100.70/affiliate.php?ss=' + ssId;
+ var ssurl = 'http://nativeremedies2.com/affiliate.php?ss=' + ssId;
  var ssimg = new Image();
  
  //sets the cookie remotely
@@ -485,6 +459,83 @@ $.preloadImages(
  "/images/design/ailmentBarClose.gif",
  "/images/design/ailmentBarOpen.gif"
 );
+
+
+function validate()
+{
+ var pass = true;
+ jQuery('.required').each(function(){
+ if(jQuery(this).val() == '' ||
+ (jQuery(this).hasClass('validate-email') && !/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/.test(jQuery(this).val())))
+ {
+ jQuery(this).addClass('invalid');
+ pass = false;
+ }
+ else
+ {
+ jQuery(this).removeClass('invalid');
+ }
+ 
+ });
+
+ if(pass==false)
+ {
+ jQuery('#formError').css('display', 'block');
+ window.location = "#formErrorAnchor";
+ return false; 
+ }
+ else
+ {
+ jQuery('#formError').css('display', 'none');
+ }
+
+/*
+ var sendPost = "recaptcha_challenge_field="+jQuery('#recaptcha_challenge_field').val()+"&recaptcha_response_field="+jQuery('#recaptcha_response_field').val();
+ jQuery.ajax({ url: "/scripts/recaptcha/captcha.php", type: 'POST', async: false, data: sendPost, success: 
+ function(response)
+ {
+ if(response == 0)
+ {
+ Recaptcha.failsauce = true;
+ Recaptcha.reload();
+ }
+ else
+ {
+ Recaptcha.failsauce = false;
+ }
+ }
+ 
+ });
+ 
+ if(Recaptcha.failsauce==true)
+ {
+ alert('Please enter the correct CAPTCHA.');
+ return false;
+ }
+*/
+ 
+ return true;
+ 
+}
+
+ 
+$(document).ready(function() {
+
+ $('p.comboselection a').click(function(){
+ document.location = $(this).attr('href');
+ });
+
+ $('#tabnav').infotabs();
+ $('#bottom-tabs').infotabs({
+ 'tabSelector': 'tab-selector2', 
+ 'tabContent': 'tab-content2', 
+ 'tabContainer': 'whiteBox', 
+ 'tabExclude': '',
+ 'opacityEffect' : .33,
+ 'selectedTab' : 'betterCombos'
+ });
+});
+
 ( function($){ 
  $.fn.extend({ 
  //plugin name - infotabs 
@@ -704,760 +755,12 @@ $.preloadImages(
   <ul>
     <li class="first"><a href="/" onclick="s_objectID='top_Home';">Home</a></li>
     <li><a href="/ask_us.shtml" onclick="s_objectID='top_AskUS';">Ask Our Experts</a></li>
-    <li style="background: none; padding:0 4px 0 16px;"><a href="/browse.shtml" onclick="s_objectID='top_Products';">Products</a></li>
-	<li style="width:20px;padding:0 8px 0 4px;"><a href="#" class="imgDropDown" onclick="s_objectID='DropDownTop-Products';"><img src="/images/design/btnNavDropDown.gif">
-      <!--[if IE 7]><!-->
-      </a>
-      <!--<![endif]-->
-      <!--[if lte IE 6]><table><tr><td><![endif]-->
-      <ul style="left:-98px">
-        <li><a href="/browse.shtml" title="All Products">View All</a></li>
-		<li><a href="/products/a+testcalmer-maintain-calm-nerves.html" onclick="s_objectID='dd_TestCalmer';">A+ TestCalmer</a></li>
-		<li><a href="/products/acidfreeflux-acid-indigestion-heartburn-remedy.html" onclick="s_objectID='dd_AcidFreeFlux';">Acid Free-Flux</a></li>
-		<li><a href="/products/adaptozen-adaptogens-ph-balance-body.html" onclick="s_objectID='dd_AdaptoZen';">AdaptoZen</a></li>
-		<li><a href="/products/adrenoboost-adrenal-glands-function.html" onclick="s_objectID='dd_AdrenoBoost';">AdrenoBoost</a></li>	
-		<li><a href="/products/afterbirthdrops-natural-oxytocin-placenta-delivery.html" onclick="s_objectID='dd_afterbirth-drops';">AfterBirth Drops</a></li>
-		<li><a href="/products/agora-fear-leaving-house-crowds.html" onclick="s_objectID='dd_AgoraFearRelief';">AgoraFear Relief</a></li>
-		<li><a href="/products/allergiclear-healthy-nasal-sinuses.html" onclick="s_objectID='dd_allergiclear';">AllergiClear</a></li>	
-		<li><a href="/products/anemicare-normal-iron-hemoglobin-levels.html" onclick="s_objectID='dd_Anemicare';">Anemicare</a></li>
-		<li><a href="/products/anal-itch-assist-for-itching.html" onclick="s_objectID='dd_AnalItchAssist';">Anal Itch Assist</a></li>	
-		<li><a href="/products/anger-soothe-control-emotional-outbursts.html" onclick="s_objectID='dd_AngerSoothe';">Anger-Soothe</a></li>	
-		<li><a href="/products/aquarite-normal-blood-pressure-ranges.html" onclick="s_objectID='dd_aquarite';">Aqua-Rite</a></li>
-		<li><a href="/products/childrens-sleep-aid-baddreamsprinkles.html" onclick="s_objectID='dd_Bad_Dream_Sprinkles';">Bad Dream Sprinkles</a></li>
-		<li><a href="/products/baniflu-homeopathic-prevent-flu-vaccine.html" onclick="s_objectID='dd_BaniFlu';">BaniFlu</a></li>
-		<li><a href="/products/be-dry-child-adult-bedwetting.html" onclick="s_objectID='dd_bedry';">Be-Dry</a></li>
-		<li><a href="/products/biooxidate-natural-antioxidant-supplement.html" onclick="s_objectID='dd_Bio-OxidateDefense';">Bio-Oxidate Defense</a></li>
-		<li><a href="/products/biovent-for-respiratory-health.html" onclick="s_objectID='dd_biovent';">BioVent Drops</a></li>
-		<li><a href="/products/birth-heal-recovery-labor-childbirth.html" onclick="s_objectID='dd_birth-heal';">Birth-Heal</a></li>
-		<li><a href="/products/bladderwell-strengthen-bladder-health.html" onclick="s_objectID='dd_BladderWell';">BladderWell</a></li>
-		<li><a href="/products/blissful-baby-aromatic-massage-oil.html" onclick="s_objectID='dd_blissful-baby-aromatic-massage-oil';">Blissful Baby Aromatic Massage Oil</a></li>
-		<li><a href="/products/brain-tonic-brain-health-info.html" title="Natural Remedy to Increase Mental Focus" onclick="s_objectID='dd_braintonic';">Brain Tonic</a></li>
-		<li><a href="/products/brightspark-hyperactivity-in-children.html" title="Natural Remedy for Child Concentration Problems" onclick="s_objectID='dd_brightspark';">BrightSpark</a></li>
-		<li><a href="/products/bringforthlife-essence-fear-intimacy-sexuality.html" onclick="s_objectID='dd_bringforth-life-flower-essence';">Bringforth Life Flower Essence</a></li>
-		<li><a href="/products/bronchosoothe-normal-breathing-respiration-rate.html" onclick="s_objectID='dd_bronchosoothe';">BronchoSoothe</a></li>
-		<li><a href="/products/calm-within-cd-soothing-music.html" onclick="s_objectID='dd_calmwithin';">Calm Within CD</a></li>
-		<li><a href="/products/candidate-systemic-candida-albicans.html" onclick="s_objectID='dd_candidate';">Candidate</a></li>
-		<li><a href="/products/cantravel-prevent-nausea-motion-sickness.html" onclick="s_objectID='dd_cantravel';">CanTravel</a></li>
-		<li><a href="/products/chikkiespotdrops-support-comfort-in-baby.html" onclick="s_objectID='dd_Chikkie_Spot_Drops';">Chikkie Spot Drops</a></li>
-		<li><a href="/products/chikkie-spot-soother-child-rashes.html" onclick="s_objectID='dd_Chikkie_Spot_Soother';">Chikkie Spot Soother</a></li>
-		<li><a href="/products/cholestorite-healthy-cholesterol-levels.html" onclick="s_objectID='dd_cholestorite';">Cholesto-Rite</a></li>
-		<li><a href="/products/circulive-normal-blood-circulation.html" onclick="s_objectID='dd_circulive';">Circu-Live</a></li>
-		<li><a href="/products/clear-skin-wash-pimple-cleanser.html" onclick="s_objectID='dd_facewash';">ClearSkin Skin Wash</a></li>
-		<li><a href="/products/clearskinagel-pimple-cream.html" onclick="s_objectID='dd_acnegel';">ClearSkin-A Gel</a></li>
-		<li><a href="/products/natural-clear-skin-e-cream-care.html" onclick="s_objectID='dd_eczema';">ClearSkin-E Cream</a></li>
-		<li><a href="/products/coloflush-healthy-natural-colon-cleanser.html" onclick="s_objectID='dd_ColoFlush';">ColoFlush</a></li>
-		<li><a href="/products/comficoff-keep-chest-clear-of-congestion.html" onclick="s_objectID='dd_ComfiCoff';">ComfiCoff</a></li>
-		<li><a href="/products/conception-flower-gem-essence.html" onclick="s_objectID='dd_conception-flower-essence';">Conception Flower Essence</a></li>
-		<li><a href="/products/congestok-decongestant-chest-rub.html" onclick="s_objectID='dd_Congesto-K_KiddieRub';">Congesto-K KiddieRub</a></li>
-		<li><a href="/products/congestok-decongestant-aromatherapy-pillow-spray.html" onclick="s_objectID='dd_Congesto-K_Pillow_Spritzer';">Congesto-K Pillow Spritzer</a></li>
-		<li><a href="/products/conjunctaclear-relief-for-eye-irritations.html" onclick="s_objectID='dd_ConjunctClear';">Conjunct-a-Clear</a></li>
-		<li><a href="/products/conjunctaclear-wash-for-eye-irritations.html" onclick="s_objectID='dd_ConjunctWash';">Conjunct-a-Clear Wash</a></li>		
-		<li><a href="/products/cradle-clear-lotion-crusty-rashes.html" onclick="s_objectID='dd_cradle-cap-salve';">CradleClear Lotion</a></li>
-		<li><a href="/products/craverx-stop-smoking-naturally.html" onclick="s_objectID='dd_craverx';">Crave-Rx Drops</a></li>
-		<li><a href="/products/floweressence-balance-pregnancy-hormones.html" onclick="s_objectID='dd_creation-flower-essence';">Creation Flower Essence</a></li>
-		<li><a href="/products/croup-ex-barking-cough.html" onclick="s_objectID='dd_Croup-ExSprinkles';">CroupEx Sprinkles</a></li>
-		<li><a href="/products/deodorite-herbal-perspiration-remedies.html" onclick="s_objectID='dd_deodorite';">DeodoRite</a></li>
-		<li><a href="/products/detox-drops-natural-detoxification-methods.html " onclick="s_objectID='dd_detoxdrops';">Detox Drops</a></li>
-		<li><a href="/products/diabetonic-normal-blood-sugar-levels.html" onclick="s_objectID='dd_diabetonic';">Diabetonic</a></li>
-		<li><a href="/products/baby-skin-care-diaper-distresscream.html" onclick="s_objectID='dd_diaper-distress-cream';">Diaper Distress Cream</a></li>
-		<li><a href="/products/digestassist-normal-stomach-acid-production.html" onclick="s_objectID='dd_digestassist';">DigestAssist</a></li>
-		<li><a href="/products/digestiontonic-stop-common-heartburn-indigestion.html" onclick="s_objectID='dd_digestiontonic';">Digestion Tonic</a></li>
-		<li><a href="/products/digesto-k-heartburn-pregnancy-relief.html" onclick="s_objectID='dd_digesto-k-sprinkles';">Digesto-K Sprinkles</a></li>
-		<li><a href="/products/dongquai-balanced-hormone-levels.html" onclick="s_objectID='dd_dongquai';">Dong Quai</a></li>
-		<li><a href="/products/earheal-support-ear-health.html" onclick="s_objectID='dd_earheal';">Ear-Heal</a></li>
-		<li><a href="/products/earok-normal-ear-wax-levels.html" onclick="s_objectID='dd_earok';">Ear-Ok Drops</a></li>
-		<li><a href="/products/easiotomycream-perineal-tearing-episiotomy-healing.html" onclick="s_objectID='dd_easiotomy-cream';">Easiotomy Cream</a></li>
-		<li><a href="/products/easyairtravel-overcoming-fear-of-flying.html" onclick="s_objectID='dd_EasyAirTravel';">Easy AirTravel</a></li>
-		<li><a href="/products/ecoslim-natural-weight-loss-support.html" onclick="s_objectID='dd_ecoslim';">EcoSlim</a></li>
-		<li><a href="/products/eddyearsprinkles-baby-ear-health.html" onclick="s_objectID='dd_eddyear';">Eddy Ear Sprinkles</a></li>
-		<li><a href="/products/endoex-healthy-uterus-lining.html" onclick="s_objectID='dd_endoex';">Endo-Ex</a></li>
-		<li><a href="/products/epistill-normal-neuron-activity-neurotransmitters.html" onclick="s_objectID='dd_epistill';">Epi-Still</a></li>
-		<li><a href="/products/ezebirthfloweressence-emotional-anxiety-childbirth.html" onclick="s_objectID='dd_eze-birth-flower-essence';">Eze-Birth Flower Essence</a></li>
-		<li><a href="/products/faithful-feet-aromatic-footspa.html" onclick="s_objectID='dd_faithful-feet-aromatic-footspa-concentrate';">Faithful Feet Aromatic FootSpa Concentrate</a></li>
-		<li><a href="/products/faithful-feet-massage-oil.html" onclick="s_objectID='dd_faithful-feet-massage-oil';">Faithful Feet Massage Oil</a></li>
-		<li><a href="/products/fatigue-fighter-support-healthy-energy-levels.html" onclick="s_objectID='dd_fatigue';">Fatigue Fighter</a></li>
-		<li><a href="/products/femalite-remedy-relieve-menstrual-cramps.html" onclick="s_objectID='dd_femalite';">Femalite</a></li>
-		<li><a href="/products/femalube-natural-vaginal-dryness-lubricant.html" onclick="s_objectID='dd_FemaLube';">FemaLube</a></li>
-		<li><a href="/products/fertile-xx-promote-regular-ovulation-cycles.html" onclick="s_objectID='dd_fertilexxy';">Fertile XX</a></li>
-		<li><a href="/products/fertile-xy-healthy-sperm-production.html" onclick="s_objectID='dd_fertilexxy';">Fertile XY</a></li>
-		<li><a href="/products/flugo-cold-and-flu-remedies.html" onclick="s_objectID='dd_FluGo';">FluGo</a></li>
-		<li><a href="/products/focusaddult-maintain-brain-function.html" onclick="s_objectID='dd_focusaddult';">Focus ADDult</a></li>
-		<li><a href="/products/maintain-concentration-focus-formula.html" onclick="s_objectID='dd_focus';">Focus Formula</a></li>
-		<li><a href="/products/gasolve-relief-discourage-common-flatulence.html" onclick="s_objectID='dd_gasolve';">Gasolve Relief</a></li>
-		<li><a href="/products/gastronicdr-digestassist-digestive-health.shtml " onclick="s_objectID='dd_gastronicdr';">Gastronic Dr.</a></li>
-		<li><a href="/products/goodmorningmama-common-morning-sickness.html" onclick="s_objectID='dd_good-morning-mama-granules';">Good Morning Mama</a></li>
-		<li><a href="/products/gout-gone-painful-swollen-joints.html" onclick="s_objectID='dd_GoutGone';">Gout-Gone</a></li>	
-		<li><a href="/products/halitonic-oral-health-breath-freshness.html" onclick="s_objectID='dd_halitonic';">HaliTonic</a></li>
-		<li><a href="/products/hangover-morning-mend-cure.html" onclick="s_objectID='dd_Hang-OverMorningMend';">Hang-Over Morning Mend</a></li>
-		<li><a href="/products/hayfever-fighter-seasonal-allergies-relief.html" onclick="s_objectID='dd_HayFever';">HayFever Fighter</a></li>
-		<li><a href="/products/headachesoothe-relief-for-headaches.html" onclick="s_objectID='dd_HeadacheSoothe';">Headache Soothe</a></li>
-		<li><a href="/products/heavenlylabor-massage-oil-childbirth-contractions.html" onclick="s_objectID='dd_heavenlylabor-aromatic-massage-oil';">HeavenlyLabor Aromatic Massage Oil</a></li>
-		<li><a href="/products/highrite-normal-blood-pressure.html" onclick="s_objectID='dd_highrite';">High-Rite</a></li>
-		<li><a href="/products/ibaba-calm-colic-newborns-babies.html" onclick="s_objectID='dd_ibaba';">iBaba</a></li>
-		<li><a href="/products/ikawe-promote-male-sex-drive.html" onclick="s_objectID='dd_ikawe';">Ikawe for Men</a></li>
-		<li><a href="/products/immunityplus-healthy-immune-system.html" onclick="s_objectID='dd_immunityplus';">ImmunityPlus</a></li>
-		<li><a href="/products/infant-massage-oil-soothe-calm-baby.html" onclick="s_objectID='dd_infant-massage-oil';">Infant Massage Oil</a></li>
-		<li><a href="/products/inflammago-joint-pain-and-swelling.html" onclick="s_objectID='dd_InflammaGo';">InflammaGo</a></li>
-		<li><a href="/products/insulateplus-natural-blood-sugar-remedies.html" onclick="s_objectID='dd_insulateplus';">Insulate Plus</a></li>
-		<li><a href="/products/invigorateskintonic-healthy-natural-skin-care.html" onclick="s_objectID='dd_InvigorateSkinTonic';">Invigorate Skin Tonic</a></li>
-		<li><a href="/products/itchdr-relief-itching-skin-rashes.html" onclick="s_objectID='dd_itchdr';">Itch Dr.</a></li>
-		<li><a href="/products/jointeaseplus-muscle-joint-health-supplements.html" onclick="s_objectID='dd_jointease';">JointEase Plus</a></li>
-		<li><a href="/products/juniorslim-healthy-childrens-weight-loss.html" onclick="s_objectID='dd_JuniorSlim';">JuniorSlim</a></li>
-		<li><a href="/products/kiddie-calmer-for-shy-children.html" onclick="s_objectID='dd_kok';">K-OK Kiddie Calmer</a></li>
-		<li><a href="/products/kiddieflorish-healthy-childrens-appetites.html" onclick="s_objectID='dd_Kiddie Flourish';">Kiddie Florish</a></li>
-		<li><a href="/products/kiddieboost-childs-immune-system-support.html" onclick="s_objectID='dd_KiddieBoost';">KiddieBoost</a></li>
-		<li><a href="/products/kiddiecool-normal-body-temperature.html" onclick="s_objectID='dd_KiddieCool';">KiddieCool</a></li>
-		<li><a href="/products/kiddievom-soothe-childs-stomach.html" onclick="s_objectID='dd_KiddieVomSprinkles';">KiddieVom Sprinkles</a></li>
-		<li><a href="/products/kidneydr-normal-kidney-function.html" onclick="s_objectID='dd_kidneydr';">Kidney Dr.</a></li>
-		<li><a href="/products/laststagefloweressence-anxiety-stress-pregnancy.html" onclick="s_objectID='dd_laststage-flower-essence';">LastStage Flower Essence</a></li>
-		<li><a href="/products/leg-calm-night-pains-burning.html" onclick="s_objectID='dd_legcalm';">LegCalm</a></li>
-		<li><a href="/products/leg-cramp-away-pain-treatment.html" onclick="s_objectID='dd_LegCrampAway';">Leg Cramp Away</a></li>
-		<li><a href="/products/liverdr-healthy-liver-gallbladder-function.html" onclick="s_objectID='dd_liverdr';">Liver Dr.</a></li>
-		<li><a href="/products/mamagize-exhaustion-fatigue-during-pregnancy.html" onclick="s_objectID='dd_mamagize-pick-me-up-spritzer';">MamaGize Pick-Me-Up Spritzer</a></li>
-		<li><a href="/products/mediac-natural-acne-remedies.html" onclick="s_objectID='dd_MediAc';">MediAc</a></li>
-		<li><a href="/products/melancholy-lift-grief-grieving-process.html" onclick="s_objectID='dd_Melancholy Lift';">Melancholy Lift</a></li>
-		<li><a href="/products/mellowmama-essential-aromatherapy-bath-oils.html" onclick="s_objectID='dd_mellowmama-aromatic-bath-oil';">MellowMama Aromatic Bath Oil</a></li>
-		<li><a href="/products/mellowpause-hormonal-balance-during-menopause.html" onclick="s_objectID='dd_mellowpause';">MellowPause</a></li>
-		<li><a href="/products/memorise-age-related-memory-loss.html" onclick="s_objectID='dd_memorise';">MemoRise</a></li>
-		<li><a href="/products/mensreduce-normal-menstrual-period-bleeding.html" onclick="s_objectID='dd_mensreduce';">Mens-Reduce</a></li>
-		<li><a href="/products/migone-plus-clear-headed-comfort.html" onclick="s_objectID='dd_migone';">MiGone Plus</a></li>
-		<li><a href="/products/mindsoothe-emotional-wellness-info.html" onclick="s_objectID='dd_mindsoothe';">MindSoothe</a></li>
-		<li><a href="/products/mindsoothejr-mental-emotional-health-children.html" onclick="s_objectID='dd_mindsoothejr';">MindSoothe Jr.</a></li>
-		<li><a href="/products/mindstillfloweressence-anxiety-stress-pregnancy.html" onclick="s_objectID='dd_mindstill-flower-essence';">MindStill Flower Essence</a></li>
-		<li><a href="/products/momsmagictraumasprinkles-calm-fussy-crying-baby.html" onclick="s_objectID='dd_Mom_Magic_Trauma_Sprinkles';">Mom's Magic Trauma Sprinkles</a></li>
-		<li><a href="/products/moodcalm-mood-swings-manic-behavior.html" onclick="s_objectID='dd_MoodCalm';">MoodCalm</a></li>
-		<li><a href="/products/mood-tonic-normal-serotonin-levels.html" onclick="s_objectID='dd_moodtonic';">Mood Tonic</a></li>
-		<li><a href="/products/mucus-clear-throat-congestion-remedy.html" onclick="s_objectID='dd_MucusClear';">Mucus-Clear</a></li>
-		<li><a href="/products/ncontonic-maintain-healthy-bladder-control.html" onclick="s_objectID='dd_ncontonic';">N-Con Tonic</a></li>
-		<li><a href="/products/nailrxnatural-fingernail-toenail-care-product.html" onclick="s_objectID='dd_nailrx';">Nail-Rx</a></li>
-		<li><a href="/products/natural-moves-normal-bowel-movements.html" onclick="s_objectID='dd_naturalmoves';">Natural Moves</a></li>
-		<li><a href="/products/naturesbirthdrops-natural-childbirth-support.html" onclick="s_objectID='dd_natures-birth-drops';">Nature's Birth Drops</a></li>
-		<li><a href="/products/naturesmilkdrops-breastfeeding-milk-production.html" onclick="s_objectID='dd_natures-milk-drops';">Nature's Milk Drops</a></li>
-		<li><a href="/products/naughtynits-hair-remove-rid-lice-nit.html" onclick="s_objectID='dd_Naughty_Nits';">Naughty Nits</a></li>
-		<li><a href="/products/nerve-tonic-soothe-common-nervous-tension.html" onclick="s_objectID='dd_nervetonic';">Nerve Tonic</a></li>
-		<li><a href="/products/newmama-drops-natural-labor-recovery.html" onclick="s_objectID='dd_newmama-drops';">NewMama Drops</a></li>
-		<li><a href="/products/nicotonic-stop-smoking-naturally.html" onclick="s_objectID='dd_nicotonic';">NicoTonic</a></li>
-		<li><a href="/products/nippleconditioningcream-cracked-nipples-breastfeeding.html" onclick="s_objectID='dd_nipple-conditioning-cream';">Nipple Conditioning Cream</a></li>
-		<li><a href="/products/oralassist-toothache-pain-relief-remedy.html" onclick="s_objectID='dd_OralAssist';">Oral-Assist</a></li>
-		<li><a href="/products/oralsoothe-natural-herbal-teething-remedy.html" onclick="s_objectID='dd_oralsoothe';">OralSoothe</a></li>
-		<li><a href="/products/pre-party-protect-liver-detox.html" onclick="s_objectID='dd_Pre-PartyProtect';">Pre-Party Protect</a></li>
-		<li><a href="/products/propartumdrops-preparing-labor-delivery.html" onclick="s_objectID='dd_propartum-drops';">Propartum Drops</a></li>
-		<li><a href="/products/prostatedr-prostate-gland-health.html" onclick="s_objectID='dd_prostatedr';">Prostate Dr.</a></li>
-		<li><a href="/products/prostate-relief-frequent-urination.html" onclick="s_objectID='dd_ProStateRelief';">ProState Relief</a></li>
-		<li><a href="/products/pureclenz-wound-first-aid.html" onclick="s_objectID='dd_Pure-Clenz_Solution';">Pure-Clenz Solution</a></li>
-		<li><a href="/products/purehealgel-wound-care-healing-treatment.html" onclick="s_objectID='dd_Pure-Heal_Gel';">Pure-Heal Gel</a></li>
-		<li><a href="/products/purenfresh-bad-breath-freshener.html" onclick="s_objectID='dd_PureFreshBreathSpray';">Pure-n-Fresh Breath Spray</a></li>
-		<li><a href="/products/purecalm-soothe-common-nervous-tension.html" onclick="s_objectID='dd_purecalm';">PureCalm</a></li>
-		<li><a href="/products/puremotherfloweressence-pregnancy-baby-blues.html" onclick="s_objectID='dd_puremother-flower-essence';">PureMother Flower Essence</a></li>
-		<li><a href="/products/realheal-natural-healing-ability.html" onclick="s_objectID='dd_realheal';">RealHeal</a></li>
-		<li><a href="/products/realheal-massage-oils-muscle-joint.html" onclick="s_objectID='dd_realhealoil';">RealHeal Massage Oil</a></li>
-		<li><a href="/products/rectorexbalm-anal-health.html" onclick="s_objectID='dd_RectoRexBalm';">RectoRex Balm</a></li>
-		<li><a href="/products/rectorexdrops-anal-health.html" onclick="s_objectID='dd_RectoRexDrops';">RectoRex Drops</a></li>
-		<li><a href="/products/regrowscalpmassageoil-age-related-hair-loss.html" onclick="s_objectID='dd_regrowoil';">ReGrow Scalp Massage Oil</a></li>
-		<li><a href="/products/agerelated-hair-loss-regrowplus.html" onclick="s_objectID='dd_regrow';">ReGrow Plus</a></li>
-		<li><a href="/products/cd-rocking-chair-soothing-relaxing-music.shtml" onclick="s_objectID='dd_RockingChairCD';">Rocking Chair CD</a></li>
-		<li><a href="/products/rosarex-facial-flushing-redness.html" onclick="s_objectID='dd_RosaRex';">RosaRex</a></li>
-		<li><a href="/products/rxhale-stop-smoking-naturally.html" onclick="s_objectID='dd_regrow';">Rx-Hale</a></li>
-		<li><a href="/products/sadsoother-seasonal-depression-and-grief.html" onclick="s_objectID='dd_SADSoother';">SAD Soother</a></li>
-		<li><a href="/products/scabease-itchy-skin-relief.html" onclick="s_objectID='dd_ScabEaseItchRelief';">Scab-Ease Itch Relief</a></li>
-		<li><a href="/products/sciatigon-soothe-sciatic-nerve.html" onclick="s_objectID='dd_sciatigon';">SciatiGon</a></li>
-		<li><a href="/products/serenitejr-childrens-natural-sleep-aid.html" onclick="s_objectID='dd_serenitejr';">Serenite Jr.</a></li>
-		<li><a href="/products/serenitelt-natural-sleep-aid-remedies.html" onclick="s_objectID='dd_serenitelt';">Serenite-LT</a></li>
-		<li><a href="/products/sereniteplus-natural-sleep-aid.html  " onclick="s_objectID='dd_sereniteplus';">SerenitePlus</a></li>
-		<li><a href="/products/skindr-itchy-scaly-skin-scalp.html  " onclick="s_objectID='dd_skindr';">Skin Dr.</a></li>
-		<li><a href="/products/sleep-tonic-restful-sleep-cycles.html" onclick="s_objectID='dd_sleeptonic';">Sleep Tonic</a></li>
-		<li><a href="/products/slimmersassist-healthy-weight-loss.html" onclick="s_objectID='dd_slimmersassist';">Slimmer's Assist</a></li>
-		<li><a href="/products/snifflysprinkles-nasal-congestion.html" onclick="s_objectID='dd_Sniffly_Sprinkles';">Sniffly Sprinkles</a></li>
-		<li><a href="/products/socialfearrelief-overcoming-social-anxiety.html" onclick="s_objectID='dd_SocialFear Relief';">SocialFear Relief</a></li>
-		<li><a href="/products/histadrops-normal-histamine-levels.html" onclick="s_objectID='dd_histadrops';">SOS HistaDrops</a></li>
-		<li><a href="/products/stretcheasy-formula-stretch-mark-remedy.html" onclick="s_objectID='dd_stretcheasy-formula';">StretchEasy Formula</a></li>
-		<li><a href="/products/stretcheasy-massage-oil-stretch-mark-remedy.html" onclick="s_objectID='dd_stretcheasy-massage-oil';">StretchEasy Massage Oil</a></li>
-		<li><a href="/products/studyplus-healthy-study-habits-skills.html" onclick="s_objectID='dd_studyplus';">StudyPlus</a></li>
-		<li><a href="/products/sweatless-excessive-sweating-and-perspiration.html" onclick="s_objectID='dd_SweatLess';">Sweat-Less</a></li>
-		<li><a href="/products/teenslim-healthy-teen-weight-loss.html" onclick="s_objectID='dd_TeenSlim';">TeenSlim</a></li>
-		<li><a href="/products/tic-tamer-involuntary-body-movements.html" onclick="s_objectID='dd_TicTamer';">Tic Tamer</a></li>
-		<li><a href="/products/thanda-promote-female-sexual-desires.html" onclick="s_objectID='dd_thanda';">Thanda Passion Booster</a></li>
-		<li><a href="/products/calm-within-cd-soothing-music.html" onclick="s_objectID='dd_calmwithin';">The Calm Within CD</a></li>
-		<li><a href="/products/throat-and-tonsil-dr-lymphatic-system-health.html" onclick="s_objectID='dd_throattonsil';">Throat and Tonsil Dr.</a></li>
-		<li><a href="/products/thyroid-assist-healthy-functioning.html" onclick="s_objectID='dd_thyroidassist';">Thyroid Assist</a></li>
-		<li><a href="/products/thyrosoothe-support-thyroid-gland-function.html" onclick="s_objectID='dd_thyrosoothe';">ThyroSoothe</a></li>
-		<li><a href="/products/tinnarex-maintain-healthy-clear-ears.html" onclick="s_objectID='dd_tinnarex';">TinnaRex</a></li>
-		<li><a href="/products/tranquil-aromatherapy-birthbath-relaxation-labor.html" onclick="s_objectID='dd_tranquil-aromatic-birthbath';">Tranquil Aromatic BirthBath</a></li>
-		<li><a href="/products/tremorsoothe-tremors-spasms-shaking.html" onclick="s_objectID='dd_TremorSoothe';">TremorSoothe</a></li>
-		<li><a href="/products/tula-toddler-temper-tantrums.html" onclick="s_objectID='dd_tula';">Tula Tantrum Tamer</a></li>
-		<li><a href="/products/tummytrumbles-healthy-childrens-stools.html" onclick="s_objectID='dd_Tummy_Trumbles';">Tummy Trumbles</a></li>
-		<li><a href="/products/ut-tonic-urinary-system-and-bladder-health.html" onclick="s_objectID='dd_uttonic';">UT Tonic</a></li>
-		<li><a href="/products/uti-clear-urinary-tract-and-bladder-health.html" onclick="s_objectID='dd_uticlear';">UTI-Clear</a></li>
-		<li><a href="/products/vagisoothe-yeast-infection-remedy.html" onclick="s_objectID='dd_VagiSoothe';">Vagi-Soothe</a></li>
-		<li><a href="/products/vertifree-vestibular-inner-ear-balance.html" onclick="s_objectID='dd_VertiFree';">VertiFree</a></li>
-		<li><a href="/products/vitalitonic-natural-vitality-older-adults.html" onclick="s_objectID='dd_VitaliTonic';">VitaliTonic</a></li>
-		<li><a href="/products/vizuallplus-vision-eye-health.html" onclick="s_objectID='dd_vizuall';">Vizu-All Plus</a></li>
-		<li><a href="/products/welcomebabyfloweressence-happy-newborn-transition.html" onclick="s_objectID='dd_welcomebaby-flower-essence';">WelcomeBaby Flower Essence</a></li>
-		<li><a href="/products/wormdr-human-intestinal-worms.html" onclick="s_objectID='dd_WormDr';">Worm Dr.</a></li>
-      </ul>
-      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-    </li>
+    <li><a href="/browse.shtml" onclick="s_objectID='top_Products';">Products</a></li>
     <li><a href="/testimonials/index.html" onclick="s_objectID='top_Testimonials';">Testimonials</a></li>
-    <li style="background: none; padding:0 4px 0 16px;"><a href="/ailment-disease-list-remedy.html" onclick="s_objectID='top_Health';">Health A-Z</a></li>
-	<li style="width:20px;padding:0 8px 0 4px;"><a href="#" onclick="s_objectID='DropDownTop-HealthA-Z';"><img src="/images/design/btnNavDropDown.gif">
-      <!--[if IE 7]><!-->
-      </a>
-      <!--<![endif]-->
-      <!--[if lte IE 6]><table><tr><td><![endif]-->
-      <ul>
-        <li><a href="/ailment-disease-list-remedy.html" title="View All" onclick="s_objectID='dd_viewall';">View All</a></li>
-		<li><a href="/ailment/natural-treatments-for-abdominal-pain.html" title="Abdominal Pain" onclick="s_objectID='dd_Abdominal-Pain';">Abdominal Pain</a></li>
-		<li><a href="/ailment/natural-remedies-for-abdominal-swelling.html" title="Abdominal Swelling" onclick="s_objectID='dd_Abdominal-Swellinge';">Abdominal Swelling</a></li>
-		<li><a href="/ailment/natural-first-aid-treatments-abrasions.html" onclick="s_objectID='dd_Abrasions';">Abrasions</a></li>
-		<li><a href="/ailment/natural-treatments-for-skin-abscess.html" onclick="s_objectID='dd_Abscess';">Abscess</a></li>
-		<li><a href="/ailment/natural-remedies-body-aches-pains.html" title="Aches and Pains" onclick="s_objectID='dd_AchesAndPains';">Aches and Pains</a></li>
-		<li><a href="/ailment/acid-reflux-and-heartburn-treatments.html" title="Acid Reflux" onclick="s_objectID='dd_AcidReflux';">Acid Reflux</a></li>
-		<li><a href="/ailment/natural-treatments-face-body-acne.html" onclick="s_objectID='dd_Acne';">Acne</a></li>
-		<li><a href="/ailment/natural-treatments-for-acne-vulgaris.html" onclick="s_objectID='dd_AcneVulgaris';">Acne Vulgaris</a></li>
-		<li><a href="/ailment/natural-remedies-for-acrophobia-treatment.html" title="Acrophobia" onclick="s_objectID='dd_Acrophobia';">Acrophobia</a></li>
-		<li><a href="/ailment/low-oxygen-and-mountain-sickness.html" title="Acute Mountain Sickness (AMS) " onclick="s_objectID='dd_AcuteMountainSickness';">Acute Mountain Sickness (AMS) </a></li>
-		<li><a href="/ailment/natural-treatments-for-addictions.html" title="Addiction" onclick="s_objectID='dd_addiction';">Addiction</a></li>
-		<li><a href="/ailment/what-is-addisons-disease.html" title="Addison's Disease" onclick="s_objectID='dd_addisons-disease';">Addison's Disease</a></li>
-		<li><a href="/ailment/natural-remedies-advice-new-moms.html" title="Adjustment to Motherhood" onclick="s_objectID='dd_AdjustmenttoMotherhood';">Adjustment to Motherhood</a></li>
-		<li><a href="/ailment/adrenal-glands-health-info.html" title="Adrenal Glands" onclick="s_objectID='dd_adrenal-glands';">Adrenal Glands</a></li>
-		<li><a href="/ailment/natural-treatments-postpartum-care-recovery.html" title="After Birth Care" onclick="s_objectID='dd_AfterBirthCare';">After Birth Care</a></li>
-		<li><a href="/ailment/natural-remedies-for-age-spots.html" title="Age Spots" onclick="s_objectID='dd_AgeSpots';">Age Spots</a></li>
-		<li><a href="/ailment/preventing-violent-aggressive-behaviors.html" title="Aggressive Behavior" onclick="s_objectID='dd_AggressiveBehavior';">Aggressive Behavior</a></li>
-		<li><a href="/ailment/natural-treatments-for-aging-issues.html" title="Aging" onclick="s_objectID='dd_Aging';">Aging</a></li>
-		<li><a href="/ailment/agoraphobia-symptoms-info.html" title="Agoraphobia" onclick="s_objectID='dd_agoraphobia';">Agoraphobia</a></li>
-		<li><a href="/ailment/natural-treatments-for-alcoholism.html" title="Alcoholism" onclick="s_objectID='dd_alcoholism';">Alcoholism</a></li>
-		<li><a href="/ailment/natural-remedies-for-allergies.html" title="Allergies" onclick="s_objectID='dd_Allergies';">Allergies</a></li>
-		<li><a href="/ailment/natural-treatments-for-alopecia.html" title="Alopecia" onclick="s_objectID='dd_Alopecia';">Alopecia</a></li>
-		<li><a href="/ailment/natural-treatments-for-altitude-sickness.html" title="Altitude Sickness" onclick="s_objectID='dd_Altitude-Sickness';">Altitude Sickness</a></li>
-		<li><a href="/ailment/preventing-alzheimers-symptoms-info.html" title="Alzheimer's Disease" onclick="s_objectID='dd_alzheimers-disease';">Alzheimer's Disease</a></li>
-		<li><a href="/ailment/amenorrhea-missed-menstrual-periods.html" title="Amenorrhea" onclick="s_objectID='dd_Amenorrhea';">Amenorrhea </a></li>
-        <li><a href="/ailment/treatment-for-anal-itching.html" title="Anal Itch" onclick="s_objectID='dd_AnalItch';">Anal Itch</a></li>
-		<li><a href="/ailment/natural-treatments-for-anemia.html" title="Anemia" onclick="s_objectID='dd_Anemia';">Anemia</a></li>
-		<li><a href="/ailment/anger-management-techniques-info.html" title="Anger" onclick="s_objectID='dd_anger';">Anger</a></li>
-		<li><a href="/ailment/anger-management-tips-and-treatments.html" title="Anger Management" onclick="s_objectID='dd_angerManagement';">Anger Management</a></li>
-		<li><a href="/ailment/controlling-explosive-anger-outbursts.html" title="Anger Outbursts" onclick="s_objectID='dd_angerOutbursts';">Anger Outbursts</a></li>
-		<li><a href="/ailment/angina-chest-pains.html" title="Angina" onclick="s_objectID='dd_angina';">Angina</a></li>
-		<li><a href="/ailment/natural-treatments-for-angioedema.html" title="Angioedema" onclick="s_objectID='dd_Angioedema';">Angioedema</a></li>
-		<li><a href="/ailment/anorexia-symptoms.html" title="Anorexia" onclick="s_objectID='dd_anorexia';">Anorexia</a></li>
-		<li><a href="/ailment/anti-aging-skin-care-treatments.html" title="Anti-aging" onclick="s_objectID='dd_anti-aging';">Anti-aging</a></li>
-		<li><a href="/ailment/anxiety-disorders-info.html" title="Anxiety" onclick="s_objectID='dd_anxiety';">Anxiety</a></li>
-		<li><a href="/ailment/natural-aphrodisiacs-sexual-arousal.html" title="Aphrodisiacs" onclick="s_objectID='dd_Aphrodisiacs';">Aphrodisiacs </a></li>
-		<li><a href="/ailment/natural-recovery-from-appendicitis-surgery.html" title="Appendicitis" onclick="s_objectID='dd_Appendicitis';">Appendicitis</a></li>
-		<li><a href="/ailment/appetite-decrease.html" title="Appetite, Decreasing" onclick="s_objectID='dd_appetite-decreasing';">Appetite, Decreasing</a></li>
-		<li><a href="/ailment/arteriosclerosis-hardening-arteries.html" title="Arteriosclerosis" onclick="s_objectID='dd_arteriosclerosis';">Arteriosclerosis</a></li>
-		<li><a href="/ailment/rheumatoid-arthritis-symptoms.html" title="Arthritis" onclick="s_objectID='dd_arthritis';">Arthritis</a></li>
-		<li><a href="/ailment/aspergers-syndrome-asperger-disorder.html" title="Asperger's Syndrome" onclick="s_objectID='dd_aspergers-syndrome';">Asperger's Syndrome</a></li>
-		<li><a href="/ailment/natural-treatments-for-asthma.html" title="Asthma" onclick="s_objectID='dd_Asthma';">Asthma</a></li>
-		<li><a href="/ailment/natural-remedies-for-athletes-foot.html" title="Athlete's Foot" onclick="s_objectID='dd_Athletes Foot';">Athlete's Foot</a></li>
-		<li><a href="/ailment/adult-add-adhd-symptoms-solutions-info.html" title="Attention Deficit Disorder, Adults  " onclick="s_objectID='dd_attention-deficit-disorder-adults';">ADD, Adults  </a></li>
-		<li><a href="/ailment/child-add-symptoms-info.html" title="Attention Deficit Disorder, Children  " onclick="s_objectID='dd_attention-deficit-disorder-children';">ADD, Children  </a></li>
-		<li><a href="/ailment/teen-adult-adhd-symptoms-info.html" title="Attention Deficit Hyperactivity Disorder, Adults " onclick="s_objectID='dd_attention-deficit-hyperactivity-disorder-adults';">ADHD, Adults </a></li>
-		<li><a href="/ailment/child-adhd-symptoms-info.html" title="Attention Deficit Hyperactivity Disorder, Children " onclick="s_objectID='dd_attention-deficit-hyperactivity-disorder-children';">ADHD, Children </a></li>
-		<li><a href="/ailment/autism-symptoms-info.html" title="Autism" onclick="s_objectID='dd_autism';">Autism</a></li>
-		<li><a href="/ailment/autoimmune-disease-symptoms-info.html" title="Autoimmune Disease" onclick="s_objectID='dd_autoimmune-disease';">Autoimmune Disease</a></li>
-		<li><a href="/ailment/natural-remedies-for-aviatophobia-treatment.html" title="Aviatophobia" onclick="s_objectID='dd_Aviatophobia';">Aviatophobia</a></li>
-		<li><a href="/ailment/natural-remedies-infant-emotional-development.html" title="Baby Emotional Development" onclick="s_objectID='dd_BabyEmotionalDevelopment';">Baby Emotional Development</a></li>
-		<li><a href="/ailment/newborn-baby-massage.html" title="Baby Massage" onclick="s_objectID='dd_BabyMassage';">Baby Massage</a></li>
-		<li><a href="/ailment/natural-remedies-for-backaches.html" title="Back Ache" onclick="s_objectID='dd_BackAche';">Back Ache</a></li>
-		<li><a href="/ailment/natural-treatments-for-bad-breath.html" title="Bad Breath" onclick="s_objectID='dd_Bad Breath';">Bad Breath</a></li>
-		<li><a href="/ailment/natural-treatments-female-male-baldness.html" title="Baldness" onclick="s_objectID='dd_Baldness';">Baldness</a></li>
-        <li><a href="/ailment/natural-treatments-bedwetting-children.html" title="Bed Wetting" onclick="s_objectID='dd_BedWetting';">Bed Wetting</a></li>
-        <li><a href="/ailment/bells-palsy-recovery-info.html" title="Bell's Palsy" onclick="s_objectID='dd_bells-palsy';">Bell's Palsy</a></li>
-		<li><a href="/ailment/benign-prostatic-hyperplasia-prostate.html" onclick="s_objectID='dd_Benign_Prostatic_Hyperplasia';">Benign Prostatic Hyperplasia</a></li>
-		<li><a href="/ailment/natural-treatments-for-bile-reflux.html" onclick="s_objectID='dd_Bile-Reflux';">Bile Reflux</a></li>
-		<li><a href="/ailment/bipolar-disorder-symptoms-info.html" title="Bipolar Disorder" onclick="s_objectID='dd_bipolar-disorder';">Bipolar Disorder</a></li>
-		<li><a href="/ailment/natural-treatments-bipolar-manic-episodes.html" title="Bipolar Manic Episodes" onclick="s_objectID='dd_BipolarManicEpisodes';">Bipolar Manic Episodes</a></li>
-		<li><a href="/ailment/bitots-spots-vitamin-a-deficiency.html" title="Bitot's Spots" onclick="s_objectID='dd_bitots-spots';">Bitot's Spots</a></li>
-		<li><a href="/ailment/natural-treatments-for-blackheads.html" title="Blackheads" onclick="s_objectID='dd_Blackheads';">Blackheads</a></li>
-		<li><a href="/ailment/symptoms-of-bladder-infections-info.html" title="Bladder Infection" onclick="s_objectID='dd_bladder-infection';">Bladder Infection</a></li>
-		<li><a href="/ailment/natural-treatments-for-chronic-blepharitis.html" title="Blepharitis" onclick="s_objectID='dd_Blepharitis';">Blepharitis</a></li>
-		<li><a href="/ailment/blood-clots-thrombosis.html" title="Blood Clots" onclick="s_objectID='dd_blood-clots';">Blood Clots</a></li>
-		<li><a href="/ailment/normal-range-blood-pressure.html" title="Blood Pressure" onclick="s_objectID='dd_blood-pressure';">Blood Pressure</a></li>
-		<li><a href="/ailment/blood-purifier-herbs.html" title="Blood Purifiers" onclick="s_objectID='dd_blood-purifiers';">Blood Purifiers</a></li>
-		<li><a href="/ailment/blood-thinners-anticoagulants.html" title="Blood Thinners " onclick="s_objectID='dd_blood-thinners';">Blood Thinners </a></li>
-		<li><a href="/ailment/causes-of-bloodshot-eyes.html" title="Bloodshot Eyes" onclick="s_objectID='dd_bloodshot-eyes';">Bloodshot Eyes</a></li>
-		<li><a href="/ailment/natural-body-cleansing.html" title="Body Cleansing" onclick="s_objectID='dd_body-cleansing';">Body Cleansing</a></li>
-		<li><a href="/ailment/natural-treatments-for-body-lice.html" title="Body Lice" onclick="s_objectID='dd_BodyLice';">Body Lice</a></li>
-		<li><a href="/ailment/natural-remedies-for-body-odor.html" title="Body Odor" onclick="s_objectID='dd_BodyOdor';">Body Odor</a></li>
-		<li><a href="/ailment/skin-boils-and-carbuncles-info.html" title="Boils" onclick="s_objectID='dd_boils';">Boils</a></li>
-        <li><a href="/ailment/natural-treatments-for-bone-fractures.html" title="Bone Fractures" onclick="s_objectID='dd_Bone_Fractures';">Bone Fractures</a></li>
-		<li><a href="/ailment/natural-treatments-fibrocystic-breast-disease.html" title="Breastfeeding" onclick="s_objectID='dd_Breastfeeding';">Breast Disease</a></li>
-		<li><a href="/ailment/breastfeeding-benefits-and-problems.html" title="Breastfeeding" onclick="s_objectID='dd_Breastfeeding';">Breastfeeding</a></li>
-		<li><a href="/ailment/increase-breast-milk-production.html" title="Breast Milk Production" onclick="s_objectID='dd_BreastMilkProduction';">Breast Milk Production</a></li>
-		<li><a href="/ailment/natural-remedies-for-sore-breasts.html" title="Breast Soreness" onclick="s_objectID='dd_BreastSoreness';">Breast Soreness</a></li>	
-		<li><a href="/ailment/remedies-for-brittle-splitting-nails.html" title="Brittle Nails" onclick="s_objectID='dd_BrittleNails';">Brittle Nails</a></li>
-		<li><a href="/ailment/acute-bronchitis-and-chronic-bronchitis-info.html" title="Bronchitis" onclick="s_objectID='dd_bronchitis';">Bronchitis</a></li>
-        <li><a href="/ailment/natural-treatments-for-bruises.html" title="Bruises" onclick="s_objectID='dd_Bruises';">Bruises</a></li>
-		<li><a href="/ailment/bruxism-teeth-grinding-info.html" title="Bruxism" onclick="s_objectID='dd_bruxism';">Bruxism</a></li>
-		<li><a href="/ailment/bulimia-symptoms.html" title="Bulimia" onclick="s_objectID='dd_bulimia';">Bulimia</a></li>
-		<li><a href="/ailment/natural-treatments-for-burns.html" title="Burns" onclick="s_objectID='dd_burns';">Burn</a></li>
-		<li><a href="/ailment/overcoming-job-burnout.html" title="Burn Out" onclick="s_objectID='dd_burn-out';">Burnout</a></li>
-		<li><a href="/ailment/symptoms-of-bursitis.html" title="Bursitis" onclick="s_objectID='dd_bursitis';">Bursitis</a></li>
-		<li><a href="/ailment/symptoms-of-candida-overgrowth-info.html" title="Candida" onclick="s_objectID='dd_candida';">Candida</a></li>
-		<li><a href="/ailment/remedies-for-canker-sores-relief.html" title="Canker Sores" onclick="s_objectID='dd_canker-sores';">Canker Sores</a></li>
-		<li><a href="/ailment/candidiasis-thrush-candida-overgrowth-info.html" title="Candidiasis" onclick="s_objectID='dd_candida';">Candidiasis</a></li>
-		<li><a href="/ailment/strengthen-capillary-walls.html" title="Capillary" onclick="s_objectID='dd_capillary';">Capillary</a></li>
-		<li><a href="/ailment/cardiac-arrhythmias-fast-heartbeat.html" title="Cardiac Arrhythmia" onclick="s_objectID='dd_cardiac-arrhythmia';">Cardiac Arrhythmia</a></li>
-		<li><a href="/ailment/cardiomyopathy-symptoms.html" title="Cardiomyopathy" onclick="s_objectID='dd_cardiomyopathy';">Cardiomyopathy</a></li>
-		<li><a href="/ailment/carpal-tunnel-sydrome-relief.html" title="Carpal Tunnel" onclick="s_objectID='dd_carpal-tunnel';">Carpal Tunnel</a></li>
-		<li><a href="/ailment/alternative-treatments-for-cataracts.html" title="Cataracts" onclick="s_objectID='dd_cataracts';">Cataracts</a></li>
-		<li><a href="/ailment/cavities-and-dental-caries-treatments.html" title="Cavity" onclick="s_objectID='dd_cavity';">Cavity</a></li>
-		<li><a href="/ailment/natural-treatments-dry-chapped-lips.html" title="Chapped Lips" onclick="s_objectID='dd_Chapped Lips';">Chapped Lips</a></li>
-		<li><a href="/ailment/natural-treatments-chemotherapy-side-effects.html" title="Chemotherapy" onclick="s_objectID='dd_Chemotherapy';">Chemotherapy</a></li>
-		<li><a href="/ailment/chest-mucus-and-congestion-remedies.html" title="Chest Mucus" onclick="s_objectID='dd_Chest_Mucus';">Chest Mucus</a></li>
-		<li><a href="/ailment/natural-treatments-for-chest-pains.html" title="Chest Pain" onclick="s_objectID='dd_Chest_Pain';">Chest Pain</a></li>
-		<li><a href="/ailment/natural-treatments-for-chickenpox-rashes.html" title="Chickenpox" onclick="s_objectID='dd_Chickenpox';">Chickenpox</a></li>
-		<li><a href="/ailment/natural-treatments-bedwetting-children.html" title="Child Bedwetting" onclick="s_objectID='dd_ChildBedwetting';">Child Bedwetting</a></li>
-		<li><a href="/ailment/chilblains-skin-bumps.html" title="Chilblains" onclick="s_objectID='dd_chilblains';">Chilblains</a></li>
-		<li><a href="/ailment/child-anxiety-disorders.html" title="Child Anxiety" onclick="s_objectID='dd_child-anxiety';">Child Anxiety</a></li>
-		<li><a href="/ailment/natural-childbirth-pain-relief.html" title="Childbirth (Natural)" onclick="s_objectID='dd_ChildbirthNatural';">Childbirth (Natural)</a></li>
-		<li><a href="/ailment/childbirth-preparation.html" title="Childbirth Preparation" onclick="s_objectID='dd_childbirthPreparation';">Childbirth Preparation</a></li>
-		<li><a href="/ailment/child-growth-and-development.html" title="Child Growth" onclick="s_objectID='dd_Child_Growth';">Child Growth</a></li>
-		<li><a href="/ailment/natural-treatments-children-sleep-problems.html" title="Child Sleep Problems" onclick="s_objectID='dd_Child_Sleep_Problems';">Child Sleep Problems </a></li>
-		<li><a href="/ailment/childhood-depression-info.html" title="Child Depression" onclick="s_objectID='dd_child-depression';">Childhood Depression</a></li>
-		<li><a href="/ailment/chlamydia-symptoms-and-treatments.html" title="Chlamydia" onclick="s_objectID='dd_chlamydia';">Chlamydia</a></li>
-		<li><a href="/ailment/chronic-fatigue-syndrome-symptoms.html" title="Chronic Fatigue Syndrome " onclick="s_objectID='dd_chronic-fatigue-syndrome';">Chronic Fatigue Syndrome </a></li>
-		<li><a href="/ailment/chronic-pain-management-treatments.html" title="Chronic Pain" onclick="s_objectID='dd_Chronic Pain';">Chronic Pain</a></li>
-		<li><a href="/ailment/normal-blood-circulation.html" title="Circulation" onclick="s_objectID='dd_circulation';">Circulation</a></li>
-		<li><a href="/ailment/increase-poor-blood-circulation.html" title="Circulation, Poor" onclick="s_objectID='dd_circulation-poor';">Circulation, Poor</a></li>
-		<li><a href="/ailment/liver-damage-and-cirrhosis-treatments.html" title="Cirrhosis" onclick="s_objectID='dd_Cirrhosis';">Cirrhosis</a></li>
-		<li><a href="/ailment/dealing-with-claustrophobia-info.html" title="Claustrophobia" onclick="s_objectID='dd_claustrophobia';">Claustrophobia</a></li>
-		<li><a href="/ailment/treatments-for-cluster-headache-pain.html" title="Cluster Headaches" onclick="s_objectID='dd_ClusterHeadaches';">Cluster Headaches</a></li>
-		<li><a href="/ailment/natural-common-cold-remedies.html" title="Cold" onclick="s_objectID='dd_cold';">Cold</a></li>
-		<li><a href="/ailment/remedies-for-cold-sores-treatment.html" title="Cold Sores" onclick="s_objectID='dd_cold sores';">Cold Sores</a></li>
-		<li><a href="/ailment/natural-remedies-for-colic-relief.html" title="Colic" onclick="s_objectID='dd_Colic';">Colic</a></li>
-		<li><a href="/ailment/natural-colon-inflammation-colitis-treatments.html" title="Colitis" onclick="s_objectID='dd_colitis';">Colitis</a></li>
-		<li><a href="/ailment/natural-treatments-for-colon-problems.html" title="Colon Problems" onclick="s_objectID='dd_Colon-Problems';">Colon Problems</a></li>
-		<li><a href="/ailment/colon-hydrotherapy-natural-colon-cleanse.html" title="Colonic Irrigation" onclick="s_objectID='dd_colonic irrigation';">Colonic Irrigation</a></li>
-		<li><a href="/ailment/stimulate-labor-contractions.html" title="Contractions" onclick="s_objectID='dd_Contractions';">Contractions</a></li>
-		<li><a href="/ailment/improve-concentration-problems.html" title="Concentration/Study Aid" onclick="s_objectID='dd_Concentration/Study Aid';">Concentration/Study Aid</a></li>
-		<li><a href="/ailment/increase-chances-of-conception.html" title="Conception" onclick="s_objectID='dd_Conception';">Conception</a></li>
-		<li><a href="/ailment/congestive-heart-failure-symptoms.html" title="Congestive Heart Failure" onclick="s_objectID='dd_congestive-heart-failure';">Congestive Heart Failure</a></li>
-		<li><a href="/ailment/natural-laxative-chronic-constipation.html" title="Constipation" onclick="s_objectID='dd_constipation';">Constipation</a></li>
-		<li><a href="/ailment/copd-chronic-obstructive-pulmonary-disease.html" title="COPD" onclick="s_objectID='dd_copd';">COPD</a></li>
-		<li><a href="/ailment/corneal-ulcer-and-abrasion-treatments.html" title="Corneal Ulcer" onclick="s_objectID='dd_CornealUlcer';">Corneal Ulcer</a></li>
-		<li><a href="/ailment/persistent-coughing-info.html" title="Cough" onclick="s_objectID='dd_cough';">Cough</a></li>
-		<li><a href="/ailment/coughing-mucus-phlegm-and-sputum.html" title="Coughimg Mucus and Phlegm" onclick="s_objectID='dd_CoughingMucusandPhlegm';">Coughing Mucus and Phlegm</a></li>
-		<li><a href="/ailment/dry-cracked-nipples-from-breastfeeding.html" title="Cracked Nipples" onclick="s_objectID='dd_CrackedNipples';">Cracked Nipples</a></li>
-		<li><a href="/ailment/natural-treatments-baby-cradle-cap.html" title="Cradle Cap" onclick="s_objectID='dd_CradleCap';">Cradle Cap</a></li>
-		<li><a href="/ailment/natural-treatments-for-crohns.html" title="Crohn's Disease" onclick="s_objectID='dd_Crohns-Disease';">Crohn's Disease</a></li>
-		<li><a href="/ailment/natural-croup-cough-treatments.html" title="Croup" onclick="s_objectID='dd_croup';">Croup</a></li>
-		<li><a href="/ailment/symptoms-of-cystitis-info.html" title="Cystitis" onclick="s_objectID='dd_cystitis';">Cystitis</a></li>
-		<li><a href="/ailment/natural-remedies-for-dandruff-treatment.html" title="Dandruff" onclick="s_objectID='dd_Dandruff';">Dandruff</a></li>
-		<li><a href="/ailment/debility-exhausted-body-weakness.html" title="Debility" onclick="s_objectID='dd_debility';">Debility</a></li>
-		<li><a href="/ailment/rehydration-treatments-for-dehydration-effects.html" title="Dehydration" onclick="s_objectID='dd_Dehydration';">Dehydration</a></li>
-		<li><a href="/ailment/delirium-disorders-info.html" title="Delirium" onclick="s_objectID='dd_delirium';">Delirium</a></li>
-		<li><a href="/ailment/dementia-symptoms-causes-info.html" title="Dementia" onclick="s_objectID='dd_dementia';">Dementia</a></li>
-		<li><a href="/ailment/natural-remedies-for-signs-of-depression.html" title="Depression" onclick="s_objectID='dd_depression';">Depression</a></li>
-		<li><a href="/ailment/natural-treatments-for-dermatitis.html" title="Dermatitis" onclick="s_objectID='dd_Dermatitis';">Dermatitis</a></li>
-		<li><a href="/ailment/natural-body-detox.html" title="Detox" onclick="s_objectID='dd_detox';">Detox</a></li>
-		<li><a href="/ailment/natural-diabetes-medications.html" title="Diabetes" onclick="s_objectID='dd_diabetes';">Diabetes</a></li>
-		<li><a href="/ailment/natural-remedies-for-juvenile-diabetes.html " onclick="s_objectID='dd_diabetonic';">Diabetes (Children)</a></li>
-		<li><a href="/ailment/natural-treatments-for-diarrhea.html" title="Diarrhea" onclick="s_objectID='dd_Diarrhea';">Diarrhea</a></li>
-		<li><a href="/ailment/natural-treatments-for-digestion-problems.html" title="Digestion Problems" onclick="s_objectID='dd_DigestionProblems';">Digestion Problems</a></li>
-		<li><a href="/ailment/natural-diuretics.html" title="Diuretics" onclick="s_objectID='dd_diuretics';">Diuretics</a></li>
-		<li><a href="/ailment/natural-treatments-for-dizziness.html" title="Dizziness" onclick="s_objectID='dd_Dizziness';">Dizziness</a></li>
-		<li><a href="/ailment/natural-treatments-for-diverticulitis.html" title="Diverticulitis" onclick="s_objectID='dd_Diverticulitis';">Diverticulitis</a></li>
-		<li><a href="/ailment/natural-treatments-for-dog-bites.html" title="Dog Bite" onclick="s_objectID='dd_Dog Bite';">Dog Bite</a></li>
-		<li><a href="/ailment/natural-remedies-overindulgence-food-alcohol.html" title="Drinking Too Much" onclick="s_objectID='dd_DrinkingTooMuch';">Drinking Too Much</a></li>
-		<li><a href="/ailment/natural-drug-addiction-treatment.html" title="Drug Addiction" onclick="s_objectID='dd_drug-addiction';">Drug Addiction</a></li>
-		<li><a href="/ailment/natural-drug-detox.html" title="Drug Detox" onclick="s_objectID='dd_drug-detox';">Drug Detox</a></li>
-		<li><a href="/ailment/dry-eye-syndrome-symptoms.html" title="Dry Eye" onclick="s_objectID='dd_dry-eye';">Dry Eye</a></li>
-		<li><a href="/ailment/moisturize-dry-facial-skin.html" title="Dry Facial Skin" onclick="s_objectID='dd_dryFacialSkin';">Dry Facial Skin</a></li>
-		<li><a href="/ailment/natural-treatments-dry-cracked-hands.html" title="Dry Hands" onclick="s_objectID='dd_Dry Hands';">Dry Hands</a></li>
-		<li><a href="/ailment/natural-treatments-for-duodenal-ulcer.html" title="Duodenum ulcer" onclick="s_objectID='dd_Duodenum-ulcer';">Duodenal Ulcer </a></li>
-		<li><a href="/ailment/natural-treatments-for-dyspepsia-symptoms.html" title="Dyspepsia" onclick="s_objectID='dd_Dyspepsia';">Dyspepsia</a></li>
-		<li><a href="/ailment/natural-dyspnea-treatments-for-breathing.html" title="Dyspnea" onclick="s_objectID='dd_Dyspnea';">Dyspnea</a></li>
-		
-		<li><a href="/ailment/dysuria-difficult-painful-urination-treatments.html" title="Dysuria" onclick="s_objectID='dd_disuria';">Dysuria</a></li>
-		<li><a href="/ailment/natural-remedies-for-ear-aches.html" title="Earache" onclick="s_objectID='dd_Earache';">Earache</a></li>
-		<li><a href="/ailment/natural-remedies-for-ear-infections.html" title="Ear Infections" onclick="s_objectID='dd_EarInfections';">Ear Infections</a></li>
-		<li><a href="/ailment/symptoms-of-eating-disorders.html" title="Eating Disorders" onclick="s_objectID='dd_eating-disorders';">Eating Disorders</a></li>
-		<li><a href="/ailment/natural-remedies-overindulgence-food-alcohol.html" title="Eating Too Much" onclick="s_objectID='dd_EatingTooMuch';">Eating Too Much</a></li>
-		<li><a href="/ailment/natural-treatments-for-eczema.html" title="Eczema" onclick="s_objectID='dd_Eczema';">Eczema</a></li>
-		<li><a href="/ailment/nonpitting-and-pitting-edema.html" title="Edema" onclick="s_objectID='dd_edema';">Edema</a></li>
-		<li><a href="/ailment/elbow-joint-pain-and-swelling.html" title="Swelling (Elbow)" onclick="s_objectID='dd_Swelling_Elbow';">Elbow Swelling</a></li>
-		<li><a href="/ailment/natural-treatments-emphysema-breathing-problems.html" title="Emphysema" onclick="s_objectID='dd_Emphysema';">Emphysema</a></li>
-		<li><a href="/ailment/natural-remedies-infant-emotional-development.html" title="Emotional Development in Infants" style="font-size: 11px;" onclick="s_objectID='dd_EmotionalDevelopmentinInfants';">Emotional Development in Infants</a></li>
-		<li><a href="/ailment/coping-through-emotional-pain.html" title="Emotional pain" onclick="s_objectID='dd_emotional-pain';">Emotional pain</a></li>
-		<li><a href="/ailment/natural-treatments-for-endometriosis.html" title="Endometriosis" onclick="s_objectID='dd_Endometriosis';">Endometriosis</a></li>
-		<li><a href="/ailment/how-to-increase-energy-levels.html" title="Energy, Low" onclick="s_objectID='dd_energy-low';">Energy, Low</a></li>
-		<li><a href="/ailment/swollen-enlarged-prostate-symptoms.html" title="Enlarged Prostate" onclick="s_objectID='dd_enlarged-prostate';">Enlarged Prostate</a></li>
-		<li><a href="/ailment/environmental-toxins.html" title="Environmental Toxicity" onclick="s_objectID='dd_environmental-toxicity';">Environmental Toxicity</a></li>
-		<li><a href="/ailment/epilepsy-and-epileptic-seizure-treatments.html" title="Epilepsy" onclick="s_objectID='dd_Epilepsy';">Epilepsy </a></li>
-		<li><a href="/ailment/causes-of-episcleritis-infection.html" title="Episcleritis" onclick="s_objectID='dd_episcleritis';">Episcleritis</a></li>
-		<li><a href="/ailment/perineal-tears-episiotomy-healing.html" title="Episiotomy Healing" onclick="s_objectID='dd_episiotomyHealing';">Episiotomy Healing</a></li>
-		<li><a href="/ailment/overcoming-test-anxiety.html" title="Exam Anxiety" onclick="s_objectID='dd_exam-nerves';">Exam Anxiety</a></li>
-		<li><a href="/ailment/natural-treatments-for-excessive-belching.html" title="Excessive Belching" onclick="s_objectID='dd_Excessive-Belching';">Excessive Belching</a></li>
-		<li><a href="/ailment/natural-remedy-for-excessive-flatulence.html" title="Excessive Flatulence" onclick="s_objectID='dd_Excessive-Flatulence';">Excessive Flatulence</a></li>
-		<li><a href="/ailment/how-to-prevent-excessive-perspiration.html" title="Excessive Perspiration" onclick="s_objectID='dd_ExcessivePerspiration';">Excessive Perspiration</a></li>
-		<li><a href="/ailment/excessive-phlegm-and-mucus-treatment.html" title="Excessive Phlegm" onclick="s_objectID='dd_ExcessivePhlegm';">Excessive Phlegm</a></li>
-		<li><a href="/ailment/natural-stomach-acid-relief.html" title="Excessive Stomach Acid" onclick="s_objectID='dd_Excessive-Stomach-Acid';">Excessive Stomach Acid</a></li>
-		<li><a href="/ailment/how-to-stop-excessive-sweating.html" title="Excessive Sweating" onclick="s_objectID='dd_Excessive-Sweating';">Excessive Sweating</a></li>
-		<li><a href="/ailment/mental-physical-exhaustion-symptoms-info.html" title="Exhaustion" onclick="s_objectID='dd_exhaustion';">Exhaustion</a></li>
-		<li><a href="/ailment/vision-eye-care.html" title="Eye Care" onclick="s_objectID='dd_eye-care';">Eye Care</a></li>
-		<li><a href="/ailment/natural-treatments-for-eye-infections.html" title="Eye Infection" onclick="s_objectID='dd_eye_infection';">Eye Infection</a></li>
-		<li><a href="/ailment/eye-inflammation-symptoms.html" title="Eye Inflammation" onclick="s_objectID='dd_eye-inflammation';">Eye Inflammation</a></li>
-		<li><a href="/ailment/relief-for-dry-irritated-eyes.html" title="Eye Irritation" onclick="s_objectID='dd_eyeIrritation';">Eye Irritation</a></li>
-		<li><a href="/ailment/eye-vision-problems.html" title="Eye Problems" onclick="s_objectID='dd_eye-problems';">Eye Problems</a></li>
-		<li><a href="/ailment/eye-strain-symptoms.html" title="Eye Strain" onclick="s_objectID='dd_eye-strain';">Eye Strain</a></li>
-		<li><a href="/ailment/eye-tics-involuntary-eye-movements.html" title="Eye Tics" onclick="s_objectID='dd_eye-Tics';">Eye Tics</a></li>
-		<li><a href="/ailment/involuntary-chronic-eye-twitching.html" title="Eye Twitching" onclick="s_objectID='dd_eye-Twitching';">Eye Twitching</a></li>
-		<li><a href="/ailment/facial-skin-psoriasis-and-rashes.html" title="Facial Psoriasis" onclick="s_objectID='dd_FacialPsoriasis';">Facial Psoriasis</a></li>
-		<li><a href="/ailment/facial-tics-involuntary-face-movements.html" title="Facial Tics" onclick="s_objectID='dd_FacialTics';">Facial Tics</a></li>
-		<li><a href="/ailment/facial-wrinkles-and-laugh-lines.html" title="Facial Wrinkles" onclick="s_objectID='dd_FacialWrinkles';">Facial Wrinkles</a></li>
-		<li><a href="/ailment/causes-of-fatigue-symptoms.html" title="Fatigue" onclick="s_objectID='dd_fatigue';">Fatigue</a></li>
-		<li><a href="/ailment/natural-remedies-fatigue-during-pregnancy.html" title="Fatigue During Pregnancy" onclick="s_objectID='dd_FatigueDuringPregnancy';">Fatigue During Pregnancy</a></li>
-		<li><a href="/ailment/overcoming-fears-info.html" title="Fear" onclick="s_objectID='dd_fear';">Fear</a></li>
-		<li><a href="/ailment/overcoming-fear-of-flying-info.html" title="Fear of Flying" onclick="s_objectID='dd_fear-of-flying';">Fear of Flying</a></li>
-		<li><a href="/ailment/natural-treatments-fear-of-heights.html" title="Fear of Heights" onclick="s_objectID='dd_fear-of-heights';">Fear of Heights</a></li>
-		<li><a href="/ailment/fear-of-open-spaces-phobia.html" title="Fear of Open Spaces" onclick="s_objectID='dd_fear-of-open-spaces';">Fear of Open Spaces</a></li>
-		<li><a href="/ailment/overcome-fear-of-public-speaking.html" title="Fear of Public Speaking" onclick="s_objectID='dd_fear-of-public-speaking';">Fear of Public Speaking</a></li>
-		<li><a href="/ailment/treatments-female-reproductive-system-disorders.html" title="Fever" onclick="s_objectID='dd_Female_Reproductive_Disorders';">Female Reproductive Disorders</a></li>
-		<li><a href="/ailment/natural-ways-to-increase-fertility.html" title="Fertility" onclick="s_objectID='dd_fertility';">Fertility</a></li>
-		<li><a href="/ailment/remedies-for-fever-treatment.html" title="Fever" onclick="s_objectID='dd_fever';">Fever</a></li>
-        <li><a href="/ailment/natural-treatments-fibrocystic-breast-disease.html" title="Fibrocystic Breast Disease" onclick="s_objectID='dd_FibrocysticBreastDisease';">Fibrocystic Breast Disease</a></li>
-        <li><a href="/ailment/fibromyalgia-pain-relief-treatment.html" title="Fibromyalgia" onclick="s_objectID='dd_fibromyalgia';">Fibromyalgia</a></li>
-        <li><a href="/ailment/natural-remedies-first-trimester-pregnancy.html" title="First Trimester" onclick="s_objectID='dd_FirstTrimester';">First Trimester</a></li>
-		<li><a href="/ailment/natural-treatments-dry-flaky-skin.html" title="Flaky Skin" onclick="s_objectID='dd_Flaky Skin';">Flaky Skin</a></li>
-		<li><a href="/ailment/eye-floaters-causes.html" title="Floaters" onclick="s_objectID='dd_floaters';">Floaters</a></li>
-		<li><a href="/ailment/symptoms-of-the-flu-virus.html" title="Flu" onclick="s_objectID='dd_flu';">Flu</a></li>
-		<li><a href="/ailment/natural-flu-vaccine-influenza-vaccination.html" title="Flu Vaccine" onclick="s_objectID='dd_flu vaccine';">Flu Vaccine</a></li>
-		<li><a href="/ailment/stop-sweet-salty-food-cravings.html" title="Food Cravings" onclick="s_objectID='dd_Food Cravings';">Food Cravings</a></li>
-	    <li><a href="/ailment/natural-remedies-for-foot-odor.html" title="Foot Odor" onclick="s_objectID='dd_Foot Odor';">Foot Odor</a></li>
-		<li><a href="/ailment/remedies-for-foul-smelling-stool.html" title="Foul Smelling Stool" onclick="s_objectID='dd_Foul-Smelling-Stool';">Foul Smelling Stool</a></li>
-		<li><a href="/ailment/free-radical-damage-and-aging.html" title="Free Radical Damage" onclick="s_objectID='dd_FreeRadicalDamage';">Free Radical Damage</a></li>
-		<li><a href="/ailment/frigidity-lack-of-sexual-desire-info.html" title="Frigidity" onclick="s_objectID='dd_frigidity';">Frigidity</a></li>
-		<li><a href="/ailment/frigidity-lack-of-sexual-desire-info.html" title="Frigidity Female" onclick="s_objectID='dd_frigidity_female';">Frigidity, Female</a></li>
-		<li><a href="/ailment/increase-male-sex-drive.html" title="Frigidity Male" onclick="s_objectID='dd_frigidity_male';">Frigidity, Male</a></li>
-		<li><a href="/ailment/dealing-with-frustration-and-discouragement.html" title="Frustration" onclick="s_objectID='dd_Frustration';">Frustration</a></li>
-		<li><a href="/ailment/treatments-for-skin-fungal-infections.html" title="Fungal Infection" onclick="s_objectID='dd_fungal infection';">Fungal Infection</a></li>
-		<li><a href="/ailment/natural-treatments-for-gallbladder-diseases.html" title="Gallbladder Disease" onclick="s_objectID='dd_Gallbladder-Disease';">Gallbladder Disease</a></li>
-		<li><a href="/ailment/natural-treatments-for-gallstones.html" title="Gallstones" onclick="s_objectID='dd_Gallstones';">Gallstones</a></li>
-		<li><a href="/ailment/how-to-relieve-gastric-reflux.html" title="Gastric Reflux" onclick="s_objectID='dd_Gastric-Reflux';">Gastric Reflux</a></li>
-		<li><a href="/ailment/natural-prevention-of-gastric-ulcers.html" title="Gastric Ulcers" onclick="s_objectID='dd_Gastric-Ulcers';">Gastric Ulcers</a></li>
-		<li><a href="/ailment/natural-treatments-for-gastritis.html" title="Gastritis" onclick="s_objectID='dd_Gastritis';">Gastritis</a></li>
-		<li><a href="/ailment/natural-gastroesophageal-reflux-disease-treatment.html" title="Gastroesophageal Reflux Disease" onclick="s_objectID='dd_Gastroesophageal-Reflux-Disease';">Gastroesophageal Reflux Disease</a></li>
-		<li><a href="/ailment/natural-treatments-for-gastrointestinal-tract-problems.html" title="Gastrointestinal Problems" onclick="s_objectID='dd_Gastrointestinal-Problems';">Gastrointestinal Problems</a></li>
-		<li><a href="/ailment/gad-generalized-anxiety-disorder-info.html" title="Generalized Anxiety Disorder" onclick="s_objectID='dd_generalized-anxiety-disorder';">Generalized Anxiety Disorder</a></li>
-		<li><a href="/ailment/increase-chances-of-conception.html" title="Getting Pregnant" onclick="s_objectID='dd_GettingPregnant';">Getting Pregnant</a></li>
-		<li><a href="/ailment/gingivitis-and-gum-disease-treatments.html" title="Gingivitis" onclick="s_objectID='dd_Gingivitis';">Gingivitis</a></li>
-		<li><a href="/ailment/glandular-fever-symptoms-info.html" title="Glandular Fever" onclick="s_objectID='dd_glandular-fever';">Glandular Fever</a></li>
-		<li><a href="/ailment/glaucoma-symptoms.html" title="Glaucoma" onclick="s_objectID='dd_glaucoma';">Glaucoma</a></li>
-		<li><a href="/ailment/overcome-glossophobia-speech-anxiety.html" title="Glossophobia" onclick="s_objectID='dd_glossophobia';">Glossophobia</a></li>
-		<li><a href="/ailment/treatment-for-goiter-symptoms.html" title="Goiter" onclick="s_objectID='dd_goiter';">Goiter</a></li>
-        <li><a href="/ailment/natural-treatments-for-gout.html" title="Gout" onclick="s_objectID='dd_Gout';">Gout</a></li>
-		<li><a href="/ailment/gravel-kidney-stones-treatment.html" title="Gravel" onclick="s_objectID='dd_gravel';">Gravel</a></li>
-		<li><a href="/ailment/graves-disease-symptoms-info.html" title="Graves' Disease" onclick="s_objectID='dd_graves-disease';">Graves' Disease</a></li>
-		<li><a href="/ailment/natural-gum-disease-treatments.html" title="Gum Disease" onclick="s_objectID='dd_gumn disease';">Gum Disease</a></li>
-		<li><a href="/ailment/natural-hangover-remedies.html" title="Hangover" onclick="s_objectID='dd_hangover';">Hangover</a></li>
-		<li><a href="/ailment/natural-hair-care-products.html" title="Hair Care" onclick="s_objectID='dd_Hair Care';">Hair Care</a></li>
-		<li><a href="/ailment/natural-hair-growth-treatments.html" title="Hair Growth" onclick="s_objectID='dd_Hair Growth';">Hair Growth</a></li>
-		<li><a href="/ailment/natural-products-hair-loss-treatments.html" title="Hair Loss" onclick="s_objectID='dd_Hair Loss';">Hair Loss</a></li>
-		<li><a href="/ailment/natural-remedies-for-halitosis.html" title="Halitosis" onclick="s_objectID='dd_Halitosis';">Halitosis</a></li>
-		<li><a href="/ailment/symptoms-of-hashimotos-thyroiditis.html" title="Hashimoto's Thyroiditis" onclick="s_objectID='dd_hashimotos-thyroiditis';">Hashimoto's Thyroiditis</a></li>
-		<li><a href="/ailment/natural-remedies-for-hay-fever.html" title="Hay Fever" onclick="s_objectID='dd_hay_fever';">Hay Fever</a></li>
-		<li><a href="/ailment/natural-treatments-for-headaches.html" title="Headaches" onclick="s_objectID='dd_Headaches';">Headaches</a></li>
-		<li><a href="/ailment/excessive-head-and-facial-sweating.html" title="Head Sweating" onclick="s_objectID='dd_Head-Sweating';">Head Sweating</a></li>
-		<li><a href="/ailment/perineal-tears-episiotomy-healing.html" title="Healing After Episiotomy" onclick="s_objectID='dd_HealingAfterEpisiotomy';">Healing After Episiotomy</a></li>
-		<li><a href="/ailment/natural-remedies-for-heartburn.html" title="Heartburn" onclick="s_objectID='dd_Heartburn';">Heartburn</a></li>
-		<li><a href="/ailment/natural-treatments-for-head-lice.html" title="Head Lice" onclick="s_objectID='dd_headLice';">Head Lice</a></li>
-		<li><a href="/ailment/natural-healthy-skin-care-treatments.html" title="Healthy Skin" onclick="s_objectID='dd_Healthy-Skin';">Healthy Skin</a></li>
-		<li><a href="/ailment/heart-disease-symptoms.html" title="Heart Disease" onclick="s_objectID='dd_heart-disease';">Heart Disease</a></li>
-		<li><a href="/ailment/natural-treatments-heavy-menstrual-periods.html" title="Heavy Menstrual Period" onclick="s_objectID='dd_Heavy_Menstrual_Period';">Heavy Menstrual Periods</a></li>
-		<li><a href="/ailment/external-internal-hemorrhoids-symptoms.html" title="Hemorrhoids" onclick="s_objectID='dd_hemorrhoids';">Hemorrhoids</a></li>
-		<li><a href="/ailment/hepatitis-and-chronic-liver-inflammation.html" title="Hepatitis" onclick="s_objectID='dd_Hepatitis';">Hepatitis</a></li>
-		<li><a href="/ailment/genital-herpes-and-oral-herpes-info.html" title="Herpes" onclick="s_objectID='dd_herpes';">Herpes</a></li>
-		<li><a href="/ailment/hiatal-hernia-pain-relief-treatments.html" title="Hiatal Hernia" onclick="s_objectID='dd_Hiatal-Hernia';">Hiatal Hernia</a></li>
-		<li><a href="/ailment/high-blood-pressure-symptoms.html" title="High Blood Pressure" onclick="s_objectID='dd_high-blood-pressure';">High Blood Pressure</a></li>
-		<li><a href="/ailment/causes-of-high-cholesterol.html" title="High Cholesterol" onclick="s_objectID='dd_high-cholesterol';">High Cholesterol</a></li>
-		<li><a href="/ailment/symptoms-of-hormone-imbalance.html" title="Hormonal_Problems" onclick="s_objectID='dd_Hormonal_Problems';">Hormonal  Problems</a></li>
-		<li><a href="/ailment/natural-remedies-for-hot-flashes.html" title="Hot Flashes" onclick="s_objectID='dd_Hot_Flashes';">Hot Flashes</a></li>
-		<li><a href="/ailment/hyperactivity-natural-supplements-info.html" title="Hyperactivity" onclick="s_objectID='dd_hyperactivity';">Hyperactivity</a></li>
-		<li><a href="/ailment/primary-and-secondary-hyperhidrosis-treatments.html" title="Hyperhidrosis" onclick="s_objectID='dd_Hyperhidrosis';">Hyperhidrosis</a></li>
-		<li><a href="/ailment/hypertension-symptoms.html" title="Hypertension" onclick="s_objectID='dd_hypertension';">Hypertension</a></li>
-		<li><a href="/ailment/hyperthyroidism-symptoms-and-natural-remedies.html" title="Hyperthyroidism" onclick="s_objectID='dd_hyperthyroidism';">Hyperthyroidism</a></li>
-		<li><a href="/ailment/hypochondriasis-treatment-info.html" title="Hypochondriasis" onclick="s_objectID='dd_hypochondriasis';">Hypochondriasis</a></li>
-		<li><a href="/ailment/symptoms-of-hypoglycemia.html" title="Hypoglycemia" onclick="s_objectID='dd_hypoglycemia';">Hypoglycemia</a></li>
-
-		<li><a href="/ailment/hypothyroidism-symptoms-and-natural-treatments.html" title="Hypothyroidism" onclick="s_objectID='dd_Hypothyroidism';">Hypothyroidism</a></li>
-		<li><a href="/ailment/hysteria-disorder-info.html" title="Hysteria" onclick="s_objectID='dd_hysteria';">Hysteria</a></li>
-		<li><a href="/ailment/natural-treatments-scaly-skin-ichthyosis.html" title="Ichthyosis" onclick="s_objectID='dd_Ichthyosis';">Ichthyosis</a></li>
-		<li><a href="/ailment/natural-remedies-infant-emotional-development.html" title="Infant Emotional Development" onclick="s_objectID='dd_InfantEmotionalDevelopment';">Infant Emotional Development</a></li>
-		<li><a href="/ailment/immune-deficiency-treatment-info.html" title="Immune Deficiency" onclick="s_objectID='dd_immune-deficiency';">Immune Deficiency</a></li>
-		<li><a href="/ailment/the-immune-system-and-immune-disorders.html" title="Immune System" onclick="s_objectID='dd_immune-system';">Immune System</a></li>
-		<li><a href="/ailment/immune-system-boosters-info.html" title="Immune System Booster" onclick="s_objectID='dd_immune-system-booster';">Immune System Booster</a></li>
-		<li><a href="/ailment/immune-system-support-info.html" title="Immune System Support" onclick="s_objectID='dd_immune-system-support';">Immune System Support</a></li>
-		<li><a href="/ailment/adulthood-and-childhood-immunizations.html" title="Immunization" onclick="s_objectID='dd_immunization';">Immunization</a></li>
-        <li><a href="/ailment/natural-treatments-for-impetigo.html" title="Impetigo" onclick="s_objectID='dd_Impetigo';">Impetigo</a></li>
-		<li><a href="/ailment/impotence-erectile-dysfunction.html" title="Impotence " onclick="s_objectID='dd_Impotence';">Impotence</a></li>
-		<li><a href="/ailment/fecal-and-urinary-incontinence-treatments.html" title="Incontinence" onclick="s_objectID='dd_incontinence';">Incontinence</a></li>
-		<li><a href="/ailment/natural-treatments-for-indigestion.html" title="Indigestion" onclick="s_objectID='dd_Indigestion';">Indigestion</a></li>
-		<li><a href="/ailment/natural-ways-to-induce-labor.html" title="Induce Labor" onclick="s_objectID='dd_InduceLabor';">Induce Labor</a></li>
-		<li><a href="/ailment/natural-remedies-to-reduce-inflammation.html" title="Inflammation" onclick="s_objectID='dd_Inflammation';">Inflammation</a></li>
-		<li><a href="/ailment/natural-treatments-for-inflammatory-bowel-disease.html" title="Inflammatory Bowel Disease" onclick="s_objectID='dd_Inflammatory-Bowel-Disease';">Inflammatory Bowel Disease</a></li>
-		<li><a href="/ailment/bacterial-infections-and-fungal-infections-info.html" title="Infection" onclick="s_objectID='dd_infection';">Infection</a></li>
-		<li><a href="/ailment/bacterial-infections-and-fungal-infections-info.html" title="Infection (Ear)" onclick="s_objectID='dd_infectionEar';">Infection (Ear)</a></li>
-		<li><a href="/ailment/how-to-get-pregnant.html" title="Infertility, Female" onclick="s_objectID='dd_Infertility_Female';">Infertility, Female </a></li>
-		<li><a href="/ailment/natural-male-infertility-treatment.html" title="Infertility, Male" onclick="s_objectID='dd_Infertility_Male';">Infertility, Male </a></li>
-		<li><a href="/ailment/symptoms-of-influenza-virus.html" title="Influenza" onclick="s_objectID='dd_influenza';">Influenza</a></li>
-		<li><a href="/ailment/natural-treatments-for-injuries.html" title="Injuries" onclick="s_objectID='dd_Injuries';">Injuries</a></li>
-		<li><a href="/ailment/natural-treatments-for-insect-bites.html" title="Insect Bites" onclick="s_objectID='dd_Insect Bites';">Insect Bites</a></li>
-		<li><a href="/ailment/treatments-insect-bite-sting-allergies.html" title="Insect Bite and Sting Allergies" onclick="s_objectID='dd_Insect_Allergies';">Insect Bite and Sting Allergies</a></li>
-		<li><a href="/ailment/adult-child-natural-insomnia-treatments.html" title="Insomnia" onclick="s_objectID='dd_Insomnia';">Insomnia</a></li>
-		<li><a href="/ailment/insulin-resistance-and-high-glucose.html" title="Insulin Resistance" onclick="s_objectID='dd_InsulinResistance';">Insulin Resistance</a></li>
-		<li><a href="/ailment/natural-relief-of-intestinal-gas.html" title="Intestinal Gas" onclick="s_objectID='dd_Intestinal-Gas';">Intestinal Gas</a></li>
-		<li><a href="/ailment/natural-treatments-for-intestinal-problems.html" title="Intestinal Problems" onclick="s_objectID='dd_Intestinal-Problems';">Intestinal Problems</a></li>
-		<li><a href="/ailment/treating-human-intestinal-parasites-worms.html" title="Intestinal Worms" onclick="s_objectID='dd_Intestinal-Worms';">Intestinal Worms</a></li>
-		<li><a href="/ailment/natural-treatments-for-iron-deficiency.html" title="Iron deficiency" onclick="s_objectID='dd_Iron-deficiency';">Iron deficiency</a></li>
-		<li><a href="/ailment/calm-irritable-and-petulant-moods.html" title="Irritability" onclick="s_objectID='dd_Irritability';">Irritability</a></li>
-		<li><a href="/ailment/natural-treatments-for-irritable-bowel-syndrome.html" title="Irritable Bowel Syndrome" onclick="s_objectID='dd_Irritable-Bowel-Syndrome';">Irritable Bowel Syndrome</a></li>
-		<li><a href="/ailment/treatments-for-dry-itchy-eyes.html" title="Itchy Eyes" onclick="s_objectID='dd_Itchy-Eyes';">Itchy Eyes</a></li>
-		<li><a href="/ailment/natural-treatments-for-jaundice.html" title="Jaundice" onclick="s_objectID='dd_Jaundice';">Jaundice</a></li>
-		<li><a href="/ailment/jaw-tension-tmj-symptoms-info.html" title="Jaw Tension" onclick="s_objectID='dd_jaw-tension';">Jaw Tension</a></li>
-		<li><a href="/ailment/natural-treatments-for-jock-itch.html" title="Jock Itch" onclick="s_objectID='dd_Jock Itch';">Jock Itch</a></li>
-		<li><a href="/ailment/natural-joint-pain-relief.html" title="Joint Pain" onclick="s_objectID='dd_joint-pain';">Joint Pain</a></li>
-		<li><a href="/ailment/natural-remedies-for-juvenile-diabetes.html" title="Juvenile Diabetes" onclick="s_objectID='dd_Juvenile Diabetes';">Juvenile Diabetes</a></li>
-		<li><a href="/ailment/natural-treatments-for-kidney-diseases.html" title="Kidney Disease" onclick="s_objectID='dd_Kidney-Disease';">Kidney Disease</a></li>
-		<li><a href="/ailment/knee-pain-and-swelling-treatments.html" title="Swelling (Knee)" onclick="s_objectID='dd_Swelling_Knee';">Knee Swelling</a></li>
-		<li><a href="/ailment/stimulate-labor-contractions.html" title="Labor Contractions" onclick="s_objectID='dd_laborContractions';">Labor Contractions</a></li>
-		<li><a href="/ailment/natural-ways-to-induce-labor.html" title="Labor Induction" onclick="s_objectID='dd_LaborInduction';">Labor Induction</a></li>
-		<li><a href="/ailment/massage-techniques-to-induce-labor.html" title="Labor Massage" onclick="s_objectID='dd_laborMassage';">Labor Massage</a></li>
-		<li><a href="/ailment/signs-symptoms-stages-labor.html" title="Labor - Signs Symptoms and Stages" onclick="s_objectID='dd_laborSignsSymptomsAndStages';">Labor - Signs Symptoms and Stages</a></li>
-		<li><a href="/ailment/laryngitis-treatment-info.html" title="Laryngitis" onclick="s_objectID='dd_laryngitis';">Laryngitis</a></li>
-		<li><a href="/ailment/learning-disabilities-solutions-info.html" title="Learning Disorders" onclick="s_objectID='dd_learning-disorders';">Learning Disorders</a></li>
-		<li><a href="/ailment/causes-of-leg-cramps.html" title="Leg Cramps" onclick="s_objectID='dd_LegCramps';">Leg Cramps</a></li>
-		<li><a href="/ailment/natural-leg-ulcer-treatment.html" title="Leg Ulcer" onclick="s_objectID='dd_leg-ulcer';">Leg Ulcer</a></li>
-		<li><a href="/ailment/natural-treatments-for-head-lice.html" title="Lice" onclick="s_objectID='dd_Lice';">Lice</a></li>
-		<li><a href="/ailment/natural-treatments-for-liver-diseases.html" title="Liver Diseases" onclick="s_objectID='dd_Liver-Diseases';">Liver Diseases</a></li>
-		<li><a href="/ailment/causes-of-low-libido.html" title="Low Libido" onclick="s_objectID='dd_Low_Libido';">Low Libido</a></li>
-		<li><a href="/ailment/low-moods-and-feeling-down.html" title="Low Mood" onclick="s_objectID='dd_Low_Mood';">Low Mood</a></li>
-		<li><a href="/ailment/causes-of-low-sex-drive.html" title="Low Sex Drive" onclick="s_objectID='dd_Low_Sex_Drive';">Low Sex Drive</a></li>
-		<li><a href="/ailment/natural-treatments-for-lower-back-pain.html" title="Lower Back Pain" onclick="s_objectID='dd_Lower_Back_Pain';">Lower Back Pain</a></li>
-		<li><a href="/ailment/natural-treatments-for-lyme-disease.html" title="Lyme Disease" onclick="s_objectID='dd_Lyme-Disease';">Lyme Disease</a></li>
-		<li><a href="/ailment/age-related-macular-degeneration.html" title="Macular Degeneration" onclick="s_objectID='dd_macular-degeneration';">Macular Degeneration</a></li>
-		<li><a href="/ailment/male-genital-development-puberty.html" title="Male Genital Dev." onclick="s_objectID='dd_Male_Genital_Dev. ';">Male Genital Dev.</a></li>
-		<li><a href="/ailment/manic-depression-symptoms-info.html" title="Manic Depression " onclick="s_objectID='dd_manic-depression';">Manic Depression </a></li>
-		<li><a href="/ailment/natural-treatments-bipolar-manic-episodes.html" title="Manic Episodes " onclick="s_objectID='dd_manic-episodes';">Manic Episodes </a></li>
-		<li><a href="/ailment/newborn-baby-massage.html" title="Massage for Babies" onclick="s_objectID='dd_massageForBabies';">Massage for Babies</a></li>
-		<li><a href="/ailment/massage-techniques-to-induce-labor.html" title="Massage During Labor" onclick="s_objectID='dd_massageDuringLabor';">Massage During Labor</a></li>
-		<li><a href="/ailment/natural-treatments-for-measles-symptoms.html" title="Measles" onclick="s_objectID='dd_measles';">Measles</a></li>
-		<li><a href="/ailment/improve-memory-skills-info.html" title="Memory Problems" onclick="s_objectID='dd_memory-problems';">Memory Problems</a></li>
-		<li><a href="/ailment/natural-treatments-for-menieres-disease.html" title="Meniere's Disease" onclick="s_objectID='dd_MenieresDisease';">Meniere's Disease</a></li>
-		<li><a href="/ailment/natural-remedies-for-menopause.html" title="Menopause" onclick="s_objectID='dd_Menopause';">Menopause</a></li>
-		<li><a href="/ailment/natural-treatments-for-menorrhagia.html" title="Menorrhagia" onclick="s_objectID='dd_Menorrhagia';">Menorrhagia</a></li>
-		<li><a href="/ailment/natural-treatments-for-menstrual-cramps.html" title="Menstrual Cramps" onclick="s_objectID='dd_Menstrual_Cramps';">Menstrual Cramps</a></li>
-		<li><a href="/ailment/natural-remedies-for-menstruation-problems.html" title="Menstruation" onclick="s_objectID='dd_Menstruation';">Menstruation</a></li>
-		<li><a href="/ailment/natural-metabolism-boosters.html" title="Metabolism" onclick="s_objectID='dd_metabolism';">Metabolism</a></li>
-		<li><a href="/ailment/treatments-for-migraine-headache-relief.html" title="Migraines" onclick="s_objectID='dd_Migraines';">Migraines</a></li>
-		<li><a href="/ailment/treatments-for-itchy-mite-bites.html" title="Mites" onclick="s_objectID='dd_Mites';">Mites</a></li>
-		<li><a href="/ailment/symptoms-of-mononucleosis.html" title="Mono" onclick="s_objectID='dd_mono';">Mono</a></li>
-		<li><a href="/ailment/violent-mood-swings-info.html" title="Mood Swings" onclick="s_objectID='dd_mood-swings';">Mood Swings</a></li>
-		<li><a href="/ailment/natural-remedies-morning-sickness-relief.html" title="Morning Sickness" onclick="s_objectID='dd_morningSickness';">Morning Sickness</a></li>
-		<li><a href="/ailment/natural-remedies-advice-new-moms.html" title="Motherhood Adjustment" onclick="s_objectID='dd_MotherhoodAdjustment';">Motherhood Adjustment</a></li>
-		<li><a href="/ailment/natural-treatments-for-motion-sickness.html" title="Motion Sickness" onclick="s_objectID='dd_Motion-Sickness';">Motion Sickness</a></li>
-		<li><a href="/ailment/motor-tics-involuntary-body-movements.html" title="Motor Tics" onclick="s_objectID='dd_Motor-Tics';">Motor Tics</a></li>
-		<li><a href="/ailment/natural-multiple-sclerosis-treatments.html" title="Multiple Sclerosis" onclick="s_objectID='dd_Multiple Sclerosis';">Multiple Sclerosis</a></li>
-		<li><a href="/ailment/what-causes-muscle-cramps.html" title="Muscle Crams" onclick="s_objectID='dd_Muscle Cramps';">Muscle Cramps</a></li>
-		<li><a href="/ailment/natural-treatments-for-mumps-symptoms.html" title="Mumps" onclick="s_objectID='dd_mumps';">Mumps</a></li>
-		<li><a href="/ailment/natural-treatments-muscle-pain-relief.html" title="Muscle Pain" onclick="s_objectID='dd_Muscle_Pain';">Muscle Pain</a></li>
-		<li><a href="/ailment/natural-treatments-for-muscle-soreness.html" title="Muscle Soreness" onclick="s_objectID='dd_Muscle_Soreness';">Muscle Soreness</a></li>
-		<li><a href="/ailment/muscle-spasms-and-twitches.html" title="Muscle Spasms" onclick="s_objectID='dd_Muscle_Spasms';">Muscle Spasms</a></li>
-		<li><a href="/ailment/natural-treatments-for-muscle-strains.html" title="Muscle Strains" onclick="s_objectID='dd_Muscle_Strains';">Muscle Strains</a></li>
-		<li><a href="/ailment/involuntary-muscle-twitches-fasciculations.html" title="Muscle Twitching" onclick="s_objectID='dd_Muscle_Twitching';">Muscle Twitching</a></li>
-		<li><a href="/ailment/natural-medication-for-narcolepsy-treatment.html" title="Narcolepsy" onclick="s_objectID='dd_Narcolepsy';">Narcolepsy</a></li>
-		<li><a href="/ailment/natural-treatments-for-nail-fungus.html" title="Narcolepsy" onclick="s_objectID='dd_Narcolepsy';">Nail Fungus</a></li>
-		<li><a href="/ailment/natural-childbirth-pain-relief.html" title="Natural Childbirth" onclick="s_objectID='dd_NaturalChildbirth';">Natural Childbirth</a></li>
-		<li><a href="/ailment/natural-remedies-for-nasal-congestion.html" title="Nasal Congestion" onclick="s_objectID='dd_nasal_congestion';">Nasal Congestion</a></li>
-		<li><a href="/ailment/natural-treatments-for-nausea.html" title="Nausea" onclick="s_objectID='dd_Nausea';">Nausea</a></li>
-		<li><a href="/ailment/natural-remedies-morning-sickness-relief.html" title="Nausea (Morning)" onclick="s_objectID='dd_Nausea(Morning)';">Nausea (Morning)</a></li>
-		<li><a href="/ailment/nephritis-kidney-inflammation-info.html" title="Nephritis" onclick="s_objectID='dd_nephritis';">Nephritis</a></li>
-		<li><a href="/ailment/symptoms-of-a-nervous-breakdown-info.html" title="Nervous Breakdown" onclick="s_objectID='dd_nervous-breakdown';">Nervous Breakdown</a></li>
-		<li><a href="/ailment/nervous-system-functions.html" title="Nervous System" onclick="s_objectID='dd_nervous_system';">Nervous System</a></li>
-		<li><a href="/ailment/nervous-tic-disorders.html" title="Nervous Tics" onclick="s_objectID='dd_nervousTics';">Nervous Tics</a></li>
-		<li><a href="/ailment/signs-of-nervousness-info.html" title="Nervousness" onclick="s_objectID='dd_nervousness';">Nervousness</a></li>
-		<li><a href="/ailment/natural-neuralgia-treatments.html" title="Neuralgia" onclick="s_objectID='dd_neuralgia';">Neuralgia</a></li>
-		<li><a href="/ailment/peripheral-nerves-neuritis-treatments.html" title="Neuritis" onclick="s_objectID='dd_neuritis';">Neuritis</a></li>
-		<li><a href="/ailment/natural-treatments-for-nicotine-addiction.html" title="Nicotine Addiction" onclick="s_objectID='dd_Nicotine_Addiction';">Nicotine Addiction </a></li>
-		<li><a href="/ailment/nightmares-and-night-terrors-info.html" title="Night Terrors" onclick="s_objectID='dd_night-terrors';">Night Terrors</a></li>
-		<li><a href="/ailment/stopping-nightmares-and-scary-dreams.html" title="Nightmares" onclick="s_objectID='dd_Nightmares';">Nightmares </a></li>
-		<li><a href="/ailment/natural-treatments-for-nits.html" title="Nits" onclick="s_objectID='dd_Nits';">Nits</a></li>
-		<li><a href="/ailment/natural-treatments-for-sore-nipples.html" title="Nipple Soreness" onclick="s_objectID='dd_NippleSoreness';">Nipple Soreness</a></li>
-		<li><a href="/ailment/norwegian-scabies-crusted-skin-treatments.html" title="Norwegian Scabies" onclick="s_objectID='dd_Norwegian Scabies';">Norwegian Scabies</a></li>
-		<li><a href="/ailment/numbness-in-body.html" title="Numbness" onclick="s_objectID='dd_numbness';">Numbness</a></li>
-		<li><a href="/ailment/causes-of-obesity.html" title="Obesity" onclick="s_objectID='dd_obesity';">Obesity</a></li>
-		<li><a href="/ailment/ocd-in-children-info.html" title="Obsessive Compulsive Disorder, Children" onclick="s_objectID='dd_obsessive-compulsive-disorder-children';">Obsessive Compulsive Disorder, Children</a></li>
-		<li><a href="/ailment/natural-treatments-for-osteoarthritis.html" title="Osteoarthritis" onclick="s_objectID='dd_Osteoarthritis';">Osteoarthritis</a></li>
-		<li><a href="/ailment/natural-treatments-for-osteoporosis.html" title="Osteoporosis" onclick="s_objectID='dd_Osteoporosis';">Osteoporosis</a></li>
-		<li><a href="/ailment/natural-treatments-for-ovarian-cysts.html" title="Ovarian Cysts" onclick="s_objectID='dd_Ovarian_Cysts';">Ovarian Cysts</a></li>
-		<li><a href="/ailment/natural-treatments-overactivity-in-children.html" title="Overactivity in Children" onclick="s_objectID='dd_OveractivityinChildren';">Overactivity in Children</a></li>
-		<li><a href="/ailment/natural-remedies-overindulgence-food-alcohol.html" title="Overeating" onclick="s_objectID='dd_Overeating';">Overeating</a></li>
-		<li><a href="/ailment/natural-remedies-overindulgence-food-alcohol.html" title="Overindulgence" onclick="s_objectID='dd_Overindulgence';">Overindulgence</a></li>
-		<li><a href="/ailment/natural-overweight-treatment.html" title="Overweight" onclick="s_objectID='dd_overweight';">Overweight</a></li>
-		<li><a href="/ailment/natural-treatments-for-pain-relief.html" title="Pain Relief" onclick="s_objectID='dd_Pain_Relief';">Pain Relief</a></li>
-		<li><a href="/ailment/dysuria-difficult-painful-urination-treatments.html" title="Painful Urination" onclick="s_objectID='dd_painful urination';">Painful Urination</a></li>
-		<li><a href="/ailment/symptoms-of-pancreas-problems.html" title="Pancreas" onclick="s_objectID='dd_pancreas';">Pancreas</a></li>
-		<li><a href="/ailment/symptoms-of-panic-attacks.html" title="Panic Attack" onclick="s_objectID='dd_panic-attack';">Panic Attack</a></li>
-		<li><a href="/ailment/treating-panic-disorders.html" title="Panic Disorder" onclick="s_objectID='dd_panic-disorder';">Panic Disorder</a></li>
-		<li><a href="/ailment/numbness-in-body.html" title="Paraesthesia" onclick="s_objectID='dd_Paraesthesia';">Paraesthesia</a></li>
-		<li><a href="/ailment/parkinsons-disease-info.html" title="Parkinson's Disease" onclick="s_objectID='dd_parkinsons-disease';">Parkinson's Disease</a></li>
-		<li><a href="/ailment/overcome-passive-aggressive-behaviors.html" title="Passive Aggressive Behavior" onclick="s_objectID='dd_PassiveAggressiveBehavior';">Passive Aggressive Behavior</a></li>
-		<li><a href="/ailment/periodic-limb-movement-disorder-treatments.html" title="Periodic Limb Movement Disorder (PLM)" onclick="s_objectID='dd_Periodic_Limb Movement_Disorder_(PLM)';">Periodic Limb Movement Disorder (PLM)</a></li>
-		<li><a href="/ailment/natural-treatments-for-peptic-ulcers.html" title="Peptic Ulcer" onclick="s_objectID='dd_Peptic-Ulcer';">Peptic Ulcer</a></li>
-		<li><a href="/ailment/treatments-for-periodontal-gum-diseases.html" title="Periodontal Disease" onclick="s_objectID='dd_PeriodontalDisease';">Periodontal Disease</a></li>
-		<li><a href="/ailment/viral-pharyngitis-and-bacterial-pharyngitis.html" title="Pharyngitis" onclick="s_objectID='dd_pharyngitis';">Pharyngitis</a></li>
-		<li><a href="/ailment/overcoming-phobias-info.html" title="Phobias" onclick="s_objectID='dd_phobias';">Phobias</a></li>
-		<li><a href="/ailment/pink-eye-symptoms.html" title="Pink Eye" onclick="s_objectID='dd_pink-eye';">Pink Eye</a></li>
-		<li><a href="/ailment/natural-treatments-for-pinworms.html" title="Pinworms" onclick="s_objectID='dd_Pinworms';">Pinworms</a></li>
-		<li><a href="/ailment/natural-treatments-for-pimples.html" title="Pimples" onclick="s_objectID='dd_Pimples';">Pimples</a></li>
-		<li><a href="/ailment/natural-treatments-for-pneumonia.html" title="Pneumonia" onclick="s_objectID='dd_Pneumonia';">Pneumonia</a></li>
-		<li><a href="/ailment/natural-treatments-polycystic-ovarian-syndrome.html" title="Polycystic Ovarian Syndrome" onclick="s_objectID='dd_Polycystic_Ovarian_Syndrome';">Polycystic Ovarian Syndrome</a></li>
-		<li><a href="/ailment/increase-appetite-in-children.html" title="Poor Appetite" onclick="s_objectID='dd_poor-appetite';">Poor Appetite</a></li>
-		<li><a href="/ailment/treatments-for-post-nasal-drip.html" title="Post Nasal Drip" onclick="s_objectID='dd_PostNasalDrip';">Post Nasal Drip</a></li>
-		<li><a href="/ailment/post-traumatic-stress-disorder-info.html" title="Post Traumatic Stress Disorder" onclick="s_objectID='dd_post-traumatic-stress-disorder';">Post Traumatic Stress Disorder</a></li>
-		<li><a href="/ailment/natural-treatments-postpartum-care-recovery.html" title="Postpartum Care &amp; Recovery" onclick="s_objectID='dd_postpartumCareAndRecovery';">Postpartum Care &amp; Recovery</a></li>
-		<li><a href="/ailment/post-natal-postpartum-depression-info.html" title="Postpartum Depression" onclick="s_objectID='dd_postpartum-depression';">Postpartum Depression</a></li>
-		<li><a href="/ailment/natural-remedies-trimesters-of-pregnancy.html" title="Pregnancy" onclick="s_objectID='dd_Pregnancy';">Pregnancy</a></li>
-		<li><a href="/ailment/natural-remedies-fatigue-during-pregnancy.html" title="Pregnancy Fatigue" onclick="s_objectID='dd_PregnancyFatigue';">Pregnancy Fatigue</a></li>
-		<li><a href="/ailment/common-pregnancy-problems.html" title="Pregnancy Problems" onclick="s_objectID='dd_PregnancyProblems';">Pregnancy Problems</a></li>
-		<li><a href="/ailment/natural-treatments-premenstrual-dysphoric-disorder.html" title="PremenstrualDysphoricDisorder" onclick="s_objectID='dd_Premenstrual_Dysphoric_Disorder';">Premenstrual Dysphoric Disorder </a></li>
-		<li><a href="/ailment/natural-treatments-pms-premenstrual-syndrome.html" title="PremenstrualSyndrome" onclick="s_objectID='dd_Premenstrual_Syndrome';">Premenstrual Syndrome </a></li>
-		<li><a href="/ailment/natural-prenatal-care-in-pregnancy.html" title="Prenatal Care" onclick="s_objectID='dd_PrenatalCare';">Prenatal Care </a></li>
-		<li><a href="/ailment/childbirth-preparation.html" title="Preparation for Childbirth" onclick="s_objectID='dd_PreparationforChildbirth';">Preparation for Childbirth</a></li>
-		<li><a href="/ailment/increase-breast-milk-production.html" title="Producing Breast Milk" onclick="s_objectID='dd_ProducingBreastMilk';">Producing Breast Milk</a></li>
-		<li><a href="/ailment/increase-low-progesterone-levels.html" title="Progesterone" onclick="s_objectID='dd_Progesterone';">Progesterone </a></li>
-		<li><a href="/ailment/increase-low-progesterone-levels.html" title="Progestogins" onclick="s_objectID='dd_Progestogins';">Progestogins</a></li>
-		<li><a href="/ailment/prevent-prostate-problems.html" title="Prostate_BPH" onclick="s_objectID='dd_Prostate_BPH';">Prostate, BPH</a></li>
-		<li><a href="/ailment/natural-pruritus-remedies-stop-itching.html" title="Pruritus" onclick="s_objectID='dd_Pruritus';">Pruritus</a></li>
-		<li><a href="/ailment/natural-treatments-for-psoriasis.html" title="Psoriasis" onclick="s_objectID='dd_Psoriasis';">Psoriasis</a></li>
-		<li><a href="/ailment/natural-treatments-for-pubic-lice.html" title="Pubic Lice" onclick="s_objectID='dd_PubicLice';">Pubic Lice</a></li>
-		<li><a href="/ailment/symptoms-of-raynauds-disease.html" title="Raynaud's Disease" onclick="s_objectID='dd_raynauds-disease';">Raynaud's Disease</a></li>
-		<li><a href="/ailment/convalescence-recovery-process-info.html" title="Recovery" onclick="s_objectID='dd_Recovery';">Recovery</a></li>
-		<li><a href="/ailment/natural-treatments-postpartum-care-recovery.html" title="Recovering After Delivery" onclick="s_objectID='dd_RecoveringAfterDelivery';">Recovering After Delivery</a></li>
-		<li><a href="/ailment/natural-restless-leg-syndrome-treatments.html" title="Restless Leg Syndrome" onclick="s_objectID='dd_Restless_Leg_Syndrome';">Restless Leg Syndrome</a></li>
-		<li><a href="/ailment/male-reproductive-system-problems.html" title="Male Reproductive System" onclick="s_objectID='dd_reproductive system male';">Reproductive System (Male)</a></li>
-		<li><a href="/ailment/natural-treatments-for-rheumatism-rheumatic-diseases.html" title="Rheumatic Disease" onclick="s_objectID='dd_Rheumatic_Disease';">Rheumatic Disease</a></li>
-   		<li><a href="/ailment/natural-treatments-for-rheumatism-rheumatic-diseases.html" title="Rheumatoid Arthritis" onclick="s_objectID='dd_Rheumatoid_Arthritis';">Rheumatoid Arthritis</a></li>
-		<li><a href="/ailment/natural-treatments-for-rhinitis.html" title="Rhinitis" onclick="s_objectID='dd_Rhinitis';">Rhinitis</a></li>
-		<li><a href="/ailment/herbal-tinnitus-treatment.html" title="Ringing Ears" onclick="s_objectID='dd_RingingEars';">Ringing Ears</a></li>
-		<li><a href="/ailment/natural-treatments-for-ringworm.html" title="Ringworm" onclick="s_objectID='dd_Ringworm';">Ringworm</a></li>
-		<li><a href="/ailment/natural-treatments-for-rosacea.html" title="Rosacea" onclick="s_objectID='dd_Rosacea';">Rosacea</a></li>
-		<li><a href="/ailment/natural-treatments-for-roseola.html" title="Roseola" onclick="s_objectID='dd_Roseola';">Roseola</a></li>
-		<li><a href="/ailment/natural-treatments-for-rubella-symptoms.html" title="Rubella" onclick="s_objectID='dd_rubella';">Rubella</a></li>
-		<li><a href="/ailment/treatments-for-scabies-mite-bites.html" title="Scabies" onclick="s_objectID='dd_Scabies';">Scabies</a></li>
-		<li><a href="/ailment/treatments-for-scabies-skin-rash.html" title="Scabies Rash" onclick="s_objectID='dd_ScabiesRash';">Scabies Rash</a></li>
-		<li><a href="/ailment/natural-treatments-scalp-conditions-problems.html" title="Scalp Condition" onclick="s_objectID='dd_Scalp Condition';">Scalp Condition</a></li>
-		<li><a href="/ailment/natural-treatments-dry-scaly-skin.html" title="Scaly Skin" onclick="s_objectID='dd_Scaly Skin';">Scaly Skin</a></li>
-		<li><a href="/ailment/natural-treatments-for-scars.html" title="Scars" onclick="s_objectID='dd_Scars';">Scars</a></li>
-		<li><a href="/ailment/natural-treatments-scleroderma-skin-conditions.html" title="Scleroderma" onclick="s_objectID='dd_Scleroderma';">Scleroderma</a></li>
-		<li><a href="/ailment/natural-treatments-scarlet-fever-symptoms.html" title="Scarlet Fever" onclick="s_objectID='dd_scarlet fever';">Scarlet Fever</a></li>
-		<li><a href="/ailment/sciatica-nerve-pain-relief-treatment.html" title="Sciatica" onclick="s_objectID='dd_Sciatica';">Sciatica</a></li>
-		<li><a href="/ailment/seasonal-affective-disorder.html" title="Seasonal Affective Disorder" onclick="s_objectID='dd_seasonal-affective-disorder';">Seasonal Affective Disorder</a></li>
-		<li><a href="/ailment/natural-remedies-for-seasonal-allergies.html" title="Seasonal Allergies" onclick="s_objectID='dd_seasonalAllergies';">Seasonal Allergies</a></li>
-		<li><a href="/ailment/how-to-beat-seasonal-depression.html" title="Seasonal Depression" onclick="s_objectID='dd_seasonalDepression';">Seasonal Depression</a></li>
-		<li><a href="/ailment/natural-remedies-prevent-sea-sickness.html" title="Sea Sickness" onclick="s_objectID='dd_Sea-Sickness';">Sea Sickness</a></li>
-		<li><a href="/ailment/natural-treatments-seborrheic-dermatitis.html" title="Seborrheic Dermatitis" onclick="s_objectID='dd_Seborrheic Dermatitis';">Seborrheic Dermatitis</a></li>
-		<li><a href="/ailment/natural-treatments-for-seizures.html" title="Seizures" onclick="s_objectID='dd_Seizures';">Seizures</a></li>
-		<li><a href="/ailment/senility-degenerative-brain-diseases-info.html" title="Senility" onclick="s_objectID='dd_senility';">Senility</a></li>
-		<li><a href="/ailment/separation-anxiety-disorder-info.html" title="Separation Anxiety Disorder" onclick="s_objectID='dd_separation-anxiety-disorder';">Separation Anxiety Disorder</a></li>
-		<li><a href="/ailment/sexual-performance-anxiety.html" title="Sexual Performance" onclick="s_objectID='dd_Sexual_Performance';">Sexual Performance </a></li>
-		<li><a href="/ailment/improve-female-sexual-performance.html" title="Sexual Performance Female" onclick="s_objectID='dd_Sexual_Performance_Female';">Sexual Performance - Female</a></li>
-		<li><a href="/ailment/improve-male-sexual-performance.html" title="Sexual Performance Male" onclick="s_objectID='dd_Sexual_Performance_Male';">Sexual Performance - Male</a></li>
-		<li><a href="/ailment/natural-treatments-for-shingles-symptoms.html" title="Shingles" onclick="s_objectID='dd_shingles';">Shingles</a></li>
-		<li><a href="/ailment/symptoms-of-shock-info.html" title="Shock" onclick="s_objectID='dd_shock';">Shock</a></li>
-		<li><a href="/ailment/natural-treatments-for-shoulder-pain.html" title="Shoulder Pain" onclick="s_objectID='dd_Shoulder_Pain';">Shoulder Pain</a></li>
-		<li><a href="/ailment/natural-treatments-shortness-of-breath.html" title="Shortness of Breath" onclick="s_objectID='dd_Shortness_of_Breath';">Shortness of Breath</a></li>
-		<li><a href="/ailment/natural-treatments-for-overcoming-shyness.html" title="Shyness" onclick="s_objectID='dd_shyness';">Shyness</a></li>
-		<li><a href="/ailment/signs-symptoms-stages-labor.html" title="Signs, Symptoms &amp; Stages of Labor" style="font-size: 11px;" onclick="s_objectID='dd_SignsSymptomsandStagesofLabor';">Signs, Symptoms &amp; Stages of Labor</a></li>
-		<li><a href="/ailment/natural-treatments-for-sinusitis.html" title="Sinusitis" onclick="s_objectID='dd_Sinusitis';">Sinusitis</a></li>
-		<li><a href="/ailment/natural-treatments-for-skin-damage.html" title="Skin Damage" onclick="s_objectID='dd_Skin Damage';">Skin Damage</a></li>
-		<li><a href="/ailment/skin-disorders-problems-and-conditions.html" title="Skin Disorders" onclick="s_objectID='dd_SkinDisorders';">Skin Disorders</a></li>
-		<li><a href="/ailment/natural-treatments-for-skin-wrinkles.html" title="Skin Wrinkles" onclick="s_objectID='dd_Skin Wrinkles';">Skin Wrinkles</a></li>
-		<li><a href="/ailment/natural-sleep-apnea-treatments.html" title="Sleep Apnea" onclick="s_objectID='dd_Sleep_Apnea';">Sleep Apnea</a></li>
-		<li><a href="/ailment/natural-treatments-for-sleep-disorders.html" title="Sleep Disorders" onclick="s_objectID='dd_Sleep_Disorders';">Sleep Disorders</a></li>
-		<li><a href="/ailment/healthy-adult-baby-sleep-routines.html" title="Sleep Rountines" onclick="s_objectID='dd_Sleep_Rountines';">Sleep Rountines</a></li>
-		<li><a href="/ailment/natural-treatment-to-stop-sneezing.html" title="Sneezing" onclick="s_objectID='dd_Sneezing';">Sneezing</a></li>
-		<li><a href="/ailment/natural-stop-snoring-treatments.html" title="Snoring" onclick="s_objectID='dd_Snoring';">Snoring</a></li>
-		<li><a href="/ailment/overcoming-social-anxiety-info.html" title="Social Anxiety Disorder" onclick="s_objectID='dd_social-anxiety-disorder';">Social Anxiety Disorder</a></li>
-        
-		<li><a href="/ailment/natural-remedies-for-sore-breasts.html" title="Sore Breasts" onclick="s_objectID='dd_soreBreasts';">Sore Breasts</a></li>
-		<li><a href="/ailment/natural-treatments-for-sore-nipples.html" title="Sore Nipples" onclick="s_objectID='dd_soreNipples';">Sore Nipples</a></li>
-		<li><a href="/ailment/natural-sore-throat-remedies.html" title="Sore Throat" onclick="s_objectID='dd_sore-throat';">Sore Throat</a></li>
-		<li><a href="/ailment/sports-injuries-recovery.html" title="Sports Recovery" onclick="s_objectID='dd_sports-recovery';">Sports Recovery</a></li>
-		<li><a href="/ailment/natural-remedies-for-musclular-endurance.html" title="Sports Strength" onclick="s_objectID='dd_SportsStrength';">Sports Strength</a></li>
-		<li><a href="/ailment/natural-treatments-for-healing-sprains.html" title="Sprains" onclick="s_objectID='dd_Sprains';">Sprains</a></li>
-		<li><a href="/ailment/signs-of-female-male-sterility.html" title="Sterility" onclick="s_objectID='dd_Sterility';">Sterility </a></li>
-		<li><a href="/ailment/relieve-muscle-and-joint-stiffness.html" title="Stiffness" onclick="s_objectID='dd_Stiffness';">Stiffness </a></li>
-		<li><a href="/ailment/relief-for-stinging-burning-eyes.html" title="Stinging Eyes" onclick="s_objectID='dd_StingingEyes';">Stinging Eyes </a></li>
-		<li><a href="/ailment/natural-remedies-for-stomach-aches.html" title="Stomach Ache" onclick="s_objectID='dd_Stomach-Ache';">Stomach Ache</a></li>
-		<li><a href="/ailment/natural-remedies-for-stomach-bloating.html" title="Stomach Bloating" onclick="s_objectID='dd_Stomach-Bloating';">Stomach Bloating</a></li>
-		<li><a href="/ailment/natural-treatments-for-stomach-ulcers.html" title="Stomach Ulcers" onclick="s_objectID='dd_Stomach-Ulcers';">Stomach Ulcers</a></li>
-		<li><a href="/ailment/natural-treatments-stop-smoking.html" title="Stop Smoking" onclick="s_objectID='dd_Stop_Smoking';">Stop Smoking</a></li>
-		<li><a href="/ailment/signs-of-female-male-sterility.html" title="Sterility" onclick="s_objectID='dd_Sterility';">Sterility </a></li>
-		<li><a href="/ailment/natural-treatments-strep-throat-symptoms.html" title="Strep Throat" onclick="s_objectID='dd_strep throat';">Strep Throat</a></li>
-		<li><a href="/ailment/all-natural-stress-relief-info.html" title="Stress" onclick="s_objectID='dd_stress';">Stress</a></li>
-		<li><a href="/ailment/natural-treatments-for-stretch-marks.html" title="Stretch Marks" onclick="s_objectID='dd_Stretch Marks';">Stretch Marks</a></li>
-		<li><a href="/ailment/prevention-of-stroke-symptoms.html" title="Stroke" onclick="s_objectID='dd_stroke';">Stroke</a></li>
-		<li><a href="/ailment/study-skill-and-focus-aids.html" title="Study Aid" onclick="s_objectID='dd_StudyAid';">Study Aid</a></li>
-		<li><a href="/ailment/eye-stye-and-chalazion-treatments.html" title="Stye" onclick="s_objectID='dd_Stye';">Stye</a></li>
-		<li><a href="/ailment/treatments-for-sweaty-palms-hands.html" title="Sweaty Palms" onclick="s_objectID='dd_SweatyPalms';">Sweaty Palms</a></li>
-		<li><a href="/ailment/natural-remedies-for-swollen-feet.html" title="Swollen Feet" onclick="s_objectID='dd_Swollen_Feet';">Swollen Feet</a></li>
-		<li><a href="/ailment/treatments-for-swollen-lymph-nodes.html" title="Swollen Lymph Nodes" onclick="s_objectID='dd_Swollen lymph nodes';">Swollen Lymph Nodes</a></li>
-		<li><a href="/ailment/natural-remedies-for-baby-teething.html" title="Teething Problems" onclick="s_objectID='dd_TeethingProblems';">Teething Problems</a></li>
-		<li><a href="/ailment/children-toddler-temper-tantrums.html" title="Temper Tantrums" onclick="s_objectID='dd_temper-tantrums';">Temper Tantrums</a></li>
-		<li><a href="/ailment/lower-high-body-temperatures.html" title="Temperature" onclick="s_objectID='dd_temperature';">Temperature</a></li>
-		<li><a href="/ailment/natural-treatments-for-human-tapeworms.html" title="Tapeworms" onclick="s_objectID='dd_Tapeworms';">Tapeworms</a></li>
-		<li><a href="/ailment/natural-tardive-dyskinesia-treatments.html" title="Tardrive Dyskinesia" onclick="s_objectID='dd_Tardrive-Dyskinesia';">Tardrive Dyskinesia</a></li>
-		<li><a href="/ailment/short-fuse-bad-temper-problems.html" title="Temper" onclick="s_objectID='dd_Temper';">Temper</a></li>
-		<li><a href="/ailment/natural-treatments-for-tendonitis.html" title="Tendonitis" onclick="s_objectID='dd_Tendonitis';">Tendonitis</a></li>
-		<li><a href="/ailment/natural-treatments-menstrual-cycle-problems.html" title="The Menstrual Cycle" onclick="s_objectID='dd_The-Menstrual-Cycle';">The Menstrual Cycle</a></li>
-		<li><a href="/ailment/natural-remedies-third-trimester-pregnancy.html" title="The Third Trimester" onclick="s_objectID='dd_TheThirdTrimester';">The Third Trimester</a></li>
-		<li><a href="/ailment/relief-for-tension-headache-pressure.html" title="Tension Headache" onclick="s_objectID='dd_TensionHeadache';">Tension Headache</a></li>
-		<li><a href="/ailment/overcoming-test-anxiety.html" title="Test Anxiety" onclick="s_objectID='dd_Test-Anxiety';">Test Anxiety</a></li>
-		<li><a href="/ailment/clear-throat-congestion.html" title="Throat Congestion" onclick="s_objectID='dd_ThroatCongestion';">Throat Congestion</a></li>
-		<li><a href="/ailment/clear-phlegm-and-throat-mucus.html" title="Throat Mucus" onclick="s_objectID='dd_ThroatMucus';">Throat Mucus</a></li>
-		<li><a href="/ailment/natural-thrush-infection-remedies.html" title="Thrush" onclick="s_objectID='dd_Thrush';">Thrush</a></li>
-		<li><a href="/ailment/symptoms-of-thyroid-disorders.html" title="Thyroid Disorders" onclick="s_objectID='dd_thyroid-disorders';">Thyroid Disorders</a></li>
-		<li><a href="/ailment/symptoms-of-hashimotos-thyroiditis.html" title="Thyroiditis " onclick="s_objectID='dd_Thyroiditis ';">Thyroiditis </a></li>
-		<li><a href="/ailment/tic-disorders-treatment-info.html" title="Tics" onclick="s_objectID='dd_tics';">Tics</a></li>
-		<li><a href="/ailment/herbal-tinnitus-treatment.html" title="Tinnitus" onclick="s_objectID='dd_Tinnitus';">Tinnitus</a></li>
-		<li><a href="/ailment/natural-treatments-for-toenail-fungus.html" title="Toenail Fungus" onclick="s_objectID='dd_Toenail Fungus';">Toenail Fungus</a></li>   
-		<li><a href="/ailment/treatment-and-prevention-of-tonsillitis.html" title="Tonsillitis" onclick="s_objectID='dd_tonsillitis';">Tonsillitis</a></li>
-		<li><a href="/ailment/treatments-for-tooth-abscess-pain.html" title="Tooth Abscess" onclick="s_objectID='dd_ToothAbscess';">Tooth Abscess</a></li>  
-		<li><a href="/ailment/tooth-decay-and-dental-plaque.html" title="Tooth Decay" onclick="s_objectID='dd_ToothDecay';">Tooth Decay</a></li>  
-		<li><a href="/ailment/homeopathic-remedies-for-tooth-infections.html" title="Tooth Infection" onclick="s_objectID='dd_ToothInfection';">Tooth Infection</a></li>  
-		<li><a href="/ailment/natural-treatments-for-torn-ligaments.html" title="Torn Ligaments" onclick="s_objectID='dd_Torn_Ligaments';">Torn Ligaments</a></li>        
-		<li><a href="/ailment/tourettes-syndrome-info.html" title="Tourette's Syndrome" onclick="s_objectID='dd_tourettes-syndrome';">Tourette's Syndrome</a></li>
-		<li><a href="/ailment/symptoms-of-tuberculosis-tb-info.html" title="Tuberculosis" onclick="s_objectID='dd_tuberculosis';">Tuberculosis</a></li>
-		<li><a href="/ailment/natural-remedies-for-body-twitching.html" title="Twitching" onclick="s_objectID='dd_Twitching';">Twitching</a></li>
-		<li><a href="/ailment/how-to-stop-underarm-sweating.html" title="Underarm Sweating" onclick="s_objectID='dd_UnderarmSweating';">Underarm Sweating</a></li>
-		<li><a href="/ailment/under-eye-wrinkles-and-lines.html" title="Under Eye Wrinkles" onclick="s_objectID='dd_UnderEyeWrinkles';">Under Eye Wrinkles</a></li>
-		<li><a href="/ailment/natural-remedies-for-upset-stomach.html" title="Upset Stomach" onclick="s_objectID='dd_Upset-Stomach';">Upset Stomach</a></li>
-		<li><a href="/ailment/the-urinary-system.html" title="Urinary System" onclick="s_objectID='dd_urinary-system';">Urinary System</a></li>
-		<li><a href="/ailment/urinary-tract-infections.html" title="Urinary Tract Infection" onclick="s_objectID='dd_urinary-tract-infection';">Urinary Tract Infection</a></li>
-		<li><a href="/ailment/symptoms-of-enlarged-uterus.html" title="Uterus" onclick="s_objectID='dd_Uterus';">Uterus</a></li>
-		<li><a href="/ailment/adulthood-and-childhood-vaccinations.html" title="Vaccinations" onclick="s_objectID='dd_vaccinations';">Vaccinations</a></li>
-		<li><a href="/ailment/natural-treatments-for-vaginal-dryness.html" title="Vaginal Dryness" onclick="s_objectID='dd_Vaginal_Dryness';">Vaginal Dryness</a></li>
-		<li><a href="/ailment/stop-external-vaginal-itching.html" title="Vaginal Itch" onclick="s_objectID='dd_Vaginal_Itch';">Vaginal Itch</a></li>
-		<li><a href="/ailment/varicose-veins-symptoms.html" title="Varicose Veins" onclick="s_objectID='dd_varicose-veins';">Varicose Veins</a></li>
-		<li><a href="/ailment/natural-remedies-for-vertigo.html" title="Vertigo" onclick="s_objectID='dd_Vertigo';">Vertigo</a></li>
-		<li><a href="/ailment/types-of-viral-infections.html" title="Viral Infection" onclick="s_objectID='dd_viral-infection';">Viral Infection</a></li>
-		<li><a href="/ailment/natural-vitality-info.html" title="Vitality, Low" onclick="s_objectID='dd_vitality-low';">Vitality, Low</a></li>
-		<li><a href="/ailment/vocal-tics-echolalia-coprolalia.html" title="Vocal Tics" onclick="s_objectID='dd_VocalTics';">Vocal Tics</a></li>
-		<li><a href="/ailment/natural-treatments-for-vomiting.html" title="Vomiting" onclick="s_objectID='dd_Vomiting';">Vomiting</a></li>
-		<li><a href="/ailment/water-retention-causes.html" title="Water Retention" onclick="s_objectID='dd_water-retention';">Water Retention</a></li>
-		<li><a href="/ailment/common-and-plantar-warts-treatments.html" title="Warts" onclick="s_objectID='dd_warts';">Warts</a></li>
-		<li><a href="/ailment/natural-weight-loss-supplements.html" title="Weight Loss" onclick="s_objectID='dd_weight-loss';">Weight Loss</a></li>
-		<li><a href="/ailment/natural-treatments-bedwetting-children.html" title="Wetting the Bed" onclick="s_objectID='dd_WettingtheBed';">Wetting the Bed</a></li>
-		<li><a href="/ailment/natural-treatments-for-wounds.html" title="Wounds" onclick="s_objectID='dd_Wounds';">Wounds</a></li>
-        <li><a href="/ailment/natural-treatments-for-wound-healing.html" title="Wound Healing" onclick="s_objectID='dd_Wound_Healing';">Wound Healing</a></li>
-		<li><a href="/ailment/yeast-infection-symptoms-info.html" title="Yeast infection" onclick="s_objectID='dd_yeast-infection';">Yeast infection</a></li>
-	</ul>
-      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-    </li>
-    <li><a href="/faqs/index.html" onclick="s_objectID='top_FAQ';">FAQs</a></li>
+    <li><a href="/ailment-disease-list-remedy.html" onclick="s_objectID='top_Health';">Health A-Z</a></li>
+    <li><a href="/blog/" onclick="s_objectID='top_BLOG';">BLOG</a></li>
     <li><a href="/about_us.shtml" onclick="s_objectID='top_AboutUs';">About Us</a></li>
-    <li><a href="/petalive/index.html" onclick="s_objectID='top_ForPets';">For Pets</a></li>
+    <li class="mainNavLast"><a href="/petalive/index.html" onclick="s_objectID='top_ForPets';">For Pets</a></li>
   </ul>
 </div>
 <!--close: #mainNav -->
@@ -1473,50 +776,10 @@ $.preloadImages(
 
 		<form id="search_form" action="/search_results.php" method="get">
 		  
-		    <input id="query" name="query" type="text" class="searchbox" value="Enter Search Term" size="15" maxlength="30" style="margin-left: 13px; color: #666;">
+		    <input id="query" name="query" type="text" class="searchbox" size="15" maxlength="30" style="margin-left: 13px; color: #666;">
 		    <input class="searchButton" type="image" value="Go" src="/images/design/btSearch.gif" style="margin-left: -4px">
 	  
 		</form>
-
-<script type="text/javascript">
-	
-jQuery(document).ready(function(){
-	jQuery('#query').blur(function(){
-		if(/^\s+?$/.exec(jQuery(this).val()) || jQuery(this).val() == '')
-		{
-			jQuery(this).val('Enter Search Term');
-			jQuery(this).css('color', '#666');
-		}
-		else if(jQuery(this).val() == 'Enter Search Term')
-		{
-			jQuery(this).val('');
-			jQuery(this).css('color', '#000');
-		}
-	
-	});
-	
-	jQuery('#query').focus(function(){
-		if(jQuery(this).val() == 'Enter Search Term')
-			{
-				jQuery(this).val('');
-				jQuery(this).css('color', '#000');
-			}
-	});
-	
-	jQuery('#search_form').submit(function(){
-		if(/^\s+?$/.exec(jQuery('#query').val()) || jQuery('#query').val() == '' || jQuery('#query').val() == 'Enter Search Term')
-		{
-			jQuery('#query').focus();
-			return false;
-		}	
-		else
-		{
-			jQuery('#query').blur();
-		}
-	});
-});
-</script>		
-		
 
 		<p style="margin-left: 13px;">Also Search: <a href="/ailment-disease-list-remedy.html" onclick="s_objectID='left_HealthSearch';">Health A–Z</a> | <a href="/petalive/search-pa.html">Pets</a></p>
 </div>
@@ -1544,12 +807,14 @@ jQuery(document).ready(function(){
 					<option value="/products/birth-heal-recovery-labor-childbirth.html">Birth-Heal</option>
 					<option value="/products/bladderwell-strengthen-bladder-health.html">BladderWell</option>
 					<option value="/products/blissful-baby-aromatic-massage-oil.html">Blissful Baby Aromatic Massage Oil</option>
+                    <option value="/products/boilrx-relieve-painful-swelling-boils.html">Boil-Rx</option>
 					<option value="/products/brain-tonic-brain-health-info.html" title="Natural Remedy to Increase Mental Focus">Brain Tonic</option>
 					<option value="/products/brightspark-hyperactivity-in-children.html" title="Natural Remedy for Child Concentration Problems">BrightSpark</option>
 					<option value="/products/bringforthlife-essence-fear-intimacy-sexuality.html">Bringforth Life Flower Essence</option>
 					<option value="/products/bronchosoothe-normal-breathing-respiration-rate.html">BronchoSoothe</option>
 					<option value="/products/candidate-systemic-candida-albicans.html">Candidate</option>
 					<option value="/products/cantravel-prevent-nausea-motion-sickness.html">CanTravel</option>
+                    <option value="/products/cellutightmassageoil-reduce-dimpled-bumpy-skin.html">CelluTight Massage Oil</option>
 					<option value="/products/chikkiespotdrops-support-comfort-in-baby.html">Chikkie Spot Drops</option>
 					<option value="/products/chikkie-spot-soother-child-rashes.html">Chikkie Spot Soother</option>
 					<option value="/products/cholestorite-healthy-cholesterol-levels.html">Cholesto-Rite</option>
@@ -1592,9 +857,11 @@ jQuery(document).ready(function(){
 					<option value="/products/femalube-natural-vaginal-dryness-lubricant.html">FemaLube</option>
 					<option value="/products/fertile-xx-promote-regular-ovulation-cycles.html">Fertile XX</option>
 					<option value="/products/fertile-xy-healthy-sperm-production.html">Fertile XY</option>
+                    <option value="/products/fibrofreecomplex-muscle-pain-and-fatigue.html">FibroFree Complex</option>
 					<option value="/products/flugo-cold-and-flu-remedies.html">FluGo</option>
 					<option value="/products/focusaddult-maintain-brain-function.html">Focus ADDult</option>
 					<option value="/products/maintain-concentration-focus-formula.html">Focus Formula</option>
+                    <option value="/products/footfungfree-healthy-skin-on-feet.html">Foot FungFree</option>
 					<option value="/products/gasolve-relief-discourage-common-flatulence.html">Gasolve Relief</option>
 					<option value="/products/gastronicdr-digestassist-digestive-health.shtml ">Gastronic Dr.</option>
 					<option value="/products/goodmorningmama-common-morning-sickness.html">Good Morning Mama</option>	
@@ -1605,6 +872,7 @@ jQuery(document).ready(function(){
 					<option value="/products/headachesoothe-relief-for-headaches.html">Headache Soothe</option>
 					<option value="/products/heavenlylabor-massage-oil-childbirth-contractions.html">HeavenlyLabor Aromatic Massage Oil</option>
 					<option value="/products/highrite-normal-blood-pressure.html">High-Rite</option>
+                    <option value="/products/hive-away-reduce-itching-redness.html">Hive Away</option>
 					<option value="/products/ibaba-calm-colic-newborns-babies.html">iBaba</option>
 					<option value="/products/ikawe-promote-male-sex-drive.html">Ikawe for Men</option>
 					<option value="/products/immunityplus-healthy-immune-system.html">ImmunityPlus</option>
@@ -1621,6 +889,7 @@ jQuery(document).ready(function(){
 					<option value="/products/kiddiecool-normal-body-temperature.html">KiddieCool</option>
 					<option value="/products/kiddievom-soothe-childs-stomach.html">KiddieVom Sprinkles</option>
 					<option value="/products/kidneydr-normal-kidney-function.html">Kidney Dr.</option>
+                    <option value="/products/kidney-stone-clear.html">Kidney Stone Clear</option>
 					<option value="/products/laststagefloweressence-anxiety-stress-pregnancy.html">LastStage Flower Essence</option>
 					<option value="/products/leg-calm-night-pains-burning.html">LegCalm</option>
 					<option value="/products/leg-cramp-away-pain-treatment.html">Leg Cramp Away</option>
@@ -1661,6 +930,7 @@ jQuery(document).ready(function(){
 					<option value="/products/purenfresh-bad-breath-freshener.html">Pure-n-Fresh Breath Spray</option>
 					<option value="/products/purecalm-soothe-common-nervous-tension.html">PureCalm</option>
 					<option value="/products/puremotherfloweressence-pregnancy-baby-blues.html">PureMother Flower Essence</option>
+                    <option value="/products/queasexantinauseadrops-nausea-and-vomiting-treatment.html">QueaseX Anti Nausea Drops</option>
 					<option value="/products/realheal-natural-healing-ability.html">RealHeal</option>
 					<option value="/products/realheal-massage-oils-muscle-joint.html">RealHeal Massage Oil</option>
 					<option value="/products/rectorexbalm-anal-health.html">RectoRex Balm</option>
@@ -1669,22 +939,32 @@ jQuery(document).ready(function(){
 					<option value="/products/agerelated-hair-loss-regrowplus.html">ReGrow Plus</option>
 					<option value="/products/cd-rocking-chair-soothing-relaxing-music.shtml">Rocking Chair CD</option>
 					<option value="/products/rosarex-facial-flushing-redness.html">RosaRex</option>
+                    <option value="/products/r-worm-clear-skin-healing.html">R-Worm Clear</option>
 					<option value="/products/rxhale-stop-smoking-naturally.html">Rx-Hale</option>
 					<option value="/products/sadsoother-seasonal-depression-and-grief.html">SAD Soother</option>
 					<option value="/products/scabease-itchy-skin-relief.html">Scab-Ease Itch Relief</option>
 					<option value="/products/sciatigon-soothe-sciatic-nerve.html">SciatiGon</option>
 					<option value="/products/serenitejr-childrens-natural-sleep-aid.html">Serenite Jr.</option>
 					<option value="/products/serenitelt-natural-sleep-aid-remedies.html">Serenite-LT</option>
-					<option value="/products/sereniteplus-natural-sleep-aid.html  ">SerenitePlus</option>
-					<option value="/products/skindr-itchy-scaly-skin-scalp.html  ">Skin Dr.</option>
+					<option value="/products/sereniteplus-natural-sleep-aid.html">SerenitePlus</option>
+                    <option value="/products/sinus-soothe-sinusitis-relief-treatment.html">Sinus Soothe</option>
+					<option value="/products/skindr-itchy-scaly-skin-scalp.html">Skin Dr.</option> 
+                    <option value="/products/skinsave-anti-aging-cleanser.html">SkinSave Anti-Aging Cleanser</option>
+                    <option value="/products/skinsave-anti-aging-cream.html">SkinSave Anti-Aging Cream</option>
+                    <option value="/products/skinsave-anti-aging-exfoliator.html">SkinSave Anti-Aging Exfoliator</option>
+                    <option value="/products/skinsave-anti-aging-face-mask.html">SkinSave Anti-Aging Face Mask</option>
+                    <option value="/products/skinsavedailymoisturizer-support-youthful-skin.html">SkinSave Daily Moisturizer</option>
+                    <option value="/products/skinsave-face-spritzer-revitalize-skin.html">SkinSave Face Spritzer</option>    
 					<option value="/products/sleep-tonic-restful-sleep-cycles.html">Sleep Tonic</option>
 					<option value="/products/slimmersassist-healthy-weight-loss.html">Slimmer's Assist</option>
 					<option value="/products/snifflysprinkles-nasal-congestion.html">Sniffly Sprinkles</option>
 					<option value="/products/socialfearrelief-overcoming-social-anxiety.html">SocialFear Relief</option>
 					<option value="/products/histadrops-normal-histamine-levels.html">SOS HistaDrops</option>
+                    <option value="/products/stomach-flu-fighter-gastroenteritis-treatment.html">Stomach Flu Fighter</option>
 					<option value="/products/stretcheasy-formula-stretch-mark-remedy.html">StretchEasy Formula</option>
 					<option value="/products/stretcheasy-massage-oil-stretch-mark-remedy.html">StretchEasy Massage Oil</option>
 					<option value="/products/studyplus-healthy-study-habits-skills.html">StudyPlus</option>
+                    <option value="/products/styegone-painful-watery-eye-relief.html">StyeGone</option>
 					<option value="/products/sweatless-excessive-sweating-and-perspiration.html">Sweat-Less</option>
 					<option value="/products/teenslim-healthy-teen-weight-loss.html">TeenSlim</option>
 					<option value="/products/tic-tamer-involuntary-body-movements.html">Tic Tamer</option>
@@ -1700,6 +980,7 @@ jQuery(document).ready(function(){
 					<option value="/products/tummytrumbles-healthy-childrens-stools.html">Tummy Trumbles</option>
 					<option value="/products/ut-tonic-urinary-system-and-bladder-health.html">UT Tonic</option>
 					<option value="/products/uti-clear-urinary-tract-and-bladder-health.html">UTI-Clear</option>
+                    <option value="/products/vagiclear-relieve-vaginal-itching-burning.html">Vagi-Clear</option>
 					<option value="/products/vagisoothe-yeast-infection-remedy.html">Vagi-Soothe</option>
 					<option value="/products/vertifree-vestibular-inner-ear-balance.html">VertiFree</option>
 					<option value="/products/vitalitonic-natural-vitality-older-adults.html">VitaliTonic</option>
@@ -1708,7 +989,7 @@ jQuery(document).ready(function(){
 					<option value="/products/wormdr-human-intestinal-worms.html">Worm Dr.</option>
                   <option value="">-------------</option>
                   <option value="/combopacks.html">ComboPacks</option>
-                </select>
+              </select>
 					<p style="font-size: 10px; color: #663300; letter-spacing: -1px; font-family: Verdana, Arial, Helvetica, sans-serif; margin-left: 0px;"><a href="/browse.shtml" onclick="s_objectID='left_ViewProducts';" style="color: #4E3114;">View All Products</a> »</p>
 
 
@@ -1800,49 +1081,7 @@ jQuery(document).ready(function(){
 
 				</ul>
 </div>	
-                <div id="resources" class="sideBox">
-<p class="sideBoxHeader">Resources &amp; Services</p>
-				<div class="sideBoxContent">
-					<p class="sideBoxSubHeader">Resources</p>		
-					<ul>
-						<li><a href="http://www.nativeremedies.com/blog/">Blog</a></li>
-						<li><a href="/ask_us.shtml" onclick="s_objectID='left_AskUs';">Ask Our Experts</a></li>
-						<li><a href="/articles/index.html" onclick="s_objectID='left_Articles';">Articles</a></li>
-						<li><a href="/ebooks/index.html" onclick="s_objectID='left_Ebooks';">Ebooks</a></li>						
-						<li><a href="/news-natural-herbal-remedies-index.shtml" onclick="s_objectID='left_Newsletters';">Newsletter Archives</a></li>
-						<li><a href="/ailment-disease-list-remedy.html" onclick="s_objectID='left_Healtz';">Health A–Z</a></li>
-						<li><a href="/health-resources.shtml">Health Directory &amp; Resources</a></li>
-						<li><a href="/as-seen-on-news-native-remedies.html">Health News &amp; Info</a></li>
-						<li><a href="/testimonials/index.html" onclick="s_objectID='left_Testimonials';">Testimonials</a></li>
-						<li><a href="/faqs/index.html" onclick="s_objectID='left_FAQ';">FAQs</a></li>
-						<li><a href="/about_us.shtml" onclick="s_objectID='left_AboutUs';">About Us</a></li>
-						<li><a href="/native-remedies-community-involvement.html">Community Involvement</a></li>
-						<li><a href="/specials.shtml" onclick="s_objectID='left_Specials';">Specials</a></li>
-					</ul>
-					<p class="sideBoxSubHeader">Services</p>
-					<ul>
-						<li><a rel="nofollow" href="/cart/customer/account/" onclick="s_objectID='left_MyAccount';">My Account</a></li>
-						<li><a href="/contact_us.shtml" onclick="s_objectID='left_ContactUS';">Contact Us</a></li>
-						<li><a href="/gift-certificates-natural-herbal-remedies.shtml" onclick="s_objectID='left_Gift';">Gift Certificates</a></li>
-						<li><a href="/reorder_reminder.shtml" onclick="s_objectID='left_Reminder';">Reorder Reminder</a></li>
-						<li><a href="/auto-ship.html" onclick="s_objectID='left_EasyShipProgram';">EasyShip Program </a></li>
-						<li><a href="/shippingpolicy.shtml" onclick="s_objectID='left_Shipping';">Worldwide Shipping</a></li>
-						<li><a href="/currency-converter.shtml" onclick="s_objectID='left_Currency';">Currency Converter</a></li>
-						<li><a href="/site_map.shtml" onclick="s_objectID='left_SiteMAp';">Site Map</a></li>
-					</ul>
-					<p class="sideBoxSubHeader">Partner With Us</p>
-					<ul>
-						<li><a href="/native-remedies-affiliate-program.shtml" onclick="s_objectID='left_Affiliate';">Become an Affiliate</a></li>
-						<li><a href="/wholesale-drop-ship-distributor.html" onclick="s_objectID='left_Distributor';">Become a Distributor</a></li>
-					</ul>
-					<p class="sideBoxSubHeader">Policies</p>
-					<ul>
-						<li><a href="/shippingpolicy.shtml" onclick="s_objectID='left_Shipping';">Shipping</a></li>
-						<li><a href="/returns-policy.html" onclick="s_objectID='left_Returns';">Returns</a></li>
-					</ul>
-				</div><!--close: #sideBoxContent -->
-</div>
-<!--PICOSEARCH_SKIPTEXTEND-->
+              
 			</div><!--close: mainSideColumn -->
              <div id="mainColumn">
 			<!-- InstanceBeginEditable name="MainContent" -->
@@ -1878,7 +1117,11 @@ jQuery(document).ready(function(){
 			<h3>How To Contact Us  </h3>
 			<p>Should you have other   questions or concerns about these privacy policies, please call us at +1.561.544.6006 Ext. 2 or send us an email at <a href="mailto:service@nativeremedies.com">service@nativeremedies.com</a> </p>
 			
-			</div><!--close:#general -->
+			</div>
+            <script type="text/javascript">
+pageTracker._setCustomVar(1,'ContentSection','company-info',3);
+</script>
+            <!--close:#general -->
 			
 			<!-- InstanceEndEditable -->
         	</div><!--close: #mainColumn -->
@@ -1923,27 +1166,29 @@ jQuery(document).ready(function()
 		<!-- START SCANALERT CODE -->
 <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.nativeremedies.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.nativeremedies.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
 <!-- END SCANALERT CODE --> 
-            <a href="http://www.seflorida.bbb.org/BusinessReport.aspx?CompanyID=31002086" target="_blank"><img src="//www.seflorida.bbb.org/images/clickratingsm.gif" width="135" height="52" border="0"></a>
-		      <a href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=11355"><img src="/images/design/ssn2.gif" alt="Tested for Safety"></a>
-			<a href="http://www.shopping.com/xMR-Native Remedies~MRD-307492~S-1"><img src="//www.shopping.com/merchant_logo?ID=307492" alt="Read Our Store Reviews" width="150"></a>
-			<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--87131.html"><img src="//medals.bizrate.com/medals/dynamic/87131_medal.gif" alt="BizRate Customer Certified (GOLD) Site"></a>
-				<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.nativeremedies.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+        <a href="http://www.bbb.org/south-east-florida/business-reviews/information-search-retrieval-services/native-remedies-in-boca-raton-fl-31002086" lang="31002086" id="bbb-report-link" title="Click to verify BBB accreditation and to see a BBB report for Native Remedies LLC" target="_blank"><img src="/images/design/bbb.jpg" height="57" width="150" title="Click to verify BBB accreditation and to see a BBB report for Native Remedies LLC" border="0" alt="Click to verify BBB accreditation and to see a BBB report for Native Remedies LLC"></a>
+		      <a href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=11355" target="_blank"><img src="/images/design/ssn2.gif" alt="Tested for Safety"></a>
+			<a href="http://www.shopping.com/xMR-Native Remedies~MRD-307492~S-1" target="_blank"><img src="/images/design/shopping.jpg" height="62" width="150" border="0" alt="Read Our Store Reviews"></a>
+			<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--87131.html" target="_blank"><img src="//medals.bizrate.com/medals/dynamic/87131_medal.gif" alt="BizRate Customer Certified (GOLD) Site"></a>
+				<!-- GeoTrust Smart Icon tag. Do not edit. -->
+				<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+                <!-- end GeoTrust Smart Icon tag -->
 			 <br>
 </div><!-- close: sideBox -->
 
 
                 <div id="subscribe" class="sideBox">
 				<!-- AddThis Bookmark Button -->
-				<a href="http://www.addthis.com/bookmark.php" onclick="window.open('http://www.addthis.com/bookmark.php?wt=nw&amp;pub=patosly&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'addthis', 'scrollbars=yes,menubar=no,width=620,height=520,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100'); return false;" title="Bookmark using any bookmark manager!" target="_blank"><img src="//s3.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button"></a>
+				<a href="http://www.addthis.com/bookmark.php" onclick="window.open('http://www.addthis.com/bookmark.php?wt=nw&amp;pub=patosly&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'addthis', 'scrollbars=yes,menubar=no,width=620,height=520,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100');pageTracker._trackEvent('socialmedia', 'submit', 'subscribe'); return false;" title="Bookmark using any bookmark manager!" target="_blank"><img src="//s3.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button"></a>
 				<!-- AddThis Feed Button -->
-				<a href="http://www.addthis.com/feed.php?pub=patosly&amp;h1=http%3A%2F%2Fwww.nativeremedies.com%2Frss%2Fnativeremedies.rss&amp;t1=" title="Subscribe using any feed reader!"><img src="//s3.addthis.com/button1-fd.gif" width="125" height="16" border="0" alt="AddThis Feed Button"></a>			
+				<a href="http://www.addthis.com/feed.php?pub=patosly&amp;h1=http%3A%2F%2Fwww.nativeremedies.com%2Frss%2Fnativeremedies.rss&amp;t1=" onclick="pageTracker._trackEvent('socialmedia', 'submit', 'rssfeed');" title="Subscribe using any feed reader!" target="_blank"><img src="//s3.addthis.com/button1-fd.gif" width="125" height="16" border="0" alt="AddThis Feed Button"></a>			
 </div><!--close: #sideBox -->
                 <div id="tellAFriend" class="sideBox">
 	<div class="sideBoxContent">
 		<img src="/images/design/helpOthers.jpg" alt="You Can Help Others">		
 		<form name="eMailer">		
 			<input name="email" class="textField" type="text" maxlength="80" value=" Your Friend´s Email" onblur="if(this.value==''){this.value=' Your Friend´s Email'}" onfocus="if(this.value==' Your Friend´s Email'){this.value=''}">
-			<a href="#" onclick="mailThisUrl();"><img src="/images/design/btSendThisPage.gif" class="searchButton" border="0"></a>
+			<a href="#" onclick="pageTracker._trackEvent('referral', 'submit', 'sendtofriend');mailThisUrl();"><img src="/images/design/btSendThisPage.gif" class="searchButton" border="0"></a>
 			
 			<!-- <input class="searchButton" type="image" src="/images/design/btSendThisPage.gif" onclick="mailThisUrl();" onmouseover="window.status='Click to send an email (with this page address) to a friend! Enter email address above...'; return true" onmouseout="window.status='';return true" value="Send this URL"/> -->
 			
@@ -1955,53 +1200,131 @@ jQuery(document).ready(function()
 <div id="newsletter" class="sideBox">
 	<div class="sideBoxContentNewsletter">
 		<img src="/images/design/newsletterBoxHeader.gif" alt="Free Newsletter">  
-    	<form action="/newsletter.php?form=newsletter" method="post" name="form" id="form">	
+    	<form action="/newsletter.php?form=newsletter" method="post" name="newsletterForm" id="form">	
 				<div align="right"><input type="hidden" name="checksubmit" value="1">
-                Name:<input name="First_Name" type="text" class="textField" style="margin-left:8px" maxlength="80">
+                Name:<input name="First_Name" id="newsletter_name" type="text" class="textField" style="margin-left:8px" maxlength="80">
                 <br>
 				
-				Email:<input name="email" type="text" class="textField" style="margin-left:8px" maxlength="80"> 
+				Email:<input name="email" id="newsletter_email" type="text" class="textField" style="margin-left:8px" maxlength="80"> 
 				</div><br>
 				<div align="center">
-				<input class="searchButton" type="image" src="/images/design/btAddMe.gif" onclick="return checkForm();" value="Add Me!">
+				<input class="searchButton" id="newsletterSignupSubmit" type="image" src="/images/design/btAddMe.gif" value="Add Me!">
 				</div>
 		        <p>Privacy Assured - We   don't share your email address with <u>anyone</u>! &nbsp;Unsubscribe at any time.</p>
     	</form>
     	
     </div><!--close: #sideBoxContent -->
 </div><!-- close: sideBox -->
+
+
+<script>
+jQuery(document).ready(function()
+{
+		jQuery('input#newsletterSignupSubmit').live('click', function() {
+			name = jQuery('#newsletter_name').val();
+			email = jQuery('#newsletter_email').val();
+			
+			if(!/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/.test(email) || email.length < 5)
+			{
+				alert('Please enter a valid email address.');
+				return false;
+			}
+			
+			if(name.length < 3)
+			{
+				alert('Please enter your name.');
+				return false;
+			}
+			
+			jQuery.ajax({
+			  url: '/AJAX/nl_captcha.php?domain=pa',
+			  success: function(data, e) {
+				  
+				jQuery("#guarantee-dialog-modal").dialog({
+					height: 350,
+					width: 400,
+					modal: true//,
+					//position : 'right'
+				}); // end modal
+				jQuery('#guarantee-content').html(data);
+			  } // end success
+			}); // end ajax 
+			return false;
+		});	
+});
+//pageTracker._trackEvent('pa_newsletter', 'submit', 'pa_newsletter_subscribe'); return checkForm();
+</script>
             </div><!--close: #secondaryColumn -->
         	<div class="clear"></div>
     	</div><!--close: #content -->
 		
-		<div id="footer">
+		<div id="footerUpdate">
     <div id="footerLogo"><a href="http://www.nativeremedies.com"><img src="/images/design/logoFooter.gif"></a></div>
-    <div id="footerNav">
-        <ul id="footerMainNav">
-            <li class="first"><a href="/" onclick="s_objectID='down_Home';">Home</a></li>
-            <li><a href="/ask_us.shtml" onclick="s_objectID='down_AskUs';">Ask Our Experts</a></li>
-            <li><a href="/browse.shtml" onclick="s_objectID='down_products';">Products</a></li>
-            <li><a href="/testimonials/index.html" onclick="s_objectID='down_testimonials';">Testimonials</a></li>
-            <li><a href="/ailment-disease-list-remedy.html" onclick="s_objectID='down_Health';">Health A–Z</a></li>
-            <li><a href="/faqs/index.html" onclick="s_objectID='down_FAQ';">FAQs</a></li>
-            <li><a href="/about_us.shtml" onclick="s_objectID='down_AboutUs';">About Us</a></li>
-            <li class="last"><a href="/petalive/index.html" onclick="s_objectID='down_ForPets';">For Pets</a></li>	
-        </ul>
-        <ul id="footerSecondaryNav">
-            <li class="first"><a href="/contact_us.shtml" onclick="s_objectID='down_ContactUS';">Contact Us</a></li>
-            <li><a href="https://www.nativeremedies-store.com/help.asp" onclick="s_objectID='down_Help';">Help</a></li>
-            <li><a rel="nofollow" href="/cart/checkout/cart/" onclick="s_objectID='down_Cart';">View Cart</a></li>
-            <li><a rel="nofollow" href="/cart/customer/account/" onclick="s_objectID='down_';">Your Account</a></li>
-            <li><a href="/health-resources.shtml" onclick="s_objectID='down_Resources';">Health Resources</a></li>
-            <li><a href="/privacy.shtml" onclick="s_objectID='down_Privacy';">Privacy Policy</a></li>
-            <li><a href="/shippingpolicy.shtml" onclick="s_objectID='down_Shipping';">Shipping Policy</a></li>
-            <li><a href="/returns-policy.html" onclick="s_objectID='down_Returns';">Returns Policy</a></li>
-            <li><a href="/native-remedies-affiliate-program.shtml" onclick="s_objectID='down_Affiliates';">Affiliates</a></li>
-            <li><a href="/wholesale-drop-ship-distributor.html" onclick="s_objectID='down_Distributors';">Distributors</a></li>
-            <li class="last"><a href="/site_map.shtml" onclick="s_objectID='down_Map';">Site Map</a></li>
-        </ul>	
-    </div><!-- close: #footerNav -->
-</div><!-- close: #footer -->
+    <div id="footerUpdateNav">
+    <div style="background: #4e3114; padding: 10px;">
+        <div class="footerUpdateColumn1">
+            <p class="footerUpdateHeader">Connect With Us</p>
+                <ul>
+                  <li><a href="/blog/">Visit our Blog</a></li>
+                  <li><a href="/contact_us.shtml">Contact Us</a></li>
+                  <li><a href="/find-us-online.html">Find us Online</a></li>
+                  <li><a href="/ask_us.shtml">Ask our Experts</a></li>
+                  <li><a href="/as-seen-on-news-native-remedies.html">Health News &amp; Info</a></li>
+                  <li><a href="/about_us.shtml">About our Company</a></li>
+                  <li><a href="/native-remedies-community-involvement.html">Community Involvement</a></li>
+                </ul>      
+        </div>
+        
+        
+          <div class="footerUpdateColumn2">
+            <p class="footerUpdateHeader">Resources</p>
+              <ul>
+                  <li><a href="/articles/index.html">Health Articles</a></li>
+                  <li><a href="/ebooks/index.html">Download eBook</a></li>
+                  <li><a href="/news-natural-herbal-remedies-index.shtml">Newsletter Archives</a></li>
+                  <li><a href="/ailment-disease-list-remedy.html">Health A-Z</a></li>
+                  <li><a href="/testimonials/index.html">Testimonials</a></li>
+                  <li><a href="/faqs/index.html">FAQs</a></li>
+                  <li><a href="/specials.shtml">Product Specials</a></li>
+            </ul>   
+        </div>
+        
+          <div class="footerUpdateColumn2">
+            <p class="footerUpdateHeader">Services</p>
+                <ul>
+                  <li><a href="/cart/index.php/customer/account/login/">Account Login</a></li>
+                  <li><a href="/gift-certificates-natural-herbal-remedies.shtml">Gift Certificates</a></li>
+                  <li><a href="/auto-ship.html">EasyShip Program</a></li>
+                  <li><a href="/shippingpolicy.shtml">Worldwide Shipping</a></li>
+                  <li><a href="/currency-converter.shtml">Currency Converter</a></li>
+                  <li><a href="/site_map.shtml">Site Map</a></li>
+                </ul>  
+        </div>
+
+          <div class="footerUpdateColumn2">
+            <p class="footerUpdateHeader">Partner with Us</p>
+                <ul>
+                  <li><a href="/native-remedies-affiliate-program.shtml">Become an Affiliate</a></li>
+                  <li><a href="/wholesale-drop-ship-distributor.html">Become a Distributor</a></li>
+            </ul>     
+        </div>
+        
+          <div class="footerUpdateColumn2">
+            <p class="footerUpdateHeader">Our Policies</p>
+               <ul>
+                  <li><a href="/returns-policy.html">Return Policy</a></li>
+                  <li><a href="/shippingpolicy.shtml">Shipping Policy</a></li>
+                  <li><a href="/privacy.shtml">Privacy Policy</a></li>
+            </ul>
+        </div>
+        
+        <div class="clear"></div>
+      </div>
+      
+    </div><!-- close: #footerUpdateNav -->
+</div><!-- close: #footerUpdate -->
+
+
 		<div class="clear"></div>
 	</div><!--close: #wrapper -->	
 	<div id="disclaimer">
@@ -2040,6 +1363,7 @@ pageTracker._trackPageview();
 
 
 <!--PICOSEARCH_SKIPTEXTEND-->
+<script type="text/javascript" src="//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1753.js"> </script>
 <script language="JavaScript" type="text/javascript" src="/scripts/overture.js"></script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=OBFV5AJ8UAQ6SM2B78CVG78KJ4"></script>
 
 <!-- InstanceEnd -->
