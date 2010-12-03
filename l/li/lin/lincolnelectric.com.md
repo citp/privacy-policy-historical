@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincolnelectric.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307042546id_/http%3A//lincolnelectric.com/corporate/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincolnelectric.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203140942id_/http%3A//www.lincolnelectric.com/corporate/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Lincoln Electric
 
