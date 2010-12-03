@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109122451id_/http%3A//www.popshops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203034011id_/http%3A//www.popshops.com/privacy) for the most accurate reproduction.*
 
 # - Affiliate program data feeds in PopShops
 
