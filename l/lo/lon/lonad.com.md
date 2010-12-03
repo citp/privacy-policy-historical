@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonad.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516224237id_/http%3A//www.lonad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonad.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203133236id_/http%3A//www.lonad.com/privacy-policy) for the most accurate reproduction.*
 
 # Lon's Article Directory » Privacy Policy
 
