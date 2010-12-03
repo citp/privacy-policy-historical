@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420044347id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203150409id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
 
 # Coffee Detective Privacy Policy and Contact Information
 
