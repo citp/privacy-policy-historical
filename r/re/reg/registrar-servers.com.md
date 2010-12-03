@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registrar-servers.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028085905id_/http%3A//www.namecheap.com/legal/webhosting/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrar-servers.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203090400id_/http%3A//www.namecheap.com/legal/webhosting/privacy-policy.asp) for the most accurate reproduction.*
 
 # NameCheap.com - Web Hosting - Privacy Policy
 
@@ -102,7 +102,8 @@ When Your NameCheap account is cancelled (either voluntarily or involuntarily) a
 If You have questions or concerns regarding this statement, You can contact NameCheap at [support@namecheap.com](mailto:support@namecheap.com). You can also write to Us at the following address:
 
 Namecheap.com   
-8939 S. Sepulveda Blvd. #110 - 732,   
-Westchester,    
-CA 90045   
-US 
+11400 W. Olympic Blvd.   
+Suite 200    
+Los Angeles, CA 90064    
+USA    
+[support@namecheap.com](mailto:support@namecheap.com)
