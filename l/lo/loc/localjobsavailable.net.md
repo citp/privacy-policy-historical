@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localjobsavailable.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210104id_/http%3A//www.localjobsavailable.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localjobsavailable.net privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203133836id_/http%3A//localjobsavailable.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
