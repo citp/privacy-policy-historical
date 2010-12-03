@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113034357id_/http%3A//www.webng.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203220509id_/http%3A//webng.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
