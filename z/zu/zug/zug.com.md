@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zug.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125020924id_/http%3A//www.zug.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zug.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203202130id_/http%3A//www.zug.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # About ZUG: Privacy Policy
 
@@ -27,6 +27,8 @@ a. Personal Information. We may use contact data to send you information about o
 We may share demographic data with advertisers and other third parties, including disclosure to advertisers and sponsors of our contests and sweepstakes in which you participate. We may share contact data with other companies who may want to send you information about their products or services. If you do not want us to share your contact data with any third parties, please [contact us](http://www.zug.com/about/contact/). In the event your Personal Information is being sold, rented and/or shared with any third party, we will use good faith efforts to post a notice on the Website clearly stating that the information is so being used and/or give you the opportunity to opt out of such use.
 
 b. Traffic Data. We may use Traffic Data to improve the Website, for marketing purposes, and to analyze usage of the Website.
+
+c. Targeted Advertising. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 **3\. User Choice Regarding Collection, Use and Distribution of Personal Information**
 
