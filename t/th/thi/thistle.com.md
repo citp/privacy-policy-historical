@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thistle.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405072819id_/http%3A//www.thistle.com/en/group/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thistle.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203230825id_/http%3A//www.thistle.com/en/group/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Thistle
 
