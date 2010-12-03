@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covershut.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302155924id_/http%3A//covershut.com/prvivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covershut.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203021148id_/http%3A//www.covershut.com/prvivacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Covers Hut
 
