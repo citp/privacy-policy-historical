@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leasticoulddo.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612091152id_/http%3A//www.leasticoulddo.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasticoulddo.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203165337id_/http%3A//www.leasticoulddo.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Least I Could Do: the Webcomic » About » Privacy Policy
 
