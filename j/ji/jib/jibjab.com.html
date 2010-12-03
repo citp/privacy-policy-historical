@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jibjab.com privacy policy that was archived on 2010-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100220015026id_/http%3A//sendables.jibjab.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jibjab.com privacy policy that was archived on 2010-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203121318id_/http%3A//sendables.jibjab.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,22 +8,33 @@
   
 
   
-  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
   <title></title>
   
 	
 	<link rel="shortcut icon" type="image/ico" href="http://aka.zero.jibjab.com/images/common/favicon.ico">
 	
+
+  <meta property="fb:app_id" content="8725050364">
+  <meta property="fb:admins" content="616895897,100001251859939,667285808,100001200116671,500586681,2509085">
 	
   <link href="http://aka.zero.jibjab.com/stylesheets/common.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://aka.zero.jibjab.com/stylesheets/search.css" media="screen" rel="stylesheet" type="text/css">
   <link href="http://aka.zero.jibjab.com/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
-  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
   <script src="http://aka.zero.jibjab.com/javascripts/jquery-all.js" type="text/javascript"></script>
 <script src="http://aka.zero.jibjab.com/javascripts/application.js" type="text/javascript"></script>
+<script src="http://aka.zero.jibjab.com/javascripts/search.js" type="text/javascript"></script>
+  <script src="http://aka.zero.jibjab.com/javascripts/jquery_cookie.js" type="text/javascript"></script>
   
 
-  <link href="http://aka.zero.jibjab.com/stylesheets/about.css" media="screen" rel="stylesheet" type="text/css">
+  
+  <script src="http://aka.zero.jibjab.com/javascripts/jjfb.js" type="text/javascript"></script>
+	<script src="http://aka.zero.jibjab.com/javascripts/JJFB_ACShare.js" type="text/javascript"></script>
+
+      <link href="http://aka.zero.jibjab.com/stylesheets/about.css" media="screen" rel="stylesheet" type="text/css">
+    
+  
+  <link href="http://aka.zero.jibjab.com/stylesheets/new_common.css" media="screen" rel="stylesheet" type="text/css">
   
   
   
@@ -38,31 +49,30 @@
   <![endif]-->
   <!--[if gte IE 7]><link href="http://aka.zero.jibjab.com/stylesheets/ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
-  <script src="http://aka.zero.jibjab.com/javascripts/facebook.js" type="text/javascript"></script>
-  <script src="http://aka.zero.jibjab.com/javascripts/facebook_birthday.js" type="text/javascript"></script>
   
-  
-  <script type="text/javascript" charset="utf-8">
-      	var _omniture_site_id = "jjsendables,jjc0";
     
-    var _http_base = "http://sendables.jibjab.com";
-    var _ssl_base = "https://sendables.jibjab.com";
-    var _asset_base = "http://aka.zero.jibjab.com";
-    var _facebook_api = "a0d8a7800c0b80dca9837c72eb19fc28";
-    var _facebook_registered = false;
-    var _jibjab_logged_in = false;
-    var _facebook_logged_in = false;
-    var _facebook_post_template_id = "117018805364";
-    var _facebook_friend_post_template_id = "144035555364";
-    var _xd_receiver = "/xd_receiver.html";
+  <script type="text/javascript" charset="utf-8">
+      	var _omniture_site_id = "jjsendables";
+    
+    var SiteConfig = {
+      http_base : "http://sendables.jibjab.com",
+      ssl_base : "https://sendables.jibjab.com",
+      asset_base : "http://aka.zero.jibjab.com",
+      fb_post_cmpid : 'jj_fb_self',
+      fb_friend_post_cmpid : 'jj_fb_friend',
+      site_name : "JibJab"
+    }
 
-		// facebook post stuff
-		var _site_name = "JibJab";
-		var _fb_post_cmpid = 'jj_fb_self';
-		var _fb_friend_post_cmpid = 'jj_fb_friend';
-		var _wall_post_template = 'This JibJab Sendable was shared by {*actor*}.';
-		var _friend_wall_post_template = '{*actor*} posted a JibJab Sendable for {*target*}.';
-		
+    // channel-specific settings for facebook wall posts (with reasonable defaults)
+var FBWallPostConfig = {
+	name_label : '{*title*}',
+	name_url : '{*link*}',
+	description : 'Created on JibJab.com',
+	action_link_label : 'Make Your Own',
+	action_link_url : 'http://sendables.jibjab.com',
+	template_description : ''
+}
+
    
     
   	
@@ -74,59 +84,162 @@
   
 </head>
 
-<body>
-<div id="wrap">
+<body class="channel_jibjab">
+<div id="fb-root"></div>
+<script type="text/javascript" charset="utf-8">
+  JJFB.init({"applicationId":"8725050364","apiKey":"a0d8a7800c0b80dca9837c72eb19fc28"});
+  
+  
+</script>
+
+<div id="hwrap">
   <div id="header">
+  
+
   
 
   <!-- Make sure there is something in the url or it will load the home page which will really suck. -->
   
-    <a id="logo" class="trans" href="/" style="background: transparent url(http://aka.zero.jibjab.com/files/production/jibjabhomepagelogo2009.gif) no-repeat scroll 0 0;">JibJab®</a>
+    <a id="logo" href="/" style="background: transparent url(http://aka.zero.jibjab.com/files/production/christmaslogo.png) no-repeat scroll 0 0;">JibJab®</a>
   
 	
 	  
 	    <ul id="main_nav">
-	      <li><a class="ecards " href="/ecards">eCards</a></li>
+        
+        
+          <li><a class="holidays " href="/holidays">Hollidays</a></li>
+        
+                  <li><a class="store " href="/store">Gifts</a></li>
+        	      <li><a class="ecards " href="/ecards">eCards</a></li>
 	      <li><a class="everyday_fun " href="/everyday_fun">Everyday Fun</a></li>
-	      <li><a class="originals_nav " href="/originals">Originals</a></li>
-	    </ul>
+        	    </ul>
 	    
 
-	  
-	  
-  	  <ul id="my_nav">   
-  	    	    <li class="first facebook">
-  	      <a href="#" onclick="JJFacebook.show_login(); return false;">
+		
+					
+		<script type="text/javascript" charset="utf-8">
+			
+				var current_facebook_user = null;
+			
+		</script>
+		
+ 	  <ul id="my_nav">   
+ 	  	  	    <li class="first facebook">
+  	      <a href="#" onclick="JJFB.login_with_perms(JJFB.perms.default_required, JJFB.perms.default_optional, JJFB.reloadPage); return false;">
   	        <img id="fb_login_image" src="http://aka.zero.jibjab.com/images/icons/connect_light_small_short.gif" alt="Connect"> Login with Facebook
   	      </a>
   	    </li>
   	  
-  	    	    <li><a href="/login" onclick="ModalHelper.showLoginModal(); return false">Login</a></li>
-  	    <li><a href="/register" onclick="ModalHelper.showLoginModal(); return false">Join</a></li>
-  	    	  </ul>
-	  	
-</div>
+  	  
+  	    <li><a href="/login" onclick="ModalHelper.showLoginModal(); return false">Login</a></li>
+        
+        <li>
+          
+            <a href="/register?template_id=204441&amp;from=/ecards&amp;ref=subscribe&amp;trs=am">Become a Member</a>
+    	    
+  	    </li>
+			
+		</ul>
 
-  <div class="primary">
+		
+		
+      <script type="text/javascript" charset="utf-8">
+  trackSearchTerm = function(term) {
+    if(term.length == 0) {
+      return;
+    }
+    $.cookie('search_term_tracking', term)
+    var script = "var sc=s_gi('jjsendables');sc.events='event8';sc.linkTrackEvents='event8';sc.prop8='REPLACE_MY_TERM';sc.eVar8='REPLACE_MY_TERM';sc.linkTrackVars='events,prop8,eVar8';try { sc.tl(this, 'o');} catch (err) { };"
+    script = script.replace(/\'REPLACE_MY_TERM\'/g, "term")
+    eval(script)  
+  }
+  var remote_ip = '207.241.228.173';
+</script>
+
+	
+
+  <div class="s" id="searchForm">
+    <form class="gsc-search-box" accept-charset="utf-8">
+      <table cellspacing="0" cellpadding="0" class="gsc-search-box">
+        <tbody>
+          <tr>
+            <td class="gsc-input">
+              <input id="search-input" type="text" autocomplete="off" size="10" class="gsc-input" name="search_q" title="search">
+            </td>
+            <td class="gsc-search-button">
+              <input id="search-submit" type="submit" value="Search" class="gsc-search-button" title="search">
+            </td>
+            <td class="gsc-clear-button">
+              <div class="gsc-clear-button" title="clear results">
+                &nbsp;
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table cellspacing="0" cellpadding="0" class="gsc-branding">
+        <tbody>
+          <tr>
+            <td class="gsc-branding-user-defined"></td>
+            <td class="gsc-branding-text">
+              <div class="gsc-branding-text">
+                powered by
+              </div>
+            </td>
+            <td class="gsc-branding-img">
+             	<img src="http://www.google.com/uds/css/small-logo.png" class="gsc-branding-img">
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </form>
+  </div>
+
+  <div class="searchResults" style="display:none;">
+    <div class="query">JibJab Search Results: <strong></strong></div>
+    <div class="items"></div>
+    <div class="g_branding">powered by <img src="http://www.google.com/uds/css/small-logo.png" alt="Google"></div>
+    <a id="sclose" href="javascript:void" onclick="closeSearchResults();return false;">Close</a>
+  </div>
+
+
+    
+  
+  </div>
+
+</div>
+<div id="wwrap">
+  <div id="wrap">
+    <div class="primary">
   <div class="sidebar">
+  <h3 class="about">About Us</h3>
+  <ul>
+    <li><a href="http://blog.jibjab.com/history/">History</a></li>
+    <li><a href="http://blog.jibjab.com/careers/">Careers</a></li>
+    <li><a href="http://blog.jibjab.com/">JibJab Blog</a></li>
+    <li><a href="http://www.facebook.com/jibjab">Facebook</a></li>
+    <li><a href="http://twitter.com/jibjab">Twitter</a></li>
+  </ul>
   <h3 class="support">Support</h3>
-	<ul class="first">
-		<li><a href="http://www.webetools.com/jibjab_help/users/kb.php"><abbr title="Frequently Asked Questions">FAQ</abbr>/Help</a></li>
-		<li><a href="/about/terms_of_service">Terms of Service</a></li>
-		<li><a href="/about/terms_of_sale">Terms of Sale</a></li>
-		<li><a class="active" href="/about/privacy">Privacy Policy</a></li>
-		<li><a href="/about/legal">Legal Notices</a></li>
-		<li><a href="http://www.webetools.com/jibjab_help/users/kb.php">Contact</a></li>
-	</ul>
-  <h3 class="info">JibJab Info</h3>
-	<ul>
-		<li><a href="/about">About JibJab</a></li>
-    <li><a href="/about/affiliates">Affiliates Program</a></li>
-		<li><a href="/about/investor">Investors</a></li>
-		<li><a href="http://blog.jibjab.com">Blog</a></li>
-	</ul>
+  <ul>
+    <li><a href="http://jibjab.zendesk.com/home">Help</a></li>
+    <li><a href="http://jibjab.zendesk.com/entries/162878-contact-us">Contact Us</a></li>
+  </ul>
+  <h3 class="business">Business</h3>
+  <ul>
+    <li><a href="http://sendables.jibjab.com/about/affiliates">Affiliate Program</a></li>
+    <li><a href="http://jibjab.zendesk.com/entries/162878-contact-us">Partnerships</a></li>
+  </ul>
+  <h3 class="legal">Legal</h3>
+  <ul>
+		<li><a href="http://sendables.jibjab.com/about/legal">Legal Notices</a></li>
+		<li><a href="http://sendables.jibjab.com/about/terms_of_service">Terms of Service</a></li>
+		<li><a class="active" href="http://sendables.jibjab.com/about/privacy">Privacy Policy</a></li>
+		<li><a href="http://sendables.jibjab.com/about/terms_of_sale">Terms of Sale</a></li>
+  </ul>
   <img src="http://aka.zero.jibjab.com/images/about/puppet_promo.jpg" alt="Read the About pages">
 </div>
+
 	<div class="content">
 	  <h1>Privacy Policy</h1>
 
@@ -194,52 +307,50 @@
 	</div>
 </div>
 
-  <span class="not_semantic">&nbsp;</span>
+    <span class="not_semantic">&nbsp;</span>
+  </div>
 </div>
-<div id="footer">
+<div id="fwrap">
+
+  <div id="footer">
   <div class="logo">
     <a href="/">JibJab</a>
   </div>
-  <div class="footer_links">
-    <h4>Site Links</h4>
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/ecards">eCards</a></li>
-      <li><a href="/everyday_fun">Everyday Fun</a></li>
-      <li><a href="/originals">Originals</a></li>
-      <li><a href="/category/dances">JibJab Dances</a></li>
-      <li><a href="/category/crazy_characters">Crazy Characters</a></li>
-      <li><a href="/jokebox">JokeBox</a></li>
-      <li><a href="/about">About Us</a></li>
-      <li><a href="http://blog.jibjab.com">Follow Us</a>
-        <ul>
-          <li><a href="http://blog.jibjab.com">Blog</a></li>
-          <li><a href="http://facebook.jibjab.com">Facebook</a></li>
-          <li><a href="http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelID=131256316">MySpace</a></li>
-          <li><a href="http://twitter.com/jibjab">Twitter</a></li>
-          <li><a href="http://www.youtube.com/jibjab">YouTube</a></li>
-        </ul>
-      </li>
-    </ul>
-    <ul>
-      <li><a href="/ecards">eCard Categories</a>
-        <ul>
-          <li><a href="/category/anniversary">Anniversary</a></li>
-          <li><a href="/category/birthdays">Birthday</a></li>
-          <li><a href="/category/cheer_up">Cheer Up</a></li>
-          <li><a href="/category/congrats">Congratulations</a></li>
-          <li><a href="/category/engagement">Engagement</a></li>
-          <li><a href="/category/get_well">Get Well</a></li>
-          <li><a href="/category/good_luck">Good Luck</a></li>
-          <li><a href="/category/st_patricks_day">St. Patrick's Day</a></li>
-          <li><a href="/category/love">Love</a></li>
-          <li><a href="/category/sorry">Sorry</a></li>
-          <li><a href="/category/starring_you">Starring You!</a></li>
-          <li><a href="/category/thanks">Thank You</a></li>
-          <li><a href="/category/wedding">Wedding</a></li>
-        </ul>
-      </li>
-    </ul>
+  <div class="footer_links">    
+    
+<h4>Site Links</h4>
+<ul>
+          <li class="tier1"><a href="/">Home</a></li>
+          <li class="tier1"><a href="/ecards">eCards</a></li>
+          <li class="tier1"><a href="/everyday_fun">Everyday Fun</a></li>
+          <li class="tier1"><a href="/originals">Originals</a></li>
+          <li class="tier1"><a href="/category/dances">JibJab Dances</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/everyday_fun/category/sy_profile_pics">Profile Pics</a></li>
+          <li class="tier1"><a href="/jokebox">JokeBox</a></li>
+          <li class="tier1"><a href="/about">About Us</a></li>
+          <li class="tier1"><a href="http://blog.jibjab.com/">Follow Us</a></li>
+          <li class="tier2"><a href="http://blog.jibjab.com">Blog</a></li>
+          <li class="tier2"><a href="http://facebook.com/jibjab">Facebook</a></li>
+          <li class="tier2"><a href="http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelID=131256316">MySpace</a></li>
+          <li class="tier2"><a href="http://twitter.com/jibjab">Twitter</a></li>
+          <li class="tier2"><a href="http://www.youtube.com/jibjab">YouTube</a></li>
+            </ul>
+      <ul>
+            <li class="tier1"><a href="/ecards">eCard Categories</a></li>
+          <li class="tier2"><a href="/ecards/category/anniversary">Anniversary</a></li>
+          <li class="tier2"><a href="/ecards/category/birthdays">Birthday</a></li>
+          <li class="tier2"><a href="/ecards/category/cheer_up">Cheer Up</a></li>
+          <li class="tier2"><a href="/ecards/category/congrats">Congratulations</a></li>
+          <li class="tier2"><a href="/ecards/category/engagement">Engagement</a></li>
+          <li class="tier2"><a href="/ecards/category/get_well">Get Well</a></li>
+          <li class="tier2"><a href="/ecards/category/good_luck">Good Luck</a></li>
+          <li class="tier2"><a href="/ecards/category/love">Love</a></li>
+          <li class="tier2"><a href="/ecards/category/sorry">Sorry</a></li>
+          <li class="tier2"><a href="/everyday_fun/category/starring_you">Starring You!</a></li>
+          <li class="tier2"><a href="/ecards/category/thanks">Thank You</a></li>
+          <li class="tier2"><a href="/ecards/category/wedding">Wedding</a></li>
+  </ul>
+
   </div>
   <div class="copyright">
     <h4>Copyright &amp; Privacy</h4>
@@ -254,11 +365,11 @@
   </div>
   <div class="support">
     <h4>Customer Support</h4>
-    <p>For Customer Support please <a href="http://help.jibjab.com/jibjab_help/users/kb.php">click here</a>.</p>
+    <p>For Customer Support please <a href="http://jibjab.zendesk.com/home">click here</a>.</p>
     <ul>
       <li><a href="/about/affiliates">Become an Affiliate</a></li>
-      <li><a href="http://help.jibjab.com/jibjab_help/users/kb.php?category_id=1">Contact Us</a></li>
-      <li><a href="http://help.jibjab.com/jibjab_help/users/kb.php"><abbr title="Frequently Asked Questions">FAQ</abbr></a></li>
+      <li><a href="http://jibjab.zendesk.com/entries/162878-contact-us">Contact Us</a></li>
+      <li><a href="http://jibjab.zendesk.com/home"><abbr title="Frequently Asked Questions">FAQ</abbr></a></li>
     </ul>
     <div class="payment_info">
       <h4>Payment Information</h4>
@@ -283,10 +394,14 @@
     if($.browser.msie) {
 			$('input').keydown(function(e){
 	      if (e.keyCode == 13) {
-	        if($(this).parents('form').attr('onSubmit')()) {
-	          $(this).parents('form').trigger('submit');
-	          return false;
-	        }
+					// don't error out if there's another input on the screen that doesn't have an onSubmit fn defined
+					if ($(this).parents('form').attr('onSubmit') != undefined)
+					{
+		        if($(this).parents('form').attr('onSubmit')()) {
+		          $(this).parents('form').trigger('submit');
+		          return false;
+		        }
+					}
 	      }
 	    });
 		}
@@ -496,7 +611,7 @@
     <div class="show white_box using_fb">
       <h3>Sign in using your Facebook account</h3>
       <p>It's fast and easy to use your Facebook account to sign in to JibJab</p>
-      <a class="fb_button" href="#" onclick="ModalHelper.hideModal('sign_in'); JJFacebook.show_login(ModalHelper._authenticatedDest); return false;"><img src="http://aka.zero.jibjab.com/images/buttons/connect_with_facebook.png" alt="Connect with Facebook"></a>
+      <a class="fb_button" href="#" onclick="ModalHelper.hideModal('sign_in'); JJFB.login_with_perms(JJFB.perms.default_required,JJFB.perms.default_optional, ModalHelper.gotoAuthenticatedDest); return false;"><img src="http://aka.zero.jibjab.com/images/buttons/connect_with_facebook.png" alt="Connect with Facebook"></a>
       <p class="note">Don't have a Facebook account? <a href="#" onclick="ModalHelper.showModal(&quot;reg_dialog&quot;); ContentViewPageSupport.rra(&quot;begin_registration&quot;); return false;">Click here to create a JibJab account.</a></p>
     </div>
     <p class="center">or</p>
@@ -528,6 +643,16 @@
 </div>
 <!--END SIGN IN MODAL-->
 
+<!--FACEBOOK EMAIL MERGE FORM-->
+<div class="jqmWindow modal_form mod_big" id="merge_fb_email">
+  <h2>This email address is already in use <a href="#" onclick="ModalHelper.hideModal(&quot;merge_fb_email&quot;); ModalHelper.gotoAuthenticatedDest(); window.location.reload(true); return false;">Close</a></h2>
+  <div class="show mod_wrap">
+    <p>This email address is already in use.</p>
+  </div>
+</div>
+<!--END FACEBOOK EMAIL MERGE FORM-->
+
+
 
 
 
@@ -540,15 +665,25 @@ http://www.omniture.com -->
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.eVar4="JibJab"
-s.eVar21="Not a Member"
-s.prop21="Not a Member"
-s.server="JibJab"
-s.channel="home"
-s.pageName="About: Privacy"
-s.eVar2="About: Privacy"
-s.prop4="JibJab"
-s.eVar3="home"
+s.eVar21="logged out";
+s.eVar22="No";
+s.prop21="logged out";
+s.eVar23="No";
+s.prop22="No";
+s.prop8="";
+s.eVar24="No";
+s.prop23="No";
+s.eVar8="";
+s.prop9="";
+s.eVar25="No";
+s.prop24="No";
+s.eVar9="";
+s.prop25="No";
+s.channel="JibJab";
+s.pageName="About: Privacy";
+s.eVar2="About: Privacy";
+s.eVar3="JibJab";
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.10. -->
@@ -563,28 +698,7 @@ _qacct="p-19vkMD0U79EGE";quantserve();</script>
 <!-- End Quantcast tag -->
 
 
-<!-- Begin Chartbeat -->
-<script type="text/javascript">
-var _sf_async_config={uid:2648,domain:"sendables.jibjab.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-       "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-
-</script>
-<!-- End Chartbeat -->
+</div>
 
 
-
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</body></html>
