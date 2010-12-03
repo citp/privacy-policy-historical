@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525040815id_/http%3A//www.tradeford.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203110750id_/http%3A//www.tradeford.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TradeFORD.com, Online B2B Portal for International Trade
+
+**Information** > **Privacy Policy**
+
+## Privacy Policy
 
 [TradeFORD](http://www.tradeford.com/) respects the privacy of your information. Our Privacy Policy governs our online information practices and reflects our commitment to protect your privacy.
 
@@ -16,8 +20,8 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 We also reserve the rights to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement or by any stock/securities exchange, governmental or regulatory authority.
 
-**Cookies:** TradeFORD may set and access cookies on your computer. TradeFORD allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to TradeFORD's cookies. 
+**Cookies:** TradeFORD may set and access cookies on your computer. TradeFORD allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to TradeFORD's cookies.
 
 **Log Files:** We use IP addresses to obtain metrics, analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
 
-**Changes to This Policy:** TradeFORD may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+**Changes to This Policy:** TradeFORD may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
