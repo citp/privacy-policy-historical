@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggio.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626042549id_/http%3A//wiggio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggio.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204001241id_/http%3A//wiggio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Wiggio Privacy Policy - Makes it easy to work in groups.
 
