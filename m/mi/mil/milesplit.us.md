@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milesplit.us privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415114513id_/http%3A//milesplit.us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesplit.us privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203014003id_/http%3A//usa.milesplit.com/help/privacy) for the most accurate reproduction.*
 
-# MileSplit United States - Privacy Policy
+# Privacy Policy - MileSplit United States
 
 Updated: October 18, 2007 
 
