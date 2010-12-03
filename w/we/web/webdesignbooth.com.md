@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignbooth.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614035930id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignbooth.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204002641id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
