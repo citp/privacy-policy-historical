@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607172828id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203095058id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
-# Hy-Vee - Company - Privacy
+# Privacy
 
   * [Community](https://web.archive.org/company/community/default.aspx)
   * [About Hy-Vee](https://web.archive.org/company/about-hy-vee/default.aspx)
@@ -9,6 +9,7 @@
   * [Diversity](https://web.archive.org/company/careers/diversity.aspx)
   * [Press Room](https://web.archive.org/company/press-room/default.aspx)
   * [Sustainability](https://web.archive.org/company/sustainability/default.aspx)
+  * [Mobile](https://web.archive.org/company/mobile-alerts.aspx)
 
 | 
 
