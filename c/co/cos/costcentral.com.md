@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costcentral.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611063331id_/http%3A//www.costcentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcentral.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203220459id_/http%3A//www.costcentral.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -121,4 +121,4 @@ If, however, we are going to use users' personally identifiable information in a
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20100611063331id_/http%3A//www.costcentral.com/contact.php).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20101203220459id_/http%3A//www.costcentral.com/contact.php).
