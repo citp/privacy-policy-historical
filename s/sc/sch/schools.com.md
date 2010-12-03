@@ -1,88 +1,102 @@
-> *The following text is extracted and transformed from the schools.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805074113id_/http%3A//www.schools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203011754id_/http%3A//www.schools.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy (Schools.com)
+# Privacy Policy
 
-We at QuinStreet and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
+## Company Practices Regarding Your Privacy
 
-QuinStreet has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information.
+We at QuinStreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit QuinStreet's Web pages without telling us who you are or revealing any Personal Information about yourself.
+QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ.
 
-If you choose to provide us with your Personal Information on the Web, we may transfer that Information within QuinStreet to third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
+## Your California Privacy Rights
 
-QuinStreet strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, QuinStreet intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
-  
+If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at [info@quinstreet.com](mailto:info@quinstreet.com) or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 950 Tower Lane, 6th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
 
+## Information Collected by QuinStreet
 
-## Cookies and Other Tracking Technologies
+_Non-Personally Identifiable Consumer Information_
 
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+QuinStreet collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the QuinStreet site, the pages of the site you visited and the URL of the page you visited upon leaving the site.
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
+QuinStreet may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information.
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. To protect your privacy, we have adopted the following principles:
+_Personally Identifiable Consumer Information_
 
-  * Notice
-  * Choice
-  * Security
-  * Access/Accuracy
+In addition, at some of the QuinStreet web sites, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.
 
+## How Collected Information is Used
 
+The non-personally identifiable information that QuinStreet collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
 
-Where QuinStreet collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of QuinStreet or those working on QuinStreet's behalf. QuinStreet does not intend to transfer Personal Information without your consent to third parties who are not bound to act on QuinStreet's behalf unless such transfer is legally required. Sometimes the purpose statement for our web pages are set forth in privacy policies specifically set forth or linked to from that page.
+If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts.
 
-  
+## Sharing Information with Third Parties
 
+All personally identifiable information you provide is maintained in confidence by QuinStreet. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
 
-## Choice
+Your non-personally identifiable data may be shared with third-party partners of QuinStreet on an anonymous basis.
 
-You may choose whether or not to provide Personal Information to QuinStreet. The notice we intend to provide where QuinStreet collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of QuinStreet's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+When you request information from QuinStreet or one or more of our clients, we may transfer that information within QuinStreet or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested.
 
-If you chose to have a relationship with QuinStreet, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
+We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that QuinStreet is very careful in selecting companies with whom it does business.
 
-  
+In addition to the above situations where your information may be shared with others, there is also the possibility that QuinStreet, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
 
+Finally, QuinStreet may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.
 
 ## Security
 
-Wherever your Personal Information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+Wherever your personally identifiable information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while QuinStreet will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.
 
-  
+## Choice
 
+_Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out_
+
+Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting QuinStreet web sites.
+
+_Personally Identifiable Consumer Information - Opting-Out_
+
+You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by [clicking here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
 
 ## Access/Accuracy
 
-To the extent that you do provide us with Personal Information, QuinStreet wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy@quinstreet.com](mailto:mailto:privacy@quinstreet.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [info@quinstreet.com](mailto:info@quinstreet.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
 
-  
+## Analytics
 
-
-## Third Party Services
-
-Third parties may provide certain services available on QuinStreet.com or its affiliate sites on QuinStreet's behalf. QuinStreet may provide information, including Personal Information, that QuinStreet collects on the Web to third-party service providers and our clients to help us deliver programs, products, information, and services. QuinStreet will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on QuinStreet's behalf.
-
-QuinStreet does not intend to transfer Personal Information without your consent to third parties who are not bound to act on QuinStreet's behalf unless such transfer is legally required. Similarly, it is against QuinStreet's policy to sell Personal Information collected online without consent.
-
-  
-
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to analyze user data to better understand and optimize the user experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 ## Children's Privacy
 
-QuinStreet.com and its affiliate sites are not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
+In compliance with the Children's Online Privacy Protection Act (COPPA), QuinStreet.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
 
-  
+## Refer a Friend
 
+Some of QuinStreet's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a QuinStreet site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. QuinStreet stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at [info@quinstreet.com](mailto:info@quinstreet.com) to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
 
 ## Commitment
 
-Protecting your privacy online is an evolving area, and QuinStreet's Web sites are constantly evolving to meet these demands.
+Protecting your privacy online is an evolving area, and QuinStreet's web sites are constantly changing to meet these demands.
 
-If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at [privacy@quinstreet.com](mailto:mailto:privacy@quinstreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
-
-  
-
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [info@quinstreet.com](mailto:info@quinstreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
 
 ## Your Consent
 
-By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to QuinStreet's processing of Personal Information for the purposes given above as well as those explained where QuinStreet collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+By using this web site, you consent to the terms of our Online Privacy Policy and to QuinStreet's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy.
+
+## Contacting Us
+
+For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [info@quinstreet.com](mailto:info@quinstreet.com) or you can send correspondence to the following address:
+
+Privacy  
+QuinStreet  
+950 Tower Lane, 6th Floor  
+Foster City, CA 94404
+
+Date: October 16, 2009
