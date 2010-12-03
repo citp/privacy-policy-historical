@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510062051id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204001005id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
@@ -97,7 +97,7 @@ TechSmith takes steps to make sure that the personal information TechSmith uses 
 
 ### SECURITY
 
-TechSmith protects personal information under its control by industry standard security practices and measures, in order to prevent loss, misuse, unauthorized access, disclosure, alteration, or destruction. TechSmith limits access to personal information to those who have a business need. TechSmith does not keep personal information any longer than necessary to meet the business purpose for which it was collected, though in some cases, legal or regulatory reasons require that personal information not be deleted. TechSmith shall use its best efforts to quickly work to remedy any vulnerabilities found in our or software and to alert our customers about any potentially dangerous vulnerabilities. If you have questions about TechSmith's commitment to security or concerns about a security issue in one of our products or sites, please visit our [security center.](http://www.techsmith.com/security/security.asp)
+TechSmith protects personal information under its control by industry standard security practices and measures, in order to prevent loss, misuse, unauthorized access, disclosure, alteration, or destruction. TechSmith limits access to personal information to those who have a business need. TechSmith does not keep personal information any longer than necessary to meet the business purpose for which it was collected, though in some cases, legal or regulatory reasons require that personal information not be deleted. TechSmith shall use its best efforts to quickly work to remedy any vulnerabilities found in our or software and to alert our customers about any potentially dangerous vulnerabilities. If you have questions about TechSmith's commitment to security or concerns about a security issue in one of our products or sites, please visit our [security center.](https://web.archive.org/security/security.asp)
 
 * * *
 
@@ -147,4 +147,4 @@ TechSmith regularly reviews its compliance with this Privacy Policy. Please feel
 
 TechSmith does not guarantee error-free performance under this Privacy Policy. TechSmith will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when TechSmith learns of any failure to comply with our Privacy Policy. TechSmith shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the State of Michigan and the United States to the extent applicable. 
 
-Last Updated: 01/31/2020 11:48:28 
+Last Updated: 01/31/2020 11:48:27 
