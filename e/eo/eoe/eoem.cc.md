@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502235836id_/http%3A//www.eoem.cc/about%2C22-Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203042249id_/http%3A//www.eoem.cc/about%2C22-Privacy%2BPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy_Detail Info_Information_Wholesale discount online shop from China supplier,Mobile phone & electronics accessories
+# Privacy Policy
 
   **Last modified: August 8, 2008**
 
