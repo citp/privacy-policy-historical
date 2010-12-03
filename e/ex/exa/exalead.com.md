@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exalead.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822035435id_/http%3A//www.exalead.com/software/company/privacy-statement/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exalead.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203151949id_/http%3A//www.exalead.com/software/company/privacy-statement/index.php) for the most accurate reproduction.*
 
 # Exalead Privacy Statement
 
@@ -7,10 +7,11 @@ Last modified: 06-09-2009
 ## Please Review Before Using This Site
 
 This privacy statement describes Exalead Group's information practices.   
-If you have any question about this privacy statement or Exalead's information practices, please contact Exalead here.   
+If you have any question about this privacy statement or Exalead's information practices, please contact Exalead [here](http://www.exalead.com/software/company/contact/).   
 This privacy statement applies to all websites that link to this Privacy Statement:   
-[http://corporate.exalead.com](http://corporate.exalead.com/) \- <http://www.exalead.com/software>   
-[http://corporate.exalead.fr](http://corporate.exalead.fr/) \- <http://fr.exalead.com/software/>   
+<http://www.exalead.com/software>   
+<http://fr.exalead.com/software/>   
+<http://es.exalead.com/software/>   
 Exalead is not responsible for information practices or content of other websites, even if these websites are referred to or linked to from Exalead's websites. 
 
 ## 1.USE OF COLLECTED PERSONAL INFORMATION
@@ -54,7 +55,7 @@ A Website User's information will only be disclosed when compelled by legal orde
 ## 5.COMMUNICATIONS PREFERENCES
 
 Exalead allows Website users who provide contact information to decide how Exalead uses the information provided.   
-Websites users may manage (opt-out) the reception of marketing, newsletters or non-transactional communications by clicking the "Unsubscribe" link available at the bottom of Exalead's marketing emails. As far as communication and email reception is concerned, Website Users may also send a request specifying their preferences to [privacy@exalead.com](mailto:privacy@exalead) or by filling the "Contact us" form on the website itself.   
+Websites users may manage (opt-out) the reception of marketing, newsletters or non-transactional communications by clicking the "Unsubscribe" link available at the bottom of Exalead's marketing emails. As far as communication and email reception is concerned, Website Users may also send a request specifying their preferences to [privacy@exalead.com](mailto:privacy@exalead) or by filling the "[Contact us](http://www.exalead.com/software/company/contact/)" form on the website itself.   
 Exalead's customers cannot opt out of emails reception related to their support account as an Exalead customer.
 
 ## 6.SUPPORT CUSTOMER DATA
