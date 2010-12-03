@@ -1,0 +1,642 @@
+<!--The following is the downloaded HTML source of the videochaska.com privacy policy that was archived on 2010-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203141226id_/http%3A//www.videochaska.com/privacyPolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Video Chaska :: Privacy Policy</title>
+	<link rel="shortcut icon" href="favicon.ico">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="rating/css/rating.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<!--
+		function MM_preloadImages()
+		{
+			//v3.0
+			var d=document;
+			if(d.images)
+			{
+				if(!d.MM_p) d.MM_p=new Array();
+				var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+				if (a[i].indexOf("#")!=0)
+				{
+					d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
+				}
+			}
+		}
+	//-->
+</script>
+<script type="text/javascript" language="javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="js/vc.js"></script>
+<script type="text/javascript" language="javascript" src="js/manageCookies.js"></script>
+<script type="text/javascript" language="javascript" src="rating/js/behavior.js"></script>
+<script type="text/javascript" language="javascript" src="rating/js/rating.js"></script>
+</head>
+<body style="background-image: url(images/bg_innerpage.jpg); background-repeat:repeat-x;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td valign="top" align="center">
+<script type="text/javascript" src="lib/flashobject/swfobject.js"></script>
+<script language="javascript">
+//##---
+//##	This function redirect page to the channel specific data
+		function getChannel(cId)
+		{
+			self.location = 'channelPage.php?c='+cId;
+		}
+
+//##---
+//##	This function opens popup for open id login
+		function showLoginWindow()
+		{
+			window.open("openid/signin/selector/signin_openid.php","","width=500,height=400,resizable=yes,scrollbars=yes,menubar=no,top=210,left=300");
+		}
+
+//##---
+//##	Search specific functions starts here
+		function manipulateSearchValue(searchFieldObj)
+		{
+            if( searchFieldObj.value != '' && searchFieldObj.value != "Search your favourite shows" )
+            {
+                return true;
+            }
+            else
+			{
+				// alert('Please enter keyword for search.');
+				searchFieldObj.value = '';
+				searchFieldObj.focus();
+				return false;
+			}
+		}
+
+//##---
+//##	Other generic functions
+		function noError()
+		{
+			return true;
+		}
+		window.onerror = noError;
+</script>
+
+<table width="1003" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="25">&nbsp;</td>
+					<td width="280" valign="bottom"><a href="index.php" title="VideoChaska.com"><img border="0" alt="Video Chaska :: Home" title="Video Chaska :: Home" src="images/logo.jpg" width="280" height="86"></a></td>
+					<td width="231">&nbsp;</td>
+					<td width="353" valign="top">
+						
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+                                    <td width="26"><img src="images/spacer.gif" width="26" height="48"></td>
+                                    <td align="right" valign="top" colspan="2">
+                                        <div class="clearfix" style="border: 0px; padding:5px 10px; margin-top: 10px; width: auto; display: inline-block; float: right;">
+                                            											Welcome, Buddy | <a class="arialgreen_12" style="cursor:pointer;" onclick="javascript:showLoginWindow();">Sign In</a>
+                                                                                    </div>
+                                    </td>
+								</tr>
+								<tr>
+                                    <td width="26"><img src="images/spacer.gif" width="26" height="1"></td>
+                                    <td align="left" valign="top" colspan="1">
+                                        <form style="margin:0;" id="headerSearchForm" name="headerSearchForm" method="GET" action="search.php" onsubmit="return manipulateSearchValue(document.getElementById('q'));">
+                                                                                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                <tbody><tr>
+                                                    <td width="26" align="left" valign="top"><img src="images/zoom_icon.jpg" width="26" height="25"></td>
+                                                    <td class="searchbg" align="left"><input name="q" type="text" class="search_textfield" id="q" value="Search your favourite shows" onblur="if(this.value == '') {this.value = 'Search your favourite shows'}" onclick="if(this.value == 'Search your favourite shows') {this.value = '';}"></td>
+                                                    <td width="70" align="left" valign="top"><input type="submit" value="" style="background: url(images/search.jpg) top left no-repeat; width: 70px; height: 25px; margin:0; padding:0; border:0;"></td>
+                                                </tr>
+                                            </tbody></table>
+                                        </form>
+                                    </td>
+                                    <td width="93" valign="top">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<!--<tr>
+								<td align="right"><img src="images/spacer.gif" width="1" height="48" /></td>
+							</tr>-->
+							<tbody><tr>
+								<td class="listfield_bg">
+                                    <select name="channel" class="listfield" onchange="getChannel(this.value);" style="margin: 0 5px 0 10px;">
+										<option value="">Channel</option>
+										<option value="6">SET</option>
+										<option value="8">SAB</option>
+									</select>
+								</td>
+							</tr>
+						</tbody></table>
+                                    </td>
+								</tr>
+							</tbody></table>
+					</td>
+					<td width="21">&nbsp;</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+        <td align="left">
+            <table width="1003" border="0" cellspacing="0" cellpadding="0" class="top_nav">
+				<tbody><tr>
+					<td width="22" height="auto" align="left" valign="top"><img src="images/spacer.gif" width="22" height="1"></td>
+                                        <td style="width: 12.5%;" width="auto" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a href="index.php" class="arialgrey_14 menu_drop_anchor">HOME</a>
+                    </td>
+                    <td style="width: 12.5%;" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a class="arialgrey_14 menu_drop_anchor" rel="menu_drop_12" href="videoCategory.php?catid=12">Drama</a>
+                    </td>
+                    <td style="width: 12.5%;" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a class="arialgrey_14 menu_drop_anchor" rel="menu_drop_13" href="videoCategory.php?catid=13">Comedy</a>
+                    </td>
+                    <td style="width: 12.5%;" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a class="arialgrey_14 menu_drop_anchor" rel="menu_drop_14" href="videoCategory.php?catid=14">Horror</a>
+                    </td>
+                    <td style="width: 12.5%;" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a class="arialgrey_14 menu_drop_anchor" rel="menu_drop_15" href="videoCategory.php?catid=15">Events</a>
+                    </td>
+                    <td style="width: 12.5%;" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a class="arialgrey_14 menu_drop_anchor" rel="menu_drop_16" href="videoCategory.php?catid=16">Reality Show</a>
+                    </td>
+                    <td style="width: 12.5%;" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a class="arialgrey_14 menu_drop_anchor" rel="menu_drop_17" href="videoCategory.php?catid=17">Game Show</a>
+                    </td>
+                    <td style="width: 12.5%;" align="center" valign="middle" nowrap="nowrap" class="">
+                        <a class="arialgrey_14 menu_drop_anchor" rel="menu_drop_18" href="videoCategory.php?catid=18">Thriller</a>
+                    </td>
+					<!-- <td align="center" valign="middle"><a href="#" class="arialgreen_14">login</a></td> -->
+				</tr>
+			</tbody></table>
+            <div class="menu_drop_wrapper">
+                                <div align="center" id="menu_drop_12" class="menu_drop clearfix" style="display: none;">
+                        <ul class="clearfix">
+                                            <li>
+                            <a href="videoShow.php?showid=27" title="Baat Hamari Pakki Hai">Baat Hamari Pakki Hai</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=23" title="Ladies Special">Ladies Special</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=24" title="Love Story">Love Story</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=8" title="Rishta.Com">Rishta.Com</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=9" title="Seven">Seven</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=22" title="Sukh By Chance">Sukh By Chance</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=32" title="Tera Mujhse Hai Pehle Ka Naata Koi">Tera Mujhse Hai Pehle Ka Naata K...</a>
+                        </li>
+                                    </ul>
+            </div>
+                                <div align="center" id="menu_drop_13" class="menu_drop clearfix" style="display: none;">
+                        <ul class="clearfix">
+                                            <li>
+                            <a href="videoShow.php?showid=17" title="Comedy Circus">Comedy Circus</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=30" title="Comedy Circus ka Jadoo">Comedy Circus ka Jadoo</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=35" title="Comedy Circus ke Superstar">Comedy Circus ke Superstar</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=28" title="Comedy Ka Daily Soap">Comedy Ka Daily Soap</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=15" title="FIR">FIR</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=5" title="Lapataganj">Lapataganj</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=3" title="Mahi Way">Mahi Way</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=4" title="Mrs &amp; Mr Sharma Allahabadwale">Mrs &amp; Mr Sharma Allahabadwal...</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=7" title="Papad Pol - Shahbuddin Rathod Ki Rangeen Duniya">Papad Pol - Shahbuddin Rathod Ki...</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=18" title="Sajan Re Jhooth Mat Bolo">Sajan Re Jhooth Mat Bolo</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=2" title="Taarak Mehta Ka Ooltah Chashmah">Taarak Mehta Ka Ooltah Chashmah</a>
+                        </li>
+                                    </ul>
+            </div>
+                                <div align="center" id="menu_drop_14" class="menu_drop clearfix" style="display: none;">
+                        <ul class="clearfix">
+                                            <li>
+                            <a href="videoShow.php?showid=14" title="Aahat">Aahat</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=33" title="Aahat 2">Aahat 2</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=34" title="Aahat 3">Aahat 3</a>
+                        </li>
+                                    </ul>
+            </div>
+                                <div align="center" id="menu_drop_15" class="menu_drop clearfix" style="display: none;">
+                        <ul class="clearfix">
+                                            <li>
+                            <a href="videoShow.php?showid=16" title="CID Gallantry Awards">CID Gallantry Awards</a>
+                        </li>
+                                    </ul>
+            </div>
+                                <div align="center" id="menu_drop_16" class="menu_drop clearfix" style="display: none;">
+                        <ul class="clearfix">
+                                            <li>
+                            <a href="videoShow.php?showid=21" title="Entertainment Ke Liye Kuch Bhi Karega">Entertainment Ke Liye Kuch Bhi K...</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=1" title="Indian Idol 5">Indian Idol 5</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=19" title="Iss Jungle Se Mujhe Bachao">Iss Jungle Se Mujhe Bachao</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=11" title="Lift Kara De">Lift Kara De</a>
+                        </li>
+                                    </ul>
+            </div>
+                                <div align="center" id="menu_drop_17" class="menu_drop clearfix" style="display: none;">
+                        <ul class="clearfix">
+                                            <li>
+                            <a href="videoShow.php?showid=13" title="Dus Ka Dum">Dus Ka Dum</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=29" title="Kaun Banega Crorepati">Kaun Banega Crorepati</a>
+                        </li>
+                                    </ul>
+            </div>
+                                <div align="center" id="menu_drop_18" class="menu_drop clearfix" style="display: none;">
+                        <ul class="clearfix">
+                                            <li>
+                            <a href="videoShow.php?showid=31" title="Crime Patrol">Crime Patrol</a>
+                        </li>
+                                            <li>
+                            <a href="videoShow.php?showid=10" title="Powder">Powder</a>
+                        </li>
+                                    </ul>
+            </div>
+                        </div>
+		</td>
+	</tr>
+</tbody></table>			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+<table width="1003" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr>
+		<td valign="top"><img src="images/spacer.gif" width="1" height="11"></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<table width="1003" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="22" align="left" valign="top"><img src="images/spacer.gif" width="22" height="1"></td>
+					<td width="650" align="left" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="650">
+	<tbody><tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0" width="650">
+				<tbody><tr>
+					<td align="left" valign="top" colspan="2"><img height="13" width="1" src="images/spacer.gif"></td>
+				</tr>
+				<tr>
+					<td height="22" align="left" valign="top" class="arialgrey_18">Privacy Policy</td>
+					<td align="right" valign="top" class="arialgrey_16">&nbsp;</td>
+				</tr>
+				<tr>
+                    <td colspan="2" align="left" valign="top" class="title_dottedline"><img src="images/spacer.gif" width="1" height="10"></td>
+                </tr>
+                <tr>
+                    <td align="left" valign="top" class="arialgrey_12" style="text-align:justify;">
+                        <p>
+
+<b><u>PLEASE READ THIS PRIVACY STATEMENT CAREFULLY BEFORE USING THIS WEBSITE.</u></b><br><br>
+
+Multi Screen Media Private Limited ("MSM") respects the privacy of all users of this website. MSM also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. Responsible use of the information you share with MSM is a paramount concern. In order to help you understand how the information you provide MSM will be used, the following guidelines have been created.<br><br>
+
+<b>Personally Identifiable Information:</b><br>
+In order to use certain portions of this website, you may be required to provide certain personal information about yourself, such as your real name, age, address, telephone number, occupation, e-mail address and such similar details. If you do provide MSM with personally identifiable information, we will take all reasonable measures to protect this information. MSM will not disclose, share, sell or rent personally identifiable information to any third party for commercial purposes without your prior consent; except to authorize third party/agencies to collect, maintain and share data on our behalf and to share the same with out affiliate companies.<br><br>
+Other than registration information, you may be asked to provide certain personal information in connection with your use of or participation in certain promotions such as entering sweepstakes, contests, surveys, newsletters, etc, ("<b>Special Promotions</b>"). In these instances, you will be informed of the intended use(s) of the requested information.<br><br>
+
+<b>Non-Personally Identifiable Information:</b><br>
+To participate in a Special Promotion, you may be asked to provide certain information about yourself, which does not personally identify you. For example, you may be asked to provide information concerning your music or other entertainment preferences, purchasing habits, and likewise. MSM requests this information in order to enhance online experience of users of this website by understanding you better and to also make you aware of new services, programs or offers in which you may be interested. Such information is also used by MSM as a feed back to improve the quality of the programming which it broadcasts on its channels.<br><br>
+In general, you can use the website except for Special promotions while remaining anonymous. However, in some cases, MSM may still be able to collect certain non-personally identifiable information about your use of the website. For example, MSM might collect information concerning the type of internet browser you are using, the type of computer operating system you are using, the domain name of your internet service provider and/or the web site or advertisement from which you linked to the MSM site.<br><br>
+When you visit this website through other websites owned by MSM or its affiliates by way of advertisements appearing thereon, we may use an industry-wide technology called "cookies" which stores certain information on your computer and which will allow us to customize your experience to better match your interests and preferences or simply facilitate your signing in to use this website. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.<br><br>
+In general, MSM may use non-personally identifiable information to improve and enhance this website. However, from time to time, MSM may share this information with other entities in aggregate, non-personal form to show general demographic and preference information among users of this website or MSM websites.<br><br>
+
+
+<b>Other sensitive information:</b><br>
+Whenever you give MSM sensitive information (e.g., credit card numbers), MSM will take all commercially reasonable steps to protect such information by establishing a secure connection with your web browser. MSM employs an industry-wide technology known as a secure-socket-layer ("<b>SSL</b>") to protect the transmission of payment information to the website. Unless otherwise specified herein, credit card numbers are used only for payment processing and are not retained for marketing or any other purposes.<br><br>
+
+<b>Postings to Forums:</b><br>
+All postings, whether in a chat room, on message boards or other method of communication within the forums will generally be available to and freely accessible by other users of the MSM Forums. Therefore, users should not expect that any information they post will be kept private or confidential and are encouraged to exercise discretion when using these forums. Additionally, your member name may also be posted in conjunction with your post in these Forums.<br><br>
+
+<b>Hyperlinks:</b><br>
+This website may contain links to or advertisements concerning other MSM and third party web sites. These said websites may also reference, advertise, or link to this website. MSM is not responsible for the privacy practices or the content of such other third party websites and expressly disclaims all liability associated with your use of and the content on such other third party websites.<br><br>
+
+<b>Consent to Processing:</b><br>
+By providing any personal information on this website, all users, fully understand and unambiguously consent to the collection and processing of such information in India. You also consent to allow MSM to use the personal information to use for any other new use, authorize third party/agencies to collect, maintain and share data on MSM's behalf.<br><br>
+MSM is dedicated to protecting your personal information and welcomes comments and questions on this policy.<br><br>
+MSM reserves the right to change this policy at any time.<br><br>
+For those who are less than 13 years old, please submit your personal information after taking your guardian's consent.
+
+
+
+                        </p>
+                    </td>
+                </tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+					</td>
+					<td width="9" align="left" valign="top"><img src="images/spacer.gif" width="9" height="1"></td>
+					<td width="300" align="left" valign="top">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td valign="top">
+									
+									<table width="304" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td class="adv_block_caption">Advertisement</td>
+</tr>
+<tr>
+	<td height="250">
+				<!-- 300x250 Banner Ad -->
+		<a href="http://www.sabtv.com/comedy/show.php?id=21" target="_blank"><img src="http://www.videochaska.com/images/banners/mrs_mrsharma_banner.jpg" border="0"></a>
+
+	</td>
+</tr>
+</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+
+                        <table width="304" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td height="10" colspan="3" align="left" valign="top"><img src="images/spacer.gif" width="1" height="10"></td>
+                            </tr>
+                            <tr>
+                                <td height="33" colspan="3" align="left" valign="top">
+                                    <table width="304" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody><tr>
+                                            <td width="222" height="32" align="left" valign="middle" class="arialgrey_18">Recommended Videos</td>
+                                            <td width="82" align="right" valign="middle">&nbsp;</td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" align="left" valign="top" class="showname_bg">&nbsp;</td>
+                            </tr>
+                                                                    <tr>
+                                        <td width="10" align="left" valign="top"><img src="images/spacer.gif" width="20" height="1"></td>
+                                        <td width="15" align="left"><img src="images/category_bullet.jpg" width="5" height="5"></td>
+                                        <td width="275" height="30" align="left" class="arialgrey_12"><a title="Episode 10" href="watchVideo.php?vid=1725" class="arialgrey_12">Episode 10</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" align="left" valign="top" class="content_dottedline"><img src="images/spacer.gif" width="1" height="1"></td>
+                                    </tr>
+                                                                    <tr>
+                                        <td width="10" align="left" valign="top"><img src="images/spacer.gif" width="20" height="1"></td>
+                                        <td width="15" align="left"><img src="images/category_bullet.jpg" width="5" height="5"></td>
+                                        <td width="275" height="30" align="left" class="arialgrey_12"><a title="Episode 9 : Taashi at Kalimata Mandir" href="watchVideo.php?vid=1724" class="arialgrey_12">Episode 9 : Taashi at Kalimata Mandir</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" align="left" valign="top" class="content_dottedline"><img src="images/spacer.gif" width="1" height="1"></td>
+                                    </tr>
+                                                                    <tr>
+                                        <td width="10" align="left" valign="top"><img src="images/spacer.gif" width="20" height="1"></td>
+                                        <td width="15" align="left"><img src="images/category_bullet.jpg" width="5" height="5"></td>
+                                        <td width="275" height="30" align="left" class="arialgrey_12"><a title="Episode 8 : Arjun is shifting to Taashi's House" href="watchVideo.php?vid=1723" class="arialgrey_12">Episode 8 : Arjun is shifting to Taashi'...</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" align="left" valign="top" class="content_dottedline"><img src="images/spacer.gif" width="1" height="1"></td>
+                                    </tr>
+                                                                    <tr>
+                                        <td width="10" align="left" valign="top"><img src="images/spacer.gif" width="20" height="1"></td>
+                                        <td width="15" align="left"><img src="images/category_bullet.jpg" width="5" height="5"></td>
+                                        <td width="275" height="30" align="left" class="arialgrey_12"><a title="Episode 69 : Actor Kashmira shah meets Sachi and Shravan" href="watchVideo.php?vid=1722" class="arialgrey_12">Episode 69 : Actor Kashmira shah meets S...</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" align="left" valign="top" class="content_dottedline"><img src="images/spacer.gif" width="1" height="1"></td>
+                                    </tr>
+                                                                    <tr>
+                                        <td width="10" align="left" valign="top"><img src="images/spacer.gif" width="20" height="1"></td>
+                                        <td width="15" align="left"><img src="images/category_bullet.jpg" width="5" height="5"></td>
+                                        <td width="275" height="30" align="left" class="arialgrey_12"><a title="Episode 65 : Shravan kidnaps Sachi" href="watchVideo.php?vid=1721" class="arialgrey_12">Episode 65 : Shravan kidnaps Sachi</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" align="left" valign="top" class="content_dottedline"><img src="images/spacer.gif" width="1" height="1"></td>
+                                    </tr>
+                                                            <tr>
+                                <td colspan="3" align="left" valign="top" class="content_dottedline"><img src="images/spacer.gif" width="1" height="1"></td>
+                            </tr>
+                            <tr>
+                                <td height="13" align="left" valign="top"><img src="images/spacer.gif" width="1" height="13"></td>
+                            </tr>
+                        </tbody></table>
+					</td>
+					<td align="left" valign="top"><img src="images/spacer.gif" width="20" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" style="background:#fff url(images/homefooter_bg.jpg) repeat-x top">
+<script language="javascript">
+function trimAll(sString)
+{
+	while (sString.substring(0,1) == ' ') {
+		sString = sString.substring(1, sString.length);
+	}
+	while (sString.substring(sString.length-1, sString.length) == ' ') {
+		sString = sString.substring(0,sString.length-1);
+	}
+	return sString;
+}
+function validateNewsLetterEmail(textFieldObj)
+{
+    textFieldObj.value = trimAll(textFieldObj.value);
+    if (textFieldObj.value == '') putValue(textFieldObj);
+    
+    if( textFieldObj.value == '' || textFieldObj.value == "Enter your email address" )
+	{
+		alert('Please enter email address.');
+		textFieldObj.focus();
+		return false;
+	}
+	else
+	{
+		var emailIdPattern= "/^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+\.([a-zA-Z])+([a-zA-Z])+/";
+		if( emailIdPattern.test(textFieldObj.value) )
+		{
+			return true;
+		}
+		else
+		{
+			alert("Please enter valid email address.");
+			textFieldObj.focus();
+			return false;
+		}
+	}
+	return false;
+}
+
+function makeNull(obj)
+{
+	obj.value = "";
+}
+
+function putValue(obj)
+{
+	if( obj.value == "" )
+	{
+		obj.value = "Enter your email address";
+	}
+}
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td height="220" valign="top">
+			<table width="1003" border="0" cellspacing="0" cellpadding="0" align="center">
+				<tbody><tr>
+					<td style="height:40px;">
+						<!--
+						<form style="margin: 0;" action="sub_vemail.php" name="footerNewsLetter" id="footerNewsLetter" method="post" onsubmit="return validateNewsLetterEmail(document.getElementById('subscribe_id'));">
+							<table width="1003" border="0" cellspacing="0" cellpadding="0" >
+								<tr>
+									<td width="124" height="35" align="left" valign="top"><img src="images/spacer.gif" width="121" height="1" /></td>
+									<td width="386" align="left" valign="middle" class="arialgrey_14"> Register to get the latest videochaska fanmail</td>
+									<td width="308" align="left" valign="middle">
+										<table width="293" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td width="29" align="left" valign="middle"><img src="images/mail_icon.jpg" width="29" height="25" /></td>
+												<td align="center" valign="middle" class="email_bg">
+                                                    <input type="hidden" value="348" name="a" id="a">
+                                                    <input name="subscribe_id" id="subscribe_id" type="text" class="email_textfield" value="Enter your email address" onfocus="makeNull(this);" onblur="putValue(this)"/>
+                                                </td>
+												<td><input type="image" src="images/submit.jpg" width="70" height="25" border="0" alt="Submit" title="Submit" /></td>
+											</tr>
+											<tr>
+												<td colspan="3" align="left" valign="top"><img src="images/spacer.gif" width="1" height="3" /></td>
+											</tr>
+										</table>
+									</td>
+									<td width="185" align="right" valign="top"><img src="images/spacer.gif" width="185" height="1" /></td>
+								</tr>
+							</table>
+						</form>
+						-->&nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						<div id="footer" style="margin-bottom:5px;">
+							<div class="footerlink">
+								<span>Popular Shows</span>
+								<ul>
+									<li><a href="videoShow.php?showid=27">Baat Hamari Pakki Hai</a></li>
+									<li><a href="videoShow.php?showid=28">Comedy Ka Daily Soap</a></li>
+									<li><a href="videoShow.php?showid=4">Mrs &amp; Mr Sharma...</a></li>
+									<li><a href="videoShow.php?showid=2">Taarak Mehta...</a></li>
+								</ul>
+							</div>
+							<div class="footerlink" style="width:256px">
+								<span>Channels</span>
+								<ul>
+									<li id="active"><a href="channelPage.php?c=6">Sony Entertaiment Television</a></li>
+									<li><a href="channelPage.php?c=8">SAB TV</a></li>
+									<li><a href="video_rss.xml" style="color:#FFFFFF; background-color:orange;">RSS</a></li>
+									<li><a href="sitemap.php">Sitemap</a></li>
+								</ul>
+							</div>
+							<div class="footerlink" style="width:275px;">
+								<span>Popular Searches</span>
+								<ul>
+									<li><a href="search.php?q=taarak+mehta">Taarak Mehta</a></li>
+									<li><a href="search.php?q=babita">Babita</a></li>									
+									<li><a href="search.php?q=comedy+circus">Comedy Circus</a></li>
+									<li><a href="search.php?q=mahi">Mahi way</a></li>
+								</ul>
+							</div>
+							<div class="footerlink nobdr">
+								<span>Legal Terms</span>
+								<ul>
+									<!-- <li id="active"><a href="aboutUs.php">About Video Chaska</a></li> -->
+									<li><a href="terms.php">Terms of Use</a></li>
+									<li><a href="privacyPolicy.php">Privacy Policy</a> &amp; <a href="disclaimer.php">Disclaimer</a></li>
+									<li><a href="contactUs.php">Contact Us</a></li>
+									<li><a href="feedback.php">Feedback</a></li>
+									<li><a href="aboutUs.php">About us</a></li>
+								</ul>
+							</div>
+							<div style="clear:left"></div>
+						</div>
+					</td>
+				</tr>
+				<tr align="center">
+					<td class="arialgrey_12" height="36">© 2010 Multi Screen Media Private Limited. All Rights Reserved.</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+<!-- GOOGLE ANALYTICS : START -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18845795-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- GOOGLE ANALYTICS : END -->
+
+
+<!--Site Analytix Script Start-->
+
+<script language="javascript">
+var saPcol = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + saPcol + "isacglobal.com/sa.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.isacglobal.com/sa.js" type="text/javascript"></script>
+<script language="javascript">
+try {
+var acc = '1516925538';
+var testName='';
+var combinationName='';
+var productID='';
+var productValue='';
+var param1='';
+var param2='';
+var param3='';
+var param4='';
+trackSAPV();
+} catch(err) {}</script>
+
+<!--Site Analytix Script End-->			</td>
+		</tr>
+	</tbody></table>
+
+
+</body></html>
