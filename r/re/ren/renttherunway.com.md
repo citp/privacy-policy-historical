@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the renttherunway.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329021001id_/http%3A//www.renttherunway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renttherunway.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203145106id_/http%3A//www.renttherunway.com/privacy) for the most accurate reproduction.*
 
-# Privacy | RTR
+# Privacy | Rent The Runway
 
 #### Overview
 
 Rent the Runway, Inc. knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy for the www.renttherunway.com web site (the “Website”). 
 
-If you have questions or concerns regarding this statement, you should contact us at legalinfo@renttherunway.com, (212) 462-2342, 304 Hudson Street, Suite 500, New York, NY 10013 This privacy policy covers only information that is collected by and through the Website and does not cover information that may be collected through software downloaded from the site or other means.
+If you have questions or concerns regarding this statement, you should contact us at legalinfo@renttherunway.com, (212) 462-2342, 163 Varick Street, 4th Floor, New York, NY 10013. This privacy policy covers only information that is collected by and through the Website and does not cover information that may be collected through software downloaded from the site or other means.
 
 #### Notice of Information We Collect And How We Use It
 
@@ -48,7 +48,7 @@ We use clear gifs in our HTML-based emails to let us know which emails recipient
 
 ##### Registration
 
-In order to use some features of this Website, including without limitation the rental of products from Rent the Runway, you must first register with us and create a user name and password. During registration you are required to give truthful contact and demographic information (such as name, email address and zip code) in accordance with our terms of use [Terms and Conditions](https://web.archive.org/web/20100329021001id_/http%3A//www.renttherunway.com/termsnconditions). We use this information to contact you about the products and services on our Website in which you have expressed interest. 
+In order to use some features of this Website, including without limitation the rental of products from Rent the Runway, you must first register with us and create a user name and password. During registration you are required to give truthful contact and demographic information (such as name, email address and zip code) in accordance with our terms of use [Terms and Conditions](https://web.archive.org/web/20101203145106id_/http%3A//www.renttherunway.com/termsnconditions). We use this information to contact you about the products and services on our Website in which you have expressed interest. 
 
 ##### Orders
 
@@ -80,7 +80,7 @@ Your friend may contact us at remove@renttherunway.com to request that we remove
 
 If you choose to post messages in our chat rooms or other public message areas or leave feedback for other users, we will collect the information you post. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. We reserve the right to terminate the accounts of visitors who use these services in a manner that is inconsistent with the terms of use [Terms and Conditions](https://web.archive.org/web/20100329021001id_/http%3A//www.renttherunway.com/termsnconditions).
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. We reserve the right to terminate the accounts of visitors who use these services in a manner that is inconsistent with the terms of use [Terms and Conditions](https://web.archive.org/web/20101203145106id_/http%3A//www.renttherunway.com/termsnconditions).
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
 
