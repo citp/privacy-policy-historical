@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingscoop.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618172415id_/http%3A//marketingscoop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingscoop.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203221230id_/http%3A//marketingscoop.com/privacy.htm) for the most accurate reproduction.*
 
 # Marketing, Internet Marketing, Search Engine Optimization - Marketing Scoop
 
