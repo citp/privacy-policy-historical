@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveigmm.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617053822id_/http%3A//www.solveigmm.com/%3FLegal%26id%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveigmm.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203034305id_/http%3A//www.solveigmm.com/%3FLegal%26id%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Legal Information
 
