@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesnow4u.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602030623id_/http%3A//www.articlesnow4u.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnow4u.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203085628id_/http%3A//www.articlesnow4u.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Article Directory | Article Submission | Free Content
+# Privacy Policy - Article Directory - Article Submission - Free Content
 
 ## PRIVACY POLICY
 
