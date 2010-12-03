@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620120311id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203011530id_/http%3A//www.sportingnews.com/policy/privacy) for the most accurate reproduction.*
 
-# Sporting News - Privacy Policy
+# Sporting News
 
 [](http://www.truste.org/ivalidate.php?url=www.sportingnews.com&sealid=101)
 
@@ -10,7 +10,7 @@ Kids and parents click here!
 
 The following Privacy Policy summarizes the various ways that Sporting News, a division of American City Business Journals, Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.sportingnews.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.sportingnews.com/terms). Your use of the Website constitutes agreement to its terms and conditions as well. 
+In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.sportingnews.com/policy/terms). Your use of the Website constitutes agreement to its terms and conditions as well. 
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
@@ -69,4 +69,5 @@ SportingNews
 Charlotte, NC 28202  
 [privacy@sportingnews.com](mailto:privacy@sportingnews.com)
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at  
+<http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
