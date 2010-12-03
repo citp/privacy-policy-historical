@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209025339id_/http%3A//www.automaticsitemap.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055216id_/http%3A//www.attracta.com/privacy.jsp) for the most accurate reproduction.*
 
-# Automatic Site Map - Privacy Policy
-
-Privacy Policy
+# Privacy Policy
 
 Effective: **October 1st 2008**
 
@@ -24,7 +22,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted on the AutomaticSiteMap™ website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Attracta™ website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
   * Name 
   * Address 
@@ -52,11 +50,11 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **Our Commitment To Children's Privacy:**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, a nd no part of our website is structured to attract anyone under 13.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by AutomaticSiteMap™.
+You can access all your personally identifiable information that we collect online and maintain by Attracta™.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -64,4 +62,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at privacy [at] automaticsitemap.com.
+Should you have other questions or concerns about these privacy policies, please send us an email at privacy [at] attracta.com.
