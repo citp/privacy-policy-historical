@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themorningnews.org privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203144034id_/http%3A//www.themorningnews.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themorningnews.org privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203070512id_/http%3A//www.themorningnews.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Morning News
 
@@ -12,18 +12,18 @@ If you ever receive spam from The Morning News: Trust us, you have not. We would
 
 #### TODAY’S FEATURE
 
-### [The 2009 Good Gift Games](http://www.themorningnews.org/archives/guides/the_2009_good_gift_games.php)
+### [A Message From Your University President](http://www.themorningnews.org/archives/spoofs_satire/a_message_from_your_university_president.php)
 
-This holiday season, your loved ones could play Operation: “Death Panel” Edition, or you could give them a game where somebody besides the government wins. **MATTHEW BALDWIN** offers options. 
+Americans prefer “doing” to “knowing.” When will our universities wake up to reality? **JOHN WARNER** alerts English majors everywhere: More budget cuts are coming, but prepare to smell great. 
 
 #### OUR MAN IN BOSTON
 
-### [Pop Goes the Warhol](http://birnbaum.themorningnews.org/)
+### [Can’t Get No Satisfaction](http://birnbaum.themorningnews.org/)
 
-New works devoted to Andy Warhol suggest some people get more than 15 minutes of fame. 
+From Wislawa Szymborska, "I'm old fashioned and think that reading books is the most glorious pastime that humankind has yet devised." 
 
 #### TMN TALKS
 
-### [Graham Linehan](http://talks.themorningnews.org/)
+### [Iain McGilchrist](http://talks.themorningnews.org/)
 
-Graham Linehan is an Irish comedy writer currently based in London. He co-created Father Ted and has written for several other comedy series, including Brass... 
+Iain McGilchrist is a psychiatrist and writer who works in London. He was awarded a Prize Fellowship of All Souls College, Oxford, in 1975... 
