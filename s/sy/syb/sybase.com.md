@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503075611id_/http%3A//www.sybase.com/detail%3Fid%3D1003649%26rel%3Dnofollow) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203181612id_/http%3A//www.sybase.com/detail%3Fid%3D1003649%26rel%3Dnofollow) for the most accurate reproduction.*
 
 # Sybase Inc. Privacy Policy Policy Statement: - Sybase Inc
 
@@ -6,15 +6,9 @@
 
 This statement discloses the privacy practices that apply to the online collection of data obtained on [www.sybase.com](https://web.archive.org/), owned and operated by Sybase, Inc.   Sybase, Inc. abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Sybase is a member of the TRUSTe program and is strongly committed to protecting your privacy online. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.
+Sybase is strongly committed to protecting your privacy online. If you have questions or concerns regarding this statement, you should first contact the Sybase Web Marketing team by email at [privacy@sybase.com](mailto:privacy@sybase.com).
 
-[ ](http://www.truste.org/ivalidate.php?url=www.sybase.com&sealid=102)
-
-If you have questions or concerns regarding this statement, you should first contact the Sybase Web Marketing team by email at [privacy@sybase.com](mailto:privacy@sybase.com) . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Sybase to resolve any concerns you may have with the Sybase.com/MySybase Web site (English version).
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
-
-Please read the following privacy policy to understand how your personal information will be treated as you take advantage of our offerings. Sybase may update this privacy policy periodically. A notice will be displayed on the About Sybase page at [http://www.sybase.com/about_sybase](https://web.archive.org/about_sybase) whenever any material changes occur.
+Please read the following privacy policy to understand how your personal information will be treated as you take advantage of our content and downloadable assets. Sybase may update this privacy policy periodically. A notice will be displayed on the About Sybase page at [http://www.sybase.com/about_sybase](https://web.archive.org/about_sybase) whenever any material changes occur.
 
 The purpose of this Sybase privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather from you when you visit [www.sybase.com](https://web.archive.org/). We also want to tell you how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
 
@@ -144,6 +138,12 @@ C/O Web Marketing
 One Sybase Drive   
 Dublin, CA 94568 - United States of America   
 Fax No.: 001 925 236 4198
+
+As part of our participation in Safe Harbor, we have agreed to the  [TRUSTe Dispute Resolution Requirements](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html)  for disputes relating to our compliance with the Safe Harbor Privacy Framework.  If you have complaints regarding our compliance with the Safe Harbor you should first contact us privacy@sybase.com.
+
+If contacting us does not resolve your complaint, you may raise your complaint by [contacting TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint), by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaints shared with the company.  For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, please visit [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint)  or request this information from TRUSTe at any of the addresses listed above.  The TRUSTe dispute resolution process shall be conducted in English. 
+
+For human resources data we have agreed to cooperate with Data Protection Authorities.  Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom Sybase processes data should be addressed to that customer or partner.
 
 **9\. How can you access, delete or deactivate MySybase account information and personal profile?**
 
