@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203231347id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Proofpoint : > Company > Privacy Policy
 
@@ -18,7 +18,7 @@ We may collect your contact information in the following ways: if you sign up fo
 
 We also use your Contact Information to contact you with certain marketing or promotional materials, as well as other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. 
 
-|  | 
+| 
 
 ## Log Data
 
@@ -80,23 +80,3 @@ Proofpoint, Inc.
 Attn: Customer Service  
 892 Ross Drive   
 Sunnyvale, CA 94089 
-
-  * [Overview](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/index.php)
-  * [Management](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/management.php)
-  * [Board of Directors](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/board-of-directors.php)
-  * [Investors](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/investors.php)
-  * [Technology Advisors](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/technology-advisors.php)
-  * [Careers](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/careers.php)
-  * [Contact Us](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/company/contact-us.php)
-
-
-
-[](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/id/contact-us/index.php?id=1)
-
-[](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/id/trial/index.php)
-
-[](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/solution-builder/)
-
-[](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/id/livedemo/index.php)[](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/id/email-archiving-livedemo/index.php)
-
-[](https://web.archive.org/web/20100602032057id_/http%3A//www.proofpoint.com/id/proofpointnews/index.php)
