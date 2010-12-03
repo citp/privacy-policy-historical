@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609155153id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203013337id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  | [](http://www.truste.org/ivalidate.php?url=www.aclens.com&sealid=101)  
+|  | [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.aclens.com/seal_m "Validate TRUSTe privacy certification")  
 ---|---  
   
 AC Lens collects information about its customers both during the order process and as customers navigate the http://www.aclens.com/ web site. The information provided by customers during the ordering process such as their name, physical address, email address, and payment information is considered private, and AC Lens will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, AC Lens reserves the right to contact existing customers regarding store specials and other significant events. 
