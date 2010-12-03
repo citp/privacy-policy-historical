@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530090630id_/http%3A//www.educationcity.com/uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055558id_/http%3A//us.educationcity.com/us/content/privacy-policy) for the most accurate reproduction.*
 
 # Education City Privacy Policy
 
@@ -60,7 +60,7 @@ b. Other: EducationCity.com may also disclose account information in special cas
 
 c. Acquisitions. EducationCity.com may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that EducationCity.com or all of its assets are acquired, customer information, including any visitor information collected through the Site, would be one of the transferred assets.
 
-d. Access. At any time you may send us an email to support@educationCity.com or by postal mail addressed to: EducationCity.com, 8/9 Saddlers Court, Oakham, Rutland, LE15 7GH to request a listing of all the types of your personal information disclosed by EducationCity.com to third parties and business partners. If requested, EducationCity.com will provide an e-mail response within thirty (30) days informing you of the recipients of your personally identifiable information and the type of information disclosed to third parties, or business partners.
+d. Access. At any time you may send us an email to support@educationCity.com or by postal mail addressed to: EducationCity.com, 55 S. Main Street Suite 271 Naperville, IL 60540 to request a listing of all the types of your personal information disclosed by EducationCity.com to third parties and business partners. If requested, EducationCity.com will provide an e-mail response within thirty (30) days informing you of the recipients of your personally identifiable information and the type of information disclosed to third parties, or business partners.
 
 V. What security precautions are in place to protect the loss, misuse, or alteration of my information?
 
@@ -82,24 +82,20 @@ VIII. Additional Information.
 
 If you have a question that was not addressed in this Privacy Policy, you may contact us by:
 
-1\. Sending an e-mail request to support from our [contact page ](https://web.archive.org/uk/content/contact-us)or
+1\. Sending an e-mail request to support from our [contact page ](https://web.archive.org/us/content/contact-us)or
 
-2\. Sending a letter requesting the information to: EducationCity.com.
+2\. Sending a letter requesting the information to: Education City.com.
 
-Attention: Customer Services – EducationCity.com
+Attention: Customer Services – Education City.com 
+
+55 S. Main Street
+
+Suite 271
+
+Naperville, IL 60540
 
 DATE OF LAST MODIFICATION
 
-December 2007
+December 2010
 
-© Copyright 2007
-
-EducationCity.com
-
-8/9 Saddlers Court
-
-Oakham
-
-Rutland
-
-LE15 7GH
+© Copyright 2010
