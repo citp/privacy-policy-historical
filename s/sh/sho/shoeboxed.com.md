@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611004106id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203201631id_/http%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shoeboxed.com
 
