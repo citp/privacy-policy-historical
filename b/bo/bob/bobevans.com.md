@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404142420id_/http%3A//www.bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203215015id_/http%3A//bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Bob Evans - The home of homestyle | Privacy Policy
+# Bob Evans, Discover Farm-Fresh Goodness | Privacy Policy
 
 BobEvans.com knows that you care about how your information is used and shared, which is why we have posted this Privacy Policy. Simply stated, the following Privacy Policy statement explains what information we collect from you, how we use that information and what choices you have with respect to that information.
 
