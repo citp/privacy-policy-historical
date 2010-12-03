@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipgaytv.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000318id_/http%3A//vipgaytv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipgaytv.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203124935id_/http%3A//vipgaytv.com/privacy.php) for the most accurate reproduction.*
 
 # VIPGAYTV.COM PRIVACY POLICY
 
