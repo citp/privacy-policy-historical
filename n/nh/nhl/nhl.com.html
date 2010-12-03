@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nhl.com privacy policy that was archived on 2010-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601031945id_/http%3A//www.nhl.com/ice/page.htm%3Fid%3D26386) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nhl.com privacy policy that was archived on 2010-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203165949id_/http%3A//www.nhl.com/ice/page.htm%3Fid%3D26386) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -15,18 +15,17 @@
     <meta property="fb:app_id" content="104920409549228">
     <meta property="fb:admins" content="100000839576300">
     
-	<link href="http://cdn.nhl.com/league/images/favicon.ico?v=3.35" type="image/x-icon" rel="shortcut icon">
+	<link rel="shortcut icon" type="image/x-icon" href="http://cdn.nhl.com/league/images/favicon.ico?v=4.5">
 	<link rel="alternate" type="application/rss+xml" title="NHL.com Feature Stories" href="/rss/features.xml">
 	<link rel="alternate" type="application/rss+xml" title="Top Headlines" href="/rss/top-stories.xml">
 	<link rel="alternate" type="application/rss+xml" title="News in English" href="/rss/news.xml">
 	<link rel="alternate" type="application/rss+xml" title="Nouvelles en Français" href="/rss/nouvelles.xml">
 	
-	<link href="http://www.nhl.com/images/default/nhl_thumbnail.jpg" rel="image_src">
-	<script src="http://www.nhl.com/js/_ice-plugins.min.js?v=3.35" language="JavaScript" type="text/javascript"></script>
-	<!-- script language="JavaScript" type="text/javascript" jwcid="@Any" src="ognl:scoreboardScript"></script-->	
+	<link rel="image_src" href="http://www.nhl.com/images/default/nhl_thumbnail.jpg">
+	<script src="http://www.nhl.com/js/_ice-plugins.min.js?v=4.5" language="JavaScript" type="text/javascript"></script>
 	<script>jQuery.noConflict();</script>
 	
-	<link media="screen" href="http://cdn.nhl.com/league/css/_ice.min.css?v=3.35" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.nhl.com/league/css/_ice.min.css?v=4.5">
 	<script language="JavaScript" type="text/javascript">var s_account="nhlnhlleaguecom,nhlglobal";</script>
 <link rel="canonical" href="http://www.nhl.com/ice/page.htm?id=26386">
 	<meta property="og:url" content="http://www.nhl.com/ice/page.htm?id=26386">
@@ -34,10 +33,10 @@
 	
 	
 	
-	<script src="http://cdn.nhl.com/scripts/foresee/foresee-trigger.js" language="JavaScript" type="text/javascript"></script>
+
 	<script language="JavaScript" type="text/javascript"> ord=Math.random()*10000000000000000; </script>
  	
-	<link media="screen" href="http://www.nhl.com/league/css/playoffs.css?v=3.35" type="text/css" rel="stylesheet">
+	
 
 </head>
 
@@ -45,6 +44,11 @@
 <body id="leagueBody" class="homeShiftLarge">
 
 
+<script language="JavaScript" type="text/javascript"> 
+	var fbNumber = ord;
+	var faceBookLink = 	'/ptth/app?service=nfb&amp;r=';
+	var faceBookLinkNumber = faceBookLink + fbNumber
+</script>
 <div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 <script>
 	var fbConnected = '<a href="http://www.facebook.com" target="_blank" class="fb_button fb_button_small"><span class="fb_button_text">Connected</span></a>';
@@ -53,7 +57,6 @@
 	    e.type = 'text/javascript';
 		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';	    
 	    e.async = true;
-
 	    document.getElementById('fb-root').appendChild(e);
 	}());
 	window.fbAsyncInit = function() {
@@ -63,6 +66,13 @@
 	        cookie : true,
 	        xfbml  : true 
 	    });
+
+		FB.Event.subscribe('auth.sessionChange', function(response) {
+			   if (response.session) {
+				   //A user has logged in, and a new cookie has been saved
+				   jQuery.get(faceBookLinkNumber);	
+			   }
+			 });
 	    FB.getLoginStatus(function(response) {
 	        if (response.session) {
 	            // The user is already logged into Facebook
@@ -70,9 +80,9 @@
 	            FB.XFBML.parse();
 	        } else {
 	            FB.Event.subscribe('auth.login', function(response) {
-	                // Listen if the user logs into Facebook through this application.
+	                // Listen if the user logs into Facebook through this application.				  
 	                document.getElementById('fbConnectState').innerHTML = fbConnected;
-	                FB.XFBML.parse();
+	                FB.XFBML.parse();            
 	            });
 	        }
 	    });}
@@ -97,7 +107,7 @@
 //<![CDATA[
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/nhl.com/about;pos=leader;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/nhl.com/about;pos=leader;tile=1;dcopt=ist;sz=728x90;ord=5575529009400622?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/nhl.com/about;pos=leader;tile=1;dcopt=ist;sz=728x90;ord=2043010888574172.8?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/nhl.com/about;pos=leader;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/nhl.com/about;pos=leader;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag -->
 		
@@ -110,11 +120,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			
 			
 				
-					<img width="260" height="90" border="0" name="SSO_Space_V2" src="http://cdn.nhl.com/league/ext/banners/SSO_Space_V3.jpg" usemap="#m_SSO_Space_V2" alt=""><!-- fwtable fwsrc="Untitled" fwbase="SSO_Space_V2" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" --> <map name="m_SSO_Space_V2">
-<area shape="rect" coords="47,65,260,83" href="https://account.nhl.com/registeredfancreateaccount.htm#?intcmpid=newslettersso" title="NHL Newsletter" alt="NHL Newsletter">
-<area shape="rect" coords="92,46,260,63" href="https://gamecenter.nhl.com/nhlgc/secure/registerform?vault=true&amp;intcmpid=nhl.com:vlt:ssolink" title="NHL Vault" alt="NHL Vault">
-<area shape="rect" coords="120,26,260,43" href="http://auction.nhl.com/#?intcmpid=aucsso" title="Auctions" alt="Auctions">
-<area shape="rect" coords="126,5,260,24" href="http://shop.nhl.com/entry.point?target=z&amp;source=NHL_CTX:SSO:10.8.09" title="shop.nhl.com" alt="shop.nhl.com"> </map>
+					<a href="http://shop.nhl.com/entry.point?target=z&amp;source=NHL_CTX:260x90HolidayDeal4:12.03.10"><img width="260" height="90" border="0" src="http://cdn.nhl.com/league/ext/shopcreative/dod/650554_NHL_US_260x90_deal_4.jpg" alt="Shop.NHL.com"></a>
 				
 			
 		</div>
@@ -172,19 +178,11 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			
 			
 				
-					<style type="text/css">
-	#masthead #richMedia, #scoreboard { margin-left: 0px; width: 817px; }
-</style> 			 <script src="http://www.nhl.com/js/hdr_scoreboard2.js?v=5" language="JavaScript" type="text/javascript"></script> 			 <script language="JavaScript" type="text/javascript"> 
-    	var dataSource = "http://live.nhl.com/GameData/PlayoffScoreboard.jsonp?loadScoreboard=?"; 
-    	jQuery(document).ready(function() { initScoreboard(5, 'cc0000', '000000'); }); 
-</script>  			 <a title="Go to Playoff Central" href="http://www.nhl.com/cup/round4/index.html?intcmpid=nhl-pc-mast" style="outline: medium none;">
-<div style="float: left; width: 133px; height: 58px; cursor: pointer;"></div>
-</a>
-<div style="float: left;"><a class="prev"><!-- prev --></a>
-<div id="hsbGames" class="scrollable" style="float: left; width: 658px; height: 58px;">
+					<script src="/js/hdr_scoreboard.js?v=4" language="JavaScript" type="text/javascript"></script><script language="JavaScript" type="text/javascript"> var dataSource = "http://live.nhl.com/GameData/RegularSeasonScoreboard.jsonp?loadScoreboard=?"; jQuery(document).ready(function() { initScoreboard(); }); </script> <a class="prev"><!-- prev --></a>
+<div style="float: left; width: 778px; height: 58px;" class="scrollable" id="hsbGames">
 <div class="items"></div>
 </div>
-<a class="next"><!-- next --></a></div>
+<a class="next"><!-- next --></a>
 				
 			
 		</div>
@@ -197,19 +195,21 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		<div id="gutter">
 			<div id="searchForm"><div id="searchBarLeft">
 	<form class="autocomplete_form" style="padding: 0px; margin: 0px;" method="post" action="/ice/search.htm">
-	<input type="hidden" name="tab" value="news"><input class="autocomplete" name="q" type="text" size="30" value="SEARCH NHL.com" onfocus="this.value=''" onblur="if (this.value == '') this.value='Search NHL.com';"><input type="image" style="float:left;padding:5px 5px 5px 7px;" border="0" src="http://cdn.nhl.com/league/images/playoffs/navSearchButton.gif" alt="Search">
+	<input type="hidden" name="tab" value="news"><input class="autocomplete" name="q" type="text" size="30" value="SEARCH NHL.com" onfocus="this.value=''" onblur="if (this.value == '') this.value='Search NHL.com';"><input style="float:left;padding:5px 5px 5px 7px;" alt="Search" src="http://cdn.nhl.com/images/default/navSearchButton.png" type="image" border="0">
 	</form>
 </div>
 </div>
 			<div id="conMod">
 
 
-	<div id="c_133987">
-		<div id="133987">
+	<div id="c_158862">
+		<div id="158862">
 			
 			
 				
-					<a class="redButton" href="http://www.nhl.com/ice/news.htm?id=530012#&amp;intcmpid=plyf-redbutton"><span>STANLEY CUP FINAL SCHEDULE</span></a>
+					<style type="text/css">
+#masthead a span, #masthead a div { cursor: pointer }
+</style>  <a class="redButton" href="http://video.nhl.com/videocenter/console?catid=58&amp;id=85232"><span>HBO '24/7' PREVIEW</span></a>
 				
 			
 		</div>
@@ -219,7 +219,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	
 	
 </div>
-			<div id="ssoAcctInfo"><script src="http://cdn.nhl.com/league/js/registered_fans2.js?v=3.35" language="javascript"></script>
+			<div id="ssoAcctInfo"><script src="http://cdn.nhl.com/league/js/registered_fans2.js?v=4.5" language="javascript"></script>
 <script type="text/javascript">
 function loginWithFire() {
 	var s=(s_account) ? s_gi(s_account) : s_gi('nhlnhlleaguecom,nhlglobal');s.linkTrackVars='prop5,eVar5,prop16,eVar36,events';s.linkTrackEvents='event18';s.prop5='nhl';s.prop16='league';s.events='event18';s.tl(this,'o','nhl:en:Ad-hoc:page');
@@ -244,21 +244,15 @@ function writeEllipsifiedUsername(name) {
 	<div id="rfanSignedIn">
 		Welcome, <script type="text/javascript">writeEllipsifiedUsername(RegisteredFan.getUserName());</script> <span class="pipeDiv">|</span>
 		
-			<script type="text/javascript">
-				var team = '';
-				document.write("<a href='http://media.fans" + team + ".nhl.com/" + RegisteredFan.getUserName() + "'>PROFILE</a>");
-			</script> 
-			<span class="pipeDiv">|</span>
-		
 		<a href="https://account.nhl.com/registeredfanaccountinfo.htm?returnUrl=http://www.nhl.com/ice/index.htm">ACCOUNT</a> <span class="pipeDiv">|</span>
-		<a href="https://account.nhl.com/app?service=logout&amp;userType=REGISTERED_FAN" id="rfanSignOut">SIGN OUT</a>
+		<a id="rfanSignOut" href="https://account.nhl.com/app?service=logout&amp;userType=REGISTERED_FAN">SIGN OUT</a>
 	</div>
 
 
 	<div id="rfanSignedOut" style="position: relative;">
 
 		<div id="rfanLoginBubble">
-			<form style="padding: 0px; margin: 0px;" action="https://account.nhl.com/app?service=login&amp;siteId=34" method="post" id="rfanLoginForm">
+			<form action="https://account.nhl.com/app?service=login&amp;siteId=34" id="rfanLoginForm" method="post" style="padding: 0px; margin: 0px;">
 			<input type="submit" style="display: none;">
 			<input type="hidden" id="userType" name="userType" value="REGISTERED_FAN">
 			<input type="hidden" id="returnUrl" name="returnUrl" value="">
@@ -268,14 +262,14 @@ function writeEllipsifiedUsername(name) {
 			<div id="ssoClose"><img onclick="jQuery('#rfanLoginBubble').hide();" src="http://cdn.nhl.com/images/default/x_small.png"></div>
 			<div class="userLabel"><input id="username" name="username" type="text"></div>
 			<div class="passLabel"><input id="password" name="password" type="password" onkeypress="if (event.keyCode == 13) loginWithFire();"></div>
-			<div id="ssoSignInClick"><img onclick="loginWithFire(); jQuery('#rfanLoginForm').submit();" src="http://cdn.nhl.com/league/images/ssoArrow.png?v=3.35"></div>
+			<div id="ssoSignInClick"><img onclick="loginWithFire(); jQuery('#rfanLoginForm').submit();" src="http://cdn.nhl.com/league/images/ssoArrow.png?v=4.5"></div>
 			</form>
 			<div id="ssoForgot"><a href="https://account.nhl.com/registeredfanforgotpassword.htm?returnUrl=http://www.nhl.com/ice/index.htm">FORGOT YOUR USERNAME OR PASSWORD?</a></div>
 		</div>
 
 		<div id="messageCaption">
 			<a id="rfanSignInLink" onclick="jQuery('#rfanLoginBubble').show(); jQuery('#username').focus();">SIGN IN</a> <span class="pipeDiv">|</span>
-			<a href="https://account.nhl.com/registeredfancreateaccount.htm?returnUrl=http://www.nhl.com/ice/index.htm" id="rfanRegisterLink">REGISTER</a>
+			<a id="rfanRegisterLink" href="https://account.nhl.com/registeredfancreateaccount.htm?returnUrl=http://www.nhl.com/ice/index.htm">REGISTER</a>
 		</div>
 	</div>
 
@@ -286,33 +280,24 @@ function writeEllipsifiedUsername(name) {
 </div>
 
 <div id="leageSiteMenu">
+
 	<ul id="topNav" class="sf-menu">
+	
+	
 		<!-- Scores -->
-		<li id="navScores" class="sf-nav-item"><a href="/scores/index.html#?navid=nav-scr-main">SCORES</a>
+		<li id="navScores" class="sf-nav-item"><a href="http://www.nhl.com/scores/index.html#?navid=nav-scr-main">SCORES</a>
 		<ul>
 			
-				<li><a href="/scores/index.html#?navid=nav-scr-league">LEAGUE SCORES</a></li>
+				<li><a href="http://www.nhl.com/scores/index.html#?navid=nav-scr-league">LEAGUE SCORES</a></li>
 			
 				<li><a href="http://www.nhl.com/scores/index.html#?navid=nav-scr-gc">GAMECENTER</a></li>
 			
-				<li><a href="http://www.nhl.com/gamecenter/?navid=nav-scr-gcl&amp;intcmpid=nhl.com:gcl:scrssbnv">NHL GAMECENTER LIVE</a></li>
+				<li><a href="https://gamecenter.nhl.com/nhlgc/secure/registerform?intcmpid=nhl.com:gcl:vdsbnv">NHL GAMECENTER LIVE</a></li>
 				
 		</ul>
 		</li>
-		<!-- Schedule -->
-		<li id="navSchedule" class="sf-nav-item"><a href="http://www.nhl.com/ice/schedulebyweek.htm#?navid=nav-sch-main">SCHEDULE</a>
-		<ul>
-			
-				<li><a href="http://www.nhl.com/ice/schedulebyday.htm#?navid=nav-sch-today">TODAY</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/schedulebyweek.htm#?navid=nav-sch-week">BY WEEK</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/schedulebymonth.htm#?navid=nav-sch-month">BY MONTH</a></li>
-			
-				<li><a href="http://www.nhl.com/schedules/20092010.html#?navid=nav-sch-sea">BY SEASON</a></li>
-				
-		</ul>
-		</li>
+		
+		
 		<!-- Standings -->
 		<li id="navStandings" class="sf-nav-item"><a href="http://www.nhl.com/ice/standings.htm#?navid=nav-stn-main">STANDINGS</a>
 		<ul>
@@ -323,15 +308,81 @@ function writeEllipsifiedUsername(name) {
 			
 				<li><a href="http://www.nhl.com/ice/standings.htm?type=lea#&amp;navid=nav-stn-league">LEAGUE</a></li>
 			
-				<li><a href="http://www.nhl.com/cup/round1/index.html#?navid=nav-stn-plyfs">PLAYOFFS</a></li>
-			
 				<li><a href="http://www.nhl.com/ice/standings.htm?type=xve#&amp;navid=nav-stn-east">VS. EAST</a></li>
 			
 				<li><a href="http://www.nhl.com/ice/standings.htm?type=xvw#&amp;navid=nav-stn-west">VS. WEST</a></li>
 			
-				<li><a href="http://www.nhl.com/ice/page.htm?id=57000#?navid=nav-stn-pre">2009 PRESEASON</a></li>
+				<li><a href="http://www.nhl.com/ice/page.htm?id=64599#?navid=nav-stn-pre">2010 PRESEASON</a></li>
 				
 		</ul></li>
+		
+		
+		<!-- News -->
+		<li id="navNews" class="sf-nav-item"><a href="http://www.nhl.com/ice/newsindex.htm#?navid=nav-nws-main">NEWS</a>
+		<ul>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm#?navid=nav-nws-hdlines">HEADLINES</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/features#&amp;navid=nav-nws-feat">FEATURES</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/winterclassic/2011#&amp;navid=nav-nws-win">NHL WINTER CLASSIC</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/allstar/2011#?navid=nav-nws-asfb">NHL ALL-STAR GAME</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/heritageclassic/2011#&amp;navid=nav-nws-hrtg">NHL HERITAGE CLASSIC</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/deadline/2010#&amp;navid=nav-nws-trd">NHL TRADE DEADLINE</a></li>
+			
+				<li><a href="http://www.nhl.com/round4.html#?navid=nav-nws-09playoffs">STANLEY CUP PLAYOFFS</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/awards#&amp;navid=nav-nws-awrd">NHL AWARDS</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/draft/2010#&amp;navid=nav-nws-drft">NHL ENTRY DRAFT</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/premiere/2010#&amp;navid=nav-nws-prem">NHL PREMIERE</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/army#&amp;navid=nav-nws-fin">HOCKEY'S FINEST</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/nhlgreen#&amp;navid=nav-nws-grn">NHL GREEN</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm?view=headline#&amp;navid=nav-nws-new">ALL NEWS STORIES</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm?lang=fr_ca&amp;view=headline#&amp;navid=nav-nws-fr">NOUVELLES EN FRANÇAIS</a></li>
+				
+		</ul></li>
+		
+		
+		<!-- video -->
+		<li id="navVideo" class="sf-nav-item"><a href="http://video.nhl.com/videocenter/console?intcmpid=nav-video-main">VIDEO</a>
+		<ul>
+			
+				<li><a href="https://gamecenter.nhl.com/nhlgc/secure/registerform?intcmpid=nhl.com:gcl:vdsbnv&amp;nav-video-gcl">LIVE GAME VIDEO</a></li>
+			
+				<li><a href="https://gamecenter.nhl.com/nhlgc/secure/registerform?vault=true&amp;intcmpid=nhl.com:vlt:vdsbnv">WATCH CLASSIC GAMES</a></li>
+			
+				<li><a href="http://gamecenter.nhl.com/nhlgc/cdsignup.jsp?intcmpid=nhl.com:gcloncd:vdsbnv ">WATCH ON DEVICES</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/nhlnetwork#?navid=nav-video-ntwrk">NHL NETWORK</a></li>
+				
+		</ul></li>
+								
+		
+		<!-- Schedule -->
+		<li id="navSchedule" class="sf-nav-item"><a href="http://www.nhl.com/ice/schedulebyweek.htm#?navid=nav-sch-main">SCHEDULE</a>
+		<ul>
+			
+				<li><a href="http://www.nhl.com/ice/schedulebyday.htm#?navid=nav-sch-today">TODAY</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/schedulebyweek.htm#?navid=nav-sch-week">BY WEEK</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/schedulebymonth.htm#?navid=nav-sch-month">BY MONTH</a></li>
+			
+				<li><a href="http://www.nhl.com/schedules/20102011.html#?navid=nav-sch-sea">BY SEASON</a></li>
+				
+		</ul>
+		</li>
+
+		
 		<!-- Stats -->
 		<li id="navStats" class="sf-nav-item"><a href="http://www.nhl.com/ice/statshome.htm#?navid=nav-sts-main">STATS</a>
 		<ul>
@@ -350,102 +401,26 @@ function writeEllipsifiedUsername(name) {
 			
 				<li><a href="http://www.nhl.com/ice/milestone.htm#?navid=nav-sts-mlstn">MILESTONES</a></li>
 			
-				<li><a href="http://www.nhl.com/ice/page.htm?id=57001#?navid=nav-sts-pre">2009 PRESEASON</a></li>
+				<li><a href="http://www.nhl.com/ice/page.htm?id=64600#?navid=nav-sts-pre">2010 PRESEASON STATS</a></li>
 				
 		</ul></li>
-		<!-- Teams -->
-		<li id="navTeams" class="sf-nav-item"><a href="http://www.nhl.com/ice/teams.htm#?nav-tms-main">TEAMS</a>
+
+		
+		<!-- Fantasy -->
+		<li id="navFantasy" class="sf-nav-item"><a href="http://www.nhl.com/ice/eventhome.htm?location=/fantasy&amp;navid=nav-fant-main">FANTASY</a>
 		<ul>
-			<div class="np-menu ul" style="text-indent: 0px; width: 355px;">
-				<div style="width:175px; float:left;">
-				<li style="text-indent: 0px; width:175px; float:left;" id="navWestern"></li>
+			
+				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/fantasy&amp;navid=nav-fant-sub">FANTASY NEWS</a></li>
+			
+				<li><a href="http://hattrick.nhl.com/hattrick?locale=en&amp;intcmpid=nav-fant-htc">NHL HAT TRICK CHALLENGE</a></li>
+			
+				<li><a href="http://us.lrd.yahoo.com/_ylc=X3oDMTIwNXUyYzNmBHRtX2RtZWNoA0ltYWdlIEJhbm5lcgR0bV9sbmsDVTExMjk1NDEEdG1fbmV0A090aGVyBHRtX3BvcwNjZW50ZXI-/SIG=11o522beu/**http%3A//hockey.fantasysports.yahoo.com/hockey/signup">PLAY FANTASY HOCKEY '10</a></li>
+			
+				<li><a href="http://www.rotoworld.com/premium/seasonpass/hockey/main_page.aspx">ROTOWORLD SEASON PASS</a></li>
 				
-					<li style="text-indent: 0px; float:left;" id="navCentral"></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://blackhawks.nhl.com" target="_blank">Chicago Blackhawks</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://bluejackets.nhl.com" target="_blank">Columbus Blue Jackets</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://redwings.nhl.com" target="_blank">Detroit Red Wings</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://predators.nhl.com" target="_blank">Nashville Predators</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://blues.nhl.com" target="_blank">St Louis Blues</a></li>
-					
-				
-					<li style="text-indent: 0px; float:left;" id="navNorthwest"></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://flames.nhl.com" target="_blank">Calgary Flames</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://avalanche.nhl.com" target="_blank">Colorado Avalanche</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://oilers.nhl.com" target="_blank">Edmonton Oilers</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://wild.nhl.com" target="_blank">Minnesota Wild</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://canucks.nhl.com" target="_blank">Vancouver Canucks</a></li>
-					
-				
-					<li style="text-indent: 0px; float:left;" id="navPacific"></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://ducks.nhl.com" target="_blank">Anaheim Ducks</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://stars.nhl.com" target="_blank">Dallas Stars</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://kings.nhl.com" target="_blank">Los Angeles Kings</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://coyotes.nhl.com" target="_blank">Phoenix Coyotes</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://sharks.nhl.com" target="_blank">San Jose Sharks</a></li>
-					
-				
-			 	</div>
-			 	<div style="width:175px; float:left;">
-				<li style="text-indent: 0px; width:175px; float:left;" id="navEastern"></li>
-				
-					<li style="text-indent: 0px; float:left;" id="navAtlantic"></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://devils.nhl.com" target="_blank">New Jersey Devils</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://islanders.nhl.com" target="_blank">New York Islanders</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://rangers.nhl.com" target="_blank">New York Rangers</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://flyers.nhl.com" target="_blank">Philadelphia Flyers</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://penguins.nhl.com" target="_blank">Pittsburgh Penguins</a></li>
-					
-				
-					<li style="text-indent: 0px; float:left;" id="navNortheast"></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://bruins.nhl.com" target="_blank">Boston Bruins</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://sabres.nhl.com" target="_blank">Buffalo Sabres</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://canadiens.nhl.com" target="_blank">Montreal Canadiens</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://senators.nhl.com" target="_blank">Ottawa Senators</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://mapleleafs.nhl.com" target="_blank">Toronto Maple Leafs</a></li>
-					
-				
-					<li style="text-indent: 0px; float:left;" id="navSoutheast"></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://thrashers.nhl.com" target="_blank">Atlanta Thrashers</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://hurricanes.nhl.com" target="_blank">Carolina Hurricanes</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://panthers.nhl.com" target="_blank">Florida Panthers</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://lightning.nhl.com" target="_blank">Tampa Bay Lightning</a></li>
-									
-						<li style="text-transform: uppercase; float:left;"><a href="http://capitals.nhl.com" target="_blank">Washington Capitals</a></li>
-					
-				
-				</div>
-			</div><!-- class="np-menu ul" -->
-		</ul>
-		</li>
+		</ul></li>
+		
+		
 		<!-- Players -->
 		<li id="navPlayers" class="sf-nav-item"><a href="http://www.nhl.com/ice/playersearch.htm#?navid=nav-ply-plyrs">PLAYERS</a>
 		<ul>
@@ -457,100 +432,162 @@ function writeEllipsifiedUsername(name) {
 				<li><a href="http://www.nhl.com/ice/draftstats.htm#?navid=nav-ply-drft">DRAFT HISTORY</a></li>
 				
 		</ul></li>
-		<!-- News -->
-		<li id="navNews" class="sf-nav-item"><a href="http://www.nhl.com/ice/newsindex.htm#?navid=nav-nws-main">NEWS</a>
+				
+		
+		<!-- Teams -->
+		<li id="navTeams" class="sf-nav-item"><a href="http://www.nhl.com/ice/teams.htm#?nav-tms-main">TEAMS</a>
+		<ul>
+			<div class="np-menu ul" style="text-indent: 0px; width: 355px;">
+				<div style="width:175px; float:left;">
+				<li id="navWestern" style="text-indent: 0px; width:175px; float:left;"></li>
+				
+					<li id="navCentral" style="text-indent: 0px; float:left;"></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://blackhawks.nhl.com">Chicago Blackhawks</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://bluejackets.nhl.com">Columbus Blue Jackets</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://redwings.nhl.com">Detroit Red Wings</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://predators.nhl.com">Nashville Predators</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://blues.nhl.com">St Louis Blues</a></li>
+					
+				
+					<li id="navNorthwest" style="text-indent: 0px; float:left;"></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://flames.nhl.com">Calgary Flames</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://avalanche.nhl.com">Colorado Avalanche</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://oilers.nhl.com">Edmonton Oilers</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://wild.nhl.com">Minnesota Wild</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://canucks.nhl.com">Vancouver Canucks</a></li>
+					
+				
+					<li id="navPacific" style="text-indent: 0px; float:left;"></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://ducks.nhl.com">Anaheim Ducks</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://stars.nhl.com">Dallas Stars</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://kings.nhl.com">Los Angeles Kings</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://coyotes.nhl.com">Phoenix Coyotes</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://sharks.nhl.com">San Jose Sharks</a></li>
+					
+				
+			 	</div>
+			 	<div style="width:175px; float:left;">
+				<li id="navEastern" style="text-indent: 0px; width:175px; float:left;"></li>
+				
+					<li id="navAtlantic" style="text-indent: 0px; float:left;"></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://devils.nhl.com">New Jersey Devils</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://islanders.nhl.com">New York Islanders</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://rangers.nhl.com">New York Rangers</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://flyers.nhl.com">Philadelphia Flyers</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://penguins.nhl.com">Pittsburgh Penguins</a></li>
+					
+				
+					<li id="navNortheast" style="text-indent: 0px; float:left;"></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://bruins.nhl.com">Boston Bruins</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://sabres.nhl.com">Buffalo Sabres</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://canadiens.nhl.com">Montreal Canadiens</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://senators.nhl.com">Ottawa Senators</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://mapleleafs.nhl.com">Toronto Maple Leafs</a></li>
+					
+				
+					<li id="navSoutheast" style="text-indent: 0px; float:left;"></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://thrashers.nhl.com">Atlanta Thrashers</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://hurricanes.nhl.com">Carolina Hurricanes</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://panthers.nhl.com">Florida Panthers</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://lightning.nhl.com">Tampa Bay Lightning</a></li>
+									
+						<li style="text-transform: uppercase; float:left;"><a target="_blank" href="http://capitals.nhl.com">Washington Capitals</a></li>
+					
+				
+				</div>
+			</div><!-- class="np-menu ul" -->
+		</ul>
+		</li>
+
+
+		<!-- NHL NETWORK (formerly photos) -->
+		<li id="navNhlNetwork" class="sf-nav-item"><a href="http://www.nhl.com/ice/eventhome.htm?location=/nhlnetwork">NHL NETWORK</a>
 		<ul>
 			
-				<li><a href="http://www.nhl.com/ice/newsindex.htm#?navid=nav-nws-hdlines">HEADLINES</a></li>
+				<li style="width: 170px"><a href="http://www.nhl.com/ice/page.htm?id=58058">US SCHEDULE</a></li>
 			
-				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/features#&amp;navid=nav-nws-feat">FEATURES</a></li>
+				<li style="width: 170px"><a href="http://www.nhl.com/ice/page.htm?id=58059">CANADA SCHEDULE</a></li>
 			
-				<li><a href="http://www.nhl.com/round4.html#?navid=nav-nws-09playoffs">STANLEY CUP PLAYOFFS</a></li>
+				<li style="width: 170px"><a href="http://www.nhl.com/ice/schedulebyseason.htm?network=NHLN-US&amp;location=/nhlnetwork">GAME SCHEDULE: US</a></li>
 			
-				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/awards#&amp;navid=nav-nws-awrd">NHL AWARDS</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/draft/2010#&amp;navid=nav-nws-drft">NHL ENTRY DRAFT</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/newsindex.htm?location=/deadline/2010#&amp;navid=nav-nws-trd">NHL TRADE DEADLINE</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/olympics#?navid=nav-nws-oly">ALL-ACCESS VANCOUVER</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/winterclassic/2010#&amp;navid=nav-nws-win">NHL WINTER CLASSIC</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/allstar/2009#&amp;navid=nav-nws-asfb">NHL ALL-STAR GAME</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/army#&amp;navid=nav-nws-fin">HOCKEY'S FINEST</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/features/scotiabank#&amp;navid=nav-nws-eqprm">EQUIPMENT ROOM</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/nhlgreen#&amp;navid=nav-nws-grn">NHL GREEN</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/newsindex.htm?view=headline#&amp;navid=nav-nws-new">ALL NEWS STORIES</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/newsindex.htm?lang=fr_ca&amp;view=headline#&amp;navid=nav-nws-fr">NOUVELLES EN FRANÇAIS</a></li>
+				<li style="width: 170px"><a href="http://www.nhl.com/ice/schedulebyseason.htm?network=NHLN-CA&amp;location=/nhlnetwork">GAME SCHEDULE: CANADA</a></li>
 				
 		</ul></li>
-		<!-- Fantasy -->
-		<li id="navFantasy" class="sf-nav-item"><a href="http://www.nhl.com/ice/eventhome.htm?location=/fantasy&amp;navid=nav-fant-main">FANTASY</a>
-		<ul>
-			
-				<li><a href="http://us.lrd.yahoo.com/_ylc=X3oDMTI0amk5azY4BHRtX2RtZWNoA0JpekRldiAvIFBhcnRuZXIEdG1fbG5rA1UxMTA0NjQ4BHRtX25ldANPdGhlcgR0bV9wb3MDY2VudGVy/SIG=11o522beu/**http%3A//hockey.fantasysports.yahoo.com/hockey/signup">PLAY FANTASY HOCKEY '09</a></li>
-				
-		</ul></li>
-		<!-- video -->
-		<li id="navVideo" class="sf-nav-item"><a href="http://www.nhl.tv/team/console.jsp?intcmpid=nav-video-main">VIDEO</a>
-		<ul>
-			
-				<li><a href="https://gamecenter.nhl.com/nhlgc/secure/registerform?intcmpid=nhl.com:gcl:vdsbnv&amp;nav-video-gcl">LIVE GAME VIDEO</a></li>
-			
-				<li><a href="https://gamecenter.nhl.com/nhlgc/secure/registerform?vault=true&amp;intcmpid=nhl.com:vlt:vdsbnv">WATCH CLASSIC GAMES</a></li>
-			
-				<li><a href="http://www.nhl.com/ice/eventhome.htm?location=/nhlnetwork#?navid=nav-video-ntwrk">NHL NETWORK</a></li>
-				
-		</ul></li>
-		<!-- photos -->
-		<li id="navPhotos" class="sf-nav-item"><a href="http://www.nhl.com/ice/gallerylanding.htm#?navid=nav-photo-main">PHOTOS</a>
-		<ul>
-			
-				<li><a href="http://www.nhl.com/ice/gallerylanding.htm#?navid=nav-photo-glry">PHOTO GALLERIES</a></li>
-			
-				<li><a href="http://photostore.nhl.com/on/demandware.store/Sites-NHLV1-Site/default/Home-Show?intcmpid=nhl.com:pstr:photonav">BUY PHOTOS</a></li>
-				
-		</ul></li>
+		
+		
 		<!-- Fans -->
 		<li id="navFans" class="sf-nav-item"><a href="http://www.nhl.com/ice/fans.htm#?navid=nav-fans-main">FANS</a>
 		<ul>
 			
 				<li><a href="http://www.nhl.com/ice/fans.htm#?navid=nav-fans-nhlfans">NHL FANS</a></li>
 			
-				<li><a href="http://www.facebook.com/NHL?v=app_158110558259" target="_blank">NHL ON FACEBOOK</a></li>
+				<li><a target="_blank" href="http://www.facebook.com/NHL?v=app_158110558259">NHL ON FACEBOOK</a></li>
 			
-				<li><a href="http://twitter.com/nhl" target="_blank">NHL ON TWITTER</a></li>
+				<li><a target="_blank" href="http://twitter.com/nhl">NHL ON TWITTER</a></li>
 			
-				<li><a href="http://youtube.com/nhl" target="_blank">NHL ON YOUTUBE</a></li>
+				<li><a target="_blank" href="http://youtube.com/nhl">NHL ON YOUTUBE</a></li>
 			
 				<li><a href="http://www.nhl.com/ice/page.htm?id=57751">NHL TOOLBARS</a></li>
 			
-				<li><a href="http://www.nhl.com/ice/page.htm?id=57836#?navid=nav-fns-picks">#SATURDAYNHLPICKS</a></li>
+				<li><a href="http://www.hersheycanada.com/en/nhl/game.aspx">ACCURACY SHOT GAME</a></li>
+			
+				<li><a href="http://hungry-man.nhl.com/">VOTE FOR HUNGRIEST PLAY</a></li>
 			
 				<li><a href="http://www.nhl.com/ice/page.htm?id=58610#?navid=nav-fns-lists">NHL TWITTER LISTS</a></li>
 			
 				<li><a href="http://www.nhl.com/ice/page.htm?id=58679#?navid=nav-fns-twtmx">NHL TWEETMIXX</a></li>
 			
 				<li><a href="https://account.nhl.com/registeredfancreateaccount.htm#?intcmpid=NHL-NavBarFans">WEEKLY E-NEWSLETTER</a></li>
+			
+				<li><a href="http://www.nhl.com/ice/page.htm?id=27182#&amp;intcmpid=hife-subnav">HOCKEY IS FOR EVERYONE</a></li>
 				
 		</ul></li>
+		
+		
 		<!-- Mobile -->
-		<li id="navMobile" class="sf-nav-item"><a href="http://www.nhl.com/ice/page.htm?id=31874#&amp;navid=nav-mbl-main">MOBILE</a>
+		<li id="navMobile" class="sf-nav-item"><a href="http://mobile.gamecenter.nhl.com#&amp;navid=nav-mbl-main">MOBILE</a>
 		<ul>
 			
-				<li><a href="http://www.nhl.com/ice/page.htm?id=29048#&amp;navid=nav-mbl-us">UNITED STATES</a></li>
+				<li><a href="http://mobile.gamecenter.nhl.com/us#&amp;navid=nav-mbl-us">UNITED STATES</a></li>
 			
-				<li><a href="http://www.nhl.com/ice/page.htm?id=29047#&amp;navid=nav-mbl-can">CANADA</a></li>
+				<li><a href="http://mobile.gamecenter.nhl.com/canada#&amp;navid=nav-mbl-can">CANADA</a></li>
 			
-				<li><a href="http://www.nhl.com/ice/page.htm?id=59839#&amp;navid=nav-mbl-intl">INTERNATIONAL</a></li>
+				<li><a href="http://mobile.gamecenter.nhl.com/international#&amp;navid=nav-mbl-intl">INTERNATIONAL</a></li>
+			
+				<li><a href="http://mobile.gamecenter.nhl.com/finland#&amp;navid=nav-mbl-fin">FINLAND</a></li>
 				
 		</ul></li>
+		
+		
 		<!-- Tickets -->
 		<li id="navTickets" class="sf-nav-item"><a href="http://www.nhl.com/ice/tickets.htm?navid=nav-tks-main">TICKETS</a>
 		<ul>
@@ -558,8 +595,12 @@ function writeEllipsifiedUsername(name) {
 				<li><a href="http://www.nhl.com/ice/tickets.htm#?navid=nav-tks-nhl">NHL TICKETS</a></li>
 			
 				<li><a href="http://www.ticketexchangebyticketmaster.com/nhl?intcmp=tm203193&amp;wt.mc_id=NHL_LEAGUE_TIX_DROP_DOWN">BUY AND SELL NHL TICKETS</a></li>
+			
+				<li><a target="_blank" href="http://www.globaleventforum.com/nhl">NHL EVENTS FAN PACKAGES</a></li>
 				
 		</ul></li>
+		
+		
 		<!-- Shop -->
 		<li id="navShop" class="sf-nav-item"><a href="http://shop.nhl.com/entry.point?target=z&amp;source=NHL_Search:TopNavShop:10.31.08">SHOP</a>
 		<ul>
@@ -582,11 +623,12 @@ function writeEllipsifiedUsername(name) {
 				
 		</ul></li>
 	</ul>
+	
 	<script type="text/javascript">
 		  jQuery(function() { 
 	        jQuery('ul.sf-menu').supersubs({ 
 	            minWidth:    14,
-	            maxWidth:	 100 
+	            maxWidth:	 110 
 	        }).superfish({ 
 	            autoArrows:  false,
 				dropShadows: false,
@@ -611,14 +653,12 @@ function writeEllipsifiedUsername(name) {
 			
 			
 				
+					<a href="http://shop.nhl.com/entry.point?target=z&amp;source=NHL_CTX:978x24HolidayDeal4:12.03.10"><img width="978" height="24" border="0" src="http://cdn.nhl.com/league/ext/shopcreative/dod/650554_NHL_US_978x24_deal_4.jpg" style="float: left; margin-top: 5px;" alt="shop.NHL.com"></a>
+				
 			
 		</div>
 	</div>
 
-	
-	<script type="text/javascript">
-		jQuery.post('http://www.nhl.com/geo/targetedcontent.htm', {t:'module', p:'PageWrapper', l:1, s:2}, function (data) { data = data.replace(/^\s+|\s+$/g, ''); if (data != '') {jQuery('#c_breakingNews').show(); jQuery('#breakingNews').html(data);}})
-	</script>
 	
 	
 	
@@ -634,21 +674,14 @@ function writeEllipsifiedUsername(name) {
 	<div id="pageBody">
 		<div id="leftColumn">
 			
-	
-	
-		<table cellspacing="0" cellpadding="0" border="0" width="670">
+
+	<table width="670" cellspacing="0" cellpadding="0" border="0">
     <tbody>
         <tr>
-            <td align="left" valign="bottom">
-            <h1>NHL FAQ</h1>
-            </td>
-            <td align="right" style="height: 50px;">&nbsp;</td>
-        </tr>
-        <tr>
+            <td valign="bottom" align="left"><img width="670" height="50" align="left" alt="" src="http://cdn.nhl.com/league/ext/headers/nhl_faq_header.jpg"></td>
         </tr>
     </tbody>
 </table>
-	
 
 
 			<div id="nhlPage">
@@ -665,7 +698,7 @@ Your privacy is important to us. This Privacy Policy governs the practices of NH
     &nbsp;</li>
     <li class="headlinetext">Specifically with respect to the Auction Site, we may collect personal information (including credit card information), for example, when you register, sign in, search, bid on or purchase products, participate in a contest or questionnaire or communicate with customer service. We may also automatically collect certain types of information, including the email addressed used to contact customer service and, if you visit the Auction Site, information collected through "cookies" (see below for more information about how we use cookies). In addition a third party may actually operate the Auction Site and provide customer service and other functions with respect to the Auction Site described in this Privacy Policy, and will collect personal information when you visit the Auction Site and in connection with processing transactions at the Auction Site (which may include providing your personal information (including credit card information) to the vendors of the items you have bid on so that your purchase can be fulfilled). <br>
     &nbsp;</li>
-    <li class="headlinetext">Specifically with respect to the PhotoStore, we may collect personal information, for example, when you register, sign in, search, purchase products, participate in a contest or questionnaire or communicate with customer service. We may also automatically collect certain types of information, including the telephone number used to call customer service and, if you visit our PhotoStore, information collected through "cookies" (see below for more information about how we use cookies). In addition a third party may actually operate the PhotoStore and provide customer service and other functions with respect to the PhotoStore described in this Privacy Policy, and will collect personal information when you visit the PhotoStore and in connection with processing transactions at the PhotoStore. The third party operator of the PhotoStore and not the NHL Parties is responsible for the treatment of your information by the third party operator of the PhotoStore. Information about the privacy practices of the third party operator of the PhotoStore is on the <a href="http://welcome.hp.com/country/us/en/privacy.html " target="_blank">hp.com website</a>.<br>
+    <li class="headlinetext">Specifically with respect to the PhotoStore, we may collect personal information, for example, when you register, sign in, search, purchase products, participate in a contest or questionnaire or communicate with customer service. We may also automatically collect certain types of information, including the telephone number used to call customer service and, if you visit our PhotoStore, information collected through "cookies" (see below for more information about how we use cookies). In addition a third party may actually operate the PhotoStore and provide customer service and other functions with respect to the PhotoStore described in this Privacy Policy, and will collect personal information when you visit the PhotoStore and in connection with processing transactions at the PhotoStore. The third party operator of the PhotoStore and not the NHL Parties is responsible for the treatment of your information by the third party operator of the PhotoStore. Information about the privacy practices of the third party operator of the PhotoStore is on the <a target="_blank" href="http://welcome.hp.com/country/us/en/privacy.html ">hp.com website</a>.<br>
     &nbsp;</li>
     <li class="headlinetext">Additionally, certain third parties (such as companies that run certain fantasy games on the website, and/or companies that run certain public forums like NHL Connect) may collect personal information from you and share some of the personal information with us. On these parts of the website, you will see additional information about the privacy practices of the companies who actually collect the data, including information on how to opt out of having these companies use your personal information for purposes unrelated to providing you the services that you are requesting from the website. These companies and not the NHL Parties are responsible for the treatment of your information by these companies.</li>
     <li class="headlinetext">Web sites of NHL member teams may also collect personal information from you.&nbsp; These NHL member team web sites contain privacy polices (sometimes referred to as privacy statements) that you should review to understand how the applicable NHL member teams may use your information.&nbsp; The NHL member teams and not the NHL Parties are responsible for the treatment of your information by the NHL member teams.&nbsp; If you choose to register for any NHL member team web sites at the same time as you register for one of our web sites, the terms of the Privacy Policies for such NHL member team web sites are incorporated herein by reference.</li>
@@ -701,7 +734,7 @@ Your privacy is important to us. This Privacy Policy governs the practices of NH
     <br>
     <li class="headlinetext">Web servers operated by us, and by third party service providers and advertisers, may automatically collect non-personal information about which pages you visit, as well as your IP address or domain name. We may use this information for various purposes, such as tailoring our web site content, targeting promotional messages, and assessing the amount of traffic to various parts of our web site. We may also provide this information on an aggregated, anonymous basis to our marketing partners and/or advertisers.</li>
     <br>
-    <li class="headlinetext">We use third party analytics service providers to analyze the user experience on our websites. No personally identifiable information is ever collected these other analytics service providers. This analysis is performed using anonymous data collected from our websites.</li>
+    <li class="headlinetext">We use third party analytics service providers to analyze the user experience on our websites by incorporating tracking pixels, agents or any other visitor identification technology that collects anonymous data. No personally identifiable information is ever collected from these analytics service providers. This analysis is performed using anonymous data collected from our websites.</li>
 </ul>
 <ul>
     <li class="headlinetext">Consent may be given by your authorized representative (such as a legal guardian or a person having a power of attorney). When you voluntarily provide us with your personal information, we assume you consent to its collection, use and disclosure in accordance with this Privacy Policy and as described at the time of collection, subject to any uses and disclosures you have opted not to participate in. In some circumstances, we may expressly request your consent to the collection, use or disclosure of your personal information or provide you with an opportunity to opt out of certain uses or disclosures of your personal information. In some limited circumstances where permitted or required by law, we may collect, use or disclose your personal information without your consent, for example, to collect a debt that you owe to us, to comply with a court order or to comply with local or federal regulations or a legally permitted inquiry by a government agency. You may withdraw your consent to our collection, use and disclosure of personal information at any time, subject to contractual and legal restrictions and reasonable notice. Note that if you withdraw your consent to certain uses of your personal information, we may no longer be able to provide certain of our products or services.</li>
@@ -744,314 +777,12 @@ Your privacy is important to us. This Privacy Policy governs the practices of NH
 		</div>
 		<div id="rightColumn">
 			
-
-	
-	
-		<script type="text/javascript" language="javascript">
-jQuery(document).ready(function() {
-  	initRightRailTabs();
-});
-function initRightRailTabs() {
-	jQuery(".tabbedRightRail h1.leftTab").bind("click", function(e) {
-		toggleRightRailTab("left")
-	});
-	jQuery(".tabbedRightRail h1.rightTab").bind("click", function(e) { 
-		toggleRightRailTab("right");
-	});
-}
-</script>
-
-<style type="text/css">
-.tabbedRightRail{height:auto;}
-.tabbedRightRail h1{float:left;font-size:14px;width:300px;overflow:hidden;padding:8px 10px 2px 10px;}
-.tabbedRightRail h1.leftTab{width:117px;border-left:1px solid #9f9f9f; border-top:1px solid #9f9f9f;text-align:center; background-color: #fff;}
-.tabbedRightRail h1.rightTab{color:#666;background:#e4e4e4;cursor:pointer;width:140px;border-bottom:1px solid #9f9f9f;border-left:1px solid #9f9f9f;text-align:center;}
-.tabbedRightRail h1.rightTab:hover{color:#0183da;}
-</style>
-<script type="text/javascript" language="javascript">
-function toggleRightRailTab(tab) {	
-	switch(tab) {
-	case "left":
-		jQuery("#tabbedRightRailLeftTab").show();
-		jQuery(".tabbedRightRail h1.leftTab").css({
-			backgroundColor: "#fff",
-			borderLeft: "1px solid #9f9f9f",
-			borderBottom: "none",
-			borderTop: "1px solid #9f9f9f"
-		});
-		jQuery(".tabbedRightRail h1.leftTab").hover(function(){
-			jQuery(this).css("color","#333");
-				},function(){
-			jQuery(this).css("color","#333");
-		});
-		jQuery("#tabbedRightRailRightTab").hide();
-		jQuery(".tabbedRightRail h1.rightTab").css({
-			borderTop: "none",
-			borderRight: "1px solid #e4e4e4",
-			borderBottom: "1px solid #9f9f9f",
-			backgroundColor: "#e4e4e4",
-			color: "#666"
-		});
-		jQuery(".tabbedRightRail h1.rightTab").hover(function() {
-			jQuery(this).css("color","#0183da");
-			jQuery(this).css("cursor","pointer");
-				}, function() {
-			jQuery(this).css("color","#666");
-		});
-	break;
-	case "right":
-		jQuery("#tabbedRightRailLeftTab").hide();
-		jQuery(".tabbedRightRail h1.leftTab").css({
-			backgroundColor: "#e4e4e4",
-			borderTop: "none",
-			borderLeft: "1px solid #e4e4e4",
-			borderBottom: "1px solid #9f9f9f",
-			color: "#666"
-		});
-		jQuery(".tabbedRightRail h1.leftTab").hover(function() {
-		   jQuery(this).css("color","#0183da");
-		   jQuery(this).css("cursor","pointer");
-		   	}, function() {
-		   jQuery(this).css("color","#666");
-		 });
-		jQuery("#tabbedRightRailRightTab").show();
-		jQuery(".tabbedRightRail h1.rightTab").css({
-			borderBottom: "none",
-			borderRight: "1px solid #9f9f9f",
-			borderTop: "1px solid #9f9f9f",
-			backgroundColor: "#fff",
-			cursor: "normal"
-		});
-		jQuery(".tabbedRightRail h1.rightTab").hover(function(){
-			jQuery(this).css("color","#333");
-			 },function(){
-			jQuery(this).css("color","#333");
-		});
-	break;
-	}
-}
-</script>
-
-<div class="tabbedRightRail">
-
-<h1 class="leftTab">TOP HEADLINES</h1>
-<h1 class="rightTab">SITUATION ROOM</h1>
-<div style="padding-top: 5px; width: 298px; background-color: #fff; float: left; border-left: 1px solid #9f9f9f; border-right: 1px solid #9f9f9f; border-bottom: 1px solid #9f9f9f; margin-bottom: 6px;" id="tabbedRightRailLeftTab">
-	
 	
 
-
-	<div id="c_134644">
-		<div id="134644" class="rightRailModule">
-			
-			
-				
-					<div style="border: medium none;" id="topHeadlineBoxWhite" class="hdlBoxWhite">
-<ul class="hdlList" style="font-family: verdana;">
-    <li style="background-color: rgb(228, 228, 228); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: left;" class="hdl"><a href="http://www.nhl.com/ice/recap.htm?id=2009030412">Quick strikes, Niemi propel Hawks to 2-1 victory</a></li>
-    <li class="hdl"><b>WATCH:</b> <a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71301">Niemi makes a game-saving stop</a></li>
-    <li style="background-color: rgb(228, 228, 228); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: left;" class="hdl"><a href="http://www.nhl.com/ice/news.htm?id=530609">How loud is it? Game 2 decibel readings</a> | <a href="http://www.nhl.com/ice/news.htm?id=530178"><b>Blog</b></a></li>
-    <li class="hdl"><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71270"><b>Raucous  Madhouse Mem. Day anthem</b></a> <a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71270"><img border="0" src="http://cdn.nhl.com/league/ext/video/images/video_icon.png" style="margin: -3px 0pt;" alt=""></a></li>
-    <li style="background-color: rgb(228, 228, 228); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: left;" class="hdl"><b>Must see:</b> <a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71285">Carcillo's oops</a> | <a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71276">Pronger waves bye</a></li>
-    <li class="hdl"><b>WATCH:</b> <a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71293">Hossa,  Eager open scoring in second</a></li>
-    <li style="background-color: rgb(228, 228, 228); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: left;" class="hdl"><b>WATCH</b><b>: </b><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71279">Kopecky sends Richards overboard</a> <a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71279"><img border="0" src="http://cdn.nhl.com/league/ext/video/images/video_icon.png" style="margin: -3px 0pt;" alt=""></a></li>
-    <li class="hdl"><b>Eddie O Players to Watch:&nbsp;</b><a href="http://video.nhl.com/videocenter/console?catid=40&amp;id=71236">Flyers'   D</a> | <a href="http://video.nhl.com/videocenter/console?catid=40&amp;id=71238">Hossa</a></li>
-    <li style="background-color: rgb(228, 228, 228); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: left;" class="hdl"><a href="http://www.nhl.com/ice/news.htm?id=530579">Ice Age: Thank a veteran</a> | <a href="http://www.nhl.com/ice/news.htm?id=530178"><b>Carcillo in for PHI</b></a></li>
-    <li class="hdl"><a href="http://www.nhl.com/ice/news.htm?id=530541">5 things for     Hawks and Flyers to straighten out</a></li>
-    <li style="background-color: rgb(228, 228, 228); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: left;" class="hdl"><a href="http://www.nhl.com/ice/news.htm?id=530591">Blackhawks must      work to get power plays</a> | <a href="http://video.nhl.com/videocenter/console?catid=15&amp;id=71253"><img border="0" alt="" style="margin: -3px 0pt;" src="http://cdn.nhl.com/league/ext/video/images/video_icon.png"></a></li>
-    <li class="hdl"><b>NHL Net 1-on-1s: </b><a href="http://video.nhl.com/videocenter/console?catid=15&amp;id=71244">Coburn</a>   | <a href="http://video.nhl.com/videocenter/console?catid=15&amp;id=71235">Bolland</a>   | <a href="http://video.nhl.com/videocenter/console?catid=15&amp;id=71239">Leino</a></li>
-    <li class="hdl" style="background-color: rgb(228, 228, 228); background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: left;"><a href="http://www.nhl.com/ice/page.htm?id=62242"><b>2010 NHL  Awards finalists</b></a> | <a target="_blank" href="http://www.ticketmaster.com/event/17004493A9B96A73"><b>BUY  TICKETS</b></a></li>
-</ul>
-</div>
-<!--{12203700649830}-->
-				
-			
-		</div>
-	</div>
-
-	
-	
-	
+	&nbsp;
 
 
-</div>
-<div style="display: none; padding-top: 5px; width: 298px; background-color: #fff; float: left; border-left: 1px solid #9f9f9f; border-right: 1px solid #9f9f9f; border-bottom: 1px solid #9f9f9f; margin-bottom: 6px;" id="tabbedRightRailRightTab">
-	
-	
 
-
-	<div id="c_133602">
-		<div id="133602" class="rightRailModule">
-			
-			
-				
-					<div style="border: medium none ; height: 278px;" id="topHeadlineBoxWhite" class="hdlBoxWhite">
-<ul class="hdlList" style="font-family: verdana;">
-    <li style="line-height: 1.5;" class="hdl"><font style="color: rgb(1, 131, 218);"><b>INSIDE THE NHL SITUATION ROOM:</b></font></li>
-    <li style="line-height: 1.5;" class="hdl"><b>SAN JOSE @ CHICAGO GM 4</b><br>
-    <b>     Video Review 13:18 of 2nd period<br>
-    </b></li>
-    <li style="line-height: 1.5;" class="hdl">Video review was used at 13:18 of the 2nd period to determine if the puck completely crossed the line before the play was dead. Several different camera angles were used to determined that the puck completely crossed the goal line. Good goal.<br>
-    <br>
-    <a style="font-size: 10px;" href="http://www.nhl.com/ice/news.htm?id=525465"><b>VIEW SITUATION ROOM ENTRIES/VIDEOS ›</b></a></li>
-</ul>
-<script language="javascript" type="text/javascript">
-jQuery(function() {
-  jQuery(".leftTab").click();
-});
-</script></div>
-				
-			
-		</div>
-	</div>
-
-	
-	
-	
-
-
-</div>
-
-</div>
-		<div style="float: left; margin-bottom: 6px;"><!-- begin ad tag (tile=2) -->
-<script type="text/javascript">
-//<![CDATA[
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/nhl.com/about;pos=bigbox;pos=halfpage;tile=2;sz=300x250,300x600;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/nhl.com/about;pos=bigbox;pos=halfpage;tile=2;sz=300x250,300x600;ord=5575529009400622?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/nhl.com/about;pos=bigbox;pos=halfpage;tile=2;sz=300x250,300x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/nhl.com/about;pos=bigbox;pos=halfpage;tile=2;sz=300x250,300x600;ord=123456789?" border="0" alt="" /></a></noscript>
-<!-- end ad tag --></div>
-		
-
-
-	<div id="c_134636">
-		<div id="134636" class="rightRailModule">
-			
-			
-				
-					<div class="rgtcol-related-media" id="olympics">
-<h1>TOP MOMENTS</h1>
-<div class="rgtcol-content"><a target="_blank" href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71137"><img border="0" alt="" src="http://cdn.nhl.com/images/upload/2010/05/carcillo_kopecky2_053110.jpg"></a> Miss a big play or moment? Take a look at some of our  favorites in the NHL Quick Picks video channel. <b><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71276">WATCH  NOW ›</a></b><br>
-<br>
-<b>RECENT VIDEOS:</b>
-<div class="seperator">&nbsp;</div>
-<ul style="font-family: verdana;">
-    <li class="even"><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71293">Hawks break it open with two goals in :28</a></li>
-    <li class="odd"><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71288">Niemi denies Richards on breakaway chance</a></li>
-    <li class="even"><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71276">Things get heated, Pronger waves "bye-bye"</a><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71276"><br>
-    </a></li>
-    <li class="odd"><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71285">Carter, Carcillo eye Kopecky ... oops!</a><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71285"><br>
-    </a></li>
-    <li class="even"><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71134">Memorial Day Anthem pumps Chicago crowd</a><a href="http://video.nhl.com/videocenter/console?catid=35&amp;id=71134"><br>
-    </a></li>
-</ul>
-</div>
-</div>
-<!--{12710087158110}-->
-				
-			
-		</div>
-	</div>
-
-	
-	
-	
-
-		
-
-
-	<div id="c_134379">
-		<div id="134379" class="rightRailModule">
-			
-			
-				
-					<div class="rgtcol-related-media" id="fbFan">
-<h1>FACEBOOK FANS</h1>
-<iframe scrolling="no" frameborder="0" style="margin: 0px 0px 2px 9px; height: 325px; width: 280px;" allowtransparency="true" src="http://www.facebook.com/connect/connect.php?id=61652252465&amp;connections=12&amp;stream=0&amp;logobar=0"></iframe></div>
-				
-			
-		</div>
-	</div>
-
-	
-	
-	
-
-		
-
-
-	<div id="c_133954">
-		<div id="133954" class="rightRailModule">
-			
-			
-				
-			
-		</div>
-	</div>
-
-	
-	<script type="text/javascript">
-		jQuery.post('http://www.nhl.com/geo/targetedcontent.htm', {t:'module', p:'RightRail', l:4, s:2}, function (data) { data = data.replace(/^\s+|\s+$/g, ''); if (data != '') {jQuery('#c_133954').show(); jQuery('#133954').html(data);}})
-	</script>
-	
-	
-	
-
-		
-
-
-		
-
-
-	<div id="c_133998">
-		<div id="133998" class="rightRailModule">
-			
-			
-				
-			
-		</div>
-	</div>
-
-	
-	<script type="text/javascript">
-		jQuery.post('http://www.nhl.com/geo/targetedcontent.htm', {t:'module', p:'RightRail', l:6, s:2}, function (data) { data = data.replace(/^\s+|\s+$/g, ''); if (data != '') {jQuery('#c_133998').show(); jQuery('#133998').html(data);}})
-	</script>
-	
-	
-	
-
-		
-
-
-	<div id="c_134639">
-		<div id="134639" class="rightRailModule">
-			
-			
-				
-					<table width="300" height="311">
-    <tbody>
-        <tr>
-            <td valign="bottom"><!-- begin ad tag (tile=3) --> <script type="text/javascript">
-//<![CDATA[
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/nhl.com/home;pos=header;tile=3;sz=300x61;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/nhl.com/home;pos=header;tile=3;sz=300x61;ord=5575529009400622?"></script> <noscript><a href="http://ad.doubleclick.net/jump/nhl.com/home;pos=header;tile=3;sz=300x61;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/nhl.com/home;pos=header;tile=3;sz=300x61;ord=123456789?" border="0" alt="" /></a></noscript> <!-- end ad tag --></td>
-        </tr>
-        <tr>
-            <td valign="top"><iframe width="300" height="250" frameborder="0" scrolling="no" src="http://www.nhl.com/ptth/PollPage.htm?pid=12288&amp;skinId=4&amp;pop=true" marginheight="0" marginwidth="0" id="pollIFrame12288" vspace="0" hspace="0"><br></iframe></td>
-        </tr>
-    </tbody>
-</table>
-				
-			
-		</div>
-	</div>
-
-	
-	
-	
-
-	
 
 		</div>
 	</div>
@@ -1060,13 +791,13 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 <!-- Omniture stuff - specific to adhoc pages -->
 <script language="JavaScript">
 s.channel="ADHOC";
-s.hier1="Nhlhq";
 s.prop11="NHL";
 s.prop1="Nhlhq";
+s.hier1="Nhlhq";
 s.prop17="26386";
 s.prop9="Ad-hoc";
-s.prop14="NHL_com_Privacy_Policy-09/14/2006";
 s.pageName="nhl:en:Nhlhq:NHL_com_Privacy_Policy-09/14/2006";
+s.prop14="NHL_com_Privacy_Policy-09/14/2006";
 
 </script>
 
@@ -1074,6 +805,24 @@ s.pageName="nhl:en:Nhlhq:NHL_com_Privacy_Policy-09/14/2006";
 	<!-- start drip -->
 	<br><br>
 	<br><br>
+	<div id="dripTopAd">
+
+
+	<div id="c_158554">
+		<div id="158554">
+			
+			
+				
+					<a href="http://shop.nhl.com/entry.point?target=z&amp;source=NHL_CTX:978x60HolidayDeal4:12.03.10"><img width="978" height="60" border="0" alt="Shop.NHL.com" style="float: left; margin-top: 5px;" src="http://cdn.nhl.com/league/ext/shopcreative/dod/650554_NHL_US_978x60_deal_4.jpg"></a>
+				
+			
+		</div>
+	</div>
+
+	
+	
+	
+</div>
 	<div id="drippan">
 	
 	
@@ -1106,8 +855,7 @@ s.pageName="nhl:en:Nhlhq:NHL_com_Privacy_Policy-09/14/2006";
 &nbsp;<br>
 &nbsp;</div>
 <div class="col">
-<h1>PLAYER SITES</h1>
-<a href="http://www.seanavery.com/">Sean Avery ›</a><br>
+<h1>PLAYER SITES&nbsp; (A-K)</h1>
 <a href="http://www.backstrom19.com/">Nicklas Backstrom ›</a><br>
 <a href="http://www.martinbrodeur30.com/">Martin Brodeur ›</a><br>
 <a href="http://www.eliaspatrik.com/en/">Patrik Elias ›</a><br>
@@ -1116,14 +864,54 @@ s.pageName="nhl:en:Nhlhq:NHL_com_Privacy_Policy-09/14/2006";
 <a href="http://www.greenlife52.com/">Mike Green ›</a><br>
 <a href="http://www.jackjohnson3.com">Jack Johnson ›</a><br>
 <a href="http://www.anzeseleven.com/">Anze Kopitar ›</a><br>
+<a href="http://www.niklaskronwall.com/">Niklas Kronwall ›</a><br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;</div>
+<div class="col">
+<h1>PLAYER SITES&nbsp; (L-Z)</h1>
+<a href="http://www.jl15.com/">Jamie Langenbrunner ›</a><br>
 <a href="http://www.georgeslaraque.com/">Georges Laraque ›</a><br>
 <a href="http://www.vinny4.com/">Vincent Lecavalier ›</a><br>
 <a href="http://www.millertime30.com/">Ryan Miller ›</a><br>
 <a href="http://www.mikemodano.com/">Mike Modano ›</a><br>
+<a href="http://www.officialtjoshie.com/">T.J. Oshie ›</a><br>
 <a href="http://www.chrispronger.com/">Chris Pronger ›</a><br>
 <a href="http://www.thomasvanek.at/index.php?id=2&amp;L=1">Thomas Vanek ›</a><br>
 <a href="http://henrikzetterberg.com/">Henrik Zetterberg ›</a><br>
 &nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;</div>
+<div class="col">
+<h1>COMMUNITY</h1>
+<a href="http://www.nhl.com/ice/page.htm?id=27182">Hockey is for Everyone ›</a><br>
+<a href="http://www.nhl.com/ice/page.htm?id=25343">Hockey Fights Cancer ›</a><br>
+<a href="http://www.nhl.com/ice/eventhome.htm?location=/nhlgreen">NHL Green ›</a><br>
+<br>
+<h1>NHL MOBILE</h1>
+<a href="http://mobile.gamecenter.nhl.com/us#&amp;intcmpid=lp-mblus">Get NHL<br>
+GAMECENTER 2010 ›</a><br>
+<a href="http://m.nhl.com#&amp;intcmpid=ftr-mbl">NHL.com Mobile Site ›</a><br>
+<a href="http://mobile.gamecenter.nhl.com/faqs">Mobile FAQ ›</a><br>
+<a href="http://gclsupport.nhl.com/">Mobile Feedback ›</a><br>
+<br>
+<h1>TERMS</h1>
+<a href="http://www.nhl.com/ice/page.htm?id=26389">Terms of Service ›</a><br>
+<a href="http://www.nhl.com/ice/page.htm?id=26386">Privacy Policy ›</a><br>
+<a href="http://www.nhl.com/ice/page.htm?id=26388">Online Transmission ›</a><br>
+<a href="http://www.nhl.com/ice/page.htm?id=26387">Copyright Policy ›</a> &nbsp;<br>
 &nbsp;<br>
 &nbsp;</div>
 <div class="col">
@@ -1146,54 +934,14 @@ s.pageName="nhl:en:Nhlhq:NHL_com_Privacy_Policy-09/14/2006";
 &nbsp; <br>
 &nbsp; <br>
 &nbsp;</div>
-<div class="col">
-<h1>COMMUNITY</h1>
-<a href="http://www.nhl.com/ice/page.htm?id=27182">Hockey is for Everyone ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=25343">Hockey Fights Cancer ›</a><br>
-<br>
-<h1>NHL MOBILE</h1>
-<a href="http://www.nhl.com/ice/page.htm?id=29048#&amp;intcmpid=lp-mblus">Get Mobile Alerts (US) ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=29047#&amp;intcmpid=lp-mblca">Get Mobile Alerts (CA) ›</a><br>
-<a href="http://m.nhl.com#&amp;intcmpid=ftr-mbl">NHL.com Mobile Site ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=29348#&amp;intcmpid=ftr-mbl">Mobile Terms of<br>
-Service ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=30208">Mobile FAQ ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=30208#feedback">Mobile Feedback ›</a><br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;</div>
-<div class="col">
-<h1>TERMS</h1>
-<a href="http://www.nhl.com/ice/page.htm?id=26389">Terms of Service ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=26386">Privacy Policy ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=26388">Online Transmission ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=26387">Copyright Policy ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=29348">Mobile Terms of<br>
-Service ›</a><br>
-<a href="http://www.nhl.com/ice/news.htm?id=502409">2010 NHL Winter Classic<br>
-Ticket Refund Policy ›</a><br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;</div>
 <div class="rightCol">
 <h1>ABOUT</h1>
 <a href="http://www.nhl.com/ice/page.htm?id=26369">FAQ ›</a><br>
-<a href="http://www.nhl.com/ice/page.htm?id=30208">Mobile FAQ ›</a><br>
+<a href="http://mobile.gamecenter.nhl.com/faqs/view/">Mobile FAQ ›</a><br>
 <a href="http://www.nhl.com/ice/feedback.htm">Contact Us ›</a><br>
 <a href="http://www.nhl.com/ice/page.htm?id=26371">NHL Center Ice (USA) ›</a><br>
 <a href="http://www.nhl.com/ice/page.htm?id=27197">NHL Centre Ice (CAN) ›</a><br>
-<a href="http://gclsupport.nhl.com/">NHL GameCenter Live support ›</a><br>
+<a href="http://gclsupport.nhl.com/">NHL GCL support ›</a><br>
 <a href="http://www.nhlnetwork.com">NHL Network ›</a><br>
 <a href="http://www.xmradio.com/nhl/index.xmc">XM Home Ice ›</a><br>
 <a href="http://www.nhl.com/ice/page.htm?id=25788">Coaches ›</a><br>
@@ -1221,16 +969,16 @@ Ticket Refund Policy ›</a><br>
 		
 
 
-	<div id="c_134134">
-		<div id="134134">
+	<div id="c_145874">
+		<div id="145874">
 			
 			
 				
-					<table width="965" cellspacing="0" cellpadding="0" border="0" align="center" style="padding: 20px 0pt;">
+					<table cellspacing="0" cellpadding="0" border="0" align="center" style="width: 100%; padding: 20px 0pt;">
     <tbody>
         <tr>
             <td width="37" valign="top" align="center" class="txt11" style="padding-right: 5px;"><img width="37" height="40" border="0" alt="National Hockey League logo" src="http://cdn.nhl.com/images/default/nhl_shield.png"></td>
-            <td width="671" valign="top" align="left" class="txt10" style="padding-right: 5px;">NHL.com is the official web site of the National Hockey League. NHL, the NHL Shield, the word mark and image of the Stanley Cup, Center Ice name and logo, NHL Conference logos and NHL Winter Classic name are registered trademarks and Vintage Hockey word mark and logo, Live Every Shift, Hot Off the Ice, The Game Lives Where You Do, NHL Power Play, NHL Winter Classic logo, NHL Heritage Classic name and logo, NHL GameCenter Live, NHL Network, NHL Mobile name and logo, NHL Radio, NHL Awards name and logo, Hockey Fights Cancer, NHL All-Access Vancouver name and logo, NHL Ice Time, Ice Time Any Time and Ice Tracker are trademarks of the National Hockey League. All NHL logos and marks and NHL team logos and marks depicted herein are the property of the NHL and the respective teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. © NHL 2010. All Rights Reserved. All NHL team jerseys customized with NHL players' names and numbers are officially licensed by the NHL and the NHLPA. The Zamboni word mark and configuration of the Zamboni ice resurfacing machine are registered trademarks of Frank J. Zamboni &amp; Co., Inc. © Frank J. Zamboni &amp; Co., Inc. 2010.  All Rights Reserved.</td>
+            <td width="671" valign="top" align="left" class="txt10" style="padding-right: 5px;">NHL.com is the official web site of the National Hockey League. NHL, the NHL Shield, the word mark and image of the Stanley Cup, Center Ice name and logo, NHL Conference logos and NHL Winter Classic name are registered trademarks and Vintage Hockey word mark and logo, Live Every Shift, Hot Off the Ice, The Game Lives Where You Do, NHL Power Play, NHL Winter Classic logo, NHL Heritage Classic name and logo, NHL GameCenter Live, NHL Network, NHL Mobile name and logo, NHL Radio, NHL Awards name and logo, Hockey Fights Cancer, NHL All-Access Vancouver name and logo, NHL Ice Time, Ice Time Any Time, Ice Tracker and Questions Will Become Answers are trademarks of the National Hockey League. All NHL logos and marks and NHL team logos and marks depicted herein are the property of the NHL and the respective teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. © NHL 2010. All Rights Reserved. All NHL team jerseys customized with NHL players' names and numbers are officially licensed by the NHL and the NHLPA. The Zamboni word mark and configuration of the Zamboni ice resurfacing machine are registered trademarks of Frank J. Zamboni &amp; Co., Inc. © Frank J. Zamboni &amp; Co., Inc. 2010.  All Rights Reserved.</td>
         </tr>
     </tbody>
 </table>
@@ -1251,6 +999,9 @@ Ticket Refund Policy ›</a><br>
 </div><!-- end pageBodyContent -->
 
 </div>
+
+<a id="modalVideoContainer" href="#modalVideoPlayerContainer">&nbsp;</a>
+<div id="modalVideoPlayerContainer" style="display: none;"></div>
 
 <!-- SiteCatalyst code version: H.10.
 Copyright 1997-2007 Omniture, Inc. More info available at
@@ -1342,6 +1093,6 @@ c15:""
 
 <script src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0002/6606.js" language="JavaScript" type="text/javascript"></script>
 
-<script src="http://www.nhl.com/league/js/postupdate.js?v=3.35" language="JavaScript" type="text/javascript"></script>
+<script src="http://www.nhl.com/league/js/postupdate.js?v=4.5" language="JavaScript" type="text/javascript"></script>
 
 </body></html>
