@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523191645id_/http%3A//www.voices.com/security/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203104531id_/http%3A//www.voices.com/security/privacy_policy) for the most accurate reproduction.*
 
 # Voices.com
 
-  
-
-
-#### Our Mission
+#### Our Commitment To Privacy
 
 Voices.com's privacy policy covers the collection and use of personal information that may be collected by Voices.com any time you interact with Voices.com, such as when you visit our website, when you purchase Voices.com products and services, or when you contact our sales or support representatives. Please take a moment to read the following to learn more about our privacy policies, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Voices.com, and we go to great lengths to protect it.
 
@@ -41,4 +38,4 @@ At Voices.com, we trust and value the accuracy of your personal information. At 
 
 ####  Serving You Better
 
-Voices.com is the leading voice marketplace. We thank you for your business and look forward to continuing to serve you. If you have any questions or concerns, they can be sent to support@voices.com or by mail to Voices.com, 130-100 Collip Circle, London ON N6G 4X8 Canada.
+Voices.com is the leading voice marketplace. We thank you for your business and look forward to continuing to serve you. If you have any questions or concerns, they can be sent to support@voices.com or by mail to Voices.com, 999 Collip Circle, London ON N6G 0J3 Canada.
