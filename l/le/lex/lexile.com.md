@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602032745id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203010502id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Lexile.com
 
-**Overview**  
+**Overview**   
 MetaMetrics, Inc. ("MetaMetrics", "we", or "us") are providing this Privacy Notice to inform you of our practices regarding personally identifiable information that may be collected in the course of our providing services to you. MetaMetrics respects the privacy of our valued customers and subscribers. This Privacy Notice outlines the specific personally identifiable information that is gathered by MetaMetrics when you use one of our websites and how that personally identifiable information is used.
 
   
-MetaMetrics works to ensure a high degree of protection for consumers and businesses. We will continue to work to ensure that our websites comply with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about this Privacy Notice, please contact us via e-mail at [webinfo@lexile.com](mailto:webinfo@lexile.com).
+MetaMetrics works to ensure a high degree of protection for consumers and businesses. We will continue to work to ensure that our websites comply with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about this Privacy Notice, please contact us via e-mail at [feedback@lexile.com](mailto:feedback@lexile.com) .
 
   
-**Collection and Use of Information by MetaMetrics**  
+**Collection and Use of Information by MetaMetrics**   
 MetaMetrics requests certain information from you when we need such information ("personally identifiable information") to provide our services or complete an online transaction. Such personally identifiable is used to create a profile that allows you to access products on our websites, and may be used to contact you in the course of using such products. We may also request certain financial information in order to verify your identity, and to bill either you (either you personally or your company as applicable) for products and services. We may also collect certain demographic information that may be used to tailor your access to our websites or for any requested e-mail communications, and to display information that is more relevant to you.
 
   
@@ -19,21 +19,21 @@ Your e-mail address is used to only send you information that you have requested
 While IP addresses (address of a computer) are logged to track your use of our websites, no personally identifiable information is used for such purposes. Tracking IP addresses gives MetaMetrics information about which parts of our websites are used most often and what information is subsequently viewed. IP addresses are not linked to anything that can personally identify a visitor. Thus, session details are tracked, but your identity remains anonymous.
 
   
-**Information Use by Third Parties**  
+**Information Use by Third Parties**   
 It is MetaMetrics' policy to not provide your personally identifiable information to third parties without your express permission except in instances where such disclosure is necessary to process payment transactions or provide services that you have requested. We generally do not release personally identifiable information except under the following circumstances: (i) if MetaMetrics is compelled to do so under law by an appropriately empowered governmental authority, and (ii) if MetaMetrics makes our services or products available to you through one of our business partners, however, MetaMetrics will only share that portion of personally identifiable information that is necessary to complete the transaction you have requested in connection with the purchase of our services or products. Where you purchase our services through one of our business partners, we may provide your name (or company name when applicable) and business volume information to the partner. We may also share your personally identifiable information with one of our business partners when you have explicitly agreed to opt-in to communications from one or more of our business partners.
 
   
-**Contact Lists, Campaign Content and Campaign Reports**  
+**Contact Lists, Campaign Content and Campaign Reports**   
 MetaMetrics takes commercially reasonable measures to ensure that our contact lists, e-mail content, and internal reports remain private and confidential. Any use of MetaMetrics websites by you must be in compliance with our Acceptable Use Policy in order to protect against inappropriate use (illegal, abusive, obscene, threatening, etc.) of our websites and services.
 
   
-**Information Exchanges and Transactions**  
+**Information Exchanges and Transactions**   
 Privacy, anti-hacking and other security technology has been implemented throughout our computer systems that are used to deliver access to our websites. Information exchanges and transactions, passwords, contact lists (uploading and storing online) and billing related data between you and our websites are protected using various technologies. This ensures a high degree of security.
 
   
-**Credit Card Information**  
-MetaMetrics allows you to purchase Lexile-related products and services in a variety of ways. When credit card billing is chosen, information is transferred to our online-transaction clearing house partner using industry-leading, secure transmission technology including SSL and HTTPS (the transmission standard used for transactions by major financial institutions).
+**Credit Card Information**   
+MetaMetrics allows you to purchase Lexile® -related products and services in a variety of ways. When credit card billing is chosen, information is transferred to our online-transaction clearing house partner using industry-leading, secure transmission technology including SSL and HTTPS (the transmission standard used for transactions by major financial institutions).
 
   
-**The Bottom Line**  
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If at any time you have questions or concerns about our privacy practices in general or this Privacy Notice in particular, please feel free contact us at [webinfo@lexile.com](mailto:webinfo@lexile.com).
+**The Bottom Line**   
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If at any time you have questions or concerns about our privacy practices in general or this Privacy Notice in particular, please feel free contact us at [webinfo@lexile.com](mailto:webinfo@lexile.com) .
