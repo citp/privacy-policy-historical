@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whylink.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324073131id_/http%3A//whylink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whylink.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203234919id_/http%3A//www.whylink.com/privacy.php) for the most accurate reproduction.*
 
 # WhyLink.com: Privacy Policy
 
@@ -73,5 +73,5 @@ http://www.whylink.com
 Reno, NV 89521  
 USA  
 info@nextnetmedia.com  
-1-800-731-0046  
+1-800-737-5820  
 
