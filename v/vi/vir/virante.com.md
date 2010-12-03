@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virante.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603223212id_/http%3A//www.virante.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virante.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203074953id_/http%3A//www.virante.com/privacy.html) for the most accurate reproduction.*
 
 # Virante Privacy Policy
 
