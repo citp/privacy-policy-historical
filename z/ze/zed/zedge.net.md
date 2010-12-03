@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212202id_/http%3A//www.zedge.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203152544id_/http%3A//www.zedge.net/privacy-policy) for the most accurate reproduction.*
 
 # Zedge | Privacy policy
 
@@ -12,7 +12,7 @@ If you have questions or concerns regarding this privacy policy, you should firs
 
 Zedge Holdings, Inc.  
 39 Broadway  
-Suite 3010  
+Suite 950  
 NY 10006  
 New York  
 Email: [privacy@zedge.net](mailto:privacy@zedge.net)
@@ -109,7 +109,7 @@ Our web site is not intended for use by children under the age of 16, and we do 
 
 ####  **10\. Ownership Changes** 
 
-If the ownership of all or substantially all of the Zedge business, or individual business units owned by Zedge Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the provisions of he current privacy policy.
+If the ownership of all or substantially all of the Zedge business, or individual business units owned by Zedge Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the provisions of the current privacy policy.
 
 ####  **11\. Changes to this Privacy Policy** 
 
