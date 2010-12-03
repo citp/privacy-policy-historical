@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131032206id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203121454id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Almost Gaming
+# Privacy Policy Statement | WoW Professions & Talents
 
 This is the web site of Almost Gaming. We can be reached via e-mail at [ webmaster@almostgaming](mailto:webmaster@almostgaming).
 
@@ -11,3 +11,5 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart. You will not receive an e-mail from us unless you sign up for our newsletter. 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google Adsense.
+
+[](http://fwgold.secretgg.hop.clickbank.net/?tid=bb)
