@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502074522id_/http%3A//www.thebiznizdir.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203013855id_/http%3A//www.thebiznizdir.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - thebiznizdir.com
 
