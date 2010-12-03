@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usafa.edu privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215203622id_/http%3A//www.usafa.af.mil/main/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafa.edu privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203052729id_/http%3A//www.usafa.af.mil/main/disclaimer.asp) for the most accurate reproduction.*
 
 # United States Air Force Academy - Disclaimer
 
