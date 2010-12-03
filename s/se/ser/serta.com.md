@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serta.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613181017id_/http%3A//www.serta.com/Serta-mattress-leading-US-Mattress-manufacturer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serta.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203132848id_/http%3A//www.serta.com/Serta-mattress-leading-US-Mattress-manufacturer-privacy-policy.html) for the most accurate reproduction.*
 
 # Serta. We Make The Worlds Best Mattresses. Privacy Policy
 
