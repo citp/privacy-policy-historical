@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the graphicmail.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218140006id_/http%3A//www.graphicmail.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicmail.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203232741id_/http%3A//www.graphicmail.com/site/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy from GraphicMail - Email Marketing Solution & Services
+# GraphicMail Privacy Policey- Email Marketing Solution - GraphicMail
 
 |  | 
 
-|   | **[About us](https://web.archive.org/web/20100218140006id_/http%3A//www.graphicmail.com/site/aboutus.aspx)** > Privacy Policy  
+|   | **[About us](https://web.archive.org/web/20101203232741id_/http%3A//www.graphicmail.com/site/aboutus.aspx)** > Privacy Policy  
 ---|---  
   |   
   |    
@@ -146,19 +146,6 @@ No credit card needed. Zero Risk!
 
 60 days . no obligation
 
-| Username * |   
----|---  
-Password * |   
-Company |   
-First name * |   
-Last name * |   
-Mobile/Tel * |   
-Industry * |   
-Country |   
-Promo Code |   
-I want to receive news and offers  
-I agree to the terms and conditions  
-Remember to click the activation link in the confirmation email. Until this is clicked, you can only send test sends to your own email address.   
-  
-  
+#### Quick Tour Video
 
+[](http://vimeo.com/moogaloop.swf?clip_id=15839921&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1)
