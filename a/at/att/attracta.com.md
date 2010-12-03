@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attracta.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618210911id_/http%3A//www.attracta.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attracta.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055216id_/http%3A//www.attracta.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
