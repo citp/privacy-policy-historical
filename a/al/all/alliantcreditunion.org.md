@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliantcreditunion.org privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605193054id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantcreditunion.org privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203072249id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.*
 
 # Alliant Credit Union | Privacy Policy
 
