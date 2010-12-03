@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531150738id_/http%3A//icivics.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203053510id_/http%3A//www.icivics.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iCivics
 
@@ -10,7 +10,7 @@ Our Website allows visitors and members to learn about and interact with iCivics
 
 ## how we collect your personal information
 
-iCivics obtains information from you either by you typing in your personal details or by the automatic collection of information through Google Analytics as you use the Website. We collect and store this information and use it for the purposes for which you submitted it. In addition, we may use such information to improve our marketing and promotional efforts, keep you updated about our work, analyze Website usage, and improve our Website's content, layout, and services. We do not currently share this information with any third parties, except those that assist us with certain operational functions, as described below.
+iCivics obtains information from you either by you typing in your personal details or by the automatic collection of information through Google Analytics as you use the Website. We collect and store this information and use it for the purposes for which you submitted it. In addition, we may use such information to improve our marketing and promotional efforts, keep you updated about our work, analyze Website usage, and improve our Website's content, layout, and services.
 
 ##  **disclosure of your information to third parties**
 
@@ -18,7 +18,7 @@ iCivics reserves the right to employ companies to assist us with such functions 
 
 ## disclosure of your identity on our website
 
-If you become a member of iCivics, you will have a secure public name that will be displayed to other users. We ask that users not post information pertaining to their identity or other personal items on our site.  It is iCivics policy not to disclose your personal information on this Website or anywhere else, however, please be advised that we may disclose personally identifying information about you to the government or to third parties pursuant to law enforcement inquiries, court orders, subpoenas and similar requests, or when we otherwise believe in good faith that such disclosure is necessary or appropriate in connection with any activity that violates the law or may expose us to liability.
+If you become a member of iCivics, you will have a secure public name that will be displayed to other users. If you join an iCivics "class" by entering a leader code, you will be asked to enter your first name and last initial, which will be displayed to the owner of that leader code. Please only enter a leader code that has been given to you by an educator whom you know. We ask that users not post information pertaining to their identity or other personal items on our site. However, please be advised that we may disclose personally identifying information about you to the government or to third parties pursuant to law enforcement inquiries, court orders, subpoenas and similar requests, or when we otherwise believe in good faith that such disclosure is necessary or appropriate in connection with any activity that violates the law or may expose us to liability.
 
 ## security
 
@@ -30,7 +30,7 @@ Cookies are small text files that a website transfers to a website visitor's har
 
 ## NOTE TO PARENTS AND CHILDREN 
 
-iCivics welcomes children to learn more about our organization and about the educational issues presented on our Website, and we are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this Website or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifying information from anyone under the age of 13 without prior verifiable parental consent. If a child under the age of 13 wishes to sign up for a user account on our Website, he or she must first obtain parental approval and provide a parent's email address for confirmation. As soon as we receive email confirmation from the parent's email address approving the child's user account, we will activate the account.  If we become aware that a child under 13 has provided us with such information without consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that a child under 13 has provided such information to us, he or she should contact us at [jjc232@law.georgetown.edu](mailto:jjc232@law.georgetown.edu) so that we may deactivate the user account and remove all personally identifying information from our Website and servers.
+iCivics welcomes children to learn more about our organization and about the educational issues presented on our Website, and we are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this Website or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifying information from anyone under the age of 13 without prior verifiable parental consent. If a child under the age of 13 wishes to sign up for a user account on our Website, he or she must first obtain parental approval and provide a parent's email address for confirmation. As soon as we receive email confirmation from the parent's email address approving the child's user account, we will activate the account. If we become aware that a child under 13 has provided us with such information without consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that a child under 13 has provided such information to us, he or she should contact us at [jjc232@law.georgetown.edu](mailto:jjc232@law.georgetown.edu) so that we may deactivate the user account and remove all personally identifying information from our Website and servers.
 
 ## privacy policy changes
 
@@ -48,4 +48,4 @@ This privacy policy is effective as of May 16, 2010.
 
 ## governing law
 
-You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York. This Privacy Policy was last updated on May 21, 2010.
+You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York. This Privacy Policy was last updated on June 17, 2010.
