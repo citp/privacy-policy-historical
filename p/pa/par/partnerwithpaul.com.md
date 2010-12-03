@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528025108id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203072620id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
   
 We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
-
-If you're looking for the short version, we do not sell your user data to any 3rd-parties.
 
 If you want to opt-out of email communications from PartnerWithPaul.com, cancel your account, or need to contact us for any other privacy related issue you may do so in the following ways:
 
@@ -120,4 +118,4 @@ By using this website, you consent to the collection and use of the information 
 
 If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above.
 
-This Privacy Policy was last updated January 16th, 2009.
+This Privacy Policy was last updated October 23rd, 2010.
