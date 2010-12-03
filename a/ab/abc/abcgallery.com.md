@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcgallery.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526054738id_/http%3A//www.abcgallery.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcgallery.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203212357id_/http%3A//abcgallery.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
