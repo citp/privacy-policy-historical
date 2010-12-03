@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415024805id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203185447id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy on Orbitz
 
@@ -140,7 +140,7 @@ _What Personal Information we collect_
 > 
 > **When we send e-mails or e-newsletters**
 >
->> When we send e-mails or e-newsletters, or when you forward a promotion or search results to a third party, using the "Tell a Friend" feature, we may insert a pixel tag in the e-mail. Our Tell a Friend feature works in the following areas:
+>> When we send e-mails or e-newsletters, or when you forward a promotion or search results to a third party, using the "Tell a Friend" feature, we may insert a pixel tag in the e-mail. Our â€œTell a Friendâ€ feature works in the following areas:
 > 
 >   * If you tell a friend about a promotion or a flight that you found on our Site, a one-time email will be sent to your friend about this information. In these instances we do not store any of the names or email addresses of your friends. 
 >   * If you tell a friend about an itinerary that you booked through our Site, we will send your friend a one-time email with the requested information. In this instance we do not permanently store the names and email addresses of your friends and do not use that data for any additional marketing purposes.
@@ -226,7 +226,7 @@ _To whom we disclose Personal Information_
 >   * We may collaborate with other companies to offer you additional Products or Services, for example, through sweepstakes, raffles and promotions. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. 
 > 
 > This policy does not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services. 
->   * To protect our Site and our rights under our [Terms and Conditions of Use](https://web.archive.org/pagedef/content/legal/terms05.jsp?popupsDisabled=false) ; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain. 
+>   * To protect our Site and our rights under our [Terms and Conditions of Use](https://web.archive.org/pagedef/content/legal/terms05.jsp?popupsDisabled=true) ; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain. 
 >   * To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business. 
 >   * Where the information is public. 
 >   * To our insurers and to regulatory agencies. 
