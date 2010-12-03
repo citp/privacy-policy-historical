@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103234151id_/http%3A//shopwiki.com/wiki/Help%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203141706id_/http%3A//www.shopwiki.com/wiki/Help%3APrivacy) for the most accurate reproduction.*
 
-# Help:Privacy
+# Privacy
 
 #### Effective Date: January 24, 2007
 
@@ -14,11 +14,6 @@ We encourage you to register as a ShopWiki member to take advantage of many of t
 If you do not register, the information we collect from you is limited. We log your IP address to diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on how you access our site. Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximize our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors. Your IP address will also enable us to estimate your zip code so we can approximate shipping and tax information within your search results.  
 We also place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. However, unless you register with us, it is not associated with personal information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive and cannot retrieve information from any other cookies created by other Web sites. We use cookies in this manner to help us understand how visitors use our site and to help us to improve our site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only our Web site, but other Web sites as well. Since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer.  
 We also place “Web beacons” (also known as “clear gifs”) on many of our Web pages. Web beacons recognize a visitor’s cookie information and therefore gathers the information that allows us to understand how visitors use our site.
-
-#### ShopWiki members
-
-If you choose to register with us to become a ShopWiki member, you'll be able to write and edit wiki buying and gift guides and use all of the personalization features on our site. The benefits of membership will increase over time as we get to know you better and introduce new features. We encourage you to register as a member so that you can experience everything ShopWiki has to offer!  
-To register as a member, you will be asked to select a user name and password and to provide your email address and possibly some demographic and interest information about yourself. This information is also associated with your personal wiki, product wishlists and other preferences. The information we collect varies, but we only collect the information that you voluntarily provide to our Web site, for example, by responding to our forms or completing your ShopWiki profile or contributing content to a ShopWiki product guide. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our site every time you visit.  Additionally, authorized ShopWiki personnel may update your membership information to accurately reflect any new information included in communications received from you.
 
 #### ShopWiki Assistant
 
@@ -50,10 +45,10 @@ ShopWiki does not control the privacy policies of any Web site linked from our W
 
 #### Disclosure of Information in Public Areas
 
-If you voluntarily disclose personal information in a wiki contribution that is posted on our Web site, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. ShopWiki does not control the actions of users of our Web site. If you disclose personal information in a public area, you do so at your own risk.  In addition, we reserve the right to terminate the account of any ShopWiki member who uses our Web site in a manner inconsistent with the [Terms and Conditions](https://web.archive.org/wiki/Help:Terms+and+Conditions "Click here to see a Wiki article on this subject")
+If you voluntarily disclose personal information in a wiki contribution that is posted on our Web site, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. ShopWiki does not control the actions of users of our Web site. If you disclose personal information in a public area, you do so at your own risk.  In addition, we reserve the right to terminate the account of any ShopWiki member who uses our Web site in a manner inconsistent with the [Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
 
 #### Collection of Information From Minors
 
 Our Web site is directed to and intended for use by adults only. We require that a user be eighteen years of age or older to become a ShopWiki member (and in doing so, to submit personal information). We do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records.
 
-[Terms and Conditions](https://web.archive.org/wiki/Help:Terms+and+Conditions "Click here to see a Wiki article on this subject")
+[Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
