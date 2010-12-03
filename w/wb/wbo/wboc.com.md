@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wboc.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504235245id_/http%3A//www.wboc.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wboc.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203021309id_/http%3A//www.wboc.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WBOC-TV 16, Delmarvas News Leader, FOX 21 -
 
