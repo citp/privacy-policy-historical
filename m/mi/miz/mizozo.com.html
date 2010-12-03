@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mizozo.com privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604233835id_/http%3A//www.mizozo.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mizozo.com privacy policy that was archived on 2010-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203201712id_/http%3A//www.mizozo.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
@@ -16,12 +16,22 @@
 <link rel="alternate" type="application/rss+xml" title="Mizozo - Your News, Argued By You! - Privacy Policy - RSS" href="http://www.mizozo.com/rss.xml">
 
 <link href="http://www.mizozo.com/screen.css" type="text/css" rel="stylesheet" media="all">
+
+
+<link href="http://www.mizozo.com/js/lightbox/lightbox.css" type="text/css" rel="stylesheet">
+
+
 <!--[if lte IE 6]>
  <link href="http://www.mizozo.com/hacks.css" type="text/css" rel="stylesheet" media="all" />
  <style type="text/css">* html body {behavior: url(http://www.mizozo.com/hover.htc);}</style>
 <![endif]-->
+
+
+<script type="text/javascript" src="http://www.mizozo.com/js/scriptaculous/prototype.js"></script>
+<script type="text/javascript" src="http://www.mizozo.com/js/scriptaculous/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="http://www.mizozo.com/js/scriptaculous/lightbox.js"></script>
+
 <!--rating-->
-<script type="text/javascript" src="http://www.mizozo.com/js/prototype.js"></script>
 <script type="text/javascript" src="http://www.mizozo.com/js/stars.js"></script>
 <!--end rating-->
 
@@ -33,6 +43,12 @@
 @import url(http://www.mizozo.com/modal-message.css);
 </style>
 <!--modal message end-->
+
+<!--Welcome start-->
+<script>var welcomePage = 'content';</script>
+<script type="text/javascript" src="http://www.mizozo.com/js/welcomeSettings.js"></script>
+<script type="text/javascript" src="http://www.mizozo.com/js/welcome.js"></script>
+<!--Welcome end-->
 
 <!--script type="text/javascript" src="http://www.mizozo.com/js/cookie.js"></script>
 <script type="text/javascript" src="http://www.mizozo.com/js/functions.js"></script>
@@ -46,11 +62,11 @@
 <!-- ajax popup -->
 <script type="text/javascript" src="http://www.mizozo.com/js/highslide/highslide-with-html.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.mizozo.com/js/highslide/highslide.css">
-<script type="text/javascript">    
+<script type="text/javascript">
   hs.graphicsDir = 'http://www.mizozo.com/images/highslide/graphics/';
   hs.outlineType = 'rounded-white';
   hs.wrapperClassName = 'draggable-header';
-  hs.minWidth = 800; 
+  hs.minWidth = 800;
 </script>
 <!--ajax popup end-->
 <link rel="icon" href="http://www.mizozo.com/favicon.ico" type="image/x-icon">
@@ -65,7 +81,7 @@ function displayStaticMessage(messageContent,cssClass, center) {
   messageObj.setSize(433,202);
   messageObj.setCssClassMessageBox(cssClass);
   messageObj.setSource(false);  // no html source since we want to use a static message here.
-  messageObj.setShadowDivVisible(false);  // Disable shadow for these boxes 
+  messageObj.setShadowDivVisible(false);  // Disable shadow for these boxes
   if (center) {
      messageObj.setCenter();
   }
@@ -74,7 +90,7 @@ function displayStaticMessage(messageContent,cssClass, center) {
 }
 
 function closeMessage(mes, delay) {
-  messageObj.close(); 
+  messageObj.close();
   if (delay && mes) {
         displayStaticMessage(mes);
         setTimeout("closeMessage();",delay);
@@ -104,7 +120,7 @@ function on_login_click() {
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     
     <a href="http://www.mizozo.com/login" onclick="return on_login_click();">Login</a>
-    <input type="hidden" name="_allow_login" id="_allow_login" value="1">
+    <input type="hidden" name="_allow_login" id="_allow_login" value="0">
     <!--&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="http://www.mizozo.com/queue.php">Join Mizozo</a>-->
     
@@ -130,16 +146,13 @@ function on_login_click() {
     <a href="http://www.mizozo.com/top/index.html"><span><span>TOP</span></span></a>
    </li>
    <li>
-    <a href="http://www.mizozo.com/local/index.html"><span><span>LOCAL</span></span></a>
-   </li>
-   <li>
     <a href="http://www.mizozo.com/world/index.html"><span><span>WORLD</span></span></a>
    </li>
    <li>
     <a href="http://www.mizozo.com/tech/index.html"><span><span>TECH</span></span></a>
    </li>
    <li>
-    <a href="http://www.mizozo.com/arts/index.html"><span><span>ARTS</span></span></a>
+    <a href="http://www.mizozo.com/entertainment/index.html"><span><span>ENTERTAINMENT</span></span></a>
    </li>
    <li>
     <a href="http://www.mizozo.com/sports/index.html"><span><span>SPORTS</span></span></a>
@@ -147,14 +160,21 @@ function on_login_click() {
    <li>
     <a href="http://www.mizozo.com/biz/index.html"><span><span>BIZ</span></span></a>
    </li>
-   <li class="last">
+   <li>
     <a href="http://www.mizozo.com/weird/index.html"><span><span>WEIRD</span></span></a>
    </li>
-   
+   <li>
+    <a href="http://www.mizozo.com/travel/index.html"><span><span>TRAVEL</span></span></a>
+   </li>
+   <li class="last">
+    <a href="http://www.mizozo.com/health/index.html"><span><span>HEALTH</span></span></a>
+   </li>
+
    <!--<li class="line"><img src="http://www.mizozo.com/images/spacer.gif" alt="Mizozo" title="Mizozo" /></li>-->
   </ul>
   <img src="http://www.mizozo.com/images/topm/lc.gif" alt="Mizozo - Your News, Argued By You! - Privacy Policy" title="Mizozo - Your News, Argued By You! - Privacy Policy" id="topmenu_lc">
   <img src="http://www.mizozo.com/images/topm/rc.gif" alt="Mizozo - Your News, Argued By You! - Privacy Policy" title="Mizozo - Your News, Argued By You! - Privacy Policy" id="topmenu_rc">
+
 
  </div>
  <div id="inner">
@@ -349,13 +369,14 @@ function on_login_click() {
      <strong>Categories</strong>
      <div class="categories">
 <ul>
-<li><input id="get_ref_category_1" type="checkbox" name="get_ref_category[]" value="1"><label for="get_ref_category_1">&nbsp; Local</label></li>
 <li><input id="get_ref_category_2" type="checkbox" name="get_ref_category[]" value="2" checked="checked"><label for="get_ref_category_2">&nbsp; World</label></li>
 <li><input id="get_ref_category_3" type="checkbox" name="get_ref_category[]" value="3" checked="checked"><label for="get_ref_category_3">&nbsp; Tech</label></li>
-<li><input id="get_ref_category_7" type="checkbox" name="get_ref_category[]" value="7" checked="checked"><label for="get_ref_category_7">&nbsp; Arts</label></li>
+<li><input id="get_ref_category_7" type="checkbox" name="get_ref_category[]" value="7" checked="checked"><label for="get_ref_category_7">&nbsp; Entertainment</label></li>
 <li><input id="get_ref_category_25" type="checkbox" name="get_ref_category[]" value="25" checked="checked"><label for="get_ref_category_25">&nbsp; Sports</label></li>
 <li><input id="get_ref_category_27" type="checkbox" name="get_ref_category[]" value="27" checked="checked"><label for="get_ref_category_27">&nbsp; Biz</label></li>
 <li><input id="get_ref_category_28" type="checkbox" name="get_ref_category[]" value="28" checked="checked"><label for="get_ref_category_28">&nbsp; Weird</label></li>
+<li><input id="get_ref_category_37" type="checkbox" name="get_ref_category[]" value="37" checked="checked"><label for="get_ref_category_37">&nbsp; Travel</label></li>
+<li><input id="get_ref_category_38" type="checkbox" name="get_ref_category[]" value="38" checked="checked"><label for="get_ref_category_38">&nbsp; Health</label></li>
 </ul>     
       <div class="fixer" style="border-bottom: 1px solid #CCCCCC; padding-top: 10px; margin-bottom: 10px;"><img src="http://www.mizozo.com/images/spacer.gif" alt="Mizozo - Your News, Argued By You! - Privacy Policy" title="Mizozo - Your News, Argued By You! - Privacy Policy"></div>
      </div>
