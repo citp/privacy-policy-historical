@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pif43.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419234521id_/http%3A//pif43.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pif43.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203104630id_/http%3A//pif43.com/privacy.php) for the most accurate reproduction.*
 
 # PIF43
 
@@ -17,7 +17,7 @@ How does the Site use Personally Identifiable Information? We use Personally Ide
 
 How is Personally Identifiable Information stored? Personally Identifiable Information collected by PIF43 is securely stored and is not accessible to third parties. 
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at bounce@pif43.com 
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at bounced@pif43.com 
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
