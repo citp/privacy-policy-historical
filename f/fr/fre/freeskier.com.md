@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205165503id_/http%3A//www.freeskier.com/pages/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203181701id_/http%3A//www.freeskier.com/pages/privacyPolicy.php) for the most accurate reproduction.*
 
 # Freeskier Magazine: Privacy Policy
 
@@ -21,9 +21,9 @@ If you have any questions about this Statement, the practices of Freeskier.com w
 **Customer Service**  
 Freeskier.com  
 _Attn.: Privacy Statement_  
-5603 Arapahoe Avenue, Suite No. 5   
-Boulder, CO 80303  
-Fax 303.449.2427  
+P.O. Box 789  
+Niwot, CO 80544   
+Fax 303.834.9781  
 
 
 ### Registration
@@ -65,7 +65,7 @@ Freeskier.com's technology department conducts frequent site security.
 You have the following options to deactivate your information from Freeskier.com's database. This will cease deployment of future communications and/or Freeskier.com's services.
 
   1. You can send an email to the Site Administrator.
-  2. You can contact customer service at 303.449.2165.
+  2. You can contact customer service at 303.834.9775.
   3. You can change your personal options.
 
 
@@ -76,6 +76,4 @@ WARNING: Deactivating your account will result in the loss of access to Members-
 
 You also have the option of changing and modifying information previously provided. You can edit your Freeskier.com registered user information at anytime by visiting the Customer Service page.
 
-|  |    
-  
-
+|  | 
