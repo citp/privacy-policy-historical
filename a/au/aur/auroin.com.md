@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503010114id_/http%3A//www.auroin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203144631id_/http%3A//www.auroin.com/privacy-policy) for the most accurate reproduction.*
 
 # AuroIN Privacy Policy
 
