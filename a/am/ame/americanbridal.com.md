@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127094813id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203134233id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
 
 # Privacy Policy & Site Security
-
-#### We Recommend
-
-#### Useful Wedding Favors
-
-#### Fun Bridal Favors
-
-#### Memorable Guest Favors
-
-#### Unique Wedding Favors
-
-#### Gifts & Accessories
-
-#### Shop By
-
-#### Cheap Wedding Favors
-
-#### Post Wedding
-
-#### Accessories
 
 Customer satisfaction is our number one priority. To this end, site security is paramount, we use the latest technology to protect your credit card details. Our site use a Secure Server that encrypts all your order information into bits of code that are then securely transmitted over the internet. When you login as a member and proceed to the order information page you will see a padlock or key at the bottom of your browser indicating that this specific page is secure.
 
@@ -38,12 +18,12 @@ Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help anal
 
 Reliable-Fast Shipping, Top Quality Gifts, Great Customer Service
 
- **Testimonials from past customers**
+**Testimonials from past customers**
 
-  * I recently ordrered all my bridesmaid gifts from your website. I ordered a variety of [Swarovski crystal jewelry](http://www.americanbridal.com/swcrco.html). The package came in yesterday, and I just wanted to let you know ho wthrilled I am with the product! All of the jewelry is absolutely beautiful! The selection was great, the ability to order any color you'ld like is awesome, and the speediness of the delivery was excellent. I am just so happy with everything. I will definitely be telling my friends and family about your site. Keep up the great work! You have made gettign gifts such a pleasurable experience!   
-**_Bridget Jurgens._**
-  * I have to say I was very please with the merchandise & turn over time. I will recommend you to my friends! Thanks again Happy Holidays!   
-**_Rhonda Santa Rosa,Ca_**
+  * i forgot to make a selection of a style of something, and someone from the american bridal wedding store called me and helped me complete the order, and i received it very shortly after that.......i am looking forward to using this site again......   
+**_roberta a. green_**
+  * Items were nicer than I expected. Shipping notifications sent out when items were shipped and another notification that the item was delivered and where. Would deal with again if the need arises. Trustworthy merchant. 5 Stars   
+**_Kelly Rollyson_**
 
 
 
