@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divshare.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106091142id_/http%3A//www.divshare.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divshare.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203184750id_/http%3A//www.divshare.com/page/privacy) for the most accurate reproduction.*
 
 # DivShare - Web Site Privacy Statement
 
