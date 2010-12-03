@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavote.net privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617195539id_/http%3A//lacounty.info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavote.net privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203122128id_/http%3A//lacounty.info/privacy.htm) for the most accurate reproduction.*
 
 # Los Angeles County-About This Site-Privacy Policy
 
