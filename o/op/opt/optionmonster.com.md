@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the optionmonster.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218211149id_/http%3A//www.optionmonster.com/about/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionmonster.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203013526id_/http%3A//www.optionmonster.com/about/privacy_policy.jsp) for the most accurate reproduction.*
 
-# optionMONSTER: Real-time News, Webcasts, Education for Options Traders
+# optionMONSTER: Real-time News, Webcasts, Education for Options Trading
 
 THIS AGREEMENT WAS LAST UPDATED ON MAY 28, 2009. 
 
-OptionMonster® Holdings, Inc. (optionMONSTER) shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our web site with respect for you privacy concerns, and in accordance with the Privacy Policy set forth below. The following Privacy Policy describes optionMONSTER's policies concerning the use of personal information of all users collected via this web site. 
+OptionMonster® Holdings, Inc. (optionMONSTER) shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our web site with respect for your privacy concerns, and in accordance with the Privacy Policy set forth below. The following Privacy Policy describes optionMONSTER's policies concerning the use of personal information of all users collected via this web site. 
 
 This privacy policy describes how optionMONSTER (the company that created, runs and owns optionMONSTER.com) treats the personally identifiable information that is collected about you when you visit the optionMONSTER.com web site. This policy also describes our treatment of personally identifiable information about you that our business partners may share with us. 
 
