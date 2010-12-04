@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620051753id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204145200id_/http%3A//individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Individual Health Quotes Privacy Policy - Any Quote. Anytime.
 
@@ -8,7 +8,7 @@ HealthQuoteFinder believes it is important for you to know and understand how we
 
 Please note that this privacy policy only applies to this website. Other websites in the HealthQuoteFinder network may have different privacy policies.
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20100620051753id_/http%3A//www.individualhealthquotes.com/terms.html).
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20101204145200id_/http%3A//individualhealthquotes.com/terms.html).
 
 ### Services Offered By HealthQuoteFinder
 
@@ -84,7 +84,7 @@ In the event that we cannot match you with a member of our network of insurance 
 
 Please note that we have no control over and cannot be held responsible or liable for the privacy policies, if any, of our third-party partners. This includes third-party websites that link to HealthQuoteFinder, third-party websites linked from HealthQuoteFinder, any insurance agent or financial professional in our network that we match you with, any third-party network to whom we forward your information, or any member of such third-party network.
 
-Finally, your agreement with our privacy policy also allows that we may share your information with other third parties who may be able to provide you with other offers or services in which you may be interested.
+Finally, your agreement with our privacy policy also allows that we may share your information with All Inbox, LLC only for purposes of providing you via email with special offers or services in which you may be interested from IndividualHealthQuote-email.com or other third parties as we determine at our sole discretion. You may unsubscribe at any time.
 
 We reserve the right to use the data you choose to share with us for any legally permissible purpose. 
 
@@ -152,4 +152,4 @@ Chicago, IL 60611
 
 HealthQuoteFinder reserves the right to make changes and updates to this Privacy Policy at any time. It is your sole responsibility to remain aware of any such changes. In the event that there is a change to this privacy policy, such updates will be immediately reflected on this page. An updated copy of this Privacy Policy will be clearly posted and accessible on this website at all times.
 
-Last updated: February 15, 2010
+Last updated: September 22, 2010
