@@ -1,0 +1,504 @@
+<!--The following is the downloaded HTML source of the windows2universe.org privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204091925id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!-- template_regular -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy Policies</title>
+<link rel="stylesheet" type="text/css" href="/redesign/style_main.css" media="screen">
+<link rel="stylesheet" href="/redesign/print.css" type="text/css" media="print">
+<link rel="stylesheet" type="text/css" href="/redesign/colorbox.css">
+
+
+
+<!--[if lt IE 8]>
+<link rel="stylesheet" media="screen" type="text/css" href="http://www.windows2universe.org/redesign/IE7.css" /> 
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if IE 6]><link rel="stylesheet" media="screen" type="text/css" href="http://www.windows2universe.org/redesign/IE6.css" /><![endif]--> 
+<link rel="stylesheet" href="/redesign/horiz-nav.css" type="text/css" media="screen">
+<script type="text/javascript" src="/JavaScript/jquery-1.4.2.min.js"></script>
+<script type="text/JavaScript" src="/redesign/zRSS/jquery.zrssfeed.js"></script>
+<script type="text/javascript" src="/redesign/zRSS/jquery.vticker.js"></script>
+<script type="text/javascript" src="/redesign/hoverIntent/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/JavaScript/win_main_jquery.js"></script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	var feeds = ['http://nsf.gov/rss/rss_www_discoveries.xml','http://www.nasa.gov/rss/breaking_news.rss','http://feeds.feedburner.com/UsgsNewsroomPartial'];
+	for( var i=0; i<feeds.length; i++ ) {
+  	  $('#news_left').append('<div id="ticker'+i+'"> </div>');
+  	  $('#ticker'+i).rssfeed(feeds[i], { content: false }).ajaxStop(function() {
+                    $(this).find(' div.rssBody').vTicker({ showItems: 1, pause: 20000, height: 0, speed: 1000});
+   	 });
+
+	}
+
+	$('#closewindow').live( 'click', function() {
+		$('#donation_ad').hide();
+		 $.get( '/php/ad_close.php');
+	});
+ });
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-7815427952014216");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-7815427952014216", "156x90_bottom_left");
+GA_googleAddSlot("ca-pub-7815427952014216", "156x90_bottom_right");
+GA_googleAddSlot("ca-pub-7815427952014216", "156x90_top_left");
+GA_googleAddSlot("ca-pub-7815427952014216", "156x90_top_right");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+
+<script type="text/JavaScript" src="/redesign/jquery.colorbox-min.js"></script>
+<script type="text/JavaScript">
+ $(document).ready(function() {
+      
+      var len1 = $('#column_left').height();
+      var len2 = $('#column_right').height() - 65;
+      var num = Math.max( len1, len2 ) - $('#content').height()-30 ;
+      num = Math.round(num/132)-1;
+	if ( num <= 0 )  $('#features').hide();
+      else $('#features .feature').slice( num ).hide(); 
+     
+      $fwidth =  + 40; 
+      $fheight =  + 200; 
+      $('#content_image a').colorbox({transition:'elastic', speed:500, innerWidth:$fwidth,  innerHeight:$fheight, maxHeight:"100%", opacity:0.8,  iframe:true});
+      $('#content a[href*="image.html"]').not('#content_image a').colorbox({transition:'elastic', speed:500, width:"850", height:"550", opacity:0.8,  iframe:true});
+ });
+
+</script>
+
+</head>
+<body>
+<div id="frame">
+<!-- donation ad -->
+    <div id="donation_ad">
+    <img id="closewindow" src="/images/closewindow.png">
+    <img src="/images/icons/neptune_atmosphere.jpg">
+    Please help support Windows to the Universe with your <a href="/store/home.php?cat=15">donation</a> today!
+    As a free online Earth and space science educational resource, your contributions support continued website
+    development by our small staff of scientists and educators and our professional development programs for teachers.
+     <a href="/donation.html">Find out more</a> about donations to Windows to the Universe.  As a program of the
+     non-profit <a href="http://www.nestanet.org">National Earth Science Teachers Association</a> (a 501(c)(3)),
+     your contributions are tax exempt.  <a href="/store/home.php?cat=15">Pick your level of support!</a>
+    </div>
+    <div id="header">
+		<div id="logo"><a href="http://www.windows2universe.org"><img src="/images/logo.gif" border="0"></a></div>
+		
+		<div id="level_buttons">
+		  <div id="language_buttons">  <img src="/redesign/language.gif" usemap="#language" border="0">
+  <map name="language">
+  <area shape="rect" href="/privacy_policy.html&amp;lang=en" coords="14,11,61,49" alt="English">
+  <area shape="rect" href="/privacy_policy.html&amp;lang=sp" coords="64,0,118,36" alt="Spanish">
+  </map>
+</div>
+			
+		  <div id="search_form">
+		        <form method="get" action="/php/search/search_new.php">
+		  <input class="bordered" size="20" name="search_phrase">
+		  <input type="submit" name="submit" value="Search" class="search_button">
+		  <input type="hidden" name="search_level" value="high">
+		  <input type="hidden" name="edu" value="high">
+		  <input type="hidden" name="lang" value="en">
+		  </form>
+		  <div id="member_link"><a href="/membership.html">Become a Member</a></div>
+		  </div>
+		</div>
+		<div id="nesta_blurb"><a href="http://www.nestanet.org">Brought to you by the National Earth Science Teachers Association</a></div>
+    </div>
+    <div id="enclose">
+     <!--  <div id="links_main"> -->
+          <ul id="topnav"><li><a href="/sun/sun.html" class="parentLink">Sun</a>
+<div class="sub"><ul><li><a href="/sun/solar_interior_new.html">Interior </a>
+</li><li><a href="/sun/solar_atmosphere.html">Atmosphere</a>
+</li><li><a href="/sun/solar_activity.html">Activity</a>
+</li><li><a href="/sun/atmosphere/sunspots.html">Sunspots</a>
+</li><li><a href="/sun/sun_polar_regions.html">Poles</a>
+</li><li><a href="/sun/atmosphere/solar_eclipse.html">Eclipses</a>
+</li><li><a href="/sun/sun_magnetic_field.html">Magnetic Field</a>
+</li><li><a href="/physical_science/physics/radiation.html">Radiation</a>
+</li><li><a href="/sun/fate.html">Fate</a>
+</li><li><a href="/mythology/planets/sun.html">Culture</a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/space_weather/space_weather.html">Space Weather</a>
+</li><li class="more_item"><a href="/sun/sun_il.html">Multimedia</a>
+</li><li class="more_item"><a href="/sun/recent_images.html">Recent Images</a>
+</li><li class="more_item"><a href="/sun/mission.html">Missions</a>
+</li><li class="more_item"><a href="/sun/statistics.html">Facts</a>
+</li><li class="more_item"><a href="/php/headline_universe/solar_system/sun_news.php">News</a>
+</li><li class="more_item"><a href="/sun/links.html">Links</a>
+</li></ul></li></ul></div></li><li><a href="/earth/earth.html" class="parentLink">Earth</a>
+<div class="sub"><ul><li><a href="/earth/interior_surface.html">Interior/Surface</a>
+</li><li><a href="/earth/Atmosphere/overview.html">Atmosphere</a>
+</li><li><a href="/earth/Magnetosphere/overview.html">Magnetosphere</a>
+</li><li><a href="/earth/moons_and_rings.html">Moon</a>
+</li><li><a href="/earth/polar/polar.html">Poles</a>
+</li><li><a href="/earth/climate/climate.html">Climate</a>
+</li><li><a href="/earth/Water/overview.html">Water</a>
+</li><li><a href="/earth/Life/life.html">Life</a>
+</li><li><a href="/mythology/planets/Earth/earth.html">Myth</a>
+</li><li><a href="/earth/research_expeditions.html">Exploration</a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/earth/ess1.html">Earth System</a>
+</li><li class="more_item"><a href="/earth/statistics.html">Facts</a>
+</li><li class="more_item"><a href="/php/gallery/gallery.php?id=7">Multimedia</a>
+</li><li class="more_item"><a href="/earth/links.html">Links</a>
+</li><li class="more_item"><a href="/php/headline_universe/earth_science/earth_news.php">News</a>
+</li><li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+</li></ul></li></ul></div></li><li><a href="/our_solar_system/solar_system.html" class="parentLink">Solar System</a>
+<div class="sub"><ul><li><a href="/our_solar_system/solar_system_1.html">Formation</a>
+</li><li><a href="/sun/sun.html">Sun</a>
+</li><li><a href="/our_solar_system/planets.html">Planets</a>
+</li><li><a href="/our_solar_system/dwarf_planets/dwarf_planets.html">Dwarf Planets</a>
+</li><li><a href="/our_solar_system/asteroids.html">Asteroids</a>
+</li><li><a href="/our_solar_system/meteors/meteors.html">Meteors</a>
+</li><li><a href="/comets/comets.html">Comets</a>
+</li><li><a href="/our_solar_system/solar_system_poles.html">Poles </a>
+</li><li><a href="/mythology/planets/planets.html">Culture</a>
+</li><li><a href="/our_solar_system/discovery.html">Discovery</a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/comets/Kuiper_belt.html">Kuiper Belt</a>
+</li><li class="more_item"><a href="/our_solar_system/reference_data.html">Facts</a>
+</li><li class="more_item"><a href="/php/headline_universe/solar_system/solar_system.php">News</a>
+</li><li class="more_item"><a href="/php/gallery/gallery.php?id=66">Multimedia</a>
+</li><li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+</li></ul></li></ul></div></li><li><a href="/the_universe/the_universe.html" class="parentLink">Space</a>
+<div class="sub"><ul><li><a href="/the_universe/uts/ast_history.html">History</a>
+</li><li><a href="/the_universe/uts/intro.html">Our Sky</a>
+</li><li><a href="/the_universe/Constellations/constnavi.html">Constellations</a>
+</li><li><a href="/the_universe/sky_maps.html">Sky Maps</a>
+</li><li><a href="/the_universe/Stars.html">Stars</a>
+</li><li><a href="/the_universe/Stars/exoplanets.html">Exoplanets </a>
+</li><li><a href="/the_universe/Strange.html">Strange Stuff</a>
+</li><li><a href="/the_universe/Galaxy.html">Galaxies</a>
+</li><li><a href="/the_universe/Cosmology.html">Cosmos</a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/the_universe/Nebula.html">Star Dust</a>
+</li><li class="more_item"><a href="/php/headline_universe/universe/universe_news.php">News</a>
+</li><li class="more_item"><a href="/php/gallery/gallery.php?id=78">Multimedia</a>
+</li><li class="more_item"><a href="/the_universe/links.html">Links</a>
+</li><li class="more_item"><a href="/space_missions/space_missions.html">Missions</a>
+</li><li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+</li></ul></li></ul></div></li><li><a href="/physical_science/sciences.html" class="parentLink">Sciences</a>
+<div class="sub"><ul><li><a href="/earth/geology/geology.html">Geology</a>
+</li><li><a href="/physical_science/physics/physics.html">Physics</a>
+</li><li><a href="/physical_science/chemistry/chemistry.html">Chemistry</a>
+</li><li><a href="/earth/Life/biology.html">Biology</a>
+</li><li><a href="/olpa/nsf_olpa_portal.html">Research</a>
+</li><li><a href="/people/people.html">Scientists</a>
+</li><li><a href="/earth/research_expeditions.html">Expeditions</a>
+</li><li><a href="/people/scientific_process.html">Scientific Process </a>
+</li><li><a href="/cool_stuff/tour_evolution_0.html">Evolution</a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/teacher_resources/main/frameworks/frameworks_main.html">Frameworks </a>
+</li><li class="more_item"><a href="/teacher_resources/sci_schools/ss_home.html">Scientists in Schools</a>
+</li></ul></li></ul></div></li><li><a href="/mythology/myths_stories_art.html" class="parentLink">Culture</a>
+<div class="sub"><ul><li><a href="/mythology/mythology.html">Myth</a>
+</li><li><a href="/art_and_music/storyfolk.html">Stories</a>
+</li><li><a href="28&#10;">Poetry</a>
+</li><li><a href="/php/poetry_pictures/poetry_pictures.php">Poetry &amp; Pictures</a>
+</li><li><a href="/art_and_music/books.html">Books</a>
+</li><li><a href="/art_and_music/films.html">Movies</a>
+</li><li><a href="/art_and_music/cloud_art/cloud_art_main.html">Clouds in Art</a>
+</li><li><a href="/art_and_music/art_archive.html">Mythology Art </a>
+</li><li><a href="/mythology/links.html">Links</a>
+</li><li><a href="/art_and_music/people_art_archive.html">People Art </a>
+</li></ul></div></li><li><a href="/people/people.html" class="parentLink">People</a>
+<div class="sub"><ul><li><a href="/people/ancient_epoch.html">Ancient</a>
+</li><li><a href="/people/middle_ages.html">Middle Ages</a>
+</li><li><a href="/people/ren_epoch.html">Renaissance</a>
+</li><li><a href="/people/enlightenment.html">Enlightenment </a>
+</li><li><a href="/people/modern_era.html">Modern Era</a>
+</li><li><a href="/people/today.html">Today</a>
+</li><li><a href="/people/astronauts.html">Astronauts</a>
+</li><li><a href="/people/scientific_process.html">Scientific Process</a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/people/blogs/scientist.html">Blogs</a>
+</li><li class="more_item"><a href="/people/observatory.html">The Observatory</a>
+</li><li class="more_item"><a href="/bio/bio_entry.html">Windows People</a>
+</li><li class="more_item"><a href="/coloring_book/index_people.html">Coloring Book</a>
+</li><li class="more_item"><a href="/people/links.html">Links</a>
+</li></ul></li></ul></div></li><li><a href="/games/games.html" class="parentLink">Games</a>
+<div class="sub"></div></li><li><a href="/teacher_resources/main/teacher_resources.html" class="parentLink">Teachers</a>
+<div class="sub"><ul><li><a href="/teacher_resources/main/gccepdn_main.html">Web Seminars</a>
+</li><li><a href="/teacher_resources/main/frameworks/frameworks_main.html">Frameworks</a>
+</li><li><a href="/teacher_resources/main/activity.html">Activities</a>
+</li><li><a href="javascript:wb_onclick();">Journal</a>
+</li><li><a href="/teacher_resources/main/w2u_workshops.html">Workshops</a>
+</li><li><a href="/teacher_resources/main/enewsletter.html"> E-Newsletter</a>
+</li><li><a href="/olpa/nsf_olpa_portal.html">Research </a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/teacher_resources/sci_schools/ss_home.html">Scientists in Schools</a>
+</li><li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+</li><li class="more_item"><a href="/teacher_resources/online_courses/courses_content_menu.html">Online Courses Content Pages</a>
+</li><li class="more_item"><a href="/teacher_resources/main/edu_links.html">Links</a>
+</li></ul></li></ul></div></li><li><a href="/more_links.html" class="parentLink">more...</a>
+<div class="sub"><ul><li><a href="/space_weather/space_weather.html">Space Weather</a>
+</li><li><a href="/headline_universe/headline_universe.html">News</a>
+</li><li><a href="/olpa/nsf_olpa_portal.html">Research</a>
+</li><li><a href="/multimedia_gallery/multimedia_gallery.html">Multimedia</a>
+</li><li><a href="/people/postcards/postcards_menu.html">Postcards</a>
+</li><li><a href="/kids_space/kids_space.html">Kids' Space</a>
+</li><li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
+</li></ul></div></li></ul>
+    <!--  </div> --> <!-- links_main -->
+     <!--  <div id="links_sub"> </div> -->
+	<div id="column_left">
+            <div id="links_left">
+	                       <!-- AddThis Button BEGIN -->
+		<script type="text/javascript">
+			var addthis_config = { ui_click: true };
+			 
+	         </script>
+             <div id="share" class="addthis_toolbox addthis_default_style">
+                <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c44c1d374d06de9" class="addthis_button">Share this page</a>
+                </div>
+		  
+                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c44c1d374d06de9"></script>
+                <!-- AddThis Button END -->
+              <ul><li><a href="/sun/sun.html">Sun</a>
+</li><li><a href="/earth/earth.html">Earth</a>
+</li><li><a href="/our_solar_system/solar_system.html">Solar System</a>
+</li><li><a href="/the_universe/the_universe.html">Space</a>
+</li><li><a href="/physical_science/sciences.html">Sciences</a>
+</li><li><a href="/mythology/myths_stories_art.html">Culture</a>
+</li><li><a href="/people/people.html">People</a>
+</li><li><a href="/games/games.html">Games</a>
+</li><li><a href="/teacher_resources/main/teacher_resources.html">Teachers</a>
+</li><li><a href="/space_weather/space_weather.html">Space Weather</a>
+</li><li><a href="/headline_universe/headline_universe.html">News</a>
+</li><li><a href="/olpa/nsf_olpa_portal.html">Research</a>
+</li><li><a href="/multimedia_gallery/multimedia_gallery.html">Multimedia</a>
+</li><li><a href="/people/postcards/postcards_menu.html">Postcards</a>
+</li><li><a href="/kids_space/kids_space.html">Kids' Space</a>
+</li><li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
+</li></ul>
+            </div> <!-- links_left -->
+            
+            <div id="news_left">
+ 	     	     <div id="ticker"> <h4><a href="/multimedia_gallery/rss_feeds.html">RSS Feeds</a></h4> </div> 
+	    <div id="ticker0" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker1" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker2" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div></div>
+            <div id="blogs">    <h4>Science Blogs</h4>
+    <p><a href="http://www.realclimate.org/" target="_blank">Real Climate: climate science from climate scientists</a>
+    </p><p><a href="http://starstuff.blogspot.com/" target="_blank">Star Stuff: science news from an astronomer's perspective</a>
+    </p><p><a href="http://classic.globe.gov/fsl/scientistsblog/" target="_blank">Global Learning and Observations to Benefit the Environment</a>
+    </p><p><a href="http://d-farmer.blogspot.com/" target="_blank">A scientist's life on field campaigns</a></p></div>
+            <div id="sponsors" class="highlight">
+            <img src="/redesign/sponsors1.jpg" usemap="#m_sponsors1" border="0"><br>Generous sponsorship of Windows to the Universe is provided by the Hewlett Foundation, the American Geological Institute, the American Geophysical Union, the National Science Foundation, NASA, NCAR, and the CISM and CMMAP projects.<img src="/redesign/sponsors2.jpg" align="center" usemap="#m_sponsors2" border="0">
+    <map name="m_sponsors2">
+    <area shape="rect" coords="96,30,120,55" href="http://www.nasa.gov" target="_blank" title="NASA" alt="NASA">
+    <area shape="rect" coords="14,30,43,56" href="http://www.cmmap.org/index.html" target="_blank" title="CMMAP" alt="CMMAP">
+    <area shape="rect" coords="45,33,91,52" href="http://www.agu.org" title="AGU" alt="AGU">
+    <area shape="rect" coords="80,11,130,28" href="http://www.bu.edu/cism/" target="_blank" title="CISM" alt="CISM">
+    <area shape="rect" coords="18,10,78,29" href="http://www.ncar.ucar.edu" target="_blank" title="NCAR" alt="NCAR">
+    </map>
+    <map name="m_sponsors1">
+    <area shape="rect" coords="87,7,144,32" href="http://www.hewlett.org" target="_blank" title="Hewlett" alt="Hewlett">
+    <area shape="rect" coords="46,6,79,37" href="http://www.agiweb.org/" target="_blank" title="AGI" alt="AGI">
+    <area shape="rect" coords="4,4,37,38" href="http://www.nsf.gov" target="_blank" title="NSF" alt="NSF">
+</map>      
+        </div>
+
+    	</div> <!-- column_left -->
+
+      <div id="column_main">
+	
+            <div id="content">
+		 
+ 	      
+<h1>Privacy Policy</h1> 
+  	      <p><b>Updated: October 19, 2010</b></p><p>
+</p><p>The websites of the Windows to the Universe ("W2U") and the National Earth Sciences Teachers Association ("NESTA") (collectively, the "W2U websites") are operated by NESTA. This Privacy Policy covers use of information collected by the W2U websites.</p>
+<p>We are devoted to providing entertaining, and safe websites for everyone, and to safeguarding personal information collected on the W2U websites. We ensure that our privacy policy and our information practices adhere to the United States Children's Online Privacy Protection Act, and other applicable data privacy laws. This Privacy Policy describes the information practices of the W2U websites.</p>
+<p><b>1.	The Information We Collect From All W2U Website Users</b></p>
+<p>As described in this Privacy Policy, for certain benefits such as subscriptions to free newsletters, the W2U websites collect certain personally identifiable information ("PII") so that we may deliver the newsletters or other benefits. Also, for certain benefits and services, including memberships and purchases, we collect financial information as set out in Section 4 of this Privacy Policy. We do not use this financial information except to process payments. The financial information that you enter to purchase a membership or products is not stored by W2U or NESTA, but, instead, is retained by our payment processor for the purpose of processing credit card payments made to W2U or NESTA. Without such personal information, the W2U websites cannot provide you with W2U membership, or newsletter and may not be able to provide access to certain content and functionality on the W2U website, or to provide other information, products or services which may be requested.</p>
+
+<p>For some of our online activities, such as surveys, we may ask users to provide information that is not personally identifiable, such as country of residence or age. Also, when visitors go to our sites, we may passively collect certain non-personally identifiable computer data, such as the type of computer operating system (e.g., Windows XP or Mac OS), the user's IP Address, the web browser (e.g., Internet Explorer, Netscape), how often users visit various sections of our sites, and data regarding the Internet service provider. We collect this information to make our sites more interesting and effective for you and as well as for various purposes related to our operations. We may collect this non-personally identifiable information through the use of technologies such as unique identifiers or "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. You can choose to turn off all cookies, but if you do, you will not have access to many features that make your Web experience smoother, and some of our services may not function properly.</p>
+<p><b>2.	The Information We Collect from Children Under 13</b></p>
+<p>Our procedures for collecting, using, and disclosing personal information from children under 13 vary depending on the service or benefit, and we never condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in that activity.</p> 
+
+<p>For the "Ask a Scientist" section of the W2U websites, we request only the child's first name, age, and email address. We collect the e-mail address for the sole purpose of responding directly on a one-time basis to a specific inquiry, and then delete it. We also post the question and the response with only the child's first name and age.</p>
+
+<p>For certain classroom applications, teachers store students' names and email addresses on the W2U websites. For these applications, teachers have represented to the W2U websites that they or their institution have obtained the permission of the student's parents.</p>
+
+<p>For activities which require a child to register with the W2U websites for free services, we require the child to provide a parent's valid email address in order to register. We use this information to send the parent a communication that can be used to activate the W2U account, to send the parent communications about the parent's and child's W2U accounts or about elements of our sites, and for other purposes set forth in this Privacy Policy.</p> 
+
+<p>For example, before a child under 13 can receive our free newsletter, we directly collect from the child during our initial registration process a parent's email address in order for us to contact the parent for permission to provide the newsletter to the child. We will then request from the parent the child's name and confirmation of the email address to which the free newsletter should be sent (if different from the parent's email address). </p>
+
+<p>When a child requests a paid membership, we collect additional PII from the child's parent including the parent's full name, email address, and credit card billing information including mailing address. </p>
+<p><b>3.	How We Use, Disclose, and Store the Information We Collect</b></p>
+<p>In addition to the purposes described in Sections 1 and 2, we may collect and use email addresses and user names to track usage. We may also use email addresses and user names to permit parents to review PII that the children have submitted to the W2U websites and to provide notification regarding the site, such as membership renewal information. We also may use information in the aggregate to analyze site usage, as well as to offer products, programs, or services.</p>
+
+<p>We may disclose information where we are required to do so by law, for example, in response to a court order or a subpoena, or where we disclose information to service providers or other group companies who provide support for the operations of our website and who do not use or disclose the information for any other purpose. To the extent permitted by applicable law, we also may disclose PII in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child using our website, protect the security or integrity of our website, or enable us to take precautions against liability.</p>
+
+<p>If we transfer all or part of our assets or are otherwise involved in a merger of some type, we may transfer PII to a third party as part of that transaction, to the extent permitted by applicable law.</p>
+
+<p>Finally, the W2U websites are hosted in the United States, and all PII will be stored in the United States.</p> 
+<p><b>4.	Financial Information</b></p>
+<p>If you decide to purchase membership or products from our online store, we require that at the time of purchase you provide your full name (or your parent's full name, if you are a minor), your email address, and your credit card billing information including your mailing address. Your credit card number is not retained by W2U, and, instead, is collected and stored by our payment processor for the purpose of processing payments made to W2U. That information is safeguarded with appropriate security, and it will not be used for other purposes. Furthermore, our payment processor has agreed to maintain the confidentiality, security, and integrity of the personal and financial information it obtains from the W2U website, and only to use this information on our behalf. Our financial institution is bound by all applicable privacy laws relating to the provision of financial services.</p>
+<p><b>5.	Security</b></p>
+<p>The security of your personal information is very important. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and use the information we collect online appropriately. When you submit sensitive information, such as your credit card number, we encrypt that information using secure socket layer technology.</p>
+<p><b>6.	Access to Information</b></p>
+<p>Please contact the National Earth Sciences Teachers Association if you would like to access the PII that we have collected online from you or your child, correct factual errors in such information, request to have this information deleted, or request that we no longer collect or maintain such information.</p>
+
+<p>Please include your email address and a telephone number where we can reach you. To protect you and your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about you or your child.</p>
+<p><b>7.	Contact Us</b></p>
+If you have questions, please send an e-mail to webmaster@windows2universe.org or write us:<br>
+National Earth Sciences Teachers Association<br>
+4041 Hanover Street, Suite 100<br>
+Boulder, CO 80305<p></p>
+<p><b>8.	Effective Date</b></p>
+<p>The privacy policy set out above is effective as of October 19, 2010, and applies to all information previously obtained by the W2U websites. We reserve the right to change the privacy policy at our sole discretion, and we will inform you of any such change by posting a new privacy policy on the W2U websites along with the effective date. We will also obtain consent to uses of PII in ways that are materially different from the ones described in this Privacy Policy. </p>
+ 
+ 
+ 
+
+        
+		<div id="last_updated">Last modified November 3, 2010 by <a href="/bio/julia.html">Julia Genyuk</a>.</div>   
+  		<div id="adsense_content"><script type="text/javascript"><!--
+google_ad_client = "pub-7815427952014216";
+/* 468x60, created 9/13/10 */
+google_ad_slot = "8530453839";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+	    </div> <!-- content-->
+
+	<div id="announce">
+    <strong>News Flash!</strong><ul style="padding-left:10px">
+<li><strong>Now everyone can <a href="/membership.html">become a Member</a> of Windows to the Universe</strong> and get access to 
+<a href="/gen_member_benefits.html">special services, opportunities, and discounts</a>!</li>
+<li><strong>If this website is valuable to you, please help <a href="/donation.html">support Windows to the Universe</a> through your tax deductible <a href="/store/home.php?cat=15">donation</a>! </strong>   
+</li><li><strong><a href="/offers.html">Special Offers</a> for Windows to the Universe Educator Members!</strong> 
+Opportunity for US teachers to join Climate Education Program (only 50 slots available - application deadline December 31, 2010!  Slots will be filled on a first come, first served basis). Free National Fossil Day (October 13) CD and Free 2009 Earth Science Kits on Climate Change - Just pay S&amp;H.  
+    Members - login and click <a href="/offers.html">Special Offers</a> to order.  Not a member -  <a href="/php/registration/reg_check_email_new.php?lang=en">Join today</a>!
+</li></ul></div>
+	
+
+	    
+		<div id="features" style="display: none;">
+                    <h2>You might also be interested in:</h2><div class="feature"><a href="/store/product.php?productid=54"><img src="/images/tes25_3.jpg" width="155"></a><h2><a href="/store/product.php?productid=54">The Earth Scientist, Volume XXV, Issue 3, Fall 2009</a></h2>The Fall 2009 issue of The Earth Scientist includes a collection of Earth and Space Science articles for you, covering the current efforts to save Louisiana’s Lake Pontchartrain, student research into building design as it relates to earthquake damage, an exciting Earth Science project and resource from the United Kingdom<a class="more" href="/store/product.php?productid=54">...more</a></div><div class="feature"><a href="/bibliography.html"><img src="/teacher_resources/images/frozenfilm1_sm.jpg" width="155"></a><h2><a href="/bibliography.html">Bibliography Information</a></h2>Thank you for visiting Windows to the Universe. Windows to the Universe has been in development since 1995. Over the years, there have been many writers of the pages on the site. Most pages have been worked<a class="more" href="/bibliography.html">...more</a></div><div class="feature"><a href="/sponsor.html"><img src="/earth/images/earth_at_night_sm.jpg" width="155"></a><h2><a href="/sponsor.html">Please Support Windows to the Universe!</a></h2>Donation, Sponsorship, Partnerships This image shows the lights on Earth as seen in darkness from a satellites orbiting our planet. Click on image for full size Image courtesy of NASA, DMSP, and NOAA NGDC.<a class="more" href="/sponsor.html">...more</a></div><div class="feature"><a href="/edu_membership.html"><img src="/teacher_resources/images/IMG_1557.jpg" width="155"></a><h2><a href="/edu_membership.html">Regular Educator Memberships on Windows to the Universe</a></h2>The Windows to the Universe team will be offering memberships for all educators by 1 September 2010 which will provide access to new website capabilities and services, as well as access to an ad-free version<a class="more" href="/edu_membership.html">...more</a></div>
+		</div> <!-- features -->
+	    
+        </div> <!-- column_main -->
+    </div> <!-- enclose -->
+       
+    <div id="column_right">
+        <div id="shop" class="highlight">
+        <h2>Shop Windows to the Universe</h2><a href="/store/product.php?productid=49" target="_blank"><img src="/store/images/eudialyte.jpg" height="90" border="0"></a>This <a href="/store/product.php?productid=49&amp;cat=12&amp;page=1">eudialyte pendant and earrings</a> are available in our <a href="/store/home.php">online store</a>, along with other <a href="/store/home.php?cat=12">jewelry</a>, <a href="/store/home.php?cat=9">minerals</a>, <a href="/store/home.php?cat=10">fossils</a>, <a href="/store/home.php?cat=7">classroom materials</a>, and <a href="/store/home.php?cat=11">household items</a>.        
+        </div>
+        <div id="login">
+	        <h2>Please log in</h2>
+        <form method="post" action="https://www.windows2universe.org/php/registration/reg_login_new.php">
+        Username:<br><input size="17" name="login" class="bordered"><br>
+        Password:<br><input size="17" name="password" type="password" class="bordered">
+        <br><input type="submit" name="submit" value="Log in" class="login_button"> 
+        <input type="hidden" name="lang" value="en">
+        <input type="hidden" name="location" value="/privacy_policy.html">
+        </form>
+        <p><a href="/membership.html">Become a member</a>
+        </p></div>       
+        <div id="google_mockup">
+	<script type="text/javascript"><!--
+google_ad_client = "pub-7815427952014216";/* 160x600 new palette, created 8/3/10 */
+ google_ad_slot = "2114124271";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        </div>
+                <div class="dfp_ad">
+	<!-- ca-pub-7815427952014216/156x90_top_right -->
+        <script type="text/javascript">
+        GA_googleFillSlot("156x90_top_right");
+        </script>
+	</div>
+	<div class="dfp_ad">
+	<!-- ca-pub-7815427952014216/156x90_bottom_right -->
+        <script type="text/javascript">
+        GA_googleFillSlot("156x90_bottom_right");
+        </script>
+	</div>
+                    <div class="dfp_ad">
+		<!-- ca-pub-7815427952014216/156x90_top_left -->
+		<script type="text/javascript">
+		GA_googleFillSlot("156x90_top_left");
+		</script>
+		</div>		<div class="dfp_ad">
+		<!-- ca-pub-7815427952014216/156x90_bottom_left -->
+		<script type="text/javascript">
+		GA_googleFillSlot("156x90_bottom_left");
+		</script>
+		</div>
+    </div> <!-- column_right -->
+
+    <div id="footer">
+  <div id="adsense_bottom">
+   <script type="text/javascript"><!--
+google_ad_client = "pub-7815427952014216";
+/* 728x90 with images, created 9/29/10 */
+google_ad_slot = "3073203671";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   </div>
+        <div id="footer_content">
+          <ul>
+          <li><a href="/about_windows.html">About Us</a></li>
+          <li><a href="/comments/comments.html">Contact Us</a></li>
+          <li><a href="/disclaimer.html">Disclaimers</a></li>
+          <li><a href="/image_linking.html">Policies</a></li>
+          <li><a href="/copyright.html">Copyright</a></li>
+          <li><a href="/donation.html">Donate</a></li>
+          <li><a href="/advertising.html">Advertise</a></li>
+          <li><a href="/credits.html">Credits</a></li>
+          <li><a href="/privacy_policy.html">Privacy Policy</a></li>
+          <li><a href="/bibliography.html">Bibliography</a></li>
+          </ul>
+        </div>
+<div id="copyright">The source of this material is <em>Windows to the Universe</em>, at <a href="http://windows2universe.org">http://windows2universe.org/</a> from the <a href="http://nestanet.org">National Earth Science Teachers Association (NESTA)</a>. The Website was developed in part with the support of <a href="http://www.ucar.edu">UCAR</a> and <a href="http://www.ncar.ucar.edu">NCAR</a>, where it resided from 2000 - 2010.  © 2010 National Earth Science Teachers Association. <em>Windows to the Universe</em>® is a registered trademark of NESTA. All Rights Reserved. See our <a href="/copyright.html">copyright and licenses</a> page for information about how you can use our materials.<a href="/image_linking.html">Site policies</a> and <a href="/disclaimer.html">disclaimer.</a></div>
+    </div>
+</div> <!-- frame -->
+
+<img src="/bug/privacy_policy.html" width="1" height="1">
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-674DE8hxF_rfA"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-674DE8hxF_rfA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<!-- Start Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var benchmarkTracker = _gat._getTracker("UA-5033010-1");
+benchmarkTracker._trackPageview();
+
+var pageTracker = _gat._getTracker("UA-8361503-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- End Google Analytics -->
+
+</body></html>
