@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516121304id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204082312id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
 
 # Weplay
 
