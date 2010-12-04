@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmaterial.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502005559id_/http%3A//coolmaterial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmaterial.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204042347id_/http%3A//coolmaterial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cool Material
 
