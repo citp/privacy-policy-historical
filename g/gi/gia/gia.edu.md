@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527140910id_/http%3A//www.gia.edu/nav/footer/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204051804id_/http%3A//www.gia.edu/nav/footer/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
