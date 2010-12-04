@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331131352id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1%26PID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204072245id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1%26PID%3D) for the most accurate reproduction.*
 
-# Paid online surveys for money and free online paid opinion surveys - American Consumer Opinion
+# American Consumer Opinion Privacy Policy for Online Surveys
 
 |   
 ---  
@@ -9,7 +9,7 @@ This Privacy Policy was last updated on March 14, 2003.
 At American Consumer Opinion®, we believe that you, our members, have an inalienable right to privacy. We protect your privacy and anonymity by adhering to these standards: 
 
   * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm) as developed by the U.S. Department of Commerce in consultation with the European Commission.
-  * [Children's Online Privacy Protection Rule](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/) issued by the Federal Trade Commission (FTC).
+  * [Children's Online Privacy Protection Rule](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) issued by the Federal Trade Commission (FTC).
 
 We recognize that some of the information we request from you is personal and sensitive, and requires trust on your part. We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us.
 
@@ -97,17 +97,17 @@ Back to top
 
 Back to top
 
-You may "opt out" of giving personal information at anytime when taking a survey. You may also [update or delete](https://www.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=) your personal information at any time. 
+You may "opt out" of giving personal information at anytime when taking a survey. You may also [update or delete](https://a21.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=14285033) your personal information at any time. 
 
   * Once you join our panel and receive invitations to complete surveys, you are under no obligation to complete those surveys. You can simply choose not to respond.
   * If you start taking a survey and are asked questions you do not wish to respond to, you may simply stop taking the survey at any point.
-  * Once you have registered, you may safely [update or delete](https://www.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=) your membership (and all of your personal data) online at any time.
+  * Once you have registered, you may safely [update or delete](https://a21.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=14285033) your membership (and all of your personal data) online at any time.
 
 
 
 Back to top
 
-  * American Consumer Opinion® and Decision Analyst, Inc., in compliance with the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/), do not accept registrations from children under 14.
+  * American Consumer Opinion® and Decision Analyst, Inc., in compliance with the [Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html), do not accept registrations from children under 14.
   * We do not directly advertise or market to children.
   * From time to time we may have a survey available for children, but we will not directly contact any children under 14. For these surveys we will contact the parents who are members of the panel and ask them to give consent for the child to complete the screener or survey.
 
@@ -165,6 +165,8 @@ Phone numbers:
 Toll-free, 1-800-262-5974  
 International, 1-817-640-6166  
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20ACOP%20Privacy%20Policy)
+
+If you wish to unsubscribe, please click [here](https://www.acop.com/Members/Members_Login.aspx?L=1&PID=). Deleting your account could take up to 10 days for your request to be processed, so please disregard any emails you receive from us in the meantime. 
 
 For more information about Internet privacy and the privacy guidelines we follow: 
 
