@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsroll.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504031108id_/http%3A//www.picsroll.com/2008/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsroll.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204115236id_/http%3A//www.picsroll.com/2008/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Pics Roll - Interesting pictures, images, videos, Wallpapers and funny sketches
 
