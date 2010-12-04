@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retweet.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004424id_/http%3A//www.retweet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retweet.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204142817id_/http%3A//www.retweet.com/privacy) for the most accurate reproduction.*
 
 # Retweet.com | News for the People, by the People!
 
@@ -10,7 +10,7 @@ Your use of the Website and any personal information you provide on the Website 
 
 Please note that any comment or other content you post or send to the Website becomes published content and is not considered personally identifiable information subject to this Privacy Policy. Your messages and other information you make available in public areas of the [retweet.com](http://retweet.com/) website will be seen by people and organizations not related to or controlled by [retweet.com](http://retweet.com/), and may be used by others to contact you.
 
-[Retweet.com](http://retweet.com/) Privacy Policy applies only to Websites and services that are owned and operated by Mesiab Labs llc. While other Websites may be displayed as links from within [retweet.com](http://retweet.com/), those sites are owned and operated by others, and they may have different privacy policies. When linking from [retweet.com](http://retweet.com/) to other websites, if you have privacy concerns, we urge you to review the privacy policies of those sites.
+[Retweet.com](http://retweet.com/) Privacy Policy applies only to Websites and services that are owned and operated by Burleigh Operations LTD. While other Websites may be displayed as links from within [retweet.com](http://retweet.com/), those sites are owned and operated by others, and they may have different privacy policies. When linking from [retweet.com](http://retweet.com/) to other websites, if you have privacy concerns, we urge you to review the privacy policies of those sites.
 
   1. Information Collection and Use General 
 
@@ -62,7 +62,7 @@ This Privacy Policy was last modified August 19th, 2009.
 
   9. Contact Information 
 
-If you have any questions or comments about this Privacy Policy, Please contact: retweet@mesiablabs.com
+If you have any questions or comments about this Privacy Policy, Please contact: david@retweet.com
 
 
 
