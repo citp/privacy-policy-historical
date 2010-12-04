@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525111745id_/http%3A//www.societyforscience.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204234444id_/http%3A//www.societyforscience.org/page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Society for Science & the Public
 
