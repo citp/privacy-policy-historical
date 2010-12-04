@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609041058id_/http%3A//aionline.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204072007id_/http%3A//aionline.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for The Art Institute of Pittsburgh Online Division
 
