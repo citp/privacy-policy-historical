@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524064020id_/http%3A//pages.ebay.com.sg/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204034054id_/http%3A//pages.ebay.com.sg/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
