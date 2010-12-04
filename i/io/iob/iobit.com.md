@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113032054id_/http%3A//www.iobit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204165226id_/http%3A//www.iobit.com/privacy.html) for the most accurate reproduction.*
 
 # IObit - Privacy
 
-IObit Privacy Policy  
+| 
+
+#### IObit Privacy Policy
+
 Last Updated: July 10, 2006
 
 IObit is committed to protecting your privacy. Please read the IObit Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular IObit sites and services that you may use.
 
 This IObit Online Privacy Statement applies to data collected by IObit through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those IObit sites, services and products that do not display or link to this statement or that have their own privacy statements.
 
-If you have any questions about this Policy, please feel free to  [ contact us.](https://web.archive.org/web/20100113032054id_/http%3A//www.iobit.com/contact.html)
+If you have any questions about this Policy, please feel free to  [ contact us.](https://web.archive.org/web/20101204165226id_/http%3A//www.iobit.com/contact.html)
 
 ** Collection of Your Personal Information**
 
@@ -94,4 +97,42 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 ** Contacting Us**
 
-IObit welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [ contact us.](https://web.archive.org/web/20100113032054id_/http%3A//www.iobit.com/contact.html)
+IObit welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [ contact us.](https://web.archive.org/web/20101204165226id_/http%3A//www.iobit.com/contact.html)
+
+|  |  |  | 
+
+#### Media Review  
+  
+---  
+Setting up this suite took little time. An install Wizard queries the user on primary PC use and type of Internet connection. Answer those two simple questions, choose from a short list of options, and you're ready to virus check and scan for spyware, registry errors, and start-up problems, or clean your PC of history and surfing traces. Scans are easily implemented individually or together with a single click." 
+
+  
+
+
+www.cnet.com  
+  
+  
+
+
+* * *
+
+  
+  
+
+
+* * *
+
+  
+
+
+#### Join Our Newsletter  
+  
+---  
+Join IObit Newsletter - please enter your email address here. Privacy Guaranteed!   
+  
+
+
+* * *
+
+  
+
