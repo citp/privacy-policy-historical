@@ -1,0 +1,176 @@
+<!--The following is the downloaded HTML source of the reversenumberdatabase.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204112639id_/http%3A//www.reversenumberdatabase.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+   <title>Reverse Phone Number Lookup | ReverseNumberDatabase.com</title>
+
+<meta name="description" content="Reverse phone number lookup provides official records by phone number. Results include owner info, address history, and more">
+
+	<meta http-equiv="Content-Type" content="text/xhtml; charset=UTF-8">
+	<meta name="keywords" content="reverse phone lookup, phone lookup, phone records, reverse phone, phone search, reverse phone search ">
+	
+	<link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/css/commentstyles.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/mailer/dd-formmailer.css" type="text/css" media="screen">
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.reversenumberdatabase.com/feed/">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+	<script type="text/javascript" src="/js/includes.js"></script>
+	<script type="text/javascript" src="/js/format.js"></script>
+
+	
+	<script type="text/javascript">
+	  var geocoder;
+	  var map;
+	  function initialize() {
+	    geocoder = new google.maps.Geocoder();
+	    var latlng = new google.maps.LatLng(38.7681702, -96.4503434);
+
+	    var myOptions = {
+	      zoom: 11,
+	      center: latlng,
+	      disableDefaultUI: true,
+	      scrollwheel: false,
+	      draggable:false,
+	      streetViewControl:false,
+	      mapTypeId: google.maps.MapTypeId.TERRAIN
+	    }
+
+	    map = new google.maps.Map(document.getElementById("searchResultsMap"), myOptions);
+	
+	    var address = document.getElementById("address").value;
+
+	    geocoder.geocode( { 'address': address}, function(results, status) {
+	      if (status == google.maps.GeocoderStatus.OK) {
+	        map.setCenter(results[0].geometry.location);
+	        var marker = new google.maps.Marker({
+	            map: map, 
+	            position: results[0].geometry.location
+	        });
+		var contentString = '<div style="font-size:.9em">' +
+        'Owner Name: <a style="font-weight:bold" href="/checkout?phone=">Click Here</a>' +
+        '<br/>Location: '+
+        '<br/>Phone Type: ' +
+	'</div>';
+
+var infowindow = new google.maps.InfoWindow({
+        content: contentString
+    });
+
+	infowindow.open(map,marker);
+
+
+		var circle = new MapCircleOverlay(results[0].geometry.location,5, 1,"#330000", 0.8,  "#ff0000", 0.35);
+
+		circle.setMap(map);
+	      } 
+	    });
+
+	  }
+	</script>
+</head>
+ 
+<body>
+	
+<div id="allSite">
+    <div id="home_top_nav"> </div>
+    <br class="clearfloat">
+    <div id="site_tb"></div>
+    <div id="site_sidebr">
+    	
+    	<div id="head_block">
+
+	<div id="home_logo">
+		<a href="/"><img alt="ReverseNumberDatabase.com: Reverse Phone Lookup Made Easy" src="/images/logo.png"></a>
+	</div>
+
+	<div id="reginfo">
+	<a href="/feed/"><img src="/images/icon-rss.png" height="20"></a>	
+	</div>
+																			
+	 <div id="primary_nav_container">
+                <div class="mainmenu">
+                        <a id="nav1" href="/"> <span class="navHeader">Home</span> </a>
+                </div>
+                <div class="mainmenu">
+                        <a id="nav2" href="/browse"> <span class="navHeader">Area Code Information</span> </a>
+                </div>
+                <div class="mainmenu">
+                        <a id="nav3" href="/resources"> <span class="navHeader">Resources</span> </a>
+                </div>
+                <div class="mainmenu">
+                        <a id="nav4" href="http://members.reversenumberdatabase.com/customer/login.php"> <span class="navHeader">Members Area</span></a>
+                </div>
+                <div class="mainmenu">
+                        <a id="nav5" href="/support"> <span class="navHeader">Support</span> </a>
+                </div>
+        </div>
+
+
+
+        </div>    
+
+        <div class="clearfloat"> </div>    
+    
+
+	<div id="dashboard_main_content">
+	<div id="main_content">
+
+	<br>
+	<br>
+      <p align="center"></p><h2 class="section_title">Privacy Policy</h2><p></p> 
+
+    <p>We take your privacy very seriously, and we’ve taken many steps to help safeguard your online information. This Privacy Policy describes how we treat information received by and about you when you visit www.reversenumberdatabase.com (the “Website”)</p> 
+    <p><b>Information Collection and Use:</b></p> 
+    <p><b>Log Files </b><i>reversenumberdatabase.com</i> automatically and through third-party tracking services (e.g., Google Analytics) gathers certain non-personally identifiable information about your use of the Website and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole, to improve the content of our website and the quality of our service. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information. </p> 
+    <p><b>Cookies</b> A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use the site, and enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. Your web browser will usually provide a method of removing tracking cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p> 
+    <p align="center"><b>Information Disclosure</b></p> 
+    <p><b>Security</b> Except as explained above, <i>reversenumberdatabase.com </i>will not share your personally identifiable information, with third parties without your consent. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.</p> 
+    <p><b>Legal Disclaimer </b><i>reversenumberdatabase.com </i>reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site. </p>
+
+
+	</div>
+	<br class="clearfloat">
+		</div>    
+    
+		<div id="home_footer">
+																						<ul>
+				<li class="first">									
+					<a class="lnk_styl" href="/">Home</a>
+				</li>
+				<li>									
+					<a class="lnk_styl" href="/about">About Us</a>
+				</li>
+<!--
+				<li>									
+					<a class="lnk_styl" href="/contact">Contact Us</a>
+				</li>
+-->
+				<li>									
+					<a class="lnk_styl" href="/privacy">Privacy</a>
+				</li>
+				<li>									
+					<a class="lnk_styl" href="/terms">Terms of Use</a>
+				</li>
+			</ul>
+			
+			<img alt="" height="19" width="738" src="/images/footer_line.gif">
+			<div>
+				<div>
+				</div>
+			</div>
+		</div>
+	</div>     
+	<div id="site_bb"></div>
+</div>
+
+<script src="http://static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">clicky.init(249411);</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/249411ns.gif" /></p></noscript> 
+
+
+
+
+
+</body></html>
