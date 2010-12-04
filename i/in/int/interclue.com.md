@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interclue.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031917id_/http%3A//interclue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interclue.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204160830id_/http%3A//interclue.com/privacy.html) for the most accurate reproduction.*
 
 # Interclue: Privacy Policy
 
-## The Interclue Privacy Policy 1.0, 27 Dec 2007
+## The Interclue Privacy Policy 1.0.1
 
   1. 1\. General principles 
     1. Interclue Ltd has complete respect for your right to both privacy and security, and we believe that civilised people do not spy on other people's browsing habits.
@@ -18,9 +18,11 @@
     1. The Interclue team hates, loathes and despises spam. We do not require you to give us your email address, and we will never send you unsolicited email. If you subscribe to one of our discussion or announcement mailing lists, unsubscribing will be just as easy.
   7. 7\. Optional use of live third-party metadata. 
     1. To provide you with valuable third-party metadata, it is necessary to send the URL you are interested in to the metadata provider. Interclue does not submit any personally identifiable information along with this, but the metadata provider may be using their own cookies in some cases. These providers are separated out on the metaclue options tab, and any site that is on your "private" list (which by default includes secure sites and local network IP addresses) does not have URLs submitted to third-party metadata services. 
-  8. 8\. Our website. 
+  8. 7.1 
+    1. Interclue "Inline Clues" contact third party APIs upon pageload of certain pages, currently the Google, Bing, and Yahoo search result pages. Inline clues can be disabled using the small grey [x] after they appear, or in the Interclue options. The current inline clues are Search Refinements from SurfCanyon ([Privacy Policy](http://www.surfcanyon.com/privacy)) and Tags from Delicious ([Privacy Policy](http://info.yahoo.com/privacy/us/delicious/)). 
+  9. 8\. Our website. 
     1. We log information regarding usage of our website, as do most websites, but again this is anonymous data used only in the aggregate to help guide our site development.
-  9. 9\. Evolution. 
+  10. 9\. Evolution. 
     1. Interclue is an evolving product. By installing the add-on, you agree to the terms of this Privacy Policy as it may be amended from time to time. We cannot email you when the terms change, because we do not collect your email addresses, but we will announce it on our blog and elsewhere, make a note in the changelog, and update the date on the policy, which is also available on the "About" tab of the options dialog in the Interclue add-on.
 
 
