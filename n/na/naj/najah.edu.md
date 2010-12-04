@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609160124id_/http%3A//www.najah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204071240id_/http%3A//www.najah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : An-Najah National University : Palestine
 
@@ -52,5 +52,4 @@ If you have any questions or concerns about an-najah online policy for this site
 
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
-Number of Views 9561  
-[](http://www.najah.edu/modules/content.php?ID=805&l=en&print)
+Number of Views 11663
