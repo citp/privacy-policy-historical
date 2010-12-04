@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628222612id_/http%3A//www.goldentours.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204201830id_/http%3A//www.goldentours.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # London Bus Tours, Sightseeing Tours by Coach & Rail, Paris Tours - Golden Tours - Gray Line London
 
